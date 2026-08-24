@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026",
+  "parent_id": null,
+  "title": "Fearnleys Week 31 2026",
+  "section_path": [
+    "Fearnleys Week 31 2026"
+  ],
+  "section_path_text": "Fearnleys Week 31 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fearnleys Week 31 2026\n**Broker**: General Broker\n**Published Date**: 30/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-31-2026/](https://www.hellenicshippingnews.com/fearnleys-week-31-2026/)\n\nMarket Report Content\nFearnleys\nWeekly Report\nWeek 31 - July 29, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nPetrobras continue to face the brunt of the volatility that this market has to offer. They\nfixed 50 points down and 40 points up, all within a span of 2 weeks. Owners who are\nable to transit the Gulf of Aden, albeit with conditions have done well with being able\nto achieve WS 297.5 for Red Sea to Korea voyage.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3157,
+  "source_path": "reports/broker_reports/2026/general_broker_30_07_2026_fearnleys_week_31_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/fearnleys-week-31-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026__s01_fearnleys_week_31_2026",
+      "doc_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026__root",
+      "title": "Fearnleys Week 31 2026",
+      "section_path": [
+        "Fearnleys Week 31 2026"
+      ],
+      "section_path_text": "Fearnleys Week 31 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 30/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-31-2026/](https://www.hellenicshippingnews.com/fearnleys-week-31-2026/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/fearnleys-week-31-2026",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-30_general_broker_30_07_2026_fearnleys_week_31_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fearnleys\nWeekly Report\nWeek 31 - July 29, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nPetrobras continue to face the brunt of the volatility that this market has to offer. They\nfixed 50 points down and 40 points up, all within a span of 2 weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3080,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi__root",
+  "doc_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi",
+  "parent_id": null,
+  "title": "Intermodal Weekly Market Report Week 30 2026 Broker's Insight",
+  "section_path": [
+    "Intermodal Weekly Market Report Week 30 2026 Broker's Insight"
+  ],
+  "section_path_text": "Intermodal Weekly Market Report Week 30 2026 Broker's Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Intermodal Weekly Market Report Week 30 2026 Broker's Insight\n**Broker**: Intermodal\n**Published Date**: 29/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/)\n\nMarket Report Content\nWeekly Market Report\nwww.intermodal.gr\n1\nWeek 30 | Tuesday 28th July 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nThe Middle East conflict entered a new phase following the\nHouthis' imposition of a naval blockade against Saudi Arabia, add-\ning to geopolitical uncertainty. Beyond attacks on vessels, recent\nreports that a Houthi strike forced the 400,000 -bpd Jazan oil re-\nfinery to halt operations demonstrate that the Houthis are also\nwilling to target energy infrastructure. This escalation comes at a time when Saudi Arabia increasingly\nrelies on its west coast to maintain commodity exports following\nthe disruption of traffic through the Strait of Hormuz.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8166,
+  "source_path": "reports/broker_reports/2026/intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi.md",
+  "source_url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi__s01_intermodal_weekly_market_report_week_30_2026_broker_s_insight",
+      "doc_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi__root",
+      "title": "Intermodal Weekly Market Report Week 30 2026 Broker's Insight",
+      "section_path": [
+        "Intermodal Weekly Market Report Week 30 2026 Broker's Insight"
+      ],
+      "section_path_text": "Intermodal Weekly Market Report Week 30 2026 Broker's Insight",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Intermodal\n**Published Date**: 29/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight",
+        "broker",
+        "date",
+        "intermodal",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-07-29_intermodal_29_07_2026_intermodal_weekly_market_report_week_30_2026_broker_s_insi__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Weekly Market Report\nwww.intermodal.gr\n1\nWeek 30 | Tuesday 28th July 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nThe Middle East conflict entered a new phase following the\nHouthis' imposition of a naval blockade against Saudi Arabia, add-\ning to geopolitical uncertainty. Beyond attacks on vessels, recent\nreports that a Houthi strike forced the 400,000 -bpd Jazan oil re-\nfinery to halt operations demonstrate that the Houthis are also\nwilling to target energy infrastructure.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8066,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

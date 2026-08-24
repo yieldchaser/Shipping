@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31__root",
+  "doc_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31",
+  "parent_id": null,
+  "title": "Star Asia Shipbroking Weekly Market Report - WEEK 31",
+  "section_path": [
+    "Star Asia Shipbroking Weekly Market Report - WEEK 31"
+  ],
+  "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 31",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Star Asia Shipbroking Weekly Market Report - WEEK 31\n**Broker**: General Broker\n**Published Date**: 03/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/)\n\nMarket Report Content\nSTAR ASIA | WEEKLY MARKET REPORT Week 31 | August 1st, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 31 · August 1st, 2026\nMARKET OVERVIEW\nDaily merchant vessel crossings through the Strait of Hormuz have begun to recover from recent lows,\nsupported in part by active naval escort operations aimed at safeguarding energy exports. Recent\ntracking data highlights a notable uptick in transit volumes, marked by the open departure of Qatar's first\nLNG shipment in several weeks alongside specialised gas carriers navigating with dark transponders. While security risks in the Persian Gulf remain fluid following recent military exchanges, daily energy\noutflows have stabilised near six and a half million barrels.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8337,
+  "source_path": "reports/broker_reports/2026/general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31.md",
+  "source_url": "https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31__s01_star_asia_shipbroking_weekly_market_report_week_31",
+      "doc_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31",
+      "parent_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31__root",
+      "title": "Star Asia Shipbroking Weekly Market Report - WEEK 31",
+      "section_path": [
+        "Star Asia Shipbroking Weekly Market Report - WEEK 31"
+      ],
+      "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 31",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 03/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31",
+      "parent_id": "broker_reports_broker_report_2026-08-03_general_broker_03_08_2026_star_asia_shipbroking_weekly_market_report_week_31__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "STAR ASIA | WEEKLY MARKET REPORT Week 31 | August 1st, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 31 · August 1st, 2026\nMARKET OVERVIEW\nDaily merchant vessel crossings through the Strait of Hormuz have begun to recover from recent lows,\nsupported in part by active naval escort operations aimed at safeguarding energy exports. Recent\ntracking data highlights a notable uptick in transit volumes, marked by the open departure of Qatar's first\nLNG shipment in several weeks alongside specialised gas carriers navigating with dark transponders.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8243,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

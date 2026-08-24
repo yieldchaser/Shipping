@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly__root",
+  "doc_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "CLARKSONS HELLAS - SnP WEEKLY\n**Broker**: General Broker\n**Published Date**: 14/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-5/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-5/)\n\nMarket Report Content\nClarkson Hellas Ltd. Desk Talk\nEven with the expected seasonal slowdown we are seeing healthy activity in the S&P market, with\nseveral transactions recorded and ongoing negotiations. With the Strait of Hormu z tensions continuing to shape market sentiment.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "china",
+    "india",
+    "coal",
+    "any",
+    "usd",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2168,
+  "source_path": "reports/broker_reports/2026/general_broker_14_08_2026_clarksons_hellas_snp_weekly.md",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-5/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly__s01_clarksons_hellas_snp_weekly",
+      "doc_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly__root",
+      "title": "CLARKSONS HELLAS - SnP WEEKLY",
+      "section_path": [
+        "CLARKSONS HELLAS - SnP WEEKLY"
+      ],
+      "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 14/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-5/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-5/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-5",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-08-14_general_broker_14_08_2026_clarksons_hellas_snp_weekly__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Desk Talk\nEven with the expected seasonal slowdown we are seeing healthy activity in the S&P market, with\nseveral transactions recorded and ongoing negotiations. With the Strait of Hormu z tensions continuing to shape market sentiment.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "container",
+        "china",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2084,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

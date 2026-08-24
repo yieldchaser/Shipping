@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought__root",
+  "doc_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought",
+  "parent_id": null,
+  "title": "Gibson tanker report - Diesel Drought",
+  "section_path": [
+    "Gibson tanker report - Diesel Drought"
+  ],
+  "section_path_text": "Gibson tanker report - Diesel Drought",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gibson tanker report - Diesel Drought\n**Broker**: General Broker\n**Published Date**: 18/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/](https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/)\n\nMarket Report Content\nin Weekly Shipbrokers Reports\n18/07/2026\nWith the Middle East crisis at the forefront of everyone's minds, a second, more slowly building supply shock has flown somewhat\nSource: GIBSON SHIPBROKERS LTD",
+  "keywords": [
+    "products",
+    "broker",
+    "gibson",
+    "https",
+    "shipbrokers",
+    "source",
+    "www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought",
+    "building",
+    "content",
+    "crisis",
+    "date",
+    "diesel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 131,
+  "source_path": "reports/broker_reports/2026/general_broker_18_07_2026_gibson_tanker_report_diesel_drought.md",
+  "source_url": "https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought__s01_gibson_tanker_report_diesel_drought",
+      "doc_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought",
+      "parent_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought__root",
+      "title": "Gibson tanker report - Diesel Drought",
+      "section_path": [
+        "Gibson tanker report - Diesel Drought"
+      ],
+      "section_path_text": "Gibson tanker report - Diesel Drought",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 18/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/](https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/)",
+      "keywords": [
+        "products",
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought",
+        "date",
+        "general",
+        "published",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought",
+      "parent_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_gibson_tanker_report_diesel_drought__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "in Weekly Shipbrokers Reports\n18/07/2026\nWith the Middle East crisis at the forefront of everyone's minds, a second, more slowly building supply shock has flown somewhat\nSource: GIBSON SHIPBROKERS LTD",
+      "keywords": [
+        "shipbrokers",
+        "building",
+        "crisis",
+        "east",
+        "everyone",
+        "flown",
+        "forefront",
+        "gibson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

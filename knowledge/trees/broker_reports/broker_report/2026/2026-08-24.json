@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34__root",
+  "doc_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34",
+  "parent_id": null,
+  "title": "Star Asia Shipbroking Weekly Market Report - WEEK 34",
+  "section_path": [
+    "Star Asia Shipbroking Weekly Market Report - WEEK 34"
+  ],
+  "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 34",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Star Asia Shipbroking Weekly Market Report - WEEK 34\n**Broker**: General Broker\n**Published Date**: 24/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/)\n\nMarket Report Content\nSTAR ASIA | WEEKLY MARKET REPORT Week 34 | August 21st, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 34 · August 21st, 2026\nMARKET OVERVIEW\nInternational traders are adopting innovative logistical strategies to bypass mounting bottlenecks and\nrecord-breaking transit costs at the Panama Canal. With drought conditions linked to an intensifying\nweather pattern lowering local water reserves and prompting authorities to restrict daily passage\nallocations, the cost to secure immediate transit slots for larger gas carriers surged to unprecedented\nheights of US$4.6 million. To avoid these exorbitant expenses, major energy corporations are increasingly\ndeploying cargo transfers off the Pacific entrance near Balboa.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8262,
+  "source_path": "reports/broker_reports/2026/general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34.md",
+  "source_url": "https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34__s01_star_asia_shipbroking_weekly_market_report_week_34",
+      "doc_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34",
+      "parent_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34__root",
+      "title": "Star Asia Shipbroking Weekly Market Report - WEEK 34",
+      "section_path": [
+        "Star Asia Shipbroking Weekly Market Report - WEEK 34"
+      ],
+      "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 34",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 24/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34",
+      "parent_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_star_asia_shipbroking_weekly_market_report_week_34__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "STAR ASIA | WEEKLY MARKET REPORT Week 34 | August 21st, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 34 · August 21st, 2026\nMARKET OVERVIEW\nInternational traders are adopting innovative logistical strategies to bypass mounting bottlenecks and\nrecord-breaking transit costs at the Panama Canal. With drought conditions linked to an intensifying\nweather pattern lowering local water reserves and prompting authorities to restrict daily passage\nallocations, the cost to secure immediate transit slots for larger gas carriers surged to unprecedented\nheights of US$4.6 million.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8168,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026",
+  "parent_id": null,
+  "title": "Xclusiv Shipbrokers Weekly 20th July 2026",
+  "section_path": [
+    "Xclusiv Shipbrokers Weekly 20th July 2026"
+  ],
+  "section_path_text": "Xclusiv Shipbrokers Weekly 20th July 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 20th July 2026\n**Broker**: Xclusiv\n**Published Date**: 21/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/)\n\nMarket Report Content\nBeyond the Chokepoint: How Gulf Producers Are Hedg-\ning Against Hormuz\nThe renewed escalation in the Middle East has again\nplaced the Strait of Hormuz at the centre of the energy\nand shipping debate, but this time the discussion is mov-\ning beyond war -risk premiums and temporary rerouting. Following the latest exchange of attacks, the escalation of\ntension and President Trump's proposal for a 20% charge\non cargoes transiting Hormuz, which eventually was tak-\nen back, the market is being forced to price not only the\nrisk of physical disruption, but also the possibility that the\nworld's most important oil chokepoint becomes a more\nexpensive and politically managed corridor. Owners, charterers and insurers are\nalready operating in an environment where every Gulf fixture carries a wider risk assessment, while the prospect of a\nformalised transit charge would further increase the cost of lifting ",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8436,
+  "source_path": "reports/broker_reports/2026/xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026__s01_xclusiv_shipbrokers_weekly_20th_july_2026",
+      "doc_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026__root",
+      "title": "Xclusiv Shipbrokers Weekly 20th July 2026",
+      "section_path": [
+        "Xclusiv Shipbrokers Weekly 20th July 2026"
+      ],
+      "section_path_text": "Xclusiv Shipbrokers Weekly 20th July 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Xclusiv\n**Published Date**: 21/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url",
+        "xclusiv"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-21_xclusiv_21_07_2026_xclusiv_shipbrokers_weekly_20th_july_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Beyond the Chokepoint: How Gulf Producers Are Hedg-\ning Against Hormuz\nThe renewed escalation in the Middle East has again\nplaced the Strait of Hormuz at the centre of the energy\nand shipping debate, but this time the discussion is mov-\ning beyond war -risk premiums and temporary rerouting. Following the latest exchange of attacks, the escalation of\ntension and President Trump's proposal for a 20% charge\non cargoes transiting Hormuz, which eventually was tak-\nen back, the market is being forced to price not only the\nrisk of physical disruption, but also the possibility that the\nworld's most important oil chokepoint becomes a more\nexpensive and politically managed corridor.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8337,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

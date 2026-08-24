@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:09:26Z",
+  "generated_at": "2026-08-24T17:02:43Z",
   "counts": {
     "breakwave": {
       "drybulk": 208,
@@ -22,6 +22,12 @@
       "vessel_valuations": 267,
       "demolition": 793,
       "shipbuilding": 373
+    },
+    "broker_reports": {
+      "broker_report": 84
+    },
+    "poten": {
+      "tankers": 30
     },
     "books": {
       "book": 12
@@ -52,6 +58,12 @@
     },
     "books": {
       "book": "reports"
+    },
+    "broker_reports": {
+      "broker_report": "reports/broker_reports"
+    },
+    "poten": {
+      "tankers": "reports/poten"
     }
   }
 }

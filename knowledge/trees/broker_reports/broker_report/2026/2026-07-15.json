@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi__root",
+  "doc_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi",
+  "parent_id": null,
+  "title": "Intermodal Weekly Market Report Week 28 2026 Broker's Insight",
+  "section_path": [
+    "Intermodal Weekly Market Report Week 28 2026 Broker's Insight"
+  ],
+  "section_path_text": "Intermodal Weekly Market Report Week 28 2026 Broker's Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Intermodal Weekly Market Report Week 28 2026 Broker's Insight\n**Broker**: Intermodal\n**Published Date**: 15/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/)\n\nMarket Report Content\nWeekly Market Report\nwww.intermodal.gr\n1\nWeek 28 | Tuesday 14th July 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nThe MoU between Washington and Tehran in mid -June, which set\nout a 60 -day framework for reaching a final settlement, briefly\nraised hopes that the Hormuz crisis was moving toward a stable\nresolution. Over the past week,\nrenewed Iranian attacks on commercial vessels transiting the\nstrait, prompted Washington to reinstate the oil export sanctions\nsuspended under the agreement. The ceasefire effectively col-\nlapsed as the US and Iran exchanged airstrikes, commercial ship-\nping came under renewed attack, Tehran again declared Hormuz\nclosed and vessel traffic fell sharply, reversing the recovery in\ntransits recorded in late June and early July.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8157,
+  "source_path": "reports/broker_reports/2026/intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi.md",
+  "source_url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi__s01_intermodal_weekly_market_report_week_28_2026_broker_s_insight",
+      "doc_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi__root",
+      "title": "Intermodal Weekly Market Report Week 28 2026 Broker's Insight",
+      "section_path": [
+        "Intermodal Weekly Market Report Week 28 2026 Broker's Insight"
+      ],
+      "section_path_text": "Intermodal Weekly Market Report Week 28 2026 Broker's Insight",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Intermodal\n**Published Date**: 15/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight",
+        "broker",
+        "date",
+        "intermodal",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-07-15_intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Weekly Market Report\nwww.intermodal.gr\n1\nWeek 28 | Tuesday 14th July 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nThe MoU between Washington and Tehran in mid -June, which set\nout a 60 -day framework for reaching a final settlement, briefly\nraised hopes that the Hormuz crisis was moving toward a stable\nresolution. Over the past week,\nrenewed Iranian attacks on commercial vessels transiting the\nstrait, prompted Washington to reinstate the oil export sanctions\nsuspended under the agreement.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8057,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low__root",
+  "doc_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low",
+  "parent_id": null,
+  "title": "Gibson tanker report - Running Low",
+  "section_path": [
+    "Gibson tanker report - Running Low"
+  ],
+  "section_path_text": "Gibson tanker report - Running Low",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gibson tanker report - Running Low\n**Broker**: General Broker\n**Published Date**: 15/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/](https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/)\n\nMarket Report Content\nin Weekly Shipbrokers Reports\n15/08/2026\nPanama Canal auction prices have hit record highs this month, driven by falling El Nino.",
+  "keywords": [
+    "broker",
+    "gibson",
+    "https",
+    "shipbrokers",
+    "source",
+    "www.hellenicshippingnews.com/gibson-tanker-report-running-low",
+    "auction",
+    "canal",
+    "content",
+    "date",
+    "driven",
+    "falling"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 120,
+  "source_path": "reports/broker_reports/2026/general_broker_15_08_2026_gibson_tanker_report_running_low.md",
+  "source_url": "https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low__s01_gibson_tanker_report_running_low",
+      "doc_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low",
+      "parent_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low__root",
+      "title": "Gibson tanker report - Running Low",
+      "section_path": [
+        "Gibson tanker report - Running Low"
+      ],
+      "section_path_text": "Gibson tanker report - Running Low",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 15/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/](https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/gibson-tanker-report-running-low",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low",
+      "parent_id": "broker_reports_broker_report_2026-08-15_general_broker_15_08_2026_gibson_tanker_report_running_low__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "in Weekly Shipbrokers Reports\n15/08/2026\nPanama Canal auction prices have hit record highs this month, driven by falling El Nino.",
+      "keywords": [
+        "shipbrokers",
+        "auction",
+        "canal",
+        "driven",
+        "falling",
+        "gibson",
+        "highs",
+        "hit"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

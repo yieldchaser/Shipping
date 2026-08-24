@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024__root",
+  "doc_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024",
+  "parent_id": null,
+  "title": "Day of the Seafarer 2024",
+  "section_path": [
+    "Day of the Seafarer 2024"
+  ],
+  "section_path_text": "Day of the Seafarer 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Day of the Seafarer 2024\n**Broker**: General Broker\n**Published Date**: 25/06/2024\n**Source URL**: [https://www.hellenicshippingnews.com/day-of-the-seafarer-2024/](https://www.hellenicshippingnews.com/day-of-the-seafarer-2024/)\n\nMarket Report Content\nin Recent Videos\n25/06/2024\nVideo message from Arsenio Dominguez, IMO Secretary-General, on this year's campaign which looks at seafarers' contribution to making the maritime sector a safer workplace.",
+  "keywords": [
+    "broker",
+    "https",
+    "source",
+    "www.hellenicshippingnews.com/day-of-the-seafarer-2024",
+    "arsenio",
+    "campaign",
+    "content",
+    "contribution",
+    "date",
+    "day",
+    "dominguez",
+    "general"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 131,
+  "source_path": "reports/broker_reports/2024/general_broker_25_06_2024_day_of_the_seafarer_2024.md",
+  "source_url": "https://www.hellenicshippingnews.com/day-of-the-seafarer-2024/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024__s01_day_of_the_seafarer_2024",
+      "doc_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024",
+      "parent_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024__root",
+      "title": "Day of the Seafarer 2024",
+      "section_path": [
+        "Day of the Seafarer 2024"
+      ],
+      "section_path_text": "Day of the Seafarer 2024",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 25/06/2024\n**Source URL**: [https://www.hellenicshippingnews.com/day-of-the-seafarer-2024/](https://www.hellenicshippingnews.com/day-of-the-seafarer-2024/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/day-of-the-seafarer-2024",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024",
+      "parent_id": "broker_reports_broker_report_2024-06-25_general_broker_25_06_2024_day_of_the_seafarer_2024__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "in Recent Videos\n25/06/2024\nVideo message from Arsenio Dominguez, IMO Secretary-General, on this year's campaign which looks at seafarers' contribution to making the maritime sector a safer workplace.",
+      "keywords": [
+        "arsenio",
+        "campaign",
+        "contribution",
+        "dominguez",
+        "imo",
+        "imohq",
+        "looks",
+        "making"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 54,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

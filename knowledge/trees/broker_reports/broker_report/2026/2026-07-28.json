@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026",
+  "parent_id": null,
+  "title": "Xclusiv Shipbrokers Weekly 27th July 2026",
+  "section_path": [
+    "Xclusiv Shipbrokers Weekly 27th July 2026"
+  ],
+  "section_path_text": "Xclusiv Shipbrokers Weekly 27th July 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 27th July 2026\n**Broker**: Xclusiv\n**Published Date**: 28/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-27th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-27th-july-2026/)\n\nMarket Report Content\nSaudi Arabia's Energy Pivot Faces a New Threat\nThe latest escalation in the Red Sea highlights how quickly\ngeopolitical risk can reshape global energy trade and ship-\nping patterns. Over the past two years, much of the mar-\nket's attention has focused on the Strait of Hormuz as the\nworld's most critical oil chokepoint. However, Saudi Ara-\nbia's strategic response has gradually reduced its depend-\nence on that corridor by dramatically increasing crude\nexports through its Red Sea terminal at Yanbu.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8485,
+  "source_path": "reports/broker_reports/2026/xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-27th-july-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026__s01_xclusiv_shipbrokers_weekly_27th_july_2026",
+      "doc_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026__root",
+      "title": "Xclusiv Shipbrokers Weekly 27th July 2026",
+      "section_path": [
+        "Xclusiv Shipbrokers Weekly 27th July 2026"
+      ],
+      "section_path_text": "Xclusiv Shipbrokers Weekly 27th July 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Xclusiv\n**Published Date**: 28/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-27th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-27th-july-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-27th-july-2026",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url",
+        "xclusiv"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-28_xclusiv_28_07_2026_xclusiv_shipbrokers_weekly_27th_july_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Saudi Arabia's Energy Pivot Faces a New Threat\nThe latest escalation in the Red Sea highlights how quickly\ngeopolitical risk can reshape global energy trade and ship-\nping patterns. Over the past two years, much of the mar-\nket's attention has focused on the Strait of Hormuz as the\nworld's most critical oil chokepoint.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8386,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
