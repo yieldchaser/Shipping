@@ -1,0 +1,227 @@
+- source_id: "allied_shipbroking"
+  name: "Allied Shipbroking (Allied QuantumSea)"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Tankers", "Macro/Commodities"]
+  description: "Allied QuantumSea is the research arm of Allied Shipbroking, providing highly regarded weekly market reviews, S&P transaction data, and macro commentary. Their reports capture cyclical sentiment, ton-mile shifts, and demolition trends across the dry bulk and tanker fleets."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.hellenicshippingnews.com/category/reports/"
+  sample_report_urls:
+    - "https://cyprusshippingnews.com/wp-content/uploads/2026/06/ALLIED-Weekly-Market-Report-Week-22.pdf"
+    - "https://www.hellenicshippingnews.com/wp-content/uploads/2023/10/Allied-Weekly-Market-Review-Week-39.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Weekly S&P vessel transaction prices"
+    - "Demolition $/LDT scrap prices"
+    - "Ton-mile & voyage distance commentary"
+    - "Newbuilding orderbook percentages"
+  ingestion_feasibility_score: 9
+
+- source_id: "banchero_costa"
+  name: "Banchero Costa Shipbrokers"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Containers", "Macro/Commodities"]
+  description: "Banchero Costa is a premier Italian shipbroking firm known for its exhaustive, data-dense weekly dry bulk market reports. Their analyses frequently delve into specific trade route ton-mile geometries, vessel speeds, and commodity export volumes from major hubs like Brazil and Australia."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.hellenicshippingnews.com/category/reports/"
+  sample_report_urls:
+    - "https://www.hellenicshippingnews.com/wp-content/uploads/2024/07/Bancosta-Weekly-2024-27.pdf"
+    - "https://globalmaritimehub.com/wp-content/uploads/2021/07/Bancosta-Weekly-2021-25.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Ton-mile & voyage distance commentary"
+    - "Vessel average operating speeds"
+    - "Commodity export volumes (coal, iron ore, grain)"
+    - "Demolition activity & fleet growth metrics"
+  ingestion_feasibility_score: 9
+
+- source_id: "gibson_shipbrokers"
+  name: "Gibson Shipbrokers"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Tankers", "LNG/LPG"]
+  description: "Gibson Shipbrokers is a leading London-based tanker broker providing specialized weekly tanker and S&P market reports. Their research focuses heavily on VLCC/Suezmax/Aframax earnings, geopolitical risk premiums (e.g., Hormuz, Bab el-Mandeb), and crude oil trade dislocations."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.gibsons.co.uk/"
+  sample_report_urls:
+    - "https://www.gibsons.co.uk/wp-content/uploads/2023/09/1498-1.pdf"
+    - "https://safety4sea.com/wp-content/uploads/2018/04/Gibson-Shipbrokers-Imperfect-Storm-Weekly-Tanker-Market-Report-2018_04.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "1Y / 3Y Time Charter rates"
+    - "VLCC / Suezmax / Aframax TCE earnings"
+    - "Crude oil trade flow volumes"
+    - "Geopolitical risk premiums & STS transfer hubs"
+  ingestion_feasibility_score: 8
+
+- source_id: "intermodal_shipbrokers"
+  name: "Intermodal Shipbrokers"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers"]
+  description: "Intermodal is a prominent Greek shipbroking firm that publishes a comprehensive weekly market report spanning dry, wet, and container segments. Their reports include detailed newbuilding orderbooks, secondhand sale fixtures, and chartering activity summaries with strong numerical density."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.intermodal.gr/service/market-intelligence/"
+  sample_report_urls:
+    - "https://www.hellenicshippingnews.com/wp-content/uploads/2025/07/Intermodal-Report-Week-30-2025.pdf"
+    - "https://www.hellenicshippingnews.com/wp-content/uploads/2024/12/Intermodal-Report-Week-51-2024.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Weekly S&P vessel transaction prices"
+    - "Newbuilding orderbook volumes"
+    - "Time Charter fixtures"
+    - "Scrap / Demolition prices"
+  ingestion_feasibility_score: 9
+
+- source_id: "xclusiv_shipbrokers"
+  name: "Xclusiv Shipbrokers"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers"]
+  description: "Xclusiv Shipbrokers provides highly readable, macro-focused weekly market reports that bridge the gap between global commodity trade and shipping fundamentals. They frequently highlight ton-mile impacts of geopolitical diversions and specific commodity harvest pacers."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.xclusivshipbrokers.com/"
+  sample_report_urls:
+    - "https://www.hellenicshippingnews.com/wp-content/uploads/2023/04/xclusiv_weekly_2023_04_18.pdf"
+    - "https://www.hellenicshippingnews.com/wp-content/uploads/2023/02/xclusiv_weekly_2023_02_28.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Ton-mile & voyage distance commentary"
+    - "Orderbook percentage of global fleet"
+    - "Commodity harvest & export pacers"
+    - "Freight rate spot estimates"
+  ingestion_feasibility_score: 9
+
+- source_id: "signal_ocean_insights"
+  name: "Signal Ocean Insights & Market Monitors"
+  category: "Trade Desk"
+  sectors_covered: ["Dry Bulk", "Tankers", "LNG/LPG"]
+  description: "Signal Ocean publishes highly quantitative 'Weekly Market Monitors' and thematic research articles utilizing their proprietary AIS-tracking and vessel tonnage data. Their insights provide rigorous analysis of port congestion, ballast leg durations, and shadow/dark fleet movements."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://go.signalocean.com/"
+  sample_report_urls:
+    - "https://go.signalocean.com/e/983831/ry-market-monitor-week-07-2026/"
+    - "https://go.signalocean.com/e/983831/ply-surge-meets-china-slowdown/"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Port inventory & congestion estimates"
+    - "Ton-mile & voyage distance commentary"
+    - "Shadow fleet tracking & STS transfers"
+    - "Commodity restocking ledgers"
+  ingestion_feasibility_score: 8
+
+- source_id: "usda_fas_export_sales"
+  name: "USDA Foreign Agricultural Service (FAS) Export Sales"
+  category: "Macro Agency"
+  sectors_covered: ["Dry Bulk", "Macro/Commodities"]
+  description: "The USDA FAS provides the definitive weekly ledger of U.S. agricultural export sales and shipments for key grains and oilseeds. This data is the bedrock for modeling Panamax and Supramax grain liftings from the US Gulf and PNW to global destinations."
+  access_type: "Direct RSS Feed"
+  archive_url: "https://apps.fas.usda.gov/esrqs/"
+  sample_report_urls:
+    - "https://apps.fas.usda.gov/esrqs/weeklyreports/04022026.pdf"
+    - "https://www.fas.usda.gov/data/weekly-export-sales-04022026"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Structured CSV/Excel tables)"
+  key_metrics_extractable:
+    - "Weekly grain export sales (corn, soybeans, wheat)"
+    - "Cumulative export shipments (Tonnes)"
+    - "Destination country breakdown"
+    - "Unshipped outstanding sales (forward backlog)"
+  ingestion_feasibility_score: 10
+
+- source_id: "opec_momr"
+  name: "OPEC Monthly Oil Market Report (MOMR)"
+  category: "Macro Agency"
+  sectors_covered: ["Tankers", "Macro/Commodities"]
+  description: "The OPEC MOMR is the premier monthly release detailing global crude oil demand, production quotas, and secondary source estimates. It is critical for forecasting VLCC/Suezmax ton-mile demand, particularly tracking the Middle East Gulf versus Atlantic Basin export balances."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.opec.org/opec_web/en/publications/202.htm"
+  sample_report_urls:
+    - "https://www.opec.org/assets/assetdb/momr-october-2025-1.pdf"
+    - "https://www.opec.org/assets/assetdb/momr-november-2024.pdf"
+  publication_frequency: "Monthly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Crude oil production by country (mb/d)"
+    - "Global oil demand forecasts & revisions"
+    - "Tanker freight market spot rates"
+    - "OPEC basket crude prices"
+  ingestion_feasibility_score: 10
+
+- source_id: "panama_canal_advisories"
+  name: "Panama Canal Authority (ACP) Advisories to Shipping"
+  category: "Macro Agency"
+  sectors_covered: ["Containers", "LNG/LPG", "Tankers", "Dry Bulk"]
+  description: "The ACP publishes critical, binding operational advisories regarding maximum allowable vessel drafts, transit reservation slot allocations, and maintenance schedules. These circulars are essential for calculating chokepoint congestion premiums and Panama transit delays affecting global fleet supply."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://pancanal.com/en/maritime-services/advisory-to-shipping/"
+  sample_report_urls:
+    - "https://pancanal.com/wp-content/uploads/2025/01/ADV-20-2025-Modifications-to-the-Transit-Reservation-Booking-System.pdf"
+    - "https://pancanal.com/wp-content/uploads/2024/01/ADV25-2024-Modifications-to-the-Transit-Reservation-Booking-System.pdf"
+  publication_frequency: "Ad-hoc"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Maximum allowable vessel draught (Tropical Fresh Water)"
+    - "Transit booking slot availability & auction data"
+    - "Chokepoint congestion estimates"
+    - "Vessel tonnage restrictions"
+  ingestion_feasibility_score: 10
+
+- source_id: "wmu_maritime_commons"
+  name: "World Maritime University (WMU) Maritime Commons Dissertations"
+  category: "Foundational Literature"
+  sectors_covered: ["Dry Bulk", "Tankers", "Macro/Commodities", "Ship Finance"]
+  description: "WMU's open-access 'Maritime Commons' repository hosts hundreds of peer-reviewed master's and doctoral dissertations covering deep-dive shipping topics. Areas include shipping asset pricing, pooling strategies, FFA risk management, and green transition economics."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://commons.wmu.se/"
+  sample_report_urls:
+    - "https://commons.wmu.se/cgi/viewcontent.cgi?article=3082&context=all_dissertations"
+    - "https://commons.wmu.se/cgi/viewcontent.cgi?article=166&context=all_dissertations"
+  publication_frequency: "Ad-hoc"
+  pdf_structure_quality: "High (Academic standard vector PDFs)"
+  key_metrics_extractable:
+    - "FFA risk management mechanics"
+    - "Ship Finance & S&P Valuation parity modeling"
+    - "EEXI/CII regulation economics"
+    - "Charter Party law & Laytime mechanics"
+  ingestion_feasibility_score: 10
+
+- source_id: "ship_and_bunker"
+  name: "Ship & Bunker"
+  category: "Maritime News Aggregator"
+  sectors_covered: ["Tankers", "Containers", "Macro/Commodities"]
+  description: "Ship & Bunker is the leading publication for the marine fuels industry, offering daily global bunker price indications, VLSFO/Scrubber Hi-5 spreads, and analytical news. Their pricing data is foundational for calculating voyage TCE earnings, fuel procurement costs, and hedging curves."
+  access_type: "HTML Web Articles"
+  archive_url: "https://shipandbunker.com/prices"
+  sample_report_urls:
+    - "https://shipandbunker.com/prices/am/usgac/us-hou-houston"
+    - "https://shipandbunker.com/prices/av/global/av-g20-global-20-ports-average"
+  publication_frequency: "Daily"
+  pdf_structure_quality: "High (Structured HTML tables)"
+  key_metrics_extractable:
+    - "Daily VLSFO, MGO, IFO380 prices by port"
+    - "Scrubber Hi-5 economic spreads"
+    - "Bunker hedging forward curve indications"
+    - "Geopolitical impact on fuel supply chains"
+  ingestion_feasibility_score: 8
+
+- source_id: "capital_link_shipping"
+  name: "Capital Link Shipping Forums & Intelligence"
+  category: "Maritime News Aggregator"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers", "Ship Finance"]
+  description: "Capital Link hosts premier global shipping forums and aggregates broker reports, earnings call transcripts, and institutional market commentary. Their site serves as an exceptional central hub for market sentiment, Greek shipowner presentations, and capital deployment trends."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://capitallinkshipping.com/capital-link-intelligence/"
+  sample_report_urls:
+    - "https://capitallinkshipping.com/wp-content/uploads/2025/03/Allied-Weekly-Market-Review-Week-28_compressed-1.pdf"
+    - "https://capitallinkshipping.com/wp-content/uploads/2025/03/bancosta-weekly-2019-48.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Mixed PDFs and HTML)"
+  key_metrics_extractable:
+    - "Shipowner earnings call transcripts"
+    - "Capital deployment & fleet acquisition trends"
+    - "Syndicated boutique broker weekly reports"
+    - "Market sentiment & forward guidance"
+  ingestion_feasibility_score: 9

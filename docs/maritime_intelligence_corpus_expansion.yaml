@@ -1,0 +1,324 @@
+# GLOBAL MARITIME INTELLIGENCE CORPUS EXPANSION
+# Catalog of free/openly-accessible maritime, shipbroking, and commodity trade-flow sources
+# Compiled: 2026-08-24
+# Note: access_type/frequency verified via live search snippets on compile date; re-verify
+# URLs periodically since brokers rotate PDF paths by week/year.
+
+# ============================================================
+# PILLAR A: BOUTIQUE SHIPBROKING DESKS & INDEPENDENT ADVISORY HOUSES
+# ============================================================
+
+- source_id: "allied_shipbroking_weekly"
+  name: "Allied Shipbroking (incl. Allied QuantumSea Research)"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Tankers", "S&P/Demolition"]
+  description: "Athens-based shipbroker producing one of the most widely re-syndicated weekly market reports in the industry, covering dry bulk/tanker freight, newbuilding, S&P and recycling markets with full TCE tables. Full PDF is normally gated behind a free email-subscription form on their own site, but back issues are openly mirrored on Cyprus Shipping News and Hellenic Shipping News with no login."
+  access_type: "Free Public PDF Archive (via mirrors) | Gated Email Opt-in (direct)"
+  archive_url: "https://cyprusshippingnews.com/?s=allied+weekly+market+report"
+  sample_report_urls:
+    - "https://cyprusshippingnews.com/wp-content/uploads/2026/07/ALLIED-Weekly-Market-Report-Week-30.pdf"
+    - "https://cyprusshippingnews.com/wp-content/uploads/2025/12/ALLIED-Weekly-Market-Report-Week-48.pdf"
+    - "https://www.hellenicshippingnews.com/allieds-weekly-market-report-week-03-2024/"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "5TC Capesize/Panamax/Supramax/Handysize daily earnings"
+    - "Newbuilding and secondhand asset prices by vessel class"
+    - "Demolition $/LDT scrap pricing"
+    - "Baltic index historical comparisons"
+    - "S&P transaction ledger (buyer/seller, price, age)"
+  ingestion_feasibility_score: 8
+
+- source_id: "banchero_costa_weekly"
+  name: "Banchero Costa & C. S.p.A."
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Tankers", "Macro/Commodities"]
+  description: "Genoa-founded (1928) Italian shipbroker with strong coal/grain/minor bulk trade-flow expertise. Their weekly reports are fully republished as open PDFs on Hellenic Shipping News with no paywall, including seaborne coal loading statistics and vessel-tracking-derived trade data."
+  access_type: "Free Public PDF Archive (via Hellenic Shipping News mirror)"
+  archive_url: "https://www.hellenicshippingnews.com/category/weekly-shipbrokers-reports/"
+  sample_report_urls:
+    - "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-32-2026/"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Seaborne coal/grain loadings by origin (y-o-y % change)"
+    - "Dry bulk/tanker freight rate tables"
+    - "Ton-mile commentary by trade route"
+  ingestion_feasibility_score: 8
+
+- source_id: "xclusiv_shipbrokers_weekly"
+  name: "Xclusiv Shipbrokers Inc."
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Tankers", "S&P/Demolition"]
+  description: "Athens-based boutique S&P and chartering shop; weekly report includes market commentary plus S&P and newbuilding sections. Reports are openly hosted on third-party maritime-report distribution sites (e.g., hyqfocus) without login."
+  access_type: "Free Public PDF Archive (via distribution mirrors)"
+  archive_url: "https://www.xclusiv.gr/en/weekly-reports"
+  sample_report_urls:
+    - "https://www.hyqfocus.com/resource/report/1690528107761/report.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "Medium (Mixed text/graphics)"
+  key_metrics_extractable:
+    - "S&P vessel transaction prices"
+    - "Market commentary on freight sentiment"
+  ingestion_feasibility_score: 6
+
+- source_id: "intermodal_shipbrokers_weekly"
+  name: "Intermodal Shipbrokers"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Dry Bulk", "Tankers", "S&P/Demolition"]
+  description: "Athens-headquartered shipbroker (offices in Shanghai, Singapore, London) publishing a detailed weekly report with fixtures, S&P, newbuilding and 'Broker's Insight' commentary column. PDFs are hosted directly on intermodal.gr with a predictable naming convention and mirrored openly on Hellenic Shipping News."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.intermodal.gr/reports/"
+  sample_report_urls:
+    - "https://www.intermodal.gr/wp-content/uploads/2026/03/intermodal-report-week-09-2026.pdf"
+    - "https://www.intermodal.gr/wp-content/uploads/2026/01/intermodal-report-week-03-2026.pdf"
+    - "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-10-2026-brokers-insight/"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Weekly fixture lists by vessel class"
+    - "S&P transaction ledger"
+    - "Newbuilding orderbook additions"
+    - "Broker's Insight qualitative commentary"
+  ingestion_feasibility_score: 9
+
+- source_id: "gibson_shipbrokers_weekly"
+  name: "Gibson Shipbrokers (E.A. Gibson Shipbrokers)"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Tankers"]
+  description: "London-founded (1885) tanker-focused shipbroker publishing highly regarded weekly tanker market reports (titled with editorial headlines, e.g. 'The Final Countdown', 'Crossed Wakes') covering VLCC/Suezmax/Aframax/MR freight, refinery and geopolitical themes. PDFs are hosted directly on gibsons.co.uk and re-syndicated free on Hellenic Shipping News."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.gibsons.co.uk/weekly-tanker-report/"
+  sample_report_urls:
+    - "https://www.gibsons.co.uk/wp-content/uploads/2023/09/1472-1.pdf"
+    - "https://www.hellenicshippingnews.com/category/weekly-shipbrokers-reports/"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "VLCC/Suezmax/Aframax/LR2/LR1/MR TCE and WS rate tables"
+    - "Refinery maintenance and crude sourcing commentary"
+    - "Geopolitical rerouting analysis (Hormuz, Red Sea, Cape)"
+  ingestion_feasibility_score: 8
+
+- source_id: "poten_partners_tanker_opinions"
+  name: "Poten & Partners – Weekly Tanker & LNG/LPG Opinions"
+  category: "Boutique Shipbroker"
+  sectors_covered: ["Tankers", "LNG/LPG"]
+  description: "New York-based tanker and gas shipbroker; publishes a free weekly 'Tanker Opinion' PDF (signed articles by named analysts such as Erik Broekhuizen) analyzing OPEC dynamics, sanctions, chokepoint risk and freight economics, openly downloadable with no registration."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.poten.com/whats-new-2/tanker-opinions/"
+  sample_report_urls:
+    - "https://energy.poten.com/hubfs/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20April%202026%20-%20Energy%20Dominance%20In%20Action.pdf"
+    - "https://www.poten.com/whats-new-2/"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text)"
+  key_metrics_extractable:
+    - "Qualitative tanker/LNG/LPG freight commentary"
+    - "OPEC supply and chokepoint risk analysis"
+    - "Named-analyst forecast narratives"
+  ingestion_feasibility_score: 7
+
+- source_id: "hellenic_shipbrokers_aggregator"
+  name: "Hellenic Shipping News – Weekly Shipbrokers Reports category"
+  category: "Trade Desk"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers", "Macro/Commodities"]
+  description: "A single aggregation hub (already partially ingested by the terminal) that free-mirrors weekly PDFs from a wide roster of boutique brokers not individually listed elsewhere — including Star Asia Shipbroking, Affinity (Shipping), Gibson, Xclusiv, Intermodal, and Banchero Costa — under one predictable category URL, making it the highest-leverage single expansion point for Pillar A."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://www.hellenicshippingnews.com/category/weekly-shipbrokers-reports/"
+  sample_report_urls:
+    - "https://www.hellenicshippingnews.com/category/weekly-shipbrokers-reports/"
+  publication_frequency: "Weekly (rolling, multiple brokers)"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Cross-broker fixture and freight tables"
+    - "S&P and demolition roundups"
+    - "Broker-specific commentary threads"
+  ingestion_feasibility_score: 9
+
+- source_id: "bimco_market_analysis"
+  name: "BIMCO – Market Analysis / Shipping Number of the Week"
+  category: "Trade Desk"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers", "Macro/Commodities"]
+  description: "Global shipowners' association publishing free public articles ('Shipping Number of the Week') distilling a single high-value dry bulk/tanker/container statistic weekly (e.g., Guinea bauxite shipment growth), plus free video summaries of its monthly Shipping Market Overview & Outlook — full written reports are member-gated but the public excerpts are numerically dense."
+  access_type: "HTML Web Articles (free tier) | Member PDF (gated)"
+  archive_url: "https://www.bimco.org/news-insights/market-analysis/shipping-number-of-the-week/"
+  sample_report_urls:
+    - "https://www.bimco.org/news-insights/market-analysis/shipping-number-of-the-week/2026/0318-snow/"
+  publication_frequency: "Weekly (public excerpt) / Monthly (full outlook)"
+  pdf_structure_quality: "Medium (HTML, minimal PDF)"
+  key_metrics_extractable:
+    - "Single headline trade-flow statistic per week (e.g. bauxite shipment % y/y)"
+    - "Qualitative macro shipping outlook themes"
+  ingestion_feasibility_score: 6
+
+# ============================================================
+# PILLAR C: PUBLIC MACRO, AGRICULTURAL & COMMODITY GOVERNMENT/AGENCY DESKS
+# ============================================================
+
+- source_id: "usda_fas_weekly_export_sales"
+  name: "USDA Foreign Agricultural Service – Weekly Export Sales / ESRQS"
+  category: "Macro Agency"
+  sectors_covered: ["Dry Bulk", "Macro/Commodities"]
+  description: "Authoritative weekly (Thursday 8:30am ET) release of U.S. export sales activity by commodity and destination for wheat, corn, soybeans, sorghum, cotton, rice and more — the primary US grain-export pacer feed relevant to Panamax/Supramax Gulf and PNW loadings. The new Export Sales Reporting & Query System (ESRQS, launched March 2026) requires no registration or login for reports, the query portal, or the API."
+  access_type: "Free Public PDF Archive | Direct API/Query Portal"
+  archive_url: "https://www.fas.usda.gov/data"
+  sample_report_urls:
+    - "https://apps.fas.usda.gov/ESRQUERY/ESRHome.aspx"
+    - "https://apps.fas.usda.gov/export-sales/weeksumm.htm"
+    - "https://www.fas.usda.gov/data/weekly-export-sales-04302026"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables) / Structured API"
+  key_metrics_extractable:
+    - "Weekly export sales volumes by commodity and destination country"
+    - "Outstanding sales / commitments vs. USDA WASDE forecasts"
+    - "Grain corridor export pacing (US Gulf, PNW)"
+  ingestion_feasibility_score: 9
+
+- source_id: "igc_grain_market_report"
+  name: "International Grains Council (IGC) – GMR & Market Report"
+  category: "Macro Agency"
+  sectors_covered: ["Dry Bulk", "Macro/Commodities"]
+  description: "Intergovernmental body publishing free weekly/monthly Grain Market Report and Grains Update summaries covering wheat, maize, soybean and rice supply/demand and trade forecasts, directly relevant to Panamax/Supramax grain-corridor ton-mile modeling (US, Black Sea, South America)."
+  access_type: "Free Public PDF Archive | HTML Web Articles"
+  archive_url: "https://www.igc.int/en/gmreport/"
+  sample_report_urls:
+    - "https://www.igc.int/en/gmreport/"
+  publication_frequency: "Weekly (GMR update) / Monthly (full report)"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Global grain/oilseed production and trade forecasts"
+    - "Freight-relevant export/import balance tables by country"
+  ingestion_feasibility_score: 7
+
+- source_id: "eia_weekly_petroleum_status"
+  name: "U.S. Energy Information Administration – Weekly Petroleum Status Report"
+  category: "Macro Agency"
+  sectors_covered: ["Tankers", "Macro/Commodities"]
+  description: "The definitive weekly US crude/product inventory, refinery run and import/export release (Wednesdays), foundational for Aframax/MR US Gulf loading forecasts and crude-tanker positioning models. Data published simultaneously as PDF, CSV and XLS with a stable predictable URL structure."
+  access_type: "Direct RSS/CSV/XLS | Free Public PDF Archive"
+  archive_url: "https://www.eia.gov/petroleum/supply/weekly/"
+  sample_report_urls:
+    - "https://www.eia.gov/petroleum/supply/weekly/pdf/wpsrall.pdf"
+    - "https://ir.eia.gov/wpsr/wpsrsummary.pdf"
+  publication_frequency: "Weekly"
+  pdf_structure_quality: "High (Clean vector text/tables) + native CSV/XLS"
+  key_metrics_extractable:
+    - "US commercial crude/product inventories (weekly change, bbl)"
+    - "Refinery utilization and crude runs"
+    - "Crude and product imports/exports by region"
+  ingestion_feasibility_score: 10
+
+- source_id: "opec_momr"
+  name: "OPEC – Monthly Oil Market Report (MOMR)"
+  category: "Macro Agency"
+  sectors_covered: ["Tankers", "Macro/Commodities"]
+  description: "OPEC's flagship monthly public report on world oil demand/supply balance, OPEC and non-OPEC production, and price benchmarks (ORB, Brent, WTI); freely downloadable as full PDF with no login through the dedicated pdf-download portal, historically archived by month/year."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://momr.opec.org/pdf-download/"
+  sample_report_urls:
+    - "https://www.opec.org/assets/assetdb/momr-january-2025.pdf"
+    - "https://momr.opec.org/pdf-download/index.php/1000"
+  publication_frequency: "Monthly"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "OPEC/non-OPEC crude production by country (mb/d)"
+    - "ORB, Brent, WTI price averages"
+    - "World oil demand/supply balance forecasts"
+  ingestion_feasibility_score: 8
+
+- source_id: "panama_canal_authority_advisories"
+  name: "Panama Canal Authority (ACP) – Advisories to Shipping"
+  category: "Macro Agency"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers", "LNG/LPG"]
+  description: "Official ACP advisory notices (sequential number, e.g. A-25-2026) on draft restrictions at Neopanamax/Panamax locks tied to Gatun Lake levels, directly driving Capesize/VLGC/LNG transit eligibility and voyage-cost recalculations for the Panama chokepoint tracker."
+  access_type: "Free Public PDF Archive"
+  archive_url: "https://pancanal.com/en/advisories-to-shipping/"
+  sample_report_urls:
+    - "https://pancanal.com/wp-content/uploads/2026/08/ADV-25-2026-Adjustment-to-the-Maximum-Allowable-Draft-in-the-Neopanamax-Locks.pdf"
+    - "https://pancanal.com/wp-content/uploads/2026/04/ADV-18-2026-Draft-adjustment-in-the-Neopanamax-Locks.pdf"
+  publication_frequency: "Ad-hoc (multiple per month during drought/El Niño periods)"
+  pdf_structure_quality: "High (Clean vector text)"
+  key_metrics_extractable:
+    - "Maximum authorized draft (m/ft, TFW) by lock and effective date"
+    - "Transit slot auction and booking rule changes"
+  ingestion_feasibility_score: 9
+
+# ============================================================
+# PILLAR D: FOUNDATIONAL SHIPPING BOOKS, MANUALS & ACADEMIC LITERATURE
+# ============================================================
+
+- source_id: "stopford_maritime_economics"
+  name: "Maritime Economics (Martin Stopford) – Archive.org & academic mirrors"
+  category: "Foundational Literature"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers", "Macro/Commodities"]
+  description: "The canonical maritime-economics monograph covering freight-market cycle theory, elasticities, ship finance and demand/supply modeling. The 1992 first edition is available as a free scanned lending copy on Archive.org, and the 2nd edition is mirrored as an open PDF by academic aggregators (dandelon.com, academia.edu) for research/personal use."
+  access_type: "Free Public PDF Archive (scanned/OCR)"
+  archive_url: "https://archive.org/details/isbn_9780415084383"
+  sample_report_urls:
+    - "https://archive.org/details/isbn_9780415084383"
+    - "https://external.dandelon.com/download/attachments/dandelon/ids/AT001BB4657BBB41D49B7C1257068005596B4.pdf"
+    - "https://www.academia.edu/29939623/Maritime_Economics_by_Martin_Stopford"
+  publication_frequency: "Ad-hoc (static monograph)"
+  pdf_structure_quality: "Low (Scanned OCR required) for 1992 ed. / Medium for 2008 2nd ed. mirror"
+  key_metrics_extractable:
+    - "Freight rate cycle theory frameworks"
+    - "Ship supply/demand elasticity models"
+    - "Historical newbuilding/secondhand price cycle case studies"
+  ingestion_feasibility_score: 5
+
+# ============================================================
+# PILLAR E: MARITIME NEWS AGGREGATORS & OPEN NEWS FEEDS
+# ============================================================
+
+- source_id: "splash247_news"
+  name: "Splash247 (Asia Shipping Media)"
+  category: "Trade Desk"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers", "LNG/LPG"]
+  description: "Free, high-frequency editorial maritime news portal with dedicated sector categories (bunkering, tech, operations, region) and the 'Splash Wrap' weekly analytical roundup podcast/column covering chokepoint disruptions (Hormuz, Panama, Suez), sanctions and fleet/M&A news. No paywall for standard articles; newsletter opt-in is free."
+  access_type: "HTML Web Articles | Free Newsletter"
+  archive_url: "https://splash247.com/"
+  sample_report_urls:
+    - "https://splash247.com/category/sector/bunkering/"
+    - "https://splash247.com/march-2026-review/"
+    - "https://splash247.com/category/region/"
+  publication_frequency: "Daily"
+  pdf_structure_quality: "Medium (HTML text, no PDF tables)"
+  key_metrics_extractable:
+    - "Geopolitical chokepoint disruption narratives (Hormuz, Panama, Suez, Red Sea)"
+    - "Fleet sale/M&A deal values"
+    - "Sanctions and shadow-fleet incident tracking"
+  ingestion_feasibility_score: 7
+
+- source_id: "hellenic_shipping_news_general"
+  name: "Hellenic Shipping News Worldwide (general feed, beyond current iron-ore/shipbroker ingestion)"
+  category: "Trade Desk"
+  sectors_covered: ["Dry Bulk", "Tankers", "Containers", "LNG/LPG", "Macro/Commodities"]
+  description: "Beyond the iron-ore index and shipbroker-report categories already ingested, HSN also carries daily open-access editorial coverage and a dedicated 'Weekly Shipbrokers Reports' and 'Analysis' taxonomy that mirrors dozens of otherwise gated broker PDFs (Star Asia, Affinity, Gibson, etc.) verbatim — recommend expanding the existing HSN crawler to these additional categories rather than treating it as a new source."
+  access_type: "Free Public PDF Archive | HTML Web Articles"
+  archive_url: "https://www.hellenicshippingnews.com/category/analysis/"
+  sample_report_urls:
+    - "https://www.hellenicshippingnews.com/category/weekly-shipbrokers-reports/"
+  publication_frequency: "Daily/Weekly (rolling)"
+  pdf_structure_quality: "High (Clean vector text/tables)"
+  key_metrics_extractable:
+    - "Cross-broker fixture, S&P and demolition data (see individual broker entries)"
+    - "Daily editorial commentary on freight and commodity themes"
+  ingestion_feasibility_score: 9
+
+# ============================================================
+# NOTES / FLAGGED GAPS (sources examined but NOT recommended as-is)
+# ============================================================
+# - allied_shipbroking (direct, allied-shipbroking.gr): full weekly PDF is now email-gated
+#   ("Fill in the form below to subscribe"). Use the Cyprus Shipping News / Hellenic mirrors instead.
+# - BIMCO full Shipping Market Overview & Outlook PDF: member-gated; only the "Shipping Number
+#   of the Week" excerpts and video summaries are genuinely free.
+# - Banchero Costa, Gibson, Intermodal, Xclusiv, Poten direct-owned PDFs were all located, but
+#   Hellenic Shipping News' "Weekly Shipbrokers Reports" category is the most durable single
+#   ingestion point since brokers rotate/gate their own hosting more often than the mirror does.
+# - Panama Canal Authority "Vessel Requirements" (N01-YYYY) notices supplement the Advisories
+#   and should be pulled from the same /wp-content/uploads/ directory pattern.
+# - Recommend a second research pass (live browser fetch) on: Commodore Research, Arrow
+#   Shipbroking, BRS Group annual overviews, Cleaves Securities, Signal Ocean whitepapers,
+#   USGS Mineral Commodity Summaries, GACC customs releases, and Suez Canal Authority transit
+#   circulars — these were identified as high-value targets but require direct-site fetch_url
+#   verification beyond search-snippet coverage to confirm current live, non-paywalled URLs.
