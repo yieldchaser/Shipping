@@ -113,9 +113,27 @@ existing data.
 
 ---
 
+## 6. Agricultural, Container & Multi-Broker Intelligence (`data/commodities/`, `data/indices/`, `data/derived/`)
+
+Ingested via scheduled workflows (`.github/workflows/usda_weekly.yml`, `.github/workflows/poten_drewry_weekly.yml`, `.github/workflows/broker_reports_weekly.yml`).
+
+| File Name | Content Description | Coverage | Frequency | Data Source | Status |
+|:---|:---|:---:|:---:|:---|:---:|
+| [`data/indices/drewry_wci_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/drewry_wci_historical.csv) | Drewry World Container Index (WCI) — Composite 40ft spot rate ($/FEU) & 8 East-West routes (Shanghai-Rotterdam, Genoa, LA, NY) | 2024–live | Weekly (Thu) | Drewry Supply Chain Advisors via `fetch_drewry_wci.py` | Active |
+| [`data/commodities/usda_fas_outstanding_export_sales.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_fas_outstanding_export_sales.csv) | USDA FAS Weekly Export Sales — Outstanding commitments and accumulated exports by commodity (Corn, Soybeans, Wheat) and destination country | 10,000 observations | Weekly (Thu) | USDA Foreign Agricultural Service Open API (`885i-uek7`) via `fetch_usda_fas_exports.py` | Active |
+| [`data/commodities/panama_canal_draft_and_slots.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/panama_canal_draft_and_slots.csv) | Panama Canal Authority (ACP) Advisories — Maximum allowable draft limits (TFW ft), Gatun Lake water levels, and transit booking slots across El Niño drought periods | 2022–live | Periodic / Weekly | Panama Canal Authority (ACP) via `fetch_panama_canal_advisories.py` | Active |
+| [`data/commodities/usda_us_vs_brazil_landed_costs.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_us_vs_brazil_landed_costs.csv) | USDA Landed Soybean Transportation Costs ($/MT) to Shanghai — Multi-modal logistics breakdown (Truck, Rail/Barge, Ocean) comparing US Midwest vs Brazilian Cerrado | 2017–live | Quarterly | USDA AgTransport Socrata Open API via `fetch_usda_grains.py` | Active |
+| [`data/commodities/usda_grain_vessel_loading_queues.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_grain_vessel_loading_queues.csv) | USDA Grain Vessel Loading Queues — Weekly counts of bulk carriers In-Port, Loaded (Past 7 Days), and Due (Next 10 Days) at US Gulf and PNW terminals | 2020–live | Weekly (Thu) | USDA AgTransport Socrata Open API via `fetch_usda_grains.py` | Active |
+| [`data/derived/usda_grain_vessel_rates_japan.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/usda_grain_vessel_rates_japan.csv) | USDA Bulk Grain Ocean Freight Rates ($/MT) to Japan — US Gulf vs Pacific Northwest (PNW) export rates and spatial freight spread | 2017–live | Weekly | USDA AgTransport via `fetch_usda_grains.py` | Active |
+| [`data/derived/usda_us_vs_brazil_cost_spreads.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/usda_us_vs_brazil_cost_spreads.csv) | Landed Cost Spreads ($/MT) — US vs Brazil landed soybean cost differential to China | 2017–live | Quarterly | USDA AgTransport via `fetch_usda_grains.py` | Active |
+| [`data/derived/usda_bunker_fuel_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/usda_bunker_fuel_daily.csv) | USDA Bunker Fuel Daily Spot Prices ($/MT) — VLSFO 0.5%, MGO, IFO 180cSt, IFO 380cSt | 2019–live | Daily | USDA AgTransport via `fetch_usda_grains.py` | Active |
+| [`data/derived/intermodal_tc_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/intermodal_tc_rates.csv) | Intermodal Shipbrokers Weekly Period TC Rates ($/day) — Fills MR, LR1, Handysize, and 3Y period charter gaps | 2025–live | Weekly (Fri) | Intermodal Research via `update_intermodal_tc_rates.py` | Active |
+
+---
+
 ## 🛠️ Automated Health Check Command
 
-To verify dataset freshness and staleness across all 42 files at any time:
+To verify dataset freshness and staleness across all datasets at any time:
 ```bash
 python scripts/check_data_health.py
 ```

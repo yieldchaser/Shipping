@@ -10946,7 +10946,7 @@
           <!-- Drewry World Container Index (WCI) & Red Sea Bypass Spread Tracker -->
           <div class="chart-container mb-20" id="wciContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="wciTitle" data-tooltip="Drewry World Container Index (WCI) - Composite 40ft container spot freight rate ($/FEU) across 8 major East-West routes, tracking the Cape of Good Hope Red Sea bypass risk premium.">Drewry World Container Index (WCI) & Freight Spreads</div>
+              <div class="chart-title" id="wciTitle" data-tooltip=" " data-tt-type="concept-wci">Drewry World Container Index (WCI) & Freight Spreads</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="wciRouteToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="wciBtnComposite" onclick="setWciRoute('composite')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Composite ($/FEU)</button>
@@ -10963,7 +10963,7 @@
           <!-- USDA Bulk Grain Ocean Freight Rates & US Gulf vs PNW Spreads -->
           <div class="chart-container mb-20" id="grainFreightContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="grainFreightTitle" data-tooltip="USDA Bulk Grain Ocean Freight Rates ($/MT) to Japan - Compares US Gulf vs. Pacific Northwest (PNW) export corridors and tracks the maritime freight spread differential.">USDA Bulk Grain Ocean Freight (US Gulf vs PNW to Japan)</div>
+              <div class="chart-title" id="grainFreightTitle" data-tooltip=" " data-tt-type="concept-grainfreight">USDA Bulk Grain Ocean Freight (US Gulf vs PNW to Japan)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="grainFreightBadge" class="kpi-badge">Gulf-PNW Spread: —</div>
               </div>
@@ -10974,7 +10974,7 @@
           <!-- USDA Grain Vessel Loading Queues (Gulf vs PNW Congestion) -->
           <div class="chart-container mb-20" id="vesselQueueContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="vesselQueueTitle" data-tooltip="USDA Grain Vessel Loading Activity - Weekly tracking of bulk carriers In-Port, Loaded (Past 7 Days), and Due (Next 10 Days) at US Gulf and PNW grain export terminals.">USDA Grain Vessel Loading & Port Queues (Gulf vs PNW)</div>
+              <div class="chart-title" id="vesselQueueTitle" data-tooltip=" " data-tt-type="concept-vesselqueue">USDA Grain Vessel Loading & Port Queues (Gulf vs PNW)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="queuePortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="queueBtnGulf" onclick="setQueuePort('Gulf')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
@@ -11089,7 +11089,7 @@
           <!-- USDA US vs Brazil Landed Soybean Transportation Costs to China -->
           <div class="chart-container mb-20" id="landedCostContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="landedCostTitle" data-tooltip="USDA Agricultural Transportation Costs ($/MT) of Soybeans to Shanghai, China - Multi-modal breakdown of Truck, Rail/Barge, and Ocean Freight comparing US Midwest vs Brazilian Cerrado.">Landed Soybean Transportation Cost to China (US vs Brazil)</div>
+              <div class="chart-title" id="landedCostTitle" data-tooltip=" " data-tt-type="concept-landedcost">Landed Soybean Transportation Cost to China (US vs Brazil)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="landedCostBadge" class="kpi-badge">US vs Brazil Spread: —</div>
               </div>
@@ -11100,7 +11100,7 @@
           <!-- Ship Demolition & Scrap Matrix ($/LDT) -->
           <div class="chart-container mb-20" id="scrappageContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="scrappageTitle" data-tooltip="Ship Recycling & Demolition Prices ($/LDT) - Weekly cash buyer quotes across major sub-continent breaking yards (India, Bangladesh, Pakistan, Turkey) for Tankers and Dry Bulk vessels.">Global Ship Demolition & Scrap Matrix ($/LDT)</div>
+              <div class="chart-title" id="scrappageTitle" data-tooltip=" " data-tt-type="concept-scrappage">Global Ship Demolition & Scrap Matrix ($/LDT)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="scrapTypeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="scrapBtnDry" onclick="setScrapType('dry')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulkers</button>
@@ -30115,6 +30115,41 @@ if (intelTabsContainer) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>7Y & 10Y Period Charters</strong>: Due to extreme capital intensity ($250M+ per vessel) and long liquefaction project horizons, LNG carriers are leased on long multi-year contracts (7Y & 10Y TC).</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Newbuilding Pricing</strong>: Shipyard construction costs for 174k m³ LNG carriers reflect shipyard capacity tightness and cryogenic containment system demand.</div>`;
           html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Toggle between 7-Year TC, 10-Year TC, and Newbuilding Asset Values.</div>`;
+        }
+        else if (type === 'concept-wci') {
+          html = `<div class="rt-title">Drewry World Container Index (WCI) & Spreads</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Benchmark</span><span class="rt-val">Drewry Composite 40ft Spot Container Index ($/FEU)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Core Routes</span><span class="rt-val">Shanghai → Rotterdam, Genoa, Los Angeles, New York</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Chokepoint Sensitivity</span><span class="rt-val" style="color:#f85149">Red Sea / Bab-el-Mandeb & Panama Canal</span></div>`;
+          html += `<div class="rt-note">Reflects global container liner spot pricing. Elevated spreads between Asia-Europe and Asia-USWC routes capture Cape of Good Hope rerouting surcharges, transit delays, and vessel absorption dynamics.</div>`;
+        }
+        else if (type === 'concept-grainfreight') {
+          html = `<div class="rt-title">USDA Bulk Grain Ocean Freight Rates & Spreads</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Corridors</span><span class="rt-val">US Gulf → Japan vs Pacific Northwest (PNW) → Japan</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Unit</span><span class="rt-val">Metric Ton ($/MT) Handysize & Panamax bulk cargo</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Freight Spread</span><span class="rt-val" style="color:#e3b341">Gulf Rate ($/MT) − PNW Rate ($/MT)</span></div>`;
+          html += `<div class="rt-note">Measures the maritime freight differential between Atlantic and Pacific US export gateways. When the Gulf-PNW spread expands (due to Panama Canal draft restrictions or Mississippi low-water levels), Asian grain buyers divert demand to PNW ports.</div>`;
+        }
+        else if (type === 'concept-vesselqueue') {
+          html = `<div class="rt-title">USDA Grain Vessel Loading Activity & Port Queues</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Data Series</span><span class="rt-val">Vessels In Port, Loaded (Past 7D), Due (Next 10D)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Key Ports</span><span class="rt-val">US Gulf (Center/South) & PNW (Columbia River/Puget Sound)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Congestion Flag</span><span class="rt-val" style="color:#ff7b72">>40 Vessels Due = Port Congestion & Demurrage Risk</span></div>`;
+          html += `<div class="rt-note">Leading indicator for agricultural bulk vessel demand. Spikes in vessels due signal upcoming export surges and terminal congestion, leading to higher voyage fixture premiums and demurrage rates.</div>`;
+        }
+        else if (type === 'concept-landedcost') {
+          html = `<div class="rt-title">Landed Soybean Transportation Cost (US vs Brazil)</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Destination</span><span class="rt-val">Shanghai, China (Import CIF Parity)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">US Origin</span><span class="rt-val">Midwest (Iowa/Illinois) via Truck + Barge/Rail + Gulf/PNW Ocean</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Brazil Origin</span><span class="rt-val">Cerrado (North Mato Grosso/Goiás) via Truck + Santos/Paranaguá Ocean</span></div>`;
+          html += `<div class="rt-note">Compares full farm-gate to destination multi-modal logistics costs ($/MT). Brazil holds domestic production advantages, while US benefits from efficient Mississippi river barge infrastructure. Changes in ocean freight spreads directly shift export market share between North and South America.</div>`;
+        }
+        else if (type === 'concept-scrappage') {
+          html = `<div class="rt-title">Global Ship Demolition & Scrap Matrix</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Quotation Basis</span><span class="rt-val">Light Displacement Tonnage ($/LDT) Cash Buyer Price</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Subcontinent Yards</span><span class="rt-val">India (Alang), Bangladesh (Chattogram), Pakistan (Gadani)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Mediterranean</span><span class="rt-val">Turkey (Aliaga green recycling yard quotes)</span></div>`;
+          html += `<div class="rt-note">Defines the absolute salvage floor for merchant ships. High scrap prices ($500+/LDT) incentivize fleet rationalization and older tonnage removal during freight downturns, putting an empirical floor under vessel asset values.</div>`;
         }
         else if (type === 'basin-net-spread') {
           html = `<div class="rt-title">Basin Arbitrage Net Spread</div>`;
