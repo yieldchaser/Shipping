@@ -10942,6 +10942,50 @@
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="lngCharterChart"></canvas></div>
           </div>
+
+          <!-- Drewry World Container Index (WCI) & Red Sea Bypass Spread Tracker -->
+          <div class="chart-container mb-20" id="wciContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="wciTitle" data-tooltip="Drewry World Container Index (WCI) - Composite 40ft container spot freight rate ($/FEU) across 8 major East-West routes, tracking the Cape of Good Hope Red Sea bypass risk premium.">Drewry World Container Index (WCI) & Freight Spreads</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="wciRouteToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="wciBtnComposite" onclick="setWciRoute('composite')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Composite ($/FEU)</button>
+                  <button class="toggle-btn" id="wciBtnEurope" onclick="setWciRoute('europe')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Shanghai-Europe</button>
+                  <button class="toggle-btn" id="wciBtnUS" onclick="setWciRoute('us')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Shanghai-US</button>
+                  <button class="toggle-btn" id="wciBtnAll" onclick="setWciRoute('all')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
+                </div>
+                <div id="wciBadge" class="kpi-badge">WCI: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="wciChart"></canvas></div>
+          </div>
+
+          <!-- USDA Bulk Grain Ocean Freight Rates & US Gulf vs PNW Spreads -->
+          <div class="chart-container mb-20" id="grainFreightContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="grainFreightTitle" data-tooltip="USDA Bulk Grain Ocean Freight Rates ($/MT) to Japan - Compares US Gulf vs. Pacific Northwest (PNW) export corridors and tracks the maritime freight spread differential.">USDA Bulk Grain Ocean Freight (US Gulf vs PNW to Japan)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="grainFreightBadge" class="kpi-badge">Gulf-PNW Spread: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="grainFreightChart"></canvas></div>
+          </div>
+
+          <!-- USDA Grain Vessel Loading Queues (Gulf vs PNW Congestion) -->
+          <div class="chart-container mb-20" id="vesselQueueContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="vesselQueueTitle" data-tooltip="USDA Grain Vessel Loading Activity - Weekly tracking of bulk carriers In-Port, Loaded (Past 7 Days), and Due (Next 10 Days) at US Gulf and PNW grain export terminals.">USDA Grain Vessel Loading & Port Queues (Gulf vs PNW)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="queuePortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="queueBtnGulf" onclick="setQueuePort('Gulf')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
+                  <button class="toggle-btn" id="queueBtnPnw" onclick="setQueuePort('PNW')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">PNW</button>
+                  <button class="toggle-btn" id="queueBtnBoth" onclick="setQueuePort('Both')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both Ports</button>
+                </div>
+                <div id="queueBadge" class="kpi-badge">Vessels Due: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="vesselQueueChart"></canvas></div>
+          </div>
         </div>
       </div>
 
@@ -11040,6 +11084,33 @@
                 <div id="quadrantPhaseDesc" style="margin-top:8px;line-height:1.4;border-top:1px solid var(--border);padding-top:8px;">Recovery phase: Spot starting to lift relative to term. Accumulation window.</div>
               </div>
             </div>
+          </div>
+
+          <!-- USDA US vs Brazil Landed Soybean Transportation Costs to China -->
+          <div class="chart-container mb-20" id="landedCostContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="landedCostTitle" data-tooltip="USDA Agricultural Transportation Costs ($/MT) of Soybeans to Shanghai, China - Multi-modal breakdown of Truck, Rail/Barge, and Ocean Freight comparing US Midwest vs Brazilian Cerrado.">Landed Soybean Transportation Cost to China (US vs Brazil)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="landedCostBadge" class="kpi-badge">US vs Brazil Spread: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="landedCostChart"></canvas></div>
+          </div>
+
+          <!-- Ship Demolition & Scrap Matrix ($/LDT) -->
+          <div class="chart-container mb-20" id="scrappageContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="scrappageTitle" data-tooltip="Ship Recycling & Demolition Prices ($/LDT) - Weekly cash buyer quotes across major sub-continent breaking yards (India, Bangladesh, Pakistan, Turkey) for Tankers and Dry Bulk vessels.">Global Ship Demolition & Scrap Matrix ($/LDT)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="scrapTypeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="scrapBtnDry" onclick="setScrapType('dry')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Dry Bulkers</button>
+                  <button class="toggle-btn" id="scrapBtnTanker" onclick="setScrapType('tanker')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Tankers</button>
+                  <button class="toggle-btn" id="scrapBtnAll" onclick="setScrapType('all')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Yards</button>
+                </div>
+                <div id="scrapBadge" class="kpi-badge">India Scrap: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="scrappageChart"></canvas></div>
           </div>
         </div>
       </div>
@@ -11287,6 +11358,12 @@ if (intelTabsContainer) {
       blpg: [],
       sgx: { cape: [], panamax: [], supramax: [], handysize: [] },
       tankerForwardCurves: [],
+      wciTracker: [],
+      usdaGrainRates: [],
+      usdaLandedCosts: [],
+      usdaCostSpreads: [],
+      usdaVesselQueues: [],
+      usdaBunkers: [],
     };
 
     // Per-product filtered row cache (populated after load)
@@ -12307,6 +12384,88 @@ if (intelTabsContainer) {
           });
         });
 
+        const wciPromise = safeFetch('data/indices/drewry_wci_historical.csv', 'Drewry WCI', [], r => {
+          DATA.wciTracker = r.map(row => {
+            const rawDate = (row.date || row.Date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              composite: parseFloat(row.composite_index || row.composite || 0) || null,
+              sha_rot: parseFloat(row.shanghai_rotterdam || 0) || null,
+              rot_sha: parseFloat(row.rotterdam_shanghai || 0) || null,
+              sha_gen: parseFloat(row.shanghai_genoa || 0) || null,
+              sha_la: parseFloat(row.shanghai_los_angeles || 0) || null,
+              sha_ny: parseFloat(row.shanghai_new_york || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const usdaGrainRatesPromise = safeFetch('data/derived/usda_grain_vessel_rates_japan.csv', 'USDA Grain Rates', [], r => {
+          DATA.usdaGrainRates = r.map(row => {
+            const rawDate = (row.Date || row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              gulfToJapan: parseFloat(row.Gulf_To_Japan || 0) || null,
+              pnwToJapan: parseFloat(row.PNW_To_Japan || 0) || null,
+              spread: parseFloat(row.Gulf_PNW_Spread || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const usdaLandedCostsPromise = safeFetch('data/commodities/usda_us_vs_brazil_landed_costs.csv', 'USDA Landed Costs', [], r => {
+          DATA.usdaLandedCosts = r.map(row => {
+            const rawDate = (row.Date || row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              year: parseInt(row.Year, 10),
+              quarter: (row.Quarter || '').trim(),
+              origin: (row.Origin || '').trim(),
+              destination: (row.Destination || '').trim(),
+              truck: parseFloat(row.Truck || 0) || null,
+              railOrBarge: parseFloat(row.Rail_Or_Barge || 0) || null,
+              ocean: parseFloat(row.Ocean || 0) || null,
+              totalCost: parseFloat(row.Total_Transportation_Costs || row.Total || 0) || null,
+              landedCost: parseFloat(row.Landed_Cost || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const usdaVesselQueuesPromise = safeFetch('data/commodities/usda_grain_vessel_loading_queues.csv', 'USDA Vessel Queues', [], r => {
+          DATA.usdaVesselQueues = r.map(row => {
+            const rawDate = (row.Date || row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              port: (row.Port || '').trim(),
+              inPort: parseInt(row.In_Port || row.in_port || 0, 10) || null,
+              loaded7Days: parseInt(row.Loaded_Past_7_Days || row.loaded_7_days || 0, 10) || null,
+              due10Days: parseInt(row.Due_Next_10_Days || row.due_10_days || 0, 10) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const usdaBunkersPromise = safeFetch('data/derived/usda_bunker_fuel_daily.csv', 'USDA Bunker Prices', [], r => {
+          DATA.usdaBunkers = r.map(row => {
+            const y = row.Year, m = row.Month, day = row.Day;
+            const dateStr = `${y}-${String(m).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+            const d = parseDateISO(dateStr);
+            return {
+              date: d,
+              dateStr: dateStr,
+              vlsfo: parseFloat(row['VLSFO Fuel Oil, IMO 2020 Grade, 0.5%'] || 0) || null,
+              mgo: parseFloat(row['Marine Gas Oil'] || 0) || null,
+              ifo180: parseFloat(row['Intermdiate Fuel Oil, 180cSt'] || 0) || null,
+              ifo380: parseFloat(row['Intermediate Fuel Oil, 380cSt'] || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
         const allPromisesList = [
           ...indexPromises,
           bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
@@ -12315,6 +12474,7 @@ if (intelTabsContainer) {
           tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
           lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise, tankerFwdHistPromise,
           lngCharterPromise, tceMatrixPromise,
+          wciPromise, usdaGrainRatesPromise, usdaLandedCostsPromise, usdaVesselQueuesPromise, usdaBunkersPromise,
           ...sgxPromises
         ];
 
@@ -17663,11 +17823,16 @@ if (intelTabsContainer) {
           function () { renderCommodityChart(); },
           function () { renderLPGFreightChart(productKey); },
           function () { renderLNGCharterChart(productKey); },
+          function () { renderWCIChart(); },
+          function () { renderGrainFreightChart(); },
+          function () { renderVesselQueueChart(); },
         ];
       } else if (sectionId === 'signals-sec-capital') {
         fns = [
           function () { renderVesselValuationsChart(productKey); },
           function () { renderMarketCycleQuadrantChart(productKey); },
+          function () { renderLandedCostChart(); },
+          function () { renderScrappageChart(); },
         ];
       }
 
@@ -21022,6 +21187,353 @@ if (intelTabsContainer) {
       });
     }
 
+
+    // =========================================================================
+    // DREWRY WORLD CONTAINER INDEX (WCI) CHART
+    // =========================================================================
+    var _wciRoute = 'composite';
+    function setWciRoute(r) {
+      window.setWciRoute = setWciRoute;
+      _wciRoute = r;
+      ['composite', 'europe', 'us', 'all'].forEach(function (x) {
+        const el = document.getElementById('wciBtn' + x.charAt(0).toUpperCase() + x.slice(1));
+        if (el) {
+          el.classList.toggle('active', x === r);
+          el.style.background = (x === r) ? 'var(--accent)' : 'var(--card)';
+          el.style.color = (x === r) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderWCIChart();
+    }
+
+    function renderWCIChart() {
+      const canvas = document.getElementById('wciChart');
+      if (!canvas) return;
+      const rows = DATA.wciTracker || [];
+      if (!rows.length) return;
+
+      const labels = rows.map(r => r.dateStr);
+      const datasets = [];
+
+      if (_wciRoute === 'composite' || _wciRoute === 'all') {
+        datasets.push({
+          label: 'WCI Composite ($/40ft)',
+          data: rows.map(r => r.composite),
+          borderColor: '#58a6ff',
+          backgroundColor: 'rgba(88,166,255,0.1)',
+          borderWidth: 2.5,
+          fill: _wciRoute === 'composite',
+          tension: 0.1
+        });
+      }
+      if (_wciRoute === 'europe' || _wciRoute === 'all') {
+        datasets.push({
+          label: 'Shanghai -> Rotterdam',
+          data: rows.map(r => r.sha_rot),
+          borderColor: '#3fb950',
+          borderWidth: 2,
+          fill: false,
+          tension: 0.1
+        });
+        datasets.push({
+          label: 'Shanghai -> Genoa',
+          data: rows.map(r => r.sha_gen),
+          borderColor: '#e3b341',
+          borderWidth: 2,
+          fill: false,
+          tension: 0.1
+        });
+      }
+      if (_wciRoute === 'us' || _wciRoute === 'all') {
+        datasets.push({
+          label: 'Shanghai -> Los Angeles',
+          data: rows.map(r => r.sha_la),
+          borderColor: '#bc8cff',
+          borderWidth: 2,
+          fill: false,
+          tension: 0.1
+        });
+        datasets.push({
+          label: 'Shanghai -> New York',
+          data: rows.map(r => r.sha_ny),
+          borderColor: '#ff7b72',
+          borderWidth: 2,
+          fill: false,
+          tension: 0.1
+        });
+      }
+
+      const latest = rows[rows.length - 1];
+      const badge = document.getElementById('wciBadge');
+      if (badge && latest && latest.composite) {
+        badge.innerHTML = `WCI Composite: <strong>$${latest.composite.toLocaleString()}/FEU</strong> (${latest.dateStr})`;
+        badge.style.color = '#58a6ff';
+      }
+
+      destroyChart('wciChart');
+      updateOrCreateChart('wciChart', canvas, {
+        type: 'line',
+        data: { labels, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y || 0).toLocaleString()}` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v.toLocaleString() } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // USDA BULK GRAIN OCEAN FREIGHT RATES & SPREADS
+    // =========================================================================
+    function renderGrainFreightChart() {
+      const canvas = document.getElementById('grainFreightChart');
+      if (!canvas) return;
+      const rows = DATA.usdaGrainRates || [];
+      if (!rows.length) return;
+
+      const labels = rows.map(r => r.dateStr);
+      const gulfData = rows.map(r => r.gulfToJapan);
+      const pnwData = rows.map(r => r.pnwToJapan);
+      const spreadData = rows.map(r => r.spread);
+
+      const latest = rows[rows.length - 1];
+      const badge = document.getElementById('grainFreightBadge');
+      if (badge && latest) {
+        badge.innerHTML = `Gulf: <strong>$${latest.gulfToJapan || 0}/MT</strong> | PNW: <strong>$${latest.pnwToJapan || 0}/MT</strong> | Spread: <strong>+$${latest.spread || 0}/MT</strong>`;
+      }
+
+      destroyChart('grainFreightChart');
+      updateOrCreateChart('grainFreightChart', canvas, {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [
+            { label: 'US Gulf -> Japan ($/MT)', data: gulfData, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
+            { label: 'PNW -> Japan ($/MT)', data: pnwData, borderColor: '#3fb950', borderWidth: 2, tension: 0.1 },
+            { label: 'Gulf - PNW Freight Spread', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, fill: true, tension: 0.1 }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${c.parsed.y}/MT` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // USDA GRAIN VESSEL LOADING QUEUES (CONGESTION)
+    // =========================================================================
+    var _queuePort = 'Gulf';
+    function setQueuePort(p) {
+      window.setQueuePort = setQueuePort;
+      _queuePort = p;
+      ['Gulf', 'PNW', 'Both'].forEach(function (x) {
+        const el = document.getElementById('queueBtn' + x);
+        if (el) {
+          el.classList.toggle('active', x === p);
+          el.style.background = (x === p) ? 'var(--accent)' : 'var(--card)';
+          el.style.color = (x === p) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderVesselQueueChart();
+    }
+
+    function renderVesselQueueChart() {
+      const canvas = document.getElementById('vesselQueueChart');
+      if (!canvas) return;
+      const rows = DATA.usdaVesselQueues || [];
+      if (!rows.length) return;
+
+      const filtered = _queuePort === 'Both' ? rows : rows.filter(r => r.port.toLowerCase() === _queuePort.toLowerCase());
+      const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-52); // Last 52 weeks
+
+      const inPortByDate = {}, loadedByDate = {}, dueByDate = {};
+      filtered.forEach(r => {
+        inPortByDate[r.dateStr] = (inPortByDate[r.dateStr] || 0) + (r.inPort || 0);
+        loadedByDate[r.dateStr] = (loadedByDate[r.dateStr] || 0) + (r.loaded7Days || 0);
+        dueByDate[r.dateStr] = (dueByDate[r.dateStr] || 0) + (r.due10Days || 0);
+      });
+
+      const inPortData = dates.map(d => inPortByDate[d] || 0);
+      const loadedData = dates.map(d => loadedByDate[d] || 0);
+      const dueData = dates.map(d => dueByDate[d] || 0);
+
+      const latestDate = dates[dates.length - 1];
+      const latestDue = dueByDate[latestDate] || 0;
+      const latestInPort = inPortByDate[latestDate] || 0;
+      const badge = document.getElementById('queueBadge');
+      if (badge) {
+        const alertColor = latestDue >= 40 ? '#ff7b72' : '#3fb950';
+        badge.innerHTML = `${_queuePort} Port: <strong>${latestInPort} In Port</strong> | <strong>${latestDue} Due (Next 10D)</strong>`;
+        badge.style.color = alertColor;
+      }
+
+      destroyChart('vesselQueueChart');
+      updateOrCreateChart('vesselQueueChart', canvas, {
+        type: 'bar',
+        data: {
+          labels: dates,
+          datasets: [
+            { label: 'Vessels In Port', data: inPortData, backgroundColor: '#58a6ff', stack: 'queues' },
+            { label: 'Loaded (Past 7 Days)', data: loadedData, backgroundColor: '#3fb950', stack: 'queues' },
+            { label: 'Vessels Due (Next 10 Days)', data: dueData, backgroundColor: '#e3b341', stack: 'queues' }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y} vessels` } }
+          },
+          scales: {
+            x: { stacked: true, grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { stacked: true, grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + ' ships' } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // USDA LANDED SOYBEAN TRANSPORTATION COSTS: US VS BRAZIL
+    // =========================================================================
+    function renderLandedCostChart() {
+      const canvas = document.getElementById('landedCostChart');
+      if (!canvas) return;
+      const rows = DATA.usdaLandedCosts || [];
+      if (!rows.length) return;
+
+      const chinaRows = rows.filter(r => (r.destination || '').toLowerCase().includes('shanghai') || (r.destination || '').toLowerCase().includes('china'));
+      const usRows = chinaRows.filter(r => (r.origin || '').toLowerCase().includes('davenport') || (r.origin || '').toLowerCase().includes('illinois') || (r.origin || '').toLowerCase().includes('minneapolis'));
+      const brRows = chinaRows.filter(r => (r.origin || '').toLowerCase().includes('mato grosso') || (r.origin || '').toLowerCase().includes('goias') || (r.origin || '').toLowerCase().includes('brazil'));
+
+      const dates = [...new Set(chinaRows.map(r => r.dateStr))].sort().slice(-40);
+
+      const usMap = {}, brMap = {};
+      usRows.forEach(r => { usMap[r.dateStr] = r.totalCost || r.landedCost; });
+      brRows.forEach(r => { brMap[r.dateStr] = r.totalCost || r.landedCost; });
+
+      const usData = dates.map(d => usMap[d] || null);
+      const brData = dates.map(d => brMap[d] || null);
+
+      const latestDate = dates[dates.length - 1];
+      const usLatest = usMap[latestDate] || 0;
+      const brLatest = brMap[latestDate] || 0;
+      const diff = usLatest - brLatest;
+
+      const badge = document.getElementById('landedCostBadge');
+      if (badge && usLatest && brLatest) {
+        const sign = diff >= 0 ? '+' : '';
+        badge.innerHTML = `US: <strong>$${usLatest.toFixed(1)}/MT</strong> | Brazil: <strong>$${brLatest.toFixed(1)}/MT</strong> | Spread: <strong>${sign}$${diff.toFixed(1)}/MT</strong>`;
+      }
+
+      destroyChart('landedCostChart');
+      updateOrCreateChart('landedCostChart', canvas, {
+        type: 'line',
+        data: {
+          labels: dates,
+          datasets: [
+            { label: 'US Midwest -> Shanghai Total Transport ($/MT)', data: usData, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.1)', borderWidth: 2, tension: 0.1 },
+            { label: 'Brazil Cerrado -> Shanghai Total Transport ($/MT)', data: brData, borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.1)', borderWidth: 2, tension: 0.1 }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y || 0).toFixed(1)}/MT` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 10 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // SHIP RECYCLING & DEMOLITION MATRIX ($/LDT)
+    // =========================================================================
+    var _scrapType = 'dry';
+    function setScrapType(t) {
+      window.setScrapType = setScrapType;
+      _scrapType = t;
+      ['dry', 'tanker', 'all'].forEach(function (x) {
+        const el = document.getElementById('scrapBtn' + x.charAt(0).toUpperCase() + x.slice(1));
+        if (el) {
+          el.classList.toggle('active', x === t);
+          el.style.background = (x === t) ? 'var(--accent)' : 'var(--card)';
+          el.style.color = (x === t) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderScrappageChart();
+    }
+
+    function renderScrappageChart() {
+      const canvas = document.getElementById('scrappageChart');
+      if (!canvas) return;
+      const rows = DATA.scrappagePrices || [];
+      if (!rows.length) return;
+
+      const labels = rows.map(r => r.dateStr || fmtDate(r.date));
+      const datasets = [];
+
+      if (_scrapType === 'dry' || _scrapType === 'all') {
+        datasets.push({ label: 'India (Dry Bulk $/LDT)', data: rows.map(r => r.dry_india), borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 });
+        datasets.push({ label: 'Bangladesh (Dry Bulk $/LDT)', data: rows.map(r => r.dry_bangla), borderColor: '#3fb950', borderWidth: 2, tension: 0.1 });
+        datasets.push({ label: 'Pakistan (Dry Bulk $/LDT)', data: rows.map(r => r.dry_pak), borderColor: '#e3b341', borderWidth: 2, tension: 0.1 });
+        datasets.push({ label: 'Turkey (Dry Bulk $/LDT)', data: rows.map(r => r.dry_turkey), borderColor: '#bc8cff', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1 });
+      }
+      if (_scrapType === 'tanker' || _scrapType === 'all') {
+        datasets.push({ label: 'India (Tankers $/LDT)', data: rows.map(r => r.tanker_india), borderColor: '#ff7b72', borderWidth: 2, tension: 0.1 });
+        datasets.push({ label: 'Bangladesh (Tankers $/LDT)', data: rows.map(r => r.tanker_bangla), borderColor: '#f0883e', borderWidth: 2, tension: 0.1 });
+        datasets.push({ label: 'Pakistan (Tankers $/LDT)', data: rows.map(r => r.tanker_pak), borderColor: '#d29922', borderWidth: 2, tension: 0.1 });
+      }
+
+      const latest = rows[rows.length - 1];
+      const badge = document.getElementById('scrapBadge');
+      if (badge && latest) {
+        badge.innerHTML = `India: <strong>$${latest.dry_india || latest.tanker_india || 0}/LDT</strong> | Bangladesh: <strong>$${latest.dry_bangla || latest.tanker_bangla || 0}/LDT</strong> (${latest.dateStr || ''})`;
+      }
+
+      destroyChart('scrappageChart');
+      updateOrCreateChart('scrappageChart', canvas, {
+        type: 'line',
+        data: { labels, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${c.parsed.y}/LDT` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v } }
+          }
+        }
+      });
+    }
 
     var _signalsDebounceTimer = null;
     function renderSignalsTab(productKey) {
@@ -27347,7 +27859,7 @@ if (intelTabsContainer) {
       const active = new Set();
 
       // 1. Breakwave & Macro Analyst Narrative
-      if (/breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|trade flow|rerouting|gibson|\bpoten\b|broker report|shipbroker/i.test(q)) {
+      if (/breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|trade flow|rerouting|gibson|\bpoten\b|\bdrewry\b|\ballied\b|\bbancosta\b|\bintermodal\b|\bxclusiv\b|\bstar asia\b|\blion\b|broker report|shipbroker/i.test(q)) {
         active.add('breakwave');
       }
 
@@ -27357,12 +27869,12 @@ if (intelTabsContainer) {
       }
 
       // 3. Hellenic, Time Charter Rates, S&P Valuations, Bunkers & Carbon
-      if (/charter|timecharter|tc rate|tce|vessel valuation|second.hand|s&p|asset price|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon|refinery|cpp|earnings|resale|sale and purchase/i.test(q)) {
+      if (/charter|timecharter|tc rate|tce|vessel valuation|second.hand|s&p|asset price|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon|refinery|cpp|earnings|resale|sale and purchase|\bintermodal\b/i.test(q)) {
         active.add('hellenic');
       }
 
       // 4. Iron Ore, Steel, Coal, Grain & Commodity Flows
-      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow/i.test(q)) {
+      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow|\busda\b|\bagtransport\b|grain queue|landed cost/i.test(q)) {
         active.add('ironOre');
       }
 
@@ -27372,7 +27884,7 @@ if (intelTabsContainer) {
       }
 
       // 6. Foundational Textbooks, Theory & Explanations
-      if (/explain|fundamentals|background|textbook|historical context|theory|how.*computed|scoring.*computed/i.test(q)) {
+      if (/explain|fundamentals|background|textbook|historical context|theory|how.*computed|scoring.*computed|\badmiralty\b|\blaw\b|\bparsons\b|\bpritchard\b|\bstopford\b|treatise|monograph/i.test(q)) {
         active.add('books');
       }
 

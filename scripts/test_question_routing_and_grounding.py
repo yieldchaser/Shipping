@@ -17,7 +17,7 @@ def auto_select_sources(query):
     active = set()
 
     # 1. Breakwave & Macro Analyst Narrative
-    if re.search(r'breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|trade flow|rerouting', q, re.I):
+    if re.search(r'breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|trade flow|rerouting|gibson|\bpoten\b|\bdrewry\b|\ballied\b|\bbancosta\b|\bintermodal\b|\bxclusiv\b|\bstar asia\b|\blion\b|broker report|shipbroker', q, re.I):
         active.add('breakwave')
 
     # 2. Baltic Exchange, Spot Rates, Spreads, Chokepoints & Quant Regimes
@@ -25,11 +25,11 @@ def auto_select_sources(query):
         active.add('baltic')
 
     # 3. Hellenic, Time Charter Rates, S&P Valuations, Bunkers & Carbon
-    if re.search(r'charter|timecharter|tc rate|tce|vessel valuation|second.hand|s&p|asset price|asset values|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon|refinery|cpp|earnings|resale|sale and purchase|parity', q, re.I):
+    if re.search(r'charter|timecharter|tc rate|tce|vessel valuation|second.hand|s&p|asset price|asset values|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon|refinery|cpp|earnings|resale|sale and purchase|parity|\bintermodal\b', q, re.I):
         active.add('hellenic')
 
     # 4. Iron Ore, Steel, Coal, Grain & Commodity Flows
-    if re.search(r'iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow', q, re.I):
+    if re.search(r'iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow|\busda\b|\bagtransport\b|grain queue|landed cost', q, re.I):
         active.add('ironOre')
 
     # 5. Shipbuilding, Orderbooks, Deliveries, Scrapping & Fleet Supply
@@ -37,7 +37,7 @@ def auto_select_sources(query):
         active.add('shipbuilding')
 
     # 6. Foundational Textbooks, Theory & Explanations
-    if re.search(r'explain|fundamentals|background|textbook|historical context|theory|how.*computed|scoring.*computed', q, re.I):
+    if re.search(r'explain|fundamentals|background|textbook|historical context|theory|how.*computed|scoring.*computed|\badmiralty\b|\blaw\b|\bparsons\b|\bpritchard\b|\bstopford\b|treatise|monograph', q, re.I):
         active.add('books')
 
     return active

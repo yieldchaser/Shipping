@@ -1,0 +1,61 @@
+name: Weekly USDA Maritime & Freight Data Ingest
+
+on:
+  schedule:
+    # Every Thursday at 15:00 UTC (following USDA weekly agricultural release)
+    - cron: '0 15 * * 4'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: usda-freight-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Configure Git identity
+        run: |
+          git config user.name "usda-bot"
+          git config user.email "bot@shipping"
+
+      - name: Pull latest
+        run: git pull origin main --rebase || true
+
+      - name: Run USDA Scrapers
+        run: |
+          python scripts/scrapers/fetch_usda_grains.py
+          python scripts/scrapers/fetch_usda_fas_exports.py
+
+      - name: Commit & Push USDA Feeds
+        run: |
+          git add data/commodities/ data/derived/ || true
+          if git diff --staged --quiet; then
+            echo "No new USDA data changes."
+            exit 0
+          fi
+          git commit -m "data(usda): refresh weekly agricultural freight and bunker feeds [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Push succeeded on attempt $attempt."
+              exit 0
+            fi
+            sleep 10
+          done
+          exit 1
