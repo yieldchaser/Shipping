@@ -35,8 +35,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements_knowledge.txt
 
+      - name: Configure Git identity
+        run: |
+          git config user.name "knowledge-bot"
+          git config user.email "bot@shipping"
+
       - name: Pull latest
-        run: git pull origin main --rebase
+        run: git pull origin main --rebase || true
 
       - name: Check for new reports
         id: check

@@ -54,8 +54,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml selenium
 
+      - name: Configure Git identity
+        run: |
+          git config user.name "report-bot"
+          git config user.email "bot@shipping"
+
       - name: Pull latest
-        run: git pull origin main --rebase
+        run: git pull origin main --rebase || true
 
       - name: Run report scrapers
         shell: bash
