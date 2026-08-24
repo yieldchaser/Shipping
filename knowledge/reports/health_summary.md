@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-08-24T11:16:09Z'
+generated_at: '2026-08-24T15:09:50Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 7

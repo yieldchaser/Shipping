@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-24T11:19:43Z",
+ "generated_at": "2026-08-24T15:13:29Z",
  "compiler_version": 2,
- "count": 77,
+ "count": 78,
  "files": [
   {
    "file": "baltic_container.jsonl",
@@ -149,6 +149,13 @@
    "stem": "breakwave_tankers_2026",
    "year": 2026,
    "bytes": 22839
+  },
+  {
+   "file": "broker_reports_2026.jsonl",
+   "path": "knowledge/chunks/broker_reports_2026.jsonl",
+   "stem": "broker_reports_2026",
+   "year": 2026,
+   "bytes": 1434420
   },
   {
    "file": "bunker_and_carbon_spreads_2026.jsonl",
