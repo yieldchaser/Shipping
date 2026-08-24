@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data__root",
+  "doc_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data",
+  "parent_id": null,
+  "title": "China's Growth Wobbles - But Dry Bulk Imports Have Rarely Cared About the Data",
+  "section_path": [
+    "China's Growth Wobbles - But Dry Bulk Imports Have Rarely Cared About the Data"
+  ],
+  "section_path_text": "China's Growth Wobbles - But Dry Bulk Imports Have Rarely Cared About the Data",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nChinese economic data continue to paint a mixed picture, with recent months offering both optimism and pessimism. This week, the members of the latter camp got yet another serving of soft economic data, which added to their case for a pessimistic outlook for Chinese growth. A combination of weaker-than-expected industrial production, retail sales and fixed asset investment in July suggests that the world's second-largest economy may fall somewhat short of the official growth target for the year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil",
+    "per",
+    "year",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1137,
+  "source_path": "reports/breakwave/2026/2026-08-21_chinas-growth-wobbles-but-dry-bulk-imports-have-rarely-cared-about-the-data.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/21/chinas-growth-wobbles-but-dry-bulk-imports-have-rarely-cared-about-the-data",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data",
+      "parent_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nChinese economic data continue to paint a mixed picture, with recent months offering both optimism and pessimism. This week, the members of the latter camp got yet another serving of soft economic data, which added to their case for a pessimistic outlook for Chinese growth.",
+      "keywords": [
+        "china",
+        "chinese",
+        "data",
+        "economic",
+        "added",
+        "another",
+        "asset",
+        "bergman"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data__s02_key_economic_indicators_fell_short_of_expectations_in_july",
+      "doc_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data",
+      "parent_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data__root",
+      "title": "Key Economic Indicators Fell Short of Expectations in July",
+      "section_path": [
+        "Key Economic Indicators Fell Short of Expectations in July"
+      ],
+      "section_path_text": "Key Economic Indicators Fell Short of Expectations in July",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Last month, Chinese industrial production rose by 4.5 per cent compared to the same period in 2025. While many countries would be keen to replicate such expansion, it was, by Chinese standards, a modest reading.",
+      "keywords": [
+        "china",
+        "per",
+        "growth",
+        "year",
+        "cent",
+        "chinese",
+        "may",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 571,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data__s03_implications_for_dry_bulk_shipping",
+      "doc_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data",
+      "parent_id": "breakwave_insights_insights_2026-08-21_2026_08_21_chinas_growth_wobbles_but_dry_bulk_imports_have_rarely_cared_about_the_data__root",
+      "title": "Implications for Dry Bulk Shipping",
+      "section_path": [
+        "Implications for Dry Bulk Shipping"
+      ],
+      "section_path_text": "Implications for Dry Bulk Shipping",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Dry bulk exports bound for China grew by 4.1 per cent during the first half of the year, compared with the same period in the past year, according to data from Signal Ocean. The aggregate for the six-month period was also nearly two per cent higher than in the first half of 2024.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 448,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
