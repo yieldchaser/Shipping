@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi__root",
+  "doc_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi",
+  "parent_id": null,
+  "title": "Intermodal Weekly Market Report Week 33 2026 Broker's Insight",
+  "section_path": [
+    "Intermodal Weekly Market Report Week 33 2026 Broker's Insight"
+  ],
+  "section_path_text": "Intermodal Weekly Market Report Week 33 2026 Broker's Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Intermodal Weekly Market Report Week 33 2026 Broker's Insight\n**Broker**: Intermodal\n**Published Date**: 19/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-33-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-33-2026-brokers-insight/)\n\nMarket Report Content\nWeekly Market Report\nwww.intermodal.gr\n1\nWeek 33 | Tuesday 18th August 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nAmid broader uncertainty in the LNG market, the outlook is being\nshaped by disruptions to Middle Eastern flows, an uncertain Qa-\ntari recovery, and Europe's historically low gas inventories, which\nare together redefining the market's approach to flexible supply\nthis year. As Europe and Asian importers compete for the same\npool of US LNG exports, routes offering reliable feedgas and\nshorter, more flexible delivery options are becoming increasingly\nvaluable. Against this backdrop, a modest single -train terminal in\nWest Mexico, outside Ensenada, is worth paying attention to.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8525,
+  "source_path": "reports/broker_reports/2026/intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi.md",
+  "source_url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-33-2026-brokers-insight/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi__s01_intermodal_weekly_market_report_week_33_2026_broker_s_insight",
+      "doc_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi__root",
+      "title": "Intermodal Weekly Market Report Week 33 2026 Broker's Insight",
+      "section_path": [
+        "Intermodal Weekly Market Report Week 33 2026 Broker's Insight"
+      ],
+      "section_path_text": "Intermodal Weekly Market Report Week 33 2026 Broker's Insight",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Intermodal\n**Published Date**: 19/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-33-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-33-2026-brokers-insight/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/intermodal-weekly-market-report-week-33-2026-brokers-insight",
+        "broker",
+        "date",
+        "intermodal",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-08-19_intermodal_19_08_2026_intermodal_weekly_market_report_week_33_2026_broker_s_insi__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Weekly Market Report\nwww.intermodal.gr\n1\nWeek 33 | Tuesday 18th August 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nAmid broader uncertainty in the LNG market, the outlook is being\nshaped by disruptions to Middle Eastern flows, an uncertain Qa-\ntari recovery, and Europe's historically low gas inventories, which\nare together redefining the market's approach to flexible supply\nthis year. As Europe and Asian importers compete for the same\npool of US LNG exports, routes offering reliable feedgas and\nshorter, more flexible delivery options are becoming increasingly\nvaluable.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8425,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

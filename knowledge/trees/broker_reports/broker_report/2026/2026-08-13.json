@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026",
+  "parent_id": null,
+  "title": "Fearnleys Week 33 2026",
+  "section_path": [
+    "Fearnleys Week 33 2026"
+  ],
+  "section_path_text": "Fearnleys Week 33 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fearnleys Week 33 2026\n**Broker**: General Broker\n**Published Date**: 13/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-33-2026/](https://www.hellenicshippingnews.com/fearnleys-week-33-2026/)\n\nMarket Report Content\nFearnleys\nWeekly Report\nWeek 33 - August 12, 2026\ndrougas@hellenicshippingnews.com\n01Tankers\nVLCC\nThere's no lack of VLCC activity judging from a long list of ships reported fixed or on\nsubs. Details of which are few and far in between, these days motivated further not\nwanting to advertise to hostile elements where and when the ship in question will be\nappearing in the wider Middle East. This makes navigating the market even more\ndifficult, although if there were deals done considerable different from \"last done\"\nlevels I am sure it would have been alluded to.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 4343,
+  "source_path": "reports/broker_reports/2026/general_broker_13_08_2026_fearnleys_week_33_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/fearnleys-week-33-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026__s01_fearnleys_week_33_2026",
+      "doc_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026",
+      "parent_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026__root",
+      "title": "Fearnleys Week 33 2026",
+      "section_path": [
+        "Fearnleys Week 33 2026"
+      ],
+      "section_path_text": "Fearnleys Week 33 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 13/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-33-2026/](https://www.hellenicshippingnews.com/fearnleys-week-33-2026/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/fearnleys-week-33-2026",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026",
+      "parent_id": "broker_reports_broker_report_2026-08-13_general_broker_13_08_2026_fearnleys_week_33_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fearnleys\nWeekly Report\nWeek 33 - August 12, 2026\ndrougas@hellenicshippingnews.com\n01Tankers\nVLCC\nThere's no lack of VLCC activity judging from a long list of ships reported fixed or on\nsubs. Details of which are few and far in between, these days motivated further not\nwanting to advertise to hostile elements where and when the ship in question will be\nappearing in the wider Middle East.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4266,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

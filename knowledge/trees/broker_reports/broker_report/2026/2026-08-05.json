@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi__root",
+  "doc_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi",
+  "parent_id": null,
+  "title": "Intermodal Weekly Market Report Week 31 2026 Broker's Insight",
+  "section_path": [
+    "Intermodal Weekly Market Report Week 31 2026 Broker's Insight"
+  ],
+  "section_path_text": "Intermodal Weekly Market Report Week 31 2026 Broker's Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Intermodal Weekly Market Report Week 31 2026 Broker's Insight\n**Broker**: Intermodal\n**Published Date**: 05/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/)\n\nMarket Report Content\nWeekly Market Report\nwww.intermodal.gr\n1\nWeek 31 | Tuesday 04th August 2026\nMarket Insight\nBy George Vitsos, Offshore Broker\nThe Offshore sector has been greatly affected by the current geo-\npolitical situation, as challenges that are substantially greater\nthan those faced by merchant vessels are presented, due to the\nlimited flexibility the floating units have under tow. Floating rigs,\naccommodation units, crane barges, vessels and FPSOs that are\nbeing repositioned, typically move at speeds of only 4 -7 knots\nand are unable to take evasive action, as their slow speed, pre-\ndictable movements and large radar signature make them partic-\nularly vulnerable targets in any environment where missiles,\ndrones, unmanned surface vessels or small craft attacks are pos-\nsible. The International Maritime Organization has repeatedly\nhighlighted ",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8294,
+  "source_path": "reports/broker_reports/2026/intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi.md",
+  "source_url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi__s01_intermodal_weekly_market_report_week_31_2026_broker_s_insight",
+      "doc_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi__root",
+      "title": "Intermodal Weekly Market Report Week 31 2026 Broker's Insight",
+      "section_path": [
+        "Intermodal Weekly Market Report Week 31 2026 Broker's Insight"
+      ],
+      "section_path_text": "Intermodal Weekly Market Report Week 31 2026 Broker's Insight",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Intermodal\n**Published Date**: 05/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight",
+        "broker",
+        "date",
+        "intermodal",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-08-05_intermodal_05_08_2026_intermodal_weekly_market_report_week_31_2026_broker_s_insi__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Weekly Market Report\nwww.intermodal.gr\n1\nWeek 31 | Tuesday 04th August 2026\nMarket Insight\nBy George Vitsos, Offshore Broker\nThe Offshore sector has been greatly affected by the current geo-\npolitical situation, as challenges that are substantially greater\nthan those faced by merchant vessels are presented, due to the\nlimited flexibility the floating units have under tow. Floating rigs,\naccommodation units, crane barges, vessels and FPSOs that are\nbeing repositioned, typically move at speeds of only 4 -7 knots\nand are unable to take evasive action, as their slow speed, pre-\ndictable movements and large radar signature make them partic-\nularly vulnerable targets in any environment where missiles,\ndrones, unmanned surface vessels or small craft attacks are pos-\nsible.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8194,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

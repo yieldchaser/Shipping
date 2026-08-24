@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026",
+  "parent_id": null,
+  "title": "Fearnleys Week 32 2026",
+  "section_path": [
+    "Fearnleys Week 32 2026"
+  ],
+  "section_path_text": "Fearnleys Week 32 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fearnleys Week 32 2026\n**Broker**: General Broker\n**Published Date**: 06/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-32-2026/](https://www.hellenicshippingnews.com/fearnleys-week-32-2026/)\n\nMarket Report Content\nFearnleys\nWeekly Report\nWeek 32 - August 5, 2026\ndrougas@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nGeopolitical tensions continue to fuel the volatility in rates. Houthi attacks are now\nstarting to restrict movements and transits into the Red Sea. Owners willing to transit\nare able to attract healthy premiums over the standard Fuj/East run.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2776,
+  "source_path": "reports/broker_reports/2026/general_broker_06_08_2026_fearnleys_week_32_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/fearnleys-week-32-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026__s01_fearnleys_week_32_2026",
+      "doc_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026",
+      "parent_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026__root",
+      "title": "Fearnleys Week 32 2026",
+      "section_path": [
+        "Fearnleys Week 32 2026"
+      ],
+      "section_path_text": "Fearnleys Week 32 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 06/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-32-2026/](https://www.hellenicshippingnews.com/fearnleys-week-32-2026/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/fearnleys-week-32-2026",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026",
+      "parent_id": "broker_reports_broker_report_2026-08-06_general_broker_06_08_2026_fearnleys_week_32_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fearnleys\nWeekly Report\nWeek 32 - August 5, 2026\ndrougas@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nGeopolitical tensions continue to fuel the volatility in rates. Houthi attacks are now\nstarting to restrict movements and transits into the Red Sea.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2699,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

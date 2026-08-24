@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026",
+  "parent_id": null,
+  "title": "Xclusiv Shipbrokers Weekly 13th July 2026",
+  "section_path": [
+    "Xclusiv Shipbrokers Weekly 13th July 2026"
+  ],
+  "section_path_text": "Xclusiv Shipbrokers Weekly 13th July 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 13th July 2026\n**Broker**: Xclusiv\n**Published Date**: 14/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-13th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-13th-july-2026/)\n\nMarket Report Content\nTanker Orderbook Expands as Owners Accelerate Fleet\nRenewal\nThe tanker newbuilding market has entered 2026 with\nconsiderably stronger momentum, reflecting growing\nconfidence in long -term market fundamentals despite\ncontinued uncertainty surrounding environmental regula-\ntions and future propulsion technologies. As of mid -2026,\nthe tanker fleet (>10,000 dwt) consists of 8,090 vessels,\nwhile the global orderbook has expanded to 1,535 ships,\nresulting in an orderbook -to-fleet ratio of 19.0%. This\ncompares with an active fleet of 7,746 vessels and an or-\nderbook of 1,220 vessels during the same period of 2025,\nwhen the ratio stood at 15.8%.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 7760,
+  "source_path": "reports/broker_reports/2026/xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-13th-july-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026__s01_xclusiv_shipbrokers_weekly_13th_july_2026",
+      "doc_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026__root",
+      "title": "Xclusiv Shipbrokers Weekly 13th July 2026",
+      "section_path": [
+        "Xclusiv Shipbrokers Weekly 13th July 2026"
+      ],
+      "section_path_text": "Xclusiv Shipbrokers Weekly 13th July 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Xclusiv\n**Published Date**: 14/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-13th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-13th-july-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-13th-july-2026",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url",
+        "xclusiv"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-14_xclusiv_14_07_2026_xclusiv_shipbrokers_weekly_13th_july_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Tanker Orderbook Expands as Owners Accelerate Fleet\nRenewal\nThe tanker newbuilding market has entered 2026 with\nconsiderably stronger momentum, reflecting growing\nconfidence in long -term market fundamentals despite\ncontinued uncertainty surrounding environmental regula-\ntions and future propulsion technologies. As of mid -2026,\nthe tanker fleet (>10,000 dwt) consists of 8,090 vessels,\nwhile the global orderbook has expanded to 1,535 ships,\nresulting in an orderbook -to-fleet ratio of 19.0%.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7661,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

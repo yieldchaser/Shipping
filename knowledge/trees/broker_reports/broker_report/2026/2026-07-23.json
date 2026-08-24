@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026",
+  "parent_id": null,
+  "title": "Fearnleys Week 30 2026",
+  "section_path": [
+    "Fearnleys Week 30 2026"
+  ],
+  "section_path_text": "Fearnleys Week 30 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fearnleys Week 30 2026\n**Broker**: General Broker\n**Published Date**: 23/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-30-2026/](https://www.hellenicshippingnews.com/fearnleys-week-30-2026/)\n\nMarket Report Content\nFearnleys\nWeekly Report\nWeek 30 - July 22, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nPetrobras managed to chip off another 15 and a bit points off their last done\nBrazil/East enquiry yesterday, down 51 points from the high in the better part of a\nweek, and the likelihood is they'll manage a bit more on their next enquiry as owners\nshy away from potential danger in the Middle East and head west. On the other side,\nnow that both the Strait of Hormuz and the Bab el-Mandeb Strait are fast becoming a\n\"no go zone\" focus must change to alternative supply from the likes of USG and West\nAfrica, and punchy Suez- and Aframax rates will encourage economy of scale both\ntransatlantic and eastbound. US Secretary of State Marco Rubio said in a meeting of\nSoutheast Asian foreign ministers today that the US is still willing to negotiate an end\nto the Iran crisis, but Tehran is not serious about talks.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1208,
+  "source_path": "reports/broker_reports/2026/general_broker_23_07_2026_fearnleys_week_30_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/fearnleys-week-30-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026__s01_fearnleys_week_30_2026",
+      "doc_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026__root",
+      "title": "Fearnleys Week 30 2026",
+      "section_path": [
+        "Fearnleys Week 30 2026"
+      ],
+      "section_path_text": "Fearnleys Week 30 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 23/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-30-2026/](https://www.hellenicshippingnews.com/fearnleys-week-30-2026/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/fearnleys-week-30-2026",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-23_general_broker_23_07_2026_fearnleys_week_30_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fearnleys\nWeekly Report\nWeek 30 - July 22, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nPetrobras managed to chip off another 15 and a bit points off their last done\nBrazil/East enquiry yesterday, down 51 points from the high in the better part of a\nweek, and the likelihood is they'll manage a bit more on their next enquiry as owners\nshy away from potential danger in the Middle East and head west. On the other side,\nnow that both the Strait of Hormuz and the Bab el-Mandeb Strait are fast becoming a\n\"no go zone\" focus must change to alternative supply from the likes of USG and West\nAfrica, and punchy Suez- and Aframax rates will encourage economy of scale both\ntransatlantic and eastbound.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "lpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1131,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

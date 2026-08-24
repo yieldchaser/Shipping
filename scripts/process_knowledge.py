@@ -1278,6 +1278,12 @@ def build_sources_registry():
             )
             for category in HELLENIC_CATEGORIES
         },
+        "broker_reports": {
+            "broker_report": len(list((REPORTS_ROOT / "broker_reports").rglob("*.md"))),
+        },
+        "poten": {
+            "tankers": len(list((REPORTS_ROOT / "poten").rglob("*.md"))),
+        },
         "books": {
             "book": len(list(REPORTS_ROOT.glob("*.pdf"))),
         },
@@ -1303,6 +1309,12 @@ def build_sources_registry():
             },
             "books": {
                 "book": relpath(REPORTS_ROOT),
+            },
+            "broker_reports": {
+                "broker_report": relpath(REPORTS_ROOT / "broker_reports"),
+            },
+            "poten": {
+                "tankers": relpath(REPORTS_ROOT / "poten"),
             },
         },
     }
@@ -1331,6 +1343,12 @@ def iter_source_files(source_filter: str | None):
             for path in sorted((REPORTS_ROOT / "hellenic" / category).rglob("*.html")):
                 if is_primary_archive_html(path):
                     yield "hellenic", category, path
+    if source_filter in (None, "broker_reports", "all"):
+        for path in sorted((REPORTS_ROOT / "broker_reports").rglob("*.md")):
+            yield "broker_reports", "broker_report", path
+    if source_filter in (None, "poten", "all"):
+        for path in sorted((REPORTS_ROOT / "poten").rglob("*.md")):
+            yield "poten", "tankers", path
 
 
 def select_batch_slice(
@@ -1361,6 +1379,8 @@ def default_lists_for_doc(source: str, category: str):
         ("hellenic", "vessel_valuations"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax", "container"],
         ("hellenic", "demolition"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax", "container"],
         ("hellenic", "shipbuilding"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax", "container", "lng", "lpg"],
+        ("broker_reports", "broker_report"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax", "container"],
+        ("poten", "tankers"): ["vlcc", "suezmax", "aframax"],
     }
     commodity_defaults = {
         ("breakwave", "drybulk"): ["iron_ore", "coal", "grain", "bauxite"],
@@ -1377,6 +1397,8 @@ def default_lists_for_doc(source: str, category: str):
         ("hellenic", "vessel_valuations"): ["iron_ore", "coal", "grain", "crude_oil", "products", "gas"],
         ("hellenic", "demolition"): [],
         ("hellenic", "shipbuilding"): [],
+        ("broker_reports", "broker_report"): ["iron_ore", "coal", "grain", "crude_oil", "products"],
+        ("poten", "tankers"): ["crude_oil", "products"],
         ("book", "book"): [],
     }
     region_defaults = {
@@ -1394,6 +1416,8 @@ def default_lists_for_doc(source: str, category: str):
         ("hellenic", "vessel_valuations"): ["atlantic", "pacific", "china", "europe", "meg"],
         ("hellenic", "demolition"): ["india", "china", "europe"],
         ("hellenic", "shipbuilding"): ["china", "japan", "europe"],
+        ("broker_reports", "broker_report"): ["china", "atlantic", "pacific", "meg", "europe"],
+        ("poten", "tankers"): ["meg", "china", "atlantic", "pacific", "europe"],
         ("book", "book"): [],
     }
     return (
@@ -2489,6 +2513,10 @@ def extract_numeric_observations(sections: list[dict], limit: int = 160) -> list
 def infer_document_type(source: str, category: str) -> str:
     if source == "breakwave_insights":
         return "insights_note"
+    if source == "broker_reports":
+        return "broker_report"
+    if source == "poten":
+        return "analyst_opinion"
     if source == "hellenic":
         return {
             "dry_charter": "charter_estimates",
@@ -3215,6 +3243,134 @@ def write_markdown_doc(path: Path, metadata: dict, body: str):
     path.write_text(frontmatter.dumps(post), encoding="utf-8")
 
 
+def adapt_markdown_report(
+    md_path: Path,
+    source: str,
+    category: str,
+    existing_metadata: dict | None = None,
+) -> dict:
+    """Adapter for standalone broker-report / analyst-opinion Markdown files.
+
+    Scrapers emit reports with YAML frontmatter (title/date/source_url) and
+    `## Heading` sections. Reuse the archive-adapter's downstream enrichment
+    (taxonomy, keywords, themes, numeric observations) so these documents are
+    first-class citizens of the derived manifests.
+    """
+    existing_metadata = existing_metadata or {}
+    raw = md_path.read_text(encoding="utf-8", errors="ignore")
+
+    frontmatter: dict = {}
+    body_raw = raw
+    if raw.startswith("---"):
+        parts = raw.split("\n---", 2)
+        if len(parts) >= 2:
+            block = parts[0][3:].strip()
+            body_raw = "\n---".join(parts[1:])
+            for line in block.splitlines():
+                if ":" not in line:
+                    continue
+                key, _, value = line.partition(":")
+                value = value.strip().strip("'\"")
+                if value.startswith("[") and value.endswith("]"):
+                    items = [
+                        item.strip().strip("'\"")
+                        for item in value[1:-1].split(",")
+                        if item.strip()
+                    ]
+                    frontmatter[key.strip()] = items
+                else:
+                    frontmatter[key.strip()] = value
+
+    # Sectionize on markdown headings; fall back to the single Main section.
+    sections = []
+    current_heading = "Main"
+    current_lines = []
+    for line in body_raw.splitlines():
+        heading_match = re.match(r"^(#{1,4})\s+(.+?)\s*$", line)
+        if heading_match:
+            if current_lines:
+                text = "\n".join(current_lines).strip()
+                if text:
+                    sections.append({"heading": current_heading, "text": text})
+                current_lines = []
+            current_heading = norm_space(heading_match.group(2)) or "Main"
+            continue
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if re.match(r"^\|.*\|\s*$", stripped):
+            cells = [norm_space(cell) for cell in stripped.strip("|").split("|")]
+            cells = [cell for cell in cells if cell]
+            if cells:
+                current_lines.append(" | ".join(cells))
+            continue
+        if stripped in {"---", "***", "___"} or set(stripped) <= {"-", "=", "*", "_"}:
+            continue
+        current_lines.append(stripped)
+    if current_lines:
+        text = "\n".join(current_lines).strip()
+        if text:
+            sections.append({"heading": current_heading, "text": text})
+    if not sections:
+        sections = [{"heading": "Main", "text": frontmatter.get("title") or md_path.stem}]
+
+    date_str = None
+    raw_date = frontmatter.get("date") or ""
+    parsed_date = parse_iso_date(raw_date)
+    if parsed_date:
+        date_str = parsed_date.isoformat()
+    else:
+        # Scraper fallback formats: DD/MM/YYYY (HSN) or an embedded YYYY-MM-DD.
+        dmy = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", raw_date.strip())
+        if dmy:
+            mm, dd, yyyy = dmy.group(2).zfill(2), dmy.group(1).zfill(2), dmy.group(3)
+            date_str = f"{yyyy}-{mm}-{dd}"
+        else:
+            iso_in = re.search(r"\d{4}-\d{2}-\d{2}", raw_date)
+            if iso_in:
+                date_str = iso_in.group(0)
+    title = norm_space(frontmatter.get("title")) or md_path.stem.replace("_", " ")
+    source_url = frontmatter.get("source_url") or None
+
+    full_text = "\n\n".join(
+        f"{section['heading']}\n{section['text']}" if section["heading"] else section["text"]
+        for section in sections
+    )
+    vessels, regions, commodities = infer_taxonomy(full_text, source, category)
+    theme_data = merge_existing_theme_data(heuristic_theme_payload(full_text, category), existing_metadata)
+    keywords = (
+        existing_metadata.get("keywords")
+        if isinstance(existing_metadata.get("keywords"), list) and existing_metadata["keywords"]
+        else extract_keywords(full_text)
+    )
+    numeric_observations = extract_numeric_observations(sections)
+
+    metadata = {
+        "doc_id": f"{source}_{category}_{date_str or 'no_date'}_{slugify(md_path.stem)}",
+        "source": source,
+        "category": category,
+        "date": date_str,
+        "title": title,
+        "source_path": relpath(md_path),
+        "source_url": source_url,
+        "source_stem": md_path.stem,
+        "document_type": infer_document_type(source, category),
+        "is_error_page": False,
+        "vessel_classes": vessels,
+        "regions": regions,
+        "commodities": commodities,
+        "signals": {},
+        "summary": existing_metadata.get("summary") or heuristic_summary(full_text),
+        "keywords": keywords,
+        "themes": theme_data["themes"],
+        "key_entities": theme_data["key_entities"],
+        "market_tone": theme_data["market_tone"],
+        "numeric_observations": numeric_observations[:120],
+        "numeric_observation_count": len(numeric_observations),
+    }
+    return {"text": full_text, "metadata": metadata, "sections": sections}
+
+
 def adapt_source_file(source: str, category: str, path: Path, llm_enabled: bool, existing_metadata: dict | None = None):
     if source == "breakwave":
         return adapt_breakwave(path, category, llm_enabled, existing_metadata=existing_metadata)
@@ -3222,6 +3378,8 @@ def adapt_source_file(source: str, category: str, path: Path, llm_enabled: bool,
         return adapt_baltic(path, category, existing_metadata=existing_metadata)
     if source in {"breakwave_insights", "hellenic"}:
         return adapt_archive_html(path, source, category, existing_metadata=existing_metadata)
+    if source in {"broker_reports", "poten"}:
+        return adapt_markdown_report(path, source, category, existing_metadata=existing_metadata)
     return adapt_book(path, llm_enabled, existing_metadata=existing_metadata)
 
 
@@ -4238,7 +4396,7 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
 
 def main():
     parser = argparse.ArgumentParser(description="Shipping knowledge compiler")
-    parser.add_argument("--source", choices=["breakwave", "baltic", "breakwave_insights", "hellenic", "books", "all"], default=None)
+    parser.add_argument("--source", choices=["breakwave", "baltic", "breakwave_insights", "hellenic", "books", "broker_reports", "poten", "all"], default=None)
     parser.add_argument("--rebuild", action="store_true")
     parser.add_argument("--no-llm", action="store_true")
     parser.add_argument("--derived-only", action="store_true")
