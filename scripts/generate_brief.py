@@ -941,6 +941,65 @@ def load_physical_signals_context() -> str:
         except Exception:
             pass
 
+    # 10. Container, Agricultural Freight & Canal Logistics Benchmarks
+    try:
+        lines.append("\n=== 10. CONTAINER, AGRICULTURAL FREIGHT & CANAL LOGISTICS ===")
+        # 10a. Drewry WCI Container Spot
+        p_wci = ROOT / "data" / "indices" / "drewry_wci_historical.csv"
+        if p_wci.exists():
+            with open(p_wci, encoding="utf-8") as f:
+                wci_rows = list(csv.DictReader(f))
+            if wci_rows:
+                last_wci = wci_rows[-1]
+                lines.append(f"  • Drewry WCI ({last_wci.get('Date', '')}): Composite ${float(last_wci.get('Composite_USD', 0) or 0):,.0f}/FEU | SHA-Rotterdam ${float(last_wci.get('Shanghai_Rotterdam', 0) or 0):,.0f} | SHA-Genoa ${float(last_wci.get('Shanghai_Genoa', 0) or 0):,.0f} | SHA-LA ${float(last_wci.get('Shanghai_LA', 0) or 0):,.0f} | SHA-NY ${float(last_wci.get('Shanghai_NY', 0) or 0):,.0f}")
+
+        # 10b. USDA Bulk Grain Ocean Freight & Congestion
+        p_grain = ROOT / "data" / "derived" / "usda_grain_vessel_rates_japan.csv"
+        p_queue = ROOT / "data" / "commodities" / "usda_grain_vessel_loading_queues.csv"
+        p_landed = ROOT / "data" / "commodities" / "usda_us_vs_brazil_landed_costs.csv"
+        if p_grain.exists():
+            with open(p_grain, encoding="utf-8") as f:
+                g_rows = list(csv.DictReader(f))
+            if g_rows:
+                lg = g_rows[-1]
+                lines.append(f"  • USDA Grain Freight to Japan ({lg.get('date', '')}): US Gulf ${float(lg.get('gulf_japan_usd_mt', 0) or 0):.2f}/MT | PNW ${float(lg.get('pnw_japan_usd_mt', 0) or 0):.2f}/MT | Gulf-PNW Spread +${float(lg.get('gulf_pnw_spread', 0) or 0):.2f}/MT")
+
+        if p_queue.exists():
+            with open(p_queue, encoding="utf-8") as f:
+                q_rows = list(csv.DictReader(f))
+            if q_rows:
+                gulf_q = [r for r in q_rows if r.get('port_region') == 'Mississippi River']
+                pnw_q = [r for r in q_rows if r.get('port_region') == 'Pacific Northwest']
+                if gulf_q and pnw_q:
+                    lines.append(f"  • USDA Grain Vessel Queues: Gulf {gulf_q[-1].get('vessels_due_10d', '-')} vessels due (next 10D) | PNW {pnw_q[-1].get('vessels_due_10d', '-')} vessels due (next 10D)")
+
+        if p_landed.exists():
+            with open(p_landed, encoding="utf-8") as f:
+                l_rows = list(csv.DictReader(f))
+            if l_rows:
+                ll = l_rows[-1]
+                lines.append(f"  • Landed Soybean Cost to Shanghai ({ll.get('quarter', '')}): US Midwest ${float(ll.get('us_midwest_total_usd_mt', 0) or 0):.1f}/MT vs Brazil Cerrado ${float(ll.get('brazil_cerrado_total_usd_mt', 0) or 0):.1f}/MT (Ocean: US Gulf ${float(ll.get('us_gulf_ocean_usd_mt', 0) or 0):.1f} vs Brazil Santos ${float(ll.get('brazil_santos_ocean_usd_mt', 0) or 0):.1f})")
+
+        # 10c. Intermodal Period TC Benchmarks
+        p_inter = ROOT / "data" / "derived" / "intermodal_tc_rates.csv"
+        if p_inter.exists():
+            with open(p_inter, encoding="utf-8") as f:
+                i_rows = list(csv.DictReader(f))
+            if i_rows:
+                li = i_rows[-1]
+                lines.append(f"  • Intermodal Period TC ({li.get('date', '')}): MR 1Y TC ${float(li.get('mr_1y_tc', 0) or 0):,.0f}/day | LR1 1Y TC ${float(li.get('lr1_1y_tc', 0) or 0):,.0f}/day | Handy 1Y TC ${float(li.get('handy_1y_tc', 0) or 0):,.0f}/day | Cape 3Y TC ${float(li.get('cape_3y_tc', 0) or 0):,.0f}/day")
+
+        # 10d. Panama Canal Operational Limits
+        p_panama = ROOT / "data" / "commodities" / "panama_canal_draft_and_slots.csv"
+        if p_panama.exists():
+            with open(p_panama, encoding="utf-8") as f:
+                p_rows = list(csv.DictReader(f))
+            if p_rows:
+                lp = p_rows[-1]
+                lines.append(f"  • Panama Canal ACP ({lp.get('date', '')}): Neopanamax Draft Limit {lp.get('neopanamax_draft_tfw_ft', '50.0')} ft | Daily Booking Slots: {lp.get('daily_booking_slots', '36')}/day")
+    except Exception:
+        pass
+
     return "\n".join(lines)
 
 
