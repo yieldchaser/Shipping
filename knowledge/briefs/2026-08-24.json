@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:53:31.175280+00:00",
+  "generated_at": "2026-08-24T15:35:27.765240+00:00",
   "brief_date": "2026-08-24",
   "constituent_holdings": {
     "bdry": {
@@ -7,22 +7,22 @@
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Sep 26",
         "ticker": "C5TCM U26 INDEX",
         "lots": 155.0,
-        "price": 41021.0,
-        "market_value": 6358255.0,
-        "weight": 20.25
+        "price": 42643.0,
+        "market_value": 6609665.0,
+        "weight": 20.47
       },
       "next_contract": {
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Aug 26",
         "ticker": "C5TCM Q26 INDEX",
         "lots": 155.0,
-        "price": 39093.0,
-        "market_value": 6059415.0,
-        "weight": 19.3
+        "price": 39675.0,
+        "market_value": 6149625.0,
+        "weight": 19.04
       },
-      "implied_roll_yield_pct": 4.7,
+      "implied_roll_yield_pct": 6.96,
       "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Sep 26 settling above $41,021/day with 4.7% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 14.1% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Sep 26 settling above $42,643/day with 7.0% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 20.9% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 15
     },
@@ -30,31 +30,31 @@
       "prompt_contract": {
         "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26",
         "ticker": "DD3CM U26 INDEX",
-        "lots": 265.0,
-        "price": 121.26,
-        "market_value": 32133900.0,
-        "weight": 19.17
+        "lots": 335.0,
+        "price": 133.39,
+        "market_value": 44685650.0,
+        "weight": 22.09
       },
       "next_contract": {
         "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26",
         "ticker": "DD3CM X26 INDEX",
-        "lots": 237.0,
-        "price": 106.1,
-        "market_value": 25145700.0,
-        "weight": 15.0
+        "lots": 320.0,
+        "price": 115.099,
+        "market_value": 36831680.0,
+        "weight": 18.2
       },
-      "implied_roll_yield_pct": 12.5,
+      "implied_roll_yield_pct": 13.71,
       "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26 settling above WS 121.3 (~$121,260/d) with 12.5% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 37.5% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26 settling above WS 133.4 (~$133,390/d) with 13.7% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 41.1% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 10
     }
   },
   "generation": {
-    "mode": "llm",
-    "provider_used": "nim",
-    "model": "meta/llama-3.3-70b-instruct",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
       "groq",
       "nim",
@@ -63,13 +63,15 @@
     ],
     "attempted_providers": [
       "groq",
-      "nim"
+      "nim",
+      "openrouter",
+      "ollama"
     ]
   },
   "executive_tldr": [
-    "The dry bulk market is expected to remain strong over the next 2-4 weeks, driven by stable fundamentals and a strong Atlantic-Pacific balance.",
-    "The tanker market is expected to remain strong over the next 2-4 weeks, driven by positive fundamentals and a strong clean tanker market.",
-    "The upcoming monthly trade data and inventory releases for late August and September will be key catalysts for the market."
+    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Dry Bulk displays stronger statistical momentum than Tankers (Z-differential +0.81σ), favoring dry bulk spread positioning.",
+    "Tactical Desk Strategy: Overweight Dry Bulk (BDI/Capesize) relative to Tanker assets on favorable commodity restocking momentum.",
+    "Catalyst & Risk Boundary: Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment. Invalidation Trigger: A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
   ],
   "market_snapshot": {
     "bdi": {
@@ -140,23 +142,21 @@
     "dry_bulk": {
       "confluence_type": "NEUTRAL",
       "momentum_grade": "UP",
-      "positioning_bias": "LONG",
-      "confidence_score": 0.7,
+      "positioning_bias": "NEUTRAL",
+      "confidence_score": 0.45,
       "confluence_note": "Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 1 pos/2 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
-      "summary": "The dry bulk market is currently in a strong position, with the BDI at 3083 points, which is in the 92nd percentile historically. The momentum is characterized by a Z-score of +1.85σ and a ROC60 of -2.2%, indicating a rapid increase in the market. The analyst consensus is neutral, with 0 positive and 0 negative sentiments, and the vessel-class breakdown shows that the Capesize segment is leading the market. The market is expected to remain strong over the next 2-4 weeks, driven by stable fundamentals and a strong Atlantic-Pacific balance. However, the market is vulnerable to geopolitical disruptions, particularly in the Black Sea and Red Sea regions. The recent increase in Suezmax earnings premiums is a major driver of the market, and any changes in this premium could impact the market. The market is also influenced by the iron ore and coal trade, with China being a major player in both markets.",
+      "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:6). Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 1 pos/2 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
       "key_signals": [
-        "The BDI is at 3083 points, which is in the 92nd percentile historically, indicating a strong market.",
-        "The Capesize segment is leading the market, with a Z-score of +1.85σ and a ROC60 of -1.3%.",
-        "The Panamax segment is also strong, with a Z-score of +1.58σ and a ROC60 of -8.5%.",
-        "The Supramax segment is in an expansion regime, with a Z-score of +1.02σ and a ROC60 of +2.4%.",
-        "The Handysize segment is in an expansion regime, with a Z-score of +0.82σ and a ROC60 of +2.6%.",
-        "The dry bulk market is expected to remain strong over the next 2-4 weeks, driven by stable fundamentals and a strong Atlantic-Pacific balance."
+        "Quant: BDI value=3083.0, z=+1.85sigma, 5Y percentile=92.1%.",
+        "Qual: last 6 reports sentiment mix -> neutral:6.",
+        "Cross-check: CAPESIZE value=5105.0, z=+1.85sigma.",
+        "Latest report 2026-08-18: momentum=neutral, fundamentals=neutral."
       ],
-      "trade_idea": "No high-conviction setup: A clear alignment of quant and qual signals is needed to validate a trade thesis.",
-      "outlook": "The market is expected to remain strong over the next 2-4 weeks, driven by stable fundamentals and a strong Atlantic-Pacific balance, but is vulnerable to geopolitical disruptions.",
-      "catalyst_watch": "The upcoming monthly trade data and inventory releases for late August and September will be key catalysts for the market.",
-      "watch": "The upcoming monthly trade data and inventory releases for late August and September will be key catalysts for the market.",
-      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
+      "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
+      "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
+      "catalyst_watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
+      "risk_note": "A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime.",
       "report_dates": [
         "2026-08-18",
         "2026-08-04",
@@ -172,19 +172,18 @@
       "positioning_bias": "LONG",
       "confidence_score": 0.8,
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 6 Breakwave reports: Sentiment 0 pos/1 neg/5 neu; Momentum 2 pos/2 neg/2 neu; Fundamentals 4 pos/0 neg/2 neu.",
-      "summary": "The tanker market is in a bull confluence, driven by positive fundamentals and a strong clean tanker market. The market is characterized by a Z-score of +0.81σ and a ROC60 of -19.6%, indicating a rapid increase in the market. The analyst consensus is bullish, with 4 positive and 0 negative sentiments, and the vessel-class breakdown shows that the clean tanker segment is leading the market. The market is expected to remain strong over the next 2-4 weeks, driven by positive fundamentals and a strong clean tanker market. However, the market is vulnerable to geopolitical disruptions, particularly in the Middle East and North Africa regions. Segment breadth remains important: clean tankers at 1387.0 (ROC60 -19.6%), alongside dirty tankers at 2644.0 (ROC60 +11.3%).",
+      "summary": "Tanker is in distribution regime at 1387.0, with z-score +0.81sigma and ROC60 -19.6%. Recent analyst sentiment skews neutral (neutral:5, negative:1). Quant momentum and analyst signals align bullishly for tanker (Z=+0.81sigma). Of 6 Breakwave reports: Sentiment 0 pos/1 neg/5 neu; Momentum 2 pos/2 neg/2 neu; Fundamentals 4 pos/0 neg/2 neu.",
       "key_signals": [
-        "The tanker market is in a bull confluence, with a Z-score of +0.81σ and a ROC60 of -19.6%.",
-        "The clean tanker segment is leading the market, with a Z-score of +0.58σ and a ROC60 of -19.6%.",
-        "The dirty tanker segment is also strong, with a Z-score of +1.04σ and a ROC60 of +11.3%.",
-        "The VLCC segment is in a bull confluence, with a Z-score of +1.04σ and a ROC60 of +11.3%.",
-        "The Suezmax segment is in a bull confluence, with a Z-score of +0.58σ and a ROC60 of -19.6%."
+        "Quant: CLEAN_TANKER value=1387.0, z=+0.81sigma, 5Y percentile=94.2%.",
+        "Qual: last 6 reports sentiment mix -> neutral:5, negative:1.",
+        "Cross-check: DIRTY_TANKER value=2644.0, z=+1.04sigma.",
+        "Latest report 2026-08-11: momentum=neutral, fundamentals=positive."
       ],
-      "trade_idea": "A long position in the clean tanker segment, particularly in the VLCC and Suezmax segments, with an entry trigger of $40,000/day and an exit thesis of $50,000/day.",
-      "outlook": "The market is expected to remain strong over the next 2-4 weeks, driven by positive fundamentals and a strong clean tanker market, but is vulnerable to geopolitical disruptions.",
-      "catalyst_watch": "The upcoming OPEC+ ministerial reviews and weekly EIA crude stock figures will be key catalysts for the market.",
-      "watch": "The upcoming OPEC+ ministerial reviews and weekly EIA crude stock figures will be key catalysts for the market.",
-      "risk_note": "If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline.",
+      "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "catalyst_watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
+      "risk_note": "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis.",
       "report_dates": [
         "2026-08-11",
         "2026-07-28",
@@ -195,11 +194,11 @@
       ]
     }
   },
-  "macro_note": "The recent increase in Suezmax earnings premiums is a major driver of the market, and any changes in this premium could impact the market. The market is also influenced by the iron ore and coal trade, with China being a major player in both markets. The upcoming OPEC+ ministerial reviews and weekly EIA crude stock figures will be key catalysts for the market.",
+  "macro_note": "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments.",
   "cross_sector_analysis": {
-    "relative_value": "The dry bulk market has a better risk-reward than the tanker market, driven by a strong Atlantic-Pacific balance and stable fundamentals. The spread between the BDI and the tanker market is around 1000 points, indicating a strong relative value for the dry bulk market.",
-    "dominant_driver": "The dominant driver for both sectors is the iron ore and coal trade, with China being a major player in both markets. The recent increase in Suezmax earnings premiums is also a major driver of the market.",
-    "positioning_recommendation": "A long position in the dry bulk market, particularly in the Capesize segment, with an entry trigger of $30,000/day and an exit thesis of $40,000/day, and a long position in the clean tanker segment, particularly in the VLCC and Suezmax segments, with an entry trigger of $40,000/day and an exit thesis of $50,000/day."
+    "relative_value": "Dry Bulk displays stronger statistical momentum than Tankers (Z-differential +0.81σ), favoring dry bulk spread positioning.",
+    "dominant_driver": "Global industrial commodity restocking cycles and regional geopolitical rerouting across key maritime choke points.",
+    "positioning_recommendation": "Overweight Dry Bulk (BDI/Capesize) relative to Tanker assets on favorable commodity restocking momentum."
   },
   "sources": [
     "breakwave_drybulk_2026-08-18",
