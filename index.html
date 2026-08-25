@@ -11811,21 +11811,42 @@ if (intelTabsContainer) {
     function parseDate(str) {
       if (!str) return null;
       if (str instanceof Date) return isNaN(str.getTime()) ? null : str;
-      if (typeof str !== 'string') str = String(str);
-      const [d, m, y] = str.split('-');
-      if (!d || !m || !y) return null;
-      const dt = new Date(parseInt(y), parseInt(m) - 1, parseInt(d));
-      return isNaN(dt.getTime()) ? null : dt;
+      if (typeof str !== 'string') str = String(str).trim();
+      else str = str.trim();
+      if (!str) return null;
+
+      // 1. ISO format: YYYY-MM-DD or YYYY-MM
+      if (/^\d{4}[-/]\d{1,2}(?:[-/]\d{1,2})?/.test(str)) {
+        const parts = str.split(/[-/T\s]/);
+        const y = parseInt(parts[0], 10);
+        const m = parseInt(parts[1], 10) - 1;
+        const d = parts[2] ? parseInt(parts[2], 10) : 1;
+        const dt = new Date(y, m, d);
+        return isNaN(dt.getTime()) ? null : dt;
+      }
+
+      // 2. European / Commonwealth format: DD-MM-YYYY or DD/MM/YYYY
+      if (/^\d{1,2}[-/]\d{1,2}[-/]\d{4}/.test(str)) {
+        const parts = str.split(/[-/]/);
+        const d = parseInt(parts[0], 10);
+        const m = parseInt(parts[1], 10) - 1;
+        const y = parseInt(parts[2], 10);
+        const dt = new Date(y, m, d);
+        return isNaN(dt.getTime()) ? null : dt;
+      }
+
+      // 3. Natural Month Name / Date.parse fallback (e.g. "January 1996", "1996-01")
+      const ts = Date.parse(str);
+      if (!isNaN(ts)) {
+        const dt = new Date(ts);
+        return isNaN(dt.getTime()) ? null : dt;
+      }
+
+      return null;
     }
 
     function parseDateISO(str) {
-      if (!str) return null;
-      if (str instanceof Date) return isNaN(str.getTime()) ? null : str;
-      if (typeof str !== 'string') str = String(str);
-      const [y, m, d] = str.split('-');
-      if (!y || !m || !d) return null;
-      const dt = new Date(parseInt(y), parseInt(m) - 1, parseInt(d));
-      return isNaN(dt.getTime()) ? null : dt;
+      return parseDate(str);
     }
 
     function parseVal(str) {
@@ -12639,13 +12660,13 @@ if (intelTabsContainer) {
         const usdaGrainRatesPromise = safeFetch('data/derived/usda_grain_vessel_rates_japan.csv', 'USDA Grain Rates', [], r => {
           DATA.usdaGrainRates = DATA.usda_grain_freight = DATA.usdaGrainFreight = (r || []).map(row => {
             const rawDate = (row.Date || row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            const d = parseDate(rawDate) || (row.Year && row.Month ? new Date(parseInt(row.Year, 10), parseInt(row.Month, 10) - 1, 1) : null);
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
-              gulfToJapan: parseFloat(row.Gulf_To_Japan || 0) || null,
-              pnwToJapan: parseFloat(row.PNW_To_Japan || 0) || null,
-              spread: parseFloat(row.Gulf_PNW_Spread || 0) || null,
+              gulfToJapan: parseFloat(row.Gulf_To_Japan || row['Gulf_To_Japan'] || row.gulf_to_japan || 0) || null,
+              pnwToJapan: parseFloat(row.PNW_To_Japan || row['PNW_To_Japan'] || row.pnw_to_japan || 0) || null,
+              spread: parseFloat(row.Gulf_PNW_Spread || row['Gulf_PNW_Spread'] || row.spread || 0) || null,
             };
           }).filter(row => row.date != null);
         });
@@ -12653,7 +12674,10 @@ if (intelTabsContainer) {
         const usdaLandedCostsPromise = safeFetch('data/commodities/usda_us_vs_brazil_landed_costs.csv', 'USDA Landed Costs', [], r => {
           DATA.usdaLandedCosts = DATA.usda_landed_costs = DATA.usdaLandedCost = DATA.landed_cost = (r || []).map(row => {
             const rawDate = (row.Date || row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            const d = parseDate(rawDate) || (row.Year && row.Quarter ? new Date(parseInt(row.Year, 10), (parseInt(row.Quarter, 10) - 1) * 3, 1) : null);
+            const total = parseFloat(row['Total Transportation Costs'] || row.Total_Transportation_Costs || row.Total || 0) || null;
+            const landed = parseFloat(row['Landed Cost'] || row.Landed_Cost || 0) || null;
+            const farm = parseFloat(row['Farm Value'] || row.Farm_Value || 0) || null;
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
@@ -12661,11 +12685,12 @@ if (intelTabsContainer) {
               quarter: (row.Quarter || '').trim(),
               origin: (row.Origin || '').trim(),
               destination: (row.Destination || '').trim(),
-              truck: parseFloat(row.Truck || 0) || null,
-              railOrBarge: parseFloat(row.Rail_Or_Barge || 0) || null,
-              ocean: parseFloat(row.Ocean || 0) || null,
-              totalCost: parseFloat(row.Total_Transportation_Costs || row.Total || 0) || null,
-              landedCost: parseFloat(row.Landed_Cost || 0) || null,
+              truck: parseFloat(row.Truck || row.truck || 0) || null,
+              railOrBarge: parseFloat(row.Rail_Or_Barge || row.Barge || row.Rail || 0) || null,
+              ocean: parseFloat(row.Ocean || row.ocean || 0) || null,
+              totalCost: total,
+              farmValue: farm,
+              landedCost: landed || (total != null && farm != null ? total + farm : total),
             };
           }).filter(row => row.date != null);
         });
@@ -12673,14 +12698,14 @@ if (intelTabsContainer) {
         const usdaVesselQueuesPromise = safeFetch('data/commodities/usda_grain_vessel_loading_queues.csv', 'USDA Vessel Queues', [], r => {
           DATA.usdaVesselQueues = DATA.usda_vessel_queues = (r || []).map(row => {
             const rawDate = (row.Date || row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            const d = parseDate(rawDate);
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
-              port: (row.Port || '').trim(),
-              inPort: parseInt(row.In_Port || row.in_port || 0, 10) || null,
-              loaded7Days: parseInt(row.Loaded_Past_7_Days || row.loaded_7_days || 0, 10) || null,
-              due10Days: parseInt(row.Due_Next_10_Days || row.due_10_days || 0, 10) || null,
+              port: (row.Port || row.port || '').trim(),
+              inPort: parseInt(row['In Port'] || row.In_Port || row.in_port || 0, 10) || 0,
+              loaded7Days: parseInt(row['Loaded, Past 7 Days'] || row.Loaded_Past_7_Days || row.loaded_7_days || 0, 10) || 0,
+              due10Days: parseInt(row['Due, Next 10 Days'] || row.Due_Next_10_Days || row.due_10_days || 0, 10) || 0,
             };
           }).filter(row => row.date != null);
         });
@@ -21873,27 +21898,43 @@ if (intelTabsContainer) {
       const rows = DATA.usdaLandedCosts || DATA.usda_landed_costs || DATA.usdaLandedCost || DATA.landed_cost || [];
       if (!rows || !rows.length) return;
 
-      const chinaRows = rows.filter(r => (r.destination || '').toLowerCase().includes('shanghai') || (r.destination || '').toLowerCase().includes('china'));
-      const usRows = chinaRows.filter(r => (r.origin || '').toLowerCase().includes('davenport') || (r.origin || '').toLowerCase().includes('illinois') || (r.origin || '').toLowerCase().includes('minneapolis') || (r.origin || '').toLowerCase().includes('us'));
-      const brRows = chinaRows.filter(r => (r.origin || '').toLowerCase().includes('mato grosso') || (r.origin || '').toLowerCase().includes('goias') || (r.origin || '').toLowerCase().includes('brazil'));
+      const chinaRows = rows.filter(r => {
+        const dest = (r.destination || '').toLowerCase();
+        return dest.includes('shanghai') || dest.includes('china') || dest === '';
+      });
+      const usRows = chinaRows.filter(r => {
+        const orig = (r.origin || '').toLowerCase();
+        return orig.includes('davenport') || orig.includes('illinois') || orig.includes('minneapolis') || orig.includes('us') || orig.includes('iowa');
+      });
+      const brRows = chinaRows.filter(r => {
+        const orig = (r.origin || '').toLowerCase();
+        return orig.includes('mt') || orig.includes('go') || orig.includes('santos') || orig.includes('paranagua') || orig.includes('mato') || orig.includes('goias') || orig.includes('brazil');
+      });
 
       const dates = [...new Set(chinaRows.map(r => r.dateStr))].sort().slice(-40);
 
       const usMap = {}, brMap = {};
-      usRows.forEach(r => { usMap[r.dateStr] = r.totalCost != null ? r.totalCost : r.landedCost; });
-      brRows.forEach(r => { brMap[r.dateStr] = r.totalCost != null ? r.totalCost : r.landedCost; });
+      usRows.forEach(r => {
+        const cost = r.totalCost != null ? r.totalCost : r.landedCost;
+        if (cost != null && (!usMap[r.dateStr] || cost > usMap[r.dateStr])) usMap[r.dateStr] = cost;
+      });
+      brRows.forEach(r => {
+        const cost = r.totalCost != null ? r.totalCost : r.landedCost;
+        if (cost != null && (!brMap[r.dateStr] || cost > brMap[r.dateStr])) brMap[r.dateStr] = cost;
+      });
 
       const usData = dates.map(d => usMap[d] != null ? usMap[d] : null);
       const brData = dates.map(d => brMap[d] != null ? brMap[d] : null);
       const spreadData = dates.map(d => (usMap[d] != null && brMap[d] != null) ? (usMap[d] - brMap[d]) : null);
 
-      const latestDate = dates[dates.length - 1];
+      const validDates = dates.filter(d => usMap[d] != null || brMap[d] != null);
+      const latestDate = validDates[validDates.length - 1] || dates[dates.length - 1];
       const usLatest = usMap[latestDate] || 0;
       const brLatest = brMap[latestDate] || 0;
       const diff = usLatest - brLatest;
 
       const badge = document.getElementById('landedCostBadge');
-      if (badge && usLatest && brLatest) {
+      if (badge && (usLatest || brLatest)) {
         const sign = diff >= 0 ? '+' : '';
         badge.innerHTML = `US: <strong>$${usLatest.toFixed(1)}/MT</strong> | Brazil: <strong>$${brLatest.toFixed(1)}/MT</strong> | Spread: <strong>${sign}$${diff.toFixed(1)}/MT</strong>`;
       }
