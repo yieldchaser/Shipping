@@ -1,3 +1,9 @@
+# 2026-08-25 audit: this script is a MANUAL forensic tool only — it is NOT wired
+# into any workflow, and it must not be run against data/derived/time_charter_rates.csv
+# without re-applying the archive-truth corrections committed in feat/audit-fixes
+# (docs/alibra_data/integration_rejections.log pairs + verified scrappage/TC fixes).
+# Its positional column slicing (_vals[-6:] / _vals[-4:]) is the root cause of the
+# column-misalignment artifacts corrected in that branch.
 import json
 import csv
 from pathlib import Path
