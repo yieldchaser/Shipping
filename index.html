@@ -31190,9 +31190,10 @@ if (intelTabsContainer) {
         else if (type === 'concept-ton-mile-sim' || type === 'ton-mile-header') {
           html = `<div class="rt-title">Ton-Mile Absorption & Active Fleet Utilization Model</div>`;
           html += `<div class="rt-row"><span class="rt-label">Ton-Mile Equation</span><span class="rt-val">Ton-Miles = ∑ (Cargo Volume MT × Nautical Distance nm)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Fleet Utilization</span><span class="rt-val" style="color:#58a6ff">U = TM / (Nominal Fleet DWT × (1 − Congestion Factor))</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Guinea Multiplier</span><span class="rt-val" style="color:#e3b341">11,200 nm = 3.67x more DWT-days than WAus (3,600 nm)</span></div>`;
-          html += `<div class="rt-note">Interactive simulation demonstrating why expanding long-haul trades (Guinea Bauxite, Brazil Ore, US Gulf Crude) structurally tighten global fleet capacity. When active fleet utilization exceeds 88%–90%, freight rates experience non-linear super-cycle repricing.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Fleet Scope</span><span class="rt-val" style="color:#58a6ff">Capesize (380M DWT), VLCC (270M DWT), Suezmax (210M DWT)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Fleet Utilization</span><span class="rt-val" style="color:#3fb950">U = TM / (Nominal Fleet DWT × (1 − Congestion Factor))</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Long-Haul Multiplier</span><span class="rt-val" style="color:#e3b341">Guinea (11,200 nm) & USG-Asia (15,200 nm) absorb 3.6–4.2x DWT-days</span></div>`;
+          html += `<div class="rt-note">Interactive simulation demonstrating why expanding long-haul trades (Guinea Bauxite, Brazil Ore, US Gulf & Guyana Crude) structurally tighten global dry bulk and tanker fleet capacity. When active fleet utilization exceeds 88%–90%, freight rates experience non-linear super-cycle repricing.</div>`;
         }
         else if (type === 'concept-lpg-freight') {
           const spot = target.getAttribute('data-tt-spot') || '—';
