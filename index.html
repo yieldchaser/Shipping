@@ -22373,8 +22373,8 @@ if (intelTabsContainer) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
-            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + ' d' }, title: { display: true, text: 'Waiting Time (Days)', color: '#8b949e', font: { size: 10 } } },
-            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#58a6ff', font: { size: 10 } }, title: { display: true, text: 'Anchored Ships', color: '#58a6ff', font: { size: 10 } } }
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => (typeof v === 'number' ? Number(v.toFixed(1)) : v) + ' d' }, title: { display: true, text: 'Waiting Time (Days)', color: '#8b949e', font: { size: 10 } } },
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#58a6ff', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v) : v) }, title: { display: true, text: 'Anchored Ships', color: '#58a6ff', font: { size: 10 } } }
           }
         }
       });

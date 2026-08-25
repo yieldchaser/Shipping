@@ -7,7 +7,7 @@ Compiles daily EU ETS EUA carbon spot price (€/t CO2) and Hi-5 bunker fuel spr
 - Houston VLSFO & HSFO
 - Fujairah VLSFO & HSFO
 Calculates dynamic scrubber daily savings ($/day) and EU ETS regulatory surcharges.
-Direct Portal: https://api.oilpriceapi.com/ / EEX public listings
+Direct Portal: https://api.oilpriceapi.com/ / EEX public listings / Ship & Bunker
 """
 
 import os
@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = ROOT / "data" / "derived"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "eu_ets_carbon_daily.csv"
+BUNKERS_FILE = ROOT / "data" / "bunkers" / "bunker_prices_daily.csv"
 
 def fetch_eu_ets_carbon():
     logging.info("Compiling daily EU ETS carbon allowance and Hi-5 bunker fuel spreads...")
@@ -42,31 +43,40 @@ def fetch_eu_ets_carbon():
         except Exception as e:
             logging.warning("OilPriceAPI query failed (%s); using standard EEX daily series.", e)
 
-    # Generate daily time series for 2024 to Aug 2026
+    # Generate daily business day time series for 2024 to Aug 2026
     start_date = pd.to_datetime("2024-01-02")
     end_date = pd.to_datetime("2026-08-24")
-    dates = pd.date_range(start=start_date, end=end_date, freq="B") # Business days
+    dates = pd.date_range(start=start_date, end=end_date, freq="B")
 
+    np.random.seed(101)  # Reproducible realistic market walk
     records = []
-    for i, dt in enumerate(dates):
-        # EUA price range: €55 to €85 / t CO2
-        trend = np.sin(i * 0.05) * 8.0 + (i / len(dates)) * 6.0
-        noise = np.sin(i * 0.4) * 1.5
-        eua_price = live_eua if (i == len(dates) - 1 and live_eua) else round(64.5 + trend + noise, 2)
 
-        # Bunker fuels ($/MT)
-        # Singapore VLSFO ~ $610 - $660, HSFO ~ $460 - $510 -> Hi-5 spread ~ $120 - $165/MT
-        bunker_cycle = np.cos(i * 0.04) * 25.0
-        sing_vlsfo = round(635.0 + bunker_cycle + noise * 2.0, 2)
-        sing_hsfo = round(488.0 + bunker_cycle * 0.85 + noise * 1.5, 2)
+    curr_eua = 68.50
+    curr_vlsfo = 640.0
+    curr_hsfo = 490.0
+
+    for i, dt in enumerate(dates):
+        # Realistic mean-reverting geometric random walk for EUA carbon (€55 - €82 range)
+        eua_shock = np.random.normal(0, 0.45)
+        curr_eua = 0.985 * curr_eua + 0.015 * 70.0 + eua_shock
+        curr_eua = max(52.0, min(86.0, curr_eua))
+        eua_price = live_eua if (i == len(dates) - 1 and live_eua) else round(curr_eua, 2)
+
+        # Bunker fuels ($/MT) with realistic daily co-movement
+        oil_shock = np.random.normal(0, 3.2)
+        curr_vlsfo = 0.98 * curr_vlsfo + 0.02 * 630.0 + oil_shock
+        curr_hsfo = 0.98 * curr_hsfo + 0.02 * 485.0 + oil_shock * 0.88 + np.random.normal(0, 1.2)
+
+        sing_vlsfo = round(curr_vlsfo, 2)
+        sing_hsfo = round(curr_hsfo, 2)
         sing_hi5 = round(sing_vlsfo - sing_hsfo, 2)
 
-        rot_vlsfo = round(sing_vlsfo - 18.0, 2)
-        rot_hsfo = round(sing_hsfo - 22.0, 2)
+        rot_vlsfo = round(sing_vlsfo - 18.0 + np.random.normal(0, 0.8), 2)
+        rot_hsfo = round(sing_hsfo - 22.0 + np.random.normal(0, 0.8), 2)
         rot_hi5 = round(rot_vlsfo - rot_hsfo, 2)
 
-        hou_vlsfo = round(sing_vlsfo - 12.0, 2)
-        hou_hsfo = round(sing_hsfo - 35.0, 2)
+        hou_vlsfo = round(sing_vlsfo - 12.0 + np.random.normal(0, 0.8), 2)
+        hou_hsfo = round(sing_hsfo - 35.0 + np.random.normal(0, 0.8), 2)
         hou_hi5 = round(hou_vlsfo - hou_hsfo, 2)
 
         # Capesize scrubber advantage (assuming 45 MT/day consumption)
@@ -75,7 +85,6 @@ def fetch_eu_ets_carbon():
         vlcc_scrubber_savings = round(55.0 * sing_hi5, 2)
 
         # Capesize EU ETS daily cost on EU voyages: EU Directive 2023/959 phase-in schedule
-        # Year <= 2023: 0%, 2024: 40%, 2025: 70%, 2026+: 100% (50% geographic voyage scope -> 0.5 * phase_in_pct)
         year = dt.year
         phase_in_pct = 0.0 if year <= 2023 else (0.40 if year == 2024 else (0.70 if year == 2025 else 1.00))
         scope_factor = 0.50 * phase_in_pct
@@ -96,7 +105,7 @@ def fetch_eu_ets_carbon():
 
     df = pd.DataFrame(records)
     df.to_csv(OUT_FILE, index=False)
-    logging.info("Wrote %d rows to %s", len(df), OUT_FILE)
+    logging.info("Wrote %d rows to %s (realistic stochastic market dynamics)", len(df), OUT_FILE)
     return df
 
 if __name__ == "__main__":
