@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial__root",
+  "doc_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial",
+  "parent_id": null,
+  "title": "Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026",
+  "section_path": [
+    "Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026"
+  ],
+  "section_path_text": "Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Lion Shipbrokers Weekly Market Report, Week 29 2026\n**Broker**: Lion Shipbrokers\n**Published Date**: 17/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-29-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-29-2026/)\n\nMarket Report Content\nLION SHIPBROKERS\nWEEKLY REPORT\nShould you have any comments or questions about the content of our report or require our services, please contact:\nLION SHIPBROKERS LIMITED\nTel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)\nDry Cargo Chartering : chartering@lionshipbrokers.gr\nContainer Chartering : container@lionshipbrokers.gr\nSale & Purchase/Demolition : snp@lionshipbrokers.gr\nResearch & Valuations : research@lionshipbrokers.gr\nVisit our homepage at www.lionshipbrokers.com for more details\nWEEK 29 - 17 JULY 2026\nQuote of the week:\n\"Football is a simple game. Twenty-two men chase a ball for 90 minutes and at the end, the Germans always win.\"\nGary Lineker (born 30 November 1960) - English sports broadcaster and former professional footballer). MARKET COMMENTARY\nBulkers: The Baltic index has corrected, closing today at 2752 points, 6.5% lower than last Frid",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2972,
+  "source_path": "reports/broker_reports/2026/general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial.md",
+  "source_url": "https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial__s01_agora_shipbroking_corporation_snapshot_of_commercial_indicators_report_week_29_2026",
+      "doc_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial",
+      "parent_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial__root",
+      "title": "Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026",
+      "section_path": [
+        "Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026"
+      ],
+      "section_path_text": "Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 17/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/](https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial",
+      "parent_id": "broker_reports_broker_report_2026-07-17_general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "AGORA SHIPBROKING CORPORATION\nPiraeus Office: No. 9, II Merarchias Str., Piraeus 18535, Greece\nLondon Office: No.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2857,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

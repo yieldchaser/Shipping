@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026",
+  "parent_id": null,
+  "title": "Affinity Tanker Weekly, 17 July 2026",
+  "section_path": [
+    "Affinity Tanker Weekly, 17 July 2026"
+  ],
+  "section_path_text": "Affinity Tanker Weekly, 17 July 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gibson tanker report - Diesel Drought\n**Broker**: General Broker\n**Published Date**: 18/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/](https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/)\n\nMarket Report Content\nin Weekly Shipbrokers Reports\n18/07/2026\nWith the Middle East crisis at the forefront of everyone's minds, a second, more slowly building supply shock has flown somewhat\nSource: GIBSON SHIPBROKERS LTD",
+  "keywords": [
+    "products",
+    "broker",
+    "gibson",
+    "https",
+    "shipbrokers",
+    "source",
+    "www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought",
+    "building",
+    "content",
+    "crisis",
+    "date",
+    "diesel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2878,
+  "source_path": "reports/broker_reports/2026/general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026__s01_affinity_tanker_weekly_17_july_2026",
+      "doc_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026__root",
+      "title": "Affinity Tanker Weekly, 17 July 2026",
+      "section_path": [
+        "Affinity Tanker Weekly, 17 July 2026"
+      ],
+      "section_path_text": "Affinity Tanker Weekly, 17 July 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 18/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026",
+      "parent_id": "broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Affinity Research LLP, 44th Floor,\nThe Leadenhall Building, 122 Leadenhall Street,\nLondon, EC3A 8EE, United Kingdom\nT. affinityship.comAFFINITY TANKER WEEKLY\n17 JULY 2026\n1\nCrude Tanker Comments\nThe VLCC market began the week on steady ground; however, this has since given way\nto heightened uncertainty East of Suez and a softening sentiment in the Atlantic.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2788,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

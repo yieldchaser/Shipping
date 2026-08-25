@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29__root",
+  "doc_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29",
+  "parent_id": null,
+  "title": "Carriers Sales & Purchase Market Report, Week 29",
+  "section_path": [
+    "Carriers Sales & Purchase Market Report, Week 29"
+  ],
+  "section_path_text": "Carriers Sales & Purchase Market Report, Week 29",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 20th July 2026\n**Broker**: Xclusiv\n**Published Date**: 21/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/)\n\nMarket Report Content\nBeyond the Chokepoint: How Gulf Producers Are Hedg-\ning Against Hormuz\nThe renewed escalation in the Middle East has again\nplaced the Strait of Hormuz at the centre of the energy\nand shipping debate, but this time the discussion is mov-\ning beyond war -risk premiums and temporary rerouting. Following the latest exchange of attacks, the escalation of\ntension and President Trump's proposal for a 20% charge\non cargoes transiting Hormuz, which eventually was tak-\nen back, the market is being forced to price not only the\nrisk of physical disruption, but also the possibility that the\nworld's most important oil chokepoint becomes a more\nexpensive and politically managed corridor. Owners, charterers and insurers are\nalready operating in an environment where every Gulf fixture carries a wider risk assessment, while the prospect of a\nformalised transit charge would further increase the cost of lifting ",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2738,
+  "source_path": "reports/broker_reports/2026/general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29.md",
+  "source_url": "https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29__s01_carriers_sales_purchase_market_report_week_29",
+      "doc_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29",
+      "parent_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29__root",
+      "title": "Carriers Sales & Purchase Market Report, Week 29",
+      "section_path": [
+        "Carriers Sales & Purchase Market Report, Week 29"
+      ],
+      "section_path_text": "Carriers Sales & Purchase Market Report, Week 29",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 21/07/2026\n**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 68,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29",
+      "parent_id": "broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Week 29, 20th July 2026\nSALES & PURCHASE MARKET REPORT\nCarriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "aframax",
+        "lng",
+        "lpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2653,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

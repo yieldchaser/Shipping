@@ -11173,19 +11173,19 @@
           <!-- 4. Global Port Congestion & Anchorage Queues (IMF PortWatch 8 Hubs) -->
           <div class="chart-container mb-20" id="portCongestionContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="portCongestionTitle" data-tooltip=" " data-tt-type="concept-port-congestion">Global Port Congestion & Anchorage Queues (IMF PortWatch)</div>
+              <div class="chart-title" id="portCongestionTitle" data-tooltip=" " data-tt-type="concept-port-congestion">Global Port Activity Monitor — Calls &amp; Dry-Bulk Tonnage (IMF PortWatch)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="congestionPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="congBtnQingdao" onclick="setCongestionPort('CNQDG')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="CNQDG" data-tt-name="Qingdao (China)" data-tt-desc="Primary North China iron ore & crude discharge port. Critical Capesize congestion indicator." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Qingdao</button>
-                  <button class="toggle-btn" id="congBtnNingbo" onclick="setCongestionPort('CNNGB')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="CNNGB" data-tt-name="Ningbo-Zhoushan (China)" data-tt-desc="World's busiest port by tonnage; major mega-bulk & VLCC deepwater discharge terminal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Ningbo</button>
-                  <button class="toggle-btn" id="congBtnCaofeidian" onclick="setCongestionPort('CNCFI')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="CNCFI" data-tt-name="Caofeidian (Bohai Bay)" data-tt-desc="Direct iron ore raw material terminal feeding Hebei blast furnaces." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Caofeidian</button>
-                  <button class="toggle-btn" id="congBtnHedland" onclick="setCongestionPort('AUPHE')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="AUPHE" data-tt-name="Port Hedland (Australia)" data-tt-desc="Primary Capesize iron ore loading gateway in Western Australia." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port Hedland</button>
-                  <button class="toggle-btn" id="congBtnSingapore" onclick="setCongestionPort('SGSIN')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="SGSIN" data-tt-name="Singapore (Strait of Malacca)" data-tt-desc="Global mega-hub for bunkering, STS transshipment, and container triangulation." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Singapore</button>
-                  <button class="toggle-btn" id="congBtnRotterdam" onclick="setCongestionPort('NLRTM')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="NLRTM" data-tt-name="Rotterdam (Netherlands)" data-tt-desc="Primary European gateway for crude oil, refined products, coal, and chemicals." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Rotterdam</button>
-                  <button class="toggle-btn" id="congBtnHouston" onclick="setCongestionPort('USHOU')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="USHOU" data-tt-name="Houston (US Gulf Coast)" data-tt-desc="Major loading port for US crude (WTI), LNG, LPG, and refined petroleum exports." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Houston</button>
-                  <button class="toggle-btn" id="congBtnAll" onclick="setCongestionPort('ALL')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="ALL" data-tt-name="All 8 Global Maritime Hubs" data-tt-desc="Cross-hub aggregate congestion factor and global anchored fleet tracker." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Hubs</button>
+                  <button class="toggle-btn active" id="congBtnQingdao" onclick="setCongestionPort('port1069')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1069" data-tt-name="Qingdao (China)" data-tt-desc="Primary North China iron ore & crude discharge port. Critical Capesize demand indicator." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Qingdao</button>
+                  <button class="toggle-btn" id="congBtnNingbo" onclick="setCongestionPort('port824')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port824" data-tt-name="Ningbo-Zhoushan (China)" data-tt-desc="World's busiest port by tonnage; major mega-bulk & VLCC deepwater discharge terminal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Ningbo</button>
+                  <button class="toggle-btn" id="congBtnHedland" onclick="setCongestionPort('port955')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port955" data-tt-name="Port Hedland (Australia)" data-tt-desc="Primary Capesize iron ore loading gateway in Western Australia." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port Hedland</button>
+                  <button class="toggle-btn" id="congBtnNewcastle" onclick="setCongestionPort('port816')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port816" data-tt-name="Newcastle (Australia)" data-tt-desc="Australia's coal export gateway." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle</button>
+                  <button class="toggle-btn" id="congBtnSingapore" onclick="setCongestionPort('port1201')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1201" data-tt-name="Singapore (Strait of Malacca)" data-tt-desc="Global mega-hub for bunkering, STS transshipment, and container triangulation." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Singapore</button>
+                  <button class="toggle-btn" id="congBtnRotterdam" onclick="setCongestionPort('port1114')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1114" data-tt-name="Rotterdam (Netherlands)" data-tt-desc="Primary European gateway for crude oil, refined products, coal, and chemicals." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Rotterdam</button>
+                  <button class="toggle-btn" id="congBtnHouston" onclick="setCongestionPort('port481')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port481" data-tt-name="Houston (US Gulf Coast)" data-tt-desc="Major loading port for US crude (WTI), LNG, LPG, and refined petroleum exports." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Houston</button>
+                  <button class="toggle-btn" id="congBtnAll" onclick="setCongestionPort('ALL')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="ALL" data-tt-name="All Monitored Hubs" data-tt-desc="Cross-hub aggregate of daily port calls and dry-bulk tonnage." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Hubs</button>
                 </div>
-                <div id="congestionBadge" class="kpi-badge">Avg Waiting Time: —</div>
+                <div id="congestionBadge" class="kpi-badge">Port Calls: —</div>
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="portCongestionChart"></canvas></div>
@@ -12800,13 +12800,21 @@ if (intelTabsContainer) {
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
-              portCode: (row.port_code || '').trim(),
+              portCode: (row.port_code || row.hub_code || '').trim(),
               portName: (row.port_name || '').trim(),
               sector: (row.sector || '').trim(),
-              dailyPortCalls: parseInt(row.daily_port_calls, 10) || null,
+              country: (row.country || '').trim(),
+              dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
+              callsDryBulk: parseInt(row.daily_port_calls_dry_bulk, 10) || null,
+              callsTanker: parseInt(row.daily_port_calls_tanker, 10) || null,
+              callsContainer: parseInt(row.daily_port_calls_container, 10) || null,
+              importDryBulkKt: parseFloat(row.import_dry_bulk_kt) || null,
+              exportDryBulkKt: parseFloat(row.export_dry_bulk_kt) || null,
+              importTankerKt: parseFloat(row.import_tanker_kt) || null,
+              exportTankerKt: parseFloat(row.export_tanker_kt) || null,
               vesselsAnchored: parseInt(row.vessels_at_anchorage, 10) || null,
-              avgWaitingDays: parseFloat(row.avg_waiting_days || 0) || null,
-              waitingDays7dma: parseFloat(row.waiting_days_7dma || 0) || null,
+              avgWaitingDays: parseFloat(row.avg_waiting_days) || null,
+              waitingDays7dma: parseFloat(row.waiting_days_7dma) || null,
             };
           }).filter(row => row.date != null);
         });
@@ -22328,44 +22336,28 @@ if (intelTabsContainer) {
       const rows = DATA.portCongestion || DATA.portwatch_congestion || DATA.portwatchCongestion || [];
       if (!rows || !rows.length) return;
 
+      // 2026-08-25 audit: waiting-days / anchored-ships were SYNTHESIZED (seeded random walk)
+      // and have been removed from the data pipeline. This chart now renders ONLY measured
+      // IMF PortWatch fields: daily port calls (total + dry bulk) and dry-bulk import kt.
       const isAll = (_congestionPort === 'ALL' || _congestionPort === 'All');
       const filtered = isAll ? rows : rows.filter(r => (r.portCode || r.port_code || '').toUpperCase() === _congestionPort.toUpperCase() || (r.portName || r.port_name || '').toLowerCase().includes(_congestionPort.toLowerCase()));
-      const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-60);
+      const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-120);
 
-      const waitMap = {}, callMap = {}, anchorMap = {};
+      const callMap = {}, bulkCallMap = {}, importKtMap = {};
       filtered.forEach(r => {
         const d = r.dateStr;
-        const w = r.waitingDays7dma != null ? r.waitingDays7dma : (r.waiting_days_7dma != null ? r.waiting_days_7dma : (r.avgWaitingDays || r.avg_waiting_days || 0));
-        const c = r.dailyPortCalls != null ? r.dailyPortCalls : (r.daily_port_calls || 0);
-        const a = r.vesselsAnchored != null ? r.vesselsAnchored : (r.vessels_at_anchorage || 0);
-
-        if (isAll) {
-          if (!waitMap[d]) waitMap[d] = [];
-          waitMap[d].push(w);
-          callMap[d] = (callMap[d] || 0) + c;
-          anchorMap[d] = (anchorMap[d] || 0) + a;
-        } else {
-          waitMap[d] = w;
-          callMap[d] = c;
-          anchorMap[d] = a;
-        }
+        callMap[d] = (callMap[d] || 0) + (r.dailyPortCalls || 0);
+        bulkCallMap[d] = (bulkCallMap[d] || 0) + (r.callsDryBulk || 0);
+        importKtMap[d] = (importKtMap[d] || 0) + (r.importDryBulkKt || 0);
       });
-
-      if (isAll) {
-        dates.forEach(d => {
-          const arr = waitMap[d] || [];
-          waitMap[d] = arr.length ? (arr.reduce((sum, v) => sum + v, 0) / arr.length) : 0;
-        });
-      }
 
       const latestDate = dates[dates.length - 1];
       const badge = document.getElementById('congestionBadge') || document.getElementById('portwatchCongestionBadge');
       if (badge && latestDate) {
-        const w = typeof waitMap[latestDate] === 'number' ? waitMap[latestDate] : 0;
-        const a = anchorMap[latestDate] || 0;
-        const alertColor = w >= 3.0 ? '#ff7b72' : '#3fb950';
-        badge.innerHTML = `Avg Waiting Time: <strong>${w.toFixed(2)} Days (7DMA)</strong> | <strong>${a} Ships Anchored</strong>`;
-        badge.style.color = alertColor;
+        const c = callMap[latestDate] || 0;
+        const kt = importKtMap[latestDate] || 0;
+        badge.innerHTML = `Daily Port Calls: <strong>${Math.round(c)}</strong> | Dry-Bulk Imports: <strong>${Math.round(kt).toLocaleString()} kt</strong>`;
+        badge.style.color = 'var(--accent)';
       }
 
       destroyChart('portCongestionChart');
@@ -22375,8 +22367,9 @@ if (intelTabsContainer) {
         data: {
           labels: dates,
           datasets: [
-            { label: '7-Day MA Waiting Days', data: dates.map(d => waitMap[d] != null ? waitMap[d] : null), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.15)', borderWidth: 2, fill: true, tension: 0.2 },
-            { label: 'Vessels at Anchorage', data: dates.map(d => anchorMap[d] != null ? anchorMap[d] : null), borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1, yAxisID: 'y1' }
+            { label: 'Total Port Calls', data: dates.map(d => callMap[d] || null), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.10)', borderWidth: 2, fill: true, tension: 0.2, pointRadius: 0 },
+            { label: 'Dry-Bulk Calls', data: dates.map(d => bulkCallMap[d] || null), borderColor: '#3fb950', borderWidth: 1.5, tension: 0.1, pointRadius: 0, yAxisID: 'y' },
+            { label: 'Dry-Bulk Imports (kt)', data: dates.map(d => importKtMap[d] || null), borderColor: '#d29922', borderWidth: 1.5, borderDash: [4, 3], tension: 0.2, pointRadius: 0, yAxisID: 'y1' }
           ]
         },
         options: {
@@ -22385,12 +22378,12 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
-            tooltip: { callbacks: { label: c => c.datasetIndex === 0 ? ` ${c.dataset.label}: ${c.parsed.y} Days` : ` ${c.dataset.label}: ${c.parsed.y} Ships` } }
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString() : '—'}${c.datasetIndex === 2 ? ' kt' : ''}` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
-            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => (typeof v === 'number' ? Number(v.toFixed(1)) : v) + ' d' }, title: { display: true, text: 'Waiting Time (Days)', color: '#8b949e', font: { size: 10 } } },
-            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#58a6ff', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v) : v) }, title: { display: true, text: 'Anchored Ships', color: '#58a6ff', font: { size: 10 } } }
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v) : v) }, title: { display: true, text: 'Vessel Calls / Day', color: '#8b949e', font: { size: 10 } } },
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#d29922', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v).toLocaleString() : v) }, title: { display: true, text: 'Imports (kt)', color: '#d29922', font: { size: 10 } } }
           }
         }
       });
@@ -31243,11 +31236,10 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">Direct measure of physical loadings from Ponta da Madeira, Tubarão, Guaíba, and Santos. Monthly volume surges absorb long-haul Atlantic tonnage (~11,000 nm to China), directly leading Baltic Capesize (BCI) and Dirty Tanker (BDTI) freight rate repricings.</div>`;
         }
         else if (type === 'concept-ppa-throughput' || type === 'ppa-throughput-header') {
-          html = `<div class="rt-title">Pilbara Ports Authority & Major Miner Shipments</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Loading Hubs</span><span class="rt-val">Port of Port Hedland & Port of Dampier (Western Australia)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Global Dominance</span><span class="rt-val" style="color:#e3b341">~43% of Global Seaborne Iron Ore Trade</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Major Producers</span><span class="rt-val">Rio Tinto, Vale, BHP, Fortescue (FMG)</span></div>`;
-          html += `<div class="rt-note">Primary physical supply driver for the Capesize C5 (West Australia to Qingdao) freight corridor. Operational throughput changes, Dynamic Under Keel Clearance (DUKC) rules, or cyclone season shutdowns manifest immediately in spot vessel demand.</div>`;
+          html = `<div class="rt-title">Pilbara Ports &amp; Major Miner Shipments</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Status</span><span class="rt-val" style="color:#ff7b72">DIAGNOSTIC — not verified against source</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Loading Hubs</span><span class="rt-val">Port of Port Hedland &amp; Port of Dampier (Western Australia)</span></div>`;
+          html += `<div class="rt-note">2026-08-25 data audit: the current series was compiled from editorial estimates, not a live PPA feed — monthly figures carry template seasonality and must NOT be treated as published throughput. A machine-readable Pilbara Ports feed is on the acquisition roadmap; until then this chart is diagnostic only.</div>`;
         }
         else if (type === 'concept-eia-exports' || type === 'eia-exports-header') {
           html = `<div class="rt-title">US Gulf Coast (PADD 3) Seaborne Petroleum Exports</div>`;
@@ -31257,18 +31249,18 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">US Gulf seaborne crude exports represent the largest incremental growth driver for long-haul tanker ton-miles. Transatlantic shipments to Europe replace short-haul North Sea barrels, while USG-to-Asia runs (~15,200 nm) absorb VLCC capacity for 60+ days.</div>`;
         }
         else if (type === 'concept-port-congestion' || type === 'concept-portwatch-congestion' || type === 'portwatch-header') {
-          html = `<div class="rt-title">Global Port Congestion & Anchorage Queue Factor</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Monitoring Network</span><span class="rt-val">IMF PortWatch ArcGIS Spatial AIS Layer across 1,985 Ports</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Core Hubs</span><span class="rt-val">Qingdao, Ningbo, Caofeidian, Port Hedland, Singapore, Rotterdam, Houston</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Bottleneck Alert</span><span class="rt-val" style="color:#ff7b72">>3.0 Days Avg Waiting Time = Fleet Supply Contraction</span></div>`;
-          html += `<div class="rt-note">Anchorage delays function as an immediate multiplier on vessel supply deficits. When 50+ Capesize or VLCC vessels are anchored at discharge ports, hundreds of vessel-days are temporarily removed from active spot availability, accelerating rate spikes.</div>`;
+          html = `<div class="rt-title">Global Port Activity Monitor (IMF PortWatch)</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Data Source</span><span class="rt-val">IMF PortWatch Daily_Ports_Data (measured AIS port calls &amp; tonnages)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Core Hubs</span><span class="rt-val">Qingdao, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Fields Shown</span><span class="rt-val">Daily port calls (total / dry bulk) and dry-bulk import tonnage (kt)</span></div>`;
+          html += `<div class="rt-note">2026-08-25 data audit: the previous waiting-time / anchored-ships series was found to be simulated rather than measured and has been withdrawn. This chart now displays only fields actually published by IMF PortWatch. Port-call surges at discharge hubs remain a leading proxy for Capesize supply tightness.</div>`;
         }
         else if (type === 'concept-carbon-ets' || type === 'carbon-ets-header') {
           html = `<div class="rt-title">EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics</div>`;
-          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">Singapore / Rotterdam VLSFO (0.5%) − HSFO (3.5%) ($/MT)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2) — live OilPriceAPI observations</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">VLSFO − HSFO ($/MT), Ship &amp; Bunker port snapshots</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Scrubber Formula</span><span class="rt-val" style="color:#3fb950">Daily Fuel Consumption (MT) × Hi-5 Spread ($/MT)</span></div>`;
-          html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. EU ETS surcharges add explicit drag on Europe-bound voyages.</div>`;
+          html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. 2026-08-25 audit: fabricated back-history removed — series now accumulates only live daily observations, so early history may be sparse while the archive builds.</div>`;
         }
         else if (type === 'concept-ton-mile-sim' || type === 'ton-mile-header') {
           html = `<div class="rt-title">Ton-Mile Absorption & Active Fleet Utilization Model</div>`;
