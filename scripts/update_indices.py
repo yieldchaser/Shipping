@@ -520,7 +520,11 @@ def update_sgx_csv(filename, product_code):
 
     if os.path.exists(filename):
         existing = pd.read_csv(filename)
-        existing['date'] = pd.to_datetime(existing['date'], format='%d-%m-%Y')
+        # 2026-08-25 CI fix: the archive is written by expansion_sgx_history_backfill.py
+        # in ISO format (YYYY-MM-DD), while this module historically emitted DD-MM-YYYY.
+        # A hard %d-%m-%Y parse crashed the whole daily update when it met ISO rows.
+        # Parse tolerantly (mixed formats) instead.
+        existing['date'] = pd.to_datetime(existing['date'], format='mixed', dayfirst=True, errors='coerce')
         # Back-fill expiry_date column if it was added after initial creation
         if 'expiry_date' not in existing.columns:
             existing['expiry_date'] = ''

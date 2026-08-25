@@ -3161,8 +3161,15 @@ def doc_output_path(metadata: dict) -> Path:
     year = date_str[:4] if date_str else Path(metadata["source_path"]).parent.name
     if source in {"baltic", "breakwave_insights", "hellenic"} and date_str:
         filename = f"{date_str}_{source_stem}.md"
+    elif date_str:
+        # 2026-08-25 CI-failure fix: broker_reports publish MULTIPLE distinct reports
+        # on the same date (SSY Atl+Pac, Star Asia, Gibson, Affinity, Xclusiv...).
+        # The old `{date}.md` name made same-day reports overwrite each other,
+        # orphaning chunks/trees (validator: 448 invalid section refs) and losing
+        # ~30 documents. Key every non-baltic doc by its unique source stem.
+        filename = f"{date_str}_{source_stem}.md"
     else:
-        filename = f"{date_str}.md" if date_str else f"{source_stem}.md"
+        filename = f"{source_stem}.md"
     return DOCS_DIR / source / category / year / filename
 
 
