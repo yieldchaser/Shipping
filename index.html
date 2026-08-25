@@ -12643,16 +12643,16 @@ if (intelTabsContainer) {
         const wciPromise = safeFetch('data/indices/drewry_wci_historical.csv', 'Drewry WCI', [], r => {
           DATA.wciTracker = DATA.drewry_wci = DATA.drewryWci = (r || []).map(row => {
             const rawDate = (row.date || row.Date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            const d = parseDate(rawDate);
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
               composite: parseFloat(row.composite_index || row.composite || 0) || null,
-              sha_rot: parseFloat(row.shanghai_rotterdam || 0) || null,
-              rot_sha: parseFloat(row.rotterdam_shanghai || 0) || null,
-              sha_gen: parseFloat(row.shanghai_genoa || 0) || null,
-              sha_la: parseFloat(row.shanghai_los_angeles || 0) || null,
-              sha_ny: parseFloat(row.shanghai_new_york || 0) || null,
+              sha_rot: parseFloat(row.shanghai_rotterdam || row.shanghai_rot || 0) || null,
+              rot_sha: parseFloat(row.rotterdam_shanghai || row.rot_sha || 0) || null,
+              sha_gen: parseFloat(row.shanghai_genoa || row.shanghai_gen || 0) || null,
+              sha_la: parseFloat(row.shanghai_la || row.shanghai_los_angeles || 0) || null,
+              sha_ny: parseFloat(row.shanghai_ny || row.shanghai_new_york || 0) || null,
             };
           }).filter(row => row.date != null);
         });
@@ -22514,6 +22514,32 @@ if (intelTabsContainer) {
         const regimeText = activeUtil >= 90.0 ? 'Super-Cycle Squeeze' : (activeUtil >= 87.0 ? 'Tight Supply Window' : 'Balanced Fleet');
         elBadge.innerHTML = `Capesize Active Utilization: <strong>${activeUtil.toFixed(1)}% (${regimeText})</strong>`;
         elBadge.style.color = regimeColor;
+      }
+
+      // Dynamically update the stress point on chart instance if active
+      const chart = (typeof chartRegistry !== 'undefined' && chartRegistry['tonMileSimChart']) || (typeof Chart !== 'undefined' ? Chart.getChart('tonMileSimChart') : null);
+      if (chart && chart.data && chart.data.datasets && chart.data.datasets.length >= 4) {
+        const len = chart.data.labels.length;
+        if (len > 0) {
+          let stressDs = chart.data.datasets.find(ds => ds.label === 'Simulated Capesize Stress Point (%)');
+          if (!stressDs) {
+            const simArr = new Array(len).fill(null);
+            simArr[len - 1] = parseFloat(activeUtil.toFixed(1));
+            chart.data.datasets.push({
+              label: 'Simulated Capesize Stress Point (%)',
+              data: simArr,
+              borderColor: '#f85149',
+              backgroundColor: '#f85149',
+              pointRadius: 6,
+              pointHoverRadius: 8,
+              showLine: false,
+              order: -1
+            });
+          } else {
+            stressDs.data[len - 1] = parseFloat(activeUtil.toFixed(1));
+          }
+          chart.update('none');
+        }
       }
     }
     window.updateTonMileSimulation = updateTonMileSimulation;
