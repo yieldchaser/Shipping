@@ -12800,13 +12800,21 @@ if (intelTabsContainer) {
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
-              portCode: (row.port_code || '').trim(),
+              portCode: (row.port_code || row.hub_code || '').trim(),
               portName: (row.port_name || '').trim(),
               sector: (row.sector || '').trim(),
-              dailyPortCalls: parseInt(row.daily_port_calls, 10) || null,
+              country: (row.country || '').trim(),
+              dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
+              callsDryBulk: parseInt(row.daily_port_calls_dry_bulk, 10) || null,
+              callsTanker: parseInt(row.daily_port_calls_tanker, 10) || null,
+              callsContainer: parseInt(row.daily_port_calls_container, 10) || null,
+              importDryBulkKt: parseFloat(row.import_dry_bulk_kt) || null,
+              exportDryBulkKt: parseFloat(row.export_dry_bulk_kt) || null,
+              importTankerKt: parseFloat(row.import_tanker_kt) || null,
+              exportTankerKt: parseFloat(row.export_tanker_kt) || null,
               vesselsAnchored: parseInt(row.vessels_at_anchorage, 10) || null,
-              avgWaitingDays: parseFloat(row.avg_waiting_days || 0) || null,
-              waitingDays7dma: parseFloat(row.waiting_days_7dma || 0) || null,
+              avgWaitingDays: parseFloat(row.avg_waiting_days) || null,
+              waitingDays7dma: parseFloat(row.waiting_days_7dma) || null,
             };
           }).filter(row => row.date != null);
         });
@@ -22328,44 +22336,28 @@ if (intelTabsContainer) {
       const rows = DATA.portCongestion || DATA.portwatch_congestion || DATA.portwatchCongestion || [];
       if (!rows || !rows.length) return;
 
+      // 2026-08-25 audit: waiting-days / anchored-ships were SYNTHESIZED (seeded random walk)
+      // and have been removed from the data pipeline. This chart now renders ONLY measured
+      // IMF PortWatch fields: daily port calls (total + dry bulk) and dry-bulk import kt.
       const isAll = (_congestionPort === 'ALL' || _congestionPort === 'All');
       const filtered = isAll ? rows : rows.filter(r => (r.portCode || r.port_code || '').toUpperCase() === _congestionPort.toUpperCase() || (r.portName || r.port_name || '').toLowerCase().includes(_congestionPort.toLowerCase()));
-      const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-60);
+      const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-120);
 
-      const waitMap = {}, callMap = {}, anchorMap = {};
+      const callMap = {}, bulkCallMap = {}, importKtMap = {};
       filtered.forEach(r => {
         const d = r.dateStr;
-        const w = r.waitingDays7dma != null ? r.waitingDays7dma : (r.waiting_days_7dma != null ? r.waiting_days_7dma : (r.avgWaitingDays || r.avg_waiting_days || 0));
-        const c = r.dailyPortCalls != null ? r.dailyPortCalls : (r.daily_port_calls || 0);
-        const a = r.vesselsAnchored != null ? r.vesselsAnchored : (r.vessels_at_anchorage || 0);
-
-        if (isAll) {
-          if (!waitMap[d]) waitMap[d] = [];
-          waitMap[d].push(w);
-          callMap[d] = (callMap[d] || 0) + c;
-          anchorMap[d] = (anchorMap[d] || 0) + a;
-        } else {
-          waitMap[d] = w;
-          callMap[d] = c;
-          anchorMap[d] = a;
-        }
+        callMap[d] = (callMap[d] || 0) + (r.dailyPortCalls || 0);
+        bulkCallMap[d] = (bulkCallMap[d] || 0) + (r.callsDryBulk || 0);
+        importKtMap[d] = (importKtMap[d] || 0) + (r.importDryBulkKt || 0);
       });
-
-      if (isAll) {
-        dates.forEach(d => {
-          const arr = waitMap[d] || [];
-          waitMap[d] = arr.length ? (arr.reduce((sum, v) => sum + v, 0) / arr.length) : 0;
-        });
-      }
 
       const latestDate = dates[dates.length - 1];
       const badge = document.getElementById('congestionBadge') || document.getElementById('portwatchCongestionBadge');
       if (badge && latestDate) {
-        const w = typeof waitMap[latestDate] === 'number' ? waitMap[latestDate] : 0;
-        const a = anchorMap[latestDate] || 0;
-        const alertColor = w >= 3.0 ? '#ff7b72' : '#3fb950';
-        badge.innerHTML = `Avg Waiting Time: <strong>${w.toFixed(2)} Days (7DMA)</strong> | <strong>${a} Ships Anchored</strong>`;
-        badge.style.color = alertColor;
+        const c = callMap[latestDate] || 0;
+        const kt = importKtMap[latestDate] || 0;
+        badge.innerHTML = `Daily Port Calls: <strong>${Math.round(c)}</strong> | Dry-Bulk Imports: <strong>${Math.round(kt).toLocaleString()} kt</strong>`;
+        badge.style.color = 'var(--accent)';
       }
 
       destroyChart('portCongestionChart');
@@ -22375,8 +22367,9 @@ if (intelTabsContainer) {
         data: {
           labels: dates,
           datasets: [
-            { label: '7-Day MA Waiting Days', data: dates.map(d => waitMap[d] != null ? waitMap[d] : null), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.15)', borderWidth: 2, fill: true, tension: 0.2 },
-            { label: 'Vessels at Anchorage', data: dates.map(d => anchorMap[d] != null ? anchorMap[d] : null), borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1, yAxisID: 'y1' }
+            { label: 'Total Port Calls', data: dates.map(d => callMap[d] || null), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.10)', borderWidth: 2, fill: true, tension: 0.2, pointRadius: 0 },
+            { label: 'Dry-Bulk Calls', data: dates.map(d => bulkCallMap[d] || null), borderColor: '#3fb950', borderWidth: 1.5, tension: 0.1, pointRadius: 0, yAxisID: 'y' },
+            { label: 'Dry-Bulk Imports (kt)', data: dates.map(d => importKtMap[d] || null), borderColor: '#d29922', borderWidth: 1.5, borderDash: [4, 3], tension: 0.2, pointRadius: 0, yAxisID: 'y1' }
           ]
         },
         options: {
@@ -22385,12 +22378,12 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
-            tooltip: { callbacks: { label: c => c.datasetIndex === 0 ? ` ${c.dataset.label}: ${c.parsed.y} Days` : ` ${c.dataset.label}: ${c.parsed.y} Ships` } }
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString() : '—'}${c.datasetIndex === 2 ? ' kt' : ''}` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
-            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => (typeof v === 'number' ? Number(v.toFixed(1)) : v) + ' d' }, title: { display: true, text: 'Waiting Time (Days)', color: '#8b949e', font: { size: 10 } } },
-            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#58a6ff', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v) : v) }, title: { display: true, text: 'Anchored Ships', color: '#58a6ff', font: { size: 10 } } }
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v) : v) }, title: { display: true, text: 'Vessel Calls / Day', color: '#8b949e', font: { size: 10 } } },
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#d29922', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v).toLocaleString() : v) }, title: { display: true, text: 'Imports (kt)', color: '#d29922', font: { size: 10 } } }
           }
         }
       });
