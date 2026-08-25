@@ -143,12 +143,29 @@ Mon–Thu 05:00 UTC via `.github/workflows/data_expansion.yml` (idempotent upser
 
 | File Path | Document Type | Description |
 | :--- | :--- | :--- |
-| [`docs/DATASETS.md`](file:///c:/Users/Dell/Github/Shipping/docs/DATASETS.md) | Data Inventory | Master inventory and health monitoring reference for all 42 CSV/JSON datasets |
+| [`docs/DATASETS.md`](file:///c:/Users/Dell/Github/Shipping/docs/DATASETS.md) | Data Inventory | Master inventory and health monitoring reference for all 51+ CSV/JSON datasets |
 | [`docs/Amplify_BDRY_Prospectus.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BDRY_Prospectus.pdf) | Prospectus | Official statutory prospectus for Amplify BDRY ETF detailing Solactive index rules and roll schedules |
 | [`docs/Amplify_BDRY_FactSheet.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BDRY_FactSheet.pdf) | Factsheet | Official fund factsheet detailing BDRY benchmark weightings (50% Cape / 40% Pana / 10% Supra) |
 | [`docs/Amplify_BWET_Prospectus.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BWET_Prospectus.pdf) | Prospectus | Official statutory prospectus for Amplify BWET ETF detailing Breakwave Wet Freight Futures Index rules |
 | [`docs/Amplify_BWET_FactSheet.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BWET_FactSheet.pdf) | Factsheet | Official fund factsheet detailing BWET benchmark weightings (90% TD3C VLCC / 10% TD20 Suezmax) |
 | [`docs/BDRY-BWET_Form10-Q_March-31-2026.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/BDRY-BWET_Form10-Q_March-31-2026.pdf) | SEC Filing | Form 10-Q Quarterly Report for Breakwave Trust filed with the SEC containing audited holdings & financial disclosures |
+
+### 2.7 Upstream Physical Commodity Flows, Port Bottlenecks & Carbon Regimes (`data/commodities/`, `data/congestion/`, `data/derived/`)
+
+Ingested weekly/monthly from official primary authorities (Brazil MDIC ComexStat, Pilbara Ports Authority, US EIA, IMF PortWatch, UN Comtrade, and European Energy Exchange).
+
+| File Path | Description | Start Date | Rows | Primary Schema / Columns | Source / Authority |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [`data/commodities/brazil_comexstat_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/brazil_comexstat_exports.csv) | Brazilian monthly seaborne exports for Iron Ore (NCM 2601), Crude Oil (2709), Soybeans (1201), Raw Sugar (1701) | 2024-01-01 | ~128 | `date, year, month, commodity, ncm, metric_tonnes, fob_usd, destination_country` | Brazilian MDIC / SECEX (`fetch_comexstat_brazil.py`) |
+| [`data/commodities/australia_ppa_iron_ore.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_ppa_iron_ore.csv) | Pilbara Ports Authority monthly throughput for Port Hedland and Port of Dampier | 2024-01-01 | ~64 | `date, port, total_throughput_mt, iron_ore_exports_mt, mom_pct, yoy_pct` | Pilbara Ports Authority (`fetch_ppa_iron_ore.py`) |
+| [`data/commodities/major_miners_quarterly_shipments.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/major_miners_quarterly_shipments.csv) | Quarterly shipment run rates & C1 cash costs for Vale, Rio Tinto, BHP, Fortescue (FMG) | 2024-Q1 | ~40 | `quarter, miner, commodity, production_mt, shipments_mt, guidance_annual_mt, c1_cash_cost_usd_t` | Corporate Production Filings (`fetch_major_miners_production.py`) |
+| [`data/commodities/us_eia_weekly_crude_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/us_eia_weekly_crude_exports.csv) | US Gulf Coast (PADD 3) & Total US weekly crude and petroleum exports with 4W MA | 2024-01-05 | ~638 | `date, us_total_crude_exports_kbpd, padd3_gulf_crude_exports_kbpd, us_total_petroleum_exports_kbpd, crude_4w_avg_kbpd, petro_4w_avg_kbpd` | US EIA Weekly Status Report (`fetch_eia_petroleum_exports.py`) |
+| [`data/commodities/un_comtrade_guinea_bauxite.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/un_comtrade_guinea_bauxite.csv) | Bilateral monthly Guinea-to-China bauxite seaborne export volumes (HS 260600) | 2024-01-01 | ~32 | `date, period, commodity, hs_code, reporter, partner, import_volume_mt, cif_usd, avg_cif_usd_t` | UN Comtrade v1 Data API (`fetch_un_comtrade_bauxite.py`) |
+| [`data/congestion/portwatch_port_congestion.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/portwatch_port_congestion.csv) | Daily AIS waiting times & anchored vessel counts across 8 major global discharge/loading hubs | 2024-01-01 | ~7,736 | `date, port_code, port_name, vessel_type, port_calls_count, vessels_anchored_est, avg_waiting_days` | IMF PortWatch ArcGIS Spatial Feed (`fetch_portwatch_port_activity.py`) |
+| [`data/derived/eu_ets_carbon_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/eu_ets_carbon_daily.csv) | Daily EU ETS EUA carbon allowance spot (€/t CO2), Hi-5 fuel spreads ($/MT), and scrubber savings | 2024-01-02 | ~690 | `date, eua_price_eur_tco2, singapore_vlsfo_usd, singapore_hsfo_usd, singapore_hi5_spread, rotterdam_hi5_spread, houston_hi5_spread, capesize_scrubber_savings_day, vlcc_scrubber_savings_day, eu_ets_cost_day_cape` | EEX / OilPriceAPI (`fetch_eu_ets_carbon.py`) |
+| [`data/commodities/newcastle_coal_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/newcastle_coal_exports.csv) | Monthly coal export throughput across Port of Newcastle, Dalrymple Bay (DBCT), and Gladstone | 2024-01-01 | ~96 | `date, port, commodity, throughput_mt, mom_pct, yoy_pct` | Port Authorities (`fetch_newcastle_coal.py`) |
+| [`data/commodities/australia_req_commodity_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_req_commodity_exports.csv) | Australian Resources & Energy Quarterly (REQ) historical and 5-quarter export forecasts | 2024-Q1 | ~50 | `quarter, commodity, export_volume_mt, export_value_aud_m, forecast_flag` | Australian DISR REQ (`fetch_australia_req.py`) |
+| [`data/derived/ton_mile_utilization_matrix.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/ton_mile_utilization_matrix.csv) | Global monthly ton-mile absorption and active fleet utilization $U\%$ for Capesize and VLCC | 2024-01-01 | ~32 | `date, capesize_ton_miles_billion, vlcc_ton_miles_billion, capesize_active_utilization_pct, vlcc_active_utilization_pct, regime` | Quantitative Ton-Mile Engine (`generate_ton_mile_matrix.py`) |
 
 ---
 
@@ -338,6 +355,14 @@ Comprehensive analytical suite arranged into **3 thematic quantitative sections*
 #### Section 3: Vessel Capital Cycle
 - **Vessel Valuations & Demolition Scrap Floors**: S&P secondhand 5Y/10Y prices (1970–2026) with 3 sub-modes (`[ 10Y Asset Value ] [ Demolition Scrap Floor ] [ Implied Charter Yield % ]`) and multi-country recycling floors (India, Bangladesh, Pakistan, Turkey Aliağa, and Container Ship Scrappage $/LDT). *(Enhanced: sector selector — Capesize / Panamax / Supramax / Handysize / VLCC / Suezmax / Aframax — with Scrap Floor Margin of Safety Cushion %: `(Asset Value − Scrap Floor) / Asset Value × 100%`.)*
 - **Shipping Market Cycle Quadrant**: 4-phase trajectory (Recovery, Boom, Over-ordering, Restructuring) based on 60D spot momentum vs Spot/TC Z-scores. *(Enhanced: Days-in-Regime Counter vs 10Y Median Duration benchmark, and Dry/Crude/Product sector overlay toggle.)*
+
+#### Section 4: Upstream Commodity Flows & Port Logistics (`#signals-sec-upstream`)
+- **Brazilian Bulk Seaborne Exports (MDIC ComexStat)**: Monthly physical departures from Ponta da Madeira, Tubarão, and Santos with commodity toggles (`[ Iron Ore ] [ Crude Oil ] [ Soybeans ] [ Raw Sugar ] [ All Cargoes ]`) providing a 15–30 day leading indicator over Baltic Capesize (BCI C3) and Suezmax freight.
+- **Pilbara Ports Throughput & Major Miner Guidance**: Port Hedland and Port of Dampier monthly iron ore throughput (Mt) representing ~43% of global seaborne iron ore supply alongside quarterly production & C1 cash cost run rates for Vale, Rio Tinto, BHP, and Fortescue (`[ Port Hedland ] [ Port of Dampier ] [ Total Pilbara ] [ Miner Shipments ]`).
+- **US Gulf Coast (PADD 3) Seaborne Petroleum Exports**: Weekly EIA crude and total petroleum export velocity (kbpd) with 4-week moving average overlay dictating VLCC TD22 (USG→China) and Suezmax TD20/TD27 ton-mile demand.
+- **Global Port Congestion & Anchorage Queues**: IMF PortWatch 8-hub spatial AIS congestion monitor (`[ Qingdao ] [ Ningbo ] [ Caofeidian ] [ Port Hedland ] [ Singapore ] [ Rotterdam ] [ Houston ] [ All Hubs ]`) with dual-axis 7DMA waiting days & anchored vessel counts and `>3.0 Days` bottleneck alert thresholds.
+- **EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics**: Daily European Union Allowance (EUA) spot prices (€/t CO2) vs Singapore/Rotterdam Hi-5 bunker fuel spreads with an **Interactive Scrubber Payback & Voyage Cost Calculator** (Capesize, VLCC, Suezmax, Panamax vessel selectors, daily $/day savings, annualized $M advantage, and EU ETS voyage drag).
+- **Ton-Mile Absorption & Fleet Utilization Model Simulator**: Dynamic active fleet utilization model ($U = \text{TM} / (\text{Fleet DWT} \times (1 - \text{Congestion})))$ with interactive sliders for Guinea Bauxite exports, Brazil Iron Ore shipments, and Port Congestion factors, real-time Capesize utilization calculation, and non-linear super-cycle regime alerts.
 
 ---
 
@@ -615,10 +640,11 @@ flowchart LR
 
 ## 6. Automated GitHub Actions Workflows
 
-The repository maintains itself via 11 idempotent GitHub Actions workflows:
+The repository maintains itself via 12 idempotent GitHub Actions workflows:
 
 | Workflow File | Cron Schedule | Triggers | Execution Script Sequence | Function & Output |
 | :--- | :--- | :--- | :--- | :--- |
+| [`upstream_commodity_flows.yml`](file:///.github/workflows/upstream_commodity_flows.yml) | `0 6 * * 1` | Mondays 6 AM UTC / Dispatch | `fetch_comexstat_brazil.py`<br>`fetch_ppa_iron_ore.py`<br>`fetch_major_miners_production.py`<br>`fetch_eia_petroleum_exports.py`<br>`fetch_portwatch_port_activity.py`<br>`fetch_eu_ets_carbon.py`<br>`fetch_newcastle_coal.py`<br>`fetch_australia_req.py`<br>`fetch_un_comtrade_bauxite.py`<br>`generate_ton_mile_matrix.py` | Ingests Brazil MDIC exports, Pilbara Ports throughput, US EIA petroleum, IMF PortWatch 8-hub congestion, EU ETS carbon, UN Comtrade bauxite, and generates the ton-mile utilization matrix. |
 | [`daily_brief.yml`](file:///.github/workflows/daily_brief.yml) | `0 14,17,20 * * 1-5` | Mon–Fri Scheduled / Dispatch | `python scripts/generate_brief.py` | Synthesizes daily market brief via Groq / Gemini / NVIDIA NIM cascade & updates `knowledge/briefs/manifest.json`. |
 | [`alibra_poller.yml`](file:///.github/workflows/alibra_poller.yml) | `0 7,16 * * *` | Twice Daily (7 AM & 4 PM UTC) / Dispatch | `python scripts/alibra_poller.py --integrate` | Polls 10 Alibra Google Sheet endpoints, archives new reports, and auto-integrates forward curves & TC data. |
 | [`daily_update.yml`](file:///.github/workflows/daily_update.yml) | `30 10 * * *`<br>`0 14,19,22 * * *` | Scheduled / Dispatch | `python scripts/update_indices.py`<br>`python scripts/fetch_flows_shipping.py`<br>`python scripts/alibra_poller.py --integrate` | Scrapes Baltic indices, SGX futures, BDRY/BWET Playwright ETF fund flows, and polls Alibra feeds. |
