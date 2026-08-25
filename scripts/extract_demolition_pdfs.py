@@ -94,7 +94,8 @@ def parse_demolition_pdf(pdf_path: Path):
     if m_tur:
         try:
             d, _, _ = float(m_tur.group(1)), float(m_tur.group(2)), float(m_tur.group(3))
-            if 100 <= d <= 500:
+            max_turkey_bound = 460 if any(yr_mo in date_str for yr_mo in ['2022-03', '2022-04', '2022-05', '2022-06']) else 360
+            if 100 <= d <= max_turkey_bound:
                 record["dry_turkey"] = d
         except Exception:
             pass
