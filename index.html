@@ -21998,15 +21998,15 @@ if (intelTabsContainer) {
       const datasets = [];
 
       if (_scrapType === 'dry' || _scrapType === 'all') {
-        datasets.push({ label: 'India (Dry Bulk $/LDT)', data: rows.map(r => r.dry_india), borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 });
-        datasets.push({ label: 'Bangladesh (Dry Bulk $/LDT)', data: rows.map(r => r.dry_bangla), borderColor: '#3fb950', borderWidth: 2, tension: 0.1 });
-        datasets.push({ label: 'Pakistan (Dry Bulk $/LDT)', data: rows.map(r => r.dry_pak), borderColor: '#e3b341', borderWidth: 2, tension: 0.1 });
-        datasets.push({ label: 'Turkey (Dry Bulk $/LDT)', data: rows.map(r => r.dry_turkey), borderColor: '#bc8cff', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1 });
+        datasets.push({ label: 'India (Dry Bulk $/LDT)', data: rows.map(r => r.dry_india), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.10)', fill: true, borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 });
+        datasets.push({ label: 'Bangladesh (Dry Bulk $/LDT)', data: rows.map(r => r.dry_bangla), borderColor: '#3fb950', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 });
+        datasets.push({ label: 'Pakistan (Dry Bulk $/LDT)', data: rows.map(r => r.dry_pak), borderColor: '#e3b341', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 });
+        datasets.push({ label: 'Turkey (Dry Bulk $/LDT)', data: rows.map(r => r.dry_turkey), borderColor: '#bc8cff', borderWidth: 1.5, borderDash: [4, 2], pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 });
       }
       if (_scrapType === 'tanker' || _scrapType === 'all') {
-        datasets.push({ label: 'India (Tankers $/LDT)', data: rows.map(r => r.tanker_india), borderColor: '#ff7b72', borderWidth: 2, tension: 0.1 });
-        datasets.push({ label: 'Bangladesh (Tankers $/LDT)', data: rows.map(r => r.tanker_bangla), borderColor: '#f0883e', borderWidth: 2, tension: 0.1 });
-        datasets.push({ label: 'Pakistan (Tankers $/LDT)', data: rows.map(r => r.tanker_pak), borderColor: '#d29922', borderWidth: 2, tension: 0.1 });
+        datasets.push({ label: 'India (Tankers $/LDT)', data: rows.map(r => r.tanker_india), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.10)', fill: true, borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 });
+        datasets.push({ label: 'Bangladesh (Tankers $/LDT)', data: rows.map(r => r.tanker_bangla), borderColor: '#f0883e', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 });
+        datasets.push({ label: 'Pakistan (Tankers $/LDT)', data: rows.map(r => r.tanker_pak), borderColor: '#d29922', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 });
       }
 
       const latest = rows[rows.length - 1];
@@ -22029,7 +22029,7 @@ if (intelTabsContainer) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
-            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v } }
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v + '/LDT' } }
           }
         }
       });
