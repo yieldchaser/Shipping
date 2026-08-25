@@ -23,7 +23,7 @@ import ssl
 import time
 import urllib.error
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -36,7 +36,7 @@ OUT_FILE = DATA_DIR / "brazil_comexstat_exports.csv"
 
 URL = "https://api-comexstat.mdic.gov.br/general"
 PERIOD_FROM = "2024-01"
-PERIOD_TO = datetime.utcnow().strftime("%Y-%m")  # rolling window; future months return empty
+PERIOD_TO = datetime.now(timezone.utc).strftime("%Y-%m")  # rolling window; future months return empty
 
 GAP_S = 45              # spacing between commodity queries (free-tier pacing)
 MAX_RETRIES = 5         # 429/5xx backoff attempts per commodity
