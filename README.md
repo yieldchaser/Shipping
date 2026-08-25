@@ -24,8 +24,8 @@ The production analytical dashboard is served directly from this repository via 
 
 ```mermaid
 flowchart LR
-    A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify ETFs, SGX Futures"] --> B["⚙️ <b>GitHub Actions</b><br/>9 Automated Workflows<br/>(7 Scheduled Crons + Ingestion)"]
-    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (42+ CSV/JSON Series)<br/>knowledge/ (RAG Corpus)"]
+    A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify, SGX, ComexStat, PPA,<br/>US EIA, IMF PortWatch, EU ETS"] --> B["⚙️ <b>GitHub Actions</b><br/>10 Automated Workflows<br/>(8 Scheduled Crons + Ingestion)"]
+    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (51+ CSV/JSON Series)<br/>knowledge/ (RAG Corpus)"]
     C --> D["🌐 <b>Web Terminal</b><br/>index.html Dashboard &<br/>Browser RAG Assistant"]
 ```
 

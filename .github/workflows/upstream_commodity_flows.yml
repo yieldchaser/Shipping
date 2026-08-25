@@ -1,0 +1,42 @@
+name: Upstream Physical Commodity Flows & Port Logistics
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Runs every Monday at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-upstream-flows:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas beautifulsoup4 lxml openpyxl
+
+      - name: Run Upstream Commodity & Congestion Scrapers
+        run: |
+          python scripts/scrapers/fetch_comexstat_brazil.py || true
+          python scripts/scrapers/fetch_ppa_iron_ore.py || true
+          python scripts/scrapers/fetch_major_miners_production.py || true
+          python scripts/scrapers/fetch_eia_petroleum_exports.py || true
+          python scripts/scrapers/fetch_portwatch_port_activity.py || true
+          python scripts/scrapers/fetch_eu_ets_carbon.py || true
+          python scripts/scrapers/fetch_newcastle_coal.py || true
+          python scripts/scrapers/fetch_australia_req.py || true
+          python scripts/scrapers/generate_ton_mile_matrix.py || true
+
+      - name: Commit and push if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/commodities/ data/congestion/ data/derived/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update upstream commodity flows, port congestion and ton-mile matrix [skip ci]" && git push)

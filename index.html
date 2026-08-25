@@ -11115,6 +11115,171 @@
         </div>
       </div>
 
+      <!-- SECTION 4: UPSTREAM COMMODITY FLOWS & PORT LOGISTICS (COLLAPSIBLE) -->
+      <div class="signals-section" id="signals-sec-upstream">
+        <div class="signals-section-header" onclick="toggleSignalsSection('signals-sec-upstream')">
+          <div class="section-title-wrap">
+            <span data-tooltip="Upstream Physical Commodity Flows & Port Logistics — Tracks physical cargo departures from primary mining & energy terminals (Brazil MDIC, Pilbara Ports PPA, US EIA, Port of Newcastle), global port congestion bottlenecks, EU ETS maritime carbon compliance costs, and ton-mile fleet utilization dynamics."><div class="icon-tile icon-tile-teal icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg></div> &nbsp;Upstream Commodity Flows &amp; Port Logistics</span>
+          </div>
+          <span class="expand-icon">▼</span>
+        </div>
+        <div class="signals-section-body">
+          <!-- 1. Brazil ComexStat Seaborne Exports vs Freight Rates -->
+          <div class="chart-container mb-20" id="brazilExportsContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="brazilExportsTitle" data-tooltip=" " data-tt-type="concept-brazil-exports">Brazilian Bulk Seaborne Exports (MDIC ComexStat)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="brazilCommodityToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="brazilBtnOre" onclick="setBrazilCommodity('Iron Ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore (Mt)</button>
+                  <button class="toggle-btn" id="brazilBtnCrude" onclick="setBrazilCommodity('Crude Oil')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Oil (Mt)</button>
+                  <button class="toggle-btn" id="brazilBtnSoy" onclick="setBrazilCommodity('Soybeans')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans (Mt)</button>
+                  <button class="toggle-btn" id="brazilBtnSugar" onclick="setBrazilCommodity('Raw Sugar')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Raw Sugar (Mt)</button>
+                  <button class="toggle-btn" id="brazilBtnAll" onclick="setBrazilCommodity('All')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Cargoes</button>
+                </div>
+                <div id="brazilExportsBadge" class="kpi-badge">Brazil Iron Ore: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="brazilExportsChart"></canvas></div>
+          </div>
+
+          <!-- 2. Pilbara Ports Authority (PPA) Throughput & Major Miner Guidance -->
+          <div class="chart-container mb-20" id="ppaThroughputContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="ppaThroughputTitle" data-tooltip=" " data-tt-type="concept-ppa-throughput">Pilbara Ports (Port Hedland & Dampier) & Miner Shipments</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="ppaPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
+                  <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Port of Dampier')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port of Dampier (Mt)</button>
+                  <button class="toggle-btn" id="ppaBtnCombined" onclick="setPpaPort('Combined')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Total Pilbara</button>
+                  <button class="toggle-btn" id="ppaBtnMiners" onclick="setPpaPort('Miners')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Miner Shipments (Vale/Rio/BHP/FMG)</button>
+                </div>
+                <div id="ppaThroughputBadge" class="kpi-badge">Port Hedland: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="ppaThroughputChart"></canvas></div>
+          </div>
+
+          <!-- 3. US PADD 3 Gulf Coast Seaborne Petroleum Exports (EIA Weekly) -->
+          <div class="chart-container mb-20" id="eiaExportsContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="eiaExportsTitle" data-tooltip=" " data-tt-type="concept-eia-exports">US Gulf Coast (PADD 3) Seaborne Petroleum Exports (EIA Weekly)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="eiaExportsBadge" class="kpi-badge">US Crude Exports: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="eiaExportsChart"></canvas></div>
+          </div>
+
+          <!-- 4. Global Port Congestion & Anchorage Queues (IMF PortWatch 8 Hubs) -->
+          <div class="chart-container mb-20" id="portCongestionContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="portCongestionTitle" data-tooltip=" " data-tt-type="concept-port-congestion">Global Port Congestion & Anchorage Queues (IMF PortWatch)</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="congestionPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                  <button class="toggle-btn active" id="congBtnQingdao" onclick="setCongestionPort('CNQDG')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Qingdao</button>
+                  <button class="toggle-btn" id="congBtnNingbo" onclick="setCongestionPort('CNNGB')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Ningbo</button>
+                  <button class="toggle-btn" id="congBtnCaofeidian" onclick="setCongestionPort('CNCFI')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Caofeidian</button>
+                  <button class="toggle-btn" id="congBtnHedland" onclick="setCongestionPort('AUPHE')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port Hedland</button>
+                  <button class="toggle-btn" id="congBtnSingapore" onclick="setCongestionPort('SGSIN')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Singapore</button>
+                  <button class="toggle-btn" id="congBtnRotterdam" onclick="setCongestionPort('NLRTM')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Rotterdam</button>
+                  <button class="toggle-btn" id="congBtnHouston" onclick="setCongestionPort('USHOU')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Houston</button>
+                  <button class="toggle-btn" id="congBtnAll" onclick="setCongestionPort('ALL')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Hubs</button>
+                </div>
+                <div id="congestionBadge" class="kpi-badge">Avg Waiting Time: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="portCongestionChart"></canvas></div>
+          </div>
+
+          <!-- 5. EU ETS Maritime Carbon Allowance & Interactive Scrubber Economics -->
+          <div class="chart-container mb-20" id="carbonEtsContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="carbonEtsTitle" data-tooltip=" " data-tt-type="concept-carbon-ets">EU ETS Maritime Carbon (€/t CO2) & Scrubber Hi-5 Fuel Economics</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="carbonEtsBadge" class="kpi-badge">EUA Carbon: —</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:300px"><canvas id="carbonEtsChart"></canvas></div>
+            
+            <!-- Interactive Scrubber & Voyage Cost Calculator HUD -->
+            <div id="scrubberCalcWrap" style="margin-top:12px;padding:12px 16px;background:var(--bg);border:1px solid var(--border);border-radius:6px;font-size:12px;">
+              <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:8px;">
+                <span style="font-weight:700;color:var(--text-bright);font-size:13px;">Interactive Scrubber Payback & Voyage Cost Calculator</span>
+                <div style="display:flex;gap:6px;align-items:center;">
+                  <span style="color:var(--text-muted);font-size:11px;">Vessel Class:</span>
+                  <select id="scrubberVesselSelect" onchange="updateScrubberCalculator()" style="background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:2px 8px;font-size:11px;">
+                    <option value="45" selected>Capesize (45 MT/day)</option>
+                    <option value="55">VLCC (55 MT/day)</option>
+                    <option value="38">Suezmax (38 MT/day)</option>
+                    <option value="30">Panamax / Kamsarmax (30 MT/day)</option>
+                  </select>
+                </div>
+              </div>
+              <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:10px;">
+                <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
+                  <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Daily Scrubber Savings ($/day)</div>
+                  <div id="calcScrubberDailySavings" style="font-size:15px;font-weight:700;color:#3fb950;margin-top:2px;">+$6,615/day</div>
+                  <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">At current Singapore Hi-5 Spread ($147/MT)</div>
+                </div>
+                <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
+                  <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Annualized Scrubber Advantage ($M/yr)</div>
+                  <div id="calcScrubberAnnualAdvantage" style="font-size:15px;font-weight:700;color:#58a6ff;margin-top:2px;">+$1.85M/year</div>
+                  <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">Assuming 280 sailing days/year</div>
+                </div>
+                <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
+                  <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">EU ETS Voyage Drag ($/day)</div>
+                  <div id="calcEuEtsVoyageDrag" style="font-size:15px;font-weight:700;color:#ff7b72;margin-top:2px;">-$4,870/day</div>
+                  <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">50% EU voyage scope @ €68/t EUA</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 6. Ton-Mile Absorption & Active Fleet Utilization Model Simulator -->
+          <div class="chart-container mb-20" id="tonMileSimContainer">
+            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+              <div class="chart-title" id="tonMileSimTitle" data-tooltip=" " data-tt-type="concept-ton-mile-sim">Ton-Mile Absorption & Fleet Utilization Model Simulator</div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <div id="tonMileUtilBadge" class="kpi-badge" style="background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Capesize Active Utilization: 89.2% (Tight Supply)</div>
+              </div>
+            </div>
+            <div class="chart-canvas-wrap" style="height:320px"><canvas id="tonMileSimChart"></canvas></div>
+            
+            <!-- Interactive Fleet Utilization Simulator Controls -->
+            <div id="tonMileControlsWrap" style="margin-top:12px;padding:12px 16px;background:var(--bg);border:1px solid var(--border);border-radius:6px;font-size:12px;">
+              <div style="font-weight:700;color:var(--text-bright);font-size:13px;margin-bottom:10px;">Interactive Ton-Mile Stress Simulator</div>
+              <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(220px, 1fr));gap:14px;">
+                <div>
+                  <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
+                    <span style="color:var(--text-muted);">Guinea Bauxite Flow (11,200 nm):</span>
+                    <span id="simBauxiteVal" style="font-weight:700;color:#58a6ff;">14.0 Mt/mo (+22%)</span>
+                  </div>
+                  <input type="range" id="simBauxiteSlider" min="8" max="22" value="14" step="0.5" oninput="updateTonMileSimulation()" style="width:100%;">
+                </div>
+                <div>
+                  <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
+                    <span style="color:var(--text-muted);">Brazil Iron Ore Flow (11,000 nm):</span>
+                    <span id="simBrazilOreVal" style="font-weight:700;color:#3fb950;">38.0 Mt/mo (+10%)</span>
+                  </div>
+                  <input type="range" id="simBrazilOreSlider" min="25" max="45" value="38" step="0.5" oninput="updateTonMileSimulation()" style="width:100%;">
+                </div>
+                <div>
+                  <div style="display:flex;justify-content:space-between;margin-bottom:4px;">
+                    <span style="color:var(--text-muted);">Global Port Congestion Factor:</span>
+                    <span id="simCongestionVal" style="font-weight:700;color:#e3b341;">4.5% Fleet Anchored</span>
+                  </div>
+                  <input type="range" id="simCongestionSlider" min="1" max="10" value="4.5" step="0.5" oninput="updateTonMileSimulation()" style="width:100%;">
+                </div>
+              </div>
+              <div style="margin-top:10px;padding-top:8px;border-top:1px solid var(--border);font-size:11px;color:var(--text-muted);line-height:1.4;">
+                <strong>Mechanism</strong>: Guinean Bauxite transits ~11,200 nautical miles to China, consuming <strong>3.67x more Capesize DWT-days</strong> per metric tonne than Western Australian iron ore (3,600 nm). When active fleet utilization breaches <strong>88%–90%</strong>, spot rate price elasticity accelerates exponentially.
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
     </div>
 
     <!-- ── Intelligence Tab ──────────────────────────────────────────────── -->
@@ -11364,6 +11529,15 @@ if (intelTabsContainer) {
       usdaCostSpreads: [],
       usdaVesselQueues: [],
       usdaBunkers: [],
+      brazilExports: [],
+      ppaIronOre: [],
+      minerShipments: [],
+      eiaExports: [],
+      portCongestion: [],
+      euCarbon: [],
+      tonMileMatrix: [],
+      newcastleCoal: [],
+      reqExports: [],
     };
 
     // Per-product filtered row cache (populated after load)
@@ -12466,6 +12640,164 @@ if (intelTabsContainer) {
           }).filter(row => row.date != null);
         });
 
+        const brazilExportsPromise = safeFetch('data/commodities/brazil_comexstat_exports.csv', 'Brazil ComexStat', [], r => {
+          DATA.brazilExports = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              year: parseInt(row.year, 10),
+              month: parseInt(row.month, 10),
+              commodity: (row.commodity || '').trim(),
+              ncm: (row.ncm || '').trim(),
+              metricTonnes: parseFloat(row.metric_tonnes || 0) || null,
+              fobUsd: parseFloat(row.fob_usd || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const ppaIronOrePromise = safeFetch('data/commodities/australia_ppa_iron_ore.csv', 'Pilbara Ports (PPA)', [], r => {
+          DATA.ppaIronOre = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              port: (row.port || '').trim(),
+              totalThroughputMt: parseFloat(row.total_throughput_mt || 0) || null,
+              ironOreExportsMt: parseFloat(row.iron_ore_exports_mt || 0) || null,
+              momPct: parseFloat(row.mom_pct || 0) || null,
+              yoyPct: parseFloat(row.yoy_pct || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const minerShipmentsPromise = safeFetch('data/commodities/major_miners_quarterly_shipments.csv', 'Major Miners Guidance', [], r => {
+          DATA.minerShipments = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              quarter: (row.quarter || '').trim(),
+              miner: (row.miner || '').trim(),
+              productionMt: parseFloat(row.production_mt || 0) || null,
+              shipmentsMt: parseFloat(row.shipments_mt || 0) || null,
+              c1CostUsd: parseFloat(row.c1_cash_cost_usd_t || 0) || null,
+              guidance: (row.annual_guidance || '').trim(),
+              terminals: (row.primary_loading_terminals || '').trim(),
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const eiaExportsPromise = safeFetch('data/commodities/us_eia_weekly_crude_exports.csv', 'US EIA Petroleum Exports', [], r => {
+          DATA.eiaExports = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              usTotalCrudeKbpd: parseFloat(row.us_total_crude_exports_kbpd || 0) || null,
+              padd3GulfCrudeKbpd: parseFloat(row.padd3_gulf_crude_exports_kbpd || 0) || null,
+              usTotalPetroKbpd: parseFloat(row.us_total_petroleum_exports_kbpd || 0) || null,
+              crude4wAvgKbpd: parseFloat(row.crude_4w_avg_kbpd || 0) || null,
+              petro4wAvgKbpd: parseFloat(row.petro_4w_avg_kbpd || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const portCongestionPromise = safeFetch('data/congestion/portwatch_port_congestion.csv', 'IMF PortWatch Congestion', [], r => {
+          DATA.portCongestion = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              portCode: (row.port_code || '').trim(),
+              portName: (row.port_name || '').trim(),
+              sector: (row.sector || '').trim(),
+              dailyPortCalls: parseInt(row.daily_port_calls, 10) || null,
+              vesselsAnchored: parseInt(row.vessels_at_anchorage, 10) || null,
+              avgWaitingDays: parseFloat(row.avg_waiting_days || 0) || null,
+              waitingDays7dma: parseFloat(row.waiting_days_7dma || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const euCarbonPromise = safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon & Bunker Spreads', [], r => {
+          DATA.euCarbon = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              euaPriceEur: parseFloat(row.eua_carbon_price_eur_tco2 || 0) || null,
+              singVlsfo: parseFloat(row.singapore_vlsfo_usd_mt || 0) || null,
+              singHsfo: parseFloat(row.singapore_hsfo_usd_mt || 0) || null,
+              singHi5: parseFloat(row.singapore_hi5_spread_usd_mt || 0) || null,
+              rotHi5: parseFloat(row.rotterdam_hi5_spread_usd_mt || 0) || null,
+              houHi5: parseFloat(row.houston_hi5_spread_usd_mt || 0) || null,
+              capeScrubberSavings: parseFloat(row.capesize_scrubber_savings_usd_day || 0) || null,
+              vlccScrubberSavings: parseFloat(row.vlcc_scrubber_savings_usd_day || 0) || null,
+              capeEtsSurcharge: parseFloat(row.capesize_eu_ets_surcharge_usd_day || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const tonMilePromise = safeFetch('data/derived/ton_mile_utilization_matrix.csv', 'Ton-Mile Utilization Matrix', [], r => {
+          DATA.tonMileMatrix = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              capeWausOreMt: parseFloat(row.cape_waus_ore_mt || 0) || null,
+              capeBrazilOreMt: parseFloat(row.cape_brazil_ore_mt || 0) || null,
+              capeGuineaBauxiteMt: parseFloat(row.cape_guinea_bauxite_mt || 0) || null,
+              capeTotalTonMilesBn: parseFloat(row.cape_total_ton_miles_bn || 0) || null,
+              capeFleetUtilPct: parseFloat(row.cape_fleet_utilization_pct || 0) || null,
+              vlccMegChinaMt: parseFloat(row.vlcc_meg_china_mt || 0) || null,
+              vlccWafChinaMt: parseFloat(row.vlcc_waf_china_mt || 0) || null,
+              vlccUsgChinaMt: parseFloat(row.vlcc_usg_china_mt || 0) || null,
+              vlccTotalTonMilesBn: parseFloat(row.vlcc_total_ton_miles_bn || 0) || null,
+              vlccFleetUtilPct: parseFloat(row.vlcc_fleet_utilization_pct || 0) || null,
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const newcastleCoalPromise = safeFetch('data/commodities/newcastle_coal_exports.csv', 'Newcastle Coal Exports', [], r => {
+          DATA.newcastleCoal = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              port: (row.port || '').trim(),
+              exportTonnesMt: parseFloat(row.export_tonnes_mt || 0) || null,
+              coalGrade: (row.coal_grade || '').trim(),
+              vesselsLoaded: parseInt(row.vessels_loaded_count, 10) || null,
+              destinations: (row.primary_destinations || '').trim(),
+            };
+          }).filter(row => row.date != null);
+        });
+
+        const reqExportsPromise = safeFetch('data/commodities/australia_req_commodity_exports.csv', 'Australia DISR REQ', [], r => {
+          DATA.reqExports = r.map(row => {
+            const rawDate = (row.date || '').trim();
+            const d = parseDateISO(rawDate) || parseDate(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              quarter: (row.quarter || '').trim(),
+              commodity: (row.commodity || '').trim(),
+              exportVolumeMt: parseFloat(row.export_volume_mt || 0) || null,
+              exportValueAudB: parseFloat(row.export_value_aud_b || 0) || null,
+              vesselClass: (row.primary_vessel_class || '').trim(),
+            };
+          }).filter(row => row.date != null);
+        });
+
         const allPromisesList = [
           ...indexPromises,
           bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
@@ -12475,6 +12807,8 @@ if (intelTabsContainer) {
           lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise, tankerFwdHistPromise,
           lngCharterPromise, tceMatrixPromise,
           wciPromise, usdaGrainRatesPromise, usdaLandedCostsPromise, usdaVesselQueuesPromise, usdaBunkersPromise,
+          brazilExportsPromise, ppaIronOrePromise, minerShipmentsPromise, eiaExportsPromise,
+          portCongestionPromise, euCarbonPromise, tonMilePromise, newcastleCoalPromise, reqExportsPromise,
           ...sgxPromises
         ];
 
@@ -21535,6 +21869,467 @@ if (intelTabsContainer) {
       });
     }
 
+    // =========================================================================
+    // 1. BRAZILIAN BULK SEABORNE EXPORTS (MDIC COMEXSTAT)
+    // =========================================================================
+    var _brazilCommodity = 'Iron Ore';
+    function setBrazilCommodity(c) {
+      window.setBrazilCommodity = setBrazilCommodity;
+      _brazilCommodity = c;
+      ['Ore', 'Crude', 'Soy', 'Sugar', 'All'].forEach(function (x) {
+        const el = document.getElementById('brazilBtn' + x);
+        const map = { 'Ore': 'Iron Ore', 'Crude': 'Crude Oil', 'Soy': 'Soybeans', 'Sugar': 'Raw Sugar', 'All': 'All' };
+        if (el) {
+          const isActive = map[x] === c;
+          el.classList.toggle('active', isActive);
+          el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
+          el.style.color = isActive ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderBrazilExportsChart();
+    }
+
+    function renderBrazilExportsChart() {
+      const canvas = document.getElementById('brazilExportsChart');
+      if (!canvas) return;
+      const rows = DATA.brazilExports || [];
+      if (!rows.length) return;
+
+      const dates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-36);
+      const datasets = [];
+
+      const oreMap = {}, crudeMap = {}, soyMap = {}, sugarMap = {};
+      rows.forEach(r => {
+        const mt = (r.metricTonnes || 0) / 1000000.0; // convert to Million Tonnes (Mt)
+        if (r.commodity === 'Iron Ore') oreMap[r.dateStr] = mt;
+        if (r.commodity === 'Crude Oil') crudeMap[r.dateStr] = mt;
+        if (r.commodity === 'Soybeans') soyMap[r.dateStr] = mt;
+        if (r.commodity === 'Raw Sugar') sugarMap[r.dateStr] = mt;
+      });
+
+      if (_brazilCommodity === 'Iron Ore' || _brazilCommodity === 'All') {
+        datasets.push({ label: 'Iron Ore (Mt/mo)', data: dates.map(d => oreMap[d] || null), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.15)', fill: _brazilCommodity === 'Iron Ore', borderWidth: 2, tension: 0.1 });
+      }
+      if (_brazilCommodity === 'Crude Oil' || _brazilCommodity === 'All') {
+        datasets.push({ label: 'Crude Oil (Mt/mo)', data: dates.map(d => crudeMap[d] || null), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.15)', fill: _brazilCommodity === 'Crude Oil', borderWidth: 2, tension: 0.1 });
+      }
+      if (_brazilCommodity === 'Soybeans' || _brazilCommodity === 'All') {
+        datasets.push({ label: 'Soybeans (Mt/mo)', data: dates.map(d => soyMap[d] || null), borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.15)', fill: _brazilCommodity === 'Soybeans', borderWidth: 2, tension: 0.1 });
+      }
+      if (_brazilCommodity === 'Raw Sugar' || _brazilCommodity === 'All') {
+        datasets.push({ label: 'Raw Sugar (Mt/mo)', data: dates.map(d => sugarMap[d] || null), borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', fill: _brazilCommodity === 'Raw Sugar', borderWidth: 2, tension: 0.1 });
+      }
+
+      const latestDate = dates[dates.length - 1];
+      const badge = document.getElementById('brazilExportsBadge');
+      if (badge && latestDate) {
+        const o = oreMap[latestDate] || 0;
+        const c = crudeMap[latestDate] || 0;
+        badge.innerHTML = `Iron Ore: <strong>${o.toFixed(1)} Mt</strong> | Crude: <strong>${c.toFixed(1)} Mt</strong> (${latestDate})`;
+      }
+
+      destroyChart('brazilExportsChart');
+      updateOrCreateChart('brazilExportsChart', canvas, {
+        type: 'line',
+        data: { labels: dates, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y} Mt` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + ' Mt' } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // 2. PILBARA PORTS AUTHORITY & MAJOR MINER GUIDANCE
+    // =========================================================================
+    var _ppaPort = 'Port Hedland';
+    function setPpaPort(p) {
+      window.setPpaPort = setPpaPort;
+      _ppaPort = p;
+      ['Hedland', 'Dampier', 'Combined', 'Miners'].forEach(function (x) {
+        const el = document.getElementById('ppaBtn' + x);
+        const map = { 'Hedland': 'Port Hedland', 'Dampier': 'Port of Dampier', 'Combined': 'Combined', 'Miners': 'Miners' };
+        if (el) {
+          const isActive = map[x] === p;
+          el.classList.toggle('active', isActive);
+          el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
+          el.style.color = isActive ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderPpaThroughputChart();
+    }
+
+    function renderPpaThroughputChart() {
+      const canvas = document.getElementById('ppaThroughputChart');
+      if (!canvas) return;
+
+      if (_ppaPort === 'Miners') {
+        const rows = DATA.minerShipments || [];
+        if (!rows.length) return;
+        const quarters = [...new Set(rows.map(r => r.quarter))].sort();
+        const valeMap = {}, rioMap = {}, bhpMap = {}, fmgMap = {};
+        rows.forEach(r => {
+          if (r.miner === 'Vale') valeMap[r.quarter] = r.shipmentsMt;
+          if (r.miner === 'Rio Tinto') rioMap[r.quarter] = r.shipmentsMt;
+          if (r.miner === 'BHP') bhpMap[r.quarter] = r.shipmentsMt;
+          if (r.miner === 'Fortescue') fmgMap[r.quarter] = r.shipmentsMt;
+        });
+
+        destroyChart('ppaThroughputChart');
+        updateOrCreateChart('ppaThroughputChart', canvas, {
+          type: 'bar',
+          data: {
+            labels: quarters,
+            datasets: [
+              { label: 'Rio Tinto (Pilbara WAIO Mt)', data: quarters.map(q => rioMap[q] || 0), backgroundColor: '#58a6ff' },
+              { label: 'Vale (Brazil Carajás/SE Mt)', data: quarters.map(q => valeMap[q] || 0), backgroundColor: '#3fb950' },
+              { label: 'BHP (Pilbara WAIO Mt)', data: quarters.map(q => bhpMap[q] || 0), backgroundColor: '#e3b341' },
+              { label: 'Fortescue (Port Hedland Mt)', data: quarters.map(q => fmgMap[q] || 0), backgroundColor: '#bc8cff' },
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+              tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y} Mt` } }
+            },
+            scales: {
+              x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 } } },
+              y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + ' Mt' } }
+            }
+          }
+        });
+        return;
+      }
+
+      const rows = DATA.ppaIronOre || [];
+      if (!rows.length) return;
+      const dates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-32);
+
+      const hedlandMap = {}, dampierMap = {};
+      rows.forEach(r => {
+        if (r.port.includes('Hedland')) hedlandMap[r.dateStr] = r.ironOreExportsMt;
+        if (r.port.includes('Dampier')) dampierMap[r.dateStr] = r.ironOreExportsMt;
+      });
+
+      const datasets = [];
+      if (_ppaPort === 'Port Hedland' || _ppaPort === 'Combined') {
+        datasets.push({ label: 'Port Hedland Ore (Mt/mo)', data: dates.map(d => hedlandMap[d] || null), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.2)', borderWidth: 2, fill: _ppaPort === 'Port Hedland', tension: 0.1 });
+      }
+      if (_ppaPort === 'Port of Dampier' || _ppaPort === 'Combined') {
+        datasets.push({ label: 'Port of Dampier Ore (Mt/mo)', data: dates.map(d => dampierMap[d] || null), borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.2)', borderWidth: 2, fill: _ppaPort === 'Port of Dampier', tension: 0.1 });
+      }
+      if (_ppaPort === 'Combined') {
+        datasets.push({ label: 'Total Pilbara Iron Ore (Mt/mo)', data: dates.map(d => (hedlandMap[d] || 0) + (dampierMap[d] || 0)), borderColor: '#e3b341', borderWidth: 2.5, tension: 0.1 });
+      }
+
+      const latestDate = dates[dates.length - 1];
+      const badge = document.getElementById('ppaThroughputBadge');
+      if (badge && latestDate) {
+        const h = hedlandMap[latestDate] || 0;
+        const d = dampierMap[latestDate] || 0;
+        badge.innerHTML = `Hedland: <strong>${h.toFixed(1)} Mt</strong> | Dampier: <strong>${d.toFixed(1)} Mt</strong> (${latestDate})`;
+      }
+
+      destroyChart('ppaThroughputChart');
+      updateOrCreateChart('ppaThroughputChart', canvas, {
+        type: 'line',
+        data: { labels: dates, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y} Mt` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + ' Mt' } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // 3. US PADD 3 SEABORNE PETROLEUM EXPORTS (EIA WEEKLY)
+    // =========================================================================
+    function renderEiaExportsChart() {
+      const canvas = document.getElementById('eiaExportsChart');
+      if (!canvas) return;
+      const rows = DATA.eiaExports || [];
+      if (!rows.length) return;
+
+      const labels = rows.map(r => r.dateStr);
+      const crude = rows.map(r => r.usTotalCrudeKbpd);
+      const crude4w = rows.map(r => r.crude4wAvgKbpd);
+      const padd3 = rows.map(r => r.padd3GulfCrudeKbpd);
+      const totalPetro = rows.map(r => r.usTotalPetroKbpd);
+
+      const latest = rows[rows.length - 1];
+      const badge = document.getElementById('eiaExportsBadge');
+      if (badge && latest) {
+        badge.innerHTML = `US Crude: <strong>${(latest.usTotalCrudeKbpd || 0).toLocaleString()} kbpd</strong> | Gulf Coast: <strong>${(latest.padd3GulfCrudeKbpd || 0).toLocaleString()} kbpd</strong>`;
+      }
+
+      destroyChart('eiaExportsChart');
+      updateOrCreateChart('eiaExportsChart', canvas, {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [
+            { label: 'Total US Crude Exports (kbpd)', data: crude, borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1 },
+            { label: '4-Week Moving Average', data: crude4w, borderColor: '#3fb950', borderWidth: 2.5, tension: 0.2 },
+            { label: 'PADD 3 Gulf Coast Crude (kbpd)', data: padd3, borderColor: '#e3b341', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1 },
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${(c.parsed.y || 0).toLocaleString()} kbpd` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v.toLocaleString() + ' kbpd' } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // 4. GLOBAL PORT CONGESTION & ANCHORAGE QUEUES (IMF PORTWATCH)
+    // =========================================================================
+    var _congestionPort = 'CNQDG';
+    function setCongestionPort(p) {
+      window.setCongestionPort = setCongestionPort;
+      _congestionPort = p;
+      ['Qingdao', 'Ningbo', 'Caofeidian', 'Hedland', 'Singapore', 'Rotterdam', 'Houston', 'All'].forEach(function (x) {
+        const el = document.getElementById('congBtn' + x);
+        const map = { 'Qingdao': 'CNQDG', 'Ningbo': 'CNNGB', 'Caofeidian': 'CNCFI', 'Hedland': 'AUPHE', 'Singapore': 'SGSIN', 'Rotterdam': 'NLRTM', 'Houston': 'USHOU', 'All': 'ALL' };
+        if (el) {
+          const isActive = map[x] === p;
+          el.classList.toggle('active', isActive);
+          el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
+          el.style.color = isActive ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderPortCongestionChart();
+    }
+
+    function renderPortCongestionChart() {
+      const canvas = document.getElementById('portCongestionChart');
+      if (!canvas) return;
+      const rows = DATA.portCongestion || [];
+      if (!rows.length) return;
+
+      const filtered = _congestionPort === 'ALL' ? rows : rows.filter(r => r.portCode === _congestionPort);
+      const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-60);
+
+      const waitMap = {}, callMap = {}, anchorMap = {};
+      filtered.forEach(r => {
+        waitMap[r.dateStr] = r.waitingDays7dma || r.avgWaitingDays;
+        callMap[r.dateStr] = r.dailyPortCalls;
+        anchorMap[r.dateStr] = r.vesselsAnchored;
+      });
+
+      const latestDate = dates[dates.length - 1];
+      const badge = document.getElementById('congestionBadge');
+      if (badge && latestDate) {
+        const w = waitMap[latestDate] || 0;
+        const alertColor = w >= 3.0 ? '#ff7b72' : '#3fb950';
+        badge.innerHTML = `Avg Waiting Time: <strong>${w.toFixed(2)} Days</strong> | <strong>${anchorMap[latestDate] || 0} Ships Anchored</strong>`;
+        badge.style.color = alertColor;
+      }
+
+      destroyChart('portCongestionChart');
+      updateOrCreateChart('portCongestionChart', canvas, {
+        type: 'line',
+        data: {
+          labels: dates,
+          datasets: [
+            { label: '7-Day MA Waiting Days', data: dates.map(d => waitMap[d] || null), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.15)', borderWidth: 2, fill: true, tension: 0.2 },
+            { label: 'Vessels at Anchorage', data: dates.map(d => anchorMap[d] || null), borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1, yAxisID: 'y1' }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: { callbacks: { label: c => c.datasetIndex === 0 ? ` ${c.dataset.label}: ${c.parsed.y} Days` : ` ${c.dataset.label}: ${c.parsed.y} Ships` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + ' d' }, title: { display: true, text: 'Waiting Time (Days)', color: '#8b949e', font: { size: 10 } } },
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#58a6ff', font: { size: 10 } }, title: { display: true, text: 'Anchored Ships', color: '#58a6ff', font: { size: 10 } } }
+          }
+        }
+      });
+    }
+
+    // =========================================================================
+    // 5. EU ETS MARITIME CARBON & SCRUBBER HI-5 ECONOMICS
+    // =========================================================================
+    function updateScrubberCalculator() {
+      window.updateScrubberCalculator = updateScrubberCalculator;
+      const select = document.getElementById('scrubberVesselSelect');
+      const dailyConsumption = select ? parseFloat(select.value) : 45.0;
+      const rows = DATA.euCarbon || [];
+      const latest = rows.length ? rows[rows.length - 1] : { singHi5: 147.0, euaPriceEur: 68.0 };
+
+      const hi5 = latest.singHi5 || 147.0;
+      const eua = latest.euaPriceEur || 68.0;
+
+      const dailySavings = dailyConsumption * hi5;
+      const annualAdvantage = (dailySavings * 280) / 1000000.0;
+      const etsDrag = dailyConsumption * 3.114 * 0.50 * (eua * 1.08);
+
+      const elDaily = document.getElementById('calcScrubberDailySavings');
+      const elAnnual = document.getElementById('calcScrubberAnnualAdvantage');
+      const elDrag = document.getElementById('calcEuEtsVoyageDrag');
+
+      if (elDaily) elDaily.innerHTML = `+$${Math.round(dailySavings).toLocaleString()}/day`;
+      if (elAnnual) elAnnual.innerHTML = `+$${annualAdvantage.toFixed(2)}M/year`;
+      if (elDrag) elDrag.innerHTML = `-$${Math.round(etsDrag).toLocaleString()}/day`;
+    }
+
+    function renderCarbonEtsChart() {
+      const canvas = document.getElementById('carbonEtsChart');
+      if (!canvas) return;
+      const rows = DATA.euCarbon || [];
+      if (!rows.length) return;
+
+      const labels = rows.map(r => r.dateStr);
+      const eua = rows.map(r => r.euaPriceEur);
+      const hi5 = rows.map(r => r.singHi5);
+
+      const latest = rows[rows.length - 1];
+      const badge = document.getElementById('carbonEtsBadge');
+      if (badge && latest) {
+        badge.innerHTML = `EUA Carbon: <strong>€${(latest.euaPriceEur || 0).toFixed(1)}/t</strong> | Hi-5 Spread: <strong>$${(latest.singHi5 || 0).toFixed(1)}/MT</strong>`;
+      }
+
+      destroyChart('carbonEtsChart');
+      updateOrCreateChart('carbonEtsChart', canvas, {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [
+            { label: 'EU ETS Carbon Allowance (€/t CO2)', data: eua, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
+            { label: 'Singapore Hi-5 Fuel Spread ($/MT)', data: hi5, borderColor: '#3fb950', borderWidth: 2, tension: 0.1, yAxisID: 'y1' },
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: { callbacks: { label: c => c.datasetIndex === 0 ? ` ${c.dataset.label}: €${c.parsed.y}/t` : ` ${c.dataset.label}: $${c.parsed.y}/MT` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '€' + v }, title: { display: true, text: 'EUA Carbon Price (€/t)', color: '#8b949e', font: { size: 10 } } },
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#3fb950', font: { size: 10 }, callback: v => '$' + v }, title: { display: true, text: 'Hi-5 Bunker Spread ($/MT)', color: '#3fb950', font: { size: 10 } } }
+          }
+        }
+      });
+      updateScrubberCalculator();
+    }
+
+    // =========================================================================
+    // 6. TON-MILE ABSORPTION & ACTIVE FLEET UTILIZATION SIMULATOR
+    // =========================================================================
+    function updateTonMileSimulation() {
+      window.updateTonMileSimulation = updateTonMileSimulation;
+      const bauxiteSlider = document.getElementById('simBauxiteSlider');
+      const brazilOreSlider = document.getElementById('simBrazilOreSlider');
+      const congestionSlider = document.getElementById('simCongestionSlider');
+
+      const bauxiteMt = bauxiteSlider ? parseFloat(bauxiteSlider.value) : 14.0;
+      const brazilOreMt = brazilOreSlider ? parseFloat(brazilOreSlider.value) : 38.0;
+      const congestionPct = congestionSlider ? parseFloat(congestionSlider.value) : 4.5;
+
+      const elBauxite = document.getElementById('simBauxiteVal');
+      const elBrazilOre = document.getElementById('simBrazilOreVal');
+      const elCongestion = document.getElementById('simCongestionVal');
+      const elBadge = document.getElementById('tonMileUtilBadge');
+
+      if (elBauxite) elBauxite.innerHTML = `${bauxiteMt.toFixed(1)} Mt/mo`;
+      if (elBrazilOre) elBrazilOre.innerHTML = `${brazilOreMt.toFixed(1)} Mt/mo`;
+      if (elCongestion) elCongestion.innerHTML = `${congestionPct.toFixed(1)}% Fleet Anchored`;
+
+      // Recalculate Ton-Miles & Fleet Utilization
+      const wausTonMiles = (54.0 * 3600.0) / 1000.0;
+      const brazilTonMiles = (brazilOreMt * 11000.0) / 1000.0;
+      const guineaTonMiles = (bauxiteMt * 11200.0) / 1000.0;
+      const totalTonMiles = wausTonMiles + brazilTonMiles + guineaTonMiles;
+
+      const baseUtil = 84.0 + (totalTonMiles - 650.0) * 0.08;
+      const activeUtil = Math.min(98.0, Math.max(78.0, baseUtil + (congestionPct - 3.0) * 1.1));
+
+      if (elBadge) {
+        const regimeColor = activeUtil >= 90.0 ? '#ff7b72' : (activeUtil >= 87.0 ? '#e3b341' : '#3fb950');
+        const regimeText = activeUtil >= 90.0 ? 'Super-Cycle Squeeze' : (activeUtil >= 87.0 ? 'Tight Supply Window' : 'Balanced Fleet');
+        elBadge.innerHTML = `Capesize Active Utilization: <strong>${activeUtil.toFixed(1)}% (${regimeText})</strong>`;
+        elBadge.style.color = regimeColor;
+      }
+    }
+
+    function renderTonMileSimChart() {
+      const canvas = document.getElementById('tonMileSimChart');
+      if (!canvas) return;
+      const rows = DATA.tonMileMatrix || [];
+      if (!rows.length) return;
+
+      const labels = rows.map(r => r.dateStr);
+      const capeUtil = rows.map(r => r.capeFleetUtilPct);
+      const vlccUtil = rows.map(r => r.vlccFleetUtilPct);
+      const capeTm = rows.map(r => r.capeTotalTonMilesBn);
+
+      destroyChart('tonMileSimChart');
+      updateOrCreateChart('tonMileSimChart', canvas, {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [
+            { label: 'Capesize Active Fleet Utilization (%)', data: capeUtil, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.15)', borderWidth: 2.5, fill: true, tension: 0.1 },
+            { label: 'VLCC Active Fleet Utilization (%)', data: vlccUtil, borderColor: '#3fb950', borderWidth: 2, tension: 0.1 },
+            { label: 'Capesize Ton-Miles (Billion Ton-NM)', data: capeTm, borderColor: '#e3b341', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1, yAxisID: 'y1' }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: { callbacks: { label: c => c.datasetIndex <= 1 ? ` ${c.dataset.label}: ${c.parsed.y}%` : ` ${c.dataset.label}: ${c.parsed.y} Bn Ton-NM` } }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
+            y: { grid: { color: '#151a22' }, min: 75, max: 100, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + '%' }, title: { display: true, text: 'Utilization %', color: '#8b949e', font: { size: 10 } } },
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#e3b341', font: { size: 10 } }, title: { display: true, text: 'Billion Ton-NM', color: '#e3b341', font: { size: 10 } } }
+          }
+        }
+      });
+      updateTonMileSimulation();
+    }
+
     var _signalsDebounceTimer = null;
     function renderSignalsTab(productKey) {
       // Bump generation immediately to abort any in-flight section renders
@@ -21544,6 +22339,12 @@ if (intelTabsContainer) {
       clearTimeout(_signalsDebounceTimer);
       _signalsDebounceTimer = setTimeout(function () {
         if (document.getElementById('bbRangeStart')) initBBRange(productKey);
+        renderBrazilExportsChart();
+        renderPpaThroughputChart();
+        renderEiaExportsChart();
+        renderPortCongestionChart();
+        renderCarbonEtsChart();
+        renderTonMileSimChart();
         if (document.getElementById('basisRangeStart')) initBasisRange();
         if (document.getElementById('bdiContribRangeStart')) initBDIContribRange();
 
@@ -27859,22 +28660,22 @@ if (intelTabsContainer) {
       const active = new Set();
 
       // 1. Breakwave & Macro Analyst Narrative
-      if (/breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|trade flow|rerouting|gibson|\bpoten\b|\bdrewry\b|\ballied\b|\bbancosta\b|\bintermodal\b|\bxclusiv\b|\bstar asia\b|\blion\b|broker report|shipbroker/i.test(q)) {
+      if (/breakwave|analyst sentiment|conviction|qual analysis|grade|thesis|catalyst|contrarian|confluence|verdict|invalidation|downside risk|positioning|allocation|outpace|macro|outlook|opec|risk-reward|ton.mile|tonmile|fleet util|trade flow|rerouting|gibson|\bpoten\b|\bdrewry\b|\ballied\b|\bbancosta\b|\bintermodal\b|\bxclusiv\b|\bstar asia\b|\blion\b|broker report|shipbroker/i.test(q)) {
         active.add('breakwave');
       }
 
       // 2. Baltic Exchange, Spot Rates, Spreads, Chokepoints & Quant Regimes
-      if (/baltic|spot rate|exchange|market comment|chokepoint|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread|bdi|bdti|bcti|dirty|clean|z-score|roc|regime|overbought|oversold|spread|divergence|td3c|td20|td25|cape|panamax|supramax|handysize|vlcc|suezmax|aframax|ffa|ton.mile|tonmile|sts|cpc|black sea|cape of good hope/i.test(q)) {
+      if (/baltic|spot rate|exchange|market comment|chokepoint|portwatch|congestion|waiting (day|time)|anchor|suez|panama|red sea|bab-el-mandeb|rerouting|transit|c3|c5|arbitrage|skew|freight spread|bdi|bdti|bcti|dirty|clean|z-score|roc|regime|overbought|oversold|spread|divergence|td3c|td20|td25|td6|cape|panamax|supramax|handysize|vlcc|suezmax|aframax|ffa|ton.mile|tonmile|sts|cpc|black sea|cape of good hope/i.test(q)) {
         active.add('baltic');
       }
 
       // 3. Hellenic, Time Charter Rates, S&P Valuations, Bunkers & Carbon
-      if (/charter|timecharter|tc rate|tce|vessel valuation|second.hand|s&p|asset price|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|carbon|refinery|cpp|earnings|resale|sale and purchase|\bintermodal\b/i.test(q)) {
+      if (/charter|timecharter|tc rate|tce|vessel valuation|second.hand|s&p|asset price|bunker|vlsfo|hsfo|hi-5|scrubber|eu ets|\beua\b|carbon|eia|padd 3|petroleum export|refinery|cpp|earnings|resale|sale and purchase|\bintermodal\b/i.test(q)) {
         active.add('hellenic');
       }
 
       // 4. Iron Ore, Steel, Coal, Grain & Commodity Flows
-      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow|\busda\b|\bagtransport\b|grain queue|landed cost/i.test(q)) {
+      if (/iron ore|ore demand|capesize demand|china steel|ton.mile|tonmile|simandou|bauxite|port stock|inventory days|steel margin|coal|grain|soybean|export flow|\busda\b|\bagtransport\b|grain queue|landed cost|comexstat|mdic|pilbara|port hedland|dampier|\bvale\b|rio tinto|\bbhp\b|\bfmg\b|newcastle|dalrymple|gladstone|\breq\b|\bdisr\b/i.test(q)) {
         active.add('ironOre');
       }
 
@@ -30150,6 +30951,48 @@ if (intelTabsContainer) {
           html += `<div class="rt-row"><span class="rt-label">Subcontinent Yards</span><span class="rt-val">India (Alang), Bangladesh (Chattogram), Pakistan (Gadani)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Mediterranean</span><span class="rt-val">Turkey (Aliaga green recycling yard quotes)</span></div>`;
           html += `<div class="rt-note">Defines the absolute salvage floor for merchant ships. High scrap prices ($500+/LDT) incentivize fleet rationalization and older tonnage removal during freight downturns, putting an empirical floor under vessel asset values.</div>`;
+        }
+        else if (type === 'concept-brazil-exports') {
+          html = `<div class="rt-title">Brazilian Bulk Seaborne Exports (MDIC ComexStat)</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Authority</span><span class="rt-val">Brazilian Ministry of Industry & Trade (MDIC / SECEX)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Tracked Cargoes</span><span class="rt-val">Iron Ore (2601), Crude Oil (2709), Soybeans (1201), Sugar (1701)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Lead Horizon</span><span class="rt-val" style="color:#58a6ff">15–30 Days ahead of Capesize C3 / Suezmax freight</span></div>`;
+          html += `<div class="rt-note">Direct measure of physical loadings from Ponta da Madeira, Tubarão, Guaíba, and Santos. Monthly volume surges absorb long-haul Atlantic tonnage (~11,000 nm to China), directly leading Baltic Capesize (BCI) and Dirty Tanker (BDTI) freight rate repricings.</div>`;
+        }
+        else if (type === 'concept-ppa-throughput') {
+          html = `<div class="rt-title">Pilbara Ports Authority & Major Miner Shipments</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Loading Hubs</span><span class="rt-val">Port of Port Hedland & Port of Dampier (Western Australia)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Global Dominance</span><span class="rt-val" style="color:#e3b341">~43% of Global Seaborne Iron Ore Trade</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Major Producers</span><span class="rt-val">Rio Tinto, Vale, BHP, Fortescue (FMG)</span></div>`;
+          html += `<div class="rt-note">Primary physical supply driver for the Capesize C5 (West Australia to Qingdao) freight corridor. Operational throughput changes, Dynamic Under Keel Clearance (DUKC) rules, or cyclone season shutdowns manifest immediately in spot vessel demand.</div>`;
+        }
+        else if (type === 'concept-eia-exports') {
+          html = `<div class="rt-title">US Gulf Coast (PADD 3) Seaborne Petroleum Exports</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Data Source</span><span class="rt-val">US Energy Information Administration (EIA Weekly WCREXUS2)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Tanker Impact</span><span class="rt-val" style="color:#58a6ff">VLCC TD22 (USG→China), Suezmax TD20/TD27, Aframax TD25</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Velocity</span><span class="rt-val">Thousand Barrels per Day (kbpd) & 4-Week Moving Average</span></div>`;
+          html += `<div class="rt-note">US Gulf seaborne crude exports represent the largest incremental growth driver for long-haul tanker ton-miles. Transatlantic shipments to Europe replace short-haul North Sea barrels, while USG-to-Asia runs (~15,200 nm) absorb VLCC capacity for 60+ days.</div>`;
+        }
+        else if (type === 'concept-port-congestion') {
+          html = `<div class="rt-title">Global Port Congestion & Anchorage Queue Factor</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Monitoring Network</span><span class="rt-val">IMF PortWatch ArcGIS Spatial AIS Layer across 1,985 Ports</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Core Hubs</span><span class="rt-val">Qingdao, Ningbo, Caofeidian, Port Hedland, Singapore, Rotterdam, Houston</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Bottleneck Alert</span><span class="rt-val" style="color:#ff7b72">>3.0 Days Avg Waiting Time = Fleet Supply Contraction</span></div>`;
+          html += `<div class="rt-note">Anchorage delays function as an immediate multiplier on vessel supply deficits. When 50+ Capesize or VLCC vessels are anchored at discharge ports, hundreds of vessel-days are temporarily removed from active spot availability, accelerating rate spikes.</div>`;
+        }
+        else if (type === 'concept-carbon-ets') {
+          html = `<div class="rt-title">EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics</div>`;
+          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">Singapore / Rotterdam VLSFO (0.5%) − HSFO (3.5%) ($/MT)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Scrubber Formula</span><span class="rt-val" style="color:#3fb950">Daily Fuel Consumption (MT) × Hi-5 Spread ($/MT)</span></div>`;
+          html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. EU ETS surcharges add explicit drag on Europe-bound voyages.</div>`;
+        }
+        else if (type === 'concept-ton-mile-sim') {
+          html = `<div class="rt-title">Ton-Mile Absorption & Active Fleet Utilization Model</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ton-Mile Equation</span><span class="rt-val">Ton-Miles = ∑ (Cargo Volume MT × Nautical Distance nm)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Fleet Utilization</span><span class="rt-val" style="color:#58a6ff">U = TM / (Nominal Fleet DWT × (1 − Congestion Factor))</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Guinea Multiplier</span><span class="rt-val" style="color:#e3b341">11,200 nm = 3.67x more DWT-days than WAus (3,600 nm)</span></div>`;
+          html += `<div class="rt-note">Interactive simulation demonstrating why expanding long-haul trades (Guinea Bauxite, Brazil Ore, US Gulf Crude) structurally tighten global fleet capacity. When active fleet utilization exceeds 88%–90%, freight rates experience non-linear super-cycle repricing.</div>`;
         }
         else if (type === 'basin-net-spread') {
           html = `<div class="rt-title">Basin Arbitrage Net Spread</div>`;

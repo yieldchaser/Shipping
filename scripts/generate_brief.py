@@ -1000,6 +1000,77 @@ def load_physical_signals_context() -> str:
     except Exception:
         pass
 
+    # 11. Upstream Physical Commodity Flows, Port Bottlenecks & Carbon Regimes
+    try:
+        lines.append("\n=== 11. UPSTREAM PHYSICAL COMMODITY FLOWS, PORT BOTTLENECKS & CARBON REGIMES ===")
+        # 11a. Brazil MDIC ComexStat
+        p_br = ROOT / "data" / "commodities" / "brazil_comexstat_exports.csv"
+        if p_br.exists():
+            with open(p_br, encoding="utf-8") as f:
+                br_rows = list(csv.DictReader(f))
+            if br_rows:
+                latest_d = br_rows[-1].get('date', '')
+                d_rows = [r for r in br_rows if r.get('date') == latest_d]
+                ore_mt = next((float(r.get('metric_tonnes', 0))/1e6 for r in d_rows if r.get('commodity') == 'Iron Ore'), 0)
+                crude_mt = next((float(r.get('metric_tonnes', 0))/1e6 for r in d_rows if r.get('commodity') == 'Crude Oil'), 0)
+                soy_mt = next((float(r.get('metric_tonnes', 0))/1e6 for r in d_rows if r.get('commodity') == 'Soybeans'), 0)
+                sugar_mt = next((float(r.get('metric_tonnes', 0))/1e6 for r in d_rows if r.get('commodity') == 'Raw Sugar'), 0)
+                lines.append(f"  • Brazil MDIC Exports ({latest_d}): Iron Ore {ore_mt:.1f} Mt | Crude Oil {crude_mt:.1f} Mt | Soybeans {soy_mt:.1f} Mt | Raw Sugar {sugar_mt:.1f} Mt (C3 Capesize & Santos Supramax lead)")
+
+        # 11b. Pilbara Ports & Miner Shipments
+        p_ppa = ROOT / "data" / "commodities" / "australia_ppa_iron_ore.csv"
+        if p_ppa.exists():
+            with open(p_ppa, encoding="utf-8") as f:
+                ppa_rows = list(csv.DictReader(f))
+            if ppa_rows:
+                hedland = [r for r in ppa_rows if 'Hedland' in r.get('port', '')]
+                dampier = [r for r in ppa_rows if 'Dampier' in r.get('port', '')]
+                if hedland and dampier:
+                    lh = hedland[-1]
+                    ld = dampier[-1]
+                    lines.append(f"  • Pilbara Ports Throughput ({lh.get('date', '')}): Port Hedland {float(lh.get('iron_ore_exports_mt', 0)):.1f} Mt ({float(lh.get('yoy_pct', 0)):+.1f}% YoY) | Dampier {float(ld.get('iron_ore_exports_mt', 0)):.1f} Mt ({float(ld.get('yoy_pct', 0)):+.1f}% YoY) (C5 Capesize Supply)")
+
+        # 11c. US EIA Petroleum Exports
+        p_eia = ROOT / "data" / "commodities" / "us_eia_weekly_crude_exports.csv"
+        if p_eia.exists():
+            with open(p_eia, encoding="utf-8") as f:
+                eia_rows = list(csv.DictReader(f))
+            if eia_rows:
+                le = eia_rows[-1]
+                lines.append(f"  • US EIA Petroleum Exports ({le.get('date', '')}): US Total Crude {float(le.get('us_total_crude_exports_kbpd', 0)):,.0f} kbpd | PADD 3 Gulf Coast {float(le.get('padd3_gulf_crude_exports_kbpd', 0)):,.0f} kbpd | 4W Avg {float(le.get('crude_4w_avg_kbpd', 0)):,.0f} kbpd (TD22 VLCC & TD25 Aframax Driver)")
+
+        # 11d. IMF PortWatch Congestion
+        p_cong = ROOT / "data" / "congestion" / "portwatch_port_congestion.csv"
+        if p_cong.exists():
+            with open(p_cong, encoding="utf-8") as f:
+                cong_rows = list(csv.DictReader(f))
+            if cong_rows:
+                q_rows = [r for r in cong_rows if r.get('port_code') == 'CNQDG']
+                s_rows = [r for r in cong_rows if r.get('port_code') == 'SGSIN']
+                r_rows = [r for r in cong_rows if r.get('port_code') == 'NLRTM']
+                if q_rows and s_rows and r_rows:
+                    lines.append(f"  • PortWatch Anchorage Queues: Qingdao {float(q_rows[-1].get('waiting_days_7dma', 0)):.1f}d wait ({q_rows[-1].get('vessels_at_anchorage', 0)} ships) | Singapore {float(s_rows[-1].get('waiting_days_7dma', 0)):.1f}d wait ({s_rows[-1].get('vessels_at_anchorage', 0)} ships) | Rotterdam {float(r_rows[-1].get('waiting_days_7dma', 0)):.1f}d wait")
+
+        # 11e. EU ETS Carbon & Scrubber Economics
+        p_carb = ROOT / "data" / "derived" / "eu_ets_carbon_daily.csv"
+        if p_carb.exists():
+            with open(p_carb, encoding="utf-8") as f:
+                carb_rows = list(csv.DictReader(f))
+            if carb_rows:
+                lc = carb_rows[-1]
+                lines.append(f"  • Environmental Regimes ({lc.get('date', '')}): EUA Carbon €{float(lc.get('eua_carbon_price_eur_tco2', 0)):.1f}/t CO2 | Singapore Hi-5 Spread ${float(lc.get('singapore_hi5_spread_usd_mt', 0)):.1f}/MT | Capesize Scrubber Premium +${float(lc.get('capesize_scrubber_savings_usd_day', 0)):,.0f}/day")
+
+        # 11f. Ton-Mile & Fleet Utilization
+        p_tm = ROOT / "data" / "derived" / "ton_mile_utilization_matrix.csv"
+        if p_tm.exists():
+            with open(p_tm, encoding="utf-8") as f:
+                tm_rows = list(csv.DictReader(f))
+            if tm_rows:
+                ltm = tm_rows[-1]
+                lines.append(f"  • Ton-Mile Capacity Absorption ({ltm.get('date', '')}): Capesize Active Utilization {float(ltm.get('cape_fleet_utilization_pct', 0)):.1f}% (Total {float(ltm.get('cape_total_ton_miles_bn', 0)):.1f} Bn Ton-NM) | VLCC Active Utilization {float(ltm.get('vlcc_fleet_utilization_pct', 0)):.1f}% (Guinea Bauxite {float(ltm.get('cape_guinea_bauxite_mt', 0)):.1f} Mt/mo)")
+    except Exception:
+        pass
+
     return "\n".join(lines)
 
 

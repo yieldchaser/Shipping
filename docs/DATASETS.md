@@ -131,6 +131,24 @@ Ingested via scheduled workflows (`.github/workflows/usda_weekly.yml`, `.github/
 
 ---
 
+## 7. Upstream Physical Commodity Flows, Logistics & Environmental Regimes (`data/commodities/`, `data/congestion/`, `data/derived/`)
+
+Ingested weekly/monthly via `.github/workflows/upstream_commodity_flows.yml` and specialized scrapers in `scripts/scrapers/`.
+
+| File Name | Content Description | Coverage | Frequency | Data Source | Status |
+|:---|:---|:---:|:---:|:---|:---:|
+| [`data/commodities/brazil_comexstat_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/brazil_comexstat_exports.csv) | Brazilian seaborne exports: Iron Ore (`NCM 2601`), Crude Oil (`NCM 2709`), Soybeans (`NCM 1201`), Raw Sugar (`NCM 1701`) | 2024–live | Monthly | Brazilian MDIC / SECEX ComexStat API (`api-comexstat.mdic.gov.br`) | Active |
+| [`data/commodities/australia_ppa_iron_ore.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_ppa_iron_ore.csv) | Pilbara Ports Authority iron ore throughput: Port Hedland & Port of Dampier (Mt, MoM%, YoY%) | 2024–live | Monthly | Pilbara Ports Authority (PPA) Shipping Statistics | Active |
+| [`data/commodities/major_miners_quarterly_shipments.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/major_miners_quarterly_shipments.csv) | Big 4 Iron Ore Miners: Vale, Rio Tinto, BHP, Fortescue (Production Mt, Shipments Mt, C1 Cash Cost $/t, Annual Guidance) | 2024–live | Quarterly | Mining Company Operations Reports & Production Releases | Active |
+| [`data/commodities/us_eia_weekly_crude_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/us_eia_weekly_crude_exports.csv) | US Gulf Coast (PADD 3) & Total US weekly crude and petroleum exports (`WCREXUS2`, kbpd, 4W MA) | 2024–live | Weekly (Wed) | US Energy Information Administration (EIA Weekly Petroleum Status Report) | Active |
+| [`data/congestion/portwatch_port_congestion.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/portwatch_port_congestion.csv) | Global discharge & loading hub congestion: Qingdao, Ningbo, Caofeidian, Port Hedland, Singapore, Rotterdam, Houston (Port Calls, Anchored Ships, Avg Waiting Days, 7DMA) | 2024–live | Daily | IMF PortWatch ArcGIS Spatial AIS Layer | Active |
+| [`data/derived/eu_ets_carbon_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/eu_ets_carbon_daily.csv) | EU ETS EUA spot carbon allowance (€/t CO2), Singapore/Rotterdam/Houston Hi-5 bunker fuel spreads ($/MT), and daily scrubber savings ($/day) | 2024–live | Daily | European Energy Exchange (EEX) / Ship & Bunker | Active |
+| [`data/commodities/newcastle_coal_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/newcastle_coal_exports.csv) | Australian coal terminal shipments: Port of Newcastle, Dalrymple Bay Coal Terminal (DBCT), Gladstone (Mt, Thermal/Met, Vessels Loaded) | 2024–live | Monthly | Port of Newcastle & Queensland Ports Operations | Active |
+| [`data/commodities/australia_req_commodity_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_req_commodity_exports.csv) | Australia DISR Resources and Energy Quarterly: Iron Ore, Metallurgical Coal, Thermal Coal, LNG, Bauxite/Alumina export volumes (Mt) and values (AUD Bn) | 2024–live | Quarterly | Australian Department of Industry, Science and Resources (DISR REQ) | Active |
+| [`data/derived/ton_mile_utilization_matrix.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/ton_mile_utilization_matrix.csv) | Capesize & VLCC global ton-mile absorption (Bn Ton-NM) and active fleet utilization ($U\%$) under spatial trade routing and port congestion constraints | 2024–live | Monthly | Quantitative Ton-Mile Distance & Elasticity Engine (`generate_ton_mile_matrix.py`) | Active |
+
+---
+
 ## 🛠️ Automated Health Check Command
 
 To verify dataset freshness and staleness across all datasets at any time:
