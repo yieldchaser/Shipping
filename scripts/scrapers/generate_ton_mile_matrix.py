@@ -21,7 +21,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "ton_mile_utilization_matrix.csv"
 
 def generate_ton_mile_matrix():
-    logging.info("Generating Ton-Mile Absorption & Active Fleet Utilization monthly matrix...")
+    logging.info("Generating Ton-Mile Absorption & Active Fleet Utilization monthly matrix (Cape, VLCC, Suezmax)...")
 
     # Monthly time series for 2024 to Aug 2026
     start_date = pd.to_datetime("2024-01-01")
@@ -46,8 +46,7 @@ def generate_ton_mile_matrix():
         guinea_tm = (guinea_bauxite_mt * 11200.0) / 1000.0
         total_cape_tm = waus_tm + brazil_tm + guinea_tm
 
-        # Capesize active utilization % (assuming 350 voyage days/year per vessel)
-        # Higher guinea bauxite significantly boosts ton-mile demand
+        # Capesize active utilization % (assuming ~350 voyage days/year per vessel)
         cape_utilization_pct = min(96.5, max(82.0, 84.5 + (total_cape_tm - 650.0) * 0.08 + np.sin(i * 0.6) * 2.0))
 
         # 2. VLCC flows (Monthly MT)
@@ -61,6 +60,17 @@ def generate_ton_mile_matrix():
         total_vlcc_tm = meg_tm + waf_tm + usg_tm
         vlcc_utilization_pct = min(95.0, max(83.0, 86.0 + (total_vlcc_tm - 440.0) * 0.07 + np.cos(i * 0.5) * 2.2))
 
+        # 3. Suezmax flows (Monthly MT)
+        waf_ukc_mt = 12.0 + (i * 0.08) + np.sin(i * 0.45) * 1.2
+        guyana_ukc_mt = 4.2 + (i * 0.15) + np.cos(i * 0.35) * 0.8 # Liza & Payara field ramp
+        bsea_med_mt = 7.5 + np.sin(i * 0.55) * 1.0
+
+        waf_suez_tm = (waf_ukc_mt * 4500.0) / 1000.0
+        guyana_suez_tm = (guyana_ukc_mt * 4200.0) / 1000.0
+        bsea_suez_tm = (bsea_med_mt * 1400.0) / 1000.0
+        total_suez_tm = waf_suez_tm + guyana_suez_tm + bsea_suez_tm
+        suez_utilization_pct = min(94.5, max(81.0, 85.0 + (total_suez_tm - 82.0) * 0.12 + np.cos(i * 0.4) * 1.8))
+
         records.append({
             "date": dt.strftime("%Y-%m-%d"),
             "cape_waus_ore_mt": round(waus_ore_mt, 1),
@@ -73,11 +83,16 @@ def generate_ton_mile_matrix():
             "vlcc_usg_china_mt": round(usg_china_mt, 1),
             "vlcc_total_ton_miles_bn": round(total_vlcc_tm, 1),
             "vlcc_fleet_utilization_pct": round(vlcc_utilization_pct, 1),
+            "suez_waf_ukc_mt": round(waf_ukc_mt, 1),
+            "suez_guyana_ukc_mt": round(guyana_ukc_mt, 1),
+            "suez_bsea_med_mt": round(bsea_med_mt, 1),
+            "suez_total_ton_miles_bn": round(total_suez_tm, 1),
+            "suez_fleet_utilization_pct": round(suez_utilization_pct, 1),
         })
 
     df = pd.DataFrame(records)
     df.to_csv(OUT_FILE, index=False)
-    logging.info("Wrote %d rows to %s", len(df), OUT_FILE)
+    logging.info("Wrote %d rows to %s (including Capesize, VLCC, and Suezmax)", len(df), OUT_FILE)
     return df
 
 if __name__ == "__main__":

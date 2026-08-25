@@ -12823,6 +12823,11 @@ if (intelTabsContainer) {
               vlccUsgChinaMt: parseFloat(row.vlcc_usg_china_mt || 0) || null,
               vlccTotalTonMilesBn: parseFloat(row.vlcc_total_ton_miles_bn || 0) || null,
               vlccFleetUtilPct: parseFloat(row.vlcc_fleet_utilization_pct || 0) || null,
+              suezWafUkcMt: parseFloat(row.suez_waf_ukc_mt || 0) || null,
+              suezGuyanaUkcMt: parseFloat(row.suez_guyana_ukc_mt || 0) || null,
+              suezBseaMedMt: parseFloat(row.suez_bsea_med_mt || 0) || null,
+              suezTotalTonMilesBn: parseFloat(row.suez_total_ton_miles_bn || 0) || null,
+              suezFleetUtilPct: parseFloat(row.suez_fleet_utilization_pct || 0) || null,
             };
           }).filter(row => row.date != null);
         });
@@ -22482,6 +22487,7 @@ if (intelTabsContainer) {
       const labels = rows.map(r => r.dateStr);
       const capeUtil = rows.map(r => r.capeFleetUtilPct);
       const vlccUtil = rows.map(r => r.vlccFleetUtilPct);
+      const suezUtil = rows.map(r => r.suezFleetUtilPct);
       const capeTm = rows.map(r => r.capeTotalTonMilesBn);
 
       destroyChart('tonMileSimChart');
@@ -22492,6 +22498,7 @@ if (intelTabsContainer) {
           datasets: [
             { label: 'Capesize Active Fleet Utilization (%)', data: capeUtil, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.15)', borderWidth: 2.5, fill: true, tension: 0.1 },
             { label: 'VLCC Active Fleet Utilization (%)', data: vlccUtil, borderColor: '#3fb950', borderWidth: 2, tension: 0.1 },
+            { label: 'Suezmax Active Fleet Utilization (%)', data: suezUtil, borderColor: '#bc8cff', borderWidth: 2, tension: 0.1 },
             { label: 'Capesize Ton-Miles (Billion Ton-NM)', data: capeTm, borderColor: '#e3b341', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1, yAxisID: 'y1' }
           ]
         },
@@ -22501,7 +22508,7 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
-            tooltip: { callbacks: { label: c => c.datasetIndex <= 1 ? ` ${c.dataset.label}: ${c.parsed.y}%` : ` ${c.dataset.label}: ${c.parsed.y} Bn Ton-NM` } }
+            tooltip: { callbacks: { label: c => c.datasetIndex <= 2 ? ` ${c.dataset.label}: ${c.parsed.y}%` : ` ${c.dataset.label}: ${c.parsed.y} Bn Ton-NM` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
