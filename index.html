@@ -21691,6 +21691,9 @@ if (intelTabsContainer) {
           backgroundColor: 'rgba(88,166,255,0.1)',
           borderWidth: 2.5,
           fill: _wciRoute === 'composite',
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          spanGaps: true,
           tension: 0.1
         });
       }
@@ -21701,6 +21704,9 @@ if (intelTabsContainer) {
           borderColor: '#3fb950',
           borderWidth: 2,
           fill: false,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          spanGaps: true,
           tension: 0.1
         });
         datasets.push({
@@ -21709,6 +21715,9 @@ if (intelTabsContainer) {
           borderColor: '#e3b341',
           borderWidth: 2,
           fill: false,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          spanGaps: true,
           tension: 0.1
         });
       }
@@ -21717,8 +21726,12 @@ if (intelTabsContainer) {
           label: 'Shanghai -> Los Angeles',
           data: rows.map(r => r.sha_la),
           borderColor: '#bc8cff',
+          backgroundColor: 'rgba(188,140,255,0.1)',
           borderWidth: 2,
-          fill: false,
+          fill: _wciRoute === 'us',
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          spanGaps: true,
           tension: 0.1
         });
         datasets.push({
@@ -21727,6 +21740,9 @@ if (intelTabsContainer) {
           borderColor: '#ff7b72',
           borderWidth: 2,
           fill: false,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          spanGaps: true,
           tension: 0.1
         });
       }
@@ -21787,9 +21803,9 @@ if (intelTabsContainer) {
         data: {
           labels,
           datasets: [
-            { label: 'US Gulf -> Japan ($/MT)', data: gulfData, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
-            { label: 'PNW -> Japan ($/MT)', data: pnwData, borderColor: '#3fb950', borderWidth: 2, tension: 0.1 },
-            { label: 'Gulf - PNW Freight Spread ($/MT)', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, fill: true, tension: 0.1 }
+            { label: 'US Gulf -> Japan ($/MT)', data: gulfData, borderColor: '#58a6ff', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 },
+            { label: 'PNW -> Japan ($/MT)', data: pnwData, borderColor: '#3fb950', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 },
+            { label: 'Gulf - PNW Freight Spread ($/MT)', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, fill: true, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 }
           ]
         },
         options: {
@@ -21945,9 +21961,9 @@ if (intelTabsContainer) {
         data: {
           labels: dates,
           datasets: [
-            { label: 'US Midwest -> Shanghai Total Transport ($/MT)', data: usData, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.1)', borderWidth: 2, tension: 0.1 },
-            { label: 'Brazil Cerrado -> Shanghai Total Transport ($/MT)', data: brData, borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.1)', borderWidth: 2, tension: 0.1 },
-            { label: 'US vs Brazil Landed Cost Spread ($/MT)', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, borderDash: [3, 3], fill: true, tension: 0.1 }
+            { label: 'US Midwest -> Shanghai Total Transport ($/MT)', data: usData, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.1)', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 },
+            { label: 'Brazil Cerrado -> Shanghai Total Transport ($/MT)', data: brData, borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.1)', borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 },
+            { label: 'US vs Brazil Landed Cost Spread ($/MT)', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, borderDash: [3, 3], fill: true, pointRadius: 0, pointHoverRadius: 4, spanGaps: true, tension: 0.1 }
           ]
         },
         options: {
