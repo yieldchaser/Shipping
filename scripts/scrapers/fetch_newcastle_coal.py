@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = ROOT / "data" / "commodities"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "newcastle_coal_exports.csv"
+ALT_OUT_FILE = DATA_DIR / "newcastle_coal_monthly.csv"
 
 def fetch_coal_monthly():
     logging.info("Compiling Australian seaborne coal export monthly records...")
@@ -160,7 +161,8 @@ def fetch_coal_monthly():
         "date", "port", "export_tonnes_mt", "coal_grade", "vessels_loaded_count", "primary_destinations"
     ])
     df.to_csv(OUT_FILE, index=False)
-    logging.info("Wrote %d rows to %s", len(df), OUT_FILE)
+    df.to_csv(ALT_OUT_FILE, index=False)
+    logging.info("Wrote %d rows to %s and %s", len(df), OUT_FILE, ALT_OUT_FILE)
     return df
 
 if __name__ == "__main__":

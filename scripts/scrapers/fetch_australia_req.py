@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = ROOT / "data" / "commodities"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "australia_req_commodity_exports.csv"
+ALT_OUT_FILE = DATA_DIR / "australia_req_exports.csv"
 
 def fetch_req_quarterly():
     logging.info("Compiling Australia DISR Resources and Energy Quarterly historical time series...")
@@ -94,7 +95,8 @@ def fetch_req_quarterly():
         "date", "quarter", "commodity", "export_volume_mt", "export_value_aud_b", "primary_vessel_class"
     ])
     df.to_csv(OUT_FILE, index=False)
-    logging.info("Wrote %d rows to %s", len(df), OUT_FILE)
+    df.to_csv(ALT_OUT_FILE, index=False)
+    logging.info("Wrote %d rows to %s and %s", len(df), OUT_FILE, ALT_OUT_FILE)
     return df
 
 if __name__ == "__main__":

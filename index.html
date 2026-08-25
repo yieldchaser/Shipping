@@ -9885,7 +9885,7 @@
                 <div class="hud-val" id="simHudSharpe" style="color:var(--accent);">0.00</div>
                 <div class="hud-sub" id="simHudSharpeSub">Risk-free rate: 4.85% (Treasuries)</div>
               </div>
-              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Implied Carry &amp; Roll Yield" data-tt-formula="Σ [ w_v × (Prompt_v − Next_v) / Prompt_v ]" data-tt-desc="Lot-weighted monthly roll spread. Negative = Contango decay friction; Positive = Backwardation carry gain." style="cursor:help;">
+              <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Implied Carry &amp; Roll Yield" data-tt-formula="Σ [ w_v × (Prompt_v − Next_v) / Prompt_v ]" data-tt-desc="Notional-weighted monthly roll spread (lots × multiplier × price). Negative = Contango decay friction; Positive = Backwardation carry gain." style="cursor:help;">
                 <div class="hud-label">Implied Carry Yield</div>
                 <div class="hud-val" id="simHudCarry" style="color:var(--yellow);">-1.24% / mo</div>
                 <div class="hud-sub" id="simHudCarrySub">Monthly: -0.10% &bull; Roll carry</div>
@@ -10688,7 +10688,7 @@
                   <button class="toggle-btn" id="tankerComp3m" onclick="setTankerFwdComp('3m')" data-tooltip="Overlay historical tanker forward curve from 3 months ago" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3M ago</button>
                 </div>
                 <div id="tankerFwdShiftBadge" class="kpi-badge" style="display:none;" data-tooltip="Curve Shift: Net $/day change in prompt contract between today and historical comparison snapshot">Shift: —</div>
-                <div id="tankerFwdSlopeBadge" class="kpi-badge" data-tooltip="Term Structure Spread: M1 Prompt vs M12 Deferred contract spread. Negative = Backwardation; Positive = Contango">Term Structure: —</div>
+                <div id="tankerFwdSlopeBadge" class="kpi-badge" data-tooltip="Term Structure Spread: M1 Prompt vs M12 Deferred contract spread. Positive = Backwardation (Prompt > Deferred); Negative = Contango (Prompt < Deferred)">Term Structure: —</div>
                 <div id="tankerFwdEcoBadge" class="kpi-badge" data-tooltip="Eco Fuel-Efficiency Premium: Average $/day savings of modern Eco/Scrubber vessels over conventional standard hulls">Eco Premium: —</div>
               </div>
             </div>
@@ -11205,9 +11205,14 @@
             <div id="scrubberCalcWrap" style="margin-top:12px;padding:12px 16px;background:var(--bg);border:1px solid var(--border);border-radius:6px;font-size:12px;">
               <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:8px;">
                 <span style="font-weight:700;color:var(--text-bright);font-size:13px;">Interactive Scrubber Payback & Voyage Cost Calculator</span>
-                <div style="display:flex;gap:6px;align-items:center;">
-                  <span style="color:var(--text-muted);font-size:11px;">Vessel Class:</span>
-                  <select id="scrubberVesselSelect" onchange="updateScrubberCalculator()" style="background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:2px 8px;font-size:11px;">
+                <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+                  <div id="scrubberVesselToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                    <button class="toggle-btn active" id="scrubberBtncape" onclick="setScrubberVessel('45')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
+                    <button class="toggle-btn" id="scrubberBtnvlcc" onclick="setScrubberVessel('55')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">VLCC</button>
+                    <button class="toggle-btn" id="scrubberBtnsuez" onclick="setScrubberVessel('38')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax</button>
+                    <button class="toggle-btn" id="scrubberBtnpana" onclick="setScrubberVessel('30')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
+                  </div>
+                  <select id="scrubberVesselSelect" onchange="setScrubberVessel(this.value)" style="background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:2px 8px;font-size:11px;">
                     <option value="45" selected>Capesize (45 MT/day)</option>
                     <option value="55">VLCC (55 MT/day)</option>
                     <option value="38">Suezmax (38 MT/day)</option>
@@ -11228,7 +11233,7 @@
                 </div>
                 <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
                   <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">EU ETS Voyage Drag ($/day)</div>
-                  <div id="calcEuEtsVoyageDrag" style="font-size:15px;font-weight:700;color:#ff7b72;margin-top:2px;">-$4,870/day</div>
+                  <div id="calcEuEtsVoyageDrag" style="font-size:15px;font-weight:700;color:#ff7b72;margin-top:2px;">-$5,146/day</div>
                   <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">50% EU voyage scope @ €68/t EUA</div>
                 </div>
               </div>
@@ -11514,31 +11519,81 @@ if (intelTabsContainer) {
       master: [],
       masterByDate: {},
       loaded: false,
+      bdryHoldings: [],
+      bwetHoldings: [],
       bdryPD: [],
       bwetPD: [],
+      bdryLiquidity: [],
+      bwetLiquidity: [],
       bdryFlows: [],
       bwetFlows: [],
+      bdryHoldingsHistory: [],
+      bwetHoldingsHistory: [],
+      timeCharterRates: [],
+      time_charter_rates: [],
+      ironOreRestocking: [],
+      iron_ore_restocking: [],
+      vesselValuations: [],
+      sp_valuations: [],
+      snp_valuations: [],
+      snpValuations: [],
+      scrappagePrices: [],
+      scrappage_prices: [],
+      scrap_prices: [],
+      timeCharterFearnleys: [],
+      time_charter_fearnleys: [],
+      intermodalTC: [],
+      intermodal_tc: [],
       lpgSpot: [],
+      lpg_spot: [],
       lpgCharter: [],
+      lpg_charter: [],
       blpg: [],
       sgx: { cape: [], panamax: [], supramax: [], handysize: [] },
       tankerForwardCurves: [],
+      tanker_forward_curves: [],
+      tankerForwardCurvesHistory: [],
+      tanker_forward_curves_history: [],
+      lngCharter: [],
+      lng_charter: [],
+      tceMatrix: null,
+      tce_matrix: null,
       wciTracker: [],
+      drewry_wci: [],
+      drewryWci: [],
       usdaGrainRates: [],
+      usda_grain_freight: [],
+      usdaGrainFreight: [],
       usdaLandedCosts: [],
+      usda_landed_costs: [],
+      usdaLandedCost: [],
+      landed_cost: [],
       usdaCostSpreads: [],
       usdaVesselQueues: [],
+      usda_vessel_queues: [],
       usdaBunkers: [],
+      usda_bunkers: [],
       brazilExports: [],
+      brazil_exports: [],
       ppaIronOre: [],
+      ppa_iron_ore: [],
       minerShipments: [],
+      miner_shipments: [],
       eiaExports: [],
+      eia_exports: [],
       portCongestion: [],
+      portwatch_congestion: [],
+      portwatchCongestion: [],
       euCarbon: [],
+      eu_carbon: [],
       tonMileMatrix: [],
+      ton_mile_matrix: [],
       newcastleCoal: [],
+      newcastle_coal: [],
       reqExports: [],
+      req_exports: [],
     };
+    window.DATA = DATA;
 
     // Per-product filtered row cache (populated after load)
     const _rowCache = {};
@@ -12326,31 +12381,35 @@ if (intelTabsContainer) {
 
         const safeFetch = (file, label, defaultVal, parseFn) => {
           return fetchCSV(file)
-            .then(r => { tick(label); return parseFn ? parseFn(r) : r; })
+            .then(r => {
+              tick(label);
+              const data = Array.isArray(r) ? r : (defaultVal || []);
+              return parseFn ? parseFn(data) : data;
+            })
             .catch(e => {
               tick(label + ' (fail)');
-              console.warn('[' + label + '] Load failed:', e.message);
+              console.warn('[' + label + '] Load failed:', e && e.message ? e.message : e);
               if (parseFn) {
-                try { parseFn(defaultVal); } catch (err) {}
+                try { parseFn(defaultVal || []); } catch (err) {}
               }
-              return defaultVal;
+              return defaultVal || [];
             });
         };
 
-        const bdryPromise = safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r; });
-        const bwetPromise = safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r; });
-        const bdryPdPromise = safeFetch('data/etf/BDRY_Daily.csv', 'BDRY P/D', [], r => { DATA.bdryPD = parsePDCsv(r); });
-        const bwetPdPromise = safeFetch('data/etf/BWET_Daily.csv', 'BWET P/D', [], r => { DATA.bwetPD = parsePDCsv(r); });
-        const bdryLiqPromise = safeFetch('data/etf/bdry_liquidity.csv', 'BDRY Liquidity', [], r => { DATA.bdryLiquidity = r; });
-        const bwetLiqPromise = safeFetch('data/etf/bwet_liquidity.csv', 'BWET Liquidity', [], r => { DATA.bwetLiquidity = r; });
-        const bdryFlowPromise = safeFetch('data/etf/BDRY_flows.csv', 'BDRY Flows', [], r => { DATA.bdryFlows = parseFlowCsv(r); });
-        const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r); });
-        const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r; });
-        const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r; });
+        const bdryPromise = safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r || []; });
+        const bwetPromise = safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r || []; });
+        const bdryPdPromise = safeFetch('data/etf/BDRY_Daily.csv', 'BDRY P/D', [], r => { DATA.bdryPD = parsePDCsv(r || []); });
+        const bwetPdPromise = safeFetch('data/etf/BWET_Daily.csv', 'BWET P/D', [], r => { DATA.bwetPD = parsePDCsv(r || []); });
+        const bdryLiqPromise = safeFetch('data/etf/bdry_liquidity.csv', 'BDRY Liquidity', [], r => { DATA.bdryLiquidity = r || []; });
+        const bwetLiqPromise = safeFetch('data/etf/bwet_liquidity.csv', 'BWET Liquidity', [], r => { DATA.bwetLiquidity = r || []; });
+        const bdryFlowPromise = safeFetch('data/etf/BDRY_flows.csv', 'BDRY Flows', [], r => { DATA.bdryFlows = parseFlowCsv(r || []); });
+        const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r || []); });
+        const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r || []; });
+        const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r || []; });
 
         // Physical Signals Derived CSVs
         const tcPromise = safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
-          DATA.timeCharterRates = r.map(row => {
+          DATA.timeCharterRates = DATA.time_charter_rates = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12364,7 +12423,7 @@ if (intelTabsContainer) {
         });
 
         const ioPromise = safeFetch('data/derived/iron_ore_restocking.csv', 'Iron Ore Restocking', [], r => {
-          DATA.ironOreRestocking = r.map(row => {
+          DATA.ironOreRestocking = DATA.iron_ore_restocking = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12377,7 +12436,7 @@ if (intelTabsContainer) {
         });
 
         const valPromise = safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
-          DATA.vesselValuations = r.map(row => {
+          DATA.vesselValuations = DATA.sp_valuations = DATA.snp_valuations = DATA.snpValuations = (r || []).map(row => {
             const d = parseDateISO(row.date);
             const val = parseFloat(row.valuation_usd_m);
             return {
@@ -12392,7 +12451,7 @@ if (intelTabsContainer) {
         });
 
         const scrapPromise = safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
-          DATA.scrappagePrices = r.map(row => {
+          DATA.scrappagePrices = DATA.scrappage_prices = DATA.scrap_prices = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12405,7 +12464,7 @@ if (intelTabsContainer) {
         });
 
         const tcFearnPromise = safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Fearnleys TC Rates', [], r => {
-          DATA.timeCharterFearnleys = r.map(row => {
+          DATA.timeCharterFearnleys = DATA.time_charter_fearnleys = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12418,7 +12477,7 @@ if (intelTabsContainer) {
         });
 
         const intermodalPromise = safeFetch('data/derived/intermodal_tc_rates.csv', 'Intermodal TC Rates', [], r => {
-          DATA.intermodalTC = r.map(row => {
+          DATA.intermodalTC = DATA.intermodal_tc = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12432,7 +12491,7 @@ if (intelTabsContainer) {
         });
 
         const lpgSpotPromise = safeFetch('data/derived/lpg_spot_rates.csv', 'LPG Spot Rates', [], r => {
-          DATA.lpgSpot = r.map(row => {
+          DATA.lpgSpot = DATA.lpg_spot = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12445,7 +12504,7 @@ if (intelTabsContainer) {
         });
 
         const lpgCharterPromise = safeFetch('data/derived/lpg_charter_rates.csv', 'LPG Charter Rates', [], r => {
-          DATA.lpgCharter = r.map(row => {
+          DATA.lpgCharter = DATA.lpg_charter = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12458,7 +12517,7 @@ if (intelTabsContainer) {
         });
 
         const tankerFwdPromise = safeFetch('data/derived/tanker_forward_curves.csv', 'Tanker Forward Curves', [], r => {
-          DATA.tankerForwardCurves = r.map(row => {
+          DATA.tankerForwardCurves = DATA.tanker_forward_curves = (r || []).map(row => {
             return {
               snapshotDate: row.snapshot_date,
               forwardMonth: row.forward_month,
@@ -12480,7 +12539,7 @@ if (intelTabsContainer) {
         });
 
         const tankerFwdHistPromise = safeFetch('data/derived/tanker_forward_curves_history.csv', 'Tanker Forward Curves History', [], r => {
-          DATA.tankerForwardCurvesHistory = r.map(row => {
+          DATA.tankerForwardCurvesHistory = DATA.tanker_forward_curves_history = (r || []).map(row => {
             return {
               snapshotDate: row.snapshot_date,
               forwardMonth: row.forward_month,
@@ -12502,7 +12561,7 @@ if (intelTabsContainer) {
         });
 
         const lngCharterPromise = safeFetch('data/derived/lng_charter_rates.csv', 'LNG Charter Rates', [], r => {
-          DATA.lngCharter = r.map(row => {
+          DATA.lngCharter = DATA.lng_charter = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
               if (k !== 'date') {
@@ -12517,16 +12576,18 @@ if (intelTabsContainer) {
         const tceMatrixPromise = fetch('data/derived/alibra_tce_matrix.json')
           .then(resp => resp.ok ? resp.json() : null)
           .then(json => {
-            if (json) DATA.tceMatrix = json;
+            if (json) {
+              DATA.tceMatrix = DATA.tce_matrix = json;
+            }
             tick('Alibra TCE Matrix');
           })
           .catch(e => {
             tick('Alibra TCE Matrix (fail)');
-            console.warn('[Alibra TCE Matrix] Load failed:', e.message);
+            console.warn('[Alibra TCE Matrix] Load failed:', e && e.message ? e.message : e);
           });
 
         const blpgPromise = safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
-          DATA.blpg = r.map(row => {
+          DATA.blpg = (r || []).map(row => {
             const rawDate = (row.Date || row.date || '').trim();
             let d = null;
             if (rawDate) {
@@ -12554,12 +12615,12 @@ if (intelTabsContainer) {
         };
         const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
           return safeFetch(file, 'SGX ' + key.charAt(0).toUpperCase() + key.slice(1), [], r => {
-            DATA.sgx[key] = r;
+            DATA.sgx[key] = r || [];
           });
         });
 
         const wciPromise = safeFetch('data/indices/drewry_wci_historical.csv', 'Drewry WCI', [], r => {
-          DATA.wciTracker = r.map(row => {
+          DATA.wciTracker = DATA.drewry_wci = DATA.drewryWci = (r || []).map(row => {
             const rawDate = (row.date || row.Date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12576,7 +12637,7 @@ if (intelTabsContainer) {
         });
 
         const usdaGrainRatesPromise = safeFetch('data/derived/usda_grain_vessel_rates_japan.csv', 'USDA Grain Rates', [], r => {
-          DATA.usdaGrainRates = r.map(row => {
+          DATA.usdaGrainRates = DATA.usda_grain_freight = DATA.usdaGrainFreight = (r || []).map(row => {
             const rawDate = (row.Date || row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12590,7 +12651,7 @@ if (intelTabsContainer) {
         });
 
         const usdaLandedCostsPromise = safeFetch('data/commodities/usda_us_vs_brazil_landed_costs.csv', 'USDA Landed Costs', [], r => {
-          DATA.usdaLandedCosts = r.map(row => {
+          DATA.usdaLandedCosts = DATA.usda_landed_costs = DATA.usdaLandedCost = DATA.landed_cost = (r || []).map(row => {
             const rawDate = (row.Date || row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12610,7 +12671,7 @@ if (intelTabsContainer) {
         });
 
         const usdaVesselQueuesPromise = safeFetch('data/commodities/usda_grain_vessel_loading_queues.csv', 'USDA Vessel Queues', [], r => {
-          DATA.usdaVesselQueues = r.map(row => {
+          DATA.usdaVesselQueues = DATA.usda_vessel_queues = (r || []).map(row => {
             const rawDate = (row.Date || row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12625,7 +12686,7 @@ if (intelTabsContainer) {
         });
 
         const usdaBunkersPromise = safeFetch('data/derived/usda_bunker_fuel_daily.csv', 'USDA Bunker Prices', [], r => {
-          DATA.usdaBunkers = r.map(row => {
+          DATA.usdaBunkers = DATA.usda_bunkers = (r || []).map(row => {
             const y = row.Year, m = row.Month, day = row.Day;
             const dateStr = `${y}-${String(m).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
             const d = parseDateISO(dateStr);
@@ -12641,7 +12702,7 @@ if (intelTabsContainer) {
         });
 
         const brazilExportsPromise = safeFetch('data/commodities/brazil_comexstat_exports.csv', 'Brazil ComexStat', [], r => {
-          DATA.brazilExports = r.map(row => {
+          DATA.brazilExports = DATA.brazil_exports = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12658,7 +12719,7 @@ if (intelTabsContainer) {
         });
 
         const ppaIronOrePromise = safeFetch('data/commodities/australia_ppa_iron_ore.csv', 'Pilbara Ports (PPA)', [], r => {
-          DATA.ppaIronOre = r.map(row => {
+          DATA.ppaIronOre = DATA.ppa_iron_ore = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12674,7 +12735,7 @@ if (intelTabsContainer) {
         });
 
         const minerShipmentsPromise = safeFetch('data/commodities/major_miners_quarterly_shipments.csv', 'Major Miners Guidance', [], r => {
-          DATA.minerShipments = r.map(row => {
+          DATA.minerShipments = DATA.miner_shipments = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12692,7 +12753,7 @@ if (intelTabsContainer) {
         });
 
         const eiaExportsPromise = safeFetch('data/commodities/us_eia_weekly_crude_exports.csv', 'US EIA Petroleum Exports', [], r => {
-          DATA.eiaExports = r.map(row => {
+          DATA.eiaExports = DATA.eia_exports = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12708,7 +12769,7 @@ if (intelTabsContainer) {
         });
 
         const portCongestionPromise = safeFetch('data/congestion/portwatch_port_congestion.csv', 'IMF PortWatch Congestion', [], r => {
-          DATA.portCongestion = r.map(row => {
+          DATA.portCongestion = DATA.portwatch_congestion = DATA.portwatchCongestion = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12726,7 +12787,7 @@ if (intelTabsContainer) {
         });
 
         const euCarbonPromise = safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon & Bunker Spreads', [], r => {
-          DATA.euCarbon = r.map(row => {
+          DATA.euCarbon = DATA.eu_carbon = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12746,7 +12807,7 @@ if (intelTabsContainer) {
         });
 
         const tonMilePromise = safeFetch('data/derived/ton_mile_utilization_matrix.csv', 'Ton-Mile Utilization Matrix', [], r => {
-          DATA.tonMileMatrix = r.map(row => {
+          DATA.tonMileMatrix = DATA.ton_mile_matrix = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12767,7 +12828,7 @@ if (intelTabsContainer) {
         });
 
         const newcastleCoalPromise = safeFetch('data/commodities/newcastle_coal_exports.csv', 'Newcastle Coal Exports', [], r => {
-          DATA.newcastleCoal = r.map(row => {
+          DATA.newcastleCoal = DATA.newcastle_coal = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12783,7 +12844,7 @@ if (intelTabsContainer) {
         });
 
         const reqExportsPromise = safeFetch('data/commodities/australia_req_commodity_exports.csv', 'Australia DISR REQ', [], r => {
-          DATA.reqExports = r.map(row => {
+          DATA.reqExports = DATA.req_exports = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
             return {
@@ -12889,10 +12950,11 @@ if (intelTabsContainer) {
         // Compute BDRY Spot: 50% Cape + 40% Panamax + 10% Supramax
         if (row.cape != null && row.panama != null && row.suprama != null) {
           row.bdry_spot = BDRY_WEIGHTS.cape * row.cape + BDRY_WEIGHTS.panama * row.panama + BDRY_WEIGHTS.suprama * row.suprama;
-          // Daily change: derived from component changes weighted the same way
+          // Daily change: derived from component changes weighted by price level to avoid skew
           const cc = row.cape_change, pc = row.panama_change, sc = row.suprama_change;
-          row.bdry_spot_change = (cc != null && pc != null && sc != null)
-            ? BDRY_WEIGHTS.cape * cc + BDRY_WEIGHTS.panama * pc + BDRY_WEIGHTS.suprama * sc
+          const totalVal = row.bdry_spot;
+          row.bdry_spot_change = (cc != null && pc != null && sc != null && totalVal > 0)
+            ? (BDRY_WEIGHTS.cape * row.cape * cc + BDRY_WEIGHTS.panama * row.panama * pc + BDRY_WEIGHTS.suprama * row.suprama * sc) / totalVal
             : null;
         } else {
           row.bdry_spot = null;
@@ -16920,6 +16982,7 @@ if (intelTabsContainer) {
     let indicesRendered = false;
 
     function switchTab(tabId) {
+      window.switchTab = switchTab;
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
       document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === `tab-${tabId}`));
       currentTab = tabId;
@@ -16956,6 +17019,24 @@ if (intelTabsContainer) {
       if (tabId === 'monthly-dash') renderMonthlyDash(currentProduct);
       if (tabId === 'signals') renderSignalsTab(currentProduct);
       if (tabId === 'intelligence') renderIntelligenceTab();
+
+      // Trigger requestAnimationFrame resize and redraw on all charts in active tab to prevent 0px canvas squishing
+      requestAnimationFrame(() => {
+        const activePanel = document.getElementById(`tab-${tabId}`);
+        if (activePanel) {
+          const canvases = activePanel.querySelectorAll('canvas');
+          canvases.forEach(canvas => {
+            if (typeof Chart !== 'undefined' && Chart.getChart) {
+              const c = Chart.getChart(canvas);
+              if (c) {
+                try { c.resize(); } catch (err) {}
+              }
+            } else if (canvas.id && chartRegistry[canvas.id]) {
+              try { chartRegistry[canvas.id].resize(); } catch (err) {}
+            }
+          });
+        }
+      });
     }
 
     document.querySelectorAll('.tab-btn').forEach(btn => {
@@ -16988,6 +17069,17 @@ if (intelTabsContainer) {
     async function initApp() {
       try {
         await loadAllData();
+
+        // Wire Ton-Mile simulator sliders for real-time responsiveness
+        ['simBauxiteSlider', 'simBrazilOreSlider', 'simOreSlider', 'simCongestionSlider'].forEach(id => {
+          const el = document.getElementById(id);
+          if (el) {
+            el.addEventListener('input', () => {
+              if (typeof updateTonMileSimulation === 'function') updateTonMileSimulation();
+            });
+          }
+        });
+
         switchTab(currentTab || 'dashboard');
       } catch (err) {
         const overlay = document.getElementById('loadingOverlay');
@@ -18167,6 +18259,15 @@ if (intelTabsContainer) {
           function () { renderMarketCycleQuadrantChart(productKey); },
           function () { renderLandedCostChart(); },
           function () { renderScrappageChart(); },
+        ];
+      } else if (sectionId === 'signals-sec-upstream') {
+        fns = [
+          function () { renderBrazilExportsChart(); },
+          function () { renderPpaThroughputChart(); },
+          function () { renderEiaExportsChart(); },
+          function () { renderPortCongestionChart(); },
+          function () { renderCarbonEtsChart(); },
+          function () { renderTonMileSimChart(); },
         ];
       }
 
@@ -21011,7 +21112,7 @@ if (intelTabsContainer) {
       const sectorClassMap = {
         cape: { vc: ['Capesize'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN'], ldt: 24000, label: 'Capesize 180k', tcCol: 'capesize_1y_avg', scrapCol: 'dry_india', color: '#58a6ff' },
         panama: { vc: ['Kamsarmax', 'Panamax'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN'], ldt: 12000, label: 'Panamax / Kamsarmax', tcCol: 'panamax_1y_avg', scrapCol: 'dry_india', color: '#79c0ff' },
-        suprama: { vc: ['Ultramax', 'Supramax'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN'], ldt: 9500, label: 'Supramax / Ultramax', tcCol: 'supramax_1y_avg', scrapCol: 'dry_india', color: '#3fb950' },
+        suprama: { vc: ['Ultramax', 'Supramax'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN'], ldt: 8500, label: 'Supramax / Ultramax', tcCol: 'supramax_1y_avg', scrapCol: 'dry_india', color: '#3fb950' },
         handysize: { vc: ['Handysize'], tenor: ['DRY-10', 'DRY-10-JP', 'DRY-10-CN', 'DRY-5'], ldt: 7500, label: 'Handysize 38k', tcCol: 'handysize_1y_avg', scrapCol: 'dry_india', color: '#bc8cff' },
         vlcc: { vc: ['VLCC'], tenor: ['WET-10'], ldt: 40000, label: 'VLCC 300k', tcCol: 'vlcc_1y', scrapCol: 'tanker_india', color: '#ff7b72' },
         suezmax: { vc: ['Suezmax'], tenor: ['WET-10'], ldt: 24000, label: 'Suezmax 160k', tcCol: 'suezmax_1y', scrapCol: 'tanker_india', color: '#f0883e' },
@@ -21532,19 +21633,22 @@ if (intelTabsContainer) {
       ['composite', 'europe', 'us', 'all'].forEach(function (x) {
         const el = document.getElementById('wciBtn' + x.charAt(0).toUpperCase() + x.slice(1));
         if (el) {
-          el.classList.toggle('active', x === r);
-          el.style.background = (x === r) ? 'var(--accent)' : 'var(--card)';
-          el.style.color = (x === r) ? '#fff' : 'var(--text-muted)';
+          const isActive = (x === r);
+          el.classList.toggle('active', isActive);
+          el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
+          el.style.color = isActive ? '#fff' : 'var(--text-muted)';
         }
       });
       renderWCIChart();
     }
+    window.setWciRoute = setWciRoute;
 
     function renderWCIChart() {
       const canvas = document.getElementById('wciChart');
       if (!canvas) return;
-      const rows = DATA.wciTracker || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.wciTracker || DATA.drewry_wci || DATA.drewryWci || [];
+      if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
       const datasets = [];
@@ -21623,6 +21727,8 @@ if (intelTabsContainer) {
         }
       });
     }
+    window.renderWCIChart = renderWCIChart;
+    window.renderDrewryChart = renderWCIChart;
 
     // =========================================================================
     // USDA BULK GRAIN OCEAN FREIGHT RATES & SPREADS
@@ -21630,8 +21736,9 @@ if (intelTabsContainer) {
     function renderGrainFreightChart() {
       const canvas = document.getElementById('grainFreightChart');
       if (!canvas) return;
-      const rows = DATA.usdaGrainRates || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.usdaGrainRates || DATA.usda_grain_freight || DATA.usdaGrainFreight || [];
+      if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
       const gulfData = rows.map(r => r.gulfToJapan);
@@ -21641,7 +21748,7 @@ if (intelTabsContainer) {
       const latest = rows[rows.length - 1];
       const badge = document.getElementById('grainFreightBadge');
       if (badge && latest) {
-        badge.innerHTML = `Gulf: <strong>$${latest.gulfToJapan || 0}/MT</strong> | PNW: <strong>$${latest.pnwToJapan || 0}/MT</strong> | Spread: <strong>+$${latest.spread || 0}/MT</strong>`;
+        badge.innerHTML = `Gulf: <strong>$${latest.gulfToJapan != null ? Number(latest.gulfToJapan).toFixed(2) : '0'}/MT</strong> | PNW: <strong>$${latest.pnwToJapan != null ? Number(latest.pnwToJapan).toFixed(2) : '0'}/MT</strong> | Spread: <strong>+$${latest.spread != null ? Number(latest.spread).toFixed(2) : '0'}/MT</strong>`;
       }
 
       destroyChart('grainFreightChart');
@@ -21652,7 +21759,7 @@ if (intelTabsContainer) {
           datasets: [
             { label: 'US Gulf -> Japan ($/MT)', data: gulfData, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
             { label: 'PNW -> Japan ($/MT)', data: pnwData, borderColor: '#3fb950', borderWidth: 2, tension: 0.1 },
-            { label: 'Gulf - PNW Freight Spread', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, fill: true, tension: 0.1 }
+            { label: 'Gulf - PNW Freight Spread ($/MT)', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, fill: true, tension: 0.1 }
           ]
         },
         options: {
@@ -21661,15 +21768,17 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
-            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${c.parsed.y}/MT` } }
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y != null ? Number(c.parsed.y).toFixed(2) : '—')}/MT` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
-            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v } }
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v + '/MT' }, title: { display: true, text: 'Ocean Freight Rate ($/MT)', color: '#8b949e', font: { size: 10 } } }
           }
         }
       });
     }
+    window.renderGrainFreightChart = renderGrainFreightChart;
+    window.renderUsdaGrainFreightChart = renderGrainFreightChart;
 
     // =========================================================================
     // USDA GRAIN VESSEL LOADING QUEUES (CONGESTION)
@@ -21681,21 +21790,24 @@ if (intelTabsContainer) {
       ['Gulf', 'PNW', 'Both'].forEach(function (x) {
         const el = document.getElementById('queueBtn' + x);
         if (el) {
-          el.classList.toggle('active', x === p);
-          el.style.background = (x === p) ? 'var(--accent)' : 'var(--card)';
-          el.style.color = (x === p) ? '#fff' : 'var(--text-muted)';
+          const isActive = (x.toLowerCase() === p.toLowerCase());
+          el.classList.toggle('active', isActive);
+          el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
+          el.style.color = isActive ? '#fff' : 'var(--text-muted)';
         }
       });
       renderVesselQueueChart();
     }
+    window.setQueuePort = setQueuePort;
 
     function renderVesselQueueChart() {
       const canvas = document.getElementById('vesselQueueChart');
       if (!canvas) return;
-      const rows = DATA.usdaVesselQueues || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.usdaVesselQueues || DATA.usda_vessel_queues || [];
+      if (!rows || !rows.length) return;
 
-      const filtered = _queuePort === 'Both' ? rows : rows.filter(r => r.port.toLowerCase() === _queuePort.toLowerCase());
+      const filtered = (_queuePort === 'Both' || _queuePort === 'all') ? rows : rows.filter(r => (r.port || '').toLowerCase() === _queuePort.toLowerCase());
       const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-52); // Last 52 weeks
 
       const inPortByDate = {}, loadedByDate = {}, dueByDate = {};
@@ -21744,6 +21856,7 @@ if (intelTabsContainer) {
         }
       });
     }
+    window.renderVesselQueueChart = renderVesselQueueChart;
 
     // =========================================================================
     // USDA LANDED SOYBEAN TRANSPORTATION COSTS: US VS BRAZIL
@@ -21751,21 +21864,23 @@ if (intelTabsContainer) {
     function renderLandedCostChart() {
       const canvas = document.getElementById('landedCostChart');
       if (!canvas) return;
-      const rows = DATA.usdaLandedCosts || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.usdaLandedCosts || DATA.usda_landed_costs || DATA.usdaLandedCost || DATA.landed_cost || [];
+      if (!rows || !rows.length) return;
 
       const chinaRows = rows.filter(r => (r.destination || '').toLowerCase().includes('shanghai') || (r.destination || '').toLowerCase().includes('china'));
-      const usRows = chinaRows.filter(r => (r.origin || '').toLowerCase().includes('davenport') || (r.origin || '').toLowerCase().includes('illinois') || (r.origin || '').toLowerCase().includes('minneapolis'));
+      const usRows = chinaRows.filter(r => (r.origin || '').toLowerCase().includes('davenport') || (r.origin || '').toLowerCase().includes('illinois') || (r.origin || '').toLowerCase().includes('minneapolis') || (r.origin || '').toLowerCase().includes('us'));
       const brRows = chinaRows.filter(r => (r.origin || '').toLowerCase().includes('mato grosso') || (r.origin || '').toLowerCase().includes('goias') || (r.origin || '').toLowerCase().includes('brazil'));
 
       const dates = [...new Set(chinaRows.map(r => r.dateStr))].sort().slice(-40);
 
       const usMap = {}, brMap = {};
-      usRows.forEach(r => { usMap[r.dateStr] = r.totalCost || r.landedCost; });
-      brRows.forEach(r => { brMap[r.dateStr] = r.totalCost || r.landedCost; });
+      usRows.forEach(r => { usMap[r.dateStr] = r.totalCost != null ? r.totalCost : r.landedCost; });
+      brRows.forEach(r => { brMap[r.dateStr] = r.totalCost != null ? r.totalCost : r.landedCost; });
 
-      const usData = dates.map(d => usMap[d] || null);
-      const brData = dates.map(d => brMap[d] || null);
+      const usData = dates.map(d => usMap[d] != null ? usMap[d] : null);
+      const brData = dates.map(d => brMap[d] != null ? brMap[d] : null);
+      const spreadData = dates.map(d => (usMap[d] != null && brMap[d] != null) ? (usMap[d] - brMap[d]) : null);
 
       const latestDate = dates[dates.length - 1];
       const usLatest = usMap[latestDate] || 0;
@@ -21785,7 +21900,8 @@ if (intelTabsContainer) {
           labels: dates,
           datasets: [
             { label: 'US Midwest -> Shanghai Total Transport ($/MT)', data: usData, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.1)', borderWidth: 2, tension: 0.1 },
-            { label: 'Brazil Cerrado -> Shanghai Total Transport ($/MT)', data: brData, borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.1)', borderWidth: 2, tension: 0.1 }
+            { label: 'Brazil Cerrado -> Shanghai Total Transport ($/MT)', data: brData, borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.1)', borderWidth: 2, tension: 0.1 },
+            { label: 'US vs Brazil Landed Cost Spread ($/MT)', data: spreadData, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, borderDash: [3, 3], fill: true, tension: 0.1 }
           ]
         },
         options: {
@@ -21794,15 +21910,16 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
-            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y || 0).toFixed(1)}/MT` } }
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y != null ? Number(c.parsed.y).toFixed(1) : '—')}/MT` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 10 } },
-            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v } }
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => '$' + v + '/MT' }, title: { display: true, text: 'Landed Transport Cost ($/MT)', color: '#8b949e', font: { size: 10 } } }
           }
         }
       });
     }
+    window.renderLandedCostChart = renderLandedCostChart;
 
     // =========================================================================
     // SHIP RECYCLING & DEMOLITION MATRIX ($/LDT)
@@ -21814,19 +21931,22 @@ if (intelTabsContainer) {
       ['dry', 'tanker', 'all'].forEach(function (x) {
         const el = document.getElementById('scrapBtn' + x.charAt(0).toUpperCase() + x.slice(1));
         if (el) {
-          el.classList.toggle('active', x === t);
-          el.style.background = (x === t) ? 'var(--accent)' : 'var(--card)';
-          el.style.color = (x === t) ? '#fff' : 'var(--text-muted)';
+          const isActive = (x === t);
+          el.classList.toggle('active', isActive);
+          el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
+          el.style.color = isActive ? '#fff' : 'var(--text-muted)';
         }
       });
       renderScrappageChart();
     }
+    window.setScrapType = setScrapType;
 
     function renderScrappageChart() {
       const canvas = document.getElementById('scrappageChart');
       if (!canvas) return;
-      const rows = DATA.scrappagePrices || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.scrappagePrices || DATA.scrappage_prices || DATA.scrap_prices || [];
+      if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr || fmtDate(r.date));
       const datasets = [];
@@ -21868,6 +21988,7 @@ if (intelTabsContainer) {
         }
       });
     }
+    window.renderScrappageChart = renderScrappageChart;
 
     // =========================================================================
     // 1. BRAZILIAN BULK SEABORNE EXPORTS (MDIC COMEXSTAT)
@@ -21880,7 +22001,7 @@ if (intelTabsContainer) {
         const el = document.getElementById('brazilBtn' + x);
         const map = { 'Ore': 'Iron Ore', 'Crude': 'Crude Oil', 'Soy': 'Soybeans', 'Sugar': 'Raw Sugar', 'All': 'All' };
         if (el) {
-          const isActive = map[x] === c;
+          const isActive = (map[x] === c || x === c);
           el.classList.toggle('active', isActive);
           el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
           el.style.color = isActive ? '#fff' : 'var(--text-muted)';
@@ -21888,12 +22009,14 @@ if (intelTabsContainer) {
       });
       renderBrazilExportsChart();
     }
+    window.setBrazilCommodity = setBrazilCommodity;
 
     function renderBrazilExportsChart() {
       const canvas = document.getElementById('brazilExportsChart');
       if (!canvas) return;
-      const rows = DATA.brazilExports || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.brazilExports || DATA.brazil_exports || [];
+      if (!rows || !rows.length) return;
 
       const dates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-36);
       const datasets = [];
@@ -21947,6 +22070,7 @@ if (intelTabsContainer) {
         }
       });
     }
+    window.renderBrazilExportsChart = renderBrazilExportsChart;
 
     // =========================================================================
     // 2. PILBARA PORTS AUTHORITY & MAJOR MINER GUIDANCE
@@ -21959,7 +22083,7 @@ if (intelTabsContainer) {
         const el = document.getElementById('ppaBtn' + x);
         const map = { 'Hedland': 'Port Hedland', 'Dampier': 'Port of Dampier', 'Combined': 'Combined', 'Miners': 'Miners' };
         if (el) {
-          const isActive = map[x] === p;
+          const isActive = (map[x] === p || x === p);
           el.classList.toggle('active', isActive);
           el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
           el.style.color = isActive ? '#fff' : 'var(--text-muted)';
@@ -21967,14 +22091,16 @@ if (intelTabsContainer) {
       });
       renderPpaThroughputChart();
     }
+    window.setPpaPort = setPpaPort;
 
     function renderPpaThroughputChart() {
       const canvas = document.getElementById('ppaThroughputChart');
       if (!canvas) return;
+      if (!window.DATA) return;
 
       if (_ppaPort === 'Miners') {
-        const rows = DATA.minerShipments || [];
-        if (!rows.length) return;
+        const rows = DATA.minerShipments || DATA.miner_shipments || [];
+        if (!rows || !rows.length) return;
         const quarters = [...new Set(rows.map(r => r.quarter))].sort();
         const valeMap = {}, rioMap = {}, bhpMap = {}, fmgMap = {};
         rows.forEach(r => {
@@ -22012,14 +22138,14 @@ if (intelTabsContainer) {
         return;
       }
 
-      const rows = DATA.ppaIronOre || [];
-      if (!rows.length) return;
+      const rows = DATA.ppaIronOre || DATA.ppa_iron_ore || [];
+      if (!rows || !rows.length) return;
       const dates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-32);
 
       const hedlandMap = {}, dampierMap = {};
       rows.forEach(r => {
-        if (r.port.includes('Hedland')) hedlandMap[r.dateStr] = r.ironOreExportsMt;
-        if (r.port.includes('Dampier')) dampierMap[r.dateStr] = r.ironOreExportsMt;
+        if ((r.port || '').includes('Hedland')) hedlandMap[r.dateStr] = r.ironOreExportsMt;
+        if ((r.port || '').includes('Dampier')) dampierMap[r.dateStr] = r.ironOreExportsMt;
       });
 
       const datasets = [];
@@ -22060,6 +22186,7 @@ if (intelTabsContainer) {
         }
       });
     }
+    window.renderPpaThroughputChart = renderPpaThroughputChart;
 
     // =========================================================================
     // 3. US PADD 3 SEABORNE PETROLEUM EXPORTS (EIA WEEKLY)
@@ -22067,8 +22194,9 @@ if (intelTabsContainer) {
     function renderEiaExportsChart() {
       const canvas = document.getElementById('eiaExportsChart');
       if (!canvas) return;
-      const rows = DATA.eiaExports || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.eiaExports || DATA.eia_exports || [];
+      if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
       const crude = rows.map(r => r.usTotalCrudeKbpd);
@@ -22108,6 +22236,7 @@ if (intelTabsContainer) {
         }
       });
     }
+    window.renderEiaExportsChart = renderEiaExportsChart;
 
     // =========================================================================
     // 4. GLOBAL PORT CONGESTION & ANCHORAGE QUEUES (IMF PORTWATCH)
@@ -22120,7 +22249,7 @@ if (intelTabsContainer) {
         const el = document.getElementById('congBtn' + x);
         const map = { 'Qingdao': 'CNQDG', 'Ningbo': 'CNNGB', 'Caofeidian': 'CNCFI', 'Hedland': 'AUPHE', 'Singapore': 'SGSIN', 'Rotterdam': 'NLRTM', 'Houston': 'USHOU', 'All': 'ALL' };
         if (el) {
-          const isActive = map[x] === p;
+          const isActive = (map[x] === p || x.toUpperCase() === p.toUpperCase() || (map[x] && map[x].toLowerCase() === p.toLowerCase()));
           el.classList.toggle('active', isActive);
           el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
           el.style.color = isActive ? '#fff' : 'var(--text-muted)';
@@ -22128,40 +22257,64 @@ if (intelTabsContainer) {
       });
       renderPortCongestionChart();
     }
+    window.setCongestionPort = setCongestionPort;
 
     function renderPortCongestionChart() {
-      const canvas = document.getElementById('portCongestionChart');
+      const canvas = document.getElementById('portCongestionChart') || document.getElementById('portwatchCongestionChart');
       if (!canvas) return;
-      const rows = DATA.portCongestion || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.portCongestion || DATA.portwatch_congestion || DATA.portwatchCongestion || [];
+      if (!rows || !rows.length) return;
 
-      const filtered = _congestionPort === 'ALL' ? rows : rows.filter(r => r.portCode === _congestionPort);
+      const isAll = (_congestionPort === 'ALL' || _congestionPort === 'All');
+      const filtered = isAll ? rows : rows.filter(r => (r.portCode || r.port_code || '').toUpperCase() === _congestionPort.toUpperCase() || (r.portName || r.port_name || '').toLowerCase().includes(_congestionPort.toLowerCase()));
       const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-60);
 
       const waitMap = {}, callMap = {}, anchorMap = {};
       filtered.forEach(r => {
-        waitMap[r.dateStr] = r.waitingDays7dma || r.avgWaitingDays;
-        callMap[r.dateStr] = r.dailyPortCalls;
-        anchorMap[r.dateStr] = r.vesselsAnchored;
+        const d = r.dateStr;
+        const w = r.waitingDays7dma != null ? r.waitingDays7dma : (r.waiting_days_7dma != null ? r.waiting_days_7dma : (r.avgWaitingDays || r.avg_waiting_days || 0));
+        const c = r.dailyPortCalls != null ? r.dailyPortCalls : (r.daily_port_calls || 0);
+        const a = r.vesselsAnchored != null ? r.vesselsAnchored : (r.vessels_at_anchorage || 0);
+
+        if (isAll) {
+          if (!waitMap[d]) waitMap[d] = [];
+          waitMap[d].push(w);
+          callMap[d] = (callMap[d] || 0) + c;
+          anchorMap[d] = (anchorMap[d] || 0) + a;
+        } else {
+          waitMap[d] = w;
+          callMap[d] = c;
+          anchorMap[d] = a;
+        }
       });
 
+      if (isAll) {
+        dates.forEach(d => {
+          const arr = waitMap[d] || [];
+          waitMap[d] = arr.length ? (arr.reduce((sum, v) => sum + v, 0) / arr.length) : 0;
+        });
+      }
+
       const latestDate = dates[dates.length - 1];
-      const badge = document.getElementById('congestionBadge');
+      const badge = document.getElementById('congestionBadge') || document.getElementById('portwatchCongestionBadge');
       if (badge && latestDate) {
-        const w = waitMap[latestDate] || 0;
+        const w = typeof waitMap[latestDate] === 'number' ? waitMap[latestDate] : 0;
+        const a = anchorMap[latestDate] || 0;
         const alertColor = w >= 3.0 ? '#ff7b72' : '#3fb950';
-        badge.innerHTML = `Avg Waiting Time: <strong>${w.toFixed(2)} Days</strong> | <strong>${anchorMap[latestDate] || 0} Ships Anchored</strong>`;
+        badge.innerHTML = `Avg Waiting Time: <strong>${w.toFixed(2)} Days (7DMA)</strong> | <strong>${a} Ships Anchored</strong>`;
         badge.style.color = alertColor;
       }
 
       destroyChart('portCongestionChart');
+      destroyChart('portwatchCongestionChart');
       updateOrCreateChart('portCongestionChart', canvas, {
         type: 'line',
         data: {
           labels: dates,
           datasets: [
-            { label: '7-Day MA Waiting Days', data: dates.map(d => waitMap[d] || null), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.15)', borderWidth: 2, fill: true, tension: 0.2 },
-            { label: 'Vessels at Anchorage', data: dates.map(d => anchorMap[d] || null), borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1, yAxisID: 'y1' }
+            { label: '7-Day MA Waiting Days', data: dates.map(d => waitMap[d] != null ? waitMap[d] : null), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.15)', borderWidth: 2, fill: true, tension: 0.2 },
+            { label: 'Vessels at Anchorage', data: dates.map(d => anchorMap[d] != null ? anchorMap[d] : null), borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1, yAxisID: 'y1' }
           ]
         },
         options: {
@@ -22180,15 +22333,36 @@ if (intelTabsContainer) {
         }
       });
     }
+    window.renderPortCongestionChart = renderPortCongestionChart;
+    window.renderPortwatchCongestionChart = renderPortCongestionChart;
 
     // =========================================================================
     // 5. EU ETS MARITIME CARBON & SCRUBBER HI-5 ECONOMICS
     // =========================================================================
+    function setScrubberVessel(v) {
+      window.setScrubberVessel = setScrubberVessel;
+      const select = document.getElementById('scrubberVesselSelect');
+      if (select) {
+        select.value = v;
+      }
+      ['cape', 'vlcc', 'suez', 'pana', '45', '55', '38', '30'].forEach(function(x) {
+        const el = document.getElementById('scrubberBtn' + x);
+        if (el) {
+          const isActive = (x == v || (x === 'cape' && v == 45) || (x === 'vlcc' && v == 55) || (x === 'suez' && v == 38) || (x === 'pana' && v == 30));
+          el.classList.toggle('active', isActive);
+          el.style.background = isActive ? 'var(--accent)' : 'var(--card)';
+          el.style.color = isActive ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      updateScrubberCalculator();
+    }
+    window.setScrubberVessel = setScrubberVessel;
+
     function updateScrubberCalculator() {
       window.updateScrubberCalculator = updateScrubberCalculator;
       const select = document.getElementById('scrubberVesselSelect');
       const dailyConsumption = select ? parseFloat(select.value) : 45.0;
-      const rows = DATA.euCarbon || [];
+      const rows = (window.DATA && (DATA.euCarbon || DATA.eu_carbon)) || [];
       const latest = rows.length ? rows[rows.length - 1] : { singHi5: 147.0, euaPriceEur: 68.0 };
 
       const hi5 = latest.singHi5 || 147.0;
@@ -22196,7 +22370,12 @@ if (intelTabsContainer) {
 
       const dailySavings = dailyConsumption * hi5;
       const annualAdvantage = (dailySavings * 280) / 1000000.0;
-      const etsDrag = dailyConsumption * 3.114 * 0.50 * (eua * 1.08);
+      // Legally mandated EU Directive 2023/959 phase-in schedule: <=2023: 0%, 2024: 40%, 2025: 70%, 2026+: 100%
+      const curYear = (latest.date && typeof latest.date.getFullYear === 'function')
+        ? latest.date.getFullYear()
+        : (latest.date ? (parseDateISO(latest.date) || new Date(latest.date)).getFullYear() : new Date().getFullYear());
+      const phaseIn = curYear <= 2023 ? 0.0 : (curYear === 2024 ? 0.40 : (curYear === 2025 ? 0.70 : 1.00));
+      const etsDrag = dailyConsumption * 3.114 * (0.50 * phaseIn) * (eua * 1.08);
 
       const elDaily = document.getElementById('calcScrubberDailySavings');
       const elAnnual = document.getElementById('calcScrubberAnnualAdvantage');
@@ -22210,8 +22389,9 @@ if (intelTabsContainer) {
     function renderCarbonEtsChart() {
       const canvas = document.getElementById('carbonEtsChart');
       if (!canvas) return;
-      const rows = DATA.euCarbon || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.euCarbon || DATA.eu_carbon || [];
+      if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
       const eua = rows.map(r => r.euaPriceEur);
@@ -22250,6 +22430,7 @@ if (intelTabsContainer) {
       });
       updateScrubberCalculator();
     }
+    window.renderCarbonEtsChart = renderCarbonEtsChart;
 
     // =========================================================================
     // 6. TON-MILE ABSORPTION & ACTIVE FLEET UTILIZATION SIMULATOR
@@ -22257,7 +22438,7 @@ if (intelTabsContainer) {
     function updateTonMileSimulation() {
       window.updateTonMileSimulation = updateTonMileSimulation;
       const bauxiteSlider = document.getElementById('simBauxiteSlider');
-      const brazilOreSlider = document.getElementById('simBrazilOreSlider');
+      const brazilOreSlider = document.getElementById('simBrazilOreSlider') || document.getElementById('simOreSlider');
       const congestionSlider = document.getElementById('simCongestionSlider');
 
       const bauxiteMt = bauxiteSlider ? parseFloat(bauxiteSlider.value) : 14.0;
@@ -22265,7 +22446,7 @@ if (intelTabsContainer) {
       const congestionPct = congestionSlider ? parseFloat(congestionSlider.value) : 4.5;
 
       const elBauxite = document.getElementById('simBauxiteVal');
-      const elBrazilOre = document.getElementById('simBrazilOreVal');
+      const elBrazilOre = document.getElementById('simBrazilOreVal') || document.getElementById('simOreVal');
       const elCongestion = document.getElementById('simCongestionVal');
       const elBadge = document.getElementById('tonMileUtilBadge');
 
@@ -22289,12 +22470,14 @@ if (intelTabsContainer) {
         elBadge.style.color = regimeColor;
       }
     }
+    window.updateTonMileSimulation = updateTonMileSimulation;
 
     function renderTonMileSimChart() {
       const canvas = document.getElementById('tonMileSimChart');
       if (!canvas) return;
-      const rows = DATA.tonMileMatrix || [];
-      if (!rows.length) return;
+      if (!window.DATA) return;
+      const rows = DATA.tonMileMatrix || DATA.ton_mile_matrix || [];
+      if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
       const capeUtil = rows.map(r => r.capeFleetUtilPct);
@@ -22329,6 +22512,7 @@ if (intelTabsContainer) {
       });
       updateTonMileSimulation();
     }
+    window.renderTonMileSimChart = renderTonMileSimChart;
 
     var _signalsDebounceTimer = null;
     function renderSignalsTab(productKey) {
@@ -25134,9 +25318,18 @@ if (intelTabsContainer) {
       const labels = displayRows.map(r => fmtDate(r.date));
 
       // --- Compute contributions ---
-      const capeContrib = displayRows.map(r => r.cape_change * BDRY_WEIGHTS.cape);
-      const panaContrib = displayRows.map(r => r.panama_change * BDRY_WEIGHTS.panama);
-      const supraContrib = displayRows.map(r => r.suprama_change * BDRY_WEIGHTS.suprama);
+      const capeContrib = displayRows.map(r => {
+        const tot = r.bdry_spot || (r.cape != null && r.panama != null && r.suprama != null ? (BDRY_WEIGHTS.cape * r.cape + BDRY_WEIGHTS.panama * r.panama + BDRY_WEIGHTS.suprama * r.suprama) : null);
+        return (r.cape_change != null && r.cape != null && tot > 0) ? (BDRY_WEIGHTS.cape * r.cape * r.cape_change) / tot : (r.cape_change != null ? r.cape_change * BDRY_WEIGHTS.cape : 0);
+      });
+      const panaContrib = displayRows.map(r => {
+        const tot = r.bdry_spot || (r.cape != null && r.panama != null && r.suprama != null ? (BDRY_WEIGHTS.cape * r.cape + BDRY_WEIGHTS.panama * r.panama + BDRY_WEIGHTS.suprama * r.suprama) : null);
+        return (r.panama_change != null && r.panama != null && tot > 0) ? (BDRY_WEIGHTS.panama * r.panama * r.panama_change) / tot : (r.panama_change != null ? r.panama_change * BDRY_WEIGHTS.panama : 0);
+      });
+      const supraContrib = displayRows.map(r => {
+        const tot = r.bdry_spot || (r.cape != null && r.panama != null && r.suprama != null ? (BDRY_WEIGHTS.cape * r.cape + BDRY_WEIGHTS.panama * r.panama + BDRY_WEIGHTS.suprama * r.suprama) : null);
+        return (r.suprama_change != null && r.suprama != null && tot > 0) ? (BDRY_WEIGHTS.suprama * r.suprama * r.suprama_change) / tot : (r.suprama_change != null ? r.suprama_change * BDRY_WEIGHTS.suprama : 0);
+      });
 
       // --- Helper: rolling sum over last N days ---
       function rollingSum(arr, n) {
@@ -26298,7 +26491,7 @@ if (intelTabsContainer) {
       for (const vr of vals) {
         while (ptr < scrap.length && scrap[ptr].t <= vr.t) { lastScrap = scrap[ptr].v; ptr++; }
         if (lastScrap != null && lastScrap > 0 && vr.sp > 0) {
-          pts.push({ t: vr.t, m: ((vr.sp - lastScrap * 17000 / 1e6) / vr.sp) * 100 });
+          pts.push({ t: vr.t, m: ((vr.sp - lastScrap * 24000 / 1e6) / vr.sp) * 100 });
         }
       }
       return (DATA._capeMarginPts = pts);
@@ -26331,8 +26524,8 @@ if (intelTabsContainer) {
           const roc30  = (v30 != null && v30 > 0) ? ((cur - v30) / v30) * 100 : 0;
           const maGapPct = ma90 > 0 ? ((cur - ma90) / ma90) * 100 : 0;
           if (cur != null && ma90 != null && roc30 != null) {
-            const f = _pillarLinMap(maGapPct, [[-20, -4], [-5, -2], [0, 0], [2.5, 1.5], [10, 3], [30, 4]]);
-            const g = _pillarLinMap(roc30, [[-20, -6], [-5, -3], [0, -1.5], [2.5, 0.5], [5, 2], [20, 4]]);
+            const f = _pillarLinMap(maGapPct, [[-20, -4], [-5, -2], [0, 0], [2.5, 1.5], [10, 3], [30, 5]]);
+            const g = _pillarLinMap(roc30, [[-20, -6], [-5, -3], [0, -1.5], [2.5, 0.5], [5, 2], [20, 3.5], [40, 5]]);
             score = Math.round(Math.min(20, Math.max(0, 10 + f + g)) * 10) / 10;
             detail = 'BDI ' + Math.round(cur).toLocaleString() + ' vs 90D MA ' + Math.round(ma90).toLocaleString() + ' (' + (maGapPct >= 0 ? '+' : '') + maGapPct.toFixed(1) + '%) · 30D ROC: ' + (roc30 >= 0 ? '+' : '') + roc30.toFixed(1) + '%';
           }
@@ -26365,7 +26558,7 @@ if (intelTabsContainer) {
       })();
 
       // ── Pillar 3: Futures Basis Arbitrage Score (0–20) ─────────────────────
-      // BDRYFF basis vs BDI spot (positive basis = backwardation => bullish)
+      // BDRYFF futures vs BDI spot basis (positive = contango / negative = backwardation)
       (function() {
         let score = 10;
         let detail = '';
@@ -26374,11 +26567,11 @@ if (intelTabsContainer) {
         if (bdiRows.length && bdryffRows.length) {
           const spotVal = bdiRows[bdiRows.length - 1].bdiy;
           const ffVal   = bdryffRows[bdryffRows.length - 1].bdryff;
-          if (spotVal != null && ffVal != null && ffVal > 0) {
-            const basisPct = ((spotVal - ffVal) / ffVal) * 100;
-            const mapped = _pillarLinMap(basisPct, [[-15, 0], [-5, 4.5], [0, 11], [4, 15], [10, 20]]);
+          if (spotVal != null && ffVal != null && spotVal > 0) {
+            const basisPct = ((ffVal - spotVal) / spotVal) * 100;
+            const mapped = _pillarLinMap(basisPct, [[-10, 20], [-4, 15], [0, 11], [5, 4.5], [15, 0]]);
             score = Math.round(mapped * 10) / 10;
-            detail = 'Spot BDI ' + Math.round(spotVal).toLocaleString() + ' vs Futures ' + Math.round(ffVal).toLocaleString() + ' (' + (basisPct >= 0 ? '+' : '') + basisPct.toFixed(1) + '% ' + (basisPct >= 0 ? 'Spot Premium' : 'Futures Premium') + ')';
+            detail = 'Futures ' + Math.round(ffVal).toLocaleString() + ' vs Spot BDI ' + Math.round(spotVal).toLocaleString() + ' (' + (basisPct >= 0 ? '+' : '') + basisPct.toFixed(1) + '% ' + (basisPct >= 0 ? 'Contango' : 'Backwardation') + ')';
           }
         }
         pillars.push({ label: 'Futures Basis Arb', score: score, max: 20, detail: detail });
@@ -26405,7 +26598,7 @@ if (intelTabsContainer) {
               score = inv < 110 ? 20 : inv < 125 ? 17 : inv < 140 ? 13 : inv < 155 ? 8 : inv < 170 ? 4 : 1;
               detail = 'Port Stockpiles: ' + inv.toFixed(1) + ' Mt (warming up percentile baseline)';
             } else {
-              score = Math.round(_pillarLinMap(pr, [[0.05, 19.5], [0.25, 16], [0.5, 12], [0.75, 7], [0.95, 2.5]]) * 10) / 10;
+              score = Math.round(_pillarLinMap(pr, [[0.0, 20], [0.25, 16], [0.5, 12], [0.75, 7], [1.0, 0]]) * 10) / 10;
               detail = 'Port Stockpiles: ' + inv.toFixed(1) + ' Mt · ' + Math.round(pr * 100) + 'th pct of own history (' + (pr < 0.3 ? 'Low vs Capacity / Restocking Pull' : (pr > 0.7 ? 'High vs Capacity / Demand Saturation' : 'Balanced Inventory')) + ')';
             }
           }
@@ -26437,7 +26630,7 @@ if (intelTabsContainer) {
           const lastScrap  = scrapData.slice(-1)[0];
           if (lastValRow && lastScrap) {
             const spVal    = lastValRow.valuation_usd_m || 48.0;
-            const scrapM   = (lastScrap.dry_india * 17000) / 1e6;
+            const scrapM   = (lastScrap.dry_india * 24000) / 1e6;
             if (spVal > 0 && scrapM > 0) {
               const marginPct = ((spVal - scrapM) / spVal) * 100;
               const curT = parseDateISO(lastValRow.date).getTime();
@@ -30917,82 +31110,94 @@ if (intelTabsContainer) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Newbuilding Pricing</strong>: Shipyard construction costs for 174k m³ LNG carriers reflect shipyard capacity tightness and cryogenic containment system demand.</div>`;
           html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Toggle between 7-Year TC, 10-Year TC, and Newbuilding Asset Values.</div>`;
         }
-        else if (type === 'concept-wci') {
+        else if (type === 'concept-wci' || type === 'drewry-wci-header') {
           html = `<div class="rt-title">Drewry World Container Index (WCI) & Spreads</div>`;
           html += `<div class="rt-row"><span class="rt-label">Benchmark</span><span class="rt-val">Drewry Composite 40ft Spot Container Index ($/FEU)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Core Routes</span><span class="rt-val">Shanghai → Rotterdam, Genoa, Los Angeles, New York</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Chokepoint Sensitivity</span><span class="rt-val" style="color:#f85149">Red Sea / Bab-el-Mandeb & Panama Canal</span></div>`;
           html += `<div class="rt-note">Reflects global container liner spot pricing. Elevated spreads between Asia-Europe and Asia-USWC routes capture Cape of Good Hope rerouting surcharges, transit delays, and vessel absorption dynamics.</div>`;
         }
-        else if (type === 'concept-grainfreight') {
+        else if (type === 'concept-grainfreight' || type === 'concept-grain-freight' || type === 'grain-freight-header') {
           html = `<div class="rt-title">USDA Bulk Grain Ocean Freight Rates & Spreads</div>`;
           html += `<div class="rt-row"><span class="rt-label">Corridors</span><span class="rt-val">US Gulf → Japan vs Pacific Northwest (PNW) → Japan</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Unit</span><span class="rt-val">Metric Ton ($/MT) Handysize & Panamax bulk cargo</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Freight Spread</span><span class="rt-val" style="color:#e3b341">Gulf Rate ($/MT) − PNW Rate ($/MT)</span></div>`;
           html += `<div class="rt-note">Measures the maritime freight differential between Atlantic and Pacific US export gateways. When the Gulf-PNW spread expands (due to Panama Canal draft restrictions or Mississippi low-water levels), Asian grain buyers divert demand to PNW ports.</div>`;
         }
-        else if (type === 'concept-vesselqueue') {
+        else if (type === 'concept-vesselqueue' || type === 'concept-vessel-queue') {
           html = `<div class="rt-title">USDA Grain Vessel Loading Activity & Port Queues</div>`;
           html += `<div class="rt-row"><span class="rt-label">Data Series</span><span class="rt-val">Vessels In Port, Loaded (Past 7D), Due (Next 10D)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Key Ports</span><span class="rt-val">US Gulf (Center/South) & PNW (Columbia River/Puget Sound)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Congestion Flag</span><span class="rt-val" style="color:#ff7b72">>40 Vessels Due = Port Congestion & Demurrage Risk</span></div>`;
           html += `<div class="rt-note">Leading indicator for agricultural bulk vessel demand. Spikes in vessels due signal upcoming export surges and terminal congestion, leading to higher voyage fixture premiums and demurrage rates.</div>`;
         }
-        else if (type === 'concept-landedcost') {
+        else if (type === 'concept-landedcost' || type === 'concept-landed-cost' || type === 'landed-cost-header') {
           html = `<div class="rt-title">Landed Soybean Transportation Cost (US vs Brazil)</div>`;
           html += `<div class="rt-row"><span class="rt-label">Destination</span><span class="rt-val">Shanghai, China (Import CIF Parity)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">US Origin</span><span class="rt-val">Midwest (Iowa/Illinois) via Truck + Barge/Rail + Gulf/PNW Ocean</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Brazil Origin</span><span class="rt-val">Cerrado (North Mato Grosso/Goiás) via Truck + Santos/Paranaguá Ocean</span></div>`;
           html += `<div class="rt-note">Compares full farm-gate to destination multi-modal logistics costs ($/MT). Brazil holds domestic production advantages, while US benefits from efficient Mississippi river barge infrastructure. Changes in ocean freight spreads directly shift export market share between North and South America.</div>`;
         }
-        else if (type === 'concept-scrappage') {
+        else if (type === 'concept-scrappage' || type === 'scrappage-header') {
           html = `<div class="rt-title">Global Ship Demolition & Scrap Matrix</div>`;
           html += `<div class="rt-row"><span class="rt-label">Quotation Basis</span><span class="rt-val">Light Displacement Tonnage ($/LDT) Cash Buyer Price</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Subcontinent Yards</span><span class="rt-val">India (Alang), Bangladesh (Chattogram), Pakistan (Gadani)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Mediterranean</span><span class="rt-val">Turkey (Aliaga green recycling yard quotes)</span></div>`;
           html += `<div class="rt-note">Defines the absolute salvage floor for merchant ships. High scrap prices ($500+/LDT) incentivize fleet rationalization and older tonnage removal during freight downturns, putting an empirical floor under vessel asset values.</div>`;
         }
-        else if (type === 'concept-brazil-exports') {
+        else if (type === 'concept-brazil-exports' || type === 'brazil-exports-header') {
           html = `<div class="rt-title">Brazilian Bulk Seaborne Exports (MDIC ComexStat)</div>`;
           html += `<div class="rt-row"><span class="rt-label">Authority</span><span class="rt-val">Brazilian Ministry of Industry & Trade (MDIC / SECEX)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Tracked Cargoes</span><span class="rt-val">Iron Ore (2601), Crude Oil (2709), Soybeans (1201), Sugar (1701)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Lead Horizon</span><span class="rt-val" style="color:#58a6ff">15–30 Days ahead of Capesize C3 / Suezmax freight</span></div>`;
           html += `<div class="rt-note">Direct measure of physical loadings from Ponta da Madeira, Tubarão, Guaíba, and Santos. Monthly volume surges absorb long-haul Atlantic tonnage (~11,000 nm to China), directly leading Baltic Capesize (BCI) and Dirty Tanker (BDTI) freight rate repricings.</div>`;
         }
-        else if (type === 'concept-ppa-throughput') {
+        else if (type === 'concept-ppa-throughput' || type === 'ppa-throughput-header') {
           html = `<div class="rt-title">Pilbara Ports Authority & Major Miner Shipments</div>`;
           html += `<div class="rt-row"><span class="rt-label">Loading Hubs</span><span class="rt-val">Port of Port Hedland & Port of Dampier (Western Australia)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Global Dominance</span><span class="rt-val" style="color:#e3b341">~43% of Global Seaborne Iron Ore Trade</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Major Producers</span><span class="rt-val">Rio Tinto, Vale, BHP, Fortescue (FMG)</span></div>`;
           html += `<div class="rt-note">Primary physical supply driver for the Capesize C5 (West Australia to Qingdao) freight corridor. Operational throughput changes, Dynamic Under Keel Clearance (DUKC) rules, or cyclone season shutdowns manifest immediately in spot vessel demand.</div>`;
         }
-        else if (type === 'concept-eia-exports') {
+        else if (type === 'concept-eia-exports' || type === 'eia-exports-header') {
           html = `<div class="rt-title">US Gulf Coast (PADD 3) Seaborne Petroleum Exports</div>`;
           html += `<div class="rt-row"><span class="rt-label">Data Source</span><span class="rt-val">US Energy Information Administration (EIA Weekly WCREXUS2)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Tanker Impact</span><span class="rt-val" style="color:#58a6ff">VLCC TD22 (USG→China), Suezmax TD20/TD27, Aframax TD25</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Velocity</span><span class="rt-val">Thousand Barrels per Day (kbpd) & 4-Week Moving Average</span></div>`;
           html += `<div class="rt-note">US Gulf seaborne crude exports represent the largest incremental growth driver for long-haul tanker ton-miles. Transatlantic shipments to Europe replace short-haul North Sea barrels, while USG-to-Asia runs (~15,200 nm) absorb VLCC capacity for 60+ days.</div>`;
         }
-        else if (type === 'concept-port-congestion') {
+        else if (type === 'concept-port-congestion' || type === 'concept-portwatch-congestion' || type === 'portwatch-header') {
           html = `<div class="rt-title">Global Port Congestion & Anchorage Queue Factor</div>`;
           html += `<div class="rt-row"><span class="rt-label">Monitoring Network</span><span class="rt-val">IMF PortWatch ArcGIS Spatial AIS Layer across 1,985 Ports</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Core Hubs</span><span class="rt-val">Qingdao, Ningbo, Caofeidian, Port Hedland, Singapore, Rotterdam, Houston</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Bottleneck Alert</span><span class="rt-val" style="color:#ff7b72">>3.0 Days Avg Waiting Time = Fleet Supply Contraction</span></div>`;
           html += `<div class="rt-note">Anchorage delays function as an immediate multiplier on vessel supply deficits. When 50+ Capesize or VLCC vessels are anchored at discharge ports, hundreds of vessel-days are temporarily removed from active spot availability, accelerating rate spikes.</div>`;
         }
-        else if (type === 'concept-carbon-ets') {
+        else if (type === 'concept-carbon-ets' || type === 'carbon-ets-header') {
           html = `<div class="rt-title">EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics</div>`;
           html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">Singapore / Rotterdam VLSFO (0.5%) − HSFO (3.5%) ($/MT)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Scrubber Formula</span><span class="rt-val" style="color:#3fb950">Daily Fuel Consumption (MT) × Hi-5 Spread ($/MT)</span></div>`;
           html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. EU ETS surcharges add explicit drag on Europe-bound voyages.</div>`;
         }
-        else if (type === 'concept-ton-mile-sim') {
+        else if (type === 'concept-ton-mile-sim' || type === 'ton-mile-header') {
           html = `<div class="rt-title">Ton-Mile Absorption & Active Fleet Utilization Model</div>`;
           html += `<div class="rt-row"><span class="rt-label">Ton-Mile Equation</span><span class="rt-val">Ton-Miles = ∑ (Cargo Volume MT × Nautical Distance nm)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Fleet Utilization</span><span class="rt-val" style="color:#58a6ff">U = TM / (Nominal Fleet DWT × (1 − Congestion Factor))</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Guinea Multiplier</span><span class="rt-val" style="color:#e3b341">11,200 nm = 3.67x more DWT-days than WAus (3,600 nm)</span></div>`;
           html += `<div class="rt-note">Interactive simulation demonstrating why expanding long-haul trades (Guinea Bauxite, Brazil Ore, US Gulf Crude) structurally tighten global fleet capacity. When active fleet utilization exceeds 88%–90%, freight rates experience non-linear super-cycle repricing.</div>`;
+        }
+        else if (type === 'concept-lpg-freight') {
+          const spot = target.getAttribute('data-tt-spot') || '—';
+          const tc = target.getAttribute('data-tt-tc') || '—';
+          const spread = target.getAttribute('data-tt-spread') || '—';
+          const blpg = target.getAttribute('data-tt-blpg') || '—';
+          html = `<div class="rt-title">LPG Freight &amp; Period Charter Rates</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ras Tanura → Chiba Spot</span><span class="rt-val">$${Number(spot).toLocaleString('en-US')}/day</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">VLGC 84k 1Y Time Charter</span><span class="rt-val">$${Number(tc).toLocaleString('en-US')}/day</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Spot-Period Spread</span><span class="rt-val ${Number(spread) >= 0 ? 'pos' : 'neg'}">${Number(spread) >= 0 ? '+' : ''}$${Number(spread).toLocaleString('en-US')}/day</span></div>`;
+          if (blpg && blpg !== '0' && blpg !== '—') html += `<div class="rt-row"><span class="rt-label">Baltic LPG Index</span><span class="rt-val" style="color:#e3b341">${blpg} pts</span></div>`;
+          html += `<div class="rt-note">Monitors Arabian Gulf to Japan VLGC benchmark economics alongside 1-year period charter fixtures and the Baltic LPG index.</div>`;
         }
         else if (type === 'basin-net-spread') {
           html = `<div class="rt-title">Basin Arbitrage Net Spread</div>`;
@@ -31744,7 +31949,7 @@ if (intelTabsContainer) {
           const info = {
             cape: {name:'Capesize — 180,000 DWT Dry Bulk', ldt:'~24,000 LDT', scrap:'~$15–20M demolition floor (Bangladesh/Pakistan BreakUp)', sp:'$35–65M secondhand 10Y asset range', trade:'Iron ore (Brazil/Australia → China), coal (USA/Colombia → Asia)', tc:'1Y TC: $12,000–45,000/day', note:'Capesize assets trade at the highest leverage to commodity supercycles. Their large size limits port access to ~40 global ports, creating acute concentration risk to China steel demand and Vale / Rio Tinto shipment patterns.'},
             panama: {name:'Panamax / Kamsarmax — 75,000–82,000 DWT Dry Bulk', ldt:'~12,000 LDT', scrap:'~$6–8M demolition floor', sp:'$18–38M secondhand range', trade:'Coal, grain, minor bulks — Americas, Black Sea, Pacific basin', tc:'1Y TC: $10,000–28,000/day', note:'Kamsarmax (82k) is the new Panama Canal–compatible benchmark. More versatile than Capesize with access to grain terminals and Great Lakes-range ports. Rate closely correlates with global thermal coal trade flows.'},
-            suprama: {name:'Supramax / Ultramax — 58,000–64,000 DWT Dry Bulk', ldt:'~9,500 LDT', scrap:'~$4.5–6M demolition floor', sp:'$14–28M secondhand range', trade:'Minor bulks: fertiliser, steel, bauxite, sugar, clinker, forest products', tc:'1Y TC: $10,000–22,000/day', note:'The Supramax / Ultramax is the most widely traded dry bulk class by vessel count. Its on-board cranes allow self-discharge at berths without shoreside equipment — critical in frontier markets and secondary ports.'},
+            suprama: {name:'Supramax / Ultramax — 58,000–64,000 DWT Dry Bulk', ldt:'~8,500 LDT', scrap:'~$4.0–5.5M demolition floor', sp:'$14–28M secondhand range', trade:'Minor bulks: fertiliser, steel, bauxite, sugar, clinker, forest products', tc:'1Y TC: $10,000–22,000/day', note:'The Supramax / Ultramax is the most widely traded dry bulk class by vessel count. Its on-board cranes allow self-discharge at berths without shoreside equipment — critical in frontier markets and secondary ports.'},
             handysize: {name:'Handysize — 28,000–40,000 DWT Dry Bulk', ldt:'~7,500 LDT', scrap:'~$3.5–5M demolition floor', sp:'$10–25M secondhand range', trade:'Steel, cement, agricultural cargoes, coastal short-haul, regional grain', tc:'1Y TC: $8,000–20,000/day', note:'Handysize vessels are the smallest ocean-going bulk carriers. They provide the "last mile" of dry bulk logistics, accessing minor ports with draft restrictions and serving regional commodity distribution hubs.'},
             vlcc: {name:'VLCC — Very Large Crude Carrier (300,000–320,000 DWT)', ldt:'~40,000 LDT', scrap:'~$19–25M demolition floor', sp:'$70–140M secondhand range', trade:'AG Gulf → Asia (Hormuz), West Africa → Asia, USG → Asia (post Panama expansion)', tc:'1Y TC: $28,000–110,000/day (highly volatile)', note:'The VLCC is the defining asset of the global crude oil supply chain. Rates are driven by OPEC production policy, AG–Asia arb windows, US crude export growth, and geopolitical chokepoint disruptions (Hormuz, Cape of Good Hope routing).'},
             suezmax: {name:'Suezmax — 155,000–160,000 DWT Crude Tanker', ldt:'~24,000 LDT', scrap:'~$11–15M demolition floor', sp:'$45–90M secondhand range', trade:'West Africa → Europe/US East Coast, Black Sea / Med, North Sea Loadings', tc:'1Y TC: $22,000–75,000/day', note:'The Suezmax is the largest vessel that can transit the Suez Canal laden. Critical for West Africa – Europe flows and Black Sea crude exports. Rate volatility is strongly linked to Russian crude rerouting post-2022.'},

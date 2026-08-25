@@ -57,7 +57,7 @@ def scrape_index(code):
                         if index_val <= 0:
                             continue  # skip zero/negative — sanity check
                         data.append({
-                            'Date': date.strftime('%d-%m-%Y'),
+                            'Date': date.strftime('%Y-%m-%d'),
                             'Index': index_val,
                             '% Change': change_text
                         })
@@ -75,22 +75,20 @@ def update_csv(filename, new_data):
     filepath = filename
 
     new_data = new_data.copy()
-    new_data['Date_parsed'] = pd.to_datetime(new_data['Date'], format='%d-%m-%Y')
+    new_data['Date_parsed'] = pd.to_datetime(new_data['Date'], errors='coerce')
 
     if os.path.exists(filepath):
         existing = pd.read_csv(filepath)
-        try:
-            existing['Date_parsed'] = pd.to_datetime(existing['Date'], format='%d-%m-%Y')
-        except Exception:
-            existing['Date_parsed'] = pd.to_datetime(existing['Date'], dayfirst=True)
+        existing['Date_parsed'] = pd.to_datetime(existing['Date'], errors='coerce')
 
         combined = pd.concat([existing, new_data])
-        combined = combined.drop_duplicates(subset=['Date_parsed'], keep='last')
+        combined = combined.dropna(subset=['Date_parsed']).drop_duplicates(subset=['Date_parsed'], keep='last')
     else:
         combined = new_data.copy()
 
     # Always sort by the parsed date column (correct chronological order)
     combined = combined.sort_values('Date_parsed')
+    combined['Date'] = combined['Date_parsed'].dt.strftime('%Y-%m-%d')
     combined = combined.drop(columns=['Date_parsed'])
 
     combined.to_csv(filepath, index=False)
@@ -157,10 +155,7 @@ def update_solactive_csv(filename, latest_row):
 
     if os.path.exists(filename):
         existing = pd.read_csv(filename)
-        try:
-            existing['date'] = pd.to_datetime(existing['date'], format='%d-%m-%Y').dt.normalize()
-        except ValueError:
-            existing['date'] = pd.to_datetime(existing['date']).dt.normalize()
+        existing['date'] = pd.to_datetime(existing['date'], errors='coerce').dt.normalize()
 
         if latest_date in existing['date'].values:
             print(f"{filename}: {latest_date.date()} already present, nothing to append")
@@ -171,7 +166,7 @@ def update_solactive_csv(filename, latest_row):
         combined = latest_row.copy()
 
     combined = combined.sort_values('date')
-    combined['date'] = combined['date'].dt.strftime('%d-%m-%Y')
+    combined['date'] = combined['date'].dt.strftime('%Y-%m-%d')
     combined.to_csv(filename, index=False)
     print(f"{filename}: Appended {latest_date.date()} -> value {latest_row['value'].iloc[0]}")
 
@@ -398,7 +393,7 @@ def update_amplify_csv(filename, new_data):
 
     if os.path.exists(filename):
         existing = pd.read_csv(filename)
-        existing['Rate Date'] = pd.to_datetime(existing['Rate Date'], format='%d-%m-%Y', errors='coerce')
+        existing['Rate Date'] = pd.to_datetime(existing['Rate Date'], errors='coerce')
         combined = pd.concat([existing, new_data], ignore_index=True)
     else:
         combined = new_data
@@ -407,7 +402,7 @@ def update_amplify_csv(filename, new_data):
     combined = combined.sort_values('Rate Date')
     before = len(existing) if os.path.exists(filename) else 0
     added = len(combined) - before
-    combined['Rate Date'] = combined['Rate Date'].dt.strftime('%d-%m-%Y')
+    combined['Rate Date'] = combined['Rate Date'].dt.strftime('%Y-%m-%d')
     combined.to_csv(filename, index=False)
     print(f"{filename}: {added} new rows added, {len(combined)} total")
 
@@ -582,7 +577,7 @@ def update_sgx_csv(filename, product_code):
         if existing.empty:
             combined = new_df
         else:
-            existing['date'] = existing['date'].dt.strftime('%d-%m-%Y')
+            existing['date'] = pd.to_datetime(existing['date'], errors='coerce').dt.strftime('%Y-%m-%d')
             combined = pd.concat([existing, new_df], ignore_index=True)
         combined.to_csv(filename, index=False)
         print(f"{filename}: +{len(new_rows)} new rows ({active_count} active contracts)")

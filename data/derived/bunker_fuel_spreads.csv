@@ -1,7 +1,7 @@
 port,region,vlsfo_price_usd_mt,hsfo_price_usd_mt,mgo_price_usd_mt,hi5_spread_usd_mt,cape_scrubber_tce_premium_usd_d,vlcc_scrubber_tce_premium_usd_d,eu_ets_co2_price_eur_mt,eu_ets_daily_penalty_usd_d
-Singapore,Asia / Malacca,592.50,448.00,715.00,144.50,4335.00,5780.00,72.50,1850.00
-Rotterdam,NW Europe,558.00,422.00,688.00,136.00,4080.00,5440.00,72.50,2450.00
-Fujairah,Middle East Gulf,585.00,439.00,728.00,146.00,4380.00,5840.00,72.50,1780.00
-Houston / US Gulf,Americas,574.00,431.00,704.00,143.00,4290.00,5720.00,72.50,1920.00
-Gibraltar / Algeciras,Mediterranean,582.00,435.00,712.00,147.00,4410.00,5880.00,72.50,2380.00
-Zhoushan,China,598.00,452.00,722.00,146.00,4380.00,5840.00,72.50,1650.00
+Singapore,Asia / Malacca,592.50,448.00,715.00,144.50,6502.50,7947.50,72.50,1850.00
+Rotterdam,NW Europe,558.00,422.00,688.00,136.00,6120.00,7480.00,72.50,2450.00
+Fujairah,Middle East Gulf,585.00,439.00,728.00,146.00,6570.00,8030.00,72.50,1780.00
+Houston / US Gulf,Americas,574.00,431.00,704.00,143.00,6435.00,7865.00,72.50,1920.00
+Gibraltar / Algeciras,Mediterranean,582.00,435.00,712.00,147.00,6615.00,8085.00,72.50,2380.00
+Zhoushan,China,598.00,452.00,722.00,146.00,6570.00,8030.00,72.50,1650.00

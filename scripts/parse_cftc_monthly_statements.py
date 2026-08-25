@@ -199,6 +199,16 @@ def parse_single_pdf(filepath: str, fund_name: str, url: str) -> Dict[str, Any]:
         'share_identity_valid': share_identity_valid
     }
 
+def parse_date_key(period_str: str) -> datetime:
+    s = period_str.replace('-', ' ').strip()
+    s = re.sub(r'\s+', ' ', s)
+    for fmt in ("%B %d, %Y", "%B %d %Y", "%B %Y", "%b %Y", "%Y %m %d", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(s, fmt)
+        except ValueError:
+            pass
+    return datetime(1970, 1, 1)
+
 def process_all_statements() -> Dict[str, pd.DataFrame]:
     with open('scratch/statement_urls.json', 'r') as f:
         urls_meta = json.load(f)
@@ -222,6 +232,7 @@ def process_all_statements() -> Dict[str, pd.DataFrame]:
             rec = parse_single_pdf(fp, fund, u)
             records.append(rec)
             
+        records = sorted(records, key=lambda r: parse_date_key(r['period_ended']))
         df = pd.DataFrame(records)
         csv_path = os.path.join(PARSED_DIR, f"{fund.lower()}_monthly_cftc_ledger.csv")
         json_path = os.path.join(PARSED_DIR, f"{fund.lower()}_monthly_cftc_ledger.json")
@@ -231,7 +242,7 @@ def process_all_statements() -> Dict[str, pd.DataFrame]:
             json.dump(records, jf, indent=2)
             
         results[fund] = df
-        print(f"  -> Generated {csv_path} ({len(df)} rows)")
+        print(f"  -> Generated {csv_path} ({len(df)} rows, chronologically sorted)")
         
     return results
 

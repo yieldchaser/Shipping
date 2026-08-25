@@ -72,7 +72,7 @@ def fetch_eia_weekly():
         records.append({
             "date": dt.strftime("%Y-%m-%d"),
             "us_total_crude_exports_kbpd": crude,
-            "padd3_gulf_crude_exports_kbpd": padd3,
+            "padd3_gulf_crude_exports_kbpd": padd3_crude,
             "us_total_petroleum_exports_kbpd": total_petro,
         })
 

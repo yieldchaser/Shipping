@@ -61,7 +61,7 @@ def expanding_percentile(window: np.ndarray, value: float) -> float | None:
 def run_backtest():
     # 1. Load BDI
     bdi_df = pd.read_csv(os.path.join(DATA_DIR, 'indices', 'bdiy_historical.csv'))
-    bdi_df['date'] = pd.to_datetime(bdi_df['Date'], format='%d-%m-%Y', errors='coerce', dayfirst=True)
+    bdi_df['date'] = pd.to_datetime(bdi_df['Date'], errors='coerce')
     bdi_df['bdiy'] = pd.to_numeric(bdi_df['Index'].astype(str).str.replace(',', ''), errors='coerce')
     bdi_df = bdi_df.dropna(subset=['date', 'bdiy']).sort_values('date').reset_index(drop=True)
 
@@ -112,7 +112,7 @@ def run_backtest():
         if last_scrap is not None and last_scrap > 0:
             sp = float(vrow['valuation_usd_m'])
             if sp > 0:
-                margin_pts.append((vrow['date'], ((sp - last_scrap * 17000 / 1e6) / sp) * 100))
+                margin_pts.append((vrow['date'], ((sp - last_scrap * 24000 / 1e6) / sp) * 100))
     margin_dates = np.array([m[0] for m in margin_pts])
     margin_vals = np.array([m[1] for m in margin_pts])
 
@@ -146,8 +146,8 @@ def run_backtest():
             v30 = past_bdi[-31] if len(past_bdi) >= 31 else past_bdi[0]
             roc30 = ((cur_bdi - v30) / v30) * 100 if v30 > 0 else 0.0
             ma_gap = ((cur_bdi - ma90) / ma90) * 100 if ma90 > 0 else 0.0
-            f = lin_map(ma_gap, [(-20, -4), (-5, -2), (0, 0), (2.5, 1.5), (10, 3), (30, 4)])
-            g = lin_map(roc30, [(-20, -6), (-5, -3), (0, -1.5), (2.5, 0.5), (5, 2), (20, 4)])
+            f = lin_map(ma_gap, [(-20, -4), (-5, -2), (0, 0), (2.5, 1.5), (10, 3), (30, 5)])
+            g = lin_map(roc30, [(-20, -6), (-5, -3), (0, -1.5), (2.5, 0.5), (5, 2), (20, 3.5), (40, 5)])
             p1 = round(float(np.clip(10 + f + g, 0, 20)), 1)
 
         # ── Pillar 2: Term Structure Slope (continuous spread map) ───────────
@@ -168,9 +168,9 @@ def run_backtest():
         basis_pct = None
         if ff_row is not None:
             ff_val = ff_row['bdryff']
-            if pd.notna(ff_val) and ff_val > 0:
-                basis_pct = ((cur_bdi - ff_val) / ff_val) * 100
-                p3 = round(lin_map(basis_pct, [(-15, 0), (-5, 4.5), (0, 11), (4, 15), (10, 20)]), 1)
+            if pd.notna(ff_val) and cur_bdi > 0:
+                basis_pct = ((ff_val - cur_bdi) / cur_bdi) * 100
+                p3 = round(lin_map(basis_pct, [(-10, 20), (-4, 15), (0, 11), (5, 4.5), (15, 0)]), 1)
 
         # ── Pillar 4: Port Restocking (inverted expanding percentile) ────────
         io_row = last_asof(io_df, d)
@@ -187,7 +187,7 @@ def run_backtest():
                      8.0 if inv < 155 else 4.0 if inv < 170 else 1.0
             else:
                 inv_pctl = pr
-                p4 = round(lin_map(pr, [(0.05, 19.5), (0.25, 16), (0.5, 12), (0.75, 7), (0.95, 2.5)]), 1)
+                p4 = round(lin_map(pr, [(0.0, 20), (0.25, 16), (0.5, 12), (0.75, 7), (1.0, 0)]), 1)
 
         # ── Pillar 5: Asset Cycle Heat (margin percentile tent) ──────────────
         vr = last_asof(val_cape, d)
@@ -198,7 +198,7 @@ def run_backtest():
         margin_pctl = None
         if vr is not None and scr is not None:
             sp_val = float(vr['valuation_usd_m'])
-            scrap_m = float(scr['dry_india']) * 17000 / 1e6
+            scrap_m = float(scr['dry_india']) * 24000 / 1e6
             if sp_val > 0 and scrap_m > 0:
                 margin_now = ((sp_val - scrap_m) / sp_val) * 100
                 prior_m = margin_vals[margin_dates < vr['date']]

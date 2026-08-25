@@ -1,6 +1,6 @@
 {
   "manifest_version": "1.0.0",
-  "last_updated_utc": "2026-08-24T14:47:22.263256+00:00",
+  "last_updated_utc": "2026-08-25T03:15:01.211395+00:00",
   "records": {
     "BDRY": {
       "2026-08-13": {
@@ -1232,8 +1232,8 @@
             "status": "VERIFIED_OFFICIAL_ARCHIVE",
             "record_id": "pub:BDRY:2026-08-24:224e8d2e74e6b8881b8e67b5d37da1b1be9f2a8a9dfdf1a300fd54b2ae205642",
             "snapshot_content_sha256": "87377a0732633177e51c023780f6cd30ac47a0521a564265d639c45b82ea431e",
-            "snapshot_sha256": "87377a0732633177e51c023780f6cd30ac47a0521a564265d639c45b82ea431e",
-            "manifest_snapshot_sha256": "87377a0732633177e51c023780f6cd30ac47a0521a564265d639c45b82ea431e",
+            "snapshot_sha256": "42a461665bba7a7dda478ca0d085b511083f60fbe2782210d779698111d4cefd",
+            "manifest_snapshot_sha256": "42a461665bba7a7dda478ca0d085b511083f60fbe2782210d779698111d4cefd",
             "expected_sha256": "224e8d2e74e6b8881b8e67b5d37da1b1be9f2a8a9dfdf1a300fd54b2ae205642",
             "local_archive_path": "data/etf/raw_holdings/BDRY/2026-08-24.csv"
           }
@@ -2491,8 +2491,8 @@
             "status": "VERIFIED_OFFICIAL_ARCHIVE",
             "record_id": "pub:BWET:2026-08-24:987b6f6f1ecd3ce9056be81659cce6e22bb3ec890c0f33801dc8eda6b816e4a3",
             "snapshot_content_sha256": "fe49766d413c16f31978a1d553711cfdd6a07548e1746017da4b9294b34edc11",
-            "snapshot_sha256": "fe49766d413c16f31978a1d553711cfdd6a07548e1746017da4b9294b34edc11",
-            "manifest_snapshot_sha256": "fe49766d413c16f31978a1d553711cfdd6a07548e1746017da4b9294b34edc11",
+            "snapshot_sha256": "85b66404e2438ca8b013204a98b2ff4235363e51288a222bf7aac4ca9b1ddbe1",
+            "manifest_snapshot_sha256": "85b66404e2438ca8b013204a98b2ff4235363e51288a222bf7aac4ca9b1ddbe1",
             "expected_sha256": "987b6f6f1ecd3ce9056be81659cce6e22bb3ec890c0f33801dc8eda6b816e4a3",
             "local_archive_path": "data/etf/raw_holdings/BWET/2026-08-24.csv"
           }
@@ -7471,6 +7471,24 @@
       "as_of_date": "2026-08-24",
       "archive_sha256": "987b6f6f1ecd3ce9056be81659cce6e22bb3ec890c0f33801dc8eda6b816e4a3",
       "snapshot_content_sha256": "fe49766d413c16f31978a1d553711cfdd6a07548e1746017da4b9294b34edc11",
+      "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
+    },
+    {
+      "record_id": "pub:BDRY:2026-08-24:224e8d2e74e6b8881b8e67b5d37da1b1be9f2a8a9dfdf1a300fd54b2ae205642",
+      "timestamp_utc": "2026-08-24T14:47:21.066342+00:00",
+      "fund": "BDRY",
+      "as_of_date": "2026-08-24",
+      "archive_sha256": "224e8d2e74e6b8881b8e67b5d37da1b1be9f2a8a9dfdf1a300fd54b2ae205642",
+      "snapshot_content_sha256": "42a461665bba7a7dda478ca0d085b511083f60fbe2782210d779698111d4cefd",
+      "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
+    },
+    {
+      "record_id": "pub:BWET:2026-08-24:987b6f6f1ecd3ce9056be81659cce6e22bb3ec890c0f33801dc8eda6b816e4a3",
+      "timestamp_utc": "2026-08-24T14:47:21.100165+00:00",
+      "fund": "BWET",
+      "as_of_date": "2026-08-24",
+      "archive_sha256": "987b6f6f1ecd3ce9056be81659cce6e22bb3ec890c0f33801dc8eda6b816e4a3",
+      "snapshot_content_sha256": "85b66404e2438ca8b013204a98b2ff4235363e51288a222bf7aac4ca9b1ddbe1",
       "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
     }
   ],

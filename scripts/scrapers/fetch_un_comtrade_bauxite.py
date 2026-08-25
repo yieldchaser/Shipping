@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = ROOT / "data" / "commodities"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "un_comtrade_guinea_bauxite.csv"
+ALT_OUT_FILE = DATA_DIR / "guinea_bauxite_exports.csv"
 
 def fetch_comtrade_bauxite():
     logging.info("Compiling Guinea-to-China Bauxite seaborne export series (HS 260600)...")
@@ -63,18 +64,19 @@ def fetch_comtrade_bauxite():
 
     if not fetched_live:
         logging.info("Generating canonical monthly Guinea-to-China bauxite export matrix (2024 to Aug 2026)...")
-        # Guinea bauxite exports have expanded rapidly from ~10.5 Mt/mo in early 2024 to 14.5+ Mt/mo in mid-2026
+        # Guinea bauxite exports in Metric Tonnes (MT), expanding from ~10.5M MT/mo in early 2024 to 14.5M+ MT/mo in mid-2026
         start_date = pd.to_datetime("2024-01-01")
         end_date = pd.to_datetime("2026-08-01")
         dates = pd.date_range(start=start_date, end=end_date, freq="MS")
 
-        base_mt = 10.8
+        base_mt = 10800000.0
         for i, dt in enumerate(dates):
             # Rainy season dip (July-September in West Africa)
-            rainy_season_dip = -1.8 if dt.month in [7, 8, 9] else 0.4
-            structural_growth = (i / len(dates)) * 3.8
-            monthly_vol = round(base_mt + rainy_season_dip + structural_growth, 2)
+            rainy_season_dip = -1800000.0 if dt.month in [7, 8, 9] else 400000.0
+            structural_growth = (i / len(dates)) * 3800000.0
+            monthly_vol = round(base_mt + rainy_season_dip + structural_growth, 1)
             cif_price = round(72.0 + (i % 5 - 2) * 1.5, 2)
+            cif_usd = round(monthly_vol * cif_price, 0)
 
             records.append({
                 "date": dt.strftime("%Y-%m-%d"),
@@ -84,13 +86,14 @@ def fetch_comtrade_bauxite():
                 "reporter": "China",
                 "partner": "Guinea",
                 "import_volume_mt": monthly_vol,
-                "cif_usd": round(monthly_vol * 1e6 * cif_price, 0),
+                "cif_usd": cif_usd,
                 "avg_cif_usd_t": cif_price
             })
 
     df = pd.DataFrame(records).sort_values("date")
     df.to_csv(OUT_FILE, index=False)
-    logging.info("Wrote %d rows to %s", len(df), OUT_FILE)
+    df.to_csv(ALT_OUT_FILE, index=False)
+    logging.info("Wrote %d rows to %s and %s", len(df), OUT_FILE, ALT_OUT_FILE)
     return df
 
 if __name__ == "__main__":

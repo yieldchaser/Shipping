@@ -74,8 +74,12 @@ def fetch_eu_ets_carbon():
         # VLCC scrubber advantage (assuming 55 MT/day consumption)
         vlcc_scrubber_savings = round(55.0 * sing_hi5, 2)
 
-        # Capesize EU ETS daily cost on EU voyages (45 MT * 3.114 tCO2/tFuel * 50% coverage * EUA converted to USD @ 1.08)
-        cape_ets_daily_cost = round(45.0 * 3.114 * 0.50 * (eua_price * 1.08), 2)
+        # Capesize EU ETS daily cost on EU voyages: EU Directive 2023/959 phase-in schedule
+        # Year <= 2023: 0%, 2024: 40%, 2025: 70%, 2026+: 100% (50% geographic voyage scope -> 0.5 * phase_in_pct)
+        year = dt.year
+        phase_in_pct = 0.0 if year <= 2023 else (0.40 if year == 2024 else (0.70 if year == 2025 else 1.00))
+        scope_factor = 0.50 * phase_in_pct
+        cape_ets_daily_cost = round(45.0 * 3.114 * scope_factor * (eua_price * 1.08), 2)
 
         records.append({
             "date": dt.strftime("%Y-%m-%d"),
