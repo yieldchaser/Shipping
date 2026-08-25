@@ -28,16 +28,20 @@ jobs:
           COMTRADE_API_KEY: ${{ secrets.COMTRADE_API_KEY }}
           OILPRICE_API_KEY: ${{ secrets.OILPRICE_API_KEY }}
         run: |
-          python scripts/scrapers/fetch_comexstat_brazil.py || true
-          python scripts/scrapers/fetch_ppa_iron_ore.py || true
-          python scripts/scrapers/fetch_major_miners_production.py || true
-          python scripts/scrapers/fetch_eia_petroleum_exports.py || true
-          python scripts/scrapers/fetch_portwatch_port_activity.py || true
-          python scripts/scrapers/fetch_eu_ets_carbon.py || true
-          python scripts/scrapers/fetch_newcastle_coal.py || true
-          python scripts/scrapers/fetch_australia_req.py || true
-          python scripts/scrapers/fetch_un_comtrade_bauxite.py || true
-          python scripts/scrapers/generate_ton_mile_matrix.py || true
+          # Paced, real-data-only scrapers. No `|| true`: a genuine failure must fail
+          # the run so it is visible (data-provenance policy, 2026-08-25 audit).
+          python scripts/scrapers/fetch_newcastle_coal.py
+          python scripts/scrapers/fetch_ppa_iron_ore.py
+          python scripts/scrapers/fetch_major_miners_production.py
+          python scripts/scrapers/fetch_australia_req.py
+          python scripts/scrapers/fetch_eia_petroleum_exports.py
+          python scripts/scrapers/fetch_portwatch_port_activity.py
+          python scripts/scrapers/fetch_eu_ets_carbon.py
+          python scripts/scrapers/fetch_un_comtrade_bauxite.py
+          # ComexStat is the most rate-limited (MDIC free tier); run LAST and isolated
+          # so its 429 backoff does not block the others. A partial run still commits
+          # the months it succeeded on (the scraper skips, never fakes).
+          python scripts/scrapers/fetch_comexstat_brazil.py || echo "ComexStat rate-limited this run; will complete on a later paced run."
 
       - name: Commit and push if updated
         run: |

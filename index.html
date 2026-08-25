@@ -11235,9 +11235,10 @@
                   <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">EU ETS Voyage Drag ($/day)</div>
                   <div id="calcEuEtsVoyageDrag" style="font-size:15px;font-weight:700;color:#ff7b72;margin-top:2px;">-$5,146/day</div>
                   <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">50% EU voyage scope @ €68/t EUA</div>
-                </div>
-              </div>
-            </div>
+                  </div>
+                  </div>
+                  <div id="calcEuEtsNote" style="display:none;font-size:11px;color:var(--text-muted);margin-top:8px;padding:6px 8px;background:var(--card);border:1px solid var(--border);border-radius:4px;"></div>
+                  </div>
           </div>
 
           <!-- 6. Ton-Mile Absorption & Active Fleet Utilization Model Simulator -->
@@ -22418,7 +22419,10 @@ if (intelTabsContainer) {
       const select = document.getElementById('scrubberVesselSelect');
       const dailyConsumption = select ? parseFloat(select.value) : 45.0;
       const rows = (window.DATA && (DATA.euCarbon || DATA.eu_carbon)) || [];
-      const latest = rows.length ? rows[rows.length - 1] : { singHi5: 147.0, euaPriceEur: 68.0 };
+      const hasData = rows.length > 0;
+      // Honest default ONLY used for the static calculator display; when no live EUA
+      // observation exists the chart discloses "history accumulates from first live pull".
+      const latest = hasData ? rows[rows.length - 1] : { singHi5: 147.0, euaPriceEur: 68.0, _diagnostic: true };
 
       const hi5 = latest.singHi5 || 147.0;
       const eua = latest.euaPriceEur || 68.0;
@@ -22435,10 +22439,16 @@ if (intelTabsContainer) {
       const elDaily = document.getElementById('calcScrubberDailySavings');
       const elAnnual = document.getElementById('calcScrubberAnnualAdvantage');
       const elDrag = document.getElementById('calcEuEtsVoyageDrag');
+      const elNote = document.getElementById('calcEuEtsNote');
 
       if (elDaily) elDaily.innerHTML = `+$${Math.round(dailySavings).toLocaleString()}/day`;
       if (elAnnual) elAnnual.innerHTML = `+$${annualAdvantage.toFixed(2)}M/year`;
       if (elDrag) elDrag.innerHTML = `-$${Math.round(etsDrag).toLocaleString()}/day`;
+      // Disclose when the figures are from a live observation vs. pre-launch illustrative defaults.
+      if (elNote) {
+        elNote.style.display = hasData ? 'none' : 'block';
+        elNote.textContent = 'No live EUA price pulled yet — figures are illustrative defaults. EU ETS history accumulates from the first successful live API pull (OilPriceAPI EU_CARBON_EUR).';
+      }
     }
 
     function renderCarbonEtsChart() {

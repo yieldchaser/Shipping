@@ -1,169 +1,112 @@
 #!/usr/bin/env python3
 """
-Port of Newcastle & Queensland Coal Export Scraper
-Compiles monthly seaborne coal export volumes (Mt) from:
-- Port of Newcastle (NSW: Thermal & Semi-Soft Coking Coal)
-- Dalrymple Bay Coal Terminal / Hay Point (Queensland: Prime Metallurgical Coking Coal)
-- Gladstone Port (Queensland: Thermal & Metallurgical Coal)
-Direct Portal: NSW Transport Open Data Hub & Queensland Ports
-"""
+Port of Newcastle Monthly Coal & Trade Scraper — REAL DATA ONLY.
 
+Source: Transport for NSW Open Data (CKAN) redistribution of official
+Port of Newcastle monthly trade statistics.
+  Dataset : 5da0e3b9-e46a-4aa3-96c9-2574d83fe6fb (freight-data / port-of-newcastle)
+  Resource: 3c5c9d89-ce54-4f72-9550-4077b7540612 (XLSX, Jan-2018..latest)
+  License : data provided by Port of Newcastle via TfNSW open data.
+
+Output: data/ports/newcastle_monthly_exports.csv
+    date, coal_export_tonnes, total_export_tonnes, total_import_tonnes,
+    vessel_arrivals_coal, source_url
+
+Loud failure policy: any fetch/parse error raises SystemExit — never synthesize.
+"""
+from __future__ import annotations
+
+import json
+import ssl
 import sys
-import logging
+import urllib.request
 from pathlib import Path
+
 import pandas as pd
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
-ROOT = Path(__file__).resolve().parent.parent.parent
-DATA_DIR = ROOT / "data" / "commodities"
-DATA_DIR.mkdir(parents=True, exist_ok=True)
-OUT_FILE = DATA_DIR / "newcastle_coal_exports.csv"
-ALT_OUT_FILE = DATA_DIR / "newcastle_coal_monthly.csv"
+ROOT = Path(__file__).resolve().parents[2]
+# Frontend binds Newcastle coal to data/commodities/newcastle_coal_exports.csv
+OUT = ROOT / "data" / "commodities" / "newcastle_coal_exports.csv"
 
-def fetch_coal_monthly():
-    logging.info("Compiling Australian seaborne coal export monthly records...")
+RESOURCE_ID = "3c5c9d89-ce54-4f72-9550-4077b7540612"
+CKAN = "https://opendata.transport.nsw.gov.au/api/3/action/resource_show?id=" + RESOURCE_ID
 
-    # Monthly seaborne export volumes (Mt) for 2024 to Aug 2026
-    records = [
-        # 2024
-        ("2024-01-01", "Newcastle", 11.8, "Thermal", 124, "Japan, Taiwan, Korea"),
-        ("2024-01-01", "Dalrymple Bay", 4.9, "Metallurgical", 48, "India, Japan, China"),
-        ("2024-01-01", "Gladstone", 5.2, "Combined", 55, "India, Japan, Korea"),
+CTX = ssl.create_default_context()
+CTX.check_hostname = False
+CTX.verify_mode = ssl.CERT_NONE
 
-        ("2024-02-01", "Newcastle", 10.9, "Thermal", 115, "Japan, Taiwan, Korea"),
-        ("2024-02-01", "Dalrymple Bay", 4.6, "Metallurgical", 45, "India, Japan, China"),
-        ("2024-02-01", "Gladstone", 4.8, "Combined", 51, "India, Japan, Korea"),
 
-        ("2024-03-01", "Newcastle", 12.5, "Thermal", 132, "Japan, Taiwan, Korea"),
-        ("2024-03-01", "Dalrymple Bay", 5.3, "Metallurgical", 52, "India, Japan, China"),
-        ("2024-03-01", "Gladstone", 5.6, "Combined", 58, "India, Japan, Korea"),
+def _get(url: str, timeout: int = 120) -> bytes:
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (freight-dashboard; contact repo owner)"})
+    with urllib.request.urlopen(req, timeout=timeout, context=CTX) as r:
+        return r.read()
 
-        ("2024-04-01", "Newcastle", 12.1, "Thermal", 128, "Japan, Taiwan, Korea"),
-        ("2024-04-01", "Dalrymple Bay", 5.1, "Metallurgical", 50, "India, Japan, China"),
-        ("2024-04-01", "Gladstone", 5.4, "Combined", 56, "India, Japan, Korea"),
 
-        ("2024-05-01", "Newcastle", 13.2, "Thermal", 139, "Japan, Taiwan, Korea"),
-        ("2024-05-01", "Dalrymple Bay", 5.5, "Metallurgical", 54, "India, Japan, China"),
-        ("2024-05-01", "Gladstone", 5.8, "Combined", 60, "India, Japan, Korea"),
+def main() -> pd.DataFrame:
+    # 1) resolve latest resource file URL from CKAN
+    meta = json.loads(_get(CKAN, 60).decode("utf-8", "replace"))
+    if not meta.get("success"):
+        raise SystemExit(f"CKAN resource_show failed: {meta}")
+    res = meta["result"]
+    file_url = res.get("url")
+    if not file_url:
+        raise SystemExit("No downloadable resource URL in CKAN response")
+    print(f"[newcastle] resource updated {res.get('last_modified')}: {file_url.rsplit('/', 1)[-1]}")
 
-        ("2024-06-01", "Newcastle", 13.6, "Thermal", 144, "Japan, Taiwan, Korea"),
-        ("2024-06-01", "Dalrymple Bay", 5.7, "Metallurgical", 56, "India, Japan, China"),
-        ("2024-06-01", "Gladstone", 6.0, "Combined", 62, "India, Japan, Korea"),
+    # 2) download + parse XLSX
+    raw = _get(file_url)
+    tmp = ROOT / "scratch"
+    tmp.mkdir(exist_ok=True)
+    xlsx_path = tmp / "newcastle_latest.xlsx"
+    xlsx_path.write_bytes(raw)
 
-        ("2024-07-01", "Newcastle", 12.4, "Thermal", 131, "Japan, Taiwan, Korea"),
-        ("2024-07-01", "Dalrymple Bay", 5.2, "Metallurgical", 51, "India, Japan, China"),
-        ("2024-07-01", "Gladstone", 5.5, "Combined", 57, "India, Japan, Korea"),
+    df = pd.ExcelFile(xlsx_path).parse("Port of Newcastle", header=None)
 
-        ("2024-08-01", "Newcastle", 12.9, "Thermal", 136, "Japan, Taiwan, Korea"),
-        ("2024-08-01", "Dalrymple Bay", 5.4, "Metallurgical", 53, "India, Japan, China"),
-        ("2024-08-01", "Gladstone", 5.7, "Combined", 59, "India, Japan, Korea"),
+    header_row = None
+    for i in range(min(12, len(df))):
+        vals = [str(x).strip().lower() for x in df.iloc[i].tolist()]
+        if vals and vals[0] == "month":
+            header_row = i
+            break
+    if header_row is None:
+        raise SystemExit("Could not locate 'Month' header row in Newcastle XLSX")
 
-        ("2024-09-01", "Newcastle", 13.1, "Thermal", 138, "Japan, Taiwan, Korea"),
-        ("2024-09-01", "Dalrymple Bay", 5.5, "Metallurgical", 54, "India, Japan, China"),
-        ("2024-09-01", "Gladstone", 5.8, "Combined", 60, "India, Japan, Korea"),
+    headers = [str(x).strip() for x in df.iloc[header_row].tolist()]
+    body = df.iloc[header_row + 1:].copy()
+    body.columns = headers
+    body = body[pd.to_datetime(body["Month"], errors="coerce").notna()].copy()
+    body["date"] = pd.to_datetime(body["Month"]).dt.strftime("%Y-%m-%d")
 
-        ("2024-10-01", "Newcastle", 13.4, "Thermal", 141, "Japan, Taiwan, Korea"),
-        ("2024-10-01", "Dalrymple Bay", 5.6, "Metallurgical", 55, "India, Japan, China"),
-        ("2024-10-01", "Gladstone", 5.9, "Combined", 61, "India, Japan, Korea"),
+    # Source XLSX exposes one "Coal" export column (tonnes) + a coal vessel-arrivals column,
+    # NOT split by thermal/metallurgical. We map to the frontend schema honestly:
+    #   port          = "Port of Newcastle" (single port; the CSV port field is decorative)
+    #   export_tonnes_mt = coal export tonnes / 1e6
+    #   coal_grade    = "Total (thermal + metallurgical combined)" — split not published by TfNSW
+    #   vessels_loaded_count = coal vessel arrivals
+    #   primary_destinations  = published by Port of Newcastle (Japan, China, India, Korea, ...)
+    coal_export = pd.to_numeric(body.iloc[:, 14], errors="coerce")
+    vessel_coal = pd.to_numeric(body.iloc[:, 25], errors="coerce")
 
-        ("2024-11-01", "Newcastle", 12.8, "Thermal", 135, "Japan, Taiwan, Korea"),
-        ("2024-11-01", "Dalrymple Bay", 5.3, "Metallurgical", 52, "India, Japan, China"),
-        ("2024-11-01", "Gladstone", 5.6, "Combined", 58, "India, Japan, Korea"),
+    out = pd.DataFrame({
+        "date": body["date"],
+        "port": "Port of Newcastle",
+        "export_tonnes_mt": (coal_export / 1e6).round(4),
+        "coal_grade": "Total (thermal + metallurgical combined)",
+        "vessels_loaded_count": vessel_coal.astype("Int64"),
+        "primary_destinations": "Japan, China, India, Korea, Taiwan, Malaysia, Mexico, New Caledonia",
+    })
+    out = out.dropna(subset=["export_tonnes_mt"], how="all").sort_values("date")
 
-        ("2024-12-01", "Newcastle", 14.1, "Thermal", 148, "Japan, Taiwan, Korea"),
-        ("2024-12-01", "Dalrymple Bay", 5.9, "Metallurgical", 58, "India, Japan, China"),
-        ("2024-12-01", "Gladstone", 6.2, "Combined", 64, "India, Japan, Korea"),
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    out.to_csv(OUT, index=False)
+    print(f"[newcastle] wrote {len(out)} rows ({out['date'].min()} .. {out['date'].max()}) -> {OUT.name}")
+    return out
 
-        # 2025
-        ("2025-01-01", "Newcastle", 12.2, "Thermal", 129, "Japan, Taiwan, Korea"),
-        ("2025-01-01", "Dalrymple Bay", 5.1, "Metallurgical", 50, "India, Japan, China"),
-        ("2025-01-01", "Gladstone", 5.4, "Combined", 56, "India, Japan, Korea"),
-
-        ("2025-02-01", "Newcastle", 11.4, "Thermal", 120, "Japan, Taiwan, Korea"),
-        ("2025-02-01", "Dalrymple Bay", 4.8, "Metallurgical", 47, "India, Japan, China"),
-        ("2025-02-01", "Gladstone", 5.0, "Combined", 52, "India, Japan, Korea"),
-
-        ("2025-03-01", "Newcastle", 12.9, "Thermal", 136, "Japan, Taiwan, Korea"),
-        ("2025-03-01", "Dalrymple Bay", 5.4, "Metallurgical", 53, "India, Japan, China"),
-        ("2025-03-01", "Gladstone", 5.7, "Combined", 59, "India, Japan, Korea"),
-
-        ("2025-04-01", "Newcastle", 12.6, "Thermal", 133, "Japan, Taiwan, Korea"),
-        ("2025-04-01", "Dalrymple Bay", 5.3, "Metallurgical", 52, "India, Japan, China"),
-        ("2025-04-01", "Gladstone", 5.6, "Combined", 58, "India, Japan, Korea"),
-
-        ("2025-05-01", "Newcastle", 13.7, "Thermal", 145, "Japan, Taiwan, Korea"),
-        ("2025-05-01", "Dalrymple Bay", 5.8, "Metallurgical", 57, "India, Japan, China"),
-        ("2025-05-01", "Gladstone", 6.1, "Combined", 63, "India, Japan, Korea"),
-
-        ("2025-06-01", "Newcastle", 14.2, "Thermal", 150, "Japan, Taiwan, Korea"),
-        ("2025-06-01", "Dalrymple Bay", 6.0, "Metallurgical", 59, "India, Japan, China"),
-        ("2025-06-01", "Gladstone", 6.3, "Combined", 65, "India, Japan, Korea"),
-
-        ("2025-07-01", "Newcastle", 13.0, "Thermal", 137, "Japan, Taiwan, Korea"),
-        ("2025-07-01", "Dalrymple Bay", 5.5, "Metallurgical", 54, "India, Japan, China"),
-        ("2025-07-01", "Gladstone", 5.8, "Combined", 60, "India, Japan, Korea"),
-
-        ("2025-08-01", "Newcastle", 13.5, "Thermal", 142, "Japan, Taiwan, Korea"),
-        ("2025-08-01", "Dalrymple Bay", 5.7, "Metallurgical", 56, "India, Japan, China"),
-        ("2025-08-01", "Gladstone", 6.0, "Combined", 62, "India, Japan, Korea"),
-
-        ("2025-09-01", "Newcastle", 13.8, "Thermal", 145, "Japan, Taiwan, Korea"),
-        ("2025-09-01", "Dalrymple Bay", 5.8, "Metallurgical", 57, "India, Japan, China"),
-        ("2025-09-01", "Gladstone", 6.1, "Combined", 63, "India, Japan, Korea"),
-
-        ("2025-10-01", "Newcastle", 14.0, "Thermal", 147, "Japan, Taiwan, Korea"),
-        ("2025-10-01", "Dalrymple Bay", 5.9, "Metallurgical", 58, "India, Japan, China"),
-        ("2025-10-01", "Gladstone", 6.2, "Combined", 64, "India, Japan, Korea"),
-
-        ("2025-11-01", "Newcastle", 13.4, "Thermal", 141, "Japan, Taiwan, Korea"),
-        ("2025-11-01", "Dalrymple Bay", 5.6, "Metallurgical", 55, "India, Japan, China"),
-        ("2025-11-01", "Gladstone", 5.9, "Combined", 61, "India, Japan, Korea"),
-
-        ("2025-12-01", "Newcastle", 14.8, "Thermal", 155, "Japan, Taiwan, Korea"),
-        ("2025-12-01", "Dalrymple Bay", 6.2, "Metallurgical", 61, "India, Japan, China"),
-        ("2025-12-01", "Gladstone", 6.5, "Combined", 67, "India, Japan, Korea"),
-
-        # 2026
-        ("2026-01-01", "Newcastle", 12.8, "Thermal", 135, "Japan, Taiwan, Korea"),
-        ("2026-01-01", "Dalrymple Bay", 5.3, "Metallurgical", 52, "India, Japan, China"),
-        ("2026-01-01", "Gladstone", 5.6, "Combined", 58, "India, Japan, Korea"),
-
-        ("2026-02-01", "Newcastle", 11.9, "Thermal", 125, "Japan, Taiwan, Korea"),
-        ("2026-02-01", "Dalrymple Bay", 5.0, "Metallurgical", 49, "India, Japan, China"),
-        ("2026-02-01", "Gladstone", 5.2, "Combined", 54, "India, Japan, Korea"),
-
-        ("2026-03-01", "Newcastle", 13.5, "Thermal", 142, "Japan, Taiwan, Korea"),
-        ("2026-03-01", "Dalrymple Bay", 5.7, "Metallurgical", 56, "India, Japan, China"),
-        ("2026-03-01", "Gladstone", 6.0, "Combined", 62, "India, Japan, Korea"),
-
-        ("2026-04-01", "Newcastle", 13.1, "Thermal", 138, "Japan, Taiwan, Korea"),
-        ("2026-04-01", "Dalrymple Bay", 5.5, "Metallurgical", 54, "India, Japan, China"),
-        ("2026-04-01", "Gladstone", 5.8, "Combined", 60, "India, Japan, Korea"),
-
-        ("2026-05-01", "Newcastle", 14.3, "Thermal", 151, "Japan, Taiwan, Korea"),
-        ("2026-05-01", "Dalrymple Bay", 6.1, "Metallurgical", 60, "India, Japan, China"),
-        ("2026-05-01", "Gladstone", 6.4, "Combined", 66, "India, Japan, Korea"),
-
-        ("2026-06-01", "Newcastle", 14.9, "Thermal", 157, "Japan, Taiwan, Korea"),
-        ("2026-06-01", "Dalrymple Bay", 6.3, "Metallurgical", 62, "India, Japan, China"),
-        ("2026-06-01", "Gladstone", 6.6, "Combined", 68, "India, Japan, Korea"),
-
-        ("2026-07-01", "Newcastle", 13.6, "Thermal", 143, "Japan, Taiwan, Korea"),
-        ("2026-07-01", "Dalrymple Bay", 5.8, "Metallurgical", 57, "India, Japan, China"),
-        ("2026-07-01", "Gladstone", 6.1, "Combined", 63, "India, Japan, Korea"),
-
-        ("2026-08-01", "Newcastle", 14.1, "Thermal", 148, "Japan, Taiwan, Korea"),
-        ("2026-08-01", "Dalrymple Bay", 6.0, "Metallurgical", 59, "India, Japan, China"),
-        ("2026-08-01", "Gladstone", 6.3, "Combined", 65, "India, Japan, Korea"),
-    ]
-
-    df = pd.DataFrame(records, columns=[
-        "date", "port", "export_tonnes_mt", "coal_grade", "vessels_loaded_count", "primary_destinations"
-    ])
-    df.to_csv(OUT_FILE, index=False)
-    df.to_csv(ALT_OUT_FILE, index=False)
-    logging.info("Wrote %d rows to %s and %s", len(df), OUT_FILE, ALT_OUT_FILE)
-    return df
 
 if __name__ == "__main__":
-    fetch_coal_monthly()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except Exception as exc:  # loud failure, never fabricate
+        raise SystemExit(f"[newcastle] FAILED: {exc}") from exc

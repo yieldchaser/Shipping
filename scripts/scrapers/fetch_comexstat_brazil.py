@@ -21,6 +21,7 @@ kg -> metric tonnes conversion: metric_tonnes = kgNetWeight / 1000 (exact).
 import json
 import logging
 import ssl
+import time
 import urllib.request
 from pathlib import Path
 
@@ -34,12 +35,13 @@ OUT_FILE = DATA_DIR / "brazil_comexstat_exports.csv"
 
 URL = "https://api-comexstat.mdic.gov.br/general"
 
-NCM_TARGETS = {
-    "Iron Ore": ["2601"],
-    "Crude Oil": ["2709"],
-    "Soybeans": ["1201"],
-    "Raw Sugar": ["1701"],
-}
+# Pacing: DISR/MDIC API is rate-limited (~heavy 429s under load). Space requests and
+# honour Retry-After. Per audit (2026-08-25): CI runs must pace requests so the
+# free tier is not exhausted mid-run (which previously left partial months).
+MIN_GAP_S = 1.2          # base spacing between queries
+JITTER_S = 0.8           # random jitter
+MAX_RETRIES = 4          # retries on 429/5xx before giving up on a month
+REQUEST_TIMEOUT = 30
 
 _CTX = ssl.create_default_context()
 _CTX.check_hostname = False
@@ -54,33 +56,58 @@ def query_year_month(ncm: str, year: int, month: int) -> list[dict]:
         "filters": [{"filter": "ncm", "values": [ncm]}],
         "metrics": ["fobValue", "kgNetWeight"],
     }
-    req = urllib.request.Request(
-        URL,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json",
-                 "Accept": "application/json",
-                 "User-Agent": "shipping-dashboard/1.0"},
-    )
-    with urllib.request.urlopen(req, timeout=30, context=_CTX) as r:
-        data = json.loads(r.read().decode("utf-8", "replace"))
-    return data.get("data") or []
+    last_err = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        req = urllib.request.Request(
+            URL,
+            data=json.dumps(payload).encode("utf-8"),
+            headers={"Content-Type": "application/json",
+                     "Accept": "application/json",
+                     "User-Agent": "shipping-dashboard/1.0"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT, context=_CTX) as r:
+                data = json.loads(r.read().decode("utf-8", "replace"))
+            return data.get("data") or []
+        except urllib.error.HTTPError as e:  # noqa: BLE001
+            last_err = f"{e.code} {e.reason}"
+            if e.code == 429 or e.code >= 500:
+                # honour Retry-After if present, else exponential backoff
+                ra = e.headers.get("Retry-After") if e.headers else None
+                wait = float(ra) if (ra and ra.isdigit()) else min(2 ** attempt * 3, 30)
+                logging.warning("ComexStat %d for %d-%02d (attempt %d); backing off %.1fs",
+                                e.code, year, month, attempt, wait)
+                time.sleep(wait)
+                continue
+            raise  # non-retryable (400/404 etc.) -> surface immediately
+        except Exception as e:  # noqa: BLE001
+            last_err = str(e)
+            time.sleep(min(2 ** attempt, 10))
+    logging.error("ComexStat gave up on %d-%02d after %d tries (%s)", year, month, MAX_RETRIES, last_err)
+    return []  # empty -> month skipped, not faked
 
 
 def main() -> pd.DataFrame:
     rows = []
     errors = []
-    for commodity, codes in NCM_TARGETS.items():
-        ncm = codes[0]
+    ncm_map = {
+        "Iron Ore": "2601",
+        "Crude Oil": "2709",
+        "Soybeans": "1201",
+        "Raw Sugar": "1701",
+    }
+    for commodity, ncm in ncm_map.items():
         for year in range(2024, 2027):
             for month in range(1, 13):
-                try:
-                    recs = query_year_month(ncm, year, month)
-                except Exception as e:  # noqa: BLE001
-                    # future months legitimately return empty/error; real failures surface here
-                    msg = f"{commodity} {year}-{month:02d}: {e}"
-                    if year == 2026 and month >= 8:
-                        continue
-                    errors.append(msg)
+                recs = query_year_month(ncm, year, month)
+                # pace requests to avoid 429 storms
+                time.sleep(MIN_GAP_S + (month % 3) * JITTER_S / 3)
+                if year == 2026 and month >= 8:
+                    continue  # future months legitimately empty
+                if not recs:
+                    # future/empty month for past dates is a real error worth noting
+                    if not (year == 2026 and month >= 8):
+                        errors.append(f"{commodity} {year}-{month:02d}: empty")
                     continue
                 for r in recs:
                     kg = float(r.get("kgNetWeight") or 0)
@@ -108,7 +135,7 @@ def main() -> pd.DataFrame:
     df.to_csv(OUT_FILE, index=False)
     logging.info("Wrote %d REAL API rows to %s", len(df), OUT_FILE)
     if errors:
-        logging.warning("%d month queries failed/skipped: %s", len(errors), errors[:5])
+        logging.warning("%d month queries returned empty (past dates): %s", len(errors), errors[:5])
     return df
 
 
