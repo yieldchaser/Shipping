@@ -36,6 +36,7 @@ jobs:
           python scripts/scrapers/fetch_eu_ets_carbon.py || true
           python scripts/scrapers/fetch_newcastle_coal.py || true
           python scripts/scrapers/fetch_australia_req.py || true
+          python scripts/scrapers/fetch_un_comtrade_bauxite.py || true
           python scripts/scrapers/generate_ton_mile_matrix.py || true
 
       - name: Commit and push if updated
