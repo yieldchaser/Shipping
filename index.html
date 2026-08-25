@@ -6859,6 +6859,10 @@
       renderETFDeconstructionEngine._chartTimer = setTimeout(function() {
         var canvas = document.getElementById('etfDeconstChart');
         if (!canvas) return;
+        // Chart.js loads via <script defer> from CDN; on a slow connection initApp's
+        // switchTab can reach this before it executes. Bail silently — tab switches
+        // re-invoke this renderer once Chart is available.
+        if (typeof Chart === 'undefined') return;
         destroyChart('etfDeconstChart');
         
         // Window global bindings for inline HTML event handler accessibility
@@ -12756,6 +12760,7 @@ if (intelTabsContainer) {
               ironOreExportsMt: parseFloat(row.iron_ore_exports_mt || 0) || null,
               momPct: parseFloat(row.mom_pct || 0) || null,
               yoyPct: parseFloat(row.yoy_pct || 0) || null,
+              provenance: (row.provenance || '').trim(),
             };
           }).filter(row => row.date != null);
         });
@@ -31852,10 +31857,19 @@ if (intelTabsContainer) {
           const port = target.getAttribute('data-tt-port') || 'Port Hedland';
           const share = target.getAttribute('data-tt-share') || '';
           const desc = target.getAttribute('data-tt-desc') || '';
+          const ppaRows = (window.DATA && (DATA.ppaIronOre || DATA.ppa_iron_ore)) || [];
+          const prov = (ppaRows.length && ppaRows[0].provenance) ? ppaRows[0].provenance :
+                       (ppaRows.length ? '' : '');
           html = `<div class="rt-title">Pilbara Port: ${port}</div>`;
           if (share) html += `<div class="rt-row"><span class="rt-label">Global Seaborne Share</span><span class="rt-val" style="color:#e3b341;">${share}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Primary Route</span><span class="rt-val">Capesize C5 (WAus to Qingdao)</span></div>`;
           if (desc) html += `<div class="rt-note">${desc}</div>`;
+          // Provenance disclosure: real PPA archive months vs. diagnostic estimates
+          if (prov === 'live_ppa_archive' || prov === 'live_ppa') {
+            html += `<div class="rt-note" style="color:#3fb950">Source: official PPA monthly cargo-statistics reports (${ppaRows.length} months, ${ppaRows[0].dateStr} → ${ppaRows[ppaRows.length-1].dateStr}) — real published figures via Internet Archive of pilbaraports.com.au. Port Hedland only; Dampier publishes separately.</div>`;
+          } else if (ppaRows.length === 0) {
+            html += `<div class="rt-note" style="color:#e3b341">No live feed reachable this run — figures shown are editorial estimates flagged DIAGNOSTIC in the CSV (provenance column), not published port data.</div>`;
+          }
         }
         else if (type === 'concept-port-hub-btn') {
           const name = target.getAttribute('data-tt-name') || 'Maritime Hub';

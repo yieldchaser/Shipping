@@ -1,26 +1,26 @@
 #!/usr/bin/env python3
 """
-Australia DISR Resources and Energy Quarterly (REQ) — REAL FEED PREFERRED, DIAGNOSTIC FALLBACK.
+Australia DISR Resources and Energy Quarterly (REQ) — REAL quarterly export volumes/values.
 
-The authoritative source is the DISR "Historical Tables" XLSX:
-    https://www.industry.gov.au/sites/default/files/<YYYY-MM>/resources-and-energy-quarterly-<mon>-<yyyy>-historical-data.xlsx
-It publishes quarterly export volumes (Mt) for Iron Ore, Metallurgical Coal, Thermal Coal,
-Bauxite & Alumina, LNG, etc.
+Authoritative source: DISR "Resources and Energy Quarterly" Historical Tables XLSX
+(sheet 16 = quarterly export VOLUMES, sheet 17 = quarterly export VALUES $m).
+Published by the Office of the Chief Economist.
 
-Behaviour (data-provenance policy, 2026-08-25 audit):
-  - Try to download + parse the live DISR workbook. If reachable, write REAL rows
-    with provenance=live_disr.
-  - If the live source is unreachable (bot-wall, network, 429), DO NOT fabricate. Instead
-    emit the frozen editorial estimate with provenance=editorial_estimate_diagnostic so the
-    chart stays functional while remaining honestly labelled. The frontend tooltip discloses
-    this.
-  - On ANY parse/structure error of a downloaded workbook, fail loudly (no silent swap).
+Acquisition order (data-provenance policy):
+  1. Live industry.gov.au URL (may be geo/bot-walled in some environments).
+  2. Internet Archive Wayback mirror of the same published artifact.
+  3. Local cached copy (scratch/req_jun2026_hist.xlsx) if present.
+If every route fails -> exit loudly; NO editorial estimates are written.
 
-Quarterly cadence: this scraper is intended to run after each DISR release (~quarterly).
+Parsed commodities -> frontend schema (data/commodities/australia_req_commodity_exports.csv):
+    Iron Ore, Metallurgical Coal, Thermal Coal, Bauxite, LNG
+Volumes converted to Mt; values converted to A$ billion.
+primary_vessel_class is a static factual descriptor of the dominant carrier class
+(industry fact, not a measured series).
 """
 import logging
+import os
 import ssl
-import sys
 import urllib.request
 from datetime import datetime
 from pathlib import Path
@@ -37,107 +37,172 @@ _CTX = ssl.create_default_context()
 _CTX.check_hostname = False
 _CTX.verify_mode = ssl.CERT_NONE
 
-# Frozen editorial estimates (DISR-style, illustrative) — ONLY used when the live
-# DISR feed is unreachable, and then clearly flagged as diagnostic in the output.
-EDITORIAL = [
-    # date, quarter, commodity, export_volume_mt, export_value_aud_b, primary_vessel_class
-    ("2024-03-31", "2024 Q1", "Iron Ore", 218.4, 28.5, "Capesize (C5/C3)"),
-    ("2024-03-31", "2024 Q1", "Metallurgical Coal", 38.2, 11.2, "Panamax / Capesize"),
-    ("2024-03-31", "2024 Q1", "Thermal Coal", 49.5, 7.8, "Panamax / Supramax"),
-    ("2024-03-31", "2024 Q1", "Bauxite", 9.8, 0.6, "Capesize / Ultramax"),
-    ("2024-03-31", "2024 Q1", "LNG", 20.4, 16.5, "LNG Carrier (174k)"),
-    ("2024-06-30", "2024 Q2", "Iron Ore", 228.6, 29.4, "Capesize (C5/C3)"),
-    ("2024-06-30", "2024 Q2", "Metallurgical Coal", 41.5, 12.1, "Panamax / Capesize"),
-    ("2024-06-30", "2024 Q2", "Thermal Coal", 52.1, 8.1, "Panamax / Supramax"),
-    ("2024-06-30", "2024 Q2", "Bauxite", 10.2, 0.7, "Capesize / Ultramax"),
-    ("2024-06-30", "2024 Q2", "LNG", 20.8, 17.1, "LNG Carrier (174k)"),
-    ("2024-09-30", "2024 Q3", "Iron Ore", 225.1, 27.9, "Capesize (C5/C3)"),
-    ("2024-09-30", "2024 Q3", "Metallurgical Coal", 40.8, 11.8, "Panamax / Capesize"),
-    ("2024-09-30", "2024 Q3", "Thermal Coal", 51.4, 7.9, "Panamax / Supramax"),
-    ("2024-09-30", "2024 Q3", "Bauxite", 10.1, 0.7, "Capesize / Ultramax"),
-    ("2024-09-30", "2024 Q3", "LNG", 20.6, 16.8, "LNG Carrier (174k)"),
-    ("2024-12-31", "2024 Q4", "Iron Ore", 236.8, 30.5, "Capesize (C5/C3)"),
-    ("2024-12-31", "2024 Q4", "Metallurgical Coal", 43.1, 12.5, "Panamax / Capesize"),
-    ("2024-12-31", "2024 Q4", "Thermal Coal", 54.2, 8.4, "Panamax / Supramax"),
-    ("2024-12-31", "2024 Q4", "Bauxite", 10.6, 0.7, "Capesize / Ultramax"),
-    ("2024-12-31", "2024 Q4", "LNG", 21.2, 17.5, "LNG Carrier (174k)"),
-    ("2025-03-31", "2025 Q1", "Iron Ore", 222.5, 28.9, "Capesize (C5/C3)"),
-    ("2025-03-31", "2025 Q1", "Metallurgical Coal", 39.4, 11.5, "Panamax / Capesize"),
-    ("2025-03-31", "2025 Q1", "Thermal Coal", 50.8, 7.9, "Panamax / Supramax"),
-    ("2025-03-31", "2025 Q1", "Bauxite", 10.0, 0.6, "Capesize / Ultramax"),
-    ("2025-03-31", "2025 Q1", "LNG", 20.7, 16.9, "LNG Carrier (174k)"),
-    ("2025-06-30", "2025 Q2", "Iron Ore", 233.0, 29.8, "Capesize (C5/C3)"),
-    ("2025-06-30", "2025 Q2", "Metallurgical Coal", 41.0, 12.0, "Panamax / Capesize"),
-    ("2025-06-30", "2025 Q2", "Thermal Coal", 53.0, 8.2, "Panamax / Supramax"),
-    ("2025-06-30", "2025 Q2", "Bauxite", 10.3, 0.7, "Capesize / Ultramax"),
-    ("2025-06-30", "2025 Q2", "LNG", 20.9, 17.2, "LNG Carrier (174k)"),
-    ("2025-09-30", "2025 Q3", "Iron Ore", 230.5, 29.2, "Capesize (C5/C3)"),
-    ("2025-09-30", "2025 Q3", "Metallurgical Coal", 40.5, 11.9, "Panamax / Capesize"),
-    ("2025-09-30", "2025 Q3", "Thermal Coal", 52.5, 8.3, "Panamax / Supramax"),
-    ("2025-09-30", "2025 Q3", "Bauxite", 10.4, 0.7, "Capesize / Ultramax"),
-    ("2025-09-30", "2025 Q3", "LNG", 20.9, 17.0, "LNG Carrier (174k)"),
-    ("2025-12-31", "2025 Q4", "Iron Ore", 241.5, 31.2, "Capesize (C5/C3)"),
-    ("2025-12-31", "2025 Q4", "Metallurgical Coal", 44.2, 12.8, "Panamax / Capesize"),
-    ("2025-12-31", "2025 Q4", "Thermal Coal", 55.6, 8.6, "Panamax / Supramax"),
-    ("2025-12-31", "2025 Q4", "Bauxite", 10.9, 0.8, "Capesize / Ultramax"),
-    ("2025-12-31", "2025 Q4", "LNG", 21.5, 17.8, "LNG Carrier (174k)"),
-    ("2026-03-31", "2026 Q1", "Iron Ore", 226.8, 29.5, "Capesize (C5/C3)"),
-    ("2026-03-31", "2026 Q1", "Metallurgical Coal", 40.5, 11.9, "Panamax / Capesize"),
-    ("2026-03-31", "2026 Q1", "Thermal Coal", 51.9, 8.1, "Panamax / Supramax"),
-    ("2026-03-31", "2026 Q1", "Bauxite", 10.3, 0.7, "Capesize / Ultramax"),
-    ("2026-03-31", "2026 Q1", "LNG", 21.0, 17.2, "LNG Carrier (174k)"),
-    ("2026-06-30", "2026 Q2", "Iron Ore", 238.2, 30.9, "Capesize (C5/C3)"),
-    ("2026-06-30", "2026 Q2", "Metallurgical Coal", 43.9, 12.7, "Panamax / Capesize"),
-    ("2026-06-30", "2026 Q2", "Thermal Coal", 54.8, 8.5, "Panamax / Supramax"),
-    ("2026-06-30", "2026 Q2", "Bauxite", 10.8, 0.8, "Capesize / Ultramax"),
-    ("2026-06-30", "2026 Q2", "LNG", 21.4, 17.6, "LNG Carrier (174k)"),
+# June-2026 edition (published Jul-2026; quarterly data through Mar-2026 actuals).
+EDITIONS = [
+    {
+        "tag": "jun2026",
+        "urls": [
+            "https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-jun-2026-historical-data.xlsx",
+            "https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx",
+            "https://web.archive.org/web/20260727061548if_/https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx",
+        ],
+        "cache": ROOT / "scratch" / "req_jun2026_hist.xlsx",
+    },
+]
+
+VOLUME_SHEET = "16"
+VALUE_SHEET = "17"
+HEADER_ROW = 6          # row holding quarter-end datetimes ('unit' sits beside them)
+FIRST_DATA_COL = 7      # first quarter column in sheet 16 (sheet 17 shifts by -1)
+
+# label prefix in col 5 -> canonical commodity name (+ its dominant carrier class, factual)
+TARGETS = [
+    {"label_prefix": "Bauxite",       "commodity": "Bauxite",             "vessel": "Capesize / Ultramax"},
+    {"label_prefix": "Iron ore",      "commodity": "Iron Ore",            "vessel": "Capesize (C5/C3)"},
+    {"label_prefix": "Metallurgical", "commodity": "Metallurgical Coal",  "vessel": "Panamax / Capesize"},
+    {"label_prefix": "Thermal",       "commodity": "Thermal Coal",        "vessel": "Panamax / Supramax"},
+    {"label_prefix": "LNG",           "commodity": "LNG",                 "vessel": "LNG Carrier (174k)"},
 ]
 
 
-def _try_live_disr() -> pd.DataFrame | None:
-    """Best-effort download of the latest DISR historical workbook; return parsed df or None."""
-    # Probe the two most-recent DISR releases (Dec-2025, Jun-2026).
-    candidates = [
-        "https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx",
-        "https://www.industry.gov.au/sites/default/files/2025-12/resources-and-energy-quarterly-december-2025-historical-data.xlsx",
-    ]
-    for url in candidates:
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=90, context=_CTX) as r:
-                raw = r.read()
-            if len(raw) < 1000:
-                continue
-            tmp = ROOT / "scratch" / "req_live.xlsx"
-            tmp.write_bytes(raw)
-            # Parse: locate iron ore / coal / bauxite / LNG rows per quarter.
-            xl = pd.ExcelFile(tmp)
-            # (Parsing logic depends on workbook layout; DISR historical tables are wide.)
-            # If we can't confidently map, return None to fall through to diagnostic.
-            logging.info("DISR workbook downloaded (%d bytes) but structured parse not implemented; falling back to diagnostic.", len(raw))
-            return None
-        except Exception as e:  # noqa: BLE001
-            logging.warning("DISR live fetch failed for %s: %s", url.split('/')[-1], e)
+def _download(url: str, dest: Path) -> bool:
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=120, context=_CTX) as r:
+            raw = r.read()
+        if len(raw) < 100_000:  # xlsx is ~3.6MB; anything smaller is an error page
+            logging.warning("Suspiciously small payload (%d bytes) from %s", len(raw), url[:80])
+            return False
+        dest.write_bytes(raw)
+        return True
+    except Exception as e:  # noqa: BLE001
+        logging.warning("Fetch failed %s: %s", url[:90], e)
+        return False
+
+
+def _acquire_workbook() -> tuple[Path, str]:
+    """Return (local_path, source_tag); raises if nothing obtainable."""
+    tmp = ROOT / "scratch" / "req_live.xlsx"
+    tmp.parent.mkdir(exist_ok=True)
+    for ed in EDITIONS:
+        if ed["cache"].exists() and ed["cache"].stat().st_size > 100_000:
+            return ed["cache"], f"{ed['tag']}+cache"
+        for i, u in enumerate(ed["urls"]):
+            tag = f"{ed['tag']}+{'wayback' if 'web.archive.org' in u else 'live'}"
+            if _download(u, tmp):
+                return tmp, tag
+            _ = i  # noqa
+    raise SystemExit("REQ historical workbook unobtainable (live + archive + cache all failed). "
+                     "NO data written — investigate network or update EDITIONS.")
+
+
+def _find_row(df: pd.DataFrame, label_prefix: str, col: int = 5, start: int = 7) -> int | None:
+    for i in range(start, len(df)):
+        v = df.iloc[i, col]
+        if pd.notna(v) and str(v).strip().startswith(label_prefix):
+            return i
     return None
 
 
-def _emit(records: list, provenance: str) -> pd.DataFrame:
-    df = pd.DataFrame(records, columns=[
-        "date", "quarter", "commodity", "export_volume_mt", "export_value_aud_b", "primary_vessel_class", "provenance"
-    ])
-    df["provenance"] = provenance
-    df.to_csv(OUT_FILE, index=False)
-    logging.info("Wrote %d rows (provenance=%s) -> %s", len(df), provenance, OUT_FILE)
+def _header_dates(df: pd.DataFrame, header_row: int, first_col: int) -> list[tuple[int, datetime]]:
+    out = []
+    for j in range(first_col, df.shape[1]):
+        v = df.iloc[header_row, j]
+        if isinstance(v, datetime):
+            out.append((j, v))
+    return out
+
+
+def parse_workbook(xlsx_path: Path, tag: str) -> pd.DataFrame:
+    xl = pd.ExcelFile(xlsx_path)
+
+    vol = xl.parse(VOLUME_SHEET, header=None)
+    val = None
+    if VALUE_SHEET in xl.sheet_names:
+        val = xl.parse(VALUE_SHEET, header=None)
+
+    dates_vol = _header_dates(vol, HEADER_ROW, FIRST_DATA_COL)
+    if len(dates_vol) < 20:
+        raise SystemExit(f"Unexpected sheet {VOLUME_SHEET} layout: only {len(dates_vol)} quarter columns found")
+
+    # sheet 17 header: labels in col 5, values start col 6 (one left of sheet 16)
+    dates_val = _header_dates(val, HEADER_ROW, FIRST_DATA_COL - 1) if val is not None else []
+
+    def value_lookup(commodity_label_prefixes: list[str]) -> dict[datetime, float]:
+        """Map quarter-end -> $m value from sheet 17 for the matching row."""
+        out: dict[datetime, float] = {}
+        if val is None:
+            return out
+        for pref in commodity_label_prefixes:
+            r = _find_row(val, pref)
+            if r is None:
+                continue
+            for j, d in dates_val:
+                v = val.iloc[r, j]
+                if pd.notna(v):
+                    try:
+                        out[d] = float(v)
+                    except (TypeError, ValueError):
+                        pass
+                    break_flag = True
+            if out:
+                break
+        return out
+
+    rows = []
+    for t in TARGETS:
+        r_vol = _find_row(vol, t["label_prefix"])
+        if r_vol is None:
+            logging.warning("Row '%s' not found in sheet %s — skipped", t["label_prefix"], VOLUME_SHEET)
+            continue
+        unit = str(vol.iloc[r_vol, FIRST_DATA_COL - 1]).strip().lower() if pd.notna(vol.iloc[r_vol, FIRST_DATA_COL - 1]) else ""
+        div = 1000.0 if unit.startswith("kt") else 1.0  # kt -> Mt ; Mt stays
+        vals = {}
+        for j, d in dates_vol:
+            v = vol.iloc[r_vol, j]
+            if pd.notna(v):
+                try:
+                    vals[d] = float(v) / div
+                except (TypeError, ValueError):
+                    pass
+        # value rows use slightly different label text; try both prefixes
+        val_pref = {"Iron Ore": ["Iron ore"], "Bauxite": ["Bauxite"],
+                    "Metallurgical Coal": ["Metallurgical"], "Thermal Coal": ["Thermal"],
+                    "LNG": ["LNG"]}[t["commodity"]]
+        vmap = value_lookup(val_pref)
+
+        for d, mt in sorted(vals.items()):
+            q = f"{d.year} Q{(d.month - 1)//3 + 1}"
+            aud_b = round(vmap[d] / 1000.0, 3) if d in vmap else ""
+            rows.append({
+                "date": d.strftime("%Y-%m-%d"),
+                "quarter": q,
+                "commodity": t["commodity"],
+                "export_volume_mt": round(mt, 3),
+                "export_value_aud_b": aud_b,
+                "primary_vessel_class": t["vessel"],
+                "provenance": f"live_disr_{tag}",
+            })
+
+    df = pd.DataFrame(rows).drop_duplicates(subset=["date", "commodity"]) \
+        .sort_values(["date", "commodity"]).reset_index(drop=True)
+    if df.empty:
+        raise SystemExit("Parsed zero rows from REQ workbook — layout changed? NO data written.")
     return df
 
 
 def main() -> pd.DataFrame:
-    live = _try_live_disr()
-    if live is not None and len(live):
-        return _emit(list(live.itertuples(index=False, name=None)), "live_disr")
-    # No live feed reachable: emit clearly-flagged diagnostic estimates (chart stays usable).
-    logging.warning("DISR live feed unreachable — emitting EDITORIAL ESTIMATE flagged DIAGNOSTIC (not real data).")
-    return _emit([r + (datetime.utcnow().strftime("%Y-%m-%d"),) for r in EDITORIAL], "editorial_estimate_diagnostic")
+    path, tag = _acquire_workbook()
+    logging.info("Parsing %s (%s)", path.name, tag)
+    df = parse_workbook(path, tag)
+    df.to_csv(OUT_FILE, index=False)
+    span = f"{df['date'].min()} .. {df['date'].max()}"
+    logging.info("Wrote %d REAL DISR rows (%s) -> %s", len(df), span, OUT_FILE.name)
+    for c in sorted(df["commodity"].unique()):
+        sub = df[df["commodity"] == c]
+        last = sub.iloc[-1]
+        logging.info("  %-20s last: %s  %s Mt", c, last["quarter"], last["export_volume_mt"])
+    return df
 
 
 if __name__ == "__main__":

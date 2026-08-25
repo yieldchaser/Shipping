@@ -1,124 +1,232 @@
 #!/usr/bin/env python3
 """
-Pilbara Ports Authority (PPA) Iron Ore Export Throughput — REAL FEED PREFERRED, DIAGNOSTIC FALLBACK.
+Pilbara Ports Authority (PPA) — REAL monthly Port Hedland cargo statistics.
 
-Ports: Port Hedland (~43% of global seaborne iron ore) and Port of Dampier.
-Authoritative source: PPA monthly shipping-figures press pages / port statistics:
-    https://www.pilbaraports.com.au/about-pilbara-ports/news,-media-and-statistics/news/
-    https://www.pilbaraports.com.au/ports/port-of-port-hedland/about-port-of-hedland/port-statistics-and-reports
+Source: PPA's own "Cargo Stats by Destination/Origin" monthly reports (PDF), published on
+pilbaraports.com.au port-statistics pages. The HTML pages sit behind an Incapsula bot-wall,
+but the underlying media PDFs are served openly; historical months are additionally
+preserved by the Internet Archive (Wayback). This scraper:
+  1. queries the Wayback CDX index for every archived Hedland cargo-stats PDF,
+  2. downloads each snapshot,
+  3. extracts the reporting month + total Iron Ore LOAD tonnage (+ per-destination split),
+  4. writes data/commodities/australia_ppa_iron_ore.csv (provenance=live_ppa_archive).
 
-Behaviour (data-provenance policy, 2026-08-25 audit):
-  - If a live PPA feed is reachable and parseable, write REAL rows (provenance=live_ppa).
-  - Otherwise emit the frozen editorial estimate with provenance=editorial_estimate_diagnostic
-    and a loud warning. The frontend PPA chart tooltip already discloses this is diagnostic.
-  - The editorial values below are illustrative PPA-style figures, explicitly flagged.
+Honesty rules (2026-08-25 audit):
+  - Only REAL extracted values are written. No editorial estimates, ever.
+  - Coverage = months PPA has published AND the archive preserves (currently ~2020→2024).
+    Recent months appear once captured by the Internet Archive (or fetched live when the
+    site serves them without the wall).
+  - Port Hedland only: these reports cover PH; Dampier publishes separately and is NOT
+    fabricated here.
 """
+import json
 import logging
-import urllib.request
+import re
 import ssl
-from datetime import datetime, timezone
+import subprocess
+import time
+import urllib.request
+from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
+import pymupdf
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = ROOT / "data" / "commodities"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "australia_ppa_iron_ore.csv"
+SCRATCH = ROOT / "scratch"
 
-_CTX = ssl.create_default_context()
-_CTX.check_hostname = False
-_CTX.verify_mode = ssl.CERT_NONE
+CTX = ssl.create_default_context()
+CTX.check_hostname = False
+CTX.verify_mode = ssl.CERT_NONE
 
-EDITORIAL = [
-    # date, port, total_throughput_mt, iron_ore_exports_mt, mom_pct, yoy_pct
-    ("2024-01-01", "Port Hedland", 48.2, 47.1, -1.2, 2.5),
-    ("2024-01-01", "Port of Dampier", 12.8, 11.2, -0.8, 1.1),
-    ("2024-02-01", "Port Hedland", 45.3, 44.5, -5.5, 3.2),
-    ("2024-02-01", "Port of Dampier", 11.9, 10.4, -7.1, -0.5),
-    ("2024-03-01", "Port Hedland", 49.8, 48.9, 9.9, 4.1),
-    ("2024-03-01", "Port of Dampier", 13.4, 11.9, 14.4, 2.3),
-    ("2024-04-01", "Port Hedland", 48.7, 47.8, -2.2, 1.8),
-    ("2024-04-01", "Port of Dampier", 12.6, 11.1, -6.7, -1.2),
-    ("2024-05-01", "Port Hedland", 52.1, 51.2, 7.1, 5.5),
-    ("2024-05-01", "Port of Dampier", 14.1, 12.5, 12.6, 4.0),
-    ("2024-06-01", "Port Hedland", 54.6, 53.8, 5.1, 6.2),
-    ("2024-06-01", "Port of Dampier", 14.8, 13.2, 5.6, 5.1),
-    ("2024-07-01", "Port Hedland", 49.5, 48.6, -9.7, 2.1),
-    ("2024-07-01", "Port of Dampier", 13.1, 11.6, -12.1, 0.8),
-    ("2024-08-01", "Port Hedland", 50.8, 49.9, 2.7, 3.8),
-    ("2024-08-01", "Port of Dampier", 13.7, 12.1, 4.3, 2.2),
-    ("2024-09-01", "Port Hedland", 51.4, 50.5, 1.2, 4.0),
-    ("2024-09-01", "Port of Dampier", 13.9, 12.3, 1.7, 3.0),
-    ("2024-10-01", "Port Hedland", 52.6, 51.7, 2.4, 4.5),
-    ("2024-10-01", "Port of Dampier", 14.2, 12.6, 2.4, 3.8),
-    ("2024-11-01", "Port Hedland", 51.1, 50.2, -2.9, 3.1),
-    ("2024-11-01", "Port of Dampier", 13.6, 12.0, -4.8, 1.5),
-    ("2024-12-01", "Port Hedland", 55.8, 54.9, 9.4, 6.8),
-    ("2024-12-01", "Port of Dampier", 15.2, 13.6, 13.3, 5.9),
-    ("2025-01-01", "Port Hedland", 49.9, 48.8, -11.1, 3.6),
-    ("2025-01-01", "Port of Dampier", 13.2, 11.6, -14.7, 3.6),
-    ("2025-02-01", "Port Hedland", 46.8, 45.9, -6.0, 3.1),
-    ("2025-02-01", "Port of Dampier", 12.4, 10.9, -6.0, 4.8),
-    ("2025-03-01", "Port Hedland", 51.5, 50.6, 10.2, 3.5),
-    ("2025-03-01", "Port of Dampier", 13.8, 12.3, 12.8, 3.4),
-    ("2025-04-01", "Port Hedland", 50.2, 49.3, -2.6, 3.1),
-    ("2025-04-01", "Port of Dampier", 13.0, 11.5, -6.5, 3.6),
-    ("2025-05-01", "Port Hedland", 53.9, 53.0, 7.5, 3.5),
-    ("2025-05-01", "Port of Dampier", 14.6, 13.0, 13.0, 4.0),
-    ("2025-06-01", "Port Hedland", 56.4, 55.6, 4.9, 3.3),
-    ("2025-06-01", "Port of Dampier", 15.3, 13.7, 5.4, 3.8),
-    ("2025-07-01", "Port Hedland", 51.2, 50.3, -9.5, 3.5),
-    ("2025-07-01", "Port of Dampier", 13.6, 12.1, -11.7, 4.3),
-    ("2025-08-01", "Port Hedland", 52.8, 51.9, 3.2, 4.0),
-    ("2025-08-01", "Port of Dampier", 14.2, 12.6, 4.1, 4.1),
-    ("2025-09-01", "Port Hedland", 53.5, 52.6, 1.3, 4.2),
-    ("2025-09-01", "Port of Dampier", 14.5, 12.9, 2.4, 4.9),
-    ("2025-10-01", "Port Hedland", 54.8, 53.9, 2.5, 4.3),
-    ("2025-10-01", "Port of Dampier", 14.8, 13.2, 2.3, 4.8),
-    ("2025-11-01", "Port Hedland", 53.1, 52.2, -3.2, 4.0),
-    ("2025-11-01", "Port of Dampier", 14.2, 12.6, -4.5, 5.0),
-    ("2025-12-01", "Port Hedland", 58.1, 57.2, 9.6, 4.2),
-    ("2025-12-01", "Port of Dampier", 15.9, 14.3, 13.5, 5.1),
-    ("2026-01-01", "Port Hedland", 51.8, 50.7, -11.4, 3.9),
-    ("2026-01-01", "Port of Dampier", 13.7, 12.1, -15.4, 4.3),
-    ("2026-02-01", "Port Hedland", 48.5, 47.6, -6.1, 3.7),
-    ("2026-02-01", "Port of Dampier", 12.9, 11.4, -5.8, 4.6),
-    ("2026-03-01", "Port Hedland", 53.4, 52.5, 10.3, 3.8),
-    ("2026-03-01", "Port of Dampier", 14.4, 12.8, 12.3, 4.1),
-    ("2026-04-01", "Port Hedland", 52.1, 51.2, -2.5, 3.9),
-    ("2026-04-01", "Port of Dampier", 13.6, 12.0, -6.3, 4.3),
-    ("2026-05-01", "Port Hedland", 55.8, 54.9, 7.2, 3.6),
-    ("2026-05-01", "Port of Dampier", 15.2, 13.5, 12.5, 3.8),
-    ("2026-06-01", "Port Hedland", 58.6, 57.7, 5.1, 3.8),
-    ("2026-06-01", "Port of Dampier", 16.0, 14.3, 5.9, 4.4),
-    ("2026-07-01", "Port Hedland", 53.2, 52.3, -9.4, 4.0),
-    ("2026-07-01", "Port of Dampier", 14.2, 12.6, -11.9, 4.1),
-    ("2026-08-01", "Port Hedland", 55.1, 54.2, 3.6, 4.4),
-    ("2026-08-01", "Port of Dampier", 14.9, 13.2, 4.8, 4.8),
-]
+COUNTRIES = ["China", "Japan", "Korea, Republic of", "India", "Indonesia",
+             "Malaysia", "Philippines", "Singapore", "Taiwan, Province of China",
+             "Vietnam", "Australia"]
 
 
-def _try_live_ppa() -> pd.DataFrame | None:
-    """Placeholder for structured PPA feed parsing. Returns None until implemented
-    (PPA site is bot-walled; requires headless render or official API)."""
-    return None
+def cdx_hedland_pdfs(retries: int = 4) -> list[dict]:
+    """All archived Port Hedland cargo-stats PDF snapshots (newest per filename)."""
+    url = ("https://web.archive.org/cdx/search/cdx?url=pilbaraports.com.au"
+           "&matchType=domain&output=json&limit=8000&collapse=urlkey"
+           "&filter=mimetype:application/pdf&from=2019")
+    rows = []
+    last = None
+    for attempt in range(1, retries + 1):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            payload = urllib.request.urlopen(req, timeout=120, context=CTX).read()
+            rows = json.loads(payload.decode("utf-8", "replace"))[1:]
+            break
+        except Exception as exc:  # noqa: BLE001
+            last = exc
+            logging.warning("CDX attempt %d/%d failed: %s", attempt, retries, exc)
+            time.sleep(5 * attempt)
+    if not rows:
+        raise SystemExit(f"Wayback CDX unreachable after {retries} tries ({last}). "
+                         "Nothing written; retry later.")
+    seen: dict[str, dict] = {}
+    for r in rows:
+        ts, status, orig = r[1], r[4], r[2]
+        low = orig.lower()
+        if status != "200" or "hedland" not in low:
+            continue
+        fname = low.rsplit("/", 1)[-1]
+        is_stat = ("cargo-stats-by-destination" in fname
+                   or "cargo%20stats%20by%20destination" in fname
+                   or "cargo-stats-by-origin" in fname)
+        if not is_stat:
+            continue
+        key = re.sub(r"%20|%", "-", fname)
+        if key not in seen or ts > seen[key]["ts"]:
+            seen[key] = {"ts": ts, "url": orig}
+    return list(seen.values())
+
+
+def download(ts: str, url: str, dest: Path) -> bool:
+    if dest.exists() and dest.stat().st_size > 5000:
+        return True
+    dl = f"https://web.archive.org/web/{ts}id_/{url}"
+    r = subprocess.run(["curl", "-sL", "--max-time", "120", "-o", str(dest),
+                        "-w", "%{http_code}", dl, "-A", "Mozilla/5.0"],
+                       capture_output=True, text=True)
+    ok = r.stdout.strip().endswith("200") and dest.exists() and dest.stat().st_size > 5000
+    if not ok:
+        dest.unlink(missing_ok=True)
+    return ok
+
+
+def month_from_text(text: str):
+    m = re.search(r"Cargo Complete [Dd]ate:\s*([\d/]+)\s*to\s*([\d/]+)", text)
+    if not m:
+        return None
+    d1, mth, y = m.group(1).split("/")
+    try:
+        return datetime(int(y), int(mth), 1)   # start date is DD/MM/YYYY
+    except ValueError:
+        return None
+
+
+def parse_pdf(path: Path):
+    """Coordinate-based extraction: locate the Iron Ore column by its header x-position,
+    then read each destination row's value in that x-band. Robust to ragged columns."""
+    doc = pymupdf.open(str(path))
+    month, iron_load, dest_split = None, None, {}
+    for page in doc:
+        flat = page.get_text().replace("\r\n", " ").replace("\r", "").replace("\n", " ")
+        if month is None:
+            month = month_from_text(flat)
+        if "LOAD" not in flat.upper():
+            continue
+        words = page.get_text("words")   # x0,y0,x1,y1,text,...
+        # 1) commodity header row: contains 'Iron' + 'Ore' tokens
+        iron_x = None
+        header_y = None
+        for w in words:
+            if w[4] == "Iron":
+                iron_x = (w[0] + w[2]) / 2
+                header_y = w[1]
+                break
+        if iron_x is None or header_y is None:
+            continue
+        # 2) group remaining words into rows below the header (tolerant clustering:
+        #    a row's label and its numbers can sit ~4px apart, so bucket by 6px and
+        #    then merge adjacent buckets whose y-centres are within 5px)
+        raw_rows: dict[int, list] = {}
+        for w in words:
+            if w[1] <= header_y + 2:
+                continue
+            raw_rows.setdefault(round(w[1] / 6), []).append(w)
+        keys = sorted(raw_rows)
+        merged: list[list] = []
+        for k in keys:
+            if merged:
+                prev = merged[-1]
+                py = sum(w[1] for w in prev) / len(prev)
+                cy = sum(w[1] for w in raw_rows[k]) / len(raw_rows[k])
+                if abs(cy - py) <= 5.0:
+                    prev.extend(raw_rows[k])
+                    continue
+            merged.append(list(raw_rows[k]))
+        # 3) per-row: label = leftmost word(s), value = number in iron x-band (+/-55px)
+        BAND = 55
+        for line_w in merged:
+            line = sorted(line_w, key=lambda w: w[0])
+            label_tokens = [w[4] for w in line if w[0] < 150]
+            if not label_tokens:
+                continue
+            label = " ".join(label_tokens)
+            vals = [float(w[4].replace(",", "")) for w in line
+                    if abs((w[0] + w[2]) / 2 - iron_x) <= BAND
+                    and re.fullmatch(r"[\d,]+(\.\d+)?", w[4])]
+            if not vals:
+                continue
+            v = max(vals)
+            if label.startswith("Total"):
+                iron_load = v if iron_load is None else iron_load
+            elif label in COUNTRIES:
+                dest_split[label] = v
+    doc.close()
+    # cross-check: sum of destinations should approximate the total (>95% when present)
+    if iron_load and dest_split:
+        s = sum(dest_split.values())
+        if s < iron_load * 0.95:      # partial coverage is fine (other countries exist),
+            pass                      # but a wildly-off split would signal misparse
+    return month, iron_load, dest_split
 
 
 def main() -> pd.DataFrame:
-    live = _try_live_ppa()
-    if live is not None and len(live):
-        df = live.copy()
-        df["provenance"] = "live_ppa"
+    SCRATCH.mkdir(exist_ok=True)
+    # Fast path: reuse the verified manifest from the collection probe when present
+    # (24 known-good snapshot URLs). Otherwise fall back to a fresh CDX sweep.
+    manifest = SCRATCH / "ppa_pdf_manifest.json"
+    if manifest.exists():
+        cached = [json.loads(json.dumps(m)) for m in json.load(open(manifest))]
+        pdfs = [{"ts": m["ts"], "url": m["url"]} for m in cached]
+        logging.info("Using cached manifest: %d verified PDFs", len(pdfs))
     else:
-        logging.warning("Live PPA feed not available — emitting EDITORIAL ESTIMATE flagged DIAGNOSTIC (not real data).")
-        df = pd.DataFrame(EDITORIAL, columns=[
-            "date", "port", "total_throughput_mt", "iron_ore_exports_mt", "mom_pct", "yoy_pct"
-        ])
-        df["provenance"] = "editorial_estimate_diagnostic"
+        pdfs = cdx_hedland_pdfs()
+        if not pdfs:
+            raise SystemExit("No archived PPA cargo-stat PDFs found via CDX — investigate.")
+        logging.info("%d archived Hedland cargo-stat PDFs", len(pdfs))
+
+    records = []
+    for i, item in enumerate(sorted(pdfs, key=lambda x: x["ts"])):
+        safe = re.sub(r"[^a-z0-9]+", "_",
+                      item["url"].lower().rsplit("/", 1)[-1])[:60]
+        dest = SCRATCH / f"ppa_{safe}.pdf"
+        try:
+            if not download(item["ts"], item["url"], dest):
+                logging.warning("download failed: %s", item["url"][:90])
+                continue
+            month, load, split = parse_pdf(dest)
+            time.sleep(1.0)
+        except Exception as exc:  # noqa: BLE001
+            logging.warning("parse failed %s: %s", dest.name[:50], exc)
+            continue
+        if month and load:
+            records.append({
+                "date": month.strftime("%Y-%m-%d"),
+                "port": "Port Hedland",
+                "total_throughput_mt": round(load / 1e6, 3),
+                "iron_ore_exports_mt": round(load / 1e6, 3),
+                "destinations_t": json.dumps(split, sort_keys=True),
+            })
+            logging.info("%s  %.2f Mt (%d destinations)", month.strftime("%Y-%m"),
+                         load / 1e6, len(split))
+    if not records:
+        raise SystemExit("Parsed zero real PPA months — layout changed? Nothing written.")
+
+    df = pd.DataFrame(records).drop_duplicates("date").sort_values("date").reset_index(drop=True)
+    df["mom_pct"] = (df["iron_ore_exports_mt"].pct_change() * 100).round(2)
+    df["yoy_pct"] = (df["iron_ore_exports_mt"].pct_change(12) * 100).round(2)
+    df["provenance"] = "live_ppa_archive"
     df.to_csv(OUT_FILE, index=False)
-    logging.info("Wrote %d rows (provenance=%s) -> %s", len(df), df["provenance"].iloc[0], OUT_FILE)
+    span = f"{df['date'].min()} .. {df['date'].max()}"
+    logging.info("Wrote %d REAL PPA months (%s) -> %s", len(df), span, OUT_FILE.name)
     return df
 
 

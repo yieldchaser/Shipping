@@ -1,65 +1,16 @@
-date,port,total_throughput_mt,iron_ore_exports_mt,mom_pct,yoy_pct,provenance
-2024-01-01,Port Hedland,48.2,47.1,-1.2,2.5,editorial_estimate_diagnostic
-2024-01-01,Port of Dampier,12.8,11.2,-0.8,1.1,editorial_estimate_diagnostic
-2024-02-01,Port Hedland,45.3,44.5,-5.5,3.2,editorial_estimate_diagnostic
-2024-02-01,Port of Dampier,11.9,10.4,-7.1,-0.5,editorial_estimate_diagnostic
-2024-03-01,Port Hedland,49.8,48.9,9.9,4.1,editorial_estimate_diagnostic
-2024-03-01,Port of Dampier,13.4,11.9,14.4,2.3,editorial_estimate_diagnostic
-2024-04-01,Port Hedland,48.7,47.8,-2.2,1.8,editorial_estimate_diagnostic
-2024-04-01,Port of Dampier,12.6,11.1,-6.7,-1.2,editorial_estimate_diagnostic
-2024-05-01,Port Hedland,52.1,51.2,7.1,5.5,editorial_estimate_diagnostic
-2024-05-01,Port of Dampier,14.1,12.5,12.6,4.0,editorial_estimate_diagnostic
-2024-06-01,Port Hedland,54.6,53.8,5.1,6.2,editorial_estimate_diagnostic
-2024-06-01,Port of Dampier,14.8,13.2,5.6,5.1,editorial_estimate_diagnostic
-2024-07-01,Port Hedland,49.5,48.6,-9.7,2.1,editorial_estimate_diagnostic
-2024-07-01,Port of Dampier,13.1,11.6,-12.1,0.8,editorial_estimate_diagnostic
-2024-08-01,Port Hedland,50.8,49.9,2.7,3.8,editorial_estimate_diagnostic
-2024-08-01,Port of Dampier,13.7,12.1,4.3,2.2,editorial_estimate_diagnostic
-2024-09-01,Port Hedland,51.4,50.5,1.2,4.0,editorial_estimate_diagnostic
-2024-09-01,Port of Dampier,13.9,12.3,1.7,3.0,editorial_estimate_diagnostic
-2024-10-01,Port Hedland,52.6,51.7,2.4,4.5,editorial_estimate_diagnostic
-2024-10-01,Port of Dampier,14.2,12.6,2.4,3.8,editorial_estimate_diagnostic
-2024-11-01,Port Hedland,51.1,50.2,-2.9,3.1,editorial_estimate_diagnostic
-2024-11-01,Port of Dampier,13.6,12.0,-4.8,1.5,editorial_estimate_diagnostic
-2024-12-01,Port Hedland,55.8,54.9,9.4,6.8,editorial_estimate_diagnostic
-2024-12-01,Port of Dampier,15.2,13.6,13.3,5.9,editorial_estimate_diagnostic
-2025-01-01,Port Hedland,49.9,48.8,-11.1,3.6,editorial_estimate_diagnostic
-2025-01-01,Port of Dampier,13.2,11.6,-14.7,3.6,editorial_estimate_diagnostic
-2025-02-01,Port Hedland,46.8,45.9,-6.0,3.1,editorial_estimate_diagnostic
-2025-02-01,Port of Dampier,12.4,10.9,-6.0,4.8,editorial_estimate_diagnostic
-2025-03-01,Port Hedland,51.5,50.6,10.2,3.5,editorial_estimate_diagnostic
-2025-03-01,Port of Dampier,13.8,12.3,12.8,3.4,editorial_estimate_diagnostic
-2025-04-01,Port Hedland,50.2,49.3,-2.6,3.1,editorial_estimate_diagnostic
-2025-04-01,Port of Dampier,13.0,11.5,-6.5,3.6,editorial_estimate_diagnostic
-2025-05-01,Port Hedland,53.9,53.0,7.5,3.5,editorial_estimate_diagnostic
-2025-05-01,Port of Dampier,14.6,13.0,13.0,4.0,editorial_estimate_diagnostic
-2025-06-01,Port Hedland,56.4,55.6,4.9,3.3,editorial_estimate_diagnostic
-2025-06-01,Port of Dampier,15.3,13.7,5.4,3.8,editorial_estimate_diagnostic
-2025-07-01,Port Hedland,51.2,50.3,-9.5,3.5,editorial_estimate_diagnostic
-2025-07-01,Port of Dampier,13.6,12.1,-11.7,4.3,editorial_estimate_diagnostic
-2025-08-01,Port Hedland,52.8,51.9,3.2,4.0,editorial_estimate_diagnostic
-2025-08-01,Port of Dampier,14.2,12.6,4.1,4.1,editorial_estimate_diagnostic
-2025-09-01,Port Hedland,53.5,52.6,1.3,4.2,editorial_estimate_diagnostic
-2025-09-01,Port of Dampier,14.5,12.9,2.4,4.9,editorial_estimate_diagnostic
-2025-10-01,Port Hedland,54.8,53.9,2.5,4.3,editorial_estimate_diagnostic
-2025-10-01,Port of Dampier,14.8,13.2,2.3,4.8,editorial_estimate_diagnostic
-2025-11-01,Port Hedland,53.1,52.2,-3.2,4.0,editorial_estimate_diagnostic
-2025-11-01,Port of Dampier,14.2,12.6,-4.5,5.0,editorial_estimate_diagnostic
-2025-12-01,Port Hedland,58.1,57.2,9.6,4.2,editorial_estimate_diagnostic
-2025-12-01,Port of Dampier,15.9,14.3,13.5,5.1,editorial_estimate_diagnostic
-2026-01-01,Port Hedland,51.8,50.7,-11.4,3.9,editorial_estimate_diagnostic
-2026-01-01,Port of Dampier,13.7,12.1,-15.4,4.3,editorial_estimate_diagnostic
-2026-02-01,Port Hedland,48.5,47.6,-6.1,3.7,editorial_estimate_diagnostic
-2026-02-01,Port of Dampier,12.9,11.4,-5.8,4.6,editorial_estimate_diagnostic
-2026-03-01,Port Hedland,53.4,52.5,10.3,3.8,editorial_estimate_diagnostic
-2026-03-01,Port of Dampier,14.4,12.8,12.3,4.1,editorial_estimate_diagnostic
-2026-04-01,Port Hedland,52.1,51.2,-2.5,3.9,editorial_estimate_diagnostic
-2026-04-01,Port of Dampier,13.6,12.0,-6.3,4.3,editorial_estimate_diagnostic
-2026-05-01,Port Hedland,55.8,54.9,7.2,3.6,editorial_estimate_diagnostic
-2026-05-01,Port of Dampier,15.2,13.5,12.5,3.8,editorial_estimate_diagnostic
-2026-06-01,Port Hedland,58.6,57.7,5.1,3.8,editorial_estimate_diagnostic
-2026-06-01,Port of Dampier,16.0,14.3,5.9,4.4,editorial_estimate_diagnostic
-2026-07-01,Port Hedland,53.2,52.3,-9.4,4.0,editorial_estimate_diagnostic
-2026-07-01,Port of Dampier,14.2,12.6,-11.9,4.1,editorial_estimate_diagnostic
-2026-08-01,Port Hedland,55.1,54.2,3.6,4.4,editorial_estimate_diagnostic
-2026-08-01,Port of Dampier,14.9,13.2,4.8,4.8,editorial_estimate_diagnostic
+date,port,total_throughput_mt,iron_ore_exports_mt,destinations_t,mom_pct,yoy_pct,provenance
+2020-10-01,Port Hedland,46.477,46.477,"{""Australia"": 9528.5, ""China"": 39720902.0, ""Indonesia"": 428354.0, ""Japan"": 2119934.0, ""Korea, Republic of"": 3708489.0, ""Taiwan, Province of China"": 499504.0}",,,live_ppa_archive
+2020-11-01,Port Hedland,41.625,41.625,"{""China"": 34444480.0, ""Indonesia"": 430215.0, ""Japan"": 1169510.0, ""Korea, Republic of"": 5105364.0, ""Philippines"": 11608.0, ""Taiwan, Province of China"": 302800.0}",-10.44,,live_ppa_archive
+2020-12-01,Port Hedland,46.499,46.499,"{""Australia"": 137498.0, ""China"": 39962625.0, ""Indonesia"": 592492.0, ""Japan"": 2337564.0, ""Korea, Republic of"": 2782756.0, ""Malaysia"": 77000.0, ""Philippines"": 203691.0, ""Taiwan, Province of China"": 320020.0}",11.71,,live_ppa_archive
+2021-02-01,Port Hedland,37.488,37.488,"{""China"": 30730632.0, ""Indonesia"": 517166.0, ""Japan"": 2204385.0, ""Korea, Republic of"": 3041080.0, ""Taiwan, Province of China"": 297600.0}",-19.38,,live_ppa_archive
+2021-05-01,Port Hedland,48.049,48.049,"{""Australia"": 177453.0, ""China"": 40189183.0, ""Indonesia"": 361268.0, ""Japan"": 2477540.0, ""Korea, Republic of"": 3407876.0, ""Malaysia"": 77000.0, ""Taiwan, Province of China"": 448459.0}",28.17,,live_ppa_archive
+2021-06-01,Port Hedland,50.376,50.376,"{""China"": 42019148.0, ""Indonesia"": 903325.0, ""Japan"": 2422001.0, ""Korea, Republic of"": 3965561.0, ""Taiwan, Province of China"": 894717.0}",4.84,,live_ppa_archive
+2021-08-01,Port Hedland,43.925,43.925,"{""China"": 35912894.0, ""Indonesia"": 728478.0, ""Japan"": 2802424.0, ""Korea, Republic of"": 3552412.0, ""Singapore"": 56.4, ""Taiwan, Province of China"": 575944.0}",-12.81,,live_ppa_archive
+2021-09-01,Port Hedland,46.984,46.984,"{""China"": 38623546.0, ""Indonesia"": 352550.0, ""Japan"": 2811398.0, ""Korea, Republic of"": 3937535.0, ""Malaysia"": 77000.0, ""Philippines"": 42935.0, ""Taiwan, Province of China"": 893590.0, ""Vietnam"": 245200.0}",6.96,,live_ppa_archive
+2021-10-01,Port Hedland,46.697,46.697,"{""China"": 39098056.0, ""Indonesia"": 560506.0, ""Japan"": 1879587.0, ""Korea, Republic of"": 3846596.0, ""Malaysia"": 98962.0, ""Philippines"": 177726.0, ""Taiwan, Province of China"": 473531.0, ""Vietnam"": 406345.0}",-0.61,,live_ppa_archive
+2023-03-01,Port Hedland,45.763,45.763,"{""China"": 40406990.0, ""Indonesia"": 830458.0, ""Japan"": 1602697.0, ""Korea, Republic of"": 1954925.0, ""Malaysia"": 168952.0, ""Taiwan, Province of China"": 276332.0, ""Vietnam"": 522200.0}",-2.0,,live_ppa_archive
+2023-04-01,Port Hedland,43.268,43.268,"{""China"": 35525370.0, ""Indonesia"": 359712.0, ""Japan"": 2433122.0, ""Korea, Republic of"": 3236880.0, ""Malaysia"": 180404.0, ""Taiwan, Province of China"": 712322.0, ""Vietnam"": 819764.0}",-5.45,,live_ppa_archive
+2023-06-01,Port Hedland,51.929,51.929,"{""China"": 45596793.0, ""India"": 577593.0, ""Indonesia"": 441577.0, ""Japan"": 1935520.0, ""Korea, Republic of"": 2902974.0, ""Malaysia"": 338307.0, ""Philippines"": 11498.0, ""Taiwan, Province of China"": 136598.0}",20.02,,live_ppa_archive
+2023-09-01,Port Hedland,45.075,45.075,"{""China"": 39382016.0, ""India"": 558428.0, ""Indonesia"": 364036.0, ""Japan"": 1008214.0, ""Korea, Republic of"": 3113463.0, ""Taiwan, Province of China"": 294943.0, ""Vietnam"": 353571.0}",-13.2,-3.02,live_ppa_archive
+2023-10-01,Port Hedland,46.892,46.892,"{""China"": 39663722.0, ""India"": 373459.0, ""Indonesia"": 821668.0, ""Japan"": 1891966.0, ""Korea, Republic of"": 2595637.0, ""Malaysia"": 400138.0, ""Philippines"": 181048.0, ""Singapore"": 795.26, ""Taiwan, Province of China"": 435194.0, ""Vietnam"": 528762.0}",4.03,12.65,live_ppa_archive
+2024-05-01,Port Hedland,51.941,51.941,"{""Australia"": 2365.23, ""China"": 45329014.0, ""India"": 332579.0, ""Indonesia"": 360249.0, ""Japan"": 1693515.0, ""Korea, Republic of"": 2857800.0, ""Malaysia"": 317725.0, ""Philippines"": 78209.0, ""Taiwan, Province of China"": 276194.0, ""Vietnam"": 695306.0}",10.77,11.7,live_ppa_archive
