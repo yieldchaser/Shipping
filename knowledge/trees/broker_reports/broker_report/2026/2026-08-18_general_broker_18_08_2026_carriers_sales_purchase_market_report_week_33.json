@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33__root",
+  "doc_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33",
+  "parent_id": null,
+  "title": "Carriers Sales & Purchase Market Report, Week 33",
+  "section_path": [
+    "Carriers Sales & Purchase Market Report, Week 33"
+  ],
+  "section_path_text": "Carriers Sales & Purchase Market Report, Week 33",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 17th August 2026\n**Broker**: Xclusiv\n**Published Date**: 18/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-17th-august-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-17th-august-2026/)\n\nMarket Report Content\nDry Bulk Deals Gather Pace\nThe dry bulk Sale & Purchase market remained highly ac-\ntive during the first seven months of 2026, with 496 bulk\ncarriers changing hands, compared to 428 vessels during\nthe corresponding period of 2025, representing a 16%\nyear-on-year increase. Activity accelerated particularly\nduring May, when a remarkable 90 transactions were\nconcluded, making it the busiest month of the year, while\nmonthly sales remained consistently above 2025 levels\nfor most of the period. The sustained level of transactions\nreflects continued confidence in dry bulk asset values,\nsupported by a healthier freight environment and im-\nproving underlying market fundamentals compared to\nlast year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2798,
+  "source_path": "reports/broker_reports/2026/general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33.md",
+  "source_url": "https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33__s01_carriers_sales_purchase_market_report_week_33",
+      "doc_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33",
+      "parent_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33__root",
+      "title": "Carriers Sales & Purchase Market Report, Week 33",
+      "section_path": [
+        "Carriers Sales & Purchase Market Report, Week 33"
+      ],
+      "section_path_text": "Carriers Sales & Purchase Market Report, Week 33",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 18/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33",
+      "parent_id": "broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Week 33, 17th August 2026\nSALES & PURCHASE MARKET REPORT\nCarriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "aframax",
+        "lng",
+        "lpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2717,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
