@@ -31250,18 +31250,18 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">US Gulf seaborne crude exports represent the largest incremental growth driver for long-haul tanker ton-miles. Transatlantic shipments to Europe replace short-haul North Sea barrels, while USG-to-Asia runs (~15,200 nm) absorb VLCC capacity for 60+ days.</div>`;
         }
         else if (type === 'concept-port-congestion' || type === 'concept-portwatch-congestion' || type === 'portwatch-header') {
-          html = `<div class="rt-title">Global Port Congestion & Anchorage Queue Factor</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Monitoring Network</span><span class="rt-val">IMF PortWatch ArcGIS Spatial AIS Layer across 1,985 Ports</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Core Hubs</span><span class="rt-val">Qingdao, Ningbo, Caofeidian, Port Hedland, Singapore, Rotterdam, Houston</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Bottleneck Alert</span><span class="rt-val" style="color:#ff7b72">>3.0 Days Avg Waiting Time = Fleet Supply Contraction</span></div>`;
-          html += `<div class="rt-note">Anchorage delays function as an immediate multiplier on vessel supply deficits. When 50+ Capesize or VLCC vessels are anchored at discharge ports, hundreds of vessel-days are temporarily removed from active spot availability, accelerating rate spikes.</div>`;
+          html = `<div class="rt-title">Global Port Activity Monitor (IMF PortWatch)</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Data Source</span><span class="rt-val">IMF PortWatch Daily_Ports_Data (measured AIS port calls &amp; tonnages)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Core Hubs</span><span class="rt-val">Qingdao, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Fields Shown</span><span class="rt-val">Daily port calls (total / dry bulk) and dry-bulk import tonnage (kt)</span></div>`;
+          html += `<div class="rt-note">2026-08-25 data audit: the previous waiting-time / anchored-ships series was found to be simulated rather than measured and has been withdrawn. This chart now displays only fields actually published by IMF PortWatch. Port-call surges at discharge hubs remain a leading proxy for Capesize supply tightness.</div>`;
         }
         else if (type === 'concept-carbon-ets' || type === 'carbon-ets-header') {
           html = `<div class="rt-title">EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics</div>`;
-          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">Singapore / Rotterdam VLSFO (0.5%) − HSFO (3.5%) ($/MT)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2) — live OilPriceAPI observations</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">VLSFO − HSFO ($/MT), Ship &amp; Bunker port snapshots</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Scrubber Formula</span><span class="rt-val" style="color:#3fb950">Daily Fuel Consumption (MT) × Hi-5 Spread ($/MT)</span></div>`;
-          html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. EU ETS surcharges add explicit drag on Europe-bound voyages.</div>`;
+          html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. 2026-08-25 audit: fabricated back-history removed — series now accumulates only live daily observations, so early history may be sparse while the archive builds.</div>`;
         }
         else if (type === 'concept-ton-mile-sim' || type === 'ton-mile-header') {
           html = `<div class="rt-title">Ton-Mile Absorption & Active Fleet Utilization Model</div>`;
