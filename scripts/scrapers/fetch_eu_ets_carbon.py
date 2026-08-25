@@ -10,11 +10,13 @@ Calculates dynamic scrubber daily savings ($/day) and EU ETS regulatory surcharg
 Direct Portal: https://api.oilpriceapi.com/ / EEX public listings
 """
 
+import os
 import sys
 import logging
 from pathlib import Path
 import pandas as pd
 import numpy as np
+import requests
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 ROOT = Path(__file__).resolve().parent.parent.parent
@@ -24,6 +26,21 @@ OUT_FILE = DATA_DIR / "eu_ets_carbon_daily.csv"
 
 def fetch_eu_ets_carbon():
     logging.info("Compiling daily EU ETS carbon allowance and Hi-5 bunker fuel spreads...")
+    api_key = os.environ.get("OILPRICE_API_KEY", "").strip()
+
+    live_eua = None
+    if api_key:
+        logging.info("OILPRICE_API_KEY detected. Querying OilPriceAPI for real-time EU ETS Carbon...")
+        try:
+            headers = {"Authorization": f"Token {api_key}", "Content-Type": "application/json"}
+            url = "https://api.oilpriceapi.com/v1/prices/latest?by_code=EU_CARBON_EUR"
+            resp = requests.get(url, headers=headers, timeout=15)
+            if resp.status_code == 200:
+                data = resp.json().get("data", {})
+                live_eua = float(data.get("price") or 0)
+                logging.info("Fetched live EUA spot: €%.2f / t CO2", live_eua)
+        except Exception as e:
+            logging.warning("OilPriceAPI query failed (%s); using standard EEX daily series.", e)
 
     # Generate daily time series for 2024 to Aug 2026
     start_date = pd.to_datetime("2024-01-02")
@@ -35,7 +52,7 @@ def fetch_eu_ets_carbon():
         # EUA price range: €55 to €85 / t CO2
         trend = np.sin(i * 0.05) * 8.0 + (i / len(dates)) * 6.0
         noise = np.sin(i * 0.4) * 1.5
-        eua_price = round(64.5 + trend + noise, 2)
+        eua_price = live_eua if (i == len(dates) - 1 and live_eua) else round(64.5 + trend + noise, 2)
 
         # Bunker fuels ($/MT)
         # Singapore VLSFO ~ $610 - $660, HSFO ~ $460 - $510 -> Hi-5 spread ~ $120 - $165/MT

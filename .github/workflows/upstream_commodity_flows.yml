@@ -23,6 +23,10 @@ jobs:
           pip install requests pandas beautifulsoup4 lxml openpyxl
 
       - name: Run Upstream Commodity & Congestion Scrapers
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+          COMTRADE_API_KEY: ${{ secrets.COMTRADE_API_KEY }}
+          OILPRICE_API_KEY: ${{ secrets.OILPRICE_API_KEY }}
         run: |
           python scripts/scrapers/fetch_comexstat_brazil.py || true
           python scripts/scrapers/fetch_ppa_iron_ore.py || true
