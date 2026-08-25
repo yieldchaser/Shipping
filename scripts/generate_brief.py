@@ -1039,17 +1039,22 @@ def load_physical_signals_context() -> str:
                 le = eia_rows[-1]
                 lines.append(f"  • US EIA Petroleum Exports ({le.get('date', '')}): US Total Crude {float(le.get('us_total_crude_exports_kbpd', 0)):,.0f} kbpd | PADD 3 Gulf Coast {float(le.get('padd3_gulf_crude_exports_kbpd', 0)):,.0f} kbpd | 4W Avg {float(le.get('crude_4w_avg_kbpd', 0)):,.0f} kbpd (TD22 VLCC & TD25 Aframax Driver)")
 
-        # 11d. IMF PortWatch Congestion
+        # 11d. IMF PortWatch Port Activity (measured fields only)
         p_cong = ROOT / "data" / "congestion" / "portwatch_port_congestion.csv"
         if p_cong.exists():
             with open(p_cong, encoding="utf-8") as f:
                 cong_rows = list(csv.DictReader(f))
             if cong_rows:
-                q_rows = [r for r in cong_rows if r.get('port_code') == 'CNQDG']
-                s_rows = [r for r in cong_rows if r.get('port_code') == 'SGSIN']
-                r_rows = [r for r in cong_rows if r.get('port_code') == 'NLRTM']
-                if q_rows and s_rows and r_rows:
-                    lines.append(f"  • PortWatch Anchorage Queues: Qingdao {float(q_rows[-1].get('waiting_days_7dma', 0)):.1f}d wait ({q_rows[-1].get('vessels_at_anchorage', 0)} ships) | Singapore {float(s_rows[-1].get('waiting_days_7dma', 0)):.1f}d wait ({s_rows[-1].get('vessels_at_anchorage', 0)} ships) | Rotterdam {float(r_rows[-1].get('waiting_days_7dma', 0)):.1f}d wait")
+                latest_d = cong_rows[-1].get('date', '')
+                day_rows = [r for r in cong_rows if r.get('date') == latest_d]
+                parts = []
+                for r in day_rows:
+                    port = r.get('port_name') or r.get('hub_code') or '?'
+                    calls = int(float(r.get('daily_port_calls_total') or 0))
+                    bulk_kt = float(r.get('import_dry_bulk_kt') or 0)
+                    parts.append(f"{port}: {calls} calls, {bulk_kt:,.0f} kt dry-bulk imports")
+                if parts:
+                    lines.append(f"  • IMF PortWatch Port Activity ({latest_d}): " + " | ".join(parts[:4]) + " (measured AIS port calls)")
 
         # 11e. EU ETS Carbon & Scrubber Economics
         p_carb = ROOT / "data" / "derived" / "eu_ets_carbon_daily.csv"
