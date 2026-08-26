@@ -104,7 +104,21 @@ def load_existing_csv(path: Path) -> list[dict]:
     if not path.exists():
         return []
     with path.open("r", newline="", encoding="utf-8") as handle:
-        return list(csv.DictReader(handle))
+        rows = list(csv.DictReader(handle))
+    # Normalize ISO dates (yyyy-mm-dd) to the poller's dd-mm-yyyy convention so
+    # restored deep history (which uses ISO) is not silently DROPPED by
+    # normalize_rows' parse_date (dd-mm-yyyy only). Dropping history on each poll
+    # was the root cause of the 2-row BLPG/BLNG/FBX files (2026-08-26).
+    out = []
+    for row in rows:
+        d = (row.get("Date") or row.get("date") or "").strip()
+        if len(d) == 10 and d[4] == "-" and d[7] == "-":
+            try:
+                row["Date"] = datetime.strptime(d, "%Y-%m-%d").strftime(DATE_FMT)
+            except ValueError:
+                pass
+        out.append(row)
+    return out
 
 
 def write_csv(path: Path, rows: list[dict]):
