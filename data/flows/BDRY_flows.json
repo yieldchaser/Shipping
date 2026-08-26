@@ -29499,6 +29499,34 @@
       "flow_20d": 0.0,
       "regime": "BALANCED",
       "pressure": 6.5048
+    },
+    {
+      "date": "2026-08-24",
+      "usd_flow": 0.0,
+      "nav": 14.56,
+      "perf_pct": -0.0081,
+      "cumulative_flow": -40955000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": 0.0,
+      "flow_zscore": 0.1826,
+      "flow_5d": 0.0,
+      "flow_20d": 0.0,
+      "regime": "BALANCED",
+      "pressure": 4.5644
+    },
+    {
+      "date": "2026-08-25",
+      "usd_flow": 0.0,
+      "nav": 14.99,
+      "perf_pct": 0.0292,
+      "cumulative_flow": -40955000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": 0.0,
+      "flow_zscore": 0.1826,
+      "flow_5d": 0.0,
+      "flow_20d": 0.0,
+      "regime": "BALANCED",
+      "pressure": 4.5644
     }
   ]
 }
