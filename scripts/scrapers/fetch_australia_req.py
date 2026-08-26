@@ -50,6 +50,10 @@ EDITIONS = [
     },
 ]
 
+# Repo-tracked fallback copies (data/cache is committed): CI runners get the real
+# workbook even when industry.gov.au and web.archive.org are both unreachable.
+REPO_CACHES = [ROOT / "data" / "cache" / "req_jun2026_hist.xlsx"]
+
 VOLUME_SHEET = "16"
 VALUE_SHEET = "17"
 HEADER_ROW = 6          # row holding quarter-end datetimes ('unit' sits beside them)
@@ -84,15 +88,20 @@ def _acquire_workbook() -> tuple[Path, str]:
     """Return (local_path, source_tag); raises if nothing obtainable."""
     tmp = ROOT / "scratch" / "req_live.xlsx"
     tmp.parent.mkdir(exist_ok=True)
+    last_err = None
     for ed in EDITIONS:
         if ed["cache"].exists() and ed["cache"].stat().st_size > 100_000:
             return ed["cache"], f"{ed['tag']}+cache"
-        for i, u in enumerate(ed["urls"]):
+        for u in ed["urls"]:
             tag = f"{ed['tag']}+{'wayback' if 'web.archive.org' in u else 'live'}"
             if _download(u, tmp):
                 return tmp, tag
-            _ = i  # noqa
-    raise SystemExit("REQ historical workbook unobtainable (live + archive + cache all failed). "
+    # All remote routes failed. Fall back to the repo-tracked workbook copy
+    # (data/cache is committed precisely so CI runners always have the real file).
+    for cand in REPO_CACHES:
+        if cand.exists() and cand.stat().st_size > 100_000:
+            return cand, f"{ed['tag']}+repo-cache"
+    raise SystemExit(f"REQ historical workbook unobtainable ({last_err}). "
                      "NO data written — investigate network or update EDITIONS.")
 
 
