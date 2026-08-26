@@ -86,17 +86,20 @@ def cdx_hedland_pdfs(retries: int = 4) -> list[dict]:
     return list(seen.values())
 
 
-def download(ts: str, url: str, dest: Path) -> bool:
+def download(ts: str, url: str, dest: Path, tries: int = 3) -> bool:
     if dest.exists() and dest.stat().st_size > 5000:
         return True
     dl = f"https://web.archive.org/web/{ts}id_/{url}"
-    r = subprocess.run(["curl", "-sL", "--max-time", "120", "-o", str(dest),
-                        "-w", "%{http_code}", dl, "-A", "Mozilla/5.0"],
-                       capture_output=True, text=True)
-    ok = r.stdout.strip().endswith("200") and dest.exists() and dest.stat().st_size > 5000
-    if not ok:
-        dest.unlink(missing_ok=True)
-    return ok
+    for attempt in range(1, tries + 1):
+        r = subprocess.run(["curl", "-sL", "--max-time", "120", "-o", str(dest),
+                            "-w", "%{http_code}", dl, "-A", "Mozilla/5.0"],
+                           capture_output=True, text=True)
+        ok = r.stdout.strip().endswith("200") and dest.exists() and dest.stat().st_size > 5000
+        if ok:
+            return True
+        time.sleep(4 * attempt)   # Wayback throttles bursts; brief backoff then retry
+    dest.unlink(missing_ok=True)
+    return False
 
 
 def month_from_text(text: str):
@@ -201,6 +204,7 @@ def main() -> pd.DataFrame:
         try:
             if not download(item["ts"], item["url"], dest):
                 logging.warning("download failed: %s", item["url"][:90])
+                time.sleep(2.0)   # extra breathing room before the next snapshot
                 continue
             month, load, split = parse_pdf(dest)
             time.sleep(1.0)
