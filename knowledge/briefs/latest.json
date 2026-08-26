@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:57:19.475391+00:00",
+  "generated_at": "2026-08-26T17:20:05.939620+00:00",
   "brief_date": "2026-08-26",
   "constituent_holdings": {
     "bdry": {
@@ -7,46 +7,46 @@
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Sep 26",
         "ticker": "C5TCM U26 INDEX",
         "lots": 155.0,
-        "price": 42354.0,
-        "market_value": 6564870.0,
-        "weight": 20.49
+        "price": 44079.0,
+        "market_value": 6832245.0,
+        "weight": 20.72
       },
       "next_contract": {
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Aug 26",
         "ticker": "C5TCM Q26 INDEX",
         "lots": 155.0,
-        "price": 39482.0,
-        "market_value": 6119710.0,
-        "weight": 19.11
+        "price": 39679.0,
+        "market_value": 6150245.0,
+        "weight": 18.65
       },
-      "implied_roll_yield_pct": 6.78,
+      "implied_roll_yield_pct": 9.98,
       "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Sep 26 settling above $42,354/day with 6.8% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 20.3% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Sep 26 settling above $44,079/day with 10.0% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 29.9% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 15
     },
     "bwet": {
       "prompt_contract": {
+        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Oct 26",
+        "ticker": "DD3CM V26 INDEX",
+        "lots": 357.0,
+        "price": 125.734,
+        "market_value": 44887038.0,
+        "weight": 22.77
+      },
+      "next_contract": {
         "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26",
         "ticker": "DD3CM U26 INDEX",
         "lots": 335.0,
-        "price": 136.42,
-        "market_value": 45700700.0,
-        "weight": 21.02
+        "price": 133.84,
+        "market_value": 44836400.0,
+        "weight": 22.74
       },
-      "next_contract": {
-        "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Oct 26",
-        "ticker": "DD3CM V26 INDEX",
-        "lots": 332.0,
-        "price": 127.32,
-        "market_value": 42270240.0,
-        "weight": 19.44
-      },
-      "implied_roll_yield_pct": 6.67,
-      "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26 settling above WS 136.4 (~$136,420/d) with 6.7% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 20.0% cumulative 3-month backwardation carry.",
+      "implied_roll_yield_pct": -6.45,
+      "curve_regime": "CONTANGO_DRAG",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Oct 26 settling above WS 125.7 (~$125,734/d) with 6.5% monthly contango drag.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 19.4% cumulative 3-month contango drag.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
       "total_active_contracts": 10
     }
