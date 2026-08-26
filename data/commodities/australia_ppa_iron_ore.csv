@@ -1,4 +1,16 @@
-date,port,total_throughput_mt,iron_ore_exports_mt,destinations_t,mom_pct,yoy_pct,provenance
-2020-11-01,Port Hedland,41.625,41.625,"{""China"": 34444480.0, ""Indonesia"": 430215.0, ""Japan"": 1169510.0, ""Korea, Republic of"": 5105364.0, ""Philippines"": 11608.0, ""Taiwan, Province of China"": 302800.0}",,,live_ppa_archive
-2021-02-01,Port Hedland,37.488,37.488,"{""China"": 30730632.0, ""Indonesia"": 517166.0, ""Japan"": 2204385.0, ""Korea, Republic of"": 3041080.0, ""Taiwan, Province of China"": 297600.0}",-9.94,,live_ppa_archive
-2021-05-01,Port Hedland,48.049,48.049,"{""Australia"": 177453.0, ""China"": 40189183.0, ""Indonesia"": 361268.0, ""Japan"": 2477540.0, ""Korea, Republic of"": 3407876.0, ""Malaysia"": 77000.0, ""Taiwan, Province of China"": 448459.0}",28.17,,live_ppa_archive
+date,iron_ore_exports_mt,total_throughput_mt,port,destinations_t,mom_pct,yoy_pct,provenance
+2020-10-01,46.477,46.477,,,,,live_ppa_archive
+2020-11-01,41.625,41.625,,,-10.44,,live_ppa_archive
+2020-12-01,46.503,46.503,,,11.72,,live_ppa_archive
+2021-02-01,37.488,37.488,,,-19.39,,live_ppa_archive
+2021-05-01,48.049,48.049,,,28.17,,live_ppa_archive
+2021-06-01,50.384,50.384,,,4.86,,live_ppa_archive
+2021-08-01,43.924,43.924,,,-12.82,,live_ppa_archive
+2021-09-01,46.982,46.982,,,6.96,,live_ppa_archive
+2021-10-01,46.704,46.704,,,-0.59,,live_ppa_archive
+2023-03-01,45.761,45.761,,,-2.02,,live_ppa_archive
+2023-04-01,43.272,43.272,,,-5.44,,live_ppa_archive
+2023-06-01,51.934,51.934,,,20.02,,live_ppa_archive
+2023-09-01,45.073,45.073,,,-13.21,-3.02,live_ppa_archive
+2023-10-01,46.886,46.886,,,4.02,12.64,live_ppa_archive
+2024-05-01,51.941,51.941,,,10.78,11.69,live_ppa_archive
