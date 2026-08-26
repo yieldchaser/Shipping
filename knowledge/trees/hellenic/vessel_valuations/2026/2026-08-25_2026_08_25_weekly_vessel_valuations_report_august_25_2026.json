@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, August 25 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, August 25 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, August 25 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers\nSupramax values firmed this week following evidence of more strong pricing, as seen in the sales of the Gramos and Global Oriole. Kamsarmax BBG Wuzhou (81,900 DWT, 2016, Tsuneishi Zhoushan) sold Auction, SS/DD Due to Indian buyers for USD 29 mil, VV Value USD 30.8 mil. Ultramax Gramos (61,000 DWT, 2019, Nantong COSCO KHI) sold to Greek buyers for USD 34.5 mil, VV Value USD 33.3 mil.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "china",
+    "india",
+    "usd",
+    "mil",
+    "sold",
+    "mil."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1736,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-08-25_weekly-vessel-valuations-report-august-25-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-august-25-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers\nSupramax values firmed this week following evidence of more strong pricing, as seen in the sales of the Gramos and Global Oriole. Kamsarmax BBG Wuzhou (81,900 DWT, 2016, Tsuneishi Zhoushan) sold Auction, SS/DD Due to Indian buyers for USD 29 mil, VV Value USD 30.8 mil.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "container",
+        "china",
+        "india",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 621,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__s02_linked_asset_2026_08_25_weekly_vessel_valuations_report_august_25_2026_img1_2508202633_96d50e087797_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-08-25_2026_08_25_weekly_vessel_valuations_report_august_25_2026__root",
+      "title": "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg",
+      "section_path": [
+        "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg\n\nLinked image asset: 2026-08-25_weekly-vessel-valuations-report-august-25-2026_img1_2508202633_96d50e087797.jpg\n\nImage metadata: JPEG 687x307 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[structured table]\n| 25 August | 2026 | | | | | VV Mini | Matrix - | Weekly Change | | | |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| | | | Tankers | | | | Bulkers | | Containers | | |\n| Yer | vice | Seer | fre | ua | MR | Cape | Pex | Mandy | eet Pour | Maney | Poms |\n| . | 0% | | 102% | om | 22.5% | 05% | | 04% | 10.1% | 33% | |\n| | | ise | 13k | 7k | Se | | at | | 20 | 1730 | 1100 |\n| | 19% | 1a | +0 | ons | | 05% | oo | | 101% | | |\n| | | 1908 | | 7k | Soh | | | ok | 7000 | 1780 | 1100 |\n| .",
+      "keywords": [
+        "capesize",
+        "container",
+        "ons",
+        "soe",
+        "asset",
+        "ast",
+        "august",
+        "bulkers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1071,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

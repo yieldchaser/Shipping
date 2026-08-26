@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T09:04:29Z",
+  "generated_at": "2026-08-26T11:15:29Z",
   "current_date": "2026-08-26",
-  "warning_count": 7,
+  "warning_count": 6,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,47 +11,9 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {
-      "watch": 1
-    }
+    "divergences": {}
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "vlcc_and_suezmax",
-      "message": "VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
-      "details": {
-        "topic_id": "vlcc_and_suezmax",
-        "title": "VLCC and Suezmax",
-        "severity": "watch",
-        "score_diff": 0.75,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-08-19"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.38,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-08-25"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-08-24"
-          }
-        ],
-        "message": "VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_source_gap",
