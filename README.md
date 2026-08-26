@@ -71,10 +71,10 @@ Updated via Baltic Ticker public API (`scripts/baltic_new_indices.py`) and TAC I
 
 | File Path | Index Description | Code | Start Date | Rows | Schema |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|| `data/indices/blng_historical.csv` | Baltic LNG Freight Index | BLNG | 01-01-2020 | ~1,995 | `Date, Index, % Change` |
-|| `data/indices/blpg_historical.csv` | Baltic LPG Freight Index | BLPG | 01-01-2020 | ~1,995 | `Date, Index, % Change` |
-|| `data/indices/fbx_historical.csv` | Freightos Baltic Container Index | FBX | 01-01-2020 | ~1,996 | `Date, Index, % Change` |
-|| [`data/indices/bai_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bai_historical.csv) | Baltic Air Freight Index | BAI | 24-08-2026 | 2 | `Date, Index, % Change` |
+| `data/indices/blng_historical.csv` | Baltic LNG Freight Index | BLNG | 13-03-2026 | 104 | `Date, Index, % Change` |
+| `data/indices/blpg_historical.csv` | Baltic LPG Freight Index | BLPG | 13-03-2026 | 104 | `Date, Index, % Change` |
+| `data/indices/fbx_historical.csv` | Freightos Baltic Container Index | FBX | 13-03-2026 | 104 | `Date, Index, % Change` |
+| [`data/indices/bai_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bai_historical.csv) | Baltic Air Freight Index | BAI | 01-01-2018 | 456 | `Date, Index, % Change` |
 
 ### 2.3 Time Charter (TC) Rates, Forward Curves & Valuations (`data/derived/`)
 

@@ -31,6 +31,20 @@ import requests
 API_URL = "https://blacksun-api.balticexchange.com/api/ticker"
 DATE_FMT = "%d-%m-%Y"
 
+# Sanity bounds per index. Baltic published indices are always strictly positive
+# and move only a few percent per print (BLNG is the most volatile; even its
+# worst real single-step move on record is ~45%). Anything beyond these caps is
+# physically impossible for the underlying market and signals a corrupt API
+# payload or a fabricated/garbage row — such values MUST NOT be written.
+#   min_value          : index level floor (reject <= 0 always)
+#   max_abs_daily_pct  : max allowable single-step pct change vs the prior print
+SANITY = {
+    "BLNG":  {"min_value": 100.0,    "max_abs_daily_pct": 60.0},
+    "BLPG":  {"min_value": 1.0,      "max_abs_daily_pct": 60.0},
+    "FBX":   {"min_value": 100.0,    "max_abs_daily_pct": 60.0},
+    "BAI00": {"min_value": 100.0,    "max_abs_daily_pct": 50.0},
+}
+
 # Indices to record, keyed by indexDataSetName from the API
 NEW_INDICES = {
     "BLNG": "data/indices/blng_historical.csv",
@@ -172,8 +186,19 @@ def recompute_changes(rows: list[dict]) -> list[dict]:
 def upsert_to_csv(path: Path, date_str: str, code: str, value: float) -> str:
     """
     Upsert one row in a historical CSV by date and recompute dependent % changes.
-    Returns: added | updated | unchanged
+    Returns: added | updated | unchanged | rejected
+
+    GUARDRAIL: refuses to write physically impossible values (non-positive, below
+    the index floor, or a single-step move beyond the index's SANITY cap). This
+    prevents corrupt API payloads / fabricated rows from ever polluting the
+    historical series. A rejected value leaves the existing file untouched and is
+    logged (non-fatal, so the other indices still update).
     """
+    # Reject non-positive index levels outright (a Baltic index is always > 0).
+    if value is None or value <= 0 or (code in SANITY and value < SANITY[code]["min_value"]):
+        print(f"[xx] {code}: value {value:,.2f} failed positivity/floor guard - NOT WRITTEN")
+        return "rejected"
+
     rows = normalize_rows(load_existing_csv(path))
     value_str = format_value(value)
 
@@ -184,11 +209,27 @@ def upsert_to_csv(path: Path, date_str: str, code: str, value: float) -> str:
         if old_value == value:
             print(f"[--] {code}: {date_str} already in {path.name} with same value - skipped")
             return "unchanged"
+        # Guard the magnitude of a same-date correction too.
+        if code in SANITY and old_value > 0:
+            if abs(value - old_value) / abs(old_value) * 100 > SANITY[code]["max_abs_daily_pct"]:
+                print(f"[xx] {code}: correction {old_value:,.2f} -> {value:,.2f} "
+                      f"exceeds {SANITY[code]['max_abs_daily_pct']:.0f}% guard - NOT WRITTEN")
+                return "rejected"
         row["Index"] = value_str
         rows = recompute_changes(rows)
         write_csv(path, rows)
         print(f"[up] {code}: {date_str} corrected to {value:,.2f} -> {path.name}")
         return "updated"
+
+    # Appending a new date: guard against a jump from the prior latest print.
+    if rows and code in SANITY:
+        prev_val = float(rows[-1]["Index"])
+        if prev_val > 0:
+            jump = abs(value - prev_val) / abs(prev_val) * 100
+            if jump > SANITY[code]["max_abs_daily_pct"]:
+                print(f"[xx] {code}: new {date_str} {value:,.2f} vs prior {prev_val:,.2f} "
+                      f"= {jump:.1f}% jump exceeds {SANITY[code]['max_abs_daily_pct']:.0f}% guard - NOT WRITTEN")
+                return "rejected"
 
     rows.append({"Date": date_str, "Index": value_str, "% Change": ""})
     rows = recompute_changes(rows)
