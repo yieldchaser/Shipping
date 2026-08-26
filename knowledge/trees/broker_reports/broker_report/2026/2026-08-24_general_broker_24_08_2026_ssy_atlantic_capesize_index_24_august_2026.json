@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026",
+  "parent_id": null,
+  "title": "SSY ATLANTIC CAPESIZE INDEX 24 AUGUST 2026",
+  "section_path": [
+    "SSY ATLANTIC CAPESIZE INDEX 24 AUGUST 2026"
+  ],
+  "section_path_text": "SSY ATLANTIC CAPESIZE INDEX 24 AUGUST 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "SSY ATLANTIC CAPESIZE INDEX 24 AUGUST 2026\n**Broker**: General Broker\n**Published Date**: 24/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-24-august-2026/](https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-24-august-2026/)\n\nMarket Report Content\n24th August 2026\n14/08/2026 21/08/2026\nTrade Cargo Size Weight $/t $/t\nNARVIK/ROTTERDAM 150,000/10% 10% 8.65 8.55\nTUBARAO/ROTTERDAM 170,000/10% 10% 15.35 15.25\nRICHARDS BAY/ROTTERDAM 150,000/10% 10% 17.10 17.00\nSEVEN ISLANDS/ROTTERDAM 170,000/10% 10% 13.95 13.70\nPUERTO BOLIVAR/ROTTERDAM 160,000/10% 10% 19.30 18.85\nNOUADHIBOU/QINGDAO 170,000/10% 10% 36.85 35.95\nTUBARAO/JAPAN 160,000/10% 10% 35.60 35.50\nTUBARAO/QINGDAO 160,000/10% 10% 35.90 35.80\nT/C TRIP CONT/FAR EAST 180,000 DWT 10% 12.47 12.54\nT/C TRANSATLANTIC ROUND 180,000 DWT 10% 7.14 6.80\nCalculated Index 14,928 14,713\nChange on Previous Index -539 -215\nChange on Four Weeks Ago +900 +636\nChange on Previous Year +4,277 +5,111\nChange on Two Years Ago +5,839 +5,668\n$/Day $/Day\nT/C TRIP CONT/FAR EAST 180,000 DWT 73,850 74,250\nT/C TRANSATLANTIC ROUND 180,000 DWT 42,250 40,250\nSSY Atlantic Capesize Index\nAtlantic Capesize Index\nLondo",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "atlantic",
+    "europe",
+    "japan",
+    "any",
+    "information",
+    "ssy",
+    "change",
+    "dwt",
+    "not",
+    "t/c"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 856,
+  "source_path": "reports/broker_reports/2026/general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-24-august-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026__s01_ssy_atlantic_capesize_index_24_august_2026",
+      "doc_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026__root",
+      "title": "SSY ATLANTIC CAPESIZE INDEX 24 AUGUST 2026",
+      "section_path": [
+        "SSY ATLANTIC CAPESIZE INDEX 24 AUGUST 2026"
+      ],
+      "section_path_text": "SSY ATLANTIC CAPESIZE INDEX 24 AUGUST 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 24/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-24-august-2026/](https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-24-august-2026/)",
+      "keywords": [
+        "capesize",
+        "atlantic",
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/ssy-atlantic-capesize-index-24-august-2026",
+        "date",
+        "general",
+        "published"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_ssy_atlantic_capesize_index_24_august_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "24th August 2026\n14/08/2026 21/08/2026\nTrade Cargo Size Weight $/t $/t\nNARVIK/ROTTERDAM 150,000/10% 10% 8.65 8.55\nTUBARAO/ROTTERDAM 170,000/10% 10% 15.35 15.25\nRICHARDS BAY/ROTTERDAM 150,000/10% 10% 17.10 17.00\nSEVEN ISLANDS/ROTTERDAM 170,000/10% 10% 13.95 13.70\nPUERTO BOLIVAR/ROTTERDAM 160,000/10% 10% 19.30 18.85\nNOUADHIBOU/QINGDAO 170,000/10% 10% 36.85 35.95\nTUBARAO/JAPAN 160,000/10% 10% 35.60 35.50\nTUBARAO/QINGDAO 160,000/10% 10% 35.90 35.80\nT/C TRIP CONT/FAR EAST 180,000 DWT 10% 12.47 12.54\nT/C TRANSATLANTIC ROUND 180,000 DWT 10% 7.14 6.80\nCalculated Index 14,928 14,713\nChange on Previous Index -539 -215\nChange on Four Weeks Ago +900 +636\nChange on Previous Year +4,277 +5,111\nChange on Two Years Ago +5,839 +5,668\n$/Day $/Day\nT/C TRIP CONT/FAR EAST 180,000 DWT 73,850 74,250\nT/C TRANSATLANTIC ROUND 180,000 DWT 42,250 40,250\nSSY Atlantic Capesize Index\nAtlantic Capesize Index\nLondon: +44 (0)20 7977 7404\nEmail: research@ssyglobal.com\nWebsite SSYGlobal.com\nIndex\n2024 2025 2026\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\n0\n5k\n10k\n15k\n20k\nFor more information please contact Ben Dudman/Roar Adland\nThe Atlantic Capesize Index started at 5,000 points on 2 October 1989 and has since b",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "atlantic",
+        "europe",
+        "japan",
+        "any",
+        "information",
+        "change"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 756,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

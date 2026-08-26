@@ -79,7 +79,7 @@
       "mom_1y": 43.3,
       "high_52w": 19350.0,
       "low_52w": 11000.0,
-      "pctile_10y": 83.4,
+      "pctile_10y": 83.2,
       "median_10y": 10000,
       "cycle_label": "Bullish (Upper Quartile)",
       "cycle_badge": "bull"
@@ -328,7 +328,7 @@
       "mom_1y": 64.4,
       "high_52w": 39500.0,
       "low_52w": 22500.0,
-      "pctile_10y": 97.0,
+      "pctile_10y": 97.2,
       "median_10y": 17000,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"

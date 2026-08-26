@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-25T12:06:39Z",
-  "current_date": "2026-08-25",
+  "generated_at": "2026-08-26T09:04:29Z",
+  "current_date": "2026-08-26",
   "corpus": {
-    "document_count": 8781,
-    "chunk_count": 101164,
-    "section_count": 30888,
+    "document_count": 8790,
+    "chunk_count": 101304,
+    "section_count": 30907,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -17,7 +17,7 @@
       "status": "healthy",
       "cadence_days": 14,
       "latest_date": "2026-08-18",
-      "age_days": 7,
+      "age_days": 8,
       "latest_gap_days": 14,
       "max_recent_gap_days": 14,
       "dated_doc_count": 208,
@@ -29,11 +29,11 @@
       "category": "tankers",
       "status": "healthy",
       "cadence_days": 14,
-      "latest_date": "2026-08-11",
-      "age_days": 14,
+      "latest_date": "2026-08-25",
+      "age_days": 1,
       "latest_gap_days": 14,
       "max_recent_gap_days": 14,
-      "dated_doc_count": 77,
+      "dated_doc_count": 78,
       "undated_doc_count": 0
     },
     {
@@ -43,7 +43,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_date": "2026-08-21",
-      "age_days": 4,
+      "age_days": 5,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
       "dated_doc_count": 596,
@@ -56,7 +56,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_date": "2026-08-21",
-      "age_days": 4,
+      "age_days": 5,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
       "dated_doc_count": 594,
@@ -69,7 +69,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_date": "2026-08-21",
-      "age_days": 4,
+      "age_days": 5,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
       "dated_doc_count": 215,
@@ -82,7 +82,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_date": "2026-08-21",
-      "age_days": 4,
+      "age_days": 5,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
       "dated_doc_count": 96,
@@ -95,7 +95,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_date": "2026-08-21",
-      "age_days": 4,
+      "age_days": 5,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
       "dated_doc_count": 508,
@@ -108,7 +108,7 @@
       "status": "healthy",
       "cadence_days": 14,
       "latest_date": "2026-08-24",
-      "age_days": 1,
+      "age_days": 2,
       "latest_gap_days": 0,
       "max_recent_gap_days": 3,
       "dated_doc_count": 3156,
@@ -121,7 +121,7 @@
       "status": "healthy",
       "cadence_days": 14,
       "latest_date": "2026-08-19",
-      "age_days": 6,
+      "age_days": 7,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
       "dated_doc_count": 271,
@@ -134,7 +134,7 @@
       "status": "healthy",
       "cadence_days": 14,
       "latest_date": "2026-08-19",
-      "age_days": 6,
+      "age_days": 7,
       "latest_gap_days": 7,
       "max_recent_gap_days": 8,
       "dated_doc_count": 271,
@@ -146,11 +146,11 @@
       "category": "iron_ore",
       "status": "healthy",
       "cadence_days": 14,
-      "latest_date": "2026-08-21",
-      "age_days": 4,
-      "latest_gap_days": 1,
+      "latest_date": "2026-08-24",
+      "age_days": 2,
+      "latest_gap_days": 3,
       "max_recent_gap_days": 4,
-      "dated_doc_count": 1177,
+      "dated_doc_count": 1178,
       "undated_doc_count": 0
     },
     {
@@ -160,7 +160,7 @@
       "status": "healthy",
       "cadence_days": 14,
       "latest_date": "2026-08-19",
-      "age_days": 6,
+      "age_days": 7,
       "latest_gap_days": 7,
       "max_recent_gap_days": 8,
       "dated_doc_count": 267,
@@ -173,7 +173,7 @@
       "status": "healthy",
       "cadence_days": 21,
       "latest_date": "2026-08-22",
-      "age_days": 3,
+      "age_days": 4,
       "latest_gap_days": 0,
       "max_recent_gap_days": 7,
       "dated_doc_count": 791,
@@ -186,7 +186,7 @@
       "status": "healthy",
       "cadence_days": 21,
       "latest_date": "2026-08-11",
-      "age_days": 14,
+      "age_days": 15,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
       "dated_doc_count": 373,
@@ -213,24 +213,24 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_evidence_date": "2026-08-24",
-      "latest_evidence_age_days": 1,
+      "latest_evidence_age_days": 2,
       "relevant_corpus_latest_date": "2026-08-24",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 88,
+      "document_count": 89,
       "source_counts": {
         "baltic": 6,
         "breakwave": 4,
-        "breakwave_insights": 139,
-        "hellenic": 101
+        "breakwave_insights": 137,
+        "hellenic": 103
       },
       "category_counts": {
         "demolition": 25,
         "dry": 6,
         "dry_charter": 8,
         "drybulk": 4,
-        "insights": 139,
-        "iron_ore": 54,
+        "insights": 137,
+        "iron_ore": 56,
         "shipbuilding": 6,
         "vessel_valuations": 8
       },
@@ -242,7 +242,7 @@
       ],
       "missing_recent_sources": [],
       "tone_distribution": {
-        "cautiously_bearish": 10,
+        "cautiously_bearish": 11,
         "constructive": 47,
         "neutral": 31
       }
@@ -252,25 +252,25 @@
       "title": "Tanker Market",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-08-24",
+      "latest_evidence_date": "2026-08-25",
       "latest_evidence_age_days": 1,
-      "relevant_corpus_latest_date": "2026-08-24",
+      "relevant_corpus_latest_date": "2026-08-25",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 91,
+      "document_count": 92,
       "source_counts": {
         "baltic": 8,
-        "breakwave": 4,
-        "breakwave_insights": 172,
+        "breakwave": 6,
+        "breakwave_insights": 170,
         "hellenic": 66
       },
       "category_counts": {
         "demolition": 36,
-        "insights": 172,
+        "insights": 170,
         "shipbuilding": 10,
         "tanker": 8,
         "tanker_charter": 10,
-        "tankers": 4,
+        "tankers": 6,
         "vessel_valuations": 10
       },
       "recent_sources_present": [
@@ -282,7 +282,7 @@
       "missing_recent_sources": [],
       "tone_distribution": {
         "cautiously_bearish": 8,
-        "constructive": 51,
+        "constructive": 52,
         "neutral": 30,
         "neutral_sentiment": 2
       }
@@ -293,21 +293,21 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_evidence_date": "2026-08-24",
-      "latest_evidence_age_days": 1,
+      "latest_evidence_age_days": 2,
       "relevant_corpus_latest_date": "2026-08-24",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 117,
       "source_counts": {
-        "breakwave": 10,
-        "breakwave_insights": 80,
-        "hellenic": 160
+        "breakwave": 9,
+        "breakwave_insights": 79,
+        "hellenic": 162
       },
       "category_counts": {
         "dry_charter": 11,
-        "drybulk": 10,
-        "insights": 80,
-        "iron_ore": 143,
+        "drybulk": 9,
+        "insights": 79,
+        "iron_ore": 145,
         "vessel_valuations": 6
       },
       "recent_sources_present": [
@@ -320,8 +320,7 @@
       ],
       "tone_distribution": {
         "bullish": 1,
-        "cautiously optimistic": 1,
-        "cautiously_bearish": 33,
+        "cautiously_bearish": 34,
         "constructive": 54,
         "neutral": 28
       }
@@ -332,7 +331,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_evidence_date": "2026-08-21",
-      "latest_evidence_age_days": 4,
+      "latest_evidence_age_days": 5,
       "relevant_corpus_latest_date": "2026-08-24",
       "lag_days": 3,
       "evidence_count": 250,
@@ -361,7 +360,7 @@
         "cautious_pessimistic": 1,
         "cautiously optimistic": 1,
         "cautiously_bearish": 13,
-        "constructive": 77,
+        "constructive": 76,
         "neutral": 42,
         "neutral_concerned": 1
       }
@@ -371,21 +370,21 @@
       "title": "VLCC and Suezmax",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-08-24",
+      "latest_evidence_date": "2026-08-25",
       "latest_evidence_age_days": 1,
-      "relevant_corpus_latest_date": "2026-08-24",
+      "relevant_corpus_latest_date": "2026-08-25",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 107,
       "source_counts": {
-        "breakwave": 13,
-        "breakwave_insights": 226,
+        "breakwave": 14,
+        "breakwave_insights": 225,
         "hellenic": 11
       },
       "category_counts": {
-        "insights": 226,
+        "insights": 225,
         "tanker_charter": 2,
-        "tankers": 13,
+        "tankers": 14,
         "vessel_valuations": 9
       },
       "recent_sources_present": [
@@ -397,10 +396,10 @@
         "baltic"
       ],
       "tone_distribution": {
-        "cautious": 3,
+        "cautious": 2,
         "cautiously_bearish": 11,
         "concerned": 1,
-        "constructive": 72,
+        "constructive": 73,
         "neutral": 18,
         "neutral_sentiment": 2
       }
@@ -411,21 +410,21 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_evidence_date": "2026-08-24",
-      "latest_evidence_age_days": 1,
+      "latest_evidence_age_days": 2,
       "relevant_corpus_latest_date": "2026-08-24",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 98,
+      "document_count": 97,
       "source_counts": {
         "breakwave": 6,
-        "breakwave_insights": 145,
-        "hellenic": 99
+        "breakwave_insights": 142,
+        "hellenic": 102
       },
       "category_counts": {
         "dry_charter": 7,
         "drybulk": 6,
-        "insights": 145,
-        "iron_ore": 92
+        "insights": 142,
+        "iron_ore": 95
       },
       "recent_sources_present": [
         "breakwave",
@@ -436,8 +435,8 @@
         "baltic"
       ],
       "tone_distribution": {
-        "cautiously_bearish": 20,
-        "constructive": 58,
+        "cautiously_bearish": 21,
+        "constructive": 56,
         "neutral": 20
       }
     },
@@ -447,7 +446,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_evidence_date": "2026-08-24",
-      "latest_evidence_age_days": 1,
+      "latest_evidence_age_days": 2,
       "relevant_corpus_latest_date": "2026-08-24",
       "lag_days": 0,
       "evidence_count": 250,
@@ -484,21 +483,21 @@
       "title": "Oil and OPEC",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-08-24",
+      "latest_evidence_date": "2026-08-25",
       "latest_evidence_age_days": 1,
-      "relevant_corpus_latest_date": "2026-08-24",
+      "relevant_corpus_latest_date": "2026-08-25",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 102,
       "source_counts": {
-        "breakwave": 10,
-        "breakwave_insights": 230,
+        "breakwave": 12,
+        "breakwave_insights": 228,
         "hellenic": 10
       },
       "category_counts": {
-        "insights": 230,
+        "insights": 228,
         "tanker_charter": 2,
-        "tankers": 10,
+        "tankers": 12,
         "vessel_valuations": 8
       },
       "recent_sources_present": [
@@ -524,7 +523,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_evidence_date": "2026-08-21",
-      "latest_evidence_age_days": 4,
+      "latest_evidence_age_days": 5,
       "relevant_corpus_latest_date": "2026-08-21",
       "lag_days": 0,
       "evidence_count": 250,
@@ -554,7 +553,7 @@
       "status": "healthy",
       "cadence_days": 7,
       "latest_evidence_date": "2026-08-21",
-      "latest_evidence_age_days": 4,
+      "latest_evidence_age_days": 5,
       "relevant_corpus_latest_date": "2026-08-21",
       "lag_days": 0,
       "evidence_count": 250,
@@ -594,6 +593,13 @@
           "dominant_tone": "neutral",
           "doc_count": 6,
           "latest_date": "2026-08-19"
+        },
+        {
+          "source": "breakwave",
+          "avg_tone_score": 0.38,
+          "dominant_tone": "constructive",
+          "doc_count": 6,
+          "latest_date": "2026-08-25"
         },
         {
           "source": "breakwave_insights",
