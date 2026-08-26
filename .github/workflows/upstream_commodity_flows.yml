@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pandas beautifulsoup4 lxml openpyxl
+          pip install requests pandas beautifulsoup4 lxml openpyxl pymupdf
 
       - name: Run Upstream Commodity & Congestion Scrapers
         env:
