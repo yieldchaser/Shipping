@@ -36,20 +36,19 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 LAYER_URL = ("https://services9.arcgis.com/weJ1QsnbMYJlCHdG/"
              "arcgis/rest/services/Daily_Ports_Data/FeatureServer/0/query")
 
-# portid values verified against the live service (2026-08-25):
-HUBS = {
-    "port1069": "CNQDG",       # Qingdao Port, China
-    "port824":  "CNNGB",       # Ningbo-Zhoushan, China
-    "port944":  "CNNGB2",      # placeholder replaced during discovery if absent
-    "AUPHE":    "AUPHE",
+# portid values verified against the live service (2026-08-25) and present in the
+# committed history CSV. Used as a stable fallback so the scraper never aborts
+# (and never drops history) when the ESRI discovery query is region-blocked on
+# CI runners.
+KNOWN_HUBS = {
+    "port1069": {"portname": "Qingdao Port", "country": "China"},
+    "port824":  {"portname": "Ningbo", "country": "China"},
+    "port955":  {"portname": "Port Hedland", "country": "Australia"},
+    "port816":  {"portname": "Newcastle", "country": "Australia"},
+    "port1201": {"portname": "Singapore", "country": "Singapore"},
+    "port1114": {"portname": "Rotterdam", "country": "Netherlands"},
+    "port481":  {"portname": "Houston (US-TX)", "country": "United States"},
 }
-
-# Real hub portids discovered from the Ports database item / Daily_Ports_Data queries.
-DISCOVERY_QUERIES = {
-    "port1069": "Qingdao",
-    "port824": "Ningbo",
-}
-FALLBACK_NAME_SEARCH = ["Caofeidian", "Hedland", "Newcastle", "Singapore", "Rotterdam", "Houston"]
 
 FIELDS = ("date,portid,portname,country,portcalls,portcalls_dry_bulk,portcalls_tanker,"
           "portcalls_container,import_dry_bulk,export_dry_bulk,import_tanker,export_tanker,"
@@ -74,9 +73,15 @@ def _http_json(url: str, retries: int = 3) -> dict:
 
 
 def discover_hub_portids() -> dict:
-    """Resolve portid for each hub name via server-side LIKE query."""
+    """Resolve portid for each hub name via server-side LIKE query.
+
+    Falls back to the verified KNOWN_HUBS map when the ESRI discovery query is
+    region-blocked (GitHub runners routinely get zero results), so the run never
+    aborts and never drops the committed history.
+    """
     found = {}
-    for name in list(DISCOVERY_QUERIES.values()) + FALLBACK_NAME_SEARCH:
+    for name in ["Qingdao", "Ningbo", "Caofeidian", "Hedland", "Newcastle",
+                 "Singapore", "Rotterdam", "Houston"]:
         params = urllib.parse.urlencode({
             "f": "json", "where": f"portname LIKE '%{name}%'",
             "outFields": "portid,portname,country",
@@ -90,6 +95,12 @@ def discover_hub_portids() -> dict:
                 found[a["portid"]] = {"portname": a.get("portname"), "country": a.get("country")}
         except Exception as e:  # noqa: BLE001
             logging.warning("Discovery failed for %s: %s", name, e)
+    if not found:
+        logging.warning("Discovery returned no hubs (region-blocked?). Using verified KNOWN_HUBS.")
+        return dict(KNOWN_HUBS)
+    # merge verified metadata so names/countries are always correct
+    for pid, meta in KNOWN_HUBS.items():
+        found.setdefault(pid, meta)
     return found
 
 
