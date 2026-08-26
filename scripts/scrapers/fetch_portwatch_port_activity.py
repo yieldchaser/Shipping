@@ -149,7 +149,27 @@ def main() -> pd.DataFrame:
     if prev_path.exists():
         try:
             prev = pd.read_csv(prev_path, dtype={"portid": str})
-            fresh = pd.concat([prev, fresh], ignore_index=True)
+            # Normalise the historical half to the SAME canonical column names as
+            # `fresh` BEFORE concat. Otherwise pandas silently creates ".1" twin
+            # columns for any name mismatch, and PapaParse in the frontend then
+            # lets the empty twin shadow the filled base column (blank-chart bug,
+            # 2026-08-26). Coalesce: twin value wins only where base is empty.
+            rename_map = {
+                "portcalls": "daily_port_calls_total",
+                "portcalls_dry_bulk": "daily_port_calls_dry_bulk",
+                "portcalls_tanker": "daily_port_calls_tanker",
+                "portcalls_container": "daily_port_calls_container",
+            }
+            prev = prev.rename(columns={k: v for k, v in rename_map.items() if k in prev.columns})
+            for base in rename_map.values():
+                twin = base + ".1"
+                if twin in prev.columns and base in prev.columns:
+                    a = pd.to_numeric(prev[base], errors="coerce")
+                    b = pd.to_numeric(prev[twin], errors="coerce")
+                    prev[base] = a.fillna(b)
+                if twin in prev.columns:
+                    prev = prev.drop(columns=[twin])
+            fresh = pd.concat([prev, fresh.rename(columns=rename_map)], ignore_index=True)
         except Exception as e:  # noqa: BLE001
             logging.warning("Could not merge previous file: %s", e)
 

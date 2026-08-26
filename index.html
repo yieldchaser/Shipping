@@ -12806,8 +12806,8 @@ if (intelTabsContainer) {
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
-              portCode: (row.port_code || row.hub_code || '').trim(),
-              portName: (row.port_name || '').trim(),
+              portCode: (row.port_code || row.portid || row.hub_code || '').trim(),
+              portName: (row.port_name || row.portname || '').trim(),
               sector: (row.sector || '').trim(),
               country: (row.country || '').trim(),
               dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
@@ -12832,6 +12832,7 @@ if (intelTabsContainer) {
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
+              provenance: (row.provenance || '').trim(),
               euaPriceEur: parseFloat(row.eua_carbon_price_eur_tco2 || 0) || null,
               singVlsfo: parseFloat(row.singapore_vlsfo_usd_mt || 0) || null,
               singHsfo: parseFloat(row.singapore_hsfo_usd_mt || 0) || null,
@@ -22317,13 +22318,13 @@ if (intelTabsContainer) {
     // =========================================================================
     // 4. GLOBAL PORT CONGESTION & ANCHORAGE QUEUES (IMF PORTWATCH)
     // =========================================================================
-    var _congestionPort = 'CNQDG';
+    var _congestionPort = 'port1069';
     function setCongestionPort(p) {
       window.setCongestionPort = setCongestionPort;
       _congestionPort = p;
       ['Qingdao', 'Ningbo', 'Caofeidian', 'Hedland', 'Singapore', 'Rotterdam', 'Houston', 'All'].forEach(function (x) {
         const el = document.getElementById('congBtn' + x);
-        const map = { 'Qingdao': 'CNQDG', 'Ningbo': 'CNNGB', 'Caofeidian': 'CNCFI', 'Hedland': 'AUPHE', 'Singapore': 'SGSIN', 'Rotterdam': 'NLRTM', 'Houston': 'USHOU', 'All': 'ALL' };
+        const map = { 'Qingdao': 'port1069', 'Ningbo': 'port824', 'Caofeidian': 'CNCFI', 'Hedland': 'port955', 'Singapore': 'port1201', 'Rotterdam': 'port1114', 'Houston': 'port481', 'All': 'ALL' };
         if (el) {
           const isActive = (map[x] === p || x.toUpperCase() === p.toUpperCase() || (map[x] && map[x].toLowerCase() === p.toLowerCase()));
           el.classList.toggle('active', isActive);
@@ -22466,11 +22467,23 @@ if (intelTabsContainer) {
       const labels = rows.map(r => r.dateStr);
       const eua = rows.map(r => r.euaPriceEur);
       const hi5 = rows.map(r => r.singHi5);
+      // Hi-5 series only exists for days with Ship&Bunker snapshots; don't render an
+      // all-null second dataset (blank-chart bug class, 2026-08-26).
+      const hasHi5 = hi5.some(v => v != null);
 
-      const latest = rows[rows.length - 1];
+      const latest = [...rows].reverse().find(r => r.euaPriceEur != null) || rows[rows.length - 1];
       const badge = document.getElementById('carbonEtsBadge');
       if (badge && latest) {
-        badge.innerHTML = `EUA Carbon: <strong>€${(latest.euaPriceEur || 0).toFixed(1)}/t</strong> | Hi-5 Spread: <strong>$${(latest.singHi5 || 0).toFixed(1)}/MT</strong>`;
+        const h5 = latest.singHi5;
+        badge.innerHTML = `EUA Carbon: <strong>€${(latest.euaPriceEur || 0).toFixed(1)}/t</strong>` +
+          (h5 != null ? ` | Hi-5 Spread: <strong>$${h5.toFixed(1)}/MT</strong>` : '');
+      }
+
+      const datasets = [
+        { label: 'EU ETS Carbon Allowance (€/t CO2)', data: eua, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
+      ];
+      if (hasHi5) {
+        datasets.push({ label: 'Singapore Hi-5 Fuel Spread ($/MT)', data: hi5, borderColor: '#3fb950', borderWidth: 2, tension: 0.1, yAxisID: 'y1' });
       }
 
       destroyChart('carbonEtsChart');
@@ -22478,10 +22491,7 @@ if (intelTabsContainer) {
         type: 'line',
         data: {
           labels,
-          datasets: [
-            { label: 'EU ETS Carbon Allowance (€/t CO2)', data: eua, borderColor: '#58a6ff', borderWidth: 2, tension: 0.1 },
-            { label: 'Singapore Hi-5 Fuel Spread ($/MT)', data: hi5, borderColor: '#3fb950', borderWidth: 2, tension: 0.1, yAxisID: 'y1' },
-          ]
+          datasets
         },
         options: {
           responsive: true,
@@ -22576,22 +22586,28 @@ if (intelTabsContainer) {
       if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
+      // Only render series the model actually publishes. The current matrix is
+      // Capesize-only (WAus assumption + Brazil ore + Guinea bauxite); VLCC/Suezmax
+      // columns don't exist yet, so mapping them produced all-null datasets and a
+      // visually blank chart (2026-08-26 fix).
       const capeUtil = rows.map(r => r.capeFleetUtilPct);
-      const vlccUtil = rows.map(r => r.vlccFleetUtilPct);
-      const suezUtil = rows.map(r => r.suezFleetUtilPct);
       const capeTm = rows.map(r => r.capeTotalTonMilesBn);
+      const hasVlcc = rows.some(r => r.vlccFleetUtilPct != null);
+      const hasSuez = rows.some(r => r.suezFleetUtilPct != null);
+
+      const datasets = [
+        { label: 'Capesize Active Fleet Utilization (%)', data: capeUtil, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.15)', borderWidth: 2.5, fill: true, tension: 0.1 },
+        { label: 'Capesize Ton-Miles (Billion Ton-NM)', data: capeTm, borderColor: '#e3b344', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1, yAxisID: 'y1' }
+      ];
+      if (hasVlcc) datasets.push({ label: 'VLCC Active Fleet Utilization (%)', data: rows.map(r => r.vlccFleetUtilPct), borderColor: '#3fb950', borderWidth: 2, tension: 0.1 });
+      if (hasSuez) datasets.push({ label: 'Suezmax Active Fleet Utilization (%)', data: rows.map(r => r.suezFleetUtilPct), borderColor: '#bc8cff', borderWidth: 2, tension: 0.1 });
 
       destroyChart('tonMileSimChart');
       updateOrCreateChart('tonMileSimChart', canvas, {
         type: 'line',
         data: {
           labels,
-          datasets: [
-            { label: 'Capesize Active Fleet Utilization (%)', data: capeUtil, borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.15)', borderWidth: 2.5, fill: true, tension: 0.1 },
-            { label: 'VLCC Active Fleet Utilization (%)', data: vlccUtil, borderColor: '#3fb950', borderWidth: 2, tension: 0.1 },
-            { label: 'Suezmax Active Fleet Utilization (%)', data: suezUtil, borderColor: '#bc8cff', borderWidth: 2, tension: 0.1 },
-            { label: 'Capesize Ton-Miles (Billion Ton-NM)', data: capeTm, borderColor: '#e3b341', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1, yAxisID: 'y1' }
-          ]
+          datasets
         },
         options: {
           responsive: true,
@@ -22599,12 +22615,12 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
-            tooltip: { callbacks: { label: c => c.datasetIndex <= 2 ? ` ${c.dataset.label}: ${c.parsed.y}%` : ` ${c.dataset.label}: ${c.parsed.y} Bn Ton-NM` } }
+            tooltip: { callbacks: { label: c => c.datasetIndex === 1 ? ` ${c.dataset.label}: ${c.parsed.y} Bn Ton-NM` : ` ${c.dataset.label}: ${c.parsed.y}%` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
             y: { grid: { color: '#151a22' }, min: 75, max: 100, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + '%' }, title: { display: true, text: 'Utilization %', color: '#8b949e', font: { size: 10 } } },
-            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#e3b341', font: { size: 10 } }, title: { display: true, text: 'Billion Ton-NM', color: '#e3b341', font: { size: 10 } } }
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#e3b344', font: { size: 10 } }, title: { display: true, text: 'Billion Ton-NM', color: '#e3b344', font: { size: 10 } } }
           }
         }
       });
@@ -31275,7 +31291,7 @@ if (intelTabsContainer) {
           html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2) — live OilPriceAPI observations</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">VLSFO − HSFO ($/MT), Ship &amp; Bunker port snapshots</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Scrubber Formula</span><span class="rt-val" style="color:#3fb950">Daily Fuel Consumption (MT) × Hi-5 Spread ($/MT)</span></div>`;
-          html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. 2026-08-25 audit: fabricated back-history removed — series now accumulates only live daily observations, so early history may be sparse while the archive builds.</div>`;
+          html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. EUA series: daily primary-market prices from the ICAP Allowance Price Explorer (official ICAP dataset) 2010→2026-06, continuing with live OilPriceAPI observations.</div>`;
         }
         else if (type === 'concept-ton-mile-sim' || type === 'ton-mile-header') {
           html = `<div class="rt-title">Ton-Mile Absorption & Active Fleet Utilization Model</div>`;
