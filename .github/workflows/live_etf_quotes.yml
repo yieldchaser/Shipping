@@ -1,0 +1,64 @@
+name: Live ETF Quotes Poller (BDRY/BWET)
+
+on:
+  schedule:
+    # Run every 30 minutes between 13:00 and 21:00 UTC (US market hours) Monday-Friday
+    - cron: '*/30 13-21 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-pipeline
+  cancel-in-progress: false
+
+jobs:
+  update-quotes:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Pull latest before run
+      run: git pull --rebase --autostash origin main
+
+    - name: Fetch real-time ETF quotes
+      run: python scripts/fetch_live_etf_quotes.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/etf/live_quotes.json
+        if git diff --staged --quiet; then
+          echo "No quote changes to commit."
+          exit 0
+        fi
+
+        git commit -m "data(etf): sync real-time ETF quotes $(date +'%Y-%m-%d %H:%M UTC')"
+
+        for attempt in 1 2 3; do
+          if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+            echo "Push succeeded on attempt $attempt."
+            exit 0
+          fi
+          echo "Push race on attempt $attempt. Retrying in 10s..."
+          sleep 10
+        done
+
+        echo "Failed to push after 3 attempts."
+        exit 1

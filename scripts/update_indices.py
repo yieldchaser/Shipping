@@ -484,7 +484,7 @@ def generate_sgx_tickers(product_code):
 
 def fetch_sgx_latest(ticker):
     """
-    Fetch last 5 days for ticker. Returns list of (date DD-MM-YYYY, price, volume, open_interest)
+    Fetch last 5 days for ticker. Returns list of (date YYYY-MM-DD, price, volume, open_interest)
     for all available days, or None if contract has no data.
     """
     url = SGX_HISTORY_URL.format(ticker=ticker)
@@ -499,11 +499,11 @@ def fetch_sgx_latest(ticker):
             price     = entry.get('daily-settlement-price-abs')
             volume    = entry.get('total-volume')
             oi        = entry.get('open-interest')
-            base_date = entry.get('base-date')  # "20260303"
+            base_date = entry.get('base-date')  # e.g. "20260826"
             if price is None or base_date is None:
                 continue
             d = datetime.strptime(str(base_date), '%Y%m%d')
-            rows.append((d.strftime('%d-%m-%Y'), float(price), float(volume or 0), float(oi or 0)))
+            rows.append((d.strftime('%Y-%m-%d'), float(price), float(volume or 0), float(oi or 0)))
         return rows if rows else None
     except Exception as e:
         print(f"  {ticker}: error — {e}")
@@ -513,26 +513,26 @@ def fetch_sgx_latest(ticker):
 def update_sgx_csv(filename, product_code):
     """
     Fetch latest price for all active contracts and append new rows to CSV.
-    CSV schema: contract, expiry_month, expiry_year, date, price, volume, expiry_date
-    A contract is 'active' if today <= expiry date AND the API returns data for it.
+    CSV schema: contract, expiry_month, expiry_year, date, price, volume, open_interest, expiry_date
+    All dates in file are standardized in ISO format YYYY-MM-DD.
     """
     today = date.today()
 
     if os.path.exists(filename):
         existing = pd.read_csv(filename)
-        # 2026-08-25 CI fix: the archive is written by expansion_sgx_history_backfill.py
-        # in ISO format (YYYY-MM-DD), while this module historically emitted DD-MM-YYYY.
-        # A hard %d-%m-%Y parse crashed the whole daily update when it met ISO rows.
-        # Parse tolerantly (mixed formats) instead.
-        existing['date'] = pd.to_datetime(existing['date'], format='mixed', dayfirst=True, errors='coerce')
+        # Ensure date column is string in YYYY-MM-DD
+        existing['date'] = existing['date'].astype(str).str.strip()
         # Back-fill expiry_date column if it was added after initial creation
         if 'expiry_date' not in existing.columns:
             existing['expiry_date'] = ''
-        # Back-fill open_interest column if it was added after initial creation
         if 'open_interest' not in existing.columns:
             existing['open_interest'] = ''
+        
+        # Build lookup set for existing (contract, date) tuples
+        existing_keys = set(zip(existing['contract'].astype(str).str.strip(), existing['date']))
     else:
         existing = pd.DataFrame(columns=['contract','expiry_month','expiry_year','date','price','volume','open_interest','expiry_date'])
+        existing_keys = set()
 
     tickers = generate_sgx_tickers(product_code)
     new_rows = []
@@ -551,25 +551,20 @@ def update_sgx_csv(filename, product_code):
 
         active_count += 1
         for date_str, price, volume, oi in results:
-            date_dt = pd.Timestamp(datetime.strptime(date_str, '%d-%m-%Y'))
-
-            already = (
-                not existing.empty and
-                ((existing['contract'] == ticker) & (existing['date'] == date_dt)).any()
-            )
-            if already:
+            if (ticker, date_str) in existing_keys:
                 continue
 
             new_rows.append({
-                'contract':     ticker,
-                'expiry_month': f"{month_name} {year}",
-                'expiry_year':  year,
-                'date':         date_str,
-                'price':        price,
-                'volume':       volume,
+                'contract':      ticker,
+                'expiry_month':  f"{month_name} {year}",
+                'expiry_year':   year,
+                'date':          date_str,
+                'price':         price,
+                'volume':        volume,
                 'open_interest': oi,
-                'expiry_date':  expiry_str,
+                'expiry_date':   expiry_str,
             })
+            existing_keys.add((ticker, date_str))
         print(f"  {ticker} ({month_name} {year}, exp {expiry_str}): {price}  vol={volume}  oi={oi}")
         time.sleep(0.15)  # polite delay between calls
 
@@ -581,8 +576,13 @@ def update_sgx_csv(filename, product_code):
         if existing.empty:
             combined = new_df
         else:
-            existing['date'] = pd.to_datetime(existing['date'], errors='coerce').dt.strftime('%Y-%m-%d')
             combined = pd.concat([existing, new_df], ignore_index=True)
+        cols = ['contract','expiry_month','expiry_year','date','price','volume']
+        if 'open_interest' in combined.columns:
+            cols.append('open_interest')
+        if 'expiry_date' in combined.columns:
+            cols.append('expiry_date')
+        combined = combined[[c for c in cols if c in combined.columns]]
         combined.to_csv(filename, index=False)
         print(f"{filename}: +{len(new_rows)} new rows ({active_count} active contracts)")
     else:

@@ -12373,6 +12373,10 @@ if (intelTabsContainer) {
         const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r || []); });
         const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r || []; });
         const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r || []; });
+        const etfLiveQuotesPromise = fetch('data/etf/live_quotes.json')
+          .then(r => r.ok ? r.json() : null)
+          .then(data => { DATA.etfLiveQuotes = data || null; tick('ETF Live Quotes'); })
+          .catch(() => { DATA.etfLiveQuotes = null; tick('ETF Live Quotes'); });
 
         // Physical Signals Derived CSVs
         const tcPromise = safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
@@ -12849,7 +12853,7 @@ if (intelTabsContainer) {
           ...indexPromises,
           bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
           bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
-          bdryHistPromise, bwetHistPromise,
+          bdryHistPromise, bwetHistPromise, etfLiveQuotesPromise,
           tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
           lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise, tankerFwdHistPromise,
           lngCharterPromise, tceMatrixPromise,
@@ -16162,8 +16166,25 @@ if (intelTabsContainer) {
     var _quoteVers = {};
     function _nextQuoteVer(ticker) { _quoteVers[ticker] = (_quoteVers[ticker] || 0) + 1; return _quoteVers[ticker]; }
 
-    // Helper: fall back to last known close from pre-loaded liquidity CSV
+    // Helper: fall back to last known quote from live_quotes.json or pre-loaded liquidity CSV
     function liqFallbackHTML(etfKey) {
+      const ticker = etfKey === 'bdry' ? 'BDRY' : 'BWET';
+      if (DATA.etfLiveQuotes && DATA.etfLiveQuotes.quotes && DATA.etfLiveQuotes.quotes[ticker]) {
+        const q = DATA.etfLiveQuotes.quotes[ticker];
+        const price = q.price;
+        const chgPct = q.change_percent;
+        const sign = chgPct >= 0 ? '+' : '';
+        const chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
+        const chgHTML = chgPct != null ? `<span class="etf-change ${chgCls}">${sign}${chgPct.toFixed(2)}%</span>` : '';
+        let timeLabel = '';
+        if (q.market_time_utc) {
+          const d = new Date(q.market_time_utc);
+          timeLabel = !isNaN(d.getTime()) ? d.toLocaleDateString([], { month: 'short', day: 'numeric' }) : '';
+        }
+        return `<span class="etf-price" title="Latest synced quote ($${price.toFixed(2)})">$${price.toFixed(2)}</span> ${chgHTML}`
+          + (timeLabel ? `<span style="color:var(--text-muted);font-size:11px;margin-left:6px;" title="Official synced market quote">as of ${timeLabel}</span>` : '');
+      }
+
       const liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
       if (liqRows && liqRows.length) {
         const last = liqRows[liqRows.length - 1];
@@ -16249,33 +16270,97 @@ if (intelTabsContainer) {
     async function fetchLiveETFQuote(ticker, etfKey) {
       var qVer = _nextQuoteVer(ticker);
       var yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1m&range=1d`;
-      var proxyFns = [
-        u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
-        u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
-        u => `https://thingproxy.freeboard.io/fetch/${u}`,
-        u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
-      ];
+      var cnbcUrl = `https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=${ticker}&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=1&output=json`;
 
       var meta = null;
-      // Fire all CORS proxies in PARALLEL and accept the first one that returns valid Yahoo
-      // metadata. The previous code tried them sequentially (3s each => up to 12s), which let
-      // the displayed ETF price drift behind the "LIVE" badge by the full fetch duration.
-      // Racing + a single overall timeout keeps the fastest result (~3s, not ~12s).
+      var quoteSource = 'live';
+
+      // Race multiple verified CORS proxies and endpoints using Promise.any.
+      // Promise.any ignores individual rejections and settles on the first successful resolution.
       try {
-        const probe = makeProxy => {
-          var proxyUrl = makeProxy(yahooUrl);
-          return fetch(proxyUrl, { signal: AbortSignal.timeout(3000) })
-            .then(resp => { if (!resp.ok) throw new Error('!ok'); return resp.text(); })
-            .then(text => {
-              var parsed;
-              try { var wrapper = JSON.parse(text); parsed = wrapper.contents ? JSON.parse(wrapper.contents) : wrapper; } catch { throw new Error('parse'); }
-              var r = parsed?.chart?.result?.[0]?.meta;
-              if (r && r.regularMarketPrice != null) return r;
-              throw new Error('nodata');
-            });
+        const probeYahooProxy = async (proxyFn) => {
+          const u = proxyFn(yahooUrl);
+          const resp = await fetch(u, { signal: AbortSignal.timeout(4500) });
+          if (!resp.ok) throw new Error('!ok');
+          const text = await resp.text();
+          var parsed;
+          try {
+            var wrapper = JSON.parse(text);
+            parsed = wrapper.contents ? JSON.parse(wrapper.contents) : wrapper;
+          } catch {
+            throw new Error('parse');
+          }
+          var r = parsed?.chart?.result?.[0]?.meta;
+          if (r && r.regularMarketPrice != null) return { meta: r, source: 'live' };
+          throw new Error('nodata');
         };
-        meta = await Promise.race(proxyFns.map(probe));
-      } catch { meta = null; }
+
+        const probeCnbcProxy = async (proxyFn) => {
+          const u = proxyFn(cnbcUrl);
+          const resp = await fetch(u, { signal: AbortSignal.timeout(4500) });
+          if (!resp.ok) throw new Error('!ok');
+          const text = await resp.text();
+          var parsed;
+          try {
+            var wrapper = JSON.parse(text);
+            parsed = wrapper.contents ? JSON.parse(wrapper.contents) : wrapper;
+          } catch {
+            throw new Error('parse');
+          }
+          var fq = parsed?.FormattedQuoteResult?.FormattedQuote?.[0];
+          if (fq && fq.last != null) {
+            const price = parseFloat(String(fq.last).replace(/,/g, ''));
+            const prevClose = fq.previous_day_closing ? parseFloat(String(fq.previous_day_closing).replace(/,/g, '')) : null;
+            const chgPct = fq.change_pct ? parseFloat(String(fq.change_pct).replace(/%/g, '').replace(/,/g, '')) : null;
+            if (!isNaN(price) && price > 0) {
+              return {
+                meta: {
+                  regularMarketPrice: price,
+                  regularMarketChangePercent: (chgPct != null && !isNaN(chgPct)) ? chgPct : null,
+                  previousClose: (prevClose != null && !isNaN(prevClose)) ? prevClose : null,
+                  symbol: ticker
+                },
+                source: 'live'
+              };
+            }
+          }
+          throw new Error('nodata');
+        };
+
+        const probeRepoCache = async () => {
+          const r = await fetch(`data/etf/live_quotes.json?_t=${Date.now()}`, { signal: AbortSignal.timeout(3000) });
+          if (!r.ok) throw new Error('!ok');
+          const data = await r.json();
+          const q = data?.quotes?.[ticker];
+          if (q && q.price != null) {
+            return {
+              meta: {
+                regularMarketPrice: q.price,
+                regularMarketChangePercent: q.change_percent,
+                previousClose: q.previous_close,
+                symbol: ticker,
+                marketTimeUtc: q.market_time_utc
+              },
+              source: 'cached'
+            };
+          }
+          throw new Error('nodata');
+        };
+
+        const probes = [
+          probeYahooProxy(u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`),
+          probeYahooProxy(u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`),
+          probeCnbcProxy(u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`),
+          probeCnbcProxy(u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`),
+          probeRepoCache()
+        ];
+
+        const winner = await Promise.any(probes);
+        meta = winner.meta;
+        quoteSource = winner.source;
+      } catch (e) {
+        meta = null;
+      }
 
       if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
 
@@ -16318,11 +16403,20 @@ if (intelTabsContainer) {
         }
 
         if (badge) {
-          badge.textContent = `● LIVE ${nowStr}`;
-          badge.style.display = 'inline-block';
-          badge.style.color = '#3fb950';
-          badge.style.background = 'rgba(63,185,80,0.15)';
-          badge.setAttribute('data-tooltip', `Live price auto-updated at ${nowStr}. Refreshes every 5 minutes.`);
+          if (quoteSource === 'live') {
+            badge.textContent = `● LIVE ${nowStr}`;
+            badge.style.display = 'inline-block';
+            badge.style.color = '#3fb950';
+            badge.style.background = 'rgba(63,185,80,0.15)';
+            badge.setAttribute('data-tooltip', `Real-time quote auto-updated at ${nowStr}. Refreshes every 5 minutes.`);
+          } else {
+            var timeTag = meta.marketTimeUtc ? (new Date(meta.marketTimeUtc).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })) : 'synced';
+            badge.textContent = `● SYNCED ${timeTag}`;
+            badge.style.display = 'inline-block';
+            badge.style.color = '#58a6ff';
+            badge.style.background = 'rgba(88,166,255,0.15)';
+            badge.setAttribute('data-tooltip', `Repository-synced quote (${timeTag}). Refreshes every 5 minutes.`);
+          }
         }
 
         var navEl = card ? card.querySelector(`#etfNav_${etfKey}`) : null;
@@ -16364,7 +16458,7 @@ if (intelTabsContainer) {
       } else {
         // Live fetch failed (all CORS proxies down / Yahoo 429). Show the local CSV close as
         // fallback, AND surface an honest STALE badge so the user is not shown a frozen price
-        // while the badge silently claims it's live. The previous code hid the badge entirely.
+        // while the badge silently claims it's live.
         if (priceRow && (!priceRow.textContent || priceRow.textContent.includes('Fetching') || priceRow.textContent.includes('unavailable'))) {
           priceRow.innerHTML = liqFallbackHTML(etfKey);
         }
@@ -16374,7 +16468,7 @@ if (intelTabsContainer) {
           badge.style.display = 'inline-block';
           badge.style.background = 'rgba(248, 81, 73, 0.15)';
           badge.style.color = '#f85149';
-          badge.setAttribute('data-tooltip', 'Live Yahoo quote could not be fetched (all CORS proxies failed / offline). Showing the last successful close; price may be stale. Retries every 5 minutes.');
+          badge.setAttribute('data-tooltip', 'Live quote could not be fetched. Showing last confirmed session close; retries every 5 minutes.');
         }
       }
     }
