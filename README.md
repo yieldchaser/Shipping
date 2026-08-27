@@ -279,7 +279,7 @@ Structured in the **"Executive Intelligence First"** workflow:
    - **Multi-Horizon Bet Deconstruction Core**: Rigorously decomposes any holding thesis across **1 Month ($T_{30}$)**, **3 Months ($T_{90}$)**, **6 Months ($T_{180}$)**, **1 Year ($T_{365}$)**, or **Multi-Year Macro Cycles ($1\text{Y} \to 3\text{Y}$)** into prompt cash settlements against physical Baltic spot averages, rollover lot decay across business days 1–15, contango drag hurdle rates, and physical commodity catalysts.
    - **Per-Contract Dollar Sensitivity**: Computes line-by-line NAV impact per share for every constituent position (e.g. Capesize Aug 26 moves BDRY by exact **$0.0705/share** per **+$1,000/day** change).
    - **Full Tenor Forward Curves**: Injects complete SGX settlement curves across all tenors (Prompt, $M+1, M+2, Q_1, Q_2, Q_3, Q_4, \text{Cal}+1, \text{Cal}+2$).
-   - Direct client-side execution via **Groq** (`openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.6-27b`, `groq/compound`), **Google Gemini** (`gemini-2.5-flash` with Google Search Grounding), and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`).
+   - Direct client-side execution via **Groq** (`openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.6-27b`, `groq/compound`) and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`). *(Note: Google Gemini is available server-side in the CI brief/knowledge pipelines — see §5 — but is no longer a selectable browser-side provider; the client Q&A dropdown offers Groq + OpenRouter only.)*
    - 5 curated suggestion categories (30 prompts): *Contract Exposures*, *Roll Yield & Carry*, *Scenario Shocks & PnL*, *Fund Flows & AUM*, *Strategy & Holding*.
    - Interactive action execution buttons: `⚡ Apply to Scenario Simulator`, `📅 Jump Simulator to Date`, `📋 Open Institutional Decision Ticket`, `📈 Inspect Contract`.
 4. **Thesis-to-ETF Scenario Translator (`#etfDeconstructCard`)**:
@@ -630,10 +630,9 @@ flowchart LR
 - **🌐 Google Search Grounding (Live Web)**: Native integration with Google Gemini search grounding tool, dynamically querying the live web for breaking news, geopolitical updates, and prompt freight prints with clickable inline web citations.
 - **Live Market Snapshot Injection**: Injects real-time quantitative Z-scores, momentum regimes, Breakwave analyst confluence, and ETF spreads into every query prompt.
 - **Zero-Hallucination Citation Binding**: Strict inline `[DOC-N]` source tracing linking claims directly to source asset, publication date, and section title.
-- **Client-Side Direct-CORS Multi-Provider Support**: Browser-native API key storage and direct CORS routing for:
-  - **Groq**: `openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.6-27b`, `groq/compound`.
-  - **Google Gemini**: `gemini-2.5-flash`, `gemini-1.5-flash`, `gemini-1.5-pro`, `gemini-2.5-pro`.
-  - **OpenRouter**: `openrouter/free`, `google/gemini-2.0-flash-exp:free`, `meta-llama/llama-3.3-70b-instruct:free`, `deepseek/deepseek-r1:free`.
+- **Client-Side Direct-CORS Multi-Provider Support**: Browser-native API key storage and direct CORS routing for **Groq** and **OpenRouter** (the two providers registered in the dashboard's Q&A provider selector). Server-side CI pipelines additionally support **Google Gemini** and **NVIDIA NIM** (see below) — those run on GitHub Actions, not in the browser.
+  - **Groq** (browser): `openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.6-27b`, `groq/compound`.
+  - **OpenRouter** (browser): `meta-llama/llama-3.3-70b-instruct:free`, `deepseek/deepseek-r1:free`, `qwen/qwen-2.5-72b-instruct:free`, `google/gemma-4-31b-it:free`, `nvidia/nemotron-3-super-120b-a12b:free`, `openai/gpt-oss-120b:free`, `openai/gpt-oss-20b:free`.
 - **Server-Side AI Synthesis Engine**: Backend Python pipelines (`scripts/generate_brief.py` & `scripts/process_knowledge.py`) execute on GitHub Actions with zero CORS limitations, utilizing **NVIDIA NIM** (`deepseek-ai/deepseek-r1`, `nvidia/nemotron-3-ultra-550b`, `meta/llama-3.3-70b-instruct`) alongside Groq, Gemini, and OpenRouter to synthesize daily market briefs and compile topic wikis.
 
 ---
