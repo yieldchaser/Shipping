@@ -22598,37 +22598,37 @@ if (intelTabsContainer) {
       if (elCongestion) elCongestion.innerHTML = `${congestionPct.toFixed(1)}% Fleet Anchored`;
 
       // Recalculate Ton-Miles & Fleet Utilization
-      const wausTonMiles = (54.0 * 3600.0) / 1000.0;
+      const wausTonMiles = (48.0 * 3600.0) / 1000.0;
       const brazilTonMiles = (brazilOreMt * 11000.0) / 1000.0;
       const guineaTonMiles = (bauxiteMt * 11200.0) / 1000.0;
       const totalTonMiles = wausTonMiles + brazilTonMiles + guineaTonMiles;
 
-      const baseUtil = 84.0 + (totalTonMiles - 650.0) * 0.08;
-      const activeUtil = Math.min(98.0, Math.max(78.0, baseUtil + (congestionPct - 3.0) * 1.1));
+      const baseUtil = (totalTonMiles / 815.0) * 100.0;
+      const activeUtil = Math.min(98.5, Math.max(65.0, baseUtil + (congestionPct - 4.5) * 1.2));
 
       if (elBadge) {
-        const regimeColor = activeUtil >= 90.0 ? '#ff7b72' : (activeUtil >= 87.0 ? '#e3b341' : '#3fb950');
-        const regimeText = activeUtil >= 90.0 ? 'Super-Cycle Squeeze' : (activeUtil >= 87.0 ? 'Tight Supply Window' : 'Balanced Fleet');
+        const regimeColor = activeUtil >= 90.0 ? '#ff7b72' : (activeUtil >= 85.0 ? '#e3b341' : '#3fb950');
+        const regimeText = activeUtil >= 90.0 ? 'Super-Cycle Squeeze' : (activeUtil >= 85.0 ? 'Tight Supply Window' : 'Balanced Fleet');
         elBadge.innerHTML = `Capesize Active Utilization: <strong>${activeUtil.toFixed(1)}% (${regimeText})</strong>`;
         elBadge.style.color = regimeColor;
       }
 
       // Dynamically update the stress point on chart instance if active
       const chart = (typeof chartRegistry !== 'undefined' && chartRegistry['tonMileSimChart']) || (typeof Chart !== 'undefined' ? Chart.getChart('tonMileSimChart') : null);
-      if (chart && chart.data && chart.data.datasets && chart.data.datasets.length >= 4) {
+      if (chart && chart.data && chart.data.datasets && chart.data.datasets.length >= 2) {
         const len = chart.data.labels.length;
         if (len > 0) {
-          let stressDs = chart.data.datasets.find(ds => ds.label === 'Simulated Capesize Stress Point (%)');
+          let stressDs = chart.data.datasets.find(ds => ds.label === 'Simulated Stress Point (%)');
           if (!stressDs) {
             const simArr = new Array(len).fill(null);
             simArr[len - 1] = parseFloat(activeUtil.toFixed(1));
             chart.data.datasets.push({
-              label: 'Simulated Capesize Stress Point (%)',
+              label: 'Simulated Stress Point (%)',
               data: simArr,
               borderColor: '#f85149',
               backgroundColor: '#f85149',
-              pointRadius: 6,
-              pointHoverRadius: 8,
+              pointRadius: 7,
+              pointHoverRadius: 9,
               showLine: false,
               order: -1
             });
@@ -22649,10 +22649,6 @@ if (intelTabsContainer) {
       if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
-      // Only render series the model actually publishes. The current matrix is
-      // Capesize-only (WAus assumption + Brazil ore + Guinea bauxite); VLCC/Suezmax
-      // columns don't exist yet, so mapping them produced all-null datasets and a
-      // visually blank chart (2026-08-26 fix).
       const capeUtil = rows.map(r => r.capeFleetUtilPct);
       const capeTm = rows.map(r => r.capeTotalTonMilesBn);
       const hasVlcc = rows.some(r => r.vlccFleetUtilPct != null);
@@ -22682,8 +22678,8 @@ if (intelTabsContainer) {
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
-            y: { grid: { color: '#151a22' }, min: 75, max: 100, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v + '%' }, title: { display: true, text: 'Utilization %', color: '#8b949e', font: { size: 10 } } },
-            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#e3b344', font: { size: 10 } }, title: { display: true, text: 'Billion Ton-NM', color: '#e3b344', font: { size: 10 } } }
+            y: { grid: { color: '#151a22' }, min: 65, max: 100, ticks: { color: '#58a6ff', font: { size: 10 }, callback: v => v + '%' }, title: { display: true, text: 'Utilization %', color: '#58a6ff', font: { size: 10 } } },
+            y1: { position: 'right', grid: { drawOnChartArea: false }, min: 500, max: 850, ticks: { color: '#e3b344', font: { size: 10 } }, title: { display: true, text: 'Billion Ton-NM', color: '#e3b344', font: { size: 10 } } }
           }
         }
       });
