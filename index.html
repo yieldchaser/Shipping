@@ -4668,12 +4668,7 @@
       renderETFDeconstructionEngine();
     }
 
-    function resetDeconstMicroShocks() {
-      _deconstMicroShocks = {};
-      renderETFDeconstructionEngine();
-    }
-
-    window.getDeconstBasePrice = function getDeconstBasePrice(etfKey) {
+        window.getDeconstBasePrice = function getDeconstBasePrice(etfKey) {
       var _DATA = window.DATA || (typeof DATA !== 'undefined' ? DATA : null);
       if (!_DATA) return etfKey === 'bdry' ? 13.79 : 119.74;
       if (etfKey === 'bdry' && _DATA.bdryLiquidity && _DATA.bdryLiquidity.length) {
@@ -11671,48 +11666,7 @@ if (intelTabsContainer) {
 
     // Fast vessel valuation lookup: pre-build date index for (vesselClass, tenorType)
     var _valMapCache = {};
-    function getValuationMap(vesselClass, tenorType) {
-      const k = vesselClass + '|' + tenorType;
-      if (_valMapCache[k]) return _valMapCache[k];
-      if (!DATA.vesselValuations) return { byDate: {}, sortedTs: [], sortedVals: [] };
-      // Primary series: exact vessel_class + tenor_type match
-      let filtered = DATA.vesselValuations.filter(r => r.vessel_class === vesselClass && r.tenor_type === tenorType && r.valuation_usd_m != null);
-      // Fallback: for DRY tenors, merge Japanese-built variant (standard S&P benchmark)
-      // Data source split dry bulk classes into (Japanese)/(Chinese) variants from Feb 2026
-      if (tenorType.startsWith('DRY-')) {
-        const jpClass = vesselClass + ' (Japanese)';
-        const jpTenor = tenorType + '-JP';
-        const jpRows = DATA.vesselValuations.filter(r => r.vessel_class === jpClass && r.tenor_type === jpTenor && r.valuation_usd_m != null);
-        if (jpRows.length) {
-          // Merge: use standard data as base, fill gaps with Japanese variant
-          const dateSet = new Set(filtered.map(r => r.dateStr));
-          const extra = jpRows.filter(r => !dateSet.has(r.dateStr));
-          filtered = filtered.concat(extra);
-        }
-      }
-      filtered.sort((a, b) => a.date - b.date);
-      const byDate = {};
-      const sortedTs = new Array(filtered.length);
-      const sortedVals = new Array(filtered.length);
-      for (let i = 0; i < filtered.length; i++) {
-        const r = filtered[i];
-        byDate[r.dateStr] = r.valuation_usd_m;
-        sortedTs[i] = r.date.getTime();
-        sortedVals[i] = r.valuation_usd_m;
-      }
-      _valMapCache[k] = { byDate: byDate, sortedTs: sortedTs, sortedVals: sortedVals };
-      return _valMapCache[k];
-    }
-
-    function lookupValuation(valMap, dateStr, dateObj) {
-      if (!valMap || !valMap.sortedTs.length) return null;
-      var v = valMap.byDate[dateStr];
-      if (v != null) return v;
-      var idx = binarySearchNearest(valMap.sortedTs, dateObj.getTime(), 2592000000); // 30D window for monthly/weekly reports
-      return idx >= 0 ? valMap.sortedVals[idx] : null;
-    }
-
-    // computeStats memoized per product (reset on product switch)
+            // computeStats memoized per product (reset on product switch)
     const _statsCache = {};
     function getStats(productKey) {
       if (!_statsCache[productKey]) _statsCache[productKey] = computeStats(productKey);
@@ -11895,25 +11849,7 @@ if (intelTabsContainer) {
       return `${months[dateObj.getMonth()]} ${dateObj.getDate()}, ${dateObj.getFullYear()}`;
     }
 
-    function fmtPct(n) {
-      if (n == null || isNaN(n)) return '-';
-      const s = (n >= 0 ? '+' : '') + (n * 100).toFixed(1) + '%';
-      return s;
-    }
-
-    function fmtPctRaw(n) {
-      if (n == null || isNaN(n)) return '-';
-      const s = (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
-      return s;
-    }
-
-    function fmtPctDirect(n) {
-      // n is already a percentage value (not fractional)
-      if (n == null || isNaN(n)) return '-';
-      return (n >= 0 ? '+' : '') + n.toFixed(1) + '%';
-    }
-
-    function getQuarter(month) {
+                function getQuarter(month) {
       if (month <= 2) return 'Q1';
       if (month <= 5) return 'Q2';
       if (month <= 8) return 'Q3';
@@ -12265,9 +12201,7 @@ if (intelTabsContainer) {
     function setCachedAligned(chartName, productKey, data) {
       _alignedCache[getAlignedCacheKey(chartName, productKey)] = data;
     }
-    function invalidateAlignedCache() { _alignedCache = {}; }
-
-    // =====================================================================
+        // =====================================================================
     // DATA LOADING
     // =====================================================================
     async function fetchCSV(path) {
@@ -17978,14 +17912,7 @@ if (intelTabsContainer) {
     // =====================================================================
     // QUARTERLY DASHBOARD TAB
     // =====================================================================
-    function renderQuarterlyDash(productKey) {
-      renderQDAreaComp1(productKey);
-      renderQDBarChart(productKey);
-      renderQDDataGrid(productKey);
-      renderQuarterlyWinRateMatrix(productKey);
-    }
-
-    function getQAvgPD(productKey, year, quarter) {
+        function getQAvgPD(productKey, year, quarter) {
       return getQAvgCached(productKey, year, quarter);
     }
 
@@ -23668,23 +23595,7 @@ if (intelTabsContainer) {
       }
     }
 
-    function parseYahooRows(data) {
-      var result_data = data.chart && data.chart.result && data.chart.result[0];
-      if (!result_data) return [];
-      var ts = result_data.timestamp || [];
-      var q = result_data.indicators.quote[0];
-      var rows = [];
-      for (var i = 0; i < ts.length; i++) {
-        var close = q.close[i];
-        var vol = q.volume[i];
-        if (close == null || vol == null) continue;
-        var d = new Date(ts[i] * 1000);
-        rows.push({ ts: ts[i], date: d, dateStr: fmtDate(d), close: close, volume: vol });
-      }
-      return rows;
-    }
-
-    // ── Range slider for Liq + Vol charts (dual-handle, synced) ─────────────────
+        // ── Range slider for Liq + Vol charts (dual-handle, synced) ─────────────────
     function initBdryLiqRangeSlider(allRows) {
       var total = allRows.length;
       var startEl = document.getElementById('bdryLiqRangeStart');
@@ -27937,11 +27848,7 @@ if (intelTabsContainer) {
       }
     }
 
-    function saveQAKey() {
-      saveQASettings();
-    }
-
-    function _tokenize(text) {
+        function _tokenize(text) {
       // Include 2-char tokens to preserve shipping codes: Q1, C5, TD, US, etc.
       return (text || '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter(t => t.length >= 2);
     }
