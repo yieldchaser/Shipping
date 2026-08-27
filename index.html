@@ -17862,7 +17862,7 @@ if (intelTabsContainer) {
       var matrix = {};
       allYears.forEach(function (y) { matrix[y] = {}; for (var m = 0; m < 12; m++) { var v = DATA.master.filter(function (r) { return r.year === y && r.month === m && r[productKey] != null; }).map(function (r) { return r[productKey]; }); matrix[y][m] = v.length ? mean(v) : null; } });
       var colStats = {};
-      for (var m = 0; m < 12; m++) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][m] : null; }).filter(function (v) { return v != null; }); colStats[m] = { min: Math.min.apply(null, v), max: Math.max.apply(null, v) }; }
+      for (var m = 0; m < 12; m++) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][m] : null; }).filter(function (v) { return v != null; }); colStats[m] = v.length ? { min: Math.min.apply(null, v), max: Math.max.apply(null, v) } : { min: null, max: null }; }
       
       var avg8y = {};
       for (var m = 0; m < 12; m++) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][m] : null; }).filter(function (v) { return v != null; }); avg8y[m] = v.length ? mean(v) : null; }
@@ -17979,7 +17979,7 @@ if (intelTabsContainer) {
       var matrix = {};
       allYears.forEach(function (y) { matrix[y] = {}; qs.forEach(function (q) { matrix[y][q] = getQAvgPD(productKey, y, q); }); });
       var colStats = {};
-      qs.forEach(function (q) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][q] : null; }).filter(function (v) { return v != null; }); colStats[q] = { min: Math.min.apply(null, v), max: Math.max.apply(null, v) }; });
+      qs.forEach(function (q) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][q] : null; }).filter(function (v) { return v != null; }); colStats[q] = v.length ? { min: Math.min.apply(null, v), max: Math.max.apply(null, v) } : { min: null, max: null }; });
       
       var avg8y = {};
       qs.forEach(function (q) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][q] : null; }).filter(function (v) { return v != null; }); avg8y[q] = v.length ? mean(v) : null; });
