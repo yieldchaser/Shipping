@@ -1505,7 +1505,6 @@ def llm_available() -> bool:
 
 
 def _ollama_sleep_interval():
-    global _last_ollama_call_ts
     now = time.monotonic()
     elapsed = now - _last_ollama_call_ts
     wait_for = OLLAMA_MIN_INTERVAL_SEC - elapsed
@@ -1594,7 +1593,6 @@ def call_ollama(prompt: str, retries: int | None = None) -> str | None:
 
 
 def _nim_sleep_interval():
-    global _last_nim_call_ts
     now = time.monotonic()
     elapsed = now - _last_nim_call_ts
     wait_for = NIM_MIN_INTERVAL_SEC - elapsed
