@@ -12345,20 +12345,22 @@ if (intelTabsContainer) {
       DATA.tankerForwardCurves = DATA.tankerForwardCurves || [];
       DATA.tankerForwardCurvesHistory = DATA.tankerForwardCurvesHistory || [];
 
-      // Pre-calculate total promises up front (PRODUCT_KEYS count + 22 specific file fetches + 4 SGX files)
-      const sgxFileKeys = ['cape', 'panamax', 'supramax', 'handysize'];
-      let total = PRODUCT_KEYS.length + 22 + sgxFileKeys.length;
+      // Total is computed dynamically from the actual promise list (see allPromisesList below)
+      // so the progress denominator always matches the number of real load operations.
+      let total = 0;
+      let failedLoads = [];
 
       function tick(label) {
         loaded++;
         if (progress) progress.textContent = `${label} (${loaded}/${total})`;
       }
 
-      // Watchdog timer: If loading takes longer than 8 seconds, force-dismiss overlay and render
+      // Watchdog timer: safety net only. fetchCSV has a 10s per-file timeout, so the watchdog
+      // must fire well after that (13s) to avoid dismissing the overlay while fetches are still racing.
       let completed = false;
       const watchdog = setTimeout(() => {
         if (!completed) {
-          console.warn('[loadAllData] Watchdog 8s timeout triggered — force rendering dashboard');
+          console.warn('[loadAllData] Watchdog 13s timeout triggered — force rendering dashboard');
           completed = true;
           try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
           DATA.loaded = true;
@@ -12414,6 +12416,7 @@ if (intelTabsContainer) {
             })
             .catch(e => {
               tick(label + ' (fail)');
+              failedLoads.push({ file, label, error: e && e.message ? e.message : String(e) });
               console.warn('[' + label + '] Load failed:', e && e.message ? e.message : e);
               if (parseFn) {
                 try { parseFn(defaultVal || []); } catch (err) {}
@@ -12918,17 +12921,31 @@ if (intelTabsContainer) {
           ...sgxPromises
         ];
 
+        // Denominator = actual number of load operations (no stale magic constant)
+        total = allPromisesList.length;
+
         await Promise.allSettled(allPromisesList);
       } catch (err) {
         console.error('[loadAllData error]', err);
       } finally {
         clearTimeout(watchdog);
         if (!completed) {
-          completed = true;
-          try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
-          DATA.loaded = true;
-          DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
-          if (overlay) overlay.classList.add('hidden');
+        completed = true;
+        try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
+        DATA.loaded = true;
+        DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
+        if (overlay) overlay.classList.add('hidden');
+
+        // Honest load summary: total = real op count, failedLoads = genuinely failed fetches
+        if (progress) {
+          if (failedLoads.length) {
+            const names = failedLoads.map(f => f.label).join(', ');
+            progress.textContent = `Loaded ${total - failedLoads.length}/${total} datasets (${failedLoads.length} failed: ${names})`;
+            console.warn('[loadAllData] Failed datasets:', failedLoads);
+          } else {
+            progress.textContent = `Loaded ${total}/${total} datasets`;
+          }
+        }
 
           const _latestDataRow = DATA.master.length ? DATA.master[DATA.master.length - 1] : null;
           const _latestDataDate = _latestDataRow ? _latestDataRow.date : new Date();
