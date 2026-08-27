@@ -16257,21 +16257,25 @@ if (intelTabsContainer) {
       ];
 
       var meta = null;
-      for (const makeProxy of proxyFns) {
-        try {
+      // Fire all CORS proxies in PARALLEL and accept the first one that returns valid Yahoo
+      // metadata. The previous code tried them sequentially (3s each => up to 12s), which let
+      // the displayed ETF price drift behind the "LIVE" badge by the full fetch duration.
+      // Racing + a single overall timeout keeps the fastest result (~3s, not ~12s).
+      try {
+        const probe = makeProxy => {
           var proxyUrl = makeProxy(yahooUrl);
-          var resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(3000) });
-          if (!resp.ok) continue;
-          var text = await resp.text();
-          var parsed;
-          try {
-            var wrapper = JSON.parse(text);
-            parsed = (wrapper.contents) ? JSON.parse(wrapper.contents) : wrapper;
-          } catch { continue; }
-          var r = parsed?.chart?.result?.[0]?.meta;
-          if (r && r.regularMarketPrice != null) { meta = r; break; }
-        } catch { continue; }
-      }
+          return fetch(proxyUrl, { signal: AbortSignal.timeout(3000) })
+            .then(resp => { if (!resp.ok) throw new Error('!ok'); return resp.text(); })
+            .then(text => {
+              var parsed;
+              try { var wrapper = JSON.parse(text); parsed = wrapper.contents ? JSON.parse(wrapper.contents) : wrapper; } catch { throw new Error('parse'); }
+              var r = parsed?.chart?.result?.[0]?.meta;
+              if (r && r.regularMarketPrice != null) return r;
+              throw new Error('nodata');
+            });
+        };
+        meta = await Promise.race(proxyFns.map(probe));
+      } catch { meta = null; }
 
       if (_quoteVers[ticker] !== qVer) return; // superseded by a newer fetch
 
@@ -16358,9 +16362,18 @@ if (intelTabsContainer) {
           try { renderETFDeconstructionEngine(); } catch (e) {}
         }
       } else {
-        // Fallback to local close if priceRow is still showing Fetching
+        // Live fetch failed (all CORS proxies down / Yahoo 429). Show the local CSV close as
+        // fallback, AND surface an honest STALE badge so the user is not shown a frozen price
+        // while the badge silently claims it's live. The previous code hid the badge entirely.
         if (priceRow && (!priceRow.textContent || priceRow.textContent.includes('Fetching') || priceRow.textContent.includes('unavailable'))) {
           priceRow.innerHTML = liqFallbackHTML(etfKey);
+        }
+        if (badge) {
+          var staleMins = _lastEtfFetchTime ? Math.round((Date.now() - _lastEtfFetchTime) / 60000) : '?';
+          badge.textContent = '● STALE ' + (staleMins > 0 ? (staleMins + 'm+') : '') + ' (live unavailable)';
+          badge.style.display = 'inline-block';
+          badge.style.background = 'rgba(248, 81, 73, 0.15)';
+          badge.style.color = '#f85149';
         }
       }
     }
