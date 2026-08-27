@@ -6228,6 +6228,10 @@
     }
 
     function renderETFDeconstructionEngine() {
+      // DATA is a const in a later <script> block; this function is in an earlier block where
+      // bare DATA is out of scope. window.DATA is assigned at load (line ~11601), so use it.
+      // (Do NOT reference `DATA` in this initializer — it would hit the temporal dead zone.)
+      const DATA = window.DATA || {};
       var dateInput = document.getElementById('deconstTargetDate');
       var dateStr = (dateInput && dateInput.value) ? dateInput.value : '2026-08-14';
       var parts = dateStr.split('-');
@@ -14596,9 +14600,11 @@ if (intelTabsContainer) {
         // function () { renderQuarterlyHeatmap(productKey); },
         function () { renderSpaghettiChart(productKey); },
         function () { renderQDAreaComp1(productKey); },
-        function () { renderQDTrend(productKey); },
+        // renderQDTrend and renderQDAreaComp2 are not defined in this build; removed from the
+        // render batch so the Quarterly tab no longer throws ReferenceErrors. Their sibling
+        // charts (renderQDAreaComp1, renderQDBarChart, renderQDDataGrid) remain.
         function () { renderQDBarChart(productKey); },
-        function () { renderQDAreaComp2(productKey); },
+        function () { renderQDDataGrid(productKey); },
         function () { renderQDDataGrid(productKey); },
       ];
       // Synchronous Batch 1 (0ms latency), Batch 2 in RAF
@@ -16140,11 +16146,15 @@ if (intelTabsContainer) {
               if (!chartArea) return null;
               const zeroPos = chart.scales.y.getPixelForValue(0);
               const grad = ctx.createLinearGradient(0, chartArea.top, 0, chartArea.bottom);
-              const zeroPct = (zeroPos - chartArea.top) / (chartArea.bottom - chartArea.top);
+              let zeroPct = (zeroPos - chartArea.top) / (chartArea.bottom - chartArea.top);
+              // Guard against non-finite stop positions (e.g. degenerate chartArea when the
+              // series has no usable range) — otherwise addColorStop throws and the chart fails.
+              if (!isFinite(zeroPct)) zeroPct = 0.5;
+              zeroPct = Math.max(0, Math.min(1, zeroPct));
               // Green for surplus, Red for deficit
               grad.addColorStop(0, 'rgba(63, 185, 80, 0.2)'); // Top (Positive)
-              grad.addColorStop(Math.max(0, Math.min(1, zeroPct)), 'rgba(63, 185, 80, 0.05)');
-              grad.addColorStop(Math.max(0, Math.min(1, zeroPct)), 'rgba(248, 81, 73, 0.05)');
+              grad.addColorStop(zeroPct, 'rgba(63, 185, 80, 0.05)');
+              grad.addColorStop(zeroPct, 'rgba(248, 81, 73, 0.05)');
               grad.addColorStop(1, 'rgba(248, 81, 73, 0.2)'); // Bottom (Negative)
               return grad;
             },
@@ -18021,6 +18031,7 @@ if (intelTabsContainer) {
     }
 
     function renderQDDataGrid(productKey) {
+      var a8all = [];
       var cy = new Date().getFullYear(), years8 = [cy, cy - 1, cy - 2, cy - 3, cy - 4, cy - 5, cy - 6, cy - 7], qs = ['Q1', 'Q2', 'Q3', 'Q4'];
       var seen = {}, allYears = [];
       DATA.master.forEach(function (r) { if (!seen[r.year]) { seen[r.year] = 1; allYears.push(r.year); } });
