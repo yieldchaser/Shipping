@@ -5,7 +5,7 @@ Reads quantitative CSV data + recent Breakwave signals + Baltic roundups + wiki 
   knowledge/briefs/latest.json
   knowledge/briefs/YYYY-MM-DD.json
 
-LLM provider cascade: Groq -> Gemini -> NVIDIA NIM -> OpenRouter -> Ollama.
+LLM provider cascade: Groq -> NVIDIA NIM -> OpenRouter -> Ollama.
 If all providers fail, a deterministic mathematical template brief is generated.
 """
 from __future__ import annotations
@@ -99,13 +99,6 @@ GROQ_MAX_RETRIES = int(os.environ.get("GROQ_MAX_RETRIES", "3"))
 GROQ_BACKOFF_BASE_SEC = float(os.environ.get("GROQ_BACKOFF_BASE_SEC", "1.5"))
 GROQ_MAX_BACKOFF_SEC = float(os.environ.get("GROQ_MAX_BACKOFF_SEC", "15.0"))
 
-GEMINI_API_KEY = (os.environ.get("GEMINI_API_KEY") or "").strip()
-GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
-GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "1.5"))
-GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "3"))
-GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "1.5"))
-GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "15.0"))
-
 OPENROUTER_API_KEY = (os.environ.get("OPENROUTER_API_KEY") or "").strip()
 OPENROUTER_MODEL = (os.environ.get("OPENROUTER_MODEL") or "meta-llama/llama-3.3-70b-instruct").strip()
 OPENROUTER_BASE_URL = (os.environ.get("OPENROUTER_BASE_URL") or "https://openrouter.ai/api/v1").strip().rstrip("/")
@@ -130,7 +123,6 @@ if not LLM_PROVIDER_ORDER:
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
 _last_groq_call_ts = 0.0
-_last_gemini_call_ts = 0.0
 _last_openrouter_call_ts = 0.0
 
 _QUAL_SCORES = {
@@ -1839,110 +1831,6 @@ def call_groq_text(messages: list, retries: int | None = None) -> str | None:
     return None
 
 
-def gemini_available() -> bool:
-    has_key = bool(GEMINI_API_KEY)
-    has_model = bool(GEMINI_MODEL)
-    key_disp = f"PRESENT (len={len(GEMINI_API_KEY)})" if has_key else "MISSING/EMPTY (check GitHub Secret GEMINI_API_KEY)"
-    print(f"[brief] Gemini env check: API key={key_disp}, Model={GEMINI_MODEL}", file=sys.stderr)
-    return has_key and has_model
-
-
-def _call_gemini_once(messages: list, model_override: str | None = None) -> str | None:
-    system_text = ""
-    contents = []
-    for m in messages:
-        role = m.get("role", "user")
-        content = m.get("content", "")
-        if role == "system":
-            system_text += content + "\n\n"
-        elif role == "assistant":
-            contents.append({"role": "model", "parts": [{"text": content}]})
-        else:
-            contents.append({"role": "user", "parts": [{"text": content}]})
-
-    payload = {
-        "contents": contents,
-        "generationConfig": {
-            "temperature": 0.35,
-            "response_mime_type": "application/json",
-        }
-    }
-    if system_text.strip():
-        payload["system_instruction"] = {
-            "parts": [{"text": system_text.strip()}]
-        }
-
-    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-    headers = {
-        "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    }
-    target_model = (model_override or GEMINI_MODEL).replace("models/", "")
-    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{target_model}:generateContent?key={GEMINI_API_KEY}"
-    req = urllib_request.Request(
-        endpoint,
-        data=body,
-        headers=headers,
-        method="POST",
-    )
-    try:
-        with urllib_request.urlopen(req, timeout=60) as response:
-            raw = response.read().decode("utf-8", errors="replace")
-    except urllib_error.HTTPError as exc:
-        retry_after = exc.headers.get("Retry-After") if exc.headers else None
-        err_body = exc.read().decode("utf-8", errors="replace")
-        details = err_body or str(exc)
-        if retry_after:
-            details = f"{details} retry_after {retry_after}"
-        raise RuntimeError(f"Gemini HTTP {exc.code}: {details}") from exc
-    except urllib_error.URLError as exc:
-        raise RuntimeError(f"Gemini connection error: {exc}") from exc
-    try:
-        data = json.loads(raw)
-    except json.JSONDecodeError as exc:
-        raise RuntimeError(f"Gemini returned non-JSON payload: {raw[:200]}") from exc
-    candidates = data.get("candidates") or []
-    if not candidates:
-        return None
-    content_obj = candidates[0].get("content") or {}
-    parts = content_obj.get("parts") or []
-    if not parts:
-        return None
-    text = _clean_text(parts[0].get("text"))
-    return text or None
-
-
-def call_gemini_text(messages: list, retries: int | None = None) -> str | None:
-    if not gemini_available():
-        return None
-    retries = retries or GEMINI_MAX_RETRIES
-    global _last_gemini_call_ts
-    gemini_candidates = [GEMINI_MODEL, "gemini-2.5-flash", "gemini-1.5-flash", "gemini-1.5-pro"]
-    for candidate in gemini_candidates:
-        for attempt in range(retries):
-            try:
-                print(f"[brief] Gemini API call attempt {attempt + 1}/{retries} using {candidate} starting...", file=sys.stderr)
-                _last_gemini_call_ts = _apply_interval(_last_gemini_call_ts, GEMINI_MIN_INTERVAL_SEC)
-                res = _call_gemini_once(messages, model_override=candidate)
-                if res:
-                    print(f"[brief] Gemini API call attempt {attempt + 1} SUCCESS with {candidate}!", file=sys.stderr)
-                    return res
-                else:
-                    print(f"[brief] Gemini API call attempt {attempt + 1} returned empty content.", file=sys.stderr)
-            except Exception as exc:
-                exc_text = str(exc)
-                print(f"[brief] Gemini attempt {attempt + 1}/{retries} ({candidate}) failed: {exc_text}", file=sys.stderr)
-                if "HTTP 404:" in exc_text:
-                    print(f"[brief] Gemini model {candidate} 404'd; trying next candidate model.", file=sys.stderr)
-                    break
-                if any(code in exc_text for code in ("HTTP 400:", "HTTP 401:", "HTTP 403:", "API_KEY_INVALID")):
-                    print("[brief] Gemini auth/client error detected; skipping further retries.", file=sys.stderr)
-                    return None
-                if attempt < retries - 1:
-                    _backoff_sleep(attempt, exc_text, GEMINI_BACKOFF_BASE_SEC, GEMINI_MAX_BACKOFF_SEC)
-    return None
-
-
 def openrouter_available() -> bool:
     has_key = bool(OPENROUTER_API_KEY)
     has_model = bool(OPENROUTER_MODEL)
@@ -2061,8 +1949,6 @@ def call_llm_payload(messages: list) -> tuple[dict | None, str | None, list[str]
             text = call_groq_text(messages)
         elif provider == "nim":
             text = call_nim_text(messages)
-        elif provider == "gemini":
-            text = call_gemini_text(messages)
         elif provider == "openrouter":
             text = call_openrouter_text(messages)
         elif provider == "ollama":
@@ -2513,8 +2399,6 @@ def main() -> None:
         model_name = NIM_MODEL
     elif generation_provider == "groq":
         model_name = GROQ_MODEL
-    elif generation_provider == "gemini":
-        model_name = GEMINI_MODEL
     elif generation_provider == "openrouter":
         model_name = OPENROUTER_MODEL
 

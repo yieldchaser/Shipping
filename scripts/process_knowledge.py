@@ -17,17 +17,10 @@ from build_wiki import build_wiki
 from knowledge_hash import SOURCE_HASH_VERSION, compute_source_hash
 from source_archive_utils_v2 import is_primary_archive_html_path, looks_like_non_content_link
 warnings.simplefilter("ignore", FutureWarning)
-try:
-    import google.generativeai as genai
-except Exception:
-    genai = None
-
 load_dotenv()
 REPO_ROOT = Path(__file__).parent.parent
 REPORTS_ROOT = REPO_ROOT / "reports"
 KNOWLEDGE = REPO_ROOT / "knowledge"
-GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY")
 OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "").strip()
 OLLAMA_BASE_URL = (os.environ.get("OLLAMA_BASE_URL") or "").strip().rstrip("/")
@@ -40,12 +33,6 @@ NIM_API_KEY = os.environ.get("NIM_API_KEY", "").strip()
 NIM_MODEL = os.environ.get("NIM_MODEL", "").strip()
 NIM_BASE_URL = (os.environ.get("NIM_BASE_URL") or "https://integrate.api.nvidia.com/v1").strip().rstrip("/")
 TOKENIZER = tiktoken.get_encoding("cl100k_base")
-
-if GEMINI_KEY and genai is not None:
-    genai.configure(api_key=GEMINI_KEY)
-    GEMINI = genai.GenerativeModel(GEMINI_MODEL)
-else:
-    GEMINI = None
 
 for stream_name in ("stdout", "stderr"):
     stream = getattr(sys, stream_name, None)
@@ -82,10 +69,6 @@ LINKED_PDF_OCR_PAGE_LIMIT = int(os.environ.get("LINKED_PDF_OCR_PAGE_LIMIT", "4")
 LINKED_TEXT_CHAR_LIMIT = int(os.environ.get("LINKED_TEXT_CHAR_LIMIT", "70000"))
 LINKED_TABLE_ROW_LIMIT = int(os.environ.get("LINKED_TABLE_ROW_LIMIT", "300"))
 LINKED_TABLE_COL_LIMIT = int(os.environ.get("LINKED_TABLE_COL_LIMIT", "24"))
-GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "2.5"))
-GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "6"))
-GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "3.0"))
-GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "60.0"))
 OLLAMA_MIN_INTERVAL_SEC = float(os.environ.get("OLLAMA_MIN_INTERVAL_SEC", "2.5"))
 OLLAMA_MAX_RETRIES = int(os.environ.get("OLLAMA_MAX_RETRIES", "6"))
 OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "3.0"))
@@ -113,13 +96,9 @@ LLM_PROVIDER_ORDER = [
 ]
 if not LLM_PROVIDER_ORDER:
     LLM_PROVIDER_ORDER = ["ollama", "nim"]
-_last_gemini_call_ts = 0.0
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
 LLM_STATS = {
-    "gemini_ok": 0,
-    "gemini_429": 0,
-    "gemini_error": 0,
     "ollama_ok": 0,
     "ollama_429": 0,
     "ollama_error": 0,
@@ -1513,52 +1492,6 @@ def _is_rate_limit_error(exc_text: str) -> bool:
     return "429" in lower or "too many requests" in lower or "quota" in lower or "rate limit" in lower
 
 
-def _gemini_sleep_interval():
-    global _last_gemini_call_ts
-    now = time.monotonic()
-    elapsed = now - _last_gemini_call_ts
-    wait_for = GEMINI_MIN_INTERVAL_SEC - elapsed
-    if wait_for > 0:
-        time.sleep(wait_for)
-
-
-def call_gemini(prompt: str, retries: int | None = None) -> str | None:
-    if GEMINI is None:
-        return None
-    retries = retries or GEMINI_MAX_RETRIES
-    global _last_gemini_call_ts
-    for attempt in range(retries):
-        try:
-            _gemini_sleep_interval()
-            response = GEMINI.generate_content(prompt)
-            _last_gemini_call_ts = time.monotonic()
-            text = getattr(response, "text", None)
-            if text:
-                LLM_STATS["gemini_ok"] += 1
-                return text.strip()
-            return None
-        except Exception as exc:
-            _last_gemini_call_ts = time.monotonic()
-            exc_text = str(exc)
-            if _is_rate_limit_error(exc_text):
-                LLM_STATS["gemini_429"] += 1
-            else:
-                LLM_STATS["gemini_error"] += 1
-            if attempt < retries - 1:
-                retry_after = _parse_retry_after(exc_text)
-                if retry_after is not None:
-                    delay = retry_after
-                elif _is_rate_limit_error(exc_text):
-                    delay = GEMINI_BACKOFF_BASE_SEC * (2 ** attempt)
-                else:
-                    delay = GEMINI_BACKOFF_BASE_SEC * (attempt + 1)
-                delay = min(delay, GEMINI_MAX_BACKOFF_SEC)
-                delay += random.uniform(0.1, 0.9)
-                time.sleep(delay)
-            else:
-                return None
-
-
 def ollama_available() -> bool:
     return bool(OLLAMA_BASE_URL and OLLAMA_MODEL)
 
@@ -1568,7 +1501,7 @@ def nim_available() -> bool:
 
 
 def llm_available() -> bool:
-    return GEMINI is not None or ollama_available() or nim_available()
+    return ollama_available() or nim_available()
 
 
 def _ollama_sleep_interval():
@@ -1753,9 +1686,7 @@ def call_nim(prompt: str, retries: int | None = None) -> str | None:
 
 def call_llm(prompt: str) -> str | None:
     for provider in LLM_PROVIDER_ORDER:
-        if provider == "gemini":
-            text = call_gemini(prompt)
-        elif provider == "ollama":
+        if provider == "ollama":
             text = call_ollama(prompt)
         elif provider == "nim":
             text = call_nim(prompt)
@@ -4581,9 +4512,6 @@ def main():
             + " ".join(
                 [
                     f"provider_order={','.join(LLM_PROVIDER_ORDER)}",
-                    f"gemini_ok={LLM_STATS['gemini_ok']}",
-                    f"gemini_429={LLM_STATS['gemini_429']}",
-                    f"gemini_error={LLM_STATS['gemini_error']}",
                     f"ollama_ok={LLM_STATS['ollama_ok']}",
                     f"ollama_429={LLM_STATS['ollama_429']}",
                     f"ollama_error={LLM_STATS['ollama_error']}",

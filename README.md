@@ -279,7 +279,7 @@ Structured in the **"Executive Intelligence First"** workflow:
    - **Multi-Horizon Bet Deconstruction Core**: Rigorously decomposes any holding thesis across **1 Month ($T_{30}$)**, **3 Months ($T_{90}$)**, **6 Months ($T_{180}$)**, **1 Year ($T_{365}$)**, or **Multi-Year Macro Cycles ($1\text{Y} \to 3\text{Y}$)** into prompt cash settlements against physical Baltic spot averages, rollover lot decay across business days 1–15, contango drag hurdle rates, and physical commodity catalysts.
    - **Per-Contract Dollar Sensitivity**: Computes line-by-line NAV impact per share for every constituent position (e.g. Capesize Aug 26 moves BDRY by exact **$0.0705/share** per **+$1,000/day** change).
    - **Full Tenor Forward Curves**: Injects complete SGX settlement curves across all tenors (Prompt, $M+1, M+2, Q_1, Q_2, Q_3, Q_4, \text{Cal}+1, \text{Cal}+2$).
-   - Direct client-side execution via **Groq** (`openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.6-27b`, `groq/compound`) and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`). *(Note: Google Gemini is available server-side in the CI brief/knowledge pipelines — see §5 — but is no longer a selectable browser-side provider; the client Q&A dropdown offers Groq + OpenRouter only.)*
+   - Direct client-side execution via **Groq** (`openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.6-27b`, `groq/compound`) and **OpenRouter** (`openrouter/free`, `deepseek/deepseek-r1:free`, `meta-llama/llama-3.3-70b-instruct:free`). *(The client Q&A dropdown offers Groq + OpenRouter only.)*
    - 5 curated suggestion categories (30 prompts): *Contract Exposures*, *Roll Yield & Carry*, *Scenario Shocks & PnL*, *Fund Flows & AUM*, *Strategy & Holding*.
    - Interactive action execution buttons: `⚡ Apply to Scenario Simulator`, `📅 Jump Simulator to Date`, `📋 Open Institutional Decision Ticket`, `📈 Inspect Contract`.
 4. **Thesis-to-ETF Scenario Translator (`#etfDeconstructCard`)**:
@@ -393,9 +393,9 @@ Executive macro desk and deep research workspace.
 - **Section 2: Daily Market Brief (`#intelBriefContent`)**:
   - Daily synthesized desk intelligence briefing with executive TL;DR, dry bulk & tanker breakdowns, and previous/next calendar date history navigation.
 - **Section 3: Research Q&A Assistant**:
-  - **Direct-CORS Multi-Provider Execution**: Browser-native API key storage for Groq, Google Gemini, and OpenRouter.
+  - **Direct-CORS Multi-Provider Execution**: Browser-native API key storage for Groq and OpenRouter.
   - **30 Curated Institutional Research Questions**: 5 categories (Daily Briefing, Market Signals, Fleet Supply, Macro & Cargo, Trade Strategy).
-  - **🌐 Google Search Grounding**: Live web queries for breaking maritime news, freight prints, and geopolitical updates.
+  - **🌐 Live Web Grounding (Optional)**: When an API key is configured, the Q&A assistant can query the live web for breaking maritime news, freight prints, and geopolitical updates via the provider's native web tooling.
   - **🔬 Deep Research Mode**: Context scaling up to 60 ranked passages (~32,000+ tokens) across 10-year historical report archives.
   - **Scope Filtering**: Breakwave, Baltic, Hellenic, Iron Ore, Shipbuilding, and Domain Textbooks.
 
@@ -600,8 +600,7 @@ flowchart LR
     PDF["Raw PDF/HTML in reports/"] --> Extract["Text & Table Extraction"]
     Extract --> Chain{"Synthesis Provider Cascade"}
     Chain -->|Primary| P1["Groq (deepseek-r1-distill-llama-70b)"]
-    P1 -->|Rate Limit / Failover| P2["Google Gemini (gemini-2.5-flash)"]
-    P2 -->|Failover| P3["NVIDIA NIM (deepseek-ai/deepseek-r1)"]
+    P1 -->|Rate Limit / Failover| P3["NVIDIA NIM (deepseek-ai/deepseek-r1)"]
     P3 -->|Failover| P4["OpenRouter Auto-Router"]
     P4 -->|Offline| P5["Deterministic Mathematical Engine"]
     P1 --> Write["Write JSON Briefs & manifest.json"]
@@ -627,13 +626,13 @@ flowchart LR
 - **Pre-Built Search Index Fast Path**: The compiler publishes compact BM25-ready posting indexes (`knowledge/chunks/search/`, ~39 MB across all shards vs ~141 MB of raw text). Queries rank the corpus from these tiny files first and download only the shards containing hits — no more full-tier streaming or in-browser index building. Transparent fallback to the legacy multi-tier scan whenever the manifest is unavailable; per-line `chunk_id` verification guards against stale indexes.
 - **Multi-Tier Candidate Retrieval (legacy path)**: Dynamic loading across Recent (2026), Historical (2023–2025), and Deep Historical (2014–2022) archives + full domain wiki textbooks.
 - **Deep Research Mode (128K Context Scaling)**: Expands context from 12 passages up to **60 ranked passages (~32,000+ tokens)** for multi-year cycle analysis and structural macro cross-referencing.
-- **🌐 Google Search Grounding (Live Web)**: Native integration with Google Gemini search grounding tool, dynamically querying the live web for breaking news, geopolitical updates, and prompt freight prints with clickable inline web citations.
+- **🌐 Live Web Grounding (Optional)**: When a key is configured, the Q&A assistant can query the live web for breaking maritime news; grounding is performed by the configured provider's native web tooling where available.
 - **Live Market Snapshot Injection**: Injects real-time quantitative Z-scores, momentum regimes, Breakwave analyst confluence, and ETF spreads into every query prompt.
 - **Zero-Hallucination Citation Binding**: Strict inline `[DOC-N]` source tracing linking claims directly to source asset, publication date, and section title.
-- **Client-Side Direct-CORS Multi-Provider Support**: Browser-native API key storage and direct CORS routing for **Groq** and **OpenRouter** (the two providers registered in the dashboard's Q&A provider selector). Server-side CI pipelines additionally support **Google Gemini** and **NVIDIA NIM** (see below) — those run on GitHub Actions, not in the browser.
+- **Client-Side Direct-CORS Multi-Provider Support**: Browser-native API key storage and direct CORS routing for **Groq** and **OpenRouter** (the two providers registered in the dashboard's Q&A provider selector). Server-side CI pipelines additionally support **NVIDIA NIM** (see below) — those run on GitHub Actions, not in the browser.
   - **Groq** (browser): `openai/gpt-oss-120b`, `openai/gpt-oss-20b`, `qwen/qwen3.6-27b`, `groq/compound`.
   - **OpenRouter** (browser): `meta-llama/llama-3.3-70b-instruct:free`, `deepseek/deepseek-r1:free`, `qwen/qwen-2.5-72b-instruct:free`, `google/gemma-4-31b-it:free`, `nvidia/nemotron-3-super-120b-a12b:free`, `openai/gpt-oss-120b:free`, `openai/gpt-oss-20b:free`.
-- **Server-Side AI Synthesis Engine**: Backend Python pipelines (`scripts/generate_brief.py` & `scripts/process_knowledge.py`) execute on GitHub Actions with zero CORS limitations, utilizing **NVIDIA NIM** (`deepseek-ai/deepseek-r1`, `nvidia/nemotron-3-ultra-550b`, `meta/llama-3.3-70b-instruct`) alongside Groq, Gemini, and OpenRouter to synthesize daily market briefs and compile topic wikis.
+- **Server-Side AI Synthesis Engine**: Backend Python pipelines (`scripts/generate_brief.py` & `scripts/process_knowledge.py`) execute on GitHub Actions with zero CORS limitations, utilizing **NVIDIA NIM** (`deepseek-ai/deepseek-r1`, `nvidia/nemotron-3-ultra-550b`, `meta/llama-3.3-70b-instruct`), Groq, and OpenRouter to synthesize daily market briefs and compile topic wikis.
 
 ---
 
@@ -644,7 +643,7 @@ The repository maintains itself via 15 idempotent GitHub Actions workflows:
 | Workflow File | Cron Schedule | Triggers | Execution Script Sequence | Function & Output |
 | :--- | :--- | :--- | :--- | :--- |
 | [`upstream_commodity_flows.yml`](file:///.github/workflows/upstream_commodity_flows.yml) | `0 6 * * 1` | Mondays 6 AM UTC / Dispatch | `fetch_comexstat_brazil.py`<br>`fetch_ppa_iron_ore.py`<br>`fetch_major_miners_production.py`<br>`fetch_eia_petroleum_exports.py`<br>`fetch_portwatch_port_activity.py`<br>`fetch_eu_ets_carbon.py`<br>`fetch_newcastle_coal.py`<br>`fetch_australia_req.py`<br>`fetch_un_comtrade_bauxite.py`<br>`generate_ton_mile_matrix.py` | Ingests Brazil MDIC exports, Pilbara Ports throughput, US EIA petroleum, IMF PortWatch 7-hub congestion, EU ETS carbon, UN Comtrade bauxite, and generates the ton-mile utilization matrix. |
-| [`daily_brief.yml`](file:///.github/workflows/daily_brief.yml) | `0 14,17,20 * * 1-5` | Mon–Fri Scheduled / Dispatch | `python scripts/generate_brief.py` | Synthesizes daily market brief via Groq / Gemini / NVIDIA NIM cascade & updates `knowledge/briefs/manifest.json`. |
+| [`daily_brief.yml`](file:///.github/workflows/daily_brief.yml) | `0 14,17,20 * * 1-5` | Mon–Fri Scheduled / Dispatch | `python scripts/generate_brief.py` | Synthesizes daily market brief via Groq / NVIDIA NIM / OpenRouter cascade & updates `knowledge/briefs/manifest.json`. |
 | [`alibra_poller.yml`](file:///.github/workflows/alibra_poller.yml) | `0 7,16 * * *` | Twice Daily (7 AM & 4 PM UTC) / Dispatch | `python scripts/alibra_poller.py --integrate` | Polls 10 Alibra Google Sheet endpoints, archives new reports, and auto-integrates forward curves & TC data. |
 | [`daily_update.yml`](file:///.github/workflows/daily_update.yml) | `30 10 * * *`<br>`0 14,19,22 * * *` | Scheduled / Dispatch | `python scripts/update_indices.py`<br>`python scripts/fetch_flows_shipping.py`<br>`python scripts/alibra_poller.py --integrate` | Scrapes Baltic indices, SGX futures, BDRY/BWET Playwright ETF fund flows, and polls Alibra feeds. |
 | [`baltic_new_indices_update.yml`](file:///.github/workflows/baltic_new_indices_update.yml) | `30 10 * * 1-5`<br>`0 14,19,22 * * 1-5` | Mon–Fri Scheduled | `python scripts/baltic_new_indices.py` | Updates BLNG, BLPG, FBX, BAI from Baltic ticker API & validates CSV tails (graceful skip on partial upstream payloads). |
@@ -672,7 +671,7 @@ The repository contains 69 specialized Python modules across quantitative pricin
 | [`process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) | 151.4 KB | Knowledge ingestion compiler, tree builder, chunking engine, OCR parser, LLM failover. Incremental derived builds (content-addressed caches), shard manifest + pre-built search indexes, structured-table-aware charter rescan. |
 | [`search_index_build.py`](file:///c:/Users/Dell/Github/Shipping/scripts/search_index_build.py) | 8.1 KB | Compiles per-shard BM25-ready posting indexes (`knowledge/chunks/search/*.idx.json`) so the browser Q&A ranks candidates without downloading/tokenizing raw shards. |
 | [`table_extract.py`](file:///c:/Users/Dell/Github/Shipping/scripts/table_extract.py) | 9.8 KB | Geometry-based structured table recovery from OCR word boxes (row clustering + column-gap detection) for image-backed Alibra/MMI market tables. |
-| [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 94.4 KB | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer (NVIDIA NIM). |
+| [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 94.4 KB | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer (Groq / NVIDIA NIM / OpenRouter cascade). |
 | [`validate_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_knowledge.py) | 49.3 KB | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
 | [`thesis_scenario_builder.py`](file:///c:/Users/Dell/Github/Shipping/scripts/thesis_scenario_builder.py) | 42.6 KB | Authoritative Python ETF scenario builder executing 4-regime pricing & decision ticket translation. |
 | [`baltic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_scraper.py) | 32.7 KB | Selenium/HTTP scraper for Baltic Exchange reports and asset mirroring. |

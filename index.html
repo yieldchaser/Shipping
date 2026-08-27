@@ -28523,9 +28523,9 @@ if (intelTabsContainer) {
     }
 
     function _migrateOpenRouterModel() {
-      // Reset any stale provider pointing at removed providers (gemini, ollama, nim)
+      // Reset any stale provider pointing at removed providers (ollama, nim)
       const storedProvider = localStorage.getItem('qa_provider') || '';
-      if (storedProvider === 'gemini' || storedProvider === 'ollama' || storedProvider === 'nim') {
+      if (storedProvider === 'ollama' || storedProvider === 'nim') {
         console.log('[QA] Resetting decommissioned provider', storedProvider, '→ groq');
         localStorage.setItem('qa_provider', 'groq');
       }
@@ -31494,14 +31494,14 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">Direct browser-to-API communication. Keys are saved exclusively in client-side localStorage.</div>`;
         }
         else if (type === 'llm-model-info') {
-          const modelId = target.getAttribute('data-tt-model') || target.value || 'gemini-2.0-flash';
+          const modelId = target.getAttribute('data-tt-model') || target.value || 'openai/gpt-oss-120b';
           const selectVal = (target.closest('.qa-key-row')?.querySelector('.qa-provider-select')?.value);
           const provider = target.getAttribute('data-tt-provider') || selectVal || (typeof _currentQAProvider === 'function' ? _currentQAProvider() : 'groq');
           
           let arch = 'Reasoning / General LLM';
           let tokens = '32k';
           const mLower = modelId.toLowerCase();
-          if (mLower.includes('gemini-2.0') || mLower.includes('gemini-2.5') || mLower.includes('gemini')) { arch = 'Google Gemini Multi-Modal Thinking Model'; tokens = '1M+ Tokens'; }
+          if (mLower.includes('groq') || mLower.includes('openai') || mLower.includes('llama') || mLower.includes('qwen') || mLower.includes('deepseek')) { arch = 'Open-Weights / Reasoning Model'; tokens = '32k+ Tokens'; }
           else if (mLower.includes('deepseek-r1') || mLower.includes('r1')) { arch = 'DeepSeek R1 Reasoning Model (MoE / Distill)'; tokens = '64k–128k'; }
           else if (mLower.includes('deepseek-chat') || mLower.includes('deepseek-v3')) { arch = 'DeepSeek V3 671B Flagship MoE'; tokens = '64k'; }
           else if (mLower.includes('claude-3-5') || mLower.includes('claude-3.7') || mLower.includes('claude')) { arch = 'Anthropic Claude Hybrid Reasoning Engine'; tokens = '200k'; }
@@ -32426,7 +32426,7 @@ if (intelTabsContainer) {
           html = `<div class="rt-title">ETF &amp; Scenario Intelligence Copilot</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Interactive Financial Copilot</strong>: Grounded in exact constituent futures holding positions, SGX/NYMEX forward curves, and the 5-axiom calendar roll decay model.</div>`;
           html += `<div class="rt-row"><span class="rt-label">Context Modes</span><span class="rt-val" style="color:var(--accent);">BDRY (Dry Bulk) &amp; BWET (Tankers)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">CORS Architecture</span><span class="rt-val">Direct Browser-to-API (Groq, Gemini, DeepSeek, Claude, OpenAI)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">CORS Architecture</span><span class="rt-val">Direct Browser-to-API (Groq &amp; OpenRouter)</span></div>`;
           html += `<div class="rt-note">Ask complex multi-leg freight questions, scenario stresses, or portfolio attribution inquiries.</div>`;
         }
         else if (type === 'basis-title') {
@@ -32779,7 +32779,7 @@ if (intelTabsContainer) {
         'Settings & Guide': 'Platform configuration, provider keys, and architectural overview.',
         'Target Index:': 'The specific index evaluated by the signal generation logic.',
         'Contract Expiry:': 'The forward settlement month being analyzed.',
-        'Provider:': 'The AI inference provider (Groq, Gemini, or Local Ollama).',
+        'Provider:': 'The AI inference provider (Groq or OpenRouter).',
         'Model:': 'The specific large-language model selected for analysis.',
         'Select Product:': 'Toggle the entire dashboard logic across BDI, Capesize, Panamax, Supramax, or Handysize.'
       };
