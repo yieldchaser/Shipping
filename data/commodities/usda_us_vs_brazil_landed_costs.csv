@@ -1,651 +1,651 @@
 Date,Year,Quarter,Origin,Destination,Truck,Barge,Rail,Ocean,Farm Value,Total Transportation Costs
-2005-09-30,2005,3,Davenport,Hamburg,8.9,23.63,,21.34,225.97,53.87
-2005-09-30,2005,3,Davenport,"Shanghai, China",8.9,23.63,,38.38,225.97,70.91
-2005-09-30,2005,3,Minneapolis,Hamburg,8.9,28.88,,21.34,224.26,59.12
-2005-09-30,2005,3,Minneapolis,"Shanghai, China",8.9,28.88,,38.38,224.26,76.16
-2005-09-30,2005,3,North MT-Santos,Hamburg,83.18,,,44.54,175.08,127.72
-2005-09-30,2005,3,South GO - Paranagua,Hamburg,40.66,,,43.54,188.26,84.2
-2005-12-31,2005,4,Davenport,Hamburg,10.06,30.91,,22.81,207.6,63.78
-2005-12-31,2005,4,Minneapolis,Hamburg,10.06,36.71,,22.81,207.11,69.58
-2005-12-31,2005,4,North MT-Santos,Hamburg,80.86,,,55.73,174.28,136.59
-2005-12-31,2005,4,South GO - Paranagua,Hamburg,42.56,,,56.73,184.89,99.29
-2006-03-31,2006,1,South GO - Paranagua,"Shanghai, China",43.12,,,49.13,180.71,92.25
-2006-03-31,2006,1,South GO - Paranagua,Hamburg,43.12,,,38.51,180.71,81.63
-2006-03-31,2006,1,North MT-Santos,"Shanghai, China",86.22,,,50.13,157.86,136.35
-2006-03-31,2006,1,North MT-Santos,Hamburg,86.22,,,39.51,157.86,125.73
-2006-03-31,2006,1,Davenport,Hamburg,9.42,21.42,,19.53,204.78,50.37
-2006-03-31,2006,1,Minneapolis,Hamburg,9.42,25.38,,19.53,202.34,54.33
-2006-03-31,2006,1,Davenport,"Shanghai, China",9.42,21.42,,35.71,204.78,66.55
-2006-03-31,2006,1,Minneapolis,"Shanghai, China",9.42,25.38,,35.71,272.85,70.51
-2006-06-30,2006,2,South GO - Paranagua,Hamburg,37.75,,,35.91,175.49,73.66
-2006-06-30,2006,2,South GO - Paranagua,"Shanghai, China",37.75,,,43.8,175.49,81.55
-2006-06-30,2006,2,North MT-Santos,"Shanghai, China",79.2,,,44.8,150.72,124.0
-2006-06-30,2006,2,North MT-Santos,Hamburg,79.2,,,36.91,150.72,116.11
-2006-06-30,2006,2,Minneapolis,Hamburg,9.18,28.3,,20.13,198.42,57.61
-2006-06-30,2006,2,Davenport,"Shanghai, China",9.18,21.58,,35.52,203.44,66.28
-2006-06-30,2006,2,Davenport,Hamburg,9.18,21.58,,20.13,203.44,50.89
-2006-06-30,2006,2,Minneapolis,"Shanghai, China",9.18,28.3,,35.52,198.42,73.0
-2006-09-30,2006,3,South GO - Paranagua,"Shanghai, China",45.45,,,59.98,185.73,105.43
-2006-09-30,2006,3,North MT-Santos,"Shanghai, China",76.55,,,60.98,161.3,137.53
-2006-09-30,2006,3,North MT-Santos,Hamburg,76.55,,,50.24,167.3,126.79
-2006-09-30,2006,3,South GO - Paranagua,Hamburg,45.45,,,49.24,185.73,94.69
-2006-09-30,2006,3,Minneapolis,Hamburg,10.14,39.92,,26.87,190.94,76.93
-2006-09-30,2006,3,Davenport,"Shanghai, China",10.14,31.73,,44.88,189.48,86.75
-2006-09-30,2006,3,Davenport,Hamburg,10.14,31.73,,26.87,189.48,68.74
-2006-09-30,2006,3,Minneapolis,"Shanghai, China",10.14,39.92,,44.88,190.94,94.94
-2006-12-31,2006,4,South GO - Paranagua,"Shanghai, China",41.5,,,72.32,216.6,113.82
-2006-12-31,2006,4,Davenport,Hamburg,10.26,27.64,,29.6,218.5,67.5
-2006-12-31,2006,4,Davenport,"Shanghai, China",10.26,27.64,,50.24,218.59,88.14
-2006-12-31,2006,4,Minneapolis,Hamburg,10.26,39.22,,29.6,209.93,79.08
-2006-12-31,2006,4,Minneapolis,"Shanghai, China",10.26,39.22,,50.24,209.93,99.72
-2006-12-31,2006,4,North MT-Santos,Hamburg,75.86,,,60.4,189.65,136.26
-2006-12-31,2006,4,North MT-Santos,"Shanghai, China",75.86,,,73.32,189.65,149.18
-2006-12-31,2006,4,South GO - Paranagua,Hamburg,41.5,,,59.4,216.6,100.9
-2007-03-31,2007,1,South GO - Paranagua,Hamburg,42.93,,,59.4,231.95,102.33
-2007-03-31,2007,1,North MT-Santos,"Shanghai, China",87.98,,,73.32,196.22,161.3
-2007-03-31,2007,1,South GO - Paranagua,"Shanghai, China",42.93,,,72.32,231.95,115.25
-2007-03-31,2007,1,North MT-Santos,Hamburg,87.98,,,60.4,196.22,148.38
-2007-03-31,2007,1,Davenport,Hamburg,10.23,17.57,,34.2,243.98,62.0
-2007-03-31,2007,1,Minneapolis,Hamburg,10.23,17.05,,34.2,239.45,61.48
-2007-03-31,2007,1,Davenport,"Shanghai, China",10.23,17.57,,55.03,243.98,82.83
-2007-03-31,2007,1,Minneapolis,"Shanghai, China",10.23,17.05,,55.03,239.45,82.31
-2007-06-30,2007,2,Davenport,Hamburg,9.66,17.53,,39.8,263.33,66.99
-2007-06-30,2007,2,Davenport,"Shanghai, China",9.66,17.53,,62.22,263.33,89.41
-2007-06-30,2007,2,Minneapolis,Hamburg,9.66,23.27,,39.8,256.23,72.73
-2007-06-30,2007,2,Minneapolis,"Shanghai, China",9.66,23.27,,62.22,256.23,95.15
-2007-06-30,2007,2,North MT-Santos,Hamburg,90.57,,,91.61,198.61,182.18
-2007-06-30,2007,2,North MT-Santos,"Shanghai, China",90.57,,,111.2,198.61,201.77
-2007-06-30,2007,2,South GO - Paranagua,Hamburg,48.45,,,90.61,225.49,139.06
-2007-06-30,2007,2,South GO - Paranagua,"Shanghai, China",48.45,,,110.2,225.49,158.65
-2007-09-30,2007,3,South GO - Paranagua,"Shanghai, China",50.55,,,65.5,267.93,116.05
-2007-09-30,2007,3,South GO - Paranagua,Hamburg,50.55,,,53.12,267.93,103.67
-2007-09-30,2007,3,North MT-Santos,"Shanghai, China",101.79,,,72.0,234.16,173.79
-2007-09-30,2007,3,North MT-Santos,Hamburg,101.79,,,59.35,234.16,161.14
-2007-09-30,2007,3,Davenport,Hamburg,10.22,31.64,,62.05,286.33,103.91
-2007-09-30,2007,3,Minneapolis,Hamburg,10.22,36.19,,62.05,277.05,108.46
-2007-09-30,2007,3,Davenport,"Shanghai, China",10.22,31.64,,89.92,286.23,131.78
-2007-09-30,2007,3,Minneapolis,"Shanghai, China",10.22,36.19,,89.92,277.05,136.33
-2007-12-31,2007,4,North MT-Santos,"Shanghai, China",110.36,,,74.81,306.3,185.17
-2007-12-31,2007,4,South GO - Paranagua,"Shanghai, China",53.65,,,75.22,349.22,128.87
-2007-12-31,2007,4,South GO - Paranagua,Hamburg,53.65,,,81.08,349.22,134.73
-2007-12-31,2007,4,North MT-Santos,Hamburg,110.36,,,80.67,306.3,191.03
-2007-12-31,2007,4,Davenport,Hamburg,10.26,28.83,,99.17,349.43,138.26
-2007-12-31,2007,4,Minneapolis,Hamburg,10.26,36.23,,99.17,326.44,145.66
-2007-12-31,2007,4,Davenport,"Shanghai, China",10.26,28.83,,118.26,349.43,157.35
-2007-12-31,2007,4,Minneapolis,"Shanghai, China",10.26,36.23,,118.27,326.41,164.76
-2008-03-31,2008,1,Davenport,Hamburg,12.11,28.9,,69.83,402.96,110.84
-2008-03-31,2008,1,Davenport,"Shanghai, China",12.11,28.9,,104.22,402.96,145.23
-2008-03-31,2008,1,Minneapolis,Hamburg,12.11,27.59,,69.83,396.46,109.53
-2008-03-31,2008,1,Minneapolis,"Shanghai, China",12.11,27.59,,104.22,396.46,143.92
-2008-03-31,2008,1,North MT-Santos,Hamburg,117.44,,,72.0,349.23,189.44
-2008-03-31,2008,1,North MT-Santos,"Shanghai, China",117.44,,,70.57,349.23,188.01
-2008-03-31,2008,1,South GO - Paranagua,Hamburg,56.52,,,70.54,406.9,127.06
-2008-03-31,2008,1,South GO - Paranagua,"Shanghai, China",56.52,,,69.17,406.9,125.69
-2008-06-30,2008,2,North MT-Santos,"Shanghai, China",127.04,,,71.99,389.2,199.03
-2008-06-30,2008,2,South GO - Paranagua,"Shanghai, China",63.6,,,71.93,401.89,135.53
-2008-06-30,2008,2,South GO - Paranagua,Hamburg,63.58,,,84.47,401.89,148.05
-2008-06-30,2008,2,North MT-Santos,Hamburg,127.04,,,74.09,389.2,201.13
-2008-06-30,2008,2,Davenport,Hamburg,12.38,27.75,,71.96,449.5,112.09
-2008-06-30,2008,2,Minneapolis,Hamburg,12.38,34.51,,71.96,444.48,118.85
-2008-06-30,2008,2,Minneapolis,"Shanghai, China",12.38,34.51,,122.62,444.48,169.51
-2008-06-30,2008,2,Davenport,"Shanghai, China",12.38,27.75,,122.62,449.5,162.75
-2008-09-30,2008,3,Davenport,Hamburg,11.86,32.46,,52.94,449.5,97.26
-2008-09-30,2008,3,Davenport,"Shanghai, China",11.86,32.46,,109.06,449.5,153.38
-2008-09-30,2008,3,Minneapolis,Hamburg,11.86,38.38,,52.94,447.05,103.18
-2008-09-30,2008,3,Minneapolis,"Shanghai, China",11.86,38.38,,109.06,447.05,159.3
-2008-09-30,2008,3,North MT-Santos,Hamburg,140.26,,,48.8,419.8,189.06
-2008-09-30,2008,3,North MT-Santos,"Shanghai, China",140.26,,,72.43,419.8,212.69
-2008-09-30,2008,3,South GO - Paranagua,Hamburg,61.42,,,50.2,409.37,111.62
-2008-09-30,2008,3,South GO - Paranagua,"Shanghai, China",61.42,,,74.03,409.37,135.45
-2008-12-31,2008,4,South GO - Paranagua,"Shanghai, China",40.58,,,74.66,274.34,115.24
-2008-12-31,2008,4,South GO - Paranagua,Hamburg,40.58,,,93.9,274.34,134.48
-2008-12-31,2008,4,North MT-Santos,"Shanghai, China",78.22,,,71.1,277.74,149.32
-2008-12-31,2008,4,North MT-Santos,Hamburg,78.22,,,82.73,277.74,160.95
-2008-12-31,2008,4,Davenport,"Shanghai, China",9.66,32.53,,29.47,365.6,71.66
-2008-12-31,2008,4,Minneapolis,Hamburg,9.66,38.51,,16.4,358.86,64.57
-2008-12-31,2008,4,Davenport,Hamburg,9.66,32.53,,16.4,365.6,58.59
-2008-12-31,2008,4,Minneapolis,"Shanghai, China",9.66,38.51,,29.47,358.86,77.64
-2009-03-31,2009,1,North MT-Santos,"Shanghai, China",91.73,,,64.5,264.63,156.23
-2009-03-31,2009,1,South GO - Paranagua,"Shanghai, China",41.7,,,65.7,288.68,107.4
-2009-03-31,2009,1,South GO - Paranagua,Hamburg,41.7,,,35.5,288.68,77.2
-2009-03-31,2009,1,North MT-Santos,Hamburg,81.73,,,34.1,264.63,115.83
-2009-03-31,2009,1,Davenport,Hamburg,8.17,17.12,,16.88,350.66,42.17
-2009-03-31,2009,1,Minneapolis,Hamburg,8.17,22.42,,16.88,346.0,47.47
-2009-03-31,2009,1,Davenport,"Shanghai, China",8.17,17.12,,35.47,350.66,60.76
-2009-03-31,2009,1,Minneapolis,"Shanghai, China",8.17,22.42,,35.47,346.0,66.06
-2009-06-30,2009,2,Davenport,Hamburg,10.1,16.57,,21.33,388.5,48.0
-2009-06-30,2009,2,Davenport,"Shanghai, China",10.1,16.57,,47.19,388.5,73.86
-2009-06-30,2009,2,Minneapolis,Hamburg,10.1,22.44,,21.33,385.69,53.87
-2009-06-30,2009,2,Minneapolis,"Shanghai, China",10.1,22.44,,47.19,385.69,79.73
-2009-06-30,2009,2,North MT-Santos,Hamburg,98.89,,,34.75,315.88,133.64
-2009-06-30,2009,2,North MT-Santos,"Shanghai, China",98.89,,,66.0,315.88,164.89
-2009-06-30,2009,2,South GO - Paranagua,Hamburg,51.5,,,35.79,336.86,87.29
-2009-06-30,2009,2,South GO - Paranagua,"Shanghai, China",51.5,,,67.3,336.86,118.8
-2009-09-30,2009,3,North MT-Santos,"Shanghai, China",100.41,,,49.0,347.8,149.41
-2009-09-30,2009,3,South GO - Paranagua,Hamburg,54.03,,,31.55,356.43,85.58
-2009-09-30,2009,3,South GO - Paranagua,"Shanghai, China",54.03,,,48.78,356.43,102.81
-2009-09-30,2009,3,North MT-Santos,Hamburg,100.41,,,30.0,347.8,130.41
-2009-09-30,2009,3,Minneapolis,Hamburg,10.38,23.88,,19.81,376.5,54.07
-2009-09-30,2009,3,Davenport,"Shanghai, China",10.38,18.88,,56.53,389.36,85.79
-2009-09-30,2009,3,Davenport,Hamburg,10.38,18.88,,19.81,389.36,49.07
-2009-09-30,2009,3,Minneapolis,"Shanghai, China",10.38,23.88,,56.53,376.5,90.79
-2009-12-31,2009,4,Davenport,Hamburg,11.38,26.51,,26.38,351.51,64.27
-2009-12-31,2009,4,Davenport,"Shanghai, China",11.38,26.51,,65.64,351.51,103.53
-2009-12-31,2009,4,Minneapolis,Hamburg,11.38,33.5,,26.38,346.86,71.26
-2009-12-31,2009,4,Minneapolis,"Shanghai, China",11.38,33.5,,65.64,346.86,110.52
-2009-12-31,2009,4,North MT-Santos,Hamburg,106.95,,,31.08,369.07,138.03
-2009-12-31,2009,4,North MT-Santos,"Shanghai, China",106.95,,,55.63,369.07,162.58
-2009-12-31,2009,4,South GO - Paranagua,Hamburg,56.01,,,30.53,371.29,86.54
-2009-12-31,2009,4,South GO - Paranagua,"Shanghai, China",56.01,,,54.23,371.29,110.24
-2010-03-31,2010,1,South GO - Paranagua,Hamburg,61.86,,,31.83,309.89,93.69
-2010-03-31,2010,1,North MT-Santos,"Shanghai, China",113.1,,,52.33,261.05,165.43
-2010-03-31,2010,1,North MT-Santos,Hamburg,113.1,,,32.25,261.05,145.35
-2010-03-31,2010,1,South GO - Paranagua,"Shanghai, China",61.86,,,52.5,309.89,114.36
-2010-03-31,2010,1,Minneapolis,Hamburg,10.46,10.86,,24.92,340.98,46.24
-2010-03-31,2010,1,Davenport,"Shanghai, China",10.46,10.86,,65.54,351.51,86.86
-2010-03-31,2010,1,Davenport,Hamburg,40.46,10.86,,24.92,346.0,76.24
-2010-03-31,2010,1,Minneapolis,"Shanghai, China",10.46,10.86,,65.54,346.86,86.86
-2010-06-30,2010,2,South GO - Paranagua,Hamburg,65.82,,,38.08,271.15,103.9
-2010-06-30,2010,2,North MT-Santos,"Shanghai, China",113.73,,,55.08,304.36,168.81
-2010-06-30,2010,2,North MT-Santos,Hamburg,113.73,,,36.17,304.36,149.9
-2010-06-30,2010,2,South GO - Paranagua,"Shanghai, China",65.82,,,58.58,271.15,124.4
-2010-06-30,2010,2,Minneapolis,Hamburg,8.66,25.45,,27.87,336.69,61.98
-2010-06-30,2010,2,Davenport,"Shanghai, China",8.66,18.88,,67.71,343.92,95.25
-2010-06-30,2010,2,Davenport,Hamburg,8.66,18.88,,27.87,343.92,55.41
-2010-06-30,2010,2,Minneapolis,"Shanghai, China",8.66,25.45,,67.71,336.69,101.82
-2010-09-30,2010,3,Davenport,Hamburg,9.74,26.16,,28.31,362.05,64.21
-2010-09-30,2010,3,Davenport,"Shanghai, China",9.74,26.16,,60.33,362.05,96.23
-2010-09-30,2010,3,Minneapolis,Hamburg,9.74,32.82,,28.31,352.25,70.87
-2010-09-30,2010,3,Minneapolis,"Shanghai, China",9.74,32.82,,60.33,352.25,102.89
-2010-09-30,2010,3,North MT-Santos,Hamburg,120.16,,,34.42,328.51,154.58
-2010-09-30,2010,3,North MT-Santos,"Shanghai, China",120.16,,,58.17,328.51,178.33
-2010-09-30,2010,3,South GO - Paranagua,Hamburg,66.52,,,36.92,315.43,103.44
-2010-09-30,2010,3,South GO - Paranagua,"Shanghai, China",66.52,,,63.1,315.43,129.62
-2010-12-31,2010,4,North MT-Santos,"Shanghai, China",120.12,,,57.79,413.46,177.91
-2010-12-31,2010,4,South GO - Paranagua,"Shanghai, China",64.38,,,61.5,400.62,125.88
-2010-12-31,2010,4,South GO - Paranagua,Hamburg,64.38,,,33.5,400.62,97.88
-2010-12-31,2010,4,North MT-Santos,Hamburg,120.12,,,31.67,413.46,151.79
-2010-12-31,2010,4,Davenport,Hamburg,8.94,31.85,,24.84,399.16,65.63
-2010-12-31,2010,4,Minneapolis,Hamburg,8.94,41.82,,24.84,385.69,75.6
-2010-12-31,2010,4,Minneapolis,"Shanghai, China",8.94,41.82,,55.46,385.69,106.22
-2010-12-31,2010,4,Davenport,"Shanghai, China",8.94,31.85,,55.46,399.16,96.25
-2011-03-31,2011,1,Davenport,Hamburg,11.34,21.38,,23.13,449.5,55.85
-2011-03-31,2011,1,Davenport,"Shanghai, China",11.34,21.38,,53.79,449.5,86.51
-2011-03-31,2011,1,Minneapolis,Hamburg,11.34,21.38,,23.13,438.47,55.85
-2011-03-31,2011,1,Minneapolis,"Shanghai, China",11.34,21.38,,53.79,438.47,86.51
-2011-03-31,2011,1,North MT-Santos,Hamburg,124.57,,,34.96,406.96,159.53
-2011-03-31,2011,1,North MT-Santos,"Shanghai, China",124.57,,,50.0,406.96,174.57
-2011-03-31,2011,1,South GO - Paranagua,Hamburg,61.96,,,33.86,441.07,95.82
-2011-03-31,2011,1,South GO - Paranagua,"Shanghai, China",61.96,,,56.25,441.07,118.21
-2011-06-30,2011,2,South GO - Paranagua,"Shanghai, China",70.31,,,57.62,413.45,127.93
-2011-06-30,2011,2,South GO - Paranagua,Hamburg,70.31,,,36.0,413.15,106.31
-2011-06-30,2011,2,North MT-Santos,"Shanghai, China",125.83,,,50.05,386.58,175.88
-2011-06-30,2011,2,North MT-Santos,Hamburg,125.83,,,35.0,386.58,160.83
-2011-06-30,2011,2,Davenport,"Shanghai, China",11.34,27.27,,51.58,481.34,90.19
-2011-06-30,2011,2,Minneapolis,Hamburg,11.34,37.26,,21.52,465.42,70.12
-2011-06-30,2011,2,Davenport,Hamburg,11.34,27.27,,21.52,481.34,60.13
-2011-06-30,2011,2,Minneapolis,"Shanghai, China",11.34,37.26,,51.58,465.42,100.18
-2011-09-30,2011,3,North MT-Santos,"Shanghai, China",127.77,,,52.31,416.62,180.08
-2011-09-30,2011,3,South GO - Paranagua,"Shanghai, China",65.25,,,59.61,417.65,124.86
-2011-09-30,2011,3,South GO - Paranagua,Hamburg,62.25,,,37.29,417.65,99.54
-2011-09-30,2011,3,North MT-Santos,Hamburg,127.77,,,36.65,416.62,164.42
-2011-09-30,2011,3,Davenport,"Shanghai, China",12.62,26.39,,51.62,478.89,90.63
-2011-09-30,2011,3,Minneapolis,Hamburg,12.62,33.78,,23.94,461.75,70.34
-2011-09-30,2011,3,Davenport,Hamburg,12.62,26.39,,23.94,478.89,62.95
-2011-09-30,2011,3,Minneapolis,"Shanghai, China",12.62,33.78,,51.62,461.75,98.02
-2011-12-31,2011,4,Davenport,Hamburg,10.22,28.91,,25.08,425.0,64.21
-2011-12-31,2011,4,Davenport,"Shanghai, China",10.22,28.91,,55.33,425.0,94.46
-2011-12-31,2011,4,Minneapolis,Hamburg,10.22,35.28,,25.08,418.58,70.58
-2011-12-31,2011,4,Minneapolis,"Shanghai, China",10.22,35.28,,55.33,418.88,100.83
-2011-12-31,2011,4,North MT-Santos,Hamburg,115.05,,,32.0,358.24,147.05
-2011-12-31,2011,4,North MT-Santos,"Shanghai, China",115.05,,,49.65,358.24,164.7
-2011-12-31,2011,4,South GO - Paranagua,Hamburg,54.06,,,32.63,379.7,86.69
-2011-12-31,2011,4,South GO - Paranagua,"Shanghai, China",54.06,,,55.8,379.7,109.86
-2012-03-31,2012,1,North MT-Santos,"Shanghai, China",117.52,,,46.62,377.7,164.14
-2012-03-31,2012,1,South GO - Paranagua,"Shanghai, China",55.14,,,52.32,401.58,107.46
-2012-03-31,2012,1,South GO - Paranagua,Hamburg,55.14,,,31.58,401.58,86.72
-2012-03-31,2012,1,North MT-Santos,Hamburg,117.52,,,32.0,377.7,149.52
-2012-03-31,2012,1,Minneapolis,"Shanghai, China",9.14,12.53,,48.33,447.05,70.0
-2012-03-31,2012,1,Minneapolis,Hamburg,9.14,12.53,,19.91,447.05,41.58
-2012-03-31,2012,1,Davenport,"Shanghai, China",9.14,12.53,,48.33,448.27,70.0
-2012-03-31,2012,1,Davenport,Hamburg,9.14,12.53,,19.91,448.27,41.58
-2012-06-30,2012,2,Davenport,Hamburg,11.66,20.23,,20.76,503.39,52.65
-2012-06-30,2012,2,Davenport,"Shanghai, China",11.66,20.23,,49.07,503.39,80.96
-2012-06-30,2012,2,Minneapolis,Hamburg,11.66,28.18,,20.76,502.16,60.6
-2012-06-30,2012,2,Minneapolis,"Shanghai, China",11.66,28.18,,49.07,502.16,88.91
-2012-06-30,2012,2,North MT-Santos,Hamburg,110.07,,,35.0,448.29,145.07
-2012-06-30,2012,2,North MT-Santos,"Shanghai, China",110.07,,,51.35,448.29,161.42
-2012-06-30,2012,2,South GO - Paranagua,Hamburg,50.51,,,35.0,428.4,85.51
-2012-06-30,2012,2,South GO - Paranagua,"Shanghai, China",50.51,,,57.63,428.4,108.14
-2012-09-30,2012,3,South GO - Paranagua,Hamburg,53.01,,,34.3,566.91,87.31
-2012-09-30,2012,3,North MT-Santos,"Shanghai, China",109.73,,,50.42,570.66,160.15
-2012-09-30,2012,3,North MT-Santos,Hamburg,109.73,,,32.0,570.66,141.73
-2012-09-30,2012,3,South GO - Paranagua,"Shanghai, China",53.01,,,55.42,566.91,108.43
-2012-09-30,2012,3,Minneapolis,Hamburg,13.51,32.34,,21.81,562.42,67.66
-2012-09-30,2012,3,Davenport,"Shanghai, China",13.51,24.86,,46.82,565.85,85.19
-2012-09-30,2012,3,Davenport,Hamburg,13.51,24.86,,21.81,565.85,60.18
-2012-09-30,2012,3,Minneapolis,"Shanghai, China",13.51,32.34,,46.82,562.42,92.67
-2012-12-31,2012,4,South GO - Paranagua,Hamburg,53.11,,,34.3,557.54,87.41
-2012-12-31,2012,4,North MT-Santos,"Shanghai, China",109.8,,,50.42,536.6,160.22
-2012-12-31,2012,4,North MT-Santos,Hamburg,109.8,,,28.0,536.6,137.8
-2012-12-31,2012,4,South GO - Paranagua,"Shanghai, China",53.11,,,55.42,557.54,108.53
-2012-12-31,2012,4,Minneapolis,Hamburg,10.86,41.08,,18.68,518.09,70.62
-2012-12-31,2012,4,Davenport,"Shanghai, China",10.86,33.95,,43.69,522.99,88.5
-2012-12-31,2012,4,Davenport,Hamburg,10.86,33.95,,18.68,522.99,63.49
-2012-12-31,2012,4,Minneapolis,"Shanghai, China",10.86,41.08,,43.69,518.09,95.63
-2013-03-31,2013,1,Davenport,Hamburg,10.98,11.92,27.93,19.57,530.33,70.4
-2013-03-31,2013,1,Davenport,"Shanghai, China",10.98,11.92,27.93,43.73,530.33,94.56
-2013-03-31,2013,1,Minneapolis,Hamburg,10.98,11.92,36.48,19.57,526.66,78.95
-2013-03-31,2013,1,Minneapolis,"Shanghai, China",10.98,11.92,36.48,43.73,526.66,103.11
-2013-03-31,2013,1,North MT-Santos,Hamburg,124.03,,,30.0,419.35,154.03
-2013-03-31,2013,1,North MT-Santos,"Shanghai, China",124.03,,,52.34,419.35,176.37
-2013-03-31,2013,1,South GO - Paranagua,Hamburg,56.16,,,30.0,445.56,86.16
-2013-03-31,2013,1,South GO - Paranagua,"Shanghai, China",56.16,,,56.03,445.56,112.19
-2013-06-30,2013,2,North MT-Santos,"Shanghai, China",112.38,,,34.5,391.58,146.88
-2013-06-30,2013,2,South GO - Paranagua,Hamburg,54.19,,,29.0,461.97,83.19
-2013-06-30,2013,2,South GO - Paranagua,"Shanghai, China",54.19,,,36.75,461.97,90.94
-2013-06-30,2013,2,North MT-Santos,Hamburg,112.38,,,29.0,391.58,141.38
-2013-06-30,2013,2,Minneapolis,Hamburg,9.46,25.59,,20.97,535.23,56.02
-2013-06-30,2013,2,Davenport,Hamburg,9.46,17.77,,20.97,545.03,48.2
-2013-06-30,2013,2,Minneapolis,"Shanghai, China",9.46,25.59,,43.47,535.23,78.52
-2013-06-30,2013,2,Davenport,"Shanghai, China",9.46,17.77,,43.47,545.03,70.7
-2013-09-30,2013,3,Davenport,Hamburg,13.38,21.94,,24.85,529.11,60.17
-2013-09-30,2013,3,Davenport,"Shanghai, China",13.38,21.94,,45.71,529.11,81.03
-2013-09-30,2013,3,Minneapolis,Hamburg,13.38,27.93,,24.85,521.76,66.16
-2013-09-30,2013,3,Minneapolis,"Shanghai, China",13.38,27.93,,45.71,521.76,87.02
-2013-09-30,2013,3,North MT-Santos,Hamburg,119.9,,,29.0,404.93,148.9
-2013-09-30,2013,3,North MT-Santos,"Shanghai, China",119.9,,,34.5,404.93,154.4
-2013-09-30,2013,3,South GO - Paranagua,Hamburg,73.09,,,29.0,405.9,102.09
-2013-09-30,2013,3,South GO - Paranagua,"Shanghai, China",73.09,,,36.75,405.9,109.84
-2013-12-31,2013,4,South GO - Paranagua,"Shanghai, China",88.86,,,46.0,441.17,134.86
-2013-12-31,2013,4,South GO - Paranagua,Hamburg,88.86,,,30.0,441.17,118.86
-2013-12-31,2013,4,North MT-Santos,"Shanghai, China",109.29,,,42.5,445.27,151.79
-2013-12-31,2013,4,North MT-Santos,Hamburg,109.29,,,30.0,445.27,139.29
-2013-12-31,2013,4,Davenport,"Shanghai, China",12.42,28.62,,60.88,456.62,101.92
-2013-12-31,2013,4,Minneapolis,Hamburg,12.42,37.73,,26.07,460.52,76.22
-2013-12-31,2013,4,Davenport,Hamburg,12.42,33.9,,26.07,466.64,72.39
-2013-12-31,2013,4,Minneapolis,"Shanghai, China",12.42,37.73,,54.13,460.52,104.28
-2014-03-31,2014,1,North MT-Santos,"Shanghai, China",113.35,,,44.83,375.58,158.18
-2014-03-31,2014,1,South GO - Paranagua,"Shanghai, China",68.89,,,47.22,420.52,116.11
-2014-03-31,2014,1,South GO - Paranagua,Hamburg,68.89,,,31.0,420.52,99.89
-2014-03-31,2014,1,North MT-Santos,Hamburg,113.35,,,31.0,375.58,144.35
-2014-03-31,2014,1,Davenport,"Shanghai, China",13.79,27.06,30.77,52.39,485.02,124.01
-2014-03-31,2014,1,Minneapolis,Hamburg,13.79,27.06,42.08,23.4,475.22,106.33
-2014-03-31,2014,1,Davenport,Hamburg,13.79,27.06,30.77,23.4,485.02,95.02
-2014-03-31,2014,1,Minneapolis,"Shanghai, China",13.79,27.06,42.08,52.39,475.22,135.32
-2014-06-30,2014,2,Davenport,Hamburg,14.59,22.05,,19.4,531.56,56.04
-2014-06-30,2014,2,Davenport,"Shanghai, China",14.59,22.05,,44.9,531.56,81.54
-2014-06-30,2014,2,Minneapolis,Hamburg,14.59,30.43,,19.4,522.99,64.42
-2014-06-30,2014,2,Minneapolis,"Shanghai, China",14.59,30.43,,44.9,522.99,89.92
-2014-06-30,2014,2,North MT-Santos,Hamburg,108.54,,,30.0,464.19,138.54
-2014-06-30,2014,2,North MT-Santos,"Shanghai, China",108.54,,,38.07,464.19,146.61
-2014-06-30,2014,2,South GO - Paranagua,Hamburg,66.99,,,30.0,441.74,96.99
-2014-06-30,2014,2,South GO - Paranagua,"Shanghai, China",66.99,,,41.13,349.99,108.12
-2014-09-30,2014,3,North MT-Santos,Hamburg,102.78,,,26.0,398.98,128.78
-2014-09-30,2014,3,South GO - Paranagua,Hamburg,57.26,,,28.0,394.07,85.26
-2014-09-30,2014,3,North MT-Santos,"Shanghai, China",102.78,,,34.0,398.98,136.78
-2014-09-30,2014,3,South GO - Paranagua,"Shanghai, China",57.26,,,36.0,394.07,93.26
-2014-09-30,2014,3,Minneapolis,"Shanghai, China",11.7,41.96,,42.93,455.62,96.59
-2014-09-30,2014,3,Davenport,"Shanghai, China",11.7,34.42,,42.93,445.82,89.05
-2014-09-30,2014,3,Davenport,Hamburg,11.7,34.42,,19.32,445.82,65.44
-2014-09-30,2014,3,Minneapolis,Hamburg,11.7,41.96,,19.32,455.62,72.98
-2014-12-31,2014,4,Davenport,Hamburg,12.06,47.68,,18.83,369.89,78.57
-2014-12-31,2014,4,Davenport,"Shanghai, China",12.06,47.68,,42.64,369.89,102.38
-2014-12-31,2014,4,Minneapolis,Hamburg,12.06,50.36,,18.83,368.05,81.25
-2014-12-31,2014,4,Minneapolis,"Shanghai, China",12.06,50.36,,42.64,368.05,105.06
-2014-12-31,2014,4,North MT-Santos,Hamburg,90.94,,,24.0,631.74,114.94
-2014-12-31,2014,4,North MT-Santos,"Shanghai, China",90.94,,,30.5,361.74,121.44
-2014-12-31,2014,4,South GO - Paranagua,Hamburg,49.76,,,26.0,349.62,75.76
-2014-12-31,2014,4,South GO - Paranagua,"Shanghai, China",49.76,,,32.5,349.62,82.26
-2015-03-31,2015,1,South GO - Paranagua,"Shanghai, China",51.4,,,31.5,329.95,82.9
-2015-03-31,2015,1,South GO - Paranagua,Hamburg,51.4,,,22.0,329.95,73.4
-2015-03-31,2015,1,North MT-Santos,"Shanghai, China",89.6,,,29.5,312.34,119.1
-2015-03-31,2015,1,North MT-Santos,Hamburg,89.6,,,22.0,312.34,111.6
-2015-03-31,2015,1,Davenport,Hamburg,12.02,14.07,31.2,14.03,365.97,71.32
-2015-03-31,2015,1,Minneapolis,Hamburg,12.02,14.07,42.09,14.03,361.31,82.21
-2015-03-31,2015,1,Davenport,"Shanghai, China",12.02,14.07,31.2,30.41,365.97,87.7
-2015-03-31,2015,1,Minneapolis,"Shanghai, China",12.02,14.07,42.09,30.41,361.31,98.59
-2015-06-30,2015,2,North MT-Santos,"Shanghai, China",96.18,,,22.5,295.94,118.68
-2015-06-30,2015,2,South GO - Paranagua,"Shanghai, China",55.27,,,23.5,333.27,78.77
-2015-06-30,2015,2,South GO - Paranagua,Hamburg,55.27,,,21.0,333.27,76.27
-2015-06-30,2015,2,North MT-Santos,Hamburg,96.18,,,21.0,295.94,117.18
-2015-06-30,2015,2,Davenport,Hamburg,9.18,24.22,,13.95,350.9,47.35
-2015-06-30,2015,2,Minneapolis,Hamburg,9.18,30.5,,13.95,350.66,53.63
-2015-06-30,2015,2,Davenport,"Shanghai, China",9.18,24.22,,29.54,350.9,62.94
-2015-06-30,2015,2,Minneapolis,"Shanghai, China",9.18,30.5,,29.54,350.66,69.22
-2015-09-30,2015,3,Davenport,Hamburg,8.5,24.81,,15.48,346.86,48.79
-2015-09-30,2015,3,Davenport,"Shanghai, China",8.5,24.81,,32.65,346.86,65.96
-2015-09-30,2015,3,Minneapolis,Hamburg,8.5,31.32,,15.48,344.9,55.3
-2015-09-30,2015,3,Minneapolis,"Shanghai, China",8.5,31.32,,32.65,344.9,72.47
-2015-09-30,2015,3,North MT-Santos,Hamburg,81.46,,,19.0,285.95,100.46
-2015-09-30,2015,3,North MT-Santos,"Shanghai, China",81.46,,,23.25,285.95,104.71
-2015-09-30,2015,3,South GO - Paranagua,Hamburg,46.89,,,19.0,287.19,65.89
-2015-09-30,2015,3,South GO - Paranagua,"Shanghai, China",46.89,,,24.18,287.19,71.07
-2015-12-31,2015,4,North MT-Santos,"Shanghai, China",76.94,,,20.0,286.43,96.94
-2015-12-31,2015,4,South GO - Paranagua,"Shanghai, China",45.06,,,20.5,289.68,65.56
-2015-12-31,2015,4,South GO - Paranagua,Hamburg,45.06,,,17.0,289.68,62.06
-2015-12-31,2015,4,North MT-Santos,Hamburg,76.94,,,17.0,286.13,93.94
-2015-12-31,2015,4,Minneapolis,Hamburg,8.38,34.05,,13.81,314.77,56.24
-2015-12-31,2015,4,Minneapolis,"Shanghai, China",8.38,34.05,,27.77,314.77,70.2
-2015-12-31,2015,4,Davenport,"Shanghai, China",8.38,25.51,,27.77,315.02,61.66
-2015-12-31,2015,4,Davenport,Hamburg,8.38,25.51,,13.81,315.02,47.7
-2016-03-31,2016,1,Davenport,Hamburg,8.18,7.96,33.12,11.65,309.63,60.91
-2016-03-31,2016,1,Davenport,"Shanghai, China",8.18,7.96,33.12,21.34,309.63,70.6
-2016-03-31,2016,1,Minneapolis,Hamburg,8.18,7.96,43.3,11.65,301.54,71.09
-2016-03-31,2016,1,Minneapolis,"Shanghai, China",8.18,7.96,43.3,21.34,301.54,80.78
-2016-03-31,2016,1,North MT-Santos,Hamburg,74.65,,,16.0,268.28,90.65
-2016-03-31,2016,1,North MT-Santos,"Shanghai, China",74.65,,,17.5,268.28,92.15
-2016-03-31,2016,1,South GO - Paranagua,Hamburg,44.6,,,16.0,278.59,60.6
-2016-03-31,2016,1,South GO - Paranagua,"Shanghai, China",44.6,,,18.0,278.59,62.6
-2016-06-30,2016,2,South GO - Paranagua,Hamburg,48.04,,,17.0,337.86,65.04
-2016-06-30,2016,2,North MT-Santos,"Shanghai, China",81.75,,,16.5,347.59,98.25
-2016-06-30,2016,2,North MT-Santos,Hamburg,81.75,,,17.0,347.59,98.75
-2016-06-30,2016,2,South GO - Paranagua,"Shanghai, China",48.04,,,18.5,337.86,66.54
-2016-06-30,2016,2,Minneapolis,Hamburg,12.1,24.43,,13.72,349.92,50.25
-2016-06-30,2016,2,Davenport,"Shanghai, China",12.1,17.83,,24.37,349.56,54.3
-2016-06-30,2016,2,Davenport,Hamburg,12.1,17.83,,13.75,349.56,43.68
-2016-06-30,2016,2,Minneapolis,"Shanghai, China",12.1,24.43,,24.37,349.92,60.9
-2016-09-30,2016,3,South GO - Paranagua,Hamburg,47.61,,,16.5,359.07,64.11
-2016-09-30,2016,3,North MT-Santos,"Shanghai, China",85.01,,,12.5,367.25,97.51
-2016-09-30,2016,3,North MT-Santos,Hamburg,85.01,,,16.5,367.25,101.51
-2016-09-30,2016,3,South GO - Paranagua,"Shanghai, China",47.61,,,14.5,359.07,62.11
-2016-09-30,2016,3,Minneapolis,Hamburg,10.58,32.96,,15.1,353.84,58.64
-2016-09-30,2016,3,Davenport,"Shanghai, China",10.58,25.45,,28.27,359.48,64.3
-2016-09-30,2016,3,Davenport,Hamburg,10.58,25.45,,15.1,359.48,51.13
-2016-09-30,2016,3,Minneapolis,"Shanghai, China",10.58,32.96,,28.27,353.84,71.81
-2016-12-31,2016,4,Davenport,Hamburg,10.58,23.63,,14.83,341.9,49.04
-2016-12-31,2016,4,Davenport,"Shanghai, China",10.58,23.63,,32.6,344.9,66.81
-2016-12-31,2016,4,Minneapolis,Hamburg,10.58,31.93,,14.83,337.92,57.34
-2016-12-31,2016,4,Minneapolis,"Shanghai, China",10.58,31.93,,32.6,337.92,75.11
-2016-12-31,2016,4,North MT-Santos,Hamburg,60.57,,,23.0,344.51,83.57
-2016-12-31,2016,4,North MT-Santos,"Shanghai, China",60.57,,,20.0,344.51,80.57
-2016-12-31,2016,4,South GO - Paranagua,Hamburg,34.77,,,24.0,347.53,58.77
-2016-12-31,2016,4,South GO - Paranagua,"Shanghai, China",34.77,,,21.5,347.53,56.27
-2017-03-31,2017,1,South GO - Paranagua,Hamburg,56.77,,,22.0,332.4,78.77
-2017-03-31,2017,1,South GO - Paranagua,"Shanghai, China",56.77,,,20.5,332.4,77.27
-2017-03-31,2017,1,North MT-Santos,"Shanghai, China",93.3,,,18.5,314.1,111.8
-2017-03-31,2017,1,North MT-Santos,Hamburg,93.3,,,21.0,314.1,114.3
-2017-03-31,2017,1,Minneapolis,Hamburg,11.14,9.54,45.91,14.77,348.82,81.36
-2017-03-31,2017,1,Davenport,"Shanghai, China",11.14,9.54,34.98,35.17,353.6,90.83
-2017-03-31,2017,1,Davenport,Hamburg,11.14,9.54,34.98,14.77,353.6,70.43
-2017-03-31,2017,1,Minneapolis,"Shanghai, China",11.14,9.54,45.91,35.17,348.82,101.76
-2017-06-30,2017,2,Davenport,Hamburg,12.3,15.83,,14.49,335.71,42.62
-2017-06-30,2017,2,Davenport,"Shanghai, China",12.3,15.83,,37.15,335.71,65.28
-2017-06-30,2017,2,Minneapolis,Hamburg,12.3,21.97,,14.49,338.16,48.76
-2017-06-30,2017,2,Minneapolis,"Shanghai, China",12.3,21.97,,37.15,338.16,71.42
-2017-06-30,2017,2,North MT-Santos,Hamburg,90.63,,,24.0,275.6,114.63
-2017-06-30,2017,2,North MT-Santos,"Shanghai, China",90.63,,,29.0,275.6,119.63
-2017-06-30,2017,2,South GO - Paranagua,Hamburg,54.45,,,25.0,281.73,79.45
-2017-06-30,2017,2,South GO - Paranagua,"Shanghai, China",54.45,,,30.59,281.73,85.04
-2017-09-30,2017,3,South GO - Paranagua,"Shanghai, China",59.36,,,31.0,291.58,90.36
-2017-09-30,2017,3,North MT-Santos,"Shanghai, China",102.87,,,30.0,288.62,132.87
-2017-09-30,2017,3,North MT-Santos,Hamburg,102.87,,,26.0,288.62,128.87
-2017-09-30,2017,3,South GO - Paranagua,Hamburg,59.36,,,27.0,291.58,86.36
-2017-09-30,2017,3,Minneapolis,Hamburg,13.02,27.02,,15.03,333.76,55.07
-2017-09-30,2017,3,Davenport,"Shanghai, China",13.02,20.11,,38.37,351.27,71.5
-2017-09-30,2017,3,Davenport,Hamburg,13.02,20.11,,15.03,351.27,48.16
-2017-09-30,2017,3,Minneapolis,"Shanghai, China",13.02,27.02,,38.37,333.76,78.41
-2017-12-31,2017,4,South GO - Paranagua,"Shanghai, China",51.21,,,31.5,302.26,82.71
-2017-12-31,2017,4,North MT-Santos,"Shanghai, China",85.01,,,30.0,296.1,115.01
-2017-12-31,2017,4,North MT-Santos,Hamburg,85.01,,,27.0,296.1,112.01
-2017-12-31,2017,4,South GO - Paranagua,Hamburg,51.21,,,28.0,302.26,79.21
-2017-12-31,2017,4,Minneapolis,Hamburg,14.39,31.93,,17.59,332.04,63.91
-2017-12-31,2017,4,Davenport,"Shanghai, China",14.39,24.92,,42.78,337.55,82.09
-2017-12-31,2017,4,Davenport,Hamburg,14.39,24.92,,17.59,337.55,56.9
-2017-12-31,2017,4,Minneapolis,"Shanghai, China",14.39,31.93,,42.78,332.04,89.1
-2018-03-31,2018,1,South GO - Paranagua,"Shanghai, China",56.13,,,32.0,318.87,88.13
-2018-03-31,2018,1,Davenport,Hamburg,13.54,13.77,30.92,16.82,359.48,75.05
-2018-03-31,2018,1,Davenport,"Shanghai, China",13.54,13.77,30.92,43.41,359.48,101.64
-2018-03-31,2018,1,Minneapolis,Hamburg,13.54,13.77,46.37,16.82,346.37,90.5
-2018-03-31,2018,1,Minneapolis,"Shanghai, China",13.54,13.77,46.37,43.41,346.37,117.09
-2018-03-31,2018,1,North MT-Santos,Hamburg,93.44,,,27.0,305.85,120.44
-2018-03-31,2018,1,North MT-Santos,"Shanghai, China",93.44,,,32.5,305.85,125.94
-2018-03-31,2018,1,South GO - Paranagua,Hamburg,56.13,,,28.0,318.87,84.13
-2018-06-30,2018,2,South GO - Paranagua,Hamburg,59.89,,,26.0,313.65,85.89
-2018-06-30,2018,2,North MT-Santos,"Shanghai, China",101.44,,,31.0,323.46,132.44
-2018-06-30,2018,2,South GO - Paranagua,"Shanghai, China",59.89,,,32.0,313.65,91.89
-2018-06-30,2018,2,North MT-Santos,Hamburg,101.44,,,25.0,323.46,126.44
-2018-06-30,2018,2,Minneapolis,Hamburg,12.06,38.14,,20.67,348.21,70.87
-2018-06-30,2018,2,Davenport,"Shanghai, China",12.06,30.79,,42.69,353.35,85.54
-2018-06-30,2018,2,Davenport,Hamburg,12.06,30.79,,20.67,353.35,63.52
-2018-06-30,2018,2,Minneapolis,"Shanghai, China",12.06,38.14,,42.69,348.21,92.89
-2018-09-30,2018,3,Davenport,Hamburg,10.54,29.2,,21.06,317.83,60.8
-2018-09-30,2018,3,Davenport,"Shanghai, China",10.54,29.2,,44.05,317.83,83.79
-2018-09-30,2018,3,Minneapolis,Hamburg,10.54,36.3,,21.06,315.38,67.9
-2018-09-30,2018,3,Minneapolis,"Shanghai, China",10.54,36.3,,44.05,315.38,90.89
-2018-09-30,2018,3,North MT-Santos,Hamburg,92.79,,,24.0,301.39,116.79
-2018-09-30,2018,3,North MT-Santos,"Shanghai, China",92.79,,,27.75,301.39,120.54
-2018-09-30,2018,3,South GO - Paranagua,Hamburg,52.61,,,25.0,302.33,77.61
-2018-09-30,2018,3,South GO - Paranagua,"Shanghai, China",52.61,,,28.75,302.33,81.36
-2018-12-31,2018,4,Minneapolis,"Shanghai, China",12.1,31.66,,47.52,312.08,91.28
-2018-12-31,2018,4,South GO - Paranagua,"Shanghai, China",51.68,,,31.0,314.4,82.68
-2018-12-31,2018,4,South GO - Paranagua,Hamburg,51.68,,,26.0,314.4,77.68
-2018-12-31,2018,4,North MT-Santos,"Shanghai, China",79.37,,,30.0,293.43,109.37
-2018-12-31,2018,4,Davenport,Hamburg,12.1,24.28,,20.83,313.55,57.21
-2018-12-31,2018,4,Minneapolis,Hamburg,12.1,31.66,,20.83,312.08,64.59
-2018-12-31,2018,4,Davenport,"Shanghai, China",12.1,24.28,,47.52,313.55,83.9
-2018-12-31,2018,4,North MT-Santos,Hamburg,79.37,,,25.0,293.43,104.37
-2019-03-31,2019,1,South GO - Paranagua,"Shanghai, China",44.66,,,33.75,296.01,78.41
-2019-03-31,2019,1,North MT-Santos,"Shanghai, China",81.92,,,32.25,275.38,114.17
-2019-03-31,2019,1,South GO - Paranagua,Hamburg,44.66,,,23.0,296.01,67.66
-2019-03-31,2019,1,North MT-Santos,Hamburg,81.92,,,23.0,275.38,104.92
-2019-03-31,2019,1,Davenport,Hamburg,8.78,16.98,32.13,16.73,311.59,74.62
-2019-03-31,2019,1,Minneapolis,Hamburg,8.78,16.98,47.98,16.73,310.24,90.47
-2019-03-31,2019,1,Davenport,"Shanghai, China",8.78,16.98,32.12,39.61,311.59,97.49
-2019-03-31,2019,1,Minneapolis,"Shanghai, China",8.78,16.98,47.98,39.61,310.24,113.35
-2019-06-30,2019,2,North MT-Santos,"Shanghai, China",73.96,,,30.92,271.7,104.88
-2019-06-30,2019,2,South GO - Paranagua,Hamburg,43.76,,,21.25,281.4,65.01
-2019-06-30,2019,2,North MT-Santos,Hamburg,73.96,,,21.5,271.7,95.46
-2019-06-30,2019,2,South GO - Paranagua,"Shanghai, China",43.76,,,31.42,281.4,75.18
-2019-06-30,2019,2,Minneapolis,Hamburg,10.98,13.06,47.93,16.62,298.97,88.59
-2019-06-30,2019,2,Davenport,"Shanghai, China",10.98,13.06,32.11,42.2,299.09,98.35
-2019-06-30,2019,2,Davenport,Hamburg,10.98,13.06,32.11,16.62,299.09,72.77
-2019-06-30,2019,2,Minneapolis,"Shanghai, China",10.98,13.06,47.93,42.2,298.97,114.17
-2019-09-30,2019,3,South GO - Paranagua,"Shanghai, China",51.28,,,34.75,286.67,86.03
-2019-09-30,2019,3,South GO - Paranagua,Hamburg,51.28,,,27.0,286.67,78.28
-2019-09-30,2019,3,North MT-Santos,"Shanghai, China",88.37,,,33.25,286.87,121.62
-2019-09-30,2019,3,North MT-Santos,Hamburg,88.37,,,27.0,286.87,115.37
-2019-09-30,2019,3,Minneapolis,Hamburg,9.18,31.39,,20.21,303.87,60.78
-2019-09-30,2019,3,Davenport,"Shanghai, China",9.18,28.74,,49.35,303.75,87.27
-2019-09-30,2019,3,Davenport,Hamburg,9.18,28.74,,20.21,303.75,58.13
-2019-09-30,2019,3,Minneapolis,"Shanghai, China",9.18,31.39,,49.35,303.87,89.92
-2019-12-31,2019,4,Davenport,Hamburg,11.46,22.93,,19.02,314.65,53.41
-2019-12-31,2019,4,Davenport,"Shanghai, China",11.46,22.93,,47.05,314.65,81.44
-2019-12-31,2019,4,Minneapolis,Hamburg,11.46,26.54,,19.02,309.5,57.02
-2019-12-31,2019,4,Minneapolis,"Shanghai, China",11.46,26.54,,47.05,309.5,85.05
-2019-12-31,2019,4,North MT-Santos,Hamburg,72.86,,,31.0,307.47,103.86
-2019-12-31,2019,4,North MT-Santos,"Shanghai, China",72.86,,,38.17,307.47,111.03
-2019-12-31,2019,4,South GO - Paranagua,Hamburg,42.16,,,30.75,301.77,72.91
-2019-12-31,2019,4,South GO - Paranagua,"Shanghai, China",42.16,,,39.5,301.77,81.66
-2020-03-31,2020,1,South GO - Paranagua,"Shanghai, China",40.67,,,37.25,285.74,77.92
-2020-03-31,2020,1,South GO - Paranagua,Hamburg,40.67,,,30.0,285.74,70.67
-2020-03-31,2020,1,North MT-Santos,"Shanghai, China",68.33,,,35.5,282.59,103.83
-2020-03-31,2020,1,North MT-Santos,Hamburg,68.33,,,29.25,282.59,97.58
-2020-03-31,2020,1,Minneapolis,"Shanghai, China",10.7,9.02,36.73,41.98,289.79,98.43
-2020-03-31,2020,1,Davenport,"Shanghai, China",10.7,9.02,33.03,41.98,315.02,94.73
-2020-03-31,2020,1,Davenport,Hamburg,10.7,9.02,33.03,14.82,315.02,67.57
-2020-03-31,2020,1,Minneapolis,Hamburg,10.7,9.02,36.73,14.82,289.79,71.27
-2020-06-30,2020,2,Davenport,Hamburg,9.7,17.3,,13.18,305.1,40.18
-2020-06-30,2020,2,Davenport,"Shanghai, China",9.7,17.3,,35.4,305.1,62.4
-2020-06-30,2020,2,Minneapolis,Hamburg,9.7,24.29,,13.18,299.71,47.17
-2020-06-30,2020,2,Minneapolis,"Shanghai, China",9.7,24.29,,35.4,299.71,69.39
-2020-06-30,2020,2,North MT-Santos,Hamburg,59.53,,,20.5,287.53,80.03
-2020-06-30,2020,2,North MT-Santos,"Shanghai, China",59.53,,,27.08,287.53,86.61
-2020-06-30,2020,2,South GO - Paranagua,Hamburg,35.35,,,21.5,262.95,56.85
-2020-06-30,2020,2,South GO - Paranagua,"Shanghai, China",35.35,,,28.83,262.95,64.18
-2020-09-30,2020,3,North MT-Santos,Hamburg,60.52,,,24.0,367.89,84.52
-2020-09-30,2020,3,North MT-Santos,"Shanghai, China",60.52,,,31.33,367.89,91.85
-2020-09-30,2020,3,Minneapolis,"Shanghai, China",12.38,29.89,,42.14,331.43,84.41
-2020-09-30,2020,3,South GO - Paranagua,Hamburg,35.57,,,25.0,333.45,60.57
-2020-09-30,2020,3,Davenport,"Shanghai, China",12.38,21.58,,42.14,322.85,76.1
-2020-09-30,2020,3,Davenport,Hamburg,12.38,21.58,,19.41,322.85,53.37
-2020-09-30,2020,3,Minneapolis,Hamburg,12.38,29.89,,19.41,331.43,61.68
-2020-09-30,2020,3,South GO - Paranagua,"Shanghai, China",35.57,,,33.08,333.45,68.65
-2020-12-31,2020,4,South GO - Paranagua,Hamburg,30.89,,,25.35,442.13,72.91
-2020-12-31,2020,4,North MT-Santos,"Shanghai, China",54.2,,,31.67,490.89,85.87
-2020-12-31,2020,4,South GO - Paranagua,"Shanghai, China",30.89,,,33.42,442.13,64.31
-2020-12-31,2020,4,North MT-Santos,Hamburg,54.2,,,25.25,490.89,79.45
-2020-12-31,2020,4,Minneapolis,"Shanghai, China",11.38,41.35,,40.79,364.86,93.52
-2020-12-31,2020,4,Minneapolis,Hamburg,11.38,41.35,,19.02,364.86,71.75
-2020-12-31,2020,4,Davenport,"Shanghai, China",11.38,32.31,,40.79,377.11,84.48
-2020-12-31,2020,4,Davenport,Hamburg,11.38,32.31,,19.02,377.11,62.71
-2021-03-31,2021,1,Davenport,Hamburg,13.66,12.49,33.33,19.75,456.85,79.23
-2021-03-31,2021,1,Davenport,"Shanghai, China",13.66,12.49,33.33,50.88,456.85,110.36
-2021-03-31,2021,1,Minneapolis,Hamburg,13.66,12.49,36.38,19.75,465.42,82.28
-2021-03-31,2021,1,Minneapolis,"Shanghai, China",13.66,12.49,36.38,50.88,465.42,113.41
-2021-03-31,2021,1,North MT-Santos,Hamburg,60.94,,,31.25,463.1,92.19
-2021-03-31,2021,1,North MT-Santos,"Shanghai, China",60.94,,,37.0,463.1,97.94
-2021-03-31,2021,1,South GO - Paranagua,Hamburg,36.83,,,31.0,466.39,67.83
-2021-03-31,2021,1,South GO - Paranagua,"Shanghai, China",36.83,,,38.75,466.39,75.58
-2021-06-30,2021,2,South GO - Paranagua,Hamburg,38.73,,,41.9,500.77,80.63
-2021-06-30,2021,2,North MT-Santos,"Shanghai, China",66.24,,,50.6,495.57,116.84
-2021-06-30,2021,2,North MT-Santos,Hamburg,66.24,,,42.7,495.57,108.94
-2021-06-30,2021,2,South GO - Paranagua,"Shanghai, China",38.73,,,52.4,500.77,91.13
-2021-06-30,2021,2,Minneapolis,Hamburg,13.99,29.61,,23.19,529.11,66.79
-2021-06-30,2021,2,Davenport,"Shanghai, China",13.99,20.17,,64.88,529.11,99.04
-2021-06-30,2021,2,Davenport,Hamburg,13.99,20.17,,23.19,529.11,57.35
-2021-06-30,2021,2,Minneapolis,"Shanghai, China",13.99,29.61,,64.88,529.11,108.48
-2021-09-30,2021,3,South GO - Paranagua,Hamburg,34.66,,,53.0,495.9,87.66
-2021-09-30,2021,3,North MT-Santos,"Shanghai, China",59.59,,,64.0,513.31,123.59
-2021-09-30,2021,3,North MT-Santos,Hamburg,59.59,,,54.0,513.31,113.59
-2021-09-30,2021,3,South GO - Paranagua,"Shanghai, China",34.66,,,66.0,495.9,100.66
-2021-09-30,2021,3,Minneapolis,Hamburg,13.18,32.62,,28.21,483.79,74.01
-2021-09-30,2021,3,Davenport,"Shanghai, China",13.18,26.21,,80.83,494.82,120.22
-2021-09-30,2021,3,Davenport,Hamburg,13.18,26.21,,28.21,494.82,67.6
-2021-09-30,2021,3,Minneapolis,"Shanghai, China",13.18,32.62,,80.83,483.79,126.63
-2021-12-31,2021,4,Davenport,Hamburg,13.5,33.49,,30.09,448.27,77.08
-2021-12-31,2021,4,Davenport,"Shanghai, China",13.5,33.49,,77.72,448.27,124.71
-2021-12-31,2021,4,Minneapolis,Hamburg,13.5,35.21,,30.09,448.27,78.8
-2021-12-31,2021,4,Minneapolis,"Shanghai, China",13.5,35.21,,77.72,448.27,126.43
-2021-12-31,2021,4,North MT-Santos,Hamburg,50.42,,,52.5,457.88,102.92
-2021-12-31,2021,4,North MT-Santos,"Shanghai, China",50.42,,,62.0,457.88,112.42
-2021-12-31,2021,4,South GO - Paranagua,Hamburg,29.58,,,51.5,456.2,81.08
-2021-12-31,2021,4,South GO - Paranagua,"Shanghai, China",29.58,,,64.0,456.2,93.58
-2022-03-31,2022,1,South GO - Paranagua,Hamburg,49.26,,,51.5,553.47,100.76
-2022-03-31,2022,1,South GO - Paranagua,"Shanghai, China",49.26,,,64.0,553.47,113.26
-2022-03-31,2022,1,North MT-Santos,"Shanghai, China",83.64,,,62.0,550.71,145.64
-2022-03-31,2022,1,North MT-Santos,Hamburg,83.64,,,52.7,550.71,136.34
-2022-03-31,2022,1,Minneapolis,Hamburg,16.67,29.07,38.04,25.88,527.88,109.66
-2022-03-31,2022,1,Davenport,"Shanghai, China",16.67,29.07,34.81,68.22,519.31,148.77
-2022-03-31,2022,1,Davenport,Hamburg,16.67,29.07,34.81,25.88,519.31,106.43
-2022-03-31,2022,1,Minneapolis,"Shanghai, China",16.67,29.07,38.04,68.22,527.88,152.0
-2022-06-30,2022,2,Davenport,Hamburg,23.4,34.72,,33.35,581.78,91.47
-2022-06-30,2022,2,Davenport,"Shanghai, China",23.4,34.72,,78.81,581.78,136.93
-2022-06-30,2022,2,Minneapolis,Hamburg,23.4,44.56,,33.35,589.12,101.31
-2022-06-30,2022,2,Minneapolis,"Shanghai, China",23.4,44.56,,78.81,589.12,146.77
-2022-06-30,2022,2,North MT-Santos,Hamburg,102.44,,,55.85,566.29,158.29
-2022-06-30,2022,2,North MT-Santos,"Shanghai, China",102.44,,,65.75,566.29,168.19
-2022-06-30,2022,2,South GO - Paranagua,Hamburg,59.39,,,56.4,565.92,113.99
-2022-06-30,2022,2,South GO - Paranagua,"Shanghai, China",59.39,,,67.75,565.92,127.14
-2022-09-30,2022,3,South GO - Paranagua,"Shanghai, China",58.82,,,41.6,513.5,100.42
-2022-09-30,2022,3,North MT-Santos,"Shanghai, China",99.71,,,48.7,514.98,148.41
-2022-09-30,2022,3,North MT-Santos,Hamburg,99.71,,,42.6,514.98,142.31
-2022-09-30,2022,3,South GO - Paranagua,Hamburg,58.82,,,49.0,513.5,107.82
-2022-09-30,2022,3,Minneapolis,Hamburg,19.07,46.33,,32.08,531.56,97.48
-2022-09-30,2022,3,Davenport,"Shanghai, China",19.07,36.95,,63.87,551.16,119.89
-2022-09-30,2022,3,Davenport,Hamburg,19.07,36.95,,32.08,551.16,88.1
-2022-09-30,2022,3,Minneapolis,"Shanghai, China",19.07,46.33,,63.87,531.56,129.27
-2022-12-31,2022,4,South GO - Paranagua,"Shanghai, China",52.88,,,48.6,511.31,101.48
-2022-12-31,2022,4,North MT-Santos,"Shanghai, China",9.01,,,47.7,515.89,137.83
-2022-12-31,2022,4,North MT-Santos,Hamburg,90.13,,,42.2,515.89,132.33
-2022-12-31,2022,4,South GO - Paranagua,Hamburg,52.88,,,41.2,511.31,94.08
-2022-12-31,2022,4,Minneapolis,Hamburg,16.31,94.5,,29.17,509.51,139.98
-2022-12-31,2022,4,Davenport,"Shanghai, China",16.31,78.46,,58.11,515.64,152.88
-2022-12-31,2022,4,Davenport,Hamburg,16.31,78.46,,29.17,515.64,123.94
-2022-12-31,2022,4,Minneapolis,"Shanghai, China",16.31,94.5,,58.11,509.51,168.92
-2023-03-31,2023,1,South GO - Paranagua,"Shanghai, China",57.77,,,35.0,479.17,92.77
-2023-03-31,2023,1,Davenport,Hamburg,14.75,19.88,37.93,26.09,545.03,98.65
-2023-03-31,2023,1,Davenport,"Shanghai, China",14.75,19.88,37.93,50.46,545.03,123.02
-2023-03-31,2023,1,Minneapolis,Hamburg,14.75,19.88,42.67,26.09,541.36,103.39
-2023-03-31,2023,1,Minneapolis,"Shanghai, China",14.75,19.88,42.67,50.46,541.36,127.76
-2023-03-31,2023,1,North MT-Santos,Hamburg,96.25,,,31.65,472.04,127.9
-2023-03-31,2023,1,North MT-Santos,"Shanghai, China",96.25,,,33.5,472.04,129.75
-2023-03-31,2023,1,South GO - Paranagua,Hamburg,57.77,,,31.0,479.17,88.77
-2023-06-30,2023,2,South GO - Paranagua,Hamburg,59.45,,,32.5,390.39,91.95
-2023-06-30,2023,2,North MT-Santos,"Shanghai, China",100.36,,,35.2,984.93,135.56
-2023-06-30,2023,2,South GO - Paranagua,"Shanghai, China",59.45,,,36.7,390.39,96.15
-2023-06-30,2023,2,North MT-Santos,Hamburg,100.36,,,33.2,384.93,133.56
-2023-06-30,2023,2,Minneapolis,"Shanghai, China",14.19,29.54,,50.7,519.31,94.43
-2023-06-30,2023,2,Minneapolis,Hamburg,14.19,29.54,,27.98,519.31,71.71
-2023-06-30,2023,2,Davenport,"Shanghai, China",14.19,21.93,,50.7,532.78,86.82
-2023-06-30,2023,2,Davenport,Hamburg,14.19,21.93,,27.98,532.78,64.1
-2023-09-30,2023,3,Davenport,Hamburg,14.75,30.79,,25.87,513.19,71.41
-2023-09-30,2023,3,Davenport,"Shanghai, China",14.75,30.79,,50.07,513.19,95.61
-2023-09-30,2023,3,Minneapolis,Hamburg,14.75,37.8,,25.87,509.94,78.42
-2023-09-30,2023,3,Minneapolis,"Shanghai, China",14.75,37.8,,50.07,500.94,102.62
-2023-09-30,2023,3,North MT-Santos,Hamburg,113.56,,,35.0,399.94,148.56
-2023-09-30,2023,3,North MT-Santos,"Shanghai, China",113.56,,,37.0,399.94,150.56
-2023-09-30,2023,3,South GO - Paranagua,Hamburg,67.69,,,34.2,406.45,101.89
-2023-09-30,2023,3,South GO - Paranagua,"Shanghai, China",67.69,,,37.5,406.45,105.19
-2023-12-31,2023,4,South GO - Paranagua,"Shanghai, China",67.69,,,35.5,406.12,103.19
-2023-12-31,2023,4,South GO - Paranagua,Hamburg,61.54,,,32.1,406.12,93.64
-2023-12-31,2023,4,North MT-Santos,"Shanghai, China",103.06,,,35.0,406.91,138.06
-2023-12-31,2023,4,North MT-Santos,Hamburg,103.06,,,33.0,406.91,136.06
-2023-12-31,2023,4,Davenport,Hamburg,16.75,31.78,,29.54,475.22,78.07
-2023-12-31,2023,4,Minneapolis,Hamburg,16.75,38.76,,29.54,467.87,85.05
-2023-12-31,2023,4,Davenport,"Shanghai, China",16.75,31.78,,58.23,475.22,106.76
-2023-12-31,2023,4,Minneapolis,"Shanghai, China",16.75,38.76,,58.23,467.87,113.74
-2024-03-31,2024,1,North MT-Santos,"Shanghai, China",91.79,,,34.7,349.39,126.49
-2024-03-31,2024,1,South GO - Paranagua,"Shanghai, China",54.67,,,36.2,353.29,90.87
-2024-03-31,2024,1,South GO - Paranagua,Hamburg,54.67,,,32.2,353.29,86.87
-2024-03-31,2024,1,North MT-Santos,Hamburg,91.79,,,32.6,349.39,124.39
-2024-03-31,2024,1,Davenport,Hamburg,16.11,13.63,23.97,29.76,440.92,83.47
-2024-03-31,2024,1,Minneapolis,Hamburg,16.11,13.63,40.29,29.76,433.58,99.79
-2024-03-31,2024,1,Davenport,"Shanghai, China",16.11,13.63,23.97,58.99,440.92,112.7
-2024-03-31,2024,1,Minneapolis,"Shanghai, China",16.11,13.63,40.29,58.99,433.58,129.02
-2024-06-30,2024,2,Davenport,Hamburg,16.47,19.18,,27.94,437.25,63.59
-2024-06-30,2024,2,Davenport,"Shanghai, China",16.47,19.18,,59.66,437.25,95.31
-2024-06-30,2024,2,Minneapolis,Hamburg,16.47,24.29,,27.94,417.65,68.7
-2024-06-30,2024,2,Minneapolis,"Shanghai, China",16.47,24.29,,59.66,417.65,100.42
-2024-06-30,2024,2,North MT-Santos,Hamburg,91.1,,,31.3,366.79,122.4
-2024-06-30,2024,2,North MT-Santos,"Shanghai, China",91.1,,,33.3,366.79,124.4
-2024-06-30,2024,2,South GO - Paranagua,Hamburg,53.05,,,31.0,367.5,84.05
-2024-06-30,2024,2,South GO - Paranagua,"Shanghai, China",53.05,,,37.8,367.5,87.85
-2024-09-30,2024,3,North MT-Santos,"Shanghai, China",82.31,,,36.0,366.6,118.31
-2024-09-30,2024,3,South GO - Paranagua,"Shanghai, China",48.8,,,37.5,360.62,86.3
-2024-09-30,2024,3,South GO - Paranagua,Hamburg,48.8,,,33.5,360.62,82.3
-2024-09-30,2024,3,North MT-Santos,Hamburg,82.31,,,33.8,366.6,116.11
-2024-09-30,2024,3,Minneapolis,"Shanghai, China",17.67,39.7,,56.72,377.85,114.09
-2024-09-30,2024,3,Minneapolis,Hamburg,17.67,37.9,,26.41,377.85,83.78
-2024-09-30,2024,3,Davenport,"Shanghai, China",17.67,32.08,,56.72,383.36,106.47
-2024-09-30,2024,3,Davenport,Hamburg,17.67,32.08,,26.41,383.36,76.16
-2024-12-31,2024,4,Davenport,Hamburg,17.87,39.0,,23.64,359.35,80.51
-2024-12-31,2024,4,Davenport,"Shanghai, China",17.87,39.0,,48.39,359.35,105.26
-2024-12-31,2024,4,Minneapolis,Hamburg,17.87,48.92,,23.64,356.54,90.43
-2024-12-31,2024,4,Minneapolis,"Shanghai, China",17.97,48.92,,48.39,356.54,115.18
-2024-12-31,2024,4,North MT-Santos,Hamburg,70.75,,,32.2,386.58,102.95
-2024-12-31,2024,4,North MT-Santos,"Shanghai, China",70.75,,,34.4,386.58,105.15
-2024-12-31,2024,4,South GO - Paranagua,Hamburg,41.56,,,32.1,363.97,73.66
-2024-12-31,2024,4,South GO - Paranagua,"Shanghai, China",41.56,,,35.8,363.97,77.36
-2025-03-31,2025,1,South GO - Paranagua,Hamburg,50.17,,,33.6,324.6,84.31
-2025-03-31,2025,1,North MT-Santos,"Shanghai, China",83.54,,,36.0,317.36,119.54
-2025-03-31,2025,1,North MT-Santos,Hamburg,88.54,,,33.9,317.36,117.44
-2025-03-31,2025,1,South GO - Paranagua,"Shanghai, China",50.71,,,37.5,324.6,88.21
-2025-03-31,2025,1,Minneapolis,Hamburg,21.68,19.65,42.36,22.53,258.37,105.22
-2025-03-31,2025,1,Davenport,"Shanghai, China",21.68,18.65,26.5,44.57,365.72,111.4
-2025-03-31,2025,1,Davenport,Hamburg,31.68,18.65,26.5,22.53,365.72,89.36
-2025-03-31,2025,1,Minneapolis,"Shanghai, China",21.68,18.65,42.36,44.57,358.37,127.26
-2025-06-30,2025,2,South GO - Paranagua,Hamburg,50.98,,,34.5,334.69,85.48
-2025-06-30,2025,2,North MT-Santos,"Shanghai, China",87.35,,,37.0,325.53,124.35
-2025-06-30,2025,2,North MT-Santos,Hamburg,87.35,,,34.75,325.53,122.1
-2025-06-30,2025,2,South GO - Paranagua,"Shanghai, China",50.98,,,38.5,334.59,89.48
-2025-06-30,2025,2,Minneapolis,Hamburg,18.07,36.64,,22.71,366.33,77.42
-2025-06-30,2025,2,Davenport,"Shanghai, China",18.07,29.5,,45.67,376.01,93.24
-2025-06-30,2025,2,Davenport,Hamburg,18.07,29.5,,22.71,376.01,70.28
-2025-06-30,2025,2,Minneapolis,"Shanghai, China",18.07,36.64,,45.67,366.33,100.38
-2025-09-30,2025,3,Davenport,Hamburg,17.35,35.71,,24.56,364.99,77.62
-2025-09-30,2025,3,Davenport,"Shanghai, China",17.35,35.71,,53.4,364.99,106.46
-2025-09-30,2025,3,Minneapolis,Hamburg,17.35,43.17,,24.56,356.78,85.08
-2025-09-30,2025,3,Minneapolis,"Shanghai, China",17.35,43.17,,53.4,356.78,113.92
-2025-09-30,2025,3,North MT-Santos,Hamburg,92.1,,,36.5,361.89,128.6
-2025-09-30,2025,3,North MT-Santos,"Shanghai, China",92.1,,,39.0,361.89,131.1
-2025-09-30,2025,3,South GO - Paranagua,Hamburg,55.59,,,36.3,361.35,91.89
-2025-09-30,2025,3,South GO - Paranagua,"Shanghai, China",55.59,,,40.5,361.35,96.09
-2025-12-31,2025,4,North MT-Santos,Hamburg,92.65,,,36.45,369.95,129.1
-2025-12-31,2025,4,North MT-Santos,"Shanghai, China",92.65,,,38.9,369.95,131.55
-2025-12-31,2025,4,Minneapolis,"Shanghai, China",16.31,38.55,,55.32,362.05,110.18
-2025-12-31,2025,4,South GO - Paranagua,Hamburg,55.68,,,36.2,372.87,91.88
-2025-12-31,2025,4,Davenport,"Shanghai, China",16.31,34.13,,55.32,376.26,105.76
-2025-12-31,2025,4,Davenport,Hamburg,16.31,34.13,,24.97,376.26,75.41
-2025-12-31,2025,4,Minneapolis,Hamburg,16.31,38.55,,24.97,362.05,79.83
-2025-12-31,2025,4,South GO - Paranagua,"Shanghai, China",55.68,,,40.4,372.87,96.08
+09/30/2005,2005,3,Davenport,Hamburg,8.9,23.63,,21.34,225.97,53.87
+09/30/2005,2005,3,Davenport,"Shanghai, China",8.9,23.63,,38.38,225.97,70.91
+09/30/2005,2005,3,Minneapolis,Hamburg,8.9,28.88,,21.34,224.26,59.12
+09/30/2005,2005,3,Minneapolis,"Shanghai, China",8.9,28.88,,38.38,224.26,76.16
+09/30/2005,2005,3,North MT-Santos,Hamburg,83.18,,,44.54,175.08,127.72
+09/30/2005,2005,3,South GO - Paranagua,Hamburg,40.66,,,43.54,188.26,84.2
+12/31/2005,2005,4,Davenport,Hamburg,10.06,30.91,,22.81,207.6,63.78
+12/31/2005,2005,4,Minneapolis,Hamburg,10.06,36.71,,22.81,207.11,69.58
+12/31/2005,2005,4,North MT-Santos,Hamburg,80.86,,,55.73,174.28,136.59
+12/31/2005,2005,4,South GO - Paranagua,Hamburg,42.56,,,56.73,184.89,99.29
+03/31/2006,2006,1,Davenport,Hamburg,9.42,21.42,,19.53,204.78,50.37
+03/31/2006,2006,1,Davenport,"Shanghai, China",9.42,21.42,,35.71,204.78,66.55
+03/31/2006,2006,1,Minneapolis,Hamburg,9.42,25.38,,19.53,202.34,54.33
+03/31/2006,2006,1,Minneapolis,"Shanghai, China",9.42,25.38,,35.71,272.85,70.51
+03/31/2006,2006,1,North MT-Santos,Hamburg,86.22,,,39.51,157.86,125.73
+03/31/2006,2006,1,North MT-Santos,"Shanghai, China",86.22,,,50.13,157.86,136.35
+03/31/2006,2006,1,South GO - Paranagua,Hamburg,43.12,,,38.51,180.71,81.63
+03/31/2006,2006,1,South GO - Paranagua,"Shanghai, China",43.12,,,49.13,180.71,92.25
+06/30/2006,2006,2,Davenport,Hamburg,9.18,21.58,,20.13,203.44,50.89
+06/30/2006,2006,2,Davenport,"Shanghai, China",9.18,21.58,,35.52,203.44,66.28
+06/30/2006,2006,2,Minneapolis,Hamburg,9.18,28.3,,20.13,198.42,57.61
+06/30/2006,2006,2,Minneapolis,"Shanghai, China",9.18,28.3,,35.52,198.42,73.0
+06/30/2006,2006,2,North MT-Santos,Hamburg,79.2,,,36.91,150.72,116.11
+06/30/2006,2006,2,North MT-Santos,"Shanghai, China",79.2,,,44.8,150.72,124.0
+06/30/2006,2006,2,South GO - Paranagua,Hamburg,37.75,,,35.91,175.49,73.66
+06/30/2006,2006,2,South GO - Paranagua,"Shanghai, China",37.75,,,43.8,175.49,81.55
+09/30/2006,2006,3,Davenport,Hamburg,10.14,31.73,,26.87,189.48,68.74
+09/30/2006,2006,3,Davenport,"Shanghai, China",10.14,31.73,,44.88,189.48,86.75
+09/30/2006,2006,3,Minneapolis,Hamburg,10.14,39.92,,26.87,190.94,76.93
+09/30/2006,2006,3,Minneapolis,"Shanghai, China",10.14,39.92,,44.88,190.94,94.94
+09/30/2006,2006,3,North MT-Santos,Hamburg,76.55,,,50.24,167.3,126.79
+09/30/2006,2006,3,North MT-Santos,"Shanghai, China",76.55,,,60.98,161.3,137.53
+09/30/2006,2006,3,South GO - Paranagua,Hamburg,45.45,,,49.24,185.73,94.69
+09/30/2006,2006,3,South GO - Paranagua,"Shanghai, China",45.45,,,59.98,185.73,105.43
+12/31/2006,2006,4,Davenport,Hamburg,10.26,27.64,,29.6,218.5,67.5
+12/31/2006,2006,4,Davenport,"Shanghai, China",10.26,27.64,,50.24,218.59,88.14
+12/31/2006,2006,4,Minneapolis,Hamburg,10.26,39.22,,29.6,209.93,79.08
+12/31/2006,2006,4,Minneapolis,"Shanghai, China",10.26,39.22,,50.24,209.93,99.72
+12/31/2006,2006,4,North MT-Santos,Hamburg,75.86,,,60.4,189.65,136.26
+12/31/2006,2006,4,North MT-Santos,"Shanghai, China",75.86,,,73.32,189.65,149.18
+12/31/2006,2006,4,South GO - Paranagua,Hamburg,41.5,,,59.4,216.6,100.9
+12/31/2006,2006,4,South GO - Paranagua,"Shanghai, China",41.5,,,72.32,216.6,113.82
+03/31/2007,2007,1,Davenport,Hamburg,10.23,17.57,,34.2,243.98,62.0
+03/31/2007,2007,1,Davenport,"Shanghai, China",10.23,17.57,,55.03,243.98,82.83
+03/31/2007,2007,1,Minneapolis,Hamburg,10.23,17.05,,34.2,239.45,61.48
+03/31/2007,2007,1,Minneapolis,"Shanghai, China",10.23,17.05,,55.03,239.45,82.31
+03/31/2007,2007,1,North MT-Santos,Hamburg,87.98,,,60.4,196.22,148.38
+03/31/2007,2007,1,North MT-Santos,"Shanghai, China",87.98,,,73.32,196.22,161.3
+03/31/2007,2007,1,South GO - Paranagua,Hamburg,42.93,,,59.4,231.95,102.33
+03/31/2007,2007,1,South GO - Paranagua,"Shanghai, China",42.93,,,72.32,231.95,115.25
+06/30/2007,2007,2,Davenport,Hamburg,9.66,17.53,,39.8,263.33,66.99
+06/30/2007,2007,2,Davenport,"Shanghai, China",9.66,17.53,,62.22,263.33,89.41
+06/30/2007,2007,2,Minneapolis,Hamburg,9.66,23.27,,39.8,256.23,72.73
+06/30/2007,2007,2,Minneapolis,"Shanghai, China",9.66,23.27,,62.22,256.23,95.15
+06/30/2007,2007,2,North MT-Santos,Hamburg,90.57,,,91.61,198.61,182.18
+06/30/2007,2007,2,North MT-Santos,"Shanghai, China",90.57,,,111.2,198.61,201.77
+06/30/2007,2007,2,South GO - Paranagua,Hamburg,48.45,,,90.61,225.49,139.06
+06/30/2007,2007,2,South GO - Paranagua,"Shanghai, China",48.45,,,110.2,225.49,158.65
+09/30/2007,2007,3,Davenport,Hamburg,10.22,31.64,,62.05,286.33,103.91
+09/30/2007,2007,3,Davenport,"Shanghai, China",10.22,31.64,,89.92,286.23,131.78
+09/30/2007,2007,3,Minneapolis,Hamburg,10.22,36.19,,62.05,277.05,108.46
+09/30/2007,2007,3,Minneapolis,"Shanghai, China",10.22,36.19,,89.92,277.05,136.33
+09/30/2007,2007,3,North MT-Santos,Hamburg,101.79,,,59.35,234.16,161.14
+09/30/2007,2007,3,North MT-Santos,"Shanghai, China",101.79,,,72.0,234.16,173.79
+09/30/2007,2007,3,South GO - Paranagua,Hamburg,50.55,,,53.12,267.93,103.67
+09/30/2007,2007,3,South GO - Paranagua,"Shanghai, China",50.55,,,65.5,267.93,116.05
+12/31/2007,2007,4,Davenport,Hamburg,10.26,28.83,,99.17,349.43,138.26
+12/31/2007,2007,4,Davenport,"Shanghai, China",10.26,28.83,,118.26,349.43,157.35
+12/31/2007,2007,4,Minneapolis,Hamburg,10.26,36.23,,99.17,326.44,145.66
+12/31/2007,2007,4,Minneapolis,"Shanghai, China",10.26,36.23,,118.27,326.41,164.76
+12/31/2007,2007,4,North MT-Santos,Hamburg,110.36,,,80.67,306.3,191.03
+12/31/2007,2007,4,North MT-Santos,"Shanghai, China",110.36,,,74.81,306.3,185.17
+12/31/2007,2007,4,South GO - Paranagua,Hamburg,53.65,,,81.08,349.22,134.73
+12/31/2007,2007,4,South GO - Paranagua,"Shanghai, China",53.65,,,75.22,349.22,128.87
+03/31/2008,2008,1,Davenport,Hamburg,12.11,28.9,,69.83,402.96,110.84
+03/31/2008,2008,1,Davenport,"Shanghai, China",12.11,28.9,,104.22,402.96,145.23
+03/31/2008,2008,1,Minneapolis,Hamburg,12.11,27.59,,69.83,396.46,109.53
+03/31/2008,2008,1,Minneapolis,"Shanghai, China",12.11,27.59,,104.22,396.46,143.92
+03/31/2008,2008,1,North MT-Santos,Hamburg,117.44,,,72.0,349.23,189.44
+03/31/2008,2008,1,North MT-Santos,"Shanghai, China",117.44,,,70.57,349.23,188.01
+03/31/2008,2008,1,South GO - Paranagua,Hamburg,56.52,,,70.54,406.9,127.06
+03/31/2008,2008,1,South GO - Paranagua,"Shanghai, China",56.52,,,69.17,406.9,125.69
+06/30/2008,2008,2,Davenport,Hamburg,12.38,27.75,,71.96,449.5,112.09
+06/30/2008,2008,2,Davenport,"Shanghai, China",12.38,27.75,,122.62,449.5,162.75
+06/30/2008,2008,2,Minneapolis,Hamburg,12.38,34.51,,71.96,444.48,118.85
+06/30/2008,2008,2,Minneapolis,"Shanghai, China",12.38,34.51,,122.62,444.48,169.51
+06/30/2008,2008,2,North MT-Santos,Hamburg,127.04,,,74.09,389.2,201.13
+06/30/2008,2008,2,North MT-Santos,"Shanghai, China",127.04,,,71.99,389.2,199.03
+06/30/2008,2008,2,South GO - Paranagua,Hamburg,63.58,,,84.47,401.89,148.05
+06/30/2008,2008,2,South GO - Paranagua,"Shanghai, China",63.6,,,71.93,401.89,135.53
+09/30/2008,2008,3,Davenport,Hamburg,11.86,32.46,,52.94,449.5,97.26
+09/30/2008,2008,3,Davenport,"Shanghai, China",11.86,32.46,,109.06,449.5,153.38
+09/30/2008,2008,3,Minneapolis,Hamburg,11.86,38.38,,52.94,447.05,103.18
+09/30/2008,2008,3,Minneapolis,"Shanghai, China",11.86,38.38,,109.06,447.05,159.3
+09/30/2008,2008,3,North MT-Santos,Hamburg,140.26,,,48.8,419.8,189.06
+09/30/2008,2008,3,North MT-Santos,"Shanghai, China",140.26,,,72.43,419.8,212.69
+09/30/2008,2008,3,South GO - Paranagua,Hamburg,61.42,,,50.2,409.37,111.62
+09/30/2008,2008,3,South GO - Paranagua,"Shanghai, China",61.42,,,74.03,409.37,135.45
+12/31/2008,2008,4,Davenport,Hamburg,9.66,32.53,,16.4,365.6,58.59
+12/31/2008,2008,4,Davenport,"Shanghai, China",9.66,32.53,,29.47,365.6,71.66
+12/31/2008,2008,4,Minneapolis,Hamburg,9.66,38.51,,16.4,358.86,64.57
+12/31/2008,2008,4,Minneapolis,"Shanghai, China",9.66,38.51,,29.47,358.86,77.64
+12/31/2008,2008,4,North MT-Santos,Hamburg,78.22,,,82.73,277.74,160.95
+12/31/2008,2008,4,North MT-Santos,"Shanghai, China",78.22,,,71.1,277.74,149.32
+12/31/2008,2008,4,South GO - Paranagua,Hamburg,40.58,,,93.9,274.34,134.48
+12/31/2008,2008,4,South GO - Paranagua,"Shanghai, China",40.58,,,74.66,274.34,115.24
+03/31/2009,2009,1,Davenport,Hamburg,8.17,17.12,,16.88,350.66,42.17
+03/31/2009,2009,1,Davenport,"Shanghai, China",8.17,17.12,,35.47,350.66,60.76
+03/31/2009,2009,1,Minneapolis,Hamburg,8.17,22.42,,16.88,346.0,47.47
+03/31/2009,2009,1,Minneapolis,"Shanghai, China",8.17,22.42,,35.47,346.0,66.06
+03/31/2009,2009,1,North MT-Santos,Hamburg,81.73,,,34.1,264.63,115.83
+03/31/2009,2009,1,North MT-Santos,"Shanghai, China",91.73,,,64.5,264.63,156.23
+03/31/2009,2009,1,South GO - Paranagua,Hamburg,41.7,,,35.5,288.68,77.2
+03/31/2009,2009,1,South GO - Paranagua,"Shanghai, China",41.7,,,65.7,288.68,107.4
+06/30/2009,2009,2,Davenport,Hamburg,10.1,16.57,,21.33,388.5,48.0
+06/30/2009,2009,2,Davenport,"Shanghai, China",10.1,16.57,,47.19,388.5,73.86
+06/30/2009,2009,2,Minneapolis,Hamburg,10.1,22.44,,21.33,385.69,53.87
+06/30/2009,2009,2,Minneapolis,"Shanghai, China",10.1,22.44,,47.19,385.69,79.73
+06/30/2009,2009,2,North MT-Santos,Hamburg,98.89,,,34.75,315.88,133.64
+06/30/2009,2009,2,North MT-Santos,"Shanghai, China",98.89,,,66.0,315.88,164.89
+06/30/2009,2009,2,South GO - Paranagua,Hamburg,51.5,,,35.79,336.86,87.29
+06/30/2009,2009,2,South GO - Paranagua,"Shanghai, China",51.5,,,67.3,336.86,118.8
+09/30/2009,2009,3,Davenport,Hamburg,10.38,18.88,,19.81,389.36,49.07
+09/30/2009,2009,3,Davenport,"Shanghai, China",10.38,18.88,,56.53,389.36,85.79
+09/30/2009,2009,3,Minneapolis,Hamburg,10.38,23.88,,19.81,376.5,54.07
+09/30/2009,2009,3,Minneapolis,"Shanghai, China",10.38,23.88,,56.53,376.5,90.79
+09/30/2009,2009,3,North MT-Santos,Hamburg,100.41,,,30.0,347.8,130.41
+09/30/2009,2009,3,North MT-Santos,"Shanghai, China",100.41,,,49.0,347.8,149.41
+09/30/2009,2009,3,South GO - Paranagua,Hamburg,54.03,,,31.55,356.43,85.58
+09/30/2009,2009,3,South GO - Paranagua,"Shanghai, China",54.03,,,48.78,356.43,102.81
+12/31/2009,2009,4,Davenport,Hamburg,11.38,26.51,,26.38,351.51,64.27
+12/31/2009,2009,4,Davenport,"Shanghai, China",11.38,26.51,,65.64,351.51,103.53
+12/31/2009,2009,4,Minneapolis,Hamburg,11.38,33.5,,26.38,346.86,71.26
+12/31/2009,2009,4,Minneapolis,"Shanghai, China",11.38,33.5,,65.64,346.86,110.52
+12/31/2009,2009,4,North MT-Santos,Hamburg,106.95,,,31.08,369.07,138.03
+12/31/2009,2009,4,North MT-Santos,"Shanghai, China",106.95,,,55.63,369.07,162.58
+12/31/2009,2009,4,South GO - Paranagua,Hamburg,56.01,,,30.53,371.29,86.54
+12/31/2009,2009,4,South GO - Paranagua,"Shanghai, China",56.01,,,54.23,371.29,110.24
+03/31/2010,2010,1,Davenport,Hamburg,40.46,10.86,,24.92,346.0,76.24
+03/31/2010,2010,1,Davenport,"Shanghai, China",10.46,10.86,,65.54,351.51,86.86
+03/31/2010,2010,1,Minneapolis,Hamburg,10.46,10.86,,24.92,340.98,46.24
+03/31/2010,2010,1,Minneapolis,"Shanghai, China",10.46,10.86,,65.54,346.86,86.86
+03/31/2010,2010,1,North MT-Santos,Hamburg,113.1,,,32.25,261.05,145.35
+03/31/2010,2010,1,North MT-Santos,"Shanghai, China",113.1,,,52.33,261.05,165.43
+03/31/2010,2010,1,South GO - Paranagua,Hamburg,61.86,,,31.83,309.89,93.69
+03/31/2010,2010,1,South GO - Paranagua,"Shanghai, China",61.86,,,52.5,309.89,114.36
+06/30/2010,2010,2,Davenport,Hamburg,8.66,18.88,,27.87,343.92,55.41
+06/30/2010,2010,2,Davenport,"Shanghai, China",8.66,18.88,,67.71,343.92,95.25
+06/30/2010,2010,2,Minneapolis,Hamburg,8.66,25.45,,27.87,336.69,61.98
+06/30/2010,2010,2,Minneapolis,"Shanghai, China",8.66,25.45,,67.71,336.69,101.82
+06/30/2010,2010,2,North MT-Santos,Hamburg,113.73,,,36.17,304.36,149.9
+06/30/2010,2010,2,North MT-Santos,"Shanghai, China",113.73,,,55.08,304.36,168.81
+06/30/2010,2010,2,South GO - Paranagua,Hamburg,65.82,,,38.08,271.15,103.9
+06/30/2010,2010,2,South GO - Paranagua,"Shanghai, China",65.82,,,58.58,271.15,124.4
+09/30/2010,2010,3,Davenport,Hamburg,9.74,26.16,,28.31,362.05,64.21
+09/30/2010,2010,3,Davenport,"Shanghai, China",9.74,26.16,,60.33,362.05,96.23
+09/30/2010,2010,3,Minneapolis,Hamburg,9.74,32.82,,28.31,352.25,70.87
+09/30/2010,2010,3,Minneapolis,"Shanghai, China",9.74,32.82,,60.33,352.25,102.89
+09/30/2010,2010,3,North MT-Santos,Hamburg,120.16,,,34.42,328.51,154.58
+09/30/2010,2010,3,North MT-Santos,"Shanghai, China",120.16,,,58.17,328.51,178.33
+09/30/2010,2010,3,South GO - Paranagua,Hamburg,66.52,,,36.92,315.43,103.44
+09/30/2010,2010,3,South GO - Paranagua,"Shanghai, China",66.52,,,63.1,315.43,129.62
+12/31/2010,2010,4,Davenport,Hamburg,8.94,31.85,,24.84,399.16,65.63
+12/31/2010,2010,4,Davenport,"Shanghai, China",8.94,31.85,,55.46,399.16,96.25
+12/31/2010,2010,4,Minneapolis,Hamburg,8.94,41.82,,24.84,385.69,75.6
+12/31/2010,2010,4,Minneapolis,"Shanghai, China",8.94,41.82,,55.46,385.69,106.22
+12/31/2010,2010,4,North MT-Santos,Hamburg,120.12,,,31.67,413.46,151.79
+12/31/2010,2010,4,North MT-Santos,"Shanghai, China",120.12,,,57.79,413.46,177.91
+12/31/2010,2010,4,South GO - Paranagua,Hamburg,64.38,,,33.5,400.62,97.88
+12/31/2010,2010,4,South GO - Paranagua,"Shanghai, China",64.38,,,61.5,400.62,125.88
+03/31/2011,2011,1,Davenport,Hamburg,11.34,21.38,,23.13,449.5,55.85
+03/31/2011,2011,1,Davenport,"Shanghai, China",11.34,21.38,,53.79,449.5,86.51
+03/31/2011,2011,1,Minneapolis,Hamburg,11.34,21.38,,23.13,438.47,55.85
+03/31/2011,2011,1,Minneapolis,"Shanghai, China",11.34,21.38,,53.79,438.47,86.51
+03/31/2011,2011,1,North MT-Santos,Hamburg,124.57,,,34.96,406.96,159.53
+03/31/2011,2011,1,North MT-Santos,"Shanghai, China",124.57,,,50.0,406.96,174.57
+03/31/2011,2011,1,South GO - Paranagua,Hamburg,61.96,,,33.86,441.07,95.82
+03/31/2011,2011,1,South GO - Paranagua,"Shanghai, China",61.96,,,56.25,441.07,118.21
+06/30/2011,2011,2,Davenport,Hamburg,11.34,27.27,,21.52,481.34,60.13
+06/30/2011,2011,2,Davenport,"Shanghai, China",11.34,27.27,,51.58,481.34,90.19
+06/30/2011,2011,2,Minneapolis,Hamburg,11.34,37.26,,21.52,465.42,70.12
+06/30/2011,2011,2,Minneapolis,"Shanghai, China",11.34,37.26,,51.58,465.42,100.18
+06/30/2011,2011,2,North MT-Santos,Hamburg,125.83,,,35.0,386.58,160.83
+06/30/2011,2011,2,North MT-Santos,"Shanghai, China",125.83,,,50.05,386.58,175.88
+06/30/2011,2011,2,South GO - Paranagua,Hamburg,70.31,,,36.0,413.15,106.31
+06/30/2011,2011,2,South GO - Paranagua,"Shanghai, China",70.31,,,57.62,413.45,127.93
+09/30/2011,2011,3,Davenport,Hamburg,12.62,26.39,,23.94,478.89,62.95
+09/30/2011,2011,3,Davenport,"Shanghai, China",12.62,26.39,,51.62,478.89,90.63
+09/30/2011,2011,3,Minneapolis,Hamburg,12.62,33.78,,23.94,461.75,70.34
+09/30/2011,2011,3,Minneapolis,"Shanghai, China",12.62,33.78,,51.62,461.75,98.02
+09/30/2011,2011,3,North MT-Santos,Hamburg,127.77,,,36.65,416.62,164.42
+09/30/2011,2011,3,North MT-Santos,"Shanghai, China",127.77,,,52.31,416.62,180.08
+09/30/2011,2011,3,South GO - Paranagua,Hamburg,62.25,,,37.29,417.65,99.54
+09/30/2011,2011,3,South GO - Paranagua,"Shanghai, China",65.25,,,59.61,417.65,124.86
+12/31/2011,2011,4,Davenport,Hamburg,10.22,28.91,,25.08,425.0,64.21
+12/31/2011,2011,4,Davenport,"Shanghai, China",10.22,28.91,,55.33,425.0,94.46
+12/31/2011,2011,4,Minneapolis,Hamburg,10.22,35.28,,25.08,418.58,70.58
+12/31/2011,2011,4,Minneapolis,"Shanghai, China",10.22,35.28,,55.33,418.88,100.83
+12/31/2011,2011,4,North MT-Santos,Hamburg,115.05,,,32.0,358.24,147.05
+12/31/2011,2011,4,North MT-Santos,"Shanghai, China",115.05,,,49.65,358.24,164.7
+12/31/2011,2011,4,South GO - Paranagua,Hamburg,54.06,,,32.63,379.7,86.69
+12/31/2011,2011,4,South GO - Paranagua,"Shanghai, China",54.06,,,55.8,379.7,109.86
+03/31/2012,2012,1,Davenport,Hamburg,9.14,12.53,,19.91,448.27,41.58
+03/31/2012,2012,1,Davenport,"Shanghai, China",9.14,12.53,,48.33,448.27,70.0
+03/31/2012,2012,1,Minneapolis,Hamburg,9.14,12.53,,19.91,447.05,41.58
+03/31/2012,2012,1,Minneapolis,"Shanghai, China",9.14,12.53,,48.33,447.05,70.0
+03/31/2012,2012,1,North MT-Santos,Hamburg,117.52,,,32.0,377.7,149.52
+03/31/2012,2012,1,North MT-Santos,"Shanghai, China",117.52,,,46.62,377.7,164.14
+03/31/2012,2012,1,South GO - Paranagua,Hamburg,55.14,,,31.58,401.58,86.72
+03/31/2012,2012,1,South GO - Paranagua,"Shanghai, China",55.14,,,52.32,401.58,107.46
+06/30/2012,2012,2,Davenport,Hamburg,11.66,20.23,,20.76,503.39,52.65
+06/30/2012,2012,2,Davenport,"Shanghai, China",11.66,20.23,,49.07,503.39,80.96
+06/30/2012,2012,2,Minneapolis,Hamburg,11.66,28.18,,20.76,502.16,60.6
+06/30/2012,2012,2,Minneapolis,"Shanghai, China",11.66,28.18,,49.07,502.16,88.91
+06/30/2012,2012,2,North MT-Santos,Hamburg,110.07,,,35.0,448.29,145.07
+06/30/2012,2012,2,North MT-Santos,"Shanghai, China",110.07,,,51.35,448.29,161.42
+06/30/2012,2012,2,South GO - Paranagua,Hamburg,50.51,,,35.0,428.4,85.51
+06/30/2012,2012,2,South GO - Paranagua,"Shanghai, China",50.51,,,57.63,428.4,108.14
+09/30/2012,2012,3,Davenport,Hamburg,13.51,24.86,,21.81,565.85,60.18
+09/30/2012,2012,3,Davenport,"Shanghai, China",13.51,24.86,,46.82,565.85,85.19
+09/30/2012,2012,3,Minneapolis,Hamburg,13.51,32.34,,21.81,562.42,67.66
+09/30/2012,2012,3,Minneapolis,"Shanghai, China",13.51,32.34,,46.82,562.42,92.67
+09/30/2012,2012,3,North MT-Santos,Hamburg,109.73,,,32.0,570.66,141.73
+09/30/2012,2012,3,North MT-Santos,"Shanghai, China",109.73,,,50.42,570.66,160.15
+09/30/2012,2012,3,South GO - Paranagua,Hamburg,53.01,,,34.3,566.91,87.31
+09/30/2012,2012,3,South GO - Paranagua,"Shanghai, China",53.01,,,55.42,566.91,108.43
+12/31/2012,2012,4,Davenport,Hamburg,10.86,33.95,,18.68,522.99,63.49
+12/31/2012,2012,4,Davenport,"Shanghai, China",10.86,33.95,,43.69,522.99,88.5
+12/31/2012,2012,4,Minneapolis,Hamburg,10.86,41.08,,18.68,518.09,70.62
+12/31/2012,2012,4,Minneapolis,"Shanghai, China",10.86,41.08,,43.69,518.09,95.63
+12/31/2012,2012,4,North MT-Santos,Hamburg,109.8,,,28.0,536.6,137.8
+12/31/2012,2012,4,North MT-Santos,"Shanghai, China",109.8,,,50.42,536.6,160.22
+12/31/2012,2012,4,South GO - Paranagua,Hamburg,53.11,,,34.3,557.54,87.41
+12/31/2012,2012,4,South GO - Paranagua,"Shanghai, China",53.11,,,55.42,557.54,108.53
+03/31/2013,2013,1,Davenport,Hamburg,10.98,11.92,27.93,19.57,530.33,70.4
+03/31/2013,2013,1,Davenport,"Shanghai, China",10.98,11.92,27.93,43.73,530.33,94.56
+03/31/2013,2013,1,Minneapolis,Hamburg,10.98,11.92,36.48,19.57,526.66,78.95
+03/31/2013,2013,1,Minneapolis,"Shanghai, China",10.98,11.92,36.48,43.73,526.66,103.11
+03/31/2013,2013,1,North MT-Santos,Hamburg,124.03,,,30.0,419.35,154.03
+03/31/2013,2013,1,North MT-Santos,"Shanghai, China",124.03,,,52.34,419.35,176.37
+03/31/2013,2013,1,South GO - Paranagua,Hamburg,56.16,,,30.0,445.56,86.16
+03/31/2013,2013,1,South GO - Paranagua,"Shanghai, China",56.16,,,56.03,445.56,112.19
+06/30/2013,2013,2,Davenport,Hamburg,9.46,17.77,,20.97,545.03,48.2
+06/30/2013,2013,2,Davenport,"Shanghai, China",9.46,17.77,,43.47,545.03,70.7
+06/30/2013,2013,2,Minneapolis,Hamburg,9.46,25.59,,20.97,535.23,56.02
+06/30/2013,2013,2,Minneapolis,"Shanghai, China",9.46,25.59,,43.47,535.23,78.52
+06/30/2013,2013,2,North MT-Santos,Hamburg,112.38,,,29.0,391.58,141.38
+06/30/2013,2013,2,North MT-Santos,"Shanghai, China",112.38,,,34.5,391.58,146.88
+06/30/2013,2013,2,South GO - Paranagua,Hamburg,54.19,,,29.0,461.97,83.19
+06/30/2013,2013,2,South GO - Paranagua,"Shanghai, China",54.19,,,36.75,461.97,90.94
+09/30/2013,2013,3,Davenport,Hamburg,13.38,21.94,,24.85,529.11,60.17
+09/30/2013,2013,3,Davenport,"Shanghai, China",13.38,21.94,,45.71,529.11,81.03
+09/30/2013,2013,3,Minneapolis,Hamburg,13.38,27.93,,24.85,521.76,66.16
+09/30/2013,2013,3,Minneapolis,"Shanghai, China",13.38,27.93,,45.71,521.76,87.02
+09/30/2013,2013,3,North MT-Santos,Hamburg,119.9,,,29.0,404.93,148.9
+09/30/2013,2013,3,North MT-Santos,"Shanghai, China",119.9,,,34.5,404.93,154.4
+09/30/2013,2013,3,South GO - Paranagua,Hamburg,73.09,,,29.0,405.9,102.09
+09/30/2013,2013,3,South GO - Paranagua,"Shanghai, China",73.09,,,36.75,405.9,109.84
+12/31/2013,2013,4,Davenport,Hamburg,12.42,33.9,,26.07,466.64,72.39
+12/31/2013,2013,4,Davenport,"Shanghai, China",12.42,28.62,,60.88,456.62,101.92
+12/31/2013,2013,4,Minneapolis,Hamburg,12.42,37.73,,26.07,460.52,76.22
+12/31/2013,2013,4,Minneapolis,"Shanghai, China",12.42,37.73,,54.13,460.52,104.28
+12/31/2013,2013,4,North MT-Santos,Hamburg,109.29,,,30.0,445.27,139.29
+12/31/2013,2013,4,North MT-Santos,"Shanghai, China",109.29,,,42.5,445.27,151.79
+12/31/2013,2013,4,South GO - Paranagua,Hamburg,88.86,,,30.0,441.17,118.86
+12/31/2013,2013,4,South GO - Paranagua,"Shanghai, China",88.86,,,46.0,441.17,134.86
+03/31/2014,2014,1,Davenport,Hamburg,13.79,27.06,30.77,23.4,485.02,95.02
+03/31/2014,2014,1,Davenport,"Shanghai, China",13.79,27.06,30.77,52.39,485.02,124.01
+03/31/2014,2014,1,Minneapolis,Hamburg,13.79,27.06,42.08,23.4,475.22,106.33
+03/31/2014,2014,1,Minneapolis,"Shanghai, China",13.79,27.06,42.08,52.39,475.22,135.32
+03/31/2014,2014,1,North MT-Santos,Hamburg,113.35,,,31.0,375.58,144.35
+03/31/2014,2014,1,North MT-Santos,"Shanghai, China",113.35,,,44.83,375.58,158.18
+03/31/2014,2014,1,South GO - Paranagua,Hamburg,68.89,,,31.0,420.52,99.89
+03/31/2014,2014,1,South GO - Paranagua,"Shanghai, China",68.89,,,47.22,420.52,116.11
+06/30/2014,2014,2,Davenport,Hamburg,14.59,22.05,,19.4,531.56,56.04
+06/30/2014,2014,2,Davenport,"Shanghai, China",14.59,22.05,,44.9,531.56,81.54
+06/30/2014,2014,2,Minneapolis,Hamburg,14.59,30.43,,19.4,522.99,64.42
+06/30/2014,2014,2,Minneapolis,"Shanghai, China",14.59,30.43,,44.9,522.99,89.92
+06/30/2014,2014,2,North MT-Santos,Hamburg,108.54,,,30.0,464.19,138.54
+06/30/2014,2014,2,North MT-Santos,"Shanghai, China",108.54,,,38.07,464.19,146.61
+06/30/2014,2014,2,South GO - Paranagua,Hamburg,66.99,,,30.0,441.74,96.99
+06/30/2014,2014,2,South GO - Paranagua,"Shanghai, China",66.99,,,41.13,349.99,108.12
+09/30/2014,2014,3,Davenport,Hamburg,11.7,34.42,,19.32,445.82,65.44
+09/30/2014,2014,3,Davenport,"Shanghai, China",11.7,34.42,,42.93,445.82,89.05
+09/30/2014,2014,3,Minneapolis,Hamburg,11.7,41.96,,19.32,455.62,72.98
+09/30/2014,2014,3,Minneapolis,"Shanghai, China",11.7,41.96,,42.93,455.62,96.59
+09/30/2014,2014,3,North MT-Santos,Hamburg,102.78,,,26.0,398.98,128.78
+09/30/2014,2014,3,North MT-Santos,"Shanghai, China",102.78,,,34.0,398.98,136.78
+09/30/2014,2014,3,South GO - Paranagua,Hamburg,57.26,,,28.0,394.07,85.26
+09/30/2014,2014,3,South GO - Paranagua,"Shanghai, China",57.26,,,36.0,394.07,93.26
+12/31/2014,2014,4,Davenport,Hamburg,12.06,47.68,,18.83,369.89,78.57
+12/31/2014,2014,4,Davenport,"Shanghai, China",12.06,47.68,,42.64,369.89,102.38
+12/31/2014,2014,4,Minneapolis,Hamburg,12.06,50.36,,18.83,368.05,81.25
+12/31/2014,2014,4,Minneapolis,"Shanghai, China",12.06,50.36,,42.64,368.05,105.06
+12/31/2014,2014,4,North MT-Santos,Hamburg,90.94,,,24.0,631.74,114.94
+12/31/2014,2014,4,North MT-Santos,"Shanghai, China",90.94,,,30.5,361.74,121.44
+12/31/2014,2014,4,South GO - Paranagua,Hamburg,49.76,,,26.0,349.62,75.76
+12/31/2014,2014,4,South GO - Paranagua,"Shanghai, China",49.76,,,32.5,349.62,82.26
+03/31/2015,2015,1,Davenport,Hamburg,12.02,14.07,31.2,14.03,365.97,71.32
+03/31/2015,2015,1,Davenport,"Shanghai, China",12.02,14.07,31.2,30.41,365.97,87.7
+03/31/2015,2015,1,Minneapolis,Hamburg,12.02,14.07,42.09,14.03,361.31,82.21
+03/31/2015,2015,1,Minneapolis,"Shanghai, China",12.02,14.07,42.09,30.41,361.31,98.59
+03/31/2015,2015,1,North MT-Santos,Hamburg,89.6,,,22.0,312.34,111.6
+03/31/2015,2015,1,North MT-Santos,"Shanghai, China",89.6,,,29.5,312.34,119.1
+03/31/2015,2015,1,South GO - Paranagua,Hamburg,51.4,,,22.0,329.95,73.4
+03/31/2015,2015,1,South GO - Paranagua,"Shanghai, China",51.4,,,31.5,329.95,82.9
+06/30/2015,2015,2,Davenport,Hamburg,9.18,24.22,,13.95,350.9,47.35
+06/30/2015,2015,2,Davenport,"Shanghai, China",9.18,24.22,,29.54,350.9,62.94
+06/30/2015,2015,2,Minneapolis,Hamburg,9.18,30.5,,13.95,350.66,53.63
+06/30/2015,2015,2,Minneapolis,"Shanghai, China",9.18,30.5,,29.54,350.66,69.22
+06/30/2015,2015,2,North MT-Santos,Hamburg,96.18,,,21.0,295.94,117.18
+06/30/2015,2015,2,North MT-Santos,"Shanghai, China",96.18,,,22.5,295.94,118.68
+06/30/2015,2015,2,South GO - Paranagua,Hamburg,55.27,,,21.0,333.27,76.27
+06/30/2015,2015,2,South GO - Paranagua,"Shanghai, China",55.27,,,23.5,333.27,78.77
+09/30/2015,2015,3,Davenport,Hamburg,8.5,24.81,,15.48,346.86,48.79
+09/30/2015,2015,3,Davenport,"Shanghai, China",8.5,24.81,,32.65,346.86,65.96
+09/30/2015,2015,3,Minneapolis,Hamburg,8.5,31.32,,15.48,344.9,55.3
+09/30/2015,2015,3,Minneapolis,"Shanghai, China",8.5,31.32,,32.65,344.9,72.47
+09/30/2015,2015,3,North MT-Santos,Hamburg,81.46,,,19.0,285.95,100.46
+09/30/2015,2015,3,North MT-Santos,"Shanghai, China",81.46,,,23.25,285.95,104.71
+09/30/2015,2015,3,South GO - Paranagua,Hamburg,46.89,,,19.0,287.19,65.89
+09/30/2015,2015,3,South GO - Paranagua,"Shanghai, China",46.89,,,24.18,287.19,71.07
+12/31/2015,2015,4,Davenport,Hamburg,8.38,25.51,,13.81,315.02,47.7
+12/31/2015,2015,4,Davenport,"Shanghai, China",8.38,25.51,,27.77,315.02,61.66
+12/31/2015,2015,4,Minneapolis,Hamburg,8.38,34.05,,13.81,314.77,56.24
+12/31/2015,2015,4,Minneapolis,"Shanghai, China",8.38,34.05,,27.77,314.77,70.2
+12/31/2015,2015,4,North MT-Santos,Hamburg,76.94,,,17.0,286.13,93.94
+12/31/2015,2015,4,North MT-Santos,"Shanghai, China",76.94,,,20.0,286.43,96.94
+12/31/2015,2015,4,South GO - Paranagua,Hamburg,45.06,,,17.0,289.68,62.06
+12/31/2015,2015,4,South GO - Paranagua,"Shanghai, China",45.06,,,20.5,289.68,65.56
+03/31/2016,2016,1,Davenport,Hamburg,8.18,7.96,33.12,11.65,309.63,60.91
+03/31/2016,2016,1,Davenport,"Shanghai, China",8.18,7.96,33.12,21.34,309.63,70.6
+03/31/2016,2016,1,Minneapolis,Hamburg,8.18,7.96,43.3,11.65,301.54,71.09
+03/31/2016,2016,1,Minneapolis,"Shanghai, China",8.18,7.96,43.3,21.34,301.54,80.78
+03/31/2016,2016,1,North MT-Santos,Hamburg,74.65,,,16.0,268.28,90.65
+03/31/2016,2016,1,North MT-Santos,"Shanghai, China",74.65,,,17.5,268.28,92.15
+03/31/2016,2016,1,South GO - Paranagua,Hamburg,44.6,,,16.0,278.59,60.6
+03/31/2016,2016,1,South GO - Paranagua,"Shanghai, China",44.6,,,18.0,278.59,62.6
+06/30/2016,2016,2,Davenport,Hamburg,12.1,17.83,,13.75,349.56,43.68
+06/30/2016,2016,2,Davenport,"Shanghai, China",12.1,17.83,,24.37,349.56,54.3
+06/30/2016,2016,2,Minneapolis,Hamburg,12.1,24.43,,13.72,349.92,50.25
+06/30/2016,2016,2,Minneapolis,"Shanghai, China",12.1,24.43,,24.37,349.92,60.9
+06/30/2016,2016,2,North MT-Santos,Hamburg,81.75,,,17.0,347.59,98.75
+06/30/2016,2016,2,North MT-Santos,"Shanghai, China",81.75,,,16.5,347.59,98.25
+06/30/2016,2016,2,South GO - Paranagua,Hamburg,48.04,,,17.0,337.86,65.04
+06/30/2016,2016,2,South GO - Paranagua,"Shanghai, China",48.04,,,18.5,337.86,66.54
+09/30/2016,2016,3,Davenport,Hamburg,10.58,25.45,,15.1,359.48,51.13
+09/30/2016,2016,3,Davenport,"Shanghai, China",10.58,25.45,,28.27,359.48,64.3
+09/30/2016,2016,3,Minneapolis,Hamburg,10.58,32.96,,15.1,353.84,58.64
+09/30/2016,2016,3,Minneapolis,"Shanghai, China",10.58,32.96,,28.27,353.84,71.81
+09/30/2016,2016,3,North MT-Santos,Hamburg,85.01,,,16.5,367.25,101.51
+09/30/2016,2016,3,North MT-Santos,"Shanghai, China",85.01,,,12.5,367.25,97.51
+09/30/2016,2016,3,South GO - Paranagua,Hamburg,47.61,,,16.5,359.07,64.11
+09/30/2016,2016,3,South GO - Paranagua,"Shanghai, China",47.61,,,14.5,359.07,62.11
+12/31/2016,2016,4,Davenport,Hamburg,10.58,23.63,,14.83,341.9,49.04
+12/31/2016,2016,4,Davenport,"Shanghai, China",10.58,23.63,,32.6,344.9,66.81
+12/31/2016,2016,4,Minneapolis,Hamburg,10.58,31.93,,14.83,337.92,57.34
+12/31/2016,2016,4,Minneapolis,"Shanghai, China",10.58,31.93,,32.6,337.92,75.11
+12/31/2016,2016,4,North MT-Santos,Hamburg,60.57,,,23.0,344.51,83.57
+12/31/2016,2016,4,North MT-Santos,"Shanghai, China",60.57,,,20.0,344.51,80.57
+12/31/2016,2016,4,South GO - Paranagua,Hamburg,34.77,,,24.0,347.53,58.77
+12/31/2016,2016,4,South GO - Paranagua,"Shanghai, China",34.77,,,21.5,347.53,56.27
+03/31/2017,2017,1,Davenport,Hamburg,11.14,9.54,34.98,14.77,353.6,70.43
+03/31/2017,2017,1,Davenport,"Shanghai, China",11.14,9.54,34.98,35.17,353.6,90.83
+03/31/2017,2017,1,Minneapolis,Hamburg,11.14,9.54,45.91,14.77,348.82,81.36
+03/31/2017,2017,1,Minneapolis,"Shanghai, China",11.14,9.54,45.91,35.17,348.82,101.76
+03/31/2017,2017,1,North MT-Santos,Hamburg,93.3,,,21.0,314.1,114.3
+03/31/2017,2017,1,North MT-Santos,"Shanghai, China",93.3,,,18.5,314.1,111.8
+03/31/2017,2017,1,South GO - Paranagua,Hamburg,56.77,,,22.0,332.4,78.77
+03/31/2017,2017,1,South GO - Paranagua,"Shanghai, China",56.77,,,20.5,332.4,77.27
+06/30/2017,2017,2,Davenport,Hamburg,12.3,15.83,,14.49,335.71,42.62
+06/30/2017,2017,2,Davenport,"Shanghai, China",12.3,15.83,,37.15,335.71,65.28
+06/30/2017,2017,2,Minneapolis,Hamburg,12.3,21.97,,14.49,338.16,48.76
+06/30/2017,2017,2,Minneapolis,"Shanghai, China",12.3,21.97,,37.15,338.16,71.42
+06/30/2017,2017,2,North MT-Santos,Hamburg,90.63,,,24.0,275.6,114.63
+06/30/2017,2017,2,North MT-Santos,"Shanghai, China",90.63,,,29.0,275.6,119.63
+06/30/2017,2017,2,South GO - Paranagua,Hamburg,54.45,,,25.0,281.73,79.45
+06/30/2017,2017,2,South GO - Paranagua,"Shanghai, China",54.45,,,30.59,281.73,85.04
+09/30/2017,2017,3,Davenport,Hamburg,13.02,20.11,,15.03,351.27,48.16
+09/30/2017,2017,3,Davenport,"Shanghai, China",13.02,20.11,,38.37,351.27,71.5
+09/30/2017,2017,3,Minneapolis,Hamburg,13.02,27.02,,15.03,333.76,55.07
+09/30/2017,2017,3,Minneapolis,"Shanghai, China",13.02,27.02,,38.37,333.76,78.41
+09/30/2017,2017,3,North MT-Santos,Hamburg,102.87,,,26.0,288.62,128.87
+09/30/2017,2017,3,North MT-Santos,"Shanghai, China",102.87,,,30.0,288.62,132.87
+09/30/2017,2017,3,South GO - Paranagua,Hamburg,59.36,,,27.0,291.58,86.36
+09/30/2017,2017,3,South GO - Paranagua,"Shanghai, China",59.36,,,31.0,291.58,90.36
+12/31/2017,2017,4,Davenport,Hamburg,14.39,24.92,,17.59,337.55,56.9
+12/31/2017,2017,4,Davenport,"Shanghai, China",14.39,24.92,,42.78,337.55,82.09
+12/31/2017,2017,4,Minneapolis,Hamburg,14.39,31.93,,17.59,332.04,63.91
+12/31/2017,2017,4,Minneapolis,"Shanghai, China",14.39,31.93,,42.78,332.04,89.1
+12/31/2017,2017,4,North MT-Santos,Hamburg,85.01,,,27.0,296.1,112.01
+12/31/2017,2017,4,North MT-Santos,"Shanghai, China",85.01,,,30.0,296.1,115.01
+12/31/2017,2017,4,South GO - Paranagua,Hamburg,51.21,,,28.0,302.26,79.21
+12/31/2017,2017,4,South GO - Paranagua,"Shanghai, China",51.21,,,31.5,302.26,82.71
+03/31/2018,2018,1,Davenport,Hamburg,13.54,13.77,30.92,16.82,359.48,75.05
+03/31/2018,2018,1,Davenport,"Shanghai, China",13.54,13.77,30.92,43.41,359.48,101.64
+03/31/2018,2018,1,Minneapolis,Hamburg,13.54,13.77,46.37,16.82,346.37,90.5
+03/31/2018,2018,1,Minneapolis,"Shanghai, China",13.54,13.77,46.37,43.41,346.37,117.09
+03/31/2018,2018,1,North MT-Santos,Hamburg,93.44,,,27.0,305.85,120.44
+03/31/2018,2018,1,North MT-Santos,"Shanghai, China",93.44,,,32.5,305.85,125.94
+03/31/2018,2018,1,South GO - Paranagua,Hamburg,56.13,,,28.0,318.87,84.13
+03/31/2018,2018,1,South GO - Paranagua,"Shanghai, China",56.13,,,32.0,318.87,88.13
+06/30/2018,2018,2,Davenport,Hamburg,12.06,30.79,,20.67,353.35,63.52
+06/30/2018,2018,2,Davenport,"Shanghai, China",12.06,30.79,,42.69,353.35,85.54
+06/30/2018,2018,2,Minneapolis,Hamburg,12.06,38.14,,20.67,348.21,70.87
+06/30/2018,2018,2,Minneapolis,"Shanghai, China",12.06,38.14,,42.69,348.21,92.89
+06/30/2018,2018,2,North MT-Santos,Hamburg,101.44,,,25.0,323.46,126.44
+06/30/2018,2018,2,North MT-Santos,"Shanghai, China",101.44,,,31.0,323.46,132.44
+06/30/2018,2018,2,South GO - Paranagua,Hamburg,59.89,,,26.0,313.65,85.89
+06/30/2018,2018,2,South GO - Paranagua,"Shanghai, China",59.89,,,32.0,313.65,91.89
+09/30/2018,2018,3,Davenport,Hamburg,10.54,29.2,,21.06,317.83,60.8
+09/30/2018,2018,3,Davenport,"Shanghai, China",10.54,29.2,,44.05,317.83,83.79
+09/30/2018,2018,3,Minneapolis,Hamburg,10.54,36.3,,21.06,315.38,67.9
+09/30/2018,2018,3,Minneapolis,"Shanghai, China",10.54,36.3,,44.05,315.38,90.89
+09/30/2018,2018,3,North MT-Santos,Hamburg,92.79,,,24.0,301.39,116.79
+09/30/2018,2018,3,North MT-Santos,"Shanghai, China",92.79,,,27.75,301.39,120.54
+09/30/2018,2018,3,South GO - Paranagua,Hamburg,52.61,,,25.0,302.33,77.61
+09/30/2018,2018,3,South GO - Paranagua,"Shanghai, China",52.61,,,28.75,302.33,81.36
+12/31/2018,2018,4,Davenport,Hamburg,12.1,24.28,,20.83,313.55,57.21
+12/31/2018,2018,4,Davenport,"Shanghai, China",12.1,24.28,,47.52,313.55,83.9
+12/31/2018,2018,4,Minneapolis,Hamburg,12.1,31.66,,20.83,312.08,64.59
+12/31/2018,2018,4,Minneapolis,"Shanghai, China",12.1,31.66,,47.52,312.08,91.28
+12/31/2018,2018,4,North MT-Santos,Hamburg,79.37,,,25.0,293.43,104.37
+12/31/2018,2018,4,North MT-Santos,"Shanghai, China",79.37,,,30.0,293.43,109.37
+12/31/2018,2018,4,South GO - Paranagua,Hamburg,51.68,,,26.0,314.4,77.68
+12/31/2018,2018,4,South GO - Paranagua,"Shanghai, China",51.68,,,31.0,314.4,82.68
+03/31/2019,2019,1,Davenport,Hamburg,8.78,16.98,32.13,16.73,311.59,74.62
+03/31/2019,2019,1,Davenport,"Shanghai, China",8.78,16.98,32.12,39.61,311.59,97.49
+03/31/2019,2019,1,Minneapolis,Hamburg,8.78,16.98,47.98,16.73,310.24,90.47
+03/31/2019,2019,1,Minneapolis,"Shanghai, China",8.78,16.98,47.98,39.61,310.24,113.35
+03/31/2019,2019,1,North MT-Santos,Hamburg,81.92,,,23.0,275.38,104.92
+03/31/2019,2019,1,North MT-Santos,"Shanghai, China",81.92,,,32.25,275.38,114.17
+03/31/2019,2019,1,South GO - Paranagua,Hamburg,44.66,,,23.0,296.01,67.66
+03/31/2019,2019,1,South GO - Paranagua,"Shanghai, China",44.66,,,33.75,296.01,78.41
+06/30/2019,2019,2,Davenport,Hamburg,10.98,13.06,32.11,16.62,299.09,72.77
+06/30/2019,2019,2,Davenport,"Shanghai, China",10.98,13.06,32.11,42.2,299.09,98.35
+06/30/2019,2019,2,Minneapolis,Hamburg,10.98,13.06,47.93,16.62,298.97,88.59
+06/30/2019,2019,2,Minneapolis,"Shanghai, China",10.98,13.06,47.93,42.2,298.97,114.17
+06/30/2019,2019,2,North MT-Santos,Hamburg,73.96,,,21.5,271.7,95.46
+06/30/2019,2019,2,North MT-Santos,"Shanghai, China",73.96,,,30.92,271.7,104.88
+06/30/2019,2019,2,South GO - Paranagua,Hamburg,43.76,,,21.25,281.4,65.01
+06/30/2019,2019,2,South GO - Paranagua,"Shanghai, China",43.76,,,31.42,281.4,75.18
+09/30/2019,2019,3,Davenport,Hamburg,9.18,28.74,,20.21,303.75,58.13
+09/30/2019,2019,3,Davenport,"Shanghai, China",9.18,28.74,,49.35,303.75,87.27
+09/30/2019,2019,3,Minneapolis,Hamburg,9.18,31.39,,20.21,303.87,60.78
+09/30/2019,2019,3,Minneapolis,"Shanghai, China",9.18,31.39,,49.35,303.87,89.92
+09/30/2019,2019,3,North MT-Santos,Hamburg,88.37,,,27.0,286.87,115.37
+09/30/2019,2019,3,North MT-Santos,"Shanghai, China",88.37,,,33.25,286.87,121.62
+09/30/2019,2019,3,South GO - Paranagua,Hamburg,51.28,,,27.0,286.67,78.28
+09/30/2019,2019,3,South GO - Paranagua,"Shanghai, China",51.28,,,34.75,286.67,86.03
+12/31/2019,2019,4,Davenport,Hamburg,11.46,22.93,,19.02,314.65,53.41
+12/31/2019,2019,4,Davenport,"Shanghai, China",11.46,22.93,,47.05,314.65,81.44
+12/31/2019,2019,4,Minneapolis,Hamburg,11.46,26.54,,19.02,309.5,57.02
+12/31/2019,2019,4,Minneapolis,"Shanghai, China",11.46,26.54,,47.05,309.5,85.05
+12/31/2019,2019,4,North MT-Santos,Hamburg,72.86,,,31.0,307.47,103.86
+12/31/2019,2019,4,North MT-Santos,"Shanghai, China",72.86,,,38.17,307.47,111.03
+12/31/2019,2019,4,South GO - Paranagua,Hamburg,42.16,,,30.75,301.77,72.91
+12/31/2019,2019,4,South GO - Paranagua,"Shanghai, China",42.16,,,39.5,301.77,81.66
+03/31/2020,2020,1,Davenport,Hamburg,10.7,9.02,33.03,14.82,315.02,67.57
+03/31/2020,2020,1,Davenport,"Shanghai, China",10.7,9.02,33.03,41.98,315.02,94.73
+03/31/2020,2020,1,Minneapolis,Hamburg,10.7,9.02,36.73,14.82,289.79,71.27
+03/31/2020,2020,1,Minneapolis,"Shanghai, China",10.7,9.02,36.73,41.98,289.79,98.43
+03/31/2020,2020,1,North MT-Santos,Hamburg,68.33,,,29.25,282.59,97.58
+03/31/2020,2020,1,North MT-Santos,"Shanghai, China",68.33,,,35.5,282.59,103.83
+03/31/2020,2020,1,South GO - Paranagua,Hamburg,40.67,,,30.0,285.74,70.67
+03/31/2020,2020,1,South GO - Paranagua,"Shanghai, China",40.67,,,37.25,285.74,77.92
+06/30/2020,2020,2,Davenport,Hamburg,9.7,17.3,,13.18,305.1,40.18
+06/30/2020,2020,2,Davenport,"Shanghai, China",9.7,17.3,,35.4,305.1,62.4
+06/30/2020,2020,2,Minneapolis,Hamburg,9.7,24.29,,13.18,299.71,47.17
+06/30/2020,2020,2,Minneapolis,"Shanghai, China",9.7,24.29,,35.4,299.71,69.39
+06/30/2020,2020,2,North MT-Santos,Hamburg,59.53,,,20.5,287.53,80.03
+06/30/2020,2020,2,North MT-Santos,"Shanghai, China",59.53,,,27.08,287.53,86.61
+06/30/2020,2020,2,South GO - Paranagua,Hamburg,35.35,,,21.5,262.95,56.85
+06/30/2020,2020,2,South GO - Paranagua,"Shanghai, China",35.35,,,28.83,262.95,64.18
+09/30/2020,2020,3,Davenport,Hamburg,12.38,21.58,,19.41,322.85,53.37
+09/30/2020,2020,3,Davenport,"Shanghai, China",12.38,21.58,,42.14,322.85,76.1
+09/30/2020,2020,3,Minneapolis,Hamburg,12.38,29.89,,19.41,331.43,61.68
+09/30/2020,2020,3,Minneapolis,"Shanghai, China",12.38,29.89,,42.14,331.43,84.41
+09/30/2020,2020,3,North MT-Santos,Hamburg,60.52,,,24.0,367.89,84.52
+09/30/2020,2020,3,North MT-Santos,"Shanghai, China",60.52,,,31.33,367.89,91.85
+09/30/2020,2020,3,South GO - Paranagua,Hamburg,35.57,,,25.0,333.45,60.57
+09/30/2020,2020,3,South GO - Paranagua,"Shanghai, China",35.57,,,33.08,333.45,68.65
+12/31/2020,2020,4,Davenport,Hamburg,11.38,32.31,,19.02,377.11,62.71
+12/31/2020,2020,4,Davenport,"Shanghai, China",11.38,32.31,,40.79,377.11,84.48
+12/31/2020,2020,4,Minneapolis,Hamburg,11.38,41.35,,19.02,364.86,71.75
+12/31/2020,2020,4,Minneapolis,"Shanghai, China",11.38,41.35,,40.79,364.86,93.52
+12/31/2020,2020,4,North MT-Santos,Hamburg,54.2,,,25.25,490.89,79.45
+12/31/2020,2020,4,North MT-Santos,"Shanghai, China",54.2,,,31.67,490.89,85.87
+12/31/2020,2020,4,South GO - Paranagua,Hamburg,30.89,,,25.35,442.13,72.91
+12/31/2020,2020,4,South GO - Paranagua,"Shanghai, China",30.89,,,33.42,442.13,64.31
+03/31/2021,2021,1,Davenport,Hamburg,13.66,12.49,33.33,19.75,456.85,79.23
+03/31/2021,2021,1,Davenport,"Shanghai, China",13.66,12.49,33.33,50.88,456.85,110.36
+03/31/2021,2021,1,Minneapolis,Hamburg,13.66,12.49,36.38,19.75,465.42,82.28
+03/31/2021,2021,1,Minneapolis,"Shanghai, China",13.66,12.49,36.38,50.88,465.42,113.41
+03/31/2021,2021,1,North MT-Santos,Hamburg,60.94,,,31.25,463.1,92.19
+03/31/2021,2021,1,North MT-Santos,"Shanghai, China",60.94,,,37.0,463.1,97.94
+03/31/2021,2021,1,South GO - Paranagua,Hamburg,36.83,,,31.0,466.39,67.83
+03/31/2021,2021,1,South GO - Paranagua,"Shanghai, China",36.83,,,38.75,466.39,75.58
+06/30/2021,2021,2,Davenport,Hamburg,13.99,20.17,,23.19,529.11,57.35
+06/30/2021,2021,2,Davenport,"Shanghai, China",13.99,20.17,,64.88,529.11,99.04
+06/30/2021,2021,2,Minneapolis,Hamburg,13.99,29.61,,23.19,529.11,66.79
+06/30/2021,2021,2,Minneapolis,"Shanghai, China",13.99,29.61,,64.88,529.11,108.48
+06/30/2021,2021,2,North MT-Santos,Hamburg,66.24,,,42.7,495.57,108.94
+06/30/2021,2021,2,North MT-Santos,"Shanghai, China",66.24,,,50.6,495.57,116.84
+06/30/2021,2021,2,South GO - Paranagua,Hamburg,38.73,,,41.9,500.77,80.63
+06/30/2021,2021,2,South GO - Paranagua,"Shanghai, China",38.73,,,52.4,500.77,91.13
+09/30/2021,2021,3,Davenport,Hamburg,13.18,26.21,,28.21,494.82,67.6
+09/30/2021,2021,3,Davenport,"Shanghai, China",13.18,26.21,,80.83,494.82,120.22
+09/30/2021,2021,3,Minneapolis,Hamburg,13.18,32.62,,28.21,483.79,74.01
+09/30/2021,2021,3,Minneapolis,"Shanghai, China",13.18,32.62,,80.83,483.79,126.63
+09/30/2021,2021,3,North MT-Santos,Hamburg,59.59,,,54.0,513.31,113.59
+09/30/2021,2021,3,North MT-Santos,"Shanghai, China",59.59,,,64.0,513.31,123.59
+09/30/2021,2021,3,South GO - Paranagua,Hamburg,34.66,,,53.0,495.9,87.66
+09/30/2021,2021,3,South GO - Paranagua,"Shanghai, China",34.66,,,66.0,495.9,100.66
+12/31/2021,2021,4,Davenport,Hamburg,13.5,33.49,,30.09,448.27,77.08
+12/31/2021,2021,4,Davenport,"Shanghai, China",13.5,33.49,,77.72,448.27,124.71
+12/31/2021,2021,4,Minneapolis,Hamburg,13.5,35.21,,30.09,448.27,78.8
+12/31/2021,2021,4,Minneapolis,"Shanghai, China",13.5,35.21,,77.72,448.27,126.43
+12/31/2021,2021,4,North MT-Santos,Hamburg,50.42,,,52.5,457.88,102.92
+12/31/2021,2021,4,North MT-Santos,"Shanghai, China",50.42,,,62.0,457.88,112.42
+12/31/2021,2021,4,South GO - Paranagua,Hamburg,29.58,,,51.5,456.2,81.08
+12/31/2021,2021,4,South GO - Paranagua,"Shanghai, China",29.58,,,64.0,456.2,93.58
+03/31/2022,2022,1,Davenport,Hamburg,16.67,29.07,34.81,25.88,519.31,106.43
+03/31/2022,2022,1,Davenport,"Shanghai, China",16.67,29.07,34.81,68.22,519.31,148.77
+03/31/2022,2022,1,Minneapolis,Hamburg,16.67,29.07,38.04,25.88,527.88,109.66
+03/31/2022,2022,1,Minneapolis,"Shanghai, China",16.67,29.07,38.04,68.22,527.88,152.0
+03/31/2022,2022,1,North MT-Santos,Hamburg,83.64,,,52.7,550.71,136.34
+03/31/2022,2022,1,North MT-Santos,"Shanghai, China",83.64,,,62.0,550.71,145.64
+03/31/2022,2022,1,South GO - Paranagua,Hamburg,49.26,,,51.5,553.47,100.76
+03/31/2022,2022,1,South GO - Paranagua,"Shanghai, China",49.26,,,64.0,553.47,113.26
+06/30/2022,2022,2,Davenport,Hamburg,23.4,34.72,,33.35,581.78,91.47
+06/30/2022,2022,2,Davenport,"Shanghai, China",23.4,34.72,,78.81,581.78,136.93
+06/30/2022,2022,2,Minneapolis,Hamburg,23.4,44.56,,33.35,589.12,101.31
+06/30/2022,2022,2,Minneapolis,"Shanghai, China",23.4,44.56,,78.81,589.12,146.77
+06/30/2022,2022,2,North MT-Santos,Hamburg,102.44,,,55.85,566.29,158.29
+06/30/2022,2022,2,North MT-Santos,"Shanghai, China",102.44,,,65.75,566.29,168.19
+06/30/2022,2022,2,South GO - Paranagua,Hamburg,59.39,,,56.4,565.92,113.99
+06/30/2022,2022,2,South GO - Paranagua,"Shanghai, China",59.39,,,67.75,565.92,127.14
+09/30/2022,2022,3,Davenport,Hamburg,19.07,36.95,,32.08,551.16,88.1
+09/30/2022,2022,3,Davenport,"Shanghai, China",19.07,36.95,,63.87,551.16,119.89
+09/30/2022,2022,3,Minneapolis,Hamburg,19.07,46.33,,32.08,531.56,97.48
+09/30/2022,2022,3,Minneapolis,"Shanghai, China",19.07,46.33,,63.87,531.56,129.27
+09/30/2022,2022,3,North MT-Santos,Hamburg,99.71,,,42.6,514.98,142.31
+09/30/2022,2022,3,North MT-Santos,"Shanghai, China",99.71,,,48.7,514.98,148.41
+09/30/2022,2022,3,South GO - Paranagua,Hamburg,58.82,,,49.0,513.5,107.82
+09/30/2022,2022,3,South GO - Paranagua,"Shanghai, China",58.82,,,41.6,513.5,100.42
+12/31/2022,2022,4,Davenport,Hamburg,16.31,78.46,,29.17,515.64,123.94
+12/31/2022,2022,4,Davenport,"Shanghai, China",16.31,78.46,,58.11,515.64,152.88
+12/31/2022,2022,4,Minneapolis,Hamburg,16.31,94.5,,29.17,509.51,139.98
+12/31/2022,2022,4,Minneapolis,"Shanghai, China",16.31,94.5,,58.11,509.51,168.92
+12/31/2022,2022,4,North MT-Santos,Hamburg,90.13,,,42.2,515.89,132.33
+12/31/2022,2022,4,North MT-Santos,"Shanghai, China",9.01,,,47.7,515.89,137.83
+12/31/2022,2022,4,South GO - Paranagua,Hamburg,52.88,,,41.2,511.31,94.08
+12/31/2022,2022,4,South GO - Paranagua,"Shanghai, China",52.88,,,48.6,511.31,101.48
+03/31/2023,2023,1,Davenport,Hamburg,14.75,19.88,37.93,26.09,545.03,98.65
+03/31/2023,2023,1,Davenport,"Shanghai, China",14.75,19.88,37.93,50.46,545.03,123.02
+03/31/2023,2023,1,Minneapolis,Hamburg,14.75,19.88,42.67,26.09,541.36,103.39
+03/31/2023,2023,1,Minneapolis,"Shanghai, China",14.75,19.88,42.67,50.46,541.36,127.76
+03/31/2023,2023,1,North MT-Santos,Hamburg,96.25,,,31.65,472.04,127.9
+03/31/2023,2023,1,North MT-Santos,"Shanghai, China",96.25,,,33.5,472.04,129.75
+03/31/2023,2023,1,South GO - Paranagua,Hamburg,57.77,,,31.0,479.17,88.77
+03/31/2023,2023,1,South GO - Paranagua,"Shanghai, China",57.77,,,35.0,479.17,92.77
+06/30/2023,2023,2,Davenport,Hamburg,14.19,21.93,,27.98,532.78,64.1
+06/30/2023,2023,2,Davenport,"Shanghai, China",14.19,21.93,,50.7,532.78,86.82
+06/30/2023,2023,2,Minneapolis,Hamburg,14.19,29.54,,27.98,519.31,71.71
+06/30/2023,2023,2,Minneapolis,"Shanghai, China",14.19,29.54,,50.7,519.31,94.43
+06/30/2023,2023,2,North MT-Santos,Hamburg,100.36,,,33.2,384.93,133.56
+06/30/2023,2023,2,North MT-Santos,"Shanghai, China",100.36,,,35.2,984.93,135.56
+06/30/2023,2023,2,South GO - Paranagua,Hamburg,59.45,,,32.5,390.39,91.95
+06/30/2023,2023,2,South GO - Paranagua,"Shanghai, China",59.45,,,36.7,390.39,96.15
+09/30/2023,2023,3,Davenport,Hamburg,14.75,30.79,,25.87,513.19,71.41
+09/30/2023,2023,3,Davenport,"Shanghai, China",14.75,30.79,,50.07,513.19,95.61
+09/30/2023,2023,3,Minneapolis,Hamburg,14.75,37.8,,25.87,509.94,78.42
+09/30/2023,2023,3,Minneapolis,"Shanghai, China",14.75,37.8,,50.07,500.94,102.62
+09/30/2023,2023,3,North MT-Santos,Hamburg,113.56,,,35.0,399.94,148.56
+09/30/2023,2023,3,North MT-Santos,"Shanghai, China",113.56,,,37.0,399.94,150.56
+09/30/2023,2023,3,South GO - Paranagua,Hamburg,67.69,,,34.2,406.45,101.89
+09/30/2023,2023,3,South GO - Paranagua,"Shanghai, China",67.69,,,37.5,406.45,105.19
+12/31/2023,2023,4,Davenport,Hamburg,16.75,31.78,,29.54,475.22,78.07
+12/31/2023,2023,4,Davenport,"Shanghai, China",16.75,31.78,,58.23,475.22,106.76
+12/31/2023,2023,4,Minneapolis,Hamburg,16.75,38.76,,29.54,467.87,85.05
+12/31/2023,2023,4,Minneapolis,"Shanghai, China",16.75,38.76,,58.23,467.87,113.74
+12/31/2023,2023,4,North MT-Santos,Hamburg,103.06,,,33.0,406.91,136.06
+12/31/2023,2023,4,North MT-Santos,"Shanghai, China",103.06,,,35.0,406.91,138.06
+12/31/2023,2023,4,South GO - Paranagua,Hamburg,61.54,,,32.1,406.12,93.64
+12/31/2023,2023,4,South GO - Paranagua,"Shanghai, China",67.69,,,35.5,406.12,103.19
+03/31/2024,2024,1,Davenport,Hamburg,16.11,13.63,23.97,29.76,440.92,83.47
+03/31/2024,2024,1,Davenport,"Shanghai, China",16.11,13.63,23.97,58.99,440.92,112.7
+03/31/2024,2024,1,Minneapolis,Hamburg,16.11,13.63,40.29,29.76,433.58,99.79
+03/31/2024,2024,1,Minneapolis,"Shanghai, China",16.11,13.63,40.29,58.99,433.58,129.02
+03/31/2024,2024,1,North MT-Santos,Hamburg,91.79,,,32.6,349.39,124.39
+03/31/2024,2024,1,North MT-Santos,"Shanghai, China",91.79,,,34.7,349.39,126.49
+03/31/2024,2024,1,South GO - Paranagua,Hamburg,54.67,,,32.2,353.29,86.87
+03/31/2024,2024,1,South GO - Paranagua,"Shanghai, China",54.67,,,36.2,353.29,90.87
+06/30/2024,2024,2,Davenport,Hamburg,16.47,19.18,,27.94,437.25,63.59
+06/30/2024,2024,2,Davenport,"Shanghai, China",16.47,19.18,,59.66,437.25,95.31
+06/30/2024,2024,2,Minneapolis,Hamburg,16.47,24.29,,27.94,417.65,68.7
+06/30/2024,2024,2,Minneapolis,"Shanghai, China",16.47,24.29,,59.66,417.65,100.42
+06/30/2024,2024,2,North MT-Santos,Hamburg,91.1,,,31.3,366.79,122.4
+06/30/2024,2024,2,North MT-Santos,"Shanghai, China",91.1,,,33.3,366.79,124.4
+06/30/2024,2024,2,South GO - Paranagua,Hamburg,53.05,,,31.0,367.5,84.05
+06/30/2024,2024,2,South GO - Paranagua,"Shanghai, China",53.05,,,37.8,367.5,87.85
+09/30/2024,2024,3,Davenport,Hamburg,17.67,32.08,,26.41,383.36,76.16
+09/30/2024,2024,3,Davenport,"Shanghai, China",17.67,32.08,,56.72,383.36,106.47
+09/30/2024,2024,3,Minneapolis,Hamburg,17.67,37.9,,26.41,377.85,83.78
+09/30/2024,2024,3,Minneapolis,"Shanghai, China",17.67,39.7,,56.72,377.85,114.09
+09/30/2024,2024,3,North MT-Santos,Hamburg,82.31,,,33.8,366.6,116.11
+09/30/2024,2024,3,North MT-Santos,"Shanghai, China",82.31,,,36.0,366.6,118.31
+09/30/2024,2024,3,South GO - Paranagua,Hamburg,48.8,,,33.5,360.62,82.3
+09/30/2024,2024,3,South GO - Paranagua,"Shanghai, China",48.8,,,37.5,360.62,86.3
+12/31/2024,2024,4,Davenport,Hamburg,17.87,39.0,,23.64,359.35,80.51
+12/31/2024,2024,4,Davenport,"Shanghai, China",17.87,39.0,,48.39,359.35,105.26
+12/31/2024,2024,4,Minneapolis,Hamburg,17.87,48.92,,23.64,356.54,90.43
+12/31/2024,2024,4,Minneapolis,"Shanghai, China",17.97,48.92,,48.39,356.54,115.18
+12/31/2024,2024,4,North MT-Santos,Hamburg,70.75,,,32.2,386.58,102.95
+12/31/2024,2024,4,North MT-Santos,"Shanghai, China",70.75,,,34.4,386.58,105.15
+12/31/2024,2024,4,South GO - Paranagua,Hamburg,41.56,,,32.1,363.97,73.66
+12/31/2024,2024,4,South GO - Paranagua,"Shanghai, China",41.56,,,35.8,363.97,77.36
+03/31/2025,2025,1,Davenport,Hamburg,31.68,18.65,26.5,22.53,365.72,89.36
+03/31/2025,2025,1,Davenport,"Shanghai, China",21.68,18.65,26.5,44.57,365.72,111.4
+03/31/2025,2025,1,Minneapolis,Hamburg,21.68,19.65,42.36,22.53,258.37,105.22
+03/31/2025,2025,1,Minneapolis,"Shanghai, China",21.68,18.65,42.36,44.57,358.37,127.26
+03/31/2025,2025,1,North MT-Santos,Hamburg,88.54,,,33.9,317.36,117.44
+03/31/2025,2025,1,North MT-Santos,"Shanghai, China",83.54,,,36.0,317.36,119.54
+03/31/2025,2025,1,South GO - Paranagua,Hamburg,50.17,,,33.6,324.6,84.31
+03/31/2025,2025,1,South GO - Paranagua,"Shanghai, China",50.71,,,37.5,324.6,88.21
+06/30/2025,2025,2,Davenport,Hamburg,18.07,29.5,,22.71,376.01,70.28
+06/30/2025,2025,2,Davenport,"Shanghai, China",18.07,29.5,,45.67,376.01,93.24
+06/30/2025,2025,2,Minneapolis,Hamburg,18.07,36.64,,22.71,366.33,77.42
+06/30/2025,2025,2,Minneapolis,"Shanghai, China",18.07,36.64,,45.67,366.33,100.38
+06/30/2025,2025,2,North MT-Santos,Hamburg,87.35,,,34.75,325.53,122.1
+06/30/2025,2025,2,North MT-Santos,"Shanghai, China",87.35,,,37.0,325.53,124.35
+06/30/2025,2025,2,South GO - Paranagua,Hamburg,50.98,,,34.5,334.69,85.48
+06/30/2025,2025,2,South GO - Paranagua,"Shanghai, China",50.98,,,38.5,334.59,89.48
+09/30/2025,2025,3,Davenport,Hamburg,17.35,35.71,,24.56,364.99,77.62
+09/30/2025,2025,3,Davenport,"Shanghai, China",17.35,35.71,,53.4,364.99,106.46
+09/30/2025,2025,3,Minneapolis,Hamburg,17.35,43.17,,24.56,356.78,85.08
+09/30/2025,2025,3,Minneapolis,"Shanghai, China",17.35,43.17,,53.4,356.78,113.92
+09/30/2025,2025,3,North MT-Santos,Hamburg,92.1,,,36.5,361.89,128.6
+09/30/2025,2025,3,North MT-Santos,"Shanghai, China",92.1,,,39.0,361.89,131.1
+09/30/2025,2025,3,South GO - Paranagua,Hamburg,55.59,,,36.3,361.35,91.89
+09/30/2025,2025,3,South GO - Paranagua,"Shanghai, China",55.59,,,40.5,361.35,96.09
+12/31/2025,2025,4,Davenport,Hamburg,16.31,34.13,,24.97,376.26,75.41
+12/31/2025,2025,4,Davenport,"Shanghai, China",16.31,34.13,,55.32,376.26,105.76
+12/31/2025,2025,4,Minneapolis,Hamburg,16.31,38.55,,24.97,362.05,79.83
+12/31/2025,2025,4,Minneapolis,"Shanghai, China",16.31,38.55,,55.32,362.05,110.18
+12/31/2025,2025,4,North MT-Santos,Hamburg,92.65,,,36.45,369.95,129.1
+12/31/2025,2025,4,North MT-Santos,"Shanghai, China",92.65,,,38.9,369.95,131.55
+12/31/2025,2025,4,South GO - Paranagua,Hamburg,55.68,,,36.2,372.87,91.88
+12/31/2025,2025,4,South GO - Paranagua,"Shanghai, China",55.68,,,40.4,372.87,96.08
