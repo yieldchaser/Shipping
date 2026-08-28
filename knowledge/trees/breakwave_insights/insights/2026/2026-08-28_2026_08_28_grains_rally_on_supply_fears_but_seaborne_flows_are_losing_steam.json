@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam__root",
+  "doc_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam",
+  "parent_id": null,
+  "title": "Grains Rally on Supply Fears, but Seaborne Flows Are Losing Steam",
+  "section_path": [
+    "Grains Rally on Supply Fears, but Seaborne Flows Are Losing Steam"
+  ],
+  "section_path_text": "Grains Rally on Supply Fears, but Seaborne Flows Are Losing Steam",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nOver the past two and a half weeks, grain and oilseed prices have soared. This follows a few months of volatility across the agricultural commodities market. Renewed concerns over supplies, amid an escalation of hostilities between Ukraine and Russia that is affecting exports from the Black Sea region, have contributed to gains in wheat prices over the past few weeks.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "grain",
+    "crude_oil",
+    "year",
+    "wheat",
+    "seaborne",
+    "exports",
+    "volumes",
+    "grains"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1322,
+  "source_path": "reports/breakwave/2026/2026-08-28_grains-rally-on-supply-fears-but-seaborne-flows-are-losing-steam.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/8/28/grains-rally-on-supply-fears-but-seaborne-flows-are-losing-steam",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam",
+      "parent_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nOver the past two and a half weeks, grain and oilseed prices have soared. This follows a few months of volatility across the agricultural commodities market.",
+      "keywords": [
+        "india",
+        "grain",
+        "crude_oil",
+        "wheat",
+        "exports",
+        "corn",
+        "gains",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam__s02_global_grain_and_oilseed_seaborne_exports_seeing_a_slow_seasonal_recovery",
+      "doc_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam",
+      "parent_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam__root",
+      "title": "Global Grain and Oilseed Seaborne Exports Seeing a Slow Seasonal Recovery",
+      "section_path": [
+        "Global Grain and Oilseed Seaborne Exports Seeing a Slow Seasonal Recovery"
+      ],
+      "section_path_text": "Global Grain and Oilseed Seaborne Exports Seeing a Slow Seasonal Recovery",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The second seasonal pickup in global seaborne shipments of grains and oilseeds typically begins in the second half of the year, following weakness in June. However, this year, after year-on-year increases for each month during the first half of the year, Signal Ocean's data points towards a softer-than-usual start to the second half.",
+      "keywords": [
+        "china",
+        "brazil",
+        "grain",
+        "crude_oil",
+        "year",
+        "volumes",
+        "per",
+        "seaborne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 387,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam__s03_factors_affecting_the_volumes_during_the_remainder_of_the_year",
+      "doc_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam",
+      "parent_id": "breakwave_insights_insights_2026-08-28_2026_08_28_grains_rally_on_supply_fears_but_seaborne_flows_are_losing_steam__root",
+      "title": "Factors Affecting the Volumes During the Remainder of the Year",
+      "section_path": [
+        "Factors Affecting the Volumes During the Remainder of the Year"
+      ],
+      "section_path_text": "Factors Affecting the Volumes During the Remainder of the Year",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "There is little to suggest that global demand for grains and oilseeds is facing any significant headwinds. While higher inflation and pressure on global economic growth in the wake of elevated energy prices could dent demand, global appetite for grains and oilseeds is unlikely to be a limiting factor for seaborne volumes between now and the end of the year.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "grain",
+        "crude_oil",
+        "wheat",
+        "could",
+        "global"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 569,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
