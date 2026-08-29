@@ -30,6 +30,7 @@ import os
 import re
 import json
 import hashlib
+import anydoc
 import pypdf
 import pandas as pd
 from datetime import datetime
@@ -62,13 +63,23 @@ def clean_num(val_str: Optional[str]) -> Optional[float]:
         return None
 
 def parse_single_pdf(filepath: str, fund_name: str, url: str) -> Dict[str, Any]:
-    reader = pypdf.PdfReader(filepath)
-    full_text = "\n".join([page.extract_text() for page in reader.pages])
+    full_text = ""
+    try:
+        reader = pypdf.PdfReader(filepath)
+        full_text = "\n".join([page.extract_text() or "" for page in reader.pages])
+    except Exception:
+        pass
+
+    if not full_text or len(full_text.strip()) < 50:
+        try:
+            full_text = anydoc.to_markdown(filepath)
+        except Exception:
+            full_text = ""
     
     # 1. Period Ended Date
-    m_period = re.search(r'For the Month Ended\s+([A-Za-z]+\s+\d{1,2},?\s+\d{4})', full_text, re.IGNORECASE)
+    m_period = re.search(r'For the Month Ended\s*\|?\s*([A-Za-z]+\s+\d{1,2},?\s+\d{4})', full_text, re.IGNORECASE)
     if not m_period:
-        m_period = re.search(r'Month Ended\s+([A-Za-z]+\s+\d{1,2},?\s+\d{4})', full_text, re.IGNORECASE)
+        m_period = re.search(r'Month Ended\s*\|?\s*([A-Za-z]+\s+\d{1,2},?\s+\d{4})', full_text, re.IGNORECASE)
     period_str = m_period.group(1).strip() if m_period else os.path.basename(filepath).replace(f'{fund_name}_', '').replace('.pdf', '')
     
     # 2. Extract Numbers using precise regex with flexible spacing
@@ -80,49 +91,49 @@ def parse_single_pdf(filepath: str, fund_name: str, url: str) -> Dict[str, Any]:
         return default
 
     # Interest Income
-    interest = find_amount(r'Interest\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    interest = find_amount(r'Interest[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
     
     # Itemized Expenses
-    sponsor_fee = find_amount(r'Sponsor Fee\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
-    cta_fee = find_amount(r'CTA Fee\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
-    brokerage_comm = find_amount(r'Brokerage Commissions\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
-    admin_custody_fee = find_amount(r'Admin/Accounting/Custodian/Transfer Agent Fees\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    sponsor_fee = find_amount(r'Sponsor Fee[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    cta_fee = find_amount(r'CTA Fee[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    brokerage_comm = find_amount(r'Brokerage Commissions[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    admin_custody_fee = find_amount(r'Admin/Accounting/Custodian/Transfer Agent Fees[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
     
     # Total Expenses & Fee Waivers
-    tot_exp = find_amount(r'Total Expenses\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
-    waiver_cta = find_amount(r'Less:\s*Waiver of CTA Fee\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
-    expenses_absorbed = find_amount(r'Less:\s*Expenses absorbed (?:by|to) Sponsor\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    tot_exp = find_amount(r'Total Expenses[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    waiver_cta = find_amount(r'Less:\s*Waiver of CTA Fee[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    expenses_absorbed = find_amount(r'Less:\s*Expenses absorbed[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
     
     # Net Expenses
-    net_exp = find_amount(r'Net Expenses\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
+    net_exp = find_amount(r'Net Expenses[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
     if net_exp is None and tot_exp is not None:
         net_exp = tot_exp - abs(waiver_cta or 0.0) - abs(expenses_absorbed or 0.0)
         
     # Net Investment Income / (Loss)
-    nii = find_amount(r'Net Investment Income\s*\([^\)]+\)\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
+    nii = find_amount(r'Net Investment Income\s*\([^\)]+\)[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
     if nii is None and interest is not None and net_exp is not None:
         nii = interest - net_exp
         
     # Realized Gain / Loss on Futures
-    realized_futures = find_amount(r'Net Realized Gain\s*\([^\)]+\)\s*on\s*Futures Contracts\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
+    realized_futures = find_amount(r'Net Realized Gain\s*\([^\)]+\)\s*on\s*Futures Contracts[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
     if realized_futures is None:
-        realized_futures = find_amount(r'Futures Contracts\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+        realized_futures = find_amount(r'Futures Contracts[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
         
     # Unrealized Gain / Loss Delta on Futures
-    unrealized_delta = find_amount(r'Change in Net Unrealized Appreciation/Depreciation on\s*Futures Contracts\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    unrealized_delta = find_amount(r'Change in Net Unrealized Appreciation/Depreciation[^\d\(\)\-]*?([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
     
     # Net Realized & Unrealized P&L
-    tot_futures_pnl = find_amount(r'Net Realized and Unrealized Gain\s*\([^\)]+\)\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
+    tot_futures_pnl = find_amount(r'Net Realized and Unrealized Gain\s*\([^\)]+\)[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
     if tot_futures_pnl is None and realized_futures is not None and unrealized_delta is not None:
         tot_futures_pnl = realized_futures + unrealized_delta
         
     # Net Income / (Loss)
-    net_income = find_amount(r'Net Income\s*\([^\)]+\)\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
+    net_income = find_amount(r'Net Income\s*\([^\)]+\)[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=None)
     if net_income is None and nii is not None and tot_futures_pnl is not None:
         net_income = nii + tot_futures_pnl
         
     # Opening NAV & Ending NAV
-    nav_matches = re.findall(r'Net Asset Value End of Period\s+[\d/]+\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\))', full_text, re.IGNORECASE)
+    nav_matches = re.findall(r'Net Asset Value End of Period\s*\|?\s*[\d/]+\s*\|?\s*\$?\s*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\))', full_text, re.IGNORECASE)
     if len(nav_matches) >= 2:
         open_nav = clean_num(nav_matches[0])
         closing_nav = clean_num(nav_matches[1])
@@ -134,18 +145,16 @@ def parse_single_pdf(filepath: str, fund_name: str, url: str) -> Dict[str, Any]:
         closing_nav = None
         
     # Sales & Redemptions of Shares
-    sales = find_amount(r'Sales of Shares\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
-    redemptions = find_amount(r'Redemption of Shares\s+([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    sales = find_amount(r'Sales of Shares[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
+    redemptions = find_amount(r'Redemption of Shares[^\d\(\)\-\n]*([\d,]+(?:\.\d+)?|\([\d,]+(?:\.\d+)?\)|-)', full_text, default=0.0)
     net_share_activity = (sales or 0.0) + (redemptions or 0.0)
     
     # Month-End Shares Outstanding
-    m_shares = re.search(r'Shares Outstanding\s+([\d,]+(?:\.\d+)?)', full_text, re.IGNORECASE)
+    m_shares = re.search(r'Shares Outstanding[^\d\n]*([\d,]+(?:\.\d+)?)', full_text, re.IGNORECASE)
     shares_out = int(clean_num(m_shares.group(1))) if m_shares and clean_num(m_shares.group(1)) is not None else None
     
     # Month-End NAV per Share
-    m_nav_sh = re.search(r'Net Asset Value Per Share\s+([\d,]+(?:\.\d+)?)', full_text, re.IGNORECASE)
-    if not m_nav_sh:
-        m_nav_sh = re.search(r'Value Per Share\s+([\d,]+(?:\.\d+)?)', full_text, re.IGNORECASE)
+    m_nav_sh = re.search(r'(?:Net Asset )?Value Per Share[^\d\n]*([\d,]+(?:\.\d+)?)', full_text, re.IGNORECASE)
     nav_per_share = clean_num(m_nav_sh.group(1)) if m_nav_sh else None
     
     # Mathematical Balances

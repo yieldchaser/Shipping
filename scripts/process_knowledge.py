@@ -7,6 +7,7 @@ from urllib.parse import urlparse
 from urllib import request as urllib_request, error as urllib_error
 from collections import defaultdict
 
+import anydoc
 import pdfplumber
 from bs4 import BeautifulSoup
 import tiktoken
@@ -2049,22 +2050,33 @@ def extract_linked_pdf_ocr_text(pdf_path: Path) -> str:
 
 
 def extract_linked_pdf_text(pdf_path: Path) -> str:
+    # Try anydoc high-speed structured markdown extraction first
+    try:
+        md = anydoc.to_markdown(str(pdf_path))
+        if md and len(re.sub(r"\s+", "", md)) >= 100:
+            return truncate_linked_text(md)
+    except Exception:
+        pass
+
     sections = []
     total_chars = 0
     extracted_pages = 0
     total_pages = 0
-    with pdfplumber.open(pdf_path) as pdf:
-        total_pages = len(pdf.pages)
-        for index, page in enumerate(pdf.pages[:LINKED_PDF_PAGE_LIMIT], start=1):
-            page_text = norm_multiline(page.extract_text() or "")
-            if not page_text:
-                continue
-            entry = f"[Page {index}]\n{page_text}"
-            sections.append(entry)
-            extracted_pages = index
-            total_chars += len(entry)
-            if total_chars >= LINKED_TEXT_CHAR_LIMIT:
-                break
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            total_pages = len(pdf.pages)
+            for index, page in enumerate(pdf.pages[:LINKED_PDF_PAGE_LIMIT], start=1):
+                page_text = norm_multiline(page.extract_text() or "")
+                if not page_text:
+                    continue
+                entry = f"[Page {index}]\n{page_text}"
+                sections.append(entry)
+                extracted_pages = index
+                total_chars += len(entry)
+                if total_chars >= LINKED_TEXT_CHAR_LIMIT:
+                    break
+    except Exception:
+        pass
 
     payload = ""
     if sections:

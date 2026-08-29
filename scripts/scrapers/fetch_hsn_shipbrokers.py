@@ -14,7 +14,9 @@ import urllib.request
 import urllib.parse
 from pathlib import Path
 from bs4 import BeautifulSoup
+import anydoc
 import pypdf
+import tempfile
 
 BASE_URL = "https://www.hellenicshippingnews.com/category/weekly-shipbrokers-reports/"
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -47,7 +49,21 @@ def fetch_url(url, timeout=25):
         return resp.read()
 
 def parse_pdf_stream(pdf_bytes):
-    """Extract text from in-memory PDF stream."""
+    """Extract clean structured Markdown from in-memory PDF stream using AnyDoc with pypdf fallback."""
+    try:
+        with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tf:
+            tf.write(pdf_bytes)
+            tf_name = tf.name
+        try:
+            md = anydoc.to_markdown(tf_name)
+            if md and len(md.strip()) > 50:
+                return md
+        finally:
+            if os.path.exists(tf_name):
+                os.remove(tf_name)
+    except Exception:
+        pass
+
     try:
         reader = pypdf.PdfReader(io.BytesIO(pdf_bytes), strict=False)
         pages_text = []

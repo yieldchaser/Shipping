@@ -9,6 +9,13 @@ import shutil
 import time
 from pathlib import Path
 import pandas as pd
+import re
+import os
+import shutil
+import time
+from pathlib import Path
+import pandas as pd
+import anydoc
 import pypdf
 
 REPO_ROOT = Path(r"C:\Users\Dell\Github\Shipping")
@@ -34,30 +41,43 @@ def parse_demolition_pdf(pdf_path: Path):
         "container_india": None
     }
 
-    try:
-        if pdf_path.stat().st_size < 1000:
-            return None
-        with open(pdf_path, "rb") as fh:
-            if fh.read(4) != b"%PDF":
-                return None
-            fh.seek(0)
-            reader = pypdf.PdfReader(fh, strict=False)
-            full_text = ""
-            for p in reader.pages:
-                full_text += p.extract_text() + "\n"
-    except Exception:
+    if pdf_path.stat().st_size < 1000:
         return None
 
-    # Parse GMS / Best Oasis table patterns
-    # Format:
-    # 1 India Firming 410 / LDT 430 / LDT 440 / LDT
-    # 2 Pakistan Steady 390 / LDT 410 / LDT 420 / LDT
-    # 3 Bangladesh Weak 380 / LDT 400 / LDT 410 / LDT
-    # 4 Turkey Steady 270 / LDT 280 / LDT 290 / LDT
-    
-    # 1. India
-    m_ind = re.search(r"India\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
-    if m_ind:
+    full_text = ""
+    # Try anydoc high-speed native parser first
+    try:
+        full_text = anydoc.to_markdown(str(pdf_path))
+    except Exception:
+        # Fallback to pypdf stream extraction
+        try:
+            with open(pdf_path, "rb") as fh:
+                if fh.read(4) != b"%PDF":
+                    return None
+                fh.seek(0)
+                reader = pypdf.PdfReader(fh, strict=False)
+                pages = [p.extract_text() or "" for p in reader.pages]
+                full_text = "\n".join(pages)
+        except Exception:
+            return None
+
+    if not full_text:
+        return None
+
+    # 1. India (Table or Text)
+    # Format: | 1 | India | Firming | 410 / LDT | 430 / LDT | 440 / LDT | or India Firming 410 / LDT 430 / LDT 440 / LDT
+    m_ind = re.search(r"\|\s*(?:\d+\s*\|\s*)?India\s*\|\s*(?:[A-Za-z\s]+)?\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    if not m_ind:
+        m_ind = re.search(r"India\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    if not m_ind:
+        m_ind = re.search(r"Alang\s*(?:at\s*)?(\d{3})\s*[-–]\s*(\d{3})\s*for\s*dry\s*bulk\s*and\s*(\d{3})\s*[-–]\s*(\d{3})\s*for\s*tankers", full_text, re.IGNORECASE)
+        if m_ind:
+            try:
+                record["dry_india"] = float(m_ind.group(1))
+                record["tanker_india"] = float(m_ind.group(3))
+            except Exception:
+                pass
+    if m_ind and record["dry_india"] is None:
         try:
             d, t, c = float(m_ind.group(1)), float(m_ind.group(2)), float(m_ind.group(3))
             if 200 <= d <= 750 and 200 <= t <= 750:
@@ -68,8 +88,18 @@ def parse_demolition_pdf(pdf_path: Path):
             pass
 
     # 2. Bangladesh
-    m_ban = re.search(r"Bangladesh\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
-    if m_ban:
+    m_ban = re.search(r"\|\s*(?:\d+\s*\|\s*)?Bangladesh\s*\|\s*(?:[A-Za-z\s]+)?\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    if not m_ban:
+        m_ban = re.search(r"Bangladesh\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    if not m_ban:
+        m_ban = re.search(r"Chattogram\s*(?:close\s*behind\s*at\s*|at\s*)?(\d{3})\s*[-–]\s*(\d{3})\s*and\s*(\d{3})\s*[-–]\s*(\d{3})", full_text, re.IGNORECASE)
+        if m_ban:
+            try:
+                record["dry_bangla"] = float(m_ban.group(1))
+                record["tanker_bangla"] = float(m_ban.group(3))
+            except Exception:
+                pass
+    if m_ban and record["dry_bangla"] is None:
         try:
             d, t, _ = float(m_ban.group(1)), float(m_ban.group(2)), float(m_ban.group(3))
             if 200 <= d <= 750 and 200 <= t <= 750:
@@ -79,8 +109,18 @@ def parse_demolition_pdf(pdf_path: Path):
             pass
 
     # 3. Pakistan
-    m_pak = re.search(r"Pakistan\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
-    if m_pak:
+    m_pak = re.search(r"\|\s*(?:\d+\s*\|\s*)?Pakistan\s*\|\s*(?:[A-Za-z\s]+)?\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    if not m_pak:
+        m_pak = re.search(r"Pakistan\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    if not m_pak:
+        m_pak = re.search(r"Gadani\s*(?:vaulting\s*to\s*the\s*top\s*of\s*the\s*board\s*at\s*|at\s*)?(\d{3})\s*[-–]\s*(\d{3})\s*for\s*dry\s*bulk\s*and\s*(\d{3})\s*[-–]\s*(\d{3})\s*for\s*tankers", full_text, re.IGNORECASE)
+        if m_pak:
+            try:
+                record["dry_pak"] = float(m_pak.group(1))
+                record["tanker_pak"] = float(m_pak.group(3))
+            except Exception:
+                pass
+    if m_pak and record["dry_pak"] is None:
         try:
             d, t, _ = float(m_pak.group(1)), float(m_pak.group(2)), float(m_pak.group(3))
             if 200 <= d <= 750 and 200 <= t <= 750:
@@ -90,7 +130,9 @@ def parse_demolition_pdf(pdf_path: Path):
             pass
 
     # 4. Turkey
-    m_tur = re.search(r"Turkey\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    m_tur = re.search(r"\|\s*(?:\d+\s*\|\s*)?Turkey\s*\|\s*(?:[A-Za-z\s]+)?\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s*\|\s*(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
+    if not m_tur:
+        m_tur = re.search(r"Turkey\s*(?:Firming|Steady|Weak|Improving|Declining|Flat)?\s*(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)\s*(?:/\s*LDT)?\s+(\d{3}(?:\.\d+)?)", full_text, re.IGNORECASE)
     if m_tur:
         try:
             d, _, _ = float(m_tur.group(1)), float(m_tur.group(2)), float(m_tur.group(3))
@@ -155,36 +197,57 @@ def upsert_scrappage_to_csv(extracted_records):
     df_new.to_csv(TARGET_CSV, index=False)
     print(f"  [SAVED] Updated {TARGET_CSV.name} successfully!\n", flush=True)
 
+from concurrent.futures import ThreadPoolExecutor
+
 def main():
     print("=" * 80, flush=True)
-    print("  PROGRESSIVE DEMOLITION EXTRACTION PIPELINE (1,038 PDF REPORTS)", flush=True)
+    print("  ANYDOC MULTI-THREADED DEMOLITION PIPELINE (1,040 PDF REPORTS - 8 WORKERS)", flush=True)
     print("=" * 80, flush=True)
 
     all_pdfs = sorted(list(DEMO_DIR.glob("*.pdf")))
+    total_files = len(all_pdfs)
     years = ["2026", "2025", "2024", "2023", "2022", "2021"]
 
-    for yr in years:
-        yr_pdfs = [p for p in all_pdfs if p.name.startswith(yr)]
-        print(f"\n>>> EXTRACTING DEMOLITION YEAR {yr} ({len(yr_pdfs)} PDFs) <<<", flush=True)
-        t_yr = time.time()
-        yr_records = {}
-        for idx, p in enumerate(yr_pdfs, 1):
-            rec = parse_demolition_pdf(p)
-            if rec and (rec["dry_india"] or rec["dry_bangla"] or rec["dry_pak"]):
-                d = rec["date"]
-                if d not in yr_records:
-                    yr_records[d] = rec
-                else:
-                    for k, v in rec.items():
-                        if v is not None and yr_records[d].get(k) is None:
-                            yr_records[d][k] = v
-            if idx % 25 == 0 or idx == len(yr_pdfs):
-                print(f"  [{yr}] {idx}/{len(yr_pdfs)} parsed ({len(yr_records)} dates captured) in {time.time()-t_yr:.1f}s", flush=True)
-        
-        print(f"[OK] Completed Demolition Year {yr} in {time.time()-t_yr:.1f}s. Saving incremental checkpoint...", flush=True)
-        upsert_scrappage_to_csv(yr_records)
+    t_global_start = time.time()
+    processed_total = 0
 
-    print("\n[SUCCESS] ALL DEMOLITION YEARS FULLY EXTRACTED AND UPSERTED INTO DATASET!", flush=True)
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for yr in years:
+            yr_pdfs = [p for p in all_pdfs if p.name.startswith(yr)]
+            if not yr_pdfs:
+                continue
+            print(f"\n>>> EXTRACTING DEMOLITION YEAR {yr} ({len(yr_pdfs)} PDFs) <<<", flush=True)
+            t_yr = time.time()
+            yr_records = {}
+            
+            # Run year in parallel batches
+            results = executor.map(parse_demolition_pdf, yr_pdfs)
+            
+            for idx, rec in enumerate(results, 1):
+                processed_total += 1
+                if rec and (rec["dry_india"] or rec["dry_bangla"] or rec["dry_pak"]):
+                    d = rec["date"]
+                    if d not in yr_records:
+                        yr_records[d] = rec
+                    else:
+                        for k, v in rec.items():
+                            if v is not None and yr_records[d].get(k) is None:
+                                yr_records[d][k] = v
+                                
+                if idx % 25 == 0 or idx == len(yr_pdfs):
+                    elapsed = time.time() - t_global_start
+                    rate = processed_total / elapsed if elapsed > 0 else 0
+                    remaining = total_files - processed_total
+                    eta_s = remaining / rate if rate > 0 else 0
+                    pct = (processed_total / total_files) * 100
+                    print(f"  [{processed_total}/{total_files}] ({pct:5.1f}%) | Speed: {rate:4.1f} docs/s | ETA: {eta_s:4.1f}s | Captured {len(yr_records)} dates in {yr}", flush=True)
+            
+            print(f"[OK] Completed Demolition Year {yr} in {time.time()-t_yr:.1f}s. Saving incremental checkpoint...", flush=True)
+            upsert_scrappage_to_csv(yr_records)
+
+    total_time = time.time() - t_global_start
+    print(f"\n[SUCCESS] ALL {total_files} DEMOLITION REPORTS PROCESSED WITH ANYDOC IN {total_time:.2f}s!", flush=True)
 
 if __name__ == "__main__":
     main()
+

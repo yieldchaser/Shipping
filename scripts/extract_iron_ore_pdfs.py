@@ -8,6 +8,7 @@ import shutil
 import time
 from pathlib import Path
 import pandas as pd
+import anydoc
 import pypdf
 
 REPO_ROOT = Path(r"C:\Users\Dell\Github\Shipping")
@@ -31,19 +32,25 @@ def parse_iron_ore_pdf(pdf_path: Path):
         "steel_inventory_mt": None
     }
 
+    if pdf_path.stat().st_size < 1000:
+        return None
+
+    combined = ""
     try:
-        if pdf_path.stat().st_size < 1000:
-            return None
-        with open(pdf_path, "rb") as fh:
-            if fh.read(4) != b"%PDF":
-                return None
-            fh.seek(0)
-            reader = pypdf.PdfReader(fh, strict=False)
-            pages_text = []
-            for p in reader.pages:
-                pages_text.append(p.extract_text() or "")
-            combined = "\n".join(pages_text)
+        combined = anydoc.to_markdown(str(pdf_path))
     except Exception:
+        try:
+            with open(pdf_path, "rb") as fh:
+                if fh.read(4) != b"%PDF":
+                    return None
+                fh.seek(0)
+                reader = pypdf.PdfReader(fh, strict=False)
+                pages_text = [p.extract_text() or "" for p in reader.pages]
+                combined = "\n".join(pages_text)
+        except Exception:
+            return None
+
+    if not combined:
         return None
 
     lines = [l.strip() for l in combined.splitlines() if l.strip()]
@@ -53,7 +60,7 @@ def parse_iron_ore_pdf(pdf_path: Path):
         if "IOSI62" in line.upper():
             if re.search(r'\b(february|march|april|may|june|july|august|september|october|november|december|spread|equivalent)\b', line, re.I):
                 continue
-            m_p = re.search(r'IOSI62\s*(?:62%?\s*Fe\s*Fines)?\s*([0-9]{2,3}\.[0-9]{1,2})\b', line, re.I)
+            m_p = re.search(r'IOSI62\s*(?:62%?\s*Fe\s*Fines)?\s*\|?\s*\$?\s*([0-9]{2,3}\.[0-9]{1,2})\b', line, re.I)
             if m_p:
                 val = float(m_p.group(1))
                 if 40.0 <= val <= 250.0 and val not in [58.0, 61.0, 62.0, 62.5, 65.0]:
@@ -198,37 +205,56 @@ def upsert_to_csv(extracted_records):
     df_new.to_csv(TARGET_CSV, index=False)
     print(f"  [SAVED] Updated {TARGET_CSV.name} successfully!\n", flush=True)
 
+from concurrent.futures import ThreadPoolExecutor
+
 def main():
     print("=" * 80, flush=True)
-    print("  PROGRESSIVE IRON ORE EXTRACTION PIPELINE (ALL YEARS 2021-2026)", flush=True)
+    print("  ANYDOC MULTI-THREADED IRON ORE PIPELINE (2,226 PDF REPORTS - 8 WORKERS)", flush=True)
     print("=" * 80, flush=True)
 
     all_pdfs = sorted(list(PDF_DIR.glob("*.pdf")))
+    total_files = len(all_pdfs)
     years = ["2026", "2025", "2024", "2023", "2022", "2021"]
 
-    for yr in years:
-        yr_pdfs = [p for p in all_pdfs if p.name.startswith(yr)]
-        print(f"\n>>> EXTRACTING YEAR {yr} ({len(yr_pdfs)} PDFs) <<<", flush=True)
-        t_yr = time.time()
-        yr_records = {}
-        for idx, p in enumerate(yr_pdfs, 1):
-            rec = parse_iron_ore_pdf(p)
-            if rec and (rec["cfr_62"] or rec["cfr_65"] or rec["port_stock_62"]):
-                d = rec["date"]
-                if d not in yr_records:
-                    yr_records[d] = rec
-                else:
-                    for k, v in rec.items():
-                        if v is not None and yr_records[d].get(k) is None:
-                            yr_records[d][k] = v
-            if idx % 25 == 0 or idx == len(yr_pdfs):
-                print(f"  [{yr}] {idx}/{len(yr_pdfs)} parsed ({len(yr_records)} dates captured) in {time.time()-t_yr:.1f}s", flush=True)
-        
-        # Save after each year!
-        print(f"[OK] Completed Year {yr} in {time.time()-t_yr:.1f}s. Saving incremental checkpoint to CSV...", flush=True)
-        upsert_to_csv(yr_records)
+    t_global_start = time.time()
+    processed_total = 0
 
-    print("\n[SUCCESS] ALL YEARS (2021-2026) FULLY EXTRACTED AND UPSERTED INTO DATASET!", flush=True)
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for yr in years:
+            yr_pdfs = [p for p in all_pdfs if p.name.startswith(yr)]
+            if not yr_pdfs:
+                continue
+            print(f"\n>>> EXTRACTING YEAR {yr} ({len(yr_pdfs)} PDFs) <<<", flush=True)
+            t_yr = time.time()
+            yr_records = {}
+            
+            results = executor.map(parse_iron_ore_pdf, yr_pdfs)
+            
+            for idx, rec in enumerate(results, 1):
+                processed_total += 1
+                if rec and (rec["cfr_62"] or rec["cfr_65"] or rec["port_stock_62"]):
+                    d = rec["date"]
+                    if d not in yr_records:
+                        yr_records[d] = rec
+                    else:
+                        for k, v in rec.items():
+                            if v is not None and yr_records[d].get(k) is None:
+                                yr_records[d][k] = v
+                                
+                if idx % 50 == 0 or idx == len(yr_pdfs):
+                    elapsed = time.time() - t_global_start
+                    rate = processed_total / elapsed if elapsed > 0 else 0
+                    remaining = total_files - processed_total
+                    eta_s = remaining / rate if rate > 0 else 0
+                    pct = (processed_total / total_files) * 100
+                    print(f"  [{processed_total}/{total_files}] ({pct:5.1f}%) | Speed: {rate:4.1f} docs/s | ETA: {eta_s:4.1f}s | Captured {len(yr_records)} dates in {yr}", flush=True)
+            
+            # Save after each year!
+            print(f"[OK] Completed Year {yr} in {time.time()-t_yr:.1f}s. Saving incremental checkpoint to CSV...", flush=True)
+            upsert_to_csv(yr_records)
+
+    total_time = time.time() - t_global_start
+    print(f"\n[SUCCESS] ALL {total_files} IRON ORE REPORTS PROCESSED WITH ANYDOC IN {total_time:.2f}s!", flush=True)
 
 if __name__ == "__main__":
     main()
