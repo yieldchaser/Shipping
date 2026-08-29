@@ -30,7 +30,7 @@ This document outlines the complete dataset inventory, publishing frequencies, p
 | [`time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv) | Merged Alibra/Fearnleys 1Y & 2Y TC Rates | Jan 2000 | Weekly | Alibra & Fearnleys | Active |
 | [`time_charter_rates_fearnleys.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates_fearnleys.csv) | Pure Fearnleys Hasura GraphQL TC Rates | Jan 2000 | Weekly | Fearnleys Hasura API | Active |
 | [`vessel_valuations.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/vessel_valuations.csv) | 10Y Asset Values & Demolition Prices | Dec 1970 | Weekly | Clarksons / Fearnleys | Active |
-| [`scrappage_prices.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/scrappage_prices.csv) | Demolition / Scrap Prices ($/LDT) | Sep 2022 | Weekly | GMS / Intermodal | Active |
+| [`scrappage_prices.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/scrappage_prices.csv) | Demolition / Scrap Prices ($/LDT) via AnyDoc OCR | Jul 2021 | Weekly | Hellenic / Intermodal | Active (~377 rows) |
 | [`iron_ore_restocking.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/iron_ore_restocking.csv) | CFR 62% Iron Ore & Qingdao Port Stock | Jul 2018 | Weekly | Mysteel / S&P Global | Active |
 | [`lng_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/lng_charter_rates.csv) | LNG Carrier Spot & Time Charter Rates | Jan 2017 | Weekly | Spark Commodities | Active |
 | [`lpg_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/lpg_charter_rates.csv) | VLGC LPG Time Charter Rates | Jul 2019 | Weekly | Fearnleys / Clarksons | Active |
