@@ -30,7 +30,10 @@ import os
 import re
 import json
 import hashlib
-import anydoc
+try:
+    import anydoc  # optional accelerator: pip install firecrawl-anydoc
+except ImportError:  # fall back to pypdf extraction
+    anydoc = None
 import pypdf
 import pandas as pd
 from datetime import datetime

@@ -7,7 +7,10 @@ from urllib.parse import urlparse
 from urllib import request as urllib_request, error as urllib_error
 from collections import defaultdict
 
-import anydoc
+try:
+    import anydoc  # optional accelerator: pip install firecrawl-anydoc
+except ImportError:  # fall back to pdfplumber/pytesseract extraction
+    anydoc = None
 import pdfplumber
 from bs4 import BeautifulSoup
 import tiktoken

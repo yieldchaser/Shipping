@@ -14,7 +14,10 @@ import urllib.request
 import urllib.parse
 from pathlib import Path
 from bs4 import BeautifulSoup
-import anydoc
+try:
+    import anydoc  # optional accelerator: pip install firecrawl-anydoc
+except ImportError:  # fall back to pypdf extraction
+    anydoc = None
 import pypdf
 import tempfile
 

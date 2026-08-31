@@ -32,7 +32,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pypdf pandas
+        run: pip install requests beautifulsoup4 pypdf pandas firecrawl-anydoc
 
       - name: Configure Git identity
         run: |

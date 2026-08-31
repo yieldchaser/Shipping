@@ -15,7 +15,10 @@ import shutil
 import time
 from pathlib import Path
 import pandas as pd
-import anydoc
+try:
+    import anydoc  # optional accelerator: pip install firecrawl-anydoc
+except ImportError:  # fall back to pypdf extraction
+    anydoc = None
 import pypdf
 
 REPO_ROOT = Path(r"C:\Users\Dell\Github\Shipping")
