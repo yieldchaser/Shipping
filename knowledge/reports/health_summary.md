@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-08-31T19:25:40Z'
+generated_at: '2026-08-31T21:06:45Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 6
@@ -8,9 +8,9 @@ warning_count: 6
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8811
-- Chunks: 101464
-- Sections: 30972
+- Documents: 8819
+- Chunks: 101643
+- Sections: 31121
 - Topic evidence rows: 2500
 - Wiki pages: 10
 

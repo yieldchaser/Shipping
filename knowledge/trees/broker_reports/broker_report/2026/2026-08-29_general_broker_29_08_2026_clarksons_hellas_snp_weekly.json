@@ -1,0 +1,146 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__root",
+  "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "CLARKSONS HELLAS - SnP WEEKLY\n**Broker**: General Broker\n**Published Date**: 29/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-7/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-7/)\n\nDesk Talk\nWe are currently going through the third distinct phase of Middle East exports since the Hormuz crisis began. After suffering an immediate loss of around 15 mb/d of export capacity in the spring months and then experiencing the short-lived reopening during the second half of July, we are now in a phase of increased tanker shuttling, which has become very prominent since early August with volumes estimated to have reached ~4.5 mb/d. Middle Eastern producers, along with a handful of risk-tolerant tanker operators, have moved cargoes through the Strait of Hormuz to Ship-To-Ship hubs off Oman and Fujairah, where the volumes are transferred onto other tankers for onward delivery.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "any",
+    "information",
+    "clarksons",
+    "its",
+    "loss",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1558,
+  "source_path": "reports/broker_reports/2026/general_broker_29_08_2026_clarksons_hellas_snp_weekly.md",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-7/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__s01_clarksons_hellas_snp_weekly",
+      "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__root",
+      "title": "CLARKSONS HELLAS - SnP WEEKLY",
+      "section_path": [
+        "CLARKSONS HELLAS - SnP WEEKLY"
+      ],
+      "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 29/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-7/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-7/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-7",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__s02_desk_talk",
+      "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__root",
+      "title": "Desk Talk",
+      "section_path": [
+        "Desk Talk"
+      ],
+      "section_path_text": "Desk Talk",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "We are currently going through the third distinct phase of Middle East exports since the Hormuz crisis began. After suffering an immediate loss of around 15 mb/d of export capacity in the spring months and then experiencing the short-lived reopening during the second half of July, we are now in a phase of increased tanker shuttling, which has become very prominent since early August with volumes estimated to have reached ~4.5 mb/d.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "vlcc",
+        "aframax",
+        "are",
+        "cargoes",
+        "hormuz",
+        "middle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 430,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__s03_dry_cargo",
+      "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__root",
+      "title": "Dry Cargo",
+      "section_path": [
+        "Dry Cargo"
+      ],
+      "section_path_text": "Dry Cargo",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The Supramax **HARVEST** (ABT 58K DWT, 2008, TSUNEISHI (ZHOUSHAN) SHIPBUILDING, CR:4X30T (GRAB FITTED), SCRUBBER) was sold for USD 13.8m to Chinese interests.",
+      "keywords": [
+        "supramax",
+        "china",
+        "abt",
+        "chinese",
+        "dwt",
+        "fitted",
+        "grab",
+        "harvest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__s04_tanker",
+      "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_clarksons_hellas_snp_weekly__root",
+      "title": "Tanker",
+      "section_path": [
+        "Tanker"
+      ],
+      "section_path_text": "Tanker",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "On Tankers, Suezmax **CAPE BENAT** (ABT 157K DWT, 2010, JIANGSU RONGSHENG, SCRUBBER) was concluded at USD 62.5m to C/O Lila Global. Bulker Sales\n--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---\nVessel | DWT | Built | Details | SS/DD | Price | Buyer\nHARVEST | 58,779 | 2008 TSUNEISHI (ZHOUSHAN) | B&W 6S50MC-C8.1 SCRUBBER FITTED CR:4X30T (GRAB FITTED) | SS 02/28 DD 02/28 | USD 13.8 M | CHINESE\nTanker Sales\nVessel | DWT | Built | Details | SS/DD | Price | Buyer\nCAPE BENAT | 156,719 | 2010 JIANGSU RONGSHENG | B&W 6S70MC-C7.2 SCRUBBER FITTED | SS 03/30 DD 04/28 | USD 62.5 M | C/O LILA GLOBAL\nClarkson Hellas Ltd.",
+      "keywords": [
+        "capesize",
+        "suezmax",
+        "china",
+        "any",
+        "information",
+        "clarksons",
+        "its",
+        "connected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 973,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

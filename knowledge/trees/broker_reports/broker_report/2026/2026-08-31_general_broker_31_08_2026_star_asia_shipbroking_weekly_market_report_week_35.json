@@ -1,0 +1,884 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+  "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+  "parent_id": null,
+  "title": "Star Asia Shipbroking Weekly Market Report - WEEK 35",
+  "section_path": [
+    "Star Asia Shipbroking Weekly Market Report - WEEK 35"
+  ],
+  "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 35",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Star Asia Shipbroking Weekly Market Report - WEEK 35\n**Broker**: General Broker\n**Published Date**: 31/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-35-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-35-5/)\n\nMarket Report Content\n<u>STAR ASIA | WEEKLY MARKET REPORT Week 35 | August 28th, 2026</u>\n\nMARKET OVERVIEW\nDiplomatic discussions between regional authorities have introduced a new framework for managing the Strait of Hormuz, outlining a roadmap toward a temporary navigational channel and coordinated mine- clearing initiatives. Under this structure, negotiators are evaluating a dual-lane transit corridor where vessels would enter the Persian Gulf through northern designated waters and exit via southern lanes, followed by further discussions to establish permanent operational and security arrangements. However, significant hurdles remain, particularly regarding demands to close the existing southern route along the Omani coastline and potential methods for maritime service administration.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 7972,
+  "source_path": "reports/broker_reports/2026/general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35.md",
+  "source_url": "https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-35-5/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s01_star_asia_shipbroking_weekly_market_report_week_35",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Star Asia Shipbroking Weekly Market Report - WEEK 35",
+      "section_path": [
+        "Star Asia Shipbroking Weekly Market Report - WEEK 35"
+      ],
+      "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 35",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 31/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-35-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-35-5/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-35-5",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "<u>STAR ASIA | WEEKLY MARKET REPORT Week 35 | August 28th, 2026</u>",
+      "keywords": [
+        "asia",
+        "august",
+        "star"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s03_market_overview",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "MARKET OVERVIEW",
+      "section_path": [
+        "MARKET OVERVIEW"
+      ],
+      "section_path_text": "MARKET OVERVIEW",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Diplomatic discussions between regional authorities have introduced a new framework for managing the Strait of Hormuz, outlining a roadmap toward a temporary navigational channel and coordinated mine- clearing initiatives. Under this structure, negotiators are evaluating a dual-lane transit corridor where vessels would enter the Persian Gulf through northern designated waters and exit via southern lanes, followed by further discussions to establish permanent operational and security arrangements.",
+      "keywords": [
+        "vlcc",
+        "singapore",
+        "crude_oil",
+        "products",
+        "gas",
+        "are",
+        "crude",
+        "international"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 484,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s04_dry_bulk_bdi_3_186_12_14_w_o_w",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "DRY BULK | BDI: 3,186 ▲12.14% (w-o-w)",
+      "section_path": [
+        "DRY BULK | BDI: 3,186 ▲12.14% (w-o-w)"
+      ],
+      "section_path_text": "DRY BULK | BDI: 3,186 ▲12.14% (w-o-w)",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Dry bulk freight market demonstrated robust upward momentum, supported by tightening fleet availability and fresh weather disruptions across Asia even as critical maritime corridors face severe geopolitical strain. Ongoing conflicts have significantly constrained Black Sea agricultural shipments-with August wheat exports expected to fall well below 2.5 million tons compared to 6.3 million tons during the same period last year-while the blockage of the Strait of Hormuz has stalled crucial fertiliser trade and left an estimated 120 to 150 bulk carriers immobilised.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "grain",
+        "daily",
+        "million",
+        "points"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s05_segment_highlights",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Segment Highlights",
+      "section_path": [
+        "Segment Highlights"
+      ],
+      "section_path_text": "Segment Highlights",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "**Capesize:** Capesize rebounded this week, driven by a surge in Western Australian iron ore shipments alongside prompt tonnage tightening as ballasters maneuvered around another incoming typhoon off southeast China. Active participation from major miners pushed Pacific C5 rates higher, while steady Guinean bauxite and iron ore stems helped absorb long-haul capacity to keep the Atlantic market well supported.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 453,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s06_bdi_bci_bpi_bsi_bhsi",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "BDI BCI BPI BSI BHSI",
+      "section_path": [
+        "BDI BCI BPI BSI BHSI"
+      ],
+      "section_path_text": "BDI BCI BPI BSI BHSI",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "3,186 | 5,336 | 2,315 | 1,647 | 881\n--- | --- | --- | --- | ---\nWoW: +12.14% | WoW: +17.22% | WoW: +10.08% | WoW: +0.43% | WoW: +0.80%\nYoY: +57.33% | YoY: +82.43% | YoY: +25.34% | YoY: +12.42% | YoY: +14.86%",
+      "keywords": [
+        "wow",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s07_vessel_values_usd_million",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Vessel Values (USD Million)",
+      "section_path": [
+        "Vessel Values (USD Million)"
+      ],
+      "section_path_text": "Vessel Values (USD Million)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS\n--- | --- | --- | --- | --- | --- | ---\nCAPESIZE | 180,000 | $76M | $82M | $71M | $56M (E) | $35M\nKAMSARMAX | 82,000 | $38M | $45M | $38M | $31M (E) | $25M\nULTRAMAX | 64,000 | $35M | $44M | $38M (E) | $29M | $19M\nHANDY | 38,000 | $31M | $37M | $29M | $23M | $18M",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "yrs",
+        "contract",
+        "dwt",
+        "handy",
+        "kamsarmax",
+        "prompt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s08_sale_purchase_reported_fixtures",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Sale & Purchase - Reported Fixtures",
+      "section_path": [
+        "Sale & Purchase - Reported Fixtures"
+      ],
+      "section_path_text": "Sale & Purchase - Reported Fixtures",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD M) | BUYER\n--- | --- | --- | --- | --- | ---\nPRINCESS ETERNITY | CAPE | 182,263 | 2022 / JAPAN | 78.0 | UNDISCLOSED\nMOUNT DAMPIER | CAPE | 181,469 | 2011 / JAPAN | 38.0 | MERCURIA ENERGY GROUP HOLDING LTD\nEFRAIM A | KMAX | 82,174 | 2010 / CHINA | 20.0 | UNDISCLOSED\nAMARYLLIS | UMAX | 63,500 | 2013 / CHINA | 24.4 | CHINESE BUYERS\nEBURY TRADER | SMAX | 56,603 | 2011 / CHINA | 13.0 | CHINESE BUYERS\nSIDRA | SMAX | 56,140 | 2012 / JAPAN | 19.2 | INDONESIAN BUYERS\nAMANAH HALMAHERA AMC | SMAX | 56,020 | 2003 / JAPAN | UNDISCLOSED | CHINESE BUYER\nSPAR SCORPIO | SMAX | 53,565 | 2006 / CHINA | 11.25 | CHINESE BUYERS\nGLORY BRIDGE | SMAX | 50,077 | 2001 / JAPAN | 7.5 | CHINESE BUYERS\nARKLOW SPIRIT | HANDY | 34,905 | 2013 / S. KOREA | 16.6 | UNDISCLOSED\nSEGMENT (AVG) | 2022 | 2023 | 2024 | 2025 | 2026 YTD\n--- | --- | --- | --- | --- | ---\nCAPESIZE | $22,350 | $16,300 | $22,715 | $21,650 | $34,500\nPANAMAX | $20,550 | $14,725 | $16,355 | $14,385 | $17,650\nSUPRAMAX | $20,450 | $14,570 | $16,300 | $14,250 | $18,000\nHANDY | $20,770 | $12,300 | $13,875 | $12,655 | $15,000",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "japan",
+        "buyers",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 514,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s09_tankers_bdti_2_777_9_56_w_o_w",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "TANKERS | BDTI: 2,777 ▼+9.56% (w-o-w)",
+      "section_path": [
+        "TANKERS | BDTI: 2,777 ▼+9.56% (w-o-w)"
+      ],
+      "section_path_text": "TANKERS | BDTI: 2,777 ▼+9.56% (w-o-w)",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The prolonged regional disruptions continue to generate remarkable freight earnings for crude carriers, keeping owner returns exceptionally high. During the second quarter, spot earnings for VLCC's reached an average of US$126,800's per day, nearly tripling the US$44,981 recorded in the same period last year, and have maintained solid momentum into the third quarter at US$125,400's per day with 83% of available fleet days already secured.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "lpg",
+        "gas",
+        "day",
+        "continue",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s10_segment_highlights",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Segment Highlights",
+      "section_path": [
+        "Segment Highlights"
+      ],
+      "section_path_text": "Segment Highlights",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "**VLCC:** MEG reached historic territory as fierce competition for September stems and severe tonnage shortages from Strait of Hormuz transit risks drove Middle East-China rates up nearly 22% to record daily TCE levels with the route now closing at WS623. In the Atlantic, 260,000mt WAFR/China saw a slight discount with rates ending lower at WS205.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 346,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s11_baltic_tanker_indices",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Baltic Tanker Indices",
+      "section_path": [
+        "Baltic Tanker Indices"
+      ],
+      "section_path_text": "Baltic Tanker Indices",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "BDTI 2,777 | BCTI 1,387\n--- | ---\nWoW: -7.56% | WoW: +2.89%\nYoY: +166.25% | YoY: +125.53%",
+      "keywords": [
+        "wow",
+        "yoy",
+        "bcti",
+        "bdti"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s12_vessel_values_usd_million",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Vessel Values (USD Million)",
+      "section_path": [
+        "Vessel Values (USD Million)"
+      ],
+      "section_path_text": "Vessel Values (USD Million)",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "TYPE | DWT | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS\n--- | --- | --- | --- | --- | --- | ---\nVLCC | 310,000 | $130M | $175M | $141M (E) | $112M (E) | $64M\nSUEZMAX | 160,000 | $90M | $115M | $95M (E) | $85M (E) | $56M\nAFRAMAX | 115,000 | $78M | $95M | $80M (E) | $70M (E) | $51M\nLR1 | 73,000 | $67M | $74M | $64M (E) | $55M (E) | $33M\nMR | 51,000 | $51M | $60M | $49M (E) | $40M (E) | $30M",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "yrs",
+        "contract",
+        "dwt",
+        "lr1",
+        "prompt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s13_sale_purchase_reported_fixtures",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Sale & Purchase - Reported Fixtures",
+      "section_path": [
+        "Sale & Purchase - Reported Fixtures"
+      ],
+      "section_path_text": "Sale & Purchase - Reported Fixtures",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "VESSEL | TYPE | DWT | YEAR / BUILT | PRICE (USD) | BUYER\n--- | --- | --- | --- | --- | ---\nHIPPOLYTA | VLCC | 320,013 | 2011 / CHINA | N/A | SINOKOR MARITIME\nHELLSTUGUTINDEN | VLCC | 299,095 | 2003 / JAPAN | 57.0 | INDONESIAN BUYERS\nGRIT | VLCC | 298,555 | 2003 / S. KOREAN BUYERS\nSEASENATOR | AFRA | 105,715 | 2007 / JAPAN | 30.0 | UNDISCLOSED\nSAI | AFRA | 105,200 | 2004 / S.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "japan",
+        "crude_oil",
+        "buyers",
+        "afra"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 420,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s14_containers",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "CONTAINERS",
+      "section_path": [
+        "CONTAINERS"
+      ],
+      "section_path_text": "CONTAINERS",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "Container shipping market continued its climb this week as the SCFI rose to 3,509.54 points. Spot rates were primarily underpinned by tight vessel capacity and resilient demand across the Americas and South America, where carrier-initiated General Rate Increases and Peak Season Surcharges lifted East Coast rates by 9.6% and West Coast rates by 13.2%.",
+      "keywords": [
+        "container",
+        "china",
+        "singapore",
+        "million",
+        "teu",
+        "port",
+        "coast",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 370,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s15_vessel_values_usd_million",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Vessel Values (USD Million)",
+      "section_path": [
+        "Vessel Values (USD Million)"
+      ],
+      "section_path_text": "Vessel Values (USD Million)",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "SIZE (TEU) | TYPE | NB CONTRACT | NB PROMPT | 5 YRS | 10 YRS | 15 YRS\n--- | --- | --- | --- | --- | --- | ---\n900 - 1,200 | Geared | $25M | $29M | $23M | $18M | $12M\n1,600 - 1,850 | Gearless | $32M | $38M | $30M (E) | $25M (E) | $18M\n2,700 - 2,900 | Gearless | $44M | $46M | $40M | $35M | $26M\n5,100 - 5,300 | Gearless | $55M | $79M | $64M | - | $39M",
+      "keywords": [
+        "container",
+        "gearless",
+        "yrs",
+        "contract",
+        "geared",
+        "prompt",
+        "size",
+        "teu"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s16_vessel_type_teu_year_built_price_usd_m_buyer",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "VESSEL TYPE TEU YEAR / BUILT PRICE (USD M) BUYER",
+      "section_path": [
+        "VESSEL TYPE TEU YEAR / BUILT PRICE (USD M) BUYER"
+      ],
+      "section_path_text": "VESSEL TYPE TEU YEAR / BUILT PRICE (USD M) BUYER",
+      "level": 1,
+      "ordinal": 16,
+      "summary": "FITZ ROY FEEDER 1,740 2011 / CHINA 27.0 UNDISCLOSED\nSEGMENT (AVG) | 2022 | 2023 | 2024 | 2025 | 2026 YTD\n--- | --- | --- | --- | --- | ---\n1000 TEU | $29,580 | $10,950 | $11,900 | $16,150 | $17,550\n1,700 TEU | $44,585 | $13,050 | $18,580 | $27,325 | $30,000\n2,750 TEU | $63,500 | $16,450 | $27,475 | $37,900 | $40,500\n9,000 TEU | $145,525 | $51,700 | $75,775 | $107,025 | $112,000",
+      "keywords": [
+        "container",
+        "china",
+        "teu",
+        "avg",
+        "feeder",
+        "fitz",
+        "roy",
+        "segment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s17_current_market_snapshot_usd_ldt",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Current Market Snapshot (USD / LDT)",
+      "section_path": [
+        "Current Market Snapshot (USD / LDT)"
+      ],
+      "section_path_text": "Current Market Snapshot (USD / LDT)",
+      "level": 1,
+      "ordinal": 17,
+      "summary": "DESTINATION | TANKERS | BULKERS | GENERAL CARGO | CONTAINERS | OUTLOOK / SENTIMENTS\n--- | --- | --- | --- | --- | ---\nALANG, INDIA | $440-450 | $430-440 | $420-430 | $470-480 | STABLE /\nCHATTOGRAM, BANGLADESH | $490-500 | $460-470 | $450-460 | $500-510 | BULLISH /\nGADDANI, PAKISTAN | $520-530 | $510-520 | $490-500 | $540-550 | BULLISH /\nALIAGA, TURKEY* | $300-310 | $290-300 | $270-280 | $310-320 | STABLE /\n** Turkey prices for non-EU ships. US$20-30/ton less.* *All prices are USD per light displacement tonnage (long ton), net prices offered by recycling yards.",
+      "keywords": [
+        "container",
+        "india",
+        "japan",
+        "prices",
+        "are",
+        "cargo",
+        "quality",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s18_5_year_historical_average_prices_week_35",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "5-Year Historical Average Prices (Week 35)",
+      "section_path": [
+        "5-Year Historical Average Prices (Week 35)"
+      ],
+      "section_path_text": "5-Year Historical Average Prices (Week 35)",
+      "level": 1,
+      "ordinal": 18,
+      "summary": "DESTINATION | 2021 | 2022 | 2023 | 2024 | 2025\n--- | --- | --- | --- | --- | ---\nALANG, INDIA | 550 | 550 | 500 | 500 | 440\nCHATTOGRAM, BANGLADESH | 580 | 620 | 510 | 510 | 410\nGADDANI, PAKISTAN | 595 | 590 | 520 | 500 | 440\nALIAGA, TURKEY | 300 | 300 | 310 | 340 | 290",
+      "keywords": [
+        "india",
+        "alang",
+        "aliaga",
+        "bangladesh",
+        "chattogram",
+        "destination",
+        "gaddani",
+        "pakistan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 127,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s19_reported_sales",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Reported Sales",
+      "section_path": [
+        "Reported Sales"
+      ],
+      "section_path_text": "Reported Sales",
+      "level": 1,
+      "ordinal": 19,
+      "summary": "VESSEL NAME | TYPE | LDT | YEAR / BUILT | PRICE (US/LDT) | COMMENTS\n--- | --- | --- | --- | --- | ---\nCRIMSOM SATURN | WOOD CHIP CARRIER | 9,759 | 2001 / JAPAN | 496 | DELIVERED CHATTOGRAM, ABOUT 200 TONS ROBS INCLUDED. BURSA | TANKER | 15,945 | 1999 / JAPAN | 479 | DELIVERED CHATTOGRAM\nATHENA | TANKER | 2,557 | 1992 / JAPAN | 540 | DELIVERED CHATTOGRAM",
+      "keywords": [
+        "japan",
+        "chattogram",
+        "delivered",
+        "athena",
+        "built",
+        "bursa",
+        "carrier",
+        "chip"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s20_market_insights",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Market Insights",
+      "section_path": [
+        "Market Insights"
+      ],
+      "section_path_text": "Market Insights",
+      "level": 1,
+      "ordinal": 20,
+      "summary": "**Alang, India:** Alang maintained a steady week, with keen buying interest driving a noticeable improvement in sentiment. Supported by an active recovery in local scrap demand, domestic plate prices settled at 41,000 rupees/MT by Friday.",
+      "keywords": [
+        "container",
+        "india",
+        "steel",
+        "alang",
+        "domestic",
+        "cushion",
+        "expanding",
+        "fundamentals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 273,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s21_alang_anchorage_beaching_position_august_2026",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Alang Anchorage & Beaching Position - August 2026",
+      "section_path": [
+        "Alang Anchorage & Beaching Position - August 2026"
+      ],
+      "section_path_text": "Alang Anchorage & Beaching Position - August 2026",
+      "level": 1,
+      "ordinal": 21,
+      "summary": "VESSEL | TYPE | LDT | ARRIVAL | BEACHING\n--- | --- | --- | --- | ---\nBLE IN | LPG CARRIER | 18,848 | 23.08.2026 | 26.08.2026\nFRIO NARUTO | REEFER | 5,685 | 15.08.2026 | 19.08.2026\nCUTTA | TANKER | 11,552 | 09.08.2026 | 12.08.2206\nFT ISLAND | VLCC | 43,402 | 31.07.2027 | 04.08.2026\n**Chattogram, Bangladesh:** Chattogram maintained a measured course through the week, with price indications holding broadly unchanged despite a slight softening in local steel trading. Domestic steel plate valuations offered no fresh momentum, remaining flat throughout the week at 64,000 taka (~US$522).",
+      "keywords": [
+        "vlcc",
+        "lpg",
+        "steel",
+        "gas",
+        "bangladesh",
+        "fresh",
+        "taka",
+        "ample"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s22_chattogram_anchorage_beaching_position_august_2026",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Chattogram Anchorage & Beaching Position - August 2026",
+      "section_path": [
+        "Chattogram Anchorage & Beaching Position - August 2026"
+      ],
+      "section_path_text": "Chattogram Anchorage & Beaching Position - August 2026",
+      "level": 1,
+      "ordinal": 22,
+      "summary": "VESSEL | TYPE | LDT | ARRIVAL | BEACHING\n--- | --- | --- | --- | ---\nGLOW | FPSO | 27,824 | 27.08.2026 | AWAITING\nORANGE LINK | BULKER | 3,845 | 22.08.2026 | AWAITING\nPARAM | BULKER | 9,520 | 20.08.2026 | AWAITING\nTHAN | WOODCHIP | 6,356 | 21.08.2026 | AWAIITNG\nBURSA | TANKER | 15,965 | 22.08.2026 | 27,08.2026\nWANTONG 498 | GENERAL CARGO | 1,589 | 16.08.2026 | 25.08.2026\nSU SHUN | LPG | 1,660 | 01.08.2026 | 14.08.2025\nAVUNDA REEFER | REEFER | 4,085 | 31.07.2026 | 13.08.2025\nGAS II | LPG | 2,213 | 29.07.2026 | 04.08.2026\n**Gaddani, Pakistan:** Gadani maintained a fundamentally sound week, absorbing a mild price correction following the sharp, aggressive upward revisions seen in the preceding week. Despite this slight pause in pricing momentum, sentiment remains distinctly upbeat, with local breakers actively pursuing viable candidates to satisfy ongoing domestic scrap requirements.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "awaiting",
+        "domestic",
+        "pakistan",
+        "bank",
+        "billion",
+        "bulker"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 522,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s23_gaddani_anchorage_beaching_position_august_2026",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Gaddani Anchorage & Beaching Position - August 2026",
+      "section_path": [
+        "Gaddani Anchorage & Beaching Position - August 2026"
+      ],
+      "section_path_text": "Gaddani Anchorage & Beaching Position - August 2026",
+      "level": 1,
+      "ordinal": 23,
+      "summary": "",
+      "keywords": [
+        "arrival",
+        "beaching",
+        "ldt",
+        "type",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s24_lyra_tanker_4_990_21_08_2026",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "LYRA TANKER 4,990 21.08.2026",
+      "section_path": [
+        "LYRA TANKER 4,990 21.08.2026"
+      ],
+      "section_path_text": "LYRA TANKER 4,990 21.08.2026",
+      "level": 1,
+      "ordinal": 24,
+      "summary": "**Aliaga, Turkey:** Aliaga experienced another quiet and steady week, with domestic steel plate prices holding flat and general trading sentiment showing minimal movement across the waterfront. Local recycling plots continue to maintain a selective and watchful stance, as the lack of momentum in domestic finished steel values leaves little room to improve vessel purchase bids or compete aggressively for scarce international tonnage.",
+      "keywords": [
+        "steel",
+        "domestic",
+        "september",
+        "aliaga",
+        "august",
+        "local",
+        "aggressively",
+        "alang"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s25_sub_continent_turkey_scrap_markets",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "SUB-CONTINENT & TURKEY SCRAP MARKETS",
+      "section_path": [
+        "SUB-CONTINENT & TURKEY SCRAP MARKETS"
+      ],
+      "section_path_text": "SUB-CONTINENT & TURKEY SCRAP MARKETS",
+      "level": 1,
+      "ordinal": 25,
+      "summary": "**India:** Imported containerised scrap firmed on stronger domestic pricing and post-monsoon demand optimism, though the Raksha Bandhan holiday curbed immediate deal volumes. European offers held at US$410-415/t for shredded and US$350-360/t for HMS, while Australian quotes to Chennai were indicated at US$335-345/t for HMS and US$365-375/t for shredded.",
+      "keywords": [
+        "container",
+        "australia",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "cfr",
+        "hms"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 417,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s26_commodities_focus",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Commodities Focus",
+      "section_path": [
+        "Commodities Focus"
+      ],
+      "section_path_text": "Commodities Focus",
+      "level": 1,
+      "ordinal": 26,
+      "summary": "**Copper** futures advanced above US$6.7 per pound to establish a fresh historical peak, driven by persistent global supply constraints and sustained cargo diversions toward the United States ahead of potential tariff decisions. This upward momentum is further reinforced by London Metal Exchange inventories shrinking by nearly half since mid-May, acute concentrate shortages among Chinese smelters, and flooding at the Kamoa-Kakula operation in the Democratic Republic of Congo, which threatens to trim Zijin Mining's production share by as much as 57,000 tons this year.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "per",
+        "cny",
+        "prices",
+        "ton",
+        "toward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s27_iron_ore",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Iron Ore",
+      "section_path": [
+        "Iron Ore"
+      ],
+      "section_path_text": "Iron Ore",
+      "level": 1,
+      "ordinal": 27,
+      "summary": "COMMODITY (USD/MT) | GRADE | THIS WEEK | LAST WEEK | LAST YEAR | WoW | YoY\n--- | --- | --- | --- | --- | --- | ---\nIron Ore Lumps, CNF Rizhao | Fe 64/63% (S. Africa) | $108 | $105 | $103 | +2.85% | +4.85%\nIron Ore Fines, CNF Qingdao | Fe 62.5% (Brazil) | $98 | $95 | $98 | +3.15% | 0%",
+      "keywords": [
+        "brazil",
+        "iron_ore",
+        "cnf",
+        "iron",
+        "last",
+        "ore",
+        "africa",
+        "commodity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s28_industrial_metal_rates",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Industrial Metal Rates",
+      "section_path": [
+        "Industrial Metal Rates"
+      ],
+      "section_path_text": "Industrial Metal Rates",
+      "level": 1,
+      "ordinal": 28,
+      "summary": "INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT\n--- | --- | --- | --- | --- | ---\nCopper (Comex) | USD / lb. | 673.70 | +4.80 | +0.72% | DEC 2026\n3Mo Copper (LME) | USD / MT | 14,282.50 | +29.50 | +0.21% | N/A\n3Mo Aluminium (LME) | USD / MT | 3,234.50 | +9.50 | +0.29% | N/A\n3Mo Zinc (LME) | USD / MT | 3,884.00 | -9.00 | -0.23% | N/A\n3Mo Tin (LME) | USD / MT | 55,354.00 | +527.00 | +0.96% | N/A",
+      "keywords": [
+        "usd",
+        "lme",
+        "n/a",
+        "change",
+        "copper",
+        "aluminium",
+        "comex",
+        "contract"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s29_crude_oil_natural_gas",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Crude Oil & Natural Gas",
+      "section_path": [
+        "Crude Oil & Natural Gas"
+      ],
+      "section_path_text": "Crude Oil & Natural Gas",
+      "level": 1,
+      "ordinal": 29,
+      "summary": "INDEX | UNITS | PRICE | CHANGE | % CHANGE | CONTRACT\n--- | --- | --- | --- | --- | ---\nWTI Crude Oil (Nymex) | USD / bbl. | 82.98 | -0.55 | -0.66% | OCT 2026\nBrent Crude (ICE) | USD / bbl.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "crude",
+        "oct",
+        "usd",
+        "bbl.",
+        "change",
+        "nymex"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s30_exchange_rates",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Exchange Rates",
+      "section_path": [
+        "Exchange Rates"
+      ],
+      "section_path_text": "Exchange Rates",
+      "level": 1,
+      "ordinal": 30,
+      "summary": "CURRENCY PAIR | AUGUST 21 | AUGUST 28 | WoW %\n--- | --- | --- | ---\nUSD / CNY (China) | 6.72 | 6.72 | 0.00%\nUSD / BDT (Bangladesh) | 122.24 | 123.28 | -0.85%\nUSD / INR (India) | 95.74 | 95.51 | +0.24%\nUSD / PKR (Pakistan) | 277.57 | 277.50 | +0.03%\nUSD / TRY (Turkey) | 48.01 | 48.14 | -0.27%",
+      "keywords": [
+        "china",
+        "india",
+        "usd",
+        "august",
+        "bangladesh",
+        "bdt",
+        "cny",
+        "currency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__s31_bunker_prices_usd_ton",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35__root",
+      "title": "Bunker Prices (USD / ton)",
+      "section_path": [
+        "Bunker Prices (USD / ton)"
+      ],
+      "section_path_text": "Bunker Prices (USD / ton)",
+      "level": 1,
+      "ordinal": 31,
+      "summary": "PORT | VLSFO (0.5%) | HSFO (3.5%) | MGO (0.1%)\n--- | --- | --- | ---\nSINGAPORE | $777 | $634 | $1134\nHONG KONG | $799 | $669 | $1156\nFUJAIRAH | $780 | $621 | $1388\nROTTERDAM | $662 | $530 | $1299\nHOUSTON | $690 | $472 | $1253\n**Singapore | London | Dubai** **Tel:** +65 62277264 / 65 |**Email:** <u>snp@starasiasg.com</u>| **Web:** <u>www.star-asia.com.sg</u> *(A Member of BIMCO, The Baltic Exchange and Singapore Shipping Association)* For <u>Privacy Policy</u> *This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place referred to,* *and we emphasise that it is a statement of information collected from various market sources.",
+      "keywords": [
+        "europe",
+        "singapore",
+        "information",
+        "any",
+        "given",
+        "star",
+        "asia",
+        "based"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 354,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

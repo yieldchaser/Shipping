@@ -1,0 +1,223 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+  "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+  "parent_id": null,
+  "title": "ISM coasters and mini bulkers - Week 35",
+  "section_path": [
+    "ISM coasters and mini bulkers - Week 35"
+  ],
+  "section_path_text": "ISM coasters and mini bulkers - Week 35",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "ISM coasters and mini bulkers - Week 35\n**Broker**: General Broker\n**Published Date**: 31/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-35-2/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-35-2/)\n\nCHARTERING MARKET AT HAND: HANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 35\n**Handysize/Supramax sentiment keeps improving in USG, Continent and Asia- Pacific, while pressure is mounting in the Mediterranean and ECSA markets**\nIn the USG, demand for Supramax/Ultramax tonnage is gradually picking up this week. While owners are attempting to push rates higher when negotiating fronthaul routes, this is off the table for transatlantic and short inter-Caribs trips. Competition for these cargoes remains quite fierce among owners, as most prefer to keep their carriers within the Atlantic while waiting for the US grain export season to kick off.",
+  "keywords": [
+    "supramax",
+    "handysize",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "iron_ore",
+    "grain",
+    "steel",
+    "cargo",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1905,
+  "source_path": "reports/broker_reports/2026/general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35.md",
+  "source_url": "https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-35-2/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__s01_ism_coasters_and_mini_bulkers_week_35",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+      "title": "ISM coasters and mini bulkers - Week 35",
+      "section_path": [
+        "ISM coasters and mini bulkers - Week 35"
+      ],
+      "section_path_text": "ISM coasters and mini bulkers - Week 35",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 31/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-35-2/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-35-2/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-35-2",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__s02_chartering_market_at_hand_handysize_and_supramax_ultramax_week_35",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+      "title": "CHARTERING MARKET AT HAND: HANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 35",
+      "section_path": [
+        "CHARTERING MARKET AT HAND: HANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 35"
+      ],
+      "section_path_text": "CHARTERING MARKET AT HAND: HANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 35",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "**Handysize/Supramax sentiment keeps improving in USG, Continent and Asia- Pacific, while pressure is mounting in the Mediterranean and ECSA markets**\nIn the USG, demand for Supramax/Ultramax tonnage is gradually picking up this week. While owners are attempting to push rates higher when negotiating fronthaul routes, this is off the table for transatlantic and short inter-Caribs trips.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "atlantic",
+        "pacific",
+        "europe",
+        "grain",
+        "owners",
+        "usg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 409,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__s03_scrap_sf_55_58_40_45_000_t_arag_turkiye_8000x_7000c_t",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+      "title": "Scrap (sf 55-58`), 40-45,000 t, ARAG-Turkiye (8000x/7000c), $/t",
+      "section_path": [
+        "Scrap (sf 55-58`), 40-45,000 t, ARAG-Turkiye (8000x/7000c), $/t"
+      ],
+      "section_path_text": "Scrap (sf 55-58`), 40-45,000 t, ARAG-Turkiye (8000x/7000c), $/t",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "38 2024 year 2025 year 2026 year 35 32 29 26",
+      "keywords": [
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__s04_wheat_25_30_000_t_constanta_tarragona_8000x_8000x_t",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+      "title": "Wheat, 25-30,000 t, Constanta-Tarragona (8000x/8000x), $/t",
+      "section_path": [
+        "Wheat, 25-30,000 t, Constanta-Tarragona (8000x/8000x), $/t"
+      ],
+      "section_path_text": "Wheat, 25-30,000 t, Constanta-Tarragona (8000x/8000x), $/t",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "31 2024 year 2025 year 2026 year 28 25 22 19 16 13 10 1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 week 49 52\nthe week. The local Supramax segment is looking more stable; notably, owners are being quite aggressive in their freight ideas for trips toward the EMed, as they are reluctant to reposition their vessels to that area.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "iron_ore",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 754,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__s05_tct_rates_dynamics_day",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+      "title": "TCT rates dynamics, $/day",
+      "section_path": [
+        "TCT rates dynamics, $/day"
+      ],
+      "section_path_text": "TCT rates dynamics, $/day",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "30000 25000 20000 15000 10000 5000 0 36 39 42 45 48 51 2 5 8 11 14 17 20 23 26 29 32 35 Handysize, BlSea-EMed (bss dely psg Canakkale) Supramax, ECSA-Cont (bss dely APS) week Supramax, Continent-EMed (bss dely APS) Supramax, PG (excl. I/I) - India (bss dely APS) Handysize, Continent-EMed (bss dely APS) Supramax, Indo-India (bss dely Spore)",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "europe",
+        "india",
+        "bss",
+        "dely",
+        "aps",
+        "continent-emed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__s06_ukrainian_corn_weight_of_freight_in_cfr_egypt_price",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+      "title": "Ukrainian corn: weight of freight in CFR Egypt price",
+      "section_path": [
+        "Ukrainian corn: weight of freight in CFR Egypt price"
+      ],
+      "section_path_text": "Ukrainian corn: weight of freight in CFR Egypt price",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "500 US corn, CFR China, Smx/Pmx lot 50% Freight rate, corn, 50-55,000t, USG-S.China, $/t 400 % of freight costs in CFR price 40%\n**rate, $/t** 300 30%\n200 20%\n**Price / Freight** 100 10%\n0 0% 35 39 43 47 51 3 7 11 15 19 23 27 31 35 **week**\n<u>Click here to see 300+ detailed Handysize and</u> <u>Supramax/Ultramax freight rates and dynamics on</u> <u>major routes</u>\n<u>ismreport.com</u> International Seaborne Market, August 31, 2026",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "china",
+        "grain",
+        "cfr",
+        "corn",
+        "price",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__s07_u_ism_freight_chartering_u",
+      "doc_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35",
+      "parent_id": "broker_reports_broker_report_2026-08-31_general_broker_31_08_2026_ism_coasters_and_mini_bulkers_week_35__root",
+      "title": "<u>ISM Freight & Chartering</u>",
+      "section_path": [
+        "<u>ISM Freight & Chartering</u>"
+      ],
+      "section_path_text": "<u>ISM Freight & Chartering</u>",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "##### Head of Freight Analytic Department, Pavel Sosnovsky\n<u>p.sosnovsky@metalexpert.com</u> +38 (050) 635 98 01\n##### Sales & Support Manager, Anna Bavbekova\n<u>a.bavbekova@metalexpert.com</u> +38 (067) 798 82 70\n**This document is for information purposes only. The information contained in this document has** **been compiled from sources believed to be reliable.",
+      "keywords": [
+        "metal",
+        "expert",
+        "any",
+        "data",
+        "document",
+        "information",
+        "may",
+        "metalexpert.com"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T19:25:40Z",
+  "generated_at": "2026-08-31T21:06:45Z",
   "current_date": "2026-08-31",
   "corpus": {
-    "document_count": 8811,
-    "chunk_count": 101464,
-    "section_count": 30972,
+    "document_count": 8819,
+    "chunk_count": 101643,
+    "section_count": 31121,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10

@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error__root",
+  "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error",
+  "parent_id": null,
+  "title": "Gibson tanker report - No Margin for Error",
+  "section_path": [
+    "Gibson tanker report - No Margin for Error"
+  ],
+  "section_path_text": "Gibson tanker report - No Margin for Error",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Gibson tanker report - No Margin for Error\n**Broker**: General Broker\n**Published Date**: 29/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error/](https://www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error/)\n\nMarket Report Content\nin Weekly Shipbrokers Reports\n29/08/2026\nUS refinery maintenance typically peaks in October, a season that has historically weighed on freight. This year appears different\nSource: GIBSON SHIPBROKERS LTD",
+  "keywords": [
+    "broker",
+    "gibson",
+    "https",
+    "shipbrokers",
+    "source",
+    "www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error",
+    "appears",
+    "content",
+    "date",
+    "different",
+    "error",
+    "freight."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 129,
+  "source_path": "reports/broker_reports/2026/general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error.md",
+  "source_url": "https://www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error__s01_gibson_tanker_report_no_margin_for_error",
+      "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error",
+      "parent_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error__root",
+      "title": "Gibson tanker report - No Margin for Error",
+      "section_path": [
+        "Gibson tanker report - No Margin for Error"
+      ],
+      "section_path_text": "Gibson tanker report - No Margin for Error",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 29/08/2026\n**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error/](https://www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 64,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error",
+      "parent_id": "broker_reports_broker_report_2026-08-29_general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "in Weekly Shipbrokers Reports\n29/08/2026\nUS refinery maintenance typically peaks in October, a season that has historically weighed on freight. This year appears different\nSource: GIBSON SHIPBROKERS LTD",
+      "keywords": [
+        "shipbrokers",
+        "appears",
+        "different",
+        "freight.",
+        "gibson",
+        "historically",
+        "ltd",
+        "maintenance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
