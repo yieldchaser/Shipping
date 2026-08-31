@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:33:18.644876+00:00",
+  "generated_at": "2026-08-31T21:50:40.938227+00:00",
   "brief_date": "2026-08-31",
   "constituent_holdings": {
     "bdry": {
@@ -7,48 +7,48 @@
         "name": "Capesize 5TC FFA 180kt Timecharter Average M Sep 26",
         "ticker": "C5TCM U26 INDEX",
         "lots": 155.0,
-        "price": 43457.0,
-        "market_value": 6735835.0,
-        "weight": 20.1
+        "price": 45557.0,
+        "market_value": 7061335.0,
+        "weight": 20.36
       },
       "next_contract": {
-        "name": "Capesize 5TC FFA 180kt Timecharter Average M Aug 26",
-        "ticker": "C5TCM Q26 INDEX",
-        "lots": 155.0,
-        "price": 39739.0,
-        "market_value": 6159545.0,
-        "weight": 18.38
+        "name": "Panamax 5TC FFA 82kt Timecharter Average M Sep 26",
+        "ticker": "P5TCM U26 INDEX",
+        "lots": 205.0,
+        "price": 22089.0,
+        "market_value": 4528245.0,
+        "weight": 13.06
       },
-      "implied_roll_yield_pct": 8.56,
+      "implied_roll_yield_pct": 51.51,
       "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Sep 26 settling above $43,457/day with 8.6% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 25.7% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on Capesize 5TC FFA 180kt Timecharter Average M Sep 26 settling above $45,557/day with 51.5% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 154.5% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
-      "total_active_contracts": 15
+      "total_active_contracts": 12
     },
     "bwet": {
       "prompt_contract": {
         "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26",
         "ticker": "DD3CM U26 INDEX",
         "lots": 290.0,
-        "price": 120.734,
-        "market_value": 35012860.0,
-        "weight": 29.09
+        "price": 120.872,
+        "market_value": 35052880.0,
+        "weight": 29.43
       },
       "next_contract": {
         "name": "TD3C FFA 270kt Middle East Gulf to China USD/MT M Nov 26",
         "ticker": "DD3CM X26 INDEX",
         "lots": 242.0,
-        "price": 107.211,
-        "market_value": 25945062.0,
-        "weight": 21.55
+        "price": 107.817,
+        "market_value": 26091714.0,
+        "weight": 21.9
       },
-      "implied_roll_yield_pct": 11.2,
+      "implied_roll_yield_pct": 10.8,
       "curve_regime": "BACKWARDATION_CARRY",
-      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26 settling above WS 120.7 (~$120,734/d) with 11.2% monthly backwardation carry.",
-      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 33.6% cumulative 3-month backwardation carry.",
+      "holding_bet_summary_30d": "30-Day Hold: Direct bet on TD3C FFA 270kt Middle East Gulf to China USD/MT M Sep 26 settling above WS 120.9 (~$120,872/d) with 10.8% monthly backwardation carry.",
+      "holding_bet_summary_90d": "90-Day Hold: Traverses prompt through Q-strip. Requires spot to beat 32.4% cumulative 3-month backwardation carry.",
       "holding_bet_summary_180d": "180-Day Hold: Seasonal cycle traversal. Requires seasonal demand peak to overcome cumulative roll friction and 1.45% OER.",
-      "total_active_contracts": 10
+      "total_active_contracts": 8
     }
   },
   "generation": {
@@ -144,13 +144,13 @@
       "momentum_grade": "UP",
       "positioning_bias": "NEUTRAL",
       "confidence_score": 0.45,
-      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 1 pos/2 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
-      "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:6). Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 1 pos/2 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "confluence_note": "Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
+      "summary": "Dry Bulk is in distribution regime at 3083.0, with z-score +1.85sigma and ROC60 -2.2%. Recent analyst sentiment skews neutral (neutral:6). Signal alignment is mixed for dry bulk (Z=+1.85sigma); conviction remains limited. Of 6 Breakwave reports: Sentiment 0 pos/0 neg/6 neu; Momentum 2 pos/1 neg/3 neu; Fundamentals 0 pos/0 neg/6 neu.",
       "key_signals": [
         "Quant: BDI value=3083.0, z=+1.85sigma, 5Y percentile=92.1%.",
         "Qual: last 6 reports sentiment mix -> neutral:6.",
         "Cross-check: CAPESIZE value=5105.0, z=+1.85sigma.",
-        "Latest report 2026-08-18: momentum=neutral, fundamentals=neutral."
+        "Latest report 2026-09-01: momentum=positive, fundamentals=neutral."
       ],
       "trade_idea": "No high-conviction setup: Maintain neutral book positioning and await decisive alignment between momentum and freight fundamentals.",
       "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
@@ -158,12 +158,12 @@
       "watch": "Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment.",
       "risk_note": "A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime.",
       "report_dates": [
+        "2026-09-01",
         "2026-08-18",
         "2026-08-04",
         "2026-07-21",
         "2026-07-07",
-        "2026-06-23",
-        "2026-06-09"
+        "2026-06-23"
       ]
     },
     "tanker": {
@@ -201,12 +201,12 @@
     "positioning_recommendation": "Overweight Dry Bulk (BDI/Capesize) relative to Tanker assets on favorable commodity restocking momentum."
   },
   "sources": [
+    "breakwave_drybulk_2026-09-01",
     "breakwave_drybulk_2026-08-18",
     "breakwave_drybulk_2026-08-04",
     "breakwave_drybulk_2026-07-21",
     "breakwave_drybulk_2026-07-07",
     "breakwave_drybulk_2026-06-23",
-    "breakwave_drybulk_2026-06-09",
     "breakwave_tankers_2026-08-25",
     "breakwave_tankers_2026-08-11",
     "breakwave_tankers_2026-07-28",
