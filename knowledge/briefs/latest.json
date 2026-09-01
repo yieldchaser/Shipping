@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:50:50.536654+00:00",
+  "generated_at": "2026-09-01T19:28:55.037771+00:00",
   "brief_date": "2026-09-01",
   "constituent_holdings": {
     "bdry": {
@@ -41,7 +41,7 @@
         "lots": 242.0,
         "price": 107.817,
         "market_value": 26091714.0,
-        "weight": 21.9
+        "weight": 21.91
       },
       "implied_roll_yield_pct": 10.8,
       "curve_regime": "BACKWARDATION_CARRY",
