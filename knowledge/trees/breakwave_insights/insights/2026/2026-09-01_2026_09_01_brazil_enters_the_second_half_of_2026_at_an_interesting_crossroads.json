@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-01_2026_09_01_brazil_enters_the_second_half_of_2026_at_an_interesting_crossroads__root",
+  "doc_id": "breakwave_insights_insights_2026-09-01_2026_09_01_brazil_enters_the_second_half_of_2026_at_an_interesting_crossroads",
+  "parent_id": null,
+  "title": "Brazil enters the second half of 2026 at an interesting crossroads",
+  "section_path": [
+    "Brazil enters the second half of 2026 at an interesting crossroads"
+  ],
+  "section_path_text": "Brazil enters the second half of 2026 at an interesting crossroads",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nBrazil enters the second half of 2026 at an interesting crossroads: the economy is losing momentum, yet the commodity engine underpinning its external sector continues to run at considerable speed. Domestic activity has clearly cooled from the strong start to the year, but for the seaborne economy, the more important story is that Brazil's mining and agricultural sectors remain remarkably resilient. In many respects, therefore, Brazil's second-half narrative is less about the pace of GDP growth than about the continued ability of its commodity base to generate large export volumes and sustain its trading links with Asia.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "iron_ore",
+    "grain",
+    "crude_oil",
+    "percent",
+    "july",
+    "domestic",
+    "its",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1697,
+  "source_path": "reports/breakwave/2026/2026-09-01_brazil-enters-the-second-half-of-2026-at-an-interesting-crossroads.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/1/brazil-enters-the-second-half-of-2026-at-an-interesting-crossroads",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-01_2026_09_01_brazil_enters_the_second_half_of_2026_at_an_interesting_crossroads__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-01_2026_09_01_brazil_enters_the_second_half_of_2026_at_an_interesting_crossroads",
+      "parent_id": "breakwave_insights_insights_2026-09-01_2026_09_01_brazil_enters_the_second_half_of_2026_at_an_interesting_crossroads__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nBrazil enters the second half of 2026 at an interesting crossroads: the economy is losing momentum, yet the commodity engine underpinning its external sector continues to run at considerable speed. Domestic activity has clearly cooled from the strong start to the year, but for the seaborne economy, the more important story is that Brazil's mining and agricultural sectors remain remarkably resilient.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "grain",
+        "crude_oil",
+        "percent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1695,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

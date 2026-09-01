@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__root",
+  "doc_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - September 1, 2026",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - September 1, 2026"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - September 1, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Steady Demand and Shrinking Vessel Supply Pushes Spot Higher - During the second half of August, robust iron ore transportation demand in the Pacific, driven by all three mining majors, combined with localized storm disruptions that tightened vessel lineups led to elevated freight rates on the critical Australia-to-China route. Concurrently, a constricted Atlantic tonnage list pushed spot rates upward despite softer regional demand, positioning the market advantageously from a higher absolute baseline as it transitions out of the historically quiet summer August month and into the seasonally strong autumn period. Additionally, metallurgical coal import demand jumped, following a major accident in China with traders scrambling to secure tonnage of medium-size bulkers.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2510,
+  "source_path": "reports/breakwave/2026/2026-09-01_912026db-report2septdryhht67.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/912026db-report2septdryhht67",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67",
+      "parent_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Steady Demand and Shrinking Vessel Supply Pushes Spot Higher - During the second half of August, robust iron ore transportation demand in the Pacific, driven by all three mining majors, combined with localized storm disruptions that tightened vessel lineups led to elevated freight rates on the critical Australia-to-China route. Concurrently, a constricted Atlantic tonnage list pushed spot rates upward despite softer regional demand, positioning the market advantageously from a higher absolute baseline as it transitions out of the historically quiet summer August month and into the seasonally strong autumn period.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 720,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__s02_linked_asset_2026_09_01_912026db_report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a_png",
+      "doc_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67",
+      "parent_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__root",
+      "title": "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png",
+      "section_path": [
+        "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png\n\nLinked image asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_727760a77d9a.png\n\nImage metadata: PNG 281x598 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nShort-term Indicators\nMomentum: Positive\nSentiment: Neutral\nFundamentals: Neutral\nBreakwave Dry 3351\nFutures Index:\n30D: 17.5% 4p\nYTD: 118.1% 4p\nYOY: 62.7% t\nBaltic Dry Index 3186\n(spot):\n30D: 16.6% t\nYTD: 69.7% t\nYOY: 57.4% 4p\nReuters: BDRY.K\nBloomberg: BDRY US\nExchange: NYSE\nBreakwave Advisors Research\nresearch @ breakwaveadvisors.",
+      "keywords": [
+        "asset",
+        "image",
+        "neutral",
+        "research",
+        "yoy",
+        "ytd",
+        "bdry",
+        "bdry.k"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 290,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__s03_linked_asset_2026_09_01_912026db_report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781_png",
+      "doc_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67",
+      "parent_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__root",
+      "title": "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png",
+      "section_path": [
+        "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png"
+      ],
+      "section_path_text": "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png\n\nLinked image asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0092583bd781.png\n\nImage metadata: PNG 930x553 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[structured table]\n| | | BREAKWAVE |\n|---|---|---|\n| | | ADVISORS |\n| | Baltic Dry Index (BDIY) vs Breakwave | Dry Futures Index (BDRYFF) |\n| | 4000 | |\n| | 3500 | |\n| | 3000 | |\n| | 2500 | |\n| | 2000 | |\n| | 1500 | |\n| | 1000 | |\n| | 500 | |\n| | (spot) | BDRYFF (futures) |\n| | 5 | |\n| | Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 | Apr-26 May-26 Jun-26 Jul-26 Aug-26 |\n| The | Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a | sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. |\n| The | Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts | with a sector weighting of 5036 Capesize, 40% Panamax and 10% |\n| | Supramax and a weighted average maturity of approximately 50-70 days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "bdryff",
+        "average",
+        "sector",
+        "weighting",
+        "bdiy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 649,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__s04_linked_asset_2026_09_01_912026db_report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7_png",
+      "doc_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67",
+      "parent_id": "breakwave_insights_insights_2026-09-01_2026_09_01_912026db_report2septdryhht67__root",
+      "title": "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png",
+      "section_path": [
+        "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png"
+      ],
+      "section_path_text": "Linked asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png\n\nLinked image asset: 2026-09-01_912026db-report2septdryhht67_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2bb3cabf2f7.png\n\nImage metadata: PNG 931x754 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDemand YTD YOY\nChina Steel Production 577mt\nChina Steel Inventories 4.9mt 12.1%\nChina Iron Ore Inventories 155mt 18.8%\nChina ron Ore import 737m\nChina Coal Imports 266mt\nChina Soybean Imports 6amt\nBrazil Iron Ore Exports 227mt\nAustralia Iron Ore Exports 468mt\nSupply\nDry Bulk Fleet 1093 mdwt\nFreight Rates\nBaltic Dry Index, Average 2,478 71.1%\nCapesize Spot Rates, Average 31,519 76.7%\nPanamax Spot rates, Average 17,905 50.0%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only. This report does not constitute and will not form part of and s",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 690,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
