@@ -1,0 +1,254 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+  "parent_id": null,
+  "title": "Xclusiv Shipbrokers Weekly 31st August 2026",
+  "section_path": [
+    "Xclusiv Shipbrokers Weekly 31st August 2026"
+  ],
+  "section_path_text": "Xclusiv Shipbrokers Weekly 31st August 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 31st August 2026\n**Broker**: Xclusiv\n**Published Date**: 01/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026/)\n\nWeek 35 31st August 2026\nAll data as of end of reporting week\n\nIN A NUTSHELL:\nDry bulk trade from the Black Sea has moved into a mark-\n- **Black Sea dry bulk exports fell 42% versus the preceding**\nedly weaker phase during the summer months, with ex-**spring period. (Page 1)** ports from Russia and Ukraine falling sharply compared\n- **Ukraine suffered the sharper contraction, with summer ex-**\nwith the preceding spring period. Based on Signal Ocean **ports declining by 49%.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8879,
+  "source_path": "reports/broker_reports/2026/xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s01_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "Xclusiv Shipbrokers Weekly 31st August 2026",
+      "section_path": [
+        "Xclusiv Shipbrokers Weekly 31st August 2026"
+      ],
+      "section_path_text": "Xclusiv Shipbrokers Weekly 31st August 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Xclusiv\n**Published Date**: 01/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url",
+        "xclusiv"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s02_week_35_31st_august_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "Week 35 31st August 2026",
+      "section_path": [
+        "Week 35 31st August 2026"
+      ],
+      "section_path_text": "Week 35 31st August 2026",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "All data as of end of reporting week",
+      "keywords": [
+        "all",
+        "data",
+        "end",
+        "reporting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s03_in_a_nutshell",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "IN A NUTSHELL:",
+      "section_path": [
+        "IN A NUTSHELL:"
+      ],
+      "section_path_text": "IN A NUTSHELL:",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Dry bulk trade from the Black Sea has moved into a mark-\n- **Black Sea dry bulk exports fell 42% versus the preceding**\nedly weaker phase during the summer months, with ex-**spring period. (Page 1)** ports from Russia and Ukraine falling sharply compared\n- **Ukraine suffered the sharper contraction, with summer ex-**\nwith the preceding spring period.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "grain",
+        "crude_oil",
+        "million",
+        "sea",
+        "black"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1160,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s04_freight_market_dry",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "Freight Market-Dry",
+      "section_path": [
+        "Freight Market-Dry"
+      ],
+      "section_path_text": "Freight Market-Dry",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "**Capesize**: The Capesize C5TC average improved by **$/dayCapesize 5TC** USD 7.1k/day closing the week at USD 44,896/ Capesize 5TC Average Min Max 100,000 day. Trip from Continent to F.East is up by 6.2k/ day at USD 80,417/day, Transatlantic R/V is higher 80,000 by 10k/day at USD 50,188/day, and Bolivar to 60,000 Rotterdam is higher by 10.7k/day at USD 56,458/ day, while Transpacific R/V is increased by 8.5k/ 40,000 day at USD 50,209/day.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s05_dry_newbuilding_prices_mills",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "Dry Newbuilding Prices ($ mills)",
+      "section_path": [
+        "Dry Newbuilding Prices ($ mills)"
+      ],
+      "section_path_text": "Dry Newbuilding Prices ($ mills)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Capesize Kamsarmax Ultramax Handysize 90 Aug Aug Average Prices Size ±% 80 2026 2025 2026 2025 2024\n2026 | 2025 | 2026 | 2025 | 2024\n--- | --- | --- | --- | --- | --- | ---\nCapesize | 76.0 | 74.0 | 3% | 74.9 | 74.2 | 73.2\nKamsarmax | 38.3 | 36.5 | 5% | 37.2 | 36.6 | 37.5\nUltramax | 36.0 | 36.0 | 0% | 34.8 | 35.9 | 35.1\nHandysize | 31.0 | 31.5 | -2% | 30.9 | 31.5 | 31.1\n70 60 50 40 30 20\n*Above prices/trends refer to Chinese shipbuilding* 10",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "china",
+        "aug",
+        "kamsarmax",
+        "ultramax",
+        "above",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s06_tanker_newbuilding_prices_mills",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "Tanker Newbuilding Prices ($ mills)",
+      "section_path": [
+        "Tanker Newbuilding Prices ($ mills)"
+      ],
+      "section_path_text": "Tanker Newbuilding Prices ($ mills)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "VLCC Suezmax Aframax Panamax MR2 Aug Aug Average Prices 140 Size ±% 2026 2025 2026 2025 2024\n2026 | 2025 | 2026 | 2025 | 2024\n--- | --- | --- | --- | --- | ---\nVLCC | 131.5 | 125.7 | 5% 130.3 | 126.6 | 129.4\nSuezmax | 93.0 | 86.7 | 7% 89.5 | 87.5 | 87.6\nAframax | 78.0 | 72.5 | 8% 75.4 | 73.0 | 72.7\nPanamax | 61.0 | 59.4 | 3% 59.4 | 59.5 | 60.2\nMR2 | 53.0 | 48.8 | 9% 51.2 | 49.3 | 50.2\n*Above prices/trends refer to S.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "aug",
+        "mr2",
+        "above",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s07_newbuilding_activity",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "Newbuilding Activity:",
+      "section_path": [
+        "Newbuilding Activity:"
+      ],
+      "section_path_text": "Newbuilding Activity:",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "NEWBUILDING ORDERS\n--- | --- | --- | --- | --- | --- | --- | ---\nTYPE | UNITS | SIZE | YARD | BUYER | PRICE ($ mills) | DELIVERY | COMMENTS\nBC | 2+4 | 325,000 DWT | QINGDAO BEIHAI | SHANDONG MARINE | 150 EACH | 2030 | 3 FUEL: ETHANOL, METH- ANOL & HSFO, LONG TC ATTACHED TO VALE\nBC | 2 | 64,000 DWT | COSCO HEAVY | VERITAS | N/A | H1 2030\nTANKER | 3 | 311,000 DWT | JMU | K-LINE | N/A | 2029\nTANKER | 2+3 | 41,000 DWT | ANHUI ZHONGRUN | MEDCARE | 42 EACH | 2028-29\nTANKER | 1 | 33,000 DWT | ANHUI ZHONGRUN | DM SHIPPING | N/A | 2028 | STST\nTANKER | 1 | 33,000 DWT | ANHUI ZHONGRUN | TAIKUN SHIPPING | N/A | 2028 | STST\nTANKER | 4+2 | 28,000 DWT | ZHOUSHAN NINGHING | YZJ ΜARITIME | 46 EACH | 2028-29 | STST\nLPG | 4 | 60,000 CBM | HD HYUNDAI | PASCO GAS | 92.5 EACH | 2030 | DF\nGAS | 1 | 35,000 CBM | NANTONG CIMC | ZHEJIANG JIAHUA ENERGY | 112 | Q4 2029 | HYDROCARBON CARRIER\nGAS | 1 | 6,000 CBM | CIMC SOE | SOGESTRAN | N/A | 2029 | LNG BUNKERING\nCONTAINER | 10 | 22,000 TEU | SWS | COSCO | N/A | 2029-30\nCONTAINER | 2 | 6,400 TEU | HENGLI | CENTROFIN | 80 EACH | 2028 | SCRUBBER FITTED\nCONTAINER | 2+2 | 5,300 TEU | HUANGPU WENCHONG | ASEAN SEAS LINES | N/A | 2029\nCONTAINER | 4 | 1,900 TEU | HUANG",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4456,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__s08_key_contacts",
+      "doc_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-01_xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026__root",
+      "title": "Key Contacts",
+      "section_path": [
+        "Key Contacts"
+      ],
+      "section_path_text": "Key Contacts",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Kifissias 342 Avenue, 15451 Psychico, Athens, Hellas. **T**: +30 210 6710222 **E**: snp@xclusiv.gr\nApostolos Archontakis Assets / SnP & NB apa@xclusiv.gr | Andreas Arfariotis Assets / SnP & NB ana@xclusiv.gr | Vasiliki Baka Assets / SnP & NB vb@xclusiv.gr\n--- | --- | ---\nNikos Berdelis Assets / SnP & Projects nsb@xclusiv.gr | John N.",
+      "keywords": [
+        "xclusiv.gr",
+        "snp",
+        "assets",
+        "any",
+        "research",
+        "shipbrokers",
+        "xclusiv",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 509,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

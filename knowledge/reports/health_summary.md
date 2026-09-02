@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-09-01T15:22:55Z'
+generated_at: '2026-09-02T12:54:13Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 6
@@ -8,9 +8,9 @@ warning_count: 6
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8823
-- Chunks: 101661
-- Sections: 31130
+- Documents: 8829
+- Chunks: 101785
+- Sections: 31176
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -18,20 +18,20 @@ warning_count: 6
 
 | Source | Latest | Age (days) | Cadence | Status | Latest Gap | Undated |
 |---|---|---:|---:|---|---:|---:|
-| breakwave/drybulk | 2026-09-01 | 0 | 14 | healthy | 14 | 0 |
-| breakwave/tankers | 2026-08-25 | 7 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-08-28 | 4 | 7 | healthy | 7 | 8 |
-| baltic/tanker | 2026-08-28 | 4 | 7 | healthy | 7 | 12 |
-| baltic/gas | 2026-08-28 | 4 | 7 | healthy | 7 | 0 |
-| baltic/container | 2026-08-28 | 4 | 7 | healthy | 7 | 0 |
-| baltic/ningbo | 2026-08-28 | 4 | 7 | healthy | 7 | 32 |
-| breakwave_insights/insights | 2026-09-01 | 0 | 14 | healthy | 0 | 0 |
-| hellenic/dry_charter | 2026-08-26 | 6 | 14 | healthy | 7 | 1 |
-| hellenic/tanker_charter | 2026-08-26 | 6 | 14 | healthy | 7 | 0 |
-| hellenic/iron_ore | 2026-08-26 | 6 | 14 | healthy | 1 | 0 |
-| hellenic/vessel_valuations | 2026-08-25 | 7 | 14 | healthy | 6 | 0 |
-| hellenic/demolition | 2026-08-29 | 3 | 21 | healthy | 1 | 2 |
-| hellenic/shipbuilding | 2026-08-11 | 21 | 21 | healthy | 7 | 0 |
+| breakwave/drybulk | 2026-09-01 | 1 | 14 | healthy | 14 | 0 |
+| breakwave/tankers | 2026-08-25 | 8 | 14 | healthy | 14 | 0 |
+| baltic/dry | 2026-08-28 | 5 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-08-28 | 5 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-08-28 | 5 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-08-28 | 5 | 7 | healthy | 7 | 0 |
+| baltic/ningbo | 2026-08-28 | 5 | 7 | healthy | 7 | 32 |
+| breakwave_insights/insights | 2026-09-01 | 1 | 14 | healthy | 0 | 0 |
+| hellenic/dry_charter | 2026-08-26 | 7 | 14 | healthy | 7 | 1 |
+| hellenic/tanker_charter | 2026-08-26 | 7 | 14 | healthy | 7 | 0 |
+| hellenic/iron_ore | 2026-08-26 | 7 | 14 | healthy | 1 | 0 |
+| hellenic/vessel_valuations | 2026-08-25 | 8 | 14 | healthy | 6 | 0 |
+| hellenic/demolition | 2026-08-29 | 4 | 21 | healthy | 1 | 2 |
+| hellenic/shipbuilding | 2026-08-11 | 22 | 21 | healthy | 7 | 0 |
 | books | undated | - | - | reference | - | 12 |
 
 ## Topic Coverage

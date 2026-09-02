@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T15:26:56Z",
+ "generated_at": "2026-09-02T12:56:39Z",
  "compiler_version": 2,
  "count": 81,
  "files": [
@@ -169,7 +169,7 @@
    "path": "knowledge/chunks/broker_reports_broker_report_2026.jsonl",
    "stem": "broker_reports_broker_report_2026",
    "year": 2026,
-   "bytes": 3422356
+   "bytes": 3731658
   },
   {
    "file": "bunker_and_carbon_spreads_2026.jsonl",

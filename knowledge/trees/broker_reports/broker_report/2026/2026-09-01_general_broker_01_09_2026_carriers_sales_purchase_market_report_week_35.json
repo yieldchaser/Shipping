@@ -1,0 +1,333 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+  "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+  "parent_id": null,
+  "title": "Carriers Sales & Purchase Market Report, Week 35",
+  "section_path": [
+    "Carriers Sales & Purchase Market Report, Week 35"
+  ],
+  "section_path_text": "Carriers Sales & Purchase Market Report, Week 35",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Carriers Sales & Purchase Market Report, Week 35\n**Broker**: General Broker\n**Published Date**: 01/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-35-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-35-3/)\n\nWeek 35, 1\n**st**\n\nBulk Carriers Reported Sold\nNAME | TYPE | DWT | BUILT | YARD | PRICE | BUYERS | COMMENTS\n--- | --- | --- | --- | --- | --- | --- | ---\nNAVIOS POLLUX | BC | 180,727 | 2009 | STX OFFSHORE & SHBLDG | 30,750,000 | UNDISCLOSED\nKIYO | BC | 92,353 | 2012 | Namura Shipbuilding-Imari | 19,300,000 | UNDISCLOSED\nHARVEST | BC | 58,779 | 2008 | Tsuneishi Zhoushan Shbldg | 13,800,000 | UNDISCLOSED\nKANCHANA NAREE | BC | 56,920 | 2011 | Taizhou Sanfu Ship | 14,600,000 | CHINESE\nFLC HAPPINESS | BC | 56,799 | 2009 | Taizhou Kouan Shipbuilding | 12,900,000 | CHINESE\nMARIANNA | BC | 55,753 | 2010 | IHI Marine United - | 17,000,000 | UNDISCLOSED\nDEVBULK SINEM | BC | 38,009 | 2013 | Pha Rung | 14,800,000 | UNDISCLOSED\nCHINA SPIRIT | BC | 35,097 | 2013 | Nanjing Dongze Shipyard Co | 13,000,000 | UNDISCLOSED\n\nTankers / LPG Vessels Reported Sold\nNAME | TYPE | DWT | BUILT | YARD | PRICE | BUYERS",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "atlantic",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2965,
+  "source_path": "reports/broker_reports/2026/general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35.md",
+  "source_url": "https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-35-3/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s01_carriers_sales_purchase_market_report_week_35",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Carriers Sales & Purchase Market Report, Week 35",
+      "section_path": [
+        "Carriers Sales & Purchase Market Report, Week 35"
+      ],
+      "section_path_text": "Carriers Sales & Purchase Market Report, Week 35",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 01/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-35-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-35-3/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-35-3",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 68,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s02_week_35_1",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Week 35, 1",
+      "section_path": [
+        "Week 35, 1"
+      ],
+      "section_path_text": "Week 35, 1",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s03_bulk_carriers_reported_sold",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Bulk Carriers Reported Sold",
+      "section_path": [
+        "Bulk Carriers Reported Sold"
+      ],
+      "section_path_text": "Bulk Carriers Reported Sold",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "NAME | TYPE | DWT | BUILT | YARD | PRICE | BUYERS | COMMENTS\n--- | --- | --- | --- | --- | --- | --- | ---\nNAVIOS POLLUX | BC | 180,727 | 2009 | STX OFFSHORE & SHBLDG | 30,750,000 | UNDISCLOSED\nKIYO | BC | 92,353 | 2012 | Namura Shipbuilding-Imari | 19,300,000 | UNDISCLOSED\nHARVEST | BC | 58,779 | 2008 | Tsuneishi Zhoushan Shbldg | 13,800,000 | UNDISCLOSED\nKANCHANA NAREE | BC | 56,920 | 2011 | Taizhou Sanfu Ship | 14,600,000 | CHINESE\nFLC HAPPINESS | BC | 56,799 | 2009 | Taizhou Kouan Shipbuilding | 12,900,000 | CHINESE\nMARIANNA | BC | 55,753 | 2010 | IHI Marine United - | 17,000,000 | UNDISCLOSED\nDEVBULK SINEM | BC | 38,009 | 2013 | Pha Rung | 14,800,000 | UNDISCLOSED\nCHINA SPIRIT | BC | 35,097 | 2013 | Nanjing Dongze Shipyard Co | 13,000,000 | UNDISCLOSED",
+      "keywords": [
+        "china",
+        "undisclosed",
+        "chinese",
+        "shbldg",
+        "taizhou",
+        "built",
+        "buyers",
+        "comments"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 321,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s04_tankers_lpg_vessels_reported_sold",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Tankers / LPG Vessels Reported Sold",
+      "section_path": [
+        "Tankers / LPG Vessels Reported Sold"
+      ],
+      "section_path_text": "Tankers / LPG Vessels Reported Sold",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "NAME | TYPE | DWT | BUILT | YARD | PRICE | BUYERS | COMMENTS\n--- | --- | --- | --- | --- | --- | --- | ---\nPRINCESS NATALIE | TANKER | 320,261 | 2011 | Daewoo Shipbuilding | 97,000,000 | SINGAPORE\nCAPE BENAT | TANKER | 156,642 | 2010 | Jiangsu Rongsheng | 62,500,000 | UAE\nSUEZ ICE SUPREME | TANKER | 146,356 | 2007 | Universal Shbldg-Tsu | 57,000,000 | UAE | ICE CLASS\nMINERVA XANTHE | TANKER | 50,922 | 2006 | STX Shipbuilding-Jinhae | 16,000,000 | CHINESE\nLUCTOR | TANKER | 50,383 | 2011 | Onomichi Dockyard Co Ltd | 26,000,000 | UNDISCLOSED | INCL BBB\nTURMOIL | TANKER | 49,997 | 2011 | Onomichi Dockyard Co Ltd | 26,000,000 | UNDISCLOSED | INCL BBB\nXING TONG 799 | TANKER | 49,962 | 2011 | Onomichi Dockyard Co Ltd | 27,200,000 | INDONESIAN\nPM REGENT | TANKER | 49,874 | 2018 | JAPAN MARINE UTD-MAI | 45,500,000 | UNDISCLOSED\nRUI FU SHENG | TANKER | 46,846 | 2007 | Sungdong Shipbuilding & Eng | 19,000,000 | UNDISCLOSED\nTANGGUH BATUR | LNG | 84,980 | 2008 | Daewoo Shipbuilding | 30,000,000 | UNDISCLOSED\nARCTIC VOYAGER | LNG | 75,485 | 2006 | Kawasaki Shipbuilding | 28,000,000 | TURKISH\nBW BIRCH | LPG | 58,123 | 2007 | Hyundai Heavy Inds-Ulsan | 64,000,000 | UNDISCLOSED",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "china",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 492,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s05_container_ro_ro_general_cargo_vessels_reported_sold",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Container / Ro-Ro / General Cargo Vessels Reported Sold",
+      "section_path": [
+        "Container / Ro-Ro / General Cargo Vessels Reported Sold"
+      ],
+      "section_path_text": "Container / Ro-Ro / General Cargo Vessels Reported Sold",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "**YARD**\nNAME | TYPE | DWT | BUILT | PRICE | BUYERS | COMMENTS\n--- | --- | --- | --- | --- | --- | ---\nWES SINA | CV | 12,829 | 2007 | 12,500,000 | CHINESE | 1,049 TEU\nDae Sun Shipbuilding & Eng",
+      "keywords": [
+        "container",
+        "china",
+        "built",
+        "buyers",
+        "chinese",
+        "comments",
+        "dae",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 75,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s06_demolition_market",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Demolition Market",
+      "section_path": [
+        "Demolition Market"
+      ],
+      "section_path_text": "Demolition Market",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "NAME | TYPE | DWT | LDT | BUILT | YARD | PRICE/LDT | BUYERS\n--- | --- | --- | --- | --- | --- | --- | ---\nCRIMSON SATURN | BC | 49,997 | 9,759 | 2001 | Kurushima Shin | 496 | BANGLADESH\nBR GLORY | BC | 22,273 | 4,921 | 1990 | Saiki HI | 540 | PAKISTAN\n**COMMENTS**",
+      "keywords": [
+        "bangladesh",
+        "built",
+        "buyers",
+        "comments",
+        "crimson",
+        "dwt",
+        "glory",
+        "kurushima"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s07_newbuilding_market",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Newbuilding Market",
+      "section_path": [
+        "Newbuilding Market"
+      ],
+      "section_path_text": "Newbuilding Market",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "**COMMENTS**\nTYPE | NO | SIZE | YARD | DEL | MIL$ | OWNERS\n--- | --- | --- | --- | --- | --- | ---\nBC | 2 | 64,000 DWT | COSCO HI | 2030 | - | SHIPMGMT VERITAS\n**Carriers Chartering Corp. S.A.** Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "carriers.gr",
+        "address",
+        "athens",
+        "capespmx",
+        "carriers",
+        "chartering"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s08_baltic_indices_stock_exchange",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "BALTIC INDICES & STOCK EXCHANGE",
+      "section_path": [
+        "BALTIC INDICES & STOCK EXCHANGE"
+      ],
+      "section_path_text": "BALTIC INDICES & STOCK EXCHANGE",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "**BSPA as reported (5 years old Vessels)** <u>BDA</u>\n**Size Size Price in $m SentimentType Place LDT (LT) PriceSentiment** **(MT) $/LDT** VLCC 305000 148.869 **ꜛ** TANKERS SUBCON 15000 - 25000 495.69 **ꜛ** AFRAMAX 115000 84.001 **ꜛ** MR PRODUCT 51000 49.467 **ꜛ** CONTAINERS SUBCON 6000 - 10000 N/A CAPESIZE 180000 71.215 **ꜛ** PANAMAX 82500 38.912 **ꜛ** BULKERS SUBCON 7000 - 12000 482.58 **ꜛ** ULTRAMAX 63500 37.722 **ꜛ**\n**Sale and Purchase Index Recycling Index** **TYPE Value TYPE Value** **DSPA** 4.446**ꜛ** DSRA 6.730**ꜛ** **BSPA** TSRA 12.079**ꜛ** **TSPA** 9.661**ꜛ** BSRA\n**Newbuilding Index**\n**TYPE Value** **BNBI** **DNBI** 5.100**ꜛ** **TNBI** 8.045**ꜛ**",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "aframax",
+        "container",
+        "subcon",
+        "type",
+        "value"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s09_dry_bc_baltic_indices",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Dry BC Baltic Indices",
+      "section_path": [
+        "Dry BC Baltic Indices"
+      ],
+      "section_path_text": "Dry BC Baltic Indices",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Date | BALTIC DRY INDEX DI | BALTIC CAPE INDEX BCI | BALTIC PMX INDX BPI | BALTIC SUPRAMAX BS1,650I | BALTIC HANDYSIZE BHSI\n--- | --- | --- | --- | --- | ---\nThis WK | 3157 | 5221 | 2360 | 1650 | 885\nWeek Ch. | 275 | 578 | 229 | 9 | 10\nPrevious Dry BC Baltic Time Charter Weighted Average routes | 2882 | 4643 | 2131 | 1641 | 875\nDate | CAPE 180K T/C AVE in $ | TESS 82K T/C AVE in $ | LME 74K T/C AVE in $ | SUPRA 63K T/C AVE in $ | HANDY 38K T/C AVE in $\nThis WK | 47350 | 21237 | 20858 | 15933\nWeek Ch, | 5245 | 2059 | 286 | 380\nPrev, WK Dry BC Time Charter Period indicative ideas (on Average) CAPE 180k KAMSAR 82k PANAMAX 76k SUPRA TESS 58k Date UMAX in $ HANDY 32k in $ in $ in $ in $ $ ATL 1,,000000 ATL 1 N/A SHORT 37,500 22,000 20,500 PAC 220 PAC 19 8,,0 50 00 0 ATL 20 ATL 1 N/A 1-YR 42,500 20,000 19,500 PAC 20,,0 00 00 0 PAC 18 8,,0 00 00 0 2-YRS N/A N/A N/A N/A N/A N/A 5-YRS N/A N/A N/A N/A N/A N/A Baltic Baltic DIRTY CLEAN VLCC SUEZ AFRA MR ATLANTIC Date Tanker Index Tanker TCE in $ TCE in $ TCE in $ TC routes in $ Index 2676 1412 345.206 This WK 128.580 65.556 24.295 Week -285 62 15846 -109933 -14862 -1123 Ch.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "atlantic",
+        "n/a",
+        "ave"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 536,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s10_greek_listed_companies_traded_in_the_us_stock_exchange",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Greek-Listed Companies Traded in the US Stock Exchange",
+      "section_path": [
+        "Greek-Listed Companies Traded in the US Stock Exchange"
+      ],
+      "section_path_text": "Greek-Listed Companies Traded in the US Stock Exchange",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "TICKER | TITLE OF SHARE | LAST TRADED | HANGE | PAST WEEK | MARKET CAP | EPS | P/E\n--- | --- | --- | --- | --- | --- | --- | ---\nCMRE | Costamare Inc. | 15.28 | -0.17 | 15.45 | 1.847B | 2.63 | 5.50\nCPLP | Capital Product Partners L.P.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "gas",
+        "inc.",
+        "maritime",
+        "partners",
+        "corp.",
+        "l.p."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 692,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__s11_carriers_chartering_s_p_department",
+      "doc_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35",
+      "parent_id": "broker_reports_broker_report_2026-09-01_general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35__root",
+      "title": "Carriers Chartering S&P Department",
+      "section_path": [
+        "Carriers Chartering S&P Department"
+      ],
+      "section_path_text": "Carriers Chartering S&P Department",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "*This report is performed to the best of our knowledge based on the market conditions prevailing at the time mentioned. The report relates solely to the date/place* *referred to and we emphasize that it is a statement of information collected from various market sources.",
+      "keywords": [
+        "information",
+        "any",
+        "our",
+        "able",
+        "above",
+        "accept",
+        "acting",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
