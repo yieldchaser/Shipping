@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, September 1 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, September 1 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, September 1 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers\nBulker values remain stable this week. Capesize Jian Fa (175,100 DWT, 2004, SWS) sold to South Korean buyers for USD 18.5 mil, VV Value USD 18.8 mil. Panamax Ivestos 9 (75,100 DWT, 2008, Hudong) sold to Chinese buyers for USD 11.9 mil, VV Value USD 12.1 mil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "japan",
+    "usd",
+    "mil",
+    "mil."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 844,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-09-01_weekly-vessel-valuations-report-september-1-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-1-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers\nBulker values remain stable this week. Capesize Jian Fa (175,100 DWT, 2004, SWS) sold to South Korean buyers for USD 18.5 mil, VV Value USD 18.8 mil.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "suezmax",
+        "aframax",
+        "container",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 466,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026__s02_linked_asset_2026_09_01_weekly_vessel_valuations_report_september_1_2026_010920264ffg_3f4fc98878b7_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-01_2026_09_01_weekly_vessel_valuations_report_september_1_2026__root",
+      "title": "Linked asset: 2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg\n\nLinked image asset: 2026-09-01_weekly-vessel-valuations-report-september-1-2026_010920264ffg_3f4fc98878b7.jpg\n\nImage metadata: JPEG 600x267 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© Vesselsvalue -\n01 September 2026 VV Mini Matrix ~ Weekly Change\nTankers Belken Containers\nat wes ee a soc eos seet aie Oc nctrencel races oes\nea pe Ce ae eee re ne\nbe oy us ma = a -\" a ae oe an ms ine\nee ep oy ee Beer ce oe en Doe eS\n' a - cr ~\" J -- ™ \" Cy _ an om 1. aor a ieee |e ea) (Econom ee\n\" ~/ - ee ma - - \" - 7 ~~ an ms ie\nAe hy 26 fe See Bee ee Re ee ee\n.",
+      "keywords": [
+        "container",
+        "asset",
+        "eee",
+        "image",
+        "ine",
+        "aie",
+        "aor",
+        "bee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 333,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
