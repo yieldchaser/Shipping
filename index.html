@@ -25202,9 +25202,8 @@ if (intelTabsContainer) {
             var spread = r.bwetff - normalizedSpot;
             var pct = (spread / normalizedSpot) * 100;
             basisSeries.push({ date: r.date, value: pct, spot: normalizedSpot, rawSpot: rawSpot, ff: r.bwetff, spread: spread, fund: 'bwet' });
-          } else {
-            basisSeries.push({ date: r.date, value: null, spot: null, rawSpot: rawSpot, ff: (r.bwetff != null ? r.bwetff : null), spread: null, fund: 'bwet' });
           }
+          // NOTE: skip invalid rows (no null placeholders) to mirror BDRY — keeps labels/HUD on last valid, not padded null tail
         });
       } else { // dual
         DATA.master.forEach(function(r, idx) {
@@ -25259,8 +25258,15 @@ if (intelTabsContainer) {
 
       if (!basisSeries.length) return;
 
+      // Defensive: drop any null-value rows so labels/HUD never sit on null; filtered end = last valid, not padded null
+      basisSeries = basisSeries.filter(function(r) { return fund === 'dual' ? (r.bdryVal != null || r.bwetVal != null) : (r.value != null); });
+      if (!basisSeries.length) return;
+
       var startEl = document.getElementById('basisRangeStart');
       var endEl = document.getElementById('basisRangeEnd');
+      // Reset/clamp slider max on fund switch so a stale 1Y window can't stick on a null tail
+      if (startEl && parseInt(startEl.max, 10) !== basisSeries.length - 1) startEl.max = basisSeries.length - 1;
+      if (endEl && parseInt(endEl.max, 10) !== basisSeries.length - 1) endEl.max = basisSeries.length - 1;
       var s = startEl ? parseInt(startEl.value) : 0;
       var e = endEl ? parseInt(endEl.value) : basisSeries.length - 1;
       s = Math.max(0, Math.min(s, basisSeries.length - 1));
@@ -25285,8 +25291,19 @@ if (intelTabsContainer) {
       }
 
       if (fund === 'bdry' || fund === 'bwet') {
-        var sp = latest.spread || 0;
-        var bp = latest.value || 0;
+        if (latest.value == null || latest.spread == null) {
+          if (hudSpreadVal) { hudSpreadVal.textContent = 'n/a (No overlap)'; hudSpreadVal.style.color = 'var(--text-muted)'; }
+          if (hudSpreadSub) {
+            if (fund === 'bdry') hudSpreadSub.textContent = 'BDRYFF: ' + fmt(latest.ff, 2) + ' | Spot: n/a';
+            else hudSpreadSub.textContent = 'BWETFF: ' + fmt(latest.ff, 2) + ' | Norm Spot: n/a';
+          }
+          if (hudRollDragVal) { hudRollDragVal.textContent = 'n/a'; hudRollDragVal.style.color = 'var(--text-muted)'; }
+          if (hudRollDragSub) { hudRollDragSub.textContent = 'No overlap in selected window'; }
+          if (hudRegimeVal) { hudRegimeVal.textContent = 'No overlap'; hudRegimeVal.style.color = 'var(--text-muted)'; }
+          if (hudRegimeSub) { hudRegimeSub.textContent = 'No valid futures/spot overlap'; }
+        } else {
+        var sp = latest.spread;
+        var bp = latest.value;
         var isBackwardation = bp < -0.5;
         var isContango = bp > 0.5;
         // In backwardation (Futures < Spot, bp < 0), roll yield is positive
@@ -25339,6 +25356,7 @@ if (intelTabsContainer) {
           if (isContango) hudRegimeSub.textContent = 'Futures > Spot (Upward Forward Curve)';
           else if (isBackwardation) hudRegimeSub.textContent = 'Spot > Futures (Prompt Supply Scarcity)';
           else hudRegimeSub.textContent = 'Arbitrage Parity (Futures ~= Spot)';
+        }
         }
       } else { // dual mode HUD
         var bdryP = latest.bdryVal != null ? latest.bdryVal : 0;
