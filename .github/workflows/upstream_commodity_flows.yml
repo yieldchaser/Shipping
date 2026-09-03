@@ -42,6 +42,11 @@ jobs:
           # so its 429 backoff does not block the others. A partial run still commits
           # the months it succeeded on (the scraper skips, never fakes).
           python scripts/scrapers/fetch_comexstat_brazil.py || echo "ComexStat rate-limited this run; will complete on a later paced run."
+          # Regenerate diagnostic Capesize ton-mile matrix AFTER live Brazil (ComexStat)
+          # + Guinea bauxite (UN Comtrade) inputs land. Empty-month policy: null, not
+          # fallback flatline — the generator refuses to fabricate a matrix when no
+          # source volumes exist (see generate_ton_mile_matrix.py).
+          python scripts/scrapers/generate_ton_mile_matrix.py
 
       - name: Commit and push if updated
         run: |

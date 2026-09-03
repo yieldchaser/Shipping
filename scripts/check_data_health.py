@@ -37,7 +37,8 @@ def parse_date_str(d_str):
     return None
 
 def audit_data_health(target_date=TARGET_DATE):
-    categories = ['indices', 'derived', 'etf', 'futures']
+    categories = ['indices', 'derived', 'etf', 'futures',
+                  'congestion', 'commodities', 'macro', 'bunkers']
     all_results = []
 
     for cat in categories:
@@ -97,9 +98,14 @@ def audit_data_health(target_date=TARGET_DATE):
             # Ignore known legacy/discontinued datasets
             is_legacy = fname in ('blpg_fearnleys_historical.csv', 'BDRY_Daily.csv', 'BWET_Daily.csv')
 
-            if lag_days <= 7:
+            # Freshness thresholds: daily series stay on 7d/30d; monthly series
+            # (filename '*monthly*' or macro category) use 45d/90d.
+            is_monthly = 'monthly' in fname.lower() or cat == 'macro'
+            active_days, lagged_days = (45, 90) if is_monthly else (7, 30)
+
+            if lag_days <= active_days:
                 status = 'ACTIVE'
-            elif lag_days <= 30:
+            elif lag_days <= lagged_days:
                 status = 'LAGGED'
             elif is_legacy:
                 status = 'LEGACY (Superseded)'

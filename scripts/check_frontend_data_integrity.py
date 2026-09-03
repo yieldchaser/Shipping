@@ -16,7 +16,7 @@ from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path(r"C:\Users\Dell\Github\Shipping")
+ROOT = Path(__file__).resolve().parent.parent
 INDEX = ROOT / "index.html"
 
 critical = []

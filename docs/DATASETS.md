@@ -89,7 +89,7 @@ existing data.
 | File Name | Content Description | Coverage | Frequency | Data Source | Status |
 |:---|:---|:---:|:---:|:---|:---:|
 | [`data/congestion/chokepoint_transits_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/chokepoint_transits_daily.csv) | Daily transit counts across 28 maritime chokepoints (Suez, Panama, Bosporus, Malacca, ...) by vessel class | 2019-01-01 → live | Daily (incremental) | IMF PortWatch ArcGIS (`Daily_Chokepoints_Data`) via `expansion_portwatch.py` | Active (~78k rows; upstream lags ~5 days) |
-| [`data/congestion/port_calls_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily.csv) | Daily port call volumes for curated major ports by segment | 2026-08 window → live | Daily (incremental) | IMF PortWatch ArcGIS (`Daily_Ports_Data`) via `expansion_portwatch.py` | Active (curated set) |
+| [`data/congestion/port_calls_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily.csv) | Daily port call volumes for curated major ports by segment | 2019-01-01 → live (chunked incremental; pre-Build C stalled at 2020-10-30, now backfilling) | Daily (incremental) | IMF PortWatch ArcGIS (`Daily_Ports_Data`) via `expansion_portwatch.py` | Active (curated set) |
 | [`data/macro/commodities_monthly.csv`](file:///c:/Users/Dell/Github/Shipping/data/macro/commodities_monthly.csv) | World Bank Pink Sheet monthly commodity prices — iron ore, coal, crude, natgas, LNG, grains, metals + CMO indices. Core cargo-demand inputs for dry bulk & tanker analysis; rendered on the Signals tab as **Cargo Demand Drivers**. Series the Pink Sheet no longer publishes (all-empty columns, e.g. `coal_newcastle` after the 2026 WB series restructure) are auto-dropped from the schema on each refresh | Jan 1960 → live (monthly) | Monthly (~4th of month, prior-month data) | World Bank CMO xlsx via `expansion_worldbank_pinksheet.py` | Active (current through Jul 2026) |
 | [`data/bunkers/bunker_prices_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/bunkers/bunker_prices_daily.csv) | Bunker fuel prices ($/mt): VLSFO / MGO / IFO380 across global average, regional averages and 8 major hubs (Singapore, Rotterdam, Fujairah, Houston, ...) | Live snapshots accumulate | Daily (snapshot append) | Ship & Bunker tabbed price tables via `expansion_bunker_prices.py` | Active |
 
@@ -119,8 +119,8 @@ Ingested via scheduled workflows (`.github/workflows/usda_weekly.yml`, `.github/
 
 | File Name | Content Description | Coverage | Frequency | Data Source | Status |
 |:---|:---|:---:|:---:|:---|:---:|
-| [`data/indices/drewry_wci_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/drewry_wci_historical.csv) | Drewry World Container Index (WCI) — Composite 40ft spot rate ($/FEU) & 8 East-West routes (Shanghai-Rotterdam, Genoa, LA, NY) | 2024–live | Weekly (Thu) | Drewry Supply Chain Advisors via `fetch_drewry_wci.py` | Active |
-| [`data/commodities/usda_fas_outstanding_export_sales.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_fas_outstanding_export_sales.csv) | USDA FAS Weekly Export Sales — Outstanding commitments and accumulated exports by commodity (Corn, Soybeans, Wheat) and destination country | 10,000 observations | Weekly (Thu) | USDA Foreign Agricultural Service Open API (`885i-uek7`) via `fetch_usda_fas_exports.py` | Active |
+| [`data/indices/drewry_wci_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/drewry_wci_historical.csv) | Drewry World Container Index (WCI) — Composite 40ft spot rate ($/FEU) & East-West routes (Shanghai-Rotterdam, Genoa, LA, NY) | 2011–live (Wayback-assessed, gaps=null, see note) | Weekly (Thu) | Drewry Supply Chain Advisors via `fetch_drewry_wci.py` + `backfill_drewry_wayback.py` (Wayback CDX) | Active |
+| [`data/commodities/usda_fas_outstanding_export_sales.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_fas_outstanding_export_sales.csv) | USDA FAS Weekly Export Sales — Outstanding commitments and accumulated exports by commodity (Corn, Soybeans, Wheat) and destination country | ~60k most-recent rows (date DESC + offset pagination) | Weekly (Thu) | USDA Foreign Agricultural Service Open API (`885i-uek7`) via `fetch_usda_fas_exports.py` | Active |
 | [`data/commodities/panama_canal_draft_and_slots.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/panama_canal_draft_and_slots.csv) | Panama Canal Authority (ACP) Advisories — Maximum allowable draft limits (TFW ft), Gatun Lake water levels, and transit booking slots across El Niño drought periods | 2022–live | Periodic / Weekly | Panama Canal Authority (ACP) via `fetch_panama_canal_advisories.py` | Active |
 | [`data/commodities/usda_us_vs_brazil_landed_costs.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_us_vs_brazil_landed_costs.csv) | USDA Landed Soybean Transportation Costs ($/MT) to Shanghai — Multi-modal logistics breakdown (Truck, Rail/Barge, Ocean) comparing US Midwest vs Brazilian Cerrado | 2017–live | Quarterly | USDA AgTransport Socrata Open API via `fetch_usda_grains.py` | Active |
 | [`data/commodities/usda_grain_vessel_loading_queues.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/usda_grain_vessel_loading_queues.csv) | USDA Grain Vessel Loading Queues — Weekly counts of bulk carriers In-Port, Loaded (Past 7 Days), and Due (Next 10 Days) at US Gulf and PNW terminals | 2020–live | Weekly (Thu) | USDA AgTransport Socrata Open API via `fetch_usda_grains.py` | Active |
@@ -128,6 +128,23 @@ Ingested via scheduled workflows (`.github/workflows/usda_weekly.yml`, `.github/
 | [`data/derived/usda_us_vs_brazil_cost_spreads.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/usda_us_vs_brazil_cost_spreads.csv) | Landed Cost Spreads ($/MT) — US vs Brazil landed soybean cost differential to China | 2017–live | Quarterly | USDA AgTransport via `fetch_usda_grains.py` | Active |
 | [`data/derived/usda_bunker_fuel_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/usda_bunker_fuel_daily.csv) | USDA Bunker Fuel Daily Spot Prices ($/MT) — VLSFO 0.5%, MGO, IFO 180cSt, IFO 380cSt | 2019–live | Daily | USDA AgTransport via `fetch_usda_grains.py` | Active |
 | [`data/derived/intermodal_tc_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/intermodal_tc_rates.csv) | Intermodal Shipbrokers Weekly Period TC Rates ($/day) — Fills MR, LR1, Handysize, and 3Y period charter gaps | 2025–live | Weekly (Fri) | Intermodal Research via `update_intermodal_tc_rates.py` | Active |
+
+> [!NOTE]
+> **Container depth (Build F, no-break):** `data/indices/drewry_wci_historical.csv`
+> now extends to **2011 via the Wayback Machine** (`backfill_drewry_wayback.py`
+> + `fetch_drewry_wci.py::backfill_drewry_wayback()` using the CDX API over
+> `drewry.co.uk` WCI pages, 2011→present). Only Drewry-assessed snapshots are
+> kept — **no pre-2024 values are synthesized**; missing weeks stay absent and
+> the frontend renders them as gaps (`spanGaps:true`). Upsert is idempotent
+> (candidate in `/tmp`, then dedup by `date` + sort, canonical header
+> `date,composite_index,...` preserved). The old Build C synthetic/canonical
+> placeholder (`generate_canonical_wci_history()`, Red-Sea-spike shape) is
+> removed.
+> **FBX:** Freightos Baltic Index (FBX) upstream history starts **2017 via
+> Freightos** (local `fbx_historical.csv` is currently a Mar-2026+ slice —
+> full 2017→present backfill is a follow-up). **SCFI opportunity:** the
+> Shanghai Containerized Freight Index (SSE-SCFI, 2009+) is the natural next
+> container benchmark to ingest.
 
 ---
 
@@ -137,21 +154,29 @@ Ingested weekly/monthly via `.github/workflows/upstream_commodity_flows.yml` and
 
 | File Name | Content Description | Coverage | Frequency | Data Source | Status |
 |:---|:---|:---:|:---:|:---|:---:|
-| [`data/commodities/brazil_comexstat_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/brazil_comexstat_exports.csv) | Brazilian seaborne exports: Iron Ore (`NCM 2601`), Crude Oil (`NCM 2709`), Soybeans (`NCM 1201`), Raw Sugar (`NCM 1701`) | 2024–live | Monthly | Brazilian MDIC / SECEX ComexStat API (`api-comexstat.mdic.gov.br`) | Active |
+| [`data/commodities/brazil_comexstat_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/brazil_comexstat_exports.csv) | Brazilian seaborne exports: Iron Ore (`NCM 2601`), Crude Oil (`NCM 2709`), Soybeans (`NCM 1201`), Raw Sugar (`NCM 1701`) | 1997–live (year-by-year, Build C) | Monthly | Brazilian MDIC / SECEX ComexStat API (`api-comexstat.mdic.gov.br`) | Active |
 | [`data/commodities/australia_ppa_iron_ore.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_ppa_iron_ore.csv) | Pilbara Ports Authority iron ore throughput: Port Hedland & Port of Dampier (Mt, MoM%, YoY%) | 2024–live | Monthly | Pilbara Ports Authority (PPA) Shipping Statistics | Active |
 | [`data/commodities/major_miners_quarterly_shipments.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/major_miners_quarterly_shipments.csv) | Big 4 Iron Ore Miners: Vale, Rio Tinto, BHP, Fortescue (Production Mt, Shipments Mt, C1 Cash Cost $/t, Annual Guidance) | 2024–live | Quarterly | Mining Company Operations Reports & Production Releases | Active |
-| [`data/commodities/us_eia_weekly_crude_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/us_eia_weekly_crude_exports.csv) | US Gulf Coast (PADD 3) & Total US weekly crude and petroleum exports (`WCREXUS2`, kbpd, 4W MA) | 2024–live | Weekly (Wed) | US Energy Information Administration (EIA Weekly Petroleum Status Report) | Active |
-| [`data/congestion/portwatch_port_congestion.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/portwatch_port_congestion.csv) | Global discharge & loading hub congestion: Qingdao, Ningbo, Caofeidian, Port Hedland, Singapore, Rotterdam, Houston (Port Calls, Anchored Ships, Avg Waiting Days, 7DMA) | 2024–live | Daily | IMF PortWatch ArcGIS Spatial AIS Layer | Active |
+| [`data/commodities/us_eia_weekly_crude_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/us_eia_weekly_crude_exports.csv) | US Gulf Coast (PADD 3) & Total US weekly crude and petroleum exports (`WCREXUS2`, kbpd, 4W MA) | 1991–live with key, else existing 2017+ kept as-is (no synthetic fallback, Build C) | Weekly (Wed) | US Energy Information Administration (EIA Weekly Petroleum Status Report, `EIA_API_KEY` required) | Active |
+| [`data/congestion/portwatch_port_congestion.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/portwatch_port_congestion.csv) | Core12 measured port activity (Qingdao, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao + All): daily port calls by class + dry-bulk/tanker import/export tonnages (kt), real IMF PortWatch AIS observations only — no waiting-time/anchored-ship synthesis (withdrawn 2026-08-25) | 2019–live | Daily | IMF PortWatch ArcGIS `Daily_Ports_Data` FeatureServer (`fetch_portwatch_port_activity.py`) | Active |
 | [`data/derived/eu_ets_carbon_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/eu_ets_carbon_daily.csv) | EU ETS EUA spot carbon allowance (€/t CO2), Singapore/Rotterdam/Houston Hi-5 bunker fuel spreads ($/MT), and daily scrubber savings ($/day) | 2024–live | Daily | European Energy Exchange (EEX) / Ship & Bunker | Active |
-| [`data/commodities/newcastle_coal_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/newcastle_coal_exports.csv) | Australian coal terminal shipments: Port of Newcastle, Dalrymple Bay Coal Terminal (DBCT), Gladstone (Mt, Thermal/Met, Vessels Loaded) | 2024–live | Monthly | Port of Newcastle & Queensland Ports Operations | Active |
+| [`data/commodities/newcastle_coal_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/newcastle_coal_exports.csv) | Port of Newcastle monthly coal export throughput only (Mt, Thermal/Met, Vessels Loaded) — Dalrymple Bay (DBCT) and Gladstone are not yet in this feed | 2018–live | Monthly | Port of Newcastle / TfNSW opendata (`fetch_newcastle_coal.py`) | Active |
 | [`data/commodities/australia_req_commodity_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_req_commodity_exports.csv) | Australia DISR Resources and Energy Quarterly: Iron Ore, Metallurgical Coal, Thermal Coal, LNG, Bauxite/Alumina export volumes (Mt) and values (AUD Bn) | 2024–live | Quarterly | Australian Department of Industry, Science and Resources (DISR REQ) | Active |
-| [`data/derived/ton_mile_utilization_matrix.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/ton_mile_utilization_matrix.csv) | Capesize & VLCC global ton-mile absorption (Bn Ton-NM) and active fleet utilization ($U\%$) under spatial trade routing and port congestion constraints | 2024–live | Monthly | Quantitative Ton-Mile Distance & Elasticity Engine (`generate_ton_mile_matrix.py`) | Active |
+| [`data/derived/ton_mile_utilization_matrix.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/ton_mile_utilization_matrix.csv) | Capesize-only global ton-mile absorption (diagnostic, Bn Ton-NM) and modeled fleet utilization ($U\%$) under spatial trade routing and port congestion constraints | 2024–live | Monthly | Quantitative Ton-Mile Distance & Elasticity Engine (`generate_ton_mile_matrix.py`) | Active |
 
 ---
 
-## 🛠️ Automated Health Check Command
+## 🛠️ Automated Health Check Commands
 
 To verify dataset freshness and staleness across all datasets at any time:
 ```bash
 python scripts/check_data_health.py
 ```
+
+Spike / flatline guard (flag-only, never fabricates or deletes `data/`):
+```bash
+python scripts/check_data_spike_health.py
+```
+Flags WoW >30% jumps, 3-sigma breaks vs prior 252, >15 flatline repeats and empty rows into `knowledge/manifests/spike_queue.jsonl` (one JSON object per line, always exits 0).
+
+Rich-tooltip overhaul (`getCalculatedTooltip` in `index.html`): `concept-brazil-exports`, `concept-ppa-throughput`, `concept-eia-exports`, `concept-port-congestion`, `concept-carbon-ets`, `concept-ton-mile-sim`.

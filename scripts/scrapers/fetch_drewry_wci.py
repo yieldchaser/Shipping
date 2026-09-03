@@ -174,57 +174,174 @@ def extract_assessments(html_text):
     return values, page_date, flat_text
 
 
-import numpy as np
+WAYBACK_CDX_URL = "https://web.archive.org/cdx/search/cdx"
+# WCI pages to look up in the Wayback CDX index (2011 -> present).
+WCI_WAYBACK_URL_PATTERNS = [
+    "drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry*",
+    "drewry.co.uk/*world-container-index*",
+    "drewry.co.uk/*container-index*",
+]
 
+# Build F: synthetic baseline removed. This stub is kept only for backward
+# compatibility with older imports; it NEVER synthesizes values.
 def generate_canonical_wci_history():
-    dates = pd.date_range(start="2024-01-04", end="2026-08-20", freq="7D")
-    records = []
-    for i, dt in enumerate(dates):
-        # Red Sea crisis spike in mid-2024 (weeks 24-32), followed by elevated plateau in 2025-2026
-        t = i / len(dates)
-        spike = 2800.0 * np.exp(-((i - 28) ** 2) / 60.0) if i < 55 else 0.0
-        base_comp = 2100.0 + (t * 1800.0) + spike + np.sin(i * 0.4) * 200.0
-        comp = round(base_comp, 1)
-        sh_rot = round(comp * 1.12 + np.sin(i * 0.3) * 80.0, 1)
-        sh_gen = round(comp * 1.08 + np.cos(i * 0.3) * 70.0, 1)
-        sh_la = round(comp * 0.95 + np.sin(i * 0.5) * 100.0, 1)
-        sh_ny = round(comp * 1.25 + np.cos(i * 0.4) * 120.0, 1)
-        rot_sh = round(comp * 0.18 + np.sin(i * 0.2) * 15.0, 1)
-        
-        records.append({
-            "date": dt.strftime("%Y-%m-%d"),
-            "composite_index": comp,
-            "shanghai_rotterdam": sh_rot,
-            "shanghai_genoa": sh_gen,
-            "shanghai_la": sh_la,
-            "shanghai_ny": sh_ny,
-            "rotterdam_shanghai": rot_sh,
-        })
-    return pd.DataFrame(records)
+    print("    [!] generate_canonical_wci_history() is deprecated (Build F): no values synthesized.")
+    return pd.DataFrame(columns=CSV_COLUMNS)
 
 
-def update_csv(row=None):
+def fetch_wayback_cdx(url_pattern, from_year=2011, limit=5000):
+    """Query the Wayback CDX API for snapshot list. Returns list of dicts."""
+    params = {
+        "url": url_pattern,
+        "from": str(from_year),
+        "output": "json",
+        "filter": ["statuscode:200", "mimetype:text/html"],
+        "fl": "timestamp,original,statuscode,digest",
+        "collapse": "digest",
+        "limit": str(limit),
+    }
+    try:
+        resp = requests.get(WAYBACK_CDX_URL, params=params, headers=HEADERS, timeout=60)
+        if resp.status_code != 200:
+            print(f"    [!] CDX HTTP {resp.status_code} for {url_pattern}")
+            return []
+        data = resp.json()
+        if not data or len(data) < 2:
+            return []
+        header, rows = data[0], data[1:]
+        return [dict(zip(header, r)) for r in rows]
+    except Exception as exc:
+        print(f"    [!] CDX query failed for {url_pattern}: {exc}")
+        return []
+
+
+def backfill_drewry_wayback(from_year=2011, limit_per_pattern=1500, max_snapshots=400, sleep_s=1.0):
+    """Backfill assessed WCI history via the Wayback Machine CDX API.
+
+    - Covers drewry.co.uk WCI pages from 2011 -> present.
+    - Parses each snapshot with extract_assessments(); only real assessed
+      values are kept. Missing weeks are left absent (frontend renders gaps
+      with spanGaps:true); values are NEVER invented.
+    - Upserts into data/indices/drewry_wci_historical.csv with dedup + sort,
+      preserving the canonical header (date, composite_index, ...).
+    - Idempotent: re-running yields the same sorted, deduped CSV.
+    """
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     csv_path = DATA_DIR / "drewry_wci_historical.csv"
-    if not csv_path.exists() or len(pd.read_csv(csv_path)) < 20:
-        df = generate_canonical_wci_history()
-    else:
-        df = pd.read_csv(csv_path)
 
-    if row and row.get("date"):
-        row_df = pd.DataFrame([row])
-        df = pd.concat([df, row_df], ignore_index=True)
-        
-    df["date"] = pd.to_datetime(df["date"], errors="coerce").dt.strftime("%Y-%m-%d")
-    df = df.dropna(subset=["date"]).drop_duplicates(subset="date", keep="last").sort_values("date")
-    df.to_csv(csv_path, index=False)
+    snapshots = []
+    seen_ts = set()
+    for pat in WCI_WAYBACK_URL_PATTERNS:
+        print(f"[+] CDX query: {pat} (from {from_year})")
+        rows = fetch_wayback_cdx(pat, from_year=from_year, limit=limit_per_pattern)
+        print(f"    found {len(rows)} snapshots")
+        for r in rows:
+            key = (r.get("timestamp"), r.get("digest") or r.get("original"))
+            if key in seen_ts:
+                continue
+            seen_ts.add(key)
+            snapshots.append(r)
+    snapshots.sort(key=lambda r: r.get("timestamp", ""))
+    if len(snapshots) > max_snapshots:
+        # Thin evenly to stay within budget while keeping full time span.
+        step = len(snapshots) / max_snapshots
+        snapshots = [snapshots[int(i * step)] for i in range(max_snapshots)]
+        print(f"    thinned to {len(snapshots)} snapshots across 2011->present")
+
+    collected = []
+    for snap in snapshots:
+        ts = snap.get("timestamp", "")
+        orig = snap.get("original", "")
+        wb_url = f"https://web.archive.org/web/{ts}id_/{orig}"
+        try:
+            resp = get_with_backoff(wb_url, attempts=2)
+            if not resp:
+                continue
+            values, page_date, _ = extract_assessments(resp.text)
+            if not values.get("composite_index") and len(values) < 2:
+                continue
+            row = {col: values.get(col) for col in CSV_COLUMNS}
+            # Prefer the assessed page date; fall back to snapshot date.
+            if page_date:
+                row["date"] = page_date
+            else:
+                try:
+                    row["date"] = datetime.strptime(ts[:8], "%Y%m%d").strftime("%Y-%m-%d")
+                except Exception:
+                    continue
+            collected.append(row)
+        except Exception as exc:
+            print(f"    [!] snapshot parse failed {wb_url}: {exc}")
+            continue
+        finally:
+            if sleep_s:
+                time.sleep(sleep_s)
+
+    print(f"[+] Wayback: parsed {len(collected)} assessed snapshots")
+    if not collected:
+        print("[!] No assessed WCI values recovered from Wayback; CSV left unchanged.")
+        return csv_path, 0
+
+    new_df = pd.DataFrame(collected)
+    csv_path = upsert_wci_rows(new_df)
+    return csv_path, len(collected)
+
+
+def upsert_wci_rows(new_df):
+    """Idempotent upsert: merge new rows, dedup by date (last wins), sort, keep header."""
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    csv_path = DATA_DIR / "drewry_wci_historical.csv"
+    if csv_path.exists():
+        try:
+            existing = pd.read_csv(csv_path)
+        except Exception:
+            existing = pd.DataFrame(columns=CSV_COLUMNS)
+    else:
+        existing = pd.DataFrame(columns=CSV_COLUMNS)
+    combined = pd.concat([existing, new_df], ignore_index=True) if len(new_df) else existing
+    # Keep only canonical columns (extra keys dropped), preserve header order.
+    for col in CSV_COLUMNS:
+        if col not in combined.columns:
+            combined[col] = None
+    combined = combined[CSV_COLUMNS]
+    combined["date"] = pd.to_datetime(combined["date"], errors="coerce").dt.strftime("%Y-%m-%d")
+    combined = combined.dropna(subset=["date"]).drop_duplicates(subset="date", keep="last").sort_values("date")
+    combined.to_csv(csv_path, index=False)
     return csv_path
+
+
+def update_csv(row=None, extra_df=None):
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    csv_path = DATA_DIR / "drewry_wci_historical.csv"
+    if csv_path.exists():
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception:
+            df = pd.DataFrame(columns=CSV_COLUMNS)
+    else:
+        df = pd.DataFrame(columns=CSV_COLUMNS)
+
+    frames = [df]
+    if row and row.get("date"):
+        frames.append(pd.DataFrame([row]))
+    if extra_df is not None and len(extra_df):
+        frames.append(extra_df)
+    if len(frames) > 1:
+        df = pd.concat(frames, ignore_index=True)
+
+    return upsert_wci_rows(df) if len(df) else upsert_wci_rows(pd.DataFrame(columns=CSV_COLUMNS))
 
 
 def main():
     print("=" * 80)
     print("  DREWRY WORLD CONTAINER INDEX INGESTION")
     print("=" * 80)
+
+    if "--backfill" in sys.argv:
+        print("\n[+] Wayback backfill requested (--backfill): 2011 -> present, no synthesis.")
+        csv_path, n = backfill_drewry_wayback()
+        print(f"\n[OK] Wayback backfill complete: {n} assessed snapshots -> {csv_path.relative_to(REPO_ROOT)}")
+        return 0
 
     checkpoint = load_checkpoint()
     primary = None
@@ -245,9 +362,15 @@ def main():
             break
 
     if not primary:
-        print("\n[!] Live WCI page structure JS-rendered or offline; generating canonical historical dataset.")
-        csv_path = update_csv()
-        print(f"\n[OK] Time-series populated: {csv_path.relative_to(REPO_ROOT)}")
+        print("\n[!] Live WCI page JS-rendered or offline; attempting Wayback backfill (no synthesis).")
+        print("    Missing weeks are left as gaps (frontend spanGaps:true); no values invented.")
+        try:
+            csv_path, n = backfill_drewry_wayback()
+            print(f"\n[OK] Time-series backfilled: {csv_path.relative_to(REPO_ROOT)} ({n} assessed snapshots)")
+        except Exception as exc:
+            print(f"    [!] Wayback backfill failed: {exc}; ensuring header-only CSV exists.")
+            csv_path = upsert_wci_rows(pd.DataFrame(columns=CSV_COLUMNS))
+            print(f"\n[OK] Time-series preserved: {csv_path.relative_to(REPO_ROOT)}")
         return 0
 
     row = {col: primary["values"].get(col) for col in CSV_COLUMNS}

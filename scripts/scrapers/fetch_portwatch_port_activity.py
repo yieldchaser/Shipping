@@ -48,6 +48,11 @@ KNOWN_HUBS = {
     "port1201": {"portname": "Singapore", "country": "Singapore"},
     "port1114": {"portname": "Rotterdam", "country": "Netherlands"},
     "port481":  {"portname": "Houston (US-TX)", "country": "United States"},
+    "port1328": {"portname": "Tubarao", "country": "Brazil"},
+    "port458":  {"portname": "Hay Point", "country": "Australia"},
+    "port1072": {"portname": "Qinhuangdao", "country": "China"},
+    "port1105": {"portname": "Rizhao", "country": "China"},
+    "port1160": {"portname": "Santos", "country": "Brazil"},
 }
 
 FIELDS = ("date,portid,portname,country,portcalls,portcalls_dry_bulk,portcalls_tanker,"
@@ -80,8 +85,9 @@ def discover_hub_portids() -> dict:
     aborts and never drops the committed history.
     """
     found = {}
-    for name in ["Qingdao", "Ningbo", "Caofeidian", "Hedland", "Newcastle",
-                 "Singapore", "Rotterdam", "Houston"]:
+    for name in ["Qingdao", "Ningbo", "Hedland", "Newcastle",
+                 "Singapore", "Rotterdam", "Houston",
+                 "Tubarao", "Hay Point", "Qinhuangdao", "Rizhao", "Santos"]:
         params = urllib.parse.urlencode({
             "f": "json", "where": f"portname LIKE '%{name}%'",
             "outFields": "portid,portname,country",

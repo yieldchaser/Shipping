@@ -41,3 +41,9 @@ TIMESTAMP
 knowledge/manifests/derived_cache.json
 knowledge/derived/.wiki_score_cache.json
 knowledge/derived/.wiki_meta_cache.json
+
+# Large model weights (HF checkpoints ~1-2GB, never commit)
+*.safetensors
+*.bin
+*.pth
+*.ckpt

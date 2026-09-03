@@ -10650,7 +10650,7 @@
           <!-- Live Period TCE Rate Matrix Heatmap Table -->
           <div class="chart-container mb-20" id="tceMatrixContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="tceMatrixTitle" data-tooltip=" " data-tt-type="concept-tcemap">Live Period TCE Rate Matrix (Weekly Alibra Benchmarks)</div>
+              <div class="chart-title" id="tceMatrixTitle" data-tooltip="Live Alibra weekly period TCE benchmarks by vessel, tenor and basin with 1W/1M/1Y momentum." data-tt-type="concept-tcemap">Live Period TCE Rate Matrix (Weekly Alibra Benchmarks)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <!-- Sector Toggle -->
                 <div id="tceSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
@@ -10673,7 +10673,7 @@
           <!-- Tanker 22-Month Forward Curves & Eco Spreads -->
           <div class="chart-container mb-20" id="tankerForwardContainer">
             <div class="chart-header">
-              <div class="chart-title" id="tankerForwardTitle" data-tooltip=" " data-tt-type="concept-forwardcurves">Tanker FFA Forward Term Structures (22-Month FFA Curves)</div>
+              <div class="chart-title" id="tankerForwardTitle" data-tooltip="22-month tanker FFA forward curves (VLCC/Suezmax/Aframax/LR1/MR) with Eco premium and term-structure spread." data-tt-type="concept-forwardcurves">Tanker FFA Forward Term Structures (22-Month FFA Curves)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="tankerFwdRouteToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="fwdVlcc" onclick="setTankerFwdRoute('vlcc')" data-tooltip=" " data-tt-type="concept-tanker-route" data-tt-route="vlcc" data-tt-name="VLCC TD3C AG/China" data-tt-cargo="270,000 MT Crude Oil (MEG to China)" data-tt-desc="Benchmark supertanker route for global dirty crude freight." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">VLCC TD3C</button>
@@ -10708,7 +10708,7 @@
           <!-- C3/C5 Tonnage Basin Arbitrage spread -->
           <div class="chart-container mb-20" id="basinSpreadContainer">
             <div class="chart-header">
-              <div class="chart-title" id="basinSpreadTitle" data-tooltip=" " data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
+              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Atlantic vs Pacific time-charter spread — positive = Atlantic premium, drives ballast repositioning." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="basinSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="basinSecCape" onclick="setBasinSector('cape')" data-tooltip="Capesize 180k DWT Atlantic vs Pacific Period Charter Arbitrage" data-tt-type="concept-basin-sector" data-tt-sector="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
@@ -10761,7 +10761,7 @@
           <!-- Leading Restocking Pressures -->
           <div class="chart-container mb-20" id="restockingContainer">
             <div class="chart-header">
-              <div class="chart-title" id="restockingTitle" data-tooltip=" " data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
+              <div class="chart-title" id="restockingTitle" data-tooltip="China port iron-ore stocks vs Capesize spot — low coverage under 45 days forces restocking surges." data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="oreGradeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" data-tooltip=" " data-tt-type="concept-ore-grade" data-tt-grade="62" data-tt-name="62% Fe Standard CFR China" data-tt-desc="Global benchmark price for seaborne iron ore delivered to Qingdao port." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
@@ -10810,7 +10810,7 @@
           <!-- 9b. Global Commodity Prices - Cargo Demand Drivers (World Bank Pink Sheet) -->
           <div class="chart-container mb-20" id="commodityContainer">
             <div class="chart-header">
-              <div class="chart-title" id="commodityTitle" data-tooltip=" " data-tt-type="concept-commodities" data-tt-group="ore">Cargo Demand Drivers — World Bank Commodity Prices</div>
+              <div class="chart-title" id="commodityTitle" data-tooltip="World Bank Pink Sheet monthly commodity prices — iron ore, coal, Brent and indices driving cargo demand." data-tt-type="concept-commodities" data-tt-group="ore">Cargo Demand Drivers — World Bank Commodity Prices</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="commodityGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="comGrpOre" onclick="setCommodityGroup('ore')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="ore" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Ore &amp; Coal</button>
@@ -10906,7 +10906,7 @@
           <!-- LNG Carrier 7Y/10Y Long-Term Period Rates & Newbuilding Asset Values -->
           <div class="chart-container mb-20" id="lngCharterContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="lngCharterTitle" data-tooltip=" " data-tt-type="concept-lngtc">LNG Carrier Long-Term Period Rates (7Y/10Y TC) & Newbuilding Prices</div>
+              <div class="chart-title" id="lngCharterTitle" data-tooltip="LNG long-term 7Y/10Y period rates and 174k newbuilding capex with cash-on-cash payback yield." data-tt-type="concept-lngtc">LNG Carrier Long-Term Period Rates (7Y/10Y TC) & Newbuilding Prices</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="lngScaleToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="lngScale174k" onclick="setLngScale('174k')" data-tooltip=" " data-tt-type="concept-lng-scale" data-tt-scale="174k" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">174k Large LNG</button>
@@ -10949,7 +10949,7 @@
           <!-- Drewry World Container Index (WCI) & Red Sea Bypass Spread Tracker -->
           <div class="chart-container mb-20" id="wciContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="wciTitle" data-tooltip=" " data-tt-type="concept-wci">Drewry World Container Index (WCI) & Freight Spreads</div>
+              <div class="chart-title" id="wciTitle" data-tooltip="Drewry WCI composite and Shanghai-Europe/US lanes — container freight pulse and bypass spread." data-tt-type="concept-wci">Drewry World Container Index (WCI) & Freight Spreads</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="wciRouteToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="wciBtnComposite" onclick="setWciRoute('composite')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Composite ($/FEU)</button>
@@ -10958,6 +10958,17 @@
                   <button class="toggle-btn" id="wciBtnAll" onclick="setWciRoute('all')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Routes</button>
                 </div>
                 <div id="wciBadge" class="kpi-badge">WCI: —</div>
+              </div>
+            </div>
+            <div class="index-range-wrap" style="padding: 2px 0 6px;">
+              <div class="index-range-label">
+                <span>Range:</span>
+                <span id="wciRangeLabel">Loading…</span>
+              </div>
+              <div class="dual-range-track" id="wciRangeTrack">
+                <div class="dual-range-fill" id="wciRangeFill"></div>
+                <input type="range" id="wciRangeStart" min="0" max="100" value="0" step="1">
+                <input type="range" id="wciRangeEnd" min="0" max="100" value="100" step="1">
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="wciChart"></canvas></div>
@@ -11004,7 +11015,7 @@
           <!-- Vessel valuations and scrap floor -->
           <div class="chart-container mb-20" id="vesselValuationsContainer">
             <div class="chart-header">
-              <div class="chart-title" id="valuationTitle" data-tooltip=" " data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
+              <div class="chart-title" id="valuationTitle" data-tooltip="Secondhand 10Y values vs demolition scrap floor and implied charter yield — asset cycle entry signal." data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="valSectorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="valSecCape" onclick="setValSector('cape')" data-tooltip=" " data-tt-type="concept-val-sec" data-tt-sec="cape" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
@@ -11160,6 +11171,7 @@
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="ppaThroughputChart"></canvas></div>
+            <div id="ppaProvenanceFooter" style="font-size:10px;color:var(--text-muted);margin-top:6px;padding:6px 8px;background:var(--bg);border:1px solid var(--border);border-radius:4px;line-height:1.4;">Provenance: <span id="ppaProvenanceText">Loading…</span> — official PPA monthly cargo-statistics (Port Hedland) via Internet Archive of pilbaraports.com.au; Dampier publishes separately. Rows flagged <code>provenance</code> diagnostic carry template seasonality until live feed acquisition. Coverage: 2024–present.</div>
           </div>
 
           <!-- 3. US PADD 3 Gulf Coast Seaborne Petroleum Exports (EIA Weekly) -->
@@ -11173,12 +11185,12 @@
             <div class="chart-canvas-wrap" style="height:300px"><canvas id="eiaExportsChart"></canvas></div>
           </div>
 
-          <!-- 4. Global Port Congestion & Anchorage Queues (IMF PortWatch 8 Hubs) -->
+          <!-- 4. Global Port Congestion & Anchorage Queues (IMF PortWatch 12 Hubs) -->
           <div class="chart-container mb-20" id="portCongestionContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
               <div class="chart-title" id="portCongestionTitle" data-tooltip=" " data-tt-type="concept-port-congestion">Global Port Activity Monitor — Calls &amp; Dry-Bulk Tonnage (IMF PortWatch)</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="congestionPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <div id="congestionPortToggle" style="display:inline-flex;flex-wrap:wrap;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="congBtnQingdao" onclick="setCongestionPort('port1069')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1069" data-tt-name="Qingdao (China)" data-tt-desc="Primary North China iron ore & crude discharge port. Critical Capesize demand indicator." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Qingdao</button>
                   <button class="toggle-btn" id="congBtnNingbo" onclick="setCongestionPort('port824')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port824" data-tt-name="Ningbo-Zhoushan (China)" data-tt-desc="World's busiest port by tonnage; major mega-bulk & VLCC deepwater discharge terminal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Ningbo</button>
                   <button class="toggle-btn" id="congBtnHedland" onclick="setCongestionPort('port955')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port955" data-tt-name="Port Hedland (Australia)" data-tt-desc="Primary Capesize iron ore loading gateway in Western Australia." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port Hedland</button>
@@ -11186,12 +11198,18 @@
                   <button class="toggle-btn" id="congBtnSingapore" onclick="setCongestionPort('port1201')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1201" data-tt-name="Singapore (Strait of Malacca)" data-tt-desc="Global mega-hub for bunkering, STS transshipment, and container triangulation." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Singapore</button>
                   <button class="toggle-btn" id="congBtnRotterdam" onclick="setCongestionPort('port1114')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1114" data-tt-name="Rotterdam (Netherlands)" data-tt-desc="Primary European gateway for crude oil, refined products, coal, and chemicals." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Rotterdam</button>
                   <button class="toggle-btn" id="congBtnHouston" onclick="setCongestionPort('port481')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port481" data-tt-name="Houston (US Gulf Coast)" data-tt-desc="Major loading port for US crude (WTI), LNG, LPG, and refined petroleum exports." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Houston</button>
+                  <button class="toggle-btn" id="congBtnTubarao" onclick="setCongestionPort('port1328')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1328" data-tt-name="Tubarao (Brazil)" data-tt-desc="Primary Brazilian iron ore export terminal (Vale). Key Capesize C3 loading indicator." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Tubarao</button>
+                  <button class="toggle-btn" id="congBtnSantos" onclick="setCongestionPort('port1160')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1160" data-tt-name="Santos (Brazil)" data-tt-desc="Brazil's largest container and soybean/sugar bulk export gateway." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Santos</button>
+                  <button class="toggle-btn" id="congBtnRizhao" onclick="setCongestionPort('port1105')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1105" data-tt-name="Rizhao (China)" data-tt-desc="Major North China iron ore and coal discharge port; Shandong Capesize demand signal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Rizhao</button>
+                  <button class="toggle-btn" id="congBtnHayPoint" onclick="setCongestionPort('port458')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port458" data-tt-name="Hay Point (Australia)" data-tt-desc="Queensland coking-coal export terminal; key Panamax/Capesize coal loading signal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Hay Point</button>
+                  <button class="toggle-btn" id="congBtnQinhuangdao" onclick="setCongestionPort('port1072')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1072" data-tt-name="Qinhuangdao (China)" data-tt-desc="Major North China coal export and domestic transshipment hub." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Qinhuangdao</button>
                   <button class="toggle-btn" id="congBtnAll" onclick="setCongestionPort('ALL')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="ALL" data-tt-name="All Monitored Hubs" data-tt-desc="Cross-hub aggregate of daily port calls and dry-bulk tonnage." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Hubs</button>
                 </div>
                 <div id="congestionBadge" class="kpi-badge">Port Calls: —</div>
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="portCongestionChart"></canvas></div>
+            <div id="portProvenanceFooter" style="font-size:10px;color:var(--text-muted);margin-top:6px;padding:6px 8px;background:var(--bg);border:1px solid var(--border);border-radius:4px;line-height:1.4;">Provenance: IMF PortWatch <code>Daily_Ports_Data</code> — measured AIS daily port calls &amp; dry-bulk tonnage. Previous waiting-time / anchored-ship series was simulated and withdrawn 2026-08-25. Last snapshot: <span id="portProvenanceText">Loading…</span>. Hubs: Qingdao, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao + All aggregate.</div>
           </div>
 
           <!-- 5. EU ETS Maritime Carbon Allowance & Interactive Scrubber Economics -->
@@ -11227,7 +11245,7 @@
                 <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
                   <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Daily Scrubber Savings ($/day)</div>
                   <div id="calcScrubberDailySavings" style="font-size:15px;font-weight:700;color:#3fb950;margin-top:2px;">+$6,615/day</div>
-                  <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">At current Singapore Hi-5 Spread ($147/MT)</div>
+                  <div id="calcHi5SpreadLabel" style="font-size:10px;color:var(--text-muted);margin-top:2px;">At current Singapore Hi-5 Spread (live)</div>
                 </div>
                 <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
                   <div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Annualized Scrubber Advantage ($M/yr)</div>
@@ -11247,9 +11265,9 @@
           <!-- 6. Ton-Mile Absorption & Active Fleet Utilization Model Simulator -->
           <div class="chart-container mb-20" id="tonMileSimContainer">
             <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="tonMileSimTitle" data-tooltip=" " data-tt-type="concept-ton-mile-sim">Ton-Mile Absorption & Fleet Utilization Model Simulator</div>
+              <div class="chart-title" id="tonMileSimTitle" data-tooltip="Ton-mile simulator — Guinea/Brazil long-haul flows vs fleet utilization; above 88-90% signals super-cycle repricing." data-tt-type="concept-ton-mile-sim">Ton-Mile Absorption & Fleet Utilization Model Simulator</div>
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="tonMileUtilBadge" class="kpi-badge" style="background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Capesize Active Utilization: 89.2% (Tight Supply)</div>
+                <div id="tonMileUtilBadge" class="kpi-badge" style="background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Modeled Capesize Utilization (diagnostic): 89.2% (Tight Supply)</div>
               </div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="tonMileSimChart"></canvas></div>
@@ -11281,7 +11299,13 @@
                 </div>
               </div>
               <div style="margin-top:10px;padding-top:8px;border-top:1px solid var(--border);font-size:11px;color:var(--text-muted);line-height:1.4;">
-                <strong>Mechanism</strong>: Guinean Bauxite transits ~11,200 nautical miles to China, consuming <strong>3.67x more Capesize DWT-days</strong> per metric tonne than Western Australian iron ore (3,600 nm). When active fleet utilization breaches <strong>88%–90%</strong>, spot rate price elasticity accelerates exponentially.
+                <strong>Mechanism</strong>: Guinean Bauxite transits ~11,200 nautical miles to China, consuming <strong>3.11x more Capesize DWT-days</strong> per metric tonne than Western Australian iron ore (3,600 nm). When active fleet utilization breaches <strong>88%–90%</strong>, spot rate price elasticity accelerates exponentially.
+              </div>
+              <div style="margin-top:8px;font-size:11px;color:var(--text-muted);line-height:1.4;">
+                <strong>Feasibility note</strong>: gray/infeasible zones — Guinea &gt;16 Mt/mo and Brazil &gt;40 Mt/mo exceed observed/model range; slider extremes are diagnostic stress-tests only (sliders retained).
+              </div>
+              <div style="margin-top:8px;font-size:11px;color:var(--text-muted);line-height:1.4;">
+                <strong>Data provenance (diagnostic)</strong>: Brazil live (ComexStat), Guinea live (UN Comtrade), WAus fixed 48 Mt/mo assumption, fleet 815 Bn Ton-NM calibrated — see <code>scripts/scrapers/generate_ton_mile_matrix.py</code>.
               </div>
             </div>
           </div>
@@ -12403,7 +12427,9 @@ if (intelTabsContainer) {
               }
             }
             return out;
-          }).filter(row => row.date != null);
+            // PapaParse skipEmptyLines:true drops truly-empty lines; this drops
+            // date-present-but-all-metrics-null rows (e.g. 2018-07-19) so charts never see all-null/NaN points.
+          }).filter(row => row.date != null && Object.keys(row).some(k => k !== 'date' && k !== 'dateStr' && row[k] != null));
         });
 
         const valPromise = safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
@@ -21751,12 +21777,20 @@ if (intelTabsContainer) {
     }
     window.setWciRoute = setWciRoute;
 
-    function renderWCIChart() {
+    function renderWCIChart(startIdx, endIdx) {
       const canvas = document.getElementById('wciChart');
       if (!canvas) return;
       if (!window.DATA) return;
-      const rows = DATA.wciTracker || DATA.drewry_wci || DATA.drewryWci || [];
-      if (!rows || !rows.length) return;
+      const rowsAll = DATA.wciTracker || DATA.drewry_wci || DATA.drewryWci || [];
+      if (!rowsAll || !rowsAll.length) return;
+
+      initDualRangeSlider('wciRange', rowsAll, function (isManual, s, e) { if (isManual) renderWCIChart(s, e); });
+      const sEl = document.getElementById('wciRangeStart');
+      const eEl = document.getElementById('wciRangeEnd');
+      const s = (startIdx != null && !isNaN(startIdx)) ? startIdx : (sEl ? parseInt(sEl.value) : 0);
+      const e = (endIdx != null && !isNaN(endIdx)) ? endIdx : (eEl ? parseInt(eEl.value) : rowsAll.length - 1);
+      const rows = rowsAll.slice(s, e + 1);
+      if (!rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
       const datasets = [];
@@ -22385,9 +22419,9 @@ if (intelTabsContainer) {
     function setCongestionPort(p) {
       window.setCongestionPort = setCongestionPort;
       _congestionPort = p;
-      ['Qingdao', 'Ningbo', 'Caofeidian', 'Hedland', 'Singapore', 'Rotterdam', 'Houston', 'All'].forEach(function (x) {
+      const map = { 'Qingdao': 'port1069', 'Ningbo': 'port824', 'Hedland': 'port955', 'Newcastle': 'port816', 'Singapore': 'port1201', 'Rotterdam': 'port1114', 'Houston': 'port481', 'Tubarao': 'port1328', 'Santos': 'port1160', 'Rizhao': 'port1105', 'HayPoint': 'port458', 'Qinhuangdao': 'port1072', 'All': 'ALL' };
+      Object.keys(map).forEach(function (x) {
         const el = document.getElementById('congBtn' + x);
-        const map = { 'Qingdao': 'port1069', 'Ningbo': 'port824', 'Caofeidian': 'CNCFI', 'Hedland': 'port955', 'Singapore': 'port1201', 'Rotterdam': 'port1114', 'Houston': 'port481', 'All': 'ALL' };
         if (el) {
           const isActive = (map[x] === p || x.toUpperCase() === p.toUpperCase() || (map[x] && map[x].toLowerCase() === p.toLowerCase()));
           el.classList.toggle('active', isActive);
@@ -22509,10 +22543,12 @@ if (intelTabsContainer) {
       const elAnnual = document.getElementById('calcScrubberAnnualAdvantage');
       const elDrag = document.getElementById('calcEuEtsVoyageDrag');
       const elNote = document.getElementById('calcEuEtsNote');
+      const elHi5 = document.getElementById('calcHi5SpreadLabel');
 
       if (elDaily) elDaily.innerHTML = `+$${Math.round(dailySavings).toLocaleString()}/day`;
       if (elAnnual) elAnnual.innerHTML = `+$${annualAdvantage.toFixed(2)}M/year`;
       if (elDrag) elDrag.innerHTML = `-$${Math.round(etsDrag).toLocaleString()}/day`;
+      if (elHi5) elHi5.textContent = `At current Singapore Hi-5 Spread ($${hi5.toFixed(0)}/MT${hasData ? '' : ', illustrative'})`;
       // Disclose when the figures are from a live observation vs. pre-launch illustrative defaults.
       if (elNote) {
         elNote.style.display = hasData ? 'none' : 'block';
@@ -22604,12 +22640,13 @@ if (intelTabsContainer) {
       const totalTonMiles = wausTonMiles + brazilTonMiles + guineaTonMiles;
 
       const baseUtil = (totalTonMiles / 815.0) * 100.0;
+      // Disclosure: simulator display clamp lower bound 65.0 vs model 60.0 in scripts/scrapers/generate_ton_mile_matrix.py:113 — values unchanged (diagnostic).
       const activeUtil = Math.min(98.5, Math.max(65.0, baseUtil + (congestionPct - 4.5) * 1.2));
 
       if (elBadge) {
         const regimeColor = activeUtil >= 90.0 ? '#ff7b72' : (activeUtil >= 85.0 ? '#e3b341' : '#3fb950');
         const regimeText = activeUtil >= 90.0 ? 'Super-Cycle Squeeze' : (activeUtil >= 85.0 ? 'Tight Supply Window' : 'Balanced Fleet');
-        elBadge.innerHTML = `Capesize Active Utilization: <strong>${activeUtil.toFixed(1)}% (${regimeText})</strong>`;
+        elBadge.innerHTML = `Modeled Capesize Utilization (diagnostic): <strong>${activeUtil.toFixed(1)}% (${regimeText})</strong>`;
         elBadge.style.color = regimeColor;
       }
 
@@ -31306,10 +31343,20 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">Direct measure of physical loadings from Ponta da Madeira, Tubarão, Guaíba, and Santos. Monthly volume surges absorb long-haul Atlantic tonnage (~11,000 nm to China), directly leading Baltic Capesize (BCI) and Dirty Tanker (BDTI) freight rate repricings.</div>`;
         }
         else if (type === 'concept-ppa-throughput' || type === 'ppa-throughput-header') {
+          const ppaRows = (window.DATA && (DATA.ppaIronOre || DATA.ppa_iron_ore)) || [];
+          const ppaLast = ppaRows.length ? ppaRows[ppaRows.length - 1] : null;
+          const ppaProv = ppaLast ? (ppaLast.provenance || '') : '';
+          const ppaLive = (ppaProv === 'live_ppa_archive' || ppaProv === 'live_ppa');
           html = `<div class="rt-title">Pilbara Ports &amp; Major Miner Shipments</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Status</span><span class="rt-val" style="color:#ff7b72">DIAGNOSTIC — not verified against source</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Loading Hubs</span><span class="rt-val">Port of Port Hedland &amp; Port of Dampier (Western Australia)</span></div>`;
-          html += `<div class="rt-note">2026-08-25 data audit: the current series was compiled from editorial estimates, not a live PPA feed — monthly figures carry template seasonality and must NOT be treated as published throughput. A machine-readable Pilbara Ports feed is on the acquisition roadmap; until then this chart is diagnostic only.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Loading Hubs</span><span class="rt-val">Port Hedland &amp; Dampier (Western Australia)</span></div>`;
+          if (ppaLast) {
+            const ppaVal = ppaLast.ironOreExportsMt != null ? ppaLast.ironOreExportsMt.toFixed(1) + ' Mt' : '—';
+            html += `<div class="rt-row"><span class="rt-label">Latest Print</span><span class="rt-val">${ppaLast.dateStr} · ${ppaLast.port || ''} · ${ppaVal}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Provenance</span><span class="rt-val" style="color:${ppaLive ? '#3fb950' : '#e3b341'}">${ppaLive ? 'Live PPA archive' : 'Diagnostic (' + (ppaProv || 'estimate') + ')'}</span></div>`;
+          } else {
+            html += `<div class="rt-row"><span class="rt-label">Latest Print</span><span class="rt-val">Loading…</span></div>`;
+          }
+          html += `<div class="rt-note">Capesize C5 demand anchor. See provenance footer below the chart for full audit detail.</div>`;
         }
         else if (type === 'concept-eia-exports' || type === 'eia-exports-header') {
           html = `<div class="rt-title">US Gulf Coast (PADD 3) Seaborne Petroleum Exports</div>`;
@@ -31319,11 +31366,20 @@ if (intelTabsContainer) {
           html += `<div class="rt-note">US Gulf seaborne crude exports represent the largest incremental growth driver for long-haul tanker ton-miles. Transatlantic shipments to Europe replace short-haul North Sea barrels, while USG-to-Asia runs (~15,200 nm) absorb VLCC capacity for 60+ days.</div>`;
         }
         else if (type === 'concept-port-congestion' || type === 'concept-portwatch-congestion' || type === 'portwatch-header') {
+          const pwRows = (window.DATA && (DATA.portCongestion || DATA.portwatch_congestion || DATA.portwatchCongestion)) || [];
+          const pwLast = pwRows.length ? pwRows[pwRows.length - 1] : null;
           html = `<div class="rt-title">Global Port Activity Monitor (IMF PortWatch)</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Data Source</span><span class="rt-val">IMF PortWatch Daily_Ports_Data (measured AIS port calls &amp; tonnages)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Core Hubs</span><span class="rt-val">Qingdao, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Data Source</span><span class="rt-val">IMF PortWatch Daily_Ports_Data (measured AIS)</span></div>`;
+          const pwHubNames = [...new Set(pwRows.map(r => r.portName).filter(Boolean))].sort();
+          html += `<div class="rt-row"><span class="rt-label">Core Hubs (${pwHubNames.length || 12})</span><span class="rt-val">${pwHubNames.length ? pwHubNames.join(', ') : 'Qingdao Port, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Fields Shown</span><span class="rt-val">Daily port calls (total / dry bulk) and dry-bulk import tonnage (kt)</span></div>`;
-          html += `<div class="rt-note">2026-08-25 data audit: the previous waiting-time / anchored-ships series was found to be simulated rather than measured and has been withdrawn. This chart now displays only fields actually published by IMF PortWatch. Port-call surges at discharge hubs remain a leading proxy for Capesize supply tightness.</div>`;
+          if (pwLast) {
+            const pwCalls = pwLast.dailyPortCalls != null ? Math.round(pwLast.dailyPortCalls).toLocaleString('en-US') : '—';
+            const pwBulk = pwLast.callsDryBulk != null ? Math.round(pwLast.callsDryBulk).toLocaleString('en-US') : '—';
+            const pwKt = pwLast.importDryBulkKt != null ? Math.round(pwLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : '—';
+            html += `<div class="rt-row"><span class="rt-label">Last Snapshot</span><span class="rt-val">${pwLast.dateStr} · ${pwCalls} calls (${pwBulk} dry bulk) · ${pwKt}</span></div>`;
+          }
+          html += `<div class="rt-note">Measured AIS fields only; prior waiting-time series withdrawn. See provenance footer below the chart.</div>`;
         }
         else if (type === 'concept-carbon-ets' || type === 'carbon-ets-header') {
           html = `<div class="rt-title">EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics</div>`;
@@ -31338,6 +31394,7 @@ if (intelTabsContainer) {
           html += `<div class="rt-row"><span class="rt-label">Fleet Scope</span><span class="rt-val" style="color:#58a6ff">Capesize (380M DWT), VLCC (270M DWT), Suezmax (210M DWT)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Fleet Utilization</span><span class="rt-val" style="color:#3fb950">U = TM / (Nominal Fleet DWT × (1 − Congestion Factor))</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Long-Haul Multiplier</span><span class="rt-val" style="color:#e3b341">Guinea (11,200 nm) & USG-Asia (15,200 nm) absorb 3.6–4.2x DWT-days</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Model Status</span><span class="rt-val">32 months 2024-01→2026-08, 60-98.5% clipped, WAus fixed 48Mt/mo</span></div>`;
           html += `<div class="rt-note">Interactive simulation demonstrating why expanding long-haul trades (Guinea Bauxite, Brazil Ore, US Gulf & Guyana Crude) structurally tighten global dry bulk and tanker fleet capacity. When active fleet utilization exceeds 88%–90%, freight rates experience non-linear super-cycle repricing.</div>`;
         }
         else if (type === 'concept-lpg-freight') {
@@ -31931,8 +31988,29 @@ if (intelTabsContainer) {
           const hub = target.getAttribute('data-tt-hub') || '';
           const desc = target.getAttribute('data-tt-desc') || '';
           html = `<div class="rt-title">Port Hub: ${name}</div>`;
-          html += `<div class="rt-row"><span class="rt-label">UN/LOCODE</span><span class="rt-val">${hub}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Congestion Sensitivity</span><span class="rt-val" style="color:#58a6ff;">AIS Real-Time 7DMA Waiting Days</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Port ID</span><span class="rt-val">${hub}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Fields Shown</span><span class="rt-val" style="color:#58a6ff;">Daily Calls & Dry-Bulk Tonnage (measured AIS)</span></div>`;
+          const hubRowsAll = (window.DATA && (DATA.portCongestion || DATA.portwatch_congestion || DATA.portwatchCongestion)) || [];
+          if (hubRowsAll.length) {
+            if (hub === 'ALL') {
+              const allDates = [...new Set(hubRowsAll.map(r => r.dateStr))].sort();
+              const allLatest = allDates[allDates.length - 1];
+              const allDay = hubRowsAll.filter(r => r.dateStr === allLatest);
+              const allCalls = allDay.reduce((s, r) => s + (r.dailyPortCalls || 0), 0);
+              const allBulk = allDay.reduce((s, r) => s + (r.callsDryBulk || 0), 0);
+              const allKt = allDay.reduce((s, r) => s + (r.importDryBulkKt || 0), 0);
+              html += `<div class="rt-row"><span class="rt-label">Last Snapshot</span><span class="rt-val">${allLatest} · ${Math.round(allCalls).toLocaleString('en-US')} calls (${Math.round(allBulk).toLocaleString('en-US')} dry bulk) · ${Math.round(allKt).toLocaleString('en-US')} kt (${allDay.length} hubs)</span></div>`;
+            } else {
+              const hubRows = hubRowsAll.filter(r => (r.portCode || '').toLowerCase() === hub.toLowerCase());
+              if (hubRows.length) {
+                const hubLast = hubRows[hubRows.length - 1];
+                const hubCalls = hubLast.dailyPortCalls != null ? Math.round(hubLast.dailyPortCalls).toLocaleString('en-US') : '—';
+                const hubBulk = hubLast.callsDryBulk != null ? Math.round(hubLast.callsDryBulk).toLocaleString('en-US') : '—';
+                const hubKt = hubLast.importDryBulkKt != null ? Math.round(hubLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : '—';
+                html += `<div class="rt-row"><span class="rt-label">Last Snapshot</span><span class="rt-val">${hubLast.dateStr} · ${hubCalls} calls (${hubBulk} dry bulk) · ${hubKt}</span></div>`;
+              }
+            }
+          }
           if (desc) html += `<div class="rt-note">${desc}</div>`;
         }
         else if (type === 'concept-lpg-unit') {

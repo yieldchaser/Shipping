@@ -943,7 +943,22 @@ def load_physical_signals_context() -> str:
                 wci_rows = list(csv.DictReader(f))
             if wci_rows:
                 last_wci = wci_rows[-1]
-                lines.append(f"  • Drewry WCI ({last_wci.get('Date', '')}): Composite ${float(last_wci.get('Composite_USD', 0) or 0):,.0f}/FEU | SHA-Rotterdam ${float(last_wci.get('Shanghai_Rotterdam', 0) or 0):,.0f} | SHA-Genoa ${float(last_wci.get('Shanghai_Genoa', 0) or 0):,.0f} | SHA-LA ${float(last_wci.get('Shanghai_LA', 0) or 0):,.0f} | SHA-NY ${float(last_wci.get('Shanghai_NY', 0) or 0):,.0f}")
+                def _wci_num(r, *keys):
+                    for k in keys:
+                        v = r.get(k)
+                        if v not in (None, ''):
+                            try:
+                                return float(v)
+                            except (TypeError, ValueError):
+                                continue
+                    return 0
+                _wci_date = last_wci.get('date') or last_wci.get('Date', '')
+                _wci_comp = _wci_num(last_wci, 'composite_index', 'composite', 'Composite_USD')
+                _wci_rot = _wci_num(last_wci, 'shanghai_rotterdam', 'shanghai_rot', 'Shanghai_Rotterdam')
+                _wci_gen = _wci_num(last_wci, 'shanghai_genoa', 'shanghai_gen', 'Shanghai_Genoa')
+                _wci_la = _wci_num(last_wci, 'shanghai_la', 'shanghai_los_angeles', 'Shanghai_LA')
+                _wci_ny = _wci_num(last_wci, 'shanghai_ny', 'shanghai_new_york', 'Shanghai_NY')
+                lines.append(f"  • Drewry WCI ({_wci_date}): Composite ${_wci_comp:,.0f}/FEU | SHA-Rotterdam ${_wci_rot:,.0f} | SHA-Genoa ${_wci_gen:,.0f} | SHA-LA ${_wci_la:,.0f} | SHA-NY ${_wci_ny:,.0f}")
 
         # 10b. USDA Bulk Grain Ocean Freight & Congestion
         p_grain = ROOT / "data" / "derived" / "usda_grain_vessel_rates_japan.csv"
