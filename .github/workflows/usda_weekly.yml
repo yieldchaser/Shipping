@@ -3,8 +3,12 @@ name: Weekly USDA Maritime & Freight Data Ingest
 on:
   schedule:
     # Every Thursday at 15:00 UTC (following USDA weekly agricultural release)
+    # NOTE: this Thu 15 UTC run picks up FAS DESC 60k (date DESC + offset
+    # pagination via fetch_usda_fas_exports.py, most-recent ~60k rows, upserted
+    # without truncating history) — no extra backfill input needed.
     - cron: '0 15 * * 4'
   workflow_dispatch:
+    # Manual re-run uses the same FAS DESC 60k path as the schedule.
 
 permissions:
   contents: write

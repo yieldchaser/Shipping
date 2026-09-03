@@ -5,6 +5,16 @@ on:
     # Every Friday at 17:00 UTC (following Poten & Drewry weekly publication)
     - cron: '0 17 * * 5'
   workflow_dispatch:
+    # One-shot Wayback backfill wiring (no auto-run): default weekly run only
+    # appends the latest assessed print. Set backfill_2011=true to run
+    # fetch_drewry_wci.py --backfill (2011->present, assessed snapshots only,
+    # gaps stay null, never synthesized).
+    inputs:
+      backfill_2011:
+        description: 'One-shot Wayback backfill 2011->present (no synthesis)'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -40,7 +50,11 @@ jobs:
 
       - name: Run Drewry & Poten Ingestion
         run: |
-          python scripts/scrapers/fetch_drewry_wci.py || true
+          if [ "${{ inputs.backfill_2011 }}" = "true" ]; then
+            python scripts/scrapers/fetch_drewry_wci.py --backfill || true
+          else
+            python scripts/scrapers/fetch_drewry_wci.py || true
+          fi
           python scripts/scrapers/fetch_poten_direct.py || true
 
       - name: Commit & Push New Data

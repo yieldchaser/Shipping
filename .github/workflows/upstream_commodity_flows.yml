@@ -4,6 +4,18 @@ on:
   schedule:
     - cron: '0 6 * * 1' # Runs every Monday at 06:00 UTC
   workflow_dispatch:
+    # One-shot backfill wiring (no auto-run): default scheduled run keeps full
+    # depth (COMEXSTAT_FULL_HISTORY=1). Set comexstat_full=0 for a fast
+    # recent-slice (2024+) run only. NOTE: full 1997->live ComexStat is
+    # multi-hour (year-by-year slices, ~45s pacing + 429 backoff) — run LAST
+    # and isolated per the step comment below.
+    inputs:
+      comexstat_full:
+        description: 'ComexStat depth: 1 = full 1997->live (multi-hour pacing); 0 = recent 2024+ slice'
+        required: false
+        default: '1'
+        type: choice
+        options: ['1', '0']
 
 jobs:
   update-upstream-flows:
@@ -41,7 +53,10 @@ jobs:
           # ComexStat is the most rate-limited (MDIC free tier); run LAST and isolated
           # so its 429 backoff does not block the others. A partial run still commits
           # the months it succeeded on (the scraper skips, never fakes).
-          python scripts/scrapers/fetch_comexstat_brazil.py || echo "ComexStat rate-limited this run; will complete on a later paced run."
+          # Dispatch input comexstat_full (default 1): 1 = full 1997->live
+          # year-by-year (multi-hour pacing); 0 = recent 2024+ slice only.
+          # Scheduled runs have no inputs -> fall back to 1 (full depth).
+          COMEXSTAT_FULL_HISTORY="${{ inputs.comexstat_full }}"; if [ -z "$COMEXSTAT_FULL_HISTORY" ]; then COMEXSTAT_FULL_HISTORY=1; fi; export COMEXSTAT_FULL_HISTORY; python scripts/scrapers/fetch_comexstat_brazil.py || echo "ComexStat rate-limited this run; will complete on a later paced run."
           # Regenerate diagnostic Capesize ton-mile matrix AFTER live Brazil (ComexStat)
           # + Guinea bauxite (UN Comtrade) inputs land. Empty-month policy: null, not
           # fallback flatline — the generator refuses to fabricate a matrix when no

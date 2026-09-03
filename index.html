@@ -21866,7 +21866,22 @@ if (intelTabsContainer) {
       const latest = rows[rows.length - 1];
       const badge = document.getElementById('wciBadge');
       if (badge && latest && latest.composite) {
-        badge.innerHTML = `WCI Composite: <strong>$${latest.composite.toLocaleString()}/FEU</strong> (${latest.dateStr})`;
+        // E2E honesty: CSV currently starts 2024-01-04 (139 rows 2024-2026 provisional).
+        // Detect shallow coverage (min date >= 2024) and label provisional; full
+        // 2011+ Wayback backfill pending via workflow_dispatch backfill_2011.
+        // Never invent pre-2024 values.
+        let _wciProvSuffix = '';
+        try {
+          const _minRow = rowsAll.length ? rowsAll[0] : null;
+          let _minY = NaN;
+          if (_minRow && _minRow.date instanceof Date && !isNaN(_minRow.date)) _minY = _minRow.date.getFullYear();
+          if (isNaN(_minY) && _minRow && _minRow.dateStr) {
+            const _m = String(_minRow.dateStr).match(/(19|20)\d{2}/);
+            if (_m) _minY = parseInt(_m[0], 10);
+          }
+          if (_minY >= 2024) _wciProvSuffix = ' · 2024+ provisional (synthetic legacy removed)';
+        } catch (e) {}
+        badge.innerHTML = `WCI Composite: <strong>$${latest.composite.toLocaleString()}/FEU</strong> (${latest.dateStr})${_wciProvSuffix}`;
         badge.style.color = '#58a6ff';
       }
 
@@ -31362,8 +31377,9 @@ if (intelTabsContainer) {
           html = `<div class="rt-title">Drewry World Container Index (WCI) & Spreads</div>`;
           html += `<div class="rt-row"><span class="rt-label">Benchmark</span><span class="rt-val">Drewry Composite 40ft Spot Container Index ($/FEU)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Core Routes</span><span class="rt-val">Shanghai → Rotterdam, Genoa, Los Angeles, New York</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">139 rows 2024-2026 provisional (CSV starts 2024-01-04); Wayback 2011 backfill pending</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Chokepoint Sensitivity</span><span class="rt-val" style="color:#f85149">Red Sea / Bab-el-Mandeb & Panama Canal</span></div>`;
-          html += `<div class="rt-note">Reflects global container liner spot pricing. Elevated spreads between Asia-Europe and Asia-USWC routes capture Cape of Good Hope rerouting surcharges, transit delays, and vessel absorption dynamics.</div>`;
+          html += `<div class="rt-note">Reflects global container liner spot pricing. Elevated spreads between Asia-Europe and Asia-USWC routes capture Cape of Good Hope rerouting surcharges, transit delays, and vessel absorption dynamics. No pre-2024 values are invented — missing weeks render as gaps (spanGaps).</div>`;
         }
         else if (type === 'concept-grainfreight' || type === 'concept-grain-freight' || type === 'grain-freight-header') {
           html = `<div class="rt-title">USDA Bulk Grain Ocean Freight Rates & Spreads</div>`;

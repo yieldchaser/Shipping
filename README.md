@@ -76,6 +76,9 @@ Updated via Baltic Ticker public API (`scripts/baltic_new_indices.py`) and TAC I
 | `data/indices/fbx_historical.csv` | Freightos Baltic Container Index | FBX | 13-03-2026 | 104 | `Date, Index, % Change` |
 | [`data/indices/bai_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bai_historical.csv) | Baltic Air Freight Index | BAI | 01-01-2018 | 456 | `Date, Index, % Change` |
 
+> [!NOTE]
+> **Shallow CSVs until backfill runs land (E2E audit, no-break):** Drewry WCI **139 rows** (2024-01-04→2026-08-26 provisional, 2024+ badge in UI; Wayback 2011 pending — never synthesized), Brazil ComexStat **92 rows** (2024+ slice), EIA weekly exports **500 rows** (real 2017+ kept as-is without `EIA_API_KEY`), FAS outstanding sales **10k rows** (tail 2006 — FAS DESC 60k lands on Thu 15 UTC runs), FBX **108 rows** (Mar-2026+ slice; full 2017→present is a follow-up). How to trigger: `gh workflow run poten_drewry_weekly.yml -f backfill_2011=true`; `gh workflow run upstream_commodity_flows.yml -f comexstat_full=1` (multi-hour pacing) or `COMEXSTAT_FULL_HISTORY=1 python scripts/scrapers/fetch_comexstat_brazil.py`; `gh workflow run usda_weekly.yml` (Thu 15 UTC FAS DESC 60k). See [`docs/DATASETS.md`](file:///c:/Users/Dell/Github/Shipping/docs/DATASETS.md) for full inventory.
+
 ### 2.3 Time Charter (TC) Rates, Forward Curves & Valuations (`data/derived/`)
 
 Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical_data.py`), Alibra Deep Archive (2008–2026), and direct Google Sheet / OCR ingestion (`scripts/integrate_alibra_feed.py` & `scripts/process_knowledge.py`).

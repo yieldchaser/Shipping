@@ -2,6 +2,9 @@
 
 This document outlines the complete dataset inventory, publishing frequencies, primary data sources, and data health status for all **42 CSV datasets** tracked in the repository as of **August 2026**.
 
+> [!WARNING]
+> **Shallow CSVs until backfill runs land (E2E audit, no-break):** `drewry_wci_historical.csv` **139 rows** (2024-01-04→2026-08-26 provisional), `brazil_comexstat_exports.csv` **92 rows** (2024+ recent slice), `us_eia_weekly_crude_exports.csv` **500 rows** (real 2017+ kept as-is without `EIA_API_KEY`), `usda_fas_outstanding_export_sales.csv` **10k rows** (tail 2006 — FAS DESC 60k lands on Thu 15 UTC runs), `fbx_historical.csv` **108 rows** (Mar-2026+ slice; full 2017→present backfill is a follow-up). How to trigger: `gh workflow run poten_drewry_weekly.yml -f backfill_2011=true` (Wayback 2011→present, assessed only, gaps null); `gh workflow run upstream_commodity_flows.yml -f comexstat_full=1` (full 1997→live, multi-hour paced) or `COMEXSTAT_FULL_HISTORY=1 python scripts/scrapers/fetch_comexstat_brazil.py`; `gh workflow run usda_weekly.yml` (Thu 15 UTC FAS DESC 60k). Pre-2024 WCI values are never synthesized.
+
 ---
 
 ## 1. Freight & Shipping Indices (`data/indices/`)
