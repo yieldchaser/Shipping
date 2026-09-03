@@ -11163,7 +11163,7 @@
               <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <div id="ppaPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                   <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Port Hedland" data-tt-share="~43% of global seaborne iron ore" data-tt-desc="World's largest bulk export terminal (BHP, Fortescue, Roy Hill). Dictates Capesize C5 freight rates." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
-                  <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Port of Dampier')" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Port of Dampier" data-tt-share="~15% of global seaborne iron ore" data-tt-desc="Rio Tinto's primary Western Australian export terminal alongside Cape Lambert." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port of Dampier (Mt)</button>
+                  <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Port of Dampier')" disabled title="No live Dampier feed — Port Hedland only (PPA publishes separately)" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Port of Dampier" data-tt-share="~15% of global seaborne iron ore" data-tt-desc="Rio Tinto's primary Western Australian export terminal alongside Cape Lambert. No live feed — Port Hedland only (PPA publishes separately)." style="padding:3px 8px;border:none;cursor:not-allowed;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);opacity:0.45;">Port of Dampier (Mt)</button>
                   <button class="toggle-btn" id="ppaBtnCombined" onclick="setPpaPort('Combined')" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Total Pilbara" data-tt-share=">55% of global seaborne iron ore" data-tt-desc="Total combined Pilbara Ports Authority (PPA) waterborne throughput." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Total Pilbara</button>
                   <button class="toggle-btn" id="ppaBtnMiners" onclick="setPpaPort('Miners')" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Major Miners Guidance" data-tt-share="Top 4 Producers" data-tt-desc="Quarterly shipment run rates and annual guidance for Vale, Rio Tinto, BHP, and Fortescue." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Miner Shipments (Vale/Rio/BHP/FMG)</button>
                 </div>
@@ -12723,12 +12723,16 @@ if (intelTabsContainer) {
           DATA.ppaIronOre = DATA.ppa_iron_ore = (r || []).map(row => {
             const rawDate = (row.date || '').trim();
             const d = parseDateISO(rawDate) || parseDate(rawDate);
+            // Zero is never a real monthly port total — treat 0/empty as missing (null gap),
+            // same guard as intermodal_tc loader (isNaN || ===0 → null). Never fabricate Dampier.
+            const thrRaw = parseFloat(row.total_throughput_mt);
+            const oreRaw = parseFloat(row.iron_ore_exports_mt);
             return {
               date: d,
               dateStr: d ? fmtDate(d) : rawDate,
               port: (row.port || '').trim(),
-              totalThroughputMt: parseFloat(row.total_throughput_mt || 0) || null,
-              ironOreExportsMt: parseFloat(row.iron_ore_exports_mt || 0) || null,
+              totalThroughputMt: (isNaN(thrRaw) || thrRaw === 0) ? null : thrRaw,
+              ironOreExportsMt: (isNaN(oreRaw) || oreRaw === 0) ? null : oreRaw,
               momPct: parseFloat(row.mom_pct || 0) || null,
               yoyPct: parseFloat(row.yoy_pct || 0) || null,
               provenance: (row.provenance || '').trim(),
@@ -22318,27 +22322,64 @@ if (intelTabsContainer) {
 
       const hedlandMap = {}, dampierMap = {};
       rows.forEach(r => {
-        if ((r.port || '').includes('Hedland')) hedlandMap[r.dateStr] = r.ironOreExportsMt;
-        if ((r.port || '').includes('Dampier')) dampierMap[r.dateStr] = r.ironOreExportsMt;
+        // Null gap, never zero-fill: loader already maps 0/empty → null; re-guard here
+        // so a 0 can never render as a 0.0 Mt flat line. No Dampier values are fabricated.
+        const v = (r.ironOreExportsMt == null || r.ironOreExportsMt === 0) ? null : r.ironOreExportsMt;
+        if ((r.port || '').includes('Hedland')) hedlandMap[r.dateStr] = v;
+        if ((r.port || '').includes('Dampier')) dampierMap[r.dateStr] = v;
       });
+      const hasDampier = Object.keys(dampierMap).some(k => dampierMap[k] != null);
+      // Disable the Dampier toggle while no live Dampier feed exists (CSV has zero
+      // Dampier rows; scraper is Port Hedland only). Re-enabled automatically if a
+      // live feed ever lands. Hedland stays live-only.
+      const dampierBtn = document.getElementById('ppaBtnDampier');
+      if (dampierBtn) {
+        if (!hasDampier) {
+          dampierBtn.disabled = true;
+          dampierBtn.title = 'No live Dampier feed — Port Hedland only (PPA publishes separately)';
+          dampierBtn.style.opacity = '0.45';
+          dampierBtn.style.cursor = 'not-allowed';
+        } else {
+          dampierBtn.disabled = false;
+          dampierBtn.title = '';
+          dampierBtn.style.opacity = '';
+          dampierBtn.style.cursor = '';
+        }
+      }
 
       const datasets = [];
       if (_ppaPort === 'Port Hedland' || _ppaPort === 'Combined') {
-        datasets.push({ label: 'Port Hedland Ore (Mt/mo)', data: dates.map(d => hedlandMap[d] || null), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.2)', borderWidth: 2, fill: _ppaPort === 'Port Hedland', tension: 0.1 });
+        datasets.push({ label: 'Port Hedland Ore (Mt/mo)', data: dates.map(d => (hedlandMap[d] == null || hedlandMap[d] === 0 ? null : hedlandMap[d])), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.2)', borderWidth: 2, fill: _ppaPort === 'Port Hedland', tension: 0.1, spanGaps: false });
       }
       if (_ppaPort === 'Port of Dampier' || _ppaPort === 'Combined') {
-        datasets.push({ label: 'Port of Dampier Ore (Mt/mo)', data: dates.map(d => dampierMap[d] || null), borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.2)', borderWidth: 2, fill: _ppaPort === 'Port of Dampier', tension: 0.1 });
+        if (_ppaPort === 'Port of Dampier' && !hasDampier) {
+          // No live Dampier rows — all-null series renders as a gap, never a 0.0 flat line.
+          datasets.push({ label: 'Port of Dampier Ore (Mt/mo) — no live feed', data: dates.map(() => null), borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.2)', borderWidth: 2, fill: false, tension: 0.1, spanGaps: false });
+        } else {
+          datasets.push({ label: 'Port of Dampier Ore (Mt/mo)', data: dates.map(d => (dampierMap[d] == null || dampierMap[d] === 0 ? null : dampierMap[d])), borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.2)', borderWidth: 2, fill: _ppaPort === 'Port of Dampier', tension: 0.1, spanGaps: false });
+        }
       }
       if (_ppaPort === 'Combined') {
-        datasets.push({ label: 'Total Pilbara Iron Ore (Mt/mo)', data: dates.map(d => (hedlandMap[d] || 0) + (dampierMap[d] || 0)), borderColor: '#e3b341', borderWidth: 2.5, tension: 0.1 });
+        datasets.push({ label: 'Total Pilbara Iron Ore (Mt/mo)', data: dates.map(d => {
+          const hv = (hedlandMap[d] == null || hedlandMap[d] === 0) ? null : hedlandMap[d];
+          const dv = (dampierMap[d] == null || dampierMap[d] === 0) ? null : dampierMap[d];
+          if (hv == null && dv == null) return null;
+          return (hv || 0) + (dv || 0);
+        }), borderColor: '#e3b341', borderWidth: 2.5, tension: 0.1, spanGaps: false });
       }
 
       const latestDate = dates[dates.length - 1];
       const badge = document.getElementById('ppaThroughputBadge');
       if (badge && latestDate) {
-        const h = hedlandMap[latestDate] || 0;
-        const d = dampierMap[latestDate] || 0;
-        badge.innerHTML = `Hedland: <strong>${h.toFixed(1)} Mt</strong> | Dampier: <strong>${d.toFixed(1)} Mt</strong> (${latestDate})`;
+        const h = hedlandMap[latestDate];
+        const d = dampierMap[latestDate];
+        const hTxt = (h == null) ? 'n/a' : h.toFixed(1) + ' Mt';
+        const dTxt = (d == null) ? 'n/a (no live feed)' : d.toFixed(1) + ' Mt';
+        if (_ppaPort === 'Port of Dampier' && !hasDampier) {
+          badge.innerHTML = `Dampier: <strong>n/a (no live feed)</strong> (${latestDate})`;
+        } else {
+          badge.innerHTML = `Hedland: <strong>${hTxt}</strong> | Dampier: <strong>${dTxt}</strong> (${latestDate})`;
+        }
       }
 
       destroyChart('ppaThroughputChart');
@@ -25123,40 +25164,35 @@ if (intelTabsContainer) {
           }
         });
       } else if (fund === 'bwet') {
-        // Pre-compute rolling ratio or baseline normalization for BWETFF vs Tanker Spot
-        var bwetNormRatio = null;
-        for (var i = DATA.master.length - 1; i >= 0; i--) {
-          var mr = DATA.master[i];
-          if (mr.bwetff > 0 && mr.dirtytanker > 0) {
-            bwetNormRatio = mr.bwetff / mr.dirtytanker;
-            break;
-          }
-        }
-        bwetNormRatio = bwetNormRatio || 2.42;
-
-        DATA.master.forEach(function(r) {
+        // Point-in-time normalization: trailing-median 63 trading days of (bwetff / rawTanker) up to r.date (never future). Fallback 2.42 only when window empty.
+        DATA.master.forEach(function(r, idx) {
           var rawSpot = r.dirtytanker != null ? r.dirtytanker : (r.cleantanker != null ? r.cleantanker : null);
           if (rawSpot != null && rawSpot > 0 && r.bwetff != null && r.bwetff > 0) {
-            // Check if contemporaneous forward curve carry exists
-            var fwdCarry = null;
-            if (typeof DATA !== 'undefined' && DATA.tankerForwardCurves && DATA.tankerForwardCurves.length >= 2) {
-              var p0 = DATA.tankerForwardCurves[0];
-              var p1 = DATA.tankerForwardCurves[1];
-              if (p0 && p1) {
-                var v0 = (p0.vlcc_td3c || 450210) * 0.9 + (p0.suezmax_td20 || 92625) * 0.1;
-                var v1 = (p1.vlcc_td3c || 387764) * 0.9 + (p1.suezmax_td20 || 99008) * 0.1;
-                if (v0 > 0) fwdCarry = ((v1 - v0) / v0) * 100;
+            var ratios = [];
+            var wStart = Math.max(0, idx - 62);
+            for (var wi = wStart; wi <= idx; wi++) {
+              var wr = DATA.master[wi];
+              var wRaw = wr.dirtytanker != null ? wr.dirtytanker : (wr.cleantanker != null ? wr.cleantanker : null);
+              if (wRaw != null && wRaw > 0 && wr.bwetff != null && wr.bwetff > 0) {
+                ratios.push(wr.bwetff / wRaw);
               }
             }
-            var normalizedSpot = rawSpot * bwetNormRatio;
-            var spread = fwdCarry != null ? (fwdCarry / 100) * r.bwetff : (r.bwetff - normalizedSpot);
-            var pct = fwdCarry != null ? fwdCarry : ((spread / normalizedSpot) * 100);
-            basisSeries.push({ date: r.date, value: pct, spot: rawSpot, ff: r.bwetff, spread: spread, fund: 'bwet' });
+            var pitRatio = 2.42;
+            if (ratios.length) {
+              ratios.sort(function(a, b) { return a - b; });
+              var mid = Math.floor(ratios.length / 2);
+              pitRatio = (ratios.length % 2) ? ratios[mid] : (ratios[mid - 1] + ratios[mid]) / 2;
+            }
+            var normalizedSpot = rawSpot * pitRatio;
+            var spread = r.bwetff - normalizedSpot;
+            var pct = (spread / normalizedSpot) * 100;
+            basisSeries.push({ date: r.date, value: pct, spot: normalizedSpot, rawSpot: rawSpot, ff: r.bwetff, spread: spread, fund: 'bwet' });
+          } else {
+            basisSeries.push({ date: r.date, value: null, spot: null, rawSpot: rawSpot, ff: (r.bwetff != null ? r.bwetff : null), spread: null, fund: 'bwet' });
           }
         });
       } else { // dual
-        var bwetNorm = 2.42;
-        DATA.master.forEach(function(r) {
+        DATA.master.forEach(function(r, idx) {
           var bdrySpot = r.bdry_spot != null ? r.bdry_spot : (r.cape != null && r.panama != null && r.suprama != null ? (0.5 * r.cape + 0.4 * r.panama + 0.1 * r.suprama) : null);
           var bdryValid = (bdrySpot != null && bdrySpot > 0 && r.bdryff != null && r.bdryff > 0);
           var bdryVal = bdryValid ? (((r.bdryff - bdrySpot) / bdrySpot) * 100) : null;
@@ -25166,19 +25202,26 @@ if (intelTabsContainer) {
           var bwetValid = (rawTankerSpot != null && rawTankerSpot > 0 && r.bwetff != null && r.bwetff > 0);
           var bwetVal = null;
           var bwetSpread = null;
+          var bwetNormSpot = null;
           if (bwetValid) {
-            var fwdCarry = null;
-            if (typeof DATA !== 'undefined' && DATA.tankerForwardCurves && DATA.tankerForwardCurves.length >= 2) {
-              var p0 = DATA.tankerForwardCurves[0];
-              var p1 = DATA.tankerForwardCurves[1];
-              if (p0 && p1) {
-                var v0 = (p0.vlcc_td3c || 450210) * 0.9 + (p0.suezmax_td20 || 92625) * 0.1;
-                var v1 = (p1.vlcc_td3c || 387764) * 0.9 + (p1.suezmax_td20 || 99008) * 0.1;
-                if (v0 > 0) fwdCarry = ((v1 - v0) / v0) * 100;
+            var ratiosD = [];
+            var wStartD = Math.max(0, idx - 62);
+            for (var wiD = wStartD; wiD <= idx; wiD++) {
+              var wrD = DATA.master[wiD];
+              var wRawD = wrD.dirtytanker != null ? wrD.dirtytanker : (wrD.cleantanker != null ? wrD.cleantanker : null);
+              if (wRawD != null && wRawD > 0 && wrD.bwetff != null && wrD.bwetff > 0) {
+                ratiosD.push(wrD.bwetff / wRawD);
               }
             }
-            bwetVal = fwdCarry != null ? fwdCarry : (((r.bwetff - (rawTankerSpot * bwetNorm)) / (rawTankerSpot * bwetNorm)) * 100);
-            bwetSpread = fwdCarry != null ? (fwdCarry / 100) * r.bwetff : (r.bwetff - (rawTankerSpot * bwetNorm));
+            var pitRatioD = 2.42;
+            if (ratiosD.length) {
+              ratiosD.sort(function(a, b) { return a - b; });
+              var midD = Math.floor(ratiosD.length / 2);
+              pitRatioD = (ratiosD.length % 2) ? ratiosD[midD] : (ratiosD[midD - 1] + ratiosD[midD]) / 2;
+            }
+            bwetNormSpot = rawTankerSpot * pitRatioD;
+            bwetSpread = r.bwetff - bwetNormSpot;
+            bwetVal = (bwetSpread / bwetNormSpot) * 100;
           }
 
           if (bdryValid || bwetValid) {
@@ -25190,6 +25233,7 @@ if (intelTabsContainer) {
               bdryFf: r.bdryff,
               bdrySpread: bdrySpread,
               bwetSpot: rawTankerSpot,
+              bwetNormSpot: bwetNormSpot,
               bwetFf: r.bwetff,
               bwetSpread: bwetSpread,
               fund: 'dual'
@@ -25240,7 +25284,11 @@ if (intelTabsContainer) {
           hudSpreadVal.style.color = isContango ? '#f85149' : (isBackwardation ? '#3fb950' : 'var(--accent)');
         }
         if (hudSpreadSub) {
-          hudSpreadSub.textContent = (fund === 'bdry' ? 'BDRYFF: ' : 'BWETFF: ') + fmt(latest.ff, 2) + ' | Spot: ' + fmt(latest.spot, 2);
+          if (fund === 'bdry') {
+            hudSpreadSub.textContent = 'BDRYFF: ' + fmt(latest.ff, 2) + ' | Spot: ' + fmt(latest.spot, 2);
+          } else {
+            hudSpreadSub.textContent = 'BWETFF: ' + fmt(latest.ff, 2) + ' | Norm Spot: ' + fmt(latest.spot, 2);
+          }
         }
 
         if (hudRollDragVal) {
@@ -25326,7 +25374,8 @@ if (intelTabsContainer) {
           borderWidth: 2,
           pointRadius: 0,
           fill: false,
-          tension: 0.1
+          tension: 0.1,
+          spanGaps: true
         });
       } else { // dual
         datasets.push({
@@ -25378,12 +25427,20 @@ if (intelTabsContainer) {
                 label: function(c) {
                   var r = filtered[c.dataIndex];
                   if (!r) return '';
-                  if (fund === 'bdry' || fund === 'bwet') {
+                  if (fund === 'bdry') {
                     return [
                       (c.parsed.y != null ? ' Basis Spread: ' + (c.parsed.y >= 0 ? '+' : '') + c.parsed.y.toFixed(2) + '%' : ''),
                       ' Net Spread: ' + (r.spread >= 0 ? '+$' : '-$') + Math.abs(r.spread).toFixed(2),
                       ' Spot Index: ' + fmt(r.spot, 2),
                       ' Prompt Futures: ' + fmt(r.ff, 2)
+                    ];
+                  } else if (fund === 'bwet') {
+                    return [
+                      (c.parsed.y != null ? ' Basis Spread: ' + (c.parsed.y >= 0 ? '+' : '') + c.parsed.y.toFixed(2) + '%' : ''),
+                      ' Net Spread: ' + (r.spread != null ? ((r.spread >= 0 ? '+$' : '-$') + Math.abs(r.spread).toFixed(2)) : 'N/A'),
+                      ' Norm Spot: ' + fmt(r.spot, 2),
+                      ' Prompt Futures: ' + fmt(r.ff, 2),
+                      ' Raw BDTI: ' + fmt(r.rawSpot, 2)
                     ];
                   } else {
                     if (c.datasetIndex === 0 && r.bdryVal != null) {
@@ -25394,7 +25451,8 @@ if (intelTabsContainer) {
                     } else if (c.datasetIndex === 1 && r.bwetVal != null) {
                       return [
                         ' BWET Basis: ' + (r.bwetVal >= 0 ? '+' : '') + r.bwetVal.toFixed(2) + '%',
-                        ' Tanker Spot (BDTI): ' + fmt(r.bwetSpot, 2) + ' | BWETFF: ' + fmt(r.bwetFf, 2)
+                        ' Norm Spot: ' + fmt(r.bwetNormSpot, 2) + ' | BWETFF: ' + fmt(r.bwetFf, 2),
+                        ' Raw BDTI: ' + fmt(r.bwetSpot, 2)
                       ];
                     }
                     return '';
