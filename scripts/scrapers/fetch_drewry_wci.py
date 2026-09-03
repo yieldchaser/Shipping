@@ -189,8 +189,13 @@ def generate_canonical_wci_history():
     return pd.DataFrame(columns=CSV_COLUMNS)
 
 
-def fetch_wayback_cdx(url_pattern, from_year=2011, limit=5000):
-    """Query the Wayback CDX API for snapshot list. Returns list of dicts."""
+def fetch_wayback_cdx(url_pattern, from_year=2011, limit=200):
+    """Query the Wayback CDX API for snapshot list. Returns list of dicts.
+
+    Fail-soft: per-request timeout 30s, max 3 attempts with backoff.
+    Returns [] on persistent archive.org errors (e.g. GitHub Actions IP
+    throttling) so the caller can commit partial results instead of wedging.
+    """
     params = {
         "url": url_pattern,
         "from": str(from_year),
@@ -200,39 +205,60 @@ def fetch_wayback_cdx(url_pattern, from_year=2011, limit=5000):
         "collapse": "digest",
         "limit": str(limit),
     }
-    try:
-        resp = requests.get(WAYBACK_CDX_URL, params=params, headers=HEADERS, timeout=60)
-        if resp.status_code != 200:
-            print(f"    [!] CDX HTTP {resp.status_code} for {url_pattern}")
-            return []
-        data = resp.json()
-        if not data or len(data) < 2:
-            return []
-        header, rows = data[0], data[1:]
-        return [dict(zip(header, r)) for r in rows]
-    except Exception as exc:
-        print(f"    [!] CDX query failed for {url_pattern}: {exc}")
-        return []
+    delay = 2.0
+    for attempt in range(1, 4):
+        try:
+            resp = requests.get(WAYBACK_CDX_URL, params=params, headers=HEADERS, timeout=30)
+            if resp.status_code == 200:
+                try:
+                    data = resp.json()
+                except Exception as exc:
+                    print(f"    [!] CDX JSON decode failed for {url_pattern}: {exc}")
+                    return []
+                if not data or len(data) < 2:
+                    return []
+                header, rows = data[0], data[1:]
+                return [dict(zip(header, r)) for r in rows]
+            if resp.status_code in (429, 503):
+                print(f"    [!] CDX HTTP {resp.status_code} for {url_pattern} (attempt {attempt}/3)")
+            else:
+                print(f"    [!] CDX HTTP {resp.status_code} for {url_pattern}")
+                return []
+        except Exception as exc:
+            print(f"    [!] CDX query failed for {url_pattern} (attempt {attempt}/3): {exc}")
+        if attempt < 3:
+            time.sleep(delay)
+            delay *= 2
+    return []
 
 
-def backfill_drewry_wayback(from_year=2011, limit_per_pattern=1500, max_snapshots=400, sleep_s=1.0):
+def backfill_drewry_wayback(from_year=2011, limit_per_pattern=200, max_snapshots=50, sleep_s=0.5,
+                            deadline_s=540, max_consec_fail=10):
     """Backfill assessed WCI history via the Wayback Machine CDX API.
 
-    - Covers drewry.co.uk WCI pages from 2011 -> present.
+    - Covers drewry.co.uk WCI pages from from_year -> present.
+    - Bounds work: newest max_snapshots only (default 50), per-request
+      timeout 30s via get_with_backoff(), max 3 attempts with backoff,
+      overall deadline_s budget + consecutive-failure circuit breaker so
+      archive.org throttling (ConnectTimeout / Connection refused on
+      GitHub Actions IPs) fails soft instead of wedging the job.
     - Parses each snapshot with extract_assessments(); only real assessed
       values are kept. Missing weeks are left absent (frontend renders gaps
       with spanGaps:true); values are NEVER invented.
     - Upserts into data/indices/drewry_wci_historical.csv with dedup + sort,
       preserving the canonical header (date, composite_index, ...).
     - Idempotent: re-running yields the same sorted, deduped CSV.
+    - Fail-soft: returns partial (csv_path, n) on timeout/circuit-break;
+      never raises on Wayback errors.
     """
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     csv_path = DATA_DIR / "drewry_wci_historical.csv"
+    t_start = time.monotonic()
 
     snapshots = []
     seen_ts = set()
     for pat in WCI_WAYBACK_URL_PATTERNS:
-        print(f"[+] CDX query: {pat} (from {from_year})")
+        print(f"[+] CDX query: {pat} (from {from_year}, limit {limit_per_pattern})")
         rows = fetch_wayback_cdx(pat, from_year=from_year, limit=limit_per_pattern)
         print(f"    found {len(rows)} snapshots")
         for r in rows:
@@ -243,23 +269,39 @@ def backfill_drewry_wayback(from_year=2011, limit_per_pattern=1500, max_snapshot
             snapshots.append(r)
     snapshots.sort(key=lambda r: r.get("timestamp", ""))
     if len(snapshots) > max_snapshots:
-        # Thin evenly to stay within budget while keeping full time span.
-        step = len(snapshots) / max_snapshots
-        snapshots = [snapshots[int(i * step)] for i in range(max_snapshots)]
-        print(f"    thinned to {len(snapshots)} snapshots across 2011->present")
+        # Keep newest snapshots: bounds runtime and prefers recent assessed
+        # prints over deep-history (e.g. flaky 2022 snapshots).
+        snapshots = snapshots[-max_snapshots:]
+        print(f"    capped to newest {len(snapshots)} snapshots")
 
     collected = []
-    for snap in snapshots:
+    consec_fail = 0
+    for idx, snap in enumerate(snapshots, 1):
+        if time.monotonic() - t_start > deadline_s:
+            print(f"    [!] Wayback deadline ({deadline_s}s) reached at {idx}/{len(snapshots)}; "
+                  f"keeping partial {len(collected)} rows (fail-soft).")
+            break
         ts = snap.get("timestamp", "")
         orig = snap.get("original", "")
         wb_url = f"https://web.archive.org/web/{ts}id_/{orig}"
         try:
-            resp = get_with_backoff(wb_url, attempts=2)
+            resp = get_with_backoff(wb_url, attempts=3)
             if not resp:
+                consec_fail += 1
+                if consec_fail >= max_consec_fail:
+                    print(f"    [!] {consec_fail} consecutive Wayback failures; archive.org likely "
+                          f"throttling this IP. Aborting with partial {len(collected)} rows (fail-soft).")
+                    break
                 continue
             values, page_date, _ = extract_assessments(resp.text)
             if not values.get("composite_index") and len(values) < 2:
+                consec_fail += 1
+                if consec_fail >= max_consec_fail:
+                    print(f"    [!] {consec_fail} consecutive unparseable snapshots; aborting "
+                          f"with partial {len(collected)} rows (fail-soft).")
+                    break
                 continue
+            consec_fail = 0
             row = {col: values.get(col) for col in CSV_COLUMNS}
             # Prefer the assessed page date; fall back to snapshot date.
             if page_date:
@@ -272,6 +314,10 @@ def backfill_drewry_wayback(from_year=2011, limit_per_pattern=1500, max_snapshot
             collected.append(row)
         except Exception as exc:
             print(f"    [!] snapshot parse failed {wb_url}: {exc}")
+            consec_fail += 1
+            if consec_fail >= max_consec_fail:
+                print(f"    [!] circuit-breaker tripped; keeping partial {len(collected)} rows.")
+                break
             continue
         finally:
             if sleep_s:
@@ -332,14 +378,39 @@ def update_csv(row=None, extra_df=None):
     return upsert_wci_rows(df) if len(df) else upsert_wci_rows(pd.DataFrame(columns=CSV_COLUMNS))
 
 
+def _parse_backfill_args(argv):
+    """Parse optional backfill bounds. Defaults keep weekly runs bounded."""
+    from_year, limit_per_pattern, max_snapshots = 2011, 200, 50
+    for i, a in enumerate(argv):
+        try:
+            if a == "--from-year" and i + 1 < len(argv):
+                from_year = int(argv[i + 1])
+            elif a == "--limit-per-pattern" and i + 1 < len(argv):
+                limit_per_pattern = max(1, int(argv[i + 1]))
+            elif a == "--max-snapshots" and i + 1 < len(argv):
+                max_snapshots = max(1, int(argv[i + 1]))
+        except ValueError:
+            continue
+    return from_year, limit_per_pattern, max_snapshots
+
+
 def main():
     print("=" * 80)
     print("  DREWRY WORLD CONTAINER INDEX INGESTION")
     print("=" * 80)
 
     if "--backfill" in sys.argv:
-        print("\n[+] Wayback backfill requested (--backfill): 2011 -> present, no synthesis.")
-        csv_path, n = backfill_drewry_wayback()
+        from_year, limit_per_pattern, max_snapshots = _parse_backfill_args(sys.argv)
+        print(f"\n[+] Wayback backfill requested (--backfill): {from_year} -> present, "
+              f"newest {max_snapshots} (limit {limit_per_pattern}/pattern), no synthesis.")
+        try:
+            csv_path, n = backfill_drewry_wayback(
+                from_year=from_year, limit_per_pattern=limit_per_pattern,
+                max_snapshots=max_snapshots)
+        except Exception as exc:
+            print(f"    [!] Wayback backfill failed (fail-soft): {exc}")
+            csv_path = upsert_wci_rows(pd.DataFrame(columns=CSV_COLUMNS))
+            n = 0
         print(f"\n[OK] Wayback backfill complete: {n} assessed snapshots -> {csv_path.relative_to(REPO_ROOT)}")
         return 0
 
@@ -362,10 +433,13 @@ def main():
             break
 
     if not primary:
-        print("\n[!] Live WCI page JS-rendered or offline; attempting Wayback backfill (no synthesis).")
+        print("\n[!] Live WCI page JS-rendered or offline; attempting limited Wayback backfill (no synthesis).")
         print("    Missing weeks are left as gaps (frontend spanGaps:true); no values invented.")
         try:
-            csv_path, n = backfill_drewry_wayback()
+            # Fail-soft fallback: bounded (newest 50) so a blocked archive.org
+            # never wedges the weekly job; partial results are committed.
+            csv_path, n = backfill_drewry_wayback(
+                limit_per_pattern=200, max_snapshots=50, sleep_s=0.5)
             print(f"\n[OK] Time-series backfilled: {csv_path.relative_to(REPO_ROOT)} ({n} assessed snapshots)")
         except Exception as exc:
             print(f"    [!] Wayback backfill failed: {exc}; ensuring header-only CSV exists.")

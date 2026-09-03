@@ -47,11 +47,13 @@ def candidate_path():
     return tmp / "drewry_wci_wayback_candidate.csv"
 
 
-def run(from_year=2011, limit_per_pattern=1500, max_snapshots=400, sleep_s=1.0):
+def run(from_year=2011, limit_per_pattern=200, max_snapshots=50, sleep_s=0.5,
+        deadline_s=540, max_consec_fail=10):
+    t_start = time.monotonic()
     snapshots = []
     seen = set()
     for pat in WCI_WAYBACK_URL_PATTERNS:
-        print(f"[+] CDX query: {pat} (from {from_year})")
+        print(f"[+] CDX query: {pat} (from {from_year}, limit {limit_per_pattern})")
         rows = fetch_wayback_cdx(pat, from_year=from_year, limit=limit_per_pattern)
         print(f"    found {len(rows)} snapshots")
         for r in rows:
@@ -62,22 +64,37 @@ def run(from_year=2011, limit_per_pattern=1500, max_snapshots=400, sleep_s=1.0):
             snapshots.append(r)
     snapshots.sort(key=lambda r: r.get("timestamp", ""))
     if len(snapshots) > max_snapshots:
-        step = len(snapshots) / max_snapshots
-        snapshots = [snapshots[int(i * step)] for i in range(max_snapshots)]
-        print(f"    thinned to {len(snapshots)} snapshots across 2011->present")
+        snapshots = snapshots[-max_snapshots:]
+        print(f"    capped to newest {len(snapshots)} snapshots")
 
     collected = []
-    for snap in snapshots:
+    consec_fail = 0
+    for idx, snap in enumerate(snapshots, 1):
+        if time.monotonic() - t_start > deadline_s:
+            print(f"    [!] Wayback deadline ({deadline_s}s) reached at {idx}/{len(snapshots)}; "
+                  f"keeping partial {len(collected)} rows (fail-soft).")
+            break
         ts = snap.get("timestamp", "")
         orig = snap.get("original", "")
         wb_url = f"https://web.archive.org/web/{ts}id_/{orig}"
         try:
-            resp = get_with_backoff(wb_url, attempts=2)
+            resp = get_with_backoff(wb_url, attempts=3)
             if not resp:
+                consec_fail += 1
+                if consec_fail >= max_consec_fail:
+                    print(f"    [!] {consec_fail} consecutive Wayback failures; aborting "
+                          f"with partial {len(collected)} rows (fail-soft).")
+                    break
                 continue
             values, page_date, _ = extract_assessments(resp.text)
             if not values.get("composite_index") and len(values) < 2:
+                consec_fail += 1
+                if consec_fail >= max_consec_fail:
+                    print(f"    [!] {consec_fail} consecutive unparseable snapshots; aborting "
+                          f"with partial {len(collected)} rows (fail-soft).")
+                    break
                 continue
+            consec_fail = 0
             row = {col: values.get(col) for col in CSV_COLUMNS}
             if page_date:
                 row["date"] = page_date
@@ -89,6 +106,10 @@ def run(from_year=2011, limit_per_pattern=1500, max_snapshots=400, sleep_s=1.0):
             collected.append(row)
         except Exception as exc:
             print(f"    [!] snapshot parse failed {wb_url}: {exc}")
+            consec_fail += 1
+            if consec_fail >= max_consec_fail:
+                print(f"    [!] circuit-breaker tripped; keeping partial {len(collected)} rows.")
+                break
             continue
         finally:
             if sleep_s:
@@ -110,14 +131,19 @@ def run(from_year=2011, limit_per_pattern=1500, max_snapshots=400, sleep_s=1.0):
 
 
 def main():
-    from_year = 2011
+    from_year, limit_per_pattern, max_snapshots = 2011, 200, 50
     for i, a in enumerate(sys.argv):
-        if a == "--from-year" and i + 1 < len(sys.argv):
-            try:
+        try:
+            if a == "--from-year" and i + 1 < len(sys.argv):
                 from_year = int(sys.argv[i + 1])
-            except ValueError:
-                pass
-    run(from_year=from_year)
+            elif a == "--limit-per-pattern" and i + 1 < len(sys.argv):
+                limit_per_pattern = max(1, int(sys.argv[i + 1]))
+            elif a == "--max-snapshots" and i + 1 < len(sys.argv):
+                max_snapshots = max(1, int(sys.argv[i + 1]))
+        except ValueError:
+            pass
+    run(from_year=from_year, limit_per_pattern=limit_per_pattern,
+        max_snapshots=max_snapshots)
     return 0
 
 

@@ -7,8 +7,9 @@ on:
   workflow_dispatch:
     # One-shot Wayback backfill wiring (no auto-run): default weekly run only
     # appends the latest assessed print. Set backfill_2011=true to run
-    # fetch_drewry_wci.py --backfill (2011->present, assessed snapshots only,
-    # gaps stay null, never synthesized).
+    # fetch_drewry_wci.py --backfill --max-snapshots 50 --limit-per-pattern 200
+    # (newest 50 assessed snapshots only, gaps stay null, never synthesized;
+    # job timeout-minutes 15 + script deadline/circuit-breaker keep it fail-soft).
     inputs:
       backfill_2011:
         description: 'One-shot Wayback backfill 2011->present (no synthesis)'
@@ -26,6 +27,9 @@ concurrency:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    # Fail-soft bound: archive.org throttling must never wedge the job
+    # (run 33751576848 stuck 45m+ on Wayback ConnectTimeout/Connection refused).
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -51,7 +55,7 @@ jobs:
       - name: Run Drewry & Poten Ingestion
         run: |
           if [ "${{ inputs.backfill_2011 }}" = "true" ]; then
-            python scripts/scrapers/fetch_drewry_wci.py --backfill || true
+            python scripts/scrapers/fetch_drewry_wci.py --backfill --max-snapshots 50 --limit-per-pattern 200 || true
           else
             python scripts/scrapers/fetch_drewry_wci.py || true
           fi
