@@ -18,6 +18,13 @@ Honesty rules (2026-08-25 audit):
     site serves them without the wall).
   - Port Hedland only: these reports cover PH; Dampier publishes separately and is NOT
     fabricated here.
+    Dampier (added 2026-09-03): Port of Dampier FY "Cargo Statistics and Number of
+    Vessels" PDFs publish IRON ORE + TOTAL tonnage per month (July→June FY layout).
+    fetch_dampier_live() downloads the two current FY PDFs from pilbaraports.com.au
+    and parses them with parse_dampier_ytd_pdf(). Provenance for those rows is
+    live_ppa_dampier. Older Dampier PDFs (FY2002-03→FY2023-24 annuals, 141 snapshots
+    on the Wayback CDX index as of 2026-09-03) are a future backfill path, not yet
+    ingested — never synthesized.
 """
 import json
 import logging
@@ -46,6 +53,21 @@ CTX.verify_mode = ssl.CERT_NONE
 COUNTRIES = ["China", "Japan", "Korea, Republic of", "India", "Indonesia",
              "Malaysia", "Philippines", "Singapore", "Taiwan, Province of China",
              "Vietnam", "Australia"]
+
+# --- Port of Dampier live sources (verified 2026-09-03; direct HTTPS, no bot-wall) ---
+DAMPIER_SOURCES = [
+    # (financial-year start year, live PDF URL). Final full-year file once June lands,
+    # YTD file (June row blank '-') while the FY is in progress.
+    (2024, "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/"
+           "port%20of%20dampier/about%20the%20port%20of%20dampier/port%20statistics/"
+           "2025/klein-stats-july-2024-to-june-2025-ytd.pdf"),
+    (2025, "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/"
+           "port%20of%20dampier/about%20the%20port%20of%20dampier/port%20statistics/"
+           "2026/klein-stats-july-2025-to-may-2026-ytd.pdf"),
+]
+DAMPIER_MONTHS = {"JULY": 7, "AUGUST": 8, "SEPTEMBER": 9, "OCTOBER": 10,
+                  "NOVEMBER": 11, "DECEMBER": 12, "JANUARY": 1, "FEBRUARY": 2,
+                  "MARCH": 3, "APRIL": 4, "MAY": 5, "JUNE": 6}
 
 
 def cdx_hedland_pdfs(retries: int = 4) -> list[dict]:
@@ -100,6 +122,85 @@ def download(ts: str, url: str, dest: Path, tries: int = 3) -> bool:
         time.sleep(4 * attempt)   # Wayback throttles bursts; brief backoff then retry
     dest.unlink(missing_ok=True)
     return False
+
+
+def download_direct(url: str, dest: Path, tries: int = 3) -> bool:
+    """Direct HTTPS download (Dampier media PDFs are served openly, no bot-wall)."""
+    if dest.exists() and dest.stat().st_size > 5000:
+        return True
+    for attempt in range(1, tries + 1):
+        r = subprocess.run(["curl", "-sL", "--max-time", "120", "-o", str(dest),
+                            "-w", "%{http_code}", url, "-A", "Mozilla/5.0"],
+                           capture_output=True, text=True)
+        ok = r.stdout.strip().endswith("200") and dest.exists() and dest.stat().st_size > 5000
+        if ok:
+            return True
+        time.sleep(4 * attempt)
+    dest.unlink(missing_ok=True)
+    return False
+
+
+def parse_dampier_ytd_pdf(path: Path, fy_start: int) -> list[dict]:
+    """Parse one Dampier FY cargo-statistics PDF.
+
+    Layout: one row per month JULY→JUNE with columns IRON ORE, SALT, CONDENSATE,
+    LNG, LPG, AMMONIUM, GENERAL OUT, GENERAL IN, PETROLEUM IN, TOTAL (+ arrivals/
+    vessels). Months not yet published (June while FY in progress) show '-' and
+    are skipped — never zero-filled. Returns REAL extracted rows only.
+    """
+    doc = pymupdf.open(str(path))
+    text = " ".join(p.get_text().replace("\n", " ") for p in doc)
+    doc.close()
+    text = re.sub(r"\s+", " ", text)
+    # Each month row: MONTH iron salt cond lng lpg ammon genout genin petrol total ...
+    # '-' marks unpublished cells.
+    pat = re.compile(
+        r"(JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|"
+        r"NOVEMBER|DECEMBER)\s+([\d,\-]+)\s+([\d,\-]+)\s+([\d,\-]+)\s+([\d,\-]+)\s+"
+        r"([\d,\-]+)\s+([\d,\-]+)\s+([\d,\-]+)\s+([\d,\-]+)\s+([\d,\-]+)\s+([\d,\-]+)")
+    rows = []
+    for m in pat.finditer(text):
+        month_name = m.group(1)
+        iron_raw, total_raw = m.group(2), m.group(11)
+        if "-" in iron_raw or "-" in total_raw:
+            continue  # unpublished month (e.g. June in a YTD file)
+        month = DAMPIER_MONTHS[month_name]
+        year = fy_start if month >= 7 else fy_start + 1
+        iron = float(iron_raw.replace(",", ""))
+        total = float(total_raw.replace(",", ""))
+        if iron <= 0 or total <= 0:
+            continue
+        rows.append({
+            "date": datetime(year, month, 1).strftime("%Y-%m-%d"),
+            "port": "Port of Dampier",
+            "total_throughput_mt": round(total / 1e6, 3),
+            "iron_ore_exports_mt": round(iron / 1e6, 3),
+            "destinations_t": "",
+            "provenance": "live_ppa_dampier",
+        })
+        logging.info("Dampier %s  %.3f Mt iron / %.3f Mt total",
+                     rows[-1]["date"][:7], iron / 1e6, total / 1e6)
+    return rows
+
+
+def fetch_dampier_live() -> list[dict]:
+    """Download + parse the current Dampier FY PDFs. Returns [] on any failure
+    (caller keeps previously committed Dampier rows; nothing is fabricated)."""
+    SCRATCH.mkdir(exist_ok=True)
+    out: list[dict] = []
+    for fy_start, url in DAMPIER_SOURCES:
+        safe = re.sub(r"[^a-z0-9]+", "_", url.lower().rsplit("/", 1)[-1])[:60]
+        dest = SCRATCH / f"ppa_dampier_{safe}.pdf"
+        try:
+            if not download_direct(url, dest):
+                logging.warning("Dampier download failed: %s", url[:90])
+                continue
+            out.extend(parse_dampier_ytd_pdf(dest, fy_start))
+            time.sleep(1.0)
+        except Exception as exc:  # noqa: BLE001
+            logging.warning("Dampier parse failed %s: %s", dest.name[:50], exc)
+    # dedup by month (YTD file overlaps the prior final only at FY boundary — none)
+    return sorted({r["date"]: r for r in out}.values(), key=lambda r: r["date"])
 
 
 def month_from_text(text: str):
@@ -224,13 +325,48 @@ def main() -> pd.DataFrame:
     if not records:
         raise SystemExit("Parsed zero real PPA months — layout changed? Nothing written.")
 
-    df = pd.DataFrame(records).drop_duplicates("date").sort_values("date").reset_index(drop=True)
-    df["mom_pct"] = (df["iron_ore_exports_mt"].pct_change() * 100).round(2)
-    df["yoy_pct"] = (df["iron_ore_exports_mt"].pct_change(12) * 100).round(2)
-    df["provenance"] = "live_ppa_archive"
+    hed = pd.DataFrame(records).drop_duplicates("date").sort_values("date").reset_index(drop=True)
+    hed["port"] = "Port Hedland"
+    hed["provenance"] = "live_ppa_archive"
+
+    # --- Dampier: fresh live rows upserted over previously committed ones ---
+    damp_fresh = pd.DataFrame(fetch_dampier_live())
+    if OUT_FILE.exists():
+        try:
+            prev = pd.read_csv(OUT_FILE, dtype=str)
+            prev_damp = prev[prev["port"].str.contains("Dampier", na=False)]
+        except Exception as exc:  # noqa: BLE001
+            logging.warning("Could not read existing CSV for Dampier upsert: %s", exc)
+            prev_damp = pd.DataFrame()
+    else:
+        prev_damp = pd.DataFrame()
+    if damp_fresh.empty:
+        logging.warning("No fresh Dampier rows — keeping %d committed Dampier rows",
+                        len(prev_damp))
+        damp = prev_damp
+    elif not prev_damp.empty:
+        damp = pd.concat([prev_damp, damp_fresh], ignore_index=True)
+        damp = damp.drop_duplicates(subset=["date"], keep="last")
+    else:
+        damp = damp_fresh
+
+    frames = [hed]
+    if damp is not None and not damp.empty:
+        frames.append(damp)
+    df = pd.concat(frames, ignore_index=True)
+    df["date"] = pd.to_datetime(df["date"])
+    for col in ("total_throughput_mt", "iron_ore_exports_mt"):
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+    df = df.drop_duplicates(subset=["date", "port"]).sort_values(["port", "date"])
+    # MoM / YoY are computed WITHIN each port series (never across ports)
+    df["mom_pct"] = (df.groupby("port")["iron_ore_exports_mt"].pct_change() * 100).round(2)
+    df["yoy_pct"] = (df.groupby("port")["iron_ore_exports_mt"].pct_change(12) * 100).round(2)
+    df["date"] = df["date"].dt.strftime("%Y-%m-%d")
+    df = df[["date", "port", "total_throughput_mt", "iron_ore_exports_mt",
+             "destinations_t", "mom_pct", "yoy_pct", "provenance"]]
     df.to_csv(OUT_FILE, index=False)
     span = f"{df['date'].min()} .. {df['date'].max()}"
-    logging.info("Wrote %d REAL PPA months (%s) -> %s", len(df), span, OUT_FILE.name)
+    logging.info("Wrote %d REAL PPA rows (%s) -> %s", len(df), span, OUT_FILE.name)
     return df
 
 

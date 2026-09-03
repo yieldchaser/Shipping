@@ -14,3 +14,26 @@ date,port,total_throughput_mt,iron_ore_exports_mt,destinations_t,mom_pct,yoy_pct
 2023-09-01,Port Hedland,45.075,45.075,"{""China"": 39382016.0, ""India"": 558428.0, ""Indonesia"": 364036.0, ""Japan"": 1008214.0, ""Korea, Republic of"": 3113463.0, ""Taiwan, Province of China"": 294943.0, ""Vietnam"": 353571.0}",-13.2,-3.02,live_ppa_archive
 2023-10-01,Port Hedland,46.892,46.892,"{""China"": 39663722.0, ""India"": 373459.0, ""Indonesia"": 821668.0, ""Japan"": 1891966.0, ""Korea, Republic of"": 2595637.0, ""Malaysia"": 400138.0, ""Philippines"": 181048.0, ""Singapore"": 795.26, ""Taiwan, Province of China"": 435194.0, ""Vietnam"": 528762.0}",4.03,12.65,live_ppa_archive
 2024-05-01,Port Hedland,51.941,51.941,"{""Australia"": 2365.23, ""China"": 45329014.0, ""India"": 332579.0, ""Indonesia"": 360249.0, ""Japan"": 1693515.0, ""Korea, Republic of"": 2857800.0, ""Malaysia"": 317725.0, ""Philippines"": 78209.0, ""Taiwan, Province of China"": 276194.0, ""Vietnam"": 695306.0}",10.77,11.7,live_ppa_archive
+2024-07-01,Port of Dampier,14.559,11.968,,,,live_ppa_dampier
+2024-08-01,Port of Dampier,15.691,13.435,,12.26,,live_ppa_dampier
+2024-09-01,Port of Dampier,15.02,13.114,,-2.39,,live_ppa_dampier
+2024-10-01,Port of Dampier,14.45,12.2,,-6.97,,live_ppa_dampier
+2024-11-01,Port of Dampier,15.23,13.032,,6.82,,live_ppa_dampier
+2024-12-01,Port of Dampier,16.047,13.721,,5.29,,live_ppa_dampier
+2025-01-01,Port of Dampier,11.886,9.792,,-28.63,,live_ppa_dampier
+2025-02-01,Port of Dampier,10.086,8.233,,-15.92,,live_ppa_dampier
+2025-03-01,Port of Dampier,15.748,13.622,,65.46,,live_ppa_dampier
+2025-04-01,Port of Dampier,14.743,12.452,,-8.59,,live_ppa_dampier
+2025-05-01,Port of Dampier,14.169,12.581,,1.04,,live_ppa_dampier
+2025-06-01,Port of Dampier,15.035,12.998,,3.31,,live_ppa_dampier
+2025-07-01,Port of Dampier,14.492,12.228,,-5.92,2.17,live_ppa_dampier
+2025-08-01,Port of Dampier,16.198,13.847,,13.24,3.07,live_ppa_dampier
+2025-09-01,Port of Dampier,15.089,13.085,,-5.5,-0.22,live_ppa_dampier
+2025-10-01,Port of Dampier,16.937,14.928,,14.08,22.36,live_ppa_dampier
+2025-11-01,Port of Dampier,14.193,12.061,,-19.21,-7.45,live_ppa_dampier
+2025-12-01,Port of Dampier,17.022,14.975,,24.16,9.14,live_ppa_dampier
+2026-01-01,Port of Dampier,14.098,11.984,,-19.97,22.39,live_ppa_dampier
+2026-02-01,Port of Dampier,12.526,10.76,,-10.21,30.69,live_ppa_dampier
+2026-03-01,Port of Dampier,13.413,11.352,,5.5,-16.66,live_ppa_dampier
+2026-04-01,Port of Dampier,15.283,13.507,,18.98,8.47,live_ppa_dampier
+2026-05-01,Port of Dampier,13.592,11.936,,-11.63,-5.13,live_ppa_dampier
