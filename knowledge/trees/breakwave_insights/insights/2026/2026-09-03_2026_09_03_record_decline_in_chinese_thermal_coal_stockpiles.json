@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles__root",
+  "doc_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles",
+  "parent_id": null,
+  "title": "Record Decline in Chinese Thermal Coal Stockpiles",
+  "section_path": [
+    "Record Decline in Chinese Thermal Coal Stockpiles"
+  ],
+  "section_path_text": "Record Decline in Chinese Thermal Coal Stockpiles",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, China's thermal coal stockpiles plummeted by a record 64.6 million tons in July. There has never been a month that China's thermal coal stockpiles have fallen by such a large amount. Image reference: Chart .jpg | assets/2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg\nOverall, China's coal import prospects remain very promising for the near term as we continue to stress in our Weekly Executive Reports and Weekly China Reports.",
+  "keywords": [
+    "china",
+    "coal",
+    "thermal",
+    "asset",
+    "image",
+    "are",
+    "continue",
+    "import",
+    "linked",
+    "near",
+    "prospects",
+    "recent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 388,
+  "source_path": "reports/breakwave/2026/2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/3/record-decline-in-chinese-thermal-coal-stockpiles",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles",
+      "parent_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, China's thermal coal stockpiles plummeted by a record 64.6 million tons in July. There has never been a month that China's thermal coal stockpiles have fallen by such a large amount.",
+      "keywords": [
+        "china",
+        "coal",
+        "thermal",
+        "are",
+        "continue",
+        "import",
+        "near",
+        "prospects"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles__s02_linked_asset_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles_img_chart_fd4104b6dd44_jpg",
+      "doc_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles",
+      "parent_id": "breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles__root",
+      "title": "Linked asset: 2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg\n\nLinked image asset: 2026-09-03_record-decline-in-chinese-thermal-coal-stockpiles_img_chart_fd4104b6dd44.jpg\n\nImage metadata: JPEG 589x339 mode=RGB\n\nOCR text:\nMonthly Thermal Coal Surplus/Deficit\n75mt\n50mt\ndl | | | | |\ni] | | ll ul. Omt I | | | ~ 1 | |\n-25mt | | | |\n-50mt\nSS ---------------\n2024 2025 2026",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "jpeg",
+        "linked",
+        "metadata",
+        "mode"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
