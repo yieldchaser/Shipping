@@ -14,7 +14,8 @@ API notes (validated against live MDIC ComexStat, audit 2026-08):
 
 Behaviour (data-provenance policy):
   - Every row comes straight from the live API. No hand-typed fallback exists.
-  - If every commodity query fails -> exit non-zero, write nothing.
+  - If every commodity query fails -> keep existing CSV untouched, exit 0
+    (no-break rule), log ERROR loudly for upstream investigation.
   - If some fail -> commit the successful ones, log the failures loudly.
 """
 import json
@@ -45,7 +46,7 @@ PERIOD_TO = datetime.now(timezone.utc).strftime("%Y-%m")  # rolling window; futu
 
 GAP_S = 45              # spacing between commodity queries (free-tier pacing)
 YEAR_GAP_S = 5          # spacing between year-slice queries for the same commodity
-MAX_RETRIES = 5         # 429/5xx backoff attempts per commodity-year slice
+MAX_RETRIES = 5         # backoff attempts per commodity-year slice (all HTTP codes)
 REQUEST_TIMEOUT = 120
 
 _CTX = ssl.create_default_context()
@@ -79,6 +80,8 @@ def fetch_commodity(ncms: list[str]) -> list[dict]:
     Year slicing keeps each POST small (free-tier 429 avoidance) and isolates
     failures: one bad year logs loudly but does not discard other years.
     Honors Retry-After on 429 with exponential backoff per year slice.
+    All HTTP errors (including 4xx) log code+body, back off, and retry per
+    year — a single bad slice never aborts the whole commodity (fail-fast fix).
     """
     import os as _os
 
@@ -104,18 +107,24 @@ def fetch_commodity(ncms: list[str]) -> list[dict]:
                 all_recs.extend(recs)
                 break
             except urllib.error.HTTPError as e:  # noqa: PERF203
-                last_err = f"HTTP {e.code}"
-                if e.code == 429 or e.code >= 500:
-                    ra = e.headers.get("Retry-After") if e.headers else None
-                    wait = float(ra) if (ra and str(ra).isdigit()) else min(2 ** attempt * 15, 90)
-                    logging.warning("%s [%s] -> %s (attempt %d/%d); backing off %.0fs",
-                                    ",".join(ncms), period_from, last_err, attempt, MAX_RETRIES, wait)
-                    time.sleep(wait)
-                    continue
-                raise  # 4xx is a payload bug — surface it, don't mask it
+                try:
+                    err_body = e.read().decode("utf-8", "replace")[:2000]
+                except Exception:
+                    err_body = "<unreadable>"
+                last_err = f"HTTP {e.code} body={err_body[:500]}"
+                ra = e.headers.get("Retry-After") if e.headers else None
+                wait = float(ra) if (ra and str(ra).isdigit()) else min(2 ** attempt * 15, 90)
+                logging.warning("%s [%s] -> HTTP %s body=%.500s (attempt %d/%d); backing off %.0fs",
+                                ",".join(ncms), period_from, e.code, err_body, attempt, MAX_RETRIES, wait)
+                time.sleep(wait)
+                continue
             except Exception as e:  # noqa: BLE001, PERF203
-                last_err = str(e)
-                time.sleep(min(2 ** attempt * 10, 60))
+                last_err = str(e)[:500]
+                wait = min(2 ** attempt * 10, 60)
+                logging.warning("%s [%s] -> %s (attempt %d/%d); backing off %.0fs",
+                                ",".join(ncms), period_from, last_err, attempt, MAX_RETRIES, wait)
+                time.sleep(wait)
+                continue
         else:
             logging.warning("ComexStat gave up on %s year %d after %d tries (%s); "
                             "keeping other years.",
@@ -131,10 +140,14 @@ def main() -> pd.DataFrame:
     frames = []
     failures = []
     for i, (commodity, ncms) in enumerate(COMMODITIES.items()):
+        logging.info("Fetching %-10s NCM %s ...", commodity, "+".join(ncms))
         try:
             recs = fetch_commodity(ncms)
         except Exception as exc:  # noqa: BLE001
+            logging.warning("ComexStat FAILED %-10s (%s): %s", commodity, "+".join(ncms), exc)
             failures.append(f"{commodity}: {exc}")
+            if i < len(COMMODITIES) - 1:
+                time.sleep(GAP_S)
             continue
         rows = []
         for rec in recs:
