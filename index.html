@@ -21799,6 +21799,30 @@ if (intelTabsContainer) {
       const labels = rows.map(r => r.dateStr);
       const datasets = [];
 
+      // WCI data-quality gaps (frontend only; CSV keeps all rows, no synthesis):
+      // - 7 Wayback rows 2021-12-23→2022-02-24 repeat one value across every
+      //   route leg (e.g. 9304.05 in all columns): the scraper copied composite
+      //   into the legs. Legs for those dates are suspect -> gap (null).
+      // - Incomplete weeks (e.g. 2026-08-25 with empty shanghai_la and an
+      //   off-scale shanghai_ny 9507 print) -> gap all legs for that date.
+      // Composite is kept for those dates; spanGaps:false below renders the
+      // nulled legs as gaps instead of cliff/spike lines. NOTE: the composite
+      // segment spanning the 2022-02-24→2024-01-04 coverage hiatus is real
+      // history on a categorical axis, not a weekly move (see tooltip note).
+      function wciLegsSuspect(r) {
+        const legs = [r.sha_rot, r.sha_gen, r.sha_la, r.sha_ny];
+        const present = legs.filter(v => v != null);
+        if (present.length >= 3 && present.every(v => v === present[0])) return true;
+        return false;
+      }
+      function wciLegsIncomplete(r) {
+        return r.sha_rot == null || r.sha_gen == null || r.sha_la == null || r.sha_ny == null;
+      }
+      function wciLeg(r, key) {
+        if (wciLegsSuspect(r) || wciLegsIncomplete(r)) return null;
+        return r[key];
+      }
+
       if (_wciRoute === 'composite' || _wciRoute === 'all') {
         datasets.push({
           label: 'WCI Composite ($/40ft)',
@@ -21809,56 +21833,56 @@ if (intelTabsContainer) {
           fill: _wciRoute === 'composite',
           pointRadius: 0,
           pointHoverRadius: 4,
-          spanGaps: true,
+          spanGaps: false,
           tension: 0.1
         });
       }
       if (_wciRoute === 'europe' || _wciRoute === 'all') {
         datasets.push({
           label: 'Shanghai -> Rotterdam',
-          data: rows.map(r => r.sha_rot),
+          data: rows.map(r => wciLeg(r, 'sha_rot')),
           borderColor: '#3fb950',
           borderWidth: 2,
           fill: false,
           pointRadius: 0,
           pointHoverRadius: 4,
-          spanGaps: true,
+          spanGaps: false,
           tension: 0.1
         });
         datasets.push({
           label: 'Shanghai -> Genoa',
-          data: rows.map(r => r.sha_gen),
+          data: rows.map(r => wciLeg(r, 'sha_gen')),
           borderColor: '#e3b341',
           borderWidth: 2,
           fill: false,
           pointRadius: 0,
           pointHoverRadius: 4,
-          spanGaps: true,
+          spanGaps: false,
           tension: 0.1
         });
       }
       if (_wciRoute === 'us' || _wciRoute === 'all') {
         datasets.push({
           label: 'Shanghai -> Los Angeles',
-          data: rows.map(r => r.sha_la),
+          data: rows.map(r => wciLeg(r, 'sha_la')),
           borderColor: '#bc8cff',
           backgroundColor: 'rgba(188,140,255,0.1)',
           borderWidth: 2,
           fill: _wciRoute === 'us',
           pointRadius: 0,
           pointHoverRadius: 4,
-          spanGaps: true,
+          spanGaps: false,
           tension: 0.1
         });
         datasets.push({
           label: 'Shanghai -> New York',
-          data: rows.map(r => r.sha_ny),
+          data: rows.map(r => wciLeg(r, 'sha_ny')),
           borderColor: '#ff7b72',
           borderWidth: 2,
           fill: false,
           pointRadius: 0,
           pointHoverRadius: 4,
-          spanGaps: true,
+          spanGaps: false,
           tension: 0.1
         });
       }
@@ -21866,8 +21890,9 @@ if (intelTabsContainer) {
       const latest = rows[rows.length - 1];
       const badge = document.getElementById('wciBadge');
       if (badge && latest && latest.composite) {
-        // E2E honesty: CSV currently starts 2024-01-04 (139 rows 2024-2026 provisional).
-        // Detect shallow coverage (min date >= 2024) and label provisional; full
+        // E2E honesty: CSV holds 146 rows (7 early Wayback 2021-12-23→2022-02-24
+        // whose route legs are suspect-identical + 139 weekly 2024-01-04→2026-08-25).
+        // Suspect/incomplete legs render as frontend gaps (composite kept); full
         // 2011+ Wayback backfill pending via workflow_dispatch backfill_2011.
         // Never invent pre-2024 values.
         let _wciProvSuffix = '';
@@ -21880,6 +21905,7 @@ if (intelTabsContainer) {
             if (_m) _minY = parseInt(_m[0], 10);
           }
           if (_minY >= 2024) _wciProvSuffix = ' · 2024+ provisional (synthetic legacy removed)';
+          else if (!isNaN(_minY)) _wciProvSuffix = ' · 2021-22 Wayback legs gapped (suspect), 2024+ provisional';
         } catch (e) {}
         badge.innerHTML = `WCI Composite: <strong>$${latest.composite.toLocaleString()}/FEU</strong> (${latest.dateStr})${_wciProvSuffix}`;
         badge.style.color = '#58a6ff';
@@ -21895,7 +21921,7 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
-            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y || 0).toLocaleString()}` } }
+            tooltip: { callbacks: { label: c => (c.parsed.y == null ? ` ${c.dataset.label}: — (gap — suspect/incomplete week)` : ` ${c.dataset.label}: $${Number(c.parsed.y).toLocaleString()}`) } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
@@ -22333,7 +22359,6 @@ if (intelTabsContainer) {
 
       const rows = DATA.ppaIronOre || DATA.ppa_iron_ore || [];
       if (!rows || !rows.length) return;
-      const dates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-32);
 
       const hedlandMap = {}, dampierMap = {};
       rows.forEach(r => {
@@ -22343,6 +22368,17 @@ if (intelTabsContainer) {
         if ((r.port || '').includes('Hedland')) hedlandMap[r.dateStr] = v;
         if ((r.port || '').includes('Dampier')) dampierMap[r.dateStr] = v;
       });
+      // Per-port windows: Hedland is a sparse live archive (latest 2024-05-01) while
+      // Dampier has a deep backfill to 2002 (latest 2026-05-01). A shared union +
+      // slice(-32) leaves Hedland with 2 dots and an n/a badge at Dampier's date.
+      // Single-port views use their own last 32 months; Combined keeps the union.
+      // Gaps stay gaps (spanGaps:false) — never fabricated.
+      const hedlandDates = Object.keys(hedlandMap).sort().slice(-32);
+      const dampierDates = Object.keys(dampierMap).sort().slice(-32);
+      const unionDates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-32);
+      let dates = unionDates;
+      if (_ppaPort === 'Port Hedland') dates = hedlandDates;
+      else if (_ppaPort === 'Port of Dampier') dates = dampierDates;
       const hasDampier = Object.keys(dampierMap).some(k => dampierMap[k] != null);
       // Disable the Dampier toggle while no live Dampier feed exists (CSV has zero
       // Dampier rows; scraper is Port Hedland only). Re-enabled automatically if a
@@ -22383,17 +22419,21 @@ if (intelTabsContainer) {
         }), borderColor: '#e3b341', borderWidth: 2.5, tension: 0.1, spanGaps: false });
       }
 
-      const latestDate = dates[dates.length - 1];
       const badge = document.getElementById('ppaThroughputBadge');
-      if (badge && latestDate) {
-        const h = hedlandMap[latestDate];
-        const d = dampierMap[latestDate];
+      if (badge) {
+        // Per-port latest: ports diverge (Hedland 2024-05-01, Dampier 2026-05-01);
+        // a single global latestDate forces Hedland to n/a. Each side shows its own
+        // latest real month — never copied across ports, never fabricated.
+        const hDate = hedlandDates[hedlandDates.length - 1];
+        const dDate = dampierDates[dampierDates.length - 1];
+        const h = hDate ? hedlandMap[hDate] : null;
+        const d = dDate ? dampierMap[dDate] : null;
         const hTxt = (h == null) ? 'n/a' : h.toFixed(1) + ' Mt';
         const dTxt = (d == null) ? 'n/a (no live feed)' : d.toFixed(1) + ' Mt';
         if (_ppaPort === 'Port of Dampier' && !hasDampier) {
-          badge.innerHTML = `Dampier: <strong>n/a (no live feed)</strong> (${latestDate})`;
+          badge.innerHTML = `Dampier: <strong>n/a (no live feed)</strong> (${dDate || ''})`;
         } else {
-          badge.innerHTML = `Hedland: <strong>${hTxt}</strong> | Dampier: <strong>${dTxt}</strong> (${latestDate})`;
+          badge.innerHTML = `Hedland: <strong>${hTxt}</strong> (${hDate || 'n/a'}) | Dampier: <strong>${dTxt}</strong> (${dDate || 'n/a'})`;
         }
       }
 
@@ -22494,29 +22534,54 @@ if (intelTabsContainer) {
       if (!canvas) return;
       if (!window.DATA) return;
       const rows = DATA.portCongestion || DATA.portwatch_congestion || DATA.portwatchCongestion || [];
-      if (!rows || !rows.length) return;
+      const badge = document.getElementById('congestionBadge') || document.getElementById('portwatchCongestionBadge');
+      const prov = document.getElementById('portProvenanceText');
+      // Global vintage from all available rows — provenance must never stay "Loading…".
+      const allDatesFull = [...new Set((rows || []).map(r => r.dateStr).filter(Boolean))].sort();
+      const globalLatest = allDatesFull.length ? allDatesFull[allDatesFull.length - 1] : null;
+      if (prov) prov.textContent = globalLatest || 'n/a (no data)';
+      if (!rows || !rows.length) {
+        if (badge) badge.innerHTML = 'Port Calls: <strong>n/a (no data)</strong>';
+        destroyChart('portCongestionChart');
+        destroyChart('portwatchCongestionChart');
+        return;
+      }
 
       // 2026-08-25 audit: waiting-days / anchored-ships were SYNTHESIZED (seeded random walk)
       // and have been removed from the data pipeline. This chart now renders ONLY measured
       // IMF PortWatch fields: daily port calls (total + dry bulk) and dry-bulk import kt.
       const isAll = (_congestionPort === 'ALL' || _congestionPort === 'All');
       const filtered = isAll ? rows : rows.filter(r => (r.portCode || r.port_code || '').toUpperCase() === _congestionPort.toUpperCase() || (r.portName || r.port_name || '').toLowerCase().includes(_congestionPort.toLowerCase()));
-      const dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-120);
+      // A hub with zero rows (e.g. newly added Core12 hub before backfill lands)
+      // renders as an n/a gap over the shared last-120-day window — never an
+      // empty/black chart, never zero-filled, never fabricated.
+      const hubHasRows = filtered.length > 0;
+      let dates = [...new Set(filtered.map(r => r.dateStr))].sort().slice(-120);
+      if (!hubHasRows) {
+        dates = allDatesFull.slice(-120);
+      }
 
+      // Null-aware sums: a null (loader maps 0/empty → null) contributes nothing,
+      // so All = sum of available and a no-data day stays a gap, not a 0.
       const callMap = {}, bulkCallMap = {}, importKtMap = {};
       filtered.forEach(r => {
         const d = r.dateStr;
-        callMap[d] = (callMap[d] || 0) + (r.dailyPortCalls || 0);
-        bulkCallMap[d] = (bulkCallMap[d] || 0) + (r.callsDryBulk || 0);
-        importKtMap[d] = (importKtMap[d] || 0) + (r.importDryBulkKt || 0);
+        if (r.dailyPortCalls != null) callMap[d] = (callMap[d] || 0) + r.dailyPortCalls;
+        if (r.callsDryBulk != null) bulkCallMap[d] = (bulkCallMap[d] || 0) + r.callsDryBulk;
+        if (r.importDryBulkKt != null) importKtMap[d] = (importKtMap[d] || 0) + r.importDryBulkKt;
       });
 
       const latestDate = dates[dates.length - 1];
-      const badge = document.getElementById('congestionBadge') || document.getElementById('portwatchCongestionBadge');
       if (badge && latestDate) {
-        const c = callMap[latestDate] || 0;
-        const kt = importKtMap[latestDate] || 0;
-        badge.innerHTML = `Daily Port Calls: <strong>${Math.round(c)}</strong> | Dry-Bulk Imports: <strong>${Math.round(kt).toLocaleString()} kt</strong>`;
+        if (!hubHasRows) {
+          badge.innerHTML = `Daily Port Calls: <strong>n/a (no live feed)</strong> (${latestDate})`;
+        } else {
+          const c = callMap[latestDate];
+          const kt = importKtMap[latestDate];
+          const cTxt = (c != null) ? `<strong>${Math.round(c).toLocaleString()}</strong>` : '<strong>n/a</strong>';
+          const ktTxt = (kt != null) ? `<strong>${Math.round(kt).toLocaleString()} kt</strong>` : '<strong>n/a</strong>';
+          badge.innerHTML = `Daily Port Calls: ${cTxt} | Dry-Bulk Imports: ${ktTxt} (${latestDate})`;
+        }
         badge.style.color = 'var(--accent)';
       }
 
@@ -22527,9 +22592,9 @@ if (intelTabsContainer) {
         data: {
           labels: dates,
           datasets: [
-            { label: 'Total Port Calls', data: dates.map(d => callMap[d] || null), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.10)', borderWidth: 2, fill: true, tension: 0.2, pointRadius: 0 },
-            { label: 'Dry-Bulk Calls', data: dates.map(d => bulkCallMap[d] || null), borderColor: '#3fb950', borderWidth: 1.5, tension: 0.1, pointRadius: 0, yAxisID: 'y' },
-            { label: 'Dry-Bulk Imports (kt)', data: dates.map(d => importKtMap[d] || null), borderColor: '#d29922', borderWidth: 1.5, borderDash: [4, 3], tension: 0.2, pointRadius: 0, yAxisID: 'y1' }
+            { label: 'Total Port Calls', data: dates.map(d => (callMap[d] != null ? callMap[d] : null)), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.10)', borderWidth: 2, fill: true, tension: 0.2, pointRadius: 0, spanGaps: false },
+            { label: 'Dry-Bulk Calls', data: dates.map(d => (bulkCallMap[d] != null ? bulkCallMap[d] : null)), borderColor: '#3fb950', borderWidth: 1.5, tension: 0.1, pointRadius: 0, spanGaps: false, yAxisID: 'y' },
+            { label: 'Dry-Bulk Imports (kt)', data: dates.map(d => (importKtMap[d] != null ? importKtMap[d] : null)), borderColor: '#d29922', borderWidth: 1.5, borderDash: [4, 3], tension: 0.2, pointRadius: 0, spanGaps: false, yAxisID: 'y1' }
           ]
         },
         options: {
@@ -31395,9 +31460,9 @@ if (intelTabsContainer) {
           html = `<div class="rt-title">Drewry World Container Index (WCI) & Spreads</div>`;
           html += `<div class="rt-row"><span class="rt-label">Benchmark</span><span class="rt-val">Drewry Composite 40ft Spot Container Index ($/FEU)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Core Routes</span><span class="rt-val">Shanghai → Rotterdam, Genoa, Los Angeles, New York</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">139 rows 2024-2026 provisional (CSV starts 2024-01-04); Wayback 2011 backfill pending</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">146 rows: 7 early Wayback (2021-12-23→2022-02-24, route legs gapped as suspect — composite only) + 139 weekly 2024-01-04→2026-08-25 provisional; full 2011 backfill pending</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Chokepoint Sensitivity</span><span class="rt-val" style="color:#f85149">Red Sea / Bab-el-Mandeb & Panama Canal</span></div>`;
-          html += `<div class="rt-note">Reflects global container liner spot pricing. Elevated spreads between Asia-Europe and Asia-USWC routes capture Cape of Good Hope rerouting surcharges, transit delays, and vessel absorption dynamics. No pre-2024 values are invented — missing weeks render as gaps (spanGaps).</div>`;
+          html += `<div class="rt-note">Reflects global container liner spot pricing. Elevated spreads between Asia-Europe and Asia-USWC routes capture Cape of Good Hope rerouting surcharges, transit delays, and vessel absorption dynamics. No pre-2024 values are invented — suspect Wayback legs (identical values across routes) and incomplete weeks (e.g. 2026-08-25 empty Shanghai-LA) render as gaps (spanGaps:false); the steep composite segment spanning the 2022→2024 coverage hiatus is not a weekly move.</div>`;
         }
         else if (type === 'concept-grainfreight' || type === 'concept-grain-freight' || type === 'grain-freight-header') {
           html = `<div class="rt-title">USDA Bulk Grain Ocean Freight Rates & Spreads</div>`;
