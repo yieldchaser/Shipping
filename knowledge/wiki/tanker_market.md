@@ -7,10 +7,10 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 84
+document_count: 85
 evidence_count: 250
-generated_at: '2026-09-04T14:44:34Z'
-latest_evidence_date: '2026-09-04'
+generated_at: '2026-09-04T19:10:05Z'
+latest_evidence_date: '2026-10-04'
 page_type: topic_wiki
 related_topics:
 - vlcc_and_suezmax
@@ -25,12 +25,13 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-09-04, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 85 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-10-04, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
 
 ## Recent Evidence
+- 2026-10-04 | baltic tanker | Main: 04 Sept 2026 Tanker report - Week 36 [doc_id: baltic_tanker_2026-10-04_2026_10_04_tanker_report_week_36_tanker | section_id: baltic_tanker_2026-10-04_2026_10_04_tanker_report_week_36_tanker__s01_main | pages n/a]
 - 2026-09-04 | breakwave_insights insights | Main: By Panagiota Kinti It's already been six months since the disruption in the Strait of Hormuz, and the tanker market is approaching a critical crossroads. Whether the Strait reopens or remains constrained into 2027 will shape the landscape, the global oil flows and how the market absorbs a growing wave of new tanker capacity. [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_hormuz_2027_reopening_or_prolonged_disruption | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_hormuz_2027_reopening_or_prolonged_disruption__s01_main | pages n/a]
 - 2026-09-04 | breakwave_insights insights | Outlook for the Remainder of the Year: The slow start to the second half of the year for seaborne iron ore exports suggests that concerns over economic growth may have tempered demand. The lower volumes in recent months could also provide some limited support for prices in the short term. [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum__s04_outlook_for_the_remainder_of_the_year | pages n/a]
 - 2026-09-04 | breakwave_insights insights | Second-half Seaborne Iron Ore Exports off to a Soft Start: Global seaborne volumes of iron ore were lower in July and August compared with the same months last year. According to data from Signal Ocean, the year-on-year decline during the former month was nearly half a per cent, while the latter saw export volumes slide by almost two per cent. [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum__s03_second_half_seaborne_iron_ore_exports_off_to_a_soft_start | pages n/a]
@@ -38,20 +39,20 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-09-04 | breakwave_insights insights | Linked asset: 2026-09-04_coal-coal-coal_img_chart1_3d2a9b6530e7.jpg: Source asset: reports/breakwave/2026/assets/2026-09-04_coal-coal-coal_img_chart1_3d2a9b6530e7.jpg Linked image asset: 2026-09-04_coal-coal-coal_img_chart1_3d2a9b6530e7.jpg Image metadata: JPEG 673x292 mode=RGB OCR text: Daily Thermal Coal Burn at China's Six Major Power Plants 1,000 900 800 700-_.--- m-Mm-aw-w-_>-- Jun Jul ‘Aug Data in 1,000 tons. Data is above és only for China's six major power plants and is not nationwide [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal__s02_linked_asset_2026_09_04_coal_coal_coal_img_chart1_3d2a9b6530e7_jpg | pages n/a]
 - 2026-09-04 | breakwave_insights insights | Main: By Jeffrey Landsberg As we discussed in Commodore Research's most recent Weekly Executive Report, dry bulk rates climbed across the board last week, with Cape rates faring the best. As we have continued to stress in our work, we remain bullish for the market. [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal__s01_main | pages n/a]
 - 2026-09-04 | breakwave_insights insights | Main: By Ulf Bergman Iron ore prices have experienced a modest renaissance since the beginning of August. The September futures listed on the Singapore Exchange (SGX) have gained around six per cent since the beginning of last month. [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum__s01_main | pages n/a]
-- 2026-09-04 | breakwave_insights insights | Linked asset: 2026-09-04_coal-coal-coal_img_chart2_0d32fc22aaf4.jpg: Source asset: reports/breakwave/2026/assets/2026-09-04_coal-coal-coal_img_chart2_0d32fc22aaf4.jpg Linked image asset: 2026-09-04_coal-coal-coal_img_chart2_0d32fc22aaf4.jpg Image metadata: JPEG 673x287 mode=RGB OCR text: Coal Stockpiles at Indian Power Plants 70mt 60mt 50mt 40mt , 30mt 2024 2025 2026 [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal__s03_linked_asset_2026_09_04_coal_coal_coal_img_chart2_0d32fc22aaf4_jpg | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-07-31 to 2026-09-04 across 1 calendar years.
+- Coverage span: 2026-07-31 to 2026-10-04 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 181, hellenic: 60, baltic: 5, breakwave: 4
-- Category coverage: insights: 181, demolition: 32, tanker_charter: 10, vessel_valuations: 10, shipbuilding: 8, tanker: 5, tankers: 4
-- Tone distribution: constructive: 154, neutral: 65, cautiously_bearish: 29, neutral_sentiment: 2
+- Source coverage: breakwave_insights: 181, hellenic: 59, baltic: 6, breakwave: 4
+- Category coverage: insights: 181, demolition: 32, tanker_charter: 10, vessel_valuations: 10, shipbuilding: 7, tanker: 6, tankers: 4
+- Tone distribution: constructive: 153, neutral: 66, cautiously_bearish: 29, neutral_sentiment: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
+- 2026-10-04 | Tanker report - Week 36 [doc_id: baltic_tanker_2026-10-04_2026_10_04_tanker_report_week_36_tanker | section_id: baltic_tanker_2026-10-04_2026_10_04_tanker_report_week_36_tanker__s01_main | pages n/a]
 - 2026-09-04 | Hormuz 2027: Reopening or Prolonged Disruption? [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_hormuz_2027_reopening_or_prolonged_disruption | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_hormuz_2027_reopening_or_prolonged_disruption__s01_main | pages n/a]
 - 2026-09-04 | Iron Ore Prices Recover as Seaborne Volumes Lose Momentum [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_iron_ore_prices_recover_as_seaborne_volumes_lose_momentum__s04_outlook_for_the_remainder_of_the_year | pages n/a]
 - 2026-09-04 | Coal, Coal, Coal [doc_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal | section_id: breakwave_insights_insights_2026-09-04_2026_09_04_coal_coal_coal__s02_linked_asset_2026_09_04_coal_coal_coal_img_chart1_3d2a9b6530e7_jpg | pages n/a]
@@ -59,7 +60,6 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-09-03 | Record Decline in Chinese Thermal Coal Stockpiles [doc_id: breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles | section_id: breakwave_insights_insights_2026-09-03_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles__s02_linked_asset_2026_09_03_record_decline_in_chinese_thermal_coal_stockpiles_img_chart_fd4104b6dd44_jpg | pages n/a]
 - 2026-09-02 | Tanker 1H 2026: Strong VLCC Earnings Drive Newbuilding and Secondhand Investment [doc_id: breakwave_insights_insights_2026-09-02_2026_09_02_tanker_1h_2026_strong_vlcc_earnings_drive_newbuilding_and_secondhand_investment | section_id: breakwave_insights_insights_2026-09-02_2026_09_02_tanker_1h_2026_strong_vlcc_earnings_drive_newbuilding_and_secondhand_investment__s04_linked_asset_2026_09_02_tanker_1h_2026_strong_vlcc_earnings_drive_newbuilding_and_secondhand_investment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_98b47e7e615b_png | pages n/a]
 - 2026-09-02 | Weekly Tanker Time Charter Estimates, September 2 2026 [doc_id: hellenic_tanker_charter_2026-09-02_2026_09_02_weekly_tanker_time_charter_estimates_september_2_2026 | section_id: hellenic_tanker_charter_2026-09-02_2026_09_02_weekly_tanker_time_charter_estimates_september_2_2026__s02_linked_asset_2026_09_02_weekly_tanker_time_charter_estimates_september_2_2026_02092026tank_f27d5ab1d16b_jpg | pages n/a]
-- 2026-09-02 | Dry bulk trade from the Black Sea has moved into a markedly weaker phase [doc_id: breakwave_insights_insights_2026-09-02_2026_09_02_dry_bulk_trade_from_the_black_sea_has_moved_into_a_markedly_weaker_phase | section_id: breakwave_insights_insights_2026-09-02_2026_09_02_dry_bulk_trade_from_the_black_sea_has_moved_into_a_markedly_weaker_phase__s02_linked_asset_2026_09_02_dry_bulk_trade_from_the_black_sea_has_moved_into_a_markedly_weaker_phase_img_unsplash_image_yjimtqtm7ns_3d1c23fc00b6_jpg | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax
