@@ -20,19 +20,6 @@ logger = logging.getLogger("BunkerIndexForward")
 
 TARGET_HUBS = ["Busan", "Fujairah", "Hong Kong", "Kaohsiung", "Rotterdam", "Singapore"]
 
-# Regional basis anchors for projecting forward curves on masked ports
-MASKED_PORT_ANCHORS = {
-    "Hamburg": {"country": "DE", "anchor_hub": "Rotterdam", "region": "NWE"},
-    "Gibraltar": {"country": "GI", "anchor_hub": "Rotterdam", "region": "MED"},
-    "Off Malta": {"country": "MT", "anchor_hub": "Rotterdam", "region": "MED"},
-    "Houston": {"country": "US", "anchor_hub": "Rotterdam", "region": "USG"},
-    "New York": {"country": "US", "anchor_hub": "Rotterdam", "region": "USAC"},
-    "Panama Canal": {"country": "PA", "anchor_hub": "Houston", "region": "CEN"},
-    "Zhoushan": {"country": "CN", "anchor_hub": "Singapore", "region": "EA"},
-    "Las Palmas": {"country": "ES", "anchor_hub": "Rotterdam", "region": "ATL"},
-    "Istanbul": {"country": "TR", "anchor_hub": "Rotterdam", "region": "MED"},
-}
-
 def get_contract_month_label(month_offset: int, as_of: date = None) -> str:
     """Computes YYYY-MM label for a forward month offset (1 = prompt next month)."""
     base = as_of or date.today()
@@ -105,106 +92,8 @@ def fetch_forward_month(month_offset: int, as_of_date_str: str = None) -> pd.Dat
         
     return pd.DataFrame(records)
 
-def generate_synthetic_projections(unmasked_fwd_df: pd.DataFrame, master_csv_path: str = "bunker_master_historical.csv") -> pd.DataFrame:
-    """
-    Projects 12-month forward curves for masked ports using regional anchor forward term structure slopes.
-    """
-    if unmasked_fwd_df.empty:
-        return pd.DataFrame()
-    if not os.path.exists(master_csv_path):
-        alt_path = "data/bunkers/bunker_master_historical.csv"
-        if os.path.exists(alt_path):
-            master_csv_path = alt_path
-        else:
-            return pd.DataFrame()
-        
-    try:
-        master_df = pd.read_csv(master_csv_path)
-        # Get latest spot price per port and grade
-        latest_spots = master_df.sort_values("observation_date").groupby(["port_code", "grade"]).last().reset_index()
-    except Exception as e:
-        logger.error(f"Could not load master store for forward projection: {e}")
-        return pd.DataFrame()
-
-    port_code_map = {
-        "Singapore": "SG SIN",
-        "Rotterdam": "NL RTM",
-        "Houston": "US HOU",
-        "New York": "US NYC",
-        "Gibraltar": "GI GIB",
-        "Zhoushan": "CN ZOS",
-        "Panama Canal": "PA BLB",
-        "Hamburg": "DE HAM",
-        "Off Malta": "MT MLT",
-        "Las Palmas": "ES LPA",
-        "Istanbul": "TR IST",
-    }
-
-    def get_latest_spot(port_name: str, grade_name: str) -> float:
-        code = port_code_map.get(port_name)
-        if not code:
-            sub = latest_spots[latest_spots["port_name"].str.contains(port_name, case=False, na=False)]
-        else:
-            sub = latest_spots[latest_spots["port_code"] == code]
-        sub_grade = sub[sub["grade"] == grade_name]
-        if not sub_grade.empty and pd.notna(sub_grade["price_usd"].iloc[0]):
-            return float(sub_grade["price_usd"].iloc[0])
-        return None
-
-    # Calculate baseline prompt spot for anchor hubs
-    anchor_spots = {}
-    for hub in TARGET_HUBS:
-        anchor_spots[hub] = {
-            "IFO380": get_latest_spot(hub, "IFO380") or unmasked_fwd_df[unmasked_fwd_df["port"] == hub]["ifo380_usd"].iloc[0],
-            "VLSFO": get_latest_spot(hub, "VLSFO") or unmasked_fwd_df[unmasked_fwd_df["port"] == hub]["vlsfo_usd"].iloc[0],
-            "MGO": get_latest_spot(hub, "MGO") or unmasked_fwd_df[unmasked_fwd_df["port"] == hub]["mgo_usd"].iloc[0],
-        }
-
-    as_of = unmasked_fwd_df["as_of_date"].iloc[0] if not unmasked_fwd_df.empty else date.today().strftime("%Y-%m-%d")
-    projected_rows = []
-
-    for masked_port, info in MASKED_PORT_ANCHORS.items():
-        anchor_hub = info["anchor_hub"]
-        anchor_base = anchor_spots.get(anchor_hub)
-        if not anchor_base:
-            continue
-            
-        port_spot_ifo = get_latest_spot(masked_port, "IFO380") or (anchor_base["IFO380"] * 0.98)
-        port_spot_vlsfo = get_latest_spot(masked_port, "VLSFO") or (anchor_base["VLSFO"] * 0.98)
-        port_spot_mgo = get_latest_spot(masked_port, "MGO") or (anchor_base["MGO"] * 0.98)
-
-        hub_fwd_rows = unmasked_fwd_df[unmasked_fwd_df["port"] == anchor_hub].sort_values("month_offset")
-
-        for _, f_row in hub_fwd_rows.iterrows():
-            m_offset = int(f_row["month_offset"])
-            c_month = f_row["contract_month"]
-
-            # Multiplier slope = Anchor_Fwd / Anchor_Spot
-            slope_ifo = f_row["ifo380_usd"] / anchor_base["IFO380"] if anchor_base["IFO380"] else 1.0
-            slope_vlsfo = f_row["vlsfo_usd"] / anchor_base["VLSFO"] if anchor_base["VLSFO"] else 1.0
-            slope_mgo = f_row["mgo_usd"] / anchor_base["MGO"] if anchor_base["MGO"] else 1.0
-
-            projected_ifo = round(port_spot_ifo * slope_ifo, 2)
-            projected_vlsfo = round(port_spot_vlsfo * slope_vlsfo, 2)
-            projected_mgo = round(port_spot_mgo * slope_mgo, 2)
-
-            projected_rows.append({
-                "as_of_date": as_of,
-                "port": masked_port,
-                "month_offset": m_offset,
-                "contract_month": c_month,
-                "ifo380_usd": projected_ifo,
-                "vlsfo_usd": projected_vlsfo,
-                "mgo_usd": projected_mgo,
-                "source": f"Synthetic_Projection_{anchor_hub}"
-            })
-
-    proj_df = pd.DataFrame(projected_rows)
-    logger.info(f"Synthesized {len(proj_df)} forward curve points across {len(MASKED_PORT_ANCHORS)} masked ports.")
-    return proj_df
-
-def fetch_all_forward_curves(include_projections: bool = True) -> pd.DataFrame:
-    """Fetches all 12 forward months across unmasked hubs and synthesizes projected curves."""
+def fetch_all_forward_curves() -> pd.DataFrame:
+    """Fetches all 12 forward months across unmasked hubs (100% genuine raw published data)."""
     frames = []
     for m in range(1, 13):
         df_m = fetch_forward_month(m)
@@ -215,17 +104,10 @@ def fetch_all_forward_curves(include_projections: bool = True) -> pd.DataFrame:
         return pd.DataFrame()
         
     unmasked_df = pd.concat(frames, ignore_index=True)
-    logger.info(f"Retrieved {len(unmasked_df)} unmasked forward curve points across {len(unmasked_df['port'].unique())} hubs.")
-
-    if include_projections:
-        proj_df = generate_synthetic_projections(unmasked_df)
-        if not proj_df.empty:
-            combined = pd.concat([unmasked_df, proj_df], ignore_index=True)
-            return combined
-            
+    logger.info(f"Retrieved {len(unmasked_df)} raw unmasked forward curve points across {len(unmasked_df['port'].unique())} hubs.")
     return unmasked_df
 
 if __name__ == "__main__":
-    df = fetch_all_forward_curves(include_projections=True)
-    print("Combined Forward Curves (Unmasked + Projected):")
+    df = fetch_all_forward_curves()
+    print("Raw Genuine Forward Curves:")
     print(df.groupby(["port", "source"]).size())

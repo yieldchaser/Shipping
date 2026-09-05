@@ -47,3 +47,7 @@ knowledge/derived/.wiki_meta_cache.json
 *.bin
 *.pth
 *.ckpt
+
+# Heavy master JSON stores (>100MB exceeds GitHub hard limit; CSV store is committed)
+bunker_master_historical.json
+data/bunkers/bunker_master_historical.json

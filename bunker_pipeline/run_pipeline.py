@@ -78,9 +78,9 @@ def run_html_matrix_extraction():
     return records
 
 def run_forward_curves_extraction():
-    """Extracts 12-month forward curves across 6 hubs and synthesizes projected curves."""
+    """Extracts 12-month forward curves across 6 hubs (100% genuine raw published data)."""
     logger.info("Starting Bunker Index 12-month forward curve extraction...")
-    df = fetch_all_forward_curves(include_projections=True)
+    df = fetch_all_forward_curves()
     if not df.empty:
         out_csv = os.path.join(STORAGE_DIR, "bunker_forward_curves_12m.csv")
         out_json = os.path.join(STORAGE_DIR, "bunker_forward_curves_12m.json")
