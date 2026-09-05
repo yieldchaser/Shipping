@@ -1,6 +1,6 @@
 {
   "ticker": "BWET",
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "data": [
     {
       "date": "2023-05-04",
@@ -11705,6 +11705,20 @@
       "flow_20d": 47120000.0,
       "regime": "BALANCED",
       "pressure": 10.3704
+    },
+    {
+      "date": "2026-09-04",
+      "usd_flow": -7483000.0,
+      "nav": 498.83,
+      "perf_pct": 0.0194,
+      "cumulative_flow": 28210000.0,
+      "daily_inflow": 0.0,
+      "daily_outflow": -7483000.0,
+      "flow_zscore": -0.6158,
+      "flow_5d": -20776000.0,
+      "flow_20d": 39637000.0,
+      "regime": "BALANCED",
+      "pressure": -27.3951
     }
   ]
 }
