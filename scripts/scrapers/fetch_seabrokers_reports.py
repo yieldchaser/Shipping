@@ -258,8 +258,8 @@ def extract_osv_rates_from_text(full_text: str, report_date: str, report_month: 
     return rows
 
 
-def convert_pdf_to_markdown(entry: dict, pdf_bytes: bytes) -> str:
-    """Converts a downloaded Seabreeze PDF into rich structured Markdown."""
+def convert_pdf_to_markdown(entry: dict, pdf_path: str, pdf_bytes: bytes) -> tuple:
+    """Converts a downloaded Seabreeze PDF into rich structured Markdown using anydoc as the primary engine."""
     import pymupdf
 
     doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
@@ -270,12 +270,7 @@ def convert_pdf_to_markdown(entry: dict, pdf_bytes: bytes) -> str:
     pdf_url = entry.get("pdf_url") or ""
     slug = entry.get("slug") or "report"
 
-    md = []
-    md.append(f"# {title}\n")
-    md.append(f"**Publisher**: Seabrokers Chartering | **Series**: SEABREEZE Monthly Offshore Market Report  ")
-    md.append(f"**Date**: {date_str} | **Pages**: {len(doc)} | **PDF Source**: [{os.path.basename(pdf_url) or 'Download PDF'}]({pdf_url})\n")
-    md.append("---\n")
-
+    # Extract raw text for structured dayrate parsing
     full_text = ""
     pages_text = []
     for i, page in enumerate(doc):
@@ -283,8 +278,25 @@ def convert_pdf_to_markdown(entry: dict, pdf_bytes: bytes) -> str:
         pages_text.append(t)
         full_text += f"\n\n--- Page {i+1} ---\n\n" + t
 
-    # Extract rates table
     rate_rows = extract_osv_rates_from_text(full_text, date_str, title)
+
+    # Primary conversion: anydoc
+    anydoc_md = None
+    try:
+        import anydoc
+        if os.path.exists(pdf_path):
+            anydoc_md = anydoc.to_markdown(pdf_path)
+    except Exception as e:
+        print(f"    [!] Anydoc extraction fallback: {e}")
+
+    md = []
+    md.append(f"# {title}\n")
+    md.append(f"**Publisher**: Seabrokers Chartering | **Series**: SEABREEZE Monthly Offshore Market Report  ")
+    md.append(f"**Date**: {date_str} | **Pages**: {len(doc)} | **Extraction Engine**: Anydoc OCR & Markdown  ")
+    md.append(f"**PDF Source**: [{os.path.basename(pdf_url) or 'Download PDF'}]({pdf_url})\n")
+    md.append("---\n")
+
+    # Insert structured OSV spot dayrates and utilization table
     if rate_rows:
         md.append("## North Sea OSV Spot Rates & Fleet Utilisation\n")
         md.append("| Vessel Category | Average Rate (GBP) | Prior Year | YoY Change | Minimum | Maximum | Fleet Utilisation |")
@@ -294,63 +306,46 @@ def convert_pdf_to_markdown(entry: dict, pdf_bytes: bytes) -> str:
             md.append(f"| **{r['category']}** | £{r['avg_dayrate_gbp']:,} | £{r['prev_year_dayrate_gbp']:,} | {r['yoy_change_pct']} | £{r['min_dayrate_gbp']:,} | £{r['max_dayrate_gbp']:,} | {util_info} |")
         md.append("\n---\n")
 
-    # Extract S&P auction tables if found
-    for i, page in enumerate(doc):
-        tabs = page.find_tables().tables
-        for tab in tabs:
-            extracted = tab.extract()
-            if len(extracted) > 1 and any("VESSEL" in str(cell).upper() for cell in extracted[0]):
-                md.append("## Offshore Fleet S&P Transactions & Auctions\n")
-                headers = [str(c or "").strip().replace("\n", " ") for c in extracted[0]]
-                md.append("| " + " | ".join(headers) + " |")
-                md.append("| " + " | ".join([":---"] * len(headers)) + " |")
-                for row in extracted[1:]:
-                    cells = [str(c or "").strip().replace("\n", " ") for c in row]
-                    if any(cells):
-                        md.append("| " + " | ".join(cells) + " |")
-                md.append("\n---\n")
-                break
+    if anydoc_md and len(anydoc_md.strip()) > 200:
+        md.append("## Market Analysis & Intelligence (Anydoc Extracted)\n")
+        md.append(anydoc_md)
+    else:
+        # Fallback: PyMuPDF extraction
+        md.append("## Detailed Monthly Intelligence Sections\n")
+        for i, t in enumerate(pages_text):
+            clean_lines = [line.strip() for line in t.split("\n") if line.strip()]
+            if not clean_lines:
+                continue
 
-    # Extract key sections by page
-    md.append("## Detailed Monthly Intelligence Sections\n")
-    for i, t in enumerate(pages_text):
-        clean_lines = [line.strip() for line in t.split("\n") if line.strip()]
-        if not clean_lines:
-            continue
+            headings = [line for line in clean_lines if len(line) > 3 and line.isupper() and len(line) < 80]
+            page_title = headings[0].title() if headings else f"Section (Page {i+1})"
 
-        # Extract major headings on this page
-        headings = [line for line in clean_lines if len(line) > 3 and line.isupper() and len(line) < 80]
-        page_title = headings[0].title() if headings else f"Section (Page {i+1})"
+            if any(skip in page_title.lower() for skip in ["contents", "seabreeze", "monthly market report", "seabrokers"]):
+                if len(headings) > 1:
+                    page_title = headings[1].title()
 
-        # Skip boilerplate headers
-        if any(skip in page_title.lower() for skip in ["contents", "seabreeze", "monthly market report", "seabrokers"]):
-            if len(headings) > 1:
-                page_title = headings[1].title()
+            md.append(f"### {page_title} (Page {i+1})\n")
 
-        md.append(f"### {page_title} (Page {i+1})\n")
-
-        # Paragraph grouping
-        paragraphs = []
-        curr_p = []
-        for line in clean_lines:
-            if line.isupper() and len(line) < 80:
-                if curr_p:
+            paragraphs = []
+            curr_p = []
+            for line in clean_lines:
+                if line.isupper() and len(line) < 80:
+                    if curr_p:
+                        paragraphs.append(" ".join(curr_p))
+                        curr_p = []
+                    curr_p.append(f"**{line.title()}**:\n")
+                elif line.endswith((".", ":", ";", "!")):
+                    curr_p.append(line)
                     paragraphs.append(" ".join(curr_p))
                     curr_p = []
-                curr_p.append(f"**{line.title()}**:\n")
-            elif line.endswith((".", ":", ";", "!")):
-                curr_p.append(line)
+                else:
+                    curr_p.append(line)
+            if curr_p:
                 paragraphs.append(" ".join(curr_p))
-                curr_p = []
-            else:
-                curr_p.append(line)
-        if curr_p:
-            paragraphs.append(" ".join(curr_p))
 
-        # Output readable paragraph blocks
-        for p in paragraphs[:15]:
-            if p.strip() and not p.strip().isdigit() and len(p.strip()) > 10:
-                md.append(f"{p}\n")
+            for p in paragraphs[:15]:
+                if p.strip() and not p.strip().isdigit() and len(p.strip()) > 10:
+                    md.append(f"{p}\n")
 
     return "\n".join(md), rate_rows
 
@@ -360,7 +355,7 @@ def download_and_digest_reports(entries: list, limit=None):
     session = get_http_session()
     to_process = entries[:limit] if limit else entries
 
-    print(f"[*] Downloading and digesting {len(to_process)} Seabreeze reports...")
+    print(f"[*] Downloading and digesting {len(to_process)} Seabreeze reports via anydoc...")
     all_rate_rows = []
 
     for idx, entry in enumerate(to_process, 1):
@@ -400,9 +395,9 @@ def download_and_digest_reports(entries: list, limit=None):
         entry["downloaded"] = True
         entry["local_pdf"] = pdf_path
 
-        # Digest PDF to Markdown
+        # Digest PDF to Markdown using anydoc
         try:
-            md_content, rate_rows = convert_pdf_to_markdown(entry, pdf_bytes)
+            md_content, rate_rows = convert_pdf_to_markdown(entry, pdf_path, pdf_bytes)
             with open(md_path_reports, "w", encoding="utf-8") as f:
                 f.write(md_content)
             with open(md_path_data, "w", encoding="utf-8") as f:
@@ -412,9 +407,9 @@ def download_and_digest_reports(entries: list, limit=None):
             entry["markdown_path"] = f"reports/seabrokers/{md_filename}"
             if rate_rows:
                 all_rate_rows.extend(rate_rows)
-            print(f"    [+] Generated: {md_filename} ({entry['pages']} pages, {len(rate_rows)} dayrate rows)")
+            print(f"    [+] anydoc generated: {md_filename} ({entry['pages']} pages, {len(rate_rows)} dayrate rows)")
         except Exception as e:
-            print(f"    [!] Error digesting PDF: {e}")
+            print(f"    [!] Error digesting PDF with anydoc: {e}")
 
     # Append or save dayrates to CSV
     if all_rate_rows:
