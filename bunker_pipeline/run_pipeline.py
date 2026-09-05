@@ -18,7 +18,7 @@ import argparse
 import logging
 from datetime import datetime
 
-from bunker_pipeline.extractors.shipandbunker_spot import fetch_market
+from bunker_pipeline.extractors.shipandbunker_spot import fetch_market, fetch_markets_batch
 from bunker_pipeline.extractors.bunker_scraper import scrape_all_popular_ports, scrape_port_page, POPULAR_PORT_URLS
 from bunker_pipeline.extractors.bunkerindex_forward import fetch_all_forward_curves
 from bunker_pipeline.extractors.bunkerindex_volumes import fetch_all_volume_indicators
@@ -43,25 +43,25 @@ def load_valid_markets() -> list:
     with open(CONFIG_MARKETS_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def run_spot_extraction(markets: list, limit: int = None):
-    """Harvests historical spot series across target markets."""
+def run_spot_extraction(markets: list, limit: int = None, batch_size: int = 5):
+    """Harvests historical spot series across target markets using batch RPC queries."""
     targets = markets[:limit] if limit else markets
-    logger.info(f"Starting spot price extraction across {len(targets)} markets...")
+    logger.info(f"Starting spot price extraction across {len(targets)} markets in batches of {batch_size}...")
     
     total_extracted = 0
     all_records = []
     
-    for i, m in enumerate(targets):
-        code = m.get("code")
-        name = m.get("name")
-        logger.info(f"[{i+1}/{len(targets)}] Fetching spot history for {code} ({name})...")
-        records = fetch_market(code, name)
+    for i in range(0, len(targets), batch_size):
+        batch = targets[i:i + batch_size]
+        batch_codes = [m.get("code") for m in batch]
+        logger.info(f"[{i+1}-{min(i+batch_size, len(targets))}/{len(targets)}] Fetching batch: {batch_codes}...")
+        records = fetch_markets_batch(batch)
         if records:
             all_records.extend(records)
             total_extracted += len(records)
             
-        # Ingest in batches of 10 markets or at the end
-        if (i + 1) % 10 == 0 or (i + 1) == len(targets):
+        # Ingest every 20 markets or at the end
+        if len(all_records) >= 15000 or (i + batch_size) >= len(targets):
             if all_records:
                 STORE.ingest_records(all_records)
                 all_records = []
@@ -78,15 +78,18 @@ def run_html_matrix_extraction():
     return records
 
 def run_forward_curves_extraction():
-    """Extracts 12-month forward curves across 6 hubs."""
+    """Extracts 12-month forward curves across 6 hubs and synthesizes projected curves."""
     logger.info("Starting Bunker Index 12-month forward curve extraction...")
-    df = fetch_all_forward_curves()
+    df = fetch_all_forward_curves(include_projections=True)
     if not df.empty:
         out_csv = os.path.join(STORAGE_DIR, "bunker_forward_curves_12m.csv")
         out_json = os.path.join(STORAGE_DIR, "bunker_forward_curves_12m.json")
         df.to_csv(out_csv, index=False)
         df.to_json(out_json, orient="records", indent=2)
-        logger.info(f"Saved {len(df)} forward curve points to {out_csv}")
+        # Mirror to root directory
+        df.to_csv("bunker_forward_curves_12m.csv", index=False)
+        df.to_json("bunker_forward_curves_12m.json", orient="records", indent=2)
+        logger.info(f"Saved {len(df)} forward curve points to {out_csv} and root")
     return df
 
 def run_volume_indicators_extraction():
@@ -98,7 +101,10 @@ def run_volume_indicators_extraction():
         out_json = os.path.join(STORAGE_DIR, "bunker_physical_sales_volumes.json")
         df.to_csv(out_csv, index=False)
         df.to_json(out_json, orient="records", indent=2)
-        logger.info(f"Saved {len(df)} physical volume records to {out_csv}")
+        # Mirror to root directory
+        df.to_csv("bunker_physical_sales_volumes.csv", index=False)
+        df.to_json("bunker_physical_sales_volumes.json", orient="records", indent=2)
+        logger.info(f"Saved {len(df)} physical volume records to {out_csv} and root")
     return df
 
 def run_bix_benchmarks_extraction():
@@ -110,7 +116,10 @@ def run_bix_benchmarks_extraction():
         out_json = os.path.join(STORAGE_DIR, "bunker_bix_macro_benchmarks.json")
         df.to_csv(out_csv, index=False)
         df.to_json(out_json, orient="records", indent=2)
-        logger.info(f"Saved {len(df)} BIX benchmark records to {out_csv}")
+        # Mirror to root directory
+        df.to_csv("bunker_bix_macro_benchmarks.csv", index=False)
+        df.to_json("bunker_bix_macro_benchmarks.json", orient="records", indent=2)
+        logger.info(f"Saved {len(df)} BIX benchmark records to {out_csv} and root")
     return df
 
 def run_autonomous_validation():
