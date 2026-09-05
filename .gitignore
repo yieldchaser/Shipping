@@ -52,3 +52,9 @@ knowledge/derived/.wiki_meta_cache.json
 # Heavy master JSON stores (>100MB exceeds GitHub hard limit; CSV store is committed)
 bunker_master_historical.json
 data/bunkers/bunker_master_historical.json
+
+# Raw PDF archives
+data/reports/*/pdfs/
+data/raw/
+scripts/drewry_ais_pdfs/
+
