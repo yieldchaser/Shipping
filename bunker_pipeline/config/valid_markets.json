@@ -1,0 +1,2079 @@
+[
+  {
+    "code": "WTI",
+    "name": "WTI",
+    "products": []
+  },
+  {
+    "code": "BRENT",
+    "name": "Brent",
+    "products": []
+  },
+  {
+    "code": "EU EUA",
+    "name": "EUA",
+    "products": [
+      "EUA",
+      "EUAHFO",
+      "EUAMGO",
+      "EUA-USD",
+      "EUAVLSFO"
+    ]
+  },
+  {
+    "code": "AV APA",
+    "name": "APAC Average",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AV AM",
+    "name": "Americas Average",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AV EME",
+    "name": "EMEA Average",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AV G20",
+    "name": "Global 20 Ports Average",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AV G04",
+    "name": "Global 4 Ports Average",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AV GLB",
+    "name": "Global Average Bunker Price",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL ANF",
+    "name": "Antofagasta",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL ARI",
+    "name": "Arica",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "AR BHI",
+    "name": "Bahia Blanca",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PA BLB",
+    "name": "Balboa, Panama",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CO BAQ",
+    "name": "Barranquilla",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CO BUN",
+    "name": "Buenaventura",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AR BUE",
+    "name": "Buenos Aires",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PE CLL",
+    "name": "Callao",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CO CTG",
+    "name": "Cartagena",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL COR",
+    "name": "Coronel",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PA CTB",
+    "name": "Cristobal, Panama",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US GLA",
+    "name": "GOLA",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "EC GYE",
+    "name": "Guayaquil",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US HOU",
+    "name": "Houston",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "LSMGO",
+      "VLSFO",
+      "MEOH",
+      "MEOHMGOe",
+      "MEOHVLSF"
+    ]
+  },
+  {
+    "code": "CL HSO",
+    "name": "Huasco",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "CL IQQ",
+    "name": "Iquique",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "BR ITA",
+    "name": "Itacoatiara",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "JM KIN",
+    "name": "Kingston",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US LAX",
+    "name": "LA / Long Beach",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "EC LLD",
+    "name": "La Libertad",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL LQN",
+    "name": "Lirquen",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BR MAO",
+    "name": "Manaus",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "JM MBJ",
+    "name": "Montego Bay",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "UY MVD",
+    "name": "Montevideo",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CA MTR",
+    "name": "Montreal",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US MSY",
+    "name": "New Orleans",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US NYC",
+    "name": "New York",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "SR ICK",
+    "name": "Nieuw Nickerie",
+    "products": [
+      "IFO380",
+      "ULSD",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US ORF",
+    "name": "Norfolk VA",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "JM OCJ",
+    "name": "Ocho Rios",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "SR PBM",
+    "name": "Paramaribo",
+    "products": [
+      "IFO380",
+      "ULSD",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "SR PRM",
+    "name": "Paranam",
+    "products": [
+      "IFO380",
+      "ULSD",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US PHL",
+    "name": "Philadelphia",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "JM POT",
+    "name": "Port Antonio",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "JM PEV",
+    "name": "Port Esquivel",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "JM PRH",
+    "name": "Port Rhoades",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "TT POS",
+    "name": "Port of Spain",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US PDX",
+    "name": "Portland",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL PUQ",
+    "name": "Punta Arenas",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "CA QUE",
+    "name": "Quebec",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "CL QTV",
+    "name": "Quintero",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BR RIG",
+    "name": "Rio Grande",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BR RIO",
+    "name": "Rio de Janeiro",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL SAI",
+    "name": "San Antonio",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US SFO",
+    "name": "San Francisco",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL SVE",
+    "name": "San Vicente",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CO SMR",
+    "name": "Santa Marta",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BR STM",
+    "name": "Santarem",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BR SSZ",
+    "name": "Santos",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US SAV",
+    "name": "Savannah",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US SEA",
+    "name": "Seattle",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AN EUX",
+    "name": "St Eustatius",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL TAL",
+    "name": "Talcahuano",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CL VAP",
+    "name": "Valparaiso",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CA VAN",
+    "name": "Vancouver",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "LNG-380e",
+      "LNG-MGOe",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BR VDC",
+    "name": "Vila de Conde",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AR ZCM",
+    "name": "Zona Comun",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ES ALG",
+    "name": "Algeciras",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "NL AMS",
+    "name": "Amsterdam",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BE ANR",
+    "name": "Antwerp",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "IT AUG",
+    "name": "Augusta",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ES BCN",
+    "name": "Barcelona",
+    "products": [
+      "IFO380"
+    ]
+  },
+  {
+    "code": "IQ BSR",
+    "name": "Basra",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "NO BGO",
+    "name": "Bergen",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "BG BOJ",
+    "name": "Bourgas",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "DE BRE",
+    "name": "Bremen",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "DE BRV",
+    "name": "Bremerhaven",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ZA CPT",
+    "name": "Cape Town",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ES CEU",
+    "name": "Ceuta",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RO CND",
+    "name": "Constanta",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "DJ JIB",
+    "name": "Djibouti",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "OM DUQ",
+    "name": "Duqm",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "ZA DUR",
+    "name": "Durban",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "DE EME",
+    "name": "Emden",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "NL FLU",
+    "name": "Flushing",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AE FJR",
+    "name": "Fujairah",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "LSMGO",
+      "VLSFO",
+      "MEOH",
+      "MEOHMGOe",
+      "MEOHVLSF"
+    ]
+  },
+  {
+    "code": "PL GDN",
+    "name": "Gdansk",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "PL GDY",
+    "name": "Gdynia",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "IT GOA",
+    "name": "Genoa",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "GI GIB",
+    "name": "Gibraltar",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "SE GOT",
+    "name": "Gothenburg",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "DE HAM",
+    "name": "Hamburg",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ES HUV",
+    "name": "Huelva",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "TR IST",
+    "name": "Istanbul",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "ULSFO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "SA JED",
+    "name": "Jeddah",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AE KBA",
+    "name": "Kalba",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "GR KLL",
+    "name": "Kali Limenes",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU KV1",
+    "name": "Kavkaz OPL",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AE KLF",
+    "name": "Khor Al Fakkan",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ES LPA",
+    "name": "Las Palmas",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PT LIS",
+    "name": "Lisbon",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "TG LFW",
+    "name": "Lome",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "MZ MPM",
+    "name": "Maputo",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CV MIN",
+    "name": "Mindelo (Cape Verde)",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "OM MUS",
+    "name": "Muscat",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "EE MUU",
+    "name": "Muuga",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "MZ MNC",
+    "name": "Nacala",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU NVS",
+    "name": "Novorossiysk",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "GR PIR",
+    "name": "Piraeus",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "MU PLU",
+    "name": "Port Louis",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "EG PSD",
+    "name": "Port Said",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ZA RCB",
+    "name": "Richards Bay",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "LV RIX",
+    "name": "Riga",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "NL RTM",
+    "name": "Rotterdam",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "LSMGO",
+      "LNG-380e",
+      "LNG-MGOe",
+      "VLSFO",
+      "LNG",
+      "MEOH",
+      "MEOHMGOe",
+      "MEOHVLSF"
+    ]
+  },
+  {
+    "code": "OM SLL",
+    "name": "Salalah",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "GH SEK",
+    "name": "Sekondi",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PT SIE",
+    "name": "Sines",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "DK SKW",
+    "name": "Skaw",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "OM SOH",
+    "name": "Sohar",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "RU LED",
+    "name": "St Petersburg",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PL SWI",
+    "name": "Swinoujscie",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "GR JSY",
+    "name": "Syros",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "PL SZZ",
+    "name": "Szczecin",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "GH TKD",
+    "name": "Takoradi",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "EE TLL",
+    "name": "Tallinn",
+    "products": [
+      "MGO",
+      "SS",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "GH TEM",
+    "name": "Tema",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ES SCT",
+    "name": "Tenerife",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "NL TER",
+    "name": "Terneuzen",
+    "products": [
+      "IFO380",
+      "SS",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU UST",
+    "name": "Ust-Luga",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ES VLC",
+    "name": "Valencia",
+    "products": [
+      "IFO380"
+    ]
+  },
+  {
+    "code": "MT MLA",
+    "name": "Valletta (Malta)",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BG VAR",
+    "name": "Varna",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "NA WVB",
+    "name": "Walvis Bay",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "NZ AKL",
+    "name": "Auckland",
+    "products": [
+      "MGO",
+      "LSMGO"
+    ]
+  },
+  {
+    "code": "TH BKK",
+    "name": "Bangkok",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN BYQ",
+    "name": "Bayuquan",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN BLG",
+    "name": "Beilun",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AU BNE",
+    "name": "Brisbane",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "KR PUS",
+    "name": "Busan",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN CFD",
+    "name": "Caofeidian",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN CGS",
+    "name": "Changshu",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "BD CGP",
+    "name": "Chittagong",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN CWN",
+    "name": "Chiwan",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "IN COK",
+    "name": "Cochin (Kochi)",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "LK CMB",
+    "name": "Colombo",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN DLC",
+    "name": "Dalian",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN FAN",
+    "name": "Fangcheng",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AU FRE",
+    "name": "Fremantle",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN FOC",
+    "name": "Fuzhou",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AU GLT",
+    "name": "Gladstone",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN CAN",
+    "name": "Guangzhou",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "VN HPH",
+    "name": "Haiphong",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "IN HAL",
+    "name": "Haldia",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "LK HAM",
+    "name": "Hambantota",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "VN SGN",
+    "name": "Ho Chi Minh City",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN HOK",
+    "name": "Hong Kong",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "TW HUN",
+    "name": "Hualien",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN HUA",
+    "name": "Huangpu",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "KR INC",
+    "name": "Inchon",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ID JKT",
+    "name": "Jakarta",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN JIA",
+    "name": "Jiangyin",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN JTG",
+    "name": "Jingtang",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "IN IXY",
+    "name": "Kandla",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "TW KHH",
+    "name": "Kaohsiung",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PK KHI",
+    "name": "Karachi",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "TW KEL",
+    "name": "Keelung (Chilung)",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "IN KOL",
+    "name": "Kolkata",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU KOZ",
+    "name": "Kozmino",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN LSN",
+    "name": "Lanshan (Lanqiao)",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN LYG",
+    "name": "Lianyungang",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN MCH",
+    "name": "Machong",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PH MNL",
+    "name": "Manila",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN MAW",
+    "name": "Mawei",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AU MEL",
+    "name": "Melbourne",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "IN BOM",
+    "name": "Mumbai",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU NJK",
+    "name": "Nakhodka",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN NKG",
+    "name": "Nanjing",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN NSA",
+    "name": "Nansha",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN NTG",
+    "name": "Nantong",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN NGB",
+    "name": "Ningbo",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN NDE",
+    "name": "Ningde",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "JP OSA",
+    "name": "Osaka",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AU PKL",
+    "name": "Port Kembla",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "MY PKL",
+    "name": "Port Klang",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "PK BQM",
+    "name": "Port Muhammad Bin Qasim",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU POS",
+    "name": "Posyet",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN PUT",
+    "name": "Putian",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN TAO",
+    "name": "Qingdao",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN SHP",
+    "name": "Qinhuangdao",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN RZH",
+    "name": "Rizhao",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN SHA",
+    "name": "Shanghai",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN SHK",
+    "name": "Shekou",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "SG SIN",
+    "name": "Singapore",
+    "products": [
+      "IFO380",
+      "MGO",
+      "BIO",
+      "SS",
+      "LSMGO",
+      "VLSFO",
+      "MEOH",
+      "MEOHMGOe",
+      "MEOHVLSF"
+    ]
+  },
+  {
+    "code": "RU SKA",
+    "name": "Slavyanka",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "TW SUO",
+    "name": "Suao",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "ID SUB",
+    "name": "Surabaya",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AU SYD",
+    "name": "Sydney",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "TW TXG",
+    "name": "Taichung",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN TAZ",
+    "name": "Taizhou",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "NZ TRG",
+    "name": "Tauranga",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN TSN",
+    "name": "Tianjin",
+    "products": [
+      "IFO380",
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "JP TYO",
+    "name": "Tokyo",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "KR USN",
+    "name": "Ulsan",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU VNN",
+    "name": "Vanino",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU VVO",
+    "name": "Vladivostok",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU VYP",
+    "name": "Vostochny Port",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN XMN",
+    "name": "Xiamen",
+    "products": [
+      "MGO",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN XYG",
+    "name": "Xiuyu",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN YPG",
+    "name": "Yangpu",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN YNT",
+    "name": "Yantai",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "RU ZAR",
+    "name": "Zarubino",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN ZJG",
+    "name": "Zhangjiagang",
+    "products": [
+      "IFO380",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "CN ZOS",
+    "name": "Zhoushan",
+    "products": [
+      "IFO380",
+      "MGO",
+      "SS",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "AU NTL",
+    "name": "Newcastle",
+    "products": [
+      "MGO"
+    ]
+  },
+  {
+    "code": "CI ABJ",
+    "name": "Abidjan",
+    "products": [
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "DK SKA",
+    "name": "Skagen",
+    "products": [
+      "IFO380",
+      "LSMGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "IN BED",
+    "name": "Bedi",
+    "products": [
+      "MGO"
+    ]
+  },
+  {
+    "code": "IN MAA",
+    "name": "Chennai",
+    "products": [
+      "MGO"
+    ]
+  },
+  {
+    "code": "IN SIK",
+    "name": "Sikka",
+    "products": [
+      "MGO"
+    ]
+  },
+  {
+    "code": "IN VAD",
+    "name": "Vadinar",
+    "products": [
+      "MGO"
+    ]
+  },
+  {
+    "code": "IT CVV",
+    "name": "Civitavecchia",
+    "products": [
+      "MGO",
+      "VLSFO"
+    ]
+  },
+  {
+    "code": "US CHS",
+    "name": "Charleston",
+    "products": [
+      "IFO380"
+    ]
+  }
+]

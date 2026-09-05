@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2,
+    "port": "Singapore",
+    "name": "Singapore Bunker Sales, Mth",
+    "frequency": "Monthly",
+    "unit": "Metric Tonnes",
+    "min_bound": 3000000,
+    "max_bound": 6000000
+  },
+  {
+    "id": 44,
+    "port": "Singapore",
+    "name": "Singapore Bunker Sales, T3M",
+    "frequency": "Trailing 3 Months",
+    "unit": "Metric Tonnes",
+    "min_bound": 9000000,
+    "max_bound": 18000000
+  },
+  {
+    "id": 4,
+    "port": "Singapore",
+    "name": "Singapore Bunker Sales, TTM",
+    "frequency": "Trailing 12 Months",
+    "unit": "Metric Tonnes",
+    "min_bound": 40000000,
+    "max_bound": 65000000
+  },
+  {
+    "id": 45,
+    "port": "Singapore",
+    "name": "Singapore Bunker Sales, CY",
+    "frequency": "Calendar Year YTD",
+    "unit": "Metric Tonnes",
+    "min_bound": 3000000,
+    "max_bound": 65000000
+  },
+  {
+    "id": 3,
+    "port": "Rotterdam",
+    "name": "Rotterdam Bunker Sales, Qtr",
+    "frequency": "Quarterly",
+    "unit": "Metric Tonnes",
+    "min_bound": 1500000,
+    "max_bound": 3500000
+  },
+  {
+    "id": 5,
+    "port": "Rotterdam",
+    "name": "Rotterdam Bunker Sales, TTM",
+    "frequency": "Trailing 12 Months",
+    "unit": "Metric Tonnes",
+    "min_bound": 6000000,
+    "max_bound": 14000000
+  },
+  {
+    "id": 46,
+    "port": "Rotterdam",
+    "name": "Rotterdam Bunker Sales, CY",
+    "frequency": "Calendar Year YTD",
+    "unit": "Metric Tonnes",
+    "min_bound": 1500000,
+    "max_bound": 14000000
+  }
+]
