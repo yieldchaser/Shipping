@@ -3335,6 +3335,151 @@
       accent-color: var(--accent);
     }
 
+    /* Phase C (2026-09-08): dense monitoring chrome - sector map toggle, chokepoint
+       selector, port-history drawer, port detail drawer. Dense-table aesthetic, no stripes. */
+    .tracking-sector-toggle {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      pointer-events: auto;
+    }
+    .tracking-sector-toggle .cp-toggle-btn { font-size: 10px; padding: 4px 9px; }
+    .tracking-sector-toggle .sec-count { color: rgba(255,255,255,0.72); font-family: 'IBM Plex Mono', monospace; font-size: 9px; margin-left: 3px; }
+    .map-sector-overlay {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      z-index: 1000;
+      background: rgba(17, 24, 32, 0.9);
+      border: 1px solid var(--border);
+      backdrop-filter: blur(8px);
+      padding: 8px 10px;
+      border-radius: 6px;
+      font-size: 10px;
+      pointer-events: auto;
+    }
+    .map-sector-overlay-title { font-size: 9px; color: var(--text-muted); letter-spacing: 0.06em; margin-bottom: 6px; font-weight: 600; }
+    .cp-selector-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      max-height: 116px;
+      overflow-y: auto;
+      padding: 2px;
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      background: var(--bg);
+    }
+    .cp-selector-chip {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 9.5px;
+      padding: 2px 7px;
+      border-radius: 999px;
+      cursor: pointer;
+      font-family: 'IBM Plex Mono', monospace;
+      white-space: nowrap;
+    }
+    .cp-selector-chip:hover { color: var(--text); border-color: var(--accent); }
+    .cp-selector-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+    .cp-selector-chip.active-limit { background: var(--red); border-color: var(--red); color: #fff; font-weight: 600; }
+    .cp-data-note {
+      font-size: 9.5px;
+      color: var(--yellow);
+      background: rgba(227, 179, 65, 0.08);
+      border: 1px solid rgba(227, 179, 65, 0.35);
+      padding: 5px 9px;
+      border-radius: 4px;
+      line-height: 1.45;
+    }
+    .port-history-drawer {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .port-history-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+    .port-history-title { font-size: 12px; font-weight: 700; color: #fff; }
+    .port-history-sub { font-size: 10px; color: var(--text-muted); margin-top: 1px; }
+    .ph-select {
+      background: var(--bg);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 3px 8px;
+      font-size: 11px;
+      font-family: inherit;
+      max-width: 260px;
+    }
+    .port-detail-drawer {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1100;
+      width: 372px;
+      max-width: calc(100% - 20px);
+      max-height: calc(100% - 20px);
+      overflow-y: auto;
+      background: rgba(13, 19, 26, 0.96);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 14px;
+      font-size: 11px;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.55);
+    }
+    .pd-close {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 15px;
+      cursor: pointer;
+      line-height: 1;
+      padding: 2px 4px;
+    }
+    .pd-close:hover { color: #fff; }
+    .pd-kpi {
+      flex: 1 1 30%;
+      min-width: 96px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 6px 8px;
+    }
+    .pd-kpi-label { font-size: 9px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .pd-kpi-val { font-size: 14px; font-weight: 700; color: #fff; margin-top: 2px; }
+    .pd-mixbar { display: flex; height: 7px; border-radius: 4px; overflow: hidden; border: 1px solid var(--border); }
+    .pd-mixbar span { display: block; height: 100%; }
+    .pd-vessel-row { cursor: pointer; }
+    .pd-vessel-row:hover td { background: rgba(77, 154, 255, 0.09); }
+    .pd-vessel-row.selected td { background: rgba(77, 154, 255, 0.18); }
+    .pd-vessel-table th { position: sticky; top: 0; background: #141c26; z-index: 2; }
+    .pd-detail-box {
+      margin-top: 8px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 8px 10px;
+      font-size: 10px;
+      line-height: 1.55;
+    }
+    .pd-detail-row { display: flex; justify-content: space-between; gap: 10px; }
+    .pd-detail-k { color: var(--text-muted); flex: 0 0 46%; }
+    .pd-detail-v { color: var(--text); text-align: right; font-family: 'IBM Plex Mono', monospace; }
+    .port-hub-pin.dimmed { opacity: 0.28; filter: grayscale(0.85); }
+    .port-hub-pin.lit { filter: drop-shadow(0 0 4px rgba(77,154,255,0.6)); }
+    .ph-table { width: 100%; border-collapse: collapse; font-size: 10.5px; }
+    .ph-table th { position: sticky; top: 0; background: #141c26; color: var(--text-muted); padding: 5px 8px; font-weight: 600; border-bottom: 1px solid var(--border); text-align: left; }
+    .ph-table td { padding: 5px 8px; border-bottom: 1px solid #141b24; }
+    .ph-kpi-strip { display: flex; gap: 8px; flex-wrap: wrap; }
+    .ph-kpi-chip { background: var(--bg); border: 1px solid var(--border); border-radius: 5px; padding: 5px 9px; min-width: 92px; }
+    .ph-kpi-chip .k { font-size: 9px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+    .ph-kpi-chip .v { font-size: 13px; font-weight: 700; color: #fff; margin-top: 1px; font-family: 'IBM Plex Mono', monospace; }
+    .ph-kpi-chip .s { font-size: 9px; margin-top: 1px; }
+
     .tracking-workstation {
       display: flex;
       gap: 16px;
@@ -14033,6 +14178,30 @@ if (intelTabsContainer) {
         </div>
       </div>
 
+      <!-- PORT HISTORY (PortWatch daily calls vs 5Y same-window mean; fills the lower-left dead zone) -->
+      <div class="port-history-drawer" id="portHistoryDrawer">
+        <div class="port-history-header">
+          <div>
+            <div class="port-history-title" id="phTitle">Port Call History &mdash; IMF PortWatch</div>
+            <div class="port-history-sub" id="phSub">43 monitored ports &middot; daily calls 2019&ndash;2026 &middot; 5Y same-window mean &middot; snapshot <span id="phLatest">&mdash;</span></div>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+            <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip=" " data-tt-type="portwatch-callout" data-tt-context="note"><!-- populated by initPortHistory --></select>
+            <div class="cp-btn-group">
+              <button class="cp-toggle-btn active" id="phSectorTotal" onclick="setPortHistorySector('total')" data-tooltip=" " data-tt-type="portwatch-callout">All Sectors</button>
+              <button class="cp-toggle-btn" id="phSectorDry" onclick="setPortHistorySector('dry_bulk')" data-tooltip=" " data-tt-type="portwatch-callout">Dry Bulk</button>
+              <button class="cp-toggle-btn" id="phSectorTanker" onclick="setPortHistorySector('tanker')" data-tooltip=" " data-tt-type="portwatch-callout">Tankers</button>
+              <button class="cp-toggle-btn" id="phSectorContainer" onclick="setPortHistorySector('container')" data-tooltip=" " data-tt-type="portwatch-callout">Container</button>
+            </div>
+          </div>
+        </div>
+        <div class="ph-kpi-strip" id="phKpiStrip"></div>
+        <div style="height:190px; position:relative; width:100%;"><canvas id="portHistoryChart"></canvas></div>
+        <div style="font-size:10px; color:var(--text-muted); line-height:1.5;" id="phFootnote"></div>
+      </div>
+
+      <!-- WORKSTATION (SPLIT PANE: LEFT TABLE/DIRECTORIES, RIGHT MAP/DRAWER) -->
+      <div class="tracking-workstation">
       <!-- WORKSTATION (SPLIT PANE: LEFT TABLE/DIRECTORIES, RIGHT MAP/DRAWER) -->
       <div class="tracking-workstation">
         <!-- Left Pane: Lineup, Chokepoint Directory, Distance Tool -->
@@ -14257,6 +14426,26 @@ if (intelTabsContainer) {
               <span id="mapHudDetail">1,568 vessels rendered across 36 ports</span>
             </div>
 
+            <div class="map-sector-overlay" id="mapSectorToggle" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all" data-tt-context="note">
+              <div class="map-sector-overlay-title">SECTOR HIGHLIGHT (LINEUPS)</div>
+              <div class="tracking-sector-toggle">
+                <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all">All <span class="sec-count" id="secMapCountAll">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapTankers" onclick="setTrackingMapSector('Tankers')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="Tankers">Tankers <span class="sec-count" id="secMapCountTankers">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapDry" onclick="setTrackingMapSector('Dry Bulk')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="Dry Bulk">Dry Bulk <span class="sec-count" id="secMapCountDry">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapLNG" onclick="setTrackingMapSector('LNG')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="LNG">LNG <span class="sec-count" id="secMapCountLNG">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapLPG" onclick="setTrackingMapSector('LPG')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="LPG">LPG <span class="sec-count" id="secMapCountLPG">&mdash;</span></button>
+              </div>
+            </div>
+
+            <div class="map-legend-overlay">
+            <div class="map-active-hud">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+              </svg>
+              <span id="mapHudDetail">1,568 vessels rendered across 36 ports</span>
+            </div>
+
             <div class="map-legend-overlay">
               <div class="map-legend-item"><span class="map-legend-dot berth"></span> At Berth (Discharging/Loading)</div>
               <div class="map-legend-item"><span class="map-legend-dot anchor"></span> At Anchor (Waiting)</div>
@@ -14280,6 +14469,13 @@ if (intelTabsContainer) {
                 </h3>
                 <div class="cp-region" id="cpDrawerRegion">Red Sea / Gulf of Aden · Global Container &amp; Crude Artery</div>
               </div>
+              <div class="cp-selector-wrap" style="width:100%; display:flex; flex-direction:column; gap:6px;">
+                <div style="font-size:9px; font-weight:600; color:var(--text-muted); letter-spacing:0.06em;">CHOKEPOINT SELECTOR &mdash; ALL 28 MONITORED PASSAGES</div>
+                <div class="cp-selector-chips" id="cpSelectorChips" role="listbox" aria-label="Select chokepoint"><!-- chips injected by renderChokepointSelector --></div>
+              </div>
+              <div id="cpDataNote" class="cp-data-note" style="display:none;"></div>
+              <div class="cp-btn-group">
+                <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')"
               <div class="cp-btn-group">
                 <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')" data-tooltip="Full historical transit observation series from AIS and IMF PortWatch (2019–2026).">Max (2019-2026)</button>
                 <button class="cp-toggle-btn" data-range="5y" onclick="setChokepointRange('5y')" data-tooltip="5-year historical transit trend (2021–2026).">5Y</button>
@@ -35914,6 +36110,405 @@ var PORT_COORDINATES = {
 
 var trackingTabFullyInitialized = false;
 
+// ===================== PHASE C: SECTOR MAP + PORT HISTORY ENGINE ====================
+// Data honesty rules: baselines computed from CSVs at runtime; future-dated lineup
+// rows excluded; Hormuz under-coverage flagged as a harvest limitation; voyage
+// tracks are not in the data sources (no such fields exist in this harvest).
+var PORTWATCH_HORMUZ_NOTE = 'Strait of Hormuz reads only ~4-8 transits/day in this PortWatch harvest vs ~20+ real-world corridor levels \u2014 harvest coverage limitation, diagnostic only (do not read as a real corridor signal).';
+
+var trackingMapSector = 'all';
+var portHistoryPort = 'port1069';
+var portHistorySector = 'total';
+var portHistoryChartInstance = null;
+var portHistoryCache = null; // {ports:[{portid,portname,country,rows:[{dateStr,val,db,tk,ctr}]}], latestAll}
+window.__portHistoryCtx = null;
+
+function trackingSectorNorm(cls) {
+  var c = (cls || '').toLowerCase();
+  if (c.indexOf('tanker') !== -1) return 'Tankers';
+  if (c.indexOf('bulk') !== -1) return 'Dry Bulk';
+  if (c.indexOf('lng') !== -1) return 'LNG';
+  if (c.indexOf('lpg') !== -1) return 'LPG';
+  return 'Other';
+}
+
+function trackingLineupActive() {
+  // Lineup snapshot excludes rows with future-dated arrival timestamps (7 rows scheduled beyond the observation day).
+  var today = new Date(); today.setHours(0, 0, 0, 0);
+  return (DATA.portLineups || []).filter(function(v) {
+    return !(v.arrival_date && v.arrival_date.getTime() > today.getTime());
+  });
+}
+
+function trackingSectorPortStats() {
+  var vessels = trackingLineupActive();
+  var out = { _byPort: {} };
+  ['all', 'Tankers', 'Dry Bulk', 'LNG', 'LPG'].forEach(function(s) { out[s] = { total: 0, waiting: 0, nPorts: 0 }; });
+  var union = {};
+  vessels.forEach(function(v) { union[v.port_locode] = 1; });
+  out.all.nPorts = Object.keys(union).length;
+  out.all.total = vessels.length;
+  out.all.waiting = vessels.filter(function(v) { return v.operational_status === 'Waiting at anchor'; }).length;
+  vessels.forEach(function(v) {
+    var sec = trackingSectorNorm(v.asset_class);
+    if (sec === 'Other') return;
+    if (!out._byPort[sec]) out._byPort[sec] = {};
+    var p = out._byPort[sec][v.port_locode];
+    var w = (v.operational_status === 'Waiting at anchor');
+    if (!p) {
+      p = out._byPort[sec][v.port_locode] = { total: 0, waiting: 0, lat: v.lat, lon: v.lon, name: v.portname, country: v.country };
+      out[sec].nPorts++;
+    }
+    p.total++;
+    if (w) p.waiting++;
+    out[sec].total++;
+    if (w) out[sec].waiting++;
+  });
+  return out;
+}
+
+function setTrackingMapSector(sector) {
+  trackingMapSector = sector;
+  var idMap = { 'all': 'secMapAll', 'Tankers': 'secMapTankers', 'Dry Bulk': 'secMapDry', 'LNG': 'secMapLNG', 'LPG': 'secMapLPG' };
+  Object.keys(idMap).forEach(function(s) {
+    var btn = document.getElementById(idMap[s]);
+    if (btn) {
+      btn.classList.toggle('active', s === sector);
+      btn.style.background = (s === sector) ? 'var(--accent)' : '';
+      btn.style.color = (s === sector) ? '#fff' : '';
+    }
+  });
+  plotPortHubMarkers();
+  var stats = window.__trackingSectorPortStats || {};
+  var hud = document.getElementById('mapHudDetail');
+  if (hud && stats[sector]) hud.textContent = 'Sector highlight: ' + (sector === 'all' ? 'All Classes' : sector) + ' \u00b7 ' + stats[sector].total.toLocaleString() + ' vessels across ' + stats[sector].nPorts + ' ports (lineup snapshot)';
+  if (typeof updateSectorMapCounts === 'function') updateSectorMapCounts();
+  if (typeof renderTrackingTable === 'function') renderTrackingTable();
+}
+window.setTrackingMapSector = setTrackingMapSector;
+
+function isPortInSectorFilter(code) {
+  if (trackingMapSector === 'all') return true;
+  var stats = window.__trackingSectorPortStats;
+  if (!stats || !stats._byPort || !stats._byPort[trackingMapSector]) return false;
+  return !!stats._byPort[trackingMapSector][code];
+}
+
+function openPortDetail(code) {
+  var vessels = trackingLineupActive().filter(function(v) { return v.port_locode === code; });
+  if (!vessels.length) return;
+  var p0 = vessels[0];
+  var existing = document.getElementById('portDetailDrawer');
+  if (existing) existing.remove();
+  var wrap = document.createElement('div');
+  wrap.id = 'portDetailDrawer';
+  wrap.className = 'port-detail-drawer';
+  var waitN = vessels.filter(function(v) { return v.operational_status === 'Waiting at anchor'; }).length;
+  var mix = {};
+  vessels.forEach(function(v) {
+    var s = trackingSectorNorm(v.asset_class);
+    mix[s] = (mix[s] || 0) + 1;
+  });
+  var secOrder = ['Tankers', 'Dry Bulk', 'LNG', 'LPG', 'Other'];
+  var mixColors = { 'Tankers': '#58a6ff', 'Dry Bulk': '#3fb950', 'LNG': '#a371f7', 'LPG': '#f0883e', 'Other': '#8b949e' };
+  var sorted = vessels.slice().sort(function(a, b) { return (b.days_waiting || 0) - (a.days_waiting || 0); });
+  var html = '<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px;">' +
+    '<div><div style="font-weight:700; color:#fff; font-size:13px;">' + escapeHtml(p0.portname) + '</div>' +
+    '<div style="font-size:10px; color:var(--text-muted);">' + escapeHtml(p0.country || '') + ' (' + escapeHtml(code) + ') \u00b7 lineup snapshot</div></div>' +
+    '<button class="pd-close" onclick="closePortDetail()" aria-label="Close port detail">\u00d7</button></div>' +
+    '<div style="display:flex; gap:8px; margin-top:10px; flex-wrap:wrap;">' +
+    '<div class="pd-kpi"><div class="pd-kpi-label">Vessels</div><div class="pd-kpi-val">' + vessels.length + '</div></div>' +
+    '<div class="pd-kpi"><div class="pd-kpi-label">Waiting</div><div class="pd-kpi-val" style="color:var(--yellow);">' + waitN + '</div></div>' +
+    '<div class="pd-kpi"><div class="pd-kpi-label">Avg Wait</div><div class="pd-kpi-val">' + (vessels.reduce(function(s, v) { return s + (v.days_waiting || 0); }, 0) / vessels.length).toFixed(1) + 'd</div></div>' +
+    '</div>' +
+    '<div style="margin-top:8px;"><div style="font-size:9px; color:var(--text-muted); letter-spacing:0.05em; margin-bottom:3px;">SECTOR MIX \u2014 ' + vessels.length + ' VESSELS</div><div class="pd-mixbar">';
+  secOrder.forEach(function(s) {
+    if (!mix[s]) return;
+    var w = Math.max(4, Math.round(100 * mix[s] / vessels.length));
+    html += '<span style="width:' + w + '%; background:' + mixColors[s] + ';" title="' + escapeHtml(s) + ': ' + mix[s] + '"></span>';
+  });
+  html += '</div><div style="display:flex; gap:10px; flex-wrap:wrap; font-size:9px; color:var(--text-muted); margin-top:3px;">';
+  secOrder.forEach(function(s) { if (mix[s]) html += '<span><span style="color:' + mixColors[s] + ';">\u25a0</span> ' + s + ' ' + mix[s] + '</span>'; });
+  html += '</div></div>';
+  html += '<div style="margin-top:10px; font-size:9px; color:var(--text-muted); letter-spacing:0.05em;">VESSELS \u2014 SORTED BY DAYS WAITING</div>';
+  html += '<div style="max-height:236px; overflow-y:auto; border:1px solid var(--border); border-radius:5px; margin-top:4px;"><table class="ph-table pd-vessel-table"><thead><tr><th>Vessel / IMO</th><th>Class</th><th>Cargo</th><th>Wait</th><th>DWT</th><th>Status</th></tr></thead><tbody>';
+  sorted.forEach(function(v, idx) {
+    var rowAttrs = ' data-tooltip=" " data-tt-type="tracking-port-vessel-row"' +
+      ' data-tt-vessel="' + escapeHtml(v.vessel_name) + '"' +
+      ' data-tt-imo="' + escapeHtml(v.imo_number) + '"' +
+      ' data-tt-asset="' + escapeHtml(v.asset_class || '') + '"' +
+      ' data-tt-status="' + escapeHtml(v.operational_status || '') + '"' +
+      ' data-tt-cargo="' + escapeHtml(v.cargo_type || '') + '"' +
+      ' data-tt-waiting="' + (v.days_waiting || 0) + '"' +
+      ' data-tt-dwt="' + (v.dwt || 0) + '"' +
+      ' data-tt-arrival="' + escapeHtml(v.arrival_timestamp || '') + '"';
+    html += '<tr class="pd-vessel-row"' + rowAttrs + ' data-vessel-idx="' + idx + '"><td><div style="font-weight:600; color:#fff;">' + escapeHtml(v.vessel_name) + '</div><div style="font-size:9px; color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(v.imo_number) + '</div></td>' +
+      '<td>' + escapeHtml(v.asset_class || '') + '</td>' +
+      '<td style="max-width:110px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;" title="' + escapeHtml(v.cargo_type || '') + '">' + escapeHtml(v.cargo_type || '\u2014') + '</td>' +
+      '<td style="color:' + ((v.days_waiting || 0) > 3 ? 'var(--yellow)' : 'var(--text)') + '; font-family:\'IBM Plex Mono\', monospace;">' + ((v.days_waiting || 0) > 0 ? v.days_waiting.toFixed(1) + 'd' : '\u2014') + '</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace;">' + (v.dwt ? Math.round(v.dwt / 1000) + 'k' : '\u2014') + '</td>' +
+      '<td><span class="' + ((v.operational_status === 'Operating at berth') ? 'status-badge-berth' : 'status-badge-anchor') + '">' + ((v.operational_status === 'Operating at berth') ? 'Berth' : 'Anchor') + '</span></td></tr>';
+  });
+  html += '</tbody></table></div>';
+  html += '<div id="pdVesselDetail"></div>';
+  html += '<div style="margin-top:10px; font-size:9.5px; color:var(--text-muted); line-height:1.5;">Voyage origin / destination track not in data sources (lineup snapshot only) \u2014 stated per vessel in its row tooltip.</div>';
+  wrap.innerHTML = html;
+  var container = document.getElementById('trackingMapContainer');
+  if (container) container.appendChild(wrap);
+
+  // Per-vessel click -> honest detail row-set (every field from the lineup row; nothing invented).
+  wrap.querySelectorAll('.pd-vessel-row').forEach(function(row) {
+    row.addEventListener('click', function() {
+      var idx = parseInt(row.getAttribute('data-vessel-idx'), 10);
+      var v = sorted[idx];
+      var box = document.getElementById('pdVesselDetail');
+      wrap.querySelectorAll('.pd-vessel-row').forEach(function(r) { r.classList.remove('selected'); });
+      row.classList.add('selected');
+      if (!box || !v) return;
+      var leg = (DATA.voyageLegs && DATA.voyageLegs[v.imo_number]) ? DATA.voyageLegs[v.imo_number] : null;
+      var rows2 = [
+        ['Vessel name', v.vessel_name],
+        ['IMO', v.imo_number],
+        ['Asset class', v.asset_class],
+        ['Cargo type (reported)', v.cargo_type || 'n/a (not reported)'],
+        ['Operational status', v.operational_status],
+        ['Days waiting', (v.days_waiting || 0).toFixed(1)],
+        ['DWT', v.dwt ? v.dwt.toLocaleString() : '\u2014'],
+        ['Port / country', v.portname + (v.country ? ', ' + v.country : '')],
+        ['Arrival timestamp', v.arrival_timestamp || '\u2014'],
+        ['Position (AIS)', (v.lat || 0).toFixed(4) + '\u00b0, ' + (v.lon || 0).toFixed(4) + '\u00b0'],
+        ['Voyage origin / track', 'not in data sources \u2014 lineup snapshot only']
+      ];
+      if (leg) {
+        if (leg.leg_port) rows2.push(['Last recorded leg (vessel_leg_economics.json)', leg.leg_port]);
+        if (leg.leg_date) rows2.push(['Leg date', leg.leg_date]);
+        if (leg.transit_days != null) rows2.push(['Leg transit days', String(leg.transit_days)]);
+      }
+      var boxHtml = '<div style="font-weight:700; color:#fff; margin-bottom:5px;">' + escapeHtml(v.vessel_name) + ' \u2014 Row Detail</div>';
+      rows2.forEach(function(rw) {
+        boxHtml += '<div class="pd-detail-row"><span class="pd-detail-k">' + escapeHtml(rw[0]) + '</span><span class="pd-detail-v">' + escapeHtml(rw[1]) + '</span></div>';
+      });
+      box.innerHTML = '<div class="pd-detail-box">' + boxHtml + '</div>';
+      box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+  });
+}
+window.openPortDetail = openPortDetail;
+
+function closePortDetail() {
+  var d = document.getElementById('portDetailDrawer');
+  if (d) d.remove();
+}
+window.closePortDetail = closePortDetail;
+
+function initPortHistory() {
+  var rowsAll = (DATA.portCongestion || DATA.portwatchCongestion || DATA.portwatch_congestion) || [];
+  if (!rowsAll.length) return;
+  var byPort = {};
+  rowsAll.forEach(function(r) {
+    var pid = r.portCode;
+    if (!pid) return;
+    if (!byPort[pid]) byPort[pid] = { portid: pid, portname: r.portName || pid, country: r.country || '', rows: [] };
+    byPort[pid].rows.push({
+      dateStr: r.dateStr,
+      val: r.dailyPortCalls,
+      db: r.callsDryBulk,
+      tk: r.callsTanker,
+      ctr: r.callsContainer
+    });
+  });
+  var ports = Object.keys(byPort).map(function(pid) {
+    var p = byPort[pid];
+    p.rows.sort(function(a, b) { return a.dateStr < b.dateStr ? -1 : (a.dateStr > b.dateStr ? 1 : 0); });
+    return p;
+  }).sort(function(a, b) { return a.portname.localeCompare(b.portname); });
+  var latestStr = '';
+  ports.forEach(function(p) { p.rows.forEach(function(r) { if (r.dateStr > latestStr) latestStr = r.dateStr; }); });
+  portHistoryCache = { ports: ports, latestAll: latestStr };
+  var sel = document.getElementById('phPortSelect');
+  if (sel) {
+    ports.forEach(function(p) {
+      var opt = document.createElement('option');
+      opt.value = p.portid;
+      opt.textContent = p.portname + (p.country ? ', ' + p.country : '') + ' (' + p.rows.length + 'd)';
+      sel.appendChild(opt);
+    });
+    sel.value = portHistoryPort;
+  }
+  var latestEl = document.getElementById('phLatest');
+  if (latestEl && latestStr) latestEl.textContent = latestStr;
+}
+
+function portHistoryWindow(rows) {
+  // Window = latest 120 consecutive data dates. 5Y baseline = mean of 2019-2025
+  // values whose month-day falls in the same calendar window (computed from CSV).
+  var dates = rows.map(function(r) { return r.dateStr; }).filter(Boolean);
+  if (!dates.length) return null;
+  var wDates = dates.slice(-120);
+  var d0 = wDates[0], d1 = wDates[wDates.length - 1];
+  var m0 = d0.slice(5), m1 = d1.slice(5);
+  function inWin(ds) {
+    var md = ds.slice(5);
+    return (m0 <= m1) ? (md >= m0 && md <= m1) : (md >= m0 || md <= m1);
+  }
+  var base = [];
+  rows.forEach(function(r) {
+    if (!r.dateStr || r.val == null) return;
+    var yr = parseInt(r.dateStr.slice(0, 4), 10);
+    if (yr >= 2019 && yr <= 2025 && inWin(r.dateStr)) base.push(r.val);
+  });
+  return { dates: wDates, d0: d0, d1: d1, base: base.length ? base.reduce(function(a, b) { return a + b; }, 0) / base.length : null, baseN: base.length };
+}
+
+function setPortHistoryPort(pid) {
+  portHistoryPort = pid;
+  renderPortHistory();
+}
+window.setPortHistoryPort = setPortHistoryPort;
+
+function setPortHistorySector(sector) {
+  portHistorySector = sector;
+  var idMap = { 'total': 'phSectorTotal', 'dry_bulk': 'phSectorDry', 'tanker': 'phSectorTanker', 'container': 'phSectorContainer' };
+  Object.keys(idMap).forEach(function(s) {
+    var el = document.getElementById(idMap[s]);
+    if (el) {
+      el.classList.toggle('active', s === sector);
+      el.style.background = (s === sector) ? 'var(--accent)' : '';
+      el.style.color = (s === sector) ? '#fff' : '';
+    }
+  });
+  renderPortHistory();
+}
+window.setPortHistorySector = setPortHistorySector;
+
+function renderPortHistory() {
+  var canvas = document.getElementById('portHistoryChart');
+  if (!canvas || !portHistoryCache) return;
+  var port = portHistoryCache.ports.find(function(p) { return p.portid === portHistoryPort; });
+  if (!port) return;
+  var key = portHistorySector;
+  var measure = key === 'total' ? 'Total Daily Port Calls' : (key === 'dry_bulk' ? 'Dry-Bulk Daily Calls' : (key === 'tanker' ? 'Tanker Daily Calls' : 'Container Daily Calls'));
+  var rows = port.rows.map(function(r) {
+    return { dateStr: r.dateStr, val: key === 'total' ? r.val : (key === 'dry_bulk' ? r.db : (key === 'tanker' ? r.tk : r.ctr)) };
+  });
+  var win = portHistoryWindow(rows);
+  var badge = null;
+  if (win && win.base != null && win.dates.length) {
+    var lastRow = null;
+    rows.forEach(function(r) { if (r.dateStr === win.d1) lastRow = r; });
+    if (lastRow && lastRow.val != null && win.base > 0) {
+      badge = { val: lastRow.val, base: win.base, delta: (lastRow.val - win.base) / win.base * 100 };
+    }
+  }
+  window.__portHistoryCtx = {
+    port: port.portname,
+    country: port.country,
+    measure: measure,
+    latest: badge ? { dateStr: win.d1, val: badge.val } : null,
+    base: badge ? badge.base : null,
+    delta: badge ? badge.delta : null
+  };
+  var strip = document.getElementById('phKpiStrip');
+  if (strip) {
+    var chips = '';
+    if (badge) {
+      chips += '<div class="ph-kpi-chip"><div class="k">Latest (' + win.d1 + ')</div><div class="v">' + badge.val.toLocaleString() + '</div><div class="s" style="color:var(--text-muted);">calls/day</div></div>';
+      chips += '<div class="ph-kpi-chip"><div class="k">5Y Same-Window Mean</div><div class="v">' + badge.base.toFixed(1) + '</div><div class="s" style="color:var(--text-muted);">2019-2025 window mean</div></div>';
+      var dCol = badge.delta >= 0 ? 'var(--green)' : 'var(--red)';
+      chips += '<div class="ph-kpi-chip"><div class="k">vs 5Y Avg</div><div class="v" style="color:' + dCol + ';">' + (badge.delta > 0 ? '+' : '') + badge.delta.toFixed(1) + '%</div><div class="s" style="color:' + dCol + ';">' + (badge.delta >= 0 ? 'above' : 'below') + ' seasonal norm</div></div>';
+      chips += '<div class="ph-kpi-chip"><div class="k">Window Coverage</div><div class="v">' + win.dates.length + 'd</div><div class="s" style="color:var(--text-muted);">' + win.d0 + ' \u2192 ' + win.d1 + '</div></div>';
+    } else {
+      chips += '<div class="ph-kpi-chip"><div class="k">' + escapeHtml(port.portname) + '</div><div class="v">\u2014</div><div class="s" style="color:var(--text-muted);">No ' + measure.toLowerCase() + ' in the harvest window</div></div>';
+    }
+    strip.innerHTML = chips;
+  }
+  var foot = document.getElementById('phFootnote');
+  if (foot) foot.innerHTML = 'Source: data/congestion/portwatch_port_congestion.csv (IMF PortWatch) \u00b7 port names read from the file\u2019s own portname column (no external portid lookup) \u00b7 5Y baseline = mean of 2019-2025 daily values in the same calendar window as the displayed 120-day window \u00b7 LNG/LPG call counts are not published by PortWatch \u2014 gas-hull detail lives in the lineup snapshot.';
+  if (!win) {
+    if (portHistoryChartInstance) { portHistoryChartInstance.destroy(); portHistoryChartInstance = null; }
+    return;
+  }
+  var labels = win.dates;
+  var valByDate = {};
+  rows.forEach(function(r) { if (r.dateStr) valByDate[r.dateStr] = r.val; });
+  var series = labels.map(function(d) { return (d in valByDate) ? valByDate[d] : null; });
+  var baseLine = (win.base != null) ? labels.map(function() { return win.base; }) : null;
+  if (portHistoryChartInstance) portHistoryChartInstance.destroy();
+  var ds = [{
+    label: measure + ' \u2014 ' + port.portname,
+    data: series,
+    borderColor: '#58a6ff',
+    backgroundColor: 'rgba(88,166,255,0.10)',
+    borderWidth: 1.6,
+    fill: true,
+    tension: 0.15,
+    pointRadius: 0,
+    spanGaps: false
+  }];
+  if (baseLine) ds.push({ label: '5Y same-window mean (2019-2025)', data: baseLine, borderColor: '#e3b341', borderDash: [6, 4], borderWidth: 1.6, pointRadius: 0, fill: false });
+  var ctx2 = canvas.getContext('2d');
+  portHistoryChartInstance = new Chart(ctx2, {
+    type: 'line',
+    data: { labels: labels, datasets: ds },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 9 }, boxWidth: 7 } },
+        tooltip: { callbacks: { label: function(c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString() : '\u2014'); } } }
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 9 }, maxTicksLimit: 10, maxRotation: 0, autoSkip: true } },
+        y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 9 }, callback: function(v) { return typeof v === 'number' ? Math.round(v) : v; } } }
+      }
+    }
+  });
+}
+window.renderPortHistory = renderPortHistory;
+
+function populatePortHistory() {
+  if (portHistoryCache) { renderPortHistory(); return; }
+  initPortHistory();
+  if (portHistoryCache) renderPortHistory();
+}
+
+function renderChokepointSelector() {
+  var wrap = document.getElementById('cpSelectorChips');
+  if (!wrap) return;
+  var cps = (DATA.chokepointSummary && DATA.chokepointSummary.chokepoints) || [];
+  if (!cps.length) {
+    wrap.innerHTML = '<span style="color:var(--text-muted); font-size:10px;">Loading chokepoint registry\u2026</span>';
+    return;
+  }
+  wrap.innerHTML = '';
+  cps.forEach(function(cp) {
+    var limited = (cp.id === 'strait_hormuz');
+    var chip = document.createElement('button');
+    chip.type = 'button';
+    chip.className = 'cp-selector-chip' + (cp.id === trackingActiveChokepointId ? ' active' : '') + (limited ? ' active-limit' : '');
+    chip.setAttribute('role', 'option');
+    chip.setAttribute('data-cp-id', cp.id);
+    chip.setAttribute('data-tooltip', ' ');
+    chip.setAttribute('data-tt-type', 'chokepoint-card');
+    chip.setAttribute('data-tt-cp-id', cp.id);
+    chip.textContent = cp.name + (limited ? ' \u26a0' : '');
+    chip.addEventListener('click', function() {
+      openChokepointAnalytics(cp.id);
+      if (trackingMap) trackingMap.flyTo([cp.lat, cp.lon], 5, { duration: 1.0 });
+    });
+    wrap.appendChild(chip);
+  });
+}
+
+function syncCpSelectorActive() {
+  document.querySelectorAll('.cp-selector-chip').forEach(function(ch) {
+    var id = ch.getAttribute('data-cp-id');
+    ch.classList.toggle('active', id === trackingActiveChokepointId);
+    ch.classList.toggle('active-limit', id === 'strait_hormuz');
+  });
+}
+
 function renderTrackingTab() {
   window.renderTrackingTab = renderTrackingTab;
   if (!DATA.loaded) return;
@@ -35939,14 +36534,22 @@ function renderTrackingTab() {
   // Populate HUD Stats
   updateTrackingHUD();
 
-  // Render Chokepoints Directory
+  // Render Chokepoints Directory + all-28 selector chips
   renderChokepointsDirectory();
+  renderChokepointSelector();
+
+  // Sector-map stats cache (drives toggle counts, dimming, tooltips)
+  window.__trackingSectorPortStats = trackingSectorPortStats();
+  updateSectorMapCounts();
 
   // Render Lineup Table
   renderTrackingTable();
 
   // Populate initial Chokepoint Analytics
   openChokepointAnalytics(trackingActiveChokepointId);
+
+  // Port history drawer (PortWatch calls vs 5Y same-window mean)
+  populatePortHistory();
 
   // Initialize Distance Calculator default
   runDistanceCalculation();
@@ -36261,6 +36864,21 @@ function updateTrackingHUD() {
   }
 }
 
+function updateSectorMapCounts() {
+  var stats = window.__trackingSectorPortStats;
+  if (!stats) return;
+  var ids = { 'all': 'secMapCountAll', 'Tankers': 'secMapCountTankers', 'Dry Bulk': 'secMapCountDry', 'LNG': 'secMapCountLNG', 'LPG': 'secMapCountLPG' };
+  Object.keys(ids).forEach(function(s) {
+    var el = document.getElementById(ids[s]);
+    if (el && stats[s]) el.textContent = stats[s].total.toLocaleString() + ' / ' + stats[s].nPorts + 'p';
+  });
+  // Sector-toggle overlay tooltip carries live per-sector counts from the cache.
+  var ov = document.getElementById('mapSectorToggle');
+  if (ov) {
+    ov.setAttribute('data-tt-sector', trackingMapSector);
+  }
+}
+
 function filterTrackingData() {
   var vessels = DATA.portLineups || [];
   var query = (trackingSearchQuery || '').toLowerCase().trim();
@@ -36473,7 +37091,17 @@ function onTrackingPortChange() {
   } else if (trackingMap) {
     trackingMap.flyTo([20, 45], 3, { duration: 1.2 });
     var hudDetailAll = document.getElementById('mapHudDetail');
-    if (hudDetailAll) hudDetailAll.textContent = '740 vessels rendered across 27 ports';
+    var secStats = window.__trackingSectorPortStats || {};
+    var sec = trackingMapSector;
+    if (hudDetailAll) {
+      if (secStats[sec]) hudDetailAll.textContent = 'Sector highlight: ' + (sec === 'all' ? 'All Classes' : sec) + ' \u00b7 ' + secStats[sec].total.toLocaleString() + ' vessels across ' + secStats[sec].nPorts + ' ports (lineup snapshot)';
+      else if (typeof trackingLineupActive === 'function') {
+        var vs = trackingLineupActive();
+        var unionP = {};
+        vs.forEach(function(v) { unionP[v.port_locode] = 1; });
+        hudDetailAll.textContent = vs.length.toLocaleString() + ' vessels rendered across ' + Object.keys(unionP).length + ' ports';
+      }
+    }
   }
 
   // If bunkers subview is open, re-render it for this port
@@ -36498,6 +37126,7 @@ function onTrackingSearchInput() {
 function setTrackingSubView(subview) {
   trackingActiveSubView = subview;
   var views = ['lineup', 'chokepoints', 'bunkers', 'distance', 'stress'];
+  if (subview === 'lineup') populatePortHistory();
   views.forEach(function(v) {
     var btn = document.getElementById('subnav' + v.charAt(0).toUpperCase() + v.slice(1));
     var el = (v === 'stress')
@@ -36707,7 +37336,9 @@ function plotVesselMarkers() {
   if (!trackingMap || !vesselMarkersLayer) return;
   vesselMarkersLayer.clearLayers();
 
-  var vessels = filterTrackingData();
+  var vessels = filterTrackingData().filter(function(v) {
+    return isPortInSectorFilter(v.port_locode);
+  });
 
   // Create markers
   vessels.forEach(function(v) {
@@ -36937,21 +37568,32 @@ function plotPortHubMarkers() {
     if (v.operational_status === 'Waiting at anchor') portCounts[code].waiting++;
   });
 
+  var maxWaiting = 0;
+  Object.entries(portCounts).forEach(function([code, p]) { if (p.waiting > maxWaiting) maxWaiting = p.waiting; });
+
   Object.entries(portCounts).forEach(function([code, p]) {
     var pMeta = PORT_COORDINATES[code];
     var lat = pMeta ? pMeta.lat : p.lat;
     var lon = pMeta ? pMeta.lon : p.lon;
     if (!lat || !lon) return;
 
-    var iconHtml = '<div class="port-hub-pin" title="' + escapeHtml(p.name) + ': ' + p.count + ' vessels (' + p.waiting + ' waiting)">' +
-      '<span class="port-hub-badge">' + p.count + '</span>' +
+    // Sector highlight: in-sector circle scales with waiting-vessel count and gets
+    // the lit glow; out-of-sector ports stay on the map but visually dimmed.
+    var inSector = isPortInSectorFilter(code);
+    var r = 10 + (maxWaiting > 0 ? Math.round(15 * Math.pow(p.waiting / maxWaiting, 0.6)) : 0);
+    if (!inSector) r = 10;
+    var pinState = '';
+    if (trackingMapSector !== 'all') pinState = inSector ? ' lit' : ' dimmed';
+
+    var iconHtml = '<div class="port-hub-pin' + pinState + '" title="' + escapeHtml(p.name) + ': ' + p.count + ' vessels (' + p.waiting + ' waiting)' + (trackingMapSector !== 'all' ? (inSector ? ' \u00b7 ' + escapeHtml(trackingMapSector) + ' highlight' : ' \u00b7 dimmed (outside ' + escapeHtml(trackingMapSector) + ')') : '') + '">' +
+      '<span class="port-hub-badge" style="min-width:' + Math.max(18, 12 + String(p.count).length * 6) + 'px; font-size:' + (r >= 20 ? '11px' : '10px') + ';">' + p.count + '</span>' +
       '</div>';
 
     var customIcon = L.divIcon({
       className: 'port-hub-marker-icon',
       html: iconHtml,
-      iconSize: [30, 20],
-      iconAnchor: [15, 10],
+      iconSize: [Math.max(30, r * 2), 20],
+      iconAnchor: [Math.max(15, r), 10],
       popupAnchor: [0, -10]
     });
 
@@ -36960,13 +37602,14 @@ function plotPortHubMarkers() {
     var popupHtml = '<div class="signal-vessel-popup" style="min-width:220px;">' +
       '<div class="signal-vessel-head">' +
       '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="status-badge-berth">' + p.count + ' Ships</span></div>' +
-      '<div class="signal-vessel-sub">' + escapeHtml(p.country) + ' (' + code + ')</div>' +
+      '<div class="signal-vessel-sub">' + escapeHtml(p.country) + ' (' + code + ')' + (trackingMapSector !== 'all' ? (inSector ? ' &middot; ' + escapeHtml(trackingMapSector) + ' highlight' : ' &middot; dimmed (outside ' + escapeHtml(trackingMapSector) + ')') : '') + '</div>' +
       '</div>' +
       '<div class="signal-vessel-grid">' +
       '<div><div class="signal-field-label">Waiting at Anchor</div><div class="signal-field-val warn">' + p.waiting + ' vessels</div></div>' +
       '<div><div class="signal-field-label">Operating at Berth</div><div class="signal-field-val good">' + (p.count - p.waiting) + ' vessels</div></div>' +
       '</div>' +
-      '<button class="signal-vessel-btn" onclick="focusPort(\'' + code + '\')">Filter Lineup to ' + escapeHtml(p.name) + '</button>' +
+      '<button class="signal-vessel-btn" onclick="openPortDetail(\'' + code + '\')">Vessel Lineup &amp; Detail (' + escapeHtml(p.name) + ')</button>' +
+      '<button class="signal-vessel-btn" style="margin-top:4px;" onclick="focusPort(\'' + code + '\')">Filter Left-Pane Lineup to ' + escapeHtml(p.name) + '</button>' +
       '</div>';
 
     marker.bindPopup(popupHtml);
@@ -37065,12 +37708,13 @@ function renderChokepointsDirectory() {
 function openChokepointAnalytics(chokepointId) {
   trackingActiveChokepointId = chokepointId || 'bab_el_mandeb';
 
-  // Highlight directory card
+  // Highlight directory card + selector chip
   document.querySelectorAll('.cp-dir-card').forEach(function(c) {
     c.classList.remove('selected');
   });
   var activeCard = document.getElementById('cp-card-' + trackingActiveChokepointId);
   if (activeCard) activeCard.classList.add('selected');
+  syncCpSelectorActive();
 
   var summary = DATA.chokepointSummary;
   var chokepoints = summary && summary.chokepoints ? summary.chokepoints : [];
@@ -37112,6 +37756,19 @@ function openChokepointAnalytics(chokepointId) {
 
   if (kpiDaily) kpiDaily.textContent = cp.avg_7d + ' / day';
   if (kpiBase) kpiBase.textContent = 'Baseline: ' + cp.normal_baseline_daily + ' / day';
+
+  // Honest data note: Hormuz is under-covered by the PortWatch harvest (~4-8/day
+  // vs ~20+ real-world corridor transits). Diagnostic badge, never fabricated context.
+  var noteEl2 = document.getElementById('cpDataNote');
+  if (noteEl2) {
+    if (cp.id === 'strait_hormuz') {
+      noteEl2.innerHTML = '<strong>Harvest coverage limitation &mdash; diagnostic only:</strong> ' + PORTWATCH_HORMUZ_NOTE;
+      noteEl2.style.display = 'block';
+    } else {
+      noteEl2.style.display = 'none';
+      noteEl2.innerHTML = '';
+    }
+  }
 
   if (kpiDiv) {
     var divPct = cp.baseline_change_pct;
@@ -37206,22 +37863,44 @@ function renderChokepointChart(cp) {
     chokepointChartInstance.destroy();
   }
 
+  // 5Y same-window baseline (2019-2025 monthly means for the trailing window of
+  // the displayed range) — computed from cp.monthly_series, never hardcoded.
+  var datasetsCp = [{
+    label: metricLabel + ' (' + cp.name + ')',
+    data: data,
+    borderColor: color,
+    backgroundColor: color + '15',
+    fill: true,
+    tension: 0.25,
+    borderWidth: 2,
+    pointRadius: range === '90d' ? 1.5 : 2.5,
+    pointHoverRadius: 5
+  }];
+  if (range !== '90d' && metric !== 'capacity' && data.length) {
+    var winLen = data.length;
+    var ms = cp.monthly_series || [];
+    var metricKey = metric === 'total' ? 'tot_avg' : (metric === 'tanker' ? 'tnk_avg' : (metric === 'bulk' ? 'blk_avg' : (metric === 'container' ? 'cnt_avg' : (metric === 'gencargo' ? 'gc_avg' : 'roro_avg'))));
+    var idx0 = Math.max(0, ms.length - winLen);
+    var mWin = ms.slice(idx0);
+    var yrs = mWin.map(function(r) { return parseInt((r.m || '0000').slice(0, 4), 10) || 0; });
+    var yMin = Math.min.apply(null, yrs.filter(function(y) { return y >= 2019; }).concat([2026]));
+    var baseVals = [];
+    ms.forEach(function(r) {
+      var y = parseInt((r.m || '0000').slice(0, 4), 10) || 0;
+      if (y >= yMin && y <= 2025 && r[metricKey] != null) baseVals.push(r[metricKey]);
+    });
+    if (baseVals.length) {
+      var bMean = baseVals.reduce(function(a, b) { return a + b; }, 0) / baseVals.length;
+      datasetsCp.push({ label: 'Baseline mean 2019-2025 (same window)', data: labels.map(function() { return bMean; }), borderColor: '#e3b341', borderDash: [6, 4], borderWidth: 1.4, pointRadius: 0, fill: false, tension: 0 });
+    }
+  }
+
   var ctx = canvas.getContext('2d');
   chokepointChartInstance = new Chart(ctx, {
     type: 'line',
     data: {
       labels: labels,
-      datasets: [{
-        label: metricLabel + ' (' + cp.name + ')',
-        data: data,
-        borderColor: color,
-        backgroundColor: color + '15',
-        fill: true,
-        tension: 0.25,
-        borderWidth: 2,
-        pointRadius: range === '90d' ? 1.5 : 2.5,
-        pointHoverRadius: 5
-      }]
+      datasets: datasetsCp,
     },
     options: {
       responsive: true,
@@ -37372,7 +38051,46 @@ function escapeHtml(str) {
         const title = target.getAttribute('data-tt-title') || 'Metric Detail';
         let html = `<div class="rt-title">${title}</div>`;
 
-        if (type === 'fearnleys-56y-tce') {
+        if (type === 'tracking-sector-map') {
+          const sec = target.getAttribute('data-tt-sector') || 'all';
+          const secPorts = window.__trackingSectorPortStats || {};
+          const p = secPorts[sec] || {};
+          const secName = sec === 'all' ? 'All Classes' : sec;
+          html = `<div class="rt-title">Sector Map Highlight \u2014 ${secName}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ports in Lineup Snapshot</span><span class="rt-val">${p.nPorts != null ? p.nPorts : '\u2014'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Waiting Vessels (Snapshot)</span><span class="rt-val">${p.waiting != null ? p.waiting : '\u2014'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Total Vessels (Snapshot)</span><span class="rt-val">${p.total != null ? p.total : '\u2014'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Voyage Tracks</span><span class="rt-val" style="color:var(--yellow);">not in data sources \u2014 lineup snapshot only</span></div>`;
+          html += `<div class="rt-note">Circle size on the map = waiting-vessel count per port (port_lineups_active.csv snapshot, future-dated rows excluded). Click a port pin for the full vessel lineup; clicking a vessel row shows its full recorded detail.</div>`;
+        }
+        else if (type === 'tracking-port-vessel-row') {
+          const g = k => target.getAttribute(k);
+          const vName = g('data-tt-vessel') || 'Vessel';
+          html = `<div class="rt-title">${vName} (${g('data-tt-asset') || 'Vessel'})</div>`;
+          html += `<div class="rt-row"><span class="rt-label">IMO</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${g('data-tt-imo') || '\u2014'}</span></div>`;
+          const dwtN = parseInt(g('data-tt-dwt')) || 0;
+          if (dwtN > 0) html += `<div class="rt-row"><span class="rt-label">Deadweight (DWT)</span><span class="rt-val">${Number(dwtN).toLocaleString()} DWT</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Status</span><span class="rt-val ${g('data-tt-status') === 'Operating at berth' ? 'pos' : 'neg'}" style="font-weight:700;">${g('data-tt-status') || '\u2014'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Cargo on Board</span><span class="rt-val">${g('data-tt-cargo') || 'n/a (not reported)'}</span></div>`;
+          const wN = parseFloat(g('data-tt-waiting'));
+          if (!isNaN(wN) && wN > 0) html += `<div class="rt-row"><span class="rt-label">Days Waiting</span><span class="rt-val" style="color:var(--yellow);">${wN.toFixed(1)} Days</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Arrival / Anchored Since</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${(g('data-tt-arrival') || '\u2014').slice(0, 16)}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Voyage Track</span><span class="rt-val" style="color:var(--yellow);">not in data sources \u2014 lineup snapshot only</span></div>`;
+          html += `<div class="rt-note">All fields come from the live port_lineups_active.csv row. No origin-port, destination or historical track fields exist in this harvest \u2014 stated plainly rather than inferred.</div>`;
+        }
+        else if (type === 'portwatch-callout') {
+          const ctx = target.getAttribute('data-tt-context');
+          const Y = window.__portHistoryCtx || {};
+          html = `<div class="rt-title">Port Call History \u2014 IMF PortWatch</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Measure</span><span class="rt-val">${Y.measure || 'Daily Port Calls'}</span></div>`;
+          if (Y.latest) html += `<div class="rt-row"><span class="rt-label">Latest Day</span><span class="rt-val">${Y.latest.dateStr} \u00b7 ${Y.latest.val != null ? Y.latest.val.toLocaleString() : '\u2014'} calls/day</span></div>`;
+          if (Y.base != null) html += `<div class="rt-row"><span class="rt-label">5Y Same-Window Mean</span><span class="rt-val">${Y.base.toLocaleString(undefined, {maximumFractionDigits: 1})} calls/day</span></div>`;
+          if (Y.delta != null) html += `<div class="rt-row"><span class="rt-label">Latest vs 5Y Mean</span><span class="rt-val ${Y.delta >= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${Y.delta > 0 ? '+' : ''}${Y.delta.toFixed(1)}%</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Baseline Definition</span><span class="rt-val">Mean of all 2019\u20132025 daily values in the same calendar window \u2014 computed from the CSV, never hardcoded</span></div>`;
+          if (ctx === 'note') html += `<div class="rt-note">Port names come straight from the PortWatch file's own portname column (portid \u2192 portname is stored in the harvest itself; no external lookup needed). Sector call splits exist for dry_bulk / tanker / container across all 43 ports; LNG / LPG call counts are not published by PortWatch \u2014 gas-hull detail lives in the lineup snapshot.</div>`;
+          else html += `<div class="rt-note">Baseline and badge are recomputed from portwatch_port_congestion.csv on every load \u2014 no hardcoded values.</div>`;
+        }
+        else if (type === 'fearnleys-56y-tce') {
           const segKey = target.getAttribute('data-tt-seg');
           const summary = window.DATA && DATA.fearnleysSummary;
           const s = (summary && summary.tce_benchmarks_56y && summary.tce_benchmarks_56y.stats) ? summary.tce_benchmarks_56y.stats[segKey] : null;
@@ -39750,7 +40468,7 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Disruption Status</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${(cp.disruption_status || '').replace(/_/g, ' ')}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">7-Day Avg Daily Transits</span><span class="rt-val" style="font-weight:700;">${cp.avg_7d} transits/day</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Vs Pre-Disruption Baseline</span><span class="rt-val ${chgCls}" style="font-weight:700;">${chg > 0 ? '+' : ''}${chg}%</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Pre-Crisis Historical Volume</span><span class="rt-val">${cp.historical_baseline_daily} transits/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Baseline Daily Volume</span><span class="rt-val">${cp.normal_baseline_daily} transits/day</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Strategic Flow Share</span><span class="rt-val">${cp.share_global_maritime_oil_pct || cp.share_global_trade_pct || 'Key'}% global trade</span></div>`;
             if (cp.strategic_importance) html += `<div class="rt-note">${cp.strategic_importance}</div>`;
           }
