@@ -65,8 +65,13 @@ def test_seed_from_source_150_rows(tmp_path):
     bbh.write_history(archive, str(hist))
     rows = _read(str(hist))
     assert len(rows) == 150
-    # byte-identical to the repo archive built from the same seed
-    assert open(str(hist), 'rb').read() == open(HISTORY_CSV, 'rb').read()
+    # The repo archive must be a superset of the seed: every seed key present
+    # (it used to be byte-identical when the seed WAS the whole archive; the
+    # full-page harvest now extends the repo archive past the 10-day seed).
+    seed_keys = {(r['observation_date'], r['index_code'], r['grade']) for r in rows}
+    repo_keys = {(r['observation_date'], r['index_code'], r['grade'])
+                 for r in _read(HISTORY_CSV)}
+    assert seed_keys <= repo_keys
 
 
 def test_idempotent_rerun_byte_identical():
@@ -152,7 +157,7 @@ def test_build_payload_shape_and_monotonic_dates():
     payload = bbh.build_bix_history_payload(HISTORY_CSV)
     assert payload['source'] == 'BunkerIndex_BIX'
     assert payload['unit'] == 'USD/MT'
-    assert payload['rows'] == 150
+    assert payload['rows'] == 3840
     n_series = 0
     for idx, grades in payload['series'].items():
         for grade, s in grades.items():
@@ -173,14 +178,18 @@ def test_summary_embeds_bix_history():
         data = json.load(f)
     bh = data.get('bix_history')
     assert bh is not None, 'bix_history embed missing from bunker_frontend_summary.json'
-    assert bh['rows'] >= 150
+    assert bh['rows'] >= 2000
     assert set(bh['series'].keys()) == {'BIX_World', 'BIX_World3', 'BIX_APAC', 'BIX_EMEA', 'BIX_Americas'}
     for grades in bh['series'].values():
         for s in grades.values():
             assert s['dates'] == sorted(s['dates'])
             assert len(s['dates']) == len(s['prices']) == len(s['change_usd'])
     world = bh['series']['BIX_World']['VLSFO']
-    assert world['dates'][-1] == max(d['date'] for d in data['benchmarks_bix'] if d['index'] == 'BIX_World' and d['grade'] == 'VLSFO')
+    # The full-page harvest (chart series) is at least as fresh as the flat
+    # seed snapshot (benchmarks_bix): archive last date >= flat last date.
+    flat_last = max(d['date'] for d in data['benchmarks_bix']
+                    if d['index'] == 'BIX_World' and d['grade'] == 'VLSFO')
+    assert world['dates'][-1] >= flat_last
 
 
 def test_bix_history_regression_floor():
@@ -189,7 +198,9 @@ def test_bix_history_regression_floor():
     dates = {r['observation_date'] for r in rows}
     seed_dates = {r['observation_date'] for r in _read(SEED_CSV)}
     # Floor grows with the archive: max(seed floor, recorded historical floor).
-    floor = max(10, len(seed_dates), int(os.environ.get('BIX_HISTORY_MIN_DATES', '10')))
+    # After the full-page backfill the archive carries ~256 published days; the
+    # default floor of 200 catches any regression below the published series.
+    floor = max(10, len(seed_dates), int(os.environ.get('BIX_HISTORY_MIN_DATES', '200')))
     assert len(dates) >= floor, (
         f'BIX history regressed: {len(dates)} distinct obs dates < floor {floor}')
 
@@ -215,9 +226,117 @@ def test_main_smoke_json_report():
     res = subprocess.run([sys.executable, SCRIPT, '--dry-run'], capture_output=True, text=True, cwd=REPO)
     assert res.returncode == 0, res.stderr
     stats = json.loads(res.stdout.strip().splitlines()[-1])
-    assert stats['total_rows'] == 150
+    assert stats['total_rows'] == 3840
     assert stats['written'] is False
     before = open(HISTORY_CSV, 'rb').read()
     res2 = subprocess.run([sys.executable, SCRIPT], capture_output=True, text=True, cwd=REPO)
     assert res2.returncode == 0, res2.stderr
     assert open(HISTORY_CSV, 'rb').read() == before
+
+
+# ------------------------------------------------- full-history parser tests
+
+if REPO not in sys.path:
+    sys.path.insert(0, REPO)
+from bunker_pipeline.extractors import bunkerindex_bix as bixmod  # noqa: E402
+
+
+def _fixture_html():
+    """Synthetic page: one labelled chart array per grade + a trailing table.
+    Known ground truth: VLSFO chart 2026-01-02 = 501.25 (chart-only day, no
+    change/low/high), 2026-01-05 = 502.50 (table row, change -1.25, low 495.5,
+    high 510); IFO380/MGO chart-only days in the same window."""
+    series = [('IFO 380', [('2026-01-02', '410.00'), ('2026-01-05', '411.50')]),
+              ('VLSFO', [('2026-01-02', '501.25'), ('2026-01-05', '502.50')]),
+              ('MGO', [('2026-01-02', '900.10'), ('2026-01-05', '901.00')])]
+    parts = ['<html><body>']
+    for label, pts in series:
+        pairs = ','.join('{"date":"%s","price":"%s"}' % (d, p) for d, p in pts)
+        parts.append('<script>let data = [%s];' % pairs)
+        parts.append("let productName = '%s';</script>" % label)
+    parts.append(
+        '<table><tr><th>Date</th><th>Price</th><th>+/-</th><th>+/- %</th>'
+        '<th>Low</th><th>High</th></tr>'
+        '<tr><td>2026-01-05</td><td>411.50</td><td>+1.50</td><td>+0.37</td>'
+        '<td>405.00</td><td>415.00</td></tr></table>'
+        '<table><tr><th>Date</th><th>Price</th><th>+/-</th><th>+/- %</th>'
+        '<th>Low</th><th>High</th></tr>'
+        '<tr><td>2026-01-05</td><td>502.50</td><td>-1.25</td><td>-0.25</td>'
+        '<td>495.50</td><td>510.00</td></tr></table>')
+    parts.append('</body></html>')
+    return ''.join(parts)
+
+
+def test_parse_history_fixture_known_series():
+    """Synthetic page with a known series -> exact parsed rows."""
+    rows = bixmod.parse_bix_history(_fixture_html(), 'BIX_World')
+    got = {(r['grade'], r['observation_date']): r for r in rows}
+    assert ('VLSFO', '2026-01-02') in got
+    chart_only = got[('VLSFO', '2026-01-02')]
+    assert chart_only['price_usd'] == 501.25
+    # chart series carries no change/low/high: fields stay empty, never invented
+    assert chart_only['change_usd'] is None and chart_only['low_usd'] is None \
+        and chart_only['high_usd'] is None
+    table_day = got[('VLSFO', '2026-01-05')]
+    assert table_day['price_usd'] == 502.50
+    assert table_day['change_usd'] == -1.25
+    assert table_day['change_pct'] == -0.25
+    assert table_day['low_usd'] == 495.5 and table_day['high_usd'] == 510.0
+    assert ('IFO380', '2026-01-02') in got and ('MGO', '2026-01-02') in got
+    assert all(r['index_code'] == 'BIX_World' and r['unit'] == 'USD/MT'
+               and r['source'] == 'BunkerIndex_BIX' for r in rows)
+    assert len(rows) == 6  # 3 grades x 2 days
+
+
+def test_parse_history_table_wins_over_chart():
+    """The trailing-table row (richer, published revision) overwrites the
+    chart-only row for the same (grade, date) key."""
+    rows = bixmod.parse_bix_history(_fixture_html(), 'BIX_Americas')
+    got = {(r['grade'], r['observation_date']): r for r in rows}
+    assert got[('IFO380', '2026-01-05')]['change_usd'] == 1.5
+    # a chart-only day with no table row keeps empty change fields
+    assert got[('IFO380', '2026-01-02')]['change_usd'] is None
+    # a chart day that ALSO has a table row inherits the table values
+    assert got[('VLSFO', '2026-01-02')]['price_usd'] == 501.25
+
+
+def test_parse_history_drops_bad_points():
+    """Unparseable / out-of-range chart prices are skipped, never emitted."""
+    html = (_fixture_html()
+            .replace('{"date":"2026-01-02","price":"501.25"}',
+                     '{"date":"2026-01-02","price":"n/a"}')
+            .replace('{"date":"2026-01-05","price":"901.00"}',
+                     '{"date":"2026-01-05","price":"9"}'))
+    rows = bixmod.parse_bix_history(html, 'BIX_World')
+    got = {(r['grade'], r['observation_date']) for r in rows}
+    assert ('VLSFO', '2026-01-02') not in got
+    assert ('MGO', '2026-01-05') not in got
+    assert ('VLSFO', '2026-01-05') in got  # untouched points survive
+
+
+def test_parse_history_grade_fallback_on_unlabelled_blocks():
+    """Unlabelled chart blocks fall back to publication order IFO->VLSFO->MGO."""
+    series = [('2026-01-02', '410.00'), ('2026-01-05', '411.50')], \
+             [('2026-01-02', '501.25'), ('2026-01-05', '502.50')], \
+             [('2026-01-02', '900.10'), ('2026-01-05', '901.00')]
+    parts = ['<html><body>']
+    for pts in series:
+        pairs = ','.join('{"date":"%s","price":"%s"}' % (d, p) for d, p in pts)
+        parts.append('<script>let data = [%s];</script>' % pairs)
+    html = ''.join(parts) + '</body></html>'
+    rows = bixmod.parse_bix_history(html, 'BIX_APAC')
+    got = {(r['grade'], r['observation_date']): r for r in rows}
+    assert got[('IFO380', '2026-01-02')]['price_usd'] == 410.0
+    assert got[('VLSFO', '2026-01-02')]['price_usd'] == 501.25
+    assert got[('MGO', '2026-01-02')]['price_usd'] == 900.1
+
+
+def test_parse_history_comma_prices_and_multivar_names():
+    """Comma-thousands chart prices parse; var/let/const declarations all work."""
+    pairs = ','.join('{"date":"%s","price":"%s"}' % (d, p)
+                     for d, p in (('2026-01-02', '1,201.5'), ('2026-01-05', '1,202.25')))
+    html = '<script>const data = [%s];let productName = \'MGO\';</script>' % pairs
+    rows = bixmod.parse_bix_history(html, 'BIX_EMEA')
+    assert {(r['grade'], r['price_usd']) for r in rows} == {('MGO', 1201.5), ('MGO', 1202.25)}
+
+

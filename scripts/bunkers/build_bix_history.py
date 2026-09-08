@@ -2,11 +2,12 @@
 """
 BIX Benchmark History Accumulator
 =================================
-The BIX harvester (bunker_pipeline/extractors/bunkerindex_bix.py, invoked by
-bunker_pipeline/run_pipeline.py --mode bix|incremental|full) OVERWRITES
-data/bunkers/bunker_bix_macro_benchmarks.csv on every run. The source pages
-(bunkerindex.com indices tables) only expose ~10 trailing observation days,
-so the flat CSV can never grow past that window by itself.
+The flat harvester (bunker_pipeline/extractors/bunkerindex_bix.py
+fetch_bix_suite, invoked by bunker_pipeline/run_pipeline.py) OVERWRITES
+data/bunkers/bunker_bix_macro_benchmarks.csv on every run and only extracts
+the trailing ~10-day tables. The full published series (~256 daily chart
+points per index x grade) is harvested by scripts/bunkers/bix_history_backfill.py
+and merged through this accumulator (extra --input rows win the dedupe).
 
 This script maintains an append/merge archive instead:
 

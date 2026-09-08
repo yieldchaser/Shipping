@@ -57,8 +57,11 @@ jobs:
         timeout-minutes: 20
         run: |
           if [ -f scripts/expansion_bunker_prices.py ]; then python scripts/expansion_bunker_prices.py; fi
-          # Accumulate the BIX benchmark archive BEFORE the summary rebuild so
-          # bix_history.csv grows daily and the summary embeds the full series.
+          # Harvest the FULL published BIX series (each page embeds ~256 daily
+          # chart points per grade) into the append/merge archive, then
+          # accumulate + rebuild BEFORE the summary so bix_history.csv extends
+          # daily and the embed carries the full series.
+          if [ -f scripts/bunkers/bix_history_backfill.py ]; then python scripts/bunkers/bix_history_backfill.py; fi
           if [ -f scripts/bunkers/build_bix_history.py ]; then python scripts/bunkers/build_bix_history.py; fi
           if [ -f scripts/bunkers/build_bunker_cache.py ]; then python scripts/bunkers/build_bunker_cache.py; fi
 
