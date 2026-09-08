@@ -343,3 +343,146 @@ def test_fixture_caches_match_real_files_when_present():
         assert cape["first"] == "2024-09-02"
         assert d["series"]["CAPESIZE_AUSTRALIA_CHINA"]["first"] == "1999-03-01"
         assert d["series"]["SUPRAMAX_TRANSATLANTIC_RV_AVG"].get("derivation")
+
+
+# ------------------------------------------------- Phase 2b: all-zero exclusion
+# Real trimmed sample of an all-zero branch: TANK_VLCC_CEYHAN_FEAST is all-zero
+# over its FULL history (n=1353, every published value 0 — the source never
+# published values in this branch; its USD/WS twin carries the real rate). The
+# two points below are the real first + last rows of that branch.
+
+ZERO_SERIES = {
+    'TANK_VLCC_CEYHAN_FEAST': {
+        'label': 'CEYHAN/FEAST · TCE',
+        'klass': 'VLCC',
+        'route': 'CEYHAN/FEAST',
+        'unit': 'tce',
+        'cadence': 'daily',
+        'pts': [[1526601600000, 0], [1682380800000, 0]],  # trimmed: real first + last
+        'first': '2018-05-18',
+        'last': '2023-04-25',
+        'n': 2,
+    },
+}
+
+
+def js_is_all_zero(s):
+    """Mirror of index.html fearnSeriesIsAllZero: true only when EVERY pt is 0."""
+    return all(v == 0 for _, v in s["pts"])
+
+
+def js_badge_state(s):
+    """Mirror of index.html fearnBadgeState: zero | live | frozen."""
+    if js_is_all_zero(s):
+        return "zero"
+    return "live" if (s["last"] >= "2026-08-01") else "frozen"
+
+
+def test_zero_series_fixture_is_truly_all_zero():
+    s = ZERO_SERIES["TANK_VLCC_CEYHAN_FEAST"]
+    assert js_is_all_zero(s) is True
+    # cross-check against the real cache when present: the branch is all-zero
+    # over its FULL history there too (not just the trimmed sample)
+    if TANKER_JSON.exists():
+        real = json.loads(TANKER_JSON.read_text(encoding="utf-8"))
+        full = real["series"]["TANK_VLCC_CEYHAN_FEAST"]
+        assert len(full["pts"]) > 1000
+        assert js_is_all_zero(full) is True
+
+
+def test_all_zero_exclusion_logic_on_fixtures():
+    zero = ZERO_SERIES["TANK_VLCC_CEYHAN_FEAST"]
+    frozen = FIXTURE_SERIES["TANK_VLCC_MEG_FEAST_TCE"]
+    live = FIXTURE_SERIES["TANK_VLCC_MEG_FEAST"]
+    # exclusion decision mirrors fearnTankKlassSeries' filter
+    keep = {k for k, s in (list(ZERO_SERIES.items()) + list(FIXTURE_SERIES.items()))
+            if not js_is_all_zero(s)}
+    assert "TANK_VLCC_CEYHAN_FEAST" not in keep      # all-zero -> excluded
+    assert "TANK_VLCC_MEG_FEAST_TCE" in keep          # real frozen -> shown
+    assert "TANK_VLCC_MEG_FEAST" in keep              # live -> shown
+    # classification of the three shapes
+    assert js_badge_state(zero) == "zero"
+    assert js_badge_state(frozen) == "frozen"
+    assert js_badge_state(live) == "live"
+
+
+def test_real_cache_series_split_zero_frozen_live():
+    if not TANKER_JSON.exists():
+        pytest.skip("tanker daily cache not built yet")
+    real = json.loads(TANKER_JSON.read_text(encoding="utf-8"))
+    zero, frozen, live = [], [], []
+    for k, s in real["series"].items():
+        st = js_badge_state(s)
+        {"zero": zero, "frozen": frozen, "live": live}[st].append(k)
+    # measured Phase 2b reality: 126 series = 39 all-zero + 8 frozen-real + 79 live
+    assert len(zero) == 39
+    assert len(frozen) == 8
+    assert len(live) == 79
+    assert len(zero) + len(frozen) + len(live) == len(real["series"]) == 126
+    # FROZEN badge only ever lands on series with real values that stopped
+    # before the live window (the 2023-05 taxonomy-switch tce twins)
+    for k in frozen:
+        s = real["series"][k]
+        assert s["last"] < "2026-08-01"
+        assert any(v != 0 for _, v in s["pts"])
+    # every frozen-real branch ends at the taxonomy switch date
+    assert all(real["series"][k]["last"] == "2023-04-25" for k in frozen)
+
+
+def test_s3_renderer_excludes_all_zero_series():
+    m = re.search(r"function fearnTankKlassSeries\(klass\) \{.*?\n\}", C, re.S)
+    assert m, "fearnTankKlassSeries block not found"
+    assert "!fearnSeriesIsAllZero(s)" in m.group(0)
+    # the exclusion helper is computed from loaded cache pts, not a list
+    m2 = re.search(r"function fearnSeriesIsAllZero\(s\) \{.*?\n\}", C, re.S)
+    assert m2, "fearnSeriesIsAllZero block not found"
+    b = m2.group(0)
+    assert "s.pts" in b
+    assert "!== 0" in b
+
+
+def test_s3_footer_discloses_archived_zero_series():
+    # the honest footer line, verbatim
+    assert ("archived route series not shown — the source published no values "
+            "in these branches; the USD/WS twins of these routes are shown.") in C
+    # computed from the cache at render time, not hardcoded
+    assert "fearnTankArchivedCount" in C
+    assert "fearnTankKlassZeroCount" in C
+    assert "fearnTankArchived" in C
+
+
+def test_badge_semantics_split_marker():
+    m = re.search(r"function fearnBadgeState\(s\) \{.*?\n\}", C, re.S)
+    assert m, "fearnBadgeState block not found"
+    b = m.group(0)
+    assert "fearnSeriesIsAllZero(s)" in b
+    assert "fearnIsLive(s)" in b
+    # the badge renders through the split, not raw fearnIsLive
+    m2 = re.search(r"function fearnStatusBadgeLive\(s\) \{.*?\n\}", C, re.S)
+    assert m2 and "fearnBadgeState(s)" in m2.group(0)
+    # FROZEN tooltip keeps the taxonomy-switch wording from the cache meta
+    assert "FDESK_TANKER_META.notes" in C
+
+
+def test_klass_tab_counts_match_shown_series():
+    # tab label counts = fearnTankKlassSeries(k).length (shown after exclusion),
+    # not the cache index's all-inclusive kk.series count
+    m = re.search(r"function renderFearnTank\(\).*?\nfunction setFearnTankKlass", C, re.S)
+    assert m
+    block = m.group(0)
+    assert "var shown = fearnTankKlassSeries(k).length;" in block
+    assert "kk.series != null" not in block
+
+
+def test_dry_grid_all_zero_guard():
+    m = re.search(r"function renderFearnDryGrid\(\).*?\nfunction openFearnDryChart", C, re.S)
+    assert m
+    block = m.group(0)
+    assert "fearnSeriesIsAllZero" in block  # the guard is applied
+    # dry note appends the same honest disclosure when any all-zero appear
+    assert "dryArchived" in block
+    # dry cache reality: 12/12 series carry real values (guard stays dormant)
+    if DRY_JSON.exists():
+        d = json.loads(DRY_JSON.read_text(encoding="utf-8"))
+        zero = [k for k, s in d["series"].items() if js_is_all_zero(s)]
+        assert zero == []

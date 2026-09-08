@@ -41223,9 +41223,22 @@ function escapeHtml(str) {
           const k = target.getAttribute('data-tt-klass') || '';
           const j = window.DATA && DATA.fearnleysTankerRoutesDaily;
           const kk = (j && j.index && j.index.klasses && j.index.klasses[k]) || null;
+          // shown = series the tab grid actually renders (all-zero excluded);
+          // archived = the cache branches the source never published values in.
+          let shown = 0, archived = 0;
+          if (j && j.series) {
+            Object.keys(j.series).forEach((code) => {
+              const s = j.series[code];
+              if (s.klass !== k) return;
+              const pts = s.pts || [];
+              const allZero = pts.length > 0 && pts.every((p) => p[1] === 0);
+              if (allZero) archived++; else shown++;
+            });
+          }
           html = `<div class="rt-title">Route Group: ${escapeHtml(k)}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${Number(shown).toLocaleString('en-US')} shown</span></div>`;
+          if (archived > 0) html += `<div class="rt-row"><span class="rt-label">Archived</span><span class="rt-val">${Number(archived).toLocaleString('en-US')} not shown — source published no values; USD/WS twins carry the routes</span></div>`;
           if (kk) {
-            html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${Number(kk.series).toLocaleString('en-US')}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Points</span><span class="rt-val">${Number(kk.pts).toLocaleString('en-US')}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Span</span><span class="rt-val">${escapeHtml(String(kk.first || '\u2014'))} \u2192 ${escapeHtml(String(kk.last || '\u2014'))}</span></div>`;
           }
@@ -43042,8 +43055,25 @@ function fearnIsLive(s) {
 function fearnFrozenReason() {
   return FDESK_TANKER_META.notes || 'frozen — last print predates the current harvest window';
 }
+function fearnSeriesIsAllZero(s) {
+  // True only when EVERY published point in the branch is 0: the source never
+  // printed a value there and its USD/WS twin carries the real rate. Computed
+  // from the loaded cache pts at render time — never a hardcoded exclusion list.
+  var pts = (s && s.pts) || [];
+  for (var i = 0; i < pts.length; i++) { if (pts[i][1] !== 0) return false; }
+  return true;
+}
+function fearnBadgeState(s) {
+  // Badge semantics split: LIVE = real values publishing into the current
+  // harvest window; FROZEN = real values whose last print predates it (the
+  // 2023-05 taxonomy-switch twins). All-zero branches are excluded from the
+  // tile grid entirely, so they never render a tile or badge at all.
+  if (fearnSeriesIsAllZero(s)) return 'zero';
+  return fearnIsLive(s) ? 'live' : 'frozen';
+}
 function fearnStatusBadgeLive(s) {
-  var live = fearnIsLive(s);
+  var st = fearnBadgeState(s);
+  var live = st === 'live';
   var col = live ? 'var(--green)' : 'var(--text-muted)';
   var txt = live ? 'LIVE' : 'FROZEN';
   return '<span style="font-size:9px;font-weight:700;letter-spacing:0.5px;padding:1px 6px;border-radius:9px;border:1px solid ' + col + ';color:' + col + ';white-space:nowrap;" data-tt-type="fearn-route-state" data-tt-live="' + (live ? '1' : '0') + '" data-tt-last="' + escapeHtml(String(s.last || '')) + '">' + txt + '</span>';
@@ -43116,10 +43146,30 @@ function fearnTankKlassSeries(klass) {
   var out = [];
   Object.keys(j.series).forEach(function (code) {
     var s = j.series[code];
-    if (s.klass === klass) out.push(Object.assign({ code: code }, s));
+    // All-zero branches never render: the source never published values in
+    // them (their USD/WS twins carry the real rates) and a zero tile would
+    // read as a zero market rate. Counted + disclosed in the footer instead.
+    if (s.klass === klass && !fearnSeriesIsAllZero(s)) out.push(Object.assign({ code: code }, s));
   });
   out.sort(function (a, b) { return (a.route < b.route ? -1 : (a.route > b.route ? 1 : (a.unit < b.unit ? -1 : 1))); });
   return out;
+}
+function fearnTankKlassZeroCount(klass) {
+  var j = DATA.fearnleysTankerRoutesDaily;
+  if (!j || !j.series) return 0;
+  var z = 0;
+  Object.keys(j.series).forEach(function (code) {
+    var s = j.series[code];
+    if (s.klass === klass && fearnSeriesIsAllZero(s)) z++;
+  });
+  return z;
+}
+function fearnTankArchivedCount() {
+  var j = DATA.fearnleysTankerRoutesDaily;
+  if (!j || !j.series) return 0;
+  var z = 0;
+  Object.keys(j.series).forEach(function (code) { if (fearnSeriesIsAllZero(j.series[code])) z++; });
+  return z;
 }
 function renderFearnTank() {
   var grid = document.getElementById('fearnTankGrid');
@@ -43132,8 +43182,10 @@ function renderFearnTank() {
     var order = (j.index && j.index.order) || Object.keys(j.index ? j.index.klasses : {});
     if (tabsEl && !tabsEl.innerHTML) {
       tabsEl.innerHTML = order.map(function (k) {
-        var kk = j.index.klasses[k] || {};
-        return '<button class="tracking-status-btn' + (k === FDESK.tankKlass ? ' active' : '') + '" data-tklass="' + escapeHtml(k) + '" onclick="setFearnTankKlass(\'' + escapeHtml(k).replace(/'/g, '&#039;') + '\')" data-tt-type="fearn-tank-klass-tab" data-tt-klass="' + escapeHtml(k) + '">' + escapeHtml(k) + ' (' + (kk.series != null ? kk.series : fearnTankKlassSeries(k).length) + ')</button>';
+        // Tab counts = SHOWN series per group (all-zero branches excluded,
+        // computed from the cache — matches the tiles actually rendered).
+        var shown = fearnTankKlassSeries(k).length;
+        return '<button class="tracking-status-btn' + (k === FDESK.tankKlass ? ' active' : '') + '" data-tklass="' + escapeHtml(k) + '" onclick="setFearnTankKlass(\'' + escapeHtml(k).replace(/'/g, '&#039;') + '\')" data-tt-type="fearn-tank-klass-tab" data-tt-klass="' + escapeHtml(k) + '">' + escapeHtml(k) + ' (' + shown + ')</button>';
       }).join('');
     }
     if (!FDESK.tankKlass || order.indexOf(FDESK.tankKlass) < 0) FDESK.tankKlass = order[0];
@@ -43160,7 +43212,22 @@ function renderFearnTank() {
       }
     }
     var note = document.getElementById('fearnTankNote');
-    if (note) note.textContent = 'Daily points, uninterpolated — gaps stay gaps · ' + series.length + ' series in ' + FDESK.tankKlass + ' · cache to ' + (FDESK_TANKER_META.dateTo || 'n/a');
+    if (note) {
+      var archived = fearnTankArchivedCount();
+      note.textContent = 'Daily points, uninterpolated — gaps stay gaps · ' + series.length + ' series in ' + FDESK.tankKlass + ' · cache to ' + (FDESK_TANKER_META.dateTo || 'n/a');
+      if (archived > 0) {
+        var archEl = document.getElementById('fearnTankArchived');
+        if (!archEl) {
+          archEl = document.createElement('div');
+          archEl.id = 'fearnTankArchived';
+          note.parentNode.appendChild(archEl);
+        }
+        archEl.textContent = archived + ' archived route series not shown — the source published no values in these branches; the USD/WS twins of these routes are shown.';
+      } else {
+        var archEl2 = document.getElementById('fearnTankArchived');
+        if (archEl2 && archEl2.parentNode) archEl2.parentNode.removeChild(archEl2);
+      }
+    }
     var chartMeta = document.getElementById('fearnTankChartMeta');
     if (!FDESK.tankRoute || !j.series[FDESK.tankRoute]) { var livePick = series.filter(function (x) { return fearnIsLive(x); }); FDESK.tankRoute = (livePick[0] || series[0]).code; }
     if (chartMeta) chartMeta.textContent = j.series[FDESK.tankRoute] ? (j.series[FDESK.tankRoute].label + ' · daily · ' + Number(j.series[FDESK.tankRoute].n).toLocaleString('en-US') + ' obs') : 'pick a route tile to open its daily chart';
@@ -43248,7 +43315,7 @@ function renderFearnDryGrid() {
       if (grid) fearnErrorState('fearnDryGrid', 'Dry-route benchmark cache failed to load — no fabricated values are shown.');
       return;
     }
-    var series = fearnDrySeries();
+    var series = fearnDrySeries().filter(function (s) { return !fearnSeriesIsAllZero(s); });
     if (grid) {
       grid.innerHTML = series.map(function (s) {
         var d = fearnDeltaOf(s);
@@ -43266,7 +43333,12 @@ function renderFearnDryGrid() {
           '</div>';
       }).join('');
     }
-    if (note) note.textContent = 'Baltic dry-route assessments as published on Fearnleys weekly report tiles · ' + series.length + ' series · cache to ' + (FDESK_DRY_META.dateTo || 'n/a') + ' · launch dates differ per series (shown per tile) — no uniform depth implied';
+    if (note) {
+      var allDry = fearnDrySeries();
+      var dryArchived = allDry.length - series.length;
+      note.textContent = 'Baltic dry-route assessments as published on Fearnleys weekly report tiles · ' + series.length + ' series · cache to ' + (FDESK_DRY_META.dateTo || 'n/a') + ' · launch dates differ per series (shown per tile) — no uniform depth implied';
+      if (dryArchived > 0) note.textContent = note.textContent + ' · ' + dryArchived + ' archived route series not shown — the source published no values in these branches; the USD/WS twins of these routes are shown.';
+    }
     if (!FDESK.dryRoute || !j.series[FDESK.dryRoute]) FDESK.dryRoute = series[0].code;
     fearnFillSelect('fearnDryChartSelect', series, FDESK.dryRoute);
     var cnt = document.getElementById('fearnDryCount');
