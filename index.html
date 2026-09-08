@@ -39627,8 +39627,9 @@ function escapeHtml(str) {
           const meta = cache && cache.meta ? cache.meta : null;
           html = `<div class="rt-title">Broker Desk Overview — Tile Ordering</div>`;
           html += `<div class="rt-row"><span class="rt-label">Group 1</span><span class="rt-val pos">Time-Charter Rates (bulk → tanker)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Group 2</span><span class="rt-val">Newbuilding Prices (bulk → tanker)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Group 3</span><span class="rt-val">S&P 5y/10y + Resale (same class order)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Group 2</span><span class="rt-val">Newbuilding Prices (bulk → tanker → gas)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Group 3</span><span class="rt-val">S&P / Resale (§5 class order)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Group 4</span><span class="rt-val">LNG / LPG (pre-change gas tiles)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Tie-break</span><span class="rt-val">longest cached history first</span></div>`;
           if (meta) html += `<div class="rt-row"><span class="rt-label">Cache</span><span class="rt-val">${meta.labels_cached} series · ${Number(meta.monthly_points).toLocaleString()} monthly pts</span></div>`;
           html += `<div class="rt-note">Series cache: scripts/fearnpulse_rates_full.csv monthly means (Fearnleys Hasura harvest). Every value on these tiles comes from that cache — nothing is estimated.</div>`;
@@ -41975,35 +41976,27 @@ function renderFearnOverview() {
   var deskOf = { TANK: 3, BULK: 2, LNG: 6, LPG: 7, NEWBUILDING: 4, 'S&P': 5, counts: 1 };
   var DESK_NAMES = { TANK: 'Tanker', BULK: 'Dry Bulk', LNG: 'LNG', LPG: 'LPG', NEWBUILDING: 'Newbuilding', 'S&P': 'S&P / Resale', counts: 'Counts' };
   var COLORS = { TANK: '#4d9aff', BULK: '#3fb950', LNG: '#8957e5', LPG: '#e3b341', NEWBUILDING: '#f778ba', 'S&P': '#39c5cf', counts: '#7a8494' };
-  var perType = {};
-  keys.forEach(function (k) {
-    var s = labels[k];
-    if (s.n < 3) return;
-    (perType[s.type] = perType[s.type] || []).push(Object.assign({ k: k }, s));
-  });
-  // desk-group ordering: TIME-CHARTER first (bulk classes then tanker classes),
-  // then NEWBUILDING prices (bulk family then tanker family), then S&P curves
-  // and S&P RESALE — ordered by the §5 asset-curves class list (bulk classes,
-  // then tanker classes); 5y before 10y inside a family; unseen extras sink.
-  // Stable tie-break: longest cached history first, then series key.
+  // Pedagogical desk-group ordering (restored tile set — no series dropped):
+  // GROUP 1 Time-Charter Rates (bulk classes Capesize/Panamax/Supramax/Handysize,
+  //   then tanker VLCC/Suezmax/Aframax; MR/Product 1Y TC are NOT published by any
+  //   source in our caches — disclosed here rather than invented),
+  // GROUP 2 Newbuilding Prices (bulk family Kamsarmax/Newcastlemax/Ultramax — the
+  //   only bulk NB classes Fearnleys publishes — then tanker VLCC/Suezmax/Aframax/
+  //   Product, then gas: LNGC MEGI, VLGC, MGC, then TEU container classes),
+  // GROUP 3 S&P / Resale (5y before 10y, class order from the §5 asset-curves desk),
+  // GROUP 4 LNG / LPG (the broker spot tiles the pre-grouping overview carried).
+  // Highest-n pick rule stays: within a group, longest cached history first.
   var TC_RANK = { BULK_TC_CAPESIZE_180_000_DWT: 0, BULK_TC_PANAMAX_75_000_DWT: 1, BULK_TC_SUPRAMAX_58_000_DWT: 2, BULK_TC_HANDYSIZE_38_000_DWT: 3, TANK_1_YEAR_T_C_VLCC: 4, TANK_1_YEAR_T_C_SUEZMAX: 5, TANK_1_YEAR_T_C_AFRAMAX: 6 };
-  // NB: the only bulk NB-price classes published by Fearnleys in our caches are Kamsarmax/Newcastlemax/Ultramax
-  // (no Capesize/Panamax/Supramax/Handysize NB series exist in any source — disclosed, not invented);
-  // tanker family is VLCC/Suezmax/Aframax/Product; gas + container NB classes follow in 'other'.
   var NB_RANK = { 'NEWBUILDING_PRICES_KAMSARMAX': 0, 'NEWBUILDING_PRICES_NEWCASTLEMAX': 1, 'NEWBUILDING_PRICES_ULTRAMAX': 2, 'NEWBUILDING_PRICES_VLCC': 10, 'NEWBUILDING_PRICES_SUEZMAX': 11, 'NEWBUILDING_PRICES_AFRAMAX': 12, 'NEWBUILDING_PRICES_PRODUCT': 13, 'NEWBUILDING_PRICES_LNGC_MEGI_CBM': 20, 'NEWBUILDING_PRICES_VLGC_88_000_CBM_PANAMAX_LPG_DF': 21, 'NEWBUILDING_PRICES_MGC_40_000_CBM_LPG_DF': 22, 'NEWBUILDING_PRICES_16_000_TEU_LNG_DF': 30, 'NEWBUILDING_PRICES_21_000_TEU_LNG_DF': 31, 'NEWBUILDING_PRICES_9_000_TEU_LNG_DF': 32, 'NEWBUILDING_PRICES_7_000_TEU': 33, 'NEWBUILDING_PRICES_4_500_TEU': 34, 'NEWBUILDING_PRICES_3_100_TEU': 35, 'NEWBUILDING_PRICES_1_900_TEU': 36 };
-  var SP_CURVE_FAMILY = { 'Capesize': ['S_P_DRY_5_CAPESIZE', 'S_P_DRY_10_CAPESIZE'], 'Capesize (Chinese)': ['S_P_DRY_5_CN_CAPESIZE_CHINESE'], 'Capesize (Japanese)': ['S_P_DRY_5_JP_CAPESIZE_JAPANESE'], 'Panamax (Chinese)': ['S_P_DRY_10_CN_PANAMAX_CHINESE'], 'Panamax (Japanese)': ['S_P_DRY_10_JP_PANAMAX_JAPANESE'], 'Handysize': ['S_P_DRY_5_HANDYSIZE', 'S_P_DRY_10_HANDYSIZE'], 'Ultramax': ['S_P_DRY_5_ULTRAMAX', 'S_P_DRY_10_ULTRAMAX'], 'Kamsarmax': ['S_P_DRY_5_KAMSARMAX', 'S_P_DRY_10_KAMSARMAX'], 'Newcastlemax': ['S_P_DRY_RESALE_NEWCASTLEMAX'], 'VLCC': ['S_P_WET_5_VLCC', 'S_P_WET_10_VLCC'], 'Suezmax': ['S_P_WET_5_SUEZMAX', 'S_P_WET_10_SUEZMAX'], 'Aframax / LR2': ['S_P_WET_5_AFRAMAX_LR2', 'S_P_WET_10_AFRAMAX_LR2'], 'MR': ['S_P_WET_5_MR', 'S_P_WET_10_MR'] };
-  function spFamilyPenalty(s) {
-    var ks = Object.keys(SP_CURVE_FAMILY);
-    for (var i = 0; i < ks.length; i++) {
-      if (SP_CURVE_FAMILY[ks[i]].indexOf(s.k) >= 0) return i; // §5 asset-curves class order (bulk then tanker), stable
-    }
-    return ks.length + (String(s.subtype || '').indexOf('RESALE') >= 0 ? 0 : 1); // unseen extras sink
-  }
+  var SP_RANK = { 'S_P_DRY_5_CAPESIZE': 0, 'S_P_DRY_10_CAPESIZE': 1, 'S_P_DRY_5_HANDYSIZE': 2, 'S_P_DRY_10_HANDYSIZE': 3, 'S_P_DRY_5_ULTRAMAX': 4, 'S_P_DRY_10_ULTRAMAX': 5, 'S_P_DRY_5_KAMSARMAX': 6, 'S_P_DRY_10_KAMSARMAX': 7, 'S_P_DRY_RESALE_NEWCASTLEMAX': 8, 'S_P_WET_5_VLCC': 9, 'S_P_WET_10_VLCC': 10, 'S_P_WET_5_SUEZMAX': 11, 'S_P_WET_10_SUEZMAX': 12, 'S_P_WET_5_AFRAMAX_LR2': 13, 'S_P_WET_10_AFRAMAX_LR2': 14, 'S_P_WET_5_MR': 15, 'S_P_WET_10_MR': 16, 'S_P_WET_RESALE_VLCC': 20, 'S_P_WET_RESALE_SUEZMAX': 21, 'S_P_WET_RESALE_AFRAMAX_LR2': 22, 'S_P_WET_RESALE_MR': 23, 'S_P_DRY_RESALE_KAMSARMAX': 24, 'S_P_DRY_RESALE_ULTRAMAX': 25 };
+  var GRP4 = { LNG: ['LNG_BROKER_2005_BUILT_145KM3_STEAM', 'LNG_BROKER_PACIFIC_OCEAN', 'LNG_BROKER_ATLANTIC_OCEAN'], LPG: ['LPG_SPOT_COASTER_EUROPE_3_500_5_000_CBM', 'LPG_SPOT_ETH_8_12_000_CBM', 'LPG_SPOT_LGC_60_000_CBM'] };
+  var GRP_LABEL = { 0: 'Time-Charter Rates', 1: 'Newbuilding Prices', 2: 'S&P / Resale', 3: 'LNG / LPG' };
   function groupOf(s) {
     if (s.type === 'NEWBUILDING') return (NB_RANK[s.k] != null) ? 1 : 98;
-    if (s.type === 'S&P') return (String(s.subtype || '').indexOf('RESALE') >= 0) ? 3 : 2;
+    if (s.type === 'S&P') return (SP_RANK[s.k] != null) ? 2 : 99; // ranked classes only — CN/JP basis curves were never on the pre-change overview
     if (TC_RANK[s.k] != null) return 0;
-    return 99; // LNG / LPG / counts leftovers stay out of the pedagogical run
+    if ((s.type === 'LNG' || s.type === 'LPG') && GRP4[s.type] && GRP4[s.type].indexOf(s.k) >= 0) return 3;
+    return 99; // everything else (incl. counts) stays off the overview run
   }
   var picks = [];
   keys.forEach(function (k) {
@@ -42014,25 +42007,27 @@ function renderFearnOverview() {
     if (g >= 99) return;
     var rank = (g === 0) ? (TC_RANK[k] != null ? TC_RANK[k] : 900)
       : (g === 1) ? (NB_RANK[k] != null ? NB_RANK[k] : 900)
-      : spFamilyPenalty(sk); // §5 class order; 5y before 10y inside a family
+      : (g === 2) ? (SP_RANK[k] != null ? SP_RANK[k] : 890)
+      : GRP4[s.type] ? GRP4[s.type].indexOf(k) : 900;
     picks.push(Object.assign({ k: k, _grp: g, _r: rank }, s));
   });
-  // group 98 = NB classes outside the ranked families (container/gas extras): keep them, ordered by key, after tanker NB
+  // group 98 = NB classes outside the ranked families (container/gas extras ride
+  // with group 1 in key order); stable tie-break inside every group: highest n first.
   picks.sort(function (a, b) { return (a._grp - b._grp) || (a._r - b._r) || (b.n - a.n) || (a.k < b.k ? -1 : 1); });
-  picks = picks.slice(0, 20);
-  var GRP_LABEL = { 0: 'Time-Charter Rates', 1: 'Newbuilding Prices', 2: 'S&P Curves (5y/10y)', 3: 'S&P / Resale' };
 
   var grid = document.getElementById('fearnKpiGrid');
   var banner = '';
   if (grid && picks.length) {
     banner = '<div style="grid-column:1/-1;display:flex;gap:10px;flex-wrap:wrap;align-items:center;font-size:10px;font-family:\'IBM Plex Mono\',monospace;color:var(--text-muted);padding:2px 0 2px;">' +
       '<span style="font-weight:700;letter-spacing:0.5px;">Tile order:</span>' +
-      '<span style="color:#3fb950;" title="Group 1 \u00b7 Time-charter rates: bulk classes (Capesize \u2192 Panamax \u2192 Supramax \u2192 Handysize), then tanker (VLCC \u2192 Suezmax \u2192 Aframax 1Y) \u2014 weekly prints from the tenor desk cache (Fearnleys TC assessment).">1 \u00b7 Time-Charter Rates</span>' +
+      '<span style="color:#3fb950;" title="Group 1 \u00b7 Time-charter rates: bulk classes (Capesize \u2192 Panamax \u2192 Supramax \u2192 Handysize), then tanker (VLCC \u2192 Suezmax \u2192 Aframax 1Y). MR/Product 1Y TC are not published by any source in our caches \u2014 disclosed, not invented.">1 \u00b7 Time-Charter Rates</span>' +
       '<span>bulk \u2192 tanker class order</span>' +
       '<span style="color:var(--border);">\u00b7</span>' +
-      '<span style="color:#f778ba;" title="Group 2 \u00b7 Newbuilding prices: bulk family (Kamsarmax \u2192 Newcastlemax \u2192 Ultramax \u2014 the only bulk NB classes Fearnleys publishes), then tanker (VLCC \u2192 Suezmax \u2192 Aframax \u2192 MR/Product); gas and container NB follow.">2 \u00b7 Newbuilding Prices</span><span>bulk \u2192 tanker families</span>' +
+      '<span style="color:#f778ba;" title="Group 2 \u00b7 Newbuilding prices: bulk family (Kamsarmax \u2192 Newcastlemax \u2192 Ultramax \u2014 the only bulk NB classes Fearnleys publishes), then tanker (VLCC \u2192 Suezmax \u2192 Aframax \u2192 Product), then gas (LNGC MEGI \u2192 VLGC \u2192 MGC) and TEU container classes.">2 \u00b7 Newbuilding Prices</span><span>bulk \u2192 tanker \u2192 gas families</span>' +
       '<span style="color:var(--border);">\u00b7</span>' +
-      '<span style="color:#39c5cf;" title="Groups 3\u20134 \u00b7 S&P secondhand values: 5y/10y curves then resale, ordered by the \u00a75 asset-curves class list (bulk classes first, then tanker); 5y before 10y inside a family.">3 \u00b7 S&P Curves \u2192 Resale</span><span>\u00a75 class order</span>' +
+      '<span style="color:#39c5cf;" title="Group 3 \u00b7 S&amp;P / Resale: 5y and 10y asset-price curves plus resale values, class order from the \u00a75 asset-curves desk (bulk classes first, then tanker); 5y before 10y inside a family.">3 \u00b7 S&amp;P / Resale</span><span>\u00a75 class order</span>' +
+      '<span style="color:var(--border);">\u00b7</span>' +
+      '<span style="color:#8957e5;" title="Group 4 \u00b7 LNG / LPG: the broker gas spot tiles carried by the pre-grouping overview \u2014 LNG (2005 Built 145km3 Steam, Pacific Ocean, Atlantic Ocean) and LPG (Coaster Europe, ETH, LGC).">4 \u00b7 LNG / LPG</span><span>pre-change gas tiles</span>' +
       '<span style="color:var(--border);">\u00b7</span>' +
       '<span>tie-break: longest cached history first</span></div>';
   }
@@ -42070,6 +42065,7 @@ function renderFearnOverview() {
     var tankWs = keys.filter(function (k) { return labels[k].type === 'TANK' && labels[k].unit === 'ws' && labels[k].n >= 3; }).length;
     var arch = keys.filter(function (k) { return fearnStatusOf(labels[k]) === 'ARCHIVED'; }).length;
     var seg = [
+      'Order: GROUP 1 Time-Charter Rates (bulk Capesize→Panamax→Supramax→Handysize, then tanker VLCC→Suezmax→Aframax — MR/Product 1Y TC are not published in any cache, disclosed not invented) · GROUP 2 Newbuilding Prices (bulk Kamsarmax→Newcastlemax→Ultramax, tanker VLCC→Suezmax→Aframax→Product, gas LNGC MEGI→VLGC→MGC then TEU classes) · GROUP 3 S&amp;P / Resale (§5 class order, 5y before 10y, curves then resale) · GROUP 4 LNG / LPG (2005 Built 145k3 Steam, Pacific Ocean, Atlantic Ocean · COASTER Europe, ETH, LGC).',
       'TANK is the only daily-native desk (149/165 series daily since 2018-05, gap 1d); LNG/BULK/S&amp;P/NB are weekly or thinner — monthly display compresses ≈294,521 raw obs (TANK ≈27×).',
       'ws/tce unit twins interleave; ws preferred for TANK spot displays.' + (tankWs ? ' ' + tankWs + ' ws spot routes on §3.' : ''),
       arch + ' archived labels (LNG CALCULATED/MARKET, TANK Baltic/BITR/Equinor, LPG BLPG — frozen 2023) live in the Series Museum only.'
