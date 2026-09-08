@@ -8,6 +8,8 @@ physical sales volumes, and scrubber spreads into high-speed frontend JSON.
 import json
 import os
 import re
+import sys
+
 import pandas as pd
 import numpy as np
 
@@ -22,6 +24,9 @@ if not os.path.exists(os.path.join(ROOT, 'data')):
 MASTER_CSV = os.path.join(ROOT, 'data', 'bunkers', 'bunker_master_historical.csv')
 DAILY_CSV = os.path.join(ROOT, 'data', 'bunkers', 'bunker_prices_daily.csv')
 BIX_CSV = os.path.join(ROOT, 'data', 'bunkers', 'bunker_bix_macro_benchmarks.csv')
+# Append/merge BIX archive (grows daily; the flat BIX_CSV only ever holds the
+# ~10 trailing obs days the source pages publish).
+BIX_HISTORY_CSV = os.path.join(ROOT, 'data', 'bunkers', 'bix_history.csv')
 FWD_CSV = os.path.join(ROOT, 'data', 'bunkers', 'bunker_forward_curves_12m.csv')
 VOL_CSV = os.path.join(ROOT, 'data', 'bunkers', 'bunker_physical_sales_volumes.csv')
 SPREAD_CSV = os.path.join(ROOT, 'data', 'derived', 'bunker_fuel_spreads.csv')
@@ -172,6 +177,27 @@ def build_bunker_summary():
     df_fwd = pd.read_csv(FWD_CSV)
     df_vol = pd.read_csv(VOL_CSV)
     df_spread = pd.read_csv(SPREAD_CSV)
+
+    # 0. BIX history accumulation — the flat BIX CSV is overwritten by the
+    # harvester every run and the source pages only publish ~10 trailing obs
+    # days, so merge it into the append-only archive BEFORE building the
+    # summary. Archive grows daily on every scheduled run; the summary embeds
+    # the FULL archive so the UI can render complete history without a new
+    # payload. Graceful: a history failure never blocks the flat summary.
+    bix_history_payload = None
+    try:
+        _here = os.path.dirname(os.path.abspath(__file__))
+        if _here not in sys.path:
+            sys.path.insert(0, _here)
+        import build_bix_history as _bbh
+        _archive, _stats = _bbh.merge_history(
+            history_path=BIX_HISTORY_CSV, seed_path=BIX_CSV, inputs=None)
+        _rows_written = _bbh.write_history(_archive, BIX_HISTORY_CSV)
+        bix_history_payload = _bbh.build_bix_history_payload(BIX_HISTORY_CSV)
+        print(f"BIX history archive: {len(_rows_written)} rows "
+              f"({len({r['observation_date'] for r in _rows_written})} obs dates)")
+    except Exception as e:
+        print(f"WARNING: BIX history accumulation skipped ({e})")
 
     print(f"Master rows: {len(df_master)}, Daily rows: {len(df_daily)}")
 
@@ -551,7 +577,11 @@ def build_bunker_summary():
         'forward_curves_12m': fwd_dict,
         'physical_volumes': volumes_dict,
         'scrubber_economics': scrubber_table,
-        'benchmarks_bix': bix_list
+        'benchmarks_bix': bix_list,
+        # Full BIX history archive (compact per index x grade series) so the UI
+        # can render complete history without shipping a new payload. Null when
+        # the archive is unavailable.
+        'bix_history': bix_history_payload
     }
 
     # Write output

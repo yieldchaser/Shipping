@@ -57,6 +57,9 @@ jobs:
         timeout-minutes: 20
         run: |
           if [ -f scripts/expansion_bunker_prices.py ]; then python scripts/expansion_bunker_prices.py; fi
+          # Accumulate the BIX benchmark archive BEFORE the summary rebuild so
+          # bix_history.csv grows daily and the summary embeds the full series.
+          if [ -f scripts/bunkers/build_bix_history.py ]; then python scripts/bunkers/build_bix_history.py; fi
           if [ -f scripts/bunkers/build_bunker_cache.py ]; then python scripts/bunkers/build_bunker_cache.py; fi
 
       - name: Fearnleys Hasura Daily Sync & Cache
