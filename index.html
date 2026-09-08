@@ -41711,8 +41711,12 @@ function renderFearnGasFamily(kind) {
     if (!(s.last >= '2025-01')) return; // live labels only
     if (s.unit !== 'usd') return;
     var sub = s.subtype;
-    if ((sub === 'BROKER' || sub === 'CALCULATED' || sub === 'TC') && (s.route.indexOf('TC') >= 0 || sub === 'TC')) fams.tc.keys.push(k);
-    else if (sub === 'SPOT' || sub === 'SPOT-DAILY') fams.spot.keys.push(k);
+    var kUp = k.toUpperCase();
+    var hasSpot = /SPOT/.test(kUp);
+    var isTc = !hasSpot && ((sub === 'TC') || ((sub === 'BROKER' || sub === 'CALCULATED') && (s.route.indexOf('TC') >= 0 || /_\d+YR?_TC_|_TC_RATE_/.test(kUp))));
+    var isSpot = hasSpot && (sub === 'SPOT' || sub === 'SPOT-DAILY' || sub === 'BROKER');
+    if (isTc) fams.tc.keys.push(k);
+    else if (isSpot) fams.spot.keys.push(k);
   });
   Object.keys(fams).forEach(function (fam) {
     var f = fams[fam];
