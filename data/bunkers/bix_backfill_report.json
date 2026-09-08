@@ -3,8 +3,8 @@
     "date_max": "2026-09-07",
     "date_min": "2025-09-09",
     "distinct_obs_dates": 256,
-    "new_keys_added": 3690,
-    "prior_history_rows": 150,
+    "new_keys_added": 0,
+    "prior_history_rows": 3840,
     "total_rows": 3840
   },
   "pages": [
