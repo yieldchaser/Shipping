@@ -14556,7 +14556,7 @@ if (intelTabsContainer) {
             </svg>
             Global Bunker Fuel &amp; Marine Energy Terminal
           </h2>
-          <div class="bunkers-sub">Daily Spot Indications across 221 Ports, 12M Forward Delivery Curves, Scrubber TCE Economics &amp; FuelEU / EU ETS Carbon Compliance · One truth: DATA.bunkerSummary</div>
+          <div class="bunkers-sub">Daily Spot Indications across 221 Ports, 12M Forward Delivery Curves, Scrubber TCE Economics &amp; FuelEU / EU ETS Carbon Compliance · One source of truth: the daily bunker harvest cache</div>
         </div>
         <div class="tracking-live-tag">
           <span class="tracking-live-dot"></span>
@@ -37197,8 +37197,8 @@ function renderBunkersSubView() {
   }
   if (subEl) {
     subEl.textContent = (selPort !== 'all')
-      ? 'One truth: DATA.bunkerSummary — full 221-port matrix, curves & volumes in the BUNKERS tab.'
-      : 'One truth: DATA.bunkerSummary — spot marine fuel prices across key bunkering hubs (Singapore, Rotterdam, Fujairah, Houston, Santos).';
+      ? 'One source of truth: the daily bunker harvest cache — full 221-port matrix, curves & volumes in the BUNKERS tab.'
+      : 'One source of truth: the daily bunker harvest cache — spot marine fuel prices across key bunkering hubs (Singapore, Rotterdam, Fujairah, Houston, Santos).';
   }
 
   tbody.innerHTML = '';
@@ -41390,13 +41390,13 @@ function bunkerPortDelta(portName) {
   var p = null;
   for (var i = 0; i < ports.length; i++) { if (ports[i].name === portName) { p = ports[i]; break; } }
   var live = (p && typeof p.change_7d === 'number') ? p.change_7d : 0;
-  if (live) return { v: live, tag: '7D', src: 'pipeline change_7d' };
+  if (live) return { v: live, tag: '7D', src: '7-day pipeline change' };
   var ms = summary && summary.monthly_series ? summary.monthly_series[portName] : null;
   if (ms && ms.length >= 2) {
     var a = null, b = null, k;
     for (k = ms.length - 1; k >= 0 && a === null; k--) { if (ms[k].vlsfo != null) a = ms[k].vlsfo; }
     for (k = ms.length - 2; k >= 0 && b === null; k--) { if (ms[k].vlsfo != null) b = ms[k].vlsfo; }
-    if (a != null && b != null) return { v: Math.round((a - b) * 100) / 100, tag: 'MoM*', src: 'monthly_series VLSFO MoM fallback (* = not pipeline 7D)' };
+    if (a != null && b != null) return { v: Math.round((a - b) * 100) / 100, tag: 'MoM*', src: 'month-over-month VLSFO change (fallback, not a 7-day reading)' };
   }
   return null;
 }
