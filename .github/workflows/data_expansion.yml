@@ -71,6 +71,10 @@ jobs:
         run: |
           if [ -f scripts/fearnleys/daily_fearnleys_sync.py ]; then python scripts/fearnleys/daily_fearnleys_sync.py; fi
           if [ -f scripts/fearnleys/build_comment_chunks.py ]; then python scripts/fearnleys/build_comment_chunks.py; fi
+          # Fearnleys market-data service (fearnpulse /api/marketapi/TS): daily dry-route
+          # assessments (Capesize/Panamax/Supramax routes). Refresh pulls ~14 days and
+          # merge-upserts into fearnpulse_dry_routes_full.csv + fearnleys_dry_routes_daily.json.
+          if [ -f scripts/fearnleys/fetch_dry_routes_ts.py ]; then python scripts/fearnleys/fetch_dry_routes_ts.py --refresh; fi
 
       - name: Geospatial voyage tracker (idempotent, additive-only)
         # Rebuilds lineup/voyage/UI-vector caches from existing fixture data only.
