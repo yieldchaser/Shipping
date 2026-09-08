@@ -13480,10 +13480,11 @@
           </div>
           <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnTcClass" class="tracking-select" style="min-width:200px;" onchange="onFearnTcClass()"></select>
-            <span style="font-size:10px;color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation</span>
+            <span style="font-size:10px;color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · pre-first-Baltic months from the Fearnleys monthly archive (dashed) · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation</span>
           </div>
           <div class="chart-canvas-wrap" style="height:380px;"><canvas id="fearnTcChart"></canvas></div>
-          <div style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day)</div>
+          <div id="fearnTcArchMeta" style="display:none;font-size:10px;color:#a371f7;padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
+          <div style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day) · archive: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly)</div>
         </div>
       </div>
 
@@ -13506,7 +13507,7 @@
       <div class="fearn-sec" id="fearnSec4" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title">Newbuilding Prices <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· monthly means, USD M</span></div>
+            <div class="chart-title">Newbuilding Prices <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· monthly means, USD M · families: Dry Bulk / Tankers / Gas / Other-Container</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <div style="display:flex;gap:4px;flex-wrap:wrap;" id="fearnNbPills"></div>
@@ -13551,6 +13552,16 @@
           <div class="tracking-kpi-grid" id="fearnLngStats"></div>
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnLngChart"></canvas></div>
           <div id="fearnLngNote" style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin-top:20px;border-top:1px solid var(--border);padding-top:12px;">
+            <div class="chart-title" style="font-size:13px;">LNG TC Tenor Family</div>
+            <div id="fearnLngTcFamilyMeta" style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;"></div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:280px;margin-top:8px;"><canvas id="fearnLngTcFamily"></canvas></div>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin-top:20px;">
+            <div class="chart-title" style="font-size:13px;">LNG Spot &amp; FOB Family</div>
+            <div id="fearnLngSpotFamilyMeta" style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;"></div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:280px;margin-top:8px;"><canvas id="fearnLngSpotFamily"></canvas></div>
         </div>
       </div>
 
@@ -13566,6 +13577,16 @@
           <div class="tracking-kpi-grid" id="fearnLpgStats"></div>
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnLpgChart"></canvas></div>
           <div id="fearnLpgNote" style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin-top:20px;border-top:1px solid var(--border);padding-top:12px;">
+            <div class="chart-title" style="font-size:13px;">LPG TC Tenor Family</div>
+            <div id="fearnLpgTcFamilyMeta" style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;"></div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:280px;margin-top:8px;"><canvas id="fearnLpgTcFamily"></canvas></div>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin-top:20px;">
+            <div class="chart-title" style="font-size:13px;">LPG Spot &amp; FOB Family</div>
+            <div id="fearnLpgSpotFamilyMeta" style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;"></div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:280px;margin-top:8px;"><canvas id="fearnLpgSpotFamily"></canvas></div>
         </div>
       </div>
 
@@ -41018,6 +41039,7 @@ var FDESK = {
   nb: null, nbFamily: 'bulk', nbIndex: false, nbChart: null,
   ac: null, acClass: 'VLCC', acChart: null, acParityChart: null,
   lng: null, lpg: null, gasExtra: null, lngChart: null, lpgChart: null,
+  lngTcFamChart: null, lngSpotFamChart: null, lpgTcFamChart: null, lpgSpotFamChart: null,
   tape: null, facets: null, fxPage: 0, fxQ: '', fxDept: 'ALL', fxMonthly: null,
   musType: 'ALL', musQ: '', musChart: null,
   museumOnlySubtypes: ['CALCULATED', 'MARKET', 'BLPG', 'EQUINOR', 'BALTIC INDEX', 'SUEZMAX-MARKET']
@@ -41102,8 +41124,8 @@ function renderFearnSection(id) {
   if (id === 3) return done(renderFearnTank)();
   if (id === 4) { fearnLoadDeskCaches(done(renderFearnNb)); return; }
   if (id === 5) { fearnLoadDeskCaches(done(renderFearnAc)); return; }
-  if (id === 6) { fearnLoadDeskCaches(done(function () { renderFearnGas('LNG'); })); return; }
-  if (id === 7) { fearnLoadDeskCaches(done(function () { renderFearnGas('LPG'); })); return; }
+  if (id === 6) { fearnLoadDeskCaches(done(function () { renderFearnGas('LNG'); renderFearnGasFamily('LNG'); })); return; }
+  if (id === 7) { fearnLoadDeskCaches(done(function () { renderFearnGas('LPG'); renderFearnGasFamily('LPG'); })); return; }
   if (id === 8) { fearnLoadJson('data/derived/fearnleys_fixtures_tape.json', 'fearnFixturesTape', function () { fearnLoadJson('data/derived/fearnleys_fixtures_facets.json', 'fearnFixturesFacets', done(renderFearnFx)); }); return; }
   if (id === 9) return done(renderFearnMuseum)();
   if (id === 10) return done(function () { initFearnVoiceFilters(); renderFearnVoice(); })();
@@ -41122,6 +41144,7 @@ function renderFearnOverview() {
   FDESK.maxym = fileMax;
 
   var deskOf = { TANK: 3, BULK: 2, LNG: 6, LPG: 7, NEWBUILDING: 4, 'S&P': 5, counts: 1 };
+  var DESK_NAMES = { TANK: 'Tanker', BULK: 'Dry Bulk', LNG: 'LNG', LPG: 'LPG', NEWBUILDING: 'Newbuilding', 'S&P': 'S&P / Resale', counts: 'Counts' };
   var COLORS = { TANK: '#4d9aff', BULK: '#3fb950', LNG: '#8957e5', LPG: '#e3b341', NEWBUILDING: '#f778ba', 'S&P': '#39c5cf', counts: '#7a8494' };
   var perType = {};
   keys.forEach(function (k) {
@@ -41157,7 +41180,8 @@ function renderFearnOverview() {
     var sec = deskOf[t] != null ? deskOf[t] : 9;
     var st = fearnStatusOf(s);
     return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" title="' + escapeHtml(s.k) + '">' +
-      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st) + '</div>' +
+      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st) + '</div>' +
+      '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(s.route || s.k) + '</div>' +
       '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })) + '</div>' +
       '<div class="tracking-kpi-sub" style="' + chgStyle + '">' + chgTxt + '</div>' +
       '<div style="height:3px;background:rgba(28,35,51,0.8);border-radius:2px;margin:6px 0 4px;"><div style="height:3px;width:' + Math.max(2, Math.min(100, pr)).toFixed(0) + '%;background:' + prCol + ';opacity:0.75;border-radius:2px;"></div></div>' +
@@ -41210,10 +41234,53 @@ function renderFearnTc() {
       borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: false
     };
   });
+  // pre-first-Baltic Fearnleys monthly archive layer — clearly attributed, never merged into the Baltic weekly lines
+  var TC_ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
+  var archKey = TC_ARCH_KEY[cls];
+  var archAdded = 0, archFirst = null, archLast = null, archN = null;
+  if (archKey) {
+    var cache = fearnSeriesCache();
+    var aser = cache && cache.labels && cache.labels[archKey];
+    if (aser && aser.m && aser.m.length) {
+      archN = aser.n;
+      var firstBaltic = dates.length ? dates[0].slice(0, 7) : null;
+      var archMap = {};
+      aser.m.forEach(function (p) { if (!firstBaltic || p[0] < firstBaltic) archMap[p[0]] = p[1]; }); // Baltic weekly wins: archive month suppressed where Baltic prints
+      var preDates = Object.keys(archMap).sort();
+      if (preDates.length) {
+        dates = preDates.concat(dates);
+        dateIdx = {}; dates.forEach(function (dt, i) { dateIdx[dt] = i; });
+        tenors.forEach(function (t) {
+          var vals = new Array(dates.length).fill(null);
+          byTenor[t].forEach(function (r) { vals[dateIdx[r[0]]] = r[3]; });
+          var ds = null;
+          datasets.forEach(function (x) { if (x.label === t) ds = x; });
+          if (ds) ds.data = vals;
+        });
+        datasets.push({
+          label: 'Fearnleys archive (monthly)', data: preDates.map(function (ym) { return archMap[ym]; }),
+          borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [6, 4], pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
+        });
+        archAdded = preDates.length;
+        archFirst = preDates[0];
+        archLast = preDates[preDates.length - 1];
+      }
+    }
+  }
   var meta = document.getElementById('fearnTcMeta');
   if (meta) {
     var tn = tenors.map(function (t) { return t + ' n=' + byTenor[t].length; }).join(' · ');
-    meta.textContent = cls + ' · ' + tn + ' · ' + dates.length + ' print dates · gaps = no published print (no interpolation)';
+    meta.textContent = cls + ' · ' + tn + ' · ' + dates.length + ' print dates · gaps = no published print (no interpolation)' + (archAdded ? ' · pre-Baltic from Fearnleys monthly archive (n=' + archAdded + ', ' + archFirst + '\u2192' + archLast + ')' : '');
+  }
+  var archMeta = document.getElementById('fearnTcArchMeta');
+  if (archMeta) {
+    if (archAdded) {
+      archMeta.style.display = 'block';
+      archMeta.textContent = '\u2014 \u2014 Fearnleys archive (monthly): ' + archKey + ' · ' + archAdded + ' months ' + archFirst + '\u2192' + archLast + ' before the first Baltic weekly print (' + dates[archAdded] + ') · archived desk, frozen-state display, no interpolation' + (archN != null ? ' · cache n=' + archN : '');
+    } else {
+      archMeta.style.display = 'none';
+      archMeta.textContent = '';
+    }
   }
   if (typeof Chart === 'undefined') return;
   var canvas = document.getElementById('fearnTcChart');
@@ -41298,6 +41365,7 @@ function onFearnTankRoute() {
 }
 
 // ---------- S4 NEWBUILDING ----------
+var NB_FAM_NAMES = { bulk: 'Dry Bulk', tanker: 'Tankers', gas: 'Gas', other: 'Other/Container' };
 function renderFearnNb() {
   var nb = DATA.fearnNbPrices;
   if (!nb || !nb.series) return;
@@ -41307,7 +41375,7 @@ function renderFearnNb() {
   var pills = document.getElementById('fearnNbPills');
   if (pills && !pills.innerHTML) {
     pills.innerHTML = ['bulk', 'tanker', 'gas', 'other'].filter(function (f) { return fams[f]; }).map(function (f) {
-      return '<button class="tracking-status-btn' + (f === FDESK.nbFamily ? ' active' : '') + '" data-fam="' + f + '" onclick="setFearnNbFamily(\'' + f + '\')">' + f + ' (' + fams[f].length + ')</button>';
+      return '<button class="tracking-status-btn' + (f === FDESK.nbFamily ? ' active' : '') + '" data-fam="' + f + '" onclick="setFearnNbFamily(\'' + f + '\')">' + (NB_FAM_NAMES[f] || f) + ' (' + fams[f].length + ')</button>';
     }).join('');
   }
   var idxBtn = document.getElementById('fearnNbIdxBtn');
@@ -41379,6 +41447,13 @@ function renderFearnAc() {
   }
   var scrapKey = /^Cap|^Kam|^Ultra|^Panamax|^Handy|^Newcastle|^Supramax/i.test(cls) ? 'dry_india' : 'tanker_india';
   var TENOR_COLORS = { 'DRY-5': '#4d9aff', 'DRY-10': '#3fb950', 'DRY-15': '#e3b341', 'DRY-RESALE': '#f778ba', 'DRY-5-CN': '#79c0ff', 'DRY-10-CN': '#39c5cf', 'DRY-15-CN': '#d2a8ff', 'DRY-RESALE-CN': '#ffa198', 'DRY-5-JP': '#a5d6ff', 'DRY-10-JP': '#7ee787', 'DRY-15-JP': '#f2cc60', 'DRY-RESALE-JP': '#ffab70', 'WET-5': '#4d9aff', 'WET-10': '#3fb950', 'WET-RESALE': '#f778ba', PRICES: '#8b949e' };
+  var tenorLabelMap = {
+    'DRY-5': '5yr old', 'DRY-10': '10yr old', 'DRY-15': '15yr old', 'DRY-RESALE': 'Resale',
+    'DRY-5-CN': '5yr old (CN basis)', 'DRY-10-CN': '10yr old (CN basis)', 'DRY-15-CN': '15yr old (CN basis)', 'DRY-RESALE-CN': 'Resale (CN basis)',
+    'DRY-5-JP': '5yr old (JP basis)', 'DRY-10-JP': '10yr old (JP basis)', 'DRY-15-JP': '15yr old (JP basis)', 'DRY-RESALE-JP': 'Resale (JP basis)',
+    'WET-5': '5yr old', 'WET-10': '10yr old', 'WET-15': '15yr old', 'WET-RESALE': 'Resale', 'PRICES': 'Newbuilding price'
+  };
+  var SCRAP_NAMES = { dry_india: 'Demolition scrap (India, $/ldt)', dry_bangla: 'Demolition scrap (Bangladesh, $/ldt)', dry_pak: 'Demolition scrap (Pakistan, $/ldt)', dry_turkey: 'Demolition scrap (Turkey, $/ldt)', tanker_india: 'Tanker scrap (India, $/ldt)', tanker_bangla: 'Tanker scrap (Bangladesh, $/ldt)', tanker_pak: 'Tanker scrap (Pakistan, $/ldt)', container_india: 'Container scrap (India, $/ldt)' };
   var allDates = {};
   tenors.forEach(function (t) { (ac.classes[cls][t] || []).forEach(function (p) { allDates[p[0]] = true; }); });
   if (ac.scrap && ac.scrap[scrapKey]) (ac.scrap[scrapKey] || []).forEach(function (p) { allDates[p[0]] = true; });
@@ -41387,18 +41462,18 @@ function renderFearnAc() {
   var datasets = tenors.map(function (t) {
     var vals = new Array(dates.length).fill(null);
     (ac.classes[cls][t] || []).forEach(function (p) { vals[dateIdx[p[0]]] = p[1]; });
-    return { label: t, data: vals, borderColor: TENOR_COLORS[t] || '#8b949e', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, tension: 0.15, spanGaps: false };
+    return { label: tenorLabelMap[t] || t, data: vals, borderColor: TENOR_COLORS[t] || '#8b949e', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, tension: 0.15, spanGaps: false }; // label mapped AFTER color lookup (TENOR_COLORS keyed on raw codes)
   });
   if (ac.scrap && ac.scrap[scrapKey]) {
     var svals = new Array(dates.length).fill(null);
     ac.scrap[scrapKey].forEach(function (p) { if (dateIdx[p[0]] != null) svals[dateIdx[p[0]]] = p[1]; });
     datasets.push({
-      label: 'scrap ' + scrapKey + ' ($/ldt, right)', data: svals,
+      label: SCRAP_NAMES[scrapKey] || ('scrap ' + scrapKey + ' ($/ldt, right)'), data: svals,
       borderColor: '#ff7b72', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [5, 4], pointRadius: 0, tension: 0.15, spanGaps: false, yAxisID: 'y2'
     });
   }
   var meta = document.getElementById('fearnAcMeta');
-  if (meta) meta.textContent = cls + ' · ' + tenors.join(' / ') + ' · scrap: ' + scrapKey;
+  if (meta) meta.textContent = cls + ' · ' + tenors.map(function (t) { return (tenorLabelMap[t] || t) + ' [' + t + ']'; }).join(' · ') + (ac.scrap && ac.scrap[scrapKey] ? ' · scrap: ' + (SCRAP_NAMES[scrapKey] || scrapKey) + ' [' + scrapKey + ']' : '');
   var canvas = document.getElementById('fearnAcChart');
   if (canvas && typeof Chart !== 'undefined') {
     if (FDESK.acChart) { FDESK.acChart.destroy(); FDESK.acChart = null; }
@@ -41496,7 +41571,7 @@ function renderFearnGas(kind) {
     keys.forEach(function (k) { (bySub[labels[k].subtype] = bySub[labels[k].subtype] || []).push(k); });
     sel.innerHTML = Object.keys(bySub).sort().map(function (sub) {
       return '<optgroup label="' + escapeHtml(sub) + '">' + bySub[sub].map(function (k) {
-        return '<option value="' + escapeHtml(k) + '"' + (k === FDESK[stateKey] ? ' selected' : '') + '>' + escapeHtml(labels[k].route) + ' · ' + labels[k].n + 'm</option>';
+        return '<option value="' + escapeHtml(k) + '"' + (k === FDESK[stateKey] ? ' selected' : '') + '>' + escapeHtml(prettyGasLabel(k, labels[k])) + ' · ' + labels[k].n + 'm</option>';
       }).join('') + '</optgroup>';
     }).join('');
   }
@@ -41516,7 +41591,7 @@ function renderFearnGas(kind) {
   var prCol = pr >= 80 ? 'var(--green)' : (pr >= 40 ? 'var(--yellow,#e3b341)' : 'var(--red)');
   var el = document.getElementById(kind === 'LNG' ? 'fearnLngStats' : 'fearnLpgStats');
   if (el) el.innerHTML = [
-    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 }), sub: s.unit + ' · ' + escapeHtml(s.route) },
+    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 }), sub: s.unit + ' · ' + escapeHtml(prettyGasLabel(FDESK[stateKey], s)) },
     { l: 'MoM (' + (liveBase || 'vs prev') + ')', v: chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '%'), sub: s.subtype, style: chgStyle },
     { l: 'ATH / ATL', v: Number(s.ath).toLocaleString(undefined, { maximumFractionDigits: 1 }) + ' / ' + Number(s.atl).toLocaleString(undefined, { maximumFractionDigits: 1 }), sub: 'ATH ' + (s.ath_date || '—') },
     { l: 'Percentile', v: pr.toFixed(1) + 'th', sub: s.n + ' months ' + s.first + '→' + s.last }
@@ -41544,7 +41619,7 @@ function renderFearnGas(kind) {
   var instKey = kind === 'LNG' ? 'lngChart' : 'lpgChart';
   if (FDESK[instKey]) { FDESK[instKey].destroy(); FDESK[instKey] = null; }
   var datasets = [{
-    label: s.route + ' (' + s.unit + ')', data: pts.map(function (p) { return p[1]; }),
+    label: prettyGasLabel(FDESK[stateKey], s), data: pts.map(function (p) { return p[1]; }),
     borderColor: '#4d9aff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, tension: 0.2, yAxisID: 'y'
   }];
   if (overlay) {
@@ -41556,7 +41631,7 @@ function renderFearnGas(kind) {
         if (p[0] >= s0 && p[0] <= s1 && ymIx[p[0]] != null) gvals[ymIx[p[0]]] = p[1];
       });
       datasets.push({
-        label: c.replace(/_/g, ' '), data: gvals,
+        label: prettyGasLabel(c, null), data: gvals,
         borderColor: overlay.colors[i % overlay.colors.length], backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [5, 4], pointRadius: 0, tension: 0.2, spanGaps: false, yAxisID: 'y2'
       });
     });
@@ -41590,6 +41665,102 @@ function onFearnGasSel(kind) {
   if (kind === 'LNG') FDESK.lng = sel ? sel.value : FDESK.lng; else FDESK.lpg = sel ? sel.value : FDESK.lpg;
   FDESK.secInit[kind === 'LNG' ? 6 : 7] = false;
   renderFearnGas(kind);
+}
+
+// ---------- S6/S7 gas pretty labels + family overlays ----------
+function prettyGasLabel(k, s) {
+  var keepUpper = { VLGC: 1, MGC: 1, LGC: 1, HDY: 1, ETH: 1, SR: 1, COASTER: 1, TFDE: 1, MEGI: 1, XDF: 1, LNGC: 1, ST: 1, CBM: 1, TC: 1, TCE: 1, FSRU: 1, FOB: 1, JKTC: 1, NBP: 1, TTF: 1, HH: 1, JKM: 1, US: 1, MT: 1, CP: 1, VLSFO: 1, KM3: 1, DF: 1, ANSI: 1, BLPG: 1 };
+  var cap = function (w) {
+    var up = w.toUpperCase();
+    if (keepUpper[up]) return up;
+    if (/^\d+(\.\d+)?$/.test(w)) return w;
+    return w.charAt(0).toUpperCase() + w.slice(1);
+  };
+  var body;
+  if (s && s.route) {
+    body = s.route.split(/\s+/).map(function (w) {
+      var alpha = w.replace(/[^A-Za-z]/g, '');
+      if (alpha && keepUpper[alpha.toUpperCase()]) return w.replace(/[A-Za-z]+/g, function (a) { return a.toUpperCase(); });
+      if (/^[A-Za-z]/.test(w)) return w.charAt(0).toUpperCase() + w.slice(1);
+      return w;
+    }).join(' ');
+  } else {
+    var tail = k.indexOf('_') >= 0 ? k.slice(k.indexOf('_') + 1) : k;
+    var m = /^(BROKER|CALCULATED|MARKET|SPOT_DAILY|SPOT|TC|BLPG_EQ|BLPG_TCE|BLPG|LPG_FOB_BUTANE|LPG_FOB_PROPANE)_([\s\S]+)$/.exec(tail);
+    if (m) tail = m[2];
+    body = tail.split('_').map(cap).join(' ');
+  }
+  var sub = s ? s.subtype : (/(_tc)$/i.test(k) ? 'TC' : (/FOB/i.test(k) ? 'FOB' : (/SPOT/i.test(k) ? 'SPOT' : '')));
+  var unit = s && s.unit ? s.unit : 'usd';
+  if (sub === 'BROKER' || sub === 'CALCULATED' || sub === 'TC' || sub === 'BLPG-TCE') return body + ' (' + unit + '/day)';
+  return body + ' (' + unit + ')';
+}
+var FEARnGAS_PALETTE = ['#4d9aff', '#3fb950', '#e3b341', '#f778ba', '#8957e5', '#39c5cf', '#ff7b72', '#79c0ff', '#d2a8ff', '#7ee787', '#ffa198', '#f2cc60', '#a371f7'];
+function renderFearnGasFamily(kind) {
+  var cache = fearnSeriesCache();
+  if (!cache || typeof Chart === 'undefined') return;
+  var labels = cache.labels;
+  var isLng = kind === 'LNG';
+  var fams = {
+    tc: { canvasId: isLng ? 'fearnLngTcFamily' : 'fearnLpgTcFamily', metaId: isLng ? 'fearnLngTcFamilyMeta' : 'fearnLpgTcFamilyMeta', chartKey: isLng ? 'lngTcFamChart' : 'lpgTcFamChart', keys: [] },
+    spot: { canvasId: isLng ? 'fearnLngSpotFamily' : 'fearnLpgSpotFamily', metaId: isLng ? 'fearnLngSpotFamilyMeta' : 'fearnLpgSpotFamilyMeta', chartKey: isLng ? 'lngSpotFamChart' : 'lpgSpotFamChart', keys: [] }
+  };
+  Object.keys(labels).forEach(function (k) {
+    var s = labels[k];
+    if (s.type !== kind || s.n < 3) return;
+    if (!(s.last >= '2025-01')) return; // live labels only
+    if (s.unit !== 'usd') return;
+    var sub = s.subtype;
+    if ((sub === 'BROKER' || sub === 'CALCULATED' || sub === 'TC') && (s.route.indexOf('TC') >= 0 || sub === 'TC')) fams.tc.keys.push(k);
+    else if (sub === 'SPOT' || sub === 'SPOT-DAILY') fams.spot.keys.push(k);
+  });
+  Object.keys(fams).forEach(function (fam) {
+    var f = fams[fam];
+    var canvas = document.getElementById(f.canvasId);
+    if (!canvas) return;
+    var meta = document.getElementById(f.metaId);
+    f.keys.sort(function (a, b) { return labels[a].route.localeCompare(labels[b].route) || labels[b].n - labels[a].n; });
+    var MAXD = 12;
+    var shown = f.keys.slice(0, MAXD), dropped = f.keys.length - shown.length;
+    var allM = {};
+    shown.forEach(function (k) { labels[k].m.forEach(function (p) { allM[p[0]] = true; }); });
+    var dates = Object.keys(allM).sort();
+    var dIx = {}; dates.forEach(function (dt, i) { dIx[dt] = i; });
+    var datasets = shown.map(function (k, i) {
+      var s = labels[k];
+      var vals = new Array(dates.length).fill(null);
+      s.m.forEach(function (p) { vals[dIx[p[0]]] = p[1]; });
+      return {
+        label: prettyGasLabel(k, s), data: vals,
+        borderColor: FEARnGAS_PALETTE[i % FEARnGAS_PALETTE.length], backgroundColor: 'transparent',
+        borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
+      };
+    });
+    if (meta) {
+      meta.textContent = shown.length + ' series · monthly Fearnleys prints · gaps = no print' +
+        (dropped > 0 ? ' · +' + dropped + ' more in Museum' : '') +
+        (dates.length ? ' · ' + dates[0] + '\u2192' + dates[dates.length - 1] : ' · no data');
+    }
+    if (FDESK[f.chartKey]) { FDESK[f.chartKey].destroy(); FDESK[f.chartKey] = null; }
+    if (!shown.length) return;
+    FDESK[f.chartKey] = new Chart(canvas.getContext('2d'), {
+      type: 'line',
+      data: { labels: dates, datasets: datasets },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        normalized: true,
+        interaction: { mode: 'nearest', axis: 'x', intersect: false },
+        plugins: {
+          legend: { labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 10 }, boxWidth: 12 } },
+          tooltip: { backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8', callbacks: { label: function (it) { return it.parsed.y == null ? null : ' ' + it.dataset.label + ': $' + Number(it.parsed.y).toLocaleString(); } } }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
+          y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, callback: function (v) { return v >= 1000 ? (v / 1000) + 'k' : v; } } }
+        }
+      }
+    });
+  });
 }
 
 // ---------- S8 FIXTURES TAPE ----------
