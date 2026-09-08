@@ -10628,8 +10628,7 @@
       </div>
 
       <!-- SECTION: Monthly -->
-      <!-- Win-Rate KPI Cards -->
-      <div class="win-rate-row mb-20" id="monthlyWinRateRow" data-tooltip="Monthly Win Rate — historical probability of each calendar month generating positive return based on multi-decade history."></div>
+      <!-- Win-Rate KPI card row removed: its all-time % per month is the ALL-TIME column of the Monthly Historical Win-Rate Matrix below (single source of truth). -->
 
       <!-- Spaghetti Chart -->
       <div class="chart-container mb-20">
@@ -10639,6 +10638,15 @@
         <div class="spaghetti-wrap">
           <canvas id="monthlySpaghettiChart"></canvas>
         </div>
+      </div>
+
+      <!-- Seasonal Position: current year vs 5Y mean band -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title" data-tooltip="Seasonal Position - current year monthly path (bold) against the 5Y seasonal mean with ±1σ band. The band shows the normal calendar envelope; the badge on the latest month shows its percentile rank across all history (P85 = stronger than 85% of all historical months). Trading far outside the band signals a regime break, not seasonality.">Seasonal Position • Current Path vs 5Y Mean ±1σ</div>
+          <span id="seasonalPosBadge" style="font-size:11px;font-family:'IBM Plex Mono',monospace;font-weight:700;"></span>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="seasonalPosChart"></canvas></div>
       </div>
 
       <!-- Area Comparison Chart -->
@@ -10656,17 +10664,8 @@
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyBarChart"></canvas></div>
       </div>
-      <div class="chart-section">
-        <div class="chart-header">
-          <div class="chart-header-title" data-tooltip="Heatmap Resolution - Year vs Month. 8-year relative scaling ensures recent market extremes (2020+) remain visually distinct from 2008 records.">Monthly Data Grid</div>
-          <button class="dl-btn" id="monthlyGridDlBtn">&#x2B07; CSV</button>
-        </div>
-        <div style="overflow-x:auto">
-          <div id="monthlyDataGrid"></div>
-        </div>
-      </div>
-
       <!-- Monthly Historical Win-Rate Matrix -->
+      <!-- Monthly Data Grid removed: duplicated the Monthly Performance Heatmap (same year×month absolute matrix, same 8Y window & palette). The heatmap's Absolute/% toggle + CSV download supersedes it. -->
       <div class="chart-section" style="margin-top:20px;">
         <div class="chart-header">
           <div class="chart-header-title" data-tooltip="Historical Monthly Win Rate Matrix &#8212; fraction of years each calendar month generated positive returns, across 10Y, 20Y, and all-time windows. Green = above 60%; Amber = 40-60%; Red = below 40%.">Monthly Historical Win-Rate Matrix</div>
@@ -21334,11 +21333,10 @@ if (intelTabsContainer) {
     // =====================================================================
     function renderMonthlyDash(productKey) {
       var fns = [
-        function () { renderMonthlyWinRateCards(productKey); },
         function () { renderMonthlySpaghettiChart(productKey); },
+        function () { renderSeasonalPos(productKey); },
         function () { renderMDAreaComp(productKey); },
         function () { renderMDBarChart(productKey); },
-        function () { renderMDDataGrid(productKey); },
         function () { renderMonthlyWinRateMatrix(productKey); },
       ];
       // Synchronous Batch 1 (0ms latency), Batch 2 in RAF
@@ -21354,66 +21352,6 @@ if (intelTabsContainer) {
       }
     }
 
-    function renderMonthlyWinRateCards(productKey) {
-      const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
-      const years = getProductYears(productKey);
-
-      const mAvg = {};
-      for (const y of years) {
-        mAvg[y] = {};
-        for (const m of months) {
-          mAvg[y][m] = getMAvgCached(productKey, y, m);
-        }
-      }
-
-      const winRates = {};
-      for (const m of months) {
-        let wins = 0, total = 0;
-        for (let i = 0; i < years.length; i++) {
-          const y = years[i];
-          const thisMAvg = mAvg[y][m];
-          if (thisMAvg == null) continue;
-          let prevAvg = null;
-          if (m === 0) {
-            const priorYear = y - 1;
-            prevAvg = mAvg[priorYear] ? mAvg[priorYear][11] : null;
-          } else {
-            prevAvg = mAvg[y][m - 1];
-          }
-          if (prevAvg == null) continue;
-          total++;
-          if (thisMAvg > prevAvg) wins++;
-        }
-        winRates[m] = total > 0 ? (wins / total) * 100 : null;
-      }
-
-      const row = document.getElementById('monthlyWinRateRow');
-      if (!row) return;
-      row.innerHTML = '';
-      for (const m of months) {
-        const wr = winRates[m];
-        let cls = 'wr-yellow', valColor = 'var(--yellow)';
-        if (wr != null) {
-          if (wr > 55) { cls = 'wr-green'; valColor = 'var(--green)'; }
-          else if (wr < 45) { cls = 'wr-red'; valColor = 'var(--red)'; }
-        }
-        const pct = wr != null ? wr.toFixed(0) + '%' : '-';
-        const barW = wr != null ? wr : 0;
-        const card = document.createElement('div');
-        card.className = `win-rate-card ${cls}`;
-        // Shrink card slightly so 12 fit cleanly, flex wrap is enabled on win-rate-row
-        card.style.minWidth = '80px';
-        const tt = `Predictive Seasonality for ${MONTH_NAMES[m]} - historical probability (${pct}) that this specific month has ended higher than it started since 2008. Measures the 'long' bias of the shipping calendar.`;
-        card.setAttribute('data-tooltip', tt);
-        card.innerHTML = `
-          <div class="wr-title">${MONTH_NAMES[m].substring(0,3)} Win Rate</div>
-          <div class="wr-value" style="color:${valColor}">${pct}</div>
-          <div class="wr-sub">Pos. Years</div>
-          <div class="wr-bar-bg"><div class="wr-bar-fill" style="width:${barW}%"></div></div>
-        `;
-        row.appendChild(card);
-      }
-    }
 
     function renderMonthlySpaghettiChart(productKey) {
       const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
@@ -21503,6 +21441,60 @@ if (intelTabsContainer) {
     }
 
 
+    function renderSeasonalPos(productKey) {
+      var prod = PRODUCTS[productKey];
+      var cy = new Date().getFullYear(), curMonth = new Date().getMonth();
+      var months = [0,1,2,3,4,5,6,7,8,9,10,11];
+      // 5Y seasonal mean + sd per calendar month (excluding current year)
+      var mean5 = [], sd5 = [];
+      for (var m = 0; m < 12; m++) {
+        var vals = [];
+        for (var y = cy - 5; y < cy; y++) { var v = getMAvgCached(productKey, y, m); if (v != null) vals.push(v); }
+        if (vals.length) {
+          var mu = mean(vals);
+          mean5.push(mu);
+          sd5.push(Math.sqrt(mean(vals.map(function (v) { return (v - mu) * (v - mu); }))) || mu * 0.04 || 1);
+        } else { mean5.push(null); sd5.push(null); }
+      }
+      var cur = months.map(function (m) { return getMAvgCached(productKey, cy, m); });
+      // band as filled ranges (lower first, upper reversed) — nulls break the band
+      var lower = months.map(function (m) { return (mean5[m] != null && sd5[m] != null) ? mean5[m] - sd5[m] : null; });
+      var upper = months.map(function (m) { return (mean5[m] != null && sd5[m] != null) ? mean5[m] + sd5[m] : null; });
+      // percentile of latest observed month vs all history for that calendar month
+      var badge = document.getElementById('seasonalPosBadge');
+      if (badge) {
+        var lm = -1;
+        for (var i = 11; i >= 0; i--) { if (cur[i] != null) { lm = i; break; } }
+        if (lm >= 0) {
+          var hist = [];
+          for (var y2 = cy - 30; y2 < cy; y2++) { var v2 = getMAvgCached(productKey, y2, lm); if (v2 != null) hist.push(v2); }
+          if (hist.length > 4) {
+            var below = hist.filter(function (h) { return h <= cur[lm]; }).length;
+            var p = Math.round(below / hist.length * 100);
+            var pc = p >= 80 ? 'var(--green)' : (p >= 40 ? 'var(--yellow,#e3b341)' : 'var(--red)');
+            badge.innerHTML = '<span style="color:' + pc + '">P' + p + '</span> <span style="color:var(--text-muted);font-weight:400;">' + MONTH_NAMES[lm].slice(0,3) + ' ' + cy + ' · ' + hist.length + 'y window</span>';
+          } else badge.textContent = '';
+        } else badge.textContent = '';
+      }
+      destroyChart('seasonalPosChart');
+      var canvas = document.getElementById('seasonalPosChart'); if (!canvas) return;
+      var cu = cur.slice(), cl = lower.slice();
+      chartRegistry['seasonalPosChart'] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: { labels: MONTH_NAMES, datasets: [
+          { label: '5Y ±1σ', data: upper, borderColor: 'rgba(88,166,255,0.25)', backgroundColor: 'rgba(88,166,255,0.10)', borderWidth: 1, fill: '+1', pointRadius: 0, tension: 0.3 },
+          { label: '5Y Mean', data: mean5, borderColor: '#8b949e', borderDash: [5, 3], borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.3 },
+          { label: String(cy), data: cur, borderColor: prod.color, backgroundColor: prod.color + '22', borderWidth: 2.5, pointRadius: months.map(function (m) { return m === curMonth ? 4 : 2; }), pointBackgroundColor: prod.color, fill: false, tension: 0.3, spanGaps: true }
+        ] },
+        options: {
+          responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
+          plugins: { legend: { position: 'top', labels: { usePointStyle: true, filter: function (item) { return item.text !== '5Y ±1σ'; } } },
+            tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
+        },
+      });
+    }
+
     function renderMDAreaComp(productKey) {
       const cy = new Date().getFullYear();
       const py = cy - 1;
@@ -21535,73 +21527,6 @@ if (intelTabsContainer) {
       });
     }
 
-    function renderMDDataGrid(productKey) {
-      var cy = new Date().getFullYear(), years8 = [cy, cy - 1, cy - 2, cy - 3, cy - 4, cy - 5, cy - 6, cy - 7];
-      var seen = {}, allYears = [];
-      DATA.master.forEach(function (r) { if (!seen[r.year]) { seen[r.year] = 1; allYears.push(r.year); } });
-      allYears.sort(function (a, b) { return a - b; });
-      var matrix = {};
-      allYears.forEach(function (y) { matrix[y] = {}; for (var m = 0; m < 12; m++) { var v = DATA.master.filter(function (r) { return r.year === y && r.month === m && r[productKey] != null; }).map(function (r) { return r[productKey]; }); matrix[y][m] = v.length ? mean(v) : null; } });
-      var colStats = {};
-      for (var m = 0; m < 12; m++) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][m] : null; }).filter(function (v) { return v != null; }); colStats[m] = v.length ? { min: Math.min.apply(null, v), max: Math.max.apply(null, v) } : { min: null, max: null }; }
-      
-      var avg8y = {};
-      for (var m = 0; m < 12; m++) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][m] : null; }).filter(function (v) { return v != null; }); avg8y[m] = v.length ? mean(v) : null; }
-      
-      var html = '<table class="heatmap-table"><thead><tr><th>Year</th>' + MONTH_NAMES.map(function (mn) { return '<th>' + mn + '</th>'; }).join('') + '<th>Full Year Avg</th><th>YoY %</th></tr></thead><tbody>';
-      
-      years8.forEach(function (y, i) {
-        var rv = []; for (var m = 0; m < 12; m++)rv.push(matrix[y] ? matrix[y][m] : null);
-        var nn = rv.filter(function (v) { return v != null; }), fy = nn.length ? mean(nn) : null;
-        
-        var py2 = years8[i + 1];
-        var pv = [];
-        if (py2 != null) { for (var m = 0; m < 12; m++) pv.push(matrix[py2] ? matrix[py2][m] : null); }
-        var pnn = pv.filter(function (v) { return v != null; }), pfy = pnn.length ? mean(pnn) : null;
-        
-        var yoy = fy != null && pfy != null && pfy !== 0 ? ((fy - pfy) / pfy) * 100 : null;
-        
-        html += '<tr><td class="year-col">' + y + '</td>';
-        for (var m = 0; m < 12; m++) { var v = rv[m]; if (v == null) { html += '<td style="color:#484f58">-</td>'; continue; } var cs = colStats[m], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3">' + fmt(v, 0) + '</td>'; }
-        
-        html += '<td style="color:var(--text-muted)">' + (fy != null ? fmt(fy, 0) : '-') + '</td>';
-        html += '<td class="' + (yoy == null ? '' : yoy >= 0 ? 'val-green' : 'val-red') + '" style="font-weight:600">' + (yoy != null ? (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '%' : '-') + '</td></tr>';
-      });
-      
-      html += '<tr><td class="year-col" style="color:var(--accent);font-weight:700">8Y Avg</td>';
-      var a8all = [];
-      for (var m = 0; m < 12; m++) { var v = avg8y[m]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58">-</td>'; continue; } var cs = colStats[m], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600">' + fmt(v, 0) + '</td>'; }
-      var a8avg = mean(a8all.filter(function (v) { return v != null; }));
-      html += '<td style="color:var(--accent);font-weight:600">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '-') + '</td><td>-</td></tr>';
-      
-      var ly = years8[0];
-      html += '<tr><td class="year-col" style="color:var(--text-muted)">MoM %</td>';
-      for (var m = 0; m < 12; m++) {
-        var curr = matrix[ly] ? matrix[ly][m] : null, prev = m > 0 ? (matrix[ly] ? matrix[ly][m - 1] : null) : (matrix[ly - 1] ? matrix[ly - 1][11] : null);
-        if (curr == null || prev == null) { html += '<td style="color:#484f58">-</td>'; continue; }
-        var pct = ((curr - prev) / prev) * 100;
-        html += '<td style="background:' + heatmapColorPct(pct) + ';color:#e6edf3;font-size:11px">' + (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%</td>';
-      }
-      html += '<td>-</td><td>-</td></tr></tbody></table>';
-      
-      document.getElementById('monthlyDataGrid').innerHTML = html;
-      document.getElementById('monthlyGridDlBtn').onclick = function () {
-        var headers = ['Year'].concat(MONTH_NAMES).concat(['Full Year Avg', 'YoY %']);
-        var rows = years8.map(function (y, i) { 
-          var rv = []; for (var m = 0; m < 12; m++)rv.push(matrix[y] ? matrix[y][m] : null); 
-          var nn = rv.filter(function (v) { return v != null; }), fy = nn.length ? mean(nn) : null; 
-          
-          var py2 = years8[i + 1];
-          var pv = [];
-          if (py2 != null) { for (var m = 0; m < 12; m++) pv.push(matrix[py2] ? matrix[py2][m] : null); }
-          var pnn = pv.filter(function (v) { return v != null; }), pfy = pnn.length ? mean(pnn) : null;
-          var yoy = fy != null && pfy != null && pfy !== 0 ? ((fy - pfy) / pfy * 100).toFixed(1) + '%' : '';
-          
-          return [y].concat(rv.map(function (v) { return v != null ? v.toFixed(2) : '' })).concat([fy != null ? fy.toFixed(2) : '', yoy]); 
-        });
-        downloadCSV('monthly_grid_' + productKey + '.csv', headers, rows);
-      };
-    }
 
     // =====================================================================
     // QUARTERLY DASHBOARD TAB
