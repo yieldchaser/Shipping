@@ -93,6 +93,13 @@ def test_fearnleys_frontend_markers():
         "data-tt-type=\"fearn-overview-title\"", "data-tt-type=\"fearn-overview-tile\"",
         "data-tt-type=\"fearn-tc-class\"", "data-tt-type=\"fearn-tc-source\"",
         "data-tt-type=\"fearn-tc-chart\"",
+        # restored desk-group overview tiles (post-6c715a827 regression fix):
+        # 4 pedagogical groups, pre-change tile set, nothing dropped/invented
+        "var GRP_LABEL = { 0: 'Time-Charter Rates', 1: 'Newbuilding Prices', 2: 'S&P / Resale', 3: 'LNG / LPG' }",
+        "var GRP4 = { LNG: ['LNG_BROKER_2005_BUILT_145KM3_STEAM'",
+        "LPG_SPOT_LGC_60_000_CBM'] }",
+        "TANK_1_YEAR_T_C_AFRAMAX: 6 }",
+        "Order: GROUP 1 Time-Charter Rates",
     ]:
         assert marker in HTML, marker
 
