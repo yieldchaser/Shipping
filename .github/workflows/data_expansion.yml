@@ -75,6 +75,10 @@ jobs:
           # assessments (Capesize/Panamax/Supramax routes). Refresh pulls ~14 days and
           # merge-upserts into fearnpulse_dry_routes_full.csv + fearnleys_dry_routes_daily.json.
           if [ -f scripts/fearnleys/fetch_dry_routes_ts.py ]; then python scripts/fearnleys/fetch_dry_routes_ts.py --refresh; fi
+          # Daily tanker-routes UI cache (Broker Desk S3): rebuild from the just-refreshed
+          # fearnpulse_rates_full.csv (the sync's 30-day Hasura delta keeps it live) —
+          # no second API pull; --verify asserts the regression floors.
+          if [ -f scripts/fearnleys/build_tanker_routes_daily.py ]; then python scripts/fearnleys/build_tanker_routes_daily.py --build --verify; fi
 
       - name: Geospatial voyage tracker (idempotent, additive-only)
         # Rebuilds lineup/voyage/UI-vector caches from existing fixture data only.
