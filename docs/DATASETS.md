@@ -43,6 +43,8 @@ This document outlines the complete dataset inventory, publishing frequencies, p
 | [`alibra_tce_matrix.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/alibra_tce_matrix.json) | Live Period TCE Matrix & WoW Deltas | Aug 2026 | Weekly / Daily | Alibra Poller | Active |
 | [`fearnleys_catalog.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_catalog.csv) | Hasura GraphQL Route Catalog | N/A | Static | Fearnleys GraphQL Schema | Static Metadata |
 | [`fearnleys_series_monthly.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_series_monthly.json) | Per-label monthly means + ATH/ATL/percentile for all 294 rate series (32,085 pts) backing the Fearnleys desk browser | Full history → live | Weekly (Wed/Thu, `fearnleys_weekly.yml`) | `scripts/fearnleys/build_series_cache.py` from `fearnpulse_rates_full.csv` | Active (646 KB; 294/356 catalog ids have rows) |
+| [`fearnpulse_dry_routes_full.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnpulse_dry_routes_full.csv) | Fearnleys dry-route assessments, long archive (11 raw tsIds + derived Supramax Transatlantic RV avg; raw_pair_meta carries the pair inputs on avg rows) | 1999-03 (Panamax 2018-01, Supramax 2023-05, Capesize RV/TCE 2024-09) | Daily | Fearnleys market-data service (`fearnpulse.com/api/marketapi/TS`) | Active (20,768 rows; latest 2026-09-08) |
+| [`fearnleys_dry_routes_daily.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_dry_routes_daily.json) | Same 12 series, compact UI bundle (chronological `[epoch_ms,value]` pts; meta discloses the Supramax-avg derivation = midpoint of TS 120132 + TS 120133) | as above | Daily | `fearnpulse.com/api/marketapi/TS` via `scripts/fearnleys/fetch_dry_routes_ts.py` | Active (457 KB; refreshed in `data_expansion.yml` Fearnleys step) |
 | [`fearnleys_comments_tanker.json`, `_dry`, `_gas`, `_snp`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_comments_tanker.json) | Broker-comment archive chunked per desk for lazy load: tanker 8,775 / dry 1,525 / gas 1,088 / snp+rest 321 (11,709 non-blank of 11,714 CSV rows) | Sep 2018 → live | On sync (`data_expansion.yml`) | `scripts/fearnleys/build_comment_chunks.py` | Active (~5 MB total) |
 | [`vessel_leg_economics.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/vessel_leg_economics.json) | Latest voyage leg per IMO (transit_days, distance_nm, derived avg kn; omitted where unrecorded) — 2,657 IMOs, 100% lineup overlap | Snapshot | Mon–Thu (`data_expansion.yml`) | `scripts/geospatial/build_vessel_leg_economics.py` | Active |
 
@@ -187,3 +189,21 @@ python scripts/check_data_spike_health.py
 Flags WoW >30% jumps, 3-sigma breaks vs prior 252, >15 flatline repeats and empty rows into `knowledge/manifests/spike_queue.jsonl` (one JSON object per line, always exits 0).
 
 Rich-tooltip overhaul (`getCalculatedTooltip` in `index.html`): `concept-brazil-exports`, `concept-ppa-throughput`, `concept-eia-exports`, `concept-port-congestion`, `concept-carbon-ets`, `concept-ton-mile-sim`.
+
+
+### Fearnleys market-data service (`/api/marketapi/TS`) — stale-series probe
+
+Probed 2026-09-09 WITHOUT `last` (full history, all rows). NOT harvested: several
+Market Brief tsIds are months stale on the source — listed so nobody "backfills" them.
+
+| tsId | Series | Last obs on source | Status |
+|---:|:---|:---|:---|
+| 306 | Singapore 380CST | 2026-07-01 | Stale (~10 wk) — excluded |
+| 307 | Singapore MGO | 2026-07-01 | Stale (~10 wk) — excluded |
+| 303 | Rotterdam 380CST | 2026-07-01 | Stale (~10 wk) — excluded |
+| 304 | Rotterdam MGO | 2026-07-01 | Stale (~10 wk) — excluded |
+| 5002 | USD/NOK | 2026-09-07 | Live but FX, out of scope — excluded |
+| 5001 | USD/KRW | 2022-03-16 | Dead since 2022 — excluded |
+| 5003 | EUR/USD | 2026-09-07 | Live but FX, out of scope — excluded |
+| 12100 | SOFR | 2026-08-06 | Stale (~5 wk) — excluded |
+| 316 | Brent | 2026-08-10 | Stale (~4 wk) — excluded |
