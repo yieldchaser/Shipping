@@ -366,6 +366,7 @@ AEFJR,Fujairah,United Arab Emirates,Tankers,Contantios,IMO9544178,158000,Operati
 AEFJR,Fujairah,United Arab Emirates,Tankers,Cosjade Lake,IMO9337183,305000,Operating at berth,2026-08-17 08:00:00,1.7,Murban Crude / Bunkers,25.1287,56.36
 AEFJR,Fujairah,United Arab Emirates,Tankers,Maran Thaleia,IMO9527295,305000,Operating at berth,2026-08-15 08:00:00,1.3,Murban Crude / Bunkers,25.1182,56.3562
 AEFJR,Fujairah,United Arab Emirates,Tankers,Dht Amazon*,IMO9528794,305000,Operating at berth,2026-07-03 08:00:00,0.5,Murban Crude / Bunkers,25.1275,56.3202
+AEFJR,Fujairah,United Arab Emirates,Tankers,Dht Antelope,IMO1055179,305000,Operating at berth,2026-09-11 08:00:00,1.3,Murban Crude / Bunkers,25.13,56.32
 AEFJR,Fujairah,United Arab Emirates,Tankers,Dht Panther,IMO9722900,305000,Operating at berth,2026-05-29 08:00:00,0.5,Murban Crude / Bunkers,25.1131,56.3507
 AEFJR,Fujairah,United Arab Emirates,Tankers,Dht Redwood,IMO9528940,305000,Operating at berth,2026-07-04 08:00:00,0.5,Murban Crude / Bunkers,25.1104,56.3363
 AEFJR,Fujairah,United Arab Emirates,Tankers,Dht Tiger,IMO9733959,305000,Operating at berth,2026-08-28 08:00:00,0.9,Murban Crude / Bunkers,25.1362,56.321
@@ -682,7 +683,6 @@ NLRTM,Rotterdam,The Netherlands,Tankers,Pacific,IMO9912141,158000,Waiting at anc
 NLRTM,Rotterdam,The Netherlands,Tankers,Seaways Kilimanjaro,IMO9563237,305000,Waiting at anchor,2024-10-30 08:00:00,4.0,Crude / Dry Bulk,51.9494,4.5444
 NLRTM,Rotterdam,The Netherlands,Tankers,Trinity,IMO9730361,158000,Waiting at anchor,2025-06-27 08:00:00,3.5,Crude / Dry Bulk,51.9901,4.5085
 NLRTM,Rotterdam,The Netherlands,Tankers,Sfl Thelon,IMO9593000,158000,Waiting at anchor,2025-04-29 08:00:00,4.5,Crude / Dry Bulk,51.9944,4.4406
-QARLF,Ras Laffan,Qatar,Tankers,Kapsali,IMO9587312,158000,Operating at berth,2026-02-02 08:00:00,0.5,LNG / Field LPG,25.9126,51.5114
 QARLF,Ras Laffan,Qatar,Tankers,South loyalty,IMO9537769,305000,Operating at berth,2025-03-31 08:00:00,1.7,LNG / Field LPG,25.9285,51.5119
 QARLF,Ras Laffan,Qatar,Tankers,City of Tokyo,IMO9861302,158000,Waiting at anchor,2023-01-14 08:00:00,3.5,LNG / Field LPG,25.9901,51.5685
 QARLF,Ras Laffan,Qatar,Tankers,Skopelos*,IMO9381720,305000,Waiting at anchor,2025-03-30 08:00:00,1.5,LNG / Field LPG,25.925,51.6098
@@ -1283,6 +1283,7 @@ USPOA,Port Arthur / Nederland,United States,Tankers,Izki O/O,IMO9500924,305000,O
 USPOA,Port Arthur / Nederland,United States,Tankers,Jag Leena,IMO9516105,158000,Operating at berth,2026-09-07 08:00:00,1.7,Refrigerated Propane / Butane,29.8554,-93.9437
 USPOA,Port Arthur / Nederland,United States,Tankers,Jaladi,IMO9384227,305000,Operating at berth,2023-05-13 08:00:00,1.3,Refrigerated Propane / Butane,29.851,-93.9362
 USPOA,Port Arthur / Nederland,United States,Tankers,Jiaolong Spirit,IMO9379208,158000,Operating at berth,2024-12-18 08:00:00,0.5,Refrigerated Propane / Butane,29.8531,-93.9193
+USPOA,Port Arthur / Nederland,United States,Tankers,kapsali ,IMO9587312,158000,Operating at berth,2026-09-25 08:00:00,1.3,Refrigerated Propane / Butane,29.8582,-93.9138
 USPOA,Port Arthur / Nederland,United States,Tankers,Khk Empress,IMO9830965,305000,Operating at berth,2026-05-14 08:00:00,0.5,Refrigerated Propane / Butane,29.8504,-93.9337
 USPOA,Port Arthur / Nederland,United States,Tankers,Khk Majesty *,IMO9830977,305000,Operating at berth,2024-06-15 08:00:00,1.7,Refrigerated Propane / Butane,29.8593,-93.9469
 USPOA,Port Arthur / Nederland,United States,Tankers,khurais,IMO9783679,305000,Operating at berth,2024-08-10 08:00:00,0.9,Refrigerated Propane / Butane,29.8807,-93.9469
@@ -1408,8 +1409,8 @@ USPOA,Port Arthur / Nederland,United States,Tankers,West Loyalty,IMO9537757,3050
 USPOA,Port Arthur / Nederland,United States,Tankers,White Moon,IMO9588158,158000,Operating at berth,2026-07-25 08:00:00,0.9,Refrigerated Propane / Butane,29.8762,-93.949
 USPOA,Port Arthur / Nederland,United States,Tankers,Yasa Southern Cross (Exxon),IMO9534030,305000,Operating at berth,2024-12-08 08:00:00,0.5,Refrigerated Propane / Butane,29.851,-93.9238
 USPOA,Port Arthur / Nederland,United States,Tankers,Yuan Bei Hai,IMO9843352,158000,Operating at berth,2026-05-08 08:00:00,1.7,Refrigerated Propane / Butane,29.8593,-93.9131
-USPOA,Port Arthur / Nederland,United States,Tankers,Aet TBN,IMO9141084,158000,Waiting at anchor,2023-09-11 08:00:00,1.5,Refrigerated Propane / Butane,29.9283,-93.9848
 USPOA,Port Arthur / Nederland,United States,Tankers,Aspen Spirit,IMO9427627,158000,Waiting at anchor,2025-03-27 08:00:00,6.0,Refrigerated Propane / Butane,29.9486,-93.915
+USPOA,Port Arthur / Nederland,United States,Tankers,Aet TBN,IMO9141084,158000,Waiting at anchor,2023-09-11 08:00:00,1.5,Refrigerated Propane / Butane,29.9283,-93.9848
 USPOA,Port Arthur / Nederland,United States,Tankers,Advantage Spice,IMO9419888,158000,Waiting at anchor,2025-06-01 08:00:00,4.5,Refrigerated Propane / Butane,29.9041,-93.8576
 USPOA,Port Arthur / Nederland,United States,Tankers,Advantage Vision,IMO9933559,305000,Waiting at anchor,2026-03-09 08:00:00,2.5,Refrigerated Propane / Butane,29.9494,-93.94
 USPOA,Port Arthur / Nederland,United States,Tankers,Agios Fanourios I,IMO9759824,305000,Waiting at anchor,2026-06-13 08:00:00,5.5,Refrigerated Propane / Butane,29.9129,-93.8625
@@ -1443,7 +1444,6 @@ USPOA,Port Arthur / Nederland,United States,Tankers,Cosdignity Lake,IMO9727209,3
 USPOA,Port Arthur / Nederland,United States,Tankers,Decathlon,IMO9159684,158000,Waiting at anchor,2023-11-30 08:00:00,4.5,Refrigerated Propane / Butane,29.9444,-93.9594
 USPOA,Port Arthur / Nederland,United States,Tankers,Degas,IMO9926673,305000,Waiting at anchor,2026-03-23 08:00:00,1.5,Refrigerated Propane / Butane,29.875,-93.8502
 USPOA,Port Arthur / Nederland,United States,Tankers,Demetrios,IMO9432048,158000,Waiting at anchor,2023-07-29 08:00:00,4.0,Refrigerated Propane / Butane,29.9461,-93.9547
-USPOA,Port Arthur / Nederland,United States,Tankers,Dht Antelope,IMO1055179,305000,Waiting at anchor,2026-06-07 08:00:00,4.0,Refrigerated Propane / Butane,29.9424,-93.8959
 USPOA,Port Arthur / Nederland,United States,Tankers,Maria P. Lemos,IMO9826122,305000,Waiting at anchor,2023-01-15 08:00:00,4.5,Refrigerated Propane / Butane,29.9444,-93.9594
 USPOA,Port Arthur / Nederland,United States,Tankers,Dht Lion*,IMO9722895,305000,Waiting at anchor,2026-04-11 08:00:00,2.5,Refrigerated Propane / Butane,29.885,-93.8514
 USPOA,Port Arthur / Nederland,United States,Tankers,Hippolyta,IMO9385843,305000,Waiting at anchor,2026-05-14 08:00:00,6.0,Refrigerated Propane / Butane,29.9486,-93.915
