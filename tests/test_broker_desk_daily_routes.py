@@ -1,0 +1,345 @@
+#!/usr/bin/env python3
+"""Broker Desk daily-routes UI (Phase 2) — marker tests over index.html + fixtures.
+
+Pins the S3 'Tanker Routes' daily-native rewrite and the S4 'Dry Routes'
+benchmark grid in index.html:
+  - both daily caches are FETCHED at data-load time (never inlined);
+  - S3 no longer touches fearnpulse_rates_full.csv (the monthly-compressed
+    defect dies) while S9's museum references stay intact;
+  - live/frozen classification cutoff and the taxonomy-switch disclosure come
+    from the cache meta, not invented;
+  - day-over-day delta math (rehearsed against trimmed real cache samples);
+  - tooltip markers on tiles, tabs, charts, selects and badges.
+
+Fixtures are TRIMMED REAL cache samples (strided + tail) from
+data/derived/fearnleys_tanker_routes_daily.json and
+data/derived/fearnleys_dry_routes_daily.json — values are source data, not
+invented; only the sampling stride is ours.
+"""
+import json
+import os
+import re
+from datetime import datetime, timezone
+from pathlib import Path
+
+import pytest
+
+ROOT = Path(__file__).resolve().parent.parent
+HTML = ROOT / "index.html"
+TANKER_JSON = ROOT / "data" / "derived" / "fearnleys_tanker_routes_daily.json"
+DRY_JSON = ROOT / "data" / "derived" / "fearnleys_dry_routes_daily.json"
+
+with open(HTML, "r", encoding="utf-8") as f:
+    C = f.read()
+
+
+def epoch_iso(ms):
+    return datetime.fromtimestamp(ms / 1000, tz=timezone.utc).strftime("%Y-%m-%d")
+
+
+# ------------------------------------------------- trimmed real cache samples
+# (strided head + full tail; metadata recomputed for the trimmed pts)
+
+FIXTURE_SERIES = {
+    'TANK_VLCC_MEG_FEAST': {
+        'label': 'MEG/FEAST · WS',
+        'klass': 'VLCC',
+        'route': 'MEG/FEAST',
+        'unit': 'ws',
+        'cadence': 'daily',
+        'pts': [[1526601600000, 38], [1554336000000, 37.5], [1583366400000, 47.5], [1611619200000, 32.38], [1641168000000, 41.64], [1670544000000, 81.32], [1701907200000, 66.5], [1733702400000, 42.5], [1764547200000, 130], [1787702400000, 600], [1787788800000, 600], [1787875200000, 600], [1788134400000, 600], [1788220800000, 650], [1788307200000, 650], [1788393600000, 675], [1788480000000, 660], [1788739200000, 660], [1788825600000, 700]],
+        'first': '2018-05-18',
+        'last': '2026-09-08',
+        'n': 19,
+    },
+    'TANK_VLCC_MEG_FEAST_TCE': {
+        'label': 'MEG/FEAST · TCE',
+        'klass': 'VLCC',
+        'route': 'MEG/FEAST',
+        'unit': 'tce',
+        'cadence': 'daily',
+        'pts': [[1526601600000, 0], [1554336000000, 8700], [1583366400000, 18600], [1611619200000, 2058], [1641168000000, 2044], [1670544000000, 49113], [1681344000000, 56017], [1681430400000, 55395], [1681689600000, 56070], [1681776000000, 57033], [1681862400000, 56220], [1681948800000, 47108], [1682035200000, 48232], [1682121600000, 48232], [1682294400000, 46009], [1682380800000, 46009]],
+        'first': '2018-05-18',
+        'last': '2023-04-25',
+        'n': 16,
+    },
+    'TANK_VLCC_CEYHAN_USG': {
+        'label': 'CEYHAN/USG · WS',
+        'klass': 'VLCC',
+        'route': 'CEYHAN/USG',
+        'unit': 'ws',
+        'cadence': 'daily',
+        'pts': [[1526601600000, 45], [1554336000000, 55], [1583366400000, 50], [1611619200000, 37.5], [1641168000000, 45], [1670544000000, 82.5], [1703203200000, 58], [1736812800000, 62.5], [1767830400000, 62.5], [1787702400000, 217.5], [1787788800000, 215], [1787875200000, 212.5], [1788134400000, 212.5], [1788220800000, 215], [1788307200000, 217.5], [1788393600000, 230], [1788480000000, 235], [1788739200000, 240], [1788825600000, 250]],
+        'first': '2018-05-18',
+        'last': '2026-09-08',
+        'n': 19,
+    },
+    'TANK_DIRTY_MEG_JAPAN': {
+        'label': 'MEG/Japan (dirty) · WS',
+        'klass': 'Dirty',
+        'route': 'MEG/Japan',
+        'unit': 'ws',
+        'cadence': 'daily',
+        'pts': [[1549238400000, 44], [1703635200000, 55], [1782864000000, 275], [1783468800000, 320], [1784073600000, 400], [1784678400000, 385], [1785283200000, 385], [1785888000000, 400], [1786492800000, 500], [1787097600000, 510], [1787702400000, 600], [1788307200000, 650]],
+        'first': '2019-02-04',
+        'last': '2026-09-02',
+        'n': 12,
+    },
+    'TANK_WEEKLY_VLCC_VLCCS_AVAILABLE_IN_MEG_NEXT_30_DAYS': {
+        'label': 'VLCCs available in MEG next 30 days (weekly) · USD',
+        'klass': 'WEEKLY VLCC',
+        'route': 'VLCCs available in MEG next 30 days',
+        'unit': 'usd',
+        'cadence': 'weekly',
+        'pts': [[1549238400000, 130], [1702425600000, 175], [1782864000000, 123], [1783468800000, 110], [1784073600000, 99], [1784678400000, 101], [1785283200000, 113], [1785888000000, 120], [1786492800000, 112], [1787097600000, 103], [1787702400000, 90], [1788307200000, 80]],
+        'first': '2019-02-04',
+        'last': '2026-09-02',
+        'n': 12,
+    },
+    'COUNTS_BROKER_MEG_FIXTURE_COUNT': {
+        'label': 'MEG Fixture Count',
+        'klass': 'Counters',
+        'route': 'MEG Fixture Count',
+        'unit': 'count',
+        'cadence': 'weekly',
+        'pts': [[1654041600000, 152], [1764547200000, 146], [1767225600000, 157], [1769904000000, 153], [1772323200000, 128], [1775001600000, 65], [1777593600000, 73], [1780272000000, 117], [1782864000000, 160], [1785542400000, 128], [1788220800000, 74]],
+        'first': '2022-06-01',
+        'last': '2026-09-01',
+        'n': 11,
+    },
+    'TANK_1_YEAR_T_C_VLCC': {
+        'label': '1Y TC VLCC · USD',
+        'klass': '1 Year T/C',
+        'route': 'VLCC',
+        'unit': 'usd',
+        'cadence': 'daily',
+        'pts': [[1499644800000, 40500], [1684886400000, 42500], [1782864000000, 105000], [1783468800000, 115000], [1784073600000, 120000], [1784678400000, 115000], [1785283200000, 115000], [1785888000000, 117000], [1786492800000, 117000], [1787097600000, 120000], [1787702400000, 120000], [1788307200000, 130000]],
+        'first': '2017-07-10',
+        'last': '2026-09-02',
+        'n': 12,
+    },
+    'TANK_FUEL_OIL_VLCC_SKAW_SPORE': {
+        'label': 'Fuel Oil VLCC SKAW/SPORE · USD',
+        'klass': 'Fuel Oil',
+        'route': 'SKAW/SPORE',
+        'unit': 'usd',
+        'cadence': 'daily',
+        'pts': [[1526601600000, 3], [1554422400000, 3.8], [1583452800000, 4.8], [1611705600000, 3], [1641254400000, 3.75], [1670803200000, 8.4], [1703203200000, 5.7], [1736726400000, 5.2], [1767744000000, 6.5], [1787702400000, 22.75], [1787788800000, 22.5], [1787875200000, 22.5], [1788134400000, 22.5], [1788220800000, 22.6], [1788307200000, 22.7], [1788393600000, 25.5], [1788480000000, 27], [1788739200000, 27], [1788825600000, 27.5]],
+        'first': '2018-05-18',
+        'last': '2026-09-08',
+        'n': 19,
+    },
+    'DRY_CAPESIZE_TCE_CONT_FAR_EAST': {
+        'label': 'Capesize TCE Cont/Far East',
+        'klass': 'Capesize',
+        'route': 'Cont / Far East',
+        'unit': 'usd/day',
+        'pts': [[1725235200000, 57571], [1756771200000, 47156], [1787616000000, 75944], [1787702400000, 79333], [1787788800000, 79556], [1787875200000, 80417], [1788220800000, 82167], [1788307200000, 89167], [1788393600000, 91389], [1788480000000, 93111], [1788739200000, 93139], [1788825600000, 90833]],
+        'first': '2024-09-02',
+        'last': '2026-09-08',
+        'n': 12,
+        'tsid': 120655,
+    },
+    'DRY_CAPESIZE_AUSTRALIA_CHINA': {
+        'label': 'Capesize Australia/China',
+        'klass': 'Capesize',
+        'route': 'Australia / China',
+        'unit': 'usd/tonne',
+        'pts': [[920246400000, 3.1], [951782400000, 6.15], [982886400000, 5.644], [1014336000000, 4.061], [1046131200000, 7.243], [1077667200000, 17.133], [1109203200000, 17.478], [1140739200000, 11.8], [1172448000000, 16.205], [1203984000000, 26.105], [1235520000000, 8.841], [1267056000000, 9.083], [1298592000000, 6.588], [1330387200000, 7.918], [1362009600000, 7.214], [1393545600000, 9.5], [1425254400000, 4.432], [1456790400000, 2.936], [1488326400000, 5.421], [1519862400000, 6.423], [1551398400000, 4.841], [1583107200000, 5.123], [1614643200000, 7.418], [1646179200000, 10.436], [1678060800000, 8.09], [1710115200000, 14.535], [1741651200000, 10.06], [1773187200000, 11.67], [1787616000000, 14.47], [1787702400000, 15.245], [1787788800000, 15.545], [1787875200000, 16.18], [1788220800000, 15.34], [1788307200000, 16.505], [1788393600000, 17.98], [1788480000000, 18.958], [1788739200000, 18.21], [1788825600000, 18.52]],
+        'first': '1999-03-01',
+        'last': '2026-09-08',
+        'n': 38,
+        'tsid': 10002,
+    },
+    'DRY_SUPRAMAX_TRANSATLANTIC_RV_AVG': {
+        'label': 'Supramax Transatlantic RV (published avg)',
+        'klass': 'Supramax',
+        'route': 'Transatlantic Round Voyage',
+        'unit': 'usd/day',
+        'pts': [[1682985600000, 16554], [1714521600000, 16806], [1746057600000, 11279], [1777593600000, 19079], [1787616000000, 22492], [1787702400000, 22513], [1787788800000, 22532], [1787875200000, 22575], [1788220800000, 22544], [1788307200000, 22652], [1788393600000, 22929], [1788480000000, 23133], [1788739200000, 23186], [1788825600000, 23338]],
+        'first': '2023-05-02',
+        'last': '2026-09-08',
+        'n': 14,
+        'derivation': 'mean of TS 120132 + TS 120133, published-midpoint formula',
+    },
+}
+
+
+@pytest.fixture(scope="module")
+def tank_series():
+    return FIXTURE_SERIES["TANK_VLCC_MEG_FEAST"]
+
+
+@pytest.fixture(scope="module")
+def frozen_series():
+    return FIXTURE_SERIES["TANK_VLCC_MEG_FEAST_TCE"]
+
+
+def day_delta(s):
+    pts = s["pts"]
+    return pts[-1][1] - pts[-2][1], pts[-2], pts[-1]
+
+
+# ------------------------------------------------------------------ markers
+
+def test_both_daily_caches_fetched_at_load_time():
+    # wired into loadAllData exactly like the other caches (fetch, not embed)
+    assert "data/derived/fearnleys_tanker_routes_daily.json" in C
+    assert "data/derived/fearnleys_dry_routes_daily.json" in C
+    assert "tankerRoutesDailyPromise" in C and "dryRoutesDailyPromise" in C
+    # no inline embedding of the big JSON payloads (size safety)
+    assert '"pts":[[' not in C
+
+
+def test_no_rates_full_csv_in_tanker_routes_section():
+    # the S3 render function must not reference the monthly CSV at all
+    m = re.search(r"function renderFearnTank\(\).*?\nfunction setFearnTankKlass", C, re.S)
+    assert m, "renderFearnTank block not found"
+    block = m.group(0)
+    assert "fearnpulse_rates_full" not in block
+    assert "fearnSeriesCache()" not in block  # monthly cache untouchable in S3
+    # S3 renders the DAILY cache
+    assert "fearnleysTankerRoutesDaily" in block
+    # global refcount: S9 museum + S1 overview tooltips keep their monthly-cache
+    # notes, but the count must not grow back into S3
+    assert C.count("fearnpulse_rates_full") < 5
+
+
+def test_per_klass_tab_group_and_tiles():
+    for klass in ["VLCC", "Suezmax", "Aframax", "Dirty", "1 Year T/C", "Fuel Oil", "WEEKLY VLCC", "Counters"]:
+        assert f'data-tt-klass="{klass}"' in C or "'data-tklass'" in C
+    assert "fearnTankKlassTabs" in C
+    assert "fearnTankKlassSeries" in C
+    # tiles carry label + unit + last + delta + first/last + live/frozen badge
+    assert "fearn-tank-tile" in C
+    assert "fearnStatusBadgeLive" in C
+    assert "'LIVE'" in C and "'FROZEN'" in C
+
+
+def test_live_frozen_classification_cutoff_is_labeled():
+    m = re.search(r"var FROZEN_CUTOFF_MS = (\d+);[^\n]*", C)
+    assert m, "FROZEN_CUTOFF_MS design constant missing"
+    ms = int(m.group(1))
+    # design constant: 2026-08-01 UTC midnight
+    dt = datetime.fromtimestamp(ms / 1000, tz=timezone.utc)
+    assert (dt.year, dt.month, dt.day) == (2026, 8, 1)
+    assert "design constant" in m.group(0)
+    # frozen reason comes from the cache meta, verbatim channel
+    assert "derivation_notes" in C
+    assert "FDESK_TANKER_META.notes" in C
+
+
+def test_taxonomy_switch_disclosure_from_cache_meta():
+    # the UI must surface the cache's own wording (2023-05 taxonomy switch ->
+    # tce twins end 2023-04-25), never invent another reason
+    assert "derivation_notes" in C
+    # live/frozen tooltip explains frozen state via the meta notes
+    m = re.search(r"fearn-route-state", C)
+    assert m
+    assert "FDESK_TANKER_META" in C
+
+
+def test_day_delta_math_on_real_fixture(tank_series, frozen_series):
+    # live MEG/FEAST WS: real cache ends 660 (2026-09-07) -> 700 (2026-09-08)
+    d, prev, last = day_delta(tank_series)
+    assert prev[1] == 660 and last[1] == 700 and d == 40
+    assert epoch_iso(last[0]) == "2026-09-08" and epoch_iso(prev[0]) == "2026-09-07"
+    # frozen tce twin ends 0 -> 0 on 2023-04-24/25 (source publishes zeros)
+    d2, prev2, last2 = day_delta(frozen_series)
+    assert d2 == 0 and epoch_iso(last2[0]) == "2023-04-25"
+    # negative delta rehearsal from the dry fixture
+    dry = FIXTURE_SERIES["DRY_CAPESIZE_TCE_CONT_FAR_EAST"]
+    d3, prev3, last3 = day_delta(dry)
+    assert prev3[1] == 93139 and last3[1] == 90833
+    assert d3 == last3[1] - prev3[1] == -2306
+
+
+def test_dry_grid_series_and_first_dates():
+    assert "renderFearnDryGrid" in C
+    assert "fearnleysDryRoutesDaily" in C
+    # per-series first dates render in tile meta (never imply uniform depth)
+    assert "since ' + escapeHtml(String(s.first || ''))" in C
+    assert "launch dates differ per series" in C
+    # derived Supramax avg discloses its derivation channel
+    assert "s.derivation" in C
+    assert "derivation" in FIXTURE_SERIES["DRY_SUPRAMAX_TRANSATLANTIC_RV_AVG"]
+
+
+def test_section_framework_flow_preserved():
+    # 12 sub-sections; Newbuilding relocated to its own id 12
+    assert "{ id: 12, name: 'Newbuilding' }" in C
+    assert "{ id: 4,  name: 'Dry Routes' }" in C
+    assert "id=\"fearnSec12\"" in C
+    assert "if (id === 12)" in C
+    # hide/show loop covers all 12
+    assert "for (var i = 1; i <= 12; i++)" in C
+
+
+def test_error_state_not_fabricated():
+    assert "fearnErrorState" in C
+    assert "no fabricated values are shown" in C
+
+
+def test_click_through_daily_chart_and_hover_tooltips():
+    assert "openFearnTankChart" in C and "drawFearnTankChart" in C
+    assert "openFearnDryChart" in C and "drawFearnDryChart" in C
+    # chart tooltips: date title + labeled value, honest no-interpolation note
+    assert "title: function (c)" in C
+    assert "daily print, no interpolation" in C
+    # decimation is render-only: pointRadius 0 keeps the data daily
+    assert "pointRadius: 0" in C
+
+
+def test_tooltip_markers_on_every_new_element():
+    # tiles + klass tabs + chart wraps + selects + state badges
+    for marker in ["fearn-tank-tile", "fearn-dry-tile", "fearn-tank-klass-tab",
+                   "fearn-tank-chart", "fearn-dry-chart",
+                   "fearn-tank-chart-select", "fearn-dry-chart-select",
+                   "fearn-route-state"]:
+        assert f'data-tt-type="{marker}"' in C or f"'{marker}'" in C
+    # tooltip bus branches render labeled rows (Last / Day Delta / First / Last
+    # / Observations / Cadence / Unit) + the source line with built_utc
+    for label in ["Last", "Day Delta", "First Obs", "Last Obs",
+                  "Observations", "Cadence", "Unit", "State"]:
+        assert f">{label}</span>" in C, f"tooltip row label missing: {label}"
+    assert "fetched ' + escapeHtml(String(built))" in C or "fetched " in C
+    assert "Fearnleys via fearnpulse market-api" in C
+
+
+def test_coverage_restamp_after_subsection_render():
+    # sub-sections render late; renderFearnSection re-stamps coverage idempotently
+    assert "annotateCoverageGaps('fearnleys')" in C
+
+
+def test_no_hardcoded_route_values_in_new_code():
+    # scan the new S3/S4 JS for baked-in data numerals from the fixtures
+    m = re.search(r"function renderFearnTank\(\).*?function renderFearnDryGrid", C, re.S)
+    assert m
+    block = m.group(0)
+    # every displayed number must flow from the cache: the tile value slot and
+    # delta slot must use the formatter on parsed points, not literals
+    assert "fearnFmtVal(d.last)" in block
+    assert "fearnFmtVal(d.d)" in block
+    # fixture numerals must not appear as data assignments (CSS weights/sizes
+    # such as font-weight:700 or font-size:19px are design constants)
+    for lit in ["660", "90833", "93139", "23338", "23186", "46009"]:
+        pat = "(?<![\\w:.])" + lit + "(?![\\w;\"'])"
+        assert not re.search(pat, block), \
+            f"hardcoded data value {lit} leaked into new code"
+
+
+def test_fixture_caches_match_real_files_when_present():
+    if not TANKER_JSON.exists():
+        pytest.skip("tanker daily cache not built yet")
+    real = json.loads(TANKER_JSON.read_text(encoding="utf-8"))
+    mv = real["series"]["TANK_VLCC_MEG_FEAST"]
+    assert mv["pts"][-1] == [1788825600000, 700]
+    assert mv["pts"][-2] == [1788739200000, 660]
+    frozen = real["series"]["TANK_VLCC_MEG_FEAST_TCE"]
+    assert frozen["last"] == "2023-04-25"
+    if DRY_JSON.exists():
+        d = json.loads(DRY_JSON.read_text(encoding="utf-8"))
+        cape = d["series"]["CAPESIZE_TCE_CONT_FAR_EAST"]
+        assert cape["first"] == "2024-09-02"
+        assert d["series"]["CAPESIZE_AUSTRALIA_CHINA"]["first"] == "1999-03-01"
+        assert d["series"]["SUPRAMAX_TRANSATLANTIC_RV_AVG"].get("derivation")

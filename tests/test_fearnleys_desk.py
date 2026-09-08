@@ -81,7 +81,7 @@ def test_fearnleys_frontend_markers():
         "DATA.fearnGasExtra", "DATA.fearnFixturesTape", "DATA.fearnFixturesFacets",
         # audit facts encoded in UI copy
         "2Y/3Y weekly only since 2021", "Coverage 2024 forward",
-        "DAILY native", "discontinued ",
+        "Daily points, uninterpolated", "discontinued ",  # S3 badge rewritten daily-native (2026-09-09 Phase 2): old "DAILY native · plotted monthly" compression badge removed per plan
         # broker-desk rename (visible label only; ids stay fearn*)
         ">Broker Desk</button>", "aria-label=\"Broker Desk\"",
         # TC source toggle (one source at a time; archive stitching removed)
