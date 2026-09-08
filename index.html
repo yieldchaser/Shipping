@@ -5262,12 +5262,6 @@
       padding: 1px 6px;
       letter-spacing: 0.06em;
     }
-    .bunkers-prov {
-      font-size: 10px;
-      color: var(--text-muted);
-      font-family: 'IBM Plex Mono', monospace;
-      padding: 6px 2px 0 2px;
-    }
     /* BIX benchmark strip */
     .bix-strip-wrap {
       background: var(--card);
@@ -5330,7 +5324,22 @@
     .bix-g { font-size: 9px; color: var(--text-muted); font-weight: 700; letter-spacing: 0.05em; }
     .bix-d.up { color: var(--red); }
     .bix-d.dn { color: var(--green); }
-    .bix-chart-box { height: 110px; position: relative; margin-top: 8px; }
+    .bix-chart-box { height: 150px; position: relative; margin-top: 8px; }
+    .bix-chart-controls { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
+    .bix-chart-meta { font-size: 10px; color: var(--text-muted); font-family: 'IBM Plex Mono', monospace; margin-left: auto; cursor: help; }
+    .bix-arch-badge { margin-left: auto; font-size: 9px; font-family: 'IBM Plex Mono', monospace; color: #e3b341; background: rgba(227,179,65,0.1); border: 1px solid rgba(227,179,65,0.3); border-radius: 3px; padding: 1px 6px; cursor: help; white-space: nowrap; }
+    .bunkers-meta { font-size: 10px; color: var(--text-muted); margin-top: 8px; font-family: 'IBM Plex Mono', monospace; }
+    .bix-movers-wrap { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px; margin-bottom: 14px; }
+    .bix-movers-table { width: 100%; border-collapse: collapse; font-size: 11px; }
+    .bix-movers-table th { text-align: left; padding: 4px 8px; color: var(--text-muted); font-size: 10px; font-family: 'IBM Plex Mono', monospace; border-bottom: 1px solid var(--border); letter-spacing: 0.05em; }
+    .bix-movers-table td { padding: 4px 8px; border-bottom: 1px solid rgba(28,35,51,0.5); font-family: 'IBM Plex Mono', monospace; white-space: nowrap; }
+    .bix-movers-table tr:last-child td { border-bottom: none; }
+    .bix-movers-table tbody tr:hover td { background: rgba(163,113,247,0.05); }
+    .bix-mx { font-weight: 700; color: #fff; margin-right: 6px; }
+    .bix-mc { font-size: 10px; }
+    .bix-mc.up { color: var(--red); }
+    .bix-mc.dn { color: var(--green); }
+    .bix-mc.flat { color: var(--text-muted); }
     .bunkers-spark {
       font-family: 'IBM Plex Mono', monospace;
       color: #7a8494;
@@ -14202,8 +14211,6 @@ if (intelTabsContainer) {
 
       <!-- WORKSTATION (SPLIT PANE: LEFT TABLE/DIRECTORIES, RIGHT MAP/DRAWER) -->
       <div class="tracking-workstation">
-      <!-- WORKSTATION (SPLIT PANE: LEFT TABLE/DIRECTORIES, RIGHT MAP/DRAWER) -->
-      <div class="tracking-workstation">
         <!-- Left Pane: Lineup, Chokepoint Directory, Distance Tool -->
         <div class="tracking-left-pane">
           <div class="tracking-subview-nav">
@@ -14533,6 +14540,7 @@ if (intelTabsContainer) {
           </div>
         </div>
       </div>
+      </div><!-- /tracking-workstation -->
     </div><!-- /tab-tracking -->
 
     <div class="tab-panel" id="tab-bunkers">
@@ -14590,14 +14598,38 @@ if (intelTabsContainer) {
           <div class="bunkers-kpi-sub alert" id="bunkerKpiVolSub">-3.8% YoY · MPA Singapore 2026-07 Monthly Delivery</div>
         </div>
       </div>
-      <div class="bunkers-prov">PROVENANCE · levels + Δ live from kpis{} (bunker_frontend_summary.json, obs 2026-09-07): global Δ = daily composite 09-07 vs 09-03 · Hi-5 7D Δ = SG SS master 09-04 vs 08-28 · vol = MPA SG 2026-07 monthly, YoY vs 2025-07 · EU ETS €72.50 static screening assumption (no live feed).</div>
 
-      <!-- BIX BENCHMARK STRIP (benchmarks_bix: 5 indices × 3 grades, obs 2026-09-04) -->
+      <!-- BIX BENCHMARK ARCHIVE (BunkerIndex BIX suites: latest strip + full history chart + movers) -->
       <div class="bix-strip-wrap">
-        <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixHead">Bunker Index benchmarks · 5 regions × VLSFO / IFO380 / MGO · obs 2026-09-04</span></div>
+        <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixHead">BunkerIndex BIX benchmarks · 5 suites × VLSFO / IFO380 / MGO</span><span class="bix-arch-badge" id="bunkerBixArchBadge" data-tt-type="bix-archive-badge">Archive begins 2026-08-24 · accumulates with each daily harvest</span></div>
         <div class="bix-strip" id="bunkerBixStrip"><!-- Populated by renderBunkersBixStrip() --></div>
-        <div class="bix-chart-box"><canvas id="bunkerBixChart"></canvas></div>
-        <div class="bunkers-prov">Source: benchmarks_bix[] via bunker_bix_macro_benchmarks.csv · Δ = change_usd (change_pct) · hover chip = low_usd–high_usd range · chart = BIX_World VLSFO + IFO380, trailing 10 obs.</div>
+        <div class="bix-chart-controls">
+          <div class="cp-btn-group" id="bixRegionBtns">
+            <button class="cp-toggle-btn active" data-bixregion="World" onclick="setBixChartRegion('World')" data-tt-type="bix-region-btn" data-tt-region="World">World</button>
+            <button class="cp-toggle-btn" data-bixregion="World3" onclick="setBixChartRegion('World3')" data-tt-type="bix-region-btn" data-tt-region="World3">World3</button>
+            <button class="cp-toggle-btn" data-bixregion="APAC" onclick="setBixChartRegion('APAC')" data-tt-type="bix-region-btn" data-tt-region="APAC">APAC</button>
+            <button class="cp-toggle-btn" data-bixregion="EMEA" onclick="setBixChartRegion('EMEA')" data-tt-type="bix-region-btn" data-tt-region="EMEA">EMEA</button>
+            <button class="cp-toggle-btn" data-bixregion="Americas" onclick="setBixChartRegion('Americas')" data-tt-type="bix-region-btn" data-tt-region="Americas">Americas</button>
+            <button class="cp-toggle-btn" data-bixregion="MidGulf" onclick="setBixChartRegion('MidGulf')" data-tt-type="bix-region-btn" data-tt-region="MidGulf">MidGulf</button>
+          </div>
+          <div class="cp-btn-group" id="bixGradeBtns">
+            <button class="cp-toggle-btn active" data-bixgrade="VLSFO" onclick="setBixChartGrade('VLSFO')" data-tt-type="bix-grade-btn" data-tt-grade="VLSFO">VLSFO</button>
+            <button class="cp-toggle-btn" data-bixgrade="IFO380" onclick="setBixChartGrade('IFO380')" data-tt-type="bix-grade-btn" data-tt-grade="IFO380">IFO380</button>
+            <button class="cp-toggle-btn" data-bixgrade="MGO" onclick="setBixChartGrade('MGO')" data-tt-type="bix-grade-btn" data-tt-grade="MGO">MGO</button>
+          </div>
+          <span class="bix-chart-meta" id="bunkerBixChartMeta" data-tt-type="bix-chart">World · VLSFO</span>
+        </div>
+        <div class="bix-chart-box"><canvas id="bunkerBixChart" data-tt-type="bix-chart"></canvas></div>
+        <div class="bunkers-meta">Source: BunkerIndex BIX, 5 regions × 3 grades · changes vs prior observation · range chips = low-high across constituent ports · chart plots the full observation archive with region and grade selectors above.</div>
+      </div>
+
+      <!-- BIX REGIONAL MOVERS (every published suite × 3 grades, latest observation) -->
+      <div class="bix-movers-wrap">
+        <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixMoversHead">Regional movers · latest price and change vs prior observation</span><span class="bix-arch-badge" id="bunkerBixMoversObs" data-tt-type="bix-archive-badge">obs —</span></div>
+        <table class="bix-movers-table" data-tt-type="bix-movers">
+          <thead><tr><th>Region</th><th>VLSFO</th><th>IFO380</th><th>MGO</th></tr></thead>
+          <tbody id="bunkerBixMoversBody"><!-- Populated by renderBunkersBixMovers() --></tbody>
+        </table>
       </div>
 
       <!-- FILTER & SLICER TOOLBAR (BNKR idiom: amber rail, mono micro-labels) -->
@@ -14605,20 +14637,20 @@ if (intelTabsContainer) {
         <div class="bunkers-tool-left">
           <span class="bnkr-tag">BNKR</span>
           <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">REGION:</div>
-          <button class="bunkers-pill active" data-region="all" onclick="setBunkerRegion('all')">All Regions (221 Ports)</button>
-          <button class="bunkers-pill" data-region="APAC" onclick="setBunkerRegion('APAC')">Asia-Pacific (APAC)</button>
-          <button class="bunkers-pill" data-region="EMEA" onclick="setBunkerRegion('EMEA')">Europe, MidEast, Africa</button>
-          <button class="bunkers-pill" data-region="Americas" onclick="setBunkerRegion('Americas')">Americas</button>
+          <button class="bunkers-pill active" data-region="all" onclick="setBunkerRegion('all')" data-tt-type="bunker-region-btn" data-tt-region="all">All Regions (221 Ports)</button>
+          <button class="bunkers-pill" data-region="APAC" onclick="setBunkerRegion('APAC')" data-tt-type="bunker-region-btn" data-tt-region="APAC">Asia-Pacific (APAC)</button>
+          <button class="bunkers-pill" data-region="EMEA" onclick="setBunkerRegion('EMEA')" data-tt-type="bunker-region-btn" data-tt-region="EMEA">Europe, MidEast, Africa</button>
+          <button class="bunkers-pill" data-region="Americas" onclick="setBunkerRegion('Americas')" data-tt-type="bunker-region-btn" data-tt-region="Americas">Americas</button>
 
           <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:12px; margin-right:4px;">GRADE:</div>
-          <button class="bunkers-pill active" data-grade="all" onclick="setBunkerGrade('all')">All Grades</button>
-          <button class="bunkers-pill" data-grade="VLSFO" onclick="setBunkerGrade('VLSFO')">VLSFO</button>
-          <button class="bunkers-pill" data-grade="MGO" onclick="setBunkerGrade('MGO')">MGO</button>
-          <button class="bunkers-pill" data-grade="IFO380" onclick="setBunkerGrade('IFO380')">HSFO</button>
-          <button class="bunkers-pill" data-grade="BIO" onclick="setBunkerGrade('BIO')">Biofuels</button>
+          <button class="bunkers-pill active" data-grade="all" onclick="setBunkerGrade('all')" data-tt-type="bunker-grade-btn" data-tt-grade="all">All Grades</button>
+          <button class="bunkers-pill" data-grade="VLSFO" onclick="setBunkerGrade('VLSFO')" data-tt-type="bunker-grade-btn" data-tt-grade="VLSFO">VLSFO</button>
+          <button class="bunkers-pill" data-grade="MGO" onclick="setBunkerGrade('MGO')" data-tt-type="bunker-grade-btn" data-tt-grade="MGO">MGO</button>
+          <button class="bunkers-pill" data-grade="IFO380" onclick="setBunkerGrade('IFO380')" data-tt-type="bunker-grade-btn" data-tt-grade="IFO380">HSFO</button>
+          <button class="bunkers-pill" data-grade="BIO" onclick="setBunkerGrade('BIO')" data-tt-type="bunker-grade-btn" data-tt-grade="BIO">Biofuels</button>
         </div>
         <div class="bunkers-tool-right">
-          <input type="text" id="bunkersSearchInput" class="bunkers-input" placeholder="Search port, country, code..." oninput="onBunkersSearchInput()">
+          <input type="text" id="bunkersSearchInput" class="bunkers-input" placeholder="Search port, country, code..." oninput="onBunkersSearchInput()" data-tt-type="bunker-search">
         </div>
       </div>
 
@@ -14627,19 +14659,19 @@ if (intelTabsContainer) {
         <!-- Left Pane: 4 Subviews -->
         <div class="bunkers-left-pane">
           <div class="bunkers-subview-nav">
-            <button id="subnavBunkersSpot" class="bunkers-subview-btn active" onclick="setBunkersSubView('spot')" data-tooltip="Global spot bunker prices across 221 ports covering VLSFO, MGO, and HSFO.">
+            <button id="subnavBunkersSpot" class="bunkers-subview-btn active" onclick="setBunkersSubView('spot')" data-tt-type="bunker-subtab" data-tt-view="spot" data-tooltip="Global spot bunker prices across 221 ports covering VLSFO, MGO, and HSFO.">
               Spot Prices (221)
             </button>
-            <button id="subnavBunkersForward" class="bunkers-subview-btn" onclick="setBunkersSubView('forward')" data-tooltip="12-month forward derivative price curves and Hi-5 spreads across key bunkering hubs.">
+            <button id="subnavBunkersForward" class="bunkers-subview-btn" onclick="setBunkersSubView('forward')" data-tt-type="bunker-subtab" data-tt-view="forward" data-tooltip="12-month forward derivative price curves and Hi-5 spreads across key bunkering hubs.">
               12M Forward Curves
             </button>
-            <button id="subnavBunkersVolumes" class="bunkers-subview-btn" onclick="setBunkersSubView('volumes')" data-tooltip="Monthly bunker sales volumes, grade breakdown, and demand trends in major bunkering hubs.">
+            <button id="subnavBunkersVolumes" class="bunkers-subview-btn" onclick="setBunkersSubView('volumes')" data-tt-type="bunker-subtab" data-tt-view="volumes" data-tooltip="Monthly bunker sales volumes, grade breakdown, and demand trends in major bunkering hubs.">
               Physical Volumes
             </button>
-            <button id="subnavBunkersScrubber" class="bunkers-subview-btn" onclick="setBunkersSubView('scrubber')" data-tooltip="Scrubber premium payback economics, Hi-5 spreads, and EU ETS carbon compliance costs.">
+            <button id="subnavBunkersScrubber" class="bunkers-subview-btn" onclick="setBunkersSubView('scrubber')" data-tt-type="bunker-subtab" data-tt-view="scrubber" data-tooltip="Scrubber premium payback economics, Hi-5 spreads, and EU ETS carbon compliance costs.">
               Scrubber &amp; EU ETS
             </button>
-            <button id="subnavBunkersAltfuels" class="bunkers-subview-btn" onclick="setBunkersSubView('altfuels')" data-tooltip="Verified LNG, methanol and EUA carbon indications — non-null ports only, never zero-filled.">
+            <button id="subnavBunkersAltfuels" class="bunkers-subview-btn" onclick="setBunkersSubView('altfuels')" data-tt-type="bunker-subtab" data-tt-view="altfuels" data-tooltip="Verified LNG, methanol and EUA carbon indications — non-null ports only, never zero-filled.">
               Alt Fuels (LNG·MEOH·EUA)
             </button>
           </div>
@@ -14681,7 +14713,7 @@ if (intelTabsContainer) {
           <div id="bunkersSubviewForward" class="bunkers-subview-content" style="display:none;">
             <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
               <div style="font-size:11px; font-weight:600; color:var(--text-muted);">FORWARD HUB:</div>
-              <select id="bunkersForwardHubSelect" class="tracking-select" onchange="onBunkersForwardHubChange()" data-tooltip="Select forward pricing terminal benchmark.">
+              <select id="bunkersForwardHubSelect" class="tracking-select" onchange="onBunkersForwardHubChange()" data-tt-type="bunker-forward-hub" data-tooltip="Select forward pricing terminal benchmark.">
                 <option value="Singapore" selected>Singapore (Global Bunker Benchmark)</option>
                 <option value="Rotterdam">Rotterdam (ARA Range)</option>
                 <option value="Fujairah">Fujairah (Middle East Gulf)</option>
@@ -14715,7 +14747,7 @@ if (intelTabsContainer) {
           <div id="bunkersSubviewVolumes" class="bunkers-subview-content" style="display:none;">
             <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
               <div style="font-size:11px; font-weight:600; color:var(--text-muted);">DELIVERY PORT — <span style="color:#e3b341;">2 PORTS ONLY</span> (SG monthly · RTM quarterly):</div>
-              <select id="bunkersVolHubSelect" class="tracking-select" onchange="onBunkersVolHubChange()" data-tooltip="Select bunker volume reporting port authority.">
+              <select id="bunkersVolHubSelect" class="tracking-select" onchange="onBunkersVolHubChange()" data-tt-type="bunker-vol-hub" data-tooltip="Select bunker volume reporting port authority.">
                 <option value="Singapore" selected>Singapore (MPA Official Volumes)</option>
                 <option value="Rotterdam">Rotterdam (Port Authority Deliveries)</option>
               </select>
@@ -14762,7 +14794,7 @@ if (intelTabsContainer) {
               </table>
             </div>
             <div style="font-size:10px; color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
-              Source: DATA.bunkerSummary ports[].lng/.meoh/.eua/.bio (Ship &amp; Bunker RPC) · '—' = null (no verified indication), never 0-filled.
+              Source: Ship &amp; Bunker RPC verified alt-fuel indications · dash = no verified quote, never zero-filled.
             </div>
           </div>
 
@@ -14785,7 +14817,7 @@ if (intelTabsContainer) {
               </table>
             </div>
             <div style="font-size:10px; color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
-              Capesize assumed at 45 MT/d burn; VLCC at 55 MT/d burn; EU ETS @ €72.50/MT CO2
+              Burn-rate assumptions: Capesize 45 MT/d, VLCC 55 MT/d · EU ETS priced at a €72.50/MT CO2 static screening assumption
             </div>
           </div>
         </div>
@@ -40348,6 +40380,7 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Carbon Allowance</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scope</span><span class="rt-val">EU MRV Shipping Voyages (5,000+ GT)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Phase-In Schedule</span><span class="rt-val">40% in 2024, 70% in 2025, 100% in 2026</span></div>`;
+            html += `<div class="rt-note">EUA level is a static screening assumption — no live carbon feed is wired yet. The daily voyage penalty derives from it.</div>`;
             html += `<div class="rt-note">Vessels sailing to, from, or between EU ports must surrender European Union Allowances (EUAs) for 3.114 tonnes of CO2 emitted per tonne of bunker fuel consumed.</div>`;
           } else if (grade === 'VOL') {
             const val = k ? (k.singapore_monthly_vol_mt / 1000000).toFixed(2) + 'M MT' : '4.50M MT';
@@ -40357,6 +40390,200 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Official Source</span><span class="rt-val">Maritime and Port Authority of Singapore (MPA)</span></div>`;
             html += `<div class="rt-note">Official physical monthly delivered sales volume statistics across Singapore anchorage bunkering berths.</div>`;
           }
+        }
+        else if (type === 'bunker-region-btn') {
+          const region = target.getAttribute('data-tt-region');
+          const summary = window.DATA && DATA.bunkerSummary;
+          const ports = summary && summary.ports ? summary.ports : [];
+          const n = region === 'all' ? ports.length : ports.filter(p => p.region === region).length;
+          const name = region === 'all' ? 'All Regions' : region;
+          html = `<div class="rt-title">Region Filter — ${name}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ports Quoting</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${n} of ${ports.length}</span></div>`;
+          html += `<div class="rt-note">Filters the spot table, map pins and the chart port list. Regional benchmark averages stay selectable in the price-history chart.</div>`;
+        }
+        else if (type === 'bunker-grade-btn') {
+          const grade = target.getAttribute('data-tt-grade');
+          const summary = window.DATA && DATA.bunkerSummary;
+          const ports = summary && summary.ports ? summary.ports : [];
+          const key = grade === 'IFO380' ? 'ifo380' : grade.toLowerCase();
+          const n = grade === 'all' ? ports.length : ports.filter(p => p[key] != null).length;
+          const names = { all: 'All Grades', VLSFO: 'VLSFO (0.5% S)', MGO: 'MGO (0.1% S)', IFO380: 'HSFO / IFO380 (3.5% S)', BIO: 'Biofuel B24 blend' };
+          html = `<div class="rt-title">Grade Filter — ${names[grade] || grade}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ports Quoting</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${n} of ${ports.length}</span></div>`;
+          html += `<div class="rt-note">Shows only ports with a live quote for this grade; ports without it are hidden, never zero-filled.</div>`;
+        }
+        else if (type === 'bunker-subtab') {
+          const view = target.getAttribute('data-tt-view');
+          const summary = window.DATA && DATA.bunkerSummary;
+          const cov = {
+            spot: [(summary && summary.ports ? summary.ports.length : 221) + ' ports · VLSFO / MGO / HSFO with spread vs Singapore and a 12-month sparkline'],
+            forward: [(summary && summary.forward_curves_12m ? Object.keys(summary.forward_curves_12m).length : 6) + ' hub curves · 12 monthly tenors · IFO380 / VLSFO / MGO / Hi-5'],
+            volumes: ['Singapore monthly (MPA) and Rotterdam quarterly (Port Authority) — the only ports publishing verified physical volumes'],
+            scrubber: [(summary && summary.scrubber_economics ? summary.scrubber_economics.length : 0) + ' ports · Hi-5 spread, Cape / VLCC TCE bonus, EU ETS cost per MT'],
+            altfuels: [(summary && summary.ports ? summary.ports.filter(p => p.lng != null || p.meoh != null || p.eua != null).length : 0) + ' ports with verified LNG / methanol / EUA indications']
+          }[view] || [''];
+          html = `<div class="rt-title">Bunkers Workspace</div>`;
+          if (cov[0]) html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${cov[0]}</span></div>`;
+          html += `<div class="rt-note">Click to switch the left-pane workspace. All values come from the daily bunker harvest cache.</div>`;
+        }
+        else if (type === 'bunker-search') {
+          const summary = window.DATA && DATA.bunkerSummary;
+          const ports = summary && summary.ports ? summary.ports : [];
+          const box = document.getElementById('bunkersSearchInput');
+          const q = ((box && box.value) || '').trim().toLowerCase();
+          const n = q ? ports.filter(p => (p.name + ' ' + (p.country || '') + ' ' + (p.code || '')).toLowerCase().includes(q)).length : ports.length;
+          html = `<div class="rt-title">Port Search</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Current Matches</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${n} of ${ports.length} ports</span></div>`;
+          html += `<div class="rt-note">Filters the table and map pins live by port name, country or code.</div>`;
+        }
+        else if (type === 'bunker-forward-hub') {
+          const summary = window.DATA && DATA.bunkerSummary;
+          const n = summary && summary.forward_curves_12m ? Object.keys(summary.forward_curves_12m).length : 6;
+          html = `<div class="rt-title">Forward Curve Hub</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">${n} hubs · 12 monthly tenors each</span></div>`;
+          html += `<div class="rt-note">Switches the forward swap table between Singapore, Rotterdam, Fujairah, Busan, Hong Kong and Kaohsiung.</div>`;
+        }
+        else if (type === 'bunker-vol-hub') {
+          html = `<div class="rt-title">Volume Reporting Port</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">Singapore monthly · Rotterdam quarterly</span></div>`;
+          html += `<div class="rt-note">Only these two port authorities publish verified physical bunker deliveries.</div>`;
+        }
+        else if (type === 'bunker-map-pin') {
+          const port = target.getAttribute('data-tt-port') || 'Port';
+          const region = target.getAttribute('data-tt-region') || '';
+          const date = target.getAttribute('data-tt-date') || '';
+          const chg = parseFloat(target.getAttribute('data-tt-chg7d'));
+          html = `<div class="rt-title">${port}${region ? ' · ' + region : ''}</div>`;
+          [['vlsfo', 'VLSFO (0.5%)'], ['mgo', 'MGO (0.1%)'], ['ifo380', 'HSFO (IFO380)']].forEach(([k, label]) => {
+            const v = parseFloat(target.getAttribute('data-tt-' + k));
+            if (!isNaN(v) && v > 0) html += `<div class="rt-row"><span class="rt-label">${label}</span><span class="rt-val" style="font-weight:700;">$${v.toFixed(2)}/MT</span></div>`;
+          });
+          if (!isNaN(chg)) html += `<div class="rt-row"><span class="rt-label">7-Day Change</span><span class="rt-val ${chg <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${chg > 0 ? '+' : ''}${chg.toFixed(2)} $/MT</span></div>`;
+          if (date) html += `<div class="rt-row"><span class="rt-label">Observation</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${date}</span></div>`;
+          html += `<div class="rt-note">Grades without a verified quote are omitted. Click the pin to load the port price-history chart.</div>`;
+        }
+        else if (type === 'bix-chip' || type === 'bix-movers-cell') {
+          const region = target.getAttribute('data-tt-region') || '';
+          const grade = target.getAttribute('data-tt-grade') || '';
+          const price = parseFloat(target.getAttribute('data-tt-price'));
+          const chg = parseFloat(target.getAttribute('data-tt-chg'));
+          const pct = parseFloat(target.getAttribute('data-tt-pct'));
+          const low = parseFloat(target.getAttribute('data-tt-low'));
+          const high = parseFloat(target.getAttribute('data-tt-high'));
+          const date = target.getAttribute('data-tt-date') || '';
+          html = `<div class="rt-title">BunkerIndex BIX ${region} · ${grade}</div>`;
+          if (!isNaN(price)) html += `<div class="rt-row"><span class="rt-label">Latest</span><span class="rt-val" style="color:#3fb950;font-weight:700;">$${price.toFixed(2)}/MT</span></div>`;
+          if (!isNaN(chg)) html += `<div class="rt-row"><span class="rt-label">Change vs Prior Obs</span><span class="rt-val ${chg <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${chg > 0 ? '+' : ''}${chg.toFixed(2)} $/MT${!isNaN(pct) ? ' (' + (pct > 0 ? '+' : '') + pct.toFixed(2) + '%)' : ''}</span></div>`;
+          if (!isNaN(low) && !isNaN(high)) html += `<div class="rt-row"><span class="rt-label">Range Across Constituent Ports</span><span class="rt-val">$${low.toFixed(0)} – $${high.toFixed(0)}/MT</span></div>`;
+          if (date) html += `<div class="rt-row"><span class="rt-label">Observation</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${date}</span></div>`;
+          html += `<div class="rt-note">BunkerIndex BIX benchmark suite. The full history plots in the chart above the movers table.</div>`;
+        }
+        else if (type === 'bix-region-card') {
+          const region = target.getAttribute('data-tt-region') || '';
+          const summary = window.DATA && DATA.bunkerSummary;
+          const bix = summary && summary.benchmarks_bix ? summary.benchmarks_bix : [];
+          html = `<div class="rt-title">BunkerIndex BIX ${region} Suite</div>`;
+          ['VLSFO', 'IFO380', 'MGO'].forEach(g => {
+            let best = null;
+            bix.forEach(r => { if (r.index === 'BIX_' + region && r.grade === g && (!best || r.date > best.date)) best = r; });
+            if (best) {
+              const cs = best.change > 0 ? 'neg' : 'pos';
+              html += `<div class="rt-row"><span class="rt-label">${g}</span><span class="rt-val ${cs}" style="font-weight:700;">$${best.price.toFixed(2)} · ${best.change > 0 ? '+' : ''}${best.change.toFixed(2)} vs prior</span></div>`;
+            }
+          });
+          html += `<div class="rt-note">Latest observation per grade from the BunkerIndex BIX harvest · range chips on each grade show the low-high across constituent ports.</div>`;
+        }
+        else if (type === 'bix-region-btn') {
+          const region = target.getAttribute('data-tt-region') || '';
+          const summary = window.DATA && DATA.bunkerSummary;
+          const bh = summary && summary.bix_history ? summary.bix_history : null;
+          const s = bh && bh.series ? (bh.series['BIX_' + region] || {}) : {};
+          let n = 0;
+          const grades = [];
+          ['VLSFO', 'IFO380', 'MGO'].forEach(g => {
+            const gd = s[g];
+            if (gd && gd.dates && gd.dates.length) { n += gd.dates.length; grades.push(g); }
+          });
+          html = `<div class="rt-title">BIX Archive — ${region}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Archive Coverage</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${grades.length ? grades.join(' / ') : 'no grades yet'} · ${n} observations</span></div>`;
+          html += `<div class="rt-note">Plots the full ${region} index archive. Suites with no published observations yet (MidGulf) show an honest empty state.</div>`;
+        }
+        else if (type === 'bix-grade-btn') {
+          const grade = target.getAttribute('data-tt-grade') || '';
+          const summary = window.DATA && DATA.bunkerSummary;
+          const bh = summary && summary.bix_history ? summary.bix_history : null;
+          const gd = bh && bh.series ? ((bh.series['BIX_' + bixChartRegion] || {})[grade] || null) : null;
+          html = `<div class="rt-title">BIX Grade — ${grade}</div>`;
+          if (gd && gd.dates && gd.dates.length) {
+            const last = gd.prices[gd.prices.length - 1];
+            const chg = gd.change_usd[gd.change_usd.length - 1];
+            html += `<div class="rt-row"><span class="rt-label">${bixChartRegion} Archive</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${gd.dates.length} observations · ${gd.dates[0]} → ${gd.dates[gd.dates.length - 1]}</span></div>`;
+            if (isFinite(last)) html += `<div class="rt-row"><span class="rt-label">Latest</span><span class="rt-val" style="font-weight:700;">$${last.toFixed(2)}/MT${isFinite(chg) ? ' · ' + (chg > 0 ? '+' : '') + chg.toFixed(2) + ' vs prior obs' : ''}</span></div>`;
+          } else {
+            html += `<div class="rt-row"><span class="rt-label">${bixChartRegion} Archive</span><span class="rt-val">no observations yet</span></div>`;
+          }
+          html += `<div class="rt-note">VLSFO = 0.5% S · IFO380 = 3.5% S high sulphur · MGO = 0.1% S distillate. Prices in USD per metric tonne.</div>`;
+        }
+        else if (type === 'bix-chart') {
+          const summary = window.DATA && DATA.bunkerSummary;
+          const bh = summary && summary.bix_history ? summary.bix_history : null;
+          const gd = bh && bh.series ? ((bh.series['BIX_' + bixChartRegion] || {})[bixChartGrade] || null) : null;
+          const label = (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' ' + bixChartGrade;
+          html = `<div class="rt-title">${label} — Full Archive</div>`;
+          if (gd && gd.dates && gd.dates.length) {
+            const last = gd.prices[gd.prices.length - 1];
+            const chg = gd.change_usd[gd.change_usd.length - 1];
+            html += `<div class="rt-row"><span class="rt-label">Observations</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${gd.dates.length} · ${gd.dates[0]} → ${gd.dates[gd.dates.length - 1]}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Latest</span><span class="rt-val" style="font-weight:700;">$${last.toFixed(2)}/MT · ${chg > 0 ? '+' : ''}${chg.toFixed(2)} vs prior obs</span></div>`;
+          } else {
+            html += `<div class="rt-row"><span class="rt-label">Archive</span><span class="rt-val">no observations yet</span></div>`;
+          }
+          html += `<div class="rt-note">Hover the line for per-observation values and the low-high range across constituent ports where published. The archive appends with each scheduled harvest.</div>`;
+        }
+        else if (type === 'bix-archive-badge') {
+          const summary = window.DATA && DATA.bunkerSummary;
+          const bh = summary && summary.bix_history ? summary.bix_history : null;
+          const dates = new Set();
+          let nSeries = 0;
+          if (bh && bh.series) {
+            Object.keys(bh.series).forEach(ix => {
+              Object.keys(bh.series[ix]).forEach(g => {
+                const gd = bh.series[ix][g];
+                if (gd && gd.dates && gd.dates.length) { nSeries++; gd.dates.forEach(d => dates.add(d)); }
+              });
+            });
+          }
+          const sorted = [...dates].sort();
+          html = `<div class="rt-title">BIX History Archive</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Observation Days</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${sorted.length}</span></div>`;
+          if (sorted.length) html += `<div class="rt-row"><span class="rt-label">Archive Span</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${sorted[0]} → ${sorted[sorted.length - 1]}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Series Kept</span><span class="rt-val">${nSeries} (suite × grade)</span></div>`;
+          html += `<div class="rt-note">The archive appends with each scheduled bunker harvest; the chart above always plots the entire archive, never a trailing window.</div>`;
+        }
+        else if (type === 'bix-movers') {
+          const summary = window.DATA && DATA.bunkerSummary;
+          const bix = summary && summary.benchmarks_bix ? summary.benchmarks_bix : [];
+          let obs = '';
+          bix.forEach(r => { if (!obs || r.date > obs) obs = r.date; });
+          html = `<div class="rt-title">BIX Regional Movers</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val" style="color:var(--accent);font-weight:700;">every published suite × VLSFO / IFO380 / MGO · obs ${obs}</span></div>`;
+          html += `<div class="rt-note">Latest price and change vs prior observation per suite. Green = cheaper, red = dearer. Hover any cell for the full detail.</div>`;
+        }
+        else if (type === 'bix-movers-row') {
+          const region = target.getAttribute('data-tt-region') || '';
+          const summary = window.DATA && DATA.bunkerSummary;
+          const bix = summary && summary.benchmarks_bix ? summary.benchmarks_bix : [];
+          html = `<div class="rt-title">BunkerIndex BIX ${region}</div>`;
+          ['VLSFO', 'IFO380', 'MGO'].forEach(g => {
+            let best = null;
+            bix.forEach(r => { if (r.index === 'BIX_' + region && r.grade === g && (!best || r.date > best.date)) best = r; });
+            if (best) {
+              const pct = (typeof best.change_pct === 'number' && isFinite(best.change_pct)) ? ' (' + (best.change_pct > 0 ? '+' : '') + best.change_pct.toFixed(2) + '%)' : '';
+              const cs = best.change > 0 ? 'neg' : 'pos';
+              html += `<div class="rt-row"><span class="rt-label">${g}</span><span class="rt-val ${cs}" style="font-weight:700;">$${best.price.toFixed(2)} · ${best.change > 0 ? '+' : ''}${best.change.toFixed(2)}${pct}</span></div>`;
+            }
+          });
+          html += `<div class="rt-note">Suite names as published by BunkerIndex. Green = cheaper, red = dearer.</div>`;
         }
         else if (type === 'bunker-port-cell') {
           const port = target.getAttribute('data-tt-port') || 'Port';
@@ -41068,7 +41295,12 @@ function plotBunkerPortMarkers() {
     if (p.region === 'APAC') colorClass = 'bunkers-pin-apac';
     else if (p.region === 'Americas') colorClass = 'bunkers-pin-americas';
 
-    var iconHtml = '<div class="' + colorClass + '" style="width:10px; height:10px; cursor:pointer;" title="' + escapeHtml(p.name) + '"></div>';
+    var pinAttrs = ' data-tt-type="bunker-map-pin" data-tt-port="' + escapeHtml(p.name) + '" data-tt-region="' + escapeHtml(p.region || '') + '" data-tt-date="' + escapeHtml(p.latest_date || '') + '"' +
+      (p.vlsfo != null ? ' data-tt-vlsfo="' + p.vlsfo + '"' : '') +
+      (p.mgo != null ? ' data-tt-mgo="' + p.mgo + '"' : '') +
+      (p.ifo380 != null ? ' data-tt-ifo380="' + p.ifo380 + '"' : '') +
+      (p.change_7d != null && isFinite(p.change_7d) ? ' data-tt-chg7d="' + p.change_7d + '"' : '');
+    var iconHtml = '<div class="' + colorClass + '" style="width:10px; height:10px; cursor:pointer;"' + pinAttrs + '></div>';
 
     var customIcon = L.divIcon({
       className: 'bunker-port-pin-icon',
@@ -41469,11 +41701,31 @@ function onBunkersVolHubChange() {
   renderBunkersVolumesTable();
 }
 
+var bixChartRegion = 'World';
+var bixChartGrade = 'VLSFO';
 var bunkerBixChartInstance = null;
+var BIX_REGION_LABELS = { World: 'World', World3: 'World 3-Port', APAC: 'APAC', EMEA: 'EMEA', Americas: 'Americas', MidGulf: 'MidGulf' };
+var BIX_GRADE_COLORS = { VLSFO: '#3fb950', IFO380: '#4d9aff', MGO: '#e3b341' };
+var BIX_GRADE_FILLS = { VLSFO: 'rgba(63,185,80,0.07)', IFO380: 'rgba(77,154,255,0.07)', MGO: 'rgba(227,179,65,0.07)' };
+
+function setBixChartRegion(region) {
+  bixChartRegion = region;
+  var wrap = document.getElementById('bixRegionBtns');
+  if (wrap) wrap.querySelectorAll('.cp-toggle-btn').forEach(function(b) { b.classList.toggle('active', b.dataset.bixregion === region); });
+  renderBunkerBixChart();
+}
+
+function setBixChartGrade(grade) {
+  bixChartGrade = grade;
+  var wrap = document.getElementById('bixGradeBtns');
+  if (wrap) wrap.querySelectorAll('.cp-toggle-btn').forEach(function(b) { b.classList.toggle('active', b.dataset.bixgrade === grade); });
+  renderBunkerBixChart();
+}
 
 function renderBunkersBixStrip() {
-  // BIX benchmark strip + chart straight from summary.benchmarks_bix
-  // (change_usd/change_pct/low_usd/high_usd provenance). No fabricated prices.
+  // BIX latest-observation strip: every published suite x 3 grades, straight
+  // from summary.benchmarks_bix (price / change / change_pct / low-high).
+  // No fabricated prices; missing percentages render an honest em dash.
   var host = document.getElementById('bunkerBixStrip');
   if (!host) return;
   var summary = DATA.bunkerSummary;
@@ -41492,52 +41744,142 @@ function renderBunkersBixStrip() {
   var obsDate = '';
   var html = '';
   order.forEach(function(ix) {
-    html += '<div class="bix-chip-group"><div class="bix-chip-ix">' + escapeHtml(ix.replace('BIX_', '')) + '</div>';
+    var safeIx = ix.replace('BIX_', '');
+    html += '<div class="bix-chip-group" data-tt-type="bix-region-card" data-tt-region="' + safeIx + '"><div class="bix-chip-ix">' + escapeHtml(safeIx) + '</div>';
     grades.forEach(function(g) {
       var r = latest[ix + '|' + g];
       if (!r) return;
       if (!obsDate || r.date > obsDate) obsDate = r.date;
       var cls = r.change > 0 ? 'up' : (r.change < 0 ? 'dn' : '');
       var sgn = r.change > 0 ? '+' : '';
-      var psgn = r.change_pct > 0 ? '+' : '';
-      html += '<div class="bix-chip" title="' + escapeHtml(ix + ' ' + g + ' · obs ' + r.date + ' · 30D range $' + r.low.toFixed(0) + '–$' + r.high.toFixed(0) + ' (low_usd–high_usd)') + '">' +
+      var pct = (typeof r.change_pct === 'number' && isFinite(r.change_pct))
+        ? (r.change_pct > 0 ? '+' : '') + r.change_pct.toFixed(2) + '%'
+        : '\u2014';
+      html += '<div class="bix-chip" data-tt-type="bix-chip" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + r.price + '" data-tt-chg="' + r.change + '" data-tt-pct="' + (typeof r.change_pct === 'number' && isFinite(r.change_pct) ? r.change_pct : '') + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '" data-tt-date="' + r.date + '">' +
         '<span class="bix-g">' + escapeHtml(g) + '</span>' +
         '<span class="bix-p">$' + r.price.toFixed(2) + '</span>' +
-        '<span class="bix-d ' + cls + '">' + sgn + r.change.toFixed(2) + ' (' + psgn + r.change_pct.toFixed(2) + '%)</span></div>';
+        '<span class="bix-d ' + cls + '">' + sgn + r.change.toFixed(2) + ' (' + pct + ')</span></div>';
     });
     html += '</div>';
   });
   host.innerHTML = html;
   var head = document.getElementById('bunkerBixHead');
-  if (head && obsDate) head.textContent = 'Bunker Index benchmarks · 5 regions × VLSFO / IFO380 / MGO · obs ' + obsDate;
+  if (head && obsDate) head.textContent = 'BunkerIndex BIX benchmarks \u00b7 5 suites \u00d7 VLSFO / IFO380 / MGO \u00b7 obs ' + obsDate;
+  var moversObs = document.getElementById('bunkerBixMoversObs');
+  if (moversObs && obsDate) moversObs.textContent = 'obs ' + obsDate;
+  renderBunkersBixMovers();
   renderBunkerBixChart();
 }
 
+function renderBunkersBixMovers() {
+  // Dense movers matrix: every published suite x 3 grades, latest price and
+  // change vs prior observation, colored by direction. Suites with no
+  // published grades are omitted entirely (never blank cells).
+  var tbody = document.getElementById('bunkerBixMoversBody');
+  if (!tbody) return;
+  var summary = DATA.bunkerSummary;
+  var bix = summary && summary.benchmarks_bix ? summary.benchmarks_bix : [];
+  tbody.innerHTML = '';
+  if (!bix.length) {
+    tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:10px; color:var(--text-muted);">No BIX benchmark data in cache.</td></tr>';
+    return;
+  }
+  var order = ['BIX_World', 'BIX_World3', 'BIX_APAC', 'BIX_EMEA', 'BIX_Americas'];
+  var grades = ['VLSFO', 'IFO380', 'MGO'];
+  var latest = {};
+  bix.forEach(function(r) {
+    var k = r.index + '|' + r.grade;
+    if (!latest[k] || r.date > latest[k].date) latest[k] = r;
+  });
+  var html = '';
+  order.forEach(function(ix) {
+    var safeIx = ix.replace('BIX_', '');
+    var cells = '';
+    var any = false;
+    grades.forEach(function(g) {
+      var r = latest[ix + '|' + g];
+      if (!r) { cells += '<td style="color:var(--text-muted);">\u2014</td>'; return; }
+      any = true;
+      var cls = r.change > 0 ? 'up' : (r.change < 0 ? 'dn' : 'flat');
+      var sgn = r.change > 0 ? '+' : '';
+      var pct = (typeof r.change_pct === 'number' && isFinite(r.change_pct)) ? (r.change_pct > 0 ? '+' : '') + r.change_pct.toFixed(2) + '%' : '\u2014';
+      cells += '<td data-tt-type="bix-movers-cell" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + r.price + '" data-tt-chg="' + r.change + '" data-tt-pct="' + (typeof r.change_pct === 'number' && isFinite(r.change_pct) ? r.change_pct : '') + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '" data-tt-date="' + r.date + '">' +
+        '<span class="bix-mx">$' + r.price.toFixed(2) + '</span><span class="bix-mc ' + cls + '">' + sgn + r.change.toFixed(2) + ' (' + pct + ')</span></td>';
+    });
+    if (!any) return;
+    html += '<tr data-tt-type="bix-movers-row" data-tt-region="' + safeIx + '"><td style="color:#a371f7; font-weight:700;">' + escapeHtml(BIX_REGION_LABELS[safeIx] || safeIx) + '</td>' + cells + '</tr>';
+  });
+  tbody.innerHTML = html;
+}
+
 function renderBunkerBixChart() {
+  // Full BIX archive chart: DATA.bunkerSummary.bix_history.series[BIX_<region>][grade]
+  // grows with every scheduled harvest \u2014 plot all of it, never a trailing window.
   var cv = document.getElementById('bunkerBixChart');
   if (!cv || typeof Chart === 'undefined') return;
   var summary = DATA.bunkerSummary;
+  var bh = summary && summary.bix_history ? summary.bix_history : null;
+  var series = bh && bh.series ? bh.series : {};
+  var s = (series['BIX_' + bixChartRegion] || {})[bixChartGrade] || { dates: [], prices: [], change_usd: [] };
+  var meta = document.getElementById('bunkerBixChartMeta');
+  var regionLabel = BIX_REGION_LABELS[bixChartRegion] || bixChartRegion;
+
+  // Low-high range chips per observation date, where the flat table publishes them.
   var bix = summary && summary.benchmarks_bix ? summary.benchmarks_bix : [];
-  var wV = bix.filter(function(r) { return r.index === 'BIX_World' && r.grade === 'VLSFO'; }).sort(function(a, b) { return a.date < b.date ? -1 : 1; });
-  var wH = bix.filter(function(r) { return r.index === 'BIX_World' && r.grade === 'IFO380'; }).sort(function(a, b) { return a.date < b.date ? -1 : 1; });
-  if (!wV.length) return;
-  var labels = wV.map(function(r) { return r.date.slice(5); });
-  var mapH = {};
-  wH.forEach(function(r) { mapH[r.date] = r.price; });
-  if (bunkerBixChartInstance) bunkerBixChartInstance.destroy();
+  var rangeByDate = {};
+  bix.forEach(function(r) {
+    if (r.index === 'BIX_' + bixChartRegion && r.grade === bixChartGrade) rangeByDate[r.date] = r;
+  });
+
+  if (bunkerBixChartInstance) { bunkerBixChartInstance.destroy(); bunkerBixChartInstance = null; }
+
+  if (!s.dates.length) {
+    // Honest empty state: suite exists in the archive but has no observations yet.
+    if (meta) meta.textContent = regionLabel + ': no observations in the archive yet \u00b7 accumulates with each daily harvest';
+    bunkerBixChartInstance = new Chart(cv.getContext('2d'), {
+      type: 'line',
+      data: { labels: [], datasets: [] },
+      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { display: false }, y: { display: false } } }
+    });
+    return;
+  }
+
+  if (meta) meta.textContent = regionLabel + ' \u00b7 ' + bixChartGrade + ' \u00b7 ' + s.dates.length + ' observations ' + s.dates[0] + ' \u2192 ' + s.dates[s.dates.length - 1];
+
   bunkerBixChartInstance = new Chart(cv.getContext('2d'), {
     type: 'line',
     data: {
-      labels: labels,
+      labels: s.dates.map(function(d) { return d.slice(5); }),
       datasets: [
-        { label: 'BIX_World VLSFO', data: wV.map(function(r) { return r.price; }), borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.08)', fill: true, tension: 0.2, borderWidth: 1.5, pointRadius: 2 },
-        { label: 'BIX_World IFO380', data: wV.map(function(r) { return (mapH[r.date] != null ? mapH[r.date] : null); }), borderColor: '#4d9aff', backgroundColor: 'transparent', fill: false, tension: 0.2, borderWidth: 1.5, pointRadius: 2, spanGaps: true }
+        {
+          label: regionLabel + ' ' + bixChartGrade + ' ($/MT)',
+          data: s.prices,
+          borderColor: BIX_GRADE_COLORS[bixChartGrade] || '#3fb950',
+          backgroundColor: BIX_GRADE_FILLS[bixChartGrade] || 'rgba(63,185,80,0.07)',
+          fill: true, tension: 0.2, borderWidth: 1.5, pointRadius: 2
+        }
       ]
     },
     options: {
       responsive: true, maintainAspectRatio: false,
       interaction: { mode: 'index', intersect: false },
-      plugins: { legend: { display: true, labels: { color: '#d4dce8', font: { size: 10 }, boxWidth: 12 } } },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            title: function(items) { return s.dates[items[0].dataIndex]; },
+            label: function(item) {
+              var chg = s.change_usd[item.dataIndex];
+              var chgStr = (chg == null || !isFinite(chg)) ? '' : ' \u00b7 ' + (chg > 0 ? '+' : '') + chg.toFixed(2) + ' vs prior obs';
+              return '$' + item.parsed.y.toFixed(2) + chgStr;
+            },
+            afterLabel: function(item) {
+              var row = rangeByDate[s.dates[item.dataIndex]];
+              return (row && isFinite(row.low) && isFinite(row.high)) ? 'Port range $' + row.low.toFixed(0) + '\u2013$' + row.high.toFixed(0) : '';
+            }
+          }
+        }
+      },
       scales: {
         x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { size: 9 } } },
         y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { size: 9 }, callback: function(v) { return '$' + v; } } }

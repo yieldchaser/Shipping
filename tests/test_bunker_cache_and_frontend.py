@@ -203,3 +203,59 @@ def test_index_html_bunkers_wave1():
     # (8) BNKR HUD idiom distinct from tracking
     assert "bnkr-tag" in c
     assert "BNKR" in c
+
+
+def test_index_html_bunkers_phase_b():
+    """Phase B: provenance debug bar purged, full BIX archive chart with
+    region/grade selectors, regional movers table, honest archive badge,
+    dynamic tooltips on every Bunkers control, no code-speak in visible UI."""
+    with open("index.html", "r", encoding="utf-8") as f:
+        c = f.read()
+
+    # (1) PROVENANCE debug bar fully gone (markup + css), EUA disclosure in tooltip
+    assert 'class="bunkers-prov"' not in c
+    assert "PROVENANCE \u00b7 levels" not in c
+    assert "EUA level is a static screening assumption" in c
+    # (2) BIX archive chart: full bix_history archive, not the trailing window
+    assert "DATA.bunkerSummary.bix_history" in c or "summary.bix_history" in c
+    assert "bunkerBixArchBadge" in c
+    assert "accumulates with each daily harvest" in c
+    assert "no observations in the archive yet" in c
+    for fn in ["setBixChartRegion", "setBixChartGrade", "renderBunkerBixChart",
+               "renderBunkersBixMovers"]:
+        assert fn in c, f"missing {fn}"
+    for region in ["World", "World3", "APAC", "EMEA", "Americas", "MidGulf"]:
+        assert f'data-bixregion="{region}"' in c
+    for grade in ["VLSFO", "IFO380", "MGO"]:
+        assert f'data-bixgrade="{grade}"' in c
+    # (3) regional movers table populated from cache, latest obs + changes
+    assert 'id="bunkerBixMoversBody"' in c
+    assert "bix-movers-cell" in c
+    # (4) dynamic tooltips on every Bunkers control
+    for tt in ["bunker-region-btn", "bunker-grade-btn", "bunker-subtab",
+               "bunker-search", "bunker-forward-hub", "bunker-vol-hub",
+               "bunker-map-pin", "bix-chip", "bix-region-card", "bix-region-btn",
+               "bix-grade-btn", "bix-chart", "bix-archive-badge", "bix-movers",
+               "bix-movers-row", "bix-movers-cell"]:
+        assert f'"{tt}"' in c, f"missing tooltip branch/type {tt}"
+    # (5) code-speak swept from visible UI
+    assert "Source: benchmarks_bix[] via" not in c
+    assert "\u0394 = change_usd (change_pct)" not in c
+    assert "ports[].lng/.meoh/.eua/.bio" not in c
+
+
+def test_index_html_tab_nesting_regression():
+    """9dd8432e5 shipped an unmatched <div class=tracking-workstation> that made
+    #tab-bunkers/#tab-offshore children of the hidden tracking panel (zero
+    height on render). Guard: each top-level tab panel closes before the next opens."""
+    with open("index.html", "r", encoding="utf-8") as f:
+        c = f.read()
+    assert "</div><!-- /tracking-workstation -->" in c
+    import re
+    # Bunkers panel must not appear inside the tracking panel span
+    trk = c.index('id="tab-tracking"')
+    trk_end = c.index("<!-- /tab-tracking -->", trk)
+    bix = c.index('id="tab-bunkers"')
+    off = c.index('id="tab-offshore"')
+    assert not (trk < bix < trk_end), "tab-bunkers nested inside tab-tracking"
+    assert not (trk < off < trk_end), "tab-offshore nested inside tab-tracking"
