@@ -40931,18 +40931,36 @@ window.OFFSHORE_STATE = {
 // 5 S&P & Assets · 6 LNG · 7 LPG · 8 Fixtures Tape · 9 Series Museum ·
 // 10 Broker Voice · 11 Backtest Lab
 // =====================================================================
+// Domain SVG icons (13px, stroke=currentColor) — purpose-matched per desk:
+// grid / trend-line / tanker-hull-on-waves / shipyard-crane / anchor /
+// methane-flame droplet / pressurized-gas cylinder / tape-lines / museum frames /
+// voice bubble / pulse-line.
+var FDESK_ICONS = {
+  1:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>',
+  2:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 17 9 11 13 15 21 7"/><polyline points="15 7 21 7 21 13"/></svg>',
+  3:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 20a3 3 0 0 0 2.24-1L6 17.5 7.76 19a3 3 0 0 0 4.48 0L14 17.5l1.76 1.5a3 3 0 0 0 4.48 0"/><path d="M4 15 5.5 9h13L20 15"/><path d="M12 9V4m-3 2h6"/></svg>',
+  4:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><path d="M6 21V9l6-5 6 5v12"/><path d="M10 21v-4h4v4"/></svg>',
+  5:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18"/><path d="M5 7h14"/><circle cx="12" cy="7" r="3"/><path d="M9 21h6"/></svg>',
+  6:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2c3.5 4.5 6.5 7.8 6.5 11.2a6.5 6.5 0 0 1-13 0C5.5 9.8 8.5 6.5 12 2z"/><path d="M12 10c1.4 1.9 2.6 3.3 2.6 4.9a2.6 2.6 0 0 1-5.2 0c0-1.6 1.2-3 2.6-4.9z"/></svg>',
+  7:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="6" width="8" height="15" rx="2"/><path d="M10 6V4a2 2 0 0 1 4 0v2"/><path d="M8 11h8M8 16h8"/></svg>',
+  8:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h18M3 10h18M3 15h12M3 20h8"/></svg>',
+  9:  '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="8" height="10" rx="1"/><rect x="13" y="4" width="8" height="10" rx="1"/><path d="M5 18h14M7 14v4m10-4v4"/></svg>',
+  10: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>',
+  11: '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 12 7 12 10 5 14 19 17 12 21 12"/></svg>'
+};
+
 var FDESK_SECTIONS = [
-  { id: 1,  name: 'Overview',       icon: '▦' },
-  { id: 2,  name: 'TC Rates',       icon: '∿' },
-  { id: 3,  name: 'Tanker Routes',  icon: '◎' },
-  { id: 4,  name: 'Newbuilding',    icon: '▲' },
-  { id: 5,  name: 'S&P & Assets',   icon: '§' },
-  { id: 6,  name: 'LNG Desk',       icon: '◇' },
-  { id: 7,  name: 'LPG Desk',       icon: '◈' },
-  { id: 8,  name: 'Fixtures Tape',  icon: '▤' },
-  { id: 9,  name: 'Series Museum',  icon: '▦' },
-  { id: 10, name: 'Broker Voice',   icon: '✎' },
-  { id: 11, name: 'Backtest Lab',   icon: '⚡' }
+  { id: 1,  name: 'Overview' },
+  { id: 2,  name: 'TC Rates' },
+  { id: 3,  name: 'Tanker Routes' },
+  { id: 4,  name: 'Newbuilding' },
+  { id: 5,  name: 'S&P & Assets' },
+  { id: 6,  name: 'LNG Desk' },
+  { id: 7,  name: 'LPG Desk' },
+  { id: 8,  name: 'Fixtures Tape' },
+  { id: 9,  name: 'Series Museum' },
+  { id: 10, name: 'Broker Voice' },
+  { id: 11, name: 'Backtest Lab' }
 ];
 
 var FDESK = {
@@ -41004,7 +41022,8 @@ function initFearnSubNav() {
   if (!nav) return;
   if (!nav.innerHTML) {
     nav.innerHTML = FDESK_SECTIONS.map(function (s) {
-      return '<button class="tracking-status-btn" data-fsec="' + s.id + '" onclick="switchFearnSection(' + s.id + ')" style="font-size:11px;">' + s.icon + ' ' + s.name + '</button>';
+      var ic = FDESK_ICONS[s.id] || '';
+      return '<button class="tracking-status-btn" data-fsec="' + s.id + '" onclick="switchFearnSection(' + s.id + ')" style="font-size:11px;display:inline-flex;align-items:center;gap:5px;">' + ic + '<span>' + s.name + '</span></button>';
     }).join('');
   }
   document.querySelectorAll('#fearnSubNav [data-fsec]').forEach(function (b) {
