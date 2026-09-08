@@ -28,19 +28,29 @@ def sha256(path: Path) -> str:
 
 
 def sha256_stable(path: Path) -> str:
-    """SHA over JSON with volatile meta.generated_at neutralized.
+    """SHA over JSON with volatile wall-clock stamps neutralized.
 
-    generated_at is a live wall-clock stamp by design (see
-    build_bunker_cache.py meta block), so byte-identity across runs is
-    impossible; everything else must be deterministic.
+    generated_at / updated_utc are live wall-clock stamps by design (see
+    build_bunker_cache.py meta block and build_bix_history.py payload),
+    so byte-identity across runs is impossible; everything else must be
+    deterministic.
     """
+    VOLATILE_STAMPS = {"generated_at", "updated_utc"}
+
+    def scrub(node):
+        if isinstance(node, dict):
+            return {k: scrub(v) for k, v in node.items() if k not in VOLATILE_STAMPS}
+        if isinstance(node, list):
+            return [scrub(v) for v in node]
+        return node
+
     raw = path.read_bytes()
     try:
         data = json.loads(raw.decode("utf-8"))
     except (UnicodeDecodeError, ValueError):
         return hashlib.sha256(raw).hexdigest()
-    if isinstance(data, dict) and isinstance(data.get("meta"), dict):
-        data["meta"] = {k: v for k, v in data["meta"].items() if k != "generated_at"}
+    if isinstance(data, dict):
+        data = scrub(data)
     return hashlib.sha256(json.dumps(data, sort_keys=True).encode("utf-8")).hexdigest()
 
 
