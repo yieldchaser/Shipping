@@ -13933,32 +13933,32 @@ if (intelTabsContainer) {
 
       <!-- 6-KPI HUD STRIP (values overwritten live by updateTrackingHUD; shell defaults = last verified snapshot) -->
       <div class="tracking-kpi-grid">
-        <div class="tracking-kpi-card" style="cursor:pointer;" onclick="trackingHudFilter('all')" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Monitored Fleet Hulls" data-tt-val="1,568 Active Vessels" data-tt-desc="Continuous AIS hull tracking across 36 ports in the live lineup snapshot. Click to clear status filter.">
+        <div class="tracking-kpi-card" style="cursor:pointer;" onclick="trackingHudFilter('all')" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Monitored Fleet Hulls" data-tt-val="1,568 Active Vessels" data-tt-fresh="Lineup snapshot: latest observed arrival 2026-09-07" data-tt-desc="Continuous AIS hull tracking across 36 ports in the live lineup snapshot. Click to clear status filter.">
           <div class="tracking-kpi-label">Monitored Vessels <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/><line x1="12" y1="1" x2="12" y2="10"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudTrackedHulls">1,568</div>
           <div class="tracking-kpi-sub accent" id="hudTrackedHullsSub">36 Ports · 325.4M DWT</div>
         </div>
-        <div class="tracking-kpi-card" style="cursor:pointer;" onclick="trackingHudFilter('Waiting at anchor')" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Waiting at Anchor" data-tt-val="619 Vessels" data-tt-desc="Vessels anchored awaiting berth availability, customs clearance, or discharge windows. Measures port congestion. Click to filter lineup to anchored queue.">
+        <div class="tracking-kpi-card" style="cursor:pointer;" onclick="trackingHudFilter('Waiting at anchor')" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Waiting at Anchor" data-tt-val="619 Vessels" data-tt-fresh="Lineup snapshot: latest observed arrival 2026-09-07" data-tt-desc="Vessels anchored awaiting berth availability, customs clearance, or discharge windows. Measures port congestion. Click to filter lineup to anchored queue.">
           <div class="tracking-kpi-label">Waiting at Anchor <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/><path d="M5 12l2 2"/><path d="M19 12l-2 2"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudWaitingAnchor" style="color:var(--yellow);">619</div>
           <div class="tracking-kpi-sub warn" id="hudWaitingAnchorSub">Congestion Bottlenecks</div>
         </div>
-        <div class="tracking-kpi-card" style="cursor:pointer;" onclick="trackingHudFilter('Operating at berth')" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Operating at Berth" data-tt-val="949 Vessels" data-tt-desc="Vessels actively loading or discharging dry bulk and tanker parcels at terminal jetties. Click to filter lineup to berth operations.">
+        <div class="tracking-kpi-card" style="cursor:pointer;" onclick="trackingHudFilter('Operating at berth')" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Operating at Berth" data-tt-val="949 Vessels" data-tt-fresh="Lineup snapshot: latest observed arrival 2026-09-07" data-tt-desc="Vessels actively loading or discharging dry bulk and tanker parcels at terminal jetties. Click to filter lineup to berth operations.">
           <div class="tracking-kpi-label">Operating at Berth <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudOperatingBerth" style="color:var(--green);">949</div>
           <div class="tracking-kpi-sub good">Active Loading / Discharging</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Strategic Maritime Chokepoints" data-tt-val="28 Passages" data-tt-desc="Critical international canals and straits monitored for transit volume, draft constraints, and geopolitical diversions.">
+        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Strategic Maritime Chokepoints" data-tt-val="28 Passages" data-tt-fresh="Transit window: through 2026-08-30" data-tt-desc="Critical international canals and straits monitored for transit volume, draft constraints, and geopolitical diversions.">
           <div class="tracking-kpi-label">Strategic Chokepoints <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudChokepointsCount">28</div>
           <div class="tracking-kpi-sub">Canals, Straits &amp; Passages</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Bab el-Mandeb / Red Sea Diversion" data-tt-val="-73.1% Transit Volume" data-tt-desc="Live diverted share from chokepoint transit metrics (Bab el-Mandeb vs pre-disruption baseline). Recomputed on every data load — no hardcoded fallback.">
+        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Bab el-Mandeb / Red Sea Diversion" data-tt-val="-73.1% Transit Volume" data-tt-fresh="Transit window: through 2026-08-30" data-tt-desc="Live diverted share from chokepoint transit metrics (Bab el-Mandeb vs pre-disruption baseline). Recomputed on every data load — no hardcoded fallback.">
           <div class="tracking-kpi-label">Red Sea / Bab el-Mandeb <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudRedSeaDiverted" style="color:var(--red);">-73.1%</div>
           <div class="tracking-kpi-sub alert" id="hudRedSeaDivertedSub">vs Pre-Disruption Baseline</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Cape of Good Hope Rerouting Surge" data-tt-val="+75.6% Transit Volume" data-tt-desc="Live surge share from chokepoint summary rerouting-crisis telemetry. Recomputed on every data load — no hardcoded fallback.">
+        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Cape of Good Hope Rerouting Surge" data-tt-val="+75.6% Transit Volume" data-tt-fresh="Transit window: through 2026-08-30" data-tt-desc="Live surge share from chokepoint summary rerouting-crisis telemetry. Recomputed on every data load — no hardcoded fallback.">
           <div class="tracking-kpi-label">Cape of Good Hope <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M23 4v6h-6"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudCapeSurge" style="color:#a371f7;">+75.6%</div>
           <div class="tracking-kpi-sub accent" id="hudCapeSurgeSub">+14.5 Days Ton-Mile Surge</div>
@@ -14357,7 +14357,7 @@ if (intelTabsContainer) {
           <div class="bunkers-kpi-val" id="bunkerKpiMgo">$1,504.00</div>
           <div class="bunkers-kpi-sub alert" id="bunkerKpiMgoSub">+$3.00 D/D (09-07 vs 09-03) · ECA Zone &amp; Port Auxiliary Marine Gasoil</div>
         </div>
-        <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-scrubber-cell" data-tt-title="Singapore Hi-5 Scrubber Spread">
+        <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-scrubber-cell" data-tt-title="Singapore Hi-5 Scrubber Spread" data-tt-port="Singapore" data-tt-hi5="205.5" data-tt-cape="9,248" data-tt-vlcc="13,358" data-tt-obs="2026-09-04 vs 2026-08-28" data-tt-payback="8.5">
           <div class="bunkers-kpi-label">Singapore Hi-5 Spread <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></span></div>
           <div class="bunkers-kpi-val" id="bunkerKpiHi5" style="color:#a371f7;">$205.50</div>
           <div class="bunkers-kpi-sub alert" id="bunkerKpiHi5Sub">+$50.50 7D (SS 09-04 vs 08-28) · Cape TCE +$9,248/d · Payback ~8.5 Mos</div>
@@ -36180,6 +36180,31 @@ function updateTrackingHUD() {
     else if (title.includes('Cape of Good Hope')) card.setAttribute('data-tt-val', (t.capePct != null ? '+' + Math.abs(t.capePct).toFixed(1) + '% Transit Volume' : 'feed unavailable'));
   });
 
+  // Freshness rows for the tooltip bus: recomputed each load from cache dates only (no invented dates).
+  function ttDstr(dt) {
+    return dt ? (dt.getFullYear() + '-' + String(dt.getMonth() + 1).padStart(2, '0') + '-' + String(dt.getDate()).padStart(2, '0')) : '';
+  }
+  var todayISO = ttDstr(new Date());
+  var maxArr = '';
+  (DATA.portLineups || []).forEach(function(v) {
+    var d = ttDstr(v.arrival_date instanceof Date ? v.arrival_date : (v.arrival_date ? parseDate(v.arrival_date) : null));
+    if (d && d <= todayISO && d > maxArr) maxArr = d;
+  });
+  var cpMax = '';
+  ((DATA.chokepointSummary && DATA.chokepointSummary.chokepoints) || []).forEach(function(cp) {
+    if (cp.latest_date && cp.latest_date > cpMax) cpMax = cp.latest_date;
+  });
+  var freshArr = maxArr ? 'Lineup snapshot: latest observed arrival ' + maxArr : '';
+  var freshCp = cpMax ? 'Transit window: through ' + cpMax : '';
+  document.querySelectorAll('[data-tt-type="tracking-hud"]').forEach(function(card) {
+    var title = card.getAttribute('data-tt-title') || '';
+    if (title.includes('Fleet Hulls') || title.includes('Waiting at Anchor') || title.includes('Operating at Berth')) {
+      if (freshArr) card.setAttribute('data-tt-fresh', freshArr);
+    } else if (freshCp) {
+      card.setAttribute('data-tt-fresh', freshCp);
+    }
+  });
+
   var pill = function(id, n, dwt) {
     var el = document.getElementById(id);
     if (el) el.textContent = trackingTonnageLens ? fmtDwtMt(dwt) : (n != null ? n.toLocaleString() : '—');
@@ -39455,32 +39480,38 @@ function escapeHtml(str) {
           const k = summary && summary.kpis;
 
           html = `<div class="rt-title">${title}</div>`;
+          if (k && k.global_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.global_obs}${k.global_prev_obs ? ' (Δ vs ' + k.global_prev_obs + ')' : ''}</span></div>`;
           if (grade === 'VLSFO') {
             const val = k ? '$' + k.global_vlsfo.toFixed(2) + '/MT' : '$865.50/MT';
+            if (k && k.global_vlsfo_chg != null) { const c = k.global_vlsfo_chg; const cStr = (c > 0 ? '+$' : (c < 0 ? '-$' : '$')) + Math.abs(c).toFixed(2) + '/MT'; html += `<div class="rt-row"><span class="rt-label">Δ vs Prior Obs (D/D)</span><span class="rt-val ${c <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${cStr}</span></div>`; }
             html += `<div class="rt-row"><span class="rt-label">Global Benchmark</span><span class="rt-val" style="color:#3fb950;font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Specification</span><span class="rt-val">Very Low Sulfur Fuel Oil (&le;0.50% S)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Regulatory Mandate</span><span class="rt-val">IMO 2020 Global Sulfur Cap Compliant</span></div>`;
             html += `<div class="rt-note">Universal marine fuel consumed by non-scrubber merchant vessels outside Emission Control Areas (ECAs).</div>`;
           } else if (grade === 'IFO380') {
             const val = k ? '$' + k.global_hsfo.toFixed(2) + '/MT' : '$663.50/MT';
+            if (k && k.global_hsfo_chg != null) { const c = k.global_hsfo_chg; const cStr = (c > 0 ? '+$' : (c < 0 ? '-$' : '$')) + Math.abs(c).toFixed(2) + '/MT'; html += `<div class="rt-row"><span class="rt-label">Δ vs Prior Obs (D/D)</span><span class="rt-val ${c <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${cStr}</span></div>`; }
             html += `<div class="rt-row"><span class="rt-label">Global Benchmark</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Specification</span><span class="rt-val">High Sulfur Fuel Oil (&le;3.50% S)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scrubber Requirement</span><span class="rt-val" style="color:#e3b341;">EGCS / Scrubber Mandatory</span></div>`;
             html += `<div class="rt-note">Heavy fuel oil permitted only on vessels equipped with exhaust gas cleaning scrubbers. Major cost-saving driver when Hi-5 spread widens.</div>`;
           } else if (grade === 'MGO') {
             const val = k ? '$' + k.global_mgo.toFixed(2) + '/MT' : '$1,464.50/MT';
+            if (k && k.global_mgo_chg != null) { const c = k.global_mgo_chg; const cStr = (c > 0 ? '+$' : (c < 0 ? '-$' : '$')) + Math.abs(c).toFixed(2) + '/MT'; html += `<div class="rt-row"><span class="rt-label">Δ vs Prior Obs (D/D)</span><span class="rt-val ${c <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${cStr}</span></div>`; }
             html += `<div class="rt-row"><span class="rt-label">Global Benchmark</span><span class="rt-val" style="color:#e3b341;font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Specification</span><span class="rt-val">Marine Gasoil / LSMGO (&le;0.10% S)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Operating Areas</span><span class="rt-val">Baltic, North Sea, North American ECAs &amp; In-Port</span></div>`;
             html += `<div class="rt-note">Distillate fuel mandatory inside designated Emission Control Areas (0.10% sulfur) and during EU port stays.</div>`;
           } else if (grade === 'EUA') {
             const val = k ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : '€72.50/t';
+            if (k && k.eu_ets_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.eu_ets_obs} (static screening assumption)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Carbon Allowance</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scope</span><span class="rt-val">EU MRV Shipping Voyages (5,000+ GT)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Phase-In Schedule</span><span class="rt-val">40% in 2024, 70% in 2025, 100% in 2026</span></div>`;
             html += `<div class="rt-note">Vessels sailing to, from, or between EU ports must surrender European Union Allowances (EUAs) for 3.114 tonnes of CO2 emitted per tonne of bunker fuel consumed.</div>`;
           } else if (grade === 'VOL') {
             const val = k ? (k.singapore_monthly_vol_mt / 1000000).toFixed(2) + 'M MT' : '4.50M MT';
+            if (k && k.singapore_vol_period) html += `<div class="rt-row"><span class="rt-label">Reporting Period</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.singapore_vol_period}${k.singapore_vol_yoy_pct != null ? ' · ' + (k.singapore_vol_yoy_pct > 0 ? '+' : '') + k.singapore_vol_yoy_pct.toFixed(1) + '% YoY' : ''}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Singapore MPA Volume</span><span class="rt-val" style="color:#00e5ff;font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Global Share</span><span class="rt-val">~22% of World Seaborne Bunker Deliveries</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Official Source</span><span class="rt-val">Maritime and Port Authority of Singapore (MPA)</span></div>`;
@@ -39521,14 +39552,19 @@ function escapeHtml(str) {
         }
         else if (type === 'bunker-scrubber-cell') {
           const port = target.getAttribute('data-tt-port') || 'Singapore';
-          const hi5 = parseFloat(target.getAttribute('data-tt-hi5')) || 205.5;
-          const cape = target.getAttribute('data-tt-cape') || '9,248';
-          const vlcc = target.getAttribute('data-tt-vlcc') || '13,358';
+          const hi5Raw = parseFloat(target.getAttribute('data-tt-hi5'));
+          const hi5 = isNaN(hi5Raw) ? null : hi5Raw;
+          const cape = target.getAttribute('data-tt-cape');
+          const vlcc = target.getAttribute('data-tt-vlcc');
+          const obs = target.getAttribute('data-tt-obs') || '';
+          const payback = target.getAttribute('data-tt-payback') || '';
 
           html = `<div class="rt-title">${port} Scrubber TCE Economics</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread (VLSFO − HSFO)</span><span class="rt-val" style="color:#a371f7;font-weight:700;">$${hi5.toFixed(2)}/MT</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Capesize Scrubber TCE Boost</span><span class="rt-val pos" style="font-weight:700;">+$${cape}/day</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">VLCC Scrubber TCE Boost</span><span class="rt-val pos" style="font-weight:700;">+$${vlcc}/day</span></div>`;
+          if (!isNaN(hi5)) html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread (VLSFO − HSFO)</span><span class="rt-val" style="color:#a371f7;font-weight:700;">$${hi5.toFixed(2)}/MT</span></div>`;
+          if (obs) html += `<div class="rt-row"><span class="rt-label">Spread Observation Window</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${obs}</span></div>`;
+          if (cape) html += `<div class="rt-row"><span class="rt-label">Capesize Scrubber TCE Boost</span><span class="rt-val pos" style="font-weight:700;">+$${cape}/day</span></div>`;
+          if (vlcc) html += `<div class="rt-row"><span class="rt-label">VLCC Scrubber TCE Boost</span><span class="rt-val pos" style="font-weight:700;">+$${vlcc}/day</span></div>`;
+          if (payback) html += `<div class="rt-row"><span class="rt-label">Scrubber CAPEX Payback</span><span class="rt-val">~${payback} Months</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Typical Fuel Burn</span><span class="rt-val">Capesize ~45 MT/d · VLCC ~65 MT/d</span></div>`;
           html += `<div class="rt-note">Formula: <strong>Daily Bunker Burn (MT) × Hi-5 Spread ($/MT)</strong>. A scrubber-fitted vessel burns cheaper HSFO, converting the fuel price spread directly into daily earnings outperformance.</div>`;
         }
@@ -39536,8 +39572,10 @@ function escapeHtml(str) {
           const title = target.getAttribute('data-tt-title') || 'Vessel Tracking Metric';
           const val = target.getAttribute('data-tt-val') || '';
           const desc = target.getAttribute('data-tt-desc') || '';
+          const fresh = target.getAttribute('data-tt-fresh') || '';
           html = `<div class="rt-title">${title}</div>`;
           if (val) html += `<div class="rt-row"><span class="rt-label">Live Status</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
+          if (fresh) html += `<div class="rt-row"><span class="rt-label">Data Freshness</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${fresh}</span></div>`;
           if (desc) html += `<div class="rt-note">${desc}</div>`;
         }
         else if (type === 'tracking-vessel-row') {
@@ -40153,6 +40191,15 @@ function updateBunkersHUD() {
   setSub('bunkerKpiEtsSub', 'Voyage Penalty: ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString() + '/d on EU MRV Routes (static screen)', 'warn');
   var yoy = k.singapore_vol_yoy_pct;
   setSub('bunkerKpiVolSub', (yoy > 0 ? '+' : '') + yoy.toFixed(1) + '% YoY · MPA Singapore ' + (k.singapore_vol_period || '') + ' Monthly Delivery', yoy >= 0 ? 'cyan' : 'alert');
+
+  // Keep the Hi-5 scrubber card's rich tooltip wired to live kpis{} (bunker_frontend_summary.json).
+  var hi5Card = document.querySelector('.bunkers-kpi-grid [data-tt-type="bunker-scrubber-cell"]');
+  if (hi5Card) {
+    hi5Card.setAttribute('data-tt-hi5', k.singapore_hi5.toFixed(2));
+    hi5Card.setAttribute('data-tt-cape', Math.round(k.cape_scrubber_tce_bonus).toLocaleString('en-US'));
+    if (k.hi5_obs && k.hi5_prev_obs) hi5Card.setAttribute('data-tt-obs', k.hi5_obs + ' vs ' + k.hi5_prev_obs);
+    if (k.scrubber_payback_months != null) hi5Card.setAttribute('data-tt-payback', String(k.scrubber_payback_months));
+  }
 }
 
 function plotBunkerPortMarkers() {
