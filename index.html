@@ -10216,7 +10216,7 @@
     <button class="tab-btn" data-tab="indices">Indices</button>
     <button class="tab-btn" data-tab="etfs">ETFs</button>
     <button class="tab-btn" data-tab="signals">Signals</button>
-    <button class="tab-btn" data-tab="fearnleys">Fearnleys</button>
+    <button class="tab-btn" data-tab="fearnleys">Broker Desk</button>
     <button class="tab-btn" data-tab="intelligence">Intelligence</button>
     <button class="tab-btn" data-tab="tracking">Tracking</button>
     <button class="tab-btn" data-tab="bunkers">Bunkers</button>
@@ -13455,15 +13455,15 @@
 
     </div>
 
-    <!-- ===== TAB: FEARNLEYS DESK ===== -->
-    <div class="tab-panel" id="tab-fearnleys">
+    <!-- ===== TAB: BROKER DESK (data formerly the Fearnleys desk) ===== -->
+    <div class="tab-panel" id="tab-fearnleys" aria-label="Broker Desk">
       <div id="fearnSubNav" style="display:flex;gap:4px;flex-wrap:wrap;margin-bottom:14px;padding:6px 0;border-bottom:1px solid var(--border);"></div>
 
       <!-- S1 OVERVIEW -->
       <div class="fearn-sec" id="fearnSec1" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title">Desk Overview <span id="fearnDeskCoverage" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+            <div class="chart-title" data-tt-type="fearn-overview-title">Broker Desk Overview <span id="fearnDeskCoverage" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
             <div style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">highest-n series per desk · click a tile to jump to its section</div>
           </div>
           <div class="tracking-kpi-grid" id="fearnKpiGrid"></div>
@@ -13475,16 +13475,16 @@
       <div class="fearn-sec" id="fearnSec2" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title">Time-Charter Rates by Class <span style="font-size:11px;color:var(--text-muted);font-weight:400;">· 2Y+ weekly only since 2021</span></div>
-            <div style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnTcMeta"></div>
+            <div class="chart-title">Time-Charter Rates by Class <span id="fearnTcTitleNote" style="font-size:11px;color:var(--text-muted);font-weight:400;">· Baltic Weekly 2000+ · 2Y/3Y weekly only since 2021</span></div>
+            <div id="fearnTcMeta" data-tt-type="fearn-tc-chart" style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;cursor:help;"></div>
           </div>
           <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
-            <select id="fearnTcClass" class="tracking-select" style="min-width:200px;" onchange="onFearnTcClass()"></select>
-            <span style="font-size:10px;color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · pre-first-Baltic months from the Fearnleys monthly archive (dashed) · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation</span>
+            <select id="fearnTcClass" class="tracking-select" style="min-width:200px;" onchange="onFearnTcClass()" data-tt-type="fearn-tc-class"></select>
+            <span id="fearnTcSrcWrap" style="display:inline-flex;gap:0;"></span>
+            <span id="fearnTcSubLine" style="font-size:10px;color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation</span>
           </div>
           <div class="chart-canvas-wrap" style="height:380px;"><canvas id="fearnTcChart"></canvas></div>
-          <div id="fearnTcArchMeta" style="display:none;font-size:10px;color:#a371f7;padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
-          <div style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day) · archive: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly)</div>
+          <div id="fearnTcSourceNote" style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
       </div>
 
@@ -15803,7 +15803,7 @@ if (intelTabsContainer) {
           }).filter(row => row.date != null);
         });
 
-        const tcFearnPromise = safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Fearnleys TC Rates', [], r => {
+        const tcFearnPromise = safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Broker Desk TC Rates', [], r => {
           DATA.timeCharterFearnleys = DATA.time_charter_fearnleys = (r || []).map(row => {
             const out = { date: parseDateISO(row.date), dateStr: row.date };
             for (const k in row) {
@@ -26524,7 +26524,7 @@ function initFearnleysTerminal() {
     renderFearnleysAssetCycles(FEARNLEYS_CONTROLLER.currentAssetSeg);
     renderFearnleysSnpTable();
   } catch (err) {
-    console.error('[Fearnleys Terminal Init Error]', err);
+    console.error('[Fearnleys Terminal Init Error]', err); // legacy fn name; visible label is Broker Desk
   }
 }
 
@@ -38904,6 +38904,106 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Geographic Focus</span><span class="rt-val">${basin === 'atl' ? 'Atlantic Trade Lanes (Brazil, USG, WAF, Europe)' : (basin === 'pac' ? 'Pacific Trade Lanes (Australia, China, Japan, Indo)' : 'Worldwide / Regional Spread')}</span></div>`;
           html += `<div class="rt-note">Regional rate disparities create vessel migration (ballasting) and arbitrage opportunities.</div>`;
         }
+        else if (type === 'fearn-overview-title') {
+          const cache = window.DATA && DATA.fearnleysSeries;
+          const meta = cache && cache.meta ? cache.meta : null;
+          html = `<div class="rt-title">Broker Desk Overview — Tile Ordering</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Group 1</span><span class="rt-val pos">Time-Charter Rates (bulk → tanker)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Group 2</span><span class="rt-val">Newbuilding Prices (bulk → tanker)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Group 3</span><span class="rt-val">S&P 5y/10y + Resale (same class order)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Tie-break</span><span class="rt-val">longest cached history first</span></div>`;
+          if (meta) html += `<div class="rt-row"><span class="rt-label">Cache</span><span class="rt-val">${meta.labels_cached} series · ${Number(meta.monthly_points).toLocaleString()} monthly pts</span></div>`;
+          html += `<div class="rt-note">Series cache: scripts/fearnpulse_rates_full.csv monthly means (Fearnleys Hasura harvest). Every value on these tiles comes from that cache — nothing is estimated.</div>`;
+        }
+        else if (type === 'fearn-overview-tile') {
+          const cache = window.DATA && DATA.fearnleysSeries;
+          const s = cache && cache.labels ? cache.labels[target.getAttribute('data-tt-series')] : null;
+          if (s) {
+            html = `<div class="rt-title">${target.getAttribute('data-tt-grp') || 'Broker Desk'} \u2014 ${(s.route || target.getAttribute('data-tt-series'))}</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${target.getAttribute('data-tt-series')}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Desk / Type</span><span class="rt-val">${s.type} · ${s.subtype}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Latest (${s.last})</span><span class="rt-val">${Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })} ${s.unit}</span></div>`;
+            if (s.chg_pct != null) html += `<div class="rt-row"><span class="rt-label">MoM</span><span class="rt-val ${s.chg_pct >= 0 ? 'pos' : 'neg'}">${s.chg_pct >= 0 ? '+' : ''}${s.chg_pct.toFixed(2)}%</span></div>`;
+            if (s.pct_rank != null) html += `<div class="rt-row"><span class="rt-label">History Percentile</span><span class="rt-val">${s.pct_rank.toFixed(1)}th vs ${s.n} months</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">History Span</span><span class="rt-val">${s.first} → ${s.last} (${s.n}m)</span></div>`;
+            html += `<div class="rt-note">All values from the cached monthly series (scripts/fearnpulse_rates_full.csv). No interpolation, no invented points.</div>`;
+          } else {
+            html = `<div class="rt-title">Broker Desk Tile</div><div class="rt-note">Series cache still loading — hover again once the desk cache is loaded.</div>`;
+          }
+        }
+        else if (type === 'fearn-tc-class') {
+          const cls = target.value || 'Capesize';
+          const d = window.DATA && DATA.fearnDeskTenor;
+          const rows = (d && d.rows) ? d.rows.filter(r => r[1] === cls) : [];
+          const tenors = [...new Set(rows.map(r => r[2]))];
+          const dts = rows.map(r => r[0]).sort();
+          html = `<div class="rt-title">Class Selector — ${cls}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Tenors Published</span><span class="rt-val">${tenors.join(', ') || '—'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Weekly Prints</span><span class="rt-val">${rows.length} rows</span></div>`;
+          if (dts.length) html += `<div class="rt-row"><span class="rt-label">Baltic Weekly Span</span><span class="rt-val">${dts[0]} → ${dts[dts.length - 1]}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Switching Class</span><span class="rt-val">keeps the active source per class</span></div>`;
+          html += `<div class="rt-note">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day). Toggle Baltic Weekly / Fearnleys Monthly below.</div>`;
+        }
+        else if (type === 'fearn-tc-source') {
+          const mode = target.getAttribute('data-tt-mode') || 'baltic';
+          if (mode === 'baltic') {
+            html = `<div class="rt-title">Source: Baltic Weekly (2000+)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Cadence</span><span class="rt-val">weekly</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">4-6M + 1Y weekly from 2000; 2Y/3Y weekly from 2021</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Gap Policy</span><span class="rt-val">gaps = no published print (no interpolation)</span></div>`;
+            html += `<div class="rt-note">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day). One source at a time — no stitching.</div>`;
+          } else {
+            const cls = (document.getElementById('fearnTcClass') || {}).value || 'Capesize';
+            const ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
+            const cache = window.DATA && DATA.fearnleysSeries;
+            const a = (cache && cache.labels && ARCH_KEY[cls]) ? cache.labels[ARCH_KEY[cls]] : null;
+            html = `<div class="rt-title">Source: Fearnleys Monthly (1977+)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${ARCH_KEY[cls] || '— (no monthly archive series)'}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Cadence</span><span class="rt-val">monthly prints</span></div>`;
+            if (a) {
+              const maxym = (window.FDESK && FDESK.maxym) || '';
+              const frozen = maxym ? (a.last < maxym) : null;
+              html += `<div class="rt-row"><span class="rt-label">Monthly Prints (n)</span><span class="rt-val">${a.n}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Span</span><span class="rt-val">${a.first} \u2192 ${a.last}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${frozen == null ? 'active desk \u2014 ' + a.last : (frozen ? 'archived \u2014 last print ' + a.last : 'current to ' + a.last)}</span></div>`;
+            }
+            html += `<div class="rt-note">Source: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly). Frozen-state display — the archive ends where it ends; no interpolation into the weekly era.</div>`;
+          }
+        }
+        else if (type === 'fearn-tc-chart') {
+          const mode = window.FDESK && FDESK.tcSource === 'fearnleys' ? 'fearnleys' : 'baltic';
+          const cls = (document.getElementById('fearnTcClass') || {}).value || (FDESK && FDESK.tcClass) || 'Capesize';
+          html = `<div class="rt-title">Time-Charter Rates · ${cls} · ${mode === 'fearnleys' ? 'Fearnleys Monthly (1977+)' : 'Baltic Weekly (2000+)'}</div>`;
+          if (mode === 'baltic') {
+            const d = window.DATA && DATA.fearnDeskTenor;
+            const rows = (d && d.rows) ? d.rows.filter(r => r[1] === cls) : [];
+            const byTenor = {};
+            rows.forEach(r => { (byTenor[r[2]] = byTenor[r[2]] || []).push(r); });
+            Object.keys(byTenor).sort().forEach(t => {
+              const rr = byTenor[t];
+              const last = rr[rr.length - 1];
+              html += `<div class="rt-row"><span class="rt-label">${t} latest</span><span class="rt-val">$${Number(last[3]).toLocaleString()}/day · ${last[0]}</span></div>`;
+            });
+            const dts = rows.map(r => r[0]).sort();
+            if (dts.length) html += `<div class="rt-row"><span class="rt-label">Span · n</span><span class="rt-val">${dts[0]} → ${dts[dts.length - 1]} · ${rows.length} weekly rows</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Gap Policy</span><span class="rt-val">gaps = no published print (no interpolation)</span></div>`;
+            html += `<div class="rt-note">2Y/3Y tenors are published weekly only since 2021 — their lines start there. Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day).</div>`;
+          } else {
+            const ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
+            const cache = window.DATA && DATA.fearnleysSeries;
+            const a = (cache && cache.labels && ARCH_KEY[cls]) ? cache.labels[ARCH_KEY[cls]] : null;
+            if (a) {
+              const lastP = a.m[a.m.length - 1];
+              html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${ARCH_KEY[cls]}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Latest monthly print</span><span class="rt-val">$${Number(lastP[1]).toLocaleString()}/day · ${lastP[0]}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Span · n</span><span class="rt-val">${a.first} → ${a.last} · ${a.n} monthly prints</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${a.last < (FDESK.maxym || '') ? 'archived — last print ' + a.last : 'current to ' + a.last}</span></div>`;
+              html += `<div class="rt-note">One monthly archive line per class. No Baltic weekly data is mixed in. Source: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly).</div>`;
+            } else {
+              html += `<div class="rt-note">No Fearnleys monthly archive series exists for this class — switch back to Baltic Weekly.</div>`;
+            }
+          }
+        }
         else if (type === 'concept-tc-source') {
           const src = target.getAttribute('data-tt-source') || 'merged';
           html = `<div class="rt-title">Data Source: ${src.toUpperCase()}</div>`;
@@ -41034,7 +41134,7 @@ var FDESK_SECTIONS = [
 var FDESK = {
   sec: 1,
   secInit: {},
-  fdecksLoaded: {}, tenor: null, tcClass: 'Capesize', tcChart: null,
+  fdecksLoaded: {}, tenor: null, tcClass: 'Capesize', tcChart: null, tcSource: 'baltic', tcSourceByClass: {},
   tankRoute: null, tankChart: null,
   nb: null, nbFamily: 'bulk', nbIndex: false, nbChart: null,
   ac: null, acClass: 'VLCC', acChart: null, acParityChart: null,
@@ -41132,6 +41232,17 @@ function renderFearnSection(id) {
   if (id === 11) return done(renderFearnBacktest)();
 }
 
+// ---------- shared tooltip html builder (data-tt-* bus) ----------
+function fearnTtHtml(title, rows, note) {
+  var h = '<div class="rt-title">' + title + '</div>';
+  (rows || []).forEach(function (r) {
+    if (r[1] == null || r[1] === '') return;
+    h += '<div class="rt-row"><span class="rt-label">' + r[0] + '</span><span class="rt-val">' + r[1] + '</span></div>';
+  });
+  if (note) h += '<div class="rt-note">' + note + '</div>';
+  return h;
+}
+
 // ---------- S1 OVERVIEW ----------
 function renderFearnOverview() {
   var cache = fearnSeriesCache();
@@ -41152,18 +41263,62 @@ function renderFearnOverview() {
     if (s.n < 3) return;
     (perType[s.type] = perType[s.type] || []).push(Object.assign({ k: k }, s));
   });
-  var order = ['TANK', 'BULK', 'LNG', 'LPG', 'NEWBUILDING', 'S&P', 'counts'];
+  // desk-group ordering: TIME-CHARTER first (bulk classes then tanker classes),
+  // then NEWBUILDING prices (bulk family then tanker family), then S&P curves
+  // and S&P RESALE — ordered by the §5 asset-curves class list (bulk classes,
+  // then tanker classes); 5y before 10y inside a family; unseen extras sink.
+  // Stable tie-break: longest cached history first, then series key.
+  var TC_RANK = { BULK_TC_CAPESIZE_180_000_DWT: 0, BULK_TC_PANAMAX_75_000_DWT: 1, BULK_TC_SUPRAMAX_58_000_DWT: 2, BULK_TC_HANDYSIZE_38_000_DWT: 3, TANK_1_YEAR_T_C_VLCC: 4, TANK_1_YEAR_T_C_SUEZMAX: 5, TANK_1_YEAR_T_C_AFRAMAX: 6 };
+  // NB: the only bulk NB-price classes published by Fearnleys in our caches are Kamsarmax/Newcastlemax/Ultramax
+  // (no Capesize/Panamax/Supramax/Handysize NB series exist in any source — disclosed, not invented);
+  // tanker family is VLCC/Suezmax/Aframax/Product; gas + container NB classes follow in 'other'.
+  var NB_RANK = { 'NEWBUILDING_PRICES_KAMSARMAX': 0, 'NEWBUILDING_PRICES_NEWCASTLEMAX': 1, 'NEWBUILDING_PRICES_ULTRAMAX': 2, 'NEWBUILDING_PRICES_VLCC': 10, 'NEWBUILDING_PRICES_SUEZMAX': 11, 'NEWBUILDING_PRICES_AFRAMAX': 12, 'NEWBUILDING_PRICES_PRODUCT': 13, 'NEWBUILDING_PRICES_LNGC_MEGI_CBM': 20, 'NEWBUILDING_PRICES_VLGC_88_000_CBM_PANAMAX_LPG_DF': 21, 'NEWBUILDING_PRICES_MGC_40_000_CBM_LPG_DF': 22, 'NEWBUILDING_PRICES_16_000_TEU_LNG_DF': 30, 'NEWBUILDING_PRICES_21_000_TEU_LNG_DF': 31, 'NEWBUILDING_PRICES_9_000_TEU_LNG_DF': 32, 'NEWBUILDING_PRICES_7_000_TEU': 33, 'NEWBUILDING_PRICES_4_500_TEU': 34, 'NEWBUILDING_PRICES_3_100_TEU': 35, 'NEWBUILDING_PRICES_1_900_TEU': 36 };
+  var SP_CURVE_FAMILY = { 'Capesize': ['S_P_DRY_5_CAPESIZE', 'S_P_DRY_10_CAPESIZE'], 'Capesize (Chinese)': ['S_P_DRY_5_CN_CAPESIZE_CHINESE'], 'Capesize (Japanese)': ['S_P_DRY_5_JP_CAPESIZE_JAPANESE'], 'Panamax (Chinese)': ['S_P_DRY_10_CN_PANAMAX_CHINESE'], 'Panamax (Japanese)': ['S_P_DRY_10_JP_PANAMAX_JAPANESE'], 'Handysize': ['S_P_DRY_5_HANDYSIZE', 'S_P_DRY_10_HANDYSIZE'], 'Ultramax': ['S_P_DRY_5_ULTRAMAX', 'S_P_DRY_10_ULTRAMAX'], 'Kamsarmax': ['S_P_DRY_5_KAMSARMAX', 'S_P_DRY_10_KAMSARMAX'], 'Newcastlemax': ['S_P_DRY_RESALE_NEWCASTLEMAX'], 'VLCC': ['S_P_WET_5_VLCC', 'S_P_WET_10_VLCC'], 'Suezmax': ['S_P_WET_5_SUEZMAX', 'S_P_WET_10_SUEZMAX'], 'Aframax / LR2': ['S_P_WET_5_AFRAMAX_LR2', 'S_P_WET_10_AFRAMAX_LR2'], 'MR': ['S_P_WET_5_MR', 'S_P_WET_10_MR'] };
+  function spFamilyPenalty(s) {
+    var ks = Object.keys(SP_CURVE_FAMILY);
+    for (var i = 0; i < ks.length; i++) {
+      if (SP_CURVE_FAMILY[ks[i]].indexOf(s.k) >= 0) return i; // §5 asset-curves class order (bulk then tanker), stable
+    }
+    return ks.length + (String(s.subtype || '').indexOf('RESALE') >= 0 ? 0 : 1); // unseen extras sink
+  }
+  function groupOf(s) {
+    if (s.type === 'NEWBUILDING') return (NB_RANK[s.k] != null) ? 1 : 98;
+    if (s.type === 'S&P') return (String(s.subtype || '').indexOf('RESALE') >= 0) ? 3 : 2;
+    if (TC_RANK[s.k] != null) return 0;
+    return 99; // LNG / LPG / counts leftovers stay out of the pedagogical run
+  }
   var picks = [];
-  Object.keys(perType).forEach(function (t) {
-    perType[t].sort(function (a, b) { return b.n - a.n; });
-    picks = picks.concat(perType[t].slice(0, 3));
+  keys.forEach(function (k) {
+    var s = labels[k];
+    if (s.n < 3) return;
+    var sk = Object.assign({ k: k }, s); // groupOf/rank need the series key
+    var g = groupOf(sk);
+    if (g >= 99) return;
+    var rank = (g === 0) ? (TC_RANK[k] != null ? TC_RANK[k] : 900)
+      : (g === 1) ? (NB_RANK[k] != null ? NB_RANK[k] : 900)
+      : spFamilyPenalty(sk); // §5 class order; 5y before 10y inside a family
+    picks.push(Object.assign({ k: k, _grp: g, _r: rank }, s));
   });
-  picks.sort(function (a, b) { return b.n - a.n; });
-  picks = picks.slice(0, 16);
-  picks.sort(function (a, b) { return (order.indexOf(a.type) < 0 ? 99 : order.indexOf(a.type)) - (order.indexOf(b.type) < 0 ? 99 : order.indexOf(b.type)); });
+  // group 98 = NB classes outside the ranked families (container/gas extras): keep them, ordered by key, after tanker NB
+  picks.sort(function (a, b) { return (a._grp - b._grp) || (a._r - b._r) || (b.n - a.n) || (a.k < b.k ? -1 : 1); });
+  picks = picks.slice(0, 20);
+  var GRP_LABEL = { 0: 'Time-Charter Rates', 1: 'Newbuilding Prices', 2: 'S&P Curves (5y/10y)', 3: 'S&P / Resale' };
 
   var grid = document.getElementById('fearnKpiGrid');
-  if (grid) grid.innerHTML = picks.map(function (s) {
+  var banner = '';
+  if (grid && picks.length) {
+    banner = '<div style="grid-column:1/-1;display:flex;gap:10px;flex-wrap:wrap;align-items:center;font-size:10px;font-family:\'IBM Plex Mono\',monospace;color:var(--text-muted);padding:2px 0 2px;">' +
+      '<span style="font-weight:700;letter-spacing:0.5px;">Tile order:</span>' +
+      '<span style="color:#3fb950;" title="Group 1 \u00b7 Time-charter rates: bulk classes (Capesize \u2192 Panamax \u2192 Supramax \u2192 Handysize), then tanker (VLCC \u2192 Suezmax \u2192 Aframax 1Y) \u2014 weekly prints from the tenor desk cache (Fearnleys TC assessment).">1 \u00b7 Time-Charter Rates</span>' +
+      '<span>bulk \u2192 tanker class order</span>' +
+      '<span style="color:var(--border);">\u00b7</span>' +
+      '<span style="color:#f778ba;" title="Group 2 \u00b7 Newbuilding prices: bulk family (Kamsarmax \u2192 Newcastlemax \u2192 Ultramax \u2014 the only bulk NB classes Fearnleys publishes), then tanker (VLCC \u2192 Suezmax \u2192 Aframax \u2192 MR/Product); gas and container NB follow.">2 \u00b7 Newbuilding Prices</span><span>bulk \u2192 tanker families</span>' +
+      '<span style="color:var(--border);">\u00b7</span>' +
+      '<span style="color:#39c5cf;" title="Groups 3\u20134 \u00b7 S&P secondhand values: 5y/10y curves then resale, ordered by the \u00a75 asset-curves class list (bulk classes first, then tanker); 5y before 10y inside a family.">3 \u00b7 S&P Curves \u2192 Resale</span><span>\u00a75 class order</span>' +
+      '<span style="color:var(--border);">\u00b7</span>' +
+      '<span>tie-break: longest cached history first</span></div>';
+  }
+  if (grid) grid.innerHTML = banner + picks.map(function (s) {
     var t = s.type, col = COLORS[t] || '#4d9aff';
     var m36 = s.m.slice(-36), mn = Infinity, mx = -Infinity;
     m36.forEach(function (p) { if (p[1] < mn) mn = p[1]; if (p[1] > mx) mx = p[1]; });
@@ -41177,9 +41332,11 @@ function renderFearnOverview() {
     var chgTxt = chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '% MoM');
     var pr = (s.pct_rank == null ? 0 : s.pct_rank);
     var prCol = pr >= 80 ? 'var(--green)' : (pr >= 40 ? 'var(--yellow,#e3b341)' : 'var(--red)');
+    var grpName = GRP_LABEL[s._grp] || '';
+    var ttTile = 'data-tt-type="fearn-overview-tile" data-tt-series="' + escapeHtml(s.k).replace(/"/g, '&quot;') + '" data-tt-grp="' + grpName.replace(/"/g, '&quot;') + '"';
     var sec = deskOf[t] != null ? deskOf[t] : 9;
     var st = fearnStatusOf(s);
-    return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" title="' + escapeHtml(s.k) + '">' +
+    return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" ' + ttTile + '>' +
       '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st) + '</div>' +
       '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(s.route || s.k) + '</div>' +
       '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })) + '</div>' +
@@ -41218,7 +41375,21 @@ function renderFearnTc() {
   var TENOR_COLORS = { '4-6M': '#4d9aff', '1Y': '#3fb950', '2Y': '#e3b341', '3Y': '#f778ba' };
   var cls = sel ? sel.value : FDESK.tcClass;
   FDESK.tcClass = cls;
+  // per-class source toggle: baltic weekly (default) vs Fearnleys monthly archive — one source at a time
+  if (FDESK.tcSourceByClass[cls] == null) FDESK.tcSourceByClass[cls] = 'baltic';
+  FDESK.tcSource = FDESK.tcSourceByClass[cls];
+  var seg = document.getElementById('fearnTcSrcWrap');
+  if (seg && !seg.getAttribute('data-tt-built')) {
+    seg.setAttribute('data-tt-built', '1');
+    seg.innerHTML =
+      '<button class="tracking-status-btn" id="fearnTcSrcBaltic" onclick="setFearnTcSource(\'baltic\')" data-tt-type="fearn-tc-source" data-tt-mode="baltic" style="border-radius:4px 0 0 4px;">Baltic Weekly (2000+)</button>' +
+      '<button class="tracking-status-btn" id="fearnTcSrcFearn" onclick="setFearnTcSource(\'fearnleys\')" data-tt-type="fearn-tc-source" data-tt-mode="fearnleys" style="border-radius:0 4px 4px 0;border-left:none;">Fearnleys Monthly (1977+)</button>';
+  }
+  var bB = document.getElementById('fearnTcSrcBaltic'), bF = document.getElementById('fearnTcSrcFearn');
+  if (bB) bB.classList.toggle('active', FDESK.tcSource === 'baltic');
+  if (bF) bF.classList.toggle('active', FDESK.tcSource === 'fearnleys');
   var byTenor = {};
+  var byArch = {}; // Fearnleys monthly archive series for this class (Fearnleys mode only)
   d.rows.forEach(function (r) { if (r[1] === cls) (byTenor[r[2]] = byTenor[r[2]] || []).push(r); });
   var tenors = Object.keys(byTenor).sort(function (a, b) { return ['4-6M', '1Y', '2Y', '3Y'].indexOf(a) - ['4-6M', '1Y', '2Y', '3Y'].indexOf(b); });
   var allDates = {};
@@ -41234,54 +41405,49 @@ function renderFearnTc() {
       borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: false
     };
   });
-  // pre-first-Baltic Fearnleys monthly archive layer — clearly attributed, never merged into the Baltic weekly lines
-  var TC_ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
-  var archKey = TC_ARCH_KEY[cls];
-  var archAdded = 0, archFirst = null, archLast = null, archN = null;
-  if (archKey) {
+  // Fearnleys mode: swap in the single monthly archive series for this class (replaces the weekly tenor datasets entirely)
+  var archInfo = { key: null, n: null, first: null, last: null, latest: null, latestDate: null, frozen: null };
+  var subLine = document.getElementById('fearnTcSubLine');
+  var titleNote = document.getElementById('fearnTcTitleNote');
+  var srcNote = document.getElementById('fearnTcSourceNote');
+  if (FDESK.tcSource === 'fearnleys') {
+    var TC_ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
+    var archKey = TC_ARCH_KEY[cls];
     var cache = fearnSeriesCache();
-    var aser = cache && cache.labels && cache.labels[archKey];
+    var aser = (cache && cache.labels && archKey) ? cache.labels[archKey] : null;
     if (aser && aser.m && aser.m.length) {
-      archN = aser.n;
-      var firstBaltic = dates.length ? dates[0].slice(0, 7) : null;
-      var archMap = {};
-      aser.m.forEach(function (p) { if (!firstBaltic || p[0] < firstBaltic) archMap[p[0]] = p[1]; }); // Baltic weekly wins: archive month suppressed where Baltic prints
-      var preDates = Object.keys(archMap).sort();
-      if (preDates.length) {
-        dates = preDates.concat(dates);
-        dateIdx = {}; dates.forEach(function (dt, i) { dateIdx[dt] = i; });
-        tenors.forEach(function (t) {
-          var vals = new Array(dates.length).fill(null);
-          byTenor[t].forEach(function (r) { vals[dateIdx[r[0]]] = r[3]; });
-          var ds = null;
-          datasets.forEach(function (x) { if (x.label === t) ds = x; });
-          if (ds) ds.data = vals;
-        });
-        datasets.push({
-          label: 'Fearnleys archive (monthly)', data: preDates.map(function (ym) { return archMap[ym]; }),
-          borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [6, 4], pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
-        });
-        archAdded = preDates.length;
-        archFirst = preDates[0];
-        archLast = preDates[preDates.length - 1];
-      }
+      archInfo = { key: archKey, n: aser.n, first: aser.first, last: aser.last, latest: aser.latest, latestDate: aser.last, frozen: aser.last < (FDESK.maxym || aser.last) };
+      dates = aser.m.map(function (p) { return p[0]; });
+      datasets = [{
+        label: 'Fearnleys monthly archive · ' + (aser.route || archKey),
+        data: aser.m.map(function (p) { return p[1]; }),
+        borderColor: '#e3b341', backgroundColor: 'transparent',
+        borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: false
+      }];
     }
   }
   var meta = document.getElementById('fearnTcMeta');
   if (meta) {
-    var tn = tenors.map(function (t) { return t + ' n=' + byTenor[t].length; }).join(' · ');
-    meta.textContent = cls + ' · ' + tn + ' · ' + dates.length + ' print dates · gaps = no published print (no interpolation)' + (archAdded ? ' · pre-Baltic from Fearnleys monthly archive (n=' + archAdded + ', ' + archFirst + '\u2192' + archLast + ')' : '');
-  }
-  var archMeta = document.getElementById('fearnTcArchMeta');
-  if (archMeta) {
-    if (archAdded) {
-      archMeta.style.display = 'block';
-      archMeta.textContent = '\u2014 \u2014 Fearnleys archive (monthly): ' + archKey + ' · ' + archAdded + ' months ' + archFirst + '\u2192' + archLast + ' before the first Baltic weekly print (' + dates[archAdded] + ') · archived desk, frozen-state display, no interpolation' + (archN != null ? ' · cache n=' + archN : '');
+    if (FDESK.tcSource === 'fearnleys') {
+      meta.textContent = archInfo.key
+        ? (cls + ' · Fearnleys monthly archive: ' + archInfo.key + ' · n=' + archInfo.n + ' monthly prints · ' + archInfo.first + '\u2192' + archInfo.last + ' · frozen-state display, no interpolation')
+        : (cls + ' · no Fearnleys monthly archive series — switch back to Baltic Weekly');
     } else {
-      archMeta.style.display = 'none';
-      archMeta.textContent = '';
+      var tn = tenors.map(function (t) { return t + ' n=' + byTenor[t].length; }).join(' · ');
+      meta.textContent = cls + ' · Baltic weekly · ' + tn + ' · ' + dates.length + ' print dates · gaps = no published print (no interpolation)';
     }
   }
+  if (titleNote) titleNote.textContent = FDESK.tcSource === 'fearnleys'
+    ? '· Fearnleys Monthly (1977+) · one monthly archive line'
+    : '· Baltic Weekly (2000+) · 2Y/3Y weekly only since 2021';
+  if (subLine) subLine.innerHTML = FDESK.tcSource === 'fearnleys'
+    ? 'single monthly archive series per class · honest span · frozen-state display · no interpolation'
+    : '4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation';
+  if (srcNote) srcNote.textContent = FDESK.tcSource === 'fearnleys'
+    ? (archInfo.key
+        ? 'Source: data/derived/fearnleys_series_monthly.json · ' + archInfo.key + ' · ' + archInfo.n + ' monthly prints · ' + archInfo.first + '\u2192' + archInfo.last + ' · frozen-state: ' + (archInfo.frozen ? 'archived (last print ' + archInfo.last + ')' : 'current')
+        : 'Source: data/derived/fearnleys_series_monthly.json · no monthly archive series for ' + cls)
+    : 'Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day) · weekly prints';
   if (typeof Chart === 'undefined') return;
   var canvas = document.getElementById('fearnTcChart');
   if (!canvas) return;
@@ -41305,6 +41471,11 @@ function renderFearnTc() {
   });
 }
 function onFearnTcClass() { FDESK.secInit[2] = false; renderFearnTc(); }
+function setFearnTcSource(mode) {
+  FDESK.tcSourceByClass[FDESK.tcClass || 'Capesize'] = (mode === 'fearnleys') ? 'fearnleys' : 'baltic';
+  FDESK.secInit[2] = false;
+  renderFearnTc();
+}
 
 // ---------- S3 TANKER ROUTES ----------
 function renderFearnTank() {
@@ -42041,7 +42212,7 @@ function renderFearnDesk() {
 }
 
 // =====================================================================
-// FEARNLEYS DESK TAB (Wave-2): full 294-series browser + broker voice + backtest lab
+// BROKER DESK TAB (Wave-2, ex Fearnleys): full 294-series browser + broker voice + backtest lab
 // =====================================================================
 var FEARN_STATE = { type: 'TANK', label: null, range: 'max', voiceType: 'all', voiceQ: '', init: false, archive: null, archiveLoading: false };
 var fearnMainChartInstance = null;

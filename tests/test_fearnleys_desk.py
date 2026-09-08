@@ -80,10 +80,30 @@ def test_fearnleys_frontend_markers():
         "DATA.fearnDeskTenor", "DATA.fearnNbPrices", "DATA.fearnAssetCurves",
         "DATA.fearnGasExtra", "DATA.fearnFixturesTape", "DATA.fearnFixturesFacets",
         # audit facts encoded in UI copy
-        "2Y+ weekly only since 2021", "Coverage 2024 forward",
+        "2Y/3Y weekly only since 2021", "Coverage 2024 forward",
         "DAILY native", "discontinued ",
+        # broker-desk rename (visible label only; ids stay fearn*)
+        ">Broker Desk</button>", "aria-label=\"Broker Desk\"",
+        # TC source toggle (one source at a time; archive stitching removed)
+        "id=\"fearnTcSrcBaltic\"", "id=\"fearnTcSrcFearn\"",
+        "Baltic Weekly (2000+)", "Fearnleys Monthly (1977+)",
+        "function setFearnTcSource(", "tcSourceByClass",
+        "id=\"fearnTcSourceNote\"", "id=\"fearnTcTitleNote\"", "id=\"fearnTcSubLine\"",
+        # dynamic tooltip bus on the desk
+        "data-tt-type=\"fearn-overview-title\"", "data-tt-type=\"fearn-overview-tile\"",
+        "data-tt-type=\"fearn-tc-class\"", "data-tt-type=\"fearn-tc-source\"",
+        "data-tt-type=\"fearn-tc-chart\"",
     ]:
         assert marker in HTML, marker
+
+    # rejected world must stay absent (S2 archive stitching removed; the purple
+    # hue itself is still used elsewhere, so only S2-scoped markers are asserted)
+    for gone in [
+        "id=\"fearnTcArchMeta\"",                     # purple archive attribution div
+        "Fearnleys archive (monthly)",               # stitched dashed purple dataset
+        "pre-first-Baltic months from the Fearnleys monthly archive (dashed)",
+    ]:
+        assert gone not in HTML, "stale marker still present: " + gone
 
 
 def test_fearnleys_desk_cache_shapes():
