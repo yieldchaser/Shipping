@@ -27,47 +27,152 @@ BASE_URL = "https://en.stockq.org/index/{}.php"  # Fixed: removed space
 
 _SESSION = requests.Session()
 
-def scrape_index(code):
-    """Scrape all data from stockq.org for one index"""
-    url = BASE_URL.format(code)
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
+import base64
+import math
 
+def decode_stockq(payload: str) -> str:
+    """Decode client-side obfuscated text on stockq.org"""
     try:
-        response = _SESSION.get(url, headers=headers, timeout=30)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
+        raw = base64.b64decode(payload).decode('utf-8', errors='ignore')
+        fields = raw.split('|')
+        if len(fields) != 6:
+            return ''
+        z = int(fields.pop(0))
+        a = fields
 
-        tables = soup.find_all('table')
+        def random():
+            nonlocal z
+            z = (z * 48271) % 2147483647
+            return z / 2147483647.0
 
-        data = []
-        for table in tables:
-            rows = table.find_all('tr')
-            for row in rows[1:]:  # Skip header
-                cols = row.find_all('td')
-                if len(cols) >= 3:
-                    date_text = cols[0].text.strip()
-                    index_text = cols[1].text.strip().replace(',', '')
-                    change_text = cols[2].text.strip()
+        random()
+        random()
 
-                    try:
-                        date = pd.to_datetime(date_text, format='%Y/%m/%d')
-                        index_val = float(index_text)
-                        if index_val <= 0:
-                            continue  # skip zero/negative — sanity check
-                        data.append({
-                            'Date': date.strftime('%Y-%m-%d'),
-                            'Index': index_val,
-                            '% Change': change_text
-                        })
-                    except (ValueError, TypeError):
-                        continue
+        order = [0, 1, 2]
+        for i in range(2, 0, -1):
+            j = math.floor(random() * (i + 1))
+            order[i], order[j] = order[j], order[i]
 
-        return pd.DataFrame(data)
+        random()
+        fake1 = math.floor(random() * 4)
+        random()
+        fake2 = math.floor(random() * 5)
 
+        a.pop(fake2)
+        a.pop(fake1)
+
+        value = ['', '', '']
+        for k in range(3):
+            value[order[k]] = a[k]
+
+        return ''.join(value)
+    except Exception:
+        return ''
+
+def extract_stockq_cell_text(td):
+    sq = td.find(class_='sq-obfuscated')
+    if sq and sq.has_attr('data-sq'):
+        val = decode_stockq(sq['data-sq'])
+        if '%' in td.text and not val.endswith('%'):
+            val = val + '%'
+        return val
+    return td.text.strip()
+
+SEE_CAPITAL_IDS = {
+    'BCI': 37,
+    'BDI': 39,
+    'BPI': 42,
+    'BSI': 43,
+    'BHI': 41,
+    'BDTI': 40,
+    'BCTI': 38,
+}
+
+def scrape_see_capital_index(code):
+    """Fetch recent history from SeeCapitalMarkets as robust primary/fallback source"""
+    idx_id = SEE_CAPITAL_IDS.get(code)
+    if not idx_id:
+        return pd.DataFrame()
+    url = "https://seecapitalmarkets.com/SingleIndexValues/GetHistoryDataAscending"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'X-Requested-With': 'XMLHttpRequest',
+        'Accept': 'application/json, text/javascript, */*; q=0.01',
+        'Referer': 'https://seecapitalmarkets.com/indeksi'
+    }
+    try:
+        r = _SESSION.get(url, params={'indexId': idx_id, 'years': 1}, headers=headers, timeout=20)
+        if r.status_code == 200:
+            data = r.json().get('data', [])
+            records = []
+            for i, item in enumerate(data):
+                dt = item.get('Date', '')[:10]
+                close = float(item.get('Close', 0.0))
+                if not dt or close <= 0:
+                    continue
+                prev_close = float(data[i-1]['Close']) if i > 0 else close
+                pct = ((close - prev_close) / prev_close) * 100 if prev_close else 0.0
+                chg_str = f"{pct:+.2f}%"
+                records.append({
+                    'Date': dt,
+                    'Index': close,
+                    '% Change': chg_str
+                })
+            return pd.DataFrame(records)
     except Exception as e:
-        print(f"Error scraping {code}: {e}")
+        print(f"Error scraping SeeCapitalMarkets for {code}: {e}")
+    return pd.DataFrame()
+
+def scrape_index(code):
+    """Scrape data from stockq.org with SeeCapitalMarkets fallback for one index"""
+    data = []
+    # 1. Try stockq.org
+    try:
+        url = BASE_URL.format(code)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+        response = _SESSION.get(url, headers=headers, timeout=25)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            for table in soup.find_all('table'):
+                for row in table.find_all('tr'):
+                    cols = row.find_all('td')
+                    for offset in [0, 3]:
+                        if len(cols) >= offset + 3:
+                            date_text = extract_stockq_cell_text(cols[offset])
+                            index_text = extract_stockq_cell_text(cols[offset + 1]).replace(',', '')
+                            change_text = extract_stockq_cell_text(cols[offset + 2])
+                            if date_text and '/' in date_text and len(date_text) == 10:
+                                try:
+                                    date = pd.to_datetime(date_text, format='%Y/%m/%d')
+                                    index_val = float(index_text)
+                                    if index_val > 0:
+                                        data.append({
+                                            'Date': date.strftime('%Y-%m-%d'),
+                                            'Index': index_val,
+                                            '% Change': change_text
+                                        })
+                                except (ValueError, TypeError):
+                                    continue
+    except Exception as e:
+        print(f"Notice: stockq scrape for {code} encountered: {e}")
+
+    df_sq = pd.DataFrame(data)
+
+    # 2. Query SeeCapitalMarkets for redundancy and gap filling
+    df_see = scrape_see_capital_index(code)
+
+    if not df_sq.empty and not df_see.empty:
+        # Combine both, preferring stockq for identical dates (exact % change string)
+        combined = pd.concat([df_see, df_sq]).drop_duplicates(subset=['Date'], keep='last')
+        return combined.sort_values('Date').reset_index(drop=True)
+    elif not df_sq.empty:
+        return df_sq.drop_duplicates(subset=['Date']).sort_values('Date').reset_index(drop=True)
+    elif not df_see.empty:
+        return df_see.drop_duplicates(subset=['Date']).sort_values('Date').reset_index(drop=True)
+    else:
+        print(f"Error: All sources failed for index {code}")
         return pd.DataFrame()
 
 def update_csv(filename, new_data):
