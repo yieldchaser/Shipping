@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 9.8.2026",
+  "section_path": [
+    "Breakwave Tanker Report 9.8.2026"
+  ],
+  "section_path_text": "Breakwave Tanker Report 9.8.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAtlantic Strength and Hormuz Risk Support VLCC Premiums - Firmer enquiry from the US Gulf, Brazil and West Africa is absorbing\nSource: Breakwave Advisors\n\nLinked asset: 2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### September 8, 2026\n\n- **Atlantic Strength and Hormuz Risk Support VLCC Premiums -** Firmer enquiry from the US Gulf, Brazil and West Africa is absorbing prompt VLCC tonnage and limiting the number of ships available to ballast towards the Middle East while owners considering Arabian Gulf employment must also factor in the **security,** **insurance and operational exposure** associated with Hormuz, increasing the cost of attracting vessels east. Iraq's Basrah exports recovered alongside improved, although still selective, access through Hormuz, with Iraqi crude exports increasing from approximately 1.35 mb/d in July to ~2.35 mb/d in August after certain tankers were permitted to transit. Still, **volumes remained below ",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "funds"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1885,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-09-08_breakwave-tanker-report-9-8-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-9-8-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026",
+      "parent_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Atlantic Strength and Hormuz Risk Support VLCC Premiums - Firmer enquiry from the US Gulf, Brazil and West Africa is absorbing\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "us_gulf",
+        "absorbing",
+        "africa",
+        "enquiry"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026__s02_linked_asset_2026_09_08_breakwave_tanker_report_9_8_2026_breakwavetankersseptember82026report_5588a1c8eaa9_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026",
+      "parent_id": "hellenic_shipbuilding_2026-09-08_2026_09_08_breakwave_tanker_report_9_8_2026__root",
+      "title": "Linked asset: 2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-09-08_breakwave-tanker-report-9-8-2026_breakwavetankersseptember82026report_5588a1c8eaa9.pdf\n\n# Tanker Shipping\n\n## Bi-Weekly Industry Report\n\n### September 8, 2026\n\n- **Atlantic Strength and Hormuz Risk Support VLCC Premiums -** Firmer enquiry from the US Gulf, Brazil and West Africa is absorbing prompt VLCC tonnage and limiting the number of ships available to ballast towards the Middle East while owners considering Arabian Gulf employment must also factor in the **security,** **insurance and operational exposure** associated with Hormuz, increasing the cost of attracting vessels east. Iraq's Basrah exports recovered alongside improved, although still selective, access through Hormuz, with Iraqi crude exports increasing from approximately 1.35 mb/d in July to ~2.35 mb/d in August after certain tankers were permitted to transit.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1805,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

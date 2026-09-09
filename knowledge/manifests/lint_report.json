@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:56:19Z",
+  "generated_at": "2026-09-09T15:08:59Z",
   "current_date": "2026-09-09",
   "warning_count": 4,
   "high_severity_count": 0,
@@ -53,7 +53,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-08"
+            "latest_date": "2026-09-09"
           }
         ],
         "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
@@ -89,7 +89,7 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-08"
+            "latest_date": "2026-09-09"
           },
           {
             "source": "breakwave",
@@ -125,14 +125,14 @@
             "avg_tone_score": 0.38,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-05"
+            "latest_date": "2026-09-08"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-08"
+            "latest_date": "2026-09-09"
           },
           {
             "source": "breakwave",
@@ -175,7 +175,7 @@
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-08"
+            "latest_date": "2026-09-09"
           },
           {
             "source": "breakwave",
