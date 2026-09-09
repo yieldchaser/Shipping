@@ -1,0 +1,34 @@
+{
+  "source": "IMF PortWatch ArcGIS FeatureServices (public, no auth)",
+  "root": "https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services",
+  "payload_decision": "Full 2019->live daily universe ~5.8M rows ~726MB raw CSV exceeds GitHub 100MB/file hard limit; ships as current-year hot CSV (+zstd parquet) plus per-prior-year csv.gz shards (measured 25.7 B/row gz). No data pruned.",
+  "sizes": {
+    "portwatch_ports_master.csv": {
+      "rows": 2065,
+      "bytes": 460100
+    },
+    "chokepoints_master.csv": {
+      "rows": 28,
+      "bytes": 5883
+    },
+    "portwatch_disruptions.csv": {
+      "rows": 132,
+      "bytes": 48762
+    },
+    "port_calls_daily_expanded.csv": {
+      "rows": 495600,
+      "bytes": 56252194
+    },
+    "port_calls_daily_expanded.parquet": {
+      "rows": 495600,
+      "bytes": 8199908
+    }
+  },
+  "rows": 0,
+  "ports_ingested": 2065,
+  "max_date": "2026-08-28",
+  "min_date": "2026-01-01",
+  "mode": "refresh",
+  "elapsed_s": 19.3,
+  "generated_utc": "2026-09-09 06:20 UTC"
+}

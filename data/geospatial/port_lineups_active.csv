@@ -732,7 +732,6 @@ SAJUA,Juaymah,Saudi Arabia,Tankers,C. Innovator,IMO9595618,305000,Operating at b
 SAJUA,Juaymah,Saudi Arabia,Tankers,C. Primacy,IMO9422160,305000,Operating at berth,2025-12-26 08:00:00,1.3,Aramco LPG,26.811,50.0138
 SAJUA,Juaymah,Saudi Arabia,Tankers,Nissos Heraclea*,IMO9419618,305000,Operating at berth,2024-11-30 08:00:00,1.7,Aramco LPG,26.8238,50.039
 SAJUA,Juaymah,Saudi Arabia,Tankers,Chinese TBN,IMO9139906,305000,Operating at berth,2026-01-19 08:00:00,0.5,Aramco LPG,26.8104,50.0163
-SAJUA,Juaymah,Saudi Arabia,Tankers,Front Beauly,IMO9937103,305000,Operating at berth,2026-02-02 08:00:00,1.3,Aramco LPG,26.8131,50.0093
 SAJUA,Juaymah,Saudi Arabia,Tankers,Cap Felix,IMO9380738,158000,Operating at berth,2024-10-13 08:00:00,0.9,Aramco LPG,26.8102,50.0175
 SAJUA,Juaymah,Saudi Arabia,Tankers,Chafa (Suezmax),IMO9215036,305000,Operating at berth,2023-06-02 08:00:00,1.7,Aramco LPG,26.8125,50.0296
 SAJUA,Juaymah,Saudi Arabia,Tankers,Commodore,IMO9176993,305000,Operating at berth,2023-02-26 08:00:00,1.7,Aramco LPG,26.8337,50.0004
@@ -1439,6 +1438,7 @@ USPOA,Port Arthur / Nederland,United States,Tankers,Pertamina Halmahera,IMO98726
 USPOA,Port Arthur / Nederland,United States,Tankers,Bidbid (ATS),IMO1085473,305000,Waiting at anchor,2026-07-18 08:00:00,1.0,Refrigerated Propane / Butane,29.9316,-93.981
 USPOA,Port Arthur / Nederland,United States,Tankers,Brugge,IMO9941855,158000,Waiting at anchor,2025-06-05 08:00:00,4.0,Refrigerated Propane / Butane,29.9424,-93.8959
 USPOA,Port Arthur / Nederland,United States,Tankers,C. Grace (Hob),IMO9904065,305000,Waiting at anchor,2024-12-23 08:00:00,4.5,Refrigerated Propane / Butane,29.9041,-93.8576
+USPOA,Port Arthur / Nederland,United States,Tankers,Front Beauly,IMO9937103,305000,Waiting at anchor,2026-09-12 08:00:00,4.5,Refrigerated Propane / Butane,29.9041,-93.8576
 USPOA,Port Arthur / Nederland,United States,Tankers,Front Loki,IMO9406013,158000,Waiting at anchor,2023-07-09 08:00:00,4.5,Refrigerated Propane / Butane,29.9041,-93.8576
 USPOA,Port Arthur / Nederland,United States,Tankers,Cosdignity Lake,IMO9727209,305000,Waiting at anchor,2026-01-16 08:00:00,6.0,Refrigerated Propane / Butane,29.9375,-93.9729
 USPOA,Port Arthur / Nederland,United States,Tankers,Decathlon,IMO9159684,158000,Waiting at anchor,2023-11-30 08:00:00,4.5,Refrigerated Propane / Butane,29.9444,-93.9594
