@@ -3453,6 +3453,21 @@
     .pd-kpi-val { font-size: 14px; font-weight: 700; color: #fff; margin-top: 2px; }
     .pd-mixbar { display: flex; height: 7px; border-radius: 4px; overflow: hidden; border: 1px solid var(--border); }
     .pd-mixbar span { display: block; height: 100%; }
+    /* PHASE STALE: non-blocking "new build available" toast (never auto-reloads) */
+    .stale-toast {
+      position: fixed; top: 14px; right: 14px; z-index: 10000;
+      display: none; align-items: center; gap: 10px;
+      background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.45); padding: 10px 14px;
+      font-size: 12px; color: var(--text); max-width: 340px;
+    }
+    .stale-toast.show { display: flex; }
+    .stale-toast-msg { color: var(--text); line-height: 1.4; }
+    .stale-toast-btn {
+      background: var(--accent); color: #06111f; border: none; border-radius: 6px;
+      padding: 6px 12px; font-size: 11px; font-weight: 700; cursor: pointer; white-space: nowrap;
+    }
+    .stale-toast-btn:hover { filter: brightness(1.08); }
     .pd-vessel-row { cursor: pointer; }
     .pd-vessel-row:hover td { background: rgba(77, 154, 255, 0.09); }
     .pd-vessel-row.selected td { background: rgba(77, 154, 255, 0.18); }
@@ -6000,7 +6015,11 @@
     <button class="index-pill" data-val="bdryff">BDRYFF</button>
     <button class="index-pill" data-val="bwetff">BWETFF</button>
 
-    <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span></div>
+    <div id="staleBuildToast" class="stale-toast" role="status" aria-live="polite" style="display:none;">
+    <span class="stale-toast-msg">Site updated: reload for the latest build</span>
+    <button id="staleBuildReloadBtn" class="stale-toast-btn" type="button">Reload</button>
+  </div>
+  <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span></div>
 
     <!-- Hidden select to drive the legacy Javascript app state seamlessly -->
     <select id="globalProduct" style="display:none;">
@@ -16325,6 +16344,8 @@ if (intelTabsContainer) {
           try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
           DATA.loaded = true;
           if (overlay) overlay.classList.add('hidden');
+          // PHASE STALE: arm the self-heal surfaces on the forced-render path too.
+          try { initStaleGuard(); } catch (err) {}
         }
       }, 8000);
 
@@ -16404,7 +16425,7 @@ if (intelTabsContainer) {
         const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r || []); });
         const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r || []; });
         const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r || []; });
-        const etfLiveQuotesPromise = fetch('data/etf/live_quotes.json')
+        const etfLiveQuotesPromise = fetch('data/etf/live_quotes.json', { cache: 'no-cache' })
           .then(r => r.ok ? r.json() : null)
           .then(data => { DATA.etfLiveQuotes = data || null; tick('ETF Live Quotes'); })
           .catch(() => { DATA.etfLiveQuotes = null; tick('ETF Live Quotes'); });
@@ -16577,7 +16598,7 @@ if (intelTabsContainer) {
           }).filter(row => row.date != null);
         });
 
-        const tceMatrixPromise = fetch('data/derived/alibra_tce_matrix.json')
+        const tceMatrixPromise = fetch('data/derived/alibra_tce_matrix.json', { cache: 'no-cache' })
           .then(resp => resp.ok ? resp.json() : null)
           .then(json => {
             if (json) {
@@ -17214,7 +17235,7 @@ let expandedLoadPromise = null;
 
 
 
-        const chokepointSummaryPromise = fetch('data/congestion/chokepoint_geo_summary.json')
+        const chokepointSummaryPromise = fetch('data/congestion/chokepoint_geo_summary.json', { cache: 'no-cache' })
           .then(res => res.ok ? res.json() : null)
           .then(data => {
             DATA.chokepointSummary = data;
@@ -17237,7 +17258,7 @@ let expandedLoadPromise = null;
           }));
         });
 
-        const fearnleysSummaryPromise = fetch('data/derived/fearnleys_summary.json')
+        const fearnleysSummaryPromise = fetch('data/derived/fearnleys_summary.json', { cache: 'no-cache' })
           .then(res => res.ok ? res.json() : null)
           .then(data => {
             DATA.fearnleysSummary = data;
@@ -17248,7 +17269,7 @@ let expandedLoadPromise = null;
           });
 
         // Wave-2 Fearnleys desk: per-label monthly series cache (294 labels).
-        const fearnleysSeriesPromise = fetch('data/derived/fearnleys_series_monthly.json')
+        const fearnleysSeriesPromise = fetch('data/derived/fearnleys_series_monthly.json', { cache: 'no-cache' })
           .then(res => res.ok ? res.json() : null)
           .then(data => {
             DATA.fearnleysSeries = data;
@@ -17294,7 +17315,7 @@ let bunkerSummaryLoadPromise = null;
           // on idle slices - fetch immediately, JSON.parse off the open path,
           // cache + refresh when the parse lands. Tab-open during flight shows
           // the same honest waiting state as before and re-renders on arrival.
-          bunkerSummaryLoadPromise = fetch('data/bunkers/bunker_frontend_summary.json')
+          bunkerSummaryLoadPromise = fetch('data/bunkers/bunker_frontend_summary.json', { cache: 'no-cache' })
             .then(res => res.ok ? res.text() : null)
             .then(text => new Promise(function (resolve) {
               if (text == null) { resolve(null); return; }
@@ -17331,8 +17352,8 @@ let bunkerSummaryLoadPromise = null;
           if (DATA.offshoreSummary && DATA.portStressSummary) return Promise.resolve();
           if (offshoreSummaryLoadPromise) return offshoreSummaryLoadPromise;
           var offshoreSummaryPromise = Promise.all([
-            fetch('data/derived/offshore_summary.json').then(res => res.ok ? res.json() : null),
-            fetch('data/derived/port_stress_summary.json').then(res => res.ok ? res.json() : null),
+            fetch('data/derived/offshore_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
+            fetch('data/derived/port_stress_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
           ]).then(results => {
             DATA.offshoreSummary = results[0];
             DATA.portStressSummary = results[1];
@@ -17378,8 +17399,8 @@ let bunkerSummaryLoadPromise = null;
               }
             } catch (e) { console.warn('[fearn daily refresh]', e); }
           } };
-          var tankerRoutesDailyPromise = fetch('data/derived/fearnleys_tanker_routes_daily.json').then(res => res.ok ? res.json() : null);
-          var dryRoutesDailyPromise = fetch('data/derived/fearnleys_dry_routes_daily.json').then(res => res.ok ? res.json() : null);
+          var tankerRoutesDailyPromise = fetch('data/derived/fearnleys_tanker_routes_daily.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null);
+          var dryRoutesDailyPromise = fetch('data/derived/fearnleys_dry_routes_daily.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null);
           fearnDailyLoadPromise = Promise.all([tankerRoutesDailyPromise, dryRoutesDailyPromise]).then(results => {
             var td = results[0], dd = results[1];
             DATA.fearnleysTankerRoutesDaily = td;
@@ -17460,6 +17481,9 @@ let bunkerSummaryLoadPromise = null;
           idleSchedule('offshore-summary', function () { loadOffshoreSummary(); }, 35);
           idleSchedule('expanded-portcalls', function () { loadExpandedPortCalls(); }, 40);
           idleStart();
+          // PHASE STALE: with data loaded and renderers live, arm the self-heal
+          // surfaces (build ETag watch, visibility repaint, canvas doctor).
+          initStaleGuard();
         }
       }
     }
@@ -21756,6 +21780,13 @@ let bunkerSummaryLoadPromise = null;
       if (tabId === 'tracking') renderTrackingTab();
       if (tabId === 'bunkers') renderBunkersTab();
       if (tabId === 'offshore') { if (typeof loadOffshoreSummary === 'function') loadOffshoreSummary(); renderOffshoreTab(); }
+      // PHASE STALE: some renderers live in later <script> blocks, so a bare
+      // name can be out of scope here; dispatch through a window-mirror
+      // fallback before giving up, and never mask a different failure.
+      if (window.__staleGuardArmed) {
+        window.refreshVisibleCharts(300, tabId, true);
+        healUniverseClassMix();
+      }
 
       // Tooltip coverage engine: after this tab's renderers ran, give every
       // still-uncontexted interactive element an honest hover annotation.
@@ -24302,7 +24333,7 @@ let bunkerSummaryLoadPromise = null;
 
       const matrix = DATA.tceMatrix;
       if (!matrix) {
-        fetch('data/derived/alibra_tce_matrix.json')
+        fetch('data/derived/alibra_tce_matrix.json', { cache: 'no-cache' })
           .then(function(r) { return r.ok ? r.json() : null; })
           .then(function(json) {
             if (json) {
@@ -37341,11 +37372,11 @@ function trackingSectorPortStats() {
         tanker: 0, dry_bulk: 0, container: 0, general_cargo: 0, roro: 0
       };
     }
-    p.tanker += (r.portcalls_tanker || 0);
-    p.dry_bulk += (r.portcalls_dry_bulk || 0);
-    p.container += (r.portcalls_container || 0);
-    p.general_cargo += (r.portcalls_general_cargo || 0);
-    p.roro += (r.portcalls_roro || 0);
+    p.tanker += (parseInt(r.portcalls_tanker, 10) || 0);
+    p.dry_bulk += (parseInt(r.portcalls_dry_bulk, 10) || 0);
+    p.container += (parseInt(r.portcalls_container, 10) || 0);
+    p.general_cargo += (parseInt(r.portcalls_general_cargo, 10) || 0);
+    p.roro += (parseInt(r.portcalls_roro, 10) || 0);
   });
   var secMap = { 'Tankers': 'tanker', 'Dry Bulk': 'dry_bulk', 'Container': 'container', 'General Cargo': 'general_cargo', 'RoRo': 'roro' };
   Object.keys(byPort).forEach(function(pid) {
@@ -37730,6 +37761,262 @@ function renderTrackingTab() {
   }
 }
 
+// ================= PHASE STALE: SELF-HEAL SURFACES =================
+// A session-persistent tab that survives many deploys can end up running old
+// JS against new data files, and hidden-tab canvases can be sized while the
+// panel is display:none and shown garbled. Three honest self-heal mechanisms,
+// all opt-out-safe and none destructive to user state:
+//   1. Build ETag watch: HEAD the document every 10 minutes; on change show a
+//      non-blocking "Site updated" toast with a Reload button. NEVER auto-reload
+//      (the user may be mid-analysis).
+//   2. Canvas resilience: visibilitychange-to-visible re-runs the ACTIVE tab's
+//      renderers once (destroy + redraw), plus a broken-canvas doctor (CSS size
+//      > 0 with a 0-sized backing store) that re-runs the render.
+//   3. Class-mix guard: healUniverseClassMix() rebuilds the port-universe mix
+//      bars if raw digit text ever shows up in the Class Mix column.
+window.refreshVisibleCharts = window.refreshVisibleCharts || function refreshVisibleCharts(delayMs, tabId, chartsOnly) {
+  var paint = function () {
+    if (typeof DATA === 'undefined' || !DATA.loaded) return;
+    var active = (typeof tabId === 'string' && tabId) ? tabId : (window.currentTab || (document.querySelector('.tab-panel.active') ? document.querySelector('.tab-panel.active').id.replace(/^tab-/, '') : 'dashboard'));
+    var panel = document.getElementById('tab-' + active);
+    if (!panel) return;
+    // 1) Leaflet maps: invalidateSize so a zero-size paint period is corrected.
+    if (active === 'tracking' && window.trackingMap && typeof window.trackingMap.invalidateSize === 'function') {
+      try { window.trackingMap.invalidateSize(); } catch (err) {}
+    }
+    if (active === 'bunkers' && window.bunkerGeoMap && typeof window.bunkerGeoMap.invalidateSize === 'function') {
+      try { window.bunkerGeoMap.invalidateSize(); } catch (err) {}
+    }
+    // 2) Chart.js canvases: destroy + redraw the active tab's charts once.
+    panel.querySelectorAll('canvas').forEach(function (cv) {
+      try {
+        var ch = (typeof Chart !== 'undefined' && Chart.getChart) ? Chart.getChart(cv) : null;
+        if (!ch && cv.id && window.chartRegistry && window.chartRegistry[cv.id]) ch = window.chartRegistry[cv.id];
+        if (ch && typeof ch.resize === 'function') { ch.resize(); }
+        if (ch && typeof ch.update === 'function') { ch.update(); }
+      } catch (err) {}
+    });
+    // 3) Dispatch the tab's renderer once (destroy + redraw semantics for
+    //    non-Chart surfaces). Known renderer names first (same-script scope),
+    //    then a window-mirror fallback for renderers that live in later
+    //    <script> blocks. A failure inside a renderer is surfaced, never masked.
+    var renders = {
+      dashboard: ['renderDashboard', true], seasonality: ['renderQuarterlyTab', true],
+      indices: ['renderIndicesTab', true], etfs: ['renderETFTab', true],
+      'yearly-dash': ['renderYearlyDash', true], signals: ['renderSignalsTab', true],
+      fearnleys: ['renderFearnleysTab', true], intelligence: ['renderIntelligenceTab', true],
+      tracking: ['renderTrackingTab', false], bunkers: ['renderBunkersTab', true],
+      offshore: ['renderOffshoreTab', true]
+    };
+    var entry = renders[active];
+    if (!entry) return;
+    var fn = null;
+    try { fn = (typeof window[entry[0]] === 'function') ? window[entry[0]] : null; } catch (err) {}
+    if (!fn) {
+      try { var bare = null; try { bare = eval(entry[0]); } catch (e2) {} fn = (typeof bare === 'function') ? bare : null; } catch (err) {}
+    }
+    if (!fn) return;
+    if (chartsOnly) return;
+    try {
+      if (active === 'dashboard' || active === 'seasonality' || active === 'yearly-dash' || active === 'signals') fn(window.currentProduct);
+      else fn();
+    } catch (err) { console.error('[refreshVisibleCharts ' + active + ']', err); }
+  };
+  if (delayMs) setTimeout(paint, delayMs); else paint();
+};
+
+function canvasIsBroken(cv) {
+  // Broken = CSS box has size but the backing store does not (the hidden-tab
+  // zero-size paint signature), or the backing store itself is 0x0.
+  try {
+    var w = cv.clientWidth, h = cv.clientHeight;
+    if (w <= 1 && h <= 1) return false; // panel legitimately hidden: not a paint defect
+    var bw = cv.width, bh = cv.height;
+    if (!bw || !bh) return true;
+    var dpr = (window.devicePixelRatio && window.devicePixelRatio > 0) ? window.devicePixelRatio : 1;
+    return bw < Math.floor(w * 0.5 / dpr) || bh < Math.floor(h * 0.5 / dpr);
+  } catch (err) { return false; }
+}
+
+function canvasIsBlank(cv) {
+  // Zero-painted region where content should be: healthy store but nothing
+  // ever drew (garbled/cleared paint leaves an effectively uniform bitmap).
+  try {
+    if (cv.width < 40 || cv.height < 40) return false;
+    var ctx = cv.getContext('2d');
+    if (!ctx) return false;
+    var sw = Math.min(cv.width, 300), sh = Math.min(cv.height, 200);
+    var step = Math.max(4, Math.floor(Math.min(sw, sh) / 24));
+    var d = ctx.getImageData(0, 0, sw, sh).data;
+    var uniq = {};
+    var n = 0;
+    for (var y = 0; y < sh; y += step) {
+      for (var x = 0; x < sw; x += step) {
+        var i = (y * sw + x) * 4;
+        uniq[d[i] + ',' + d[i + 1] + ',' + d[i + 2]] = 1;
+        n++;
+        if (n > 300) break;
+      }
+      if (n > 300) break;
+    }
+    var keys = Object.keys(uniq);
+    return keys.length <= 1;
+  } catch (err) { return false; }
+}
+
+function canvasDoctorPass() {
+  var active = window.currentTab || 'dashboard';
+  var panel = document.getElementById('tab-' + active);
+  if (!panel) return false;
+  var broken = 0;
+  panel.querySelectorAll('canvas').forEach(function (cv) {
+    var owner = cv.closest('.tab-panel');
+    if (owner && !owner.classList.contains('active')) return;
+    if (canvasIsBroken(cv) || canvasIsBlank(cv)) broken++;
+  });
+  // Leaflet maps hide paint defects behind tiles; a 0-size render pane is the
+  // equivalent defect for the map surface.
+  if (active === 'tracking' && window.trackingMap) {
+    try {
+      var sz = window.trackingMap.getSize();
+      var pane = document.querySelector('#tab-tracking .leaflet-map-pane');
+      if (pane) {
+        var pw = pane.clientWidth || parseInt((pane.style.width || '0'), 10);
+        if ((sz && sz.x === 0) || pw === 0) broken++;
+      }
+    } catch (err) {}
+  }
+  if (broken > 0) {
+    console.warn('[stale-guard] ' + broken + ' broken/blank canvas(es) on "' + active + '" -> re-render');
+    window.refreshVisibleCharts(0, active);
+    return true;
+  }
+  return false;
+}
+
+function healUniverseClassMix() {
+  // The Class Mix column must only ever contain .pd-mixbar bars or the em-dash
+  // empty state. A stale deploy mix once rendered raw 0/1 digit strings here;
+  // any long all-binary text node is replaced with the same bar builder.
+  var tbody = document.getElementById('universeTableBody');
+  if (!tbody) return 0;
+  var ROW_BITS = /^[01]{20,}$/;
+  var healed = 0;
+  var stats = window.__trackingSectorPortStats && window.__trackingSectorPortStats._byPort ? window.__trackingSectorPortStats._byPort : null;
+  var keyOrder = ['tanker', 'dry_bulk', 'container', 'general_cargo', 'roro'];
+  tbody.querySelectorAll('tr').forEach(function (tr) {
+    if (tr.getAttribute('data-tt-type') !== 'universe-port-row') return;
+    var portid = tr.getAttribute('data-tt-portid');
+    var cells = tr.children;
+    if (!cells || cells.length < 3) return;
+    var cell = cells[1];
+    var badNodes = [];
+    Array.prototype.slice.call(cell.childNodes).forEach(function (n) {
+      if (n.nodeType === 3 && ROW_BITS.test(n.nodeValue || '')) badNodes.push(n);
+    });
+    if (badNodes.length) {
+      badNodes.forEach(function (n) { n.parentNode && n.parentNode.removeChild(n); });
+      if (cell.querySelector('.pd-mixbar')) cell.querySelector('.pd-mixbar').remove();
+    }
+    var bar = cell.querySelector('.pd-mixbar');
+    if (!bar) {
+      bar = document.createElement('div');
+      bar.className = 'pd-mixbar';
+      bar.style.width = '90px';
+      cell.insertBefore(bar, cell.firstChild);
+      healed++;
+    }
+    var hasSegments = bar.querySelector('span');
+    if (!hasSegments) {
+      var mix = stats ? stats[portid] : null;
+      var totMix = mix ? keyOrder.reduce(function (a, k) { return a + (mix[k] || 0); }, 0) : 0;
+      bar.innerHTML = '';
+      if (mix && totMix > 0) {
+        keyOrder.forEach(function (k) {
+          if (!mix[k]) return;
+          var w = Math.max(3, Math.round(100 * mix[k] / totMix));
+          var seg = document.createElement('span');
+          seg.style.width = w + '%';
+          seg.style.background = UNIVERSE_COLORS[k];
+          seg.title = UNIVERSE_LABELS[k] + ': ' + mix[k] + ' calls YTD';
+          bar.appendChild(seg);
+        });
+      }
+      if (!bar.querySelector('span')) {
+        var empty = document.createElement('span');
+        empty.style.color = 'var(--text-muted)';
+        empty.style.fontSize = '10px';
+        empty.textContent = '\u2014';
+        bar.appendChild(empty);
+      }
+      healed++;
+    }
+  });
+  return healed;
+}
+window.healUniverseClassMix = healUniverseClassMix;
+
+function showStaleBuildToast() {
+  var t = document.getElementById('staleBuildToast');
+  if (!t) return;
+  t.classList.add('show');
+  t.style.display = 'flex';
+}
+window.__staleBuildToastVisible = function () {
+  var t = document.getElementById('staleBuildToast');
+  return !!(t && t.classList.contains('show'));
+};
+
+function initStaleGuard() {
+  if (window.__staleGuardArmed) return;
+  window.__staleGuardArmed = true;
+
+  // --- 1. Build ETag watch (HEAD, 10-minute poll, toast on change) ---
+  var POLL_MS = 600000;
+  var bootEtag = null;
+  function etagOf(resp) {
+    return resp.headers.get('ETag') || resp.headers.get('etag') || null;
+  }
+  fetch(location.href, { method: 'HEAD', cache: 'no-cache' }).then(function (r) {
+    bootEtag = etagOf(r);
+    window.__staleGuardBootEtag = bootEtag;
+  }).catch(function () { /* offline boot: watch starts from first successful poll */ });
+  var pollOnce = function () {
+    fetch(location.href, { method: 'HEAD', cache: 'no-cache' }).then(function (r) {
+      var etag = etagOf(r);
+      if (!etag || !bootEtag) { if (etag && !bootEtag) bootEtag = etag; return; }
+      if (etag !== bootEtag) {
+        bootEtag = etag;
+        showStaleBuildToast();
+      }
+    }).catch(function () {});
+  };
+  setInterval(pollOnce, POLL_MS);
+  // Named debug surface (same convention as window.__idleScheduler): lets the
+  // headless verification fire one poll cycle without waiting 10 minutes.
+  window.__staleGuardPollOnce = pollOnce;
+  var btn = document.getElementById('staleBuildReloadBtn');
+  if (btn) btn.addEventListener('click', function () { location.reload(); });
+
+  // --- 2. Canvas resilience (visibilitychange + periodic doctor) ---
+  document.addEventListener('visibilitychange', function () {
+    if (!document.hidden && DATA.loaded) {
+      window.refreshVisibleCharts(120, window.currentTab);
+    }
+  });
+  setInterval(function () {
+    if (!document.hidden && DATA.loaded) canvasDoctorPass();
+  }, 60000);
+
+  // --- 3. First class-mix sweep ---
+  try { healUniverseClassMix(); } catch (err) {}
+}
+window.initStaleGuard = initStaleGuard;
+window.showStaleBuildToast = showStaleBuildToast;
+window.canvasDoctorPass = canvasDoctorPass;
+window.canvasIsBroken = canvasIsBroken;
+window.canvasIsBlank = canvasIsBlank;
+
 function initTrackingMap() {
   if (typeof L === 'undefined') {
     console.warn('[TrackingMap] Leaflet not loaded yet, retrying...');
@@ -37780,6 +38067,17 @@ function initTrackingMap() {
     window.addEventListener('resize', function() {
       if (trackingMap && typeof trackingMap.invalidateSize === 'function') {
         trackingMap.invalidateSize();
+      }
+      if (window.__staleGuardArmed && typeof window.refreshVisibleCharts === 'function') {
+        window.refreshVisibleCharts(0, 'tracking', true);
+      }
+    });
+
+    // PHASE STALE: the doc hidden -> visible transition is the classic zero-size
+    // paint window for charts and maps; repaint the active tab's art once.
+    document.addEventListener('visibilitychange', function () {
+      if (!document.hidden && window.__staleGuardArmed && DATA.loaded && window.currentTab === 'tracking') {
+        window.refreshVisibleCharts(120, 'tracking', true);
       }
     });
 
@@ -38097,6 +38395,10 @@ function renderUniverseTable() {
     tr.addEventListener('click', function() { openPortPage(p.portid); });
     tbody.appendChild(tr);
   });
+  // PHASE STALE: a session-persistent tab that spanned deploys once showed raw
+  // 0/1 digit strings in this column; sweep every freshly written row so the
+  // mix bar can never regress into bare digits.
+  healUniverseClassMix();
 }
 
 function prevUniversePage() { if (universePage > 1) { universePage--; renderUniverseTable(); } }
@@ -43811,7 +44113,7 @@ var FDESK = {
 // ---------- cache lazy-loaders ----------
 function fearnLoadJson(url, key, cb) {
   if (DATA[key]) { if (cb) cb(true); return; }
-  fetch(url)
+  fetch(url, { cache: 'no-cache' })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (j) { DATA[key] = j; if (cb) cb(true); })
     .catch(function (e) { console.warn('[fearn load]', url, e); DATA[key] = DATA[key] || null; if (cb) cb(false); });
@@ -44634,7 +44936,7 @@ function fearnTankLoadCache(cb) {
   var left = 2, fired = false;
   var fin = function () { if (!fired && --left <= 0) { fired = true; cb(); } };
   if (!DATA.fearnleysTankerRoutesDaily) {
-    fetch('data/derived/fearnleys_tanker_routes_daily.json')
+    fetch('data/derived/fearnleys_tanker_routes_daily.json', { cache: 'no-cache' })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (j) {
         DATA.fearnleysTankerRoutesDaily = j;
@@ -44648,7 +44950,7 @@ function fearnTankLoadCache(cb) {
       .catch(function (e) { console.warn('[fearn tanker daily fetch error]', e); DATA.fearnleysTankerRoutesDaily = null; fin(); });
   } else fin();
   if (!DATA.fearnleysDryRoutesDaily) {
-    fetch('data/derived/fearnleys_dry_routes_daily.json')
+    fetch('data/derived/fearnleys_dry_routes_daily.json', { cache: 'no-cache' })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (j) {
         DATA.fearnleysDryRoutesDaily = j;
@@ -45897,7 +46199,7 @@ function loadFearnArchive() {
   var chain = Promise.resolve();
   desks.forEach(function (d) {
     chain = chain.then(function () {
-      return fetch('data/derived/fearnleys_comments_' + d + '.json')
+      return fetch('data/derived/fearnleys_comments_' + d + '.json', { cache: 'no-cache' })
         .then(function (res) { return res.ok ? res.json() : []; })
         .then(function (rows) {
           FEARN_STATE.archive = FEARN_STATE.archive || { rows: [], desks: {} };

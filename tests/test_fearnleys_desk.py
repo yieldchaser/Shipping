@@ -56,7 +56,7 @@ def test_series_cache_write_path_idempotent():
 def test_fearnleys_frontend_markers():
     for marker in [
         'data-tab="fearnleys"', 'id="tab-fearnleys"',
-        "fetch('data/derived/fearnleys_series_monthly.json')",
+        "fetch('data/derived/fearnleys_series_monthly.json', { cache: 'no-cache' })",
         "macro_health_score_backtest.csv",
         "function renderFearnleysTab()", "function renderFearnMainChart(cache)",
         "function renderFearnVoice()", "function renderFearnBacktest()",

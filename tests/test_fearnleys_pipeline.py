@@ -201,7 +201,7 @@ def test_frontend_fearnleys_elements_present():
         'switchFearnTceRange',
         'switchFearnTceScale',
         'DATA.fearnleysSummary',
-        'fetch(\'data/derived/fearnleys_summary.json\')',
+        "fetch('data/derived/fearnleys_summary.json', { cache: 'no-cache' })",
     ]
 
     for req in required_strings:
