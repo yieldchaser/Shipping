@@ -303,7 +303,16 @@ def test_tooltip_markers_on_every_new_element():
                   "Observations", "Cadence", "Unit", "State"]:
         assert f">{label}</span>" in C, f"tooltip row label missing: {label}"
     assert "fetched ' + escapeHtml(String(built))" in C or "fetched " in C
-    assert "Fearnleys via fearnpulse market-api" in C
+    # Phase 2c: the source line is one compact line, no endpoint, no click hint
+    assert "Fearnleys daily assessments" in C
+    assert "Fearnleys via fearnpulse market-api" not in C
+    # Phase 2c: education-first interpretation rows on tiles + charts
+    for row_label in ["What it is", "What moves it", "What it feeds"]:
+        assert f">{row_label}</span>" in C, f"KB interpretation row missing: {row_label}"
+    # the extracted tooltip renderer carries zero em dashes (house voice rule)
+    m = re.search(r"function getCalculatedTooltip\(.*?\n      \}", C, re.S)
+    assert m, "getCalculatedTooltip not found"
+    assert chr(0x2014) not in m.group(0), "em dash inside getCalculatedTooltip"
 
 
 def test_coverage_restamp_after_subsection_render():
@@ -343,6 +352,119 @@ def test_fixture_caches_match_real_files_when_present():
         assert cape["first"] == "2024-09-02"
         assert d["series"]["CAPESIZE_AUSTRALIA_CHINA"]["first"] == "1999-03-01"
         assert d["series"]["SUPRAMAX_TRANSATLANTIC_RV_AVG"].get("derivation")
+
+
+# ------------------------------------------------- Phase 2c: education-first route tooltips
+# The route knowledge base (FDESK_ROUTE_KB) must carry an entry for EVERY
+# distinct (klass, route) pair in BOTH daily caches, so no tile ever falls back
+# to a bare source line. Verified against the local caches at build time here.
+
+def fn_region():
+    m = re.search(r"function getCalculatedTooltip\(.*?\n      \}", C, re.S)
+    assert m, "getCalculatedTooltip not found"
+    return m.group(0)
+
+
+def test_no_harvest_window_anywhere():
+    assert "harvest window" not in C
+
+
+def test_no_marketapi_in_index_html():
+    assert "marketapi/TS" not in C
+    assert "fearnpulse market-api" not in C
+
+
+def test_no_click_the_tile_filler():
+    assert "Click the tile" not in C
+    assert "Click a tile for its full daily chart" not in C
+
+
+def test_no_as_published_on_wording():
+    assert "as published on" not in C
+
+
+def test_kb_present_and_covered_by_caches():
+    assert "var FDESK_ROUTE_KB" in C
+    keys = set(re.findall(r"'([^']+)'(?=:\s*\{\s*what:)", C))
+    assert len(keys) >= 80, f"route KB suspiciously small: {len(keys)}"
+    pairs = set()
+    for path in (TANKER_JSON, DRY_JSON):
+        assert path.exists(), f"missing cache: {path}"
+        data = json.loads(path.read_text(encoding="utf-8"))
+        for s in data["series"].values():
+            pairs.add((s.get("klass", ""), s.get("route", "")))
+    missing = {(k, r) for k, r in pairs if f"{k}|{r}" not in keys}
+    assert not missing, f"cache routes missing from KB: {sorted(missing)}"
+
+
+def test_kb_entries_are_qualitative_three_part():
+    # every KB entry defines what / drivers / affects, and entries never embed
+    # numeric rate values (KB is qualitative; numbers come only from the cache)
+    m = re.search(r"var FDESK_ROUTE_KB = \{(.*?)\n\};", C, re.S)
+    assert m
+    entries = re.findall(r"'[^']+'\s*:\s*\{\s*what:(.*?)\}", m.group(1), re.S)
+    assert len(entries) >= 80
+    for body in entries:
+        for field in ("drivers:", "affects:"):
+            assert field in body, f"KB entry missing {field}"
+
+
+def test_klass_notes_cover_all_klasses():
+    m = re.search(r"var FDESK_KLASS_NOTES = \{(.*?)\n\};", C, re.S)
+    assert m, "FDESK_KLASS_NOTES missing"
+    keys = set(re.findall(r"'([^']+)'(?=\s*:\s*')", m.group(1)))
+    klasses = set()
+    for path in (TANKER_JSON, DRY_JSON):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        for s in data["series"].values():
+            klasses.add(s.get("klass", ""))
+    missing = klasses - keys
+    assert not missing, f"klasses missing a plain note: {sorted(missing)}"
+
+
+def test_state_values_plain_language():
+    assert "Live: assessed daily, still publishing" in C
+    assert "Frozen: source stopped publishing, history preserved" in C
+    assert "LIVE — publishes into the current harvest window" not in C
+    assert "FROZEN — last print predates the current harvest window" not in C
+
+
+def test_frozen_tooltip_keeps_taxonomy_meta_wording():
+    # frozen series keep the cache's own derivation_notes wording (verbatim)
+    m = re.search(r"else if \(type === 'fearn-route-state'\) \{(.*?)\n        \}", C, re.S)
+    assert m
+    b = m.group(0)
+    assert "FDESK_TANKER_META.notes" in b
+    assert "metaNotes" in b
+
+
+def test_klass_tab_tooltip_has_plain_group_sentence():
+    m = re.search(r"else if \(type === 'fearn-tank-klass-tab'\) \{(.*?)\n        \}", C, re.S)
+    assert m
+    b = m.group(0)
+    assert "FDESK_KLASS_NOTES" in b
+    assert "shown" in b  # shown/archived counts retained
+    assert "cache" not in b.lower()
+
+
+def test_picker_tooltips_purpose_only():
+    # the LAST occurrence of each marker is the tooltip-bus branch; read from there
+    for marker, note in [("fearn-tank-chart-select", "Pick any route to replot its daily chart on the tanker panel."),
+                         ("fearn-dry-chart-select", "Pick any dry route benchmark to replot its daily chart.")]:
+        b = re.search(r"else if \(type === '" + marker + r"'\) \{(.*?)\n        \}", C, re.S)
+        assert b, f"picker branch missing: {marker}"
+        assert note in b.group(0)
+        assert "cache" not in b.group(0).lower()
+
+
+def test_source_line_compact_no_endpoint():
+    assert "fearnpulse.com/api" not in C
+    # fetched line kept
+    assert "Fearnleys daily assessments" in C
+
+
+def test_fn_zero_em_dash():
+    assert chr(0x2014) not in fn_region()
 
 
 # ------------------------------------------------- Phase 2b: all-zero exclusion
@@ -443,7 +565,7 @@ def test_s3_renderer_excludes_all_zero_series():
 
 def test_s3_footer_discloses_archived_zero_series():
     # the honest footer line, verbatim
-    assert ("archived route series not shown — the source published no values "
+    assert ("archived route series not shown: the source published no values "
             "in these branches; the USD/WS twins of these routes are shown.") in C
     # computed from the cache at render time, not hardcoded
     assert "fearnTankArchivedCount" in C

@@ -13687,7 +13687,7 @@
       <div class="fearn-sec" id="fearnSec4" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Baltic dry-route assessments as published on Fearnleys weekly report tiles — Capesize, Panamax and Supramax benchmarks, daily points. Each tile carries its own launch date because the source started these assessments at different dates; per-series depth is shown, never averaged away. Click a tile for its full daily chart.">Dry Route Benchmarks <span id="fearnDryCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+            <div class="chart-title" data-tooltip="Daily dry route benchmarks from Fearnleys: Capesize, Panamax and Supramax daily points. Each tile carries its own launch date because the source started these assessments at different dates; per-series depth is shown, never averaged away.">Dry Route Benchmarks <span id="fearnDryCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
             <div style="font-size:10px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnDryChartMeta">loading daily cache…</div>
           </div>
           <div class="tracking-kpi-grid" id="fearnDryGrid"><div style="grid-column:1/-1;color:var(--text-muted);font-size:12px;">Loading the dry-route daily cache…</div></div>
@@ -36797,7 +36797,7 @@ function renderPortHistory() {
       chips += '<div class="ph-kpi-chip"><div class="k">vs 5Y Avg</div><div class="v" style="color:' + dCol + ';">' + (badge.delta > 0 ? '+' : '') + badge.delta.toFixed(1) + '%</div><div class="s" style="color:' + dCol + ';">' + (badge.delta >= 0 ? 'above' : 'below') + ' seasonal norm</div></div>';
       chips += '<div class="ph-kpi-chip"><div class="k">Window Coverage</div><div class="v">' + win.dates.length + 'd</div><div class="s" style="color:var(--text-muted);">' + win.d0 + ' \u2192 ' + win.d1 + '</div></div>';
     } else {
-      chips += '<div class="ph-kpi-chip"><div class="k">' + escapeHtml(port.portname) + '</div><div class="v">\u2014</div><div class="s" style="color:var(--text-muted);">No ' + measure.toLowerCase() + ' in the harvest window</div></div>';
+      chips += '<div class="ph-kpi-chip"><div class="k">' + escapeHtml(port.portname) + '</div><div class="v">\u2014</div><div class="s" style="color:var(--text-muted);">No ' + measure.toLowerCase() + ' readings in the shown window</div></div>';
     }
     strip.innerHTML = chips;
   }
@@ -38442,46 +38442,46 @@ function escapeHtml(str) {
           const secPorts = window.__trackingSectorPortStats || {};
           const p = secPorts[sec] || {};
           const secName = sec === 'all' ? 'All Classes' : sec;
-          html = `<div class="rt-title">Sector Map Highlight \u2014 ${secName}</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Ports in Lineup Snapshot</span><span class="rt-val">${p.nPorts != null ? p.nPorts : '\u2014'}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Waiting Vessels (Snapshot)</span><span class="rt-val">${p.waiting != null ? p.waiting : '\u2014'}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Total Vessels (Snapshot)</span><span class="rt-val">${p.total != null ? p.total : '\u2014'}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Voyage Tracks</span><span class="rt-val" style="color:var(--yellow);">not in data sources \u2014 lineup snapshot only</span></div>`;
+          html = `<div class="rt-title">Sector Map Highlight: ${secName}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ports in Lineup Snapshot</span><span class="rt-val">${p.nPorts != null ? p.nPorts : 'n/a'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Waiting Vessels (Snapshot)</span><span class="rt-val">${p.waiting != null ? p.waiting : 'n/a'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Total Vessels (Snapshot)</span><span class="rt-val">${p.total != null ? p.total : 'n/a'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Voyage Tracks</span><span class="rt-val" style="color:var(--yellow);">not in these sources; the lineup snapshot only shows port calls</span></div>`;
           html += `<div class="rt-note">Circle size on the map = waiting-vessel count per port (port_lineups_active.csv snapshot, future-dated rows excluded). Click a port pin for the full vessel lineup; clicking a vessel row shows its full recorded detail.</div>`;
         }
         else if (type === 'tracking-port-vessel-row') {
           const g = k => target.getAttribute(k);
           const vName = g('data-tt-vessel') || 'Vessel';
           html = `<div class="rt-title">${vName} (${g('data-tt-asset') || 'Vessel'})</div>`;
-          html += `<div class="rt-row"><span class="rt-label">IMO</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${g('data-tt-imo') || '\u2014'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">IMO</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${g('data-tt-imo') || 'n/a'}</span></div>`;
           const dwtN = parseInt(g('data-tt-dwt')) || 0;
           if (dwtN > 0) html += `<div class="rt-row"><span class="rt-label">Deadweight (DWT)</span><span class="rt-val">${Number(dwtN).toLocaleString()} DWT</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Status</span><span class="rt-val ${g('data-tt-status') === 'Operating at berth' ? 'pos' : 'neg'}" style="font-weight:700;">${g('data-tt-status') || '\u2014'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Status</span><span class="rt-val ${g('data-tt-status') === 'Operating at berth' ? 'pos' : 'neg'}" style="font-weight:700;">${g('data-tt-status') || 'n/a'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Cargo on Board</span><span class="rt-val">${g('data-tt-cargo') || 'n/a (not reported)'}</span></div>`;
           const wN = parseFloat(g('data-tt-waiting'));
           if (!isNaN(wN) && wN > 0) html += `<div class="rt-row"><span class="rt-label">Days Waiting</span><span class="rt-val" style="color:var(--yellow);">${wN.toFixed(1)} Days</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Arrival / Anchored Since</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${(g('data-tt-arrival') || '\u2014').slice(0, 16)}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Voyage Track</span><span class="rt-val" style="color:var(--yellow);">not in data sources \u2014 lineup snapshot only</span></div>`;
-          html += `<div class="rt-note">All fields come from the live port_lineups_active.csv row. No origin-port, destination or historical track fields exist in this harvest \u2014 stated plainly rather than inferred.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Arrival / Anchored Since</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${(g('data-tt-arrival') || 'n/a').slice(0, 16)}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Voyage Track</span><span class="rt-val" style="color:var(--yellow);">not in these sources; the lineup snapshot only shows port calls</span></div>`;
+          html += `<div class="rt-note">All fields come from the live port_lineups_active.csv row. No origin-port, destination or historical track fields are not in this data drop; stated plainly rather than inferred.</div>`;
         }
         else if (type === 'portwatch-callout') {
           const ctx = target.getAttribute('data-tt-context');
           const Y = window.__portHistoryCtx || {};
-          html = `<div class="rt-title">Port Call History \u2014 IMF PortWatch</div>`;
+          html = `<div class="rt-title">Port Call History: IMF PortWatch</div>`;
           html += `<div class="rt-row"><span class="rt-label">Measure</span><span class="rt-val">${Y.measure || 'Daily Port Calls'}</span></div>`;
-          if (Y.latest) html += `<div class="rt-row"><span class="rt-label">Latest Day</span><span class="rt-val">${Y.latest.dateStr} \u00b7 ${Y.latest.val != null ? Y.latest.val.toLocaleString() : '\u2014'} calls/day</span></div>`;
+          if (Y.latest) html += `<div class="rt-row"><span class="rt-label">Latest Day</span><span class="rt-val">${Y.latest.dateStr} \u00b7 ${Y.latest.val != null ? Y.latest.val.toLocaleString() : 'n/a'} calls/day</span></div>`;
           if (Y.base != null) html += `<div class="rt-row"><span class="rt-label">5Y Same-Window Mean</span><span class="rt-val">${Y.base.toLocaleString(undefined, {maximumFractionDigits: 1})} calls/day</span></div>`;
           if (Y.delta != null) html += `<div class="rt-row"><span class="rt-label">Latest vs 5Y Mean</span><span class="rt-val ${Y.delta >= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${Y.delta > 0 ? '+' : ''}${Y.delta.toFixed(1)}%</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Baseline Definition</span><span class="rt-val">Mean of all 2019\u20132025 daily values in the same calendar window \u2014 computed from the CSV, never hardcoded</span></div>`;
-          if (ctx === 'note') html += `<div class="rt-note">Port names come straight from the PortWatch file's own portname column (portid \u2192 portname is stored in the harvest itself; no external lookup needed). Sector call splits exist for dry_bulk / tanker / container across all 43 ports; LNG / LPG call counts are not published by PortWatch \u2014 gas-hull detail lives in the lineup snapshot.</div>`;
-          else html += `<div class="rt-note">Baseline and badge are recomputed from portwatch_port_congestion.csv on every load \u2014 no hardcoded values.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Baseline Definition</span><span class="rt-val">Mean of all 2019\u20132025 daily values in the same calendar window, computed from the CSV, never hardcoded</span></div>`;
+          if (ctx === 'note') html += `<div class="rt-note">Port names come straight from the PortWatch file's own portname column (the file stores the portid to portname mapping itself; no external lookup needed). Sector call splits exist for dry_bulk / tanker / container across all 43 ports; LNG / LPG call counts are not published by PortWatch; gas-hull detail lives in the lineup snapshot.</div>`;
+          else html += `<div class="rt-note">Baseline and badge are recomputed from portwatch_port_congestion.csv on every load, no hardcoded values.</div>`;
         }
         else if (type === 'fearnleys-56y-tce') {
           const segKey = target.getAttribute('data-tt-seg');
           const summary = window.DATA && DATA.fearnleysSummary;
           const s = (summary && summary.tce_benchmarks_56y && summary.tce_benchmarks_56y.stats) ? summary.tce_benchmarks_56y.stats[segKey] : null;
           if (s) {
-            html = `<div class="rt-title">${s.label} — 56-Year Historical Benchmark</div>`;
+            html = `<div class="rt-title">${s.label}: 56-Year Historical Benchmark</div>`;
             html += `<div class="rt-row"><span class="rt-label">Current 1Y TC Rate</span><span class="rt-val" style="color:var(--accent);">$${Number(s.current).toLocaleString()}/day</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">56-Year Historical Percentile</span><span class="rt-val">${s.pct_56y.toFixed(1)}% (${s.start_year}–2026)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">All-Time Peak (ATH)</span><span class="rt-val" style="color:#f0883e;">$${Number(s.ath).toLocaleString()}/day (${s.ath_date})</span></div>`;
@@ -38489,7 +38489,7 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">5-Year Rolling Average</span><span class="rt-val">$${Number(s.avg_5y).toLocaleString()}/day</span></div>`;
             const distAth = s.ath > 0 ? (((s.current - s.ath) / s.ath) * 100.0).toFixed(1) : 0;
             html += `<div class="rt-row"><span class="rt-label">Distance from Supercycle ATH</span><span class="rt-val neg">${distAth}%</span></div>`;
-            html += `<div class="rt-note">Direct Hasura harvest from FearnPulse 56-year institutional archive. Calibrated over ${s.count} weekly broker assessments.</div>`;
+            html += `<div class="rt-note">Direct feed from the FearnPulse 56-year institutional archive. Calibrated over ${s.count} weekly broker assessments.</div>`;
             return html;
           }
         }
@@ -38500,7 +38500,7 @@ function escapeHtml(str) {
           const a = (summary && summary.asset_valuations_50y) ? summary.asset_valuations_50y[segKey] : null;
           if (a) {
             const stats = a.stats || {};
-            html = `<div class="rt-title">${a.label} — Secondhand Asset Valuation Cycle</div>`;
+            html = `<div class="rt-title">${a.label}: Secondhand Asset Valuation Cycle</div>`;
             if (stats['5y']) {
               html += `<div class="rt-row"><span class="rt-label">5-Year Old Benchmark</span><span class="rt-val">$${stats['5y'].current}M USD (${stats['5y'].pct_hist.toFixed(1)}th %ile)</span></div>`;
               html += `<div class="rt-row"><span class="rt-label">5Y All-Time High</span><span class="rt-val" style="color:#f0883e;">$${stats['5y'].ath}M USD</span></div>`;
@@ -38528,7 +38528,7 @@ function escapeHtml(str) {
           const chList = (summary && summary.fixtures_analytics) ? summary.fixtures_analytics.top_charterers : [];
           const ch = chList.find(c => c.charterer === chName);
           if (ch) {
-            html = `<div class="rt-title">${ch.charterer} — Commercial Charterer Intelligence</div>`;
+            html = `<div class="rt-title">${ch.charterer}: Commercial Charterer Intelligence</div>`;
             html += `<div class="rt-row"><span class="rt-label">Global League Rank</span><span class="rt-val">#${ch.rank} of All Recorded Charterers</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Total Commercial Fixtures</span><span class="rt-val">${Number(ch.fixtures).toLocaleString()} verified contracts</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Global Market Share</span><span class="rt-val" style="color:var(--accent);">${ch.market_share_pct.toFixed(2)}%</span></div>`;
@@ -38543,7 +38543,7 @@ function escapeHtml(str) {
           const price = parseFloat(target.getAttribute('data-tt-price'));
           const dwt = parseInt(target.getAttribute('data-tt-dwt'));
           const usdPerDwt = (price > 0 && dwt > 0) ? Math.round((price * 1000000) / dwt) : null;
-          html = `<div class="rt-title">${vessel} — Verified S&amp;P Transaction</div>`;
+          html = `<div class="rt-title">${vessel}: Verified S&amp;P Transaction</div>`;
           if (price > 0) {
             html += `<div class="rt-row"><span class="rt-label">Reported Sale Price</span><span class="rt-val" style="color:var(--accent);">$${price.toFixed(1)}M USD</span></div>`;
           }
@@ -38553,7 +38553,7 @@ function escapeHtml(str) {
           if (usdPerDwt) {
             html += `<div class="rt-row"><span class="rt-label">Implied Asset Metric</span><span class="rt-val" style="color:#e3b341;">$${Number(usdPerDwt).toLocaleString()} / DWT</span></div>`;
           }
-          html += `<div class="rt-note">From the Fearnleys Secondhand S&amp;P Deal Ledger — ${((window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_deals) != null ? Number(DATA.fearnleysSummary.snp_deals.total_deals).toLocaleString() + ' recorded transactions' : 'ledger totals load from cache')}${(window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_volume_usd_m != null) ? ' totaling $' + (DATA.fearnleysSummary.snp_deals.total_volume_usd_m / 1000).toFixed(1) + 'B USD' : ''}.</div>`;
+          html += `<div class="rt-note">From the Fearnleys Secondhand S&amp;P Deal Ledger: ${((window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_deals) != null ? Number(DATA.fearnleysSummary.snp_deals.total_deals).toLocaleString() + ' recorded transactions' : 'ledger totals load with the data')}${(window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_volume_usd_m != null) ? ' totaling $' + (DATA.fearnleysSummary.snp_deals.total_volume_usd_m / 1000).toFixed(1) + 'B USD' : ''}.</div>`;
           return html;
         }
         else if (type === 'heatmap-cell') {
@@ -38739,13 +38739,13 @@ function escapeHtml(str) {
           const label = isNaN(z) ? '-' : (z >= 0 ? '+' : '') + z.toFixed(2) + 'σ';
           const zCls  = isNaN(z) ? '' : z > 0.5 ? 'pos' : z < -0.5 ? 'neg' : '';
           const interp = isNaN(z) ? 'No data' :
-            z >  2   ? `Extreme bull — well above the ${zWin} mean` :
-            z >  1   ? 'Elevated — above normal range' :
-            z >  0.5 ? 'Mildly positive — slightly above mean' :
-            z > -0.5 ? `Neutral — near the ${zWin} mean` :
-            z > -1   ? 'Mildly negative — slightly below mean' :
-            z > -2   ? 'Depressed — below normal range' :
-                       `Extreme bear — well below the ${zWin} mean`;
+            z >  2   ? `Extreme bull: well above the ${zWin} mean` :
+            z >  1   ? 'Elevated: above normal range' :
+            z >  0.5 ? 'Mildly positive: slightly above mean' :
+            z > -0.5 ? `Neutral: near the ${zWin} mean` :
+            z > -1   ? 'Mildly negative: slightly below mean' :
+            z > -2   ? 'Depressed: below normal range' :
+                       `Extreme bear: well below the ${zWin} mean`;
           html += `<div class="rt-row"><span class="rt-label">Z-Score</span><span class="rt-val ${zCls}">${label}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Reading</span><span class="rt-val ${zCls}">${interp}</span></div>`;
           if (pctl1y) html += `<div class="rt-row"><span class="rt-label">1Y Percentile</span><span class="rt-val">${pctl1y}th</span></div>`;
@@ -38757,12 +38757,12 @@ function escapeHtml(str) {
           const win  = target.getAttribute('data-tt-window') || '';
           const winFull = win === '1Y' ? '1 Year (252 trading days)' : win === '5Y' ? '5 Years (1,260 days)' : win === '10Y' ? '10 Years (2,520 days)' : 'Full price history';
           const pvCls = pv >= 75 ? 'pos' : pv <= 25 ? 'neg' : '';
-          const qual  = pv >= 90 ? 'Extreme high — rare territory' :
-                        pv >= 75 ? 'High — above most prior readings' :
+          const qual  = pv >= 90 ? 'Extreme high: rare territory' :
+                        pv >= 75 ? 'High: above most prior readings' :
                         pv >= 50 ? 'Above median' :
                         pv >= 25 ? 'Below median' :
-                        pv >= 10 ? 'Low — below most prior readings' :
-                                   'Extreme low — rare territory';
+                        pv >= 10 ? 'Low: below most prior readings' :
+                                   'Extreme low: rare territory';
           html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val ${pvCls}">${pv}th</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Window</span><span class="rt-val">${winFull}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Reading</span><span class="rt-val ${pvCls}">${qual}</span></div>`;
@@ -38775,10 +38775,10 @@ function escapeHtml(str) {
           const ma200   = parseFloat(target.getAttribute('data-tt-ma200'));
           const current = parseFloat(target.getAttribute('data-tt-current'));
           const regimeMap = {
-            EXPANSION:    { cls: 'pos', desc: 'Price above MA200 and 60D momentum positive. Classic uptrend — rates rising and trend intact.' },
-            DISTRIBUTION: { cls: '',    desc: 'Price above MA200 but 60D momentum fading. Trend intact but losing steam — watch for reversal.' },
-            ACCUMULATION: { cls: '',    desc: 'Price below MA200 but 60D momentum turning positive. Early recovery — potential base formation.' },
-            CONTRACTION:  { cls: 'neg', desc: 'Price below MA200 and 60D momentum negative. Classic downtrend — rates falling and trend intact.' },
+            EXPANSION:    { cls: 'pos', desc: 'Price above MA200 and 60D momentum positive. Classic uptrend: rates rising and trend intact.' },
+            DISTRIBUTION: { cls: '',    desc: 'Price above MA200 but 60D momentum fading. Trend intact but losing steam: watch for reversal.' },
+            ACCUMULATION: { cls: '',    desc: 'Price below MA200 but 60D momentum turning positive. Early recovery: potential base formation.' },
+            CONTRACTION:  { cls: 'neg', desc: 'Price below MA200 and 60D momentum negative. Classic downtrend: rates falling and trend intact.' },
           };
           const rd = regimeMap[regime] || { cls: '', desc: 'Insufficient data.' };
           html += `<div class="rt-row"><span class="rt-label">Phase</span><span class="rt-val ${rd.cls}">${regime || 'N/A'}</span></div>`;
@@ -38807,8 +38807,8 @@ function escapeHtml(str) {
           const confPct  = parseInt(target.getAttribute('data-tt-conf-pct') || '0');
           const confCls  = confPct >= 65 ? 'pos' : confPct <= 35 ? 'neg' : '';
           const typeDesc = {
-            BULL_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are positive — aligned setup. Evidence note: this label carried +24.8% avg fwd 3M on tankers (pro-cyclical) but only in-line-with-neutral returns on dry bulk, where analyst consensus is contrarian.',
-            BEAR_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are negative — aligned setup. Evidence note: on dry bulk this label historically marked cycle-bottom value zones (+75.7% avg fwd 3M BDI, 61% win since 2018) — freight is a strongly mean-reverting cycle.',
+            BULL_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are positive: aligned setup. Evidence note: this label carried +24.8% avg fwd 3M on tankers (pro-cyclical) but only in-line-with-neutral returns on dry bulk, where analyst consensus is contrarian.',
+            BEAR_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are negative: aligned setup. Evidence note: on dry bulk this label historically marked cycle-bottom value zones (+75.7% avg fwd 3M BDI, 61% win since 2018): freight is a strongly mean-reverting cycle.',
             DIVERGENCE:      'Quant and qual signals contradict. On tankers, fear-heavy divergences resolved upward 86% of the time (+15.6% avg fwd 3M); on dry bulk the label was noisy (50% win).',
             NEUTRAL:         'No strong directional signal detected from either quant or qual data.',
           };
@@ -38825,7 +38825,7 @@ function escapeHtml(str) {
           if (!isNaN(change)) html += `<div class="rt-row"><span class="rt-label">Daily Change</span><span class="rt-val ${change >= 0 ? 'pos' : 'neg'}">${change >= 0 ? '+' : ''}${change.toFixed(2)}%</span></div>`;
           if (!isNaN(pctl5y)) {
             const qual = pctl5y >= 80 ? 'elevated' : pctl5y >= 50 ? 'above median' : pctl5y >= 20 ? 'below median' : 'depressed';
-            html += `<div class="rt-row"><span class="rt-label">5Y Percentile</span><span class="rt-val ${pctl5y >= 75 ? 'pos' : pctl5y <= 25 ? 'neg' : ''}">${pctl5y}th — ${qual}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">5Y Percentile</span><span class="rt-val ${pctl5y >= 75 ? 'pos' : pctl5y <= 25 ? 'neg' : ''}">${pctl5y}th: ${qual}</span></div>`;
           }
           html += `<div class="rt-note">Hover the stat cards below for full breakdowns by window and metric.</div>`;
         }
@@ -38866,7 +38866,7 @@ function escapeHtml(str) {
           const sentDesc = {
             positive:          'Expects materially higher rates / improved conditions.',
             negative:          'Expects materially lower rates / deteriorating conditions.',
-            neutral:           'No significant directional view — rates expected stable.',
+            neutral:           'No significant directional view: rates expected stable.',
             mixed:             'Conflicting indicators. Both upside and downside present.',
             constructive:      'Cautiously optimistic. Fundamental backdrop supports higher rates.',
             cautiously_bullish:'Mild positive bias. Some upside expected, hedged conviction.',
@@ -39048,14 +39048,14 @@ function escapeHtml(str) {
           const grp = target.getAttribute('data-tt-group') || 'ore';
           const asof = target.getAttribute('data-tt-asof') || '';
           var grpDesc = {
-            ore: '<strong>Ore &amp; Coal</strong>: Iron ore and thermal coal are the two largest dry bulk cargoes by ton-miles. Their price levels signal steel-mill economics and power-sector import appetite — firm prices with low port stocks historically precede Capesize rate spikes.',
+            ore: '<strong>Ore &amp; Coal</strong>: Iron ore and thermal coal are the two largest dry bulk cargoes by ton-miles. Their price levels signal steel-mill economics and power-sector import appetite: firm prices with low port stocks historically precede Capesize rate spikes.',
             energy: '<strong>Energy Cargo Values</strong>: Brent, TTF gas and Japan LNG benchmarks track the value density of tanker and gas-carrier cargoes. Wide crude-to-gas spreads drive LNG export arb flows and VLGC ton-mile demand.',
-            grain: '<strong>Grain Harvests</strong>: Wheat, maize and soybean prices move with harvest outcomes. Price spikes after shortfalls (e.g., Black Sea disruptions) trigger urgent long-haul import programs — a classic Small Panamax/Supramax demand catalyst.',
+            grain: '<strong>Grain Harvests</strong>: Wheat, maize and soybean prices move with harvest outcomes. Price spikes after shortfalls (e.g., Black Sea disruptions) trigger urgent long-haul import programs: a classic Small Panamax/Supramax demand catalyst.',
             metals: '<strong>Base Metals</strong>: Copper, aluminium and nickel prices proxy industrial construction and electrification demand. Sustained rallies pull more bauxite, laterite and concentrate tonnage onto Supramax/Ultramax routes.',
             index: '<strong>World Bank Indices</strong>: Nominal USD indices (2010=100) for energy, agriculture and total non-energy commodities. The cleanest single-glance measure of global raw-material trade intensity.'
           }[grp] || '';
-          html = `<div class="rt-title">Cargo Demand Drivers — World Bank Pink Sheet</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Why it matters</strong>: Commodity price levels are the leading layer of the shipping demand stack — production and import economics decide cargo volumes before freight rates react.</div>`;
+          html = `<div class="rt-title">Cargo Demand Drivers: World Bank Pink Sheet</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Why it matters</strong>: Commodity price levels are the leading layer of the shipping demand stack: production and import economics decide cargo volumes before freight rates react.</div>`;
           if (grpDesc) html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">${grpDesc}</div>`;
           var keys = { ore: ['iron_ore', 'coal_australian'], energy: ['crude_brent', 'natgas_eu', 'lng_japan'], grain: ['wheat_srw', 'maize', 'soybeans'], metals: ['copper', 'aluminum', 'nickel'], index: ['energy_index', 'agri_index', 'total_index'] }[grp] || [];
           var names = { iron_ore: 'Iron Ore 62% CFR', coal_australian: 'Thermal Coal AUS', crude_brent: 'Brent Crude', natgas_eu: 'Nat Gas TTF', lng_japan: 'LNG Japan', wheat_srw: 'Wheat SRW', maize: 'Maize', soybeans: 'Soybeans', copper: 'Copper LME', aluminum: 'Aluminium', nickel: 'Nickel', energy_index: 'Energy Index', agri_index: 'Agri Index', total_index: 'Total Index' };
@@ -39066,8 +39066,8 @@ function escapeHtml(str) {
             any = true;
             var mom = parseFloat(target.getAttribute('data-tt-mom-' + k));
             var yoy = parseFloat(target.getAttribute('data-tt-yoy-' + k));
-            var momTxt = !isNaN(mom) ? '<span class="' + (mom >= 0 ? 'pos' : 'neg') + '">' + (mom >= 0 ? '+' : '') + mom.toFixed(1) + '% MoM</span>' : '—';
-            var yoyTxt = !isNaN(yoy) ? '<span class="' + (yoy >= 0 ? 'pos' : 'neg') + '">' + (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '% YoY</span>' : '—';
+            var momTxt = !isNaN(mom) ? '<span class="' + (mom >= 0 ? 'pos' : 'neg') + '">' + (mom >= 0 ? '+' : '') + mom.toFixed(1) + '% MoM</span>' : 'n/a';
+            var yoyTxt = !isNaN(yoy) ? '<span class="' + (yoy >= 0 ? 'pos' : 'neg') + '">' + (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '% YoY</span>' : 'n/a';
             html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;margin-top:4px;"><span class="rt-label">${names[k] || k}</span><span class="rt-val">${fmt(lv, lv >= 1000 ? 0 : 2)} &nbsp; ${momTxt} &nbsp; ${yoyTxt}</span></div>`;
           });
           if (!any) html += `<div class="rt-note">Hover after the chart finishes loading to see live values.</div>`;
@@ -39077,11 +39077,11 @@ function escapeHtml(str) {
           const g = target.getAttribute('data-tt-grp') || '';
           var gName = { ore: 'Ore & Coal', energy: 'Energy', grain: 'Grains', metals: 'Base Metals', index: 'WB Indices' }[g] || g;
           var gDesc = {
-            ore: 'Iron ore + Australian thermal coal — top dry bulk ton-mile drivers.',
-            energy: 'Crude, European gas and Japan LNG — tanker & gas carrier cargo values.',
-            grain: 'Wheat, maize, soybeans — harvest-driven Supramax/Panamax programs.',
-            metals: 'Copper, aluminium, nickel — industrial demand proxy.',
-            index: 'Nominal USD commodity indices (2010=100) — aggregate trade pulse.'
+            ore: 'Iron ore + Australian thermal coal: top dry bulk ton-mile drivers.',
+            energy: 'Crude, European gas and Japan LNG: tanker & gas carrier cargo values.',
+            grain: 'Wheat, maize, soybeans: harvest-driven Supramax/Panamax programs.',
+            metals: 'Copper, aluminium, nickel: industrial demand proxy.',
+            index: 'Nominal USD commodity indices (2010=100): aggregate trade pulse.'
           }[g] || '';
           html = `<div class="rt-title">${gName} Series Group</div>`;
           html += `<div style="font-size:11px;color:#8b949e;line-height:1.35;">${gDesc}</div>`;
@@ -39103,20 +39103,20 @@ function escapeHtml(str) {
         }
         else if (type === 'concept-ffa-archive') {
           html = `<div class="rt-title">SGX FFA Contract Archive</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pick any expired contract</strong> to study how it traded through its life — listing, run-up into expiry, and final settlement. The <strong>·Nd</strong> suffix shows how many traded days the archive holds, because SGX publishes settlements only on sessions that actually cleared.</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Data availability tiers (verified at source)</strong>: daily granularity from Mar 2026 onward (our live collection); sparse traded-day prints only for 2024–2025 expiries — SGX redacts lookback prices outside its entitlement window (volume and open-interest remain fully archived back to 2022 in the CSVs).</div>`;
-          html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Archive history (~2-6 MB per vessel class) loads once, on first open, then stays cached for the session.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pick any expired contract</strong> to study how it traded through its life: listing, run-up into expiry, and final settlement. The <strong>·Nd</strong> suffix shows how many traded days the archive holds, because SGX publishes settlements only on sessions that actually cleared.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Data availability tiers (verified at source)</strong>: daily granularity from Mar 2026 onward (our live collection); sparse traded-day prints only for 2024–2025 expiries: SGX redacts lookback prices outside its entitlement window (volume and open-interest remain fully archived back to 2022 in the CSVs).</div>`;
+          html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Archive history (~2-6 MB per vessel class) loads once, on first open, then stays in memory for the session.</div>`;
         }
         else if (type === 'concept-ore-archive') {
           html = `<div class="rt-title">SGX Iron Ore Contract Archive</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pick any active forward contract (40 delivery tenors) or expired contract</strong> to inspect its full historical lifecycle — original listing, pre-expiry price discovery, and final cleared settlement against TSI/Fastmarkets spot averages. The <strong>·Nd</strong> suffix indicates how many traded daily sessions the archive holds.</div>`;
+          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pick any active forward contract (40 delivery tenors) or expired contract</strong> to inspect its full historical lifecycle: original listing, pre-expiry price discovery, and final cleared settlement against TSI/Fastmarkets spot averages. The <strong>·Nd</strong> suffix indicates how many traded daily sessions the archive holds.</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Deep Historical Coverage (2018–2029)</strong>: 144 contracts for TSI 62% Fe (FEF), 120 contracts for Carajás 65% Fe (M65F), and 120 contracts for Platts Lump Premium (LPF). Contracts are grouped chronologically by delivery expiry year.</div>`;
           html += `<div class="rt-note" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:4px;text-align:center;">Loaded on demand directly from official Singapore Exchange historical clearing records.</div>`;
         }
         else if (type === 'concept-qa-fastpath') {
           html = `<div class="rt-title">Indexed Retrieval</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pre-built search indexes</strong>: the compiler publishes compact BM25 posting lists for every report shard. Queries rank the whole corpus against these tiny files first, then download only the reports that actually contain hits.</div>`;
-          html += `<div class="rt-note">Falls back automatically to full-archive scanning if indexes are unavailable — answers never change, only speed.</div>`;
+          html += `<div class="rt-note">Falls back automatically to full-archive scanning if indexes are unavailable: answers never change, only speed.</div>`;
         }
         else if (type === 'concept-scrapfloor') {
           const ldtVal = parseFloat(target.getAttribute('data-tt-ldt'));
@@ -39255,7 +39255,7 @@ function escapeHtml(str) {
           html = `<div class="rt-title">Pilbara Ports &amp; Major Miner Shipments</div>`;
           html += `<div class="rt-row"><span class="rt-label">Loading Hubs</span><span class="rt-val">Port Hedland &amp; Dampier (Western Australia)</span></div>`;
           if (ppaLast) {
-            const ppaVal = ppaLast.ironOreExportsMt != null ? ppaLast.ironOreExportsMt.toFixed(1) + ' Mt' : '—';
+            const ppaVal = ppaLast.ironOreExportsMt != null ? ppaLast.ironOreExportsMt.toFixed(1) + ' Mt' : 'n/a';
             html += `<div class="rt-row"><span class="rt-label">Latest Print</span><span class="rt-val">${ppaLast.dateStr} · ${ppaLast.port || ''} · ${ppaVal}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Provenance</span><span class="rt-val" style="color:${ppaLive ? '#3fb950' : '#e3b341'}">${ppaLive ? 'Live PPA archive' : 'Diagnostic (' + (ppaProv || 'estimate') + ')'}</span></div>`;
           } else {
@@ -39279,16 +39279,16 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Core Hubs (${pwHubNames.length || 12})</span><span class="rt-val">${pwHubNames.length ? pwHubNames.join(', ') : 'Qingdao Port, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Fields Shown</span><span class="rt-val">Daily port calls (total / dry bulk) and dry-bulk import tonnage (kt)</span></div>`;
           if (pwLast) {
-            const pwCalls = pwLast.dailyPortCalls != null ? Math.round(pwLast.dailyPortCalls).toLocaleString('en-US') : '—';
-            const pwBulk = pwLast.callsDryBulk != null ? Math.round(pwLast.callsDryBulk).toLocaleString('en-US') : '—';
-            const pwKt = pwLast.importDryBulkKt != null ? Math.round(pwLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : '—';
+            const pwCalls = pwLast.dailyPortCalls != null ? Math.round(pwLast.dailyPortCalls).toLocaleString('en-US') : 'n/a';
+            const pwBulk = pwLast.callsDryBulk != null ? Math.round(pwLast.callsDryBulk).toLocaleString('en-US') : 'n/a';
+            const pwKt = pwLast.importDryBulkKt != null ? Math.round(pwLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : 'n/a';
             html += `<div class="rt-row"><span class="rt-label">Last Snapshot</span><span class="rt-val">${pwLast.dateStr} · ${pwCalls} calls (${pwBulk} dry bulk) · ${pwKt}</span></div>`;
           }
           html += `<div class="rt-note">Measured AIS fields only; prior waiting-time series withdrawn. See provenance footer below the chart.</div>`;
         }
         else if (type === 'concept-carbon-ets' || type === 'carbon-ets-header') {
           html = `<div class="rt-title">EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics</div>`;
-          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2) — live OilPriceAPI observations</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2): live OilPriceAPI observations</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread</span><span class="rt-val">VLSFO − HSFO ($/MT), Ship &amp; Bunker port snapshots</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Scrubber Formula</span><span class="rt-val" style="color:#3fb950">Daily Fuel Consumption (MT) × Hi-5 Spread ($/MT)</span></div>`;
           html += `<div class="rt-note">Evaluates net TCE differentials between scrubber-fitted and non-scrubber ships. At >$150/MT Hi-5 spread, scrubber Capesizes and VLCCs earn a +$6,000 to +$8,000/day premium. EUA series: daily primary-market prices from the ICAP Allowance Price Explorer (official ICAP dataset) 2010→2026-06, continuing with live OilPriceAPI observations.</div>`;
@@ -39303,15 +39303,15 @@ function escapeHtml(str) {
           html += `<div class="rt-note">Interactive simulation demonstrating why expanding long-haul trades (Guinea Bauxite, Brazil Ore, US Gulf & Guyana Crude) structurally tighten global dry bulk and tanker fleet capacity. When active fleet utilization exceeds 88%–90%, freight rates experience non-linear super-cycle repricing.</div>`;
         }
         else if (type === 'concept-lpg-freight') {
-          const spot = target.getAttribute('data-tt-spot') || '—';
-          const tc = target.getAttribute('data-tt-tc') || '—';
-          const spread = target.getAttribute('data-tt-spread') || '—';
-          const blpg = target.getAttribute('data-tt-blpg') || '—';
+          const spot = target.getAttribute('data-tt-spot') || 'n/a';
+          const tc = target.getAttribute('data-tt-tc') || 'n/a';
+          const spread = target.getAttribute('data-tt-spread') || 'n/a';
+          const blpg = target.getAttribute('data-tt-blpg') || 'n/a';
           html = `<div class="rt-title">LPG Freight &amp; Period Charter Rates</div>`;
           html += `<div class="rt-row"><span class="rt-label">Ras Tanura → Chiba Spot</span><span class="rt-val">$${Number(spot).toLocaleString('en-US')}/day</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">VLGC 84k 1Y Time Charter</span><span class="rt-val">$${Number(tc).toLocaleString('en-US')}/day</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Spot-Period Spread</span><span class="rt-val ${Number(spread) >= 0 ? 'pos' : 'neg'}">${Number(spread) >= 0 ? '+' : ''}$${Number(spread).toLocaleString('en-US')}/day</span></div>`;
-          if (blpg && blpg !== '0' && blpg !== '—') html += `<div class="rt-row"><span class="rt-label">Baltic LPG Index</span><span class="rt-val" style="color:#e3b341">${blpg} pts</span></div>`;
+          if (blpg && blpg !== '0' && blpg !== 'n/a') html += `<div class="rt-row"><span class="rt-label">Baltic LPG Index</span><span class="rt-val" style="color:#e3b341">${blpg} pts</span></div>`;
           html += `<div class="rt-note">Monitors Arabian Gulf to Japan VLGC benchmark economics alongside 1-year period charter fixtures and the Baltic LPG index.</div>`;
         }
         else if (type === 'basin-net-spread') {
@@ -39941,9 +39941,9 @@ function escapeHtml(str) {
           if (desc) html += `<div class="rt-note">${desc}</div>`;
           // Provenance disclosure: real PPA archive months vs. diagnostic estimates
           if (prov === 'live_ppa_archive' || prov === 'live_ppa') {
-            html += `<div class="rt-note" style="color:#3fb950">Source: official PPA monthly cargo-statistics reports (${ppaRows.length} months, ${ppaRows[0].dateStr} → ${ppaRows[ppaRows.length-1].dateStr}) — real published figures via Internet Archive of pilbaraports.com.au. Port Hedland only; Dampier publishes separately.</div>`;
+            html += `<div class="rt-note" style="color:#3fb950">Source: official PPA monthly cargo-statistics reports (${ppaRows.length} months, ${ppaRows[0].dateStr} → ${ppaRows[ppaRows.length-1].dateStr}): real published figures via Internet Archive of pilbaraports.com.au. Port Hedland only; Dampier publishes separately.</div>`;
           } else if (ppaRows.length === 0) {
-            html += `<div class="rt-note" style="color:#e3b341">No live feed reachable this run — figures shown are editorial estimates flagged DIAGNOSTIC in the CSV (provenance column), not published port data.</div>`;
+            html += `<div class="rt-note" style="color:#e3b341">No live feed reachable this run: figures shown are editorial estimates flagged DIAGNOSTIC in the CSV (provenance column), not published port data.</div>`;
           }
         }
         else if (type === 'concept-port-hub-btn') {
@@ -39967,9 +39967,9 @@ function escapeHtml(str) {
               const hubRows = hubRowsAll.filter(r => (r.portCode || '').toLowerCase() === hub.toLowerCase());
               if (hubRows.length) {
                 const hubLast = hubRows[hubRows.length - 1];
-                const hubCalls = hubLast.dailyPortCalls != null ? Math.round(hubLast.dailyPortCalls).toLocaleString('en-US') : '—';
-                const hubBulk = hubLast.callsDryBulk != null ? Math.round(hubLast.callsDryBulk).toLocaleString('en-US') : '—';
-                const hubKt = hubLast.importDryBulkKt != null ? Math.round(hubLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : '—';
+                const hubCalls = hubLast.dailyPortCalls != null ? Math.round(hubLast.dailyPortCalls).toLocaleString('en-US') : 'n/a';
+                const hubBulk = hubLast.callsDryBulk != null ? Math.round(hubLast.callsDryBulk).toLocaleString('en-US') : 'n/a';
+                const hubKt = hubLast.importDryBulkKt != null ? Math.round(hubLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : 'n/a';
                 html += `<div class="rt-row"><span class="rt-label">Last Snapshot</span><span class="rt-val">${hubLast.dateStr} · ${hubCalls} calls (${hubBulk} dry bulk) · ${hubKt}</span></div>`;
               }
             }
@@ -40011,29 +40011,29 @@ function escapeHtml(str) {
         else if (type === 'fearn-overview-title') {
           const cache = window.DATA && DATA.fearnleysSeries;
           const meta = cache && cache.meta ? cache.meta : null;
-          html = `<div class="rt-title">Broker Desk Overview — Tile Ordering</div>`;
+          html = `<div class="rt-title">Broker Desk Overview: Tile Ordering</div>`;
           html += `<div class="rt-row"><span class="rt-label">Group 1</span><span class="rt-val pos">Time-Charter Rates (bulk → tanker)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Group 2</span><span class="rt-val">Newbuilding Prices (bulk → tanker → gas)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Group 3</span><span class="rt-val">S&P / Resale (§5 class order)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Group 4</span><span class="rt-val">LNG / LPG (pre-change gas tiles)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Tie-break</span><span class="rt-val">longest cached history first</span></div>`;
-          if (meta) html += `<div class="rt-row"><span class="rt-label">Cache</span><span class="rt-val">${meta.labels_cached} series · ${Number(meta.monthly_points).toLocaleString()} monthly pts</span></div>`;
-          html += `<div class="rt-note">Series cache: scripts/fearnpulse_rates_full.csv monthly means (Fearnleys Hasura harvest). Every value on these tiles comes from that cache — nothing is estimated.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Tie-break</span><span class="rt-val">longest recorded history first</span></div>`;
+          if (meta) html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">${meta.labels_cached} series · ${Number(meta.monthly_points).toLocaleString()} monthly pts</span></div>`;
+          html += `<div class="rt-note">Series data: Fearnleys monthly means. Every value on these tiles comes from that one source: nothing is estimated.</div>`;
         }
         else if (type === 'fearn-overview-tile') {
           const cache = window.DATA && DATA.fearnleysSeries;
           const s = cache && cache.labels ? cache.labels[target.getAttribute('data-tt-series')] : null;
           if (s) {
-            html = `<div class="rt-title">${target.getAttribute('data-tt-grp') || 'Broker Desk'} \u2014 ${(s.route || target.getAttribute('data-tt-series'))}</div>`;
+            html = `<div class="rt-title">${target.getAttribute('data-tt-grp') || 'Broker Desk'}: ${(s.route || target.getAttribute('data-tt-series'))}</div>`;
             html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${target.getAttribute('data-tt-series')}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Desk / Type</span><span class="rt-val">${s.type} · ${s.subtype}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Latest (${s.last})</span><span class="rt-val">${Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })} ${s.unit}</span></div>`;
             if (s.chg_pct != null) html += `<div class="rt-row"><span class="rt-label">MoM</span><span class="rt-val ${s.chg_pct >= 0 ? 'pos' : 'neg'}">${s.chg_pct >= 0 ? '+' : ''}${s.chg_pct.toFixed(2)}%</span></div>`;
             if (s.pct_rank != null) html += `<div class="rt-row"><span class="rt-label">History Percentile</span><span class="rt-val">${s.pct_rank.toFixed(1)}th vs ${s.n} months</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">History Span</span><span class="rt-val">${s.first} → ${s.last} (${s.n}m)</span></div>`;
-            html += `<div class="rt-note">All values from the cached monthly series (scripts/fearnpulse_rates_full.csv). No interpolation, no invented points.</div>`;
+            html += `<div class="rt-note">All values from the Fearnleys monthly series. No interpolation, no invented points.</div>`;
           } else {
-            html = `<div class="rt-title">Broker Desk Tile</div><div class="rt-note">Series cache still loading — hover again once the desk cache is loaded.</div>`;
+            html = `<div class="rt-title">Broker Desk Tile</div><div class="rt-note">Series data still loading: hover again in a moment.</div>`;
           }
         }
         else if (type === 'fearn-tc-class') {
@@ -40042,8 +40042,8 @@ function escapeHtml(str) {
           const rows = (d && d.rows) ? d.rows.filter(r => r[1] === cls) : [];
           const tenors = [...new Set(rows.map(r => r[2]))];
           const dts = rows.map(r => r[0]).sort();
-          html = `<div class="rt-title">Class Selector — ${cls}</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Tenors Published</span><span class="rt-val">${tenors.join(', ') || '—'}</span></div>`;
+          html = `<div class="rt-title">Class Selector: ${cls}</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Tenors Published</span><span class="rt-val">${tenors.join(', ') || 'n/a'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Weekly Prints</span><span class="rt-val">${rows.length} rows</span></div>`;
           if (dts.length) html += `<div class="rt-row"><span class="rt-label">Baltic Weekly Span</span><span class="rt-val">${dts[0]} → ${dts[dts.length - 1]}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Switching Class</span><span class="rt-val">keeps the active source per class</span></div>`;
@@ -40056,23 +40056,23 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Cadence</span><span class="rt-val">weekly</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">4-6M + 1Y weekly from 2000; 2Y/3Y weekly from 2021</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Gap Policy</span><span class="rt-val">gaps = no published print (no interpolation)</span></div>`;
-            html += `<div class="rt-note">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day). One source at a time — no stitching.</div>`;
+            html += `<div class="rt-note">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day). One source at a time: no stitching.</div>`;
           } else {
             const cls = (document.getElementById('fearnTcClass') || {}).value || 'Capesize';
             const ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
             const cache = window.DATA && DATA.fearnleysSeries;
             const a = (cache && cache.labels && ARCH_KEY[cls]) ? cache.labels[ARCH_KEY[cls]] : null;
             html = `<div class="rt-title">Source: Fearnleys Monthly (1977+)</div>`;
-            html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${ARCH_KEY[cls] || '— (no monthly archive series)'}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${ARCH_KEY[cls] || ',  (no monthly archive series)'}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Cadence</span><span class="rt-val">monthly prints</span></div>`;
             if (a) {
               const maxym = (window.FDESK && FDESK.maxym) || '';
               const frozen = maxym ? (a.last < maxym) : null;
               html += `<div class="rt-row"><span class="rt-label">Monthly Prints (n)</span><span class="rt-val">${a.n}</span></div>`;
               html += `<div class="rt-row"><span class="rt-label">Span</span><span class="rt-val">${a.first} \u2192 ${a.last}</span></div>`;
-              html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${frozen == null ? 'active desk \u2014 ' + a.last : (frozen ? 'archived \u2014 last print ' + a.last : 'current to ' + a.last)}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${frozen == null ? 'active desk: ' + a.last : (frozen ? 'archived: last print ' + a.last : 'current to ' + a.last)}</span></div>`;
             }
-            html += `<div class="rt-note">Source: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly). Frozen-state display — the archive ends where it ends; no interpolation into the weekly era.</div>`;
+            html += `<div class="rt-note">Source: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly). Frozen-state display: the archive ends where it ends; no interpolation into the weekly era.</div>`;
           }
         }
         else if (type === 'fearn-tc-chart') {
@@ -40092,7 +40092,7 @@ function escapeHtml(str) {
             const dts = rows.map(r => r[0]).sort();
             if (dts.length) html += `<div class="rt-row"><span class="rt-label">Span · n</span><span class="rt-val">${dts[0]} → ${dts[dts.length - 1]} · ${rows.length} weekly rows</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Gap Policy</span><span class="rt-val">gaps = no published print (no interpolation)</span></div>`;
-            html += `<div class="rt-note">2Y/3Y tenors are published weekly only since 2021 — their lines start there. Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day).</div>`;
+            html += `<div class="rt-note">2Y/3Y tenors are published weekly only since 2021: their lines start there. Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day).</div>`;
           } else {
             const ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
             const cache = window.DATA && DATA.fearnleysSeries;
@@ -40102,10 +40102,10 @@ function escapeHtml(str) {
               html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${ARCH_KEY[cls]}</span></div>`;
               html += `<div class="rt-row"><span class="rt-label">Latest monthly print</span><span class="rt-val">$${Number(lastP[1]).toLocaleString()}/day · ${lastP[0]}</span></div>`;
               html += `<div class="rt-row"><span class="rt-label">Span · n</span><span class="rt-val">${a.first} → ${a.last} · ${a.n} monthly prints</span></div>`;
-              html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${a.last < (FDESK.maxym || '') ? 'archived — last print ' + a.last : 'current to ' + a.last}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${a.last < (FDESK.maxym || '') ? 'archived: last print ' + a.last : 'current to ' + a.last}</span></div>`;
               html += `<div class="rt-note">One monthly archive line per class. No Baltic weekly data is mixed in. Source: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly).</div>`;
             } else {
-              html += `<div class="rt-note">No Fearnleys monthly archive series exists for this class — switch back to Baltic Weekly.</div>`;
+              html += `<div class="rt-note">No Fearnleys monthly archive series exists for this class: switch back to Baltic Weekly.</div>`;
             }
           }
         }
@@ -40140,7 +40140,7 @@ function escapeHtml(str) {
             html += `<div class="rt-note">Smooths weekly noise. Spread trading above the 30D MA indicates momentum; below signals reverting to mean.</div>`;
           } else if (metric === 'p90') {
             html += `<div class="rt-row"><span class="rt-label">Method</span><span class="rt-val">Historical 90th Percentile of all observed spreads</span></div>`;
-            html += `<div class="rt-note">Spread above the 90th percentile is historically extreme — institutional arbitrage activity typically caps the spread at this level.</div>`;
+            html += `<div class="rt-note">Spread above the 90th percentile is historically extreme: institutional arbitrage activity typically caps the spread at this level.</div>`;
           }
         }
         else if (type === 'restock-gauge') {
@@ -40217,10 +40217,10 @@ function escapeHtml(str) {
         else if (type === 'concept-lng-scale' || type === 'lng-scale-selector') {
           const scale = target.getAttribute('data-tt-scale') || '174k';
           const info = {
-            '174k': {name:'174,000 m³ Large LNG Carrier', trade:'Qatar → Japan/Korea/Europe, US Gulf → Asia (18–21 day passages)', nb:'$230–260M newbuilding (Hyundai, Daewoo, Samsung)', tc:'10Y TC benchmark: $80,000–110,000/day depending on market cycle', ldts:'~25,000 LDT — slow-steaming 19 knots, 2-stroke DFDE or X-DF propulsion', orderbook:'Dominant: ~70% of global LNG orderbook by CBM', note:'The 174k "TFDE" carrier is the global benchmark for inter-continental LNG trade. Spot charters are rare; the asset class is primarily financed via long-term oil-major or utility-backed time charters.'},
-            '30k': {name:'30,000 m³ Mid-Scale LNG Carrier', trade:'Regional distribution: FSRUs, North Sea, Mediterranean, SE Asia hub-to-spoke', nb:'$75–95M newbuilding (Kawasaki, CSSC)', tc:'1Y TC benchmark: $30,000–50,000/day; thin liquidity', ldts:'~10,500 LDT — pressure tanks or fully refrigerated', orderbook:'Growing: driven by European LNG import diversification 2022–2024', note:'Mid-scale LNG plays a critical role in "last mile" regasification, serving terminals too small to accept Q-Flex or conventional LNG tonnage. Higher spot rate volatility due to thinner fleet depth.'},
-            '7k': {name:'7,000 m³ Small Coastal / Bunkering LNG Vessel', trade:'LNG bunkering, coastal gas supply, river terminals, Arctic feeder routes', nb:'$35–55M newbuilding (Tersan, Crist, Damen)', tc:'Spot hire: $15,000–28,000/day; often proprietary or long-term utility-contracted', ldts:'~3,200 LDT — pressure or semi-refrigerated', orderbook:'Expanding rapidly via LNG bunkering infrastructure build-out (IMO 2020+ shipping decarbonisation)', note:'Small-scale LNG is the fastest-growing segment driven by LNG as marine fuel adoption under IMO 2020 sulphur caps. Vessels serve as floating gas stations for LNG-fuelled container ships and car carriers.'},
-            'all': {name:'All LNG Fleet Scales — Composite View', trade:'Full spectrum: inter-continental long-haul + regional distribution + coastal bunkering', nb:'Weighted average NB price shown for 174k benchmark', tc:'Chart overlays all three tenor series for cross-scale relative value comparison', ldts:'Fleet LDT range: 3,000–25,000 LDT depending on vessel size', orderbook:'Global LNG fleet: ~750 vessels with ~280 on order (2024)', note:'Viewing all scales simultaneously reveals the term structure of LNG vessel economics — from commodity-like small-scale up to project-financed large carriers underpinning $B LNG supply chain investments.'}
+            '174k': {name:'174,000 m³ Large LNG Carrier', trade:'Qatar → Japan/Korea/Europe, US Gulf → Asia (18–21 day passages)', nb:'$230–260M newbuilding (Hyundai, Daewoo, Samsung)', tc:'10Y TC benchmark: $80,000–110,000/day depending on market cycle', ldts:'~25,000 LDT: slow-steaming 19 knots, 2-stroke DFDE or X-DF propulsion', orderbook:'Dominant: ~70% of global LNG orderbook by CBM', note:'The 174k "TFDE" carrier is the global benchmark for inter-continental LNG trade. Spot charters are rare; the asset class is primarily financed via long-term oil-major or utility-backed time charters.'},
+            '30k': {name:'30,000 m³ Mid-Scale LNG Carrier', trade:'Regional distribution: FSRUs, North Sea, Mediterranean, SE Asia hub-to-spoke', nb:'$75–95M newbuilding (Kawasaki, CSSC)', tc:'1Y TC benchmark: $30,000–50,000/day; thin liquidity', ldts:'~10,500 LDT: pressure tanks or fully refrigerated', orderbook:'Growing: driven by European LNG import diversification 2022–2024', note:'Mid-scale LNG plays a critical role in "last mile" regasification, serving terminals too small to accept Q-Flex or conventional LNG tonnage. Higher spot rate volatility due to thinner fleet depth.'},
+            '7k': {name:'7,000 m³ Small Coastal / Bunkering LNG Vessel', trade:'LNG bunkering, coastal gas supply, river terminals, Arctic feeder routes', nb:'$35–55M newbuilding (Tersan, Crist, Damen)', tc:'Spot hire: $15,000–28,000/day; often proprietary or long-term utility-contracted', ldts:'~3,200 LDT: pressure or semi-refrigerated', orderbook:'Expanding rapidly via LNG bunkering infrastructure build-out (IMO 2020+ shipping decarbonisation)', note:'Small-scale LNG is the fastest-growing segment driven by LNG as marine fuel adoption under IMO 2020 sulphur caps. Vessels serve as floating gas stations for LNG-fuelled container ships and car carriers.'},
+            'all': {name:'All LNG Fleet Scales: Composite View', trade:'Full spectrum: inter-continental long-haul + regional distribution + coastal bunkering', nb:'Weighted average NB price shown for 174k benchmark', tc:'Chart overlays all three tenor series for cross-scale relative value comparison', ldts:'Fleet LDT range: 3,000–25,000 LDT depending on vessel size', orderbook:'Global LNG fleet: ~750 vessels with ~280 on order (2024)', note:'Viewing all scales simultaneously reveals the term structure of LNG vessel economics: from commodity-like small-scale up to project-financed large carriers underpinning $B LNG supply chain investments.'}
           };
           const v = info[scale] || info['174k'];
           html = `<div class="rt-title">LNG Vessel Scale: ${v.name}</div>`;
@@ -40234,10 +40234,10 @@ function escapeHtml(str) {
         else if (type === 'concept-lpg-seg' || type === 'lpg-segment-selector') {
           const seg = target.getAttribute('data-tt-seg') || 'vlgc';
           const info = {
-            vlgc: {name:'VLGC — Very Large Gas Carrier (84,000 m³)', trade:'Ras Tanura / Houston → Chiba / Ningbo (19–24 day AG-Japan voyage)', cargo:'LPG (propane / butane), NH₃, PDH feedstock', nb:'$85–105M newbuilding (Hyundai, HHIC)', tc:'1Y TC benchmark: $30,000–80,000/day; highly volatile (seasonal heating + PDH arbitrage)', operators:'BW LPG, Dorian LPG, Avance Gas, Epic Gas', note:'The VLGC is the freight benchmark for the global LPG trade. Rates are driven by the propane price arb between the US Gulf and the Far East, plus South Korean / Chinese PDH feedstock demand cycles.'},
-            mgc: {name:'MGC — Midsize Gas Carrier (35,000–40,000 m³)', trade:'Regional distribution: Med, Baltic, West Africa, Far East coastal', cargo:'LPG, butadiene, propylene, chemical gases', nb:'$55–70M newbuilding', tc:'1Y TC: $18,000–38,000/day; relatively stable vs VLGC', operators:'Stolt-Nielsen Gas, UASC, Hafnia Gas, BW Gas', note:'MGC vessels bridge the gap between large inter-continental VLGC trade and small-scale distribution. They serve regional terminals too small for VLGC berthing windows and chemical gas speciality trades.'},
-            handy: {name:'Handy — Semi-Refrigerated Gas Carrier (12,000–22,000 m³)', trade:'Coastal Europe, Caribbean, North Africa, West Africa, SE Asia hub-to-spoke', cargo:'LPG, ethylene, propylene, butadiene, vinyl chloride monomer (VCM)', nb:'$35–55M (Sinopacific, Dae Sun)', tc:'1Y TC: $12,000–25,000/day; often on spot or short period', operators:'Evergas, Panagas, Navigator Gas, Ultragas', note:'Handy gas carriers are the workhorses of the petrochemical gas trade. Their semi-refrigerated flexibility allows carriage of multiple chemical gases impossible in fully pressurised vessels. Critical to specialty polymer / PE supply chains.'},
-            all: {name:'All LPG Fleet Segments — Composite Overlay', trade:'Full segment spectrum: VLGC inter-continental + MGC regional + Handy coastal/chemical', cargo:'LPG, ammonia, ethylene, propylene, chemical gases (all grades)', nb:'Weighted across fleet sizes — $35M (Handy) to $105M (VLGC)', tc:'Chart displays all three segment benchmarks simultaneously for spread analysis', operators:'BW LPG, Dorian LPG, Navigator Gas, Stolt-Nielsen Gas, Ultragas', note:'Cross-segment view reveals relative value: when VLGC rates spike on AG-Japan arb, mid-size MGC and Handy rates typically lag by 2–6 weeks as cargo redistribution follows the arb window.'}
+            vlgc: {name:'VLGC: Very Large Gas Carrier (84,000 m³)', trade:'Ras Tanura / Houston → Chiba / Ningbo (19–24 day AG-Japan voyage)', cargo:'LPG (propane / butane), NH₃, PDH feedstock', nb:'$85–105M newbuilding (Hyundai, HHIC)', tc:'1Y TC benchmark: $30,000–80,000/day; highly volatile (seasonal heating + PDH arbitrage)', operators:'BW LPG, Dorian LPG, Avance Gas, Epic Gas', note:'The VLGC is the freight benchmark for the global LPG trade. Rates are driven by the propane price arb between the US Gulf and the Far East, plus South Korean / Chinese PDH feedstock demand cycles.'},
+            mgc: {name:'MGC: Midsize Gas Carrier (35,000–40,000 m³)', trade:'Regional distribution: Med, Baltic, West Africa, Far East coastal', cargo:'LPG, butadiene, propylene, chemical gases', nb:'$55–70M newbuilding', tc:'1Y TC: $18,000–38,000/day; relatively stable vs VLGC', operators:'Stolt-Nielsen Gas, UASC, Hafnia Gas, BW Gas', note:'MGC vessels bridge the gap between large inter-continental VLGC trade and small-scale distribution. They serve regional terminals too small for VLGC berthing windows and chemical gas speciality trades.'},
+            handy: {name:'Handy: Semi-Refrigerated Gas Carrier (12,000–22,000 m³)', trade:'Coastal Europe, Caribbean, North Africa, West Africa, SE Asia hub-to-spoke', cargo:'LPG, ethylene, propylene, butadiene, vinyl chloride monomer (VCM)', nb:'$35–55M (Sinopacific, Dae Sun)', tc:'1Y TC: $12,000–25,000/day; often on spot or short period', operators:'Evergas, Panagas, Navigator Gas, Ultragas', note:'Handy gas carriers are the workhorses of the petrochemical gas trade. Their semi-refrigerated flexibility allows carriage of multiple chemical gases impossible in fully pressurised vessels. Critical to specialty polymer / PE supply chains.'},
+            all: {name:'All LPG Fleet Segments: Composite Overlay', trade:'Full segment spectrum: VLGC inter-continental + MGC regional + Handy coastal/chemical', cargo:'LPG, ammonia, ethylene, propylene, chemical gases (all grades)', nb:'Weighted across fleet sizes: $35M (Handy) to $105M (VLGC)', tc:'Chart displays all three segment benchmarks simultaneously for spread analysis', operators:'BW LPG, Dorian LPG, Navigator Gas, Stolt-Nielsen Gas, Ultragas', note:'Cross-segment view reveals relative value: when VLGC rates spike on AG-Japan arb, mid-size MGC and Handy rates typically lag by 2–6 weeks as cargo redistribution follows the arb window.'}
           };
           const v = info[seg] || info['vlgc'];
           html = `<div class="rt-title">LPG Segment: ${v.name}</div>`;
@@ -40251,13 +40251,13 @@ function escapeHtml(str) {
         else if (type === 'concept-val-sec' || type === 'val-sector-selector') {
           const sec = target.getAttribute('data-tt-sec') || target.getAttribute('data-tt-sector') || 'cape';
           const info = {
-            cape: {name:'Capesize — 180,000 DWT Dry Bulk', ldt:'~24,000 LDT', scrap:'~$15–20M demolition floor (Bangladesh/Pakistan BreakUp)', sp:'$35–65M secondhand 10Y asset range', trade:'Iron ore (Brazil/Australia → China), coal (USA/Colombia → Asia)', tc:'1Y TC: $12,000–45,000/day', note:'Capesize assets trade at the highest leverage to commodity supercycles. Their large size limits port access to ~40 global ports, creating acute concentration risk to China steel demand and Vale / Rio Tinto shipment patterns.'},
-            panama: {name:'Panamax / Kamsarmax — 75,000–82,000 DWT Dry Bulk', ldt:'~12,000 LDT', scrap:'~$6–8M demolition floor', sp:'$18–38M secondhand range', trade:'Coal, grain, minor bulks — Americas, Black Sea, Pacific basin', tc:'1Y TC: $10,000–28,000/day', note:'Kamsarmax (82k) is the new Panama Canal–compatible benchmark. More versatile than Capesize with access to grain terminals and Great Lakes-range ports. Rate closely correlates with global thermal coal trade flows.'},
-            suprama: {name:'Supramax / Ultramax — 58,000–64,000 DWT Dry Bulk', ldt:'~8,500 LDT', scrap:'~$4.0–5.5M demolition floor', sp:'$14–28M secondhand range', trade:'Minor bulks: fertiliser, steel, bauxite, sugar, clinker, forest products', tc:'1Y TC: $10,000–22,000/day', note:'The Supramax / Ultramax is the most widely traded dry bulk class by vessel count. Its on-board cranes allow self-discharge at berths without shoreside equipment — critical in frontier markets and secondary ports.'},
-            handysize: {name:'Handysize — 28,000–40,000 DWT Dry Bulk', ldt:'~7,500 LDT', scrap:'~$3.5–5M demolition floor', sp:'$10–25M secondhand range', trade:'Steel, cement, agricultural cargoes, coastal short-haul, regional grain', tc:'1Y TC: $8,000–20,000/day', note:'Handysize vessels are the smallest ocean-going bulk carriers. They provide the "last mile" of dry bulk logistics, accessing minor ports with draft restrictions and serving regional commodity distribution hubs.'},
-            vlcc: {name:'VLCC — Very Large Crude Carrier (300,000–320,000 DWT)', ldt:'~40,000 LDT', scrap:'~$19–25M demolition floor', sp:'$70–140M secondhand range', trade:'AG Gulf → Asia (Hormuz), West Africa → Asia, USG → Asia (post Panama expansion)', tc:'1Y TC: $28,000–110,000/day (highly volatile)', note:'The VLCC is the defining asset of the global crude oil supply chain. Rates are driven by OPEC production policy, AG–Asia arb windows, US crude export growth, and geopolitical chokepoint disruptions (Hormuz, Cape of Good Hope routing).'},
-            suezmax: {name:'Suezmax — 155,000–160,000 DWT Crude Tanker', ldt:'~24,000 LDT', scrap:'~$11–15M demolition floor', sp:'$45–90M secondhand range', trade:'West Africa → Europe/US East Coast, Black Sea / Med, North Sea Loadings', tc:'1Y TC: $22,000–75,000/day', note:'The Suezmax is the largest vessel that can transit the Suez Canal laden. Critical for West Africa – Europe flows and Black Sea crude exports. Rate volatility is strongly linked to Russian crude rerouting post-2022.'},
-            aframax: {name:'Aframax — 80,000–120,000 DWT Crude Tanker', ldt:'~16,500 LDT', scrap:'~$8–11M demolition floor', sp:'$30–70M secondhand range', trade:'Baltic, North Sea, Caribbean, East of Suez regional, South East Asia', tc:'1Y TC: $18,000–60,000/day', note:'The Aframax is the workhorse of regional crude trade. It dominates Baltic loadings (Primorsk, Ust-Luga), North Sea Sullom Voe operations, and the Caribbean / Gulf of Mexico shuttle market. The LR2 product tanker shares the same hull platform.'}
+            cape: {name:'Capesize: 180,000 DWT Dry Bulk', ldt:'~24,000 LDT', scrap:'~$15–20M demolition floor (Bangladesh/Pakistan BreakUp)', sp:'$35–65M secondhand 10Y asset range', trade:'Iron ore (Brazil/Australia → China), coal (USA/Colombia → Asia)', tc:'1Y TC: $12,000–45,000/day', note:'Capesize assets trade at the highest leverage to commodity supercycles. Their large size limits port access to ~40 global ports, creating acute concentration risk to China steel demand and Vale / Rio Tinto shipment patterns.'},
+            panama: {name:'Panamax / Kamsarmax: 75,000–82,000 DWT Dry Bulk', ldt:'~12,000 LDT', scrap:'~$6–8M demolition floor', sp:'$18–38M secondhand range', trade:'Coal, grain, minor bulks: Americas, Black Sea, Pacific basin', tc:'1Y TC: $10,000–28,000/day', note:'Kamsarmax (82k) is the new Panama Canal–compatible benchmark. More versatile than Capesize with access to grain terminals and Great Lakes-range ports. Rate closely correlates with global thermal coal trade flows.'},
+            suprama: {name:'Supramax / Ultramax: 58,000–64,000 DWT Dry Bulk', ldt:'~8,500 LDT', scrap:'~$4.0–5.5M demolition floor', sp:'$14–28M secondhand range', trade:'Minor bulks: fertiliser, steel, bauxite, sugar, clinker, forest products', tc:'1Y TC: $10,000–22,000/day', note:'The Supramax / Ultramax is the most widely traded dry bulk class by vessel count. Its on-board cranes allow self-discharge at berths without shoreside equipment: critical in frontier markets and secondary ports.'},
+            handysize: {name:'Handysize: 28,000–40,000 DWT Dry Bulk', ldt:'~7,500 LDT', scrap:'~$3.5–5M demolition floor', sp:'$10–25M secondhand range', trade:'Steel, cement, agricultural cargoes, coastal short-haul, regional grain', tc:'1Y TC: $8,000–20,000/day', note:'Handysize vessels are the smallest ocean-going bulk carriers. They provide the "last mile" of dry bulk logistics, accessing minor ports with draft restrictions and serving regional commodity distribution hubs.'},
+            vlcc: {name:'VLCC: Very Large Crude Carrier (300,000–320,000 DWT)', ldt:'~40,000 LDT', scrap:'~$19–25M demolition floor', sp:'$70–140M secondhand range', trade:'AG Gulf → Asia (Hormuz), West Africa → Asia, USG → Asia (post Panama expansion)', tc:'1Y TC: $28,000–110,000/day (highly volatile)', note:'The VLCC is the defining asset of the global crude oil supply chain. Rates are driven by OPEC production policy, AG–Asia arb windows, US crude export growth, and geopolitical chokepoint disruptions (Hormuz, Cape of Good Hope routing).'},
+            suezmax: {name:'Suezmax: 155,000–160,000 DWT Crude Tanker', ldt:'~24,000 LDT', scrap:'~$11–15M demolition floor', sp:'$45–90M secondhand range', trade:'West Africa → Europe/US East Coast, Black Sea / Med, North Sea Loadings', tc:'1Y TC: $22,000–75,000/day', note:'The Suezmax is the largest vessel that can transit the Suez Canal laden. Critical for West Africa – Europe flows and Black Sea crude exports. Rate volatility is strongly linked to Russian crude rerouting post-2022.'},
+            aframax: {name:'Aframax: 80,000–120,000 DWT Crude Tanker', ldt:'~16,500 LDT', scrap:'~$8–11M demolition floor', sp:'$30–70M secondhand range', trade:'Baltic, North Sea, Caribbean, East of Suez regional, South East Asia', tc:'1Y TC: $18,000–60,000/day', note:'The Aframax is the workhorse of regional crude trade. It dominates Baltic loadings (Primorsk, Ust-Luga), North Sea Sullom Voe operations, and the Caribbean / Gulf of Mexico shuttle market. The LR2 product tanker shares the same hull platform.'}
           };
           const v = info[sec] || info['cape'];
           html = `<div class="rt-title">Vessel Asset Class: ${v.name}</div>`;
@@ -40274,7 +40274,7 @@ function escapeHtml(str) {
             dry: {name:'Dry Bulk Fleet', indices:'BDI (Capesize C5TC + Panamax P5TC + Supramax S10 + Handysize BHSI)', assets:'Capesize 180k, Kamsarmax 82k, Ultramax 64k, Handysize 38k', drivers:'China steel / iron ore demand, Pacific coal trade, global grain flows, minor bulk capex cycles', cycle:'BDI cycle history: Trough ~2016 (290), Super-cycle peak 2021 (5,650), Post-normalisation 1,500–2,500', note:'The dry bulk cycle is driven by bulk commodity demand growth vs fleet supply response lag (typically 2–3 year newbuilding delivery cycle). The BDI is a real-time proxy for world trade in physical goods.'},
             crude: {name:'Crude Tanker Fleet', indices:'BDTI (Baltic Dirty Tanker Index): TD3C VLCC + TD20 Suezmax + TD7 Aframax composites', assets:'VLCC 320k DWT, Suezmax 160k DWT, Aframax 115k DWT', drivers:'OPEC+ production cuts/increases, US crude export growth, Russia crude rerouting (Cape vs Suez), refinery complexity', cycle:'VLCC spike events: 2020 floating storage ($150k+/day), 2023 shadow fleet surge, geopolitical disruption premium', note:'Crude tanker rates exhibit extreme spot volatility driven by cargo concentration (large lot sizes) and geopolitical supply disruptions. OPEC curtailments reduce tonne-mile demand; disruptions spike rates.'},
             product: {name:'Product Tanker Fleet', indices:'BCTI (Baltic Clean Tanker Index): TC1 LR2 + TC5 LR1 + TC7 MR composites', assets:'LR2 115k DWT, LR1 75k DWT, MR 50k DWT, Handy 37k DWT', drivers:'Refinery dislocation (East vs West margins), IMO 2020 fuel switching, Russian product embargo flows, petrochemical naphtha trade', cycle:'2022–2023 super-cycle driven by Russia product ban + European refinery closures displacing trade to Middle East / India', note:'Product tanker rates lead crude tanker cycles by 3–6 months as refined product demand signals precede crude lift adjustments. IMO 2020 and Russian sanctions fundamentally restructured global clean product trade flows.'},
-            all: {name:'Cross-Sector Fleet Overview (Dry + Crude + Clean)', indices:'BDI + BDTI + BCTI composite positioning', assets:'Full shipping fleet: dry bulk, crude tankers, product tankers plotted simultaneously', drivers:'Macro global trade, energy commodity demand, geopolitical risk premium, tonnage supply cycles', cycle:'Cross-sector cycles rarely synchronise — provides relative value (long dry bulk / short crude or vice versa) positioning signals', note:'Viewing all three sectors simultaneously reveals inter-market correlations and divergences. Dry bulk leads crude by ~6–9 months at cycle turns as physical commodity trade anticipates energy demand shifts.'}
+            all: {name:'Cross-Sector Fleet Overview (Dry + Crude + Clean)', indices:'BDI + BDTI + BCTI composite positioning', assets:'Full shipping fleet: dry bulk, crude tankers, product tankers plotted simultaneously', drivers:'Macro global trade, energy commodity demand, geopolitical risk premium, tonnage supply cycles', cycle:'Cross-sector cycles rarely synchronise: provides relative value (long dry bulk / short crude or vice versa) positioning signals', note:'Viewing all three sectors simultaneously reveals inter-market correlations and divergences. Dry bulk leads crude by ~6–9 months at cycle turns as physical commodity trade anticipates energy demand shifts.'}
           };
           const v = info[grp] || info['dry'];
           html = `<div class="rt-title">Market Cycle Overlay: ${v.name}</div>`;
@@ -40288,7 +40288,7 @@ function escapeHtml(str) {
         // ── PILLAR 2: ETF Deconstruction & Basis ────────────────────────────────
         else if (type === 'etf-roll-badge') {
           const tenor = target.getAttribute('data-tt-tenor') || 'M0';
-          const days = target.getAttribute('data-tt-days') || '—';
+          const days = target.getAttribute('data-tt-days') || 'n/a';
           const tenorDesc = {M0:'Front-month prompt contract',M1:'Second-month (M+1) contract','M+1':'Second-month (M+1) contract','M+2':'Third-month (M+2) contract'};
           html = `<div class="rt-title">Contract Roll Badge: ${tenor}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Contract</span><span class="rt-val">${tenorDesc[tenor] || tenor + ' futures contract'}</span></div>`;
@@ -40375,16 +40375,16 @@ function escapeHtml(str) {
           const redDot = '<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="#f85149"/></svg>';
           html = `<div class="rt-title">Executive Macro Heat Radar</div>`;
           html += `<div class="rt-row"><span class="rt-label">Score Range</span><span class="rt-val">0–100 composite index (5 pillars × 20 pts each)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">75–100</span><span class="rt-val" style="color:#f85149">${redDot}Overheated — Reversal Risk (fwd 3M BDI avg: −23.8%, 10% win)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">75–100</span><span class="rt-val" style="color:#f85149">${redDot}Overheated: Reversal Risk (fwd 3M BDI avg: −23.8%, 10% win)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">60–74</span><span class="rt-val" style="color:#e3b341">${yellowDot}Late-Cycle Strength (fwd 3M BDI avg: −5.3%, 38% win)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">45–59</span><span class="rt-val" style="color:#58a6ff">${blueDot}Mid-Cycle Equilibrium (fwd 3M BDI avg: +8.8%, 44% win)</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">0–44</span><span class="rt-val" style="color:#3fb950">${greenDot}Trough — Accumulation Zone (fwd 3M BDI avg: +34.7%, 70% win)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">0–44</span><span class="rt-val" style="color:#3fb950">${greenDot}Trough: Accumulation Zone (fwd 3M BDI avg: +34.7%, 70% win)</span></div>`;
           html += `<div class="rt-note">Freight is a strongly mean-reverting cycle: high composite heat has preceded BDI drawdowns, deep troughs preceded rebounds (2018–2026 backtest, 1,984 sessions). Aggregates: Freight Momentum (graded MA-gap + ROC), Term Structure Slope (continuous spread map), Futures Basis (continuous basis map), Port Restocking (inverted expanding percentile), Asset Cycle Heat (margin percentile tent).</div>`;
         }
         else if (type === 'macro-trend-badge') {
           const diffStr = target.getAttribute('data-tt-diff-str') || '→ 0 pts';
           const label = target.getAttribute('data-tt-diff-label') || 'Stable';
-          const range = target.getAttribute('data-tt-range') || '—';
+          const range = target.getAttribute('data-tt-range') || 'n/a';
           const diffVal = parseFloat(target.getAttribute('data-tt-diff') || '0');
           const color = diffVal > 0 ? '#3fb950' : diffVal < 0 ? '#f85149' : '#e3b341';
           html = `<div class="rt-title">30-Day Macro Health Velocity &amp; 1Y Range</div>`;
@@ -40395,7 +40395,7 @@ function escapeHtml(str) {
         }
         else if (type === 'macro-regime-badge') {
           const regime = target.getAttribute('data-tt-regime') || 'Mid-Cycle Equilibrium';
-          const score = target.getAttribute('data-tt-score') || '—';
+          const score = target.getAttribute('data-tt-score') || 'n/a';
           const cls = target.getAttribute('data-tt-cls') || 'mhr-mid';
           const color = cls === 'mhr-bull' ? '#3fb950' : cls === 'mhr-constructive' ? '#58a6ff' : cls === 'mhr-mid' ? '#e3b341' : '#f85149';
           const dot = `<svg width="9" height="9" viewBox="0 0 9 9" style="vertical-align:middle;margin-right:5px;display:inline-block;" aria-hidden="true"><circle cx="4.5" cy="4.5" r="4" fill="${color}"/></svg>`;
@@ -40403,25 +40403,25 @@ function escapeHtml(str) {
           const REGIME_SPECS = {
             'mhr-bear': {
               range: '75–100 pts',
-              stance: 'Cycle-Top Discipline — Trim Beta, Hedge, Avoid New Longs',
+              stance: 'Cycle-Top Discipline: Trim Beta, Hedge, Avoid New Longs',
               backtest: 'Fwd 3M BDI: −23.8% avg · 10% win rate (81 sessions since 2018)',
-              desc: 'Composite heat is at cyclical extremes. Momentum and backwardation peak exactly at cycle tops in a mean-reverting freight market — treat high readings as a reversal-risk gauge, not a buy signal.'
+              desc: 'Composite heat is at cyclical extremes. Momentum and backwardation peak exactly at cycle tops in a mean-reverting freight market: treat high readings as a reversal-risk gauge, not a buy signal.'
             },
             'mhr-mid': {
               range: '60–74 pts',
-              stance: 'Late-Cycle Strength — Hold With Trailing Stops, Sell Rips',
+              stance: 'Late-Cycle Strength: Hold With Trailing Stops, Sell Rips',
               backtest: 'Fwd 3M BDI: −5.3% avg · 38% win rate (387 sessions)',
               desc: 'Strong readings with the cycle already extended. Run winners with tight trailing stops and pre-position hedges; historical forward returns in this band were mildly negative on average.'
             },
             'mhr-constructive': {
               range: '45–59 pts',
-              stance: 'Mid-Cycle Equilibrium — Balanced 50/50 Dry/Tanker Parity',
+              stance: 'Mid-Cycle Equilibrium: Balanced 50/50 Dry/Tanker Parity',
               backtest: 'Fwd 3M BDI: +8.8% avg · 44% win rate (736 sessions)',
               desc: 'Balanced supply-demand fundamentals with positive average drift. Hold equal-weight BDRY/BWET exposure; ladder accumulation toward the trough boundary rather than chasing strength.'
             },
             'mhr-bull': {
               range: '0–44 pts',
-              stance: 'Trough Accumulation — Scrap-Floor Value & Covered Charters',
+              stance: 'Trough Accumulation: Scrap-Floor Value & Covered Charters',
               backtest: 'Fwd 3M BDI: +34.7% avg · 70% win rate (780 sessions)',
               desc: 'Deep trough zone where vessel valuations approach scrap floors and sentiment capitulates. Historically the highest-conviction asymmetric entry window for long-horizon capital.'
             }
@@ -40448,27 +40448,27 @@ function escapeHtml(str) {
             'Freight Momentum': {
               formula: 'Graded blend: BDI gap vs 90D SMA + 30D ROC (continuous, no cliff steps)',
               driver: 'Measures directional velocity of dry bulk spot earnings. In a mean-reverting cycle, extreme momentum readings have historically preceded BDI pullbacks.',
-              implication: pct >= 70 ? 'Maximum cycle heat — freight far above trend with strong ROC; historically a reversal-risk zone rather than a chase signal.' : pct >= 40 ? 'Rates fluctuate around medium-term trend with moderate momentum.' : 'Deep negative momentum marks capitulation territory — historically the strongest forward-return zone.'
+              implication: pct >= 70 ? 'Maximum cycle heat: freight far above trend with strong ROC; historically a reversal-risk zone rather than a chase signal.' : pct >= 40 ? 'Rates fluctuate around medium-term trend with moderate momentum.' : 'Deep negative momentum marks capitulation territory: historically the strongest forward-return zone.'
             },
             'Term Structure Slope': {
               formula: 'Capesize 4–6M vs 2-Year TC spread mapped continuously from −15% contango to +15% backwardation',
               driver: 'Captures physical fleet tightness across prompt vs multi-year horizons. Steep backwardation = late-cycle heat; deep contango = distress pricing.',
-              implication: pct >= 70 ? 'Extreme backwardation — late-cycle tightness that has historically faded as tonnage supply responds.' : pct >= 40 ? 'Flat term structure signals balanced fleet supply.' : 'Contango structure indicates overcapacity pricing — historically coincided with cycle troughs.'
+              implication: pct >= 70 ? 'Extreme backwardation: late-cycle tightness that has historically faded as tonnage supply responds.' : pct >= 40 ? 'Flat term structure signals balanced fleet supply.' : 'Contango structure indicates overcapacity pricing: historically coincided with cycle troughs.'
             },
             'Futures Basis Arb': {
               formula: 'Spot BDI vs prompt BDRYFF basis mapped continuously from −15% to +10%',
               driver: 'Pricing parity between prompt FFAs and physical spot. The strongest single reversal signal in the composite: extreme spot premiums preceded drawdowns.',
-              implication: pct >= 70 ? 'Large spot premium to futures — peak heat; historically followed by negative forward BDI returns.' : pct >= 40 ? 'Neutral basis spread indicates fair pricing across spot and derivatives.' : 'Futures premium (contango) generates roll drag on long ETF holders but has marked panic-floor zones.'
+              implication: pct >= 70 ? 'Large spot premium to futures: peak heat; historically followed by negative forward BDI returns.' : pct >= 40 ? 'Neutral basis spread indicates fair pricing across spot and derivatives.' : 'Futures premium (contango) generates roll drag on long ETF holders but has marked panic-floor zones.'
             },
             'Port Restocking': {
-              formula: 'Chinese iron ore port inventories — inverted expanding percentile of own history (min 126 obs, cap 1,260)',
+              formula: 'Chinese iron ore port inventories: inverted expanding percentile of own history (min 126 obs, cap 1,260)',
               driver: 'Self-calibrating stockpile gauge: low percentile vs own capacity-adjusted history triggers urgent restocking voyages; high percentile signals demand saturation.',
-              implication: pct >= 70 ? 'Inventories critically low vs their own history — restocking urgency supports Capesize demand.' : pct >= 40 ? 'Balanced inventories satisfy near-term industrial consumption.' : 'Elevated inventories vs historical norms create demand saturation, muting import urgency.'
+              implication: pct >= 70 ? 'Inventories critically low vs their own history: restocking urgency supports Capesize demand.' : pct >= 40 ? 'Balanced inventories satisfy near-term industrial consumption.' : 'Elevated inventories vs historical norms create demand saturation, muting import urgency.'
             },
             'Asset Cycle Heat': {
               formula: 'Cape 10Y S&P-vs-scrap margin percentile tent (peak at mid-history margins)',
               driver: 'Margin stretched far above its historical middle = assets rich vs intrinsic scrap value (late-cycle); compressed toward scrap = distress floor.',
-              implication: pct >= 70 ? 'Margins near the historical sweet spot — valuation-supported entry zone with defined downside.' : pct >= 40 ? 'Valuations drifting away from the historical margin midpoint.' : 'Margins at historical extremes — either overheated asset pricing or distressed scrap-floor support.'
+              implication: pct >= 70 ? 'Margins near the historical sweet spot: valuation-supported entry zone with defined downside.' : pct >= 40 ? 'Valuations drifting away from the historical margin midpoint.' : 'Margins at historical extremes: either overheated asset pricing or distressed scrap-floor support.'
             }
           };
 
@@ -40497,8 +40497,8 @@ function escapeHtml(str) {
                 title: 'Cycle-Top Discipline: Trim Beta Into Strength',
                 objective: 'Reduce directional exposure at reversal-risk extremes',
                 rules: 'Composite heat >= 75 preceded a −23.8% average fwd 3M BDI move with a 10% win rate since 2018. Reduce ETF/FFA longs into strength rather than adding.',
-                metric: 'Composite Score >= 75 pts (Overheated — Reversal Risk band)',
-                risk: 'Do not short outright — late-cycle squeezes can extend; use trailing stops on remaining longs.'
+                metric: 'Composite Score >= 75 pts (Overheated: Reversal Risk band)',
+                risk: 'Do not short outright: late-cycle squeezes can extend; use trailing stops on remaining longs.'
               },
               {
                 title: 'Defensive Carry: Monetize Backwardation Without Direction',
@@ -40510,7 +40510,7 @@ function escapeHtml(str) {
               {
                 title: 'Invalidation Watch: What Would Re-Rate Bullish',
                 objective: 'Define the evidence that would override the reversal-risk stance',
-                rules: 'Only re-rate bullish if breadth improves (weakest pillar inflects upward) while the composite holds above 75 — otherwise treat strength as distribution liquidity.',
+                rules: 'Only re-rate bullish if breadth improves (weakest pillar inflects upward) while the composite holds above 75: otherwise treat strength as distribution liquidity.',
                 metric: 'Weakest Pillar Score trajectory + composite persistence >= 75',
                 risk: 'Re-entry discipline: require the composite to rebuild from below 60, not from an extended peak.'
               }
@@ -40526,7 +40526,7 @@ function escapeHtml(str) {
               {
                 title: 'Governor Bottleneck: Macro Constraint Monitoring',
                 objective: 'Identify the lagging pillar most likely to lead the composite lower',
-                rules: 'Track the weakest pillar (port inventory percentile or basis) — its deterioration has historically led the index into the mid-cycle band.',
+                rules: 'Track the weakest pillar (port inventory percentile or basis): its deterioration has historically led the index into the mid-cycle band.',
                 metric: 'Weakest Pillar Score (< 10/20 pts)',
                 risk: 'Avoid initiating fresh longs before the governor metric inflects upward.'
               },
@@ -40542,7 +40542,7 @@ function escapeHtml(str) {
               {
                 title: 'Balance Sheet Mandate: Symmetric Sector Allocation',
                 objective: 'Maintain balanced exposure across dry bulk and tanker segments',
-                rules: 'Deploy 50/50 capital parity between BDRY and BWET. Mid-cycle conditions produced +8.8% average fwd 3M BDI since 2018 — constructive but rangebound.',
+                rules: 'Deploy 50/50 capital parity between BDRY and BWET. Mid-cycle conditions produced +8.8% average fwd 3M BDI since 2018: constructive but rangebound.',
                 metric: 'Composite Macro Score between 45 and 59 pts',
                 risk: 'Rebalance monthly; ladder accumulation toward < 45 rather than chasing > 60.'
               },
@@ -40625,24 +40625,24 @@ function escapeHtml(str) {
           html += `<div class="rt-note">Adjusts the lookback window across prompt futures contracts and physical spot freight benchmarks.</div>`;
         }
         else if (type === 'basis-hud-spread') {
-          const val = document.getElementById('basisHudSpreadVal')?.textContent.trim() || '—';
+          const val = document.getElementById('basisHudSpreadVal')?.textContent.trim() || 'n/a';
           const sub = document.getElementById('basisHudSpreadSub')?.textContent.trim() || '';
           html = `<div class="rt-title">Net Basis Spread ($/pt &amp; %)</div>`;
           html += `<div class="rt-row"><span class="rt-label">Formula</span><span class="rt-val">Futures Mark − Spot Mark</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Percentage Formula</span><span class="rt-val">((Futures − Spot) / Spot) × 100%</span></div>`;
-          if (val && val !== 'Loading…' && val !== '—') {
+          if (val && val !== 'Loading…' && val !== 'n/a') {
             html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Current Basis</span><span class="rt-val" style="font-weight:700;">${val}</span></div>`;
             if (sub) html += `<div class="rt-row"><span class="rt-label">Components</span><span class="rt-val">${sub}</span></div>`;
           }
           html += `<div class="rt-note">Measures prompt contract premium or discount relative to contemporaneous physical spot freight index.</div>`;
         }
         else if (type === 'basis-hud-regime') {
-          const val = document.getElementById('basisHudRegimeVal')?.textContent.trim() || '—';
+          const val = document.getElementById('basisHudRegimeVal')?.textContent.trim() || 'n/a';
           const sub = document.getElementById('basisHudRegimeSub')?.textContent.trim() || '';
           html = `<div class="rt-title">Forward Curve Roll Structure Regime</div>`;
           html += `<div class="rt-row"><span class="rt-label">Contango</span><span class="rt-val neg">Negative Roll Drag (Futures &gt; Spot)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Backwardation</span><span class="rt-val pos">Positive Roll Yield (Futures &lt; Spot)</span></div>`;
-          if (val && val !== 'Loading…' && val !== '—') {
+          if (val && val !== 'Loading…' && val !== 'n/a') {
             html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Current Regime</span><span class="rt-val" style="font-weight:700;">${val}</span></div>`;
             if (sub) html += `<div class="rt-row"><span class="rt-label">Curve Dynamic</span><span class="rt-val">${sub}</span></div>`;
           }
@@ -40708,33 +40708,33 @@ function escapeHtml(str) {
           html = `<div class="rt-title">${title}</div>`;
           if (k && k.global_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.global_obs}${k.global_prev_obs ? ' (Δ vs ' + k.global_prev_obs + ')' : ''}</span></div>`;
           if (grade === 'VLSFO') {
-            const val = k ? '$' + k.global_vlsfo.toFixed(2) + '/MT' : 'reference value $865.50/MT (pre-cache snapshot)';
+            const val = k ? '$' + k.global_vlsfo.toFixed(2) + '/MT' : 'reference value $865.50/MT (before the daily bunker data loads)';
             if (k && k.global_vlsfo_chg != null) { const c = k.global_vlsfo_chg; const cStr = (c > 0 ? '+$' : (c < 0 ? '-$' : '$')) + Math.abs(c).toFixed(2) + '/MT'; html += `<div class="rt-row"><span class="rt-label">Δ vs Prior Obs (D/D)</span><span class="rt-val ${c <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${cStr}</span></div>`; }
             html += `<div class="rt-row"><span class="rt-label">Global Benchmark</span><span class="rt-val" style="color:#3fb950;font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Specification</span><span class="rt-val">Very Low Sulfur Fuel Oil (&le;0.50% S)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Regulatory Mandate</span><span class="rt-val">IMO 2020 Global Sulfur Cap Compliant</span></div>`;
             html += `<div class="rt-note">Universal marine fuel consumed by non-scrubber merchant vessels outside Emission Control Areas (ECAs).</div>`;
           } else if (grade === 'IFO380') {
-            const val = k ? '$' + k.global_hsfo.toFixed(2) + '/MT' : 'reference value $663.50/MT (pre-cache snapshot)';
+            const val = k ? '$' + k.global_hsfo.toFixed(2) + '/MT' : 'reference value $663.50/MT (before the daily bunker data loads)';
             if (k && k.global_hsfo_chg != null) { const c = k.global_hsfo_chg; const cStr = (c > 0 ? '+$' : (c < 0 ? '-$' : '$')) + Math.abs(c).toFixed(2) + '/MT'; html += `<div class="rt-row"><span class="rt-label">Δ vs Prior Obs (D/D)</span><span class="rt-val ${c <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${cStr}</span></div>`; }
             html += `<div class="rt-row"><span class="rt-label">Global Benchmark</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Specification</span><span class="rt-val">High Sulfur Fuel Oil (&le;3.50% S)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scrubber Requirement</span><span class="rt-val" style="color:#e3b341;">EGCS / Scrubber Mandatory</span></div>`;
             html += `<div class="rt-note">Heavy fuel oil permitted only on vessels equipped with exhaust gas cleaning scrubbers. Major cost-saving driver when Hi-5 spread widens.</div>`;
           } else if (grade === 'MGO') {
-            const val = k ? '$' + k.global_mgo.toFixed(2) + '/MT' : 'reference value $1,464.50/MT (pre-cache snapshot)';
+            const val = k ? '$' + k.global_mgo.toFixed(2) + '/MT' : 'reference value $1,464.50/MT (before the daily bunker data loads)';
             if (k && k.global_mgo_chg != null) { const c = k.global_mgo_chg; const cStr = (c > 0 ? '+$' : (c < 0 ? '-$' : '$')) + Math.abs(c).toFixed(2) + '/MT'; html += `<div class="rt-row"><span class="rt-label">Δ vs Prior Obs (D/D)</span><span class="rt-val ${c <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${cStr}</span></div>`; }
             html += `<div class="rt-row"><span class="rt-label">Global Benchmark</span><span class="rt-val" style="color:#e3b341;font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Specification</span><span class="rt-val">Marine Gasoil / LSMGO (&le;0.10% S)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Operating Areas</span><span class="rt-val">Baltic, North Sea, North American ECAs &amp; In-Port</span></div>`;
             html += `<div class="rt-note">Distillate fuel mandatory inside designated Emission Control Areas (0.10% sulfur) and during EU port stays.</div>`;
           } else if (grade === 'EUA') {
-            const val = k ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : 'EUA reference value not in the loaded cache - no fallback figure shown';
+            const val = k ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : 'EUA reference value not in the loaded bunker data; no fallback figure shown';
             if (k && k.eu_ets_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.eu_ets_obs} (static screening assumption)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Carbon Allowance</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scope</span><span class="rt-val">EU MRV Shipping Voyages (5,000+ GT)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Phase-In Schedule</span><span class="rt-val">40% in 2024, 70% in 2025, 100% in 2026</span></div>`;
-            html += `<div class="rt-note">EUA level is a static screening assumption — no live carbon feed is wired yet. The daily voyage penalty derives from it.</div>`;
+            html += `<div class="rt-note">EUA level is a static screening assumption: no live carbon feed is wired yet. The daily voyage penalty derives from it.</div>`;
             html += `<div class="rt-note">Vessels sailing to, from, or between EU ports must surrender European Union Allowances (EUAs) for 3.114 tonnes of CO2 emitted per tonne of bunker fuel consumed.</div>`;
           } else if (grade === 'VOL') {
             const val = k ? (k.singapore_monthly_vol_mt / 1000000).toFixed(2) + 'M MT' : '4.50M MT';
@@ -40751,7 +40751,7 @@ function escapeHtml(str) {
           const ports = summary && summary.ports ? summary.ports : [];
           const n = region === 'all' ? ports.length : ports.filter(p => p.region === region).length;
           const name = region === 'all' ? 'All Regions' : region;
-          html = `<div class="rt-title">Region Filter — ${name}</div>`;
+          html = `<div class="rt-title">Region Filter: ${name}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Ports Quoting</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${n} of ${ports.length}</span></div>`;
           html += `<div class="rt-note">Filters the spot table, map pins and the chart port list. Regional benchmark averages stay selectable in the price-history chart.</div>`;
         }
@@ -40762,7 +40762,7 @@ function escapeHtml(str) {
           const key = grade === 'IFO380' ? 'ifo380' : grade.toLowerCase();
           const n = grade === 'all' ? ports.length : ports.filter(p => p[key] != null).length;
           const names = { all: 'All Grades', VLSFO: 'VLSFO (0.5% S)', MGO: 'MGO (0.1% S)', IFO380: 'HSFO / IFO380 (3.5% S)', BIO: 'Biofuel B24 blend' };
-          html = `<div class="rt-title">Grade Filter — ${names[grade] || grade}</div>`;
+          html = `<div class="rt-title">Grade Filter: ${names[grade] || grade}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Ports Quoting</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${n} of ${ports.length}</span></div>`;
           html += `<div class="rt-note">Shows only ports with a live quote for this grade; ports without it are hidden, never zero-filled.</div>`;
         }
@@ -40772,13 +40772,13 @@ function escapeHtml(str) {
           const cov = {
             spot: [(summary && summary.ports ? summary.ports.length : 221) + ' ports · VLSFO / MGO / HSFO with spread vs Singapore and a 12-month sparkline'],
             forward: [(summary && summary.forward_curves_12m ? Object.keys(summary.forward_curves_12m).length : 6) + ' hub curves · 12 monthly tenors · IFO380 / VLSFO / MGO / Hi-5'],
-            volumes: ['Singapore monthly (MPA) and Rotterdam quarterly (Port Authority) — the only ports publishing verified physical volumes'],
+            volumes: ['Singapore monthly (MPA) and Rotterdam quarterly (Port Authority): the only ports publishing verified physical volumes'],
             scrubber: [(summary && summary.scrubber_economics ? summary.scrubber_economics.length : 0) + ' ports · Hi-5 spread, Cape / VLCC TCE bonus, EU ETS cost per MT'],
             altfuels: [(summary && summary.ports ? summary.ports.filter(p => p.lng != null || p.meoh != null || p.eua != null).length : 0) + ' ports with verified LNG / methanol / EUA indications']
           }[view] || [''];
           html = `<div class="rt-title">Bunkers Workspace</div>`;
           if (cov[0]) html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${cov[0]}</span></div>`;
-          html += `<div class="rt-note">Click to switch the left-pane workspace. All values come from the daily bunker harvest cache.</div>`;
+          html += `<div class="rt-note">Click to switch the left-pane workspace. All values come from the daily bunker price collection.</div>`;
         }
         else if (type === 'bunker-search') {
           const summary = window.DATA && DATA.bunkerSummary;
@@ -40845,7 +40845,7 @@ function escapeHtml(str) {
               html += `<div class="rt-row"><span class="rt-label">${g}</span><span class="rt-val ${cs}" style="font-weight:700;">$${best.price.toFixed(2)} · ${best.change > 0 ? '+' : ''}${best.change.toFixed(2)} vs prior</span></div>`;
             }
           });
-          html += `<div class="rt-note">Latest observation per grade from the BunkerIndex BIX harvest · range chips on each grade show the low-high across constituent ports.</div>`;
+          html += `<div class="rt-note">Latest observation per grade from the BunkerIndex BIX daily collection · range chips on each grade show the low-high across constituent ports.</div>`;
         }
         else if (type === 'bix-region-btn') {
           const region = target.getAttribute('data-tt-region') || '';
@@ -40858,7 +40858,7 @@ function escapeHtml(str) {
             const gd = s[g];
             if (gd && gd.dates && gd.dates.length) { n += gd.dates.length; grades.push(g); }
           });
-          html = `<div class="rt-title">BIX Archive — ${region}</div>`;
+          html = `<div class="rt-title">BIX Archive: ${region}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Archive Coverage</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${grades.length ? grades.join(' / ') : 'no grades yet'} · ${n} observations</span></div>`;
           html += `<div class="rt-note">Plots the full ${region} index archive. Suites with no published observations yet (MidGulf) show an honest empty state.</div>`;
         }
@@ -40867,7 +40867,7 @@ function escapeHtml(str) {
           const summary = window.DATA && DATA.bunkerSummary;
           const bh = summary && summary.bix_history ? summary.bix_history : null;
           const gd = bh && bh.series ? ((bh.series['BIX_' + bixChartRegion] || {})[grade] || null) : null;
-          html = `<div class="rt-title">BIX Grade — ${grade}</div>`;
+          html = `<div class="rt-title">BIX Grade: ${grade}</div>`;
           if (gd && gd.dates && gd.dates.length) {
             const last = gd.prices[gd.prices.length - 1];
             const chg = gd.change_usd[gd.change_usd.length - 1];
@@ -40883,7 +40883,7 @@ function escapeHtml(str) {
           const bh = summary && summary.bix_history ? summary.bix_history : null;
           const gd = bh && bh.series ? ((bh.series['BIX_' + bixChartRegion] || {})[bixChartGrade] || null) : null;
           const label = (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' ' + bixChartGrade;
-          html = `<div class="rt-title">${label} — Full Archive</div>`;
+          html = `<div class="rt-title">${label}: Full Archive</div>`;
           if (gd && gd.dates && gd.dates.length) {
             const last = gd.prices[gd.prices.length - 1];
             const chg = gd.change_usd[gd.change_usd.length - 1];
@@ -40892,7 +40892,7 @@ function escapeHtml(str) {
           } else {
             html += `<div class="rt-row"><span class="rt-label">Archive</span><span class="rt-val">no observations yet</span></div>`;
           }
-          html += `<div class="rt-note">Hover the line for per-observation values and the low-high range across constituent ports where published. The archive appends with each scheduled harvest.</div>`;
+          html += `<div class="rt-note">Hover the line for per-observation values and the low-high range across constituent ports where published. The archive appends with each scheduled data collection run.</div>`;
         }
         else if (type === 'bix-archive-badge') {
           const summary = window.DATA && DATA.bunkerSummary;
@@ -40912,7 +40912,7 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Observation Days</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${sorted.length}</span></div>`;
           if (sorted.length) html += `<div class="rt-row"><span class="rt-label">Archive Span</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${sorted[0]} → ${sorted[sorted.length - 1]}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Series Kept</span><span class="rt-val">${nSeries} (suite × grade)</span></div>`;
-          html += `<div class="rt-note">The archive appends with each scheduled bunker harvest; the chart above always plots the entire archive, never a trailing window.</div>`;
+          html += `<div class="rt-note">The archive appends with each scheduled data collection run; the chart above always plots the entire archive, never a trailing window.</div>`;
         }
         else if (type === 'bix-movers') {
           const summary = window.DATA && DATA.bunkerSummary;
@@ -41064,7 +41064,7 @@ function escapeHtml(str) {
           const date = target.getAttribute('data-tt-date') || '';
           const laycan = target.getAttribute('data-tt-laycan') || 'Prompt';
 
-          html = `<div class="rt-title">${vessel} — Verified Commercial Fixture</div>`;
+          html = `<div class="rt-title">${vessel}: Verified Commercial Fixture</div>`;
           if (date) html += `<div class="rt-row"><span class="rt-label">Fixture Date</span><span class="rt-val">${date}</span></div>`;
           if (charterer) html += `<div class="rt-row"><span class="rt-label">Charterer</span><span class="rt-val" style="font-weight:700;color:var(--text-bright);">${charterer}</span></div>`;
           if (seg) html += `<div class="rt-row"><span class="rt-label">Vessel Segment</span><span class="rt-val">${seg}</span></div>`;
@@ -41082,7 +41082,7 @@ function escapeHtml(str) {
           const txs = (summary && summary.snp_transactions_ledger && summary.snp_transactions_ledger.transactions) ? summary.snp_transactions_ledger.transactions : [];
           const d = txs.find(t => String(t.id) === String(dealId)) || {};
 
-          html = `<div class="rt-title">${vessel} — Verified S&P Deal</div>`;
+          html = `<div class="rt-title">${vessel}: Verified S&P Deal</div>`;
           if (d.date) html += `<div class="rt-row"><span class="rt-label">Transaction Date</span><span class="rt-val">${d.date}</span></div>`;
           if (d.segment) html += `<div class="rt-row"><span class="rt-label">Sector</span><span class="rt-val" style="text-transform:uppercase;">${d.segment}</span></div>`;
           if (d.built) html += `<div class="rt-row"><span class="rt-label">Built Year</span><span class="rt-val">${d.built}</span></div>`;
@@ -41100,11 +41100,11 @@ function escapeHtml(str) {
           if (cat) {
             const rateGbp = Math.round(cat.latest_dayrate_gbp || 0);
             const rateUsd = Math.round(rateGbp * 1.28);
-            const yoy = cat.yoy_change_pct != null ? (cat.yoy_change_pct >= 0 ? '+' : '') + cat.yoy_change_pct.toFixed(1) + '%' : '—';
+            const yoy = cat.yoy_change_pct != null ? (cat.yoy_change_pct >= 0 ? '+' : '') + cat.yoy_change_pct.toFixed(1) + '%' : 'n/a';
             const yoyCls = (cat.yoy_change_pct || 0) >= 0 ? 'pos' : 'neg';
             const mom = cat.mom_pct != null ? (cat.mom_pct >= 0 ? '+' : '') + cat.mom_pct.toFixed(1) + '%' : null;
             const momCls = (cat.mom_pct || 0) >= 0 ? 'pos' : 'neg';
-            html = `<div class="rt-title">${cat.name || cat.label} — Spot Benchmark</div>`;
+            html = `<div class="rt-title">${cat.name || cat.label}: Spot Benchmark</div>`;
             html += `<div class="rt-row"><span class="rt-label">Latest Dayrate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${rateGbp.toLocaleString()} / d (~$${rateUsd.toLocaleString()})</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy}</span></div>`;
             if (mom) html += `<div class="rt-row"><span class="rt-label">MoM Velocity</span><span class="rt-val ${momCls}">${mom}</span></div>`;
@@ -41184,9 +41184,8 @@ function escapeHtml(str) {
           html = `<div class="rt-title">${live ? 'Live Series' : 'Frozen Series'}</div>`;
           html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'LIVE' : 'FROZEN'}</span></div>`;
           if (lastD) html += `<div class="rt-row"><span class="rt-label">Last Print</span><span class="rt-val">${escapeHtml(lastD)}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Rule</span><span class="rt-val">live = publishes into the current harvest window (on or after 2026-08-01)</span></div>`;
           if (!live && metaNotes) html += `<div class="rt-note">${escapeHtml(String(metaNotes).slice(0, 320))}</div>`;
-          else html += `<div class="rt-note">A frozen badge means the source stopped publishing this series; the cache keeps its real history and never backfills it.</div>`;
+          else html += `<div class="rt-note">${live ? 'Live: assessed daily, still publishing.' : ('Frozen: the source stopped publishing this series. Last print ' + escapeHtml(lastD || 'unknown') + '.')}</div>`;
         }
         else if (type === 'fearn-tank-tile' || type === 'fearn-dry-tile') {
           const j = type === 'fearn-tank-tile' ? (window.DATA && DATA.fearnleysTankerRoutesDaily) : (window.DATA && DATA.fearnleysDryRoutesDaily);
@@ -41198,25 +41197,34 @@ function escapeHtml(str) {
             const last = n ? pts[n - 1] : null;
             const prev = n > 1 ? pts[n - 2] : null;
             const iso = (ms) => new Date(ms).toISOString().slice(0, 10);
-            const fmt = (v) => (v == null ? '\u2014' : (v % 1 === 0 ? Number(v).toLocaleString('en-US') : Number(v).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 })));
+            const fmt = (v) => (v == null ? 'n/a' : (v % 1 === 0 ? Number(v).toLocaleString('en-US') : Number(v).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 })));
             const unitName = (u) => u === 'ws' ? 'Worldscale points' : (u === 'tce' ? 'USD/day TCE' : (u === 'usd/day' ? 'USD/day' : (u === 'usd/tonne' ? 'USD/tonne' : (u === 'count' ? 'fixtures (count)' : (u === 'usd' ? 'USD' : String(u))))));
             const live = (s.last || '') >= '2026-08-01';
+            const kb = (window.FDESK_ROUTE_KB && FDESK_ROUTE_KB[(s.klass || '') + '|' + (s.route || '')]) || null;
+            const built = type === 'fearn-tank-tile' ? (window.FDESK_TANKER_META && FDESK_TANKER_META.builtUtc) : (window.FDESK_DRY_META && FDESK_DRY_META.builtUtc);
             html = `<div class="rt-title">${escapeHtml(s.label)}</div>`;
-            if (last) html += `<div class="rt-row"><span class="rt-label">Last</span><span class="rt-val">${fmt(last[1])} · ${iso(last[0])}</span></div>`;
+            if (last) html += `<div class="rt-row"><span class="rt-label">Last</span><span class="rt-val">${fmt(last[1])} \u00b7 ${iso(last[0])}</span></div>`;
             if (prev) { const d = last[1] - prev[1]; html += `<div class="rt-row"><span class="rt-label">Day Delta</span><span class="rt-val ${d > 0 ? 'pos' : (d < 0 ? 'neg' : '')}">${d > 0 ? '+' : ''}${fmt(d)} vs ${fmt(prev[1])} (${iso(prev[0])})</span></div>`; }
-            html += `<div class="rt-row"><span class="rt-label">First Obs</span><span class="rt-val">${escapeHtml(String(s.first || '\u2014'))}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Last Obs</span><span class="rt-val">${escapeHtml(String(s.last || '\u2014'))}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">First Obs</span><span class="rt-val">${escapeHtml(String(s.first || 'n/a'))}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Last Obs</span><span class="rt-val">${escapeHtml(String(s.last || 'n/a'))}</span></div>`;
             if (s.n != null) html += `<div class="rt-row"><span class="rt-label">Observations</span><span class="rt-val">${Number(s.n).toLocaleString('en-US')} pts</span></div>`;
             if (s.cadence) html += `<div class="rt-row"><span class="rt-label">Cadence</span><span class="rt-val">${escapeHtml(String(s.cadence))}</span></div>`;
             if (s.unit) html += `<div class="rt-row"><span class="rt-label">Unit</span><span class="rt-val">${escapeHtml(unitName(s.unit))}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'LIVE — publishes into the current harvest window' : 'FROZEN — last print predates the current harvest window'}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'Live: assessed daily, still publishing' : 'Frozen: source stopped publishing, history preserved'}</span></div>`;
             if (s.derivation) html += `<div class="rt-row"><span class="rt-label">Derivation</span><span class="rt-val">${escapeHtml(String(s.derivation))}</span></div>`;
             if (s.klass) html += `<div class="rt-row"><span class="rt-label">Group</span><span class="rt-val">${escapeHtml(String(s.klass))}</span></div>`;
-            const built = type === 'fearn-tank-tile' ? (window.FDESK_TANKER_META && FDESK_TANKER_META.builtUtc) : (window.FDESK_DRY_META && FDESK_DRY_META.builtUtc);
-            const src = type === 'fearn-tank-tile' ? (window.FDESK_TANKER_META && FDESK_TANKER_META.source) : (window.FDESK_DRY_META && FDESK_DRY_META.source);
-            html += `<div class="rt-note">Source: ${escapeHtml(String(src || 'Fearnleys via fearnpulse market-api'))}${built ? ' · fetched ' + escapeHtml(String(built)) : ''}. Click the tile for the full daily chart.</div>`;
+            if (kb) {
+              html += `<div class="rt-row"><span class="rt-label">What it is</span><span class="rt-val">${escapeHtml(kb.what)}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">What moves it</span><span class="rt-val">${escapeHtml(kb.drivers)}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">What it feeds</span><span class="rt-val">${escapeHtml(kb.affects)}</span></div>`;
+            }
+            if (live) {
+              html += `<div class="rt-note">Fearnleys daily assessments${built ? ' \u00b7 fetched ' + escapeHtml(String(built)) : ''}</div>`;
+            } else {
+              html += `<div class="rt-note">The source stopped publishing this assessment (last print ${escapeHtml(String(s.last || ''))}); this route's USD or Worldscale twin is still published.</div>`;
+            }
           } else {
-            html = `<div class="rt-title">Route Tile</div><div class="rt-note">Daily cache still loading — hover again once it lands; nothing is estimated.</div>`;
+            html = `<div class="rt-title">Route Tile</div><div class="rt-note">Daily data still loading: hover again in a moment; nothing is estimated.</div>`;
           }
         }
         else if (type === 'fearn-tank-klass-tab') {
@@ -41224,7 +41232,7 @@ function escapeHtml(str) {
           const j = window.DATA && DATA.fearnleysTankerRoutesDaily;
           const kk = (j && j.index && j.index.klasses && j.index.klasses[k]) || null;
           // shown = series the tab grid actually renders (all-zero excluded);
-          // archived = the cache branches the source never published values in.
+          // archived = the branches the source never published values in.
           let shown = 0, archived = 0;
           if (j && j.series) {
             Object.keys(j.series).forEach((code) => {
@@ -41235,14 +41243,15 @@ function escapeHtml(str) {
               if (allZero) archived++; else shown++;
             });
           }
+          const klassNote = (window.FDESK_KLASS_NOTES && FDESK_KLASS_NOTES[k]) || ('Vessel group ' + k);
           html = `<div class="rt-title">Route Group: ${escapeHtml(k)}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${Number(shown).toLocaleString('en-US')} shown</span></div>`;
-          if (archived > 0) html += `<div class="rt-row"><span class="rt-label">Archived</span><span class="rt-val">${Number(archived).toLocaleString('en-US')} not shown — source published no values; USD/WS twins carry the routes</span></div>`;
+          if (archived > 0) html += `<div class="rt-row"><span class="rt-label">Archived</span><span class="rt-val">${Number(archived).toLocaleString('en-US')} not shown: source published no values; USD/WS twins carry the routes</span></div>`;
           if (kk) {
             html += `<div class="rt-row"><span class="rt-label">Points</span><span class="rt-val">${Number(kk.pts).toLocaleString('en-US')}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Span</span><span class="rt-val">${escapeHtml(String(kk.first || '\u2014'))} \u2192 ${escapeHtml(String(kk.last || '\u2014'))}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Span</span><span class="rt-val">${escapeHtml(String(kk.first || 'n/a'))} \u2192 ${escapeHtml(String(kk.last || 'n/a'))}</span></div>`;
           }
-          html += `<div class="rt-note">Switches the tile grid to this vessel group; tiles stay cache-derived from the daily tanker-routes cache.</div>`;
+          html += `<div class="rt-note">${escapeHtml(klassNote)}. Switches the tile grid to this group.</div>`;
         }
         else if (type === 'fearn-tank-chart' || type === 'fearn-dry-chart') {
           const isTank = type === 'fearn-tank-chart';
@@ -41252,14 +41261,22 @@ function escapeHtml(str) {
           if (s) {
             const pts = s.pts || [];
             const last = pts.length ? pts[pts.length - 1] : null;
-            const fmt = (v) => (v == null ? '\u2014' : (v % 1 === 0 ? Number(v).toLocaleString('en-US') : Number(v).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 })));
-            html = `<div class="rt-title">${escapeHtml(s.label)} — Daily Chart</div>`;
-            html += `<div class="rt-row"><span class="rt-label">Plotted</span><span class="rt-val">${pts.length ? Number(pts.length).toLocaleString('en-US') + ' daily observations' : '\u2014'}</span></div>`;
+            const fmt = (v) => (v == null ? 'n/a' : (v % 1 === 0 ? Number(v).toLocaleString('en-US') : Number(v).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 })));
+            const kb = (window.FDESK_ROUTE_KB && FDESK_ROUTE_KB[(s.klass || '') + '|' + (s.route || '')]) || null;
+            const built = isTank ? (window.FDESK_TANKER_META && FDESK_TANKER_META.builtUtc) : (window.FDESK_DRY_META && FDESK_DRY_META.builtUtc);
+            html = `<div class="rt-title">${escapeHtml(s.label)}: Daily Chart</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Plotted</span><span class="rt-val">${pts.length ? Number(pts.length).toLocaleString('en-US') + ' daily observations' : 'n/a'}</span></div>`;
             if (pts.length) html += `<div class="rt-row"><span class="rt-label">Span</span><span class="rt-val">${escapeHtml(String(s.first))} \u2192 ${escapeHtml(String(s.last))}</span></div>`;
-            if (last) html += `<div class="rt-row"><span class="rt-label">Latest print</span><span class="rt-val">${fmt(last[1])} · ${new Date(last[0]).toISOString().slice(0, 10)}</span></div>`;
-            html += `<div class="rt-note">Hover the line for exact date + value. Points pass through uninterpolated: gaps stay gaps. Source: Fearnleys via fearnpulse market-api.</div>`;
+            if (last) html += `<div class="rt-row"><span class="rt-label">Latest print</span><span class="rt-val">${fmt(last[1])} \u00b7 ${new Date(last[0]).toISOString().slice(0, 10)}</span></div>`;
+            if (kb) html += `<div class="rt-row"><span class="rt-label">What it is</span><span class="rt-val">${escapeHtml(kb.what)}</span></div>`;
+            const liveChart = (s.last || '') >= '2026-08-01';
+            if (liveChart) {
+              html += `<div class="rt-note">Hover the line for exact date and value. Points pass through uninterpolated: gaps stay gaps.${kb ? ' ' + escapeHtml(kb.drivers) : ''}${built ? ' Fearnleys daily assessments \u00b7 fetched ' + escapeHtml(String(built)) : ''}</div>`;
+            } else {
+              html += `<div class="rt-note">Hover the line for exact date and value. The source stopped publishing this assessment (last print ${escapeHtml(String(s.last || ''))}); this route's USD or Worldscale twin is still published.</div>`;
+            }
           } else {
-            html = `<div class="rt-title">Daily Chart</div><div class="rt-note">Pick a route tile above — the chart opens once its cache lands; nothing simulated is plotted.</div>`;
+            html = `<div class="rt-title">Daily Chart</div><div class="rt-note">Pick a route tile above: the chart opens once its data loads; nothing simulated is plotted.</div>`;
           }
         }
 
@@ -41269,9 +41286,9 @@ function escapeHtml(str) {
           const code = target.value || (window.FDESK && FDESK.tankRoute);
           const s = (j && j.series && j.series[code]) ? j.series[code] : null;
           html = `<div class="rt-title">Route Picker</div>`;
-          if (n) html += `<div class="rt-row"><span class="rt-label">Series in cache</span><span class="rt-val">${Number(n).toLocaleString('en-US')}</span></div>`;
+          if (n) html += `<div class="rt-row"><span class="rt-label">Routes</span><span class="rt-val">${Number(n).toLocaleString('en-US')}</span></div>`;
           if (s) html += `<div class="rt-row"><span class="rt-label">Active</span><span class="rt-val">${escapeHtml(String(s.label))}</span></div>`;
-          html += `<div class="rt-note">Pick any route to replot its daily chart; options and spans come straight from the daily tanker-routes cache.</div>`;
+          html += `<div class="rt-note">Pick any route to replot its daily chart on the tanker panel.</div>`;
         }
         else if (type === 'fearn-dry-chart-select') {
           const j = window.DATA && DATA.fearnleysDryRoutesDaily;
@@ -41279,9 +41296,9 @@ function escapeHtml(str) {
           const code = target.value || (window.FDESK && FDESK.dryRoute);
           const s = (j && j.series && j.series[code]) ? j.series[code] : null;
           html = `<div class="rt-title">Benchmark Picker</div>`;
-          if (n) html += `<div class="rt-row"><span class="rt-label">Series in cache</span><span class="rt-val">${Number(n).toLocaleString('en-US')}</span></div>`;
+          if (n) html += `<div class="rt-row"><span class="rt-label">Benchmarks</span><span class="rt-val">${Number(n).toLocaleString('en-US')}</span></div>`;
           if (s) html += `<div class="rt-row"><span class="rt-label">Active</span><span class="rt-val">${escapeHtml(String(s.label))}</span></div>`;
-          html += `<div class="rt-note">Pick any dry-route benchmark to replot its daily chart; options come straight from the dry-route daily cache.</div>`;
+          html += `<div class="rt-note">Pick any dry route benchmark to replot its daily chart.</div>`;
         }
         else {
           html = '';
@@ -43044,6 +43061,111 @@ function fearnFmtVal(v) {
 function fearnUnitName(u) {
   return u === 'ws' ? 'Worldscale points' : (u === 'tce' ? 'USD/day TCE' : (u === 'usd/day' ? 'USD/day' : (u === 'usd/tonne' ? 'USD/tonne' : (u === 'count' ? 'fixtures (count)' : (u === 'usd' ? 'USD' : String(u))))));
 }
+var FDESK_ROUTE_KB = {
+  'VLCC|MEG/FEAST': { what: "VLCCs hauling crude from the Middle East Gulf to the Far East, the world's highest volume crude trade and the flagship route for the biggest tankers", drivers: "OPEC output and export programmes, Chinese and Indian refiner buying, and how many VLCCs are open in the Gulf versus fixed to Asia", affects: "The headline VLCC market brokers and tanker owners quote first; feeds TCE screens, fixture decisions and tanker equity earnings models" },
+  'VLCC|MEG/USG': { what: "VLCCs running crude from the Middle East Gulf to the US Gulf Coast, one of the longest crude voyages afloat", drivers: "US crude import appetite, the tonnage balance between Atlantic and Pacific, and Suez transit economics for the shorter routing", affects: "Sets the interbasin VLCC arbitrage and feeds long haul TCE screens and fleet positioning decisions" },
+  'VLCC|CEYHAN/FEAST': { what: "VLCCs carrying Azeri BTC pipeline crude from Ceyhan on Turkey's Mediterranean coast to the Far East", drivers: "BTC pipeline flows, Far East refiner demand for Azeri grades, and the premium Ceyhan tonnage earns against the Gulf benchmark", affects: "The USD assessment feeds Mediterranean based VLCC TCE screens and owner choices between Ceyhan and Gulf employment" },
+  'VLCC|CEYHAN/USG': { what: "VLCCs carrying Azeri BTC crude from Ceyhan across the Atlantic to the US Gulf", drivers: "BTC availability, US demand for Azeri barrels, and West African competition for the same Atlantic tonnage", affects: "Feeds Worldscale comparisons against NSEA/USG and WAFR/USG for owners weighing Atlantic VLCC employment" },
+  'VLCC|NSEA/FEAST': { what: "VLCCs lifting North Sea crude for the very long haul to the Far East, the premium Atlantic export voyage", drivers: "North Sea loading programmes, Far East demand for Atlantic grades, and the earnings gap that keeps tonnage east or west", affects: "The USD assessment feeds long haul TCE screens and the decision on whether Atlantic tonnage stays or goes east" },
+  'VLCC|NSEA/USG': { what: "VLCCs moving North Sea crude across the North Atlantic to the US Gulf Coast", drivers: "North Sea and US export programmes, transatlantic tonnage supply, and northern weather at the loading end", affects: "Feeds Atlantic VLCC earnings screens and the choice between short transatlantic runs and longer eastbound voyages" },
+  'VLCC|NSEA/WCI': { what: "VLCCs carrying North Sea crude to the West Coast of India", drivers: "Indian refiner demand for Atlantic grades, competing Middle East supply, and Atlantic tonnage positioning", affects: "Feeds USD TCE screens for Atlantic VLCCs and Indian refiner freight budgets" },
+  'VLCC|USG/THAILAND': { what: "VLCCs lifting US Gulf Coast crude for Thailand, one of the ultra long haul US export trades", drivers: "US crude export volumes, Thai refiner demand, and Pacific side VLCC availability", affects: "Feeds US export TCE screens and owner decisions on positioning Gulf tonnage for Pacific discharge" },
+  'VLCC|WAFR/FEAST': { what: "VLCCs hauling West African crude to the Far East, the classic long haul out of Nigeria and Angola", drivers: "Nigerian and Angolan loading programmes, Far East refiner demand for sweet crude, and the ballast balance between Africa and Asia", affects: "Feeds east of Suez Worldscale screens and the Africa to Asia share of tanker earnings models" },
+  'VLCC|WAFR/THAILAND': { what: "VLCCs carrying West African crude to Thai refiners", drivers: "West African output, Thai import programmes, and Pacific VLCC availability; Thai stems compete with Far East discharge for the same ships", affects: "Feeds West African Worldscale screens and Thai refiner freight budgets" },
+  'VLCC|WAFR/UKC': { what: "VLCCs running West African crude to refineries of the UK Continent in Northwest Europe", drivers: "African grade premiums for European refiners, North Sea supply, and Atlantic tonnage supply", affects: "Feeds Atlantic VLCC Worldscale screens and the Europe versus Asia destination arbitrage for African barrels" },
+  'VLCC|WAFR/USG': { what: "VLCCs moving West African crude across the Atlantic to the US Gulf", drivers: "US refiners' sweet crude appetite, Nigerian and Angolan exports, and the tonnage balance between Africa, the US Gulf and Europe", affects: "Feeds transatlantic VLCC screens and Atlantic tonnage positioning decisions" },
+  'VLCC|EAST DEMURRAGE': { what: "The assessed daily compensation owners earn when a VLCC is delayed loading or discharging east of Suez", drivers: "Port congestion and berth queues, weather, and cargo stems running late against charterparty windows", affects: "Feeds owner claims planning and charterer exposure estimates; a rising assessment signals worsening port delays" },
+  'VLCC|WEST DEMURRAGE': { what: "The assessed daily compensation owners earn when a VLCC is delayed loading or discharging west of Suez", drivers: "US Gulf, Northwest European and West African port congestion, plus Atlantic weather delays", affects: "Feeds Atlantic voyage cost models and charterer demurrage exposure west of Suez" },
+  'Suezmax|BLSEA/MED': { what: "Suezmaxes carrying Black Sea crude through the Turkish Straits to Mediterranean refineries", drivers: "CPC and Russian Black Sea loadings, Turkish Strait transit delays, and Mediterranean refiner demand", affects: "Feeds the Black Sea to Med Worldscale screen; strait congestion can move the rate sharply day to day" },
+  'Suezmax|BLSEA/USG': { what: "Suezmaxes moving Black Sea crude across the Atlantic to the US Gulf", drivers: "Transatlantic tonnage supply, US refiner demand for medium sour grades, and how Black Sea cargoes price against Atlantic alternatives", affects: "Feeds transatlantic Suezmax screens and US refiner freight budgets" },
+  'Suezmax|BOT(H)/UKCM': { what: "Suezmaxes running Brazilian crude to the UK Continent; the H twin tracks the heavy grade stream", drivers: "Brazilian pre salt export programmes, European demand for heavier grades, and South Atlantic tonnage supply", affects: "Feeds Worldscale screens for South Atlantic crude and European refiner import costs" },
+  'Suezmax|BOT(L)/UKCM': { what: "Suezmaxes running Brazilian crude to the UK Continent; the L twin tracks the light grade stream", drivers: "Brazilian export mix, European demand for lighter sweet grades, and Atlantic tonnage supply", affects: "Feeds Worldscale screens for South Atlantic crude and the heavy versus light spread European refiners watch" },
+  'Suezmax|CEYHAN/UKC': { what: "Suezmaxes carrying Azeri BTC crude from Ceyhan to the UK Continent", drivers: "BTC pipeline flows, Northwest European refiner demand, and the tonnage balance between the Med and Northern Europe", affects: "Feeds Mediterranean to North Europe Worldscale screens and BTC cargo marketing" },
+  'Suezmax|CEYHAN/USG': { what: "Suezmaxes moving Azeri BTC crude from Ceyhan across the Atlantic to the US Gulf", drivers: "BTC flows, US demand for Azeri barrels, and transatlantic Suezmax supply", affects: "Feeds transatlantic Suezmax screens; competes with NSEA/USG for the same tonnage" },
+  'Suezmax|CEYHAN/WCI': { what: "Suezmaxes hauling Azeri BTC crude from Ceyhan to India's west coast", drivers: "Indian refiner demand for Atlantic grades, Med tonnage positioning, and competing Middle East supply", affects: "The USD assessment feeds eastbound TCE screens for Med positioned Suezmaxes" },
+  'Suezmax|CROSS MED': { what: "Intra Mediterranean Suezmax runs, crude and dirty products between Mediterranean loading and discharge ports", drivers: "Med refinery activity, North African export programmes, and how many Suezmaxes stay in the basin versus being drawn out", affects: "Feeds Med Worldscale screens and refiner voyage cost budgets" },
+  'Suezmax|CROSS NSEA': { what: "Suezmax runs inside the North Sea area, crude between North Sea terminals and Northwest European refineries", drivers: "North Sea field loadings, refinery runs, and Baltic and Mediterranean competition for the same ships", affects: "Feeds North Sea Worldscale screens and short haul tanker earnings" },
+  'Suezmax|EAST DEMURRAGE': { what: "Assessed daily compensation for Suezmaxes delayed east of Suez", drivers: "Asian and Gulf port congestion, cargo stem delays, and weather", affects: "Feeds owner demurrage exposure and charterer claims budgets east of Suez" },
+  'Suezmax|WEST DEMURRAGE': { what: "Assessed daily compensation for Suezmaxes delayed west of Suez", drivers: "Atlantic port congestion, berth queues, and late cargo stems", affects: "Feeds Atlantic voyage cost models and demurrage claims exposure" },
+  'Suezmax|MEG/EAST (+15 YR)': { what: "Suezmaxes aged over 15 years carrying Middle East Gulf crude to Asia, the older ship slice of the Gulf trade", drivers: "Gulf export volumes, trading patterns for older tonnage, and the discount older ships earn against modern units", affects: "Feeds age segmented Worldscale screens and fleet age earnings analysis" },
+  'Suezmax|MEG/EAST (MODERN)': { what: "Modern Suezmaxes carrying Middle East Gulf crude to Asia, the younger ship slice of the Gulf trade", drivers: "Gulf export programmes, Asian refiner demand, and how much modern tonnage competes for Gulf stems", affects: "Feeds the modern tonnage Worldscale screen owners and charterers benchmark period and spot decisions against" },
+  'Suezmax|NOVO/USG': { what: "Suezmaxes loading Novorossiysk crude on the Black Sea for the US Gulf", drivers: "Russian Black Sea exports, sanctions and price cap trading patterns, and transatlantic tonnage supply", affects: "Feeds transatlantic Suezmax screens and tracks how far the Russian barrel reaches into the Atlantic" },
+  'Suezmax|NSEA/USG': { what: "Suezmaxes moving North Sea crude across the Atlantic to the US Gulf", drivers: "North Sea loading programmes, US refiner demand, and transatlantic tonnage balance", affects: "Feeds Atlantic Suezmax Worldscale screens and crude destination arbitrage" },
+  'Suezmax|NSEA/WCI': { what: "Suezmaxes carrying North Sea crude to India's west coast", drivers: "Indian demand for Atlantic grades, eastbound Suezmax supply, and competing Gulf barrels", affects: "Feeds USD TCE screens for Atlantic Suezmaxes going east" },
+  'Suezmax|WAFR/THAILAND': { what: "Suezmaxes carrying West African crude to Thailand", drivers: "West African exports, Thai import programmes, and the Suezmax versus VLCC split on African stems", affects: "Feeds Worldscale screens on Africa to Asia runs for midsize tonnage" },
+  'Suezmax|WAFR/UKC': { what: "Suezmaxes running West African crude to Northwest Europe", drivers: "Nigerian and Angolan programmes, European demand for sweet grades, and Atlantic tonnage supply", affects: "Feeds Atlantic Suezmax screens and the Europe versus Asia arbitrage for African barrels" },
+  'Suezmax|WAFR/USG': { what: "Suezmaxes hauling West African crude to the US Gulf", drivers: "US refiners' sweet crude intake, West African export pace, and the Aframax versus Suezmax split of that trade", affects: "Feeds transatlantic Suezmax screens and US import freight budgets" },
+  'Suezmax|WAFR/WCI': { what: "Suezmaxes moving West African crude to India's west coast", drivers: "Indian refiner demand, African export programmes, and how much tonnage stays in the Atlantic versus ballasting east", affects: "Feeds USD TCE screens for African Suezmaxes heading east" },
+  'Aframax|BLSEA/MED': { what: "Aframaxes carrying Black Sea crude through the Turkish Straits to Mediterranean refineries", drivers: "Russian and Kazakh Black Sea loadings, strait transit delays, and Med refiner demand", affects: "Feeds the core Black Sea Med Worldscale screen for smaller tankers; strait queues can move it sharply" },
+  'Aframax|BLSEA/USG': { what: "Aframaxes taking Black Sea crude across the Atlantic to the US Gulf", drivers: "US refiner demand, transatlantic Aframax supply, and competition from Atlantic cargoes", affects: "Feeds transatlantic Aframax screens and US import cost models" },
+  'Aframax|CBS/USG': { what: "Aframaxes on the Caribbean to US Gulf short haul, the workhorse run moving Caribbean basin crude and products to Gulf refineries", drivers: "Regional export programmes, US Gulf refinery runs, and how many Aframaxes drift between the Caribbean and Europe", affects: "Feeds the benchmark short haul Worldscale screen for the Americas and US Gulf import freight budgets" },
+  'Aframax|CEYHAN/MED': { what: "Aframaxes carrying Azeri BTC crude from Ceyhan to Mediterranean refineries", drivers: "BTC pipeline flows, Med refinery runs, and Med tonnage supply", affects: "Feeds Med crude Worldscale screens and BTC cargo marketing" },
+  'Aframax|CEYHAN/UKC': { what: "Aframaxes moving BTC crude from Ceyhan north to the UK Continent", drivers: "BTC flows, European refiner demand, and tonnage positioning between the Med and Northern Europe", affects: "Feeds Med to Continent screens for Aframax crude runs" },
+  'Aframax|CEYHAN/USG': { what: "Aframaxes hauling Azeri BTC crude across the Atlantic to the US Gulf", drivers: "BTC availability, US refiner demand for Azeri grades, and transatlantic tonnage", affects: "Feeds transatlantic Aframax screens and destination arbitrage for BTC cargoes" },
+  'Aframax|KOZMINO/NORTH CHINA': { what: "Aframaxes loading ESPO blend crude at Kozmino on Russia's Pacific coast for North China", drivers: "ESPO pipeline and rail feed to Kozmino, Chinese independent refiner demand, and Pacific side tonnage", affects: "The USD assessment feeds Russian crude freight screens and the ESPO premium chain" },
+  'Aframax|MINA AL AHMADI/SINGAPORE': { what: "Aframaxes on the assessed Middle East Gulf to Singapore run, moving Kuwaiti crude into Asia's largest refining hub", drivers: "Kuwaiti export programmes, Singapore refining activity, and Gulf tonnage availability", affects: "Feeds Gulf to Asia USD screens used in voyage estimates around the region" },
+  'Aframax|PRIMORSK/MED': { what: "Aframaxes carrying Russian Baltic crude from Primorsk through the Danish straits to the Mediterranean", drivers: "Russian Baltic loadings, Danish strait transits, and Mediterranean demand for Urals", affects: "Feeds the Baltic outbound Worldscale screen that tracks where Russian barrels flow" },
+  'Aframax|PRIMORSK/UKC': { what: "Aframaxes running Primorsk Baltic crude to Northwest European refineries", drivers: "Baltic loadings, Baltic to UKC tonnage, and North European refiner demand", affects: "Feeds short haul Baltic Worldscale screens and European import costs" },
+  'Aframax|PRIMORSK/USAC': { what: "Aframaxes carrying Primorsk Baltic crude across the Atlantic to the US Atlantic coast", drivers: "Russian export patterns, US East Coast refiner demand, and transatlantic Aframax supply", affects: "Feeds transatlantic Aframax screens and tracks the Atlantic reach of Baltic barrels" },
+  'Aframax|SERIA/GEELONG': { what: "Aframaxes running crude and condensate from Seria in Brunei to Geelong in southern Australia, a key intra Asia Pacific crude run", drivers: "Brunei output, Australian refinery demand, and Asia Pacific tonnage availability", affects: "Feeds the USD benchmark for intra Asia Pacific crude runs used in Australian import freight budgets" },
+  'Aframax|UKC/WCI': { what: "Aframaxes taking UK Continent area crude to India's west coast", drivers: "North Sea grades offered east, Indian refiner demand, and the ballast balance of Europe to Asia tonnage", affects: "Feeds USD TCE screens for Europe to India crude runs" },
+  'Aframax|USG/UKCM': { what: "Aframaxes moving US Gulf crude and dirty products to the UK Continent", drivers: "US export programmes, European demand for US grades, and transatlantic Aframax supply", affects: "Feeds the core transatlantic Worldscale screen for Aframax export economics" },
+  'Aframax|WAF/UKCM': { what: "Aframaxes carrying West African crude to the UK Continent", drivers: "Nigerian and Angolan programmes, European sweet crude demand, and Atlantic tonnage", affects: "Feeds Atlantic Aframax screens and the Europe versus Asia arbitrage for African barrels" },
+  'Aframax|WAF/USG': { what: "Aframaxes hauling West African crude across the Atlantic to the US Gulf", drivers: "US refiners' sweet crude appetite, West African export pace, and the Caribbean and Atlantic tonnage balance", affects: "Feeds the transatlantic Aframax screen underpinning US import freight budgets" },
+  'Aframax|WCN/MED': { what: "Aframaxes moving crude from the west coast of Norway to Mediterranean refineries", drivers: "Norwegian loading programmes, Med refiner demand, and Northern European tonnage supply", affects: "Feeds North Sea to Med Worldscale screens for short long haul crude runs" },
+  'Aframax|WCN/UKC': { what: "Aframaxes on the North Sea short haul, west coast Norway crude to UK Continent refineries", drivers: "Norwegian field loadings, UKC refinery runs, and intra North Sea tonnage", affects: "Feeds intra North Sea Worldscale screens" },
+  'Aframax|WCN/USG': { what: "Aframaxes carrying west coast Norway crude across the Atlantic to the US Gulf", drivers: "US refiner demand for North Sea grades, and transatlantic Aframax availability", affects: "Feeds transatlantic Aframax screens and North Sea destination arbitrage" },
+  'Aframax|FEAST/THAILAND': { what: "Aframaxes running stems from the Far East to Thailand, an intra Asia cargo marker", drivers: "Thai demand for regional crude and products, Asian trade flows, and intra Asia tonnage", affects: "Feeds the intra Asia USD screen used in regional voyage estimates" },
+  'Aframax|DEMURRAGE BALTIC': { what: "Assessed daily demurrage compensation for Aframax delays in the Baltic loading region", drivers: "Baltic port congestion, ice seasons, and cargo stem delays", affects: "Feeds owner claim planning and charterer exposure on Baltic crude stems" },
+  'Aframax|DEMURRAGE BSEA': { what: "Assessed demurrage for Aframax delays in the Black Sea", drivers: "Loading port congestion at CPC and Novorossiysk, plus queue spillover from the Turkish Straits", affects: "Feeds Black Sea voyage risk models; strait queues show up here first" },
+  'Aframax|DEMURRAGE CBS/USG': { what: "Assessed demurrage for Aframax delays on the Caribbean and US Gulf trades", drivers: "US Gulf port congestion, berth queues, and late cargo stems", affects: "Feeds US import voyage cost models and demurrage claims exposure" },
+  'Aframax|DEMURRAGE EAST': { what: "Assessed demurrage for Aframax delays east of Suez", drivers: "Asian port congestion, weather, and cargo timing slips", affects: "Feeds intra Asia voyage risk and charterer demurrage budgets" },
+  'Aframax|DEMURRAGE MED': { what: "Assessed demurrage for Aframax delays in the Mediterranean", drivers: "Med terminal congestion, load port delays, and refinery scheduling", affects: "Feeds Med voyage models and owner claim planning" },
+  'Aframax|DEMURRAGE NSEA': { what: "Assessed demurrage for Aframax delays in the North Sea area", drivers: "North Sea weather windows, terminal availability, and cargo stem delays", affects: "Feeds North Sea voyage risk; winter weather shows up directly here" },
+  'Dirty|Caribs/USG': { what: "Worldscale assessment for smaller dirty tankers moving Caribbean crude and fuel oil to the US Gulf", drivers: "Regional export programmes, US Gulf refinery demand, and short haul tonnage supply", affects: "Feeds dirty Worldscale screens for the Americas and refiner freight budgets" },
+  'Dirty|MEG/Japan': { what: "Dirty tanker assessment on the Middle East Gulf to Japan run, Japan's core seaborne crude supply lane", drivers: "Gulf export programmes, Japanese refinery runs, and big tanker availability in the Gulf", affects: "Feeds Gulf to Japan freight screens behind Japanese import costs and tanker earnings models" },
+  'Dirty|MEG/Singapore': { what: "Dirty assessment on the Middle East Gulf to Singapore run into Asia's largest refining and storage hub", drivers: "Gulf crude exports and Singapore hub throughput demand", affects: "Feeds Gulf to Asia dirty screens used across Asian refiner freight budgets" },
+  'Dirty|MEG/WEST': { what: "Dirty assessment for Middle East Gulf crude headed to destinations west of Suez", drivers: "The crude arbitrage between east and west: whether Gulf barrels outbid Atlantic grades in Europe and the Americas, plus Suez transit economics", affects: "Feeds the interbasin comparison screens that steer tonnage between east and west of Suez" },
+  'Dirty|N. Afr/Euromed': { what: "Dirty assessment from North Africa to the Euro Med refining belt", drivers: "North African export stability, Med refinery runs, and short haul tonnage", affects: "Feeds Med dirty screens and European import costs" },
+  'Dirty|Sidi Kerir/W Med': { what: "Dirty assessment from Sidi Kerir, Egypt's Mediterranean terminal, to the western Mediterranean", drivers: "Gulf barrels stored and re-exported through Sidi Kerir, W Med refinery demand, and strait transit conditions", affects: "Feeds the Med dirty benchmark that reacts fastest to Suez transit disruptions" },
+  'Dirty|UK/Cont': { what: "Dirty assessment for the UK to Continent short sea run, North Sea crude and fuel oil across the Channel", drivers: "North Sea loadings, Channel refinery demand, and short haul tonnage", affects: "Feeds intra North Europe dirty screens" },
+  'Dirty|WAF/FEAST': { what: "Dirty assessment from West Africa to the Far East, African crude on the long haul to Asian refineries", drivers: "Nigerian and Angolan programmes, Asian refiner demand, and the ballast balance between Africa and Asia", affects: "Feeds Africa to Asia dirty screens and long haul dirty tanker earnings" },
+  'Dirty|WAF/USAC': { what: "Dirty assessment from West Africa to the US Atlantic coast", drivers: "US East Coast refiner demand for African grades, and Atlantic tonnage supply", affects: "Feeds Atlantic dirty screens and US import freight budgets" },
+  '1 Year T/C|VLCC': { what: "The assessed one year timecharter rate for a VLCC, what owners earn per day letting a ship out for a year", drivers: "Expected spot earnings over the year, orderbook deliveries, and owners choosing period cover versus staying on spot", affects: "Feeds period coverage decisions, asset values, and tanker equity earnings guidance" },
+  '1 Year T/C|Suezmax': { what: "The assessed one year timecharter rate for a Suezmax, the yearly earnings marker for midsize crude tankers", drivers: "Expected spot earnings over the year, Suezmax orderbook deliveries, and period appetite on both sides", affects: "Feeds period coverage decisions and midsize tanker asset valuations" },
+  '1 Year T/C|Aframax': { what: "The assessed one year timecharter rate for an Aframax, the yearly earnings marker for the smaller crude classes", drivers: "Regional spot earnings expectations, newbuilding deliveries, and owners' period versus spot choices", affects: "Feeds period coverage decisions and regional tanker asset valuations" },
+  'Fuel Oil|CBS-USG/SPORE': { what: "The assessed price gap between fuel oil at the Caribbean and US Gulf and fuel oil in Singapore, in USD per tonne", drivers: "Regional fuel oil balances, Singapore hub demand, and the cost of moving parcels between the two markets", affects: "Feeds fuel oil arbitrage screens and bunker purchasing decisions on both ends" },
+  'Fuel Oil|SKAW/SPORE': { what: "The assessed price gap between fuel oil at Skaw in northern Europe and Singapore, in USD per tonne", drivers: "European and Asian fuel oil balances, east to west arbitrage economics, and parcel freight", affects: "Feeds the east to west fuel oil arbitrage screens bunker desks watch" },
+  'Fuel Oil|USG/UKC': { what: "The assessed price gap between US Gulf and UK Continent fuel oil, in USD per tonne", drivers: "Atlantic fuel oil balances, European refiner output, and short haul parcel economics", affects: "Feeds intra Atlantic fuel oil arbitrage screens" },
+  'WEEKLY VLCC|VLCCs available in MEG next 30 days': { what: "A weekly count of VLCCs expected open in the Gulf over the next 30 days, the supply side of the MEG market", drivers: "Ballast arrivals from Asia and the Atlantic, and how fast ships are fixed out of the Gulf", affects: "Feeds the tonnage supply half of the VLCC rate picture: more open ships, softer rates" },
+  'WEEKLY VLCC|VLCCs fixed in all areas last week': { what: "A weekly count of VLCCs fixed worldwide the previous week, the demand pulse of the fleet", drivers: "Cargo programmes from OPEC and other exporters, and charterer fixing urgency", affects: "Feeds the demand half of the VLCC picture; read against open ship counts to gauge tightness" },
+  'Counters|MEG Fixture Count': { what: "A weekly count of reported Middle East Gulf crude fixtures, how many cargoes found ships", drivers: "OPEC export volumes, tender activity, and charterer fixing pace", affects: "Feeds Gulf activity gauges; a high count with falling availability tightens the market" },
+  'Capesize|Australia / China': { what: "The per tonne freight cost of shipping iron ore from Western Australia to China, the physical benchmark of the Cape trade", drivers: "Chinese steel mill activity and ore restocking, West Australian mine output and cyclone disruption, and Cape tonnage supply in the Pacific", affects: "Feeds iron ore trade economics and, via implied TCE, the earnings headline of the whole Capesize market" },
+  'Capesize|Pacific Round Voyage': { what: "The assessed daily TCE for a Capesize round voyage inside the Pacific, typically Australian or South African cargo to China with the ballast leg back", drivers: "Chinese iron ore demand, coal programmes into North Asia, Pacific tonnage supply, and cyclone disruption", affects: "Feeds Capesize earnings screens for the Pacific and the route economics miners fix against" },
+  'Capesize|Cont / Far East': { what: "The assessed daily TCE for a Capesize fronthaul from Northern Europe to the Far East, a loaded long haul with a long ballast back", drivers: "European export cargo such as coal and minerals, Far East demand, and how many Capesizes stay positioned in the Atlantic", affects: "Feeds fronthaul screens that tell owners whether to keep tonnage in the Atlantic or reposition east" },
+  'Panamax|Cont / Far East': { what: "The assessed daily TCE for a Panamax fronthaul from Northern Europe to the Far East, typically grain, coal or minerals", drivers: "European export programmes, Far East demand, and Atlantic Panamax tonnage supply", affects: "Feeds fronthaul earnings screens and the Atlantic versus Pacific positioning call for Panamax owners" },
+  'Panamax|Far East / Cont': { what: "The assessed daily TCE for a Panamax voyage loading in the Far East for discharge in Northern Europe", drivers: "Pacific export cargo going beyond Asia, European import demand, and the backhaul discount owners accept to reposition", affects: "Feeds backhaul screens: cheap east to west legs that reset the Atlantic tonnage balance" },
+  'Panamax|Far East Round Voyage': { what: "The assessed daily TCE for a Panamax round voyage inside the Pacific, the core Asia employment loop", drivers: "North Pacific grain, Australian and Indonesian coal, Pacific tonnage counts, and weather", affects: "Feeds the Pacific Panamax earnings headline and index linked period negotiations" },
+  'Panamax|Transatlantic Round Voyage': { what: "The assessed daily TCE for a Panamax round voyage in the Atlantic, US Gulf or South American grain and coal with the ballast loop back", drivers: "US Gulf and South Atlantic export pace, European demand, and Atlantic tonnage supply", affects: "Feeds the Atlantic Panamax earnings headline and the Atlantic versus Pacific spread owners watch" },
+  'Supramax|South China / Indonesia RV': { what: "The assessed daily TCE for a Supramax round voyage between Indonesia and South China, mostly coal and minor bulks", drivers: "Indonesian coal export volumes, regional buying, and intra Asia Supramax supply", affects: "Feeds the intra Asia Supramax earnings benchmark for Asian operators" },
+  'Supramax|Transatlantic Round Voyage': { what: "The assessed daily TCE for a Supramax round voyage across the Atlantic, grains, fertilisers and minor bulks between the Americas, Europe and Africa", drivers: "US Gulf and South American export programmes, European and African demand, and Atlantic Supramax supply", affects: "Feeds the Atlantic Supramax earnings benchmark; the published series averages the source's two raw assessments" },
+  'Supramax|US Gulf / China-South Japan': { what: "The assessed daily TCE for a Supramax fronthaul from the US Gulf to China or South Japan, typically grain and minor bulks", drivers: "US Gulf export pace, Asian demand for US bulk cargoes, and how many Supramaxes ballast to the Gulf", affects: "Feeds the US Gulf Supramax earnings screen and fronthaul freight budgets for Asian importers" }
+};
+
+var FDESK_KLASS_NOTES = {
+  'VLCC': 'Very Large Crude Carriers of around 300,000 dwt, the biggest crude tankers, hauling the long haul Middle East to Asia trades that set the tanker market tone',
+  'Suezmax': 'Midsize crude tankers of around 155,000 dwt, the largest ships that can transit the Suez Canal fully laden',
+  'Aframax': 'Smaller crude tankers of around 100,000 dwt, the workhorses of short haul and regional trades',
+  'Dirty': 'Dirty tanker benchmarks on regional runs, smaller tankers carrying crude and heavy fuel oil between nearby hubs',
+  '1 Year T/C': 'One year timecharter assessments, what a day of ownership earns on a yearly contract for each class',
+  'Fuel Oil': 'Fuel oil price assessments, the gap between fuel oil at two hubs in USD per tonne, the arbitrage bunker and fuel oil desks watch',
+  'WEEKLY VLCC': 'Weekly counts around the VLCC fleet, how many ships are open in the Gulf and how many were fixed last week',
+  'Counters': 'Fixture count gauges, how many cargoes were actually fixed, a direct read of market activity',
+  'Capesize': 'The largest dry bulk ships, built for iron ore and coal, the Australian to China ore run is their benchmark cargo',
+  'Panamax': 'Midsize dry bulk ships sized for the Panama Canal historically, grain and coal are their core cargoes',
+  'Supramax': 'Handy midsize dry bulk ships lifting grains, minor bulks and coal on regional trades'
+};
+
 function fearnDeltaOf(s) {
   var pts = s.pts || [];
   if (pts.length < 2) return null;
@@ -43053,7 +43175,7 @@ function fearnIsLive(s) {
   return (s.last || '') >= '2026-08-01' || (s.pts && s.pts.length && s.pts[s.pts.length - 1][0] >= FROZEN_CUTOFF_MS);
 }
 function fearnFrozenReason() {
-  return FDESK_TANKER_META.notes || 'frozen — last print predates the current harvest window';
+  return FDESK_TANKER_META.notes || 'frozen: the source stopped publishing this series';
 }
 function fearnSeriesIsAllZero(s) {
   // True only when EVERY published point in the branch is 0: the source never
@@ -43064,8 +43186,8 @@ function fearnSeriesIsAllZero(s) {
   return true;
 }
 function fearnBadgeState(s) {
-  // Badge semantics split: LIVE = real values publishing into the current
-  // harvest window; FROZEN = real values whose last print predates it (the
+  // Badge semantics split: LIVE = real values still publishing today;
+  // FROZEN = real values whose last print predates the live cutoff (the
   // 2023-05 taxonomy-switch twins). All-zero branches are excluded from the
   // tile grid entirely, so they never render a tile or badge at all.
   if (fearnSeriesIsAllZero(s)) return 'zero';
@@ -43090,10 +43212,14 @@ function fearnSeriesTooltip(title, s, d, extraNote) {
   ];
   var h = '<div class="rt-title">' + title + '</div>';
   rows.forEach(function (r) { if (r[1] !== '' && r[1] != null) h += '<div class="rt-row"><span class="rt-label">' + r[0] + '</span><span class="rt-val">' + escapeHtml(String(r[1])) + '</span></div>'; });
+  var kb = (window.FDESK_ROUTE_KB && FDESK_ROUTE_KB[(s.klass || '') + '|' + (s.route || '')]) || null;
+  if (kb) h += '<div class="rt-row"><span class="rt-label">What it is</span><span class="rt-val">' + escapeHtml(kb.what) + '</span></div>';
+  if (kb) h += '<div class="rt-row"><span class="rt-label">What moves it</span><span class="rt-val">' + escapeHtml(kb.drivers) + '</span></div>';
+  if (kb) h += '<div class="rt-row"><span class="rt-label">What it feeds</span><span class="rt-val">' + escapeHtml(kb.affects) + '</span></div>';
   if (s.derivation) h += '<div class="rt-row"><span class="rt-label">Derivation</span><span class="rt-val">' + escapeHtml(String(s.derivation)) + '</span></div>';
   var built = (FDESK_TANKER_META.builtUtc || FDESK_DRY_META.builtUtc || '');
-  if (built) h += '<div class="rt-note">Source: ' + escapeHtml((FDESK_TANKER_META.source || FDESK_DRY_META.source || 'Fearnleys via fearnpulse market-api')) + ' · fetched ' + escapeHtml(built) + '</div>';
-  else h += '<div class="rt-note">Source: Fearnleys via fearnpulse market-api · fetch timestamp not yet loaded</div>';
+  if (built) h += '<div class="rt-note">Fearnleys daily assessments \u00b7 fetched ' + escapeHtml(built) + '</div>';
+  else h += '<div class="rt-note">Fearnleys daily assessments \u00b7 fetch timestamp not yet loaded</div>';
   if (extraNote) h += '<div class="rt-note">' + extraNote + '</div>';
   return h;
 }
@@ -43214,7 +43340,7 @@ function renderFearnTank() {
     var note = document.getElementById('fearnTankNote');
     if (note) {
       var archived = fearnTankArchivedCount();
-      note.textContent = 'Daily points, uninterpolated — gaps stay gaps · ' + series.length + ' series in ' + FDESK.tankKlass + ' · cache to ' + (FDESK_TANKER_META.dateTo || 'n/a');
+      note.textContent = 'Daily points, uninterpolated, gaps stay gaps \u00b7 ' + series.length + ' series in ' + FDESK.tankKlass + ' \u00b7 data to ' + (FDESK_TANKER_META.dateTo || 'n/a');
       if (archived > 0) {
         var archEl = document.getElementById('fearnTankArchived');
         if (!archEl) {
@@ -43222,7 +43348,7 @@ function renderFearnTank() {
           archEl.id = 'fearnTankArchived';
           note.parentNode.appendChild(archEl);
         }
-        archEl.textContent = archived + ' archived route series not shown — the source published no values in these branches; the USD/WS twins of these routes are shown.';
+        archEl.textContent = archived + ' archived route series not shown: the source published no values in these branches; the USD/WS twins of these routes are shown.';
       } else {
         var archEl2 = document.getElementById('fearnTankArchived');
         if (archEl2 && archEl2.parentNode) archEl2.parentNode.removeChild(archEl2);
@@ -43265,7 +43391,7 @@ function drawFearnTankChart() {
           backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
           callbacks: {
             title: function (c) { return c && c.length ? String(c[0].label) : ''; },
-            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? '\u2014' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ' — daily print, no interpolation'; }
+            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? 'n/a' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ', daily print, no interpolation'; }
           }
         }
       },
@@ -43336,8 +43462,8 @@ function renderFearnDryGrid() {
     if (note) {
       var allDry = fearnDrySeries();
       var dryArchived = allDry.length - series.length;
-      note.textContent = 'Baltic dry-route assessments as published on Fearnleys weekly report tiles · ' + series.length + ' series · cache to ' + (FDESK_DRY_META.dateTo || 'n/a') + ' · launch dates differ per series (shown per tile) — no uniform depth implied';
-      if (dryArchived > 0) note.textContent = note.textContent + ' · ' + dryArchived + ' archived route series not shown — the source published no values in these branches; the USD/WS twins of these routes are shown.';
+      note.textContent = 'Daily dry route benchmarks from Fearnleys, launch dates differ per series (shown per tile), never averaged away \u00b7 ' + series.length + ' series \u00b7 data to ' + (FDESK_DRY_META.dateTo || 'n/a');
+      if (dryArchived > 0) note.textContent = note.textContent + ' \u00b7 ' + dryArchived + ' archived route series not shown: the source published no values in these branches; the USD/WS twins of these routes are shown.';
     }
     if (!FDESK.dryRoute || !j.series[FDESK.dryRoute]) FDESK.dryRoute = series[0].code;
     fearnFillSelect('fearnDryChartSelect', series, FDESK.dryRoute);
@@ -43386,7 +43512,7 @@ function drawFearnDryChart() {
           backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
           callbacks: {
             title: function (c) { return c && c.length ? String(c[0].label) : ''; },
-            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? '\u2014' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ' — daily print, no interpolation'; }
+            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? 'n/a' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ', daily print, no interpolation'; }
           }
         }
       },
