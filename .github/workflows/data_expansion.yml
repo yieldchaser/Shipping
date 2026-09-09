@@ -101,6 +101,21 @@ jobs:
           if [ -f scripts/compute_port_stress_matrix.py ]; then python scripts/compute_port_stress_matrix.py; fi
           if [ -f scripts/congestion/build_port_stress_cache.py ]; then python scripts/congestion/build_port_stress_cache.py; fi
 
+      - name: PortWatch expanded universe (2065 ports) refresh
+        # scripts/scrapers/fetch_portwatch_ports_expanded.py --refresh:
+        # masters (2065-port universe + 28 chokepoints) and the 132-event
+        # disruptions feed are refreshed verbatim; the daily expanded table is
+        # updated INCREMENTALLY (ArcGIS DATE literal: date > max stored in the
+        # hot file). ObjectId-keyset pagination (no deep offsets - the layer
+        # rejects them) + rate-limited pages keep the public service healthy.
+        # Backfills of missing history (per-year shards) are manual runs of
+        # --backfill (resumable: existing year outputs are skipped).
+        continue-on-error: true
+        timeout-minutes: 15
+        run: |
+          if [ -f scripts/scrapers/fetch_portwatch_ports_expanded.py ]; then python scripts/scrapers/fetch_portwatch_ports_expanded.py --refresh; fi
+          if [ -f scripts/geospatial/build_voyage_history.py ]; then python scripts/geospatial/build_voyage_history.py; fi
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"

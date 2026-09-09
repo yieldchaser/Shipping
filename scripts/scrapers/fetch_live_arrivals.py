@@ -10,7 +10,6 @@ Source: IMF PortWatch ArcGIS REST API Gateway
 
 Outputs:
   data/congestion/port_calls_daily.csv - Comprehensive single-source daily observations (2019-2026)
-  data/congestion/port_calls_daily_v2.csv - Mirror synchronized file
 """
 
 import argparse
@@ -529,29 +528,8 @@ def upsert_port_calls(fresh_df: pd.DataFrame) -> pd.DataFrame:
     logging.info("Wrote %d total rows to %s (dates: %s to %s)",
                  len(combined), master_path, combined["date"].min(), combined["date"].max())
 
-    # Also sync to port_calls_daily_v2.csv with standard format
-    v2_path = DATA_DIR / "port_calls_daily_v2.csv"
-    v2_df = combined[combined["portid"].isin(TARGET_HUBS)].copy()
-    v2_df["hub_code"] = v2_df["portid"]
-    rename_cols = {
-        "portcalls": "daily_port_calls_total",
-        "portcalls_dry_bulk": "daily_port_calls_dry_bulk",
-        "portcalls_tanker": "daily_port_calls_tanker",
-        "portcalls_container": "daily_port_calls_container",
-    }
-    v2_df = v2_df.rename(columns=rename_cols)
-    for c in ("import_dry_bulk", "export_dry_bulk", "import_tanker", "export_tanker"):
-        if c in v2_df.columns:
-            v2_df[c + "_kt"] = (pd.to_numeric(v2_df[c], errors="coerce") / 1000.0).round(2)
-
-    v2_cols = ["date", "portid", "portname", "country", "hub_code",
-               "daily_port_calls_total", "daily_port_calls_dry_bulk",
-               "daily_port_calls_tanker", "daily_port_calls_container",
-               "import_dry_bulk_kt", "export_dry_bulk_kt",
-               "import_tanker_kt", "export_tanker_kt"]
-    v2_cols = [c for c in v2_cols if c in v2_df.columns]
-    v2_df[v2_cols].to_csv(v2_path, index=False)
-    logging.info("Synchronized %d rows to %s", len(v2_df), v2_path)
+    # v2 mirror retired 2026-09-09 (byte-identical duplicate of the canonical
+    # portwatch_port_congestion.csv) - no port_calls_daily_v2.csv is written.
 
     return combined
 

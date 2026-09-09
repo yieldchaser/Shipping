@@ -162,7 +162,7 @@ def main() -> pd.DataFrame:
 
     # Upsert semantics: existing real observations are never downgraded by a
     # partial re-fetch (the FeatureServer occasionally serves short pages).
-    prev_path = DATA_DIR / "port_calls_daily_v2.csv"
+    prev_path = DATA_DIR / "portwatch_port_congestion.csv"
     if prev_path.exists():
         try:
             prev = pd.read_csv(prev_path, dtype={"portid": str})
@@ -211,10 +211,10 @@ def main() -> pd.DataFrame:
     keep = keep[cols].drop_duplicates(subset=["portid", "date"])
 
     # primary output: real measured fields only
-    keep.to_csv(DATA_DIR / "port_calls_daily_v2.csv", index=False)
-    # backward-compatible filename; same REAL data (no waiting-day columns)
     keep.to_csv(DATA_DIR / "portwatch_port_congestion.csv", index=False)
-    logging.info("Wrote %d rows to %s and port_calls_daily_v2.csv", len(keep), "portwatch_port_congestion.csv")
+    # port_calls_daily_v2.csv retired 2026-09-09: was a byte-identical duplicate
+    # of the canonical portwatch_port_congestion.csv (same 43-port slice).
+    logging.info("Wrote %d rows to %s", len(keep), "portwatch_port_congestion.csv")
     return keep
 
 
