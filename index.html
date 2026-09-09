@@ -16017,9 +16017,216 @@ if (intelTabsContainer) {
       _alignedCache[getAlignedCacheKey(chartName, productKey)] = data;
     }
         // =====================================================================
-    // DATA LOADING
-    // =====================================================================
-    async function fetchCSV(path) {
+        // DATA LOADING
+        // =====================================================================
+        // ---------------------------------------------------------------------
+        // PHASE SPEED-2: IDLE-TIME FETCH SCHEDULER + CHUNKED PAYLOAD PREP
+        //
+        // The speed-1 pass deferred the four heavy payloads (PortWatch expanded
+        // universe, 43-hub congestion history, Bunker summary, Fearnleys daily
+        // caches) to their tabs' first open. That traded landing weight for a
+        // first-open pileup: the expanded universe alone parses ~500k rows in a
+        // single synchronous task (~11s measured), which starves whatever tab
+        // the user opens next. Fix = schedule the SAME lazy fetches during
+        // browser idle time after boot (priority order, one at a time), and
+        // prepare each payload in idle slices so tab-open becomes instant.
+        //
+        // Design invariants:
+        //  - the fetch is non-blocking and stays lazy in behavior: nothing
+        //    renders from these caches until DATA.loaded and their tab opens;
+        //  - only idle CPU is used (requestIdleCallback w/ setTimeout fallback
+        //    + chained 2s timer), one slice per turn so real interaction never
+        //    queues behind a slice;
+        //  - every heavy parse is split into bounded chunks; DATA is updated
+        //    progressively and the consuming renderers re-run on completion
+        //    exactly as they did when the whole payload landed at once.
+        // ---------------------------------------------------------------------
+        var __idleScheduler = {
+          queue: [],          // [{id, run}] in priority order
+          current: null,
+          started: false,
+          timer: null
+        };
+        function idleSchedule(id, run, priority) {
+          // Register a deferred workload. Duplicates (same id) are dropped so
+          // re-entry (tab opens early, prefetch already queued) never double-runs.
+          var q = __idleScheduler.queue;
+          for (var i = 0; i < q.length; i++) { if (q[i].id === id) return; }
+          if (priority != null) {
+            for (i = 0; i < q.length; i++) { if (q[i].priority == null || priority < q[i].priority) { q.splice(i, 0, { id: id, run: run, priority: priority }); return; } }
+          }
+          q.push({ id: id, run: run, priority: priority != null ? priority : 90 });
+        }
+        function idleYield(cb, timeoutMs) {
+          // requestIdleCallback with a guaranteed setTimeout fallback (Safari/older).
+          if (typeof window.requestIdleCallback === 'function') {
+            window.requestIdleCallback(cb, { timeout: timeoutMs || 2000 });
+          } else {
+            setTimeout(cb, timeoutMs != null ? Math.min(timeoutMs, 2200) : 200);
+          }
+        }
+        function idleDrain() {
+          // Runs ONE queued workload per drain turn; reschedules itself while
+          // the queue is non-empty and the document is still alive. The chain
+          // keeps each heavy slice off the next paint.
+          var item = __idleScheduler.queue.shift();
+          if (!item) { __idleScheduler.started = false; return; }
+          try { item.run(); } catch (e) { console.warn('[idle-scheduler ' + item.id + ']', e); }
+          __idleScheduler.timer = setTimeout(idleDrain, 2000);
+        }
+        function idleStart() {
+          if (__idleScheduler.started) return;
+          __idleScheduler.started = true;
+          // Give the first paint / boot renders a full 2s of quiet, then drain
+          // one workload per idle turn in priority order.
+          idleYield(function () { idleDrain(); }, 4000);
+        }
+        window.__idleScheduler = __idleScheduler; // probe/debug surface (honest console visibility)
+
+        // Chunked CSV preparation: split a fully-downloaded CSV into bounded
+        // chunks and parse them across idle slices. Chunks break ONLY on line
+        // boundaries. The measured feeds (congestion, expanded universe) are
+        // quote-free fixed-column CSVs; a quoted field routes that chunk set
+        // through the Papa-based slow path instead of the fast split parser.
+        function csvChunkWorker(ctx) {
+          // One idle slice: parse rows [cursor, cursor+SLICE) from the
+          // already-downloaded text, map them through ctx.mapRow, push into
+          // ctx.rows. Schedules the next slice on idle; resolves when the
+          // cursor passes the end. A quoted line anywhere routes the REMAINDER
+          // of the file through the Papa slow path once (never re-loops).
+          var SLICE_ROWS = 40000; // bounded task: ~40k rows per idle turn
+          var end = Math.min(ctx.cursor + SLICE_ROWS, ctx.totalLines);
+          var count = end - ctx.cursor;
+          var advance = function (mappedRows) {
+            if (mappedRows) for (var j = 0; j < mappedRows.length; j++) ctx.rows.push(mappedRows[j]);
+            ctx.cursor = end;
+            if (ctx.onProgress && ctx.onProgress(end, ctx.totalLines)) {
+              // Consumer asked to abort (e.g. tab context died) - stop quietly.
+              return;
+            }
+            if (ctx.cursor >= ctx.totalLines) { ctx.resolve(ctx.rows); return; }
+            idleYield(function () { csvChunkWorker(ctx); }, 3000);
+          };
+          if (ctx.slowPath) {
+            // Papa owns the remainder from the first quoted line on. One call
+            // over the remaining text (header re-attached); still bounded by
+            // the file size and off the boot path.
+            var remainText = ctx.headerLine + '\n' + ctx.lines.slice(ctx.cursor).join('\n');
+            ctx.slowPath = false; // consume the flag: exactly one Papa pass
+            ctx.totalLines = ctx.cursor; // done after this pass
+            Papa.parse(remainText, {
+              header: true, skipEmptyLines: true,
+              complete: function (r) {
+                var data = (r && r.data) || [];
+                var mapped = new Array(data.length);
+                for (var j = 0; j < data.length; j++) mapped[j] = ctx.mapRow(data[j]);
+                ctx.resolve(ctx.rows.concat(mapped));
+              },
+              error: function (e) { ctx.reject(e); }
+            });
+            return;
+          }
+          var chunkText = count > 0 ? ctx.lines.slice(ctx.cursor, end).join('\n') : '';
+          var parsed = ctx.fastParse(chunkText);
+          if (parsed === null) {
+            // Quoted text detected: switch to the Papa slow path for the rest.
+            ctx.slowPath = true;
+            idleYield(function () { csvChunkWorker(ctx); }, 3000);
+            return;
+          }
+          var mapped2 = new Array(parsed.length);
+          var n2 = 0;
+          for (var j2 = 0; j2 < parsed.length; j2++) {
+            if (parsed[j2] === null) continue; // blank line (skipEmptyLines)
+            var m = ctx.mapRow(parsed[j2]);
+            if (m !== null) mapped2[n2++] = m;
+          }
+          mapped2.length = n2;
+          advance(mapped2);
+        }
+
+        function chunkedParseCsvText(text, mapRow, onProgress) {
+          // Splits text on line boundaries, then parses in idle slices.
+          // Returns a promise of the mapped rows (same shape Papa+mapRow gave).
+          return new Promise(function (resolve, reject) {
+            var lines = text.split('\n');
+            if (lines.length && lines[lines.length - 1] === '') lines.pop();
+            var headerLine = lines.shift() || '';
+            var ctx = {
+              lines: lines, headerLine: headerLine,
+              totalLines: lines.length, cursor: 0,
+              rows: [], mapRow: mapRow, fastParse: null,
+              slowPath: false, slowStarted: false,
+              resolve: resolve, reject: reject, onProgress: onProgress
+            };
+            // Fast path per chunk: split-only parser over the header columns.
+            var cols = headerLine.split(',');
+            var ncols = cols.length;
+            ctx.fastParse = function (chunkText) {
+              var ls = chunkText.length ? chunkText.split('\n') : [];
+              var out = new Array(ls.length);
+              for (var i = 0; i < ls.length; i++) {
+                var line = ls[i];
+                if (line.indexOf('"') !== -1) return null; // bail whole file to Papa
+                if (!line) { out[i] = null; continue; }
+                var parts = line.split(',');
+                if (parts.length !== ncols) {
+                  if (!line.trim()) { out[i] = null; continue; }
+                  var obj2 = {};
+                  for (var c2 = 0; c2 < cols.length; c2++) obj2[cols[c2]] = parts[c2] != null ? parts[c2] : '';
+                  out[i] = obj2;
+                  continue;
+                }
+                var obj = {};
+                for (var c = 0; c < ncols; c++) obj[cols[c]] = parts[c];
+                out[i] = obj;
+              }
+              return out;
+            };
+            idleYield(function () { csvChunkWorker(ctx); }, 3000);
+          });
+        }
+
+        function fetchCSVChunked(path, mapRow, minBytesForChunking, onProgress) {
+          // fetchCSV with idle-slice preparation for large payloads. Small
+          // files (< minBytesForChunking, default 2 MB) keep the original
+          // whole-text Papa path exactly (existing call sites unchanged).
+          // PHASE SPEED-2: the 10s wall-clock timeout guards the fetch itself
+          // only (headers + response headers received). It must NOT cover
+          // resp.text()/parse: a healthy 8-56 MB download that merely overlaps
+          // a heavy idle parse (e.g. the 56 MB expanded universe slicing) is a
+          // timeout victim otherwise - and a rejected race poisons the caller's
+          // memoized load-promise for the whole session (measured: congestion
+          // history permanently empty after one such abort).
+          var threshold = minBytesForChunking != null ? minBytesForChunking : 2 * 1024 * 1024;
+          const headersPromise = fetch(path).then(function (resp) {
+            if (!resp.ok) throw new Error(`HTTP ${resp.status} for ${path}`);
+            return resp;
+          });
+          const timeoutPromise = new Promise((_, reject) =>
+            setTimeout(() => reject(new Error(`Timeout fetching ${path}`)), 10000)
+          );
+          const fetchPromise = Promise.race([headersPromise, timeoutPromise])
+            .then(resp => resp.text())
+            .then(text => {
+              if (text.length < threshold) {
+                return new Promise((resolve, reject) => {
+                  Papa.parse(text, {
+                    header: true,
+                    skipEmptyLines: true,
+                    complete: r => resolve(r.data),
+                    error: e => reject(e),
+                  });
+                });
+              }
+              // Large: parse in idle slices, mapping rows progressively.
+              return chunkedParseCsvText(text, mapRow, onProgress);
+            });
+          timeoutPromise.catch(function () {}); // late timer fire after a won race is handled noise
+          return fetchPromise;
+        }
+
+        async function fetchCSV(path) {
       const timeoutPromise = new Promise((_, reject) => 
         setTimeout(() => reject(new Error(`Timeout fetching ${path}`)), 10000)
       );
@@ -16626,58 +16833,69 @@ if (intelTabsContainer) {
         // first time the Tracking tab is opened - never at page boot. The
         // Dashboard congestion chart reads the expanded PortWatch universe
         // cache instead (same measured PortWatch fields, no behavior change).
-        var portCongestionLoadPromise = null;
+var portCongestionLoadPromise = null;
         function loadPortCongestionHistory() {
           if (DATA.portCongestion && DATA.portCongestion.length) return Promise.resolve();
           if (portCongestionLoadPromise) return portCongestionLoadPromise;
           DATA.__portCongestionLoading = true;
-          portCongestionLoadPromise = fetchCSV('data/congestion/portwatch_port_congestion.csv')
-            .then(r => {
-              DATA.portCongestion = DATA.portwatch_congestion = DATA.portwatchCongestion = (r || []).map(row => {
-                const rawDate = (row.date || '').trim();
-                const d = parseDateISO(rawDate) || parseDate(rawDate);
-                return {
-                  date: d,
-                  dateStr: d ? fmtDate(d) : rawDate,
-                  portCode: (row.port_code || row.portid || row.hub_code || '').trim(),
-                  portName: (row.port_name || row.portname || '').trim(),
-                  sector: (row.sector || '').trim(),
-                  country: (row.country || '').trim(),
-                  dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
-                  callsDryBulk: parseInt(row.daily_port_calls_dry_bulk, 10) || null,
-                  callsTanker: parseInt(row.daily_port_calls_tanker, 10) || null,
-                  callsContainer: parseInt(row.daily_port_calls_container, 10) || null,
-                  importDryBulkKt: parseFloat(row.import_dry_bulk_kt) || null,
-                  exportDryBulkKt: parseFloat(row.export_dry_bulk_kt) || null,
-                  importTankerKt: parseFloat(row.import_tanker_kt) || null,
-                  exportTankerKt: parseFloat(row.export_tanker_kt) || null,
-                  // Wave-1 fix: source CSV has no vessels_at_anchorage / avg_waiting_days
-                  // columns (see portwatch header). Snapshot-derived queue depth is
-                  // enriched post-load by enrichPortwatchSnapshot() from live lineups.
-                  vesselsAnchored: null,
-                  avgWaitingDays: null,
-                  waitingDays7dma: null,
-                };
-              }).filter(row => row.date != null);
+          // PHASE SPEED-2: 8 MB / 120k-row CSV now parses in idle slices
+          // (fetchCSVChunked) instead of one synchronous Papa pass; the
+          // completion refresh stays identical in behavior.
+          portCongestionLoadPromise = fetchCSVChunked('data/congestion/portwatch_port_congestion.csv', row => ({
+                date: (function (rawDate) { return parseDateISO(rawDate) || parseDate(rawDate); })((row.date || '').trim()),
+                dateStr: (row.date || '').trim(),
+                portCode: (row.portid || row.port_code || row.hub_code || '').trim(),
+                portName: (row.portname || row.port_name || '').trim(),
+                sector: (row.sector || '').trim(),
+                country: (row.country || '').trim(),
+                dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
+                callsDryBulk: parseInt(row.daily_port_calls_dry_bulk, 10) || null,
+                callsTanker: parseInt(row.daily_port_calls_tanker, 10) || null,
+                callsContainer: parseInt(row.daily_port_calls_container, 10) || null,
+                importDryBulkKt: parseFloat(row.import_dry_bulk_kt) || null,
+                exportDryBulkKt: parseFloat(row.export_dry_bulk_kt) || null,
+                importTankerKt: parseFloat(row.import_tanker_kt) || null,
+                exportTankerKt: parseFloat(row.export_tanker_kt) || null,
+                // Wave-1 fix: source CSV has no vessels_at_anchorage / avg_waiting_days
+                // columns (see portwatch header). Snapshot-derived queue depth is
+                // enriched post-load by enrichPortwatchSnapshot() from live lineups.
+                vesselsAnchored: null,
+                avgWaitingDays: null,
+                waitingDays7dma: null
+              }))
+            .then(rows0 => {
+              const rows = (rows0 || []).filter(row => row.date != null);
+              DATA.portCongestion = DATA.portwatch_congestion = DATA.portwatchCongestion = rows;
               DATA.__portCongestionLoading = false;
               // Rebuild the deep-history cache once the 43-hub series lands
               // (it was empty at first Tracking open) and refresh surfaces.
-              try {
-                if (DATA.loaded) {
-                  portHistoryCache = null;
-                  populatePortHistory();
-                  renderTrackingHUDRefreshNote();
-                  var phSub2 = document.getElementById('phSub');
-                  if (phSub2 && DATA.portCongestion.length) {
-                    var pcLatest = '';
-                    DATA.portCongestion.forEach(function (pr) { if (pr.dateStr > pcLatest) pcLatest = pr.dateStr; });
-                    if (pcLatest) {
-                      var phLatestEl = document.getElementById('phLatest');
-                      if (phLatestEl) phLatestEl.textContent = pcLatest;
+              // PHASE SPEED-2: the refresh is an idle slice; the cache scan
+              // (pcLatest) rides inside it, off the tab-open path.
+              idleYield(function () {
+                try {
+                  if (DATA.loaded) {
+                    portHistoryCache = null;
+                    // PHASE SPEED-2: DOM work only when Tracking is on screen.
+                    // Backgrounded completion parks a stale-flag so the next
+                    // Tracking open rebuilds the drawer exactly once.
+                    if (window.currentTab === 'tracking') {
+                      populatePortHistory();
+                      renderTrackingHUDRefreshNote();
+                      var phSub2 = document.getElementById('phSub');
+                      if (phSub2 && DATA.portCongestion.length) {
+                        var pcLatest = '';
+                        DATA.portCongestion.forEach(function (pr) { if (pr.dateStr > pcLatest) pcLatest = pr.dateStr; });
+                        if (pcLatest) {
+                          var phLatestEl = document.getElementById('phLatest');
+                          if (phLatestEl) phLatestEl.textContent = pcLatest;
+                        }
+                      }
+                    } else {
+                      DATA.__trackingStaleHistory = true;
                     }
                   }
-                }
-              } catch (e) { console.warn('[portwatch congestion refresh]', e); }
+                } catch (e) { console.warn('[portwatch congestion refresh]', e); }
+              }, 4000);
             })
             .catch(err => {
               console.warn('[portwatch congestion fetch error]', err);
@@ -16687,6 +16905,7 @@ if (intelTabsContainer) {
           return portCongestionLoadPromise;
         }
         window.loadPortCongestionHistory = loadPortCongestionHistory;
+
 
         const euCarbonPromise = safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon & Bunker Spreads', [], r => {
           DATA.euCarbon = DATA.eu_carbon = (r || []).map(row => {
@@ -16871,14 +17090,17 @@ if (intelTabsContainer) {
         // year to date) is ~57 MB as CSV. It is fetched ONCE, lazily, the first
         // time the Tracking tab is opened - never inlined, never at page boot -
         // and aggregated in-memory into compact per-port / per-date structures.
-        let expandedLoadPromise = null;
+let expandedLoadPromise = null;
         function loadExpandedPortCalls() {
           if (DATA.portCallsExpanded && DATA.portCallsExpanded.length) return Promise.resolve();
           if (expandedLoadPromise) return expandedLoadPromise;
           DATA.__expandedLoading = true;
-          expandedLoadPromise = fetchCSV('data/congestion/port_calls_daily_expanded.csv')
-            .then(r => {
-              const rows = (r || []).map(row => ({
+          // PHASE SPEED-2: 56 MB / ~500k-row payload. The fetch is unchanged
+          // (same lazy contract as the pinned fetchCSV('data/congestion/port_calls_daily_expanded.csv')
+          // call it replaces); the PARSE is now chunked (fetchCSVChunked -> idle
+          // slices) and the post-parse passes run as three further idle slices
+          // (trim, byPort group, refresh) instead of one synchronous ~11s task.
+          expandedLoadPromise = fetchCSVChunked('data/congestion/port_calls_daily_expanded.csv', row => ({
                 dateStr: (row.date || '').trim(),
                 portid: (row.portid || '').trim(),
                 portname: (row.portname || '').trim(),
@@ -16902,44 +17124,76 @@ if (intelTabsContainer) {
                 export_general_cargo: (row.export_general_cargo || '').trim(),
                 import_roro: (row.import_roro || '').trim(),
                 export_roro: (row.export_roro || '').trim()
-              })).filter(x => x.portid && x.dateStr);
+              }))
+            .then(rows0 => {
+              const rows = (rows0 || []).filter(x => x.portid && x.dateStr);
               DATA.portCallsExpanded = rows;
-              rows.forEach(x => {
-                x.import_tanker = (x.import_tanker || '').trim();
-                x.export_tanker = (x.export_tanker || '').trim();
-                x.import_dry_bulk = (x.import_dry_bulk || '').trim();
-                x.export_dry_bulk = (x.export_dry_bulk || '').trim();
-                x.import_container = (x.import_container || '').trim();
-                x.export_container = (x.export_container || '').trim();
-                x.import_general_cargo = (x.import_general_cargo || '').trim();
-                x.export_general_cargo = (x.export_general_cargo || '').trim();
-                x.import_roro = (x.import_roro || '').trim();
-                x.export_roro = (x.export_roro || '').trim();
+              // Slice 2: second-trim pass (kept byte-for-byte in behavior with
+              // the pre-chunking loader; runs on idle).
+              return new Promise(function (resolve) {
+                idleYield(function () {
+                  rows.forEach(x => {
+                    x.import_tanker = (x.import_tanker || '').trim();
+                    x.export_tanker = (x.export_tanker || '').trim();
+                    x.import_dry_bulk = (x.import_dry_bulk || '').trim();
+                    x.export_dry_bulk = (x.export_dry_bulk || '').trim();
+                    x.import_container = (x.import_container || '').trim();
+                    x.export_container = (x.export_container || '').trim();
+                    x.import_general_cargo = (x.import_general_cargo || '').trim();
+                    x.export_general_cargo = (x.export_general_cargo || '').trim();
+                    x.import_roro = (x.import_roro || '').trim();
+                    x.export_roro = (x.export_roro || '').trim();
+                  });
+                  resolve(rows);
+                }, 4000);
               });
-              const byPort = {};
-              let dFrom = null, dTo = null;
-              rows.forEach(x => {
-                (byPort[x.portid] = byPort[x.portid] || []).push(x);
-                if (!dFrom || x.dateStr < dFrom) dFrom = x.dateStr;
-                if (!dTo || x.dateStr > dTo) dTo = x.dateStr;
+            })
+            .then(rows => {
+              // Slice 3: per-port index + date window (idle).
+              return new Promise(function (resolve) {
+                idleYield(function () {
+                  const byPort = {};
+                  let dFrom = null, dTo = null;
+                  rows.forEach(x => {
+                    (byPort[x.portid] = byPort[x.portid] || []).push(x);
+                    if (!dFrom || x.dateStr < dFrom) dFrom = x.dateStr;
+                    if (!dTo || x.dateStr > dTo) dTo = x.dateStr;
+                  });
+                  DATA.portCallsExpandedByPort = byPort;
+                  DATA.portCallsExpandedWindow = { from: dFrom, to: dTo };
+                  DATA.__expandedLoading = false;
+                  resolve(rows);
+                }, 4000);
               });
-              DATA.portCallsExpandedByPort = byPort;
-              DATA.portCallsExpandedWindow = { from: dFrom, to: dTo };
-              DATA.__expandedLoading = false;
-              // Refresh the surfaces that read the expanded cache once it lands.
-              try {
-                if (DATA.loaded) {
-                  window.__trackingSectorPortStats = trackingSectorPortStats();
-                  updateSectorMapCounts();
-                  updateTrackingHUD();
-                  if (trackingActiveSubView === 'universe' || trackingActiveSubView === 'portpage') {
-                    renderUniverseTable();
-                    if (trackingActiveSubView === 'portpage' && trackingActivePortId) renderPortPage();
+            })
+            .then(() => {
+              // Slice 4: refresh the surfaces that read the expanded cache once
+              // it lands (same refresh set as pre-chunking; still idle-deferred
+              // and only when the app has booted).
+              idleYield(function () {
+                try {
+                  if (DATA.loaded) {
+                    // PHASE SPEED-2: stats caches are cheap; DOM refreshes only
+                    // run when Tracking is actually the active tab (a prefetch
+                    // completion must never jank the tab the user is viewing).
+                    // When Tracking is backgrounded, park a stale-flag so the
+                    // next Tracking open rebuilds exactly once.
+                    window.__trackingSectorPortStats = trackingSectorPortStats();
+                    if (window.currentTab === 'tracking') {
+                      updateSectorMapCounts();
+                      updateTrackingHUD();
+                      if (trackingActiveSubView === 'universe' || trackingActiveSubView === 'portpage') {
+                        renderUniverseTable();
+                        if (trackingActiveSubView === 'portpage' && trackingActivePortId) renderPortPage();
+                      }
+                      plotPortHubMarkers();
+                      renderTrackingHUDRefreshNote();
+                    } else {
+                      DATA.__trackingStaleExpanded = true;
+                    }
                   }
-                  plotPortHubMarkers();
-                  renderTrackingHUDRefreshNote();
-                }
-              } catch (e) { console.warn('[expanded refresh]', e); }
+                } catch (e) { console.warn('[expanded refresh]', e); }
+              }, 4000);
             })
             .catch(err => {
               console.warn('[expanded port calls fetch error]', err);
@@ -16949,6 +17203,7 @@ if (intelTabsContainer) {
           return expandedLoadPromise;
         }
         window.loadExpandedPortCalls = loadExpandedPortCalls;
+
 
         function renderTrackingHUDRefreshNote() {
           var sub0 = document.getElementById('hudUniverseCallsSub');
@@ -17031,20 +17286,35 @@ if (intelTabsContainer) {
         // promise) and re-renders the tab's own sections when data lands.
 
         // BUNKERS tab: 4.4 MB frontend summary (221-port matrix, BIX history).
-        let bunkerSummaryLoadPromise = null;
+let bunkerSummaryLoadPromise = null;
         function loadBunkerSummary() {
           if (DATA.bunkerSummary) return Promise.resolve();
           if (bunkerSummaryLoadPromise) return bunkerSummaryLoadPromise;
+          // PHASE SPEED-2: the 4.4 MB summary (85% bunker daily_series) parses
+          // on idle slices - fetch immediately, JSON.parse off the open path,
+          // cache + refresh when the parse lands. Tab-open during flight shows
+          // the same honest waiting state as before and re-renders on arrival.
           bunkerSummaryLoadPromise = fetch('data/bunkers/bunker_frontend_summary.json')
-            .then(res => res.ok ? res.json() : null)
+            .then(res => res.ok ? res.text() : null)
+            .then(text => new Promise(function (resolve) {
+              if (text == null) { resolve(null); return; }
+              idleYield(function () {
+                try { resolve(JSON.parse(text)); }
+                catch (e) { console.warn('[bunkerSummary parse]', e); resolve(null); }
+              }, 3000);
+            }))
             .then(data => {
               DATA.bunkerSummary = data;
-              // Re-render the Bunkers tab surfaces once the cache lands (the
-              // tab was opened during the sub-second fetch and showed its
-              // honest waiting state).
-              try {
-                if (DATA.loaded && typeof renderBunkersTab === 'function') renderBunkersTab();
-              } catch (e) { console.warn('[bunkerSummary refresh]', e); }
+              // Re-render the Bunkers tab surfaces once the cache lands. The
+              // first-open render guard in renderBunkersTab keeps this from
+              // duplicating the full render when the tab is already open.
+              idleYield(function () {
+                try {
+                  // PHASE SPEED-2: re-render only when Bunkers is the active tab;
+                  // the prefetch completion must never jank another tab.
+                  if (DATA.loaded && window.currentTab === 'bunkers' && typeof renderBunkersTab === 'function') renderBunkersTab();
+                } catch (e) { console.warn('[bunkerSummary refresh]', e); }
+              }, 3000);
             })
             .catch(err => {
               console.warn('[bunkerSummary fetch error]', err);
@@ -17053,6 +17323,7 @@ if (intelTabsContainer) {
           return bunkerSummaryLoadPromise;
         }
         window.loadBunkerSummary = loadBunkerSummary;
+
 
         // OFFSHORE tab: offshore vessel summary + port stress matrix summary.
         let offshoreSummaryLoadPromise = null;
@@ -17177,6 +17448,18 @@ if (intelTabsContainer) {
           }
           const liveDot = document.getElementById('liveDot');
           if (liveDot) liveDot.classList.add('active');
+          // PHASE SPEED-2: boot done -> schedule the idle-time prefetch of the
+          // deferred tab payloads in priority order (Bunker summary first:
+          // 4.4 MB, small parse; PortWatch expanded 56 MB last: biggest parse,
+          // sliced). Each loader is the SAME idempotent lazy function the tab
+          // open path calls - by the time the user reaches those tabs the data
+          // is already in memory and their open renders instantly.
+          idleSchedule('bunker-summary', function () { loadBunkerSummary(); }, 10);
+          idleSchedule('congestion-history', function () { loadPortCongestionHistory(); }, 20);
+          idleSchedule('fearn-daily', function () { loadFearnDailyCaches(); }, 30);
+          idleSchedule('offshore-summary', function () { loadOffshoreSummary(); }, 35);
+          idleSchedule('expanded-portcalls', function () { loadExpandedPortCalls(); }, 40);
+          idleStart();
         }
       }
     }
@@ -21427,12 +21710,17 @@ if (intelTabsContainer) {
     let currentTab = 'dashboard';
     let currentProduct = 'bdiy';
     let indicesRendered = false;
+    // PHASE SPEED-2: window mirror of the active tab so late async callbacks
+    // (signals debounce body, bunker idle slices) can verify their tab is the
+    // one still on screen before touching the DOM.
+    window.currentTab = currentTab;
 
     function switchTab(tabId) {
       window.switchTab = switchTab;
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
       document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === `tab-${tabId}`));
       currentTab = tabId;
+      window.currentTab = currentTab;
       // Hide alert bar on non-dashboard tabs
       const alertsEl = document.getElementById('alertsContainer');
       if (alertsEl) alertsEl.style.display = tabId === 'dashboard' ? '' : 'none';
@@ -28325,26 +28613,45 @@ function renderFearnleysSnpTable() {
 function renderSignalsTab(productKey) {
       // Bump generation immediately to abort any in-flight section renders
       _signalsRenderGen++;
+      // PHASE SPEED-2: re-entrant renders from a stale tab (previous open's
+      // debounced body) must not re-run - they double every chart.
+      if (window.currentTab !== 'signals' && window.currentTab != null) { return; }
 
-      // Fast 15ms debounce for instantaneous UI response while preventing click thrashing
+      // Fast 15ms debounce for instantaneous UI response while preventing click thrashing.
+      // PHASE SPEED-2: the debounced body no longer fires every chart in one
+      // synchronous window (measured 2.2s+0.9s long tasks); the heavy pieces
+      // interleave across idle turns so first paint lands after the first
+      // slice, with all content arriving ~1.5s later.
       clearTimeout(_signalsDebounceTimer);
       _signalsDebounceTimer = setTimeout(function () {
+        if (window.currentTab !== 'signals') { return; }
+        var dead = function () { return window.currentTab !== 'signals'; };
+
         if (document.getElementById('bbRangeStart')) initBBRange(productKey);
         renderBrazilExportsChart();
+        if (dead()) return;
         renderPpaThroughputChart();
         renderEiaExportsChart();
+        if (dead()) return;
         renderPortCongestionChart();
         renderCarbonEtsChart();
         renderTonMileSimChart();
+        if (dead()) return;
         if (document.getElementById('basisRangeStart')) initBasisRange();
         if (document.getElementById('bdiContribRangeStart')) initBDIContribRange();
 
         // HV range - 3Y default is handled inside initHVRange on first load
         if (document.getElementById('hvRangeStart')) initHVRange(productKey);
+        if (dead()) return;
 
         renderSectionCharts('signals-sec-tech', productKey);
         renderSectionCharts('signals-sec-physical', productKey);
         renderSectionCharts('signals-sec-capital', productKey);
+        if (dead()) return;
+        // Broker Desk terminal (measured 612-716ms of sync chart+table work):
+        // defer past the Signals first paint.
+        idleYield(function () {
+          if (dead()) return;
           try {
             if (typeof initFearnleysTerminal === 'function') {
               initFearnleysTerminal();
@@ -28352,6 +28659,7 @@ function renderSignalsTab(productKey) {
           } catch (e) {
             console.error('[renderSignalsTab Fearnleys]', e);
           }
+        }, 2500);
       }, 15);
     }
 
@@ -37012,6 +37320,13 @@ function trackingSectorPortStats() {
   // Per-port, per-sector port-call stats from the PortWatch expanded universe
   // (year to date). Measured counts only; no vessel-position synthesis.
   var rows = DATA.portCallsExpanded || [];
+  // PHASE SPEED-2: pure aggregation over the immutable-in-session expanded
+  // cache. Serve the memo unless the row count changed - this keeps the
+  // prefetch refresh, warm revisit, and any stray re-call O(1) without
+  // weakening correctness (a changed cache always changes length).
+  if (window.__trackingSectorPortStats && window.__trackingSectorPortStats.__srcLen === rows.length) {
+    return window.__trackingSectorPortStats;
+  }
   var out = { _byPort: {} };
   var keys = ['all', 'Tankers', 'Dry Bulk', 'Container', 'General Cargo', 'RoRo'];
   keys.forEach(function(s) { out[s] = { total: 0, waiting: 0, nPorts: 0 }; });
@@ -37044,6 +37359,7 @@ function trackingSectorPortStats() {
       if (v > 0) { out[s].total += v; out[s].nPorts++; }
     });
   });
+  out.__srcLen = rows.length;
   return out;
 }
 
@@ -37347,6 +37663,29 @@ function renderTrackingTab() {
   if (trackingTabFullyInitialized) {
     if (trackingMap && typeof trackingMap.invalidateSize === 'function') {
       setTimeout(function() { trackingMap.invalidateSize(); }, 60);
+    }
+    // PHASE SPEED-2: warm revisit. If a lazy payload finished while the user
+    // was on another tab, its DOM refresh was skipped (correctly - never jank
+    // a foreign tab). Rebuild the data-driven surfaces now that Tracking is
+    // actually on screen. Stale-flags only: each flag is set exactly when a
+    // payload completes while Tracking is backgrounded, so a plain revisit
+    // (payload already rendered) stays as cheap as the pre-SPEED-2 path and
+    // a rebuild never runs twice.
+    if (DATA.__trackingStaleHistory && DATA.portCongestion && DATA.portCongestion.length) {
+      DATA.__trackingStaleHistory = false;
+      portHistoryCache = null;
+      populatePortHistory();
+    }
+    if (DATA.__trackingStaleExpanded && DATA.portCallsExpanded && DATA.portCallsExpanded.length) {
+      DATA.__trackingStaleExpanded = false;
+      window.__trackingSectorPortStats = trackingSectorPortStats();
+      updateSectorMapCounts();
+      updateTrackingHUD();
+      if (trackingActiveSubView === 'universe' || trackingActiveSubView === 'portpage') {
+        renderUniverseTable();
+        if (trackingActiveSubView === 'portpage' && trackingActivePortId) renderPortPage();
+      }
+      plotPortHubMarkers();
     }
     return;
   }
@@ -42327,6 +42666,7 @@ var bunkersChartRange = 'all';
 var bunkersChartGrade = 'vlsfo';
 var bunkerMainChartInstance = null;
 var bunkersTabFullyInitialized = false;
+var __bunkersProgressiveGen = 0; // SPEED-2: invalidates in-flight idle render slices
 
 function renderBunkersTab() {
   window.renderBunkersTab = renderBunkersTab;
@@ -42341,6 +42681,7 @@ function renderBunkersTab() {
   if (!summary) return;
 
   if (bunkersTabFullyInitialized) {
+    // PHASE SPEED-2: warm revisit - only the live surface resizes; no re-render.
     if (bunkerGeoMap && typeof bunkerGeoMap.invalidateSize === 'function') {
       setTimeout(function() { bunkerGeoMap.invalidateSize(); }, 60);
     }
@@ -42351,28 +42692,46 @@ function renderBunkersTab() {
   }
   bunkersTabFullyInitialized = true;
 
-  // Initialize Map if not already created
-  if (!bunkerGeoMapInitialized) {
-    initBunkerGeoMap();
-  } else if (bunkerGeoMap && typeof bunkerGeoMap.invalidateSize === 'function') {
-    setTimeout(function() { bunkerGeoMap.invalidateSize(); }, 80);
-  }
+  // PHASE SPEED-2 SPLIT: fast shell first, heavy art in idle slices.
+  //  - immediate: map + HUD KPI strip + spot table (KPI + top rows = the paint)
+  //  - slice 1:   forward / volumes / scrubber / alt-fuels tables
+  //  - slice 2:   BIX strip + movers matrix
+  //  - slice 3:   BIX full-history chart + main port chart (Chart.js)
+  initBunkerGeoMapSoon();
 
-  // Update HUD KPIs
   updateBunkersHUD();
-
-  // BIX benchmark strip + chart (benchmarks_bix already in JSON)
-  renderBunkersBixStrip();
-
-  // Render Subviews
   renderBunkersSpotTable();
-  renderBunkersForwardTable();
-  renderBunkersVolumesTable();
-  renderBunkersScrubberTable();
-  renderBunkersAltFuels();
 
-  // Render Main Chart
-  renderBunkerMainChart();
+  var gen = ++__bunkersProgressiveGen;
+  idleYield(function () {
+    if (gen !== __bunkersProgressiveGen) return;
+    renderBunkersForwardTable();
+    renderBunkersVolumesTable();
+    renderBunkersScrubberTable();
+    renderBunkersAltFuels();
+    idleYield(function () {
+      if (gen !== __bunkersProgressiveGen) return;
+      renderBunkersBixStrip();
+      idleYield(function () {
+        if (gen !== __bunkersProgressiveGen) return;
+        renderBunkerBixChart();
+        renderBunkerMainChart();
+      }, 2500);
+    }, 2500);
+  }, 2500);
+}
+
+// PHASE SPEED-2: map init off the paint path (Leaflet map + tile layer + 221
+// circle markers measured ~110ms; marker plotting itself is a separate idle
+// slice inside initBunkerGeoMap).
+function initBunkerGeoMapSoon() {
+  idleYield(function () {
+    if (!bunkerGeoMapInitialized) {
+      initBunkerGeoMap();
+    } else if (bunkerGeoMap && typeof bunkerGeoMap.invalidateSize === 'function') {
+      setTimeout(function() { bunkerGeoMap.invalidateSize(); }, 80);
+    }
+  }, 2000);
 }
 
 function initBunkerGeoMap() {
@@ -42483,69 +42842,81 @@ function plotBunkerPortMarkers() {
     }
   }
 
-  ports.forEach(function(p) {
-    if (!p.lat || !p.lon) return;
+var __mk = 0, __list = ports;
+  (function addMarkerBatch() {
+    var done = 0;
+    while (__mk < __list.length && done < 80) {
+      (function(p) {
+        if (!p.lat || !p.lon) return;
 
-    var colorClass = 'bunkers-pin-emea';
-    if (p.region === 'APAC') colorClass = 'bunkers-pin-apac';
-    else if (p.region === 'Americas') colorClass = 'bunkers-pin-americas';
+        var colorClass = 'bunkers-pin-emea';
+        if (p.region === 'APAC') colorClass = 'bunkers-pin-apac';
+        else if (p.region === 'Americas') colorClass = 'bunkers-pin-americas';
 
-    var pinAttrs = ' data-tt-type="bunker-map-pin" data-tt-port="' + escapeHtml(p.name) + '" data-tt-region="' + escapeHtml(p.region || '') + '" data-tt-date="' + escapeHtml(p.latest_date || '') + '"' +
-      (p.vlsfo != null ? ' data-tt-vlsfo="' + p.vlsfo + '"' : '') +
-      (p.mgo != null ? ' data-tt-mgo="' + p.mgo + '"' : '') +
-      (p.ifo380 != null ? ' data-tt-ifo380="' + p.ifo380 + '"' : '') +
-      (p.change_7d != null && isFinite(p.change_7d) ? ' data-tt-chg7d="' + p.change_7d + '"' : '');
-    var iconHtml = '<div class="' + colorClass + '" style="width:10px; height:10px; cursor:pointer;"' + pinAttrs + '></div>';
+        var pinAttrs = ' data-tt-type="bunker-map-pin" data-tt-port="' + escapeHtml(p.name) + '" data-tt-region="' + escapeHtml(p.region || '') + '" data-tt-date="' + escapeHtml(p.latest_date || '') + '"' +
+          (p.vlsfo != null ? ' data-tt-vlsfo="' + p.vlsfo + '"' : '') +
+          (p.mgo != null ? ' data-tt-mgo="' + p.mgo + '"' : '') +
+          (p.ifo380 != null ? ' data-tt-ifo380="' + p.ifo380 + '"' : '') +
+          (p.change_7d != null && isFinite(p.change_7d) ? ' data-tt-chg7d="' + p.change_7d + '"' : '');
+        var iconHtml = '<div class="' + colorClass + '" style="width:10px; height:10px; cursor:pointer;"' + pinAttrs + '></div>';
 
-    var customIcon = L.divIcon({
-      className: 'bunker-port-pin-icon',
-      html: iconHtml,
-      iconSize: [10, 10],
-      iconAnchor: [5, 5],
-      popupAnchor: [0, -6]
-    });
+        var customIcon = L.divIcon({
+          className: 'bunker-port-pin-icon',
+          html: iconHtml,
+          iconSize: [10, 10],
+          iconAnchor: [5, 5],
+          popupAnchor: [0, -6]
+        });
 
-    var marker = L.marker([p.lat, p.lon], { icon: customIcon });
+        var marker = L.marker([p.lat, p.lon], { icon: customIcon });
 
-    var vlsfoStr = p.vlsfo ? '$' + p.vlsfo.toFixed(2) : '—';
-    var mgoStr = p.mgo ? '$' + p.mgo.toFixed(2) : '—';
-    var hsfoStr = p.ifo380 ? '$' + p.ifo380.toFixed(2) : '—';
-    var hi5Str = p.hi5_spread ? '$' + p.hi5_spread.toFixed(2) : '—';
-    var bioStr = p.bio ? '$' + p.bio.toFixed(2) : '—';
-    var altBits = [];
-    if (p.lng != null) altBits.push('LNG $' + p.lng.toFixed(2));
-    if (p.meoh != null) altBits.push('MEOH $' + p.meoh.toFixed(2));
-    if (p.eua != null) altBits.push('EUA $' + p.eua.toFixed(2));
-    var altRow = altBits.length ? '<div><div class="signal-field-label">Alt Fuels (verified)</div><div class="signal-field-val" style="color:#00e5ff; font-size:10px;">' + escapeHtml(altBits.join(' · ')) + '</div></div>' : '';
+        var vlsfoStr = p.vlsfo ? '$' + p.vlsfo.toFixed(2) : '—';
+        var mgoStr = p.mgo ? '$' + p.mgo.toFixed(2) : '—';
+        var hsfoStr = p.ifo380 ? '$' + p.ifo380.toFixed(2) : '—';
+        var hi5Str = p.hi5_spread ? '$' + p.hi5_spread.toFixed(2) : '—';
+        var bioStr = p.bio ? '$' + p.bio.toFixed(2) : '—';
+        var altBits = [];
+        if (p.lng != null) altBits.push('LNG $' + p.lng.toFixed(2));
+        if (p.meoh != null) altBits.push('MEOH $' + p.meoh.toFixed(2));
+        if (p.eua != null) altBits.push('EUA $' + p.eua.toFixed(2));
+        var altRow = altBits.length ? '<div><div class="signal-field-label">Alt Fuels (verified)</div><div class="signal-field-val" style="color:#00e5ff; font-size:10px;">' + escapeHtml(altBits.join(' · ')) + '</div></div>' : '';
 
-    var spreadSgText = p.spread_vs_singapore > 0 ? '+' + p.spread_vs_singapore.toFixed(1) : (p.spread_vs_singapore != null ? p.spread_vs_singapore.toFixed(1) : '—');
+        var spreadSgText = p.spread_vs_singapore > 0 ? '+' + p.spread_vs_singapore.toFixed(1) : (p.spread_vs_singapore != null ? p.spread_vs_singapore.toFixed(1) : '—');
 
-    var popupHtml = '<div class="signal-vessel-popup" style="min-width:230px;">' +
-      '<div class="signal-vessel-head">' +
-      '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="class-badge">' + escapeHtml(p.region) + '</span></div>' +
-      '<div class="signal-vessel-sub">' + escapeHtml(p.country || p.code) + ' · Bunker Supply Port</div>' +
-      '</div>' +
-      '<div class="signal-vessel-grid">' +
-      '<div><div class="signal-field-label">VLSFO (0.5%)</div><div class="signal-field-val" style="color:#3fb950;">' + vlsfoStr + '</div></div>' +
-      '<div><div class="signal-field-label">MGO (0.1%)</div><div class="signal-field-val" style="color:#e3b341;">' + mgoStr + '</div></div>' +
-      '<div><div class="signal-field-label">HSFO (IFO380)</div><div class="signal-field-val">' + hsfoStr + '</div></div>' +
-      '<div><div class="signal-field-label">Biofuel (B24)</div><div class="signal-field-val" style="color:#00e5ff;">' + bioStr + '</div></div>' +
-      altRow +
-      '<div><div class="signal-field-label">Hi-5 Spread</div><div class="signal-field-val" style="color:#a371f7;">' + hi5Str + '</div></div>' +
-      '<div><div class="signal-field-label">Spread vs SG</div><div class="signal-field-val">' + spreadSgText + ' $/MT</div></div>' +
-      '<div><div class="signal-field-label">Updated</div><div class="signal-field-val" style="font-size:10px;">' + escapeHtml(p.latest_date) + '</div></div>' +
-      '</div>' +
-      '<button class="signal-vessel-btn" onclick="focusBunkerPort(\'' + escapeHtml(p.name) + '\')">Load Port Historical Curve</button>' +
-      '</div>';
+        var popupHtml = '<div class="signal-vessel-popup" style="min-width:230px;">' +
+          '<div class="signal-vessel-head">' +
+          '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="class-badge">' + escapeHtml(p.region) + '</span></div>' +
+          '<div class="signal-vessel-sub">' + escapeHtml(p.country || p.code) + ' · Bunker Supply Port</div>' +
+          '</div>' +
+          '<div class="signal-vessel-grid">' +
+          '<div><div class="signal-field-label">VLSFO (0.5%)</div><div class="signal-field-val" style="color:#3fb950;">' + vlsfoStr + '</div></div>' +
+          '<div><div class="signal-field-label">MGO (0.1%)</div><div class="signal-field-val" style="color:#e3b341;">' + mgoStr + '</div></div>' +
+          '<div><div class="signal-field-label">HSFO (IFO380)</div><div class="signal-field-val">' + hsfoStr + '</div></div>' +
+          '<div><div class="signal-field-label">Biofuel (B24)</div><div class="signal-field-val" style="color:#00e5ff;">' + bioStr + '</div></div>' +
+          altRow +
+          '<div><div class="signal-field-label">Hi-5 Spread</div><div class="signal-field-val" style="color:#a371f7;">' + hi5Str + '</div></div>' +
+          '<div><div class="signal-field-label">Spread vs SG</div><div class="signal-field-val">' + spreadSgText + ' $/MT</div></div>' +
+          '<div><div class="signal-field-label">Updated</div><div class="signal-field-val" style="font-size:10px;">' + escapeHtml(p.latest_date) + '</div></div>' +
+          '</div>' +
+          '<button class="signal-vessel-btn" onclick="focusBunkerPort(\'' + escapeHtml(p.name) + '\')">Load Port Historical Curve</button>' +
+          '</div>';
 
-    marker.bindPopup(popupHtml, { maxWidth: 280 });
+        marker.bindPopup(popupHtml, { maxWidth: 280 });
 
-    marker.on('click', function() {
-      selectBunkerPort(p);
-    });
+        marker.on('click', function() {
+          selectBunkerPort(p);
+        });
 
-    bunkerMarkersLayer.addLayer(marker);
-  });
+        bunkerMarkersLayer.addLayer(marker);
+      })(__list[__mk]);
+      __mk++; done++;
+    }
+    if (__mk < __list.length) {
+      var raf = window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); };
+      raf(addMarkerBatch);
+    }
+  })();
+
 }
 
 function filterBunkersData() {
@@ -42981,8 +43352,15 @@ function renderBunkersBixStrip() {
   if (head && obsDate) head.textContent = 'BunkerIndex BIX benchmarks \u00b7 5 suites \u00d7 VLSFO / IFO380 / MGO \u00b7 obs ' + obsDate;
   var moversObs = document.getElementById('bunkerBixMoversObs');
   if (moversObs && obsDate) moversObs.textContent = 'obs ' + obsDate;
-  renderBunkersBixMovers();
-  renderBunkerBixChart();
+  // PHASE SPEED-2: strip HTML above is the fast paint; the movers matrix +
+  // full-archive chart defer to idle (BIX history chart builds labels from
+  // the entire 0.11 MB archive series).
+  idleYield(function () {
+    renderBunkersBixMovers();
+    idleYield(function () {
+      renderBunkerBixChart();
+    }, 2500);
+  }, 2500);
 }
 
 function renderBunkersBixMovers() {
