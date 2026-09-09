@@ -53,7 +53,7 @@ def test_lineup_kpi_strip_gone_and_replaced_by_honest_kpis():
                    "DATA.portCallsExpanded"]:
         assert marker in HTML, marker
     # the KPI code must derive values from the caches, not bake them in
-    assert "Math.round(k.latestCalls).toLocaleString()" in HTML
+    assert "Math.round(k.latestCalls).toLocaleString(" in HTML
     assert re.search(r"avg7\s*=\s*calls7", HTML) or "calls7.reduce" in HTML
 
 

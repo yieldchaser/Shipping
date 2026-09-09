@@ -6949,16 +6949,16 @@
       var formatUnitVal = function(v) {
         if (isWorldscale) {
           var tce = normCls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
-          return 'WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/d)';
+          return 'WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString('en-US') + '/d)';
         }
-        return '$' + Math.round(v).toLocaleString() + ' / day';
+        return '$' + Math.round(v).toLocaleString('en-US') + ' / day';
       };
       var formatUnitTooltip = function(v) {
         if (isWorldscale) {
           var tce = normCls === 'suez' ? Math.round(v * 560) : Math.round(v * 713);
-          return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString() + '/day)';
+          return ' Settle: WS ' + (v != null ? v.toFixed(1) : '0.0') + ' (~$' + tce.toLocaleString('en-US') + '/day)';
         }
-        return ' Settle: $' + Math.round(v).toLocaleString() + ' / day';
+        return ' Settle: $' + Math.round(v).toLocaleString('en-US') + ' / day';
       };
 
       var formatContractDate = function(d) {
@@ -7036,7 +7036,7 @@
                 x: { grid: { color: 'rgba(255,255,255,0.03)' }, ticks: { font: { size: 10 } } },
                 y: {
                   grid: { color: 'rgba(255,255,255,0.03)' },
-                  ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString(); } }
+                  ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString('en-US'); } }
                 }
               }
             }
@@ -7122,7 +7122,7 @@
                   x: { grid: { color: 'rgba(255,255,255,0.03)' }, ticks: { font: { size: 10 } } },
                   y: {
                     grid: { color: 'rgba(255,255,255,0.03)' },
-                    ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString(); } }
+                    ticks: { font: { size: 10 }, callback: function(v) { return isWorldscale ? 'WS ' + Math.round(v) : '$' + Math.round(v).toLocaleString('en-US'); } }
                   }
                 }
               }
@@ -8425,7 +8425,7 @@
       }
       if (kpiFutPnlSub) {
         var modeName = _deconstScenarioMode === 'FROZEN_BOOK' ? 'Frozen Disclosed Book' : 'User-Assumed Forward Book';
-        var rollCostNote = totalRollCosts > 0 ? (' | Roll Costs: $' + Math.round(totalRollCosts).toLocaleString()) : '';
+        var rollCostNote = totalRollCosts > 0 ? (' | Roll Costs: $' + Math.round(totalRollCosts).toLocaleString('en-US')) : '';
         kpiFutPnlSub.textContent = 'Notional: $' + (pred.totalNotional / 1e6).toFixed(2) + 'M (' + modeName + rollCostNote + ')';
       }
 
@@ -8608,7 +8608,7 @@
             }
             var simPrice = curBasePrice * (1 + simShock / 100);
             var simPnl = shareCount * curBasePrice * (simShock / 100);
-            var pnlStr = (simPnl >= 0 ? '+$' : '-$') + Math.abs(Math.round(simPnl)).toLocaleString();
+            var pnlStr = (simPnl >= 0 ? '+$' : '-$') + Math.abs(Math.round(simPnl)).toLocaleString('en-US');
             
             var absSim = Math.abs(simShock);
             var intensity = Math.min(0.42, 0.08 + (absSim / 80));
@@ -8768,13 +8768,13 @@
                 }
                 sliderHtml += '<div style="margin-bottom:8px;">' +
                   '<div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">' +
-                    '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Pricing History</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Lots Held</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Click to toggle historical settlement price trend line.</div>">' +
+                    '<span onclick="toggleDeconstContractHistory(\'' + h.class + '\', \'' + h.Name.replace(/'/g, "\\'") + '\', ' + idx + ')" style="font-weight:600;color:' + nameColor + ';cursor:pointer;display:inline-flex;align-items:center;gap:4px;" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Pricing History</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString('en-US') + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Lots Held</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString('en-US') + ' lots</span></div><div class=\'rt-note\'>Click to toggle historical settlement price trend line.</div>">' +
                       '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="opacity:0.7;vertical-align:middle;"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>' +
                       '<span>' + h.Name + '</span>' +
                     '</span>' +
                     '<span id="deconstMicroVal_' + idx + '" style="font-weight:700;">' + valStr + '</span>' +
                   '</div>' +
-                  '<input type="range" id="deconstMicroSlider_' + idx + '" class="deconst-slider" data-color="' + nameColor + '" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Granular Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString() + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Contract Lots</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString() + ' lots</span></div><div class=\'rt-note\'>Drag to apply custom percentage rate shock directly to this forward contract month.</div>" min="-50" max="100" value="' + curEff + '" step="1" style="' + trackFillStyle + '" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="updateSliderTrackFill(this, this.getAttribute(\'data-color\')); onDeconstMicroShockInput(' + idx + ', this)">' +
+                  '<input type="range" id="deconstMicroSlider_' + idx + '" class="deconst-slider" data-color="' + nameColor + '" data-tooltip="<div class=\'rt-title\'>' + h.Name.replace(/"/g, '&quot;') + ' Granular Rate Shock</div><div class=\'rt-row\'><span class=\'rt-label\'>Current Mark</span><span class=\'rt-val\'>$' + (h.settleRate || 0).toLocaleString('en-US') + '/day</span></div><div class=\'rt-row\'><span class=\'rt-label\'>Contract Lots</span><span class=\'rt-val\'>' + (h.lots || 0).toLocaleString('en-US') + ' lots</span></div><div class=\'rt-note\'>Drag to apply custom percentage rate shock directly to this forward contract month.</div>" min="-50" max="100" value="' + curEff + '" step="1" style="' + trackFillStyle + '" onmousedown="window._isMicroDragging=true" onmouseup="window._isMicroDragging=false" oninput="updateSliderTrackFill(this, this.getAttribute(\'data-color\')); onDeconstMicroShockInput(' + idx + ', this)">' +
                 '</div>';
               });
               sliderContainer.innerHTML = sliderHtml;
@@ -9983,8 +9983,8 @@
           var dollarAbs = Math.abs(c.dollarImpact).toFixed(2);
 
           var isBwet = self.etf === 'bwet';
-          var settleStr = isBwet ? ('WS ' + Number(c.settleRate).toFixed(1)) : ('$' + Number(c.settleRate).toLocaleString());
-          var simStr = isBwet ? ('WS ' + Number(c.simRate).toFixed(1)) : ('$' + Math.round(c.simRate).toLocaleString());
+          var settleStr = isBwet ? ('WS ' + Number(c.settleRate).toFixed(1)) : ('$' + Number(c.settleRate).toLocaleString('en-US'));
+          var simStr = isBwet ? ('WS ' + Number(c.simRate).toFixed(1)) : ('$' + Math.round(c.simRate).toLocaleString('en-US'));
 
           var rowTooltip = "<div class='rt-title'>" + c.name + " (" + (c.isPrompt ? 'Prompt Month' : 'Forward Strip') + ")</div>" +
             "<div class='rt-row'><span class='rt-label'>Active Lots</span><span class='rt-val'>" + c.lots + " Lots ($" + ((c.notional / 1000000).toFixed(2)) + "M Notional)</span></div>" +
@@ -10243,7 +10243,7 @@
           pnlEl.className = 'hud-val ' + (pnl >= 0 ? 'pos' : 'neg');
         }
         if (pnlSub) {
-          pnlSub.textContent = 'Return: ' + (returnPct >= 0 ? '+' : '') + returnPct.toFixed(2) + '% on $' + Math.round(investedCapital).toLocaleString() + ' capital';
+          pnlSub.textContent = 'Return: ' + (returnPct >= 0 ? '+' : '') + returnPct.toFixed(2) + '% on $' + Math.round(investedCapital).toLocaleString('en-US') + ' capital';
         }
         if (sharpeEl) {
           var shVal = (state.risk && state.risk.sharpe !== undefined) ? state.risk.sharpe : 0;
@@ -20919,7 +20919,7 @@ if (intelTabsContainer) {
         const rowTt = _rowDesc[cls] || '';
         tableRows += `<tr data-tooltip="${rowTt}">
       <td class="${rowCls}">${shortName}</td>
-      <td>${lots % 1 === 0 ? fmt(lots) : lots.toLocaleString()}</td>
+      <td>${lots % 1 === 0 ? fmt(lots) : lots.toLocaleString('en-US')}</td>
       <td>${price < 200 ? price.toFixed(3) : fmt(price)}</td>
       <td>$${(mv / 1e6).toFixed(2)}M</td>
       <td>${wt}</td>
@@ -22985,14 +22985,14 @@ if (intelTabsContainer) {
                     label: function (c) {
                       const val = c.parsed.y;
                       if (val == null) return ' ' + c.dataset.label + ': —';
-                      return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString() + '/day';
+                      return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString('en-US') + '/day';
                     }
                   }
                 }
               },
               scales: {
                 x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-                yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: true, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } }
+                yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString('en-US') : '' }, title: { display: true, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } }
               }
             }
           });
@@ -23368,16 +23368,16 @@ if (intelTabsContainer) {
                   if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
                   if (c.dataset.label.includes('Spot')) {
                     const rawVal = Math.round(c.parsed.y / spotMultiplier);
-                    return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day (' + rawVal.toLocaleString() + ' index points)';
+                    return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString('en-US') + '/day (' + rawVal.toLocaleString('en-US') + ' index points)';
                   }
-                  return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
+                  return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString('en-US') + '/day';
                 }
               }
             }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: isMainCall, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString('en-US') : '' }, title: { display: isMainCall, text: 'Earnings / Rates ($/day)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', min: 0.2, max: 2.5, grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: isMainCall, text: 'Ratio', color: '#8b949e', font: { size: 11 } } }
           }
         }
@@ -24040,7 +24040,7 @@ if (intelTabsContainer) {
           const spreadSign = r.basin_spread_1y >= 0 ? '+' : '';
           const spreadColor = r.basin_spread_1y >= 0 ? '#3fb950' : '#f85149';
           const spreadBg = r.basin_spread_1y >= 0 ? 'rgba(63,185,80,0.12)' : 'rgba(248,81,73,0.12)';
-          const basinPill = '<span style="color:' + spreadColor + ';font-weight:700;font-size:11px;background:' + spreadBg + ';padding:2px 6px;border-radius:3px;">' + spreadSign + '$' + Math.round(r.basin_spread_1y).toLocaleString() + '/d (' + (r.basin_spread_pct_1y > 0 ? '+' : '') + r.basin_spread_pct_1y + '%)</span>';
+          const basinPill = '<span style="color:' + spreadColor + ';font-weight:700;font-size:11px;background:' + spreadBg + ';padding:2px 6px;border-radius:3px;">' + spreadSign + '$' + Math.round(r.basin_spread_1y).toLocaleString('en-US') + '/d (' + (r.basin_spread_pct_1y > 0 ? '+' : '') + r.basin_spread_pct_1y + '%)</span>';
           
           let cycleColor = '#3fb950', cycleBg = 'rgba(63,185,80,0.15)', cycleBrd = 'rgba(63,185,80,0.3)';
           if (r.pctile_10y < 40) { cycleColor = '#f85149'; cycleBg = 'rgba(248,81,73,0.15)'; cycleBrd = 'rgba(248,81,73,0.3)'; }
@@ -24077,15 +24077,15 @@ if (intelTabsContainer) {
             '<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(170px, 1fr));gap:10px;margin-bottom:10px;">' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">52-Week High / Low</div>' +
-                '<div style="font-size:12px;font-weight:700;color:#3fb950;margin-top:2px;">$' + (sel.high_52w || 0).toLocaleString() + ' <span style="color:var(--text-muted);font-weight:normal;">/ $' + (sel.low_52w || 0).toLocaleString() + '</span></div>' +
+                '<div style="font-size:12px;font-weight:700;color:#3fb950;margin-top:2px;">$' + (sel.high_52w || 0).toLocaleString('en-US') + ' <span style="color:var(--text-muted);font-weight:normal;">/ $' + (sel.low_52w || 0).toLocaleString('en-US') + '</span></div>' +
               '</div>' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">10Y Historical Median</div>' +
-                '<div style="font-size:12px;font-weight:700;color:#f0f6fc;margin-top:2px;">$' + (sel.median_10y || 0).toLocaleString() + '/d <span style="color:#3fb950;font-size:11px;">(' + sel.pctile_10y + '%ile)</span></div>' +
+                '<div style="font-size:12px;font-weight:700;color:#f0f6fc;margin-top:2px;">$' + (sel.median_10y || 0).toLocaleString('en-US') + '/d <span style="color:#3fb950;font-size:11px;">(' + sel.pctile_10y + '%ile)</span></div>' +
               '</div>' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">1Y Basin Spread (Atl - Pac)</div>' +
-                '<div style="font-size:12px;font-weight:700;color:var(--accent);margin-top:2px;">+$' + Math.round(sel.basin_spread_1y).toLocaleString() + '/d <span style="color:var(--text-muted);font-size:11px;">(+' + sel.basin_spread_pct_1y + '%)</span></div>' +
+                '<div style="font-size:12px;font-weight:700;color:var(--accent);margin-top:2px;">+$' + Math.round(sel.basin_spread_1y).toLocaleString('en-US') + '/d <span style="color:var(--text-muted);font-size:11px;">(+' + sel.basin_spread_pct_1y + '%)</span></div>' +
               '</div>' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Multi-Horizon Momentum</div>' +
@@ -24183,11 +24183,11 @@ if (intelTabsContainer) {
           const isSel = (window.selectedTceRow === idx);
           const bg = isSel ? 'background:rgba(88,166,255,0.12);border-left:3px solid var(--accent);' : '';
           const sparkSvg = renderSparklineSVG(r.sparkline_52w);
-          const ecoPill = '<span style="color:#58a6ff;font-weight:700;font-size:11px;background:rgba(88,166,255,0.12);padding:2px 6px;border-radius:3px;">+$' + (r.eco_premium_day || 0).toLocaleString() + '/d</span>';
+          const ecoPill = '<span style="color:#58a6ff;font-weight:700;font-size:11px;background:rgba(88,166,255,0.12);padding:2px 6px;border-radius:3px;">+$' + (r.eco_premium_day || 0).toLocaleString('en-US') + '/d</span>';
           const slopeSign = r.curve_slope_3y >= 0 ? '+' : '';
           const slopeColor = r.curve_slope_3y >= 0 ? '#3fb950' : '#d29922';
           const slopeBg = r.curve_slope_3y >= 0 ? 'rgba(63,185,80,0.12)' : 'rgba(210,153,34,0.12)';
-          const slopePill = '<span style="color:' + slopeColor + ';font-weight:700;font-size:11px;background:' + slopeBg + ';padding:2px 6px;border-radius:3px;">' + slopeSign + '$' + Math.round(r.curve_slope_3y).toLocaleString() + '/d (' + (r.curve_slope_3y > 2000 ? 'Bwd' : r.curve_slope_3y < -2000 ? 'Ctg' : 'Flat') + ')</span>';
+          const slopePill = '<span style="color:' + slopeColor + ';font-weight:700;font-size:11px;background:' + slopeBg + ';padding:2px 6px;border-radius:3px;">' + slopeSign + '$' + Math.round(r.curve_slope_3y).toLocaleString('en-US') + '/d (' + (r.curve_slope_3y > 2000 ? 'Bwd' : r.curve_slope_3y < -2000 ? 'Ctg' : 'Flat') + ')</span>';
 
           let cycleColor = '#3fb950', cycleBg = 'rgba(63,185,80,0.15)', cycleBrd = 'rgba(63,185,80,0.3)';
           if (r.pctile_10y < 40) { cycleColor = '#f85149'; cycleBg = 'rgba(248,81,73,0.15)'; cycleBrd = 'rgba(248,81,73,0.3)'; }
@@ -24223,19 +24223,19 @@ if (intelTabsContainer) {
             '<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(170px, 1fr));gap:10px;margin-bottom:10px;">' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">52-Week High / Low</div>' +
-                '<div style="font-size:12px;font-weight:700;color:#3fb950;margin-top:2px;">$' + (sel.high_52w || 0).toLocaleString() + ' <span style="color:var(--text-muted);font-weight:normal;">/ $' + (sel.low_52w || 0).toLocaleString() + '</span></div>' +
+                '<div style="font-size:12px;font-weight:700;color:#3fb950;margin-top:2px;">$' + (sel.high_52w || 0).toLocaleString('en-US') + ' <span style="color:var(--text-muted);font-weight:normal;">/ $' + (sel.low_52w || 0).toLocaleString('en-US') + '</span></div>' +
               '</div>' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">10Y Historical Median</div>' +
-                '<div style="font-size:12px;font-weight:700;color:#f0f6fc;margin-top:2px;">$' + (sel.median_10y || 0).toLocaleString() + '/d <span style="color:#3fb950;font-size:11px;">(' + sel.pctile_10y + '%ile)</span></div>' +
+                '<div style="font-size:12px;font-weight:700;color:#f0f6fc;margin-top:2px;">$' + (sel.median_10y || 0).toLocaleString('en-US') + '/d <span style="color:#3fb950;font-size:11px;">(' + sel.pctile_10y + '%ile)</span></div>' +
               '</div>' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Eco Fuel Efficiency Premium</div>' +
-                '<div style="font-size:12px;font-weight:700;color:#58a6ff;margin-top:2px;">+$' + (sel.eco_premium_day || 0).toLocaleString() + '/d <span style="color:var(--text-muted);font-size:11px;">(Scrubber fitted)</span></div>' +
+                '<div style="font-size:12px;font-weight:700;color:#58a6ff;margin-top:2px;">+$' + (sel.eco_premium_day || 0).toLocaleString('en-US') + '/d <span style="color:var(--text-muted);font-size:11px;">(Scrubber fitted)</span></div>' +
               '</div>' +
               '<div style="background:rgba(255,255,255,0.02);border:1px solid var(--border);border-radius:4px;padding:8px 10px;">' +
                 '<div style="font-size:10px;color:var(--text-muted);text-transform:uppercase;">Curve Shape (1Y vs 3Y)</div>' +
-                '<div style="font-size:11px;font-weight:700;color:' + (sel.curve_slope_3y >= 0 ? '#3fb950' : '#d29922') + ';margin-top:2px;">' + (sel.curve_slope_state || 'Flat') + ' <span style="color:var(--text-muted);font-size:10px;">(+$' + Math.round(sel.curve_slope_3y).toLocaleString() + '/d)</span></div>' +
+                '<div style="font-size:11px;font-weight:700;color:' + (sel.curve_slope_3y >= 0 ? '#3fb950' : '#d29922') + ';margin-top:2px;">' + (sel.curve_slope_state || 'Flat') + ' <span style="color:var(--text-muted);font-size:10px;">(+$' + Math.round(sel.curve_slope_3y).toLocaleString('en-US') + '/d)</span></div>' +
               '</div>' +
             '</div>' +
             '<div style="font-size:11px;color:var(--text-muted);line-height:1.5;">' +
@@ -24366,7 +24366,7 @@ if (intelTabsContainer) {
         yieldCard.setAttribute('data-tt-scale', activeScale);
         yieldCard.setAttribute('data-tt-yield', paybackYield.toFixed(1) + '% p.a.');
         yieldCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
-        yieldCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString() + '/day');
+        yieldCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString('en-US') + '/day');
         yieldCard.setAttribute('data-tt-years', paybackYears.toFixed(1) + ' Years');
       }
       if (yearsCard) {
@@ -24375,7 +24375,7 @@ if (intelTabsContainer) {
         yearsCard.setAttribute('data-tt-scale', activeScale);
         yearsCard.setAttribute('data-tt-years', paybackYears.toFixed(1) + ' Years');
         yearsCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
-        yearsCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString() + '/day');
+        yearsCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString('en-US') + '/day');
         yearsCard.setAttribute('data-tt-yield', paybackYield.toFixed(1) + '% p.a.');
       }
       if (nbCard) {
@@ -24574,7 +24574,7 @@ if (intelTabsContainer) {
                   if (c.dataset.yAxisID === 'yRight' || activeScale === '30k' || activeScale === '7k') {
                     return ' ' + c.dataset.label + ': $' + val.toFixed(1) + 'M';
                   }
-                  return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString() + '/day';
+                  return ' ' + c.dataset.label + ': $' + Math.round(val).toLocaleString('en-US') + '/day';
                 }
               }
             }
@@ -24584,7 +24584,7 @@ if (intelTabsContainer) {
             yLeft: {
               position: 'left',
               grid: { color: '#151a22' },
-              ticks: { font: { size: 11 }, callback: v => (activeScale === '30k' || activeScale === '7k') ? '$' + v + 'M' : '$' + Math.round(v).toLocaleString() },
+              ticks: { font: { size: 11 }, callback: v => (activeScale === '30k' || activeScale === '7k') ? '$' + v + 'M' : '$' + Math.round(v).toLocaleString('en-US') },
               title: { display: true, text: (activeScale === '30k' || activeScale === '7k') ? 'Newbuilding Price ($M)' : 'Time Charter Rate ($/day)', color: '#8b949e', font: { size: 11 } }
             },
             yRight: {
@@ -24725,10 +24725,10 @@ if (intelTabsContainer) {
             const p90El = document.getElementById('basinHud90p');
             const badge = document.getElementById('basinRatioBadge');
 
-            if (netEl) { netEl.textContent = (netSpread >= 0 ? '+$' : '-$') + Math.round(Math.abs(netSpread)).toLocaleString() + '/d'; netEl.style.color = netSpread >= 0 ? '#3fb950' : '#f85149'; }
+            if (netEl) { netEl.textContent = (netSpread >= 0 ? '+$' : '-$') + Math.round(Math.abs(netSpread)).toLocaleString('en-US') + '/d'; netEl.style.color = netSpread >= 0 ? '#3fb950' : '#f85149'; }
             if (premEl) { premEl.textContent = (atlPrem >= 0 ? '+' : '') + atlPrem.toFixed(1) + '%'; premEl.style.color = atlPrem >= 0 ? '#3fb950' : '#f85149'; }
-            if (maEl) { maEl.textContent = (ma30 >= 0 ? '+$' : '-$') + Math.round(Math.abs(ma30)).toLocaleString() + '/d'; }
-            if (p90El) { p90El.textContent = '+$' + Math.round(p90).toLocaleString() + '/d'; }
+            if (maEl) { maEl.textContent = (ma30 >= 0 ? '+$' : '-$') + Math.round(Math.abs(ma30)).toLocaleString('en-US') + '/d'; }
+            if (p90El) { p90El.textContent = '+$' + Math.round(p90).toLocaleString('en-US') + '/d'; }
             if (badge) { badge.textContent = 'All Dry Sectors (' + activeTenor.toUpperCase() + ')'; badge.style.background = 'var(--accent)'; badge.style.color = '#fff'; }
           }
 
@@ -24817,10 +24817,10 @@ if (intelTabsContainer) {
       const p90El = document.getElementById('basinHud90p');
       const basinBadge = document.getElementById('basinRatioBadge');
 
-      if (netEl) { netEl.textContent = (netSpread >= 0 ? '+$' : '-$') + Math.round(Math.abs(netSpread)).toLocaleString() + '/d'; netEl.style.color = netSpread >= 0 ? '#3fb950' : '#f85149'; }
+      if (netEl) { netEl.textContent = (netSpread >= 0 ? '+$' : '-$') + Math.round(Math.abs(netSpread)).toLocaleString('en-US') + '/d'; netEl.style.color = netSpread >= 0 ? '#3fb950' : '#f85149'; }
       if (premEl) { premEl.textContent = (atlPrem >= 0 ? '+' : '') + atlPrem.toFixed(1) + '%'; premEl.style.color = atlPrem >= 0 ? '#3fb950' : '#f85149'; }
-      if (maEl) { maEl.textContent = (ma30 >= 0 ? '+$' : '-$') + Math.round(Math.abs(ma30)).toLocaleString() + '/d'; }
-      if (p90El) { p90El.textContent = '+$' + Math.round(p90).toLocaleString() + '/d'; }
+      if (maEl) { maEl.textContent = (ma30 >= 0 ? '+$' : '-$') + Math.round(Math.abs(ma30)).toLocaleString('en-US') + '/d'; }
+      if (p90El) { p90El.textContent = '+$' + Math.round(p90).toLocaleString('en-US') + '/d'; }
 
       if (isMainCall && basinBadge && latest && latest.ratio != null) {
         basinBadge.textContent = cfg.label + ' Atl/Pac (' + activeTenor.toUpperCase() + '): ' + latest.ratio.toFixed(2) + 'x';
@@ -24874,14 +24874,14 @@ if (intelTabsContainer) {
                 label: function (c) {
                   if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
                   if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
-                  return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
+                  return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString('en-US') + '/day';
                 }
               }
             }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString() : '' }, title: { display: isMainCall, text: 'Period Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + Math.round(v).toLocaleString('en-US') : '' }, title: { display: isMainCall, text: 'Period Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', min: 0.4, max: 2.2, grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? v.toFixed(1) + 'x' : '' }, title: { display: isMainCall, text: 'Atl/Pac Ratio', color: '#8b949e', font: { size: 11 } } }
           }
         }
@@ -25109,19 +25109,19 @@ if (intelTabsContainer) {
               callbacks: {
                 label: function (c) {
                   if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
-                  if (c.dataset.label.includes('Spot')) return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
+                  if (c.dataset.label.includes('Spot')) return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString('en-US') + '/day';
                   if (c.dataset.label.includes('CFR') || c.dataset.label.includes('Steel Output')) return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(2) + '/dmt';
                   if (c.dataset.label.includes('Inventory') || c.dataset.label.includes('Stock')) return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(1) + ' Mt';
-                  return ' ' + c.dataset.label + ': ' + c.parsed.y.toLocaleString();
+                  return ' ' + c.dataset.label + ': ' + c.parsed.y.toLocaleString('en-US');
                 }
               }
             }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: isMainCall ? 11 : 9 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => (v != null && v >= 1000) ? '$' + Math.round(v).toLocaleString() : (v === 0 ? '$0' : (v != null ? '$' + v : '')) }, title: { display: isMainCall, text: 'Capesize Spot Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
+            yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => (v != null && v >= 1000) ? '$' + Math.round(v).toLocaleString('en-US') : (v === 0 ? '$0' : (v != null ? '$' + v : '')) }, title: { display: isMainCall, text: 'Capesize Spot Rate ($/day)', color: '#8b949e', font: { size: 11 } } },
             yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 11 : 9 }, callback: v => v != null ? '$' + v : '' }, title: { display: isMainCall, text: 'CFR Iron Ore ($/dmt)', color: '#8b949e', font: { size: 11 } } },
-            yRight2: { display: activeGrade !== 'steel', position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 10 : 8 }, callback: v => v != null ? v.toLocaleString() + ' Mt' : '' }, title: { display: isMainCall && activeGrade !== 'steel', text: 'Port Inventory (Million Tonnes)', color: '#8b949e', font: { size: 11 } } }
+            yRight2: { display: activeGrade !== 'steel', position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: isMainCall ? 10 : 8 }, callback: v => v != null ? v.toLocaleString('en-US') + ' Mt' : '' }, title: { display: isMainCall && activeGrade !== 'steel', text: 'Port Inventory (Million Tonnes)', color: '#8b949e', font: { size: 11 } } }
           }
         }
       });
@@ -25546,7 +25546,7 @@ if (intelTabsContainer) {
       var blpgCard = document.getElementById('lpgHudBlpgCard');
 
       if (spreadEl) {
-        spreadEl.textContent = (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString() + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo');
+        spreadEl.textContent = (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString('en-US') + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo');
         spreadEl.style.color = scaledSpread >= 0 ? '#3fb950' : '#f85149';
       }
       if (premEl) {
@@ -25554,34 +25554,34 @@ if (intelTabsContainer) {
         premEl.style.color = premPct >= 0 ? '#3fb950' : '#f85149';
       }
       if (blpgEl) {
-        blpgEl.textContent = latest.blpg != null ? Math.round(latest.blpg).toLocaleString() + ' pts' : '—';
+        blpgEl.textContent = latest.blpg != null ? Math.round(latest.blpg).toLocaleString('en-US') + ' pts' : '—';
       }
 
       if (spreadCard) {
         spreadCard.setAttribute('data-tooltip', ' ');
         spreadCard.setAttribute('data-tt-type', 'lpg-spot-tc-spread');
         spreadCard.setAttribute('data-tt-seg', activeSegment);
-        spreadCard.setAttribute('data-tt-spread', (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString() + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo'));
-        spreadCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString() + '/day');
-        spreadCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString() + '/day');
+        spreadCard.setAttribute('data-tt-spread', (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString('en-US') + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo'));
+        spreadCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString('en-US') + '/day');
+        spreadCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString('en-US') + '/day');
       }
       if (premCard) {
         premCard.setAttribute('data-tooltip', ' ');
         premCard.setAttribute('data-tt-type', 'lpg-spot-tc-premium');
         premCard.setAttribute('data-tt-seg', activeSegment);
         premCard.setAttribute('data-tt-prem', (premPct >= 0 ? '+' : '') + premPct.toFixed(1) + '%');
-        premCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString() + '/day');
-        premCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString() + '/day');
+        premCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString('en-US') + '/day');
+        premCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString('en-US') + '/day');
       }
       if (blpgCard) {
         blpgCard.setAttribute('data-tooltip', ' ');
         blpgCard.setAttribute('data-tt-type', 'lpg-blpg-index');
-        blpgCard.setAttribute('data-tt-blpg', latest.blpg ? Math.round(latest.blpg).toLocaleString() + ' pts' : '—');
+        blpgCard.setAttribute('data-tt-blpg', latest.blpg ? Math.round(latest.blpg).toLocaleString('en-US') + ' pts' : '—');
       }
 
       if (badge && latest) {
         var badgeRate = scaleVal(rawTc);
-        badge.textContent = activeSegment.toUpperCase() + ' 1Y TC: ' + (isDay ? '$' + Math.round(badgeRate).toLocaleString() + '/d' : '$' + badgeRate.toFixed(2) + 'M/mo');
+        badge.textContent = activeSegment.toUpperCase() + ' 1Y TC: ' + (isDay ? '$' + Math.round(badgeRate).toLocaleString('en-US') + '/d' : '$' + badgeRate.toFixed(2) + 'M/mo');
       }
 
       var lpgTitle = document.getElementById('lpgChartTitle');
@@ -25631,8 +25631,8 @@ if (intelTabsContainer) {
                 label: function (c) {
                   var val = c.parsed.y;
                   if (val == null) return ' ' + c.dataset.label + ': —';
-                  if (c.dataset.yAxisID === 'yRight') return ' ' + c.dataset.label + ': ' + Math.round(val).toLocaleString() + ' pts';
-                  return ' ' + c.dataset.label + ': ' + (isDay ? '$' + Math.round(val).toLocaleString() + '/day' : '$' + val.toFixed(2) + 'M/month');
+                  if (c.dataset.yAxisID === 'yRight') return ' ' + c.dataset.label + ': ' + Math.round(val).toLocaleString('en-US') + ' pts';
+                  return ' ' + c.dataset.label + ': ' + (isDay ? '$' + Math.round(val).toLocaleString('en-US') + '/day' : '$' + val.toFixed(2) + 'M/month');
                 }
               }
             }
@@ -25642,7 +25642,7 @@ if (intelTabsContainer) {
             yLeft: {
               position: 'left',
               grid: { color: '#151a22' },
-              ticks: { font: { size: 11 }, callback: function (v) { return isDay ? '$' + Math.round(v).toLocaleString() : '$' + v.toFixed(1) + 'M'; } },
+              ticks: { font: { size: 11 }, callback: function (v) { return isDay ? '$' + Math.round(v).toLocaleString('en-US') : '$' + v.toFixed(1) + 'M'; } },
               title: { display: true, text: isDay ? 'Daily TCE Equivalent ($/day)' : 'Monthly Hire ($M/month)', color: '#8b949e', font: { size: 11 } }
             },
             yRight: {
@@ -25819,7 +25819,7 @@ if (intelTabsContainer) {
         scrapCard.setAttribute('data-tt-sector', activeSector);
         scrapCard.setAttribute('data-tt-label', cfg.label);
         scrapCard.setAttribute('data-tt-scrap', scrapFloor != null ? '$' + scrapFloor.toFixed(2) + 'M' : '—');
-        scrapCard.setAttribute('data-tt-ldt', cfg.ldt.toLocaleString() + ' LDT');
+        scrapCard.setAttribute('data-tt-ldt', cfg.ldt.toLocaleString('en-US') + ' LDT');
       }
       if (yieldCard) {
         yieldCard.setAttribute('data-tooltip', ' ');
@@ -27000,7 +27000,7 @@ if (intelTabsContainer) {
       const latest = rows[rows.length - 1];
       const badge = document.getElementById('eiaExportsBadge');
       if (badge && latest) {
-        badge.innerHTML = `US Crude: <strong>${(latest.usTotalCrudeKbpd || 0).toLocaleString()} kbpd</strong> | Gulf Coast: <strong>${(latest.padd3GulfCrudeKbpd || 0).toLocaleString()} kbpd</strong>`;
+        badge.innerHTML = `US Crude: <strong>${(latest.usTotalCrudeKbpd || 0).toLocaleString('en-US')} kbpd</strong> | Gulf Coast: <strong>${(latest.padd3GulfCrudeKbpd || 0).toLocaleString('en-US')} kbpd</strong>`;
       }
 
       destroyChart('eiaExportsChart');
@@ -27020,11 +27020,11 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
-            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${(c.parsed.y || 0).toLocaleString()} kbpd` } }
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${(c.parsed.y || 0).toLocaleString('en-US')} kbpd` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
-            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v.toLocaleString() + ' kbpd' } }
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => v.toLocaleString('en-US') + ' kbpd' } }
           }
         }
       });
@@ -27101,8 +27101,8 @@ if (intelTabsContainer) {
         } else {
           const c = callMap[latestDate];
           const kt = importKtMap[latestDate];
-          const cTxt = (c != null) ? `<strong>${Math.round(c).toLocaleString()}</strong>` : '<strong>n/a</strong>';
-          const ktTxt = (kt != null) ? `<strong>${Math.round(kt).toLocaleString()} kt</strong>` : '<strong>n/a</strong>';
+          const cTxt = (c != null) ? `<strong>${Math.round(c).toLocaleString('en-US')}</strong>` : '<strong>n/a</strong>';
+          const ktTxt = (kt != null) ? `<strong>${Math.round(kt).toLocaleString('en-US')} kt</strong>` : '<strong>n/a</strong>';
           badge.innerHTML = `Daily Port Calls: ${cTxt} | Dry-Bulk Imports: ${ktTxt} (${latestDate})`;
         }
         badge.style.color = 'var(--accent)';
@@ -27126,12 +27126,12 @@ if (intelTabsContainer) {
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
-            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString() : '—'}${c.datasetIndex === 2 ? ' kt' : ''}` } }
+            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString('en-US') : '—'}${c.datasetIndex === 2 ? ' kt' : ''}` } }
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 12 } },
             y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v) : v) }, title: { display: true, text: 'Vessel Calls / Day', color: '#8b949e', font: { size: 10 } } },
-            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#d29922', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v).toLocaleString() : v) }, title: { display: true, text: 'Imports (kt)', color: '#d29922', font: { size: 10 } } }
+            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#d29922', font: { size: 10 }, callback: v => (typeof v === 'number' ? Math.round(v).toLocaleString('en-US') : v) }, title: { display: true, text: 'Imports (kt)', color: '#d29922', font: { size: 10 } } }
           }
         }
       });
@@ -27189,9 +27189,9 @@ if (intelTabsContainer) {
       const elNote = document.getElementById('calcEuEtsNote');
       const elHi5 = document.getElementById('calcHi5SpreadLabel');
 
-      if (elDaily) elDaily.innerHTML = `+$${Math.round(dailySavings).toLocaleString()}/day`;
+      if (elDaily) elDaily.innerHTML = `+$${Math.round(dailySavings).toLocaleString('en-US')}/day`;
       if (elAnnual) elAnnual.innerHTML = `+$${annualAdvantage.toFixed(2)}M/year`;
-      if (elDrag) elDrag.innerHTML = `-$${Math.round(etsDrag).toLocaleString()}/day`;
+      if (elDrag) elDrag.innerHTML = `-$${Math.round(etsDrag).toLocaleString('en-US')}/day`;
       if (elHi5) elHi5.textContent = `At current Singapore Hi-5 Spread ($${hi5.toFixed(0)}/MT${hasData ? '' : ', illustrative'})`;
       // Disclose when the figures are from a live observation vs. pre-launch illustrative defaults.
       if (elNote) {
@@ -27438,7 +27438,7 @@ function renderFearnleysTceRibbon() {
   let html = '';
   segments.forEach(seg => {
     const s = stats[seg.key] || {};
-    const curr = s.current ? '$' + Number(s.current).toLocaleString() : '—';
+    const curr = s.current ? '$' + Number(s.current).toLocaleString('en-US') : '—';
     const pct = s.pct_56y != null ? s.pct_56y.toFixed(1) + '%' : '—';
     const badgeClass = seg.dept === 'BULK' ? 'fearn-badge-bulk' : 'fearn-badge-tank';
     const isActive = FEARNLEYS_CONTROLLER.currentTceSeg === seg.key ? ' active' : '';
@@ -27628,7 +27628,7 @@ function renderFearnleysTce56yChart() {
 
     if (stats.ath && stats.ath > 0) {
       datasets.push({
-        label: 'All-Time High ($' + Number(stats.ath).toLocaleString() + '/d)',
+        label: 'All-Time High ($' + Number(stats.ath).toLocaleString('en-US') + '/d)',
         data: Array(series.length).fill(stats.ath),
         borderColor: 'rgba(240, 136, 62, 0.75)',
         borderDash: [5, 4],
@@ -27640,7 +27640,7 @@ function renderFearnleysTce56yChart() {
 
     if (stats.avg_5y && stats.avg_5y > 0) {
       datasets.push({
-        label: '5Y Average ($' + Number(stats.avg_5y).toLocaleString() + '/d)',
+        label: '5Y Average ($' + Number(stats.avg_5y).toLocaleString('en-US') + '/d)',
         data: Array(series.length).fill(stats.avg_5y),
         borderColor: 'rgba(139, 148, 158, 0.75)',
         borderDash: [3, 3],
@@ -27676,7 +27676,7 @@ function renderFearnleysTce56yChart() {
             title: function(items) { return items && items[0] ? 'Date: ' + items[0].label : ''; },
             label: function(ctx) {
               if (ctx.raw == null) return null;
-              return ctx.dataset.label + ': $' + Number(ctx.raw).toLocaleString() + '/day';
+              return ctx.dataset.label + ': $' + Number(ctx.raw).toLocaleString('en-US') + '/day';
             }
           }
         }
@@ -27795,7 +27795,7 @@ function renderFearnleysFixtureAnalytics() {
           <td class="mono" style="color:var(--text-muted);font-weight:600;">#${ch.rank}</td>
           <td style="font-weight:600;color:var(--text-bright);">${ch.charterer}</td>
           <td><span class="fearn-badge ${badgeClass}">${ch.dept}</span></td>
-          <td class="mono" style="text-align:right;">${Number(ch.fixtures).toLocaleString()}</td>
+          <td class="mono" style="text-align:right;">${Number(ch.fixtures).toLocaleString('en-US')}</td>
           <td class="mono" style="text-align:right;color:var(--accent);">${ch.market_share_pct.toFixed(2)}%</td>
           <td style="color:var(--text-muted);font-size:10px;">${ch.primary_route}</td>
         </tr>
@@ -28135,19 +28135,19 @@ function renderFearnleysSnpTable() {
   const snpMeta = summary.snp_deals || {};
   const titleCount = document.getElementById('fearnSnpTitleCount');
   if (titleCount && snpMeta.total_deals != null) {
-    titleCount.textContent = `(${Number(snpMeta.total_deals).toLocaleString()} Verified Transactions)`;
+    titleCount.textContent = `(${Number(snpMeta.total_deals).toLocaleString('en-US')} Verified Transactions)`;
   }
   const totalBadge = document.getElementById('fearnSnpTotalBadge');
   if (totalBadge && snpMeta.total_deals != null) {
     const volB = snpMeta.total_volume_usd_m != null ? (snpMeta.total_volume_usd_m / 1000).toFixed(1) : null;
-    totalBadge.textContent = `${Number(snpMeta.total_deals).toLocaleString()} Deals${volB ? (' ($' + volB + 'B USD)') : ''}`;
+    totalBadge.textContent = `${Number(snpMeta.total_deals).toLocaleString('en-US')} Deals${volB ? (' ($' + volB + 'B USD)') : ''}`;
   }
   const segAll = document.getElementById('btnSnpAll');
   const segBulk = document.getElementById('btnSnpBulk');
   const segTank = document.getElementById('btnSnpTank');
-  if (segAll && snpMeta.total_deals != null) segAll.textContent = 'All Deals (' + Number(snpMeta.total_deals).toLocaleString() + ')';
-  if (segBulk && snpMeta.segments && snpMeta.segments.bulk != null) segBulk.textContent = 'Dry Bulk (' + Number(snpMeta.segments.bulk).toLocaleString() + ')';
-  if (segTank && snpMeta.segments && snpMeta.segments.tank != null) segTank.textContent = 'Tankers (' + Number(snpMeta.segments.tank).toLocaleString() + ')';
+  if (segAll && snpMeta.total_deals != null) segAll.textContent = 'All Deals (' + Number(snpMeta.total_deals).toLocaleString('en-US') + ')';
+  if (segBulk && snpMeta.segments && snpMeta.segments.bulk != null) segBulk.textContent = 'Dry Bulk (' + Number(snpMeta.segments.bulk).toLocaleString('en-US') + ')';
+  if (segTank && snpMeta.segments && snpMeta.segments.tank != null) segTank.textContent = 'Tankers (' + Number(snpMeta.segments.tank).toLocaleString('en-US') + ')';
   const pageInfo = document.getElementById('fearnSnpPageInfo');
   if (pageInfo) pageInfo.textContent = `${FEARNLEYS_CONTROLLER.snpPage} / ${totalPages}`;
   const prevBtn = document.getElementById('btnFearnSnpPrev');
@@ -28168,8 +28168,8 @@ function renderFearnleysSnpTable() {
     const badgeClass = d.segment === 'bulk' ? 'fearn-badge-bulk' : 'fearn-badge-tank';
     const clean = (x) => (x == null || x === '' || String(x).trim().toLowerCase() === 'nan') ? null : x;
     const priceStr = d.price_usd_m ? '$' + d.price_usd_m.toFixed(1) + 'M' : '—';
-    const dwtStr = d.dwt ? Number(d.dwt).toLocaleString() : '—';
-    const usdPerDwtStr = d.usd_per_dwt ? '$' + Number(d.usd_per_dwt).toLocaleString() : '—';
+    const dwtStr = d.dwt ? Number(d.dwt).toLocaleString('en-US') : '—';
+    const usdPerDwtStr = d.usd_per_dwt ? '$' + Number(d.usd_per_dwt).toLocaleString('en-US') : '—';
     const yardStr = clean(d.yard) || '—';
     const buyerStr = clean(d.buyer) || '—';
     const commentStr = clean(d.comment) || '—';
@@ -29267,10 +29267,10 @@ function renderSignalsTab(productKey) {
 
       var kpis = [
         { label: 'Close', val: '$' + latest.close.toFixed(2), cls: '' },
-        { label: 'Volume', val: latest.volume.toLocaleString(), cls: '' },
+        { label: 'Volume', val: latest.volume.toLocaleString('en-US'), cls: '' },
         { label: 'Dollar Vol Traded', val: '$' + (latest.dollarVol / 1000).toFixed(0) + 'K', cls: '' },
         { label: 'Tier', val: latest.tierLabel, cls: 'val-yellow' },
-        { label: 'Possible Shares', val: latest.possShares.toLocaleString(), cls: 'val-green' },
+        { label: 'Possible Shares', val: latest.possShares.toLocaleString('en-US'), cls: 'val-green' },
         { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString(undefined, { maximumFractionDigits: 0 }), cls: 'val-green' },
         {
           label: 'Total Safe Liquidity (1M)',
@@ -29294,8 +29294,8 @@ function renderSignalsTab(productKey) {
         'Volume': 'Institutional Footprint - daily shares traded. Exceptional volume on \'green\' days signals high-conviction participation by Authorized Participants.',
         'Dollar Vol Traded': 'Liquidity Depth ($) - actual cash value moved in the current session. Key for large-ticket sizing and identifying \'wide\' vs \'tight\' trading windows.',
         'Tier': 'Participation Guardrail - sliding scale factor designed to keep trade size within the \'safe\' liquidity profile: <50K (2.0%), <100K (3.5%), <500K (5.0%), ≥500K (6.5%).',
-        'Possible Shares': `Safe Order Size (Shares) - an algorithmic estimate of the maximum daily share count you can trade today (${latest.possShares.toLocaleString()}) without triggering significant market slippage.`,
-        'Safe Liquidity': `Safe Order Size ($) - dollar value equivalent of your participation tier. Defines your maximum 'unobtrusive' entry/exit capacity ($${latest.safeLiq.toLocaleString()}) for today's session.`,
+        'Possible Shares': `Safe Order Size (Shares) - an algorithmic estimate of the maximum daily share count you can trade today (${latest.possShares.toLocaleString('en-US')}) without triggering significant market slippage.`,
+        'Safe Liquidity': `Safe Order Size ($) - dollar value equivalent of your participation tier. Defines your maximum 'unobtrusive' entry/exit capacity ($${latest.safeLiq.toLocaleString('en-US')}) for today's session.`,
         'Total Safe Liquidity (1M)': 'Rolling Capacity - the total dollar liquidity available over 21 trading days. Defines the ceiling for institutional position building (AUM scaling).',
         'Day Change': 'Daily Momentum - percentage change relative to prior close.',
         'As of': 'Data Recency - timestamp of the last captured liquidity snapshot.'
@@ -29335,7 +29335,7 @@ function renderSignalsTab(productKey) {
             tooltip: {
               callbacks: {
                 title: function (c) { return c[0].label; },
-                label: function (c) { return ' Safe Liq: $' + Math.round(c.parsed.y).toLocaleString(); }
+                label: function (c) { return ' Safe Liq: $' + Math.round(c.parsed.y).toLocaleString('en-US'); }
               }
             }
           },
@@ -29381,7 +29381,7 @@ function renderSignalsTab(productKey) {
               callbacks: {
                 title: function (c) { return c[0].label; },
                 label: function (c) {
-                  if (c.dataset.label === 'Volume') return ' Volume: ' + Math.round(c.parsed.y).toLocaleString() + ' (' + (c.dataIndex < rows.length ? rows[c.dataIndex].tierLabel : '') + ')';
+                  if (c.dataset.label === 'Volume') return ' Volume: ' + Math.round(c.parsed.y).toLocaleString('en-US') + ' (' + (c.dataIndex < rows.length ? rows[c.dataIndex].tierLabel : '') + ')';
                   return ' ' + c.dataset.label;
                 }
               }
@@ -29460,7 +29460,7 @@ function renderSignalsTab(productKey) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  if (c.dataset.yAxisID === 'yVol') return ' Avg Volume: ' + Math.round(c.parsed.y).toLocaleString();
+                  if (c.dataset.yAxisID === 'yVol') return ' Avg Volume: ' + Math.round(c.parsed.y).toLocaleString('en-US');
                   return ' Avg $ Value: $' + (c.parsed.y >= 1e6
                     ? (c.parsed.y / 1e6).toFixed(2) + 'M'
                     : (c.parsed.y / 1e3).toFixed(0) + 'K');
@@ -29518,11 +29518,11 @@ function renderSignalsTab(productKey) {
         html += '<tr>';
         html += '<td style="text-align:left;color:var(--text-muted);font-weight:600">' + r.dateStr + '</td>';
         html += '<td>$' + r.close.toFixed(2) + '</td>';
-        html += '<td>' + r.volume.toLocaleString() + '</td>';
-        html += '<td>$' + Math.round(r.dollarVol).toLocaleString() + '</td>';
+        html += '<td>' + r.volume.toLocaleString('en-US') + '</td>';
+        html += '<td>$' + Math.round(r.dollarVol).toLocaleString('en-US') + '</td>';
         html += '<td class="' + tierCls + '">' + (r.tierPct * 100).toFixed(1) + '%</td>';
-        html += '<td>' + r.possShares.toLocaleString() + '</td>';
-        html += '<td style="color:var(--green)">' + '$' + Math.round(r.safeLiq).toLocaleString() + '</td>';
+        html += '<td>' + r.possShares.toLocaleString('en-US') + '</td>';
+        html += '<td style="color:var(--green)">' + '$' + Math.round(r.safeLiq).toLocaleString('en-US') + '</td>';
         html += '<td class="' + chgCls + '">' + chgStr + '</td>';
         html += '</tr>';
       });
@@ -29653,10 +29653,10 @@ function renderSignalsTab(productKey) {
 
       var kpis = [
         { label: 'Close', val: '$' + latest.close.toFixed(2), cls: '' },
-        { label: 'Volume', val: latest.volume.toLocaleString(), cls: '' },
+        { label: 'Volume', val: latest.volume.toLocaleString('en-US'), cls: '' },
         { label: 'Dollar Vol Traded', val: '$' + (latest.dollarVol / 1000).toFixed(0) + 'K', cls: '' },
         { label: 'Tier', val: latest.tierLabel, cls: 'val-yellow' },
-        { label: 'Possible Shares', val: latest.possShares.toLocaleString(), cls: 'val-green' },
+        { label: 'Possible Shares', val: latest.possShares.toLocaleString('en-US'), cls: 'val-green' },
         { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString(undefined, { maximumFractionDigits: 0 }), cls: 'val-green' },
         {
           label: 'Total Safe Liquidity (1M)',
@@ -29680,8 +29680,8 @@ function renderSignalsTab(productKey) {
         'Volume': 'Institutional Footprint - daily shares traded. Exceptional volume on \'green\' days signals high-conviction participation by Authorized Participants.',
         'Dollar Vol Traded': 'Liquidity Depth ($) - actual cash value moved in the current session. Key for large-ticket sizing and identifying \'wide\' vs \'tight\' trading windows.',
         'Tier': 'Participation Guardrail - sliding scale factor designed to keep trade size within the \'safe\' liquidity profile: <50K (2.0%), <100K (3.5%), <500K (5.0%), ≥500K (6.5%).',
-        'Possible Shares': `Safe Order Size (Shares) - an algorithmic estimate of the maximum daily share count you can trade today (${latest.possShares.toLocaleString()}) without triggering significant market slippage.`,
-        'Safe Liquidity': `Safe Order Size ($) - dollar value equivalent of your participation tier. Defines your maximum 'unobtrusive' entry/exit capacity ($${latest.safeLiq.toLocaleString()}) for today's session.`,
+        'Possible Shares': `Safe Order Size (Shares) - an algorithmic estimate of the maximum daily share count you can trade today (${latest.possShares.toLocaleString('en-US')}) without triggering significant market slippage.`,
+        'Safe Liquidity': `Safe Order Size ($) - dollar value equivalent of your participation tier. Defines your maximum 'unobtrusive' entry/exit capacity ($${latest.safeLiq.toLocaleString('en-US')}) for today's session.`,
         'Total Safe Liquidity (1M)': 'Rolling Capacity - the total dollar liquidity available over 21 trading days. Defines the ceiling for institutional position building (AUM scaling).',
         'Day Change': 'Daily Momentum - percentage change relative to prior close.',
         'As of': 'Data Recency - timestamp of the last captured liquidity snapshot.'
@@ -29721,7 +29721,7 @@ function renderSignalsTab(productKey) {
             tooltip: {
               callbacks: {
                 title: function (c) { return c[0].label; },
-                label: function (c) { return ' Safe Liq: $' + Math.round(c.parsed.y).toLocaleString(); }
+                label: function (c) { return ' Safe Liq: $' + Math.round(c.parsed.y).toLocaleString('en-US'); }
               }
             }
           },
@@ -29767,7 +29767,7 @@ function renderSignalsTab(productKey) {
               callbacks: {
                 title: function (c) { return c[0].label; },
                 label: function (c) {
-                  if (c.dataset.label === 'Volume') return ' Volume: ' + Math.round(c.parsed.y).toLocaleString() + ' (' + (c.dataIndex < rows.length ? rows[c.dataIndex].tierLabel : '') + ')';
+                  if (c.dataset.label === 'Volume') return ' Volume: ' + Math.round(c.parsed.y).toLocaleString('en-US') + ' (' + (c.dataIndex < rows.length ? rows[c.dataIndex].tierLabel : '') + ')';
                   return ' ' + c.dataset.label;
                 }
               }
@@ -29841,7 +29841,7 @@ function renderSignalsTab(productKey) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  if (c.dataset.yAxisID === 'yVol') return ' Avg Volume: ' + Math.round(c.parsed.y).toLocaleString();
+                  if (c.dataset.yAxisID === 'yVol') return ' Avg Volume: ' + Math.round(c.parsed.y).toLocaleString('en-US');
                   return ' Avg $ Value: $' + (c.parsed.y >= 1e6
                     ? (c.parsed.y / 1e6).toFixed(2) + 'M'
                     : (c.parsed.y / 1e3).toFixed(0) + 'K');
@@ -29894,11 +29894,11 @@ function renderSignalsTab(productKey) {
         html += '<tr>';
         html += '<td style="text-align:left;color:var(--text-muted);font-weight:600">' + r.dateStr + '</td>';
         html += '<td>$' + r.close.toFixed(2) + '</td>';
-        html += '<td>' + r.volume.toLocaleString() + '</td>';
-        html += '<td>$' + Math.round(r.dollarVol).toLocaleString() + '</td>';
+        html += '<td>' + r.volume.toLocaleString('en-US') + '</td>';
+        html += '<td>$' + Math.round(r.dollarVol).toLocaleString('en-US') + '</td>';
         html += '<td class="' + tierCls + '">' + (r.tierPct * 100).toFixed(1) + '%</td>';
-        html += '<td>' + r.possShares.toLocaleString() + '</td>';
-        html += '<td style="color:var(--green)">' + '$' + Math.round(r.safeLiq).toLocaleString() + '</td>';
+        html += '<td>' + r.possShares.toLocaleString('en-US') + '</td>';
+        html += '<td style="color:var(--green)">' + '$' + Math.round(r.safeLiq).toLocaleString('en-US') + '</td>';
         html += '<td class="' + chgCls + '">' + chgStr + '</td>';
         html += '</tr>';
       });
@@ -32821,7 +32821,7 @@ function renderSignalsTab(productKey) {
             const f = _pillarLinMap(maGapPct, [[-20, -4], [-5, -2], [0, 0], [2.5, 1.5], [10, 3], [30, 5]]);
             const g = _pillarLinMap(roc30, [[-20, -6], [-5, -3], [0, -1.5], [2.5, 0.5], [5, 2], [20, 3.5], [40, 5]]);
             score = Math.round(Math.min(20, Math.max(0, 10 + f + g)) * 10) / 10;
-            detail = 'BDI ' + Math.round(cur).toLocaleString() + ' vs 90D MA ' + Math.round(ma90).toLocaleString() + ' (' + (maGapPct >= 0 ? '+' : '') + maGapPct.toFixed(1) + '%) · 30D ROC: ' + (roc30 >= 0 ? '+' : '') + roc30.toFixed(1) + '%';
+            detail = 'BDI ' + Math.round(cur).toLocaleString('en-US') + ' vs 90D MA ' + Math.round(ma90).toLocaleString('en-US') + ' (' + (maGapPct >= 0 ? '+' : '') + maGapPct.toFixed(1) + '%) · 30D ROC: ' + (roc30 >= 0 ? '+' : '') + roc30.toFixed(1) + '%';
           }
         }
         pillars.push({ label: 'Freight Momentum', score: score, max: 20, detail: detail });
@@ -32845,7 +32845,7 @@ function renderSignalsTab(productKey) {
             const spreadPct = (spread / longTerm) * 100;
             const mapped = _pillarLinMap(spreadPct, [[-15, 2], [-5, 7], [0, 11], [5, 15.5], [15, 20]]);
             score = Math.round(mapped * 10) / 10;
-            detail = 'Cape 4–6M $' + Math.round(nearTerm).toLocaleString() + '/d vs 2Y $' + Math.round(longTerm).toLocaleString() + '/d (' + (spreadPct >= 0 ? '+' : '') + spreadPct.toFixed(1) + '% ' + (spreadPct >= 0 ? 'Backwardation' : 'Contango') + ')';
+            detail = 'Cape 4–6M $' + Math.round(nearTerm).toLocaleString('en-US') + '/d vs 2Y $' + Math.round(longTerm).toLocaleString('en-US') + '/d (' + (spreadPct >= 0 ? '+' : '') + spreadPct.toFixed(1) + '% ' + (spreadPct >= 0 ? 'Backwardation' : 'Contango') + ')';
           }
         }
         pillars.push({ label: 'Term Structure Slope', score: score, max: 20, detail: detail });
@@ -32865,7 +32865,7 @@ function renderSignalsTab(productKey) {
             const basisPct = ((ffVal - spotVal) / spotVal) * 100;
             const mapped = _pillarLinMap(basisPct, [[-10, 20], [-4, 15], [0, 11], [5, 4.5], [15, 0]]);
             score = Math.round(mapped * 10) / 10;
-            detail = 'Futures ' + Math.round(ffVal).toLocaleString() + ' vs Spot BDI ' + Math.round(spotVal).toLocaleString() + ' (' + (basisPct >= 0 ? '+' : '') + basisPct.toFixed(1) + '% ' + (basisPct >= 0 ? 'Contango' : 'Backwardation') + ')';
+            detail = 'Futures ' + Math.round(ffVal).toLocaleString('en-US') + ' vs Spot BDI ' + Math.round(spotVal).toLocaleString('en-US') + ' (' + (basisPct >= 0 ? '+' : '') + basisPct.toFixed(1) + '% ' + (basisPct >= 0 ? 'Contango' : 'Backwardation') + ')';
           }
         }
         pillars.push({ label: 'Futures Basis Arb', score: score, max: 20, detail: detail });
@@ -33446,7 +33446,7 @@ function _paintBrief(el, tsEl, data) {
         sources,
       } = data || {};
 
-      if (tsEl) tsEl.textContent = generated_at ? new Date(generated_at).toLocaleString() : '';
+      if (tsEl) tsEl.textContent = generated_at ? new Date(generated_at).toLocaleString('en-US') : '';
 
       const esc = (value) => String(value ?? '')
         .replace(/&/g, '&amp;')
@@ -34288,7 +34288,7 @@ function _paintBrief(el, tsEl, data) {
       const lines = [`=== LIVE MARKET SNAPSHOT — ${date} ===`];
       for (const [k, m] of Object.entries(snap)) {
         if (!m) continue;
-        lines.push(`  ${k.toUpperCase().replace(/_/g,' ')}: level=${Number(m.value||0).toLocaleString()} | Z=${s(m.z_score_252d)}σ | 5Y-pctl=${pct(m.pctl_5y)} | ROC60=${s(m.roc60)}% | regime=${m.regime||'n/a'}`);
+        lines.push(`  ${k.toUpperCase().replace(/_/g,' ')}: level=${Number(m.value||0).toLocaleString('en-US')} | Z=${s(m.z_score_252d)}σ | 5Y-pctl=${pct(m.pctl_5y)} | ROC60=${s(m.roc60)}% | regime=${m.regime||'n/a'}`);
       }
 
       for (const [sector, d] of Object.entries(vc)) {
@@ -36359,7 +36359,7 @@ function _paintBrief(el, tsEl, data) {
       lines.push("=== INSTITUTIONAL ETF PORTFOLIO KNOWLEDGE BASE (" + fKey.toUpperCase() + ") ===");
       lines.push("Fund Symbol: Amplify " + (fKey === 'bdry' ? 'Dry Bulk Shipping ETF (BDRY)' : 'Tanker Shipping ETF (BWET)'));
       lines.push("As-Of Date: " + (pred.snapshotDate || _disc.asOf || 'UNSPECIFIED (no disclosed snapshot loaded)') + " | Horizon Target Date: " + targetDate);
-      lines.push("Shares Outstanding: " + Number(shares).toLocaleString() + " shares | Total NAV: $" + (totNav/1e6).toFixed(2) + "M | NAV/Sh: $" + navSh.toFixed(2) + " | Mkt: $" + mktPx.toFixed(2));
+      lines.push("Shares Outstanding: " + Number(shares).toLocaleString('en-US') + " shares | Total NAV: $" + (totNav/1e6).toFixed(2) + "M | NAV/Sh: $" + navSh.toFixed(2) + " | Mkt: $" + mktPx.toFixed(2));
 
       // 1. Live Constituent Holdings & Per-Contract Sensitivity
       lines.push("\n--- ACTIVE CONSTITUENT FUTURES POSITIONS & SHARE SENSITIVITIES (" + (pred.holdings ? pred.holdings.length : 0) + " Contracts) ---");
@@ -36367,7 +36367,7 @@ function _paintBrief(el, tsEl, data) {
         pred.holdings.forEach(function(h, idx) {
           var lots = h.Lots || h.disclosedLots || 0;
           var px = h.unitPrice || h.startingPrice || 0;
-          var pxStr = fKey === 'bwet' ? ("WS " + px + " (~$" + Math.round(px * 1000) + "/day TCE)") : ("$" + Number(px).toLocaleString() + "/day");
+          var pxStr = fKey === 'bwet' ? ("WS " + px + " (~$" + Math.round(px * 1000) + "/day TCE)") : ("$" + Number(px).toLocaleString('en-US') + "/day");
           var mult = h.multiplier || 1.0;
           var notional = lots * mult * px;
           var notionalStr = "$" + (notional / 1e6).toFixed(2) + "M";
@@ -36449,7 +36449,7 @@ function _paintBrief(el, tsEl, data) {
               if (contracts.length) {
                 var pts = contracts.slice(0, 14).map(function(c) {
                   var lastPx = (c.history && c.history.length) ? c.history[c.history.length - 1].price : (c.price || 0);
-                  return (c.name || c.contract) + ": $" + Number(lastPx).toLocaleString() + "/day";
+                  return (c.name || c.contract) + ": $" + Number(lastPx).toLocaleString('en-US') + "/day";
                 }).join(' | ');
                 lines.push("  " + cls.toUpperCase() + " FORWARD CURVE: " + pts);
               }
@@ -36457,7 +36457,7 @@ function _paintBrief(el, tsEl, data) {
           }
           if (DATA.tankerForwardCurves && DATA.tankerForwardCurves.length) {
             var fwdPoints = DATA.tankerForwardCurves.slice(0, 12).map(function(fc) {
-              return (fc.contract_label || fc.forward_month) + ": VLCC $" + Number(fc.vlcc_td3c||0).toLocaleString() + "/d (Eco: $" + Number(fc.vlcc_eco_td3c||0).toLocaleString() + "/d) | Suez $" + Number(fc.suezmax_td20||0).toLocaleString() + "/d";
+              return (fc.contract_label || fc.forward_month) + ": VLCC $" + Number(fc.vlcc_td3c||0).toLocaleString('en-US') + "/d (Eco: $" + Number(fc.vlcc_eco_td3c||0).toLocaleString('en-US') + "/d) | Suez $" + Number(fc.suezmax_td20||0).toLocaleString('en-US') + "/d";
             }).join(' | ');
             lines.push("  TANKER 22-MONTH FORWARD CURVE: " + fwdPoints);
           }
@@ -36936,7 +36936,7 @@ function setTrackingMapSector(sector) {
   plotPortHubMarkers();
   var stats = window.__trackingSectorPortStats || {};
   var hud = document.getElementById('mapHudDetail');
-  if (hud && stats[sector]) hud.textContent = 'Sector highlight: ' + (sector === 'all' ? 'All Classes' : sector) + ' \u00b7 ' + stats[sector].total.toLocaleString() + ' port calls YTD across ' + stats[sector].nPorts + ' ports (PortWatch)';
+  if (hud && stats[sector]) hud.textContent = 'Sector highlight: ' + (sector === 'all' ? 'All Classes' : sector) + ' \u00b7 ' + stats[sector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[sector].nPorts + ' ports (PortWatch)';
   if (typeof updateSectorMapCounts === 'function') updateSectorMapCounts();
   if (typeof renderUniverseTable === 'function') renderUniverseTable();
 }
@@ -37082,7 +37082,7 @@ function renderPortHistory() {
   if (strip) {
     var chips = '';
     if (badge) {
-      chips += '<div class="ph-kpi-chip"><div class="k">Latest (' + win.d1 + ')</div><div class="v">' + badge.val.toLocaleString() + '</div><div class="s" style="color:var(--text-muted);">calls/day</div></div>';
+      chips += '<div class="ph-kpi-chip"><div class="k">Latest (' + win.d1 + ')</div><div class="v">' + badge.val.toLocaleString('en-US') + '</div><div class="s" style="color:var(--text-muted);">calls/day</div></div>';
       chips += '<div class="ph-kpi-chip"><div class="k">5Y Same-Window Mean</div><div class="v">' + badge.base.toFixed(1) + '</div><div class="s" style="color:var(--text-muted);">2019-2025 window mean</div></div>';
       var dCol = badge.delta >= 0 ? 'var(--green)' : 'var(--red)';
       chips += '<div class="ph-kpi-chip"><div class="k">vs 5Y Avg</div><div class="v" style="color:' + dCol + ';">' + (badge.delta > 0 ? '+' : '') + badge.delta.toFixed(1) + '%</div><div class="s" style="color:' + dCol + ';">' + (badge.delta >= 0 ? 'above' : 'below') + ' seasonal norm</div></div>';
@@ -37126,7 +37126,7 @@ function renderPortHistory() {
       interaction: { mode: 'index', intersect: false },
       plugins: {
         legend: { position: 'top', labels: { usePointStyle: true, font: { size: 9 }, boxWidth: 7 } },
-        tooltip: { callbacks: { label: function(c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString() : '\u2014'); } } }
+        tooltip: { callbacks: { label: function(c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString('en-US') : '\u2014'); } } }
       },
       scales: {
         x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 9 }, maxTicksLimit: 10, maxRotation: 0, autoSkip: true } },
@@ -37312,7 +37312,7 @@ function populateTrackingPortOptions() {
   list.slice(0, 40).forEach(function(p) {
     var opt = document.createElement('option');
     opt.value = p.portid;
-    opt.textContent = p.name + ' (' + totOf(p).toLocaleString() + ' calls YTD)';
+    opt.textContent = p.name + ' (' + totOf(p).toLocaleString('en-US') + ' calls YTD)';
     sel.appendChild(opt);
   });
 }
@@ -37400,8 +37400,8 @@ function updateTrackingHUD() {
   var hBelow = document.getElementById('hudCpBelowBaseline');
   var hRedSea = document.getElementById('hudRedSeaDiverted');
 
-  if (hCalls) hCalls.textContent = (k.latestCalls != null) ? Math.round(k.latestCalls).toLocaleString() : '\u2014';
-  if (h7d) h7d.textContent = (k.avg7 != null) ? Math.round(k.avg7).toLocaleString() : '\u2014';
+  if (hCalls) hCalls.textContent = (k.latestCalls != null) ? Math.round(k.latestCalls).toLocaleString('en-US') : '\u2014';
+  if (h7d) h7d.textContent = (k.avg7 != null) ? Math.round(k.avg7).toLocaleString('en-US') : '\u2014';
 
   var disr = DATA.disruptions || [];
   var ongoing = disr.filter(function(d) { return d.ongoing; });
@@ -37433,7 +37433,7 @@ function updateTrackingHUD() {
   var stats = window.__trackingSectorPortStats || {};
   var pill = function(id, n) {
     var el = document.getElementById(id);
-    if (el) el.textContent = (n != null && n.toLocaleString) ? n.toLocaleString() : '\u2014';
+    if (el) el.textContent = (n != null && n.toLocaleString) ? n.toLocaleString('en-US') : '\u2014';
   };
   pill('pillCountAll', stats.all ? stats.all.nPorts : null);
   pill('pillCountTanker', stats['Tankers'] ? stats['Tankers'].nPorts : null);
@@ -37450,10 +37450,10 @@ function updateTrackingHUD() {
   document.querySelectorAll('[data-tt-type="tracking-hud"]').forEach(function(card) {
     var title = card.getAttribute('data-tt-title') || '';
     if (title.includes('Port Calls Across')) {
-      card.setAttribute('data-tt-val', (k.latestCalls != null ? Math.round(k.latestCalls).toLocaleString() : '\u2014') + ' calls on ' + (k.latestDate || 'n/a'));
+      card.setAttribute('data-tt-val', (k.latestCalls != null ? Math.round(k.latestCalls).toLocaleString('en-US') : '\u2014') + ' calls on ' + (k.latestDate || 'n/a'));
       if (k.latestDate) card.setAttribute('data-tt-fresh', 'PortWatch daily feed, latest observed day ' + k.latestDate);
     } else if (title.includes('7-Day Average')) {
-      card.setAttribute('data-tt-val', (k.avg7 != null ? Math.round(k.avg7).toLocaleString() : '\u2014') + ' calls per day (trailing 7 days)');
+      card.setAttribute('data-tt-val', (k.avg7 != null ? Math.round(k.avg7).toLocaleString('en-US') : '\u2014') + ' calls per day (trailing 7 days)');
       if (k.latestDate) card.setAttribute('data-tt-fresh', 'Mean of the last 7 observed days through ' + k.latestDate);
     } else if (title.includes('Active Disruptions')) {
       card.setAttribute('data-tt-val', ongoing.length + ' events flagged ongoing of ' + disr.length + ' recorded');
@@ -37470,7 +37470,7 @@ function updateTrackingHUD() {
   var hudDetail = document.getElementById('mapHudDetail');
   if (hudDetail && trackingSelectedPort === 'all') {
     var inSec = trackingMapSector === 'all' ? stats.all : stats[trackingMapSector];
-    if (inSec) hudDetail.textContent = inSec.total.toLocaleString() + ' measured port calls YTD across ' + inSec.nPorts + ' ports (PortWatch)';
+    if (inSec) hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + inSec.nPorts + ' ports (PortWatch)';
   }
 }
 
@@ -37480,7 +37480,7 @@ function updateSectorMapCounts() {
   var ids = { 'all': 'secMapCountAll', 'Tankers': 'secMapCountTankers', 'Dry Bulk': 'secMapCountDry', 'Container': 'secMapCountContainer', 'General Cargo': 'secMapCountGen', 'RoRo': 'secMapCountRoro' };
   Object.keys(ids).forEach(function(s) {
     var el = document.getElementById(ids[s]);
-    if (el && stats[s]) el.textContent = (s === 'all' ? stats[s].nPorts + ' ports' : stats[s].total.toLocaleString() + ' calls');
+    if (el && stats[s]) el.textContent = (s === 'all' ? stats[s].nPorts + ' ports' : stats[s].total.toLocaleString('en-US') + ' calls');
   });
   // Sector-toggle overlay tooltip carries live per-sector counts from the cache.
   var ov = document.getElementById('mapSectorToggle');
@@ -37544,7 +37544,7 @@ function renderUniverseTable() {
 
   var filtered = filterUniversePorts();
   var total = filtered.length;
-  if (badge) badge.textContent = total.toLocaleString() + ' of ' + ((DATA.universePorts && DATA.universePorts.list) || []).length.toLocaleString() + ' universe ports';
+  if (badge) badge.textContent = total.toLocaleString('en-US') + ' of ' + ((DATA.universePorts && DATA.universePorts.list) || []).length.toLocaleString('en-US') + ' universe ports';
 
   var totalPages = Math.ceil(total / UNIVERSE_PAGE_SIZE) || 1;
   if (universePage > totalPages) universePage = totalPages;
@@ -37596,7 +37596,7 @@ function renderUniverseTable() {
     tr.innerHTML = '<td><div style="font-weight:700; color:#fff;">' + escapeHtml(p.portname || p.portid) + '</div>' +
       '<div style="font-size:10px; color:var(--text-muted);">' + escapeHtml(sub) + '</div></td>' +
       '<td><div class="pd-mixbar" style="width:90px;">' + (mixBar || '<span style="color:var(--text-muted); font-size:10px;">\u2014</span>') + '</div></td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--accent);">' + (calls > 0 ? calls.toLocaleString() : '\u2014') + '</td>';
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--accent);">' + (calls > 0 ? calls.toLocaleString('en-US') : '\u2014') + '</td>';
 
     tr.addEventListener('click', function() { openPortPage(p.portid); });
     tbody.appendChild(tr);
@@ -37680,12 +37680,12 @@ function renderPortPageFacts(meta) {
     '<div style="font-size:9px; color:var(--text-muted); letter-spacing:0.05em;">PORT FACTS \u2014 IMF PORTWATCH PORTS MASTER</div>' +
     '<span class="pd-close" onclick="setTrackingSubView(\'universe\')" aria-label="Close port page">\u00d7</span></div>';
   html += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:2px 14px; margin-top:6px;">';
-  html += row('Vessels observed (all classes)', meta.vessel_count_total != null ? Number(meta.vessel_count_total).toLocaleString() : 'n/a');
-  html += row('Container hulls', meta.vessel_count_container != null ? Number(meta.vessel_count_container).toLocaleString() : 'n/a');
-  html += row('Dry-bulk hulls', meta.vessel_count_dry_bulk != null ? Number(meta.vessel_count_dry_bulk).toLocaleString() : 'n/a');
-  html += row('General-cargo hulls', meta.vessel_count_general_cargo != null ? Number(meta.vessel_count_general_cargo).toLocaleString() : 'n/a');
-  html += row('RoRo hulls', meta.vessel_count_RoRo != null ? Number(meta.vessel_count_RoRo).toLocaleString() : 'n/a');
-  html += row('Tanker hulls', meta.vessel_count_tanker != null ? Number(meta.vessel_count_tanker).toLocaleString() : 'n/a');
+  html += row('Vessels observed (all classes)', meta.vessel_count_total != null ? Number(meta.vessel_count_total).toLocaleString('en-US') : 'n/a');
+  html += row('Container hulls', meta.vessel_count_container != null ? Number(meta.vessel_count_container).toLocaleString('en-US') : 'n/a');
+  html += row('Dry-bulk hulls', meta.vessel_count_dry_bulk != null ? Number(meta.vessel_count_dry_bulk).toLocaleString('en-US') : 'n/a');
+  html += row('General-cargo hulls', meta.vessel_count_general_cargo != null ? Number(meta.vessel_count_general_cargo).toLocaleString('en-US') : 'n/a');
+  html += row('RoRo hulls', meta.vessel_count_RoRo != null ? Number(meta.vessel_count_RoRo).toLocaleString('en-US') : 'n/a');
+  html += row('Tanker hulls', meta.vessel_count_tanker != null ? Number(meta.vessel_count_tanker).toLocaleString('en-US') : 'n/a');
   html += row('Top industry (1)', meta.industry_top1 || 'n/a');
   html += row('Top industry (2)', meta.industry_top2 || 'n/a');
   html += row('Top industry (3)', meta.industry_top3 || 'n/a');
@@ -37860,7 +37860,7 @@ function renderPortPageActivity(meta) {
         tooltip: { callbacks: { label: function(c) {
           var v = c.parsed.y;
           var unit = (c.datasetIndex === 0) ? ' calls' : ' kt';
-          return ' ' + c.dataset.label + ': ' + (v != null ? Math.round(v).toLocaleString() + unit : '\u2014');
+          return ' ' + c.dataset.label + ': ' + (v != null ? Math.round(v).toLocaleString('en-US') + unit : '\u2014');
         } } }
       },
       scales: {
@@ -37925,7 +37925,7 @@ function renderPortPageFixtures(meta) {
       '<td style="font-size:10px;">' + escapeHtml((mode === 'load' ? (g.discharge_port || '\u2014') : (g.load_port || '\u2014'))) + '</td>' +
       '<td style="font-size:10px; max-width:90px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">' + escapeHtml(g.commodity || '\u2014') + '</td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-size:10px; color:var(--text-muted);">' + escapeHtml(g.leg_date || '\u2014') + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; font-size:10px;">' + ((g.distance_nm && parseFloat(g.distance_nm) > 0) ? Math.round(parseFloat(g.distance_nm)).toLocaleString() + ' NM' : '\u2014') + '</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; font-size:10px;">' + ((g.distance_nm && parseFloat(g.distance_nm) > 0) ? Math.round(parseFloat(g.distance_nm)).toLocaleString('en-US') + ' NM' : '\u2014') + '</td>' +
       '<td style="font-size:10px; color:var(--text-muted);">' + escapeHtml(mq || 'unresolved') + '</td>';
     tbody.appendChild(tr);
   });
@@ -38120,7 +38120,7 @@ function renderVesselTimeline(vesselName) {
   legs.forEach(function(g) { var d = parseFloat(g.distance_nm); if (d > 0) { totalDist += d; legsDist++; } });
   var html = '<div style="font-weight:700; color:#fff; font-size:12.5px; margin-bottom:2px;">' + escapeHtml(vesselName) + '</div>' +
     '<div style="font-size:10px; color:var(--text-muted); margin-bottom:6px;">' + legs.length + ' reported fixture leg' + (legs.length === 1 ? '' : 's') +
-    (legsDist ? ' \u00b7 ' + Math.round(totalDist).toLocaleString() + ' NM great-circle on ' + legsDist + ' resolved leg' + (legsDist === 1 ? '' : 's') : '') +
+    (legsDist ? ' \u00b7 ' + Math.round(totalDist).toLocaleString('en-US') + ' NM great-circle on ' + legsDist + ' resolved leg' + (legsDist === 1 ? '' : 's') : '') +
     ' \u00b7 reported fixture voyages, not AIS positions</div>';
   if (!legs.length) {
     box.innerHTML = html + '<div style="font-size:10.5px; color:var(--text-muted);">No fixture legs recorded for this vessel name.</div>';
@@ -38142,7 +38142,7 @@ function renderVesselTimeline(vesselName) {
       '<td>' + escapeHtml(g.load_port || '\u2014') + (g.load_portid ? '' : ' <span style="color:var(--text-muted); font-size:9px;">(unresolved)</span>') + '</td>' +
       '<td>' + escapeHtml(g.discharge_port || '\u2014') + (g.discharge_portid ? '' : ' <span style="color:var(--text-muted); font-size:9px;">(unresolved)</span>') + '</td>' +
       '<td>' + escapeHtml(g.vessel_class || '\u2014') + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; font-size:10px;">' + (d > 0 ? Math.round(d).toLocaleString() + ' NM' : '\u2014') + '</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; font-size:10px;">' + (d > 0 ? Math.round(d).toLocaleString('en-US') + ' NM' : '\u2014') + '</td>' +
       '<td style="font-size:10px; color:var(--text-muted);">' + escapeHtml(g.load_match || g.discharge_match || 'unresolved') + '</td></tr>';
   });
   html += '</tbody></table></div>';
@@ -38403,7 +38403,7 @@ function plotPortHubMarkers() {
     var pinState = '';
     if (trackingMapSector !== 'all') pinState = inSector ? ' lit' : ' dimmed';
 
-    var iconHtml = '<div class="port-hub-pin' + pinState + '" title="' + escapeHtml(p.name) + ': ' + tot.toLocaleString() + ' port calls YTD (PortWatch)' +
+    var iconHtml = '<div class="port-hub-pin' + pinState + '" title="' + escapeHtml(p.name) + ': ' + tot.toLocaleString('en-US') + ' port calls YTD (PortWatch)' +
       (trackingMapSector !== 'all' ? (inSector ? ' \u00b7 ' + escapeHtml(trackingMapSector) + ' highlight' : ' \u00b7 dimmed (outside ' + escapeHtml(trackingMapSector) + ')') : '') + '">' +
       '<span class="port-hub-badge" style="min-width:' + Math.max(18, 12 + String(tot).length * 6) + 'px; font-size:' + (r >= 18 ? '10px' : '9px') + ';">' + (tot >= 1000 ? Math.round(tot / 1000) + 'k' : tot) + '</span>' +
       '</div>';
@@ -38420,14 +38420,14 @@ function plotPortHubMarkers() {
 
     var popupHtml = '<div class="signal-vessel-popup" style="min-width:230px;">' +
       '<div class="signal-vessel-head">' +
-      '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="status-badge-berth">' + tot.toLocaleString() + ' Calls YTD</span></div>' +
+      '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="status-badge-berth">' + tot.toLocaleString('en-US') + ' Calls YTD</span></div>' +
       '<div class="signal-vessel-sub">' + escapeHtml(p.country || '') + ' (' + escapeHtml(p.portid) + ')</div>' +
       '</div>' +
       '<div class="signal-vessel-grid">' +
-      '<div><div class="signal-field-label">Tanker calls YTD</div><div class="signal-field-val">' + (p.tanker || 0).toLocaleString() + '</div></div>' +
-      '<div><div class="signal-field-label">Dry-bulk calls YTD</div><div class="signal-field-val">' + (p.dry_bulk || 0).toLocaleString() + '</div></div>' +
-      '<div><div class="signal-field-label">Container calls YTD</div><div class="signal-field-val">' + (p.container || 0).toLocaleString() + '</div></div>' +
-      '<div><div class="signal-field-label">Gen-cargo / RoRo YTD</div><div class="signal-field-val">' + ((p.general_cargo || 0) + (p.roro || 0)).toLocaleString() + '</div></div>' +
+      '<div><div class="signal-field-label">Tanker calls YTD</div><div class="signal-field-val">' + (p.tanker || 0).toLocaleString('en-US') + '</div></div>' +
+      '<div><div class="signal-field-label">Dry-bulk calls YTD</div><div class="signal-field-val">' + (p.dry_bulk || 0).toLocaleString('en-US') + '</div></div>' +
+      '<div><div class="signal-field-label">Container calls YTD</div><div class="signal-field-val">' + (p.container || 0).toLocaleString('en-US') + '</div></div>' +
+      '<div><div class="signal-field-label">Gen-cargo / RoRo YTD</div><div class="signal-field-val">' + ((p.general_cargo || 0) + (p.roro || 0)).toLocaleString('en-US') + '</div></div>' +
       '</div>' +
       '<div style="font-size:9.5px; color:var(--text-muted); margin-top:4px;">Measured IMF PortWatch calls, 2026 year to date. No vessel positions: PortWatch publishes counts, not live ship locations.</div>' +
       '<button class="signal-vessel-btn" onclick="openPortPage(\'' + p.portid + '\')">Open Port Page (' + escapeHtml(p.name) + ')</button>' +
@@ -38883,11 +38883,11 @@ function runDistanceCalculation() {
   if (!resCard) return;
 
   resCard.innerHTML = '<div style="font-weight:700; color:#fff; font-size:12px; margin-bottom:4px;">Routing Comparison: ' + escapeHtml(p1.name) + ' → ' + escapeHtml(p2.name) + '</div>' +
-    '<div class="dist-res-row"><span>Direct Great Circle:</span><strong>' + directNm.toLocaleString() + ' NM</strong></div>' +
-    '<div class="dist-res-row"><span>Standard Route (Suez / Canal):</span><strong>' + canalRouteNm.toLocaleString() + ' NM (' + canalDays + ' days)</strong></div>' +
-    '<div class="dist-res-row"><span style="color:#a371f7;">Rerouted Route (Cape of Good Hope):</span><strong style="color:#a371f7;">' + capeRouteNm.toLocaleString() + ' NM (' + capeDays + ' days)</strong></div>' +
+    '<div class="dist-res-row"><span>Direct Great Circle:</span><strong>' + directNm.toLocaleString('en-US') + ' NM</strong></div>' +
+    '<div class="dist-res-row"><span>Standard Route (Suez / Canal):</span><strong>' + canalRouteNm.toLocaleString('en-US') + ' NM (' + canalDays + ' days)</strong></div>' +
+    '<div class="dist-res-row"><span style="color:#a371f7;">Rerouted Route (Cape of Good Hope):</span><strong style="color:#a371f7;">' + capeRouteNm.toLocaleString('en-US') + ' NM (' + capeDays + ' days)</strong></div>' +
     '<div class="dist-res-row"><span style="color:var(--yellow);">Transit Voyage Delay:</span><strong style="color:var(--yellow);">+' + diffDays + ' Days Added</strong></div>' +
-    '<div class="dist-res-row"><span>Additional Bunker Consumption:</span><strong>+' + diffFuel.toLocaleString() + ' MT VLSFO</strong></div>';
+    '<div class="dist-res-row"><span>Additional Bunker Consumption:</span><strong>+' + diffFuel.toLocaleString('en-US') + ' MT VLSFO</strong></div>';
 }
 
 function plotDistanceRouteOnMap() {
@@ -38967,7 +38967,7 @@ function escapeHtml(str) {
           const secName = sec === 'all' ? 'All Classes' : sec;
           html = `<div class="rt-title">Sector Highlight: ${secName} (IMF PortWatch calls)</div>`;
           html += `<div class="rt-row"><span class="rt-label">Ports with Calls (YTD)</span><span class="rt-val">${p.nPorts != null ? p.nPorts : 'n/a'}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Calls in Sector (YTD)</span><span class="rt-val">${p.total != null ? Number(p.total).toLocaleString() : 'n/a'}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Calls in Sector (YTD)</span><span class="rt-val">${p.total != null ? Number(p.total).toLocaleString('en-US') : 'n/a'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Vessel Positions</span><span class="rt-val" style="color:var(--yellow);">not published by PortWatch; only measured call counts per port</span></div>`;
           html += `<div class="rt-note">Pin size on the map follows measured year-to-date calls from the PortWatch expanded feed (scaled to the five busiest hubs). Click a port pin to open its port page.</div>`;
         }
@@ -38976,7 +38976,7 @@ function escapeHtml(str) {
           const Y = window.__portHistoryCtx || {};
           html = `<div class="rt-title">Port Call History: IMF PortWatch</div>`;
           html += `<div class="rt-row"><span class="rt-label">Measure</span><span class="rt-val">${Y.measure || 'Daily Port Calls'}</span></div>`;
-          if (Y.latest) html += `<div class="rt-row"><span class="rt-label">Latest Day</span><span class="rt-val">${Y.latest.dateStr} \u00b7 ${Y.latest.val != null ? Y.latest.val.toLocaleString() : 'n/a'} calls/day</span></div>`;
+          if (Y.latest) html += `<div class="rt-row"><span class="rt-label">Latest Day</span><span class="rt-val">${Y.latest.dateStr} \u00b7 ${Y.latest.val != null ? Y.latest.val.toLocaleString('en-US') : 'n/a'} calls/day</span></div>`;
           if (Y.base != null) html += `<div class="rt-row"><span class="rt-label">5Y Same-Window Mean</span><span class="rt-val">${Y.base.toLocaleString(undefined, {maximumFractionDigits: 1})} calls/day</span></div>`;
           if (Y.delta != null) html += `<div class="rt-row"><span class="rt-label">Latest vs 5Y Mean</span><span class="rt-val ${Y.delta >= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${Y.delta > 0 ? '+' : ''}${Y.delta.toFixed(1)}%</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Baseline Definition</span><span class="rt-val">Mean of all 2019\u20132025 daily values in the same calendar window, computed from the CSV, never hardcoded</span></div>`;
@@ -38989,11 +38989,11 @@ function escapeHtml(str) {
           const s = (summary && summary.tce_benchmarks_56y && summary.tce_benchmarks_56y.stats) ? summary.tce_benchmarks_56y.stats[segKey] : null;
           if (s) {
             html = `<div class="rt-title">${s.label}: 56-Year Historical Benchmark</div>`;
-            html += `<div class="rt-row"><span class="rt-label">Current 1Y TC Rate</span><span class="rt-val" style="color:var(--accent);">$${Number(s.current).toLocaleString()}/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Current 1Y TC Rate</span><span class="rt-val" style="color:var(--accent);">$${Number(s.current).toLocaleString('en-US')}/day</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">56-Year Historical Percentile</span><span class="rt-val">${s.pct_56y.toFixed(1)}% (${s.start_year}–2026)</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">All-Time Peak (ATH)</span><span class="rt-val" style="color:#f0883e;">$${Number(s.ath).toLocaleString()}/day (${s.ath_date})</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">All-Time Trough (ATL)</span><span class="rt-val">$${Number(s.atl).toLocaleString()}/day (${s.atl_date})</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">5-Year Rolling Average</span><span class="rt-val">$${Number(s.avg_5y).toLocaleString()}/day</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">All-Time Peak (ATH)</span><span class="rt-val" style="color:#f0883e;">$${Number(s.ath).toLocaleString('en-US')}/day (${s.ath_date})</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">All-Time Trough (ATL)</span><span class="rt-val">$${Number(s.atl).toLocaleString('en-US')}/day (${s.atl_date})</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">5-Year Rolling Average</span><span class="rt-val">$${Number(s.avg_5y).toLocaleString('en-US')}/day</span></div>`;
             const distAth = s.ath > 0 ? (((s.current - s.ath) / s.ath) * 100.0).toFixed(1) : 0;
             html += `<div class="rt-row"><span class="rt-label">Distance from Supercycle ATH</span><span class="rt-val neg">${distAth}%</span></div>`;
             html += `<div class="rt-note">Direct feed from the FearnPulse 56-year institutional archive. Calibrated over ${s.count} weekly broker assessments.</div>`;
@@ -39037,7 +39037,7 @@ function escapeHtml(str) {
           if (ch) {
             html = `<div class="rt-title">${ch.charterer}: Commercial Charterer Intelligence</div>`;
             html += `<div class="rt-row"><span class="rt-label">Global League Rank</span><span class="rt-val">#${ch.rank} of All Recorded Charterers</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Total Commercial Fixtures</span><span class="rt-val">${Number(ch.fixtures).toLocaleString()} verified contracts</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Total Commercial Fixtures</span><span class="rt-val">${Number(ch.fixtures).toLocaleString('en-US')} verified contracts</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Global Market Share</span><span class="rt-val" style="color:var(--accent);">${ch.market_share_pct.toFixed(2)}%</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Primary Fleet Segment</span><span class="rt-val">${ch.primary_segment} (${ch.dept})</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Dominant Trade Corridor</span><span class="rt-val">${ch.primary_route}</span></div>`;
@@ -39055,12 +39055,12 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Reported Sale Price</span><span class="rt-val" style="color:var(--accent);">$${price.toFixed(1)}M USD</span></div>`;
           }
           if (dwt > 0) {
-            html += `<div class="rt-row"><span class="rt-label">Vessel Deadweight (DWT)</span><span class="rt-val">${Number(dwt).toLocaleString()} DWT</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Deadweight (DWT)</span><span class="rt-val">${Number(dwt).toLocaleString('en-US')} DWT</span></div>`;
           }
           if (usdPerDwt) {
-            html += `<div class="rt-row"><span class="rt-label">Implied Asset Metric</span><span class="rt-val" style="color:#e3b341;">$${Number(usdPerDwt).toLocaleString()} / DWT</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Implied Asset Metric</span><span class="rt-val" style="color:#e3b341;">$${Number(usdPerDwt).toLocaleString('en-US')} / DWT</span></div>`;
           }
-          html += `<div class="rt-note">From the Fearnleys Secondhand S&amp;P Deal Ledger: ${((window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_deals) != null ? Number(DATA.fearnleysSummary.snp_deals.total_deals).toLocaleString() + ' recorded transactions' : 'ledger totals load with the data')}${(window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_volume_usd_m != null) ? ' totaling $' + (DATA.fearnleysSummary.snp_deals.total_volume_usd_m / 1000).toFixed(1) + 'B USD' : ''}.</div>`;
+          html += `<div class="rt-note">From the Fearnleys Secondhand S&amp;P Deal Ledger: ${((window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_deals) != null ? Number(DATA.fearnleysSummary.snp_deals.total_deals).toLocaleString('en-US') + ' recorded transactions' : 'ledger totals load with the data')}${(window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_volume_usd_m != null) ? ' totaling $' + (DATA.fearnleysSummary.snp_deals.total_volume_usd_m / 1000).toFixed(1) + 'B USD' : ''}.</div>`;
           return html;
         }
         else if (type === 'heatmap-cell') {
@@ -39392,8 +39392,8 @@ function escapeHtml(str) {
           const pKey = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
           const pName = PRODUCTS[pKey] ? PRODUCTS[pKey].label : pKey;
 
-          const spotValStr = !isNaN(spotVal) ? '$' + Math.round(spotVal).toLocaleString() + '/day' : 'N/A';
-          const tcValStr = !isNaN(tcVal) ? '$' + Math.round(tcVal).toLocaleString() + '/day' : 'N/A';
+          const spotValStr = !isNaN(spotVal) ? '$' + Math.round(spotVal).toLocaleString('en-US') + '/day' : 'N/A';
+          const tcValStr = !isNaN(tcVal) ? '$' + Math.round(tcVal).toLocaleString('en-US') + '/day' : 'N/A';
           const ratioValStr = !isNaN(ratioVal) ? ratioVal.toFixed(2) + 'x' : 'N/A';
 
           let interpretation = 'Neutral (Fair Value)';
@@ -39421,8 +39421,8 @@ function escapeHtml(str) {
           const floor = parseFloat(target.getAttribute('data-tt-floor'));
           const prefix = target.getAttribute('data-tt-prefix') || '';
 
-          const ldtStr = !isNaN(ldt) ? ldt.toLocaleString() : 'N/A';
-          const scrapStr = !isNaN(scrap) ? '$' + scrap.toLocaleString() : 'N/A';
+          const ldtStr = !isNaN(ldt) ? ldt.toLocaleString('en-US') : 'N/A';
+          const scrapStr = !isNaN(scrap) ? '$' + scrap.toLocaleString('en-US') : 'N/A';
           const floorStr = !isNaN(floor) ? '$' + floor.toFixed(2) + 'M' : 'N/A';
 
           html = `<div class="rt-title">${prefix} Vessel Scrap Floor</div>`;
@@ -39485,9 +39485,9 @@ function escapeHtml(str) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: A high Spot/TC ratio (>1.3x) indicates extreme near-term vessel shortage. A low ratio (<0.8x) shows spot rates below term lease costs, indicating a strong cyclical support floor.</div>`;
           
           if (!isNaN(spotVal) && spotVal > 0) {
-            const spotValStr = '$' + Math.round(spotVal).toLocaleString() + '/day';
-            const tc1yValStr = !isNaN(tc1yVal) && tc1yVal > 0 ? '$' + Math.round(tc1yVal).toLocaleString() + '/day' : 'N/A';
-            const tc2yValStr = !isNaN(tc2yVal) && tc2yVal > 0 ? '$' + Math.round(tc2yVal).toLocaleString() + '/day' : 'N/A';
+            const spotValStr = '$' + Math.round(spotVal).toLocaleString('en-US') + '/day';
+            const tc1yValStr = !isNaN(tc1yVal) && tc1yVal > 0 ? '$' + Math.round(tc1yVal).toLocaleString('en-US') + '/day' : 'N/A';
+            const tc2yValStr = !isNaN(tc2yVal) && tc2yVal > 0 ? '$' + Math.round(tc2yVal).toLocaleString('en-US') + '/day' : 'N/A';
             const ratioValStr = !isNaN(ratioVal) && ratioVal > 0 ? ratioVal.toFixed(2) + 'x' : 'N/A';
             let statusCls = '';
             if (ratioVal > 1.3) statusCls = 'neg';
@@ -39515,8 +39515,8 @@ function escapeHtml(str) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: Wide spreads prompt fleet repositioning. The migration of empty vessels out of the lower-rate basin subsequently restricts supply there, causing rates to rise later.</div>`;
           
           if (!isNaN(v1Val) && v1Val > 0) {
-            const v1ValStr = '$' + Math.round(v1Val).toLocaleString() + '/day';
-            const v2ValStr = '$' + Math.round(v2Val).toLocaleString() + '/day';
+            const v1ValStr = '$' + Math.round(v1Val).toLocaleString('en-US') + '/day';
+            const v2ValStr = '$' + Math.round(v2Val).toLocaleString('en-US') + '/day';
             const ratioValStr = !isNaN(ratioVal) ? ratioVal.toFixed(2) + 'x' : 'N/A';
             let statusCls = '';
             if (ratioVal > 1.3 || ratioVal < 0.7) statusCls = 'pos';
@@ -39540,9 +39540,9 @@ function escapeHtml(str) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: When port inventories drop to low levels while raw material prices remain firm, buyers (like steel mills) must start a restocking cycle, driving a surge in dry bulk shipping demand.</div>`;
           
           if (!isNaN(spotVal) && spotVal > 0) {
-            const spotValStr = '$' + Math.round(spotVal).toLocaleString() + '/day';
+            const spotValStr = '$' + Math.round(spotVal).toLocaleString('en-US') + '/day';
             const cfrValStr = !isNaN(cfrVal) ? '$' + cfrVal.toFixed(1) + '/dmt' : 'N/A';
-            const stockValStr = !isNaN(stockVal) ? Math.round(stockVal).toLocaleString() + 'k tons' : 'N/A';
+            const stockValStr = !isNaN(stockVal) ? Math.round(stockVal).toLocaleString('en-US') + 'k tons' : 'N/A';
             
             html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">${pName} Spot Rate</span><span class="rt-val">${spotValStr}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">CFR 62% Iron Ore Price</span><span class="rt-val" style="color:#ff6b6b;">${cfrValStr}</span></div>`;
@@ -39638,8 +39638,8 @@ function escapeHtml(str) {
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Market Signal</strong>: Scrap value represents the absolute floor for vessel asset values. If rates collapse, older ships are sold for scrap, contracting fleet supply and lifting rates.</div>`;
           
           if (!isNaN(floorVal) && floorVal > 0) {
-            const ldtValStr = ldtVal.toLocaleString() + ' tons';
-            const scrapValStr = '$' + Math.round(scrapVal).toLocaleString() + '/LDT';
+            const ldtValStr = ldtVal.toLocaleString('en-US') + ' tons';
+            const scrapValStr = '$' + Math.round(scrapVal).toLocaleString('en-US') + '/LDT';
             const floorValStr = '$' + floorVal.toFixed(2) + 'M';
             
             html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Vessel Weight (LDT)</span><span class="rt-val">${ldtValStr}</span></div>`;
@@ -40524,7 +40524,7 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Group 3</span><span class="rt-val">S&P / Resale (§5 class order)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Group 4</span><span class="rt-val">LNG / LPG (pre-change gas tiles)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Tie-break</span><span class="rt-val">longest recorded history first</span></div>`;
-          if (meta) html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">${meta.labels_cached} series · ${Number(meta.monthly_points).toLocaleString()} monthly pts</span></div>`;
+          if (meta) html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">${meta.labels_cached} series · ${Number(meta.monthly_points).toLocaleString('en-US')} monthly pts</span></div>`;
           html += `<div class="rt-note">Series data: Fearnleys monthly means. Every value on these tiles comes from that one source: nothing is estimated.</div>`;
         }
         else if (type === 'fearn-overview-tile') {
@@ -40594,7 +40594,7 @@ function escapeHtml(str) {
             Object.keys(byTenor).sort().forEach(t => {
               const rr = byTenor[t];
               const last = rr[rr.length - 1];
-              html += `<div class="rt-row"><span class="rt-label">${t} latest</span><span class="rt-val">$${Number(last[3]).toLocaleString()}/day · ${last[0]}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">${t} latest</span><span class="rt-val">$${Number(last[3]).toLocaleString('en-US')}/day · ${last[0]}</span></div>`;
             });
             const dts = rows.map(r => r[0]).sort();
             if (dts.length) html += `<div class="rt-row"><span class="rt-label">Span · n</span><span class="rt-val">${dts[0]} → ${dts[dts.length - 1]} · ${rows.length} weekly rows</span></div>`;
@@ -40607,7 +40607,7 @@ function escapeHtml(str) {
             if (a) {
               const lastP = a.m[a.m.length - 1];
               html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${ARCH_KEY[cls]}</span></div>`;
-              html += `<div class="rt-row"><span class="rt-label">Latest monthly print</span><span class="rt-val">$${Number(lastP[1]).toLocaleString()}/day · ${lastP[0]}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Latest monthly print</span><span class="rt-val">$${Number(lastP[1]).toLocaleString('en-US')}/day · ${lastP[0]}</span></div>`;
               html += `<div class="rt-row"><span class="rt-label">Span · n</span><span class="rt-val">${a.first} → ${a.last} · ${a.n} monthly prints</span></div>`;
               html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${a.last < (FDESK.maxym || '') ? 'archived: last print ' + a.last : 'current to ' + a.last}</span></div>`;
               html += `<div class="rt-note">One monthly archive line per class. No Baltic weekly data is mixed in. Source: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly).</div>`;
@@ -41519,7 +41519,7 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Loading Port</span><span class="rt-val">${load || 'not resolved'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Discharge Port</span><span class="rt-val">${disch || 'not resolved'}</span></div>`;
           if (date) html += `<div class="rt-row"><span class="rt-label">Fixture Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${date}</span></div>`;
-          if (dist) html += `<div class="rt-row"><span class="rt-label">Great-Circle Distance</span><span class="rt-val">${Number(dist).toLocaleString()} NM (between reported ports)</span></div>`;
+          if (dist) html += `<div class="rt-row"><span class="rt-label">Great-Circle Distance</span><span class="rt-val">${Number(dist).toLocaleString('en-US')} NM (between reported ports)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Port Resolution</span><span class="rt-val">${mq}</span></div>`;
           html += `<div class="rt-note">Broker-reported fixture from the Fearnleys tape. This is a reported fixture voyage, not an AIS position: the ship's path between the ports is not in the data.</div>`;
         }
@@ -41531,7 +41531,7 @@ function escapeHtml(str) {
           const mix = target.getAttribute('data-tt-mix') || '';
           html = `<div class="rt-title">${port}${country ? ' (' + country + ')' : ''}</div>`;
           if (locode) html += `<div class="rt-row"><span class="rt-label">UN/LOCODE</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${locode}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Calls (2026 YTD)</span><span class="rt-val" style="color:var(--accent); font-weight:700;">${Number(calls).toLocaleString()} measured calls</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Calls (2026 YTD)</span><span class="rt-val" style="color:var(--accent); font-weight:700;">${Number(calls).toLocaleString('en-US')} measured calls</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Calls by Class (YTD)</span><span class="rt-val">${mix}</span></div>`;
           html += `<div class="rt-note">Measured IMF PortWatch daily calls, 2026 year to date. Click to open the port page: facts, activity chart, reported fixtures and disruptions.</div>`;
         }
@@ -41613,9 +41613,9 @@ function escapeHtml(str) {
           if (d.segment) html += `<div class="rt-row"><span class="rt-label">Sector</span><span class="rt-val" style="text-transform:uppercase;">${d.segment}</span></div>`;
           if (d.built) html += `<div class="rt-row"><span class="rt-label">Built Year</span><span class="rt-val">${d.built}</span></div>`;
           if (d.yard) html += `<div class="rt-row"><span class="rt-label">Shipyard</span><span class="rt-val">${d.yard}</span></div>`;
-          if (dwt > 0) html += `<div class="rt-row"><span class="rt-label">Deadweight</span><span class="rt-val">${Number(dwt).toLocaleString()} DWT</span></div>`;
+          if (dwt > 0) html += `<div class="rt-row"><span class="rt-label">Deadweight</span><span class="rt-val">${Number(dwt).toLocaleString('en-US')} DWT</span></div>`;
           if (price > 0) html += `<div class="rt-row"><span class="rt-label">Reported Price</span><span class="rt-val" style="color:var(--accent);font-weight:700;">$${price.toFixed(1)}M USD</span></div>`;
-          if (d.usd_per_dwt) html += `<div class="rt-row"><span class="rt-label">Unit Valuation</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">$${Number(d.usd_per_dwt).toLocaleString()} / DWT</span></div>`;
+          if (d.usd_per_dwt) html += `<div class="rt-row"><span class="rt-label">Unit Valuation</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">$${Number(d.usd_per_dwt).toLocaleString('en-US')} / DWT</span></div>`;
           if (d.buyer) html += `<div class="rt-row"><span class="rt-label">Acquiring Counterparty</span><span class="rt-val" style="color:#fff;">${d.buyer}</span></div>`;
           if (d.comment) html += `<div class="rt-note">${d.comment}</div>`;
         }
@@ -41631,12 +41631,12 @@ function escapeHtml(str) {
             const mom = cat.mom_pct != null ? (cat.mom_pct >= 0 ? '+' : '') + cat.mom_pct.toFixed(1) + '%' : null;
             const momCls = (cat.mom_pct || 0) >= 0 ? 'pos' : 'neg';
             html = `<div class="rt-title">${cat.name || cat.label}: Spot Benchmark</div>`;
-            html += `<div class="rt-row"><span class="rt-label">Latest Dayrate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${rateGbp.toLocaleString()} / d (~$${rateUsd.toLocaleString()})</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Latest Dayrate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${rateGbp.toLocaleString('en-US')} / d (~$${rateUsd.toLocaleString('en-US')})</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy}</span></div>`;
             if (mom) html += `<div class="rt-row"><span class="rt-label">MoM Velocity</span><span class="rt-val ${momCls}">${mom}</span></div>`;
             if (cat.utilization_pct != null) html += `<div class="rt-row"><span class="rt-label">Fleet Utilisation</span><span class="rt-val">${cat.utilization_pct}%</span></div>`;
-            if (cat.hi_52w) html += `<div class="rt-row"><span class="rt-label">52-Week Range</span><span class="rt-val">£${Math.round(cat.lo_52w || 0).toLocaleString()} – £${Math.round(cat.hi_52w).toLocaleString()}</span></div>`;
-            if (cat.all_time_hi) html += `<div class="rt-row"><span class="rt-label">All-Time Peak</span><span class="rt-val" style="color:#f0883e;">£${Math.round(cat.all_time_hi).toLocaleString()} / d</span></div>`;
+            if (cat.hi_52w) html += `<div class="rt-row"><span class="rt-label">52-Week Range</span><span class="rt-val">£${Math.round(cat.lo_52w || 0).toLocaleString('en-US')} – £${Math.round(cat.hi_52w).toLocaleString('en-US')}</span></div>`;
+            if (cat.all_time_hi) html += `<div class="rt-row"><span class="rt-label">All-Time Peak</span><span class="rt-val" style="color:#f0883e;">£${Math.round(cat.all_time_hi).toLocaleString('en-US')} / d</span></div>`;
             html += `<div class="rt-note">Direct monthly broker assessments from Seabrokers Seabreeze intelligence archive (2018–2026). Click to isolate segment.</div>`;
           }
         }
@@ -41650,9 +41650,9 @@ function escapeHtml(str) {
           const util = parseFloat(target.getAttribute('data-tt-util'));
 
           html = `<div class="rt-title">${cat} · ${date}</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Average Fixture Rate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${Math.round(rate).toLocaleString()} / d</span></div>`;
-          if (rate > 0) html += `<div class="rt-row"><span class="rt-label">Est. USD Value</span><span class="rt-val">$${Math.round(rate * 1.28).toLocaleString()} / d (1.28x)</span></div>`;
-          if (min > 0 && max > 0) html += `<div class="rt-row"><span class="rt-label">Reported Spot Range</span><span class="rt-val">£${Math.round(min).toLocaleString()} – £${Math.round(max).toLocaleString()}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Average Fixture Rate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${Math.round(rate).toLocaleString('en-US')} / d</span></div>`;
+          if (rate > 0) html += `<div class="rt-row"><span class="rt-label">Est. USD Value</span><span class="rt-val">$${Math.round(rate * 1.28).toLocaleString('en-US')} / d (1.28x)</span></div>`;
+          if (min > 0 && max > 0) html += `<div class="rt-row"><span class="rt-label">Reported Spot Range</span><span class="rt-val">£${Math.round(min).toLocaleString('en-US')} – £${Math.round(max).toLocaleString('en-US')}</span></div>`;
           if (!isNaN(yoy)) {
             const yCls = yoy >= 0 ? 'pos' : 'neg';
             html += `<div class="rt-row"><span class="rt-label">Year-over-Year Delta</span><span class="rt-val ${yCls}">${yoy >= 0 ? '+' : ''}${yoy.toFixed(1)}%</span></div>`;
@@ -42285,8 +42285,8 @@ function updateBunkersHUD() {
   setSub('bunkerKpiHsfoSub', fmtChg(k.global_hsfo_chg) + ' D/D (' + gObs + ' vs ' + gPrev + ') · High Sulfur Scrubber-Fitted Fuel', k.global_hsfo_chg <= 0 ? 'good' : 'alert');
   setSub('bunkerKpiMgoSub', fmtChg(k.global_mgo_chg) + ' D/D (' + gObs + ' vs ' + gPrev + ') · ECA Zone & Port Auxiliary Marine Gasoil', k.global_mgo_chg <= 0 ? 'good' : 'alert');
   var hObs = (k.hi5_obs || '').slice(5), hPrev = (k.hi5_prev_obs || '').slice(5);
-  setSub('bunkerKpiHi5Sub', fmtChg(k.singapore_hi5_chg) + ' 7D (SS ' + hObs + ' vs ' + hPrev + ') · Cape TCE +$' + Math.round(k.cape_scrubber_tce_bonus).toLocaleString() + '/d · Payback ~' + k.scrubber_payback_months + ' Mos', k.singapore_hi5_chg <= 0 ? 'purple' : 'alert');
-  setSub('bunkerKpiEtsSub', 'Voyage Penalty: ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString() + '/d on EU MRV Routes (static screen)', 'warn');
+  setSub('bunkerKpiHi5Sub', fmtChg(k.singapore_hi5_chg) + ' 7D (SS ' + hObs + ' vs ' + hPrev + ') · Cape TCE +$' + Math.round(k.cape_scrubber_tce_bonus).toLocaleString('en-US') + '/d · Payback ~' + k.scrubber_payback_months + ' Mos', k.singapore_hi5_chg <= 0 ? 'purple' : 'alert');
+  setSub('bunkerKpiEtsSub', 'Voyage Penalty: ~$' + Math.round(k.eu_ets_daily_penalty_usd).toLocaleString('en-US') + '/d on EU MRV Routes (static screen)', 'warn');
   var yoy = k.singapore_vol_yoy_pct;
   setSub('bunkerKpiVolSub', (yoy > 0 ? '+' : '') + yoy.toFixed(1) + '% YoY · MPA Singapore ' + (k.singapore_vol_period || '') + ' Monthly Delivery', yoy >= 0 ? 'cyan' : 'alert');
 
@@ -42723,7 +42723,7 @@ function renderBunkersVolumesTable() {
     var tr = document.createElement('tr');
     tr.innerHTML = '<td><div style="font-weight:700; color:#fff; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(r.period) + '</div></td>' +
       '<td><span class="class-badge">' + escapeHtml(r.freq) + '</span></td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#00e5ff;">' + r.volume_mt.toLocaleString() + ' MT</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#00e5ff;">' + r.volume_mt.toLocaleString('en-US') + ' MT</td>' +
       '<td style="font-size:10px; color:var(--text-muted);">' + escapeHtml(r.metric.replace(/_/g, ' ')) + '</td>';
 
     tbody.appendChild(tr);
@@ -42992,9 +42992,9 @@ function renderBunkersScrubberTable() {
 
     tr.innerHTML = '<td><div style="font-weight:700; color:#fff;">' + escapeHtml(r.port) + '</div><div style="font-size:10px; color:var(--text-muted);">' + escapeHtml(r.region) + '</div></td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:700; color:#a371f7;">$' + r.hi5.toFixed(2) + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + r.cape_tce_premium.toLocaleString() + '/d</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + r.vlcc_tce_premium.toLocaleString() + '/d</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--yellow); font-size:10px;">$' + r.eu_ets_penalty_usd.toLocaleString() + '/d</td>';
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + r.cape_tce_premium.toLocaleString('en-US') + '/d</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + r.vlcc_tce_premium.toLocaleString('en-US') + '/d</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--yellow); font-size:10px;">$' + r.eu_ets_penalty_usd.toLocaleString('en-US') + '/d</td>';
 
     tbody.appendChild(tr);
   });
@@ -43371,7 +43371,7 @@ function fearnTtHtml(title, rows, note) {
 function renderFearnOverview() {
   var cache = fearnSeriesCache();
   var cov = document.getElementById('fearnDeskCoverage');
-  if (cov) cov.textContent = cache ? ('· ' + cache.meta.labels_cached + ' series / ' + cache.meta.catalog_ids + ' catalog ids · ' + cache.meta.monthly_points.toLocaleString() + ' monthly pts') : '· cache unavailable';
+  if (cov) cov.textContent = cache ? ('· ' + cache.meta.labels_cached + ' series / ' + cache.meta.catalog_ids + ' catalog ids · ' + cache.meta.monthly_points.toLocaleString('en-US') + ' monthly pts') : '· cache unavailable';
   if (!cache) return;
   var labels = cache.labels, keys = Object.keys(labels);
   var fileMax = '0000-00';
@@ -43423,18 +43423,7 @@ function renderFearnOverview() {
   var grid = document.getElementById('fearnKpiGrid');
   var banner = '';
   if (grid && picks.length) {
-    banner = '<div style="grid-column:1/-1;display:flex;gap:10px;flex-wrap:wrap;align-items:center;font-size:10px;font-family:\'IBM Plex Mono\',monospace;color:var(--text-muted);padding:2px 0 2px;">' +
-      '<span style="font-weight:700;letter-spacing:0.5px;">Tile order:</span>' +
-      '<span style="color:#3fb950;" title="Group 1 \u00b7 Time-charter rates: bulk classes (Capesize \u2192 Panamax \u2192 Supramax \u2192 Handysize), then tanker (VLCC \u2192 Suezmax \u2192 Aframax 1Y). MR/Product 1Y TC are not published by any source in our caches \u2014 disclosed, not invented.">1 \u00b7 Time-Charter Rates</span>' +
-      '<span>bulk \u2192 tanker class order</span>' +
-      '<span style="color:var(--border);">\u00b7</span>' +
-      '<span style="color:#f778ba;" title="Group 2 \u00b7 Newbuilding prices: bulk family (Kamsarmax \u2192 Newcastlemax \u2192 Ultramax \u2014 the only bulk NB classes Fearnleys publishes), then tanker (VLCC \u2192 Suezmax \u2192 Aframax \u2192 Product), then gas (LNGC MEGI \u2192 VLGC \u2192 MGC) and TEU container classes.">2 \u00b7 Newbuilding Prices</span><span>bulk \u2192 tanker \u2192 gas families</span>' +
-      '<span style="color:var(--border);">\u00b7</span>' +
-      '<span style="color:#39c5cf;" title="Group 3 \u00b7 S&amp;P / Resale: 5y and 10y asset-price curves plus resale values, class order from the \u00a75 asset-curves desk (bulk classes first, then tanker); 5y before 10y inside a family.">3 \u00b7 S&amp;P / Resale</span><span>\u00a75 class order</span>' +
-      '<span style="color:var(--border);">\u00b7</span>' +
-      '<span style="color:#8957e5;" title="Group 4 \u00b7 LNG / LPG: the broker gas spot tiles carried by the pre-grouping overview \u2014 LNG (2005 Built 145km3 Steam, Pacific Ocean, Atlantic Ocean) and LPG (Coaster Europe, ETH, LGC).">4 \u00b7 LNG / LPG</span><span>pre-change gas tiles</span>' +
-      '<span style="color:var(--border);">\u00b7</span>' +
-      '<span>tie-break: longest cached history first</span></div>';
+    banner = '';
   }
   if (grid) grid.innerHTML = banner + picks.map(function (s) {
     var t = s.type, col = COLORS[t] || '#4d9aff';
@@ -43469,15 +43458,10 @@ function renderFearnOverview() {
   if (note) {
     var tankWs = keys.filter(function (k) { return labels[k].type === 'TANK' && labels[k].unit === 'ws' && labels[k].n >= 3; }).length;
     var arch = keys.filter(function (k) { return fearnStatusOf(labels[k]) === 'ARCHIVED'; }).length;
-    var seg = [
-      'Order: GROUP 1 Time-Charter Rates (bulk Capesize→Panamax→Supramax→Handysize, then tanker VLCC→Suezmax→Aframax — MR/Product 1Y TC are not published in any cache, disclosed not invented) · GROUP 2 Newbuilding Prices (bulk Kamsarmax→Newcastlemax→Ultramax, tanker VLCC→Suezmax→Aframax→Product, gas LNGC MEGI→VLGC→MGC then TEU classes) · GROUP 3 S&amp;P / Resale (§5 class order, 5y before 10y, curves then resale) · GROUP 4 LNG / LPG (2005 Built 145k3 Steam, Pacific Ocean, Atlantic Ocean · COASTER Europe, ETH, LGC).',
-      'Tanker routes (S3) and dry-route benchmarks (S4) are daily-native from the fearnpulse daily caches — no monthly compression anywhere on those routes; S&amp;P/NB/gas tiles remain monthly as published.',
-      'ws/tce unit twins interleave; ws preferred for TANK spot displays.' + (tankWs ? ' ' + tankWs + ' ws spot routes on §3.' : ''),
-      arch + ' archived labels (LNG CALCULATED/MARKET, TANK Baltic/BITR/Equinor, LPG BLPG — frozen 2023) live in the Series Museum only.'
-    ];
-    note.innerHTML = seg.map(function (s) {
-      return '<span style="color:var(--text-muted);">' + s + '</span>';
-    }).join('<span style="color:var(--border);padding:0 8px;">·</span>');
+    note.innerHTML = '<span style="color:var(--text-muted);">' +
+      (tankWs ? tankWs + ' Worldscale spot routes below · ' : '') +
+      arch + ' archived labels live in the Series Museum only.' +
+      '</span>';
   }
 }
 
@@ -43632,7 +43616,7 @@ function renderFearnTc() {
           tooltip: {
             backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
             filter: function (item) { return item.dataset.label.indexOf('52W') !== 0; },
-            callbacks: { label: function (it) { return ' ' + it.dataset.label + ': $' + Number(it.parsed.y).toLocaleString() + '/day'; } }
+            callbacks: { label: function (it) { return ' ' + it.dataset.label + ': $' + Number(it.parsed.y).toLocaleString('en-US') + '/day'; } }
           }
         },
         scales: {
@@ -44846,7 +44830,7 @@ function renderFearnGasFamily(kind) {
         interaction: { mode: 'nearest', axis: 'x', intersect: false },
         plugins: {
           legend: { labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 10 }, boxWidth: 12 } },
-          tooltip: { backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8', callbacks: { label: function (it) { return it.parsed.y == null ? null : ' ' + it.dataset.label + ': $' + Number(it.parsed.y).toLocaleString(); } } }
+          tooltip: { backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8', callbacks: { label: function (it) { return it.parsed.y == null ? null : ' ' + it.dataset.label + ': $' + Number(it.parsed.y).toLocaleString('en-US'); } } }
         },
         scales: {
           x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
@@ -44881,7 +44865,7 @@ function renderFearnFx() {
     Object.keys(deptLast).forEach(function (d) {
       if (d && deptLast[d] < cutoffLive) FDESK.fxArchiveDepts[d] = deptLast[d];
     });
-    meta.textContent = tape.rows.length.toLocaleString() + ' rows · ' + (tape.meta.first || '') + ' → ' + (tape.meta.last || '') + ' · total archive ' + facets.total_rows.toLocaleString();
+    meta.textContent = tape.rows.length.toLocaleString('en-US') + ' rows · ' + (tape.meta.first || '') + ' → ' + (tape.meta.last || '') + ' · total archive ' + facets.total_rows.toLocaleString('en-US');
   }
   var deps = document.getElementById('fearnFxDeps');
   if (deps && !deps.innerHTML) {
@@ -44889,14 +44873,14 @@ function renderFearnFx() {
     deps.innerHTML = FEARnFX_DEPTS.filter(function (d) { return d === 'ALL' || dc[d]; }).map(function (d) {
       var arch = FDESK.fxArchiveDepts && FDESK.fxArchiveDepts[d];
       var badge = arch ? ' <span style="font-size:8px;color:var(--text-muted);font-weight:400;">· archived ' + new Date(arch).toISOString().slice(0, 7) + '</span>' : '';
-      return '<button class="tracking-status-btn' + (d === FDESK.fxDept ? ' active' : '') + '" data-dep="' + d + '" onclick="setFearnFxDept(\'' + d + '\')"' + (arch ? ' data-tooltip="Desk stopped publishing ' + new Date(arch).toISOString().slice(0, 10) + ' — showing its final 45 days of activity."' : '') + '>' + d + (dc[d] ? ' (' + dc[d].toLocaleString() + ')' : '') + badge + '</button>';
+      return '<button class="tracking-status-btn' + (d === FDESK.fxDept ? ' active' : '') + '" data-dep="' + d + '" onclick="setFearnFxDept(\'' + d + '\')"' + (arch ? ' data-tooltip="Desk stopped publishing ' + new Date(arch).toISOString().slice(0, 10) + ' — showing its final 45 days of activity."' : '') + '>' + d + (dc[d] ? ' (' + dc[d].toLocaleString('en-US') + ')' : '') + badge + '</button>';
     }).join('');
   }
   var league = document.getElementById('fearnFxLeague');
   if (league && !league.innerHTML) {
     var lg = (facets.ytd_charterer_league || []).filter(function (p) { return p[0] !== '—'; }).slice(0, 12);
     league.innerHTML = lg.map(function (p, i) {
-      return '<div style="display:flex;justify-content:space-between;gap:8px;"><span style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;"><span style="color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">#' + (i + 1) + '</span> ' + escapeHtml(p[0]) + '</span><span style="font-family:\'IBM Plex Mono\',monospace;color:var(--accent);">' + p[1].toLocaleString() + '</span></div>';
+      return '<div style="display:flex;justify-content:space-between;gap:8px;"><span style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;"><span style="color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">#' + (i + 1) + '</span> ' + escapeHtml(p[0]) + '</span><span style="font-family:\'IBM Plex Mono\',monospace;color:var(--accent);">' + p[1].toLocaleString('en-US') + '</span></div>';
     }).join('') || '<div style="color:var(--text-muted);">—</div>';
   }
   var db = document.getElementById('fearnFxDeptBars');
@@ -44904,7 +44888,7 @@ function renderFearnFx() {
     var maxd = 1;
     (facets.dept || []).forEach(function (p) { if (p[0] !== '—' && p[1] > maxd) maxd = p[1]; });
     db.innerHTML = (facets.dept || []).filter(function (p) { return p[0] !== '—'; }).slice(0, 7).map(function (p) {
-      return '<div style="margin-bottom:4px;"><div style="display:flex;justify-content:space-between;"><span>' + escapeHtml(p[0]) + '</span><span style="font-family:\'IBM Plex Mono\',monospace;color:var(--text-muted);">' + p[1].toLocaleString() + '</span></div><div style="height:4px;background:rgba(28,35,51,0.8);border-radius:2px;"><div style="height:4px;width:' + (p[1] / maxd * 100).toFixed(1) + '%;background:var(--accent);border-radius:2px;"></div></div></div>';
+      return '<div style="margin-bottom:4px;"><div style="display:flex;justify-content:space-between;"><span>' + escapeHtml(p[0]) + '</span><span style="font-family:\'IBM Plex Mono\',monospace;color:var(--text-muted);">' + p[1].toLocaleString('en-US') + '</span></div><div style="height:4px;background:rgba(28,35,51,0.8);border-radius:2px;"><div style="height:4px;width:' + (p[1] / maxd * 100).toFixed(1) + '%;background:var(--accent);border-radius:2px;"></div></div></div>';
     }).join('');
   }
   var mc = document.getElementById('fearnFxMonthly');
@@ -44946,7 +44930,7 @@ function renderFearnFxTable() {
   var slice = rows.slice(start, start + PAGE);
   var DEP_COLORS = { BULK: '#e3b341', TANK: '#f778ba', TANKPRO: '#ffa198', LNG: '#8957e5', LPG: '#39c5cf', RoRo: '#7ee787' };
   body.innerHTML = slice.map(function (r) {
-    var rate = (r.r == null || r.r === '' || !isFinite(Number(r.r))) ? '<span style="color:var(--text-muted);">—</span>' : Number(r.r).toLocaleString();
+    var rate = (r.r == null || r.r === '' || !isFinite(Number(r.r))) ? '<span style="color:var(--text-muted);">—</span>' : Number(r.r).toLocaleString('en-US');
     var dc = DEP_COLORS[r.dp] || '#8b949e';
     return '<tr>' +
       '<td class="mono" style="color:var(--text-muted);white-space:nowrap;">' + escapeHtml(r.d || '') + '</td>' +
@@ -44962,7 +44946,7 @@ function renderFearnFxTable() {
       '</tr>';
   }).join('') || '<tr><td colspan="10" style="text-align:center;color:var(--text-muted);padding:14px;">No fixtures match.</td></tr>';
   var count = document.getElementById('fearnFxCount');
-  if (count) count.textContent = rows.length.toLocaleString() + ' of ' + (FDESK.tape ? FDESK.tape.rows.length.toLocaleString() : 0) + ' tape rows';
+  if (count) count.textContent = rows.length.toLocaleString('en-US') + ' of ' + (FDESK.tape ? FDESK.tape.rows.length.toLocaleString('en-US') : 0) + ' tape rows';
   var pager = document.getElementById('fearnFxPager');
   if (pager) pager.innerHTML = 'page ' + (FDESK.fxPage + 1) + '/' + pages + ' <button class="tracking-status-btn" onclick="fearnFxPage(-1)" style="padding:1px 7px;">◀</button> <button class="tracking-status-btn" onclick="fearnFxPage(1)" style="padding:1px 7px;">▶</button>';
 }
@@ -44988,7 +44972,7 @@ function renderFearnMuseum() {
   if (!cache) return;
   var labels = cache.labels, keys = Object.keys(labels);
   var cov = document.getElementById('fearnBrowserCoverage');
-  if (cov && !cov.textContent) cov.textContent = '· ' + cache.meta.labels_cached + ' series / ' + cache.meta.catalog_ids + ' catalog ids · ' + cache.meta.monthly_points.toLocaleString() + ' monthly pts';
+  if (cov && !cov.textContent) cov.textContent = '· ' + cache.meta.labels_cached + ' series / ' + cache.meta.catalog_ids + ' catalog ids · ' + cache.meta.monthly_points.toLocaleString('en-US') + ' monthly pts';
   if (!FDESK.maxym) {
     var fileMax = '0000-00';
     keys.forEach(function (k) { if (labels[k].last > fileMax) fileMax = labels[k].last; });
@@ -45353,7 +45337,7 @@ function loadFearnArchive() {
   chain.then(function () {
     FEARN_STATE.archive.rows.sort(function (a, b) { return a.date < b.date ? 1 : -1; });
     FEARN_STATE.archiveLoading = false;
-    if (btn) btn.textContent = 'Archive: ' + FEARN_STATE.archive.rows.length.toLocaleString() + ' rows';
+    if (btn) btn.textContent = 'Archive: ' + FEARN_STATE.archive.rows.length.toLocaleString('en-US') + ' rows';
     renderFearnVoice();
   });
 }
@@ -45429,7 +45413,7 @@ function renderOffshoreKPIs() {
     const rateEl = document.getElementById(ids.rateId);
     const subEl = document.getElementById(ids.subId);
     if (rateEl) {
-      rateEl.textContent = '£' + Math.round(c.latest_dayrate_gbp || 0).toLocaleString() + ' / d';
+      rateEl.textContent = '£' + Math.round(c.latest_dayrate_gbp || 0).toLocaleString('en-US') + ' / d';
     }
     if (subEl) {
       const yoy = c.yoy_change_pct != null ? (c.yoy_change_pct >= 0 ? '+' : '') + c.yoy_change_pct.toFixed(1) + '%' : '—';
@@ -45672,7 +45656,7 @@ function renderOffshoreMainChart() {
         color: '#7a8494',
         font: { family: 'IBM Plex Mono', size: 10 },
         callback: function(v) {
-          return metric === 'util' ? v + '%' : '£' + Number(v).toLocaleString();
+          return metric === 'util' ? v + '%' : '£' + Number(v).toLocaleString('en-US');
         }
       }
     }
@@ -45718,7 +45702,7 @@ function renderOffshoreMainChart() {
                 return ' ' + item.dataset.label + ': ' + val + '%';
               }
               const valUsd = Math.round(val * 1.28);
-              return ' ' + item.dataset.label + ': £' + Math.round(val).toLocaleString() + ' / d (~$' + valUsd.toLocaleString() + ')';
+              return ' ' + item.dataset.label + ': £' + Math.round(val).toLocaleString('en-US') + ' / d (~$' + valUsd.toLocaleString('en-US') + ')';
             }
           }
         }
@@ -45779,7 +45763,7 @@ function renderOffshoreLedgerTable() {
     const yoy = r.yoy_change_pct != null ? (r.yoy_change_pct >= 0 ? '+' : '') + r.yoy_change_pct.toFixed(1) + '%' : '—';
     const yoyCls = (r.yoy_change_pct || 0) >= 0 ? 'pos' : 'neg';
     const util = r.utilization_pct != null ? r.utilization_pct + '%' : '—';
-    const rangeStr = (r.min_dayrate && r.max_dayrate) ? `£${Math.round(r.min_dayrate).toLocaleString()} – £${Math.round(r.max_dayrate).toLocaleString()}` : '—';
+    const rangeStr = (r.min_dayrate && r.max_dayrate) ? `£${Math.round(r.min_dayrate).toLocaleString('en-US')} – £${Math.round(r.max_dayrate).toLocaleString('en-US')}` : '—';
 
     return `<tr class="offshore-ledger-row" data-tooltip=" " data-tt-type="offshore-ledger-row"
       data-tt-date="${r.date}"
@@ -45794,7 +45778,7 @@ function renderOffshoreLedgerTable() {
         <span style="font-weight:600; color:#fff;">${r.category_name || r.category_key}</span>
         <span style="font-size:10px; color:var(--text-muted); display:block;">${r.type || 'OSV'}</span>
       </td>
-      <td style="font-family:'IBM Plex Mono', monospace; font-weight:700; color:var(--accent);">£${Math.round(r.avg_dayrate).toLocaleString()} / d</td>
+      <td style="font-family:'IBM Plex Mono', monospace; font-weight:700; color:var(--accent);">£${Math.round(r.avg_dayrate).toLocaleString('en-US')} / d</td>
       <td style="font-family:'IBM Plex Mono', monospace; font-size:11px; color:var(--text-muted);">${rangeStr}</td>
       <td class="${yoyCls}" style="font-weight:600; font-family:'IBM Plex Mono', monospace;">${yoy}</td>
       <td>

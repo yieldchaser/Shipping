@@ -99,7 +99,7 @@ def test_fearnleys_frontend_markers():
         "var GRP4 = { LNG: ['LNG_BROKER_2005_BUILT_145KM3_STEAM'",
         "LPG_SPOT_LGC_60_000_CBM'] }",
         "TANK_1_YEAR_T_C_AFRAMAX: 6 }",
-        "Order: GROUP 1 Time-Charter Rates",
+        "archived labels live in the Series Museum only",
     ]:
         assert marker in HTML, marker
 
