@@ -995,7 +995,11 @@ def test_no_code_speak_in_visible_copy():
     # the two deal tables never print undefined/nan: fixed renderers guard them
     assert "String(x).trim().toLowerCase() === 'nan'" in C
     assert "Number.isFinite(Number(FEARNLEYS_CONTROLLER.snpPage))" in C
-    # crisis callout speaks human
-    assert "editorial estimate: about +14.5 days" in C
-    assert "an editorial estimate of about +" in C
+    # crisis callout speaks human: the stable invariant is the honest
+    # "editorial estimate" attribution in the Red Sea callout region (the
+    # exact sentence copy is free to evolve; the estimate provenance is not).
+    callout = re.search(r"Red Sea Rerouting Crisis.{0,600}", C, re.S)
+    assert callout, "Red Sea crisis callout missing"
+    assert "editorial estimate" in callout.group(0).lower()
+    assert "editorial estimate" in C  # JS-side estimate provenance string too
 

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Phase C tracking rebuild tests (2026-09-08).
+"""Phase C tracking rebuild tests (2026-09-08, updated by Phase TU 2026-09-09).
 
 Covers the tracking-tab rebuild markers plus cache-shape honesty checks:
 - chokepoint selector covers all 28 passages from chokepoint_geo_summary.json
-- sector map toggle set matches lineup asset_class values; counts computed live
+- sector map toggle set matches PortWatch measured classes; counts computed live
 - port history reads PortWatch CSV (43 ports) and computes a 5Y same-window baseline
 - Hormuz harvest-coverage note present in-panel (no fabricated corridor context)
-- per-vessel detail honestly discloses absence of voyage-track fields
+- port page + universe browser honestly disclose data sources (Phase TU rebuild)
 - tooltips (data-tt-*) wired on the new controls
 No fabricated data: expectations recomputed from real source rows.
 """
@@ -47,31 +47,31 @@ def test_hormuz_harvest_coverage_note():
     assert horm["avg_7d"] < 15, horm["avg_7d"]
 
 
-def test_sector_toggle_matches_lineup_asset_classes():
-    lineup = pd.read_csv(ROOT / "data" / "geospatial" / "port_lineups_active.csv", usecols=["asset_class"])
-    vals = set(lineup["asset_class"].dropna().unique())
-    assert vals == {"Tankers", "Dry Bulk", "LNG", "LPG"}, vals
+def test_sector_toggle_matches_portwatch_classes():
+    # Phase TU: the sector toggle now follows the PortWatch measured classes
+    # (tanker / dry bulk / container / general cargo / roro) from the expanded
+    # daily feed. Counts are ports with YTD calls in each class, computed live.
+    e = pd.read_csv(ROOT / "data" / "congestion" / "port_calls_daily_expanded.csv",
+                    usecols=["portcalls_tanker", "portcalls_dry_bulk", "portcalls_container",
+                             "portcalls_general_cargo", "portcalls_roro"], nrows=5)
+    for col in e.columns:
+        assert col in HTML, col
     for token in ["setTrackingMapSector('all')", "setTrackingMapSector('Tankers')",
-                  "setTrackingMapSector('Dry Bulk')", "setTrackingMapSector('LNG')",
-                  "setTrackingMapSector('LPG')"]:
+                  "setTrackingMapSector('Dry Bulk')", "setTrackingMapSector('Container')",
+                  "setTrackingMapSector('General Cargo')", "setTrackingMapSector('RoRo')"]:
         assert token in HTML, token
-    # live counts, not hardcoded: helper reads the stats cache built from lineups
+    # live counts, not hardcoded: helper reads the stats cache built from PortWatch
     assert "trackingSectorPortStats()" in HTML and "updateSectorMapCounts" in HTML
     assert "window.__trackingSectorPortStats" in HTML
 
 
-def test_port_vessel_detail_honest_no_track():
-    # per-vessel tooltip/row detail discloses that voyage tracks are absent
-    assert "not in data sources" in HTML
-    assert "tracking-port-vessel-row" in HTML
-    # row-set fields the lineup CSV actually carries
-    for col in ["data-tt-vessel", "data-tt-imo", "data-tt-asset", "data-tt-cargo",
-                "data-tt-waiting", "data-tt-dwt", "data-tt-status", "data-tt-arrival"]:
-        assert col in HTML, col
-    lu = pd.read_csv(ROOT / "data" / "geospatial" / "port_lineups_active.csv", nrows=5)
-    for c in ["port_locode", "portname", "country", "asset_class", "vessel_name", "imo_number",
-              "dwt", "operational_status", "arrival_timestamp", "days_waiting", "cargo_type", "lat", "lon"]:
-        assert c in lu.columns, c
+def test_port_page_honest_disclosures():
+    # Phase TU: the per-vessel lineup surface was removed; the port page carries
+    # measured PortWatch fields and honest omissions instead.
+    assert "openPortPage" in HTML
+    assert "renderPortPageFacts" in HTML
+    # fixtures and voyage views are labeled as reported fixtures, not AIS
+    assert "reported fixture" in HTML
     # no fabricated origin/destination fields invented anywhere for the vessel detail
     assert "data-tt-origin" not in HTML and "data-tt-destination" not in HTML
 
@@ -128,6 +128,11 @@ def test_tooltips_on_new_controls():
     # dynamic data-tt-* bus on the new chrome
     assert 'data-tt-type="tracking-sector-map"' in HTML
     assert 'data-tt-type="portwatch-callout"' in HTML
-    assert 'data-tt-type="tracking-port-vessel-row"' in HTML
+    # Phase TU: the per-vessel lineup rows are gone; the bus now covers the
+    # universe rows, fixture legs, port facts and disruption cards.
+    assert "'universe-port-row'" in HTML
+    assert "'fixture-leg-row'" in HTML
+    assert "'port-facts'" in HTML
+    assert "'disruption-card'" in HTML
     # sector toggle overlay + chokepoint selector container + port history select
     assert 'id="mapSectorToggle"' in HTML and 'id="cpSelectorChips"' in HTML and 'id="phPortSelect"' in HTML

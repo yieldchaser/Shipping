@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Wave-1 tracking tab: builders + frontend wiring.
+"""Wave-1 tracking tab: builders + frontend wiring (updated by Phase TU).
 
 - vessel_leg_economics: latest leg per IMO from the real voyage master,
-  byte-identical re-runs, 100% lineup-IMO coverage.
+  byte-identical re-runs. (The frontend consumer was retired with the synthetic
+  lineup surfaces in Phase TU; the builder itself stays pinned here.)
 - chokepoint summary carries gc/roro sector series for the new buttons.
-- index.html: voyageLegs fetch present; dead sector/tonnage/envelope stores
-  removed; gencargo/roro chart branches + leg tooltip rows present.
+- index.html: Phase TU rebuild markers - universe browser, disruptions feed,
+  fixture voyage view; the dead lineup stores (portLineups / vesselTrajectories /
+  voyageLegs) are gone.
 
 No fabricated data: expectations recomputed from real source rows.
 """
@@ -49,12 +51,6 @@ def test_leg_economics_write_path_idempotent():
         assert legs[sample_imo]["distance_nm"] == round(float(last["distance_nm"]), 1)
         assert legs[sample_imo]["avg_speed_kn"] > 0
 
-    # every lineup IMO resolves (keys share the IMOxxxxxxxx format)
-    lineup = pd.read_csv(ROOT / "data" / "geospatial" / "port_lineups_active.csv",
-                         usecols=["imo_number"])
-    lineup_imos = {str(v).strip() for v in lineup["imo_number"]}
-    assert lineup_imos <= set(legs), lineup_imos - set(legs)
-
     h1 = hashlib.sha256(out.read_bytes()).hexdigest()
     run_script("scripts/geospatial/build_vessel_leg_economics.py")
     assert hashlib.sha256(out.read_bytes()).hexdigest() == h1, "legs re-run changed bytes"
@@ -81,16 +77,23 @@ def test_chokepoint_summary_has_gc_roro_series():
 
 
 def test_tracking_frontend_markers():
+    # Phase TU floor: the rebuilt surfaces are wired; the retired lineup stores
+    # are fully gone.
     for marker in [
-        "fetch('data/derived/vessel_leg_economics.json')",
-        "trackingLiveCounts()", "sortTrackingData(", "toggleTonnageLens()",
-        "r.gc_avg", "r.roro_avg", "data-tt-leg-days", "Anchored Since",
-        "setChokepointMetric('gencargo')", "setChokepointMetric('roro')",
+        "data/geospatial/portwatch_ports_master.csv",
+        "data/congestion/portwatch_disruptions.csv",
+        "data/geospatial/voyage_history_fixturegrounded.csv",
+        "data/congestion/port_calls_daily_expanded.csv",
+        "loadExpandedPortCalls", "renderUniverseTable", "renderDisruptionFeed",
+        "renderVesselTimeline", "setChokepointMetric('gencargo')",
+        "setChokepointMetric('roro')",
     ]:
         assert marker in HTML, marker
     for dead in [
         "chokepoint_sector_monthly.json", "chokepoint_sector_latest.json",
         "portwatch_latest_tonnage.json", "DATA.envelopeMatrix",
         "portwatchTonnageByPort",
+        "DATA.portLineups", "DATA.vesselTrajectories", "DATA.voyageLegs",
+        "fetch('data/derived/vessel_leg_economics.json')",
     ]:
         assert dead not in HTML, f"dead store still wired: {dead}"
