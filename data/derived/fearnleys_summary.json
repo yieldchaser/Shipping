@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T08:16:33.160379Z",
+  "generated_at": "2026-09-09T09:28:11.309395Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
-    "rate_records": 305289,
-    "fixture_records": 540490,
+    "rate_records": 305341,
+    "fixture_records": 540640,
     "snp_records": 2601,
-    "comment_records": 11714
+    "comment_records": 11717
   },
   "tce_benchmarks_56y": {
     "stats": {
@@ -83,27 +83,27 @@
       },
       "suezmax": {
         "label": "Suezmax 1Y",
-        "current": 82500.0,
-        "ath": 85000.0,
-        "ath_date": "2026-03-04",
+        "current": 105000.0,
+        "ath": 105000.0,
+        "ath_date": "2026-09-09",
         "atl": 15000.0,
         "atl_date": "2022-02-14",
-        "pct_56y": 99.5,
-        "avg_5y": 38471.0,
+        "pct_56y": 99.7,
+        "avg_5y": 38812.0,
         "start_year": 2019,
-        "count": 387
+        "count": 388
       },
       "aframax": {
         "label": "Aframax 1Y",
-        "current": 58500.0,
+        "current": 63500.0,
         "ath": 70000.0,
         "ath_date": "2026-04-01",
         "atl": 15000.0,
         "atl_date": "2021-01-18",
-        "pct_56y": 96.4,
-        "avg_5y": 36058.0,
+        "pct_56y": 97.4,
+        "avg_5y": 36238.0,
         "start_year": 2019,
-        "count": 385
+        "count": 386
       }
     },
     "monthly_series": [
@@ -7595,8 +7595,8 @@
         "handysize": 14500,
         "kamsarmax": 23000,
         "vlcc": 130000,
-        "suezmax": 82500,
-        "aframax": 58500
+        "suezmax": 105000,
+        "aframax": 63500
       }
     ]
   },
@@ -18707,12 +18707,12 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 540490,
+    "total_fixtures": 540640,
     "department_totals": {
-      "BULK": 416254,
+      "BULK": 416397,
       "TANKPRO": 65408,
-      "TANK": 44168,
-      "LNG": 8087,
+      "TANK": 44173,
+      "LNG": 8089,
       "LPG": 5698,
       "RoRo": 872
     },
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 191443,
-        "tank": 3372,
-        "gas": 2049,
-        "total": 196913
+        "bulk": 191586,
+        "tank": 3377,
+        "gas": 2051,
+        "total": 197063
       }
     ],
     "top_charterers": [
@@ -18997,7 +18997,7 @@
       {
         "rank": 2,
         "charterer": "SHELL",
-        "fixtures": 2064,
+        "fixtures": 2065,
         "market_share_pct": 0.38,
         "primary_segment": "Suezmax",
         "primary_route": "Global",
@@ -19096,7 +19096,7 @@
       {
         "rank": 13,
         "charterer": "LDC",
-        "fixtures": 1194,
+        "fixtures": 1196,
         "market_share_pct": 0.22,
         "primary_segment": "Panamax",
         "primary_route": "Global",
@@ -19105,7 +19105,7 @@
       {
         "rank": 14,
         "charterer": "FCC",
-        "fixtures": 1099,
+        "fixtures": 1100,
         "market_share_pct": 0.2,
         "primary_segment": "Panamax",
         "primary_route": "Global",
@@ -19141,7 +19141,7 @@
       {
         "rank": 18,
         "charterer": "REFINED SUCCESS",
-        "fixtures": 1046,
+        "fixtures": 1047,
         "market_share_pct": 0.19,
         "primary_segment": "Panamax",
         "primary_route": "Global",
@@ -19168,7 +19168,7 @@
       {
         "rank": 21,
         "charterer": "SAROS SHIPPING",
-        "fixtures": 990,
+        "fixtures": 992,
         "market_share_pct": 0.18,
         "primary_segment": "Panamax",
         "primary_route": "Global",
@@ -19228,7 +19228,55 @@
         "date": "2026-09-09",
         "vessel": "NAN",
         "segment": "Panamax",
-        "charterer": "BHC",
+        "charterer": "A1 CHRTS",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "need geared/grabbed"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "STARVIP",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "No Ukraine - No Russia - No Aden - No cross Atlantic - NO PG/Asia - No SouthAfrica"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "GNS",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "TRY 20 YEARS / MAX 84K DWT"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "MECHANICAL VENTILATION; MAX 20 YRS; MIN 25MT GEAR"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "JINDAL STEEL",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
@@ -19238,7 +19286,67 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "TBN",
+        "vessel": "NAN",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "LSS OCEAN TRANSPORT",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "MAX 42,000 MT; 4X25 MTS GRD /4X10 CBM GRBS; MAX AGE 18 YRS; NEED MINIMUM 9.5 MTRS CRANE OUTREACH FM SHIPSIDE; CHOPT OTHE"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "STARVIP",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "No Ukraine - No Russia - No Aden - No cross Atlantic - NO PG/Asia - No SouthAfrica"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "STARVIP",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "No Ukraine - No Russia - No Aden - No cross Atlantic - NO PG/Asia - No SouthAfrica"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "STARVIP",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "No Ukraine - No Russia - No Aden - No cross Atlantic - NO PG/Asia - No SouthAfrica"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
         "segment": "Panamax",
         "charterer": "NAN",
         "route": "nan",
@@ -19246,7 +19354,511 @@
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "CALLED AUSTRALIA, GRAIN STANDARD. CEMENT HOLES. NON STANCHIONS. DOC 3/5. RIGHTSHIP 3 STAR (3/5 SAFETY SCORE). GHG B. AUS"
+        "comment": "GEARED"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "CELESTE",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "STARVIP",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "No Ukraine - No Russia - No Aden - No cross Atlantic - NO PG/Asia - No SouthAfrica; No Deck cargo allowed; Grain fitted/"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "AVENIR",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "BHLESS (INTENTION COAL)"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "STARVIP",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "No Ukraine - No Russia - No Aden - No cross Atlantic - NO PG/Asia - No SouthAfrica"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "PRT ACE",
+        "segment": "Ultramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "Prefer costal or coal to Indian/Bangladesh range."
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "V ATLAS",
+        "segment": "Supramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "Last 3 cargoes: Fertilizer - present, Steels, Coal. Directions to be excluded: Bangladesh - Australia - GOA"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "CELESTE",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "MECHANICAL VENTILATION; MAX 20 YRS; MIN 25MT GEAR"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "BBC ALBERTA",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "part cargo dir Japan / USEC"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "DIRECT LOCAL CHINESE CHARTERERS",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "try less qty; (Group A, sf abt 0.6 wog); Geared tnng, vsl's gears for loading cgo; Max 25yrs; Fiost 1/1"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "C-INSPIRATION",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "SHORT PERIOD",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "EX SS/DD = GRAIN CLEAN = NO RUS/UKR"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "MINGWAH INTERNATIONAL",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "PREFER FLEXIBLE CANDIDATE; NO IRAN/RUSSIA ETC. SANCTIONED COUNTRIES CALLING HISTORY"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "MINGWAH INTERNATIONAL",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "PREFER FLEXIBLE CANDIDATE; NO IRAN/RUSSIA ETC. SANCTIONED COUNTRIES CALLING HISTORY"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "WOOYANG",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "ABT 70 DAYS WOG"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "REACHY",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "WITH MORE BUNKER PREFER"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "RG RHEA",
+        "segment": "Kamsarmax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "may lift more bunker at disport; LAST DD APR 2025, SILCON PAINT"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "SWEET LYDIA",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "DUAL LL 69999 AMSA COMPLIANT LAST CARGO: COAL/COAL/COAL/COAL/COAL/ COAL/COAL/COAL/COAL/COAL/COAL"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "LIZSTAR LUCKY",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "CHUANG XIN 16",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "CHUANG XIN 6",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "ada"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "QI YUAN 17",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "FU HANG 7",
+        "segment": "Mini-Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "pni covered"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "MACOCEAN SHIPPING",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "DUR ABT : ABT 25-35 DAYS WOG"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "WECO BULK",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "DUR ABT 45-50 DAYS"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "CARAMELLO",
+        "segment": "Capesize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "SAILED LIUHENG ETA SINGAPORE 17 SEP"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "ML SWALLOW",
+        "segment": "Ultramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "FRIEDA",
+        "segment": "Kamsarmax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "NEWBUILD GLESS; DIRECTION RED SEA/MED/BSEA OR EN-ROUTE"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "CARLA C",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "SEANET",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "MIN 30MT GEARS / MAX 25YRS / WOG GENERAL / H'LESS BULK"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "CHITRAL",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "STRONGLY PREFER TRIP TO CHINA & FAREAST DIRECTION. STEEL / DECK - OK. Current Cargo: SLAG"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "JALDHI",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "GEARED/GLESS MAX 20Y; DUR ABT 8-9 DAYS WOG; BOR AS ON BOARD; NO PAKISTANI / CHINESE CREW ON BOARD"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "OCEAN 06",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "HOANG ANH 08",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "HOANG ANH 05",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "HOANG ANH 03",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "HOANG ANH 01",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "HOANG HUY 69",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Handysize",
+        "charterer": "VARAMAR",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "SENECA",
+        "segment": "Kamsarmax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "Singapore 20 - 22 Sep; Taboneo 22 - 24 Sep; Gladstone 29 Sep - 01 Oct; Newcastle 01 - 03 Oct; RBCT 08 - 10 Oct; Santos -"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "FUYUAN",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "PREFER CARGO TO CJK/N.CHINA/KOREA/JAPAN"
       },
       {
         "date": "2026-09-09",
@@ -19322,6 +19934,18 @@
       },
       {
         "date": "2026-09-09",
+        "vessel": "TBN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "CALLED AUSTRALIA, GRAIN STANDARD. CEMENT HOLES. NON STANCHIONS. DOC 3/5. RIGHTSHIP 3 STAR (3/5 SAFETY SCORE). GHG B. AUS"
+      },
+      {
+        "date": "2026-09-09",
         "vessel": "NAN",
         "segment": "Panamax",
         "charterer": "FEDNAV INTERNATIONAL",
@@ -19331,186 +19955,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "MAX BEAM 30.5M, MAX 15 YRS"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "SENECA",
-        "segment": "Kamsarmax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "Singapore 20 - 22 Sep; Taboneo 22 - 24 Sep; Gladstone 29 Sep - 01 Oct; Newcastle 01 - 03 Oct; RBCT 08 - 10 Oct; Santos -"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "AGRIA",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "LAST CARGOES: BAGGED CEMENT (LAST), COAL, UREA, STEELS (EX DD) GRAIN CLEAN"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "JIN AO",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "6-6 MONS",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "STEEL COILS 2*25MT OK, DECK/HATCH OK, NICKEL ORE/BAUXITE OK; WAFR HRA OK; NO RUSSIA/UKRAINE"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "JIN HAI ZHENG",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "KSL TBN",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "OR PASSING FUJAIRAH 17 OCT"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "KSL TBN",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "FUYUAN",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PREFER CARGO TO CJK/N.CHINA/KOREA/JAPAN"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Handysize",
-        "charterer": "VARAMAR",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "DESHINE",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "CO2 FITTED/GRAIN CLEAN/HRA OK"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "HOANG HUY 69",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "HOANG ANH 01",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "HOANG ANH 03",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "HOANG ANH 05",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "HOANG ANH 08",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "OCEAN 06",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
       },
       {
         "date": "2026-09-09",
@@ -19528,18 +19972,6 @@
         "date": "2026-09-09",
         "vessel": "NAN",
         "segment": "Panamax",
-        "charterer": "JALDHI",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "GEARED/GLESS MAX 20Y; DUR ABT 8-9 DAYS WOG; BOR AS ON BOARD; NO PAKISTANI / CHINESE CREW ON BOARD"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
         "charterer": "AKIJ",
         "route": "nan",
         "rate": "nan",
@@ -19547,6 +19979,18 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "max 20 yrs"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "AN HAI CONFIDENCE",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "PREFER A TCT WITH RE-DELIVERY: SINGAPORE – JAPAN RANGE. TRADING AREA: INDIA – JAPAN RANGE (AUSSIE, NEWZ, N. KOREA, RUSSI"
       },
       {
         "date": "2026-09-09",
@@ -19564,6 +20008,42 @@
         "date": "2026-09-09",
         "vessel": "NAN",
         "segment": "Panamax",
+        "charterer": "MOHIT MINERALS",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "need 7 days eta notice on performer; Free da disch port"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "SINMAL SHIPPING",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "SINMAL SHIPPING",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "MAX 15 YEARS"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "PABAL",
+        "segment": "Panamax",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
@@ -19574,31 +20054,31 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "STAR ELENI",
-        "segment": "Newcastlemax",
+        "vessel": "NAN",
+        "segment": "Panamax",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "on 18.52m - sld Lyg 29 Aug; Eta Sal Bay 01 Oct; Eta Tub 11-12 Oct"
+        "comment": "LME UPTO POST PANAMAX, MAX 15 YEARS REDELY MALAYSIA – INDO RANGE"
       },
       {
         "date": "2026-09-09",
-        "vessel": "STAR LYRA",
-        "segment": "Capesize",
+        "vessel": "NAN",
+        "segment": "Panamax",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "on 18.22m - sld CJK 06 Sept; Eta Tub 18 Oct"
+        "comment": "LME UPTO POST PANAMAX, MAX 15 YEARS REDELY MALAYSIA – TAIWAN RANGE"
       },
       {
         "date": "2026-09-09",
-        "vessel": "KSL TBN",
+        "vessel": "TBN",
         "segment": "Supramax",
         "charterer": "NAN",
         "route": "nan",
@@ -19610,15 +20090,63 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "SINGAPORE BULKER",
+        "vessel": "TBN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "PREFER E.MED; CAN TRY SYR; NO RUSSIA/NO UKRAINE/ NO ISRAEL"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "KNOSSOS",
         "segment": "Supramax",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
-        "period": "SHORT PERIOD",
+        "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "LAST 4 CGO: COAL/COAL/STEEL/IORN ORE AND MANGANESE ORE BAGGED CEMENT / BAGGED CLINKER /BAGGED RICE ALLOWED, 2X 25MT OK D"
+        "comment": "ADA"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "ALMAR",
+        "segment": "Supramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "ON 12.676 M SSW"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "THOR PHRASAMUT",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "THOR FRIENDSHIP",
+        "segment": "Supramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
       },
       {
         "date": "2026-09-09",
@@ -19636,354 +20164,6 @@
         "date": "2026-09-09",
         "vessel": "NAN",
         "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "Period: 4+1 +1 months; Trade limits: medsea - china"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "WOOYANG",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "OA ACCEPTABLE, BOR AOB"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "PAN PEGASUS",
-        "segment": "Kamsarmax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "LAST 5 CGO : COAL (CURRENT) / GRAIN / GRAIN / GRAIN / GRAIN; PREF PAC R/V"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "GRAND LADY",
-        "segment": "VLCC",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "Sikka 13/9"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "FRONT NAUSTA",
-        "segment": "VLCC",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "Spore 9/9-Chevron relet"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "VIETNAM PROSPERITY",
-        "segment": "VLCC",
-        "charterer": "VITOL",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "HOUND POINT",
-        "discharge_port": "EAST",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "MRAJ",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "SF : 52-55 CBFT; NOR NOT TO TENDER FROM FRIDAY 18.00 HRS TO MONDAY 09.30 HRS. BENDS; SUB TO FURTHER TERMS & CONDITION"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Ultramax",
-        "charterer": "NORDEN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NORDEN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "BBN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "DURATION 20/30 DWOG"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "3 pcs of RO-RO; Period: 4+1 +1 months; Trade limits: medsea - china"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "FUYUAN",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PREFER CARGO TO CJK/N.CHINA/KOREA/JAPAN"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "FUYUAN",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PREFER CARGO TO CJK/N.CHINA/KOREA/JAPAN"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "3 pcs; Trade limits: medsea - china"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "3 pcs; Period: 4+1 +1 months"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "SPAR CAPELLA",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "LAST CARGOES: MANGANESE ORE (LAST), WHEAT, STEELS, IRON ORE, CLINKER 2X25 MT STEELS - OK DECK/HATCH LOADING - OK BHAUL -"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "3 pcs of RO-RO; Trade limits: medsea - china"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "AURORA",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "VENEZUELA/PALUA OF ORINOCO RIVER PORTS OK COLLECT CGO FR TIANJIN TO CARIBS"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "MOLDY",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PREFERRED FOR DIRECTION RED SEA/MED/BSEA OR EN-ROUTE."
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "SENECA",
-        "segment": "Kamsarmax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "ETA's Singapore 20 - 22 Sep; Taboneo 22 - 24 Sep; Gladstone 29 Sep - 01 Oct; Newcastle 01 - 03 Oct; RBCT 08 - 10 Oct; Sa"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "JADE UNION SHIPPING",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "LOA max 185m; Craned; Boxy/semi-boxy holds; via GOA & Red Sea & Suez; abt 65-70 days"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "LYNUX SHIPPING",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "DURATION ABT 30 DAYS WOG"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "CAPRICORN HONOR",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "RED SEA/GOA/WAF HRA/PG OK, 2*25MT COILS OK, DECK/HATCH OK, PREFER BH"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "BAO CHANG",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "RIGTHSHIP 4 STARS，NO VC DECK & HATCH CGO OK, 2X25 OK"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NSG HONOR",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "DECK/HATCH/2*25 OK GOA OK"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "GOLDEN LEAF",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "DECK/HATCH, DIRTY OK,TRADING JAPAN- INDIA"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "AP ASTAREA",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "RS3,LOW-NORE OK,2*20 DECK HATCH OK,SALT/BGD CEMENT OK PREFER INDO ECI/BDESH ,GO FOR MONEY"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "GANT NEREA",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "LAST CARGOES: GRAINS(ECSA)/COAL/WHEAT/SCRAP/BGD CEMENT GRAIN CLEAN"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "VAN NAVIGATOR",
-        "segment": "Ultramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
         "charterer": "RIAD",
         "route": "nan",
         "rate": "nan",
@@ -19994,103 +20174,7 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "THOR FRIENDSHIP",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "AUSTRALIS",
-        "segment": "VLCC",
-        "charterer": "CNR",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "BRAZIL",
-        "discharge_port": "EAST",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "THOR PHRASAMUT",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "CELESTE",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "BBC ALBERTA",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "part cargo dir Japan / USEC"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "C-INSPIRATION",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "SHORT PERIOD",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "EX SS/DD = GRAIN CLEAN = NO RUS/UKR"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "FRIEDA",
-        "segment": "Kamsarmax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "NEWBUILD GLESS; DIRECTION RED SEA/MED/BSEA OR EN-ROUTE"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "ML SWALLOW",
-        "segment": "Ultramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "CARAMELLO",
+        "vessel": "STAR LYRA",
         "segment": "Capesize",
         "charterer": "NAN",
         "route": "nan",
@@ -20098,7 +20182,19 @@
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "SAILED LIUHENG ETA SINGAPORE 17 SEP"
+        "comment": "on 18.22m - sld CJK 06 Sept; Eta Tub 18 Oct"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "STAR ELENI",
+        "segment": "Newcastlemax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "on 18.52m - sld Lyg 29 Aug; Eta Sal Bay 01 Oct; Eta Tub 11-12 Oct"
       },
       {
         "date": "2026-09-09",
@@ -20111,162 +20207,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "WECO BULK",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "DUR ABT 45-50 DAYS"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "MACOCEAN SHIPPING",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "DUR ABT : ABT 25-35 DAYS WOG"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "FU HANG 7",
-        "segment": "Mini-Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "pni covered"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "QI YUAN 17",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "CHUANG XIN 6",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "ada"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "CHUANG XIN 16",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "LIZSTAR LUCKY",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "SWEET LYDIA",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "DUAL LL 69999 AMSA COMPLIANT LAST CARGO: COAL/COAL/COAL/COAL/COAL/ COAL/COAL/COAL/COAL/COAL/COAL"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "RG RHEA",
-        "segment": "Kamsarmax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "may lift more bunker at disport; LAST DD APR 2025, SILCON PAINT"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "REACHY",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "WITH MORE BUNKER PREFER"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "WOOYANG",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "ABT 70 DAYS WOG"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "MINGWAH INTERNATIONAL",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PREFER FLEXIBLE CANDIDATE; NO IRAN/RUSSIA ETC. SANCTIONED COUNTRIES CALLING HISTORY"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "MINGWAH INTERNATIONAL",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PREFER FLEXIBLE CANDIDATE; NO IRAN/RUSSIA ETC. SANCTIONED COUNTRIES CALLING HISTORY"
       },
       {
         "date": "2026-09-09",
@@ -20279,18 +20219,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "nan"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "CHITRAL",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "STRONGLY PREFER TRIP TO CHINA & FAREAST DIRECTION. STEEL / DECK - OK. Current Cargo: SLAG"
       },
       {
         "date": "2026-09-09",
@@ -20306,7 +20234,43 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "YUAN ZHENG",
+        "vessel": "JIN AO",
+        "segment": "Supramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "6-6 MONS",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "STEEL COILS 2*25MT OK, DECK/HATCH OK, NICKEL ORE/BAUXITE OK; WAFR HRA OK; NO RUSSIA/UKRAINE"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "MIMI",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "NO TCT / VOYAGE BASIS ONLY"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "ROUTE VIA GOA - MAX 25 YO/9,75 MTR DRAFT/MAX 180 MTR LOA; GEARED; SEALING CLS TO APPLY; L/S/D OWS ACCT; NEED MIN 41000 C"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
         "segment": "Panamax",
         "charterer": "NAN",
         "route": "nan",
@@ -20318,7 +20282,67 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "QI HANG",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "LIDOMAR",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "separate or in any combination"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "AQUAVITA JOURNEY",
+        "segment": "Kamsarmax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "Passing Spore 10 Sept, ETA ECSA 9-11 Oct uce"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "NAN",
+        "segment": "Ultramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "MAX 20 YEARS; DUR 30~40 DAYS WOG"
+      },
+      {
+        "date": "2026-09-09",
+        "vessel": "WILSON DAVANGER",
         "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
@@ -20330,8 +20354,8 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "TRAWIND SHANGHAI",
-        "segment": "Panamax",
+        "vessel": "WILSON BRUGGE",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
@@ -20342,8 +20366,8 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "TRAWIND SILVIA",
-        "segment": "Panamax",
+        "vessel": "WILSON HOOK",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
@@ -20354,8 +20378,8 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "TRAWIND GLORY",
-        "segment": "Handysize",
+        "vessel": "WILSON SKY",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
@@ -20366,8 +20390,8 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "TRAWIND VISION",
-        "segment": "Handysize",
+        "vessel": "WILSON DUISBURG",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
@@ -20378,39 +20402,15 @@
       },
       {
         "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
+        "vessel": "WILSON NORTH",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "MECHANICAL VENTILATION; MAX 20 YRS; MIN 25MT GEAR"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "GNS",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "TRY 20 YEARS / MAX 84K DWT"
-      },
-      {
-        "date": "2026-09-09",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "MECHANICAL VENTILATION; MAX 20 YRS; MIN 25MT GEAR"
+        "comment": "nan"
       }
     ]
   },
@@ -22375,8 +22375,29 @@
     ]
   },
   "broker_sentiment": {
-    "total_comments": 11714,
+    "total_comments": 11717,
     "recent_comments": [
+      {
+        "date": "2026-09-09",
+        "type": "Suezmax Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "Suezmax Weekly Comment",
+        "text": "* The majority of the publicly reported WAF cargoes have either fixed away or may have relets to utilise. As a result, we are likely pushing into the 27-30 September fixing window.  * However, despite this shift towards fixing closer to three weeks forward, there is little expect"
+      },
+      {
+        "date": "2026-09-09",
+        "type": "VLCC Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "VLCC Weekly Comment",
+        "text": "The VLCC positions list is now so tight that no one would be too surprised if we see the W400 mark breached for a Fujairah/east for a prompt-ish position before the week is over, crazy as it may sound. Speed blindness does not even begin to describe the current mood. However, the"
+      },
+      {
+        "date": "2026-09-09",
+        "type": "Aframax Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "Aframax Weekly Comment",
+        "text": "As North Sea Aframax loading dates are now moving into the third decade of September, the list of available tonnage continues to thin. With neighbouring markets such as the US Gulf and Mediterranean offering attractive alternatives, owners are increasingly ballasting away from th"
+      },
       {
         "date": "2026-09-04",
         "type": "SnP Weekly Comment",
@@ -22400,6 +22421,34 @@
       },
       {
         "date": "2026-09-02",
+        "type": "Suezmax Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "Suezmax Weekly Comment",
+        "text": "Despite Suezmaxes regaining competitiveness against VLCCs following last week’s sharp correction, a front-heavy tonnage list and muted activity have continued to weigh on the rates in West Africa. Meanwhile, Aframaxes remain firmly in the driving seat across the Atlantic. That sa"
+      },
+      {
+        "date": "2026-09-02",
+        "type": "Aframax Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "Aframax Weekly Comment",
+        "text": "North Sea After a long weekend activity has been slow on the pick up. Natural dates 8-10 window but with a number of relets around and stems a little thin charterers are able to take their time. US market looks to have bottomed and with Mediterranean market looking softer we may"
+      },
+      {
+        "date": "2026-09-02",
+        "type": "Capesize Weekly Comment",
+        "subtype": "Dry Bulk Weekly Comment",
+        "name": "Capesize Weekly Comment",
+        "text": "Capesize is heating up across all segments, with both C3 and C5 trade routes posting some of the highest numbers seen this year. Last done on C3 Brazil/China today was seen at USD 40.9, setting a new benchmark which hasn't been seen since the peak of 2021. FFAs are up for the com"
+      },
+      {
+        "date": "2026-09-02",
+        "type": "Supramax Weekly Comment",
+        "subtype": "Dry Bulk Weekly Comment",
+        "name": "Supramax Weekly Comment",
+        "text": "The Supramax market remained mixed and largely directionless, with activity picking up selectively across both the Atlantic and Asia. The Atlantic saw pockets of strength, particularly around the USG and South Atlantic, supported by steady demand for grains, petcoke and minor bul"
+      },
+      {
+        "date": "2026-09-02",
         "type": "LNG Market Report",
         "subtype": "Market Commentary",
         "name": "LNG Market Report",
@@ -22414,38 +22463,10 @@
       },
       {
         "date": "2026-09-02",
-        "type": "Supramax Weekly Comment",
-        "subtype": "Dry Bulk Weekly Comment",
-        "name": "Supramax Weekly Comment",
-        "text": "The Supramax market remained mixed and largely directionless, with activity picking up selectively across both the Atlantic and Asia. The Atlantic saw pockets of strength, particularly around the USG and South Atlantic, supported by steady demand for grains, petcoke and minor bul"
-      },
-      {
-        "date": "2026-09-02",
         "type": "VLCC Weekly Comment",
         "subtype": "Tank Weekly Comment",
         "name": "VLCC Weekly Comment",
         "text": "The situation in the Strait of Hormuz is becoming more precarious by the hour as the US-Iran conflict has intensified again. Several tankers have been hit, and reports suggest that a fully laden VLCC has been abandoned by its crew. The possibility of a major oil spill would of co"
-      },
-      {
-        "date": "2026-09-02",
-        "type": "Aframax Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "Aframax Weekly Comment",
-        "text": "North Sea After a long weekend activity has been slow on the pick up. Natural dates 8-10 window but with a number of relets around and stems a little thin charterers are able to take their time. US market looks to have bottomed and with Mediterranean market looking softer we may"
-      },
-      {
-        "date": "2026-09-02",
-        "type": "Suezmax Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "Suezmax Weekly Comment",
-        "text": "Despite Suezmaxes regaining competitiveness against VLCCs following last week’s sharp correction, a front-heavy tonnage list and muted activity have continued to weigh on the rates in West Africa. Meanwhile, Aframaxes remain firmly in the driving seat across the Atlantic. That sa"
-      },
-      {
-        "date": "2026-09-02",
-        "type": "Capesize Weekly Comment",
-        "subtype": "Dry Bulk Weekly Comment",
-        "name": "Capesize Weekly Comment",
-        "text": "Capesize is heating up across all segments, with both C3 and C5 trade routes posting some of the highest numbers seen this year. Last done on C3 Brazil/China today was seen at USD 40.9, setting a new benchmark which hasn't been seen since the peak of 2021. FFAs are up for the com"
       },
       {
         "date": "2026-08-28",
@@ -22470,10 +22491,17 @@
       },
       {
         "date": "2026-08-26",
-        "type": "VLCC Weekly Comment",
+        "type": "Aframax Weekly Comment",
         "subtype": "Tank Weekly Comment",
-        "name": "VLCC Weekly Comment",
-        "text": "No material change in the VLCC market, still strong by any measure. However, there are signs which could suggest it’s levelling out, which would not be too surprising. Risk/reward does start to play a part at these historically high levels – how much to push? Is another couple of"
+        "name": "Aframax Weekly Comment",
+        "text": "North Sea After the large number of vessels we have seen ballast towards the US the North Sea list has been left with a reduced number of natural candidates for North Sea business. Dates have pushed into early September with rates picking. The flow of tonnage leaving for the US i"
+      },
+      {
+        "date": "2026-08-26",
+        "type": "Capesize Weekly Comment",
+        "subtype": "Dry Bulk Weekly Comment",
+        "name": "Capesize Weekly Comment",
+        "text": "This week on Capesize we saw strong demand from Pacific C5 as three majors were seen in the market alongside a healthy showing of supportive operators. Recent bids seen at mid to high USD 15 levels and today a Newcastlemax fixed at low USD 15 C5 equivalent. Ballasters are looking"
       },
       {
         "date": "2026-08-26",
@@ -22484,13 +22512,6 @@
       },
       {
         "date": "2026-08-26",
-        "type": "Aframax Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "Aframax Weekly Comment",
-        "text": "North Sea After the large number of vessels we have seen ballast towards the US the North Sea list has been left with a reduced number of natural candidates for North Sea business. Dates have pushed into early September with rates picking. The flow of tonnage leaving for the US i"
-      },
-      {
-        "date": "2026-08-26",
         "type": "Panamax Weekly Comment",
         "subtype": "Dry Bulk Weekly Comment",
         "name": "Panamax Weekly Comment",
@@ -22498,10 +22519,17 @@
       },
       {
         "date": "2026-08-26",
-        "type": "Capesize Weekly Comment",
-        "subtype": "Dry Bulk Weekly Comment",
-        "name": "Capesize Weekly Comment",
-        "text": "This week on Capesize we saw strong demand from Pacific C5 as three majors were seen in the market alongside a healthy showing of supportive operators. Recent bids seen at mid to high USD 15 levels and today a Newcastlemax fixed at low USD 15 C5 equivalent. Ballasters are looking"
+        "type": "Suezmax Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "Suezmax Weekly Comment",
+        "text": "There has been reasonable activity to start the week. However, the market remains very much oversupplied, with 17 FOC and 7 ETS 5 day window ETA West Africa by 10 September. On the flip side, there are plenty of cargoes to move in the second decade from both Guyana and West Afric"
+      },
+      {
+        "date": "2026-08-26",
+        "type": "VLCC Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "VLCC Weekly Comment",
+        "text": "No material change in the VLCC market, still strong by any measure. However, there are signs which could suggest it’s levelling out, which would not be too surprising. Risk/reward does start to play a part at these historically high levels – how much to push? Is another couple of"
       },
       {
         "date": "2026-08-26",
@@ -22516,13 +22544,6 @@
         "subtype": "Newbuilding",
         "name": "LNG Activity",
         "text": "Slow"
-      },
-      {
-        "date": "2026-08-26",
-        "type": "Suezmax Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "Suezmax Weekly Comment",
-        "text": "There has been reasonable activity to start the week. However, the market remains very much oversupplied, with 17 FOC and 7 ETS 5 day window ETA West Africa by 10 September. On the flip side, there are plenty of cargoes to move in the second decade from both Guyana and West Afric"
       },
       {
         "date": "2026-08-21",
@@ -22540,24 +22561,17 @@
       },
       {
         "date": "2026-08-20",
-        "type": "Tank Activity",
-        "subtype": "Newbuilding",
-        "name": "Tank Activity",
-        "text": "Strong"
-      },
-      {
-        "date": "2026-08-20",
         "type": "Dry Bulk Activity",
         "subtype": "Newbuilding",
         "name": "Dry Bulk Activity",
         "text": "Increasing"
       },
       {
-        "date": "2026-08-19",
-        "type": "VLCC Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "VLCC Weekly Comment",
-        "text": "We’re in “stop the press” territory now with VLCC rates galloping in all areas in tandem with the Suez- and Aframax segments. In the Atlantic we saw a stonking WS 197.5 fixture Brazil/China yesterday, up from a WS 182.5 just done a bit earlier! An unconfirmed report suggests WS 2"
+        "date": "2026-08-20",
+        "type": "Tank Activity",
+        "subtype": "Newbuilding",
+        "name": "Tank Activity",
+        "text": "Strong"
       },
       {
         "date": "2026-08-19",
@@ -22572,6 +22586,13 @@
         "subtype": "Dry Bulk Weekly Comment",
         "name": "Supramax Weekly Comment",
         "text": "Supramax market remained broadly steady, with limited movement across most regions and only modest gains in the Atlantic. The Continent and Mediterranean continue to face pressure due to ample tonnage and limited fresh cargo input, while the South Atlantic remains more balanced b"
+      },
+      {
+        "date": "2026-08-19",
+        "type": "VLCC Weekly Comment",
+        "subtype": "Tank Weekly Comment",
+        "name": "VLCC Weekly Comment",
+        "text": "We’re in “stop the press” territory now with VLCC rates galloping in all areas in tandem with the Suez- and Aframax segments. In the Atlantic we saw a stonking WS 197.5 fixture Brazil/China yesterday, up from a WS 182.5 just done a bit earlier! An unconfirmed report suggests WS 2"
       },
       {
         "date": "2026-08-19",
@@ -22603,17 +22624,17 @@
       },
       {
         "date": "2026-08-14",
-        "type": "SnP Weekly Comment",
-        "subtype": "Market Commentary",
-        "name": "SnP Weekly Comment",
-        "text": "Nothing quite sums up the current value environment quite like the sale of 2-year-old scrubber fitted Suezmax BRISTOL (157k dwt Hyundai Samho 2024) at USD 123M. This figure sees former owners CMB.Tech banking a gain of USD 56.9M on the asset it purchased in 2021 at a reported tot"
-      },
-      {
-        "date": "2026-08-14",
         "type": "Chartering Weekly Comment",
         "subtype": "Market Commentary",
         "name": "Chartering Weekly Comment",
         "text": "WEST Activity has picked up compared to last week, with several fixtures reported after a quieter run. The near-term list remains tight and heavily relet-dependent, with positions stacking up as follows: 2 ships last decade August, 1 first decade September, 6 second decade Septem"
+      },
+      {
+        "date": "2026-08-14",
+        "type": "SnP Weekly Comment",
+        "subtype": "Market Commentary",
+        "name": "SnP Weekly Comment",
+        "text": "Nothing quite sums up the current value environment quite like the sale of 2-year-old scrubber fitted Suezmax BRISTOL (157k dwt Hyundai Samho 2024) at USD 123M. This figure sees former owners CMB.Tech banking a gain of USD 56.9M on the asset it purchased in 2021 at a reported tot"
       },
       {
         "date": "2026-08-13",
@@ -22624,24 +22645,10 @@
       },
       {
         "date": "2026-08-12",
-        "type": "VLCC Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "VLCC Weekly Comment",
-        "text": "There’s no lack of VLCC activity judging from a long list of ships reported fixed or on subs. Details of which are few and far in between, these days motivated further not wanting to advertise to hostile elements where and when the ship in question will be appearing in the wider"
-      },
-      {
-        "date": "2026-08-12",
-        "type": "Suezmax Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "Suezmax Weekly Comment",
-        "text": "Activity continues to build across August and September dates in the West. While vessel availability remains reasonable on paper, the tonnage to cargo ratio continues to tighten, strengthening owners’ leverage and limiting their willingness to move first. In addition, September C"
-      },
-      {
-        "date": "2026-08-12",
-        "type": "Aframax Weekly Comment",
-        "subtype": "Tank Weekly Comment",
-        "name": "Aframax Weekly Comment",
-        "text": "North Sea The stems through the 2nd decade have been depleted for Aframaxes with some Suezmax activity and a few relets in the mix. With a limited amount of fixtures the market has steadily fallen over the last week by around 20 points. US markets are strengthening and pulling to"
+        "type": "Supramax Weekly Comment",
+        "subtype": "Dry Bulk Weekly Comment",
+        "name": "Supramax Weekly Comment",
+        "text": "The Supramax market began the week on a subdued note, with limited fresh activity and sentiment generally steady across most regions. The Atlantic showed signs of increased enquiry, particularly in the Mediterranean, although a widening gap between bids and offers and softer near"
       },
       {
         "date": "2026-08-12",
@@ -22649,13 +22656,6 @@
         "subtype": "Dry Bulk Weekly Comment",
         "name": "Panamax Weekly Comment",
         "text": "The Panamax market has held a constructive tone through the week, with the index grinding higher after a brief pause mid-week and both basins now pointing in the same direction. The Atlantic remains led by the fronthaul, where steady South American and Black Sea grain programmes"
-      },
-      {
-        "date": "2026-08-12",
-        "type": "Capesize Weekly Comment",
-        "subtype": "Dry Bulk Weekly Comment",
-        "name": "Capesize Weekly Comment",
-        "text": "This week in the Capesize market we see the lowest tonnage congestion in China following Typhoon Dolphin. The typhoon hit the coast of China later last week and has since weakened, moving inland. Ballasters heading for Brazil on C3 (Brazil/China) were welcomed to a fresh injectio"
       }
     ]
   }
