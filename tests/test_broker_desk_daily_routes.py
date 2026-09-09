@@ -342,8 +342,11 @@ def test_fixture_caches_match_real_files_when_present():
         pytest.skip("tanker daily cache not built yet")
     real = json.loads(TANKER_JSON.read_text(encoding="utf-8"))
     mv = real["series"]["TANK_VLCC_MEG_FEAST"]
-    assert mv["pts"][-1] == [1788825600000, 700]
-    assert mv["pts"][-2] == [1788739200000, 660]
+    # Floor + recency, never equality: the daily harvest appends new prints,
+    # so the tail moves every day (was [2026-09-08, 700] at snapshot time).
+    assert mv["pts"][-1][0] >= 1788825600000  # on/after 2026-09-08
+    assert mv["pts"][-2][0] < mv["pts"][-1][0]  # strictly chronological tail
+    assert isinstance(mv["pts"][-1][1], (int, float)) and mv["pts"][-1][1] > 0
     frozen = real["series"]["TANK_VLCC_MEG_FEAST_TCE"]
     assert frozen["last"] == "2023-04-25"
     if DRY_JSON.exists():
