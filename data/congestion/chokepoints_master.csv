@@ -1,0 +1,29 @@
+portid,portname,country,ISO3,continent,fullname,lat,lon,vessel_count_total,vessel_count_container,vessel_count_dry_bulk,vessel_count_general_cargo,vessel_count_RoRo,vessel_count_tanker,industry_top1,industry_top2,industry_top3,share_country_maritime_import,share_country_maritime_export,LOCODE,pageid,countrynoaccents,ObjectId
+chokepoint1,Suez Canal,,,,Suez Canal,30.59334599,32.43688221,19787,5513,5222,1868,766,6418,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,c57c79bf612b4372b08a9c6ea9c97ef0,,1
+chokepoint2,Panama Canal,,,,Panama Canal,9.120512367,-79.76723825,11020,2712,2412,619,770,4507,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,44d73fd00bbc4f73a16d46d5beb11b4d,,2
+chokepoint3,Bosporus Strait,,,,Bosporus Strait,41.16928167,29.09150126,35125,3015,8058,15233,264,8555,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,837f298c756a4efd85e3fabe31e319ac,,3
+chokepoint4,Bab el-Mandeb Strait,,,,Bab el-Mandeb Strait,12.78859715,43.34954476,19306,5062,5228,1688,904,6424,Mineral Products,Chemical & Allied Industries,Vegetable Products,,,,6b1814d64903461b98144a6cc25eb79c,,4
+chokepoint5,Malacca Strait,,,,Malacca Strait,1.516954817,102.6651061,71451,18154,18336,5236,2256,27469,Mineral Products,Chemical & Allied Industries,Vegetable Products,,,,5f51a0d85ac44a6bad02561e25899c4a,,5
+chokepoint6,Strait of Hormuz,,,,Strait of Hormuz,26.29685349,56.85984844,32496,5274,5414,1412,856,19540,Mineral Products,Chemical & Allied Industries,Vegetable Products,,,,cb5856222a5b4105adc6ee7e880a1730,,6
+chokepoint7,Cape of Good Hope,,,,Cape of Good Hope,-34.92728556,20.88273666,21531,3493,11736,968,628,4706,Mineral Products,Vegetable Products,Prepared Foodstuffs & Beverages,,,,edf18f455a2b4637a3632b6af201abe9,,7
+chokepoint8,Gibraltar Strait,,,,Gibraltar Strait,35.94227416,-5.754895722,47801,11698,10466,8088,1883,15666,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,d2b71882a70449288ee9bd15421d2aa9,,8
+chokepoint9,Dover Strait,,,,Dover Strait,51.03022414,1.505839717,60580,12535,8224,14577,4118,21126,Mineral Products,Chemical & Allied Industries,Vegetable Products,,,,34a9c079e9e14b19a1ca9f218f368d12,,9
+chokepoint10,Oresund Strait,,,,Oresund Strait,55.50784043,12.85079477,17833,2135,2248,7962,1170,4318,Mineral Products,Wood & Wood Products,Chemical & Allied Industries,,,,65ec417b135745d0924b2c0d68649d1a,,10
+chokepoint11,Taiwan Strait,,,,Taiwan Strait,24.72350972,119.8313644,88436,31190,23626,10901,2313,20406,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,e3001146dc5c4666bb36d5024f4389a7,,11
+chokepoint12,Korea Strait,,,,Korea Strait,34.13076811,129.209206,82119,20682,15163,20256,3286,22732,Mineral Products,Vegetable Products,Metals,,,,3adbfe51b53e42e48ef5ece5a3bb12a9,,12
+chokepoint13,Tsugaru Strait,,,,Tsugaru Strait,41.32803599,140.3532743,16440,3867,4907,2505,718,4443,Mineral Products,Vegetable Products,Metals,,,,5b5450a9b33b4e57952e2dff890be7ad,,13
+chokepoint14,Luzon Strait,,,,Luzon Strait,20.488890710794,121.352295045579,25748,2438,11846,1616,898,8950,Mineral Products,Vegetable Products,Wood & Wood Products,,,,7eaad0054dad4ae7acdae2d86c612fbe,,14
+chokepoint15,Lombok Strait,,,,Lombok Strait,-8.41914514129252,115.801433044024,12918,70,9566,571,95,2616,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,152bef5391ca44e8af7b102c966daf87,,15
+chokepoint16,Ombai Strait,,,,Ombai Strait,-8.39854120024364,125.090981399512,4084,476,1848,354,51,1355,Mineral Products,Chemical & Allied Industries,Prepared Foodstuffs & Beverages,,,,201f4309e3694ad789ad35266c7fda62,,16
+chokepoint17,Bohai Strait,,,,Bohai Strait,38.373044249766,120.900049176636,64100,7801,34891,7202,916,13290,Mineral Products,Metals,Vegetable Products,,,,cf77151f98b641769ee4a2df13cc6d57,,17
+chokepoint18,Torres Strait,,,,Torres Strait,-9.86253413199954,142.247528743501,3308,540,1570,365,94,739,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,62e6baba51d54fc6887b598f62358912,,18
+chokepoint19,Sunda Strait,,,,Sunda Strait,-5.96684057041462,105.775219888066,10393,1141,3873,1088,222,4069,Mineral Products,Vegetable Products,Prepared Foodstuffs & Beverages,,,,47dbeae6b75e438b88c92b4c3c495f07,,19
+chokepoint20,Makassar Strait,,,,Makassar Strait,0.352280586988657,119.257065444388,19117,722,15616,826,44,1909,Mineral Products,Vegetable Products,Prepared Foodstuffs & Beverages,,,,01be21ec85b448689f4c0e5d623715ec,,20
+chokepoint21,Magellan Strait,,,,Magellan Strait,-52.6403396677892,-69.5948324606974,1426,110,790,100,67,359,Mineral Products,Vegetable Products,Prepared Foodstuffs & Beverages,,,,32a8deea4def480790d78fcfb5f6dff4,,21
+chokepoint22,Yucatan Channel,,,,Yucatan Channel,21.8152541926988,-85.6472792223515,16416,3346,2915,1406,347,8402,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,b028745615454909bde67aa947502c90,,22
+chokepoint23,Windward Passage,,,,Windward Passage,19.9861871932071,-73.6975398964955,5600,2696,691,843,604,766,Mineral Products,Vegetable Products,Wood & Wood Products,,,,b5759986427c4b1abf2b5da5a9ddf066,,23
+chokepoint24,Mona Passage,,,,Mona Passage,18.4487355684237,-67.7113544869163,3714,1230,913,439,233,899,Mineral Products,Vegetable Products,Chemical & Allied Industries,,,,214b7be27e78457f89a01cfa2c794900,,24
+chokepoint25,Balabac Strait,,,,Balabac Strait,7.413614993177675,117.11462168266297,3794,337,1694,463,14,1286,,,,,,,b7d8909b058749da808d519942087890,,25
+chokepoint26,Bering Strait,,,,Bering Strait,65.96648859155934,-165.54982861145731,294,23,51,89,3,128,,,,,,,1707bd5d6a21481ab8c6b98ab4ed412c,,26
+chokepoint27,Mindoro Strait,,,,Mindoro Strait,12.468315371959248,120.40342787801248,16493,584,13455,1086,34,1334,,,,,,,7fdc7d8c9da1447bb2968f55c58b025c,,27
+chokepoint28,Kerch Strait,,,,Kerch Strait,45.26676309041701,36.54390169965004,10390,64,527,7163,77,2559,,,,,,,0f7ba54d142e48ea98f8b70a159cd6ae,,28
