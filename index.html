@@ -17091,7 +17091,20 @@ if (intelTabsContainer) {
           var left = 2;
           var fin = function () { if (--left <= 0) {
             try {
-              if (DATA.loaded && typeof renderFearnleysTab === 'function') renderFearnleysTab();
+              // First arrival: render the desk. Refreshes: do NOT clobber user state by
+              // re-rendering the whole section (that reset the open chart + klass and rebound
+              // the sliders to the default series = frozen-canvas / stats-mismatch bugs);
+              // instead refresh only the open daily-route chart views.
+              if (DATA.loaded && typeof renderFearnleysTab === 'function') {
+                if (!window.__fearnDeskRendered) {
+                  window.__fearnDeskRendered = true;
+                  renderFearnleysTab();
+                } else if (typeof FDESK !== 'undefined' && FDESK.tankRoute && typeof drawFearnTankChart === 'function') {
+                  drawFearnTankChart();
+                } else if (typeof FDESK !== 'undefined' && FDESK.dryRoute && typeof drawFearnDryChart === 'function') {
+                  drawFearnDryChart();
+                }
+              }
             } catch (e) { console.warn('[fearn daily refresh]', e); }
           } };
           var tankerRoutesDailyPromise = fetch('data/derived/fearnleys_tanker_routes_daily.json').then(res => res.ok ? res.json() : null);
@@ -43921,9 +43934,13 @@ function fearnRangeInit(prefix, key, rows, onApply) {
   var isoOf = function (r) { return r.ms != null ? fearnEpochToIso(r.ms) : r.ym; };
   var winStartMs = function (mode) {
     var last = dateOf(rows[maxIdx]);
-    if (mode === 'max') return -Infinity;
-    if (mode === 'ytd') return Date.UTC(new Date(last).getUTCFullYear(), 0, 1);
-    return last - (FDESK_WIN_DEFS.filter(function (d) { return d[0] === mode; })[0] || ['1Y', 365])[1] * 86400000;
+    var m = (mode == null) ? '' : String(mode);
+    var mLow = m.toLowerCase();
+    if (mLow === 'max') return -Infinity;
+    if (mLow === 'ytd') return Date.UTC(new Date(last).getUTCFullYear(), 0, 1);
+    var def = FDESK_WIN_DEFS.filter(function (d) { return d[0].toLowerCase() === mLow && typeof d[1] === 'number'; })[0];
+    if (!def) return -Infinity; // unknown mode: fall back to the full range, never a degenerate window
+    return last - def[1] * 86400000;
   };
   var idxForMs = function (ms, fromEnd) {
     if (ms === -Infinity) return 0;
@@ -43962,6 +43979,8 @@ function fearnRangeInit(prefix, key, rows, onApply) {
       labelEl.textContent = sd + ' -> ' + ed + ' (' + (e - s + 1) + ' prints)';
     }
     cur.s = s; cur.e = e;
+    st.sMs = rows[s] ? dateOf(rows[s]) : null;
+    st.eMs = rows[e] ? dateOf(rows[e]) : null;
     onApply(s, e);
   };
   var setWin = function (mode, keepE) {
@@ -43976,18 +43995,23 @@ function fearnRangeInit(prefix, key, rows, onApply) {
     apply();
   };
   window['_' + prefix + 'SetWin'] = setWin;
-  if (startEl._fearnRangeBound) { return; }
-  startEl._fearnRangeBound = true;
-  startEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
-  endEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
-  // First call (or re-render): re-apply the remembered window on the new rows
-  if (st.s != null && st.mode === 'custom') {
+  // Rebind-safe: replace prior event listeners on cache refresh (closures must point at the
+  // FRESH rows/apply, never a stale first-bind snapshot - the stale snapshot froze canvases
+  // and produced degenerate '1 print' windows after the daily harvest appended a print).
+  if (!startEl._fearnRangeBound) {
+    startEl._fearnRangeBound = true;
+    startEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
+    endEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
+  }
+  // Persist the window as MS bounds (index-stable across cache growth) and always re-apply:
+  if (st.sMs != null && st.eMs != null) {
     var s2 = 0, e2 = maxIdx, found = false;
-    for (var i = 0; i <= maxIdx; i++) { if (dateOf(rows[i]) >= st.s) { s2 = i; found = true; break; } }
-    for (var i2 = maxIdx; i2 >= 0; i2--) { if (dateOf(rows[i2]) <= st.e) { e2 = i2; break; } }
-    if (found) { startEl.value = s2; endEl.value = e2; }
-    syncButtons('custom');
-    apply();
+    for (var i = 0; i <= maxIdx; i++) { if (dateOf(rows[i]) >= st.sMs) { s2 = i; found = true; break; } }
+    for (var i2 = maxIdx; i2 >= 0; i2--) { if (dateOf(rows[i2]) <= st.eMs) { e2 = i2; break; } }
+    if (found && e2 >= s2) { startEl.value = s2; endEl.value = e2; }
+    else { startEl.value = 0; endEl.value = maxIdx; }
+    if (st.mode === 'custom') { syncButtons('custom'); apply(); }
+    else { setWin(st.mode || '1Y'); }
   } else {
     setWin(st.mode || '1Y');
   }

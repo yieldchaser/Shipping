@@ -1003,3 +1003,18 @@ def test_no_code_speak_in_visible_copy():
     assert "editorial estimate" in callout.group(0).lower()
     assert "editorial estimate" in C  # JS-side estimate provenance string too
 
+# ------------------------------------------------- Slider window regression (user-shipped bug)
+def test_slider_win_defs_case_insensitive_and_total_modes():
+    """FDESK_WIN_DEFS modes ('Max','YTD','1M'...) must resolve in winStartMs regardless of case;
+    unknown modes fall back to the full range, never a degenerate 1-print window (Max collapsed
+    to '2026-09-09 -> 2026-09-09 (1 prints)' on production because winStartMs compared lowercase)."""
+    C = HTML.read_text(encoding="utf-8")
+    m = re.search(r"var winStartMs = function \(mode\) \{[\s\S]*?\n  \};", C)
+    assert m, "winStartMs not found"
+    fn = m.group(0)
+    assert "toLowerCase()" in fn, "winStartMs must normalize mode case"
+    assert "if (!def) return -Infinity" in fn, "unknown mode must fall back to full range"
+    # the slider rebind must not early-return on cache refresh (stale closures froze the canvas)
+    assert "Rebind-safe" in C, "fearnRangeInit must rebind closures on refresh"
+    # cache refresh must not clobber the desk (frozen canvas + stats mismatch)
+    assert "__fearnDeskRendered" in C, "first-arrival render guard present"
