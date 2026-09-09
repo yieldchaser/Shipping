@@ -93,6 +93,57 @@ def write_fixture_csv(path):
          "MEG Fixture Count", "usd", "2026-09-01", "74"],
         ["COUNTS_BROKER_MEG_FIXTURE_COUNT", "counts", "BROKER",
          "MEG Fixture Count", "usd", "2026-08-01", "128"],
+        # --- WS-to-TCE continuation fixtures --------------------------------
+        # TEST/R: tce = 100 + 500*ws exactly (R2 = 1) → derived series emitted.
+        # tce=0 at 04-22 is debris (fit excludes it, real pt preserved).
+        # ws continues to 04-28; ws=0 at 04-29 is debris (no continuation pt).
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-20", "40"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-21", "41"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-22", "42"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-23", "43"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-24", "44"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-25", "45"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-26", "46"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-27", "47"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-28", "48"],
+        ["TANK_VLCC_TEST_R", "TANK", "VLCC", "TEST/R", "ws", "2023-04-29", "0"],
+        ["TANK_VLCC_TEST_R_TCE", "TANK", "VLCC", "TEST/R", "tce",
+         "2023-04-20", "20100"],
+        ["TANK_VLCC_TEST_R_TCE", "TANK", "VLCC", "TEST/R", "tce",
+         "2023-04-21", "20600"],
+        ["TANK_VLCC_TEST_R_TCE", "TANK", "VLCC", "TEST/R", "tce",
+         "2023-04-22", "0"],
+        ["TANK_VLCC_TEST_R_TCE", "TANK", "VLCC", "TEST/R", "tce",
+         "2023-04-23", "21600"],
+        ["TANK_VLCC_TEST_R_TCE", "TANK", "VLCC", "TEST/R", "tce",
+         "2023-04-24", "22100"],
+        ["TANK_VLCC_TEST_R_TCE", "TANK", "VLCC", "TEST/R", "tce",
+         "2023-04-25", "22600"],
+        # TEST/BAD: tce oscillates against ws (R2 << 0.90) → skipped with reason
+        ["TANK_VLCC_TEST_BAD", "TANK", "VLCC", "TEST/BAD", "ws",
+         "2023-04-20", "40"],
+        ["TANK_VLCC_TEST_BAD", "TANK", "VLCC", "TEST/BAD", "ws",
+         "2023-04-21", "41"],
+        ["TANK_VLCC_TEST_BAD", "TANK", "VLCC", "TEST/BAD", "ws",
+         "2023-04-22", "42"],
+        ["TANK_VLCC_TEST_BAD", "TANK", "VLCC", "TEST/BAD", "ws",
+         "2023-04-23", "43"],
+        ["TANK_VLCC_TEST_BAD", "TANK", "VLCC", "TEST/BAD", "ws",
+         "2023-04-24", "44"],
+        ["TANK_VLCC_TEST_BAD", "TANK", "VLCC", "TEST/BAD", "ws",
+         "2023-04-25", "45"],
+        ["TANK_VLCC_TEST_BAD_TCE", "TANK", "VLCC", "TEST/BAD", "tce",
+         "2023-04-20", "100"],
+        ["TANK_VLCC_TEST_BAD_TCE", "TANK", "VLCC", "TEST/BAD", "tce",
+         "2023-04-21", "50000"],
+        ["TANK_VLCC_TEST_BAD_TCE", "TANK", "VLCC", "TEST/BAD", "tce",
+         "2023-04-22", "200"],
+        ["TANK_VLCC_TEST_BAD_TCE", "TANK", "VLCC", "TEST/BAD", "tce",
+         "2023-04-23", "48000"],
+        ["TANK_VLCC_TEST_BAD_TCE", "TANK", "VLCC", "TEST/BAD", "tce",
+         "2023-04-24", "300"],
+        ["TANK_VLCC_TEST_BAD_TCE", "TANK", "VLCC", "TEST/BAD", "tce",
+         "2023-04-25", "46000"],
         # a non-TANK/non-counts row must be ignored entirely
         ["BULK_TC_CAPESIZE", "BULK", "TC", "Capesize", "usd",
          "2026-09-01", "5550.0"],
@@ -283,8 +334,8 @@ def test_real_json_round_trip_and_size(real):
 
 
 def test_real_date_to_tracks_csv(real):
-    assert real["meta"]["date_to"] == "2026-09-08"
-    # the cache must carry the CSV's own newest date (same-day rebuild)
+    # the cache must carry the CSV's own newest date (same-day rebuild);
+    # NOT pinned to a literal date — cron data commits advance both files.
     newest = ""
     with open(CSV_PATH, newline="", encoding="utf-8") as f:
         for r in csv.DictReader(f):
@@ -301,12 +352,158 @@ def test_real_monthly_twin_codes_match(real):
     twin_codes = {k for k in twin_codes
                   if not k.startswith(("TANK_BALTIC_INDEX", "TANK_VLCC_MARKET",
                                        "TANK_SUEZMAX_MARKET", "TANK_EQUINOR"))}
-    ours = set(real["series"])
+    ours = {k for k in real["series"]
+            if not k.endswith(btrd.DERIVED_SUFFIX)}
     # every monthly twin code exists in the daily cache (twin code = ws branch)
     missing = twin_codes - ours
     assert not missing, f"monthly twin codes missing from daily cache: {sorted(missing)}"
     # and the cache holds the extra unit branches + counters
     assert ours - twin_codes, "expected suffixed unit-branch codes"
+
+
+# --------------------------------------------------- WS-to-TCE continuation
+# User directive: 'MEG USG TC displayed frozen while Worldscale is active…
+# infer the relationship… from the overlapping data.' Emission is gated on an
+# honest overlap fit (R2 >= 0.90); gates and machinery are tested on fixtures,
+# the real artifact's measured verdict is tested against the committed JSON.
+
+
+def test_fixture_derived_series_emitted_when_fit_exact(fixture_build):
+    s = fixture_build["series"]
+    d = s.get("TANK_VLCC_TEST_R_TCE_D")
+    assert d is not None, "exact-fit pair must emit a derived series"
+    assert d["derived"] is True and d["unit"] == "tce"
+    assert d["cadence"] == "daily"
+    assert "(WS-continued)" in d["label"]
+    # known linear fixture: tce = 100 + 500*ws recovered exactly
+    assert d["fit"]["a"] == 100.0 and d["fit"]["b"] == 500.0
+    assert d["fit"]["r2"] == 1.0
+    assert d["fit"]["ws_twin_code"] == "TANK_VLCC_TEST_R"
+    assert d["fit"]["overlap_n"] == 5  # 04-20..04-25 minus the tce=0 debris day
+    assert d["fit"]["overlap_first"] == "2023-04-20"
+    assert d["fit"]["overlap_last"] == "2023-04-25"
+
+
+def test_fixture_derived_continuation_boundary(fixture_build):
+    """No overlap contamination: real pts end at the tce branch's last date;
+    continuation pts are strictly after it and reproduce a + b*ws."""
+    s = fixture_build["series"]
+    d, tce, ws = (s["TANK_VLCC_TEST_R_TCE_D"], s["TANK_VLCC_TEST_R_TCE"],
+                  s["TANK_VLCC_TEST_R"])
+    cut = epoch_ms(tce["last"])
+    assert tce["last"] == "2023-04-25"
+    # real portion byte-identical to the untouched tce branch (incl. its debris 0)
+    tce_map = dict(tce["pts"])
+    real = [(e, v) for e, v in d["pts"] if e <= cut]
+    assert dict(real) == tce_map
+    # continuation: ws dates strictly after the cut, ws=0 (debris) skipped,
+    # a+b*ws with the fixture's exact coefficients
+    ws_map = dict(ws["pts"])
+    cont = [(e, v) for e, v in d["pts"] if e > cut]
+    assert cont == [(epoch_ms("2023-04-26"), 23100),
+                    (epoch_ms("2023-04-27"), 23600),
+                    (epoch_ms("2023-04-28"), 24100)]
+    for e, v in cont:
+        assert e > cut
+        assert v == 100 + 500 * ws_map[e]
+    assert epoch_ms("2023-04-29") not in ws_map or ws_map.get(
+        epoch_ms("2023-04-29")) == 0  # ws debris day produced no continuation
+    # chronological + dedupe: no duplicate epochs anywhere
+    es = [e for e, _ in d["pts"]]
+    assert es == sorted(es) and len(set(es)) == len(es)
+    assert d["first"] == "2023-04-20" and d["last"] == "2023-04-28"
+    assert d["n"] == len(d["pts"]) == len(real) + len(cont)
+
+
+def test_fixture_derived_index_and_real_pts_untouched(fixture_build):
+    """Derived flag present; the source tce branch stays byte-identical and
+    the per-klass index counts derived series in their own bucket."""
+    s = fixture_build["series"]
+    assert "derived" in s["TANK_VLCC_TEST_R_TCE_D"]
+    assert "derived" not in s["TANK_VLCC_TEST_R_TCE"]
+    assert "derived" not in s["TANK_VLCC_TEST_R"]
+    idx = fixture_build["index"]
+    assert "derived" in idx["klasses"]
+    assert idx["order"][-1] == "derived"
+    assert idx["klasses"]["derived"]["series"] == 1
+    # derived pts counted once: klass sums + derived bucket == all pts
+    assert sum(k["pts"] for k in idx["klasses"].values()) == \
+        sum(v["n"] for v in s.values())
+
+
+def test_fixture_r2_gate_skips_and_records(fixture_build):
+    """R2 < 0.90 pair: NO derived series; reason recorded in meta with the
+    measured fit diagnostics; the frozen-real series itself is untouched."""
+    p = fixture_build
+    assert "TANK_VLCC_TEST_BAD_TCE_D" not in p["series"]
+    reason = p["meta"]["skipped_with_reason"]["TANK_VLCC_TEST_BAD_TCE"]
+    assert "R2" in reason and "gate" in reason
+    # bad pair skipped, good pair emitted → coverage of both accounted
+    assert "TANK_VLCC_TEST_R_TCE_D" in p["series"]
+    # the skipped pair's tce branch is unchanged (still ends 2023-04-25)
+    assert p["series"]["TANK_VLCC_TEST_BAD_TCE"]["last"] == "2023-04-25"
+
+
+def test_fixture_ols_recovers_known_line():
+    a, b, r2, rmse = btrd.ols_fit([1, 2, 3, 4], [30, 50, 70, 90])
+    assert (a, b) == (10.0, 20.0)
+    assert abs(r2 - 1.0) < 1e-12 and rmse < 1e-9
+    # degenerate inputs return None (no crash)
+    assert btrd.ols_fit([1, 1, 1], [1, 2, 3]) is None
+    assert btrd.ols_fit([], []) is None
+
+
+def test_real_frozen_tce_pairs_accounted(real):
+    """Every frozen-real tce branch (real values, ended at the 2023-04-25
+    taxonomy cut) with a live ws twin is EITHER emitted as a gated derived
+    series OR recorded in meta.skipped_with_reason with measured diagnostics;
+    the real branches themselves stay untouched."""
+    series = real["series"]
+    frozen = [c for c in series
+              if c.endswith("_TCE") and not c.endswith(btrd.DERIVED_SUFFIX)
+              and series[c]["unit"] == "tce"
+              and series[c]["last"] <= btrd.TCE_FROZEN_LAST
+              and series.get(c[:-4], {}).get("unit") == "ws"
+              and any(v != 0 for _, v in series[c]["pts"])]
+    assert frozen, "frozen-real tce branches vanished from the cache"
+    derived = [c for c in series if c.endswith(btrd.DERIVED_SUFFIX)]
+    skipped = real["meta"].get("skipped_with_reason", {})
+    assert set(derived) | set(skipped) == set(frozen), (
+        f"unaccounted pairs: {sorted(set(frozen) - set(derived) - set(skipped))}")
+    for c in derived:
+        d = series[c]
+        assert d["derived"] is True and d["fit"]["r2"] >= btrd.DERIVED_R2_MIN
+        assert d["fit"]["ws_twin_code"] == c[:-len(btrd.DERIVED_SUFFIX)]
+    for c, reason in skipped.items():
+        assert "R2" in reason and "gate" in reason, f"{c}: vague skip reason"
+    # the real tce branches are unchanged by derivation work
+    for c in frozen:
+        s = series[c]
+        assert "derived" not in s and "fit" not in s
+        assert s["last"] == btrd.TCE_FROZEN_LAST
+
+
+def test_real_frozen_tce_plateau_documented(real):
+    """Measured source pathology behind the gate verdicts: the 5 Suezmax tce
+    branches carry a ~1000-day identical-value plateau before the cut — the
+    source stopped assessing them long before 2023-04-25, so no honest
+    WS-to-TCE mapping can be fitted. This test pins the plateau's existence
+    so a silent 'fix' (emitting a garbage fit) can never ship unnoticed."""
+    for c, min_days in (("TANK_SUEZMAX_BLSEA_MED_TCE", 700),
+                        ("TANK_SUEZMAX_CEYHAN_USG_TCE", 700),
+                        ("TANK_SUEZMAX_CROSS_MED_TCE", 700),
+                        ("TANK_SUEZMAX_WAFR_UKC_TCE", 700),
+                        ("TANK_SUEZMAX_WAFR_USG_TCE", 700)):
+        if c not in real["series"]:
+            continue
+        vals = [v for _, v in real["series"][c]["pts"] if v != 0]
+        best = cur = 1
+        for i in range(1, len(vals)):
+            cur = cur + 1 if vals[i] == vals[i - 1] else 1
+            best = max(best, cur)
+        assert best >= min_days, (
+            f"{c}: longest identical-value run {best}d < {min_days}d — the "
+            "documented source plateau disappeared (data changed?)")
 
 
 def test_real_cli_verify_green():
