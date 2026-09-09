@@ -16620,34 +16620,73 @@ if (intelTabsContainer) {
           }).filter(row => row.date != null);
         });
 
-        const portCongestionPromise = safeFetch('data/congestion/portwatch_port_congestion.csv', 'IMF PortWatch Congestion', [], r => {
-          DATA.portCongestion = DATA.portwatch_congestion = DATA.portwatchCongestion = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              portCode: (row.port_code || row.portid || row.hub_code || '').trim(),
-              portName: (row.port_name || row.portname || '').trim(),
-              sector: (row.sector || '').trim(),
-              country: (row.country || '').trim(),
-              dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
-              callsDryBulk: parseInt(row.daily_port_calls_dry_bulk, 10) || null,
-              callsTanker: parseInt(row.daily_port_calls_tanker, 10) || null,
-              callsContainer: parseInt(row.daily_port_calls_container, 10) || null,
-              importDryBulkKt: parseFloat(row.import_dry_bulk_kt) || null,
-              exportDryBulkKt: parseFloat(row.export_dry_bulk_kt) || null,
-              importTankerKt: parseFloat(row.import_tanker_kt) || null,
-              exportTankerKt: parseFloat(row.export_tanker_kt) || null,
-              // Wave-1 fix: source CSV has no vessels_at_anchorage / avg_waiting_days
-              // columns (see portwatch header). Snapshot-derived queue depth is
-              // enriched post-load by enrichPortwatchSnapshot() from live lineups.
-              vesselsAnchored: null,
-              avgWaitingDays: null,
-              waitingDays7dma: null,
-            };
-          }).filter(row => row.date != null);
-        });
+        // PHASE SPEED: portwatch_port_congestion.csv is ~8 MB of 43-hub deep
+        // history (2019-present) that only the Tracking tab's Port Call History
+        // drawer and per-port deep history use. It is fetched ONCE, lazily, the
+        // first time the Tracking tab is opened - never at page boot. The
+        // Dashboard congestion chart reads the expanded PortWatch universe
+        // cache instead (same measured PortWatch fields, no behavior change).
+        var portCongestionLoadPromise = null;
+        function loadPortCongestionHistory() {
+          if (DATA.portCongestion && DATA.portCongestion.length) return Promise.resolve();
+          if (portCongestionLoadPromise) return portCongestionLoadPromise;
+          DATA.__portCongestionLoading = true;
+          portCongestionLoadPromise = fetchCSV('data/congestion/portwatch_port_congestion.csv')
+            .then(r => {
+              DATA.portCongestion = DATA.portwatch_congestion = DATA.portwatchCongestion = (r || []).map(row => {
+                const rawDate = (row.date || '').trim();
+                const d = parseDateISO(rawDate) || parseDate(rawDate);
+                return {
+                  date: d,
+                  dateStr: d ? fmtDate(d) : rawDate,
+                  portCode: (row.port_code || row.portid || row.hub_code || '').trim(),
+                  portName: (row.port_name || row.portname || '').trim(),
+                  sector: (row.sector || '').trim(),
+                  country: (row.country || '').trim(),
+                  dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
+                  callsDryBulk: parseInt(row.daily_port_calls_dry_bulk, 10) || null,
+                  callsTanker: parseInt(row.daily_port_calls_tanker, 10) || null,
+                  callsContainer: parseInt(row.daily_port_calls_container, 10) || null,
+                  importDryBulkKt: parseFloat(row.import_dry_bulk_kt) || null,
+                  exportDryBulkKt: parseFloat(row.export_dry_bulk_kt) || null,
+                  importTankerKt: parseFloat(row.import_tanker_kt) || null,
+                  exportTankerKt: parseFloat(row.export_tanker_kt) || null,
+                  // Wave-1 fix: source CSV has no vessels_at_anchorage / avg_waiting_days
+                  // columns (see portwatch header). Snapshot-derived queue depth is
+                  // enriched post-load by enrichPortwatchSnapshot() from live lineups.
+                  vesselsAnchored: null,
+                  avgWaitingDays: null,
+                  waitingDays7dma: null,
+                };
+              }).filter(row => row.date != null);
+              DATA.__portCongestionLoading = false;
+              // Rebuild the deep-history cache once the 43-hub series lands
+              // (it was empty at first Tracking open) and refresh surfaces.
+              try {
+                if (DATA.loaded) {
+                  portHistoryCache = null;
+                  populatePortHistory();
+                  renderTrackingHUDRefreshNote();
+                  var phSub2 = document.getElementById('phSub');
+                  if (phSub2 && DATA.portCongestion.length) {
+                    var pcLatest = '';
+                    DATA.portCongestion.forEach(function (pr) { if (pr.dateStr > pcLatest) pcLatest = pr.dateStr; });
+                    if (pcLatest) {
+                      var phLatestEl = document.getElementById('phLatest');
+                      if (phLatestEl) phLatestEl.textContent = pcLatest;
+                    }
+                  }
+                }
+              } catch (e) { console.warn('[portwatch congestion refresh]', e); }
+            })
+            .catch(err => {
+              console.warn('[portwatch congestion fetch error]', err);
+              DATA.portCongestion = DATA.portCongestion || [];
+              DATA.__portCongestionLoading = false;
+            });
+          return portCongestionLoadPromise;
+        }
+        window.loadPortCongestionHistory = loadPortCongestionHistory;
 
         const euCarbonPromise = safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon & Bunker Spreads', [], r => {
           DATA.euCarbon = DATA.eu_carbon = (r || []).map(row => {
@@ -16964,28 +17003,10 @@ if (intelTabsContainer) {
             DATA.fearnleysSeries = null;
           });
 
-        // Broker Desk S3/S4: daily tanker-route + dry-route UI caches (fetched at
-        // data-load time like every other cache; never inlined — 3.8 MB + 0.4 MB).
-        const tankerRoutesDailyPromise = fetch('data/derived/fearnleys_tanker_routes_daily.json')
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.fearnleysTankerRoutesDaily = data;
-            if (data && data.meta) { window.FDESK_TANKER_META = { builtUtc: data.meta.built_utc, dateTo: data.meta.date_to, source: data.meta.source, notes: data.meta.derivation_notes, excluded: data.meta.excluded || [] }; }
-          })
-          .catch(err => {
-            console.warn('[fearnleysTankerRoutesDaily fetch error]', err);
-            DATA.fearnleysTankerRoutesDaily = null;
-          });
-        const dryRoutesDailyPromise = fetch('data/derived/fearnleys_dry_routes_daily.json')
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.fearnleysDryRoutesDaily = data;
-            if (data && data.meta) { window.FDESK_DRY_META = { builtUtc: data.meta.built_utc || data.meta.fetched_utc, dateTo: data.meta.date_to, source: data.meta.source, notes: data.meta.notes }; }
-          })
-          .catch(err => {
-            console.warn('[fearnleysDryRoutesDaily fetch error]', err);
-            DATA.fearnleysDryRoutesDaily = null;
-          });
+        // PHASE SPEED: the Broker Desk daily route caches (S3/S4) moved to
+        // loadFearnDailyCaches() - fetched lazily on the tab's first open.
+        // The fearnleysSummary (Signals terminal) and fearnleysSeries (Broker
+        // Desk Overview tiles) caches still load at boot below.
 
         // Wave-2 Fearnleys desk: macro health backtest (score + fwd returns by regime).
         const macroBacktestPromise = safeFetch('data/derived/macro_health_score_backtest.csv', 'Macro Health Backtest', [], r => {
@@ -17005,35 +17026,93 @@ if (intelTabsContainer) {
           DATA.macroBacktest = out;
         });
 
-        const bunkerSummaryPromise = fetch('data/bunkers/bunker_frontend_summary.json')
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.bunkerSummary = data;
-          })
-          .catch(err => {
-            console.warn('[bunkerSummary fetch error]', err);
-            DATA.bunkerSummary = null;
-          });
+        // PHASE SPEED: single-tab caches load lazily on their tab's first open,
+        // never at page boot. Each loader is idempotent (data guard + shared
+        // promise) and re-renders the tab's own sections when data lands.
 
-        const offshoreSummaryPromise = fetch('data/derived/offshore_summary.json')
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.offshoreSummary = data;
+        // BUNKERS tab: 4.4 MB frontend summary (221-port matrix, BIX history).
+        let bunkerSummaryLoadPromise = null;
+        function loadBunkerSummary() {
+          if (DATA.bunkerSummary) return Promise.resolve();
+          if (bunkerSummaryLoadPromise) return bunkerSummaryLoadPromise;
+          bunkerSummaryLoadPromise = fetch('data/bunkers/bunker_frontend_summary.json')
+            .then(res => res.ok ? res.json() : null)
+            .then(data => {
+              DATA.bunkerSummary = data;
+              // Re-render the Bunkers tab surfaces once the cache lands (the
+              // tab was opened during the sub-second fetch and showed its
+              // honest waiting state).
+              try {
+                if (DATA.loaded && typeof renderBunkersTab === 'function') renderBunkersTab();
+              } catch (e) { console.warn('[bunkerSummary refresh]', e); }
+            })
+            .catch(err => {
+              console.warn('[bunkerSummary fetch error]', err);
+              DATA.bunkerSummary = null;
+            });
+          return bunkerSummaryLoadPromise;
+        }
+        window.loadBunkerSummary = loadBunkerSummary;
+
+        // OFFSHORE tab: offshore vessel summary + port stress matrix summary.
+        let offshoreSummaryLoadPromise = null;
+        function loadOffshoreSummary() {
+          if (DATA.offshoreSummary && DATA.portStressSummary) return Promise.resolve();
+          if (offshoreSummaryLoadPromise) return offshoreSummaryLoadPromise;
+          var offshoreSummaryPromise = Promise.all([
+            fetch('data/derived/offshore_summary.json').then(res => res.ok ? res.json() : null),
+            fetch('data/derived/port_stress_summary.json').then(res => res.ok ? res.json() : null),
+          ]).then(results => {
+            DATA.offshoreSummary = results[0];
+            DATA.portStressSummary = results[1];
+            try {
+              if (DATA.loaded && typeof renderOffshoreTab === 'function') renderOffshoreTab();
+            } catch (e) { console.warn('[offshoreSummary refresh]', e); }
           })
           .catch(err => {
             console.warn('[offshoreSummary fetch error]', err);
-            DATA.offshoreSummary = null;
+            DATA.offshoreSummary = DATA.offshoreSummary || null;
+            DATA.portStressSummary = DATA.portStressSummary || null;
           });
+          offshoreSummaryLoadPromise = offshoreSummaryPromise;
+          window.portStressSummaryPromise = offshoreSummaryPromise;
+          return offshoreSummaryLoadPromise;
+        }
+        window.loadOffshoreSummary = loadOffshoreSummary;
 
-        const portStressSummaryPromise = fetch('data/derived/port_stress_summary.json')
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.portStressSummary = data;
+        // BROKER DESK tab: the daily tanker/dry route caches (3.8 MB + 0.4 MB)
+        // serve only this tab's S3/S4 sections; the monthly archive needed by
+        // the Overview tiles and the Signals-tab terminal is fetched at boot
+        // as before (fearnleysSeries + fearnleysSummary promises above).
+        let fearnDailyLoadPromise = null;
+        function loadFearnDailyCaches() {
+          if (DATA.fearnleysTankerRoutesDaily && DATA.fearnleysDryRoutesDaily) return Promise.resolve();
+          if (fearnDailyLoadPromise) return fearnDailyLoadPromise;
+          var left = 2;
+          var fin = function () { if (--left <= 0) {
+            try {
+              if (DATA.loaded && typeof renderFearnleysTab === 'function') renderFearnleysTab();
+            } catch (e) { console.warn('[fearn daily refresh]', e); }
+          } };
+          var tankerRoutesDailyPromise = fetch('data/derived/fearnleys_tanker_routes_daily.json').then(res => res.ok ? res.json() : null);
+          var dryRoutesDailyPromise = fetch('data/derived/fearnleys_dry_routes_daily.json').then(res => res.ok ? res.json() : null);
+          fearnDailyLoadPromise = Promise.all([tankerRoutesDailyPromise, dryRoutesDailyPromise]).then(results => {
+            var td = results[0], dd = results[1];
+            DATA.fearnleysTankerRoutesDaily = td;
+            DATA.fearnleysDryRoutesDaily = dd;
+            if (td && td.meta) { window.FDESK_TANKER_META = { builtUtc: td.meta.built_utc, dateTo: td.meta.date_to, source: td.meta.source, notes: td.meta.derivation_notes, excluded: td.meta.excluded || [] }; }
+            if (dd && dd.meta) { window.FDESK_DRY_META = { builtUtc: dd.meta.built_utc || dd.meta.fetched_utc, dateTo: dd.meta.date_to, source: dd.meta.source, notes: dd.meta.notes }; }
+            fin();
           })
           .catch(err => {
-            console.warn('[portStressSummary fetch error]', err);
-            DATA.portStressSummary = null;
+            console.warn('[fearnleys daily caches fetch error]', err);
+            DATA.fearnleysTankerRoutesDaily = DATA.fearnleysTankerRoutesDaily || null;
+            DATA.fearnleysDryRoutesDaily = DATA.fearnleysDryRoutesDaily || null;
+            fin();
           });
+          return fearnDailyLoadPromise;
+        }
+        window.loadFearnDailyCaches = loadFearnDailyCaches;
 
         const allPromisesList = [
           ...indexPromises,
@@ -17045,9 +17124,9 @@ if (intelTabsContainer) {
           lngCharterPromise, tceMatrixPromise,
           wciPromise, fbxPromise, usdaGrainRatesPromise, usdaLandedCostsPromise, usdaVesselQueuesPromise, usdaBunkersPromise,
           brazilExportsPromise, ppaIronOrePromise, minerShipmentsPromise, eiaExportsPromise,
-          portCongestionPromise, euCarbonPromise, tonMilePromise, newcastleCoalPromise, reqExportsPromise,
+          euCarbonPromise, tonMilePromise, newcastleCoalPromise, reqExportsPromise,
           sgxOreForwardPromise,
-          universePortsPromise, disruptionsPromise, voyageHistoryPromise, bunkerPricesPromise, bunkerSummaryPromise, fearnleysSummaryPromise, fearnleysSeriesPromise, tankerRoutesDailyPromise, dryRoutesDailyPromise, macroBacktestPromise, offshoreSummaryPromise, portStressSummaryPromise, chokepointSummaryPromise, chokepointMetricsPromise,
+          universePortsPromise, disruptionsPromise, voyageHistoryPromise, bunkerPricesPromise, chokepointMetricsPromise,
           ...sgxPromises
         ];
 
@@ -20049,12 +20128,20 @@ if (intelTabsContainer) {
       // ETF HV chart
       try { initETFHVRange(); } catch (e) { console.error('[ETFTab HV]', e); }
 
-      // ETF Deconstruction & Scenario Engine
-      try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
-      // ETF Day-by-Day Portfolio & Price Simulator
-      try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch (e) { console.error('[ETFTab Simulator]', e); }
-      // Initialize 5-minute dynamic live price auto-refresh engine
-      try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
+      // PHASE SPEED progressive render: the deconstruction engine + simulator
+      // build ~1s of DOM/Chart work on first open. The visible card grid and
+      // the four charts above are already on screen, so those two run on the
+      // next frame; order preserved, same output, nothing deferred to a
+      // different tab state.
+      const rafEtf = window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); };
+      rafEtf(function () {
+        // ETF Deconstruction & Scenario Engine
+        try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
+        // ETF Day-by-Day Portfolio & Price Simulator
+        try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch (e) { console.error('[ETFTab Simulator]', e); }
+        // Initialize 5-minute dynamic live price auto-refresh engine
+        try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
+      });
     }
 
     var _flowTicker = 'bdry';
@@ -21367,7 +21454,7 @@ if (intelTabsContainer) {
       if (tabId === 'intelligence') renderIntelligenceTab();
       if (tabId === 'tracking') renderTrackingTab();
       if (tabId === 'bunkers') renderBunkersTab();
-      if (tabId === 'offshore') renderOffshoreTab();
+      if (tabId === 'offshore') { if (typeof loadOffshoreSummary === 'function') loadOffshoreSummary(); renderOffshoreTab(); }
 
       // Tooltip coverage engine: after this tab's renderers ran, give every
       // still-uncontexted interactive element an honest hover annotation.
@@ -21375,8 +21462,15 @@ if (intelTabsContainer) {
         annotateCoverageGaps(tabId);
         // Sub-sections of some tabs (tables, settlement inspectors, desk groups)
         // render asynchronously after switchTab returns; re-stamp once the DOM
-        // settles. The stamped marker keeps this idempotent.
-        setTimeout(function () { try { annotateCoverageGaps(tabId); } catch (e) {} }, 1500);
+        // settles. The stamped marker keeps this idempotent. PHASE SPEED: the
+        // delayed pass checks that this tab is still the active one - a slow
+        // tab's timer must not stamp panels that are no longer displayed
+        // (that stale pass was costing ~2.4s of main-thread time on later
+        // warm switches, which read as multi-second tab-switch latency).
+        setTimeout(function () {
+          if (currentTab !== tabId) return;
+          try { annotateCoverageGaps(tabId); } catch (e) {}
+        }, 1500);
       }
 
 
@@ -21634,6 +21728,13 @@ if (intelTabsContainer) {
         if (activePanel) {
           const canvases = activePanel.querySelectorAll('canvas');
           canvases.forEach(canvas => {
+            // PHASE SPEED: hidden tab panels (display:none) own 0px canvases
+            // whose Chart instances cannot resize meaningfully; resizing them
+            // burns main-thread time with no visual effect. Only the ACTIVE
+            // panel's charts get the resize pass (panel classes flip before
+            // this rAF runs, so this stays aligned with what is displayed).
+            const owner = canvas.closest('.tab-panel');
+            if (owner && !owner.classList.contains('active')) return;
             if (typeof Chart !== 'undefined' && Chart.getChart) {
               const c = Chart.getChart(canvas);
               if (c) {
@@ -21716,17 +21817,28 @@ if (intelTabsContainer) {
         function () { renderYDRatesOverlay('yearlyRatesChart'); },
         function () { renderYDDrawdown(productKey, 'yearlyDrawdownChart'); },
       ];
-      // Synchronous Batch 1 (0ms latency), Batch 2 in RAF (eliminates 400ms delay)
-      for (let i = 0; i < 3 && i < fns.length; i++) {
+      // Synchronous Batch 1 (0ms latency): KPI + history chart paint first.
+      for (let i = 0; i < 2 && i < fns.length; i++) {
         try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
       }
-      if (fns.length > 3) {
-        (window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); })(function () {
-          for (let i = 3; i < fns.length; i++) {
+      // PHASE SPEED progressive render: fns[2..3] own the first-visit rolling
+      // z-score builds (the 252-day matrix over every product, ~250ms on first
+      // paint) and fns[4..] the multi-rates/overlay set. KPI + history chart
+      // are already on screen by now, so the heavy builds run on the NEXT two
+      // frames instead of blocking this tab's first paint. Same compute, same
+      // charts, same order - just off the critical path; on revisit the
+      // z-score cache answers instantly.
+      const rafAll = window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); };
+      rafAll(function () {
+        for (let i = 2; i < 4 && i < fns.length; i++) {
+          try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
+        }
+        rafAll(function () {
+          for (let i = 4; i < fns.length; i++) {
             try { fns[i](); } catch (e) { console.error('[YearlyDash]', e); }
           }
         });
-      }
+      });
     }
 
     function setYDHistAvg(w) {
@@ -36973,7 +37085,31 @@ window.closePortDetail = closePortDetail;
 
 function initPortHistory() {
   var rowsAll = (DATA.portCongestion || DATA.portwatchCongestion || DATA.portwatch_congestion) || [];
-  if (!rowsAll.length) return;
+  if (!rowsAll.length) {
+    // PHASE SPEED: the 43-hub deep-history CSV loads lazily on first Tracking
+    // open. Show an honest 'loading history' state on the drawer while the
+    // fetch completes; loadPortCongestionHistory() rebuilds this cache when
+    // the series lands.
+    var box = document.getElementById('portHistoryDrawer');
+    if (box && !box.__phLoadingNote) {
+      box.__phLoadingNote = true;
+      var note = document.createElement('div');
+      note.id = 'phLoadingNote';
+      note.style.cssText = 'font-size:11px;color:var(--text-muted);padding:8px 10px;';
+      note.textContent = 'Loading PortWatch call history (43 hubs, 2019 to present)…';
+      var kpi = document.getElementById('phKpiStrip');
+      if (kpi && kpi.parentNode) kpi.parentNode.insertBefore(note, kpi);
+      var strip = document.getElementById('phKpiStrip');
+      if (strip) strip.innerHTML = '';
+      var canvas = document.getElementById('portHistoryChart');
+      if (canvas && portHistoryChartInstance) { portHistoryChartInstance.destroy(); portHistoryChartInstance = null; }
+    }
+    return;
+  }
+  var noteEl = document.getElementById('phLoadingNote');
+  if (noteEl && noteEl.parentNode) noteEl.parentNode.removeChild(noteEl);
+  var box0 = document.getElementById('portHistoryDrawer');
+  if (box0) box0.__phLoadingNote = false;
   var byPort = {};
   rowsAll.forEach(function(r) {
     var pid = r.portCode;
@@ -37053,7 +37189,9 @@ window.setPortHistorySector = setPortHistorySector;
 
 function renderPortHistory() {
   var canvas = document.getElementById('portHistoryChart');
-  if (!canvas || !portHistoryCache) return;
+  // PHASE SPEED: without the lazily-loaded deep history there is nothing to
+  // draw yet; the drawer shows its honest 'loading history' note instead.
+  if (!canvas || !portHistoryCache || !(portHistoryCache.ports || []).length) return;
   var port = portHistoryCache.ports.find(function(p) { return p.portid === portHistoryPort; });
   if (!port) return;
   var key = portHistorySector;
@@ -37138,9 +37276,9 @@ function renderPortHistory() {
 window.renderPortHistory = renderPortHistory;
 
 function populatePortHistory() {
-  if (portHistoryCache) { renderPortHistory(); return; }
+  if (portHistoryCache && portHistoryCache.ports && portHistoryCache.ports.length) { renderPortHistory(); return; }
   initPortHistory();
-  if (portHistoryCache) renderPortHistory();
+  if (portHistoryCache && portHistoryCache.ports && portHistoryCache.ports.length) renderPortHistory();
 }
 
 function renderChokepointSelector() {
@@ -37186,6 +37324,12 @@ function renderTrackingTab() {
   // Lazy payload: the 57 MB PortWatch expanded universe loads once, on first
   // Tracking open, off the critical page-boot path.
   if (typeof loadExpandedPortCalls === 'function') loadExpandedPortCalls();
+
+  // PHASE SPEED: the 43-hub deep-history CSV (~8 MB, 2019-present) also loads
+  // once, lazily, on first Tracking open. It feeds only the Port Call History
+  // drawer and per-port deep history; the Dashboard congestion chart reads the
+  // expanded universe cache instead.
+  if (typeof loadPortCongestionHistory === 'function') loadPortCongestionHistory();
 
   if (trackingTabFullyInitialized) {
     if (trackingMap && typeof trackingMap.invalidateSize === 'function') {
@@ -42175,6 +42319,11 @@ function renderBunkersTab() {
   window.renderBunkersTab = renderBunkersTab;
   if (!DATA.loaded) return;
 
+  // PHASE SPEED: the 4.4 MB bunker frontend summary loads lazily on the tab's
+  // first open. While it fetches, the KPI/table surfaces show their existing
+  // honest 'loading' states, then this same renderer re-runs on data arrival.
+  if (typeof loadBunkerSummary === 'function') loadBunkerSummary();
+
   var summary = DATA.bunkerSummary;
   if (!summary) return;
 
@@ -43249,6 +43398,13 @@ var FDESK_SECTIONS = [
 var FDESK = {
   sec: 1,
   secInit: {},
+  // PHASE SPEED: Broker Desk view-state memoization. secInit is the
+  // render-once flag (each sub-section renders the first time it is shown);
+  // _dirty marks sections whose interactive state changed (klass switch,
+  // source toggle, range/class change) so the NEXT display re-renders them.
+  // Later switches with no dirty flag return instantly - the rendered DOM is
+  // reused as-is. This is view-state memoization, not data caching.
+  _dirty: {},
   fdecksLoaded: {}, tenor: null, tcClass: 'Capesize', tcChart: null, tcSource: 'baltic', tcSourceByClass: {},
   tankRoute: null, tankChart: null,
   nb: null, nbFamily: 'bulk', nbIndex: false, nbChart: null,
@@ -43330,7 +43486,10 @@ function switchFearnSection(id) {
 }
 function renderFearnSection(id) {
   if (!DATA.loaded) return;
-  if (FDESK.secInit[id]) return;
+  // PHASE SPEED: render-once + dirty-flag memoization. A section re-renders
+  // only on its first display or when its view state changed (FDESK._dirty).
+  if (FDESK.secInit[id] && !FDESK._dirty[id]) return;
+  if (FDESK._dirty[id]) FDESK._dirty[id] = false;
   var done = function (fn) {
     return function () {
       try { fn(); FDESK.secInit[id] = true; }
@@ -43639,9 +43798,10 @@ function renderFearnTc() {
   }
   fearnRangeInit('fearnTcRange', 'tc', tcRows, drawWin);
 }
-function onFearnTcClass() { FDESK.secInit[2] = false; renderFearnTc(); }
+function onFearnTcClass() { FDESK._dirty[2] = true; FDESK.secInit[2] = false; renderFearnTc(); }
 function setFearnTcSource(mode) {
   FDESK.tcSourceByClass[FDESK.tcClass || 'Capesize'] = (mode === 'fearnleys') ? 'fearnleys' : 'baltic';
+  FDESK._dirty[2] = true;
   FDESK.secInit[2] = false;
   renderFearnTc();
 }
@@ -44212,6 +44372,7 @@ function renderFearnTank() {
 function setFearnTankKlass(k) {
   FDESK.tankKlass = k;
   FDESK.tankRoute = null;
+  fearnMarkDirty(3);
   renderFearnTank();
 }
 function drawFearnTankChart() {
@@ -44598,7 +44759,7 @@ function parityFor(cls) {
   Object.keys(fm).sort().forEach(function (m) { if (nm[m]) out.push([m, fm[m] / nm[m] * 100]); });
   return out;
 }
-function onFearnAcClass() { FDESK.secInit[5] = false; renderFearnAc(); }
+function onFearnAcClass() { FDESK._dirty[5] = true; FDESK.secInit[5] = false; renderFearnAc(); }
 
 // ---------- S6/S7 GAS DESKS ----------
 function renderFearnGas(kind) {
@@ -44737,6 +44898,7 @@ function renderFearnGas(kind) {
 function onFearnGasSel(kind) {
   var sel = document.getElementById(kind === 'LNG' ? 'fearnLngSelect' : 'fearnLpgSelect');
   if (kind === 'LNG') FDESK.lng = sel ? sel.value : FDESK.lng; else FDESK.lpg = sel ? sel.value : FDESK.lpg;
+  FDESK._dirty[kind === 'LNG' ? 6 : 7] = true;
   FDESK.secInit[kind === 'LNG' ? 6 : 7] = false;
   renderFearnGas(kind);
 }
@@ -45131,9 +45293,20 @@ function fearnSeriesCache() {
 
 function renderFearnleysTab() {
   if (!DATA.loaded) return;
+  // PHASE SPEED: S3/S4 daily route caches (3.8 MB + 0.4 MB) load lazily on the
+  // tab's first open; S3/S4 tiles show their existing empty states while the
+  // fetch completes, then this same renderer re-runs on data arrival.
+  if (typeof loadFearnDailyCaches === 'function') loadFearnDailyCaches();
   initFearnSubNav();
   switchFearnSection(FDESK.sec);
 }
+function fearnMarkDirty(id) {
+  // PHASE SPEED: interactive control paths mark their Broker Desk section
+  // dirty so the next display (renderFearnSection) re-renders it. The
+  // render-once memoization never applies to a dirty section.
+  if (FDESK._dirty) FDESK._dirty[id] = true;
+}
+window.fearnMarkDirty = fearnMarkDirty;
 
 function fearnDefaultLabel(cache, type) {
   var best = null, bestN = -1;
