@@ -157,7 +157,7 @@ def test_build_payload_shape_and_monotonic_dates():
     payload = bbh.build_bix_history_payload(HISTORY_CSV)
     assert payload['source'] == 'BunkerIndex_BIX'
     assert payload['unit'] == 'USD/MT'
-    assert payload['rows'] == 3840
+    assert payload['rows'] >= 3840  # floor: archive grows with each daily harvest
     n_series = 0
     for idx, grades in payload['series'].items():
         for grade, s in grades.items():
@@ -226,7 +226,8 @@ def test_main_smoke_json_report():
     res = subprocess.run([sys.executable, SCRIPT, '--dry-run'], capture_output=True, text=True, cwd=REPO)
     assert res.returncode == 0, res.stderr
     stats = json.loads(res.stdout.strip().splitlines()[-1])
-    assert stats['total_rows'] == 3840
+    # Floor, not equality: the archive grows with each daily harvest.
+    assert stats['total_rows'] >= 3840
     assert stats['written'] is False
     before = open(HISTORY_CSV, 'rb').read()
     res2 = subprocess.run([sys.executable, SCRIPT], capture_output=True, text=True, cwd=REPO)
