@@ -608,3 +608,391 @@ def test_dry_grid_all_zero_guard():
         d = json.loads(DRY_JSON.read_text(encoding="utf-8"))
         zero = [k for k, s in d["series"].items() if js_is_all_zero(s)]
         assert zero == []
+
+
+# =====================================================================
+# Phase 2E: Indices-style 52W stats + range slider + zero-tile honesty
+# =====================================================================
+
+# ------------------------------------------------- 52W stat strip math
+def js_fearn52_compute(pts, monthly=False):
+    """Mirror of index.html fearn52Compute: 52W high/low, position %, YTD %,
+    drawdown from the trailing-year peak, upside from the trough. The window
+    anchors on the series' OWN last point (cache-derived), never wall-clock;
+    full=true only when the trailing window actually spans ~a year."""
+    DAY = 86400000
+    vals = [(k, v) for k, v in pts if v is not None]
+    if not vals:
+        return None
+    last_k, last_v = vals[-1]
+    last_t = (datetime.strptime(last_k + "-01", "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp() * 1000) if monthly else last_k
+    win = []
+    for k, v in vals:
+        t = (datetime.strptime(k + "-01", "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp() * 1000) if monthly else k
+        if t >= last_t - 365 * DAY:
+            win.append((k, v, t))
+    hi = max(v for _, v, _ in win)
+    lo = min(v for _, v, _ in win)
+    span = last_t - win[0][2]
+    full = span >= 300 * DAY
+    denom = hi - lo
+    pos = ((last_v - lo) / denom * 100) if (full and denom > 0) else None
+    year = datetime.fromtimestamp(last_t / 1000, tz=timezone.utc).year
+    jan1 = datetime(year, 1, 1, tzinfo=timezone.utc).timestamp() * 1000
+    ytd_base = None
+    for k, v in reversed(vals):
+        t = (datetime.strptime(k + "-01", "%Y-%m-%d").replace(tzinfo=timezone.utc).timestamp() * 1000) if monthly else k
+        if t < jan1:
+            ytd_base = v
+            break
+    ytd = ((last_v - ytd_base) / ytd_base * 100) if ytd_base else None
+    dd = ((last_v - hi) / abs(hi) * 100) if (full and hi != 0) else None
+    up = ((last_v - lo) / abs(lo) * 100) if (full and lo != 0) else None
+    return {"high": hi, "low": lo, "pos": pos, "ytd": ytd, "dd": dd, "up": up,
+            "full": full, "last": last_v, "n_win": len(win)}
+
+
+def test_52w_stats_on_fixture_with_known_values():
+    # Dense daily fixture ending 2026-09-08 with a known 2025 baseline print:
+    # mirrors the real daily cache shape (~365 pts in the trailing year).
+    DAY = 86400000
+    base = 1788825600000  # 2026-09-08 UTC midnight (same epoch family as caches)
+    # 401 daily pts whose LAST print lands exactly on the anchor date; the
+    # trailing-year window (t >= last - 365d) then covers indices 35..400.
+    pts = [[base - (401 - i) * DAY, 100.0 + i] for i in range(401)]
+    pts[-1][1] = 700.0
+    pts[35][1] = 675.0   # the last print before Jan 1 2026 in this layout
+    st = js_fearn52_compute(pts)
+    assert st is not None
+    assert st["last"] == 700.0
+    in_win = [(k, v) for k, v in pts if k >= base - 365 * DAY]
+    assert st["high"] == max(v for _, v in in_win)
+    assert st["low"] == min(v for _, v in in_win)
+    assert st["full"] is True
+    denom = st["high"] - st["low"]
+    assert abs(st["pos"] - (700 - st["low"]) / denom * 100) < 1e-9
+    # YTD base = last print before Jan 1 of the last point's year
+    # (in this layout that is index 150 = 2025-12-31, value 250)
+    assert abs(st["ytd"] - (700 - 250.0) / 250.0 * 100) < 1e-9
+    # drawdown from the trailing-year peak: 700 is the peak, so 0.0
+    assert abs(st["dd"]) < 1e-9
+    # upside from the trough
+    assert abs(st["up"] - (700 - st["low"]) / abs(st["low"]) * 100) < 1e-9
+    # the real MEG/FEAST WS fixture (strided) agrees on the window math itself:
+    # its trailing-year window starts at the first print within 365d of the end
+    s = FIXTURE_SERIES["TANK_VLCC_MEG_FEAST"]
+    st2 = js_fearn52_compute(s["pts"])
+    assert st2["last"] == 700
+    in_win2 = [(k, v) for k, v in s["pts"] if k >= 1788825600000 - 365 * DAY]
+    assert st2["high"] == max(v for _, v in in_win2)
+    assert st2["low"] == min(v for _, v in in_win2)
+
+
+def test_52w_stats_young_series_honest_n_a():
+    # A series with < ~300d of history (DRY_CAPESIZE_TCE_CONT_FAR_EAST starts
+    # 2024-09-02 but its last-year window covers it fully -> full) vs a truly
+    # young trimmed sample: n/a paths must come from full=False, not crashes.
+    young = {"pts": [[1782864000000, 120], [1785542400000, 130], [1788825600000, 125]]}
+    st = js_fearn52_compute(young["pts"])
+    assert st["full"] is False
+    assert st["pos"] is None and st["dd"] is None and st["up"] is None
+    # the strip renders the honest 'n/a' (no em dash) for those cells
+    html = fearn52_strip_html(st)
+    assert "n/a" in html
+    assert chr(0x2014) not in html
+    # 52W High/Low also degrade to n/a when the year window is not real
+    assert "n/a / n/a" in html
+
+
+def fearn52_strip_html(st):
+    """Mirror of index.html fearn52StripHtml structure (labels + values)."""
+    def f(v, signed=False, pct=False):
+        if v is None:
+            return "n/a"
+        s = f"{v:.1f}%" if pct else f"{v:,}"
+        return ("+" + s) if (signed and v > 0) else s
+    hl = f"{f(st['high'])} / {f(st['low'])}" if st["full"] else "n/a / n/a"
+    pos = f"{st['pos']:.1f}%" if st["pos"] is not None else "n/a"
+    ytd = f(st["ytd"], True, True) if st["ytd"] is not None else "n/a"
+    up = f(st["up"], True, True) if st["up"] is not None else "n/a"
+    dd = f(st["dd"], True, True) if st["dd"] is not None else "n/a"
+    return f"{hl}|{pos}|{ytd}|{up}|{dd}"
+
+
+def test_52w_strip_labels_and_honest_n_a():
+    # dense full-stats case
+    DAY = 86400000
+    base = 1788825600000
+    pts = [[base - (400 - i) * DAY, 100.0 + i] for i in range(400)]
+    pts[-1][1] = 700.0
+    st = js_fearn52_compute(pts)
+    row = fearn52_strip_html(st).split("|")
+    assert len(row) == 5
+    assert row[1].endswith("%")
+    assert row[2].startswith(("+", "-"))
+    # every value cell numeric or the honest n/a; never an em dash placeholder
+    for cell in row:
+        assert cell == "n/a" or cell[0] in "+-0123456789n"
+    # labels exist in index.html for all five tiles with plain-language tooltips
+    for label in ["52W High / Low", "52W Position", "YTD %", "From 52W Low", "From 52W High"]:
+        assert label in C
+
+
+def test_52w_marker_and_strip_wired_on_all_five_panels():
+    # HTML anchors: one strip + one slider per big chart
+    for el in ["fearnTcStats", "fearnTankStats", "fearnDryStats",
+               "fearnLngStats52", "fearnLpgStats52"]:
+        assert f'id="{el}"' in C, f"missing stat strip anchor {el}"
+    for pfx in ["fearnTcRange", "fearnTankRange", "fearnDryRange",
+                "fearnLngRange", "fearnLpgRange"]:
+        assert f'id="{pfx}Start"' in C and f'id="{pfx}End"' in C
+        assert f'id="{pfx}Fill"' in C and f'id="{pfx}Label"' in C
+    # JS engine: compute + strip + slider + reference-line helpers all present
+    for fn in ["function fearn52Compute(", "function fearn52StripHtml(",
+               "function fearnRangeInit(", "function fearnRangeSetWin(",
+               "function fearn52RefDatasets("]:
+        assert fn in C
+    # each renderer feeds its own strip + slider
+    m = re.search(r"function drawFearnTankChart\(\).*?\n\}", C, re.S)
+    assert m and "fearn52Compute(pts" in m.group(0) and "fearnRangeInit('fearnTankRange'" in m.group(0)
+    m = re.search(r"function drawFearnDryChart\(\).*?\n\}", C, re.S)
+    assert m and "fearn52Compute(pts" in m.group(0) and "fearnRangeInit('fearnDryRange'" in m.group(0)
+    m = re.search(r"function renderFearnTc\(\).*?\nfunction onFearnTcClass", C, re.S)
+    assert m and "fearnRangeInit('fearnTcRange'" in m.group(0)
+    m = re.search(r"function renderFearnGas\(kind\).*?\nfunction onFearnGasSel", C, re.S)
+    assert m and "fearnRangeInit(prefix" in m.group(0)
+    # default window is 1Y per brief
+    assert "'1Y'" in C and "FDESK_WIN_DEFS" in C
+    assert "['1M', 30], ['3M', 91], ['6M', 182], ['YTD', 'ytd'], ['1Y', 365], ['2Y', 730], ['Max', 'max']" in C
+
+
+def test_52w_reference_lines_dashed_not_in_tooltips_or_legend_noise():
+    # dashed constant datasets exist; hidden from legends where they'd clutter
+    m = re.search(r"function fearn52RefDatasets\([\s\S]*?\n\}", C)
+    assert m
+    b = m.group(0)
+    assert "borderDash" in b
+    assert "52W high (trailing year)" in b and "52W low (trailing year)" in b
+    # they must NOT emit tooltip rows: every chart filters 52W datasets out of
+    # the tooltip (or only allows datasetIndex 0)
+    assert "filter: function (item) { return item.datasetIndex === 0; }" in C
+    assert "item.text.indexOf('52W') !== 0" in C or "item.dataset.label.indexOf('52W') !== 0" in C
+    # no em dash in the ref-line labels
+    assert chr(0x2014) not in b
+
+
+# ------------------------------------------------- range slider (view-only)
+def js_slider_window(rows_ms, mode, ytd_year, day=86400000):
+    """Mirror of the fearnRangeInit window math: returns (startIdx, endIdx)."""
+    last = rows_ms[-1]
+    if mode == "Max":
+        return 0, len(rows_ms) - 1
+    if mode == "YTD":
+        start_ms = datetime(ytd_year, 1, 1, tzinfo=timezone.utc).timestamp() * 1000
+    else:
+        days = {"1M": 30, "3M": 91, "6M": 182, "1Y": 365, "2Y": 730}[mode]
+        start_ms = last - days * day
+    s = next((i for i, ms in enumerate(rows_ms) if ms >= start_ms), len(rows_ms) - 1)
+    return s, len(rows_ms) - 1
+
+
+def test_slider_view_window_logic_no_pts_mutation():
+    # 120 weekly pts ending 2026-09-08 (deterministic, cache-epoch family)
+    DAY = 86400000
+    last = 1788825600000  # 2026-09-08
+    rows = [(last - (119 - i) * 7 * DAY, 100.0 + i) for i in range(120)]
+    ms = [r[0] for r in rows]
+    before = list(rows)
+    s, e = js_slider_window(ms, "1Y", 2026)
+    assert e == len(rows) - 1
+    assert s == next(i for i, m0 in enumerate(ms) if m0 >= ms[-1] - 365 * DAY)
+    # view slice only: rows untouched (no data mutation, just a view)
+    vis = rows[s:e + 1]
+    assert rows == before and len(vis) < len(rows)
+    # Max = everything, YTD = from Jan 1 of the last point's year
+    s2, e2 = js_slider_window(ms, "Max", 2026)
+    assert (s2, e2) == (0, len(rows) - 1)
+    s3, e3 = js_slider_window(ms, "YTD", 2026)
+    assert s3 >= 0 and e3 == len(rows) - 1
+    assert ms[s3] >= datetime(2026, 1, 1, tzinfo=timezone.utc).timestamp() * 1000
+    # engine slices via Array.slice (a view), never splices the source rows
+    m = re.search(r"function fearnWindowSlice\([\s\S]*?\n\}", C)
+    assert m and ".slice(" in m.group(0) and "splice" not in m.group(0)
+    # the five renderers plot from a sliced window; the underlying pts arrays
+    # are only ever read (slice/map), never written
+    for fn_name in ["drawFearnTankChart", "drawFearnDryChart"]:
+        m = re.search(r"function " + fn_name + r"\([\s\S]*?\n\}", C)
+        assert m
+        assert ".splice(" not in m.group(0) and ".push(" not in m.group(0)
+    # dual-handle crossing is normalized (start<=end) inside the engine
+    m = re.search(r"function fearnRangeInit\([\s\S]*?function fearnRangeSetWin", C, re.S)
+    assert m and "if (s > e)" in m.group(0)
+
+
+# ------------------------------------------------- zero-tile honesty (2D)
+def js_epoch_to_iso(ms):
+    """Mirror of fearnEpochToIso in index.html."""
+    return datetime.fromtimestamp(ms / 1000, tz=timezone.utc).strftime("%Y-%m-%d")
+
+
+def js_trailing_zero_tail(pts):
+    tail = 0
+    for _, v in reversed(pts):
+        if v == 0:
+            tail += 1
+        else:
+            break
+    return tail
+
+
+def js_badge_state_2e(s):
+    """Mirror of the 2E fearnBadgeState: zero | discontinued | live | frozen."""
+    if js_is_all_zero(s):
+        return "zero"
+    tail = js_trailing_zero_tail(s["pts"])
+    if 0 < tail >= 20:
+        return "discontinued"
+    return "live" if (s["last"] >= "2026-08-01") else "frozen"
+
+
+DISC_FIXTURE = {
+    "TANK_TEST_DISC": {
+        "label": "TEST Disc · WS", "klass": "Aframax", "route": "TEST/DISC",
+        "unit": "ws", "cadence": "daily",
+        "pts": [[1651363200000, 250], [1651449600000, 245]]
+        + [[1651536000000 + i * 86400000, 0] for i in range(25)],
+        "first": "2022-05-01", "last": "2022-05-30", "n": 27,
+    },
+}
+
+
+def test_trailing_zero_badge_classification():
+    live = FIXTURE_SERIES["TANK_VLCC_MEG_FEAST"]           # real tail values
+    frozen = FIXTURE_SERIES["TANK_VLCC_MEG_FEAST_TCE"]     # real values, ended
+    disc = DISC_FIXTURE["TANK_TEST_DISC"]                   # 25 trailing zeros
+    zero = ZERO_SERIES["TANK_VLCC_CEYHAN_FEAST"]            # all-zero
+    assert js_badge_state_2e(live) == "live"
+    assert js_badge_state_2e(frozen) == "frozen"
+    assert js_badge_state_2e(disc) == "discontinued"
+    assert js_badge_state_2e(zero) == "zero"
+    # short zero runs (normal pauses between assessments) never flip the state:
+    # a 5-zero gap inside a current series must still classify live (real
+    # values follow and the last print reaches the live week), and a 2-zero
+    # tail must stay live-by-date (tail below the discontinued threshold).
+    short = {k: dict(v) if isinstance(v, list) else v for k, v in disc.items()}
+    aug1 = 1785542400000  # 2026-08-01 UTC midnight = FROZEN_CUTOFF_MS
+    short["pts"] = (
+        [(aug1, 250.0)]
+        + [(aug1 + (1 + i) * 86400000, 0) for i in range(5)]
+        + [(aug1 + (6 + i) * 86400000, 260.0 + i) for i in range(25)]
+    )
+    short["last"] = js_epoch_to_iso(short["pts"][-1][0])
+    assert js_badge_state_2e(short) == "live"
+    short2 = dict(short)
+    short2["pts"] = short["pts"] + [(aug1 + 31 * 86400000, 0), (aug1 + 32 * 86400000, 0)]
+    short2["last"] = js_epoch_to_iso(short2["pts"][-1][0])
+    assert js_badge_state_2e(short2) == "live"
+    # index.html uses a render-time detector (no hardcoded series list)
+    assert "function fearnTrailingZeroTail(" in C
+    assert "FDESK_DISC_MIN_TAIL" in C
+    m = re.search(r"function fearnDiscontinuedOf\(s\)[\s\S]*?\n\}", C)
+    assert m and "fearnTrailingZeroTail" in m.group(0)
+    # badge emits DISCONTINUED (grey = muted family, same styling as FROZEN)
+    m = re.search(r"function fearnStatusBadgeLive\(s\)[\s\S]*?\n\}", C)
+    assert m and "DISCONTINUED" in m.group(0) and "var(--text-muted)" in m.group(0)
+
+
+def test_real_cache_discontinued_census_matches_2d():
+    """The render-time detector must flag exactly the 2D-census six series
+    (long trailing-zero tails) and nothing else in either daily cache."""
+    expected = {
+        "TANK_SUEZMAX_NOVO_USG",
+        "TANK_AFRAMAX_PRIMORSK_USAC",
+        "TANK_AFRAMAX_PRIMORSK_UKC",
+        "TANK_AFRAMAX_PRIMORSK_MED",
+        "TANK_AFRAMAX_DEMURRAGE_BALTIC",
+        "TANK_AFRAMAX_KOZMINO_NORTH_CHINA_USD",
+    }
+    for path in (TANKER_JSON, DRY_JSON):
+        if not path.exists():
+            pytest.skip(f"{path.name} not built yet")
+        data = json.loads(path.read_text(encoding="utf-8"))
+        flagged = set()
+        for code, s in data["series"].items():
+            if js_is_all_zero(s):
+                continue
+            tail = js_trailing_zero_tail(s["pts"])
+            if tail >= 20:
+                flagged.add(code)
+        if path == TANKER_JSON:
+            assert flagged == expected, (
+                f"discontinued census drift: {sorted(flagged ^ expected)}")
+            # each flagged tile shows the last REAL print, not a zero placeholder
+            for code in expected:
+                s = data["series"][code]
+                tail = js_trailing_zero_tail(s["pts"])
+                lnz = s["pts"][len(s["pts"]) - tail - 1]
+                assert lnz[1] > 0
+
+
+def test_discontinued_tile_and_tooltip_copy():
+    # tile value + 'as of' sub-line instead of a zero Last and a fake delta
+    assert "fearnFmtVal(disc.lastVal)" in C
+    assert "as of ' + escapeHtml(disc.lastDate)" in C
+    # day-delta excluded: the tile branch swaps in the as-of line, the tooltip
+    # marks Day Delta n/a for discontinued series
+    assert "n/a (no live values in the recent rows)" in C
+    # tooltip note: education-first, no em dash, no QC/jargon narration
+    assert "The source stopped publishing this assessment: since " in C
+    assert "the rows it sends carry no values" in C
+    assert "this route's USD or Worldscale twin is still published" in C
+    for banned in ["inference tested", "fit disclosure QC", "R2 gate narration"]:
+        assert banned not in C
+    # badge tooltip branch explains discontinued honestly
+    assert "Discontinued Series" in C
+    assert "Day-to-day change is not shown because the recent rows carry no live values" in C
+    # no em dashes in any of the new discontinued copy
+    for marker in ["n/a (no live values in the recent rows)",
+                   "The source stopped publishing this assessment: since ",
+                   "Day-to-day change is not shown"]:
+        i = C.find(marker)
+        assert i >= 0
+        window = C[max(0, i - 400): i + 400]
+        assert chr(0x2014) not in window, f"em dash near {marker!r}"
+
+
+def test_frozen_tile_tooltips_and_wording_unchanged():
+    # 2c frozen-tile education-first wording must survive the 2E additions
+    assert "Frozen: source stopped publishing, history preserved" in C
+    assert "The source stopped publishing this assessment (last print " in C
+    assert "this route's USD or Worldscale twin is still published" in C
+    # 2b all-zero exclusion still in force on both grids
+    m = re.search(r"function fearnTankKlassSeries\(klass\) \{.*?\n\}", C, re.S)
+    assert m and "!fearnSeriesIsAllZero(s)" in m.group(0)
+    m = re.search(r"function renderFearnDryGrid\(\).*?\nfunction openFearnDryChart", C, re.S)
+    assert m and "fearnSeriesIsAllZero" in m.group(0)
+    # 8 skipped derivations surface only as the frozen-tile note (no QC narration added)
+    assert "skipped_with_reason" not in C or C.count("skipped_with_reason") <= 1
+
+
+def test_no_code_speak_in_visible_copy():
+    """Standing gate: banned identifiers/paths must not appear in visible HTML
+    (script + style content stripped) or in the JS strings that render into
+    the DOM for the fixed defects."""
+    body = re.sub(r"<script(?![^>]*\bsrc=)[^>]*>.*?</script>", "", C, flags=re.S)
+    body = re.sub(r"<style[^>]*>.*?</style>", "", body, flags=re.S)
+    for banned in ["editorial_estimate_diagnostic", "portwatch_port_congestion.csv",
+                   "chokepoint_transit_metrics.csv", "generate_ton_mile_matrix.py",
+                   "fearnpulse_rates_full.csv", "macro_health_score_backtest.csv",
+                   "bdry_liquidity.csv", "bwet_liquidity.csv",
+                   "port_lineups_active.csv"]:
+        assert banned not in body, f"code-speak in visible copy: {banned}"
+    # gas_extra jargon gone from the LNG/LPG panel title
+    assert "gas_extra overlay on right axis" not in C
+    # the two deal tables never print undefined/nan: fixed renderers guard them
+    assert "String(x).trim().toLowerCase() === 'nan'" in C
+    assert "Number.isFinite(Number(FEARNLEYS_CONTROLLER.snpPage))" in C
+    # crisis callout speaks human
+    assert "editorial estimate: about +14.5 days" in C
+    assert "an editorial estimate of about +" in C
+

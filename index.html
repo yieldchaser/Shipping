@@ -3836,39 +3836,39 @@
     }
 
     /* Map Overlays */
-    .map-active-hud {
-      position: absolute;
-      top: 12px;
-      left: 60px;
-      z-index: 1000;
-      background: rgba(17, 24, 32, 0.9);
-      border: 1px solid var(--border);
-      backdrop-filter: blur(8px);
-      padding: 6px 12px;
-      border-radius: 6px;
-      font-size: 11px;
-      color: #fff;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      pointer-events: auto;
-    }
-    .map-legend-overlay {
-      position: absolute;
-      bottom: 16px;
-      left: 12px;
-      z-index: 1000;
-      background: rgba(17, 24, 32, 0.9);
-      border: 1px solid var(--border);
-      backdrop-filter: blur(8px);
-      padding: 8px 12px;
-      border-radius: 6px;
-      font-size: 10px;
-      display: flex;
-      flex-direction: column;
-      gap: 4px;
-      pointer-events: auto;
-    }
+        .map-active-hud {
+          position: absolute;
+          top: 12px;
+          left: 60px;
+          z-index: 1000;
+          background: rgba(17, 24, 32, 0.9);
+          border: 1px solid var(--border);
+          backdrop-filter: blur(8px);
+          padding: 6px 12px;
+          border-radius: 6px;
+          font-size: 11px;
+          color: #fff;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          pointer-events: auto;
+        }
+        .map-legend-overlay {
+          position: absolute;
+          bottom: 40px;
+          left: 12px;
+          z-index: 1000;
+          background: rgba(17, 24, 32, 0.9);
+          border: 1px solid var(--border);
+          backdrop-filter: blur(8px);
+          padding: 8px 12px;
+          border-radius: 6px;
+          font-size: 10px;
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+          pointer-events: auto;
+        }
     .map-legend-item {
       display: flex;
       align-items: center;
@@ -12039,7 +12039,7 @@
         </div>
         <div class="chart-canvas-wrap" style="height:320px"><canvas id="etfHvChart"></canvas></div>
         <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Annualized HV = rolling std dev of log returns × √252. Computed from daily close prices (bdry_liquidity.csv / bwet_liquidity.csv). Regimes based on 1Y HV vs all-time percentile: &nbsp;
+          Annualized HV = rolling std dev of log returns × √252. Computed from daily close prices (BDRY and BWET liquidity volumes). Regimes based on 1Y HV vs all-time percentile: &nbsp;
           <span style="color:#58a6ff">■ Low</span> (&lt;25th) &nbsp;
           <span style="color:#3fb950">■ Normal</span> (25-75th) &nbsp;
           <span style="color:#e3b341">■ Elevated</span> (75-90th) &nbsp;
@@ -13620,7 +13620,7 @@
                 <strong>Feasibility note</strong>: gray/infeasible zones — Guinea &gt;16 Mt/mo and Brazil &gt;40 Mt/mo exceed observed/model range; slider extremes are diagnostic stress-tests only (sliders retained).
               </div>
               <div style="margin-top:8px;font-size:11px;color:var(--text-muted);line-height:1.4;">
-                <strong>Data provenance (diagnostic)</strong>: Brazil live (ComexStat), Guinea live (UN Comtrade), WAus fixed 48 Mt/mo assumption, fleet 815 Bn Ton-NM calibrated — see <code>scripts/scrapers/generate_ton_mile_matrix.py</code>.
+                <strong>Data provenance</strong>: Brazil live (ComexStat), Guinea live (UN Comtrade), WAus fixed 48 Mt/mo assumption, fleet 815 Bn Ton-NM calibrated; built by the site's ton-mile analysis pipeline.
               </div>
             </div>
           </div>
@@ -13659,6 +13659,19 @@
             <span id="fearnTcSubLine" style="font-size:10px;color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation</span>
           </div>
           <div class="chart-canvas-wrap" style="height:380px;"><canvas id="fearnTcChart"></canvas></div>
+          <div id="fearnTcStats" class="index-stats-strip" style="margin-top:10px;"></div>
+          <div class="index-range-wrap">
+            <div class="index-range-label">
+              <span>Window:</span>
+              <span id="fearnTcRangeBtns" style="display:inline-flex;gap:4px;flex-wrap:wrap;vertical-align:middle;"></span>
+              <span id="fearnTcRangeLabel" style="margin-left:8px;">Loading&hellip;</span>
+            </div>
+            <div class="dual-range-track" id="fearnTcRangeTrack">
+              <div class="dual-range-fill" id="fearnTcRangeFill"></div>
+              <input type="range" id="fearnTcRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+              <input type="range" id="fearnTcRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+            </div>
+          </div>
           <div id="fearnTcSourceNote" style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
       </div>
@@ -13679,6 +13692,19 @@
             <select id="fearnTankChartSelect" class="tracking-select" style="min-width:280px;max-width:100%;" onchange="onFearnTankChartSelect()" data-tt-type="fearn-tank-chart-select"></select>
           </div>
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnTankChart"></canvas></div>
+          <div id="fearnTankStats" class="index-stats-strip" style="margin-top:10px;"></div>
+          <div class="index-range-wrap">
+            <div class="index-range-label">
+              <span>Window:</span>
+              <span id="fearnTankRangeBtns" style="display:inline-flex;gap:4px;flex-wrap:wrap;vertical-align:middle;"></span>
+              <span id="fearnTankRangeLabel" style="margin-left:8px;">Loading&hellip;</span>
+            </div>
+            <div class="dual-range-track" id="fearnTankRangeTrack">
+              <div class="dual-range-fill" id="fearnTankRangeFill"></div>
+              <input type="range" id="fearnTankRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+              <input type="range" id="fearnTankRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+            </div>
+          </div>
           <div style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">daily points, uninterpolated · decimation is render-only (pointRadius 0) — the plotted data stays daily</div>
         </div>
       </div>
@@ -13699,6 +13725,19 @@
             <select id="fearnDryChartSelect" class="tracking-select" style="min-width:280px;max-width:100%;" onchange="onFearnDryChartSelect()" data-tt-type="fearn-dry-chart-select"></select>
           </div>
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnDryChart"></canvas></div>
+          <div id="fearnDryStats" class="index-stats-strip" style="margin-top:10px;"></div>
+          <div class="index-range-wrap">
+            <div class="index-range-label">
+              <span>Window:</span>
+              <span id="fearnDryRangeBtns" style="display:inline-flex;gap:4px;flex-wrap:wrap;vertical-align:middle;"></span>
+              <span id="fearnDryRangeLabel" style="margin-left:8px;">Loading&hellip;</span>
+            </div>
+            <div class="dual-range-track" id="fearnDryRangeTrack">
+              <div class="dual-range-fill" id="fearnDryRangeFill"></div>
+              <input type="range" id="fearnDryRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+              <input type="range" id="fearnDryRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+            </div>
+          </div>
           <div style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">daily points, uninterpolated · decimation is render-only (pointRadius 0) — the plotted data stays daily</div>
         </div>
       </div>
@@ -13759,13 +13798,26 @@
       <div class="fearn-sec" id="fearnSec6" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="LNG carrier broker valuations grouped by subtype from the gas cache, with the gas-extra series (project cargo / floating units) overlaid on the right axis."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · gas_extra overlay on right axis</span></div>
+            <div class="chart-title" data-tooltip="LNG carrier broker valuations grouped by subtype from the gas cache, with gas-carrier spot jobs and project cargo valuations overlaid on the right axis."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· grouped by subtype · spot &amp; project jobs overlay on right axis</span></div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnLngSelect" class="tracking-select" style="min-width:360px;max-width:100%;" onchange="onFearnGasSel('LNG')"></select>
           </div>
           <div class="tracking-kpi-grid" id="fearnLngStats"></div>
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnLngChart"></canvas></div>
+          <div id="fearnLngStats52" class="index-stats-strip" style="margin-top:10px;"></div>
+          <div class="index-range-wrap">
+            <div class="index-range-label">
+              <span>Window:</span>
+              <span id="fearnLngRangeBtns" style="display:inline-flex;gap:4px;flex-wrap:wrap;vertical-align:middle;"></span>
+              <span id="fearnLngRangeLabel" style="margin-left:8px;">Loading&hellip;</span>
+            </div>
+            <div class="dual-range-track" id="fearnLngRangeTrack">
+              <div class="dual-range-fill" id="fearnLngRangeFill"></div>
+              <input type="range" id="fearnLngRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+              <input type="range" id="fearnLngRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+            </div>
+          </div>
           <div id="fearnLngNote" style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
           <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin-top:20px;border-top:1px solid var(--border);padding-top:12px;">
             <div class="chart-title" style="font-size:13px;" data-tooltip="Time-charter tenor family: how the LNG valuations vary by charter period length, from the same gas cache.">LNG TC Tenor Family</div>
@@ -13791,6 +13843,19 @@
           </div>
           <div class="tracking-kpi-grid" id="fearnLpgStats"></div>
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnLpgChart"></canvas></div>
+          <div id="fearnLpgStats52" class="index-stats-strip" style="margin-top:10px;"></div>
+          <div class="index-range-wrap">
+            <div class="index-range-label">
+              <span>Window:</span>
+              <span id="fearnLpgRangeBtns" style="display:inline-flex;gap:4px;flex-wrap:wrap;vertical-align:middle;"></span>
+              <span id="fearnLpgRangeLabel" style="margin-left:8px;">Loading&hellip;</span>
+            </div>
+            <div class="dual-range-track" id="fearnLpgRangeTrack">
+              <div class="dual-range-fill" id="fearnLpgRangeFill"></div>
+              <input type="range" id="fearnLpgRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+              <input type="range" id="fearnLpgRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+            </div>
+          </div>
           <div id="fearnLpgNote" style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
           <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin-top:20px;border-top:1px solid var(--border);padding-top:12px;">
             <div class="chart-title" style="font-size:13px;" data-tooltip="Time-charter tenor family: how LPG valuations vary by charter period length, from the same gas cache.">LPG TC Tenor Family</div>
@@ -14506,22 +14571,13 @@ if (intelTabsContainer) {
             </div>
 
             <div class="map-legend-overlay">
-            <div class="map-active-hud">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
-                <circle cx="12" cy="12" r="10"></circle>
-                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
-              </svg>
-              <span id="mapHudDetail">1,568 vessels rendered across 36 ports</span>
-            </div>
-
-            <div class="map-legend-overlay">
               <div class="map-legend-item"><span class="map-legend-dot berth"></span> At Berth (Discharging/Loading)</div>
               <div class="map-legend-item"><span class="map-legend-dot anchor"></span> At Anchor (Waiting)</div>
               <div class="map-legend-item"><span class="map-legend-dot strait"></span> Strategic Maritime Chokepoint</div>
               <div class="map-legend-item"><span class="map-legend-dot reroute"></span> High-Risk Conflict Rerouting Zone</div>
             </div>
 
-            <div id="mapCoordsOverlay" class="map-coords-overlay">Lat: 20.00°, Lon: 45.00°</div>
+            <div id="mapCoordsOverlay" class="map-coords-overlay">Lat: 20.00&deg;, Lon: 45.00&deg;</div>
 
             <!-- Map Canvas -->
             <div id="trackingMap"></div>
@@ -14554,7 +14610,7 @@ if (intelTabsContainer) {
             </div>
 
             <div class="cp-narrative-note" id="cpDrawerNote">
-              <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope (est. +14.5 days, editorial_estimate_diagnostic).
+              <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope (editorial estimate: about +14.5 days).
             </div>
 
             <div class="cp-kpis-strip">
@@ -26841,7 +26897,7 @@ if (intelTabsContainer) {
       const hasData = rows.length > 0;
       // Honest default ONLY used for the static calculator display; when no live EUA
       // observation exists the chart discloses "history accumulates from first live pull".
-      const latest = hasData ? rows[rows.length - 1] : { singHi5: 147.0, euaPriceEur: 68.0, _diagnostic: true };
+      const latest = hasData ? rows[rows.length - 1] : { singHi5: 147.0, euaPriceEur: 68.0, noLiveObservation: true };
 
       const hi5 = latest.singHi5 || 147.0;
       const eua = latest.euaPriceEur || 68.0;
@@ -26956,7 +27012,7 @@ if (intelTabsContainer) {
       const totalTonMiles = wausTonMiles + brazilTonMiles + guineaTonMiles;
 
       const baseUtil = (totalTonMiles / 815.0) * 100.0;
-      // Disclosure: simulator display clamp lower bound 65.0 vs model 60.0 in scripts/scrapers/generate_ton_mile_matrix.py:113 — values unchanged (diagnostic).
+      // Disclosure: simulator display clamp lower bound 65.0 vs model 60.0 in the ton-mile analysis pipeline — values unchanged (diagnostic).
       const activeUtil = Math.min(98.5, Math.max(65.0, baseUtil + (congestionPct - 4.5) * 1.2));
 
       if (elBadge) {
@@ -27512,15 +27568,23 @@ function renderFearnleysRecentFixtures() {
 
   let html = '';
   filtered.slice(0, 100).forEach(r => {
+    const clean = (x) => (x == null || x === '' || String(x).trim().toLowerCase() === 'nan') ? null : x;
+    const dateStr = clean(r.date) || '—';
+    const vesselStr = clean(r.vessel) || '—';
+    const segStr = clean(r.segment) || '—';
+    const chartererStr = clean(r.charterer) || '—';
+    const routeStr = clean(r.route) || '—';
+    const rateStr = clean(r.rate) || '—';
+    const laycanStr = clean(r.laycan) || 'Prompt';
     html += `
       <tr data-tooltip=" " data-tt-type="fearnleys-recent-fixture" data-tt-vessel="${escapeHtml(r.vessel || '')}" data-tt-charterer="${escapeHtml(r.charterer || '')}" data-tt-seg="${escapeHtml(r.segment || '')}" data-tt-route="${escapeHtml(r.route || '')}" data-tt-rate="${escapeHtml(r.rate || '')}" data-tt-date="${escapeHtml(r.date || '')}" data-tt-laycan="${escapeHtml(r.laycan || '')}">
-        <td class="mono" style="color:var(--text-muted);">${r.date}</td>
-        <td style="font-weight:600;color:var(--text-bright);">${r.vessel}</td>
-        <td><span class="fearn-badge fearn-badge-bulk">${r.segment}</span></td>
-        <td style="font-weight:600;">${r.charterer}</td>
-        <td style="font-size:10px;color:var(--text-muted);">${r.route}</td>
-        <td class="mono" style="color:var(--accent);">${r.rate}</td>
-        <td class="mono" style="color:var(--text-muted);">${r.laycan || 'Prompt'}</td>
+        <td class="mono" style="color:var(--text-muted);">${dateStr}</td>
+        <td style="font-weight:600;color:var(--text-bright);">${vesselStr}</td>
+        <td><span class="fearn-badge fearn-badge-bulk">${segStr}</span></td>
+        <td style="font-weight:600;">${chartererStr}</td>
+        <td style="font-size:10px;color:var(--text-muted);">${routeStr}</td>
+        <td class="mono" style="color:var(--accent);">${rateStr}</td>
+        <td class="mono" style="color:var(--text-muted);">${laycanStr}</td>
       </tr>
     `;
   });
@@ -27780,7 +27844,8 @@ function renderFearnleysSnpTable() {
     return true;
   });
 
-  const page = FEARNLEYS_CONTROLLER.snpPage || 1;
+  const page = Number.isFinite(Number(FEARNLEYS_CONTROLLER.snpPage)) && Number(FEARNLEYS_CONTROLLER.snpPage) >= 1 ? Number(FEARNLEYS_CONTROLLER.snpPage) : 1;
+  FEARNLEYS_CONTROLLER.snpPage = page;
   const pageSize = 50;
   const totalPages = Math.ceil(filtered.length / pageSize) || 1;
   if (FEARNLEYS_CONTROLLER.snpPage > totalPages) FEARNLEYS_CONTROLLER.snpPage = totalPages;
@@ -27792,7 +27857,7 @@ function renderFearnleysSnpTable() {
 
   const countLabel = document.getElementById('fearnSnpCountLabel');
   if (countLabel) {
-    countLabel.textContent = `Showing ${filtered.length ? start + 1 : 0}–${end} of ${filtered.length} recorded deals`;
+    countLabel.textContent = `Showing ${filtered.length ? start + 1 : 0}-${end} of ${filtered.length} recorded deals`;
   }
   // Live header/badge/segment counts straight from the cache (never hardcoded).
   const snpMeta = summary.snp_deals || {};
@@ -27829,22 +27894,29 @@ function renderFearnleysSnpTable() {
   let html = '';
   paged.forEach(d => {
     const badgeClass = d.segment === 'bulk' ? 'fearn-badge-bulk' : 'fearn-badge-tank';
+    const clean = (x) => (x == null || x === '' || String(x).trim().toLowerCase() === 'nan') ? null : x;
     const priceStr = d.price_usd_m ? '$' + d.price_usd_m.toFixed(1) + 'M' : '—';
     const dwtStr = d.dwt ? Number(d.dwt).toLocaleString() : '—';
     const usdPerDwtStr = d.usd_per_dwt ? '$' + Number(d.usd_per_dwt).toLocaleString() : '—';
+    const yardStr = clean(d.yard) || '—';
+    const buyerStr = clean(d.buyer) || '—';
+    const commentStr = clean(d.comment) || '—';
+    const vesselStr = clean(d.vessel) || '—';
+    const segStr = clean(d.segment) || '—';
+    const dateStr = clean(d.date) || '—';
 
     html += `
-      <tr data-tooltip=" " data-tt-type="fearnleys-snp-deal" data-tt-deal-id="${d.id}" data-tt-vessel="${d.vessel}" data-tt-price="${d.price_usd_m || 0}" data-tt-dwt="${d.dwt || 0}">
-        <td class="mono" style="color:var(--text-muted);">${d.date}</td>
-        <td style="font-weight:600;color:var(--text-bright);">${d.vessel}</td>
-        <td><span class="fearn-badge ${badgeClass}">${d.segment}</span></td>
+      <tr data-tooltip=" " data-tt-type="fearnleys-snp-deal" data-tt-deal-id="${d.id}" data-tt-vessel="${vesselStr}" data-tt-price="${d.price_usd_m || 0}" data-tt-dwt="${d.dwt || 0}">
+        <td class="mono" style="color:var(--text-muted);">${dateStr}</td>
+        <td style="font-weight:600;color:var(--text-bright);">${vesselStr}</td>
+        <td><span class="fearn-badge ${badgeClass}">${segStr}</span></td>
         <td class="mono" style="text-align:right;">${d.built || '—'}</td>
-        <td style="font-size:10px;color:var(--text-muted);">${d.yard}</td>
+        <td style="font-size:10px;color:var(--text-muted);">${yardStr}</td>
         <td class="mono" style="text-align:right;">${dwtStr}</td>
         <td class="mono" style="text-align:right;font-weight:600;color:var(--accent);">${priceStr}</td>
         <td class="mono" style="text-align:right;color:#e3b341;">${usdPerDwtStr}</td>
-        <td style="font-weight:500;">${d.buyer}</td>
-        <td style="font-size:10px;color:var(--text-muted);max-width:180px;overflow:hidden;text-overflow:ellipsis;" title="${d.comment}">${d.comment || '—'}</td>
+        <td style="font-weight:500;">${buyerStr}</td>
+        <td style="font-size:10px;color:var(--text-muted);max-width:180px;overflow:hidden;text-overflow:ellipsis;" title="${commentStr}">${commentStr}</td>
       </tr>
     `;
   });
@@ -28337,7 +28409,7 @@ function renderSignalsTab(productKey) {
       ];
 
       // For each product, get latest value and value N days ago
-      var prodLabels = { bdiy: 'BDI', cape: 'Capesize', panama: 'Panamax', suprama: 'Supramax', handysize: 'Handysize', cleantanker: 'Clean Tanker', dirtytanker: 'Dirty Tanker', bdry_spot: 'BDRY Spot', bdryff: 'BDRYFF', bwetff: 'BWETFF', bdry: 'BDRY Stock', bwet: 'BWET Stock' };
+      var prodLabels = { bdiy: 'BDI', cape: 'Capesize', panama: 'Panamax', suprama: 'Supramax', handysize: 'Handysize', cleantanker: 'Clean Tanker', dirtytanker: 'Dirty Tanker', bdry_spot: 'BDRY Spot', bdryff: 'BDRYFF', bwetff: 'BWETFF', bdry: 'BDRY Stock', bwet: 'BWET Stock', clmi: 'CLMI', cldbi: 'CLDBI', clti: 'CLTI', clci: 'CLCI', cllg: 'CLLG', clmfi: 'CLMFI', clmlp: 'CLMLP' };
 
       var html = '<table class="heatmap-table" style="min-width:520px;width:100%"><thead><tr>';
       html += '<th style="text-align:left">Product</th>';
@@ -29201,7 +29273,7 @@ function renderSignalsTab(productKey) {
             r.chgPct != null ? r.chgPct.toFixed(2) + '%' : ''
           ];
         });
-        downloadCSV('bdry_liquidity.csv', headers, csvRows);
+        downloadCSV('BDRY_liquidity_history.csv', headers, csvRows);
       };
     }
 
@@ -29577,7 +29649,7 @@ function renderSignalsTab(productKey) {
             r.chgPct != null ? r.chgPct.toFixed(2) + '%' : ''
           ];
         });
-        downloadCSV('bwet_liquidity.csv', headers, csvRows);
+        downloadCSV('BWET_liquidity_history.csv', headers, csvRows);
       };
     }
 
@@ -33077,7 +33149,20 @@ function renderSignalsTab(productKey) {
       }
     }
 
-    function _paintBrief(el, tsEl, data) {
+    // Human-readable label for knowledge-corpus source ids shown in the brief's
+// Corpus Sources chips: 'breakwave_drybulk_2026-09-01' -> 'Breakwave Drybulk, Sep 1 2026'.
+function humanIntelSourceId(raw) {
+  const s = String(raw || '');
+  const m = /^(.*?)_?(\d{4}-\d{2}-\d{2})$/.exec(s);
+  const name = (m && m[1] ? m[1] : s).replace(/[_-]+/g, ' ').trim();
+  const pretty = name.replace(/\b\w/g, c => c.toUpperCase()) || s;
+  if (!m || !m[2]) return pretty;
+  const d = new Date(m[2] + 'T00:00:00Z');
+  const mon = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'][d.getUTCMonth()];
+  return pretty + ', ' + mon + ' ' + d.getUTCDate() + ' ' + d.getUTCFullYear();
+}
+
+function _paintBrief(el, tsEl, data) {
       const {
         generated_at,
         brief_date,
@@ -33452,7 +33537,7 @@ function renderSignalsTab(productKey) {
           </div>
           <div class="brief-meta-group">
             <span class="brief-meta-label">Corpus Sources:</span>
-            ${shownSources.map(src => `<span class="qa-cit">${esc(src)}</span>`).join('')}
+            ${shownSources.map(src => `<span class="qa-cit">${esc(humanIntelSourceId(src))}</span>`).join('')}
             ${remainingSources > 0 ? `<span class="qa-cit">+${remainingSources} more</span>` : ''}
           </div>
         </div>`;
@@ -36446,7 +36531,8 @@ var trackingMinDwt = 0;
 var trackingTonnageLens = false;
 // Provenance tag for any Tracking figure derived outside direct observation
 // (Suez-vs-Cape delta, queue-pressure signal). Never presented as measured fact.
-var TRACKING_EST_PROVENANCE = 'editorial_estimate_diagnostic';
+// Value must stay human-readable: it is interpolated into visible UI copy.
+var TRACKING_EST_PROVENANCE = 'editorial estimate';
 window.TRACKING_PROVENANCE = { derived_estimate: TRACKING_EST_PROVENANCE };
 
 var trackingActiveSubView = 'lineup';
@@ -36802,7 +36888,7 @@ function renderPortHistory() {
     strip.innerHTML = chips;
   }
   var foot = document.getElementById('phFootnote');
-  if (foot) foot.innerHTML = 'Source: data/congestion/portwatch_port_congestion.csv (IMF PortWatch) \u00b7 port names read from the file\u2019s own portname column (no external portid lookup) \u00b7 5Y baseline = mean of 2019-2025 daily values in the same calendar window as the displayed 120-day window \u00b7 LNG/LPG call counts are not published by PortWatch \u2014 gas-hull detail lives in the lineup snapshot.';
+  if (foot) foot.innerHTML = 'Source: IMF PortWatch daily port activity (AIS) \u00b7 port names come straight from the PortWatch data itself, no external lookup \u00b7 5Y baseline = mean of 2019-2025 daily values in the same calendar window as the displayed 120-day window \u00b7 LNG/LPG call counts are not published by PortWatch: gas-hull detail lives in the lineup snapshot.';
   if (!win) {
     if (portHistoryChartInstance) { portHistoryChartInstance.destroy(); portHistoryChartInstance = null; }
     return;
@@ -37066,15 +37152,15 @@ function trackingReroutingTelemetry() {
   (DATA.chokepointMetrics || []).forEach(function(m) {
     var nm = (m.chokepoint || '').toLowerCase();
     if (nm.includes('bab-el-mandeb') || nm.includes('bab el')) {
-      if (m.diverted_pct != null && m.diverted_pct !== '') { out.divertedPct = parseFloat(m.diverted_pct); out.divertedSrc = 'chokepoint_transit_metrics.csv (Bab-el-Mandeb)'; }
-      if (m.avg_rerouting_voyage_days_added != null && m.avg_rerouting_voyage_days_added !== '') { out.daysAdded = parseFloat(m.avg_rerouting_voyage_days_added); out.daysSrc = 'chokepoint_transit_metrics.csv'; }
+      if (m.diverted_pct != null && m.diverted_pct !== '') { out.divertedPct = parseFloat(m.diverted_pct); out.divertedSrc = 'modeled chokepoint transit metrics (Bab el-Mandeb)'; }
+      if (m.avg_rerouting_voyage_days_added != null && m.avg_rerouting_voyage_days_added !== '') { out.daysAdded = parseFloat(m.avg_rerouting_voyage_days_added); out.daysSrc = 'modeled chokepoint transit metrics'; }
       if (m.implied_tonne_mile_expansion_pct != null && m.implied_tonne_mile_expansion_pct !== '') out.tonneMilePct = parseFloat(m.implied_tonne_mile_expansion_pct);
     }
   });
   var meta = DATA.chokepointSummary && DATA.chokepointSummary.meta;
   if (meta && meta.rerouting_crisis) {
     if (meta.rerouting_crisis.cape_of_good_hope_surge_pct != null) { out.capePct = parseFloat(meta.rerouting_crisis.cape_of_good_hope_surge_pct); out.capeSrc = 'chokepoint_geo_summary.json rerouting_crisis'; }
-    if (out.daysAdded == null && meta.rerouting_crisis.implied_additional_voyage_days != null) { out.daysAdded = parseFloat(meta.rerouting_crisis.implied_additional_voyage_days); out.daysSrc = 'chokepoint_geo_summary.json rerouting_crisis'; }
+    if (out.daysAdded == null && meta.rerouting_crisis.implied_additional_voyage_days != null) { out.daysAdded = parseFloat(meta.rerouting_crisis.implied_additional_voyage_days); out.daysSrc = 'chokepoint summary rerouting note'; }
     if (out.tonneMilePct == null && meta.rerouting_crisis.implied_tonne_mile_expansion_pct != null) out.tonneMilePct = parseFloat(meta.rerouting_crisis.implied_tonne_mile_expansion_pct);
   }
   return out;
@@ -38122,8 +38208,8 @@ function openChokepointAnalytics(chokepointId) {
   if (noteEl) {
     if (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal') {
       var daysTxt = trackingReroutingTelemetry().daysAdded;
-      var daysStr = (daysTxt != null) ? ('~+' + daysTxt.toFixed(1) + ' days (editorial_estimate_diagnostic)') : '+10-14 days (range estimate)';
-      noteEl.innerHTML = '<strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope (' + daysStr + ').';
+      var daysStr = (daysTxt != null) ? ('an editorial estimate of about +' + daysTxt.toFixed(1) + ' days') : 'a range estimate of +10 to +14 days';
+      noteEl.innerHTML = '<strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding ' + daysStr + '.';
     } else if (cp.id === 'cape_good_hope') {
       noteEl.innerHTML = '<strong>Cape Rerouting Surge</strong>: Circumnavigating Africa absorbs excess fleet capacity, expanding global ton-mile demand and lifting container and tanker TCE earnings.';
     } else if (cp.id === 'panama_canal') {
@@ -38447,7 +38533,7 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Waiting Vessels (Snapshot)</span><span class="rt-val">${p.waiting != null ? p.waiting : 'n/a'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Total Vessels (Snapshot)</span><span class="rt-val">${p.total != null ? p.total : 'n/a'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Voyage Tracks</span><span class="rt-val" style="color:var(--yellow);">not in these sources; the lineup snapshot only shows port calls</span></div>`;
-          html += `<div class="rt-note">Circle size on the map = waiting-vessel count per port (port_lineups_active.csv snapshot, future-dated rows excluded). Click a port pin for the full vessel lineup; clicking a vessel row shows its full recorded detail.</div>`;
+          html += `<div class="rt-note">Circle size on the map = waiting-vessel count per port (lineup snapshot, future-dated rows excluded). Click a port pin for the full vessel lineup; clicking a vessel row shows its full recorded detail.</div>`;
         }
         else if (type === 'tracking-port-vessel-row') {
           const g = k => target.getAttribute(k);
@@ -38462,7 +38548,7 @@ function escapeHtml(str) {
           if (!isNaN(wN) && wN > 0) html += `<div class="rt-row"><span class="rt-label">Days Waiting</span><span class="rt-val" style="color:var(--yellow);">${wN.toFixed(1)} Days</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Arrival / Anchored Since</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${(g('data-tt-arrival') || 'n/a').slice(0, 16)}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Voyage Track</span><span class="rt-val" style="color:var(--yellow);">not in these sources; the lineup snapshot only shows port calls</span></div>`;
-          html += `<div class="rt-note">All fields come from the live port_lineups_active.csv row. No origin-port, destination or historical track fields are not in this data drop; stated plainly rather than inferred.</div>`;
+          html += `<div class="rt-note">All fields come from the live lineup snapshot row. Origin-port, destination and historical track fields are not in this data drop; stated plainly rather than inferred.</div>`;
         }
         else if (type === 'portwatch-callout') {
           const ctx = target.getAttribute('data-tt-context');
@@ -38473,8 +38559,8 @@ function escapeHtml(str) {
           if (Y.base != null) html += `<div class="rt-row"><span class="rt-label">5Y Same-Window Mean</span><span class="rt-val">${Y.base.toLocaleString(undefined, {maximumFractionDigits: 1})} calls/day</span></div>`;
           if (Y.delta != null) html += `<div class="rt-row"><span class="rt-label">Latest vs 5Y Mean</span><span class="rt-val ${Y.delta >= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${Y.delta > 0 ? '+' : ''}${Y.delta.toFixed(1)}%</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Baseline Definition</span><span class="rt-val">Mean of all 2019\u20132025 daily values in the same calendar window, computed from the CSV, never hardcoded</span></div>`;
-          if (ctx === 'note') html += `<div class="rt-note">Port names come straight from the PortWatch file's own portname column (the file stores the portid to portname mapping itself; no external lookup needed). Sector call splits exist for dry_bulk / tanker / container across all 43 ports; LNG / LPG call counts are not published by PortWatch; gas-hull detail lives in the lineup snapshot.</div>`;
-          else html += `<div class="rt-note">Baseline and badge are recomputed from portwatch_port_congestion.csv on every load, no hardcoded values.</div>`;
+          if (ctx === 'note') html += `<div class="rt-note">Port names come straight from the PortWatch data itself (the dataset stores the portid to portname mapping internally; no external lookup needed). Sector call splits exist for dry bulk, tanker and container across all 43 ports; LNG / LPG call counts are not published by PortWatch; gas-hull detail lives in the lineup snapshot.</div>`;
+          else html += `<div class="rt-note">Baseline and badge are recomputed from the IMF PortWatch feed on every load; no hardcoded values.</div>`;
         }
         else if (type === 'fearnleys-56y-tce') {
           const segKey = target.getAttribute('data-tt-seg');
@@ -41179,13 +41265,31 @@ function escapeHtml(str) {
 
         else if (type === 'fearn-route-state') {
           const live = target.getAttribute('data-tt-live') === '1';
+          const st = target.getAttribute('data-tt-state') || (live ? 'live' : 'frozen');
           const lastD = target.getAttribute('data-tt-last') || '';
           const metaNotes = (window.FDESK_TANKER_META && FDESK_TANKER_META.notes) || (window.FDESK_DRY_META && FDESK_DRY_META.notes) || '';
-          html = `<div class="rt-title">${live ? 'Live Series' : 'Frozen Series'}</div>`;
-          html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'LIVE' : 'FROZEN'}</span></div>`;
-          if (lastD) html += `<div class="rt-row"><span class="rt-label">Last Print</span><span class="rt-val">${escapeHtml(lastD)}</span></div>`;
-          if (!live && metaNotes) html += `<div class="rt-note">${escapeHtml(String(metaNotes).slice(0, 320))}</div>`;
-          else html += `<div class="rt-note">${live ? 'Live: assessed daily, still publishing.' : ('Frozen: the source stopped publishing this series. Last print ' + escapeHtml(lastD || 'unknown') + '.')}</div>`;
+          if (st === 'discontinued') {
+            // The badge sits inside a route tile: read the series from the tile's code.
+            const card = target.closest('[data-tt-code]');
+            const code = card ? card.getAttribute('data-tt-code') : null;
+            const jt = window.DATA && DATA.fearnleysTankerRoutesDaily;
+            const jd = window.DATA && DATA.fearnleysDryRoutesDaily;
+            const ser = (code && jt && jt.series && jt.series[code]) ? jt.series[code]
+                      : ((code && jd && jd.series && jd.series[code]) ? jd.series[code] : null);
+            const disc = ser ? fearnDiscontinuedOf(ser) : null;
+            const fnum = (v) => (v == null ? 'n/a' : (v % 1 === 0 ? Number(v).toLocaleString('en-US') : Number(v).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 })));
+            html = `<div class="rt-title">Discontinued Series</div>`;
+            html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:var(--text-muted);">DISCONTINUED</span></div>`;
+            if (disc) html += `<div class="rt-row"><span class="rt-label">Last Real Print</span><span class="rt-val">${fnum(disc.lastVal)} \u00b7 ${escapeHtml(disc.lastDate)}</span></div>`;
+            if (lastD) html += `<div class="rt-row"><span class="rt-label">Row Feed Ends</span><span class="rt-val">${escapeHtml(lastD)}</span></div>`;
+            html += `<div class="rt-note">The source stopped publishing this assessment: the rows it still sends carry no values, so the last real print is ${escapeHtml(disc ? disc.lastDate : (lastD || 'unknown'))}. Day-to-day change is not shown because the recent rows carry no live values.</div>`;
+          } else {
+            html = `<div class="rt-title">${live ? 'Live Series' : 'Frozen Series'}</div>`;
+            html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'LIVE' : 'FROZEN'}</span></div>`;
+            if (lastD) html += `<div class="rt-row"><span class="rt-label">Last Print</span><span class="rt-val">${escapeHtml(lastD)}</span></div>`;
+            if (!live && metaNotes) html += `<div class="rt-note">${escapeHtml(String(metaNotes).slice(0, 320))}</div>`;
+            else html += `<div class="rt-note">${live ? 'Live: assessed daily, still publishing.' : ('Frozen: the source stopped publishing this series. Last print ' + escapeHtml(lastD || 'unknown') + '.')}</div>`;
+          }
         }
         else if (type === 'fearn-tank-tile' || type === 'fearn-dry-tile') {
           const j = type === 'fearn-tank-tile' ? (window.DATA && DATA.fearnleysTankerRoutesDaily) : (window.DATA && DATA.fearnleysDryRoutesDaily);
@@ -41200,17 +41304,24 @@ function escapeHtml(str) {
             const fmt = (v) => (v == null ? 'n/a' : (v % 1 === 0 ? Number(v).toLocaleString('en-US') : Number(v).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 2 })));
             const unitName = (u) => u === 'ws' ? 'Worldscale points' : (u === 'tce' ? 'USD/day TCE' : (u === 'usd/day' ? 'USD/day' : (u === 'usd/tonne' ? 'USD/tonne' : (u === 'count' ? 'fixtures (count)' : (u === 'usd' ? 'USD' : String(u))))));
             const live = (s.last || '') >= '2026-08-01';
+            const disc = fearnDiscontinuedOf(s);
             const kb = (window.FDESK_ROUTE_KB && FDESK_ROUTE_KB[(s.klass || '') + '|' + (s.route || '')]) || null;
             const built = type === 'fearn-tank-tile' ? (window.FDESK_TANKER_META && FDESK_TANKER_META.builtUtc) : (window.FDESK_DRY_META && FDESK_DRY_META.builtUtc);
             html = `<div class="rt-title">${escapeHtml(s.label)}</div>`;
-            if (last) html += `<div class="rt-row"><span class="rt-label">Last</span><span class="rt-val">${fmt(last[1])} \u00b7 ${iso(last[0])}</span></div>`;
-            if (prev) { const d = last[1] - prev[1]; html += `<div class="rt-row"><span class="rt-label">Day Delta</span><span class="rt-val ${d > 0 ? 'pos' : (d < 0 ? 'neg' : '')}">${d > 0 ? '+' : ''}${fmt(d)} vs ${fmt(prev[1])} (${iso(prev[0])})</span></div>`; }
+            if (disc) {
+              html += `<div class="rt-row"><span class="rt-label">Last</span><span class="rt-val">${fmt(disc.lastVal)} \u00b7 ${escapeHtml(disc.lastDate)}</span></div>`;
+              html += `<div class="rt-row"><span class="rt-label">Day Delta</span><span class="rt-val">n/a (no live values in the recent rows)</span></div>`;
+            } else {
+              if (last) html += `<div class="rt-row"><span class="rt-label">Last</span><span class="rt-val">${fmt(last[1])} \u00b7 ${iso(last[0])}</span></div>`;
+              if (prev) { const d = last[1] - prev[1]; html += `<div class="rt-row"><span class="rt-label">Day Delta</span><span class="rt-val ${d > 0 ? 'pos' : (d < 0 ? 'neg' : '')}">${d > 0 ? '+' : ''}${fmt(d)} vs ${fmt(prev[1])} (${iso(prev[0])})</span></div>`; }
+            }
             html += `<div class="rt-row"><span class="rt-label">First Obs</span><span class="rt-val">${escapeHtml(String(s.first || 'n/a'))}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Last Obs</span><span class="rt-val">${escapeHtml(String(s.last || 'n/a'))}</span></div>`;
             if (s.n != null) html += `<div class="rt-row"><span class="rt-label">Observations</span><span class="rt-val">${Number(s.n).toLocaleString('en-US')} pts</span></div>`;
             if (s.cadence) html += `<div class="rt-row"><span class="rt-label">Cadence</span><span class="rt-val">${escapeHtml(String(s.cadence))}</span></div>`;
             if (s.unit) html += `<div class="rt-row"><span class="rt-label">Unit</span><span class="rt-val">${escapeHtml(unitName(s.unit))}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'Live: assessed daily, still publishing' : 'Frozen: source stopped publishing, history preserved'}</span></div>`;
+            if (disc) html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:var(--text-muted);">Discontinued at source: the rows after ${escapeHtml(disc.lastDate)} carry no values</span></div>`;
+            else html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'Live: assessed daily, still publishing' : 'Frozen: source stopped publishing, history preserved'}</span></div>`;
             if (s.derivation) html += `<div class="rt-row"><span class="rt-label">Derivation</span><span class="rt-val">${escapeHtml(String(s.derivation))}</span></div>`;
             if (s.klass) html += `<div class="rt-row"><span class="rt-label">Group</span><span class="rt-val">${escapeHtml(String(s.klass))}</span></div>`;
             if (kb) {
@@ -41218,7 +41329,9 @@ function escapeHtml(str) {
               html += `<div class="rt-row"><span class="rt-label">What moves it</span><span class="rt-val">${escapeHtml(kb.drivers)}</span></div>`;
               html += `<div class="rt-row"><span class="rt-label">What it feeds</span><span class="rt-val">${escapeHtml(kb.affects)}</span></div>`;
             }
-            if (live) {
+            if (disc) {
+              html += `<div class="rt-note">The source stopped publishing this assessment: since ${escapeHtml(disc.firstZeroDate)} the rows it sends carry no values. The tile shows the last real print of ${fmt(disc.lastVal)} (as of ${escapeHtml(disc.lastDate)}); this route's USD or Worldscale twin is still published.</div>`;
+            } else if (live) {
               html += `<div class="rt-note">Fearnleys daily assessments${built ? ' \u00b7 fetched ' + escapeHtml(String(built)) : ''}</div>`;
             } else {
               html += `<div class="rt-note">The source stopped publishing this assessment (last print ${escapeHtml(String(s.last || ''))}); this route's USD or Worldscale twin is still published.</div>`;
@@ -42704,6 +42817,7 @@ var FDESK = {
   lngTcFamChart: null, lngSpotFamChart: null, lpgTcFamChart: null, lpgSpotFamChart: null,
   tape: null, facets: null, fxPage: 0, fxQ: '', fxDept: 'ALL', fxMonthly: null,
   musType: 'ALL', musQ: '', musChart: null,
+  rangeWin: {},
   museumOnlySubtypes: ['CALCULATED', 'MARKET', 'BLPG', 'EQUINOR', 'BALTIC INDEX', 'SUEZMAX-MARKET']
 };
 
@@ -43016,24 +43130,90 @@ function renderFearnTc() {
   if (typeof Chart === 'undefined') return;
   var canvas = document.getElementById('fearnTcChart');
   if (!canvas) return;
-  if (FDESK.tcChart) { FDESK.tcChart.destroy(); FDESK.tcChart = null; }
-  FDESK.tcChart = new Chart(canvas.getContext('2d'), {
-    type: 'line',
-    data: { labels: dates, datasets: datasets },
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      normalized: true,
-      interaction: { mode: 'nearest', axis: 'x', intersect: false },
-      plugins: {
-        legend: { display: true, labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 11 } } },
-        tooltip: { backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8', callbacks: { label: function (it) { return ' ' + it.dataset.label + ': $' + Number(it.parsed.y).toLocaleString() + '/day'; } } }
-      },
-      scales: {
-        x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 14, autoSkip: true, maxRotation: 0 } },
-        y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, callback: function (v) { return v >= 1000 ? (v / 1000) + 'k' : v; } } }
+  // 2E: window + 52W stats. Baltic mode = one row per weekly print date
+  // (values across tenors); stats compute on the flagship 1Y tenor (published
+  // since 2000). Fearnleys mode = the single monthly archive series.
+  var st = null;
+  var drawWin = function (sIdx, eIdx) {
+    if (FDESK.tcChart) { FDESK.tcChart.destroy(); FDESK.tcChart = null; }
+    var visDates, visDatasets, reach52 = false;
+    if (FDESK.tcSource === 'fearnleys') {
+      var rowsF = (aser && aser.m) ? aser.m.map(function (p) { return { ym: p[0], v: p[1] }; }) : [];
+      if (!aser || !aser.m || !aser.m.length) return;
+      st = fearn52Compute(aser.m, true);
+      var slice = rowsF.slice(sIdx, eIdx + 1);
+      visDates = slice.map(function (r) { return r.ym; });
+      var lastT = Date.parse(visDates[visDates.length - 1] + '-01T00:00:00Z');
+      var trailingStart = Date.parse(aser.m[aser.m.length - 1][0] + '-01T00:00:00Z') - FDESK_52W_MS;
+      reach52 = lastT >= trailingStart;
+      visDatasets = [{
+        label: 'Fearnleys monthly archive · ' + (aser.route || archInfo.key),
+        data: slice.map(function (r) { return r.v; }),
+        borderColor: '#e3b341', backgroundColor: 'transparent',
+        borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: false
+      }].concat(fearn52RefDatasets(st, slice.length, reach52));
+    } else {
+      var vd = dates.slice(sIdx, eIdx + 1);
+      visDates = vd;
+      var oneYr = (byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; });
+      st = fearn52Compute(oneYr, false);
+      var lastMsV = oneYr.length ? oneYr[oneYr.length - 1][0] : 0;
+      reach52 = false;
+      if (st && st.full && vd.length) {
+        var lastT2 = Date.parse(String(vd[vd.length - 1]) + 'T00:00:00Z');
+        var trailingStart2 = lastMsV - FDESK_52W_MS;
+        reach52 = lastT2 >= trailingStart2;
+      }
+      visDatasets = tenors.map(function (t) {
+        var vals = new Array(vd.length).fill(null);
+        byTenor[t].forEach(function (r) { var ix = vd.indexOf(r[0]); if (ix >= 0) vals[ix] = r[3]; });
+        return {
+          label: t, data: vals,
+          borderColor: TENOR_COLORS[t] || '#8b949e', backgroundColor: 'transparent',
+          borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: false
+        };
+      });
+      if (st && st.full && reach52) {
+        var hiLine = new Array(vd.length).fill(st.high);
+        var loLine = new Array(vd.length).fill(st.low);
+        visDatasets.push({ label: '52W high (1Y tenor)', data: hiLine, borderColor: 'rgba(248,81,73,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false });
+        visDatasets.push({ label: '52W low (1Y tenor)', data: loLine, borderColor: 'rgba(63,185,80,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false });
       }
     }
-  });
+    FDESK.tcChart = new Chart(canvas.getContext('2d'), {
+      type: 'line',
+      data: { labels: visDates, datasets: visDatasets },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        normalized: true,
+        interaction: { mode: 'nearest', axis: 'x', intersect: false },
+        plugins: {
+          legend: { display: true, labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 11 }, filter: function (item) { return item.text.indexOf('52W') !== 0; } } },
+          tooltip: {
+            backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
+            filter: function (item) { return item.dataset.label.indexOf('52W') !== 0; },
+            callbacks: { label: function (it) { return ' ' + it.dataset.label + ': $' + Number(it.parsed.y).toLocaleString() + '/day'; } }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 14, autoSkip: true, maxRotation: 0 } },
+          y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, callback: function (v) { return v >= 1000 ? (v / 1000) + 'k' : v; } } }
+        }
+      }
+    });
+  };
+  // Slider rows per source; stats strip bound to the flagship series.
+  var stripTc = document.getElementById('fearnTcStats');
+  var tcRows;
+  if (FDESK.tcSource === 'fearnleys') {
+    tcRows = (aser && aser.m) ? aser.m.map(function (p) { return { ym: p[0] }; }) : [];
+    if (stripTc) stripTc.innerHTML = (aser && aser.m) ? fearn52StripHtml('fearnTc', fearn52Compute(aser.m, true)) : '';
+  } else {
+    tcRows = dates.map(function (dStr) { return { ms: Date.parse(dStr + 'T00:00:00Z') }; });
+    var oneYrS = (byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; });
+    if (stripTc) stripTc.innerHTML = fearn52StripHtml('fearnTc', fearn52Compute(oneYrS, false));
+  }
+  fearnRangeInit('fearnTcRange', 'tc', tcRows, drawWin);
 }
 function onFearnTcClass() { FDESK.secInit[2] = false; renderFearnTc(); }
 function setFearnTcSource(mode) {
@@ -43043,6 +43223,235 @@ function setFearnTcSource(mode) {
 }
 
 // ---------- S3 TANKER ROUTES (daily-native) ----------
+// =====================================================================
+// 2E: INDICES-STYLE 52W STATS + RANGE WINDOW ENGINE (shared by the five
+// big Broker Desk charts). Replicates the Indices tab pattern exactly:
+// stats computed from each chart's OWN loaded points at render time, the
+// range selector re-plots a view window WITHOUT mutating the underlying
+// points, and every displayed number flows from the cache. No hardcoded
+// series lists anywhere.
+// =====================================================================
+var FDESK_52W_MS = 365 * 86400000; // trailing-year window (calendar days)
+var FDESK_WIN_DEFS = [
+  ['1M', 30], ['3M', 91], ['6M', 182], ['YTD', 'ytd'], ['1Y', 365], ['2Y', 730], ['Max', 'max']
+];
+
+function fearn52Compute(pts, monthly) {
+  // pts: [[msOrYm, val], ...] chronological; monthly rows carry 'YYYY-MM' keys.
+  // Anchor = the series' own last point (cache-derived, never wall-clock).
+  if (!pts || !pts.length) return null;
+  var vals = [], lastMs = null, lastVal = null;
+  for (var i = 0; i < pts.length; i++) {
+    var v = pts[i][1];
+    if (v == null || v !== v) continue;
+    vals.push({ i: i, v: v, k: pts[i][0] });
+  }
+  if (!vals.length) return null;
+  lastMs = vals[vals.length - 1].k;
+  lastVal = vals[vals.length - 1].v;
+  var lastTime = monthly ? Date.parse(lastMs + '-01T00:00:00Z') : lastMs;
+  var isFiniteN = function (x) { return typeof x === 'number' && x === x && x !== Infinity && x !== -Infinity; };
+  var inWin = function (entry) {
+    var t = monthly ? Date.parse(entry.k + '-01T00:00:00Z') : entry.k;
+    return isFiniteN(lastTime) && isFiniteN(t) && t >= lastTime - FDESK_52W_MS;
+  };
+  var w = vals.filter(inWin);
+  if (!w.length) return null;
+  var hi = -Infinity, lo = Infinity;
+  w.forEach(function (e) { if (e.v > hi) hi = e.v; if (e.v < lo) lo = e.v; });
+  var full52 = isFiniteN(hi) && isFiniteN(lo) && (lastTime - (monthly ? Date.parse(w[0].k + '-01T00:00:00Z') : w[0].k)) >= 300 * 86400000;
+  var denom = hi - lo;
+  var pos = full52 && denom > 0 ? ((lastVal - lo) / denom * 100) : null;
+  // YTD: compare to the last value of the prior calendar year within the pts
+  var ytd = null, ytdBase = null;
+  if (isFiniteN(lastTime)) {
+    var jan1 = Date.UTC(new Date(lastTime).getUTCFullYear(), 0, 1);
+    for (var j = vals.length - 1; j >= 0; j--) {
+      var t2 = monthly ? Date.parse(vals[j].k + '-01T00:00:00Z') : vals[j].k;
+      if (isFiniteN(t2) && t2 < jan1) { ytdBase = vals[j].v; break; }
+    }
+    if (ytdBase != null && ytdBase !== 0) ytd = (lastVal - ytdBase) / ytdBase * 100;
+  }
+  // Drawdown from the trailing-year peak (the user's 'from last drop')
+  var dd = full52 && hi !== 0 ? (lastVal - hi) / Math.abs(hi) * 100 : null;
+  // Upside to the trailing-year trough
+  var up = full52 && lo !== 0 ? (lastVal - lo) / Math.abs(lo) * 100 : null;
+  return { high: hi, low: lo, pos: pos, ytd: ytd, dd: dd, up: up, full: full52, last: lastVal, nWin: w.length };
+}
+
+function fearn52Fmt(v, signed, pct) {
+  if (v == null || v !== v) return 'n/a';
+  var s = pct ? v.toFixed(1) + '%' : fearnFmtVal(v);
+  if (signed && v > 0) return '+' + s;
+  return s;
+}
+
+function fearn52StripHtml(prefix, st, unitLabel) {
+  var na = 'n/a';
+  var posCls = st && st.pos != null ? (st.pos < 25 ? ' val-red' : (st.pos > 60 ? ' val-green' : ' val-yellow')) : '';
+  var ytdCls = st && st.ytd != null ? (st.ytd >= 0 ? ' val-green' : ' val-red') : '';
+  var ddCls = st && st.dd != null ? (st.dd >= 0 ? ' val-green' : ' val-red') : '';
+  var upCls = st && st.up != null ? (st.up >= 0 ? ' val-green' : ' val-red') : '';
+  var hiStr = st && st.full ? fearn52Fmt(st.high) : na;
+  var loStr = st && st.full ? fearn52Fmt(st.low) : na;
+  var hl = (st && st.full) ? (hiStr + ' / ' + loStr) : na;
+  return (
+    '<div class="index-stat-mini">' +
+      '<div class="index-stat-mini-label" data-tooltip="52W High / Low: the exact peak and trough over the last 365 days of the plotted series. Reveals whether the route is in a narrow band or a wide cyclical swing.">52W High / Low</div>' +
+      '<div class="index-stat-mini-val val-white">' + hl + '</div>' +
+    '</div>' +
+    '<div class="index-stat-mini">' +
+      '<div class="index-stat-mini-label" data-tooltip="52W Position: where the latest print sits inside its 52-week range. 0% = at the 52-week low, 100% = at the 52-week high.">52W Position</div>' +
+      '<div class="index-stat-mini-val' + posCls + '">' + (st && st.pos != null ? st.pos.toFixed(1) + '%' : na) + '</div>' +
+    '</div>' +
+    '<div class="index-stat-mini">' +
+      '<div class="index-stat-mini-label" data-tooltip="YTD %: change from the last print of the prior calendar year to the latest print, computed from this chart\'s own loaded points.">YTD %</div>' +
+      '<div class="index-stat-mini-val' + ytdCls + '">' + (st ? fearn52Fmt(st.ytd, true, true) : na) + '</div>' +
+    '</div>' +
+    '<div class="index-stat-mini">' +
+      '<div class="index-stat-mini-label" data-tooltip="From 52W Low: percent above the trailing-year trough. A deep red read means the market sits near its yearly floor.">From 52W Low</div>' +
+      '<div class="index-stat-mini-val' + upCls + '">' + (st ? fearn52Fmt(st.up, true, true) : na) + '</div>' +
+    '</div>' +
+    '<div class="index-stat-mini">' +
+      '<div class="index-stat-mini-label" data-tooltip="From 52W High: percent below the trailing-year peak (drawdown from the last drop top). Shows how far the market has cooled from its yearly high.">From 52W High</div>' +
+      '<div class="index-stat-mini-val' + ddCls + '">' + (st ? fearn52Fmt(st.dd, true, true) : na) + '</div>' +
+    '</div>');
+}
+
+// Range window selector + dual-handle slider, mirroring the Indices widget.
+// Returns the visible [startIdx, endIdx] into rows; never mutates rows.
+function fearnRangeInit(prefix, key, rows, onApply) {
+  var startEl = document.getElementById(prefix + 'Start');
+  var endEl = document.getElementById(prefix + 'End');
+  var fillEl = document.getElementById(prefix + 'Fill');
+  var labelEl = document.getElementById(prefix + 'Label');
+  var btnsEl = document.getElementById(prefix + 'Btns');
+  if (!startEl || !endEl || !rows || !rows.length) return;
+  var total = rows.length;
+  var maxIdx = total - 1;
+  startEl.max = maxIdx;
+  endEl.max = maxIdx;
+  if (!FDESK.rangeWin[key]) FDESK.rangeWin[key] = { mode: '1Y', s: null, e: null };
+
+  var dateOf = function (r) { return r.ms != null ? r.ms : Date.parse(r.ym + '-01T00:00:00Z'); };
+  var isoOf = function (r) { return r.ms != null ? fearnEpochToIso(r.ms) : r.ym; };
+  var winStartMs = function (mode) {
+    var last = dateOf(rows[maxIdx]);
+    if (mode === 'max') return -Infinity;
+    if (mode === 'ytd') return Date.UTC(new Date(last).getUTCFullYear(), 0, 1);
+    return last - (FDESK_WIN_DEFS.filter(function (d) { return d[0] === mode; })[0] || ['1Y', 365])[1] * 86400000;
+  };
+  var idxForMs = function (ms, fromEnd) {
+    if (ms === -Infinity) return 0;
+    if (fromEnd) { for (var i = maxIdx; i >= 0; i--) { if (dateOf(rows[i]) <= ms) return i; } return 0; }
+    for (var j = 0; j <= maxIdx; j++) { if (dateOf(rows[j]) >= ms) return j; }
+    return maxIdx;
+  };
+  var syncButtons = function (mode) {
+    if (!btnsEl) return;
+    if (!btnsEl.innerHTML) {
+      btnsEl.innerHTML = FDESK_WIN_DEFS.map(function (d) {
+        return '<button class="tracking-status-btn" data-win="' + d[0] + '" onclick="fearnRangeSetWin(\'' + prefix + '\',\'' + d[0] + '\')" data-tooltip="Set the ' + d[0] + ' view window. The slider below stays in sync; the plotted series itself is never altered.">' + d[0] + '</button>';
+      }).join('');
+    }
+    btnsEl.querySelectorAll('[data-win]').forEach(function (b) {
+      var on = b.getAttribute('data-win') === mode;
+      b.classList.toggle('active', on);
+      b.style.color = on ? 'var(--text)' : '';
+    });
+  };
+  var st = FDESK.rangeWin[key];
+  var cur = window['_' + prefix + 'State'];
+  if (!cur) cur = window['_' + prefix + 'State'] = { s: null, e: null, mode: st.mode };
+  var apply = function () {
+    var s = parseInt(startEl.value, 10), e = parseInt(endEl.value, 10);
+    if (s > e) { startEl.value = e; endEl.value = s; var t = s; s = e; e = t; }
+    if (fillEl) {
+      var pctS = maxIdx ? (s / maxIdx) * 100 : 0;
+      var pctE = maxIdx ? (e / maxIdx) * 100 : 100;
+      fillEl.style.left = pctS + '%';
+      fillEl.style.width = (pctE - pctS) + '%';
+    }
+    if (labelEl) {
+      var sd = rows[s] ? isoOf(rows[s]) : '';
+      var ed = rows[e] ? isoOf(rows[e]) : '';
+      labelEl.textContent = sd + ' -> ' + ed + ' (' + (e - s + 1) + ' prints)';
+    }
+    cur.s = s; cur.e = e;
+    onApply(s, e);
+  };
+  var setWin = function (mode, keepE) {
+    var ms = winStartMs(mode);
+    var s = idxForMs(ms, false);
+    var e = keepE != null ? keepE : maxIdx;
+    startEl.value = s;
+    endEl.value = e;
+    st.mode = mode;
+    cur.mode = mode;
+    syncButtons(mode);
+    apply();
+  };
+  window['_' + prefix + 'SetWin'] = setWin;
+  if (startEl._fearnRangeBound) { return; }
+  startEl._fearnRangeBound = true;
+  startEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
+  endEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
+  // First call (or re-render): re-apply the remembered window on the new rows
+  if (st.s != null && st.mode === 'custom') {
+    var s2 = 0, e2 = maxIdx, found = false;
+    for (var i = 0; i <= maxIdx; i++) { if (dateOf(rows[i]) >= st.s) { s2 = i; found = true; break; } }
+    for (var i2 = maxIdx; i2 >= 0; i2--) { if (dateOf(rows[i2]) <= st.e) { e2 = i2; break; } }
+    if (found) { startEl.value = s2; endEl.value = e2; }
+    syncButtons('custom');
+    apply();
+  } else {
+    setWin(st.mode || '1Y');
+  }
+}
+
+function fearnRangeSetWin(prefix, mode) {
+  var fn = window['_' + prefix + 'SetWin'];
+  if (fn) fn(mode);
+}
+
+// Visible-window slice: view-only, underlying rows untouched.
+function fearnWindowSlice(rows, s, e) {
+  return rows.slice(s, e + 1);
+}
+
+// 52W high/low reference lines on the chart: constant datasets over the
+// visible labels; drawn only when the visible window reaches back into the
+// trailing 365 days (otherwise the lines would sit far off-scale).
+function fearn52RefDatasets(st, nPts, visibleReaches52w) {
+  if (!st || !st.full || !nPts || !visibleReaches52w) return [];
+  var hiLine = new Array(nPts).fill(st.high);
+  var loLine = new Array(nPts).fill(st.low);
+  return [
+    { label: '52W high (trailing year)', data: hiLine, borderColor: 'rgba(248,81,73,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false },
+    { label: '52W low (trailing year)', data: loLine, borderColor: 'rgba(63,185,80,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false }
+  ];
+}
+
+// Discontinued-at-source detection: a live-badged series whose trailing run
+// of zero placeholders is long enough that no real print remains at the end.
+// Computed from the loaded pts at render time (no hardcoded series list).
+function fearnTrailingZeroTail(pts) {
+  var tail = 0;
+  for (var i = (pts || []).length - 1; i >= 0; i--) {
+    if (pts[i][1] === 0) tail++;
+    else break;
+  }
+  return tail;
+}
+var FDESK_DISC_MIN_TAIL = 20;
+function fearnDiscontinuedOf(s) {
+  var pts = (s && s.pts) || [];
+  var tail = fearnTrailingZeroTail(pts);
+  if (!tail || tail < FDESK_DISC_MIN_TAIL || tail >= pts.length) return null; // all-zero handled by the 'zero' state
+  var lnz = pts[pts.length - tail - 1];
+  return { tail: tail, lastMs: lnz[0], lastVal: lnz[1], lastDate: fearnEpochToIso(lnz[0]), firstZeroDate: fearnEpochToIso(pts[pts.length - tail][0]) };
+}
+
 // FROZEN cutoff design constant (audit convention): a series is LIVE when its
 // last observation reaches into the current harvest week; anything older is
 // frozen. Derived from cache meta (date_to), not hardcoded market data.
@@ -43190,15 +43599,19 @@ function fearnBadgeState(s) {
   // FROZEN = real values whose last print predates the live cutoff (the
   // 2023-05 taxonomy-switch twins). All-zero branches are excluded from the
   // tile grid entirely, so they never render a tile or badge at all.
+  // DISCONTINUED = the source still appends rows but they are zero
+  // placeholders: the last real print is long gone and a plain LIVE badge
+  // would read as a live zero market rate (2E zero-tile honesty).
   if (fearnSeriesIsAllZero(s)) return 'zero';
+  if (fearnDiscontinuedOf(s)) return 'discontinued';
   return fearnIsLive(s) ? 'live' : 'frozen';
 }
 function fearnStatusBadgeLive(s) {
   var st = fearnBadgeState(s);
-  var live = st === 'live';
-  var col = live ? 'var(--green)' : 'var(--text-muted)';
-  var txt = live ? 'LIVE' : 'FROZEN';
-  return '<span style="font-size:9px;font-weight:700;letter-spacing:0.5px;padding:1px 6px;border-radius:9px;border:1px solid ' + col + ';color:' + col + ';white-space:nowrap;" data-tt-type="fearn-route-state" data-tt-live="' + (live ? '1' : '0') + '" data-tt-last="' + escapeHtml(String(s.last || '')) + '">' + txt + '</span>';
+  var col, txt;
+  if (st === 'discontinued') { col = 'var(--text-muted)'; txt = 'DISCONTINUED'; }
+  else { col = st === 'live' ? 'var(--green)' : 'var(--text-muted)'; txt = st === 'live' ? 'LIVE' : 'FROZEN'; }
+  return '<span style="font-size:9px;font-weight:700;letter-spacing:0.5px;padding:1px 6px;border-radius:9px;border:1px solid ' + col + ';color:' + col + ';white-space:nowrap;" data-tt-type="fearn-route-state" data-tt-live="' + (st === 'live' ? '1' : '0') + '" data-tt-state="' + st + '" data-tt-last="' + escapeHtml(String(s.last || '')) + '">' + txt + '</span>';
 }
 function fearnSeriesTooltip(title, s, d, extraNote) {
   var rows = [
@@ -43324,15 +43737,26 @@ function renderFearnTank() {
         grid.innerHTML = series.map(function (s) {
           var d = fearnDeltaOf(s);
           var live = fearnIsLive(s);
+          var disc = fearnDiscontinuedOf(s);
           var col = live ? 'var(--accent)' : 'var(--text-muted)';
           var dStyle = d ? (d.d > 0 ? 'color:var(--green);' : (d.d < 0 ? 'color:var(--red);' : 'color:var(--text-muted);')) : '';
           var dTxt = d ? ((d.d > 0 ? '+' : '') + fearnFmtVal(d.d) + ' vs ' + fearnFmtVal(d.prev)) : '\u2014';
           var tt = fearnSeriesTooltip(s.label, s, d);
+          var valHtml, subHtml;
+          if (disc) {
+            // Discontinued at source: the last print is a zero placeholder, so
+            // show the last REAL print (as of its date) and no day delta.
+            valHtml = fearnFmtVal(disc.lastVal);
+            subHtml = '<div class="tracking-kpi-sub" style="color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">as of ' + escapeHtml(disc.lastDate) + '</div>';
+          } else {
+            valHtml = d ? fearnFmtVal(d.last) : '\u2014';
+            subHtml = '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>';
+          }
           return '<div class="tracking-kpi-card" style="cursor:pointer;" role="button" data-tt-type="fearn-tank-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnTankChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
             '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
-            '<div class="tracking-kpi-val" style="font-size:19px;">' + (d ? fearnFmtVal(d.last) : '\u2014') + '</div>' +
-            '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>' +
-            '<div style="font-size:9px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">' + escapeHtml(String(s.first || '')) + ' \u2192 ' + escapeHtml(String(s.last || '')) + ' \u00b7 ' + (s.n != null ? Number(s.n).toLocaleString('en-US') : '\u2014') + ' pts \u00b7 ' + escapeHtml(String(s.unit || '')) + '</div>' +
+            '<div class="tracking-kpi-val" style="font-size:19px;">' + valHtml + '</div>' +
+            subHtml +
+            '<div style="font-size:9px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">' + escapeHtml(String(s.first || '')) + ' \u2192 ' + escapeHtml(String(s.last || '')) + ' \u00b7 ' + (s.n != null ? Number(s.n).toLocaleString('en-US') : '\u2014') + ' pts \u00b7 ' + escapeHtml(s.unit || '') + '</div>' +
             '</div>';
         }).join('');
       }
@@ -43373,34 +43797,53 @@ function drawFearnTankChart() {
   var titleEl = document.getElementById('fearnTankChartTitle');
   if (!s || !canvas || typeof Chart === 'undefined') return;
   var pts = s.pts || [];
-  var labels = pts.map(function (p) { return fearnEpochToIso(p[0]); });
+  // Cache-derived stats from the FULL series (window-independent) + slider rows.
+  var st = fearn52Compute(pts, false);
+  var strip = document.getElementById('fearnTankStats');
+  if (strip) strip.innerHTML = pts.length ? fearn52StripHtml('fearnTank', st) : '';
+  var rows = pts.map(function (p) { return { ms: p[0], v: p[1] }; });
   if (titleEl) titleEl.textContent = s.label + ' \u00b7 ' + fearnUnitName(s.unit) + ' \u00b7 daily \u00b7 ' + Number(s.n).toLocaleString('en-US') + ' obs';
   var wrap = document.getElementById('fearnTankChartWrap');
   if (wrap) wrap.setAttribute('data-tt-type', 'fearn-tank-chart');
-  if (FDESK.tankChart) { FDESK.tankChart.destroy(); FDESK.tankChart = null; }
-  FDESK.tankChart = new Chart(canvas.getContext('2d'), {
-    type: 'line',
-    data: { labels: labels, datasets: [{ label: s.label, data: pts.map(function (p) { return p[1]; }), borderColor: '#4d9aff', backgroundColor: '#4d9aff15', fill: true, tension: 0.1, borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 4, spanGaps: false }] },
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      normalized: true,
-      interaction: { mode: 'nearest', axis: 'x', intersect: false },
-      plugins: {
-        legend: { display: false },
-        tooltip: {
-          backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
-          callbacks: {
-            title: function (c) { return c && c.length ? String(c[0].label) : ''; },
-            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? 'n/a' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ', daily print, no interpolation'; }
-          }
-        }
-      },
-      scales: {
-        x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
-        y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 } } }
-      }
+  var drawWin = function (sIdx, eIdx) {
+    var vis = fearnWindowSlice(rows, sIdx, eIdx);
+    var visPts = pts.slice(sIdx, eIdx + 1);
+    var labels = visPts.map(function (p) { return fearnEpochToIso(p[0]); });
+    // 52W reference lines only when the visible window reaches the trailing year
+    var lastMs = visPts.length ? visPts[visPts.length - 1][0] : 0;
+    var reaches = false;
+    if (st && st.full && lastMs && pts.length) {
+      var trailingStart = pts[pts.length - 1][0] - FDESK_52W_MS;
+      reaches = lastMs >= trailingStart;
     }
-  });
+    var datasets = [{ label: s.label, data: vis.map(function (r) { return r.v; }), borderColor: '#4d9aff', backgroundColor: '#4d9aff15', fill: true, tension: 0.1, borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 4, spanGaps: false }].concat(fearn52RefDatasets(st, vis.length, reaches));
+    if (FDESK.tankChart) { FDESK.tankChart.destroy(); FDESK.tankChart = null; }
+    FDESK.tankChart = new Chart(canvas.getContext('2d'), {
+      type: 'line',
+      data: { labels: labels, datasets: datasets },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        normalized: true,
+        interaction: { mode: 'nearest', axis: 'x', intersect: false },
+        plugins: {
+          legend: { display: datasets.length > 1, labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 10 }, boxWidth: 12, filter: function (item) { return item.text.indexOf('52W') === 0; } } },
+          tooltip: {
+            backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
+            filter: function (item) { return item.datasetIndex === 0; },
+            callbacks: {
+              title: function (c) { return c && c.length ? String(c[0].label) : ''; },
+              label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? 'n/a' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ', daily print, no interpolation'; }
+            }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
+          y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 } } }
+        }
+      }
+    });
+  };
+  fearnRangeInit('fearnTankRange', 'tank', rows, drawWin);
 }
 function openFearnTankChart(code) {
   FDESK.tankRoute = code;
@@ -43446,15 +43889,25 @@ function renderFearnDryGrid() {
       grid.innerHTML = series.map(function (s) {
         var d = fearnDeltaOf(s);
         var live = fearnIsLive(s);
+        var disc = fearnDiscontinuedOf(s);
         var col = live ? 'var(--green)' : 'var(--text-muted)';
         var dStyle = d ? (d.d > 0 ? 'color:var(--green);' : (d.d < 0 ? 'color:var(--red);' : 'color:var(--text-muted);')) : '';
         var dTxt = d ? ((d.d > 0 ? '+' : '') + fearnFmtVal(d.d) + ' vs ' + fearnFmtVal(d.prev)) : '\u2014';
         var tt = fearnSeriesTooltip(s.label, s, d);
         var isAvg = !!s.derivation;
+        var valHtml, subHtml;
+        if (disc) {
+          // Discontinued at source: show the last REAL print (as of its date).
+          valHtml = fearnFmtVal(disc.lastVal);
+          subHtml = '<div class="tracking-kpi-sub" style="color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">as of ' + escapeHtml(disc.lastDate) + '</div>';
+        } else {
+          valHtml = d ? fearnFmtVal(d.last) : '\u2014';
+          subHtml = '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>';
+        }
         return '<div class="tracking-kpi-card" style="cursor:pointer;' + (isAvg ? 'border-color:rgba(163,113,247,0.45);' : '') + '" role="button" data-tt-type="fearn-dry-tile" data-tt-code="' + escapeHtml(s.code) + '" onclick="openFearnDryChart(\'' + escapeHtml(s.code).replace(/'/g, '&#039;') + '\')" title="' + escapeHtml(s.label) + '">' +
           '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.label) + '</span>' + fearnStatusBadgeLive(s) + '</div>' +
-          '<div class="tracking-kpi-val" style="font-size:19px;">' + (d ? fearnFmtVal(d.last) : '\u2014') + '</div>' +
-          '<div class="tracking-kpi-sub" style="' + dStyle + 'font-family:\'IBM Plex Mono\',monospace;">' + dTxt + '</div>' +
+          '<div class="tracking-kpi-val" style="font-size:19px;">' + valHtml + '</div>' +
+          subHtml +
           '<div style="font-size:9px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">since ' + escapeHtml(String(s.first || '')) + ' \u00b7 ' + (s.n != null ? Number(s.n).toLocaleString('en-US') : '\u2014') + ' pts \u00b7 ' + escapeHtml(String(s.unit || '')) + '</div>' +
           '</div>';
       }).join('');
@@ -43494,34 +43947,51 @@ function drawFearnDryChart() {
   var titleEl = document.getElementById('fearnDryChartTitle');
   if (!s || !canvas || typeof Chart === 'undefined') return;
   var pts = s.pts || [];
-  var labels = pts.map(function (p) { return fearnEpochToIso(p[0]); });
+  var st = fearn52Compute(pts, false);
+  var strip = document.getElementById('fearnDryStats');
+  if (strip) strip.innerHTML = pts.length ? fearn52StripHtml('fearnDry', st) : '';
+  var rows = pts.map(function (p) { return { ms: p[0], v: p[1] }; });
   if (titleEl) titleEl.textContent = s.label + ' \u00b7 ' + fearnUnitName(s.unit) + ' \u00b7 daily \u00b7 ' + Number(s.n).toLocaleString('en-US') + ' obs';
   var wrap = document.getElementById('fearnDryChartWrap');
   if (wrap) wrap.setAttribute('data-tt-type', 'fearn-dry-chart');
-  if (FDESK.dryChart) { FDESK.dryChart.destroy(); FDESK.dryChart = null; }
-  FDESK.dryChart = new Chart(canvas.getContext('2d'), {
-    type: 'line',
-    data: { labels: labels, datasets: [{ label: s.label, data: pts.map(function (p) { return p[1]; }), borderColor: '#3fb950', backgroundColor: '#3fb95015', fill: true, tension: 0.1, borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 4, spanGaps: false }] },
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      normalized: true,
-      interaction: { mode: 'nearest', axis: 'x', intersect: false },
-      plugins: {
-        legend: { display: false },
-        tooltip: {
-          backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
-          callbacks: {
-            title: function (c) { return c && c.length ? String(c[0].label) : ''; },
-            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? 'n/a' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ', daily print, no interpolation'; }
-          }
-        }
-      },
-      scales: {
-        x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
-        y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 } } }
-      }
+  var drawWin = function (sIdx, eIdx) {
+    var vis = fearnWindowSlice(rows, sIdx, eIdx);
+    var visPts = pts.slice(sIdx, eIdx + 1);
+    var labels = visPts.map(function (p) { return fearnEpochToIso(p[0]); });
+    var lastMs = visPts.length ? visPts[visPts.length - 1][0] : 0;
+    var reaches = false;
+    if (st && st.full && lastMs && pts.length) {
+      var trailingStart = pts[pts.length - 1][0] - FDESK_52W_MS;
+      reaches = lastMs >= trailingStart;
     }
-  });
+    var datasets = [{ label: s.label, data: vis.map(function (r) { return r.v; }), borderColor: '#3fb950', backgroundColor: '#3fb95015', fill: true, tension: 0.1, borderWidth: 1.5, pointRadius: 0, pointHoverRadius: 4, spanGaps: false }].concat(fearn52RefDatasets(st, vis.length, reaches));
+    if (FDESK.dryChart) { FDESK.dryChart.destroy(); FDESK.dryChart = null; }
+    FDESK.dryChart = new Chart(canvas.getContext('2d'), {
+      type: 'line',
+      data: { labels: labels, datasets: datasets },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        normalized: true,
+        interaction: { mode: 'nearest', axis: 'x', intersect: false },
+        plugins: {
+          legend: { display: datasets.length > 1, labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 10 }, boxWidth: 12, filter: function (item) { return item.text.indexOf('52W') === 0; } } },
+          tooltip: {
+            backgroundColor: '#111820', borderColor: '#1c2333', borderWidth: 1, titleColor: '#fff', bodyColor: '#d4dce8',
+            filter: function (item) { return item.datasetIndex === 0; },
+            callbacks: {
+              title: function (c) { return c && c.length ? String(c[0].label) : ''; },
+              label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? 'n/a' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ', daily print, no interpolation'; }
+            }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
+          y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 } } }
+        }
+      }
+    });
+  };
+  fearnRangeInit('fearnDryRange', 'dry', rows, drawWin);
 }
 
 // ---------- S4 NEWBUILDING ----------
@@ -43773,47 +44243,67 @@ function renderFearnGas(kind) {
       overlay = { title: 'LPG TC overlay (right axis, $/day)', colors: ['#f778ba', '#d2a8ff', '#ffa198'], cols: Object.keys(gx.lpg_tc), data: gx.lpg_tc };
     }
   }
-  var pts = s.m.slice(-120);
+  var allMs = s.m;
   var canvas = document.getElementById(kind === 'LNG' ? 'fearnLngChart' : 'fearnLpgChart');
   if (!canvas || typeof Chart === 'undefined') return;
   var instKey = kind === 'LNG' ? 'lngChart' : 'lpgChart';
-  if (FDESK[instKey]) { FDESK[instKey].destroy(); FDESK[instKey] = null; }
-  var datasets = [{
-    label: prettyGasLabel(FDESK[stateKey], s), data: pts.map(function (p) { return p[1]; }),
-    borderColor: '#4d9aff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, tension: 0.2, yAxisID: 'y'
-  }];
-  if (overlay) {
-    var s0 = pts.length ? pts[0][0] : '', s1 = pts.length ? pts[pts.length - 1][0] : '';
-    var ymIx = {}; pts.forEach(function (p, i) { ymIx[p[0]] = i; });
-    overlay.cols.forEach(function (c, i) {
-      var gvals = new Array(pts.length).fill(null);
-      (overlay.data[c] || []).forEach(function (p) {
-        if (p[0] >= s0 && p[0] <= s1 && ymIx[p[0]] != null) gvals[ymIx[p[0]]] = p[1];
-      });
-      datasets.push({
-        label: prettyGasLabel(c, null), data: gvals,
-        borderColor: overlay.colors[i % overlay.colors.length], backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [5, 4], pointRadius: 0, tension: 0.2, spanGaps: false, yAxisID: 'y2'
-      });
-    });
-  }
-  FDESK[instKey] = new Chart(canvas.getContext('2d'), {
-    type: 'line',
-    data: { labels: pts.map(function (p) { return p[0]; }), datasets: datasets },
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      normalized: true,
-      interaction: { mode: 'nearest', axis: 'x', intersect: false },
-      plugins: {
-        legend: { labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 10 }, boxWidth: 12 } },
-        tooltip: { callbacks: { label: function (it) { return ' ' + it.dataset.label + ': ' + it.formattedValue; } } }
-      },
-      scales: {
-        x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
-        y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, callback: function (v) { return v >= 1000 ? (v / 1000) + 'k' : v; } } },
-        y2: overlay ? { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#f778ba', font: { family: 'IBM Plex Mono', size: 10 }, callback: function (v) { return v >= 1000 ? (v / 1000) + 'k' : v; } } } : undefined
-      }
+  // 2E: full-history slider rows + 52W (trailing 12 months) stats strip.
+  var st52 = fearn52Compute(allMs, true);
+  var strip52 = document.getElementById(kind === 'LNG' ? 'fearnLngStats52' : 'fearnLpgStats52');
+  var rangeKey = kind === 'LNG' ? 'lng' : 'lpg';
+  var prefix = kind === 'LNG' ? 'fearnLngRange' : 'fearnLpgRange';
+  if (strip52) strip52.innerHTML = allMs.length ? fearn52StripHtml(prefix, st52) : '';
+  var sliderRows = allMs.map(function (p) { return { ym: p[0] }; });
+  var drawWin = function (sIdx, eIdx) {
+    var visPts = allMs.slice(sIdx, eIdx + 1);
+    var lastT = Date.parse(visPts.length ? visPts[visPts.length - 1][0] + '-01T00:00:00Z' : 0);
+    var reach52 = false;
+    if (st52 && st52.full && visPts.length) {
+      var trailingStart = Date.parse(allMs[allMs.length - 1][0] + '-01T00:00:00Z') - FDESK_52W_MS;
+      reach52 = lastT >= trailingStart;
     }
-  });
+    var datasets = [{
+      label: prettyGasLabel(FDESK[stateKey], s), data: visPts.map(function (p) { return p[1]; }),
+      borderColor: '#4d9aff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, tension: 0.2, yAxisID: 'y'
+    }].concat(fearn52RefDatasets(st52, visPts.length, reach52));
+    if (overlay) {
+      var s0 = visPts.length ? visPts[0][0] : '', s1 = visPts.length ? visPts[visPts.length - 1][0] : '';
+      var ymIx = {}; visPts.forEach(function (p, i) { ymIx[p[0]] = i; });
+      overlay.cols.forEach(function (c, i) {
+        var gvals = new Array(visPts.length).fill(null);
+        (overlay.data[c] || []).forEach(function (p) {
+          if (p[0] >= s0 && p[0] <= s1 && ymIx[p[0]] != null) gvals[ymIx[p[0]]] = p[1];
+        });
+        datasets.push({
+          label: prettyGasLabel(c, null), data: gvals,
+          borderColor: overlay.colors[i % overlay.colors.length], backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [5, 4], pointRadius: 0, tension: 0.2, spanGaps: false, yAxisID: 'y2'
+        });
+      });
+    }
+    if (FDESK[instKey]) { FDESK[instKey].destroy(); FDESK[instKey] = null; }
+    FDESK[instKey] = new Chart(canvas.getContext('2d'), {
+      type: 'line',
+      data: { labels: visPts.map(function (p) { return p[0]; }), datasets: datasets },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        normalized: true,
+        interaction: { mode: 'nearest', axis: 'x', intersect: false },
+        plugins: {
+          legend: { labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 10 }, boxWidth: 12, filter: function (item) { return item.text.indexOf('52W') !== 0; } } },
+          tooltip: {
+            filter: function (item) { return item.dataset.label.indexOf('52W') !== 0; },
+            callbacks: { label: function (it) { return ' ' + it.dataset.label + ': ' + it.formattedValue; } }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, maxTicksLimit: 12, autoSkip: true, maxRotation: 0 } },
+          y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 10 }, callback: function (v) { return v >= 1000 ? (v / 1000) + 'k' : v; } } },
+          y2: overlay ? { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#f778ba', font: { family: 'IBM Plex Mono', size: 10 }, callback: function (v) { return v >= 1000 ? (v / 1000) + 'k' : v; } } } : undefined
+        }
+      }
+    });
+  };
+  fearnRangeInit(prefix, rangeKey, sliderRows, drawWin);
   var note = document.getElementById(kind === 'LNG' ? 'fearnLngNote' : 'fearnLpgNote');
   if (note) {
     var archN = Object.keys(labels).filter(function (k) { return labels[k].type === kind && archivedSub.indexOf(labels[k].subtype) >= 0; }).length;
@@ -44007,13 +44497,16 @@ function renderFearnFxTable() {
   if (!body) return;
   var rows = fearnFxFiltered();
   var PAGE = 200, pages = Math.max(1, Math.ceil(rows.length / PAGE));
-  if (FDESK.fxPage >= pages) FDESK.fxPage = pages - 1;
-  if (FDESK.fxPage < 0) FDESK.fxPage = 0;
-  var start = FDESK.fxPage * PAGE;
+  // NaN guard: a stale/foreign fxPage (e.g. from a data reset) falls back to page 1
+  var pg = Math.floor(Number(FDESK.fxPage));
+  if (!isFinite(pg) || pg < 0) pg = 0;
+  if (pg >= pages) pg = pages - 1;
+  FDESK.fxPage = pg;
+  var start = FDESK.fxPage * PAGE; // fxPage is finite+clamped above
   var slice = rows.slice(start, start + PAGE);
   var DEP_COLORS = { BULK: '#e3b341', TANK: '#f778ba', TANKPRO: '#ffa198', LNG: '#8957e5', LPG: '#39c5cf', RoRo: '#7ee787' };
   body.innerHTML = slice.map(function (r) {
-    var rate = (r.r == null || r.r === '') ? '<span style="color:var(--text-muted);">—</span>' : Number(r.r).toLocaleString();
+    var rate = (r.r == null || r.r === '' || !isFinite(Number(r.r))) ? '<span style="color:var(--text-muted);">—</span>' : Number(r.r).toLocaleString();
     var dc = DEP_COLORS[r.dp] || '#8b949e';
     return '<tr>' +
       '<td class="mono" style="color:var(--text-muted);white-space:nowrap;">' + escapeHtml(r.d || '') + '</td>' +
@@ -44294,7 +44787,7 @@ function renderFearnStats(cache) {
       '<div class="tracking-kpi-val" style="font-size:20px;' + (c.style || '') + '">' + escapeHtml(String(c.v)) + '</div>' +
       '<div class="tracking-kpi-sub">' + escapeHtml(String(c.sub || '')) + '</div></div>';
   }).join('');
-  if (note) note.textContent = 'Source: scripts/fearnpulse_rates_full.csv monthly means · ' + s.n + ' months ' + s.first + ' → ' + s.last + ' · WS routes in Worldscale points, TC in $/day unless labeled.';
+  if (note) note.textContent = 'Source: Fearnleys monthly means \u00b7 ' + s.n + ' months ' + s.first + ' \u2192 ' + s.last + ' \u00b7 WS routes in Worldscale points, TC in $/day unless labeled.';
 }
 
 function renderFearnMainChart(cache) {
@@ -44443,7 +44936,7 @@ function renderFearnBacktest() {
       return '<span class="tracking-status-btn" style="cursor:default;">' + escapeHtml(rg) + ' · ' + g.n + ' obs · 1M fwd hit ' + (isFinite(hit) ? hit.toFixed(0) + '%' : '—') + '</span>';
     }).join('');
   }
-  if (note) note.textContent = rows.length ? ('n=' + rows.length + ' daily scores ' + rows[0].d + ' → ' + rows[rows.length - 1].d + ' · data/derived/macro_health_score_backtest.csv · forwards realized, not forecasts') : 'backtest feed unavailable';
+  if (note) note.textContent = rows.length ? ('n=' + rows.length + ' daily scores ' + rows[0].d + ' \u2192 ' + rows[rows.length - 1].d + ' \u00b7 macro health score backtest \u00b7 forwards realized, not forecasts') : 'backtest feed unavailable';
   if (!canvas || typeof Chart === 'undefined' || !rows.length) return;
   if (fearnBacktestChartInstance) { fearnBacktestChartInstance.destroy(); fearnBacktestChartInstance = null; }
   var ctx = canvas.getContext('2d');
