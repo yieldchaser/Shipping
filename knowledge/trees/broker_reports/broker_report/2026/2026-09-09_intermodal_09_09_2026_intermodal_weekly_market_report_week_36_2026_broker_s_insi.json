@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi__root",
+  "doc_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi",
+  "parent_id": null,
+  "title": "Intermodal Weekly Market Report Week 36 2026 Broker's Insight",
+  "section_path": [
+    "Intermodal Weekly Market Report Week 36 2026 Broker's Insight"
+  ],
+  "section_path_text": "Intermodal Weekly Market Report Week 36 2026 Broker's Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Intermodal Weekly Market Report Week 36 2026 Broker's Insight\n**Broker**: Intermodal\n**Published Date**: 09/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-36-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-36-2026-brokers-insight/)\n\nMarket Report Content\nWeekly Market Report\nwww.intermodal.gr\n1\nWeek 36 | Tuesday 08th September 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nLast week brought a series of developments aimed at strength-\nening of Venezuela 's oil sector. The US administration announced\nan agreement granting the US North American Blue Energy Part-\nners (NABEP), up to 100 -year concessions over 17 Venezuelan oil\nfields with estimated reserves of 65 bn barrels, equivalent to\nroughly 20% of the country 's total. Under the agreement, NABEP\nhas given the US government a 35% stake and the right to pur-\nchase 20% of production from current and future fields.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8389,
+  "source_path": "reports/broker_reports/2026/intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi.md",
+  "source_url": "https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-36-2026-brokers-insight/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi__s01_intermodal_weekly_market_report_week_36_2026_broker_s_insight",
+      "doc_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi__root",
+      "title": "Intermodal Weekly Market Report Week 36 2026 Broker's Insight",
+      "section_path": [
+        "Intermodal Weekly Market Report Week 36 2026 Broker's Insight"
+      ],
+      "section_path_text": "Intermodal Weekly Market Report Week 36 2026 Broker's Insight",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Intermodal\n**Published Date**: 09/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-36-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-36-2026-brokers-insight/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/intermodal-weekly-market-report-week-36-2026-brokers-insight",
+        "broker",
+        "date",
+        "intermodal",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi",
+      "parent_id": "broker_reports_broker_report_2026-09-09_intermodal_09_09_2026_intermodal_weekly_market_report_week_36_2026_broker_s_insi__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Weekly Market Report\nwww.intermodal.gr\n1\nWeek 36 | Tuesday 08th September 2026\nMarket Insight\nBy Nikos Tagoulis, Senior Analyst\nLast week brought a series of developments aimed at strength-\nening of Venezuela 's oil sector. The US administration announced\nan agreement granting the US North American Blue Energy Part-\nners (NABEP), up to 100 -year concessions over 17 Venezuelan oil\nfields with estimated reserves of 65 bn barrels, equivalent to\nroughly 20% of the country 's total.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8289,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

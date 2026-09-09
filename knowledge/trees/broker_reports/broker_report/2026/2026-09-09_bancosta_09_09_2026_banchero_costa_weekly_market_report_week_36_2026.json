@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026",
+  "parent_id": null,
+  "title": "Banchero Costa Weekly Market Report, Week 36 2026",
+  "section_path": [
+    "Banchero Costa Weekly Market Report, Week 36 2026"
+  ],
+  "section_path_text": "Banchero Costa Weekly Market Report, Week 36 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Banchero Costa Weekly Market Report, Week 36 2026\n**Broker**: Bancosta\n**Published Date**: 09/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-36-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-36-2026/)\n\nMarket Report Content\nweekly\nmarket\nreport\nWeek 36/2026 (31 Aug - 07 Sep)\nComment: Canada's Crude Oil Exports\nMARKET REPORT -WEEK 36/2026\n2COMMENT\nCANADA CRUDE OIL EXPORTS\nAfter a marginal decline in 2024, when\nglobal crude oil loadings decreased by\n-0.2% y-o-y, things picked up in 2025,\nwith full-year volumes increasing by\n+1.8% y-o-y. In Jan-Aug 2026, however, global\ncrude oil loadings declined by -5.4% y-\no-y to 1,374.7 mln tonnes, excluding\nall cabotage trade, according to\nvessels tracking data from LSEG. Exports from the Arabian Gulf plunged\nby -30.1% y-o-y to 405.3 mln t in Jan-\nAug 2026, and accounted for 29.5% of\nglobal seaborne crude trade, down\nsharply from the historical norm of\nabout 40%, reflecting the ongoing war\nin the Persian Gulf.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 19413,
+  "source_path": "reports/broker_reports/2026/bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-36-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026__s01_banchero_costa_weekly_market_report_week_36_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026__root",
+      "title": "Banchero Costa Weekly Market Report, Week 36 2026",
+      "section_path": [
+        "Banchero Costa Weekly Market Report, Week 36 2026"
+      ],
+      "section_path_text": "Banchero Costa Weekly Market Report, Week 36 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Bancosta\n**Published Date**: 09/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-36-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-36-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-36-2026",
+        "bancosta",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-09_bancosta_09_09_2026_banchero_costa_weekly_market_report_week_36_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "weekly\nmarket\nreport\nWeek 36/2026 (31 Aug - 07 Sep)\nComment: Canada's Crude Oil Exports\nMARKET REPORT -WEEK 36/2026\n2COMMENT\nCANADA CRUDE OIL EXPORTS\nAfter a marginal decline in 2024, when\nglobal crude oil loadings decreased by\n-0.2% y-o-y, things picked up in 2025,\nwith full-year volumes increasing by\n+1.8% y-o-y. In Jan-Aug 2026, however, global\ncrude oil loadings declined by -5.4% y-\no-y to 1,374.7 mln tonnes, excluding\nall cabotage trade, according to\nvessels tracking data from LSEG.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19319,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
