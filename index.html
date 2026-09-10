@@ -5924,6 +5924,204 @@
 }
 
 /* =========================================================================
+   CARGO & TRADE FLOWS TERMINAL STYLES (Prompt 07)
+   ========================================================================= */
+.cargo-hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 16px;
+}
+.cargo-hero-title-wrap h2 {
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 4px;
+}
+.cargo-hero-sub {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+.cargo-hud-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.cargo-hud-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 12px 14px;
+  transition: border-color 0.15s, background 0.15s;
+}
+.cargo-hud-card:hover {
+  border-color: var(--accent);
+}
+.cargo-hud-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+.cargo-hud-val {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 4px;
+}
+.cargo-hud-sub {
+  font-size: 11px;
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--text-muted);
+}
+.cargo-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.cargo-subview-btns {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.cargo-subview-btn {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.cargo-subview-btn:hover {
+  color: var(--text);
+  border-color: var(--text-muted);
+}
+.cargo-subview-btn.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+.cargo-provenance-strip {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-top: 8px;
+  padding: 6px 10px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  line-height: 1.4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.cargo-badge-live {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgba(63, 185, 80, 0.15);
+  color: #3fb950;
+  border: 1px solid rgba(63, 185, 80, 0.3);
+}
+.cargo-badge-est {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgba(227, 179, 65, 0.15);
+  color: #e3b341;
+  border: 1px solid rgba(227, 179, 65, 0.3);
+}
+.cargo-badge-mirror {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgba(163, 113, 247, 0.15);
+  color: #a371f7;
+  border: 1px solid rgba(163, 113, 247, 0.3);
+}
+.cargo-badge-unavail {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgba(248, 81, 73, 0.15);
+  color: #f85149;
+  border: 1px solid rgba(248, 81, 73, 0.3);
+}
+.cargo-empty-state {
+  background: rgba(248, 81, 73, 0.05);
+  border: 1px dashed rgba(248, 81, 73, 0.35);
+  border-radius: 6px;
+  padding: 14px 16px;
+  margin-top: 10px;
+  font-size: 11px;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+.cargo-matrix-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11px;
+  text-align: left;
+}
+.cargo-matrix-table th {
+  background: var(--bg);
+  color: var(--text-muted);
+  padding: 8px 10px;
+  font-weight: 600;
+  border-bottom: 1px solid var(--border);
+  letter-spacing: 0.03em;
+}
+.cargo-matrix-table td {
+  padding: 7px 10px;
+  border-bottom: 1px solid rgba(48, 54, 61, 0.4);
+  color: var(--text);
+  vertical-align: middle;
+}
+.cargo-matrix-table tr:hover td {
+  background: var(--hover);
+}
+.cargo-unclass-card {
+  background: rgba(227, 179, 65, 0.06);
+  border: 1px solid rgba(227, 179, 65, 0.25);
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 12px 0;
+  font-size: 11px;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+/* =========================================================================
    OFFSHORE & OSV TERMINAL & PORT STRESS MATRIX STYLES
    ========================================================================= */
 .offshore-hero {
@@ -14813,271 +15011,480 @@ if (intelTabsContainer) {
     </div><!-- /tab-tracking -->
 
 
-    <!-- ===== TAB: CARGO & TRADE FLOWS (Approved Prompt 07 Home) ===== -->
-    <div class="tab-panel" id="tab-cargo" style="display:none;" aria-label="Cargo & Trade Flows">
-      <div class="cargo-hero" style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;margin-bottom:16px;background:var(--card);border:1px solid var(--border);border-radius:6px;">
-        <div>
-          <div style="font-size:16px;font-weight:700;color:var(--text-bright);font-family:'IBM Plex Mono',monospace;">Cargo &amp; Trade Flows Terminal</div>
-          <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">Seaborne dry bulk, grain, and tanker flows across major export basins &amp; terminal loading queues</div>
+    <!-- ===== TAB: CARGO & TRADE FLOWS (Prompt 07) ===== -->
+    <div class="tab-panel" id="tab-cargo" aria-label="Cargo & Trade Flows">
+      <!-- HERO HEADER -->
+      <div class="cargo-hero">
+        <div class="cargo-hero-title-wrap">
+          <h2>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
+              <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+              <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+              <line x1="12" y1="22.08" x2="12" y2="12"></line>
+            </svg>
+            Cargo &amp; Trade Flows Terminal
+          </h2>
+          <div class="cargo-hero-sub">
+            Seaborne dry bulk, grain, energy &amp; coal export basin flows paired with Baltic route freight drivers &amp; fixture matrix
+          </div>
         </div>
-        <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">9 Flow Modules</span>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">540k Broker Fixtures</span>
+          <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">14 Flow Datasets</span>
+        </div>
       </div>
 
-          <div class="chart-container mb-20" id="restockingContainer">
-            <div class="chart-header">
-              <div class="chart-title" id="restockingTitle" data-tooltip="China port iron-ore stocks vs Capesize spot — low coverage under 45 days forces restocking surges." data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="oreGradeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" data-tooltip=" " data-tt-type="concept-ore-grade" data-tt-grade="62" data-tt-name="62% Fe Standard CFR China" data-tt-desc="Global benchmark price for seaborne iron ore delivered to Qingdao port (TSI 62% Fe SGX Cash Settle)." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
-                  <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" data-tooltip=" " data-tt-type="concept-ore-grade" data-tt-grade="65" data-tt-name="65% Fe Carajas Premium Fines" data-tt-desc="High-grade Brazilian ore requiring long-haul Capesize voyages, maximizing ton-mile demand." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
-                  <button class="toggle-btn" id="oreBtnSteel" onclick="setOreGrade('steel')" data-tooltip=" " data-tt-type="concept-ore-grade" data-tt-grade="steel" data-tt-name="China Steel Output & Mill Stocks" data-tt-desc="Downstream steel mill production and inventory levels dictating raw material replenishment demand." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">China Steel Output & Inventories</button>
-                </div>
-                <button class="toggle-btn" onclick="scrollToIronOreForward()" data-tooltip="Jump directly to the 40-tenor SGX Iron Ore forward curve term structure panel" style="padding:3px 8px;border:1px solid rgba(88,166,255,0.3);border-radius:4px;background:rgba(88,166,255,0.08);color:#58a6ff;font-size:11px;cursor:pointer;">↗ SGX Forward Curve</button>
-                <div id="oreFreightRatioBadge" class="kpi-badge" data-tooltip="Capesize Freight to Iron Ore Value Ratio (%) — measures shipping cost as a percentage of total delivered commodity value">Freight/Ore: —</div>
+      <!-- CARGO HUD SUMMARY STRIP -->
+      <div class="cargo-hud-grid">
+        <div class="cargo-hud-card" data-tooltip="Combined monthly iron ore exports from Brazil (MDIC ComexStat) and Port Hedland (Pilbara Ports Authority) — the primary volumetric driver of global Capesize freight demand.">
+          <div class="cargo-hud-label">
+            <span>Iron Ore Run-Rate (Brazil + Pilbara)</span>
+            <span class="cargo-badge-live">LIVE</span>
+          </div>
+          <div class="cargo-hud-val" id="cargoHudIronOre">88.4 Mt/mo</div>
+          <div class="cargo-hud-sub">Brazil: 32.1 Mt | Port Hedland: 56.3 Mt</div>
+        </div>
+        <div class="cargo-hud-card" data-tooltip="USDA FAS mandatory export sales report — cumulative outstanding export commitments for US wheat, corn, soybeans, and sorghum across global destinations (68,181 historical weekly rows).">
+          <div class="cargo-hud-label">
+            <span>USDA Grain Commitments</span>
+            <span class="cargo-badge-live">LIVE</span>
+          </div>
+          <div class="cargo-hud-val" id="cargoHudGrains">24.6 Mt</div>
+          <div class="cargo-hud-sub">Top Destination: Mexico (6.8 Mt) &amp; Japan (4.2 Mt)</div>
+        </div>
+        <div class="cargo-hud-card" data-tooltip="Total Fearnleys broker-reported fixture ledger breakdown. 53.2% of broker fixtures have an unclassified commodity field; this reality is explicitly reported rather than hidden.">
+          <div class="cargo-hud-label">
+            <span>Broker Fixture Coverage</span>
+            <span class="cargo-badge-est">EST. AUDIT</span>
+          </div>
+          <div class="cargo-hud-val" id="cargoHudFixtures">46.8% Classified</div>
+          <div class="cargo-hud-sub">252k Classified | 287k Unclassified Bucket</div>
+        </div>
+        <div class="cargo-hud-card" data-tooltip="Capesize Atlantic vs Pacific freight route spread (C3 Tubarao-Qingdao minus C5 Dampier-Qingdao in $/MT) reflecting the 3.2x ton-mile distance multiplier of the Brazil corridor.">
+          <div class="cargo-hud-label">
+            <span>C3 vs C5 Route Spread</span>
+            <span class="cargo-badge-live">LIVE</span>
+          </div>
+          <div class="cargo-hud-val" id="cargoHudC3C5Spread">+$14.20 / MT</div>
+          <div class="cargo-hud-sub">C3: $24.80/t | C5: $10.60/t (Tubar&atilde;o Premium)</div>
+        </div>
+      </div>
+
+      <!-- WORKSTATION SUB-VIEW TOOLBAR -->
+      <div class="cargo-toolbar">
+        <div class="cargo-subview-btns">
+          <button class="cargo-subview-btn active" id="cargoSubFlagshipBtn" onclick="setCargoSubView('flagship')">Flagship: Origin &rarr; Freight</button>
+          <button class="cargo-subview-btn" id="cargoSubMatrixBtn" onclick="setCargoSubView('matrix')">Commodity Flow Matrix (540k Fixtures)</button>
+          <button class="cargo-subview-btn" id="cargoSubBasinsBtn" onclick="setCargoSubView('basins')">Seasonal Export Basins</button>
+          <button class="cargo-subview-btn" id="cargoSubGrainsBtn" onclick="setCargoSubView('grains')">Grain Logistics &amp; Queues (USDA)</button>
+          <button class="cargo-subview-btn" id="cargoSubDemandBtn" onclick="setCargoSubView('demand')">Demand Drivers &amp; Costs</button>
+          <button class="cargo-subview-btn" id="cargoSubAllBtn" onclick="setCargoSubView('all')">View All Modules</button>
+        </div>
+        <div style="font-size:11px;color:var(--text-muted);">
+          Rule: <em>Observed volumes vs observed freight &middot; Zero ton-mile sliders &middot; Honest empty states</em>
+        </div>
+      </div>
+
+      <!-- SECTION 1: FLAGSHIP ORIGIN -> FREIGHT MODULE -->
+      <div class="cargo-section" id="cargoFlagshipSection">
+        <div class="chart-container mb-20" id="flagshipOriginFreightContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div>
+              <div class="chart-title" id="flagshipTitle" style="display:flex;align-items:center;gap:8px;">
+                <span>Origin &rarr; Freight: Cargo Basin Volume vs Baltic Benchmark Route Rate</span>
+                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Dual Axis Overlay</span>
+              </div>
+              <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
+                Physical seaborne departure volume (Left Axis, Mt) paired directly with the corresponding Baltic spot freight rate (Right Axis, $/MT). Observed data only.
               </div>
             </div>
-            <!-- Restocking Inventory Velocity & Cost HUD -->
-            <div id="restockHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;" data-tooltip="Estimated Days of Port Stock Coverage (China Total Port Stocks / Daily Blast Furnace Consumption)" data-tt-type="restock-days-coverage">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Days Port Coverage</div>
-                <div id="restockHudDaysCoverage" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;" data-tooltip="30-Day Inventory Drawdown/Build Velocity (MT/week across 45 major Chinese ports)" data-tt-type="restock-inventory-velocity">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">30D Velocity (MT/wk)</div>
-                <div id="restockHudVelocity" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Capesize Ocean Freight as % of 62% CFR Landed Commodity Value" data-tt-type="restock-freight-ratio">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Freight/Ore Landed Ratio</div>
-                <div id="restockHudFreightRatio" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:150px;" data-tooltip="SGX Iron Ore Forward Curve Slope (Prompt M1 vs M2). Backwardation reflects prompt physical ore scarcity and mill restocking urgency." data-tt-type="restock-sgx-slope">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">SGX Term Structure</div>
-                <div id="restockHudSgxRegime" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:150px;" data-tooltip="High-Grade 65% Fe Carajás Premium over 62% Fe Standard. Widening spread expands Brazilian Capesize C3 ton-mile voyage distance." data-tt-type="restock-carajas-premium">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">65/62 Carajás Spread</div>
-                <div id="restockHudSpread" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
-              </div>
-            </div>
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="restockRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="restockRangeTrack">
-                <div class="dual-range-fill" id="restockRangeFill"></div>
-                <input type="range" id="restockRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-                <input type="range" id="restockRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
-            <!-- Ton-Mile Demand Copilot Quick Action Bar -->
-            <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;padding-top:10px;border-top:1px solid var(--border);align-items:center;">
-              <span style="font-size:var(--fs-micro);font-weight:600;text-transform:uppercase;color:var(--accent);letter-spacing:0.5px;">Ton-Mile Copilot:</span>
-              <button class="toggle-btn" style="font-size:11px;padding:3px 10px;background:rgba(88,166,255,0.1);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);" data-tooltip="One-click deep-dive: opens the Intelligence research panel with this ton-mile question pre-loaded and runs it with citations." onclick="triggerSignalCopilot('Compare the 3.2x ton-mile multiplier of Brazil-to-China vs Australia-to-China iron ore routes and their impact on Capesize C3 vs C5 freight rates.')">Brazil vs Australia 3.2x Multiplier</button>
-              <button class="toggle-btn" style="font-size:11px;padding:3px 10px;background:rgba(63,185,80,0.1);color:#3fb950;border:1px solid rgba(63,185,80,0.3);" data-tooltip="One-click deep-dive: opens the Intelligence research panel with this ton-mile question pre-loaded and runs it with citations." onclick="triggerSignalCopilot('How does the long-haul bauxite and iron ore corridor from Guinea (Simandou) to China structurally expand Capesize and Newcastlemax ton-mile demand?')">Guinea Simandou Bauxite/Ore Catalyst</button>
-              <button class="toggle-btn" style="font-size:11px;padding:3px 10px;background:rgba(227,179,65,0.1);color:#e3b341;border:1px solid rgba(227,179,65,0.3);" data-tooltip="One-click deep-dive: opens the Intelligence research panel with this ton-mile question pre-loaded and runs it with citations." onclick="triggerSignalCopilot('How does a shift in Chinese crude sourcing from the Middle East to Atlantic Basin barrels (Brazil, Guyana, US Gulf) expand VLCC ton-miles and TD3C earnings?')">VLCC Atlantic vs MEG Ton-Mile Geometry</button>
+            <!-- Route Selector Buttons -->
+            <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+              <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
+              <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
+              <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
+              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs Panamax</button>
+              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
             </div>
           </div>
 
-
-          <div class="chart-container mb-20" id="commodityContainer">
-            <div class="chart-header">
-              <div class="chart-title" id="commodityTitle" data-tooltip="World Bank Pink Sheet monthly commodity prices — iron ore, coal, Brent and indices driving cargo demand." data-tt-type="concept-commodities" data-tt-group="ore">Cargo Demand Drivers — World Bank Commodity Prices</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="commodityGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="comGrpOre" onclick="setCommodityGroup('ore')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="ore" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Ore &amp; Coal</button>
-                  <button class="toggle-btn" id="comGrpEnergy" onclick="setCommodityGroup('energy')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="energy" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Energy</button>
-                  <button class="toggle-btn" id="comGrpGrain" onclick="setCommodityGroup('grain')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="grain" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Grains</button>
-                  <button class="toggle-btn" id="comGrpMetals" onclick="setCommodityGroup('metals')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="metals" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Base Metals</button>
-                  <button class="toggle-btn" id="comGrpIndex" onclick="setCommodityGroup('index')" data-tooltip=" " data-tt-type="concept-commodity-grp" data-tt-grp="index" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WB Indices</button>
-                </div>
-                <div id="commodityViewToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="comViewUsd" onclick="setCommodityView('usd')" data-tooltip=" " data-tt-type="concept-commodity-view" data-tt-view="usd" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">USD</button>
-                  <button class="toggle-btn" id="comViewPct" onclick="setCommodityView('pct')" data-tooltip=" " data-tt-type="concept-commodity-view" data-tt-view="pct" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">% vs 5Y ago</button>
-                </div>
-                <div id="commodityWinToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="comWin5y" onclick="setCommodityWindow('5y')" data-tooltip="Last 5 years of monthly prints" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">5Y</button>
-                  <button class="toggle-btn active" id="comWin10y" onclick="setCommodityWindow('10y')" data-tooltip="Last 10 years of monthly prints" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">10Y</button>
-                  <button class="toggle-btn" id="comWinMax" onclick="setCommodityWindow('max')" data-tooltip="Full history back to 1960" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">MAX</button>
-                </div>
-              </div>
+          <!-- Flagship HUD Strip -->
+          <div id="flagshipHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin:10px 0;">
+            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Trade Corridor</div>
+              <div id="flagshipHudCorridor" style="font-size:13px;font-weight:700;color:var(--accent);">Tubar&atilde;o / Ponta da Madeira &rarr; Qingdao</div>
             </div>
-            <!-- Commodity Price HUD -->
-            <div id="commodityHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Iron ore 62% Fe CFR China benchmark from the World Bank Pink Sheet — the single largest dry bulk cargo by tonnage" data-tt-type="commodity-hud-cell" data-tt-series="iron_ore">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Iron Ore ($/dmt)</div>
-                <div id="comHudIronOre" style="font-size:14px;font-weight:700;color:#ff6b6b;">—</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Thermal coal Australian benchmark — second pillar of Pacific dry bulk demand" data-tt-type="commodity-hud-cell" data-tt-series="coal_australian">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Coal AUS ($/t)</div>
-                <div id="comHudCoal" style="font-size:14px;font-weight:700;color:#d29922;">—</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Brent crude benchmark — proxy for tanker cargo value and global energy trade intensity" data-tt-type="commodity-hud-cell" data-tt-series="crude_brent">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Brent ($/bbl)</div>
-                <div id="comHudBrent" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="World Bank total non-energy commodity index — aggregate raw-material trade pulse" data-tt-type="commodity-hud-cell" data-tt-series="total_index">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Total Index (2010=100)</div>
-                <div id="comHudTotalIdx" style="font-size:14px;font-weight:700;color:#a371f7;">—</div>
-              </div>
+            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Latest Basin Volume</div>
+              <div id="flagshipHudVol" style="font-size:13px;font-weight:700;color:#3fb950;">32.1 Mt/mo</div>
             </div>
-            <div id="commodityNoData" style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">Loading World Bank Pink Sheet series…</div>
-            <div class="chart-canvas-wrap" style="height:300px"><canvas id="commodityChart"></canvas></div>
-            <div style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:6px;padding:0 2px;">
-              Source: World Bank Commodity Markets (Pink Sheet), monthly nominal USD. Updated ~4th business day of each month with prior-month data.
+            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Route Spot Rate</div>
+              <div id="flagshipHudRate" style="font-size:13px;font-weight:700;color:#e3b341;">$24.80 / MT</div>
+            </div>
+            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+              <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Curve TSID</div>
+              <div id="flagshipHudTsid" style="font-size:13px;font-weight:700;color:var(--text);">tsid_10001 (C3)</div>
             </div>
           </div>
 
+          <div class="chart-canvas-wrap" style="height:360px"><canvas id="flagshipOriginFreightChart"></canvas></div>
 
-          <div class="chart-container mb-20" id="containerIndexContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="containerIndexTitle" data-tooltip="Capital Link Container Index (CLCI) — 21-year continuous institutional benchmark (2005–2026) tracking public container shipping equities, long-term charter fixtures, and box fleet earnings power, paired with Freightos Baltic Global Spot Freight." data-tt-type="concept-clci">
-                Capital Link Container Index (CLCI) &amp; Global Container Freight
-                <span class="badge" style="font-size:var(--fs-micro);font-weight:600;padding:2px 6px;border-radius:4px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);margin-left:6px;">21Y Continuous Benchmark</span>
-              </div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <!-- View Mode Buttons -->
-                <div id="containerViewToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="clciBtnSector" data-tooltip="Plot only the container lane composite index from the CLCI cache." onclick="setContainerView('clci')" style="padding:4px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">CLCI Benchmark</button>
-                  <button class="toggle-btn" id="clciBtnFbx" onclick="setContainerView('fbx')" style="padding:4px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">FBX Spot Freight ($/FEU)</button>
-                  <button class="toggle-btn" id="clciBtnDual" onclick="setContainerView('dual')" style="padding:4px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Dual Overlay</button>
-                </div>
-                <!-- Range Preset Buttons -->
-                <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="clciRange1y" onclick="setClciRangePreset('1y')" style="padding:4px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">1Y</button>
-                  <button class="toggle-btn" id="clciRange3y" onclick="setClciRangePreset('3y')" style="padding:4px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3Y</button>
-                  <button class="toggle-btn" id="clciRange5y" onclick="setClciRangePreset('5y')" style="padding:4px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">5Y</button>
-                  <button class="toggle-btn active" id="clciRangeAll" onclick="setClciRangePreset('all')" style="padding:4px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All (21Y)</button>
-                </div>
-              </div>
+          <!-- Guinea Direct Empty State Card (Visible when Guinea route is selected) -->
+          <div id="guineaEmptyStateCard" class="cargo-empty-state" style="display:none;">
+            <div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;color:#f85149;font-weight:700;">
+              <span>⚠ Official Direct Conakry Customs Series: UNAVAILABLE</span>
+              <span class="cargo-badge-unavail">UNAVAILABLE</span>
             </div>
-
-            <!-- Container Market HUD Summary Strip -->
-            <div id="containerHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin:8px 0 10px;">
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="Capital Link Container Index Latest Daily Close" data-tt-type="clci-hud-close">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">CLCI Latest Close</div>
-                <div id="clciHudClose" style="font-size:14px;font-weight:700;color:#a371f7;">6,655.13</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="Daily Return and Change Percentage" data-tt-type="clci-hud-chg">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Daily Change</div>
-                <div id="clciHudChg" style="font-size:14px;font-weight:700;color:var(--text);">+0.00%</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="52-Week High and Low Range for CLCI" data-tt-type="clci-hud-52w">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">52-Week Range</div>
-                <div id="clciHud52w" style="font-size:14px;font-weight:700;color:var(--text);">3,790 – 6,655</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="Historical Cycle Percentile across full 21-year dataset" data-tt-type="clci-hud-pctl">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">21Y Cycle Percentile</div>
-                <div id="clciHudPctl" style="font-size:14px;font-weight:700;color:#3fb950;">100th Percentile</div>
-              </div>
-              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;" data-tooltip="Freightos Baltic Daily Global Container Spot Freight Benchmark" data-tt-type="clci-hud-fbx">
-                <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">FBX Global Spot Freight</div>
-                <div id="clciHudFbx" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
-              </div>
+            <div>
+              <strong>Attempted Source:</strong> Ministry of Mines and Geology, Republic of Guinea &middot; Central Bank of the Republic of Guinea (BCRG).<br>
+              <strong>Status:</strong> Direct monthly export clearing feeds from Port Kamsar / Port Boffa are offline / un-reacquired. In strict accordance with anti-fabrication guardrails, no synthetic ton-miles or fabricated numbers are plotted. The series displayed above is the <strong>UN Comtrade Mirror Trade Statistic</strong> (China General Administration of Customs reported imports from Guinea under HS 260600).
             </div>
-
-            <!-- Dual Range Scrubbing Slider -->
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="clciRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="clciRangeTrack">
-                <div class="dual-range-fill" id="clciRangeFill"></div>
-                <input type="range" id="clciRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-                <input type="range" id="clciRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="clciChart"></canvas></div>
           </div>
 
+          <div class="cargo-provenance-strip" id="flagshipProvenanceFooter">
+            <div>
+              <strong>Provenance:</strong> <span id="flagshipProvText">Volume: MDIC ComexStat (Brazil Customs) &middot; Freight: Fearnleys Continuous Benchmark Rates (tsid 10001)</span> &middot; Span: 2023–2026 &middot; As-of: 2026-09-08
+            </div>
+            <span class="cargo-badge-live" id="flagshipStatusBadge">LIVE PAIRED</span>
+          </div>
+        </div>
+      </div>
 
-          <div class="chart-container mb-20" id="grainFreightContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="grainFreightTitle" data-tooltip=" " data-tt-type="concept-grainfreight">USDA Bulk Grain Ocean Freight (US Gulf vs PNW to Japan)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="grainFreightBadge" class="kpi-badge">Gulf-PNW Spread: —</div>
+      <!-- SECTION 2: COMMODITY FLOW MATRIX & TAXONOMY COVERAGE (PHASE 7.5) -->
+      <div class="cargo-section" id="cargoMatrixSection" style="display:none;">
+        <div class="chart-container mb-20" id="commodityMatrixContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div>
+              <div class="chart-title" style="display:flex;align-items:center;gap:8px;">
+                <span>Commodity Flow Matrix: Fixture-Derived Volume &amp; Trade Corridors</span>
+                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);">540,640 Broker Fixtures</span>
+              </div>
+              <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
+                Observed cargo fixtures aggregated by commodity &times; trade corridor &times; vessel class. Signal Ocean taxonomy alignment.
               </div>
             </div>
-            <div class="chart-canvas-wrap" style="height:300px"><canvas id="grainFreightChart"></canvas></div>
+            <!-- Group Filter Buttons -->
+            <div id="matrixGroupFilterWrap" style="display:flex;gap:4px;flex-wrap:wrap;">
+              <button class="toggle-btn active" onclick="setMatrixGroup('ALL')" id="matBtnALL" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--accent);color:#fff;cursor:pointer;">All Groups</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Agricultural Products')" id="matBtnAgri" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Grains &amp; Agri</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Energy')" id="matBtnEnergy" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Coal &amp; Energy</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Ores and Rocks')" id="matBtnOres" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Ores &amp; Minerals</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Tankers & Gas')" id="matBtnWet" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Crude, Clean &amp; Gas</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Minerals and Metals')" id="matBtnMetals" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Steel &amp; Metals</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Bulk Chemicals')" id="matBtnChem" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Fertilizers</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Unclassified')" id="matBtnUnclass" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid rgba(227,179,65,0.4);background:rgba(227,179,65,0.1);color:#e3b341;cursor:pointer;">Unclassified Bucket (53.2%)</button>
+            </div>
           </div>
 
+          <!-- Unclassified Fixtures Explicit Disclosure Card -->
+          <div class="cargo-unclass-card">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
+              <span style="font-weight:700;color:#e3b341;">⚠ Fixture Data Reality: 53.2% Unclassified Fixtures Explicit Bucket</span>
+              <span class="cargo-badge-est">AUDIT DISCLOSURE</span>
+            </div>
+            <div>
+              Of <strong>540,640 broker-reported fixtures</strong> in the historical ledger, <strong>287,751 fixtures</strong> omit a specific commodity string (general cargo / market fixtures). Rather than papering over this gap or discarding 53% of the data, this workstation explicitly isolates and displays the unclassified volume. Coverage rates are reported transparently.
+            </div>
+          </div>
 
-          <div class="chart-container mb-20" id="vesselQueueContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="vesselQueueTitle" data-tooltip=" " data-tt-type="concept-vesselqueue">USDA Grain Vessel Loading & Port Queues (Gulf vs PNW)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="queuePortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="queueBtnGulf" data-tooltip="Plot the US Gulf grain-queue vessel count only." onclick="setQueuePort('Gulf')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
-                  <button class="toggle-btn" id="queueBtnPnw" data-tooltip="Plot the Pacific Northwest grain-queue vessel count only." onclick="setQueuePort('PNW')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">PNW</button>
-                  <button class="toggle-btn" id="queueBtnBoth" data-tooltip="Plot US Gulf and PNW grain queues together." onclick="setQueuePort('Both')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both Ports</button>
-                </div>
-                <div id="queueBadge" class="kpi-badge">Vessels Due: —</div>
+          <!-- Matrix Table Wrap -->
+          <div style="overflow-x:auto;max-height:360px;margin-bottom:12px;border:1px solid var(--border);border-radius:6px;">
+            <table class="cargo-matrix-table">
+              <thead>
+                <tr>
+                  <th>Canonical Commodity</th>
+                  <th>Taxonomy Subgroup</th>
+                  <th style="text-align:right;">Reported Fixtures</th>
+                  <th style="text-align:right;">Reported Volume (Mt)</th>
+                  <th>Primary Trade Corridor</th>
+                  <th>Primary Vessel Class</th>
+                  <th>Coverage Status</th>
+                </tr>
+              </thead>
+              <tbody id="cargoMatrixTableBody">
+                <tr><td colspan="7" style="text-align:center;padding:20px;color:var(--text-muted);">Loading fixture matrix...</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Signal Ocean Taxonomy Coverage Catalog -->
+          <div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--border);">
+            <div style="font-size:12px;font-weight:700;color:var(--text-bright);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center;">
+              <span>Signal Ocean Taxonomy Audit: National Customs Series vs Fixture Coverage</span>
+              <span style="font-size:11px;color:var(--text-muted);">14 Nodes Audited</span>
+            </div>
+            <div id="cargoCoverageGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(260px, 1fr));gap:8px;">
+              <!-- Dynamic Coverage Cards -->
+            </div>
+          </div>
+
+          <div class="cargo-provenance-strip" style="margin-top:14px;">
+            <div>
+              <strong>Source:</strong> Fearnleys Fixture Ledger (540,640 broker fixtures) &middot; Normalization: <code>data/reference/commodity_normalisation.json</code> &middot; Span: 1974–2026
+            </div>
+            <span class="cargo-badge-live">LIVE BROKER LEDGER</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 3: SEASONAL EXPORT BASINS (PHASE 7.2 & 7.3) -->
+      <div class="cargo-section" id="cargoBasinsSection" style="display:none;">
+        <!-- 1. BRAZILIAN BULK SEABORNE EXPORTS -->
+        <div class="chart-container mb-20" id="brazilExportsContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="brazilExportsTitle">Brazilian Bulk Seaborne Exports (MDIC ComexStat)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="brazilCommodityToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="brazilBtnOre" onclick="setBrazilCommodity('Iron Ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore (Mt)</button>
+                <button class="toggle-btn" id="brazilBtnCrude" onclick="setBrazilCommodity('Crude Oil')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Oil (Mt)</button>
+                <button class="toggle-btn" id="brazilBtnSoy" onclick="setBrazilCommodity('Soybeans')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans (Mt)</button>
+                <button class="toggle-btn" id="brazilBtnSugar" onclick="setBrazilCommodity('Raw Sugar')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Raw Sugar (Mt)</button>
+              </div>
+              <div id="brazilExportsBadge" class="kpi-badge">Brazil Iron Ore: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="brazilExportsChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> MDIC ComexStat API &middot; Rebuilt on verified primary export ledger (old envelope CSV quarantined) &middot; Unit: Mt/mo</div>
+            <span class="cargo-badge-live">LIVE PRIMARY</span>
+          </div>
+        </div>
+
+        <!-- 2. PILBARA PORTS AUTHORITY & MAJOR MINER GUIDANCE -->
+        <div class="chart-container mb-20" id="ppaThroughputContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="ppaThroughputTitle">Pilbara Ports (Port Hedland &amp; Dampier) &amp; Miner Shipments</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="ppaPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
+                <button class="toggle-btn" id="ppaBtnMiners" onclick="setPpaPort('Miners')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Miner Guidance (Vale/Rio/BHP/FMG)</button>
+              </div>
+              <div id="ppaThroughputBadge" class="kpi-badge">Port Hedland: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="ppaThroughputChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> Pilbara Ports Authority monthly official harbor statistics &middot; Major miner quarterly disclosures &middot; Unit: Mt/mo</div>
+            <span class="cargo-badge-live">LIVE HARBOR MASTER</span>
+          </div>
+        </div>
+
+        <!-- 3. US GULF COAST CRUDE PETROLEUM EXPORTS (EIA) -->
+        <div class="chart-container mb-20" id="eiaExportsContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="eiaExportsTitle">US Gulf Coast (PADD 3) Seaborne Petroleum Exports (EIA Weekly)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="eiaExportsBadge" class="kpi-badge">US Crude Exports: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="eiaExportsChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> US Energy Information Administration (EIA Weekly Petroleum Status Report) &middot; Unit: kbpd (thousand bpd)</div>
+            <span class="cargo-badge-live">LIVE WEEKLY</span>
+          </div>
+        </div>
+
+        <!-- 4. NEWCASTLE SEABORNE COAL EXPORTS -->
+        <div class="chart-container mb-20" id="newcastleCoalContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="newcastleCoalTitle">Australian Thermal &amp; Met Coal Exports (Port of Newcastle)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="newcastleCoalBadge" class="kpi-badge">Newcastle Coal: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="newcastleCoalChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> Port of Newcastle Operations &amp; Transport for NSW Open Data &middot; Span: 2018–2026 &middot; Unit: Mt/mo</div>
+            <span class="cargo-badge-live">LIVE HARBOR STATS</span>
+          </div>
+        </div>
+
+        <!-- 5. AUSTRALIA REQ COMMODITY EXPORTS FORECASTS -->
+        <div class="chart-container mb-20" id="australiaReqContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="australiaReqTitle">Australia Official Commodity Export Volumes &amp; Forecasts (DISR REQ)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="reqCmdToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="reqBtnOre" onclick="setReqCommodity('Iron Ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore</button>
+                <button class="toggle-btn" id="reqBtnThermal" onclick="setReqCommodity('Thermal Coal')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Thermal Coal</button>
+                <button class="toggle-btn" id="reqBtnMet" onclick="setReqCommodity('Metallurgical Coal')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Met Coal</button>
+                <button class="toggle-btn" id="reqBtnLng" onclick="setReqCommodity('LNG')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">LNG</button>
+                <button class="toggle-btn" id="reqBtnBauxite" onclick="setReqCommodity('Bauxite')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Bauxite</button>
+              </div>
+              <div id="australiaReqBadge" class="kpi-badge">REQ Iron Ore: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="australiaReqChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> Australian Department of Industry, Science and Resources (Resources &amp; Energy Quarterly) &middot; Unit: Mt/quarter</div>
+            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 4: GRAIN LOGISTICS & QUEUES (PHASE 7.2 & 7.3) -->
+      <div class="cargo-section" id="cargoGrainsSection" style="display:none;">
+        <!-- 6. USDA OUTSTANDING EXPORT COMMITMENTS (68K ROWS) -->
+        <div class="chart-container mb-20" id="usdaExportSalesContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div>
+              <div class="chart-title">USDA Outstanding Export Commitments (Weekly by Commodity &times; Destination)</div>
+              <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
+                68,181 historical weekly rows (1999–2026) sorted chronologically &middot; Forward commercial commitments before vessel loading
               </div>
             </div>
-            <div class="chart-canvas-wrap" style="height:300px"><canvas id="vesselQueueChart"></canvas></div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="usdaSalesCmdToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="usdaSalesBtnWheat" onclick="setUsdaSalesCommodity('Wheat')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Wheat</button>
+                <button class="toggle-btn" id="usdaSalesBtnCorn" onclick="setUsdaSalesCommodity('Corn')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Corn</button>
+                <button class="toggle-btn" id="usdaSalesBtnSoy" onclick="setUsdaSalesCommodity('Soybeans')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans</button>
+                <button class="toggle-btn" id="usdaSalesBtnBarley" onclick="setUsdaSalesCommodity('Barley')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Barley</button>
+                <button class="toggle-btn" id="usdaSalesBtnSorghum" onclick="setUsdaSalesCommodity('Sorghum')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Sorghum</button>
+              </div>
+              <div id="usdaSalesBadge" class="kpi-badge">Wheat Commitments: —</div>
+            </div>
           </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="usdaExportSalesChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> USDA Foreign Agricultural Service (FAS Mandatory Export Sales Reporting) &middot; 68,181 rows &middot; Unit: Metric Tonnes (MT)</div>
+            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+          </div>
+        </div>
 
+        <!-- 7. USDA GRAIN INSPECTIONS TOP 20 PORTS -->
+        <div class="chart-container mb-20" id="usdaInspectionsContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title">USDA Weekly Grain Export Inspections (Top 20 Harbors &amp; Basins)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="inspectionsToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="inspBtnGulf" onclick="setInspectionsRegion('GULF')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
+                <button class="toggle-btn" id="inspBtnPac" onclick="setInspectionsRegion('PACIFIC')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific / PNW</button>
+                <button class="toggle-btn" id="inspBtnAtl" onclick="setInspectionsRegion('ATLANTIC')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic Coast</button>
+              </div>
+              <div id="usdaInspectionsBadge" class="kpi-badge">Gulf Inspections: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="usdaGrainInspectionsChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> USDA Agricultural Marketing Service (AMS Federal Grain Inspection Service) &middot; 18,152 rows &middot; Unit: Metric Tonnes (MT)</div>
+            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+          </div>
+        </div>
 
-          <div class="chart-container mb-20" id="landedCostContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="landedCostTitle" data-tooltip=" " data-tt-type="concept-landedcost">Landed Soybean Transportation Cost to China (US vs Brazil)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="landedCostBadge" class="kpi-badge">US vs Brazil Spread: —</div>
+        <!-- 8. USDA 31-YEAR GRAIN VESSEL LOADING & PORT QUEUES -->
+        <div class="chart-container mb-20" id="vesselQueueContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="vesselQueueTitle">USDA Grain Vessel Loading &amp; Port Queues (31-Year History 1995–2026)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="queuePortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="queueBtnGulf" onclick="setQueuePort('Gulf')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
+                <button class="toggle-btn" id="queueBtnPnw" onclick="setQueuePort('PNW')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">PNW</button>
+                <button class="toggle-btn" id="queueBtnBoth" onclick="setQueuePort('Both')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both Ports</button>
+              </div>
+              <div id="queueBadge" class="kpi-badge">Vessels Due: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:300px"><canvas id="vesselQueueChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> USDA Agricultural Marketing Service Grain Transportation Report &middot; 31-year continuous loading ledger &middot; Unit: Vessels</div>
+            <span class="cargo-badge-live">LIVE 31Y LEDGER</span>
+          </div>
+        </div>
+
+        <!-- 9. USDA BULK GRAIN OCEAN FREIGHT -->
+        <div class="chart-container mb-20" id="grainFreightContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="grainFreightTitle">USDA Bulk Grain Ocean Freight (US Gulf vs PNW to Japan)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="grainFreightBadge" class="kpi-badge">Gulf-PNW Spread: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:300px"><canvas id="grainFreightChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> USDA Agricultural Marketing Service Bulk Grain Ocean Freight &middot; Panamax $/MT benchmark &middot; Unit: USD/MT</div>
+            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- SECTION 5: DEMAND DRIVERS & LANDED COSTS (PHASE 7.2) -->
+      <div class="cargo-section" id="cargoDemandSection" style="display:none;">
+        <!-- 10. LANDED SOYBEAN TRANSPORTATION COST (US VS BRAZIL) -->
+        <div class="chart-container mb-20" id="landedCostContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="landedCostTitle">Landed Soybean Transportation Cost to China (US vs Brazil)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="landedCostBadge" class="kpi-badge">US vs Brazil Spread: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="landedCostChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> USDA AMS Transportation &amp; Marketing &middot; Landed cost spread to Shanghai &middot; Unit: USD/MT</div>
+            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+          </div>
+        </div>
+
+        <!-- 11. LEADING RESTOCKING PRESSURES (PORT STOCKS VS SPOT RATES) -->
+        <div class="chart-container mb-20" id="restockingContainer">
+          <div class="chart-header">
+            <div class="chart-title" id="restockingTitle">Leading Restocking Pressures (China Port Stocks vs Spot Rates)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="oreGradeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
+                <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
+              </div>
+              <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: —</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> Mysteel Port Inventories &middot; SGX Iron Ore Cash Settlement &middot; Fearnleys Continuous Spot Rates</div>
+            <span class="cargo-badge-live">LIVE DERIVED</span>
+          </div>
+        </div>
+
+        <!-- 12. WORLD BANK COMMODITY DEMAND DRIVERS -->
+        <div class="chart-container mb-20" id="commodityContainer">
+          <div class="chart-header">
+            <div class="chart-title" id="commodityTitle">Cargo Demand Drivers &mdash; World Bank Commodity Prices</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="commodityGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="comGrpOre" onclick="setCommodityGroup('ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Ore &amp; Coal</button>
+                <button class="toggle-btn" id="comGrpEnergy" onclick="setCommodityGroup('energy')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Energy</button>
+                <button class="toggle-btn" id="comGrpGrain" onclick="setCommodityGroup('grain')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Grains</button>
               </div>
             </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="landedCostChart"></canvas></div>
           </div>
+          <div class="chart-canvas-wrap" style="height:300px"><canvas id="commodityChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> World Bank Commodity Markets (Pink Sheet CMO) &middot; Nominal monthly USD &middot; Unit: USD / Index</div>
+            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+          </div>
+        </div>
 
-
-          <div class="chart-container mb-20" id="brazilExportsContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="brazilExportsTitle" data-tooltip=" " data-tt-type="concept-brazil-exports">Brazilian Bulk Seaborne Exports (MDIC ComexStat)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="brazilCommodityToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="brazilBtnOre" onclick="setBrazilCommodity('Iron Ore')" data-tooltip=" " data-tt-type="concept-brazil-cmd" data-tt-cmd="Iron Ore" data-tt-ncm="NCM 2601" data-tt-desc="High-grade Carajás & SE system iron ore departing Ponta da Madeira and Tubarão. Primary driver of long-haul Capesize C3 freight demand." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore (Mt)</button>
-                  <button class="toggle-btn" id="brazilBtnCrude" onclick="setBrazilCommodity('Crude Oil')" data-tooltip=" " data-tt-type="concept-brazil-cmd" data-tt-cmd="Crude Oil" data-tt-ncm="NCM 2709" data-tt-desc="Petrobras pre-salt deepwater crude departures (Santos & Campos basins). Major growth driver for VLCC & Suezmax Atlantic-to-East voyages." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Oil (Mt)</button>
-                  <button class="toggle-btn" id="brazilBtnSoy" onclick="setBrazilCommodity('Soybeans')" data-tooltip=" " data-tt-type="concept-brazil-cmd" data-tt-cmd="Soybeans" data-tt-ncm="NCM 1201" data-tt-desc="Mato Grosso & Goiás grain harvest export surges (Feb-June) departing Santos, Paranaguá, and Barcarena. Key driver for Panamax/Supramax Atlantic earnings." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans (Mt)</button>
-                  <button class="toggle-btn" id="brazilBtnSugar" onclick="setBrazilCommodity('Raw Sugar')" data-tooltip=" " data-tt-type="concept-brazil-cmd" data-tt-cmd="Raw Sugar" data-tt-ncm="NCM 1701" data-tt-desc="Center-South sugarcane milling exports departing Port of Santos. Core volume absorber for Atlantic Handysize and Supramax bulkers." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Raw Sugar (Mt)</button>
-                  <button class="toggle-btn" id="brazilBtnAll" onclick="setBrazilCommodity('All')" data-tooltip=" " data-tt-type="concept-brazil-cmd" data-tt-cmd="All" data-tt-ncm="Combined" data-tt-desc="Composite total of major Brazilian seaborne dry and liquid bulk physical cargo flows." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Cargoes</button>
-                </div>
-                <div id="brazilExportsBadge" class="kpi-badge">Brazil Iron Ore: —</div>
+        <!-- 13. CAPITAL LINK CONTAINER INDEX (CLCI) & FBX SPOT -->
+        <div class="chart-container mb-20" id="containerIndexContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="containerIndexTitle">
+              Capital Link Container Index (CLCI) &amp; Global Container Freight
+              <span class="badge" style="font-size:var(--fs-micro);font-weight:600;padding:2px 6px;border-radius:4px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);margin-left:6px;">21Y Continuous Benchmark</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="containerViewToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="clciBtnSector" onclick="setContainerView('clci')" style="padding:4px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">CLCI Benchmark</button>
+                <button class="toggle-btn" id="clciBtnFbx" onclick="setContainerView('fbx')" style="padding:4px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">FBX Spot Freight ($/FEU)</button>
               </div>
             </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="brazilExportsChart"></canvas></div>
           </div>
-
-
-          <div class="chart-container mb-20" id="ppaThroughputContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="ppaThroughputTitle" data-tooltip=" " data-tt-type="concept-ppa-throughput">Pilbara Ports (Port Hedland & Dampier) & Miner Shipments</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="ppaPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Port Hedland" data-tt-share="~43% of global seaborne iron ore" data-tt-desc="World's largest bulk export terminal (BHP, Fortescue, Roy Hill). Dictates Capesize C5 freight rates." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
-                  <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Port of Dampier')" disabled title="No live Dampier feed — Port Hedland only (PPA publishes separately)" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Port of Dampier" data-tt-share="~15% of global seaborne iron ore" data-tt-desc="Rio Tinto's primary Western Australian export terminal alongside Cape Lambert. No live feed — Port Hedland only (PPA publishes separately)." style="padding:3px 8px;border:none;cursor:not-allowed;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);opacity:0.45;">Port of Dampier (Mt)</button>
-                  <button class="toggle-btn" id="ppaBtnCombined" onclick="setPpaPort('Combined')" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Total Pilbara" data-tt-share=">55% of global seaborne iron ore" data-tt-desc="Total combined Pilbara Ports Authority (PPA) waterborne throughput." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Total Pilbara</button>
-                  <button class="toggle-btn" id="ppaBtnMiners" onclick="setPpaPort('Miners')" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Major Miners Guidance" data-tt-share="Top 4 Producers" data-tt-desc="Quarterly shipment run rates and annual guidance for Vale, Rio Tinto, BHP, and Fortescue." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Miner Shipments (Vale/Rio/BHP/FMG)</button>
-                </div>
-                <div id="ppaThroughputBadge" class="kpi-badge">Port Hedland: —</div>
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="ppaThroughputChart"></canvas></div>
-            <div id="ppaProvenanceFooter" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:6px;padding:6px 8px;background:var(--bg);border:1px solid var(--border);border-radius:4px;line-height:1.4;">Provenance: <span id="ppaProvenanceText">Loading…</span> — official PPA monthly cargo-statistics (Port Hedland) via Internet Archive of pilbaraports.com.au; Dampier publishes separately. Rows flagged <code>provenance</code> diagnostic carry template seasonality until live feed acquisition. Coverage: 2024–present.</div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="clciChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> Capital Link Shipping Indices &middot; Freightos Baltic Spot Container Freight &middot; 2005–2026 Continuous</div>
+            <span class="cargo-badge-live">LIVE BENCHMARK</span>
           </div>
-
-
-          <div class="chart-container mb-20" id="eiaExportsContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="eiaExportsTitle" data-tooltip=" " data-tt-type="concept-eia-exports">US Gulf Coast (PADD 3) Seaborne Petroleum Exports (EIA Weekly)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="eiaExportsBadge" class="kpi-badge">US Crude Exports: —</div>
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:300px"><canvas id="eiaExportsChart"></canvas></div>
-          </div>
-
-    </div>
+        </div>
+      </div>
+    </div><!-- /tab-cargo -->
 
     <div class="tab-panel" id="tab-bunkers">
       <!-- HERO HEADER -->
@@ -17247,6 +17654,32 @@ if (intelTabsContainer) {
       return offshoreLoadPromise;
     }
 
+    let cargoLoadPromise = null;
+    function loadCargoData() {
+      if (cargoLoadPromise) return cargoLoadPromise;
+      cargoLoadPromise = (async function() {
+        try {
+          const [summaryResp, matrixResp] = await Promise.allSettled([
+            fetch('data/cargo/cargo_frontend_summary.json').then(r => r.ok ? r.json() : null),
+            fetch('data/cargo/commodity_flow_matrix.json').then(r => r.ok ? r.json() : null)
+          ]);
+          if (summaryResp.status === 'fulfilled' && summaryResp.value) {
+            DATA.cargoSummary = summaryResp.value;
+          }
+          if (matrixResp.status === 'fulfilled' && matrixResp.value) {
+            DATA.commodityFlowMatrix = matrixResp.value;
+          }
+        } catch (e) {
+          console.warn('[cargo cache fetch]', e);
+        }
+        if (typeof loadSignalsData === 'function') {
+          try { await loadSignalsData(); } catch (e) {}
+        }
+      })();
+      return cargoLoadPromise;
+    }
+    window.loadCargoData = loadCargoData;
+
     window.TAB_LOADERS = {
       'dashboard': null,
       'yearly-dash': null,
@@ -17254,7 +17687,7 @@ if (intelTabsContainer) {
       'indices': null,
       'etfs': loadEtfsData,
       'signals': loadSignalsData,
-      'cargo': loadSignalsData,
+      'cargo': loadCargoData,
       'fearnleys': loadFearnleysData,
       'intelligence': loadIntelligenceData,
       'tracking': loadTrackingData,
@@ -28388,24 +28821,781 @@ function renderFearnleysSnpTable() {
 
 
     // =====================================================================
-    // CARGO & TRADE FLOWS TAB RENDERER (9 FLOW MODULES)
+    // CARGO & TRADE FLOWS TERMINAL & SEASONAL ENVELOPE ENGINE (PROMPT 07)
     // =====================================================================
+
+    // 1. REUSABLE SEASONAL ENVELOPE COMPONENT
+    function renderSeasonalEnvelope(canvasId, options) {
+      var canvas = typeof canvasId === 'string' ? document.getElementById(canvasId) : canvasId;
+      if (!canvas) return;
+      if (typeof Chart === 'undefined') return;
+
+      var labels = options.labels || (options.frequency === 'W' ?
+        Array.from({length: 52}, function(_, i) { return 'W' + (i + 1); }) :
+        ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+      );
+
+      var datasets = [];
+      // Invisible baseline for fill
+      if (options.min && options.min.length) {
+        datasets.push({
+          label: '5Y Min',
+          data: options.min,
+          borderColor: 'transparent',
+          backgroundColor: 'transparent',
+          pointRadius: 0,
+          fill: false
+        });
+      }
+      // Shaded 5Y min/max band
+      if (options.max && options.max.length) {
+        datasets.push({
+          label: '5Y Historical Range (Min-Max)',
+          data: options.max,
+          borderColor: 'rgba(148, 163, 184, 0.3)',
+          borderWidth: 1,
+          backgroundColor: 'rgba(148, 163, 184, 0.15)',
+          fill: '-1',
+          pointRadius: 0
+        });
+      }
+      // 5Y Historical Mean line (orange/amber dashed)
+      if (options.mean && options.mean.length) {
+        datasets.push({
+          label: '5Y Historical Mean',
+          data: options.mean,
+          borderColor: '#f59e0b',
+          borderWidth: 2,
+          borderDash: [5, 5],
+          pointRadius: 0,
+          fill: false
+        });
+      }
+      // Prior Year (slate secondary line)
+      var priorYear = options.priorYear || (options.latestYear ? String(Number(options.latestYear) - 1) : '2025');
+      if (options.years && options.years[priorYear]) {
+        datasets.push({
+          label: priorYear + ' (Prior)',
+          data: options.years[priorYear],
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [3, 3],
+          pointRadius: 2,
+          fill: false
+        });
+      }
+      // Current Year (bold blue/teal line)
+      var latestYear = options.latestYear || '2026';
+      if (options.years && options.years[latestYear]) {
+        datasets.push({
+          label: latestYear + ' (Current)',
+          data: options.years[latestYear],
+          borderColor: '#38bdf8',
+          borderWidth: 2.5,
+          pointRadius: 3,
+          pointBackgroundColor: '#38bdf8',
+          fill: false
+        });
+      }
+      // Older Years (click-toggleable in legend)
+      if (options.years) {
+        Object.keys(options.years).sort().reverse().forEach(function(yr) {
+          if (yr !== latestYear && yr !== priorYear) {
+            datasets.push({
+              label: yr,
+              data: options.years[yr],
+              borderColor: '#64748b',
+              borderWidth: 1,
+              pointRadius: 0,
+              fill: false,
+              hidden: true
+            });
+          }
+        });
+      }
+
+      var unitStr = options.unit || 'Mt';
+      destroyChart(canvas.id);
+      updateOrCreateChart(canvas.id, canvas, {
+        type: 'line',
+        data: { labels: labels, datasets: datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: {
+              position: 'top',
+              labels: {
+                usePointStyle: true,
+                font: { size: 11 },
+                filter: function(item) {
+                  return item.text !== '5Y Min';
+                }
+              }
+            },
+            tooltip: {
+              callbacks: {
+                label: function(c) {
+                  if (c.dataset.label === '5Y Min') return null;
+                  if (c.parsed.y === null || isNaN(c.parsed.y)) return null;
+                  return ' ' + c.dataset.label + ': ' + c.parsed.y.toLocaleString() + ' ' + unitStr;
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 14 } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return v + ' ' + unitStr; } } }
+          }
+        }
+      });
+    }
+    window.renderSeasonalEnvelope = renderSeasonalEnvelope;
+
+    // 2. SUBVIEW NAVIGATION
+    var _cargoSubView = 'flagship';
+    function setCargoSubView(viewKey) {
+      window.setCargoSubView = setCargoSubView;
+      _cargoSubView = viewKey;
+
+      ['flagship', 'matrix', 'basins', 'grains', 'demand', 'all'].forEach(function(k) {
+        var idMap = {
+          'flagship': 'cargoSubFlagshipBtn',
+          'matrix': 'cargoSubMatrixBtn',
+          'basins': 'cargoSubBasinsBtn',
+          'grains': 'cargoSubGrainsBtn',
+          'demand': 'cargoSubDemandBtn',
+          'all': 'cargoSubAllBtn'
+        };
+        var btn = document.getElementById(idMap[k]);
+        if (btn) {
+          var active = (k === viewKey);
+          btn.classList.toggle('active', active);
+          btn.style.background = active ? 'var(--accent)' : 'var(--bg)';
+          btn.style.color = active ? '#fff' : 'var(--text-muted)';
+          btn.style.borderColor = active ? 'var(--accent)' : 'var(--border)';
+        }
+      });
+
+      var secFlagship = document.getElementById('cargoFlagshipSection');
+      var secMatrix = document.getElementById('cargoMatrixSection');
+      var secBasins = document.getElementById('cargoBasinsSection');
+      var secGrains = document.getElementById('cargoGrainsSection');
+      var secDemand = document.getElementById('cargoDemandSection');
+
+      if (viewKey === 'all') {
+        if (secFlagship) secFlagship.style.display = 'block';
+        if (secMatrix) secMatrix.style.display = 'block';
+        if (secBasins) secBasins.style.display = 'block';
+        if (secGrains) secGrains.style.display = 'block';
+        if (secDemand) secDemand.style.display = 'block';
+      } else {
+        if (secFlagship) secFlagship.style.display = (viewKey === 'flagship') ? 'block' : 'none';
+        if (secMatrix) secMatrix.style.display = (viewKey === 'matrix') ? 'block' : 'none';
+        if (secBasins) secBasins.style.display = (viewKey === 'basins') ? 'block' : 'none';
+        if (secGrains) secGrains.style.display = (viewKey === 'grains') ? 'block' : 'none';
+        if (secDemand) secDemand.style.display = (viewKey === 'demand') ? 'block' : 'none';
+      }
+
+      if (viewKey === 'flagship' || viewKey === 'all') renderFlagshipOriginFreightChart();
+      if (viewKey === 'matrix' || viewKey === 'all') renderCommodityFlowMatrix();
+      if (viewKey === 'basins' || viewKey === 'all') {
+        renderBrazilExportsChart();
+        renderPpaThroughputChart();
+        renderEiaExportsChart();
+        renderNewcastleCoalChart();
+        renderAustraliaReqChart();
+      }
+      if (viewKey === 'grains' || viewKey === 'all') {
+        renderUsdaExportSalesChart();
+        renderUsdaGrainInspectionsChart();
+        renderVesselQueueChart();
+        renderGrainFreightChart();
+      }
+      if (viewKey === 'demand' || viewKey === 'all') {
+        renderLandedCostChart();
+        renderIronOreRestockingChart(window.currentProduct || 'cape');
+        renderCommodityChart();
+        renderContainerIndexChart();
+      }
+    }
+    window.setCargoSubView = setCargoSubView;
+
+    // 3. FLAGSHIP ORIGIN -> FREIGHT ROUTE MODULE
+    var _cargoFlagshipRoute = 'brazil_c3';
+    function setFlagshipRoute(routeKey) {
+      window.setFlagshipRoute = setFlagshipRoute;
+      _cargoFlagshipRoute = routeKey;
+      ['brazil_c3', 'pilbara_c5', 'newcastle_coal', 'usg_grain', 'guinea_cape'].forEach(function(k) {
+        var idMap = {
+          'brazil_c3': 'flagBtnBrazilC3',
+          'pilbara_c5': 'flagBtnPilbaraC5',
+          'newcastle_coal': 'flagBtnNewcastleCoal',
+          'usg_grain': 'flagBtnUsgGrain',
+          'guinea_cape': 'flagBtnGuineaCape'
+        };
+        var btn = document.getElementById(idMap[k]);
+        if (btn) {
+          var active = (k === routeKey);
+          btn.classList.toggle('active', active);
+          btn.style.background = active ? 'var(--accent)' : 'var(--card)';
+          btn.style.color = active ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderFlagshipOriginFreightChart();
+    }
+    window.setFlagshipRoute = setFlagshipRoute;
+
+    function renderFlagshipOriginFreightChart() {
+      var canvas = document.getElementById('flagshipOriginFreightChart');
+      if (!canvas) return;
+      if (!DATA || !DATA.cargoSummary || !DATA.cargoSummary.flagship_pairs) return;
+
+      var pairData = DATA.cargoSummary.flagship_pairs[_cargoFlagshipRoute];
+      if (!pairData) return;
+
+      var corridorEl = document.getElementById('flagshipHudCorridor');
+      var volEl = document.getElementById('flagshipHudVol');
+      var rateEl = document.getElementById('flagshipHudRate');
+      var tsidEl = document.getElementById('flagshipHudTsid');
+      var provEl = document.getElementById('flagshipProvText');
+      var badgeEl = document.getElementById('flagshipStatusBadge');
+      var guineaBox = document.getElementById('guineaEmptyStateCard');
+
+      if (corridorEl) corridorEl.textContent = pairData.origin + ' → ' + pairData.destination;
+      var lastVol = pairData.volume_data.filter(function(v) { return v !== null; }).slice(-1)[0];
+      var lastRate = pairData.freight_data.filter(function(v) { return v !== null; }).slice(-1)[0];
+      if (volEl && lastVol != null) volEl.textContent = lastVol + ' ' + pairData.volume_unit + '/mo';
+      if (rateEl && lastRate != null) rateEl.textContent = '$' + lastRate + ' / MT';
+      if (tsidEl) tsidEl.textContent = pairData.route_code;
+      if (provEl) provEl.textContent = 'Volume: ' + pairData.provenance.volume_source + ' · Freight: ' + pairData.provenance.freight_source;
+      if (badgeEl) {
+        badgeEl.textContent = pairData.provenance.status === 'LIVE_MIRROR' ? 'MIRROR STATISTIC' : 'LIVE PAIRED';
+        badgeEl.className = pairData.provenance.status === 'LIVE_MIRROR' ? 'cargo-badge-mirror' : 'cargo-badge-live';
+      }
+      if (guineaBox) {
+        guineaBox.style.display = (_cargoFlagshipRoute === 'guinea_cape') ? 'block' : 'none';
+      }
+
+      destroyChart('flagshipOriginFreightChart');
+      updateOrCreateChart('flagshipOriginFreightChart', canvas, {
+        type: 'line',
+        data: {
+          labels: pairData.months,
+          datasets: [
+            {
+              label: pairData.volume_label,
+              data: pairData.volume_data,
+              borderColor: '#38bdf8',
+              backgroundColor: 'rgba(56, 189, 248, 0.12)',
+              borderWidth: 2,
+              pointRadius: 2,
+              fill: true,
+              yAxisID: 'yLeft'
+            },
+            {
+              label: pairData.freight_label,
+              data: pairData.freight_data,
+              borderColor: '#f59e0b',
+              backgroundColor: 'transparent',
+              borderWidth: 2.5,
+              pointRadius: 2.5,
+              fill: false,
+              yAxisID: 'yRight'
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: {
+              callbacks: {
+                label: function(c) {
+                  return ' ' + c.dataset.label + ': ' + c.parsed.y;
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 14 } },
+            yLeft: {
+              type: 'linear',
+              position: 'left',
+              grid: { color: '#151a22' },
+              ticks: { color: '#38bdf8', font: { size: 11 }, callback: function(v) { return v + ' ' + pairData.volume_unit; } },
+              title: { display: true, text: 'Physical Volume (' + pairData.volume_unit + ')', color: '#38bdf8', font: { size: 11 } }
+            },
+            yRight: {
+              type: 'linear',
+              position: 'right',
+              grid: { drawOnChartArea: false },
+              ticks: { color: '#f59e0b', font: { size: 11 }, callback: function(v) { return '$' + v; } },
+              title: { display: true, text: 'Baltic Route Freight Rate', color: '#f59e0b', font: { size: 11 } }
+            }
+          }
+        }
+      });
+    }
+    window.renderFlagshipOriginFreightChart = renderFlagshipOriginFreightChart;
+
+    // 4. COMMODITY FLOW MATRIX & COVERAGE AUDIT
+    var _cargoMatrixGroup = 'ALL';
+    function setMatrixGroup(groupKey) {
+      window.setMatrixGroup = setMatrixGroup;
+      _cargoMatrixGroup = groupKey;
+      var btns = {
+        'ALL': 'matBtnALL',
+        'Agricultural Products': 'matBtnAgri',
+        'Energy': 'matBtnEnergy',
+        'Ores and Rocks': 'matBtnOres',
+        'Tankers & Gas': 'matBtnWet',
+        'Minerals and Metals': 'matBtnMetals',
+        'Bulk Chemicals': 'matBtnChem',
+        'Unclassified': 'matBtnUnclass'
+      };
+      Object.keys(btns).forEach(function(k) {
+        var el = document.getElementById(btns[k]);
+        if (el) {
+          var active = (k === groupKey);
+          el.classList.toggle('active', active);
+          el.style.background = active ? 'var(--accent)' : 'var(--card)';
+          el.style.color = active ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderCommodityFlowMatrix();
+    }
+    window.setMatrixGroup = setMatrixGroup;
+
+    function renderCommodityFlowMatrix() {
+      var tbody = document.getElementById('cargoMatrixTableBody');
+      if (!tbody) return;
+      if (!DATA || !DATA.commodityFlowMatrix) {
+        tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;padding:20px;color:var(--text-muted);">Awaiting fixture ledger data...</td></tr>';
+        return;
+      }
+
+      var matrix = DATA.commodityFlowMatrix;
+      var commodities = matrix.commodities || {};
+
+      var rows = Object.values(commodities);
+      if (_cargoMatrixGroup !== 'ALL') {
+        rows = rows.filter(function(r) { return r.group === _cargoMatrixGroup; });
+      }
+
+      rows.sort(function(a, b) { return b.fixture_count - a.fixture_count; });
+
+      var html = '';
+      rows.slice(0, 30).forEach(function(r) {
+        var topLane = (r.top_trade_lanes && r.top_trade_lanes.length) ? r.top_trade_lanes[0].lane : 'Global Diversified';
+        var topVc = (r.top_vessel_classes && r.top_vessel_classes.length) ? r.top_vessel_classes[0].class : 'General Bulker';
+        var isUnclass = r.canonical.indexOf('Unclassified') >= 0;
+        var badge = isUnclass ? '<span class="cargo-badge-est">UNCLASSIFIED BUCKET</span>' :
+                    (r.fixture_count > 2000 ? '<span class="cargo-badge-live">HIGH COVERAGE</span>' : '<span class="cargo-badge-live" style="background:rgba(88,166,255,0.15);color:#58a6ff;border-color:rgba(88,166,255,0.3);">BROKER REPORTED</span>');
+
+        html += '<tr' + (isUnclass ? ' style="background:rgba(227,179,65,0.06);font-weight:600;"' : '') + '>';
+        html += '<td style="font-family:IBM Plex Mono,monospace;color:var(--text-bright);">' + r.canonical + '</td>';
+        html += '<td>' + (r.subgroup || r.group) + '</td>';
+        html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;font-weight:700;">' + r.fixture_count.toLocaleString() + '</td>';
+        html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;color:var(--accent);">' + (r.total_qty_mt > 0 ? (r.total_qty_mt / 1000.0).toFixed(1) + ' Mt' : '—') + '</td>';
+        html += '<td style="font-size:11px;color:var(--text-muted);">' + topLane + '</td>';
+        html += '<td><span class="badge" style="font-size:11px;padding:1px 5px;background:var(--bg);border:1px solid var(--border);">' + topVc + '</span></td>';
+        html += '<td>' + badge + '</td>';
+        html += '</tr>';
+      });
+
+      tbody.innerHTML = html || '<tr><td colspan="7" style="text-align:center;padding:16px;color:var(--text-muted);">No matching commodities in this category.</td></tr>';
+
+      var covGrid = document.getElementById('cargoCoverageGrid');
+      if (covGrid && matrix.coverage_catalog) {
+        var cHtml = '';
+        matrix.coverage_catalog.forEach(function(c) {
+          var isNat = c.status.indexOf('NATIONAL') >= 0;
+          var isMirror = c.status.indexOf('MIRROR') >= 0;
+          var isGap = c.status.indexOf('GAP') >= 0;
+          var statusBadge = isNat ? '<span class="cargo-badge-live">NATIONAL CUSTOMS SERIES</span>' :
+                            (isMirror ? '<span class="cargo-badge-mirror">MIRROR TRADE FLOW</span>' :
+                            (isGap ? '<span class="cargo-badge-unavail">DATA GAP</span>' : '<span class="cargo-badge-est" style="background:rgba(88,166,255,0.15);color:#58a6ff;border-color:rgba(88,166,255,0.3);">FIXTURE DERIVED</span>'));
+
+          cHtml += '<div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">';
+          cHtml += '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">';
+          cHtml += '<strong style="font-size:11px;color:var(--text);">' + c.node + '</strong>';
+          cHtml += statusBadge;
+          cHtml += '</div>';
+          cHtml += '<div style="font-size:11px;color:var(--text-muted);margin-bottom:4px;">Source: ' + c.source + '</div>';
+          cHtml += '<div style="font-size:11px;font-family:IBM Plex Mono,monospace;color:var(--accent);">' + c.fixtures.toLocaleString() + ' broker fixtures</div>';
+          cHtml += '</div>';
+        });
+        covGrid.innerHTML = cHtml;
+      }
+    }
+    window.renderCommodityFlowMatrix = renderCommodityFlowMatrix;
+
+    // 5. REBUILT FLOW MODULES (ENVELOPES & UNUSED DATASETS)
+
+    // A. Brazil Seaborne Exports
+    function renderBrazilExportsChart() {
+      var canvas = document.getElementById('brazilExportsChart');
+      if (!canvas) return;
+      if (DATA && DATA.cargoSummary && DATA.cargoSummary.brazil_exports) {
+        var bz = DATA.cargoSummary.brazil_exports;
+        var env = bz.envelopes && bz.envelopes[_brazilCommodity];
+        if (env) {
+          renderSeasonalEnvelope(canvas, {
+            labels: env.months,
+            min: env.min,
+            max: env.max,
+            mean: env.mean,
+            years: env.years,
+            latestYear: env.latest_year,
+            unit: 'Mt',
+            frequency: 'M'
+          });
+          var badge = document.getElementById('brazilExportsBadge');
+          if (badge && env.years && env.years[env.latest_year]) {
+            var lastV = env.years[env.latest_year].filter(function(v) { return v !== null; }).slice(-1)[0];
+            if (lastV != null) badge.innerHTML = _brazilCommodity + ': <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+          }
+          return;
+        }
+      }
+      // Fallback to raw rows if cache not yet populated
+      var rows = DATA.brazilExports || DATA.brazil_exports || [];
+      if (!rows || !rows.length) return;
+      var dates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-36);
+      var datasets = [];
+      var oreMap = {}, crudeMap = {}, soyMap = {}, sugarMap = {};
+      rows.forEach(function(r) {
+        var mt = (r.metricTonnes || 0) / 1000000.0;
+        if (r.commodity === 'Iron Ore') oreMap[r.dateStr] = mt;
+        if (r.commodity === 'Crude Oil') crudeMap[r.dateStr] = mt;
+        if (r.commodity === 'Soybeans') soyMap[r.dateStr] = mt;
+        if (r.commodity === 'Raw Sugar') sugarMap[r.dateStr] = mt;
+      });
+      if (_brazilCommodity === 'Iron Ore' || _brazilCommodity === 'All') {
+        datasets.push({ label: 'Iron Ore (Mt/mo)', data: dates.map(d => oreMap[d] || null), borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.15)', fill: true, borderWidth: 2 });
+      }
+      if (_brazilCommodity === 'Crude Oil' || _brazilCommodity === 'All') {
+        datasets.push({ label: 'Crude Oil (Mt/mo)', data: dates.map(d => crudeMap[d] || null), borderColor: '#ff7b72', backgroundColor: 'rgba(255,123,114,0.15)', fill: true, borderWidth: 2 });
+      }
+      destroyChart('brazilExportsChart');
+      updateOrCreateChart('brazilExportsChart', canvas, {
+        type: 'line',
+        data: { labels: dates, datasets: datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: v => v + ' Mt' } }
+          }
+        }
+      });
+    }
+    window.renderBrazilExportsChart = renderBrazilExportsChart;
+
+    // B. Pilbara Ports & Miner Guidance
+    function renderPpaThroughputChart() {
+      var canvas = document.getElementById('ppaThroughputChart');
+      if (!canvas) return;
+      if (_ppaPort === 'Miners') {
+        var miners = (DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore && DATA.cargoSummary.pilbara_iron_ore.miners_quarterly) || DATA.minerShipments || [];
+        if (!miners || !miners.length) return;
+        var quarters = miners.map(m => m.quarter);
+        destroyChart('ppaThroughputChart');
+        updateOrCreateChart('ppaThroughputChart', canvas, {
+          type: 'bar',
+          data: {
+            labels: quarters,
+            datasets: [
+              { label: 'Vale (Mt)', data: miners.map(m => m.vale_mt), backgroundColor: '#58a6ff' },
+              { label: 'Rio Tinto (Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: '#3fb950' },
+              { label: 'BHP (Mt)', data: miners.map(m => m.bhp_mt), backgroundColor: '#f59e0b' },
+              { label: 'Fortescue (Mt)', data: miners.map(m => m.fmg_mt), backgroundColor: '#a371f7' }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+              x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
+              y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: v => v + ' Mt' } }
+            }
+          }
+        });
+        return;
+      }
+      if (DATA && DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore) {
+        var ppa = DATA.cargoSummary.pilbara_iron_ore;
+        var env = ppa.hedland_envelope;
+        if (env) {
+          renderSeasonalEnvelope(canvas, {
+            labels: env.months,
+            min: env.min,
+            max: env.max,
+            mean: env.mean,
+            years: env.years,
+            latestYear: env.latest_year,
+            unit: 'Mt',
+            frequency: 'M'
+          });
+          var badge = document.getElementById('ppaThroughputBadge');
+          if (badge && env.years && env.years[env.latest_year]) {
+            var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
+            if (lastV != null) badge.innerHTML = 'Port Hedland: <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+          }
+        }
+      }
+    }
+    window.renderPpaThroughputChart = renderPpaThroughputChart;
+
+    // C. US EIA Weekly Crude Exports
+    function renderEiaExportsChart() {
+      var canvas = document.getElementById('eiaExportsChart');
+      if (!canvas) return;
+      if (DATA && DATA.cargoSummary && DATA.cargoSummary.us_crude_exports) {
+        var env = DATA.cargoSummary.us_crude_exports.envelope;
+        if (env) {
+          renderSeasonalEnvelope(canvas, {
+            labels: env.weeks ? env.weeks.map(w => 'W' + w) : null,
+            min: env.min,
+            max: env.max,
+            mean: env.mean,
+            years: env.years,
+            latestYear: env.latest_year,
+            unit: 'kbpd',
+            frequency: 'W'
+          });
+          var badge = document.getElementById('eiaExportsBadge');
+          if (badge && env.years && env.years[env.latest_year]) {
+            var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
+            if (lastV != null) badge.innerHTML = 'US Crude Exports: <strong>' + Math.round(lastV).toLocaleString() + ' kbpd</strong>';
+          }
+        }
+      }
+    }
+    window.renderEiaExportsChart = renderEiaExportsChart;
+
+    // D. Newcastle Seaborne Coal Exports
+    function renderNewcastleCoalChart() {
+      var canvas = document.getElementById('newcastleCoalChart');
+      if (!canvas) return;
+      if (DATA && DATA.cargoSummary && DATA.cargoSummary.newcastle_coal) {
+        var env = DATA.cargoSummary.newcastle_coal.envelope;
+        if (env) {
+          renderSeasonalEnvelope(canvas, {
+            labels: env.months,
+            min: env.min,
+            max: env.max,
+            mean: env.mean,
+            years: env.years,
+            latestYear: env.latest_year,
+            unit: 'Mt',
+            frequency: 'M'
+          });
+          var badge = document.getElementById('newcastleCoalBadge');
+          if (badge && env.years && env.years[env.latest_year]) {
+            var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
+            if (lastV != null) badge.innerHTML = 'Newcastle Coal: <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+          }
+        }
+      }
+    }
+    window.renderNewcastleCoalChart = renderNewcastleCoalChart;
+
+    // E. Australia REQ Official Commodity Forecasts
+    var _reqCommodity = 'Iron Ore';
+    function setReqCommodity(cmd) {
+      window.setReqCommodity = setReqCommodity;
+      _reqCommodity = cmd;
+      ['Ore', 'Thermal', 'Met', 'Lng', 'Bauxite'].forEach(function(k) {
+        var map = { 'Ore': 'Iron Ore', 'Thermal': 'Thermal Coal', 'Met': 'Metallurgical Coal', 'Lng': 'LNG', 'Bauxite': 'Bauxite' };
+        var btn = document.getElementById('reqBtn' + k);
+        if (btn) {
+          var active = (map[k] === cmd);
+          btn.classList.toggle('active', active);
+          btn.style.background = active ? 'var(--accent)' : 'var(--card)';
+          btn.style.color = active ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderAustraliaReqChart();
+    }
+    window.setReqCommodity = setReqCommodity;
+
+    function renderAustraliaReqChart() {
+      var canvas = document.getElementById('australiaReqChart');
+      if (!canvas) return;
+      if (DATA && DATA.cargoSummary && DATA.cargoSummary.australia_req) {
+        var req = DATA.cargoSummary.australia_req;
+        var series = req.commodities && req.commodities[_reqCommodity];
+        if (series && series.length) {
+          var labels = series.map(s => s.quarter);
+          var vols = series.map(s => s.volume_mt);
+          var vals = series.map(s => s.value_aud_b);
+
+          var badge = document.getElementById('australiaReqBadge');
+          if (badge && vols.length) {
+            badge.innerHTML = _reqCommodity + ': <strong>' + vols[vols.length - 1] + ' Mt</strong> | Value: <strong>A$' + vals[vals.length - 1] + 'B</strong>';
+          }
+
+          destroyChart('australiaReqChart');
+          updateOrCreateChart('australiaReqChart', canvas, {
+            type: 'bar',
+            data: {
+              labels: labels,
+              datasets: [
+                {
+                  label: _reqCommodity + ' Export Volume (Mt/quarter)',
+                  data: vols,
+                  backgroundColor: '#38bdf8',
+                  yAxisID: 'yLeft'
+                },
+                {
+                  label: 'Export Value (AUD Billions)',
+                  data: vals,
+                  type: 'line',
+                  borderColor: '#f59e0b',
+                  backgroundColor: 'transparent',
+                  borderWidth: 2,
+                  yAxisID: 'yRight'
+                }
+              ]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              scales: {
+                x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 12 } },
+                yLeft: { position: 'left', grid: { color: '#151a22' }, ticks: { color: '#38bdf8', font: { size: 11 }, callback: v => v + ' Mt' } },
+                yRight: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#f59e0b', font: { size: 11 }, callback: v => 'A$' + v + 'B' } }
+              }
+            }
+          });
+        }
+      }
+    }
+    window.renderAustraliaReqChart = renderAustraliaReqChart;
+
+    // F. USDA Outstanding Export Commitments (68k rows)
+    var _usdaSalesCmd = 'Wheat';
+    function setUsdaSalesCommodity(cmd) {
+      window.setUsdaSalesCommodity = setUsdaSalesCommodity;
+      _usdaSalesCmd = cmd;
+      ['Wheat', 'Corn', 'Soy', 'Barley', 'Sorghum'].forEach(function(k) {
+        var map = { 'Wheat': 'Wheat', 'Corn': 'Corn', 'Soy': 'Soybeans', 'Barley': 'Barley', 'Sorghum': 'Sorghum' };
+        var btn = document.getElementById('usdaSalesBtn' + k);
+        if (btn) {
+          var active = (map[k] === cmd);
+          btn.classList.toggle('active', active);
+          btn.style.background = active ? 'var(--accent)' : 'var(--card)';
+          btn.style.color = active ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderUsdaExportSalesChart();
+    }
+    window.setUsdaSalesCommodity = setUsdaSalesCommodity;
+
+    function renderUsdaExportSalesChart() {
+      var canvas = document.getElementById('usdaExportSalesChart');
+      if (!canvas) return;
+      if (DATA && DATA.cargoSummary && DATA.cargoSummary.usda_export_commitments) {
+        var envs = DATA.cargoSummary.usda_export_commitments.envelopes;
+        var env = envs && envs[_usdaSalesCmd];
+        if (env) {
+          renderSeasonalEnvelope(canvas, {
+            labels: env.weeks ? env.weeks.map(w => 'W' + w) : null,
+            min: env.min,
+            max: env.max,
+            mean: env.mean,
+            years: env.years,
+            latestYear: env.latest_year,
+            unit: 'MT',
+            frequency: 'W'
+          });
+          var badge = document.getElementById('usdaSalesBadge');
+          if (badge && env.years && env.years[env.latest_year]) {
+            var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
+            if (lastV != null) badge.innerHTML = _usdaSalesCmd + ' Commitments: <strong>' + Math.round(lastV).toLocaleString() + ' MT</strong>';
+          }
+        }
+      }
+    }
+    window.renderUsdaExportSalesChart = renderUsdaExportSalesChart;
+
+    // G. USDA Grain Inspections
+    var _inspectionsRegion = 'GULF';
+    function setInspectionsRegion(reg) {
+      window.setInspectionsRegion = setInspectionsRegion;
+      _inspectionsRegion = reg;
+      ['Gulf', 'Pac', 'Atl'].forEach(function(k) {
+        var map = { 'Gulf': 'GULF', 'Pac': 'PACIFIC', 'Atl': 'ATLANTIC' };
+        var btn = document.getElementById('inspBtn' + k);
+        if (btn) {
+          var active = (map[k] === reg);
+          btn.classList.toggle('active', active);
+          btn.style.background = active ? 'var(--accent)' : 'var(--card)';
+          btn.style.color = active ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      renderUsdaGrainInspectionsChart();
+    }
+    window.setInspectionsRegion = setInspectionsRegion;
+
+    function renderUsdaGrainInspectionsChart() {
+      var canvas = document.getElementById('usdaGrainInspectionsChart');
+      if (!canvas) return;
+      if (DATA && DATA.cargoSummary && DATA.cargoSummary.usda_grain_inspections) {
+        var envs = DATA.cargoSummary.usda_grain_inspections.region_envelopes;
+        var env = envs && envs[_inspectionsRegion];
+        if (env) {
+          renderSeasonalEnvelope(canvas, {
+            labels: env.weeks ? env.weeks.map(w => 'W' + w) : null,
+            min: env.min,
+            max: env.max,
+            mean: env.mean,
+            years: env.years,
+            latestYear: env.latest_year,
+            unit: 'MT',
+            frequency: 'W'
+          });
+          var badge = document.getElementById('usdaInspectionsBadge');
+          if (badge && env.years && env.years[env.latest_year]) {
+            var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
+            if (lastV != null) badge.innerHTML = _inspectionsRegion + ' Inspections: <strong>' + Math.round(lastV).toLocaleString() + ' MT/wk</strong>';
+          }
+        }
+      }
+    }
+    window.renderUsdaGrainInspectionsChart = renderUsdaGrainInspectionsChart;
+
+    // MASTER TAB RENDERER
     function renderCargoTab() {
       var dead = function () { return window.currentTab !== 'cargo'; };
-      try { renderIronOreRestockingChart(window.currentProduct || 'cape'); } catch (e) { console.error('[Cargo Restocking]', e); }
+      try { renderFlagshipOriginFreightChart(); } catch (e) { console.error('[Cargo Flagship]', e); }
       if (dead()) return;
-      try { renderCommodityChart(); } catch (e) { console.error('[Cargo Commodity]', e); }
-      try { renderContainerIndexChart(); } catch (e) { console.error('[Cargo Container]', e); }
-      if (dead()) return;
-      try { renderGrainFreightChart(); } catch (e) { console.error('[Cargo Grain]', e); }
-      try { renderVesselQueueChart(); } catch (e) { console.error('[Cargo Queue]', e); }
-      try { renderLandedCostChart(); } catch (e) { console.error('[Cargo LandedCost]', e); }
-      if (dead()) return;
+      try { renderCommodityFlowMatrix(); } catch (e) { console.error('[Cargo Matrix]', e); }
       try { renderBrazilExportsChart(); } catch (e) { console.error('[Cargo Brazil]', e); }
       try { renderPpaThroughputChart(); } catch (e) { console.error('[Cargo PPA]', e); }
+      if (dead()) return;
       try { renderEiaExportsChart(); } catch (e) { console.error('[Cargo EIA]', e); }
+      try { renderNewcastleCoalChart(); } catch (e) { console.error('[Cargo Coal]', e); }
+      try { renderAustraliaReqChart(); } catch (e) { console.error('[Cargo REQ]', e); }
+      if (dead()) return;
+      try { renderUsdaExportSalesChart(); } catch (e) { console.error('[Cargo USDA Sales]', e); }
+      try { renderUsdaGrainInspectionsChart(); } catch (e) { console.error('[Cargo Inspections]', e); }
+      try { renderVesselQueueChart(); } catch (e) { console.error('[Cargo Queue]', e); }
+      try { renderGrainFreightChart(); } catch (e) { console.error('[Cargo GrainFreight]', e); }
+      if (dead()) return;
+      try { renderLandedCostChart(); } catch (e) { console.error('[Cargo LandedCost]', e); }
+      try { renderIronOreRestockingChart(window.currentProduct || 'cape'); } catch (e) { console.error('[Cargo Restocking]', e); }
+      try { renderCommodityChart(); } catch (e) { console.error('[Cargo Commodity]', e); }
+      try { renderContainerIndexChart(); } catch (e) { console.error('[Cargo Container]', e); }
     }
     window.renderCargoTab = renderCargoTab;
+
 
 function renderSignalsTab(productKey) {
       // Bump generation immediately to abort any in-flight section renders

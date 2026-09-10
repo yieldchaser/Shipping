@@ -1,3 +1,4 @@
 # scripts/verify/fabrication_allowlist.txt
 # One path + reason per line for genuine static reference data (e.g. port coordinates, vessel DWT bands, distance matrices).
 # Format: <path> <reason>
+data/reference/commodity_normalisation.json Canonical Signal Ocean cargo taxonomy reference mapping (F1 reference mapping)

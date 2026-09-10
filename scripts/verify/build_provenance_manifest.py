@@ -240,6 +240,16 @@ def find_producing_script(rel_path):
         "data/clarksons/gibson_tanker_rates_continuous_daily.csv": ("scripts/fearnleys/build_tanker_routes_daily.py", "Gibson Shipbrokers Continuous Daily Feed", "https://www.gibsons.co.uk", "Daily Broker Assessment", "WS / USD"),
         "data/clarksons/fearnleys_benchmark_rates_continuous.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Continuous Benchmark Engine", "https://fearnleys.com", "GraphQL Continuous Series", "USD/day / WS"),
 
+        # Cargo & Trade Flows Tab Ingestions (Prompt 07)
+        "data/cargo/cargo_frontend_summary.json": ("scripts/cargo/build_cargo_cache.py", "Cargo & Trade Flows Engine", "Multiple Primary Sources", "Deterministic Aggregator", "Composite"),
+        "data/cargo/commodity_flow_matrix.json": ("scripts/cargo/build_commodity_flow_matrix.py", "Fearnleys Broker Fixture Ledger", "https://fearnleys.com", "Fixture Matrix Generator", "Fixtures"),
+        "data/reference/commodity_normalisation.json": ("scripts/cargo/generate_normalization_map.py", "Signal Ocean Cargo Taxonomy", "https://thesignalgroup.com", "Static Reference Map", "Mapping"),
+        "data/commodities/usda_fas_outstanding_export_sales.csv": ("scripts/scrapers/fetch_usda_grains.py", "USDA Foreign Agricultural Service", "https://apps.fas.usda.gov/esrquery/", "Mandatory Export Sales", "Metric Tonnes"),
+        "data/commodities/usda_ytd_grain_inspections_top20.csv": ("scripts/scrapers/fetch_usda_grains.py", "USDA Agricultural Marketing Service", "https://www.ams.usda.gov", "Weekly Grain Inspections", "Metric Tonnes"),
+        "data/commodities/usda_grain_vessel_loading.csv": ("scripts/scrapers/fetch_usda_grains.py", "USDA Agricultural Marketing Service", "https://www.ams.usda.gov", "31-Year Queue History", "Vessels"),
+        "data/commodities/guinea_bauxite_exports.csv": ("scripts/scrapers/fetch_un_comtrade_bauxite.py", "China Customs (GACC) via UN Comtrade", "https://comtradeplus.un.org", "Mirror Trade Statistics", "Metric Tonnes / USD"),
+        "data/commodities/un_comtrade_guinea_bauxite.csv": ("scripts/scrapers/fetch_un_comtrade_bauxite.py", "China Customs (GACC) via UN Comtrade", "https://comtradeplus.un.org", "Mirror Trade Statistics", "Metric Tonnes / USD"),
+
         # Explicit UNREGISTERED files (frontend loads them, but no script in the repo produces them)
         "data/derived/chokepoint_transit_metrics.csv": None,
         "data/derived/lng_charter_rates.csv": None,
