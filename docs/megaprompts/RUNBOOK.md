@@ -42,7 +42,11 @@ Paste this each time, substituting the file:
 | 5 | `05-tracking.md` | 01, 02, 03 | **Biggest single task.** Expect several sessions. |
 | 6 | `06-bunkers.md` | 01, 02, 03 + Job C | Needs the bunker forward answer. |
 | 7 | `07-cargo-trade-flows.md` | 01, 02, 03 + Jobs A/B/D | Needs Guinea + Brazil re-sourced. |
-| 8 | `08-verification.md` | all | Run in a **fresh session** — see below. |
+| 8 | `09-remaining-data-coverage.md` | 01–07 | **Run this BEFORE 08.** Assigns the 15 orphaned datasets, produces the coverage census and gap report. |
+| 9 | `08-verification.md` | all incl. 09 | Run in a **fresh session** — see below. |
+
+Note the numbering: `09` runs **before** `08`. The verification pass has to be last, and it
+was written before the coverage gap was found.
 
 ---
 
@@ -120,6 +124,26 @@ grep -n "_quarantine" index.html
 | PDF processing / knowledge graph | **Out of scope** for this entire series |
 
 ---
+
+## Starting a fresh agent that only knows the repo
+
+If your agent has general familiarity with the repo but has not seen this work, give it
+this once, at the start:
+
+> This repo is getting a structured rebuild. The full specification is in
+> `docs/megaprompts/`. Read `00-GUARDRAILS.md` and `RUNBOOK.md` now, and confirm you
+> understand the anti-fabrication rules and the phase-stop protocol. Do not start any
+> work yet — I will hand you one prompt file at a time.
+
+Then hand it `01-foundation.md` and nothing else.
+
+**Do not tell it to read everything and run continuously.** Three reasons:
+1. Nine prompts is far more than fits usefully in one context — quality collapses partway
+   through and it starts summarising instead of doing.
+2. The phase stops are the control mechanism. An agent running unattended for nine prompts
+   is exactly the condition under which the last fabrication happened.
+3. Prompts 06 and 07 are blocked on your scraping agent. An agent running straight through
+   will invent its way past the block rather than wait.
 
 ## Final architecture
 
