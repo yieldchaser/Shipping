@@ -479,6 +479,44 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.81s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 11 — Brazil ComexStat Full History Ingest (201701 → Current)
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_brazil_comexstat_full.py` (created)
+  - `data/commodities/brazil_comexstat_exports.csv` (expanded from 124 rows to 567 rows spanning 2017-01-01 to 2026-07-01)
+  - `data/provenance/manifest.json` (updated `commodities_brazil_comexstat_exports` to 567 rows, date span 2017-01-01 to 2026-07-01)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 2, Rung 3, Rung 4):**
+  - `[Rung 1] POST https://api-comexstat.mdic.gov.br/general`: Returns HTTP 429 (`"Você excedeu o limite de solicitações"`). MDIC ComexStat API gateway enforces persistent rate-limit penalties.
+  - `[Rung 1 & 3] GET https://comexstat.mdic.gov.br`: Returns HTTP 403 (`Attention Required! | Cloudflare` challenge detected on automated requests).
+  - `[Rung 4] UN Comtrade Brazil SECEX Official Submissions (Reporter 76)`:
+    - Queried official Brazilian monthly export records (`flowCode=X`, `partnerCode=0`) across 115 continuous periods (2017-01 through 2026-07).
+    - Extracted total exports (`motCode=0`) and dedicated maritime seaborne loading volumes (`motCode=2100`) for:
+      - Iron Ore (HS 2601 / NCM 26011100): ~25–36 Mt/mo (Capesize Tubarão/Ponta da Madeira driver).
+      - Soybeans (HS 1201 / NCM 12011000+12019000): peak months >14 Mt (Panamax Santos/Paranaguá/Itaqui driver).
+      - Corn (HS 1005 / NCM 10059010): safrinha harvest seasonal peak >8–10 Mt/mo (Aug–Nov Panamax driver).
+      - Raw Sugar (HS 1701 / NCM 17011300+17011400): 1.5–3.5 Mt/mo (Supramax/Handysize driver).
+      - Crude Oil (HS 2709 / NCM 27090010): 3–10 Mt/mo (VLCC/Suezmax Santos basin offshore driver).
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_brazil_comexstat_full.py` extending historical export coverage back to 2017-01-01.
+  2. Preserved all 124 existing verified 2024–2026 ComexStat rows while seamlessly backfilling 443 observations for 2017–2023.
+  3. Integrated Corn (NCM 1005 / HS 1005) into the dataset to capture Brazil's massive safrinha grain export wave.
+  4. Expanded total row count from 124 to 567 rows (a 4.5x increase in depth).
+  5. Updated `data/provenance/manifest.json` marking `commodities_brazil_comexstat_exports` with 567 rows spanning 2017-01-01 to 2026-07-01.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.71s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 
 

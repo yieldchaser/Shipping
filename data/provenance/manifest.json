@@ -2182,6 +2182,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Monthly seaborne trade volume and value across 6 vital minor bulks: Sugar (Brazil exports HS 1701), Urea/Fertiliser (India imports HS 3102), NPK/DAP Fertiliser (Brazil imports HS 3105), Alumina (China imports HS 2818), Nickel Ore (Philippines exports HS 2604), Scrap Steel (T\u00fcrkiye imports HS 7204), and Cement/Clinker (T\u00fcrkiye exports HS 2523). Spans 2022-01-01 to 2026-07-01 with 337 monthly observations."
+    },
+    {
+      "series_id": "commodities_brazil_comexstat_exports",
+      "display_name": "Commodities \u2014 Brazil Comexstat Exports",
+      "status": "LIVE",
+      "source_name": "MDIC ComexStat API & UN Comtrade Brazil SECEX Reporter 76",
+      "source_url": "https://balanca.mdic.gov.br",
+      "fetch_method": "REST API & Comtrade Bilateral Pipeline",
+      "fetch_script": "scripts/acquire/fetch_brazil_comexstat_full.py",
+      "output_file": "data/commodities/brazil_comexstat_exports.csv",
+      "row_count": 567,
+      "date_span": [
+        "2017-01-01",
+        "2026-07-01"
+      ],
+      "last_fetched_utc": "2026-09-10T20:46:27.680344+00:00",
+      "unit": "Metric Tonnes / USD FOB",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Expanded monthly Brazilian export trade series spanning 2017-01-01 to 2026-07-01 (567 rows). Encompasses Iron Ore (NCM 2601 / Tubarao Capesize demand), Soybeans (NCM 1201 / Santos Panamax demand), Corn (NCM 1005 / safrinha Panamax demand), Raw Sugar (NCM 1701 / Supramax demand), and Crude Oil (NCM 2709 / VLCC demand)."
     }
   ]
 }
