@@ -68,7 +68,7 @@ These files are on disk and currently unrendered. Row counts verified.
 | `data/derived/fearnpulse_dry_routes_full.csv` | 20,769 | 1999-03 → 2026-09 | Dry Routes |
 | `data/derived/fearnleys_broker_comments.csv` | 11,717 | — | Broker Voice: extend the archive |
 | `data/derived/fearnleys_snp_transactions.csv` | 2,592 | multi-year | S&P & Assets: deal ledger |
-| `data/clarksons/gibson_tanker_rates_continuous_daily.csv` | 1,495 days | 2020 → 2026 | **Tanker Routes: 9 routes × ~1,003 continuous days** (TD3C, TD20, TD25, TC1, TC5, MR USG/Brazil, Handy Clean, 2× dirty products) |
+| `data/clarksons/gibson_tanker_rates_continuous_daily.csv` | **1,568** (doc says 1,495 — grows daily, measure it) | 2020 → 2026 | **Tanker Routes: 9 routes** (TD3C, TD20, TD25, TC1, TC5, MR USG/Brazil, Handy Clean, 2× dirty products) |
 | `data/clarksons/fearnleys_benchmark_rates_continuous.csv` | 1,158 dates | 2018-05 → 2026-09 | 34 benchmark curves |
 | `data/clarksons/braemar_live_rates.json` | 20 tenors | live | **Free, unauthenticated GraphQL FFA curve** — Cape/Panamax/Supramax/Handysize, Sep-2026 → Cal-2027. Add as a live forward strip. |
 | `data/clarksons/gibson_all_reports_catalog.json` | 548 reports | 2016 → 2026 | Broker Voice: catalogue |

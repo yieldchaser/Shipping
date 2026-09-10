@@ -167,6 +167,32 @@ Before finishing any phase, confirm:
 
 ---
 
+## 0.65 Every number in these prompts is a snapshot — re-verify it
+
+All row counts, date spans and file sizes quoted across prompts 01–09 were measured on
+**2026-09-10**. Harvesters run daily; several of these files grow every day. Some numbers
+quoted in `docs/AUDIT_UNRENDERED_DATA_SOURCES.md` and
+`docs/MARITIME_INTELLIGENCE_MASTER_DISCOVERY.md` were already stale when those documents
+were written.
+
+Known drift found while writing these prompts, as examples of the problem:
+- `port_lineups_active.csv` — audit doc says 740 hulls / 40 ports; actual on 2026-09-10 is
+  **1,568 rows / 36 ports**
+- `gibson_tanker_rates_continuous_daily.csv` — doc says 1,495 days; actual **1,568 rows**
+- `signal_map_ports_*.json` — doc implies four lists of 118/113/73/150; they are actually
+  **four copies of the same 2,752 rows** differing only in a per-row `zoomIndex` weight
+
+Therefore:
+1. **Treat every quoted figure as an approximate expectation, not a fact.** Measure the
+   real file at build time and record what you found in the ledger.
+2. **Never hardcode a row count, port count or vessel count into the UI.** Compute it from
+   the data at build time. A tab that says "221 Ports" in static text is wrong the moment
+   the harvester adds one.
+3. If your measurement differs materially from the prompt's figure, **that is a finding —
+   write it in the ledger.** It is not a reason to stop.
+
+---
+
 ## 0.7 Environment facts
 
 - The site is **one static file**, `index.html` (~2.8 MB), served by GitHub Pages.

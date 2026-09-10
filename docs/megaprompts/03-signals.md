@@ -34,7 +34,7 @@ Work through this table exactly. Every row is a decision already made — do not
 re-litigate, but **do** record in the ledger if a module turns out not to exist or to be
 already broken.
 
-### KEEP in SIGNALS (13 modules)
+### KEEP in SIGNALS (15 modules)
 | Module | Notes |
 |---|---|
 | SGX FFA Forward Curve | Cape/Panamax/Supramax/Handysize selector + 1W/2W/1M/3M compare. Already good — preserve behaviour |

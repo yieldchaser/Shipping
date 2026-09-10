@@ -59,7 +59,7 @@ be marked `is_derived: true` with inputs named.
 ### B. Panama Canal → **TRACKING, chokepoints**
 | File | Content |
 |---|---|
-| `data/clarksons/panama_gatun_lake_water_level_history.csv` | **22,532 daily readings, 1965-01-01 → 2026-09-08 (61.5 years)** |
+| `data/clarksons/panama_gatun_lake_water_level_history.csv` | **22,531 daily readings, 1965-01-01 → 2026-09-08 (61.5 years)** |
 | `data/clarksons/panama_gatun_water_level_projection.csv` | projected levels, freshwater surcharge %, max draft (Neopanamax 49.0ft / Panamax 39.5ft) |
 | `data/clarksons/panama_canal_operational_statistics.json` | 8 datasets: monthly transits, cargo tons, PCUMS tonnage, lock-type split, **transits by market segment** (dry bulk / tanker / LNG / LPG / container / vehicle), flag-state traffic, 152-country cargo, 316 directional commodity flows |
 

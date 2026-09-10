@@ -126,7 +126,79 @@ Correlation is for the reader to see, not for us to assert.
 
 ---
 
-## PHASE 7.5 — Provenance discipline
+## PHASE 7.5 — Commodity coverage: the fixture-derived flow matrix ★
+
+**The problem this solves.** We hold a *complete* cargo taxonomy but volume series for only
+a handful of commodities. Signal Ocean's taxonomies cover **154 dry bulk nodes** and
+**1,212 tanker nodes** — every grain (barley, corn, oats, rice, rye, sorghum, soybeans,
+wheat), every coal grade (anthracite, metallurgical, thermal), every iron ore form
+(concentrate, fines, lumps, pellets, magnetite), bauxite, alumina, all 11 fertilizers,
+every steel product, petcoke, scrap, nickel ore, spodumene, and on the wet side gasoline
+by RON grade, ULSD, jet, naphtha, condensate, fuel oil, LPG grades.
+
+But national-customs volume series exist for maybe eight of them. Acquiring 150+ national
+export series is not realistic, and most do not exist as free monthly APIs.
+
+**We already hold observed flows for all of them — in the fixture ledger.**
+`data/derived/fearnleys_fixtures_full.csv` has 540,640 broker-reported fixtures with a
+`commodity` column. These are *reported cargo movements*, not a model. Aggregating them by
+commodity, month and trade lane gives genuine coverage across the whole taxonomy.
+
+### Verified state of that column — read this before building
+
+Sampled 250,002 rows:
+```
+BLANK commodity : 151,215  (60% — this is the headline problem)
+Coal 6,801 · Grain 2,333 · CPP 2,300 · Wheat 2,110 · Iron Ore 1,502 · Bulk 1,281
+Grains 1,279 · General Cargo 1,172 · Steels 1,058 · Clinker 1,040 · "44,000 MT LPG" 1,020
+Dirty 1,017 · DPP 979 · Corn 821 · "GRAIN CLEAN" 805 · Steel 621 · Gypsum 606
+ULSD 576 · Urea 569 · Petcoke 567 · Bauxite 550 · Salt 542 · Crude Oil 531 · Cement 516
+```
+
+Three data-quality facts you must handle, and must **not** paper over:
+1. **60% of fixtures have no commodity.** Report the coverage rate on the chart itself.
+   Never imply the matrix is complete.
+2. **Values are unnormalised.** `Grain` / `Grains` / `GRAIN CLEAN`, `Steel` / `Steels`,
+   `General Cargo` / `GENERAL CARGO` / `General cargo`. Quantity is sometimes glued into
+   the field (`"44,000 MT LPG"`). Trade shorthand appears alongside commodity names
+   (`CPP` = clean petroleum products, `DPP` = dirty petroleum products, `UMS` = unleaded
+   motor spirit).
+3. **Load/discharge ports are mostly trading regions, not ports.** 1,418 distinct
+   `load_port` values, **81% blank**, and the top values are `MEG`, `USG`, `WAFR`, `BOT`,
+   `CPC`, `AG`, `ECM`, plus country names (`BRAZIL`, `NIGERIA`, `GUYANA`). **Do not
+   attempt a naive join to the 12,060-port database.** Build a region normaliser
+   (MEG → Middle East Gulf, USG → US Gulf, WAFR → West Africa, ECM → East Coast Mexico …)
+   and aggregate at **trade-lane level**, which is the resolution the data actually supports.
+
+### Build
+1. **A normalisation map**, `data/reference/commodity_normalisation.json`, from raw fixture
+   strings → Signal taxonomy nodes. Hand-authored, versioned, reviewable. This is
+   legitimate reference data (GUARDRAILS F1 permits static reference mappings) — but it maps
+   labels, it **never invents a volume**.
+2. **Commodity Flow Matrix** — fixture count and, where the rate/quantity field allows,
+   tonnage, by commodity × month × trade lane. Filterable down the taxonomy tree
+   (Energy → Coal → Metallurgical). Every cell shows its underlying fixture count so the
+   user can see thin data as thin.
+3. **Coverage panel** — for each taxonomy node: do we have (a) a national volume series,
+   (b) fixture-derived flow only, or (c) nothing. This makes the gap visible and turns
+   "what should we acquire next" into a data question instead of a guess.
+4. **Unclassified bucket rendered explicitly** — the 60% blank is shown as its own band,
+   never silently dropped. A matrix that hides 60% of its input is a lie by omission.
+
+### On acquiring more commodity sources
+The recommendation is **fixture-derived first, targeted acquisition second**. Once the
+coverage panel exists, acquisition becomes evidence-led: chase a national customs series
+only for commodities that are both high-tonnage and thin in fixtures. Do **not** open a
+generic hunt for 150 national export APIs — most do not exist free, and the ones that do
+are already listed in `docs/Newest Data/Maritime_Data_Discovery_Report.md`.
+
+**On ports: no acquisition is needed.** We hold 12,060 routing ports, 2,752 terminals and
+2,066 PortWatch ports. The constraint has never been port coverage — it is that the UI
+renders 36 of them. That is a rendering problem, solved in Prompt 05.
+
+---
+
+## PHASE 7.6 — Provenance discipline
 
 This tab is where fabrication happened. It carries the strictest display rules in the app:
 
@@ -138,7 +210,7 @@ This tab is where fabrication happened. It carries the strictest display rules i
 
 ---
 
-## PHASE 7.6 — Verify and stop
+## PHASE 7.7 — Verify and stop
 
 - Every rendered series resolves to a provenance entry with status LIVE or ESTIMATED.
 - No series traces back to `data/_quarantine/`.

@@ -171,6 +171,21 @@ remain. These files exist on disk and are currently unused:
 This phase only **registers them in the provenance manifest and builds their view
 manifests**. Prompt 05 renders them.
 
+> ⚠ **One of these files is corrupt — re-acquire it in this phase.**
+> `signal_map_ports_master.json` is **byte-identical** to `signal_map_ports_lng.json`
+> (same MD5 `595407e9b9…`, both showing only 73 ports above `zoomIndex > 0.1`). The
+> "master" fetch silently returned the LNG-filtered response and nobody noticed.
+>
+> The asset-class split is carried by the per-row **`zoomIndex`** weight, and the API
+> varies that weighting by the `x-vessel-type` request header (Tanker `1`, Dry Bulk `3`,
+> LNG `5`, LPG `6` — see `docs/MARITIME_INTELLIGENCE_MASTER_DISCOVERY.md` §1). Re-fetch
+> `GET /api/geolocations/mapPorts` **without** a vessel-type header to get the true
+> unfiltered master, and verify the result is not identical to any of the four
+> asset-class files before saving. Record the MD5 of all five files in the ledger.
+>
+> This is a good example of the failure mode this whole project exists to fix: a fetch
+> that returned the wrong thing, saved successfully, and was documented as correct.
+
 Also documented and available for refresh (see
 `docs/MARITIME_INTELLIGENCE_MASTER_DISCOVERY.md` §1):
 `POST /api/distanceTool/vessels/positions` with `{"imoList":[...]}` — 100 IMOs per call,

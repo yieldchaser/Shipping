@@ -102,7 +102,7 @@ Port Call History, do not add a second panel.
 | `signal_vessels_tankers.json` (8.4 MB) | 19,862 tankers | same |
 | `signal_vessels_lpg.json` / `_lng.json` | 2,464 + 1,371 | same |
 | `signal_live_fleet_positions_*.json` ×4 | **7,937 live positions** | the map layer |
-| `signal_map_ports_{dry_bulk,tankers,lng,lpg}.json` | 118 / 113 / 73 / 150 terminals | **asset-class port picker** |
+| `signal_map_ports_{dry_bulk,tankers,lng,lpg}.json` | see ⚠ below | **asset-class port picker** |
 | `signal_ports_by_asset_class.csv` | pre-flattened | the picker's index |
 | `signal_distance_ports.json` (2.7 MB) | 12,060 routing ports | Distance & Routing engine |
 | `signal_map_ports_master.json` | 2,752 terminals + GIS polygons | port boundaries on map |
@@ -112,17 +112,53 @@ Port Call History, do not add a second panel.
 
 ### A. Asset-class port picker
 The product owner asked for this explicitly: ports organised **by tanker / dry bulk / LNG /
-LPG**, not one undifferentiated list. Use the four `signal_map_ports_*` files. A user picks
-a segment, then a port, and lands on that port's queue.
+LPG**, not one undifferentiated list. A user picks a segment, then a port, and lands on that
+port's queue.
+
+> ⚠ **Verified correction — do not follow the discovery doc here.**
+> `docs/MARITIME_INTELLIGENCE_MASTER_DISCOVERY.md` implies four separate port lists of
+> 118 / 113 / 73 / 150 terminals. **That is not how the files are shaped.** All four
+> `signal_map_ports_*.json` files contain the **same 2,752 rows** with the same schema.
+> The asset-class split is encoded in the per-row **`zoomIndex`** weight, which differs
+> per file. Filtering `zoomIndex > 0.1` reproduces the documented counts exactly:
+> ```
+> dry_bulk  2752 rows → 118 at zoomIndex>0.1   (Newcastle, Rosario, San Lorenzo …)
+> tankers   2752 rows → 113                    (Fujairah, Jebel Ali, Ruwais …)
+> lng       2752 rows →  73                    (Gladstone, Barrow Island, Dampier …)
+> lpg       2752 rows → 150                    (Ruwais, Lobito, Antwerp …)
+> ```
+> So: **derive the split by filtering on `zoomIndex`**, and expose the threshold as a
+> "major terminals only" toggle so the user can widen to all 2,752. Do not hardcode the
+> 118/113/73/150 counts anywhere — compute them.
+>
+> ⚠ **`signal_map_ports_master.json` is corrupt.** It is byte-identical to
+> `signal_map_ports_lng.json` (same MD5, same 73 rows above threshold). The "master"
+> fetch silently returned the LNG-filtered response. Prompt 02 re-acquires it; until then
+> **do not treat that file as the unfiltered master.**
 
 ### B. Port queue (the Live View pattern)
 For the selected port: every vessel with `ETA · Name · Class · Commercial Operator ·
 Purpose · Status · DWT · days waiting`, a running total, and filters on DWT band, status,
 purpose and cargo type.
-Source: `data/geospatial/port_lineups_active.csv` (740 hulls: 434 at berth, 306 at anchor)
-enriched against the Signal vessel registries for operator and particulars.
-**Note:** `port_lineups_active.csv` has no commercial-operator column — join it from
-`signal_vessels_*.json` on IMO. If the join fails for a hull, show "—", never a guess.
+Source: `data/geospatial/port_lineups_active.csv`, enriched against the Signal vessel
+registries for operator and particulars.
+
+**Verified shape as of 2026-09-10** — the audit doc's "740 hulls / 40 ports" is stale:
+```
+1,568 rows · 36 distinct ports · 950 "Operating at berth" · 618 "Waiting at anchor"
+cols: port_locode, portname, country, asset_class, vessel_name, imo_number, dwt,
+      operational_status, arrival_timestamp, days_waiting, cargo_type, lat, lon
+```
+**This file grows with each harvest. Read its actual shape at build time; never hardcode
+row or port counts into the UI.**
+
+Two consequences:
+- **No commercial-operator column.** Join from `signal_vessels_*.json` on `imo_number`.
+  If the join fails for a hull, render "—". Never guess an operator. Record the join hit
+  rate in the ledger — if it is below 80%, say so rather than shipping a mostly-empty column.
+- **There is a `cargo_type` column.** Use it. It makes the port queue filterable by cargo,
+  which is what the Signal Ocean reference screenshot does and what the product owner asked
+  for.
 
 ### C. Vessel drill-down
 Click any vessel → particulars (DWT, built, yard, class, operator), voyage history from
