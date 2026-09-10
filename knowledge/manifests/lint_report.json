@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:49:28Z",
+  "generated_at": "2026-09-10T14:58:01Z",
   "current_date": "2026-09-10",
   "warning_count": 4,
   "high_severity_count": 0,
@@ -32,7 +32,7 @@
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-02"
+            "latest_date": "2026-09-09"
           },
           {
             "source": "breakwave",
@@ -53,7 +53,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-09"
+            "latest_date": "2026-09-10"
           }
         ],
         "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
@@ -79,23 +79,23 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.12,
+            "avg_tone_score": 0.04,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-02"
+            "latest_date": "2026-09-09"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.54,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-09"
+            "latest_date": "2026-09-10"
           },
           {
             "source": "breakwave",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
-            "doc_count": 5,
+            "doc_count": 4,
             "latest_date": "2026-09-08"
           }
         ],
@@ -122,17 +122,17 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.38,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-08"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
+            "avg_tone_score": 0.29,
             "dominant_tone": "constructive",
             "doc_count": 6,
             "latest_date": "2026-09-09"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-10"
           },
           {
             "source": "breakwave",
@@ -165,17 +165,17 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.12,
+            "avg_tone_score": 0.04,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-09-02"
+            "latest_date": "2026-09-09"
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
+            "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-09"
+            "latest_date": "2026-09-10"
           },
           {
             "source": "breakwave",

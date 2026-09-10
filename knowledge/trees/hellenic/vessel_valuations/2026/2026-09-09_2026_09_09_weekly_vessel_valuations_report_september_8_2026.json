@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, September 8 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, September 8 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, September 8 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers\nBulker S&P activity remained busy this week, with a steady flow of Capesize,Supramax and Handysize transactions changing hands amid broadly resilient sentiment. Values were broadly stable with the exception of mid age Handy BCs; values dipped in response to the China Spirit's soft pricing. Capesize Navios Pollux (180,700 DWT, 2009, STX Offshore) sold DD Due to Chinese buyers for USD 30.75 mil, VV Value USD 30.8 mil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "mil.",
+    "sold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1105,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-09-09_weekly-vessel-valuations-report-september-8-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-8-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers\nBulker S&P activity remained busy this week, with a steady flow of Capesize,Supramax and Handysize transactions changing hands amid broadly resilient sentiment. Values were broadly stable with the exception of mid age Handy BCs; values dipped in response to the China Spirit's soft pricing.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "container",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 673,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026__s02_linked_asset_2026_09_09_weekly_vessel_valuations_report_september_8_2026_09092026_8d9ea9974aeb_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-09-09_2026_09_09_weekly_vessel_valuations_report_september_8_2026__root",
+      "title": "Linked asset: 2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg",
+      "section_path": [
+        "Linked asset: 2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg\n\nLinked image asset: 2026-09-09_weekly-vessel-valuations-report-september-8-2026_09092026_8d9ea9974aeb.jpg\n\nImage metadata: JPEG 600x268 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n(D) VesselsValue, ---22--AAAAAAA\n08 Septemoer 2076 ‘VV Mini Matrix ~ Weekly Change\nTaakers Bathers Comtaianes\nwe wee Sere sm us vm oe ro Sows None Patan tee coy fen\n- Shad +1 a 0 10% ms -_ + -m - 1 a\noe - 7 ™ CI - mn -\" a Dial a os ow\na8 ous 10% ae sears rcs oun on \"lan as us \"aN us\n2 eT - a = a ~~ on - ~~ ane as ne\nnu nam mn oa 00s na oa os am var as 13% a8\n: os a ™ - ~ - ss ~~ \" ore rd\noe ses ors oa su orn san om we vm as 1a an\n¥ ve - - ™ cd - co - a - a rd =\nan om oa wos 00% aan oan. oo a8 oa 0% nan us\ni ve - \" = \" ~~ m i\" ~ - an ms uw\nous ona nan oa 00% nas san nu a8 ra oa on as\n* - oy \" = \" wm ™ = cd - ~~ ms uo",
+      "keywords": [
+        "asset",
+        "image",
+        "nan",
+        "ous",
+        "san",
+        "aaaaaaa",
+        "aan",
+        "ane"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 389,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
