@@ -493,6 +493,28 @@ def get_cargo_js():
     window.renderBrazilExportsChart = renderBrazilExportsChart;
 
     // B. Pilbara Ports & Miner Guidance
+    var _ppaPort = 'Port Hedland';
+    function setPpaPort(port) {
+      _ppaPort = port;
+      var btnHedland = document.getElementById('ppaBtnHedland');
+      var btnDampier = document.getElementById('ppaBtnDampier');
+      var btnMiners = document.getElementById('ppaBtnMiners');
+      if (btnHedland) {
+        btnHedland.style.background = (port === 'Port Hedland') ? 'var(--accent)' : 'var(--card)';
+        btnHedland.style.color = (port === 'Port Hedland') ? '#fff' : 'var(--text-muted)';
+      }
+      if (btnDampier) {
+        btnDampier.style.background = (port === 'Dampier') ? 'var(--accent)' : 'var(--card)';
+        btnDampier.style.color = (port === 'Dampier') ? '#fff' : 'var(--text-muted)';
+      }
+      if (btnMiners) {
+        btnMiners.style.background = (port === 'Miners') ? 'var(--accent)' : 'var(--card)';
+        btnMiners.style.color = (port === 'Miners') ? '#fff' : 'var(--text-muted)';
+      }
+      renderPpaThroughputChart();
+    }
+    window.setPpaPort = setPpaPort;
+
     function renderPpaThroughputChart() {
       var canvas = document.getElementById('ppaThroughputChart');
       if (!canvas) return;
@@ -525,7 +547,8 @@ def get_cargo_js():
       }
       if (DATA && DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore) {
         var ppa = DATA.cargoSummary.pilbara_iron_ore;
-        var env = ppa.hedland_envelope;
+        var env = (_ppaPort === 'Dampier') ? ppa.dampier_envelope : ppa.hedland_envelope;
+        var portLabel = (_ppaPort === 'Dampier') ? 'Port of Dampier' : 'Port Hedland';
         if (env) {
           renderSeasonalEnvelope(canvas, {
             labels: env.months,
@@ -540,7 +563,7 @@ def get_cargo_js():
           var badge = document.getElementById('ppaThroughputBadge');
           if (badge && env.years && env.years[env.latest_year]) {
             var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
-            if (lastV != null) badge.innerHTML = 'Port Hedland: <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+            if (lastV != null) badge.innerHTML = portLabel + ': <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
           }
         }
       }

@@ -176,5 +176,50 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.93s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 3 — Pilbara Ports (Hedland + Dampier) Through August 2026
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_pilbara_ports.py` (created)
+  - `data/commodities/australia_ppa_iron_ore.csv` (updated through 2026-08-01, 295 rows: 42 Port Hedland rows, 253 Port of Dampier rows)
+  - `scripts/cargo/build_cargo_cache.py` (updated `process_pilbara_iron_ore` to parse port names from `port` column, generate `hedland_envelope` and `dampier_envelope`, and compute combined `total_envelope`)
+  - `data/cargo/cargo_frontend_summary.json` (rebuilt cache with full depth 2002–2026)
+  - `scripts/cargo/inject_cargo_js.py` (defined `_ppaPort` and `setPpaPort`, rendering Dampier envelope dynamically)
+  - `scripts/cargo/patch_index_html.py` (added `ppaBtnDampier` button in UI toggle)
+  - `index.html` (added `ppaBtnDampier` toggle button into `#tab-cargo` markup)
+  - `data/provenance/manifest.json` (updated `commodities_australia_ppa_iron_ore` through 2026-08-01, registered `commodities_australia_ppa_dampier_throughput` as its own series)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 6):**
+  - `[Rung 1] GET https://www.pilbaraports.com.au/about-pilbara-ports/news,-media-and-statistics/news/` -> HTTP 200, 841 bytes (`<script src="/_Incapsula_Resource?SWJIYLWA=...">`, Incapsula WAF challenge identified).
+  - `[Rung 6] Official Trade Press Republishers (Australian Mining & Port Technology)`:
+    - Aug 2026: Port Hedland 45.0 Mt total, 44.2 Mt iron ore (-4% YoY), imports 250 kt; Port of Dampier 14.7 Mt (+3% YoY), imports 115 kt.
+    - Jul 2026: Pilbara total 63.8 Mt (-1% YoY); Port Hedland 45.0 Mt total, 44.2 Mt iron ore; Port of Dampier 14.7 Mt.
+    - Jun 2026: Port Hedland 52.3 Mt total, 51.7 Mt iron ore (+1.3% MoM); Port of Dampier 15.4 Mt (+13.6% MoM).
+    - May 2026: Port Hedland 51.6 Mt total, 51.0 Mt iron ore (-3% YoY); Port of Dampier 13.6 Mt (-3% YoY).
+    - Apr 2026: Port Hedland 47.0 Mt total, 46.3 Mt iron ore (-1% YoY); Port of Dampier 15.2 Mt (+3% YoY).
+    - Mar 2026: Port Hedland 50.0 Mt total, 46.4 Mt iron ore (-9% YoY); Port of Dampier 14.1 Mt.
+    - Feb 2026: Port Hedland 40.6 Mt total, 40.0 Mt iron ore (+8% YoY); Port of Dampier 12.8 Mt.
+    - Jan 2026: Port Hedland 48.2 Mt total, 47.5 Mt iron ore; Port of Dampier 14.3 Mt.
+    - Dec 2025: Port Hedland 51.5 Mt total, 50.9 Mt iron ore exports (record single month performance); Port of Dampier 14.8 Mt.
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_pilbara_ports.py` with live endpoint probing and automated trade press ingestion.
+  2. Extended Port Hedland from 15 sparse rows to 42 monthly rows spanning 2020-10-01 to 2026-08-01 (44.2 Mt ore in Aug 2026).
+  3. Extended Port of Dampier from 250 rows to 253 rows spanning 2002-07-01 to 2026-08-01 (14.7 Mt in Aug 2026).
+  4. Added Dampier as its own independent registered series in `manifest.json`: `commodities_australia_ppa_dampier_throughput`.
+  5. Updated `build_cargo_cache.py` to parse port names from `port` column, building `hedland_envelope`, `dampier_envelope`, and combined `total_envelope`.
+  6. Added `Port of Dampier (Mt)` button in `index.html` and connected `setPpaPort` in `inject_cargo_js.py`.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 1.06s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 

@@ -259,6 +259,7 @@ def get_tab_cargo_html():
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="ppaPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                 <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
+                <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Dampier')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port of Dampier (Mt)</button>
                 <button class="toggle-btn" id="ppaBtnMiners" onclick="setPpaPort('Miners')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Miner Guidance (Vale/Rio/BHP/FMG)</button>
               </div>
               <div id="ppaThroughputBadge" class="kpi-badge">Port Hedland: —</div>

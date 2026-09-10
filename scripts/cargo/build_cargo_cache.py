@@ -246,9 +246,10 @@ def process_brazil_exports():
 
 
 def process_pilbara_iron_ore():
-    """Process Australia Pilbara Ports (Port Hedland) throughput."""
+    """Process Australia Pilbara Ports (Port Hedland and Dampier) throughput."""
     fpath = COMMODITIES_DIR / "australia_ppa_iron_ore.csv"
     hedland_monthly = {}
+    dampier_monthly = {}
     total_monthly = {}
 
     with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
@@ -256,14 +257,24 @@ def process_pilbara_iron_ore():
         for row in reader:
             d = (row.get("date") or "").strip()
             ym = d[:7]
-            h_val = row.get("port_hedland_throughput_mt")
-            t_val = row.get("total_iron_ore_throughput_mt")
+            port = (row.get("port") or "").lower()
+            h_val = row.get("port_hedland_throughput_mt") or (row.get("iron_ore_exports_mt") or row.get("total_throughput_mt") if "hedland" in port else None)
+            d_val = row.get("port_dampier_throughput_mt") or (row.get("total_throughput_mt") or row.get("iron_ore_exports_mt") if "dampier" in port else None)
+
             if h_val:
                 try: hedland_monthly[ym] = float(h_val)
                 except ValueError: pass
-            if t_val:
-                try: total_monthly[ym] = float(t_val)
+            if d_val:
+                try: dampier_monthly[ym] = float(d_val)
                 except ValueError: pass
+
+    # Compute combined Pilbara iron ore total where available
+    all_months = set(hedland_monthly.keys()).union(dampier_monthly.keys())
+    for ym in all_months:
+        h = hedland_monthly.get(ym, 0.0)
+        d = dampier_monthly.get(ym, 0.0)
+        if h > 0 or d > 0:
+            total_monthly[ym] = round(h + d, 2)
 
     # Load miners quarterly guidance
     miners_file = COMMODITIES_DIR / "major_miners_quarterly_shipments.csv"
@@ -286,21 +297,23 @@ def process_pilbara_iron_ore():
                     except ValueError:
                         pass
 
-    latest_date = max(hedland_monthly.keys()) if hedland_monthly else datetime.utcnow().strftime("%Y-%m-%d")
+    latest_date = max(hedland_monthly.keys()) if hedland_monthly else datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     return {
         "provenance": {
             "source": "Pilbara Ports Authority (pilbaraports.com.au)",
             "method": "Direct Harbor Master Cargo Statistics",
-            "span": "2024–2026",
+            "span": f"2002–{latest_date[:4]}",
             "as_of": latest_date,
             "status": "LIVE",
             "unit": "Million Tonnes (Mt/mo)"
         },
         "hedland_envelope": compute_seasonal_envelope_monthly(hedland_monthly),
+        "dampier_envelope": compute_seasonal_envelope_monthly(dampier_monthly),
         "total_envelope": compute_seasonal_envelope_monthly(total_monthly),
         "miners_quarterly": miners_quarterly,
-        "monthly_raw": hedland_monthly
+        "monthly_raw": hedland_monthly,
+        "dampier_monthly_raw": dampier_monthly
     }
 
 

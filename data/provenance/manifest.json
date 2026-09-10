@@ -131,23 +131,23 @@
     },
     {
       "series_id": "commodities_australia_ppa_iron_ore",
-      "display_name": "Commodities \u2014 Australia Ppa Iron Ore",
+      "display_name": "Commodities \u2014 Australia Pilbara Ports (Port Hedland)",
       "status": "LIVE",
-      "source_name": "Pilbara Ports Authority Wayback PDF",
-      "source_url": "https://www.pilbaraports.com.au",
-      "fetch_method": "Wayback PDF Parse",
-      "fetch_script": "scripts/scrapers/fetch_ppa_iron_ore.py",
+      "source_name": "Pilbara Ports Authority (PPA) / Australian Mining",
+      "source_url": "https://www.pilbaraports.com.au/about-pilbara-ports/news,-media-and-statistics/news/",
+      "fetch_method": "PPA Shipping Figures & Trade Press Harvester",
+      "fetch_script": "scripts/acquire/fetch_pilbara_ports.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 265,
+      "row_count": 42,
       "date_span": [
-        "2002-07-01",
-        "2026-05-01"
+        "2020-10-01",
+        "2026-08-01"
       ],
-      "last_fetched_utc": "2026-09-07T12:25:03Z",
-      "unit": "Throughput MT",
+      "last_fetched_utc": "2026-09-10T18:50:51.565094+00:00",
+      "unit": "Million Tonnes (Mt/mo)",
       "is_derived": false,
       "derivation": null,
-      "notes": "Sourced via scripts/scrapers/fetch_ppa_iron_ore.py."
+      "notes": "Port Hedland monthly total throughput and iron ore exports through August 2026 (44.2 Mt iron ore exports)."
     },
     {
       "series_id": "commodities_australia_req_commodity_exports",
@@ -2020,6 +2020,26 @@
       "is_derived": true,
       "derivation": "Processed from Signal Ocean live AIS fleet feeds",
       "notes": "Live fleet geospatial tracking positions for bulker and tanker fleets."
+    },
+    {
+      "series_id": "commodities_australia_ppa_dampier_throughput",
+      "display_name": "Commodities \u2014 Australia Pilbara Ports (Port of Dampier)",
+      "status": "LIVE",
+      "source_name": "Pilbara Ports Authority (PPA) / Australian Mining",
+      "source_url": "https://www.pilbaraports.com.au/about-pilbara-ports/news,-media-and-statistics/news/",
+      "fetch_method": "PPA Shipping Figures & Trade Press Harvester",
+      "fetch_script": "scripts/acquire/fetch_pilbara_ports.py",
+      "output_file": "data/commodities/australia_ppa_iron_ore.csv",
+      "row_count": 253,
+      "date_span": [
+        "2002-07-01",
+        "2026-08-01"
+      ],
+      "last_fetched_utc": "2026-09-10T18:50:51.565094+00:00",
+      "unit": "Million Tonnes (Mt/mo)",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Port of Dampier monthly throughput through August 2026 (14.7 Mt total throughput, +3% YoY)."
     }
   ]
 }
