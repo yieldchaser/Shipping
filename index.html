@@ -16279,7 +16279,8 @@ if (intelTabsContainer) {
           .then(res => res.ok ? res.json() : null)
           .then(data => { DATA.fearnleysSeries = data; })
           .catch(err => { console.warn('[fearnleysSeries fetch error]', err); DATA.fearnleysSeries = null; }),
-        loadFearnDailyCaches()
+        loadFearnDailyCaches(),
+        loadSignalsData()
       ]);
       return fearnleysLoadPromise;
     }
@@ -43288,7 +43289,7 @@ function renderFearnSection(id) {
   if (id === 3) return done(function () { renderFearnTank(); try { renderTankerForwardChart(); } catch(e){} })();
   if (id === 4) { fearnLoadDeskCaches(done(function () { renderFearnDryGrid(); renderFearnNb(); try { renderBasinSpreadChart(window.currentProduct || 'cape'); } catch(e){} })); return; }
   if (id === 12) { fearnLoadDeskCaches(done(renderFearnNb)); return; }
-  if (id === 5) { fearnLoadDeskCaches(done(function () { renderFearnAc(); try { renderVesselValuationsChart(window.currentProduct || 'cape'); } catch(e){} try { renderMarketCycleQuadrantChart(window.currentProduct || 'cape'); } catch(e){} })); return; }
+  if (id === 5) { fearnLoadDeskCaches(done(function () { renderFearnAc(); try { renderVesselValuationsChart(window.currentProduct || 'cape'); } catch(e){} try { renderMarketCycleQuadrantChart(window.currentProduct || 'cape'); } catch(e){} try { renderFearnleysSnpTable(); } catch(e){} })); return; }
   if (id === 6) { fearnLoadDeskCaches(done(function () { renderFearnGas('LNG'); renderFearnGasFamily('LNG'); })); return; }
   if (id === 7) { fearnLoadDeskCaches(done(function () { renderFearnGas('LPG'); renderFearnGasFamily('LPG'); })); return; }
   if (id === 8) { fearnLoadJson('data/derived/fearnleys_fixtures_tape.json', 'fearnFixturesTape', function () { fearnLoadJson('data/derived/fearnleys_fixtures_facets.json', 'fearnFixturesFacets', done(renderFearnFx)); }); return; }
