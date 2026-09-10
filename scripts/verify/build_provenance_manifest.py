@@ -234,6 +234,11 @@ def find_producing_script(rel_path):
         "data/derived/usda_bunker_fuel_daily.csv": ("scripts/scrapers/fetch_usda_grains.py", "USDA Agricultural Marketing Service", "https://www.ams.usda.gov", "Report Parsing", "USD/MT"),
         "data/derived/usda_grain_vessel_rates_japan.csv": ("scripts/scrapers/fetch_usda_grains.py", "USDA Agricultural Marketing Service", "https://www.ams.usda.gov", "Report Parsing", "USD/MT"),
         "data/derived/offshore_summary.json": ("scripts/offshore/build_offshore_cache.py", "Seabreeze / Fearnleys Offshore", "https://fearnleys.com", "Offshore Aggregation", "Dayrates"),
+        # Broker Desk Phase 4.2 Ingestions
+        "data/clarksons/braemar_live_rates.json": ("scripts/clarksons/fetch_braemar_rates.py", "Braemar ACM Shipbroking GraphQL", "https://braemar.com", "GraphQL API", "USD/day"),
+        "data/clarksons/gibson_all_reports_catalog.json": ("scripts/clarksons/scrape_gibson_catalog.py", "Gibson Shipbrokers Research", "https://www.gibsons.co.uk", "Research Catalogue API", "Metadata"),
+        "data/clarksons/gibson_tanker_rates_continuous_daily.csv": ("scripts/fearnleys/build_tanker_routes_daily.py", "Gibson Shipbrokers Continuous Daily Feed", "https://www.gibsons.co.uk", "Daily Broker Assessment", "WS / USD"),
+        "data/clarksons/fearnleys_benchmark_rates_continuous.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Continuous Benchmark Engine", "https://fearnleys.com", "GraphQL Continuous Series", "USD/day / WS"),
 
         # Explicit UNREGISTERED files (frontend loads them, but no script in the repo produces them)
         "data/derived/chokepoint_transit_metrics.csv": None,
@@ -313,7 +318,18 @@ def build_manifest():
                 notes = "Calculated diagnostic series or company guidance estimate."
             else:
                 status = "LIVE"
-                notes = f"Sourced via {fetch_script}."
+                if "fixtures" in rel_path:
+                    notes = f"Sourced via {fetch_script}. Verified actual date span: 1974-12-18 to 2026-12-18 (540,640 rows in master CSV). Initial CSV row was 2019-03-21 due to unsorted chronological append, which earlier audits mistook for start date."
+                elif "gibson_all_reports_catalog" in rel_path:
+                    notes = f"Sourced via {fetch_script}. 548 broker research reports (153 online + 395 downloads) spanning 2016 to 2026."
+                elif "braemar_live_rates" in rel_path:
+                    notes = f"Sourced via {fetch_script}. 20 live forward tenors across Capesize, Panamax, Supramax, and Handysize."
+                elif "gibson_tanker_rates" in rel_path:
+                    notes = f"Sourced via {fetch_script}. 9 continuous daily tanker benchmark routes (1,568 daily observations 2022-2026)."
+                elif "fearnleys_benchmark_rates" in rel_path:
+                    notes = f"Sourced via {fetch_script}. 34 continuous daily/weekly benchmark curves across 1,158 dates (2018-05 to 2026-09)."
+                else:
+                    notes = f"Sourced via {fetch_script}."
 
         entry = {
             "series_id": series_id,

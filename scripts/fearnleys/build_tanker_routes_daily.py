@@ -81,7 +81,7 @@ KLASS_BY_SUBTYPE = {
     "WEEKLY VLCC": "WEEKLY VLCC",
 }
 KLASS_ORDER = ["VLCC", "Suezmax", "Aframax", "Dirty", "1 Year T/C",
-               "Fuel Oil", "WEEKLY VLCC", "Counters"]
+               "Fuel Oil", "WEEKLY VLCC", "Gibson (9 Routes)", "Counters"]
 UNIT_RANK = {"ws": 0, "tce": 1, "usd": 2}
 UNIT_LABEL = {"ws": "WS", "tce": "TCE", "usd": "USD"}
 
@@ -377,6 +377,46 @@ def build_payload(src=SRC, monthly_path=MONTHLY):
                 "n": len(pts),
             }
             order_key[code] = (KLASS_ORDER.index("Counters"), "MEG Fixture Count", 9)
+
+    # Wire Gibson Tanker Rates (9 benchmark continuous daily routes)
+    gibson_csv = os.path.join(BASE_DIR, "data", "clarksons", "gibson_tanker_rates_continuous_daily.csv")
+    if os.path.exists(gibson_csv):
+        gibson_routes_meta = [
+            ("Mid East/China 270kt", "GIBSON_TD3C", "VLCC TD3C", "MEG / China 270kt", "WS"),
+            ("WA/UKC 130kt", "GIBSON_TD20", "Suezmax TD20", "West Africa / UKC 130kt", "WS"),
+            ("USG/UKC 70kt", "GIBSON_TD25", "Aframax TD25", "US Gulf / UKC 70kt", "WS"),
+            ("Mid East/Japan 75kt", "GIBSON_TC1", "LR2 Clean TC1", "MEG / Japan 75kt", "WS"),
+            ("Mid East/Japan 55kt", "GIBSON_TC5", "LR1 Clean TC5", "MEG / Japan 55kt", "WS"),
+            ("USG/Brazil 38kt", "GIBSON_MR_USG_BRAZIL", "MR Clean USG/Brazil", "US Gulf / Brazil 38kt", "WS"),
+            ("Spore/Australia 35kt", "GIBSON_HANDY_SPORE_AUS", "Handy Clean Spore/Aus", "Singapore / Australia 35kt", "WS"),
+            ("Med/Med 30kt", "GIBSON_DIRTY_CROSS_MED", "Dirty Cross-Med 30kt", "Cross Med 30kt", "WS"),
+            ("UKC/UKC 30kt", "GIBSON_DIRTY_NORTH_SEA", "Dirty North Sea 30kt", "UK Cont 30kt", "WS"),
+        ]
+        import pandas as _pd
+        gdf = _pd.read_csv(gibson_csv)
+        gdf = gdf[gdf["Date"].str.match(r"^\d{4}-\d{2}-\d{2}$", na=False)].sort_values("Date")
+        for gcol, gcode, glabel, groute, gunit in gibson_routes_meta:
+            if gcol in gdf.columns:
+                gsub = gdf[["Date", gcol]].dropna(subset=[gcol])
+                gpts = []
+                for _, grow in gsub.iterrows():
+                    gd_str = grow["Date"]
+                    gval = round(float(grow[gcol]), 2)
+                    gdt = datetime.strptime(gd_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+                    gpts.append([int(gdt.timestamp() * 1000), gval])
+                if gpts:
+                    series[gcode] = {
+                        "label": f"{glabel} ({groute})",
+                        "klass": "Gibson (9 Routes)",
+                        "route": groute,
+                        "unit": gunit,
+                        "cadence": "daily",
+                        "pts": gpts,
+                        "first": gsub["Date"].min(),
+                        "last": gsub["Date"].max(),
+                        "n": len(gpts),
+                    }
+                    order_key[gcode] = (KLASS_ORDER.index("Gibson (9 Routes)"), groute, 0, gcode)
 
     ordered = {}
     for code in sorted(series, key=lambda c: order_key[c]):

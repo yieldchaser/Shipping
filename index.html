@@ -12636,6 +12636,18 @@
     <div class="tab-panel" id="tab-fearnleys" aria-label="Broker Desk">
       <div id="fearnSubNav" style="display:flex;gap:4px;flex-wrap:wrap;margin-bottom:14px;padding:6px 0;border-bottom:1px solid var(--border);"></div>
 
+      <!-- BRAEMAR LIVE FFA FORWARD STRIP (Wave 4) -->
+      <div id="fearnBraemarStrip" style="margin-bottom:16px;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:6px;">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
+          <div style="display:flex;align-items:center;gap:8px;">
+            <span style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">BRAEMAR LIVE FORWARD FFA STRIP</span>
+            <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Live GraphQL Feed</span>
+          </div>
+          <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">Unauthenticated broker forward curve · Cape / Panamax / Supramax / Handysize tenors</div>
+        </div>
+        <div id="braemarTickerGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
+      </div>
+
       <!-- S1 OVERVIEW -->
       <div class="fearn-sec" id="fearnSec1" style="display:none;">
         <div class="chart-container mb-20">
@@ -16144,7 +16156,7 @@ if (intelTabsContainer) {
             return { quarter: (row.quarter || '').trim(), commodity: (row.commodity || '').trim(), export_volume: parseVal(row.export_volume), unit: (row.unit || '').trim() };
           }).filter(x => x.quarter);
         }),
-        loadPortCongestionHistory(),
+        (typeof loadPortCongestionHistory === 'function' ? loadPortCongestionHistory() : Promise.resolve()),
         ...sgxPromises
       ]);
       return signalsLoadPromise;
@@ -16230,7 +16242,7 @@ if (intelTabsContainer) {
     function loadFearnDailyCaches() {
       if (DATA.fearnleysTankerRoutesDaily && DATA.fearnleysDryRoutesDaily) return Promise.resolve();
       if (fearnDailyLoadPromise) return fearnDailyLoadPromise;
-      var left = 2;
+      var left = 1;
       var fin = function () {
         if (--left <= 0) {
           try {
@@ -16280,8 +16292,26 @@ if (intelTabsContainer) {
           .then(data => { DATA.fearnleysSeries = data; })
           .catch(err => { console.warn('[fearnleysSeries fetch error]', err); DATA.fearnleysSeries = null; }),
         loadFearnDailyCaches(),
-        loadSignalsData()
-      ]);
+        loadSignalsData(),
+        fetch('data/clarksons/braemar_live_rates.json', { cache: 'no-cache' })
+          .then(res => res.ok ? res.json() : null)
+          .then(data => { DATA.braemarLiveRates = data; if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip(); })
+          .catch(err => { console.warn('[braemarLiveRates fetch error]', err); DATA.braemarLiveRates = null; }),
+        fetch('data/clarksons/gibson_all_reports_catalog.json', { cache: 'no-cache' })
+          .then(res => res.ok ? res.json() : null)
+          .then(data => { DATA.gibsonReportsCatalog = data; if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters(); })
+          .catch(err => { console.warn('[gibsonReportsCatalog fetch error]', err); DATA.gibsonReportsCatalog = null; }),
+        fetch('data/clarksons/fearnleys_benchmark_rates_continuous.csv', { cache: 'no-cache' })
+          .then(res => res.ok ? res.text() : null)
+          .then(text => { DATA.fearnBenchmarkRatesContinuousCsv = text; })
+          .catch(err => { console.warn('[fearnBenchmarkRatesContinuous fetch error]', err); DATA.fearnBenchmarkRatesContinuousCsv = null; })
+      ]).then(() => {
+        try {
+          if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip();
+          if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters();
+          if (typeof renderFearnVoice === 'function' && typeof FDESK !== 'undefined' && FDESK.sec === 10) renderFearnVoice();
+        } catch (e) { console.warn('[fearnleys post-load refresh]', e); }
+      });
       return fearnleysLoadPromise;
     }
 
@@ -45085,6 +45115,67 @@ function fearnSeriesCache() {
   return (c && c.labels) ? c : null;
 }
 
+function renderBraemarForwardStrip() {
+  var grid = document.getElementById('braemarTickerGrid');
+  if (!grid) return;
+  var bData = window.DATA && DATA.braemarLiveRates;
+  var tickers = bData && bData.data && bData.data.brokerSite && bData.data.brokerSite.ticker;
+  if (!tickers || !tickers.length) {
+    grid.innerHTML = '<div style="font-size:11px;color:var(--text-muted);padding:8px 0;">Braemar live forward rates feed pending or loading...</div>';
+    return;
+  }
+  var classMeta = {
+    'Cape': { label: 'CAPESIZE', sub: 'Baltic C5TC Tenors', color: '#58a6ff' },
+    'Pmax': { label: 'PANAMAX', sub: 'Baltic P4TC/P5TC Tenors', color: '#3fb950' },
+    'Smax': { label: 'SUPRAMAX', sub: 'Baltic S10TC Tenors', color: '#d29922' },
+    'Handy': { label: 'HANDYSIZE', sub: 'Baltic H7TC Tenors', color: '#bc8cff' }
+  };
+  var html = tickers.map(function (t) {
+    var meta = classMeta[t.name] || { label: (t.name || '').toUpperCase(), sub: 'FFA Tenors', color: '#58a6ff' };
+    var prods = t.products || [];
+    var firstP = prods.length ? parseFloat(prods[0].price) : 0;
+    var lastP = prods.length > 1 ? parseFloat(prods[prods.length - 1].price) : firstP;
+    var curveSpread = lastP - firstP;
+    var curveBadge = '';
+    if (prods.length > 1) {
+      if (curveSpread < -500) {
+        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(248,81,73,0.15);color:#f85149;border:1px solid rgba(248,81,73,0.3);">Backwardated (-$' + Math.abs(Math.round(curveSpread)).toLocaleString('en-US') + ')</span>';
+      } else if (curveSpread > 500) {
+        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Contango (+$' + Math.round(curveSpread).toLocaleString('en-US') + ')</span>';
+      } else {
+        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(200,200,200,0.1);color:var(--text-muted);border:1px solid var(--border);">Flat</span>';
+      }
+    }
+    var prodPills = prods.map(function (p) {
+      var pr = parseFloat(p.price) || 0;
+      var pc = parseFloat(p.prevClose) || pr;
+      var diff = pr - pc;
+      var diffStr = Math.abs(diff) > 0.01
+        ? (diff > 0 ? '+$' + Math.round(diff).toLocaleString('en-US') : '-$' + Math.abs(Math.round(diff)).toLocaleString('en-US'))
+        : 'Settled';
+      var diffColor = diff > 0.01 ? '#3fb950' : (diff < -0.01 ? '#f85149' : 'var(--text-muted)');
+      var tt = 'What: Braemar FFA Forward Quote \u00b7 ' + meta.label + ' ' + (p.name || '') + ' | When: Prompt forward curve | Source: Braemar ACM Shipbroking GraphQL feed';
+      return '<div style="flex:1;min-width:68px;padding:6px 8px;background:var(--card-subtle);border:1px solid var(--border);border-radius:4px;text-align:center;" data-tooltip="' + escapeHtml(tt) + '">' +
+        '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(p.name || '') + '</div>' +
+        '<div style="font-size:12px;font-weight:700;font-family:\'IBM Plex Mono\',monospace;color:var(--text-bright);margin-bottom:2px;">$' + Math.round(pr).toLocaleString('en-US') + '</div>' +
+        '<div style="font-size:11px;color:' + diffColor + ';font-family:\'IBM Plex Mono\',monospace;">' + diffStr + '</div>' +
+        '</div>';
+    }).join('');
+
+    return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;display:flex;flex-direction:column;gap:8px;">' +
+      '<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">' +
+      '<div>' +
+      '<span style="font-weight:700;font-size:12px;color:' + meta.color + ';font-family:\'IBM Plex Mono\',monospace;">' + meta.label + '</span> ' +
+      '<span style="font-size:11px;color:var(--text-muted);">' + meta.sub + '</span>' +
+      '</div>' +
+      curveBadge +
+      '</div>' +
+      '<div style="display:flex;gap:6px;flex-wrap:wrap;">' + prodPills + '</div>' +
+      '</div>';
+  }).join('');
+  grid.innerHTML = html;
+}
+
 function renderFearnleysTab() {
   if (!DATA.loaded) return;
   // PHASE SPEED: S3/S4 daily route caches (3.8 MB + 0.4 MB) load lazily on the
@@ -45092,6 +45183,7 @@ function renderFearnleysTab() {
   // fetch completes, then this same renderer re-runs on data arrival.
   if (typeof loadFearnDailyCaches === 'function') loadFearnDailyCaches();
   initFearnSubNav();
+  if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip();
   switchFearnSection(FDESK.sec);
 }
 function fearnMarkDirty(id) {
@@ -45221,10 +45313,27 @@ function renderFearnMainChart(cache) {
 
 function fearnVoiceComments() {
   var s = window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.broker_sentiment;
-  return (s && s.recent_comments) ? s.recent_comments : [];
+  var comments = (s && s.recent_comments) ? s.recent_comments.slice() : [];
+  if (window.DATA && DATA.gibsonReportsCatalog) {
+    var g = DATA.gibsonReportsCatalog;
+    var allG = (g.online_reports || []).concat(g.report_downloads || []);
+    allG.forEach(function (r) {
+      var d = r.date ? r.date.slice(0, 10) : '';
+      comments.push({
+        id: 'gibson_' + (r.id || r.slug),
+        name: r.title || 'Gibson Market Report',
+        type: 'Gibson Research Reports',
+        subtype: 'Gibson Tankers & Bulk',
+        date: d,
+        text: (r.title || '') + ' — Gibson Shipbrokers market research & consultancy analysis. Available online or via download.',
+        url: r.link || ('https://www.gibsons.co.uk/report/' + (r.slug || ''))
+      });
+    });
+  }
+  return comments;
 }
 
-var FEARN_VOICE_TYPES = ['VLCC Weekly Comment', 'Suezmax Weekly Comment', 'Aframax Weekly Comment', 'Capesize Weekly Comment', 'Panamax Weekly Comment', 'Supramax Weekly Comment', 'Chartering Weekly Comment', 'SnP Weekly Comment', 'LNG Market Report', 'Gas Market Weekly Comment - Eastern Market', 'Gas Market Weekly Comment - Western Market', 'Gas Market Report', 'Daily BLPG Report', 'BITR-1', 'BITR-2', 'BITR-3', 'CROSS MED', 'WAFR/UKC', 'WAFR/USG', 'MEG/EAST', 'BOT/WEST', 'CEYHAN/USG', 'BLSEA/MED'];
+var FEARN_VOICE_TYPES = ['Gibson Research Reports', 'VLCC Weekly Comment', 'Suezmax Weekly Comment', 'Aframax Weekly Comment', 'Capesize Weekly Comment', 'Panamax Weekly Comment', 'Supramax Weekly Comment', 'Chartering Weekly Comment', 'SnP Weekly Comment', 'LNG Market Report', 'Gas Market Weekly Comment - Eastern Market', 'Gas Market Weekly Comment - Western Market', 'Gas Market Report', 'Daily BLPG Report', 'BITR-1', 'BITR-2', 'BITR-3', 'CROSS MED', 'WAFR/UKC', 'WAFR/USG', 'MEG/EAST', 'BOT/WEST', 'CEYHAN/USG', 'BLSEA/MED'];
 
 function initFearnVoiceFilters() {
   var sel = document.getElementById('fearnVoiceType');
@@ -45257,13 +45366,15 @@ function renderFearnVoice() {
     if (FEARN_STATE.voiceQ && ((c.text || '') + ' ' + (c.name || '')).toLowerCase().indexOf(FEARN_STATE.voiceQ) < 0) return false;
     return true;
   });
-  if (cnt) cnt.textContent = FEARN_STATE.archive ? ('· ' + rows.length + ' of ' + all.length + ' full-archive rows') : ('· latest ' + rows.length + ' of ' + all.length + ' cached (11,709 in per-desk archive)');
+  if (cnt) cnt.textContent = FEARN_STATE.archive ? ('\u00b7 ' + rows.length + ' of ' + all.length + ' full-archive rows') : ('\u00b7 latest ' + rows.length + ' of ' + all.length + ' cached (11,709 in per-desk archive + 548 Gibson reports)');
   box.innerHTML = rows.map(function (c) {
+    var linkHtml = c.url ? (' <a href="' + escapeHtml(c.url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;color:var(--accent);text-decoration:underline;margin-left:auto;">Read Report &rarr;</a>') : '';
     return '<div style="border:1px solid var(--border);border-radius:8px;padding:10px 12px;background:var(--card);">' +
       '<div style="display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-bottom:4px;">' +
       '<span style="font-weight:700;font-size:12px;">' + escapeHtml(c.name || c.type || 'Comment') + '</span>' +
-      '<span style="font-family:\'IBM Plex Mono\',monospace;font-size:var(--fs-micro);color:var(--text-muted);">' + escapeHtml(c.date || '') + '</span>' +
-      '<span style="font-size:var(--fs-micro);color:var(--accent);">' + escapeHtml(c.subtype || '') + '</span></div>' +
+      '<span style="font-family:\'IBM Plex Mono\',monospace;font-size:11px;color:var(--text-muted);">' + escapeHtml(c.date || '') + '</span>' +
+      '<span style="font-size:11px;color:var(--accent);">' + escapeHtml(c.subtype || '') + '</span>' +
+      linkHtml + '</div>' +
       '<div style="font-size:12px;line-height:1.5;">' + escapeHtml(c.text || '') + '</div></div>';
   }).join('') || '<div style="color:var(--text-muted);font-size:12px;">No commentary matches current filters.</div>';
 }
@@ -45271,6 +45382,7 @@ function renderFearnVoice() {
 function fearnVoiceDeskFor(type) {
   var t = type || 'all';
   if (t === 'all') return ['tanker', 'dry', 'gas', 'snp'];
+  if (/Gibson/i.test(t)) return ['tanker', 'dry'];
   if (/VLCC|Aframax|Suezmax|BITR|WAFR|MEG\/EAST|CROSS|BOT\/WEST|Tank|CEYHAN|BLSEA/i.test(t)) return ['tanker'];
   if (/Capesize|Panamax|Supramax|Chartering|Dry|Container/i.test(t)) return ['dry'];
   if (/LNG|Gas|BLPG|LPG/i.test(t)) return ['gas'];

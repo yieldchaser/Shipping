@@ -38,3 +38,35 @@ Execution log for Prompt 04. Every step recorded as executed.
 | 11 | 50-Year Secondhand vs NB Parity | `fearnSec5` (S&P & Assets) | MERGE | Broker Desk `fearnAcParity` won (higher fidelity 50Y historical parity); redundant chart purged | VERIFIED (0 in Signals, 1 in Broker Desk) |
 | 12 | Secondhand S&P Deal Ledger | `fearnSec5` (S&P & Assets) | MOVE | Placed as searchable deal ledger table in S&P & Assets | VERIFIED (0 in Signals, 1 in Broker Desk) |
 | 13 | Global Ship Demolition & Scrap Matrix | `fearnSec5` (S&P & Assets) | MERGE | Broker Desk `fearnAcChart` scrap $/LDT overlay won; redundant chart purged | VERIFIED (0 in Signals, 1 in Broker Desk) |
+
+---
+
+## STEP 4.2 — Wire the unused broker data
+- STATUS: DONE
+- FILES TOUCHED:
+  - `scripts/fearnleys/build_tanker_routes_daily.py`
+  - `data/derived/fearnleys_tanker_routes_daily.json`
+  - `index.html` (lines ~12640–12660, 16155–16315, 45110–45370)
+  - `scripts/verify/build_provenance_manifest.py`
+  - `data/provenance/manifest.json`
+- WHAT I DID:
+  1. **Gibson Continuous Daily Tanker Rates (9 Routes)**:
+     - Ingested `data/clarksons/gibson_tanker_rates_continuous_daily.csv` (1,568 daily observations, 2022-11 → 2026-09) into `scripts/fearnleys/build_tanker_routes_daily.py`.
+     - Added group `"Gibson (9 Routes)"` covering TD3C, TD20, TD25, TC1, TC5, MR USG/Brazil, Handy Clean Spore/Aus, Dirty Cross Med, and Dirty North Sea.
+     - Rebuilt `data/derived/fearnleys_tanker_routes_daily.json` (3.79 MB, 135 series / 200,511 points); seamlessly rendered as interactive group tab in `fearnSec3` (Tanker Routes).
+  2. **Braemar Live Forward FFA Strip**:
+     - Built `#fearnBraemarStrip` container and `renderBraemarForwardStrip()` in `index.html` consuming `data/clarksons/braemar_live_rates.json`.
+     - Renders live FFA quotes across 20 tenors for Capesize (C5TC), Panamax (P4TC/P5TC), Supramax (S10TC), and Handysize (H7TC) with prompt vs Cal27 contango/backwardation spreads and 3-beat tooltips.
+  3. **Gibson Research Reports in Broker Voice**:
+     - Wired `data/clarksons/gibson_all_reports_catalog.json` (548 reports spanning 2016 → 2026: 153 online + 395 downloads) into `loadFearnleysData()` and `fearnVoiceComments()`.
+     - Added "Gibson Research Reports" option in `fearnSec10` dropdown (`#fearnVoiceType`), displaying report titles, dates, summaries, and direct external links ("Read Report →").
+     - Upgraded typography to guarantee >= 11px font sizes across all Broker Voice entries.
+  4. **Fearnleys Continuous Benchmark Rates & Fixtures Provenance**:
+     - Wired `data/clarksons/fearnleys_benchmark_rates_continuous.csv` (1,158 dates / 34 benchmark curves) into `loadFearnleysData()`.
+     - Investigated `data/derived/fearnleys_fixtures_full.csv` (540,640 rows): verified the chronological date range spans **1974-12-18 to 2026-12-18** (52 years). Clarified that the first row in the raw CSV was 2019-03-21 solely due to unsorted CSV appending, disproving earlier assumptions of a truncated span.
+     - Updated `scripts/verify/build_provenance_manifest.py` and regenerated `data/provenance/manifest.json`: 86 series registered (78 LIVE, 4 ESTIMATED, 4 UNREGISTERED static files).
+- VERIFY COMMAND: `python -u scratch/test_fearnleys_phase42.py && python -u scratch/test_e2e_playwright.py`
+- EXPECTED RESULT: OVERALL SUCCESS: True, 0 console errors, all 12 tabs rendered cleanly with 21 canvases in Broker Desk.
+- ACTUAL RESULT: Passed. Braemar strip rendered (Cape, Pmax, Smax, Handy), Gibson tanker routes rendered with TD3C/TD20/TC1, Gibson reports catalog rendered with 548 reports, 0 console errors across all 12 tabs.
+- DEVIATIONS: None.
+
