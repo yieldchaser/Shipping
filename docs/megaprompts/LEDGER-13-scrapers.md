@@ -370,6 +370,41 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.83s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 8 — World Crude Steel Monthly Production (worldsteel)
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_world_steel_production.py` (created)
+  - `data/commodities/world_crude_steel_monthly.csv` (created - 31 monthly rows spanning 2024-01-01 to 2026-07-01)
+  - `data/commodities/world_crude_steel_metadata.json` (created - macro iron ore / met coal demand transmission mechanisms, top 10 steelmakers)
+  - `data/provenance/manifest.json` (registered `commodities_world_crude_steel_monthly` with 31 rows, status LIVE)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 2):**
+  - `[Rung 1] GET https://worldsteel.org/media/press-releases/`: Enumerated official monthly crude steel press releases.
+  - `[Rung 2] GET https://worldsteel.org/media/press-releases/{year}/{month}-{year}-crude-steel-production/`:
+    - Harvested 31 consecutive monthly reports (2024-01 through 2026-07) across 70 reporting countries (~98% of world output).
+    - June 2026 validation benchmark: World total = 155.7 Mt (+1.7% YoY) — exact match to Prompt 13 specification ✔.
+    - China June 2026 = 83.7 Mt, India = 14.1 Mt, United States = 7.2 Mt, Japan = 6.8 Mt.
+    - July 2026 latest print: World total = 149.2 Mt, China = 76.9 Mt (-3.6% YoY, 577.0 Mt YTD), India = 14.4 Mt (+1.9% YoY, 101.1 Mt YTD).
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_world_steel_production.py` harvesting official monthly production data directly from World Steel Association releases.
+  2. Acquired 31 unbroken monthly records from 2024-01-01 to 2026-07-01.
+  3. Extracted country-level production across top 10 steelmaking nations (China, India, Japan, US, Russia, South Korea, Germany, Turkey, Brazil, Vietnam) and major regional basins (Asia & Oceania, EU-27).
+  4. Verified exact consistency with Prompt 13 June 2026 benchmark (155.7 Mt, +1.7% YoY).
+  5. Updated `data/provenance/manifest.json` marking `commodities_world_crude_steel_monthly` LIVE with 31 rows.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.83s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 
 

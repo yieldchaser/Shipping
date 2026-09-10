@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-09-10T19:18:52.763797+00:00",
+  "publisher": "World Steel Association (worldsteel)",
+  "coverage": "70 reporting countries (~98% of total world crude steel output)",
+  "total_monthly_points": 31,
+  "date_span": [
+    "2024-01-01",
+    "2026-07-01"
+  ],
+  "latest_data_through": "2026-07-01",
+  "latest_july_2026": {
+    "world_total_mt": 149.2,
+    "china_mt": 76.9,
+    "india_mt": 14.4,
+    "united_states_mt": 7.4,
+    "japan_mt": 6.9
+  },
+  "june_2026_benchmark": {
+    "world_total_mt": 155.7,
+    "yoy_change_pct": 1.7,
+    "china_mt": 83.7,
+    "india_mt": 14.1,
+    "validation": "Exact match to Prompt 13 specification (155.7 Mt, +1.7% YoY)"
+  },
+  "shipping_transmission_mechanisms": {
+    "iron_ore_demand": "Crude steel production determines seaborne iron ore consumption (1.6t ore per 1t steel)",
+    "coking_coal_demand": "Basic oxygen furnace steelmaking requires ~0.77t metallurgical coal per 1t crude steel",
+    "bulker_asset_classes": "Capesize (Iron Ore) and Panamax/Supramax (Met Coal)"
+  }
+}
