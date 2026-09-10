@@ -22,12 +22,12 @@ JSON_PATH = ROOT / "data" / "clarksons" / "fearnleys_benchmark_rates_continuous.
 # Derived from scripts/fearnleys/fetch_dry_routes_ts.py, Fearnleys Weekly Report, and market rate realities.
 CANONICAL_MAP = {
     1: {
-        "label": "MEG/Japan VLCC (TD3C)",
+        "label": "MEG/Japan-China VLCC (TD3/TD3C transition)",
         "class": "VLCC",
-        "route_code": "TD3C",
+        "route_code": "TD3/TD3C",
         "unit": "worldscale",
-        "header": "MEG/Japan VLCC (TD3C) [worldscale] (tsid_1)",
-        "notes": "TD3C crude benchmark (Middle East Gulf to China/Japan), quoted in Worldscale points (discontinued 2023-05)."
+        "header": "MEG/Japan-China VLCC (TD3/TD3C transition) [worldscale] (tsid_1)",
+        "notes": "Historical benchmark MEG/Japan (TD3) transitioned to MEG/China (TD3C) around 2019-2020. Quoted in Worldscale points (15-140 WS), straddling both definitions (discontinued 2023-05)."
     },
     2: {
         "label": "MEG/Singapore VLCC (TD2)",
@@ -254,20 +254,20 @@ CANONICAL_MAP = {
         "notes": "Baltic S1C US Gulf to China-Japan. Rate range $18.8k-$33.8k/day (median $28.4k). Corrected from mislabelled Panamax."
     },
     120132: {
-        "label": "Supramax Transatlantic RV Delivery Cont (S1B)",
-        "class": "Supramax",
-        "route_code": "S1B",
-        "unit": "usd/day",
-        "header": "Supramax Transatlantic RV Delivery Cont (S1B) [usd/day] (tsid_120132)",
-        "notes": "Baltic S1B delivery Continent/Canakkale trip to China-Korea. Rate range $17.7k-$34.8k/day. Corrected from mislabelled Panamax."
-    },
-    120133: {
-        "label": "Supramax Transatlantic RV Delivery USG (S4B)",
+        "label": "Supramax Transatlantic RV Delivery Cont (S4B)",
         "class": "Supramax",
         "route_code": "S4B",
         "unit": "usd/day",
-        "header": "Supramax Transatlantic RV Delivery USG (S4B) [usd/day] (tsid_120133)",
-        "notes": "Baltic S4B Skaw-Passero trip to US Gulf. Rate range $9.6k-$16.6k/day. Corrected from mislabelled Panamax."
+        "header": "Supramax Transatlantic RV Delivery Cont (S4B) [usd/day] (tsid_120132)",
+        "notes": "Baltic S4B Skaw-Passero trip to US Gulf (delivery Continent). Rate range $17.7k-$34.8k/day. Corrected from mislabelled Panamax and shifted S1B code."
+    },
+    120133: {
+        "label": "Supramax Transatlantic RV Delivery USG (S4A)",
+        "class": "Supramax",
+        "route_code": "S4A",
+        "unit": "usd/day",
+        "header": "Supramax Transatlantic RV Delivery USG (S4A) [usd/day] (tsid_120133)",
+        "notes": "Baltic S4A US Gulf trip to Skaw-Passero (delivery USG). Rate range $9.6k-$16.6k/day. Corrected from mislabelled Panamax and shifted S4B code."
     },
     120137: {
         "label": "Supramax South China - Indonesia RV (S10)",

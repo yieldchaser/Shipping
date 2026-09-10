@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T18:03:17.854243+00:00",
+  "generated_at": "2026-09-10T18:23:53.120835+00:00",
   "schema_version": "1.0",
-  "total_series": 106,
+  "total_series": 107,
   "unregistered_count": 9,
   "series": [
     {
@@ -101,16 +101,16 @@
       "fetch_method": "GraphQL Continuous Series",
       "fetch_script": "scripts/fearnleys/daily_fearnleys_sync.py",
       "output_file": "data/clarksons/fearnleys_benchmark_rates_continuous.csv",
-      "row_count": 1158,
+      "row_count": 14263,
       "date_span": [
-        "2018-05-09",
-        "2026-09-09"
+        "1985-01-04",
+        "2026-09-10"
       ],
-      "last_fetched_utc": "2026-09-09T21:05:13Z",
+      "last_fetched_utc": "2026-09-10T18:23:53.120835+00:00",
       "unit": "USD/day / WS",
       "is_derived": false,
       "derivation": null,
-      "notes": "Sourced via scripts/fearnleys/daily_fearnleys_sync.py. 34 continuous daily/weekly benchmark curves across 1,158 dates (2018-05 to 2026-09)."
+      "notes": "Fearnpulse TS depth backfill (all 34 continuous series). 14,263 dates spanning 1985-01 to 2026-09. Up to 7,085 points per route (C3 Tubarao/Qingdao 28 yrs, C5 Australia/China 27 yrs). Discontinued tanker routes (1, 2, 3, 5, 6, 7, 8, 9) marked DORMANT."
     },
     {
       "series_id": "clarksons_gibson_all_reports_catalog",
@@ -2000,6 +2000,23 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Authoritative Baltic Exchange route taxonomy (109 routes, 7 index formulas, 4 vessel specs, 9 baskets). Canonical authority for route codes, vessel classes, units, and index construction."
+    },
+    {
+      "series_id": "signal_live_fleet_positions",
+      "display_name": "Signal \u2014 Live Fleet Positions",
+      "status": "LIVE",
+      "source_name": "Signal Ocean AIS Fleet Telemetry",
+      "source_url": "https://signalocean.com",
+      "fetch_method": "AIS Geospatial Engine",
+      "fetch_script": "scripts/geospatial/build_geospatial_tracker.py",
+      "output_file": "data/views/signal/live_fleet_positions.json",
+      "row_count": 1000,
+      "date_span": null,
+      "last_fetched_utc": "2026-09-10T18:19:53.103965+00:00",
+      "unit": "Vessel Coordinates & AIS State",
+      "is_derived": true,
+      "derivation": "Processed from Signal Ocean live AIS fleet feeds",
+      "notes": "Live fleet geospatial tracking positions for bulker and tanker fleets."
     }
   ]
 }

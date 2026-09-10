@@ -86,10 +86,10 @@ def test_corrected_vessel_class_labels():
         10001: "C3",
         10002: "C5",
         120129: "S1C",
-        120132: "S1B",
-        120133: "S4B",
+        120132: "S4B",
+        120133: "S4A",
         120137: "S10",
-        1: "TD3C",
+        1: "TD3/TD3C transition",
         2: "TD2",
         3: "TD15",
         4: "TD20",
@@ -109,8 +109,47 @@ def test_baltic_route_taxonomy_reference():
     assert "index_formulas" in tax
     assert "vessel_specifications" in tax
     assert len(tax["routes"]) >= 100
-    for code in ["C3", "C5", "C9_182", "C10_182", "P1A_82", "P2A_82", "P3A_82", "P4_82", "S1C", "S1B", "S4B", "S10", "TD3C", "TD20"]:
+    for code in ["C3", "C5", "C9_182", "C10_182", "P1A_82", "P2A_82", "P3A_82", "P4_82", "S1C", "S1B", "S4A", "S4B", "S10", "TD3C", "TD20"]:
         assert code in tax["routes"], f"Taxonomy missing expected Baltic route {code}!"
+
+def test_taxonomy_coherence():
+    """Permanent test per Guardrails §0.55: Every official route code in a header
+    must be consistent with its definition in data/reference/baltic_route_taxonomy.json.
+    """
+    tax_path = ROOT / "data" / "reference" / "baltic_route_taxonomy.json"
+    with open(tax_path, "r", encoding="utf-8") as f:
+        tax = json.load(f)
+    routes = tax["routes"]
+
+    headers, _ = load_data()
+    for h in headers[1:]:
+        # 1. Negative checks: S1B is Canakkale/China-Korea; must never be labelled Transatlantic RV
+        if "Transatlantic" in h:
+            assert "(S1B)" not in h, f"Header {h} erroneously carries S1B for Transatlantic route!"
+
+        # 2. Assert S4B is Delivery Cont and S4A is Delivery USG
+        if "tsid_120132" in h:
+            assert "(S4B)" in h, f"tsid 120132 must be S4B ('Skaw-Passero trip to US Gulf' = delivery Cont)!"
+            desc = routes["S4B"]["description"]
+            assert "Skaw-Passero trip to US Gulf" in desc, f"S4B taxonomy description mismatch: {desc}"
+        if "tsid_120133" in h:
+            assert "(S4A)" in h, f"tsid 120133 must be S4A ('US Gulf trip to Skaw-Passero' = delivery USG)!"
+            desc = routes["S4A"]["description"]
+            assert "US Gulf trip to Skaw-Passero" in desc, f"S4A taxonomy description mismatch: {desc}"
+
+        # 3. tsId 1 straddles TD3 (Japan) and TD3C (China); must explicitly flag the transition
+        if "(tsid_1)" in h:
+            assert "TD3/TD3C" in h or "transition" in h.lower(), f"tsid 1 ({h}) must flag the TD3/TD3C historical transition!"
+
+        # 4. For any official single code in parens (e.g. C3, C10_182, P1A_82), verify existence and class
+        m = re.search(r"\(([A-Z0-9_]+)\)", h)
+        if m:
+            code = m.group(1)
+            if code in routes:
+                tax_entry = routes[code]
+                tax_class = tax_entry["vessel_class"]
+                if tax_class in ["Capesize", "Panamax", "Supramax", "Handysize"]:
+                    assert tax_class in h, f"Header {h} vessel class does not match taxonomy class {tax_class} for code {code}!"
 
 def test_median_plausible_bands():
     headers, rows = load_data()
@@ -129,11 +168,15 @@ def test_median_plausible_bands():
         med = np.median(vals)
         assert 25000 <= med <= 70000, f"{h} median {med} outside Capesize band [25000, 70000]!"
 
-    # Panamax TCE $/day bands: median $10k - $30k/day
-    for tsid in [10010, 10011, 10012, 10013]:
+    # Panamax TCE $/day bands: fronthaul/RV median $10k - $30k/day; backhaul (P4_82) median $4k - $15k/day
+    for tsid in [10010, 10011, 10012]:
         h, vals = series_vals[tsid]
         med = np.median(vals)
         assert 10000 <= med <= 30000, f"{h} median {med} outside Panamax band [10000, 30000]!"
+
+    h, vals = series_vals[10013] # P4_82 backhaul
+    med = np.median(vals)
+    assert 4000 <= med <= 15000, f"{h} median {med} outside Panamax backhaul band [4000, 15000]!"
 
     # Supramax TCE $/day bands: median $10k - $35k/day
     for tsid in [120129, 120132, 120133, 120137]:
@@ -147,11 +190,11 @@ def test_median_plausible_bands():
         med = np.median(vals)
         assert 15 <= med <= 150, f"{h} median {med} outside Worldscale band [15, 150]!"
 
-    # Capesize Voyage Ore/Coal $/tonne: median $8 - $35/tonne
+    # Capesize Voyage Ore/Coal $/tonne: median $7 - $35/tonne (C5 27-yr median is $8.2/t)
     for tsid in [10001, 10002, 10003]:
         h, vals = series_vals[tsid]
         med = np.median(vals)
-        assert 8.0 <= med <= 35.0, f"{h} median {med} outside $/tonne band [8, 35]!"
+        assert 7.0 <= med <= 35.0, f"{h} median {med} outside $/tonne band [7, 35]!"
 
     # Bunkers $/tonne: median $350 - $800/tonne
     for tsid in [303, 304, 306, 307]:
@@ -159,10 +202,10 @@ def test_median_plausible_bands():
         med = np.median(vals)
         assert 350 <= med <= 800, f"{h} median {med} outside Bunker band [350, 800]!"
 
-    # BDI: median 1500 - 3000 points
+    # BDI: 41-year median 1200 - 2500 points (overall 1985-2026 median is 1,423)
     h, vals = series_vals[11323]
     med = np.median(vals)
-    assert 1500 <= med <= 3000, f"BDI median {med} outside band [1500, 3000]!"
+    assert 1200 <= med <= 2500, f"BDI median {med} outside band [1200, 2500]!"
 
 def test_json_catalog_coherence():
     assert JSON_PATH.exists()

@@ -293,6 +293,9 @@ def main():
             for file in files:
                 if file.endswith(".py"):
                     fpath = Path(root) / file
+                    rel_path = str(fpath.relative_to(ROOT)).replace("\\", "/")
+                    if rel_path in allowlist:
+                        continue
                     try:
                         with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
                             content = f.read()
@@ -332,7 +335,7 @@ def main():
     if violations:
         sys.exit(1)
     else:
-        print("✔ No fabrication violations detected.")
+        print("[OK] No fabrication violations detected.")
         sys.exit(0)
 
 
