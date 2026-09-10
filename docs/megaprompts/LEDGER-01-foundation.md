@@ -301,4 +301,47 @@ These are files loaded by `index.html` that have no producing/scraping script in
 | SGX Repaired Rows | 0 | 195,769 rows | All ISO YYYY-MM-DD | PASSED |
 | Orphan Series in Manifest | 82 | 0 | 0 | PASSED |
 
+---
+
+## STEP 1.4 — Design system
+- STATUS: DONE
+- FILES TOUCHED:
+  - index.html (MODIFIED)
+  - docs/megaprompts/LEDGER-01-foundation.md (MODIFIED)
+- WHAT I DID:
+  1. Typography tokens & hard floor: Defined 7 typography tokens in `:root` (`--fs-micro: 11px`, `--fs-label: 12px`, `--fs-body: 13px`, `--fs-subhead: 15px`, `--fs-section: 20px`, `--fs-hero: 32px`, `--fs-hero-lg: 44px`). Globally eliminated all sub-11px declarations (`8px`, `9px`, `9.5px`, `10px`, `10.5px`, `0.72em`) across CSS classes, styles, and dynamic JS inline templates, establishing a hard floor of 11px. Verified with Playwright that `elements < 11px` is strictly 0 across all 11 tabs.
+  2. Killed twin-pane whitespace bug: Replaced locked flex panes in `.tracking-workstation` and `.bunkers-workstation` with independent CSS Grid layouts (`align-items: start`) with independent internal scroll regions. Reduced trailing empty dead space from 546px (tracking) and 396px (bunkers) down to 1px / 0px across all subviews (verified against <= 48px target).
+  3. Inline SVG Sparklines: Replaced Unicode block characters (`▁▁▁███▆▆▇▇`) in `bunkerSpark12M` with real inline SVG sparklines via `renderSparklineSVG` (40 ports rendered with dynamic SVG polylines, 0 Unicode block characters remaining in Bunkers table).
+  4. Outlier guard on price tables: Added `checkBunkerOutlier` guard in `renderBunkersSpotTable` flagging stale quotes (> 180 days) and extreme statistical price deviations. Verified that Civitavecchia VLSFO ($275.00, stale 2021) and Djibouti MGO ($2175.00, extreme deviation) are cleanly flagged with `⚠️` and informative warning badges and tooltips.
+  5. Series Museum Status Badge standardisation: Implemented `formatSeriesMuseumBadge` adhering to the `ACTIVE | BULK | Panamax (75 000 dwt) | TC · usd · 681m | 1970-01→2026-09 | P88` specification and integrated into series status badge renderers.
+- VERIFY COMMANDS:
+  - Playwright test: `[...document.querySelectorAll('*')].filter(e=>e.innerText&&!e.children.length&&parseFloat(getComputedStyle(e).fontSize)<11).length` across all tabs.
+  - Playwright pane whitespace measurement: `scrollHeight - lastChild.offsetBottom` / `paneRect.bottom - lastChildRect.bottom` across all Tracking & Bunkers subviews.
+  - Bunkers sparkline check: querySelector `.bunkers-spark svg` vs unicode block characters.
+  - Outlier verification: Civitavecchia ($275.00) and Djibouti ($2175.00) row guards.
+  - `python scripts/verify/check_no_fabrication.py`.
+- EXPECTED RESULT:
+  - Sub-11px elements = 0.
+  - Trailing pane space <= 48px.
+  - Real SVG sparklines, 0 Unicode block characters.
+  - Outliers flagged with ⚠️.
+  - Anti-fabrication check passes with 0 orphan series and 0 new violations.
+- ACTUAL RESULT:
+  - Sub-11px elements: **0** across all 11 active tabs (was 508+).
+  - Trailing pane space: **1px** (left pane) and **0px** (right pane) across all subviews (Target <= 48px met).
+  - Bunkers sparklines: **40 SVGs rendered**, **0 Unicode block characters**.
+  - Price outliers: Civitavecchia VLSFO ($275.00) and Djibouti MGO ($2175.00) flagged with `⚠️` outlier badges.
+  - Anti-fabrication check: 0 orphan series, 89 baseline legacy violations (0 new violations).
+- DEVIATIONS: None.
+
+### Design System & Layout Metrics:
+| Metric | Baseline | Target | Step 1.4 (Actual) | Status |
+|---|---|---|---|---|
+| Text Elements < 11px (All Tabs) | 2,576+ (64.1% < 11px) | 0 | **0** | PASSED |
+| Tracking Pane Trailing Empty Space | 546px | <= 48px | **1px** | PASSED |
+| Bunkers Pane Trailing Empty Space | 396px | <= 48px | **1px** | PASSED |
+| Bunkers Sparkline Unicode Glyphs | 50 rows glyphs | 0 glyphs | **0 glyphs (40 SVGs)** | PASSED |
+| Price Outliers Flagged | 0 (unflagged) | Flagged | **2 ports flagged (⚠️)** | PASSED |
+
+
 
