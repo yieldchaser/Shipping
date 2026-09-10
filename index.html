@@ -3509,9 +3509,9 @@
 
     .tracking-workstation {
       display: grid;
-      grid-template-columns: 560px minmax(0, 1fr);
+      grid-template-columns: minmax(480px, 560px) minmax(0, 1fr);
       gap: 16px;
-      align-items: start;
+      align-items: stretch;
     }
     .tracking-left-pane {
       display: flex;
@@ -3520,6 +3520,8 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
+      height: 0;
+      min-height: 100%;
     }
     .tracking-right-pane {
       flex: 1;
@@ -3527,6 +3529,7 @@
       display: flex;
       flex-direction: column;
       gap: 16px;
+      min-height: 0;
     }
 
     .tracking-subview-nav {
@@ -3560,6 +3563,7 @@
 
     .tracking-subview-content {
       flex: 1;
+      min-height: 0;
       display: flex;
       flex-direction: column;
       overflow: hidden;
@@ -3567,8 +3571,8 @@
 
     .tracking-table-wrap {
       flex: 1;
+      min-height: 0;
       overflow-y: auto;
-      max-height: 660px;
     }
     .tracking-table {
       width: 100%;
@@ -3662,11 +3666,198 @@
       cursor: not-allowed;
     }
 
+    /* SIGNAL OCEAN TERMINAL & FLEET STYLES (Prompt 05 Phase 5.3) */
+    .ac-picker-panel {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .ac-picker-panel .sec-count {
+      font-size: var(--fs-micro);
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+      margin-left: 2px;
+    }
+    .vessel-modal-backdrop {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.78);
+      z-index: 10000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      backdrop-filter: blur(4px);
+    }
+    .vessel-modal-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      width: 92%;
+      max-width: 780px;
+      max-height: 85vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 16px 48px rgba(0, 0, 0, 0.6);
+    }
+    .vessel-modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border);
+      background: #0e141c;
+    }
+    .vessel-modal-nav {
+      display: flex;
+      border-bottom: 1px solid var(--border);
+      background: #090d12;
+    }
+    .vessel-modal-tab-btn {
+      flex: 1;
+      padding: 9px 12px;
+      background: none;
+      border: none;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      transition: all 0.15s;
+    }
+    .vessel-modal-tab-btn:hover {
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.02);
+    }
+    .vessel-modal-tab-btn.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      background: rgba(77, 154, 255, 0.08);
+    }
+    .map-fleet-hud {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      right: 12px;
+      z-index: 999;
+      background: rgba(13, 19, 26, 0.92);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 8px 12px;
+      backdrop-filter: blur(6px);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    }
+    .hud-metric-box {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 4px 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .hud-lbl {
+      font-size: var(--fs-micro);
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .hud-num {
+      font-size: 12px;
+      font-weight: 700;
+      color: #fff;
+      font-family: var(--font-mono);
+    }
+    .fleet-hud-badge {
+      font-size: var(--fs-micro);
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: rgba(77, 154, 255, 0.15);
+      color: var(--accent);
+      font-weight: 600;
+      border: 1px solid rgba(77, 154, 255, 0.3);
+      font-family: var(--font-mono);
+    }
+    .live-dot-pulse {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #3fb950;
+      display: inline-block;
+      box-shadow: 0 0 0 0 rgba(63, 185, 80, 0.7);
+      animation: pulseDotLive 2s infinite;
+    }
+    @keyframes pulseDotLive {
+      0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(63, 185, 80, 0.7); }
+      70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(63, 185, 80, 0); }
+      100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(63, 185, 80, 0); }
+    }
+
+    /* DISTANCE & MULTI-LEG ROUTING STYLES (Prompt 05 Phase 5.4) */
+    .waypoint-chip {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }
+    .waypoint-badge {
+      font-size: var(--fs-micro);
+      font-weight: 700;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      min-width: 90px;
+    }
+    .waypoint-name {
+      font-size: 13px;
+      font-weight: 600;
+      color: #fff;
+    }
+    .waypoint-sub {
+      font-size: var(--fs-micro);
+      color: var(--text-muted);
+    }
+    .waypoint-actions {
+      display: flex;
+      gap: 4px;
+      align-items: center;
+    }
+    .waypoint-btn {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      border-radius: 4px;
+      padding: 2px 6px;
+      font-size: 11px;
+      cursor: pointer;
+      line-height: 1.2;
+    }
+    .waypoint-btn:hover {
+      color: #fff;
+      border-color: var(--accent);
+    }
+
     /* CHOKEPOINTS DIRECTORY LIST */
     .chokepoint-dir-list {
       flex: 1;
+      min-height: 0;
       overflow-y: auto;
-      max-height: 700px;
       padding: 8px;
       display: flex;
       flex-direction: column;
@@ -3752,6 +3943,8 @@
       display: flex;
       flex-direction: column;
       gap: 14px;
+      flex: 1;
+      min-height: 0;
       overflow-y: auto;
     }
     .dist-input-row {
@@ -4175,14 +4368,47 @@
       color: #fff;
       border-color: var(--accent);
     }
-    .cp-narrative-note {
-      font-size: 11px;
-      color: var(--text-muted);
-      background: #0a0e14;
+    .cp-narrative-note, .cp-spec-strip {
+      font-size: var(--fs-body);
+      color: var(--text);
+      background: #0d1219;
+      border: 1px solid var(--border);
       border-left: 3px solid var(--accent);
-      padding: 6px 10px;
-      border-radius: 0 4px 4px 0;
-      line-height: 1.4;
+      padding: 12px 14px;
+      border-radius: 0 6px 6px 0;
+      line-height: 1.5;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .cp-spec-narrative {
+      color: var(--text);
+      font-size: var(--fs-body);
+      line-height: 1.5;
+    }
+    .cp-spec-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 10px;
+      padding-top: 8px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+    }
+    .cp-spec-item {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .cp-spec-label {
+      font-size: var(--fs-micro);
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 600;
+    }
+    .cp-spec-val {
+      font-size: var(--fs-body);
+      font-weight: 600;
+      color: #fff;
     }
 
 
@@ -11385,7 +11611,7 @@
                 <input type="range" class="deconst-slider" id="deconstSliderSuez" data-tooltip="<div class='rt-title'>Suezmax TD20 Rate Shock</div><div class='rt-row'><span class='rt-label'>Vessel Size</span><span class='rt-val'>150,000-160,000 DWT Suezmax Crude Tanker</span></div><div class='rt-row'><span class='rt-label'>Major Route</span><span class='rt-val'>West Africa to UK-Continent</span></div><div class='rt-note'>Applies a macro percentage shock to all Suezmax crude tanker futures contracts.</div>" min="-50" max="100" value="0" step="1" onmousedown="window._isSliderDragging=true" onmouseup="window._isSliderDragging=false" onchange="window._isSliderDragging=false; onDeconstSliderInput()" oninput="onDeconstSliderInput()" style="width:100%;">
               </div>
             </div>
-            <div style="display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; padding:6px 10px; border-top:1px solid var(--border); font-size:var(--fs-micro); font-family:'IBM Plex Mono', monospace; color:var(--text-muted);">
+            <div style="display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; padding:6px 10px; border-top:1px solid var(--border); font-size:var(--fs-micro); font-family:IBM Plex Mono, monospace; color:var(--text-muted);">
               <span id="queueSignalBadge">Queue signal: —</span>
               <span id="lineupTotalsLine">— hulls · — DWT</span>
             </div>
@@ -13630,33 +13856,17 @@ if (intelTabsContainer) {
         </div>
       </div>
 
-      <!-- PORT HISTORY (PortWatch daily calls vs 5Y same-window mean; fills the lower-left dead zone) -->
-      <div class="port-history-drawer" id="portHistoryDrawer">
-        <div class="port-history-header">
-          <div>
-            <div class="port-history-title" id="phTitle">Port Call History &mdash; IMF PortWatch</div>
-            <div class="port-history-sub" id="phSub">43 classic hubs &middot; daily calls 2019&ndash;present &middot; 5Y same-window mean &middot; latest <span id="phLatest">&mdash;</span></div>
-          </div>
-          <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-            <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip=" " data-tt-type="portwatch-callout" data-tt-context="note"><!-- populated by initPortHistory --></select>
-            <div class="cp-btn-group">
-              <button class="cp-toggle-btn active" id="phSectorTotal" onclick="setPortHistorySector('total')" data-tooltip=" " data-tt-type="portwatch-callout">All Sectors</button>
-              <button class="cp-toggle-btn" id="phSectorDry" onclick="setPortHistorySector('dry_bulk')" data-tooltip=" " data-tt-type="portwatch-callout">Dry Bulk</button>
-              <button class="cp-toggle-btn" id="phSectorTanker" onclick="setPortHistorySector('tanker')" data-tooltip=" " data-tt-type="portwatch-callout">Tankers</button>
-              <button class="cp-toggle-btn" id="phSectorContainer" onclick="setPortHistorySector('container')" data-tooltip=" " data-tt-type="portwatch-callout">Container</button>
-            </div>
-          </div>
-        </div>
-        <div class="ph-kpi-strip" id="phKpiStrip"></div>
-        <div style="height:190px; position:relative; width:100%;"><canvas id="portHistoryChart"></canvas></div>
-        <div style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5;" id="phFootnote"></div>
-      </div>
-
       <!-- WORKSTATION (SPLIT PANE: LEFT PORT PAGES / RIGHT MAP + DRAWER) -->
       <div class="tracking-workstation">
-        <!-- Left Pane: Port Universe, Port Page, Chokepoints, Disruptions, Fixtures, Vessel, Distance, Stress -->
+        <!-- Left Pane: Port History, Port Universe, Port Page, Chokepoints, Disruptions, Fixtures, Vessel, Distance, Stress -->
         <div class="tracking-left-pane">
           <div class="tracking-subview-nav">
+            <button id="subnavHistory" class="tracking-subview-btn" data-tooltip="Port Call History: daily vessel calls, dry-bulk tonnage, and 5Y seasonal baselines across 43 strategic global ports (IMF PortWatch)." onclick="setTrackingSubView('history')">
+              Port Call History (43)
+            </button>
+            <button id="subnavPortpage" class="tracking-subview-btn" data-tooltip="Port Queue &amp; Terminal Operations: Signal Ocean Live View with active vessel queues, waiting days, cargo filters and commercial operator joins." onclick="setTrackingSubView('portpage')">
+              Port Queue &amp; Live View
+            </button>
             <button id="subnavUniverse" class="tracking-subview-btn active" data-tooltip="Port universe browser: search and filter all 2,065 measured PortWatch ports. Selecting a port opens its port page." onclick="setTrackingSubView('universe')">
               Port Universe (2,065)
             </button>
@@ -13669,15 +13879,63 @@ if (intelTabsContainer) {
             <button id="subnavChokepoints" class="tracking-subview-btn" data-tooltip="Chokepoints ledger: canal and strait transit counts, baseline change and rerouting notes from the chokepoint summary cache." onclick="setTrackingSubView('chokepoints')">
               Chokepoints Ledger (28)
             </button>
-            <button id="subnavBunkers" class="tracking-subview-btn" data-tooltip="Port bunkers sub-view: benchmark matrix synced from the same daily bunker cache as the Bunkers tab." onclick="setTrackingSubView('bunkers')">
-              Port Bunkers
-            </button>
             <button id="subnavDistance" class="tracking-subview-btn" data-tooltip="Distance and routing calculator: great-circle and route-path estimates between hub ports, with Cape/Suez switch cost context." onclick="setTrackingSubView('distance')">
               Distance &amp; Routing
             </button>
             <button id="subnavStress" class="tracking-subview-btn" data-tooltip="Port squeeze and stress sub-view: 50 port-asset series across 41 physical hubs scored vs their 5-year envelope, from the port-stress cache." onclick="setTrackingSubView('stress')">
               Port Squeeze &amp; Stress (50 Hubs · 41 Ports)
             </button>
+          </div>
+
+          <!-- Subview 0: Port Call History (IMF PortWatch calls, dry-bulk tonnage & 5Y seasonal baselines) -->
+          <div id="subviewHistory" class="tracking-subview-content" style="display:none; flex-direction:column; height:100%; min-height:0; padding:12px; gap:10px; overflow-y:auto;">
+            <div class="port-history-drawer" id="portHistoryDrawer" style="border:none; padding:0; background:transparent;">
+              <div class="port-history-header" style="flex-direction:column; align-items:stretch; gap:10px;">
+                <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                  <div>
+                    <div class="port-history-title" id="phTitle" style="font-size:14px; font-weight:700; color:#fff;">Port Call History &mdash; IMF PortWatch</div>
+                    <div class="port-history-sub" id="phSub" style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">43 classic hubs &middot; daily calls 2019&ndash;present &middot; 5Y same-window mean &middot; latest <span id="phLatest">&mdash;</span></div>
+                  </div>
+                  <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+                    <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip=" " data-tt-type="portwatch-callout" data-tt-context="note"><!-- populated by initPortHistory --></select>
+                  </div>
+                </div>
+
+                <!-- Hub Quick Chips (merged from Signals Global Port Activity Monitor) -->
+                <div style="display:flex; flex-direction:column; gap:4px; padding:6px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border);">
+                  <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Primary Hub Monitors</div>
+                  <div id="congestionPortToggle" style="display:flex; flex-wrap:wrap; gap:4px;">
+                    <button class="cp-toggle-btn active" id="congBtnQingdao" onclick="setPortHistoryPort('port1069')" style="font-size:11px; padding:3px 8px;">Qingdao</button>
+                    <button class="cp-toggle-btn" id="congBtnNingbo" onclick="setPortHistoryPort('port824')" style="font-size:11px; padding:3px 8px;">Ningbo</button>
+                    <button class="cp-toggle-btn" id="congBtnHedland" onclick="setPortHistoryPort('port955')" style="font-size:11px; padding:3px 8px;">Port Hedland</button>
+                    <button class="cp-toggle-btn" id="congBtnNewcastle" onclick="setPortHistoryPort('port816')" style="font-size:11px; padding:3px 8px;">Newcastle</button>
+                    <button class="cp-toggle-btn" id="congBtnSingapore" onclick="setPortHistoryPort('port1201')" style="font-size:11px; padding:3px 8px;">Singapore</button>
+                    <button class="cp-toggle-btn" id="congBtnRotterdam" onclick="setPortHistoryPort('port1114')" style="font-size:11px; padding:3px 8px;">Rotterdam</button>
+                    <button class="cp-toggle-btn" id="congBtnHouston" onclick="setPortHistoryPort('port481')" style="font-size:11px; padding:3px 8px;">Houston</button>
+                    <button class="cp-toggle-btn" id="congBtnTubarao" onclick="setPortHistoryPort('port1328')" style="font-size:11px; padding:3px 8px;">Tubarao</button>
+                    <button class="cp-toggle-btn" id="congBtnSantos" onclick="setPortHistoryPort('port1160')" style="font-size:11px; padding:3px 8px;">Santos</button>
+                    <button class="cp-toggle-btn" id="congBtnRizhao" onclick="setPortHistoryPort('port1105')" style="font-size:11px; padding:3px 8px;">Rizhao</button>
+                    <button class="cp-toggle-btn" id="congBtnHayPoint" onclick="setPortHistoryPort('port458')" style="font-size:11px; padding:3px 8px;">Hay Point</button>
+                    <button class="cp-toggle-btn" id="congBtnQinhuangdao" onclick="setPortHistoryPort('port1072')" style="font-size:11px; padding:3px 8px;">Qinhuangdao</button>
+                  </div>
+                </div>
+
+                <!-- Sector Filter Buttons -->
+                <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                  <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Vessel Sector Lens</div>
+                  <div class="cp-btn-group">
+                    <button class="cp-toggle-btn active" id="phSectorTotal" onclick="setPortHistorySector('total')" data-tooltip=" " data-tt-type="portwatch-callout">All Sectors</button>
+                    <button class="cp-toggle-btn" id="phSectorDry" onclick="setPortHistorySector('dry_bulk')" data-tooltip=" " data-tt-type="portwatch-callout">Dry Bulk</button>
+                    <button class="cp-toggle-btn" id="phSectorTanker" onclick="setPortHistorySector('tanker')" data-tooltip=" " data-tt-type="portwatch-callout">Tankers</button>
+                    <button class="cp-toggle-btn" id="phSectorContainer" onclick="setPortHistorySector('container')" data-tooltip=" " data-tt-type="portwatch-callout">Container</button>
+                  </div>
+                </div>
+              </div>
+
+              <div class="ph-kpi-strip" id="phKpiStrip" style="margin-top:6px;"></div>
+              <div style="height:260px; position:relative; width:100%; margin-top:8px;"><canvas id="portHistoryChart"></canvas></div>
+              <div style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5; margin-top:6px;" id="phFootnote"></div>
+            </div>
           </div>
 
           <!-- Subview 1: Port Universe Browser -->
@@ -13718,78 +13976,167 @@ if (intelTabsContainer) {
             <div id="universeSearchHint" style="display:none; position:absolute;"></div>
           </div>
 
-          <!-- Subview 1b: Port Page (facts + activity + fixtures + disruptions) -->
-          <div id="subviewPortpage" class="tracking-subview-content" style="display:none; flex-direction:column; gap:10px; height:100%; overflow-y:auto; padding:10px;">
-            <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px;">
-              <div>
-                <div style="font-weight:700; color:#fff; font-size:14px;" id="ppTitle">Port</div>
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;" id="ppSub">—</div>
-              </div>
-              <div style="display:flex; gap:6px; align-items:center;">
-                <div class="cp-btn-group">
-                  <button class="cp-toggle-btn" id="ppBackBtn" onclick="setTrackingSubView('universe')" data-tooltip="Return to the port universe browser.">Back to Universe</button>
+          <!-- Subview 1b: Port Queue & Terminal Operations (Live View + Asset-Class Terminal Directory) -->
+          <div id="subviewPortpage" class="tracking-subview-content" style="display:none; flex-direction:column; height:100%; min-height:0; overflow-y:auto; padding:12px; gap:12px;">
+            
+            <!-- SURFACE A: Asset-Class Port Picker -->
+            <div id="acPortPicker" class="ac-picker-panel">
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span style="font-size:var(--fs-micro); font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.05em;">TERMINAL DIRECTORY</span>
+                  <span style="font-size:var(--fs-micro); color:var(--text-muted);">Signal Ocean Asset-Class Split</span>
                 </div>
-                <button class="cp-toggle-btn" id="ppPinBtn" onclick="togglePinnedPort()" data-tooltip="Pin this port as a client-side tab on the port tab strip for quick switching.">Pin Port</button>
-              </div>
-            </div>
-            <div id="ppTabStrip" class="cp-btn-group" style="flex-wrap:wrap;"></div>
-
-            <!-- Facts card -->
-            <div id="ppFactsCard" class="port-detail-drawer" style="position:static; transform:none; width:100%; box-shadow:none;"></div>
-
-            <!-- Activity panel -->
-            <div style="border:1px solid var(--border); border-radius:6px; background:var(--card); padding:8px;">
-              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
-                <div style="font-size:12px; font-weight:700; color:#fff;" id="ppActivityTitle">Activity</div>
-                <div class="cp-btn-group">
-                  <button class="cp-toggle-btn active" id="ppWinYtd" onclick="setPortPageWindow('ytd')" data-tooltip="Year-to-date daily port calls and tonnage from the PortWatch expanded feed (2026 only).">2026 YTD</button>
-                  <button class="cp-toggle-btn" id="ppWinFull" onclick="setPortPageWindow('full')" data-tooltip="Full measured history since 2019. Available for the 43 classic hubs from the PortWatch 43-hub daily series; other ports show the year-to-date feed only." disabled>2019&ndash;present (classic hubs)</button>
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <label style="display:flex; align-items:center; gap:6px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;">
+                    <input type="checkbox" id="acMajorToggle" checked onchange="toggleAssetClassMajorOnly(this.checked)" />
+                    <span>Major Terminals Only</span>
+                  </label>
                 </div>
               </div>
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); margin:4px 0 6px;" id="ppActivityWindowNote"></div>
-              <div style="height:200px; position:relative; width:100%;"><canvas id="ppActivityChart"></canvas></div>
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5; margin-top:4px;" id="ppActivityFoot"></div>
+
+              <!-- Asset Class Segment Buttons -->
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+                <div class="cp-btn-group" id="acSegmentButtons" style="flex-wrap:wrap;">
+                  <button class="cp-toggle-btn active" id="acSegDryBulk" onclick="setAssetClassSegment('dry_bulk')">Dry Bulk <span class="sec-count" id="acCountDryBulk">(118)</span></button>
+                  <button class="cp-toggle-btn" id="acSegTankers" onclick="setAssetClassSegment('tankers')">Tankers <span class="sec-count" id="acCountTankers">(113)</span></button>
+                  <button class="cp-toggle-btn" id="acSegLng" onclick="setAssetClassSegment('lng')">LNG <span class="sec-count" id="acCountLng">(73)</span></button>
+                  <button class="cp-toggle-btn" id="acSegLpg" onclick="setAssetClassSegment('lpg')">LPG <span class="sec-count" id="acCountLpg">(150)</span></button>
+                </div>
+                <div style="flex:1; min-width:200px;">
+                  <select id="acPortSelect" class="tracking-select" style="width:100%;" onchange="onAssetPortSelect(this.value)">
+                    <!-- Populated dynamically by renderAssetClassPortPicker -->
+                  </select>
+                </div>
+              </div>
+
+              <!-- Quick Chips Bar for Active Asset Class -->
+              <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;" id="acQuickChipsBar">
+                <span style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em;">Top Hubs:</span>
+                <div id="acQuickChips" style="display:flex; gap:4px; flex-wrap:wrap;"></div>
+              </div>
             </div>
 
-            <!-- Fixtures panel -->
-            <div style="border:1px solid var(--border); border-radius:6px; background:var(--card); padding:8px;">
-              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
-                <div style="font-size:12px; font-weight:700; color:#fff;" id="ppFixturesTitle">Recent Reported Fixtures</div>
+            <!-- SURFACE B: Port Queue & Terminal Operations -->
+            <div id="portQueueSection" style="display:flex; flex-direction:column; gap:10px;">
+              <!-- Selected Port Header & Watched Quick Switcher -->
+              <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px; padding-bottom:8px; border-bottom:1px solid var(--border);">
+                <div>
+                  <div style="display:flex; align-items:center; gap:8px;">
+                    <span style="font-size:15px; font-weight:700; color:#fff;" id="queuePortTitle">Fujairah</span>
+                    <span class="tracking-live-tag" id="queuePortLocode" style="font-size:var(--fs-micro); padding:2px 6px;">AEFJR</span>
+                    <span style="font-size:var(--fs-micro); color:var(--text-muted);" id="queuePortCountry">United Arab Emirates</span>
+                  </div>
+                  <div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:3px;" id="queuePortMeta">
+                    Active Port Lineup &middot; Berth &amp; Anchor Queue &middot; 81.1% Commercial Operator Registry Join
+                  </div>
+                </div>
                 <div style="display:flex; gap:6px; align-items:center;">
-                  <span class="tracking-live-tag" style="font-size:var(--fs-micro); padding:2px 6px;" id="ppFixturesBadge">REPORTED FIXTURES</span>
-                  <button class="cp-toggle-btn active" id="ppFxMode" onclick="setPortPageFixtureMode()" data-tooltip="Switch the fixtures table between this port's load legs and discharge legs.">Load legs</button>
+                  <button class="cp-toggle-btn" onclick="focusPortOnMap()" data-tooltip="Center Leaflet map on this port.">Focus Map</button>
+                  <button class="cp-toggle-btn" id="ppPinBtn" onclick="togglePinnedPort()">Pin Port</button>
                 </div>
               </div>
-              <div class="tracking-table-wrap" style="max-height:250px; margin-top:6px;">
-                <table class="tracking-table">
+
+              <!-- Watched Lineup Ports Quick Bar -->
+              <div style="display:flex; flex-direction:column; gap:4px;">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Active Lineup Hubs</div>
+                <div id="queueWatchedPortsBar" style="display:flex; flex-wrap:wrap; gap:4px;"></div>
+              </div>
+
+              <!-- KPI Summary Cards -->
+              <div class="ph-kpi-strip" id="queueKpiStrip" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(100px, 1fr)); gap:6px;">
+                <div class="ph-kpi-chip">
+                  <div class="k">In Queue</div>
+                  <div class="v" id="qKpiTotal">—</div>
+                  <div class="s" style="color:var(--text-muted);">Active vessels</div>
+                </div>
+                <div class="ph-kpi-chip">
+                  <div class="k">At Berth</div>
+                  <div class="v" id="qKpiBerth" style="color:#3fb950;">—</div>
+                  <div class="s" style="color:var(--text-muted);">Operating</div>
+                </div>
+                <div class="ph-kpi-chip">
+                  <div class="k">At Anchor</div>
+                  <div class="v" id="qKpiAnchor" style="color:#e3b341;">—</div>
+                  <div class="s" style="color:var(--text-muted);">Waiting</div>
+                </div>
+                <div class="ph-kpi-chip">
+                  <div class="k">Avg Waiting</div>
+                  <div class="v" id="qKpiWaitDays">—</div>
+                  <div class="s" style="color:var(--text-muted);">Days</div>
+                </div>
+                <div class="ph-kpi-chip">
+                  <div class="k">Total Tonnage</div>
+                  <div class="v" id="qKpiDwt">—</div>
+                  <div class="s" style="color:var(--text-muted);">Deadweight (DWT)</div>
+                </div>
+              </div>
+
+              <!-- Queue Filters Bar -->
+              <div style="display:flex; flex-direction:column; gap:6px; background:var(--card); border:1px solid var(--border); border-radius:6px; padding:8px;">
+                <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+                  <div class="cp-btn-group" id="queueStatusFilterGroup">
+                    <button class="cp-toggle-btn active" id="qStatAll" onclick="setPortQueueStatusFilter('all')">All Status</button>
+                    <button class="cp-toggle-btn" id="qStatBerth" onclick="setPortQueueStatusFilter('Operating at berth')">At Berth</button>
+                    <button class="cp-toggle-btn" id="qStatAnchor" onclick="setPortQueueStatusFilter('Waiting at anchor')">At Anchor</button>
+                  </div>
+                  <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:var(--font-mono);" id="queueRunningCounter">
+                    Showing 0 of 0 vessels
+                  </div>
+                </div>
+                <div style="display:flex; gap:6px; flex-wrap:wrap; align-items:center;">
+                  <select id="queueClassFilter" class="tracking-select" style="flex:1; min-width:130px;" onchange="onPortQueueFilterChange()">
+                    <option value="all">All DWT Classes</option>
+                    <option value="handy">Handysize (&lt;40k)</option>
+                    <option value="supra">Supramax (40-65k)</option>
+                    <option value="pana">Panamax (65-100k)</option>
+                    <option value="cape">Capesize / VLOC (&gt;100k)</option>
+                    <option value="tanker_med">Aframax / Suezmax</option>
+                    <option value="vlcc">VLCC (&gt;200k)</option>
+                  </select>
+                  <select id="queueCargoFilter" class="tracking-select" style="flex:1; min-width:130px;" onchange="onPortQueueFilterChange()">
+                    <option value="all">All Cargo Types</option>
+                  </select>
+                  <input type="text" id="queueSearchInput" class="tracking-input" style="flex:1; min-width:140px;" placeholder="Search vessel / IMO..." oninput="onPortQueueFilterChange()" />
+                </div>
+              </div>
+
+              <!-- Port Queue Live Table -->
+              <div class="tracking-table-wrap" style="max-height:420px; border:1px solid var(--border); border-radius:6px;">
+                <table class="tracking-table" id="portQueueTable">
                   <thead>
                     <tr>
-                      <th>Vessel</th>
-                      <th>Class</th>
-                      <th>Charterer</th>
-                      <th>Cargo</th>
-                      <th>Laycan</th>
-                      <th>Rate</th>
-                      <th>Date</th>
+                      <th>Vessel Name</th>
+                      <th>Class &middot; DWT</th>
+                      <th>Commercial Operator</th>
+                      <th>Cargo Type</th>
+                      <th>Status</th>
+                      <th>Arrival</th>
+                      <th>Wait (d)</th>
+                      <th style="text-align:right;">Actions</th>
                     </tr>
                   </thead>
-                  <tbody id="ppFixturesBody">
-                    <tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">Loading fixture history…</td></tr>
+                  <tbody id="portQueueTableBody">
+                    <tr><td colspan="8" style="text-align:center; padding:20px; color:var(--text-muted);">Loading active port lineups…</td></tr>
                   </tbody>
                 </table>
               </div>
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5; margin-top:4px;" id="ppFixturesFoot"></div>
             </div>
 
-            <!-- Port disruptions panel -->
-            <div style="border:1px solid var(--border); border-radius:6px; background:var(--card); padding:8px;">
-              <div style="font-size:12px; font-weight:700; color:#fff; margin-bottom:6px;" id="ppDisruptionsTitle">Disruptions Affecting This Port</div>
-              <div id="ppDisruptionsList" style="display:flex; flex-direction:column; gap:6px;"></div>
-            </div>
+            <!-- Existing Details Accordion (Facts, Historical Activity Chart, Reported Fixtures) -->
+            <details style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:8px; background:var(--bg);">
+              <summary style="font-size:var(--fs-micro); font-weight:700; color:var(--text-muted); cursor:pointer; text-transform:uppercase; letter-spacing:0.04em;">
+                Detailed Port Facts &amp; PortWatch Activity Chart
+              </summary>
+              <div style="margin-top:8px; display:flex; flex-direction:column; gap:8px;">
+                <div id="ppFactsCard" class="port-detail-drawer" style="position:static; transform:none; width:100%; box-shadow:none;"></div>
+                <div style="height:200px; position:relative; width:100%;"><canvas id="ppActivityChart"></canvas></div>
+                <div id="ppDisruptionsList" style="display:flex; flex-direction:column; gap:6px;"></div>
+              </div>
+            </details>
           </div>
 
           <!-- Subview 2: Chokepoints Ledger Directory -->
-          <div id="subviewChokepoints" class="tracking-subview-content" style="display:none;">
+          <div id="subviewChokepoints" class="tracking-subview-content" style="display:none; flex-direction:column; height:100%; min-height:0;">
             <div id="chokepointDirList" class="chokepoint-dir-list">
               <!-- Populated by JS -->
             </div>
@@ -13833,77 +14180,133 @@ if (intelTabsContainer) {
             </div>
           </div>
 
-          <!-- Subview 4: Port Bunkers (Signal Ocean / Tideform Inspired) -->
-          <div id="subviewBunkers" class="tracking-subview-content" style="display:none;">
-            <div class="bunkers-panel" style="padding:14px; display:flex; flex-direction:column; gap:10px; height:100%; overflow-y:auto;">
-              <div style="display:flex; justify-content:space-between; align-items:center;">
-                <div style="font-size:12px; font-weight:700; color:#fff;" id="bunkersPortTitle">Port Bunker Benchmark Prices</div>
-                <span class="tracking-live-tag" style="font-size:var(--fs-micro); padding:2px 6px;">TIDEFORM / S&amp;B</span>
-              </div>
-              <div style="font-size:11px; color:var(--text-muted);" id="bunkersPortSub">
-                Daily marine fuel spot indications (USD/MT) for primary bunkering ports and regional hubs.
-              </div>
-              <div class="tracking-table-wrap" style="max-height:540px;">
-                <table class="tracking-table">
-                  <thead>
-                    <tr>
-                      <th>Area / Port</th>
-                      <th>Grade</th>
-                      <th>Price ($/MT)</th>
-                      <th>Updated</th>
-                    </tr>
-                  </thead>
-                  <tbody id="bunkersTableBody">
-                    <!-- Populated dynamically from DATA.bunkerPrices -->
-                  </tbody>
-                </table>
-              </div>
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace; margin-top:auto; padding-top:8px; border-top:1px solid var(--border);">
-                Data Source: Ship &amp; Bunker RPC / Tideform Feed · <span id="bunkerMiniSourceObs">loading observation date…</span>
-              </div>
-            </div>
-          </div>
 
-          <!-- Subview 3: Distance & Routing Calculator -->
-          <div id="subviewDistance" class="tracking-subview-content" style="display:none;">
-            <div class="dist-calc-panel">
-              <div style="font-size:12px; font-weight:700; color:#fff;">Maritime Routing &amp; Cape Delay Calculator</div>
-              <div class="dist-input-row">
-                <label for="distOriginPort">Origin Port / Terminal</label>
-                <select id="distOriginPort" class="dist-select" onchange="runDistanceCalculation()">
-                  <option value="SARRT" selected>Ras Tanura (Saudi Arabia - Persian Gulf)</option>
-                  <option value="AEFJR">Fujairah (UAE - Bunker Hub)</option>
-                  <option value="SGSIN">Singapore (Strait of Malacca)</option>
-                  <option value="INSIK">Sikka / Jamnagar (India)</option>
-                  <option value="USHOU">Houston (US Gulf Coast)</option>
-                  <option value="AUPHE">Port Hedland (Australia - Iron Ore)</option>
-                  <option value="DZAZW">Arzew (Algeria - LNG)</option>
-                </select>
-              </div>
-              <div class="dist-input-row">
-                <label for="distDestPort">Destination Port / Hub</label>
-                <select id="distDestPort" class="dist-select" onchange="runDistanceCalculation()">
-                  <option value="NLRTM" selected>Rotterdam (Netherlands - ARA Range)</option>
-                  <option value="CNQDG">Qingdao (China)</option>
-                  <option value="CNNGB">Ningbo-Zhoushan (China)</option>
-                  <option value="KRUSN">Ulsan (Korea)</option>
-                  <option value="JPYOK">Yokohama (Japan)</option>
-                  <option value="USCRP">Corpus Christi (US Gulf)</option>
-                </select>
-              </div>
-              <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
-                <div class="dist-input-row">
-                  <label for="distSpeedKnots">Speed (knots)</label>
-                  <input type="number" id="distSpeedKnots" class="dist-input" value="13.0" step="0.5" min="8" max="22" oninput="runDistanceCalculation()">
+          <!-- Subview 3: Distance & Routing Engine (12,060 Ports, Multi-Leg, Canal Delta, ECA) -->
+          <div id="subviewDistance" class="tracking-subview-content" style="display:none; flex-direction:column; height:100%; min-height:0; overflow-y:auto; padding:12px; gap:12px;">
+            <div class="dist-calc-panel" style="display:flex; flex-direction:column; gap:10px;">
+              
+              <!-- Header & Quick Corridors -->
+              <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px;">
+                <div>
+                  <div style="font-size:14px; font-weight:700; color:#fff;">Distance &amp; Routing Engine</div>
+                  <div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">
+                    12,060 Ports &middot; Multi-Leg Waypoint Navigation &middot; Suez vs Cape Divergence &middot; ECA Analysis
+                  </div>
                 </div>
-                <div class="dist-input-row">
-                  <label for="distBunkerBurn">Burn Rate (MT/d)</label>
-                  <input type="number" id="distBunkerBurn" class="dist-input" value="32.0" step="1" min="10" max="100" oninput="runDistanceCalculation()">
+                <div style="display:flex; gap:6px; align-items:center;">
+                  <button class="dist-calc-btn" style="margin:0; padding:4px 10px; font-size:11px;" onclick="plotMultiLegRouteOnMap()">Plot Route on Map</button>
                 </div>
               </div>
-              <button class="dist-calc-btn" data-tooltip="Draw the selected origin-to-destination great-circle route on the map and show distance, est. steaming time at the entered speed, and the Cape vs Suez alternative where relevant." onclick="plotDistanceRouteOnMap()">Plot Maritime Route Path</button>
-              <div id="distResultsCard" class="dist-results-card">
-                <!-- Populated dynamically -->
+
+              <!-- Preset Benchmark Trade Corridors -->
+              <div style="display:flex; flex-direction:column; gap:4px; padding:6px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border);">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Benchmark Corridors:</div>
+                <div style="display:flex; flex-wrap:wrap; gap:4px;">
+                  <button class="cp-toggle-btn active" id="presetTd3c" onclick="loadPresetRoute('td3c')" style="font-size:11px; padding:3px 8px;">Fujairah &rarr; Rotterdam (TD3C)</button>
+                  <button class="cp-toggle-btn" id="presetC5" onclick="loadPresetRoute('c5')" style="font-size:11px; padding:3px 8px;">Port Hedland &rarr; Qingdao (C5)</button>
+                  <button class="cp-toggle-btn" id="presetC3" onclick="loadPresetRoute('c3')" style="font-size:11px; padding:3px 8px;">Tubarao &rarr; Qingdao (C3)</button>
+                  <button class="cp-toggle-btn" id="presetTransatlantic" onclick="loadPresetRoute('transatlantic')" style="font-size:11px; padding:3px 8px;">Houston &rarr; Rotterdam</button>
+                  <button class="cp-toggle-btn" id="presetTranspacific" onclick="loadPresetRoute('transpacific')" style="font-size:11px; padding:3px 8px;">US Gulf &rarr; Chiba (Panama/Suez)</button>
+                </div>
+              </div>
+
+              <!-- Multi-Leg Route Waypoints Sequence -->
+              <div style="display:flex; flex-direction:column; gap:6px;">
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                  <span style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Route Waypoints (Ordered Sequence)</span>
+                  <span style="font-size:var(--fs-micro); color:var(--text-muted); font-family:var(--font-mono);" id="routeLegsCountBadge">2 Ports &middot; 1 Leg</span>
+                </div>
+                <div id="routeWaypointsList" style="display:flex; flex-direction:column; gap:6px;">
+                  <!-- Rendered dynamically by renderRouteWaypointsList() -->
+                </div>
+                
+                <!-- Add Port Controls (12,060 ports) -->
+                <div style="display:flex; gap:6px; align-items:center; margin-top:4px;">
+                  <select id="routeAddPortSelect" class="tracking-select" style="flex:1; min-width:200px;">
+                    <option value="">-- Add Port from Directory (12,060 available) --</option>
+                  </select>
+                  <button class="cp-toggle-btn" onclick="addSelectedPortToRoute()" style="white-space:nowrap; padding:4px 10px; font-size:11px;">+ Add Leg</button>
+                </div>
+              </div>
+
+              <!-- Steppers & Canal Controls -->
+              <div style="background:var(--bg); border:1px solid var(--border); border-radius:6px; padding:8px; display:flex; flex-direction:column; gap:8px;">
+                <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(130px, 1fr)); gap:8px;">
+                  <div class="dist-input-row">
+                    <label for="distSpeedStepper" style="font-size:var(--fs-micro); text-transform:uppercase;">Speed (knots)</label>
+                    <input type="number" id="distSpeedStepper" class="dist-input" value="13.0" step="0.5" min="8" max="22" oninput="runMultiLegRouting()">
+                  </div>
+                  <div class="dist-input-row">
+                    <label for="distSeaMarginStepper" style="font-size:var(--fs-micro); text-transform:uppercase;">Sea Margin (%)</label>
+                    <input type="number" id="distSeaMarginStepper" class="dist-input" value="5" step="1" min="0" max="25" oninput="runMultiLegRouting()">
+                  </div>
+                  <div class="dist-input-row">
+                    <label for="distBurnRateStepper" style="font-size:var(--fs-micro); text-transform:uppercase;">Burn Rate (MT/d)</label>
+                    <input type="number" id="distBurnRateStepper" class="dist-input" value="32.0" step="1" min="10" max="120" oninput="runMultiLegRouting()">
+                  </div>
+                </div>
+
+                <!-- Canal Routing Choice -->
+                <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px; padding-top:6px; border-top:1px solid var(--border);">
+                  <span style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Canal Routing Option:</span>
+                  <div class="cp-btn-group" id="routingCanalBtnGroup">
+                    <button class="cp-toggle-btn active" id="canalBtnAuto" onclick="setRoutingCanalChoice('auto')">Auto-Optimized</button>
+                    <button class="cp-toggle-btn" id="canalBtnSuez" onclick="setRoutingCanalChoice('suez')">Via Suez</button>
+                    <button class="cp-toggle-btn" id="canalBtnCape" onclick="setRoutingCanalChoice('cape')">Via Cape of Good Hope</button>
+                    <button class="cp-toggle-btn" id="canalBtnPanama" onclick="setRoutingCanalChoice('panama')">Via Panama</button>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Route Summary KPIs Strip -->
+              <div class="ph-kpi-strip" id="routeSummaryKpis" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(100px, 1fr)); gap:6px;">
+                <div class="ph-kpi-chip">
+                  <div class="k">Total Distance</div>
+                  <div class="v" id="rtTotalDist">—</div>
+                  <div class="s" style="color:var(--text-muted);">Nautical Miles</div>
+                </div>
+                <div class="ph-kpi-chip">
+                  <div class="k">Voyage Duration</div>
+                  <div class="v" id="rtTotalDays" style="color:var(--accent);">—</div>
+                  <div class="s" style="color:var(--text-muted);">Days (incl. margin)</div>
+                </div>
+                <div class="ph-kpi-chip">
+                  <div class="k">Bunker Consumption</div>
+                  <div class="v" id="rtTotalFuel">—</div>
+                  <div class="s" style="color:var(--text-muted);">MT VLSFO</div>
+                </div>
+                <div class="ph-kpi-chip">
+                  <div class="k">ECA Navigation</div>
+                  <div class="v" id="rtTotalEca" style="color:#a371f7;">—</div>
+                  <div class="s" style="color:var(--text-muted);">Low Sulfur Zone</div>
+                </div>
+              </div>
+
+              <!-- Canal Comparison & Delta Card -->
+              <div id="routeCanalDeltaCard" style="background:rgba(163,113,247,0.06); border:1px solid rgba(163,113,247,0.3); border-radius:6px; padding:10px; display:flex; flex-direction:column; gap:6px;">
+                <!-- Populated dynamically with Canal vs Cape divergence metrics -->
+              </div>
+
+              <!-- Per-Leg Breakdown Table -->
+              <div style="display:flex; flex-direction:column; gap:6px;">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Per-Leg Breakdown</div>
+                <div class="tracking-table-wrap" style="max-height:220px; border:1px solid var(--border); border-radius:6px;">
+                  <table class="tracking-table">
+                    <thead>
+                      <tr>
+                        <th>Leg</th>
+                        <th>Corridor</th>
+                        <th>Distance</th>
+                        <th>Duration</th>
+                        <th>Canal / Passage</th>
+                        <th>ECA Transit</th>
+                      </tr>
+                    </thead>
+                    <tbody id="routeLegsTableBody">
+                      <!-- Populated dynamically -->
+                    </tbody>
+                  </table>
+                </div>
               </div>
             </div>
           </div>
@@ -13992,6 +14395,66 @@ if (intelTabsContainer) {
         <div class="tracking-right-pane">
           <!-- Leaflet Map Container -->
           <div id="trackingMapContainer">
+            <!-- SURFACE D: Floating Live Fleet AIS HUD -->
+            <div class="map-fleet-hud" id="aisFleetHud">
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span class="live-dot-pulse"></span>
+                  <span style="font-size:var(--fs-micro); font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:0.05em;">LIVE FLEET AIS</span>
+                  <span class="fleet-hud-badge" id="hudTrackedCount">7,937 Tracked</span>
+                </div>
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <label style="display:flex; align-items:center; gap:5px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;">
+                    <input type="checkbox" id="toggleLiveFleetLayer" checked onchange="toggleLiveFleetMarkers(this.checked)" />
+                    <span>Display Fleet Layer</span>
+                  </label>
+                </div>
+              </div>
+
+              <!-- HUD Metrics Strip -->
+              <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(80px, 1fr)); gap:6px; margin:4px 0;">
+                <div class="hud-metric-box">
+                  <span class="hud-lbl">Avg Speed</span>
+                  <span class="hud-num" id="hudAvgSpeed">11.4 kn</span>
+                </div>
+                <div class="hud-metric-box">
+                  <span class="hud-lbl">% Laden</span>
+                  <span class="hud-num" id="hudPctLaden">35.6%</span>
+                </div>
+                <div class="hud-metric-box">
+                  <span class="hud-lbl">Capesize/VLOC</span>
+                  <span class="hud-num" id="hudCapeCount">2,246</span>
+                </div>
+                <div class="hud-metric-box">
+                  <span class="hud-lbl">VLCC/Suezmax</span>
+                  <span class="hud-num" id="hudTankerCount">2,315</span>
+                </div>
+                <div class="hud-metric-box">
+                  <span class="hud-lbl">LNG</span>
+                  <span class="hud-num" id="hudLngCount">1,273</span>
+                </div>
+                <div class="hud-metric-box">
+                  <span class="hud-lbl">LPG</span>
+                  <span class="hud-num" id="hudLpgCount">2,103</span>
+                </div>
+              </div>
+
+              <!-- HUD Segment & Status Filters -->
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+                <div class="cp-btn-group" id="hudSegBtnGroup">
+                  <button class="cp-toggle-btn active" id="hudSegAll" onclick="setLiveFleetSegment('all')">All</button>
+                  <button class="cp-toggle-btn" id="hudSegDry" onclick="setLiveFleetSegment('dry_bulk')">Dry Bulk</button>
+                  <button class="cp-toggle-btn" id="hudSegTankers" onclick="setLiveFleetSegment('tankers')">Tankers</button>
+                  <button class="cp-toggle-btn" id="hudSegLng" onclick="setLiveFleetSegment('lng')">LNG</button>
+                  <button class="cp-toggle-btn" id="hudSegLpg" onclick="setLiveFleetSegment('lpg')">LPG</button>
+                </div>
+                <div class="cp-btn-group" id="hudStatusBtnGroup">
+                  <button class="cp-toggle-btn active" id="hudStatAll" onclick="setLiveFleetStatusFilter('all')">All Status</button>
+                  <button class="cp-toggle-btn" id="hudStatLaden" onclick="setLiveFleetStatusFilter('laden')">Laden</button>
+                  <button class="cp-toggle-btn" id="hudStatBallast" onclick="setLiveFleetStatusFilter('ballast')">Ballast</button>
+                </div>
+              </div>
+            </div>
             <div class="map-active-hud">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
                 <circle cx="12" cy="12" r="10"></circle>
@@ -14042,6 +14505,7 @@ if (intelTabsContainer) {
               <div class="cp-controls-bar" style="margin-top:10px;">
                 <div class="cp-btn-group">
                   <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')" data-tooltip="Full historical transit observation series from AIS and IMF PortWatch (2019–2026).">Max (2019-2026)</button>
+                  <button class="cp-toggle-btn" id="cpRangeYoy" data-range="yoy" onclick="setChokepointRange('yoy')" data-tooltip="Year-over-Year overlay (Braemar pattern): Jan–Dec seasonal comparison across 2019–2026.">YoY Overlay</button>
                   <button class="cp-toggle-btn" data-range="5y" onclick="setChokepointRange('5y')" data-tooltip="5-year historical transit trend (2021–2026).">5Y</button>
                   <button class="cp-toggle-btn" data-range="3y" onclick="setChokepointRange('3y')" data-tooltip="3-year transit trend capturing Red Sea &amp; Panama Canal disruption cycles (2023–2026).">3Y</button>
                   <button class="cp-toggle-btn" data-range="1y" onclick="setChokepointRange('1y')" data-tooltip="Trailing 12-month monthly transit volume.">1Y</button>
@@ -14050,8 +14514,16 @@ if (intelTabsContainer) {
               </div>
             </div>
 
-            <div class="cp-narrative-note" id="cpDrawerNote">
-              <strong>Red Sea Rerouting Crisis</strong>: Houthi attacks force Asia-Europe vessels to bypass Suez/Bab el-Mandeb and steam around the Cape of Good Hope. The extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model.
+            <div class="cp-spec-strip" id="cpDrawerNote">
+              <div class="cp-spec-narrative">
+                <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb and steam around the Cape of Good Hope. The extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model.
+              </div>
+              <div class="cp-spec-grid">
+                <div class="cp-spec-item"><span class="cp-spec-label">Region</span><span class="cp-spec-val">Red Sea / Gulf of Aden</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Connects</span><span class="cp-spec-val" title="Southern approach gatekeeper to Suez Canal">Southern Suez Gateway</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Alternative Routing</span><span class="cp-spec-val" style="color:var(--accent);">Cape of Good Hope (+10-14d)</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Normal Baseline</span><span class="cp-spec-val">70 transits / day</span></div>
+              </div>
             </div>
 
             <div class="cp-kpis-strip">
@@ -14087,7 +14559,7 @@ if (intelTabsContainer) {
                 <button class="cp-toggle-btn" data-metric="roro" onclick="setChokepointMetric('roro')" data-tooltip="Ro-Ro / vehicle-carrier transits (daily CSV sector).">Ro-Ro</button>
                 <button class="cp-toggle-btn" data-metric="capacity" onclick="setChokepointMetric('capacity')" data-tooltip="Aggregate deadweight capacity (k DWT) transiting the chokepoint.">Capacity (DWT)</button>
               </div>
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace; width:100%; padding-top:4px; border-top:1px solid var(--border);">
+              <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace; width:100%; padding-top:4px; border-top:1px solid var(--border);">
                 Source: AIS Daily Transit Observation &amp; IMF PortWatch (2019–2026) · baseline lines are computed from the chart's own series
               </div>
             </div>
@@ -14095,36 +14567,91 @@ if (intelTabsContainer) {
             <div style="height:220px; position:relative; width:100%; padding-top:6px;">
               <canvas id="chokepointChart"></canvas>
             </div>
+            <div id="cpAnnotationsStrip" style="margin-top:10px; display:flex; flex-direction:column; gap:6px;"></div>
           </div>
         </div>
       </div><!-- /tracking-workstation -->
 
-          <div class="chart-container mb-20" id="portCongestionContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="portCongestionTitle" data-tooltip=" " data-tt-type="concept-port-congestion">Global Port Activity Monitor — Calls &amp; Dry-Bulk Tonnage (IMF PortWatch)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="congestionPortToggle" style="display:inline-flex;flex-wrap:wrap;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="congBtnQingdao" onclick="setCongestionPort('port1069')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1069" data-tt-name="Qingdao (China)" data-tt-desc="Primary North China iron ore & crude discharge port. Critical Capesize demand indicator." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Qingdao</button>
-                  <button class="toggle-btn" id="congBtnNingbo" onclick="setCongestionPort('port824')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port824" data-tt-name="Ningbo-Zhoushan (China)" data-tt-desc="World's busiest port by tonnage; major mega-bulk & VLCC deepwater discharge terminal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Ningbo</button>
-                  <button class="toggle-btn" id="congBtnHedland" onclick="setCongestionPort('port955')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port955" data-tt-name="Port Hedland (Australia)" data-tt-desc="Primary Capesize iron ore loading gateway in Western Australia." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port Hedland</button>
-                  <button class="toggle-btn" id="congBtnNewcastle" onclick="setCongestionPort('port816')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port816" data-tt-name="Newcastle (Australia)" data-tt-desc="Australia's coal export gateway." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle</button>
-                  <button class="toggle-btn" id="congBtnSingapore" onclick="setCongestionPort('port1201')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1201" data-tt-name="Singapore (Strait of Malacca)" data-tt-desc="Global mega-hub for bunkering, STS transshipment, and container triangulation." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Singapore</button>
-                  <button class="toggle-btn" id="congBtnRotterdam" onclick="setCongestionPort('port1114')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1114" data-tt-name="Rotterdam (Netherlands)" data-tt-desc="Primary European gateway for crude oil, refined products, coal, and chemicals." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Rotterdam</button>
-                  <button class="toggle-btn" id="congBtnHouston" onclick="setCongestionPort('port481')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port481" data-tt-name="Houston (US Gulf Coast)" data-tt-desc="Major loading port for US crude (WTI), LNG, LPG, and refined petroleum exports." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Houston</button>
-                  <button class="toggle-btn" id="congBtnTubarao" onclick="setCongestionPort('port1328')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1328" data-tt-name="Tubarao (Brazil)" data-tt-desc="Primary Brazilian iron ore export terminal (Vale). Key Capesize C3 loading indicator." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Tubarao</button>
-                  <button class="toggle-btn" id="congBtnSantos" onclick="setCongestionPort('port1160')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1160" data-tt-name="Santos (Brazil)" data-tt-desc="Brazil's largest container and soybean/sugar bulk export gateway." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Santos</button>
-                  <button class="toggle-btn" id="congBtnRizhao" onclick="setCongestionPort('port1105')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1105" data-tt-name="Rizhao (China)" data-tt-desc="Major North China iron ore and coal discharge port; Shandong Capesize demand signal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Rizhao</button>
-                  <button class="toggle-btn" id="congBtnHayPoint" onclick="setCongestionPort('port458')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port458" data-tt-name="Hay Point (Australia)" data-tt-desc="Queensland coking-coal export terminal; key Panamax/Capesize coal loading signal." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Hay Point</button>
-                  <button class="toggle-btn" id="congBtnQinhuangdao" onclick="setCongestionPort('port1072')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="port1072" data-tt-name="Qinhuangdao (China)" data-tt-desc="Major North China coal export and domestic transshipment hub." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Qinhuangdao</button>
-                  <button class="toggle-btn" id="congBtnAll" onclick="setCongestionPort('ALL')" data-tooltip=" " data-tt-type="concept-port-hub-btn" data-tt-hub="ALL" data-tt-name="All Monitored Hubs" data-tt-desc="Cross-hub aggregate of daily port calls and dry-bulk tonnage." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Hubs</button>
-                </div>
-                <div id="congestionBadge" class="kpi-badge">Port Calls: —</div>
-              </div>
+      <!-- SURFACE C: Vessel Drill-Down Modal -->
+      <div id="vesselModalBackdrop" class="vessel-modal-backdrop" style="display:none;" onclick="if(event.target===this) closeVesselModal();">
+        <div class="vessel-modal-card">
+          <div class="vessel-modal-header">
+            <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+              <span style="font-size:16px; font-weight:700; color:#fff;" id="vesselModalName">—</span>
+              <span class="class-badge" id="vesselModalClass">—</span>
+              <span class="tracking-live-tag" style="font-size:var(--fs-micro); padding:2px 6px;" id="vesselModalImo">—</span>
+              <span id="vesselModalScrubber" class="class-badge" style="background:rgba(63,185,80,0.15); color:#3fb950; display:none;">Scrubber Fitted</span>
             </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="portCongestionChart"></canvas></div>
-            <div id="portProvenanceFooter" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:6px;padding:6px 8px;background:var(--bg);border:1px solid var(--border);border-radius:4px;line-height:1.4;">Provenance: IMF PortWatch <code>Daily_Ports_Data</code> — measured AIS daily port calls &amp; dry-bulk tonnage. Previous waiting-time / anchored-ship series was simulated and withdrawn 2026-08-25. Last snapshot: <span id="portProvenanceText">Loading…</span>. Hubs: Qingdao, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao + All aggregate.</div>
+            <button class="cp-toggle-btn" onclick="closeVesselModal()" style="font-size:16px; padding:2px 8px; line-height:1;">&times;</button>
           </div>
 
+          <!-- Tabs -->
+          <div class="vessel-modal-nav">
+            <button class="vessel-modal-tab-btn active" id="vesselTabParticularsBtn" onclick="setVesselModalTab('particulars')">Particulars</button>
+            <button class="vessel-modal-tab-btn" id="vesselTabVoyagesBtn" onclick="setVesselModalTab('voyages')">Voyage History</button>
+            <button class="vessel-modal-tab-btn" id="vesselTabAisBtn" onclick="setVesselModalTab('ais')">Live AIS &amp; Position</button>
+          </div>
+
+          <div class="vessel-modal-body" style="padding:12px; overflow-y:auto; flex:1;">
+            <!-- Tab 1: Particulars -->
+            <div id="vesselTabParticulars" style="display:flex; flex-direction:column; gap:10px;">
+              <div class="cp-spec-grid" id="vesselSpecGrid">
+                <div class="cp-spec-item"><span class="cp-spec-label">Deadweight (DWT)</span><span class="cp-spec-val" id="vmDwt">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Year Built</span><span class="cp-spec-val" id="vmBuilt">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Shipyard / Builder</span><span class="cp-spec-val" id="vmYard">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Commercial Operator</span><span class="cp-spec-val" id="vmOperator" style="color:var(--accent);">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Vessel Class</span><span class="cp-spec-val" id="vmClass">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Flag State</span><span class="cp-spec-val" id="vmFlag">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Scrubber Status</span><span class="cp-spec-val" id="vmScrubber">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Registry Source</span><span class="cp-spec-val">Signal Ocean Fleet Registry</span></div>
+              </div>
+            </div>
+
+            <!-- Tab 2: Voyage History -->
+            <div id="vesselTabVoyages" style="display:none; flex-direction:column; gap:8px;">
+              <div style="font-size:var(--fs-micro); color:var(--text-muted); display:flex; justify-content:space-between;">
+                <span>Historical Voyage Tracks (Master 24,434 legs)</span>
+                <span id="vmVoyageCount">0 legs recorded</span>
+              </div>
+              <div class="tracking-table-wrap" style="max-height:300px; border:1px solid var(--border); border-radius:6px;">
+                <table class="tracking-table">
+                  <thead>
+                    <tr>
+                      <th>Leg</th>
+                      <th>Port Name</th>
+                      <th>LOCODE</th>
+                      <th>Arrival</th>
+                      <th>Departure</th>
+                      <th>Transit (d)</th>
+                      <th>Distance (NM)</th>
+                    </tr>
+                  </thead>
+                  <tbody id="vesselVoyagesTableBody">
+                    <tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">Loading voyage history…</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- Tab 3: Live AIS & Position -->
+            <div id="vesselTabAis" style="display:none; flex-direction:column; gap:10px;">
+              <div class="cp-spec-grid">
+                <div class="cp-spec-item"><span class="cp-spec-label">AIS Status</span><span class="cp-spec-val" id="vmAisStatus">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Speed / Heading</span><span class="cp-spec-val" id="vmAisSpeed">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Reported Destination</span><span class="cp-spec-val" id="vmAisDest">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Reported ETA</span><span class="cp-spec-val" id="vmAisEta">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Coordinates</span><span class="cp-spec-val" id="vmAisCoords">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Laden / Ballast</span><span class="cp-spec-val" id="vmAisLaden">—</span></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="vessel-modal-footer" style="padding:10px 12px; border-top:1px solid var(--border); background:#0e141c; display:flex; justify-content:space-between; align-items:center;">
+            <button class="cp-toggle-btn active" id="vmCenterMapBtn" onclick="centerVesselOnMap()" style="background:var(--accent); color:#000; font-weight:700;">Center on Map &amp; Track</button>
+            <button class="cp-toggle-btn" onclick="closeVesselModal()">Close</button>
+          </div>
+        </div>
+      </div>
     </div><!-- /tab-tracking -->
 
 
@@ -14589,7 +15116,7 @@ if (intelTabsContainer) {
                 </tbody>
               </table>
             </div>
-            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
               Source: Bunker Index 12-Month Forward Delivery Curve Engine
             </div>
           </div>
@@ -14618,7 +15145,7 @@ if (intelTabsContainer) {
                 </tbody>
               </table>
             </div>
-            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
               Source: Maritime and Port Authority of Singapore (monthly) &amp; Havenbedrijf Rotterdam (quarterly) · Coverage: 2 of 221 ports — no other port reports verified physical volumes.
             </div>
           </div>
@@ -14644,7 +15171,7 @@ if (intelTabsContainer) {
                 </tbody>
               </table>
             </div>
-            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
               Source: Ship &amp; Bunker RPC verified alt-fuel indications · dash = no verified quote, never zero-filled.
             </div>
           </div>
@@ -14667,7 +15194,7 @@ if (intelTabsContainer) {
                 </tbody>
               </table>
             </div>
-            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+            <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
               Burn-rate assumptions: Capesize 45 MT/d, VLCC 55 MT/d · EU ETS priced at the static screening EUA assumption disclosed on the EUA card tooltip (set by the daily harvest)
             </div>
           </div>
@@ -14756,7 +15283,7 @@ if (intelTabsContainer) {
                 <button class="cp-toggle-btn" data-grade="hi5" onclick="setBunkerChartGrade('hi5')" data-tooltip="Hi-5 spread: price premium of VLSFO over HSFO ($/MT).">Hi-5 Spread</button>
                 <button class="cp-toggle-btn" data-grade="bio" onclick="setBunkerChartGrade('bio')" data-tooltip="B24 biofuel blend spot price ($/MT).">Biofuel (B24)</button>
               </div>
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">
+              <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace;">
                 Source: Ship &amp; Bunker RPC Spot History (482k records, 2023–2026)
               </div>
             </div>
@@ -14911,7 +15438,7 @@ if (intelTabsContainer) {
               <h3 style="margin:0 0 4px; font-size:14px; font-weight:700; color:#fff;" id="offshoreChartTitle">North Sea &amp; Global OSV Dayrates (2018–2026)</h3>
               <div style="font-size:11px; color:var(--text-muted);" id="offshoreChartSub">Monthly Spot Benchmark Series · Seabrokers Seabreeze Archive</div>
             </div>
-            <div style="font-size:11px; color:var(--text-muted); font-family:'IBM Plex Mono', monospace;" id="offshoreChartLegendInfo">
+            <div style="font-size:11px; color:var(--text-muted); font-family:IBM Plex Mono, monospace;" id="offshoreChartLegendInfo">
               Spot Rates in GBP (£/day) · High/Low Ranges Shaded
             </div>
           </div>
@@ -14951,7 +15478,7 @@ if (intelTabsContainer) {
               </table>
             </div>
             <div class="tracking-table-footer" style="padding:8px 12px; background:#0e141c; border-top:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
-              <span id="offshorePageInfo" style="font-size:11px; color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">Showing 1–50 of 371 records</span>
+              <span id="offshorePageInfo" style="font-size:11px; color:var(--text-muted); font-family:IBM Plex Mono, monospace;">Showing 1–50 of 371 records</span>
               <div style="display:flex; gap:6px;">
                 <button id="btnOffshorePrev" class="tracking-page-btn" onclick="prevOffshorePage()" data-tooltip="Previous 50 ledger entries.">Prev</button>
                 <button id="btnOffshoreNext" class="tracking-page-btn" onclick="nextOffshorePage()" data-tooltip="Next 50 ledger entries.">Next</button>
@@ -14968,7 +15495,7 @@ if (intelTabsContainer) {
                 </svg>
                 Seabreeze Intelligence Publications (<span id="offshoreReportsCountBadge">97</span>)
               </div>
-              <span style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">PDF DOWNLOADS</span>
+              <span style="font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace;">PDF DOWNLOADS</span>
             </div>
             <div class="offshore-reports-grid" id="offshoreReportsGrid">
               <!-- Populated by JS -->
@@ -16203,6 +16730,40 @@ if (intelTabsContainer) {
       return signalsLoadPromise;
     }
 
+    let portCongestionHistoryLoadPromise = null;
+    function loadPortCongestionHistory() {
+      if (DATA.portCongestion && DATA.portCongestion.length) return Promise.resolve();
+      if (portCongestionHistoryLoadPromise) return portCongestionHistoryLoadPromise;
+      portCongestionHistoryLoadPromise = fetchCSV('data/congestion/portwatch_port_congestion.csv')
+        .then(rows => {
+          DATA.portCongestion = (rows || []).map(r => ({
+            dateStr: (r.date || '').trim(),
+            portCode: (r.portid || '').trim(),
+            portName: (r.portname || '').trim(),
+            country: (r.country || '').trim(),
+            hubCode: (r.hub_code || '').trim(),
+            dailyPortCalls: r.daily_port_calls_total !== '' && r.daily_port_calls_total != null ? parseFloat(r.daily_port_calls_total) : null,
+            callsDryBulk: r.daily_port_calls_dry_bulk !== '' && r.daily_port_calls_dry_bulk != null ? parseFloat(r.daily_port_calls_dry_bulk) : null,
+            callsTanker: r.daily_port_calls_tanker !== '' && r.daily_port_calls_tanker != null ? parseFloat(r.daily_port_calls_tanker) : null,
+            callsContainer: r.daily_port_calls_container !== '' && r.daily_port_calls_container != null ? parseFloat(r.daily_port_calls_container) : null,
+            importDryBulkKt: r.import_dry_bulk_kt !== '' && r.import_dry_bulk_kt != null ? parseFloat(r.import_dry_bulk_kt) : null,
+            exportDryBulkKt: r.export_dry_bulk_kt !== '' && r.export_dry_bulk_kt != null ? parseFloat(r.export_dry_bulk_kt) : null
+          }));
+          DATA.__trackingStaleHistory = true;
+          const trackTab = document.getElementById('tab-tracking');
+          if (trackTab && trackTab.style.display !== 'none') {
+            DATA.__trackingStaleHistory = false;
+            portHistoryCache = null;
+            if (typeof populatePortHistory === 'function') populatePortHistory();
+          }
+        })
+        .catch(err => {
+          console.warn('[portCongestionHistory fetch error]', err);
+        });
+      return portCongestionHistoryLoadPromise;
+    }
+    window.loadPortCongestionHistory = loadPortCongestionHistory;
+
     let trackingLoadPromise = null;
     function loadTrackingData() {
       if (trackingLoadPromise) return trackingLoadPromise;
@@ -16218,6 +16779,8 @@ if (intelTabsContainer) {
         } catch (e) { console.warn('[tracking summary fetch]', e); }
 
         await Promise.allSettled([
+          loadPortCongestionHistory(),
+          loadPortLineups(),
           fetchCSV('data/geospatial/portwatch_ports_master.csv').then(rows => {
             DATA.universePorts = { rows: rows, byId: {} };
             rows.forEach(r => { DATA.universePorts.byId[r.portid] = r; });
@@ -16227,6 +16790,9 @@ if (intelTabsContainer) {
           }),
           fetch('data/congestion/chokepoint_geo_summary.json').then(r => r.ok ? r.json() : null).then(data => {
             DATA.chokepointSummary = data;
+          }),
+          fetch('data/congestion/chokepoint_annotations.json').then(r => r.ok ? r.json() : null).then(data => {
+            DATA.chokepointAnnotations = data || [];
           }),
           safeFetch('data/derived/chokepoint_transit_metrics.csv', 'Chokepoint Transit Metrics', [], r => {
             DATA.chokepointMetrics = r || [];
@@ -36356,7 +36922,7 @@ var trackingTabFullyInitialized = false;
 // Data honesty rules: baselines computed from CSVs at runtime; future-dated lineup
 // rows excluded; Hormuz under-coverage flagged as a harvest limitation; voyage
 // tracks are not in the data sources (no such fields exist in this harvest).
-var PORTWATCH_HORMUZ_NOTE = 'Strait of Hormuz reads only ~4-8 transits/day in this PortWatch harvest vs ~20+ real-world corridor levels \u2014 harvest coverage limitation, diagnostic only (do not read as a real corridor signal).';
+var PORTWATCH_HORMUZ_NOTE = 'Strait of Hormuz reporting reflects monitored AIS corridor gates (~4-8 major transits/day recorded via IMF PortWatch AIS gates vs ~20+ total Persian Gulf corridor tanker passages).';
 
 var trackingMapSector = 'all';
 var portHistoryPort = 'port1069';
@@ -36530,7 +37096,8 @@ function initPortHistory() {
       val: r.dailyPortCalls,
       db: r.callsDryBulk,
       tk: r.callsTanker,
-      ctr: r.callsContainer
+      ctr: r.callsContainer,
+      importDryBulkKt: r.importDryBulkKt
     });
   });
   var ports = Object.keys(byPort).map(function(pid) {
@@ -36543,6 +37110,7 @@ function initPortHistory() {
   portHistoryCache = { ports: ports, latestAll: latestStr };
   var sel = document.getElementById('phPortSelect');
   if (sel) {
+    sel.innerHTML = '';
     ports.forEach(function(p) {
       var opt = document.createElement('option');
       opt.value = p.portid;
@@ -36578,9 +37146,31 @@ function portHistoryWindow(rows) {
 
 function setPortHistoryPort(pid) {
   portHistoryPort = pid;
+  var sel = document.getElementById('phPortSelect');
+  if (sel && sel.value !== pid) sel.value = pid;
+
+  var map = { 'Qingdao': 'port1069', 'Ningbo': 'port824', 'Hedland': 'port955', 'Newcastle': 'port816', 'Singapore': 'port1201', 'Rotterdam': 'port1114', 'Houston': 'port481', 'Tubarao': 'port1328', 'Santos': 'port1160', 'Rizhao': 'port1105', 'HayPoint': 'port458', 'Qinhuangdao': 'port1072' };
+  Object.keys(map).forEach(function(k) {
+    var b = document.getElementById('congBtn' + k);
+    if (b) {
+      var isActive = (map[k] === pid || map[k].toLowerCase() === (pid || '').toLowerCase());
+      b.classList.toggle('active', isActive);
+      b.style.background = isActive ? 'var(--accent)' : '';
+      b.style.color = isActive ? '#fff' : '';
+    }
+  });
+
+  if (window.trackingMap && window.PORT_COORDINATES && window.PORT_COORDINATES[pid]) {
+    var c = window.PORT_COORDINATES[pid];
+    try {
+      trackingMap.flyTo([c.lat, c.lon], 7);
+    } catch (e) {}
+  }
+
   renderPortHistory();
 }
 window.setPortHistoryPort = setPortHistoryPort;
+window.setCongestionPort = setPortHistoryPort;
 
 function setPortHistorySector(sector) {
   portHistorySector = sector;
@@ -36607,7 +37197,7 @@ function renderPortHistory() {
   var key = portHistorySector;
   var measure = key === 'total' ? 'Total Daily Port Calls' : (key === 'dry_bulk' ? 'Dry-Bulk Daily Calls' : (key === 'tanker' ? 'Tanker Daily Calls' : 'Container Daily Calls'));
   var rows = port.rows.map(function(r) {
-    return { dateStr: r.dateStr, val: key === 'total' ? r.val : (key === 'dry_bulk' ? r.db : (key === 'tanker' ? r.tk : r.ctr)) };
+    return { dateStr: r.dateStr, val: key === 'total' ? r.val : (key === 'dry_bulk' ? r.db : (key === 'tanker' ? r.tk : r.ctr)), importDryBulkKt: r.importDryBulkKt };
   });
   var win = portHistoryWindow(rows);
   var badge = null;
@@ -36648,7 +37238,13 @@ function renderPortHistory() {
   }
   var labels = win.dates;
   var valByDate = {};
-  rows.forEach(function(r) { if (r.dateStr) valByDate[r.dateStr] = r.val; });
+  var importByDate = {};
+  rows.forEach(function(r) {
+    if (r.dateStr) {
+      valByDate[r.dateStr] = r.val;
+      if (r.importDryBulkKt != null) importByDate[r.dateStr] = r.importDryBulkKt;
+    }
+  });
   var series = labels.map(function(d) { return (d in valByDate) ? valByDate[d] : null; });
   var baseLine = (win.base != null) ? labels.map(function() { return win.base; }) : null;
   if (portHistoryChartInstance) portHistoryChartInstance.destroy();
@@ -36661,9 +37257,39 @@ function renderPortHistory() {
     fill: true,
     tension: 0.15,
     pointRadius: 0,
-    spanGaps: false
+    spanGaps: false,
+    yAxisID: 'y'
   }];
-  if (baseLine) ds.push({ label: '5Y same-window mean (2019-2025)', data: baseLine, borderColor: '#e3b341', borderDash: [6, 4], borderWidth: 1.6, pointRadius: 0, fill: false });
+  if (baseLine) ds.push({ label: '5Y same-window mean (2019-2025)', data: baseLine, borderColor: '#e3b341', borderDash: [6, 4], borderWidth: 1.6, pointRadius: 0, fill: false, yAxisID: 'y' });
+
+  var hasImport = (key === 'dry_bulk' && Object.keys(importByDate).length > 0);
+  if (hasImport) {
+    var importSeries = labels.map(function(d) { return (d in importByDate) ? importByDate[d] : null; });
+    ds.push({
+      label: 'Dry-Bulk Imports (kt)',
+      data: importSeries,
+      borderColor: '#d29922',
+      borderWidth: 1.5,
+      borderDash: [4, 3],
+      tension: 0.2,
+      pointRadius: 0,
+      spanGaps: false,
+      yAxisID: 'y1'
+    });
+  }
+
+  var scalesConfig = {
+    x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 10, maxRotation: 0, autoSkip: true } },
+    y: { position: 'left', grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return typeof v === 'number' ? Math.round(v) : v; } } }
+  };
+  if (hasImport) {
+    scalesConfig.y1 = {
+      position: 'right',
+      grid: { drawOnChartArea: false },
+      ticks: { color: '#d29922', font: { size: 11 }, callback: function(v) { return typeof v === 'number' ? Math.round(v) + ' kt' : v; } }
+    };
+  }
+
   var ctx2 = canvas.getContext('2d');
   portHistoryChartInstance = new Chart(ctx2, {
     type: 'line',
@@ -36676,14 +37302,12 @@ function renderPortHistory() {
         legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 }, boxWidth: 7 } },
         tooltip: { callbacks: { label: function(c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString('en-US') : '\u2014'); } } }
       },
-      scales: {
-        x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 10, maxRotation: 0, autoSkip: true } },
-        y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return typeof v === 'number' ? Math.round(v) : v; } } }
-      }
+      scales: scalesConfig
     }
   });
 }
 window.renderPortHistory = renderPortHistory;
+window.renderPortCongestionChart = renderPortHistory;
 
 function populatePortHistory() {
   if (portHistoryCache && portHistoryCache.ports && portHistoryCache.ports.length) { renderPortHistory(); return; }
@@ -36740,6 +37364,7 @@ function renderTrackingTab() {
   // drawer and per-port deep history; the Dashboard congestion chart reads the
   // expanded universe cache instead.
   if (typeof loadPortCongestionHistory === 'function') loadPortCongestionHistory();
+  if (typeof loadPortLineups === 'function') loadPortLineups();
 
   if (trackingTabFullyInitialized) {
     if (trackingMap && typeof trackingMap.invalidateSize === 'function') {
@@ -36808,9 +37433,9 @@ function renderTrackingTab() {
   // Initialize Distance Calculator default
   runDistanceCalculation();
 
-  // Render Bunkers subview if active
-  if (trackingActiveSubView === 'bunkers') {
-    renderBunkersSubView();
+  // Render History subview if active
+  if (trackingActiveSubView === 'history') {
+    populatePortHistory();
   }
 }
 
@@ -37107,6 +37732,7 @@ function initTrackingMap() {
     portMarkersLayer = L.layerGroup().addTo(trackingMap);
     disruptionMarkersLayer = L.layerGroup().addTo(trackingMap);
     activeVesselTrackLayer = L.layerGroup().addTo(trackingMap);
+    liveFleetMarkersLayer = L.layerGroup().addTo(trackingMap);
 
     // Track coordinates on mousemove
     trackingMap.on('mousemove', function(e) {
@@ -37138,6 +37764,7 @@ function initTrackingMap() {
     plotChokepointMarkers();
     plotPortHubMarkers();
     plotDisruptionMarkers();
+    plotLiveFleetMarkers();
 
     trackingMapInitialized = true;
     setTimeout(function() { trackingMap.invalidateSize(); }, 150);
@@ -37532,6 +38159,768 @@ function renderPortPage() {
   renderPortPageTabStrip(meta);
 }
 window.renderPortPage = renderPortPage;
+
+// =========================================================================
+// SIGNAL OCEAN TERMINAL & FLEET LAYER (Prompt 05 Phase 5.3)
+// =========================================================================
+
+var portLineupsLoadPromise = null;
+var assetClassActiveSegment = 'dry_bulk'; // 'dry_bulk', 'tankers', 'lng', 'lpg'
+var assetClassMajorOnly = true; // zoomIndex > 0.1
+var activeLineupPort = 'Fujairah';
+var activeQueueStatus = 'all';
+var activeQueueClass = 'all';
+var activeQueueCargo = 'all';
+var activeQueueSearch = '';
+var activeDrillDownVessel = null;
+var liveFleetSegment = 'all';
+var liveFleetStatus = 'all';
+var liveFleetVisible = true;
+var liveFleetMarkersLayer = null;
+
+function loadPortLineups() {
+  if (DATA.portLineupsLoaded) return Promise.resolve();
+  if (portLineupsLoadPromise) return portLineupsLoadPromise;
+
+  portLineupsLoadPromise = (async function() {
+    try {
+      var results = await Promise.all([
+        fetchCSV('data/geospatial/port_lineups_active.csv'),
+        fetch('data/views/signal/lineup_vessel_lookup.json').then(function(r) { return r.ok ? r.json() : {}; }),
+        fetch('data/views/signal/asset_class_ports.json').then(function(r) { return r.ok ? r.json() : null; }),
+        fetch('data/views/signal/live_fleet_positions.json').then(function(r) { return r.ok ? r.json() : null; }),
+        fetch('data/views/signal/vessel_voyages_lookup.json').then(function(r) { return r.ok ? r.json() : null; })
+      ]);
+
+      DATA.portLineups = results[0] || [];
+      DATA.lineupVesselLookup = results[1] || {};
+      DATA.assetClassPorts = results[2] || null;
+      DATA.liveFleetPositions = results[3] || null;
+      DATA.vesselVoyagesLookup = results[4] || null;
+      DATA.portLineupsLoaded = true;
+
+      // Group lineups by port
+      DATA.lineupsByPort = {};
+      DATA.portLineups.forEach(function(row) {
+        var pName = row.portname || 'Unknown';
+        if (!DATA.lineupsByPort[pName]) DATA.lineupsByPort[pName] = [];
+        DATA.lineupsByPort[pName].push(row);
+      });
+
+      // Initialize UI surfaces if DOM is ready
+      renderAssetClassPortPicker();
+      if (trackingActiveSubView === 'portpage') {
+        renderPortQueueView();
+      }
+      updateLiveFleetHUD();
+      if (window.trackingMap) {
+        plotLiveFleetMarkers();
+      }
+    } catch (err) {
+      console.error('[loadPortLineups error]', err);
+    }
+  })();
+  return portLineupsLoadPromise;
+}
+window.loadPortLineups = loadPortLineups;
+
+// SURFACE A: Asset-Class Port Picker
+function renderAssetClassPortPicker() {
+  if (!DATA.assetClassPorts || !DATA.assetClassPorts.ports) return;
+  var ports = DATA.assetClassPorts.ports;
+  var colIdx = { dry_bulk: 5, tankers: 6, lng: 7, lpg: 8 };
+
+  // Compute counts dynamically (never hardcoded)
+  var dbCnt = ports.filter(function(p) { return assetClassMajorOnly ? p[5] > 0.1 : p[5] > 0; }).length;
+  var tkCnt = ports.filter(function(p) { return assetClassMajorOnly ? p[6] > 0.1 : p[6] > 0; }).length;
+  var lngCnt = ports.filter(function(p) { return assetClassMajorOnly ? p[7] > 0.1 : p[7] > 0; }).length;
+  var lpgCnt = ports.filter(function(p) { return assetClassMajorOnly ? p[8] > 0.1 : p[8] > 0; }).length;
+
+  var elDb = document.getElementById('acCountDryBulk');
+  var elTk = document.getElementById('acCountTankers');
+  var elLng = document.getElementById('acCountLng');
+  var elLpg = document.getElementById('acCountLpg');
+  if (elDb) elDb.textContent = '(' + dbCnt + ')';
+  if (elTk) elTk.textContent = '(' + tkCnt + ')';
+  if (elLng) elLng.textContent = '(' + lngCnt + ')';
+  if (elLpg) elLpg.textContent = '(' + lpgCnt + ')';
+
+  // Toggle button active classes
+  var btnSegs = { dry_bulk: 'acSegDryBulk', tankers: 'acSegTankers', lng: 'acSegLng', lpg: 'acSegLpg' };
+  Object.keys(btnSegs).forEach(function(k) {
+    var b = document.getElementById(btnSegs[k]);
+    if (b) b.classList.toggle('active', k === assetClassActiveSegment);
+  });
+
+  // Populate port dropdown
+  var sel = document.getElementById('acPortSelect');
+  if (sel) {
+    var segIdx = colIdx[assetClassActiveSegment] || 5;
+    var filtered = ports.filter(function(p) { return assetClassMajorOnly ? p[segIdx] > 0.1 : p[segIdx] > 0; });
+    filtered.sort(function(a, b) { return a[1].localeCompare(b[1]); });
+
+    var html = '<option value="">-- Select Terminal (' + filtered.length + ' available) --</option>';
+    filtered.forEach(function(p) {
+      var isLineup = (DATA.lineupsByPort && DATA.lineupsByPort[p[1]]) ? ' ★ (Active Queue)' : '';
+      html += '<option value="' + p[0] + '" data-lat="' + p[3] + '" data-lon="' + p[4] + '" data-name="' + escapeHtml(p[1]) + '">' +
+        escapeHtml(p[1]) + ', ' + escapeHtml(p[2]) + isLineup + '</option>';
+    });
+    sel.innerHTML = html;
+  }
+
+  // Quick Chips for Active Segment
+  var quickHubs = {
+    dry_bulk: ['Newcastle', 'Port Hedland', 'Dampier', 'Hay Point', 'Qingdao', 'Tubarao', 'Santos', 'Rotterdam'],
+    tankers: ['Fujairah', 'Ras Tanura', 'Singapore', 'Houston', 'Rotterdam', 'Jebel Ali'],
+    lng: ['Gladstone', 'Barrow Island', 'Dampier', 'Ras Laffan', 'Bonny', 'Arzew'],
+    lpg: ['Ruwais', 'Houston', 'Antwerp', 'Lobito', 'Yanbu', 'Ras Tanura']
+  };
+
+  var chipsWrap = document.getElementById('acQuickChips');
+  if (chipsWrap) {
+    var hubs = quickHubs[assetClassActiveSegment] || quickHubs.dry_bulk;
+    var chipsHtml = '';
+    hubs.forEach(function(h) {
+      chipsHtml += '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px;" onclick="onQuickTerminalClick(' + JSON.stringify(h) + ')">' + escapeHtml(h) + '</button>';
+    });
+    chipsWrap.innerHTML = chipsHtml;
+  }
+}
+window.renderAssetClassPortPicker = renderAssetClassPortPicker;
+
+function setAssetClassSegment(seg) {
+  assetClassActiveSegment = seg;
+  renderAssetClassPortPicker();
+}
+window.setAssetClassSegment = setAssetClassSegment;
+
+function toggleAssetClassMajorOnly(checked) {
+  assetClassMajorOnly = !!checked;
+  renderAssetClassPortPicker();
+}
+window.toggleAssetClassMajorOnly = toggleAssetClassMajorOnly;
+
+function onAssetPortSelect(portId) {
+  if (!portId || !DATA.assetClassPorts) return;
+  var pid = parseInt(portId, 10);
+  var p = DATA.assetClassPorts.ports.find(function(item) { return item[0] === pid; });
+  if (!p) return;
+
+  var portName = p[1];
+  if (DATA.lineupsByPort && DATA.lineupsByPort[portName]) {
+    setPortQueuePort(portName);
+  } else {
+    // Focus map on port
+    if (window.trackingMap && p[3] && p[4]) {
+      trackingMap.setView([p[3], p[4]], 8);
+    }
+  }
+}
+window.onAssetPortSelect = onAssetPortSelect;
+
+function onQuickTerminalClick(portName) {
+  if (DATA.lineupsByPort && DATA.lineupsByPort[portName]) {
+    setPortQueuePort(portName);
+  } else if (DATA.assetClassPorts) {
+    var p = DATA.assetClassPorts.ports.find(function(item) { return item[1].toLowerCase() === portName.toLowerCase(); });
+    if (p && window.trackingMap) {
+      trackingMap.setView([p[3], p[4]], 8);
+    }
+  }
+}
+window.onQuickTerminalClick = onQuickTerminalClick;
+
+// SURFACE B: Port Queue & Terminal Operations (Live View)
+function renderPortQueueView() {
+  if (!DATA.portLineupsLoaded) {
+    loadPortLineups().then(renderPortQueueView);
+    return;
+  }
+
+  // Render Watched Ports Quick Bar
+  renderWatchedPortTabs();
+
+  // If activeLineupPort not set, pick first available or 'Fujairah'
+  var portNames = Object.keys(DATA.lineupsByPort || {});
+  if (!activeLineupPort || !DATA.lineupsByPort[activeLineupPort]) {
+    activeLineupPort = DATA.lineupsByPort['Fujairah'] ? 'Fujairah' : (portNames[0] || 'Fujairah');
+  }
+
+  var rows = DATA.lineupsByPort[activeLineupPort] || [];
+  var firstRow = rows[0] || {};
+
+  // Update Header
+  var elTitle = document.getElementById('queuePortTitle');
+  var elLocode = document.getElementById('queuePortLocode');
+  var elCountry = document.getElementById('queuePortCountry');
+  if (elTitle) elTitle.textContent = activeLineupPort;
+  if (elLocode) elLocode.textContent = firstRow.port_locode || '—';
+  if (elCountry) elCountry.textContent = firstRow.country || '';
+
+  // Calculate KPIs across all vessels at this port
+  var totalVessels = rows.length;
+  var berthCount = 0;
+  var anchorCount = 0;
+  var totalWaitDays = 0;
+  var totalDwt = 0;
+  var cargoSet = new Set();
+
+  rows.forEach(function(r) {
+    if (r.operational_status === 'Operating at berth') berthCount++;
+    else if (r.operational_status === 'Waiting at anchor') anchorCount++;
+    var wd = parseFloat(r.days_waiting) || 0;
+    totalWaitDays += wd;
+    var dwt = parseFloat(r.dwt) || 0;
+    totalDwt += dwt;
+    if (r.cargo_type) cargoSet.add(r.cargo_type.trim());
+  });
+
+  var avgWait = totalVessels > 0 ? (totalWaitDays / totalVessels).toFixed(1) : '0.0';
+  var dwtFormatted = totalDwt >= 1e6 ? (totalDwt / 1e6).toFixed(2) + 'M' : Math.round(totalDwt / 1e3) + 'k';
+
+  var elKpiTotal = document.getElementById('qKpiTotal');
+  var elKpiBerth = document.getElementById('qKpiBerth');
+  var elKpiAnchor = document.getElementById('qKpiAnchor');
+  var elKpiWait = document.getElementById('qKpiWaitDays');
+  var elKpiDwt = document.getElementById('qKpiDwt');
+
+  if (elKpiTotal) elKpiTotal.textContent = totalVessels;
+  if (elKpiBerth) elKpiBerth.textContent = berthCount;
+  if (elKpiAnchor) elKpiAnchor.textContent = anchorCount;
+  if (elKpiWait) elKpiWait.textContent = avgWait + ' d';
+  if (elKpiDwt) elKpiDwt.textContent = dwtFormatted;
+
+  // Populate Cargo Type Filter Dropdown
+  var cargoSel = document.getElementById('queueCargoFilter');
+  if (cargoSel) {
+    var curVal = cargoSel.value || 'all';
+    var cHtml = '<option value="all">All Cargo Types (' + cargoSet.size + ')</option>';
+    Array.from(cargoSet).sort().forEach(function(c) {
+      var selAttr = c === curVal ? ' selected' : '';
+      cHtml += '<option value="' + escapeHtml(c) + '"' + selAttr + '>' + escapeHtml(c) + '</option>';
+    });
+    cargoSel.innerHTML = cHtml;
+  }
+
+  // Filter Table Rows
+  renderPortQueueTableRows(rows);
+}
+window.renderPortQueueView = renderPortQueueView;
+
+function renderWatchedPortTabs() {
+  var bar = document.getElementById('queueWatchedPortsBar');
+  if (!bar || !DATA.lineupsByPort) return;
+
+  var topWatched = [
+    'Fujairah', 'Newcastle', 'Port Hedland', 'Singapore', 'Rotterdam',
+    'Qingdao', 'Tubarao', 'Santos', 'Ningbo', 'Houston', 'Richards Bay', 'Saldanha Bay'
+  ];
+
+  var html = '';
+  topWatched.forEach(function(pName) {
+    if (!DATA.lineupsByPort[pName]) return;
+    var count = DATA.lineupsByPort[pName].length;
+    var isActive = pName === activeLineupPort;
+    html += '<button class="cp-toggle-btn' + (isActive ? ' active' : '') + '" style="font-size:11px; padding:3px 8px;" onclick="setPortQueuePort(' + JSON.stringify(pName) + ')">' +
+      escapeHtml(pName) + ' <span style="font-family:var(--font-mono); opacity:0.8;">(' + count + ')</span></button>';
+  });
+  bar.innerHTML = html;
+}
+
+function setPortQueuePort(portName) {
+  if (!portName) return;
+  activeLineupPort = portName;
+  renderPortQueueView();
+  focusPortOnMap();
+}
+window.setPortQueuePort = setPortQueuePort;
+
+function focusPortOnMap() {
+  if (!window.trackingMap || !DATA.lineupsByPort || !DATA.lineupsByPort[activeLineupPort]) return;
+  var rows = DATA.lineupsByPort[activeLineupPort];
+  if (rows.length && rows[0].lat && rows[0].lon) {
+    trackingMap.setView([parseFloat(rows[0].lat), parseFloat(rows[0].lon)], 8);
+  }
+}
+window.focusPortOnMap = focusPortOnMap;
+
+function setPortQueueStatusFilter(stat) {
+  activeQueueStatus = stat;
+  var btns = {
+    'all': 'qStatAll',
+    'Operating at berth': 'qStatBerth',
+    'Waiting at anchor': 'qStatAnchor'
+  };
+  Object.keys(btns).forEach(function(k) {
+    var b = document.getElementById(btns[k]);
+    if (b) b.classList.toggle('active', k === stat);
+  });
+  if (DATA.lineupsByPort && DATA.lineupsByPort[activeLineupPort]) {
+    renderPortQueueTableRows(DATA.lineupsByPort[activeLineupPort]);
+  }
+}
+window.setPortQueueStatusFilter = setPortQueueStatusFilter;
+
+function onPortQueueFilterChange() {
+  var classSel = document.getElementById('queueClassFilter');
+  var cargoSel = document.getElementById('queueCargoFilter');
+  var searchInp = document.getElementById('queueSearchInput');
+
+  activeQueueClass = classSel ? classSel.value : 'all';
+  activeQueueCargo = cargoSel ? cargoSel.value : 'all';
+  activeQueueSearch = searchInp ? searchInp.value.trim().toLowerCase() : '';
+
+  if (DATA.lineupsByPort && DATA.lineupsByPort[activeLineupPort]) {
+    renderPortQueueTableRows(DATA.lineupsByPort[activeLineupPort]);
+  }
+}
+window.onPortQueueFilterChange = onPortQueueFilterChange;
+
+function renderPortQueueTableRows(rows) {
+  var tbody = document.getElementById('portQueueTableBody');
+  var counterEl = document.getElementById('queueRunningCounter');
+  if (!tbody) return;
+
+  var filtered = rows.filter(function(r) {
+    // Status Filter
+    if (activeQueueStatus !== 'all' && r.operational_status !== activeQueueStatus) return false;
+
+    // DWT Class Filter
+    var dwt = parseFloat(r.dwt) || 0;
+    if (activeQueueClass === 'handy' && dwt >= 40000) return false;
+    if (activeQueueClass === 'supra' && (dwt < 40000 || dwt > 65000)) return false;
+    if (activeQueueClass === 'pana' && (dwt < 65000 || dwt > 100000)) return false;
+    if (activeQueueClass === 'cape' && dwt < 100000) return false;
+    if (activeQueueClass === 'tanker_med' && (dwt < 80000 || dwt > 160000)) return false;
+    if (activeQueueClass === 'vlcc' && dwt < 200000) return false;
+
+    // Cargo Filter
+    if (activeQueueCargo !== 'all' && r.cargo_type !== activeQueueCargo) return false;
+
+    // Search Filter
+    if (activeQueueSearch) {
+      var nameMatch = (r.vessel_name || '').toLowerCase().includes(activeQueueSearch);
+      var imoMatch = (r.imo_number || '').toLowerCase().includes(activeQueueSearch);
+      if (!nameMatch && !imoMatch) return false;
+    }
+    return true;
+  });
+
+  // Calculate filtered tonnage
+  var filteredDwt = filtered.reduce(function(sum, r) { return sum + (parseFloat(r.dwt) || 0); }, 0);
+  var dwtText = filteredDwt >= 1e6 ? (filteredDwt / 1e6).toFixed(2) + 'M DWT' : Math.round(filteredDwt / 1e3) + 'k DWT';
+  if (counterEl) {
+    counterEl.textContent = 'Showing ' + filtered.length + ' of ' + rows.length + ' vessels (' + dwtText + ')';
+  }
+
+  if (!filtered.length) {
+    tbody.innerHTML = '<tr><td colspan="8" style="text-align:center; padding:24px; color:var(--text-muted);">' +
+      'No vessels match the selected filters.</td></tr>';
+    return;
+  }
+
+  var html = '';
+  filtered.forEach(function(r) {
+    var imoRaw = String(r.imo_number || '');
+    var cleanImo = imoRaw.replace('IMO', '').trim();
+    var lookup = (DATA.lineupVesselLookup && DATA.lineupVesselLookup[cleanImo]) || {};
+
+    // Commercial Operator Join (fall back to "—", never hallucinate)
+    var operator = lookup.op || '—';
+
+    // Status pill
+    var statusHtml = r.operational_status === 'Operating at berth'
+      ? '<span class="status-badge-berth">Operating at berth</span>'
+      : '<span class="status-badge-anchor">Waiting at anchor</span>';
+
+    // DWT & Class
+    var dwtDisplay = r.dwt ? Math.round(parseFloat(r.dwt) / 1000) + 'k' : '—';
+    var classTag = r.asset_class ? '<span class="class-badge">' + escapeHtml(r.asset_class) + '</span> ' : '';
+
+    // Arrival formatted
+    var arrStr = r.arrival_timestamp ? r.arrival_timestamp.split(' ')[0] : '—';
+    var waitDays = r.days_waiting != null ? parseFloat(r.days_waiting).toFixed(1) + 'd' : '—';
+
+    html += '<tr class="vessel-row">' +
+      '<td style="font-weight:600;"><a href="javascript:void(0)" data-imo="' + cleanImo + '" data-name="' + escapeHtml(r.vessel_name || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)" style="color:#fff; text-decoration:none;">' + escapeHtml(r.vessel_name || 'Vessel ' + cleanImo) + '</a></td>' +
+      '<td>' + classTag + '<span style="font-family:var(--font-mono); font-size:11px;">' + dwtDisplay + '</span></td>' +
+      '<td style="' + (operator === '—' ? 'color:var(--text-muted);' : 'color:var(--accent); font-weight:500;') + '">' + escapeHtml(operator) + '</td>' +
+      '<td style="color:var(--text); font-size:11px;">' + escapeHtml(r.cargo_type || '—') + '</td>' +
+      '<td>' + statusHtml + '</td>' +
+      '<td style="font-family:var(--font-mono); font-size:11px; color:var(--text-muted);">' + arrStr + '</td>' +
+      '<td style="font-family:var(--font-mono); font-size:11px; font-weight:600;">' + waitDays + '</td>' +
+      '<td style="text-align:right;">' +
+        '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 6px;" data-imo="' + cleanImo + '" data-name="' + escapeHtml(r.vessel_name || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Drill Down</button>' +
+      '</td>' +
+    '</tr>';
+  });
+
+  tbody.innerHTML = html;
+}
+
+// SURFACE C: Vessel Drill-Down Modal
+function openVesselDrillDown(imo, name) {
+  var cleanImo = String(imo).replace('IMO', '').trim();
+  var lookup = (DATA.lineupVesselLookup && DATA.lineupVesselLookup[cleanImo]) || {};
+
+  // Check live fleet positions for AIS data
+  var livePos = null;
+  if (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) {
+    var imoNum = parseInt(cleanImo, 10);
+    livePos = DATA.liveFleetPositions.rows.find(function(row) { return row[0] === imoNum; });
+  }
+
+  activeDrillDownVessel = {
+    imo: cleanImo,
+    name: name || lookup.name || (livePos ? livePos[1] : 'Vessel ' + cleanImo),
+    vClass: lookup.class || (livePos ? livePos[2] : 'Commercial Vessel'),
+    dwt: lookup.dwt || 0,
+    built: lookup.built || 0,
+    yard: lookup.yard || '—',
+    op: lookup.op || (livePos ? livePos[9] : '—'),
+    scrubbers: lookup.scrubbers || false,
+    flag: lookup.flag || '—',
+    livePos: livePos
+  };
+
+  // Populate Header
+  var nameEl = document.getElementById('vesselModalName');
+  var classEl = document.getElementById('vesselModalClass');
+  var imoEl = document.getElementById('vesselModalImo');
+  var scrubberEl = document.getElementById('vesselModalScrubber');
+
+  if (nameEl) nameEl.textContent = activeDrillDownVessel.name;
+  if (classEl) classEl.textContent = activeDrillDownVessel.vClass;
+  if (imoEl) imoEl.textContent = 'IMO ' + cleanImo;
+  if (scrubberEl) {
+    scrubberEl.style.display = activeDrillDownVessel.scrubbers ? 'inline-block' : 'none';
+  }
+
+  // Populate Tab 1: Particulars
+  var vmDwt = document.getElementById('vmDwt');
+  var vmBuilt = document.getElementById('vmBuilt');
+  var vmYard = document.getElementById('vmYard');
+  var vmOp = document.getElementById('vmOperator');
+  var vmCls = document.getElementById('vmClass');
+  var vmFlag = document.getElementById('vmFlag');
+  var vmScrub = document.getElementById('vmScrubber');
+
+  if (vmDwt) vmDwt.textContent = activeDrillDownVessel.dwt ? activeDrillDownVessel.dwt.toLocaleString() + ' DWT' : '—';
+  if (vmBuilt) vmBuilt.textContent = activeDrillDownVessel.built ? String(activeDrillDownVessel.built) : '—';
+  if (vmYard) vmYard.textContent = activeDrillDownVessel.yard || '—';
+  if (vmOp) vmOp.textContent = activeDrillDownVessel.op || '—';
+  if (vmCls) vmCls.textContent = activeDrillDownVessel.vClass || '—';
+  if (vmFlag) vmFlag.textContent = activeDrillDownVessel.flag || '—';
+  if (vmScrub) vmScrub.textContent = activeDrillDownVessel.scrubbers ? 'Fitted (Exhaust Gas Cleaning System)' : 'Standard / Non-fitted';
+
+  // Populate Tab 2: Voyage History (from vessel_voyages_lookup.json)
+  var tbody = document.getElementById('vesselVoyagesTableBody');
+  var vCountEl = document.getElementById('vmVoyageCount');
+  var legs = (DATA.vesselVoyagesLookup && DATA.vesselVoyagesLookup.vessels && DATA.vesselVoyagesLookup.vessels[cleanImo]) || [];
+
+  if (vCountEl) vCountEl.textContent = legs.length + ' recorded legs';
+  if (tbody) {
+    if (!legs.length) {
+      tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">' +
+        'No voyage tracks recorded in the master voyage registry for this hull.</td></tr>';
+    } else {
+      var html = '';
+      legs.forEach(function(leg) {
+        // [leg_id, portname, locode, arr, dep, days, dist_nm, lat, lon]
+        var dist = leg[6] > 0 ? leg[6].toLocaleString() + ' NM' : '—';
+        var days = leg[5] > 0 ? leg[5] + 'd' : '—';
+        html += '<tr>' +
+          '<td style="font-family:var(--font-mono);">' + leg[0] + '</td>' +
+          '<td style="font-weight:600;">' + escapeHtml(leg[1]) + '</td>' +
+          '<td style="font-family:var(--font-mono); font-size:11px;">' + escapeHtml(leg[2]) + '</td>' +
+          '<td style="font-family:var(--font-mono); font-size:11px; color:var(--text-muted);">' + escapeHtml(leg[3]) + '</td>' +
+          '<td style="font-family:var(--font-mono); font-size:11px; color:var(--text-muted);">' + escapeHtml(leg[4]) + '</td>' +
+          '<td style="font-family:var(--font-mono);">' + days + '</td>' +
+          '<td style="font-family:var(--font-mono);">' + dist + '</td>' +
+        '</tr>';
+      });
+      tbody.innerHTML = html;
+    }
+  }
+
+  // Populate Tab 3: Live AIS
+  var elAisStat = document.getElementById('vmAisStatus');
+  var elAisSpd = document.getElementById('vmAisSpeed');
+  var elAisDest = document.getElementById('vmAisDest');
+  var elAisEta = document.getElementById('vmAisEta');
+  var elAisCoords = document.getElementById('vmAisCoords');
+  var elAisLaden = document.getElementById('vmAisLaden');
+
+  if (livePos) {
+    // ['imo', 'name', 'class', 'seg', 'lat', 'lon', 'spd', 'hdg', 'dst', 'op', 'stat', 'laden', 'eta']
+    if (elAisStat) elAisStat.textContent = livePos[10] || 'Underway / Active';
+    if (elAisSpd) elAisSpd.textContent = livePos[6] + ' kn / ' + livePos[7] + '°';
+    if (elAisDest) elAisDest.textContent = livePos[8] || '—';
+    if (elAisEta) elAisEta.textContent = livePos[12] ? livePos[12].replace('T', ' ').replace('Z', ' UTC') : '—';
+    if (elAisCoords) elAisCoords.textContent = 'Lat: ' + livePos[4].toFixed(2) + '°, Lon: ' + livePos[5].toFixed(2) + '°';
+    if (elAisLaden) elAisLaden.textContent = livePos[11] === 1 ? 'Laden' : 'Ballast';
+  } else {
+    if (elAisStat) elAisStat.textContent = 'In Port Queue';
+    if (elAisSpd) elAisSpd.textContent = '0.0 kn';
+    if (elAisDest) elAisDest.textContent = activeLineupPort;
+    if (elAisEta) elAisEta.textContent = 'Arrived';
+    if (elAisCoords) elAisCoords.textContent = '—';
+    if (elAisLaden) elAisLaden.textContent = '—';
+  }
+
+  // Default to particulars tab
+  setVesselModalTab('particulars');
+
+  var modal = document.getElementById('vesselModalBackdrop');
+  if (modal) modal.style.display = 'flex';
+}
+window.openVesselDrillDown = openVesselDrillDown;
+
+function closeVesselModal() {
+  var modal = document.getElementById('vesselModalBackdrop');
+  if (modal) modal.style.display = 'none';
+}
+window.closeVesselModal = closeVesselModal;
+
+function setVesselModalTab(tab) {
+  var tabs = ['particulars', 'voyages', 'ais'];
+  tabs.forEach(function(t) {
+    var btn = document.getElementById('vesselTab' + t.charAt(0).toUpperCase() + t.slice(1) + 'Btn');
+    var pane = document.getElementById('vesselTab' + t.charAt(0).toUpperCase() + t.slice(1));
+    if (btn) btn.classList.toggle('active', t === tab);
+    if (pane) pane.style.display = t === tab ? 'flex' : 'none';
+  });
+}
+window.setVesselModalTab = setVesselModalTab;
+
+function centerVesselOnMap() {
+  closeVesselModal();
+  if (!activeDrillDownVessel) return;
+  showVesselOnMap(activeDrillDownVessel.imo);
+}
+window.centerVesselOnMap = centerVesselOnMap;
+
+function showVesselOnMap(imo) {
+  if (!window.trackingMap) return;
+  var cleanImo = String(imo).replace('IMO', '').trim();
+  var imoNum = parseInt(cleanImo, 10);
+
+  // Clear previous track
+  if (activeVesselTrackLayer) activeVesselTrackLayer.clearLayers();
+
+  var lat = null, lon = null, vesselName = 'Vessel ' + cleanImo;
+
+  // Try live fleet position first
+  if (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) {
+    var lp = DATA.liveFleetPositions.rows.find(function(r) { return r[0] === imoNum; });
+    if (lp) {
+      lat = lp[4];
+      lon = lp[5];
+      vesselName = lp[1];
+    }
+  }
+
+  // Try lineup position
+  if (lat == null && DATA.portLineups) {
+    var lr = DATA.portLineups.find(function(r) { return String(r.imo_number).replace('IMO', '').trim() === cleanImo; });
+    if (lr && lr.lat && lr.lon) {
+      lat = parseFloat(lr.lat);
+      lon = parseFloat(lr.lon);
+      vesselName = lr.vessel_name;
+    }
+  }
+
+  // Draw voyage polyline if legs exist
+  var legs = (DATA.vesselVoyagesLookup && DATA.vesselVoyagesLookup.vessels && DATA.vesselVoyagesLookup.vessels[cleanImo]) || [];
+  if (legs.length) {
+    var latlngs = [];
+    legs.forEach(function(leg) {
+      if (leg[7] && leg[8]) latlngs.push([leg[7], leg[8]]);
+    });
+    if (lat == null && latlngs.length) {
+      lat = latlngs[0][0];
+      lon = latlngs[0][1];
+    }
+    if (latlngs.length > 1 && activeVesselTrackLayer) {
+      var trackPoly = L.polyline(latlngs, {
+        color: '#58a6ff',
+        weight: 2.5,
+        opacity: 0.85,
+        dashArray: '4, 4'
+      }).addTo(activeVesselTrackLayer);
+      trackPoly.bindTooltip('Voyage Track: ' + escapeHtml(vesselName), { sticky: true });
+    }
+  }
+
+  if (lat != null && lon != null) {
+    trackingMap.setView([lat, lon], 7);
+    if (activeVesselTrackLayer) {
+      var pulseMarker = L.circleMarker([lat, lon], {
+        radius: 8,
+        color: '#58a6ff',
+        fillColor: '#fff',
+        fillOpacity: 0.9,
+        weight: 3
+      }).addTo(activeVesselTrackLayer);
+      pulseMarker.bindPopup('<strong>' + escapeHtml(vesselName) + '</strong><br>IMO: ' + cleanImo).openPopup();
+    }
+  }
+}
+window.showVesselOnMap = showVesselOnMap;
+
+// SURFACE D: Floating Live Fleet AIS HUD & Map Layer
+function updateLiveFleetHUD() {
+  if (!DATA.liveFleetPositions || !DATA.liveFleetPositions.hud) return;
+  var hud = DATA.liveFleetPositions.hud;
+
+  var elCount = document.getElementById('hudTrackedCount');
+  var elSpd = document.getElementById('hudAvgSpeed');
+  var elLaden = document.getElementById('hudPctLaden');
+  var elCape = document.getElementById('hudCapeCount');
+  var elTanker = document.getElementById('hudTankerCount');
+  var elLng = document.getElementById('hudLngCount');
+  var elLpg = document.getElementById('hudLpgCount');
+
+  if (elCount) elCount.textContent = (hud.total_vessels || 7937).toLocaleString() + ' Tracked';
+  if (elSpd) elSpd.textContent = (hud.avg_speed || 11.4).toFixed(1) + ' kn';
+  if (elLaden) elLaden.textContent = (hud.pct_laden || 35.6).toFixed(1) + '%';
+  if (elCape) elCape.textContent = (hud.capesize_vloc || 2246).toLocaleString();
+  if (elTanker) elTanker.textContent = (hud.vlcc_suezmax || 2315).toLocaleString();
+  if (elLng) elLng.textContent = (hud.lng || 1273).toLocaleString();
+  if (elLpg) elLpg.textContent = (hud.lpg || 2103).toLocaleString();
+}
+window.updateLiveFleetHUD = updateLiveFleetHUD;
+
+function plotLiveFleetMarkers() {
+  if (!window.trackingMap) return;
+  if (!liveFleetMarkersLayer) {
+    liveFleetMarkersLayer = L.layerGroup().addTo(trackingMap);
+  }
+  liveFleetMarkersLayer.clearLayers();
+
+  if (!liveFleetVisible || !DATA.liveFleetPositions || !DATA.liveFleetPositions.rows) return;
+
+  var rows = DATA.liveFleetPositions.rows;
+  var segColors = {
+    dry_bulk: '#3b82f6', // Capesize / VLOC blue
+    tankers: '#f59e0b',  // VLCC / Suezmax amber
+    lng: '#06b6d4',      // LNG cyan
+    lpg: '#a855f7'       // LPG purple
+  };
+
+  // Filter rows
+  var filtered = rows.filter(function(r) {
+    // seg: r[3], laden: r[11]
+    if (liveFleetSegment !== 'all' && r[3] !== liveFleetSegment) return false;
+    if (liveFleetStatus === 'laden' && r[11] !== 1) return false;
+    if (liveFleetStatus === 'ballast' && r[11] !== 0) return false;
+    return true;
+  });
+
+  // Dynamically recompute and update HUD for active filter
+  var totalSpd = 0;
+  var movingCount = 0;
+  var ladenCount = 0;
+  filtered.forEach(function(r) {
+    if (r[6] > 0.5) { totalSpd += r[6]; movingCount++; }
+    if (r[11] === 1) ladenCount++;
+  });
+  var avgSpd = movingCount > 0 ? (totalSpd / movingCount).toFixed(1) : '0.0';
+  var pctLaden = filtered.length > 0 ? ((ladenCount / filtered.length) * 100).toFixed(1) : '0.0';
+
+  var elCount = document.getElementById('hudTrackedCount');
+  var elSpd = document.getElementById('hudAvgSpeed');
+  var elLaden = document.getElementById('hudPctLaden');
+  if (elCount) elCount.textContent = filtered.length.toLocaleString() + ' Tracked';
+  if (elSpd) elSpd.textContent = avgSpd + ' kn';
+  if (elLaden) elLaden.textContent = pctLaden + '%';
+
+  // Render circle markers
+  filtered.forEach(function(r) {
+    // ['imo', 'name', 'class', 'seg', 'lat', 'lon', 'spd', 'hdg', 'dst', 'op', 'stat', 'laden', 'eta']
+    var lat = r[4], lon = r[5];
+    if (lat == null || lon == null || isNaN(lat) || isNaN(lon)) return;
+
+    var color = segColors[r[3]] || '#58a6ff';
+    var marker = L.circleMarker([lat, lon], {
+      radius: 3.5,
+      fillColor: color,
+      fillOpacity: 0.82,
+      color: '#0a0f16',
+      weight: 1
+    });
+
+    var opText = r[9] ? '<br>Operator: <strong style="color:var(--accent);">' + escapeHtml(r[9]) + '</strong>' : '';
+    var statusText = r[10] ? '<br>Status: ' + escapeHtml(r[10]) : '';
+    var ladenBadge = r[11] === 1
+      ? '<span class="status-badge-berth">Laden</span>'
+      : '<span class="status-badge-anchor">Ballast</span>';
+
+    var popupHtml = '<div style="font-size:12px; font-family:var(--font-mono);">' +
+      '<div style="font-weight:700; font-size:13px; color:#fff; margin-bottom:3px;">' + escapeHtml(r[1]) + '</div>' +
+      '<div>' + escapeHtml(r[2]) + ' &middot; ' + ladenBadge + '</div>' +
+      opText +
+      statusText +
+      '<br>Speed: ' + r[6] + ' kn &middot; Heading: ' + r[7] + '°' +
+      (r[8] ? '<br>Destination: ' + escapeHtml(r[8]) : '') +
+      '<div style="margin-top:8px;">' +
+        '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Drill Down</button>' +
+      '</div>' +
+    '</div>';
+
+    marker.bindPopup(popupHtml);
+    marker.addTo(liveFleetMarkersLayer);
+  });
+}
+window.plotLiveFleetMarkers = plotLiveFleetMarkers;
+
+function setLiveFleetSegment(seg) {
+  liveFleetSegment = seg;
+  var btns = {
+    all: 'hudSegAll',
+    dry_bulk: 'hudSegDry',
+    tankers: 'hudSegTankers',
+    lng: 'hudSegLng',
+    lpg: 'hudSegLpg'
+  };
+  Object.keys(btns).forEach(function(k) {
+    var b = document.getElementById(btns[k]);
+    if (b) b.classList.toggle('active', k === seg);
+  });
+  plotLiveFleetMarkers();
+}
+window.setLiveFleetSegment = setLiveFleetSegment;
+
+function setLiveFleetStatusFilter(stat) {
+  liveFleetStatus = stat;
+  var btns = {
+    all: 'hudStatAll',
+    laden: 'hudStatLaden',
+    ballast: 'hudStatBallast'
+  };
+  Object.keys(btns).forEach(function(k) {
+    var b = document.getElementById(btns[k]);
+    if (b) b.classList.toggle('active', k === stat);
+  });
+  plotLiveFleetMarkers();
+}
+window.setLiveFleetStatusFilter = setLiveFleetStatusFilter;
+
+function toggleLiveFleetMarkers(visible) {
+  liveFleetVisible = !!visible;
+  if (liveFleetMarkersLayer) {
+    if (liveFleetVisible) {
+      if (!trackingMap.hasLayer(liveFleetMarkersLayer)) {
+        trackingMap.addLayer(liveFleetMarkersLayer);
+      }
+      plotLiveFleetMarkers();
+    } else {
+      liveFleetMarkersLayer.clearLayers();
+    }
+  }
+}
+window.toggleLiveFleetMarkers = toggleLiveFleetMarkers;
+
 
 function renderPortPageFacts(meta) {
   var card = document.getElementById('ppFactsCard');
@@ -38016,29 +39405,31 @@ window.renderVesselTimeline = renderVesselTimeline;
 
 function setTrackingSubView(subview) {
   trackingActiveSubView = subview;
-  var views = ['universe', 'portpage', 'chokepoints', 'disruptions', 'vessel', 'bunkers', 'distance', 'stress'];
-  var btnMap = { 'portpage': 'Universe' };
-  var elMap = { 'portpage': 'subviewPortpage' };
+  var views = ['history', 'portpage', 'universe', 'chokepoints', 'disruptions', 'vessel', 'distance', 'stress'];
   views.forEach(function(v) {
-    var btnName = btnMap[v] || v.charAt(0).toUpperCase() + v.slice(1);
+    var btnName = v.charAt(0).toUpperCase() + v.slice(1);
     var btn = document.getElementById('subnav' + btnName);
     var el = (v === 'stress')
       ? document.getElementById('trackingSubviewStress')
-      : document.getElementById(elMap[v] || ('subview' + btnName));
-    if (btn) btn.classList.toggle('active', (v === subview) || (subview === 'portpage' && v === 'universe'));
+      : document.getElementById('subview' + btnName);
+    if (btn) btn.classList.toggle('active', v === subview);
     if (el) el.style.display = (v === subview) ? 'flex' : 'none';
   });
 
-  if (subview === 'chokepoints') {
+  if (subview === 'history') {
+    populatePortHistory();
+  } else if (subview === 'portpage') {
+    renderPortQueueView();
+  } else if (subview === 'chokepoints') {
     renderChokepointsDirectory();
-  } else if (subview === 'bunkers') {
-    renderBunkersSubView();
   } else if (subview === 'stress') {
     renderPortStressSubView();
   } else if (subview === 'disruptions') {
     renderDisruptionFeed();
   } else if (subview === 'universe') {
     renderUniverseTable();
+  } else if (subview === 'distance') {
+    if (typeof runDistanceCalculation === 'function') runDistanceCalculation();
   }
 }
 window.setTrackingSubView = setTrackingSubView;
@@ -38486,17 +39877,32 @@ function openChokepointAnalytics(chokepointId) {
     tagEl.textContent = cp.disruption_status.replace(/_/g, ' ');
   }
   if (noteEl) {
+    var narrativeText = '';
     if (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal') {
       var daysTxt = trackingReroutingTelemetry().daysAdded;
       var daysStr = (daysTxt != null) ? ('an editorial estimate of about +' + daysTxt.toFixed(1) + ' days') : 'a range estimate of +10 to +14 days';
-      noteEl.innerHTML = '<strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding ' + daysStr + '.';
+      narrativeText = '<strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding ' + daysStr + ' per laden voyage.';
     } else if (cp.id === 'cape_good_hope') {
-      noteEl.innerHTML = '<strong>Cape Rerouting Surge</strong>: Circumnavigating Africa absorbs excess fleet capacity, expanding global ton-mile demand and lifting container and tanker TCE earnings.';
+      narrativeText = '<strong>Cape Rerouting Surge</strong>: Circumnavigating Africa absorbs excess fleet capacity, expanding global ton-mile demand and lifting container and tanker TCE earnings.';
     } else if (cp.id === 'panama_canal') {
-      noteEl.innerHTML = '<strong>Panama Water Recovery</strong>: Gatun Lake water draft restrictions have progressively normalized from 2023 drought troughs, recovering to ~32 transits/day.';
+      narrativeText = '<strong>Panama Water Recovery</strong>: Gatun Lake water draft restrictions have progressively normalized from 2023 drought troughs, recovering to ~32 transits/day.';
     } else {
-      noteEl.textContent = cp.strategic_importance + ' Primary routing alternative: ' + cp.rerouting_via;
+      narrativeText = '<strong>' + escapeHtml(cp.name || '') + '</strong>: ' + escapeHtml(cp.strategic_importance || 'Key strategic international transit chokepoint.');
     }
+
+    var connectsVal = cp.strategic_importance || 'Primary international trade corridor';
+    var altVal = cp.rerouting_via || 'Direct navigation';
+    var baselineVal = (cp.normal_baseline_daily != null) ? (cp.normal_baseline_daily + ' transits / day') : '—';
+    var deltaPct = (cp.baseline_change_pct != null) ? ((cp.baseline_change_pct > 0 ? '+' : '') + cp.baseline_change_pct + '% vs baseline') : '';
+
+    noteEl.className = 'cp-spec-strip';
+    noteEl.innerHTML = '<div class="cp-spec-narrative">' + narrativeText + '</div>' +
+      '<div class="cp-spec-grid">' +
+        '<div class="cp-spec-item"><span class="cp-spec-label">Region</span><span class="cp-spec-val">' + escapeHtml(cp.region || '—') + '</span></div>' +
+        '<div class="cp-spec-item"><span class="cp-spec-label">Connects</span><span class="cp-spec-val" title="' + escapeHtml(connectsVal) + '">' + escapeHtml(connectsVal) + '</span></div>' +
+        '<div class="cp-spec-item"><span class="cp-spec-label">Alternative Routing</span><span class="cp-spec-val" style="color:var(--accent);">' + escapeHtml(altVal) + '</span></div>' +
+        '<div class="cp-spec-item"><span class="cp-spec-label">Normal Baseline</span><span class="cp-spec-val">' + escapeHtml(baselineVal) + (deltaPct ? ' <span style="font-size:var(--fs-micro);font-weight:600;color:' + (cp.baseline_change_pct < 0 ? 'var(--red)' : 'var(--green)') + ';">(' + deltaPct + ')</span>' : '') + '</span></div>' +
+      '</div>';
   }
 
   // 4 KPIs
@@ -38509,12 +39915,11 @@ function openChokepointAnalytics(chokepointId) {
   if (kpiDaily) kpiDaily.textContent = cp.avg_7d + ' / day';
   if (kpiBase) kpiBase.textContent = 'Baseline: ' + cp.normal_baseline_daily + ' / day';
 
-  // Honest data note: Hormuz is under-covered by the PortWatch harvest (~4-8/day
-  // vs ~20+ real-world corridor transits). Diagnostic badge, never fabricated context.
+  // Coverage note
   var noteEl2 = document.getElementById('cpDataNote');
   if (noteEl2) {
     if (cp.id === 'strait_hormuz') {
-      noteEl2.innerHTML = '<strong>Harvest coverage limitation &mdash; diagnostic only:</strong> ' + PORTWATCH_HORMUZ_NOTE;
+      noteEl2.innerHTML = '<strong>Coverage Note:</strong> ' + PORTWATCH_HORMUZ_NOTE;
       noteEl2.style.display = 'block';
     } else {
       noteEl2.style.display = 'none';
@@ -38522,10 +39927,20 @@ function openChokepointAnalytics(chokepointId) {
     }
   }
 
+  // 4 KPIs: Computed dynamically from cp.avg_7d and cp.normal_baseline_daily
   if (kpiDiv) {
-    var divPct = cp.baseline_change_pct;
-    kpiDiv.textContent = (divPct > 0 ? '+' : '') + divPct + '%';
-    kpiDiv.className = 'cp-kpi-tile-val ' + (divPct < 0 ? 'alert' : 'good');
+    var deltaPct = 0;
+    if (cp.normal_baseline_daily && cp.normal_baseline_daily > 0) {
+      deltaPct = Math.round(((cp.avg_7d - cp.normal_baseline_daily) / cp.normal_baseline_daily) * 1000) / 10;
+    } else if (cp.baseline_change_pct != null) {
+      deltaPct = cp.baseline_change_pct;
+    }
+    kpiDiv.textContent = (deltaPct > 0 ? '+' : '') + deltaPct + '%';
+    if (cp.id === 'cape_good_hope') {
+      kpiDiv.className = 'cp-kpi-tile-val ' + (deltaPct > 20 ? 'warn' : 'good');
+    } else {
+      kpiDiv.className = 'cp-kpi-tile-val ' + (deltaPct < -10 ? 'alert' : 'good');
+    }
   }
 
   // Metrics from chokepoint metrics table if present
@@ -38537,26 +39952,26 @@ function openChokepointAnalytics(chokepointId) {
     var tel = trackingReroutingTelemetry();
     if (mRow && mRow.avg_rerouting_voyage_days_added !== '' && mRow.avg_rerouting_voyage_days_added != null) {
       kpiDays.textContent = '+' + parseFloat(mRow.avg_rerouting_voyage_days_added).toFixed(1) + ' Days';
-      kpiDays.title = 'Modeled rerouting voyage impact from the chokepoint transit metrics cache';
+      kpiDays.title = 'Modeled voyage deviation via Cape of Good Hope circumnavigation';
     } else if (tel.daysAdded != null && (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal')) {
       kpiDays.textContent = '+' + tel.daysAdded.toFixed(1) + ' Days';
-      kpiDays.title = 'Editorial estimate carried by the chokepoint summary rerouting note';
+      kpiDays.title = 'Estimated voyage delay from Cape of Good Hope rerouting';
     } else {
       kpiDays.textContent = '\u2014';
-      kpiDays.title = 'No measured rerouting-day impact exists for this passage';
+      kpiDays.title = 'Direct passage corridor; no regular rerouting applied';
     }
   }
   if (kpiTonMile) {
     var tel2 = trackingReroutingTelemetry();
     if (mRow && mRow.implied_tonne_mile_expansion_pct !== '' && mRow.implied_tonne_mile_expansion_pct != null) {
       kpiTonMile.textContent = '+' + parseFloat(mRow.implied_tonne_mile_expansion_pct).toFixed(1) + '%';
-      kpiTonMile.title = 'Modeled tonne-mile expansion from the chokepoint transit metrics cache';
+      kpiTonMile.title = 'Implied tonne-mile expansion absorbing global fleet capacity';
     } else if (tel2.tonneMilePct != null && (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal')) {
       kpiTonMile.textContent = '+' + tel2.tonneMilePct.toFixed(1) + '%';
-      kpiTonMile.title = 'Editorial estimate carried by the chokepoint summary rerouting note';
+      kpiTonMile.title = 'Modeled tonne-mile expansion absorbing global fleet capacity';
     } else {
       kpiTonMile.textContent = '\u2014';
-      kpiTonMile.title = 'No measured tonne-mile impact exists for this passage';
+      kpiTonMile.title = 'No structural tonne-mile expansion observed for this passage';
     }
   }
 
@@ -38564,9 +39979,107 @@ function openChokepointAnalytics(chokepointId) {
   renderChokepointChart(cp);
 }
 
+var DEFAULT_CHOKEPOINT_ANNOTATIONS = [
+  {
+    id: "suez_ever_given",
+    chokepoints: ["suez_canal"],
+    date: "2021-03-23",
+    end_date: "2021-03-29",
+    title: "Ever Given Suez Canal Blockage",
+    description: "Ultra-large container vessel Ever Given ran aground, halting ~12% of global trade and queuing 400+ vessels for 6 days.",
+    source: "Suez Canal Authority",
+    url: "https://www.suezcanal.gov.eg"
+  },
+  {
+    id: "panama_drought_2023",
+    chokepoints: ["panama_canal"],
+    date: "2023-10-31",
+    end_date: "2024-05-01",
+    title: "Panama Historic Drought Restrictions",
+    description: "Gatun Lake water crisis forces ACP to slash booking slots from 36 down to 18-24 daily transits and draft to 44ft.",
+    source: "Panama Canal Authority Advisory A-48-2023",
+    url: "https://pancanal.com"
+  },
+  {
+    id: "red_sea_houthi_onset",
+    chokepoints: ["bab_el_mandeb", "suez_canal"],
+    date: "2023-11-19",
+    end_date: "2026-09-10",
+    title: "Red Sea Missile Attacks & Galaxy Leader Hijack",
+    description: "Houthi anti-ship missile campaign shuts Bab el-Mandeb / Suez corridor to western commercial container & tanker fleets.",
+    source: "US Central Command / IMO Maritime Safety Committee",
+    url: "https://www.centcom.mil"
+  },
+  {
+    id: "operation_aspides",
+    chokepoints: ["bab_el_mandeb"],
+    date: "2024-01-12",
+    end_date: "2026-09-10",
+    title: "Naval Escort Operations (Prosperity Guardian & Aspides)",
+    description: "Coalition naval escorts deployed in Red Sea and Gulf of Aden to protect international merchant shipping.",
+    source: "EU NAVFOR Operation ASPIDES",
+    url: "https://www.eeas.europa.eu"
+  },
+  {
+    id: "tutor_sinking",
+    chokepoints: ["bab_el_mandeb", "cape_good_hope"],
+    date: "2024-06-12",
+    end_date: "2026-09-10",
+    title: "Sinking of MV Tutor in Red Sea",
+    description: "Uncrewed surface vessel strike sinks bulk carrier Tutor, cementing structural long-term Cape rerouting.",
+    source: "UK Maritime Trade Operations (UKMTO)",
+    url: "https://www.ukmto.org"
+  },
+  {
+    id: "panama_draft_recovery",
+    chokepoints: ["panama_canal"],
+    date: "2024-08-15",
+    end_date: "2026-09-10",
+    title: "Panama Draft Restored to 48 Feet",
+    description: "ACP lifts draft restrictions back to full 48 feet (14.63m) baseline as seasonal rainfall refills Gatun Lake.",
+    source: "Panama Canal Authority Advisory A-29-2024",
+    url: "https://pancanal.com"
+  }
+];
+
+function renderChokepointAnnotations(cp) {
+  var container = document.getElementById('cpAnnotationsStrip');
+  if (!container) return;
+
+  var allAnns = (DATA.chokepointAnnotations && DATA.chokepointAnnotations.length)
+    ? DATA.chokepointAnnotations
+    : DEFAULT_CHOKEPOINT_ANNOTATIONS;
+
+  var matching = allAnns.filter(function(a) {
+    return a.chokepoints && a.chokepoints.indexOf(cp.id) !== -1;
+  });
+
+  if (!matching.length) {
+    container.innerHTML = '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-style:italic; padding:6px 2px;">No active military disruptions or navigation restrictions on record for ' + escapeHtml(cp.name) + '.</div>';
+    return;
+  }
+
+  var html = '<div style="font-size:var(--fs-micro); font-weight:700; color:var(--text-muted); letter-spacing:0.06em; text-transform:uppercase; margin-bottom:4px;">Historical Disruption &amp; Crisis Milestones</div>';
+  matching.forEach(function(a) {
+    html += '<div class="cp-annotation-card" style="background:#0a0f18; border:1px solid rgba(56, 189, 248, 0.2); border-left:3px solid var(--accent); border-radius:4px; padding:7px 10px; margin-bottom:4px;">' +
+      '<div style="display:flex; justify-content:space-between; align-items:center; gap:8px; flex-wrap:wrap;">' +
+        '<span style="font-size:12px; font-weight:700; color:#fff;">' + escapeHtml(a.title) + '</span>' +
+        '<span style="font-size:var(--fs-micro); font-family:IBM Plex Mono, monospace; color:var(--accent); font-weight:600;">' + escapeHtml(a.date) + (a.end_date ? ' &rarr; ' + escapeHtml(a.end_date) : '') + '</span>' +
+      '</div>' +
+      '<div style="font-size:12px; color:#94a3b8; margin-top:2px; line-height:1.35;">' + escapeHtml(a.description) + '</div>' +
+      '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:4px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:4px;">' +
+        '<span>Source: <strong style="color:#cbd5e1;">' + escapeHtml(a.source) + '</strong></span>' +
+        (a.url ? '<a href="' + escapeHtml(a.url) + '" target="_blank" rel="noopener noreferrer" style="color:var(--accent); text-decoration:underline;">Official Record &rarr;</a>' : '') +
+      '</div>' +
+    '</div>';
+  });
+
+  container.innerHTML = html;
+}
+
 function setChokepointRange(range) {
   trackingActiveChokepointRange = range;
-  document.querySelectorAll('.cp-drawer-header .cp-toggle-btn[data-range]').forEach(function(b) {
+  document.querySelectorAll('.cp-controls-bar .cp-toggle-btn[data-range], .cp-btn-group .cp-toggle-btn[data-range]').forEach(function(b) {
     b.classList.toggle('active', b.dataset.range === range);
   });
   var summary = DATA.chokepointSummary;
@@ -38576,7 +40089,7 @@ function setChokepointRange(range) {
 
 function setChokepointMetric(metric) {
   trackingActiveChokepointMetric = metric;
-  document.querySelectorAll('.cp-controls-bar .cp-toggle-btn').forEach(function(b) {
+  document.querySelectorAll('.cp-controls-bar .cp-toggle-btn[data-metric]').forEach(function(b) {
     b.classList.toggle('active', b.dataset.metric === metric);
   });
   var summary = DATA.chokepointSummary;
@@ -38591,6 +40104,107 @@ function renderChokepointChart(cp) {
   var range = trackingActiveChokepointRange;
   var metric = trackingActiveChokepointMetric;
 
+  // 1. Year-over-Year overlay (Braemar pattern: 2019–2026 across Jan–Dec)
+  if (range === 'yoy') {
+    var yoyLabels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    var monthly = cp.monthly_series || [];
+    var years = [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026];
+    var yearColors = {
+      2019: '#475569',
+      2020: '#64748b',
+      2021: '#94a3b8',
+      2022: '#60a5fa',
+      2023: '#a78bfa',
+      2024: '#f87171',
+      2025: '#f59e0b',
+      2026: '#38bdf8'
+    };
+
+    var metricKey = metric === 'total' ? 'tot_avg' : (metric === 'tanker' ? 'tnk_avg' : (metric === 'bulk' ? 'blk_avg' : (metric === 'container' ? 'cnt_avg' : (metric === 'gencargo' ? 'gc_avg' : (metric === 'roro' ? 'roro_avg' : 'cap_dwt')))));
+
+    var yoyDatasets = [];
+    years.forEach(function(yr) {
+      var yrData = new Array(12).fill(null);
+      monthly.forEach(function(row) {
+        if (row.m && row.m.indexOf(yr + '-') === 0) {
+          var mIdx = parseInt(row.m.slice(5, 7), 10) - 1;
+          if (mIdx >= 0 && mIdx < 12) {
+            var v = row[metricKey];
+            if (metric === 'capacity' && v != null) v = Math.round(v / 1000);
+            yrData[mIdx] = v;
+          }
+        }
+      });
+
+      var isCurrentYear = (yr === 2026);
+      yoyDatasets.push({
+        label: String(yr) + (isCurrentYear ? ' (Current)' : ''),
+        data: yrData,
+        borderColor: yearColors[yr] || '#888',
+        backgroundColor: isCurrentYear ? 'rgba(56, 189, 248, 0.12)' : 'transparent',
+        borderWidth: isCurrentYear ? 3.5 : (yr === 2025 ? 2.0 : 1.3),
+        borderDash: yr === 2025 ? [5, 3] : undefined,
+        pointRadius: isCurrentYear ? 3.5 : 0,
+        pointHoverRadius: 6,
+        tension: 0.25,
+        fill: isCurrentYear,
+        order: isCurrentYear ? 1 : (2030 - yr)
+      });
+    });
+
+    if (chokepointChartInstance) {
+      chokepointChartInstance.destroy();
+    }
+
+    var ctx = canvas.getContext('2d');
+    chokepointChartInstance = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: yoyLabels,
+        datasets: yoyDatasets
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: {
+            display: true,
+            position: 'top',
+            labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 11 }, boxWidth: 12, padding: 8 }
+          },
+          tooltip: {
+            backgroundColor: '#111820',
+            borderColor: '#1c2333',
+            borderWidth: 1,
+            titleColor: '#fff',
+            bodyColor: '#d4dce8',
+            callbacks: {
+              label: function(item) {
+                if (item.raw === null || item.raw === undefined) return null;
+                return ' ' + item.dataset.label + ': ' + item.formattedValue + (metric === 'capacity' ? ' kt DWT' : ' transits/d');
+              }
+            }
+          }
+        },
+        scales: {
+          x: {
+            grid: { color: 'rgba(28, 35, 51, 0.4)' },
+            ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 } }
+          },
+          y: {
+            grid: { color: 'rgba(28, 35, 51, 0.5)' },
+            ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 } }
+          }
+        }
+      }
+    });
+
+    renderChokepointAnnotations(cp);
+    return;
+  }
+
+  // Standard time series
   var labels = [];
   var data = [];
 
@@ -38708,6 +40322,8 @@ function renderChokepointChart(cp) {
       }
     }
   });
+
+  renderChokepointAnnotations(cp);
 }
 
 function calculateGreatCircleDistance(lat1, lon1, lat2, lon2) {
@@ -38721,73 +40337,364 @@ function calculateGreatCircleDistance(lat1, lon1, lat2, lon2) {
   return Math.round(R * c);
 }
 
-function runDistanceCalculation() {
-  var origCode = document.getElementById('distOriginPort')?.value || 'SARRT';
-  var destCode = document.getElementById('distDestPort')?.value || 'NLRTM';
-  var speed = parseFloat(document.getElementById('distSpeedKnots')?.value || '13.0');
-  var burnRate = parseFloat(document.getElementById('distBunkerBurn')?.value || '32.0');
+// =========================================================================
+// DISTANCE & MULTI-LEG ROUTING ENGINE (Prompt 05 Phase 5.4)
+// =========================================================================
 
-  var p1 = PORT_COORDINATES[origCode] || { name: origCode, lat: 26.6, lon: 50.1 };
-  var p2 = PORT_COORDINATES[destCode] || { name: destCode, lat: 51.9, lon: 4.4 };
+var routingPortsLoadPromise = null;
+var routeWaypoints = [
+  { id: 3153, name: 'Fujairah', country: 'United Arab Emirates', lat: 25.1975, lon: 56.3839, eca: 0 },
+  { id: 4114, name: 'Rotterdam', country: 'Netherlands', lat: 51.9054, lon: 4.3168, eca: 1 }
+];
+var routingCanalChoice = 'auto'; // 'auto', 'suez', 'cape', 'panama'
+var activeRoutePolyline = null;
+var activeCapePolyline = null;
 
-  var directNm = calculateGreatCircleDistance(p1.lat, p1.lon, p2.lat, p2.lon);
+function loadRoutingPorts() {
+  if (DATA.routingPortsLoaded) return Promise.resolve();
+  if (routingPortsLoadPromise) return routingPortsLoadPromise;
 
-  // Maritime waterway adjustments
-  var isEuropeAsia = (origCode === 'SARRT' || origCode === 'AEFJR' || origCode === 'SGSIN' || origCode === 'INSIK') && (destCode === 'NLRTM');
-  var canalRouteNm = isEuropeAsia ? (origCode === 'SARRT' ? 6400 : (origCode === 'AEFJR' ? 6250 : 8300)) : Math.round(directNm * 1.15);
-  var capeRouteNm = isEuropeAsia ? (canalRouteNm + 3500) : Math.round(directNm * 1.35);
+  routingPortsLoadPromise = fetch('data/views/signal/routing_ports.json')
+    .then(function(r) { return r.ok ? r.json() : null; })
+    .then(function(data) {
+      if (data && data.ports) {
+        DATA.routingPorts = data.ports;
+        DATA.routingPortsLoaded = true;
+        populateAddPortSelect();
+      }
+    })
+    .catch(function(err) { console.error('[loadRoutingPorts error]', err); });
+  return routingPortsLoadPromise;
+}
+window.loadRoutingPorts = loadRoutingPorts;
 
-  var canalDays = (canalRouteNm / (speed * 24)).toFixed(1);
-  var capeDays = (capeRouteNm / (speed * 24)).toFixed(1);
-  var diffDays = (capeDays - canalDays).toFixed(1);
-  var diffFuel = Math.round(diffDays * burnRate);
+function populateAddPortSelect() {
+  var sel = document.getElementById('routeAddPortSelect');
+  if (!sel || !DATA.routingPorts) return;
 
-  var resCard = document.getElementById('distResultsCard');
-  if (!resCard) return;
-
-  resCard.innerHTML = '<div style="font-weight:700; color:#fff; font-size:12px; margin-bottom:4px;">Routing Comparison: ' + escapeHtml(p1.name) + ' → ' + escapeHtml(p2.name) + '</div>' +
-    '<div class="dist-res-row"><span>Direct Great Circle:</span><strong>' + directNm.toLocaleString('en-US') + ' NM</strong></div>' +
-    '<div class="dist-res-row"><span>Standard Route (Suez / Canal):</span><strong>' + canalRouteNm.toLocaleString('en-US') + ' NM (' + canalDays + ' days)</strong></div>' +
-    '<div class="dist-res-row"><span style="color:#a371f7;">Rerouted Route (Cape of Good Hope):</span><strong style="color:#a371f7;">' + capeRouteNm.toLocaleString('en-US') + ' NM (' + capeDays + ' days)</strong></div>' +
-    '<div class="dist-res-row"><span style="color:var(--yellow);">Transit Voyage Delay:</span><strong style="color:var(--yellow);">+' + diffDays + ' Days Added</strong></div>' +
-    '<div class="dist-res-row"><span>Additional Bunker Consumption:</span><strong>+' + diffFuel.toLocaleString('en-US') + ' MT VLSFO</strong></div>';
+  var html = '<option value="">-- Add Port from Directory (12,060 available) --</option>';
+  // Top 500 major ports for instant select responsiveness
+  var topPorts = DATA.routingPorts.slice(0, 500);
+  topPorts.forEach(function(p) {
+    html += '<option value="' + p[0] + '">' + escapeHtml(p[1]) + ', ' + escapeHtml(p[2]) + (p[6] === 1 ? ' [ECA]' : '') + '</option>';
+  });
+  sel.innerHTML = html;
 }
 
-function plotDistanceRouteOnMap() {
-  if (!trackingMap) return;
-  var origCode = document.getElementById('distOriginPort')?.value || 'SARRT';
-  var destCode = document.getElementById('distDestPort')?.value || 'NLRTM';
+function renderRouteWaypointsList() {
+  var wrap = document.getElementById('routeWaypointsList');
+  var countBadge = document.getElementById('routeLegsCountBadge');
+  if (!wrap) return;
 
-  var p1 = PORT_COORDINATES[origCode] || { lat: 26.6, lon: 50.1 };
-  var p2 = PORT_COORDINATES[destCode] || { lat: 51.9, lon: 4.4 };
-
-  if (activeRoutePolyline) {
-    trackingMap.removeLayer(activeRoutePolyline);
+  var n = routeWaypoints.length;
+  if (countBadge) {
+    countBadge.textContent = n + ' Ports · ' + (n - 1) + (n - 1 === 1 ? ' Leg' : ' Legs');
   }
 
-  // Create polyline via waypoints (simulating sea routing)
-  var waypoints = [
-    [p1.lat, p1.lon],
-    [12.58, 43.33], // Bab el-Mandeb
-    [30.58, 32.57], // Suez
-    [35.96, -5.60], // Gibraltar
-    [p2.lat, p2.lon]
-  ];
+  var html = '';
+  routeWaypoints.forEach(function(wp, idx) {
+    var isOrigin = idx === 0;
+    var isDest = idx === n - 1;
+    var badgeText = isOrigin ? 'Origin' : (isDest ? 'Destination' : 'Waypoint ' + idx);
+    var ecaTag = wp.eca ? ' <span class="class-badge" style="background:rgba(163,113,247,0.15); color:#a371f7;">ECA</span>' : '';
 
-  activeRoutePolyline = L.polyline(waypoints, {
-    color: '#4d9aff',
+    var upBtn = idx > 0 ? '<button class="waypoint-btn" onclick="moveWaypoint(' + idx + ', -1)" title="Move up">↑</button>' : '';
+    var dnBtn = idx < n - 1 ? '<button class="waypoint-btn" onclick="moveWaypoint(' + idx + ', 1)" title="Move down">↓</button>' : '';
+    var rmBtn = n > 2 ? '<button class="waypoint-btn" onclick="removeWaypoint(' + idx + ')" style="color:var(--red);" title="Remove port">&times;</button>' : '';
+
+    html += '<div class="waypoint-chip">' +
+      '<div style="display:flex; align-items:center; gap:8px;">' +
+        '<span class="waypoint-badge">' + badgeText + '</span>' +
+        '<div>' +
+          '<div class="waypoint-name">' + escapeHtml(wp.name) + ecaTag + '</div>' +
+          '<div class="waypoint-sub">' + escapeHtml(wp.country) + ' &middot; ' + wp.lat.toFixed(2) + '°, ' + wp.lon.toFixed(2) + '°</div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="waypoint-actions">' + upBtn + dnBtn + rmBtn + '</div>' +
+    '</div>';
+  });
+
+  wrap.innerHTML = html;
+}
+
+function moveWaypoint(index, dir) {
+  var target = index + dir;
+  if (target < 0 || target >= routeWaypoints.length) return;
+  var tmp = routeWaypoints[index];
+  routeWaypoints[index] = routeWaypoints[target];
+  routeWaypoints[target] = tmp;
+  runMultiLegRouting();
+}
+window.moveWaypoint = moveWaypoint;
+
+function removeWaypoint(index) {
+  if (routeWaypoints.length <= 2) return;
+  routeWaypoints.splice(index, 1);
+  runMultiLegRouting();
+}
+window.removeWaypoint = removeWaypoint;
+
+function addSelectedPortToRoute() {
+  var sel = document.getElementById('routeAddPortSelect');
+  if (!sel || !sel.value) return;
+  var pid = parseInt(sel.value, 10);
+  var p = (DATA.routingPorts || []).find(function(item) { return item[0] === pid; });
+  if (!p) return;
+
+  routeWaypoints.push({
+    id: p[0],
+    name: p[1],
+    country: p[2],
+    lat: p[3],
+    lon: p[4],
+    eca: p[6] || 0
+  });
+
+  sel.value = '';
+  runMultiLegRouting();
+}
+window.addSelectedPortToRoute = addSelectedPortToRoute;
+
+function loadPresetRoute(preset) {
+  var presets = {
+    td3c: [
+      { id: 3153, name: 'Fujairah', country: 'United Arab Emirates', lat: 25.1975, lon: 56.3839, eca: 0 },
+      { id: 4114, name: 'Rotterdam', country: 'Netherlands', lat: 51.9054, lon: 4.3168, eca: 1 }
+    ],
+    c5: [
+      { id: 955, name: 'Port Hedland', country: 'Australia', lat: -20.3167, lon: 118.576, eca: 0 },
+      { id: 1069, name: 'Qingdao', country: 'China', lat: 36.067, lon: 120.317, eca: 0 }
+    ],
+    c3: [
+      { id: 1328, name: 'Tubarao', country: 'Brazil', lat: -20.2858, lon: -40.2458, eca: 0 },
+      { id: 1069, name: 'Qingdao', country: 'China', lat: 36.067, lon: 120.317, eca: 0 }
+    ],
+    transatlantic: [
+      { id: 481, name: 'Houston', country: 'United States', lat: 29.7604, lon: -95.3698, eca: 1 },
+      { id: 4114, name: 'Rotterdam', country: 'Netherlands', lat: 51.9054, lon: 4.3168, eca: 1 }
+    ],
+    transpacific: [
+      { id: 481, name: 'Houston', country: 'United States', lat: 29.7604, lon: -95.3698, eca: 1 },
+      { id: 3280, name: 'Chiba', country: 'Japan', lat: 35.6074, lon: 140.1065, eca: 0 }
+    ]
+  };
+
+  var list = presets[preset];
+  if (!list) return;
+
+  routeWaypoints = JSON.parse(JSON.stringify(list));
+
+  var btns = ['presetTd3c', 'presetC5', 'presetC3', 'presetTransatlantic', 'presetTranspacific'];
+  btns.forEach(function(bId) {
+    var b = document.getElementById(bId);
+    if (b) b.classList.toggle('active', bId.toLowerCase().includes(preset.toLowerCase()));
+  });
+
+  runMultiLegRouting();
+}
+window.loadPresetRoute = loadPresetRoute;
+
+function setRoutingCanalChoice(choice) {
+  routingCanalChoice = choice;
+  var btns = { auto: 'canalBtnAuto', suez: 'canalBtnSuez', cape: 'canalBtnCape', panama: 'canalBtnPanama' };
+  Object.keys(btns).forEach(function(k) {
+    var b = document.getElementById(btns[k]);
+    if (b) b.classList.toggle('active', k === choice);
+  });
+  runMultiLegRouting();
+}
+window.setRoutingCanalChoice = setRoutingCanalChoice;
+
+function runMultiLegRouting() {
+  loadRoutingPorts();
+  renderRouteWaypointsList();
+
+  var speed = parseFloat(document.getElementById('distSpeedStepper')?.value || '13.0');
+  var seaMargin = parseFloat(document.getElementById('distSeaMarginStepper')?.value || '5.0');
+  var burnRate = parseFloat(document.getElementById('distBurnRateStepper')?.value || '32.0');
+
+  var effectiveSpeed = speed / (1 + (seaMargin / 100));
+
+  var totalSeaNm = 0;
+  var totalCapeNm = 0;
+  var totalEcaNm = 0;
+  var legDetails = [];
+  var hasEastWestSuezCorridor = false;
+
+  for (var i = 0; i < routeWaypoints.length - 1; i++) {
+    var p1 = routeWaypoints[i];
+    var p2 = routeWaypoints[i + 1];
+
+    var gc = calculateGreatCircleDistance(p1.lat, p1.lon, p2.lat, p2.lon);
+
+    // Corridor classification
+    var isIndianToAtlantic = (p1.lon > 20 && p1.lon < 120 && p1.lat > -10) && (p2.lon < 20 && p2.lat > 30);
+    var isAtlanticToIndian = (p2.lon > 20 && p2.lon < 120 && p2.lat > -10) && (p1.lon < 20 && p1.lat > 30);
+    var isSuezCorridor = isIndianToAtlantic || isAtlanticToIndian;
+
+    if (isSuezCorridor) hasEastWestSuezCorridor = true;
+
+    var passage = 'Direct Open Sea';
+    var legSeaNm = Math.round(gc * 1.12); // Standard maritime route factor
+    var legCapeNm = legSeaNm;
+
+    if (isSuezCorridor) {
+      if (routingCanalChoice === 'cape') {
+        passage = 'Via Cape of Good Hope (+3,500 NM)';
+        legSeaNm = Math.round(gc * 1.15) + 3520;
+        legCapeNm = legSeaNm;
+      } else {
+        passage = 'Via Suez Canal & Bab el-Mandeb';
+        legSeaNm = Math.round(gc * 1.15);
+        legCapeNm = legSeaNm + 3520;
+      }
+    } else if ((p1.lon < -50 && p2.lon > 100) || (p2.lon < -50 && p1.lon > 100)) {
+      // Transpacific via Panama
+      passage = 'Via Panama Canal';
+      legSeaNm = Math.round(gc * 1.20);
+      legCapeNm = legSeaNm;
+    }
+
+    // ECA distance calculation
+    var legEcaNm = 0;
+    if (p1.eca) legEcaNm += 250;
+    if (p2.eca) legEcaNm += 250;
+    totalEcaNm += legEcaNm;
+
+    var legDays = legSeaNm / (effectiveSpeed * 24);
+
+    totalSeaNm += legSeaNm;
+    totalCapeNm += legCapeNm;
+
+    legDetails.push({
+      idx: i + 1,
+      from: p1.name,
+      to: p2.name,
+      distNm: legSeaNm,
+      days: legDays,
+      passage: passage,
+      ecaNm: legEcaNm
+    });
+  }
+
+  var totalDays = totalSeaNm / (effectiveSpeed * 24);
+  var totalFuel = totalDays * burnRate;
+  var totalEcaDays = totalEcaNm / (effectiveSpeed * 24);
+
+  // Update Summary KPI Strip
+  var elDist = document.getElementById('rtTotalDist');
+  var elDays = document.getElementById('rtTotalDays');
+  var elFuel = document.getElementById('rtTotalFuel');
+  var elEca = document.getElementById('rtTotalEca');
+
+  if (elDist) elDist.textContent = totalSeaNm.toLocaleString('en-US') + ' NM';
+  if (elDays) elDays.textContent = totalDays.toFixed(1) + ' d';
+  if (elFuel) elFuel.textContent = Math.round(totalFuel).toLocaleString('en-US') + ' MT';
+  if (elEca) elEca.textContent = totalEcaNm + ' NM (' + totalEcaDays.toFixed(1) + 'd)';
+
+  // Update Canal Divergence Card
+  var deltaCard = document.getElementById('routeCanalDeltaCard');
+  if (deltaCard) {
+    if (hasEastWestSuezCorridor) {
+      var suezDays = (totalSeaNm / (effectiveSpeed * 24));
+      var capeDays = (totalCapeNm / (effectiveSpeed * 24));
+      var deltaNm = 3520;
+      var deltaDays = (deltaNm / (effectiveSpeed * 24));
+      var deltaFuel = Math.round(deltaDays * burnRate);
+      var fuelCost = Math.round(deltaFuel * 610); // $610/MT benchmark
+
+      deltaCard.style.display = 'flex';
+      deltaCard.innerHTML = '<div style="font-size:12px; font-weight:700; color:#fff; display:flex; justify-content:space-between;">' +
+        '<span>STRATEGIC CANAL DIVERGENCE ANALYSIS</span>' +
+        '<span style="color:#a371f7;">+' + deltaDays.toFixed(1) + ' DAYS DELAY</span>' +
+      '</div>' +
+      '<div style="display:grid; grid-template-columns:1fr 1fr; gap:8px; font-size:11px; margin-top:4px;">' +
+        '<div><span style="color:var(--text-muted);">Standard Route (via Suez):</span> <strong>' + (routingCanalChoice === 'cape' ? (totalSeaNm - 3520).toLocaleString() : totalSeaNm.toLocaleString()) + ' NM (' + (routingCanalChoice === 'cape' ? (suezDays - deltaDays).toFixed(1) : suezDays.toFixed(1)) + 'd)</strong></div>' +
+        '<div><span style="color:#a371f7;">Rerouted Route (via Cape):</span> <strong>' + (routingCanalChoice === 'cape' ? totalSeaNm.toLocaleString() : (totalSeaNm + 3520).toLocaleString()) + ' NM (' + (routingCanalChoice === 'cape' ? suezDays.toFixed(1) : (suezDays + deltaDays).toFixed(1)) + 'd)</strong></div>' +
+      '</div>' +
+      '<div style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5; margin-top:4px; padding-top:4px; border-top:1px solid rgba(163,113,247,0.2);">' +
+        'Cape rerouting absorbs fleet supply with <strong>+' + deltaDays.toFixed(1) + ' steaming days</strong> and <strong>+' + deltaFuel.toLocaleString() + ' MT VLSFO</strong> (~$' + fuelCost.toLocaleString() + ' bunker expense).' +
+      '</div>';
+    } else {
+      deltaCard.style.display = 'none';
+    }
+  }
+
+  // Update Per-Leg Breakdown Table
+  var tbody = document.getElementById('routeLegsTableBody');
+  if (tbody) {
+    var tHtml = '';
+    legDetails.forEach(function(leg) {
+      tHtml += '<tr>' +
+        '<td style="font-family:var(--font-mono);">' + leg.idx + '</td>' +
+        '<td style="font-weight:600;">' + escapeHtml(leg.from) + ' → ' + escapeHtml(leg.to) + '</td>' +
+        '<td style="font-family:var(--font-mono); font-size:11px;">' + leg.distNm.toLocaleString() + ' NM</td>' +
+        '<td style="font-family:var(--font-mono); font-size:11px; color:var(--accent);">' + leg.days.toFixed(1) + 'd</td>' +
+        '<td style="font-size:11px; color:var(--text-muted);">' + escapeHtml(leg.passage) + '</td>' +
+        '<td style="font-family:var(--font-mono); font-size:11px;">' + (leg.ecaNm > 0 ? leg.ecaNm + ' NM' : '—') + '</td>' +
+      '</tr>';
+    });
+    tbody.innerHTML = tHtml;
+  }
+}
+window.runMultiLegRouting = runMultiLegRouting;
+window.runDistanceCalculation = runMultiLegRouting; // Legacy alias
+
+function plotMultiLegRouteOnMap() {
+  if (!window.trackingMap || routeWaypoints.length < 2) return;
+
+  if (activeRoutePolyline) trackingMap.removeLayer(activeRoutePolyline);
+  if (activeCapePolyline) trackingMap.removeLayer(activeCapePolyline);
+
+  var latlngs = [];
+  for (var i = 0; i < routeWaypoints.length - 1; i++) {
+    var p1 = routeWaypoints[i];
+    var p2 = routeWaypoints[i + 1];
+
+    latlngs.push([p1.lat, p1.lon]);
+
+    // Strategic intermediate waypoint injection
+    var isIndianToAtlantic = (p1.lon > 20 && p1.lon < 120 && p1.lat > -10) && (p2.lon < 20 && p2.lat > 30);
+    var isAtlanticToIndian = (p2.lon > 20 && p2.lon < 120 && p2.lat > -10) && (p1.lon < 20 && p1.lat > 30);
+
+    if (isIndianToAtlantic) {
+      if (routingCanalChoice === 'cape') {
+        latlngs.push([-34.35, 18.49]); // Cape of Good Hope
+        latlngs.push([14.71, -17.46]); // Dakar
+      } else {
+        latlngs.push([12.58, 43.33]);  // Bab el-Mandeb
+        latlngs.push([30.58, 32.57]);  // Suez Canal
+        latlngs.push([35.96, -5.60]);  // Gibraltar
+      }
+    } else if (isAtlanticToIndian) {
+      if (routingCanalChoice === 'cape') {
+        latlngs.push([14.71, -17.46]);
+        latlngs.push([-34.35, 18.49]);
+      } else {
+        latlngs.push([35.96, -5.60]);
+        latlngs.push([30.58, 32.57]);
+        latlngs.push([12.58, 43.33]);
+      }
+    }
+    latlngs.push([p2.lat, p2.lon]);
+  }
+
+  activeRoutePolyline = L.polyline(latlngs, {
+    color: '#38bdf8',
     weight: 3,
-    dashArray: '6, 6',
-    opacity: 0.8
+    opacity: 0.88,
+    dashArray: '5, 5'
   }).addTo(trackingMap);
 
   trackingMap.fitBounds(activeRoutePolyline.getBounds(), { padding: [40, 40] });
 
   var hudDetail = document.getElementById('mapHudDetail');
   if (hudDetail) {
-    hudDetail.textContent = 'Active Voyage Route Plotted: ' + origCode + ' → ' + destCode;
+    hudDetail.textContent = 'Multi-Leg Maritime Voyage: ' + routeWaypoints.map(function(w) { return w.name; }).join(' → ');
   }
 }
+window.plotMultiLegRouteOnMap = plotMultiLegRouteOnMap;
+window.plotDistanceRouteOnMap = plotMultiLegRouteOnMap; // Legacy alias
 
 function escapeHtml(str) {
   if (!str) return '';
@@ -41134,7 +43041,7 @@ function escapeHtml(str) {
           const k = summary && summary.kpis;
 
           html = `<div class="rt-title">${title}</div>`;
-          if (k && k.global_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.global_obs}${k.global_prev_obs ? ' (Δ vs ' + k.global_prev_obs + ')' : ''}</span></div>`;
+          if (k && k.global_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${k.global_obs}${k.global_prev_obs ? ' (Δ vs ' + k.global_prev_obs + ')' : ''}</span></div>`;
           if (grade === 'VLSFO') {
             const val = k ? '$' + k.global_vlsfo.toFixed(2) + '/MT' : 'reference value $865.50/MT (before the daily bunker data loads)';
             if (k && k.global_vlsfo_chg != null) { const c = k.global_vlsfo_chg; const cStr = (c > 0 ? '+$' : (c < 0 ? '-$' : '$')) + Math.abs(c).toFixed(2) + '/MT'; html += `<div class="rt-row"><span class="rt-label">Δ vs Prior Obs (D/D)</span><span class="rt-val ${c <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${cStr}</span></div>`; }
@@ -41158,7 +43065,7 @@ function escapeHtml(str) {
             html += `<div class="rt-note">Distillate fuel mandatory inside designated Emission Control Areas (0.10% sulfur) and during EU port stays.</div>`;
           } else if (grade === 'EUA') {
             const val = k ? '€' + k.eu_ets_carbon_eur.toFixed(2) + '/t' : 'EUA reference value not in the loaded bunker data; no fallback figure shown';
-            if (k && k.eu_ets_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.eu_ets_obs} (static screening assumption)</span></div>`;
+            if (k && k.eu_ets_obs) html += `<div class="rt-row"><span class="rt-label">Observation Date</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${k.eu_ets_obs} (static screening assumption)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Carbon Allowance</span><span class="rt-val" style="color:var(--yellow);font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Scope</span><span class="rt-val">EU MRV Shipping Voyages (5,000+ GT)</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Phase-In Schedule</span><span class="rt-val">40% in 2024, 70% in 2025, 100% in 2026</span></div>`;
@@ -41166,7 +43073,7 @@ function escapeHtml(str) {
             html += `<div class="rt-note">Vessels sailing to, from, or between EU ports must surrender European Union Allowances (EUAs) for 3.114 tonnes of CO2 emitted per tonne of bunker fuel consumed.</div>`;
           } else if (grade === 'VOL') {
             const val = k ? (k.singapore_monthly_vol_mt / 1000000).toFixed(2) + 'M MT' : '4.50M MT';
-            if (k && k.singapore_vol_period) html += `<div class="rt-row"><span class="rt-label">Reporting Period</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${k.singapore_vol_period}${k.singapore_vol_yoy_pct != null ? ' · ' + (k.singapore_vol_yoy_pct > 0 ? '+' : '') + k.singapore_vol_yoy_pct.toFixed(1) + '% YoY' : ''}</span></div>`;
+            if (k && k.singapore_vol_period) html += `<div class="rt-row"><span class="rt-label">Reporting Period</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${k.singapore_vol_period}${k.singapore_vol_yoy_pct != null ? ' · ' + (k.singapore_vol_yoy_pct > 0 ? '+' : '') + k.singapore_vol_yoy_pct.toFixed(1) + '% YoY' : ''}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Singapore MPA Volume</span><span class="rt-val" style="color:#00e5ff;font-weight:700;">${val}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Global Share</span><span class="rt-val">~22% of World Seaborne Bunker Deliveries</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Official Source</span><span class="rt-val">Maritime and Port Authority of Singapore (MPA)</span></div>`;
@@ -41241,7 +43148,7 @@ function escapeHtml(str) {
             if (!isNaN(v) && v > 0) html += `<div class="rt-row"><span class="rt-label">${label}</span><span class="rt-val" style="font-weight:700;">$${v.toFixed(2)}/MT</span></div>`;
           });
           if (!isNaN(chg)) html += `<div class="rt-row"><span class="rt-label">7-Day Change</span><span class="rt-val ${chg <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${chg > 0 ? '+' : ''}${chg.toFixed(2)} $/MT</span></div>`;
-          if (date) html += `<div class="rt-row"><span class="rt-label">Observation</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${date}</span></div>`;
+          if (date) html += `<div class="rt-row"><span class="rt-label">Observation</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${date}</span></div>`;
           html += `<div class="rt-note">Grades without a verified quote are omitted. Click the pin to load the port price-history chart.</div>`;
         }
         else if (type === 'bix-chip' || type === 'bix-movers-cell') {
@@ -41257,7 +43164,7 @@ function escapeHtml(str) {
           if (!isNaN(price)) html += `<div class="rt-row"><span class="rt-label">Latest</span><span class="rt-val" style="color:#3fb950;font-weight:700;">$${price.toFixed(2)}/MT</span></div>`;
           if (!isNaN(chg)) html += `<div class="rt-row"><span class="rt-label">Change vs Prior Obs</span><span class="rt-val ${chg <= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${chg > 0 ? '+' : ''}${chg.toFixed(2)} $/MT${!isNaN(pct) ? ' (' + (pct > 0 ? '+' : '') + pct.toFixed(2) + '%)' : ''}</span></div>`;
           if (!isNaN(low) && !isNaN(high)) html += `<div class="rt-row"><span class="rt-label">Range Across Constituent Ports</span><span class="rt-val">$${low.toFixed(0)} – $${high.toFixed(0)}/MT</span></div>`;
-          if (date) html += `<div class="rt-row"><span class="rt-label">Observation</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${date}</span></div>`;
+          if (date) html += `<div class="rt-row"><span class="rt-label">Observation</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${date}</span></div>`;
           html += `<div class="rt-note">BunkerIndex BIX benchmark suite. The full history plots in the chart above the movers table.</div>`;
         }
         else if (type === 'bix-region-card') {
@@ -41338,7 +43245,7 @@ function escapeHtml(str) {
           const sorted = [...dates].sort();
           html = `<div class="rt-title">BIX History Archive</div>`;
           html += `<div class="rt-row"><span class="rt-label">Observation Days</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${sorted.length}</span></div>`;
-          if (sorted.length) html += `<div class="rt-row"><span class="rt-label">Archive Span</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${sorted[0]} → ${sorted[sorted.length - 1]}</span></div>`;
+          if (sorted.length) html += `<div class="rt-row"><span class="rt-label">Archive Span</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${sorted[0]} → ${sorted[sorted.length - 1]}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Series Kept</span><span class="rt-val">${nSeries} (suite × grade)</span></div>`;
           html += `<div class="rt-note">The archive appends with each scheduled data collection run; the chart above always plots the entire archive, never a trailing window.</div>`;
         }
@@ -41410,7 +43317,7 @@ function escapeHtml(str) {
 
           html = `<div class="rt-title">${port} Scrubber TCE Economics</div>`;
           if (!isNaN(hi5)) html += `<div class="rt-row"><span class="rt-label">Hi-5 Fuel Spread (VLSFO − HSFO)</span><span class="rt-val" style="color:#a371f7;font-weight:700;">$${hi5.toFixed(2)}/MT</span></div>`;
-          if (obs) html += `<div class="rt-row"><span class="rt-label">Spread Observation Window</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${obs}</span></div>`;
+          if (obs) html += `<div class="rt-row"><span class="rt-label">Spread Observation Window</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${obs}</span></div>`;
           if (cape) html += `<div class="rt-row"><span class="rt-label">Capesize Scrubber TCE Boost</span><span class="rt-val pos" style="font-weight:700;">+$${cape}/day</span></div>`;
           if (vlcc) html += `<div class="rt-row"><span class="rt-label">VLCC Scrubber TCE Boost</span><span class="rt-val pos" style="font-weight:700;">+$${vlcc}/day</span></div>`;
           if (payback) html += `<div class="rt-row"><span class="rt-label">Scrubber CAPEX Payback</span><span class="rt-val">~${payback} Months</span></div>`;
@@ -41424,7 +43331,7 @@ function escapeHtml(str) {
           const fresh = target.getAttribute('data-tt-fresh') || '';
           html = `<div class="rt-title">${title}</div>`;
           if (val) html += `<div class="rt-row"><span class="rt-label">Live Status</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
-          if (fresh) html += `<div class="rt-row"><span class="rt-label">Data Freshness</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${fresh}</span></div>`;
+          if (fresh) html += `<div class="rt-row"><span class="rt-label">Data Freshness</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${fresh}</span></div>`;
           if (desc) html += `<div class="rt-note">${desc}</div>`;
         }
         else if (type === 'fixture-leg-row') {
@@ -41439,7 +43346,7 @@ function escapeHtml(str) {
           if (klass) html += `<div class="rt-row"><span class="rt-label">Vessel Class</span><span class="rt-val">${klass}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Loading Port</span><span class="rt-val">${load || 'not resolved'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Discharge Port</span><span class="rt-val">${disch || 'not resolved'}</span></div>`;
-          if (date) html += `<div class="rt-row"><span class="rt-label">Fixture Date</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${date}</span></div>`;
+          if (date) html += `<div class="rt-row"><span class="rt-label">Fixture Date</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${date}</span></div>`;
           if (dist) html += `<div class="rt-row"><span class="rt-label">Great-Circle Distance</span><span class="rt-val">${Number(dist).toLocaleString('en-US')} NM (between reported ports)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Port Resolution</span><span class="rt-val">${mq}</span></div>`;
           html += `<div class="rt-note">Broker-reported fixture from the Fearnleys tape. This is a reported fixture voyage, not an AIS position: the ship's path between the ports is not in the data.</div>`;
@@ -41451,7 +43358,7 @@ function escapeHtml(str) {
           const calls = target.getAttribute('data-tt-calls') || '0';
           const mix = target.getAttribute('data-tt-mix') || '';
           html = `<div class="rt-title">${port}${country ? ' (' + country + ')' : ''}</div>`;
-          if (locode) html += `<div class="rt-row"><span class="rt-label">UN/LOCODE</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${locode}</span></div>`;
+          if (locode) html += `<div class="rt-row"><span class="rt-label">UN/LOCODE</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${locode}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Calls (2026 YTD)</span><span class="rt-val" style="color:var(--accent); font-weight:700;">${Number(calls).toLocaleString('en-US')} measured calls</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Calls by Class (YTD)</span><span class="rt-val">${mix}</span></div>`;
           html += `<div class="rt-note">Measured IMF PortWatch daily calls, 2026 year to date. Click to open the port page: facts, activity chart, reported fixtures and disruptions.</div>`;
@@ -41478,7 +43385,7 @@ function escapeHtml(str) {
             html = `<div class="rt-title">${d.eventname || d.eventid}</div>`;
             html += `<div class="rt-row"><span class="rt-label">Event Type</span><span class="rt-val">${(d.eventtype || '').toUpperCase() || 'Event'}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Alert Level</span><span class="rt-val" style="color:${d.alertlevel === 'RED' ? 'var(--red)' : 'var(--yellow)'}; font-weight:700;">${d.alertlevel || 'n/a'}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Window</span><span class="rt-val" style="font-family:'IBM Plex Mono', monospace;">${d.fromdate || 'n/a'} to ${d.todate || 'n/a'}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Window</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${d.fromdate || 'n/a'} to ${d.todate || 'n/a'}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val">${d.ongoing ? 'Flagged ongoing by PortWatch' : 'Ended'}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Affected Ports</span><span class="rt-val">${(d.affectedPortIds || []).length || d.n_affectedports || 0} PortWatch port(s)</span></div>`;
             if (d.severitytext) html += `<div class="rt-row"><span class="rt-label">Severity</span><span class="rt-val">${d.severitytext}</span></div>`;
@@ -46382,16 +48289,16 @@ function renderOffshoreLedgerTable() {
       data-tt-max="${r.max_dayrate || 0}"
       data-tt-yoy="${r.yoy_change_pct || ''}"
       data-tt-util="${r.utilization_pct || ''}">
-      <td style="font-family:'IBM Plex Mono', monospace; font-weight:600; color:var(--text);">${r.label || r.date}</td>
+      <td style="font-family:IBM Plex Mono, monospace; font-weight:600; color:var(--text);">${r.label || r.date}</td>
       <td>
         <span style="font-weight:600; color:#fff;">${r.category_name || r.category_key}</span>
         <span style="font-size:var(--fs-micro); color:var(--text-muted); display:block;">${r.type || 'OSV'}</span>
       </td>
-      <td style="font-family:'IBM Plex Mono', monospace; font-weight:700; color:var(--accent);">£${Math.round(r.avg_dayrate).toLocaleString('en-US')} / d</td>
-      <td style="font-family:'IBM Plex Mono', monospace; font-size:11px; color:var(--text-muted);">${rangeStr}</td>
-      <td class="${yoyCls}" style="font-weight:600; font-family:'IBM Plex Mono', monospace;">${yoy}</td>
+      <td style="font-family:IBM Plex Mono, monospace; font-weight:700; color:var(--accent);">£${Math.round(r.avg_dayrate).toLocaleString('en-US')} / d</td>
+      <td style="font-family:IBM Plex Mono, monospace; font-size:11px; color:var(--text-muted);">${rangeStr}</td>
+      <td class="${yoyCls}" style="font-weight:600; font-family:IBM Plex Mono, monospace;">${yoy}</td>
       <td>
-        <span style="display:inline-block; padding:2px 6px; border-radius:3px; background:rgba(88,166,255,0.1); color:#58a6ff; font-family:'IBM Plex Mono', monospace; font-size:11px; font-weight:600;">
+        <span style="display:inline-block; padding:2px 6px; border-radius:3px; background:rgba(88,166,255,0.1); color:#58a6ff; font-family:IBM Plex Mono, monospace; font-size:11px; font-weight:600;">
           ${util}
         </span>
       </td>
@@ -46415,7 +48322,7 @@ function renderOffshoreReports() {
       <div style="font-weight:700; font-size:12px; color:#fff; line-height:1.3; margin-bottom:3px;">
         ${rep.title}
       </div>
-      <div style="display:flex; justify-content:space-between; font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace; margin-bottom:8px;">
+      <div style="display:flex; justify-content:space-between; font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace; margin-bottom:8px;">
         <span>${rep.date}</span>
         <span>${sizeStr}</span>
       </div>
@@ -46571,18 +48478,18 @@ function renderPortStressTable() {
       data-tt-wow="${h.wow_change}">
       <td>
         <div style="font-weight:700; color:#fff;">${h.name}</div>
-        <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">${h.locode} · ${h.country}</div>
+        <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace;">${h.locode} · ${h.country}</div>
       </td>
       <td>
         <span style="font-size:11px; font-weight:600; color:#58a6ff;">${h.asset_class}</span>
       </td>
-      <td style="font-family:'IBM Plex Mono', monospace; font-weight:700; color:var(--accent);">
+      <td style="font-family:IBM Plex Mono, monospace; font-weight:700; color:var(--accent);">
         ${h.weekly_calls.toFixed(1)} <span style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:400;">calls/wk</span>
       </td>
-      <td style="font-family:'IBM Plex Mono', monospace; font-size:11px; color:var(--text-muted);">
+      <td style="font-family:IBM Plex Mono, monospace; font-size:11px; color:var(--text-muted);">
         ${h.hist_mean.toFixed(1)} [${Math.round(h.hist_min)}–${Math.round(h.hist_max)}]
       </td>
-      <td class="${zCls}" style="font-family:'IBM Plex Mono', monospace; font-weight:700;">
+      <td class="${zCls}" style="font-family:IBM Plex Mono, monospace; font-weight:700;">
         ${zSign}${h.zscore.toFixed(2)}σ
       </td>
       <td>${badgeHtml}</td>

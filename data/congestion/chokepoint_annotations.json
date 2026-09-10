@@ -1,0 +1,62 @@
+[
+  {
+    "id": "suez_ever_given",
+    "chokepoints": ["suez_canal"],
+    "date": "2021-03-23",
+    "end_date": "2021-03-29",
+    "title": "Ever Given Suez Canal Blockage",
+    "description": "Ultra-large container vessel Ever Given ran aground, halting ~12% of global trade and queuing 400+ vessels for 6 days.",
+    "source": "Suez Canal Authority",
+    "url": "https://www.suezcanal.gov.eg"
+  },
+  {
+    "id": "panama_drought_2023",
+    "chokepoints": ["panama_canal"],
+    "date": "2023-10-31",
+    "end_date": "2024-05-01",
+    "title": "Panama Historic Drought Restrictions",
+    "description": "Gatun Lake water crisis forces ACP to slash booking slots from 36 down to 18-24 daily transits and draft to 44ft.",
+    "source": "Panama Canal Authority Advisory A-48-2023",
+    "url": "https://pancanal.com"
+  },
+  {
+    "id": "red_sea_houthi_onset",
+    "chokepoints": ["bab_el_mandeb", "suez_canal"],
+    "date": "2023-11-19",
+    "end_date": "2026-09-10",
+    "title": "Red Sea Missile Attacks & Galaxy Leader Hijack",
+    "description": "Houthi anti-ship missile campaign shuts Bab el-Mandeb / Suez corridor to western commercial container & tanker fleets.",
+    "source": "US Central Command / IMO Maritime Safety Committee",
+    "url": "https://www.centcom.mil"
+  },
+  {
+    "id": "operation_aspides",
+    "chokepoints": ["bab_el_mandeb"],
+    "date": "2024-01-12",
+    "end_date": "2026-09-10",
+    "title": "Naval Escort Operations (Prosperity Guardian & Aspides)",
+    "description": "Coalition naval escorts deployed in Red Sea and Gulf of Aden to protect international merchant shipping.",
+    "source": "EU NAVFOR Operation ASPIDES",
+    "url": "https://www.eeas.europa.eu"
+  },
+  {
+    "id": "tutor_sinking",
+    "chokepoints": ["bab_el_mandeb", "cape_good_hope"],
+    "date": "2024-06-12",
+    "end_date": "2026-09-10",
+    "title": "Sinking of MV Tutor in Red Sea",
+    "description": "Uncrewed surface vessel strike sinks bulk carrier Tutor, cementing structural long-term Cape rerouting.",
+    "source": "UK Maritime Trade Operations (UKMTO)",
+    "url": "https://www.ukmto.org"
+  },
+  {
+    "id": "panama_draft_recovery",
+    "chokepoints": ["panama_canal"],
+    "date": "2024-08-15",
+    "end_date": "2026-09-10",
+    "title": "Panama Draft Restored to 48 Feet",
+    "description": "ACP lifts draft restrictions back to full 48 feet (14.63m) baseline as seasonal rainfall refills Gatun Lake.",
+    "source": "Panama Canal Authority Advisory A-29-2024",
+    "url": "https://pancanal.com"
+  }
+]
