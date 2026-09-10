@@ -1,0 +1,506 @@
+{
+  "202001": {
+    "tonnes": 31560491660.0,
+    "volume_mt": 31560.49,
+    "value_usd": 1493119878.375,
+    "seaborne_mt": 31560.49,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202002": {
+    "tonnes": 29734549858.01,
+    "volume_mt": 29734.55,
+    "value_usd": 1443466091.935,
+    "seaborne_mt": 29734.55,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202003": {
+    "tonnes": 33201558279.49,
+    "volume_mt": 33201.56,
+    "value_usd": 1588666691.309,
+    "seaborne_mt": 33201.56,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202004": {
+    "tonnes": 25574437741.418,
+    "volume_mt": 25574.44,
+    "value_usd": 1219678361.222,
+    "seaborne_mt": 25574.44,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202005": {
+    "tonnes": 23485032704.218,
+    "volume_mt": 23485.03,
+    "value_usd": 1006935792.651,
+    "seaborne_mt": 23485.03,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202006": {
+    "tonnes": 25990280554.397,
+    "volume_mt": 25990.28,
+    "value_usd": 1041675241.76,
+    "seaborne_mt": 25990.28,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202007": {
+    "tonnes": 27450057223.79,
+    "volume_mt": 27450.06,
+    "value_usd": 1082777452.177,
+    "seaborne_mt": 27450.06,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202008": {
+    "tonnes": 26387746294.639,
+    "volume_mt": 26387.75,
+    "value_usd": 1001923092.606,
+    "seaborne_mt": 26387.75,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202009": {
+    "tonnes": 26475705771.415,
+    "volume_mt": 26475.71,
+    "value_usd": 985869006.585,
+    "seaborne_mt": 26475.71,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202010": {
+    "tonnes": 28583728557.394,
+    "volume_mt": 28583.73,
+    "value_usd": 1077061718.525,
+    "seaborne_mt": 28583.73,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202011": {
+    "tonnes": 31216804056.056,
+    "volume_mt": 31216.8,
+    "value_usd": 1266221007.567,
+    "seaborne_mt": 31216.8,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202012": {
+    "tonnes": 31887270684.548,
+    "volume_mt": 31887.27,
+    "value_usd": 1326622194.03,
+    "seaborne_mt": 31887.27,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202101": {
+    "tonnes": 28221927200.0,
+    "volume_mt": 28221.93,
+    "value_usd": 1384074312.621,
+    "seaborne_mt": 28221.93,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202102": {
+    "tonnes": 26511271500.0,
+    "volume_mt": 26511.27,
+    "value_usd": 1465589630.899,
+    "seaborne_mt": 26511.27,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202103": {
+    "tonnes": 29017090561.0,
+    "volume_mt": 29017.09,
+    "value_usd": 1597912494.761,
+    "seaborne_mt": 29017.09,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202104": {
+    "tonnes": 28300560500.0,
+    "volume_mt": 28300.56,
+    "value_usd": 1562179053.483,
+    "seaborne_mt": 28300.56,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202105": {
+    "tonnes": 29330292100.0,
+    "volume_mt": 29330.29,
+    "value_usd": 1823803465.566,
+    "seaborne_mt": 29330.29,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202106": {
+    "tonnes": 28735200580.0,
+    "volume_mt": 28735.2,
+    "value_usd": 1925948925.53,
+    "seaborne_mt": 28735.2,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202107": {
+    "tonnes": 31866037500.0,
+    "volume_mt": 31866.04,
+    "value_usd": 2364095003.462,
+    "seaborne_mt": 31866.04,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202108": {
+    "tonnes": 29663187900.0,
+    "volume_mt": 29663.19,
+    "value_usd": 2432032001.313,
+    "seaborne_mt": 29663.19,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202109": {
+    "tonnes": 29669443000.0,
+    "volume_mt": 29669.44,
+    "value_usd": 2650815015.614,
+    "seaborne_mt": 29669.44,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202110": {
+    "tonnes": 30928563300.0,
+    "volume_mt": 30928.56,
+    "value_usd": 3216930650.008,
+    "seaborne_mt": 30928.56,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202111": {
+    "tonnes": 26488095300.0,
+    "volume_mt": 26488.1,
+    "value_usd": 3352987732.053,
+    "seaborne_mt": 26488.1,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202112": {
+    "tonnes": 26721472700.0,
+    "volume_mt": 26721.47,
+    "value_usd": 2756724199.89,
+    "seaborne_mt": 26721.47,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202201": {
+    "tonnes": 10922943300.0,
+    "volume_mt": 10922.94,
+    "value_usd": 1068125123.668,
+    "seaborne_mt": 10922.94,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202202": {
+    "tonnes": 24976588500.0,
+    "volume_mt": 24976.59,
+    "value_usd": 2581713664.971,
+    "seaborne_mt": 24976.59,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202203": {
+    "tonnes": 35315679700.0,
+    "volume_mt": 35315.68,
+    "value_usd": 3958511120.14,
+    "seaborne_mt": 35315.68,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202204": {
+    "tonnes": 31976059600.0,
+    "volume_mt": 31976.06,
+    "value_usd": 4551620873.06,
+    "seaborne_mt": 31976.06,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202205": {
+    "tonnes": 33274270528.193,
+    "volume_mt": 33274.27,
+    "value_usd": 4414736429.282,
+    "seaborne_mt": 33274.27,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202206": {
+    "tonnes": 34112324180.325,
+    "volume_mt": 34112.32,
+    "value_usd": 4604464068.254,
+    "seaborne_mt": 34112.32,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202207": {
+    "tonnes": 33452622400.0,
+    "volume_mt": 33452.62,
+    "value_usd": 4733948077.81,
+    "seaborne_mt": 33452.62,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202208": {
+    "tonnes": 32780538100.0,
+    "volume_mt": 32780.54,
+    "value_usd": 4409524818.392,
+    "seaborne_mt": 32780.54,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202209": {
+    "tonnes": 33151139850.0,
+    "volume_mt": 33151.14,
+    "value_usd": 4161359587.811,
+    "seaborne_mt": 33151.14,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202210": {
+    "tonnes": 32733623660.0,
+    "volume_mt": 32733.62,
+    "value_usd": 4413014803.947,
+    "seaborne_mt": 32733.62,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202211": {
+    "tonnes": 29694931400.0,
+    "volume_mt": 29694.93,
+    "value_usd": 4161548735.672,
+    "seaborne_mt": 29694.93,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202212": {
+    "tonnes": 27724513200.0,
+    "volume_mt": 27724.51,
+    "value_usd": 3706370996.372,
+    "seaborne_mt": 27724.51,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202301": {
+    "tonnes": 26169669607.0,
+    "volume_mt": 26169.67,
+    "value_usd": 3429356541.487,
+    "seaborne_mt": 26169.67,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202302": {
+    "tonnes": 27525663244.0,
+    "volume_mt": 27525.66,
+    "value_usd": 3186564162.564,
+    "seaborne_mt": 27461.86,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202303": {
+    "tonnes": 35168531816.0,
+    "volume_mt": 35168.53,
+    "value_usd": 3584436160.28,
+    "seaborne_mt": 35149.73,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202304": {
+    "tonnes": 32492255839.0,
+    "volume_mt": 32492.26,
+    "value_usd": 3229345684.14,
+    "seaborne_mt": 32484.0,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202305": {
+    "tonnes": 31614503377.0,
+    "volume_mt": 31614.5,
+    "value_usd": 3009096965.11,
+    "seaborne_mt": 31585.0,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202306": {
+    "tonnes": 28598239965.0,
+    "volume_mt": 28598.24,
+    "value_usd": 2671425952.605,
+    "seaborne_mt": 28598.24,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202307": {
+    "tonnes": 32264695494.0,
+    "volume_mt": 32264.7,
+    "value_usd": 2555029189.176,
+    "seaborne_mt": 32264.7,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202308": {
+    "tonnes": 29605208577.0,
+    "volume_mt": 29605.21,
+    "value_usd": 2252970240.1,
+    "seaborne_mt": 29605.21,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202309": {
+    "tonnes": 30421737556.0,
+    "volume_mt": 30421.74,
+    "value_usd": 2203702526.266,
+    "seaborne_mt": 30405.24,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202310": {
+    "tonnes": 35962815574.92,
+    "volume_mt": 35962.82,
+    "value_usd": 2734980607.162,
+    "seaborne_mt": 35962.82,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202311": {
+    "tonnes": 33880315236.502,
+    "volume_mt": 33880.32,
+    "value_usd": 2736200329.642,
+    "seaborne_mt": 33880.31,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202312": {
+    "tonnes": 36001569951.0,
+    "volume_mt": 36001.57,
+    "value_usd": 2998968641.154,
+    "seaborne_mt": 36001.57,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202401": {
+    "tonnes": 29499711656.13,
+    "volume_mt": 29499.71,
+    "value_usd": 2408876720.94,
+    "seaborne_mt": 29499.71,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202402": {
+    "tonnes": 33206186284.38,
+    "volume_mt": 33206.19,
+    "value_usd": 2598599055.457,
+    "seaborne_mt": 33206.19,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202403": {
+    "tonnes": 33314956380.0,
+    "volume_mt": 33314.96,
+    "value_usd": 2560254128.616,
+    "seaborne_mt": 33314.96,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202404": {
+    "tonnes": 34282928584.873,
+    "volume_mt": 34282.93,
+    "value_usd": 2607282523.435,
+    "seaborne_mt": 33734.64,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202405": {
+    "tonnes": 33687509324.028,
+    "volume_mt": 33687.51,
+    "value_usd": 2501997711.645,
+    "seaborne_mt": 33336.56,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202406": {
+    "tonnes": 32658711916.0,
+    "volume_mt": 32658.71,
+    "value_usd": 2493067970.958,
+    "seaborne_mt": 32356.9,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202407": {
+    "tonnes": 34111315672.0,
+    "volume_mt": 34111.32,
+    "value_usd": 2491382565.492,
+    "seaborne_mt": 32188.65,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202408": {
+    "tonnes": 34016253582.0,
+    "volume_mt": 34016.25,
+    "value_usd": 2470428884.781,
+    "seaborne_mt": 33431.22,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202409": {
+    "tonnes": 34635378574.0,
+    "volume_mt": 34635.38,
+    "value_usd": 2536521840.826,
+    "seaborne_mt": 34247.58,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202410": {
+    "tonnes": 34772248463.0,
+    "volume_mt": 34772.25,
+    "value_usd": 2518507431.843,
+    "seaborne_mt": 34521.09,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202411": {
+    "tonnes": 35129227655.0,
+    "volume_mt": 35129.23,
+    "value_usd": 2614896939.282,
+    "seaborne_mt": 35068.73,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202412": {
+    "tonnes": 36446812423.0,
+    "volume_mt": 36446.81,
+    "value_usd": 2687691306.127,
+    "seaborne_mt": 35863.31,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202501": {
+    "tonnes": 30409061077.0,
+    "volume_mt": 30409.06,
+    "value_usd": 2168168916.313,
+    "seaborne_mt": 30409.06,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202502": {
+    "tonnes": 30818127150.0,
+    "volume_mt": 30818.13,
+    "value_usd": 2083159794.851,
+    "seaborne_mt": 30818.13,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202503": {
+    "tonnes": 30728231325.0,
+    "volume_mt": 30728.23,
+    "value_usd": 1967813934.41,
+    "seaborne_mt": 30728.23,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202504": {
+    "tonnes": 30809454274.0,
+    "volume_mt": 30809.45,
+    "value_usd": 1947037662.623,
+    "seaborne_mt": 30809.45,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202505": {
+    "tonnes": 33601326161.0,
+    "volume_mt": 33601.33,
+    "value_usd": 2089058751.839,
+    "seaborne_mt": 33601.33,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202506": {
+    "tonnes": 27828526124.0,
+    "volume_mt": 27828.53,
+    "value_usd": 1714780637.527,
+    "seaborne_mt": 27828.53,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202507": {
+    "tonnes": 30516419489.0,
+    "volume_mt": 30516.42,
+    "value_usd": 1851091173.857,
+    "seaborne_mt": 30516.42,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202508": {
+    "tonnes": 36415728595.0,
+    "volume_mt": 36415.73,
+    "value_usd": 2084698911.931,
+    "seaborne_mt": 36415.73,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202509": {
+    "tonnes": 34103234162.0,
+    "volume_mt": 34103.23,
+    "value_usd": 2035112469.198,
+    "seaborne_mt": 34103.23,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202510": {
+    "tonnes": 35239834134.0,
+    "volume_mt": 35239.83,
+    "value_usd": 2145422573.931,
+    "seaborne_mt": 35239.83,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202511": {
+    "tonnes": 34173147302.0,
+    "volume_mt": 34173.15,
+    "value_usd": 2079567159.818,
+    "seaborne_mt": 34173.15,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  },
+  "202512": {
+    "tonnes": 36281973263.0,
+    "volume_mt": 36281.97,
+    "value_usd": 2316852937.181,
+    "seaborne_mt": 36281.97,
+    "source": "UN Comtrade (Reporter 360 / BPS Submission)"
+  }
+}

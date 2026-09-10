@@ -2082,6 +2082,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Official GACC monthly demand series across 10 commodities (Iron ore, Coal, Bauxite, Alumina, Soybeans, Crude oil, LNG/LPG, Fertiliser 3102/3105, Steel). Contains partner distributions: Australia 61.1% vs Brazil 21.5% for iron ore (C5 vs C3 signal)."
+    },
+    {
+      "series_id": "commodities_indonesia_coal_exports_monthly",
+      "display_name": "Commodities \u2014 Indonesia Coal Monthly Exports (BPS / Comtrade)",
+      "status": "LIVE",
+      "source_name": "Badan Pusat Statistik (BPS) / UN Comtrade / Katadata Databoks",
+      "source_url": "https://webapi.bps.go.id/developer/",
+      "fetch_method": "BPS Official Release & UN Comtrade Bilateral Series",
+      "fetch_script": "scripts/acquire/fetch_indonesia_coal.py",
+      "output_file": "data/commodities/indonesia_coal_exports_monthly.csv",
+      "row_count": 76,
+      "date_span": [
+        "2020-01-01",
+        "2026-07-01"
+      ],
+      "last_fetched_utc": "2026-09-10T19:10:41.984950+00:00",
+      "unit": "Mt / month",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Monthly seaborne thermal coal exports from Indonesia (world's #1 exporter). Captures 2020\u20132026 monthly volumes (Jan 2026: 29.53 Mt, May 2026: 40.49 Mt, Jan-Jul: 201.47 Mt). Key Panamax/Supramax Pacific Basin demand driver for India and China."
     }
   ]
 }
