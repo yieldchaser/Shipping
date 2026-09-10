@@ -1,0 +1,110 @@
+{
+  "dataset_name": "Seaborne Minor Bulks Monthly Trade Flows",
+  "generated_utc": "2026-09-10T19:56:52.884945+00:00",
+  "total_rows": 337,
+  "date_span": "2022-01-01 to 2026-07-01",
+  "commodities_covered": [
+    "Alumina",
+    "Cement / Clinker",
+    "Fertiliser (NPK/DAP)",
+    "Nickel Ore",
+    "Scrap Steel",
+    "Sugar",
+    "Urea / Fertiliser"
+  ],
+  "commodity_summaries": {
+    "Alumina": {
+      "total_records": 35,
+      "min_date": "2022-01-01",
+      "max_date": "2024-12-01",
+      "mean_monthly_tonnes": 149527.5,
+      "max_monthly_tonnes": 354980.6,
+      "total_volume_tonnes": 5233463.4,
+      "total_fob_usd": 2841637292.0,
+      "vessel_class": "Handymax / Supramax",
+      "reporter": "China",
+      "flow": "Imports"
+    },
+    "Cement / Clinker": {
+      "total_records": 41,
+      "min_date": "2022-01-01",
+      "max_date": "2025-12-01",
+      "mean_monthly_tonnes": 592174.2,
+      "max_monthly_tonnes": 11862583.0,
+      "total_volume_tonnes": 24279141.9,
+      "total_fob_usd": 211471879.0,
+      "vessel_class": "Handysize",
+      "reporter": "T\u00fcrkiye",
+      "flow": "Exports"
+    },
+    "Fertiliser (NPK/DAP)": {
+      "total_records": 55,
+      "min_date": "2022-01-01",
+      "max_date": "2026-07-01",
+      "mean_monthly_tonnes": 713865.1,
+      "max_monthly_tonnes": 1210243.9,
+      "total_volume_tonnes": 39262582.9,
+      "total_fob_usd": 25299070143.0,
+      "vessel_class": "Supramax / Handysize",
+      "reporter": "Brazil",
+      "flow": "Imports"
+    },
+    "Nickel Ore": {
+      "total_records": 51,
+      "min_date": "2022-01-01",
+      "max_date": "2026-05-01",
+      "mean_monthly_tonnes": 3799064.3,
+      "max_monthly_tonnes": 8451820.0,
+      "total_volume_tonnes": 193752279.2,
+      "total_fob_usd": 5294809458.0,
+      "vessel_class": "Supramax",
+      "reporter": "Philippines",
+      "flow": "Exports"
+    },
+    "Scrap Steel": {
+      "total_records": 48,
+      "min_date": "2022-01-01",
+      "max_date": "2025-12-01",
+      "mean_monthly_tonnes": 71113.1,
+      "max_monthly_tonnes": 1320115.1,
+      "total_volume_tonnes": 3413430.1,
+      "total_fob_usd": 1301153147.0,
+      "vessel_class": "Supramax / Handysize",
+      "reporter": "T\u00fcrkiye",
+      "flow": "Imports"
+    },
+    "Sugar": {
+      "total_records": 55,
+      "min_date": "2022-01-01",
+      "max_date": "2026-07-01",
+      "mean_monthly_tonnes": 2411075.5,
+      "max_monthly_tonnes": 3788994.5,
+      "total_volume_tonnes": 132609150.8,
+      "total_fob_usd": 59389993585.0,
+      "vessel_class": "Supramax / Handysize",
+      "reporter": "Brazil",
+      "flow": "Exports"
+    },
+    "Urea / Fertiliser": {
+      "total_records": 52,
+      "min_date": "2022-01-01",
+      "max_date": "2026-06-01",
+      "mean_monthly_tonnes": 232826.8,
+      "max_monthly_tonnes": 1754637.1,
+      "total_volume_tonnes": 12106994.2,
+      "total_fob_usd": 7965187917.8,
+      "vessel_class": "Handysize / Supramax",
+      "reporter": "India",
+      "flow": "Imports"
+    }
+  },
+  "shipping_impact_thesis": {
+    "Sugar": "Brazil export peaks (May-Nov) trigger intensive Supramax/Handysize chartering from Santos/Paranagua.",
+    "Urea / Fertiliser": "Indian kharif/rabi agricultural import seasons drive major Supramax tonnage inbound from Baltic/Black Sea/Persian Gulf.",
+    "Fertiliser (NPK/DAP)": "Brazil soybean/corn soil preparation drives massive fertiliser imports into Paranagua/Santos.",
+    "Alumina": "China imports from Australia and Guinea/Indonesia sustain continuous Handymax industrial supply lines.",
+    "Nickel Ore": "Philippines monsoon seasonality (April-Oct dry season peak) governs Surigao-to-China Supramax loading runs.",
+    "Scrap Steel": "T\u00fcrkiye electric-arc-furnace steel mills import 1.5-2.0 Mt/mo, establishing deepsea Supramax benchmark rates from US/Europe.",
+    "Cement / Clinker": "T\u00fcrkiye and Vietnam regional export surpluses drive Handysize coastal and deepsea distribution across Mediterranean and West Africa."
+  }
+}

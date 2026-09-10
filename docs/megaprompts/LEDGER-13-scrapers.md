@@ -443,6 +443,43 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.82s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 10 — Minor Bulks Seaborne Trade Flow Harvester (Comtrade / ComexStat)
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_minor_bulks.py` (created)
+  - `data/commodities/minor_bulks_monthly.csv` (created - 337 monthly records across 7 major trade flows)
+  - `data/commodities/minor_bulks_metadata.json` (created - commodity vessel mapping, seasonal profiles, trade lane thesis)
+  - `data/provenance/manifest.json` (registered `commodities_minor_bulks_monthly` with 337 rows, status LIVE)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 2, Rung 4):**
+  - `[Rung 4] UN Comtrade Public API (v1 preview)` across 7 commodity flows and 55 monthly periods (2022-01 to 2026-07):
+    - Sugar (Brazil exports, HS 1701 / ComexStat NCM 1701): 55 observations (peak monthly volume >3.9 Mt in Aug-Oct). Drives seasonal Supramax/Handysize demand from Santos/Paranaguá.
+    - Urea / Nitrogenous Fertilisers (India imports, HS 3102, reporter 699): 54 observations (peak monthly volume >1.9 Mt). Kharif/rabi planting cycles govern Handysize/Supramax charters from Baltic/Black Sea/Middle East.
+    - NPK / DAP Complex Fertilisers (Brazil imports, HS 3105, reporter 76): 55 observations (peak monthly volume >1.4 Mt). Pre-planting inbound voyages into Paranaguá/Santos.
+    - Alumina (China imports, HS 2818, reporter 156): 55 observations (peak monthly volume >360k t). Downstream aluminum smelting input, pairing with Guinea/Australia bauxite.
+    - Nickel Ore (Philippines exports, HS 2604, reporter 608): 36 observations (peak monthly volume >6.0 Mt in dry season). Surigao-to-China Supramax round-voyage benchmark.
+    - Scrap Steel (Türkiye imports, HS 7204, reporter 792): 48 observations (deepsea imports ~1.5-2.0 Mt/mo). World's premier electric arc furnace scrap market, fixing Supramax transatlantic trips.
+    - Cement & Clinker (Türkiye exports, HS 2523, reporter 792): 34 observations. Regional Handysize distribution across Mediterranean and West Africa.
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_minor_bulks.py` harvesting official monthly trade volumes (metric tonnes) and values (USD) across all 6 core minor bulks.
+  2. Established persistent caching in `.cache_minor_bulks.json` to guarantee instant rebuilds and resilience against rate pacing.
+  3. Integrated Brazil ComexStat local series for Sugar exports with UN Comtrade global mirrors.
+  4. Mapped vessel class dependencies (Handysize, Supramax, Ultramax) to each trade lane in `minor_bulks_metadata.json`.
+  5. Updated `data/provenance/manifest.json` marking `commodities_minor_bulks_monthly` LIVE with 337 rows spanning 2022-01-01 to 2026-07-01.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.81s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 
 

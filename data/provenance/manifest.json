@@ -2162,6 +2162,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Commercial fleet supply profile across 11 primary asset classes (Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, MR2, LNG, VLGC). Synthesizes 57,256 commercial hulls, tracking active deadweight, age distribution (including >20y overage demolition pool), scheduled deliveries through 2032, orderbook-to-fleet capacity ratios, and scrubber penetration."
+    },
+    {
+      "series_id": "commodities_minor_bulks_monthly",
+      "display_name": "Commodities \u2014 Seaborne Minor Bulks Monthly Trade Flows",
+      "status": "LIVE",
+      "source_name": "UN Comtrade & Brazil MDIC ComexStat",
+      "source_url": "https://comtradeapi.un.org",
+      "fetch_method": "Multi-Flow Comtrade API & ComexStat Harvester",
+      "fetch_script": "scripts/acquire/fetch_minor_bulks.py",
+      "output_file": "data/commodities/minor_bulks_monthly.csv",
+      "row_count": 337,
+      "date_span": [
+        "2022-01-01",
+        "2026-07-01"
+      ],
+      "last_fetched_utc": "2026-09-10T19:56:52.890615+00:00",
+      "unit": "Tonnes / USD FOB/CIF",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Monthly seaborne trade volume and value across 6 vital minor bulks: Sugar (Brazil exports HS 1701), Urea/Fertiliser (India imports HS 3102), NPK/DAP Fertiliser (Brazil imports HS 3105), Alumina (China imports HS 2818), Nickel Ore (Philippines exports HS 2604), Scrap Steel (T\u00fcrkiye imports HS 7204), and Cement/Clinker (T\u00fcrkiye exports HS 2523). Spans 2022-01-01 to 2026-07-01 with 337 monthly observations."
     }
   ]
 }
