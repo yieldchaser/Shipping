@@ -13208,7 +13208,7 @@
         <div class="chart-container mb-20">
           <div class="chart-header">
             <div class="chart-title" data-tooltip="Browse every monthly series in the Fearnleys archive: latest value, all-time high/low, and full history for the selected label. Coverage badge shows the span from the cache."><span id="fearnBrowserCoverage" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
-            <div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">pick a desk, then a series · stats recompute from cached monthly history</div>
+            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">pick a desk, then a series · stats recompute from cached monthly history</div>
           </div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;" id="fearnTypePills"></div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
@@ -13222,18 +13222,20 @@
           </div>
           <div class="tracking-kpi-grid" id="fearnStatCards"></div>
           <div class="chart-canvas-wrap" style="height:340px;margin-top:10px;"><canvas id="fearnMainChart"></canvas></div>
-          <div id="fearnSeriesNote" style="font-size:var(--fs-micro);color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
+          <div id="fearnSeriesNote" style="font-size:11px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="The full archived-series museum: every series ever published into the monthly cache, including discontinued blocks no longer on the live desk. Search by name; click a row for the full-history chart."><span id="fearnMusCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
-            <div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">ACTIVE ≤45d · STALE 45–365d · ARCHIVED &gt;365d vs file max month · click a card for full history</div>
+            <div>
+              <div class="chart-title" data-tooltip="Institutional Data Catalogue & Provenance Museum: every series across the application registered with verified source attribution, producing pipelines, row counts, and date spans.">Data Catalogue & Provenance Museum <span id="fearnMusCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">App-wide registry of all 86 data series · Filter by status · Click 'View in App' to jump directly to live chart</div>
+            </div>
           </div>
-          <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
+          <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;">
             <div style="display:flex;gap:4px;flex-wrap:wrap;" id="fearnMusTypes"></div>
-            <input type="text" id="fearnMusSearch" class="tracking-input" placeholder="Search labels..." style="min-width:220px;flex:1;max-width:360px;" oninput="onFearnMusSearch()">
+            <input type="text" id="fearnMusSearch" class="tracking-input" placeholder="Search by series name, ID, source, pipeline, or output file..." style="min-width:260px;flex:1;max-width:480px;font-size:11px;" oninput="onFearnMusSearch()">
           </div>
-          <div id="fearnMusWall" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px;"></div>
+          <div id="fearnMusWall" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;"></div>
         </div>
       </div>
 
@@ -13241,16 +13243,19 @@
       <div class="fearn-sec" id="fearnSec10" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Broker voice — latest Fearnleys written commentary (tanker, dry bulk, S&P, gas). Full 11,714-comment archive lives in data/derived/fearnleys_broker_comments.csv.">Broker Voice <span id="fearnVoiceCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+            <div>
+              <div class="chart-title" data-tooltip="Broker voice & research repository — Fearnleys weekly comments, Gibson research reports (548), and shipbroker report digests. Full-text search across all commentary and publications.">Broker Voice & Research Repository <span id="fearnVoiceCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">12,500+ commercial broker commentaries, outlook reports, and sector digests with direct document links</div>
+            </div>
           </div>
-          <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
-            <select id="fearnVoiceType" class="tracking-select" onchange="onFearnVoiceChange()">
-              <option value="all">All desks</option>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;">
+            <select id="fearnVoiceType" class="tracking-select" style="min-width:240px;font-size:11px;" onchange="onFearnVoiceChange()">
+              <option value="all">All Desks & Research Catalogues</option>
             </select>
-            <input type="text" id="fearnVoiceSearch" class="tracking-input" placeholder="Search commentary..." oninput="onFearnVoiceChange()">
+            <input type="text" id="fearnVoiceSearch" class="tracking-input" placeholder="Search commentary, titles, keywords..." style="min-width:240px;flex:1;font-size:11px;" oninput="onFearnVoiceChange()">
             <button id="fearnArchiveBtn" class="tracking-status-btn" onclick="loadFearnArchive()" data-tooltip="Lazy-load the full per-desk comment archive (11,709 rows in 4 chunks) for deeper search.">Load full archive</button>
           </div>
-          <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:520px;overflow-y:auto;"></div>
+          <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:560px;overflow-y:auto;"></div>
         </div>
       </div>
 
@@ -13258,24 +13263,60 @@
       <div class="fearn-sec" id="fearnSec11" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Backtest lab — macro health score history with forward BDI returns by regime. Point-in-time composite; forwards are realized outcomes, not forecasts.">Backtest Lab <span style="font-size:11px;color:var(--text-muted);font-weight:400;">score vs realized forwards</span></div>
+            <div>
+              <div class="chart-title" data-tooltip="Backtest lab — test any macro or broker signal against realized future market returns. Point-in-time composite; forwards are strictly realized historical outcomes, not model forecasts.">Backtest Lab <span id="fearnBacktestCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">Signal backtest engine · Realized future returns · Zero parameter optimization or curve fitting</div>
+            </div>
+            <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+              <label style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">Signal:
+                <select id="fearnBacktestSignal" class="tracking-select" style="font-size:11px;padding:4px 8px;" onchange="onFearnBacktestChange()">
+                  <option value="total_score">Macro Health Composite (0-100 Score)</option>
+                  <option value="p1_momentum">P1 Rate Momentum Score</option>
+                  <option value="p2_term_structure">P2 Term Structure Score</option>
+                  <option value="p3_futures_basis">P3 Futures Basis Score</option>
+                  <option value="p4_port_restock">P4 Port Congestion & Restocking Score</option>
+                  <option value="p5_asset_safety">P5 Asset Price & Margin Safety Score</option>
+                  <option value="bdi">Baltic Dry Index (BDI Spot)</option>
+                  <option value="bdry">Breakwave Dry Bulk ETF (BDRY)</option>
+                </select>
+              </label>
+              <label style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">Forward Target:
+                <select id="fearnBacktestHorizon" class="tracking-select" style="font-size:11px;padding:4px 8px;" onchange="onFearnBacktestChange()">
+                  <option value="bdi_1w">BDI 1-Week Forward Return (%)</option>
+                  <option value="bdi_1m" selected>BDI 1-Month Forward Return (%)</option>
+                  <option value="bdi_3m">BDI 3-Month Forward Return (%)</option>
+                  <option value="bdi_6m">BDI 6-Month Forward Return (%)</option>
+                  <option value="bdry_1w">BDRY 1-Week Forward Return (%)</option>
+                  <option value="bdry_1m">BDRY 1-Month Forward Return (%)</option>
+                  <option value="bdry_3m">BDRY 3-Month Forward Return (%)</option>
+                  <option value="bdry_6m">BDRY 6-Month Forward Return (%)</option>
+                </select>
+              </label>
+            </div>
           </div>
-          <div id="fearnRegimePills" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;"></div>
-          <div class="chart-canvas-wrap" style="height:300px;"><canvas id="fearnBacktestChart"></canvas></div>
-          <div id="fearnBacktestNote" style="font-size:var(--fs-micro);color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
+          <div id="fearnRegimePills" style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;"></div>
+          <div class="chart-canvas-wrap" style="height:320px;"><canvas id="fearnBacktestChart"></canvas></div>
+          <div id="fearnBacktestNote" style="font-size:11px;color:var(--text-muted);padding:8px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
       </div>
 
       <!-- MUSEUM MODAL -->
-      <div id="fearnMusModal" style="display:none;position:fixed;inset:0;background:rgba(1,4,9,0.82);z-index:1000;align-items:center;justify-content:center;" onclick="if(event.target===this)closeFearnMusModal()">
-        <div style="width:min(960px,94vw);max-height:90vh;overflow-y:auto;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:16px;">
-          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;gap:10px;">
-            <div id="fearnMusTitle" style="font-weight:700;font-size:14px;font-family:'IBM Plex Mono',monospace;"></div>
-            <button class="tracking-status-btn" onclick="closeFearnMusModal()">Close ✕</button>
+      <div id="fearnMusModal" style="display:none;position:fixed;inset:0;background:rgba(1,4,9,0.85);z-index:1000;align-items:center;justify-content:center;" onclick="if(event.target===this)closeFearnMusModal()">
+        <div style="width:min(960px,94vw);max-height:90vh;overflow-y:auto;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:20px;">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;gap:10px;flex-wrap:wrap;">
+            <div id="fearnMusTitle" style="font-weight:700;font-size:15px;font-family:'IBM Plex Mono',monospace;"></div>
+            <div style="display:flex;gap:8px;align-items:center;">
+              <button id="fearnMusAppBtn" class="tracking-status-btn active" style="font-size:11px;padding:4px 12px;background:var(--accent);color:#000;border:none;display:none;">View in App ➔</button>
+              <button class="tracking-status-btn" onclick="closeFearnMusModal()">Close ✕</button>
+            </div>
           </div>
-          <div id="fearnMusStats" class="tracking-kpi-grid" style="margin-bottom:10px;"></div>
-          <div class="chart-canvas-wrap" style="height:320px;"><canvas id="fearnMusChart"></canvas></div>
-          <div id="fearnMusNote" style="font-size:var(--fs-micro);color:var(--text-muted);padding:8px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
+          <div id="fearnMusStats" class="tracking-kpi-grid" style="margin-bottom:14px;"></div>
+          <div id="fearnMusChartWrap" class="chart-canvas-wrap" style="height:320px;display:none;margin-bottom:10px;"><canvas id="fearnMusChart"></canvas></div>
+          <div id="fearnMusNotesBox" style="display:none;padding:12px;background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;margin-bottom:10px;">
+            <div style="font-size:11px;font-weight:700;color:var(--text-bright);margin-bottom:4px;font-family:'IBM Plex Mono',monospace;">PROVENANCE & AUDIT NOTES:</div>
+            <div id="fearnMusNotesContent" style="font-size:12px;color:var(--text);line-height:1.5;"></div>
+          </div>
+          <div id="fearnMusNote" style="font-size:11px;color:var(--text-muted);padding:4px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
       </div>
     </div>
@@ -16304,12 +16345,27 @@ if (intelTabsContainer) {
         fetch('data/clarksons/fearnleys_benchmark_rates_continuous.csv', { cache: 'no-cache' })
           .then(res => res.ok ? res.text() : null)
           .then(text => { DATA.fearnBenchmarkRatesContinuousCsv = text; })
-          .catch(err => { console.warn('[fearnBenchmarkRatesContinuous fetch error]', err); DATA.fearnBenchmarkRatesContinuousCsv = null; })
+          .catch(err => { console.warn('[fearnBenchmarkRatesContinuous fetch error]', err); DATA.fearnBenchmarkRatesContinuousCsv = null; }),
+        fetch('data/provenance/manifest.json', { cache: 'no-cache' })
+          .then(res => res.ok ? res.json() : null)
+          .then(data => { DATA.provenanceManifest = data; })
+          .catch(err => { console.warn('[manifest fetch error]', err); DATA.provenanceManifest = null; }),
+        fetch('data/reports/fearnleys_reports_catalog.json', { cache: 'no-cache' })
+          .then(res => res.ok ? res.json() : null)
+          .then(data => { DATA.fearnleysReportsCatalog = data; if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters(); })
+          .catch(err => { console.warn('[fearnReportsCatalog fetch error]', err); DATA.fearnReportsCatalog = null; }),
+        fetch('data/reports/seabrokers_catalog.json', { cache: 'no-cache' })
+          .then(res => res.ok ? res.json() : null)
+          .then(data => { DATA.seabrokersCatalog = data; if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters(); })
+          .catch(err => { console.warn('[seabrokersCatalog fetch error]', err); DATA.seabrokersCatalog = null; }),
+        loadIntelligenceData()
       ]).then(() => {
         try {
           if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip();
           if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters();
           if (typeof renderFearnVoice === 'function' && typeof FDESK !== 'undefined' && FDESK.sec === 10) renderFearnVoice();
+          if (typeof renderFearnMuseum === 'function' && typeof FDESK !== 'undefined' && FDESK.sec === 9) renderFearnMuseum();
+          if (typeof renderFearnBacktest === 'function' && typeof FDESK !== 'undefined' && FDESK.sec === 11) renderFearnBacktest();
         } catch (e) { console.warn('[fearnleys post-load refresh]', e); }
       });
       return fearnleysLoadPromise;
@@ -16326,8 +16382,23 @@ if (intelTabsContainer) {
           out.push({
             d: d,
             score: parseFloat(row.total_score),
+            total_score: parseFloat(row.total_score),
             regime: (row.regime || '').trim(),
+            p1_momentum: parseFloat(row.p1_momentum) || null,
+            p2_term_structure: parseFloat(row.p2_term_structure) || null,
+            p3_futures_basis: parseFloat(row.p3_futures_basis) || null,
+            p4_port_restock: parseFloat(row.p4_port_restock) || null,
+            p5_asset_safety: parseFloat(row.p5_asset_safety) || null,
             bdi: parseFloat(row.bdi) || null,
+            bdry: parseFloat(row.bdry) || null,
+            bdi_1w: parseFloat(row.bdi_fwd_1W),
+            bdi_1m: parseFloat(row.bdi_fwd_1M),
+            bdi_3m: parseFloat(row.bdi_fwd_3M),
+            bdi_6m: parseFloat(row.bdi_fwd_6M),
+            bdry_1w: parseFloat(row.bdry_fwd_1W),
+            bdry_1m: parseFloat(row.bdry_fwd_1M),
+            bdry_3m: parseFloat(row.bdry_fwd_3M),
+            bdry_6m: parseFloat(row.bdry_fwd_6M),
             f1m: parseFloat(row.bdi_fwd_1M),
             f3m: parseFloat(row.bdi_fwd_3M)
           });
@@ -44952,89 +45023,199 @@ function onFearnFxSearch() {
   }, 140);
 }
 
-// ---------- S9 SERIES MUSEUM ----------
+// ---------- S9 SERIES MUSEUM & DATA CATALOGUE ----------
+function fearnSeriesCategory(output_file) {
+  var f = output_file || '';
+  if (f.indexOf('data/indices/') >= 0) return 'Indices';
+  if (f.indexOf('data/futures/') >= 0) return 'Futures';
+  if (f.indexOf('data/etf/') >= 0) return 'ETFs';
+  if (f.indexOf('data/commodities/') >= 0) return 'Commodities';
+  if (f.indexOf('data/congestion/') >= 0 || f.indexOf('data/geospatial/') >= 0) return 'Congestion';
+  if (f.indexOf('data/bunkers/') >= 0) return 'Bunkers';
+  if (f.indexOf('data/offshore/') >= 0) return 'Offshore';
+  if (f.indexOf('fearnleys') >= 0 || f.indexOf('clarksons') >= 0 || f.indexOf('alibra') >= 0) return 'Broker Rates';
+  return 'Macro / General';
+}
+
+function fearnManifestTabFor(output_file) {
+  var f = output_file || '';
+  if (f.indexOf('data/indices/') >= 0) return 'indices';
+  if (f.indexOf('data/etf/') >= 0) return 'etfs';
+  if (f.indexOf('data/futures/') >= 0) return 'signals';
+  if (f.indexOf('data/commodities/') >= 0) return 'cargo';
+  if (f.indexOf('data/congestion/') >= 0 || f.indexOf('data/geospatial/') >= 0) return 'tracking';
+  if (f.indexOf('data/bunkers/') >= 0) return 'bunkers';
+  if (f.indexOf('data/offshore/') >= 0) return 'offshore';
+  if (f.indexOf('macro_health') >= 0) return 'intelligence';
+  if (f.indexOf('tanker_routes') >= 0) return 'fearnleys';
+  if (f.indexOf('dry_routes') >= 0) return 'fearnleys';
+  if (f.indexOf('fixtures') >= 0) return 'fearnleys';
+  if (f.indexOf('snp') >= 0 || f.indexOf('vessel_valuations') >= 0) return 'fearnleys';
+  if (f.indexOf('braemar') >= 0) return 'fearnleys';
+  return 'dashboard';
+}
+
+function fearnNavigateToSeries(output_file, series_id) {
+  var f = output_file || '';
+  closeFearnMusModal();
+  if (f.indexOf('data/indices/') >= 0) return window.switchTab('indices');
+  if (f.indexOf('data/etf/') >= 0) return window.switchTab('etfs');
+  if (f.indexOf('data/futures/') >= 0) return window.switchTab('signals');
+  if (f.indexOf('data/commodities/') >= 0) return window.switchTab('cargo');
+  if (f.indexOf('data/congestion/') >= 0 || f.indexOf('data/geospatial/') >= 0) return window.switchTab('tracking');
+  if (f.indexOf('data/bunkers/') >= 0) return window.switchTab('bunkers');
+  if (f.indexOf('data/offshore/') >= 0) return window.switchTab('offshore');
+  if (f.indexOf('macro_health') >= 0) return window.switchTab('intelligence');
+  if (f.indexOf('tanker_routes') >= 0) { window.switchTab('fearnleys'); return window.switchFearnSection(3); }
+  if (f.indexOf('dry_routes') >= 0) { window.switchTab('fearnleys'); return window.switchFearnSection(4); }
+  if (f.indexOf('fixtures') >= 0) { window.switchTab('fearnleys'); return window.switchFearnSection(8); }
+  if (f.indexOf('snp') >= 0 || f.indexOf('vessel_valuations') >= 0) { window.switchTab('fearnleys'); return window.switchFearnSection(5); }
+  if (f.indexOf('braemar') >= 0) return window.switchTab('fearnleys');
+  return window.switchTab('dashboard');
+}
+
 function renderFearnMuseum() {
   var cache = fearnSeriesCache();
-  if (!cache) return;
-  var labels = cache.labels, keys = Object.keys(labels);
-  var cov = document.getElementById('fearnBrowserCoverage');
-  if (cov && !cov.textContent) cov.textContent = '· ' + cache.meta.labels_cached + ' series / ' + cache.meta.catalog_ids + ' catalog ids · ' + cache.meta.monthly_points.toLocaleString('en-US') + ' monthly pts';
-  if (!FDESK.maxym) {
-    var fileMax = '0000-00';
-    keys.forEach(function (k) { if (labels[k].last > fileMax) fileMax = labels[k].last; });
-    FDESK.maxym = fileMax;
+  if (cache) {
+    var labels = cache.labels, keys = Object.keys(labels);
+    var cov = document.getElementById('fearnBrowserCoverage');
+    if (cov && !cov.textContent) cov.textContent = '· ' + cache.meta.labels_cached + ' series / ' + cache.meta.catalog_ids + ' catalog ids · ' + cache.meta.monthly_points.toLocaleString('en-US') + ' monthly pts';
+    if (!FDESK.maxym) {
+      var fileMax = '0000-00';
+      keys.forEach(function (k) { if (labels[k].last > fileMax) fileMax = labels[k].last; });
+      FDESK.maxym = fileMax;
+    }
+    if (!FEARN_STATE.init) {
+      FEARN_STATE.init = true;
+      FEARN_STATE.label = fearnDefaultLabel(cache, FEARN_STATE.type);
+    }
+    var types = {};
+    keys.forEach(function (l) { types[labels[l].type] = true; });
+    var order = ['TANK', 'BULK', 'LNG', 'LPG', 'NEWBUILDING', 'S&P'];
+    var pills = Object.keys(types).sort(function (a, b) { var ia = order.indexOf(a), ib = order.indexOf(b); return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib); });
+    var pillHtml = pills.map(function (t) {
+      var n = keys.filter(function (l) { return labels[l].type === t; }).length;
+      return '<button class="tracking-status-btn' + (t === FEARN_STATE.type ? ' active' : '') + '" data-ftype="' + t + '" onclick="setFearnType(\'' + t + '\')">' + t + ' (' + n + ')</button>';
+    }).join('');
+    var pillBox = document.getElementById('fearnTypePills');
+    if (pillBox) pillBox.innerHTML = pillHtml;
+    populateFearnLabels(cache);
+    renderFearnStats(cache);
+    renderFearnMainChart(cache);
   }
-  // browser pills (kept from old desk)
-  if (!FEARN_STATE.init) {
-    FEARN_STATE.init = true;
-    FEARN_STATE.label = fearnDefaultLabel(cache, FEARN_STATE.type);
-  }
-  var types = {};
-  keys.forEach(function (l) { types[labels[l].type] = true; });
-  var order = ['TANK', 'BULK', 'LNG', 'LPG', 'NEWBUILDING', 'S&P'];
-  var pills = Object.keys(types).sort(function (a, b) { var ia = order.indexOf(a), ib = order.indexOf(b); return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib); });
-  var pillHtml = pills.map(function (t) {
-    var n = keys.filter(function (l) { return labels[l].type === t; }).length;
-    return '<button class="tracking-status-btn' + (t === FEARN_STATE.type ? ' active' : '') + '" data-ftype="' + t + '" onclick="setFearnType(\'' + t + '\')">' + t + ' (' + n + ')</button>';
-  }).join('');
-  var pillBox = document.getElementById('fearnTypePills');
-  if (pillBox) pillBox.innerHTML = pillHtml;
-  populateFearnLabels(cache);
-  renderFearnStats(cache);
-  renderFearnMainChart(cache);
-  // museum wall
   var mt = document.getElementById('fearnMusTypes');
   if (mt && !mt.innerHTML) {
-    mt.innerHTML = ['ALL'].concat(pills).map(function (t) {
-      return '<button class="tracking-status-btn' + (t === FDESK.musType ? ' active' : '') + '" data-mtype="' + t + '" onclick="setFearnMusType(\'' + t + '\')">' + t + '</button>';
+    var mFilters = ['ALL', 'LIVE', 'ESTIMATED', 'UNREGISTERED', 'Indices', 'Futures', 'ETFs', 'Commodities', 'Congestion', 'Bunkers', 'Broker Rates', 'Offshore', 'Fearnleys Monthly'];
+    mt.innerHTML = mFilters.map(function (t) {
+      return '<button class="tracking-status-btn' + (t === (FDESK.musType || 'ALL') ? ' active' : '') + '" data-mtype="' + t + '" onclick="setFearnMusType(\'' + t + '\')">' + t + '</button>';
     }).join('');
   }
   renderFearnMusWall();
 }
+
 function renderFearnMusWall() {
-  var cache = fearnSeriesCache();
-  if (!cache) return;
-  var labels = cache.labels;
-  var q = FDESK.musQ.trim().toLowerCase();
-  var keys = Object.keys(labels).filter(function (k) {
-    var s = labels[k];
-    if (s.n < 3) return false;
-    if (FDESK.musType !== 'ALL' && s.type !== FDESK.musType) return false;
-    if (q && (k + ' ' + (s.subtype || '') + ' ' + (s.route || '')).toLowerCase().indexOf(q) < 0) return false;
-    return true;
-  });
-  keys.sort(function (a, b) { return labels[b].n - labels[a].n; });
-  var counts = { ACTIVE: 0, STALE: 0, ARCHIVED: 0 };
   var wall = document.getElementById('fearnMusWall');
   if (!wall) return;
-  var html = keys.map(function (k) {
-    var s = labels[k], st = fearnStatusOf(s);
-    counts[st]++;
-    var col = st === 'ACTIVE' ? 'var(--green)' : (st === 'STALE' ? 'var(--yellow,#e3b341)' : 'var(--text-muted)');
-    var pr = s.pct_rank == null ? 0 : s.pct_rank;
-    var prCol = pr >= 80 ? 'var(--green)' : (pr >= 40 ? 'var(--yellow,#e3b341)' : 'var(--red)');
-    var m36 = s.m.slice(-36), mn = Infinity, mx = -Infinity;
-    m36.forEach(function (p) { if (p[1] < mn) mn = p[1]; if (p[1] > mx) mx = p[1]; });
-    var rng = (mx - mn) || 1;
-    var pts = m36.map(function (p, i) {
-      var x = m36.length > 1 ? (i / (m36.length - 1) * 98 + 1) : 50;
-      var y = 30 - (p[1] - mn) / rng * 27;
-      return x.toFixed(1) + ',' + y.toFixed(1);
-    }).join(' ');
-    var chip = st === 'ARCHIVED' ? '<span style="font-size:var(--fs-micro);color:' + col + ';font-family:\'IBM Plex Mono\',monospace;">discontinued ' + s.last + '</span>' : '';
-    return '<div class="tracking-kpi-card" style="cursor:pointer;" onclick="openFearnMusModal(\'' + k.replace(/'/g, "\\'") + '\')" title="' + escapeHtml(k) + '">' +
-      '<div style="display:flex;justify-content:space-between;gap:4px;align-items:center;margin-bottom:3px;">' + fearnStatusBadge(st) + '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + escapeHtml(s.type) + '</span></div>' +
-      '<div style="font-size:11px;font-weight:600;color:var(--text-bright);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.route || k) + '</div>' +
-      '<div style="font-size:var(--fs-micro);color:var(--text-muted);margin-bottom:4px;">' + escapeHtml(s.subtype || '') + ' · ' + s.unit + ' · ' + s.n + 'm</div>' +
-      '<svg width="100%" height="32" viewBox="0 0 100 32" preserveAspectRatio="none"><polyline points="' + pts + '" fill="none" stroke="' + col + '" stroke-width="1.5" vector-effect="non-scaling-stroke"/></svg>' +
-      '<div style="display:flex;justify-content:space-between;font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:3px;"><span>' + s.first + '→' + s.last + '</span><span style="color:' + prCol + ';">P' + pr.toFixed(0) + '</span></div>' +
-      chip +
+  var manifest = window.DATA && DATA.provenanceManifest;
+  var cache = fearnSeriesCache();
+  var q = (FDESK.musQ || '').trim().toLowerCase();
+  var activeFilter = FDESK.musType || 'ALL';
+
+  if (activeFilter === 'Fearnleys Monthly') {
+    if (!cache) { wall.innerHTML = '<div style="color:var(--text-muted);font-size:12px;grid-column:1/-1;">Fearnleys monthly cache loading...</div>'; return; }
+    var labels = cache.labels;
+    var keys = Object.keys(labels).filter(function (k) {
+      var s = labels[k];
+      if (s.n < 3) return false;
+      if (q && (k + ' ' + (s.subtype || '') + ' ' + (s.route || '')).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+    keys.sort(function (a, b) { return labels[b].n - labels[a].n; });
+    var html = keys.map(function (k) {
+      var s = labels[k], st = fearnStatusOf(s);
+      var col = st === 'ACTIVE' ? 'var(--green)' : (st === 'STALE' ? '#e3b341' : 'var(--text-muted)');
+      var pr = s.pct_rank == null ? 0 : s.pct_rank;
+      var prCol = pr >= 80 ? 'var(--green)' : (pr >= 40 ? '#e3b341' : 'var(--red)');
+      var m36 = s.m.slice(-36), mn = Infinity, mx = -Infinity;
+      m36.forEach(function (p) { if (p[1] < mn) mn = p[1]; if (p[1] > mx) mx = p[1]; });
+      var rng = (mx - mn) || 1;
+      var pts = m36.map(function (p, i) {
+        var x = m36.length > 1 ? (i / (m36.length - 1) * 98 + 1) : 50;
+        var y = 30 - (p[1] - mn) / rng * 27;
+        return x.toFixed(1) + ',' + y.toFixed(1);
+      }).join(' ');
+      var chip = st === 'ARCHIVED' ? '<span style="font-size:11px;color:' + col + ';font-family:\'IBM Plex Mono\',monospace;">discontinued ' + s.last + '</span>' : '';
+      return '<div class="tracking-kpi-card" style="cursor:pointer;padding:10px 12px;background:var(--card);border:1px solid var(--border);border-radius:6px;" onclick="openFearnMusModal(\'' + k.replace(/'/g, "\\'") + '\')" title="' + escapeHtml(k) + '">' +
+        '<div style="display:flex;justify-content:space-between;gap:4px;align-items:center;margin-bottom:3px;">' + fearnStatusBadge(st) + '<span style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + escapeHtml(s.type) + '</span></div>' +
+        '<div style="font-size:12px;font-weight:600;color:var(--text-bright);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.route || k) + '</div>' +
+        '<div style="font-size:11px;color:var(--text-muted);margin-bottom:4px;">' + escapeHtml(s.subtype || '') + ' · ' + s.unit + ' · ' + s.n + 'm</div>' +
+        '<svg width="100%" height="32" viewBox="0 0 100 32" preserveAspectRatio="none"><polyline points="' + pts + '" fill="none" stroke="' + col + '" stroke-width="1.5" vector-effect="non-scaling-stroke"/></svg>' +
+        '<div style="display:flex;justify-content:space-between;font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:3px;"><span>' + s.first + '→' + s.last + '</span><span style="color:' + prCol + ';">P' + pr.toFixed(0) + '</span></div>' +
+        chip + '</div>';
+    }).join('');
+    wall.innerHTML = html || '<div style="color:var(--text-muted);font-size:12px;grid-column:1/-1;">No series match current query.</div>';
+    var cnt = document.getElementById('fearnMusCount');
+    if (cnt) cnt.textContent = '· ' + keys.length + ' Fearnleys monthly series shown';
+    return;
+  }
+
+  var seriesList = (manifest && manifest.series) ? manifest.series : [];
+  if (!seriesList.length) {
+    wall.innerHTML = '<div style="color:var(--text-muted);font-size:12px;grid-column:1/-1;">Loading app-wide provenance manifest...</div>';
+    return;
+  }
+
+  var filtered = seriesList.filter(function (s) {
+    var cat = fearnSeriesCategory(s.output_file);
+    if (activeFilter === 'LIVE' && s.status !== 'LIVE') return false;
+    if (activeFilter === 'ESTIMATED' && s.status !== 'ESTIMATED') return false;
+    if (activeFilter === 'UNREGISTERED' && s.status !== 'UNREGISTERED') return false;
+    if (['Indices', 'Futures', 'ETFs', 'Commodities', 'Congestion', 'Bunkers', 'Broker Rates', 'Offshore'].indexOf(activeFilter) >= 0 && cat !== activeFilter) return false;
+    if (q) {
+      var hay = (s.series_id + ' ' + s.display_name + ' ' + s.source_name + ' ' + s.fetch_script + ' ' + s.output_file + ' ' + (s.notes || '') + ' ' + s.unit).toLowerCase();
+      if (hay.indexOf(q) < 0) return false;
+    }
+    return true;
+  });
+
+  filtered.sort(function (a, b) {
+    if (a.status !== b.status) {
+      if (a.status === 'LIVE') return -1;
+      if (b.status === 'LIVE') return 1;
+    }
+    return a.display_name.localeCompare(b.display_name);
+  });
+
+  var html = filtered.map(function (s) {
+    var badgeColor = s.status === 'LIVE' ? 'var(--green)' : (s.status === 'ESTIMATED' ? '#d29922' : '#f85149');
+    var badgeBg = s.status === 'LIVE' ? 'rgba(63,185,80,0.15)' : (s.status === 'ESTIMATED' ? 'rgba(210,153,34,0.15)' : 'rgba(248,81,73,0.15)');
+    var spanStr = s.date_span ? (s.date_span[0] + ' \u2192 ' + s.date_span[1]) : (s.row_count ? s.row_count.toLocaleString('en-US') + ' obs' : 'Continuous');
+    var cat = fearnSeriesCategory(s.output_file);
+    var sidEsc = escapeHtml(s.series_id).replace(/'/g, "\\'");
+    var fileEsc = escapeHtml(s.output_file).replace(/'/g, "\\'");
+    return '<div class="tracking-kpi-card" onclick="openFearnMusModal(\'' + sidEsc + '\')" style="display:flex;flex-direction:column;justify-content:space-between;gap:8px;padding:12px;background:var(--card);border:1px solid var(--border);border-radius:6px;cursor:pointer;">' +
+      '<div>' +
+      '<div style="display:flex;justify-content:space-between;align-items:center;gap:6px;margin-bottom:4px;">' +
+      '<span class="badge" style="font-size:11px;padding:2px 6px;background:' + badgeBg + ';color:' + badgeColor + ';border:1px solid ' + badgeColor + '40;">' + s.status + '</span>' +
+      '<span style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + cat + '</span>' +
+      '</div>' +
+      '<div style="font-size:12px;font-weight:700;color:var(--text-bright);margin-bottom:2px;line-height:1.3;">' + escapeHtml(s.display_name) + '</div>' +
+      '<div style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-bottom:4px;word-break:break-all;">' + escapeHtml(s.series_id) + '</div>' +
+      '<div style="font-size:11px;color:var(--text-muted);line-height:1.4;">Source: <span style="color:var(--text);font-weight:500;">' + escapeHtml(s.source_name) + '</span> · ' + escapeHtml(s.unit || '') + '</div>' +
+      '<div style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;margin-top:2px;">' + Number(s.row_count).toLocaleString('en-US') + ' rows · ' + spanStr + '</div>' +
+      '</div>' +
+      '<div style="display:flex;gap:6px;margin-top:4px;flex-wrap:wrap;">' +
+      '<button class="tracking-status-btn" style="flex:1;font-size:11px;padding:4px 8px;" onclick="event.stopPropagation(); openFearnMusModal(\'' + sidEsc + '\')">Audit Provenance ↗</button>' +
+      '<button class="tracking-status-btn active" style="flex:1;font-size:11px;padding:4px 8px;background:var(--accent);color:#000;border:none;font-weight:600;" onclick="event.stopPropagation(); fearnNavigateToSeries(\'' + fileEsc + '\', \'' + sidEsc + '\')">View in App ➔</button>' +
+      '</div>' +
       '</div>';
   }).join('');
-  wall.innerHTML = html || '<div style="color:var(--text-muted);font-size:12px;grid-column:1/-1;">No series match.</div>';
+
+  wall.innerHTML = html || '<div style="color:var(--text-muted);font-size:12px;grid-column:1/-1;">No series match the active filter or search query.</div>';
   var cnt = document.getElementById('fearnMusCount');
-  if (cnt) cnt.textContent = '· ' + keys.length + ' of ' + Object.keys(labels).filter(function (k) { return labels[k].n >= 3; }).length + ' shown · ACTIVE ' + counts.ACTIVE + ' · STALE ' + counts.STALE + ' · ARCHIVED ' + counts.ARCHIVED + ' (n<3 stubs hidden)';
+  if (cnt) cnt.textContent = '· Showing ' + filtered.length + ' of ' + seriesList.length + ' registered series (' + (manifest.status_breakdown ? Object.keys(manifest.status_breakdown).map(function(k){return k+' '+manifest.status_breakdown[k];}).join(' · ') : '78 LIVE') + ')';
 }
+
 function setFearnMusType(t) {
   FDESK.musType = t;
   document.querySelectorAll('#fearnMusTypes [data-mtype]').forEach(function (b) { b.classList.toggle('active', b.getAttribute('data-mtype') === t); });
@@ -45048,7 +45229,69 @@ function onFearnMusSearch() {
     renderFearnMusWall();
   }, 140);
 }
+
 function openFearnMusModal(key) {
+  var modal = document.getElementById('fearnMusModal');
+  if (!modal) return;
+  var manifest = window.DATA && DATA.provenanceManifest;
+  var s = null;
+  if (manifest && manifest.series) {
+    for (var i = 0; i < manifest.series.length; i++) {
+      if (manifest.series[i].series_id === key || manifest.series[i].output_file === key) {
+        s = manifest.series[i]; break;
+      }
+    }
+  }
+  var cache = fearnSeriesCache();
+  if (!s && cache && cache.labels && cache.labels[key]) {
+    return openFearnMonthlyModal(key);
+  }
+  if (!s) return;
+
+  modal.style.display = 'flex';
+  var t = document.getElementById('fearnMusTitle');
+  var badgeColor = s.status === 'LIVE' ? 'var(--green)' : (s.status === 'ESTIMATED' ? '#d29922' : '#f85149');
+  var badgeBg = s.status === 'LIVE' ? 'rgba(63,185,80,0.15)' : (s.status === 'ESTIMATED' ? 'rgba(210,153,34,0.15)' : 'rgba(248,81,73,0.15)');
+  if (t) t.innerHTML = escapeHtml(s.display_name) + ' <span class="badge" style="font-size:11px;padding:2px 6px;margin-left:6px;background:' + badgeBg + ';color:' + badgeColor + ';border:1px solid ' + badgeColor + '40;">' + s.status + '</span>';
+
+  var appBtn = document.getElementById('fearnMusAppBtn');
+  if (appBtn) {
+    appBtn.style.display = 'inline-block';
+    appBtn.onclick = function () { fearnNavigateToSeries(s.output_file, s.series_id); };
+  }
+
+  var stats = document.getElementById('fearnMusStats');
+  var srcLink = s.source_url && s.source_url !== 'None'
+    ? '<a href="' + escapeHtml(s.source_url) + '" target="_blank" rel="noopener noreferrer" style="color:var(--accent);text-decoration:underline;">' + escapeHtml(s.source_name) + ' ↗</a>'
+    : escapeHtml(s.source_name);
+
+  if (stats) stats.innerHTML = [
+    { l: 'Source Attribution', v: srcLink, sub: s.fetch_method || 'REST API' },
+    { l: 'Producing Pipeline', v: '<span style="font-family:\'IBM Plex Mono\',monospace;font-size:12px;">' + escapeHtml(s.fetch_script || 'Static') + '</span>', sub: s.is_derived ? (s.derivation || 'Derived Analytics') : 'Primary Raw Ingestion' },
+    { l: 'Physical Records', v: Number(s.row_count).toLocaleString('en-US') + ' obs', sub: s.date_span ? s.date_span.join(' → ') : 'Continuous feed' },
+    { l: 'Unit of Measure', v: escapeHtml(s.unit || 'Standard'), sub: 'Status: ' + s.status }
+  ].map(function (c) {
+    return '<div class="tracking-kpi-card"><div class="tracking-kpi-label">' + c.l + '</div>' +
+      '<div class="tracking-kpi-val" style="font-size:13px;">' + c.v + '</div>' +
+      '<div class="tracking-kpi-sub">' + escapeHtml(String(c.sub || '')) + '</div></div>';
+  }).join('');
+
+  var nBox = document.getElementById('fearnMusNotesBox');
+  var nContent = document.getElementById('fearnMusNotesContent');
+  if (nBox && nContent) {
+    nBox.style.display = 'block';
+    nContent.innerHTML = '<strong>Physical File:</strong> <code style="font-family:\'IBM Plex Mono\',monospace;color:var(--accent);">' + escapeHtml(s.output_file) + '</code><br>' +
+      '<strong>Last Fetched:</strong> ' + escapeHtml(s.last_fetched_utc || 'Current') + '<br>' +
+      '<strong>Audit Notes:</strong> ' + escapeHtml(s.notes || 'Registered canonical data pipeline.');
+  }
+
+  var chartWrap = document.getElementById('fearnMusChartWrap');
+  if (chartWrap) chartWrap.style.display = 'none';
+  var note = document.getElementById('fearnMusNote');
+  if (note) note.textContent = 'Series ID: ' + s.series_id + ' · Output File: ' + s.output_file;
+}
+
+function openFearnMonthlyModal(key) {
   var cache = fearnSeriesCache();
   if (!cache || !cache.labels[key]) return;
   var s = cache.labels[key], st = fearnStatusOf(s);
@@ -45056,6 +45299,8 @@ function openFearnMusModal(key) {
   if (modal) { modal.style.display = 'flex'; }
   var t = document.getElementById('fearnMusTitle');
   if (t) t.textContent = key + ' · ' + fearnStatusOf(s);
+  var appBtn = document.getElementById('fearnMusAppBtn');
+  if (appBtn) appBtn.style.display = 'none';
   var chg = s.chg_pct, chgStyle = chg == null ? '' : (chg >= 0 ? 'color:var(--green);' : 'color:var(--red);');
   var pr = s.pct_rank == null ? 0 : s.pct_rank;
   var stats = document.getElementById('fearnMusStats');
@@ -45071,6 +45316,8 @@ function openFearnMusModal(key) {
       '<div class="tracking-kpi-val" style="font-size:18px;' + (c.style || '') + '">' + c.v + '</div>' +
       '<div class="tracking-kpi-sub">' + escapeHtml(String(c.sub || '')) + '</div></div>';
   }).join('');
+  var chartWrap = document.getElementById('fearnMusChartWrap');
+  if (chartWrap) chartWrap.style.display = 'block';
   var canvas = document.getElementById('fearnMusChart');
   if (canvas && typeof Chart !== 'undefined') {
     if (FDESK.musChart) { FDESK.musChart.destroy(); FDESK.musChart = null; }
@@ -45088,9 +45335,12 @@ function openFearnMusModal(key) {
       }
     });
   }
+  var nBox = document.getElementById('fearnMusNotesBox');
+  if (nBox) nBox.style.display = 'none';
   var note = document.getElementById('fearnMusNote');
   if (note) note.textContent = st === 'ARCHIVED' ? ('Discontinued — last print ' + s.last + ' (archived >365d vs file max ' + (FDESK.maxym || '') + '). Full label: ' + key) : ('Full label: ' + key + ' · Source: fearnpulse monthly cache');
 }
+
 function closeFearnMusModal() {
   var modal = document.getElementById('fearnMusModal');
   if (modal) modal.style.display = 'none';
@@ -45312,47 +45562,145 @@ function renderFearnMainChart(cache) {
 }
 
 function fearnVoiceComments() {
-  var s = window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.broker_sentiment;
-  var comments = (s && s.recent_comments) ? s.recent_comments.slice() : [];
-  if (window.DATA && DATA.gibsonReportsCatalog) {
-    var g = DATA.gibsonReportsCatalog;
-    var allG = (g.online_reports || []).concat(g.report_downloads || []);
-    allG.forEach(function (r) {
-      var d = r.date ? r.date.slice(0, 10) : '';
+  var comments = [];
+  // 1. Fearnleys weekly comments (recent or full archive)
+  if (FEARN_STATE.archive && FEARN_STATE.archive.rows && FEARN_STATE.archive.rows.length) {
+    FEARN_STATE.archive.rows.forEach(function (r, idx) {
       comments.push({
-        id: 'gibson_' + (r.id || r.slug),
-        name: r.title || 'Gibson Market Report',
-        type: 'Gibson Research Reports',
-        subtype: 'Gibson Tankers & Bulk',
+        id: 'fearn_arc_' + (r.id || idx),
+        source: 'Fearnleys',
+        name: r.name || r.type || 'Fearnleys Weekly Comment',
+        type: r.type || 'Fearnleys Comment',
+        subtype: r.subtype || 'Per-Desk Archive',
+        date: r.date || r.d || '',
+        text: r.text || r.x || '',
+        url: '',
+        pdf_url: '',
+        markdown_path: ''
+      });
+    });
+  } else {
+    var s = window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.broker_sentiment;
+    if (s && s.recent_comments) {
+      s.recent_comments.forEach(function (c, idx) {
+        comments.push({
+          id: 'fearn_rec_' + (c.id || idx),
+          source: 'Fearnleys',
+          name: c.name || c.type || 'Fearnleys Weekly Comment',
+          type: c.type || 'Fearnleys Comment',
+          subtype: c.subtype || 'Weekly Desk Comment',
+          date: c.date || '',
+          text: c.text || '',
+          url: '',
+          pdf_url: '',
+          markdown_path: ''
+        });
+      });
+    }
+  }
+
+  // 2. Fearnleys Research Reports Catalog (175 reports)
+  if (window.DATA && DATA.fearnleysReportsCatalog && Array.isArray(DATA.fearnleysReportsCatalog)) {
+    DATA.fearnleysReportsCatalog.forEach(function (r, idx) {
+      var d = (r.date || r.created_at || '').slice(0, 10);
+      var excerpt = '';
+      if (Array.isArray(r.content)) {
+        for (var i = 0; i < r.content.length; i++) {
+          var item = r.content[i];
+          if (item && item.type === 'fullWidthParagraph' && item.content) {
+            excerpt = item.content.trim().slice(0, 260) + '...';
+            break;
+          }
+        }
+      } else if (typeof r.content === 'string') {
+        excerpt = r.content.trim().slice(0, 260) + '...';
+      }
+      if (!excerpt) excerpt = 'Fearnleys weekly market research and cross-sector commercial shipping analysis.';
+      comments.push({
+        id: 'fearn_rep_' + (r.id || idx),
+        source: 'Fearnleys',
+        name: r.title || 'Fearnleys Weekly Market Report',
+        type: 'Fearnleys Research Reports',
+        subtype: r.department ? (r.department.charAt(0).toUpperCase() + r.department.slice(1)) : 'Weekly Report',
         date: d,
-        text: (r.title || '') + ' — Gibson Shipbrokers market research & consultancy analysis. Available online or via download.',
-        url: r.link || ('https://www.gibsons.co.uk/report/' + (r.slug || ''))
+        text: excerpt,
+        url: r.pdf_url || '',
+        pdf_url: r.pdf_url || '',
+        markdown_path: ''
       });
     });
   }
+
+  // 3. Gibson Research Reports Catalog (548 reports)
+  if (window.DATA && DATA.gibsonReportsCatalog) {
+    var g = DATA.gibsonReportsCatalog;
+    var allG = (g.online_reports || []).concat(g.report_downloads || []);
+    allG.forEach(function (r, idx) {
+      var d = r.date ? r.date.slice(0, 10) : '';
+      comments.push({
+        id: 'gibson_' + (r.id || r.slug || idx),
+        source: 'Gibson',
+        name: r.title || 'Gibson Market Report',
+        type: 'Gibson Research Reports',
+        subtype: 'Tankers & Bulk',
+        date: d,
+        text: (r.title || '') + ' — Gibson Shipbrokers market research & consultancy analysis. Available online or via download.',
+        url: r.link || ('https://www.gibsons.co.uk/report/' + (r.slug || '')),
+        pdf_url: r.pdf_url || (r.link && /\.pdf$/i.test(r.link) ? r.link : ''),
+        markdown_path: ''
+      });
+    });
+  }
+
+  // 4. Seabrokers Offshore Reports Catalog (97 reports)
+  if (window.DATA && DATA.seabrokersCatalog && Array.isArray(DATA.seabrokersCatalog)) {
+    DATA.seabrokersCatalog.forEach(function (r, idx) {
+      var d = (r.date || '').slice(0, 10);
+      comments.push({
+        id: 'seabrokers_' + (r.slug || idx),
+        source: 'Seabrokers',
+        name: r.title || 'Seabreeze Market Report',
+        type: 'Seabrokers Offshore Reports',
+        subtype: 'North Sea OSV',
+        date: d,
+        text: 'Seabrokers monthly market report (' + (r.pages ? r.pages + ' pages' : '') + ') covering offshore vessel dayrates (AHTS, PSV), chartering fixtures, and fleet utilization.',
+        url: r.card_url || r.pdf_url || '',
+        pdf_url: r.pdf_url || '',
+        markdown_path: r.markdown_path || ''
+      });
+    });
+  }
+
+  // Sort descending by date
+  comments.sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
   return comments;
 }
 
-var FEARN_VOICE_TYPES = ['Gibson Research Reports', 'VLCC Weekly Comment', 'Suezmax Weekly Comment', 'Aframax Weekly Comment', 'Capesize Weekly Comment', 'Panamax Weekly Comment', 'Supramax Weekly Comment', 'Chartering Weekly Comment', 'SnP Weekly Comment', 'LNG Market Report', 'Gas Market Weekly Comment - Eastern Market', 'Gas Market Weekly Comment - Western Market', 'Gas Market Report', 'Daily BLPG Report', 'BITR-1', 'BITR-2', 'BITR-3', 'CROSS MED', 'WAFR/UKC', 'WAFR/USG', 'MEG/EAST', 'BOT/WEST', 'CEYHAN/USG', 'BLSEA/MED'];
+var FEARN_VOICE_TYPES = ['VLCC Weekly Comment', 'Suezmax Weekly Comment', 'Aframax Weekly Comment', 'Capesize Weekly Comment', 'Panamax Weekly Comment', 'Supramax Weekly Comment', 'Chartering Weekly Comment', 'SnP Weekly Comment', 'LNG Market Report', 'Gas Market Weekly Comment - Eastern Market', 'Gas Market Weekly Comment - Western Market', 'Gas Market Report', 'Daily BLPG Report', 'BITR-1', 'BITR-2', 'BITR-3', 'CROSS MED', 'WAFR/UKC', 'WAFR/USG', 'MEG/EAST', 'BOT/WEST', 'CEYHAN/USG', 'BLSEA/MED'];
 
 function initFearnVoiceFilters() {
   var sel = document.getElementById('fearnVoiceType');
-  if (!sel || sel.options.length > 1) return;
-  var types = {};
-  FEARN_VOICE_TYPES.forEach(function (t) { types[t] = true; });
-  fearnVoiceComments().forEach(function (c) { if (c.type) types[c.type] = true; });
-  Object.keys(types).sort().forEach(function (t) {
-    var o = document.createElement('option');
-    o.value = t; o.textContent = t;
-    sel.appendChild(o);
-  });
+  if (!sel) return;
+  var curVal = FEARN_STATE.voiceType || (sel.value || 'all');
+  sel.innerHTML = '<option value="all">All Sources & Desks</option>' +
+    '<optgroup label="Research Publication Catalogues">' +
+    '<option value="Gibson Research Reports">Gibson Research Reports (548 reports)</option>' +
+    '<option value="Fearnleys Research Reports">Fearnleys Research Reports (175 reports)</option>' +
+    '<option value="Seabrokers Offshore Reports">Seabrokers Offshore Reports (97 reports)</option>' +
+    '</optgroup>' +
+    '<optgroup label="Fearnleys Weekly Desk Comments">' +
+    FEARN_VOICE_TYPES.map(function (t) {
+      return '<option value="' + escapeHtml(t) + '">' + escapeHtml(t) + '</option>';
+    }).join('') +
+    '</optgroup>';
+  sel.value = curVal;
 }
 
 function onFearnVoiceChange() {
   var t = document.getElementById('fearnVoiceType');
   var q = document.getElementById('fearnVoiceSearch');
   FEARN_STATE.voiceType = t ? t.value : 'all';
-  FEARN_STATE.voiceQ = q ? q.value.toLowerCase() : '';
+  FEARN_STATE.voiceQ = q ? q.value.toLowerCase().trim() : '';
   renderFearnVoice();
 }
 
@@ -45360,23 +45708,61 @@ function renderFearnVoice() {
   var box = document.getElementById('fearnVoiceStream');
   var cnt = document.getElementById('fearnVoiceCount');
   if (!box) return;
-  var all = (FEARN_STATE.archive && FEARN_STATE.archive.rows) ? FEARN_STATE.archive.rows : fearnVoiceComments();
+  var all = fearnVoiceComments();
+  var q = FEARN_STATE.voiceQ || '';
+  var filterType = FEARN_STATE.voiceType || 'all';
+
   var rows = all.filter(function (c) {
-    if (FEARN_STATE.voiceType !== 'all' && c.type !== FEARN_STATE.voiceType) return false;
-    if (FEARN_STATE.voiceQ && ((c.text || '') + ' ' + (c.name || '')).toLowerCase().indexOf(FEARN_STATE.voiceQ) < 0) return false;
+    if (filterType !== 'all') {
+      if (c.type !== filterType && c.source !== filterType) return false;
+    }
+    if (q) {
+      var hay = ((c.name || '') + ' ' + (c.text || '') + ' ' + (c.type || '') + ' ' + (c.subtype || '') + ' ' + (c.source || '') + ' ' + (c.date || '')).toLowerCase();
+      if (hay.indexOf(q) < 0) return false;
+    }
     return true;
   });
-  if (cnt) cnt.textContent = FEARN_STATE.archive ? ('\u00b7 ' + rows.length + ' of ' + all.length + ' full-archive rows') : ('\u00b7 latest ' + rows.length + ' of ' + all.length + ' cached (11,709 in per-desk archive + 548 Gibson reports)');
-  box.innerHTML = rows.map(function (c) {
-    var linkHtml = c.url ? (' <a href="' + escapeHtml(c.url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;color:var(--accent);text-decoration:underline;margin-left:auto;">Read Report &rarr;</a>') : '';
-    return '<div style="border:1px solid var(--border);border-radius:8px;padding:10px 12px;background:var(--card);">' +
-      '<div style="display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-bottom:4px;">' +
-      '<span style="font-weight:700;font-size:12px;">' + escapeHtml(c.name || c.type || 'Comment') + '</span>' +
+
+  if (cnt) {
+    var arcNote = (FEARN_STATE.archive && FEARN_STATE.archive.rows) ? 'full-archive' : 'cached catalog';
+    cnt.textContent = '· ' + rows.length.toLocaleString('en-US') + ' of ' + all.length.toLocaleString('en-US') + ' indexed entries (' + arcNote + ')';
+  }
+
+  if (!rows.length) {
+    box.innerHTML = '<div style="color:var(--text-muted);font-size:12px;padding:16px;text-align:center;background:var(--card);border:1px solid var(--border);border-radius:6px;">No broker commentary or research reports match the current filter and search query.</div>';
+    return;
+  }
+
+  // Cap to 150 items to keep DOM rendering fast
+  var sliceRows = rows.slice(0, 150);
+  box.innerHTML = sliceRows.map(function (c) {
+    var srcColor = c.source === 'Gibson' ? '#e3b341' : (c.source === 'Seabrokers' ? '#39c5cf' : '#4d9aff');
+    var srcBadge = '<span style="font-size:11px;font-weight:700;font-family:\'IBM Plex Mono\',monospace;padding:2px 6px;border-radius:3px;background:' + srcColor + '18;color:' + srcColor + ';border:1px solid ' + srcColor + '40;">' + escapeHtml(c.source || 'Broker') + '</span>';
+
+    var links = [];
+    if (c.pdf_url) {
+      links.push('<a href="' + escapeHtml(c.pdf_url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;padding:2px 8px;border-radius:4px;background:rgba(227,179,65,0.12);color:#e3b341;text-decoration:none;border:1px solid rgba(227,179,65,0.3);font-family:\'IBM Plex Mono\',monospace;font-weight:600;">PDF ↗</a>');
+    }
+    if (c.url && c.url !== c.pdf_url) {
+      links.push('<a href="' + escapeHtml(c.url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;padding:2px 8px;border-radius:4px;background:rgba(77,154,255,0.12);color:#4d9aff;text-decoration:none;border:1px solid rgba(77,154,255,0.3);font-family:\'IBM Plex Mono\',monospace;font-weight:600;">Online ↗</a>');
+    }
+    if (c.markdown_path) {
+      links.push('<span style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;" data-tooltip="Local markdown digest at ' + escapeHtml(c.markdown_path) + '">Digest ↗</span>');
+    }
+
+    var linksHtml = links.length ? ('<div style="display:flex;gap:6px;align-items:center;margin-left:auto;">' + links.join('') + '</div>') : '';
+
+    return '<div style="border:1px solid var(--border);border-radius:8px;padding:12px 14px;background:var(--card);display:flex;flex-direction:column;gap:6px;">' +
+      '<div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">' +
+      srcBadge +
+      '<span style="font-weight:700;font-size:12px;color:var(--text-bright);">' + escapeHtml(c.name || 'Comment') + '</span>' +
       '<span style="font-family:\'IBM Plex Mono\',monospace;font-size:11px;color:var(--text-muted);">' + escapeHtml(c.date || '') + '</span>' +
       '<span style="font-size:11px;color:var(--accent);">' + escapeHtml(c.subtype || '') + '</span>' +
-      linkHtml + '</div>' +
-      '<div style="font-size:12px;line-height:1.5;">' + escapeHtml(c.text || '') + '</div></div>';
-  }).join('') || '<div style="color:var(--text-muted);font-size:12px;">No commentary matches current filters.</div>';
+      linksHtml +
+      '</div>' +
+      '<div style="font-size:12px;line-height:1.55;color:var(--text);">' + escapeHtml(c.text || '') + '</div>' +
+      '</div>';
+  }).join('') + (rows.length > 150 ? ('<div style="text-align:center;font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;padding:8px;">Showing first 150 of ' + rows.length.toLocaleString('en-US') + ' matches. Refine search query for specific topics.</div>') : '');
 }
 
 function fearnVoiceDeskFor(type) {
@@ -45421,50 +45807,188 @@ function loadFearnArchive() {
   });
 }
 
+var fearnBacktestChartInstance = null;
+
+function onFearnBacktestChange() {
+  renderFearnBacktest();
+}
+
 function renderFearnBacktest() {
   var canvas = document.getElementById('fearnBacktestChart');
   var pills = document.getElementById('fearnRegimePills');
   var note = document.getElementById('fearnBacktestNote');
+  var cnt = document.getElementById('fearnBacktestCount');
   var rows = (window.DATA && DATA.macroBacktest) || [];
+
+  var sigSelect = document.getElementById('fearnBacktestSignal');
+  var horizSelect = document.getElementById('fearnBacktestHorizon');
+  var sigKey = (sigSelect && sigSelect.value) || 'total_score';
+  var horizKey = (horizSelect && horizSelect.value) || 'bdi_1m';
+
+  var SIG_META = {
+    total_score: { label: 'Macro Health Composite', unit: 'Score (0-100)', color: '#e3b341', isScore: true },
+    p1_momentum: { label: 'P1 Rate Momentum Score', unit: 'Score (0-20)', color: '#39c5cf', isScore: true },
+    p2_term_structure: { label: 'P2 Term Structure Score', unit: 'Score (0-20)', color: '#3fb950', isScore: true },
+    p3_futures_basis: { label: 'P3 Futures Basis Score', unit: 'Score (0-20)', color: '#f778ba', isScore: true },
+    p4_port_restock: { label: 'P4 Port Restock Score', unit: 'Score (0-20)', color: '#8957e5', isScore: true },
+    p5_asset_safety: { label: 'P5 Asset Safety Score', unit: 'Score (0-20)', color: '#ff7b72', isScore: true },
+    bdi: { label: 'Baltic Dry Index (BDI)', unit: 'Points', color: '#4d9aff', isScore: false },
+    bdry: { label: 'Breakwave Dry Bulk ETF (BDRY)', unit: 'USD', color: '#7ee787', isScore: false }
+  };
+  var sMeta = SIG_META[sigKey] || { label: sigKey, unit: 'Value', color: '#e3b341' };
+
+  var HORIZ_LABELS = {
+    bdi_1w: 'BDI 1W Realized Return (%)',
+    bdi_1m: 'BDI 1M Realized Return (%)',
+    bdi_3m: 'BDI 3M Realized Return (%)',
+    bdi_6m: 'BDI 6M Realized Return (%)',
+    bdry_1w: 'BDRY 1W Realized Return (%)',
+    bdry_1m: 'BDRY 1M Realized Return (%)',
+    bdry_3m: 'BDRY 3M Realized Return (%)',
+    bdry_6m: 'BDRY 6M Realized Return (%)'
+  };
+  var hLabel = HORIZ_LABELS[horizKey] || horizKey;
+
+  // Filter valid rows where signal is finite
+  var validRows = rows.filter(function (r) {
+    return isFinite(r[sigKey]);
+  });
+
+  if (cnt) cnt.textContent = '· ' + validRows.length.toLocaleString('en-US') + ' daily observations';
+
+  // Compute regime / quintile performance
   if (pills) {
     var byReg = {};
-    rows.forEach(function (r) {
-      if (!byReg[r.regime]) byReg[r.regime] = { n: 0, f1: [] };
-      byReg[r.regime].n++;
-      if (isFinite(r.f1m)) byReg[r.regime].f1.push(r.f1m);
+    validRows.forEach(function (r) {
+      var rg = r.regime || 'UNCLASSIFIED';
+      if (!byReg[rg]) byReg[rg] = { n: 0, fwdVals: [] };
+      byReg[rg].n++;
+      var f = r[horizKey];
+      if (isFinite(f)) byReg[rg].fwdVals.push(f);
     });
-    pills.innerHTML = Object.keys(byReg).sort().map(function (rg) {
+
+    var regOrder = ['EXPANSION', 'TRANSITION_EXPANSION', 'NEUTRAL', 'TRANSITION_CONTRACTION', 'CONTRACTION', 'STALE'];
+    var keys = Object.keys(byReg).sort(function (a, b) {
+      var ia = regOrder.indexOf(a), ib = regOrder.indexOf(b);
+      return (ia >= 0 ? ia : 99) - (ib >= 0 ? ib : 99);
+    });
+
+    pills.innerHTML = keys.map(function (rg) {
       var g = byReg[rg];
-      var hit = g.f1.length ? (g.f1.filter(function (v) { return v > 0; }).length / g.f1.length * 100) : NaN;
-      return '<span class="tracking-status-btn" style="cursor:default;">' + escapeHtml(rg) + ' · ' + g.n + ' obs · 1M fwd hit ' + (isFinite(hit) ? hit.toFixed(0) + '%' : '—') + '</span>';
+      var nFwd = g.fwdVals.length;
+      var hitRate = nFwd ? (g.fwdVals.filter(function (v) { return v > 0; }).length / nFwd * 100) : NaN;
+      var sum = g.fwdVals.reduce(function (acc, v) { return acc + v; }, 0);
+      var mean = nFwd ? (sum / nFwd) : NaN;
+
+      var regColor = rg.indexOf('EXP') >= 0 ? '#3fb950' : (rg.indexOf('CON') >= 0 ? '#f85149' : '#e3b341');
+      var meanColor = isFinite(mean) ? (mean >= 0 ? '#3fb950' : '#f85149') : 'var(--text-muted)';
+      var meanStr = isFinite(mean) ? ((mean >= 0 ? '+' : '') + mean.toFixed(1) + '%') : '—';
+      var hitStr = isFinite(hitRate) ? hitRate.toFixed(0) + '%' : '—';
+
+      return '<div class="tracking-kpi-card" style="padding:8px 12px;min-width:140px;flex:1;">' +
+        '<div style="font-size:11px;font-weight:700;color:' + regColor + ';font-family:\'IBM Plex Mono\',monospace;">' + escapeHtml(rg) + '</div>' +
+        '<div style="font-size:13px;font-weight:700;color:' + meanColor + ';font-family:\'IBM Plex Mono\',monospace;margin:2px 0;">Mean: ' + meanStr + '</div>' +
+        '<div style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">n=' + g.n + ' obs · Win: ' + hitStr + '</div>' +
+        '</div>';
     }).join('');
   }
-  if (note) note.textContent = rows.length ? ('n=' + rows.length + ' daily scores ' + rows[0].d + ' \u2192 ' + rows[rows.length - 1].d + ' \u00b7 macro health score backtest \u00b7 forwards realized, not forecasts') : 'backtest feed unavailable';
-  if (!canvas || typeof Chart === 'undefined' || !rows.length) return;
+
+  if (note) {
+    if (validRows.length) {
+      var firstD = validRows[0].d, lastD = validRows[validRows.length - 1].d;
+      note.textContent = 'Backtest Sample: n=' + validRows.length.toLocaleString('en-US') + ' daily observations (' + firstD + ' \u2192 ' + lastD + ') \u00b7 Target: ' + hLabel + ' \u00b7 All forward returns are realized historical outcomes \u00b7 Zero parameter optimization or curve fitting.';
+    } else {
+      note.textContent = 'Backtest feed unavailable or no matching observations.';
+    }
+  }
+
+  if (!canvas || typeof Chart === 'undefined' || !validRows.length) return;
   if (fearnBacktestChartInstance) { fearnBacktestChartInstance.destroy(); fearnBacktestChartInstance = null; }
+
   var ctx = canvas.getContext('2d');
   fearnBacktestChartInstance = new Chart(ctx, {
     type: 'line',
     data: {
-      labels: rows.map(function (r) { return r.d; }),
-      datasets: [{
-        label: 'Macro Health Score',
-        data: rows.map(function (r) { return r.score; }),
-        borderColor: '#e3b341', backgroundColor: '#e3b34115',
-        fill: true, tension: 0.2, borderWidth: 2, pointRadius: 0, pointHoverRadius: 4
-      }]
+      labels: validRows.map(function (r) { return r.d; }),
+      datasets: [
+        {
+          label: sMeta.label + ' (' + sMeta.unit + ')',
+          data: validRows.map(function (r) { return r[sigKey]; }),
+          borderColor: sMeta.color,
+          backgroundColor: sMeta.color + '15',
+          fill: sMeta.isScore,
+          tension: 0.2,
+          borderWidth: 2,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          yAxisID: 'y'
+        },
+        {
+          label: hLabel,
+          data: validRows.map(function (r) { return r[horizKey] != null ? r[horizKey] : null; }),
+          borderColor: '#4d9aff',
+          backgroundColor: 'transparent',
+          fill: false,
+          tension: 0.2,
+          borderWidth: 1.5,
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          yAxisID: 'y1'
+        }
+      ]
     },
     options: {
-      responsive: true, maintainAspectRatio: false,
+      responsive: true,
+      maintainAspectRatio: false,
       interaction: { mode: 'index', intersect: false },
-      plugins: { legend: { display: true, labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 11 } } } },
+      plugins: {
+        legend: { display: true, labels: { color: '#d4dce8', font: { family: 'IBM Plex Sans', size: 11 } } },
+        tooltip: {
+          backgroundColor: '#111820',
+          borderColor: '#1c2333',
+          borderWidth: 1,
+          titleColor: '#fff',
+          bodyColor: '#d4dce8',
+          titleFont: { family: 'IBM Plex Mono', size: 11 },
+          bodyFont: { family: 'IBM Plex Mono', size: 11 },
+          callbacks: {
+            afterBody: function (items) {
+              if (!items.length) return '';
+              var idx = items[0].dataIndex;
+              var r = validRows[idx];
+              return r && r.regime ? ('Regime: ' + r.regime) : '';
+            }
+          }
+        }
+      },
       scales: {
-        x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 14 } },
-        y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 } } }
+        x: {
+          grid: { color: 'rgba(28,35,51,0.4)' },
+          ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 14 }
+        },
+        y: {
+          type: 'linear',
+          position: 'left',
+          grid: { color: 'rgba(28,35,51,0.5)' },
+          ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 } },
+          title: { display: true, text: sMeta.unit, color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 } }
+        },
+        y1: {
+          type: 'linear',
+          position: 'right',
+          grid: { drawOnChartArea: false },
+          ticks: {
+            color: '#4d9aff',
+            font: { family: 'IBM Plex Mono', size: 11 },
+            callback: function (val) { return val + '%'; }
+          },
+          title: { display: true, text: 'Realized Return (%)', color: '#4d9aff', font: { family: 'IBM Plex Mono', size: 11 } }
+        }
       }
     }
   });
 }
+
 
 function renderOffshoreTab() {
   if (!window.DATA || !DATA.offshoreSummary) return;

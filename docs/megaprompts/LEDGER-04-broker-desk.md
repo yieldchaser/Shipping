@@ -70,3 +70,38 @@ Execution log for Prompt 04. Every step recorded as executed.
 - ACTUAL RESULT: Passed. Braemar strip rendered (Cape, Pmax, Smax, Handy), Gibson tanker routes rendered with TD3C/TD20/TC1, Gibson reports catalog rendered with 548 reports, 0 console errors across all 12 tabs.
 - DEVIATIONS: None.
 
+---
+
+## STEP 4.3 — Deepen the three specials: Series Museum, Broker Voice, Backtest Lab
+- STATUS: DONE
+- FILES TOUCHED: `index.html` (lines ~13208–13320, 16345–16410, 45025–45740)
+- WHAT I DID:
+  1. **Series Museum (Data Catalogue & Provenance Museum)**:
+     - Upgraded `#fearnSec9` and `#fearnMusModal` in `index.html` to consume `data/provenance/manifest.json`.
+     - Displays all 86 registered series across the entire application with verified source attribution, producing pipelines, row counts, and date spans.
+     - Interactive filter pills: ALL, LIVE (78), ESTIMATED (4), UNREGISTERED (4), and domain categories (Indices, Futures, ETFs, Commodities, Congestion, Bunkers, Broker Rates, Offshore).
+     - Full-text search across series name, ID, source, pipeline, output file, and notes.
+     - Clicking any card opens rich Provenance Modal with physical file paths, last fetched timestamps, full audit notes, and direct "View in App ➔" button (`fearnNavigateToSeries`) to jump directly to the live chart in the app.
+  2. **Broker Voice & Research Repository**:
+     - Aggregated 4 comprehensive commercial broker commentary & research feeds:
+       - Fearnleys weekly comments (`DATA.fearnleysSummary.broker_sentiment` + 11,709 row per-desk archive `data/derived/fearnleys_comments_*.json`)
+       - Fearnleys research reports (175 reports from `data/reports/fearnleys_reports_catalog.json` with direct PDF links and extracted text excerpts)
+       - Gibson research reports (548 reports from `data/clarksons/gibson_all_reports_catalog.json` with online/download links)
+       - Seabrokers offshore reports (97 reports from `data/reports/seabrokers_catalog.json` with PDF, card, and local markdown digest links)
+     - Multi-tier dropdown filter (`#fearnVoiceType`): All Sources & Desks, Gibson Research Reports, Fearnleys Research Reports, Seabrokers Offshore Reports, and individual Fearnleys desk comments.
+     - Instant full-text search across title, date, excerpt, subtype, and source.
+     - Direct action links: PDF ↗, Online ↗, Digest ↗.
+     - Full honest counters: `· X of Y indexed entries`.
+  3. **Backtest Lab (Macro Health Composite & Signal Engine)**:
+     - Upgraded `#fearnSec11` Backtest Lab to support multi-signal and multi-horizon realized performance analysis.
+     - Signal switcher (`#fearnBacktestSignal`): Macro Health Composite (0-100), P1 Rate Momentum (0-20), P2 Term Structure (0-20), P3 Futures Basis (0-20), P4 Port Restocking (0-20), P5 Asset Safety (0-20), BDI Spot, and BDRY ETF.
+     - Target switcher (`#fearnBacktestHorizon`): BDI 1W/1M/3M/6M and BDRY 1W/1M/3M/6M forward returns.
+     - Dynamic regime breakdown cards (`#fearnRegimePills`): Expansion, Neutral, Contraction, etc. with `n=... obs`, `Mean Return (%)`, and `Win Rate (%)` (positive forward return %).
+     - Dual-axis Chart.js visualization: Left Y-axis displays signal score/value; Right Y-axis displays strictly realized forward return (%). Tooltips include 3-beat details and market regime classification.
+     - Zero parameter optimization, curve fitting, or forward leakage; strictly honest framing (`n=1,984 daily observations 2018-03-22 → 2026-08-10 · All forward returns are realized historical outcomes`).
+- VERIFY COMMAND: `python "C:\Users\Dell\.gemini\antigravity\brain\0665d618-d679-42b2-8a8d-1a8a752ff097\scratch\test_phase43_deepen.py"`
+- EXPECTED RESULT: All Museum (86 series), Voice (860 reports), and Backtest (1,984 observations, 2 datasets, regime pills) tests pass with 0 console errors.
+- ACTUAL RESULT: Passed. 0 console errors. All checks verified.
+- DEVIATIONS: None.
+
+
