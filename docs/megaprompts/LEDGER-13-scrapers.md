@@ -220,6 +220,43 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 1.06s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 4 — USDA Grain Vessel Queues (1995–2026 Full History in ISO Dates)
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_usda_grain_queues.py` (created)
+  - `data/commodities/GTRTable19_Figure19.xlsx` (downloaded live official dataset, 196,414 bytes)
+  - `data/commodities/usda_grain_vessel_loading.csv` (rebuilt with 3,304 rows in strict ISO `YYYY-MM-DD` spanning 1995-01-04 to 2026-09-03)
+  - `data/commodities/usda_grain_vessel_loading_queues.csv` (rebuilt with 3,304 rows with ISO dates and region aliases)
+  - `scripts/cargo/build_cargo_cache.py` (rebuilt cache)
+  - `data/cargo/cargo_frontend_summary.json` (rebuilt summary cache)
+  - `data/provenance/manifest.json` (updated `commodities_usda_grain_vessel_loading` and `commodities_usda_grain_vessel_loading_queues` to 3,304 rows, date span 1995-01-04 to 2026-09-03)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 2):**
+  - `[Rung 1] GET https://www.ams.usda.gov/services/transportation-analysis/gtr-datasets` -> HTTP 200 (60,183 bytes). Located structured Excel download: `Table 19_Figure 19: Weekly port region grain ocean vessel activity -> /sites/default/files/media/GTRTable19_Figure19.xlsx`.
+  - `[Rung 2] GET https://www.ams.usda.gov/sites/default/files/media/GTRTable19_Figure19.xlsx` -> HTTP 200 (196,414 bytes). Parsed 1,653 weekly rows across Gulf, Pacific Northwest (PNW), and Vancouver.
+- **VALIDATION AGAINST PROMPT 13 SPECIFICATIONS:**
+  - `w/e 2026-07-23` (Gulf): Loaded = 25.0 (Prompt specified 25) ✔, Due Next 10 Days = 41.0 (Prompt specified 41) ✔.
+  - `w/e 2026-08-13` (Gulf): Loaded = 29.0 (Prompt specified 29) ✔, Due Next 10 Days = 31.0 (Prompt specified 31) ✔.
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_usda_grain_queues.py` fetching official weekly USDA AMS GTR datasets directly.
+  2. Rebuilt the 31-year continuous queue dataset (1,652 weeks per port = 3,304 total rows) spanning 1995-01-04 to 2026-09-03.
+  3. Standardized all dates to ISO `YYYY-MM-DD`, fixing the legacy `MM/DD/YYYY` lexicographical mis-sort defect.
+  4. Verified exact consistency with downstream modules (`build_cargo_cache.py`, `generate_brief.py`).
+  5. Updated `data/provenance/manifest.json` marking both series LIVE through September 2026.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 1.35s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 
 

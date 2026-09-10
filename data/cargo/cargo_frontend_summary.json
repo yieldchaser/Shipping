@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-10T18:48:20Z",
+    "generated_at": "2026-09-10T18:54:52Z",
     "as_of": "2026-09-10",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -9798,7 +9798,7 @@
       "source": "USDA Agricultural Marketing Service / Transportation & Marketing",
       "method": "Weekly Grain Transportation Report (GTR)",
       "span": "1995\u20132026 (31 Years)",
-      "as_of": "2026-08-13",
+      "as_of": "2026-09-03",
       "status": "LIVE",
       "unit": "Vessel Count"
     },
@@ -9959,8 +9959,8 @@
           32.0,
           26.0,
           31.0,
-          9.0,
-          null,
+          10.0,
+          22.0,
           null,
           null,
           null
@@ -10029,7 +10029,7 @@
         39.2,
         46.8,
         45.8,
-        43.6,
+        44.0,
         49.0
       ],
       "years": {
@@ -10100,7 +10100,7 @@
           47.0,
           48.0,
           55.0,
-          45.0,
+          47.0,
           48.0
         ],
         "2025": [
@@ -10125,8 +10125,8 @@
           40.0,
           40.0,
           28.0,
-          31.0,
-          null,
+          29.0,
+          32.0,
           null,
           null,
           null
