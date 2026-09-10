@@ -1,0 +1,359 @@
+{
+  "metrics": {
+    "transfer_mb": 6.2,
+    "requests_count": 18,
+    "load_time_ms": 866,
+    "boot_canvases": 2,
+    "boot_dom_nodes": 5187,
+    "total_console_errors": 0,
+    "total_console_warnings": 0
+  },
+  "console_errors": [],
+  "tab_status": {
+    "DASHBOARD": {
+      "tab_key": "dashboard",
+      "panel_id": "tab-dashboard",
+      "exists": true,
+      "is_active": true,
+      "canvases": 2,
+      "new_errors": 0
+    },
+    "YEARLY": {
+      "tab_key": "yearly-dash",
+      "panel_id": "tab-yearly-dash",
+      "exists": true,
+      "is_active": true,
+      "canvases": 7,
+      "new_errors": 0
+    },
+    "SEASONALITY": {
+      "tab_key": "seasonality",
+      "panel_id": "tab-seasonality",
+      "exists": true,
+      "is_active": true,
+      "canvases": 7,
+      "new_errors": 0
+    },
+    "INDICES": {
+      "tab_key": "indices",
+      "panel_id": "tab-indices",
+      "exists": true,
+      "is_active": true,
+      "canvases": 17,
+      "new_errors": 0
+    },
+    "ETFS": {
+      "tab_key": "etfs",
+      "panel_id": "tab-etfs",
+      "exists": true,
+      "is_active": true,
+      "canvases": 21,
+      "new_errors": 0
+    },
+    "SIGNALS": {
+      "tab_key": "signals",
+      "panel_id": "tab-signals",
+      "exists": true,
+      "is_active": true,
+      "canvases": 15,
+      "new_errors": 0
+    },
+    "FEARNLEYS": {
+      "tab_key": "fearnleys",
+      "panel_id": "tab-fearnleys",
+      "exists": true,
+      "is_active": true,
+      "canvases": 21,
+      "new_errors": 0
+    },
+    "INTELLIGENCE": {
+      "tab_key": "intelligence",
+      "panel_id": "tab-intelligence",
+      "exists": true,
+      "is_active": true,
+      "canvases": 3,
+      "new_errors": 0
+    },
+    "TRACKING": {
+      "tab_key": "tracking",
+      "panel_id": "tab-tracking",
+      "exists": true,
+      "is_active": true,
+      "canvases": 5,
+      "new_errors": 0
+    },
+    "CARGO": {
+      "tab_key": "cargo",
+      "panel_id": "tab-cargo",
+      "exists": true,
+      "is_active": true,
+      "canvases": 14,
+      "new_errors": 0
+    },
+    "BUNKERS": {
+      "tab_key": "bunkers",
+      "panel_id": "tab-bunkers",
+      "exists": true,
+      "is_active": true,
+      "canvases": 6,
+      "new_errors": 0
+    },
+    "OFFSHORE": {
+      "tab_key": "offshore",
+      "panel_id": "tab-offshore",
+      "exists": true,
+      "is_active": true,
+      "canvases": 1,
+      "new_errors": 0
+    }
+  },
+  "design_conformance": {
+    "small_fonts_count": 0,
+    "unicode_sparklines": 0,
+    "ui_desc_tooltips": 0,
+    "dead_space_violations": 0
+  },
+  "tooltip_audit": [
+    {
+      "element": "<TH class='' id=''>",
+      "clean_snippet": "Canal / Passage Column   Meaning  Column of this table; every cell is computed from the cache section backing ",
+      "char_length": 222,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": true,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='index-stat-mini-label' id=''>",
+      "clean_snippet": "52-Week Position - percentile of current price within its 52W range. 0% = 52W low; 100% = 52W high.",
+      "char_length": 99,
+      "len_ok": true,
+      "beats_count": 2,
+      "has_three_beats": true,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<BUTTON class='dl-btn' id='macroCyclesDlBtn'>",
+      "clean_snippet": "CSV Export   Action  Downloads the visible table/chart data exactly as rendered    Format  Comma-Separated Val",
+      "char_length": 205,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<SPAN class='' id=''>",
+      "clean_snippet": "7-day price delta from daily bunker harvest",
+      "char_length": 43,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='' id=''>",
+      "clean_snippet": "Trailing 30D Lot Size Trajectory   Contract:  Supramax 58 TC FFA 58kt Timecharter Average M Dec 26    30D Init",
+      "char_length": 291,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='' id=''>",
+      "clean_snippet": "Supramax 10TC Rate Shock   Vessel Size  58,000-64,000 DWT Supramax/Ultramax    Major Trade  Minor Bulks, Ferti",
+      "char_length": 213,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<BUTTON class='sq-q' id=''>",
+      "clean_snippet": "One-click ETF scenario query: loads this question and runs it grounded in holdings and SEC filings with citati",
+      "char_length": 114,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='index-stat-mini-label' id=''>",
+      "clean_snippet": "Year-to-Date Return - the % change from the last closing value of prior year December 31 to today.",
+      "char_length": 98,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<BUTTON class='' id=''>",
+      "clean_snippet": "Open Port Fuel Detail Modal",
+      "char_length": 27,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<INPUT class='' id='rangeStart_suprama'>",
+      "clean_snippet": "Drag to set the left (start) edge of the plotted date window. The label above shows the exact dates and observ",
+      "char_length": 137,
+      "len_ok": true,
+      "beats_count": 2,
+      "has_three_beats": true,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='vessel-modal-backdrop' id='vesselModalBackdrop'>",
+      "clean_snippet": "Control: \u2014 \u2014 \u2014 Scrubber Fitted \u00d7 Particulars Voyage History Live AIS    Function  Terminal control   Interacti",
+      "char_length": 181,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": false,
+      "no_caveat": true,
+      "has_provenance": true,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='bunkers-spark' id=''>",
+      "clean_snippet": "Trailing 12-month VLSFO trend",
+      "char_length": 29,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='sent-tl-seg tl-neu' id=''>",
+      "clean_snippet": "August 11, 2026: neutral",
+      "char_length": 24,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<TH class='' id=''>",
+      "clean_snippet": "Q4 Quarter Column   Meaning  Q4 seasonal performance for the row year   Quarterly aggregation of the daily mas",
+      "char_length": 120,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<BUTTON class='tracking-pill active' id=''>",
+      "clean_snippet": "Show every measured vessel class from the PortWatch port-calls feed. Counts below are ports with recorded call",
+      "char_length": 139,
+      "len_ok": true,
+      "beats_count": 2,
+      "has_three_beats": true,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": true,
+      "passed": true
+    },
+    {
+      "element": "<INPUT class='' id='hvRangeStart'>",
+      "clean_snippet": "Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the c",
+      "char_length": 115,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<BUTTON class='dl-btn' id=''>",
+      "clean_snippet": "Apply -60.9% move to ETF Deconstruction Engine",
+      "char_length": 46,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<BUTTON class='dl-btn' id=''>",
+      "clean_snippet": "Apply -67.5% move to ETF Deconstruction Engine",
+      "char_length": 46,
+      "len_ok": false,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<DIV class='card-header-bar' id=''>",
+      "clean_snippet": "Capesize Vessels (180K DWT) - the heavyweights of the dry bulk fleet, primarily hauling iron ore and coal. Hig",
+      "char_length": 195,
+      "len_ok": true,
+      "beats_count": 2,
+      "has_three_beats": true,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    },
+    {
+      "element": "<BUTTON class='sq-q' id=''>",
+      "clean_snippet": "One-click ETF scenario query: loads this question and runs it grounded in holdings and SEC filings with citati",
+      "char_length": 114,
+      "len_ok": true,
+      "beats_count": 1,
+      "has_three_beats": false,
+      "no_ui_desc": true,
+      "no_caveat": true,
+      "has_provenance": false,
+      "passed": false
+    }
+  ],
+  "tooltip_pass_rate": "1 / 20 (5.0%)"
+}

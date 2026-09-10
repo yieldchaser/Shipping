@@ -1,0 +1,134 @@
+{
+  "dict_literals": {
+    "total": 15,
+    "static": 12,
+    "observation": [
+      {
+        "file": "scripts/analysis/cascade_extractor_v2.py",
+        "line": 141,
+        "numeric_count": 13,
+        "keys_sample": "2022-08-01, 2022-11-01, 2023-02-01, 2023-05-01, 2023-11-01",
+        "classification": "SUSPICIOUS_OBSERVATION_DATA"
+      },
+      {
+        "file": "scripts/analysis/cascade_extractor_v2.py",
+        "line": 148,
+        "numeric_count": 13,
+        "keys_sample": "2022-08-01, 2022-11-01, 2023-02-01, 2023-05-01, 2023-11-01",
+        "classification": "SUSPICIOUS_OBSERVATION_DATA"
+      },
+      {
+        "file": "scripts/analysis/cascade_extractor_v2.py",
+        "line": 155,
+        "numeric_count": 10,
+        "keys_sample": "2022-08-01, 2022-11-01, 2023-02-01, 2023-09-01, 2024-05-01",
+        "classification": "SUSPICIOUS_OBSERVATION_DATA"
+      }
+    ]
+  },
+  "except_substitutions": [],
+  "docstring_uncalled": [
+    {
+      "file": "scripts/check_data_spike_health.py",
+      "line": 112,
+      "keyword": "sgx",
+      "docstring_sample": "NEWBUILDING valuations + SGX expiry >= 2030 rows are never flagged.",
+      "verdict": "DOCSTRING_CLAIM_NOT_CALLING_SOURCE"
+    },
+    {
+      "file": "scripts/contract_spec_registry.py",
+      "line": 1,
+      "keyword": "sgx",
+      "docstring_sample": "Authoritative Evidence-Backed Contract Specification Registry ======================================",
+      "verdict": "DOCSTRING_CLAIM_NOT_CALLING_SOURCE"
+    },
+    {
+      "file": "scripts/expansion_sgx_history_backfill.py",
+      "line": 135,
+      "keyword": "sgx",
+      "docstring_sample": "Earliest contract-expiry year holding any nonzero settlement price.  The SGX history API serves real",
+      "verdict": "DOCSTRING_CLAIM_NOT_CALLING_SOURCE"
+    },
+    {
+      "file": "scripts/generate_brief.py",
+      "line": 266,
+      "keyword": "sgx",
+      "docstring_sample": "Parses SGX curve dates (strict DD-MM-YYYY, ISO fallback) to datetime for correct chronological compa",
+      "verdict": "DOCSTRING_CLAIM_NOT_CALLING_SOURCE"
+    },
+    {
+      "file": "scripts/test_daily_return_backtests.py",
+      "line": 1,
+      "keyword": "sgx",
+      "docstring_sample": "Unit Tests for Contract-Spec Registry, Dynamic Snapshot Loader, and Daily Return Engine ============",
+      "verdict": "DOCSTRING_CLAIM_NOT_CALLING_SOURCE"
+    },
+    {
+      "file": "scripts/test_evidence_and_governance.py",
+      "line": 1,
+      "keyword": "sgx",
+      "docstring_sample": "Comprehensive Verification Suite: Evidence, Governance, and Scenario Interface =====================",
+      "verdict": "DOCSTRING_CLAIM_NOT_CALLING_SOURCE"
+    },
+    {
+      "file": "scripts/experiments/timesfm_probe_backtest.py",
+      "line": 278,
+      "keyword": "sgx",
+      "docstring_sample": "Build future-known covariate array of shape [ctx+horizon, num_future]. Only calendar information kno",
+      "verdict": "DOCSTRING_CLAIM_NOT_CALLING_SOURCE"
+    }
+  ],
+  "suspicious_constants": [],
+  "image_comments": [
+    {
+      "file": "index.html",
+      "line": 12386,
+      "snippet": "<div class=\"sim-dual-top-pane\" data-tooltip=\"<div class='rt-title'>Simulated NAV vs Market Price Trend</div><div class='"
+    },
+    {
+      "file": "index.html",
+      "line": 14919,
+      "snippet": "Source: AIS Daily Transit Observation &amp; IMF PortWatch (2019\u20132026) \u00b7 baseline lines are computed from the chart's own"
+    }
+  ],
+  "html_numeric_arrays": [
+    {
+      "line": 23078,
+      "length": 12,
+      "snippet": "const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];"
+    },
+    {
+      "line": 23168,
+      "length": 12,
+      "snippet": "var months = [0,1,2,3,4,5,6,7,8,9,10,11];"
+    },
+    {
+      "line": 23224,
+      "length": 12,
+      "snippet": "const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];"
+    },
+    {
+      "line": 23443,
+      "length": 12,
+      "snippet": "var months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];"
+    }
+  ],
+  "identical_slopes": [
+    {
+      "dataset": "bunker_forward_curves_12m.csv",
+      "entities_tested": 0,
+      "shared_slope_pairs": 0,
+      "details": "0 hub pairs share identical forward slope ratios (e.g. none)",
+      "verdict": "ORGANIC_DIVERGENT_CURVES",
+      "status_in_manifest": "ESTIMATED (documented as modelled slope)"
+    },
+    {
+      "dataset": "tanker_forward_curves.csv",
+      "entities_tested": 0,
+      "shared_slope_pairs": 0,
+      "details": "Tested multi-tenor tanker curves",
+      "verdict": "ORGANIC_DIVERGENT_CURVES",
+      "status_in_manifest": "LIVE"
+    }
+  ]
+}
