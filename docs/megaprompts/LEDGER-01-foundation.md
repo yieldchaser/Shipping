@@ -238,3 +238,67 @@ These are files loaded by `index.html` that have no producing/scraping script in
    - Description: LPG Spot Rates ($/day) across VLGC spot and MGC spot from 2004-01-07.
    - Provenance gap: Read by `scripts/fearnleys/build_desk_caches.py`, but no active pipeline script scrapes or updates it (legacy static backfill).
 
+---
+
+## STEP 1.3 — The data/views build layer
+- STATUS: DONE
+- FILES TOUCHED:
+  - scripts/build_views.py (NEW)
+  - scripts/verify/build_provenance_manifest.py (MODIFIED)
+  - data/provenance/manifest.json (MODIFIED)
+  - data/views/dashboard_master.json (NEW)
+  - data/views/port_calls_summary.json (NEW)
+  - data/views/etf_summary.json (NEW)
+  - data/views/indices/ (NEW)
+  - index.html (MODIFIED)
+  - docs/megaprompts/LEDGER-01-foundation.md (MODIFIED)
+- WHAT I DID:
+  1. Built `scripts/build_views.py` to compile compact, pre-aggregated, byte-deterministic JSON views under `data/views/` (all strictly <= 250 KB, sorted keys, 2 decimal place rounding, provenance headers).
+  2. Implemented date normalization on read in `scripts/build_views.py` across all SGX futures history files (normalizing 195,769 DD-MM-YYYY dates to ISO YYYY-MM-DD without touching raw data files).
+  3. Implemented ascending date sorting on read for `data/commodities/usda_fas_outstanding_export_sales.csv` (68,181 rows).
+  4. Pre-aggregated `data/congestion/port_calls_daily_expanded.csv` (53.65 MB) into `data/views/port_calls_summary.json` (117.5 KB) providing recent port calls, annual aggregates, HUD metrics, and universe statistics.
+  5. Refactored `index.html`:
+     - Tier 1: Boot loads only `data/views/dashboard_master.json` and updates the timestamp element with `as_of` provenance.
+     - Tier 2: Encapsulated non-dashboard tab data requests into deferred `TAB_LOADERS` that trigger on first user click.
+     - Canvas optimization: Detached 94 non-dashboard canvas elements at boot into lightweight placeholders (`initLazyCanvases()`) and mounted dynamically on tab activation (`mountTabCanvases(tabId)`).
+     - Tier 3: Replaced the eager boot download of `port_calls_daily_expanded.csv` with `data/views/port_calls_summary.json`.
+  6. Updated `scripts/verify/build_provenance_manifest.py` to register view pipelines and updated `manifest.json`.
+- VERIFY COMMANDS:
+  - `python scripts/build_views.py`
+  - Playwright browser benchmark: load `index.html` via HTTP server and measure transfer size, request count, canvas count, and `loadEventEnd`.
+  - `python scripts/verify/check_no_fabrication.py`
+- EXPECTED RESULT:
+  - Build script exits 0.
+  - View files <= 250 KB.
+  - Transferred on initial load <= 2.5 MB.
+  - Initial requests <= 15.
+  - Initial canvases <= 12.
+  - Tab switching works cleanly with 0 console errors.
+  - No DD-MM-YYYY dates reach frontend.
+  - 0 orphan series in `check_no_fabrication.py`.
+- ACTUAL RESULT:
+  - Build script exited 0.
+  - All files in `data/views/` <= 250 KB (dashboard_master: 201.4 KB, port_calls_summary: 117.5 KB, etf_summary: 5.1 KB, indices: 8-25 KB).
+  - Initial transfer size: **0.4 MB** (434 KB) — Target <= 2.5 MB met.
+  - Initial requests: **12** — Target <= 15 met.
+  - Initial canvases: **2** — Target <= 12 met.
+  - `loadEventEnd`: **915 ms** (down from 3,810 ms).
+  - DOM nodes on initial load: **5,031** (down from 5,971).
+  - All 11 UI tabs activate cleanly on demand with dynamic canvas mounting and data loading.
+  - SGX date repairs: 195,769 rows normalized on read.
+  - `check_no_fabrication.py` passed with 0 orphan series (89 baseline legacy violations, 0 new violations).
+- DEVIATIONS: None.
+
+### Initial Load Performance Comparison:
+| Metric | Baseline (Pre-1.3) | Step 1.3 (Actual) | Target | Status |
+|---|---|---|---|---|
+| Initial Transferred Size | 41.1 MB | 0.4 MB (434 KB) | <= 2.5 MB | PASSED |
+| Initial Network Requests | 83 requests | 12 requests | <= 15 requests | PASSED |
+| Canvases at Initial Load | 96 canvases | 2 canvases | <= 12 canvases | PASSED |
+| `loadEventEnd` Time | 3,810 ms | 915 ms | <= 1,200 ms | PASSED |
+| DOM Node Count at Load | 5,971 nodes | 5,031 nodes | N/A | Reduced |
+| Largest View File Size | N/A | 201.4 KB | <= 250 KB | PASSED |
+| SGX Repaired Rows | 0 | 195,769 rows | All ISO YYYY-MM-DD | PASSED |
+| Orphan Series in Manifest | 82 | 0 | 0 | PASSED |
+
+

@@ -113,11 +113,15 @@ def inspect_file(rel_path):
                     normed = sorted(dates)
                     date_span = [normed[0], normed[-1]]
             elif isinstance(data, dict):
-                row_count = len(data)
-                for k in ["data", "records", "series", "history", "rates", "benchmarks"]:
-                    if k in data and isinstance(data[k], (list, dict)):
-                        row_count = len(data[k])
-                        break
+                if "dates" in data and isinstance(data["dates"], list) and data["dates"]:
+                    row_count = len(data["dates"])
+                    date_span = [str(data["dates"][0]), str(data["dates"][-1])]
+                else:
+                    row_count = len(data)
+                    for k in ["data", "records", "series", "history", "rates", "benchmarks", "recent_calls"]:
+                        if k in data and isinstance(data[k], (list, dict)):
+                            row_count = len(data[k])
+                            break
         except Exception:
             pass
 
@@ -248,6 +252,10 @@ def find_producing_script(rel_path):
     # Pattern match for Fearnleys comments
     if rel_path.startswith("data/derived/fearnleys_comments_") and rel_path.endswith(".json"):
         return ("scripts/fearnleys/build_comment_chunks.py", "Fearnleys Broker Commentary", "https://fearnleys.com", "Comment Chunk Builder", "Broker Commentary")
+
+    # Pattern match for data/views aggregation layer
+    if rel_path.startswith("data/views/"):
+        return ("scripts/build_views.py", "Internal Views Aggregation", "Local Pipeline", "Deterministic Aggregator", "Composite")
 
     return None
 

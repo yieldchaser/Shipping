@@ -16305,12 +16305,460 @@ if (intelTabsContainer) {
       return out;
     }
 
+        var failedLoads = [];
+    function safeFetch(file, label, defaultVal, parseFn) {
+      return fetchCSV(file)
+        .then(r => {
+          const data = Array.isArray(r) ? r : (defaultVal || []);
+          return parseFn ? parseFn(data) : data;
+        })
+        .catch(e => {
+          failedLoads.push({ file, label, error: e && e.message ? e.message : String(e) });
+          console.warn('[' + label + '] Load failed:', e && e.message ? e.message : e);
+          if (parseFn) {
+            try { parseFn(defaultVal || []); } catch (err) {}
+          }
+          return defaultVal || [];
+        });
+    }
+
+    let etfsLoadPromise = null;
+    function loadEtfsData() {
+      if (etfsLoadPromise) return etfsLoadPromise;
+      etfsLoadPromise = Promise.allSettled([
+        safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r || []; }),
+        safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r || []; }),
+        safeFetch('data/etf/BDRY_Daily.csv', 'BDRY P/D', [], r => { DATA.bdryPD = parsePDCsv(r || []); }),
+        safeFetch('data/etf/BWET_Daily.csv', 'BWET P/D', [], r => { DATA.bwetPD = parsePDCsv(r || []); }),
+        safeFetch('data/etf/bdry_liquidity.csv', 'BDRY Liquidity', [], r => { DATA.bdryLiquidity = r || []; }),
+        safeFetch('data/etf/bwet_liquidity.csv', 'BWET Liquidity', [], r => { DATA.bwetLiquidity = r || []; }),
+        safeFetch('data/etf/BDRY_flows.csv', 'BDRY Flows', [], r => { DATA.bdryFlows = parseFlowCsv(r || []); }),
+        safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r || []); }),
+        safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r || []; }),
+        safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r || []; }),
+        fetch('data/etf/live_quotes.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.etfLiveQuotes = d; }).catch(() => {})
+      ]);
+      return etfsLoadPromise;
+    }
+
+    let signalsLoadPromise = null;
+    function loadSignalsData() {
+      if (signalsLoadPromise) return signalsLoadPromise;
+      const sgxFiles = {
+        cape: 'data/futures/sgx_cape_futures.csv',
+        panamax: 'data/futures/sgx_panamax_futures.csv',
+        supramax: 'data/futures/sgx_supramax_futures.csv',
+        handysize: 'data/futures/sgx_handysize_futures.csv',
+        fef: 'data/futures/sgx_iron_ore_fef.csv',
+        m65f: 'data/futures/sgx_iron_ore_m65f.csv',
+        lpf: 'data/futures/sgx_iron_ore_lump_lpf.csv'
+      };
+      const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
+        try {
+          const rows = await fetchCSV(file);
+          DATA.sgx[key] = (rows || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return (d && row.settlement != null) ? { date: d, dateStr: row.date, contract: (row.contract || '').trim(), settlement: parseVal(row.settlement), change: parseVal(row.change), volume: parseVal(row.volume), open_interest: parseVal(row.open_interest), month_order: parseVal(row.month_order) } : null;
+          }).filter(Boolean);
+        } catch (e) { DATA.sgx[key] = []; }
+      });
+
+      signalsLoadPromise = Promise.allSettled([
+        safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
+          DATA.timeCharterRates = DATA.time_charter_rates = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: row.date, capesize: parseVal(row.capesize), panamax: parseVal(row.panamax), supramax: parseVal(row.supramax), handysize: parseVal(row.handysize) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/derived/iron_ore_restocking.csv', 'Iron Ore Restocking', [], r => {
+          DATA.ironOreRestocking = DATA.iron_ore_restocking = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            const inv = parseVal(row.inventory_mt);
+            const days = parseVal(row.days_of_use);
+            const util = parseVal(row.mill_utilization_pct);
+            const imp = parseVal(row.implied_burn_rate_mt);
+            const reg = (row.regime || '').trim();
+            return (d && inv != null) ? { date: d, dateStr: row.date, inventory_mt: inv, days_of_use: days, mill_utilization_pct: util, implied_burn_rate_mt: imp, regime: reg } : null;
+          }).filter(Boolean);
+        }),
+        safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
+          DATA.vesselValuations = DATA.vessel_valuations = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            const val = parseVal(row.asset_value_m);
+            const earn = parseVal(row.annual_earnings_m);
+            const ratio = parseVal(row.pe_ratio);
+            const avg = parseVal(row.five_year_avg_pe);
+            const st = (row.status || '').trim();
+            return (d && val != null) ? { date: d, dateStr: row.date, sector: (row.sector || '').trim(), vessel_class: (row.vessel_class || '').trim(), age: (row.age || '').trim(), asset_value_m: val, annual_earnings_m: earn, pe_ratio: ratio, five_year_avg_pe: avg, status: st } : null;
+          }).filter(Boolean);
+        }),
+        safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
+          DATA.scrappagePrices = DATA.scrappage_prices = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            const ldt = parseVal(row.price_per_ldt);
+            const vol = parseVal(row.demo_volume_dwt);
+            const sub = parseVal(row.subcontinent_avg);
+            const reg = (row.region || '').trim();
+            return (d && ldt != null) ? { date: d, dateStr: row.date, region: reg, price_per_ldt: ldt, demo_volume_dwt: vol, subcontinent_avg: sub } : null;
+          }).filter(Boolean);
+        }),
+        safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Broker Desk TC Rates', [], r => {
+          DATA.timeCharterRatesFearnleys = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: row.date, sector: (row.sector || '').trim(), segment: (row.segment || '').trim(), tenor: (row.tenor || '').trim(), rate: parseVal(row.rate) };
+          }).filter(x => x.date && x.rate != null);
+        }),
+        safeFetch('data/derived/intermodal_tc_rates.csv', 'Intermodal TC Rates', [], r => {
+          DATA.intermodalTcRates = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: row.date, sector: (row.sector || '').trim(), segment: (row.segment || '').trim(), tenor: (row.tenor || '').trim(), rate: parseVal(row.rate) };
+          }).filter(x => x.date && x.rate != null);
+        }),
+        safeFetch('data/derived/lpg_spot_rates.csv', 'LPG Spot Rates', [], r => {
+          DATA.lpgSpotRates = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: row.date, segment: (row.segment || '').trim(), route: (row.route || '').trim(), rate: parseVal(row.rate), unit: (row.unit || '').trim() };
+          }).filter(x => x.date && x.rate != null);
+        }),
+        safeFetch('data/derived/lpg_charter_rates.csv', 'LPG Charter Rates', [], r => {
+          DATA.lpgCharterRates = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: row.date, segment: (row.segment || '').trim(), tenor: (row.tenor || '').trim(), rate: parseVal(row.rate), unit: (row.unit || '').trim() };
+          }).filter(x => x.date && x.rate != null);
+        }),
+        safeFetch('data/derived/tanker_forward_curves.csv', 'Tanker Forward Curves', [], r => {
+          DATA.tankerForwardCurves = (r || []).map(row => {
+            return { date: (row.date || '').trim(), vessel_class: (row.vessel_class || '').trim(), route: (row.route || '').trim(), contract: (row.contract || '').trim(), rate: parseVal(row.rate), change: parseVal(row.change), change_pct: parseVal(row.change_pct), unit: (row.unit || '').trim(), period_label: (row.period_label || '').trim() };
+          }).filter(x => x.rate != null);
+        }),
+        safeFetch('data/derived/tanker_forward_curves_history.csv', 'Tanker Forward Curves History', [], r => {
+          DATA.tankerForwardCurvesHistory = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), vessel_class: (row.vessel_class || '').trim(), contract: (row.contract || '').trim(), rate: parseVal(row.rate) };
+          }).filter(x => x.date && x.rate != null);
+        }),
+        safeFetch('data/derived/lng_charter_rates.csv', 'LNG Charter Rates', [], r => {
+          DATA.lngCharterRates = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), tc_7y_usd_day: parseVal(row.tc_7y_usd_day), tc_10y_usd_day: parseVal(row.tc_10y_usd_day), nb_price_m_usd: parseVal(row.nb_price_m_usd), series_type: (row.series_type || '').trim() };
+          }).filter(x => x.date);
+        }),
+        fetch('data/derived/alibra_tce_matrix.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => { DATA.alibraTceMatrix = data || null; }),
+        safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
+          DATA.blpg = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), value: parseVal(row.value) };
+          }).filter(x => x.date && x.value != null);
+        }),
+        safeFetch('data/commodities/sgx_iron_ore_forward_curve.csv', 'SGX Iron Ore Forward Curve', [], r => {
+          DATA.sgxOreForwardCurve = (r || []).map(row => {
+            return { contract: (row.contract || '').trim(), settlement: parseVal(row.settlement), change: parseVal(row.change), volume: parseVal(row.volume), open_interest: parseVal(row.open_interest), month_order: parseVal(row.month_order) };
+          }).filter(x => x.settlement != null);
+        }),
+        safeFetch('data/indices/drewry_wci_historical.csv', 'Drewry WCI', [], r => {
+          DATA.drewryWci = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), composite_index: parseVal(row.composite_index), shanghai_rotterdam: parseVal(row.shanghai_rotterdam), rotterdam_shanghai: parseVal(row.rotterdam_shanghai), shanghai_genoa: parseVal(row.shanghai_genoa), shanghai_los_angeles: parseVal(row.shanghai_los_angeles), los_angeles_shanghai: parseVal(row.los_angeles_shanghai), shanghai_new_york: parseVal(row.shanghai_new_york), new_york_rotterdam: parseVal(row.new_york_rotterdam), rotterdam_new_york: parseVal(row.rotterdam_new_york) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/indices/fbx_historical.csv', 'FBX Container Spot', [], r => {
+          DATA.fbx = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), fbx_global: parseVal(row.fbx_global) };
+          }).filter(x => x.date && x.fbx_global != null);
+        }),
+        safeFetch('data/derived/usda_grain_vessel_rates_japan.csv', 'USDA Grain Vessel Rates', [], r => {
+          DATA.usdaGrainRates = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), rate_us_gulf: parseVal(row.rate_us_gulf), rate_pnw: parseVal(row.rate_pnw), spread_gulf_pnw: parseVal(row.spread_gulf_pnw) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/commodities/usda_us_vs_brazil_landed_costs.csv', 'USDA Landed Costs', [], r => {
+          DATA.usdaLandedCosts = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), us_gulf_landed: parseVal(row.us_gulf_landed), brazil_paranagua_landed: parseVal(row.brazil_paranagua_landed), landed_spread_us_minus_brazil: parseVal(row.landed_spread_us_minus_brazil) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/commodities/usda_grain_vessel_loading_queues.csv', 'USDA Grain Vessel Queues', [], r => {
+          DATA.usdaVesselQueues = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), vessels_loading: parseVal(row.vessels_loading), vessels_in_queue: parseVal(row.vessels_in_queue), total_vessels: parseVal(row.total_vessels) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/derived/usda_bunker_fuel_daily.csv', 'USDA Bunker Prices', [], r => {
+          DATA.usdaBunkers = (r || []).map(row => {
+            const d = parseDate(row.date) || parseDateISO(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), vlsfo_houston: parseVal(row.vlsfo_houston), vlsfo_new_orleans: parseVal(row.vlsfo_new_orleans) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/commodities/brazil_comexstat_exports.csv', 'Brazil ComexStat Exports', [], r => {
+          DATA.brazilExports = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), iron_ore_kt: parseVal(row.iron_ore_kt), soybeans_kt: parseVal(row.soybeans_kt), crude_oil_kt: parseVal(row.crude_oil_kt) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/commodities/australia_ppa_iron_ore.csv', 'Pilbara Ports Iron Ore', [], r => {
+          DATA.ppaIronOre = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), port_hedland_throughput_mt: parseVal(row.port_hedland_throughput_mt), dampier_throughput_mt: parseVal(row.dampier_throughput_mt), total_iron_ore_throughput_mt: parseVal(row.total_iron_ore_throughput_mt) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/commodities/major_miners_quarterly_shipments.csv', 'Major Miners Shipments', [], r => {
+          DATA.minerShipments = (r || []).map(row => {
+            return { quarter: (row.quarter || '').trim(), vale_mt: parseVal(row.vale_mt), rio_tinto_mt: parseVal(row.rio_tinto_mt), bhp_mt: parseVal(row.bhp_mt), fmg_mt: parseVal(row.fmg_mt), total_major_miners_mt: parseVal(row.total_major_miners_mt) };
+          }).filter(x => x.quarter);
+        }),
+        safeFetch('data/commodities/us_eia_weekly_crude_exports.csv', 'US EIA Crude Exports', [], r => {
+          DATA.eiaExports = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), crude_exports_kbpd: parseVal(row.crude_exports_kbpd) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon', [], r => {
+          DATA.euCarbon = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), carbon_price_eur: parseVal(row.carbon_price_eur), vlsfo_with_carbon_usd: parseVal(row.vlsfo_with_carbon_usd), carbon_cost_per_ton_fuel_usd: parseVal(row.carbon_cost_per_ton_fuel_usd) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/derived/ton_mile_utilization_matrix.csv', 'Ton-Mile Matrix', [], r => {
+          DATA.tonMileMatrix = (r || []).map(row => {
+            return { month: (row.month || '').trim(), cape_ton_miles_billion: parseVal(row.cape_ton_miles_billion), fleet_capacity_dwt_million: parseVal(row.fleet_capacity_dwt_million), ton_mile_demand_index: parseVal(row.ton_mile_demand_index), fleet_utilization_pct: parseVal(row.fleet_utilization_pct) };
+          }).filter(x => x.month);
+        }),
+        safeFetch('data/commodities/newcastle_coal_exports.csv', 'Newcastle Coal Exports', [], r => {
+          DATA.newcastleCoal = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return { date: d, dateStr: (row.date || '').trim(), coal_exports_mt: parseVal(row.coal_exports_mt) };
+          }).filter(x => x.date);
+        }),
+        safeFetch('data/commodities/australia_req_commodity_exports.csv', 'Australia REQ Commodity Exports', [], r => {
+          DATA.reqExports = (r || []).map(row => {
+            return { quarter: (row.quarter || '').trim(), commodity: (row.commodity || '').trim(), export_volume: parseVal(row.export_volume), unit: (row.unit || '').trim() };
+          }).filter(x => x.quarter);
+        }),
+        loadPortCongestionHistory(),
+        ...sgxPromises
+      ]);
+      return signalsLoadPromise;
+    }
+
+    let trackingLoadPromise = null;
+    function loadTrackingData() {
+      if (trackingLoadPromise) return trackingLoadPromise;
+      trackingLoadPromise = (async function() {
+        try {
+          const pResp = await fetch('data/views/port_calls_summary.json');
+          if (pResp.ok) {
+            DATA.portCallsSummary = await pResp.json();
+            DATA.__expandedLoading = false;
+            DATA.portCallsExpanded = [];
+            DATA.portCallsExpandedWindow = { from: '2026-01-01', to: DATA.portCallsSummary.kpis.latestDate };
+          }
+        } catch (e) { console.warn('[tracking summary fetch]', e); }
+
+        await Promise.allSettled([
+          fetchCSV('data/geospatial/portwatch_ports_master.csv').then(rows => {
+            DATA.universePorts = { rows: rows, byId: {} };
+            rows.forEach(r => { DATA.universePorts.byId[r.portid] = r; });
+          }),
+          fetchCSV('data/congestion/portwatch_disruptions.csv').then(rows => {
+            DATA.portwatchDisruptions = rows || [];
+          }),
+          fetch('data/congestion/chokepoint_geo_summary.json').then(r => r.ok ? r.json() : null).then(data => {
+            DATA.chokepointSummary = data;
+          }),
+          safeFetch('data/derived/chokepoint_transit_metrics.csv', 'Chokepoint Transit Metrics', [], r => {
+            DATA.chokepointMetrics = r || [];
+          }),
+          fetch('data/derived/port_stress_summary.json').then(r => r.ok ? r.json() : null).then(data => {
+            DATA.portStressSummary = data;
+          }),
+          fetchCSV('data/geospatial/voyage_history_fixturegrounded.csv').then(rows => {
+            DATA.voyageHistory = rows || [];
+          })
+        ]);
+      })();
+      return trackingLoadPromise;
+    }
+
+    let bunkerSummaryLoadPromise = null;
+    function loadBunkerSummary() {
+      if (DATA.bunkerSummary) return Promise.resolve();
+      if (bunkerSummaryLoadPromise) return bunkerSummaryLoadPromise;
+      bunkerSummaryLoadPromise = fetch('data/bunkers/bunker_frontend_summary.json', { cache: 'no-cache' })
+        .then(res => res.ok ? res.json() : null)
+        .then(data => {
+          DATA.bunkerSummary = data;
+          try {
+            if (DATA.loaded && typeof renderBunkersTab === 'function') renderBunkersTab();
+          } catch (e) { console.warn('[bunkerSummary refresh]', e); }
+        })
+        .catch(err => {
+          console.warn('[bunkerSummary fetch error]', err);
+          DATA.bunkerSummary = null;
+        });
+      return bunkerSummaryLoadPromise;
+    }
+    window.loadBunkerSummary = loadBunkerSummary;
+
+    let bunkersLoadPromise = null;
+    function loadBunkersData() {
+      if (bunkersLoadPromise) return bunkersLoadPromise;
+      bunkersLoadPromise = Promise.allSettled([
+        loadBunkerSummary(),
+        safeFetch('data/bunkers/bunker_prices_daily.csv', 'Bunker Prices Daily', [], r => {
+          DATA.bunkerPrices = (r || []).map(row => ({
+            date: (row.date || '').trim(),
+            port: (row.port || '').trim(),
+            fuel_grade: (row.fuel_grade || '').trim(),
+            price_usd_mt: parseFloat(row.price_usd_mt) || 0
+          }));
+        })
+      ]);
+      return bunkersLoadPromise;
+    }
+
+    let fearnDailyLoadPromise = null;
+    function loadFearnDailyCaches() {
+      if (DATA.fearnleysTankerRoutesDaily && DATA.fearnleysDryRoutesDaily) return Promise.resolve();
+      if (fearnDailyLoadPromise) return fearnDailyLoadPromise;
+      var left = 2;
+      var fin = function () {
+        if (--left <= 0) {
+          try {
+            if (DATA.loaded && typeof renderFearnleysTab === 'function') {
+              if (!window.__fearnDeskRendered) {
+                window.__fearnDeskRendered = true;
+                renderFearnleysTab();
+              } else if (typeof FDESK !== 'undefined' && FDESK.tankRoute && typeof drawFearnTankChart === 'function') {
+                drawFearnTankChart();
+              } else if (typeof FDESK !== 'undefined' && FDESK.dryRoute && typeof drawFearnDryChart === 'function') {
+                drawFearnDryChart();
+              }
+            }
+          } catch (e) { console.warn('[fearn daily refresh]', e); }
+        }
+      };
+      var tankerRoutesDailyPromise = fetch('data/derived/fearnleys_tanker_routes_daily.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null);
+      var dryRoutesDailyPromise = fetch('data/derived/fearnleys_dry_routes_daily.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null);
+      fearnDailyLoadPromise = Promise.all([tankerRoutesDailyPromise, dryRoutesDailyPromise]).then(results => {
+        var td = results[0], dd = results[1];
+        DATA.fearnleysTankerRoutesDaily = td;
+        DATA.fearnleysDryRoutesDaily = dd;
+        if (td && td.meta) { window.FDESK_TANKER_META = { builtUtc: td.meta.built_utc, dateTo: td.meta.date_to, source: td.meta.source, notes: td.meta.derivation_notes, excluded: td.meta.excluded || [] }; }
+        if (dd && dd.meta) { window.FDESK_DRY_META = { builtUtc: dd.meta.built_utc || dd.meta.fetched_utc, dateTo: dd.meta.date_to, source: dd.meta.source, notes: dd.meta.notes }; }
+        fin();
+      })
+      .catch(err => {
+        console.warn('[fearnleys daily caches fetch error]', err);
+        DATA.fearnleysTankerRoutesDaily = DATA.fearnleysTankerRoutesDaily || null;
+        DATA.fearnleysDryRoutesDaily = DATA.fearnleysDryRoutesDaily || null;
+        fin();
+      });
+      return fearnDailyLoadPromise;
+    }
+    window.loadFearnDailyCaches = loadFearnDailyCaches;
+
+    let fearnleysLoadPromise = null;
+    function loadFearnleysData() {
+      if (fearnleysLoadPromise) return fearnleysLoadPromise;
+      fearnleysLoadPromise = Promise.allSettled([
+        fetch('data/derived/fearnleys_summary.json', { cache: 'no-cache' })
+          .then(res => res.ok ? res.json() : null)
+          .then(data => { DATA.fearnleysSummary = data; })
+          .catch(err => { console.warn('[fearnleysSummary fetch error]', err); DATA.fearnleysSummary = null; }),
+        fetch('data/derived/fearnleys_series_monthly.json', { cache: 'no-cache' })
+          .then(res => res.ok ? res.json() : null)
+          .then(data => { DATA.fearnleysSeries = data; })
+          .catch(err => { console.warn('[fearnleysSeries fetch error]', err); DATA.fearnleysSeries = null; }),
+        loadFearnDailyCaches()
+      ]);
+      return fearnleysLoadPromise;
+    }
+
+    let intelligenceLoadPromise = null;
+    function loadIntelligenceData() {
+      if (intelligenceLoadPromise) return intelligenceLoadPromise;
+      intelligenceLoadPromise = safeFetch('data/derived/macro_health_score_backtest.csv', 'Macro Health Backtest', [], r => {
+        var out = [];
+        (r || []).forEach(function (row) {
+          var d = (row.date || '').trim();
+          if (!d) return;
+          out.push({
+            d: d,
+            score: parseFloat(row.total_score),
+            regime: (row.regime || '').trim(),
+            bdi: parseFloat(row.bdi) || null,
+            f1m: parseFloat(row.bdi_fwd_1M),
+            f3m: parseFloat(row.bdi_fwd_3M)
+          });
+        });
+        DATA.macroBacktest = out;
+      });
+      return intelligenceLoadPromise;
+    }
+
+    let offshoreSummaryLoadPromise = null;
+    function loadOffshoreSummary() {
+      if (DATA.offshoreSummary && DATA.portStressSummary) return Promise.resolve();
+      if (offshoreSummaryLoadPromise) return offshoreSummaryLoadPromise;
+      offshoreSummaryLoadPromise = Promise.all([
+        fetch('data/derived/offshore_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
+        fetch('data/derived/port_stress_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
+      ]).then(results => {
+        DATA.offshoreSummary = results[0];
+        DATA.portStressSummary = results[1];
+        try {
+          if (DATA.loaded && typeof renderOffshoreTab === 'function') renderOffshoreTab();
+        } catch (e) { console.warn('[offshoreSummary refresh]', e); }
+      })
+      .catch(err => {
+        console.warn('[offshoreSummary fetch error]', err);
+        DATA.offshoreSummary = DATA.offshoreSummary || null;
+        DATA.portStressSummary = DATA.portStressSummary || null;
+      });
+      window.portStressSummaryPromise = offshoreSummaryLoadPromise;
+      return offshoreSummaryLoadPromise;
+    }
+    window.loadOffshoreSummary = loadOffshoreSummary;
+
+    let offshoreLoadPromise = null;
+    function loadOffshoreData() {
+      if (offshoreLoadPromise) return offshoreLoadPromise;
+      offshoreLoadPromise = loadOffshoreSummary();
+      return offshoreLoadPromise;
+    }
+
+    window.TAB_LOADERS = {
+      'dashboard': null,
+      'yearly-dash': null,
+      'seasonality': null,
+      'indices': null,
+      'etfs': loadEtfsData,
+      'signals': loadSignalsData,
+      'fearnleys': loadFearnleysData,
+      'intelligence': loadIntelligenceData,
+      'tracking': loadTrackingData,
+      'bunkers': loadBunkersData,
+      'offshore': loadOffshoreData
+    };
+
+    window.TAB_LOADED = {
+      'dashboard': true,
+      'yearly-dash': true,
+      'seasonality': true,
+      'indices': true
+    };
+
+    // =====================================================================
+    // TIER 1 BOOT: DASHBOARD MASTER LOADER
+    // =====================================================================
     async function loadAllData() {
       const overlay = document.getElementById('loadingOverlay');
       const progress = document.getElementById('loadingProgress');
-      let loaded = 0;
+      if (progress) progress.textContent = 'Loading dashboard views...';
 
-      // Defensive pre-initialization to prevent unhandled undefined accesses
+      // Defensive pre-initialization
       DATA.bdryHoldings = DATA.bdryHoldings || [];
       DATA.bwetHoldings = DATA.bwetHoldings || [];
       DATA.bdryHoldingsHistory = DATA.bdryHoldingsHistory || [];
@@ -16324,1171 +16772,84 @@ if (intelTabsContainer) {
       DATA.tankerForwardCurves = DATA.tankerForwardCurves || [];
       DATA.tankerForwardCurvesHistory = DATA.tankerForwardCurvesHistory || [];
 
-      // Total is computed dynamically from the actual promise list (see allPromisesList below)
-      // so the progress denominator always matches the number of real load operations.
-      let total = 0;
-      let failedLoads = [];
-
-      function tick(label) {
-        loaded++;
-        if (progress) progress.textContent = `${label} (${loaded}/${total})`;
-      }
-
-      // Watchdog timer: safety net only. fetchCSV has a 10s per-file timeout, so the watchdog
-      // must fire well after that (13s) to avoid dismissing the overlay while fetches are still racing.
       let completed = false;
       const watchdog = setTimeout(() => {
         if (!completed) {
-          console.warn('[loadAllData] Watchdog 13s timeout triggered — force rendering dashboard');
           completed = true;
           try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
           DATA.loaded = true;
           if (overlay) overlay.classList.add('hidden');
-          // PHASE STALE: arm the self-heal surfaces on the forced-render path too.
           try { initStaleGuard(); } catch (err) {}
         }
       }, 8000);
 
       try {
-        const indexPromises = PRODUCT_KEYS.map(async key => {
-          if (PRODUCTS[key].computed) {
+        // Load Tier 1 dashboard master view manifest (201 KB, <= 250 KB target)
+        const masterResp = await fetch('data/views/dashboard_master.json');
+        if (masterResp.ok) {
+          const masterData = await masterResp.json();
+          DATA.masterManifest = masterData;
+          const dList = masterData.dates || [];
+          const sMap = masterData.series || {};
+          for (const key of PRODUCT_KEYS) {
             DATA.raw[key] = [];
-            tick(PRODUCTS[key].label);
-            return key;
-          }
-          try {
-            const rows = await fetchCSV(PRODUCTS[key].file);
-            const parsed = [];
-            if (PRODUCTS[key].solactive) {
-              for (const row of rows) {
-                const d = parseDate((row['date'] || '').trim());
-                const v = parseVal(row['value']);
-                const c = (row['change'] || '').trim();
-                if (d && v != null) {
-                  parsed.push({ date: d, dateStr: row['date'], value: v, change: c });
-                }
-              }
-            } else if (PRODUCTS[key].capital_link) {
-              for (const row of rows) {
-                const d = parseDate((row['date'] || row['Date'] || '').trim());
-                const v = parseVal(row['close'] != null ? row['close'] : row['Index']);
-                const c = (row['change_pct'] != null ? row['change_pct'] : (row['% Change'] || '')).toString().trim();
-                if (d && v != null) {
-                  parsed.push({ date: d, dateStr: row['date'] || row['Date'], value: v, change: c });
-                }
-              }
-            } else {
-              for (const row of rows) {
-                const d = parseDate((row['Date'] || '').trim());
-                const v = parseVal(row['Index']);
-                const c = (row['% Change'] || '').trim();
-                if (d && v != null) {
-                  parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
-                }
-              }
-            }
-            parsed.sort((a, b) => a.date - b.date);
-            DATA.raw[key] = parsed;
-          } catch (e) {
-            DATA.raw[key] = [];
-            console.warn('[Index] Could not load ' + key + ':', e.message);
-          }
-          tick(PRODUCTS[key].label);
-          return key;
-        });
-
-        const safeFetch = (file, label, defaultVal, parseFn) => {
-          return fetchCSV(file)
-            .then(r => {
-              tick(label);
-              const data = Array.isArray(r) ? r : (defaultVal || []);
-              return parseFn ? parseFn(data) : data;
-            })
-            .catch(e => {
-              tick(label + ' (fail)');
-              failedLoads.push({ file, label, error: e && e.message ? e.message : String(e) });
-              console.warn('[' + label + '] Load failed:', e && e.message ? e.message : e);
-              if (parseFn) {
-                try { parseFn(defaultVal || []); } catch (err) {}
-              }
-              return defaultVal || [];
-            });
-        };
-
-        const bdryPromise = safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r || []; });
-        const bwetPromise = safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r || []; });
-        const bdryPdPromise = safeFetch('data/etf/BDRY_Daily.csv', 'BDRY P/D', [], r => { DATA.bdryPD = parsePDCsv(r || []); });
-        const bwetPdPromise = safeFetch('data/etf/BWET_Daily.csv', 'BWET P/D', [], r => { DATA.bwetPD = parsePDCsv(r || []); });
-        const bdryLiqPromise = safeFetch('data/etf/bdry_liquidity.csv', 'BDRY Liquidity', [], r => { DATA.bdryLiquidity = r || []; });
-        const bwetLiqPromise = safeFetch('data/etf/bwet_liquidity.csv', 'BWET Liquidity', [], r => { DATA.bwetLiquidity = r || []; });
-        const bdryFlowPromise = safeFetch('data/etf/BDRY_flows.csv', 'BDRY Flows', [], r => { DATA.bdryFlows = parseFlowCsv(r || []); });
-        const bwetFlowPromise = safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r || []); });
-        const bdryHistPromise = safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r || []; });
-        const bwetHistPromise = safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r || []; });
-        const etfLiveQuotesPromise = fetch('data/etf/live_quotes.json', { cache: 'no-cache' })
-          .then(r => r.ok ? r.json() : null)
-          .then(data => { DATA.etfLiveQuotes = data || null; tick('ETF Live Quotes'); })
-          .catch(() => { DATA.etfLiveQuotes = null; tick('ETF Live Quotes'); });
-
-        // Physical Signals Derived CSVs
-        const tcPromise = safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
-          DATA.timeCharterRates = DATA.time_charter_rates = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                if (k === 'source') { out[k] = row[k]; continue; }
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
-          }).filter(row => row.date != null);
-        });
-
-        const ioPromise = safeFetch('data/derived/iron_ore_restocking.csv', 'Iron Ore Restocking', [], r => {
-          DATA.ironOreRestocking = DATA.iron_ore_restocking = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
-            // PapaParse skipEmptyLines:true drops truly-empty lines; this drops
-            // date-present-but-all-metrics-null rows (e.g. 2018-07-19) so charts never see all-null/NaN points.
-          }).filter(row => row.date != null && Object.keys(row).some(k => k !== 'date' && k !== 'dateStr' && row[k] != null));
-        });
-
-        const valPromise = safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
-          DATA.vesselValuations = DATA.sp_valuations = DATA.snp_valuations = DATA.snpValuations = (r || []).map(row => {
-            const d = parseDateISO(row.date);
-            const val = parseFloat(row.valuation_usd_m);
-            return {
-              date: d,
-              dateStr: row.date,
-              category: row.category,
-              tenor_type: row.tenor_type,
-              vessel_class: row.vessel_class,
-              valuation_usd_m: isNaN(val) ? null : val
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const scrapPromise = safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
-          DATA.scrappagePrices = DATA.scrappage_prices = DATA.scrap_prices = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
-          }).filter(row => row.date != null);
-        });
-
-        const tcFearnPromise = safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Broker Desk TC Rates', [], r => {
-          DATA.timeCharterFearnleys = DATA.time_charter_fearnleys = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
-          }).filter(row => row.date != null);
-        });
-
-        const intermodalPromise = safeFetch('data/derived/intermodal_tc_rates.csv', 'Intermodal TC Rates', [], r => {
-          DATA.intermodalTC = DATA.intermodal_tc = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                if (k === 'source') { out[k] = row[k]; continue; }
-                const val = parseFloat(row[k]);
-                out[k] = (isNaN(val) || val === 0) ? null : val;
-              }
-            }
-            return out;
-          }).filter(row => row.date != null);
-        });
-
-        const lpgSpotPromise = safeFetch('data/derived/lpg_spot_rates.csv', 'LPG Spot Rates', [], r => {
-          DATA.lpgSpot = DATA.lpg_spot = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
-          }).filter(row => row.date != null);
-        });
-
-        const lpgCharterPromise = safeFetch('data/derived/lpg_charter_rates.csv', 'LPG Charter Rates', [], r => {
-          DATA.lpgCharter = DATA.lpg_charter = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
-          }).filter(row => row.date != null);
-        });
-
-        const tankerFwdPromise = safeFetch('data/derived/tanker_forward_curves.csv', 'Tanker Forward Curves', [], r => {
-          DATA.tankerForwardCurves = DATA.tanker_forward_curves = (r || []).map(row => {
-            return {
-              snapshotDate: row.snapshot_date,
-              forwardMonth: row.forward_month,
-              contractLabel: row.contract_label,
-              vlcc_td3c: parseFloat(row.vlcc_td3c) || null,
-              vlcc_eco_td3c: parseFloat(row.vlcc_eco_td3c) || null,
-              suezmax_td20: parseFloat(row.suezmax_td20) || null,
-              aframax_td25: parseFloat(row.aframax_td25) || null,
-              lr1_tc5: parseFloat(row.lr1_tc5) || null,
-              lr1_eco_tc5: parseFloat(row.lr1_eco_tc5) || null,
-              mr_tc2: parseFloat(row.mr_tc2) || null,
-              mr_eco_tc2: parseFloat(row.mr_eco_tc2) || null,
-              mr_tc14: parseFloat(row.mr_tc14) || null,
-              mr_eco_tc14: parseFloat(row.mr_eco_tc14) || null,
-              mr_tc6: parseFloat(row.mr_tc6) || null,
-              mr_triangulation: parseFloat(row.mr_triangulation) || null
-            };
-          });
-        });
-
-        const tankerFwdHistPromise = safeFetch('data/derived/tanker_forward_curves_history.csv', 'Tanker Forward Curves History', [], r => {
-          DATA.tankerForwardCurvesHistory = DATA.tanker_forward_curves_history = (r || []).map(row => {
-            return {
-              snapshotDate: row.snapshot_date,
-              forwardMonth: row.forward_month,
-              contractLabel: row.contract_label,
-              vlcc_td3c: parseFloat(row.vlcc_td3c) || null,
-              vlcc_eco_td3c: parseFloat(row.vlcc_eco_td3c) || null,
-              suezmax_td20: parseFloat(row.suezmax_td20) || null,
-              aframax_td25: parseFloat(row.aframax_td25) || null,
-              lr1_tc5: parseFloat(row.lr1_tc5) || null,
-              lr1_eco_tc5: parseFloat(row.lr1_eco_tc5) || null,
-              mr_tc2: parseFloat(row.mr_tc2) || null,
-              mr_eco_tc2: parseFloat(row.mr_eco_tc2) || null,
-              mr_tc14: parseFloat(row.mr_tc14) || null,
-              mr_eco_tc14: parseFloat(row.mr_eco_tc14) || null,
-              mr_tc6: parseFloat(row.mr_tc6) || null,
-              mr_triangulation: parseFloat(row.mr_triangulation) || null
-            };
-          });
-        });
-
-        const lngCharterPromise = safeFetch('data/derived/lng_charter_rates.csv', 'LNG Charter Rates', [], r => {
-          DATA.lngCharter = DATA.lng_charter = (r || []).map(row => {
-            const out = { date: parseDateISO(row.date), dateStr: row.date };
-            for (const k in row) {
-              if (k !== 'date') {
-                const val = parseFloat(row[k]);
-                out[k] = isNaN(val) ? null : val;
-              }
-            }
-            return out;
-          }).filter(row => row.date != null);
-        });
-
-        const tceMatrixPromise = fetch('data/derived/alibra_tce_matrix.json', { cache: 'no-cache' })
-          .then(resp => resp.ok ? resp.json() : null)
-          .then(json => {
-            if (json) {
-              DATA.tceMatrix = DATA.tce_matrix = json;
-            }
-            tick('Alibra TCE Matrix');
-          })
-          .catch(e => {
-            tick('Alibra TCE Matrix (fail)');
-            console.warn('[Alibra TCE Matrix] Load failed:', e && e.message ? e.message : e);
-          });
-
-        const blpgPromise = safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
-          DATA.blpg = (r || []).map(row => {
-            const rawDate = (row.Date || row.date || '').trim();
-            let d = null;
-            if (rawDate) {
-              if (rawDate.includes('-') && rawDate.split('-')[0].length === 4) {
-                d = parseDateISO(rawDate);
-              } else {
-                d = parseDate(rawDate);
-              }
-            }
-            const val = parseFloat(row.Index || row.index || row.blpg || row.close || row.Close);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              blpg: isNaN(val) ? null : val,
-              index: isNaN(val) ? null : val
-            };
-          }).filter(row => row.date != null && row.blpg != null);
-        });
-
-        const sgxFiles = {
-          cape: 'data/futures/sgx_cape_futures.csv',
-          panamax: 'data/futures/sgx_panamax_futures.csv',
-          supramax: 'data/futures/sgx_supramax_futures.csv',
-          handysize: 'data/futures/sgx_handysize_futures.csv',
-          iron_ore_fef: 'data/futures/sgx_iron_ore_fef.csv',
-          iron_ore_m65f: 'data/futures/sgx_iron_ore_m65f.csv',
-          iron_ore_lpf: 'data/futures/sgx_iron_ore_lump_lpf.csv',
-        };
-        const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
-          return safeFetch(file, 'SGX ' + key.charAt(0).toUpperCase() + key.slice(1), [], r => {
-            DATA.sgx[key] = r || [];
-          });
-        });
-
-        const sgxOreForwardPromise = safeFetch('data/commodities/sgx_iron_ore_forward_curve.csv', 'SGX Iron Ore Forward Curve', [], r => {
-          DATA.sgxIronOreForward = (r || []).map(row => {
-            return {
-              date: parseDateISO(row.date),
-              dateStr: row.date,
-              tenor: row.tenor,
-              delivery_month: row.delivery_month,
-              delivery_year: parseInt(row.delivery_year, 10),
-              fef_ticker: row.fef_ticker,
-              fef_settle: parseFloat(row.fef_settle) || null,
-              fef_oi: parseFloat(row.fef_oi) || 0,
-              fef_volume: parseFloat(row.fef_volume) || 0,
-              m65f_ticker: row.m65f_ticker,
-              m65f_settle: parseFloat(row.m65f_settle) || null,
-              m65f_oi: parseFloat(row.m65f_oi) || 0,
-              m65f_volume: parseFloat(row.m65f_volume) || 0,
-              spread: parseFloat(row.fe65_fe62_premium_spread) || null,
-              lpf_ticker: row.lpf_ticker,
-              lpf_settle: parseFloat(row.lpf_settle) || null,
-              lpf_oi: parseFloat(row.lpf_oi) || 0,
-              lpf_volume: parseFloat(row.lpf_volume) || 0,
-              slope: parseFloat(row.fef_term_structure_slope) || 0,
-              slope_pct: parseFloat(row.fef_slope_pct) || 0,
-              regime: row.fef_curve_regime || 'Flat'
-            };
-          });
-        });
-
-        const wciPromise = safeFetch('data/indices/drewry_wci_historical.csv', 'Drewry WCI', [], r => {
-          DATA.wciTracker = DATA.drewry_wci = DATA.drewryWci = (r || []).map(row => {
-            const rawDate = (row.date || row.Date || '').trim();
-            const d = parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              composite: parseFloat(row.composite_index || row.composite || 0) || null,
-              sha_rot: parseFloat(row.shanghai_rotterdam || row.shanghai_rot || 0) || null,
-              rot_sha: parseFloat(row.rotterdam_shanghai || row.rot_sha || 0) || null,
-              sha_gen: parseFloat(row.shanghai_genoa || row.shanghai_gen || 0) || null,
-              sha_la: parseFloat(row.shanghai_la || row.shanghai_los_angeles || 0) || null,
-              sha_ny: parseFloat(row.shanghai_ny || row.shanghai_new_york || 0) || null,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const fbxPromise = safeFetch('data/indices/fbx_historical.csv', 'FBX Container Spot', [], r => {
-          DATA.fbx = (r || []).map(row => {
-            const rawDate = (row.Date || row.date || '').trim();
-            const d = parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              index: parseVal(row.Index || row.index),
-              change: (row['% Change'] || row.change || '').toString().trim()
-            };
-          }).filter(row => row.date != null && row.index != null);
-          DATA.fbx.sort((a, b) => a.date - b.date);
-        });
-
-        const usdaGrainRatesPromise = safeFetch('data/derived/usda_grain_vessel_rates_japan.csv', 'USDA Grain Rates', [], r => {
-          DATA.usdaGrainRates = DATA.usda_grain_freight = DATA.usdaGrainFreight = (r || []).map(row => {
-            const rawDate = (row.Date || row.date || '').trim();
-            const d = parseDate(rawDate) || (row.Year && row.Month ? new Date(parseInt(row.Year, 10), parseInt(row.Month, 10) - 1, 1) : null);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              gulfToJapan: parseFloat(row.Gulf_To_Japan || row['Gulf_To_Japan'] || row.gulf_to_japan || 0) || null,
-              pnwToJapan: parseFloat(row.PNW_To_Japan || row['PNW_To_Japan'] || row.pnw_to_japan || 0) || null,
-              spread: parseFloat(row.Gulf_PNW_Spread || row['Gulf_PNW_Spread'] || row.spread || 0) || null,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const usdaLandedCostsPromise = safeFetch('data/commodities/usda_us_vs_brazil_landed_costs.csv', 'USDA Landed Costs', [], r => {
-          DATA.usdaLandedCosts = DATA.usda_landed_costs = DATA.usdaLandedCost = DATA.landed_cost = (r || []).map(row => {
-            const rawDate = (row.Date || row.date || '').trim();
-            const d = parseDate(rawDate) || (row.Year && row.Quarter ? new Date(parseInt(row.Year, 10), (parseInt(row.Quarter, 10) - 1) * 3, 1) : null);
-            const total = parseFloat(row['Total Transportation Costs'] || row.Total_Transportation_Costs || row.Total || 0) || null;
-            const landed = parseFloat(row['Landed Cost'] || row.Landed_Cost || 0) || null;
-            const farm = parseFloat(row['Farm Value'] || row.Farm_Value || 0) || null;
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              year: parseInt(row.Year, 10),
-              quarter: (row.Quarter || '').trim(),
-              origin: (row.Origin || '').trim(),
-              destination: (row.Destination || '').trim(),
-              truck: parseFloat(row.Truck || row.truck || 0) || null,
-              railOrBarge: parseFloat(row.Rail_Or_Barge || row.Barge || row.Rail || 0) || null,
-              ocean: parseFloat(row.Ocean || row.ocean || 0) || null,
-              totalCost: total,
-              farmValue: farm,
-              landedCost: landed || (total != null && farm != null ? total + farm : total),
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const usdaVesselQueuesPromise = safeFetch('data/commodities/usda_grain_vessel_loading_queues.csv', 'USDA Vessel Queues', [], r => {
-          DATA.usdaVesselQueues = DATA.usda_vessel_queues = (r || []).map(row => {
-            const rawDate = (row.Date || row.date || '').trim();
-            const d = parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              port: (row.Port || row.port || '').trim(),
-              inPort: parseInt(row['In Port'] || row.In_Port || row.in_port || 0, 10) || 0,
-              loaded7Days: parseInt(row['Loaded, Past 7 Days'] || row.Loaded_Past_7_Days || row.loaded_7_days || 0, 10) || 0,
-              due10Days: parseInt(row['Due, Next 10 Days'] || row.Due_Next_10_Days || row.due_10_days || 0, 10) || 0,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const usdaBunkersPromise = safeFetch('data/derived/usda_bunker_fuel_daily.csv', 'USDA Bunker Prices', [], r => {
-          DATA.usdaBunkers = DATA.usda_bunkers = (r || []).map(row => {
-            // USDA ships Day as MM/DD/YYYY with Month as a name; parse Day directly.
-            const rawDay = (row.Day || '').trim();
-            const d = parseDate(rawDay) || parseDateISO(rawDay);
-            const dateStr = d ? fmtDate(d) : rawDay;
-            return {
-              date: d,
-              dateStr: dateStr,
-              vlsfo: parseFloat(row['VLSFO Fuel Oil, IMO 2020 Grade, 0.5%'] || 0) || null,
-              mgo: parseFloat(row['Marine Gas Oil'] || 0) || null,
-              ifo180: parseFloat(row['Intermdiate Fuel Oil, 180cSt'] || 0) || null,
-              ifo380: parseFloat(row['Intermdiate Fuel Oil, 380cSt'] || 0) || null,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const brazilExportsPromise = safeFetch('data/commodities/brazil_comexstat_exports.csv', 'Brazil ComexStat', [], r => {
-          DATA.brazilExports = DATA.brazil_exports = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              year: parseInt(row.year, 10),
-              month: parseInt(row.month, 10),
-              commodity: (row.commodity || '').trim(),
-              ncm: (row.ncm || '').trim(),
-              metricTonnes: parseFloat(row.metric_tonnes || 0) || null,
-              fobUsd: parseFloat(row.fob_usd || 0) || null,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const ppaIronOrePromise = safeFetch('data/commodities/australia_ppa_iron_ore.csv', 'Pilbara Ports (PPA)', [], r => {
-          DATA.ppaIronOre = DATA.ppa_iron_ore = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            // Zero is never a real monthly port total — treat 0/empty as missing (null gap),
-            // same guard as intermodal_tc loader (isNaN || ===0 → null). Never fabricate Dampier.
-            const thrRaw = parseFloat(row.total_throughput_mt);
-            const oreRaw = parseFloat(row.iron_ore_exports_mt);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              port: (row.port || '').trim(),
-              totalThroughputMt: (isNaN(thrRaw) || thrRaw === 0) ? null : thrRaw,
-              ironOreExportsMt: (isNaN(oreRaw) || oreRaw === 0) ? null : oreRaw,
-              momPct: parseFloat(row.mom_pct || 0) || null,
-              yoyPct: parseFloat(row.yoy_pct || 0) || null,
-              provenance: (row.provenance || '').trim(),
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const minerShipmentsPromise = safeFetch('data/commodities/major_miners_quarterly_shipments.csv', 'Major Miners Guidance', [], r => {
-          DATA.minerShipments = DATA.miner_shipments = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              quarter: (row.quarter || '').trim(),
-              miner: (row.miner || '').trim(),
-              productionMt: parseFloat(row.production_mt || 0) || null,
-              shipmentsMt: parseFloat(row.shipments_mt || 0) || null,
-              c1CostUsd: parseFloat(row.c1_cash_cost_usd_t || 0) || null,
-              guidance: (row.annual_guidance || '').trim(),
-              terminals: (row.primary_loading_terminals || '').trim(),
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const eiaExportsPromise = safeFetch('data/commodities/us_eia_weekly_crude_exports.csv', 'US EIA Petroleum Exports', [], r => {
-          DATA.eiaExports = DATA.eia_exports = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              usTotalCrudeKbpd: parseFloat(row.us_total_crude_exports_kbpd || 0) || null,
-              padd3GulfCrudeKbpd: parseFloat(row.padd3_gulf_crude_exports_kbpd || 0) || null,
-              usTotalPetroKbpd: parseFloat(row.us_total_petroleum_exports_kbpd || 0) || null,
-              crude4wAvgKbpd: parseFloat(row.crude_4w_avg_kbpd || 0) || null,
-              petro4wAvgKbpd: parseFloat(row.petro_4w_avg_kbpd || 0) || null,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        // PHASE SPEED: portwatch_port_congestion.csv is ~8 MB of 43-hub deep
-        // history (2019-present) that only the Tracking tab's Port Call History
-        // drawer and per-port deep history use. It is fetched ONCE, lazily, the
-        // first time the Tracking tab is opened - never at page boot. The
-        // Dashboard congestion chart reads the expanded PortWatch universe
-        // cache instead (same measured PortWatch fields, no behavior change).
-var portCongestionLoadPromise = null;
-        function loadPortCongestionHistory() {
-          if (DATA.portCongestion && DATA.portCongestion.length) return Promise.resolve();
-          if (portCongestionLoadPromise) return portCongestionLoadPromise;
-          DATA.__portCongestionLoading = true;
-          // PHASE SPEED-2: 8 MB / 120k-row CSV now parses in idle slices
-          // (fetchCSVChunked) instead of one synchronous Papa pass; the
-          // completion refresh stays identical in behavior.
-          portCongestionLoadPromise = fetchCSVChunked('data/congestion/portwatch_port_congestion.csv', row => ({
-                date: (function (rawDate) { return parseDateISO(rawDate) || parseDate(rawDate); })((row.date || '').trim()),
-                dateStr: (row.date || '').trim(),
-                portCode: (row.portid || row.port_code || row.hub_code || '').trim(),
-                portName: (row.portname || row.port_name || '').trim(),
-                sector: (row.sector || '').trim(),
-                country: (row.country || '').trim(),
-                dailyPortCalls: parseInt(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls, 10) || null,
-                callsDryBulk: parseInt(row.daily_port_calls_dry_bulk, 10) || null,
-                callsTanker: parseInt(row.daily_port_calls_tanker, 10) || null,
-                callsContainer: parseInt(row.daily_port_calls_container, 10) || null,
-                importDryBulkKt: parseFloat(row.import_dry_bulk_kt) || null,
-                exportDryBulkKt: parseFloat(row.export_dry_bulk_kt) || null,
-                importTankerKt: parseFloat(row.import_tanker_kt) || null,
-                exportTankerKt: parseFloat(row.export_tanker_kt) || null,
-                // Wave-1 fix: source CSV has no vessels_at_anchorage / avg_waiting_days
-                // columns (see portwatch header). Snapshot-derived queue depth is
-                // enriched post-load by enrichPortwatchSnapshot() from live lineups.
-                vesselsAnchored: null,
-                avgWaitingDays: null,
-                waitingDays7dma: null
-              }))
-            .then(rows0 => {
-              const rows = (rows0 || []).filter(row => row.date != null);
-              DATA.portCongestion = DATA.portwatch_congestion = DATA.portwatchCongestion = rows;
-              DATA.__portCongestionLoading = false;
-              // Rebuild the deep-history cache once the 43-hub series lands
-              // (it was empty at first Tracking open) and refresh surfaces.
-              // PHASE SPEED-2: the refresh is an idle slice; the cache scan
-              // (pcLatest) rides inside it, off the tab-open path.
-              idleYield(function () {
-                try {
-                  if (DATA.loaded) {
-                    portHistoryCache = null;
-                    // PHASE SPEED-2: DOM work only when Tracking is on screen.
-                    // Backgrounded completion parks a stale-flag so the next
-                    // Tracking open rebuilds the drawer exactly once.
-                    if (window.currentTab === 'tracking') {
-                      populatePortHistory();
-                      renderTrackingHUDRefreshNote();
-                      var phSub2 = document.getElementById('phSub');
-                      if (phSub2 && DATA.portCongestion.length) {
-                        var pcLatest = '';
-                        DATA.portCongestion.forEach(function (pr) { if (pr.dateStr > pcLatest) pcLatest = pr.dateStr; });
-                        if (pcLatest) {
-                          var phLatestEl = document.getElementById('phLatest');
-                          if (phLatestEl) phLatestEl.textContent = pcLatest;
-                        }
-                      }
-                    } else {
-                      DATA.__trackingStaleHistory = true;
-                    }
-                  }
-                } catch (e) { console.warn('[portwatch congestion refresh]', e); }
-              }, 4000);
-            })
-            .catch(err => {
-              console.warn('[portwatch congestion fetch error]', err);
-              DATA.portCongestion = DATA.portCongestion || [];
-              DATA.__portCongestionLoading = false;
-            });
-          return portCongestionLoadPromise;
-        }
-        window.loadPortCongestionHistory = loadPortCongestionHistory;
-
-
-        const euCarbonPromise = safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon & Bunker Spreads', [], r => {
-          DATA.euCarbon = DATA.eu_carbon = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              provenance: (row.provenance || '').trim(),
-              euaPriceEur: parseFloat(row.eua_carbon_price_eur_tco2 || 0) || null,
-              singVlsfo: parseFloat(row.singapore_vlsfo_usd_mt || 0) || null,
-              singHsfo: parseFloat(row.singapore_hsfo_usd_mt || 0) || null,
-              singHi5: parseFloat(row.singapore_hi5_spread_usd_mt || 0) || null,
-              rotHi5: parseFloat(row.rotterdam_hi5_spread_usd_mt || 0) || null,
-              houHi5: parseFloat(row.houston_hi5_spread_usd_mt || 0) || null,
-              capeScrubberSavings: parseFloat(row.capesize_scrubber_savings_usd_day || 0) || null,
-              vlccScrubberSavings: parseFloat(row.vlcc_scrubber_savings_usd_day || 0) || null,
-              capeEtsSurcharge: parseFloat(row.capesize_eu_ets_surcharge_usd_day || 0) || null,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const tonMilePromise = safeFetch('data/derived/ton_mile_utilization_matrix.csv', 'Ton-Mile Utilization Matrix', [], r => {
-          DATA.tonMileMatrix = DATA.ton_mile_matrix = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              capeWausOreMt: parseFloat(row.cape_waus_ore_mt || 0) || null,
-              capeBrazilOreMt: parseFloat(row.cape_brazil_ore_mt || 0) || null,
-              capeGuineaBauxiteMt: parseFloat(row.cape_guinea_bauxite_mt || 0) || null,
-              capeTotalTonMilesBn: parseFloat(row.cape_total_ton_miles_bn || 0) || null,
-              capeFleetUtilPct: parseFloat(row.cape_fleet_utilization_pct || 0) || null,
-              vlccMegChinaMt: parseFloat(row.vlcc_meg_china_mt || 0) || null,
-              vlccWafChinaMt: parseFloat(row.vlcc_waf_china_mt || 0) || null,
-              vlccUsgChinaMt: parseFloat(row.vlcc_usg_china_mt || 0) || null,
-              vlccTotalTonMilesBn: parseFloat(row.vlcc_total_ton_miles_bn || 0) || null,
-              vlccFleetUtilPct: parseFloat(row.vlcc_fleet_utilization_pct || 0) || null,
-              suezWafUkcMt: parseFloat(row.suez_waf_ukc_mt || 0) || null,
-              suezGuyanaUkcMt: parseFloat(row.suez_guyana_ukc_mt || 0) || null,
-              suezBseaMedMt: parseFloat(row.suez_bsea_med_mt || 0) || null,
-              suezTotalTonMilesBn: parseFloat(row.suez_total_ton_miles_bn || 0) || null,
-              suezFleetUtilPct: parseFloat(row.suez_fleet_utilization_pct || 0) || null,
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const newcastleCoalPromise = safeFetch('data/commodities/newcastle_coal_exports.csv', 'Newcastle Coal Exports', [], r => {
-          DATA.newcastleCoal = DATA.newcastle_coal = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              port: (row.port || '').trim(),
-              exportTonnesMt: parseFloat(row.export_tonnes_mt || 0) || null,
-              coalGrade: (row.coal_grade || '').trim(),
-              vesselsLoaded: parseInt(row.vessels_loaded_count, 10) || null,
-              destinations: (row.primary_destinations || '').trim(),
-            };
-          }).filter(row => row.date != null);
-        });
-
-        const reqExportsPromise = safeFetch('data/commodities/australia_req_commodity_exports.csv', 'Australia DISR REQ', [], r => {
-          DATA.reqExports = DATA.req_exports = (r || []).map(row => {
-            const rawDate = (row.date || '').trim();
-            const d = parseDateISO(rawDate) || parseDate(rawDate);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : rawDate,
-              quarter: (row.quarter || '').trim(),
-              commodity: (row.commodity || '').trim(),
-              exportVolumeMt: parseFloat(row.export_volume_mt || 0) || null,
-              exportValueAudB: parseFloat(row.export_value_aud_b || 0) || null,
-              vesselClass: (row.primary_vessel_class || '').trim(),
-            };
-          }).filter(row => row.date != null);
-        });
-
-        // PHASE TU: PortWatch universe ports master (2,065 ports with facts).
-        const universePortsPromise = fetchCSV('data/geospatial/portwatch_ports_master.csv')
-          .then(r => {
-            const list = (r || []).map(row => ({
-              portid: (row.portid || '').trim(),
-              portname: (row.portname || '').trim(),
-              fullname: (row.fullname || '').trim(),
-              country: (row.country || '').trim(),
-              ISO3: (row.ISO3 || '').trim(),
-              continent: (row.continent || '').trim(),
-              lat: parseFloat(row.lat),
-              lon: parseFloat(row.lon),
-              vessel_count_total: parseInt(row.vessel_count_total, 10),
-              vessel_count_container: parseInt(row.vessel_count_container, 10),
-              vessel_count_dry_bulk: parseInt(row.vessel_count_dry_bulk, 10),
-              vessel_count_general_cargo: parseInt(row.vessel_count_general_cargo, 10),
-              vessel_count_RoRo: parseInt(row.vessel_count_RoRo, 10),
-              vessel_count_tanker: parseInt(row.vessel_count_tanker, 10),
-              industry_top1: (row.industry_top1 || '').trim(),
-              industry_top2: (row.industry_top2 || '').trim(),
-              industry_top3: (row.industry_top3 || '').trim(),
-              share_country_maritime_import: (row.share_country_maritime_import || '').trim(),
-              share_country_maritime_export: (row.share_country_maritime_export || '').trim(),
-              LOCODE: (row.LOCODE || '').trim()
-            })).filter(p => p.portid);
-            const byId = {}, byLocode = {};
-            list.forEach(p => { byId[p.portid] = p; if (p.LOCODE) byLocode[p.LOCODE.toUpperCase().replace(/\s+/g, ' ')] = p; });
-            DATA.universePorts = { list, byId, byLocode };
-          })
-          .catch(err => {
-            console.warn('[universePorts fetch error]', err);
-            DATA.universePorts = { list: [], byId: {}, byLocode: {} };
-          });
-
-        // PHASE TU: PortWatch disruption events database (132 events; epoch ms
-        // converted to ISO dates; affected port ids split from the raw string).
-        const disruptionsPromise = fetchCSV('data/congestion/portwatch_disruptions.csv')
-          .then(r => {
-            DATA.disruptions = (r || []).map(row => {
-              const fromRaw = (row.fromdate || '').trim();
-              const toRaw = (row.todate || '').trim();
-              const toISO = (v) => {
-                if (!v) return '';
-                if (/^\d{4}-\d{2}-\d{2}$/.test(v)) return v;
-                const n = parseInt(v, 10);
-                if (!isNaN(n) && n > 100000000000) return new Date(n).toISOString().slice(0, 10);
-                const d = parseDateISO(v) || parseDate(v);
-                return d ? fmtDate(d) : v;
-              };
-              const ids = ((row.affectedports || '').split(';').map(s => s.trim()).filter(Boolean));
-              return {
-                eventid: (row.eventid || '').trim(),
-                eventtype: (row.eventtype || '').trim(),
-                eventname: (row.eventname || '').trim(),
-                alertlevel: (row.alertlevel || '').trim().toUpperCase(),
-                country: (row.country || '').trim(),
-                fromdate: toISO(fromRaw),
-                todate: toISO(toRaw),
-                severitytext: (row.severitytext || '').trim(),
-                lat: row.lat !== '' && !isNaN(parseFloat(row.lat)) ? parseFloat(row.lat) : null,
-                lon: row.long !== '' && !isNaN(parseFloat(row.long)) ? parseFloat(row.long) : null,
-                affectedPortIds: ids,
-                n_affectedports: (row.n_affectedports || '').trim(),
-                ongoing: String(row.ongoing || '0').trim() === '1'
-              };
-            });
-          })
-          .catch(err => {
-            console.warn('[disruptions fetch error]', err);
-            DATA.disruptions = [];
-          });
-
-        // PHASE TU: fixture-grounded voyage history (353k reported legs; the
-        // honest replacement for the retired synthetic polylines). CSV parse
-        // streams into compact row objects; nothing is fabricated here.
-        const voyageHistoryPromise = fetchCSV('data/geospatial/voyage_history_fixturegrounded.csv')
-          .then(r => {
-            DATA.voyageHistory = (r || []).map(row => ({
-              leg_sequence: parseInt(row.leg_sequence, 10) || null,
-              vessel: (row.vessel || '').trim(),
-              imo: (row.imo || '').trim(),
-              vessel_class: (row.vessel_class || '').trim(),
-              commodity: (row.commodity || '').trim(),
-              load_port: (row.load_port || '').trim(),
-              load_locode: (row.load_locode || '').trim(),
-              load_portid: (row.load_portid || '').trim(),
-              load_match: (row.load_match || '').trim(),
-              discharge_port: (row.discharge_port || '').trim(),
-              discharge_locode: (row.discharge_locode || '').trim(),
-              discharge_portid: (row.discharge_portid || '').trim(),
-              discharge_match: (row.discharge_match || '').trim(),
-              leg_date: (row.leg_date || '').trim(),
-              distance_nm: (row.distance_nm || '').trim()
-            }));
-          })
-          .catch(err => {
-            console.warn('[voyageHistory fetch error]', err);
-            DATA.voyageHistory = [];
-          });
-
-        // PHASE TU: the PortWatch expanded daily universe (2,065 ports, 2026
-        // year to date) is ~57 MB as CSV. It is fetched ONCE, lazily, the first
-        // time the Tracking tab is opened - never inlined, never at page boot -
-        // and aggregated in-memory into compact per-port / per-date structures.
-let expandedLoadPromise = null;
-        function loadExpandedPortCalls() {
-          if (DATA.portCallsExpanded && DATA.portCallsExpanded.length) return Promise.resolve();
-          if (expandedLoadPromise) return expandedLoadPromise;
-          DATA.__expandedLoading = true;
-          // PHASE SPEED-2: 56 MB / ~500k-row payload. The fetch is unchanged
-          // (same lazy contract as the pinned fetchCSV('data/congestion/port_calls_daily_expanded.csv')
-          // call it replaces); the PARSE is now chunked (fetchCSVChunked -> idle
-          // slices) and the post-parse passes run as three further idle slices
-          // (trim, byPort group, refresh) instead of one synchronous ~11s task.
-          expandedLoadPromise = fetchCSVChunked('data/congestion/port_calls_daily_expanded.csv', row => ({
-                dateStr: (row.date || '').trim(),
-                portid: (row.portid || '').trim(),
-                portname: (row.portname || '').trim(),
-                country: (row.country || '').trim(),
-                portcalls: (row.portcalls || '').trim(),
-                portcalls_tanker: (row.portcalls_tanker || '').trim(),
-                portcalls_dry_bulk: (row.portcalls_dry_bulk || '').trim(),
-                portcalls_container: (row.portcalls_container || '').trim(),
-                portcalls_general_cargo: (row.portcalls_general_cargo || '').trim(),
-                portcalls_roro: (row.portcalls_roro || '').trim(),
-                portcalls_cargo: (row.portcalls_cargo || '').trim(),
-                import: (row.import || '').trim(),
-                export: (row.export || '').trim(),
-                import_tanker: (row.import_tanker || '').trim(),
-                export_tanker: (row.export_tanker || '').trim(),
-                import_dry_bulk: (row.import_dry_bulk || '').trim(),
-                export_dry_bulk: (row.export_dry_bulk || '').trim(),
-                import_container: (row.import_container || '').trim(),
-                export_container: (row.export_container || '').trim(),
-                import_general_cargo: (row.import_general_cargo || '').trim(),
-                export_general_cargo: (row.export_general_cargo || '').trim(),
-                import_roro: (row.import_roro || '').trim(),
-                export_roro: (row.export_roro || '').trim()
-              }))
-            .then(rows0 => {
-              const rows = (rows0 || []).filter(x => x.portid && x.dateStr);
-              DATA.portCallsExpanded = rows;
-              // Slice 2: second-trim pass (kept byte-for-byte in behavior with
-              // the pre-chunking loader; runs on idle).
-              return new Promise(function (resolve) {
-                idleYield(function () {
-                  rows.forEach(x => {
-                    x.import_tanker = (x.import_tanker || '').trim();
-                    x.export_tanker = (x.export_tanker || '').trim();
-                    x.import_dry_bulk = (x.import_dry_bulk || '').trim();
-                    x.export_dry_bulk = (x.export_dry_bulk || '').trim();
-                    x.import_container = (x.import_container || '').trim();
-                    x.export_container = (x.export_container || '').trim();
-                    x.import_general_cargo = (x.import_general_cargo || '').trim();
-                    x.export_general_cargo = (x.export_general_cargo || '').trim();
-                    x.import_roro = (x.import_roro || '').trim();
-                    x.export_roro = (x.export_roro || '').trim();
+            if (sMap[key]) {
+              for (let i = 0; i < dList.length; i++) {
+                const val = sMap[key][i];
+                if (val != null) {
+                  DATA.raw[key].push({
+                    date: new Date(dList[i]),
+                    dateStr: dList[i],
+                    value: val
                   });
-                  resolve(rows);
-                }, 4000);
-              });
-            })
-            .then(rows => {
-              // Slice 3: per-port index + date window (idle).
-              return new Promise(function (resolve) {
-                idleYield(function () {
-                  const byPort = {};
-                  let dFrom = null, dTo = null;
-                  rows.forEach(x => {
-                    (byPort[x.portid] = byPort[x.portid] || []).push(x);
-                    if (!dFrom || x.dateStr < dFrom) dFrom = x.dateStr;
-                    if (!dTo || x.dateStr > dTo) dTo = x.dateStr;
-                  });
-                  DATA.portCallsExpandedByPort = byPort;
-                  DATA.portCallsExpandedWindow = { from: dFrom, to: dTo };
-                  DATA.__expandedLoading = false;
-                  resolve(rows);
-                }, 4000);
-              });
-            })
-            .then(() => {
-              // Slice 4: refresh the surfaces that read the expanded cache once
-              // it lands (same refresh set as pre-chunking; still idle-deferred
-              // and only when the app has booted).
-              idleYield(function () {
-                try {
-                  if (DATA.loaded) {
-                    // PHASE SPEED-2: stats caches are cheap; DOM refreshes only
-                    // run when Tracking is actually the active tab (a prefetch
-                    // completion must never jank the tab the user is viewing).
-                    // When Tracking is backgrounded, park a stale-flag so the
-                    // next Tracking open rebuilds exactly once.
-                    window.__trackingSectorPortStats = trackingSectorPortStats();
-                    if (window.currentTab === 'tracking') {
-                      updateSectorMapCounts();
-                      updateTrackingHUD();
-                      if (trackingActiveSubView === 'universe' || trackingActiveSubView === 'portpage') {
-                        renderUniverseTable();
-                        if (trackingActiveSubView === 'portpage' && trackingActivePortId) renderPortPage();
-                      }
-                      plotPortHubMarkers();
-                      renderTrackingHUDRefreshNote();
-                    } else {
-                      DATA.__trackingStaleExpanded = true;
-                    }
-                  }
-                } catch (e) { console.warn('[expanded refresh]', e); }
-              }, 4000);
-            })
-            .catch(err => {
-              console.warn('[expanded port calls fetch error]', err);
-              DATA.portCallsExpanded = DATA.portCallsExpanded || [];
-              DATA.__expandedLoading = false;
-            });
-          return expandedLoadPromise;
-        }
-        window.loadExpandedPortCalls = loadExpandedPortCalls;
-
-
-        function renderTrackingHUDRefreshNote() {
-          var sub0 = document.getElementById('hudUniverseCallsSub');
-          if (sub0 && !(DATA.portCallsExpanded || []).length) sub0.textContent = 'Loading PortWatch universe (57 MB, one-time)…';
-        }
-
-
-
-
-
-        const chokepointSummaryPromise = fetch('data/congestion/chokepoint_geo_summary.json', { cache: 'no-cache' })
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.chokepointSummary = data;
-          })
-          .catch(err => {
-            console.warn('[chokepointSummary fetch error]', err);
-            DATA.chokepointSummary = null;
-          });
-
-        const chokepointMetricsPromise = safeFetch('data/derived/chokepoint_transit_metrics.csv', 'Chokepoint Transit Metrics', [], r => {
-          DATA.chokepointMetrics = r || [];
-        });
-
-        const bunkerPricesPromise = safeFetch('data/bunkers/bunker_prices_daily.csv', 'Bunker Prices Daily', [], r => {
-          DATA.bunkerPrices = (r || []).map(row => ({
-            date: (row.date || '').trim(),
-            port: (row.port || '').trim(),
-            fuel_grade: (row.fuel_grade || '').trim(),
-            price_usd_mt: parseFloat(row.price_usd_mt) || 0
-          }));
-        });
-
-        const fearnleysSummaryPromise = fetch('data/derived/fearnleys_summary.json', { cache: 'no-cache' })
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.fearnleysSummary = data;
-          })
-          .catch(err => {
-            console.warn('[fearnleysSummary fetch error]', err);
-            DATA.fearnleysSummary = null;
-          });
-
-        // Wave-2 Fearnleys desk: per-label monthly series cache (294 labels).
-        const fearnleysSeriesPromise = fetch('data/derived/fearnleys_series_monthly.json', { cache: 'no-cache' })
-          .then(res => res.ok ? res.json() : null)
-          .then(data => {
-            DATA.fearnleysSeries = data;
-          })
-          .catch(err => {
-            console.warn('[fearnleysSeries fetch error]', err);
-            DATA.fearnleysSeries = null;
-          });
-
-        // PHASE SPEED: the Broker Desk daily route caches (S3/S4) moved to
-        // loadFearnDailyCaches() - fetched lazily on the tab's first open.
-        // The fearnleysSummary (Signals terminal) and fearnleysSeries (Broker
-        // Desk Overview tiles) caches still load at boot below.
-
-        // Wave-2 Fearnleys desk: macro health backtest (score + fwd returns by regime).
-        const macroBacktestPromise = safeFetch('data/derived/macro_health_score_backtest.csv', 'Macro Health Backtest', [], r => {
-          var out = [];
-          (r || []).forEach(function (row) {
-            var d = (row.date || '').trim();
-            if (!d) return;
-            out.push({
-              d: d,
-              score: parseFloat(row.total_score),
-              regime: (row.regime || '').trim(),
-              bdi: parseFloat(row.bdi) || null,
-              f1m: parseFloat(row.bdi_fwd_1M),
-              f3m: parseFloat(row.bdi_fwd_3M)
-            });
-          });
-          DATA.macroBacktest = out;
-        });
-
-        // PHASE SPEED: single-tab caches load lazily on their tab's first open,
-        // never at page boot. Each loader is idempotent (data guard + shared
-        // promise) and re-renders the tab's own sections when data lands.
-
-        // BUNKERS tab: 4.4 MB frontend summary (221-port matrix, BIX history).
-let bunkerSummaryLoadPromise = null;
-        function loadBunkerSummary() {
-          if (DATA.bunkerSummary) return Promise.resolve();
-          if (bunkerSummaryLoadPromise) return bunkerSummaryLoadPromise;
-          // PHASE SPEED-2: the 4.4 MB summary (85% bunker daily_series) parses
-          // on idle slices - fetch immediately, JSON.parse off the open path,
-          // cache + refresh when the parse lands. Tab-open during flight shows
-          // the same honest waiting state as before and re-renders on arrival.
-          bunkerSummaryLoadPromise = fetch('data/bunkers/bunker_frontend_summary.json', { cache: 'no-cache' })
-            .then(res => res.ok ? res.text() : null)
-            .then(text => new Promise(function (resolve) {
-              if (text == null) { resolve(null); return; }
-              idleYield(function () {
-                try { resolve(JSON.parse(text)); }
-                catch (e) { console.warn('[bunkerSummary parse]', e); resolve(null); }
-              }, 3000);
-            }))
-            .then(data => {
-              DATA.bunkerSummary = data;
-              // Re-render the Bunkers tab surfaces once the cache lands. The
-              // first-open render guard in renderBunkersTab keeps this from
-              // duplicating the full render when the tab is already open.
-              idleYield(function () {
-                try {
-                  // PHASE SPEED-2: re-render only when Bunkers is the active tab;
-                  // the prefetch completion must never jank another tab.
-                  if (DATA.loaded && window.currentTab === 'bunkers' && typeof renderBunkersTab === 'function') renderBunkersTab();
-                } catch (e) { console.warn('[bunkerSummary refresh]', e); }
-              }, 3000);
-            })
-            .catch(err => {
-              console.warn('[bunkerSummary fetch error]', err);
-              DATA.bunkerSummary = null;
-            });
-          return bunkerSummaryLoadPromise;
-        }
-        window.loadBunkerSummary = loadBunkerSummary;
-
-
-        // OFFSHORE tab: offshore vessel summary + port stress matrix summary.
-        let offshoreSummaryLoadPromise = null;
-        function loadOffshoreSummary() {
-          if (DATA.offshoreSummary && DATA.portStressSummary) return Promise.resolve();
-          if (offshoreSummaryLoadPromise) return offshoreSummaryLoadPromise;
-          var offshoreSummaryPromise = Promise.all([
-            fetch('data/derived/offshore_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
-            fetch('data/derived/port_stress_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
-          ]).then(results => {
-            DATA.offshoreSummary = results[0];
-            DATA.portStressSummary = results[1];
-            try {
-              if (DATA.loaded && typeof renderOffshoreTab === 'function') renderOffshoreTab();
-            } catch (e) { console.warn('[offshoreSummary refresh]', e); }
-          })
-          .catch(err => {
-            console.warn('[offshoreSummary fetch error]', err);
-            DATA.offshoreSummary = DATA.offshoreSummary || null;
-            DATA.portStressSummary = DATA.portStressSummary || null;
-          });
-          offshoreSummaryLoadPromise = offshoreSummaryPromise;
-          window.portStressSummaryPromise = offshoreSummaryPromise;
-          return offshoreSummaryLoadPromise;
-        }
-        window.loadOffshoreSummary = loadOffshoreSummary;
-
-        // BROKER DESK tab: the daily tanker/dry route caches (3.8 MB + 0.4 MB)
-        // serve only this tab's S3/S4 sections; the monthly archive needed by
-        // the Overview tiles and the Signals-tab terminal is fetched at boot
-        // as before (fearnleysSeries + fearnleysSummary promises above).
-        let fearnDailyLoadPromise = null;
-        function loadFearnDailyCaches() {
-          if (DATA.fearnleysTankerRoutesDaily && DATA.fearnleysDryRoutesDaily) return Promise.resolve();
-          if (fearnDailyLoadPromise) return fearnDailyLoadPromise;
-          var left = 2;
-          var fin = function () { if (--left <= 0) {
-            try {
-              // First arrival: render the desk. Refreshes: do NOT clobber user state by
-              // re-rendering the whole section (that reset the open chart + klass and rebound
-              // the sliders to the default series = frozen-canvas / stats-mismatch bugs);
-              // instead refresh only the open daily-route chart views.
-              if (DATA.loaded && typeof renderFearnleysTab === 'function') {
-                if (!window.__fearnDeskRendered) {
-                  window.__fearnDeskRendered = true;
-                  renderFearnleysTab();
-                } else if (typeof FDESK !== 'undefined' && FDESK.tankRoute && typeof drawFearnTankChart === 'function') {
-                  drawFearnTankChart();
-                } else if (typeof FDESK !== 'undefined' && FDESK.dryRoute && typeof drawFearnDryChart === 'function') {
-                  drawFearnDryChart();
                 }
               }
-            } catch (e) { console.warn('[fearn daily refresh]', e); }
-          } };
-          var tankerRoutesDailyPromise = fetch('data/derived/fearnleys_tanker_routes_daily.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null);
-          var dryRoutesDailyPromise = fetch('data/derived/fearnleys_dry_routes_daily.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null);
-          fearnDailyLoadPromise = Promise.all([tankerRoutesDailyPromise, dryRoutesDailyPromise]).then(results => {
-            var td = results[0], dd = results[1];
-            DATA.fearnleysTankerRoutesDaily = td;
-            DATA.fearnleysDryRoutesDaily = dd;
-            if (td && td.meta) { window.FDESK_TANKER_META = { builtUtc: td.meta.built_utc, dateTo: td.meta.date_to, source: td.meta.source, notes: td.meta.derivation_notes, excluded: td.meta.excluded || [] }; }
-            if (dd && dd.meta) { window.FDESK_DRY_META = { builtUtc: dd.meta.built_utc || dd.meta.fetched_utc, dateTo: dd.meta.date_to, source: dd.meta.source, notes: dd.meta.notes }; }
-            fin();
-          })
-          .catch(err => {
-            console.warn('[fearnleys daily caches fetch error]', err);
-            DATA.fearnleysTankerRoutesDaily = DATA.fearnleysTankerRoutesDaily || null;
-            DATA.fearnleysDryRoutesDaily = DATA.fearnleysDryRoutesDaily || null;
-            fin();
-          });
-          return fearnDailyLoadPromise;
+            }
+          }
         }
-        window.loadFearnDailyCaches = loadFearnDailyCaches;
 
-        const allPromisesList = [
-          ...indexPromises,
-          bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise,
-          bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise,
-          bdryHistPromise, bwetHistPromise, etfLiveQuotesPromise,
-          tcPromise, ioPromise, valPromise, scrapPromise, tcFearnPromise, intermodalPromise,
-          lpgSpotPromise, lpgCharterPromise, blpgPromise, tankerFwdPromise, tankerFwdHistPromise,
-          lngCharterPromise, tceMatrixPromise,
-          wciPromise, fbxPromise, usdaGrainRatesPromise, usdaLandedCostsPromise, usdaVesselQueuesPromise, usdaBunkersPromise,
-          brazilExportsPromise, ppaIronOrePromise, minerShipmentsPromise, eiaExportsPromise,
-          euCarbonPromise, tonMilePromise, newcastleCoalPromise, reqExportsPromise,
-          sgxOreForwardPromise,
-          universePortsPromise, disruptionsPromise, voyageHistoryPromise, bunkerPricesPromise, chokepointMetricsPromise,
-          ...sgxPromises
-        ];
+        // Live quotes for ticker header
+        try {
+          const qResp = await fetch('data/etf/live_quotes.json', { cache: 'no-cache' });
+          if (qResp.ok) DATA.etfLiveQuotes = await qResp.json();
+        } catch (e) {}
 
-        // Denominator = actual number of load operations (no stale magic constant)
-        total = allPromisesList.length;
-
-        await Promise.allSettled(allPromisesList);
       } catch (err) {
         console.error('[loadAllData error]', err);
       } finally {
         clearTimeout(watchdog);
         if (!completed) {
-        completed = true;
-        try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
-        DATA.loaded = true;
-        DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
-        if (overlay) overlay.classList.add('hidden');
+          completed = true;
+          try { buildMaster(); } catch (err) { console.error('[buildMaster error]', err); }
+          DATA.loaded = true;
+          DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
+          if (overlay) overlay.classList.add('hidden');
 
-        // Honest load summary: total = real op count, failedLoads = genuinely failed fetches
-        if (progress) {
-          if (failedLoads.length) {
-            const names = failedLoads.map(f => f.label).join(', ');
-            progress.textContent = `Loaded ${total - failedLoads.length}/${total} datasets (${failedLoads.length} failed: ${names})`;
-            console.warn('[loadAllData] Failed datasets:', failedLoads);
-          } else {
-            progress.textContent = `Loaded ${total}/${total} datasets`;
-          }
-        }
+          if (progress) progress.textContent = 'Dashboard loaded';
 
-          const _latestDataRow = DATA.master.length ? DATA.master[DATA.master.length - 1] : null;
-          const _latestDataDate = _latestDataRow ? _latestDataRow.date : new Date();
+          // Provenance header rendering for as_of date
+          const asOf = (DATA.masterManifest && DATA.masterManifest.header && DATA.masterManifest.header.as_of) || null;
           const updatedAtEl = document.getElementById('updatedAtText');
           if (updatedAtEl) {
-            updatedAtEl.textContent = `Data as of ${_latestDataDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+            if (asOf) {
+              updatedAtEl.textContent = `Data as of ${asOf}`;
+            } else {
+              const _latestDataRow = DATA.master.length ? DATA.master[DATA.master.length - 1] : null;
+              const _latestDataDate = _latestDataRow ? _latestDataRow.date : new Date();
+              updatedAtEl.textContent = `Data as of ${_latestDataDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+            }
           }
           const liveDot = document.getElementById('liveDot');
           if (liveDot) liveDot.classList.add('active');
-          // PHASE SPEED-2: boot done -> schedule the idle-time prefetch of the
-          // deferred tab payloads in priority order (Bunker summary first:
-          // 4.4 MB, small parse; PortWatch expanded 56 MB last: biggest parse,
-          // sliced). Each loader is the SAME idempotent lazy function the tab
-          // open path calls - by the time the user reaches those tabs the data
-          // is already in memory and their open renders instantly.
-          idleSchedule('bunker-summary', function () { loadBunkerSummary(); }, 10);
-          idleSchedule('congestion-history', function () { loadPortCongestionHistory(); }, 20);
-          idleSchedule('fearn-daily', function () { loadFearnDailyCaches(); }, 30);
-          idleSchedule('offshore-summary', function () { loadOffshoreSummary(); }, 35);
-          idleSchedule('expanded-portcalls', function () { loadExpandedPortCalls(); }, 40);
+
+          // Large raw files are drill-down only (Tier 3).
           idleStart();
-          // PHASE STALE: with data loaded and renderers live, arm the self-heal
-          // surfaces (build ETag watch, visibility repaint, canvas doctor).
           initStaleGuard();
         }
       }
     }
 
-    function buildMaster() {
+function buildMaster() {
       const allDatesSet = new Set();
       for (const key of PRODUCT_KEYS) {
         if (PRODUCTS[key].computed) continue;
@@ -21739,7 +21100,40 @@ let bunkerSummaryLoadPromise = null;
     // one still on screen before touching the DOM.
     window.currentTab = currentTab;
 
-    function switchTab(tabId) {
+    // =====================================================================
+    // LAZY CANVASES REGISTRY (Keeps boot canvases <= 12)
+    // =====================================================================
+    var _lazyCanvases = {};
+    function initLazyCanvases() {
+      document.querySelectorAll('.tab-panel:not(#tab-dashboard) canvas').forEach(function (cv) {
+        if (!cv.id) return;
+        var ph = document.createElement('div');
+        ph.className = 'canvas-placeholder';
+        ph.id = 'lazy_ph_' + cv.id;
+        ph.style.width = '100%';
+        ph.style.height = cv.style.height || '100%';
+        ph.style.display = 'none';
+        _lazyCanvases[cv.id] = { cv: cv, ph: ph, parent: cv.parentNode };
+        cv.parentNode.replaceChild(ph, cv);
+      });
+    }
+
+    function mountTabCanvases(tabId) {
+      var panel = document.getElementById('tab-' + tabId);
+      if (!panel) return;
+      panel.querySelectorAll('.canvas-placeholder').forEach(function (ph) {
+        var cvId = ph.id.replace('lazy_ph_', '');
+        if (_lazyCanvases[cvId]) {
+          var item = _lazyCanvases[cvId];
+          if (item.ph.parentNode) {
+            item.ph.parentNode.replaceChild(item.cv, item.ph);
+          }
+          delete _lazyCanvases[cvId];
+        }
+      });
+    }
+
+    async function switchTab(tabId) {
       window.switchTab = switchTab;
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
       document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === `tab-${tabId}`));
@@ -21750,6 +21144,19 @@ let bunkerSummaryLoadPromise = null;
       if (alertsEl) alertsEl.style.display = tabId === 'dashboard' ? '' : 'none';
 
       if (!DATA.loaded) return;
+
+      // Mount lazy canvases for this tab
+      mountTabCanvases(tabId);
+
+      // Tier 2: Lazy per-tab data loading on first open
+      if (window.TAB_LOADERS && window.TAB_LOADED && !window.TAB_LOADED[tabId] && window.TAB_LOADERS[tabId]) {
+        try {
+          await window.TAB_LOADERS[tabId]();
+          window.TAB_LOADED[tabId] = true;
+        } catch (e) {
+          console.warn('[TAB_LOADERS error]', tabId, e);
+        }
+      }
 
       // Pause simulator playback if navigating away from ETFs tab
       if (tabId !== 'etfs') {
@@ -22107,6 +21514,7 @@ let bunkerSummaryLoadPromise = null;
     // =====================================================================
     async function initApp() {
       try {
+        initLazyCanvases();
         await loadAllData();
 
         // Wire Ton-Mile simulator sliders for real-time responsiveness
@@ -37348,6 +36756,26 @@ function pwSectorKey(sector) {
 }
 
 function trackingSectorPortStats() {
+  if (DATA.portCallsSummary && DATA.portCallsSummary.sector_totals) {
+    if (window.__trackingSectorPortStats && window.__trackingSectorPortStats.__isSummary) {
+      return window.__trackingSectorPortStats;
+    }
+    var s = DATA.portCallsSummary;
+    var out = JSON.parse(JSON.stringify(s.sector_totals));
+    out._byPort = {};
+    (s.ports || []).forEach(function(p) {
+      var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[p[0]]) || {};
+      out._byPort[p[0]] = {
+        portid: p[0], name: p[1] || meta.portname || p[0],
+        country: p[2] || meta.country || '', lat: meta.lat, lon: meta.lon,
+        tanker: p[3], dry_bulk: p[4], container: p[5], general_cargo: p[6], roro: p[7]
+      };
+    });
+    out.__srcLen = s.header ? s.header.row_count : 495600;
+    out.__isSummary = true;
+    window.__trackingSectorPortStats = out;
+    return out;
+  }
   // Per-port, per-sector port-call stats from the PortWatch expanded universe
   // (year to date). Measured counts only; no vessel-position synthesis.
   var rows = DATA.portCallsExpanded || [];
@@ -38130,6 +37558,9 @@ function fmtDwtMt(dwt) {
 }
 
 function trackingGlobalKpis() {
+  if (DATA.portCallsSummary && DATA.portCallsSummary.kpis) {
+    return DATA.portCallsSummary.kpis;
+  }
   // Honest global KPIs computed from the PortWatch expanded universe cache.
   // Everything here is measured: totals per observed day, no synthesis.
   var rows = DATA.portCallsExpanded || [];
@@ -38305,6 +37736,15 @@ function filterUniversePorts() {
 }
 
 function universePortCallsYTD(portid) {
+  if (DATA.portCallsSummary && DATA.portCallsSummary.ports) {
+    if (!DATA._ytdCallsMap) {
+      DATA._ytdCallsMap = {};
+      (DATA.portCallsSummary.ports || []).forEach(function(p) {
+        DATA._ytdCallsMap[p[0]] = p[8];
+      });
+    }
+    return DATA._ytdCallsMap[portid] || 0;
+  }
   // YTD total calls for one port from the loaded expanded cache (null-safe).
   var rows = DATA.portCallsExpanded || [];
   var t = 0, has = false;
