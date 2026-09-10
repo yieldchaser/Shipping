@@ -202,4 +202,39 @@ Execution log for Prompt 01 rebuild phases. Every step recorded as executed.
 +------------------------------------+----------------------------------------------------+------+------------------------------------------------------------+
 
 Total violations found: 171
-`
+```
+
+---
+
+## STEP 1.2 — Provenance registry
+- STATUS: DONE
+- FILES TOUCHED:
+  - scripts/verify/build_provenance_manifest.py (NEW)
+  - data/provenance/manifest.json (NEW)
+  - docs/megaprompts/LEDGER-01-foundation.md (MODIFIED)
+- WHAT I DID: Created `scripts/verify/build_provenance_manifest.py` which extracts all 82 distinct data paths fetched by `index.html`, resolves their upstream data sources, URLs, fetch methods, and producing scripts across `scripts/` and workflows, reads exact row counts and date spans from disk, and writes `data/provenance/manifest.json` following the GUARDRAILS §0.3 schema.
+- VERIFY COMMAND: `python scripts/verify/build_provenance_manifest.py`
+- EXPECTED RESULT: Generates `data/provenance/manifest.json` registering all fetched series with status, source, span, and row count; flags unregistered files.
+- ACTUAL RESULT: Generated `data/provenance/manifest.json` with 82 registered series (74 LIVE, 4 ESTIMATED, 4 UNREGISTERED). Running `python scripts/verify/check_no_fabrication.py` confirms 0 Orphan Series remain (down from 82).
+- DEVIATIONS: None.
+
+### Series Status Breakdown in Manifest:
+- LIVE: 74 series
+- ESTIMATED: 4 series (diagnostic/model series: `ton_mile_utilization_matrix.csv`, `major_miners_quarterly_shipments.csv`, `macro_health_score_backtest.csv`, `port_stress_summary.json`)
+- UNREGISTERED: 4 series (see below)
+
+### Files Tagged as UNREGISTERED:
+These are files loaded by `index.html` that have no producing/scraping script in the repository:
+1. `data/derived/chokepoint_transit_metrics.csv`
+   - Description: Static 11-row summary of maritime chokepoints with pre-disruption baseline counts and diverted percentages.
+   - Provenance gap: Loaded in `index.html` (line 20042) and verified by `test_question_routing_and_grounding.py`, but never written by any pipeline in `scripts/`.
+2. `data/derived/lng_charter_rates.csv`
+   - Description: LNG 7Y/10Y Time Charter rates ($/day) and Newbuilding prices ($M) from 2017-01-05.
+   - Provenance gap: Read by `scripts/fearnleys/build_desk_caches.py` and `scripts/generate_brief.py`, but no active pipeline script scrapes or updates it (legacy static backfill).
+3. `data/derived/lpg_charter_rates.csv`
+   - Description: LPG 1Y TC Rates ($/month) across VLGC 84k, MGC 38k, Handy 22k from 2019-07-01.
+   - Provenance gap: Read by `scripts/fearnleys/build_desk_caches.py` and `scripts/generate_brief.py`, but no active pipeline script scrapes or updates it (legacy static backfill).
+4. `data/derived/lpg_spot_rates.csv`
+   - Description: LPG Spot Rates ($/day) across VLGC spot and MGC spot from 2004-01-07.
+   - Provenance gap: Read by `scripts/fearnleys/build_desk_caches.py`, but no active pipeline script scrapes or updates it (legacy static backfill).
+
