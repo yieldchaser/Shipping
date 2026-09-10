@@ -205,39 +205,67 @@ def build_bunker_summary():
     # Create latest quotes lookup per port and grade
     latest_rows = df_master.sort_values('observation_date').groupby(['port_name', 'grade']).last().reset_index()
 
-    # Calculate 7D and 30D historical changes
-    # Map each port
+    # Prompt 06 §6.1: Separate regional/global averages and macro benchmarks from physical ports
+    NON_PORTS = {
+        'Americas Average', 'APAC Average', 'EMEA Average', 
+        'Global 4 Ports Average', 'Global 20 Ports Average', 'Global Average Bunker Price',
+        'Brent', 'EUA'
+    }
+    COMPOSITE_NAMES = {
+        'Americas Average', 'APAC Average', 'EMEA Average', 
+        'Global 4 Ports Average', 'Global 20 Ports Average', 'Global Average Bunker Price'
+    }
+    MACRO_NAMES = {'Brent', 'EUA'}
+
     ports_dict = {}
-    
+    composites_dict = {}
+    macro_dict = {}
+
+    def _init_entry(pname, pcode, obs_date, is_comp=False):
+        geo = guess_region_and_coords(pname, pcode)
+        return {
+            'name': pname,
+            'code': pcode,
+            'region': geo['region'],
+            'country': geo.get('country', ''),
+            'lat': geo['lat'],
+            'lon': geo['lon'],
+            'latest_date': obs_date,
+            'vlsfo': None,
+            'mgo': None,
+            'ifo380': None,
+            'hi5_spread': None,
+            'bio': None,
+            'lng': None,
+            'meoh': None,
+            'eua': None,
+            'change_7d': 0.0,
+            'spread_vs_singapore': 0.0,
+            'is_composite': is_comp,
+            'is_outlier': False,
+            'outlier_flags': []
+        }
+
     for _, r in latest_rows.iterrows():
         pname = r['port_name']
         grade = str(r['grade']).upper()
         price = sanitize_float(r['price_usd'])
         obs_date = str(r['observation_date'])
 
-        if pname not in ports_dict:
-            geo = guess_region_and_coords(pname, r['port_code'])
-            ports_dict[pname] = {
-                'name': pname,
-                'code': r['port_code'],
-                'region': geo['region'],
-                'country': geo.get('country', ''),
-                'lat': geo['lat'],
-                'lon': geo['lon'],
-                'latest_date': obs_date,
-                'vlsfo': None,
-                'mgo': None,
-                'ifo380': None,
-                'hi5_spread': None,
-                'bio': None,
-                'lng': None,
-                'meoh': None,
-                'eua': None,
-                'change_7d': 0.0,
-                'spread_vs_singapore': 0.0
-            }
+        if pname in COMPOSITE_NAMES:
+            target = composites_dict
+            is_comp = True
+        elif pname in MACRO_NAMES:
+            target = macro_dict
+            is_comp = False
+        else:
+            target = ports_dict
+            is_comp = False
 
-        p = ports_dict[pname]
+        if pname not in target:
+            target[pname] = _init_entry(pname, r['port_code'], obs_date, is_comp)
+
+        p = target[pname]
         if obs_date > p['latest_date']:
             p['latest_date'] = obs_date
 
@@ -251,33 +279,58 @@ def build_bunker_summary():
         elif grade in ['MEOH']: p['meoh'] = price
         elif grade in ['EUA', 'EUAHFO', 'EUAUSD']: p['eua'] = price
 
-    # Update latest prices from daily_csv (dated 2026-09-07)
+    # Update latest prices from daily_csv (dated 2026-09-07) across ports and composites
+    all_targets = {**ports_dict, **composites_dict}
     for _, r in df_daily.iterrows():
         p_key = r['port']
         p_formatted = p_key.replace('_', ' ').title()
-        # match with port_name
-        matched_name = None
-        for name in ports_dict:
+        matched_target = None
+        for name, entry in all_targets.items():
             if name.lower() == p_formatted.lower() or name.lower().replace(' ', '') == p_key.replace('_', ''):
-                matched_name = name
+                matched_target = entry
                 break
 
-        if matched_name:
+        if matched_target:
             grade = str(r['fuel_grade']).upper()
             price = sanitize_float(r['price_usd_mt'])
-            p = ports_dict[matched_name]
-            p['latest_date'] = str(r['date'])
-            if grade == 'VLSFO': p['vlsfo'] = price
-            elif grade == 'MGO': p['mgo'] = price
-            elif grade == 'IFO380': p['ifo380'] = price
+            matched_target['latest_date'] = str(r['date'])
+            if grade == 'VLSFO': matched_target['vlsfo'] = price
+            elif grade == 'MGO': matched_target['mgo'] = price
+            elif grade == 'IFO380': matched_target['ifo380'] = price
 
-    # Ensure Hi-5 spread is calculated if missing
+    # Ensure Hi-5 spread and spread vs Singapore are calculated
     singapore_vlsfo = ports_dict.get('Singapore', {}).get('vlsfo') or 848.0
-    for pname, p in ports_dict.items():
+    for p in ports_dict.values():
         if p['vlsfo'] and p['ifo380'] and (p['hi5_spread'] is None or p['hi5_spread'] == 0):
             p['hi5_spread'] = round(p['vlsfo'] - p['ifo380'], 2)
         if p['vlsfo']:
             p['spread_vs_singapore'] = round(p['vlsfo'] - singapore_vlsfo, 2)
+
+    for p in composites_dict.values():
+        if p['vlsfo'] and p['ifo380'] and (p['hi5_spread'] is None or p['hi5_spread'] == 0):
+            p['hi5_spread'] = round(p['vlsfo'] - p['ifo380'], 2)
+
+    # Prompt 06 §6.1 Outlier Guard: flag prices > 3 sigma from grade cross-port distribution
+    for g_key in ['vlsfo', 'mgo', 'ifo380']:
+        prices = [p[g_key] for p in ports_dict.values() if p.get(g_key) is not None]
+        if len(prices) >= 10:
+            arr = np.array(prices)
+            mu = float(np.mean(arr))
+            sig = float(np.std(arr))
+            if sig > 0:
+                for p in ports_dict.values():
+                    if p.get(g_key) is not None:
+                        val = p[g_key]
+                        z = (val - mu) / sig
+                        if abs(z) >= 3.0:
+                            p['is_outlier'] = True
+                            p['outlier_flags'].append({
+                                'grade': g_key.upper(),
+                                'val': val,
+                                'zscore': round(z, 2),
+                                'mean': round(mu, 1),
+                                'std': round(sig, 1)
+                            })
 
     # 1b. Per-port 7-day VLSFO change from the master series (real rows only).
     # For each port: latest VLSFO obs on/before the port's latest_date vs the
@@ -288,7 +341,7 @@ def build_bunker_summary():
         _v['observation_date'] = pd.to_datetime(_v['observation_date'], errors='coerce')
         _v['price_usd'] = pd.to_numeric(_v['price_usd'], errors='coerce')
         _v = _v.dropna(subset=['observation_date', 'price_usd']).sort_values(['port_name', 'observation_date'])
-        for pname, p in ports_dict.items():
+        for pname, p in {**ports_dict, **composites_dict}.items():
             _g = _v[_v['port_name'] == pname]
             if _g.empty:
                 continue
@@ -501,11 +554,29 @@ def build_bunker_summary():
                 'bio': None
             })
 
-    # 4. 12-Month Forward Curves
+    # 4. 12-Month Forward Curves: Anchor with M0 spot price & structure metrics (Prompt 06 §6.2)
     fwd_dict = {}
+    fwd_meta = {}
     for port in df_fwd['port'].unique():
         fwd_dict[port] = []
         p_fwd = df_fwd[df_fwd['port'] == port].sort_values('month_offset')
+        
+        # M0 Spot anchor point
+        spot_port = ports_dict.get(port)
+        spot_v = spot_port.get('vlsfo') if spot_port else None
+        spot_h = spot_port.get('ifo380') if spot_port else None
+        spot_m = spot_port.get('mgo') if spot_port else None
+        spot_sp = round(spot_v - spot_h, 2) if (spot_v and spot_h) else None
+        
+        fwd_dict[port].append({
+            'offset': 0,
+            'month': 'Spot',
+            'ifo380': spot_h,
+            'vlsfo': spot_v,
+            'mgo': spot_m,
+            'spread': spot_sp
+        })
+        
         for _, r in p_fwd.iterrows():
             fwd_dict[port].append({
                 'offset': int(r['month_offset']),
@@ -515,9 +586,27 @@ def build_bunker_summary():
                 'mgo': sanitize_float(r['mgo_usd']),
                 'spread': round(sanitize_float(r['vlsfo_usd']) - sanitize_float(r['ifo380_usd']), 2)
             })
+            
+        pts = [x for x in fwd_dict[port] if x['offset'] > 0 and x['vlsfo'] is not None]
+        structure = 'Flat'
+        slope_pct = 0.0
+        if len(pts) >= 2:
+            m1_val = pts[0]['vlsfo']
+            m12_val = pts[-1]['vlsfo']
+            slope_pct = round(((m12_val - m1_val) / m1_val) * 100, 1)
+            structure = 'Contango' if m12_val > m1_val else 'Backwardation'
+            
+        fwd_meta[port] = {
+            'hub': port,
+            'provenance': 'BunkerIndex modelled curve — one slope applied per hub',
+            'as_of': '2026-09-05',
+            'is_modelled': True,
+            'structure': structure,
+            'slope_pct': slope_pct
+        }
 
-    # 5. Physical Sales Volumes
-    volumes_dict = {'Singapore': [], 'Rotterdam': []}
+    # 5. Physical Sales Volumes + Singapore Seasonal Envelope (Prompt 06 §6.3)
+    volumes_dict = {'Singapore': [], 'Rotterdam': [], 'Singapore_Envelope': []}
     for _, r in df_vol.iterrows():
         p = r['port']
         if p in volumes_dict:
@@ -527,6 +616,29 @@ def build_bunker_summary():
                 'volume_mt': sanitize_float(r['volume_mt']),
                 'freq': str(r['frequency'])
             })
+            
+    try:
+        sg_rows = [x for x in volumes_dict['Singapore'] if x['metric'] == 'Sales_Monthly_MT']
+        month_buckets = {m: [] for m in range(1, 13)}
+        for row in sg_rows:
+            parts = str(row['period']).split('-')
+            if len(parts) == 2:
+                yr, mo = int(parts[0]), int(parts[1])
+                if 2019 <= yr <= 2025:
+                    month_buckets[mo].append(float(row['volume_mt']))
+        month_names = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+        for mo in range(1, 13):
+            vals = month_buckets[mo]
+            if vals:
+                volumes_dict['Singapore_Envelope'].append({
+                    'month': mo,
+                    'month_name': month_names[mo - 1],
+                    'mean': round(float(np.mean(vals)), 0),
+                    'min': round(float(np.min(vals)), 0),
+                    'max': round(float(np.max(vals)), 0)
+                })
+    except Exception as e:
+        print(f"WARNING: Singapore envelope calculation skipped ({e})")
 
     # 6. Scrubber Economics & Fuel Spreads
     scrubber_table = []
@@ -561,26 +673,45 @@ def build_bunker_summary():
     import datetime as _dt
     _gen_at = _dt.datetime.now(_dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     _latest_obs = str(max(str(df_master['observation_date'].max()), str(df_daily['date'].max())))
+    # Promoted Scrubber Spread (Hi-5) ranking table (Prompt 06 §6.3)
+    scrubber_ranking = []
+    for p in ports_dict.values():
+        if p.get('hi5_spread') is not None:
+            scrubber_ranking.append({
+                'port': p['name'],
+                'region': p['region'],
+                'country': p['country'],
+                'vlsfo': p['vlsfo'],
+                'hsfo': p['ifo380'],
+                'hi5': p['hi5_spread'],
+                'spread_vs_singapore': p['spread_vs_singapore'],
+                'latest_date': p['latest_date']
+            })
+    scrubber_ranking.sort(key=lambda x: x['hi5'], reverse=True)
+
     summary = {
         'meta': {
             'generated_at': _gen_at,
             'latest_observation_date': _latest_obs,
             'records_processed': len(df_master) + len(df_daily) + len(df_bix) + len(df_fwd) + len(df_vol) + len(df_spread),
             'unique_ports_count': len(ports_dict),
+            'true_physical_ports_count': len(ports_dict),
+            'composites_count': len(composites_dict),
             'grades': ['VLSFO', 'MGO', 'LSMGO', 'IFO380', 'SS_Hi5', 'BIO', 'LNG', 'MEOH', 'EUA_Carbon'],
             'sources': ['Ship & Bunker RPC API', 'Bunker Index BIX Suites', 'MPA Singapore', 'Port of Rotterdam Authority', 'USDA AMS']
         },
         'kpis': kpis,
         'ports': list(ports_dict.values()),
+        'composites': list(composites_dict.values()),
+        'macro_benchmarks': list(macro_dict.values()),
+        'scrubber_ranking': scrubber_ranking,
         'monthly_series': monthly_series,
         'daily_series': daily_series,
         'forward_curves_12m': fwd_dict,
+        'forward_curves_meta': fwd_meta,
         'physical_volumes': volumes_dict,
         'scrubber_economics': scrubber_table,
         'benchmarks_bix': bix_list,
-        # Full BIX history archive (compact per index x grade series) so the UI
-        # can render complete history without shipping a new payload. Null when
-        # the archive is unavailable.
         'bix_history': bix_history_payload
     }
 

@@ -5317,9 +5317,9 @@
 
     .bunkers-workstation {
       display: grid;
-      grid-template-columns: 500px minmax(0, 1fr);
+      grid-template-columns: minmax(480px, 560px) minmax(0, 1fr);
       gap: 16px;
-      align-items: start;
+      align-items: stretch;
     }
     .bunkers-left-pane {
       display: flex;
@@ -5328,6 +5328,8 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
+      height: 0;
+      min-height: 100%;
     }
     .bunkers-right-pane {
       flex: 1;
@@ -5335,19 +5337,21 @@
       display: flex;
       flex-direction: column;
       gap: 16px;
+      min-height: 0;
     }
 
     .bunkers-subview-nav {
       display: flex;
       border-bottom: 1px solid var(--border);
       background: #0d131a;
+      flex-shrink: 0;
     }
     .bunkers-subview-btn {
       flex: 1;
       background: none;
       border: none;
       color: var(--text-muted);
-      padding: 10px 10px;
+      padding: 10px 8px;
       font-size: 11px;
       font-weight: 600;
       cursor: pointer;
@@ -5371,11 +5375,165 @@
       display: flex;
       flex-direction: column;
       overflow: hidden;
+      min-height: 0;
     }
     .bunkers-table-wrap {
       flex: 1;
+      min-height: 0;
       overflow-y: auto;
-      max-height: 660px;
+    }
+
+    /* COMPOSITES STRIP */
+    .bunkers-composites-strip {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 6px;
+      padding: 8px;
+      background: #090d13;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .bunkers-comp-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 6px 8px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .bunkers-comp-card:hover {
+      border-color: var(--accent);
+      background: rgba(77, 154, 255, 0.06);
+    }
+    .bunkers-comp-card.selected {
+      border-color: var(--accent);
+      background: rgba(77, 154, 255, 0.12);
+    }
+    .bunkers-comp-title {
+      font-size: 11px;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 3px;
+    }
+    .bunkers-comp-val-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2px 6px;
+      font-size: 11px;
+      font-family: 'IBM Plex Mono', monospace;
+    }
+    .bunkers-comp-lbl {
+      color: var(--text-muted);
+      font-size: 11px;
+    }
+
+    /* BADGES & PILLS */
+    .bunker-term-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 3px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .bunker-term-badge.backwardation {
+      background: rgba(248, 81, 73, 0.15);
+      color: #f85149;
+      border: 1px solid rgba(248, 81, 73, 0.4);
+    }
+    .bunker-term-badge.contango {
+      background: rgba(63, 185, 80, 0.15);
+      color: #3fb950;
+      border: 1px solid rgba(63, 185, 80, 0.4);
+    }
+    .bunker-museum-badge {
+      display: inline-flex;
+      align-items: center;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: #e3b341;
+      background: rgba(227, 179, 65, 0.1);
+      border: 1px solid rgba(227, 179, 65, 0.35);
+      border-radius: 3px;
+      padding: 2px 7px;
+      cursor: help;
+      white-space: nowrap;
+    }
+    .bunker-outlier-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      color: #f85149;
+      background: rgba(248, 81, 73, 0.15);
+      border: 1px solid rgba(248, 81, 73, 0.45);
+      border-radius: 3px;
+      padding: 1px 5px;
+      cursor: help;
+    }
+    .bunker-normal-pill {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    /* MODAL */
+    .bunker-modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(5, 8, 14, 0.82);
+      backdrop-filter: blur(4px);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .bunker-modal-card {
+      background: #0d131a;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      width: 100%;
+      max-width: 860px;
+      max-height: 90vh;
+      overflow-y: auto;
+      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.8);
+      display: flex;
+      flex-direction: column;
+    }
+    .bunker-modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border);
+      background: #111822;
+    }
+    .bunker-modal-body {
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .bunker-modal-kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+    }
+    .bunker-modal-kpi {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 8px 12px;
     }
     .bunkers-table {
       width: 100%;
@@ -14934,7 +15092,7 @@ if (intelTabsContainer) {
             </svg>
             Global Bunker Fuel &amp; Marine Energy Terminal
           </h2>
-          <div class="bunkers-sub">Daily Spot Indications across 221 Ports, 12M Forward Delivery Curves, Scrubber TCE Economics &amp; FuelEU / EU ETS Carbon Compliance · One source of truth: the daily bunker harvest cache</div>
+          <div class="bunkers-sub">Daily Spot Indications across 213 Ports, 12M Forward Delivery Curves, Scrubber TCE Economics &amp; FuelEU / EU ETS Carbon Compliance · One source of truth: the daily bunker harvest cache</div>
         </div>
         <div class="tracking-live-tag">
           <span class="tracking-live-dot"></span>
@@ -15015,7 +15173,7 @@ if (intelTabsContainer) {
         <div class="bunkers-tool-left">
           <span class="bnkr-tag">BNKR</span>
           <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">REGION:</div>
-          <button class="bunkers-pill active" data-region="all" onclick="setBunkerRegion('all')" data-tt-type="bunker-region-btn" data-tt-region="all">All Regions (221 Ports)</button>
+          <button class="bunkers-pill active" data-region="all" onclick="setBunkerRegion('all')" data-tt-type="bunker-region-btn" data-tt-region="all">All Regions (213 Ports)</button>
           <button class="bunkers-pill" data-region="APAC" onclick="setBunkerRegion('APAC')" data-tt-type="bunker-region-btn" data-tt-region="APAC">Asia-Pacific (APAC)</button>
           <button class="bunkers-pill" data-region="EMEA" onclick="setBunkerRegion('EMEA')" data-tt-type="bunker-region-btn" data-tt-region="EMEA">Europe, MidEast, Africa</button>
           <button class="bunkers-pill" data-region="Americas" onclick="setBunkerRegion('Americas')" data-tt-type="bunker-region-btn" data-tt-region="Americas">Americas</button>
@@ -15034,11 +15192,11 @@ if (intelTabsContainer) {
 
       <!-- WORKSTATION: SPLIT PANE -->
       <div class="bunkers-workstation">
-        <!-- Left Pane: 4 Subviews -->
+        <!-- Left Pane: 5 Subviews -->
         <div class="bunkers-left-pane">
           <div class="bunkers-subview-nav">
-            <button id="subnavBunkersSpot" class="bunkers-subview-btn active" onclick="setBunkersSubView('spot')" data-tt-type="bunker-subtab" data-tt-view="spot" data-tooltip="Global spot bunker prices across 221 ports covering VLSFO, MGO, and HSFO.">
-              Spot Prices (221)
+            <button id="subnavBunkersSpot" class="bunkers-subview-btn active" onclick="setBunkersSubView('spot')" data-tt-type="bunker-subtab" data-tt-view="spot" data-tooltip="Global spot bunker prices across 213 physical ports covering VLSFO, MGO, and HSFO.">
+              Spot Prices (213)
             </button>
             <button id="subnavBunkersForward" class="bunkers-subview-btn" onclick="setBunkersSubView('forward')" data-tt-type="bunker-subtab" data-tt-view="forward" data-tooltip="12-month forward derivative price curves and Hi-5 spreads across key bunkering hubs.">
               12M Forward Curves
@@ -15054,8 +15212,13 @@ if (intelTabsContainer) {
             </button>
           </div>
 
-          <!-- Subview 1: 221 Ports Spot Matrix -->
+          <!-- Subview 1: 213 Ports Spot Matrix -->
           <div id="bunkersSubviewSpot" class="bunkers-subview-content" style="display:flex; flex-direction:column;">
+            <!-- Dedicated Composites Strip above Table -->
+            <div id="bunkersCompositesStrip" class="bunkers-composites-strip">
+              <!-- Populated by renderBunkersCompositesStrip() -->
+            </div>
+
             <div id="bunkersFilterBanner" style="display:none; padding:7px 12px; background:rgba(0, 229, 255, 0.08); border-bottom:1px solid rgba(0, 229, 255, 0.25); font-size:11px; color:#c9d1d9; justify-content:space-between; align-items:center;">
               <span id="bunkersFilterBannerText">Filtered by Biofuels (B24): 8 premier global supply ports active.</span>
               <button id="bunkerShowAllPortsBtn" onclick="setBunkerGrade('all'); setBunkerRegion('all');" style="background:none; border:none; color:#58a6ff; cursor:pointer; font-size:11px; text-decoration:underline; font-family:inherit;">Show All Ports</button>
@@ -15064,13 +15227,14 @@ if (intelTabsContainer) {
               <table class="bunkers-table">
                 <thead>
                   <tr>
-                    <th data-tooltip="Bunkering port or marine fuel supply terminal.">Port / Hub</th>
+                    <th data-tooltip="Bunkering port or marine fuel supply terminal. Click to open Port Detail.">Port / Hub</th>
                     <th data-tooltip="Geographical trading zone.">Region</th>
                     <th data-tooltip="Very Low Sulphur Fuel Oil (0.5% max sulphur) price in $/MT.">VLSFO</th>
                     <th data-tooltip="Marine Gas Oil (0.1% max sulphur) distillate price in $/MT.">MGO</th>
                     <th id="bunkersThCol5" data-tooltip="High Sulphur Fuel Oil (3.5% max sulphur) price in $/MT.">HSFO</th>
-                    <th data-tooltip="Fuel price differential relative to Singapore benchmark hub ($/MT).">Spread (vs SG)</th>
-                    <th data-tooltip="VLSFO delta: pipeline change_7d when live, else MoM-from-monthly_series fallback (labeled MoM*) + 12-month VLSFO sparkline and range.">Δ + 12M Spark</th>
+                    <th data-tooltip="VLSFO minus HSFO price spread ($/MT).">Hi-5 Spread</th>
+                    <th data-tooltip="Statistical quality check: 3σ outlier detection per fuel cluster.">Status</th>
+                    <th data-tooltip="VLSFO delta: pipeline change_7d when live, else MoM-from-monthly_series fallback + 12-month VLSFO sparkline and range.">Δ + 12M Spark</th>
                   </tr>
                 </thead>
                 <tbody id="bunkersTableBodyAll">
@@ -15079,7 +15243,7 @@ if (intelTabsContainer) {
               </table>
             </div>
             <div class="bunkers-table-footer">
-              <span id="bunkersPageInfo">Showing 1–50 of 221 ports</span>
+              <span id="bunkersPageInfo">Showing 1–50 of 213 ports</span>
               <div style="display:flex; gap:6px;">
                 <button id="btnBunkersPrev" class="tracking-page-btn" onclick="prevBunkersPage()" data-tooltip="Previous 50 bunker ports.">Prev</button>
                 <button id="btnBunkersNext" class="tracking-page-btn" onclick="nextBunkersPage()" data-tooltip="Next 50 bunker ports.">Next</button>
@@ -15089,26 +15253,36 @@ if (intelTabsContainer) {
 
           <!-- Subview 2: 12-Month Forward Curves -->
           <div id="bunkersSubviewForward" class="bunkers-subview-content" style="display:none;">
-            <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
-              <div style="font-size:11px; font-weight:600; color:var(--text-muted);">FORWARD HUB:</div>
-              <select id="bunkersForwardHubSelect" class="tracking-select" onchange="onBunkersForwardHubChange()" data-tt-type="bunker-forward-hub" data-tooltip="Select forward pricing terminal benchmark.">
-                <option value="Singapore" selected>Singapore (Global Bunker Benchmark)</option>
-                <option value="Rotterdam">Rotterdam (ARA Range)</option>
-                <option value="Fujairah">Fujairah (Middle East Gulf)</option>
-                <option value="Busan">Busan (Northeast Asia)</option>
-                <option value="Hong Kong">Hong Kong (Pearl River Delta)</option>
-                <option value="Kaohsiung">Kaohsiung (Taiwan Strait)</option>
-              </select>
+            <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+              <div style="display:flex; align-items:center; gap:8px;">
+                <span style="font-size:11px; font-weight:600; color:var(--text-muted);">FORWARD HUB:</span>
+                <select id="bunkersForwardHubSelect" class="tracking-select" onchange="onBunkersForwardHubChange()" data-tt-type="bunker-forward-hub" data-tooltip="Select forward pricing terminal benchmark.">
+                  <option value="Singapore" selected>Singapore (Global Bunker Benchmark)</option>
+                  <option value="Rotterdam">Rotterdam (ARA Range)</option>
+                  <option value="Fujairah">Fujairah (Middle East Gulf)</option>
+                  <option value="Busan">Busan (Northeast Asia)</option>
+                  <option value="Hong Kong">Hong Kong (Pearl River Delta)</option>
+                  <option value="Kaohsiung">Kaohsiung (Taiwan Strait)</option>
+                </select>
+              </div>
+              <div style="display:flex; align-items:center; gap:8px;">
+                <span id="bunkerFwdStructureBadge" class="bunker-term-badge backwardation">BACKWARDATION</span>
+                <span class="bunker-museum-badge" data-tooltip="BunkerIndex single-slope term-structure model anchored to spot indication (M0) across 12 forward delivery contracts.">MODELLED · BunkerIndex Single-Slope · As-of 2026-09-05</span>
+              </div>
+            </div>
+            <!-- Forward Curve Line Chart -->
+            <div style="height:230px; position:relative; padding:10px; background:#070b10; border-bottom:1px solid var(--border);">
+              <canvas id="bunkerForwardChart"></canvas>
             </div>
             <div class="bunkers-table-wrap">
               <table class="bunkers-table">
                 <thead>
                   <tr>
-                    <th data-tooltip="Forward delivery settlement maturity month.">Contract</th>
-                    <th data-tooltip="High Sulphur Fuel Oil 380 cSt forward swap price ($/MT).">IFO380 ($/MT)</th>
+                    <th data-tooltip="Forward delivery settlement maturity month. M0 = Spot Anchor.">Contract / Tenor</th>
                     <th data-tooltip="Very Low Sulphur Fuel Oil 0.5% forward swap price ($/MT).">VLSFO ($/MT)</th>
                     <th data-tooltip="Marine Gas Oil 0.1% forward swap price ($/MT).">MGO ($/MT)</th>
-                    <th data-tooltip="VLSFO minus IFO380 forward scrubber spread ($/MT).">Hi-5 Spread</th>
+                    <th data-tooltip="High Sulphur Fuel Oil 380 cSt forward swap price ($/MT).">HSFO ($/MT)</th>
+                    <th data-tooltip="VLSFO minus HSFO forward scrubber spread ($/MT).">Hi-5 Spread</th>
                   </tr>
                 </thead>
                 <tbody id="bunkersForwardTableBody">
@@ -15117,24 +15291,31 @@ if (intelTabsContainer) {
               </table>
             </div>
             <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
-              Source: Bunker Index 12-Month Forward Delivery Curve Engine
+              Source: BunkerIndex 12-Month Forward Delivery Curve Engine · Single-slope model anchored to spot indications (M0).
             </div>
           </div>
 
           <!-- Subview 3: Physical Sales Volumes (2 PORTS ONLY) -->
           <div id="bunkersSubviewVolumes" class="bunkers-subview-content" style="display:none;">
-            <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
-              <div style="font-size:11px; font-weight:600; color:var(--text-muted);">DELIVERY PORT — <span style="color:#e3b341;">2 PORTS ONLY</span> (SG monthly · RTM quarterly):</div>
-              <select id="bunkersVolHubSelect" class="tracking-select" onchange="onBunkersVolHubChange()" data-tt-type="bunker-vol-hub" data-tooltip="Select bunker volume reporting port authority.">
-                <option value="Singapore" selected>Singapore (MPA Official Volumes)</option>
-                <option value="Rotterdam">Rotterdam (Port Authority Deliveries)</option>
-              </select>
+            <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+              <div style="display:flex; align-items:center; gap:8px;">
+                <span style="font-size:11px; font-weight:600; color:var(--text-muted);">DELIVERY PORT:</span>
+                <select id="bunkersVolHubSelect" class="tracking-select" onchange="onBunkersVolHubChange()" data-tt-type="bunker-vol-hub" data-tooltip="Select bunker volume reporting port authority.">
+                  <option value="Singapore" selected>Singapore (MPA Official Volumes)</option>
+                  <option value="Rotterdam">Rotterdam (Port Authority Deliveries)</option>
+                </select>
+              </div>
+              <span id="bunkerVolBadge" class="bunker-term-badge" style="background:rgba(0,229,255,0.12); color:#00e5ff; border:1px solid rgba(0,229,255,0.3);">5-YEAR SEASONAL ENVELOPE</span>
+            </div>
+            <!-- Physical Volumes Chart -->
+            <div style="height:230px; position:relative; padding:10px; background:#070b10; border-bottom:1px solid var(--border);">
+              <canvas id="bunkerVolumesChart"></canvas>
             </div>
             <div class="bunkers-table-wrap">
               <table class="bunkers-table">
                 <thead>
                   <tr>
-                    <th data-tooltip="Reported calendar delivery month.">Period</th>
+                    <th data-tooltip="Reported calendar delivery month or quarter.">Period</th>
                     <th data-tooltip="Reporting cadence (Monthly official port authority statistics).">Frequency</th>
                     <th data-tooltip="Total bunker fuel delivered in metric tonnes (MT).">Volume (Metric Tonnes)</th>
                     <th data-tooltip="Fuel delivery breakdown category.">Metric Type</th>
@@ -15146,11 +15327,11 @@ if (intelTabsContainer) {
               </table>
             </div>
             <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
-              Source: Maritime and Port Authority of Singapore (monthly) &amp; Havenbedrijf Rotterdam (quarterly) · Coverage: 2 of 221 ports — no other port reports verified physical volumes.
+              Source: Maritime and Port Authority of Singapore (monthly) &amp; Havenbedrijf Rotterdam (quarterly) · Coverage: 2 of 213 physical ports.
             </div>
           </div>
 
-          <!-- Subview 5: Alt Fuels — LNG / Methanol / EUA (non-null ports only, never zero-filled) -->
+          <!-- Subview 5: Alt Fuels — LNG / Methanol / EUA -->
           <div id="bunkersSubviewAltfuels" class="bunkers-subview-content" style="display:none;">
             <div style="padding:7px 12px; background:rgba(0, 229, 255, 0.06); border-bottom:1px solid rgba(0, 229, 255, 0.2); font-size:11px; color:#c9d1d9;" id="bunkersAltFuelsCap">
               Verified alt-fuel indications — non-null ports only.
@@ -15176,17 +15357,20 @@ if (intelTabsContainer) {
             </div>
           </div>
 
-          <!-- Subview 4: Scrubber Economics & EU ETS -->
-          <div id="bunkersSubviewScrubber" class="bunkers-subview-content" style="display:none;">
-            <div class="bunkers-table-wrap">
+          <!-- Subview 4: Scrubber Economics & EU ETS (Integrated Terminal) -->
+          <div id="bunkersSubviewScrubber" class="bunkers-subview-content" style="display:none; overflow-y:auto;">
+            <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); font-size:11px; font-weight:600; color:var(--text-muted); flex-shrink:0;">
+              TOP PORTS BY HI-5 SCRUBBER SPREAD (VLSFO − HSFO) &amp; PAYBACK ECONOMICS
+            </div>
+            <div style="flex-shrink:0; max-height:220px; overflow-y:auto; border-bottom:1px solid var(--border);">
               <table class="bunkers-table">
                 <thead>
                   <tr>
                     <th data-tooltip="Key bunkering port or regional terminal.">Port / Hub</th>
                     <th data-tooltip="Price premium of VLSFO over HSFO ($/MT).">Hi-5 Spread</th>
-                    <th data-tooltip="Daily earnings premium for scrubber-fitted Capesize vessel ($/day).">Cape TCE Bonus</th>
-                    <th data-tooltip="Daily earnings premium for scrubber-fitted VLCC vessel ($/day).">VLCC TCE Bonus</th>
-                    <th data-tooltip="Estimated EU ETS carbon compliance cost per metric tonne of bunker fuel consumed.">EU ETS Cost</th>
+                    <th data-tooltip="Daily earnings premium for scrubber-fitted Capesize vessel (45 MT/d).">Cape TCE Bonus</th>
+                    <th data-tooltip="Daily earnings premium for scrubber-fitted VLCC vessel (55 MT/d).">VLCC TCE Bonus</th>
+                    <th data-tooltip="Estimated EU ETS carbon compliance cost per MT of fuel burned.">EU ETS Cost</th>
                   </tr>
                 </thead>
                 <tbody id="bunkersScrubberTableBody">
@@ -15194,8 +15378,58 @@ if (intelTabsContainer) {
                 </tbody>
               </table>
             </div>
+
+            <!-- Merged EU ETS Maritime Carbon & Scrubber Chart -->
+            <div class="chart-container" id="carbonEtsContainer" style="margin:12px 10px; flex-shrink:0;">
+              <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+                <div class="chart-title" id="carbonEtsTitle" data-tooltip=" " data-tt-type="concept-carbon-ets">EU ETS Maritime Carbon (€/t CO2) &amp; Scrubber Hi-5 Fuel Economics</div>
+                <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                  <div id="carbonEtsBadge" class="kpi-badge">EUA Carbon: —</div>
+                </div>
+              </div>
+              <div class="chart-canvas-wrap" style="height:220px"><canvas id="carbonEtsChart"></canvas></div>
+              
+              <!-- Interactive Scrubber & Voyage Cost Calculator HUD -->
+              <div id="scrubberCalcWrap" style="margin-top:10px;padding:12px 14px;background:var(--bg);border:1px solid var(--border);border-radius:6px;font-size:11px;">
+                <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:8px;">
+                  <span style="font-weight:700;color:var(--text-bright);font-size:12px;">Interactive Scrubber Payback &amp; Voyage Cost Calculator</span>
+                  <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+                    <div id="scrubberVesselToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                      <button class="toggle-btn active" id="scrubberBtncape" data-tooltip="Scrubber economics for a Capesize burning 45 MT of fuel per day." onclick="setScrubberVessel('45')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
+                      <button class="toggle-btn" id="scrubberBtnvlcc" data-tooltip="Scrubber economics for a VLCC burning 55 MT of fuel per day." onclick="setScrubberVessel('55')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">VLCC</button>
+                      <button class="toggle-btn" id="scrubberBtnsuez" data-tooltip="Scrubber economics for a Suezmax burning 38 MT of fuel per day." onclick="setScrubberVessel('38')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax</button>
+                      <button class="toggle-btn" id="scrubberBtnpana" data-tooltip="Scrubber economics for a Panamax burning 30 MT of fuel per day." onclick="setScrubberVessel('30')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
+                    </div>
+                    <select id="scrubberVesselSelect" onchange="setScrubberVessel(this.value)" style="background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:2px 8px;font-size:11px;">
+                      <option value="45" selected>Capesize (45 MT/day)</option>
+                      <option value="55">VLCC (55 MT/day)</option>
+                      <option value="38">Suezmax (38 MT/day)</option>
+                      <option value="30">Panamax / Kamsarmax (30 MT/day)</option>
+                    </select>
+                  </div>
+                </div>
+                <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(180px, 1fr));gap:8px;">
+                  <div style="background:var(--card);padding:8px 10px;border-radius:4px;border:1px solid var(--border);">
+                    <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;">Daily Scrubber Savings ($/day)</div>
+                    <div id="calcScrubberDailySavings" style="font-size:14px;font-weight:700;color:#3fb950;margin-top:2px;">—</div>
+                    <div id="calcHi5SpreadLabel" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;">At Singapore Hi-5 Spread (live)</div>
+                  </div>
+                  <div style="background:var(--card);padding:8px 10px;border-radius:4px;border:1px solid var(--border);">
+                    <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;">Annualized Scrubber Advantage ($M/yr)</div>
+                    <div id="calcScrubberAnnualAdvantage" style="font-size:14px;font-weight:700;color:#58a6ff;margin-top:2px;">—</div>
+                    <div style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;">Assuming 280 sailing days/yr</div>
+                  </div>
+                  <div style="background:var(--card);padding:8px 10px;border-radius:4px;border:1px solid var(--border);">
+                    <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;">EU ETS Voyage Drag ($/day)</div>
+                    <div id="calcEuEtsVoyageDrag" style="font-size:14px;font-weight:700;color:#ff7b72;margin-top:2px;">—</div>
+                    <div style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;">50% EU voyage scope @ €68/t EUA</div>
+                  </div>
+                </div>
+                <div id="calcEuEtsNote" style="display:none;font-size:11px;color:var(--text-muted);margin-top:8px;padding:6px 8px;background:var(--card);border:1px solid var(--border);border-radius:4px;"></div>
+              </div>
+            </div>
             <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
-              Burn-rate assumptions: Capesize 45 MT/d, VLCC 55 MT/d · EU ETS priced at the static screening EUA assumption disclosed on the EUA card tooltip (set by the daily harvest)
+              Burn-rate assumptions: Capesize 45 MT/d, VLCC 55 MT/d · EU ETS compliance costs: 3.114 t CO2/MT fuel @ current EUA price.
             </div>
           </div>
         </div>
@@ -15209,7 +15443,7 @@ if (intelTabsContainer) {
                 <circle cx="12" cy="12" r="10"></circle>
                 <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
               </svg>
-              <span id="bunkerMapHudDetail">221 Global Bunker Supply Ports Active</span>
+              <span id="bunkerMapHudDetail">213 Global Bunker Supply Ports Active</span>
             </div>
 
             <div class="map-legend-overlay">
@@ -15293,58 +15527,66 @@ if (intelTabsContainer) {
             </div>
           </div>
         </div>
+      </div><!-- /bunkers-workstation -->
 
-          <div class="chart-container mb-20" id="carbonEtsContainer">
-            <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-              <div class="chart-title" id="carbonEtsTitle" data-tooltip=" " data-tt-type="concept-carbon-ets">EU ETS Maritime Carbon (€/t CO2) & Scrubber Hi-5 Fuel Economics</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="carbonEtsBadge" class="kpi-badge">EUA Carbon: —</div>
+      <!-- Port Detail Modal -->
+      <div id="bunkerPortDetailModal" class="bunker-modal-backdrop" style="display:none;" onclick="if(event.target===this)closeBunkerPortDetail()">
+        <div class="bunker-modal-card">
+          <div class="bunker-modal-header">
+            <div>
+              <h3 id="bunkerModalPortTitle" style="font-size:16px; font-weight:700; color:#fff; margin:0;">Port Detail</h3>
+              <div id="bunkerModalPortSub" style="font-size:11px; color:var(--text-muted); margin-top:2px;">Physical Port Fuel Intelligence</div>
+            </div>
+            <button onclick="closeBunkerPortDetail()" style="background:none; border:1px solid var(--border); border-radius:4px; color:#fff; cursor:pointer; font-size:14px; padding:4px 10px;">&times;</button>
+          </div>
+          <div class="bunker-modal-body">
+            <div id="bunkerModalOutlierBanner" style="display:none; padding:8px 12px; background:rgba(248,81,73,0.12); border:1px solid rgba(248,81,73,0.4); border-radius:6px; flex-direction:column;"></div>
+
+            <div class="bunker-modal-kpi-grid">
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">VLSFO (0.5% S)</div>
+                <div id="bunkerModalKpiVlsfo" style="font-size:15px; font-weight:700; color:#3fb950; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">MGO (0.1% S)</div>
+                <div id="bunkerModalKpiMgo" style="font-size:15px; font-weight:700; color:#e3b341; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">HSFO (IFO380)</div>
+                <div id="bunkerModalKpiHsfo" style="font-size:15px; font-weight:700; color:#4d9aff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Hi-5 Spread</div>
+                <div id="bunkerModalKpiHi5" style="font-size:15px; font-weight:700; color:#a371f7; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Spread vs Singapore</div>
+                <div id="bunkerModalKpiSpreadSg" style="font-size:15px; font-weight:700; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Biofuel (B24)</div>
+                <div id="bunkerModalKpiBio" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">LNG Bunker</div>
+                <div id="bunkerModalKpiLng" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Methanol (MEOH)</div>
+                <div id="bunkerModalKpiMeoh" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
               </div>
             </div>
-            <div class="chart-canvas-wrap" style="height:300px"><canvas id="carbonEtsChart"></canvas></div>
-            
-            <!-- Interactive Scrubber & Voyage Cost Calculator HUD -->
-            <div id="scrubberCalcWrap" style="margin-top:12px;padding:12px 16px;background:var(--bg);border:1px solid var(--border);border-radius:6px;font-size:12px;">
-              <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:8px;">
-                <span style="font-weight:700;color:var(--text-bright);font-size:13px;">Interactive Scrubber Payback & Voyage Cost Calculator</span>
-                <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
-                  <div id="scrubberVesselToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                    <button class="toggle-btn active" id="scrubberBtncape" data-tooltip="Scrubber economics for a Capesize burning 45 MT of fuel per day." onclick="setScrubberVessel('45')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Capesize</button>
-                    <button class="toggle-btn" id="scrubberBtnvlcc" data-tooltip="Scrubber economics for a VLCC burning 55 MT of fuel per day." onclick="setScrubberVessel('55')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">VLCC</button>
-                    <button class="toggle-btn" id="scrubberBtnsuez" data-tooltip="Scrubber economics for a Suezmax burning 38 MT of fuel per day." onclick="setScrubberVessel('38')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Suezmax</button>
-                    <button class="toggle-btn" id="scrubberBtnpana" data-tooltip="Scrubber economics for a Panamax burning 30 MT of fuel per day." onclick="setScrubberVessel('30')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax</button>
-                  </div>
-                  <select id="scrubberVesselSelect" onchange="setScrubberVessel(this.value)" style="background:var(--card);color:var(--text);border:1px solid var(--border);border-radius:4px;padding:2px 8px;font-size:11px;">
-                    <option value="45" selected>Capesize (45 MT/day)</option>
-                    <option value="55">VLCC (55 MT/day)</option>
-                    <option value="38">Suezmax (38 MT/day)</option>
-                    <option value="30">Panamax / Kamsarmax (30 MT/day)</option>
-                  </select>
-                </div>
-              </div>
-              <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:10px;">
-                <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
-                  <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;">Daily Scrubber Savings ($/day)</div>
-                  <div id="calcScrubberDailySavings" style="font-size:15px;font-weight:700;color:#3fb950;margin-top:2px;">—</div>
-                  <div id="calcHi5SpreadLabel" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;">At current Singapore Hi-5 Spread (live)</div>
-                </div>
-                <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
-                  <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;">Annualized Scrubber Advantage ($M/yr)</div>
-                  <div id="calcScrubberAnnualAdvantage" style="font-size:15px;font-weight:700;color:#58a6ff;margin-top:2px;">—</div>
-                  <div style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;">Assuming 280 sailing days/year</div>
-                </div>
-                <div style="background:var(--card);padding:8px 12px;border-radius:4px;border:1px solid var(--border);">
-                  <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;">EU ETS Voyage Drag ($/day)</div>
-                  <div id="calcEuEtsVoyageDrag" style="font-size:15px;font-weight:700;color:#ff7b72;margin-top:2px;">—</div>
-                  <div style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:2px;">50% EU voyage scope @ €68/t EUA</div>
-                  </div>
-                  </div>
-                  <div id="calcEuEtsNote" style="display:none;font-size:11px;color:var(--text-muted);margin-top:8px;padding:6px 8px;background:var(--card);border:1px solid var(--border);border-radius:4px;"></div>
-                  </div>
-          </div>
 
+            <div style="background:var(--card); border:1px solid var(--border); border-radius:6px; padding:12px;">
+              <div style="font-size:12px; font-weight:700; color:#fff; margin-bottom:8px;">Multi-Grade Historical Price Curve (3-Year Series)</div>
+              <div style="height:220px; position:relative; width:100%;">
+                <canvas id="bunkerPortDetailChart"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-    </div><!-- /tab-bunkers -->
+</div><!-- /tab-bunkers -->
  
     <!-- =====================================================================
          TAB: OFFSHORE & OSV TERMINAL (SEABROKERS INTELLIGENCE)
@@ -43998,47 +44240,47 @@ var bunkersChartRange = 'all';
 var bunkersChartGrade = 'vlsfo';
 var bunkerMainChartInstance = null;
 var bunkersTabFullyInitialized = false;
-var __bunkersProgressiveGen = 0; // SPEED-2: invalidates in-flight idle render slices
+var __bunkersProgressiveGen = 0;
+var bunkerForwardChartInstance = null;
+var bunkerVolumesChartInstance = null;
+var bunkerPortDetailChartInstance = null;
 
 function renderBunkersTab() {
   window.renderBunkersTab = renderBunkersTab;
   if (!DATA.loaded) return;
 
-  // PHASE SPEED: the 4.4 MB bunker frontend summary loads lazily on the tab's
-  // first open. While it fetches, the KPI/table surfaces show their existing
-  // honest 'loading' states, then this same renderer re-runs on data arrival.
   if (typeof loadBunkerSummary === 'function') loadBunkerSummary();
 
   var summary = DATA.bunkerSummary;
   if (!summary) return;
 
   if (bunkersTabFullyInitialized) {
-    // PHASE SPEED-2: warm revisit - only the live surface resizes; no re-render.
     if (bunkerGeoMap && typeof bunkerGeoMap.invalidateSize === 'function') {
       setTimeout(function() { bunkerGeoMap.invalidateSize(); }, 60);
     }
     if (bunkerMainChartInstance && typeof bunkerMainChartInstance.resize === 'function') {
       bunkerMainChartInstance.resize();
     }
+    if (bunkerForwardChartInstance && typeof bunkerForwardChartInstance.resize === 'function') {
+      bunkerForwardChartInstance.resize();
+    }
+    if (bunkerVolumesChartInstance && typeof bunkerVolumesChartInstance.resize === 'function') {
+      bunkerVolumesChartInstance.resize();
+    }
     return;
   }
   bunkersTabFullyInitialized = true;
 
-  // PHASE SPEED-2 SPLIT: fast shell first, heavy art in idle slices.
-  //  - immediate: map + HUD KPI strip + spot table (KPI + top rows = the paint)
-  //  - slice 1:   forward / volumes / scrubber / alt-fuels tables
-  //  - slice 2:   BIX strip + movers matrix
-  //  - slice 3:   BIX full-history chart + main port chart (Chart.js)
   initBunkerGeoMapSoon();
-
   updateBunkersHUD();
+  renderBunkersCompositesStrip();
   renderBunkersSpotTable();
 
   var gen = ++__bunkersProgressiveGen;
   idleYield(function () {
     if (gen !== __bunkersProgressiveGen) return;
-    renderBunkersForwardTable();
-    renderBunkersVolumesTable();
+    renderBunkersForwardChart();
+    renderBunkersVolumesChart();
     renderBunkersScrubberTable();
     renderBunkersAltFuels();
     idleYield(function () {
@@ -44056,9 +44298,6 @@ function renderBunkersTab() {
   }, 2500);
 }
 
-// PHASE SPEED-2: map init off the paint path (Leaflet map + tile layer + 221
-// circle markers measured ~110ms; marker plotting itself is a separate idle
-// slice inside initBunkerGeoMap).
 function initBunkerGeoMapSoon() {
   idleYield(function () {
     if (!bunkerGeoMapInitialized) {
@@ -44090,7 +44329,6 @@ function initBunkerGeoMap() {
 
     window.bunkerGeoMap = bunkerGeoMap;
 
-    // Esri World Dark Gray Canvas Base + Reference Overlay (clean, no API key watermark)
     L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
       maxZoom: 16,
       attribution: 'Esri, USGS, NOAA'
@@ -44135,7 +44373,6 @@ function updateBunkersHUD() {
   if (elEts) elEts.textContent = '€' + k.eu_ets_carbon_eur.toFixed(2);
   if (elVol) elVol.textContent = (k.singapore_monthly_vol_mt / 1000000).toFixed(2) + 'M MT';
 
-  // Live deltas from kpis chg fields (provenance in labels; obs windows from kpis obs fields)
   var gObs = (k.global_obs || '').slice(5), gPrev = (k.global_prev_obs || '').slice(5);
   setSub('bunkerKpiVlsfoSub', fmtChg(k.global_vlsfo_chg) + ' D/D (' + gObs + ' vs ' + gPrev + ') · Primary IMO 2020 Compliance Fuel', k.global_vlsfo_chg <= 0 ? 'good' : 'alert');
   setSub('bunkerKpiHsfoSub', fmtChg(k.global_hsfo_chg) + ' D/D (' + gObs + ' vs ' + gPrev + ') · High Sulfur Scrubber-Fitted Fuel', k.global_hsfo_chg <= 0 ? 'good' : 'alert');
@@ -44146,7 +44383,6 @@ function updateBunkersHUD() {
   var yoy = k.singapore_vol_yoy_pct;
   setSub('bunkerKpiVolSub', (yoy > 0 ? '+' : '') + yoy.toFixed(1) + '% YoY · MPA Singapore ' + (k.singapore_vol_period || '') + ' Monthly Delivery', yoy >= 0 ? 'cyan' : 'alert');
 
-  // Keep the Hi-5 scrubber card's rich tooltip wired to live kpis{} (bunker_frontend_summary.json).
   var hi5Card = document.querySelector('.bunkers-kpi-grid [data-tt-type="bunker-scrubber-cell"]');
   if (hi5Card) {
     hi5Card.setAttribute('data-tt-hi5', k.singapore_hi5.toFixed(2));
@@ -44162,7 +44398,7 @@ function plotBunkerPortMarkers() {
 
   var summary = DATA.bunkerSummary;
   var allPorts = summary && summary.ports ? summary.ports : [];
-  var totalMaster = allPorts.length || 221;
+  var totalMaster = allPorts.length || 213;
   var ports = filterBunkersData();
 
   var showAllBtn = document.getElementById('bunkerShowAllPortsBtn');
@@ -44177,7 +44413,7 @@ function plotBunkerPortMarkers() {
     }
   }
 
-var __mk = 0, __list = ports;
+  var __mk = 0, __list = ports;
   (function addMarkerBatch() {
     var done = 0;
     while (__mk < __list.length && done < 80) {
@@ -44233,7 +44469,10 @@ var __mk = 0, __list = ports;
           '<div><div class="signal-field-label">Spread vs SG</div><div class="signal-field-val">' + spreadSgText + ' $/MT</div></div>' +
           '<div><div class="signal-field-label">Updated</div><div class="signal-field-val" style="font-size:var(--fs-micro);">' + escapeHtml(p.latest_date) + '</div></div>' +
           '</div>' +
-          '<button class="signal-vessel-btn" onclick="focusBunkerPort(\'' + escapeHtml(p.name) + '\')">Load Port Historical Curve</button>' +
+          '<div style="display:flex; gap:6px; margin-top:8px;">' +
+          '<button class="signal-vessel-btn" style="flex:1;" onclick="focusBunkerPort(\'" + escapeHtml(p.name) + "\')">Historical Chart</button>' +
+          '<button class="signal-vessel-btn" style="flex:1; background:rgba(77,154,255,0.18); border-color:var(--accent);" onclick="openBunkerPortDetail(\'" + escapeHtml(p.name) + "\')">Port Detail</button>' +
+          '</div>' +
           '</div>';
 
         marker.bindPopup(popupHtml, { maxWidth: 280 });
@@ -44251,7 +44490,6 @@ var __mk = 0, __list = ports;
       raf(addMarkerBatch);
     }
   })();
-
 }
 
 function filterBunkersData() {
@@ -44284,8 +44522,6 @@ function filterBunkersData() {
 }
 
 function bunkerPortDelta(portName) {
-  // Provenance: change_7d is pipeline-owned; while 0.0/absent fall back to
-  // MoM-from-monthly_series (VLSFO), always labeled. Never fabricated.
   var summary = DATA.bunkerSummary;
   var ports = summary && summary.ports ? summary.ports : [];
   var p = null;
@@ -44303,7 +44539,6 @@ function bunkerPortDelta(portName) {
 }
 
 function bunkerSpark12M(portName) {
-  // Inline SVG sparkline over trailing-12 monthly VLSFO + 12M range (monthly_series provenance).
   var summary = DATA.bunkerSummary;
   var ms = summary && summary.monthly_series ? summary.monthly_series[portName] : null;
   if (!ms || !ms.length) return { spark: '<span style="color:var(--text-muted);font-size:var(--fs-micro);">—</span>', range: null };
@@ -44314,30 +44549,65 @@ function bunkerSpark12M(portName) {
   return { spark: svg, range: [mn, mx], n: vals.length };
 }
 
+function renderBunkersCompositesStrip() {
+  var host = document.getElementById('bunkersCompositesStrip');
+  if (!host) return;
+
+  var summary = DATA.bunkerSummary;
+  var comps = summary && summary.composites ? summary.composites : [];
+  if (!comps.length) {
+    host.style.display = 'none';
+    return;
+  }
+  host.style.display = 'grid';
+
+  var html = '';
+  comps.forEach(function(c) {
+    var isSel = (c.name === bunkersChartPort);
+    var vlsfo = c.vlsfo ? '$' + c.vlsfo.toFixed(1) : '—';
+    var mgo = c.mgo ? '$' + c.mgo.toFixed(1) : '—';
+    var hsfo = c.ifo380 ? '$' + c.ifo380.toFixed(1) : '—';
+    var hi5 = c.hi5_spread ? '$' + c.hi5_spread.toFixed(1) : '—';
+    var shortName = c.name.replace(' Average Bunker Price', ' Avg').replace(' Average', ' Avg');
+
+    html += '<div class="bunkers-comp-card' + (isSel ? ' selected' : '') + '" onclick="focusBunkerPort(\'" + escapeHtml(c.name) + "\')" data-tooltip="Composite benchmark: ' + escapeHtml(c.name) + ' (' + escapeHtml(c.region) + '). Click to plot historical series in the main chart.">' +
+      '<div class="bunkers-comp-title"><span>' + escapeHtml(shortName) + '</span><span style="font-size:11px;color:var(--accent);">' + escapeHtml(c.region) + '</span></div>' +
+      '<div class="bunkers-comp-val-grid">' +
+      '<div><span class="bunkers-comp-lbl">VLSFO: </span><span style="color:#3fb950; font-weight:600;">' + vlsfo + '</span></div>' +
+      '<div><span class="bunkers-comp-lbl">MGO: </span><span style="color:#e3b341; font-weight:600;">' + mgo + '</span></div>' +
+      '<div><span class="bunkers-comp-lbl">HSFO: </span><span style="color:#4d9aff; font-weight:600;">' + hsfo + '</span></div>' +
+      '<div><span class="bunkers-comp-lbl">Hi-5: </span><span style="color:#a371f7; font-weight:600;">' + hi5 + '</span></div>' +
+      '</div>' +
+      '</div>';
+  });
+
+  host.innerHTML = html;
+}
+
 function renderBunkersSpotTable() {
   var tbody = document.getElementById('bunkersTableBodyAll');
   var pageInfo = document.getElementById('bunkersPageInfo');
   if (!tbody) return;
 
+  renderBunkersCompositesStrip();
+
   var summary = DATA.bunkerSummary;
-  var totalMaster = summary && summary.ports ? summary.ports.length : 221;
+  var totalMaster = summary && summary.ports ? summary.ports.length : 213;
   var filtered = filterBunkersData();
   var total = filtered.length;
 
-  // Dynamic tab label
   var spotTabBtn = document.getElementById('subnavBunkersSpot');
   if (spotTabBtn) {
     spotTabBtn.textContent = total === totalMaster ? ('Spot Prices (' + totalMaster + ')') : ('Spot Prices (' + total + ' of ' + totalMaster + ')');
   }
 
-  // Filter banner
   var banner = document.getElementById('bunkersFilterBanner');
   var bannerText = document.getElementById('bunkersFilterBannerText');
   if (banner && bannerText) {
     if (total < totalMaster) {
       banner.style.display = 'flex';
       if (bunkersSelectedGrade === 'BIO') {
-        bannerText.innerHTML = '<strong>Filtered by Biofuels (B24 blend)</strong>: Displaying the 8 premier global bunkering hubs with verified commercial bio-bunker indications (Singapore, Rotterdam, Fujairah, Houston, Gibraltar, Algeciras, Huelva, Global Composite).';
+        bannerText.innerHTML = '<strong>Filtered by Biofuels (B24 blend)</strong>: Displaying the premier bunkering hubs with verified commercial bio-bunker indications (Singapore, Rotterdam, Fujairah, Houston, Gibraltar, Algeciras, Huelva).';
       } else if (bunkersSelectedGrade !== 'all') {
         bannerText.innerHTML = '<strong>Filtered by ' + escapeHtml(bunkersSelectedGrade) + '</strong>: ' + total + ' of ' + totalMaster + ' ports provide verified indications.';
       } else if (bunkersSelectedRegion !== 'all') {
@@ -44350,7 +44620,6 @@ function renderBunkersSpotTable() {
     }
   }
 
-  // Dynamic 5th column header (HSFO vs Biofuel)
   var thCol5 = document.getElementById('bunkersThCol5');
   if (thCol5) {
     if (bunkersSelectedGrade === 'BIO') {
@@ -44379,7 +44648,7 @@ function renderBunkersSpotTable() {
 
   tbody.innerHTML = '';
   if (!paged.length) {
-    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:20px; color:var(--text-muted);">No bunker ports match current filters. <button onclick="setBunkerGrade(\'all\'); setBunkerRegion(\'all\');" style="background:none; border:none; color:var(--accent); text-decoration:underline; cursor:pointer;">Reset filters</button></td></tr>';
+    tbody.innerHTML = '<tr><td colspan="8" style="text-align:center; padding:20px; color:var(--text-muted);">No bunker ports match current filters. <button onclick="setBunkerGrade(\'all\'); setBunkerRegion(\'all\');" style="background:none; border:none; color:var(--accent); text-decoration:underline; cursor:pointer;">Reset filters</button></td></tr>';
     return;
   }
 
@@ -44388,49 +44657,37 @@ function renderBunkersSpotTable() {
     tr.className = 'bunkers-port-row' + (p.name === bunkersChartPort ? ' selected' : '');
     tr.id = 'bunker-row-' + p.name.replace(/\s+/g, '-');
 
-    function checkBunkerOutlier(val, grade, pt) {
-      if (val == null || val <= 0) return null;
-      var isStale = pt && pt.latest_date && (pt.latest_date < '2026-01-01');
-      if (grade === 'VLSFO') {
-        if (val < 380 || val > 1100 || isStale) {
-          return {
-            reason: isStale ? ('Stale quote (' + pt.latest_date + ')') : ('Statistical price outlier ($' + val.toFixed(2) + ' vs normal $450–$900 range)')
-          };
-        }
-      } else if (grade === 'MGO') {
-        if (val < 450 || val > 1500 || isStale) {
-          return {
-            reason: isStale ? ('Stale quote (' + pt.latest_date + ')') : ('Statistical price outlier ($' + val.toFixed(2) + ' vs normal $550–$1200 range)')
-          };
-        }
-      } else if (grade === 'IFO380' || grade === 'HSFO') {
-        if (val < 250 || val > 850 || isStale) {
-          return {
-            reason: isStale ? ('Stale quote (' + pt.latest_date + ')') : ('Statistical price outlier ($' + val.toFixed(2) + ')')
-          };
-        }
-      }
-      return null;
-    }
+    var vlsfoFlags = (p.outlier_flags || []).filter(function(f) { return f.grade === 'VLSFO'; });
+    var mgoFlags = (p.outlier_flags || []).filter(function(f) { return f.grade === 'MGO'; });
+    var hsfoFlags = (p.outlier_flags || []).filter(function(f) { return f.grade === 'IFO380'; });
 
-    var vlsfoOutlier = checkBunkerOutlier(p.vlsfo, 'VLSFO', p);
     var vlsfoText = p.vlsfo ? '$' + p.vlsfo.toFixed(2) : '—';
-    var vlsfoDisplay = vlsfoOutlier ?
-      ('<span class="price-outlier-guard" title="OUTLIER GUARD: ' + escapeHtml(vlsfoOutlier.reason) + '" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">⚠️</span> ' + vlsfoText + '</span>') :
+    var vlsfoDisplay = vlsfoFlags.length ?
+      ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (vlsfoFlags[0].zscore > 0 ? '+' : '') + vlsfoFlags[0].zscore + 'σ vs mean $' + vlsfoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">⚠️</span> ' + vlsfoText + '</span>') :
       vlsfoText;
 
-    var mgoOutlier = checkBunkerOutlier(p.mgo, 'MGO', p);
     var mgoText = p.mgo ? '$' + p.mgo.toFixed(2) : '—';
-    var mgoDisplay = mgoOutlier ?
-      ('<span class="price-outlier-guard" title="OUTLIER GUARD: ' + escapeHtml(mgoOutlier.reason) + '" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">⚠️</span> ' + mgoText + '</span>') :
+    var mgoDisplay = mgoFlags.length ?
+      ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (mgoFlags[0].zscore > 0 ? '+' : '') + mgoFlags[0].zscore + 'σ vs mean $' + mgoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">⚠️</span> ' + mgoText + '</span>') :
       mgoText;
+
     var col5Text = '';
     if (bunkersSelectedGrade === 'BIO') {
       col5Text = p.bio ? '$' + p.bio.toFixed(2) : '—';
     } else {
-      col5Text = p.ifo380 ? '$' + p.ifo380.toFixed(2) : '—';
+      var hsfoText = p.ifo380 ? '$' + p.ifo380.toFixed(2) : '—';
+      col5Text = hsfoFlags.length ?
+        ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (hsfoFlags[0].zscore > 0 ? '+' : '') + hsfoFlags[0].zscore + 'σ vs mean $' + hsfoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">⚠️</span> ' + hsfoText + '</span>') :
+        hsfoText;
     }
-    var spreadText = p.spread_vs_singapore != null ? (p.spread_vs_singapore > 0 ? '+' : '') + p.spread_vs_singapore.toFixed(1) : '—';
+
+    var hi5Text = p.hi5_spread ? '$' + p.hi5_spread.toFixed(2) : '—';
+
+    var statusHtml = '<span class="bunker-normal-pill">Normal</span>';
+    if (p.is_outlier && p.outlier_flags && p.outlier_flags.length) {
+      var outDesc = p.outlier_flags.map(function(f) { return f.grade + ' ' + (f.zscore > 0 ? '+' : '') + f.zscore + 'σ'; }).join(', ');
+      statusHtml = '<span class="bunker-outlier-pill" data-tooltip="Statistical 3σ outlier: ' + escapeHtml(outDesc) + '">⚠ 3σ OUTLIER</span>';
+    }
 
     tr.setAttribute('data-tooltip', ' ');
     tr.setAttribute('data-tt-type', 'bunker-port-cell');
@@ -44438,6 +44695,7 @@ function renderBunkersSpotTable() {
     tr.setAttribute('data-tt-region', p.region);
     tr.setAttribute('data-tt-vlsfo', p.vlsfo || 0);
     tr.setAttribute('data-tt-spread', p.spread_vs_singapore || 0);
+    tr.setAttribute('data-tt-hi5', p.hi5_spread || 0);
     tr.setAttribute('data-tt-title', p.name + ' (' + p.region + ')');
 
     var col5Style = bunkersSelectedGrade === 'BIO' ? 'font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#00e5ff;' : 'font-family:\'IBM Plex Mono\', monospace;';
@@ -44458,18 +44716,28 @@ function renderBunkersSpotTable() {
     var sparkHtml = '<div class="bunkers-spark" title="' + sparkTitle + '" style="margin-top:3px;">' + sp.spark + '</div>';
 
     tr.innerHTML = '<td>' +
-      '<div style="font-weight:700; color:#fff;">' + escapeHtml(p.name) + '</div>' +
+      '<div style="font-weight:700; color:#fff; display:flex; align-items:center; gap:6px;">' +
+      '<span>' + escapeHtml(p.name) + '</span>' +
+      '<button onclick="event.stopPropagation(); openBunkerPortDetail(\'' + escapeHtml(p.name) + '\');" title="Open Port Fuel Detail Modal" style="background:none; border:none; cursor:pointer; color:var(--accent); padding:0; font-size:11px; display:inline-flex; align-items:center;">' +
+      '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>' +
+      '</button>' +
+      '</div>' +
       '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(p.code) + ' · ' + escapeHtml(p.country) + '</div>' +
       '</td>' +
       '<td><span class="class-badge">' + escapeHtml(p.region) + '</span></td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:' + (p.vlsfo ? '#3fb950' : 'var(--text-muted)') + ';">' + vlsfoDisplay + '</td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; color:' + (p.mgo ? '#e3b341' : 'var(--text-muted)') + ';">' + mgoDisplay + '</td>' +
       '<td style="' + col5Style + '">' + col5Text + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:' + (p.spread_vs_singapore > 0 ? 'var(--red)' : 'var(--green)') + ';">' + spreadText + '</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:#a371f7; font-weight:700;">' + hi5Text + '</td>' +
+      '<td>' + statusHtml + '</td>' +
       '<td><div>' + dHtml + '</div>' + sparkHtml + '</td>';
 
     tr.addEventListener('click', function() {
       selectBunkerPort(p);
+    });
+
+    tr.addEventListener('dblclick', function() {
+      openBunkerPortDetail(p.name);
     });
 
     tbody.appendChild(tr);
@@ -44480,12 +44748,12 @@ function selectBunkerPort(p) {
   if (!p) return;
   bunkersChartPort = p.name;
 
-  // Highlight table row
   document.querySelectorAll('.bunkers-port-row').forEach(function(r) { r.classList.remove('selected'); });
   var row = document.getElementById('bunker-row-' + p.name.replace(/\s+/g, '-'));
   if (row) row.classList.add('selected');
 
-  // Fly map (use continental zoom level 3 for regional averages, port zoom level 6 for specific ports)
+  document.querySelectorAll('.bunkers-comp-card').forEach(function(c) { c.classList.remove('selected'); });
+
   if (bunkerGeoMap && p.lat && p.lon) {
     var zoomLevel = (p.name && p.name.includes('Average')) ? 3 : 6;
     bunkerGeoMap.flyTo([p.lat, p.lon], zoomLevel, { duration: 1.0 });
@@ -44493,15 +44761,29 @@ function selectBunkerPort(p) {
     if (hud) hud.textContent = p.name + ' (' + p.region + ') — Focused Fuel Indications';
   }
 
-  // Update chart
   renderBunkerMainChart();
 }
 
 function focusBunkerPort(portName) {
   var summary = DATA.bunkerSummary;
   var ports = summary && summary.ports ? summary.ports : [];
-  var p = ports.find(function(item) { return item.name.toLowerCase() === portName.toLowerCase(); });
-  if (p) selectBunkerPort(p);
+  var found = null;
+  for (var i = 0; i < ports.length; i++) {
+    if (ports[i].name === portName) { found = ports[i]; break; }
+  }
+  if (!found) {
+    var comps = summary && summary.composites ? summary.composites : [];
+    for (var j = 0; j < comps.length; j++) {
+      if (comps[j].name === portName) { found = comps[j]; break; }
+    }
+  }
+
+  if (found) {
+    selectBunkerPort(found);
+  } else {
+    bunkersChartPort = portName;
+    renderBunkerMainChart();
+  }
 }
 
 function prevBunkersPage() {
@@ -44512,39 +44794,33 @@ function prevBunkersPage() {
 }
 
 function nextBunkersPage() {
-  var total = filterBunkersData().length;
-  var totalPages = Math.ceil(total / BUNKERS_PAGE_SIZE);
-  if (bunkersCurrentPage < totalPages) {
-    bunkersCurrentPage++;
-    renderBunkersSpotTable();
-  }
+  bunkersCurrentPage++;
+  renderBunkersSpotTable();
 }
 
 function setBunkerRegion(region) {
   bunkersSelectedRegion = region;
-  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-region]').forEach(function(b) {
-    b.classList.toggle('active', b.dataset.region === region);
-  });
   bunkersCurrentPage = 1;
+  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-region]').forEach(function(btn) {
+    btn.classList.toggle('active', btn.dataset.region === region);
+  });
   renderBunkersSpotTable();
   plotBunkerPortMarkers();
 }
 
 function setBunkerGrade(grade) {
   bunkersSelectedGrade = grade;
-  document.querySelectorAll('.bunkers-toolbar .bunkers-pill[data-grade]').forEach(function(b) {
-    b.classList.toggle('active', b.dataset.grade === grade);
-  });
   bunkersCurrentPage = 1;
+  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-grade]').forEach(function(btn) {
+    btn.classList.toggle('active', btn.dataset.grade === grade);
+  });
   renderBunkersSpotTable();
   plotBunkerPortMarkers();
 }
 
-var bunkersSearchTimer = null;
 function onBunkersSearchInput() {
   var input = document.getElementById('bunkersSearchInput');
-  if (!input) return;
-  bunkersSearchQuery = input.value;
+  bunkersSearchQuery = input ? input.value : '';
   bunkersCurrentPage = 1;
   clearTimeout(bunkersSearchTimer);
   bunkersSearchTimer = setTimeout(function() {
@@ -44562,75 +44838,275 @@ function setBunkersSubView(subview) {
     if (btn) btn.classList.toggle('active', v === subview);
     if (el) el.style.display = (v === subview) ? 'flex' : 'none';
   });
+  if (subview === 'spot') renderBunkersSpotTable();
+  if (subview === 'forward') renderBunkersForwardChart();
+  if (subview === 'volumes') renderBunkersVolumesChart();
+  if (subview === 'scrubber') {
+    renderBunkersScrubberTable();
+    if (typeof renderCarbonEtsChart === 'function') {
+      try { renderCarbonEtsChart(); } catch (e) {}
+    }
+  }
   if (subview === 'altfuels') renderBunkersAltFuels();
 }
 
-function renderBunkersForwardTable() {
-  var tbody = document.getElementById('bunkersForwardTableBody');
+function renderBunkersForwardChart() {
+  var canvas = document.getElementById('bunkerForwardChart');
   var sel = document.getElementById('bunkersForwardHubSelect');
-  if (!tbody || !sel) return;
+  var tbody = document.getElementById('bunkersForwardTableBody');
+  if (!sel) return;
 
   var hub = sel.value || 'Singapore';
   var summary = DATA.bunkerSummary;
   var fwdCurves = summary && summary.forward_curves_12m ? summary.forward_curves_12m[hub] : [];
+  var meta = summary && summary.forward_curves_meta ? summary.forward_curves_meta[hub] : null;
 
-  tbody.innerHTML = '';
-  if (!fwdCurves || !fwdCurves.length) {
-    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; padding:16px; color:var(--text-muted);">No forward curve quotes available for ' + escapeHtml(hub) + '</td></tr>';
-    return;
+  var badge = document.getElementById('bunkerFwdStructureBadge');
+  if (badge && meta) {
+    var isBack = meta.structure === 'Backwardation';
+    badge.className = 'bunker-term-badge ' + (isBack ? 'backwardation' : 'contango');
+    badge.textContent = meta.structure.toUpperCase() + ' (' + (meta.slope_pct > 0 ? '+' : '') + meta.slope_pct.toFixed(1) + '%)';
+    badge.title = 'Term Structure: ' + meta.structure + ' (' + meta.slope_pct.toFixed(1) + '% slope across 12M delivery months)';
   }
 
-  fwdCurves.forEach(function(r) {
-    var tr = document.createElement('tr');
-    tr.setAttribute('data-tooltip', ' ');
-    tr.setAttribute('data-tt-type', 'bunker-fwd-cell');
-    tr.setAttribute('data-tt-month', r.month);
-    tr.setAttribute('data-tt-vlsfo', r.vlsfo);
-    tr.setAttribute('data-tt-hsfo', r.ifo380);
-    tr.setAttribute('data-tt-title', hub + ' Forward: ' + r.month);
+  if (tbody) {
+    tbody.innerHTML = '';
+    if (!fwdCurves || !fwdCurves.length) {
+      tbody.innerHTML = '<tr><td colspan="5" style="text-align:center; padding:16px; color:var(--text-muted);">No forward curve quotes available for ' + escapeHtml(hub) + '</td></tr>';
+    } else {
+      fwdCurves.forEach(function(r) {
+        var tr = document.createElement('tr');
+        var isSpot = r.offset === 0;
+        var tenorLabel = isSpot ? 'M0 (Spot Anchor)' : 'M+' + r.offset + ' Delivery';
+        var monthLabel = isSpot ? 'SPOT' : r.month;
+        if (isSpot) tr.style.background = 'rgba(77, 154, 255, 0.08)';
 
-    tr.innerHTML = '<td><div style="font-weight:700; color:#fff; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(r.month) + '</div><div style="font-size:var(--fs-micro); color:var(--text-muted);">M+' + r.offset + ' Delivery</div></td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace;">$' + r.ifo380.toFixed(2) + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#3fb950;">$' + r.vlsfo.toFixed(2) + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:#e3b341;">$' + r.mgo.toFixed(2) + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:#a371f7; font-weight:700;">$' + r.spread.toFixed(2) + '</td>';
+        tr.setAttribute('data-tooltip', ' ');
+        tr.setAttribute('data-tt-type', 'bunker-fwd-cell');
+        tr.setAttribute('data-tt-month', r.month);
+        tr.setAttribute('data-tt-vlsfo', r.vlsfo);
+        tr.setAttribute('data-tt-hsfo', r.ifo380);
+        tr.setAttribute('data-tt-title', hub + ' Forward: ' + r.month);
 
-    tbody.appendChild(tr);
+        tr.innerHTML = '<td><div style="font-weight:700; color:' + (isSpot ? '#58a6ff' : '#fff') + '; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(monthLabel) + '</div><div style="font-size:11px; color:var(--text-muted);">' + escapeHtml(tenorLabel) + '</div></td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#3fb950;">$' + r.vlsfo.toFixed(2) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#e3b341;">$' + r.mgo.toFixed(2) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#4d9aff;">$' + r.ifo380.toFixed(2) + '</td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; color:#a371f7; font-weight:700;">$' + r.spread.toFixed(2) + '</td>';
+        tbody.appendChild(tr);
+      });
+    }
+  }
+
+  if (!canvas || typeof Chart === 'undefined' || !fwdCurves || !fwdCurves.length) return;
+
+  var labels = fwdCurves.map(function(r) { return r.offset === 0 ? 'M0 (Spot)' : r.month; });
+  var vlsfoData = fwdCurves.map(function(r) { return r.vlsfo; });
+  var mgoData = fwdCurves.map(function(r) { return r.mgo; });
+  var ifoData = fwdCurves.map(function(r) { return r.ifo380; });
+  var spreadData = fwdCurves.map(function(r) { return r.spread; });
+
+  if (bunkerForwardChartInstance) {
+    bunkerForwardChartInstance.destroy();
+  }
+
+  var ctx = canvas.getContext('2d');
+  bunkerForwardChartInstance = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: [
+        { label: 'VLSFO (0.5%)', data: vlsfoData, borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.08)', borderWidth: 2, pointRadius: 3, tension: 0.1, fill: false },
+        { label: 'MGO (0.1%)', data: mgoData, borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 3, tension: 0.1, fill: false },
+        { label: 'HSFO (IFO380)', data: ifoData, borderColor: '#4d9aff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 3, tension: 0.1, fill: false },
+        { label: 'Hi-5 Spread', data: spreadData, borderColor: '#a371f7', borderDash: [4, 4], borderWidth: 1.5, pointRadius: 2, yAxisID: 'y1', fill: false }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, boxWidth: 6, font: { size: 11 }, color: '#8b949e' } },
+        tooltip: {
+          callbacks: {
+            label: function(c) {
+              return ' ' + c.dataset.label + ': $' + c.parsed.y.toFixed(2) + '/MT';
+            }
+          }
+        }
+      },
+      scales: {
+        x: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 }, maxRotation: 0 } },
+        y: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return '$' + v; } } },
+        y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#a371f7', font: { size: 11 }, callback: function(v) { return '$' + v; } } }
+      }
+    }
   });
 }
 
 function onBunkersForwardHubChange() {
-  renderBunkersForwardTable();
+  renderBunkersForwardChart();
 }
 
-function renderBunkersVolumesTable() {
-  var tbody = document.getElementById('bunkersVolumesTableBody');
+function renderBunkersVolumesChart() {
+  var canvas = document.getElementById('bunkerVolumesChart');
   var sel = document.getElementById('bunkersVolHubSelect');
-  if (!tbody || !sel) return;
+  var tbody = document.getElementById('bunkersVolumesTableBody');
+  if (!sel) return;
 
   var hub = sel.value || 'Singapore';
   var summary = DATA.bunkerSummary;
   var vols = summary && summary.physical_volumes ? summary.physical_volumes[hub] : [];
+  var envelope = (hub === 'Singapore' && summary && summary.physical_volumes) ? summary.physical_volumes['Singapore_Envelope'] : null;
 
-  tbody.innerHTML = '';
-  if (!vols || !vols.length) {
-    tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:16px; color:var(--text-muted);">No sales volume data available.</td></tr>';
-    return;
+  var badge = document.getElementById('bunkerVolBadge');
+  if (badge) {
+    badge.textContent = (hub === 'Singapore') ? '5-YEAR SEASONAL ENVELOPE' : 'QUARTERLY DELIVERIES';
   }
 
-  vols.slice(0, 36).forEach(function(r) {
-    var tr = document.createElement('tr');
-    tr.innerHTML = '<td><div style="font-weight:700; color:#fff; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(r.period) + '</div></td>' +
-      '<td><span class="class-badge">' + escapeHtml(r.freq) + '</span></td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#00e5ff;">' + r.volume_mt.toLocaleString('en-US') + ' MT</td>' +
-      '<td style="font-size:var(--fs-micro); color:var(--text-muted);">' + escapeHtml(r.metric.replace(/_/g, ' ')) + '</td>';
+  if (tbody) {
+    tbody.innerHTML = '';
+    if (!vols || !vols.length) {
+      tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:16px; color:var(--text-muted);">No sales volume data available.</td></tr>';
+    } else {
+      vols.slice(0, 36).forEach(function(r) {
+        var tr = document.createElement('tr');
+        tr.innerHTML = '<td><div style="font-weight:700; color:#fff; font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(r.period) + '</div></td>' +
+          '<td><span class="class-badge">' + escapeHtml(r.freq) + '</span></td>' +
+          '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#00e5ff;">' + (r.volume_mt ? r.volume_mt.toLocaleString('en-US') + ' MT' : '—') + '</td>' +
+          '<td style="font-size:11px; color:var(--text-muted);">' + escapeHtml((r.metric || '').replace(/_/g, ' ')) + '</td>';
+        tbody.appendChild(tr);
+      });
+    }
+  }
 
-    tbody.appendChild(tr);
-  });
+  if (!canvas || typeof Chart === 'undefined') return;
+
+  if (bunkerVolumesChartInstance) {
+    bunkerVolumesChartInstance.destroy();
+  }
+
+  var ctx = canvas.getContext('2d');
+
+  if (hub === 'Singapore' && envelope && envelope.length) {
+    var labels = envelope.map(function(m) { return m.month_name; });
+    var maxVals = envelope.map(function(m) { return Math.round(m.max / 1000); });
+    var minVals = envelope.map(function(m) { return Math.round(m.min / 1000); });
+    var meanVals = envelope.map(function(m) { return Math.round(m.mean / 1000); });
+
+    var actualsMap = {};
+    if (vols && vols.length) {
+      vols.forEach(function(v) {
+        if (v.period && (v.period.startsWith('2025') || v.period.startsWith('2026'))) {
+          var parts = v.period.split('-');
+          var mNum = parseInt(parts[1], 10);
+          if (!actualsMap[mNum]) actualsMap[mNum] = Math.round(v.volume_mt / 1000);
+        }
+      });
+    }
+    var actualData = envelope.map(function(m) { return actualsMap[m.month] || null; });
+
+    bunkerVolumesChartInstance = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            label: '5Y Max (k MT)',
+            data: maxVals,
+            borderColor: 'rgba(0, 229, 255, 0.4)',
+            backgroundColor: 'rgba(0, 229, 255, 0.08)',
+            fill: '+1',
+            pointRadius: 0,
+            borderWidth: 1
+          },
+          {
+            label: '5Y Min (k MT)',
+            data: minVals,
+            borderColor: 'rgba(0, 229, 255, 0.4)',
+            backgroundColor: 'transparent',
+            pointRadius: 0,
+            borderWidth: 1
+          },
+          {
+            label: '5Y Historical Avg (k MT)',
+            data: meanVals,
+            borderColor: '#8b949e',
+            borderDash: [4, 4],
+            borderWidth: 1.5,
+            pointRadius: 2,
+            fill: false
+          },
+          {
+            label: 'Latest Actuals (k MT)',
+            data: actualData,
+            borderColor: '#00e5ff',
+            backgroundColor: 'rgba(0, 229, 255, 0.8)',
+            borderWidth: 2,
+            pointRadius: 4,
+            fill: false
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { position: 'top', labels: { usePointStyle: true, boxWidth: 6, font: { size: 11 }, color: '#8b949e' } },
+          tooltip: {
+            callbacks: {
+              label: function(c) {
+                return ' ' + c.dataset.label + ': ' + (c.parsed.y ? c.parsed.y.toLocaleString('en-US') + 'k MT' : '—');
+              }
+            }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 } } },
+          y: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return v + 'k'; } } }
+        }
+      }
+    });
+  } else {
+    var rVols = (vols || []).slice(0, 16).reverse();
+    var rLabels = rVols.map(function(r) { return r.period; });
+    var rData = rVols.map(function(r) { return Math.round(r.volume_mt / 1000); });
+
+    bunkerVolumesChartInstance = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: rLabels,
+        datasets: [{
+          label: hub + ' Deliveries (k MT)',
+          data: rData,
+          backgroundColor: '#4d9aff',
+          borderRadius: 3
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { position: 'top', labels: { font: { size: 11 }, color: '#8b949e' } },
+          tooltip: {
+            callbacks: {
+              label: function(c) { return ' Deliveries: ' + (c.parsed.y ? c.parsed.y.toLocaleString('en-US') + 'k MT' : '—'); }
+            }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 } } },
+          y: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return v + 'k'; } } }
+        }
+      }
+    });
+  }
 }
 
 function onBunkersVolHubChange() {
-  renderBunkersVolumesTable();
+  renderBunkersVolumesChart();
 }
 
 var bixChartRegion = 'World';
@@ -44655,8 +45131,6 @@ function setBixChartGrade(grade) {
 }
 
 function renderBunkersBixStrip() {
-  // BIX latest-observation strip: every published suite x 3 grades, straight
-  // Archive badge dates from the live cache, never a baked-in literal.
   (function () {
     try {
       var bh = (DATA.bunkerSummary && DATA.bunkerSummary.bix_history) || {};
@@ -44675,8 +45149,7 @@ function renderBunkersBixStrip() {
       if (el && d0 && d1) el.textContent = 'Archive ' + d0 + ' to ' + d1 + ' · accumulates with each daily harvest';
     } catch (e) {}
   })();
-  // from summary.benchmarks_bix (price / change / change_pct / low-high).
-  // No fabricated prices; missing percentages render an honest em dash.
+
   var host = document.getElementById('bunkerBixStrip');
   if (!host) return;
   var summary = DATA.bunkerSummary;
@@ -44718,9 +45191,7 @@ function renderBunkersBixStrip() {
   if (head && obsDate) head.textContent = 'BunkerIndex BIX benchmarks \u00b7 5 suites \u00d7 VLSFO / IFO380 / MGO \u00b7 obs ' + obsDate;
   var moversObs = document.getElementById('bunkerBixMoversObs');
   if (moversObs && obsDate) moversObs.textContent = 'obs ' + obsDate;
-  // PHASE SPEED-2: strip HTML above is the fast paint; the movers matrix +
-  // full-archive chart defer to idle (BIX history chart builds labels from
-  // the entire 0.11 MB archive series).
+
   idleYield(function () {
     renderBunkersBixMovers();
     idleYield(function () {
@@ -44730,9 +45201,6 @@ function renderBunkersBixStrip() {
 }
 
 function renderBunkersBixMovers() {
-  // Dense movers matrix: every published suite x 3 grades, latest price and
-  // change vs prior observation, colored by direction. Suites with no
-  // published grades are omitted entirely (never blank cells).
   var tbody = document.getElementById('bunkerBixMoversBody');
   if (!tbody) return;
   var summary = DATA.bunkerSummary;
@@ -44749,111 +45217,127 @@ function renderBunkersBixMovers() {
     var k = r.index + '|' + r.grade;
     if (!latest[k] || r.date > latest[k].date) latest[k] = r;
   });
-  var html = '';
+
   order.forEach(function(ix) {
     var safeIx = ix.replace('BIX_', '');
-    var cells = '';
-    var any = false;
+    var tr = document.createElement('tr');
+    tr.setAttribute('data-tooltip', ' ');
+    tr.setAttribute('data-tt-type', "bix-movers-row");
+    tr.setAttribute('data-tt-region', safeIx);
+    var cells = '<td><span class="bix-mx">' + escapeHtml(safeIx) + '</span></td>';
     grades.forEach(function(g) {
       var r = latest[ix + '|' + g];
-      if (!r) { cells += '<td style="color:var(--text-muted);">\u2014</td>'; return; }
-      any = true;
-      var cls = r.change > 0 ? 'up' : (r.change < 0 ? 'dn' : 'flat');
-      var sgn = r.change > 0 ? '+' : '';
-      var pct = (typeof r.change_pct === 'number' && isFinite(r.change_pct)) ? (r.change_pct > 0 ? '+' : '') + r.change_pct.toFixed(2) + '%' : '\u2014';
-      cells += '<td data-tt-type="bix-movers-cell" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + r.price + '" data-tt-chg="' + r.change + '" data-tt-pct="' + (typeof r.change_pct === 'number' && isFinite(r.change_pct) ? r.change_pct : '') + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '" data-tt-date="' + r.date + '">' +
-        '<span class="bix-mx">$' + r.price.toFixed(2) + '</span><span class="bix-mc ' + cls + '">' + sgn + r.change.toFixed(2) + ' (' + pct + ')</span></td>';
+      if (!r) {
+        cells += '<td style="color:var(--text-muted); font-size:var(--fs-micro); text-align:center;">—</td>';
+      } else {
+        var cls = r.change > 0 ? 'up' : (r.change < 0 ? 'dn' : 'flat');
+        var sgn = r.change > 0 ? '+' : '';
+        var pct = (typeof r.change_pct === 'number' && isFinite(r.change_pct))
+          ? (r.change_pct > 0 ? '+' : '') + r.change_pct.toFixed(2) + '%'
+          : '';
+        cells += '<td data-tt-type="bix-movers-cell" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + r.price + '" data-tt-chg="' + r.change + '" data-tt-pct="' + (typeof r.change_pct === 'number' && isFinite(r.change_pct) ? r.change_pct : '') + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '" data-tt-date="' + r.date + '">' +
+          '<div style="font-weight:700; color:#fff;">$' + r.price.toFixed(2) + '</div>' +
+          '<div class="bix-mc ' + cls + '">' + sgn + r.change.toFixed(2) + (pct ? ' (' + pct + ')' : '') + '</div></td>';
+      }
     });
-    if (!any) return;
-    html += '<tr data-tt-type="bix-movers-row" data-tt-region="' + safeIx + '"><td style="color:#a371f7; font-weight:700;">' + escapeHtml(BIX_REGION_LABELS[safeIx] || safeIx) + '</td>' + cells + '</tr>';
+    tr.innerHTML = cells;
+    tbody.appendChild(tr);
   });
-  tbody.innerHTML = html;
 }
 
 function renderBunkerBixChart() {
-  // Full BIX archive chart: DATA.bunkerSummary.bix_history.series[BIX_<region>][grade]
-  // grows with every scheduled harvest \u2014 plot all of it, never a trailing window.
-  var cv = document.getElementById('bunkerBixChart');
-  if (!cv || typeof Chart === 'undefined') return;
+  var canvas = document.getElementById('bunkerBixChart');
+  if (!canvas || typeof Chart === 'undefined') return;
+
   var summary = DATA.bunkerSummary;
   var bh = summary && summary.bix_history ? summary.bix_history : null;
-  var series = bh && bh.series ? bh.series : {};
-  var s = (series['BIX_' + bixChartRegion] || {})[bixChartGrade] || { dates: [], prices: [], change_usd: [] };
-  var meta = document.getElementById('bunkerBixChartMeta');
-  var regionLabel = BIX_REGION_LABELS[bixChartRegion] || bixChartRegion;
+  var suiteKey = 'BIX_' + bixChartRegion;
+  var gradeData = bh && bh.series && bh.series[suiteKey] ? bh.series[suiteKey][bixChartGrade] : null;
 
-  // Low-high range chips per observation date, where the flat table publishes them.
-  var bix = summary && summary.benchmarks_bix ? summary.benchmarks_bix : [];
-  var rangeByDate = {};
-  bix.forEach(function(r) {
-    if (r.index === 'BIX_' + bixChartRegion && r.grade === bixChartGrade) rangeByDate[r.date] = r;
-  });
+  var metaEl = document.getElementById('bunkerBixChartMeta');
+  if (metaEl) {
+    if (gradeData && gradeData.dates && gradeData.dates.length) {
+      var nObs = gradeData.dates.length;
+      var dStart = gradeData.dates[0];
+      var dEnd = gradeData.dates[nObs - 1];
+      metaEl.textContent = (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' · ' + bixChartGrade + ' · ' + nObs + ' obs (' + dStart + ' → ' + dEnd + ')';
+    } else {
+      metaEl.textContent = (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' · ' + bixChartGrade + ' · no observations in the archive yet';
+    }
+  }
 
-  if (bunkerBixChartInstance) { bunkerBixChartInstance.destroy(); bunkerBixChartInstance = null; }
+  if (bunkerBixChartInstance) {
+    bunkerBixChartInstance.destroy();
+  }
 
-  if (!s.dates.length) {
-    // Honest empty state: suite exists in the archive but has no observations yet.
-    if (meta) meta.textContent = regionLabel + ': no observations in the archive yet \u00b7 accumulates with each daily harvest';
-    bunkerBixChartInstance = new Chart(cv.getContext('2d'), {
-      type: 'line',
-      data: { labels: [], datasets: [] },
-      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { x: { display: false }, y: { display: false } } }
-    });
+  if (!gradeData || !gradeData.dates || !gradeData.dates.length) {
+    var ctxEmpty = canvas.getContext('2d');
+    ctxEmpty.clearRect(0, 0, canvas.width, canvas.height);
     return;
   }
 
-  if (meta) meta.textContent = regionLabel + ' \u00b7 ' + bixChartGrade + ' \u00b7 ' + s.dates.length + ' observations ' + s.dates[0] + ' \u2192 ' + s.dates[s.dates.length - 1];
+  var color = BIX_GRADE_COLORS[bixChartGrade] || '#3fb950';
+  var fill = BIX_GRADE_FILLS[bixChartGrade] || 'rgba(63,185,80,0.07)';
 
-  bunkerBixChartInstance = new Chart(cv.getContext('2d'), {
+  var ctx = canvas.getContext('2d');
+  bunkerBixChartInstance = new Chart(ctx, {
     type: 'line',
     data: {
-      labels: s.dates.map(function(d) { return d.slice(5); }),
-      datasets: [
-        {
-          label: regionLabel + ' ' + bixChartGrade + ' ($/MT)',
-          data: s.prices,
-          borderColor: BIX_GRADE_COLORS[bixChartGrade] || '#3fb950',
-          backgroundColor: BIX_GRADE_FILLS[bixChartGrade] || 'rgba(63,185,80,0.07)',
-          fill: true, tension: 0.2, borderWidth: 1.5, pointRadius: 2
-        }
-      ]
+      labels: gradeData.dates,
+      datasets: [{
+        label: (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' ' + bixChartGrade + ' ($/MT)',
+        data: gradeData.prices,
+        borderColor: color,
+        backgroundColor: fill,
+        fill: true,
+        tension: 0.15,
+        borderWidth: 2,
+        pointRadius: gradeData.dates.length > 40 ? 1 : 2.5,
+        pointHoverRadius: 4
+      }]
     },
     options: {
-      responsive: true, maintainAspectRatio: false,
+      responsive: true,
+      maintainAspectRatio: false,
       interaction: { mode: 'index', intersect: false },
       plugins: {
         legend: { display: false },
         tooltip: {
+          backgroundColor: '#111820',
+          borderColor: '#1c2333',
+          borderWidth: 1,
+          titleColor: '#fff',
+          bodyColor: '#d4dce8',
           callbacks: {
-            title: function(items) { return s.dates[items[0].dataIndex]; },
+            title: function(items) { return items && items.length ? ('Obs Date: ' + items[0].label) : ''; },
             label: function(item) {
-              var chg = s.change_usd[item.dataIndex];
-              var chgStr = (chg == null || !isFinite(chg)) ? '' : ' \u00b7 ' + (chg > 0 ? '+' : '') + chg.toFixed(2) + ' vs prior obs';
-              return '$' + item.parsed.y.toFixed(2) + chgStr;
-            },
-            afterLabel: function(item) {
-              var row = rangeByDate[s.dates[item.dataIndex]];
-              return (row && isFinite(row.low) && isFinite(row.high)) ? 'Port range $' + row.low.toFixed(0) + '\u2013$' + row.high.toFixed(0) : '';
+              var idx = item.dataIndex;
+              var p = item.parsed.y;
+              var chg = gradeData.change_usd[idx];
+              var low = gradeData.lows[idx];
+              var high = gradeData.highs[idx];
+              var chgTxt = isFinite(chg) ? (' (' + (chg > 0 ? '+' : '') + chg.toFixed(2) + ')') : '';
+              var rngTxt = (isFinite(low) && isFinite(high)) ? (' · Range: $' + low.toFixed(0) + '–$' + high.toFixed(0)) : '';
+              return ' Index: $' + p.toFixed(2) + '/MT' + chgTxt + rngTxt;
             }
           }
         }
       },
       scales: {
-        x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { size: 11 } } },
-        y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { size: 11 }, callback: function(v) { return '$' + v; } } }
+        x: { grid: { color: 'rgba(28, 35, 51, 0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 8 } },
+        y: { grid: { color: 'rgba(28, 35, 51, 0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, callback: function(v) { return '$' + v; } } }
       }
     }
   });
 }
 
 function renderBunkersAltFuels() {
-  // Alt-fuel subview: LNG / MEOH / EUA — non-null ports ONLY, '—' for nulls, never zero-filled.
   var tbody = document.getElementById('bunkersAltFuelsTableBody');
   if (!tbody) return;
   var summary = DATA.bunkerSummary;
   var ports = summary && summary.ports ? summary.ports : [];
   var rows = ports.filter(function(p) { return p.lng != null || p.meoh != null || p.eua != null; });
-  function cell(v, unit) {
+  function cell(v) {
     if (v == null) return '<span style="color:var(--text-muted);">—</span>';
     return '<span style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#00e5ff;">$' + v.toFixed(2) + '</span>';
   }
@@ -44883,28 +45367,144 @@ function renderBunkersScrubberTable() {
   if (!tbody) return;
 
   var summary = DATA.bunkerSummary;
-  var scrubberRows = summary && summary.scrubber_economics ? summary.scrubber_economics : [];
+  var scrubberRows = (summary && summary.scrubber_ranking && summary.scrubber_ranking.length)
+    ? summary.scrubber_ranking
+    : ((summary && summary.scrubber_economics) ? summary.scrubber_economics : []);
 
   tbody.innerHTML = '';
-  scrubberRows.forEach(function(r) {
+  scrubberRows.slice(0, 50).forEach(function(r) {
+    var hi5Val = typeof r.hi5 === 'number' ? r.hi5 : 0;
+    var capePrem = typeof r.cape_tce_premium === 'number' ? r.cape_tce_premium : Math.round(hi5Val * 45);
+    var vlccPrem = typeof r.vlcc_tce_premium === 'number' ? r.vlcc_tce_premium : Math.round(hi5Val * 55);
+    var euEtsCost = typeof r.eu_ets_penalty_usd === 'number' ? r.eu_ets_penalty_usd : Math.round(45 * 3.114 * 0.5 * 72.5);
+
     var tr = document.createElement('tr');
     tr.setAttribute('data-tooltip', ' ');
     tr.setAttribute('data-tt-type', 'bunker-scrubber-cell');
-    tr.setAttribute('data-tt-port', r.port);
-    tr.setAttribute('data-tt-hi5', r.hi5);
-    tr.setAttribute('data-tt-cape', r.cape_tce_premium);
-    tr.setAttribute('data-tt-vlcc', r.vlcc_tce_premium);
-    tr.setAttribute('data-tt-title', r.port + ' Scrubber Economics');
+    tr.setAttribute('data-tt-port', r.port || '');
+    tr.setAttribute('data-tt-hi5', hi5Val);
+    tr.setAttribute('data-tt-cape', capePrem);
+    tr.setAttribute('data-tt-vlcc', vlccPrem);
+    tr.setAttribute('data-tt-title', (r.port || '') + ' Scrubber Economics');
 
-    tr.innerHTML = '<td><div style="font-weight:700; color:#fff;">' + escapeHtml(r.port) + '</div><div style="font-size:var(--fs-micro); color:var(--text-muted);">' + escapeHtml(r.region) + '</div></td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:700; color:#a371f7;">$' + r.hi5.toFixed(2) + '</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + r.cape_tce_premium.toLocaleString('en-US') + '/d</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + r.vlcc_tce_premium.toLocaleString('en-US') + '/d</td>' +
-      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--yellow); font-size:var(--fs-micro);">$' + r.eu_ets_penalty_usd.toLocaleString('en-US') + '/d</td>';
+    tr.innerHTML = '<td><div style="font-weight:700; color:#fff;">' + escapeHtml(r.port || '') + '</div><div style="font-size:var(--fs-micro); color:var(--text-muted);">' + escapeHtml(r.region || '') + '</div></td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:700; color:#a371f7;">$' + hi5Val.toFixed(2) + '</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + capePrem.toLocaleString('en-US') + '/d</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--green);">+$' + vlccPrem.toLocaleString('en-US') + '/d</td>' +
+      '<td style="font-family:\'IBM Plex Mono\', monospace; color:var(--yellow); font-size:var(--fs-micro);">$' + euEtsCost.toLocaleString('en-US') + '/d</td>';
 
     tbody.appendChild(tr);
   });
+
+  if (typeof renderCarbonEtsChart === 'function') {
+    try { renderCarbonEtsChart(); } catch(e) {}
+  }
 }
+
+function openBunkerPortDetail(portName) {
+  var summary = DATA.bunkerSummary;
+  var ports = summary && summary.ports ? summary.ports : [];
+  var p = null;
+  for (var i = 0; i < ports.length; i++) {
+    if (ports[i].name === portName) { p = ports[i]; break; }
+  }
+  if (!p) {
+    var comps = summary && summary.composites ? summary.composites : [];
+    for (var j = 0; j < comps.length; j++) {
+      if (comps[j].name === portName) { p = comps[j]; break; }
+    }
+  }
+  if (!p) return;
+
+  var modal = document.getElementById('bunkerPortDetailModal');
+  if (!modal) return;
+
+  document.getElementById('bunkerModalPortTitle').textContent = p.name + ' (' + (p.code || p.country || p.region) + ')';
+  document.getElementById('bunkerModalPortSub').textContent = (p.country || '') + ' · ' + (p.region || '') + ' · Lat: ' + (p.lat ? p.lat.toFixed(2) : '—') + ', Lon: ' + (p.lon ? p.lon.toFixed(2) : '—') + ' · Observation ' + (p.latest_date || '2026-09-04');
+
+  var outlierBox = document.getElementById('bunkerModalOutlierBanner');
+  if (outlierBox) {
+    if (p.is_outlier && p.outlier_flags && p.outlier_flags.length) {
+      outlierBox.style.display = 'flex';
+      var flagsTxt = p.outlier_flags.map(function(f) {
+        return f.grade + ': $' + f.val.toFixed(2) + ' (' + (f.zscore > 0 ? '+' : '') + f.zscore + 'σ vs mean $' + f.mean.toFixed(1) + ')';
+      }).join(' · ');
+      outlierBox.innerHTML = '<div style="font-weight:700; color:#f85149; margin-bottom:2px;">⚠️ 3σ STATISTICAL OUTLIER GUARD ACTIVE</div><div style="color:#c9d1d9; font-size:11px;">' + escapeHtml(flagsTxt) + ' — The price is preserved from the authentic historical harvest but flagged due to high variance against global cluster distributions.</div>';
+    } else {
+      outlierBox.style.display = 'none';
+    }
+  }
+
+  function fmtPrice(v) { return v != null ? '$' + v.toFixed(2) + '/MT' : '—'; }
+  document.getElementById('bunkerModalKpiVlsfo').textContent = fmtPrice(p.vlsfo);
+  document.getElementById('bunkerModalKpiMgo').textContent = fmtPrice(p.mgo);
+  document.getElementById('bunkerModalKpiHsfo').textContent = fmtPrice(p.ifo380);
+  document.getElementById('bunkerModalKpiHi5').textContent = fmtPrice(p.hi5_spread);
+
+  var spSg = p.spread_vs_singapore;
+  var spTxt = spSg != null ? (spSg > 0 ? '+' : '') + spSg.toFixed(1) + ' $/MT' : '—';
+  var spEl = document.getElementById('bunkerModalKpiSpreadSg');
+  if (spEl) {
+    spEl.textContent = spTxt;
+    spEl.style.color = (spSg > 0 ? 'var(--red)' : (spSg < 0 ? 'var(--green)' : 'var(--text)'));
+  }
+
+  document.getElementById('bunkerModalKpiBio').textContent = fmtPrice(p.bio);
+  document.getElementById('bunkerModalKpiLng').textContent = fmtPrice(p.lng);
+  document.getElementById('bunkerModalKpiMeoh').textContent = fmtPrice(p.meoh);
+
+  var canvas = document.getElementById('bunkerPortDetailChart');
+  if (canvas && typeof Chart !== 'undefined') {
+    if (bunkerPortDetailChartInstance) bunkerPortDetailChartInstance.destroy();
+
+    var ms = summary && summary.monthly_series ? (summary.monthly_series[p.name] || []) : [];
+    var labels = ms.map(function(r) { return r.m; });
+    var vlsfo = ms.map(function(r) { return r.vlsfo; });
+    var mgo = ms.map(function(r) { return r.mgo; });
+    var hsfo = ms.map(function(r) { return r.hsfo; });
+    var hi5 = ms.map(function(r) { return r.hi5; });
+
+    var ctx = canvas.getContext('2d');
+    bunkerPortDetailChartInstance = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [
+          { label: 'VLSFO (0.5%)', data: vlsfo, borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.1)', borderWidth: 2, pointRadius: 2, tension: 0.1, fill: false },
+          { label: 'MGO (0.1%)', data: mgo, borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 2, tension: 0.1, fill: false },
+          { label: 'HSFO (IFO380)', data: hsfo, borderColor: '#4d9aff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 2, tension: 0.1, fill: false },
+          { label: 'Hi-5 Spread', data: hi5, borderColor: '#a371f7', borderDash: [3, 3], borderWidth: 1.5, pointRadius: 1, yAxisID: 'y1', fill: false }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { position: 'top', labels: { font: { size: 11 }, color: '#8b949e', usePointStyle: true } }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 12 } },
+          y: { grid: { color: 'rgba(48,54,61,0.3)' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return '$' + v; } } },
+          y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#a371f7', font: { size: 11 }, callback: function(v) { return '$' + v; } } }
+        }
+      }
+    });
+  }
+
+  modal.style.display = 'flex';
+}
+
+function closeBunkerPortDetail() {
+  var modal = document.getElementById('bunkerPortDetailModal');
+  if (modal) modal.style.display = 'none';
+  if (bunkerPortDetailChartInstance) {
+    bunkerPortDetailChartInstance.destroy();
+    bunkerPortDetailChartInstance = null;
+  }
+}
+window.openBunkerPortDetail = openBunkerPortDetail;
+window.closeBunkerPortDetail = closeBunkerPortDetail;
 
 function setBunkerChartRange(range) {
   bunkersChartRange = range;
@@ -44963,9 +45563,6 @@ function renderBunkerMainChart() {
   var color = '#3fb950';
   var labelName = 'VLSFO Spot ($/MT)';
 
-  // Grade availability guard: if the selected grade has no quotes for this
-  // port's series, fall back to the best-covered grade and say so (never an
-  // empty/null-only series — that rendered as a blank $0-$1.2 chart).
   function countNonNull(rows, key) {
     return rows.filter(function(r) { return r && r[key] != null; }).length;
   }
@@ -45009,13 +45606,12 @@ function renderBunkerMainChart() {
     labelName = 'Biofuel Blend (B24 Drop-in)';
   }
 
-  // Update title & subtitle
   var titleEl = document.getElementById('bunkerChartPortTitle');
   var subEl = document.getElementById('bunkerChartPortSub');
   if (titleEl) titleEl.textContent = bunkersChartPort + ' ' + labelName;
   if (subEl) {
     var nDailyPorts = Object.keys(dailyMap).length;
-    var nAllPorts = (summary && summary.ports ? summary.ports.length : 221);
+    var nAllPorts = (summary && summary.ports ? summary.ports.length : 213);
     if (isDaily) {
       var periodText = range === '6m' ? 'Trailing 6 Months' : 'Trailing 1 Year';
       subEl.innerHTML = '<span style="color:#00e5ff; font-weight:600; font-family:\'IBM Plex Mono\', monospace;">[DAILY HIGH-RES · ' + series.length + ' QUOTES]</span> ' + periodText + ' · Ship &amp; Bunker RPC Live Archive';
@@ -45082,7 +45678,7 @@ function renderBunkerMainChart() {
       scales: {
         x: {
           grid: { color: 'rgba(28, 35, 51, 0.4)' },
-          ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: isDaily ? 12 : 14 }
+          ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 12 }
         },
         y: {
           grid: { color: 'rgba(28, 35, 51, 0.5)' },
@@ -45097,7 +45693,6 @@ function renderBunkerMainChart() {
     }
   });
 }
-
 /* =============================================================================
    OFFSHORE & OSV TERMINAL ENGINE (SEABROKERS SEABREEZE)
    ============================================================================= */

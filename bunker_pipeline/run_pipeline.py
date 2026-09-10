@@ -86,10 +86,7 @@ def run_forward_curves_extraction():
         out_json = os.path.join(STORAGE_DIR, "bunker_forward_curves_12m.json")
         df.to_csv(out_csv, index=False)
         df.to_json(out_json, orient="records", indent=2)
-        # Mirror to root directory
-        df.to_csv("bunker_forward_curves_12m.csv", index=False)
-        df.to_json("bunker_forward_curves_12m.json", orient="records", indent=2)
-        logger.info(f"Saved {len(df)} forward curve points to {out_csv} and root")
+        logger.info(f"Saved {len(df)} forward curve points to {out_csv}")
     return df
 
 def run_volume_indicators_extraction():
@@ -101,10 +98,7 @@ def run_volume_indicators_extraction():
         out_json = os.path.join(STORAGE_DIR, "bunker_physical_sales_volumes.json")
         df.to_csv(out_csv, index=False)
         df.to_json(out_json, orient="records", indent=2)
-        # Mirror to root directory
-        df.to_csv("bunker_physical_sales_volumes.csv", index=False)
-        df.to_json("bunker_physical_sales_volumes.json", orient="records", indent=2)
-        logger.info(f"Saved {len(df)} physical volume records to {out_csv} and root")
+        logger.info(f"Saved {len(df)} physical volume records to {out_csv}")
     return df
 
 def run_bix_benchmarks_extraction():
@@ -116,10 +110,7 @@ def run_bix_benchmarks_extraction():
         out_json = os.path.join(STORAGE_DIR, "bunker_bix_macro_benchmarks.json")
         df.to_csv(out_csv, index=False)
         df.to_json(out_json, orient="records", indent=2)
-        # Mirror to root directory
-        df.to_csv("bunker_bix_macro_benchmarks.csv", index=False)
-        df.to_json("bunker_bix_macro_benchmarks.json", orient="records", indent=2)
-        logger.info(f"Saved {len(df)} BIX benchmark records to {out_csv} and root")
+        logger.info(f"Saved {len(df)} BIX benchmark records to {out_csv}")
     return df
 
 def run_autonomous_validation():

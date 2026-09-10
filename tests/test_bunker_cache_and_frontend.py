@@ -30,9 +30,11 @@ def test_bunker_frontend_summary_json_exists():
     assert "d" in daily_series["Singapore"][0]
     assert "vlsfo" in daily_series["Singapore"][0]
 
-    # Verify 221 ports
+    # Verify 213 true physical ports + 6 composites + 2 macro benchmarks = 221 markets
     ports = data["ports"]
-    assert len(ports) == 221, f"Expected 221 ports, got {len(ports)}"
+    assert len(ports) == 213, f"Expected 213 ports, got {len(ports)}"
+    assert len(data.get("composites", [])) == 6, f"Expected 6 composites, got {len(data.get('composites', []))}"
+    assert len(ports) + len(data.get("composites", [])) + len(data.get("macro_benchmarks", [])) == 221
 
     # Check key global hubs
     port_names = set(p["name"] for p in ports)
@@ -104,15 +106,18 @@ def test_bunker_bix_coverage():
         assert r["price"] > 0 and r["low"] > 0 and r["high"] >= r["low"]
 
 def test_bunker_altfuels_no_zerofill():
-    """Wave-1: LNG/MEOH/EUA parsed; non-null only; nulls are None, never 0-filled as data."""
+    """Wave-1 & Prompt 06: LNG/MEOH parsed in ports; EUA in macro benchmarks; nulls are None, never 0-filled."""
     with open("data/bunkers/bunker_frontend_summary.json", "r", encoding="utf-8") as f:
         data = json.load(f)
     ports = data["ports"]
-    for key in ["lng", "meoh", "eua"]:
+    for key in ["lng", "meoh"]:
         nn = [p for p in ports if p.get(key) is not None]
         assert len(nn) >= 1, f"No verified {key.upper()} indications"
         for p in nn:
             assert p[key] > 0, f"{key} zero-filled at {p['name']}"
+    # EUA verified in macro_benchmarks (moved out of port table per Prompt 06 §6.1)
+    macros = data.get("macro_benchmarks", [])
+    assert any(m["name"] == "EUA" for m in macros), "Missing EUA in macro_benchmarks"
     for p in ports:
         for key in ["lng", "meoh", "eua", "bio"]:
             assert p.get(key) is None or p[key] > 0, f"{key} invalid at {p['name']}: {p.get(key)}"
@@ -125,10 +130,10 @@ def test_bunker_coverage_honesty():
         data = json.load(f)
     n_ports = len(data["ports"])
     n_daily = len(data["daily_series"])
-    assert n_ports == 221
+    assert n_ports == 213
     assert n_daily >= 170, f"Daily-series coverage regressed: {n_daily}/221"
-    assert n_daily < n_ports, "monthly-only fallback must remain for sparse ports"
-    assert set(data["physical_volumes"].keys()) == {"Singapore", "Rotterdam"}
+    assert n_daily < n_ports + 6, "monthly-only fallback must remain for sparse ports"
+    assert {"Singapore", "Rotterdam"}.issubset(set(data["physical_volumes"].keys()))
     assert len(data["forward_curves_12m"]) == 6
 
 def test_build_bunker_cache_script():
