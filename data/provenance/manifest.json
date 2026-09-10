@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T16:45:24.491254+00:00",
+  "generated_at": "2026-09-10T18:03:17.854243+00:00",
   "schema_version": "1.0",
-  "total_series": 99,
+  "total_series": 106,
   "unregistered_count": 9,
   "series": [
     {
@@ -1983,6 +1983,23 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Complete global tanker fleet registry."
+    },
+    {
+      "series_id": "reference_baltic_route_taxonomy",
+      "display_name": "Reference \u2014 Baltic Exchange Route Taxonomy",
+      "status": "LIVE",
+      "source_name": "Baltic Exchange Official Route Taxonomy",
+      "source_url": "https://www.balticexchange.com/en/data-services/market-information0/indices.html",
+      "fetch_method": "Web Scraping & Archive Fallback",
+      "fetch_script": "scripts/acquire/fetch_baltic_route_taxonomy.py",
+      "output_file": "data/reference/baltic_route_taxonomy.json",
+      "row_count": 109,
+      "date_span": null,
+      "last_fetched_utc": "2026-09-10T18:03:17.854243+00:00",
+      "unit": "Taxonomy & Formulas",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Authoritative Baltic Exchange route taxonomy (109 routes, 7 index formulas, 4 vessel specs, 9 baskets). Canonical authority for route codes, vessel classes, units, and index construction."
     }
   ]
 }

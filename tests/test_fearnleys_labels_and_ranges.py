@@ -65,11 +65,52 @@ def test_corrected_vessel_class_labels():
         assert "Supramax" in h, f"tsid {tsid} ({h}) must be Supramax!"
         assert "Panamax" not in h, f"tsid {tsid} ({h}) must not be Panamax!"
 
-    # 4. Tanker spot routes (1-9) must be Worldscale
+    # 4. Tanker spot routes (1-9) must be Worldscale and 7-9 must be marked mislabelled
     for tsid in range(1, 10):
         assert tsid in header_map
         h = header_map[tsid]
         assert "[worldscale]" in h, f"tsid {tsid} ({h}) must have [worldscale] unit!"
+
+    for tsid in [7, 8, 9]:
+        h = header_map[tsid]
+        assert "mislabelled" in h, f"tsid {tsid} ({h}) must be flagged as mislabelled because TC cannot be Worldscale!"
+
+    # 5. Baltic route codes must be explicitly carried in headers
+    baltic_code_expectations = {
+        120655: "C9_182",
+        120654: "C10_182",
+        10010: "P1A_82",
+        10011: "P2A_82",
+        10012: "P3A_82",
+        10013: "P4_82",
+        10001: "C3",
+        10002: "C5",
+        120129: "S1C",
+        120132: "S1B",
+        120133: "S4B",
+        120137: "S10",
+        1: "TD3C",
+        2: "TD2",
+        3: "TD15",
+        4: "TD20",
+        6: "TD19",
+    }
+    for tsid, code in baltic_code_expectations.items():
+        assert tsid in header_map
+        h = header_map[tsid]
+        assert f"({code})" in h, f"tsid {tsid} header ({h}) must carry route code ({code})!"
+
+def test_baltic_route_taxonomy_reference():
+    tax_path = ROOT / "data" / "reference" / "baltic_route_taxonomy.json"
+    assert tax_path.exists(), "baltic_route_taxonomy.json must exist!"
+    with open(tax_path, "r", encoding="utf-8") as f:
+        tax = json.load(f)
+    assert "routes" in tax
+    assert "index_formulas" in tax
+    assert "vessel_specifications" in tax
+    assert len(tax["routes"]) >= 100
+    for code in ["C3", "C5", "C9_182", "C10_182", "P1A_82", "P2A_82", "P3A_82", "P4_82", "S1C", "S1B", "S4B", "S10", "TD3C", "TD20"]:
+        assert code in tax["routes"], f"Taxonomy missing expected Baltic route {code}!"
 
 def test_median_plausible_bands():
     headers, rows = load_data()

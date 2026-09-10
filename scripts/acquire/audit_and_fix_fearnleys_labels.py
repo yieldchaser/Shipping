@@ -22,71 +22,81 @@ JSON_PATH = ROOT / "data" / "clarksons" / "fearnleys_benchmark_rates_continuous.
 # Derived from scripts/fearnleys/fetch_dry_routes_ts.py, Fearnleys Weekly Report, and market rate realities.
 CANONICAL_MAP = {
     1: {
-        "label": "MEG/Japan (VLCC)",
+        "label": "MEG/Japan VLCC (TD3C)",
         "class": "VLCC",
+        "route_code": "TD3C",
         "unit": "worldscale",
-        "header": "MEG/Japan (VLCC) [worldscale] (tsid_1)",
-        "notes": "TD3C crude benchmark, quoted in Worldscale points (historical WS 15-140)."
+        "header": "MEG/Japan VLCC (TD3C) [worldscale] (tsid_1)",
+        "notes": "TD3C crude benchmark (Middle East Gulf to China/Japan), quoted in Worldscale points (discontinued 2023-05)."
     },
     2: {
-        "label": "MEG/Singapore (VLCC)",
+        "label": "MEG/Singapore VLCC (TD2)",
         "class": "VLCC",
+        "route_code": "TD2",
         "unit": "worldscale",
-        "header": "MEG/Singapore (VLCC) [worldscale] (tsid_2)",
-        "notes": "Dirty tanker route, quoted in Worldscale points."
+        "header": "MEG/Singapore VLCC (TD2) [worldscale] (tsid_2)",
+        "notes": "TD2 crude benchmark (Middle East Gulf to Singapore), quoted in Worldscale points (discontinued 2023-05)."
     },
     3: {
-        "label": "WAF/China (VLCC)",
+        "label": "WAF/China VLCC (TD15)",
         "class": "VLCC",
+        "route_code": "TD15",
         "unit": "worldscale",
-        "header": "WAF/China (VLCC) [worldscale] (tsid_3)",
-        "notes": "TD15/TD22 crude benchmark, quoted in Worldscale points."
+        "header": "WAF/China VLCC (TD15) [worldscale] (tsid_3)",
+        "notes": "TD15 crude benchmark (West Africa to China), quoted in Worldscale points (discontinued 2023-05)."
     },
     4: {
-        "label": "WAF/UKC (Suezmax)",
+        "label": "WAF/UKC Suezmax (TD20)",
         "class": "Suezmax",
+        "route_code": "TD20",
         "unit": "worldscale",
-        "header": "WAF/UKC (Suezmax) [worldscale] (tsid_4)",
-        "notes": "TD20 crude benchmark, quoted in Worldscale points."
+        "header": "WAF/UKC Suezmax (TD20) [worldscale] (tsid_4)",
+        "notes": "TD20 crude benchmark (West Africa to UK-Continent), quoted in Worldscale points."
     },
     5: {
         "label": "Market Brief (Dirty Tanker)",
         "class": "Dirty Tanker",
+        "route_code": None,
         "unit": "worldscale",
         "header": "Market Brief (Dirty Tanker) [worldscale] (tsid_5)",
-        "notes": "Fearnleys BITR market brief composite, quoted in Worldscale points."
+        "notes": "Fearnleys BITR market brief composite, quoted in Worldscale points (discontinued 2023-05)."
     },
     6: {
-        "label": "Cross Med (Aframax)",
+        "label": "Cross Med Aframax (TD19)",
         "class": "Aframax",
+        "route_code": "TD19",
         "unit": "worldscale",
-        "header": "Cross Med (Aframax) [worldscale] (tsid_6)",
-        "notes": "TD19 crude benchmark, quoted in Worldscale points."
+        "header": "Cross Med Aframax (TD19) [worldscale] (tsid_6)",
+        "notes": "TD19 crude benchmark (Cross Mediterranean), quoted in Worldscale points (discontinued 2023-05)."
     },
     7: {
-        "label": "1 Year TC - VLCC",
+        "label": "Unverified Spot Route (mislabelled 1 Year TC - VLCC)",
         "class": "VLCC",
+        "route_code": None,
         "unit": "worldscale",
-        "header": "1 Year TC - VLCC [worldscale] (tsid_7)",
-        "notes": "1Y TC benchmark index, quoted in Worldscale points (discontinued 2023-05)."
+        "header": "Unverified Spot Route (mislabelled 1 Year TC - VLCC) [worldscale] (tsid_7)",
+        "notes": "Quoted in Worldscale points (55-430), identical span/format to spot routes 1-6. Time charters are never quoted in Worldscale; series was mislabelled 1 Year TC by publisher (discontinued 2023-05)."
     },
     8: {
-        "label": "1 Year TC - Suezmax",
+        "label": "Unverified Spot Route (mislabelled 1 Year TC - Suezmax)",
         "class": "Suezmax",
+        "route_code": None,
         "unit": "worldscale",
-        "header": "1 Year TC - Suezmax [worldscale] (tsid_8)",
-        "notes": "1Y TC benchmark index, quoted in Worldscale points (discontinued 2023-05)."
+        "header": "Unverified Spot Route (mislabelled 1 Year TC - Suezmax) [worldscale] (tsid_8)",
+        "notes": "Quoted in Worldscale points (62.5-330), identical span/format to spot routes 1-6. Time charters are never quoted in Worldscale; series was mislabelled 1 Year TC by publisher (discontinued 2023-05)."
     },
     9: {
-        "label": "1 Year TC - Aframax",
+        "label": "Unverified Spot Route (mislabelled 1 Year TC - Aframax)",
         "class": "Aframax",
+        "route_code": None,
         "unit": "worldscale",
-        "header": "1 Year TC - Aframax [worldscale] (tsid_9)",
-        "notes": "1Y TC benchmark index, quoted in Worldscale points (discontinued 2023-05)."
+        "header": "Unverified Spot Route (mislabelled 1 Year TC - Aframax) [worldscale] (tsid_9)",
+        "notes": "Quoted in Worldscale points (10-575), identical span/format to spot routes 1-6. Time charters are never quoted in Worldscale; series was mislabelled 1 Year TC by publisher (discontinued 2023-05)."
     },
     11: {
         "label": "Specialized High-Spec TC (mislabelled LR1 TC)",
         "class": "Specialized Asset",
+        "route_code": None,
         "unit": "usd/day",
         "header": "Specialized High-Spec TC (mislabelled LR1 TC) [usd/day] (tsid_11)",
         "notes": "Rates $23k-$145k/day. Far exceeds standard LR1 1Y TC ($30-35k/day); represents high-spec asset or LNGC."
@@ -94,6 +104,7 @@ CANONICAL_MAP = {
     13: {
         "label": "Specialized Asset Rate (mislabelled Handy TC)",
         "class": "Specialized Asset",
+        "route_code": None,
         "unit": "usd/day",
         "header": "Specialized Asset Rate (mislabelled Handy TC) [usd/day] (tsid_13)",
         "notes": "Rates $15k-$110k/day. Far exceeds standard Handy 1Y TC ($14.5k/day); represents high-spec asset or VLGC."
@@ -101,6 +112,7 @@ CANONICAL_MAP = {
     303: {
         "label": "380 CST Bunker Price (Singapore)",
         "class": "Bunkers",
+        "route_code": None,
         "unit": "usd/tonne",
         "header": "380 CST Bunker Price (Singapore) [usd/tonne] (tsid_303)",
         "notes": "Singapore HSFO 380 CST spot price in USD/MT."
@@ -108,6 +120,7 @@ CANONICAL_MAP = {
     304: {
         "label": "MGO Bunker Price (Singapore)",
         "class": "Bunkers",
+        "route_code": None,
         "unit": "usd/tonne",
         "header": "MGO Bunker Price (Singapore) [usd/tonne] (tsid_304)",
         "notes": "Singapore Marine Gas Oil spot price in USD/MT."
@@ -115,6 +128,7 @@ CANONICAL_MAP = {
     306: {
         "label": "380 CST Bunker Price (Rotterdam)",
         "class": "Bunkers",
+        "route_code": None,
         "unit": "usd/tonne",
         "header": "380 CST Bunker Price (Rotterdam) [usd/tonne] (tsid_306)",
         "notes": "Rotterdam HSFO 380 CST spot price in USD/MT."
@@ -122,6 +136,7 @@ CANONICAL_MAP = {
     307: {
         "label": "MGO Bunker Price (Rotterdam)",
         "class": "Bunkers",
+        "route_code": None,
         "unit": "usd/tonne",
         "header": "MGO Bunker Price (Rotterdam) [usd/tonne] (tsid_307)",
         "notes": "Rotterdam Marine Gas Oil spot price in USD/MT."
@@ -129,6 +144,7 @@ CANONICAL_MAP = {
     316: {
         "label": "Commodity Prices (Brent Crude)",
         "class": "Commodities",
+        "route_code": None,
         "unit": "usd/bbl",
         "header": "Commodity Prices (Brent Crude) [usd/bbl] (tsid_316)",
         "notes": "Brent crude front-month price ($59-$114/bbl)."
@@ -136,6 +152,7 @@ CANONICAL_MAP = {
     5001: {
         "label": "USD/KRW",
         "class": "FX",
+        "route_code": None,
         "unit": "krw_per_usd",
         "header": "USD/KRW [fx] (tsid_5001)",
         "notes": "Korean Won foreign exchange rate."
@@ -143,6 +160,7 @@ CANONICAL_MAP = {
     5002: {
         "label": "USD/NOK",
         "class": "FX",
+        "route_code": None,
         "unit": "nok_per_usd",
         "header": "USD/NOK [fx] (tsid_5002)",
         "notes": "Norwegian Krone foreign exchange rate."
@@ -150,62 +168,71 @@ CANONICAL_MAP = {
     5003: {
         "label": "EUR/USD",
         "class": "FX",
+        "route_code": None,
         "unit": "usd_per_eur",
         "header": "EUR/USD [fx] (tsid_5003)",
         "notes": "Euro foreign exchange rate."
     },
     10001: {
-        "label": "Tubarao/Qingdao (Capesize Iron Ore C3)",
+        "label": "Capesize Tubarao/Qingdao (C3)",
         "class": "Capesize",
+        "route_code": "C3",
         "unit": "usd/tonne",
-        "header": "Tubarao/Qingdao (Capesize Iron Ore C3) [usd/tonne] (tsid_10001)",
+        "header": "Capesize Tubarao/Qingdao (C3) [usd/tonne] (tsid_10001)",
         "notes": "Baltic C3 Capesize iron ore freight benchmark from Tubarao to Qingdao in USD/tonne."
     },
     10002: {
-        "label": "Australia/China (Capesize Iron Ore C5)",
+        "label": "Capesize Australia/China (C5)",
         "class": "Capesize",
+        "route_code": "C5",
         "unit": "usd/tonne",
-        "header": "Australia/China (Capesize Iron Ore C5) [usd/tonne] (tsid_10002)",
+        "header": "Capesize Australia/China (C5) [usd/tonne] (tsid_10002)",
         "notes": "Baltic C5 Capesize iron ore freight benchmark from Dampier to Qingdao in USD/tonne."
     },
     10003: {
-        "label": "Newcastle/Qingdao (Capesize Coal)",
+        "label": "Capesize Newcastle/Qingdao Coal",
         "class": "Capesize",
+        "route_code": None,
         "unit": "usd/tonne",
-        "header": "Newcastle/Qingdao (Capesize Coal) [usd/tonne] (tsid_10003)",
+        "header": "Capesize Newcastle/Qingdao Coal [usd/tonne] (tsid_10003)",
         "notes": "Baltic Capesize coal freight benchmark from Newcastle to Qingdao in USD/tonne."
     },
     10010: {
-        "label": "Panamax Transatlantic RV",
+        "label": "Panamax Transatlantic RV (P1A_82)",
         "class": "Panamax",
+        "route_code": "P1A_82",
         "unit": "usd/day",
-        "header": "Transatlantic RV (Panamax) [usd/day] (tsid_10010)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $11.7k-$24.3k/day (median $17.4k). Exact match to fetch_dry_routes_ts.py PANAMAX_TRANSATLANTIC_RV."
+        "header": "Panamax Transatlantic RV (P1A_82) [usd/day] (tsid_10010)",
+        "notes": "Baltic P1A_82 Skaw-Gib transatlantic RV. Rate range $11.7k-$24.3k/day (median $17.4k). Corrected from mislabelled Capesize."
     },
     10011: {
-        "label": "Panamax TCE Cont/Far East",
+        "label": "Panamax TCE Cont/Far East (P2A_82)",
         "class": "Panamax",
+        "route_code": "P2A_82",
         "unit": "usd/day",
-        "header": "TCE Cont/Far East (Panamax) [usd/day] (tsid_10011)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $17.5k-$33.0k/day (median $24.9k). Exact match to fetch_dry_routes_ts.py PANAMAX_TCE_CONT_FAR_EAST."
+        "header": "Panamax TCE Cont/Far East (P2A_82) [usd/day] (tsid_10011)",
+        "notes": "Baltic P2A_82 Skaw-Gib trip HK-S.Korea. Rate range $17.5k-$33.0k/day (median $24.9k). Corrected from mislabelled Capesize."
     },
     10012: {
-        "label": "Panamax TCE Far East RV",
+        "label": "Panamax TCE Far East RV (P3A_82)",
         "class": "Panamax",
+        "route_code": "P3A_82",
         "unit": "usd/day",
-        "header": "TCE Far East RV (Panamax) [usd/day] (tsid_10012)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $9.2k-$24.1k/day (median $16.8k). Exact match to fetch_dry_routes_ts.py PANAMAX_TCE_FAR_EAST_RV."
+        "header": "Panamax TCE Far East RV (P3A_82) [usd/day] (tsid_10012)",
+        "notes": "Baltic P3A_82 HK-S.Korea transpacific RV. Rate range $9.2k-$24.1k/day (median $16.8k). Corrected from mislabelled Capesize."
     },
     10013: {
-        "label": "Panamax TCE Far East/Cont",
+        "label": "Panamax TCE Far East/Cont (P4_82)",
         "class": "Panamax",
+        "route_code": "P4_82",
         "unit": "usd/day",
-        "header": "TCE Far East/Cont (Panamax) [usd/day] (tsid_10013)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $7.3k-$16.5k/day (median $10.8k). Exact match to fetch_dry_routes_ts.py PANAMAX_TCE_FAR_EAST_CONT."
+        "header": "Panamax TCE Far East/Cont (P4_82) [usd/day] (tsid_10013)",
+        "notes": "Baltic P4_82 HK-S.Korea to Skaw-Passero backhaul. Rate range $7.3k-$16.5k/day (median $10.8k). Corrected from mislabelled Capesize."
     },
     11323: {
         "label": "Baltic Dry Index (BDI)",
         "class": "Dry Bulk Composite",
+        "route_code": "BDI",
         "unit": "index",
         "header": "Baltic Dry Index (BDI) [index] (tsid_11323)",
         "notes": "Composite dry bulk shipping index (1,532 - 3,628 points)."
@@ -213,51 +240,58 @@ CANONICAL_MAP = {
     12100: {
         "label": "Interest Rates (SOFR/LIBOR)",
         "class": "Macro",
+        "route_code": None,
         "unit": "percent",
         "header": "Interest Rates (SOFR/LIBOR) [percent] (tsid_12100)",
         "notes": "Benchmark interest rates in percent (3.6% - 4.5%)."
     },
     120129: {
-        "label": "Supramax US Gulf - China/South Japan",
+        "label": "Supramax US Gulf - China/South Japan (S1C)",
         "class": "Supramax",
+        "route_code": "S1C",
         "unit": "usd/day",
-        "header": "US Gulf - China/South Japan (Supramax) [usd/day] (tsid_120129)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Panamax. Rate range $18.8k-$33.8k/day (median $28.4k). Exact match to fetch_dry_routes_ts.py SUPRAMAX_US_GULF_CHINA_SJ."
+        "header": "Supramax US Gulf - China/South Japan (S1C) [usd/day] (tsid_120129)",
+        "notes": "Baltic S1C US Gulf to China-Japan. Rate range $18.8k-$33.8k/day (median $28.4k). Corrected from mislabelled Panamax."
     },
     120132: {
-        "label": "Supramax Transatlantic RV (Delivery Cont)",
+        "label": "Supramax Transatlantic RV Delivery Cont (S1B)",
         "class": "Supramax",
+        "route_code": "S1B",
         "unit": "usd/day",
-        "header": "Transatlantic RV Delivery Cont (Supramax) [usd/day] (tsid_120132)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Panamax. Raw leg A of Supramax Transatlantic RV (Skaw-Passero delivery). Rate range $17.7k-$34.8k/day."
+        "header": "Supramax Transatlantic RV Delivery Cont (S1B) [usd/day] (tsid_120132)",
+        "notes": "Baltic S1B delivery Continent/Canakkale trip to China-Korea. Rate range $17.7k-$34.8k/day. Corrected from mislabelled Panamax."
     },
     120133: {
-        "label": "Supramax Transatlantic RV (Delivery USG)",
+        "label": "Supramax Transatlantic RV Delivery USG (S4B)",
         "class": "Supramax",
+        "route_code": "S4B",
         "unit": "usd/day",
-        "header": "Transatlantic RV Delivery USG (Supramax) [usd/day] (tsid_120133)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Panamax. Raw leg B of Supramax Transatlantic RV (US Gulf delivery). Rate range $9.6k-$16.6k/day."
+        "header": "Supramax Transatlantic RV Delivery USG (S4B) [usd/day] (tsid_120133)",
+        "notes": "Baltic S4B Skaw-Passero trip to US Gulf. Rate range $9.6k-$16.6k/day. Corrected from mislabelled Panamax."
     },
     120137: {
-        "label": "Supramax South China - Indonesia RV",
+        "label": "Supramax South China - Indonesia RV (S10)",
         "class": "Supramax",
+        "route_code": "S10",
         "unit": "usd/day",
-        "header": "South China - Indonesia RV (Supramax) [usd/day] (tsid_120137)",
-        "notes": "Supramax Southeast Asia nickel/coal RV in USD/day. Rate range $7.5k-$17.9k/day."
+        "header": "Supramax South China - Indonesia RV (S10) [usd/day] (tsid_120137)",
+        "notes": "Baltic S10 South China trip via Indonesia to South China nickel/coal RV in USD/day. Rate range $7.5k-$17.9k/day."
     },
     120654: {
-        "label": "Capesize Pacific RV",
+        "label": "Capesize Pacific RV (C10_182)",
         "class": "Capesize",
+        "route_code": "C10_182",
         "unit": "usd/day",
-        "header": "Pacific RV (Capesize) [usd/day] (tsid_120654)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Supramax. Rate range $16.4k-$63.2k/day (latest $62.4k). Exact match to fetch_dry_routes_ts.py CAPESIZE_PACIFIC_RV."
+        "header": "Capesize Pacific RV (C10_182) [usd/day] (tsid_120654)",
+        "notes": "Baltic C10_182 China-Japan transpacific RV. Rate range $16.4k-$63.2k/day (median $31.4k). Corrected from mislabelled Supramax."
     },
     120655: {
-        "label": "Capesize TCE Cont/Far East",
+        "label": "Capesize TCE Cont/Far East (C9_182)",
         "class": "Capesize",
+        "route_code": "C9_182",
         "unit": "usd/day",
-        "header": "TCE Cont/Far East (Capesize) [usd/day] (tsid_120655)",
-        "notes": "CRITICAL FIX: Formerly mislabelled as Supramax. Rate range $41.1k-$93.1k/day (latest $91.2k). Exact match to fetch_dry_routes_ts.py CAPESIZE_TCE_CONT_FAR_EAST."
+        "header": "Capesize TCE Cont/Far East (C9_182) [usd/day] (tsid_120655)",
+        "notes": "Baltic C9_182 Continent/Med trip China-Japan fronthaul. Rate range $41.1k-$93.1k/day (median $55.6k). Corrected from mislabelled Supramax."
     }
 }
 
@@ -306,6 +340,7 @@ def fix_json():
             mapping = CANONICAL_MAP[tsid]
             meta["route_name"] = mapping["label"]
             meta["vessel_class"] = mapping["class"]
+            meta["route_code"] = mapping.get("route_code")
             meta["unit"] = mapping["unit"]
             meta["notes"] = mapping["notes"]
 

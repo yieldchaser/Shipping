@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-10T17:40:22Z",
+    "generated_at": "2026-09-10T18:02:42Z",
     "as_of": "2026-09-10",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -370,7 +370,7 @@
       "title": "US Gulf Grain Inspections vs Supramax US Gulf\u2013Japan Freight",
       "origin": "US Gulf Coast Terminals (Mississippi River)",
       "destination": "Japan / South Korea",
-      "route_code": "Supramax USG-China/Japan (tsid 120129)",
+      "route_code": "Supramax USG-China/Japan S1C (tsid 120129)",
       "months": [
         "2024-01",
         "2024-02",
@@ -490,7 +490,7 @@
       "title": "Guinea Bauxite Mirror Imports vs Panamax Transatlantic RV",
       "origin": "Kamsar / Boffa, Guinea (via China Customs Mirror)",
       "destination": "China Ports",
-      "route_code": "Panamax Transatlantic RV (tsid 10010)",
+      "route_code": "Panamax Transatlantic RV P1A_82 (tsid 10010)",
       "months": [
         "2024-01",
         "2024-02",

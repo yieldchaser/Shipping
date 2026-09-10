@@ -1,0 +1,1586 @@
+{
+  "metadata": {
+    "source_authority": "Baltic Exchange Official Route Taxonomy",
+    "source_url": "https://web.archive.org/web/20260420064708id_/https://www.balticexchange.com/en/data-services/market-information0/indices.html",
+    "fetched_at_utc": "2026-09-10T18:01:10.250216+00:00",
+    "total_routes": 109,
+    "sections_count": 10,
+    "description": "Canonical code -> description -> class -> unit map, index formulas, and vessel specs."
+  },
+  "routes": {
+    "C2": {
+      "code": "C2",
+      "description": "Tubarao to Rotterdam",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/tonne"
+    },
+    "C3": {
+      "code": "C3",
+      "description": "Tubarao to Qingdao",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/tonne"
+    },
+    "C5": {
+      "code": "C5",
+      "description": "West Australia to Qingdao",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/tonne"
+    },
+    "C7": {
+      "code": "C7",
+      "description": "Bolivar to Rotterdam",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/tonne"
+    },
+    "C8_182": {
+      "code": "C8_182",
+      "description": "Gibraltar/Hamburg transatlantic round voyage",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "C9_182": {
+      "code": "C9_182",
+      "description": "Continent/Mediterranean trip China-Japan",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "C10_182": {
+      "code": "C10_182",
+      "description": "China-Japan transpacific round voyage",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "C14_182": {
+      "code": "C14_182",
+      "description": "China-Brazil round voyage",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "C16_182": {
+      "code": "C16_182",
+      "description": "Revised backhaul",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "C17": {
+      "code": "C17",
+      "description": "Saldanha Bay to Qingdao",
+      "vessel_class": "Capesize",
+      "category": "Dry Bulk",
+      "unit": "usd/tonne"
+    },
+    "P1A_82": {
+      "code": "P1A_82",
+      "description": "Skaw-Gib transatlantic round voyage",
+      "vessel_class": "Panamax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "P2A_82": {
+      "code": "P2A_82",
+      "description": "Skaw-Gib trip HK-S Korea incl Taiwan",
+      "vessel_class": "Panamax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "P3A_82": {
+      "code": "P3A_82",
+      "description": "Hong Kong-South Korea transpacific round voyage",
+      "vessel_class": "Panamax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "P4_82": {
+      "code": "P4_82",
+      "description": "Hong Kong-South Korea trip to Skaw-Passero",
+      "vessel_class": "Panamax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "P5_82": {
+      "code": "P5_82",
+      "description": "South China, one Indonesian round voyage",
+      "vessel_class": "Panamax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "P6_82": {
+      "code": "P6_82",
+      "description": "Dely Singapore for one round voyage via Atlantic",
+      "vessel_class": "Panamax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S1B": {
+      "code": "S1B",
+      "description": "Canakkale trip via Med or Bl Sea to China-South Korea",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S1C": {
+      "code": "S1C",
+      "description": "US Gulf trip to China-south Japan",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S2": {
+      "code": "S2",
+      "description": "North China one Australian or Pacific round voyage",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S3": {
+      "code": "S3",
+      "description": "North China trip to West Africa",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S4A": {
+      "code": "S4A",
+      "description": "US Gulf trip to Skaw-Passero",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S4B": {
+      "code": "S4B",
+      "description": "Skaw-Passero trip to US Gulf",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S5": {
+      "code": "S5",
+      "description": "West Africa trip via east coast South America to north China",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S8": {
+      "code": "S8",
+      "description": "South China trip via Indonesia to east coast India",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S9": {
+      "code": "S9",
+      "description": "West Africa trip via east coast South America to Skaw-Passero",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S10": {
+      "code": "S10",
+      "description": "South China trip via Indonesia to south China",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "S15": {
+      "code": "S15",
+      "description": "Indian Ocean trip via South Africa\u00a0 to the Far East",
+      "vessel_class": "Supramax",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "HS1_38": {
+      "code": "HS1_38",
+      "description": "Skaw-Passero trip to Rio de Janeiro-Recalada",
+      "vessel_class": "Handysize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "HS2_38": {
+      "code": "HS2_38",
+      "description": "Skaw-Passero trip to Boston-Galveston",
+      "vessel_class": "Handysize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "HS4_38": {
+      "code": "HS4_38",
+      "description": "US Gulf trip via US Gulf or north coast South America to Skaw-Passero",
+      "vessel_class": "Handysize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "HS5_38": {
+      "code": "HS5_38",
+      "description": "South East Asia trip to Singapore-Japan",
+      "vessel_class": "Handysize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "HS6_38": {
+      "code": "HS6_38",
+      "description": "North China-South Korea-Japan trip to North China-South Korea-Japan",
+      "vessel_class": "Handysize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "HS7_38": {
+      "code": "HS7_38",
+      "description": "North China-South Korea-Japan trip to south east Asia",
+      "vessel_class": "Handysize",
+      "category": "Dry Bulk",
+      "unit": "usd/day"
+    },
+    "TC1": {
+      "code": "TC1",
+      "description": "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC2_37": {
+      "code": "TC2_37",
+      "description": "Continent to US Atlantic coast (CPP, UNL)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC5": {
+      "code": "TC5",
+      "description": "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC6": {
+      "code": "TC6",
+      "description": "Algeria to European Mediterranean (CPP, UNL)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC7": {
+      "code": "TC7",
+      "description": "Singapore to east coast Australia (CPP)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC8": {
+      "code": "TC8",
+      "description": "Middle East Gulf to UK-Cont. (CPP, UNL)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC9": {
+      "code": "TC9",
+      "description": "Baltic to UK-Cont. (CPP, UNL, ULSD)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC10": {
+      "code": "TC10",
+      "description": "South Korea to NoPac west coast (CPP/UNL)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC11": {
+      "code": "TC11",
+      "description": "South Korea to Singapore (CPP)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC12": {
+      "code": "TC12",
+      "description": "Sikka (WCI) to Japan (naphtha)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC14": {
+      "code": "TC14",
+      "description": "US Gulf to Continent (CPP, UNL, diesel)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC15": {
+      "code": "TC15",
+      "description": "Med / Far East (naphtha)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC16": {
+      "code": "TC16",
+      "description": "Amsterdam to offshore Lome (CPP)",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC17": {
+      "code": "TC17",
+      "description": "Middle East Gulf to East Africa",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TC18": {
+      "code": "TC18",
+      "description": "US Gulf to Brazil",
+      "vessel_class": "Clean Tankers",
+      "category": "Tanker Clean",
+      "unit": "worldscale"
+    },
+    "TD2": {
+      "code": "TD2",
+      "description": "Middle East Gulf to Singapore",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD3C": {
+      "code": "TD3C",
+      "description": "Middle East Gulf to China",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD6": {
+      "code": "TD6",
+      "description": "Black Sea to Mediterranean",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD7": {
+      "code": "TD7",
+      "description": "North Sea to Continent",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD8": {
+      "code": "TD8",
+      "description": "Kuwait to Singapore (Crude/DPP heat 135F)",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD9": {
+      "code": "TD9",
+      "description": "Caribbean to US Gulf",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD12": {
+      "code": "TD12",
+      "description": "Amsterdam-Rotterdam-Antwerp to US Gulf",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD14": {
+      "code": "TD14",
+      "description": "South East Asia to east coast Australia",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD15": {
+      "code": "TD15",
+      "description": "West Africa to China",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD17": {
+      "code": "TD17",
+      "description": "Baltic to UK-Cont",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD18": {
+      "code": "TD18",
+      "description": "Baltic to UK-Cont",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD19": {
+      "code": "TD19",
+      "description": "Cross Mediterranean",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD20": {
+      "code": "TD20",
+      "description": "West Africa to UK-Continent",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD21": {
+      "code": "TD21",
+      "description": "Caribbean to US Gulf (50,000mt fuel oil)",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD22": {
+      "code": "TD22",
+      "description": "US Gulf to China (assessed in US $/lumpsum)",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD23": {
+      "code": "TD23",
+      "description": "Middle East Gulf to Mediterranean (Light Crude)",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD24": {
+      "code": "TD24",
+      "description": "Pacific Russia to China",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "TD25": {
+      "code": "TD25",
+      "description": "US Gulf to A-R-A",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
+    "BLNG1": {
+      "code": "BLNG1",
+      "description": "Gladstone / Tokyo RV",
+      "vessel_class": "BLNG",
+      "category": "Gas",
+      "unit": "usd/day"
+    },
+    "BLNG2": {
+      "code": "BLNG2",
+      "description": "Sabine / UK Cont RV",
+      "vessel_class": "BLNG",
+      "category": "Gas",
+      "unit": "usd/day"
+    },
+    "BLNG3": {
+      "code": "BLNG3",
+      "description": "Sabine / Tokyo RV",
+      "vessel_class": "BLNG",
+      "category": "Gas",
+      "unit": "usd/day"
+    },
+    "BLPG1": {
+      "code": "BLPG1",
+      "description": "Middle East Gulf to Japan",
+      "vessel_class": "BLPG",
+      "category": "Gas",
+      "unit": "usd/day"
+    },
+    "BLPG2": {
+      "code": "BLPG2",
+      "description": "US Gulf to Continent",
+      "vessel_class": "BLPG",
+      "category": "Gas",
+      "unit": "usd/day"
+    },
+    "BLPG3": {
+      "code": "BLPG3",
+      "description": "US Gulf to Japan",
+      "vessel_class": "BLPG",
+      "category": "Gas",
+      "unit": "usd/day"
+    },
+    "FBX00": {
+      "code": "FBX00",
+      "description": "Global Container Index",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX01": {
+      "code": "FBX01",
+      "description": "China/East Asia to North America",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX02": {
+      "code": "FBX02",
+      "description": "North America West Coast to China/East Asia",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX03": {
+      "code": "FBX03",
+      "description": "China/East Asia to North America East Coast",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX04": {
+      "code": "FBX04",
+      "description": "North America East Coast to China/East Asia",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX11": {
+      "code": "FBX11",
+      "description": "China/East Asia to North Europe",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX12": {
+      "code": "FBX12",
+      "description": "North Europe to China/East Asia",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX13": {
+      "code": "FBX13",
+      "description": "China/East Asia to Mediterranean",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX14": {
+      "code": "FBX14",
+      "description": "Mediterranean to China/East Asia",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX21": {
+      "code": "FBX21",
+      "description": "North America East Coast to Europe",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX22": {
+      "code": "FBX22",
+      "description": "Europe to North America East Coast",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX24": {
+      "code": "FBX24",
+      "description": "Europe to South America East Coast",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "FBX26": {
+      "code": "FBX26",
+      "description": "Europe to South America West Coast",
+      "vessel_class": "Container",
+      "category": "Container",
+      "unit": "usd/feu"
+    },
+    "BAI00": {
+      "code": "BAI00",
+      "description": "Baltic Air Freight Index",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI20": {
+      "code": "BAI20",
+      "description": "Frankfurt Outbound Index",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI30": {
+      "code": "BAI30",
+      "description": "Hong Kong Outbound Index",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI40": {
+      "code": "BAI40",
+      "description": "London Heathrow Outbound Index",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI50": {
+      "code": "BAI50",
+      "description": "O'Hare Int'l, Chicago Outbound Index",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI60": {
+      "code": "BAI60",
+      "description": "Singapore Outbound index",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI80": {
+      "code": "BAI80",
+      "description": "Shanghai Pudong Outbound Index",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI22": {
+      "code": "BAI22",
+      "description": "Frankfurt to North America",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI23": {
+      "code": "BAI23",
+      "description": "Frankfurt to South East Asia",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI24": {
+      "code": "BAI24",
+      "description": "Frankfurt to USA",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI25": {
+      "code": "BAI25",
+      "description": "Frankfurt to China",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI31": {
+      "code": "BAI31",
+      "description": "Hong Kong to Europe",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI32": {
+      "code": "BAI32",
+      "description": "Hong Kong to North America",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI33": {
+      "code": "BAI33",
+      "description": "Hong Kong to South East Asia",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI34": {
+      "code": "BAI34",
+      "description": "Hong Kong to USA",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI42": {
+      "code": "BAI42",
+      "description": "London Heathrow to North America",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI43": {
+      "code": "BAI43",
+      "description": "London Heathrow to South East Asia",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI44": {
+      "code": "BAI44",
+      "description": "London Heathrow to USA",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI51": {
+      "code": "BAI51",
+      "description": "O'Hare Int'l, Chicago to Europe",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI53": {
+      "code": "BAI53",
+      "description": "O'Hare Int'l, Chicago to South East Asia",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI63": {
+      "code": "BAI63",
+      "description": "Singapore to South East Asia",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI81": {
+      "code": "BAI81",
+      "description": "Shanghai Pudong to Europe",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI82": {
+      "code": "BAI82",
+      "description": "Shanghai Pudong to North America",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    },
+    "BAI84": {
+      "code": "BAI84",
+      "description": "Shanghai Pudong to USA",
+      "vessel_class": "Air Freight",
+      "category": "Air",
+      "unit": "usd/kg"
+    }
+  },
+  "sections": {
+    "Capesize": [
+      {
+        "code": "C2",
+        "description": "Tubarao to Rotterdam",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/tonne"
+      },
+      {
+        "code": "C3",
+        "description": "Tubarao to Qingdao",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/tonne"
+      },
+      {
+        "code": "C5",
+        "description": "West Australia to Qingdao",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/tonne"
+      },
+      {
+        "code": "C7",
+        "description": "Bolivar to Rotterdam",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/tonne"
+      },
+      {
+        "code": "C8_182",
+        "description": "Gibraltar/Hamburg transatlantic round voyage",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "C9_182",
+        "description": "Continent/Mediterranean trip China-Japan",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "C10_182",
+        "description": "China-Japan transpacific round voyage",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "C14_182",
+        "description": "China-Brazil round voyage",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "C16_182",
+        "description": "Revised backhaul",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "C17",
+        "description": "Saldanha Bay to Qingdao",
+        "vessel_class": "Capesize",
+        "category": "Dry Bulk",
+        "unit": "usd/tonne"
+      }
+    ],
+    "Panamax": [
+      {
+        "code": "P1A_82",
+        "description": "Skaw-Gib transatlantic round voyage",
+        "vessel_class": "Panamax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "P2A_82",
+        "description": "Skaw-Gib trip HK-S Korea incl Taiwan",
+        "vessel_class": "Panamax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "P3A_82",
+        "description": "Hong Kong-South Korea transpacific round voyage",
+        "vessel_class": "Panamax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "P4_82",
+        "description": "Hong Kong-South Korea trip to Skaw-Passero",
+        "vessel_class": "Panamax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "P5_82",
+        "description": "South China, one Indonesian round voyage",
+        "vessel_class": "Panamax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "P6_82",
+        "description": "Dely Singapore for one round voyage via Atlantic",
+        "vessel_class": "Panamax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      }
+    ],
+    "Supramax": [
+      {
+        "code": "S1B",
+        "description": "Canakkale trip via Med or Bl Sea to China-South Korea",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S1C",
+        "description": "US Gulf trip to China-south Japan",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S2",
+        "description": "North China one Australian or Pacific round voyage",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S3",
+        "description": "North China trip to West Africa",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S4A",
+        "description": "US Gulf trip to Skaw-Passero",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S4B",
+        "description": "Skaw-Passero trip to US Gulf",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S5",
+        "description": "West Africa trip via east coast South America to north China",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S8",
+        "description": "South China trip via Indonesia to east coast India",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S9",
+        "description": "West Africa trip via east coast South America to Skaw-Passero",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S10",
+        "description": "South China trip via Indonesia to south China",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "S15",
+        "description": "Indian Ocean trip via South Africa\u00a0 to the Far East",
+        "vessel_class": "Supramax",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      }
+    ],
+    "Handysize": [
+      {
+        "code": "HS1_38",
+        "description": "Skaw-Passero trip to Rio de Janeiro-Recalada",
+        "vessel_class": "Handysize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "HS2_38",
+        "description": "Skaw-Passero trip to Boston-Galveston",
+        "vessel_class": "Handysize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "HS4_38",
+        "description": "US Gulf trip via US Gulf or north coast South America to Skaw-Passero",
+        "vessel_class": "Handysize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "HS5_38",
+        "description": "South East Asia trip to Singapore-Japan",
+        "vessel_class": "Handysize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "HS6_38",
+        "description": "North China-South Korea-Japan trip to North China-South Korea-Japan",
+        "vessel_class": "Handysize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      },
+      {
+        "code": "HS7_38",
+        "description": "North China-South Korea-Japan trip to south east Asia",
+        "vessel_class": "Handysize",
+        "category": "Dry Bulk",
+        "unit": "usd/day"
+      }
+    ],
+    "Clean Tankers": [
+      {
+        "code": "TC1",
+        "description": "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC2_37",
+        "description": "Continent to US Atlantic coast (CPP, UNL)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC5",
+        "description": "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC6",
+        "description": "Algeria to European Mediterranean (CPP, UNL)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC7",
+        "description": "Singapore to east coast Australia (CPP)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC8",
+        "description": "Middle East Gulf to UK-Cont. (CPP, UNL)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC9",
+        "description": "Baltic to UK-Cont. (CPP, UNL, ULSD)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC10",
+        "description": "South Korea to NoPac west coast (CPP/UNL)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC11",
+        "description": "South Korea to Singapore (CPP)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC12",
+        "description": "Sikka (WCI) to Japan (naphtha)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC14",
+        "description": "US Gulf to Continent (CPP, UNL, diesel)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC15",
+        "description": "Med / Far East (naphtha)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC16",
+        "description": "Amsterdam to offshore Lome (CPP)",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC17",
+        "description": "Middle East Gulf to East Africa",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TC18",
+        "description": "US Gulf to Brazil",
+        "vessel_class": "Clean Tankers",
+        "category": "Tanker Clean",
+        "unit": "worldscale"
+      }
+    ],
+    "Dirty Tankers": [
+      {
+        "code": "TD2",
+        "description": "Middle East Gulf to Singapore",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD3C",
+        "description": "Middle East Gulf to China",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD6",
+        "description": "Black Sea to Mediterranean",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD7",
+        "description": "North Sea to Continent",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD8",
+        "description": "Kuwait to Singapore (Crude/DPP heat 135F)",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD9",
+        "description": "Caribbean to US Gulf",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD12",
+        "description": "Amsterdam-Rotterdam-Antwerp to US Gulf",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD14",
+        "description": "South East Asia to east coast Australia",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD15",
+        "description": "West Africa to China",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD17",
+        "description": "Baltic to UK-Cont",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD18",
+        "description": "Baltic to UK-Cont",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD19",
+        "description": "Cross Mediterranean",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD20",
+        "description": "West Africa to UK-Continent",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD21",
+        "description": "Caribbean to US Gulf (50,000mt fuel oil)",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD22",
+        "description": "US Gulf to China (assessed in US $/lumpsum)",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD23",
+        "description": "Middle East Gulf to Mediterranean (Light Crude)",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD24",
+        "description": "Pacific Russia to China",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      },
+      {
+        "code": "TD25",
+        "description": "US Gulf to A-R-A",
+        "vessel_class": "Dirty Tankers",
+        "category": "Tanker Dirty",
+        "unit": "worldscale"
+      }
+    ],
+    "BLNG": [
+      {
+        "code": "BLNG1",
+        "description": "Gladstone / Tokyo RV",
+        "vessel_class": "BLNG",
+        "category": "Gas",
+        "unit": "usd/day"
+      },
+      {
+        "code": "BLNG2",
+        "description": "Sabine / UK Cont RV",
+        "vessel_class": "BLNG",
+        "category": "Gas",
+        "unit": "usd/day"
+      },
+      {
+        "code": "BLNG3",
+        "description": "Sabine / Tokyo RV",
+        "vessel_class": "BLNG",
+        "category": "Gas",
+        "unit": "usd/day"
+      }
+    ],
+    "BLPG": [
+      {
+        "code": "BLPG1",
+        "description": "Middle East Gulf to Japan",
+        "vessel_class": "BLPG",
+        "category": "Gas",
+        "unit": "usd/day"
+      },
+      {
+        "code": "BLPG2",
+        "description": "US Gulf to Continent",
+        "vessel_class": "BLPG",
+        "category": "Gas",
+        "unit": "usd/day"
+      },
+      {
+        "code": "BLPG3",
+        "description": "US Gulf to Japan",
+        "vessel_class": "BLPG",
+        "category": "Gas",
+        "unit": "usd/day"
+      }
+    ],
+    "Container": [
+      {
+        "code": "FBX00",
+        "description": "Global Container Index",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX01",
+        "description": "China/East Asia to North America",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX02",
+        "description": "North America West Coast to China/East Asia",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX03",
+        "description": "China/East Asia to North America East Coast",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX04",
+        "description": "North America East Coast to China/East Asia",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX11",
+        "description": "China/East Asia to North Europe",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX12",
+        "description": "North Europe to China/East Asia",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX13",
+        "description": "China/East Asia to Mediterranean",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX14",
+        "description": "Mediterranean to China/East Asia",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX21",
+        "description": "North America East Coast to Europe",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX22",
+        "description": "Europe to North America East Coast",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX24",
+        "description": "Europe to South America East Coast",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      },
+      {
+        "code": "FBX26",
+        "description": "Europe to South America West Coast",
+        "vessel_class": "Container",
+        "category": "Container",
+        "unit": "usd/feu"
+      }
+    ],
+    "Air Freight": [
+      {
+        "code": "BAI00",
+        "description": "Baltic Air Freight Index",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI20",
+        "description": "Frankfurt Outbound Index",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI30",
+        "description": "Hong Kong Outbound Index",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI40",
+        "description": "London Heathrow Outbound Index",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI50",
+        "description": "O'Hare Int'l, Chicago Outbound Index",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI60",
+        "description": "Singapore Outbound index",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI80",
+        "description": "Shanghai Pudong Outbound Index",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI22",
+        "description": "Frankfurt to North America",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI23",
+        "description": "Frankfurt to South East Asia",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI24",
+        "description": "Frankfurt to USA",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI25",
+        "description": "Frankfurt to China",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI31",
+        "description": "Hong Kong to Europe",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI32",
+        "description": "Hong Kong to North America",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI33",
+        "description": "Hong Kong to South East Asia",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI34",
+        "description": "Hong Kong to USA",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI42",
+        "description": "London Heathrow to North America",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI43",
+        "description": "London Heathrow to South East Asia",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI44",
+        "description": "London Heathrow to USA",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI51",
+        "description": "O'Hare Int'l, Chicago to Europe",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI53",
+        "description": "O'Hare Int'l, Chicago to South East Asia",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI63",
+        "description": "Singapore to South East Asia",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI81",
+        "description": "Shanghai Pudong to Europe",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI82",
+        "description": "Shanghai Pudong to North America",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      },
+      {
+        "code": "BAI84",
+        "description": "Shanghai Pudong to USA",
+        "vessel_class": "Air Freight",
+        "category": "Air",
+        "unit": "usd/kg"
+      }
+    ]
+  },
+  "index_formulas": {
+    "Baltic Capesize Index (BCI)": "RoundedSum(C8*0.15, C9*0.125, C10*0.35, C14*0.25, C16*0.125)*0.11026",
+    "Baltic Panamax Index (BPI)": "Sum(P1A_82*0.027777775, P2A_82*0.01111111, P3A_82*0.027777775, P4_82*0.01111111, P6_82*0.03333333)",
+    "Baltic Supramax Index (BSI)": "Sum(S1B_63*0.05, S1C_63*0.05, S2_63*0.15, S3_63*0.15, S4A_63*0.075, S4B_63*0.10, S5_63*0.05, S8_63*0.1, S9_63*0.075, S10_63*0.10, S15_63*0.10)*0.079112625",
+    "Baltic Handysize Index (BHSI)": "Sum(HS1_38*0.006944444, HS2_38*0.006944444, HS3_38*0.006944444, HS4_38*0.006944444, HS5_38*0.011111111, HS6_38*0.011111111, HS7_38*0.005555556)",
+    "Baltic Clean Tanker Index (BCTI)": "Average (TC1, TC2_37, TC5, TC6, TC9, TC16)*4.54072288",
+    "Baltic Dirty Tanker Index (BDTI)": "RoundedSum(TD2*0.09090909090909091, TD3C*0.09090909090909090, TD6*0.09090909090909090, TD7*0.09090909090909090, TD8*0.09090909090909090, TD9*0.09090909090909090, TD14*0.09090909090909090, TD15*0.09090909090909090, TD18*0.09090909090909090, TD19*0.09090909090909090, TD20*0.09090909090909090)*8.415737054",
+    "Baltic LPG Index (BLPG)": "Average (BLPG1 TCE, BLPG2 TCE, BLPG3 TCE)*0.1"
+  },
+  "vessel_specifications": {
+    "Capesize": "Baltic Capesize vessel for Timecharter routes is a non scrubber fitted vessel based on the following description:182,000mt dwt on 18.2m SSW draftMax age 10 yrsLOA 290m, beam 45m, TPC 12114 knots laden / 15 knots ballast on 62mt fuel oil (380cst), no diesel at sea198,000cbm grain12 knots laden / 13 knots ballast on 43mt fuel oil (380cst), no diesel at sea",
+    "Panamax": "Baltic Panamax vessel for Timecharter routes is a non-scrubber fitted vessel based on the following description:82,500mt dwt on 14.43m SSW draftMax age 12 yrsLOA 229m, beam 32.25m, TPC 70.597,000 cbm grain13.5 knots laden on 33mt fuel oil (380cs t) / 14 knots ballast on 31mt fuel oil (380cs t) + 0.1 MGO at sea11.5 knots laden on 22mt fuel oil (380cs t) / 12.5 knots ballast on 23mt fuel oil (380cs t) + 0.1 MGO at sea",
+    "Supramax": "Baltic Supramax (BSI63) vessel for Timecharter routes is a non-scrubber fitted vessel based on the following description: 63,500mt DWT on 13.418m SSW \u2013 TPC 61.4, Max 15 Years, LOA 199.98 M / Beam 32.24 M, GRAIN: 80,500cbm BALE: 76,200cbm, Cranes 4 x 30 MT with 4 x 12 CBM Grabs, 5 HO/HA, 14 knots on 29 mt laden, 25mt ballast. Marine Fuel Oil, no Marine Gas Oil at sea, 13 knots on 24 mt laden, 21mt ballast. Marine Fuel Oil, no Marine Gas Oil at sea, 12 knots on 20 mt laden, 17mt ballast. Marine Fuel Oil, no Marine Gas Oil at sea, 11 knots on 16.5 mt laden, 14mt ballast. Marine Fuel Oil, no Marine Gas Oil at sea",
+    "Handysize": "Baltic Handysize 38 vessel for Timecharter routes is a non-scrubber fitted vessel based on the following description:Singledeck self trimming geared bulk carrier38,200mt dwt on 10.538m SSWMax Age 15 YearsLOA 180m / Beam 29.8m / TPC 4947,125 cbm grain / 45,300 cbm bale5 holds / 5 hatches4 x 30 ton cranesSpeed & consumptions including main engine & auxibrary engines:14 knots on 26mt IFO (380 CST) laden/24mt IFO (380 CST) ballast + 0.1 MDO at sea12 knots on 18mt IFO (380 CST) laden/17mt IFO (380 CST) ballast + 0.1 MDO at sea"
+  },
+  "baskets": {
+    "Capesize_TCE_Basket": "5TC Weighted Timecharter Average Sum (C8_182*0.15, C9_182*0.125, C10_182*0.35, C14_182*0.25, C16_182*0.125)",
+    "Panamax_TCE_Basket": "5TC Weighted Timecharter Average:\u00a0Sum(P1A_82*0.25, P2A_82*0.1, P3A_82*0.25, P4_82*0.10, P6_82*0.30)",
+    "Supramax_TCE_Basket": "S11TC Weighted Timecharter Average:\u00a0\u00a0Sum (S1B_63*0.05, S1C_63*0.05, S2_63*0.15, S3_63*0.15, S4A_63*0.075, S4B_63*0.10, S5_63*0.05, S8_63*0.1, S9_63*0.075, S10_63*0.10, S15_63*0.10). Representing the Spot Timecharter earnings of a Baltic Standard Supramax (BSI63).",
+    "Handysize_TCE_Basket": "7TC Weighted Time Charter Average:\u00a0\u00a0Sum(HS1_38*0.125, HS2_38*0.125, HS3_38*0.125, HS4_38*0.125, HS5_38*0.20, HS6_38*0.20, HS7_38*0.10)",
+    "MR Atlantic Basket": "MR Atlantic Basket (uses: TC2 TCE & TC14 TCE)",
+    "MR Pacific Basket": "MR Pacific Basket (uses: TC11 TCE & TC12 TCE)",
+    "VLCC TCE": "VLCC TCE (uses: TD3C, TD15 & TD22)",
+    "Suezmax TCE": "Suezmax TCE (uses: TD6 & TD20)",
+    "Aframax TCE": "Aframax TCE (Uses: TD7, TD8, TD14, TD19, TD25 & TD26)"
+  }
+}
