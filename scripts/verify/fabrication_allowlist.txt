@@ -1,0 +1,3 @@
+# scripts/verify/fabrication_allowlist.txt
+# One path + reason per line for genuine static reference data (e.g. port coordinates, vessel DWT bands, distance matrices).
+# Format: <path> <reason>
