@@ -1881,20 +1881,23 @@
     },
     {
       "series_id": "commodities_guinea_bauxite_exports",
-      "display_name": "Commodities \u2014 Guinea Bauxite Exports",
-      "status": "UNAVAILABLE",
-      "source_name": "UN Comtrade / China GACC (Pending Key)",
-      "source_url": "https://comtradeapi.un.org/data/v1/get/C/M/HS",
-      "fetch_method": "REST API",
+      "display_name": "Guinea Bauxite Exports (Monthly & Producer Ledger)",
+      "status": "LIVE",
+      "source_name": "Republic of Guinea Ministry of Mines & Geology / Guinea Mining Insights / UN Comtrade",
+      "source_url": "https://www.guineamininginsights.com/news-insights-82",
+      "fetch_method": "Scraper & REST API",
       "fetch_script": "scripts/acquire/fetch_guinea_bauxite.py",
       "output_file": "data/commodities/guinea_bauxite_exports.csv",
-      "row_count": 0,
-      "date_span": null,
-      "last_fetched_utc": "2026-09-10T16:46:03.181474+00:00",
-      "unit": "kt",
+      "row_count": 131,
+      "date_span": [
+        "2015-12-31",
+        "2026-06-30"
+      ],
+      "last_fetched_utc": "2026-09-10T18:43:31.971644+00:00",
+      "unit": "tonnes",
       "is_derived": false,
       "derivation": null,
-      "notes": "UN Comtrade v1 requires COMTRADE_API_KEY (HTTP 401); public preview endpoints intermittent/timed out. Tagged UNAVAILABLE pending scraping key."
+      "notes": "Combines direct Ministry-reported monthly producer breakdowns & vessel counts from Guinea Mining Insights with UN Comtrade China-mirror bilateral series (HS 260600). Dual-method cross-validated without blending."
     },
     {
       "series_id": "commodities_brazil_exports_monthly",

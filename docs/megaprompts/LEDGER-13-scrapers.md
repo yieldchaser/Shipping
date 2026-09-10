@@ -119,4 +119,62 @@
 - **ACTUAL RESULT:** `check_no_fabrication.py` exited 0 (0 violations); `test_fearnleys_labels_and_ranges.py` 6 passed in 1.08s.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 2 — Guinea Bauxite Monthly Exports & Producer Ledger
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_guinea_bauxite.py` (created)
+  - `data/commodities/guinea_bauxite_exports.csv` (rebuilt from 24 rows to 131 rows across 2015-12-31 to 2026-06-30)
+  - `data/commodities/.cache_comtrade_bauxite_raw.json` (created - 96 periods cached)
+  - `scripts/cargo/build_cargo_cache.py` (updated `process_guinea_bauxite` to isolate continuous mirror series and preserve direct ministry producer records)
+  - `data/cargo/cargo_frontend_summary.json` (rebuilt cache with dual-method data)
+  - `data/provenance/manifest.json` (updated `commodities_guinea_bauxite_exports` row count to 131, status LIVE)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 4, Rung 6):**
+  - `[Rung 1] GET https://www.guineamininginsights.com/news-insights-82` -> HTTP 200 (51,694 bytes). Parsed January 2026 Republic of Guinea Ministry of Mines & Geology official release:
+    - Total Bauxite (National Total): 20.26 Mt, 79 vessels
+    - Société Minière de Boké (SMB): 6.57 Mt across 32 vessels
+    - Chalco: 2.64 Mt on 14 vessels
+    - Compagnie des Bauxites de Guinée (CBG): 1.64 Mt on 28 vessels
+    - Zhicheng Guinee Mining: 0.94 Mt across 5 vessels
+    - China Dianjian Mining: 0.94 Mt
+    - Compagnie des Bauxites de Dabola-Tougué: 0.82 Mt
+    - Alliance Mining Commodities: 0.79 Mt
+    - Bauxite Alliance Mining: 0.63 Mt
+    - Kimbo Bauxite Mining: 0.58 Mt
+    - Friguia Refinery (RUSAL) - Alumina: 46,764 tonnes on 2 vessels
+  - `[Rung 1] GET https://www.guineamininginsights.com/data-hub` -> HTTP 200 (70,605 bytes). Parsed:
+    - 2025 Annual Company Totals: CBG (17.4 Mt), Chalco (22.1 Mt), SMB (70.0 Mt), AGB2A/SDM (17.0 Mt), GAC (16.0 Mt), CBK (3.1 Mt), Other (37.4 Mt), Total (183.0 Mt).
+    - 2015–2025 Annual Export Growth series (2015: 18 Mt -> 2025: 183 Mt).
+  - `[Rung 6] Trade Press Ministry Releases (Mining Weekly, Mysteel, Mining Technology)`:
+    - Q1 2024: 34.9 Mt, 225 vessels
+    - Q1 2025: 48.6 Mt, 312 vessels (+39% YoY)
+    - Q2 2025: 51.2 Mt
+    - H1 2025: 99.8 Mt
+    - Q3 2025: 39.41 Mt (cumulative 139.21 Mt)
+    - Q1 2026: 60.9 Mt
+    - Q2 2026: 53.9 Mt
+    - H1 2026: 114.8 Mt (+15% YoY)
+  - `[Rung 4] UN Comtrade v1 preview API`:
+    - `GET https://comtradeapi.un.org/public/v1/preview/C/M/HS?reporterCode=156&partnerCode=324&cmdCode=260600&flowCode=M&period={YYYYMM}`
+    - Swept 96 monthly periods (2017-01 to 2024-12). Net weight (kg), CIF primary value ($), volume (tonnes), average CIF ($/tonne) captured and cached locally.
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_guinea_bauxite.py` implementing both Method 1 (Ministry-reported direct republisher & trade press) and Method 2 (UN Comtrade China mirror) side-by-side without blending.
+  2. Acquired 131 distinct verified observations (exceeding deliverable threshold of ≥60 monthly points).
+  3. Preserved strict schema: `[date, tonnes, vessels, company, source_url, publisher, source_quote, method]` plus backward-compatible `import_volume_mt` and `avg_cif_usd_t`.
+  4. Updated `scripts/cargo/build_cargo_cache.py` to isolate mirror series for the flagship chart while indexing direct producer ledgers.
+  5. Updated `data/provenance/manifest.json` marking `commodities_guinea_bauxite_exports` LIVE with 131 rows.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.93s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
