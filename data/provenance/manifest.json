@@ -2102,6 +2102,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Monthly seaborne thermal coal exports from Indonesia (world's #1 exporter). Captures 2020\u20132026 monthly volumes (Jan 2026: 29.53 Mt, May 2026: 40.49 Mt, Jan-Jul: 201.47 Mt). Key Panamax/Supramax Pacific Basin demand driver for India and China."
+    },
+    {
+      "series_id": "commodities_argentina_grain_exports_monthly",
+      "display_name": "Commodities \u2014 Argentina Grain Shipments by Port (MAGyP)",
+      "status": "LIVE",
+      "source_name": "Secretar\u00eda de Agricultura, Ganader\u00eda y Pesca (MAGyP)",
+      "source_url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/exportaciones/",
+      "fetch_method": "MAGyP Official Port Loading Harvester",
+      "fetch_script": "scripts/acquire/fetch_argentina_grain.py",
+      "output_file": "data/commodities/argentina_grain_exports_monthly.csv",
+      "row_count": 43,
+      "date_span": [
+        "2023-01-01",
+        "2026-07-01"
+      ],
+      "last_fetched_utc": "2026-09-10T19:14:21.939546+00:00",
+      "unit": "Mt / month",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Official Argentine agriculture ministry (MAGyP) grain shipments by port and terminal (2023\u20132026). Captures Up-River Parana (San Lorenzo, Rosario ~82%) vs Deepwater (Bahia Blanca, Necochea ~18%) Panamax and Handysize loading demand. Validated against Rosario Board of Trade (BCR)."
     }
   ]
 }

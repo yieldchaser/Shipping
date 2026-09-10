@@ -334,6 +334,43 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.83s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 7 — Argentina Grain Exports & Shipments by Port (MAGyP)
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_argentina_grain.py` (created)
+  - `data/commodities/argentina_grain_exports_monthly.csv` (created - 43 monthly rows spanning 2023-01-01 to 2026-07-01)
+  - `data/commodities/argentina_grain_ports_breakdown.csv` (created - 339 port-by-month loading records across 8 key ports)
+  - `data/commodities/argentina_grain_metadata.json` (created - Up-River Parana vs Deepwater Ocean basin analysis, BCR cross-checks)
+  - `data/provenance/manifest.json` (registered `commodities_argentina_grain_exports_monthly` with 43 rows, status LIVE)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 2):**
+  - `[Rung 1] GET https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/exportaciones/` -> HTTP 200 (231,192 bytes). Discovered 43 monthly publication tables across year pairs.
+  - `[Rung 2] GET https://www.magyp.gob.ar/.../embarques_interanual/mensual-{pair}/{month}.php`:
+    - Harvested and parsed 43 official monthly reports (2022-2023, 2023-2024, 2024-2025, 2025-2026).
+    - Latest month (July 2026): National Total = 8,101,095 tonnes (8.10 Mt).
+    - Up-River Parana grain loading hub (San Lorenzo 4.56 Mt, Rosario 1.82 Mt, Ramallo 0.12 Mt, San Pedro 0.07 Mt, Zarate 0.07 Mt, Villa Constitucion 0.01 Mt) = 6.64 Mt (82.0% of seaborne volume, driving up-river Handysize/Panamax demand).
+    - Deepwater Ocean topping-off ports (Bahia Blanca 1.10 Mt, Necochea 0.36 Mt) = 1.46 Mt (18.0%).
+  - `[Rung 1] GET https://www.bcr.com.ar/es/mercados/investigacion-y-desarrollo/informativo-semanal` -> HTTP 200 (61,876 bytes). Cross-checked BCR benchmarks: July 2026 corn record 5.14 Mt, H1 2026 60.7 Mt total grain.
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_argentina_grain.py` with multi-threaded scraper harvesting official MAGyP monthly port loading databases.
+  2. Acquired 43 monthly time-series observations from 2023-01-01 to 2026-07-01 with grain-type breakouts (corn, wheat, soybeans, soymeal pellets, barley, sorghum, sunflower).
+  3. Extracted 339 port-level records distinguishing Up-River Parana vs Deepwater Ocean basins.
+  4. Cross-validated against Rosario Board of Trade (BCR) monthly records.
+  5. Updated `data/provenance/manifest.json` marking `commodities_argentina_grain_exports_monthly` LIVE with 43 rows.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.83s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 
 

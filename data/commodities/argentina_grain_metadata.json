@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-09-10T19:14:21.929790+00:00",
+  "publisher": "Secretar\u00eda de Agricultura, Ganader\u00eda y Pesca (MAGyP) / Subsecretar\u00eda de Mercados Agropecuarios",
+  "portal_url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/exportaciones/",
+  "total_monthly_points": 43,
+  "date_span": [
+    "2023-01-01",
+    "2026-07-01"
+  ],
+  "latest_data_through": "2026-07-01",
+  "ports_tracked": [
+    "BAHIA    BLANCA",
+    "BAHIA BLANCA",
+    "NECOCHEA",
+    "RAMALLO",
+    "ROSARIO",
+    "SAN    LORENZO",
+    "SAN    PEDRO",
+    "SAN LORENZO",
+    "SAN PEDRO",
+    "VILLA    CONSTITUCI\u00d3N",
+    "VILLA CONSTITUCI\u00d3N",
+    "ZARATE"
+  ],
+  "basins": {
+    "Up-River Parana": [
+      "SAN LORENZO",
+      "ROSARIO",
+      "RAMALLO",
+      "SAN PEDRO",
+      "VILLA CONSTITUCION",
+      "ZARATE"
+    ],
+    "Ocean Deepwater": [
+      "BAHIA BLANCA",
+      "NECOCHEA"
+    ]
+  },
+  "latest_month_july_2026": {
+    "total_exports_mt": 8.101,
+    "up_river_parana_mt": 6.644,
+    "ocean_deepwater_mt": 1.457,
+    "up_river_share_pct": 82.01
+  },
+  "cross_validation_bcr": {
+    "jul_2026_corn_record_mt": 5.14,
+    "h1_2026_total_grain_mt": 60.7,
+    "mar_jul_2026_corn_mt": 22.21,
+    "bcr_source": "Rosario Board of Trade (BCR) Informativo Semanal / Anuario Estad\u00edstico"
+  }
+}
