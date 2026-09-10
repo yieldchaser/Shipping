@@ -16,19 +16,19 @@
       "bytes": 48762
     },
     "port_calls_daily_expanded.csv": {
-      "rows": 495600,
-      "bytes": 56252194
+      "rows": 510055,
+      "bytes": 57895926
     },
     "port_calls_daily_expanded.parquet": {
-      "rows": 495600,
-      "bytes": 8199908
+      "rows": 510055,
+      "bytes": 8431534
     }
   },
-  "rows": 0,
+  "rows": 14455,
   "ports_ingested": 2065,
-  "max_date": "2026-08-28",
+  "max_date": "2026-09-04",
   "min_date": "2026-01-01",
   "mode": "refresh",
-  "elapsed_s": 16.2,
-  "generated_utc": "2026-09-09 09:28 UTC"
+  "elapsed_s": 16.3,
+  "generated_utc": "2026-09-10 09:28 UTC"
 }
