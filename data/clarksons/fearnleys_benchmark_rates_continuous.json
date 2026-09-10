@@ -1313,7 +1313,10 @@
           "timestamp_ms": 1684713600000,
           "value": 30
         }
-      ]
+      ],
+      "vessel_class": "VLCC",
+      "unit": "worldscale",
+      "notes": "TD3C crude benchmark, quoted in Worldscale points (historical WS 15-140)."
     },
     "2": {
       "tsid": 2,
@@ -2623,7 +2626,10 @@
           "timestamp_ms": 1684713600000,
           "value": 40
         }
-      ]
+      ],
+      "vessel_class": "VLCC",
+      "unit": "worldscale",
+      "notes": "Dirty tanker route, quoted in Worldscale points."
     },
     "3": {
       "tsid": 3,
@@ -3933,7 +3939,10 @@
           "timestamp_ms": 1684713600000,
           "value": 40
         }
-      ]
+      ],
+      "vessel_class": "VLCC",
+      "unit": "worldscale",
+      "notes": "TD15/TD22 crude benchmark, quoted in Worldscale points."
     },
     "4": {
       "tsid": 4,
@@ -5243,11 +5252,14 @@
           "timestamp_ms": 1788912000000,
           "value": 275
         }
-      ]
+      ],
+      "vessel_class": "Suezmax",
+      "unit": "worldscale",
+      "notes": "TD20 crude benchmark, quoted in Worldscale points."
     },
     "5": {
       "tsid": 5,
-      "route_name": "Market Brief",
+      "route_name": "Market Brief (Dirty Tanker)",
       "data_points_count": 260,
       "date_start": "2018-05-09",
       "date_end": "2023-05-22",
@@ -6553,7 +6565,10 @@
           "timestamp_ms": 1684713600000,
           "value": 107.5
         }
-      ]
+      ],
+      "vessel_class": "Dirty Tanker",
+      "unit": "worldscale",
+      "notes": "Fearnleys BITR market brief composite, quoted in Worldscale points."
     },
     "6": {
       "tsid": 6,
@@ -7863,7 +7878,10 @@
           "timestamp_ms": 1684713600000,
           "value": 115
         }
-      ]
+      ],
+      "vessel_class": "Aframax",
+      "unit": "worldscale",
+      "notes": "TD19 crude benchmark, quoted in Worldscale points."
     },
     "7": {
       "tsid": 7,
@@ -9173,7 +9191,10 @@
           "timestamp_ms": 1684713600000,
           "value": 162.5
         }
-      ]
+      ],
+      "vessel_class": "VLCC",
+      "unit": "worldscale",
+      "notes": "1Y TC benchmark index, quoted in Worldscale points (discontinued 2023-05)."
     },
     "8": {
       "tsid": 8,
@@ -10483,7 +10504,10 @@
           "timestamp_ms": 1684713600000,
           "value": 130
         }
-      ]
+      ],
+      "vessel_class": "Suezmax",
+      "unit": "worldscale",
+      "notes": "1Y TC benchmark index, quoted in Worldscale points (discontinued 2023-05)."
     },
     "9": {
       "tsid": 9,
@@ -11793,7 +11817,10 @@
           "timestamp_ms": 1684713600000,
           "value": 200
         }
-      ]
+      ],
+      "vessel_class": "Aframax",
+      "unit": "worldscale",
+      "notes": "1Y TC benchmark index, quoted in Worldscale points (discontinued 2023-05)."
     },
     "10": {
       "tsid": 10,
@@ -11806,7 +11833,7 @@
     },
     "11": {
       "tsid": 11,
-      "route_name": "1 Year TC - LR1",
+      "route_name": "Specialized High-Spec TC (mislabelled LR1 TC)",
       "data_points_count": 260,
       "date_start": "2021-03-03",
       "date_end": "2026-09-09",
@@ -13112,7 +13139,10 @@
           "timestamp_ms": 1788912000000,
           "value": 145000
         }
-      ]
+      ],
+      "vessel_class": "Specialized Asset",
+      "unit": "usd/day",
+      "notes": "Rates $23k-$145k/day. Far exceeds standard LR1 1Y TC ($30-35k/day); represents high-spec asset or LNGC."
     },
     "12": {
       "tsid": 12,
@@ -13125,7 +13155,7 @@
     },
     "13": {
       "tsid": 13,
-      "route_name": "1 Year TC - Handy",
+      "route_name": "Specialized Asset Rate (mislabelled Handy TC)",
       "data_points_count": 260,
       "date_start": "2021-08-02",
       "date_end": "2026-09-09",
@@ -14431,7 +14461,10 @@
           "timestamp_ms": 1788912000000,
           "value": 110000
         }
-      ]
+      ],
+      "vessel_class": "Specialized Asset",
+      "unit": "usd/day",
+      "notes": "Rates $15k-$110k/day. Far exceeds standard Handy 1Y TC ($14.5k/day); represents high-spec asset or VLGC."
     },
     "303": {
       "tsid": 303,
@@ -15741,7 +15774,10 @@
           "timestamp_ms": 1782864000000,
           "value": 453.5
         }
-      ]
+      ],
+      "vessel_class": "Bunkers",
+      "unit": "usd/tonne",
+      "notes": "Singapore HSFO 380 CST spot price in USD/MT."
     },
     "304": {
       "tsid": 304,
@@ -17051,7 +17087,10 @@
           "timestamp_ms": 1782864000000,
           "value": 899
         }
-      ]
+      ],
+      "vessel_class": "Bunkers",
+      "unit": "usd/tonne",
+      "notes": "Singapore Marine Gas Oil spot price in USD/MT."
     },
     "306": {
       "tsid": 306,
@@ -18361,7 +18400,10 @@
           "timestamp_ms": 1782864000000,
           "value": 458
         }
-      ]
+      ],
+      "vessel_class": "Bunkers",
+      "unit": "usd/tonne",
+      "notes": "Rotterdam HSFO 380 CST spot price in USD/MT."
     },
     "307": {
       "tsid": 307,
@@ -19671,11 +19713,14 @@
           "timestamp_ms": 1782864000000,
           "value": 902
         }
-      ]
+      ],
+      "vessel_class": "Bunkers",
+      "unit": "usd/tonne",
+      "notes": "Rotterdam Marine Gas Oil spot price in USD/MT."
     },
     "316": {
       "tsid": 316,
-      "route_name": "Commodity Prices",
+      "route_name": "Commodity Prices (Brent Crude)",
       "data_points_count": 260,
       "date_start": "2025-10-19",
       "date_end": "2026-08-10",
@@ -20981,7 +21026,10 @@
           "timestamp_ms": 1786320000000,
           "value": 83.97
         }
-      ]
+      ],
+      "vessel_class": "Commodities",
+      "unit": "usd/bbl",
+      "notes": "Brent crude front-month price ($59-$114/bbl)."
     },
     "5001": {
       "tsid": 5001,
@@ -22291,7 +22339,10 @@
           "timestamp_ms": 1647388800000,
           "value": 1235.5
         }
-      ]
+      ],
+      "vessel_class": "FX",
+      "unit": "krw_per_usd",
+      "notes": "Korean Won foreign exchange rate."
     },
     "5002": {
       "tsid": 5002,
@@ -23601,7 +23652,10 @@
           "timestamp_ms": 1788825600000,
           "value": 9.2517651111
         }
-      ]
+      ],
+      "vessel_class": "FX",
+      "unit": "nok_per_usd",
+      "notes": "Norwegian Krone foreign exchange rate."
     },
     "5003": {
       "tsid": 5003,
@@ -24911,7 +24965,10 @@
           "timestamp_ms": 1788825600000,
           "value": 0.8610297916
         }
-      ]
+      ],
+      "vessel_class": "FX",
+      "unit": "usd_per_eur",
+      "notes": "Euro foreign exchange rate."
     },
     "10001": {
       "tsid": 10001,
@@ -26221,7 +26278,10 @@
           "timestamp_ms": 1788912000000,
           "value": 41.918
         }
-      ]
+      ],
+      "vessel_class": "Capesize",
+      "unit": "usd/tonne",
+      "notes": "Baltic C3 Capesize iron ore freight benchmark from Tubarao to Qingdao in USD/tonne."
     },
     "10002": {
       "tsid": 10002,
@@ -27531,7 +27591,10 @@
           "timestamp_ms": 1788912000000,
           "value": 18.735
         }
-      ]
+      ],
+      "vessel_class": "Capesize",
+      "unit": "usd/tonne",
+      "notes": "Baltic C5 Capesize iron ore freight benchmark from Dampier to Qingdao in USD/tonne."
     },
     "10003": {
       "tsid": 10003,
@@ -28841,11 +28904,14 @@
           "timestamp_ms": 1788912000000,
           "value": 24.031
         }
-      ]
+      ],
+      "vessel_class": "Capesize",
+      "unit": "usd/tonne",
+      "notes": "Baltic Capesize coal freight benchmark from Newcastle to Qingdao in USD/tonne."
     },
     "10010": {
       "tsid": 10010,
-      "route_name": "Transatlantic RV (Capesize)",
+      "route_name": "Panamax Transatlantic RV",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -30151,11 +30217,14 @@
           "timestamp_ms": 1788912000000,
           "value": 20195
         }
-      ]
+      ],
+      "vessel_class": "Panamax",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $11.7k-$24.3k/day (median $17.4k). Exact match to fetch_dry_routes_ts.py PANAMAX_TRANSATLANTIC_RV."
     },
     "10011": {
       "tsid": 10011,
-      "route_name": "TCE Cont/Far East (Capesize)",
+      "route_name": "Panamax TCE Cont/Far East",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -31461,11 +31530,14 @@
           "timestamp_ms": 1788912000000,
           "value": 30487
         }
-      ]
+      ],
+      "vessel_class": "Panamax",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $17.5k-$33.0k/day (median $24.9k). Exact match to fetch_dry_routes_ts.py PANAMAX_TCE_CONT_FAR_EAST."
     },
     "10012": {
       "tsid": 10012,
-      "route_name": "TCE Far East RV (Capesize)",
+      "route_name": "Panamax TCE Far East RV",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -32771,11 +32843,14 @@
           "timestamp_ms": 1788912000000,
           "value": 22125
         }
-      ]
+      ],
+      "vessel_class": "Panamax",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $9.2k-$24.1k/day (median $16.8k). Exact match to fetch_dry_routes_ts.py PANAMAX_TCE_FAR_EAST_RV."
     },
     "10013": {
       "tsid": 10013,
-      "route_name": "TCE Far East/Cont (Capesize)",
+      "route_name": "Panamax TCE Far East/Cont",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -34081,7 +34156,10 @@
           "timestamp_ms": 1788912000000,
           "value": 13259
         }
-      ]
+      ],
+      "vessel_class": "Panamax",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Capesize. Rate range $7.3k-$16.5k/day (median $10.8k). Exact match to fetch_dry_routes_ts.py PANAMAX_TCE_FAR_EAST_CONT."
     },
     "11323": {
       "tsid": 11323,
@@ -35391,11 +35469,14 @@
           "timestamp_ms": 1788912000000,
           "value": 3620
         }
-      ]
+      ],
+      "vessel_class": "Dry Bulk Composite",
+      "unit": "index",
+      "notes": "Composite dry bulk shipping index (1,532 - 3,628 points)."
     },
     "12100": {
       "tsid": 12100,
-      "route_name": "Interest Rates",
+      "route_name": "Interest Rates (SOFR/LIBOR)",
       "data_points_count": 260,
       "date_start": "2025-01-23",
       "date_end": "2026-08-06",
@@ -36701,11 +36782,14 @@
           "timestamp_ms": 1785974400000,
           "value": 3.65
         }
-      ]
+      ],
+      "vessel_class": "Macro",
+      "unit": "percent",
+      "notes": "Benchmark interest rates in percent (3.6% - 4.5%)."
     },
     "120129": {
       "tsid": 120129,
-      "route_name": "US Gulf - China/South Japan (Panamax)",
+      "route_name": "Supramax US Gulf - China/South Japan",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -38011,11 +38095,14 @@
           "timestamp_ms": 1788912000000,
           "value": 33441
         }
-      ]
+      ],
+      "vessel_class": "Supramax",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Panamax. Rate range $18.8k-$33.8k/day (median $28.4k). Exact match to fetch_dry_routes_ts.py SUPRAMAX_US_GULF_CHINA_SJ."
     },
     "120132": {
       "tsid": 120132,
-      "route_name": "Transatlantic RV (Panamax)",
+      "route_name": "Supramax Transatlantic RV (Delivery Cont)",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -39321,11 +39408,14 @@
           "timestamp_ms": 1788912000000,
           "value": 32731
         }
-      ]
+      ],
+      "vessel_class": "Supramax",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Panamax. Raw leg A of Supramax Transatlantic RV (Skaw-Passero delivery). Rate range $17.7k-$34.8k/day."
     },
     "120133": {
       "tsid": 120133,
-      "route_name": "Transatlantic RV Round 2 (Panamax)",
+      "route_name": "Supramax Transatlantic RV (Delivery USG)",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -40631,11 +40721,14 @@
           "timestamp_ms": 1788912000000,
           "value": 14416
         }
-      ]
+      ],
+      "vessel_class": "Supramax",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Panamax. Raw leg B of Supramax Transatlantic RV (US Gulf delivery). Rate range $9.6k-$16.6k/day."
     },
     "120137": {
       "tsid": 120137,
-      "route_name": "South China - Indonesia RV (Supramax)",
+      "route_name": "Supramax South China - Indonesia RV",
       "data_points_count": 260,
       "date_start": "2025-09-02",
       "date_end": "2026-09-09",
@@ -41941,11 +42034,14 @@
           "timestamp_ms": 1788912000000,
           "value": 15847
         }
-      ]
+      ],
+      "vessel_class": "Supramax",
+      "unit": "usd/day",
+      "notes": "Supramax Southeast Asia nickel/coal RV in USD/day. Rate range $7.5k-$17.9k/day."
     },
     "120654": {
       "tsid": 120654,
-      "route_name": "Pacific RV (Supramax)",
+      "route_name": "Capesize Pacific RV",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -43251,11 +43347,14 @@
           "timestamp_ms": 1788912000000,
           "value": 62359
         }
-      ]
+      ],
+      "vessel_class": "Capesize",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Supramax. Rate range $16.4k-$63.2k/day (latest $62.4k). Exact match to fetch_dry_routes_ts.py CAPESIZE_PACIFIC_RV."
     },
     "120655": {
       "tsid": 120655,
-      "route_name": "TCE Cont/Far East (Supramax)",
+      "route_name": "Capesize TCE Cont/Far East",
       "data_points_count": 260,
       "date_start": "2025-08-27",
       "date_end": "2026-09-09",
@@ -44561,7 +44660,10 @@
           "timestamp_ms": 1788912000000,
           "value": 91194
         }
-      ]
+      ],
+      "vessel_class": "Capesize",
+      "unit": "usd/day",
+      "notes": "CRITICAL FIX: Formerly mislabelled as Supramax. Rate range $41.1k-$93.1k/day (latest $91.2k). Exact match to fetch_dry_routes_ts.py CAPESIZE_TCE_CONT_FAR_EAST."
     },
     "200001": {
       "tsid": 200001,

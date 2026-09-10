@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-10T16:29:01Z",
+    "generated_at": "2026-09-10T17:40:22Z",
     "as_of": "2026-09-10",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -367,10 +367,10 @@
       }
     },
     "usg_grain": {
-      "title": "US Gulf Grain Inspections vs Panamax US Gulf\u2013Japan Freight",
+      "title": "US Gulf Grain Inspections vs Supramax US Gulf\u2013Japan Freight",
       "origin": "US Gulf Coast Terminals (Mississippi River)",
       "destination": "Japan / South Korea",
-      "route_code": "Panamax USG-Japan (tsid 120129)",
+      "route_code": "Supramax USG-China/Japan (tsid 120129)",
       "months": [
         "2024-01",
         "2024-02",
@@ -443,8 +443,8 @@
         4.55,
         4.9
       ],
-      "freight_label": "Panamax USG\u2013Japan Ocean Freight ($/MT)",
-      "freight_unit": "USD/MT",
+      "freight_label": "Supramax USG\u2013Japan Rate ($k/day)",
+      "freight_unit": "$k/day",
       "freight_data": [
         null,
         null,
@@ -465,20 +465,20 @@
         null,
         null,
         null,
-        28738.0,
-        30757.59,
-        29201.0,
-        29302.85,
-        27376.94,
-        21298.9,
-        26814.5,
-        22083.45,
-        22806.2,
-        25503.0,
-        30047.73,
-        31186.52,
-        30241.65,
-        32151.0
+        28.74,
+        30.76,
+        29.2,
+        29.3,
+        27.38,
+        21.3,
+        26.81,
+        22.08,
+        22.81,
+        25.5,
+        30.05,
+        31.19,
+        30.24,
+        32.15
       ],
       "provenance": {
         "volume_source": "USDA Grain Transportation Report (AMS)",
@@ -487,10 +487,10 @@
       }
     },
     "guinea_cape": {
-      "title": "Guinea Bauxite Mirror Imports vs Atlantic Capesize RV",
+      "title": "Guinea Bauxite Mirror Imports vs Panamax Transatlantic RV",
       "origin": "Kamsar / Boffa, Guinea (via China Customs Mirror)",
       "destination": "China Ports",
-      "route_code": "Capesize Atlantic RV (tsid 10010)",
+      "route_code": "Panamax Transatlantic RV (tsid 10010)",
       "months": [
         "2024-01",
         "2024-02",
@@ -563,7 +563,7 @@
         null,
         null
       ],
-      "freight_label": "Atlantic Capesize RV Index ($/day / 1000)",
+      "freight_label": "Panamax Transatlantic RV Rate ($k/day)",
       "freight_unit": "$k/day",
       "freight_data": [
         null,

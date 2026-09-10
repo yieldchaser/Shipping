@@ -149,11 +149,13 @@ def load_baltic_freight_rates():
         return {}
 
     rates_monthly = {
-        "c3_tubarao_qingdao": {},    # tsid_10001
-        "c5_dampier_qingdao": {},    # tsid_10002
-        "newcastle_coal": {},        # tsid_10003
-        "panamax_usg_japan": {},     # tsid_120129
-        "atlantic_cape_rv": {}       # tsid_10010
+        "c3_tubarao_qingdao": {},    # tsid_10001 ($/tonne)
+        "c5_dampier_qingdao": {},    # tsid_10002 ($/tonne)
+        "newcastle_coal": {},        # tsid_10003 ($/tonne)
+        "supramax_usg_japan": {},    # tsid_120129 ($/day)
+        "panamax_transatlantic_rv": {}, # tsid_10010 ($/day)
+        "capesize_pacific_rv": {},   # tsid_120654 ($/day)
+        "capesize_fronthaul": {}     # tsid_120655 ($/day)
     }
 
     month_counts = defaultdict(lambda: defaultdict(list))
@@ -166,26 +168,30 @@ def load_baltic_freight_rates():
                 continue
             ym = d[:7]
 
-            def parse_f(col):
-                val = row.get(col)
-                if val:
-                    try:
-                        return float(val)
-                    except ValueError:
-                        return None
+            def parse_by_tsid(tsid_num):
+                for k, v in row.items():
+                    if f"(tsid_{tsid_num})" in k and v:
+                        try:
+                            return float(v)
+                        except ValueError:
+                            return None
                 return None
 
-            c3 = parse_f("Tubarao/Qingdao (Capesize Iron Ore C3) (tsid_10001)")
-            c5 = parse_f("Australia/China (Capesize Iron Ore C5) (tsid_10002)")
-            nc = parse_f("Newcastle/Qingdao (Capesize Coal) (tsid_10003)")
-            usg = parse_f("US Gulf - China/South Japan (Panamax) (tsid_120129)")
-            atl = parse_f("Transatlantic RV (Capesize) (tsid_10010)")
+            c3 = parse_by_tsid(10001)
+            c5 = parse_by_tsid(10002)
+            nc = parse_by_tsid(10003)
+            usg = parse_by_tsid(120129)
+            pan_ta = parse_by_tsid(10010)
+            cape_pac = parse_by_tsid(120654)
+            cape_fh = parse_by_tsid(120655)
 
             if c3 is not None: month_counts["c3_tubarao_qingdao"][ym].append(c3)
             if c5 is not None: month_counts["c5_dampier_qingdao"][ym].append(c5)
             if nc is not None: month_counts["newcastle_coal"][ym].append(nc)
-            if usg is not None: month_counts["panamax_usg_japan"][ym].append(usg)
-            if atl is not None: month_counts["atlantic_cape_rv"][ym].append(atl)
+            if usg is not None: month_counts["supramax_usg_japan"][ym].append(usg)
+            if pan_ta is not None: month_counts["panamax_transatlantic_rv"][ym].append(pan_ta)
+            if cape_pac is not None: month_counts["capesize_pacific_rv"][ym].append(cape_pac)
+            if cape_fh is not None: month_counts["capesize_fronthaul"][ym].append(cape_fh)
 
     for key, ym_dict in month_counts.items():
         for ym, vals in ym_dict.items():
@@ -712,21 +718,21 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         }
     }
 
-    # 4. US Gulf Grain vs Panamax USG-Japan
-    usg_rates = baltic_rates.get("panamax_usg_japan", {})
+    # 4. US Gulf Grain vs Supramax USG-Japan (corrected from Panamax)
+    usg_rates = baltic_rates.get("supramax_usg_japan", {})
     usg_grain_pair = {
-        "title": "US Gulf Grain Inspections vs Panamax US Gulf–Japan Freight",
+        "title": "US Gulf Grain Inspections vs Supramax US Gulf–Japan Freight",
         "origin": "US Gulf Coast Terminals (Mississippi River)",
         "destination": "Japan / South Korea",
-        "route_code": "Panamax USG-Japan (tsid 120129)",
+        "route_code": "Supramax USG-China/Japan (tsid 120129)",
         "months": recent_months,
         "volume_label": "US Gulf Monthly Grain Export Volume (Mt/mo)",
         "volume_unit": "Mt",
         # Use estimated 4.5 Mt baseline scaled by reported inspections
         "volume_data": [round(4.2 + (i % 5) * 0.35, 2) for i in range(len(recent_months))],
-        "freight_label": "Panamax USG–Japan Ocean Freight ($/MT)",
-        "freight_unit": "USD/MT",
-        "freight_data": [usg_rates.get(m) for m in recent_months],
+        "freight_label": "Supramax USG–Japan Rate ($k/day)",
+        "freight_unit": "$k/day",
+        "freight_data": [round(usg_rates.get(m) / 1000.0, 2) if usg_rates.get(m) is not None else None for m in recent_months],
         "provenance": {
             "volume_source": "USDA Grain Transportation Report (AMS)",
             "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 120129)",
@@ -734,21 +740,21 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         }
     }
 
-    # 5. Guinea Bauxite vs Atlantic Capesize (with honest empty state card)
-    atl_rates = baltic_rates.get("atlantic_cape_rv", {})
+    # 5. Guinea Bauxite vs Panamax Transatlantic RV (corrected from Capesize)
+    pan_rates = baltic_rates.get("panamax_transatlantic_rv", {})
     gb_vol = guinea_data.get("monthly_volume_mt", {})
     guinea_cape_pair = {
-        "title": "Guinea Bauxite Mirror Imports vs Atlantic Capesize RV",
+        "title": "Guinea Bauxite Mirror Imports vs Panamax Transatlantic RV",
         "origin": "Kamsar / Boffa, Guinea (via China Customs Mirror)",
         "destination": "China Ports",
-        "route_code": "Capesize Atlantic RV (tsid 10010)",
+        "route_code": "Panamax Transatlantic RV (tsid 10010)",
         "months": recent_months,
         "volume_label": "China Import of Guinea Bauxite (Mt/mo)",
         "volume_unit": "Mt",
         "volume_data": [gb_vol.get(m) for m in recent_months],
-        "freight_label": "Atlantic Capesize RV Index ($/day / 1000)",
+        "freight_label": "Panamax Transatlantic RV Rate ($k/day)",
         "freight_unit": "$k/day",
-        "freight_data": [round(atl_rates.get(m) / 1000.0, 2) if atl_rates.get(m) is not None else None for m in recent_months],
+        "freight_data": [round(pan_rates.get(m) / 1000.0, 2) if pan_rates.get(m) is not None else None for m in recent_months],
         "provenance": {
             "volume_source": "UN Comtrade (Reporter: China, Partner: Guinea HS 260600)",
             "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10010)",
