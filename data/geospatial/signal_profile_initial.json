@@ -1,0 +1,3284 @@
+{
+  "profile": {
+    "id": "70365001-f2b2-42d0-a5df-322839ff81c8",
+    "email": "upadhyayprateek574@gmail.com",
+    "displayName": "Prateek Upadhyay",
+    "company": {
+      "id": 246,
+      "name": "Free Edition",
+      "clientId": "FREEED121",
+      "plan": {
+        "type": "Free",
+        "name": "Free Edition",
+        "isTrial": false
+      },
+      "currentPlanStart": "2020-11-05T19:22:35.8028684+00:00",
+      "trialEnd": "2020-06-24T17:27:40.9507877+00:00",
+      "status": "Active",
+      "identityProvider": {
+        "rawValue": "all",
+        "supportsPassword": true,
+        "isCustom": false,
+        "isValid": true,
+        "isAll": true,
+        "isSingleSSOProvider": false,
+        "displayName": "All"
+      }
+    },
+    "metadata": {
+      "vessels": {
+        "vesselsTabPanel": {
+          "allTabs": [],
+          "bookmarkedTabs": []
+        },
+        "defaultExportColumnsPerMode": {},
+        "particularsViewMode": "text"
+      },
+      "globalSettings": {
+        "vesselTypeID": 5,
+        "isAisInfoExpanded": true,
+        "isAvailabilityExpanded": true,
+        "isWeatherSectionExpanded": true
+      },
+      "ports": {
+        "portsTabPanel": {
+          "allTabs": [
+            {
+              "id": "abf2507e-3c4d-4a6d-a775-2192eefb0674",
+              "isPinned": false,
+              "isActive": false,
+              "searchText": "",
+              "mapPreferences": {},
+              "selectedPortId": 3679,
+              "activeTabId": "liveView",
+              "overview": {
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedPortId": 3679,
+                "filters": {
+                  "vesselClasses": [
+                    {
+                      "id": -6,
+                      "label": "All"
+                    }
+                  ],
+                  "visibilityVessels": {
+                    "id": 1,
+                    "label": "Show"
+                  }
+                }
+              },
+              "portExpenses": {
+                "etb": "",
+                "ets": "",
+                "cargoType": {
+                  "id": "Coal",
+                  "label": "Coal"
+                },
+                "operationType": {
+                  "id": 1,
+                  "label": "Load"
+                },
+                "operationStatus": {
+                  "id": 1,
+                  "label": "Ballast"
+                },
+                "italianAnchorageDuesPaid": "none"
+              },
+              "bunkers": {},
+              "liveView": {
+                "columnsState": [
+                  {
+                    "colId": "selection",
+                    "width": 53,
+                    "hide": false,
+                    "pinned": "left",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "eta",
+                    "width": 72,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselName",
+                    "width": 120,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselClass",
+                    "width": 100,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "commercialOperator",
+                    "width": 150,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "purpose",
+                    "width": 75,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "status",
+                    "width": 65,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "etd",
+                    "width": 70,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "location",
+                    "width": 95,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousPort",
+                    "width": 105,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "cargoType",
+                    "width": 90,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "quantity",
+                    "width": 80,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "imo",
+                    "width": 70,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "yearBuilt",
+                    "width": 85,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "deadWeight",
+                    "width": 95,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousCountry",
+                    "width": 127,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "speed",
+                    "width": 60,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "daysSinceLastAis",
+                    "width": 115,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "actions",
+                    "width": 50,
+                    "hide": false,
+                    "pinned": "right",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  }
+                ],
+                "sortModel": [
+                  {
+                    "colId": "eta",
+                    "sort": "asc"
+                  }
+                ],
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedVesselImos": [],
+                "filters": {
+                  "deadweightRange": {
+                    "min": 0,
+                    "max": 550
+                  },
+                  "cargoTypes": []
+                }
+              }
+            },
+            {
+              "id": "7bb9d5ad-6d91-4ba7-bed0-1c2450a3789e",
+              "isPinned": false,
+              "isActive": false,
+              "searchText": "",
+              "mapPreferences": {},
+              "selectedPortId": 3801,
+              "activeTabId": "bunkers",
+              "overview": {
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedPortId": 3801,
+                "filters": {
+                  "vesselClasses": [
+                    {
+                      "id": -6,
+                      "label": "All"
+                    }
+                  ],
+                  "visibilityVessels": {
+                    "id": 1,
+                    "label": "Show"
+                  }
+                }
+              },
+              "portExpenses": {
+                "etb": "",
+                "ets": "",
+                "cargoType": {
+                  "id": "Coal",
+                  "label": "Coal"
+                },
+                "operationType": {
+                  "id": 1,
+                  "label": "Load"
+                },
+                "operationStatus": {
+                  "id": 1,
+                  "label": "Ballast"
+                },
+                "italianAnchorageDuesPaid": "none"
+              },
+              "bunkers": {},
+              "liveView": {
+                "columnsState": [
+                  {
+                    "colId": "selection",
+                    "width": 53,
+                    "hide": false,
+                    "pinned": "left",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "eta",
+                    "width": 72,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselName",
+                    "width": 120,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselClass",
+                    "width": 100,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "commercialOperator",
+                    "width": 150,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "purpose",
+                    "width": 75,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "status",
+                    "width": 65,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "etd",
+                    "width": 70,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "location",
+                    "width": 95,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousPort",
+                    "width": 105,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "cargoType",
+                    "width": 90,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "quantity",
+                    "width": 80,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "imo",
+                    "width": 70,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "yearBuilt",
+                    "width": 85,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "deadWeight",
+                    "width": 95,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousCountry",
+                    "width": 127,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "speed",
+                    "width": 60,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "daysSinceLastAis",
+                    "width": 115,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "actions",
+                    "width": 50,
+                    "hide": false,
+                    "pinned": "right",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  }
+                ],
+                "sortModel": [
+                  {
+                    "colId": "eta",
+                    "sort": "asc"
+                  }
+                ],
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedVesselImos": [],
+                "filters": {
+                  "deadweightRange": {
+                    "min": 5,
+                    "max": 550
+                  },
+                  "cargoTypes": []
+                }
+              }
+            },
+            {
+              "id": "de95ff71-03d9-4d62-8c15-e8f1eebc32f1",
+              "isPinned": false,
+              "isActive": false,
+              "searchText": "",
+              "mapPreferences": {},
+              "selectedPortId": 3463,
+              "activeTabId": "liveView",
+              "overview": {
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedPortId": 3463,
+                "filters": {
+                  "vesselClasses": [
+                    {
+                      "id": -6,
+                      "label": "All"
+                    }
+                  ],
+                  "visibilityVessels": {
+                    "id": 1,
+                    "label": "Show"
+                  }
+                }
+              },
+              "portExpenses": {
+                "etb": "",
+                "ets": "",
+                "cargoType": {
+                  "id": "Coal",
+                  "label": "Coal"
+                },
+                "operationType": {
+                  "id": 1,
+                  "label": "Load"
+                },
+                "operationStatus": {
+                  "id": 1,
+                  "label": "Ballast"
+                },
+                "italianAnchorageDuesPaid": "none"
+              },
+              "bunkers": {},
+              "liveView": {
+                "columnsState": [
+                  {
+                    "colId": "selection",
+                    "width": 53,
+                    "hide": false,
+                    "pinned": "left",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "eta",
+                    "width": 72,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselName",
+                    "width": 120,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselClass",
+                    "width": 100,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "commercialOperator",
+                    "width": 150,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "purpose",
+                    "width": 75,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "status",
+                    "width": 65,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "etd",
+                    "width": 70,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "location",
+                    "width": 95,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousPort",
+                    "width": 105,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "cargoType",
+                    "width": 90,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "quantity",
+                    "width": 80,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "imo",
+                    "width": 70,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "yearBuilt",
+                    "width": 85,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "deadWeight",
+                    "width": 95,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousCountry",
+                    "width": 127,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "speed",
+                    "width": 60,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "daysSinceLastAis",
+                    "width": 115,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "actions",
+                    "width": 50,
+                    "hide": false,
+                    "pinned": "right",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  }
+                ],
+                "sortModel": [
+                  {
+                    "colId": "eta",
+                    "sort": "asc"
+                  }
+                ],
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedVesselImo": 9939345,
+                "selectedVesselImos": [
+                  9939345
+                ],
+                "filters": {
+                  "deadweightRange": {
+                    "min": 0,
+                    "max": 550
+                  },
+                  "cargoTypes": []
+                }
+              }
+            },
+            {
+              "id": "51fa0342-f488-4d11-af24-decf11f799e6",
+              "isPinned": false,
+              "isActive": false,
+              "searchText": "",
+              "mapPreferences": {},
+              "selectedPortId": 3918,
+              "activeTabId": "liveView",
+              "overview": {
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedPortId": 3918,
+                "filters": {
+                  "vesselClasses": [
+                    {
+                      "id": -6,
+                      "label": "All"
+                    }
+                  ],
+                  "visibilityVessels": {
+                    "id": 1,
+                    "label": "Show"
+                  }
+                }
+              },
+              "portExpenses": {
+                "etb": "",
+                "ets": "",
+                "cargoType": {
+                  "id": "Coal",
+                  "label": "Coal"
+                },
+                "operationType": {
+                  "id": 1,
+                  "label": "Load"
+                },
+                "operationStatus": {
+                  "id": 1,
+                  "label": "Ballast"
+                },
+                "italianAnchorageDuesPaid": "none"
+              },
+              "bunkers": {},
+              "liveView": {
+                "columnsState": [
+                  {
+                    "colId": "selection",
+                    "width": 53,
+                    "hide": false,
+                    "pinned": "left",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "eta",
+                    "width": 72,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselName",
+                    "width": 120,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "vesselClass",
+                    "width": 100,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "commercialOperator",
+                    "width": 150,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "purpose",
+                    "width": 75,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "status",
+                    "width": 65,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "etd",
+                    "width": 70,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "location",
+                    "width": 95,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousPort",
+                    "width": 105,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "cargoType",
+                    "width": 90,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "quantity",
+                    "width": 80,
+                    "hide": false,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "imo",
+                    "width": 70,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "yearBuilt",
+                    "width": 85,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "deadWeight",
+                    "width": 95,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "previousCountry",
+                    "width": 127,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "speed",
+                    "width": 60,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "daysSinceLastAis",
+                    "width": 115,
+                    "hide": true,
+                    "pinned": null,
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  },
+                  {
+                    "colId": "actions",
+                    "width": 50,
+                    "hide": false,
+                    "pinned": "right",
+                    "sort": null,
+                    "sortIndex": null,
+                    "aggFunc": null,
+                    "rowGroup": false,
+                    "rowGroupIndex": null,
+                    "pivot": false,
+                    "pivotIndex": null,
+                    "flex": null
+                  }
+                ],
+                "sortModel": [
+                  {
+                    "colId": "eta",
+                    "sort": "asc"
+                  }
+                ],
+                "mapOptions": {
+                  "tileLayer": "NORMAL",
+                  "showGraticule": false,
+                  "showOceanDepth": false,
+                  "showSecaAreas": false,
+                  "showHraAreas": false,
+                  "showJwlaAreas": false,
+                  "hideVesselNames": true,
+                  "showNauticalChart": false,
+                  "showAisPoints": true,
+                  "geoOptions": [
+                    "Ports",
+                    "AnchorageShapes",
+                    "Locations",
+                    "ShipyardShapes",
+                    "TerminalShapes"
+                  ],
+                  "aisPeriodDurationInDays": 30,
+                  "satelliteModeOnZoom": true,
+                  "vesselIconSize": "large",
+                  "showVesselSpeedIndicators": false,
+                  "vesselColorOption": "MarketStatus",
+                  "isVesselColorOptionEnabled": true,
+                  "shouldLinkShapesToGeoAsset": true,
+                  "showSeaMargin": false,
+                  "theme": "Light"
+                },
+                "selectedVesselImos": [],
+                "filters": {
+                  "deadweightRange": {
+                    "min": 0,
+                    "max": 550
+                  },
+                  "cargoTypes": []
+                }
+              }
+            }
+          ],
+          "bookmarkedTabs": []
+        }
+      }
+    },
+    "commercialOperator": {
+      "name": "",
+      "supportedVesselTypes": []
+    },
+    "userName": "upadhyayprateek574@gmail.com",
+    "status": "Active",
+    "isPlatformVisited": true,
+    "jobFunction": "University",
+    "isImpersonated": false
+  },
+  "environmentName": "Production",
+  "permissions": [
+    "Dashboard.VoyageEstimationV4.View",
+    "Dashboard.ProcessedFixtures.CargoTypeQuantityNewColumn",
+    "Dashboard.ProcessedFixtures.Demo",
+    "Dashboard.ProcessedFixtures.UseMarketDataProjections",
+    "Dashboard.Vessels.CargoTypeFromVoyage",
+    "Dashboard.Vessels.VesselValuationsTab",
+    "Dashboard.Vessels.View",
+    "Dashboard.Ports.HideVesselsNotOperatingInPort",
+    "Dashboard.Ports.View",
+    "Dashboard.DistanceTool.View",
+    "Dashboard.HowToVideos.View",
+    "Features.BrowserTabNameVoyageCalculator",
+    "Features.CargoListExtendedDefaultDates",
+    "Features.CargoListLog",
+    "Features.CargoListMatchingVessels2WB",
+    "Feature.ActualVesselAvailability.Tanker",
+    "Feature.Calculator.NewExportModal",
+    "Features.FilterBarWithDropdown",
+    "Features.GridRightClick",
+    "Features.CargoMerging",
+    "Features.CargoZoneGrouping",
+    "Features.CustomSpeedsAndConsumptionsDry",
+    "Features.DistanceToolLandingPage",
+    "Features.EmailsBrokerLogo",
+    "Features.EnableInlineComments",
+    "Features.EnableWorkbookSearchFilters",
+    "Features.ExperimentalAllGeoAssetsInDistanceTool",
+    "Features.ExperimentalBrowsePresets",
+    "Features.ExperimentalDryImpliedStatus",
+    "Features.ExperimentalEtaRange",
+    "Features.ExperimentalGlobalSearch",
+    "Features.ExperimentalIntakeCalculator",
+    "Features.ExperimentalMagicLineWithKPRTanker",
+    "Features.ExperimentalMobileMultipleModes",
+    "Features.ExperimentalModelVessel",
+    "Features.ExperimentalNewCargoNotepad",
+    "Features.ExperimentalNewCargoNotepadTanker",
+    "Features.ExperimentalNewCleanFilters",
+    "Features.ExperimentalNewFilters",
+    "Features.ExperimentalNewSidePanel",
+    "Features.ExperimentalNewTooltip",
+    "Features.ExperimentalOpenDetailsFromPresentlyUpdate",
+    "Features.ExperimentalRemoveCargoNotes",
+    "Features.ExperimentalReportsIndex",
+    "Features.ExperimentalSaveAndShare",
+    "Features.ExperimentalTankerImpliedStatus",
+    "Features.ExperimentalUseProjectionsApiForVoyages",
+    "Feature.ActualVesselAvailability.LPGLNG",
+    "Features.KeyboardShortcutsDesign",
+    "Features.MobileVoyageCalculatorV4",
+    "Features.NavigationRedesign",
+    "Features.NavigationUIRedesign",
+    "Features.NewMultipleVesselClasses",
+    "Features.PersistWorkbookSearchData",
+    "Features.PopoversRedesign",
+    "Features.RightPanelRedesign",
+    "Features.SupplyTrendUseShortTermSupplyApi",
+    "Features.TankerWiderZones",
+    "Features.TonnageList.CanSeeTceForDry",
+    "Features.UseRabbitV2",
+    "Features.UseTceApi",
+    "Features.VesselParticularsRedesign",
+    "Features.VesselSpecsAdvertizedConsumption",
+    "Features.VesselSpecsTextMode",
+    "Features.VoyageCalculatorAverageBunkeringCost",
+    "Features.VoyageCalculatorConsecutiveVoyages",
+    "Features.VoyageCalculatorDynamicTabName",
+    "Features.VoyageCalculatorFutureBunkerPrices",
+    "Features.WeatherDataTooltips",
+    "Feature.Cargoes.NewExportModal",
+    "Feature.Dashboard.Dynamic.PersistState",
+    "Feature.DynamicDashboard.CanDownload",
+    "Feature.FixtureForm.Dry.V2",
+    "Feature.FixtureForm.LPGLNG.V2",
+    "Feature.FixtureForm.Tankers.V2",
+    "Feature.Map.FixedPositionTooltip",
+    "Feature.Map.TabLevelPreferences",
+    "Feature.Map.V2",
+    "Feature.MapVoyageLayer.AisPointsVisible",
+    "Feature.NavigationRedesignAndFavorites",
+    "Feature.Tooltip.Antdesign",
+    "Feature.UseEntityDisplayName",
+    "Feature.UseManualContributionApi",
+    "Feature.VoyageCalculatorEditDistances",
+    "Features.AUXconsumption",
+    "Dashboard.Vessels.DisableValuationsTab.LPG",
+    "Dashboard.Vessels.DisableConsumptionsTab.LNG",
+    "Dashboard.Vessels.DisableValuationsTab.LNG",
+    "Feature.DistanceTool.SeaMarginLayer",
+    "Feature.VesselList.TabIdInUrl",
+    "Features.CargoListModalRedesigned",
+    "Feature.VesselList.VoyagesLastCargo",
+    "Features.SupplyTrendConfigurationChangeIndicators",
+    "Features.MobilePowerBI",
+    "Feature.Vessels.UrlSharing",
+    "Feature.HideCommercialStatusForDry",
+    "Feature.VesselList.MiniDistanceTool",
+    "Features.LimitedSearchesInTCE",
+    "Feature.VoyageCalculator.WorkbookIdInUrl",
+    "Features.CargoListHideEmptyAccounts",
+    "Features.LimitedSearchesForPorts",
+    "Feature.VesselList.VL2VoyageCalculator",
+    "Feature.CargoList.NewDeduplicationLogic",
+    "Features.Ports.Revamp",
+    "Features.CargoListRelativeUpdatedDate",
+    "Feature.CargoList.CreateVoyageCalculationFromCargo",
+    "Feature.VesselsList.QuickCopy",
+    "Features.HasSearchRestrictions",
+    "Features.ChatbotDynamicLayout",
+    "Feature.Ais.Restricted",
+    "Features.MarketDeploymentAll",
+    "Features.VesselsList.AnalyticsChartExtension",
+    "Features.QuickPositionUpdater.Popout",
+    "Features.FreeEditionLowQualityData",
+    "Features.VoyageCalculator.UKETS",
+    "Feature.HideRawAisInformation",
+    "Features.FixturesExport.Limit"
+  ],
+  "externalDashboardsByVesselType": {
+    "1": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": []
+  },
+  "navigationItemsByVesselType": {
+    "5": [
+      {
+        "id": "da400e4f-1186-487b-b326-82525580d73e",
+        "type": 1,
+        "nativeDashboardKey": "HowToVideos",
+        "label": "How-to Videos",
+        "order": 0,
+        "parent": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "showAsLocked": true,
+        "pathName": "howtos"
+      },
+      {
+        "id": "111872b2-1ada-4c5d-b905-d32673a326c6",
+        "type": 1,
+        "nativeDashboardKey": "Vessels",
+        "label": "Vessels",
+        "order": 0,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "vessels"
+      },
+      {
+        "id": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "type": 0,
+        "label": "Tracking",
+        "icon": "entypo-icon-globe",
+        "order": 1,
+        "showAsLocked": false
+      },
+      {
+        "id": "17afb32d-36f0-46b0-bb51-36fa1ba14e32",
+        "type": 1,
+        "nativeDashboardKey": "DistanceTool",
+        "label": "Distance Calculator",
+        "order": 2,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "distancetool"
+      },
+      {
+        "id": "12eadcc2-39a4-44c9-85e3-3db31d305fb7",
+        "type": 1,
+        "nativeDashboardKey": "Ports",
+        "label": "Ports",
+        "order": 3,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "ports"
+      },
+      {
+        "id": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "type": 0,
+        "label": "Help",
+        "icon": "custom-help-icon",
+        "order": 12,
+        "showAsLocked": false
+      }
+    ],
+    "1": [
+      {
+        "id": "da400e4f-1186-487b-b326-82525580d73e",
+        "type": 1,
+        "nativeDashboardKey": "HowToVideos",
+        "label": "How-to Videos",
+        "order": 0,
+        "parent": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "showAsLocked": true,
+        "pathName": "howtos"
+      },
+      {
+        "id": "111872b2-1ada-4c5d-b905-d32673a326c6",
+        "type": 1,
+        "nativeDashboardKey": "Vessels",
+        "label": "Vessels",
+        "order": 0,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "vessels"
+      },
+      {
+        "id": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "type": 0,
+        "label": "Tracking",
+        "icon": "entypo-icon-globe",
+        "order": 1,
+        "showAsLocked": false
+      },
+      {
+        "id": "a59f95b5-76a1-4e8e-a2db-abe159aba8f8",
+        "type": 0,
+        "label": "Freight",
+        "icon": "custom-icon-vessel",
+        "order": 2,
+        "showAsLocked": false
+      },
+      {
+        "id": "17afb32d-36f0-46b0-bb51-36fa1ba14e32",
+        "type": 1,
+        "nativeDashboardKey": "DistanceTool",
+        "label": "Distance Calculator",
+        "order": 2,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "distancetool"
+      },
+      {
+        "id": "12eadcc2-39a4-44c9-85e3-3db31d305fb7",
+        "type": 1,
+        "nativeDashboardKey": "Ports",
+        "label": "Ports",
+        "order": 3,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "ports"
+      },
+      {
+        "id": "c2aafacc-1b31-4372-b969-392d3ed5175d",
+        "type": 1,
+        "nativeDashboardKey": "VoyageEstimationV4",
+        "label": "Voyage Calculator",
+        "order": 8,
+        "parent": "a59f95b5-76a1-4e8e-a2db-abe159aba8f8",
+        "showAsLocked": true,
+        "pathName": "voyagecalculator"
+      },
+      {
+        "id": "d67df8ef-e190-4e12-8185-71903f28b942",
+        "type": 1,
+        "nativeDashboardKey": "ProcessedFixtures",
+        "label": "Fixtures",
+        "order": 11,
+        "parent": "a59f95b5-76a1-4e8e-a2db-abe159aba8f8",
+        "showAsLocked": true,
+        "pathName": "processedFixtures"
+      },
+      {
+        "id": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "type": 0,
+        "label": "Help",
+        "icon": "custom-help-icon",
+        "order": 12,
+        "showAsLocked": false
+      }
+    ],
+    "3": [
+      {
+        "id": "da400e4f-1186-487b-b326-82525580d73e",
+        "type": 1,
+        "nativeDashboardKey": "HowToVideos",
+        "label": "How-to Videos",
+        "order": 0,
+        "parent": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "showAsLocked": true,
+        "pathName": "howtos"
+      },
+      {
+        "id": "111872b2-1ada-4c5d-b905-d32673a326c6",
+        "type": 1,
+        "nativeDashboardKey": "Vessels",
+        "label": "Vessels",
+        "order": 0,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "vessels"
+      },
+      {
+        "id": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "type": 0,
+        "label": "Tracking",
+        "icon": "entypo-icon-globe",
+        "order": 1,
+        "showAsLocked": false
+      },
+      {
+        "id": "a59f95b5-76a1-4e8e-a2db-abe159aba8f8",
+        "type": 0,
+        "label": "Freight",
+        "icon": "custom-icon-vessel",
+        "order": 2,
+        "showAsLocked": false
+      },
+      {
+        "id": "17afb32d-36f0-46b0-bb51-36fa1ba14e32",
+        "type": 1,
+        "nativeDashboardKey": "DistanceTool",
+        "label": "Distance Calculator",
+        "order": 2,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "distancetool"
+      },
+      {
+        "id": "12eadcc2-39a4-44c9-85e3-3db31d305fb7",
+        "type": 1,
+        "nativeDashboardKey": "Ports",
+        "label": "Ports",
+        "order": 3,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "ports"
+      },
+      {
+        "id": "c2aafacc-1b31-4372-b969-392d3ed5175d",
+        "type": 1,
+        "nativeDashboardKey": "VoyageEstimationV4",
+        "label": "Voyage Calculator",
+        "order": 8,
+        "parent": "a59f95b5-76a1-4e8e-a2db-abe159aba8f8",
+        "showAsLocked": true,
+        "pathName": "voyagecalculator"
+      },
+      {
+        "id": "d67df8ef-e190-4e12-8185-71903f28b942",
+        "type": 1,
+        "nativeDashboardKey": "ProcessedFixtures",
+        "label": "Fixtures",
+        "order": 11,
+        "parent": "a59f95b5-76a1-4e8e-a2db-abe159aba8f8",
+        "showAsLocked": true,
+        "pathName": "processedFixtures"
+      },
+      {
+        "id": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "type": 0,
+        "label": "Help",
+        "icon": "custom-help-icon",
+        "order": 12,
+        "showAsLocked": false
+      }
+    ],
+    "6": [
+      {
+        "id": "da400e4f-1186-487b-b326-82525580d73e",
+        "type": 1,
+        "nativeDashboardKey": "HowToVideos",
+        "label": "How-to Videos",
+        "order": 0,
+        "parent": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "showAsLocked": true,
+        "pathName": "howtos"
+      },
+      {
+        "id": "111872b2-1ada-4c5d-b905-d32673a326c6",
+        "type": 1,
+        "nativeDashboardKey": "Vessels",
+        "label": "Vessels",
+        "order": 0,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "vessels"
+      },
+      {
+        "id": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "type": 0,
+        "label": "Tracking",
+        "icon": "entypo-icon-globe",
+        "order": 1,
+        "showAsLocked": false
+      },
+      {
+        "id": "17afb32d-36f0-46b0-bb51-36fa1ba14e32",
+        "type": 1,
+        "nativeDashboardKey": "DistanceTool",
+        "label": "Distance Calculator",
+        "order": 2,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "distancetool"
+      },
+      {
+        "id": "12eadcc2-39a4-44c9-85e3-3db31d305fb7",
+        "type": 1,
+        "nativeDashboardKey": "Ports",
+        "label": "Ports",
+        "order": 3,
+        "parent": "d24bb9b0-7923-466d-994d-441eb2ee93a6",
+        "showAsLocked": true,
+        "pathName": "ports"
+      },
+      {
+        "id": "9205122e-e707-4e5d-9e1a-c4fb085c073e",
+        "type": 0,
+        "label": "Help",
+        "icon": "custom-help-icon",
+        "order": 12,
+        "showAsLocked": false
+      }
+    ]
+  },
+  "notifications": [],
+  "navigationPreview": false,
+  "filters": {
+    "vesselTypes": [
+      {
+        "id": 1,
+        "label": "Tanker",
+        "dashboards": [
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Cargoes",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "DistanceTool",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Emails",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Fixtures",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "HowToVideos",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Ports",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "PositionList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "ProcessedFixtures",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "TonnageList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Vessels",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "VesselsList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "VoyageComparisonV3",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 84,
+                "label": "VLCC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 85,
+                "label": "Suezmax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 86,
+                "label": "Aframax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 87,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 88,
+                "label": "MR2",
+                "quality": "Awesome"
+              },
+              {
+                "id": 89,
+                "label": "MR1",
+                "quality": "Awesome"
+              },
+              {
+                "id": 90,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "VoyageEstimationV4",
+            "quality": "Awesome"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "label": "Dry",
+        "dashboards": [
+          {
+            "vesselClasses": [
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Cargoes",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 69,
+                "label": "VLOC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "DistanceTool",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 69,
+                "label": "VLOC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Emails",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Fixtures",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 69,
+                "label": "VLOC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "HowToVideos",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 69,
+                "label": "VLOC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Ports",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 69,
+                "label": "VLOC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "ProcessedFixtures",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 69,
+                "label": "VLOC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "TonnageList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 69,
+                "label": "VLOC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Vessels",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "VesselsList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 70,
+                "label": "Capesize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 72,
+                "label": "Post Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 74,
+                "label": "Panamax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 75,
+                "label": "Supramax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 76,
+                "label": "Handymax",
+                "quality": "Awesome"
+              },
+              {
+                "id": 77,
+                "label": "Handysize",
+                "quality": "Awesome"
+              },
+              {
+                "id": 92,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "VoyageEstimationV4",
+            "quality": "Awesome"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "label": "LNG",
+        "dashboards": [
+          {
+            "vesselClasses": [
+              {
+                "id": 91,
+                "label": "LNG",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "DistanceTool",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 91,
+                "label": "LNG",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Emails",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 91,
+                "label": "LNG",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "HowToVideos",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 91,
+                "label": "LNG",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Ports",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 91,
+                "label": "LNG",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "PositionList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 91,
+                "label": "LNG",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "TonnageList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 91,
+                "label": "LNG",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Vessels",
+            "quality": "Awesome"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "label": "LPG",
+        "dashboards": [
+          {
+            "vesselClasses": [
+              {
+                "id": 60,
+                "label": "VLGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 61,
+                "label": "Midsize/LGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 62,
+                "label": "Handy",
+                "quality": "Awesome"
+              },
+              {
+                "id": 63,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "DistanceTool",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 60,
+                "label": "VLGC",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Emails",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 60,
+                "label": "VLGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 61,
+                "label": "Midsize/LGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 62,
+                "label": "Handy",
+                "quality": "Awesome"
+              },
+              {
+                "id": 63,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "HowToVideos",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 60,
+                "label": "VLGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 61,
+                "label": "Midsize/LGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 62,
+                "label": "Handy",
+                "quality": "Awesome"
+              },
+              {
+                "id": 63,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Ports",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 60,
+                "label": "VLGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 61,
+                "label": "Midsize/LGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 62,
+                "label": "Handy",
+                "quality": "Awesome"
+              },
+              {
+                "id": 63,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "PositionList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 60,
+                "label": "VLGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 61,
+                "label": "Midsize/LGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 62,
+                "label": "Handy",
+                "quality": "Awesome"
+              },
+              {
+                "id": 63,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "TonnageList",
+            "quality": "Awesome"
+          },
+          {
+            "vesselClasses": [
+              {
+                "id": 60,
+                "label": "VLGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 61,
+                "label": "Midsize/LGC",
+                "quality": "Awesome"
+              },
+              {
+                "id": 62,
+                "label": "Handy",
+                "quality": "Awesome"
+              },
+              {
+                "id": 63,
+                "label": "Small",
+                "quality": "Awesome"
+              }
+            ],
+            "dashboard": "Vessels",
+            "quality": "Awesome"
+          }
+        ]
+      }
+    ]
+  }
+}

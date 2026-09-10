@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/strait-back-to-normal/"
 author: "Erik Broekhuizen"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%208%20May%202026%20-%20Strait%20Back%20To%20Normal.pdf"
+pdf_file: "Weekly Opinion - 8 May 2026 - Strait Back To Normal.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-05-08  
 **Source URL**: [https://www.poten.com/strait-back-to-normal/](https://www.poten.com/strait-back-to-normal/)  
+**Full PDF Report**: [Weekly Opinion - 8 May 2026 - Strait Back To Normal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%208%20May%202026%20-%20Strait%20Back%20To%20Normal.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

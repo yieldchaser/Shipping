@@ -1,0 +1,137 @@
+[
+  {
+    "marketGroupId": 1,
+    "marketChartId": 1,
+    "chartTitle": "Clarksea Index",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 1,
+    "linkedTs": [
+      {
+        "tsSeriesId": 60351,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 3,
+    "chartTitle": "SH Price Index",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 2,
+    "linkedTs": [
+      {
+        "tsSeriesId": 532674,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 4,
+    "chartTitle": "1Yr Capesize TC",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 3,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534410,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 5,
+    "chartTitle": "1Yr VLCC TC",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 4,
+    "linkedTs": [
+      {
+        "tsSeriesId": 47703,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 6,
+    "chartTitle": "1Yr 2,750 TEU TC",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 5,
+    "linkedTs": [
+      {
+        "tsSeriesId": 542030,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 7,
+    "chartTitle": "1Yr VLGC TC",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 6,
+    "linkedTs": [
+      {
+        "tsSeriesId": 535004,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 8,
+    "chartTitle": "World Seaborne Trade",
+    "displayForecastFromYear": 2021,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 7,
+    "linkedTs": [
+      {
+        "tsSeriesId": 98793,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 279,
+    "chartTitle": "World Seaborne Tonne-Mile Trade",
+    "displayForecastFromYear": 2021,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 8,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534398,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 1,
+    "marketChartId": 286,
+    "chartTitle": "World Fleet Growth",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 9,
+    "linkedTs": [
+      {
+        "tsSeriesId": 542186,
+        "colour": null
+      }
+    ]
+  }
+]

@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/chinas-balancing-act/"
 author: "Erik Broekhuizen"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2029%20May%202026%20-%20Chinas%20Balancing%20Act.pdf"
+pdf_file: "Weekly Opinion - 29 May 2026 - Chinas Balancing Act.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-05-29  
 **Source URL**: [https://www.poten.com/chinas-balancing-act/](https://www.poten.com/chinas-balancing-act/)  
+**Full PDF Report**: [Weekly Opinion - 29 May 2026 - Chinas Balancing Act.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2029%20May%202026%20-%20Chinas%20Balancing%20Act.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/show-me-the-barrels/"
 author: "Daniella Green"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%20January%209%202026%20-%20Show%20Me%20The%20Barrels.pdf"
+pdf_file: "Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Daniella Green
 **Published Date**: 2026-01-09  
 **Source URL**: [https://www.poten.com/show-me-the-barrels/](https://www.poten.com/show-me-the-barrels/)  
+**Full PDF Report**: [Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%20January%209%202026%20-%20Show%20Me%20The%20Barrels.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

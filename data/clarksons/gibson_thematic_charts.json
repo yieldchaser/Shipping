@@ -1,0 +1,640 @@
+[
+  {
+    "report_slug": "the-65-billion-barrel-deal",
+    "report_date": "2026-09-04T16:13:08",
+    "chart_title": "Venezuelan Crude Exports",
+    "chart_id": "625",
+    "labels": [
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "total_labels": 14,
+    "datasets": [
+      {
+        "label": "United States",
+        "points": 14
+      },
+      {
+        "label": "China",
+        "points": 14
+      },
+      {
+        "label": "India",
+        "points": 14
+      },
+      {
+        "label": "Other",
+        "points": 14
+      }
+    ]
+  },
+  {
+    "report_slug": "too-much-of-a-good-thing",
+    "report_date": "2026-06-12T16:01:45",
+    "chart_title": "2026 06 12 Weekly Chart (Use this)",
+    "chart_id": "589",
+    "labels": [
+      "VLCC",
+      "Suezmax",
+      "Afra/LR2",
+      "Pan/LR1",
+      "Handy/MR"
+    ],
+    "total_labels": 5,
+    "datasets": [
+      {
+        "label": "Up to 15 yrs of age",
+        "points": 5
+      },
+      {
+        "label": "15 yrs +",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "report_slug": "geopolitics-before-fundamentals",
+    "report_date": "2026-01-30T16:53:46",
+    "chart_title": "2026 01 30 TD3C",
+    "chart_id": "520",
+    "labels": [
+      "2025-01-01",
+      "2025-01-02",
+      "2025-01-03",
+      "2025-01-04",
+      "2025-01-05",
+      "2025-01-06",
+      "2025-01-07",
+      "2025-01-08",
+      "2025-01-09",
+      "2025-01-10",
+      "2025-01-11",
+      "2025-01-12",
+      "2026-01-01"
+    ],
+    "total_labels": 13,
+    "datasets": [
+      {
+        "label": "Rate",
+        "points": 13
+      }
+    ]
+  },
+  {
+    "report_slug": "sweeping-sanctions",
+    "report_date": "2025-10-24T16:42:09",
+    "chart_title": "2025 10 24 Russian crude exports",
+    "chart_id": "467",
+    "labels": [
+      "2025-01-01",
+      "2025-02-01",
+      "2025-03-01",
+      "2025-04-01",
+      "2025-05-01",
+      "2025-06-01",
+      "2025-07-01",
+      "2025-08-01",
+      "2025-09-01",
+      "2025-10-01"
+    ],
+    "total_labels": 10,
+    "datasets": [
+      {
+        "label": "Turkey",
+        "points": 10
+      },
+      {
+        "label": "India",
+        "points": 10
+      },
+      {
+        "label": "China",
+        "points": 10
+      },
+      {
+        "label": "Other",
+        "points": 10
+      },
+      {
+        "label": "Preliminary",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "report_slug": "oil-glut-looms",
+    "report_date": "2025-09-26T16:10:08",
+    "chart_title": "2025 09 26 - Oil Glut Looms",
+    "chart_id": "454",
+    "labels": [
+      "Q1-25",
+      "Q2-25",
+      "Q3-25",
+      "Q4-25",
+      "Q1-26",
+      "Q2-26",
+      "Q3-26",
+      "Q4-26"
+    ],
+    "total_labels": 8,
+    "datasets": [
+      {
+        "label": "Oil Demand",
+        "points": 8
+      },
+      {
+        "label": "Oil Supply",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "report_slug": "cascading-costs",
+    "report_date": "2025-08-29T16:00:45",
+    "chart_title": "2025 08 29 Weekly Report Chart",
+    "chart_id": "436",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "Rotterdam Hi-5 spread",
+        "points": 7
+      },
+      {
+        "label": "Singapore Hi-5 spread",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "report_slug": "choosing-a-side",
+    "report_date": "2025-08-01T16:11:45",
+    "chart_title": "2025 08 01 Report Chart",
+    "chart_id": "415",
+    "labels": [
+      "China",
+      "India",
+      "Brazil",
+      "Turkey"
+    ],
+    "total_labels": 4,
+    "datasets": [
+      {
+        "label": "US",
+        "points": 4
+      },
+      {
+        "label": "Russia",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "report_slug": "all-about-us",
+    "report_date": "2025-07-04T15:08:40",
+    "chart_title": "2025 Mid Year Chart",
+    "chart_id": "401",
+    "labels": [
+      "2024-01-01",
+      "2024-01-02",
+      "2024-01-03",
+      "2024-01-04",
+      "2024-01-05",
+      "2024-01-06",
+      "2024-01-07",
+      "2024-01-08",
+      "2024-01-09",
+      "2024-01-10",
+      "2024-01-11",
+      "2024-01-12",
+      "2025-01-01",
+      "2025-01-02",
+      "2025-01-03",
+      "2025-01-04",
+      "2025-01-05",
+      "2025-01-06"
+    ],
+    "total_labels": 18,
+    "datasets": [
+      {
+        "label": "VLCC TD3C",
+        "points": 18
+      },
+      {
+        "label": "Suez TD20",
+        "points": 18
+      },
+      {
+        "label": "Afra TD25",
+        "points": 18
+      },
+      {
+        "label": "LR2 TC1",
+        "points": 18
+      },
+      {
+        "label": "LR2 TC5",
+        "points": 18
+      },
+      {
+        "label": "MR TC18",
+        "points": 18
+      }
+    ]
+  },
+  {
+    "report_slug": "refinery-developments",
+    "report_date": "2025-06-06T16:04:34",
+    "chart_title": "2025 06 06 Refinery developments chart",
+    "chart_id": "384",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "Total",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "report_slug": "carbon-pricing",
+    "report_date": "2025-05-09T15:21:17",
+    "chart_title": "2025 05 09 Carbon Pricing Chart",
+    "chart_id": "368",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "VLCC (TD3C) Eco",
+        "points": 8
+      },
+      {
+        "label": "Suezmax (TD20) Eco",
+        "points": 8
+      },
+      {
+        "label": "Aframax (TD19) Eco",
+        "points": 8
+      }
+    ]
+  },
+  {
+    "report_slug": "liberation-day",
+    "report_date": "2025-04-04T15:52:00",
+    "chart_title": "2025 04 04 Liberation Day Chart",
+    "chart_id": "349",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "Other",
+        "points": 4
+      },
+      {
+        "label": "NWE",
+        "points": 4
+      },
+      {
+        "label": "Eastern Asia",
+        "points": 4
+      },
+      {
+        "label": "Med + Black Sea",
+        "points": 4
+      },
+      {
+        "label": "South-East Asia",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "report_slug": "navigating-nigerias-oil-trade",
+    "report_date": "2025-03-07T16:40:28",
+    "chart_title": "2025 03 07 Nigeria Weekly Report Chart",
+    "chart_id": "332",
+    "labels": [
+      "2023-01-01",
+      "2023-02-01",
+      "2023-03-01",
+      "2023-04-01",
+      "2023-05-01",
+      "2023-06-01",
+      "2023-07-01",
+      "2023-08-01",
+      "2023-09-01",
+      "2023-10-01",
+      "2023-11-01",
+      "2023-12-01",
+      "2024-01-01",
+      "2024-02-01",
+      "2024-03-01",
+      "2024-04-01",
+      "2024-05-01",
+      "2024-06-01",
+      "2024-07-01",
+      "2024-08-01"
+    ],
+    "total_labels": 26,
+    "datasets": [
+      {
+        "label": "CPP Imports",
+        "points": 26
+      }
+    ]
+  },
+  {
+    "report_slug": "white-house-in-spotlight-again",
+    "report_date": "2025-02-07T17:15:40",
+    "chart_title": "2025 02 07 Weekly report chart",
+    "chart_id": "315",
+    "labels": [
+      "01-Jan-2023",
+      "01-Feb-2023",
+      "01-Mar-2023",
+      "01-Apr-2023",
+      "01-May-2023",
+      "01-Jun-2023",
+      "01-Jul-2023",
+      "01-Aug-2023",
+      "01-Sep-2023",
+      "01-Oct-2023",
+      "01-Nov-2023",
+      "01-Dec-2023",
+      "01-Jan-2024",
+      "01-Feb-2024",
+      "01-Mar-2024",
+      "01-Apr-2024",
+      "01-May-2024",
+      "01-Jun-2024",
+      "01-Jul-2024",
+      "01-Aug-2024"
+    ],
+    "total_labels": 25,
+    "datasets": [
+      {
+        "label": "Via Suez Canal",
+        "points": 25
+      },
+      {
+        "label": "COGH",
+        "points": 25
+      }
+    ]
+  },
+  {
+    "report_slug": "sanctions-sting",
+    "report_date": "2025-01-10T17:37:58",
+    "chart_title": "2025 01 10 Sanctions Sting Chart",
+    "chart_id": "300",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "Russian Federation",
+        "points": 6
+      },
+      {
+        "label": "Iran",
+        "points": 6
+      },
+      {
+        "label": "Venezuela",
+        "points": 6
+      }
+    ]
+  },
+  {
+    "report_slug": "mexican-standoff",
+    "report_date": "2024-11-29T16:25:57",
+    "chart_title": "2024 11 29 Mexican crude exports to the US",
+    "chart_id": "278",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "Total",
+        "points": 10
+      }
+    ]
+  },
+  {
+    "report_slug": "long-view",
+    "report_date": "2024-11-01T16:54:09",
+    "chart_title": "2024 11 01 - WEO Chart",
+    "chart_id": "262",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "Stated Policies",
+        "points": 3
+      },
+      {
+        "label": "Announced Pledges",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "report_slug": "chinese-stimulus",
+    "report_date": "2024-10-04T15:55:09",
+    "chart_title": "2024 10 04 Chinese crude imports",
+    "chart_id": "246",
+    "labels": [],
+    "total_labels": 0,
+    "datasets": [
+      {
+        "label": "Total",
+        "points": 12
+      }
+    ]
+  },
+  {
+    "report_slug": "south-american-supply",
+    "report_date": "2024-09-06T15:47:48",
+    "chart_title": "2024 09 06 - South American Crude Production",
+    "chart_id": "229",
+    "labels": [
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026",
+      "2027",
+      "2028",
+      "2029",
+      "2030"
+    ],
+    "total_labels": 9,
+    "datasets": [
+      {
+        "label": "Venezuela",
+        "points": 9
+      },
+      {
+        "label": "Brazil",
+        "points": 9
+      },
+      {
+        "label": "Argentina",
+        "points": 9
+      },
+      {
+        "label": "Colombia",
+        "points": 9
+      },
+      {
+        "label": "Guyana",
+        "points": 9
+      },
+      {
+        "label": "Others",
+        "points": 9
+      }
+    ]
+  },
+  {
+    "report_slug": "seasonal-slowdown",
+    "report_date": "2024-08-09T15:54:31",
+    "chart_title": "Suezmax Seasonality",
+    "chart_id": "212",
+    "labels": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4"
+    ],
+    "total_labels": 4,
+    "datasets": [
+      {
+        "label": "2010-2019 Av.",
+        "points": 4
+      },
+      {
+        "label": "2024 av.",
+        "points": 4
+      },
+      {
+        "label": "2000-2024 Av.",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "report_slug": "opecs-dilemma",
+    "report_date": "2024-05-24T15:24:21",
+    "chart_title": "New wpDataTable Chart",
+    "chart_id": "166",
+    "labels": [
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "total_labels": 15,
+    "datasets": [
+      {
+        "label": "China Demand Growth",
+        "points": 15
+      },
+      {
+        "label": "Non-China Demand Growth",
+        "points": 15
+      }
+    ]
+  },
+  {
+    "report_slug": "relentless-regulations",
+    "report_date": "2024-03-22T16:18:54",
+    "chart_title": "New wpDataTable Chart",
+    "chart_id": "131",
+    "labels": [
+      "Reference",
+      "2025",
+      "2030",
+      "2035",
+      "2040",
+      "2045",
+      "2050"
+    ],
+    "total_labels": 7,
+    "datasets": [
+      {
+        "label": "gCO2eq/MJ",
+        "points": 7
+      }
+    ]
+  },
+  {
+    "report_slug": "the-9-million-barrel-question",
+    "report_date": "2024-02-23T15:10:42",
+    "chart_title": "India",
+    "chart_id": "118",
+    "labels": [
+      "12-13",
+      "13-14",
+      "14-15",
+      "15-16",
+      "16-17",
+      "17-18",
+      "18-19",
+      "19-20",
+      "20-21",
+      "21-22",
+      "22-23"
+    ],
+    "total_labels": 11,
+    "datasets": [
+      {
+        "label": "Throughput (000mt)",
+        "points": 11
+      }
+    ]
+  },
+  {
+    "report_slug": "peak-a-boo",
+    "report_date": "2023-10-27T16:15:10",
+    "chart_title": "Peak a Boo Chart",
+    "chart_id": "53",
+    "labels": [
+      "STEPS",
+      "APS",
+      "NZE"
+    ],
+    "total_labels": 3,
+    "datasets": [
+      {
+        "label": "2030",
+        "points": 3
+      },
+      {
+        "label": "2050",
+        "points": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "date": "2022-08-01",
+    "project_cargo_index": 188.0,
+    "general_cargo_index": 266.4
+  },
+  {
+    "date": "2022-09-01",
+    "project_cargo_index": 172.9,
+    "general_cargo_index": 239.6
+  },
+  {
+    "date": "2022-10-01",
+    "project_cargo_index": 167.1,
+    "general_cargo_index": 226.7
+  },
+  {
+    "date": "2022-11-01",
+    "project_cargo_index": 159.5,
+    "general_cargo_index": 220.5
+  },
+  {
+    "date": "2022-12-01",
+    "project_cargo_index": 158.6,
+    "general_cargo_index": 213.1
+  },
+  {
+    "date": "2023-01-01",
+    "project_cargo_index": 140.9,
+    "general_cargo_index": 200.9
+  },
+  {
+    "date": "2023-02-01",
+    "project_cargo_index": 141.5,
+    "general_cargo_index": 190.7
+  },
+  {
+    "date": "2023-03-01",
+    "project_cargo_index": 149.9,
+    "general_cargo_index": 190.7
+  },
+  {
+    "date": "2023-04-01",
+    "project_cargo_index": 147.8,
+    "general_cargo_index": 189.3
+  },
+  {
+    "date": "2023-05-01",
+    "project_cargo_index": 139.6,
+    "general_cargo_index": 187.6
+  },
+  {
+    "date": "2023-06-01",
+    "project_cargo_index": 128.1,
+    "general_cargo_index": 179.3
+  },
+  {
+    "date": "2023-07-01",
+    "project_cargo_index": 123.9,
+    "general_cargo_index": 177.7
+  },
+  {
+    "date": "2023-08-01",
+    "project_cargo_index": 125.5,
+    "general_cargo_index": 168.4
+  },
+  {
+    "date": "2023-09-01",
+    "project_cargo_index": 132.0,
+    "general_cargo_index": 161.8
+  },
+  {
+    "date": "2023-10-01",
+    "project_cargo_index": 132.3,
+    "general_cargo_index": 158.1
+  },
+  {
+    "date": "2023-11-01",
+    "project_cargo_index": 139.5,
+    "general_cargo_index": 157.5
+  },
+  {
+    "date": "2023-12-01",
+    "project_cargo_index": 134.2,
+    "general_cargo_index": 155.6
+  },
+  {
+    "date": "2024-01-01",
+    "project_cargo_index": 136.8,
+    "general_cargo_index": 157.9
+  },
+  {
+    "date": "2024-02-01",
+    "project_cargo_index": 139.5,
+    "general_cargo_index": 159.0
+  },
+  {
+    "date": "2024-03-01",
+    "project_cargo_index": 141.0,
+    "general_cargo_index": 162.3
+  },
+  {
+    "date": "2024-04-01",
+    "project_cargo_index": 140.7,
+    "general_cargo_index": 165.2
+  },
+  {
+    "date": "2024-05-01",
+    "project_cargo_index": 141.8,
+    "general_cargo_index": 168.3
+  },
+  {
+    "date": "2024-06-01",
+    "project_cargo_index": 143.6,
+    "general_cargo_index": 170.6
+  },
+  {
+    "date": "2024-07-01",
+    "project_cargo_index": 145.4,
+    "general_cargo_index": 172.9
+  },
+  {
+    "date": "2024-08-01",
+    "project_cargo_index": 146.7,
+    "general_cargo_index": 174.8
+  },
+  {
+    "date": "2024-09-01",
+    "project_cargo_index": 145.5,
+    "general_cargo_index": 174.5
+  },
+  {
+    "date": "2024-10-01",
+    "project_cargo_index": 143.0,
+    "general_cargo_index": 174.5
+  },
+  {
+    "date": "2024-11-01",
+    "project_cargo_index": 143.2,
+    "general_cargo_index": 174.5
+  },
+  {
+    "date": "2024-12-01",
+    "project_cargo_index": 136.8,
+    "general_cargo_index": 173.7
+  },
+  {
+    "date": "2025-01-01",
+    "project_cargo_index": 134.7,
+    "general_cargo_index": 173.9
+  },
+  {
+    "date": "2025-02-01",
+    "project_cargo_index": 136.6,
+    "general_cargo_index": 170.9
+  },
+  {
+    "date": "2025-03-01",
+    "project_cargo_index": 140.8,
+    "general_cargo_index": 169.0
+  },
+  {
+    "date": "2025-04-01",
+    "project_cargo_index": 141.1,
+    "general_cargo_index": 168.8
+  },
+  {
+    "date": "2025-05-01",
+    "project_cargo_index": 137.9,
+    "general_cargo_index": 170.0
+  },
+  {
+    "date": "2025-06-01",
+    "project_cargo_index": 134.7,
+    "general_cargo_index": 168.0
+  },
+  {
+    "date": "2025-07-01",
+    "project_cargo_index": 134.1,
+    "general_cargo_index": 168.4
+  },
+  {
+    "date": "2025-08-01",
+    "project_cargo_index": 134.4,
+    "general_cargo_index": 168.1
+  },
+  {
+    "date": "2025-09-01",
+    "project_cargo_index": 137.6,
+    "general_cargo_index": 167.4
+  },
+  {
+    "date": "2025-10-01",
+    "project_cargo_index": 143.9,
+    "general_cargo_index": 167.1
+  },
+  {
+    "date": "2025-11-01",
+    "project_cargo_index": 149.0,
+    "general_cargo_index": 167.8
+  },
+  {
+    "date": "2025-12-01",
+    "project_cargo_index": 152.4,
+    "general_cargo_index": 168.7
+  },
+  {
+    "date": "2026-01-01",
+    "project_cargo_index": 153.6,
+    "general_cargo_index": 167.2
+  },
+  {
+    "date": "2026-02-01",
+    "project_cargo_index": 155.0,
+    "general_cargo_index": 167.9
+  },
+  {
+    "date": "2026-03-01",
+    "project_cargo_index": 162.3,
+    "general_cargo_index": 169.4
+  },
+  {
+    "date": "2026-04-01",
+    "project_cargo_index": 165.7,
+    "general_cargo_index": 169.5
+  },
+  {
+    "date": "2026-05-01",
+    "project_cargo_index": 168.8,
+    "general_cargo_index": 170.6
+  },
+  {
+    "date": "2026-06-01",
+    "project_cargo_index": 166.6,
+    "general_cargo_index": 169.7
+  },
+  {
+    "date": "2026-07-01",
+    "project_cargo_index": 161.4,
+    "general_cargo_index": 170.4
+  },
+  {
+    "date": "2026-08-01",
+    "project_cargo_index": 163.3,
+    "general_cargo_index": 169.9
+  }
+]

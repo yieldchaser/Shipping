@@ -1,0 +1,2462 @@
+{
+  "1": [
+    {
+      "marketGroupId": 1,
+      "marketChartId": 1,
+      "chartTitle": "Clarksea Index",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 60351,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 3,
+      "chartTitle": "SH Price Index",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 532674,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 4,
+      "chartTitle": "1Yr Capesize TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534410,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 5,
+      "chartTitle": "1Yr VLCC TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47703,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 6,
+      "chartTitle": "1Yr 2,750 TEU TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542030,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 7,
+      "chartTitle": "1Yr VLGC TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 535004,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 8,
+      "chartTitle": "World Seaborne Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98793,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 279,
+      "chartTitle": "World Seaborne Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534398,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 1,
+      "marketChartId": 286,
+      "chartTitle": "World Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 9,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542186,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "marketGroupId": 2,
+      "marketChartId": 9,
+      "chartTitle": "1Yr Capesize TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534410,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 2,
+      "marketChartId": 10,
+      "chartTitle": "1Yr Supramax TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534414,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 2,
+      "marketChartId": 11,
+      "chartTitle": "1Yr VLCC TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47703,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 2,
+      "marketChartId": 12,
+      "chartTitle": "1Yr MR TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47785,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 2,
+      "marketChartId": 13,
+      "chartTitle": "3Yr 9,000 TEU 'Eco' TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542037,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 2,
+      "marketChartId": 14,
+      "chartTitle": "1Yr 2,750 TEU TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542030,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 2,
+      "marketChartId": 15,
+      "chartTitle": "1Yr VLGC TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 535004,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "3": [
+    {
+      "marketGroupId": 3,
+      "marketChartId": 16,
+      "chartTitle": "Capesize NB",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98722,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 17,
+      "chartTitle": "NB Price Index",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 58039,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 18,
+      "chartTitle": "VLCC NB",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98740,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 20,
+      "chartTitle": "15,500 TEU NB",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542619,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 21,
+      "chartTitle": "World Contracting",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 45911,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 22,
+      "chartTitle": "VLGC NB",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98622,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 23,
+      "chartTitle": "LNG NB",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541195,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 284,
+      "chartTitle": "World Orderbook",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 9,
+      "linkedTs": [
+        {
+          "tsSeriesId": 45082,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 3,
+      "marketChartId": 285,
+      "chartTitle": "World Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 10,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542189,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "marketGroupId": 4,
+      "marketChartId": 25,
+      "chartTitle": "Capesize 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541372,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 4,
+      "marketChartId": 26,
+      "chartTitle": "Kamsarmax 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 540720,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 4,
+      "marketChartId": 27,
+      "chartTitle": "VLCC 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98767,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 4,
+      "marketChartId": 28,
+      "chartTitle": "MR 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98688,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 4,
+      "marketChartId": 29,
+      "chartTitle": "9,000 TEU 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542155,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 4,
+      "marketChartId": 30,
+      "chartTitle": "2,750 TEU 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 56918,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 4,
+      "marketChartId": 31,
+      "chartTitle": "Scrap Bulk - India",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 535250,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "marketGroupId": 5,
+      "marketChartId": 151,
+      "chartTitle": "Bulkcarrier Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534435,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 5,
+      "marketChartId": 152,
+      "chartTitle": "Bulkcarrier Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534436,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "7": [
+    {
+      "marketGroupId": 7,
+      "marketChartId": 153,
+      "chartTitle": "Containership Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534441,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 7,
+      "marketChartId": 154,
+      "chartTitle": "Containership Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534442,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "8": [
+    {
+      "marketGroupId": 8,
+      "marketChartId": 32,
+      "chartTitle": "1Yr Capesize TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534410,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 33,
+      "chartTitle": "1Yr Panamax TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 10549,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 38,
+      "chartTitle": "Capesize 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541372,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 39,
+      "chartTitle": "Kamsarmax 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 540720,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 41,
+      "chartTitle": "Dry Bulk Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534032,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 276,
+      "chartTitle": "Dry Bulk Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534408,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 277,
+      "chartTitle": "Bulkcarrier Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534435,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 278,
+      "chartTitle": "Bulkcarrier Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534436,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 8,
+      "marketChartId": 330,
+      "chartTitle": "Bulkcarrier Supply/Demand Outlook",
+      "displayForecastFromYear": 2022,
+      "startDate": "2010-01-01T00:00:00",
+      "endDate": null,
+      "sortOrder": 0,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534495,
+          "colour": "#ff0000"
+        },
+        {
+          "tsSeriesId": 542420,
+          "colour": "#002859"
+        }
+      ]
+    }
+  ],
+  "9": [
+    {
+      "marketGroupId": 9,
+      "marketChartId": 42,
+      "chartTitle": "Capesize Spot Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 530828,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 9,
+      "marketChartId": 43,
+      "chartTitle": "1Yr Capesize TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534410,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 9,
+      "marketChartId": 45,
+      "chartTitle": "Capesize 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541372,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 9,
+      "marketChartId": 46,
+      "chartTitle": "Iron Ore Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98794,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 9,
+      "marketChartId": 47,
+      "chartTitle": "Iron Ore Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534399,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 9,
+      "marketChartId": 155,
+      "chartTitle": "Capesize Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534443,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 9,
+      "marketChartId": 156,
+      "chartTitle": "Capesize Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534444,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "10": [
+    {
+      "marketGroupId": 10,
+      "marketChartId": 48,
+      "chartTitle": "Panamax Spot Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 530832,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 49,
+      "chartTitle": "1Yr Panamax TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 10549,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 51,
+      "chartTitle": "Kamsarmax 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 540720,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 52,
+      "chartTitle": "Total Coal Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534597,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 53,
+      "chartTitle": "Total Coal Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534409,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 54,
+      "chartTitle": "Total Grain Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534096,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 161,
+      "chartTitle": "Panamax Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534449,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 162,
+      "chartTitle": "Panamax Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 9,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534450,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 10,
+      "marketChartId": 283,
+      "chartTitle": "Total Grain Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534400,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "11": [
+    {
+      "marketGroupId": 11,
+      "marketChartId": 55,
+      "chartTitle": "Supramax Trip Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534418,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 56,
+      "chartTitle": "1Yr Supramax TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534414,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 58,
+      "chartTitle": "Ultramax 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542020,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 59,
+      "chartTitle": "Total Coal Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534597,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 60,
+      "chartTitle": "Total Coal Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534409,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 61,
+      "chartTitle": "Total Grain Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534096,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 63,
+      "chartTitle": "Total Grain Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534400,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 163,
+      "chartTitle": "Handymax Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534451,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 11,
+      "marketChartId": 164,
+      "chartTitle": "Handymax Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 9,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534452,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "12": [
+    {
+      "marketGroupId": 12,
+      "marketChartId": 64,
+      "chartTitle": "Handysize Trip Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534422,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 12,
+      "marketChartId": 65,
+      "chartTitle": "1Yr Handysize TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534426,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 12,
+      "marketChartId": 67,
+      "chartTitle": "Handysize 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98735,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 12,
+      "marketChartId": 165,
+      "chartTitle": "Handysize Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534453,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 12,
+      "marketChartId": 166,
+      "chartTitle": "Handysize Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534454,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 12,
+      "marketChartId": 281,
+      "chartTitle": "Minor Bulk Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98800,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 12,
+      "marketChartId": 282,
+      "chartTitle": "Minor Bulk Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534401,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "13": [
+    {
+      "marketGroupId": 13,
+      "marketChartId": 68,
+      "chartTitle": "1Yr VLCC TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47703,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 13,
+      "marketChartId": 71,
+      "chartTitle": "1Yr MR TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47785,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 13,
+      "marketChartId": 72,
+      "chartTitle": "VLCC 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98767,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 13,
+      "marketChartId": 75,
+      "chartTitle": "MR 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98688,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 13,
+      "marketChartId": 76,
+      "chartTitle": "Total Oil Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541949,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 13,
+      "marketChartId": 77,
+      "chartTitle": "Total Oil Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541948,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 13,
+      "marketChartId": 177,
+      "chartTitle": "Crude Tanker Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534437,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 13,
+      "marketChartId": 178,
+      "chartTitle": "Crude Tanker Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534438,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "14": [
+    {
+      "marketGroupId": 14,
+      "marketChartId": 78,
+      "chartTitle": "VLCC Spot Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 69918,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 14,
+      "marketChartId": 79,
+      "chartTitle": "1Yr VLCC TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47703,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 14,
+      "marketChartId": 81,
+      "chartTitle": "VLCC 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98767,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 14,
+      "marketChartId": 82,
+      "chartTitle": "Crude Oil Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534033,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 14,
+      "marketChartId": 83,
+      "chartTitle": "Crude Oil Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534402,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 14,
+      "marketChartId": 157,
+      "chartTitle": "VLCC Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534445,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 14,
+      "marketChartId": 158,
+      "chartTitle": "VLCC Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534446,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "15": [
+    {
+      "marketGroupId": 15,
+      "marketChartId": 87,
+      "chartTitle": "Suezmax Spot Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 69921,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 15,
+      "marketChartId": 88,
+      "chartTitle": "1Yr Suezmax TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47764,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 15,
+      "marketChartId": 90,
+      "chartTitle": "Suezmax 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98772,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 15,
+      "marketChartId": 91,
+      "chartTitle": "Crude Oil Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534033,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 15,
+      "marketChartId": 92,
+      "chartTitle": "Crude Oil Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534402,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 15,
+      "marketChartId": 159,
+      "chartTitle": "Suezmax Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534447,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 15,
+      "marketChartId": 160,
+      "chartTitle": "Suezmax Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534448,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "16": [
+    {
+      "marketGroupId": 16,
+      "marketChartId": 95,
+      "chartTitle": "Aframax Spot Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 69923,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 16,
+      "marketChartId": 96,
+      "chartTitle": "1Yr Aframax TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 47769,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 16,
+      "marketChartId": 98,
+      "chartTitle": "Aframax 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98671,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 16,
+      "marketChartId": 99,
+      "chartTitle": "Crude Oil Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534033,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 16,
+      "marketChartId": 100,
+      "chartTitle": "Crude Oil Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534402,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 16,
+      "marketChartId": 175,
+      "chartTitle": "Crude Aframax Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534455,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 16,
+      "marketChartId": 176,
+      "chartTitle": "Crude Aframax Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534456,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "17": [
+    {
+      "marketGroupId": 17,
+      "marketChartId": 102,
+      "chartTitle": "Clean MR Spot Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 69927,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 17,
+      "marketChartId": 104,
+      "chartTitle": "Dirty Spot Earnings",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 36804,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 17,
+      "marketChartId": 110,
+      "chartTitle": "MR 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98688,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 17,
+      "marketChartId": 111,
+      "chartTitle": "Oil Products Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534034,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 17,
+      "marketChartId": 112,
+      "chartTitle": "Oil Products Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534403,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 17,
+      "marketChartId": 173,
+      "chartTitle": "Product Tanker 10K+ Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534439,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 17,
+      "marketChartId": 174,
+      "chartTitle": "Product Tanker 10K+ Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534440,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "18": [
+    {
+      "marketGroupId": 18,
+      "marketChartId": 116,
+      "chartTitle": "9,000 TEU 'Eco' 3yr TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542037,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 117,
+      "chartTitle": "Feeder 2,750 TEU 6-12mth TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542030,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 122,
+      "chartTitle": "9,000 TEU 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542155,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 123,
+      "chartTitle": "2,750 TEU 5 yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 56918,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 125,
+      "chartTitle": "Container Trade",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534035,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 273,
+      "chartTitle": "Container TEU-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541836,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 274,
+      "chartTitle": "Containership Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 9,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534441,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 275,
+      "chartTitle": "Containership Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 10,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534442,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 18,
+      "marketChartId": 336,
+      "chartTitle": "Containership Supply/Demand Outlook",
+      "displayForecastFromYear": 2022,
+      "startDate": "2010-01-01T00:00:00",
+      "endDate": null,
+      "sortOrder": 0,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534501,
+          "colour": "#ff0000"
+        },
+        {
+          "tsSeriesId": 542421,
+          "colour": "#002859"
+        }
+      ]
+    }
+  ],
+  "19": [
+    {
+      "marketGroupId": 19,
+      "marketChartId": 126,
+      "chartTitle": "3Yr 9,000 TEU 'Eco' TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542037,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 19,
+      "marketChartId": 131,
+      "chartTitle": "8,800 TEU 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 530297,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 19,
+      "marketChartId": 132,
+      "chartTitle": "Mainlane Freight Rate Index",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534015,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 19,
+      "marketChartId": 133,
+      "chartTitle": "Far East-Europe Trade Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534024,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 19,
+      "marketChartId": 134,
+      "chartTitle": "Transpacific Trade Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534027,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 19,
+      "marketChartId": 167,
+      "chartTitle": "8,000+ TEU Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534459,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 19,
+      "marketChartId": 168,
+      "chartTitle": "8,000+ TEU Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534460,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "20": [
+    {
+      "marketGroupId": 20,
+      "marketChartId": 135,
+      "chartTitle": "3Yr 6,800 TEU TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542036,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 20,
+      "marketChartId": 136,
+      "chartTitle": "1Yr 4,400 TEU TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542032,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 20,
+      "marketChartId": 137,
+      "chartTitle": "1Yr 3,500 TEU TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542028,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 20,
+      "marketChartId": 140,
+      "chartTitle": "6,600 TEU 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 530114,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 20,
+      "marketChartId": 141,
+      "chartTitle": "4,500 TEU 10yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 530582,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 20,
+      "marketChartId": 142,
+      "chartTitle": "North-South Freight Rate Index",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534018,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 20,
+      "marketChartId": 169,
+      "chartTitle": "3-8,000 TEU Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534461,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 20,
+      "marketChartId": 170,
+      "chartTitle": "3-8,000 TEU Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534462,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "21": [
+    {
+      "marketGroupId": 21,
+      "marketChartId": 143,
+      "chartTitle": "1Yr 2,750 TEU gls TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542030,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 21,
+      "marketChartId": 144,
+      "chartTitle": "1Yr 2,500 TEU grd TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542031,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 21,
+      "marketChartId": 145,
+      "chartTitle": "1Yr 1,700 TEU grd TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542027,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 21,
+      "marketChartId": 148,
+      "chartTitle": "2,750 TEU 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 56918,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 21,
+      "marketChartId": 149,
+      "chartTitle": "1,700 TEU 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 56916,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 21,
+      "marketChartId": 150,
+      "chartTitle": "Intra-Asia Freight Rate Index",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534021,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 21,
+      "marketChartId": 171,
+      "chartTitle": "sub-3,000 TEU Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534463,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 21,
+      "marketChartId": 172,
+      "chartTitle": "sub-3,000 TEU Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 8,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534464,
+          "colour": null
+        }
+      ]
+    }
+  ],
+  "29": [
+    {
+      "marketGroupId": 29,
+      "marketChartId": 260,
+      "chartTitle": "LNG 174k cbm NB",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 533554,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 29,
+      "marketChartId": 261,
+      "chartTitle": "LNG Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98804,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 29,
+      "marketChartId": 262,
+      "chartTitle": "LNG Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534405,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 29,
+      "marketChartId": 263,
+      "chartTitle": "LNG Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542122,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 29,
+      "marketChartId": 264,
+      "chartTitle": "LNG Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542128,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 29,
+      "marketChartId": 272,
+      "chartTitle": "LNG 160k CBM Spot",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 533536,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 29,
+      "marketChartId": 337,
+      "chartTitle": "LNG Supply/Demand Outlook",
+      "displayForecastFromYear": 2022,
+      "startDate": "2010-01-01T00:00:00",
+      "endDate": null,
+      "sortOrder": 0,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542124,
+          "colour": "#ff0000"
+        },
+        {
+          "tsSeriesId": 542422,
+          "colour": "#002859"
+        }
+      ]
+    }
+  ],
+  "30": [
+    {
+      "marketGroupId": 30,
+      "marketChartId": 265,
+      "chartTitle": "VLGC Gulf/Japan TCE",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 1,
+      "linkedTs": [
+        {
+          "tsSeriesId": 535021,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 30,
+      "marketChartId": 266,
+      "chartTitle": "VLGC 12 Month TC",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 2,
+      "linkedTs": [
+        {
+          "tsSeriesId": 535004,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 30,
+      "marketChartId": 267,
+      "chartTitle": "VLGC 5yr old",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 3,
+      "linkedTs": [
+        {
+          "tsSeriesId": 541161,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 30,
+      "marketChartId": 268,
+      "chartTitle": "LPG Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 4,
+      "linkedTs": [
+        {
+          "tsSeriesId": 98803,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 30,
+      "marketChartId": 269,
+      "chartTitle": "LPG Tonne-Mile Trade",
+      "displayForecastFromYear": 2021,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 5,
+      "linkedTs": [
+        {
+          "tsSeriesId": 534404,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 30,
+      "marketChartId": 270,
+      "chartTitle": "LPG Fleet Growth",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 6,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542125,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 30,
+      "marketChartId": 271,
+      "chartTitle": "LPG Orderbook % Fleet",
+      "displayForecastFromYear": 0,
+      "startDate": null,
+      "endDate": null,
+      "sortOrder": 7,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542131,
+          "colour": null
+        }
+      ]
+    },
+    {
+      "marketGroupId": 30,
+      "marketChartId": 338,
+      "chartTitle": "LPG Supply/Demand Outlook",
+      "displayForecastFromYear": 2022,
+      "startDate": "2010-01-01T00:00:00",
+      "endDate": null,
+      "sortOrder": 0,
+      "linkedTs": [
+        {
+          "tsSeriesId": 542127,
+          "colour": "#ff0000"
+        },
+        {
+          "tsSeriesId": 542423,
+          "colour": "#002859"
+        }
+      ]
+    }
+  ]
+}

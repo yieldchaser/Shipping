@@ -1,0 +1,602 @@
+{
+ "120655": {
+  "label": "Capesize TCE Cont/Far East",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 505,
+  "newest_first": false,
+  "n_dedup": 505,
+  "dupes": 0,
+  "first_date": "2024-09-02",
+  "last_date": "2026-09-08",
+  "last_value": 90833,
+  "sample_pts": [
+   [
+    1788480000000,
+    93111
+   ],
+   [
+    1788739200000,
+    93139
+   ],
+   [
+    1788825600000,
+    90833
+   ]
+  ]
+ },
+ "10002": {
+  "label": "Capesize Australia/China",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 6875,
+  "newest_first": false,
+  "n_dedup": 6875,
+  "dupes": 0,
+  "first_date": "1999-03-01",
+  "last_date": "2026-09-08",
+  "last_value": 18.52,
+  "sample_pts": [
+   [
+    1788480000000,
+    18.958
+   ],
+   [
+    1788739200000,
+    18.21
+   ],
+   [
+    1788825600000,
+    18.52
+   ]
+  ]
+ },
+ "120654": {
+  "label": "Capesize Pacific RV",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 505,
+  "newest_first": false,
+  "n_dedup": 505,
+  "dupes": 0,
+  "first_date": "2024-09-02",
+  "last_date": "2026-09-08",
+  "last_value": 60823,
+  "sample_pts": [
+   [
+    1788480000000,
+    63186
+   ],
+   [
+    1788739200000,
+    59450
+   ],
+   [
+    1788825600000,
+    60823
+   ]
+  ]
+ },
+ "10010": {
+  "label": "Panamax Transatlantic RV",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2167,
+  "newest_first": false,
+  "n_dedup": 2167,
+  "dupes": 0,
+  "first_date": "2018-01-02",
+  "last_date": "2026-09-08",
+  "last_value": 20364,
+  "sample_pts": [
+   [
+    1788480000000,
+    21350
+   ],
+   [
+    1788739200000,
+    20877
+   ],
+   [
+    1788825600000,
+    20364
+   ]
+  ]
+ },
+ "10011": {
+  "label": "Panamax TCE Cont/Far East",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2167,
+  "newest_first": false,
+  "n_dedup": 2167,
+  "dupes": 0,
+  "first_date": "2018-01-02",
+  "last_date": "2026-09-08",
+  "last_value": 30607,
+  "sample_pts": [
+   [
+    1788480000000,
+    31393
+   ],
+   [
+    1788739200000,
+    31081
+   ],
+   [
+    1788825600000,
+    30607
+   ]
+  ]
+ },
+ "10013": {
+  "label": "Panamax TCE Far East/Cont",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2167,
+  "newest_first": false,
+  "n_dedup": 2167,
+  "dupes": 0,
+  "first_date": "2018-01-02",
+  "last_date": "2026-09-08",
+  "last_value": 13173,
+  "sample_pts": [
+   [
+    1788480000000,
+    13116
+   ],
+   [
+    1788739200000,
+    13114
+   ],
+   [
+    1788825600000,
+    13173
+   ]
+  ]
+ },
+ "10012": {
+  "label": "Panamax TCE Far East RV",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2167,
+  "newest_first": false,
+  "n_dedup": 2167,
+  "dupes": 0,
+  "first_date": "2018-01-02",
+  "last_date": "2026-09-08",
+  "last_value": 21818,
+  "sample_pts": [
+   [
+    1788480000000,
+    21594
+   ],
+   [
+    1788739200000,
+    21672
+   ],
+   [
+    1788825600000,
+    21818
+   ]
+  ]
+ },
+ "120132": {
+  "label": "Supramax Transatlantic RV (raw A)",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 840,
+  "newest_first": false,
+  "n_dedup": 840,
+  "dupes": 0,
+  "first_date": "2023-05-02",
+  "last_date": "2026-09-08",
+  "last_value": 32475,
+  "sample_pts": [
+   [
+    1788480000000,
+    31984
+   ],
+   [
+    1788739200000,
+    32156
+   ],
+   [
+    1788825600000,
+    32475
+   ]
+  ]
+ },
+ "120133": {
+  "label": "Supramax Transatlantic RV (raw B)",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 840,
+  "newest_first": false,
+  "n_dedup": 840,
+  "dupes": 0,
+  "first_date": "2023-05-02",
+  "last_date": "2026-09-08",
+  "last_value": 14200,
+  "sample_pts": [
+   [
+    1788480000000,
+    14281
+   ],
+   [
+    1788739200000,
+    14216
+   ],
+   [
+    1788825600000,
+    14200
+   ]
+  ]
+ },
+ "120129": {
+  "label": "Supramax US Gulf - China/South Japan",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 840,
+  "newest_first": false,
+  "n_dedup": 840,
+  "dupes": 0,
+  "first_date": "2023-05-02",
+  "last_date": "2026-09-08",
+  "last_value": 33000,
+  "sample_pts": [
+   [
+    1788480000000,
+    32381
+   ],
+   [
+    1788739200000,
+    32522
+   ],
+   [
+    1788825600000,
+    33000
+   ]
+  ]
+ },
+ "120137": {
+  "label": "Supramax South China - Indonesia RV",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 855,
+  "newest_first": false,
+  "n_dedup": 855,
+  "dupes": 0,
+  "first_date": "2023-05-02",
+  "last_date": "2026-09-08",
+  "last_value": 15869,
+  "sample_pts": [
+   [
+    1788480000000,
+    15843
+   ],
+   [
+    1788739200000,
+    15897
+   ],
+   [
+    1788825600000,
+    15869
+   ]
+  ]
+ },
+ "306": {
+  "label": "S",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2906,
+  "newest_first": false,
+  "n_dedup": 2906,
+  "dupes": 0,
+  "first_date": "2018-05-14",
+  "last_date": "2026-07-01",
+  "last_value": 458,
+  "sample_pts": [
+   [
+    1782604800000,
+    459
+   ],
+   [
+    1782691200000,
+    459
+   ],
+   [
+    1782864000000,
+    458
+   ]
+  ]
+ },
+ "307": {
+  "label": "S",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2886,
+  "newest_first": false,
+  "n_dedup": 2886,
+  "dupes": 0,
+  "first_date": "2018-05-25",
+  "last_date": "2026-07-01",
+  "last_value": 902,
+  "sample_pts": [
+   [
+    1782604800000,
+    882.5
+   ],
+   [
+    1782691200000,
+    882.5
+   ],
+   [
+    1782864000000,
+    902
+   ]
+  ]
+ },
+ "303": {
+  "label": "R",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2249,
+  "newest_first": false,
+  "n_dedup": 2249,
+  "dupes": 0,
+  "first_date": "2020-04-01",
+  "last_date": "2026-07-01",
+  "last_value": 453.5,
+  "sample_pts": [
+   [
+    1782604800000,
+    457.5
+   ],
+   [
+    1782691200000,
+    457.5
+   ],
+   [
+    1782864000000,
+    453.5
+   ]
+  ]
+ },
+ "304": {
+  "label": "R",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2896,
+  "newest_first": false,
+  "n_dedup": 2896,
+  "dupes": 0,
+  "first_date": "2018-05-14",
+  "last_date": "2026-07-01",
+  "last_value": 899,
+  "sample_pts": [
+   [
+    1782604800000,
+    875
+   ],
+   [
+    1782691200000,
+    875
+   ],
+   [
+    1782864000000,
+    899
+   ]
+  ]
+ },
+ "5002": {
+  "label": "U",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 11948,
+  "newest_first": false,
+  "n_dedup": 11948,
+  "dupes": 0,
+  "first_date": "1993-07-10",
+  "last_date": "2026-09-07",
+  "last_value": 9.2703493375,
+  "sample_pts": [
+   [
+    1788566400000,
+    9.295732232
+   ],
+   [
+    1788652800000,
+    9.295732232
+   ],
+   [
+    1788739200000,
+    9.2703493375
+   ]
+  ]
+ },
+ "5001": {
+  "label": "U",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 10411,
+  "newest_first": false,
+  "n_dedup": 10411,
+  "dupes": 0,
+  "first_date": "1993-07-10",
+  "last_date": "2022-03-16",
+  "last_value": 1235.5,
+  "sample_pts": [
+   [
+    1647216000000,
+    1242.25
+   ],
+   [
+    1647302400000,
+    1242.8
+   ],
+   [
+    1647388800000,
+    1235.5
+   ]
+  ]
+ },
+ "5003": {
+  "label": "E",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 11889,
+  "newest_first": false,
+  "n_dedup": 11889,
+  "dupes": 0,
+  "first_date": "1993-07-10",
+  "last_date": "2026-09-07",
+  "last_value": 0.860437102,
+  "sample_pts": [
+   [
+    1788566400000,
+    0.860437102
+   ],
+   [
+    1788652800000,
+    0.860437102
+   ],
+   [
+    1788739200000,
+    0.860437102
+   ]
+  ]
+ },
+ "12100": {
+  "label": "S",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 506,
+  "newest_first": false,
+  "n_dedup": 506,
+  "dupes": 0,
+  "first_date": "2024-01-23",
+  "last_date": "2026-08-06",
+  "last_value": 3.65,
+  "sample_pts": [
+   [
+    1785715200000,
+    3.65
+   ],
+   [
+    1785801600000,
+    3.66
+   ],
+   [
+    1785974400000,
+    3.65
+   ]
+  ]
+ },
+ "316": {
+  "label": "B",
+  "columns": [
+   "tsid",
+   "value",
+   "date",
+   "jobid"
+  ],
+  "n_raw": 2227,
+  "newest_first": false,
+  "n_dedup": 2227,
+  "dupes": 0,
+  "first_date": "2020-04-17",
+  "last_date": "2026-08-10",
+  "last_value": 83.97,
+  "sample_pts": [
+   [
+    1785974400000,
+    79.15
+   ],
+   [
+    1786060800000,
+    83.55
+   ],
+   [
+    1786320000000,
+    83.97
+   ]
+  ]
+ }
+}

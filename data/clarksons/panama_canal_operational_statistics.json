@@ -1,0 +1,5261 @@
+{
+  "source": "Autoridad del Canal de Panam\u00e1 (Panama Canal Authority - ACP)",
+  "harvest_timestamp": "2026-09-09T20:55:03.120108+00:00",
+  "portal": "https://pancanal.com/en/statistics/",
+  "powerbi_model_id": 1614509,
+  "datasets": {
+    "monthly_transits": [
+      {
+        "month": "October",
+        "fiscal_year": 2024,
+        "transits_count": 1062
+      },
+      {
+        "month": "October",
+        "fiscal_year": 2025,
+        "transits_count": 1043
+      },
+      {
+        "month": "November",
+        "fiscal_year": 2024,
+        "transits_count": 846
+      },
+      {
+        "month": "November",
+        "fiscal_year": 2025,
+        "transits_count": 1101
+      },
+      {
+        "month": "December",
+        "fiscal_year": 2024,
+        "transits_count": 866
+      },
+      {
+        "month": "December",
+        "fiscal_year": 2025,
+        "transits_count": 1192
+      },
+      {
+        "month": "January",
+        "fiscal_year": 2024,
+        "transits_count": 850
+      },
+      {
+        "month": "January",
+        "fiscal_year": 2025,
+        "transits_count": 1149
+      },
+      {
+        "month": "February",
+        "fiscal_year": 2024,
+        "transits_count": 843
+      },
+      {
+        "month": "February",
+        "fiscal_year": 2025,
+        "transits_count": 1152
+      },
+      {
+        "month": "March",
+        "fiscal_year": 2024,
+        "transits_count": 925
+      },
+      {
+        "month": "March",
+        "fiscal_year": 2025,
+        "transits_count": 1258
+      },
+      {
+        "month": "April",
+        "fiscal_year": 2024,
+        "transits_count": 953
+      },
+      {
+        "month": "April",
+        "fiscal_year": 2025,
+        "transits_count": 1186
+      },
+      {
+        "month": "May",
+        "fiscal_year": 2024,
+        "transits_count": 920
+      },
+      {
+        "month": "May",
+        "fiscal_year": 2025,
+        "transits_count": 1090
+      },
+      {
+        "month": "June",
+        "fiscal_year": 2024,
+        "transits_count": 962
+      },
+      {
+        "month": "June",
+        "fiscal_year": 2025,
+        "transits_count": 1020
+      },
+      {
+        "month": "July",
+        "fiscal_year": 2024,
+        "transits_count": 979
+      },
+      {
+        "month": "July",
+        "fiscal_year": 2025,
+        "transits_count": 1070
+      },
+      {
+        "month": "August",
+        "fiscal_year": 2024,
+        "transits_count": 1012
+      },
+      {
+        "month": "August",
+        "fiscal_year": 2025,
+        "transits_count": 1088
+      },
+      {
+        "month": "September",
+        "fiscal_year": 2024,
+        "transits_count": 1022
+      },
+      {
+        "month": "September",
+        "fiscal_year": 2025,
+        "transits_count": 1055
+      }
+    ],
+    "monthly_cargo_tons": [
+      {
+        "month": "October",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "21728390.522899993"
+      },
+      {
+        "month": "October",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "21503622.636299983"
+      },
+      {
+        "month": "November",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "15550479.808599994"
+      },
+      {
+        "month": "November",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "20628825.710299995"
+      },
+      {
+        "month": "December",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "14705758.076900007"
+      },
+      {
+        "month": "December",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "22263303.541700009"
+      },
+      {
+        "month": "January",
+        "fiscal_year": 2024,
+        "cargo_long_tons": 13604364.212
+      },
+      {
+        "month": "January",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "21513056.568300005"
+      },
+      {
+        "month": "February",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "13463150.474799996"
+      },
+      {
+        "month": "February",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "20525608.247400023"
+      },
+      {
+        "month": "March",
+        "fiscal_year": 2024,
+        "cargo_long_tons": 15727844.6743
+      },
+      {
+        "month": "March",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "23356042.92970001"
+      },
+      {
+        "month": "April",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "16150889.601000011"
+      },
+      {
+        "month": "April",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "21666957.990700033"
+      },
+      {
+        "month": "May",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "17410675.525799993"
+      },
+      {
+        "month": "May",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "21606378.222999997"
+      },
+      {
+        "month": "June",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "19073617.062100019"
+      },
+      {
+        "month": "June",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "21835133.950000014"
+      },
+      {
+        "month": "July",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "20545878.909600016"
+      },
+      {
+        "month": "July",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "22548388.134800002"
+      },
+      {
+        "month": "August",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "21806458.614900004"
+      },
+      {
+        "month": "August",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "22058536.651300009"
+      },
+      {
+        "month": "September",
+        "fiscal_year": 2024,
+        "cargo_long_tons": "20568003.995299987"
+      },
+      {
+        "month": "September",
+        "fiscal_year": 2025,
+        "cargo_long_tons": "22832825.304300018"
+      }
+    ],
+    "monthly_pcums_tonnage": [
+      {
+        "month": "October",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 42554790
+      },
+      {
+        "month": "October",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 40755403
+      },
+      {
+        "month": "November",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 33571025
+      },
+      {
+        "month": "November",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 39273734
+      },
+      {
+        "month": "December",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 32333670
+      },
+      {
+        "month": "December",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 42438813
+      },
+      {
+        "month": "January",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 30357592
+      },
+      {
+        "month": "January",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 41184473
+      },
+      {
+        "month": "February",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 28878828
+      },
+      {
+        "month": "February",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 38167843
+      },
+      {
+        "month": "March",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 31523940
+      },
+      {
+        "month": "March",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 40860629
+      },
+      {
+        "month": "April",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 32799749
+      },
+      {
+        "month": "April",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 42858046
+      },
+      {
+        "month": "May",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 35245433
+      },
+      {
+        "month": "May",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 40643965
+      },
+      {
+        "month": "June",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 36514307
+      },
+      {
+        "month": "June",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 37473103
+      },
+      {
+        "month": "July",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 38978827
+      },
+      {
+        "month": "July",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 41334843
+      },
+      {
+        "month": "August",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 40530495
+      },
+      {
+        "month": "August",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 43123568
+      },
+      {
+        "month": "September",
+        "fiscal_year": 2024,
+        "rcnst_pcums_tons": 39804416
+      },
+      {
+        "month": "September",
+        "fiscal_year": 2025,
+        "rcnst_pcums_tons": 41041615
+      }
+    ],
+    "transits_by_lock_type": [
+      {
+        "fiscal_year": "2024",
+        "lock_type": "Neopanamax",
+        "transits_count": 2852,
+        "cargo_tons": "85381674.313800037",
+        "pcums_tons": 227246085
+      },
+      {
+        "fiscal_year": "2024",
+        "lock_type": "Panamax",
+        "transits_count": 8388,
+        "cargo_tons": "124953837.1643998",
+        "pcums_tons": 195846987
+      },
+      {
+        "fiscal_year": "2025",
+        "lock_type": "Neopanamax",
+        "transits_count": 3342,
+        "cargo_tons": "95520988.679200113",
+        "pcums_tons": 253639901
+      },
+      {
+        "fiscal_year": "2025",
+        "lock_type": "Panamax",
+        "transits_count": 10062,
+        "cargo_tons": "166817691.20859995",
+        "pcums_tons": 235516134
+      }
+    ],
+    "transits_by_market_segment": [
+      {
+        "market_segment": "Chemical Tankers",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 4,
+        "cargo_tons": 203739.7771,
+        "pcums_tons": 126846
+      },
+      {
+        "market_segment": "Chemical Tankers",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 3,
+        "cargo_tons": 151973.4436,
+        "pcums_tons": 90940
+      },
+      {
+        "market_segment": "Chemical Tankers",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 1804,
+        "cargo_tons": "39851958.631999969",
+        "pcums_tons": 40726835
+      },
+      {
+        "market_segment": "Chemical Tankers",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 2215,
+        "cargo_tons": "45955745.970399916",
+        "pcums_tons": 49619903
+      },
+      {
+        "market_segment": "Container",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 1787,
+        "cargo_tons": "53506262.43300011",
+        "pcums_tons": 169228538
+      },
+      {
+        "market_segment": "Container",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 1977,
+        "cargo_tons": "58547479.140799962",
+        "pcums_tons": 183636910
+      },
+      {
+        "market_segment": "Container",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 986,
+        "cargo_tons": 8615531.1712,
+        "pcums_tons": 26086227
+      },
+      {
+        "market_segment": "Container",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 916,
+        "cargo_tons": "8479818.20569999",
+        "pcums_tons": 24832444
+      },
+      {
+        "market_segment": "Crude Product Tankers",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 49,
+        "cargo_tons": 2511766.6774,
+        "pcums_tons": 2570617
+      },
+      {
+        "market_segment": "Crude Product Tankers",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 69,
+        "cargo_tons": 2968305.3731,
+        "pcums_tons": 4028396
+      },
+      {
+        "market_segment": "Crude Product Tankers",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 373,
+        "cargo_tons": "10749877.025000002",
+        "pcums_tons": 10281350
+      },
+      {
+        "market_segment": "Crude Product Tankers",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 375,
+        "cargo_tons": "10868535.293100003",
+        "pcums_tons": 10818563
+      },
+      {
+        "market_segment": "Dry Bulk",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 32,
+        "cargo_tons": 1182618.3058,
+        "pcums_tons": 1695320
+      },
+      {
+        "market_segment": "Dry Bulk",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 85,
+        "cargo_tons": "5829803.5700000012",
+        "pcums_tons": 5076328
+      },
+      {
+        "market_segment": "Dry Bulk",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 1246,
+        "cargo_tons": 43660340.2031,
+        "pcums_tons": 31182652
+      },
+      {
+        "market_segment": "Dry Bulk",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 2145,
+        "cargo_tons": "78001899.134499863",
+        "pcums_tons": 55080616
+      },
+      {
+        "market_segment": "General Cargo",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 287,
+        "cargo_tons": 2336995.2599,
+        "pcums_tons": 3393273
+      },
+      {
+        "market_segment": "General Cargo",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 463,
+        "cargo_tons": "3604699.3806000021",
+        "pcums_tons": 6101626
+      },
+      {
+        "market_segment": "Liquefied Natural Gas",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 109,
+        "cargo_tons": "4117608.4889999996",
+        "pcums_tons": 12935969
+      },
+      {
+        "market_segment": "Liquefied Natural Gas",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 54,
+        "cargo_tons": 1760570.9482,
+        "pcums_tons": 6104118
+      },
+      {
+        "market_segment": "Liquefied Natural Gas",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 6,
+        "cargo_tons": 61052,
+        "pcums_tons": 114540
+      },
+      {
+        "market_segment": "Liquefied Natural Gas",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 7,
+        "cargo_tons": 42778,
+        "pcums_tons": 133630
+      },
+      {
+        "market_segment": "Liquefied Petroleum Gas",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 804,
+        "cargo_tons": "23691852.971599996",
+        "pcums_tons": 34889066
+      },
+      {
+        "market_segment": "Liquefied Petroleum Gas",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 1046,
+        "cargo_tons": "25881530.049999993",
+        "pcums_tons": 45952767
+      },
+      {
+        "market_segment": "Liquefied Petroleum Gas",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 757,
+        "cargo_tons": 12717726.1833,
+        "pcums_tons": 25062728
+      },
+      {
+        "market_segment": "Liquefied Petroleum Gas",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 759,
+        "cargo_tons": "12587296.127700001",
+        "pcums_tons": 25552885
+      },
+      {
+        "market_segment": "Other",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 5,
+        "cargo_tons": 24057.7847,
+        "pcums_tons": 81866
+      },
+      {
+        "market_segment": "Other",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 12,
+        "cargo_tons": 19492.4597,
+        "pcums_tons": 307001
+      },
+      {
+        "market_segment": "Other",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 1567,
+        "cargo_tons": 329822.149,
+        "pcums_tons": 1848906
+      },
+      {
+        "market_segment": "Other",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 1677,
+        "cargo_tons": 290729.7531,
+        "pcums_tons": 1784479
+      },
+      {
+        "market_segment": "Passengers",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 42,
+        "cargo_tons": 4287907,
+        "pcums_tons": null
+      },
+      {
+        "market_segment": "Passengers",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 40,
+        "cargo_tons": 4287907,
+        "pcums_tons": 4342224
+      },
+      {
+        "market_segment": "Passengers",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 163,
+        "cargo_tons": 4287907,
+        "pcums_tons": 5899373
+      },
+      {
+        "market_segment": "Passengers",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 174,
+        "cargo_tons": 4287907,
+        "pcums_tons": 6259938
+      },
+      {
+        "market_segment": "Refrigerated",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 436,
+        "cargo_tons": "2034104.1324999991",
+        "pcums_tons": 4786735
+      },
+      {
+        "market_segment": "Refrigerated",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 516,
+        "cargo_tons": "2545540.6764000012",
+        "pcums_tons": 5759935
+      },
+      {
+        "market_segment": "Vehicle Carriers/RoRo",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2024",
+        "transits_count": 20,
+        "cargo_tons": 143767.8752,
+        "pcums_tons": 1429956
+      },
+      {
+        "market_segment": "Vehicle Carriers/RoRo",
+        "lock_type": "Neopanamax",
+        "fiscal_year": "2025",
+        "transits_count": 56,
+        "cargo_tons": "361833.69380000007",
+        "pcums_tons": 4101217
+      },
+      {
+        "market_segment": "Vehicle Carriers/RoRo",
+        "lock_type": "Panamax",
+        "fiscal_year": "2024",
+        "transits_count": 763,
+        "cargo_tons": "4596430.408400001",
+        "pcums_tons": 46464368
+      },
+      {
+        "market_segment": "Vehicle Carriers/RoRo",
+        "lock_type": "Panamax",
+        "fiscal_year": "2025",
+        "transits_count": 815,
+        "cargo_tons": 4440648.6671,
+        "pcums_tons": 49572115
+      }
+    ],
+    "traffic_by_vessel_flag": [
+      {
+        "flag": "American Samoa",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Antigua and Barbuda",
+        "fiscal_year": "2024",
+        "transits_count": 114,
+        "cargo_tons": 560040.1081,
+        "pcums_tons": 1108271
+      },
+      {
+        "flag": "Antigua and Barbuda",
+        "fiscal_year": "2025",
+        "transits_count": 165,
+        "cargo_tons": "892899.66660000011",
+        "pcums_tons": 1798671
+      },
+      {
+        "flag": "Argentina",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Armenia",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 194,
+        "pcums_tons": 388
+      },
+      {
+        "flag": "Australia",
+        "fiscal_year": "2024",
+        "transits_count": 21,
+        "cargo_tons": 194,
+        "pcums_tons": 4074
+      },
+      {
+        "flag": "Australia",
+        "fiscal_year": "2025",
+        "transits_count": 36,
+        "cargo_tons": 194,
+        "pcums_tons": 7373
+      },
+      {
+        "flag": "Austria",
+        "fiscal_year": "2024",
+        "transits_count": 3,
+        "cargo_tons": 194,
+        "pcums_tons": 582
+      },
+      {
+        "flag": "Austria",
+        "fiscal_year": "2025",
+        "transits_count": 6,
+        "cargo_tons": 194,
+        "pcums_tons": 1164
+      },
+      {
+        "flag": "Bahamas",
+        "fiscal_year": "2024",
+        "transits_count": 670,
+        "cargo_tons": "7576914.6836000029",
+        "pcums_tons": 21447001
+      },
+      {
+        "flag": "Bahamas",
+        "fiscal_year": "2025",
+        "transits_count": 707,
+        "cargo_tons": 8153741.9254,
+        "pcums_tons": 20666355
+      },
+      {
+        "flag": "Bangladesh",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 20349,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Bangladesh",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 50741,
+        "pcums_tons": 29669
+      },
+      {
+        "flag": "Barbados",
+        "fiscal_year": "2024",
+        "transits_count": 10,
+        "cargo_tons": "198898.13950000002",
+        "pcums_tons": 166616
+      },
+      {
+        "flag": "Barbados",
+        "fiscal_year": "2025",
+        "transits_count": 32,
+        "cargo_tons": 584711.4316,
+        "pcums_tons": 567199
+      },
+      {
+        "flag": "Belgium",
+        "fiscal_year": "2024",
+        "transits_count": 40,
+        "cargo_tons": 571030.1272,
+        "pcums_tons": 922959
+      },
+      {
+        "flag": "Belgium",
+        "fiscal_year": "2025",
+        "transits_count": 44,
+        "cargo_tons": 734322.888,
+        "pcums_tons": 1141971
+      },
+      {
+        "flag": "Belize",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 1314,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Belize",
+        "fiscal_year": "2025",
+        "transits_count": 4,
+        "cargo_tons": 25063.9949,
+        "pcums_tons": 18188
+      },
+      {
+        "flag": "Bermuda",
+        "fiscal_year": "2024",
+        "transits_count": 33,
+        "cargo_tons": 209031.611,
+        "pcums_tons": 3113266
+      },
+      {
+        "flag": "Bermuda",
+        "fiscal_year": "2025",
+        "transits_count": 37,
+        "cargo_tons": 102779,
+        "pcums_tons": 2841404
+      },
+      {
+        "flag": "Brazil",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 388,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Bulgaria",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 6879.209,
+        "pcums_tons": 19612
+      },
+      {
+        "flag": "Cameroon",
+        "fiscal_year": "2024",
+        "transits_count": 4,
+        "cargo_tons": 5102.885,
+        "pcums_tons": 7097
+      },
+      {
+        "flag": "Canada",
+        "fiscal_year": "2024",
+        "transits_count": 24,
+        "cargo_tons": 2662.72,
+        "pcums_tons": 35357
+      },
+      {
+        "flag": "Canada",
+        "fiscal_year": "2025",
+        "transits_count": 44,
+        "cargo_tons": 7238.0674,
+        "pcums_tons": 54642
+      },
+      {
+        "flag": "Cayman Islands",
+        "fiscal_year": "2024",
+        "transits_count": 108,
+        "cargo_tons": 587632.7232,
+        "pcums_tons": 916925
+      },
+      {
+        "flag": "Cayman Islands",
+        "fiscal_year": "2025",
+        "transits_count": 157,
+        "cargo_tons": 1381745.9688,
+        "pcums_tons": 1677832
+      },
+      {
+        "flag": "Chile",
+        "fiscal_year": "2024",
+        "transits_count": 5,
+        "cargo_tons": 869.7566,
+        "pcums_tons": 17288
+      },
+      {
+        "flag": "Chile",
+        "fiscal_year": "2025",
+        "transits_count": 4,
+        "cargo_tons": 5127,
+        "pcums_tons": null
+      },
+      {
+        "flag": "China",
+        "fiscal_year": "2024",
+        "transits_count": 57,
+        "cargo_tons": 1617166.6246,
+        "pcums_tons": 2074910
+      },
+      {
+        "flag": "China",
+        "fiscal_year": "2025",
+        "transits_count": 92,
+        "cargo_tons": 2590456.7083,
+        "pcums_tons": 3473659
+      },
+      {
+        "flag": "Colombia",
+        "fiscal_year": "2024",
+        "transits_count": 95,
+        "cargo_tons": 51286.5222,
+        "pcums_tons": 108957
+      },
+      {
+        "flag": "Colombia",
+        "fiscal_year": "2025",
+        "transits_count": 90,
+        "cargo_tons": 48699,
+        "pcums_tons": 97448
+      },
+      {
+        "flag": "Comoros",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 33106.886,
+        "pcums_tons": 22738
+      },
+      {
+        "flag": "Cook Islands",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Cook Islands",
+        "fiscal_year": "2025",
+        "transits_count": 3,
+        "cargo_tons": 19684,
+        "pcums_tons": 13093
+      },
+      {
+        "flag": "Costa Rica",
+        "fiscal_year": "2024",
+        "transits_count": 6,
+        "cargo_tons": 5475,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Costa Rica",
+        "fiscal_year": "2025",
+        "transits_count": 4,
+        "cargo_tons": 5475,
+        "pcums_tons": 1554
+      },
+      {
+        "flag": "Croatia",
+        "fiscal_year": "2024",
+        "transits_count": 11,
+        "cargo_tons": "223022.66869999998",
+        "pcums_tons": 223968
+      },
+      {
+        "flag": "Croatia",
+        "fiscal_year": "2025",
+        "transits_count": 5,
+        "cargo_tons": "117271.51830000001",
+        "pcums_tons": 120832
+      },
+      {
+        "flag": "Curacao",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 21026.979,
+        "pcums_tons": 22354
+      },
+      {
+        "flag": "Curacao",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 5105,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Cyprus",
+        "fiscal_year": "2024",
+        "transits_count": 169,
+        "cargo_tons": "2274219.5824999991",
+        "pcums_tons": 4047677
+      },
+      {
+        "flag": "Cyprus",
+        "fiscal_year": "2025",
+        "transits_count": 196,
+        "cargo_tons": "4529887.0419999985",
+        "pcums_tons": 6137934
+      },
+      {
+        "flag": "Czech Republic",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Denmark",
+        "fiscal_year": "2024",
+        "transits_count": 226,
+        "cargo_tons": 3633245.5743,
+        "pcums_tons": 6625218
+      },
+      {
+        "flag": "Denmark",
+        "fiscal_year": "2025",
+        "transits_count": 197,
+        "cargo_tons": 3537396.9252,
+        "pcums_tons": 5369932
+      },
+      {
+        "flag": "Dominica",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Dominica",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": 389
+      },
+      {
+        "flag": "Ecuador",
+        "fiscal_year": "2024",
+        "transits_count": 5,
+        "cargo_tons": 1330,
+        "pcums_tons": 3898
+      },
+      {
+        "flag": "Ecuador",
+        "fiscal_year": "2025",
+        "transits_count": 8,
+        "cargo_tons": 1476,
+        "pcums_tons": 7662
+      },
+      {
+        "flag": "Egypt",
+        "fiscal_year": "2025",
+        "transits_count": 2,
+        "cargo_tons": 58952.985,
+        "pcums_tons": 73922
+      },
+      {
+        "flag": "El Salvador",
+        "fiscal_year": "2025",
+        "transits_count": 5,
+        "cargo_tons": 272,
+        "pcums_tons": 8106
+      },
+      {
+        "flag": "Estonia",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 388,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Estonia",
+        "fiscal_year": "2025",
+        "transits_count": 4,
+        "cargo_tons": 388,
+        "pcums_tons": 1165
+      },
+      {
+        "flag": "Finland",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 388,
+        "pcums_tons": 194
+      },
+      {
+        "flag": "France",
+        "fiscal_year": "2024",
+        "transits_count": 178,
+        "cargo_tons": "557343.05530000012",
+        "pcums_tons": 2669507
+      },
+      {
+        "flag": "France",
+        "fiscal_year": "2025",
+        "transits_count": 161,
+        "cargo_tons": "451093.74459999992",
+        "pcums_tons": 2963284
+      },
+      {
+        "flag": "French Polinesia",
+        "fiscal_year": "2024",
+        "transits_count": 5,
+        "cargo_tons": 970,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Gabon",
+        "fiscal_year": "2024",
+        "transits_count": 3,
+        "cargo_tons": "59043.932199999996",
+        "pcums_tons": 62055
+      },
+      {
+        "flag": "Germany",
+        "fiscal_year": "2024",
+        "transits_count": 132,
+        "cargo_tons": "3315715.9257999989",
+        "pcums_tons": 11497513
+      },
+      {
+        "flag": "Germany",
+        "fiscal_year": "2025",
+        "transits_count": 129,
+        "cargo_tons": "2993531.3536999994",
+        "pcums_tons": 10411976
+      },
+      {
+        "flag": "Gibraltar",
+        "fiscal_year": "2024",
+        "transits_count": 11,
+        "cargo_tons": "242575.29669999998",
+        "pcums_tons": 247207
+      },
+      {
+        "flag": "Gibraltar",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 30807,
+        "pcums_tons": 20301
+      },
+      {
+        "flag": "Greece",
+        "fiscal_year": "2024",
+        "transits_count": 54,
+        "cargo_tons": "1844833.0629999994",
+        "pcums_tons": 2580289
+      },
+      {
+        "flag": "Greece",
+        "fiscal_year": "2025",
+        "transits_count": 46,
+        "cargo_tons": "1397987.8040999998",
+        "pcums_tons": 1766468
+      },
+      {
+        "flag": "Guatemala",
+        "fiscal_year": "2025",
+        "transits_count": 3,
+        "cargo_tons": 2616,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Guernsey",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 2616,
+        "pcums_tons": 194
+      },
+      {
+        "flag": "Guernsey",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 2616,
+        "pcums_tons": 194
+      },
+      {
+        "flag": "Guinea-Bissau",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 2616,
+        "pcums_tons": 30169
+      },
+      {
+        "flag": "Honduras",
+        "fiscal_year": "2024",
+        "transits_count": 3,
+        "cargo_tons": 2616,
+        "pcums_tons": 1269
+      },
+      {
+        "flag": "Hong Kong",
+        "fiscal_year": "2024",
+        "transits_count": 682,
+        "cargo_tons": "20866587.62010001",
+        "pcums_tons": 47619398
+      },
+      {
+        "flag": "Hong Kong",
+        "fiscal_year": "2025",
+        "transits_count": 851,
+        "cargo_tons": "25877903.672299989",
+        "pcums_tons": 60072312
+      },
+      {
+        "flag": "India",
+        "fiscal_year": "2024",
+        "transits_count": 19,
+        "cargo_tons": 524317.8295,
+        "pcums_tons": 498416
+      },
+      {
+        "flag": "India",
+        "fiscal_year": "2025",
+        "transits_count": 17,
+        "cargo_tons": 567535.7847,
+        "pcums_tons": 485056
+      },
+      {
+        "flag": "Indonesia",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 2473.3623,
+        "pcums_tons": 15301
+      },
+      {
+        "flag": "Indonesia",
+        "fiscal_year": "2025",
+        "transits_count": 6,
+        "cargo_tons": 37776.9812,
+        "pcums_tons": 91806
+      },
+      {
+        "flag": "Ireland",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 388,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Isle of Man",
+        "fiscal_year": "2024",
+        "transits_count": 100,
+        "cargo_tons": 2278168.3566,
+        "pcums_tons": 3652136
+      },
+      {
+        "flag": "Isle of Man",
+        "fiscal_year": "2025",
+        "transits_count": 137,
+        "cargo_tons": 3240778.6301,
+        "pcums_tons": 4439624
+      },
+      {
+        "flag": "Italy",
+        "fiscal_year": "2024",
+        "transits_count": 44,
+        "cargo_tons": "517676.89359999995",
+        "pcums_tons": 1047186
+      },
+      {
+        "flag": "Italy",
+        "fiscal_year": "2025",
+        "transits_count": 19,
+        "cargo_tons": "275268.16359999997",
+        "pcums_tons": 399350
+      },
+      {
+        "flag": "Jamaica",
+        "fiscal_year": "2024",
+        "transits_count": 5,
+        "cargo_tons": 1456,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Jamaica",
+        "fiscal_year": "2025",
+        "transits_count": 7,
+        "cargo_tons": 1456,
+        "pcums_tons": 3206
+      },
+      {
+        "flag": "Japan",
+        "fiscal_year": "2024",
+        "transits_count": 188,
+        "cargo_tons": 1314882.3773,
+        "pcums_tons": 9523981
+      },
+      {
+        "flag": "Japan",
+        "fiscal_year": "2025",
+        "transits_count": 267,
+        "cargo_tons": 2725184.6045,
+        "pcums_tons": 15416103
+      },
+      {
+        "flag": "Jersey",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 388,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Jersey",
+        "fiscal_year": "2025",
+        "transits_count": 3,
+        "cargo_tons": 388,
+        "pcums_tons": 582
+      },
+      {
+        "flag": "Jordan",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 388,
+        "pcums_tons": 8800
+      },
+      {
+        "flag": "Korea, Republic of",
+        "fiscal_year": "2024",
+        "transits_count": 91,
+        "cargo_tons": "850361.10429999989",
+        "pcums_tons": 6125002
+      },
+      {
+        "flag": "Korea, Republic of",
+        "fiscal_year": "2025",
+        "transits_count": 129,
+        "cargo_tons": 1128866.5218,
+        "pcums_tons": 8814661
+      },
+      {
+        "flag": "Latvia",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 6397,
+        "pcums_tons": 34567
+      },
+      {
+        "flag": "Liberia",
+        "fiscal_year": "2024",
+        "transits_count": 1894,
+        "cargo_tons": "43716380.075600028",
+        "pcums_tons": 82906830
+      },
+      {
+        "flag": "Liberia",
+        "fiscal_year": "2025",
+        "transits_count": 2241,
+        "cargo_tons": "53755247.940499976",
+        "pcums_tons": 90766060
+      },
+      {
+        "flag": "Libyan Arab Jamahiriya",
+        "fiscal_year": "2024",
+        "transits_count": 3,
+        "cargo_tons": 39592,
+        "pcums_tons": 73086
+      },
+      {
+        "flag": "Libyan Arab Jamahiriya",
+        "fiscal_year": "2025",
+        "transits_count": 10,
+        "cargo_tons": 184745.5508,
+        "pcums_tons": 243620
+      },
+      {
+        "flag": "Lithuania",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 14522,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Lithuania",
+        "fiscal_year": "2025",
+        "transits_count": 2,
+        "cargo_tons": 773,
+        "pcums_tons": 16052
+      },
+      {
+        "flag": "Luxembourg",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 3936.826,
+        "pcums_tons": 3246
+      },
+      {
+        "flag": "Luxembourg",
+        "fiscal_year": "2025",
+        "transits_count": 2,
+        "cargo_tons": 491.5548,
+        "pcums_tons": 40136
+      },
+      {
+        "flag": "Malaysia",
+        "fiscal_year": "2024",
+        "transits_count": 8,
+        "cargo_tons": 24334.4451,
+        "pcums_tons": 31890
+      },
+      {
+        "flag": "Malaysia",
+        "fiscal_year": "2025",
+        "transits_count": 6,
+        "cargo_tons": 1261,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Malta",
+        "fiscal_year": "2024",
+        "transits_count": 664,
+        "cargo_tons": "10529223.240500003",
+        "pcums_tons": 36463530
+      },
+      {
+        "flag": "Malta",
+        "fiscal_year": "2025",
+        "transits_count": 734,
+        "cargo_tons": "12637633.02459999",
+        "pcums_tons": 39282058
+      },
+      {
+        "flag": "Marshall Islands",
+        "fiscal_year": "2024",
+        "transits_count": 1300,
+        "cargo_tons": "30372736.457999978",
+        "pcums_tons": 39461658
+      },
+      {
+        "flag": "Marshall Islands",
+        "fiscal_year": "2025",
+        "transits_count": 1689,
+        "cargo_tons": "41495583.428399988",
+        "pcums_tons": 47169427
+      },
+      {
+        "flag": "Mauritius",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Mexico",
+        "fiscal_year": "2024",
+        "transits_count": 11,
+        "cargo_tons": 14699.9951,
+        "pcums_tons": 78753
+      },
+      {
+        "flag": "Mexico",
+        "fiscal_year": "2025",
+        "transits_count": 9,
+        "cargo_tons": 15223.1254,
+        "pcums_tons": 67132
+      },
+      {
+        "flag": "Monaco",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Montenegro",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 31495,
+        "pcums_tons": 20309
+      },
+      {
+        "flag": "Netherlands",
+        "fiscal_year": "2024",
+        "transits_count": 110,
+        "cargo_tons": "535794.40159999987",
+        "pcums_tons": 2150259
+      },
+      {
+        "flag": "Netherlands",
+        "fiscal_year": "2025",
+        "transits_count": 120,
+        "cargo_tons": 656846.2457,
+        "pcums_tons": 2257536
+      },
+      {
+        "flag": "New Zealand",
+        "fiscal_year": "2024",
+        "transits_count": 14,
+        "cargo_tons": 4,
+        "pcums_tons": 3105
+      },
+      {
+        "flag": "New Zealand",
+        "fiscal_year": "2025",
+        "transits_count": 13,
+        "cargo_tons": 2522,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Norway",
+        "fiscal_year": "2024",
+        "transits_count": 335,
+        "cargo_tons": 5863668.3649,
+        "pcums_tons": 13434598
+      },
+      {
+        "flag": "Norway",
+        "fiscal_year": "2025",
+        "transits_count": 442,
+        "cargo_tons": "7286136.0095000025",
+        "pcums_tons": 18140578
+      },
+      {
+        "flag": "Palau",
+        "fiscal_year": "2025",
+        "transits_count": 9,
+        "cargo_tons": 134478.3566,
+        "pcums_tons": 172404
+      },
+      {
+        "flag": "Panama",
+        "fiscal_year": "2024",
+        "transits_count": 1727,
+        "cargo_tons": "32411520.563999996",
+        "pcums_tons": 52424220
+      },
+      {
+        "flag": "Panama",
+        "fiscal_year": "2025",
+        "transits_count": 2141,
+        "cargo_tons": 42023751.4217,
+        "pcums_tons": 62973292
+      },
+      {
+        "flag": "Peru",
+        "fiscal_year": "2024",
+        "transits_count": 3,
+        "cargo_tons": 8887,
+        "pcums_tons": 14140
+      },
+      {
+        "flag": "Peru",
+        "fiscal_year": "2025",
+        "transits_count": 7,
+        "cargo_tons": 7118,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Philippines",
+        "fiscal_year": "2024",
+        "transits_count": 13,
+        "cargo_tons": "427031.75710000005",
+        "pcums_tons": 325111
+      },
+      {
+        "flag": "Philippines",
+        "fiscal_year": "2025",
+        "transits_count": 32,
+        "cargo_tons": "864708.8624000001",
+        "pcums_tons": 758200
+      },
+      {
+        "flag": "Poland",
+        "fiscal_year": "2024",
+        "transits_count": 33,
+        "cargo_tons": 8371,
+        "pcums_tons": 34604
+      },
+      {
+        "flag": "Poland",
+        "fiscal_year": "2025",
+        "transits_count": 45,
+        "cargo_tons": 2466,
+        "pcums_tons": 37029
+      },
+      {
+        "flag": "Portugal",
+        "fiscal_year": "2024",
+        "transits_count": 265,
+        "cargo_tons": "10092475.800499996",
+        "pcums_tons": 17931454
+      },
+      {
+        "flag": "Portugal",
+        "fiscal_year": "2025",
+        "transits_count": 334,
+        "cargo_tons": "11627098.052699996",
+        "pcums_tons": 19120515
+      },
+      {
+        "flag": "Russian Federation",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 7954.4994,
+        "pcums_tons": 15690
+      },
+      {
+        "flag": "Russian Federation",
+        "fiscal_year": "2025",
+        "transits_count": 8,
+        "cargo_tons": "62775.906699999992",
+        "pcums_tons": 100438
+      },
+      {
+        "flag": "Saint Kitts and Nevis",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 388,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Saint Kitts and Nevis",
+        "fiscal_year": "2025",
+        "transits_count": 2,
+        "cargo_tons": 29524.9156,
+        "pcums_tons": 33464
+      },
+      {
+        "flag": "Saint Martin",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 291,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Saint Vincent and the Grenadines",
+        "fiscal_year": "2024",
+        "transits_count": 7,
+        "cargo_tons": 386.0557,
+        "pcums_tons": 12417
+      },
+      {
+        "flag": "Saint Vincent and the Grenadines",
+        "fiscal_year": "2025",
+        "transits_count": 10,
+        "cargo_tons": 7226,
+        "pcums_tons": null
+      },
+      {
+        "flag": "San Marino",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 7226,
+        "pcums_tons": 485
+      },
+      {
+        "flag": "San Marino",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 7226,
+        "pcums_tons": 194
+      },
+      {
+        "flag": "Sao Tome and Principe",
+        "fiscal_year": "2025",
+        "transits_count": 2,
+        "cargo_tons": 876,
+        "pcums_tons": 1920
+      },
+      {
+        "flag": "Saudi Arabia",
+        "fiscal_year": "2024",
+        "transits_count": 13,
+        "cargo_tons": 305994.3296,
+        "pcums_tons": 415324
+      },
+      {
+        "flag": "Saudi Arabia",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 39369,
+        "pcums_tons": 24274
+      },
+      {
+        "flag": "Seychelles",
+        "fiscal_year": "2025",
+        "transits_count": 5,
+        "cargo_tons": 72646.573,
+        "pcums_tons": 90091
+      },
+      {
+        "flag": "Sierra Leone",
+        "fiscal_year": "2025",
+        "transits_count": 3,
+        "cargo_tons": "65070.281500000005",
+        "pcums_tons": 71577
+      },
+      {
+        "flag": "Singapore",
+        "fiscal_year": "2024",
+        "transits_count": 922,
+        "cargo_tons": "21882201.898200009",
+        "pcums_tons": 40291305
+      },
+      {
+        "flag": "Singapore",
+        "fiscal_year": "2025",
+        "transits_count": 1169,
+        "cargo_tons": "26312935.025200002",
+        "pcums_tons": 48249765
+      },
+      {
+        "flag": "Slovenia",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 388,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Solomon Islands",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 122.0259,
+        "pcums_tons": 781
+      },
+      {
+        "flag": "South Africa",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 388,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Spain",
+        "fiscal_year": "2024",
+        "transits_count": 10,
+        "cargo_tons": 152,
+        "pcums_tons": 9345
+      },
+      {
+        "flag": "Spain",
+        "fiscal_year": "2025",
+        "transits_count": 11,
+        "cargo_tons": 75246,
+        "pcums_tons": 127547
+      },
+      {
+        "flag": "Sweden",
+        "fiscal_year": "2024",
+        "transits_count": 31,
+        "cargo_tons": 192824,
+        "pcums_tons": 1590818
+      },
+      {
+        "flag": "Sweden",
+        "fiscal_year": "2025",
+        "transits_count": 41,
+        "cargo_tons": 193203,
+        "pcums_tons": 1863655
+      },
+      {
+        "flag": "Switzerland",
+        "fiscal_year": "2024",
+        "transits_count": 11,
+        "cargo_tons": 43304,
+        "pcums_tons": 28916
+      },
+      {
+        "flag": "Switzerland",
+        "fiscal_year": "2025",
+        "transits_count": 17,
+        "cargo_tons": 138975,
+        "pcums_tons": 83456
+      },
+      {
+        "flag": "Taiwan, Province of China",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 3002,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Taiwan, Province of China",
+        "fiscal_year": "2025",
+        "transits_count": 2,
+        "cargo_tons": "77122.624000000011",
+        "pcums_tons": 187222
+      },
+      {
+        "flag": "Tanzania, United Republic of",
+        "fiscal_year": "2024",
+        "transits_count": 2,
+        "cargo_tons": 1770,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Tanzania, United Republic of",
+        "fiscal_year": "2025",
+        "transits_count": 6,
+        "cargo_tons": 1770,
+        "pcums_tons": 3498
+      },
+      {
+        "flag": "Thailand",
+        "fiscal_year": "2024",
+        "transits_count": 15,
+        "cargo_tons": 570014.0577,
+        "pcums_tons": 1351521
+      },
+      {
+        "flag": "Thailand",
+        "fiscal_year": "2025",
+        "transits_count": 18,
+        "cargo_tons": 603263.1786,
+        "pcums_tons": 1160626
+      },
+      {
+        "flag": "Togo",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 291,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Turkey",
+        "fiscal_year": "2024",
+        "transits_count": 6,
+        "cargo_tons": "55667.585999999996",
+        "pcums_tons": 131201
+      },
+      {
+        "flag": "Turkey",
+        "fiscal_year": "2025",
+        "transits_count": 6,
+        "cargo_tons": 43399.9692,
+        "pcums_tons": 49241
+      },
+      {
+        "flag": "Tuvalu",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 20405,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Tuvalu",
+        "fiscal_year": "2025",
+        "transits_count": 1,
+        "cargo_tons": 13024.4866,
+        "pcums_tons": 12385
+      },
+      {
+        "flag": "United Arab Emirates",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 194,
+        "pcums_tons": null
+      },
+      {
+        "flag": "United Kingdom",
+        "fiscal_year": "2024",
+        "transits_count": 137,
+        "cargo_tons": "764100.86509999994",
+        "pcums_tons": 2492899
+      },
+      {
+        "flag": "United Kingdom",
+        "fiscal_year": "2025",
+        "transits_count": 117,
+        "cargo_tons": 577413.615,
+        "pcums_tons": 3062688
+      },
+      {
+        "flag": "United States",
+        "fiscal_year": "2024",
+        "transits_count": 499,
+        "cargo_tons": 2258610.2026,
+        "pcums_tons": 4541206
+      },
+      {
+        "flag": "United States",
+        "fiscal_year": "2025",
+        "transits_count": 483,
+        "cargo_tons": 1524551.8837,
+        "pcums_tons": 3780459
+      },
+      {
+        "flag": "Vanuatu",
+        "fiscal_year": "2024",
+        "transits_count": 4,
+        "cargo_tons": 78848,
+        "pcums_tons": 78249
+      },
+      {
+        "flag": "Vanuatu",
+        "fiscal_year": "2025",
+        "transits_count": 4,
+        "cargo_tons": 33283,
+        "pcums_tons": 22313
+      },
+      {
+        "flag": "Venezuela",
+        "fiscal_year": "2024",
+        "transits_count": 9,
+        "cargo_tons": 7139,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Venezuela",
+        "fiscal_year": "2025",
+        "transits_count": 5,
+        "cargo_tons": 7139,
+        "pcums_tons": 5011
+      },
+      {
+        "flag": "Viet Nam",
+        "fiscal_year": "2024",
+        "transits_count": 15,
+        "cargo_tons": 174567.3243,
+        "pcums_tons": 211582
+      },
+      {
+        "flag": "Viet Nam",
+        "fiscal_year": "2025",
+        "transits_count": 9,
+        "cargo_tons": "193513.56160000002",
+        "pcums_tons": 125988
+      },
+      {
+        "flag": "Virgin Islands, British",
+        "fiscal_year": "2024",
+        "transits_count": 18,
+        "cargo_tons": 4757,
+        "pcums_tons": null
+      },
+      {
+        "flag": "Virgin Islands, British",
+        "fiscal_year": "2025",
+        "transits_count": 19,
+        "cargo_tons": 4757,
+        "pcums_tons": 5730
+      },
+      {
+        "flag": "Virgin Islands, U.S.",
+        "fiscal_year": "2024",
+        "transits_count": 1,
+        "cargo_tons": 4757,
+        "pcums_tons": 583
+      }
+    ],
+    "top_countries_cargo": [
+      {
+        "country": "Albania",
+        "total_tons": 9762.9521,
+        "percentage": "3.7215069101420849E-05",
+        "origin_tons": 1045.9285,
+        "destination_tons": 8717.0236
+      },
+      {
+        "country": "Algeria",
+        "total_tons": 1450205.1532,
+        "percentage": "0.0055279883005443205",
+        "origin_tons": 678681.6087,
+        "destination_tons": 771523.5445
+      },
+      {
+        "country": "Angola",
+        "total_tons": 14032.48,
+        "percentage": "5.3489939058935459E-05",
+        "origin_tons": 11863.4409,
+        "destination_tons": 2169.0391
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "total_tons": 7457.4784,
+        "percentage": "2.8426911362020649E-05",
+        "origin_tons": 7457.4784,
+        "destination_tons": null
+      },
+      {
+        "country": "Argentina",
+        "total_tons": "101628.03700000001",
+        "percentage": "0.00038739249981537395",
+        "origin_tons": 9866.5663,
+        "destination_tons": 91761.4707
+      },
+      {
+        "country": "Aruba",
+        "total_tons": 102519.3788,
+        "percentage": "0.00039079017567613994",
+        "origin_tons": 50676.1431,
+        "destination_tons": 51843.2357
+      },
+      {
+        "country": "Australia",
+        "total_tons": 2319585.5721,
+        "percentage": "0.0088419503105377634",
+        "origin_tons": 1425540.2912,
+        "destination_tons": 894045.2809
+      },
+      {
+        "country": "Bahamas",
+        "total_tons": "861968.48099999991",
+        "percentage": "0.0032857086929333349",
+        "origin_tons": 796135.2298,
+        "destination_tons": 65833.2512
+      },
+      {
+        "country": "Bahrain",
+        "total_tons": "22626.927499999998",
+        "percentage": "8.62508247341846E-05",
+        "origin_tons": 15264.3836,
+        "destination_tons": 7362.5439
+      },
+      {
+        "country": "Bangladesh",
+        "total_tons": "23296.017200000002",
+        "percentage": "8.8801305282025156E-05",
+        "origin_tons": 12326.2903,
+        "destination_tons": 10969.7269
+      },
+      {
+        "country": "Barbados",
+        "total_tons": 46499.9784,
+        "percentage": "0.00017725170539048088",
+        "origin_tons": 46499.9784,
+        "destination_tons": null
+      },
+      {
+        "country": "Belgium",
+        "total_tons": 3384681.5176,
+        "percentage": "0.012901953760869724",
+        "origin_tons": 1471203.835,
+        "destination_tons": 1913477.6826
+      },
+      {
+        "country": "Belize",
+        "total_tons": 35389.5445,
+        "percentage": "0.00013490021568735426",
+        "origin_tons": 35389.5445,
+        "destination_tons": null
+      },
+      {
+        "country": "Benin",
+        "total_tons": "37415.258599999994",
+        "percentage": "0.00014262196720667413",
+        "origin_tons": 2156.1205,
+        "destination_tons": 35259.1381
+      },
+      {
+        "country": "Bermuda",
+        "total_tons": 59359.169,
+        "percentage": "0.00022626922200488089",
+        "origin_tons": 58893.9833,
+        "destination_tons": 465.1857
+      },
+      {
+        "country": "Bolivia",
+        "total_tons": 371.0808,
+        "percentage": "1.414510434216975E-06",
+        "origin_tons": 371.0808,
+        "destination_tons": null
+      },
+      {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "total_tons": 60,
+        "percentage": "2.287119841636067E-07",
+        "origin_tons": 371.0808,
+        "destination_tons": 60
+      },
+      {
+        "country": "Brazil",
+        "total_tons": "5810630.2273999993",
+        "percentage": "0.022149346142494718",
+        "origin_tons": 2801772.1857,
+        "destination_tons": 3008858.0417
+      },
+      {
+        "country": "Brunei Darussalam",
+        "total_tons": 11488,
+        "percentage": "4.3790721234525227E-05",
+        "origin_tons": 11488,
+        "destination_tons": null
+      },
+      {
+        "country": "Bulgaria",
+        "total_tons": 367062.3341,
+        "percentage": "0.0013991925790622617",
+        "origin_tons": 138918.5142,
+        "destination_tons": 228143.8199
+      },
+      {
+        "country": "Cambodia",
+        "total_tons": 63936.9968,
+        "percentage": "0.00024371928999316952",
+        "origin_tons": 63612.8235,
+        "destination_tons": 324.1733
+      },
+      {
+        "country": "Cameroon",
+        "total_tons": 4804.4344,
+        "percentage": "1.8313862073464787E-05",
+        "origin_tons": 1399.0103,
+        "destination_tons": 3405.4241
+      },
+      {
+        "country": "Canada",
+        "total_tons": 12766508.1194,
+        "percentage": "0.048608632307496132",
+        "origin_tons": 10110909.7687,
+        "destination_tons": 2641014.662
+      },
+      {
+        "country": "Cape Verde",
+        "total_tons": 262.0942,
+        "percentage": "9.990680753295528E-07",
+        "origin_tons": 262.0942,
+        "destination_tons": null
+      },
+      {
+        "country": "Chile",
+        "total_tons": "23419475.831299998",
+        "percentage": "0.089271913090804247",
+        "origin_tons": 12230310.8707,
+        "destination_tons": 11189164.9606
+      },
+      {
+        "country": "China",
+        "total_tons": 53470286.6366,
+        "percentage": "0.20382158917422616",
+        "origin_tons": 28473050.0385,
+        "destination_tons": 24997236.5981
+      },
+      {
+        "country": "Colombia",
+        "total_tons": "18135030.509600002",
+        "percentage": "0.067696827157152667",
+        "origin_tons": 8135029.2939,
+        "destination_tons": 9624466.9751
+      },
+      {
+        "country": "Congo",
+        "total_tons": 2472.7643,
+        "percentage": "9.4258471570322E-06",
+        "origin_tons": 2472.7643,
+        "destination_tons": null
+      },
+      {
+        "country": "Congo, The Democratic Republic of The",
+        "total_tons": 1127.634,
+        "percentage": "4.2983901591724074E-06",
+        "origin_tons": 170.2678,
+        "destination_tons": 957.3662
+      },
+      {
+        "country": "Costa Rica",
+        "total_tons": 2977834.4021,
+        "percentage": "0.011335527001095859",
+        "origin_tons": 265698.4865,
+        "destination_tons": 2708048.7028
+      },
+      {
+        "country": "C\u00f4te D'Ivoire",
+        "total_tons": 122959.9474,
+        "percentage": "0.0004687068923751119",
+        "origin_tons": 10534.9014,
+        "destination_tons": 112425.046
+      },
+      {
+        "country": "Croatia",
+        "total_tons": "19990.523500000003",
+        "percentage": "7.6201204902570129E-05",
+        "origin_tons": 8311.9588,
+        "destination_tons": 11678.5647
+      },
+      {
+        "country": "Cuba",
+        "total_tons": 336780.2331,
+        "percentage": "0.0012837612556563828",
+        "origin_tons": 394,
+        "destination_tons": 336386.2331
+      },
+      {
+        "country": "Curacao",
+        "total_tons": 5446.9514,
+        "percentage": "2.0763051038945589E-05",
+        "origin_tons": 5446.9514,
+        "destination_tons": null
+      },
+      {
+        "country": "Cyprus",
+        "total_tons": 4053.0455,
+        "percentage": "1.5449667970172956E-05",
+        "origin_tons": 800.0758,
+        "destination_tons": 3252.9697
+      },
+      {
+        "country": "Denmark",
+        "total_tons": 173593.8097,
+        "percentage": "0.00066171641091677588",
+        "origin_tons": 38468.5026,
+        "destination_tons": 135125.3071
+      },
+      {
+        "country": "Djibouti",
+        "total_tons": 15411.2422,
+        "percentage": "5.8745596366465123E-05",
+        "origin_tons": 14635.3583,
+        "destination_tons": 775.8839
+      },
+      {
+        "country": "Dominica",
+        "total_tons": 46391.0374,
+        "percentage": "0.00017683643685270143",
+        "origin_tons": 46391.0374,
+        "destination_tons": null
+      },
+      {
+        "country": "Dominican Republic",
+        "total_tons": "2903321.4135999996",
+        "percentage": "0.011067073352819055",
+        "origin_tons": 653754.2715,
+        "destination_tons": 2249567.1421
+      },
+      {
+        "country": "Ecuador",
+        "total_tons": 15526770.2322,
+        "percentage": "0.059185973790981436",
+        "origin_tons": 5707797.7935,
+        "destination_tons": 9818972.4387
+      },
+      {
+        "country": "Egypt",
+        "total_tons": 484923.2324,
+        "percentage": "0.0018484625774872294",
+        "origin_tons": 247448.5963,
+        "destination_tons": 237474.6361
+      },
+      {
+        "country": "El Salvador",
+        "total_tons": 2683903.9298,
+        "percentage": "0.010230683218150989",
+        "origin_tons": 251782.9523,
+        "destination_tons": 2432120.9775
+      },
+      {
+        "country": "Estonia",
+        "total_tons": 11525.3517,
+        "percentage": "4.3933100924839952E-05",
+        "origin_tons": 5459.5605,
+        "destination_tons": 6065.7912
+      },
+      {
+        "country": "Fiji",
+        "total_tons": "39379.166900000004",
+        "percentage": "0.00015010812327348043",
+        "origin_tons": 38998.5057,
+        "destination_tons": 380.6612
+      },
+      {
+        "country": "Finland",
+        "total_tons": 922054.8592,
+        "percentage": "0.0035147499392554496",
+        "origin_tons": 577938.0319,
+        "destination_tons": 344116.8273
+      },
+      {
+        "country": "France",
+        "total_tons": 1056316.262,
+        "percentage": "0.004026536469771737",
+        "origin_tons": 366288.2612,
+        "destination_tons": 690028.0008
+      },
+      {
+        "country": "French Polinesia",
+        "total_tons": 199223.696,
+        "percentage": "0.00075941411340945319",
+        "origin_tons": 3723.0147,
+        "destination_tons": 195500.6813
+      },
+      {
+        "country": "Gabon",
+        "total_tons": "6693.8524000000007",
+        "percentage": "2.5516071068372014E-05",
+        "origin_tons": 5129.5267,
+        "destination_tons": 1564.3257
+      },
+      {
+        "country": "Gambia",
+        "total_tons": 1668.6007,
+        "percentage": "6.3604829478963841E-06",
+        "origin_tons": 1668.6007,
+        "destination_tons": null
+      },
+      {
+        "country": "Georgia",
+        "total_tons": 123452.9657,
+        "percentage": "0.00047058621226881136",
+        "origin_tons": 23200.0819,
+        "destination_tons": 100252.8838
+      },
+      {
+        "country": "Germany",
+        "total_tons": "2695344.9919999996",
+        "percentage": "0.010274295018762675",
+        "origin_tons": 1300864.7799,
+        "destination_tons": 1394480.2121
+      },
+      {
+        "country": "Ghana",
+        "total_tons": "118437.89050000001",
+        "percentage": "0.00045146941560678306",
+        "origin_tons": 24776.2621,
+        "destination_tons": 93661.6284
+      },
+      {
+        "country": "Gibraltar",
+        "total_tons": 298953.9363,
+        "percentage": "0.0011395724657448914",
+        "origin_tons": 79802.8904,
+        "destination_tons": 219151.0459
+      },
+      {
+        "country": "Greece",
+        "total_tons": "240344.68699999998",
+        "percentage": "0.00091616183744918332",
+        "origin_tons": 134360.5959,
+        "destination_tons": 105984.0911
+      },
+      {
+        "country": "Grenada",
+        "total_tons": 4263.122,
+        "percentage": "1.6250451522525388E-05",
+        "origin_tons": 4263.122,
+        "destination_tons": null
+      },
+      {
+        "country": "Guadeloupe",
+        "total_tons": 9840.4856,
+        "percentage": "3.7510616445156658E-05",
+        "origin_tons": 9741.4856,
+        "destination_tons": 99
+      },
+      {
+        "country": "Guatemala",
+        "total_tons": 10459391.8997,
+        "percentage": "0.039832661749190874",
+        "origin_tons": 2043883.0285,
+        "destination_tons": 8405764.8712
+      },
+      {
+        "country": "Guinea",
+        "total_tons": 11586.3109,
+        "percentage": "4.4165469251257061E-05",
+        "origin_tons": 8.7594,
+        "destination_tons": 11577.5515
+      },
+      {
+        "country": "Guyana",
+        "total_tons": 697789.7918,
+        "percentage": "0.0026598814635281336",
+        "origin_tons": 273504.123,
+        "destination_tons": 424285.6688
+      },
+      {
+        "country": "Haiti",
+        "total_tons": 136974.4542,
+        "percentage": "0.00052212831999681785",
+        "origin_tons": 136974.4542,
+        "destination_tons": null
+      },
+      {
+        "country": "Honduras",
+        "total_tons": 979092.8355,
+        "percentage": "0.0037321710847929464",
+        "origin_tons": 104524.1484,
+        "destination_tons": 874568.6871
+      },
+      {
+        "country": "Hong Kong",
+        "total_tons": "747389.93609999993",
+        "percentage": "0.0028489505871557032",
+        "origin_tons": 652279.3289,
+        "destination_tons": 95110.6072
+      },
+      {
+        "country": "India",
+        "total_tons": 1204454.7653,
+        "percentage": "0.0045912206534512376",
+        "origin_tons": 676141.8774,
+        "destination_tons": 528312.8879
+      },
+      {
+        "country": "Indonesia",
+        "total_tons": 742256.0986,
+        "percentage": "0.002829381084472395",
+        "origin_tons": 662255.5124,
+        "destination_tons": 80000.5862
+      },
+      {
+        "country": "Iraq",
+        "total_tons": 11195.9586,
+        "percentage": "4.2677498433659938E-05",
+        "origin_tons": 1202.9223,
+        "destination_tons": 9993.0363
+      },
+      {
+        "country": "Ireland",
+        "total_tons": 223014.2402,
+        "percentage": "0.00085010048954801964",
+        "origin_tons": 22549.5098,
+        "destination_tons": 200464.7304
+      },
+      {
+        "country": "Israel",
+        "total_tons": 132135.048,
+        "percentage": "0.00050368115009389019",
+        "origin_tons": 39654.6715,
+        "destination_tons": 92480.3765
+      },
+      {
+        "country": "Italy",
+        "total_tons": 2628513.1981,
+        "percentage": "0.010019541148961307",
+        "origin_tons": 1638927.0781,
+        "destination_tons": 989586.12
+      },
+      {
+        "country": "Jamaica",
+        "total_tons": 2385379.515,
+        "percentage": "0.009092748030981198",
+        "origin_tons": 793556.1193,
+        "destination_tons": 1591823.3957
+      },
+      {
+        "country": "Japan",
+        "total_tons": 34539254.8137,
+        "percentage": "0.13165902499956217",
+        "origin_tons": 6360992.0917,
+        "destination_tons": 28178262.722
+      },
+      {
+        "country": "Jordan",
+        "total_tons": 119104.4229,
+        "percentage": "0.00045401014806867193",
+        "origin_tons": 9456.0692,
+        "destination_tons": 109648.3537
+      },
+      {
+        "country": "Kenya",
+        "total_tons": "4764.2588000000005",
+        "percentage": "1.81607180536154E-05",
+        "origin_tons": 400.795,
+        "destination_tons": 4363.4638
+      },
+      {
+        "country": "Kiribati",
+        "total_tons": 4602,
+        "percentage": "1.7542209185348635E-05",
+        "origin_tons": 4602,
+        "destination_tons": null
+      },
+      {
+        "country": "Korea, Republic of",
+        "total_tons": 22135658.6663,
+        "percentage": "0.084378173572296808",
+        "origin_tons": 11649157.8587,
+        "destination_tons": 10486500.8076
+      },
+      {
+        "country": "Kuwait",
+        "total_tons": "6792.2863000000007",
+        "percentage": "2.5891287944671379E-05",
+        "origin_tons": 328.0132,
+        "destination_tons": 6464.2731
+      },
+      {
+        "country": "Latvia",
+        "total_tons": 81275.4452,
+        "percentage": "0.00030981113892454142",
+        "origin_tons": 43202.2647,
+        "destination_tons": 38073.1805
+      },
+      {
+        "country": "Lebanon",
+        "total_tons": 25913.7264,
+        "percentage": "9.8779663033613944E-05",
+        "origin_tons": 7783.271,
+        "destination_tons": 18130.4554
+      },
+      {
+        "country": "Liberia",
+        "total_tons": 783.7524,
+        "percentage": "2.9875594416164788E-06",
+        "origin_tons": 96.0744,
+        "destination_tons": 687.678
+      },
+      {
+        "country": "Libyan Arab Jamahiriya",
+        "total_tons": "74712.475599999991",
+        "percentage": "0.00028479397560418417",
+        "origin_tons": 190.4638,
+        "destination_tons": 74522.0118
+      },
+      {
+        "country": "Lithuania",
+        "total_tons": 183215.9888,
+        "percentage": "0.00069839487214908567",
+        "origin_tons": 69323.3433,
+        "destination_tons": 113892.6455
+      },
+      {
+        "country": "Macao",
+        "total_tons": 61.2639,
+        "percentage": "2.3352980211001306E-07",
+        "origin_tons": 61.2639,
+        "destination_tons": null
+      },
+      {
+        "country": "Madagascar",
+        "total_tons": 388.395,
+        "percentage": "1.4805098514870669E-06",
+        "origin_tons": 383.6216,
+        "destination_tons": 4.7734
+      },
+      {
+        "country": "Malaysia",
+        "total_tons": 616158.5594,
+        "percentage": "0.0023487141113293919",
+        "origin_tons": 538323.6593,
+        "destination_tons": 77834.9001
+      },
+      {
+        "country": "Malta",
+        "total_tons": 23753.6239,
+        "percentage": "9.0545640887417823E-05",
+        "origin_tons": 3448.2781,
+        "destination_tons": 20305.3458
+      },
+      {
+        "country": "Martinique",
+        "total_tons": 81.9788,
+        "percentage": "3.12492233455858E-07",
+        "origin_tons": 81.9788,
+        "destination_tons": null
+      },
+      {
+        "country": "Mauritania",
+        "total_tons": "31823.426900000002",
+        "percentage": "0.00012130665181974159",
+        "origin_tons": 887.3901,
+        "destination_tons": 30936.0368
+      },
+      {
+        "country": "Mauritius",
+        "total_tons": 63216.8343,
+        "percentage": "0.00024097412675491581",
+        "origin_tons": 62614.4458,
+        "destination_tons": 602.3885
+      },
+      {
+        "country": "Mayotte",
+        "total_tons": "460.43609999999995",
+        "percentage": "1.7551209001925468E-06",
+        "origin_tons": 54.3282,
+        "destination_tons": 406.1079
+      },
+      {
+        "country": "Mexico",
+        "total_tons": 20980255.1755,
+        "percentage": "0.078351300532544479",
+        "origin_tons": 7816830.0503,
+        "destination_tons": 12737746.6989
+      },
+      {
+        "country": "Montenegro",
+        "total_tons": 8768.4941,
+        "percentage": "3.342432806229798E-05",
+        "origin_tons": 2238.2051,
+        "destination_tons": 6530.289
+      },
+      {
+        "country": "Morocco",
+        "total_tons": "2914612.6405999996",
+        "percentage": "0.011110114001665916",
+        "origin_tons": 1696845.5346,
+        "destination_tons": 1217767.106
+      },
+      {
+        "country": "Mozambique",
+        "total_tons": 1145.6339,
+        "percentage": "4.3670033732348493E-06",
+        "origin_tons": 71.9078,
+        "destination_tons": 1073.7261
+      },
+      {
+        "country": "Myanmar",
+        "total_tons": 1219.4384,
+        "percentage": "4.6483362671548982E-06",
+        "origin_tons": 806.8441,
+        "destination_tons": 412.5943
+      },
+      {
+        "country": "Namibia",
+        "total_tons": "4008.0964999999997",
+        "percentage": "1.5278328387236788E-05",
+        "origin_tons": 1454.4207,
+        "destination_tons": 2553.6758
+      },
+      {
+        "country": "Netherlands",
+        "total_tons": 4573939.4213,
+        "percentage": "0.017435246008161032",
+        "origin_tons": 1131811.9539,
+        "destination_tons": 3442127.4674
+      },
+      {
+        "country": "Netherlands Antilles",
+        "total_tons": 271008.4376,
+        "percentage": "0.0010330479581429166",
+        "origin_tons": 233698.0888,
+        "destination_tons": 37310.3488
+      },
+      {
+        "country": "New Caledonia",
+        "total_tons": "76808.887599999987",
+        "percentage": "0.00029278521807325736",
+        "origin_tons": 42493.1438,
+        "destination_tons": 34315.7438
+      },
+      {
+        "country": "New Zealand",
+        "total_tons": 1523129.2363,
+        "percentage": "0.0058059651628628662",
+        "origin_tons": 778744.8763,
+        "destination_tons": 744384.36
+      },
+      {
+        "country": "Nicaragua",
+        "total_tons": 2710740.6936,
+        "percentage": "0.010332981376438123",
+        "origin_tons": 256822.3174,
+        "destination_tons": 2453918.3762
+      },
+      {
+        "country": "Nigeria",
+        "total_tons": 126294.7285,
+        "percentage": "0.00048141863241065011",
+        "origin_tons": 66049.0731,
+        "destination_tons": 60245.6554
+      },
+      {
+        "country": "Norway",
+        "total_tons": "752558.05829999992",
+        "percentage": "0.0028686507785350697",
+        "origin_tons": 664154.5314,
+        "destination_tons": 88403.5269
+      },
+      {
+        "country": "Not Assigned",
+        "total_tons": 10579787.5156,
+        "percentage": "0.040328736578703846",
+        "origin_tons": 814193.6865,
+        "destination_tons": 9765593.8291
+      },
+      {
+        "country": "Oman",
+        "total_tons": 22662.3535,
+        "percentage": "8.6385863913367609E-05",
+        "origin_tons": 6977.4518,
+        "destination_tons": 15684.9017
+      },
+      {
+        "country": "Pakistan",
+        "total_tons": 159370.6865,
+        "percentage": "0.00060749976544885215",
+        "origin_tons": 13433.9898,
+        "destination_tons": 145936.6967
+      },
+      {
+        "country": "Panama",
+        "total_tons": 10736799.7459,
+        "percentage": "0.040884067071570204",
+        "origin_tons": 1000270.8877,
+        "destination_tons": 9725201.2963
+      },
+      {
+        "country": "Paraguay",
+        "total_tons": 4721.8552,
+        "percentage": "1.7999081195420733E-05",
+        "origin_tons": 773.9927,
+        "destination_tons": 3947.8625
+      },
+      {
+        "country": "Peru",
+        "total_tons": "21593576.389700003",
+        "percentage": "0.082311828354611635",
+        "origin_tons": 9214330.4922,
+        "destination_tons": 12379245.8975
+      },
+      {
+        "country": "Philippines",
+        "total_tons": 602391.4606,
+        "percentage": "0.0022962357699506516",
+        "origin_tons": 189361.7384,
+        "destination_tons": 413029.7222
+      },
+      {
+        "country": "Poland",
+        "total_tons": 409928.8839,
+        "percentage": "0.0015625941400456962",
+        "origin_tons": 132702.1398,
+        "destination_tons": 277226.7441
+      },
+      {
+        "country": "Portugal",
+        "total_tons": 316936.7551,
+        "percentage": "0.0012081205685549349",
+        "origin_tons": 216789.3007,
+        "destination_tons": 100147.4544
+      },
+      {
+        "country": "Puerto Rico",
+        "total_tons": 699848.5269,
+        "percentage": "0.0026677290866879378",
+        "origin_tons": 104141.3734,
+        "destination_tons": 595707.1535
+      },
+      {
+        "country": "Qatar",
+        "total_tons": 12329.6688,
+        "percentage": "4.6999050255468591E-05",
+        "origin_tons": 4615.8092,
+        "destination_tons": 7713.8596
+      },
+      {
+        "country": "R\u00e9union",
+        "total_tons": 404.6651,
+        "percentage": "1.542529299046072E-06",
+        "origin_tons": 13.707,
+        "destination_tons": 390.9581
+      },
+      {
+        "country": "Romania",
+        "total_tons": 134405.1263,
+        "percentage": "0.00051233438529721929",
+        "origin_tons": 127363.532,
+        "destination_tons": 7041.5943
+      },
+      {
+        "country": "Russian Federation",
+        "total_tons": 4564604.1636,
+        "percentage": "0.017399550503769512",
+        "origin_tons": 2480199.9479,
+        "destination_tons": 2084375.1619
+      },
+      {
+        "country": "Saint Helena",
+        "total_tons": 2211,
+        "percentage": "8.4280366164289064E-06",
+        "origin_tons": 2211,
+        "destination_tons": null
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "total_tons": 107.6136,
+        "percentage": "4.1020866631647845E-07",
+        "origin_tons": 2211,
+        "destination_tons": 107.6136
+      },
+      {
+        "country": "Saint Lucia",
+        "total_tons": 3771.505,
+        "percentage": "1.4376473197216058E-05",
+        "origin_tons": 2211,
+        "destination_tons": 3771.505
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "total_tons": 32.8725,
+        "percentage": "1.2530557832363602E-07",
+        "origin_tons": 2211,
+        "destination_tons": 32.8725
+      },
+      {
+        "country": "Saudi Arabia",
+        "total_tons": 177901.0357,
+        "percentage": "0.0006781349809951272",
+        "origin_tons": 49846.4066,
+        "destination_tons": 128054.6291
+      },
+      {
+        "country": "Senegal",
+        "total_tons": 32664.9108,
+        "percentage": "0.00012451427602658708",
+        "origin_tons": 575.2678,
+        "destination_tons": 32089.643
+      },
+      {
+        "country": "Seychelles",
+        "total_tons": 4698,
+        "percentage": "1.7908148360010402E-05",
+        "origin_tons": 4421,
+        "destination_tons": 277
+      },
+      {
+        "country": "Sierra Leone",
+        "total_tons": "597.86830000000009",
+        "percentage": "2.2789940860253746E-06",
+        "origin_tons": 241.918,
+        "destination_tons": 355.9503
+      },
+      {
+        "country": "Singapore",
+        "total_tons": 813714.9806,
+        "percentage": "0.0031017727959446119",
+        "origin_tons": 349384.6304,
+        "destination_tons": 464330.3502
+      },
+      {
+        "country": "Sint Maartin",
+        "total_tons": 3.051,
+        "percentage": "1.16300043947194E-08",
+        "origin_tons": 3.051,
+        "destination_tons": null
+      },
+      {
+        "country": "Slovenia",
+        "total_tons": "20523.254399999998",
+        "percentage": "7.823190392197452E-05",
+        "origin_tons": 4515.7993,
+        "destination_tons": 16007.4551
+      },
+      {
+        "country": "Solomon Islands",
+        "total_tons": 159,
+        "percentage": "6.0608675803355769E-07",
+        "origin_tons": 159,
+        "destination_tons": null
+      },
+      {
+        "country": "Somalia",
+        "total_tons": 9.8224,
+        "percentage": "3.7441676554143507E-08",
+        "origin_tons": 159,
+        "destination_tons": 9.8224
+      },
+      {
+        "country": "South Africa",
+        "total_tons": 114299.2434,
+        "percentage": "0.00043569344577355047",
+        "origin_tons": 26186.4366,
+        "destination_tons": 88112.8068
+      },
+      {
+        "country": "Spain",
+        "total_tons": 5303860.3268,
+        "percentage": "0.020217606984484389",
+        "origin_tons": 2213687.9481,
+        "destination_tons": 3090172.3787
+      },
+      {
+        "country": "Sri Lanka",
+        "total_tons": 49578.8864,
+        "percentage": "0.0001889880913527676",
+        "origin_tons": 18164.7473,
+        "destination_tons": 31414.1391
+      },
+      {
+        "country": "Sudan",
+        "total_tons": 31591,
+        "percentage": "0.00012042067152854165",
+        "origin_tons": 31591,
+        "destination_tons": null
+      },
+      {
+        "country": "Suriname",
+        "total_tons": "120676.22619999999",
+        "percentage": "0.00046000165225963696",
+        "origin_tons": 18696.8777,
+        "destination_tons": 101979.3485
+      },
+      {
+        "country": "Sweden",
+        "total_tons": 496203.4401,
+        "percentage": "0.0018914612222346394",
+        "origin_tons": 135565.9802,
+        "destination_tons": 360637.4599
+      },
+      {
+        "country": "Syrian Arab Republic",
+        "total_tons": 1226.7212,
+        "percentage": "4.6760973277926765E-06",
+        "origin_tons": 1226.7212,
+        "destination_tons": null
+      },
+      {
+        "country": "Taiwan, Province of China",
+        "total_tons": "3854525.6341000004",
+        "percentage": "0.014692936763074921",
+        "origin_tons": 2909218.4393,
+        "destination_tons": 945307.1948
+      },
+      {
+        "country": "Tanzania, United Republic of",
+        "total_tons": "2790.6349999999998",
+        "percentage": "1.0637527798773442E-05",
+        "origin_tons": 149.3237,
+        "destination_tons": 2641.3113
+      },
+      {
+        "country": "Thailand",
+        "total_tons": 968508.7289,
+        "percentage": "0.0036918258844415275",
+        "origin_tons": 773850.6889,
+        "destination_tons": 194658.04
+      },
+      {
+        "country": "Togo",
+        "total_tons": "28429.219399999998",
+        "percentage": "0.00010836838628660832",
+        "origin_tons": 24495.1278,
+        "destination_tons": 3934.0916
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "total_tons": 3283954.1761,
+        "percentage": "0.012517994591969887",
+        "origin_tons": 2985472.2928,
+        "destination_tons": 298481.8833
+      },
+      {
+        "country": "Tunisia",
+        "total_tons": 33656.0716,
+        "percentage": "0.00012829244857980688",
+        "origin_tons": 30175.3619,
+        "destination_tons": 3480.7097
+      },
+      {
+        "country": "Turkey",
+        "total_tons": 1579059.4237,
+        "percentage": "0.0060191635651111386",
+        "origin_tons": 1038724.002,
+        "destination_tons": 540335.4217
+      },
+      {
+        "country": "Ukraine",
+        "total_tons": 267645.8304,
+        "percentage": "0.0010202301487316693",
+        "origin_tons": 4282.7863,
+        "destination_tons": 263363.0441
+      },
+      {
+        "country": "United Arab Emirates",
+        "total_tons": 132154.2752,
+        "percentage": "0.00050375444161158869",
+        "origin_tons": 38838.5839,
+        "destination_tons": 93315.6913
+      },
+      {
+        "country": "United Kingdom",
+        "total_tons": "2074575.8185999999",
+        "percentage": "0.0079080058628307418",
+        "origin_tons": 727306.5856,
+        "destination_tons": 1347269.233
+      },
+      {
+        "country": "United States",
+        "total_tons": "185324265.87690002",
+        "percentage": "0.69912339810447188",
+        "origin_tons": 116459578.5108,
+        "destination_tons": 66947530.8266
+      },
+      {
+        "country": "Uruguay",
+        "total_tons": 68370.3576,
+        "percentage": "0.00026061866907785546",
+        "origin_tons": 4774.8965,
+        "destination_tons": 63595.4611
+      },
+      {
+        "country": "Vanuatu",
+        "total_tons": 2206.8935,
+        "percentage": "8.41238318704611E-06",
+        "origin_tons": 2177.8935,
+        "destination_tons": 29
+      },
+      {
+        "country": "Venezuela",
+        "total_tons": 2205072.8763,
+        "percentage": "0.0084054432127320718",
+        "origin_tons": 1385477.7196,
+        "destination_tons": 819595.1567
+      },
+      {
+        "country": "Viet Nam",
+        "total_tons": 3903822.4483,
+        "percentage": "0.014880849632885364",
+        "origin_tons": 3589575.9894,
+        "destination_tons": 314246.4589
+      },
+      {
+        "country": "Virgin Islands, U.S.",
+        "total_tons": 920184.8391,
+        "percentage": "0.0035076216724638362",
+        "origin_tons": 607296.1765,
+        "destination_tons": 312888.6626
+      },
+      {
+        "country": "Yemen",
+        "total_tons": "169.01389999999998",
+        "percentage": "6.4425840700382331E-07",
+        "origin_tons": 26.5235,
+        "destination_tons": 142.4904
+      }
+    ],
+    "commodities_by_direction_and_fiscal_year": [
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Molasses",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 688302.6142
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Molasses",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 626508.3562
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil,  Vegetable, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 676488.0404
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil,  Vegetable, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 782907.4077
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil,  Vegetable, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 159226.8128
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil,  Vegetable, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 207935.7072
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil, coconut",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 62135.8068
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil, coconut",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 54643.578
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil, coconut",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 6
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil, fish",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 110167.4022
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oil, fish",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 179358.2212
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oilseeds",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 102012
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oilseeds",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1237607.3858
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Oilseeds",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 4921.2293
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Tallow",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 9829.8224
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Tallow",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 128342
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Tallow",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 27222
+      },
+      {
+        "commodity_group": "Animal / Vegetable Oils and Fats",
+        "commodity_name": "Tallow",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 738
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Canned Foods, misc",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 8845.7765
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Canned Foods, misc",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 9823
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Fish",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 156783.3011
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Fish",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 212113.8636
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Fish",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 6144.4502
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Fish",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 7526
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Fruit, excluding bananas",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 166616.6321
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Fruit, excluding bananas",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 192506.8942
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Fruit, excluding bananas",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 8108
+      },
+      {
+        "commodity_group": "Canned and Refrigerated Foods",
+        "commodity_name": "Vegetables",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 50791.2342
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Ammonium compounds",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 77798.6764
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Ammonium compounds",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 273081.2287
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Ammonium compounds",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1524726.0703
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Ammonium compounds",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1487188.2537
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Benzene",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 628985.0334
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Benzene",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 118556.6424
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Benzene",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1251
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Caustic soda",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3444
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Caustic soda",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 29570.5577
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Caustic soda",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 384108.2261
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Caustic soda",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 437213.6606
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, miscellaneous",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 602188.2184
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, miscellaneous",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1385512.2702
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, miscellaneous",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2020945.7583
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, miscellaneous",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2507297.6784
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, petroleum, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1359361.0723
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, petroleum, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1245093.4759
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, petroleum, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3342816.7208
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Chemicals, petroleum, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 4698103.189
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Methanol",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3392
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Methanol",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 18894.6032
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Methanol",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2223490.5407
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Methanol",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 3638631.8021
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Toluene",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 327468.6031
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Toluene",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 149989.7746
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Xylene",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 10573
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Xylene",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 27726.5484
+      },
+      {
+        "commodity_group": "Chemicals and Petroleum Chemicals",
+        "commodity_name": "Xylene",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 40398.9131
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coal",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 364958.1236
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coal",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2095053.0086
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coal",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2847036.4014
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coal",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 6279573.4585
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coke",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2953
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coke",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 104524.0222
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coke",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 64514
+      },
+      {
+        "commodity_group": "Coal and Coke (excluding petroleum coke)",
+        "commodity_name": "Coke",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 191665
+      },
+      {
+        "commodity_group": "Container Cargo",
+        "commodity_name": "Container Cargo",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 43381381.81
+      },
+      {
+        "commodity_group": "Container Cargo",
+        "commodity_name": "Container Cargo",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 48487685.2528
+      },
+      {
+        "commodity_group": "Container Cargo",
+        "commodity_name": "Container Cargo",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 19432965.4665
+      },
+      {
+        "commodity_group": "Container Cargo",
+        "commodity_name": "Container Cargo",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 19606811.2784
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Barley",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 7874
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Corn",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 243665.559
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Corn",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 186507.2943
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Corn",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 4199791.2833
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Corn",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 7496701.5935
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Grains, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 84762.8446
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Grains, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 214367.4235
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Grains, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3380588.7241
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Grains, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 4906437.3103
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Oats",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 30464
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Rice",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 97338.611
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Rice",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 40311
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Rice",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 359974.1207
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Rice",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 213099.0781
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Sorghum",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 90398.913
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Sorghum",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 510836.1216
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Sorghum",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 977199.5635
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Sorghum",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1868423.0127
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Soybeans",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 20667
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Soybeans",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2222540.9962
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Soybeans",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 5599015.3853
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Wheat",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 800300.3931
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Wheat",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2426672.7302
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Wheat",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 866030.4128
+      },
+      {
+        "commodity_group": "Grains",
+        "commodity_name": "Wheat",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1218972.7594
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Lumber and Products, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 480146.8131
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Lumber and Products, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 415827.3488
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Lumber and Products, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1278373.7398
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Lumber and Products, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1063425.6209
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Plywood, veneers, and composition board",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 14558.5714
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Plywood, veneers, and composition board",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 74685.137
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Pulpwood",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 4275
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Pulpwood",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 5841.0865
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Pulpwood",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 85187.0578
+      },
+      {
+        "commodity_group": "Lumber and Products",
+        "commodity_name": "Pulpwood",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 207669.5329
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Agricultural machinery and implements",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1579.5617
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Agricultural machinery and implements",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 13956.788
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Agricultural machinery and implements",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 33397.2571
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Agricultural machinery and implements",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 41644.0602
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Automobiles and trucks accessories and parts",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 571.8494
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Automobiles and trucks accessories and parts",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 7637.0619
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Automobiles and trucks accessories and parts",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 612
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Automobiles and trucks accessories and parts",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 5816.388
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Autos and trucks",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3312737.7545
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Autos and trucks",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 3501405.1119
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Autos and trucks",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1331366.4518
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Autos and trucks",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1262305.5493
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Construction machinery and equipment",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 54426.2373
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Construction machinery and equipment",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 90379.6249
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Construction machinery and equipment",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 9149.8575
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Construction machinery and equipment",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 6900
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Electrical machinery and apparatus",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 113893.9114
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Electrical machinery and apparatus",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 96879.2496
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Electrical machinery and apparatus",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 96643.5971
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Electrical machinery and apparatus",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 86825.0443
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Machinery, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 187199.9497
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Machinery, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 486030.9956
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Machinery, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 77771.637
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Machinery, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 78508.3458
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Motorcycles, bicycles and parts",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 368.0913
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Motorcycles, bicycles and parts",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1957
+      },
+      {
+        "commodity_group": "Machinery and Equipment",
+        "commodity_name": "Motorcycles, bicycles and parts",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 11
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Angles, shapes and sections",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 43657.0732
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Angles, shapes and sections",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 161704.0996
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Angles, shapes and sections",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 932
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Angles, shapes and sections",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2041
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Manufactures of Iron and Steel, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3263750.4409
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Manufactures of Iron and Steel, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 4368980.4191
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Manufactures of Iron and Steel, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 267672.3126
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Manufactures of Iron and Steel, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 183953.4918
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Plates, sheets and coils",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1634742.684
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Plates, sheets and coils",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2521880.154
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Plates, sheets and coils",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 9586
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Plates, sheets and coils",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 25643.8974
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Tubes, pipes and fittings",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 442450.8652
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Tubes, pipes and fittings",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 684970.5986
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Tubes, pipes and fittings",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 67646.6906
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Tubes, pipes and fittings",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 22604.92
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Wires, bars and rods",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 404812.7818
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Wires, bars and rods",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1870416.3869
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Wires, bars and rods",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2529.4057
+      },
+      {
+        "commodity_group": "Manufactures of Iron and Steel",
+        "commodity_name": "Wires, bars and rods",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 92541.2495
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Asbestos",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 940.0048
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Borax",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 3777.2941
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Borax",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 24604
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Borax",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 24606
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Salt",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2590266.738
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Salt",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 6537136.4474
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Salt",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 47778
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Soda and sodium compounds",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 10473.8438
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Soda and sodium compounds",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2642.9988
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Sulfur",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 77101
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Sulfur",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 325507.5209
+      },
+      {
+        "commodity_group": "Minerals, miscellaneous",
+        "commodity_name": "Sulfur",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 49136.5586
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Ammunition and Explosives",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 8.5898
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Ammunition and Explosives",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1991.0066
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Ammunition and Explosives",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2955.7453
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Bricks and tile",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 23226.6562
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Bricks and tile",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 12888.3877
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Bricks and tile",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 45101
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Bricks and tile",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 44765
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Cement",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 195259.6763
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Cement",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 151200.8457
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Clay, fire and china",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1422.0259
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Clay, fire and china",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 22833.77
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Clay, fire and china",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 46960.8269
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Flour, wheat",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 98607
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Flour, wheat",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 127816.0077
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Flour, wheat",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 89996.4191
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Flour, wheat",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 120135.9427
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Glass and glassware",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 989
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Glass and glassware",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 31.9867
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Glass and glassware",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 47919.5185
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Groceries, miscellaneous",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1723304.3294
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Groceries, miscellaneous",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1831539.909
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Groceries, miscellaneous",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 190482.4426
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Groceries, miscellaneous",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 216759.4655
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Liquors",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 11812.1223
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Miscellaneous Cargo",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 685807.9509
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Miscellaneous Cargo",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1013510.2527
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Miscellaneous Cargo",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 737893.8626
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Miscellaneous Cargo",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1020844.1899
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Paper and paper products",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3596.5306
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Paper and paper products",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 15334.0181
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Paper and paper products",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 44297.7638
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Paper and paper products",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 38601.656
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Radioactive",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1503.0999
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Resin",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 4876.6896
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Resin",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 517
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Rubber, manufactured",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 6332.1452
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Rubber, manufactured",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2356.5197
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Rubber, manufactured",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 54.954
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Rubber, manufactured",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 8456.6583
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Seeds, excluding oilseeds",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 6486
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Slag, clinkers and dross",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2474680.0433
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Slag, clinkers and dross",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 4099456.4552
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Slag, clinkers and dross",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 208865.0304
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Textiles",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1024.3344
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Textiles",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 30654.0292
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Textiles",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 5092.6407
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Textiles",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 264.9484
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Us Military Cargo",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1376.0546
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Wax, paraffin",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 5257
+      },
+      {
+        "commodity_group": "Miscellaneous",
+        "commodity_name": "Wax, paraffin",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 4970.3159
+      },
+      {
+        "commodity_group": "Miscellaneous Hazardous Cargo",
+        "commodity_name": "Miscellaneous Hazardous Cargo",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 668593.7163
+      },
+      {
+        "commodity_group": "Miscellaneous Hazardous Cargo",
+        "commodity_name": "Miscellaneous Hazardous Cargo",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 612204.5409
+      },
+      {
+        "commodity_group": "Miscellaneous Hazardous Cargo",
+        "commodity_name": "Miscellaneous Hazardous Cargo",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2441634.1451
+      },
+      {
+        "commodity_group": "Miscellaneous Hazardous Cargo",
+        "commodity_name": "Miscellaneous Hazardous Cargo",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2042916.1235
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Fertilizers, miscellaneous",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1394579.7007
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Fertilizers, miscellaneous",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2733155.4721
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Fertilizers, miscellaneous",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2654057.4129
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Fertilizers, miscellaneous",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 3662510.9377
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Fishmeal",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 17849.274
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Nitrate of soda",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2781
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Nitrate of soda",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 8751.1656
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Phosphates",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1569065.0034
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Phosphates",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2189570.6281
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Phosphates",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 450666.4915
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Phosphates",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 886579.9826
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Potash",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 30435
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Potash",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 9996.9339
+      },
+      {
+        "commodity_group": "Nitrates, Phosphates and Potash",
+        "commodity_name": "Potash",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 16699.2863
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Alumina/Bauxite",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 81398.4923
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Alumina/Bauxite",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 165758.42
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Alumina/Bauxite",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 104476
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Alumina/Bauxite",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 261284.8523
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Aluminum",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 173633.6849
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Aluminum",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 371103.1359
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Aluminum",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 52565.3602
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Copper",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1141043.3739
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Copper",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2441659.0961
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Copper",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 223948.5005
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Copper",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 140645.4897
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Iron",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1789683.6309
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Iron",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1741095.2491
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Iron",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 422452.4104
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Iron",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 703729.0742
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Lead",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 19733.4949
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Lead",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 153453.4808
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Lead",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 20506.9461
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Lead",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 27618.571
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Manganese",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 21461.2034
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Manganese",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 31458.038
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Manganese",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 155071
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Manganese",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 26575
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Metals, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 1388.5343
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Metals, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 30767.0335
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Ores, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 119097.0291
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Ores, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 290773.9865
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Ores, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 400477.8832
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Ores, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1055570.7433
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Scrap",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 154877.7971
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Scrap",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 103126.4225
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Scrap",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 148079.2352
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Tin, including tinplate",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 5519.7204
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Tin, including tinplate",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 0.0197
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Zinc",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 883551.1874
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Zinc",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 1674728.6422
+      },
+      {
+        "commodity_group": "Ores and Metals",
+        "commodity_name": "Zinc",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3471.2766
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Beans, edible",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 172618.7458
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Copra and coconuts",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 8857
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Peas, dry",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 24605
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Rubber, raw",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 6960
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Skins and hides",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 24974
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Skins and hides",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 129822.3593
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Sugar",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 365185.9191
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Sugar",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 937500.1319
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Sugar",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 32478.9838
+      },
+      {
+        "commodity_group": "Other Agricultural Commodities",
+        "commodity_name": "Sugar",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 25485.043
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Asphalt",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 16911.2807
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Asphalt",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 9056.8651
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Crude oil",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 347669.4967
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Crude oil",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 773204.4186
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Crude oil",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2204953.1008
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Crude oil",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 3952403.5845
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Diesel oil",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 293663.1155
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Diesel oil",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 610874.0281
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Diesel oil",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 13833403.4001
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Diesel oil",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 15524677.3473
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Fuel oil, residual",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 26297.9607
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Fuel oil, residual",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 6849.3505
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Gasoline",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 361037.8638
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Gasoline",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 457360.1838
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Gasoline",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 9321855.9511
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Gasoline",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 10428857.502
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Jet fuel",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 379312.3705
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Jet fuel",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 575577.8293
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Jet fuel",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 640346.8336
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Jet fuel",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 901702.223
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Kerosene",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 21695.2379
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Kerosene",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 448950.3432
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Kerosene",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 674914.512
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Liquefied gas",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 151902.0991
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Liquefied gas",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 113292.4896
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Liquefied gas",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 37188442.5671
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Liquefied gas",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 35913440.3925
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum and Products, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2699447.3578
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum and Products, misc.",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2915988.4839
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum and Products, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2443851.1178
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum and Products, misc.",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 3756211.5859
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum coke",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 158072.5058
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum coke",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 248955.8643
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum coke",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2526585.8107
+      },
+      {
+        "commodity_group": "Petroleum and Petroleum Products",
+        "commodity_name": "Petroleum coke",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 4401465.9589
+      },
+      {
+        "commodity_group": "Unclassified",
+        "commodity_name": "None",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2024",
+        "dest_tons": 2285818.4017
+      },
+      {
+        "commodity_group": "Unclassified",
+        "commodity_name": "None",
+        "transit_direction": "Northbound",
+        "fiscal_year": "2025",
+        "dest_tons": 686843.3918
+      },
+      {
+        "commodity_group": "Unclassified",
+        "commodity_name": "None",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2024",
+        "dest_tons": 3165463.9818
+      },
+      {
+        "commodity_group": "Unclassified",
+        "commodity_name": "None",
+        "transit_direction": "Southbound",
+        "fiscal_year": "2025",
+        "dest_tons": 2850467.5612
+      }
+    ]
+  }
+}

@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>Navigator|Login</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="ssy-icon-512.hao0q6zvwr.png" />
+    <link rel="apple-touch-icon" sizes="512x512" href="ssy-icon-512.hao0q6zvwr.png" />
+    <base href="/">
+    <link href="Navigator.8fs7qeppys.styles.css" rel="stylesheet" />
+    
+    
+
+    <link href="ext/bootstrap/5.3.7/css/bootstrap.min.sc4v1k7spa.css" rel="stylesheet" />
+    <link href="ext/bootstrap-icons/1.13.1/bootstrap-icons.min.79l73tsp3y.css" rel="stylesheet" />
+    <link href="_content/Blazor.Bootstrap/blazor.bootstrap.63oqyoiiv4.css" rel="stylesheet" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Cousine:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Franklin:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Cousine:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Franklin:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet"></noscript>
+    
+    <link href="css/font-face.q5vdx40ktz.css" rel="stylesheet" />
+    <link href="css/site.ghjytpo7d8.css" rel="stylesheet" />
+    <link href="css/ssyglobal.yhvk600heh.css" rel="stylesheet" />
+    <link href="css/ssymedia.bfpvdrjwlc.css" rel="stylesheet" />
+    <link href="css/ssyreports.cdqs7ow9jm.css" rel="stylesheet" />
+    <link href="css/ssydbf.d4fm8v9rnr.css" rel="stylesheet" />
+    <link href="css/ssynavigator.f5dwsir1b0.css" rel="stylesheet" />
+
+    <link href="css/ssyoddsods.oadagaso1w.css" rel="stylesheet" />
+
+    <link href="ext/Highcharts-12.5.0/css/stocktools/gui.dxqxk7lp4r.css" rel="stylesheet" />
+    <link href="ext/Highcharts-12.5.0/css/annotations/popup.5mpd05u73v.css" rel="stylesheet" />
+    <link crossorigin="use-credentials" rel="manifest" href="manifest.json"> 
+
+
+    <script src="js/ssyLibReady.h6fi296v6y.js"></script>
+
+    <script>
+        //Prevent the page from logging the user out or going stale
+        async function reloadToRefreshUser() {
+            location.reload();
+        }
+        setInterval(reloadToRefreshUser, 86220000); //3 mins short of a day.  was 3 mins short of an hour 3420000
+    </script>
+
+    <script type="importmap">{
+  "imports": {
+    "./Components/Common/ChartBuilder/HighchartBase.razor.js": "./Components/Common/ChartBuilder/HighchartBase.m62by792jb.razor.js",
+    "./Components/Common/DashboardComponents_HA/SsyChartExpandModal.razor.js": "./Components/Common/DashboardComponents_HA/SsyChartExpandModal.fya6jdp5gl.razor.js",
+    "./Components/Common/DropZone.razor.js": "./Components/Common/DropZone.fwqho7yocc.razor.js",
+    "./Components/Common/SsyCopyButton.razor.js": "./Components/Common/SsyCopyButton.08dphmeduu.razor.js",
+    "./Components/Common/SsyRichText_Adv.razor.js": "./Components/Common/SsyRichText_Adv.zma7g7h067.razor.js",
+    "./Components/Layout/ReconnectModal.razor.js": "./Components/Layout/ReconnectModal.ugbu8cli4r.razor.js",
+    "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_400_Volumes.razor.js": "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_400_Volumes.9dfahht2jz.razor.js",
+    "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_905_Ffa_Guide.razor.js": "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_905_Ffa_Guide.j2shhdpu1l.razor.js",
+    "./Components/Pages/Bulkers/Reports/DBF/RptDryBulkForecaster_010_Main.razor.js": "./Components/Pages/Bulkers/Reports/DBF/RptDryBulkForecaster_010_Main.qv0c09rixp.razor.js",
+    "./Components/Pages/Bulkers/Reports/GeneralReport/GeneralReport_20_Emails.razor.js": "./Components/Pages/Bulkers/Reports/GeneralReport/GeneralReport_20_Emails.3znqo2v80w.razor.js",
+    "./Components/Pages/Futures/IntradayDashboard/IntradayDashboard.razor.js": "./Components/Pages/Futures/IntradayDashboard/IntradayDashboard.opao28333i.razor.js",
+    "./Components/Pages/Futures/Splash/Splash_230_Movement.razor.js": "./Components/Pages/Futures/Splash/Splash_230_Movement.lhjn1txchk.razor.js",
+    "./Components/Pages/General/Bunkers/BunkerPrices.razor.js": "./Components/Pages/General/Bunkers/BunkerPrices.bxlp9425ng.razor.js",
+    "./Components/Pages/General/Compass/Mapper.razor.js": "./Components/Pages/General/Compass/Mapper.zed6v2p3tm.razor.js",
+    "./Components/Pages/General/CustomCharts.razor.js": "./Components/Pages/General/CustomCharts.5gz4xbnk4a.razor.js",
+    "./Components/Pages/General/CustomCharts/CustomCharts_010_Main.razor.js": "./Components/Pages/General/CustomCharts/CustomCharts_010_Main.9xwkr89zsy.razor.js",
+    "./Components/Pages/General/OmniPortal/Components/ViewFileIFrame.razor.js": "./Components/Pages/General/OmniPortal/Components/ViewFileIFrame.yvvzvwanrm.razor.js",
+    "./Components/Pages/Towage/Representation.razor.js": "./Components/Pages/Towage/Representation.786zzmxbu0.razor.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.5c2gp224fj.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.n1mvvrfiip.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.ezlxc6gzv3.js",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.js": "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.pisakkcwob.js",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.js": "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.j8zp7bt7w3.js",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.js": "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.79hai7knhw.js",
+    "./_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js": "./_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.eu7w3d5g1a.razor.js",
+    "./_content/SkiaSharp.Views.Blazor/DpiWatcher.js": "./_content/SkiaSharp.Views.Blazor/DpiWatcher.2nqajpuh85.js",
+    "./_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js": "./_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.65exe3ywd4.js",
+    "./_content/SkiaSharp.Views.Blazor/SizeWatcher.js": "./_content/SkiaSharp.Views.Blazor/SizeWatcher.wijpc5yi0d.js",
+    "./_framework/blazor.server.js": "./_framework/blazor.server.wfr2hj6447.js",
+    "./_framework/blazor.web.js": "./_framework/blazor.web.wyu7y4jcvb.js",
+    "./ext/HTML2Canvas/html2canvas.js": "./ext/HTML2Canvas/html2canvas.vcxv5nfao7.js",
+    "./ext/Highcharts-12.5.0/highcharts-3d.js": "./ext/Highcharts-12.5.0/highcharts-3d.tyb9y8y58n.js",
+    "./ext/Highcharts-12.5.0/highcharts-more.js": "./ext/Highcharts-12.5.0/highcharts-more.v8vha3skwo.js",
+    "./ext/Highcharts-12.5.0/highcharts.js": "./ext/Highcharts-12.5.0/highcharts.d5etuz02ij.js",
+    "./ext/Highcharts-12.5.0/indicators/indicators-all.js": "./ext/Highcharts-12.5.0/indicators/indicators-all.vkasas2k77.js",
+    "./ext/Highcharts-12.5.0/modules/accessibility.js": "./ext/Highcharts-12.5.0/modules/accessibility.ftj3jg8u9q.js",
+    "./ext/Highcharts-12.5.0/modules/annotations-advanced.js": "./ext/Highcharts-12.5.0/modules/annotations-advanced.xixnkoxd84.js",
+    "./ext/Highcharts-12.5.0/modules/annotations.js": "./ext/Highcharts-12.5.0/modules/annotations.yuy6h94n5c.js",
+    "./ext/Highcharts-12.5.0/modules/arc-diagram.js": "./ext/Highcharts-12.5.0/modules/arc-diagram.l67tsugty9.js",
+    "./ext/Highcharts-12.5.0/modules/arrow-symbols.js": "./ext/Highcharts-12.5.0/modules/arrow-symbols.icsaflp3bc.js",
+    "./ext/Highcharts-12.5.0/modules/boost-canvas.js": "./ext/Highcharts-12.5.0/modules/boost-canvas.ivk8eeec6z.js",
+    "./ext/Highcharts-12.5.0/modules/boost.js": "./ext/Highcharts-12.5.0/modules/boost.ycwxu0ods5.js",
+    "./ext/Highcharts-12.5.0/modules/broken-axis.js": "./ext/Highcharts-12.5.0/modules/broken-axis.aookutiaxt.js",
+    "./ext/Highcharts-12.5.0/modules/bullet.js": "./ext/Highcharts-12.5.0/modules/bullet.g31yut7hti.js",
+    "./ext/Highcharts-12.5.0/modules/coloraxis.js": "./ext/Highcharts-12.5.0/modules/coloraxis.uc9knu0p6l.js",
+    "./ext/Highcharts-12.5.0/modules/current-date-indicator.js": "./ext/Highcharts-12.5.0/modules/current-date-indicator.404eq1lp0c.js",
+    "./ext/Highcharts-12.5.0/modules/cylinder.js": "./ext/Highcharts-12.5.0/modules/cylinder.hw9ght7vix.js",
+    "./ext/Highcharts-12.5.0/modules/data-tools.js": "./ext/Highcharts-12.5.0/modules/data-tools.ez6361ak18.js",
+    "./ext/Highcharts-12.5.0/modules/data.js": "./ext/Highcharts-12.5.0/modules/data.fs5fv03toz.js",
+    "./ext/Highcharts-12.5.0/modules/datagrouping.js": "./ext/Highcharts-12.5.0/modules/datagrouping.atqp93nyqd.js",
+    "./ext/Highcharts-12.5.0/modules/debugger.js": "./ext/Highcharts-12.5.0/modules/debugger.rhe58maxwj.js",
+    "./ext/Highcharts-12.5.0/modules/dependency-wheel.js": "./ext/Highcharts-12.5.0/modules/dependency-wheel.qo3hx384q9.js",
+    "./ext/Highcharts-12.5.0/modules/dotplot.js": "./ext/Highcharts-12.5.0/modules/dotplot.d8p08hdkly.js",
+    "./ext/Highcharts-12.5.0/modules/drag-panes.js": "./ext/Highcharts-12.5.0/modules/drag-panes.o2rtbfmy15.js",
+    "./ext/Highcharts-12.5.0/modules/draggable-points.js": "./ext/Highcharts-12.5.0/modules/draggable-points.yney67snnz.js",
+    "./ext/Highcharts-12.5.0/modules/drilldown.js": "./ext/Highcharts-12.5.0/modules/drilldown.89knl9cvtc.js",
+    "./ext/Highcharts-12.5.0/modules/dumbbell.js": "./ext/Highcharts-12.5.0/modules/dumbbell.fewf719ie8.js",
+    "./ext/Highcharts-12.5.0/modules/export-data.js": "./ext/Highcharts-12.5.0/modules/export-data.tbvs6132vd.js",
+    "./ext/Highcharts-12.5.0/modules/exporting.js": "./ext/Highcharts-12.5.0/modules/exporting.rqld3zoc9e.js",
+    "./ext/Highcharts-12.5.0/modules/flowmap.js": "./ext/Highcharts-12.5.0/modules/flowmap.mgqjdvhocl.js",
+    "./ext/Highcharts-12.5.0/modules/full-screen.js": "./ext/Highcharts-12.5.0/modules/full-screen.byw037wwf2.js",
+    "./ext/Highcharts-12.5.0/modules/funnel.js": "./ext/Highcharts-12.5.0/modules/funnel.b06n6kjl3l.js",
+    "./ext/Highcharts-12.5.0/modules/funnel3d.js": "./ext/Highcharts-12.5.0/modules/funnel3d.whrsi7o01j.js",
+    "./ext/Highcharts-12.5.0/modules/gantt.js": "./ext/Highcharts-12.5.0/modules/gantt.sxu0rjya3m.js",
+    "./ext/Highcharts-12.5.0/modules/geoheatmap.js": "./ext/Highcharts-12.5.0/modules/geoheatmap.yk7yetgvqa.js",
+    "./ext/Highcharts-12.5.0/modules/grid-axis.js": "./ext/Highcharts-12.5.0/modules/grid-axis.0zziyx64ux.js",
+    "./ext/Highcharts-12.5.0/modules/heatmap.js": "./ext/Highcharts-12.5.0/modules/heatmap.h65m6dtv7l.js",
+    "./ext/Highcharts-12.5.0/modules/heikinashi.js": "./ext/Highcharts-12.5.0/modules/heikinashi.l3vthjl71j.js",
+    "./ext/Highcharts-12.5.0/modules/histogram-bellcurve.js": "./ext/Highcharts-12.5.0/modules/histogram-bellcurve.z2eze2y233.js",
+    "./ext/Highcharts-12.5.0/modules/hollowcandlestick.js": "./ext/Highcharts-12.5.0/modules/hollowcandlestick.ff1ydjpqqg.js",
+    "./ext/Highcharts-12.5.0/modules/item-series.js": "./ext/Highcharts-12.5.0/modules/item-series.sgjednhj3h.js",
+    "./ext/Highcharts-12.5.0/modules/lollipop.js": "./ext/Highcharts-12.5.0/modules/lollipop.9o123igyn4.js",
+    "./ext/Highcharts-12.5.0/modules/map.js": "./ext/Highcharts-12.5.0/modules/map.4livltmftz.js",
+    "./ext/Highcharts-12.5.0/modules/marker-clusters.js": "./ext/Highcharts-12.5.0/modules/marker-clusters.355cty420h.js",
+    "./ext/Highcharts-12.5.0/modules/mouse-wheel-zoom.js": "./ext/Highcharts-12.5.0/modules/mouse-wheel-zoom.c61a34jbxu.js",
+    "./ext/Highcharts-12.5.0/modules/navigator.js": "./ext/Highcharts-12.5.0/modules/navigator.3dmayweuel.js",
+    "./ext/Highcharts-12.5.0/modules/networkgraph.js": "./ext/Highcharts-12.5.0/modules/networkgraph.2oaanjjws9.js",
+    "./ext/Highcharts-12.5.0/modules/no-data-to-display.js": "./ext/Highcharts-12.5.0/modules/no-data-to-display.r0v15qjolk.js",
+    "./ext/Highcharts-12.5.0/modules/non-cartesian-zoom.js": "./ext/Highcharts-12.5.0/modules/non-cartesian-zoom.stprom2qvd.js",
+    "./ext/Highcharts-12.5.0/modules/offline-exporting.js": "./ext/Highcharts-12.5.0/modules/offline-exporting.k5ndnj0p13.js",
+    "./ext/Highcharts-12.5.0/modules/organization.js": "./ext/Highcharts-12.5.0/modules/organization.6itxro3uem.js",
+    "./ext/Highcharts-12.5.0/modules/parallel-coordinates.js": "./ext/Highcharts-12.5.0/modules/parallel-coordinates.j3a63ee1rg.js",
+    "./ext/Highcharts-12.5.0/modules/pareto.js": "./ext/Highcharts-12.5.0/modules/pareto.z7ghczvx6o.js",
+    "./ext/Highcharts-12.5.0/modules/pathfinder.js": "./ext/Highcharts-12.5.0/modules/pathfinder.azhmgynddk.js",
+    "./ext/Highcharts-12.5.0/modules/pattern-fill.js": "./ext/Highcharts-12.5.0/modules/pattern-fill.l96xlqqnmz.js",
+    "./ext/Highcharts-12.5.0/modules/pictorial.js": "./ext/Highcharts-12.5.0/modules/pictorial.1w31vc3fqd.js",
+    "./ext/Highcharts-12.5.0/modules/pointandfigure.js": "./ext/Highcharts-12.5.0/modules/pointandfigure.itm0gmokdf.js",
+    "./ext/Highcharts-12.5.0/modules/price-indicator.js": "./ext/Highcharts-12.5.0/modules/price-indicator.8m5ovl3ye1.js",
+    "./ext/Highcharts-12.5.0/modules/pyramid3d.js": "./ext/Highcharts-12.5.0/modules/pyramid3d.d37diq6u34.js",
+    "./ext/Highcharts-12.5.0/modules/renko.js": "./ext/Highcharts-12.5.0/modules/renko.0nlq29kl5f.js",
+    "./ext/Highcharts-12.5.0/modules/sankey.js": "./ext/Highcharts-12.5.0/modules/sankey.q3wybvotge.js",
+    "./ext/Highcharts-12.5.0/modules/series-label.js": "./ext/Highcharts-12.5.0/modules/series-label.h3zyvvttkd.js",
+    "./ext/Highcharts-12.5.0/modules/series-on-point.js": "./ext/Highcharts-12.5.0/modules/series-on-point.tp4cs837f6.js",
+    "./ext/Highcharts-12.5.0/modules/solid-gauge.js": "./ext/Highcharts-12.5.0/modules/solid-gauge.0kmgijvis2.js",
+    "./ext/Highcharts-12.5.0/modules/sonification.js": "./ext/Highcharts-12.5.0/modules/sonification.okv0rqc1pa.js",
+    "./ext/Highcharts-12.5.0/modules/static-scale.js": "./ext/Highcharts-12.5.0/modules/static-scale.netihncvba.js",
+    "./ext/Highcharts-12.5.0/modules/stock-tools.js": "./ext/Highcharts-12.5.0/modules/stock-tools.ukm8jswa05.js",
+    "./ext/Highcharts-12.5.0/modules/stock.js": "./ext/Highcharts-12.5.0/modules/stock.632x02z4up.js",
+    "./ext/Highcharts-12.5.0/modules/streamgraph.js": "./ext/Highcharts-12.5.0/modules/streamgraph.zeked33c4x.js",
+    "./ext/Highcharts-12.5.0/modules/sunburst.js": "./ext/Highcharts-12.5.0/modules/sunburst.5qtkqsyod4.js",
+    "./ext/Highcharts-12.5.0/modules/textpath.js": "./ext/Highcharts-12.5.0/modules/textpath.7ghpirbz7m.js",
+    "./ext/Highcharts-12.5.0/modules/tiledwebmap.js": "./ext/Highcharts-12.5.0/modules/tiledwebmap.k52cw6gqx2.js",
+    "./ext/Highcharts-12.5.0/modules/tilemap.js": "./ext/Highcharts-12.5.0/modules/tilemap.20otvxoxah.js",
+    "./ext/Highcharts-12.5.0/modules/timeline.js": "./ext/Highcharts-12.5.0/modules/timeline.7f91wfe2a4.js",
+    "./ext/Highcharts-12.5.0/modules/treegraph.js": "./ext/Highcharts-12.5.0/modules/treegraph.uppj0pdei9.js",
+    "./ext/Highcharts-12.5.0/modules/treegrid.js": "./ext/Highcharts-12.5.0/modules/treegrid.ke0ucw7ea3.js",
+    "./ext/Highcharts-12.5.0/modules/treemap.js": "./ext/Highcharts-12.5.0/modules/treemap.w44ov9kvvz.js",
+    "./ext/Highcharts-12.5.0/modules/variable-pie.js": "./ext/Highcharts-12.5.0/modules/variable-pie.gthu6hq4he.js",
+    "./ext/Highcharts-12.5.0/modules/variwide.js": "./ext/Highcharts-12.5.0/modules/variwide.00d8gwq826.js",
+    "./ext/Highcharts-12.5.0/modules/vector.js": "./ext/Highcharts-12.5.0/modules/vector.01c3i2gna1.js",
+    "./ext/Highcharts-12.5.0/modules/venn.js": "./ext/Highcharts-12.5.0/modules/venn.stuu3734oz.js",
+    "./ext/Highcharts-12.5.0/modules/windbarb.js": "./ext/Highcharts-12.5.0/modules/windbarb.es3aygo62k.js",
+    "./ext/Highcharts-12.5.0/modules/wordcloud.js": "./ext/Highcharts-12.5.0/modules/wordcloud.omozssji78.js",
+    "./ext/Highcharts-12.5.0/modules/xrange.js": "./ext/Highcharts-12.5.0/modules/xrange.ezl7vlqotb.js",
+    "./ext/Highcharts-12.5.0/standalone-navigator.js": "./ext/Highcharts-12.5.0/standalone-navigator.eito1n0tgy.js",
+    "./ext/Highcharts-12.5.0/themes/adaptive.js": "./ext/Highcharts-12.5.0/themes/adaptive.ay4je3b5cx.js",
+    "./ext/Highcharts-12.5.0/themes/avocado.js": "./ext/Highcharts-12.5.0/themes/avocado.d5r9g0me9c.js",
+    "./ext/Highcharts-12.5.0/themes/brand-dark.js": "./ext/Highcharts-12.5.0/themes/brand-dark.qv49x6l7r6.js",
+    "./ext/Highcharts-12.5.0/themes/brand-light.js": "./ext/Highcharts-12.5.0/themes/brand-light.jufv7b9bn9.js",
+    "./ext/Highcharts-12.5.0/themes/dark-blue.js": "./ext/Highcharts-12.5.0/themes/dark-blue.3gy1aef1f6.js",
+    "./ext/Highcharts-12.5.0/themes/dark-green.js": "./ext/Highcharts-12.5.0/themes/dark-green.gyxagoi0qi.js",
+    "./ext/Highcharts-12.5.0/themes/dark-unica.js": "./ext/Highcharts-12.5.0/themes/dark-unica.051d1tjy4j.js",
+    "./ext/Highcharts-12.5.0/themes/gray.js": "./ext/Highcharts-12.5.0/themes/gray.5xtgygioe8.js",
+    "./ext/Highcharts-12.5.0/themes/grid-light.js": "./ext/Highcharts-12.5.0/themes/grid-light.207hz6p3wa.js",
+    "./ext/Highcharts-12.5.0/themes/grid.js": "./ext/Highcharts-12.5.0/themes/grid.7lzsp4w6z7.js",
+    "./ext/Highcharts-12.5.0/themes/high-contrast-dark.js": "./ext/Highcharts-12.5.0/themes/high-contrast-dark.fziet30ax9.js",
+    "./ext/Highcharts-12.5.0/themes/high-contrast-light.js": "./ext/Highcharts-12.5.0/themes/high-contrast-light.e8l9l13kok.js",
+    "./ext/Highcharts-12.5.0/themes/sand-signika.js": "./ext/Highcharts-12.5.0/themes/sand-signika.5fu53vloec.js",
+    "./ext/Highcharts-12.5.0/themes/skies.js": "./ext/Highcharts-12.5.0/themes/skies.yej41ragz6.js",
+    "./ext/Highcharts-12.5.0/themes/sunset.js": "./ext/Highcharts-12.5.0/themes/sunset.oy9qs4xh0n.js",
+    "./ext/Leaflet/1.9.4/leaflet.js": "./ext/Leaflet/1.9.4/leaflet.05nq1rlf98.js",
+    "./ext/OpenLayers/10.9.0/ol.js": "./ext/OpenLayers/10.9.0/ol.u5rp90bhd4.js",
+    "./ext/Quill/2.0.3/quill.js": "./ext/Quill/2.0.3/quill.5yi6feap8f.js",
+    "./ext/bootstrap/5.3.7/js/bootstrap.bundle.min.js": "./ext/bootstrap/5.3.7/js/bootstrap.bundle.min.i7egg6e3oe.js",
+    "./ext/jquery-ui/1.13.2/jquery-ui.min.js": "./ext/jquery-ui/1.13.2/jquery-ui.min.twcxw3lu28.js",
+    "./ext/jquery/3.7.1/jquery.min.js": "./ext/jquery/3.7.1/jquery.min.m9qm4tazc0.js",
+    "./ext/pdf-js/v2/build/pdf.mjs": "./ext/pdf-js/v2/build/pdf.4tgtvtyqay.mjs",
+    "./ext/pdf-js/v2/build/pdf.sandbox.mjs": "./ext/pdf-js/v2/build/pdf.sandbox.1w2lz77oxc.mjs",
+    "./ext/pdf-js/v2/build/pdf.worker.mjs": "./ext/pdf-js/v2/build/pdf.worker.jq0z8kje8n.mjs",
+    "./ext/pdf-js/v2/web/ssy_customizations.mjs": "./ext/pdf-js/v2/web/ssy_customizations.hu9kjm4jwj.mjs",
+    "./ext/pdf-js/v2/web/ssy_customizations_utils.js": "./ext/pdf-js/v2/web/ssy_customizations_utils.dvtol9pdvv.js",
+    "./ext/pdf-js/v2/web/viewer.mjs": "./ext/pdf-js/v2/web/viewer.lzuz3fna7a.mjs",
+    "./ext/pdf-js/v2/web/wasm/openjpeg_nowasm_fallback.js": "./ext/pdf-js/v2/web/wasm/openjpeg_nowasm_fallback.ar19ja4r4k.js",
+    "./ext/sortablejs/1.15.6/Sortable.min.js": "./ext/sortablejs/1.15.6/Sortable.min.n39if9i3yn.js",
+    "./js/BlazorNegotiateIntercept.js": "./js/BlazorNegotiateIntercept.bjf0huxip2.js",
+    "./js/arrow-table.js": "./js/arrow-table.7abv7lwjw3.js",
+    "./js/pushNotifications.js": "./js/pushNotifications.3o6totqbfm.js",
+    "./js/reportBuilder.js": "./js/reportBuilder.uiwdauecdi.js",
+    "./js/ssyGeneral.js": "./js/ssyGeneral.avbliolwq5.js",
+    "./js/ssyLibReady.js": "./js/ssyLibReady.h6fi296v6y.js",
+    "./service-worker.js": "./service-worker.hbjasc31jv.js",
+    "./service-worker.published.js": "./service-worker.published.x95lh41shs.js"
+  },
+  "integrity": {
+    "./Components/Common/ChartBuilder/HighchartBase.m62by792jb.razor.js": "sha256-zs1sOdc6aqdzvq9HgW13jvv81LulViffq0+OAnHbbT4=",
+    "./Components/Common/ChartBuilder/HighchartBase.razor.js": "sha256-zs1sOdc6aqdzvq9HgW13jvv81LulViffq0+OAnHbbT4=",
+    "./Components/Common/DashboardComponents_HA/SsyChartExpandModal.fya6jdp5gl.razor.js": "sha256-95M5iKQQ2HYY7nyno9aM7ngk/tw/o8lZZn0laN3lA0c=",
+    "./Components/Common/DashboardComponents_HA/SsyChartExpandModal.razor.js": "sha256-95M5iKQQ2HYY7nyno9aM7ngk/tw/o8lZZn0laN3lA0c=",
+    "./Components/Common/DropZone.fwqho7yocc.razor.js": "sha256-kalfA7rR+kqUam0RcQAdiE6U7ieJGMi8WjDyjAv/AMI=",
+    "./Components/Common/DropZone.razor.js": "sha256-kalfA7rR+kqUam0RcQAdiE6U7ieJGMi8WjDyjAv/AMI=",
+    "./Components/Common/SsyCopyButton.08dphmeduu.razor.js": "sha256-0Afe54HOOEzhUefFBoMHlmvhzENC3oaL+nBAKwMT5UY=",
+    "./Components/Common/SsyCopyButton.razor.js": "sha256-0Afe54HOOEzhUefFBoMHlmvhzENC3oaL+nBAKwMT5UY=",
+    "./Components/Common/SsyRichText_Adv.razor.js": "sha256-m83LAjHgT2AkS7xJSYnhbpSDBfAkXqOffUxWlJPCoQE=",
+    "./Components/Common/SsyRichText_Adv.zma7g7h067.razor.js": "sha256-m83LAjHgT2AkS7xJSYnhbpSDBfAkXqOffUxWlJPCoQE=",
+    "./Components/Layout/ReconnectModal.razor.js": "sha256-jh1/VB+FXd5vR9Zs2Ry4WBH6ieyFNUfhPCpg4gk/H+0=",
+    "./Components/Layout/ReconnectModal.ugbu8cli4r.razor.js": "sha256-jh1/VB+FXd5vR9Zs2Ry4WBH6ieyFNUfhPCpg4gk/H+0=",
+    "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_400_Volumes.9dfahht2jz.razor.js": "sha256-TVEgElIGsy9XDeSsfVkwEaY1UsJKZ9tI/33xBEL3SQw=",
+    "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_400_Volumes.razor.js": "sha256-TVEgElIGsy9XDeSsfVkwEaY1UsJKZ9tI/33xBEL3SQw=",
+    "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_905_Ffa_Guide.j2shhdpu1l.razor.js": "sha256-pUJM+bc0AIrE3sRVeSpeghM40TxbDQ8MmF3R+HMMkuI=",
+    "./Components/Pages/Bulkers/DryBulkDashboard/DryBulkDashboard_905_Ffa_Guide.razor.js": "sha256-pUJM+bc0AIrE3sRVeSpeghM40TxbDQ8MmF3R+HMMkuI=",
+    "./Components/Pages/Bulkers/Reports/DBF/RptDryBulkForecaster_010_Main.qv0c09rixp.razor.js": "sha256-inwLAR3fYnvOQID/483ThB69JpI8/imBOEC0SFlY8Vo=",
+    "./Components/Pages/Bulkers/Reports/DBF/RptDryBulkForecaster_010_Main.razor.js": "sha256-inwLAR3fYnvOQID/483ThB69JpI8/imBOEC0SFlY8Vo=",
+    "./Components/Pages/Bulkers/Reports/GeneralReport/GeneralReport_20_Emails.3znqo2v80w.razor.js": "sha256-30tEC678NYFBxczaQ34mDmO2QlyzQh+h3Qs4ZHmQmVs=",
+    "./Components/Pages/Bulkers/Reports/GeneralReport/GeneralReport_20_Emails.razor.js": "sha256-30tEC678NYFBxczaQ34mDmO2QlyzQh+h3Qs4ZHmQmVs=",
+    "./Components/Pages/Futures/IntradayDashboard/IntradayDashboard.opao28333i.razor.js": "sha256-xGFTF2VZ0nfurEv/eVmOLtRc9FRC3D5w64gdAllF5BQ=",
+    "./Components/Pages/Futures/IntradayDashboard/IntradayDashboard.razor.js": "sha256-xGFTF2VZ0nfurEv/eVmOLtRc9FRC3D5w64gdAllF5BQ=",
+    "./Components/Pages/Futures/Splash/Splash_230_Movement.lhjn1txchk.razor.js": "sha256-l/jTd75uRxLIm4TneqaASHqtT+d8X3cMu0KXN9/mbhM=",
+    "./Components/Pages/Futures/Splash/Splash_230_Movement.razor.js": "sha256-l/jTd75uRxLIm4TneqaASHqtT+d8X3cMu0KXN9/mbhM=",
+    "./Components/Pages/General/Bunkers/BunkerPrices.bxlp9425ng.razor.js": "sha256-P9TvN3bgxbks0KwxwYo9qmWfwTlnLDg+qb6vQYiejMU=",
+    "./Components/Pages/General/Bunkers/BunkerPrices.razor.js": "sha256-P9TvN3bgxbks0KwxwYo9qmWfwTlnLDg+qb6vQYiejMU=",
+    "./Components/Pages/General/Compass/Mapper.razor.js": "sha256-a6DM+71eEh4Xm6Z7d5w3qG1vBFVc9kDSlTjenP0W8+4=",
+    "./Components/Pages/General/Compass/Mapper.zed6v2p3tm.razor.js": "sha256-a6DM+71eEh4Xm6Z7d5w3qG1vBFVc9kDSlTjenP0W8+4=",
+    "./Components/Pages/General/CustomCharts.5gz4xbnk4a.razor.js": "sha256-izY2ERFELgbP+yxstBtJz04PWYCp8Z09yD/QyLlCisg=",
+    "./Components/Pages/General/CustomCharts.razor.js": "sha256-izY2ERFELgbP+yxstBtJz04PWYCp8Z09yD/QyLlCisg=",
+    "./Components/Pages/General/CustomCharts/CustomCharts_010_Main.9xwkr89zsy.razor.js": "sha256-U7G5bPse8qnoI0zJmyD+Lz0WaYPFfkmntRfXDb+jAx4=",
+    "./Components/Pages/General/CustomCharts/CustomCharts_010_Main.razor.js": "sha256-U7G5bPse8qnoI0zJmyD+Lz0WaYPFfkmntRfXDb+jAx4=",
+    "./Components/Pages/General/OmniPortal/Components/ViewFileIFrame.razor.js": "sha256-LutZjfw/adJUgtJrbQ1U7nHXDQXnml+mlLZAwyaGzsM=",
+    "./Components/Pages/General/OmniPortal/Components/ViewFileIFrame.yvvzvwanrm.razor.js": "sha256-LutZjfw/adJUgtJrbQ1U7nHXDQXnml+mlLZAwyaGzsM=",
+    "./Components/Pages/Towage/Representation.786zzmxbu0.razor.js": "sha256-uQqwGdLxFM+Wo5PXHIcM0Zs8xFh5+bpxMnoy8DJCGdM=",
+    "./Components/Pages/Towage/Representation.razor.js": "sha256-uQqwGdLxFM+Wo5PXHIcM0Zs8xFh5+bpxMnoy8DJCGdM=",
+    "./Identity/js/site.js": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+    "./Identity/lib/bootstrap/dist/js/bootstrap.bundle.js": "sha256-mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=",
+    "./Identity/lib/bootstrap/dist/js/bootstrap.bundle.min.js": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=",
+    "./Identity/lib/bootstrap/dist/js/bootstrap.esm.js": "sha256-exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA=",
+    "./Identity/lib/bootstrap/dist/js/bootstrap.esm.min.js": "sha256-QZdFT1ZNdly4rmgUBtXmXFS9BU1FTa+sPe6h794sFRQ=",
+    "./Identity/lib/bootstrap/dist/js/bootstrap.js": "sha256-+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=",
+    "./Identity/lib/bootstrap/dist/js/bootstrap.min.js": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
+    "./Identity/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+    "./Identity/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+    "./Identity/lib/jquery-validation/dist/additional-methods.js": "sha256-XL6yOf4sfG2g15W8aB744T4ClbiDG4IMGl2mi0tbzu0=",
+    "./Identity/lib/jquery-validation/dist/additional-methods.min.js": "sha256-jhvKRxZo6eW/PyCe+4rjBLzqesJlE8rnyQGEjk8l2k8=",
+    "./Identity/lib/jquery-validation/dist/jquery.validate.js": "sha256-kRL82372ur5YrVTjFWp9muao9yeU8AoLiJxSb5ekmHg=",
+    "./Identity/lib/jquery-validation/dist/jquery.validate.min.js": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=",
+    "./Identity/lib/jquery/dist/jquery.js": "sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=",
+    "./Identity/lib/jquery/dist/jquery.min.js": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+    "./Identity/lib/jquery/dist/jquery.slim.js": "sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=",
+    "./Identity/lib/jquery/dist/jquery.slim.min.js": "sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.5c2gp224fj.js": "sha256-K2/8DlTnqlDEoF5c6HURzb3R0IK1KrywUAEbLLWNCno=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.js": "sha256-K2/8DlTnqlDEoF5c6HURzb3R0IK1KrywUAEbLLWNCno=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.js": "sha256-W7yoJQDLn/kp1Hj9hVIhrOf7Y5VHTzRZLnz9+3x6Ocs=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.pdf.n1mvvrfiip.js": "sha256-W7yoJQDLn/kp1Hj9hVIhrOf7Y5VHTzRZLnz9+3x6Ocs=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.ezlxc6gzv3.js": "sha256-du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.sortable-list.js": "sha256-du71NM6e2+m9l81ldV+Gbr74ER7Xx1GnJFg+rIY6OQU=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.js": "sha256-Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k=",
+    "./_content/Blazor.Bootstrap/blazor.bootstrap.theme-switcher.pisakkcwob.js": "sha256-Hy2y6B5ohWPnmWg4c52+QUuZGTw8r09KtWKcaGiaa/k=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.j8zp7bt7w3.js": "sha256-XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.min.js": "sha256-XX7we2CiSWzj3rsNtKFCod90LBYAJ3bo8rmu4EuN7SQ=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.79hai7knhw.js": "sha256-JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ=",
+    "./_content/Blazor.Bootstrap/pdfjs-4.0.379.worker.min.js": "sha256-JbwqIn9Fic7JuWyTXuNnAA1T0dYQ2tkTi9HhrSltUtQ=",
+    "./_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.eu7w3d5g1a.razor.js": "sha256-tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
+    "./_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js": "sha256-tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
+    "./_content/SkiaSharp.Views.Blazor/DpiWatcher.2nqajpuh85.js": "sha256-okN1eMlnHvrvNH1ol6S0/aR8XoEk/0pzuPwZGp6sV+0=",
+    "./_content/SkiaSharp.Views.Blazor/DpiWatcher.js": "sha256-okN1eMlnHvrvNH1ol6S0/aR8XoEk/0pzuPwZGp6sV+0=",
+    "./_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.65exe3ywd4.js": "sha256-JmCcfJFjpcD2R3OopZNfdoD3Qc3cCyBph3IqlgfGZ+s=",
+    "./_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js": "sha256-JmCcfJFjpcD2R3OopZNfdoD3Qc3cCyBph3IqlgfGZ+s=",
+    "./_content/SkiaSharp.Views.Blazor/SizeWatcher.js": "sha256-GI9vQ+fPjBFth1Ymb+qxcz6c6kwgOPaboEDCBM9Gb8M=",
+    "./_content/SkiaSharp.Views.Blazor/SizeWatcher.wijpc5yi0d.js": "sha256-GI9vQ+fPjBFth1Ymb+qxcz6c6kwgOPaboEDCBM9Gb8M=",
+    "./_framework/blazor.server.js": "sha256-bDQTw7AEuAYCpWRK2jFgleO9a7PxBwvuxd9zN63+oso=",
+    "./_framework/blazor.server.wfr2hj6447.js": "sha256-bDQTw7AEuAYCpWRK2jFgleO9a7PxBwvuxd9zN63+oso=",
+    "./_framework/blazor.web.js": "sha256-iLprmSueJh5+S5e7TMSpDCIn76pkDjFM/MNuNeykNuU=",
+    "./_framework/blazor.web.wyu7y4jcvb.js": "sha256-iLprmSueJh5+S5e7TMSpDCIn76pkDjFM/MNuNeykNuU=",
+    "./ext/HTML2Canvas/html2canvas.js": "sha256-nwsAtqi82WpTRX3ezvxFoUgV23izcdeUBPWhbbiPsSo=",
+    "./ext/HTML2Canvas/html2canvas.vcxv5nfao7.js": "sha256-nwsAtqi82WpTRX3ezvxFoUgV23izcdeUBPWhbbiPsSo=",
+    "./ext/Highcharts-12.5.0/highcharts-3d.js": "sha256-1Ya+2Jyexn1PaDsiFGAYLXkfVxSbOt2wHLjbfXMUWQ4=",
+    "./ext/Highcharts-12.5.0/highcharts-3d.tyb9y8y58n.js": "sha256-1Ya+2Jyexn1PaDsiFGAYLXkfVxSbOt2wHLjbfXMUWQ4=",
+    "./ext/Highcharts-12.5.0/highcharts-more.js": "sha256-b67/eC3NyUsSdB/ZLUeqqtwuJnksG/sevxZjP4VgcN0=",
+    "./ext/Highcharts-12.5.0/highcharts-more.v8vha3skwo.js": "sha256-b67/eC3NyUsSdB/ZLUeqqtwuJnksG/sevxZjP4VgcN0=",
+    "./ext/Highcharts-12.5.0/highcharts.d5etuz02ij.js": "sha256-H0krth+TYSvlzu1grgSxmwBtAp/Hi5xCwU2GubrR900=",
+    "./ext/Highcharts-12.5.0/highcharts.js": "sha256-H0krth+TYSvlzu1grgSxmwBtAp/Hi5xCwU2GubrR900=",
+    "./ext/Highcharts-12.5.0/indicators/indicators-all.js": "sha256-cYEjboeN8HOMNFB2RBiIItPUUBEiipSxKEzxdy1AY/s=",
+    "./ext/Highcharts-12.5.0/indicators/indicators-all.vkasas2k77.js": "sha256-cYEjboeN8HOMNFB2RBiIItPUUBEiipSxKEzxdy1AY/s=",
+    "./ext/Highcharts-12.5.0/modules/accessibility.ftj3jg8u9q.js": "sha256-7UVnnZB6YxOkehVOHnoDhayPBscyCVne27Ge8V9Tshg=",
+    "./ext/Highcharts-12.5.0/modules/accessibility.js": "sha256-7UVnnZB6YxOkehVOHnoDhayPBscyCVne27Ge8V9Tshg=",
+    "./ext/Highcharts-12.5.0/modules/annotations-advanced.js": "sha256-eU1zIToa8LYMzFq/KLWDojBn0AxZ4GYUkPaIUVp01q0=",
+    "./ext/Highcharts-12.5.0/modules/annotations-advanced.xixnkoxd84.js": "sha256-eU1zIToa8LYMzFq/KLWDojBn0AxZ4GYUkPaIUVp01q0=",
+    "./ext/Highcharts-12.5.0/modules/annotations.js": "sha256-BpW+EaY7nRD+eGnrOjVhFc9rE275o6ikTMT/vbxKH04=",
+    "./ext/Highcharts-12.5.0/modules/annotations.yuy6h94n5c.js": "sha256-BpW+EaY7nRD+eGnrOjVhFc9rE275o6ikTMT/vbxKH04=",
+    "./ext/Highcharts-12.5.0/modules/arc-diagram.js": "sha256-YyIav9N6XgP0mgwqbJUCeG2XOR4A6JHTbwuD08o3Ekw=",
+    "./ext/Highcharts-12.5.0/modules/arc-diagram.l67tsugty9.js": "sha256-YyIav9N6XgP0mgwqbJUCeG2XOR4A6JHTbwuD08o3Ekw=",
+    "./ext/Highcharts-12.5.0/modules/arrow-symbols.icsaflp3bc.js": "sha256-AuF1Zt+TAVsZxNvyE5B6xh9miRbKZHbhXWMHC77h9HI=",
+    "./ext/Highcharts-12.5.0/modules/arrow-symbols.js": "sha256-AuF1Zt+TAVsZxNvyE5B6xh9miRbKZHbhXWMHC77h9HI=",
+    "./ext/Highcharts-12.5.0/modules/boost-canvas.ivk8eeec6z.js": "sha256-Uj5uCL1k/NjyiFcMF5oyHCzjcRTsMUKbAwPzAkl+HqQ=",
+    "./ext/Highcharts-12.5.0/modules/boost-canvas.js": "sha256-Uj5uCL1k/NjyiFcMF5oyHCzjcRTsMUKbAwPzAkl+HqQ=",
+    "./ext/Highcharts-12.5.0/modules/boost.js": "sha256-EsDLj6OH0+NxdZ7WQ2CxviHo1f4cp/uspCIO9GgaBOk=",
+    "./ext/Highcharts-12.5.0/modules/boost.ycwxu0ods5.js": "sha256-EsDLj6OH0+NxdZ7WQ2CxviHo1f4cp/uspCIO9GgaBOk=",
+    "./ext/Highcharts-12.5.0/modules/broken-axis.aookutiaxt.js": "sha256-6ssWHP6o/zgg9IGAMQzWVxlz8okS9LE34xqcIuU+6ng=",
+    "./ext/Highcharts-12.5.0/modules/broken-axis.js": "sha256-6ssWHP6o/zgg9IGAMQzWVxlz8okS9LE34xqcIuU+6ng=",
+    "./ext/Highcharts-12.5.0/modules/bullet.g31yut7hti.js": "sha256-DFzuADV3Yc5IdJQlh443jxZWefGAq0K0TFd8Ix0ARLQ=",
+    "./ext/Highcharts-12.5.0/modules/bullet.js": "sha256-DFzuADV3Yc5IdJQlh443jxZWefGAq0K0TFd8Ix0ARLQ=",
+    "./ext/Highcharts-12.5.0/modules/coloraxis.js": "sha256-oqRmh/M8rQ7x8wSzf29PBkpfOcJJMu7lHtb+YoBRW9U=",
+    "./ext/Highcharts-12.5.0/modules/coloraxis.uc9knu0p6l.js": "sha256-oqRmh/M8rQ7x8wSzf29PBkpfOcJJMu7lHtb+YoBRW9U=",
+    "./ext/Highcharts-12.5.0/modules/current-date-indicator.404eq1lp0c.js": "sha256-PGaAGREdZ3Citj8YqLcCgFEMZgPcINN94pvJzFpHv40=",
+    "./ext/Highcharts-12.5.0/modules/current-date-indicator.js": "sha256-PGaAGREdZ3Citj8YqLcCgFEMZgPcINN94pvJzFpHv40=",
+    "./ext/Highcharts-12.5.0/modules/cylinder.hw9ght7vix.js": "sha256-3/RioNCbkf/I0Au1+kjq2uapilr+wfeP06nVP4nds2E=",
+    "./ext/Highcharts-12.5.0/modules/cylinder.js": "sha256-3/RioNCbkf/I0Au1+kjq2uapilr+wfeP06nVP4nds2E=",
+    "./ext/Highcharts-12.5.0/modules/data-tools.ez6361ak18.js": "sha256-GlD7kWpZXQMct5S29up1A5vUClo98W9GmlgNvAqH/sE=",
+    "./ext/Highcharts-12.5.0/modules/data-tools.js": "sha256-GlD7kWpZXQMct5S29up1A5vUClo98W9GmlgNvAqH/sE=",
+    "./ext/Highcharts-12.5.0/modules/data.fs5fv03toz.js": "sha256-8UW8zzElZ8OCuh++JoJBagitVCPdtnF4p/eQgzo2jjY=",
+    "./ext/Highcharts-12.5.0/modules/data.js": "sha256-8UW8zzElZ8OCuh++JoJBagitVCPdtnF4p/eQgzo2jjY=",
+    "./ext/Highcharts-12.5.0/modules/datagrouping.atqp93nyqd.js": "sha256-/thlV8KfiNseEJS0M5u3FsDvyjhkjOTF2STuvr+BM8I=",
+    "./ext/Highcharts-12.5.0/modules/datagrouping.js": "sha256-/thlV8KfiNseEJS0M5u3FsDvyjhkjOTF2STuvr+BM8I=",
+    "./ext/Highcharts-12.5.0/modules/debugger.js": "sha256-n9hj0AkHUcFR4Ju123Zz4yXb+oe3N3ktFmMP/Fz4Lpg=",
+    "./ext/Highcharts-12.5.0/modules/debugger.rhe58maxwj.js": "sha256-n9hj0AkHUcFR4Ju123Zz4yXb+oe3N3ktFmMP/Fz4Lpg=",
+    "./ext/Highcharts-12.5.0/modules/dependency-wheel.js": "sha256-FqZWHlKp8aeMf372W1sW5MIgxFKO9Y3aLnfJXw3Tvp0=",
+    "./ext/Highcharts-12.5.0/modules/dependency-wheel.qo3hx384q9.js": "sha256-FqZWHlKp8aeMf372W1sW5MIgxFKO9Y3aLnfJXw3Tvp0=",
+    "./ext/Highcharts-12.5.0/modules/dotplot.d8p08hdkly.js": "sha256-Q8R/FQGl1OHVoHusoQ2RiiMgDzF7OQhDToBqcZZ00Yw=",
+    "./ext/Highcharts-12.5.0/modules/dotplot.js": "sha256-Q8R/FQGl1OHVoHusoQ2RiiMgDzF7OQhDToBqcZZ00Yw=",
+    "./ext/Highcharts-12.5.0/modules/drag-panes.js": "sha256-sGpsbtnG/gnmv/MVE7IN13BIlmxC3Erlr7H1iLXFp1U=",
+    "./ext/Highcharts-12.5.0/modules/drag-panes.o2rtbfmy15.js": "sha256-sGpsbtnG/gnmv/MVE7IN13BIlmxC3Erlr7H1iLXFp1U=",
+    "./ext/Highcharts-12.5.0/modules/draggable-points.js": "sha256-Qr8i2hZYww2jpq84lgmD+fmQH/U+aH0HhEtKztg02ZU=",
+    "./ext/Highcharts-12.5.0/modules/draggable-points.yney67snnz.js": "sha256-Qr8i2hZYww2jpq84lgmD+fmQH/U+aH0HhEtKztg02ZU=",
+    "./ext/Highcharts-12.5.0/modules/drilldown.89knl9cvtc.js": "sha256-tMAp3mZOHHT5SJkWU5JFQLtNiIERmlcrjo1eDL0oz18=",
+    "./ext/Highcharts-12.5.0/modules/drilldown.js": "sha256-tMAp3mZOHHT5SJkWU5JFQLtNiIERmlcrjo1eDL0oz18=",
+    "./ext/Highcharts-12.5.0/modules/dumbbell.fewf719ie8.js": "sha256-x2xvsKA0CQQepkJVQ52vhlZ3fOM/y4EoXWKAGdziX3E=",
+    "./ext/Highcharts-12.5.0/modules/dumbbell.js": "sha256-x2xvsKA0CQQepkJVQ52vhlZ3fOM/y4EoXWKAGdziX3E=",
+    "./ext/Highcharts-12.5.0/modules/export-data.js": "sha256-Z1gKmIWhGrq1jPHK4WKe0YwkRpYdsR6hQo8ybhKvilQ=",
+    "./ext/Highcharts-12.5.0/modules/export-data.tbvs6132vd.js": "sha256-Z1gKmIWhGrq1jPHK4WKe0YwkRpYdsR6hQo8ybhKvilQ=",
+    "./ext/Highcharts-12.5.0/modules/exporting.js": "sha256-U36ALE1CcEp8YVWHW9CiK7Pt92oEGRUIj6z4asKlCa0=",
+    "./ext/Highcharts-12.5.0/modules/exporting.rqld3zoc9e.js": "sha256-U36ALE1CcEp8YVWHW9CiK7Pt92oEGRUIj6z4asKlCa0=",
+    "./ext/Highcharts-12.5.0/modules/flowmap.js": "sha256-tiV7FM9e7iEheSq8Gu0/b21N0+ytwf4R+Gx5EExEMtI=",
+    "./ext/Highcharts-12.5.0/modules/flowmap.mgqjdvhocl.js": "sha256-tiV7FM9e7iEheSq8Gu0/b21N0+ytwf4R+Gx5EExEMtI=",
+    "./ext/Highcharts-12.5.0/modules/full-screen.byw037wwf2.js": "sha256-0wVp9VfVISJ3ZR18ZnuCig/rRIuOpYnaUsKcuOkHBZw=",
+    "./ext/Highcharts-12.5.0/modules/full-screen.js": "sha256-0wVp9VfVISJ3ZR18ZnuCig/rRIuOpYnaUsKcuOkHBZw=",
+    "./ext/Highcharts-12.5.0/modules/funnel.b06n6kjl3l.js": "sha256-K4S/O6Ef8i4YwBEiWhu+ln80qxd35hMo40lz+ErHk80=",
+    "./ext/Highcharts-12.5.0/modules/funnel.js": "sha256-K4S/O6Ef8i4YwBEiWhu+ln80qxd35hMo40lz+ErHk80=",
+    "./ext/Highcharts-12.5.0/modules/funnel3d.js": "sha256-zDdd6KnroVSqwOynpuP1f45NLcdMpQlZLDPXWVh+MwQ=",
+    "./ext/Highcharts-12.5.0/modules/funnel3d.whrsi7o01j.js": "sha256-zDdd6KnroVSqwOynpuP1f45NLcdMpQlZLDPXWVh+MwQ=",
+    "./ext/Highcharts-12.5.0/modules/gantt.js": "sha256-oGPYnarNKfIubr7RxPW+zpaNj3QFx1F7NvWL2PHkCmI=",
+    "./ext/Highcharts-12.5.0/modules/gantt.sxu0rjya3m.js": "sha256-oGPYnarNKfIubr7RxPW+zpaNj3QFx1F7NvWL2PHkCmI=",
+    "./ext/Highcharts-12.5.0/modules/geoheatmap.js": "sha256-HoPfQ7sjsYPVZH98XnbbDwZtdHQ+BgBNteGSMLEtOok=",
+    "./ext/Highcharts-12.5.0/modules/geoheatmap.yk7yetgvqa.js": "sha256-HoPfQ7sjsYPVZH98XnbbDwZtdHQ+BgBNteGSMLEtOok=",
+    "./ext/Highcharts-12.5.0/modules/grid-axis.0zziyx64ux.js": "sha256-nGxpFrgvzHdXO3To9y1WO4i9aen8DGnE/uorDjsiEro=",
+    "./ext/Highcharts-12.5.0/modules/grid-axis.js": "sha256-nGxpFrgvzHdXO3To9y1WO4i9aen8DGnE/uorDjsiEro=",
+    "./ext/Highcharts-12.5.0/modules/heatmap.h65m6dtv7l.js": "sha256-R5ICIwc3o3CqCXPyPLiY574+twSO41JFQp2TDjue+ss=",
+    "./ext/Highcharts-12.5.0/modules/heatmap.js": "sha256-R5ICIwc3o3CqCXPyPLiY574+twSO41JFQp2TDjue+ss=",
+    "./ext/Highcharts-12.5.0/modules/heikinashi.js": "sha256-sS+g1ex/a6kJ/+LFFn0o6QvdvMwZ1/EhnFb48hg6gnA=",
+    "./ext/Highcharts-12.5.0/modules/heikinashi.l3vthjl71j.js": "sha256-sS+g1ex/a6kJ/+LFFn0o6QvdvMwZ1/EhnFb48hg6gnA=",
+    "./ext/Highcharts-12.5.0/modules/histogram-bellcurve.js": "sha256-C+hAwwXpxSgJa9ZSP08Uc/Jn/q7qwRWdLbp//r0Dui0=",
+    "./ext/Highcharts-12.5.0/modules/histogram-bellcurve.z2eze2y233.js": "sha256-C+hAwwXpxSgJa9ZSP08Uc/Jn/q7qwRWdLbp//r0Dui0=",
+    "./ext/Highcharts-12.5.0/modules/hollowcandlestick.ff1ydjpqqg.js": "sha256-u6RU08MFc/USFm+8MjSEXquDlq3ndKFEdxYjDRgYbVI=",
+    "./ext/Highcharts-12.5.0/modules/hollowcandlestick.js": "sha256-u6RU08MFc/USFm+8MjSEXquDlq3ndKFEdxYjDRgYbVI=",
+    "./ext/Highcharts-12.5.0/modules/item-series.js": "sha256-9Oyd4eASZn2pD1UqEZwhwLhWqJzC+nIEuF0Pv+kcO9M=",
+    "./ext/Highcharts-12.5.0/modules/item-series.sgjednhj3h.js": "sha256-9Oyd4eASZn2pD1UqEZwhwLhWqJzC+nIEuF0Pv+kcO9M=",
+    "./ext/Highcharts-12.5.0/modules/lollipop.9o123igyn4.js": "sha256-B6BVO1/R2+ahxQ4n8F8BHBoFrzzxkwezyqEHo672BSw=",
+    "./ext/Highcharts-12.5.0/modules/lollipop.js": "sha256-B6BVO1/R2+ahxQ4n8F8BHBoFrzzxkwezyqEHo672BSw=",
+    "./ext/Highcharts-12.5.0/modules/map.4livltmftz.js": "sha256-KKeguPbInLDDdb70ZYrZVSfR5j4n2vxX28RcTrRsqBI=",
+    "./ext/Highcharts-12.5.0/modules/map.js": "sha256-KKeguPbInLDDdb70ZYrZVSfR5j4n2vxX28RcTrRsqBI=",
+    "./ext/Highcharts-12.5.0/modules/marker-clusters.355cty420h.js": "sha256-+ZXJi7quUYDy37oSgUrxpQJkgYWm82W9u7ZU6/4sMeI=",
+    "./ext/Highcharts-12.5.0/modules/marker-clusters.js": "sha256-+ZXJi7quUYDy37oSgUrxpQJkgYWm82W9u7ZU6/4sMeI=",
+    "./ext/Highcharts-12.5.0/modules/mouse-wheel-zoom.c61a34jbxu.js": "sha256-jHjthIl/EzmaNpr4a4kpOSlyAvQ9W8DjvcyRw3n8Ivk=",
+    "./ext/Highcharts-12.5.0/modules/mouse-wheel-zoom.js": "sha256-jHjthIl/EzmaNpr4a4kpOSlyAvQ9W8DjvcyRw3n8Ivk=",
+    "./ext/Highcharts-12.5.0/modules/navigator.3dmayweuel.js": "sha256-t9Gztt0zcqlIRZmHUaT03z8ZTdhKjdXKavTJKt6+CiU=",
+    "./ext/Highcharts-12.5.0/modules/navigator.js": "sha256-t9Gztt0zcqlIRZmHUaT03z8ZTdhKjdXKavTJKt6+CiU=",
+    "./ext/Highcharts-12.5.0/modules/networkgraph.2oaanjjws9.js": "sha256-gifVBnO3DP581gjMgIGVoCCZLxiBo94MGvmHvEKOZOo=",
+    "./ext/Highcharts-12.5.0/modules/networkgraph.js": "sha256-gifVBnO3DP581gjMgIGVoCCZLxiBo94MGvmHvEKOZOo=",
+    "./ext/Highcharts-12.5.0/modules/no-data-to-display.js": "sha256-S1DPuPXPXrRULYVCfJEQYrAA04iBhP0Frp5HpSWsE04=",
+    "./ext/Highcharts-12.5.0/modules/no-data-to-display.r0v15qjolk.js": "sha256-S1DPuPXPXrRULYVCfJEQYrAA04iBhP0Frp5HpSWsE04=",
+    "./ext/Highcharts-12.5.0/modules/non-cartesian-zoom.js": "sha256-gHT3WW6r6UraamxAC+bbfxXXwtrkRFy+GNGGULqDXVc=",
+    "./ext/Highcharts-12.5.0/modules/non-cartesian-zoom.stprom2qvd.js": "sha256-gHT3WW6r6UraamxAC+bbfxXXwtrkRFy+GNGGULqDXVc=",
+    "./ext/Highcharts-12.5.0/modules/offline-exporting.js": "sha256-eJliHqwkVsgZ0kGspNIR/yl4isO4dOsZM8hRRwZ6kOw=",
+    "./ext/Highcharts-12.5.0/modules/offline-exporting.k5ndnj0p13.js": "sha256-eJliHqwkVsgZ0kGspNIR/yl4isO4dOsZM8hRRwZ6kOw=",
+    "./ext/Highcharts-12.5.0/modules/organization.6itxro3uem.js": "sha256-nh7aHX7MsNY8dQtoybwl1L7tTzCaJJtB/4INs9BmpS0=",
+    "./ext/Highcharts-12.5.0/modules/organization.js": "sha256-nh7aHX7MsNY8dQtoybwl1L7tTzCaJJtB/4INs9BmpS0=",
+    "./ext/Highcharts-12.5.0/modules/parallel-coordinates.j3a63ee1rg.js": "sha256-YYxtK6x7iZK81QXn9QB8p0NE0HDlESF4GFfEj8ZF4Rs=",
+    "./ext/Highcharts-12.5.0/modules/parallel-coordinates.js": "sha256-YYxtK6x7iZK81QXn9QB8p0NE0HDlESF4GFfEj8ZF4Rs=",
+    "./ext/Highcharts-12.5.0/modules/pareto.js": "sha256-X5TjZIwXFMdVtgO2xQcC4x6dd63JZfBm0mgyXxaPhag=",
+    "./ext/Highcharts-12.5.0/modules/pareto.z7ghczvx6o.js": "sha256-X5TjZIwXFMdVtgO2xQcC4x6dd63JZfBm0mgyXxaPhag=",
+    "./ext/Highcharts-12.5.0/modules/pathfinder.azhmgynddk.js": "sha256-hoyURFxU4x4mLz0gZMfLOHqJ0zp9DgW2muMFKekDuro=",
+    "./ext/Highcharts-12.5.0/modules/pathfinder.js": "sha256-hoyURFxU4x4mLz0gZMfLOHqJ0zp9DgW2muMFKekDuro=",
+    "./ext/Highcharts-12.5.0/modules/pattern-fill.js": "sha256-ByV4Aqpd6USZGM1Jb1rdBYs3nVFIjYlyjQaCpbVPeFY=",
+    "./ext/Highcharts-12.5.0/modules/pattern-fill.l96xlqqnmz.js": "sha256-ByV4Aqpd6USZGM1Jb1rdBYs3nVFIjYlyjQaCpbVPeFY=",
+    "./ext/Highcharts-12.5.0/modules/pictorial.1w31vc3fqd.js": "sha256-8ehL793AouV1n68JHqk1mtiElub7vEwQQeeAAc9YkuQ=",
+    "./ext/Highcharts-12.5.0/modules/pictorial.js": "sha256-8ehL793AouV1n68JHqk1mtiElub7vEwQQeeAAc9YkuQ=",
+    "./ext/Highcharts-12.5.0/modules/pointandfigure.itm0gmokdf.js": "sha256-hhuk8GfV8N4oQTcAKcJA9h94+XX7gojr5STTuHTU8nM=",
+    "./ext/Highcharts-12.5.0/modules/pointandfigure.js": "sha256-hhuk8GfV8N4oQTcAKcJA9h94+XX7gojr5STTuHTU8nM=",
+    "./ext/Highcharts-12.5.0/modules/price-indicator.8m5ovl3ye1.js": "sha256-cNVOilSFMC59/0EJqDkCmyR1XEbxxfIRHNT/Tg/i/fU=",
+    "./ext/Highcharts-12.5.0/modules/price-indicator.js": "sha256-cNVOilSFMC59/0EJqDkCmyR1XEbxxfIRHNT/Tg/i/fU=",
+    "./ext/Highcharts-12.5.0/modules/pyramid3d.d37diq6u34.js": "sha256-18Bbau9NpB6h9eyudI3BB1drMTv1TV+sEDvwpWE5zRk=",
+    "./ext/Highcharts-12.5.0/modules/pyramid3d.js": "sha256-18Bbau9NpB6h9eyudI3BB1drMTv1TV+sEDvwpWE5zRk=",
+    "./ext/Highcharts-12.5.0/modules/renko.0nlq29kl5f.js": "sha256-9InApbNuBr6GxnPfFh7fDCXpJGF0ONrAey3qpXxnIZE=",
+    "./ext/Highcharts-12.5.0/modules/renko.js": "sha256-9InApbNuBr6GxnPfFh7fDCXpJGF0ONrAey3qpXxnIZE=",
+    "./ext/Highcharts-12.5.0/modules/sankey.js": "sha256-Bl4rkwcGO9Rwhq6u1Eh8jrxFy4XblxOEeNb+Lwjt8Zg=",
+    "./ext/Highcharts-12.5.0/modules/sankey.q3wybvotge.js": "sha256-Bl4rkwcGO9Rwhq6u1Eh8jrxFy4XblxOEeNb+Lwjt8Zg=",
+    "./ext/Highcharts-12.5.0/modules/series-label.h3zyvvttkd.js": "sha256-LVEXqRfhIiVta0lLYiKnzZz9dkyS+/dIjK873AdOFUI=",
+    "./ext/Highcharts-12.5.0/modules/series-label.js": "sha256-LVEXqRfhIiVta0lLYiKnzZz9dkyS+/dIjK873AdOFUI=",
+    "./ext/Highcharts-12.5.0/modules/series-on-point.js": "sha256-H7EsZk09IZnU1Mec5g0n05J6vwN75Pwa5skuHQXV6Ao=",
+    "./ext/Highcharts-12.5.0/modules/series-on-point.tp4cs837f6.js": "sha256-H7EsZk09IZnU1Mec5g0n05J6vwN75Pwa5skuHQXV6Ao=",
+    "./ext/Highcharts-12.5.0/modules/solid-gauge.0kmgijvis2.js": "sha256-0DvV5tyJy9rHXC+YTbx0EuNed5UOzP+N5QBvbwekTfg=",
+    "./ext/Highcharts-12.5.0/modules/solid-gauge.js": "sha256-0DvV5tyJy9rHXC+YTbx0EuNed5UOzP+N5QBvbwekTfg=",
+    "./ext/Highcharts-12.5.0/modules/sonification.js": "sha256-KL0yxP2tu66Pp7UxDL3kN34g/zQ7jrHFIdtvFx4vG5w=",
+    "./ext/Highcharts-12.5.0/modules/sonification.okv0rqc1pa.js": "sha256-KL0yxP2tu66Pp7UxDL3kN34g/zQ7jrHFIdtvFx4vG5w=",
+    "./ext/Highcharts-12.5.0/modules/static-scale.js": "sha256-X1KXPEMtZMpJe1FIFNVgipB13zy77SVFsHoMW7CaEls=",
+    "./ext/Highcharts-12.5.0/modules/static-scale.netihncvba.js": "sha256-X1KXPEMtZMpJe1FIFNVgipB13zy77SVFsHoMW7CaEls=",
+    "./ext/Highcharts-12.5.0/modules/stock-tools.js": "sha256-TodbSf5PqOwXVK3R2rSyN5fgrbCXAKf8zlF3yp8FFQM=",
+    "./ext/Highcharts-12.5.0/modules/stock-tools.ukm8jswa05.js": "sha256-TodbSf5PqOwXVK3R2rSyN5fgrbCXAKf8zlF3yp8FFQM=",
+    "./ext/Highcharts-12.5.0/modules/stock.632x02z4up.js": "sha256-Lv/ojicQj33jhkf28OrjjfyaBXf9udl90RWIC6SOTjA=",
+    "./ext/Highcharts-12.5.0/modules/stock.js": "sha256-Lv/ojicQj33jhkf28OrjjfyaBXf9udl90RWIC6SOTjA=",
+    "./ext/Highcharts-12.5.0/modules/streamgraph.js": "sha256-26cHY0nzNwpo7HfzNRanhUYJC5EQ9wOsxR6DNkOkFxQ=",
+    "./ext/Highcharts-12.5.0/modules/streamgraph.zeked33c4x.js": "sha256-26cHY0nzNwpo7HfzNRanhUYJC5EQ9wOsxR6DNkOkFxQ=",
+    "./ext/Highcharts-12.5.0/modules/sunburst.5qtkqsyod4.js": "sha256-g8JJiKwYFkLY/JAulHJOExN31LRP7I7SNf+LdMgLi+Y=",
+    "./ext/Highcharts-12.5.0/modules/sunburst.js": "sha256-g8JJiKwYFkLY/JAulHJOExN31LRP7I7SNf+LdMgLi+Y=",
+    "./ext/Highcharts-12.5.0/modules/textpath.7ghpirbz7m.js": "sha256-lzLmYnlaNBF6Vj4Q+25ukZ6oahl15Ap7SPXlmb7zVxI=",
+    "./ext/Highcharts-12.5.0/modules/textpath.js": "sha256-lzLmYnlaNBF6Vj4Q+25ukZ6oahl15Ap7SPXlmb7zVxI=",
+    "./ext/Highcharts-12.5.0/modules/tiledwebmap.js": "sha256-6A05rDSQXJU8Lh+NT0hZIK10jksMkqTWIq8Zmv4vbdI=",
+    "./ext/Highcharts-12.5.0/modules/tiledwebmap.k52cw6gqx2.js": "sha256-6A05rDSQXJU8Lh+NT0hZIK10jksMkqTWIq8Zmv4vbdI=",
+    "./ext/Highcharts-12.5.0/modules/tilemap.20otvxoxah.js": "sha256-woGcdUf8NCAHCEA0MFjBDN6zreCL59V94aoXAmR7aTA=",
+    "./ext/Highcharts-12.5.0/modules/tilemap.js": "sha256-woGcdUf8NCAHCEA0MFjBDN6zreCL59V94aoXAmR7aTA=",
+    "./ext/Highcharts-12.5.0/modules/timeline.7f91wfe2a4.js": "sha256-8wF+AuPwp2M2vOPmgBb+zEP0+UjpQez5twgQokwSZoc=",
+    "./ext/Highcharts-12.5.0/modules/timeline.js": "sha256-8wF+AuPwp2M2vOPmgBb+zEP0+UjpQez5twgQokwSZoc=",
+    "./ext/Highcharts-12.5.0/modules/treegraph.js": "sha256-8lzJgl6W6kcKdE/XRiU9NhdFBrhsC7NxaIAUbcm2uC8=",
+    "./ext/Highcharts-12.5.0/modules/treegraph.uppj0pdei9.js": "sha256-8lzJgl6W6kcKdE/XRiU9NhdFBrhsC7NxaIAUbcm2uC8=",
+    "./ext/Highcharts-12.5.0/modules/treegrid.js": "sha256-jFk0Ey7ESGUusyekVV81KAehKgRURSqL9RBIIuK7OCY=",
+    "./ext/Highcharts-12.5.0/modules/treegrid.ke0ucw7ea3.js": "sha256-jFk0Ey7ESGUusyekVV81KAehKgRURSqL9RBIIuK7OCY=",
+    "./ext/Highcharts-12.5.0/modules/treemap.js": "sha256-EJLSOHldSgen9Vi70ounl7WALumFNi06s+jbLl9DSXo=",
+    "./ext/Highcharts-12.5.0/modules/treemap.w44ov9kvvz.js": "sha256-EJLSOHldSgen9Vi70ounl7WALumFNi06s+jbLl9DSXo=",
+    "./ext/Highcharts-12.5.0/modules/variable-pie.gthu6hq4he.js": "sha256-tP+9BNq8KGwZ98wD47B4hzbyvhgp3Uno6rv2WWrb8R4=",
+    "./ext/Highcharts-12.5.0/modules/variable-pie.js": "sha256-tP+9BNq8KGwZ98wD47B4hzbyvhgp3Uno6rv2WWrb8R4=",
+    "./ext/Highcharts-12.5.0/modules/variwide.00d8gwq826.js": "sha256-0CM4EqG+qqlGpi2lkgTj7DWloMU0CAugMne8LaanLRw=",
+    "./ext/Highcharts-12.5.0/modules/variwide.js": "sha256-0CM4EqG+qqlGpi2lkgTj7DWloMU0CAugMne8LaanLRw=",
+    "./ext/Highcharts-12.5.0/modules/vector.01c3i2gna1.js": "sha256-pLlrwUfcqfEngdGWZSbSh7PlWLSTdESioxI+tk+CJC0=",
+    "./ext/Highcharts-12.5.0/modules/vector.js": "sha256-pLlrwUfcqfEngdGWZSbSh7PlWLSTdESioxI+tk+CJC0=",
+    "./ext/Highcharts-12.5.0/modules/venn.js": "sha256-cHkIFs63KkSlX6RWTRfzlTS/q58hVEMVR7OYPZMHw3g=",
+    "./ext/Highcharts-12.5.0/modules/venn.stuu3734oz.js": "sha256-cHkIFs63KkSlX6RWTRfzlTS/q58hVEMVR7OYPZMHw3g=",
+    "./ext/Highcharts-12.5.0/modules/windbarb.es3aygo62k.js": "sha256-Uiy2PtzFaCGzs4upYwNH678wZDSogTf2YL1kL3dciH0=",
+    "./ext/Highcharts-12.5.0/modules/windbarb.js": "sha256-Uiy2PtzFaCGzs4upYwNH678wZDSogTf2YL1kL3dciH0=",
+    "./ext/Highcharts-12.5.0/modules/wordcloud.js": "sha256-cKNWdgzTJIZJBgAAqv345S6C52Bp5+680DHXpfSY39U=",
+    "./ext/Highcharts-12.5.0/modules/wordcloud.omozssji78.js": "sha256-cKNWdgzTJIZJBgAAqv345S6C52Bp5+680DHXpfSY39U=",
+    "./ext/Highcharts-12.5.0/modules/xrange.ezl7vlqotb.js": "sha256-Cv6lbb7GOYp+7bUyHFVhzuyxIaR22S3oV/VRasEwyns=",
+    "./ext/Highcharts-12.5.0/modules/xrange.js": "sha256-Cv6lbb7GOYp+7bUyHFVhzuyxIaR22S3oV/VRasEwyns=",
+    "./ext/Highcharts-12.5.0/standalone-navigator.eito1n0tgy.js": "sha256-mrfqZssZ3Xiz/RfZ9M3A8wL+oGV4COxkQH45ZnUzeqc=",
+    "./ext/Highcharts-12.5.0/standalone-navigator.js": "sha256-mrfqZssZ3Xiz/RfZ9M3A8wL+oGV4COxkQH45ZnUzeqc=",
+    "./ext/Highcharts-12.5.0/themes/adaptive.ay4je3b5cx.js": "sha256-0kkRk1+6mYgHswduAR/K+pTYJzBjVeQDzPnNGkuV/Z8=",
+    "./ext/Highcharts-12.5.0/themes/adaptive.js": "sha256-0kkRk1+6mYgHswduAR/K+pTYJzBjVeQDzPnNGkuV/Z8=",
+    "./ext/Highcharts-12.5.0/themes/avocado.d5r9g0me9c.js": "sha256-Tx5zMEmg51OKioZjP4sSLNSc/LlYyEGmnEisWuAOVuY=",
+    "./ext/Highcharts-12.5.0/themes/avocado.js": "sha256-Tx5zMEmg51OKioZjP4sSLNSc/LlYyEGmnEisWuAOVuY=",
+    "./ext/Highcharts-12.5.0/themes/brand-dark.js": "sha256-9inHoUWoUmExIFEQrnzYhO6UBzOCQHWGT1wclbvKxVg=",
+    "./ext/Highcharts-12.5.0/themes/brand-dark.qv49x6l7r6.js": "sha256-9inHoUWoUmExIFEQrnzYhO6UBzOCQHWGT1wclbvKxVg=",
+    "./ext/Highcharts-12.5.0/themes/brand-light.js": "sha256-BduRQHO7wX/9fkThUgetSUBC0mlVtXijD0cBxzJha0c=",
+    "./ext/Highcharts-12.5.0/themes/brand-light.jufv7b9bn9.js": "sha256-BduRQHO7wX/9fkThUgetSUBC0mlVtXijD0cBxzJha0c=",
+    "./ext/Highcharts-12.5.0/themes/dark-blue.3gy1aef1f6.js": "sha256-o9ZdRe6zlC0PKClgv9wmLJknzCJuMG1ZAuZK60+WPlI=",
+    "./ext/Highcharts-12.5.0/themes/dark-blue.js": "sha256-o9ZdRe6zlC0PKClgv9wmLJknzCJuMG1ZAuZK60+WPlI=",
+    "./ext/Highcharts-12.5.0/themes/dark-green.gyxagoi0qi.js": "sha256-aFpSV2FtvZMCJ4qJnb+lfJW79RUR1gHKc23sI7k3zsI=",
+    "./ext/Highcharts-12.5.0/themes/dark-green.js": "sha256-aFpSV2FtvZMCJ4qJnb+lfJW79RUR1gHKc23sI7k3zsI=",
+    "./ext/Highcharts-12.5.0/themes/dark-unica.051d1tjy4j.js": "sha256-BCwqxICOvFlSyRv0XAtwcpWJ9qbCPYsGk1TMQB3pkck=",
+    "./ext/Highcharts-12.5.0/themes/dark-unica.js": "sha256-BCwqxICOvFlSyRv0XAtwcpWJ9qbCPYsGk1TMQB3pkck=",
+    "./ext/Highcharts-12.5.0/themes/gray.5xtgygioe8.js": "sha256-eb0AOwC0xrJzOtWWnW0lxbdPX4M7eUU4YhyC2yi5nhk=",
+    "./ext/Highcharts-12.5.0/themes/gray.js": "sha256-eb0AOwC0xrJzOtWWnW0lxbdPX4M7eUU4YhyC2yi5nhk=",
+    "./ext/Highcharts-12.5.0/themes/grid-light.207hz6p3wa.js": "sha256-smjIvwCGBCd8zjEsrOqdDQcGxIz7WWsbnfaG19zMR2U=",
+    "./ext/Highcharts-12.5.0/themes/grid-light.js": "sha256-smjIvwCGBCd8zjEsrOqdDQcGxIz7WWsbnfaG19zMR2U=",
+    "./ext/Highcharts-12.5.0/themes/grid.7lzsp4w6z7.js": "sha256-K2xm9mTJbyYeTjRZzo9UICmLejdQBJjAr2PyfRz+ANE=",
+    "./ext/Highcharts-12.5.0/themes/grid.js": "sha256-K2xm9mTJbyYeTjRZzo9UICmLejdQBJjAr2PyfRz+ANE=",
+    "./ext/Highcharts-12.5.0/themes/high-contrast-dark.fziet30ax9.js": "sha256-mwA1BF667NwDPF2YdmTCQirH+jqaaY8akDu0EOYlYtc=",
+    "./ext/Highcharts-12.5.0/themes/high-contrast-dark.js": "sha256-mwA1BF667NwDPF2YdmTCQirH+jqaaY8akDu0EOYlYtc=",
+    "./ext/Highcharts-12.5.0/themes/high-contrast-light.e8l9l13kok.js": "sha256-QiOSr453TXviLsMyYkE+s7ahydnTSHDhkyweJizBOJg=",
+    "./ext/Highcharts-12.5.0/themes/high-contrast-light.js": "sha256-QiOSr453TXviLsMyYkE+s7ahydnTSHDhkyweJizBOJg=",
+    "./ext/Highcharts-12.5.0/themes/sand-signika.5fu53vloec.js": "sha256-v8fkehxNYHixE7Q68HBjZvkqTo84skIf0v2bXOQansY=",
+    "./ext/Highcharts-12.5.0/themes/sand-signika.js": "sha256-v8fkehxNYHixE7Q68HBjZvkqTo84skIf0v2bXOQansY=",
+    "./ext/Highcharts-12.5.0/themes/skies.js": "sha256-tjdeINOnmnfbiYY4QLvtdwUiN/tgt3hGl0dW7rjWtZw=",
+    "./ext/Highcharts-12.5.0/themes/skies.yej41ragz6.js": "sha256-tjdeINOnmnfbiYY4QLvtdwUiN/tgt3hGl0dW7rjWtZw=",
+    "./ext/Highcharts-12.5.0/themes/sunset.js": "sha256-EM+1GyfOwWjeXbftqh9IrZ+FfNW8ORJM5/190yJsUrM=",
+    "./ext/Highcharts-12.5.0/themes/sunset.oy9qs4xh0n.js": "sha256-EM+1GyfOwWjeXbftqh9IrZ+FfNW8ORJM5/190yJsUrM=",
+    "./ext/Leaflet/1.9.4/leaflet.05nq1rlf98.js": "sha256-pPRm0TnsdtJGt4l5slEo0J7jN87b0QzaAA803rsEb5s=",
+    "./ext/Leaflet/1.9.4/leaflet.js": "sha256-pPRm0TnsdtJGt4l5slEo0J7jN87b0QzaAA803rsEb5s=",
+    "./ext/OpenLayers/10.9.0/ol.js": "sha256-PhFCxBUI1K6sdE7cM3q2Uj+y1bVA02W3p4ZlUvkCAWk=",
+    "./ext/OpenLayers/10.9.0/ol.u5rp90bhd4.js": "sha256-PhFCxBUI1K6sdE7cM3q2Uj+y1bVA02W3p4ZlUvkCAWk=",
+    "./ext/Quill/2.0.3/quill.5yi6feap8f.js": "sha256-kxPnPUFAjzKAi59+ypxr4udYrz0OuQ0XD0cNrBJ6Uuk=",
+    "./ext/Quill/2.0.3/quill.js": "sha256-kxPnPUFAjzKAi59+ypxr4udYrz0OuQ0XD0cNrBJ6Uuk=",
+    "./ext/bootstrap/5.3.7/js/bootstrap.bundle.min.i7egg6e3oe.js": "sha256-7jOj9yxask5g0bFZ6b+OB+UhY8EIqO43R3ikqrBs4oI=",
+    "./ext/bootstrap/5.3.7/js/bootstrap.bundle.min.js": "sha256-7jOj9yxask5g0bFZ6b+OB+UhY8EIqO43R3ikqrBs4oI=",
+    "./ext/jquery-ui/1.13.2/jquery-ui.min.js": "sha256-nZt15r+ZKW93l+0S9zE39Slm27AhgP8FTGwBaAx72x0=",
+    "./ext/jquery-ui/1.13.2/jquery-ui.min.twcxw3lu28.js": "sha256-nZt15r+ZKW93l+0S9zE39Slm27AhgP8FTGwBaAx72x0=",
+    "./ext/jquery/3.7.1/jquery.min.js": "sha256-eqaw4I9IoPldjffqieTL/h7z0ejA9zc/fyXt+05KMl4=",
+    "./ext/jquery/3.7.1/jquery.min.m9qm4tazc0.js": "sha256-eqaw4I9IoPldjffqieTL/h7z0ejA9zc/fyXt+05KMl4=",
+    "./ext/pdf-js/v2/build/pdf.4tgtvtyqay.mjs": "sha256-WK140gfwEzQWEszLH19QlS/StfEDRE4DvMsbemfxhVM=",
+    "./ext/pdf-js/v2/build/pdf.mjs": "sha256-WK140gfwEzQWEszLH19QlS/StfEDRE4DvMsbemfxhVM=",
+    "./ext/pdf-js/v2/build/pdf.sandbox.1w2lz77oxc.mjs": "sha256-Hw+lpgl6lE64L1Gqnl+2ahDuG813SE3xk5ALA8KgX/s=",
+    "./ext/pdf-js/v2/build/pdf.sandbox.mjs": "sha256-Hw+lpgl6lE64L1Gqnl+2ahDuG813SE3xk5ALA8KgX/s=",
+    "./ext/pdf-js/v2/build/pdf.worker.jq0z8kje8n.mjs": "sha256-e3bkikggIUBmXm6gfHaE8v+VRYB2Gu8slbbckSq6pIk=",
+    "./ext/pdf-js/v2/build/pdf.worker.mjs": "sha256-e3bkikggIUBmXm6gfHaE8v+VRYB2Gu8slbbckSq6pIk=",
+    "./ext/pdf-js/v2/web/ssy_customizations.hu9kjm4jwj.mjs": "sha256-2Xm2BPWLdLx3HtyV9JZ3at3vdtIx3ErjxGAYwY3fZX0=",
+    "./ext/pdf-js/v2/web/ssy_customizations.mjs": "sha256-2Xm2BPWLdLx3HtyV9JZ3at3vdtIx3ErjxGAYwY3fZX0=",
+    "./ext/pdf-js/v2/web/ssy_customizations_utils.dvtol9pdvv.js": "sha256-x4lXQZ1T7w3lLCWieeg2VJK3N7cNuXxeyGcYYpKDcrg=",
+    "./ext/pdf-js/v2/web/ssy_customizations_utils.js": "sha256-x4lXQZ1T7w3lLCWieeg2VJK3N7cNuXxeyGcYYpKDcrg=",
+    "./ext/pdf-js/v2/web/viewer.lzuz3fna7a.mjs": "sha256-XwmyJIztQTe/uHBBr/aCYdM0Cuvet6i/Mu7HER1wy2c=",
+    "./ext/pdf-js/v2/web/viewer.mjs": "sha256-XwmyJIztQTe/uHBBr/aCYdM0Cuvet6i/Mu7HER1wy2c=",
+    "./ext/pdf-js/v2/web/wasm/openjpeg_nowasm_fallback.ar19ja4r4k.js": "sha256-JsyYAvcU634VLJqLFr5hIyadXl08Ct81JXW8oJJaNnk=",
+    "./ext/pdf-js/v2/web/wasm/openjpeg_nowasm_fallback.js": "sha256-JsyYAvcU634VLJqLFr5hIyadXl08Ct81JXW8oJJaNnk=",
+    "./ext/sortablejs/1.15.6/Sortable.min.js": "sha256-be4aSxxLFxX6em90WVwHJD+IsNmvd+wd13TH6DJbgGA=",
+    "./ext/sortablejs/1.15.6/Sortable.min.n39if9i3yn.js": "sha256-be4aSxxLFxX6em90WVwHJD+IsNmvd+wd13TH6DJbgGA=",
+    "./js/BlazorNegotiateIntercept.bjf0huxip2.js": "sha256-WTjq2bdqw4bzCED1sCelFdgKI/8v30M1ctMKogdN+MM=",
+    "./js/BlazorNegotiateIntercept.js": "sha256-WTjq2bdqw4bzCED1sCelFdgKI/8v30M1ctMKogdN+MM=",
+    "./js/arrow-table.7abv7lwjw3.js": "sha256-IRoKreuUGaujrQKmbC59KuBqyKrU5F0N4UUQqS1dHhM=",
+    "./js/arrow-table.js": "sha256-IRoKreuUGaujrQKmbC59KuBqyKrU5F0N4UUQqS1dHhM=",
+    "./js/pushNotifications.3o6totqbfm.js": "sha256-/SzksTff3CDjRRoW6LG+SJkvAuy3l03/QBS9zl+D0ps=",
+    "./js/pushNotifications.js": "sha256-/SzksTff3CDjRRoW6LG+SJkvAuy3l03/QBS9zl+D0ps=",
+    "./js/reportBuilder.js": "sha256-5kcc5boHDhIMIYVn3cOS4SaFiyBZgfLyFmxbaBEi3Ko=",
+    "./js/reportBuilder.uiwdauecdi.js": "sha256-5kcc5boHDhIMIYVn3cOS4SaFiyBZgfLyFmxbaBEi3Ko=",
+    "./js/ssyGeneral.avbliolwq5.js": "sha256-qs5B2aQ92bSO3iL5o5SsYgik5Avk4PIoLlNy7LpAIL8=",
+    "./js/ssyGeneral.js": "sha256-qs5B2aQ92bSO3iL5o5SsYgik5Avk4PIoLlNy7LpAIL8=",
+    "./js/ssyLibReady.h6fi296v6y.js": "sha256-WUOiaoMcg+MSe4fs4hXXOItxcxp1SKTwnCDClZvN3Ak=",
+    "./js/ssyLibReady.js": "sha256-WUOiaoMcg+MSe4fs4hXXOItxcxp1SKTwnCDClZvN3Ak=",
+    "./service-worker.hbjasc31jv.js": "sha256-s8PADjMsjFih3f0i2mfdT+jO3rf7loEakMC+bV2nfcE=",
+    "./service-worker.js": "sha256-s8PADjMsjFih3f0i2mfdT+jO3rf7loEakMC+bV2nfcE=",
+    "./service-worker.published.js": "sha256-9V5sOd1uFEccVm84BR3avcQVwhmvZ4nZs+VAR553WQc=",
+    "./service-worker.published.x95lh41shs.js": "sha256-9V5sOd1uFEccVm84BR3avcQVwhmvZ4nZs+VAR553WQc="
+  }
+}</script>
+
+    </head>
+
+<body><main class="login-main" style="background-size: cover;background-image: url(&#x27;https://ssywebcontent.blob.core.windows.net/$web/Background_Images/Desktop/shutterstock_2199495509.webp&#x27;);" b-adcvj360dr><div class b-adcvj360dr><div class="d-flex flex-column justify-content-center align-items-sm-end align-items-center" style="min-height: calc(100vh - 1.5rem);" b-adcvj360dr><article class="login-form m-sm-5 m-1 p-4" b-adcvj360dr><a class href="https://www.ssyglobal.com/" target="_blank" title="Back to ssyglobal.com" b-adcvj360dr><img class style="width: 200px;margin-bottom: 1rem;" src="/assets/Logo/SSYLogo_Long_Blue.svg" alt="SSY Logo" b-adcvj360dr></a>
+                            <div b-adcvj360dr><section><h1>Navigator Login</h1>
+    
+    <form method="post" action="/Account/Login"><input type="hidden" name="_handler" value="login" /><input type="hidden" name="__RequestVerificationToken" value="CfDJ8EvPv7Ua-ZlKstFIKVwqjzlPDKx-9vTb3Tg5LsvRbCqroZumWy7kIk2XOTgvD3v7PSgRQNqyu2Hiemw3qlPJiCshdaZ0t98v9Y1Zr4y5zow9AUBf41ASZI99JStNT8pUceEMaxXViTv_utjsjfbOV5c" />
+        <div class="form-floating mb-3"><input id="email" autocomplete="username" aria-required="true" placeholder="name@example.com" name="Input.Email" class="form-control valid" value="" />
+            <label for="email" class="form-label">Email</label>
+            </div>
+        <div class="form-floating mb-3"><input id="password" type="password" autocomplete="current-password" aria-required="true" placeholder="password" name="Input.Password" class="form-control valid" value="" />
+            <label for="password" class="form-label">Password</label>
+            </div>
+        <div class="checkbox mb-3"><label class="form-label" style="margin: 0;font-size: 1rem;"><input style="margin:0; width: 20px; height: 20px" type="checkbox" name="Input.RememberMe" class="darker-border-checkbox form-check-input valid" value="True" />
+                Remember me
+            </label></div>
+        <div class="d-flex flex-column align-items-center"><button type="submit" class="w-50 btn btn-lg btn-info mb-4">Login</button>
+            <a class="w-75 btn btn-lg ssy-btn-white mb-3" title="Change your password using your Email" href="/Account/ForgotPassword">Forgot your password?</a>
+            <a class="w-75 btn btn-lg ssy-btn-white mb-3" title="Request Access to the Navigator Portal" href="Account/Register">Request Access</a>
+            <a class="w-75 mb-1 mt-2 text-center text-decoration-none" style="color: #000061;" title="Internal SSY Navigator Login" href="https://internal.navigator.ssyglobal.com">SSY Staff Login</a></div></form></section></div></article></div><aside class="marquee" b-adcvj360dr><ul b-adcvj360dr><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-8th-september-2026" b-adcvj360dr>SSY Weekly Technical Analysis &amp;#8211; 8th September 2026 (08 Sep 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-1st-september-2026" b-adcvj360dr>SSY Weekly Technical Analysis &amp;#8211; 1st September 2026 (01 Sep 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/chinas-cleaner-aluminium-production-is-also-its-most-exposed" b-adcvj360dr>Cleaner Grid, Bigger Risk: China&amp;#8217;s Aluminium Test (26 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-25th-august-2026" b-adcvj360dr>SSY Weekly Technical Analysis &amp;#8211; 25th August 2026 (25 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-18th-august-2026" b-adcvj360dr>SSY Weekly Technical Analysis &amp;#8211; 18th August 2026 (18 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/news/sk-shipping-boosts-lng-fleet-as-global-energy-concerns-grow" b-adcvj360dr>SK Shipping boosts LNG fleet as global energy concerns grow (14 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/news/ssy-highlights-growing-vloc-dominance-in-simandou-trade" b-adcvj360dr>Growing VLOC Dominance in Simandou Trade (14 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/news/ssy-sees-alternative-routes-falling-short-of-grain-export-gap" b-adcvj360dr>SSY sees Alternative Routes Falling Short of Grain Export Gap (14 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-11th-august-2026" b-adcvj360dr>SSY Weekly Technical Analysis &amp;#8211; 11th August 2026 (11 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/schrodingers-hormuz" b-adcvj360dr>Schrodinger&#x2019;s Hormuz (05 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-04th-august-2026" b-adcvj360dr>SSY Weekly Technical Analysis &amp;#8211; 4th August 2026 (04 Aug 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-update-28th-july-2026" b-adcvj360dr>SSY Weekly Technical Analysis Update &amp;#8211; 28th July 2026 (28 Jul 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/caustic-soda-and-the-chemical-tanker-market-in-2h-2026" b-adcvj360dr>Caustic Soda and the Chemical Tanker Market in H2 2026 (22 Jul 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssys-weekly-technical-analysis-update-21st-july-2026" b-adcvj360dr>SSY&amp;#8217;s Weekly Technical Analysis Update &amp;#8211; 21st July 2026 (21 Jul 2026)</a></li><li b-adcvj360dr><a target="_blank" href="https://www.ssyglobal.com/news/research/ssy-weekly-technical-analysis-update-14th-july-2026" b-adcvj360dr>SSY Weekly Technical Analysis Update &amp;#8211; 14th July 2026 (14 Jul 2026)</a></li></ul></aside></div></main>
+    <script type="module" src="Components/Layout/ReconnectModal.ugbu8cli4r.razor.js" b-5idsysqoo6></script>
+
+<dialog id="components-reconnect-modal" data-nosnippet b-5idsysqoo6><div class="components-reconnect-container" b-5idsysqoo6><image src="../assets/Logo/SSYLogo_2Line_Blue_S.png" style="width:120px;margin-top:9px;" b-5idsysqoo6></image>
+        <div b-5idsysqoo6><b b-5idsysqoo6>SSY Navigator</b></div>
+        <div class="components-rejoining-animation" aria-hidden="true" b-5idsysqoo6><div b-5idsysqoo6></div>
+            <div b-5idsysqoo6></div></div>
+        <p class="components-reconnect-first-attempt-visible" b-5idsysqoo6>
+            Rejoining the server...
+        </p>
+        <p class="components-reconnect-repeated-attempt-visible" b-5idsysqoo6>
+            Rejoin failed... trying again in<br b-5idsysqoo6><span id="components-seconds-to-next-attempt" b-5idsysqoo6></span> seconds.
+        </p>
+        <p class="components-reconnect-failed-visible" b-5idsysqoo6>
+            Failed to rejoin.<br b-5idsysqoo6>
+            Please hard refresh the page (<b b-5idsysqoo6>Ctrl+F5</b>).
+        </p>
+        <button id="components-reconnect-button" class="components-reconnect-failed-visible" b-5idsysqoo6>
+            Retry
+        </button>
+        <p class="components-pause-visible" b-5idsysqoo6>
+            A connection has been established.<br b-5idsysqoo6>Please click this button if your browser does not refresh automatically.
+        </p>
+        <button id="components-resume-button" class="components-pause-visible" b-5idsysqoo6>
+            Resume
+        </button>
+        <p class="components-resume-failed-visible" b-5idsysqoo6>
+            SSY Navigator should reconnect automatically.<br b-5idsysqoo6><br b-5idsysqoo6>
+            <span style="font-size:0.8rem;color:grey;" b-5idsysqoo6>Please reload the page if your browser does not reconnect to SSY Navigator within a few seconds after this message appears.</span></p></div></dialog>
+
+    <script src="_framework/blazor.web.wyu7y4jcvb.js" autostart="false"></script>
+    <script>
+        // WARNING: anything that throws in here stops the circuit from ever starting, and the app
+        // is then permanently blank - prerendered HTML and nothing else. So everything is
+        // feature-detected and wrapped.
+        //
+        // The previous version of this block wrapped builder.build() and set
+        // `connection.connection.options.timeout = 30_000` to cap the /negotiate HTTP request.
+        // That property does not exist on the SignalR client bundled into blazor.web.js: it threw
+        // "Cannot set properties of undefined (setting 'timeout')" inside build(), which took
+        // startConnection() -> Blazor.start() down with it. It went unnoticed for as long as it did
+        // because the call used to sit ABOVE the blazor.web.js script tag, where window.Blazor did
+        // not exist yet and `window.Blazor?.start(...)` silently did nothing at all.
+        //
+        // Only the public HubConnectionBuilder API is used now. The negotiate request is bounded
+        // server-side instead, by .WithRequestTimeout("BlazorNegotiate") in Program.cs.
+        (function () {
+            Blazor.start({
+                circuit: {
+                    //    reconnectHandler: {
+                    //                onConnectionDown: () => console.log("Connection lost"),
+                    //                onConnectionUp: () => console.log("Reconnected"),
+                    //                onConnectionFailed: () => location.reload()
+                    //            }
+                    configureSignalR: builder => {
+                        try {
+                            // Mirror the server's HubOptions in Program.cs so the two ends agree:
+                            // ClientTimeoutInterval 30s, KeepAliveInterval 15s. These match the
+                            // client defaults today - they are set explicitly so that changing the
+                            // server values without changing these is an obvious omission.
+                            if (typeof builder.withServerTimeout === 'function') {
+                                builder.withServerTimeout(30000);
+                            }
+                            if (typeof builder.withKeepAliveInterval === 'function') {
+                                builder.withKeepAliveInterval(15000);
+                            }
+                        } catch (e) {
+                            // Never let connection tuning cost us the connection.
+                            console.warn('configureSignalR skipped:', e);
+                        }
+                    }
+                }
+            }).catch(e => console.error('Blazor.start failed - the circuit will not come up:', e));
+        })();
+    </script>
+
+    <script src="ext/bootstrap/5.3.7/js/bootstrap.bundle.min.i7egg6e3oe.js"></script>
+    <script src="_content/Blazor.Bootstrap/blazor.bootstrap.5c2gp224fj.js"></script>
+
+
+    <script defer src="ext/jquery/3.7.1/jquery.min.m9qm4tazc0.js"></script>
+    <script defer src="ext/jquery-ui/1.13.2/jquery-ui.min.twcxw3lu28.js"></script>
+    <script defer src="js/arrow-table.7abv7lwjw3.js"></script>
+    <script defer src="js/ssyGeneral.avbliolwq5.js"></script>
+
+    <script defer src="ext/sortablejs/1.15.6/Sortable.min.n39if9i3yn.js"></script>
+
+    <script defer src="ext/Highcharts-12.5.0/highcharts.d5etuz02ij.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/highcharts-more.v8vha3skwo.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/stock.632x02z4up.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/xrange.ezl7vlqotb.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/exporting.rqld3zoc9e.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/export-data.tbvs6132vd.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/offline-exporting.k5ndnj0p13.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/accessibility.ftj3jg8u9q.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/treemap.w44ov9kvvz.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/heatmap.h65m6dtv7l.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/sankey.q3wybvotge.js"></script>
+
+    <script defer src="ext/Highcharts-12.5.0/indicators/indicators-all.vkasas2k77.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/drag-panes.o2rtbfmy15.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/annotations-advanced.xixnkoxd84.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/full-screen.byw037wwf2.js"></script>
+    <script defer src="ext/Highcharts-12.5.0/modules/stock-tools.ukm8jswa05.js"></script>
+
+    
+    <script defer src="ext/HTML2Canvas/html2canvas.vcxv5nfao7.js"></script><script>        if (typeof navigator.serviceWorker !== 'undefined' && location.hostname !== "localhost") {
+            navigator.serviceWorker.register("service-worker.js", {updateViaCache: 'none'}); // added PWA support - used to send notifications
+        }
+    </script>
+    <script src="js/pushNotifications.3o6totqbfm.js"></script>
+    
+    </body></html><!--Blazor-Server-Component-State:CfDJ8EvPv7Ua+ZlKstFIKVwqjznOUEvMth+2Uz66CHuq0PoDvFziIzI/smpYxHh4HZNHMK+bqMBOF5U8lN1yzhfWUb2FkMHwJRXuqogH82YJ2riN7fXrjhLPYfmOYFTDy8g4rjiNDHeJCUGlHW3iDXU9IWA6bZEpA1k+h3/RqAHQmr7XNr/OQe1CvDmmHO1P/3FcvXUcbbX0+PiXeKT/u8zz/z7IEMudID3ZoI841m9txW0i79HNH6numFqP1IZgAs5hgi4B/42ZDKg/QKXGK4Vf9SEzWV+h4RhbKoQdRlZe1PLzOFYmfDt9a07O1XjVNHY/iNzO9IXVknmXRTkFp96E/qdvQIddHtCg/STBYYVTg2yk3OWTERFxOwroeonrXXQJ9ssT/ZyoAu//wc1Xvlv2lTw3g6XZiaXuBmmPzVgRBKQDChaBEqVIRnAyTP9fPV27sQ9biKUrcBXpxg3UF2H+zLoquaViLcatQJpyeNPvzzxgmw4+e1I+VYtJHg+Oq0bXajWhWhKPbq6zhOayfz2AC6fFu2fiSJxGLZPhQVXmv5PrFIPMvujVGylml+Hf9Ze10+Q4l8Od+lk0jrcb+fSVGEOc3N9EK0JxOQGtSSuxq0GB/Tfp9NnIR4//jSt7Yx6WGOmZaAHHagiOOp6CrOrxR/4EfcBeQNdmaLIEjP5ocPEe9Fe9noh+BLIDE05pwmM/j3/PnZL7DrESCFcI/Spk3rE38RfIO2GSMRVIi07/eWlOJ4pG1yEoKelLNLQ5Pb8mdgYUXPkrmFWjruw7UafWP89AhK0H60a0Ma3I1o6bfRdXxiaynW2N6S8ng6heAJITgDYU+dlf1mHpznIFwCg4CNZZGXmZ2w0pfganFqsaJ88783ywtebG+KRmE0dhivPcEPEvsSNqfED03d2qOisPQfVyYJ/3emqWDvOMbZNMhgtf3jpdwFSZj1A+lyYzCy1Nnh+BMd+dv/7VnLjZABQGSM9eIow5o+7u40frdSLLOfl5WjvAsXH2JaDjW77VESbuwM8jxBsKdV9hOjwnrHCCHvp5xJTjiJo2/F7Tt5CA0pW5XyKEda1oUqrM8OCEe5tMBfACsum+FpBIN6goPcoYwND2Fl7KYc387G6pi3m5HXJ4V5+6ZPIPaVB9wrwv/x+oLg==-->

@@ -103,6 +103,24 @@ def identify_broker(title, text):
         return "optimaship"
     elif "anchor" in t_lower:
         return "anchor_shipbroking"
+    elif "fearnleys" in t_lower or "fearnley" in t_lower:
+        return "fearnleys"
+    elif "ssy" in t_lower or "simpson spence" in t_lower:
+        return "ssy"
+    elif "affinity" in t_lower:
+        return "affinity"
+    elif "gibson" in t_lower:
+        return "gibson"
+    elif "golden destiny" in t_lower:
+        return "golden_destiny"
+    elif "star asia" in t_lower:
+        return "star_asia"
+    elif "agora" in t_lower:
+        return "agora"
+    elif "ism" in t_lower or "intership" in t_lower:
+        return "ism"
+    elif "clarksons" in t_lower or "clarkson" in t_lower:
+        return "clarksons"
     return "general_broker"
 
 def process_article(article_url, title, date_str):
@@ -118,6 +136,7 @@ def process_article(article_url, title, date_str):
         
         extracted_text = ""
         pdf_source_url = ""
+        pdf_bytes = None
         if pdf_links:
             pdf_url = pdf_links[0]
             pdf_source_url = pdf_url
@@ -138,6 +157,19 @@ def process_article(article_url, title, date_str):
         
         slug = re.sub(r'[^a-zA-Z0-9_\-]+', '_', f"{broker}_{date_str}_{title}"[:80]).strip('_').lower()
         
+        # Persist raw unprocessed PDF to reports/shipbrokers/
+        local_pdf_path = ""
+        if pdf_bytes:
+            try:
+                raw_pdf_dir = REPO_ROOT / "reports" / "shipbrokers" / broker / year
+                raw_pdf_dir.mkdir(parents=True, exist_ok=True)
+                pdf_target = raw_pdf_dir / f"{slug}.pdf"
+                if not pdf_target.exists():
+                    pdf_target.write_bytes(pdf_bytes)
+                local_pdf_path = str(pdf_target.relative_to(REPO_ROOT)).replace("\\", "/")
+            except Exception as pe:
+                print(f"    [!] Failed saving raw PDF {slug}: {pe}")
+        
         out_year_dir = OUTPUT_DIR / year
         out_year_dir.mkdir(parents=True, exist_ok=True)
         out_file = out_year_dir / f"{slug}.md"
@@ -149,6 +181,7 @@ source: "{broker}"
 category: "broker_report"
 source_url: "{article_url}"
 pdf_url: "{pdf_source_url}"
+raw_pdf_path: "{local_pdf_path}"
 ---
 
 # {title}

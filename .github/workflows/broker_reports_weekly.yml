@@ -47,10 +47,11 @@ jobs:
           PAGES="${{ github.event.inputs.pages || '5' }}"
           python scripts/scrapers/fetch_hsn_shipbrokers.py "$PAGES"
           python scripts/update_intermodal_tc_rates.py
+          python scripts/scrapers/fetch_gibson_weekly.py || true
 
       - name: Commit & Push New Broker Reports
         run: |
-          git add reports/broker_reports/ data/derived/intermodal_tc_rates.csv data/derived/broker_reports_checkpoint.json || true
+          git add reports/broker_reports/ data/derived/intermodal_tc_rates.csv data/derived/broker_reports_checkpoint.json data/clarksons/ || true
           if git diff --staged --quiet; then
             echo "No new broker reports found."
             exit 0

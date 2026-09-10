@@ -123,8 +123,79 @@ def scrape_see_capital_index(code):
         print(f"Error scraping SeeCapitalMarkets for {code}: {e}")
     return pd.DataFrame()
 
+BALTIC_TICKER_URL = "https://blacksun-api.balticexchange.com/api/ticker"
+BALTIC_CODE_MAP = {
+    'BDI': 'BDI',
+    'BCI': 'BCI',
+    'BPI': 'BPI',
+    'BSI': 'BSI',
+    'BHI': 'BHSI',
+    'BDTI': 'BDTI',
+    'BCTI': 'BCTI',
+}
+_BALTIC_TICKER_CACHE = None
+
+def fetch_baltic_ticker_payload():
+    """Fetch and cache Baltic Exchange ticker JSON payload across index calls"""
+    global _BALTIC_TICKER_CACHE
+    if _BALTIC_TICKER_CACHE is not None:
+        return _BALTIC_TICKER_CACHE
+    headers = {
+        'Accept': 'application/json',
+        'Origin': 'https://www.balticexchange.com',
+        'Referer': 'https://www.balticexchange.com/',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+    }
+    try:
+        r = _SESSION.get(BALTIC_TICKER_URL, headers=headers, timeout=20)
+        if r.status_code == 200:
+            _BALTIC_TICKER_CACHE = r.json()
+            return _BALTIC_TICKER_CACHE
+    except Exception as e:
+        print(f"Notice: Baltic Exchange ticker fetch encountered: {e}")
+    return []
+
+def scrape_baltic_index(code):
+    """Fetch current and previous index prints from official Baltic Exchange ticker"""
+    baltic_code = BALTIC_CODE_MAP.get(code)
+    if not baltic_code:
+        return pd.DataFrame()
+    payload = fetch_baltic_ticker_payload()
+    records = []
+    for item in payload:
+        name = (item.get("indexDataSetName") or "").strip()
+        if name != baltic_code:
+            continue
+        curr = item.get("current") or {}
+        prev = item.get("previous") or {}
+        curr_val = curr.get("value")
+        prev_val = prev.get("value")
+        curr_dt = (curr.get("indexDate") or "")[:10]
+        prev_dt = (prev.get("indexDate") or "")[:10]
+
+        if prev_dt and prev_val is not None and float(prev_val) > 0:
+            records.append({
+                'Date': prev_dt,
+                'Index': float(prev_val),
+                '% Change': ''
+            })
+
+        if curr_dt and curr_val is not None and float(curr_val) > 0:
+            chg_str = ''
+            if prev_val is not None and float(prev_val) > 0:
+                pct = ((float(curr_val) - float(prev_val)) / float(prev_val)) * 100
+                chg_str = f"{pct:+.2f}%"
+            records.append({
+                'Date': curr_dt,
+                'Index': float(curr_val),
+                '% Change': chg_str
+            })
+    if not records:
+        return pd.DataFrame()
+    return pd.DataFrame(records).drop_duplicates(subset=['Date'], keep='last')
+
 def scrape_index(code):
-    """Scrape data from stockq.org with SeeCapitalMarkets fallback for one index"""
+    """Scrape data from stockq.org, Baltic Exchange official API, and SeeCapitalMarkets"""
     data = []
     # 1. Try stockq.org
     try:
@@ -160,17 +231,19 @@ def scrape_index(code):
 
     df_sq = pd.DataFrame(data)
 
-    # 2. Query SeeCapitalMarkets for redundancy and gap filling
+    # 2. Query official Baltic Exchange API (authoritative source)
+    df_baltic = scrape_baltic_index(code)
+
+    # 3. Query SeeCapitalMarkets for redundancy and gap filling
     df_see = scrape_see_capital_index(code)
 
-    if not df_sq.empty and not df_see.empty:
-        # Combine both, preferring stockq for identical dates (exact % change string)
-        combined = pd.concat([df_see, df_sq]).drop_duplicates(subset=['Date'], keep='last')
+    sources = [df for df in [df_see, df_sq, df_baltic] if not df.empty]
+    if sources:
+        # Combine all available sources: SeeCapital (baseline) -> StockQ -> Baltic (authoritative latest)
+        combined = pd.concat(sources).dropna(subset=['Date', 'Index'])
+        # Drop duplicates on Date, keeping last source priority
+        combined = combined.drop_duplicates(subset=['Date'], keep='last')
         return combined.sort_values('Date').reset_index(drop=True)
-    elif not df_sq.empty:
-        return df_sq.drop_duplicates(subset=['Date']).sort_values('Date').reset_index(drop=True)
-    elif not df_see.empty:
-        return df_see.drop_duplicates(subset=['Date']).sort_values('Date').reset_index(drop=True)
     else:
         print(f"Error: All sources failed for index {code}")
         return pd.DataFrame()

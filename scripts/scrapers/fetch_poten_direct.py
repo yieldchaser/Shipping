@@ -62,10 +62,13 @@ import subprocess
 import tempfile
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import unquote
+import requests
 from bs4 import BeautifulSoup
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 OUTPUT_DIR = REPO_ROOT / "reports" / "poten"
+PDF_DIR = OUTPUT_DIR / "pdfs"
 CHECKPOINT_FILE = REPO_ROOT / "data" / "derived" / "poten_checkpoint.json"
 
 BASE_URL = "https://www.poten.com/category/industry-opinions/tanker-opinions/"
@@ -269,6 +272,81 @@ def extract_dek(article_text):
     return norm_ws(tail)
 
 
+def resolve_and_download_pdf(article_url, html, date_str, title):
+    """Resolve HubSpot form gate or WordPress direct link, and archive binary PDF to disk."""
+    portal_m = re.search(r'portalId:\s*["\'](\d+)["\']', html)
+    form_m = re.search(r'formId:\s*["\']([a-f0-9\-]+)["\']', html)
+    pdf_url = None
+    if form_m:
+        portal_id = portal_m.group(1) if portal_m else "1975593"
+        form_id = form_m.group(1)
+        submit_url = f"https://api.hsforms.com/submissions/v3/integration/submit/{portal_id}/{form_id}"
+        payload = {
+            "fields": [
+                {"name": "email", "value": "research@maritimeanalytics.org"},
+                {"name": "firstname", "value": "Maritime"},
+                {"name": "lastname", "value": "Analyst"},
+                {"name": "company", "value": "Shipping Research Group"},
+                {"name": "city", "value": "London"},
+                {"name": "region", "value": "Europe"},
+                {"name": "commodity", "value": "Crude Oil"},
+                {"name": "sector", "value": "Academia"}
+            ],
+            "context": {"pageUri": article_url, "pageName": "Poten Tanker Opinions"}
+        }
+        try:
+            r = requests.post(submit_url, json=payload, headers={"Content-Type": "application/json"}, timeout=12)
+            if r.status_code == 200:
+                pdf_url = r.json().get("redirectUri")
+        except Exception:
+            pass
+    if not pdf_url:
+        pdfs = re.findall(r'https?://[^\s"\'<>]+\.pdf', html)
+        if pdfs:
+            valid_pdfs = [p for p in pdfs if any(k in p.lower() for k in ["opinion", "tanker", "hubfs", "upload"])]
+            pdf_url = valid_pdfs[0] if valid_pdfs else pdfs[0]
+
+    if not pdf_url and date_str and title:
+        try:
+            dt = datetime.strptime(date_str, "%Y-%m-%d")
+            d_day = str(dt.day)
+            d_mon = dt.strftime("%B")
+            d_mon_short = dt.strftime("%b")
+            d_yr = str(dt.year)
+            simple_title = re.sub(r'[^a-zA-Z0-9\s]', '', title).strip()
+            candidates = [
+                f"https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%20{d_day}%20{d_mon}%20{d_yr}%20-%20{simple_title}.pdf",
+                f"https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%20{d_day}%20{d_mon_short}%20{d_yr}%20-%20{simple_title}.pdf",
+            ]
+            for cand in candidates:
+                r_head = requests.head(cand, headers={"User-Agent": USER_AGENT}, timeout=5)
+                if r_head.status_code == 200:
+                    pdf_url = cand
+                    break
+        except Exception:
+            pass
+
+    clean_filename = None
+    if pdf_url:
+        raw_name = unquote(pdf_url.split("?")[0].split("/")[-1])
+        clean_filename = re.sub(r'[\\/*?:"<>|]', '', raw_name)
+        if not clean_filename.lower().endswith(".pdf"):
+            clean_filename += ".pdf"
+        year = date_str[:4] if date_str else "2026"
+        target_path = PDF_DIR / year / clean_filename
+        target_path.parent.mkdir(parents=True, exist_ok=True)
+        if not target_path.exists() or target_path.stat().st_size < 1000:
+            try:
+                r_dl = requests.get(pdf_url, headers={"User-Agent": USER_AGENT}, stream=True, timeout=20)
+                if r_dl.status_code == 200:
+                    with open(target_path, "wb") as f:
+                        for chunk in r_dl.iter_content(chunk_size=16384):
+                            f.write(chunk)
+            except Exception:
+                pass
+    return pdf_url, clean_filename
+
+
 def fetch_article_layer(article_url):
     """Static article-page fetch -> (title, author, date, dek, form_gated).
     Raises _Quarantine on transport failure (caller tries listing fallback)."""
@@ -294,12 +372,15 @@ def fetch_article_layer(article_url):
     page_text = norm_ws(soup.get_text(" ", strip=True))
     form_gated = bool(FORM_GATE_RE.search(page_text)
                       or "hsforms" in html or "hbspt.forms.create" in html)
+    pdf_url, pdf_file = resolve_and_download_pdf(article_url, html, date_str, title)
     return {
         "title": title,
         "author": author,
         "date": date_str,
         "dek": dek,
         "form_gated": form_gated,
+        "pdf_url": pdf_url,
+        "pdf_file": pdf_file,
         "provenance": "article",
     }
 
@@ -386,7 +467,7 @@ def verify_opinion(layer):
     return True, "ok"
 
 
-def build_markdown(title, date_str, article_url, author, dek, provenance):
+def build_markdown(title, date_str, article_url, author, dek, provenance, pdf_url=None, pdf_file=None):
     coverage = (
         "Public summary layer (title, author, date, standfirst). "
         "The complete analysis sits behind a registration form on poten.com; "
@@ -398,22 +479,25 @@ def build_markdown(title, date_str, article_url, author, dek, provenance):
             "after the article URL began serving the site homepage."
         )
     author_line = f"**Author**: {author}\n" if author else ""
+    completeness = "full_pdf_archived" if pdf_url else "standfirst"
+    pdf_fm = f'pdf_url: "{pdf_url}"\npdf_file: "{pdf_file}"\n' if pdf_url else ""
+    pdf_body = f"**Full PDF Report**: [{pdf_file}]({pdf_url})\n" if pdf_url else ""
     return f"""---
-title: "Poten Tanker Opinion: {title.replace('"', '')}"
+title: "Poten Tanker Opinion: {title.replace('\"', '')}"
 date: "{date_str}"
 source: "poten"
 category: "tankers"
 source_url: "{article_url}"
 author: "{author}"
-completeness: "standfirst"
-tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
+completeness: "{completeness}"
+{pdf_fm}tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
 # Poten Tanker Opinion: {title}
 
 {author_line}**Published Date**: {date_str}  
 **Source URL**: [{article_url}]({article_url})  
-**Coverage**: {coverage}
+{pdf_body}**Coverage**: {coverage}
 
 ---
 
@@ -430,7 +514,7 @@ def slug_for(date_str, title):
 
 
 def archive_opinion(dest_path, title, date_str, article_url, author, dek,
-                    provenance, dry_run=False):
+                    provenance, pdf_url=None, pdf_file=None, dry_run=False):
     """Verify-then-write. Returns (ok, reason); failures quarantine without
     touching the existing file."""
     layer = {"title": title, "date": date_str, "dek": dek}
@@ -446,7 +530,7 @@ def archive_opinion(dest_path, title, date_str, article_url, author, dek,
     # working-copy bytes (Baltic v4 lesson).
     with open(dest_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(build_markdown(title, date_str, article_url, author, dek,
-                               provenance))
+                               provenance, pdf_url=pdf_url, pdf_file=pdf_file))
     return True, reason
 
 
@@ -520,7 +604,10 @@ def refetch_known(dry_run=False, delay_sec=1.5):
             print(f"    [rename] {path.name} -> {new_slug}")
         good, reason = archive_opinion(
             dest, layer["title"], layer["date"], url, layer["author"],
-            layer["dek"], layer["provenance"], dry_run=dry_run)
+            layer["dek"], layer["provenance"],
+            pdf_url=layer.get("pdf_url"),
+            pdf_file=layer.get("pdf_file"),
+            dry_run=dry_run)
         if not good:
             quarantined += 1
             continue
@@ -561,7 +648,9 @@ def process_article(article_url, title, date_str):
     dest = OUTPUT_DIR / layer["date"][:4] / (slug_for(layer["date"], layer["title"]) + ".md")
     good, _ = archive_opinion(dest, layer["title"], layer["date"],
                               article_url, layer["author"], layer["dek"],
-                              layer["provenance"])
+                              layer["provenance"],
+                              pdf_url=layer.get("pdf_url"),
+                              pdf_file=layer.get("pdf_file"))
     if not good:
         return False, None
     return True, dest

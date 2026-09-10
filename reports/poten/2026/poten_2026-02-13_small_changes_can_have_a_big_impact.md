@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/small-changes-can-have-a-big-impact/"
 author: "Raza Zoya"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2013%20February%202026%20-%20Small%20Changes%20Can%20Have%20A%20Big%20Impact.pdf"
+pdf_file: "Weekly Opinion - 13 February 2026 - Small Changes Can Have A Big Impact.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Raza Zoya
 **Published Date**: 2026-02-13  
 **Source URL**: [https://www.poten.com/small-changes-can-have-a-big-impact/](https://www.poten.com/small-changes-can-have-a-big-impact/)  
+**Full PDF Report**: [Weekly Opinion - 13 February 2026 - Small Changes Can Have A Big Impact.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2013%20February%202026%20-%20Small%20Changes%20Can%20Have%20A%20Big%20Impact.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

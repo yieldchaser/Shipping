@@ -1,0 +1,107 @@
+[
+  {
+    "marketGroupId": 9,
+    "marketChartId": 42,
+    "chartTitle": "Capesize Spot Earnings",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 1,
+    "linkedTs": [
+      {
+        "tsSeriesId": 530828,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 9,
+    "marketChartId": 43,
+    "chartTitle": "1Yr Capesize TC",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 2,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534410,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 9,
+    "marketChartId": 45,
+    "chartTitle": "Capesize 5yr old",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 3,
+    "linkedTs": [
+      {
+        "tsSeriesId": 541372,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 9,
+    "marketChartId": 46,
+    "chartTitle": "Iron Ore Trade",
+    "displayForecastFromYear": 2021,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 4,
+    "linkedTs": [
+      {
+        "tsSeriesId": 98794,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 9,
+    "marketChartId": 47,
+    "chartTitle": "Iron Ore Tonne-Mile Trade",
+    "displayForecastFromYear": 2021,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 5,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534399,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 9,
+    "marketChartId": 155,
+    "chartTitle": "Capesize Fleet Growth",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 6,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534443,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 9,
+    "marketChartId": 156,
+    "chartTitle": "Capesize Orderbook % Fleet",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 7,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534444,
+        "colour": null
+      }
+    ]
+  }
+]

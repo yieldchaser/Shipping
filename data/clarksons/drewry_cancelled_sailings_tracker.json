@@ -1,0 +1,28 @@
+{
+  "assessment_period": "Weeks 37-41 (September - October 2026)",
+  "updated_at": "2026-09-10T09:42:30Z",
+  "alliances": {
+    "Ocean Alliance": {
+      "scheduled_share_pct": 91,
+      "cancelled_share_pct": 9
+    },
+    "THE Alliance / Premier Alliance": {
+      "scheduled_share_pct": 92,
+      "cancelled_share_pct": 8
+    },
+    "2M / MSC Independent": {
+      "scheduled_share_pct": 96,
+      "cancelled_share_pct": 4
+    },
+    "Gemini Cooperation": {
+      "scheduled_share_pct": 99,
+      "cancelled_share_pct": 1
+    },
+    "Non-Alliance / Independent": {
+      "scheduled_share_pct": 92,
+      "cancelled_share_pct": 8
+    }
+  },
+  "total_scheduled_pct": 94,
+  "total_cancelled_pct": 6
+}

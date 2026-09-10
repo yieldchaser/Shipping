@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "source": "Drewry Maritime Research / Ports and Terminals Insight",
+    "name": "Drewry Container Port Throughput Indices",
+    "base_period": "January 2019 = 100",
+    "coverage": "Over 340 global ports (>80% global container volumes)",
+    "frequency": "Monthly",
+    "latest_period": "2026-06"
+  },
+  "series": [
+    {
+      "month": "2024-06",
+      "global_port_throughput_index": 119.4,
+      "greater_china_pt_index": 125.1,
+      "north_america_pt_index": 114.9,
+      "european_pt_index": 107.1
+    },
+    {
+      "month": "2024-07",
+      "global_port_throughput_index": 118.0,
+      "greater_china_pt_index": 122.6,
+      "north_america_pt_index": 115.0,
+      "european_pt_index": 105.9
+    },
+    {
+      "month": "2024-08",
+      "global_port_throughput_index": 118.9,
+      "greater_china_pt_index": 123.6,
+      "north_america_pt_index": 117.5,
+      "european_pt_index": 108.0
+    },
+    {
+      "month": "2024-09",
+      "global_port_throughput_index": 118.8,
+      "greater_china_pt_index": 122.1,
+      "north_america_pt_index": 116.5,
+      "european_pt_index": 107.8
+    },
+    {
+      "month": "2024-10",
+      "global_port_throughput_index": 115.1,
+      "greater_china_pt_index": 115.6,
+      "north_america_pt_index": 113.1,
+      "european_pt_index": 106.8
+    },
+    {
+      "month": "2024-11",
+      "global_port_throughput_index": 117.6,
+      "greater_china_pt_index": 120.3,
+      "north_america_pt_index": 115.5,
+      "european_pt_index": 107.7
+    },
+    {
+      "month": "2024-12",
+      "global_port_throughput_index": 114.7,
+      "greater_china_pt_index": 113.0,
+      "north_america_pt_index": 111.1,
+      "european_pt_index": 101.6
+    },
+    {
+      "month": "2025-01",
+      "global_port_throughput_index": 118.3,
+      "greater_china_pt_index": 124.7,
+      "north_america_pt_index": 112.8,
+      "european_pt_index": 103.8
+    },
+    {
+      "month": "2025-02",
+      "global_port_throughput_index": 116.0,
+      "greater_china_pt_index": 113.2,
+      "north_america_pt_index": 116.2,
+      "european_pt_index": 109.5
+    },
+    {
+      "month": "2025-03",
+      "global_port_throughput_index": 120.4,
+      "greater_china_pt_index": 122.4,
+      "north_america_pt_index": 115.4,
+      "european_pt_index": 110.5
+    },
+    {
+      "month": "2025-04",
+      "global_port_throughput_index": 122.1,
+      "greater_china_pt_index": 125.1,
+      "north_america_pt_index": 118.5,
+      "european_pt_index": 112.1
+    },
+    {
+      "month": "2025-05",
+      "global_port_throughput_index": 122.8,
+      "greater_china_pt_index": 125.0,
+      "north_america_pt_index": 108.4,
+      "european_pt_index": 113.8
+    },
+    {
+      "month": "2025-06",
+      "global_port_throughput_index": 124.9,
+      "greater_china_pt_index": 129.6,
+      "north_america_pt_index": 110.7,
+      "european_pt_index": 111.7
+    },
+    {
+      "month": "2025-07",
+      "global_port_throughput_index": 123.9,
+      "greater_china_pt_index": 125.1,
+      "north_america_pt_index": 119.5,
+      "european_pt_index": 113.8
+    },
+    {
+      "month": "2025-08",
+      "global_port_throughput_index": 125.1,
+      "greater_china_pt_index": 130.3,
+      "north_america_pt_index": 120.0,
+      "european_pt_index": 108.8
+    },
+    {
+      "month": "2025-09",
+      "global_port_throughput_index": 123.6,
+      "greater_china_pt_index": 126.4,
+      "north_america_pt_index": 114.8,
+      "european_pt_index": 110.5
+    },
+    {
+      "month": "2025-10",
+      "global_port_throughput_index": 122.1,
+      "greater_china_pt_index": 124.2,
+      "north_america_pt_index": 110.6,
+      "european_pt_index": 107.5
+    },
+    {
+      "month": "2025-11",
+      "global_port_throughput_index": 124.0,
+      "greater_china_pt_index": 128.6,
+      "north_america_pt_index": 109.4,
+      "european_pt_index": 111.6
+    },
+    {
+      "month": "2025-12",
+      "global_port_throughput_index": 121.3,
+      "greater_china_pt_index": 121.8,
+      "north_america_pt_index": 105.5,
+      "european_pt_index": 106.7
+    },
+    {
+      "month": "2026-01",
+      "global_port_throughput_index": 124.1,
+      "greater_china_pt_index": 133.2,
+      "north_america_pt_index": 109.6,
+      "european_pt_index": 103.2
+    },
+    {
+      "month": "2026-02",
+      "global_port_throughput_index": 123.3,
+      "greater_china_pt_index": 124.9,
+      "north_america_pt_index": 110.4,
+      "european_pt_index": 114.9
+    },
+    {
+      "month": "2026-03",
+      "global_port_throughput_index": 121.8,
+      "greater_china_pt_index": 127.9,
+      "north_america_pt_index": 114.6,
+      "european_pt_index": 115.6
+    },
+    {
+      "month": "2026-04",
+      "global_port_throughput_index": 123.4,
+      "greater_china_pt_index": 130.8,
+      "north_america_pt_index": 112.5,
+      "european_pt_index": 116.2
+    },
+    {
+      "month": "2026-05",
+      "global_port_throughput_index": 124.7,
+      "greater_china_pt_index": 132.4,
+      "north_america_pt_index": 116.8,
+      "european_pt_index": 117.9
+    },
+    {
+      "month": "2026-06",
+      "global_port_throughput_index": 127.4,
+      "greater_china_pt_index": 137.7,
+      "north_america_pt_index": 117.7,
+      "european_pt_index": 117.5
+    }
+  ]
+}

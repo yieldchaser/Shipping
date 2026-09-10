@@ -1,0 +1,99 @@
+asset_class,port_name,country,locode,lat,lon,role,is_exact_image_pin,pixel_x,pixel_y
+Dry Bulk,Prince Rupert,Canada,CAPRR,54.3,-130.33,Ridley Terminals Coal & Grain Export,True,250.8,219.1
+Dry Bulk,Columbia River (Kalama/Longview),USA,USLOG,46.13,-122.96,Major Pacific Northwest Grain Export Gateway,True,268.8,240.3
+Dry Bulk,San Francisco Bay (Stockton/Oakland),USA,USOAK,37.8,-122.27,Northern California Agri & Mineral Bulk,True,269.8,251.4
+Dry Bulk,Manzanillo / Lazaro Cardenas,Mexico,MXZLO,19.05,-104.32,Major Mexican Pacific Ore & Bulk Port,True,321.9,335.1
+Dry Bulk,Hampton Roads / Baltimore,USA,USORF,36.95,-76.33,US East Coast Premier Coal Export Terminal,True,386.3,281.6
+Dry Bulk,Puerto Bolivar / Barranquilla,Colombia,COCLB,11.99,-71.97,Cerrejon Coal Export Terminal (Baltic C7),True,392.1,353.4
+Dry Bulk,Bahia Blanca,Argentina,ARBHI,-38.78,-62.28,Deepwater Grain & Fertilizer Terminal,True,421.5,486.2
+Dry Bulk,Rosario / San Lorenzo,Argentina,ARSLL,-32.74,-60.73,River Plate Global Soymeal Export Hub,True,426.2,468.2
+Dry Bulk,Trombetas / Amazon Bulk,Brazil,BRTMT,-1.48,-56.38,MRN Major Bauxite Mining Export Terminal,True,435.8,384.4
+Dry Bulk,Rio Grande,Brazil,BRRIG,-32.05,-52.09,Southern Brazil Grain & Agri-Bulk Port,True,446.9,466.4
+Dry Bulk,Paranagua,Brazil,BRPNG,-25.5,-48.51,Major Grain and Soybean Export Gateway,True,456.1,447.3
+Dry Bulk,Santos,Brazil,BRSSZ,-23.97,-46.3,Latin America largest Agri-Bulk Terminal,True,461.4,442.9
+Dry Bulk,Ponta da Madeira / Itaqui,Brazil,BRPMD,-2.56,-44.37,Vale Carajas 400k Valemax Iron Ore Hub,True,466.5,387.7
+Dry Bulk,Sepetiba / Itaguai,Brazil,BRIGI,-22.93,-43.84,CSN & Vale Deepwater Iron Ore Port,True,467.9,440.4
+Dry Bulk,Tubarao / Vitoria,Brazil,BRTUB,-20.26,-40.24,Vale Premier Iron Ore Terminal (Baltic C2/C3),True,476.7,433.1
+Dry Bulk,Port Kamsar,Guinea,GNKMR,10.65,-14.61,"World largest Bauxite Export Hub (SMB, CBG)",True,540.9,354.3
+Dry Bulk,Rotterdam (EMO),Netherlands,NLRTM,51.95,4.05,Europe largest Coal & Ore Discharge Terminal,True,587.8,229.1
+Dry Bulk,Saldanha Bay,South Africa,ZASDB,-33.02,17.99,Kumba Iron Ore Export Terminal (Baltic C17),True,621.7,469.1
+Dry Bulk,Narvik,Norway,NONVK,68.43,17.42,LKAB Arctic Iron Ore Terminal (Kiruna ore),True,649.1,194.2
+Dry Bulk,Richards Bay,South Africa,ZARCB,-28.8,32.08,Richards Bay Coal Terminal (RBCT),True,658.3,456.9
+Dry Bulk,Ningbo-Zhoushan (Shulanghu),China,CNNGB,29.92,121.88,Valemax 400k Transshipment & Coal Hub,True,861.8,323.0
+Dry Bulk,Port Hedland / Dampier,Australia,AUPHE,-20.33,118.56,World largest Iron Ore Export Port (Baltic C5),True,870.8,434.2
+Dry Bulk,Caofeidian / Jingtang,China,CNCFD,38.93,118.49,Bohai Bay Premier Iron Ore Discharge Hub,True,875.5,274.4
+Dry Bulk,Qingdao / Dongjiakou,China,CNQDG,36.03,120.22,World top Iron Ore Discharge Port (Valemax),True,882.3,298.1
+Dry Bulk,Hay Point / Dalrymple Bay,Australia,AUHPT,-21.28,149.29,World largest Metallurgical Coal Port (BMA),True,951.5,435.7
+Dry Bulk,Newcastle,Australia,AUNCL,-32.92,151.78,World largest Thermal Coal Terminal (PWCS),True,957.5,468.7
+LPG,Prince Rupert (Ridley Island),Canada,CAPRR,54.22,-130.32,AltaGas Canadian Pacific Propane Export,True,265.5,220.7
+LPG,Ferndale / Anacortes,USA,USFND,48.82,-122.71,Petrogas US West Coast LPG Export Terminal,True,300.2,295.2
+LPG,Topolobampo / Guaymas,Mexico,MXTPB,25.6,-109.05,Mexican Pacific Coast LPG Storage & Import,True,316.9,315.3
+LPG,Manzanillo / Lazaro Cardenas,Mexico,MXZLO,19.05,-104.32,Major Mexican Industrial LPG Hub,True,334.8,283.0
+LPG,Balboa / Panama Canal,Panama,PABLB,8.95,-79.57,Pacific Canal Entrance VLGC Staging Hub,True,370.5,366.5
+LPG,Pisco (Camisea),Peru,PEPIO,-13.71,-76.22,Pluspetrol Camisea NGL Fractionation Terminal,True,381.4,395.2
+LPG,Quintero / San Antonio,Chile,CLQUT,-32.78,-71.53,Major Pacific South America LPG Import Hub,True,394.2,448.3
+LPG,Punta Arenas (Cabo Negro),Chile,CLPUQ,-52.96,-70.83,ENAP Sub-Antarctic LPG & Methanol Hub,True,395.5,517.7
+LPG,Houston / Nederland / Freeport,USA,USHOU,29.72,-95.14,World largest VLGC Export Cluster (Enterprise/Energy Transfer),True,419.2,335.2
+LPG,Las Palmas / Tenerife,Spain,ESLPA,28.14,-15.42,Canary Islands Offshore Bunker & STS Hub,True,529.6,323.2
+LPG,Madeira / Azores,Portugal,PTFNC,32.64,-16.9,Mid-Atlantic Transit / Staging Anchorages,True,533.8,288.2
+LPG,Sines / Lisbon,Portugal,PTSIE,37.95,-8.87,Deepwater Atlantic LPG & Energy Terminal,True,548.5,280.8
+LPG,La Coruna / Ferrol,Spain,ESLCG,43.37,-8.4,Northwest Spain Petrochemical & LPG Terminal,True,554.5,271.5
+LPG,Nouadhibou / Dakar,Mauritania,MRNDB,20.93,-17.03,Northwest African Regional LPG Distribution,True,563.2,348.1
+LPG,Flotta / Scapa Flow,UK,GBFLT,58.82,-3.1,Orkney Islands NGL & LPG Terminal,True,570.1,197.4
+LPG,Abidjan,Ivory Coast,CIABJ,5.26,-4.02,West African Regional LPG Import & Storage,True,571.7,347.2
+LPG,Montoir / Donges,France,FRMTX,47.33,-2.15,Atlantic France Major LPG & Gas Terminal,True,571.8,265.1
+LPG,Tema / Takoradi,Ghana,GHTEM,5.63,0.0,Gulf of Guinea Central LPG Discharge Terminal,True,576.5,345.6
+LPG,Braefoot Bay / Tees,UK,GBBFB,56.04,-3.31,Shell/Exxon Fife NGL Plant LPG Export Port,True,581.7,210.2
+LPG,Mongstad,Norway,NOMON,60.81,5.03,Equinor Mega Refinery & LPG Export Terminal,True,586.5,175.7
+LPG,Lagos / Escravos,Nigeria,NGLOS,6.45,3.4,Chevron Escravos LPG FSO & Domestic Hub,True,586.9,347.4
+LPG,Bonny Island (NLNG),Nigeria,NGBON,4.42,7.16,Nigeria LNG Refrigerated LPG Export Terminal,True,591.4,351.6
+LPG,Karsto,Norway,NOKST,59.27,5.43,Equinor North Sea NGL Fractionation Plant,True,596.4,201.5
+LPG,Malabo / Bioko Island,Equatorial Guinea,GQSSG,3.75,8.78,Marathon Oil Alba LPG Plant Terminal,True,596.6,351.4
+LPG,Hammerfest / Melkoya,Norway,NOHFT,70.69,23.6,Arctic Equinor Gas & LPG Hub,True,596.7,176.0
+LPG,Constanta,Romania,ROCND,44.18,28.65,Black Sea LPG Transit & Discharge Terminal,True,632.1,258.4
+LPG,Mangalore / Sikka,India,INIXE,12.92,74.81,Major West Coast India LPG Import Terminal,True,756.6,350.2
+LPG,Map Ta Phut / Singapore,Thailand,THMPT,12.67,101.15,Southeast Asian Major Petrochemical Hub,True,824.5,326.7
+LPG,Dongguan / Guangzhou,China,CNDGG,22.88,113.62,Pearl River Delta Mega LPG Import Terminal (Jovo),True,857.4,301.9
+LPG,Ningbo-Zhoushan,China,CNNGB,29.87,122.15,World largest Propane Dehydrogenation (PDH) Hub,True,878.5,282.4
+LPG,Yantai / Dongying,China,CNYNT,37.58,121.39,Wanhua Chemical Mega PDH Plant Port,True,892.7,267.8
+LPG,Dalian / Bayuquan,China,CNDLN,38.93,121.65,Bohai Bay Major LPG Terminal,True,902.8,270.2
+LPG,Ulsan / Yeosu,South Korea,KRUSN,35.5,129.38,SK Gas & E1 Mega LPG Import & PDH Hubs,True,910.7,268.5
+LPG,Chiba / Kawasaki,Japan,JPCHB,35.58,140.08,Tokyo Bay Primary LPG Petrochemical Hub,True,915.1,267.3
+LPG,Kashima / Yokkaichi,Japan,JPKSM,35.92,140.7,Major Industrial Complex LPG Terminals,True,923.3,266.2
+Tankers,Anacortes / Puget Sound,USA,USFND,48.51,-122.61,Marathon & Shell Puget Sound Refineries,True,265.0,221.0
+Tankers,San Francisco Bay (Richmond),USA,USRIC,37.93,-122.4,Chevron Major Refining & Tanker Terminal,True,270.0,251.0
+Tankers,Houston Ship Channel,USA,USHOU,29.72,-95.14,US Gulf Premier Crude & Product Trading Hub,True,418.0,335.0
+Tankers,Corpus Christi (Ingleside),USA,USCRP,27.83,-97.21,Leading US Crude Export Gateway (VLCC Berths),True,419.0,338.0
+Tankers,LOOP / South West Pass,USA,USLOP,28.88,-90.02,Louisiana Offshore Oil Port (Deepwater VLCCs),True,422.0,337.0
+Tankers,Covenas,Colombia,COCOV,9.42,-75.68,Ecopetrol Primary Crude Export Terminal,True,393.0,353.0
+Tankers,Angra dos Reis (TEBIG),Brazil,BRARZ,-23.04,-44.24,Petrobras Deepwater VLCC Crude Terminal,True,468.0,440.0
+Tankers,Hound Point / Sullom Voe,UK,GBHDP,55.99,-3.36,North Sea Forties & Brent Crude Terminals,True,582.0,210.0
+Tankers,Mongstad,Norway,NOMON,60.81,5.03,Equinor Premier Crude Export & Refining Hub,True,586.0,176.0
+Tankers,Primorsk / Ust-Luga,Russia,RUPRI,60.36,28.63,Baltic Sea Primary Urals Crude Export Ports,True,649.0,194.0
+Tankers,Novorossiysk / CPC,Russia,RUNVS,44.71,37.82,Black Sea Primary CPC (Kazakh) & Urals Terminal,True,645.0,245.0
+Tankers,Ceyhan,Turkey,TRCEY,36.88,35.93,BTC & Kirkuk Mediterranean Crude Terminal (TD16),True,638.0,268.0
+Tankers,Sidi Kerir / Augusta,Egypt,EGSKR,31.1,29.62,SUMED Pipeline Mediterranean Crude Terminal,True,630.0,285.0
+Tankers,Bonny / Forcados,Nigeria,NGBON,4.42,7.16,West Africa Sweet Crude Export Terminals,True,591.0,352.0
+Tankers,Malongo / Cabinda,Angola,AOMAL,-5.39,12.19,Chevron Deepwater Cabinda Crude Terminal,True,598.0,375.0
+Tankers,Dalia / Girassol / Luanda,Angola,AODAL,-7.5,12.5,Angola Offshore Deepwater FPSO Hub,True,600.0,385.0
+Tankers,Ras Tanura / Juaymah,Saudi Arabia,SARTA,26.67,50.12,World largest Offshore Crude Terminal (Baltic TD3C),True,695.0,295.0
+Tankers,Basrah Oil Terminal (ABOT),Iraq,IQBAP,29.68,48.81,Primary Iraqi Offshore Crude Export Gateway,True,690.0,288.0
+Tankers,Fujairah / Mina Al Fahal,UAE,AEFJR,25.18,56.36,Global Crude Hub & Bunker Capital (ADCOP terminal),True,705.0,305.0
+Tankers,Sikka / Vadinar,India,INSIK,22.43,69.83,Reliance Jamnagar Mega-Refinery Discharge Hub,True,745.0,315.0
+Tankers,Singapore (Pulau Bukom),Singapore,SGSIN,1.25,103.77,"Global Oil Trading, Refining & Bunkering Center",True,825.0,378.0
+Tankers,Qingdao / Dongjiakou,China,CNQDG,36.03,120.22,Primary Crude Discharge Port for Teapot Refineries,True,882.0,298.0
+LNG,Manzanillo (KMS LNG Terminal),Mexico,MXMNZ,19.05,-104.32,Pacific Coast LNG Import Regasification Terminal,True,230.4,345.9
+LNG,Sabine Pass / Cameron LNG,USA,USSAP,29.73,-93.87,US Gulf Premier LNG Export Mega-Terminal (Cheniere),True,256.5,315.8
+LNG,Atlantic LNG (Point Fortin),Trinidad and Tobago,TTPTF,10.18,-61.68,Caribbean Pioneer 4-Train LNG Export Facility,True,336.6,368.3
+LNG,Peru LNG (Pampa Melchorita),Peru,PEMEL,-13.25,-76.32,South America Pacific First LNG Liquefaction Terminal,True,300.4,427.9
+LNG,GNL Quintero,Chile,CLQUT,-32.76,-71.53,Central Chile Primary LNG Import & Regasification Hub,True,312.4,481.0
+LNG,Isle of Grain LNG,UK,GBGRA,51.44,0.71,Europe Largest LNG Import Terminal (National Grid),True,499.2,243.5
+LNG,Gate LNG (Rotterdam) / Zeebrugge,Netherlands,NLRTM,51.95,4.05,Northwest Europe Core Gas Hub & Breakbulk LNG Terminal,True,503.0,238.0
+LNG,Montoir-de-Bretagne LNG,France,FRMTB,47.31,-2.14,Atlantic France Major LNG Import Terminal (Elengy),True,486.1,259.2
+LNG,Fos-sur-Mer (Fos Cavaou / Fos Tonkin),France,FRFOS,43.43,4.9,Mediterranean France Primary LNG Import Gateway,True,503.5,273.7
+LNG,Arzew LNG (Bethioua),Algeria,DZAZW,35.85,-0.26,World First Commercial LNG Export Hub (Sonatrach GL1Z/GL2Z),True,490.6,298.5
+LNG,Skikda LNG,Algeria,DZSKI,36.88,6.9,Eastern Algerian Mediterranean Mega-LNG Export Facility (GL1K),True,508.5,294.2
+LNG,Bonny Island NLNG / Kribi FLNG,Nigeria,NGBON,4.43,7.17,6-Train West African LNG Super-Hub (Nigeria LNG),True,509.7,384.1
+LNG,Ras Laffan,Qatar,QARLF,25.92,51.58,World Largest LNG Export Port (QatarEnergy - Active Map Selection),True,620.6,327.0
+LNG,Bintulu MLNG,Malaysia,MYBTU,3.25,113.07,"9-Train Petronas MLNG Complex (Sarawak, Borneo)",True,774.2,386.2
+LNG,Gladstone LNG (Curtis Island),Australia,AUGLT,-23.85,151.25,Queensland Coal-Seam LNG Mega-Terminal (APLNG/GLNG/QCLNG),True,869.6,455.3

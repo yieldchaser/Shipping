@@ -62,12 +62,13 @@ jobs:
             python scripts/scrapers/fetch_drewry_wci.py || true
           fi
           python scripts/scrapers/fetch_poten_direct.py || true
+          python scripts/scrapers/fetch_drewry_canva_indices.py || true
           python scripts/scrapers/fetch_drewry_ais_weekly.py || true
           python scripts/scrapers/fetch_drewry_opinions_incremental.py || true
 
       - name: Commit & Push New Data
         run: |
-          git add data/indices/ reports/drewry/ reports/poten/ data/derived/ || true
+          git add data/indices/ data/clarksons/ reports/drewry/ reports/poten/ data/derived/ || true
           if git diff --staged --quiet; then
             echo "No new Poten or Drewry data changes."
             exit 0

@@ -1,0 +1,182 @@
+[
+  {
+    "ts_link_id": 0,
+    "ts_series_id": 98740,
+    "alternativeFrequencyTsSeriesIds": [
+      10973,
+      10985,
+      67321
+    ],
+    "secondaryGraph_TsLinkId": null,
+    "ts_desc_id": 0,
+    "secondaryGraph_TsDescId": null,
+    "marketTable": "Please Login",
+    "display": "VLCC NB",
+    "secondaryGraph_Display": "Please Login",
+    "unitDisplay": "Please Login",
+    "secondaryGraph_UnitDisplay": "Please Login",
+    "yearMinus2": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "yearMinus1": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "previous": null,
+    "latest": null,
+    "sentiment": "Please Login",
+    "changePercent": null,
+    "fiveYearMax": null,
+    "fiveYearMin": null,
+    "fiveYearAverage": null,
+    "previousDateShort": "Please Login",
+    "latestDateShort": "Please Login",
+    "default_frequency": "Please Login",
+    "secondaryGraph_DefaultFrequency": null,
+    "sparkLineData": [],
+    "isPercentageChangeType": false,
+    "annualDataCalcType": "Please Login",
+    "numDecimalPlacesToShow": 1,
+    "censorString": "Please Login"
+  },
+  {
+    "ts_link_id": 0,
+    "ts_series_id": 98722,
+    "alternativeFrequencyTsSeriesIds": [
+      11138,
+      11151,
+      59288
+    ],
+    "secondaryGraph_TsLinkId": null,
+    "ts_desc_id": 0,
+    "secondaryGraph_TsDescId": null,
+    "marketTable": "Please Login",
+    "display": "Capesize NB",
+    "secondaryGraph_Display": "Please Login",
+    "unitDisplay": "Please Login",
+    "secondaryGraph_UnitDisplay": "Please Login",
+    "yearMinus2": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "yearMinus1": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "previous": null,
+    "latest": null,
+    "sentiment": "Please Login",
+    "changePercent": null,
+    "fiveYearMax": null,
+    "fiveYearMin": null,
+    "fiveYearAverage": null,
+    "previousDateShort": "Please Login",
+    "latestDateShort": "Please Login",
+    "default_frequency": "Please Login",
+    "secondaryGraph_DefaultFrequency": null,
+    "sparkLineData": [],
+    "isPercentageChangeType": false,
+    "annualDataCalcType": "Please Login",
+    "numDecimalPlacesToShow": 1,
+    "censorString": "Please Login"
+  },
+  {
+    "ts_link_id": 0,
+    "ts_series_id": 530357,
+    "alternativeFrequencyTsSeriesIds": [
+      530358,
+      530359,
+      546212
+    ],
+    "secondaryGraph_TsLinkId": null,
+    "ts_desc_id": 0,
+    "secondaryGraph_TsDescId": null,
+    "marketTable": "Please Login",
+    "display": "13,500 TEU NB",
+    "secondaryGraph_Display": "Please Login",
+    "unitDisplay": "Please Login",
+    "secondaryGraph_UnitDisplay": "Please Login",
+    "yearMinus2": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "yearMinus1": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "previous": null,
+    "latest": null,
+    "sentiment": "Please Login",
+    "changePercent": null,
+    "fiveYearMax": null,
+    "fiveYearMin": null,
+    "fiveYearAverage": null,
+    "previousDateShort": "Please Login",
+    "latestDateShort": "Please Login",
+    "default_frequency": "Please Login",
+    "secondaryGraph_DefaultFrequency": null,
+    "sparkLineData": [],
+    "isPercentageChangeType": false,
+    "annualDataCalcType": "Please Login",
+    "numDecimalPlacesToShow": 1,
+    "censorString": "Please Login"
+  },
+  {
+    "ts_link_id": 0,
+    "ts_series_id": 541195,
+    "alternativeFrequencyTsSeriesIds": [
+      541196,
+      541197,
+      541198
+    ],
+    "secondaryGraph_TsLinkId": null,
+    "ts_desc_id": 0,
+    "secondaryGraph_TsDescId": null,
+    "marketTable": "Please Login",
+    "display": "LNG NB",
+    "secondaryGraph_Display": "Please Login",
+    "unitDisplay": "Please Login",
+    "secondaryGraph_UnitDisplay": "Please Login",
+    "yearMinus2": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "yearMinus1": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "previous": null,
+    "latest": null,
+    "sentiment": "Please Login",
+    "changePercent": null,
+    "fiveYearMax": null,
+    "fiveYearMin": null,
+    "fiveYearAverage": null,
+    "previousDateShort": "Please Login",
+    "latestDateShort": "Please Login",
+    "default_frequency": "Please Login",
+    "secondaryGraph_DefaultFrequency": null,
+    "sparkLineData": [],
+    "isPercentageChangeType": false,
+    "annualDataCalcType": "Please Login",
+    "numDecimalPlacesToShow": 1,
+    "censorString": "Please Login"
+  }
+]

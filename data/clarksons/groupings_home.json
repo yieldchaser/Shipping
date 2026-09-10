@@ -1,0 +1,61 @@
+{
+  "parentMarketGroupId": null,
+  "marketGroupId": null,
+  "name": null,
+  "hasMarketText": false,
+  "safeRoutingName": null,
+  "dtLastUploaded": null,
+  "hasPublicationLink": false,
+  "publicationId": null,
+  "publicationName": null,
+  "children": [
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 44,
+      "name": "All",
+      "hasMarketText": false,
+      "safeRoutingName": "All",
+      "dtLastUploaded": null,
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 47,
+      "name": "Newbuild",
+      "hasMarketText": false,
+      "safeRoutingName": "Newbuild",
+      "dtLastUploaded": null,
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 48,
+      "name": "S&P",
+      "hasMarketText": false,
+      "safeRoutingName": "SP",
+      "dtLastUploaded": null,
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 49,
+      "name": "Earnings",
+      "hasMarketText": false,
+      "safeRoutingName": "Earnings",
+      "dtLastUploaded": null,
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    }
+  ]
+}

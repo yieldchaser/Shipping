@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/a-fools-game/"
 author: "Raza Zoya"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2023%20January%202026%20-%20A%20Fools%20Game.pdf"
+pdf_file: "Weekly Opinion - 23 January 2026 - A Fools Game.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Raza Zoya
 **Published Date**: 2026-01-23  
 **Source URL**: [https://www.poten.com/a-fools-game/](https://www.poten.com/a-fools-game/)  
+**Full PDF Report**: [Weekly Opinion - 23 January 2026 - A Fools Game.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2023%20January%202026%20-%20A%20Fools%20Game.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

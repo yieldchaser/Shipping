@@ -1,0 +1,222 @@
+[
+  {
+    "indexId": "b0aa5609-1676-4911-bb4e-48e783bf4c70",
+    "indexName": "BDI",
+    "indexTitle": null,
+    "indexDataSetId": "f8972eb1-17d4-4770-9292-239f59d76051",
+    "indexDataSetName": "BDI",
+    "indexDataSetTitle": "Baltic Dry Index",
+    "current": {
+      "value": 3620.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T12:59:26"
+    },
+    "previous": {
+      "value": 3584.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T12:55:51"
+    }
+  },
+  {
+    "indexId": "9cc3a8ed-6a7e-452a-aa78-0e1136d3aa62",
+    "indexName": "Supramax (58)",
+    "indexTitle": null,
+    "indexDataSetId": "9e0df45c-bcdf-43f5-9c5f-b7adc56dd10f",
+    "indexDataSetName": "BSI",
+    "indexDataSetTitle": "Baltic Supramax Index",
+    "current": {
+      "value": 1704.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T12:59:26"
+    },
+    "previous": {
+      "value": 1693.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T12:55:51"
+    }
+  },
+  {
+    "indexId": "f3cb7bf2-49ba-4c89-823d-a23c549df0c5",
+    "indexName": "Capesize",
+    "indexTitle": null,
+    "indexDataSetId": "ac91d3f8-c619-41b0-87fa-d9385af85d5c",
+    "indexDataSetName": "BCI",
+    "indexDataSetTitle": "Baltic Capesize Index",
+    "current": {
+      "value": 6400.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T11:01:04"
+    },
+    "previous": {
+      "value": 6313.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T10:58:54"
+    }
+  },
+  {
+    "indexId": "8aec4a7e-4363-4045-8eb7-ad3531c873f4",
+    "indexName": "BCTI",
+    "indexTitle": null,
+    "indexDataSetId": "325e5cf9-11e1-4af1-8e52-dfe035efb1ce",
+    "indexDataSetName": "BCTI",
+    "indexDataSetTitle": "Baltic Clean Tanker Index",
+    "current": {
+      "value": 1775.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T16:08:01"
+    },
+    "previous": {
+      "value": 1702.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T16:03:52"
+    }
+  },
+  {
+    "indexId": "0e094158-35e7-4754-9b67-aa8aa06ad455",
+    "indexName": "Panamax",
+    "indexTitle": null,
+    "indexDataSetId": "d64fd40e-92b0-412e-8231-71672794d501",
+    "indexDataSetName": "BPI",
+    "indexDataSetTitle": "Baltic Panamax Index",
+    "current": {
+      "value": 2414.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T12:59:26"
+    },
+    "previous": {
+      "value": 2414.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T12:55:51"
+    }
+  },
+  {
+    "indexId": "e777b079-c568-4d99-b978-5da958bd3695",
+    "indexName": "AIR FREIGHT",
+    "indexTitle": null,
+    "indexDataSetId": "a7e9b281-55cf-43f4-a0a0-1b092519412e",
+    "indexDataSetName": "BAI00",
+    "indexDataSetTitle": "BAI - Powered by TAC Data",
+    "current": {
+      "value": 2438.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-07T12:48:04"
+    },
+    "previous": {
+      "value": 2423.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-01T12:54:26"
+    }
+  },
+  {
+    "indexId": "3e9304a0-2c17-4e63-9fc0-3358f06341f5",
+    "indexName": "Handysize",
+    "indexTitle": null,
+    "indexDataSetId": "98fbfc04-df91-45bb-bfe6-575cdf36a2bf",
+    "indexDataSetName": "BHSI",
+    "indexDataSetTitle": "Baltic Handysize Index",
+    "current": {
+      "value": 922.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T12:59:26"
+    },
+    "previous": {
+      "value": 913.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T12:55:51"
+    }
+  },
+  {
+    "indexId": "0a7181e0-5dc0-478c-99d5-d18794995bfd",
+    "indexName": "LNG 174",
+    "indexTitle": "Baltic Exchange Liquefied Natural Gas Index - 174",
+    "indexDataSetId": "44a0cc13-c551-42d8-8317-464fc23b0338",
+    "indexDataSetName": "BLNG",
+    "indexDataSetTitle": "Baltic LNGg Index",
+    "current": {
+      "value": 2483.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T10:57:42"
+    },
+    "previous": {
+      "value": 2427.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T10:59:51"
+    }
+  },
+  {
+    "indexId": "d413998c-af83-43c0-be0a-b6afa9d26d1f",
+    "indexName": "LPG",
+    "indexTitle": "Baltic Exchange Liquefied Petroleum Gas Index",
+    "indexDataSetId": "b236f1dc-45d6-4054-97ad-58d7b0717acd",
+    "indexDataSetName": "BLPG",
+    "indexDataSetTitle": "Baltic LPG Index",
+    "current": {
+      "value": 18419.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T16:08:01"
+    },
+    "previous": {
+      "value": 18388.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T16:03:52"
+    }
+  },
+  {
+    "indexId": "6588a1fb-67b0-4cee-925e-1b0028e88af5",
+    "indexName": "CONTAINER",
+    "indexTitle": "FBX",
+    "indexDataSetId": "ad33e2a7-2869-4b04-9e7b-008787a434aa",
+    "indexDataSetName": "FBX",
+    "indexDataSetTitle": "FBX",
+    "current": {
+      "value": 3528.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T11:06:08"
+    },
+    "previous": {
+      "value": 3528.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T12:48:53"
+    }
+  },
+  {
+    "indexId": "8963a0d2-993f-4f58-b718-5d9b392602ab",
+    "indexName": "BDTI",
+    "indexTitle": null,
+    "indexDataSetId": "c9b0f4c0-2c98-4bda-8005-2e340617d69d",
+    "indexDataSetName": "BDTI",
+    "indexDataSetTitle": "Baltic Dirty Tanker Index",
+    "current": {
+      "value": 3026.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-09T16:08:01"
+    },
+    "previous": {
+      "value": 2938.0,
+      "high": null,
+      "low": null,
+      "indexDate": "2026-09-08T16:03:52"
+    }
+  }
+]

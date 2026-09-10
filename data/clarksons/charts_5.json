@@ -1,0 +1,32 @@
+[
+  {
+    "marketGroupId": 5,
+    "marketChartId": 151,
+    "chartTitle": "Bulkcarrier Fleet Growth",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 1,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534435,
+        "colour": null
+      }
+    ]
+  },
+  {
+    "marketGroupId": 5,
+    "marketChartId": 152,
+    "chartTitle": "Bulkcarrier Orderbook % Fleet",
+    "displayForecastFromYear": 0,
+    "startDate": null,
+    "endDate": null,
+    "sortOrder": 2,
+    "linkedTs": [
+      {
+        "tsSeriesId": 534436,
+        "colour": null
+      }
+    ]
+  }
+]

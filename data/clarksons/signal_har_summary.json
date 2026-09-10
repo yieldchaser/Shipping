@@ -1,0 +1,348 @@
+[
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/lng/vessels",
+    "status": 200,
+    "mime": "text/html",
+    "size": 28243,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": "\n\n<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n<head>\n    <title>Signal Ocean Platform</title>\n\n    \n\n<meta charset=\"utf-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\n\n\n<!-- Start SmartBanner configuration -->\n<meta name=\"smartbanner:title\" content=\"Signal Ocean Platform\">\n<meta name=\"smartbanner:author\" content=\"Signal Ocean S.M.P.C.\">\n<meta name=\"smartbanner:price\" content=\"GET\">\n<meta name=\"smartbanner:price-suffix-apple\" content=\" - On the App Store\">\n<meta na"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/public/stylesheets/klaro.css?v=Wh8lpWCSmRpIbVxE_fAiA8WgUMIZak23JNmvmpR9Pl8",
+    "status": 304,
+    "mime": "text/css",
+    "size": 20614,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/public/stylesheets/smartbanner.min.css?v=ER1TSTgano9uL7VRoG3pj-t7eVe6Hv84RD-eaWUZaDs",
+    "status": 304,
+    "mime": "text/css",
+    "size": 3164,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/public/stylesheets/pace.css?v=uJ_jf4PHqni6P-qTOnQ5uIjEoEgZUlspNuOq2I5Meao",
+    "status": 304,
+    "mime": "text/css",
+    "size": 1434,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/lib/consentsValidator.js?v=9iG4eeenTj4fosbXZSLjeAD2KMR-lt5QguAouMxrN58",
+    "status": 304,
+    "mime": "text/javascript",
+    "size": 1046,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/lib/navigationInitializer.js?v=FE9WuKsYm-a_4x33czE8rZJ_DN23XrcGLeXnmzAjdh4",
+    "status": 304,
+    "mime": "text/javascript",
+    "size": 603,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/lib/klaro.config.js",
+    "status": 304,
+    "mime": "text/javascript",
+    "size": 5148,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/lib/favicon.js?v=LS5YIK4paTiRJuJ2SBhYd7Ja3zlDcW_s_CgqVYQRyB8",
+    "status": 304,
+    "mime": "text/javascript",
+    "size": 367,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/dist/main-2026-09-09T14-57-c48a040/main.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 831854,
+    "auth_headers": {},
+    "response_preview": "@import url(https://fonts.googleapis.com/css?family=Lato:100, 300,400,600,700,900);@import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap);.signal-tooltip.ant-tooltip{font-family:Lato,sans-serif;font-size:.75rem;font-weight:700;line-height:1rem;max-width:none;min-height:fit-content;position:fixed;text-align:center}.signal-tooltip.ant-tooltip .ant-tooltip-inner{min-height:fit-content}.signal-toggle.ant-switch.an"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/public/stylesheets/colors.css?v=mozqPbP2e2lLPOdgg2AOBhsMEk_ABoeZYRdDsoCvxIU",
+    "status": 200,
+    "mime": "text/css",
+    "size": 3444,
+    "auth_headers": {},
+    "response_preview": "/* This file is auto-generated from the colors.js source file. Do not edit it directly. */\n\n:root {\n  /* WHITE */\n  --white: #ffffff;\n  /* BLACK */\n  --black: #000000;\n  /* NAVY */\n  --navy-25: #f5f6ff;\n  --navy-50: #e3e4f4;\n  --navy-100: #cdcfe5;\n  --navy-200: #b8bbd5;\n  --navy-300: #aaadca;\n  --navy-400: #9a9dba;\n  --navy-500: #797c9b;\n  --navy-600: #686b87;\n  --navy-700: #53566d;\n  --navy-800: #45475a;\n  --navy-900: #333545;\n  --navy-950: #202233;\n  /* GRAY */\n  --gray-25: #f9fafc;\n  --gray-5"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/dist/main-2026-09-09T14-57-c48a040/main.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 16542050,
+    "auth_headers": {},
+    "response_preview": "/*! For license information please see main.js.LICENSE.txt */\n(()=>{let r,a,n,o,i,l;var s={30002(r,a,n){\"use strict\";n.d(a,{z1:()=>C,cM:()=>c,bK:()=>m,UA:()=>_,uy:()=>d});var o=n(35145),i=[{index:7,amount:15},{index:6,amount:25},{index:5,amount:30},{index:5,amount:45},{index:5,amount:65},{index:5,amount:85},{index:4,amount:90},{index:3,amount:95},{index:2,amount:97},{index:1,amount:98}];function l(r,a,n){var o;return(o=Math.round(r.h)>=60&&240>=Math.round(r.h)?n?Math.round(r.h)-2*a:Math.round(r."
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/lib/smartbanner.min.js",
+    "status": 304,
+    "mime": "text/javascript",
+    "size": 13551,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/public/stylesheets/colors.css",
+    "status": 304,
+    "mime": "text/css",
+    "size": 3444,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/public/stylesheets/buttons.css",
+    "status": 304,
+    "mime": "text/css",
+    "size": 2196,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/lib/ai.3.gbl.min.js",
+    "status": 304,
+    "mime": "text/javascript",
+    "size": 151466,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/cf-fonts/s/lato/5.2.7/latin/900/normal.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 22504,
+    "auth_headers": {},
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/dist/main-2026-09-09T14-57-c48a040/3177ec2c809b46a23a4c.svg",
+    "status": 200,
+    "mime": "image/svg+xml",
+    "size": 41678,
+    "auth_headers": {},
+    "response_preview": "<svg id=\"custom-icons-svg\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display: none;\">\n<symbol id=\"custom-icon-port\" viewBox=\"0 0 16 16\">\n  <g id=\"Symbols\" stroke=\"none\" strokeWidth=\"1\" fill=\"none\" fillRule=\"evenodd\">\n    <g id=\"Nav-Bar-Ports\" transform=\"translate(-18.000000, -344.000000)\">\n      <g id=\"Group-2\" transform=\"translate(19.000000, 345.000000)\">\n        <g id=\"Group-7\">\n          <circle id=\"Oval\" stroke=\"currentcolor\" cx=\"7\" cy=\"7\" r=\"7\" />\n          <circle id=\"Oval\" fill=\"currentco"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/dist/main-2026-09-09T14-57-c48a040/d2afd30145b4503307ef.svg",
+    "status": 200,
+    "mime": "image/svg+xml",
+    "size": 204015,
+    "auth_headers": {},
+    "response_preview": "<!-- Entypo pictograms by Daniel Bruce \u2014 www.entypo.com -->\n<svg id=\"entypo-icons-svg\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display: none;\">\n<symbol id=\"entypo-icon-500px-with-circle\" viewBox=\"0 0 20 20\"><path d=\"M8.349 9.257a2.55 2.55 0 0 0-.497-.293 1.257 1.257 0 0 0-.519-.117.907.907 0 0 0-.757.361 1.29 1.29 0 0 0-.281.812c0 .327.096.596.287.805s.455.314.791.314c.173 0 .345-.035.519-.104.173-.068.337-.154.491-.259.155-.104.301-.222.437-.354.137-.131.259-.262.368-.389a12.19 12.19 0 0 0-.3"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/api/profile/initial",
+    "status": 200,
+    "mime": "application/json",
+    "size": 44788,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": "{\"profile\":{\"id\":\"70365001-f2b2-42d0-a5df-322839ff81c8\",\"email\":\"upadhyayprateek574@gmail.com\",\"displayName\":\"Prateek Upadhyay\",\"company\":{\"id\":246,\"name\":\"Free Edition\",\"clientId\":\"FREEED121\",\"plan\":{\"type\":\"Free\",\"name\":\"Free Edition\",\"isTrial\":false},\"currentPlanStart\":\"2020-11-05T19:22:35.8028684+00:00\",\"trialEnd\":\"2020-06-24T17:27:40.9507877+00:00\",\"status\":\"Active\",\"identityProvider\":{\"rawValue\":\"all\",\"supportsPassword\":true,\"isCustom\":false,\"isValid\":true,\"isAll\":true,\"isSingleSSOProvider"
+  },
+  {
+    "method": "POST",
+    "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1994892000&t=pageview&_s=1&dl=https%3A%2F%2Fapp.signalocean.com%2Flng%2Fvessels&ul=en&dt=Signal%20Ocean%20Platform&sr=1536x960&vp=451x776&_u=ACCACEABBAAAACAAI~&jid=231005012&gjid=1166088008&cid=1713313448.1788970075&uid=70365001-f2b2-42d0-a5df-322839ff81c8&tid=UA-89429923-6&_gid=458903512.1788970075&_r=1&_slc=1&z=968376922",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 3,
+    "auth_headers": {
+      ":authority": "www.google-analytics.com"
+    },
+    "response_preview": "2,x"
+  },
+  {
+    "method": "POST",
+    "url": "https://app.signalocean.com/signalr/mainHub/negotiate?negotiateVersion=1",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1028,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-requested-with": "XMLHttpRequest",
+      "x-signalr-user-agent": "Microsoft SignalR/7.0 (7.0.3; Unknown OS; Browser; Unknown Runtime Version)"
+    },
+    "response_preview": "{\"negotiateVersion\":0,\"url\":\"https://signaloceanplatform.service.signalr.net/client/?hub=signaloceanplatform_production_mainhub&asrs.op=%2Fsignalr%2FmainHub&negotiateVersion=1&asrs_request_id=0HNOEH732F0AR-0000006B-D4C9EE6D\",\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjEyMTMxODE4OTYifQ.eyJhc3JzLnMudWlkIjoiNzAzNjUwMDEtZjJiMi00MmQwLWE1ZGYtMzIyODM5ZmY4MWM4IiwiYXNycy5zLmF1dCI6IklkZW50aXR5LkFwcGxpY2F0aW9uIiwibmFtZWlkIjoiNzAzNjUwMDEtZjJiMi00MmQwLWE1ZGYtMzIyODM5ZmY4MWM4IiwidW5pcXVlX25hb"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/dist/main-2026-09-09T14-57-c48a040/10e096999f8d89ec6ba6.gif",
+    "status": 200,
+    "mime": "image/gif",
+    "size": 78361,
+    "auth_headers": {},
+    "response_preview": "R0lGODlhhACEAPcAAPenAPmoAPmpAPqpAPqqAPuqAPurAPu5KfvlrfvlrvvpufvtxvyrAPysAPytAPzelPzelf2sAP2tAP2uAP2vAP2wBf3EPv3HS/3LXv3PY/6tAP6uAP6vAP6wAP7LWf7MYv+tAP+wAP+xAP+yAP+zAP+zBf+0C/+2EP+5Gv+5G/+/MP/JT//flf/rvf/tx//vzPSdAPSeAPSfAPSgAPWdAPWeAPWfAPWgAPaeAPafAPagAPahAPefAPejAPihAPikAPilAPmmAPqnAPupAPvhofviofvpuvyqAPy9NvzHVfzOa/zQc/zRc/zTcPzWe/zWfPzaiPzaif2rAP2uBv3GTP3LVv3LV/3LW/3MZv3Pb/3Uff3Xh/3XiP3dmP61Df64Gf68Jv7AMf7AMv7KVv7KV/7KWf7LW/7LXv7MZv7TfP7ipP7kq/7lsf7msv7mtf7ouf7v0f+1AP+4Ff+4I/+7IP+8Jf++Kv++K//A"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/api/navigationFavorites",
+    "status": 200,
+    "mime": "application/json",
+    "size": 2,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": "[]"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/api/profile/mailbox",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 37,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": "freeedition_lng_87589@signalocean.com"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/api/map/user-preferences",
+    "status": 200,
+    "mime": "application/json",
+    "size": 17,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": "{\"theme\":\"Light\"}"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/api/geolocations/mapPorts",
+    "status": 200,
+    "mime": "application/json",
+    "size": 608970,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": "[{\"shapes\":[],\"countryName\":\"Not set\",\"countryID\":-2,\"latitude\":0.0,\"longitude\":0.0,\"portID\":-2,\"portName\":\"Not Set\",\"synonyms\":\"\",\"zoomIndex\":0.001,\"areaID\":-1,\"isBlackSea\":false,\"geoAssetTypeID\":16},{\"shapes\":[],\"countryName\":\"Unknown\",\"countryID\":-1,\"latitude\":0.0,\"longitude\":0.0,\"portID\":-1,\"portName\":\"Unknown\",\"synonyms\":\"\",\"zoomIndex\":0.001,\"areaID\":-1,\"isBlackSea\":false,\"geoAssetTypeID\":16},{\"shapes\":[],\"countryName\":\"United Arab Emirates\",\"countryID\":9,\"latitude\":25.19749,\"longitude\":56."
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/api/vessels/dashboardAllowance",
+    "status": 200,
+    "mime": "application/json",
+    "size": 40,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": "{\"remainingSearches\":4,\"canSearch\":true}"
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/api/vessels/filters/vessels?limit=99999&search=",
+    "status": 200,
+    "mime": "application/json",
+    "size": 435449,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": "[{\"imo\":9443401,\"vesselName\":\"Aamira\",\"vesselClassID\":91,\"vesselClass\":\"LNG\",\"deadweight\":130026,\"liquidCapacity\":266000,\"yearBuilt\":2010,\"commercialOperatorID\":1348,\"synonyms\":\"Nakilat\",\"companyName\":\"Qatar Gas Transport\",\"scrubbers\":false,\"geared\":false,\"vesselTypeId\":5,\"currentVesselSubTypeID\":-1,\"orderBookStatusID\":7},{\"imo\":9501186,\"vesselName\":\"Adam LNG\",\"vesselClassID\":91,\"vesselClass\":\"LNG\",\"deadweight\":90986,\"liquidCapacity\":161842,\"yearBuilt\":2014,\"commercialOperatorID\":1152,\"synonyms\""
+  },
+  {
+    "method": "POST",
+    "url": "https://app.signalocean.com/cdn-cgi/rum?",
+    "status": 204,
+    "mime": "text/plain",
+    "size": 0,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "GET",
+    "url": "https://app.signalocean.com/img/faviconDark.ico",
+    "status": 200,
+    "mime": "image/x-icon",
+    "size": 34494,
+    "auth_headers": {},
+    "response_preview": "AAABAAUAEBAAAAEAIABoBAAAVgAAABgYAAABACAAiAkAAL4EAAAgIAAAAQAgAKgQAABGDgAAMDAAAAEAIACoJQAA7h4AAEBAAAABACAAKEIAAJZEAAAoAAAAEAAAACAAAAABACAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8Q////SAAAAAAAAAAAAAAAAP///yMAAAAA////Ff///4////+M////EgAAAAD///9Q////gP///2gAAAAA////IP///5AAAAAA////Af///5b///+A////Q////8v///8e////If///9D///8/////oP///yD/"
+  },
+  {
+    "method": "POST",
+    "url": "https://app.signalocean.com/api/signal/v2",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "auth_headers": {
+      ":authority": "app.signalocean.com",
+      "x-vessel-type": "5"
+    },
+    "response_preview": ""
+  },
+  {
+    "method": "POST",
+    "url": "https://app.signalocean.com/cdn-cgi/rum?",
+    "status": 204,
+    "mime": "text/plain",
+    "size": 0,
+    "auth_headers": {
+      ":authority": "app.signalocean.com"
+    },
+    "response_preview": ""
+  }
+]

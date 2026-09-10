@@ -1,0 +1,574 @@
+[
+  {
+    "title": "ClarkSea Index $/day",
+    "series": {
+      "tsSeriesId": 60351,
+      "frequency": 3,
+      "unit": {
+        "id": 12,
+        "description": "$/day",
+        "numDecimalPlaces": 0
+      },
+      "name": "ClarkSea Index",
+      "shortName": "ClarkSea Index",
+      "seriesType": "line",
+      "type": "string"
+    },
+    "results": [
+      {
+        "col60351": "Please Login",
+        "date": "27-Mar-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "03-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "10-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "17-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "24-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "01-May-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "08-May-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "15-May-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "22-May-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "29-May-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "05-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "12-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "19-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "26-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "03-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "10-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "17-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "24-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "31-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "07-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "14-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "21-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "28-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col60351": "Please Login",
+        "date": "04-Sep-2026",
+        "isForecast": false
+      }
+    ],
+    "moreResults": false,
+    "pageSize": null,
+    "page": 0,
+    "searchText": null,
+    "recordCount": null
+  },
+  {
+    "title": "Clarksons Average Tanker Earnings $/day",
+    "series": {
+      "tsSeriesId": 97725,
+      "frequency": 3,
+      "unit": {
+        "id": 12,
+        "description": "$/day",
+        "numDecimalPlaces": 0
+      },
+      "name": "Clarksons Average Tanker Earnings",
+      "shortName": "Clarksons Average Tanker Earnings",
+      "seriesType": "line",
+      "type": "string"
+    },
+    "results": [
+      {
+        "col97725": "Please Login",
+        "date": "27-Mar-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "03-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "10-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "17-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "24-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "01-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "08-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "15-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "22-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "29-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "05-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "12-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "19-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "26-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "03-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "10-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "17-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "24-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "31-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "07-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "14-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "21-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "28-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97725": "Please Login",
+        "date": "04-Sep-2026",
+        "isForecast": false
+      }
+    ],
+    "moreResults": false,
+    "pageSize": null,
+    "page": 0,
+    "searchText": null,
+    "recordCount": null
+  },
+  {
+    "title": "Clarksons Average Bulker Earnings $/day",
+    "series": {
+      "tsSeriesId": 97729,
+      "frequency": 3,
+      "unit": {
+        "id": 12,
+        "description": "$/day",
+        "numDecimalPlaces": 0
+      },
+      "name": "Clarksons Average Bulker Earnings",
+      "shortName": "Clarksons Average Bulker Earnings",
+      "seriesType": "line",
+      "type": "string"
+    },
+    "results": [
+      {
+        "col97729": "Please Login",
+        "date": "27-Mar-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "03-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "10-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "17-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "24-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "01-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "08-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "15-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "22-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "29-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "05-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "12-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "19-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "26-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "03-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "10-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "17-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "24-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "31-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "07-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "14-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "21-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "28-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97729": "Please Login",
+        "date": "04-Sep-2026",
+        "isForecast": false
+      }
+    ],
+    "moreResults": false,
+    "pageSize": null,
+    "page": 0,
+    "searchText": null,
+    "recordCount": null
+  },
+  {
+    "title": "Clarksons Average Containership Earnings $/day",
+    "series": {
+      "tsSeriesId": 97737,
+      "frequency": 3,
+      "unit": {
+        "id": 12,
+        "description": "$/day",
+        "numDecimalPlaces": 0
+      },
+      "name": "Clarksons Average Containership Earnings",
+      "shortName": "Clarksons Average Containership Earnings",
+      "seriesType": "line",
+      "type": "string"
+    },
+    "results": [
+      {
+        "col97737": "Please Login",
+        "date": "27-Mar-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "03-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "10-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "17-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "24-Apr-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "01-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "08-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "15-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "22-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "29-May-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "05-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "12-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "19-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "26-Jun-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "03-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "10-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "17-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "24-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "31-Jul-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "07-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "14-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "21-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "28-Aug-2026",
+        "isForecast": false
+      },
+      {
+        "col97737": "Please Login",
+        "date": "04-Sep-2026",
+        "isForecast": false
+      }
+    ],
+    "moreResults": false,
+    "pageSize": null,
+    "page": 0,
+    "searchText": null,
+    "recordCount": null
+  }
+]

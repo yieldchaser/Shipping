@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2024-09-01",
+    "composite_airfreight_rate_usd_kg": 3.52,
+    "asia_us_eastbound_usd_kg": 5.8,
+    "asia_europe_westbound_usd_kg": 4.81,
+    "europe_us_westbound_usd_kg": 1.23
+  },
+  {
+    "date": "2024-10-01",
+    "composite_airfreight_rate_usd_kg": 3.67,
+    "asia_us_eastbound_usd_kg": 5.9,
+    "asia_europe_westbound_usd_kg": 5.27,
+    "europe_us_westbound_usd_kg": 1.29
+  },
+  {
+    "date": "2024-11-01",
+    "composite_airfreight_rate_usd_kg": 4.0,
+    "asia_us_eastbound_usd_kg": 6.57,
+    "asia_europe_westbound_usd_kg": 5.95,
+    "europe_us_westbound_usd_kg": 1.16
+  },
+  {
+    "date": "2024-12-01",
+    "composite_airfreight_rate_usd_kg": 4.78,
+    "asia_us_eastbound_usd_kg": 8.08,
+    "asia_europe_westbound_usd_kg": 6.97,
+    "europe_us_westbound_usd_kg": 3.04
+  },
+  {
+    "date": "2025-01-01",
+    "composite_airfreight_rate_usd_kg": 3.23,
+    "asia_us_eastbound_usd_kg": 5.13,
+    "asia_europe_westbound_usd_kg": 4.31,
+    "europe_us_westbound_usd_kg": 2.16
+  },
+  {
+    "date": "2025-02-01",
+    "composite_airfreight_rate_usd_kg": 3.03,
+    "asia_us_eastbound_usd_kg": 4.37,
+    "asia_europe_westbound_usd_kg": 4.14,
+    "europe_us_westbound_usd_kg": 2.37
+  },
+  {
+    "date": "2025-03-01",
+    "composite_airfreight_rate_usd_kg": 3.1,
+    "asia_us_eastbound_usd_kg": 4.65,
+    "asia_europe_westbound_usd_kg": 4.23,
+    "europe_us_westbound_usd_kg": 1.97
+  },
+  {
+    "date": "2025-04-01",
+    "composite_airfreight_rate_usd_kg": 3.1,
+    "asia_us_eastbound_usd_kg": 4.76,
+    "asia_europe_westbound_usd_kg": 4.18,
+    "europe_us_westbound_usd_kg": 1.86
+  },
+  {
+    "date": "2025-05-01",
+    "composite_airfreight_rate_usd_kg": 3.17,
+    "asia_us_eastbound_usd_kg": 5.18,
+    "asia_europe_westbound_usd_kg": 4.33,
+    "europe_us_westbound_usd_kg": 1.6
+  },
+  {
+    "date": "2025-06-01",
+    "composite_airfreight_rate_usd_kg": 3.03,
+    "asia_us_eastbound_usd_kg": 4.86,
+    "asia_europe_westbound_usd_kg": 4.19,
+    "europe_us_westbound_usd_kg": 1.54
+  },
+  {
+    "date": "2025-07-01",
+    "composite_airfreight_rate_usd_kg": 3.11,
+    "asia_us_eastbound_usd_kg": 5.14,
+    "asia_europe_westbound_usd_kg": 4.18,
+    "europe_us_westbound_usd_kg": 1.54
+  },
+  {
+    "date": "2025-08-01",
+    "composite_airfreight_rate_usd_kg": 3.14,
+    "asia_us_eastbound_usd_kg": 5.25,
+    "asia_europe_westbound_usd_kg": 4.23,
+    "europe_us_westbound_usd_kg": 1.32
+  },
+  {
+    "date": "2025-09-01",
+    "composite_airfreight_rate_usd_kg": 3.25,
+    "asia_us_eastbound_usd_kg": 5.37,
+    "asia_europe_westbound_usd_kg": 4.61,
+    "europe_us_westbound_usd_kg": 1.3
+  },
+  {
+    "date": "2025-10-01",
+    "composite_airfreight_rate_usd_kg": 3.17,
+    "asia_us_eastbound_usd_kg": 5.57,
+    "asia_europe_westbound_usd_kg": 4.62,
+    "europe_us_westbound_usd_kg": 1.3
+  },
+  {
+    "date": "2025-11-01",
+    "composite_airfreight_rate_usd_kg": 3.57,
+    "asia_us_eastbound_usd_kg": 6.56,
+    "asia_europe_westbound_usd_kg": 5.49,
+    "europe_us_westbound_usd_kg": 1.24
+  },
+  {
+    "date": "2025-12-01",
+    "composite_airfreight_rate_usd_kg": 3.92,
+    "asia_us_eastbound_usd_kg": 7.45,
+    "asia_europe_westbound_usd_kg": 6.11,
+    "europe_us_westbound_usd_kg": 1.27
+  },
+  {
+    "date": "2026-01-01",
+    "composite_airfreight_rate_usd_kg": 3.31,
+    "asia_us_eastbound_usd_kg": 5.85,
+    "asia_europe_westbound_usd_kg": 4.83,
+    "europe_us_westbound_usd_kg": 1.73
+  },
+  {
+    "date": "2026-02-01",
+    "composite_airfreight_rate_usd_kg": 3.28,
+    "asia_us_eastbound_usd_kg": 5.64,
+    "asia_europe_westbound_usd_kg": 4.93,
+    "europe_us_westbound_usd_kg": 1.61
+  },
+  {
+    "date": "2026-03-01",
+    "composite_airfreight_rate_usd_kg": 3.42,
+    "asia_us_eastbound_usd_kg": 6.04,
+    "asia_europe_westbound_usd_kg": 4.83,
+    "europe_us_westbound_usd_kg": 1.93
+  },
+  {
+    "date": "2026-04-01",
+    "composite_airfreight_rate_usd_kg": 3.8,
+    "asia_us_eastbound_usd_kg": 7.0,
+    "asia_europe_westbound_usd_kg": 5.26,
+    "europe_us_westbound_usd_kg": 1.77
+  },
+  {
+    "date": "2026-05-01",
+    "composite_airfreight_rate_usd_kg": 4.02,
+    "asia_us_eastbound_usd_kg": 7.12,
+    "asia_europe_westbound_usd_kg": 5.71,
+    "europe_us_westbound_usd_kg": 2.1
+  },
+  {
+    "date": "2026-06-01",
+    "composite_airfreight_rate_usd_kg": 4.27,
+    "asia_us_eastbound_usd_kg": 8.16,
+    "asia_europe_westbound_usd_kg": 5.9,
+    "europe_us_westbound_usd_kg": 2.08
+  },
+  {
+    "date": "2026-07-01",
+    "composite_airfreight_rate_usd_kg": 3.93,
+    "asia_us_eastbound_usd_kg": 7.61,
+    "asia_europe_westbound_usd_kg": 5.05,
+    "europe_us_westbound_usd_kg": 2.06
+  },
+  {
+    "date": "2026-08-01",
+    "composite_airfreight_rate_usd_kg": 3.91,
+    "asia_us_eastbound_usd_kg": 7.64,
+    "asia_europe_westbound_usd_kg": 4.94,
+    "europe_us_westbound_usd_kg": 2.07
+  }
+]

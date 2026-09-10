@@ -1,0 +1,292 @@
+{
+  "parentMarketGroupId": null,
+  "marketGroupId": null,
+  "name": null,
+  "hasMarketText": false,
+  "safeRoutingName": null,
+  "dtLastUploaded": null,
+  "hasPublicationLink": false,
+  "publicationId": null,
+  "publicationName": null,
+  "children": [
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 1,
+      "name": "Outlook",
+      "hasMarketText": true,
+      "safeRoutingName": "Outlook",
+      "dtLastUploaded": "2022-04-04T00:00:00",
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 5,
+      "name": "Bulkcarrier",
+      "hasMarketText": true,
+      "safeRoutingName": "Bulkcarrier",
+      "dtLastUploaded": "2022-07-25T00:00:00",
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": [
+        {
+          "parentMarketGroupId": 5,
+          "marketGroupId": 8,
+          "name": "Outlook",
+          "hasMarketText": false,
+          "safeRoutingName": "Outlook",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 5,
+          "marketGroupId": 9,
+          "name": "Capesize",
+          "hasMarketText": false,
+          "safeRoutingName": "Capesize",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 5,
+          "marketGroupId": 10,
+          "name": "Panamax",
+          "hasMarketText": false,
+          "safeRoutingName": "Panamax",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 5,
+          "marketGroupId": 11,
+          "name": "Supramax",
+          "hasMarketText": false,
+          "safeRoutingName": "Supramax",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 5,
+          "marketGroupId": 12,
+          "name": "Handysize",
+          "hasMarketText": false,
+          "safeRoutingName": "Handysize",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 6,
+      "name": "Tanker",
+      "hasMarketText": true,
+      "safeRoutingName": "Tanker",
+      "dtLastUploaded": "2022-07-29T00:00:00",
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": [
+        {
+          "parentMarketGroupId": 6,
+          "marketGroupId": 13,
+          "name": "Outlook",
+          "hasMarketText": false,
+          "safeRoutingName": "Outlook",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 6,
+          "marketGroupId": 14,
+          "name": "VLCC",
+          "hasMarketText": false,
+          "safeRoutingName": "VLCC",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 6,
+          "marketGroupId": 15,
+          "name": "Suezmax",
+          "hasMarketText": false,
+          "safeRoutingName": "Suezmax",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 6,
+          "marketGroupId": 16,
+          "name": "Aframax",
+          "hasMarketText": false,
+          "safeRoutingName": "Aframax",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 6,
+          "marketGroupId": 17,
+          "name": "Products",
+          "hasMarketText": false,
+          "safeRoutingName": "Products",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 7,
+      "name": "Containership",
+      "hasMarketText": true,
+      "safeRoutingName": "Containership",
+      "dtLastUploaded": "2022-07-27T00:00:00",
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": [
+        {
+          "parentMarketGroupId": 7,
+          "marketGroupId": 18,
+          "name": "Outlook",
+          "hasMarketText": false,
+          "safeRoutingName": "Outlook",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 7,
+          "marketGroupId": 19,
+          "name": "8,000+ TEU",
+          "hasMarketText": false,
+          "safeRoutingName": "8000TEU",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 7,
+          "marketGroupId": 20,
+          "name": "3-8,000 TEU",
+          "hasMarketText": false,
+          "safeRoutingName": "38000TEU",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        },
+        {
+          "parentMarketGroupId": 7,
+          "marketGroupId": 21,
+          "name": "Sub-3,000 TEU",
+          "hasMarketText": false,
+          "safeRoutingName": "Sub3000TEU",
+          "dtLastUploaded": null,
+          "hasPublicationLink": false,
+          "publicationId": null,
+          "publicationName": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 29,
+      "name": "LNG",
+      "hasMarketText": true,
+      "safeRoutingName": "LNG",
+      "dtLastUploaded": "2022-08-05T00:00:00",
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 30,
+      "name": "LPG",
+      "hasMarketText": true,
+      "safeRoutingName": "LPG",
+      "dtLastUploaded": "2022-07-27T00:00:00",
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 2,
+      "name": "Timecharter",
+      "hasMarketText": false,
+      "safeRoutingName": "Timecharter",
+      "dtLastUploaded": null,
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 3,
+      "name": "Newbuilding",
+      "hasMarketText": true,
+      "safeRoutingName": "Newbuilding",
+      "dtLastUploaded": "2022-07-21T00:00:00",
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    },
+    {
+      "parentMarketGroupId": null,
+      "marketGroupId": 4,
+      "name": "S&P",
+      "hasMarketText": false,
+      "safeRoutingName": "SP",
+      "dtLastUploaded": null,
+      "hasPublicationLink": false,
+      "publicationId": null,
+      "publicationName": null,
+      "children": []
+    }
+  ]
+}

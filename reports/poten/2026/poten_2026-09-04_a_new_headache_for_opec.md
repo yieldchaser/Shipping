@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/a-new-headache-for-opec/"
 author: "Erik Broekhuizen"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%204%20September%202026%20-%20A%20New%20Headache%20For%20OPEC.pdf"
+pdf_file: "Weekly Opinion - 4 September 2026 - A New Headache For OPEC.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-09-04  
 **Source URL**: [https://www.poten.com/a-new-headache-for-opec/](https://www.poten.com/a-new-headache-for-opec/)  
+**Full PDF Report**: [Weekly Opinion - 4 September 2026 - A New Headache For OPEC.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%204%20September%202026%20-%20A%20New%20Headache%20For%20OPEC.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

@@ -1,0 +1,736 @@
+{
+  "port": "Port Hedland",
+  "terminal_operators": [
+    "BHP (Nelson Point)",
+    "FMG (Herb Elliott Port / Anderson Point)",
+    "Roy Hill (Stanley Point)",
+    "PPA Public Berths"
+  ],
+  "as_of": "Sep 09, 2026, 16:38\nSHIPPING PROGRAM\nDuty Pilot:",
+  "total_movements": 46,
+  "vessels_scheduled_count": 35,
+  "vessels_scheduled": [
+    "CAPE AUSTRALIA",
+    "ALPHA HOPE",
+    "ESL DOLPHIN",
+    "LADY SOPHIE MARIE",
+    "MOUNT HEDLAND",
+    "BERGE KIBO",
+    "SSI RELIANCE",
+    "GENCO DEFENDER",
+    "CAPE RIGI",
+    "PSU SIXTH",
+    "MARLENE OLDENDORFF",
+    "APOLLONIUS",
+    "HEBEI CHALLENGER",
+    "MOUNT ANJIN",
+    "CAPE YAMABUKI",
+    "HARVEST FROST",
+    "SHI DAI 20",
+    "BERGE GASHERBRUM",
+    "PSU EIGHTH",
+    "LYDIA OLDENDORFF",
+    "NORD TRAMP",
+    "XING ZHI HAI",
+    "GENCO BEAR",
+    "WUGANG INNOVATION",
+    "ANGEL ISLAND",
+    "CHIPOLBROK GALAXY",
+    "ARISTOMENIS",
+    "MARAN VENTURE",
+    "SHINE ON",
+    "LADY DEENA",
+    "HONG MAY",
+    "MOUNT ANNAPURNA",
+    "CHINA STEEL BRILLIANCE",
+    "BERGE LYNGOR",
+    "HL SAIJO"
+  ],
+  "movements": [
+    {
+      "date": "2026-09-09",
+      "dwt": 95263,
+      "agent": "SAS",
+      "from": "EANC",
+      "to": "PH4",
+      "raw_line": "95,263 SAS EANC PH4 10 TW 17:30 H 15:15 15:30 3 B Sep065F5.60 A7.20  -"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 115664,
+      "agent": "MON",
+      "from": "PH4",
+      "to": "C1",
+      "raw_line": "115,664 MON PH4 C1 74 JR 15:45 H 19:00 16:30 3 B 5 D14.67 REQ14.67  (10) 12HR"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 182534,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "FID",
+      "raw_line": "182,534 WIL EANC FID 9 JS 20:30 H 18:15 18:30 4 B Sep059F7.21 A8.47  -"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 182202,
+      "agent": "SCO",
+      "from": "AP3",
+      "to": "C1",
+      "raw_line": "182,202 SCO AP3 C1 13 SM, KV 19:15 H 23:00 20:00 4 P 4 D18.26 REQ18.26  E/LLL 1944/2144 12HR  -"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 262779,
+      "agent": "SCO",
+      "from": "AP5",
+      "to": "C1",
+      "raw_line": "262,779 SCO AP5 C1 72 MF 19:45 H 23:30 20:30 4 P 1 D18.69 REQ18.85  E/LLL 2024/2115 12HR"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 207562,
+      "agent": "MON",
+      "from": "SP2",
+      "to": "C1",
+      "raw_line": "207,562 MON SP2 C1 10 BH, AR,"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 182106,
+      "agent": "WIL",
+      "from": "NPB",
+      "to": "C1",
+      "raw_line": "182,106 WIL NPB C1 15 GS 21:00 H 00:45 21:45 4 B 3 D17.91 REQ18.30  E/LLL 1923/2217 12HR"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 34443,
+      "agent": "WIL",
+      "from": "PH3",
+      "to": "SEA",
+      "raw_line": "34,443 WIL PH3 SEA 68 AH, MH 21:45 P 23:45 22:30 2 B D9.84 REQ--  *SST  *B/M-155M"
+    },
+    {
+      "date": "2026-09-09",
+      "dwt": 177717,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "NPB",
+      "raw_line": "177,717 WIL EANC NPB 9 LM 01:30 H 23:15 23:30 4 B Sep077F7.00 A8.40  -"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 250868,
+      "agent": "SCO",
+      "from": "EANC",
+      "to": "AP3",
+      "raw_line": "250,868 SCO EANC AP3 13 BM 02:30 H 00:15 00:30 4 P F7.57 A9.88  -"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 40112,
+      "agent": "SAS",
+      "from": "PH2",
+      "to": "SEA",
+      "raw_line": "40,112 SAS PH2 SEA 74 GW 01:15 P 03:15 02:00 2 B D8.57 REQ--  *PST  *DECK CRANES"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 30330,
+      "agent": "ASW",
+      "from": "EANC",
+      "to": "PH1",
+      "raw_line": "30,330 ASW EANC PH1 68 JK, LY 05:00 P 02:15 03:00 2 B Aug081F8.80 A8.80  *SST  *BM 182M"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 210914,
+      "agent": "MON",
+      "from": "EANC",
+      "to": "SP2",
+      "raw_line": "210,914 MON EANC SP2 10 JL 06:15 H 04:00 04:15 4 B Sep027F7.50 A9.50  *BN 26 ENTRY"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 180940,
+      "agent": "SCO",
+      "from": "EANC",
+      "to": "AP5",
+      "raw_line": "180,940 SCO EANC AP5 13 MJ 07:15 H 05:00 05:15 4 P Sep045F7.30 A9.00  -"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 187882,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "FIC",
+      "raw_line": "187,882 WIL EANC FIC 67 RP 08:15 H 06:00 06:15 4 B F7.10 A9.10  *DBL SHFL"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 181433,
+      "agent": "WIL",
+      "from": "FIC",
+      "to": "C1",
+      "raw_line": "181,433 WIL FIC C1 9 JG 06:45 H 10:15 07:30 4 B 3 D17.43 REQ18.25  E/LLL 0658/1049 24HR"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 179526,
+      "agent": "SCO",
+      "from": "AP2",
+      "to": "C1",
+      "raw_line": "179,526 SCO AP2 C1 72 DH 07:30 H 11:15 08:15 4 P 2 D18.24 REQ18.24  E/LLL 0734/0946 24HR"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 210000,
+      "agent": "WEB",
+      "from": "NPC",
+      "to": "C1",
+      "raw_line": "210,000 WEB NPC C1 15 LW 09:00 H 12:45 09:45 4 B 1 D17.73 REQ18.52  E/LLL 0706/1000 24HR"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 181196,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "NPC",
+      "raw_line": "181,196 WIL EANC NPC 68 JR, AR 13:00 H 10:45 11:00 4 B Sep073F7.02 A8.95  -"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 261012,
+      "agent": "SCO",
+      "from": "EANC",
+      "to": "AP2",
+      "raw_line": "261,012 SCO EANC AP2 13 NF 14:00 H 11:45 12:00 4 P Sep056F9.77 A10.55  -"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 36058,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "PH3",
+      "raw_line": "36,058 WIL EANC PH3 10 MH, AH 15:00 P 12:15 13:00 2 B F4.42 A6.40  *PILOT NOTE  *SST  *BM 151M"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 180377,
+      "agent": "LBH",
+      "from": "EANC",
+      "to": "FIA",
+      "raw_line": "180,377 LBH EANC FIA 09 RM, TC 21:00 H 18:45 19:00 4 B Sep080F7.00 A8.90"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 209113,
+      "agent": "WIL",
+      "from": "FIA",
+      "to": "C1",
+      "raw_line": "209,113 WIL FIA C1 67 AR, BH 19:15 H 23:00 20:00 4 B 3 D-- REQ18.45  VMG 2344/0455  *AR OFF HP"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 263055,
+      "agent": "SCO",
+      "from": "AP1",
+      "to": "C1",
+      "raw_line": "263,055 SCO AP1 C1 72 JS 19:45 H 23:30 20:30 4 P 7 D-- REQ18.84  VMG 2259/0455"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 208003,
+      "agent": "SCO",
+      "from": "AP4",
+      "to": "C1",
+      "raw_line": "208,003 SCO AP4 C1 13 AR, GD 20:15 H 00:00 21:00 4 P 6 D-- REQ18.54  VMG 2259/0455  *AR OFF HP"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 180544,
+      "agent": "MON",
+      "from": "SP1",
+      "to": "C1",
+      "raw_line": "180,544 MON SP1 C1 74 GS 20:45 H 00:30 21:30 4 B 1 D-- REQ18.35  VMG 2259/0455"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 182150,
+      "agent": "WIL",
+      "from": "NPD",
+      "to": "C1",
+      "raw_line": "182,150 WIL NPD C1 15 JL 21:15 H 01:00 22:00 4 B 2 D-- REQ18.30  -"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 211981,
+      "agent": "WIL",
+      "from": "FIB",
+      "to": "C1",
+      "raw_line": "211,981 WIL FIB C1 68 MJ 22:00 H 01:45 22:45 4 B 5 D-- REQ18.30  VMG 2344/0455"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 182534,
+      "agent": "WIL",
+      "from": "FID",
+      "to": "C1",
+      "raw_line": "182,534 WIL FID C1 09 RP 22:45 H 02:15 23:30 4 B 4 D-- REQ18.26  -"
+    },
+    {
+      "date": "2026-09-10",
+      "dwt": 95263,
+      "agent": "SAS",
+      "from": "PH4",
+      "to": "C1",
+      "raw_line": "95,263 SAS PH4 C1 10 JR 23:14 H 02:29 23:59 4 B 8 D-- REQ13.75  -"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 179406,
+      "agent": "SCO",
+      "from": "EANC",
+      "to": "AP1",
+      "raw_line": "179,406 SCO EANC AP1 03:00 H 00:45 01:00 4 P F-- A--"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 182588,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "NPD",
+      "raw_line": "182,588 WIL EANC NPD 04:00 H 01:45 02:00 4 B Sep075F7.05 A8.40"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 180668,
+      "agent": "SCO",
+      "from": "EANC",
+      "to": "AP4",
+      "raw_line": "180,668 SCO EANC AP4 04:30 H 02:15 02:30 4 P F-- A--  VMG 0455/1108 & 0907/1307"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 180730,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "FID",
+      "raw_line": "180,730 WIL EANC FID 67 05:30 H 03:15 03:30 4 B Sep079F7.02 A8.20  VMG 2059/0108 & 0907/1319"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 207927,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "NPA",
+      "raw_line": "207,927 WIL EANC NPA 07:00 H 04:45 05:00 4 B F-- A--  -"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 206312,
+      "agent": "WIL",
+      "from": "EANC",
+      "to": "FIB",
+      "raw_line": "206,312 WIL EANC FIB 08:00 H 05:45 06:00 4 B Sep053F7.55 A8.75  VMG 0907/1319"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 206291,
+      "agent": "MON",
+      "from": "EANC",
+      "to": "SP1",
+      "raw_line": "206,291 MON EANC SP1 09:00 H 06:45 07:00 4 B Aug237F7.60 A8.60  VMG 0455/1108 & 0907/1307"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 177717,
+      "agent": "WIL",
+      "from": "NPB",
+      "to": "C1",
+      "raw_line": "177,717 WIL NPB C1 07:45 H 11:30 08:30 4 B D-- REQ18.34  -"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 250868,
+      "agent": "SCO",
+      "from": "AP3",
+      "to": "C1",
+      "raw_line": "250,868 SCO AP3 C1 09:15 H 13:00 10:00 4 P D-- REQ18.04  VMG 1107/1713"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 180940,
+      "agent": "SCO",
+      "from": "AP5",
+      "to": "C1",
+      "raw_line": "180,940 SCO AP5 C1 09:15 H 13:00 10:00 4 P D-- REQ18.32  VMG 1107/1713"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 181196,
+      "agent": "WIL",
+      "from": "NPC",
+      "to": "C1",
+      "raw_line": "181,196 WIL NPC C1 20:15 H 00:00 21:00 4 B D-- REQ18.20  -"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 261012,
+      "agent": "SCO",
+      "from": "AP2",
+      "to": "C1",
+      "raw_line": "261,012 SCO AP2 C1 20:30 H 00:15 21:15 4 P D-- REQ18.64  VMG 2327/0528"
+    },
+    {
+      "date": "2026-09-11",
+      "dwt": 210914,
+      "agent": "MON",
+      "from": "SP2",
+      "to": "C1",
+      "raw_line": "210,914 MON SP2 C1 21:15 H 01:00 22:00 4 B D-- REQ18.68  VMG 2327/0528"
+    },
+    {
+      "date": "2026-09-12",
+      "dwt": 180668,
+      "agent": "SCO",
+      "from": "AP4",
+      "to": "C1",
+      "raw_line": "180,668 SCO AP4 C1 07:45 H 11:30 08:30 4 P D-- REQ18.30  VMG 1141/1744"
+    },
+    {
+      "date": "2026-09-12",
+      "dwt": 180377,
+      "agent": "LBH",
+      "from": "FIA",
+      "to": "C1",
+      "raw_line": "180,377 LBH FIA C1 08:00 H 11:45 08:45 4 B D-- REQ18.34  VMG 1141/1522"
+    },
+    {
+      "date": "2026-09-12",
+      "dwt": 206291,
+      "agent": "MON",
+      "from": "SP1",
+      "to": "C1",
+      "raw_line": "206,291 MON SP1 C1 21:45 H 01:30 22:30 4 B D-- REQ18.12  VMG 2355/0600"
+    }
+  ],
+  "enriched_vessels": [
+    {
+      "vessel_name": "CAPE AUSTRALIA",
+      "imo": 9654763,
+      "deadweight": 187882,
+      "vessel_class": "Capesize",
+      "commercial_operator": "U-ming",
+      "year_built": 2014,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "ALPHA HOPE",
+      "imo": 9446582,
+      "deadweight": 181433,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Alpha Bulkers",
+      "year_built": 2011,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "ESL DOLPHIN",
+      "imo": 9520716,
+      "deadweight": 179527,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Everest Shipping",
+      "year_built": 2011,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "LADY SOPHIE MARIE",
+      "imo": 9939383,
+      "deadweight": 211047,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Ming Wah",
+      "year_built": 2022,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "MOUNT HEDLAND",
+      "imo": 9512939,
+      "deadweight": 181196,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Eastern Pacific Shipping",
+      "year_built": 2010,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "BERGE KIBO",
+      "imo": 9741798,
+      "deadweight": 250381,
+      "vessel_class": "VLOC",
+      "commercial_operator": "Berge Bulk",
+      "year_built": 2017,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "SSI RELIANCE",
+      "imo": 9655224,
+      "deadweight": 36056,
+      "vessel_class": "Handysize",
+      "commercial_operator": "Nova Marine Carriers",
+      "year_built": 2015,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "GENCO DEFENDER",
+      "imo": 9718210,
+      "deadweight": 180377,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Genco Shipping",
+      "year_built": 2016,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "CAPE RIGI",
+      "imo": 9713064,
+      "deadweight": 209113,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Oldendorff",
+      "year_built": 2016,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "PSU SIXTH",
+      "imo": 9488279,
+      "deadweight": 263055,
+      "vessel_class": "VLOC",
+      "commercial_operator": "RGL",
+      "year_built": 2013,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "MARLENE OLDENDORFF",
+      "imo": 9678824,
+      "deadweight": 208003,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Oldendorff",
+      "year_built": 2014,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "APOLLONIUS",
+      "imo": 9718234,
+      "deadweight": 180544,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Mercuria",
+      "year_built": 2016,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "HEBEI CHALLENGER",
+      "imo": 9439591,
+      "deadweight": 182150,
+      "vessel_class": "Capesize",
+      "commercial_operator": "HOSCO",
+      "year_built": 2010,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "MOUNT ANJIN",
+      "imo": 1019709,
+      "deadweight": 211981,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Eastern Pacific Shipping",
+      "year_built": 2025,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "CAPE YAMABUKI",
+      "imo": 9482225,
+      "deadweight": 182534,
+      "vessel_class": "Capesize",
+      "commercial_operator": "K Line",
+      "year_built": 2010,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "HARVEST FROST",
+      "imo": 9643879,
+      "deadweight": 95263,
+      "vessel_class": "Post Panamax",
+      "commercial_operator": "Cargill",
+      "year_built": 2014,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "SHI DAI 20",
+      "imo": 9493834,
+      "deadweight": 115663,
+      "vessel_class": "Post Panamax",
+      "commercial_operator": "Shanghai Time Shipping",
+      "year_built": 2010,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "BERGE GASHERBRUM",
+      "imo": 9933078,
+      "deadweight": 182202,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Berge Bulk",
+      "year_built": 2022,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "PSU EIGHTH",
+      "imo": 9591131,
+      "deadweight": 262779,
+      "vessel_class": "VLOC",
+      "commercial_operator": "RGL",
+      "year_built": 2013,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "LYDIA OLDENDORFF",
+      "imo": 9699634,
+      "deadweight": 207562,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Oldendorff",
+      "year_built": 2015,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "NORD TRAMP",
+      "imo": 1057024,
+      "deadweight": 182106,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Shoei Kisen Kaisha",
+      "year_built": 2025,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "XING ZHI HAI",
+      "imo": 9728356,
+      "deadweight": 34443,
+      "vessel_class": "Handysize",
+      "commercial_operator": "Oldendorff",
+      "year_built": 2015,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "GENCO BEAR",
+      "imo": 9469259,
+      "deadweight": 177717,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Genco Shipping",
+      "year_built": 2010,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "WUGANG INNOVATION",
+      "imo": 9437268,
+      "deadweight": 250868,
+      "vessel_class": "VLOC",
+      "commercial_operator": "NYK Line",
+      "year_built": 2011,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "ANGEL ISLAND",
+      "imo": 1036006,
+      "deadweight": 40112,
+      "vessel_class": "Handymax",
+      "commercial_operator": "Pan Ocean",
+      "year_built": 2025,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "CHIPOLBROK GALAXY",
+      "imo": 9432141,
+      "deadweight": 30330,
+      "vessel_class": "Handysize",
+      "commercial_operator": "Chipolbrok",
+      "year_built": 2010,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "ARISTOMENIS",
+      "imo": 9855226,
+      "deadweight": 210915,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Capital Ship Management",
+      "year_built": 2021,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "MARAN VENTURE",
+      "imo": 9703239,
+      "deadweight": 180000,
+      "vessel_class": "Capesize",
+      "commercial_operator": "NYK Line",
+      "year_built": 2016,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "SHINE ON",
+      "imo": 9696101,
+      "deadweight": 179406,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Mercuria",
+      "year_built": 2015,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "LADY DEENA",
+      "imo": 9871799,
+      "deadweight": 182588,
+      "vessel_class": "Capesize",
+      "commercial_operator": "RWE",
+      "year_built": 2020,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "HONG MAY",
+      "imo": 9847073,
+      "deadweight": 180668,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Louis Dreyfus",
+      "year_built": 2019,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "MOUNT ANNAPURNA",
+      "imo": 9519365,
+      "deadweight": 180730,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Eastern Pacific Shipping",
+      "year_built": 2013,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "CHINA STEEL BRILLIANCE",
+      "imo": 9224635,
+      "deadweight": 172589,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Shinyo International",
+      "year_built": 2001,
+      "scrubbers": false
+    },
+    {
+      "vessel_name": "BERGE LYNGOR",
+      "imo": 9448011,
+      "deadweight": 206312,
+      "vessel_class": "Capesize",
+      "commercial_operator": "Berge Bulk",
+      "year_built": 2009,
+      "scrubbers": true
+    },
+    {
+      "vessel_name": "HL SAIJO",
+      "imo": 9513749,
+      "deadweight": 206291,
+      "vessel_class": "Capesize",
+      "commercial_operator": "H-Line Shipping",
+      "year_built": 2010,
+      "scrubbers": false
+    }
+  ]
+}

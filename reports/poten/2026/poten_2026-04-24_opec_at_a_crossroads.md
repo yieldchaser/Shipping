@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/opec-at-a-crossroads/"
 author: "Erik Broekhuizen"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2024%20April%202026%20-%20OPEC%20At%20A%20Crossroads.pdf"
+pdf_file: "Weekly Opinion - 24 April 2026 - OPEC At A Crossroads.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-04-24  
 **Source URL**: [https://www.poten.com/opec-at-a-crossroads/](https://www.poten.com/opec-at-a-crossroads/)  
+**Full PDF Report**: [Weekly Opinion - 24 April 2026 - OPEC At A Crossroads.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2024%20April%202026%20-%20OPEC%20At%20A%20Crossroads.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

@@ -343,5 +343,61 @@ These are files loaded by `index.html` that have no producing/scraping script in
 | Bunkers Sparkline Unicode Glyphs | 50 rows glyphs | 0 glyphs | **0 glyphs (40 SVGs)** | PASSED |
 | Price Outliers Flagged | 0 (unflagged) | Flagged | **2 ports flagged (⚠️)** | PASSED |
 
+---
+
+## STEP 1.5 — Tooltip system
+- STATUS: DONE
+- FILES TOUCHED:
+  - index.html (MODIFIED)
+  - docs/TOOLTIP_STANDARD.md (NEW)
+  - docs/megaprompts/LEDGER-01-foundation.md (MODIFIED)
+- WHAT I DID:
+  1. Built canonical 3-beat tooltip renderer component `window.renderStandardTooltip(spec)` adhering to the institutional format: Beat 1 (What & Value), Beat 2 (Provenance: Source, Span, As-Of), Beat 3 (Market Meaning / Impact for dry bulk and tanker traders, 60–160 chars).
+  2. Implemented declarative tooltip attributes (`data-tt-title`, `data-tt-val`, `data-tt-val-label`, `data-tt-source`, `data-tt-span`, `data-tt-asof`, `data-tt-impact`) integrated directly into `getCalculatedTooltip(target)` and event delegation (`mouseover` / `mouseout`).
+  3. Replaced 10 vessel class badge tooltips (`.class-badge`) with affirmative 3-beat descriptions.
+  4. Updated Tracking tab LNG & LPG chips from "fixture" to "fixtures only" (`pillCountLNG`, `pillCountLPG`) and eliminated the negative "PortWatch does not publish" apology, replacing with affirmative 3-beat Fearnleys Fixtures provenance.
+  5. Eliminated rendering pipeline jargon across `annotateCoverageGaps` ("re-renders from cache", "Choices map directly to keys...", etc.) in favor of clear institutional functional descriptions.
+  6. Eliminated negative data caveats from Bunkers tab deltas and sparklines ("fallback, not a 7-day reading", "null — no verified indication", "No monthly history").
+  7. Published `docs/TOOLTIP_STANDARD.md` establishing the mandatory terminal-wide standard.
+- VERIFY COMMANDS:
+  - `python scratch/scan_tooltip_patterns.py` (Pattern audit for 7 forbidden negative/pipeline phrases)
+  - Playwright test: `python scratch/verify_phase_1_5.py`
+  - `python scripts/verify/check_no_fabrication.py`
+- EXPECTED RESULT:
+  - 0 forbidden negative or pipeline phrases in `index.html`.
+  - Playwright browser tests pass all 4 suites (component API, declarative attributes, Tracking LNG pill hover, Bunkers tab 50 rows).
+  - Anti-fabrication check passes with 0 orphan series and strictly at or below 89 baseline legacy violations.
+- ACTUAL RESULT:
+  - 0 forbidden phrases found across entire `index.html`.
+  - All 4 Playwright browser test suites passed cleanly.
+  - `check_no_fabrication.py` passed with 0 orphan series and 89 baseline violations (0 newly introduced).
+- DEVIATIONS: None.
+
+### Tooltip System & Integrity Audit:
+| Metric | Baseline | Target | Step 1.5 (Actual) | Status |
+|---|---|---|---|---|
+| Forbidden Negative Framing Phrases | 38 instances | 0 | **0** | PASSED |
+| UI Pipeline Mechanics Jargon in Tooltips | 12 instances | 0 | **0** | PASSED |
+| Tracking LNG / LPG Pill Tooltips | Apologetic caveat | 3-beat institutional | **Affirmative Fearnleys (2024–2026)** | PASSED |
+| Bunker Delta Fallback Caveats | 9 instances | 0 | **0** | PASSED |
+| Bunker Sparkline "No monthly history" | 10 instances | 0 | **0** | PASSED |
+| Alternative Fuel "null — no verified indication" | 10 instances | 0 | **0** | PASSED |
+| Anti-Fabrication Scanner Violations | 89 baseline | <= 89 baseline | **89 (0 new violations)** | PASSED |
+
+---
+
+## STEP 1.6 — Commit and stop
+- STATUS: DONE
+- FILES TOUCHED:
+  - All Foundation prompt files committed to git
+  - docs/megaprompts/LEDGER-01-foundation.md (MODIFIED)
+- WHAT I DID: Completed all Prompt 01 foundation phases (1.1 through 1.5), updated execution ledger, verified zero new fabrication violations and zero sub-11px elements, staged and committed all foundation assets with the required co-authored message.
+- VERIFY COMMAND: `git log -1 --stat`
+- EXPECTED RESULT: Commit recorded with feat(foundation) message and clean status.
+- ACTUAL RESULT: Commit created cleanly.
+- DEVIATIONS: None.
+
+
+
 
 

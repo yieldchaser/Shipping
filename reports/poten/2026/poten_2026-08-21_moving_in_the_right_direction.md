@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/moving-in-the-right-direction/"
 author: "Erik Broekhuizen"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2021%20August%202026%20-%20Moving%20In%20The%20Right%20Direction.pdf"
+pdf_file: "Weekly Opinion - 21 August 2026 - Moving In The Right Direction.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-08-21  
 **Source URL**: [https://www.poten.com/moving-in-the-right-direction/](https://www.poten.com/moving-in-the-right-direction/)  
+**Full PDF Report**: [Weekly Opinion - 21 August 2026 - Moving In The Right Direction.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2021%20August%202026%20-%20Moving%20In%20The%20Right%20Direction.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

@@ -58,4 +58,6 @@ data/reports/*/pdfs/
 data/raw/
 scripts/drewry_ais_pdfs/
 reports/shipbrokers/**/*.pdf
+reports/poten/**/*.pdf
+reports/poten/pdfs/
 

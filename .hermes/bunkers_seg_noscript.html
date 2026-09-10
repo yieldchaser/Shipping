@@ -1,0 +1,379 @@
+<div class="tab-panel" id="tab-bunkers">
+      <!-- HERO HEADER -->
+      <div class="bunkers-hero">
+        <div class="bunkers-title-wrap">
+          <h2>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
+              <path d="M3 2v20"></path>
+              <path d="M19 13v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2"></path>
+              <path d="M13 2v5a2 2 0 0 0 2 2h4"></path>
+              <circle cx="18" cy="18" r="3"></circle>
+            </svg>
+            Global Bunker Fuel &amp; Marine Energy Terminal
+          </h2>
+          <div class="bunkers-sub">Daily Spot Indications across 221 Ports, 12M Forward Delivery Curves, Scrubber TCE Economics &amp; FuelEU / EU ETS Carbon Compliance · One source of truth: the daily bunker harvest cache</div>
+        </div>
+        <div class="tracking-live-tag">
+          <span class="tracking-live-dot"></span>
+          <span class="bnkr-tag">BNKR</span>
+          SHIP &amp; BUNKER · TIDEFORM BENCHMARKS
+        </div>
+      </div>
+
+      <!-- 6-KPI MACRO FUEL STRIP -->
+      <div class="bunkers-kpi-grid">
+        <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="VLSFO" data-tt-title="Global VLSFO Composite">
+          <div class="bunkers-kpi-label">Global VLSFO (0.5% S) <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></span></div>
+          <div class="bunkers-kpi-val" id="bunkerKpiVlsfo">…</div>
+          <div class="bunkers-kpi-sub good" id="bunkerKpiVlsfoSub">Loading daily harvest…</div>
+        </div>
+        <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="IFO380" data-tt-title="Global IFO380 / HSFO Composite">
+          <div class="bunkers-kpi-label">Global HSFO / IFO380 <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></span></div>
+          <div class="bunkers-kpi-val" id="bunkerKpiHsfo">…</div>
+          <div class="bunkers-kpi-sub alert" id="bunkerKpiHsfoSub">Loading daily harvest…</div>
+        </div>
+        <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="MGO" data-tt-title="Global MGO Composite">
+          <div class="bunkers-kpi-label">Global MGO (0.1% S) <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></span></div>
+          <div class="bunkers-kpi-val" id="bunkerKpiMgo">…</div>
+          <div class="bunkers-kpi-sub alert" id="bunkerKpiMgoSub">Loading daily harvest…</div>
+        </div>
+<div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="HI5" data-tt-title="Singapore Hi-5 Spread" data-tt-obs="" data-tt-payback="">
+          <div class="bunkers-kpi-label">Singapore Hi-5 Spread <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></span></div>
+          <div class="bunkers-kpi-val" id="bunkerKpiHi5" style="color:#a371f7;">…</div>
+          <div class="bunkers-kpi-sub alert" id="bunkerKpiHi5Sub">Loading daily harvest…</div>
+        </div>
+        <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="EUA" data-tt-title="EU ETS Maritime Carbon Allowance">
+          <div class="bunkers-kpi-label">EU ETS Carbon EUA <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span></div>
+<div class="bunkers-kpi-val" id="bunkerKpiEts" style="color:var(--yellow);">—</div>
+          <div class="bunkers-kpi-sub warn" id="bunkerKpiEtsSub">Loading daily harvest…</div>
+        </div>
+        <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="VOL" data-tt-title="Singapore Physical Sales Volume">
+          <div class="bunkers-kpi-label">Singapore Bunkering <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/><path d="M5 12l2 2"/><path d="M19 12l-2 2"/></svg></span></div>
+<div class="bunkers-kpi-val" id="bunkerKpiVol" style="color:#00e5ff;">—</div>
+          <div class="bunkers-kpi-sub alert" id="bunkerKpiVolSub">Loading daily harvest…</div>
+        </div>
+      </div>
+
+      <!-- BIX BENCHMARK ARCHIVE (BunkerIndex BIX suites: latest strip + full history chart + movers) -->
+      <div class="bix-strip-wrap">
+<span class="bix-arch-badge" id="bunkerBixArchBadge" data-tt-type="bix-archive-badge">Archive span: computing from bix history…</span>
+        <div class="bix-strip" id="bunkerBixStrip"><!-- Populated by renderBunkersBixStrip() --></div>
+        <div class="bix-chart-controls">
+          <div class="cp-btn-group" id="bixRegionBtns">
+            <button class="cp-toggle-btn active" data-bixregion="World" onclick="setBixChartRegion('World')" data-tt-type="bix-region-btn" data-tt-region="World">World</button>
+            <button class="cp-toggle-btn" data-bixregion="World3" onclick="setBixChartRegion('World3')" data-tt-type="bix-region-btn" data-tt-region="World3">World3</button>
+            <button class="cp-toggle-btn" data-bixregion="APAC" onclick="setBixChartRegion('APAC')" data-tt-type="bix-region-btn" data-tt-region="APAC">APAC</button>
+            <button class="cp-toggle-btn" data-bixregion="EMEA" onclick="setBixChartRegion('EMEA')" data-tt-type="bix-region-btn" data-tt-region="EMEA">EMEA</button>
+            <button class="cp-toggle-btn" data-bixregion="Americas" onclick="setBixChartRegion('Americas')" data-tt-type="bix-region-btn" data-tt-region="Americas">Americas</button>
+            <button class="cp-toggle-btn" data-bixregion="MidGulf" onclick="setBixChartRegion('MidGulf')" data-tt-type="bix-region-btn" data-tt-region="MidGulf">MidGulf</button>
+          </div>
+          <div class="cp-btn-group" id="bixGradeBtns">
+            <button class="cp-toggle-btn active" data-bixgrade="VLSFO" onclick="setBixChartGrade('VLSFO')" data-tt-type="bix-grade-btn" data-tt-grade="VLSFO">VLSFO</button>
+            <button class="cp-toggle-btn" data-bixgrade="IFO380" onclick="setBixChartGrade('IFO380')" data-tt-type="bix-grade-btn" data-tt-grade="IFO380">IFO380</button>
+            <button class="cp-toggle-btn" data-bixgrade="MGO" onclick="setBixChartGrade('MGO')" data-tt-type="bix-grade-btn" data-tt-grade="MGO">MGO</button>
+          </div>
+          <span class="bix-chart-meta" id="bunkerBixChartMeta" data-tt-type="bix-chart">World · VLSFO</span>
+        </div>
+        <div class="bix-chart-box"><canvas id="bunkerBixChart" data-tt-type="bix-chart"></canvas></div>
+        <div class="bunkers-meta">Source: BunkerIndex BIX, 5 regions × 3 grades · changes vs prior observation · range chips = low-high across constituent ports · chart plots the full observation archive with region and grade selectors above.</div>
+      </div>
+
+      <!-- BIX REGIONAL MOVERS (every published suite × 3 grades, latest observation) -->
+      <div class="bix-movers-wrap">
+        <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixMoversHead">Regional movers · latest price and change vs prior observation</span><span class="bix-arch-badge" id="bunkerBixMoversObs" data-tt-type="bix-archive-badge">obs —</span></div>
+        <table class="bix-movers-table" data-tt-type="bix-movers">
+          <thead><tr><th>Region</th><th>VLSFO</th><th>IFO380</th><th>MGO</th></tr></thead>
+          <tbody id="bunkerBixMoversBody"><!-- Populated by renderBunkersBixMovers() --></tbody>
+        </table>
+      </div>
+
+      <!-- FILTER & SLICER TOOLBAR (BNKR idiom: amber rail, mono micro-labels) -->
+      <div class="bunkers-toolbar">
+        <div class="bunkers-tool-left">
+          <span class="bnkr-tag">BNKR</span>
+          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">REGION:</div>
+          <button class="bunkers-pill active" data-region="all" onclick="setBunkerRegion('all')" data-tt-type="bunker-region-btn" data-tt-region="all">All Regions (221 Ports)</button>
+          <button class="bunkers-pill" data-region="APAC" onclick="setBunkerRegion('APAC')" data-tt-type="bunker-region-btn" data-tt-region="APAC">Asia-Pacific (APAC)</button>
+          <button class="bunkers-pill" data-region="EMEA" onclick="setBunkerRegion('EMEA')" data-tt-type="bunker-region-btn" data-tt-region="EMEA">Europe, MidEast, Africa</button>
+          <button class="bunkers-pill" data-region="Americas" onclick="setBunkerRegion('Americas')" data-tt-type="bunker-region-btn" data-tt-region="Americas">Americas</button>
+
+          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:12px; margin-right:4px;">GRADE:</div>
+          <button class="bunkers-pill active" data-grade="all" onclick="setBunkerGrade('all')" data-tt-type="bunker-grade-btn" data-tt-grade="all">All Grades</button>
+          <button class="bunkers-pill" data-grade="VLSFO" onclick="setBunkerGrade('VLSFO')" data-tt-type="bunker-grade-btn" data-tt-grade="VLSFO">VLSFO</button>
+          <button class="bunkers-pill" data-grade="MGO" onclick="setBunkerGrade('MGO')" data-tt-type="bunker-grade-btn" data-tt-grade="MGO">MGO</button>
+          <button class="bunkers-pill" data-grade="IFO380" onclick="setBunkerGrade('IFO380')" data-tt-type="bunker-grade-btn" data-tt-grade="IFO380">HSFO</button>
+          <button class="bunkers-pill" data-grade="BIO" onclick="setBunkerGrade('BIO')" data-tt-type="bunker-grade-btn" data-tt-grade="BIO">Biofuels</button>
+        </div>
+        <div class="bunkers-tool-right">
+          <input type="text" id="bunkersSearchInput" class="bunkers-input" placeholder="Search port, country, code..." oninput="onBunkersSearchInput()" data-tt-type="bunker-search">
+        </div>
+      </div>
+
+      <!-- WORKSTATION: SPLIT PANE -->
+      <div class="bunkers-workstation">
+        <!-- Left Pane: 4 Subviews -->
+        <div class="bunkers-left-pane">
+          <div class="bunkers-subview-nav">
+            <button id="subnavBunkersSpot" class="bunkers-subview-btn active" onclick="setBunkersSubView('spot')" data-tt-type="bunker-subtab" data-tt-view="spot" data-tooltip="Global spot bunker prices across 221 ports covering VLSFO, MGO, and HSFO.">
+              Spot Prices (221)
+            </button>
+            <button id="subnavBunkersForward" class="bunkers-subview-btn" onclick="setBunkersSubView('forward')" data-tt-type="bunker-subtab" data-tt-view="forward" data-tooltip="12-month forward derivative price curves and Hi-5 spreads across key bunkering hubs.">
+              12M Forward Curves
+            </button>
+            <button id="subnavBunkersVolumes" class="bunkers-subview-btn" onclick="setBunkersSubView('volumes')" data-tt-type="bunker-subtab" data-tt-view="volumes" data-tooltip="Monthly bunker sales volumes, grade breakdown, and demand trends in major bunkering hubs.">
+              Physical Volumes
+            </button>
+            <button id="subnavBunkersScrubber" class="bunkers-subview-btn" onclick="setBunkersSubView('scrubber')" data-tt-type="bunker-subtab" data-tt-view="scrubber" data-tooltip="Scrubber premium payback economics, Hi-5 spreads, and EU ETS carbon compliance costs.">
+              Scrubber &amp; EU ETS
+            </button>
+            <button id="subnavBunkersAltfuels" class="bunkers-subview-btn" onclick="setBunkersSubView('altfuels')" data-tt-type="bunker-subtab" data-tt-view="altfuels" data-tooltip="Verified LNG, methanol and EUA carbon indications — non-null ports only, never zero-filled.">
+              Alt Fuels (LNG·MEOH·EUA)
+            </button>
+          </div>
+
+          <!-- Subview 1: 221 Ports Spot Matrix -->
+          <div id="bunkersSubviewSpot" class="bunkers-subview-content" style="display:flex; flex-direction:column;">
+            <div id="bunkersFilterBanner" style="display:none; padding:7px 12px; background:rgba(0, 229, 255, 0.08); border-bottom:1px solid rgba(0, 229, 255, 0.25); font-size:11px; color:#c9d1d9; justify-content:space-between; align-items:center;">
+              <span id="bunkersFilterBannerText">Filtered by Biofuels (B24): 8 premier global supply ports active.</span>
+              <button id="bunkerShowAllPortsBtn" onclick="setBunkerGrade('all'); setBunkerRegion('all');" style="background:none; border:none; color:#58a6ff; cursor:pointer; font-size:11px; text-decoration:underline; font-family:inherit;">Show All Ports</button>
+            </div>
+            <div class="bunkers-table-wrap">
+              <table class="bunkers-table">
+                <thead>
+                  <tr>
+                    <th data-tooltip="Bunkering port or marine fuel supply terminal.">Port / Hub</th>
+                    <th data-tooltip="Geographical trading zone.">Region</th>
+                    <th data-tooltip="Very Low Sulphur Fuel Oil (0.5% max sulphur) price in $/MT.">VLSFO</th>
+                    <th data-tooltip="Marine Gas Oil (0.1% max sulphur) distillate price in $/MT.">MGO</th>
+                    <th id="bunkersThCol5" data-tooltip="High Sulphur Fuel Oil (3.5% max sulphur) price in $/MT.">HSFO</th>
+                    <th data-tooltip="Fuel price differential relative to Singapore benchmark hub ($/MT).">Spread (vs SG)</th>
+                    <th data-tooltip="VLSFO delta: pipeline change_7d when live, else MoM-from-monthly_series fallback (labeled MoM*) + 12-month VLSFO sparkline and range.">Δ + 12M Spark</th>
+                  </tr>
+                </thead>
+                <tbody id="bunkersTableBodyAll">
+                  <!-- Populated dynamically -->
+                </tbody>
+              </table>
+            </div>
+            <div class="bunkers-table-footer">
+              <span id="bunkersPageInfo">Showing 1–50 of 221 ports</span>
+              <div style="display:flex; gap:6px;">
+                <button id="btnBunkersPrev" class="tracking-page-btn" onclick="prevBunkersPage()" data-tooltip="Previous 50 bunker ports.">Prev</button>
+                <button id="btnBunkersNext" class="tracking-page-btn" onclick="nextBunkersPage()" data-tooltip="Next 50 bunker ports.">Next</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Subview 2: 12-Month Forward Curves -->
+          <div id="bunkersSubviewForward" class="bunkers-subview-content" style="display:none;">
+            <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
+              <div style="font-size:11px; font-weight:600; color:var(--text-muted);">FORWARD HUB:</div>
+              <select id="bunkersForwardHubSelect" class="tracking-select" onchange="onBunkersForwardHubChange()" data-tt-type="bunker-forward-hub" data-tooltip="Select forward pricing terminal benchmark.">
+                <option value="Singapore" selected>Singapore (Global Bunker Benchmark)</option>
+                <option value="Rotterdam">Rotterdam (ARA Range)</option>
+                <option value="Fujairah">Fujairah (Middle East Gulf)</option>
+                <option value="Busan">Busan (Northeast Asia)</option>
+                <option value="Hong Kong">Hong Kong (Pearl River Delta)</option>
+                <option value="Kaohsiung">Kaohsiung (Taiwan Strait)</option>
+              </select>
+            </div>
+            <div class="bunkers-table-wrap">
+              <table class="bunkers-table">
+                <thead>
+                  <tr>
+                    <th data-tooltip="Forward delivery settlement maturity month.">Contract</th>
+                    <th data-tooltip="High Sulphur Fuel Oil 380 cSt forward swap price ($/MT).">IFO380 ($/MT)</th>
+                    <th data-tooltip="Very Low Sulphur Fuel Oil 0.5% forward swap price ($/MT).">VLSFO ($/MT)</th>
+                    <th data-tooltip="Marine Gas Oil 0.1% forward swap price ($/MT).">MGO ($/MT)</th>
+                    <th data-tooltip="VLSFO minus IFO380 forward scrubber spread ($/MT).">Hi-5 Spread</th>
+                  </tr>
+                </thead>
+                <tbody id="bunkersForwardTableBody">
+                  <!-- Populated dynamically -->
+                </tbody>
+              </table>
+            </div>
+            <div style="font-size:10px; color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+              Source: Bunker Index 12-Month Forward Delivery Curve Engine
+            </div>
+          </div>
+
+          <!-- Subview 3: Physical Sales Volumes (2 PORTS ONLY) -->
+          <div id="bunkersSubviewVolumes" class="bunkers-subview-content" style="display:none;">
+            <div style="padding:10px 14px; background:#0e141c; border-bottom:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
+              <div style="font-size:11px; font-weight:600; color:var(--text-muted);">DELIVERY PORT — <span style="color:#e3b341;">2 PORTS ONLY</span> (SG monthly · RTM quarterly):</div>
+              <select id="bunkersVolHubSelect" class="tracking-select" onchange="onBunkersVolHubChange()" data-tt-type="bunker-vol-hub" data-tooltip="Select bunker volume reporting port authority.">
+                <option value="Singapore" selected>Singapore (MPA Official Volumes)</option>
+                <option value="Rotterdam">Rotterdam (Port Authority Deliveries)</option>
+              </select>
+            </div>
+            <div class="bunkers-table-wrap">
+              <table class="bunkers-table">
+                <thead>
+                  <tr>
+                    <th data-tooltip="Reported calendar delivery month.">Period</th>
+                    <th data-tooltip="Reporting cadence (Monthly official port authority statistics).">Frequency</th>
+                    <th data-tooltip="Total bunker fuel delivered in metric tonnes (MT).">Volume (Metric Tonnes)</th>
+                    <th data-tooltip="Fuel delivery breakdown category.">Metric Type</th>
+                  </tr>
+                </thead>
+                <tbody id="bunkersVolumesTableBody">
+                  <!-- Populated dynamically -->
+                </tbody>
+              </table>
+            </div>
+            <div style="font-size:10px; color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+              Source: Maritime and Port Authority of Singapore (monthly) &amp; Havenbedrijf Rotterdam (quarterly) · Coverage: 2 of 221 ports — no other port reports verified physical volumes.
+            </div>
+          </div>
+
+          <!-- Subview 5: Alt Fuels — LNG / Methanol / EUA (non-null ports only, never zero-filled) -->
+          <div id="bunkersSubviewAltfuels" class="bunkers-subview-content" style="display:none;">
+            <div style="padding:7px 12px; background:rgba(0, 229, 255, 0.06); border-bottom:1px solid rgba(0, 229, 255, 0.2); font-size:11px; color:#c9d1d9;" id="bunkersAltFuelsCap">
+              Verified alt-fuel indications — non-null ports only.
+            </div>
+            <div class="bunkers-table-wrap">
+              <table class="bunkers-table">
+                <thead>
+                  <tr>
+                    <th data-tooltip="Port with at least one verified alt-fuel indication.">Port / Hub</th>
+                    <th data-tooltip="Liquefied natural gas bunker indication ($/MT). Null = no verified quote, never zero.">LNG</th>
+                    <th data-tooltip="Methanol bunker indication ($/MT). Null = no verified quote, never zero.">MEOH</th>
+                    <th data-tooltip="EU Allowance carbon price. Null = no verified quote, never zero.">EUA</th>
+                    <th data-tooltip="B24 biofuel blend ($/MT) for reference.">B24 Bio</th>
+                  </tr>
+                </thead>
+                <tbody id="bunkersAltFuelsTableBody">
+                  <!-- Populated by renderBunkersAltFuels() -->
+                </tbody>
+              </table>
+            </div>
+            <div style="font-size:10px; color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+              Source: Ship &amp; Bunker RPC verified alt-fuel indications · dash = no verified quote, never zero-filled.
+            </div>
+          </div>
+
+          <!-- Subview 4: Scrubber Economics & EU ETS -->
+          <div id="bunkersSubviewScrubber" class="bunkers-subview-content" style="display:none;">
+            <div class="bunkers-table-wrap">
+              <table class="bunkers-table">
+                <thead>
+                  <tr>
+                    <th data-tooltip="Key bunkering port or regional terminal.">Port / Hub</th>
+                    <th data-tooltip="Price premium of VLSFO over HSFO ($/MT).">Hi-5 Spread</th>
+                    <th data-tooltip="Daily earnings premium for scrubber-fitted Capesize vessel ($/day).">Cape TCE Bonus</th>
+                    <th data-tooltip="Daily earnings premium for scrubber-fitted VLCC vessel ($/day).">VLCC TCE Bonus</th>
+                    <th data-tooltip="Estimated EU ETS carbon compliance cost per metric tonne of bunker fuel consumed.">EU ETS Cost</th>
+                  </tr>
+                </thead>
+                <tbody id="bunkersScrubberTableBody">
+                  <!-- Populated dynamically -->
+                </tbody>
+              </table>
+            </div>
+            <div style="font-size:10px; color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:'IBM Plex Mono', monospace;">
+              Burn-rate assumptions: Capesize 45 MT/d, VLCC 55 MT/d · EU ETS priced at the static screening EUA assumption disclosed on the EUA card tooltip (set by the daily harvest)
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Pane: Map & Chart Drawer -->
+        <div class="bunkers-right-pane">
+          <!-- Bunker Map -->
+          <div id="bunkerGeoMapContainer">
+            <div class="map-active-hud">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+              </svg>
+              <span id="bunkerMapHudDetail">221 Global Bunker Supply Ports Active</span>
+            </div>
+
+            <div class="map-legend-overlay">
+              <div class="map-legend-item"><span class="map-legend-dot" style="background:#00e5ff;"></span> APAC Supply Ports</div>
+              <div class="map-legend-item"><span class="map-legend-dot" style="background:#4d9aff;"></span> EMEA / Europe Ports</div>
+              <div class="map-legend-item"><span class="map-legend-dot" style="background:#e3b341;"></span> Americas Ports</div>
+            </div>
+
+            <div id="bunkerGeoMap"></div>
+          </div>
+
+          <!-- Chart Drawer -->
+          <div class="bunkers-chart-drawer">
+            <div class="bunkers-drawer-header">
+              <div class="bunkers-drawer-title-wrap">
+                <h3>
+                  <span id="bunkerChartPortTitle">Singapore Bunker Price History</span>
+                  <span class="tracking-live-tag" style="font-size:9px; padding:2px 6px;" id="bunkerChartTag">VLSFO / MGO / HSFO / BIO</span>
+                </h3>
+                <div class="bunkers-drawer-sub" id="bunkerChartPortSub">
+                  3-Year Multi-Grade Historical Series (2023–2026) with Hi-5 Scrubber Spread
+                </div>
+              </div>
+              <div style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
+                <select id="bunkerChartPortSelect" class="tracking-select" onchange="onBunkerChartPortSelect()" data-tooltip="Select bunker supply port or regional benchmark to plot.">
+                  <option value="Global Average Bunker Price">Global Average Bunker Price</option>
+                  <option value="Global 20 Ports Average">Global 20 Ports Average</option>
+                  <option value="Global 4 Ports Average">Global 4 Ports Average</option>
+                  <option value="APAC Average">APAC Average (Benchmark)</option>
+                  <option value="EMEA Average">EMEA Average (Benchmark)</option>
+                  <option value="Americas Average">Americas Average (Benchmark)</option>
+                  <option value="Singapore" selected>Singapore</option>
+                  <option value="Rotterdam">Rotterdam</option>
+                  <option value="Fujairah">Fujairah</option>
+                  <option value="Houston">Houston</option>
+                  <option value="Gibraltar">Gibraltar</option>
+                  <option value="Algeciras">Algeciras</option>
+                  <option value="Zhoushan">Zhoushan</option>
+                  <option value="Hong Kong">Hong Kong</option>
+                  <option value="Busan">Busan</option>
+                  <option value="Tokyo">Tokyo</option>
+                  <option value="Shanghai">Shanghai</option>
+                  <option value="Ningbo">Ningbo</option>
+                  <option value="Qingdao">Qingdao</option>
+                  <option value="Balboa, Panama">Balboa, Panama</option>
+                  <option value="LA / Long Beach">LA / Long Beach</option>
+                  <option value="New York">New York</option>
+                  <option value="Santos">Santos</option>
+                  <option value="Antwerp">Antwerp</option>
+                  <option value="Piraeus">Piraeus</option>
+                  <option value="Istanbul">Istanbul</option>
+                  <option value="Las Palmas">Las Palmas</option>
+                  <option value="Barcelona">Barcelona</option>
+                  <option value="Durban">Durban</option>
+                  <option value="Colombo">Colombo</option>
+                  <option value="Vancouver">Vancouver</option>
+                </select>
+                <div class="cp-btn-group">
+                  <button class="cp-toggle-btn active" data-range="all" onclick="setBunkerChartRange('all')" data-tooltip="3-Year monthly macro historical series (2023–2026).">Max (3Y)</button>
+                  <button class="cp-toggle-btn" data-range="1y" onclick="setBunkerChartRange('1y')" data-tooltip="Trailing 12-month high-resolution daily spot series.">1Y (Daily)</button>
+                  <button class="cp-toggle-btn" data-range="6m" onclick="setBunkerChartRange('6m')" data-tooltip="Trailing 6-month high-resolution daily spot series.">6M (Daily)</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="cp-controls-bar">
+              <div class="cp-btn-group">
+                <button class="cp-toggle-btn active" data-grade="vlsfo" onclick="setBunkerChartGrade('vlsfo')" data-tooltip="Very Low Sulphur Fuel Oil 0.5% max sulphur spot price ($/MT).">VLSFO (0.5%)</button>
+                <button class="cp-toggle-btn" data-grade="mgo" onclick="setBunkerChartGrade('mgo')" data-tooltip="Marine Gas Oil 0.1% max sulphur distillate spot price ($/MT).">MGO (0.1%)</button>
+                <button class="cp-toggle-btn" data-grade="hsfo" onclick="setBunkerChartGrade('hsfo')" data-tooltip="High Sulphur Fuel Oil IFO380 spot price ($/MT).">HSFO (IFO380)</button>
+                <button class="cp-toggle-btn" data-grade="hi5" onclick="setBunkerChartGrade('hi5')" data-tooltip="Hi-5 spread: price premium of VLSFO over HSFO ($/MT).">Hi-5 Spread</button>
+                <button class="cp-toggle-btn" data-grade="bio" onclick="setBunkerChartGrade('bio')" data-tooltip="B24 biofuel blend spot price ($/MT).">Biofuel (B24)</button>
+              </div>
+              <div style="font-size:10px; color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">
+                Source: Ship &amp; Bunker RPC Spot History (482k records, 2023–2026)
+              </div>
+            </div>
+
+            <div style="height:250px; min-height:220px; position:relative; width:100%;">
+              <canvas id="bunkerMainChart"></canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /tab-bunkers -->
+ 
+    <!-- =====================================================================
+         TAB: OFFSHORE & OSV TERMINAL (SEABROKERS INTELLIGENCE)
+         ===================================================================== -->
+    

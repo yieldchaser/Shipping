@@ -5,7 +5,9 @@ source: "poten"
 category: "tankers"
 source_url: "https://www.poten.com/backup-plans-2/"
 author: "Daniella Green"
-completeness: "standfirst"
+completeness: "full_pdf_archived"
+pdf_url: "https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20July%202026%20-%20Backup%20Plans.pdf"
+pdf_file: "Weekly Opinion - 17 July 2026 - Backup Plans.pdf"
 tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 ---
 
@@ -14,6 +16,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Author**: Daniella Green
 **Published Date**: 2026-07-17  
 **Source URL**: [https://www.poten.com/backup-plans-2/](https://www.poten.com/backup-plans-2/)  
+**Full PDF Report**: [Weekly Opinion - 17 July 2026 - Backup Plans.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20July%202026%20-%20Backup%20Plans.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ---

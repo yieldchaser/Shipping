@@ -1,0 +1,523 @@
+4904	  /* Contract Roll Schedule Badges — Pillar 2 */
+4918	  /* M0 — Front-Month: Amber/Gold */
+4924	  /* M+1 — Next Month: Teal/Accent */
+4930	  /* M+2 and beyond — Two-Out: Muted */
+8163	      // (Do NOT reference `DATA` in this initializer — it would hit the temporal dead zone.)
+8797	        // switchTab can reach this before it executes. Bail silently — tab switches
+10256	            carryEl.textContent = '—';
+10412	        { text: 'Sic Parvis Magna — Great things from small beginnings.', attr: 'Sir Francis Drake' },
+10415	        { text: 'The Fancy, 46 guns — Avery’s ship, named for nothing but the wind and fortune.', attr: '' },
+10420	        { text: 'The Ganj-i-Sawai, 1695 — \xa3600,000 in gold & silver seized on the Indian Ocean. The richest pirate raid in history.', attr: '' },
+10525	            <button class="toggle-btn active" data-tooltip="Overlay the three most recent complete years — quick analog-year read." onclick="selectYearPreset(3)">3Y</button>
+10527	            <button class="toggle-btn" data-tooltip="Overlay the ten most recent complete years — widest quick analog view." onclick="selectYearPreset(10)">10Y</button>
+10603	          <button class="corr-btn" data-corr="1y" data-tooltip="Compute the correlation matrix over the last twelve months — the current-regime read." onclick="setCorrTimeframe(this,'1y')">Last 1Y</button>
+10633	              (75% win) — deep-distress labels flag volatility risk, but historically marked the strongest
+10653	            <button class="dl-btn" id="ydHistDlBtn" data-tooltip="Download the full historical price series as CSV — exactly the values plotted from the master cache.">&#x2B07; CSV</button>
+10675	            <button class="toggle-btn active" id="ydZscoreBtn252" data-tooltip="Compute the z-score against a 1-year (252 trading day) rolling window — the default." onclick="setYDZscoreWindow(252)">1Y</button>
+10742	          <div class="chart-title" data-tooltip="Peak Retracement (52-Week Rolling, Last 5 Years) — each point shows how far the index sits below its rolling 1-year high on that date. Freight corrections of 30–50% after major spikes are historically normal; deeper or sustained drawdowns signal structural bear markets.">Drawdown % (52-Week Rolling, Last 5 Years)</div>
+10788	          <button class="dl-btn" id="quarterlyDashGridDlBtn" data-tooltip="Download the quarterly dashboard grid as CSV — exactly the quarterly aggregates shown.">&#x2B07; CSV</button>
+11168	              <span id="deconstProvenanceAsOf" style="color:var(--text);font-weight:600;">Holdings As-of — (loading snapshot)</span>
+11361	              <span id="queueSignalBadge">Queue signal: —</span>
+11362	              <span id="lineupTotalsLine">— hulls · — DWT</span>
+11708	              <div class="tt-date" id="simTtDate">—</div>
+11709	              <div class="tt-row"><span>Sim NAV:</span> <strong id="simTtNav" class="pos">—</strong></div>
+11831	<div class="hud-val pos" id="simHudPnl">—</div>
+11948	            <button class="dl-btn" id="bdryLiqDlBtn" data-tooltip="Download the visible BDRY liquidity table as CSV — identical numbers to the on-screen cache values.">⬇ CSV</button>
+11949	            <button class="dl-btn" id="bwetLiqDlBtn" data-tooltip="Download the visible BWET liquidity table as CSV — identical numbers to the on-screen cache values." style="display:none;">⬇ CSV</button>
+12074	              <div id="dtModalSub" style="font-size:11px;color:var(--text-muted);margin-top:3px;">ID: <span id="dtModalId" style="font-family:monospace;color:var(--accent);">—</span> &bull; <span id="dtModalTime">—</span></div>
+12173	              Latest settlement prices per contract month. Click any point to view full contract history below, or open the contract archive to explore expired contracts — labels show each one's archived traded-day count (SGX records settlements only on cleared sessions; daily depth is available from Mar 2026).
+12228	                <div id="ioFwdHudPrompt" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+12232	                <div id="ioFwdHudSpread" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+12236	                <div id="ioFwdHudLump" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+12240	                <div id="ioFwdHudRegime" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
+12244	                <div id="ioFwdHudOI" style="font-size:14px;font-weight:700;color:var(--text);">—</div>
+12631	    <div class="chart-title" data-tooltip="FearnPulse 56-Year Institutional Benchmark Time Charter Series (1970–2026) — systematic multi-decade 1-Year TC freight assessments across Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, and Aframax harvested from Fearnleys Hasura database.">
+12678	          <button class="toggle-btn" id="btnTceScaleLog" data-tooltip="Logarithmic y-axis: equal pixel distance per percentage change — better for multi-decade spans." onclick="switchFearnTceScale('log')" style="padding:2px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Log</button>
+12698	              <div class="chart-title" id="tcChartTitle" data-tooltip="Spot vs Period Time Charter Rates (TCE $/day) — overlays daily spot earnings against fixed period charter rates (4/6M, 1Y, 2Y, 3Y, 5Y) to identify term structure regimes. Spot > Period TC = Backwardation/tightness; Spot < Period TC = Contango/overcapacity. Daily Baltic spot freight publishing begins in 2000." data-tt-type="concept-timecharter">Daily Spot vs Period Term Arbitrage (2000–2026)</div>
+12720	                <div id="spotTcRatioBadge" class="kpi-badge">Ratio: —</div>
+12753	                <div id="tceMatrixDateBadge" class="kpi-badge" data-tooltip="Official publication date of Alibra Shipbrokers weekly period fixture assessments">Report Date: —</div>
+12763	    <div class="chart-title" data-tooltip="Fearnleys 52-Year Commercial Charter Fixture Archive (1974–2026) — 537,164 recorded commercial fixture contracts across Dry Bulk (413k), Tankers (109.5k), LNG/LPG (13.7k), and RoRo.">
+12860	                <div id="tankerFwdShiftBadge" class="kpi-badge" style="display:none;" data-tooltip="Curve Shift: Net $/day change in prompt contract between today and historical comparison snapshot">Shift: —</div>
+12861	                <div id="tankerFwdSlopeBadge" class="kpi-badge" data-tooltip="Term Structure Spread: M1 Prompt vs M12 Deferred contract spread. Positive = Backwardation (Prompt > Deferred); Negative = Contango (Prompt < Deferred)">Term Structure: —</div>
+12862	                <div id="tankerFwdEcoBadge" class="kpi-badge" data-tooltip="Eco Fuel-Efficiency Premium: Average $/day savings of modern Eco/Scrubber vessels over conventional standard hulls">Eco Premium: —</div>
+12878	              <div class="chart-title" id="basinSpreadTitle" data-tooltip="Atlantic vs Pacific time-charter spread — positive = Atlantic premium, drives ballast repositioning." data-tt-type="concept-basinspread">Tonnage Basin Arbitrage (Atlantic vs Pacific TC)</div>
+12892	                <div id="basinRatioBadge" class="kpi-badge" data-tooltip="Atlantic-to-Pacific Period Rate Ratio (>1.2 = Atlantic Premium / Tonnage Demand; <0.8 = Pacific Premium)">Atl/Pac: —</div>
+12899	                <div id="basinHudNetSpread" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+12903	                <div id="basinHudAtlPremium" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+12907	                <div id="basinHud30dMa" style="font-size:14px;font-weight:700;color:#79c0ff;">—</div>
+12911	                <div id="basinHud90p" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+12931	              <div class="chart-title" id="restockingTitle" data-tooltip="China port iron-ore stocks vs Capesize spot — low coverage under 45 days forces restocking surges." data-tt-type="concept-restocking">Leading Restocking Pressures (Port Stocks vs Spot Rates)</div>
+12939	                <div id="oreFreightRatioBadge" class="kpi-badge" data-tooltip="Capesize Freight to Iron Ore Value Ratio (%) — measures shipping cost as a percentage of total delivered commodity value">Freight/Ore: —</div>
+12946	                <div id="restockHudDaysCoverage" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+12950	                <div id="restockHudVelocity" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+12954	                <div id="restockHudFreightRatio" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+12958	                <div id="restockHudSgxRegime" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+12962	                <div id="restockHudSpread" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+12989	              <div class="chart-title" id="commodityTitle" data-tooltip="World Bank Pink Sheet monthly commodity prices — iron ore, coal, Brent and indices driving cargo demand." data-tt-type="concept-commodities" data-tt-group="ore">Cargo Demand Drivers — World Bank Commodity Prices</div>
+13011	              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Iron ore 62% Fe CFR China benchmark from the World Bank Pink Sheet — the single largest dry bulk cargo by tonnage" data-tt-type="commodity-hud-cell" data-tt-series="iron_ore">
+13013	                <div id="comHudIronOre" style="font-size:14px;font-weight:700;color:#ff6b6b;">—</div>
+13015	              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Thermal coal Australian benchmark — second pillar of Pacific dry bulk demand" data-tt-type="commodity-hud-cell" data-tt-series="coal_australian">
+13017	                <div id="comHudCoal" style="font-size:14px;font-weight:700;color:#d29922;">—</div>
+13019	              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Brent crude benchmark — proxy for tanker cargo value and global energy trade intensity" data-tt-type="commodity-hud-cell" data-tt-series="crude_brent">
+13021	                <div id="comHudBrent" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
+13023	              <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="World Bank total non-energy commodity index — aggregate raw-material trade pulse" data-tt-type="commodity-hud-cell" data-tt-series="total_index">
+13025	                <div id="comHudTotalIdx" style="font-size:14px;font-weight:700;color:#a371f7;">—</div>
+13050	                <div id="lpgRatesBadge" class="kpi-badge" data-tooltip="1-Year Time Charter fixture rate for modern 84,000 m³ Very Large Gas Carriers (VLGC)">VLGC 1Y TC: —</div>
+13057	                <div id="lpgHudSpotTcSpread" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+13061	                <div id="lpgHudPremPct" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+13065	                <div id="lpgHudBlpgIndex" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+13093	                <div id="lngRatesBadge" class="kpi-badge" data-tooltip="Prompt 7-Year and 10-Year Time Charter rates and 174k m³ Newbuilding shipyard contract price">LNG 7Y TC: —</div>
+13100	                <div id="lngHudPaybackYield" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+13104	                <div id="lngHudPaybackYears" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+13108	                <div id="lngHudNbPrice" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+13128	              <div class="chart-title" id="containerIndexTitle" data-tooltip="Capital Link Container Index (CLCI) — 21-year continuous institutional benchmark (2005–2026) tracking public container shipping equities, long-term charter fixtures, and box fleet earnings power, paired with Freightos Baltic Global Spot Freight." data-tt-type="concept-clci">
+13169	                <div id="clciHudFbx" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
+13193	                <div id="grainFreightBadge" class="kpi-badge">Gulf-PNW Spread: —</div>
+13209	                <div id="queueBadge" class="kpi-badge">Vessels Due: —</div>
+13229	              <div class="chart-title" id="valuationTitle" data-tooltip="Secondhand 10Y values vs demolition scrap floor and implied charter yield — asset cycle entry signal." data-tt-type="concept-scrapfloor">Vessel Valuations & Capital Yield</div>
+13245	                <div id="scrapFloorBadge" class="kpi-badge" data-tooltip="Current asset price relative to the historical steel demolition scrap floor">Value: —</div>
+13252	                <div id="valHudSafetyMargin" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+13256	                <div id="valHud10yValue" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
+13260	                <div id="valHudScrapFloor" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+13264	                <div id="valHudCharterYield" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+13284	              <div class="chart-title" id="quadrantChartTitle" data-tooltip="Shipping Cycle Quadrant — 4-phase shipping cycle model plotting spot rate momentum (60D ROC) against Spot/TC ratio Z-score. Classifies the market into: 1) Recovery, 2) Boom, 3) Over-ordering / Distribution, and 4) Restructuring." data-tt-type="concept-quadrant">Shipping Market Cycle Quadrant</div>
+13302	                  <div id="quadrantPhaseText" style="font-weight:700;font-size:14px;color:var(--accent);margin-bottom:8px;">—</div>
+13305	                    <div id="quadrantDaysCounterVal" style="font-size:13px;font-weight:700;color:var(--text-bright);margin-top:2px;">—</div>
+13306	                    <div id="quadrantMedianDurationVal" style="font-size:11px;color:var(--text-muted);margin-top:2px;">10Y Historical Median: —</div>
+13317	    <div class="chart-title" data-tooltip="Fearnleys 50-Year Historical Secondhand Vessel Valuations (1976–2026) — systematic asset price tracking for 5-Year Old, 10-Year Old, and Resale tonnage plotted against Newbuilding replacement costs and scrap steel floors.">
+13331	      <span class="kpi-badge" id="fearnAssetCurBadge">Valuation: —</span>
+13339	      <div class="fearn-kpi-val" id="valAsset5y">—</div>
+13340	      <div class="fearn-kpi-sub" id="subAsset5y">50Y Rank: —</div>
+13344	      <div class="fearn-kpi-val" id="valAssetResale">—</div>
+13349	      <div class="fearn-kpi-val" id="valAsset10y">—</div>
+13354	      <div class="fearn-kpi-val" id="valAssetNb">—</div>
+13359	      <div class="fearn-kpi-val" id="valAssetParity">—</div>
+13370	    <div class="chart-title" id="fearnSnpTitle" data-tooltip="Fearnleys Verified Secondhand Vessel Sale &amp; Purchase (S&amp;P) Deal Ledger — every recorded transaction with price, yard and buyer. Counts populate from the fearnleys_summary cache as soon as it loads.">
+13423	                <div id="landedCostBadge" class="kpi-badge">US vs Brazil Spread: —</div>
+13439	                <div id="scrapBadge" class="kpi-badge">India Scrap: —</div>
+13451	            <span data-tooltip="Upstream Physical Commodity Flows & Port Logistics — Tracks physical cargo departures from primary mining & energy terminals (Brazil MDIC, Pilbara Ports PPA, US EIA, Port of Newcastle), global port congestion bottlenecks, EU ETS maritime carbon compliance costs, and ton-mile fleet utilization dynamics."><div class="icon-tile icon-tile-teal icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg></div> &nbsp;Upstream Commodity Flows &amp; Port Logistics</span>
+13468	                <div id="brazilExportsBadge" class="kpi-badge">Brazil Iron Ore: —</div>
+13481	                  <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Port of Dampier')" disabled title="No live Dampier feed — Port Hedland only (PPA publishes separately)" data-tooltip=" " data-tt-type="concept-ppa-port-btn" data-tt-port="Port of Dampier" data-tt-share="~15% of global seaborne iron ore" data-tt-desc="Rio Tinto's primary Western Australian export terminal alongside Cape Lambert. No live feed — Port Hedland only (PPA publishes separately)." style="padding:3px 8px;border:none;cursor:not-allowed;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);opacity:0.45;">Port of Dampier (Mt)</button>
+13485	                <div id="ppaThroughputBadge" class="kpi-badge">Port Hedland: —</div>
+13489	            <div id="ppaProvenanceFooter" style="font-size:10px;color:var(--text-muted);margin-top:6px;padding:6px 8px;background:var(--bg);border:1px solid var(--border);border-radius:4px;line-height:1.4;">Provenance: <span id="ppaProvenanceText">Loading…</span> — official PPA monthly cargo-statistics (Port Hedland) via Internet Archive of pilbaraports.com.au; Dampier publishes separately. Rows flagged <code>provenance</code> diagnostic carry template seasonality until live feed acquisition. Coverage: 2024–present.</div>
+13497	                <div id="eiaExportsBadge" class="kpi-badge">US Crude Exports: —</div>
+13506	              <div class="chart-title" id="portCongestionTitle" data-tooltip=" " data-tt-type="concept-port-congestion">Global Port Activity Monitor — Calls &amp; Dry-Bulk Tonnage (IMF PortWatch)</div>
+13523	                <div id="congestionBadge" class="kpi-badge">Port Calls: —</div>
+13527	            <div id="portProvenanceFooter" style="font-size:10px;color:var(--text-muted);margin-top:6px;padding:6px 8px;background:var(--bg);border:1px solid var(--border);border-radius:4px;line-height:1.4;">Provenance: IMF PortWatch <code>Daily_Ports_Data</code> — measured AIS daily port calls &amp; dry-bulk tonnage. Previous waiting-time / anchored-ship series was simulated and withdrawn 2026-08-25. Last snapshot: <span id="portProvenanceText">Loading…</span>. Hubs: Qingdao, Ningbo, Port Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao + All aggregate.</div>
+13535	                <div id="carbonEtsBadge" class="kpi-badge">EUA Carbon: —</div>
+13562	                  <div id="calcScrubberDailySavings" style="font-size:15px;font-weight:700;color:#3fb950;margin-top:2px;">—</div>
+13567	                  <div id="calcScrubberAnnualAdvantage" style="font-size:15px;font-weight:700;color:#58a6ff;margin-top:2px;">—</div>
+13572	                  <div id="calcEuEtsVoyageDrag" style="font-size:15px;font-weight:700;color:#ff7b72;margin-top:2px;">—</div>
+13583	              <div class="chart-title" id="tonMileSimTitle" data-tooltip="Ton-mile simulator — Guinea/Brazil long-haul flows vs fleet utilization; above 88-90% signals super-cycle repricing." data-tt-type="concept-ton-mile-sim">Ton-Mile Absorption & Fleet Utilization Model Simulator</div>
+13620	                <strong>Feasibility note</strong>: gray/infeasible zones — Guinea &gt;16 Mt/mo and Brazil &gt;40 Mt/mo exceed observed/model range; slider extremes are diagnostic stress-tests only (sliders retained).
+13623	                <strong>Data provenance (diagnostic)</strong>: Brazil live (ComexStat), Guinea live (UN Comtrade), WAus fixed 48 Mt/mo assumption, fleet 815 Bn Ton-NM calibrated — see <code>scripts/scrapers/generate_ton_mile_matrix.py</code>.
+13659	            <span id="fearnTcSubLine" style="font-size:10px;color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation</span>
+13682	          <div style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">daily points, uninterpolated · decimation is render-only (pointRadius 0) — the plotted data stays daily</div>
+13690	            <div class="chart-title" data-tooltip="Baltic dry-route assessments as published on Fearnleys weekly report tiles — Capesize, Panamax and Supramax benchmarks, daily points. Each tile carries its own launch date because the source started these assessments at different dates; per-series depth is shown, never averaged away. Click a tile for its full daily chart.">Dry Route Benchmarks <span id="fearnDryCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+13702	          <div style="font-size:10px;color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;">daily points, uninterpolated · decimation is render-only (pointRadius 0) — the plotted data stays daily</div>
+13889	            <div class="chart-title" data-tooltip="Broker voice — latest Fearnleys written commentary (tanker, dry bulk, S&P, gas). Full 11,714-comment archive lives in data/derived/fearnleys_broker_comments.csv.">Broker Voice <span id="fearnVoiceCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+13906	            <div class="chart-title" data-tooltip="Backtest lab — macro health score history with forward BDI returns by regime. Point-in-time composite; forwards are realized outcomes, not forecasts.">Backtest Lab <span style="font-size:11px;color:var(--text-muted);font-weight:400;">score vs realized forwards</span></div>
+13957	            <div id="mhrRegimeBadge" class="mhr-regime-badge mhr-mid">—</div>
+13962	              <div id="mhrScoreNum" class="mhr-score-num mhr-mid">—</div>
+14010	            <span class="qa-key-label" id="qaApiKeyLabel" data-tooltip="API Key is stored exclusively in your browser's localStorage. Never sent to our servers — direct client-side execution.">Groq Key</span>
+14011	            <input type="password" id="qaApiKey" class="qa-key-input" placeholder="gsk_... (stored only in localStorage)" data-tooltip="API Key is stored exclusively in your browser's localStorage. Never sent to our servers — direct client-side execution." />
+14019	            <label class="qa-scope-item" data-tooltip="Breakwave Advisors bi-weekly reports — analyst signals, conviction grades, and market insights."><input type="checkbox" id="qaSrcBreakwave" checked onchange="onQAScopeChange(false)"> Breakwave</label>
+14022	            <label class="qa-scope-item" data-tooltip="China iron ore import volumes and price trends — the primary Capesize demand driver."><input type="checkbox" id="qaSrcIronOre" onchange="onQAScopeChange(false)"> Iron Ore</label>
+14025	            <label class="qa-scope-item" style="border-left:1px solid rgba(88,166,255,0.18);padding-left:8px;margin-left:4px;" data-tooltip="Search only wiki summaries for speed — skips daily reports and chunks."><input type="checkbox" id="qaSrcWikiOnly" onchange="onQAScopeChange(true)"> Wiki only (fast)</label>
+14174	          <div class="tracking-kpi-val" id="hudTrackedHulls">—</div>
+14179	          <div class="tracking-kpi-val" id="hudWaitingAnchor" style="color:var(--yellow);">—</div>
+14184	          <div class="tracking-kpi-val" id="hudOperatingBerth" style="color:var(--green);">—</div>
+14189	<div class="tracking-kpi-val" id="hudChokepointsCount">—</div>
+14192	        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Bab el-Mandeb / Red Sea Diversion" data-tt-val="Transit volume delta · live from chokepoint cache" data-tt-fresh="" data-tt-desc="Live diverted share from chokepoint transit metrics (Bab el-Mandeb vs pre-disruption baseline). Recomputed on every data load — no hardcoded fallback.">
+14194	          <div class="tracking-kpi-val" id="hudRedSeaDiverted" style="color:var(--red);">—</div>
+14197	        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Cape of Good Hope Rerouting Surge" data-tt-val="Transit volume delta · live from chokepoint cache" data-tt-fresh="" data-tt-desc="Live surge share from chokepoint summary rerouting-crisis telemetry. Recomputed on every data load — no hardcoded fallback.">
+14199	          <div class="tracking-kpi-val" id="hudCapeSurge" style="color:#a371f7;">—</div>
+14208	          <button class="tracking-pill active" data-class="all" data-tooltip="Show every monitored hull in the lineup snapshot. Count and DWT live from the port-lineup cache via updateTrackingHUD." onclick="setTrackingClass('all')">All Classes <span class="pill-count" id="pillCountAll">—</span></button>
+14209	          <button class="tracking-pill" data-class="Tanker" data-tooltip="Filter the map and lineup to tanker hulls only. Count live from the lineup cache." onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
+14210	          <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Filter to dry bulk hulls. The lineup snapshot is tanker-skewed — dry-bulk congestion detail lives in the Port Squeeze sub-section." onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
+14211	          <button class="tracking-pill" data-class="LPG" data-tooltip="Filter to LPG carrier hulls. Count live from the lineup cache." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLpg">—</span></button>
+14212	          <button class="tracking-pill" data-class="LNG" data-tooltip="Filter to LNG carrier hulls. Count live from the lineup cache." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLng">—</span></button>
+14216	          <button class="tracking-status-btn" data-status="Waiting at anchor" data-tooltip="Show only vessels waiting at anchor — the queue-congestion state." onclick="setTrackingStatus('Waiting at anchor')">At Anchor</button>
+14653	<div class="bunkers-kpi-val" id="bunkerKpiEts" style="color:var(--yellow);">—</div>
+14658	<div class="bunkers-kpi-val" id="bunkerKpiVol" style="color:#00e5ff;">—</div>
+14689	        <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixMoversHead">Regional movers · latest price and change vs prior observation</span><span class="bix-arch-badge" id="bunkerBixMoversObs" data-tt-type="bix-archive-badge">obs —</span></div>
+14735	            <button id="subnavBunkersAltfuels" class="bunkers-subview-btn" onclick="setBunkersSubView('altfuels')" data-tt-type="bunker-subtab" data-tt-view="altfuels" data-tooltip="Verified LNG, methanol and EUA carbon indications — non-null ports only, never zero-filled.">
+14810	              <div style="font-size:11px; font-weight:600; color:var(--text-muted);">DELIVERY PORT — <span style="color:#e3b341;">2 PORTS ONLY</span> (SG monthly · RTM quarterly):</div>
+14832	              Source: Maritime and Port Authority of Singapore (monthly) &amp; Havenbedrijf Rotterdam (quarterly) · Coverage: 2 of 221 ports — no other port reports verified physical volumes.
+14836	          <!-- Subview 5: Alt Fuels — LNG / Methanol / EUA (non-null ports only, never zero-filled) -->
+14839	              Verified alt-fuel indications — non-null ports only.
+15045	          <button class="cp-toggle-btn" id="btnOffshoreSegLargeAHTS" onclick="setOffshoreSegment('large_ahts')" data-tooltip="Large AHTS (&gt;22,000 BHP) — Ultra-deepwater anchor handling, rig towing, and harsh-environment positioning operations.">Large AHTS</button>
+15046	          <button class="cp-toggle-btn" id="btnOffshoreSegMedAHTS" onclick="setOffshoreSegment('med_ahts')" data-tooltip="Medium AHTS (&lt;22,000 BHP) — Midwater and shallow-water mooring operations and general offshore tug support.">Med AHTS</button>
+15047	          <button class="cp-toggle-btn" id="btnOffshoreSegLargePSV" onclick="setOffshoreSegment('large_psv')" data-tooltip="Large PSV (&gt;900 m² deck) — Deepwater platform production supply, bulk fluids, chemicals, and drill mud transport.">Large PSV</button>
+15048	          <button class="cp-toggle-btn" id="btnOffshoreSegMedPSV" onclick="setOffshoreSegment('med_psv')" data-tooltip="Medium PSV (&lt;900 m² deck) — Continental shelf supply runs, deck cargo, and routine offshore field support.">Med PSV</button>
+15948	          console.warn('[loadAllData] Watchdog 13s timeout triggered — force rendering dashboard');
+16404	            // Zero is never a real monthly port total — treat 0/empty as missing (null gap),
+16648	        // data-load time like every other cache; never inlined — 3.8 MB + 0.4 MB).
+17039	      // Alerts banner — evidence-audited ladder (BDI backtest 1991-2026, n=8,930):
+17043	      // deep-distress zones were the strongest forward-return territory — so they
+17351	          '1y':  'Peak Retracement (52-Week Rolling) — last 1 year of data. Each point = how far price sits below its rolling 1-year high. Useful for spotting the most recent flush depth.',
+17352	          '3y':  'Peak Retracement (52-Week Rolling) — last 3 years of data. Shows whether current pain is deeper or shallower than the prior 2 correction cycles.',
+17353	          '5y':  'Peak Retracement (52-Week Rolling) — last 5 years of data. The standard risk window; freight spikes are often followed by 30–50% flushes before structural support forms.',
+17354	          '10y': 'Peak Retracement (52-Week Rolling) — last 10 years of data. Reveals full decade-scale correction depth; the 2015–2016 and 2019–2020 bear markets are visible here as baseline references.',
+17355	          'all': 'Peak Retracement (52-Week Rolling) — entire available history. Puts current drawdowns in the context of every major freight cycle including the 2008 super-cycle collapse.',
+17571	      <th onclick="sortYearlyTable('${productKey}', 'vol')" style="cursor:pointer;" data-tooltip="Annual price dispersion: (High − Low) ÷ Year Average. Measures how wildly rates moved relative to their baseline — not a directional return.">Volatility %${getIndicator('vol')}</th>
+17773	      <th onclick="sortETFYearlyTable('${etfKey}', 'vol')" style="cursor:pointer;" data-tooltip="Annual price dispersion: (High − Low) ÷ Year Average. Measures how wildly rates moved relative to their baseline — not a directional return.">Volatility %${getIndicator('vol')}</th>
+19695	                  return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(1) + '%' : '—');
+20002	              // series has no usable range) — otherwise addColorStop throws and the chart fails.
+20439	          '1y':  `${etfName} Volatility Risk — last 1 year. Rolling 52-week drawdown: how far the ETF price sits below its prior 1-year peak. Useful for gauging the current flush depth vs recent history.`,
+20440	          '3y':  `${etfName} Volatility Risk — last 3 years. Rolling 52-week drawdown across 3 cycles. Compare today's correction depth to the prior 2 downturns to assess if the current move is typical or extreme.`,
+20441	          '5y':  `${etfName} Volatility Risk — last 5 years. The standard institutional window. ETF drawdowns of 40–70% are not uncommon in freight cycles; this view captures COVID-era volatility as the baseline.`,
+20442	          '10y': `${etfName} Volatility Risk — last 10 years. Full decade of rolling 52-week peak retracements. Reveals the structural severity of prior bear markets as context for today's move.`,
+20443	          'all': `${etfName} Volatility Risk — full history since inception. Entire drawdown profile from launch; puts the current retracement in the context of every freight cycle the ETF has experienced.`,
+20533	                label: ctx => ` Drawdown: ${ctx.parsed.y != null ? ctx.parsed.y.toFixed(2) : '—'}%`
+20582	        cape:  'Capesize FFA (C5TC) — basket of 4 major routes: Brazil→China & Australia→China iron ore + trans-Atlantic & trans-Pacific roundvoyages. 180K DWT vessels.',
+20583	        pana:  'Panamax FFA (P5TC) — basket of 5 routes covering Atlantic and Pacific grain and coal trades. 82K DWT Kamsarmax vessels.',
+20584	        supra: 'Supramax FFA (S10TC) — basket of 10 routes covering minor bulks: fertilizers, steel, grains, minerals. 58K DWT geared vessels.',
+20585	        td3c:  'TD3C VLCC FFA — Middle East Gulf → China (270K MT crude oil). The benchmark VLCC route, representing ~22% of global seaborne crude trade.',
+20586	        td20:  'TD20 Suezmax FFA — West Africa → UK-Continent (130K MT crude oil). Key Atlantic basin crude route.',
+20621	        'BDRY — Breakwave Dry Bulk Shipping ETF. Holds near-dated FFA futures weighted: 50% Capesize 5TC (180K DWT, iron ore & coal routes), 40% Panamax 5TC (82K DWT, grain & coal), 10% Supramax 58TC. Contracts roll quarterly. NAV tracks the Solactive Baltic Exchange Dry Bulk Shipping Index. The only US-listed pure-play dry bulk ETF.' :
+20622	        'BWET — Breakwave Tanker Shipping ETF. The world’s first crude oil tanker ETF. Portfolio: 90% TD3C VLCC futures (270K MT, Middle East Gulf → China, the “Dow Jones of tanker markets”) + 10% TD20 Suezmax futures (130K MT, West Africa → UK-Continent). Targets 50–90 day average contract maturity. NAV tracks the Breakwave Wet Freight Futures Index.'
+20704	          <button class="dl-btn" id="yearlyDlBtn_${etfKey}" data-tooltip="Download the visible yearly performance table as CSV — identical numbers to the on-screen cache values.">⬇ Download CSV</button>
+20720	          <button class="dl-btn" id="macroCyclesDlBtn_${etfKey}" data-tooltip="Download the macro cycle history table as CSV — identical numbers to the on-screen cache values.">⬇ Download CSV</button>
+21508	            tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } }
+21807	          plugins: { legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+21825	          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+21859	            tooltip: { callbacks: { title: function (c) { return 'Day ' + c[0].label; }, label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } }
+21901	          plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' Drawdown: ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + '%' : '—'); } } } },
+21981	                label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y != null ? fmt(ctx.parsed.y) : '—'}`,
+22016	          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+22039	      // band as filled ranges (lower first, upper reversed) — nulls break the band
+22071	            tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+22103	          plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+22135	          plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+22152	          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+22659	                      if (val == null) return ' ' + c.dataset.label + ': —';
+23039	                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
+23040	                  if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
+23291	                  return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? '$' + Math.round(c.parsed.y).toLocaleString('en-US') + '/day' : '—');
+23534	      if (!points || points.length < 2) return '<span style="color:var(--text-muted);font-size:10px;">—</span>';
+23584	        if (val == null || isNaN(val)) return '<span style="color:var(--text-muted);font-size:11px;">—</span>';
+23595	        if (v == null || isNaN(v) || v === 0) return '—';
+23744	                '<span>' + sel.size + ' — Vessel Fundamentals & Period Diagnostics</span>' +
+23768	              '<div><strong style="color:var(--text-bright);">Deadweight & Dimensions:</strong> ' + (meta.dwt || '—') + '</div>' +
+23769	              '<div><strong style="color:var(--text-bright);">Primary Cargoes:</strong> ' + (meta.cargo || '—') + '</div>' +
+23770	              '<div><strong style="color:var(--text-bright);">Major Trade Lanes:</strong> ' + (meta.routes || '—') + '</div>' +
+23890	                '<span>' + sel.size + ' Tanker — Vessel Diagnostics & Term Structure</span>' +
+23914	              '<div><strong style="color:var(--text-bright);">Deadweight & Specifications:</strong> ' + (meta.dwt || '—') + '</div>' +
+23915	              '<div><strong style="color:var(--text-bright);">Cargo Transported:</strong> ' + (meta.cargo || '—') + '</div>' +
+23916	              '<div><strong style="color:var(--text-bright);">Primary Routes:</strong> ' + (meta.routes || '—') + '</div>' +
+24245	                  if (val == null) return ' ' + c.dataset.label + ': —';
+24419	                      return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
+24547	                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
+24548	                  if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '—');
+24783	                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
+25079	        if (v == null) { el.textContent = '—'; return; }
+25229	        blpgEl.textContent = latest.blpg != null ? Math.round(latest.blpg).toLocaleString() + ' pts' : '—';
+25251	        blpgCard.setAttribute('data-tt-blpg', latest.blpg ? Math.round(latest.blpg).toLocaleString() + ' pts' : '—');
+25305	                  if (val == null) return ' ' + c.dataset.label + ': —';
+25464	          safetyEl.textContent = '—';
+25468	      if (valEl) valEl.textContent = assetVal != null ? '$' + assetVal.toFixed(1) + 'M' : '—';
+25469	      if (scrapEl) scrapEl.textContent = scrapFloor != null ? '$' + scrapFloor.toFixed(2) + 'M' : '—';
+25470	      if (yieldEl) yieldEl.textContent = charterYield != null ? charterYield.toFixed(1) + '%' : '—';
+25477	        safetyCard.setAttribute('data-tt-cushion', safetyMargin != null ? safetyMargin.toFixed(1) + '%' : '—');
+25478	        safetyCard.setAttribute('data-tt-asset', assetVal != null ? '$' + assetVal.toFixed(1) + 'M' : '—');
+25479	        safetyCard.setAttribute('data-tt-scrap', scrapFloor != null ? '$' + scrapFloor.toFixed(2) + 'M' : '—');
+25493	        scrapCard.setAttribute('data-tt-scrap', scrapFloor != null ? '$' + scrapFloor.toFixed(2) + 'M' : '—');
+25501	        yieldCard.setAttribute('data-tt-yield', charterYield != null ? charterYield.toFixed(1) + '%' : '—');
+25502	        yieldCard.setAttribute('data-tt-asset', assetVal != null ? '$' + assetVal.toFixed(1) + 'M' : '—');
+25519	          badge.textContent = cfg.label + ' Safety Cushion: —';
+25529	        valTitle.setAttribute('data-tt-asset', assetVal != null ? assetVal.toFixed(1) : '—');
+25530	        valTitle.setAttribute('data-tt-scrap', scrapFloor != null ? scrapFloor.toFixed(2) : '—');
+25531	        valTitle.setAttribute('data-tt-cushion', safetyMargin != null ? safetyMargin.toFixed(1) : '—');
+25532	        valTitle.setAttribute('data-tt-yield', charterYield != null ? charterYield.toFixed(1) : '—');
+25583	                  if (c.dataset.label.includes('Yield')) return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(1) + '%' : '—');
+25584	                  if (c.dataset.label.includes('$M') || c.dataset.yAxisID === 'yRight') return ' ' + c.dataset.label + ': $' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'M' : '—');
+26169	            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y != null ? Number(c.parsed.y).toFixed(2) : '—')}/MT` } }
+26327	            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: $${(c.parsed.y != null ? Number(c.parsed.y).toFixed(1) : '—')}/MT` } }
+26570	      // Gaps stay gaps (spanGaps:false) — never fabricated.
+26585	          dampierBtn.title = 'No live Dampier feed — Port Hedland only (PPA publishes separately)';
+26602	          // No live Dampier rows — all-null series renders as a gap, never a 0.0 flat line.
+26603	          datasets.push({ label: 'Port of Dampier Ore (Mt/mo) — no live feed', data: dates.map(() => null), borderColor: '#3fb950', backgroundColor: 'rgba(63,185,80,0.2)', borderWidth: 2, fill: false, tension: 0.1, spanGaps: false });
+26621	        // latest real month — never copied across ports, never fabricated.
+26734	      // Global vintage from all available rows — provenance must never stay "Loading…".
+26751	      // renders as an n/a gap over the shared last-120-day window — never an
+26801	            tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y != null ? Math.round(c.parsed.y).toLocaleString() : '—'}${c.datasetIndex === 2 ? ' kt' : ''}` } }
+26871	        elNote.textContent = 'No live EUA price pulled yet — figures are illustrative defaults. EU ETS history accumulates from the first successful live API pull (OilPriceAPI EU_CARBON_EUR).';
+26959	      // Disclosure: simulator display clamp lower bound 65.0 vs model 60.0 in scripts/scrapers/generate_ton_mile_matrix.py:113 — values unchanged (diagnostic).
+27113	    const curr = s.current ? '$' + Number(s.current).toLocaleString() : '—';
+27114	    const pct = s.pct_56y != null ? s.pct_56y.toFixed(1) + '%' : '—';
+27582	  const v5y = stats['5y'] ? '$' + stats['5y'].current + 'M' : '—';
+27583	  const r5y = stats['5y'] ? '50Y %ile: ' + stats['5y'].pct_hist.toFixed(1) + '%' : '50Y Rank: —';
+27584	  const vRes = stats['resale'] ? '$' + stats['resale'].current + 'M' : '—';
+27585	  const v10y = stats['10y'] ? '$' + stats['10y'].current + 'M' : '—';
+27587	  const vNb = stats['newbuilding'] ? '$' + stats['newbuilding'].current + 'M' : '—';
+27589	  let parityStr = '—';
+27832	    const priceStr = d.price_usd_m ? '$' + d.price_usd_m.toFixed(1) + 'M' : '—';
+27833	    const dwtStr = d.dwt ? Number(d.dwt).toLocaleString() : '—';
+27834	    const usdPerDwtStr = d.usd_per_dwt ? '$' + Number(d.usd_per_dwt).toLocaleString() : '—';
+27841	        <td class="mono" style="text-align:right;">${d.built || '—'}</td>
+27847	        <td style="font-size:10px;color:var(--text-muted);max-width:180px;overflow:hidden;text-overflow:ellipsis;" title="${d.comment}">${d.comment || '—'}</td>
+28307	                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
+30580	        titleEl.textContent = 'SGX Iron Ore Contract History — ' + prodName + (tenor ? (' ' + tenor) : '') + ' (' + ticker + (deliveryLabel ? (' · ' + deliveryLabel) : '') + ')';
+30589	          msgEl.innerHTML = '<em>Settlement history initializing</em> — ' + contractRows.length + ' session recorded for ' + ticker + '.';
+30871	          // NOTE: skip invalid rows (no null placeholders) to mirror BDRY — keeps labels/HUD on last valid, not padded null tail
+31742	    // knowledge/chunks/search/{stem}.idx.json — compact per-shard BM25-ready
+32003	        desc: 'Graded blend of BDI gap vs its 90-day average and 30-day rate-of-change. Continuous scoring — no cliff steps. Note: extreme momentum readings have historically preceded BDI pullbacks (mean-reverting cycle).',
+32004	        signals: ['~20/20 — Deep above MA with strong ROC: maximum heat (reversal watch)', '~17/20 — Above MA, solid ROC: strong trend', '~13-15/20 — Modestly above MA: mild uptrend', '~10/20 — Near MA, flat ROC: neutral drift', '~6-8/20 — Below MA but positive ROC: early repair', '~0-4/20 — Below MA and falling: capitulation zone (historically bullish fwd)']
+32010	        signals: ['~20/20 — Spread ≥ +15%: extreme backwardation (late-cycle)', '~15/20 — +5–15%: mild backwardation', '~11/20 — Flat curve: neutral', '~7/20 — −5–0%: mild contango', '~2/20 — ≤ −15%: steep contango (deep distress pricing)']
+32016	        signals: ['~20/20 — Basis ≥ +10%: extreme spot premium (peak heat)', '~15/20 — +4–10%: elevated', '~11/20 — Flat basis: balanced carry', '~4.5/20 — −5–0%: mild futures premium', '~0/20 — ≤ −15%: deep futures discount (panic hedging, historically a floor)']
+32021	        desc: 'Chinese iron ore port inventories ranked as an inverted percentile of their own expanding history (min 126 obs, cap 1260). Self-calibrating against structural port-capacity growth — low percentile = restocking urgency.',
+32022	        signals: ['~20/20 — ≤5th pct: critically low vs own history', '~16/20 — ~25th pct: below comfort', '~12/20 — median: balanced', '~7/20 — ~75th pct: ample stocks', '~2.5/20 — ≥95th pct: oversupplied vs capacity']
+32028	        signals: ['~20/20 — Margin ~median of history: sweet-spot valuation', '~14-17/20 — Slightly rich/cheap vs history', '~10/20 — Approaching extremes', '~5/20 — Margin ≥95th pct: assets extremely stretched vs scrap', '~6/20 — Margin ≤5th pct: distress pricing, scrap-floor support']
+32033	    // ── WB commodity context (display-layer only — never feeds the score) ────
+32066	     * Purely contextual annotation — does NOT alter any pillar or total.
+32089	      if (p1 && p1.score >= 12 && demandAvg < -5)     { verdict = 'Divergence — rally lacks cargo-price confirmation'; color = '#f85149'; }
+32090	      else if (p1 && p1.score <= 8 && demandAvg > 5)  { verdict = 'Divergence — soft freight vs firm cargo prices'; color = '#e3b341'; }
+32350	          // Overheated - Reversal Risk (>=75 pts) — Backtest fwd 3M BDI: -23.8% avg, 10% win rate (81 days)
+32353	            { tag: 'Defensive Carry',      title: 'Harvest Backwardation Without Direction', note: 'Prompt freight trades at extreme premiums. Express caution via covered TC cover or selling forward strength — not by chasing spot beta.', accent: '#e3b341' },
+32357	          // Late-Cycle Strength (60-74) — Backtest fwd 3M BDI: -5.3% avg, 38% win rate (387 days)
+32364	          // Mid-Cycle Equilibrium (45-59) — Backtest fwd 3M BDI: +8.8% avg, 44% win rate (736 days)
+32366	            { tag: 'Balance Sheet',       title: 'Equal-Weight Dry Bulk / Tanker Parity', note: 'Hold 50/50 BDRY/BWET allocation. Mid-cycle conditions produced +8.8% average fwd 3M BDI since 2018 — constructive but rangebound. Monitor for breakout above 60 (late-cycle) or breakdown below 45 (value).', accent: '#58a6ff' },
+32371	          // Trough - Accumulation Zone (<45) — Backtest fwd 3M BDI: +34.7% avg, 70% win rate (780 days)
+32375	            { tag: 'Confirmation Watch',  title: 'Inventory-Led Restocking Trigger', note: 'Watch weekly Chinese port inventory percentile draws and FFA basis inflection — the strongest historical bottom confirmations.', accent: '#e3b341' }
+32487	      // Capesize 4-6M vs 2Y TC spread — continuous map, backwardation > contango
+32531	      // Chinese iron ore port inventories — inverted expanding percentile of the
+33827	          // Section title is a strong topical focus signal — boost per matched term
+33931	      const lines = [`=== LIVE MARKET SNAPSHOT — ${date} ===`];
+33939	        lines.push('', `— ${sector.toUpperCase().replace(/_/g,' ')} ANALYST CONSENSUS —`);
+33951	        lines.push('', `— MACRO CONTEXT —`, `  ${brief.macro_note}`);
+33957	          lines.push('', `— ALIBRA INSTITUTIONAL PERIOD TCE BENCHMARKS (${DATA.tceMatrix.report_date}) —`);
+33968	          lines.push('', `— TANKER FFA FORWARD CURVES (PROMPT ${fwdPrompt.forward_month || ''}) —`);
+33973	          lines.push('', `— RAW MATERIAL RESTOCKING & STEEL FUNDAMENTALS (${lastOre.date || ''}) —`);
+33986	          lines.push('', `— VESSEL CAPITAL CYCLE & SECONDHAND VALUATIONS (${lastScrap.date || ''}) —`);
+33996	          lines.push('', `— GAS SHIPPING BENCHMARKS —`);
+34032	        'Monthly averages published ~4 weeks in arrears — demand-side backdrop, not real-time prints.',
+34755	      // 2. Normalize unicode dashes/hyphens (‑, –, —, etc.) to standard hyphen
+34896	          // src() = manually checked OR auto-detected from query — union of both, never intersection
+34942	              // Index healthy but zero lexical hits — keep pool empty so the
+34992	            statEl.textContent = '[Note] Limited context found — answer may be partial';
+35077	            '2. Inline Citations: Place a [DOC-N] citation inline immediately after each factual claim — e.g. "Capesize 5TC averaged $18,450/day [DOC-3]."\n' +
+37034	  if (!dwt) return '—';
+37064	  // Live Red Sea / Cape figures from DATA. No hardcoded fallbacks: missing feeds -> null ('—').
+37159	  if (hTotal) hTotal.textContent = c.total ? (trackingTonnageLens ? fmtDwtMt(c.dwtTotal) : c.total.toLocaleString()) : '—';
+37160	  if (hWaiting) hWaiting.textContent = c.total ? (trackingTonnageLens ? fmtDwtMt(c.dwtWait) : c.waiting.toLocaleString()) : '—';
+37161	  if (hBerth) hBerth.textContent = c.total ? c.berth.toLocaleString() : '—';
+37163	  if (hChoke) hChoke.textContent = nChoke ? String(nChoke) : '—';
+37164	  if (hRedSea) hRedSea.textContent = (t.divertedPct != null) ? ('-' + Math.abs(t.divertedPct).toFixed(1) + '%') : '—';
+37165	  if (hCape) hCape.textContent = (t.capePct != null) ? ('+' + Math.abs(t.capePct).toFixed(1) + '%') : '—';
+37179	    if (title.includes('Fleet Hulls')) card.setAttribute('data-tt-val', (c.total ? c.total.toLocaleString() : '—') + ' Active Vessels · ' + fmtDwtMt(c.dwtTotal));
+37180	    else if (title.includes('Waiting at Anchor')) card.setAttribute('data-tt-val', (c.total ? c.waiting.toLocaleString() : '—') + ' Vessels · avg ' + c.avgWait.toFixed(1) + 'd');
+37181	    else if (title.includes('Operating at Berth')) card.setAttribute('data-tt-val', (c.total ? c.berth.toLocaleString() : '—') + ' Vessels');
+37213	    if (el) el.textContent = trackingTonnageLens ? fmtDwtMt(dwt) : (n != null ? n.toLocaleString() : '—');
+37317	  return s || '—';
+37380	    var waitText = (v.days_waiting > 0) ? v.days_waiting.toFixed(1) + 'd' : '—';
+37468	      if (hudDetail) hudDetail.textContent = name + (country ? ' (' + country + ')' : '') + ' — Focused Port Anchorage';
+37528	  // ONE-TRUTH SYNC: legacy Tracking mini-view reads DATA.bunkerSummary — the same
+37554	      ? 'One source of truth: the daily bunker harvest cache — full 221-port matrix, curves & volumes in the BUNKERS tab.'
+37555	      : 'One source of truth: the daily bunker harvest cache — spot marine fuel prices across key bunkering hubs (Singapore, Rotterdam, Fujairah, Houston, Santos).';
+37582	        var dTxt = d ? ((d.v > 0 ? '+' : '') + d.v.toFixed(2) + ' ' + d.tag) : '—';
+38253	  // the displayed range) — computed from cp.monthly_series, never hardcoded.
+38484	            html = `<div class="rt-title">${s.label} — 56-Year Historical Benchmark</div>`;
+38503	            html = `<div class="rt-title">${a.label} — Secondhand Asset Valuation Cycle</div>`;
+38531	            html = `<div class="rt-title">${ch.charterer} — Commercial Charterer Intelligence</div>`;
+38546	          html = `<div class="rt-title">${vessel} — Verified S&amp;P Transaction</div>`;
+38556	          html += `<div class="rt-note">From the Fearnleys Secondhand S&amp;P Deal Ledger — ${((window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_deals) != null ? Number(DATA.fearnleysSummary.snp_deals.total_deals).toLocaleString() + ' recorded transactions' : 'ledger totals load from cache')}${(window.DATA && DATA.fearnleysSummary && DATA.fearnleysSummary.snp_deals && DATA.fearnleysSummary.snp_deals.total_volume_usd_m != null) ? ' totaling $' + (DATA.fearnleysSummary.snp_deals.total_volume_usd_m / 1000).toFixed(1) + 'B USD' : ''}.</div>`;
+38742	            z >  2   ? `Extreme bull — well above the ${zWin} mean` :
+38743	            z >  1   ? 'Elevated — above normal range' :
+38744	            z >  0.5 ? 'Mildly positive — slightly above mean' :
+38745	            z > -0.5 ? `Neutral — near the ${zWin} mean` :
+38746	            z > -1   ? 'Mildly negative — slightly below mean' :
+38747	            z > -2   ? 'Depressed — below normal range' :
+38748	                       `Extreme bear — well below the ${zWin} mean`;
+38760	          const qual  = pv >= 90 ? 'Extreme high — rare territory' :
+38761	                        pv >= 75 ? 'High — above most prior readings' :
+38764	                        pv >= 10 ? 'Low — below most prior readings' :
+38765	                                   'Extreme low — rare territory';
+38778	            EXPANSION:    { cls: 'pos', desc: 'Price above MA200 and 60D momentum positive. Classic uptrend — rates rising and trend intact.' },
+38779	            DISTRIBUTION: { cls: '',    desc: 'Price above MA200 but 60D momentum fading. Trend intact but losing steam — watch for reversal.' },
+38780	            ACCUMULATION: { cls: '',    desc: 'Price below MA200 but 60D momentum turning positive. Early recovery — potential base formation.' },
+38781	            CONTRACTION:  { cls: 'neg', desc: 'Price below MA200 and 60D momentum negative. Classic downtrend — rates falling and trend intact.' },
+38810	            BULL_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are positive — aligned setup. Evidence note: this label carried +24.8% avg fwd 3M on tankers (pro-cyclical) but only in-line-with-neutral returns on dry bulk, where analyst consensus is contrarian.',
+38811	            BEAR_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are negative — aligned setup. Evidence note: on dry bulk this label historically marked cycle-bottom value zones (+75.7% avg fwd 3M BDI, 61% win since 2018) — freight is a strongly mean-reverting cycle.',
+38828	            html += `<div class="rt-row"><span class="rt-label">5Y Percentile</span><span class="rt-val ${pctl5y >= 75 ? 'pos' : pctl5y <= 25 ? 'neg' : ''}">${pctl5y}th — ${qual}</span></div>`;
+38869	            neutral:           'No significant directional view — rates expected stable.',
+39051	            ore: '<strong>Ore &amp; Coal</strong>: Iron ore and thermal coal are the two largest dry bulk cargoes by ton-miles. Their price levels signal steel-mill economics and power-sector import appetite — firm prices with low port stocks historically precede Capesize rate spikes.',
+39053	            grain: '<strong>Grain Harvests</strong>: Wheat, maize and soybean prices move with harvest outcomes. Price spikes after shortfalls (e.g., Black Sea disruptions) trigger urgent long-haul import programs — a classic Small Panamax/Supramax demand catalyst.',
+39057	          html = `<div class="rt-title">Cargo Demand Drivers — World Bank Pink Sheet</div>`;
+39058	          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Why it matters</strong>: Commodity price levels are the leading layer of the shipping demand stack — production and import economics decide cargo volumes before freight rates react.</div>`;
+39069	            var momTxt = !isNaN(mom) ? '<span class="' + (mom >= 0 ? 'pos' : 'neg') + '">' + (mom >= 0 ? '+' : '') + mom.toFixed(1) + '% MoM</span>' : '—';
+39070	            var yoyTxt = !isNaN(yoy) ? '<span class="' + (yoy >= 0 ? 'pos' : 'neg') + '">' + (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '% YoY</span>' : '—';
+39080	            ore: 'Iron ore + Australian thermal coal — top dry bulk ton-mile drivers.',
+39081	            energy: 'Crude, European gas and Japan LNG — tanker & gas carrier cargo values.',
+39082	            grain: 'Wheat, maize, soybeans — harvest-driven Supramax/Panamax programs.',
+39083	            metals: 'Copper, aluminium, nickel — industrial demand proxy.',
+39084	            index: 'Nominal USD commodity indices (2010=100) — aggregate trade pulse.'
+39106	          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pick any expired contract</strong> to study how it traded through its life — listing, run-up into expiry, and final settlement. The <strong>·Nd</strong> suffix shows how many traded days the archive holds, because SGX publishes settlements only on sessions that actually cleared.</div>`;
+39107	          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Data availability tiers (verified at source)</strong>: daily granularity from Mar 2026 onward (our live collection); sparse traded-day prints only for 2024–2025 expiries — SGX redacts lookback prices outside its entitlement window (volume and open-interest remain fully archived back to 2022 in the CSVs).</div>`;
+39112	          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Pick any active forward contract (40 delivery tenors) or expired contract</strong> to inspect its full historical lifecycle — original listing, pre-expiry price discovery, and final cleared settlement against TSI/Fastmarkets spot averages. The <strong>·Nd</strong> suffix indicates how many traded daily sessions the archive holds.</div>`;
+39119	          html += `<div class="rt-note">Falls back automatically to full-archive scanning if indexes are unavailable — answers never change, only speed.</div>`;
+39258	            const ppaVal = ppaLast.ironOreExportsMt != null ? ppaLast.ironOreExportsMt.toFixed(1) + ' Mt' : '—';
+39282	            const pwCalls = pwLast.dailyPortCalls != null ? Math.round(pwLast.dailyPortCalls).toLocaleString('en-US') : '—';
+39283	            const pwBulk = pwLast.callsDryBulk != null ? Math.round(pwLast.callsDryBulk).toLocaleString('en-US') : '—';
+39284	            const pwKt = pwLast.importDryBulkKt != null ? Math.round(pwLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : '—';
+39291	          html += `<div class="rt-row"><span class="rt-label">EUA Carbon Quota</span><span class="rt-val">European Union Allowance Spot Price (€/t CO2) — live OilPriceAPI observations</span></div>`;
+39306	          const spot = target.getAttribute('data-tt-spot') || '—';
+39307	          const tc = target.getAttribute('data-tt-tc') || '—';
+39308	          const spread = target.getAttribute('data-tt-spread') || '—';
+39309	          const blpg = target.getAttribute('data-tt-blpg') || '—';
+39314	          if (blpg && blpg !== '0' && blpg !== '—') html += `<div class="rt-row"><span class="rt-label">Baltic LPG Index</span><span class="rt-val" style="color:#e3b341">${blpg} pts</span></div>`;
+39944	            html += `<div class="rt-note" style="color:#3fb950">Source: official PPA monthly cargo-statistics reports (${ppaRows.length} months, ${ppaRows[0].dateStr} → ${ppaRows[ppaRows.length-1].dateStr}) — real published figures via Internet Archive of pilbaraports.com.au. Port Hedland only; Dampier publishes separately.</div>`;
+39946	            html += `<div class="rt-note" style="color:#e3b341">No live feed reachable this run — figures shown are editorial estimates flagged DIAGNOSTIC in the CSV (provenance column), not published port data.</div>`;
+39970	                const hubCalls = hubLast.dailyPortCalls != null ? Math.round(hubLast.dailyPortCalls).toLocaleString('en-US') : '—';
+39971	                const hubBulk = hubLast.callsDryBulk != null ? Math.round(hubLast.callsDryBulk).toLocaleString('en-US') : '—';
+39972	                const hubKt = hubLast.importDryBulkKt != null ? Math.round(hubLast.importDryBulkKt).toLocaleString('en-US') + ' kt' : '—';
+40014	          html = `<div class="rt-title">Broker Desk Overview — Tile Ordering</div>`;
+40021	          html += `<div class="rt-note">Series cache: scripts/fearnpulse_rates_full.csv monthly means (Fearnleys Hasura harvest). Every value on these tiles comes from that cache — nothing is estimated.</div>`;
+40036	            html = `<div class="rt-title">Broker Desk Tile</div><div class="rt-note">Series cache still loading — hover again once the desk cache is loaded.</div>`;
+40045	          html = `<div class="rt-title">Class Selector — ${cls}</div>`;
+40046	          html += `<div class="rt-row"><span class="rt-label">Tenors Published</span><span class="rt-val">${tenors.join(', ') || '—'}</span></div>`;
+40059	            html += `<div class="rt-note">Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day). One source at a time — no stitching.</div>`;
+40066	            html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${ARCH_KEY[cls] || '— (no monthly archive series)'}</span></div>`;
+40075	            html += `<div class="rt-note">Source: data/derived/fearnleys_series_monthly.json (Fearnleys Hasura monthly). Frozen-state display — the archive ends where it ends; no interpolation into the weekly era.</div>`;
+40095	            html += `<div class="rt-note">2Y/3Y tenors are published weekly only since 2021 — their lines start there. Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day).</div>`;
+40105	              html += `<div class="rt-row"><span class="rt-label">Frozen-State</span><span class="rt-val">${a.last < (FDESK.maxym || '') ? 'archived — last print ' + a.last : 'current to ' + a.last}</span></div>`;
+40108	              html += `<div class="rt-note">No Fearnleys monthly archive series exists for this class — switch back to Baltic Weekly.</div>`;
+40143	            html += `<div class="rt-note">Spread above the 90th percentile is historically extreme — institutional arbitrage activity typically caps the spread at this level.</div>`;
+40220	            '174k': {name:'174,000 m³ Large LNG Carrier', trade:'Qatar → Japan/Korea/Europe, US Gulf → Asia (18–21 day passages)', nb:'$230–260M newbuilding (Hyundai, Daewoo, Samsung)', tc:'10Y TC benchmark: $80,000–110,000/day depending on market cycle', ldts:'~25,000 LDT — slow-steaming 19 knots, 2-stroke DFDE or X-DF propulsion', orderbook:'Dominant: ~70% of global LNG orderbook by CBM', note:'The 174k "TFDE" carrier is the global benchmark for inter-continental LNG trade. Spot charters are rare; the asset class is primarily financed via long-term oil-major or utility-backed time charters.'},
+40221	            '30k': {name:'30,000 m³ Mid-Scale LNG Carrier', trade:'Regional distribution: FSRUs, North Sea, Mediterranean, SE Asia hub-to-spoke', nb:'$75–95M newbuilding (Kawasaki, CSSC)', tc:'1Y TC benchmark: $30,000–50,000/day; thin liquidity', ldts:'~10,500 LDT — pressure tanks or fully refrigerated', orderbook:'Growing: driven by European LNG import diversification 2022–2024', note:'Mid-scale LNG plays a critical role in "last mile" regasification, serving terminals too small to accept Q-Flex or conventional LNG tonnage. Higher spot rate volatility due to thinner fleet depth.'},
+40222	            '7k': {name:'7,000 m³ Small Coastal / Bunkering LNG Vessel', trade:'LNG bunkering, coastal gas supply, river terminals, Arctic feeder routes', nb:'$35–55M newbuilding (Tersan, Crist, Damen)', tc:'Spot hire: $15,000–28,000/day; often proprietary or long-term utility-contracted', ldts:'~3,200 LDT — pressure or semi-refrigerated', orderbook:'Expanding rapidly via LNG bunkering infrastructure build-out (IMO 2020+ shipping decarbonisation)', note:'Small-scale LNG is the fastest-growing segment driven by LNG as marine fuel adoption under IMO 2020 sulphur caps. Vessels serve as floating gas stations for LNG-fuelled container ships and car carriers.'},
+40223	            'all': {name:'All LNG Fleet Scales — Composite View', trade:'Full spectrum: inter-continental long-haul + regional distribution + coastal bunkering', nb:'Weighted average NB price shown for 174k benchmark', tc:'Chart overlays all three tenor series for cross-scale relative value comparison', ldts:'Fleet LDT range: 3,000–25,000 LDT depending on vessel size', orderbook:'Global LNG fleet: ~750 vessels with ~280 on order (2024)', note:'Viewing all scales simultaneously reveals the term structure of LNG vessel economics — from commodity-like small-scale up to project-financed large carriers underpinning $B LNG supply chain investments.'}
+40237	            vlgc: {name:'VLGC — Very Large Gas Carrier (84,000 m³)', trade:'Ras Tanura / Houston → Chiba / Ningbo (19–24 day AG-Japan voyage)', cargo:'LPG (propane / butane), NH₃, PDH feedstock', nb:'$85–105M newbuilding (Hyundai, HHIC)', tc:'1Y TC benchmark: $30,000–80,000/day; highly volatile (seasonal heating + PDH arbitrage)', operators:'BW LPG, Dorian LPG, Avance Gas, Epic Gas', note:'The VLGC is the freight benchmark for the global LPG trade. Rates are driven by the propane price arb between the US Gulf and the Far East, plus South Korean / Chinese PDH feedstock demand cycles.'},
+40238	            mgc: {name:'MGC — Midsize Gas Carrier (35,000–40,000 m³)', trade:'Regional distribution: Med, Baltic, West Africa, Far East coastal', cargo:'LPG, butadiene, propylene, chemical gases', nb:'$55–70M newbuilding', tc:'1Y TC: $18,000–38,000/day; relatively stable vs VLGC', operators:'Stolt-Nielsen Gas, UASC, Hafnia Gas, BW Gas', note:'MGC vessels bridge the gap between large inter-continental VLGC trade and small-scale distribution. They serve regional terminals too small for VLGC berthing windows and chemical gas speciality trades.'},
+40239	            handy: {name:'Handy — Semi-Refrigerated Gas Carrier (12,000–22,000 m³)', trade:'Coastal Europe, Caribbean, North Africa, West Africa, SE Asia hub-to-spoke', cargo:'LPG, ethylene, propylene, butadiene, vinyl chloride monomer (VCM)', nb:'$35–55M (Sinopacific, Dae Sun)', tc:'1Y TC: $12,000–25,000/day; often on spot or short period', operators:'Evergas, Panagas, Navigator Gas, Ultragas', note:'Handy gas carriers are the workhorses of the petrochemical gas trade. Their semi-refrigerated flexibility allows carriage of multiple chemical gases impossible in fully pressurised vessels. Critical to specialty polymer / PE supply chains.'},
+40240	            all: {name:'All LPG Fleet Segments — Composite Overlay', trade:'Full segment spectrum: VLGC inter-continental + MGC regional + Handy coastal/chemical', cargo:'LPG, ammonia, ethylene, propylene, chemical gases (all grades)', nb:'Weighted across fleet sizes — $35M (Handy) to $105M (VLGC)', tc:'Chart displays all three segment benchmarks simultaneously for spread analysis', operators:'BW LPG, Dorian LPG, Navigator Gas, Stolt-Nielsen Gas, Ultragas', note:'Cross-segment view reveals relative value: when VLGC rates spike on AG-Japan arb, mid-size MGC and Handy rates typically lag by 2–6 weeks as cargo redistribution follows the arb window.'}
+40254	            cape: {name:'Capesize — 180,000 DWT Dry Bulk', ldt:'~24,000 LDT', scrap:'~$15–20M demolition floor (Bangladesh/Pakistan BreakUp)', sp:'$35–65M secondhand 10Y asset range', trade:'Iron ore (Brazil/Australia → China), coal (USA/Colombia → Asia)', tc:'1Y TC: $12,000–45,000/day', note:'Capesize assets trade at the highest leverage to commodity supercycles. Their large size limits port access to ~40 global ports, creating acute concentration risk to China steel demand and Vale / Rio Tinto shipment patterns.'},
+40255	            panama: {name:'Panamax / Kamsarmax — 75,000–82,000 DWT Dry Bulk', ldt:'~12,000 LDT', scrap:'~$6–8M demolition floor', sp:'$18–38M secondhand range', trade:'Coal, grain, minor bulks — Americas, Black Sea, Pacific basin', tc:'1Y TC: $10,000–28,000/day', note:'Kamsarmax (82k) is the new Panama Canal–compatible benchmark. More versatile than Capesize with access to grain terminals and Great Lakes-range ports. Rate closely correlates with global thermal coal trade flows.'},
+40256	            suprama: {name:'Supramax / Ultramax — 58,000–64,000 DWT Dry Bulk', ldt:'~8,500 LDT', scrap:'~$4.0–5.5M demolition floor', sp:'$14–28M secondhand range', trade:'Minor bulks: fertiliser, steel, bauxite, sugar, clinker, forest products', tc:'1Y TC: $10,000–22,000/day', note:'The Supramax / Ultramax is the most widely traded dry bulk class by vessel count. Its on-board cranes allow self-discharge at berths without shoreside equipment — critical in frontier markets and secondary ports.'},
+40257	            handysize: {name:'Handysize — 28,000–40,000 DWT Dry Bulk', ldt:'~7,500 LDT', scrap:'~$3.5–5M demolition floor', sp:'$10–25M secondhand range', trade:'Steel, cement, agricultural cargoes, coastal short-haul, regional grain', tc:'1Y TC: $8,000–20,000/day', note:'Handysize vessels are the smallest ocean-going bulk carriers. They provide the "last mile" of dry bulk logistics, accessing minor ports with draft restrictions and serving regional commodity distribution hubs.'},
+40258	            vlcc: {name:'VLCC — Very Large Crude Carrier (300,000–320,000 DWT)', ldt:'~40,000 LDT', scrap:'~$19–25M demolition floor', sp:'$70–140M secondhand range', trade:'AG Gulf → Asia (Hormuz), West Africa → Asia, USG → Asia (post Panama expansion)', tc:'1Y TC: $28,000–110,000/day (highly volatile)', note:'The VLCC is the defining asset of the global crude oil supply chain. Rates are driven by OPEC production policy, AG–Asia arb windows, US crude export growth, and geopolitical chokepoint disruptions (Hormuz, Cape of Good Hope routing).'},
+40259	            suezmax: {name:'Suezmax — 155,000–160,000 DWT Crude Tanker', ldt:'~24,000 LDT', scrap:'~$11–15M demolition floor', sp:'$45–90M secondhand range', trade:'West Africa → Europe/US East Coast, Black Sea / Med, North Sea Loadings', tc:'1Y TC: $22,000–75,000/day', note:'The Suezmax is the largest vessel that can transit the Suez Canal laden. Critical for West Africa – Europe flows and Black Sea crude exports. Rate volatility is strongly linked to Russian crude rerouting post-2022.'},
+40260	            aframax: {name:'Aframax — 80,000–120,000 DWT Crude Tanker', ldt:'~16,500 LDT', scrap:'~$8–11M demolition floor', sp:'$30–70M secondhand range', trade:'Baltic, North Sea, Caribbean, East of Suez regional, South East Asia', tc:'1Y TC: $18,000–60,000/day', note:'The Aframax is the workhorse of regional crude trade. It dominates Baltic loadings (Primorsk, Ust-Luga), North Sea Sullom Voe operations, and the Caribbean / Gulf of Mexico shuttle market. The LR2 product tanker shares the same hull platform.'}
+40277	            all: {name:'Cross-Sector Fleet Overview (Dry + Crude + Clean)', indices:'BDI + BDTI + BCTI composite positioning', assets:'Full shipping fleet: dry bulk, crude tankers, product tankers plotted simultaneously', drivers:'Macro global trade, energy commodity demand, geopolitical risk premium, tonnage supply cycles', cycle:'Cross-sector cycles rarely synchronise — provides relative value (long dry bulk / short crude or vice versa) positioning signals', note:'Viewing all three sectors simultaneously reveals inter-market correlations and divergences. Dry bulk leads crude by ~6–9 months at cycle turns as physical commodity trade anticipates energy demand shifts.'}
+40291	          const days = target.getAttribute('data-tt-days') || '—';
+40378	          html += `<div class="rt-row"><span class="rt-label">75–100</span><span class="rt-val" style="color:#f85149">${redDot}Overheated — Reversal Risk (fwd 3M BDI avg: −23.8%, 10% win)</span></div>`;
+40381	          html += `<div class="rt-row"><span class="rt-label">0–44</span><span class="rt-val" style="color:#3fb950">${greenDot}Trough — Accumulation Zone (fwd 3M BDI avg: +34.7%, 70% win)</span></div>`;
+40387	          const range = target.getAttribute('data-tt-range') || '—';
+40398	          const score = target.getAttribute('data-tt-score') || '—';
+40406	              stance: 'Cycle-Top Discipline — Trim Beta, Hedge, Avoid New Longs',
+40408	              desc: 'Composite heat is at cyclical extremes. Momentum and backwardation peak exactly at cycle tops in a mean-reverting freight market — treat high readings as a reversal-risk gauge, not a buy signal.'
+40412	              stance: 'Late-Cycle Strength — Hold With Trailing Stops, Sell Rips',
+40418	              stance: 'Mid-Cycle Equilibrium — Balanced 50/50 Dry/Tanker Parity',
+40424	              stance: 'Trough Accumulation — Scrap-Floor Value & Covered Charters',
+40451	              implication: pct >= 70 ? 'Maximum cycle heat — freight far above trend with strong ROC; historically a reversal-risk zone rather than a chase signal.' : pct >= 40 ? 'Rates fluctuate around medium-term trend with moderate momentum.' : 'Deep negative momentum marks capitulation territory — historically the strongest forward-return zone.'
+40456	              implication: pct >= 70 ? 'Extreme backwardation — late-cycle tightness that has historically faded as tonnage supply responds.' : pct >= 40 ? 'Flat term structure signals balanced fleet supply.' : 'Contango structure indicates overcapacity pricing — historically coincided with cycle troughs.'
+40461	              implication: pct >= 70 ? 'Large spot premium to futures — peak heat; historically followed by negative forward BDI returns.' : pct >= 40 ? 'Neutral basis spread indicates fair pricing across spot and derivatives.' : 'Futures premium (contango) generates roll drag on long ETF holders but has marked panic-floor zones.'
+40464	              formula: 'Chinese iron ore port inventories — inverted expanding percentile of own history (min 126 obs, cap 1,260)',
+40466	              implication: pct >= 70 ? 'Inventories critically low vs their own history — restocking urgency supports Capesize demand.' : pct >= 40 ? 'Balanced inventories satisfy near-term industrial consumption.' : 'Elevated inventories vs historical norms create demand saturation, muting import urgency.'
+40471	              implication: pct >= 70 ? 'Margins near the historical sweet spot — valuation-supported entry zone with defined downside.' : pct >= 40 ? 'Valuations drifting away from the historical margin midpoint.' : 'Margins at historical extremes — either overheated asset pricing or distressed scrap-floor support.'
+40500	                metric: 'Composite Score >= 75 pts (Overheated — Reversal Risk band)',
+40501	                risk: 'Do not short outright — late-cycle squeezes can extend; use trailing stops on remaining longs.'
+40513	                rules: 'Only re-rate bullish if breadth improves (weakest pillar inflects upward) while the composite holds above 75 — otherwise treat strength as distribution liquidity.',
+40529	                rules: 'Track the weakest pillar (port inventory percentile or basis) — its deterioration has historically led the index into the mid-cycle band.',
+40545	                rules: 'Deploy 50/50 capital parity between BDRY and BWET. Mid-cycle conditions produced +8.8% average fwd 3M BDI since 2018 — constructive but rangebound.',
+40628	          const val = document.getElementById('basisHudSpreadVal')?.textContent.trim() || '—';
+40633	          if (val && val !== 'Loading…' && val !== '—') {
+40640	          const val = document.getElementById('basisHudRegimeVal')?.textContent.trim() || '—';
+40645	          if (val && val !== 'Loading…' && val !== '—') {
+40737	            html += `<div class="rt-note">EUA level is a static screening assumption — no live carbon feed is wired yet. The daily voyage penalty derives from it.</div>`;
+40754	          html = `<div class="rt-title">Region Filter — ${name}</div>`;
+40765	          html = `<div class="rt-title">Grade Filter — ${names[grade] || grade}</div>`;
+40775	            volumes: ['Singapore monthly (MPA) and Rotterdam quarterly (Port Authority) — the only ports publishing verified physical volumes'],
+40861	          html = `<div class="rt-title">BIX Archive — ${region}</div>`;
+40870	          html = `<div class="rt-title">BIX Grade — ${grade}</div>`;
+40886	          html = `<div class="rt-title">${label} — Full Archive</div>`;
+41067	          html = `<div class="rt-title">${vessel} — Verified Commercial Fixture</div>`;
+41085	          html = `<div class="rt-title">${vessel} — Verified S&P Deal</div>`;
+41103	            const yoy = cat.yoy_change_pct != null ? (cat.yoy_change_pct >= 0 ? '+' : '') + cat.yoy_change_pct.toFixed(1) + '%' : '—';
+41107	            html = `<div class="rt-title">${cat.name || cat.label} — Spot Benchmark</div>`;
+41212	            html += `<div class="rt-row"><span class="rt-label">State</span><span class="rt-val" style="color:${live ? 'var(--green)' : 'var(--text-muted)'};">${live ? 'LIVE — publishes into the current harvest window' : 'FROZEN — last print predates the current harvest window'}</span></div>`;
+41219	            html = `<div class="rt-title">Route Tile</div><div class="rt-note">Daily cache still loading — hover again once it lands; nothing is estimated.</div>`;
+41240	          if (archived > 0) html += `<div class="rt-row"><span class="rt-label">Archived</span><span class="rt-val">${Number(archived).toLocaleString('en-US')} not shown — source published no values; USD/WS twins carry the routes</span></div>`;
+41256	            html = `<div class="rt-title">${escapeHtml(s.label)} — Daily Chart</div>`;
+41262	            html = `<div class="rt-title">Daily Chart</div><div class="rt-note">Pick a route tile above — the chart opens once its cache lands; nothing simulated is plotted.</div>`;
+41435	      // Collision-aware boundary detection positioning engine — 100% zero clipping
+41489	        'Volatility %': 'Annual price dispersion: (High − Low) ÷ Year Average. Measures how wildly rates moved relative to their baseline — not a directional return.',
+41496	        '52W High — Low': 'The highest ceiling and lowest floor traded over the last year.',
+41778	    var vlsfoStr = p.vlsfo ? '$' + p.vlsfo.toFixed(2) : '—';
+41779	    var mgoStr = p.mgo ? '$' + p.mgo.toFixed(2) : '—';
+41780	    var hsfoStr = p.ifo380 ? '$' + p.ifo380.toFixed(2) : '—';
+41781	    var hi5Str = p.hi5_spread ? '$' + p.hi5_spread.toFixed(2) : '—';
+41782	    var bioStr = p.bio ? '$' + p.bio.toFixed(2) : '—';
+41789	    var spreadSgText = p.spread_vs_singapore > 0 ? '+' + p.spread_vs_singapore.toFixed(1) : (p.spread_vs_singapore != null ? p.spread_vs_singapore.toFixed(1) : '—');
+41871	  if (!ms || !ms.length) return { spark: '—', range: null };
+41873	  if (vals.length < 2) return { spark: '—', range: null };
+41957	    var vlsfoText = p.vlsfo ? '$' + p.vlsfo.toFixed(2) : '—';
+41958	    var mgoText = p.mgo ? '$' + p.mgo.toFixed(2) : '—';
+41961	      col5Text = p.bio ? '$' + p.bio.toFixed(2) : '—';
+41963	      col5Text = p.ifo380 ? '$' + p.ifo380.toFixed(2) : '—';
+41965	    var spreadText = p.spread_vs_singapore != null ? (p.spread_vs_singapore > 0 ? '+' : '') + p.spread_vs_singapore.toFixed(1) : '—';
+41985	      dHtml = '<span style="color:var(--text-muted);">—</span>';
+42024	    if (hud) hud.textContent = p.name + ' (' + p.region + ') — Focused Fuel Indications';
+42374	  // Alt-fuel subview: LNG / MEOH / EUA — non-null ports ONLY, '—' for nulls, never zero-filled.
+42381	    if (v == null) return '<span style="color:var(--text-muted);" title="null — no verified indication (never 0-filled)">—</span>';
+42388	  if (cap) cap.textContent = 'Verified alt-fuel indications — ' + rows.length + ' of ' + ports.length + ' ports (LNG: ' + nLng + ' · MEOH: ' + nMeoh + ' · EUA: ' + nEua + '). Null = no quote, never 0.';
+42492	  // empty/null-only series — that rendered as a blank $0-$1.2 chart).
+42512	  var gradeFallbackNote = gradeFallback ? ('<span style="color:#7a8494;"> [selected grade has no quotes for this port — showing best-covered grade]</span>') : '';
+42549	      subEl.innerHTML = '<span style="color:#e3b341; font-weight:600; font-family:\'IBM Plex Mono\', monospace;">[MONTHLY FALLBACK · no daily series for ' + escapeHtml(bunkersChartPort) + ' — ' + (nAllPorts - nDailyPorts) + '/' + nAllPorts + ' ports monthly-only]</span> 3-Year Monthly Series · Ship &amp; Bunker Benchmark Archive' + gradeFallbackNote;
+42640	// FEARNLEYS SECTIONED DESK ENGINE — 11 sub-nav sections over the wave-3 caches
+42645	// Domain SVG icons (13px, stroke=currentColor) — purpose-matched per desk:
+42813	  // Pedagogical desk-group ordering (restored tile set — no series dropped):
+42816	  //   source in our caches — disclosed here rather than invented),
+42817	  // GROUP 2 Newbuilding Prices (bulk family Kamsarmax/Newcastlemax/Ultramax — the
+42818	  //   only bulk NB classes Fearnleys publishes — then tanker VLCC/Suezmax/Aframax/
+42830	    if (s.type === 'S&P') return (SP_RANK[s.k] != null) ? 2 : 99; // ranked classes only — CN/JP basis curves were never on the pre-change overview
+42879	    var chgTxt = chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '% MoM');
+42889	      '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })) + '</div>' +
+42902	      'Order: GROUP 1 Time-Charter Rates (bulk Capesize→Panamax→Supramax→Handysize, then tanker VLCC→Suezmax→Aframax — MR/Product 1Y TC are not published in any cache, disclosed not invented) · GROUP 2 Newbuilding Prices (bulk Kamsarmax→Newcastlemax→Ultramax, tanker VLCC→Suezmax→Aframax→Product, gas LNGC MEGI→VLGC→MGC then TEU classes) · GROUP 3 S&amp;P / Resale (§5 class order, 5y before 10y, curves then resale) · GROUP 4 LNG / LPG (2005 Built 145k3 Steam, Pacific Ocean, Atlantic Ocean · COASTER Europe, ETH, LGC).',
+42903	      'Tanker routes (S3) and dry-route benchmarks (S4) are daily-native from the fearnpulse daily caches — no monthly compression anywhere on those routes; S&amp;P/NB/gas tiles remain monthly as published.',
+42905	      arch + ' archived labels (LNG CALCULATED/MARKET, TANK Baltic/BITR/Equinor, LPG BLPG — frozen 2023) live in the Series Museum only.'
+42926	  // per-class source toggle: baltic weekly (default) vs Fearnleys monthly archive — one source at a time
+42982	        : (cls + ' · no Fearnleys monthly archive series — switch back to Baltic Weekly');
+42993	    : '4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation';
+43056	  return FDESK_TANKER_META.notes || 'frozen — last print predates the current harvest window';
+43061	  // from the loaded cache pts at render time — never a hardcoded exclusion list.
+43181	    if (!j || !j.series) { fearnErrorState('fearnTankGrid', 'Tanker daily cache failed to load — no fabricated values are shown. The section re-renders from data/derived/fearnleys_tanker_routes_daily.json on the next page load.'); return; }
+43186	        // computed from the cache — matches the tiles actually rendered).
+43217	      note.textContent = 'Daily points, uninterpolated — gaps stay gaps · ' + series.length + ' series in ' + FDESK.tankKlass + ' · cache to ' + (FDESK_TANKER_META.dateTo || 'n/a');
+43225	        archEl.textContent = archived + ' archived route series not shown — the source published no values in these branches; the USD/WS twins of these routes are shown.';
+43268	            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? '\u2014' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ' — daily print, no interpolation'; }
+43314	      if (note) note.textContent = 'Dry-route daily cache failed to load — no fabricated values are shown. The grid re-renders from data/derived/fearnleys_dry_routes_daily.json on the next page load.';
+43315	      if (grid) fearnErrorState('fearnDryGrid', 'Dry-route benchmark cache failed to load — no fabricated values are shown.');
+43339	      note.textContent = 'Baltic dry-route assessments as published on Fearnleys weekly report tiles · ' + series.length + ' series · cache to ' + (FDESK_DRY_META.dateTo || 'n/a') + ' · launch dates differ per series (shown per tile) — no uniform depth implied';
+43340	      if (dryArchived > 0) note.textContent = note.textContent + ' · ' + dryArchived + ' archived route series not shown — the source published no values in these branches; the USD/WS twins of these routes are shown.';
+43389	            label: function (it) { var v = it.parsed.y; return ' ' + s.label + ': ' + (v == null ? '\u2014' : fearnFmtVal(v)) + ' ' + fearnUnitName(s.unit) + ' — daily print, no interpolation'; }
+43428	    var spans = keys.map(function (k) { var r = nb.series[k]; return r.length ? (r[0][0] + '→' + r[r.length - 1][0]) : '—'; });
+43475	    if (meta0) meta0.textContent = cls + ' — no published base curves in this cache; CN/JP variant classes or PRICES-only classes carry the data. Pick another class.';
+43629	    { l: 'MoM (' + (liveBase || 'vs prev') + ')', v: chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '%'), sub: s.subtype, style: chgStyle },
+43630	    { l: 'ATH / ATL', v: Number(s.ath).toLocaleString(undefined, { maximumFractionDigits: 1 }) + ' / ' + Number(s.atl).toLocaleString(undefined, { maximumFractionDigits: 1 }), sub: 'ATH ' + (s.ath_date || '—') },
+43694	    note.textContent = kind + ' is weekly/thinner native (daily only 2018-05→2023-02, frozen) — monthly display here · ' + keys.length + ' live labels grouped by subtype · ' + archN + ' archived labels (frozen 2023) live in Museum only' + (overlay ? ' · ' + overlay.title : '');
+43836	      return '<button class="tracking-status-btn' + (d === FDESK.fxDept ? ' active' : '') + '" data-dep="' + d + '" onclick="setFearnFxDept(\'' + d + '\')"' + (arch ? ' data-tooltip="Desk stopped publishing ' + new Date(arch).toISOString().slice(0, 10) + ' — showing its final 45 days of activity."' : '') + '>' + d + (dc[d] ? ' (' + dc[d].toLocaleString() + ')' : '') + badge + '</button>';
+43841	    var lg = (facets.ytd_charterer_league || []).filter(function (p) { return p[0] !== '—'; }).slice(0, 12);
+43844	    }).join('') || '<div style="color:var(--text-muted);">—</div>';
+43849	    (facets.dept || []).forEach(function (p) { if (p[0] !== '—' && p[1] > maxd) maxd = p[1]; });
+43850	    db.innerHTML = (facets.dept || []).filter(function (p) { return p[0] !== '—'; }).slice(0, 7).map(function (p) {
+43868	  if (note) note.textContent = 'Coverage 2024 forward · earlier years are sparse department scraps · rate numeric where parseable (92% text/RNR historically — kept in comment, em-dash when null) · deduped on date+vessel+charterer+route';
+43890	    var rate = (r.r == null || r.r === '') ? '<span style="color:var(--text-muted);">—</span>' : Number(r.r).toLocaleString();
+43894	      '<td><span style="font-size:9px;font-weight:700;padding:1px 5px;border-radius:8px;border:1px solid ' + dc + ';color:' + dc + ';">' + escapeHtml(r.dp || '—') + '</span></td>' +
+43895	      '<td style="white-space:nowrap;">' + escapeHtml(r.sg || '—') + '</td>' +
+43896	      '<td style="font-weight:600;color:var(--text-bright);">' + escapeHtml(r.v || '—') + '</td>' +
+43897	      '<td>' + escapeHtml(r.c || '—') + '</td>' +
+43898	      '<td>' + escapeHtml(r.cm || '—') + '</td>' +
+43899	      '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.p || '—') + '</td>' +
+43900	      '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.lc || '—') + '</td>' +
+44035	    { l: 'MoM', v: chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '%'), sub: '', style: chgStyle },
+44063	  if (note) note.textContent = st === 'ARCHIVED' ? ('Discontinued — last print ' + s.last + ' (archived >365d vs file max ' + (FDESK.maxym || '') + '). Full label: ' + key) : ('Full label: ' + key + ' · Source: fearnpulse monthly cache');
+44157	  var chgTxt = chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '% MoM');
+44160	    { l: 'MoM Change', v: chgTxt, sub: 'vs ' + (s.m.length > 1 ? s.m[s.m.length - 2][0] : '—'), style: chgStyle },
+44317	      return '<span class="tracking-status-btn" style="cursor:default;">' + escapeHtml(rg) + ' · ' + g.n + ' obs · 1M fwd hit ' + (isFinite(hit) ? hit.toFixed(0) + '%' : '—') + '</span>';
+44376	      const yoy = c.yoy_change_pct != null ? (c.yoy_change_pct >= 0 ? '+' : '') + c.yoy_change_pct.toFixed(1) + '%' : '—';
+44378	      const util = c.utilization_pct != null ? c.utilization_pct + '%' : '—';
+44481	      titleEl.textContent = `${catMeta[seg].name} — Market Cycle Profile`;
+44720	    const yoy = r.yoy_change_pct != null ? (r.yoy_change_pct >= 0 ? '+' : '') + r.yoy_change_pct.toFixed(1) + '%' : '—';
+44722	    const util = r.utilization_pct != null ? r.utilization_pct + '%' : '—';
+44723	    const rangeStr = (r.min_dayrate && r.max_dayrate) ? `£${Math.round(r.min_dayrate).toLocaleString()} – £${Math.round(r.max_dayrate).toLocaleString()}` : '—';

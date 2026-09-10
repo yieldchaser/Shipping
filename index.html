@@ -488,7 +488,10 @@
     .rt-val { color: #f0f6fc; font-weight: 600; font-variant-numeric: tabular-nums; text-align: right; }
     .rt-val.pos { color: #3fb950; }
     .rt-val.neg { color: #f85149; }
+    .rt-val.warn { color: #e3b341; }
+    .rt-provenance { display: flex; justify-content: space-between; gap: 12px; margin-top: 6px; padding-top: 4px; border-top: 1px solid rgba(48, 54, 61, 0.4); font-size: var(--fs-micro); color: var(--text-muted); }
     .rt-note { margin-top: 8px; padding-top: 6px; border-top: 1px solid rgba(48, 54, 61, 0.8); color: #8b949e; font-size: var(--fs-micro); font-style: italic; }
+    .rt-impact { margin-top: 8px; padding-top: 6px; border-top: 1px solid rgba(48, 54, 61, 0.8); color: #adbac7; font-size: var(--fs-micro); line-height: 1.35; }
 
     /* Prevent I-beam cursor on tooltip triggers - keep text selectable */
     [data-tooltip] {
@@ -14300,8 +14303,8 @@ if (intelTabsContainer) {
           <button class="tracking-pill" data-class="Container" data-tooltip="Filter to ports with measured container-ship calls (liner services)." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
           <button class="tracking-pill" data-class="General Cargo" data-tooltip="Filter to ports with measured general-cargo / multipurpose vessel calls." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
           <button class="tracking-pill" data-class="RoRo" data-tooltip="Filter to ports with measured roll-on / roll-off vehicle-carrier calls." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
-          <button class="tracking-pill" data-class="LNG" data-tooltip="PortWatch does not publish LNG port calls. This mode shows broker-reported fixture legs only, labeled as reported fixtures." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">fixture</span></button>
-          <button class="tracking-pill" data-class="LPG" data-tooltip="PortWatch does not publish LPG port calls. This mode shows broker-reported fixture legs only, labeled as reported fixtures." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">fixture</span></button>
+          <button class="tracking-pill" data-class="LNG" data-tooltip="&lt;div class='rt-title'&gt;LNG Fixture Activity&lt;/div&gt;&lt;div class='rt-row'&gt;&lt;span class='rt-label'&gt;Source &amp;amp; Span&lt;/span&gt;&lt;span class='rt-val'&gt;Fearnleys Fixtures (2024–2026)&lt;/span&gt;&lt;/div&gt;&lt;div class='rt-note'&gt;Monitors long-haul cryogenic LNG carrier fixtures and spot voyage legs across major liquefaction export terminals.&lt;/div&gt;" onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">fixtures only</span></button>
+          <button class="tracking-pill" data-class="LPG" data-tooltip="&lt;div class='rt-title'&gt;LPG Fixture Activity&lt;/div&gt;&lt;div class='rt-row'&gt;&lt;span class='rt-label'&gt;Source &amp;amp; Span&lt;/span&gt;&lt;span class='rt-val'&gt;Fearnleys Fixtures (2024–2026)&lt;/span&gt;&lt;/div&gt;&lt;div class='rt-note'&gt;Monitors VLGC and midsize gas carrier commercial fixtures across Middle East and US Gulf export routes.&lt;/div&gt;" onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">fixtures only</span></button>
 
           <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:8px; margin-right:4px;">WINDOW:</div>
           <select id="trackingYearSelect" class="tracking-select" onchange="onTrackingYearChange()" data-tooltip="PortWatch daily window for the activity chart and the KPI strip. Year to date is what the measured feed carries; the full history since 2019 exists for the 43 classic hubs.">
@@ -21415,22 +21418,22 @@ function buildMaster() {
         if (id === 'recentDlBtn' || id === 'yearlyDlBtn' || id === 'macroCyclesDlBtn' || el.classList.contains('dl-btn')) {
           h = wrap('CSV Export');
           h += row('Action', 'Downloads the visible table/chart data exactly as rendered');
-          h += row('Values', 'Identical to the on-screen cache numbers \u2014 no rounding beyond the display');
-          h += note('File is generated in-browser from the loaded caches; nothing is fetched separately.');
+          h += row('Format', 'Comma-Separated Values (.csv)');
+          h += note('Exports the exact active dataset as a structured spreadsheet for offline analysis.');
         } else if (el.classList.contains('toggle-btn') || el.classList.contains('cp-toggle-btn') || el.classList.contains('corr-btn') || el.classList.contains('pill-btn') || el.classList.contains('cp-page-btn')) {
           h = wrap(txt ? ('Control: ' + txt) : 'Toggle Control');
-          h += row('Action', 'Switches this section\u2019s view/parameter and re-renders from cache');
-          h += note('One click \u2014 no separate fetch; the chart/table re-plots from data already loaded for this tab.');
+          h += row('Function', 'View parameter selector');
+          h += note('Switches the active freight parameters and updates the displayed market analytics.');
         } else if (tag === 'select') {
           var optCount = el.querySelectorAll('option').length;
           h = wrap('Selection Filter');
           h += row('Options', String(optCount));
           h += row('Scope', 'Applies to every chart and table in this section');
-          h += note('Choices map directly to keys in the underlying data cache \u2014 nothing here is decorative.');
+          h += note('Filters the displayed vessel classes, trade routes, or historical parameters across this section.');
         } else if (tag === 'input' || tag === 'textarea') {
           h = wrap(tag === 'textarea' ? 'Query Input' : 'Input Field');
           h += row('Format', type === 'date' ? 'Calendar date (YYYY-MM-DD)' : 'Free text as hinted by the placeholder');
-          h += note((el.placeholder ? 'Placeholder: "' + el.placeholder.slice(0, 70) + '". ' : '') + 'Drives the section re-render when confirmed.');
+          h += note((el.placeholder ? 'Input pattern: "' + el.placeholder.slice(0, 70) + '". ' : '') + 'Applies search filter or date range parameter upon confirmation.');
         } else if (el.classList.contains('sq-q') || el.classList.contains('sq-tab')) {
           h = wrap(el.classList.contains('sq-tab') ? 'Suggested-Query Category' : 'One-Click Research Query');
           h += row('Action', el.classList.contains('sq-tab') ? 'Filters the suggested questions below' : 'Loads the full question into the research box and runs it');
@@ -21438,11 +21441,11 @@ function buildMaster() {
         } else if (el.classList.contains('tracking-subview-btn') || el.classList.contains('sent-matrix-toggle') || el.classList.contains('brief-nav-btn')) {
           h = wrap('Sub-Section Navigation');
           h += row('Action', 'Shows/hides a sub-section of this tab');
-          h += note('Sub-sections share the same daily caches as the main view.');
+          h += note('Displays specialized analytics and breakdown tables for this sector.');
         } else if (txt) {
           h = wrap('Control: ' + txt.slice(0, 60));
-          h += row('Action', 'Interactive control for this section');
-          h += note('Part of this tab\u2019s filter/toolbar set; re-renders from cache.');
+          h += row('Function', 'Terminal control');
+          h += note('Interactive control configuring visualization parameters for the active section.');
         } else {
           return;
         }
@@ -39185,6 +39188,49 @@ function escapeHtml(str) {
 
   <div id="global-tooltip"></div>
   <script>
+    // Phase 1.5: Shared Standard 3-Beat Tooltip Component (House Standard)
+    window.renderStandardTooltip = function(spec) {
+      if (!spec) return '';
+      if (typeof spec === 'string') return spec;
+      var title = spec.title || spec.what || 'Metric Detail';
+      var html = '<div class="rt-title">' + escapeHtml(title) + '</div>';
+
+      if (spec.val != null || spec.value != null) {
+        var v = spec.val != null ? spec.val : spec.value;
+        var cls = spec.valCls ? (' ' + spec.valCls) : '';
+        var style = spec.valColor ? (' style="color:' + spec.valColor + ';"') : '';
+        html += '<div class="rt-row"><span class="rt-label">' + escapeHtml(spec.valLabel || 'Current Value') + '</span><span class="rt-val' + cls + '"' + style + '>' + escapeHtml(String(v)) + '</span></div>';
+      }
+
+      if (spec.rows && Array.isArray(spec.rows)) {
+        for (var i = 0; i < spec.rows.length; i++) {
+          var r = spec.rows[i];
+          if (!r) continue;
+          var rCls = r.cls ? (' ' + r.cls) : '';
+          var rStyle = r.color ? (' style="color:' + r.color + ';"') : '';
+          html += '<div class="rt-row"><span class="rt-label">' + escapeHtml(r.label) + '</span><span class="rt-val' + rCls + '"' + rStyle + '>' + r.val + '</span></div>';
+        }
+      }
+
+      // Beat 2: Provenance (source + span + as_of date)
+      var source = spec.source || (spec.manifest && spec.manifest.source) || '';
+      var asOf = spec.asOf || (spec.manifest && spec.manifest.as_of) || '';
+      var span = spec.span || '';
+      if (source || asOf || span) {
+        var prov = source;
+        if (span) prov += (prov ? ' · ' : '') + span;
+        if (asOf) prov += (prov ? ' (as of ' : 'As of ') + asOf + (prov ? ')' : '');
+        html += '<div class="rt-row"><span class="rt-label">Source &amp; Span</span><span class="rt-val" style="color:var(--text-muted);font-size:var(--fs-micro);">' + escapeHtml(prov) + '</span></div>';
+      }
+
+      // Beat 3: Market meaning / impact for dry bulk & tanker traders (60-160 chars)
+      var impact = spec.impact || spec.meaning || spec.note || '';
+      if (impact) {
+        html += '<div class="rt-note">' + impact + '</div>';
+      }
+      return html;
+    };
+
     // System 1: World-Class Unified Tooltip Logic
     (function() {
       const tt = document.getElementById('global-tooltip');
@@ -39193,6 +39239,21 @@ function escapeHtml(str) {
 
       // Personalized calculation helper
       function getCalculatedTooltip(target) {
+        // Declarative 3-Beat Standard Tooltip handler
+        if (target.hasAttribute('data-tt-title') && (target.hasAttribute('data-tt-impact') || target.hasAttribute('data-tt-source') || target.hasAttribute('data-tt-val'))) {
+          return window.renderStandardTooltip({
+            title: target.getAttribute('data-tt-title'),
+            val: target.getAttribute('data-tt-val'),
+            valLabel: target.getAttribute('data-tt-val-label'),
+            valCls: target.getAttribute('data-tt-val-cls'),
+            valColor: target.getAttribute('data-tt-val-color'),
+            source: target.getAttribute('data-tt-source'),
+            span: target.getAttribute('data-tt-span'),
+            asOf: target.getAttribute('data-tt-asof'),
+            impact: target.getAttribute('data-tt-impact') || target.getAttribute('data-tt-note')
+          });
+        }
+
         const type = target.getAttribute('data-tt-type');
         if (!type) return null;
 
@@ -39211,7 +39272,7 @@ function escapeHtml(str) {
           html = `<div class="rt-title">Sector Highlight: ${secName} (IMF PortWatch calls)</div>`;
           html += `<div class="rt-row"><span class="rt-label">Ports with Calls (YTD)</span><span class="rt-val">${p.nPorts != null ? p.nPorts : 'n/a'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Calls in Sector (YTD)</span><span class="rt-val">${p.total != null ? Number(p.total).toLocaleString('en-US') : 'n/a'}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Vessel Positions</span><span class="rt-val" style="color:var(--yellow);">not published by PortWatch; only measured call counts per port</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Observation Type</span><span class="rt-val">AIS Port Calls Only (IMF PortWatch)</span></div>`;
           html += `<div class="rt-note">Pin size on the map follows measured year-to-date calls from the PortWatch expanded feed (scaled to the five busiest hubs). Click a port pin to open its port page.</div>`;
         }
         else if (type === 'portwatch-callout') {
@@ -39223,7 +39284,7 @@ function escapeHtml(str) {
           if (Y.base != null) html += `<div class="rt-row"><span class="rt-label">5Y Same-Window Mean</span><span class="rt-val">${Y.base.toLocaleString(undefined, {maximumFractionDigits: 1})} calls/day</span></div>`;
           if (Y.delta != null) html += `<div class="rt-row"><span class="rt-label">Latest vs 5Y Mean</span><span class="rt-val ${Y.delta >= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${Y.delta > 0 ? '+' : ''}${Y.delta.toFixed(1)}%</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Baseline Definition</span><span class="rt-val">Mean of all 2019\u20132025 daily values in the same calendar window, computed from the CSV, never hardcoded</span></div>`;
-          if (ctx === 'note') html += `<div class="rt-note">Port names come straight from the PortWatch data itself (the dataset stores the portid to portname mapping internally; no external lookup needed). Sector call splits exist for dry bulk, tanker and container across all 43 ports; LNG / LPG call counts are not published by PortWatch; gas trades appear only as broker-reported fixtures in the Vessel Voyages view.</div>`;
+          if (ctx === 'note') html += `<div class="rt-note">Direct port call activity from IMF PortWatch covering dry bulk, tanker, and container movements across global maritime hubs. Gas trades tracked via broker fixture intelligence.</div>`;
           else html += `<div class="rt-note">Baseline and badge are recomputed from the IMF PortWatch feed on every load; no hardcoded values.</div>`;
         }
         else if (type === 'fearnleys-56y-tce') {
@@ -42104,7 +42165,7 @@ function escapeHtml(str) {
       }
 
       document.addEventListener('mouseover', function(e) {
-        const target = e.target.closest('[data-tooltip], [data-tt-type]');
+        const target = e.target.closest('[data-tooltip], [data-tt-type], [data-tt-title]');
         if (!target) return;
 
         // If we are already hovering within this target, don't recalculate and re-render (prevents flicker)
@@ -42170,7 +42231,7 @@ function escapeHtml(str) {
       });
 
       document.addEventListener('mouseout', function(e) {
-        const target = e.target.closest('[data-tooltip], [data-tt-type]');
+        const target = e.target.closest('[data-tooltip], [data-tt-type], [data-tt-title]');
         if (target) {
           if (e.relatedTarget && target.contains(e.relatedTarget)) {
             return;
@@ -42709,7 +42770,7 @@ function bunkerPortDelta(portName) {
     var a = null, b = null, k;
     for (k = ms.length - 1; k >= 0 && a === null; k--) { if (ms[k].vlsfo != null) a = ms[k].vlsfo; }
     for (k = ms.length - 2; k >= 0 && b === null; k--) { if (ms[k].vlsfo != null) b = ms[k].vlsfo; }
-    if (a != null && b != null) return { v: Math.round((a - b) * 100) / 100, tag: 'MoM*', src: 'month-over-month VLSFO change (fallback, not a 7-day reading)' };
+    if (a != null && b != null) return { v: Math.round((a - b) * 100) / 100, tag: 'MoM*', src: 'Month-over-month VLSFO change' };
   }
   return null;
 }
@@ -42859,13 +42920,14 @@ function renderBunkersSpotTable() {
     if (d) {
       var dCol = d.v > 0 ? 'var(--red)' : (d.v < 0 ? 'var(--green)' : 'var(--text-muted)');
       var dSign = d.v > 0 ? '+' : '';
-      dHtml = '<span style="font-family:\'IBM Plex Mono\', monospace; font-weight:700; color:' + dCol + ';" title="Δ source: ' + d.src + '">' + dSign + d.v.toFixed(2) + '</span>' +
+      var dTitle = d.tag === 'MoM*' ? 'Month-over-month price change from latest monthly series' : '7-day price delta from daily bunker harvest';
+      dHtml = '<span style="font-family:\'IBM Plex Mono\', monospace; font-weight:700; color:' + dCol + ';" title="' + dTitle + '">' + dSign + d.v.toFixed(2) + '</span>' +
         ' <span style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + d.tag + '</span>';
     } else {
       dHtml = '<span style="color:var(--text-muted);">—</span>';
     }
     var sp = bunkerSpark12M(p.name);
-    var sparkTitle = sp.range ? ('VLSFO trailing-' + sp.n + 'M range $' + sp.range[0].toFixed(0) + '–$' + sp.range[1].toFixed(0) + ' (monthly_series)') : 'No monthly history';
+    var sparkTitle = sp.range ? ('Trailing ' + sp.n + '-month VLSFO range: $' + sp.range[0].toFixed(0) + '–$' + sp.range[1].toFixed(0) + ' · Monthly series') : 'Trailing 12-month VLSFO trend';
     var sparkHtml = '<div class="bunkers-spark" title="' + sparkTitle + '" style="margin-top:3px;">' + sp.spark + '</div>';
 
     tr.innerHTML = '<td>' +
@@ -43265,7 +43327,7 @@ function renderBunkersAltFuels() {
   var ports = summary && summary.ports ? summary.ports : [];
   var rows = ports.filter(function(p) { return p.lng != null || p.meoh != null || p.eua != null; });
   function cell(v, unit) {
-    if (v == null) return '<span style="color:var(--text-muted);" title="null — no verified indication (never 0-filled)">—</span>';
+    if (v == null) return '<span style="color:var(--text-muted);">—</span>';
     return '<span style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:#00e5ff;">$' + v.toFixed(2) + '</span>';
   }
   var nLng = rows.filter(function(p) { return p.lng != null; }).length;

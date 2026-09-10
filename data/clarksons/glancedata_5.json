@@ -1,0 +1,90 @@
+[
+  {
+    "ts_link_id": 0,
+    "ts_series_id": 534435,
+    "alternativeFrequencyTsSeriesIds": [
+      534465,
+      534495
+    ],
+    "secondaryGraph_TsLinkId": null,
+    "ts_desc_id": 0,
+    "secondaryGraph_TsDescId": null,
+    "marketTable": "Please Login",
+    "display": "Bulkcarrier Fleet Growth",
+    "secondaryGraph_Display": "Please Login",
+    "unitDisplay": "Please Login",
+    "secondaryGraph_UnitDisplay": "Please Login",
+    "yearMinus2": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "yearMinus1": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "previous": null,
+    "latest": null,
+    "sentiment": "Please Login",
+    "changePercent": null,
+    "fiveYearMax": null,
+    "fiveYearMin": null,
+    "fiveYearAverage": null,
+    "previousDateShort": "Please Login",
+    "latestDateShort": "Please Login",
+    "default_frequency": "Please Login",
+    "secondaryGraph_DefaultFrequency": null,
+    "sparkLineData": [],
+    "isPercentageChangeType": true,
+    "annualDataCalcType": "Please Login",
+    "numDecimalPlacesToShow": 1,
+    "censorString": "Please Login"
+  },
+  {
+    "ts_link_id": 0,
+    "ts_series_id": 534436,
+    "alternativeFrequencyTsSeriesIds": [
+      534466,
+      534496
+    ],
+    "secondaryGraph_TsLinkId": null,
+    "ts_desc_id": 0,
+    "secondaryGraph_TsDescId": null,
+    "marketTable": "Please Login",
+    "display": "Bulkcarrier Orderbook % Fleet",
+    "secondaryGraph_Display": "Please Login",
+    "unitDisplay": "Please Login",
+    "secondaryGraph_UnitDisplay": "Please Login",
+    "yearMinus2": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "yearMinus1": {
+      "tsValue": null,
+      "year": "Please Login",
+      "isForecast": false,
+      "tooltip": "Please Login"
+    },
+    "previous": null,
+    "latest": null,
+    "sentiment": "Please Login",
+    "changePercent": null,
+    "fiveYearMax": null,
+    "fiveYearMin": null,
+    "fiveYearAverage": null,
+    "previousDateShort": "Please Login",
+    "latestDateShort": "Please Login",
+    "default_frequency": "Please Login",
+    "secondaryGraph_DefaultFrequency": null,
+    "sparkLineData": [],
+    "isPercentageChangeType": true,
+    "annualDataCalcType": "Please Login",
+    "numDecimalPlacesToShow": 1,
+    "censorString": "Please Login"
+  }
+]
