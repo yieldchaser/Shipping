@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import json
+from datetime import datetime, timezone
 import pandas as pd
 
 CHOKEPOINTS_CONFIG = {
@@ -439,20 +440,20 @@ def main():
     panama = next((c for c in chokepoints_data if c['id'] == 'panama_canal'), None)
 
     global_meta = {
-        'generated_at': '2026-09-07',
+        'generated_at': datetime.now(timezone.utc).isoformat(),
         'data_range': f"{df['date'].min()} to {df['date'].max()}",
         'total_chokepoints_monitored': len(chokepoints_data),
         'rerouting_crisis': {
-            'bab_el_mandeb_diverted_pct': red_sea_bab['baseline_change_pct'] if red_sea_bab else -73.1,
-            'suez_canal_diverted_pct': suez['baseline_change_pct'] if suez else -73.1,
-            'cape_of_good_hope_surge_pct': round(((cape['avg_2026'] - cape['normal_baseline_daily']) / cape['normal_baseline_daily']) * 100, 1) if cape else 75.0,
+            'bab_el_mandeb_diverted_pct': red_sea_bab['baseline_change_pct'] if red_sea_bab else None,
+            'suez_canal_diverted_pct': suez['baseline_change_pct'] if suez else None,
+            'cape_of_good_hope_surge_pct': round(((cape['avg_2026'] - cape['normal_baseline_daily']) / cape['normal_baseline_daily']) * 100, 1) if (cape and cape.get('normal_baseline_daily')) else None,
             'implied_additional_voyage_days': 14.5,
             'implied_tonne_mile_expansion_pct': 28.4
         },
         'panama_recovery': {
-            'current_daily_avg': panama['avg_2026'] if panama else 32.0,
-            'baseline_daily': panama['normal_baseline_daily'] if panama else 37.5,
-            'status': panama['disruption_status'] if panama else 'RESTRICTED_SLOTS'
+            'current_daily_avg': panama['avg_2026'] if panama else None,
+            'baseline_daily': panama['normal_baseline_daily'] if panama else None,
+            'status': panama['disruption_status'] if panama else None
         }
     }
 

@@ -1,3 +1,12 @@
+# ==============================================================================
+# QUARANTINED: MODEL BUILT ON FABRICATED INPUTS (Phase 2.1.b)
+# Reason:
+# 1. Claims Guinea input from 'UN Comtrade monthly bilateral trade declarations' which
+#    was actually hardcoded from chart images in generate_trade_envelopes.py.
+# 2. Product owner cut this module (arbitrary slider multiplication model).
+# Quarantined per docs/megaprompts/02-data-purge-and-acquisition.md. DO NOT RESTORE.
+# ==============================================================================
+
 #!/usr/bin/env python3
 """
 Ton-Mile Absorption & Fleet Utilization Model — TRANSPARENT PHYSICAL MODEL.

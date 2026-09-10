@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Bunker Index 12-Month Forward Curves Extractor & Synthetic Projection Engine
-1. Harvests genuine forward delivery matrices across 12 rolling forward contract months
-   for 6 unmasked global hubs: Busan, Fujairah, Hong Kong, Kaohsiung, Rotterdam, Singapore.
-2. For masked/paywalled ports (Hamburg, New York, Panama Canal, Houston, Zhoushan, Gibraltar, Off Malta),
-   projects forward curves by mapping regional spot basis differentials and benchmark forward slopes.
+Bunker Index 12-Month Forward Curves Harvester
+Fetches published forward delivery price tables across 12 rolling contract months
+from BunkerIndex center tables for unmasked global ports (Busan, Fujairah, Hong Kong,
+Kaohsiung, Rotterdam, Singapore). Paywalled/masked ports are skipped.
+Note: Published curve shapes show identical slope patterns across hubs; see
+data/provenance/manifest.json for estimated status derivation.
 """
 
 import os
@@ -33,7 +34,7 @@ def get_contract_month_label(month_offset: int, as_of: date = None) -> str:
 def fetch_forward_month(month_offset: int, as_of_date_str: str = None) -> pd.DataFrame:
     """
     Fetches the forward prices table for month M (1 to 12).
-    Returns a pandas DataFrame of genuine unmasked prices.
+    Returns a pandas DataFrame of unmasked prices.
     """
     url = f"https://www.bunkerindex.com/center_table_forward_prices_month_{month_offset}_home.php"
     as_of = date.today().strftime("%Y-%m-%d") if not as_of_date_str else as_of_date_str
@@ -93,7 +94,7 @@ def fetch_forward_month(month_offset: int, as_of_date_str: str = None) -> pd.Dat
     return pd.DataFrame(records)
 
 def fetch_all_forward_curves() -> pd.DataFrame:
-    """Fetches all 12 forward months across unmasked hubs (100% genuine raw published data)."""
+    """Fetches all 12 forward months across unmasked hubs from BunkerIndex."""
     frames = []
     for m in range(1, 13):
         df_m = fetch_forward_month(m)

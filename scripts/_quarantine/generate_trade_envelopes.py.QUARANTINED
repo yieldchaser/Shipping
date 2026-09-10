@@ -1,3 +1,14 @@
+# ==============================================================================
+# QUARANTINED: FABRICATED DATA SOURCE (Phase 2.1.a)
+# Reason:
+# 1. GUINEA_BAUXITE_HISTORICAL_KT contains 10 years of monthly values transcribed
+#    directly from coloured lines of a chart image, despite docstring claims of
+#    UN Comtrade / AIS sources.
+# 2. calibrate_guinea_2026_flows() is validation theatre (logs & discards calculations).
+# 3. BRAZIL_COMEXSTAT_HISTORICAL_KT silently falls back to hardcoded dict on API errors.
+# Quarantined per docs/megaprompts/02-data-purge-and-acquisition.md. DO NOT RESTORE OR EXECUTE.
+# ==============================================================================
+
 #!/usr/bin/env python3
 """
 Physical Commodity In-Transit Flows & Seasonal Envelope Engine
