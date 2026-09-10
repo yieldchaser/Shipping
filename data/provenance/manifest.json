@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-09-10T12:51:50.209794+00:00",
   "schema_version": "1.0",
-  "total_series": 82,
+  "total_series": 94,
   "unregistered_count": 4,
   "series": [
     {
@@ -1776,6 +1776,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "7,937 live positions across Capesize/VLOC, VLCC/Suezmax, LNG, and LPG fleets."
+    },
+    {
+      "series_id": "signals_cape_ffa_distribution",
+      "display_name": "Signals \u2014 Capesize FFA vs Realized Spot Distribution",
+      "status": "LIVE",
+      "source_name": "SGX / Baltic Exchange Historical Settlements",
+      "source_url": "https://www.sgx.com",
+      "fetch_method": "Derived Distribution Analytics",
+      "fetch_script": "scripts/acquire/build_signals_views.py",
+      "output_file": "data/views/signals/cape_ffa_distribution.json",
+      "row_count": 17,
+      "date_span": [
+        "2008-10-06",
+        "2026-09-08"
+      ],
+      "last_fetched_utc": "2026-09-10T14:04:00.569681+00:00",
+      "unit": "$/day",
+      "is_derived": true,
+      "derivation": "Historical realized monthly, quarterly, and annual Capesize spot settlement distributions from cape_historical.csv (2008-2026, 4,335 trading days) compared against active SGX FFA tenor contracts.",
+      "notes": "Precomputed Tier 1 view manifest providing box/violin distribution benchmark parameters."
     }
   ]
 }
