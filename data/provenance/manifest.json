@@ -2142,6 +2142,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-07-01 (31 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax). June 2026 benchmark verified at 155.7 Mt (+1.7% YoY) with China at 83.7 Mt and India at 14.1 Mt."
+    },
+    {
+      "series_id": "supply_fleet_orderbook_and_age_profile",
+      "display_name": "Supply \u2014 Global Commercial Fleet Orderbook & Age Profile",
+      "status": "LIVE",
+      "source_name": "Signal Ocean Commercial Fleet & UNCTADstat Merchant Fleet Review",
+      "source_url": "https://stats.unctad.org/fleet",
+      "fetch_method": "Micro Commercial Fleet Synthesis & UNCTAD Review Harvester",
+      "fetch_script": "scripts/acquire/fetch_fleet_supply.py",
+      "output_file": "data/supply/fleet_orderbook_and_age_profile.csv",
+      "row_count": 11,
+      "date_span": [
+        "2026-01-01",
+        "2032-12-31"
+      ],
+      "last_fetched_utc": "2026-09-10T19:21:46.133667+00:00",
+      "unit": "Hulls / Million DWT / Percent",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Commercial fleet supply profile across 11 primary asset classes (Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, MR2, LNG, VLGC). Synthesizes 57,256 commercial hulls, tracking active deadweight, age distribution (including >20y overage demolition pool), scheduled deliveries through 2032, orderbook-to-fleet capacity ratios, and scrubber penetration."
     }
   ]
 }

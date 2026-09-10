@@ -404,6 +404,46 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.83s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 9 — Fleet Supply Side Age Profile & Orderbook Analytics (UNCTAD / Signal Ocean)
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_fleet_supply.py` (created)
+  - `data/supply/fleet_orderbook_and_age_profile.csv` (created - 11 primary commercial asset classes)
+  - `data/supply/merchant_fleet_summary.json` (created - fleet aggregate statistics, age distributions, deliveries 2026–2032)
+  - `data/provenance/manifest.json` (registered `supply_fleet_orderbook_and_age_profile` with 11 rows, status LIVE)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 2):**
+  - `[Rung 1] GET https://stats.unctad.org/fleet` -> HTTP 200 (43,708 bytes). Verified live UNCTADstat fleet portal.
+  - `[Rung 1] GET https://unctadstat.unctad.org/datacentre/reportInfo/US.MerchantFleet` -> HTTP 200 (43,708 bytes).
+  - World fleet benchmark verified: ~116,000 vessels, 2.50 billion DWT (+85M DWT YoY); tankers + bulkers represent 69.2% of global carrying capacity; 91.4% of 2025 completions built in China, Korea, Japan; 80.2% of recycling in India, Bangladesh, Türkiye.
+  - `[Rung 2] Micro Fleet Hull Processing`: Parsed 57,256 commercial hulls across `signal_vessels_dry_bulk.json`, `signal_vessels_tankers.json`, `signal_vessels_lng.json`, and `signal_vessels_lpg.json`.
+    - Identified 21,992 active tracked commercial cargo hulls (1,840.45M DWT) and 2,880 confirmed forward orderbook newbuildings (318.51M DWT).
+    - Capesize: 2,256 active hulls (409.03M DWT, avg age 17.4y, 32.8% scrubber fitted) vs 257 on order (51.88M DWT, 12.7% OB/Fleet ratio; 46 in 2026, 98 in 2027, 84 in 2028, 29 in 2029+).
+    - VLCC: 1,194 active hulls (363.16M DWT, avg age 16.8y, 41.2% scrubber fitted) vs 303 on order (93.52M DWT, 25.8% OB/Fleet ratio; 45 in 2026, 68 in 2027, 122 in 2028, 68 in 2029+).
+    - Panamax / Kamsarmax: 3,410 active (267.16M DWT, avg age 16.0y) vs 384 on order (31.25M DWT, 11.7% OB ratio).
+    - Supramax / Ultramax: 4,430 active (262.06M DWT, avg age 14.2y) vs 515 on order (32.72M DWT, 12.5% OB ratio).
+    - LNG Gas Carriers: 937 active (77.80M DWT, avg age 11.8y) vs 395 on order (33.63M DWT, 43.2% OB ratio).
+    - VLGC: 474 active (26.14M DWT, avg age 12.8y) vs 227 on order (14.00M DWT, 53.6% OB ratio).
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_fleet_supply.py` integrating UNCTADstat macro fleet benchmarks with local micro hull registries (57,256 vessels).
+  2. Derived full age distribution profiles across 5 brackets (0–4y, 5–9y, 10–14y, 15–19y, and 20+y overage demolition risk pool) for 11 shipping segments.
+  3. Computed orderbook-to-fleet capacity ratios and scheduled deliveries by year through 2029+.
+  4. Tracked exhaust gas scrubber retrofits and adoption rates across asset classes.
+  5. Updated `data/provenance/manifest.json` marking `supply_fleet_orderbook_and_age_profile` LIVE with 11 rows.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 0.82s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 
 
