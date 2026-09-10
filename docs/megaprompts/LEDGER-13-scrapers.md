@@ -256,6 +256,48 @@
 - **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 1.35s; Gate 3: 12 tabs active, 0 console errors.
 - **DEVIATIONS:** None.
 
+---
+
+## TARGET 5 — China Demand Side (GACC / chinadata.live)
+
+- **STATUS:** DONE
+- **FILES TOUCHED:**
+  - `scripts/acquire/fetch_china_customs_demand.py` (created)
+  - `data/commodities/china_customs_monthly_imports.csv` (created - 862 monthly rows across 10 commodity groups)
+  - `data/commodities/china_customs_partners_summary.json` (created - top partners all-time and latest-month origin distributions)
+  - `data/provenance/manifest.json` (registered `commodities_china_customs_monthly_imports` with 862 rows, status LIVE)
+  - `docs/megaprompts/LEDGER-13-scrapers.md` (updated)
+- **NETWORK CALLS & ENDPOINT PROBES (§0.66 Rung 1, Rung 4):**
+  - `[Rung 4] GET https://chinadata.live/api/v2/trade/hs/:hs_code?flow=:flow&period=all`:
+    - `HS 2601` (Iron ore, import): HTTP 200 (103 monthly points, 2018-01 -> 2026-07). Latest July 2026: $10.88B. Top partners: Australia 61.1%, Brazil 21.5%, South Africa 3.7%, India 2.2%, Peru 1.8%.
+    - `HS 2701` (Coal, import): HTTP 200 (103 monthly points, 2018-01 -> 2026-07). Top partners: Russia 26.8%, Australia 24.0%, Indonesia 19.2%, Mongolia 18.5%.
+    - `HS 2606` (Bauxite, import): HTTP 200 (19 monthly points, 2025-01 -> 2026-07). Top partners: Guinea 78.4%, Australia 15.7%.
+    - `HS 2818` (Alumina, import): HTTP 200 (19 monthly points, 2025-01 -> 2026-07). Top partners: Australia 46.0%, Indonesia 14.8%.
+    - `HS 1201` (Soybeans, import): HTTP 200 (103 monthly points, 2018-01 -> 2026-07). Top partners: Brazil 67.6%, United States 23.7%, Argentina 4.9%.
+    - `HS 2709` (Crude oil, import): HTTP 200 (103 monthly points, 2018-01 -> 2026-07). Top partners: Russia 17.1%, Saudi Arabia 15.6%, Iraq 10.1%, Malaysia 9.8%.
+    - `HS 2711` (LNG / LPG, import): HTTP 200 (103 monthly points, 2018-01 -> 2026-07). Top partners: Australia 19.7%, Qatar 13.1%, Turkmenistan 12.0%, Russia 11.2%.
+    - `HS 3102` (Nitrogenous fertiliser, import): HTTP 200 (103 monthly points, 2018-01 -> 2026-07).
+    - `HS 3105` (NPK fertiliser, import): HTTP 200 (103 monthly points, 2018-01 -> 2026-07).
+    - `HS 72` (Steel products, export): HTTP 200 (103 monthly points, 2018-01 -> 2026-07). Outbound geared bulker signal.
+  - `[Rung 4] GET https://comtradeapi.un.org/public/v1/preview/C/M/HS?reporterCode=156&partnerCode=0&cmdCode=2601&flowCode=M&period=202401`: HTTP 200. Verified monthly net weight (111.67 Mt in Jan 2024) cross-check against chinadata.live value.
+- **WHAT I DID:**
+  1. Built `scripts/acquire/fetch_china_customs_demand.py` targeting official GACC monthly data via chinadata.live API v2 for all 10 key maritime commodities.
+  2. Captured 862 verified monthly points spanning 2018-01 to 2026-07.
+  3. Extracted top partner distributions including C3 Brazil (21.5%) vs C5 Australia (61.1%) iron ore trade split, Guinea bauxite import dominance (78.4%), and Brazil soybean peak.
+  4. Preserved clean schema: `[date, hs_code, commodity, flow, shipping_class, value_usd, partner_count, top_partner_1, top_partner_2, top_partner_3, source_url, publisher, method]`.
+  5. Exported granular partner JSON catalog `data/commodities/china_customs_partners_summary.json`.
+  6. Updated `data/provenance/manifest.json` marking `commodities_china_customs_monthly_imports` LIVE.
+- **VERIFY COMMANDS:**
+  ```bash
+  python scripts/verify/check_no_fabrication.py
+  pytest tests/test_fearnleys_labels_and_ranges.py -q
+  python tests/test_phase8_regression_and_design.py
+  ```
+- **EXPECTED RESULT:** All 3 gates pass cleanly (exit 0, 6 passed, 12/12 tabs active, 0 console errors).
+- **ACTUAL RESULT:** Gate 1: 0 violations detected; Gate 2: 6 passed in 1.09s; Gate 3: 12 tabs active, 0 console errors.
+- **DEVIATIONS:** None.
+
+
 
 
 

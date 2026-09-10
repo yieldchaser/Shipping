@@ -2061,5 +2061,27 @@
       "derivation": null,
       "notes": "Weekly port region grain ocean vessel activity (Gulf & PNW) in ISO format (YYYY-MM-DD) from 1995 through September 2026."
     }
+  ],
+  "datasets": [
+    {
+      "series_id": "commodities_china_customs_monthly_imports",
+      "display_name": "Commodities \u2014 China Customs GACC Monthly Demand by Commodity",
+      "status": "LIVE",
+      "source_name": "General Administration of Customs of the People's Republic of China (GACC)",
+      "source_url": "https://chinadata.live/api/v2",
+      "fetch_method": "GACC Official Statistics API (chinadata.live v2)",
+      "fetch_script": "scripts/acquire/fetch_china_customs_demand.py",
+      "output_file": "data/commodities/china_customs_monthly_imports.csv",
+      "row_count": 862,
+      "date_span": [
+        "1-01",
+        "9-01"
+      ],
+      "last_fetched_utc": "2026-09-10T19:01:41.425412+00:00",
+      "unit": "USD / month",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Official GACC monthly demand series across 10 commodities (Iron ore, Coal, Bauxite, Alumina, Soybeans, Crude oil, LNG/LPG, Fertiliser 3102/3105, Steel). Contains partner distributions: Australia 61.1% vs Brazil 21.5% for iron ore (C5 vs C3 signal)."
+    }
   ]
 }
