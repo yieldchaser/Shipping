@@ -1871,16 +1871,17 @@
       "fetch_method": "Strict Comtrade API & GMI Ministry Ledger Harvester",
       "fetch_script": "scripts/acquire/fetch_guinea_bauxite.py",
       "output_file": "data/commodities/guinea_bauxite_exports.csv",
-      "row_count": 137,
+      "row_count": 139,
       "date_span": [
         "2015-12-31",
         "2026-06-30"
       ],
-      "last_fetched_utc": "2026-09-11T12:44:35.905824+00:00",
+      "last_fetched_utc": "2026-09-11T16:11:30.598239+00:00",
       "unit": "Tonnes (t)",
       "is_derived": false,
       "derivation": null,
-      "notes": "Bauxite export volume across 2 explicit granularities (137 rows from 2015-12-31 to 2026-06-30): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12."
+      "notes": "Bauxite export volume across 2 explicit granularities (139 rows from 2015-12-31 to 2026-06-30): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12.",
+      "rows": 139
     },
     {
       "series_id": "commodities_brazil_exports_monthly",
@@ -2295,16 +2296,17 @@
       "fetch_method": "Strict Comtrade API & GMI Ministry Ledger Harvester",
       "fetch_script": "scripts/acquire/fetch_guinea_bauxite.py",
       "output_file": "data/commodities/guinea_bauxite_exports.csv",
-      "row_count": 137,
+      "row_count": 139,
       "date_span": [
         "2015-12-31",
         "2026-06-30"
       ],
-      "last_fetched_utc": "2026-09-11T12:44:35.905824+00:00",
+      "last_fetched_utc": "2026-09-11T16:11:30.598239+00:00",
       "unit": "Tonnes (t)",
       "is_derived": false,
       "derivation": null,
-      "notes": "Bauxite export volume across 2 explicit granularities (137 rows from 2015-12-31 to 2026-06-30): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12."
+      "notes": "Bauxite export volume across 2 explicit granularities (139 rows from 2015-12-31 to 2026-06-30): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12.",
+      "rows": 139
     }
   ]
 }

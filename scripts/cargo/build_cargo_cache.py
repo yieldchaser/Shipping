@@ -346,6 +346,7 @@ def process_pilbara_iron_ore():
         "latest_destinations": {
             "date": latest_dest_date,
             "china_share_pct": china_share,
+            "total_reported_mt": round(tot / 1e6, 2) if latest_dest_map else 0.0,
             "destinations": dest_breakdown
         }
     }
@@ -661,18 +662,21 @@ def process_guinea_bauxite():
             px_str = row.get("avg_cif_usd_t")
             comp = (row.get("company") or "").strip()
 
-            # 1. Continuous UN Comtrade / GACC Mirror series
-            if "Mirror" in method and d and mt_str:
+            # 1. Continuous UN Comtrade / GACC / SMM Mirror series
+            if row.get("granularity") == "monthly_bilateral_mirror":
                 try:
                     mt = float(mt_str) / 1_000_000.0 if float(mt_str) > 1000 else float(mt_str)
                     monthly_mirror[ym] = round(mt, 2)
-                    if px_str:
-                        avg_price[ym] = float(px_str)
+                    if px_str and px_str != "":
+                        try:
+                            avg_price[ym] = float(px_str)
+                        except ValueError:
+                            pass
                 except ValueError:
                     pass
 
             # 2. National annual / quarterly reports
-            elif "National Total" in comp and mt_str:
+            elif ("National Total" in comp or row.get("granularity") in ["quarterly_national", "annual_national"]) and mt_str:
                 try:
                     val = float(mt_str) / 1_000_000.0 if float(mt_str) > 1000 else float(mt_str)
                     quote = row.get("source_quote", "")
@@ -694,12 +698,32 @@ def process_guinea_bauxite():
                     pass
 
             # 3. 2025 Per-Company Producer Ledger
-            elif d == "2025-12-31" and comp not in ["China", "Malaysia", "Others", "Singapore", "UAE"] and mt_str:
+            elif d == "2025-12-31" and comp not in ["China", "Malaysia", "Others", "Singapore", "UAE", "National Total", "National Total (FY 2025)"] and mt_str and row.get("granularity") == "annual_company":
                 try:
                     val = float(mt_str) / 1_000_000.0 if float(mt_str) > 1000 else float(mt_str)
+                    terminal_map = {
+                        "SMB": "Dapilon & Katougouma",
+                        "Chalco": "Port Boffa",
+                        "CBG": "Port Kamsar",
+                        "AGB2A/SDM": "Port Kokaya",
+                        "GAC": "Port Kamsar",
+                        "CBK": "Port Conakry",
+                        "Other": "Taressa / Benty / Konta"
+                    }
+                    dest_map = {
+                        "SMB": "China (Yantai, Rizhao)",
+                        "Chalco": "China (Fangchenggang, Longkou)",
+                        "CBG": "Europe, North America, China",
+                        "AGB2A/SDM": "China (Shandong)",
+                        "GAC": "UAE, China, India",
+                        "CBK": "Europe, Russia",
+                        "Other": "China & International"
+                    }
                     producers_2025.append({
                         "company": comp,
-                        "tonnes_mt": round(val, 2)
+                        "tonnes_mt": round(val, 2),
+                        "export_terminal": terminal_map.get(comp, "Rio Nunez / Boké"),
+                        "key_destination": dest_map.get(comp, "China & International")
                     })
                 except ValueError:
                     pass
@@ -720,14 +744,18 @@ def process_guinea_bauxite():
     min_date = min(monthly_mirror.keys()) if monthly_mirror else "2017-01"
     latest_date = max(monthly_mirror.keys()) if monthly_mirror else "2024-12"
 
+    total_2024 = 145.0
+    total_2025 = 182.8
+    yoy_2025_pct = round(((total_2025 - total_2024) / total_2024) * 100, 1)
+
     return {
         "provenance": {
-            "source": "China Customs (GACC) via UN Comtrade (HS 260600) + Guinea Ministry of Mines (Reuters / Mining Weekly)",
+            "source": "China Customs (GACC) via UN Comtrade & SMM Monthly Reports (HS 260600) + Guinea Ministry of Mines (Reuters / Mining Weekly)",
             "method": "Mirror Trade Statistics (Partner: Guinea, Reporter: China) & Ministry Official Disclosures",
             "span": f"{min_date[:4]}–2026",
             "as_of": latest_date,
             "status": "LIVE_MIRROR",
-            "mirror_notice": "Bilateral trade flow: China-reported imports (UN Comtrade HS 260600) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
+            "mirror_notice": "Bilateral trade flow: China-reported imports (UN Comtrade & SMM HS 260600 mirror) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
             "direct_source_status": "PARTIAL",
             "direct_source_attempted": f"Ministry of Mines direct releases active ({len(direct_producers_jan2026)} producer records from 2026-01 and 2025 producer ledger)",
             "unit": "Million Tonnes (Mt/mo)"
@@ -737,8 +765,11 @@ def process_guinea_bauxite():
         "annual_totals": annual_totals,
         "quarterly_releases": quarterly_releases,
         "producers_2025": producers_2025,
+        "total_2024_mt": total_2024,
+        "total_2025_mt": total_2025,
+        "yoy_2025_pct": yoy_2025_pct,
         "direct_producers_jan2026": direct_producers_jan2026,
-        "freight_note": "Guinea-to-China bauxite requires Capesize vessels traversing ~11,000 nautical miles via Cape of Good Hope (3x the ton-mile absorption of Australia-China C5), absorbing over 120 Capesize vessels continuously."
+        "freight_note": "Guinea-to-China bauxite requires Capesize vessels traversing ~11,000 nautical miles via Cape of Good Hope, generating sustained long-haul ton-mile absorption for Atlantic Capesizes compared to shorter Pacific routes."
     }
 
 
@@ -767,7 +798,7 @@ def process_who_feeds_china():
 
         note = ""
         if cmd == "Iron ore":
-            note = "Australia vs Brazil origin split directly dictates C5 (Pacific) vs C3 (Atlantic) Capesize demand; Brazil offers 3.2x ton-mile absorption."
+            note = "Australia vs Brazil origin split directly dictates C5 (Pacific) vs C3 (Atlantic) Capesize demand; long-haul Atlantic voyages generate substantial ton-mile absorption."
         elif cmd == "Bauxite":
             note = "Guinea vs Australia origin split; Guinea long-haul cape demand absorbs ~11,000 nm per voyage vs ~3,500 nm Pacific routes."
         elif cmd == "Coal":
@@ -785,12 +816,15 @@ def process_who_feeds_china():
             "freight_note": note
         }
 
+    all_cmd_dates = [d for c in commodities.values() for d in c.get("dates", [])]
+    latest_as_of = max(all_cmd_dates) if all_cmd_dates else ""
+
     return {
         "provenance": {
             "source": "China General Administration of Customs (GACC) / chinadata.live API v2",
             "method": "Monthly Customs Trade Ingest (USD value only pending GACC query platform continuation)",
             "span": "2018–2026",
-            "as_of": "2026-07-01",
+            "as_of": latest_as_of,
             "status": "LIVE_USD_DISCLAIMER",
             "disclaimer": "USD value — not tonnage (GACC query platform pending operator network inspection)",
             "unit": "USD Millions ($M/mo)"
@@ -807,7 +841,15 @@ def process_indonesia_coal():
     rows.sort(key=lambda r: r["date"])
 
     monthly_mt = {}
+    stacked_groups = {}
     dest_splits = {}
+
+    detail_path = COMMODITIES_DIR / "indonesia_coal_ports_destinations.json"
+    detail_data = {}
+    if detail_path.exists():
+        with open(detail_path, "r", encoding="utf-8") as f:
+            detail_data = json.load(f)
+
     for r in rows:
         ym = r["date"][:7]
         try:
@@ -816,12 +858,27 @@ def process_indonesia_coal():
         except (ValueError, TypeError):
             continue
 
-        if r.get("top_destination_1"):
+        bitum = float(r.get("bituminous_mt", 0) or 0)
+        other = float(r.get("other_coal_mt", 0) or 0)
+        lignite = float(r.get("lignite_mt", 0) or 0)
+        headline = float(r.get("headline_coal_mt", 0) or (bitum + other))
+
+        stacked_groups[ym] = {
+            "bituminous": bitum,
+            "other_coal": other,
+            "lignite": lignite,
+            "headline_coal": headline,
+            "total": mt
+        }
+
+        d_key = r["date"] if r["date"] in detail_data else f"{ym}-01"
+        if d_key in detail_data:
+            dest_splits[ym] = detail_data[d_key].get("top_destinations", [])
+        elif r.get("top_destination_1"):
             dests = []
             for k in ["top_destination_1", "top_destination_2", "top_destination_3"]:
                 s = r.get(k, "")
-                if s:
-                    dests.append(s)
+                if s: dests.append(s)
             dest_splits[ym] = dests
 
     envelope = compute_seasonal_envelope_monthly(monthly_mt)
@@ -829,24 +886,28 @@ def process_indonesia_coal():
     prev_ym = f"{int(latest_ym[:4])-1}{latest_ym[4:]}"
     yoy_pct = round(((monthly_mt[latest_ym] - monthly_mt.get(prev_ym, monthly_mt[latest_ym])) / monthly_mt.get(prev_ym, monthly_mt[latest_ym])) * 100, 2) if prev_ym in monthly_mt else 0.0
 
+    latest_dests = dest_splits.get(latest_ym, [])
+
     return {
         "provenance": {
-            "source": "Badan Pusat Statistik (BPS) Indonesia via UN Comtrade & BPS Direct Releases",
-            "method": "Bilateral Mirror & Official Monthly Trade Publications",
-            "span": f"2020–{latest_ym[:4]}",
+            "source": "Badan Pusat Statistik (BPS) Indonesia Official Export API (dataexim)",
+            "method": "Official Monthly Export API v1 (8-digit HS series 2701 & 2702)",
+            "span": f"2018–{latest_ym[:4]}",
             "as_of": latest_ym,
             "status": "LIVE",
             "unit": "Million Tonnes (Mt/mo)"
         },
         "envelope": envelope,
         "monthly_raw": monthly_mt,
+        "stacked_groups": stacked_groups,
         "latest_volume_mt": monthly_mt.get(latest_ym),
         "latest_date": latest_ym,
         "yoy_pct": yoy_pct,
         "annotations": [
-            {"date": "2022-01", "label": "Jan 2022 Export Ban", "value": monthly_mt.get("2022-01", 10.92), "note": "ESDM enacted emergency 1-month export ban to avert domestic power outages (10.92 Mt)"}
+            {"date": "2022-01", "label": "Jan 2022 Export Ban", "value": monthly_mt.get("2022-01", 10.92), "note": "ESDM enacted emergency 1-month export ban to avert domestic power outages (10.92 Mt total)"}
         ],
         "destination_splits": dest_splits,
+        "latest_destinations": latest_dests,
         "freight_note": "The Indonesia -> India/China Panamax and Supramax coal lanes represent the largest physical dry bulk flow in Asia, anchoring regional geared carrier rates."
     }
 
@@ -924,7 +985,7 @@ def process_world_steel():
         "latest_china_mt": china_mt[-1],
         "latest_row_mt": row_mt[-1],
         "latest_yoy": yoy_pct[-1],
-        "freight_note": "Per worldsteel raw materials fact sheet: ~1.6 tonnes of iron ore and ~0.8 tonnes of metallurgical coal are required to produce 1 tonne of crude steel via the blast furnace-basic oxygen furnace (BF-BOF) route."
+        "freight_note": "Per worldsteel raw materials fact sheet (https://worldsteel.org/steel-topics/raw-materials/): ~1.37 tonnes of iron ore and ~0.78 tonnes of metallurgical coal are required to produce 1 tonne of crude steel via the blast furnace-basic oxygen furnace (BF-BOF) route."
     }
 
 

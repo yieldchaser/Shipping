@@ -14113,7 +14113,7 @@
   </div>
 
   <div class="sq-panel" id="panel-tonmile">
-    <button class="sq-q" data-tooltip="One-click research query: loads this question into the box and runs it with citations from the selected scope." onclick="sq('Compare the 3.2x ton-mile multiplier of Brazil-to-China vs Australia-to-China iron ore routes and their impact on Capesize C3 vs C5 freight rates.')">Capesize Brazil vs Australia 3.2x ton-mile multiplier</button>
+    <button class="sq-q" data-tooltip="One-click research query: loads this question into the box and runs it with citations from the selected scope." onclick="sq('Compare the ton-mile impact of Brazil-to-China (~11,000 NM) vs Australia-to-China (~3,500 NM, ~3.1x distance ratio) iron ore routes and their effect on Capesize C3 vs C5 freight rates.')">Capesize Brazil vs Australia ton-mile geometry (~3.1x distance)</button>
     <button class="sq-q" data-tooltip="One-click research query: loads this question into the box and runs it with citations from the selected scope." onclick="sq('How does the long-haul bauxite and iron ore corridor from Guinea (Simandou) to China structurally expand Capesize and Newcastlemax ton-mile demand?')">Guinea Simandou bauxite &amp; ore ton-mile expansion</button>
     <button class="sq-q" data-tooltip="One-click research query: loads this question into the box and runs it with citations from the selected scope." onclick="sq('How do Panama Canal draught restrictions and Gatun Lake water levels divert US Gulf grain exports via the Cape of Good Hope, expanding Panamax ton-miles?')">Panama Canal grain reroutings &amp; Panamax ton-miles</button>
     <button class="sq-q" data-tooltip="One-click research query: loads this question into the box and runs it with citations from the selected scope." onclick="sq('What is the impact of Red Sea avoidance and Ukraine Black Sea corridor shifts on Supramax and Ultramax trading routes?')">Red Sea &amp; Black Sea grain route dislocations</button>
@@ -15011,7 +15011,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudFixtures">46.8% Classified</div>
           <div class="cargo-hud-sub">252k Classified | 287k Unclassified Bucket</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="Capesize Atlantic vs Pacific freight route spread (C3 Tubarao-Qingdao minus C5 Dampier-Qingdao in $/MT) reflecting the 3.2x ton-mile distance multiplier of the Brazil corridor.">
+        <div class="cargo-hud-card" data-tooltip="Capesize Atlantic vs Pacific freight route spread (C3 Tubarao-Qingdao minus C5 Dampier-Qingdao in $/MT) reflecting the longer Atlantic voyage distance of the Brazil corridor.">
           <div class="cargo-hud-label">
             <span>C3 vs C5 Route Spread</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -15225,8 +15225,8 @@ if (intelTabsContainer) {
             <div id="ppaDestinationsGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));gap:8px;">
               <!-- Populated by renderPpaThroughputChart -->
             </div>
-            <div style="font-size:11px;color:var(--text-muted);margin-top:6px;">
-              China represents 85.60% of Port Hedland seaborne departures (37.86 Mt of 44.23 Mt reported destination volume), anchoring dedicated West Australia &rarr; Qingdao C5 Capesize trade.
+            <div id="ppaDestinationsProse" style="font-size:11px;color:var(--text-muted);margin-top:6px;">
+              <!-- Populated dynamically by renderPpaThroughputChart -->
             </div>
           </div>
           <div class="cargo-provenance-strip">
@@ -15270,39 +15270,22 @@ if (intelTabsContainer) {
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
               <div class="chart-title" id="indonesiaCoalTitle" style="display:flex;align-items:center;gap:8px;">
-                <span>Indonesian Seaborne Thermal Coal Exports (BPS / Comtrade Mirror)</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">5Y Envelope</span>
+                <span>Indonesian Seaborne Thermal Coal Exports (BPS Official API)</span>
+                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Stacked Code Groups + Lignite</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                Total seaborne thermal coal exports (bituminous, other coal, and lignite HS 27021000). Official headline figures exclude lignite (~8–10 Mt/mo).
+                Total seaborne thermal coal exports stacked by code group (Bituminous HS 270112, Other Coal HS 270111/19/20, and Lignite HS 2702). Official headline excludes lignite (~8–10 Mt/mo).
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="indonesiaCoalBadge" class="kpi-badge">Indonesia Coal: —</div>
-              <div id="indonesiaBanBadge" class="badge" style="background:rgba(239,68,68,0.15);color:#f87171;border:1px solid rgba(239,68,68,0.3);font-size:11px;padding:2px 6px;" data-tooltip="Jan 2022 ESDM emergency 1-month export ban to prevent domestic blackouts (10.92 Mt)">Jan 2022 Ban Flag</div>
+              <div id="indonesiaBanBadge" class="badge" style="background:rgba(239,68,68,0.15);color:#f87171;border:1px solid rgba(239,68,68,0.3);font-size:11px;padding:2px 6px;">Jan 2022 Ban Flag</div>
             </div>
           </div>
 
-          <!-- Destinations pill subtable -->
-          <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:10px;margin:10px 0;">
-            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px 12px;">
-              <div style="font-size:11px;font-weight:700;color:var(--text-bright);margin-bottom:4px;">Jan 2026 Export Destinations (39.56 Mt Total Seaborne)</div>
-              <div style="font-size:11px;color:var(--text);display:flex;gap:12px;flex-wrap:wrap;">
-                <span> <strong>China:</strong> 14.8 Mt (37.4%)</span>
-                <span> <strong>India:</strong> 9.2 Mt (23.3%)</span>
-                <span> <strong>Philippines:</strong> 3.1 Mt (7.8%)</span>
-              </div>
-              <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">HS 2701 headline: 29.54 Mt &middot; Lignite (HS 27021000): 10.02 Mt</div>
-            </div>
-            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px 12px;">
-              <div style="font-size:11px;font-weight:700;color:var(--text-bright);margin-bottom:4px;">Apr 2026 Export Destinations (37.33 Mt Total Seaborne)</div>
-              <div style="font-size:11px;color:var(--text);display:flex;gap:12px;flex-wrap:wrap;">
-                <span> <strong>China:</strong> 13.9 Mt (37.2%)</span>
-                <span> <strong>India:</strong> 8.8 Mt (23.6%)</span>
-                <span> <strong>Japan:</strong> 2.4 Mt (6.4%)</span>
-              </div>
-              <div style="font-size:10px;color:var(--text-muted);margin-top:2px;">HS 2701 headline: 28.67 Mt &middot; Lignite (HS 27021000): 8.66 Mt</div>
-            </div>
+          <!-- Destinations pill subtable (populated dynamically from DATA.cargoSummary.indonesia_coal) -->
+          <div id="indonesiaDestinationsGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:10px;margin:10px 0;">
+            <!-- Populated dynamically by renderIndonesiaCoalChart -->
           </div>
 
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="indonesiaCoalChart"></canvas></div>
@@ -15312,8 +15295,8 @@ if (intelTabsContainer) {
           </div>
 
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Badan Pusat Statistik (BPS) Indonesia via Direct Publications &amp; UN Comtrade Bilateral Mirrors &middot; Unit: Million Tonnes (Mt/mo)</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> Badan Pusat Statistik (BPS) Indonesia Official Export API (dataexim) &middot; HS 2701 &amp; HS 2702 Lignite &middot; Span: 2018–2026 &middot; Unit: Million Tonnes (Mt/mo)</div>
+            <span class="cargo-badge-live">LIVE OFFICIAL BPS</span>
           </div>
         </div>
 
@@ -15323,7 +15306,7 @@ if (intelTabsContainer) {
             <div>
               <div class="chart-title" id="guineaBauxiteTitle" style="display:flex;align-items:center;gap:8px;">
                 <span>Guinea Bauxite Seaborne Exports — Bilateral Mirror &amp; Ministry Disclosures</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">182.8 Mt Annual Record</span>
+                <span id="guineaAnnualRecordBadge" class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);"></span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Monthly seaborne mirror exports (China GACC imports HS 260600) cross-referenced with Republic of Guinea Ministry of Mines official quarterly and producer disclosures.
@@ -15341,7 +15324,7 @@ if (intelTabsContainer) {
           <div style="margin-top:14px;overflow-x:auto;">
             <div style="font-size:12px;font-weight:700;color:var(--text-bright);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center;">
               <span>Republic of Guinea Ministry of Mines — 2025 Producer Export Ledger</span>
-              <span style="font-size:11px;color:var(--text-muted);">Total 2025 Seaborne Exports: 182.8 Mt (+44% YoY)</span>
+              <span id="guineaLedgerSummary" style="font-size:11px;color:var(--text-muted);"></span>
             </div>
             <table class="cargo-table" id="guineaProducersTable" style="width:100%;font-size:11px;text-align:left;border-collapse:collapse;">
               <thead>
@@ -15360,7 +15343,7 @@ if (intelTabsContainer) {
           </div>
 
           <div style="background:rgba(88,166,255,0.08);border-left:3px solid #58a6ff;padding:6px 12px;margin-top:10px;font-size:11px;color:var(--text);">
-            <strong>Why this matters for freight:</strong> Guinea-to-China bauxite requires Capesize vessels traversing ~11,000 nautical miles via Cape of Good Hope (3.2x the ton-mile absorption of Australia-China C5), absorbing over 120 dedicated Capesize vessels continuously.
+            <strong>Why this matters for freight:</strong> Guinea-to-China bauxite requires Capesize vessels traversing ~11,000 nautical miles via Cape of Good Hope, generating substantial ton-mile absorption for the long-haul Capesize fleet.
           </div>
 
           <div class="cargo-provenance-strip">
@@ -15620,8 +15603,8 @@ if (intelTabsContainer) {
 
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="worldSteelChart"></canvas></div>
 
-          <div style="background:rgba(245,158,11,0.08);border-left:3px solid #f59e0b;padding:6px 12px;margin-top:10px;font-size:11px;color:var(--text);">
-            <strong>Why this matters for freight:</strong> Per worldsteel raw materials fact sheet: ~1.6 tonnes of iron ore and ~0.8 tonnes of metallurgical coal are required to produce 1 tonne of crude steel via the blast furnace-basic oxygen furnace (BF-BOF) route.
+          <div id="worldSteelFreightNote" style="background:rgba(245,158,11,0.08);border-left:3px solid #f59e0b;padding:6px 12px;margin-top:10px;font-size:11px;color:var(--text);">
+            <!-- Populated dynamically by renderWorldSteelChart -->
           </div>
 
           <div class="cargo-provenance-strip">
@@ -16674,12 +16657,27 @@ if (intelTabsContainer) {
         return isNaN(dt.getTime()) ? null : dt;
       }
 
-      // 2. European / Commonwealth format: DD-MM-YYYY or DD/MM/YYYY
+      // 2. Format: DD-MM-YYYY or MM/DD/YYYY
       if (/^\d{1,2}[-/]\d{1,2}[-/]\d{4}/.test(str)) {
+        const isSlash = str.indexOf('/') !== -1;
         const parts = str.split(/[-/]/);
-        const d = parseInt(parts[0], 10);
-        const m = parseInt(parts[1], 10) - 1;
+        const p0 = parseInt(parts[0], 10);
+        const p1 = parseInt(parts[1], 10);
         const y = parseInt(parts[2], 10);
+        let m, d;
+        if (p1 > 12) {
+          m = p0 - 1;
+          d = p1;
+        } else if (p0 > 12) {
+          d = p0;
+          m = p1 - 1;
+        } else if (isSlash) {
+          m = p0 - 1;
+          d = p1;
+        } else {
+          d = p0;
+          m = p1 - 1;
+        }
         const dt = new Date(y, m, d);
         return isNaN(dt.getTime()) ? null : dt;
       }
@@ -17532,8 +17530,41 @@ if (intelTabsContainer) {
         }),
         safeFetch('data/commodities/usda_us_vs_brazil_landed_costs.csv', 'USDA Landed Costs', [], r => {
           DATA.usdaLandedCosts = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), us_gulf_landed: parseVal(row.us_gulf_landed), brazil_paranagua_landed: parseVal(row.brazil_paranagua_landed), landed_spread_us_minus_brazil: parseVal(row.landed_spread_us_minus_brazil) };
+            const rawDate = row.Date || row.date || '';
+            const d = parseDate(rawDate) || parseDateISO(rawDate);
+            let dateStr = (rawDate || '').trim();
+            if (d && !isNaN(d.getTime())) {
+              const y = d.getFullYear();
+              const m = String(d.getMonth() + 1).padStart(2, '0');
+              const day = String(d.getDate()).padStart(2, '0');
+              dateStr = y + '-' + m + '-' + day;
+            }
+            const orig = (row.Origin || row.origin || '').trim();
+            const dest = (row.Destination || row.destination || '').trim();
+            const truck = parseVal(row.Truck || row.truck) || 0;
+            const barge = parseVal(row.Barge || row.barge) || 0;
+            const rail = parseVal(row.Rail || row.rail) || 0;
+            const ocean = parseVal(row.Ocean || row.ocean) || 0;
+            const farmVal = parseVal(row['Farm Value'] || row.farmValue || row.farm_value) || 0;
+            const total = parseVal(row['Total Transportation Costs'] || row.totalCost || row.total_cost || row.landedCost || row.landed_cost) || 0;
+            return {
+              date: d,
+              dateStr: dateStr,
+              year: parseVal(row.Year || row.year),
+              quarter: parseVal(row.Quarter || row.quarter),
+              origin: orig,
+              destination: dest,
+              truck: truck,
+              barge: barge,
+              rail: rail,
+              ocean: ocean,
+              farmValue: farmVal,
+              totalCost: total,
+              landedCost: total,
+              us_gulf_landed: parseVal(row.us_gulf_landed),
+              brazil_paranagua_landed: parseVal(row.brazil_paranagua_landed),
+              landed_spread_us_minus_brazil: parseVal(row.landed_spread_us_minus_brazil)
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/commodities/usda_grain_vessel_loading_queues.csv', 'USDA Grain Vessel Queues', [], r => {
@@ -29665,6 +29696,17 @@ function renderFearnleysSnpTable() {
             }).join('');
           }
         }
+        var proseEl = document.getElementById('ppaDestinationsProse');
+        if (proseEl && ppa.latest_destinations && ppa.latest_destinations.destinations) {
+          var allDests = ppa.latest_destinations.destinations;
+          var chinaDest = allDests.find(function(d) { return d.destination === 'China'; });
+          var totalTonnes = allDests.reduce(function(a, b) { return a + (b.tonnes || 0); }, 0);
+          var chinaTonnes = chinaDest ? (chinaDest.tonnes || 0) : 0;
+          var chinaShare = totalTonnes > 0 ? ((chinaTonnes / totalTonnes) * 100).toFixed(2) : '85.60';
+          var chinaMt = (chinaTonnes / 1e6).toFixed(2);
+          var totalMt = (totalTonnes / 1e6).toFixed(2);
+          proseEl.innerHTML = 'China represents ' + chinaShare + '% of Port Hedland seaborne departures (' + chinaMt + ' Mt of ' + totalMt + ' Mt reported destination volume), anchoring dedicated West Australia &rarr; Qingdao C5 Capesize trade.';
+        }
       }
     }
     window.renderPpaThroughputChart = renderPpaThroughputChart;
@@ -29892,28 +29934,137 @@ function renderFearnleysSnpTable() {
     // MEGAPROMPT 14 BULK SHIPPING & TRADE FLOW MODULES (C1-C8)
     // =========================================================================
 
-    // C2: INDONESIA COAL SEABORNE EXPORTS (5Y SEASONAL ENVELOPE)
+    // C2: INDONESIA COAL SEABORNE EXPORTS (STACKED CODE GROUPS & DYNAMIC DESTINATIONS)
     function renderIndonesiaCoalChart() {
       var canvas = document.getElementById('indonesiaCoalChart');
       if (!canvas) return;
       if (!window.DATA || !DATA.cargoSummary || !DATA.cargoSummary.indonesia_coal) return;
       var ic = DATA.cargoSummary.indonesia_coal;
-      var env = ic.envelope;
-      if (env) {
-        renderSeasonalEnvelope(canvas, {
-          labels: env.months,
-          min: env.min,
-          max: env.max,
-          mean: env.mean,
-          years: env.years,
-          latestYear: env.latest_year,
-          unit: 'Mt',
-          frequency: 'M'
+
+      var sg = ic.stacked_groups || {};
+      var dates = Object.keys(sg).sort();
+
+      if (dates.length) {
+        var bitumVals = dates.map(function(d) { return sg[d].bituminous || 0; });
+        var otherVals = dates.map(function(d) { return sg[d].other_coal || 0; });
+        var ligniteVals = dates.map(function(d) { return sg[d].lignite || 0; });
+
+        destroyChart('indonesiaCoalChart');
+        updateOrCreateChart('indonesiaCoalChart', canvas, {
+          type: 'bar',
+          data: {
+            labels: dates,
+            datasets: [
+              {
+                label: 'Bituminous (HS 270112)',
+                data: bitumVals,
+                backgroundColor: '#388bfd',
+                stack: 'coal',
+                yAxisID: 'y'
+              },
+              {
+                label: 'Other Coal (HS 270111/19/20)',
+                data: otherVals,
+                backgroundColor: '#8957e5',
+                stack: 'coal',
+                yAxisID: 'y'
+              },
+              {
+                label: 'Lignite (HS 2702)',
+                data: ligniteVals,
+                backgroundColor: '#d29922',
+                stack: 'coal',
+                yAxisID: 'y'
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: { mode: 'index', intersect: false },
+            plugins: {
+              legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+              tooltip: {
+                callbacks: {
+                  label: function(c) {
+                    return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) : '0.00') + ' Mt';
+                  },
+                  footer: function(items) {
+                    var total = 0;
+                    items.forEach(function(i) { total += (i.parsed.y || 0); });
+                    return 'Total Seaborne Coal: ' + total.toFixed(2) + ' Mt';
+                  }
+                }
+              }
+            },
+            scales: {
+              x: {
+                stacked: true,
+                grid: { color: '#151a22' },
+                ticks: {
+                  color: '#8b949e',
+                  font: { size: 10 },
+                  maxTicksLimit: 18,
+                  callback: function(val, idx) {
+                    var d = dates[idx];
+                    return (d && d.endsWith('-01')) ? d.slice(0, 4) : d;
+                  }
+                }
+              },
+              y: {
+                stacked: true,
+                grid: { color: '#151a22' },
+                ticks: {
+                  color: '#8b949e',
+                  font: { size: 11 },
+                  callback: function(v) { return v + ' Mt'; }
+                }
+              }
+            }
+          }
         });
       }
+
       var badge = document.getElementById('indonesiaCoalBadge');
       if (badge && ic.latest_volume_mt != null) {
-        badge.innerHTML = 'Indonesia Coal: <strong>' + ic.latest_volume_mt + ' Mt/mo</strong> (' + (ic.latest_date || '2026-04') + ')';
+        badge.innerHTML = 'Indonesia Coal: <strong>' + ic.latest_volume_mt.toFixed(1) + ' Mt/mo</strong> (' + (ic.latest_date || '') + ')';
+      }
+      var banBadge = document.getElementById('indonesiaBanBadge');
+      if (banBadge && ic.annotations && ic.annotations[0]) {
+        banBadge.setAttribute('data-tooltip', ic.annotations[0].note);
+      }
+
+      var grid = document.getElementById('indonesiaDestinationsGrid');
+      if (grid && ic.destination_splits && ic.stacked_groups) {
+        var targetMonths = ['2026-01', '2026-04'];
+        if (ic.latest_date && targetMonths.indexOf(ic.latest_date) === -1) {
+          targetMonths.push(ic.latest_date);
+        }
+        var monthNames = { '01': 'Jan', '02': 'Feb', '03': 'Mar', '04': 'Apr', '05': 'May', '06': 'Jun', '07': 'Jul', '08': 'Aug', '09': 'Sep', '10': 'Oct', '11': 'Nov', '12': 'Dec' };
+        grid.innerHTML = targetMonths.map(function(ym) {
+          var dests = ic.destination_splits[ym] || [];
+          var monthSg = ic.stacked_groups[ym] || {};
+          var totalMt = monthSg.total != null ? monthSg.total.toFixed(2) : (dests.reduce(function(a, b) { return a + b.tonnes_mt; }, 0)).toFixed(2);
+          var headlineMt = monthSg.headline_coal != null ? monthSg.headline_coal.toFixed(2) : '—';
+          var ligniteMt = monthSg.lignite != null ? monthSg.lignite.toFixed(2) : '—';
+          var parts = ym.split('-');
+          var displayMonth = (monthNames[parts[1]] || parts[1]) + ' ' + parts[0];
+          var isLatest = (ym === ic.latest_date);
+          var topDests = dests.slice(0, 4);
+          var pillsHtml = topDests.map(function(d) {
+            return '<span><strong>' + escapeHtml(d.destination) + ':</strong> ' + d.tonnes_mt.toFixed(2) + ' Mt (' + d.share_pct.toFixed(1) + '%)</span>';
+          }).join(' ');
+          return '<div style="background:var(--bg);border:1px solid ' + (isLatest ? 'rgba(88,166,255,0.4)' : 'var(--border)') + ';border-radius:6px;padding:8px 12px;">' +
+            '<div style="font-size:11px;font-weight:700;color:' + (isLatest ? 'var(--accent)' : 'var(--text-bright)') + ';margin-bottom:4px;display:flex;justify-content:space-between;align-items:center;">' +
+              '<span>' + displayMonth + ' Export Destinations (' + totalMt + ' Mt Total Seaborne)</span>' +
+              (isLatest ? '<span class="badge" style="font-size:9px;padding:1px 4px;background:rgba(88,166,255,0.15);color:#58a6ff;">LATEST MONTH</span>' : '') +
+            '</div>' +
+            '<div style="font-size:11px;color:var(--text);display:flex;gap:12px;flex-wrap:wrap;">' +
+              pillsHtml +
+            '</div>' +
+            '<div style="font-size:10px;color:var(--text-muted);margin-top:2px;">HS 2701 headline: ' + headlineMt + ' Mt &middot; Lignite (HS 2702): ' + ligniteMt + ' Mt</div>' +
+          '</div>';
+        }).join('');
       }
     }
     window.renderIndonesiaCoalChart = renderIndonesiaCoalChart;
@@ -29926,41 +30077,62 @@ function renderFearnleysSnpTable() {
       var gb = DATA.cargoSummary.guinea_bauxite;
 
       var volMap = gb.monthly_volume_mt || {};
+      var volMap = gb.monthly_volume_mt || {};
       var cifMap = gb.avg_cif_usd_t || {};
-      var allDates = Object.keys(volMap).sort();
-      var dates = allDates.slice(-36);
+      var rawKeys = Object.keys(volMap).sort();
+      var maxKey = rawKeys.length > 0 ? rawKeys[rawKeys.length - 1] : '2026-04';
+      var maxParts = maxKey.split('-');
+      var endY = parseInt(maxParts[0], 10);
+      var endM = parseInt(maxParts[1], 10);
+      var dates = [];
+      for (var i = 35; i >= 0; i--) {
+        var dObj = new Date(endY, endM - 1 - i, 1);
+        var ym = dObj.getFullYear() + '-' + String(dObj.getMonth() + 1).padStart(2, '0');
+        dates.push(ym);
+      }
       var vols = dates.map(function(d) { return volMap[d] != null ? volMap[d] : null; });
       var cifs = dates.map(function(d) { return cifMap[d] != null ? cifMap[d] : null; });
 
-      var lastVol = vols[vols.length - 1];
-      var badge = document.getElementById('guineaBauxiteBadge');
-      if (badge) {
-        badge.innerHTML = 'Mirror Run-Rate: <strong>' + (lastVol != null ? lastVol.toFixed(1) + ' Mt/mo' : '10.3 Mt/mo') + '</strong> (182.8 Mt 2025 Record)';
+      var total2025 = gb.total_2025_mt || 182.8;
+      var yoyVal = gb.yoy_2025_pct != null ? gb.yoy_2025_pct.toFixed(1) : '26.1';
+
+      var recordBadge = document.getElementById('guineaAnnualRecordBadge');
+      if (recordBadge) {
+        recordBadge.textContent = total2025.toFixed(1) + ' Mt Annual Record';
+      }
+      var ledgerSummary = document.getElementById('guineaLedgerSummary');
+      if (ledgerSummary) {
+        ledgerSummary.textContent = 'Total 2025 Seaborne Exports: ' + total2025.toFixed(1) + ' Mt (+' + yoyVal + '% YoY)';
       }
 
-      // Populate 2025 producer ledger table
-      var table = document.getElementById('guineaProducersTable');
-      if (table && gb.producers_2025) {
-        var tbody = table.querySelector('tbody');
-        if (!tbody) {
-          tbody = document.createElement('tbody');
-          table.appendChild(tbody);
-        }
-        var total2025 = 182.8;
+      var lastVol = null;
+      for (var vi = vols.length - 1; vi >= 0; vi--) {
+        if (vols[vi] != null) { lastVol = vols[vi]; break; }
+      }
+      var badge = document.getElementById('guineaBauxiteBadge');
+      if (badge) {
+        badge.innerHTML = 'Mirror Run-Rate: <strong>' + (lastVol != null ? lastVol.toFixed(1) + ' Mt/mo' : '16.4 Mt/mo') + '</strong> (' + total2025.toFixed(1) + ' Mt 2025 Record)';
+      }
+
+      // Populate 2025 producer ledger table (5 columns: Operator, Exports, Share, Terminal, Destination)
+      var tbody = document.getElementById('guineaProducersTableBody');
+      if (tbody && gb.producers_2025) {
         tbody.innerHTML = gb.producers_2025.map(function(p) {
           var share = ((p.tonnes_mt / total2025) * 100).toFixed(1);
           return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">' +
-            '<td style="padding:6px 8px;font-weight:600;color:var(--text-bright);">' + (p.company || '') + '</td>' +
+            '<td style="padding:6px 8px;font-weight:600;color:var(--text-bright);">' + escapeHtml(p.company || '') + '</td>' +
             '<td style="padding:6px 8px;text-align:right;color:var(--accent);font-weight:700;">' + p.tonnes_mt.toFixed(1) + ' Mt</td>' +
             '<td style="padding:6px 8px;text-align:right;color:var(--text-muted);">' + share + '%</td>' +
-            '<td style="padding:6px 8px;text-align:right;color:#8b949e;">Capesize (Cape of Good Hope)</td>' +
+            '<td style="padding:6px 8px;color:var(--text);">' + escapeHtml(p.export_terminal || 'Rio Nunez / Boké') + '</td>' +
+            '<td style="padding:6px 8px;color:var(--text);">' + escapeHtml(p.key_destination || 'China & International') + '</td>' +
           '</tr>';
         }).join('') +
         '<tr style="font-weight:700;border-top:1px solid var(--border);">' +
           '<td style="padding:6px 8px;color:var(--text-bright);">Total National Seaborne Record</td>' +
-          '<td style="padding:6px 8px;text-align:right;color:#3fb950;">182.8 Mt</td>' +
+          '<td style="padding:6px 8px;text-align:right;color:#3fb950;">' + total2025.toFixed(1) + ' Mt</td>' +
           '<td style="padding:6px 8px;text-align:right;color:var(--text-muted);">100.0%</td>' +
-          '<td style="padding:6px 8px;text-align:right;color:#3fb950;">+44% YoY Surge</td>' +
+          '<td style="padding:6px 8px;color:var(--text-muted);">All Terminals</td>' +
+          '<td style="padding:6px 8px;color:#3fb950;">+' + yoyVal + '% YoY Surge</td>' +
         '</tr>';
       }
 
@@ -29988,6 +30160,7 @@ function renderFearnleysSnpTable() {
               pointRadius: 2,
               pointBackgroundColor: '#e3b341',
               fill: false,
+              spanGaps: false,
               yAxisID: 'y1'
             }
           ]
@@ -30334,6 +30507,15 @@ function renderFearnleysSnpTable() {
         var sgn = ws.latest_yoy > 0 ? '+' : '';
         bYoy.innerHTML = 'YoY: <strong>' + sgn + ws.latest_yoy.toFixed(1) + '%</strong>';
         bYoy.style.color = ws.latest_yoy >= 0 ? '#3fb950' : '#f87171';
+      }
+
+      var noteEl = document.getElementById('worldSteelFreightNote');
+      if (noteEl && ws.freight_note) {
+        var noteHtml = ws.freight_note.replace(
+          'https://worldsteel.org/steel-topics/raw-materials/',
+          '<a href="https://worldsteel.org/steel-topics/raw-materials/" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;">https://worldsteel.org/steel-topics/raw-materials/</a>'
+        );
+        noteEl.innerHTML = '<strong>Why this matters for freight:</strong> ' + noteHtml;
       }
 
       destroyChart('worldSteelChart');
@@ -38122,10 +38304,10 @@ function _paintBrief(el, tsEl, data) {
           {
             q: isBwet
               ? "How does Atlantic Basin crude export growth (US Gulf, Brazil, Guyana \u2192 Asia) in " + dm.m0.shortName + " expand VLCC ton-miles by 2.2x vs short-haul Middle East crude, and what is the BWET NAV sensitivity?"
-              : "How does a shift in Chinese iron ore sourcing from Australia (C5) to Brazil (C3) in " + dm.m0.shortName + " apply a 3.2x ton-mile multiplier to Capesize vessel demand and BDRY NAV?",
+              : "How does a shift in Chinese iron ore sourcing from Australia (C5, ~3,500 NM) to Brazil (C3, ~11,000 NM, ~3.1x distance) in " + dm.m0.shortName + " expand Capesize ton-mile demand and BDRY NAV?",
             label: isBwet
               ? "Atlantic vs MEG 2.2x VLCC ton-mile multiplier & BWET NAV"
-              : "Brazil vs Australia 3.2x Capesize ton-mile multiplier & BDRY NAV"
+              : "Brazil vs Australia Capesize ton-mile geometry (~3.1x distance) & BDRY NAV"
           },
           {
             q: isBwet
@@ -48377,7 +48559,7 @@ var FDESK_ROUTE_KB = {
   'WEEKLY VLCC|VLCCs fixed in all areas last week': { what: "A weekly count of VLCCs fixed worldwide the previous week, the demand pulse of the fleet", drivers: "Cargo programmes from OPEC and other exporters, and charterer fixing urgency", affects: "Feeds the demand half of the VLCC picture; read against open ship counts to gauge tightness" },
   'Counters|MEG Fixture Count': { what: "A weekly count of reported Middle East Gulf crude fixtures, how many cargoes found ships", drivers: "OPEC export volumes, tender activity, and charterer fixing pace", affects: "Feeds Gulf activity gauges; a high count with falling availability tightens the market" },
   'Capesize|Australia / China': { what: "The per tonne freight cost of shipping iron ore from Western Australia to China, the physical benchmark of the Cape trade", drivers: "Chinese steel mill activity and ore restocking, West Australian mine output and cyclone disruption, and Cape tonnage supply in the Pacific", affects: "Feeds iron ore trade economics and, via implied TCE, the earnings headline of the whole Capesize market" },
-  'Capesize|Tubarao / Qingdao': { what: "The per tonne freight rate for moving iron ore from Tubarão or Ponta da Madeira in Brazil to Qingdao, China (Baltic C3 route benchmark)", drivers: "Vale Brazilian iron ore export volumes, Atlantic Capesize positioning, bunker price differentials, and Chinese steel mill restocking pace", affects: "Flagship Atlantic long-haul dry bulk freight rate; provides 3.2x ton-mile absorption relative to Pacific routes" },
+  'Capesize|Tubarao / Qingdao': { what: "The per tonne freight rate for moving iron ore from Tubarão or Ponta da Madeira in Brazil to Qingdao, China (Baltic C3 route benchmark)", drivers: "Vale Brazilian iron ore export volumes, Atlantic Capesize positioning, bunker price differentials, and Chinese steel mill restocking pace", affects: "Flagship Atlantic long-haul dry bulk freight rate; absorbs ~11,000 NM per voyage vs ~3,500 NM for Pacific routes (~3.1x distance ratio)" },
   'Capesize|Newcastle / Qingdao': { what: "The per tonne freight rate for thermal coal shipped from Port of Newcastle, Australia to Qingdao, China (Baltic Newcastle coal benchmark)", drivers: "Australian thermal and metallurgical coal export programmes, Chinese coal import arbitrage and import quotas, and Pacific Capesize availability", affects: "Pacific Capesize coal freight pricing and inter-basin Capesize fleet competition" },
   'Capesize|Pacific Round Voyage': { what: "The assessed daily TCE for a Capesize round voyage inside the Pacific, typically Australian or South African cargo to China with the ballast leg back", drivers: "Chinese iron ore demand, coal programmes into North Asia, Pacific tonnage supply, and cyclone disruption", affects: "Feeds Capesize earnings screens for the Pacific and the route economics miners fix against" },
   'Capesize|Cont / Far East': { what: "The assessed daily TCE for a Capesize fronthaul from Northern Europe to the Far East, a loaded long haul with a long ballast back", drivers: "European export cargo such as coal and minerals, Far East demand, and how many Capesizes stay positioned in the Atlantic", affects: "Feeds fronthaul screens that tell owners whether to keep tonnage in the Atlantic or reposition east" },

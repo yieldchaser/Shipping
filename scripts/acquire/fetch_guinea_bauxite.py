@@ -2,13 +2,13 @@
 """
 Target 2 / Prompt 13B C2 & C10.3 — Guinea Bauxite Monthly Exports & Producer Ledger
 ===================================================================================
-Fetches verified bauxite export tonnage and vessel counts across explicit granularities:
+Fetches official bauxite export tonnage and vessel counts across explicit granularities:
 1. Guinea Mining Insights Ministry Releases:
    - Article news-insights-82: January 2026 producer breakdown (tonnage & vessels) [granularity: company_monthly]
    - Data Hub: 2025 Annual company exports [granularity: company_annual]
    - Data Hub: 2015-2025 annual national series [granularity: national_annual]
 2. UN Comtrade Bilateral Mirror Series (China GACC imports of HS 260600 from Guinea):
-   - 96 verified monthly points spanning 2017-01 to 2024-12 [granularity: monthly_bilateral_mirror]
+   - 96 monthly points spanning 2017-01 to 2024-12 [granularity: monthly_bilateral_mirror]
    - Uses strict comtrade_client.py select_total (motCode==0, customsCode=='C00', partner2Code==0)
    - Unverified trade press mirror rows with 404/403 URLs purged per C2
 
@@ -248,99 +248,30 @@ def fetch_comtrade_bauxite_mirror():
 
 def fetch_ministry_national_articles():
     """National quarterly and half-year totals reported by Reuters from Guinea Ministry of Mines releases."""
-    return [
-        {
-            "date": "2025-06-30",
-            "tonnes": 99800000.0,
-            "vessels": "",
-            "company": "National Total (H1 2025)",
-            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
-            "publisher": "Reuters / Mining Weekly",
-            "source_quote": "Guinea, the world's largest bauxite exporter, shipped 114.8-million metric tons of the material between January and June, up from 99.8-million tons a year earlier, according to mines ministry data seen by Reuters",
-            "method": "Official Guinea Ministry of Mines release reported by Reuters",
-            "import_volume_t": 99800000.0,
-            "avg_cif_usd_t": "",
-            "granularity": "quarterly_national",
-        },
-        {
-            "date": "2025-06-30",
-            "tonnes": 51200000.0,
-            "vessels": "",
-            "company": "National Total (Q2 2025)",
-            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
-            "publisher": "Reuters / Mining Weekly",
-            "source_quote": "Second-quarter exports rose 5.3% year-on-year to 53.9-million tons from 51.2-million tons in the same period of 2025.",
-            "method": "Official Guinea Ministry of Mines release reported by Reuters",
-            "import_volume_t": 51200000.0,
-            "avg_cif_usd_t": "",
-            "granularity": "quarterly_national",
-        },
-        {
-            "date": "2025-09-30",
-            "tonnes": 39410000.0,
-            "vessels": "",
-            "company": "National Total (Q3 2025)",
-            "source_url": "https://www.mining-technology.com/news/guinea-bauxite-exports-surge-q3/",
-            "publisher": "Reuters / Mining Technology",
-            "source_quote": "As per the Ministry of Mines and Geology, the country's shipments of the vital aluminium ore totalled 39.41 million tonnes (mt), an increase from 32mt in the same period the previous year, reported Reuters.",
-            "method": "Official Guinea Ministry of Mines release reported by Reuters",
-            "import_volume_t": 39410000.0,
-            "avg_cif_usd_t": "",
-            "granularity": "quarterly_national",
-        },
-        {
-            "date": "2025-12-31",
-            "tonnes": 84000000.0,
-            "vessels": "",
-            "company": "National Total (H2 2025)",
-            "source_url": "https://www.miningweekly.com/article/guineas-bauxite-exports-jump-25-to-183-million-tons-in-2025-on-chinese-demand-2026-01-26",
-            "publisher": "Reuters / Mining Weekly",
-            "source_quote": "Exports slowed in the second half, but rose 16% to 84-million tons.",
-            "method": "Official Guinea Ministry of Mines release reported by Reuters",
-            "import_volume_t": 84000000.0,
-            "avg_cif_usd_t": "",
-            "granularity": "quarterly_national",
-        },
-        {
-            "date": "2025-12-31",
-            "tonnes": 182800000.0,
-            "vessels": "",
-            "company": "National Total (FY 2025)",
-            "source_url": "https://www.miningweekly.com/article/guineas-bauxite-exports-jump-25-to-183-million-tons-in-2025-on-chinese-demand-2026-01-26",
-            "publisher": "Reuters / Mining Weekly",
-            "source_quote": "Guinea's bauxite exports rose 25% in 2025 to 182.8-million metric tons, official data seen by Reuters showed, cementing its dominance in aluminium ore supply.",
-            "method": "Official Guinea Ministry of Mines release reported by Reuters",
-            "import_volume_t": 182800000.0,
-            "avg_cif_usd_t": "",
-            "granularity": "annual_national",
-        },
-        {
-            "date": "2026-06-30",
-            "tonnes": 114800000.0,
-            "vessels": "",
-            "company": "National Total (H1 2026)",
-            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
-            "publisher": "Reuters / Mining Weekly",
-            "source_quote": "Guinea, the world's largest bauxite exporter, shipped 114.8-million metric tons of the material between January and June, up from 99.8-million tons a year earlier, according to mines ministry data seen by Reuters",
-            "method": "Official Guinea Ministry of Mines release reported by Reuters",
-            "import_volume_t": 114800000.0,
-            "avg_cif_usd_t": "",
-            "granularity": "quarterly_national",
-        },
-        {
-            "date": "2026-06-30",
-            "tonnes": 53900000.0,
-            "vessels": "",
-            "company": "National Total (Q2 2026)",
-            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
-            "publisher": "Reuters / Mining Weekly",
-            "source_quote": "Second-quarter exports rose 5.3% year-on-year to 53.9-million tons from 51.2-million tons in the same period of 2025.",
-            "method": "Official Guinea Ministry of Mines release reported by Reuters",
-            "import_volume_t": 53900000.0,
-            "avg_cif_usd_t": "",
-            "granularity": "quarterly_national",
-        },
+    data = [
+        ("2025-06-30", 99800000.0, "National Total (H1 2025)", "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23", "Guinea, the world's largest bauxite exporter, shipped 114.8-million metric tons of the material between January and June, up from 99.8-million tons a year earlier, according to mines ministry data seen by Reuters", "quarterly_national"),
+        ("2025-06-30", 51200000.0, "National Total (Q2 2025)", "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23", "Second-quarter exports rose 5.3% year-on-year to 53.9-million tons from 51.2-million tons in the same period of 2025.", "quarterly_national"),
+        ("2025-12-31", 84000000.0, "National Total (H2 2025)", "https://www.miningweekly.com/article/guineas-bauxite-exports-jump-25-to-183-million-tons-in-2025-on-chinese-demand-2026-01-26", "Exports slowed in the second half, but rose 16% to 84-million tons.", "quarterly_national"),
+        ("2025-12-31", 182800000.0, "National Total (FY 2025)", "https://www.miningweekly.com/article/guineas-bauxite-exports-jump-25-to-183-million-tons-in-2025-on-chinese-demand-2026-01-26", "Guinea's bauxite exports rose 25% in 2025 to 182.8-million metric tons, official data seen by Reuters showed, cementing its dominance in aluminium ore supply.", "annual_national"),
+        ("2026-06-30", 114800000.0, "National Total (H1 2026)", "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23", "Guinea, the world's largest bauxite exporter, shipped 114.8-million metric tons of the material between January and June, up from 99.8-million tons a year earlier, according to mines ministry data seen by Reuters", "quarterly_national"),
+        ("2026-06-30", 53900000.0, "National Total (Q2 2026)", "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23", "Second-quarter exports rose 5.3% year-on-year to 53.9-million tons from 51.2-million tons in the same period of 2025.", "quarterly_national"),
     ]
+    rows = []
+    for d, t, comp, u, q, gran in data:
+        rows.append({
+            "date": d,
+            "tonnes": t,
+            "vessels": "",
+            "company": comp,
+            "source_url": u,
+            "publisher": "Reuters / Mining Weekly",
+            "source_quote": q,
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": t,
+            "avg_cif_usd_t": "",
+            "granularity": gran,
+        })
+    return rows
 
 
 def build_guinea_dataset():
@@ -348,7 +279,7 @@ def build_guinea_dataset():
     existing_df = pd.read_csv(OUT_FILE) if OUT_FILE.exists() else pd.DataFrame()
     
     # Preserve existing verified mirror and GMI rows if already present on disk
-    if not existing_df.empty and len(existing_df) >= 130:
+    if not existing_df.empty and len(existing_df) >= 120:
         base_rows = existing_df.to_dict(orient="records")
     else:
         jan_rows = fetch_guinea_mining_insights_jan2026()
@@ -357,7 +288,6 @@ def build_guinea_dataset():
         base_rows = jan_rows + data_hub_rows + comtrade_rows
 
     national_article_rows = fetch_ministry_national_articles()
-
     all_rows = base_rows + national_article_rows
     df = pd.DataFrame(all_rows)
     df.drop_duplicates(subset=["date", "company", "source_url"], inplace=True)

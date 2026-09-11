@@ -1,6 +1,6 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-11 (after the Prompt 13B audit).** Update this file at every prompt boundary.
+**Last updated: 2026-09-11 (pre-Prompt-15 audit).** Update this file at every prompt boundary.
 
 ---
 
@@ -9,13 +9,32 @@
 | | |
 |---|---|
 | Round 1 (Prompts 01–09) | **Shipped**, main checkout HEAD `3820c1a47` |
-| Round 2 running order | **`13 → 13B → 13C → 14 → 10 → 12`** · `11` ⛔ superseded · `13D` withdrawn |
+| Round 2 running order | **`13 → 13B → 13C → 14 → Part-0 fix → PUSH → 15 → 16`** · `10`/`12` absorbed into 15/16 · `11` superseded · `13D` withdrawn |
 | Prompt 13 | ✅ Done — agent HEAD `c76890d12` |
 | Prompt 13B | ✅ Done — agent HEAD `637bc180a`. Audited: most corrections real (see 13C header) |
-| Prompt 13C | ✅ Done — audited |
+| Prompt 13C | ✅ Done — **staged, not committed**. Full suite 249 green (verified). Audited |
 | 13D | **Withdrawn** — mostly audit hygiene; its on-screen items folded into 14 |
-| **Prompt 14** | ✅ **Done** — Round 2 live on screen (C1–C9, A1). 249 tests green (100%). |
-| Next up | **Prompt 10** — data currency and truth in labelling |
+| **Prompt 14** | ✅ Done — `ff518ba29` (includes 13C). 9 modules visible; audited via screenshots. Suite 249 green |
+| Next | Part-0 fix (Guinea unsourced rows, citation checker, "3.2x") → **merge origin/main + push** → Prompt 15 → Prompt 16 |
+
+## Pre-15 audit (2026-09-11) — coverage, automation, speed, design
+- **11 Round 2 fetchers are wired to no workflow**, including `build_cargo_cache.py`. Once pushed they'd freeze. → 15 Part A
+- `usda_weekly.yml` would overwrite the rebuilt queue CSV with the 2020-ending Socrata dataset. → 15 Part A
+- New verified sources: GACC bulletin tonnes (Aug 2026), JODI (Jun 2026), ABS MERCH_EXP (Jul 2026, AUD), India TradeStat (CSRF form), EIA LNG; ComexStat is back with Aug 2026. → 15 Part C
+- Speed: ETFs freezes 2.1 s on every revisit; Tracking loads an 18.7 MB CSV; bunker summary 4.4 MB at boot; 55 MB per session. → 16 Part A
+- Design: 13 left-border accents, 30 glows, 12 glass blurs, 22 "LIVE …" pills, 11 emoji. Tooltips 61% of static controls. → 16 Parts B/C
+
+## Prompt 14 audit — on-screen errors to fix before push
+- C2 Indonesia destination splits **invented** and typed into `index.html:15286-15300`
+  (real Jan 2026: China 16.31 Mt / 41.2%, India 7.05 / 17.8%, Philippines 3.17 / 8.0%).
+  The chart plots HS 2701 only while its header says the total includes lignite.
+- C6 Guinea "+44% YoY" (actual +25%); chart ends 2024-12; "Key Destination" column holds
+  vessel text; "120 dedicated Capesizes" and "3.2x ton-mile" unsourced (also in C1).
+- C4 steel ratio: worldsteel says 1.37 t iron ore / 0.78 t met coal, not 1.6 / 0.8.
+- C7 Hedland 85.60% sentence typed in — must render from data.
+- BPS: `fetch_bps_exim.py` + `bps_monthly.yml` built but never run (no local key).
+- GACC: headless got HTTP 400; site uses Ruishu (`…HHaS/…HHaT` cookies,
+  `kiJ2ZvrLkdMe.*.js`) plus `__jsluid_h`. Needs a real headed Chrome or an operator capture.
 
 ## The honest progress check (2026-09-11)
 Round 2 so far (13, 13B, 13C) acquired and cleaned 7 datasets and 28 years of freight
@@ -33,11 +52,11 @@ writing tracked files. Revisit only if they bite.
 ## Operator asks outstanding
 - **Network inspector for `stats.customs.gov.cn`** (HTTP 412 anti-bot) — only if the
   agent's headless browser fails. Unlocks China imports in **tonnes** by origin.
-- **BPS API key** — register free at `webapi.bps.go.id`, set `BPS_API_KEY`.
+- ~~BPS API key~~ — done: GitHub secret + Windows user env var, verified.
 
-⚠ **Nothing from Round 1 or Round 2 is pushed.** Main checkout is ~32 commits ahead of
-`origin/main`. **Do not push until 13C passes the full suite** (`pytest tests/ -q` is at
-24 failures; S4A/S4B are swapped on screen).
+⚠ **Nothing from Round 1 or Round 2 is pushed yet.** Push happens right after the Part-0
+fix pass: merge origin/main (keep the header revert `e95b48242`; take harvester data for
+files the agent didn't rebuild), run the gate, push.
 
 ## 13B audit — defects carried into 13C
 | § | Defect |
@@ -80,12 +99,12 @@ Guinea Mining Insights Jan 2026 · Katadata Jan/Apr · BPS key via env var.
 
 ## Known open items (not yet fixed)
 
-- **Tooltips ~5%**, not the 100% claimed in Phase 1.5. → Prompt 12.
+- **Tooltips ~5%**, not the 100% claimed in Phase 1.5. → Prompt 16.
 - **4 view manifests over the 250 KB budget** — `vessel_lookup.json` is **5.6 MB**. CARGO tab
-  has no view manifests at all. Cumulative transfer hits 13.41 MB after two tabs. → Prompt 12.
+  has no view manifests at all. Cumulative transfer hits 13.41 MB after two tabs. → Prompt 16.
 - **Bunker prices disagree with their registered source** — ours match BunkerIndex, the
-  manifest says Ship & Bunker. Mechanism undetermined. → Prompt 10 §10.25.
-- **`status: LIVE` still encodes fetch-time, not data currency.** → Prompt 10.
+  manifest says Ship & Bunker. Mechanism undetermined. → Prompt 15 B2.
+- **`status: LIVE` still encodes fetch-time, not data currency.** → Prompt 15.
 - **Fabrication detector** — allowlist rewrite is now 13B §C8 (was Prompt 10 §10.4).
 - **tsIds 11 and 13** (values 145,000 / 110,000) remain unidentified and correctly hedged.
 

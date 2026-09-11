@@ -34,6 +34,8 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent.parent
 COMMODITIES_DIR = ROOT / "data" / "commodities"
 MANIFEST_PATH = ROOT / "data" / "provenance" / "manifest.json"
+CACHE_DIR = COMMODITIES_DIR / ".cache_bps_raw"
+CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
 BPS_URL = "https://webapi.bps.go.id/v1/api/dataexim/"
 COAL_HS_CODES = "27011100;27011210;27011290;27011900;27012000;27021000;27022000"
@@ -47,6 +49,19 @@ MONTH_MAP = {
 }
 
 
+def get_bps_api_key():
+    api_key = os.environ.get("BPS_API_KEY", "").strip()
+    if not api_key and sys.platform == "win32":
+        try:
+            import winreg
+            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as k:
+                api_key, _ = winreg.QueryValueEx(k, "BPS_API_KEY")
+                api_key = api_key.strip()
+        except Exception:
+            pass
+    return api_key
+
+
 def parse_month_str(bulan_str):
     """Parse BPS month string e.g. '[07] Juli' or 'Juli' into '07'."""
     m = re.search(r"\[(\d{2})\]", bulan_str)
@@ -56,8 +71,20 @@ def parse_month_str(bulan_str):
     return MONTH_MAP.get(clean, "01")
 
 
-def fetch_year(year, api_key):
+def fetch_year(year, api_key="", use_cache=True):
     """Fetch all monthly port x destination export records for a given year."""
+    cache_file = CACHE_DIR / f"bps_coal_{year}.json"
+    if use_cache and cache_file.exists():
+        try:
+            with open(cache_file, "r", encoding="utf-8") as f:
+                payload = json.load(f)
+                return payload.get("data", [])
+        except Exception:
+            pass
+
+    if not api_key:
+        return []
+
     params = {
         "sumber": 1,      # 1 = exports
         "periode": 1,     # 1 = monthly
@@ -75,6 +102,10 @@ def fetch_year(year, api_key):
     if payload.get("status") != "OK":
         print(f"Warning: BPS returned status '{payload.get('status')}' for year {year}")
         return []
+
+    with open(cache_file, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+
     return payload.get("data", [])
 
 
@@ -100,9 +131,10 @@ def update_manifest(csv_path, row_count, min_date, max_date):
 
 
 def main():
-    api_key = os.environ.get("BPS_API_KEY", "").strip()
-    if not api_key:
-        print("INFO: BPS_API_KEY environment variable is not set.")
+    api_key = get_bps_api_key()
+    has_cache = any(CACHE_DIR.glob("bps_coal_*.json"))
+    if not api_key and not has_cache:
+        print("INFO: BPS_API_KEY environment variable is not set and no cache found.")
         print("To run locally: set BPS_API_KEY=<key> or setx BPS_API_KEY <key>")
         print("To run in CI: GitHub Actions workflow .github/workflows/bps_monthly.yml runs with secrets.BPS_API_KEY.")
         sys.exit(0)
@@ -127,13 +159,28 @@ def main():
         return
 
     # Process records by month:
+    # Process records by month:
     monthly_data = defaultdict(lambda: {
-        "hs2701_kg": 0.0,
-        "hs2702_kg": 0.0,
+        "bituminous_kg": 0.0,
+        "other_coal_kg": 0.0,
+        "lignite_kg": 0.0,
         "value_usd": 0.0,
         "dests": defaultdict(float),
         "ports": defaultdict(float)
     })
+
+    COUNTRY_MAP = {
+        "CHINA": "China",
+        "INDIA": "India",
+        "PHILIPPINES": "Philippines",
+        "VIET NAM": "Viet Nam",
+        "JAPAN": "Japan",
+        "KOREA, REPUBLIC OF": "South Korea",
+        "MALAYSIA": "Malaysia",
+        "TAIWAN, PROVINCE OF CHINA": "Taiwan",
+        "THAILAND": "Thailand",
+        "BANGLADESH": "Bangladesh"
+    }
 
     for r in all_records:
         tahun = str(r.get("tahun", "")).strip()
@@ -144,6 +191,7 @@ def main():
         kodehs = str(r.get("kodehs", "")).strip()
         pod = str(r.get("pod", "")).strip()
         ctr = str(r.get("ctr", "")).strip()
+        clean_ctr = COUNTRY_MAP.get(ctr.upper(), ctr.title()) if ctr else ""
 
         try:
             val_usd = float(r.get("value", 0.0) or 0.0)
@@ -151,16 +199,18 @@ def main():
         except (ValueError, TypeError):
             continue
 
-        if "2702" in kodehs:
-            monthly_data[date_str]["hs2702_kg"] += netweight_kg
+        if "270112" in kodehs:
+            monthly_data[date_str]["bituminous_kg"] += netweight_kg
+        elif "2702" in kodehs:
+            monthly_data[date_str]["lignite_kg"] += netweight_kg
         else:
-            monthly_data[date_str]["hs2701_kg"] += netweight_kg
+            monthly_data[date_str]["other_coal_kg"] += netweight_kg
 
         monthly_data[date_str]["value_usd"] += val_usd
-        if ctr:
-            monthly_data[date_str]["dests"][ctr] += netweight_kg
+        if clean_ctr:
+            monthly_data[date_str]["dests"][clean_ctr] += netweight_kg
         if pod:
-            monthly_data[date_str]["ports"][pod] += netweight_kg
+            monthly_data[date_str]["ports"][pod.title()] += netweight_kg
 
     # Build rows
     out_rows = []
@@ -168,47 +218,69 @@ def main():
 
     for d in sorted(monthly_data.keys()):
         m = monthly_data[d]
-        hs2701_mt = round(m["hs2701_kg"] / 1e9, 2)
-        lignite_mt = round(m["hs2702_kg"] / 1e9, 2)
-        total_seaborne_mt = round((m["hs2701_kg"] + m["hs2702_kg"]) / 1e9, 2)
+        bitum_mt = round(m["bituminous_kg"] / 1e9, 2)
+        other_mt = round(m["other_coal_kg"] / 1e9, 2)
+        lignite_mt = round(m["lignite_kg"] / 1e9, 2)
+        hs2701_mt = round((m["bituminous_kg"] + m["other_coal_kg"]) / 1e9, 2)
+        total_seaborne_mt = round((m["bituminous_kg"] + m["other_coal_kg"] + m["lignite_kg"]) / 1e9, 2)
         val_usd = round(m["value_usd"], 2)
 
-        # Top 3 destinations
-        sorted_dests = sorted(m["dests"].items(), key=lambda x: x[1], reverse=True)[:3]
-        d1 = f"{sorted_dests[0][0]} ({sorted_dests[0][1]/1e9:.2f} Mt)" if len(sorted_dests) > 0 else ""
-        d2 = f"{sorted_dests[1][0]} ({sorted_dests[1][1]/1e9:.2f} Mt)" if len(sorted_dests) > 1 else ""
-        d3 = f"{sorted_dests[2][0]} ({sorted_dests[2][1]/1e9:.2f} Mt)" if len(sorted_dests) > 2 else ""
+        # Destinations sorted by volume
+        sorted_dests = sorted(m["dests"].items(), key=lambda x: x[1], reverse=True)
+        dest_items = []
+        for c, kg in sorted_dests:
+            mt = round(kg / 1e9, 2)
+            pct = round((kg / (m["bituminous_kg"] + m["other_coal_kg"] + m["lignite_kg"])) * 100, 1) if (m["bituminous_kg"] + m["other_coal_kg"] + m["lignite_kg"]) > 0 else 0.0
+            dest_items.append({"destination": c, "tonnes_mt": mt, "share_pct": pct})
 
-        # Top 3 loading ports
-        sorted_ports = sorted(m["ports"].items(), key=lambda x: x[1], reverse=True)[:3]
+        d1 = f"{dest_items[0]['destination']} {dest_items[0]['tonnes_mt']} Mt ({dest_items[0]['share_pct']}%)" if len(dest_items) > 0 else ""
+        d2 = f"{dest_items[1]['destination']} {dest_items[1]['tonnes_mt']} Mt ({dest_items[1]['share_pct']}%)" if len(dest_items) > 1 else ""
+        d3 = f"{dest_items[2]['destination']} {dest_items[2]['tonnes_mt']} Mt ({dest_items[2]['share_pct']}%)" if len(dest_items) > 2 else ""
+
+        # Top loading ports
+        sorted_ports = sorted(m["ports"].items(), key=lambda x: x[1], reverse=True)
+        port_items = []
+        for p, kg in sorted_ports:
+            mt = round(kg / 1e9, 2)
+            pct = round((kg / (m["bituminous_kg"] + m["other_coal_kg"] + m["lignite_kg"])) * 100, 1) if (m["bituminous_kg"] + m["other_coal_kg"] + m["lignite_kg"]) > 0 else 0.0
+            port_items.append({"port": p, "tonnes_mt": mt, "share_pct": pct})
 
         out_rows.append({
             "date": d,
-            "volume_mt": hs2701_mt,
+            "volume_mt": total_seaborne_mt,
+            "bituminous_mt": bitum_mt,
+            "other_coal_mt": other_mt,
             "lignite_mt": lignite_mt,
+            "headline_coal_mt": hs2701_mt,
             "total_coal_and_lignite_mt": total_seaborne_mt,
             "value_usd": val_usd,
-            "seaborne_mt": hs2701_mt,
+            "seaborne_mt": total_seaborne_mt,
             "top_destination_1": d1,
             "top_destination_2": d2,
             "top_destination_3": d3,
             "source_url": "https://webapi.bps.go.id/v1/api/dataexim/",
             "publisher": "Badan Pusat Statistik (BPS) Indonesia",
-            "source_quote": f"BPS Official Export API HS 2701 (headline coal: {hs2701_mt} Mt) + HS 2702 (lignite: {lignite_mt} Mt) total seaborne {total_seaborne_mt} Mt",
+            "source_quote": "",
             "method": "BPS Official Export API v1 (dataexim 8-digit series)"
         })
 
         ports_dest_detail[d] = {
-            "top_destinations": [{"destination": c, "tonnes_mt": round(kg/1e9, 3)} for c, kg in sorted_dests],
-            "top_ports": [{"port": p, "tonnes_mt": round(kg/1e9, 3)} for p, kg in sorted_ports]
+            "total_seaborne_mt": total_seaborne_mt,
+            "headline_coal_mt": hs2701_mt,
+            "bituminous_mt": bitum_mt,
+            "other_coal_mt": other_mt,
+            "lignite_mt": lignite_mt,
+            "top_destinations": dest_items,
+            "top_ports": port_items
         }
 
     # Write output CSV
     csv_file = COMMODITIES_DIR / "indonesia_coal_exports_monthly.csv"
     COMMODITIES_DIR.mkdir(parents=True, exist_ok=True)
     fieldnames = [
-        "date", "volume_mt", "lignite_mt", "total_coal_and_lignite_mt", "value_usd",
-        "seaborne_mt", "top_destination_1", "top_destination_2", "top_destination_3",
+        "date", "volume_mt", "bituminous_mt", "other_coal_mt", "lignite_mt",
+        "headline_coal_mt", "total_coal_and_lignite_mt", "value_usd", "seaborne_mt",
+        "top_destination_1", "top_destination_2", "top_destination_3",
         "source_url", "publisher", "source_quote", "method"
     ]
     with open(csv_file, "w", encoding="utf-8", newline="") as f:

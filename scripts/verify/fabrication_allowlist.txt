@@ -50,7 +50,7 @@ scripts/bunkers/build_bunker_cache.py:415:F2 Legacy bunker cache builder YoY cal
 scripts/experiments/timesfm_probe_backtest.py:527:F2 Legacy experiments backtest horizon argument default
 scripts/fearnleys/build_fearnleys_cache.py:191:F2 Legacy fearnleys cache builder percentile rank fallback
 scripts/geospatial/build_geospatial_tracker.py:377:F2 Legacy geospatial tracker anchor radius default
-scripts/geospatial/build_geospatial_tracker.py:310:F2 Legacy geospatial tracker transit days default
+scripts/geospatial/build_geospatial_tracker.py:309:F2 Legacy geospatial tracker transit days default
 scripts/scrapers/fetch_capital_link_indices.py:189:F2 Legacy scrapers capital link lookback default
 scripts/scrapers/fetch_hsn_shipbrokers.py:262:F2 Legacy scrapers HSN shipbrokers pages default
 scripts/scrapers/fetch_un_comtrade_bauxite.py:74:F2 Legacy scrapers UN Comtrade max month default

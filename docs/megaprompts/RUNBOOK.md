@@ -137,9 +137,10 @@ order — the numbering is not the running order:**
 | 1st | `13-scraper-targets.md` | ✅ **Done** (2026-09-11). Get the data first. Target 1 alone (one URL parameter) unlocked 28 years of C3 and 27 of C5. (BDI was already held from 1985 — Fearnpulse is cross-validation only.) |
 | 1b | `13B-prompt13-corrections.md` | ✅ **Done** (2026-09-11, HEAD `637bc180a`). Fixed fabricated Pilbara rows, dead Guinea citations, the Comtrade parser bug, the fleet table, the taxonomy test and the detector allowlist. |
 | 1c | `13C-prompt13B-followups.md` | ✅ **Done** (2026-09-11, staged, uncommitted). Full suite 249 green; S4A/S4B, Guinea, Brazil gaps fixed. |
-| **1d** | **`14-ship-round2-to-screen.md`** | **Run next.** Round 2's seven new datasets are on disk but **none are on screen**. Puts them into Cargo and Broker Desk, loads Hedland, gets China customs tonnage, and removes the synthesized port queues and the bunker port swap. (Replaces the withdrawn 13D, which was mostly audit hygiene with nothing visible.) |
-| 2nd | `10-data-currency-and-truth-in-labelling.md` | Adds computed `data_through` / `staleness_state`, which is what makes Target 1's gains measurable and stops "LIVE" meaning "we ran the script". |
-| 3rd | `12-tooltips-and-view-layer.md` | Finishes the two half-built systems. |
+| 1d | `14-ship-round2-to-screen.md` | ✅ **Done** (`ff518ba29`). Nine modules on screen; a short Part-0 fix pass follows (Guinea rows, citation checker). |
+| **2nd** | **`15-data-complete-and-self-updating.md`** | Wires all 11 unscheduled fetchers into GitHub workflows (and stops `usda_weekly.yml` overwriting the new queue file), pulls August 2026, adds China tonnes (GACC bulletin), JODI tanker flows, EIA LNG, India coal (TradeStat), ABS Australia, and a generated coverage matrix. **Absorbs Prompt 10.** |
+| **3rd** | **`16-fast-clean-explained.md`** | Tab speed (ETFs 2 s freeze on every revisit; Tracking loads 18.7 MB), tooltips ≥95% per tab, removal of generic-AI design patterns. **Absorbs Prompt 12.** |
+| — | `10-…` / `12-…` | ⛔ Absorbed into 15 / 16 — do not run separately. |
 | — | `11-acquisition-round-2.md` | **Mostly superseded by 13.** Only Job B (Brazil) and Job F (minor bulks) remain, and both are folded into 13 as Targets 11 and 10. Skip unless you want the redundancy. |
 
 Known corrections carried into those prompts, so the agent does not re-inherit them:

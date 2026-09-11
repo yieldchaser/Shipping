@@ -49,6 +49,7 @@ API_PATTERNS = [
     re.compile(r"fearnpulse\.com/api", re.IGNORECASE),
     re.compile(r"chinadata\.live/api", re.IGNORECASE),
     re.compile(r"api-comexstat\.mdic\.gov\.br", re.IGNORECASE),
+    re.compile(r"webapi\.bps\.go\.id", re.IGNORECASE),
     re.compile(r"\.pdf(\?|$)", re.IGNORECASE),
 ]
 
