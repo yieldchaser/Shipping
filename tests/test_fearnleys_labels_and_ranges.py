@@ -86,8 +86,8 @@ def test_corrected_vessel_class_labels():
         10001: "C3",
         10002: "C5",
         120129: "S1C",
-        120132: "S4B",
-        120133: "S4A",
+        120132: "S4A",
+        120133: "S4B",
         120137: "S10",
         1: "TD3/TD3C transition",
         2: "TD2",
@@ -130,6 +130,8 @@ def check_taxonomy_coherence(headers):
     with open(tax_path, "r", encoding="utf-8") as f:
         tax = json.load(f)
     routes = tax["routes"]
+    indices = tax.get("indices", {})
+    routes_or_indices = set(routes.keys()) | set(indices.keys())
 
     with open(REGISTRY_PATH, "r", encoding="utf-8") as f:
         registry = json.load(f)
@@ -148,14 +150,14 @@ def check_taxonomy_coherence(headers):
         all_parens = re.findall(r"\(([^)]+)\)", h)
         codes_found = [p for p in all_parens if not p.startswith("tsid_") and p not in KNOWN_EXEMPT_PARENS]
 
-        # 1. Every code in parentheses must exist in the taxonomy — unknown codes fail
+        # 1. Every code in parentheses must exist in taxonomy routes or indices — unknown codes fail
         for c in codes_found:
-            assert c in routes, f"Header {h} carries route code '({c})' which does not exist in Baltic taxonomy!"
+            assert c in routes_or_indices, f"Header {h} carries route code '({c})' which does not exist in Baltic taxonomy!"
 
-        # 2. If an expected route code exists, header must equal the registry code
+        # 2. If an expected route code exists, header must equal the registry code (or handle straddles)
         if expected_code:
-            if expected_code == "TD3/TD3C":
-                assert "TD3/TD3C" in h or "transition" in h.lower(), f"tsid {tsid_str} must carry TD3/TD3C transition!"
+            if reg_entry.get("straddle") or expected_code == "TD3/TD3C":
+                assert "TD3/TD3C" in h or "transition" in h.lower() or "TD3C" in h, f"tsid {tsid_str} must carry TD3/TD3C transition or TD3C!"
             else:
                 assert f"({expected_code})" in h, f"Header {h} does not carry expected registry code ({expected_code})!"
                 assert expected_code in codes_found, f"Header {h} does not match expected code {expected_code} (found {codes_found})!"
@@ -253,3 +255,25 @@ def test_json_catalog_coherence():
     assert catalog["1"]["unit"] == "worldscale"
     assert catalog["4"]["unit"] == "worldscale"
     assert catalog["120654"]["unit"] == "usd/day"
+
+def test_baltic_taxonomy_snapshot_equality():
+    """Prompt 13C §D3: Assert baltic_route_taxonomy.json equals what the scraper produces
+    from the cached Wayback snapshot, with BDI in indices and TD3/TD3C purged.
+    """
+    import sys
+    sys.path.insert(0, str(ROOT))
+    from scripts.acquire.fetch_baltic_route_taxonomy import parse_taxonomy, ARCHIVE_URL
+
+    snapshot_path = ROOT / "data" / "reference" / "baltic_indices_wayback_snapshot.html"
+    assert snapshot_path.exists(), "Snapshot HTML must exist in data/reference!"
+    html = snapshot_path.read_text(encoding="utf-8")
+    scraped = parse_taxonomy(html, ARCHIVE_URL)
+
+    with open(ROOT / "data" / "reference" / "baltic_route_taxonomy.json", "r", encoding="utf-8") as f:
+        stored = json.load(f)
+
+    assert "TD3/TD3C" not in stored["routes"], "TD3/TD3C must not exist in routes!"
+    assert "BDI" not in stored["routes"], "BDI must not exist in routes!"
+    assert "BDI" in stored["indices"], "BDI must exist in indices!"
+    assert stored["routes"] == scraped["routes"], "Stored routes must match snapshot parse exactly!"
+    assert stored["indices"] == scraped["indices"], "Stored indices must match snapshot parse exactly!"

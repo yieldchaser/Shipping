@@ -70,9 +70,11 @@ def test_big_csvs_use_chunked_loader():
     assert "function fetchCSVChunked(" in C
     assert "function chunkedParseCsvText(" in C
     assert "function csvChunkWorker(" in C
-    # the 8 MB congestion history + 56 MB expanded universe go through it
+    # the 8 MB congestion history goes through fetchCSVChunked;
+    # Prompt 13C §D7: Round 1 Prompt 01 (commit d21185f31) replaced the 56 MB expanded universe
+    # raw CSV with compiled data/views/port_calls_summary.json
     assert "fetchCSVChunked('data/congestion/portwatch_port_congestion.csv'" in C
-    assert "fetchCSVChunked('data/congestion/port_calls_daily_expanded.csv'" in C
+    assert "data/views/port_calls_summary.json" in C
     # bounded slice size, not one giant synchronous pass
     m = re.search(r"SLICE_ROWS = (\d+)", C)
     assert m, "csvChunkWorker must declare a bounded SLICE_ROWS"

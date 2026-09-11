@@ -112,9 +112,20 @@ corresponding freight route overlaid on a right axis.**
 - US Gulf grain vs **Panamax USG–Japan**
 
 We already hold both sides: the volume series above, and the route rates in
-`fearnleys_benchmark_rates_continuous.csv` (34 curves, 1,158 dates, 2018–2026) which
-explicitly includes C3 (`tsId 10001`), C5 (`tsId 10002`) and Newcastle/Qingdao coal
-(`tsId 10003`).
+`fearnleys_benchmark_rates_continuous.csv`, which genuinely includes C3 (`tsId 10001`),
+C5 (`tsId 10002`) and Newcastle/Qingdao coal (`tsId 10003`) — verified live and current
+(C3 = **$41.92/t on 2026-09-09**).
+
+> ⚠ **Two corrections to an earlier draft of this prompt, both verified 2026-09-10:**
+> 1. **The rate side has only ~1 year of history as stored**, not 2018–2026. C3/C5/coal each
+>    hold **260 of 1,158 rows** (2025-08-27 → 2026-09-09). A 5-year seasonal envelope on the
+>    rate axis is impossible until Prompt 13 Target 1B backfills them — C3 to **7,085 rows
+>    (from 1998-05-06)**, C5 to **6,877 (from 1999-03-01)**.
+> 2. **Six other series in that file are mislabelled by vessel class** (Prompt 13 Target 1A).
+>    C3/C5/coal themselves are correctly labelled, so this module is safe — but do not reach
+>    for other columns in that file without checking 1A first.
+>
+> **Sequence this module after Prompt 13.**
 
 This is the chart that shows *why* freight moved, which is the entire purpose of the tab.
 

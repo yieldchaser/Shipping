@@ -119,9 +119,9 @@ def test_cargo_frontend_summary_datasets():
     assert "australia_req" in data
     assert len(data["australia_req"]["commodities"]) > 0
 
-    # 10. Guinea bauxite mirror statistics
+    # 10. Guinea bauxite mirror statistics (Prompt 13C §D7.2)
     assert "guinea_bauxite" in data
     guinea_prov = data["guinea_bauxite"]["provenance"]
     assert guinea_prov["status"] == "LIVE_MIRROR"
-    assert guinea_prov["direct_source_status"] == "UNAVAILABLE"
+    assert guinea_prov["direct_source_status"] == "PARTIAL"
     assert "Ministry of Mines" in guinea_prov["direct_source_attempted"]

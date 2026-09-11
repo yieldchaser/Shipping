@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-09-10T18:23:53.120835+00:00",
   "schema_version": "1.0",
-  "total_series": 107,
+  "total_series": 112,
   "unregistered_count": 9,
   "series": [
     {
@@ -138,12 +138,12 @@
       "fetch_method": "PPA Shipping Figures & Trade Press Harvester",
       "fetch_script": "scripts/acquire/fetch_pilbara_ports.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 15,
+      "row_count": 292,
       "date_span": [
-        "2020-10-01",
-        "2024-05-01"
+        "2002-07-01",
+        "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "last_fetched_utc": "2026-09-11T12:40:42.485436+00:00",
       "unit": "Mt/mo",
       "is_derived": false,
       "derivation": null,
@@ -178,12 +178,12 @@
       "fetch_method": "ComexStat API / Comtrade HS 6-digit Spliced Series",
       "fetch_script": "scripts/acquire/fetch_brazil_comexstat_full.py",
       "output_file": "data/commodities/brazil_comexstat_exports.csv",
-      "row_count": 557,
+      "row_count": 575,
       "date_span": [
         "2017-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "last_fetched_utc": "2026-09-11T12:33:54.867402+00:00",
       "unit": "Metric Tonnes / USD FOB",
       "is_derived": false,
       "derivation": null,
@@ -1273,23 +1273,6 @@
       "notes": "Sourced via scripts/update_indices.py."
     },
     {
-      "series_id": "geospatial_port_lineups_active",
-      "display_name": "Geospatial \u2014 Port Lineups Active",
-      "status": "UNREGISTERED",
-      "source_name": "Static Local / Orphaned Upstream",
-      "source_url": "None",
-      "fetch_method": "Manual Ingestion / Static",
-      "fetch_script": "None",
-      "output_file": "data/geospatial/port_lineups_active.csv",
-      "row_count": 1568,
-      "date_span": null,
-      "last_fetched_utc": "2026-09-09T06:33:58Z",
-      "unit": "Unknown",
-      "is_derived": false,
-      "derivation": null,
-      "notes": "No script in repository produces or updates this file; static or orphaned upstream."
-    },
-    {
       "series_id": "geospatial_portwatch_ports_master",
       "display_name": "Geospatial \u2014 Portwatch Ports Master",
       "status": "LIVE",
@@ -1881,23 +1864,23 @@
     },
     {
       "series_id": "commodities_guinea_bauxite_exports",
-      "display_name": "Guinea Bauxite Exports (Monthly)",
+      "display_name": "Commodities \u2014 Guinea Bauxite Monthly Exports & Producer Ledger",
       "status": "LIVE",
-      "source_name": "UN Comtrade (Mirror) / Guinea Mining Insights (GMI)",
-      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/M/HS",
-      "fetch_method": "UN Comtrade API Mirror / GMI Article Harvester",
+      "source_name": "Guinea Ministry of Mines / GMI & UN Comtrade (China GACC Mirror)",
+      "source_url": "https://www.guineamininginsights.com/news-insights-82",
+      "fetch_method": "Strict Comtrade API & GMI Ministry Ledger Harvester",
       "fetch_script": "scripts/acquire/fetch_guinea_bauxite.py",
       "output_file": "data/commodities/guinea_bauxite_exports.csv",
-      "row_count": 107,
+      "row_count": 137,
       "date_span": [
-        "2017-01-01",
-        "2026-01-01"
+        "2015-12-31",
+        "2026-06-30"
       ],
-      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
-      "unit": "tonnes (import_volume_t)",
+      "last_fetched_utc": "2026-09-11T12:44:35.905824+00:00",
+      "unit": "Tonnes (t)",
       "is_derived": false,
       "derivation": null,
-      "notes": "Guinea bauxite monthly exports: 96 bilateral mirror months (2017-2024) + 11 verified producer rows (Jan 2026)."
+      "notes": "Bauxite export volume across 2 explicit granularities (137 rows from 2015-12-31 to 2026-06-30): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12."
     },
     {
       "series_id": "commodities_brazil_exports_monthly",
@@ -2030,12 +2013,12 @@
       "fetch_method": "PPA Shipping Figures & Trade Press Harvester",
       "fetch_script": "scripts/acquire/fetch_pilbara_ports.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 251,
+      "row_count": 292,
       "date_span": [
         "2002-07-01",
-        "2026-06-01"
+        "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "last_fetched_utc": "2026-09-11T12:40:42.485436+00:00",
       "unit": "Mt/mo",
       "is_derived": false,
       "derivation": null,
@@ -2092,8 +2075,8 @@
       "output_file": "data/commodities/minor_bulks_monthly.csv",
       "row_count": 321,
       "date_span": [
-        "202201",
-        "202607"
+        "2022-01-01",
+        "2026-07-01"
       ],
       "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
       "unit": "Metric Tonnes / USD",
@@ -2272,12 +2255,12 @@
       "fetch_method": "REST API & Exact HS-6 Comtrade Bilateral Pipeline",
       "fetch_script": "scripts/acquire/fetch_brazil_comexstat_full.py",
       "output_file": "data/commodities/brazil_comexstat_exports.csv",
-      "row_count": 557,
+      "row_count": 575,
       "date_span": [
         "2017-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-11T08:15:54.729675+00:00",
+      "last_fetched_utc": "2026-09-11T12:33:54.867402+00:00",
       "unit": "Metric Tonnes / USD FOB",
       "is_derived": false,
       "derivation": null,
@@ -2292,12 +2275,12 @@
       "fetch_method": "Official PPA Annual / YTD PDF Parse",
       "fetch_script": "scripts/scrapers/fetch_ppa_iron_ore.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 251,
+      "row_count": 292,
       "date_span": [
         "2002-07-01",
-        "2026-06-01"
+        "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-11T06:40:20.908266+00:00",
+      "last_fetched_utc": "2026-09-11T12:40:42.485436+00:00",
       "unit": "Million Tonnes (Mt/mo)",
       "is_derived": false,
       "derivation": null,
@@ -2312,16 +2295,16 @@
       "fetch_method": "Strict Comtrade API & GMI Ministry Ledger Harvester",
       "fetch_script": "scripts/acquire/fetch_guinea_bauxite.py",
       "output_file": "data/commodities/guinea_bauxite_exports.csv",
-      "row_count": 107,
+      "row_count": 137,
       "date_span": [
-        "2017-01-01",
-        "2026-01-01"
+        "2015-12-31",
+        "2026-06-30"
       ],
-      "last_fetched_utc": "2026-09-11T08:41:02.840457+00:00",
+      "last_fetched_utc": "2026-09-11T12:44:35.905824+00:00",
       "unit": "Tonnes (t)",
       "is_derived": false,
       "derivation": null,
-      "notes": "Bauxite export volume across 2 explicit granularities (107 rows from 2017-01-01 to 2026-01-01): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12."
+      "notes": "Bauxite export volume across 2 explicit granularities (137 rows from 2015-12-31 to 2026-06-30): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12."
     }
   ]
 }

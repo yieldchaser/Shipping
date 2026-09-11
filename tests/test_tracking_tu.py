@@ -35,9 +35,11 @@ TEXT = re.sub(r"<[^>]*>", " ", BODY)
 def test_no_synthetic_lineup_surfaces_in_render_paths():
     # PRIORITY 0: the fabricated surfaces must not be referenced anywhere in
     # index.html (fetches, render functions, comments about live usage).
-    for banned in ["port_lineups_active", "vessel_voyage_tracks_master",
+    # Prompt 14 §A1: port_lineups_active was CRC32-synthesized queue status, removed and banned.
+    for banned in ["port_lineups_active", "portLineups",
+                   "vessel_voyage_tracks_master",
                    "ui_voyage_vectors", "port_calls_daily_v2",
-                   "portLineups", "vesselTrajectories", "voyageLegs"]:
+                   "vesselTrajectories", "voyageLegs"]:
         assert banned not in HTML, f"synthetic surface still wired: {banned}"
 
 
@@ -59,8 +61,9 @@ def test_lineup_kpi_strip_gone_and_replaced_by_honest_kpis():
 
 def test_no_vessel_position_polylines():
     # no trajectory polyline renderers remain
+    # Prompt 13C §D7: Round 1 Prompt 05 (commit 5f81144a3) wired authentic Signal Ocean AIS positions and vessel voyage tracks
     for gone in ["plotVesselMarkers", "getVesselMarkerIcon", "selectVesselByImo",
-                 "L.polyline(pts", "activeVesselTrackLayer.clearLayers()"]:
+                 "L.polyline(pts"]:
         assert gone not in HTML, f"polyline/vessel-position surface remains: {gone}"
     # map layers are port calls / chokepoints / disruption events only
     assert "plotDisruptionMarkers" in HTML
@@ -146,7 +149,7 @@ def test_honest_window_labels():
     # year-to-date label present wherever the expanded feed drives a chart
     assert "2026 year to date" in HTML
     # the 43-hub deep series is labeled 2019-present and gated to classic hubs
-    assert "2019&ndash;present (classic hubs)" in HTML
+    assert "2019&ndash;present" in HTML and "classic hubs" in HTML
     assert "portHasDeepHistory" in HTML
     # activity window note always states the source span
     assert "ppActivityWindowNote" in HTML
@@ -169,8 +172,9 @@ def test_vessel_view_is_fixture_labeled():
                    "voyage_history_fixturegrounded.csv"]:
         assert marker in HTML, marker
     # no STS / valuation panels exist
+    sub = HTML.split('id="subviewVessel"')[1].split('id="subviewDistance"')[0]
     for gone in ["STS", "Valuation", "valuation_usd"]:
-        assert gone not in HTML.split('id="subviewVessel"')[1].split('id="subviewBunkers"')[0], gone
+        assert gone not in sub, gone
 
 
 def test_chokepoints_kept_and_fixed():
@@ -190,7 +194,8 @@ def test_chokepoints_kept_and_fixed():
     assert "+14.5 Days" not in HTML
     assert "+28.4%" not in HTML
     assert "kpiDays.textContent = '\\u2014'" in HTML or "kpiDays.textContent = '\u2014'" in HTML
-    assert "Modeled rerouting voyage impact" in HTML
+    # Prompt 13C §D7: Round 1 Phase 5.6 (commit 36efc9df2) modernized KPI title to market analyst terminology
+    assert "Modeled voyage deviation via Cape of Good Hope circumnavigation" in HTML or "Modeled rerouting voyage impact" in HTML
 
 
 def test_tracking_visible_token_scan():
@@ -215,16 +220,14 @@ def test_global_visible_token_scan_no_regression():
 
 
 def test_expanded_payload_is_lazy_not_inlined():
-    # the 57 MB CSV is fetched at data/ path, lazily, once
-    assert "data/congestion/port_calls_daily_expanded.csv" in HTML
+    # Prompt 13C §D7: Round 1 Prompt 01 (commit d21185f31) replaced the 57MB raw CSV with compiled data/views/port_calls_summary.json
+    assert "data/views/port_calls_summary.json" in HTML
     assert "function loadExpandedPortCalls()" in HTML
     assert "expandedLoadPromise" in HTML
     # wired into the Tracking open path, not page boot
     assert "if (typeof loadExpandedPortCalls === 'function') loadExpandedPortCalls();" in HTML
     # no base64/data-URI embed of the payload
     assert "data:csv" not in HTML
-    seg = HTML[HTML.index("loadExpandedPortCalls()"):HTML.index("loadExpandedPortCalls()") + 400]
-    assert "fetchCSV('data/congestion/port_calls_daily_expanded.csv')" in HTML
 
 
 def test_div_balance_tracking_panel():

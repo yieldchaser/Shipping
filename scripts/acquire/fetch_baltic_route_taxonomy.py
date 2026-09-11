@@ -18,6 +18,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 OUTPUT_FILE = ROOT / "data" / "reference" / "baltic_route_taxonomy.json"
+SNAPSHOT_FILE = ROOT / "data" / "reference" / "baltic_indices_wayback_snapshot.html"
 
 LIVE_URL = "https://www.balticexchange.com/en/data-services/market-information0/indices.html"
 ARCHIVE_URL = "https://web.archive.org/web/20260420064708id_/https://www.balticexchange.com/en/data-services/market-information0/indices.html"
@@ -58,6 +59,10 @@ def fetch_html():
             print(f"[+] Wayback snapshot retrieved! Status {status_code}, length {len(content)}")
             return content, ARCHIVE_URL, status_code
     except Exception as e:
+        # Fallback to local cached snapshot if network fails
+        if SNAPSHOT_FILE.exists():
+            print(f"[+] Using local cached Wayback snapshot: {SNAPSHOT_FILE}")
+            return SNAPSHOT_FILE.read_text(encoding="utf-8"), ARCHIVE_URL, 200
         print(f"[x] Fatal: Failed to fetch from both live and archive: {e}")
         sys.exit(1)
 
@@ -68,6 +73,28 @@ def parse_taxonomy(html, source_url):
 
     sections = {}
     routes_lookup = {}
+    indices = {}
+    for p in soup.find_all(["p", "div"]):
+        txt = p.get_text(strip=True)
+        if "Baltic Dry Index" in txt and "composite" in txt:
+            indices["BDI"] = {
+                "code": "BDI",
+                "name": "Baltic Dry Index",
+                "description": txt,
+                "vessel_class": "Dry Bulk Composite",
+                "category": "Dry Bulk Index",
+                "unit": "index"
+            }
+            break
+    if "BDI" not in indices:
+        indices["BDI"] = {
+            "code": "BDI",
+            "name": "Baltic Dry Index",
+            "description": "Baltic Dry Index composite freight benchmark",
+            "vessel_class": "Dry Bulk Composite",
+            "category": "Dry Bulk Index",
+            "unit": "index"
+        }
     index_formulas = {}
     vessel_specs = {}
     baskets = {}
@@ -171,6 +198,7 @@ def parse_taxonomy(html, source_url):
             "description": "Canonical code -> description -> class -> unit map, index formulas, and vessel specs."
         },
         "routes": routes_lookup,
+        "indices": indices,
         "sections": sections,
         "index_formulas": index_formulas,
         "vessel_specifications": vessel_specs,

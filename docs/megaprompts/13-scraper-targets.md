@@ -42,35 +42,72 @@ Two files in this repo disagree about what vessel class each tsId is:
 `PANAMAX_TRANSATLANTIC_RV`, …) and its docstring states they were taken from the Fearnleys
 Weekly Report tiles. **Treat that script as the source of truth; the CSV headers are wrong.**
 
-### Independent confirmation — the Baltic Exchange route taxonomy
+### THE LABELLING AUTHORITY — Baltic Exchange official route taxonomy
 
-`https://www.balticexchange.com/en/data-services/freight-derivatives-/Baltic-Forward-Assessments.html`
-publishes the authoritative route list per vessel class:
+**`https://www.balticexchange.com/en/data-services/market-information0/indices.html`**
+
+Free, unauthenticated, **11 HTML tables** carrying every Baltic route code with its
+description, plus **the exact index construction formulas and the vessel specifications**.
+Scrape it in full and persist to `data/reference/baltic_route_taxonomy.json` — this becomes
+the repo's canonical code→description→class→unit map, and every rate series in the app
+must resolve against it.
+
+Exact route definitions that settle the mislabelling:
 
 ```
-Capesize   5TC · C3 · C5 · C7
-Panamax    5TC · P1A · P2A · P3A · P6
-Supramax   10TC · 11TC
-Handysize  7TC
+Capesize   C2 Tubarao→Rotterdam · C3 Tubarao→Qingdao · C5 W.Australia→Qingdao
+           C7 Bolivar→Rotterdam · C8_182 Gib/Hamburg TA RV
+           C9_182  Continent/Med trip China-Japan          ← fronthaul
+           C10_182 China-Japan transpacific round voyage   ← Pacific RV
+           C14_182 China-Brazil round voyage · C16_182 revised backhaul
+           C17 Saldanha Bay→Qingdao
+Panamax    P1A_82 Skaw-Gib transatlantic RV
+           P2A_82 Skaw-Gib trip HK-S.Korea incl Taiwan     ← fronthaul
+           P3A_82 HK-S.Korea transpacific RV
+           P4_82  HK-S.Korea trip to Skaw-Passero          ← Far East/Cont backhaul
+           P5_82  South China, one Indonesian RV
+           P6_82  Dely Singapore, one RV via Atlantic
+Supramax   S1B S1C S2 S3 S4A S4B S5 S8 S9 S10 S15   (11TC basket)
+Handysize  HS1_38 … HS7_38                          (7TC basket)
 ```
 
-**Panamax has exactly four named routes, and the four Fearnleys names map onto them 1:1:**
+**Resolved mapping — all six mislabelled tsIds:**
 
-| tsId | Fearnleys name | Baltic route | Definition | Value |
+| tsId | CSV says | Baltic route | True class | Value |
 |---|---|---|---|---|
-| 10011 | TCE Cont/Far East | **P2A** | Skaw-Gib delivery, Far East redelivery (fronthaul) | $30,494 |
-| 10012 | TCE Far East RV | **P3A** | Japan/S-Korea transpacific round voyage | $22,204 |
-| 10010 | Transatlantic RV | **P1A** | Skaw-Gibraltar transatlantic round voyage | $20,077 |
-| 10013 | TCE Far East/Cont | **P6** | Spore-Japan delivery, Skaw-Passero redelivery (backhaul) | $13,299 |
+| 120655 | TCE Cont/Far East *(Supramax)* | **C9_182** Continent/Med → China-Japan | **Capesize** | $91,194 |
+| 120654 | Pacific RV *(Supramax)* | **C10_182** China-Japan transpacific RV | **Capesize** | $62,359 |
+| 10011 | TCE Cont/Far East *(Capesize)* | **P2A_82** Skaw-Gib → HK-S.Korea | **Panamax** | $30,494 |
+| 10012 | TCE Far East RV *(Capesize)* | **P3A_82** HK-S.Korea transpacific RV | **Panamax** | $22,204 |
+| 10010 | Transatlantic RV *(Capesize)* | **P1A_82** Skaw-Gib transatlantic RV | **Panamax** | $20,077 |
+| 10013 | TCE Far East/Cont *(Capesize)* | **P4_82** HK-S.Korea → Skaw-Passero | **Panamax** | $13,299 |
 
-The value ordering is the textbook Panamax hierarchy — **fronthaul > transpacific RV >
-transatlantic RV > backhaul**. Capesize has no P-routes; its forward list is 5TC/C3/C5/C7.
+> **Correction to an earlier draft of this prompt:** I first mapped 10013 to **P6_82**.
+> That was wrong. P6_82 is *"Dely Singapore for one round voyage via Atlantic"*, not a
+> Far East→Continent backhaul. The backhaul is **P4_82**, *"Hong Kong-South Korea trip to
+> Skaw-Passero"*. The class (Panamax) was right; the route code was not. Panamax has **six**
+> routes (P1A, P2A, P3A, P4, P5, P6), not the four shown on the forward-assessments page —
+> only four of them have forward contracts.
 
-Likewise, **Supramax's entire forward list is 10TC and 11TC** — there is no Supramax
-"Pacific RV" or "Cont/Far East" named route, and Supramax does not trade at $91,194/day.
-120654 and 120655 are the Capesize TC routes (C10 Pacific RV / C9 Cont-Far East family).
+Value ordering matches the route economics exactly: Panamax fronthaul (P2A) > transpacific
+RV (P3A) > transatlantic RV (P1A) > backhaul (P4). Capesize has **no P-routes**, and
+Supramax has **no Pacific RV or Cont/Far East named route** and does not trade at $91k/day.
 
-**This is the labelling authority. Use it, not the CSV headers.**
+### Also on that page — take all of it
+
+- **Index formulas**, e.g. `BCI = RoundedSum(C8*0.15, C9*0.125, C10*0.35, C14*0.25, C16*0.125)*0.11026`;
+  `BPI`, `BSI`, `BHSI`, `BDTI`, `BCTI`, `BLPG` likewise. **Use these to recompute our stored
+  indices from their component routes as a validation test** — if our BCI doesn't reproduce
+  from our C8/C9/C10/C14/C16, one of them is wrong.
+- **Vessel specifications** per class — Capesize 182,000 dwt / 18.2m draft; Panamax 82,500 dwt;
+  Supramax 63,500 dwt (BSI63); Handysize 38,200 dwt — with speed and consumption profiles.
+  These are exactly the contract specs Prompt 09 §F wanted for FFA tooltips.
+- **Tanker basket definitions** — VLCC TCE uses TD3C/TD15/TD22; Suezmax TCE uses TD6/TD20;
+  Aframax TCE uses TD7/TD8/TD14/TD19/TD25/TD26. Ties directly to Gibson's route data.
+- **Full clean/dirty tanker route lists** (TC1–TC18, TD2–TD25), **gas** (BLNG1-3, BLPG1-3),
+  **container** (FBX00–FBX26) and **air freight** (BAI00–BAI84).
+- **`C14_182 China-Brazil round voyage`** — this is the exact route overlaid on the cargo
+  tonnage chart in `Inspiration/HQoKTiRa4AIcErr.png`. It is now identified and available.
 
 Bonus: the same page carries a **live index ticker** — BDI, BCI, BPI, BSI, BHSI, BCTI,
 BAI00, BLNG — free and unauthenticated. Cross-check: Baltic showed **BDI 3,521** on
@@ -197,8 +234,32 @@ The quarantined fabricated series implied H1 2026 ≈ 106.7 Mt vs a real 114.8 M
 2026 of 17.3 Mt vs a real 20.26 Mt — roughly **8% low**.
 
 Sources, priority order:
-1. `https://www.guineamininginsights.com/` — crawl `news-insights-*`; richest structure
-   (per-company tonnage + vessel counts).
+1. **`https://www.guineamininginsights.com/news-insights-{n}` — FETCHED AND VERIFIED
+   2026-09-10. Plain HTML prose, no JavaScript, trivially scrapable.** It carries far more
+   than the headline number. Actual January 2026 content:
+
+   | Company | Bauxite Mt | Vessels |
+   |---|---|---|
+   | SMB | 6.57 | **32** |
+   | Chalco | 2.64 | **14** |
+   | CBG | 1.64 | **28** |
+   | Zhicheng Guinee Mining | 0.94 | **5** |
+   | China Dianjian Mining | 0.94 | — |
+   | Dabola-Tougué | 0.82 | — |
+   | Alliance Mining Commodities | 0.79 | — |
+   | Bauxite Alliance Mining | 0.63 | — |
+   | Kimbo Bauxite Mining | 0.58 | — |
+
+   Plus alumina: Friguia refinery (RUSAL) **46,764 t on 2 vessels**, sole alumina exporter
+   that month. Total **20.26 Mt bauxite + 46,764 t alumina**.
+
+   **Nine producers with tonnage, four with vessel counts, in one article.** Tonnage ÷
+   vessels gives average parcel size, which distinguishes Capesize from Panamax/Supramax
+   liftings — a genuine fleet-mix signal nobody else publishes free. Crawl the whole
+   `news-insights-*` series for the monthly back-run.
+
+   *Note: the in-app browser was blocked from this domain; a plain server-side fetch
+   worked. Use `requests` with a real User-Agent, not a headless browser.*
 2. `https://www.mysteel.net/news/` and `/analysis/` — monthly/quarterly coverage.
 3. Reuters, Mining Weekly, AlCircle, African Mining Market — same ministry release.
 4. Ministry direct (DGM statistics bulletin PDF) — authoritative if found.
@@ -256,8 +317,45 @@ This also removes the false "31-Year History 1995–2026" UI claim over a file e
 **We have almost no China import data. China is ~75% of seaborne iron ore and ~60% of
 bauxite. This is the demand side of the entire dry bulk market and it is missing.**
 
-**`https://chinadata.live/` — REST API, no key required, free CSV download.**
-GACC monthly imports by HS chapter, **Jan 2018 → latest published month**.
+**`https://chinadata.live/api/v2` — free JSON/CSV, no authentication. EXECUTED AND VERIFIED
+2026-09-10.**
+
+Docs: `https://chinadata.live/api/docs/` — *"Free JSON and CSV endpoints for China's official
+government statistics. No authentication required."*
+
+```
+GET /api/v2/trade/hs/:hs_code?flow=import&period=all&limit=20
+GET /api/v2/trade/country/:country
+GET /api/v2/trade/hs/:chapter_code
+GET /api/v2/datasets            # list all
+GET /api/v2/search
+add ?format=csv to any of them
+```
+
+**Live response for HS 2601 (iron ore), flow=import — HTTP 200:**
+```
+coverage: first_month 2018-01 · latest_month 2026-07 · 3,485 rows · 42 partners
+monthly:  103 points, each {month, value_usd, partner_count, row_count}
+top_partners (share of value):
+  Australia 61.1% · Brazil 21.5% · South Africa 3.7% · India 2.2% · Peru 1.8% · Canada 1.5%
+artifact_version: 2026-09-07   (fresh)
+public_partner_limit: 20
+```
+
+The Australia-vs-Brazil split is **exactly the C5-vs-C3 demand signal** and it comes free.
+
+> ⚠ **Correction to an earlier draft of this prompt, found by executing the API:**
+> I wrote "pull monthly import **volume and value**". **The free tier returns `value_usd`
+> only — there is no tonnage in the monthly array.** For freight demand, tonnage is the
+> variable that matters; USD value conflates price and volume.
+>
+> Also: `availability.status` = `"coverage_check_required"`, `delivery_mode: "manual"`,
+> `payment_required: false` — full/tonnage extracts go through a **manual request form**,
+> not the API. Do not assume tonnage is one query away.
+>
+> **For tonnage, use UN Comtrade with China as reporter** (`netWgt` field) and treat
+> chinadata.live as the fast, current value series plus the partner-share split. Two
+> sources, two badges, cross-validated — never blended into one line.
 
 Pull monthly import volume **and** value for at least:
 
@@ -286,9 +384,25 @@ Confirmed monthly, from BPS (Statistics Indonesia):
 - Jan–May 2026: 143.56 Mt / US$9.75 bn
 - Jan–Jul 2026: **201.47 Mt** (−6.17% YoY), US$14.47 bn
 
-Sources: BPS (`bps.go.id`) trade statistics; ESDM/Minerba for production and the 2026
-~600 Mt approval cap; `databoks.katadata.co.id` publishes monthly buyer breakdowns;
-Mysteel for analysis.
+**★ There is an official BPS Web API — verified 2026-09-10.**
+
+- Developer portal: `https://webapi.bps.go.id/developer/`
+- Docs: `https://webapi.bps.go.id/documentation/`
+- JSON endpoints, e.g. `https://webapi.bps.go.id/v1/api/interoperabilitas/datasource/simdasi/id/22/`
+- Official Python client: `bps-statistics/stadata` on GitHub
+- Postman collection: `bps-pinrang/Web-API-BPS-Postman-Collection`
+- Serves dynamic tables, static tables, publications, press releases, strategic indicators
+
+> ⚠ **Requires a free API key, created via Profile → Applications → Add Application.**
+> **The agent must not register an account.** Ask the product owner to create the key and
+> supply it, then read it from an environment variable — never commit it. This is a
+> rung-8-style operator handoff: state exactly what you need and wait.
+
+The public `bps.go.id` HTML pages return **HTTP 403** to simple fetches, so the API is the
+route, not scraping.
+
+Secondary/fallback sources: ESDM/Minerba for production and the 2026 ~600 Mt approval cap;
+`databoks.katadata.co.id` publishes monthly buyer breakdowns; Mysteel for analysis.
 
 Indonesia→China and Indonesia→India are the two largest Panamax/Supramax coal lanes in the
 world and we currently render nothing.
@@ -301,6 +415,22 @@ Rosario Board of Trade / Rosario Grain Exchange (BCR), monthly:
 - Jul 2026 corn: **5.14 Mt** — monthly record (prev. 5.08 Mt in Apr 2026)
 - H1 2026: **60.7 Mt** total grain — corn 21.0, soy 20.1, wheat 11.1, sunflower 4.4
 - Mar–Jul 2026 corn: 22.21 Mt
+
+**★ Better than BCR — the Argentine agriculture ministry (MAGyP) publishes shipments by
+port. Page fetched successfully 2026-09-10, no gate.**
+
+`https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/exportaciones/`
+→ **"Embarques — Exportaciones de Granos, Aceites y Subproductos"**, broken out
+**"Por Destino"** (by destination) and **"Por Puerto"** (by port).
+
+Monthly database portal, interannual 2021–2025 by month:
+`https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/_transporte-emb/ini_trans_emb.php`
+→ *"Base de Datos de Transporte y Embarque de Granos"*
+
+**Shipments by port is exactly the loading signal we want** — it is the Argentine analogue
+of the USDA Gulf/PNW vessel queue, and it maps straight onto up-river Panamax/Handy demand.
+Prefer it over the BCR press figures; use BCR (`bcr.com.ar` — *Informativo Semanal*,
+*Anuario Estadístico*, daily `boletin-mercado-granos-*.pdf`) as the cross-check.
 
 Also **USDA FAS GAIN reports** — free PDFs, predictable paths, e.g.
 `https://www.fas.usda.gov/data/gain-report/2026/07/Grain%20and%20Feed%20Update_Buenos%20Aires_Argentina_AR2026-0011.pdf`
@@ -357,6 +487,38 @@ Endpoint works; the pull was just too narrow (**124 rows, 2024-01 → 2026-07**)
 Re-run `POST https://api-comexstat.mdic.gov.br/general` for **201701 → current**, looping
 year by year if the window is capped, for NCM **2601** (iron ore), **1201** (soy),
 **1005** (corn), **1701** (sugar). Capture `metricKG` and `fobValue`.
+
+---
+
+---
+
+# VERIFICATION STATUS OF EVERY TARGET (be honest about what is proven)
+
+Verified **by execution** — endpoint called, response read, shape and limits recorded:
+
+| Target | Status |
+|---|---|
+| T1 Fearnpulse TS | ✅ fully characterised — spans, dead series, corrupt dates, the `last` limit |
+| Baltic indices taxonomy | ✅ 11 tables scraped, route codes + index formulas + vessel specs |
+| T5 chinadata.live | ✅ API executed; free tier is **value_usd only**, no tonnage |
+| T2 Guinea Mining Insights | ✅ fetched; plain HTML, 9 producers with tonnage, 4 with vessel counts |
+
+**Gated against the specifier's tools — NOT verified, treat as leads:**
+
+| Target | What happened |
+|---|---|
+| T3 Pilbara Ports | navigation denied (Incapsula) |
+| T4 USDA AMS GTR | **HTTP 403** on both the dataset page and the direct PDF |
+| T8 worldsteel | JS-rendered, empty body |
+| T9 UNCTADstat | JS-rendered, empty body |
+| T6 Indonesia BPS | ✅ **official Web API found** (`webapi.bps.go.id`) — needs a free key the operator must create; public HTML is 403 |
+| T7 Argentina | ✅ **MAGyP shipments-by-port page fetched, no gate** — better than BCR for our purpose |
+
+**These are exactly the cases for the escalation ladder in GUARDRAILS §0.66.** A 403 from a
+simple fetch says nothing about whether a real browser session with proper headers, or the
+XHR the page calls behind the scenes, will work. **Work the ladder — especially rung 4,
+DevTools → Network → Fetch/XHR.** Do not inherit "gated" as "unavailable"; the specifier's
+tooling is weaker than yours here, and that is the only thing these rows prove.
 
 ---
 

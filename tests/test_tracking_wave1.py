@@ -79,21 +79,23 @@ def test_chokepoint_summary_has_gc_roro_series():
 def test_tracking_frontend_markers():
     # Phase TU floor: the rebuilt surfaces are wired; the retired lineup stores
     # are fully gone.
+    # Prompt 13C §D7: Round 1 Prompt 01 (commit d21185f31) replaced the 57MB raw CSV with compiled data/views/port_calls_summary.json
     for marker in [
         "data/geospatial/portwatch_ports_master.csv",
         "data/congestion/portwatch_disruptions.csv",
         "data/geospatial/voyage_history_fixturegrounded.csv",
-        "data/congestion/port_calls_daily_expanded.csv",
+        "data/views/port_calls_summary.json",
         "loadExpandedPortCalls", "renderUniverseTable", "renderDisruptionFeed",
         "renderVesselTimeline", "setChokepointMetric('gencargo')",
         "setChokepointMetric('roro')",
     ]:
         assert marker in HTML, marker
+    # Prompt 14 §A1: DATA.portLineups retired
     for dead in [
         "chokepoint_sector_monthly.json", "chokepoint_sector_latest.json",
         "portwatch_latest_tonnage.json", "DATA.envelopeMatrix",
-        "portwatchTonnageByPort",
-        "DATA.portLineups", "DATA.vesselTrajectories", "DATA.voyageLegs",
+        "portwatchTonnageByPort", "DATA.portLineups",
+        "DATA.vesselTrajectories", "DATA.voyageLegs",
         "fetch('data/derived/vessel_leg_economics.json')",
     ]:
         assert dead not in HTML, f"dead store still wired: {dead}"

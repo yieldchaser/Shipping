@@ -1,0 +1,45 @@
+name: Monthly BPS Indonesia Coal Ingest
+
+on:
+  schedule:
+    # Run monthly on the 15th at 06:00 UTC
+    - cron: '0 6 15 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-bps:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run BPS Exim Ingest
+        env:
+          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}
+        run: |
+          python scripts/acquire/fetch_bps_exim.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/commodities/indonesia_coal_exports_monthly.csv data/commodities/indonesia_coal_ports_destinations.json data/provenance/manifest.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update Indonesia coal exports from BPS API [skip ci]"
+            git push
+          fi

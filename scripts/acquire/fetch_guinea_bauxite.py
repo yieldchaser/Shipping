@@ -93,6 +93,119 @@ def fetch_guinea_mining_insights_jan2026():
     return rows
 
 
+def fetch_guinea_mining_insights_data_hub():
+    """Prompt 13C §D4: Fetch and parse Guinea Mining Insights Data Hub plain HTML tables.
+    Restores annual_national (2015-2025), annual_company (2025), and annual_destination_share (2025).
+    """
+    url = "https://www.guineamininginsights.com/data-hub"
+    logging.info("Fetching data-hub tables from %s", url)
+
+    html = ""
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        if r.status_code == 200:
+            html = r.text
+            logging.info("Successfully fetched data-hub (HTTP 200, %d bytes)", len(html))
+    except Exception as e:
+        logging.warning("Live fetch failed for data-hub: %s. Checking cache...", e)
+
+    if not html:
+        # Fallback to citation cache if available
+        import hashlib
+        h = hashlib.sha256(url.encode("utf-8")).hexdigest()
+        cache_f = REPO_ROOT / "data" / ".cache_citations" / f"{h}.html"
+        if cache_f.exists():
+            html = cache_f.read_text(encoding="utf-8", errors="ignore")
+            logging.info("Using cached HTML for data-hub (%d bytes)", len(html))
+
+    if not html:
+        logging.error("No live or cached HTML available for data-hub.")
+        return []
+
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, "html.parser")
+    rows = []
+
+    # Table 1: Guinea Bauxite Export Growth (annual_national)
+    quote_growth = "Guinea Bauxite Export Growth View data table Data table for Chart Year Export Rate 2015 18 2016 20.9 2017 43 2018 54.15 2019 64.45 2020 82.4 2021 85.66 2022 103 2023 127 2024 145 2025 183"
+    quote_comp = "Bauxite Export per Company (2025) View data table Data table for Chart Category Export Rate per Company CBG 17.4 Chalco 22.1 SMB 70 AGB2A/SDM 17 GAC 16 CBK 3.1 Other 37.4"
+    quote_dest = "Top Export Destinations View data table Data table for Chart Label Value Slice 1 China, 72.1 Slice 2 Singapore, 10.3 Slice 3 UAE, 6.8 Slice 4 Malaysia, 4.1 Slice 5 Others, 6.7"
+
+    for t in soup.find_all("table"):
+        prev = t.find_previous(["h1", "h2", "h3"])
+        h_text = prev.get_text(strip=True) if prev else ""
+
+        if "Guinea Bauxite Export Growth" in h_text:
+            for tr in t.find_all("tr"):
+                cells = [c.get_text(strip=True) for c in tr.find_all(["td", "th"])]
+                if len(cells) == 2 and cells[0].isdigit():
+                    year = cells[0]
+                    rate_mt = float(cells[1])
+                    tonnes = rate_mt * 1_000_000.0
+                    rows.append({
+                        "date": f"{year}-12-31",
+                        "tonnes": tonnes,
+                        "vessels": "",
+                        "company": "National Total",
+                        "source_url": url,
+                        "publisher": "Guinea Mining Insights Data Hub / Ministry of Mines and Geology",
+                        "source_quote": quote_growth,
+                        "method": "Ministry-reported (Direct Republisher)",
+                        "import_volume_t": tonnes,
+                        "avg_cif_usd_t": "",
+                        "granularity": "annual_national",
+                    })
+
+        elif "Bauxite Export per Company" in h_text:
+            for tr in t.find_all("tr"):
+                cells = [c.get_text(strip=True) for c in tr.find_all(["td", "th"])]
+                if len(cells) == 2 and cells[0] not in ["Category", "Total"]:
+                    comp = cells[0]
+                    try:
+                        rate_mt = float(cells[1])
+                        tonnes = rate_mt * 1_000_000.0
+                        rows.append({
+                            "date": "2025-12-31",
+                            "tonnes": tonnes,
+                            "vessels": "",
+                            "company": comp,
+                            "source_url": url,
+                            "publisher": "Guinea Mining Insights Data Hub / Ministry of Mines and Geology",
+                            "source_quote": quote_comp,
+                            "method": "Ministry-reported (Direct Republisher)",
+                            "import_volume_t": tonnes,
+                            "avg_cif_usd_t": "",
+                            "granularity": "annual_company",
+                        })
+                    except ValueError:
+                        pass
+
+        elif "Top Export Destinations" in h_text:
+            for tr in t.find_all("tr"):
+                cells = [c.get_text(strip=True) for c in tr.find_all(["td", "th"])]
+                if len(cells) == 2 and "Slice" in cells[0]:
+                    val_parts = cells[1].split(",")
+                    if len(val_parts) == 2:
+                        dest = val_parts[0].strip()
+                        pct = float(val_parts[1].strip())
+                        rows.append({
+                            "date": "2025-12-31",
+                            "tonnes": pct,
+                            "vessels": "",
+                            "company": dest,
+                            "source_url": url,
+                            "publisher": "Guinea Mining Insights Data Hub / Ministry of Mines and Geology",
+                            "source_quote": quote_dest,
+                            "method": "Ministry-reported (Direct Republisher)",
+                            "import_volume_t": pct,
+                            "avg_cif_usd_t": "",
+                            "granularity": "annual_destination_share",
+                        })
+
+    logging.info("Extracted %d rows from data-hub tables.", len(rows))
+    return rows
+
+
 def fetch_comtrade_bauxite_mirror():
     """Fetch Chinese imports of Guinean bauxite (Reporter: 156, Partner: 324, HS 260600) via strict select_total."""
     rows = []
@@ -133,13 +246,121 @@ def fetch_comtrade_bauxite_mirror():
     return rows
 
 
+def fetch_ministry_national_articles():
+    """National quarterly and half-year totals reported by Reuters from Guinea Ministry of Mines releases."""
+    return [
+        {
+            "date": "2025-06-30",
+            "tonnes": 99800000.0,
+            "vessels": "",
+            "company": "National Total (H1 2025)",
+            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
+            "publisher": "Reuters / Mining Weekly",
+            "source_quote": "Guinea, the world's largest bauxite exporter, shipped 114.8-million metric tons of the material between January and June, up from 99.8-million tons a year earlier, according to mines ministry data seen by Reuters",
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": 99800000.0,
+            "avg_cif_usd_t": "",
+            "granularity": "quarterly_national",
+        },
+        {
+            "date": "2025-06-30",
+            "tonnes": 51200000.0,
+            "vessels": "",
+            "company": "National Total (Q2 2025)",
+            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
+            "publisher": "Reuters / Mining Weekly",
+            "source_quote": "Second-quarter exports rose 5.3% year-on-year to 53.9-million tons from 51.2-million tons in the same period of 2025.",
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": 51200000.0,
+            "avg_cif_usd_t": "",
+            "granularity": "quarterly_national",
+        },
+        {
+            "date": "2025-09-30",
+            "tonnes": 39410000.0,
+            "vessels": "",
+            "company": "National Total (Q3 2025)",
+            "source_url": "https://www.mining-technology.com/news/guinea-bauxite-exports-surge-q3/",
+            "publisher": "Reuters / Mining Technology",
+            "source_quote": "As per the Ministry of Mines and Geology, the country's shipments of the vital aluminium ore totalled 39.41 million tonnes (mt), an increase from 32mt in the same period the previous year, reported Reuters.",
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": 39410000.0,
+            "avg_cif_usd_t": "",
+            "granularity": "quarterly_national",
+        },
+        {
+            "date": "2025-12-31",
+            "tonnes": 84000000.0,
+            "vessels": "",
+            "company": "National Total (H2 2025)",
+            "source_url": "https://www.miningweekly.com/article/guineas-bauxite-exports-jump-25-to-183-million-tons-in-2025-on-chinese-demand-2026-01-26",
+            "publisher": "Reuters / Mining Weekly",
+            "source_quote": "Exports slowed in the second half, but rose 16% to 84-million tons.",
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": 84000000.0,
+            "avg_cif_usd_t": "",
+            "granularity": "quarterly_national",
+        },
+        {
+            "date": "2025-12-31",
+            "tonnes": 182800000.0,
+            "vessels": "",
+            "company": "National Total (FY 2025)",
+            "source_url": "https://www.miningweekly.com/article/guineas-bauxite-exports-jump-25-to-183-million-tons-in-2025-on-chinese-demand-2026-01-26",
+            "publisher": "Reuters / Mining Weekly",
+            "source_quote": "Guinea's bauxite exports rose 25% in 2025 to 182.8-million metric tons, official data seen by Reuters showed, cementing its dominance in aluminium ore supply.",
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": 182800000.0,
+            "avg_cif_usd_t": "",
+            "granularity": "annual_national",
+        },
+        {
+            "date": "2026-06-30",
+            "tonnes": 114800000.0,
+            "vessels": "",
+            "company": "National Total (H1 2026)",
+            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
+            "publisher": "Reuters / Mining Weekly",
+            "source_quote": "Guinea, the world's largest bauxite exporter, shipped 114.8-million metric tons of the material between January and June, up from 99.8-million tons a year earlier, according to mines ministry data seen by Reuters",
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": 114800000.0,
+            "avg_cif_usd_t": "",
+            "granularity": "quarterly_national",
+        },
+        {
+            "date": "2026-06-30",
+            "tonnes": 53900000.0,
+            "vessels": "",
+            "company": "National Total (Q2 2026)",
+            "source_url": "https://www.miningweekly.com/article/guinea-first-half-bauxite-exports-hit-record-high-on-chinese-demand-2026-07-23",
+            "publisher": "Reuters / Mining Weekly",
+            "source_quote": "Second-quarter exports rose 5.3% year-on-year to 53.9-million tons from 51.2-million tons in the same period of 2025.",
+            "method": "Official Guinea Ministry of Mines release reported by Reuters",
+            "import_volume_t": 53900000.0,
+            "avg_cif_usd_t": "",
+            "granularity": "quarterly_national",
+        },
+    ]
+
+
 def build_guinea_dataset():
     logging.info("Starting Guinea bauxite data compilation...")
-    jan_rows = fetch_guinea_mining_insights_jan2026()
-    comtrade_rows = fetch_comtrade_bauxite_mirror()
+    existing_df = pd.read_csv(OUT_FILE) if OUT_FILE.exists() else pd.DataFrame()
+    
+    # Preserve existing verified mirror and GMI rows if already present on disk
+    if not existing_df.empty and len(existing_df) >= 130:
+        base_rows = existing_df.to_dict(orient="records")
+    else:
+        jan_rows = fetch_guinea_mining_insights_jan2026()
+        data_hub_rows = fetch_guinea_mining_insights_data_hub()
+        comtrade_rows = fetch_comtrade_bauxite_mirror()
+        base_rows = jan_rows + data_hub_rows + comtrade_rows
 
-    all_rows = jan_rows + comtrade_rows
+    national_article_rows = fetch_ministry_national_articles()
+
+    all_rows = base_rows + national_article_rows
     df = pd.DataFrame(all_rows)
+    df.drop_duplicates(subset=["date", "company", "source_url"], inplace=True)
 
     df.sort_values(by=["date", "granularity", "company"], inplace=True)
     df.to_csv(OUT_FILE, index=False)
@@ -180,13 +401,15 @@ def update_manifest(row_count, min_date, max_date):
         ),
     }
 
-    existing = next((e for e in series_list if e.get("series_id") == series_id), None)
-    if existing:
-        existing.update(entry_data)
-    else:
-        series_list.append(entry_data)
+    for section in ["series", "datasets"]:
+        if section in manifest:
+            sec_list = manifest[section]
+            existing = next((e for e in sec_list if e.get("series_id") == series_id or e.get("output_file") == entry_data["output_file"]), None)
+            if existing:
+                existing.update(entry_data)
+            else:
+                sec_list.append(entry_data)
 
-    manifest["datasets"] = series_list
     with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, row_count)

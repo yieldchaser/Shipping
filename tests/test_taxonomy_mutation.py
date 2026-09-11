@@ -53,3 +53,18 @@ def test_mutation_s1c_to_s1b_fails():
     with pytest.raises(AssertionError) as exc_info:
         check_taxonomy_coherence(mutated)
     assert "S1C" in str(exc_info.value) or "tsid_120129" in str(exc_info.value) or "S1B" in str(exc_info.value)
+
+def test_mutation_s4a_s4b_swap_fails():
+    """Mutation 6: Swapping S4A and S4B (the 13B bug) must fail coherence check."""
+    headers, _ = load_data()
+    mutated = []
+    for h in headers:
+        if "tsid_120132" in h:
+            mutated.append(h.replace("(S4A)", "(S4B)"))
+        elif "tsid_120133" in h:
+            mutated.append(h.replace("(S4B)", "(S4A)"))
+        else:
+            mutated.append(h)
+    with pytest.raises(AssertionError) as exc_info:
+        check_taxonomy_coherence(mutated)
+    assert "S4A" in str(exc_info.value) or "S4B" in str(exc_info.value)

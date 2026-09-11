@@ -40,7 +40,7 @@ import subprocess
 import sys
 import time
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -51,6 +51,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATA_DIR = ROOT / "data" / "commodities"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "australia_ppa_iron_ore.csv"
+MANIFEST_FILE = ROOT / "data" / "provenance" / "manifest.json"
 SCRATCH = ROOT / "scratch"
 
 CTX = ssl.create_default_context()
@@ -75,6 +76,135 @@ DAMPIER_SOURCES = [
 DAMPIER_MONTHS = {"JULY": 7, "AUGUST": 8, "SEPTEMBER": 9, "OCTOBER": 10,
                   "NOVEMBER": 11, "DECEMBER": 12, "JANUARY": 1, "FEBRUARY": 2,
                   "MARCH": 3, "APRIL": 4, "MAY": 5, "JUNE": 6}
+
+
+# --- Port Hedland live sources (2024-06 to 2026-07; direct PDF media links on pilbaraports.com.au) ---
+# Supports standard pattern:
+# cargo%20by%20destination/{yyyy}/cargo-stats-by-destination_origin_{month}{yyyy}.pdf
+HEDLAND_LIVE_SOURCES = [
+    # 2024
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2024/cargo-stats-by-destination_origin-july.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2024/cargo-stats-by-destination_origin_june.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2024/cargo-stats-by-destination_origin_august.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2024/cargo-stats-by-destination_origin_september.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2024/cargo-stats-by-destination_origin-october.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2024/cargo-stats-by-destination_origin-november-2024.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2024/cargo-stats-by-destination_origin-december.pdf",
+    # 2025
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_february2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_1.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_april.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_may2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/cargo-stats-by-destination_origin_june2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_july2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_aug2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_september2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_october2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_november-2025.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2025/cargo-stats-by-destination_origin_december2025.pdf",
+    # 2026
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2026/cargo-stats-by-destination_origin_january2026.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2026/cargo-stats-by-destination_origin-february2026.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/cargo-stats-by-destination_origin_march2026.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2026/cargo-stats-by-destination_origin_april2026.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2026/cargo-stats-by-destination_origin_may2026.pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2026/20260728_cargo-stats-by-destination_origin-(1).pdf",
+    "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/port%20statistics%20and%20reports/cargo%20by%20destination/2026/cargo-stats-by-destination_origin_july2026.pdf",
+]
+
+
+def generate_destination_pattern_urls() -> list[str]:
+    """Generates standard cargo-by-destination URLs from 2024 to current year."""
+    months = ["january", "february", "march", "april", "may", "june",
+              "july", "august", "september", "october", "november", "december"]
+    base = ("https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/"
+            "port%20of%20port%20hedland/about%20the%20port%20of%20port%20hedland/"
+            "port%20statistics%20and%20reports/cargo%20by%20destination")
+    urls = []
+    for y in range(2024, 2027):
+        for m in months:
+            urls.append(f"{base}/{y}/cargo-stats-by-destination_origin_{m}{y}.pdf")
+            urls.append(f"{base}/{y}/cargo-stats-by-destination_origin-{m}{y}.pdf")
+            urls.append(f"{base}/{y}/cargo-stats-by-destination_origin_{m}.pdf")
+            urls.append(f"{base}/{y}/cargo-stats-by-destination_origin-{m}.pdf")
+    return urls
+
+
+def fetch_hedland_live() -> list[dict]:
+    """Download and parse live Port Hedland destination PDFs from PPA website.
+
+    Extracts monthly Iron Ore LOAD tonnage and destination breakdown for 2024-06 to 2026-07.
+    Uses Playwright to solve Incapsula challenge if direct download encounters bot-wall.
+    """
+    SCRATCH.mkdir(exist_ok=True)
+    out: list[dict] = []
+    need_fetch: list[tuple[str, Path]] = []
+
+    # Merge explicit known URLs with pattern-based discovery
+    candidate_urls = list(dict.fromkeys(HEDLAND_LIVE_SOURCES + generate_destination_pattern_urls()))
+
+    for url in candidate_urls:
+        safe = re.sub(r"[^a-z0-9]+", "_", url.lower().rsplit("/", 1)[-1])[:60]
+        dest = SCRATCH / f"live_ppa_{safe}.pdf"
+        if dest.exists() and dest.stat().st_size > 5000:
+            try:
+                head = dest.read_bytes()[:500]
+                if b"%PDF" in head:
+                    m, load, split = parse_pdf(dest)
+                    if m and load:
+                        out.append({
+                            "date": m.strftime("%Y-%m-%d"),
+                            "port": "Port Hedland",
+                            "total_throughput_mt": round(load / 1e6, 3),
+                            "iron_ore_exports_mt": round(load / 1e6, 3),
+                            "destinations_t": json.dumps(split, sort_keys=True),
+                            "provenance": "live_ppa_archive",
+                        })
+                        continue
+            except Exception:
+                pass
+        # Only fetch explicit live sources or files not yet evaluated
+        if url in HEDLAND_LIVE_SOURCES:
+            need_fetch.append((url, dest))
+
+    if need_fetch:
+        logging.info("Fetching %d live Port Hedland PDFs via Playwright...", len(need_fetch))
+        try:
+            from playwright.sync_api import sync_playwright
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                context = browser.new_context(
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+                )
+                page = context.new_page()
+                page.goto("https://www.pilbaraports.com.au/port-of-port-hedland/port-statistics", timeout=30000)
+                page.wait_for_timeout(2000)
+
+                for url, dest in need_fetch:
+                    try:
+                        resp = page.request.get(url)
+                        body = resp.body()
+                        if resp.status == 200 and len(body) > 5000 and body.startswith(b"%PDF"):
+                            dest.write_bytes(body)
+                            m, load, split = parse_pdf(dest)
+                            if m and load:
+                                out.append({
+                                    "date": m.strftime("%Y-%m-%d"),
+                                    "port": "Port Hedland",
+                                    "total_throughput_mt": round(load / 1e6, 3),
+                                    "iron_ore_exports_mt": round(load / 1e6, 3),
+                                    "destinations_t": json.dumps(split, sort_keys=True),
+                                    "provenance": "live_ppa_archive",
+                                })
+                                logging.info("Hedland live %s: %.3f Mt (%d dests)", m.strftime("%Y-%m"), load / 1e6, len(split))
+                    except Exception as e:
+                        logging.warning("Failed live fetch for %s: %s", url, e)
+                browser.close()
+        except Exception as e:
+            logging.warning("Playwright live fetch failed: %s", e)
+
+    return sorted({r["date"]: r for r in out}.values(), key=lambda r: r["date"])
 
 
 def cdx_hedland_pdfs(retries: int = 4) -> list[dict]:
@@ -528,24 +658,32 @@ def main() -> pd.DataFrame:
             })
             logging.info("%s  %.2f Mt (%d destinations)", month.strftime("%Y-%m"),
                          load / 1e6, len(split))
-    if not records:
+
+    prev = pd.read_csv(OUT_FILE, dtype=str) if OUT_FILE.exists() else pd.DataFrame()
+    prev_hed = prev[prev["port"] == "Port Hedland"] if not prev.empty else pd.DataFrame()
+    prev_damp = prev[prev["port"].str.contains("Dampier", na=False)] if not prev.empty else pd.DataFrame()
+
+    live_hed_rows = fetch_hedland_live()
+    live_hed = pd.DataFrame(live_hed_rows) if live_hed_rows else pd.DataFrame()
+
+    hed_frames = []
+    if not prev_hed.empty:
+        hed_frames.append(prev_hed)
+    if records:
+        hed_frames.append(pd.DataFrame(records))
+    if not live_hed.empty:
+        hed_frames.append(live_hed)
+
+    if not hed_frames:
         raise SystemExit("Parsed zero real PPA months — layout changed? Nothing written.")
 
-    hed = pd.DataFrame(records).drop_duplicates("date").sort_values("date").reset_index(drop=True)
+    hed = pd.concat(hed_frames, ignore_index=True)
+    hed = hed.drop_duplicates(subset=["date"], keep="last").sort_values("date").reset_index(drop=True)
     hed["port"] = "Port Hedland"
     hed["provenance"] = "live_ppa_archive"
 
     # --- Dampier: fresh live rows upserted over previously committed ones ---
     damp_fresh = pd.DataFrame(fetch_dampier_live())
-    if OUT_FILE.exists():
-        try:
-            prev = pd.read_csv(OUT_FILE, dtype=str)
-            prev_damp = prev[prev["port"].str.contains("Dampier", na=False)]
-        except Exception as exc:  # noqa: BLE001
-            logging.warning("Could not read existing CSV for Dampier upsert: %s", exc)
-            prev_damp = pd.DataFrame()
-    else:
-        prev_damp = pd.DataFrame()
     if damp_fresh.empty:
         logging.warning("No fresh Dampier rows — keeping %d committed Dampier rows",
                         len(prev_damp))
@@ -573,7 +711,33 @@ def main() -> pd.DataFrame:
     df.to_csv(OUT_FILE, index=False)
     span = f"{df['date'].min()} .. {df['date'].max()}"
     logging.info("Wrote %d REAL PPA rows (%s) -> %s", len(df), span, OUT_FILE.name)
+
+    update_manifest(df)
     return df
+
+
+def update_manifest(df: pd.DataFrame):
+    if not MANIFEST_FILE.exists():
+        return
+    with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
+        manifest = json.load(f)
+
+    now_iso = datetime.now(timezone.utc).isoformat()
+    damp_df = df[df["port"].str.contains("Dampier", na=False)]
+
+    for sec in ["series", "datasets"]:
+        if sec in manifest:
+            for item in manifest[sec]:
+                s_id = item.get("series_id")
+                if s_id in ("commodities_australia_ppa_iron_ore", "commodities_australia_ppa_dampier_throughput"):
+                    item["row_count"] = len(df)
+                    item["date_span"] = [df["date"].min(), df["date"].max()]
+                    item["last_fetched_utc"] = now_iso
+
+    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, indent=2)
+    logging.info("Updated manifest.json with australia_ppa_iron_ore (%d rows, %s -> %s)",
+                 len(df), df["date"].min(), df["date"].max())
 
 
 if __name__ == "__main__":

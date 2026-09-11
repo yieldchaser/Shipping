@@ -110,36 +110,36 @@ CANONICAL_MAP = {
         "notes": "Rates $15k-$110k/day. Far exceeds standard Handy 1Y TC ($14.5k/day); represents high-spec asset or VLGC."
     },
     303: {
-        "label": "380 CST Bunker Price (Singapore)",
-        "class": "Bunkers",
-        "route_code": None,
-        "unit": "usd/tonne",
-        "header": "380 CST Bunker Price (Singapore) [usd/tonne] (tsid_303)",
-        "notes": "Singapore HSFO 380 CST spot price in USD/MT."
-    },
-    304: {
-        "label": "MGO Bunker Price (Singapore)",
-        "class": "Bunkers",
-        "route_code": None,
-        "unit": "usd/tonne",
-        "header": "MGO Bunker Price (Singapore) [usd/tonne] (tsid_304)",
-        "notes": "Singapore Marine Gas Oil spot price in USD/MT."
-    },
-    306: {
         "label": "380 CST Bunker Price (Rotterdam)",
         "class": "Bunkers",
         "route_code": None,
         "unit": "usd/tonne",
-        "header": "380 CST Bunker Price (Rotterdam) [usd/tonne] (tsid_306)",
+        "header": "380 CST Bunker Price (Rotterdam) [usd/tonne] (tsid_303)",
         "notes": "Rotterdam HSFO 380 CST spot price in USD/MT."
     },
-    307: {
+    304: {
         "label": "MGO Bunker Price (Rotterdam)",
         "class": "Bunkers",
         "route_code": None,
         "unit": "usd/tonne",
-        "header": "MGO Bunker Price (Rotterdam) [usd/tonne] (tsid_307)",
+        "header": "MGO Bunker Price (Rotterdam) [usd/tonne] (tsid_304)",
         "notes": "Rotterdam Marine Gas Oil spot price in USD/MT."
+    },
+    306: {
+        "label": "380 CST Bunker Price (Singapore)",
+        "class": "Bunkers",
+        "route_code": None,
+        "unit": "usd/tonne",
+        "header": "380 CST Bunker Price (Singapore) [usd/tonne] (tsid_306)",
+        "notes": "Singapore HSFO 380 CST spot price in USD/MT."
+    },
+    307: {
+        "label": "MGO Bunker Price (Singapore)",
+        "class": "Bunkers",
+        "route_code": None,
+        "unit": "usd/tonne",
+        "header": "MGO Bunker Price (Singapore) [usd/tonne] (tsid_307)",
+        "notes": "Singapore Marine Gas Oil spot price in USD/MT."
     },
     316: {
         "label": "Commodity Prices (Brent Crude)",
@@ -254,20 +254,20 @@ CANONICAL_MAP = {
         "notes": "Baltic S1C US Gulf to China-Japan. Rate range $18.8k-$33.8k/day (median $28.4k). Corrected from mislabelled Panamax."
     },
     120132: {
-        "label": "Supramax Transatlantic RV Delivery Cont (S4B)",
-        "class": "Supramax",
-        "route_code": "S4B",
-        "unit": "usd/day",
-        "header": "Supramax Transatlantic RV Delivery Cont (S4B) [usd/day] (tsid_120132)",
-        "notes": "Baltic S4B Skaw-Passero trip to US Gulf (delivery Continent). Rate range $17.7k-$34.8k/day. Corrected from mislabelled Panamax and shifted S1B code."
-    },
-    120133: {
         "label": "Supramax Transatlantic RV Delivery USG (S4A)",
         "class": "Supramax",
         "route_code": "S4A",
         "unit": "usd/day",
-        "header": "Supramax Transatlantic RV Delivery USG (S4A) [usd/day] (tsid_120133)",
-        "notes": "Baltic S4A US Gulf trip to Skaw-Passero (delivery USG). Rate range $9.6k-$16.6k/day. Corrected from mislabelled Panamax and shifted S4B code."
+        "header": "Supramax Transatlantic RV Delivery USG (S4A) [usd/day] (tsid_120132)",
+        "notes": "Baltic S4A US Gulf trip to Skaw-Passero (delivery USG). Peaked over 40kpd late 2023 (max 41,214), 34,757 on 2025-10-01."
+    },
+    120133: {
+        "label": "Supramax Transatlantic RV Delivery Cont (S4B)",
+        "class": "Supramax",
+        "route_code": "S4B",
+        "unit": "usd/day",
+        "header": "Supramax Transatlantic RV Delivery Cont (S4B) [usd/day] (tsid_120133)",
+        "notes": "Baltic S4B Skaw-Passero trip to US Gulf (delivery Continent). Max 20,675, 15,132 on 2025-10-01."
     },
     120137: {
         "label": "Supramax South China - Indonesia RV (S10)",

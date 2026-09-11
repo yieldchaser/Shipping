@@ -37,9 +37,9 @@ def test_chokepoint_selector_covers_all_28():
 
 def test_hormuz_harvest_coverage_note():
     # honest data note: PortWatch harvest under-covers Hormuz; flagged in-panel
+    # Prompt 13C §D7: Round 1 Phase 5.6 (commit 36efc9df2) modernized PORTWATCH_HORMUZ_NOTE from internal pipeline jargon to professional market coverage wording
     assert "PORTWATCH_HORMUZ_NOTE" in HTML
-    assert "harvest coverage limitation" in HTML
-    assert "diagnostic only" in HTML
+    assert "Strait of Hormuz reporting reflects monitored AIS corridor gates" in HTML
     assert "strait_hormuz" in HTML  # keyed to the Hormuz chokepoint id
     d = json.load(open(ROOT / "data" / "congestion" / "chokepoint_geo_summary.json", encoding="utf-8"))
     horm = next(c for c in d["chokepoints"] if c["id"] == "strait_hormuz")

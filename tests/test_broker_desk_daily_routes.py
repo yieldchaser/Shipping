@@ -540,10 +540,11 @@ def test_real_cache_series_split_zero_frozen_live():
         st = js_badge_state(s)
         {"zero": zero, "frozen": frozen, "live": live}[st].append(k)
     # measured Phase 2b reality: 126 series = 39 all-zero + 8 frozen-real + 79 live
+    # Prompt 13C §D7: Round 1 Phase 4.2 integrated 9 Gibson tanker benchmark routes (79 -> 88 live, 126 -> 135 total)
     assert len(zero) == 39
     assert len(frozen) == 8
-    assert len(live) == 79
-    assert len(zero) + len(frozen) + len(live) == len(real["series"]) == 126
+    assert len(live) == 88
+    assert len(zero) + len(frozen) + len(live) == len(real["series"]) == 135
     # FROZEN badge only ever lands on series with real values that stopped
     # before the live window (the 2023-05 taxonomy-switch tce twins)
     for k in frozen:

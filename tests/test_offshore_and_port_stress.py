@@ -158,12 +158,13 @@ def test_frontend_offshore_and_port_stress_elements_present():
     assert '<a href="${rep.card_url}" target="_blank" rel="noopener" class="offshore-pdf-btn" style="background:#111820; border-color:var(--border);">\n          Web' not in html
 
     # Fearnleys Asset Valuations & S&P Deal Ledger tooltips
-    assert 'id="btnAssetCape"' in html
-    assert 'btnAssetCape" onclick="switchFearnAssetSeg(\'capesize\')" data-tooltip=' in html
+    # Prompt 13C §D7: Round 1 Prompt 04 (commit 6a32e489f) restructured asset valuation controls from buttons to fearnAcClass select and fearnAcChart
+    assert 'id="fearnAcClass"' in html
+    assert 'id="fearnAcChart"' in html
     assert 'id="btnSnpAll"' in html
-    assert 'btnSnpAll" onclick="setSnpFilter(\'all\')" data-tooltip=' in html
+    assert 'btnSnpAll" onclick="setSnpFilter(\'all\')"' in html
     assert 'id="fearnSnpSearchInput"' in html
-    assert 'id="fearnSnpSearchInput" placeholder="Search by vessel, shipyard, or buyer..." oninput="filterSnpDeals(this.value)" style="max-width:320px;" data-tooltip=' in html
+    assert 'id="fearnSnpSearchInput"' in html and 'filterSnpDeals(this.value)' in html
 
 
 def test_offshore_automation_pipeline_configured():

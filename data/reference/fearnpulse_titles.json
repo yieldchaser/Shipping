@@ -1,0 +1,141 @@
+{
+  "120655": {
+    "title": "TCE Cont/Far East",
+    "section": "Capesize",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "10002": {
+    "title": "Australia/China",
+    "section": "Capesize",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "120654": {
+    "title": "Pacific RV",
+    "section": "Capesize",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "10010": {
+    "title": "Transatlantic RV",
+    "section": "Panamax",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "10011": {
+    "title": "TCE Cont/Far East",
+    "section": "Panamax",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "10013": {
+    "title": "TCE Far East/Cont",
+    "section": "Panamax",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "10012": {
+    "title": "TCE Far East RV",
+    "section": "Panamax",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "120132": {
+    "title": "Transatlantic RV",
+    "section": "Supramax",
+    "paired_with": 120133,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "120133": {
+    "title": "Transatlantic RV",
+    "section": "Supramax",
+    "paired_with": 120132,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "120129": {
+    "title": "US Gulf - China/South Japan",
+    "section": "Supramax",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "120137": {
+    "title": "South China - Indonesia RV",
+    "section": "Supramax",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "11323": {
+    "title": "Baltic Dry Index (BDI)",
+    "section": "Supramax",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "5000": {
+    "title": "USD/JPY",
+    "section": "Exchange Rates",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "5": {
+    "title": "USD/JPY",
+    "section": "Exchange Rates",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js",
+    "notes": "Wired as 5e3 (5000) in Fearnpulse Next.js bundle for USD/JPY"
+  },
+  "5002": {
+    "title": "USD/NOK",
+    "section": "Exchange Rates",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "5001": {
+    "title": "USD/KRW",
+    "section": "Exchange Rates",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "5003": {
+    "title": "EUR/USD",
+    "section": "Exchange Rates",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "12100": {
+    "title": "SOFR USD (Overnight)",
+    "section": "Interest Rates",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "316": {
+    "title": "Brent Spot",
+    "section": "Commodity Prices",
+    "paired_with": null,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "306": {
+    "title": "380 CST",
+    "section": "Singapore",
+    "paired_with": 307,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "307": {
+    "title": "MGO",
+    "section": "Singapore",
+    "paired_with": 306,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "303": {
+    "title": "380 CST",
+    "section": "Rotterdam",
+    "paired_with": 304,
+    "source_chunk": "464c7adb14c56897.js"
+  },
+  "304": {
+    "title": "MGO",
+    "section": "Rotterdam",
+    "paired_with": 303,
+    "source_chunk": "464c7adb14c56897.js"
+  }
+}

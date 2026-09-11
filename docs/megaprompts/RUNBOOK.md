@@ -125,6 +125,33 @@ grep -n "_quarantine" index.html
 
 ---
 
+---
+
+## ROUND 2 — after prompts 01–09 shipped (HEAD `3820c1a47`)
+
+An independent audit of the shipped work produced four more prompts. **Run them in this
+order — the numbering is not the running order:**
+
+| Run | File | Why this order |
+|---|---|---|
+| 1st | `13-scraper-targets.md` | ✅ **Done** (2026-09-11). Get the data first. Target 1 alone (one URL parameter) unlocked 28 years of C3 and 27 of C5. (BDI was already held from 1985 — Fearnpulse is cross-validation only.) |
+| 1b | `13B-prompt13-corrections.md` | ✅ **Done** (2026-09-11, HEAD `637bc180a`). Fixed fabricated Pilbara rows, dead Guinea citations, the Comtrade parser bug, the fleet table, the taxonomy test and the detector allowlist. |
+| 1c | `13C-prompt13B-followups.md` | ✅ **Done** (2026-09-11, staged, uncommitted). Full suite 249 green; S4A/S4B, Guinea, Brazil gaps fixed. |
+| **1d** | **`14-ship-round2-to-screen.md`** | **Run next.** Round 2's seven new datasets are on disk but **none are on screen**. Puts them into Cargo and Broker Desk, loads Hedland, gets China customs tonnage, and removes the synthesized port queues and the bunker port swap. (Replaces the withdrawn 13D, which was mostly audit hygiene with nothing visible.) |
+| 2nd | `10-data-currency-and-truth-in-labelling.md` | Adds computed `data_through` / `staleness_state`, which is what makes Target 1's gains measurable and stops "LIVE" meaning "we ran the script". |
+| 3rd | `12-tooltips-and-view-layer.md` | Finishes the two half-built systems. |
+| — | `11-acquisition-round-2.md` | **Mostly superseded by 13.** Only Job B (Brazil) and Job F (minor bulks) remain, and both are folded into 13 as Targets 11 and 10. Skip unless you want the redundancy. |
+
+Known corrections carried into those prompts, so the agent does not re-inherit them:
+- Fearnleys tsIds **1, 2, 3, 5, 6, 7, 8, 9 are dead since 2023-05-22**; tsId 4 is alive.
+  Earlier specs wrongly said the tanker columns run 2018→2026.
+- The Barchart suggestion for C3 history is **retracted** — the cited symbol is an expired
+  contract and the site is bot-protected. Fearnpulse supersedes it.
+- `signal_map_ports_master.json` is byte-identical to the LNG file (silent fetch failure).
+- Row counts in all prompts are 2026-09-10 snapshots; re-measure, never hardcode.
+
+---
+
 ## Starting a fresh agent that only knows the repo
 
 If your agent has general familiarity with the repo but has not seen this work, give it

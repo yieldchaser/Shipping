@@ -11,6 +11,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2017-02-01,2017,2,Soybeans,12011000+12019000,3509447.63,1404183305.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2017-03-01,2017,3,Corn,10059010,243003.73,42999958.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2017-03-01,2017,3,Crude Oil,27090010,4003034.31,1311569792.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2017-03-01,2017,3,Iron Ore,26011100,160657.42,2051418773.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2017-03-01,2017,3,Raw Sugar,17011300+17011400,1144475.64,510969026.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2017-03-01,2017,3,Soybeans,12011000+12019000,8979121.57,3534057617.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2017-04-01,2017,4,Corn,10059010,154750.15,27086434.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -38,6 +39,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2017-08-01,2017,8,Iron Ore,26011100,31577855.2,1143293035.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2017-08-01,2017,8,Raw Sugar,17011300+17011400,2160408.88,797723079.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2017-08-01,2017,8,Soybeans,12011000+12019000,5952408.45,2236097286.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
+2017-09-01,2017,9,Corn,10059010,350743.96,915591403.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2017-09-01,2017,9,Crude Oil,27090010,3966399.5,1224510541.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2017-09-01,2017,9,Iron Ore,26011100,29070376.0,1365642781.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2017-09-01,2017,9,Raw Sugar,17011300+17011400,2947261.92,1056099420.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
@@ -66,7 +68,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2018-02-01,2018,2,Crude Oil,27090010,3635912.3,1526352825.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2018-02-01,2018,2,Iron Ore,26011100,21732255.37,1066960261.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2018-02-01,2018,2,Raw Sugar,17011300+17011400,1050782.65,361644647.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
-2018-02-01,2018,2,Soybeans,12011000+12019000,0.05,50.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
+2018-02-01,2018,2,Soybeans,12011000+12019000,2864252.69,1093260308.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2018-03-01,2018,3,Corn,10059010,605266.84,105424582.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2018-03-01,2018,3,Crude Oil,27090010,4144788.2,1697297641.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2018-03-01,2018,3,Iron Ore,26011100,27131763.89,1416135880.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
@@ -141,18 +143,20 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2019-05-01,2019,5,Crude Oil,27090010,4830834.73,2161957586.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2019-05-01,2019,5,Iron Ore,26011100,28833005.38,1840883737.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2019-05-01,2019,5,Raw Sugar,17011300+17011400,1375255.89,398113096.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
-2019-05-01,2019,5,Soybeans,12011000+12019000,649.32,938916.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
+2019-05-01,2019,5,Soybeans,12011000+12019000,10011989.3,3403863079.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2019-06-01,2019,6,Corn,10059010,1193934.73,203227406.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2019-06-01,2019,6,Crude Oil,27090010,3619017.5,1580083571.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2019-06-01,2019,6,Iron Ore,26011100,28484921.43,1942895457.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2019-06-01,2019,6,Raw Sugar,17011300+17011400,1378299.77,391999883.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
-2019-06-01,2019,6,Soybeans,12011000+12019000,21.51,15129.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
+2019-06-01,2019,6,Soybeans,12011000+12019000,8552664.81,2883859212.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2019-07-01,2019,7,Corn,10059010,5925535.69,1016955506.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2019-07-01,2019,7,Crude Oil,27090010,3767517.38,1557812852.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2019-07-01,2019,7,Iron Ore,26011100,32467100.12,2370368254.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2019-07-01,2019,7,Raw Sugar,17011300+17011400,1695177.01,482380006.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
-2019-07-01,2019,7,Soybeans,12011000+12019000,108.44,162294.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
+2019-07-01,2019,7,Soybeans,12011000+12019000,7443444.3,2598549629.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2019-08-01,2019,8,Corn,10059010,7319731.18,1242429353.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
+2019-08-01,2019,8,Crude Oil,27090010,4763531.5,1902416970.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
+2019-08-01,2019,8,Iron Ore,26011100,31204502.1,2507353952.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2019-08-01,2019,8,Raw Sugar,17011300+17011400,1428028.25,405469881.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2019-08-01,2019,8,Soybeans,12011000+12019000,5004321.28,1764063287.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2019-09-01,2019,9,Corn,10059010,6438751.03,1057067620.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -171,6 +175,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2019-11-01,2019,11,Raw Sugar,17011300+17011400,1671398.15,469923952.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2019-11-01,2019,11,Soybeans,12011000+12019000,4947362.75,1807969298.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2019-12-01,2019,12,Corn,10059010,4159992.36,708101929.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
+2019-12-01,2019,12,Crude Oil,27090010,8539669.2,3203100988.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2019-12-01,2019,12,Iron Ore,26011100,22870210.78,1317341275.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2019-12-01,2019,12,Raw Sugar,17011300+17011400,1247596.05,340604963.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2019-12-01,2019,12,Soybeans,12011000+12019000,3269637.25,1190964452.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
@@ -206,7 +211,8 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2020-06-01,2020,6,Soybeans,12011000+12019000,12741611.41,4295970050.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2020-07-01,2020,7,Corn,10059010,3977683.44,629621522.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2020-07-01,2020,7,Crude Oil,27090010,7794504.61,1928276214.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
-2020-07-01,2020,7,Raw Sugar,17011300+17011400,132.1,53771.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
+2020-07-01,2020,7,Iron Ore,26011100,32321496.9,2240502809.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
+2020-07-01,2020,7,Raw Sugar,17011300+17011400,2797180.66,738386437.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2020-07-01,2020,7,Soybeans,12011000+12019000,9955018.06,3458632060.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2020-08-01,2020,8,Corn,10059010,6242970.2,994010599.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2020-08-01,2020,8,Crude Oil,27090010,5258490.1,1496515259.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
@@ -215,10 +221,12 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2020-08-01,2020,8,Soybeans,12011000+12019000,5836620.75,2063686198.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2020-09-01,2020,9,Corn,10059010,6361840.8,1033382418.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2020-09-01,2020,9,Crude Oil,27090010,5025241.19,1471324612.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2020-09-01,2020,9,Iron Ore,26011100,36063545.1,2961967165.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2020-09-01,2020,9,Raw Sugar,17011300+17011400,3023132.29,829441888.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2020-09-01,2020,9,Soybeans,12011000+12019000,4260920.85,1556970053.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2020-10-01,2020,10,Corn,10059010,5000281.42,825127606.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2020-10-01,2020,10,Crude Oil,27090010,4570640.7,1262950881.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2020-10-01,2020,10,Iron Ore,26011100,29656285.5,2640088915.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2020-10-01,2020,10,Raw Sugar,17011300+17011400,3529074.59,991226917.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2020-10-01,2020,10,Soybeans,12011000+12019000,2422161.25,885443582.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2020-11-01,2020,11,Corn,10059010,4728771.76,834883020.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -243,6 +251,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2021-02-01,2021,2,Soybeans,12011000+12019000,2645991.68,1036131032.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-03-01,2021,3,Corn,10059010,289398.96,66941509.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2021-03-01,2021,3,Crude Oil,27090010,6425257.72,2661483587.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2021-03-01,2021,3,Iron Ore,26011100,26609299.11,3358432173.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2021-03-01,2021,3,Raw Sugar,17011300+17011400,1675379.91,533638808.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2021-03-01,2021,3,Soybeans,12011000+12019000,12693887.62,5045797648.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-04-01,2021,4,Corn,10059010,128917.73,27210849.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -251,11 +260,13 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2021-04-01,2021,4,Raw Sugar,17011300+17011400,1436660.4,466063630.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2021-04-01,2021,4,Soybeans,12011000+12019000,16114928.06,6665535984.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-05-01,2021,5,Corn,10059010,13528.67,3202129.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
+2021-05-01,2021,5,Crude Oil,27090010,5072837.0,2230682322.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2021-05-01,2021,5,Iron Ore,26011100,25133096.84,3280014535.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2021-05-01,2021,5,Raw Sugar,17011300+17011400,2265626.23,728888662.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2021-05-01,2021,5,Soybeans,12011000+12019000,14966211.75,6707871572.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-06-01,2021,6,Corn,10059010,91046.44,18816980.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2021-06-01,2021,6,Crude Oil,27090010,8133885.51,3743887034.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2021-06-01,2021,6,Iron Ore,26011100,31798132.76,4832951609.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2021-06-01,2021,6,Raw Sugar,17011300+17011400,2515253.05,832275391.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2021-06-01,2021,6,Soybeans,12011000+12019000,11066526.44,5173983522.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-07-01,2021,7,Corn,10059010,1990135.53,398726588.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -265,6 +276,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2021-07-01,2021,7,Soybeans,12011000+12019000,8669660.83,3983584471.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-08-01,2021,8,Corn,10059010,4334884.75,830175279.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2021-08-01,2021,8,Crude Oil,27090010,6782171.46,3204026884.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2021-08-01,2021,8,Iron Ore,26011100,32492693.4,5068313580.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2021-08-01,2021,8,Raw Sugar,17011300+17011400,2251304.55,757558899.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2021-08-01,2021,8,Soybeans,12011000+12019000,6484175.91,3144567474.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-09-01,2021,9,Corn,10059010,2849378.15,531950007.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -279,6 +291,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2021-10-01,2021,10,Soybeans,12011000+12019000,3292939.96,1719369047.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-11-01,2021,11,Corn,10059010,2384314.4,485974559.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2021-11-01,2021,11,Crude Oil,27090010,3623592.6,1934787450.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2021-11-01,2021,11,Iron Ore,26011100,26732707.54,2307677116.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2021-11-01,2021,11,Raw Sugar,17011300+17011400,2360261.15,810831429.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2021-11-01,2021,11,Soybeans,12011000+12019000,2587138.96,1321125517.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2021-12-01,2021,12,Corn,10059010,3407217.67,753418108.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -292,6 +305,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2022-01-01,2022,1,Raw Sugar,17011300+17011400,1103708.43,417109933.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2022-01-01,2022,1,Soybeans,12011000+12019000,2452064.82,1241913090.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2022-02-01,2022,2,Corn,10059010,767115.94,201696747.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
+2022-02-01,2022,2,Crude Oil,27090010,0.03,3938875347.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2022-02-01,2022,2,Iron Ore,26011100,17022613.86,1481876695.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2022-02-01,2022,2,Raw Sugar,17011300+17011400,1502837.35,580576550.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2022-02-01,2022,2,Soybeans,12011000+12019000,6271924.47,3135834243.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
@@ -306,6 +320,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2022-04-01,2022,4,Raw Sugar,17011300+17011400,1180279.91,449102198.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2022-04-01,2022,4,Soybeans,12011000+12019000,11472577.02,6757748276.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2022-05-01,2022,5,Corn,10059010,1086036.37,366809157.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
+2022-05-01,2022,5,Crude Oil,27090010,4432756.52,3097566778.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2022-05-01,2022,5,Iron Ore,26011100,23276625.59,2313717580.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2022-05-01,2022,5,Raw Sugar,17011300+17011400,1471468.35,562874298.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2022-05-01,2022,5,Soybeans,12011000+12019000,10640473.56,6614103888.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
@@ -328,9 +343,10 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2022-09-01,2022,9,Crude Oil,27090010,5724402.4,3462489435.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2022-09-01,2022,9,Iron Ore,26011100,33693740.75,2392926566.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2022-09-01,2022,9,Raw Sugar,17011300+17011400,2580929.45,1023548112.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
-2022-09-01,2022,9,Soybeans,12011000+12019000,1374.09,1710256.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
+2022-09-01,2022,9,Soybeans,12011000+12019000,4063276.99,2534535781.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2022-10-01,2022,10,Corn,10059010,6796336.56,1895501221.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2022-10-01,2022,10,Crude Oil,27090010,5287792.7,2959747613.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2022-10-01,2022,10,Iron Ore,26011100,25621835.6,1687261030.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2022-10-01,2022,10,Raw Sugar,17011300+17011400,2810061.38,1126480868.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2022-10-01,2022,10,Soybeans,12011000+12019000,3829547.84,2349944353.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2022-11-01,2022,11,Corn,10059010,5895327.56,1673817745.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
@@ -343,6 +359,7 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2022-12-01,2022,12,Iron Ore,26011100,29504091.87,1770095112.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2022-12-01,2022,12,Raw Sugar,17011300+17011400,1901030.13,785184533.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2022-12-01,2022,12,Soybeans,12011000+12019000,2019644.12,1246655771.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
+2023-01-01,2023,1,Corn,10059010,6137638.27,1753053078.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2023-01-01,2023,1,Crude Oil,27090010,6205620.67,3129362844.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2023-01-01,2023,1,Iron Ore,26011100,22898290.61,1609313610.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
 2023-01-01,2023,1,Raw Sugar,17011300+17011400,1800262.61,784362298.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
@@ -350,10 +367,11 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2023-02-01,2023,2,Corn,10059010,2273033.92,673522245.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2023-02-01,2023,2,Crude Oil,27090010,2378102.83,1194413455.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
 2023-02-01,2023,2,Iron Ore,26011100,21366842.0,1695071358.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 260111 Bilateral Mirror
-2023-02-01,2023,2,Raw Sugar,17011300+17011400,696.88,540255.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
+2023-02-01,2023,2,Raw Sugar,17011300+17011400,5612.4,385784771.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2023-02-01,2023,2,Soybeans,12011000+12019000,5016938.76,2813229185.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2023-03-01,2023,3,Corn,10059010,1334941.38,400402516.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror
 2023-03-01,2023,3,Crude Oil,27090010,11003687.59,5520902205.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 270900 Bilateral Mirror
+2023-03-01,2023,3,Iron Ore,26011100,24934030.73,2067232668.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),sum_of_transport_modes (total netWgt null in source)
 2023-03-01,2023,3,Raw Sugar,17011300+17011400,1609114.62,715403453.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 170113+170114 Bilateral Mirror
 2023-03-01,2023,3,Soybeans,12011000+12019000,13241396.24,7361533614.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 120110+120190 Bilateral Mirror
 2023-04-01,2023,4,Corn,10059010,469268.08,140118613.0,UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76),HS 100590 Bilateral Mirror

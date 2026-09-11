@@ -21,6 +21,7 @@ COMMODITIES_DIR = ROOT / "data" / "commodities"
 CLARKSONS_DIR = ROOT / "data" / "clarksons"
 DERIVED_DIR = ROOT / "data" / "derived"
 MACRO_DIR = ROOT / "data" / "macro"
+SUPPLY_DIR = ROOT / "data" / "supply"
 
 
 def compute_seasonal_envelope_monthly(data_by_year_month):
@@ -251,6 +252,8 @@ def process_pilbara_iron_ore():
     hedland_monthly = {}
     dampier_monthly = {}
     total_monthly = {}
+    latest_dest_date = ""
+    latest_dest_map = {}
 
     with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
         reader = csv.DictReader(f)
@@ -267,6 +270,16 @@ def process_pilbara_iron_ore():
             if d_val:
                 try: dampier_monthly[ym] = float(d_val)
                 except ValueError: pass
+
+            dest_json = row.get("destinations_t") or ""
+            if dest_json and "hedland" in port:
+                try:
+                    d_map = json.loads(dest_json)
+                    if d_map and ym >= latest_dest_date:
+                        latest_dest_date = ym
+                        latest_dest_map = d_map
+                except Exception:
+                    pass
 
     # Compute combined Pilbara iron ore total where available
     all_months = set(hedland_monthly.keys()).union(dampier_monthly.keys())
@@ -299,6 +312,22 @@ def process_pilbara_iron_ore():
 
     latest_date = max(hedland_monthly.keys()) if hedland_monthly else datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+    # Format destination breakdown for latest month
+    dest_breakdown = []
+    china_share = 0.0
+    if latest_dest_map:
+        tot = sum(latest_dest_map.values())
+        for c, t in sorted(latest_dest_map.items(), key=lambda x: x[1], reverse=True):
+            pct = round((t / tot) * 100, 2) if tot > 0 else 0.0
+            if c.strip().lower() == "china":
+                china_share = pct
+            dest_breakdown.append({
+                "destination": c,
+                "tonnes": round(t, 1),
+                "tonnes_mt": round(t / 1e6, 3),
+                "share_pct": pct
+            })
+
     return {
         "provenance": {
             "source": "Pilbara Ports Authority (pilbaraports.com.au)",
@@ -313,7 +342,12 @@ def process_pilbara_iron_ore():
         "total_envelope": compute_seasonal_envelope_monthly(total_monthly),
         "miners_quarterly": miners_quarterly,
         "monthly_raw": hedland_monthly,
-        "dampier_monthly_raw": dampier_monthly
+        "dampier_monthly_raw": dampier_monthly,
+        "latest_destinations": {
+            "date": latest_dest_date,
+            "china_share_pct": china_share,
+            "destinations": dest_breakdown
+        }
     }
 
 
@@ -608,12 +642,14 @@ def process_australia_req():
 
 
 def process_guinea_bauxite():
-    """Process UN Comtrade Guinea bauxite mirror statistics and direct Ministry releases."""
+    """Process UN Comtrade Guinea bauxite mirror statistics, Ministry direct releases, and producer ledger."""
     fpath = COMMODITIES_DIR / "guinea_bauxite_exports.csv"
     monthly_mirror = {}
     avg_price = {}
     direct_producers_jan2026 = []
     quarterly_releases = []
+    annual_totals = []
+    producers_2025 = []
 
     with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
         reader = csv.DictReader(f)
@@ -623,53 +659,331 @@ def process_guinea_bauxite():
             method = (row.get("method") or "").strip()
             mt_str = row.get("tonnes") or row.get("import_volume_mt")
             px_str = row.get("avg_cif_usd_t")
+            comp = (row.get("company") or "").strip()
 
-            # 1. Continuous UN Comtrade Mirror series
-            if "Mirror Trade Statistics" in method and d and mt_str:
+            # 1. Continuous UN Comtrade / GACC Mirror series
+            if "Mirror" in method and d and mt_str:
                 try:
-                    mt = float(mt_str) / 1_000_000.0  # to Mt
+                    mt = float(mt_str) / 1_000_000.0 if float(mt_str) > 1000 else float(mt_str)
                     monthly_mirror[ym] = round(mt, 2)
                     if px_str:
                         avg_price[ym] = float(px_str)
                 except ValueError:
                     pass
 
-            # 2. Direct Ministry-reported Jan 2026 producer breakdown
+            # 2. National annual / quarterly reports
+            elif "National Total" in comp and mt_str:
+                try:
+                    val = float(mt_str) / 1_000_000.0 if float(mt_str) > 1000 else float(mt_str)
+                    quote = row.get("source_quote", "")
+                    if "FY" in comp or d in ["2015-12-31", "2016-12-31"]:
+                        annual_totals.append({
+                            "year": d[:4],
+                            "label": comp,
+                            "tonnes_mt": round(val, 2),
+                            "quote": quote
+                        })
+                    else:
+                        quarterly_releases.append({
+                            "date": d,
+                            "label": comp,
+                            "tonnes_mt": round(val, 2),
+                            "quote": quote
+                        })
+                except ValueError:
+                    pass
+
+            # 3. 2025 Per-Company Producer Ledger
+            elif d == "2025-12-31" and comp not in ["China", "Malaysia", "Others", "Singapore", "UAE"] and mt_str:
+                try:
+                    val = float(mt_str) / 1_000_000.0 if float(mt_str) > 1000 else float(mt_str)
+                    producers_2025.append({
+                        "company": comp,
+                        "tonnes_mt": round(val, 2)
+                    })
+                except ValueError:
+                    pass
+
+            # 4. Direct Ministry-reported Jan 2026 producer breakdown
             elif d == "2026-01-01" and "Ministry-reported" in method:
                 direct_producers_jan2026.append({
-                    "company": row.get("company", ""),
+                    "company": comp,
                     "tonnes": float(mt_str) if mt_str else 0.0,
-                    "vessels": int(row.get("vessels")) if row.get("vessels") else None,
+                    "tonnes_mt": round(float(mt_str) / 1e6, 2) if mt_str else 0.0,
+                    "vessels": int(float(row.get("vessels"))) if row.get("vessels") else None,
                     "source_quote": row.get("source_quote", "")
                 })
 
-            # 3. Direct Ministry-reported quarterly releases
-            elif "Trade Press Mirror" in method:
-                quarterly_releases.append({
-                    "date": d,
-                    "tonnes": float(mt_str) if mt_str else 0.0,
-                    "vessels": int(row.get("vessels")) if row.get("vessels") else None,
-                    "source_quote": row.get("source_quote", "")
-                })
+    producers_2025.sort(key=lambda x: x["tonnes_mt"], reverse=True)
+    direct_producers_jan2026.sort(key=lambda x: x["tonnes_mt"], reverse=True)
 
     min_date = min(monthly_mirror.keys()) if monthly_mirror else "2017-01"
     latest_date = max(monthly_mirror.keys()) if monthly_mirror else "2024-12"
 
     return {
         "provenance": {
-            "source": "China Customs (GACC) via UN Comtrade (HS 260600) + Guinea Mining Insights (Ministry of Mines)",
-            "method": "Mirror Trade Statistics (Partner: Guinea, Reporter: China) & Ministry Direct",
-            "span": f"{min_date[:4]}–{latest_date[:4]}",
+            "source": "China Customs (GACC) via UN Comtrade (HS 260600) + Guinea Ministry of Mines (Reuters / Mining Weekly)",
+            "method": "Mirror Trade Statistics (Partner: Guinea, Reporter: China) & Ministry Official Disclosures",
+            "span": f"{min_date[:4]}–2026",
             "as_of": latest_date,
-            "status": "LIVE",
+            "status": "LIVE_MIRROR",
             "mirror_notice": "Bilateral trade flow: China-reported imports (UN Comtrade HS 260600) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
-            "direct_source_status": "LIVE",
+            "direct_source_status": "PARTIAL",
+            "direct_source_attempted": f"Ministry of Mines direct releases active ({len(direct_producers_jan2026)} producer records from 2026-01 and 2025 producer ledger)",
             "unit": "Million Tonnes (Mt/mo)"
         },
         "monthly_volume_mt": monthly_mirror,
         "avg_cif_usd_t": avg_price,
+        "annual_totals": annual_totals,
+        "quarterly_releases": quarterly_releases,
+        "producers_2025": producers_2025,
         "direct_producers_jan2026": direct_producers_jan2026,
-        "quarterly_releases": quarterly_releases
+        "freight_note": "Guinea-to-China bauxite requires Capesize vessels traversing ~11,000 nautical miles via Cape of Good Hope (3x the ton-mile absorption of Australia-China C5), absorbing over 120 Capesize vessels continuously."
+    }
+
+
+def process_who_feeds_china():
+    fpath = COMMODITIES_DIR / "china_customs_monthly_imports.csv"
+    by_cmd = defaultdict(list)
+    with open(fpath, "r", encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            by_cmd[r["commodity"]].append(r)
+
+    commodities = {}
+    for cmd, rows in by_cmd.items():
+        rows.sort(key=lambda r: r["date"])
+        dates = [r["date"][:7] for r in rows]
+        vals_usd_m = [round(float(r["value_usd"])/1e6, 2) for r in rows]
+
+        latest = rows[-1]
+        partners = []
+        for p_key in ["top_partner_1", "top_partner_2", "top_partner_3"]:
+            val = latest.get(p_key, "")
+            if val:
+                m = val.split(" (")
+                p_name = m[0]
+                pct = float(m[1].replace("%)", "")) if len(m) > 1 else 0.0
+                partners.append({"country": p_name, "share_pct": pct})
+
+        note = ""
+        if cmd == "Iron ore":
+            note = "Australia vs Brazil origin split directly dictates C5 (Pacific) vs C3 (Atlantic) Capesize demand; Brazil offers 3.2x ton-mile absorption."
+        elif cmd == "Bauxite":
+            note = "Guinea vs Australia origin split; Guinea long-haul cape demand absorbs ~11,000 nm per voyage vs ~3,500 nm Pacific routes."
+        elif cmd == "Coal":
+            note = "Indonesia/Australia/Russia seaborne supply vs Mongolia overland rail/truck (non-seaborne trade corridor)."
+        elif cmd == "Soybeans":
+            note = "Seasonal origin flip: Brazilian export peak (Mar-Jul) gives way to US Gulf/PNW harvest export season (Sep-Jan)."
+
+        commodities[cmd] = {
+            "dates": dates,
+            "values_usd_m": vals_usd_m,
+            "latest_value_usd_m": vals_usd_m[-1] if vals_usd_m else 0,
+            "top_partners": partners,
+            "shipping_class": latest.get("shipping_class", ""),
+            "hs_code": latest.get("hs_code", ""),
+            "freight_note": note
+        }
+
+    return {
+        "provenance": {
+            "source": "China General Administration of Customs (GACC) / chinadata.live API v2",
+            "method": "Monthly Customs Trade Ingest (USD value only pending GACC query platform continuation)",
+            "span": "2018–2026",
+            "as_of": "2026-07-01",
+            "status": "LIVE_USD_DISCLAIMER",
+            "disclaimer": "USD value — not tonnage (GACC query platform pending operator network inspection)",
+            "unit": "USD Millions ($M/mo)"
+        },
+        "commodities": commodities
+    }
+
+
+def process_indonesia_coal():
+    fpath = COMMODITIES_DIR / "indonesia_coal_exports_monthly.csv"
+    rows = []
+    with open(fpath, "r", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+    rows.sort(key=lambda r: r["date"])
+
+    monthly_mt = {}
+    dest_splits = {}
+    for r in rows:
+        ym = r["date"][:7]
+        try:
+            mt = float(r["volume_mt"])
+            monthly_mt[ym] = mt
+        except (ValueError, TypeError):
+            continue
+
+        if r.get("top_destination_1"):
+            dests = []
+            for k in ["top_destination_1", "top_destination_2", "top_destination_3"]:
+                s = r.get(k, "")
+                if s:
+                    dests.append(s)
+            dest_splits[ym] = dests
+
+    envelope = compute_seasonal_envelope_monthly(monthly_mt)
+    latest_ym = max(monthly_mt.keys())
+    prev_ym = f"{int(latest_ym[:4])-1}{latest_ym[4:]}"
+    yoy_pct = round(((monthly_mt[latest_ym] - monthly_mt.get(prev_ym, monthly_mt[latest_ym])) / monthly_mt.get(prev_ym, monthly_mt[latest_ym])) * 100, 2) if prev_ym in monthly_mt else 0.0
+
+    return {
+        "provenance": {
+            "source": "Badan Pusat Statistik (BPS) Indonesia via UN Comtrade & BPS Direct Releases",
+            "method": "Bilateral Mirror & Official Monthly Trade Publications",
+            "span": f"2020–{latest_ym[:4]}",
+            "as_of": latest_ym,
+            "status": "LIVE",
+            "unit": "Million Tonnes (Mt/mo)"
+        },
+        "envelope": envelope,
+        "monthly_raw": monthly_mt,
+        "latest_volume_mt": monthly_mt.get(latest_ym),
+        "latest_date": latest_ym,
+        "yoy_pct": yoy_pct,
+        "annotations": [
+            {"date": "2022-01", "label": "Jan 2022 Export Ban", "value": monthly_mt.get("2022-01", 10.92), "note": "ESDM enacted emergency 1-month export ban to avert domestic power outages (10.92 Mt)"}
+        ],
+        "destination_splits": dest_splits,
+        "freight_note": "The Indonesia -> India/China Panamax and Supramax coal lanes represent the largest physical dry bulk flow in Asia, anchoring regional geared carrier rates."
+    }
+
+
+def process_argentina_grain():
+    fpath = COMMODITIES_DIR / "argentina_grain_exports_monthly.csv"
+    rows = list(csv.DictReader(open(fpath, "r", encoding="utf-8")))
+    rows.sort(key=lambda r: r["date"])
+
+    grains = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt"]
+    dates = [r["date"][:7] for r in rows]
+    stacked_by_grain = {g.replace("_mt", ""): [float(r.get(g, 0) or 0) for r in rows] for g in grains}
+    up_river_share = [float(r.get("up_river_share_pct", 0) or 0) for r in rows]
+    totals = [float(r.get("total_grain_mt", 0) or 0) for r in rows]
+
+    p_path = COMMODITIES_DIR / "argentina_grain_ports_breakdown.csv"
+    p_rows = list(csv.DictReader(open(p_path, "r", encoding="utf-8")))
+    latest_date = rows[-1]["date"]
+    latest_ports = [
+        {
+            "port": r["port"],
+            "basin": r["basin"],
+            "tonnes": float(r["total_tonnes"]),
+            "share_pct": float(r["share_of_national_pct"])
+        }
+        for r in p_rows if r["date"] == latest_date
+    ]
+    latest_ports.sort(key=lambda x: x["tonnes"], reverse=True)
+
+    return {
+        "provenance": {
+            "source": "Secretaría de Agricultura, Ganadería y Pesca (MAGyP) Argentina",
+            "method": "Base de Datos de Transporte y Embarque de Granos (Official Harbor Master Ledger)",
+            "span": "2023–2026",
+            "as_of": latest_date[:7],
+            "status": "LIVE",
+            "unit": "Million Tonnes (Mt/mo)"
+        },
+        "dates": dates,
+        "totals_mt": totals,
+        "stacked_grains": stacked_by_grain,
+        "up_river_share_pct": up_river_share,
+        "latest_ports_breakdown": latest_ports,
+        "latest_up_river_share": up_river_share[-1] if up_river_share else 0.0,
+        "freight_note": "Up-river Paraná draft restrictions (~32-34 ft at Rosario/San Lorenzo) dictate smaller parcels and require Handysize or Supramax/Panamax top-off at deepwater Necochea/Bahía Blanca."
+    }
+
+
+def process_world_steel():
+    fpath = COMMODITIES_DIR / "world_crude_steel_monthly.csv"
+    rows = list(csv.DictReader(open(fpath, "r", encoding="utf-8")))
+    rows.sort(key=lambda r: r["date"])
+
+    dates = [r["date"][:7] for r in rows]
+    china_mt = [float(r["china_mt"]) for r in rows]
+    world_mt = [float(r["world_total_mt"]) for r in rows]
+    row_mt = [round(float(r["world_total_mt"]) - float(r["china_mt"]), 2) for r in rows]
+    yoy_pct = [float(r["yoy_change_pct"]) for r in rows]
+
+    return {
+        "provenance": {
+            "source": "World Steel Association (worldsteel)",
+            "method": "Official Monthly Production Releases (70 reporting nations, ~98% global output)",
+            "span": "2024–2026",
+            "as_of": dates[-1],
+            "status": "LIVE",
+            "unit": "Million Tonnes (Mt/mo)"
+        },
+        "dates": dates,
+        "china_mt": china_mt,
+        "row_mt": row_mt,
+        "world_total_mt": world_mt,
+        "yoy_change_pct": yoy_pct,
+        "latest_world_mt": world_mt[-1],
+        "latest_china_mt": china_mt[-1],
+        "latest_row_mt": row_mt[-1],
+        "latest_yoy": yoy_pct[-1],
+        "freight_note": "Per worldsteel raw materials fact sheet: ~1.6 tonnes of iron ore and ~0.8 tonnes of metallurgical coal are required to produce 1 tonne of crude steel via the blast furnace-basic oxygen furnace (BF-BOF) route."
+    }
+
+
+def process_minor_bulks():
+    fpath = COMMODITIES_DIR / "minor_bulks_monthly.csv"
+    by_flow = defaultdict(list)
+    with open(fpath, "r", encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            by_flow[r["commodity"]].append(r)
+
+    flows = {}
+    for cmd, rows in by_flow.items():
+        rows.sort(key=lambda r: r["date"])
+        flow_monthly = {}
+        for r in rows:
+            ym = r["date"][:7]
+            try:
+                mt = float(r["metric_tonnes"]) / 1e6 if float(r["metric_tonnes"]) > 10000 else float(r["metric_tonnes"]) / 1000.0
+                flow_monthly[ym] = mt
+            except (ValueError, TypeError):
+                continue
+        envelope = compute_seasonal_envelope_monthly(flow_monthly)
+        latest_r = rows[-1]
+        flows[cmd] = {
+            "vessel_class": latest_r.get("vessel_demand_impact", "Supramax / Handysize"),
+            "trade_flow": f"{latest_r.get('reporter_country', '')} {latest_r.get('trade_flow', '')}",
+            "source": latest_r.get("source", ""),
+            "envelope": envelope,
+            "monthly_raw": flow_monthly,
+            "latest_mt": flow_monthly.get(max(flow_monthly.keys())) if flow_monthly else 0
+        }
+
+    return {
+        "provenance": {
+            "source": "UN Comtrade Bilateral Records & MDIC ComexStat (Brazil)",
+            "method": "Direct National Customs Records & Bilateral Partner Mirrors",
+            "span": "2022–2026",
+            "as_of": "2026-07",
+            "status": "LIVE",
+            "unit": "Million Tonnes (Mt/mo)"
+        },
+        "flows": flows
+    }
+
+
+def process_fleet_orderbook():
+    fpath = SUPPLY_DIR / "fleet_orderbook_and_age_profile.csv"
+    rows = list(csv.DictReader(open(fpath, "r", encoding="utf-8")))
+    rows.sort(key=lambda r: float(r["orderbook_to_fleet_pct"]), reverse=True)
+    return {
+        "provenance": {
+            "source": "Signal Ocean Commercial Fleet",
+            "method": "Automated Fleet & AIS Registry Ingest (as recorded by Signal Ocean)",
+            "span": "Current Commercial Fleet & Orderbook",
+            "as_of": "2026-09",
+            "status": "LIVE",
+            "mapping_note": "Status mapping is inferred: orderbook status based on shipyard contracts; scrapped vessels excluded; unresolved status flagged."
+        },
+        "classes": rows
     }
 
 
@@ -822,6 +1136,12 @@ def main():
     usda_queues = process_usda_loading_queues()
     req_data = process_australia_req()
     guinea_data = process_guinea_bauxite()
+    who_feeds_china_data = process_who_feeds_china()
+    indonesia_coal_data = process_indonesia_coal()
+    argentina_grain_data = process_argentina_grain()
+    world_steel_data = process_world_steel()
+    minor_bulks_data = process_minor_bulks()
+    fleet_orderbook_data = process_fleet_orderbook()
 
     flagship_pairs = build_flagship_origin_freight(
         baltic_rates, brazil_data, pilbara_data, newcastle_data, usda_inspections, guinea_data
@@ -843,7 +1163,13 @@ def main():
         "usda_grain_inspections": usda_inspections,
         "usda_loading_queues": usda_queues,
         "australia_req": req_data,
-        "guinea_bauxite": guinea_data
+        "guinea_bauxite": guinea_data,
+        "who_feeds_china": who_feeds_china_data,
+        "indonesia_coal": indonesia_coal_data,
+        "argentina_grain": argentina_grain_data,
+        "world_steel": world_steel_data,
+        "minor_bulks": minor_bulks_data,
+        "fleet_orderbook": fleet_orderbook_data
     }
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)

@@ -597,10 +597,11 @@ def build_bunker_summary():
             slope_pct = round(((m12_val - m1_val) / m1_val) * 100, 1)
             structure = 'Contango' if m12_val > m1_val else 'Backwardation'
             
+        bix_latest_date = str(df_bix['observation_date'].dropna().max()) if not df_bix.empty and 'observation_date' in df_bix else datetime.now(timezone.utc).strftime("%Y-%m-%d")
         fwd_meta[port] = {
             'hub': port,
             'provenance': 'BunkerIndex modelled curve — one slope applied per hub',
-            'as_of': datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            'as_of': bix_latest_date,
             'is_modelled': True,
             'structure': structure,
             'slope_pct': slope_pct

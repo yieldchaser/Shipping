@@ -193,7 +193,9 @@ def test_real_archive_series_floors():
         "Panamax TCE Cont/Far East": 1900,         # 10011, 2167
         "Panamax TCE Far East/Cont": 1900,         # 10013, 2167
         "Panamax TCE Far East RV": 1900,           # 10012, 2167
+        "Capesize Tubarao/Qingdao (C3)": 6500,     # tsid 10001, measured 7086 (1998-05 launch)
         "Capesize Australia/China": 6000,          # 10002, 6875
+        "Capesize Newcastle/Qingdao Coal": 6000,   # tsid 10003, measured 6878 (1999-03 launch)
         "Capesize TCE Cont/Far East": 450,         # 120655, 505 (2024-09 launch)
         "Capesize Pacific RV": 450,                # 120654, 505
         "Supramax Transatlantic RV (raw A)": 750,  # 120132, 840 (2023-05 launch)
@@ -221,8 +223,8 @@ def test_json_csv_round_trip():
     for r in rows:
         csv_counts.setdefault(r["label"], {})[r["date"]] = r["value"]
     assert set(j["series"]) == {
-        "CAPESIZE_TCE_CONT_FAR_EAST", "CAPESIZE_AUSTRALIA_CHINA",
-        "CAPESIZE_PACIFIC_RV", "PANAMAX_TRANSATLANTIC_RV",
+        "CAPESIZE_TUBARAO_QINGDAO", "CAPESIZE_TCE_CONT_FAR_EAST", "CAPESIZE_AUSTRALIA_CHINA",
+        "CAPESIZE_NEWCASTLE_QINGDAO", "CAPESIZE_PACIFIC_RV", "PANAMAX_TRANSATLANTIC_RV",
         "PANAMAX_TCE_CONT_FAR_EAST", "PANAMAX_TCE_FAR_EAST_CONT",
         "PANAMAX_TCE_FAR_EAST_RV", "SUPRAMAX_TRANSATLANTIC_RV_A",
         "SUPRAMAX_TRANSATLANTIC_RV_B", "SUPRAMAX_US_GULF_CHINA_SJ",

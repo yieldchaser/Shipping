@@ -89,8 +89,12 @@ def inspect_file(rel_path):
                             if re.match(r"^\d{2}-\d{2}-\d{4}$", d_str):
                                 parts = d_str.split("-")
                                 return f"{parts[2]}-{parts[1]}-{parts[0]}"
+                            if re.match(r"^\d{6}$", d_str):
+                                return f"{d_str[:4]}-{d_str[4:6]}-01"
+                            if re.match(r"^\d{4}-\d{2}$", d_str):
+                                return f"{d_str}-01"
                             return d_str
-                        normed = sorted(norm_date(d) for d in dates if len(d) >= 7)
+                        normed = sorted(norm_date(d) for d in dates if len(d) >= 6)
                         if normed:
                             date_span = [normed[0], normed[-1]]
         except Exception:

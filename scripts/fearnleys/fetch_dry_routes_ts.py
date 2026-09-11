@@ -64,8 +64,10 @@ CSV_COLUMNS = ["tsid", "label", "klass", "route", "unit", "date", "value", "raw_
 
 # tsid -> (code, label, klass, route, unit)
 SERIES = {
+    10001: ("CAPESIZE_TUBARAO_QINGDAO", "Capesize Tubarao/Qingdao (C3)", "Capesize", "Tubarao / Qingdao", "usd/tonne"),
     120655: ("CAPESIZE_TCE_CONT_FAR_EAST", "Capesize TCE Cont/Far East", "Capesize", "Cont / Far East", "usd/day"),
     10002: ("CAPESIZE_AUSTRALIA_CHINA", "Capesize Australia/China", "Capesize", "Australia / China", "usd/tonne"),
+    10003: ("CAPESIZE_NEWCASTLE_QINGDAO", "Capesize Newcastle/Qingdao Coal", "Capesize", "Newcastle / Qingdao", "usd/tonne"),
     120654: ("CAPESIZE_PACIFIC_RV", "Capesize Pacific RV", "Capesize", "Pacific Round Voyage", "usd/day"),
     10010: ("PANAMAX_TRANSATLANTIC_RV", "Panamax Transatlantic RV", "Panamax", "Transatlantic Round Voyage", "usd/day"),
     10011: ("PANAMAX_TCE_CONT_FAR_EAST", "Panamax TCE Cont/Far East", "Panamax", "Cont / Far East", "usd/day"),

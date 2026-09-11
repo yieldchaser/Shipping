@@ -69,7 +69,19 @@ These files are on disk and currently unrendered. Row counts verified.
 | `data/derived/fearnleys_broker_comments.csv` | 11,717 | — | Broker Voice: extend the archive |
 | `data/derived/fearnleys_snp_transactions.csv` | 2,592 | multi-year | S&P & Assets: deal ledger |
 | `data/clarksons/gibson_tanker_rates_continuous_daily.csv` | **1,568** (doc says 1,495 — grows daily, measure it) | 2020 → 2026 | **Tanker Routes: 9 routes** (TD3C, TD20, TD25, TC1, TC5, MR USG/Brazil, Handy Clean, 2× dirty products) |
-| `data/clarksons/fearnleys_benchmark_rates_continuous.csv` | 1,158 dates | 2018-05 → 2026-09 | 34 benchmark curves |
+| `data/clarksons/fearnleys_benchmark_rates_continuous.csv` | 1,158 dates | ⚠ see below | 34 benchmark curves |
+
+> ⚠ **Do not use this file until Prompt 13 Target 1A has run.** Verified 2026-09-10:
+> its tsId→label map is **wrong for six series** — 120654/120655 are labelled Supramax but
+> carry Capesize values ($62,359 / $91,194 per day); 10010–10013 are labelled Capesize but
+> carry Panamax values ($20,195 / $30,487 / $22,204 / $13,299). tsIds 11 and 13 are labelled
+> "1 Year TC — LR1 / Handy" but carry 145,000 / 110,000, which are not TC rates. tsIds 1–9
+> are **Worldscale points**, not $/day, with no unit recorded.
+>
+> The "2018-05 → 2026-09" span is also misleading: it is the union of very different series
+> spans. Nine tanker series are **dead since 2023-05-22**, while the dry-bulk route columns
+> hold only **260 of 1,158 rows** (roughly one year). Prompt 13 backfills C3 to 7,085 rows
+> (1998) and C5 to 6,877 (1999). Build Broker Desk panels on the corrected, backfilled file.
 | `data/clarksons/braemar_live_rates.json` | 20 tenors | live | **Free, unauthenticated GraphQL FFA curve** — Cape/Panamax/Supramax/Handysize, Sep-2026 → Cal-2027. Add as a live forward strip. |
 | `data/clarksons/gibson_all_reports_catalog.json` | 548 reports | 2016 → 2026 | Broker Voice: catalogue |
 | `data/derived/vessel_valuations.csv` | 20,499 | 1970-12 → 2026-08 | S&P: 56 years of asset values |

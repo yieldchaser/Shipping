@@ -31,7 +31,7 @@ import pandas as pd
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 
-from scripts.acquire.comtrade_client import fetch_comtrade_monthly, select_total
+from scripts.acquire.comtrade_client import fetch_comtrade_monthly, select_total, record_skipped_query
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
@@ -74,11 +74,14 @@ COMMODITY_SPECS = [
 ]
 
 
-def fetch_hs_commodity_total(hs_codes, period):
-    """Fetch and aggregate Comtrade totals across specified HS codes for Brazil (Reporter 76)."""
+def fetch_hs_commodity_total(hs_codes, period, commodity_name=""):
+    """Fetch and aggregate Comtrade totals across specified HS codes for Brazil (Reporter 76).
+    Supports Prompt 13C §D5: falls back to sum_of_transport_modes when total netWgt is null in source.
+    """
     total_wgt = 0.0
     total_val = 0.0
     sources = []
+    used_mode_sum = False
     for hs in hs_codes:
         res = fetch_comtrade_monthly(
             reporter_code="76",
@@ -86,20 +89,31 @@ def fetch_hs_commodity_total(hs_codes, period):
             cmd_code=hs,
             flow_code="X",
             period=period,
+            fallback_mode_sum=True,
         )
         if res and res.get("netWgt_kg", 0) > 0:
             total_wgt += res["netWgt_kg"]
             total_val += res["value_usd"]
             sources.append(res["source_url"])
+            if res.get("is_mode_sum"):
+                used_mode_sum = True
 
     if total_wgt <= 0:
+        record_skipped_query(
+            "scripts/acquire/fetch_brazil_comexstat_full.py",
+            period,
+            commodity_name or "+".join(hs_codes),
+            "Total netWgt and mode sum rows unavailable or 0 in UN Comtrade"
+        )
         return None
+
+    method_str = "sum_of_transport_modes (total netWgt null in source)" if used_mode_sum else f"HS {'+'.join(hs_codes)} Bilateral Mirror"
 
     return {
         "metric_tonnes": round(total_wgt / 1000.0, 2),
         "fob_usd": round(total_val, 2),
         "source": "UN Comtrade / Brazil MDIC SECEX Official Submission (Reporter 76)",
-        "method": f"HS {'+'.join(hs_codes)} Bilateral Mirror",
+        "method": method_str,
     }
 
 
@@ -154,7 +168,7 @@ def run_full_history_harvest():
 
         for y, m, p, dt_str in periods_backfill:
             row_key = (dt_str, c_name)
-            res = fetch_hs_commodity_total(hs_list, p)
+            res = fetch_hs_commodity_total(hs_list, p, commodity_name=c_name)
             if res and res.get("metric_tonnes", 0) > 0:
                 all_rows[row_key] = {
                     "date": dt_str,
@@ -231,13 +245,15 @@ def update_manifest(row_count, min_date, max_date):
         ),
     }
 
-    existing = next((e for e in series_list if e.get("series_id") == series_id), None)
-    if existing:
-        existing.update(entry_data)
-    else:
-        series_list.append(entry_data)
+    for section in ["series", "datasets"]:
+        if section in manifest:
+            sec_list = manifest[section]
+            existing = next((e for e in sec_list if e.get("series_id") == series_id or e.get("output_file") == entry_data["output_file"]), None)
+            if existing:
+                existing.update(entry_data)
+            else:
+                sec_list.append(entry_data)
 
-    manifest["datasets"] = series_list
     with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, row_count)

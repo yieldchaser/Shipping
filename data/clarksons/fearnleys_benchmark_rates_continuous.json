@@ -21,7 +21,9 @@
       "first_date": "2004-01-14",
       "last_date": "2023-05-22",
       "row_count": 991,
-      "notes": "Historical benchmark MEG/Japan (TD3) transitioned to MEG/China (TD3C) around 2019-2020. Quoted in Worldscale points (15-140 WS), straddling both definitions (discontinued 2023-05)."
+      "notes": "Historical benchmark MEG/Japan (TD3) transitioned to MEG/China (TD3C) around 2019-2020. Quoted in Worldscale points (15-140 WS), straddling both definitions (discontinued 2023-05).",
+      "historical_code": "TD3",
+      "straddle": true
     },
     "2": {
       "tsid": 2,
@@ -145,7 +147,7 @@
     },
     "303": {
       "tsid": 303,
-      "route_name": "380 CST Bunker Price (Singapore)",
+      "route_name": "380 CST Bunker Price (Rotterdam)",
       "vessel_class": "Bunkers",
       "route_code": null,
       "unit": "usd/tonne",
@@ -153,11 +155,11 @@
       "first_date": "2020-04-01",
       "last_date": "2026-07-01",
       "row_count": 2249,
-      "notes": "Singapore HSFO 380 CST spot price in USD/MT."
+      "notes": "Rotterdam HSFO 380 CST spot price in USD/MT."
     },
     "304": {
       "tsid": 304,
-      "route_name": "MGO Bunker Price (Singapore)",
+      "route_name": "MGO Bunker Price (Rotterdam)",
       "vessel_class": "Bunkers",
       "route_code": null,
       "unit": "usd/tonne",
@@ -165,11 +167,11 @@
       "first_date": "2018-05-14",
       "last_date": "2026-07-01",
       "row_count": 2896,
-      "notes": "Singapore Marine Gas Oil spot price in USD/MT."
+      "notes": "Rotterdam Marine Gas Oil spot price in USD/MT."
     },
     "306": {
       "tsid": 306,
-      "route_name": "380 CST Bunker Price (Rotterdam)",
+      "route_name": "380 CST Bunker Price (Singapore)",
       "vessel_class": "Bunkers",
       "route_code": null,
       "unit": "usd/tonne",
@@ -177,11 +179,11 @@
       "first_date": "2018-05-14",
       "last_date": "2026-07-01",
       "row_count": 2906,
-      "notes": "Rotterdam HSFO 380 CST spot price in USD/MT."
+      "notes": "Singapore HSFO 380 CST spot price in USD/MT."
     },
     "307": {
       "tsid": 307,
-      "route_name": "MGO Bunker Price (Rotterdam)",
+      "route_name": "MGO Bunker Price (Singapore)",
       "vessel_class": "Bunkers",
       "route_code": null,
       "unit": "usd/tonne",
@@ -189,7 +191,7 @@
       "first_date": "2018-05-25",
       "last_date": "2026-07-01",
       "row_count": 2886,
-      "notes": "Rotterdam Marine Gas Oil spot price in USD/MT."
+      "notes": "Singapore Marine Gas Oil spot price in USD/MT."
     },
     "316": {
       "tsid": 316,
@@ -361,18 +363,6 @@
     },
     "120132": {
       "tsid": 120132,
-      "route_name": "Supramax Transatlantic RV Delivery Cont (S4B)",
-      "vessel_class": "Supramax",
-      "route_code": "S4B",
-      "unit": "usd/day",
-      "status": "LIVE",
-      "first_date": "2023-05-02",
-      "last_date": "2026-09-10",
-      "row_count": 842,
-      "notes": "Baltic S4B Skaw-Passero trip to US Gulf (delivery Continent). Rate range $17.7k-$34.8k/day. Corrected from mislabelled Panamax and shifted S1B code."
-    },
-    "120133": {
-      "tsid": 120133,
       "route_name": "Supramax Transatlantic RV Delivery USG (S4A)",
       "vessel_class": "Supramax",
       "route_code": "S4A",
@@ -381,7 +371,19 @@
       "first_date": "2023-05-02",
       "last_date": "2026-09-10",
       "row_count": 842,
-      "notes": "Baltic S4A US Gulf trip to Skaw-Passero (delivery USG). Rate range $9.6k-$16.6k/day. Corrected from mislabelled Panamax and shifted S4B code."
+      "notes": "Baltic S4A US Gulf trip to Skaw-Passero (delivery USG). Peaked over 40kpd late 2023 (max 41,214), 34,757 on 2025-10-01."
+    },
+    "120133": {
+      "tsid": 120133,
+      "route_name": "Supramax Transatlantic RV Delivery Cont (S4B)",
+      "vessel_class": "Supramax",
+      "route_code": "S4B",
+      "unit": "usd/day",
+      "status": "LIVE",
+      "first_date": "2023-05-02",
+      "last_date": "2026-09-10",
+      "row_count": 842,
+      "notes": "Baltic S4B Skaw-Passero trip to US Gulf (delivery Continent). Max 20,675, 15,132 on 2025-10-01."
     },
     "120137": {
       "tsid": 120137,

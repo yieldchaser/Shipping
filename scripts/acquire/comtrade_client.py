@@ -35,6 +35,38 @@ HEADERS = {
 
 BASE_URL = "https://comtradeapi.un.org/public/v1/preview/C/M/HS"
 
+SKIPPED_QUERIES_FILE = REPO_ROOT / "data" / "commodities" / "_skipped_queries.json"
+
+
+def record_skipped_query(script: str, period: str, commodity: str, reason: str):
+    """Prompt 13C §D5: Record failed, skipped, or refused queries into sidecar."""
+    SKIPPED_QUERIES_FILE.parent.mkdir(parents=True, exist_ok=True)
+    records = []
+    if SKIPPED_QUERIES_FILE.exists():
+        try:
+            with open(SKIPPED_QUERIES_FILE, "r", encoding="utf-8") as f:
+                records = json.load(f)
+        except Exception:
+            records = []
+
+    # Deduplicate by (script, period, commodity)
+    existing = next((r for r in records if r.get("script") == script and r.get("period") == period and r.get("commodity") == commodity), None)
+    entry = {
+        "script": script,
+        "period": period,
+        "commodity": commodity,
+        "reason": reason,
+        "logged_at_utc": datetime.now(timezone.utc).isoformat()
+    }
+    if existing:
+        existing.update(entry)
+    else:
+        records.append(entry)
+
+    with open(SKIPPED_QUERIES_FILE, "w", encoding="utf-8") as f:
+        json.dump(records, f, indent=2)
+
+
 
 def select_total(rows: List[Dict[str, Any]]) -> Dict[str, Any]:
     """Select the unique total row matching motCode==0, customsCode=='C00', partner2Code==0.
@@ -72,6 +104,7 @@ def fetch_comtrade_monthly(
     raw_cache_dir: Optional[Path] = None,
     max_retries: int = 4,
     sleep_delay: float = 0.35,
+    fallback_mode_sum: bool = False,
 ) -> Optional[Dict[str, Any]]:
     """Fetch monthly HS trade flow record from UN Comtrade with persistent raw caching."""
     cache_dir = raw_cache_dir or DEFAULT_RAW_CACHE_DIR
@@ -139,8 +172,22 @@ def fetch_comtrade_monthly(
 
     wgt_kg = float(total_row.get("netWgt") or total_row.get("qty") or 0.0)
     val_usd = float(total_row.get("primaryValue") or 0.0)
+    is_mode_sum = False
+
+    # Prompt 13C §D5: If total netWgt/qty is null or 0, check if mode rows exist to fill via mode sum
+    if wgt_kg <= 0 and fallback_mode_sum:
+        mode_rows = [
+            r for r in raw_data
+            if (r.get("motCode") or 0) > 0 and r.get("customsCode") == "C00" and r.get("partner2Code") == 0
+        ]
+        sum_mode_wgt = sum(float(r.get("netWgt") or r.get("qty") or 0.0) for r in mode_rows)
+        if sum_mode_wgt > 0:
+            wgt_kg = sum_mode_wgt
+            is_mode_sum = True
+            logging.info("Filled null total row with mode sum: %.1f kg across %d mode rows for %s %s", wgt_kg, len(mode_rows), cmd_code, period)
 
     return {
+        "is_mode_sum": is_mode_sum,
         "period": period,
         "date": f"{period[:4]}-{period[4:6]}-01",
         "reporter_code": str(reporter_code),

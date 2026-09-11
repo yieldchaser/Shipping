@@ -248,7 +248,6 @@ def build_geospatial_datasets():
     # Reconstruct Chronological Voyage Sequences Per Vessel
     logging.info("Reconstructing vessel voyage chains...")
     voyage_legs = []
-    vessel_lineups = {}
 
     for vessel_name, group in tracked.groupby("vessel"):
         sorted_legs = group.sort_values("date")
@@ -330,17 +329,6 @@ def build_geospatial_datasets():
                 prev_date = dep_date
                 leg_counter += 1
 
-        # Check last known port for active lineup eligibility (2023-2026 recency)
-        if prev_locode and prev_locode in PORT_COORDINATES and prev_date and prev_date.year >= 2023:
-            vessel_lineups[imo_str] = {
-                "vessel_name": vessel_name,
-                "imo_number": imo_str,
-                "asset_class": asset_cls,
-                "dwt": dwt_val,
-                "last_port": prev_locode,
-                "last_date": prev_date,
-            }
-
     df_voyages = pd.DataFrame(voyage_legs)
     logging.info("Reconstructed %d chronological voyage legs across %d vessels.", len(df_voyages), df_voyages["imo_number"].nunique())
 
@@ -351,55 +339,6 @@ def build_geospatial_datasets():
     df_voyages.to_csv(master_csv, index=False)
     df_voyages.to_parquet(master_parquet, index=False)
     logging.info("Saved %s and %s (%d rows)", master_csv, master_parquet, len(df_voyages))
-
-    # Build Active Port Lineups Across the 40 Hubs
-    logging.info("Building active port lineups (waiting at anchor vs operating at berth)...")
-    lineup_rows = []
-
-    # Deterministic simulation of queue distribution based on latest positions
-    for imo, meta in vessel_lineups.items():
-        locode = meta["last_port"]
-        p_meta = PORT_COORDINATES[locode]
-        last_dt = meta["last_date"]
-
-        # Synthesize realistic operational status
-        # Hashes to deterministic status: ~40% waiting at anchor, ~60% operating at berth
-        status_hash = zlib.crc32(f"{imo}_{locode}".encode("utf-8")) % 100
-        if status_hash < 40:
-            status = "Waiting at anchor"
-            days_wait = round(1.0 + (status_hash % 12) * 0.5, 1)
-        else:
-            status = "Operating at berth"
-            days_wait = round(0.5 + (status_hash % 4) * 0.4, 1)
-
-        # Deterministic GPS offset around port center for spatial visualization
-        angle = (status_hash * 3.6) * (math.pi / 180.0)
-        radius = 0.08 if status == "Waiting at anchor" else 0.02
-        v_lat = round(p_meta["lat"] + radius * math.sin(angle), 4)
-        v_lon = round(p_meta["lon"] + radius * math.cos(angle), 4)
-
-        lineup_rows.append({
-            "port_locode": locode,
-            "portname": p_meta["name"],
-            "country": p_meta["country"],
-            "asset_class": meta["asset_class"],
-            "vessel_name": meta["vessel_name"],
-            "imo_number": imo,
-            "dwt": meta["dwt"],
-            "operational_status": status,
-            "arrival_timestamp": last_dt.strftime("%Y-%m-%d 08:00:00"),
-            "days_waiting": days_wait,
-            "cargo_type": p_meta["cargo"],
-            "lat": v_lat,
-            "lon": v_lon,
-        })
-
-    df_lineups = pd.DataFrame(lineup_rows).drop_duplicates(subset=["imo_number", "port_locode"]).sort_values(["asset_class", "port_locode", "operational_status"])
-    lineups_csv = GEOSPATIAL_DIR / "port_lineups_active.csv"
-    lineups_parquet = GEOSPATIAL_DIR / "port_lineups_active.parquet"
-    df_lineups.to_csv(lineups_csv, index=False)
-    df_lineups.to_parquet(lineups_parquet, index=False)
-    logging.info("Saved %s and %s (%d active vessels)", lineups_csv, lineups_parquet, len(df_lineups))
 
     # Emit Pristine UI Coordinate Files: ui_voyage_vectors.csv
     # [vessel_name, imo_number, trajectory_sequence_json, current_port, current_status]
