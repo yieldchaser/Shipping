@@ -2202,6 +2202,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Expanded monthly Brazilian export trade series spanning 2017-01-01 to 2026-07-01 (567 rows). Encompasses Iron Ore (NCM 2601 / Tubarao Capesize demand), Soybeans (NCM 1201 / Santos Panamax demand), Corn (NCM 1005 / safrinha Panamax demand), Raw Sugar (NCM 1701 / Supramax demand), and Crude Oil (NCM 2709 / VLCC demand)."
+    },
+    {
+      "series_id": "commodities_australia_ppa_dampier_throughput",
+      "display_name": "Commodities \u2014 Australia Pilbara Ports (Port of Dampier)",
+      "status": "LIVE",
+      "source_name": "Pilbara Ports Authority (PPA)",
+      "source_url": "https://www.pilbaraports.com.au",
+      "fetch_method": "Official PPA Annual / YTD PDF Parse",
+      "fetch_script": "scripts/scrapers/fetch_ppa_iron_ore.py",
+      "output_file": "data/commodities/australia_ppa_iron_ore.csv",
+      "row_count": 251,
+      "date_span": [
+        "2002-07-01",
+        "2026-06-01"
+      ],
+      "last_fetched_utc": "2026-09-11T06:40:20.908266+00:00",
+      "unit": "Million Tonnes (Mt/mo)",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Port of Dampier monthly iron ore export volume and total throughput (251 observations through 2026-06-01)."
     }
   ]
 }

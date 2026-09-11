@@ -70,7 +70,7 @@ DAMPIER_SOURCES = [
            "2025/klein-stats-july-2024-to-june-2025-ytd.pdf"),
     (2025, "https://www.pilbaraports.com.au/pilbaraportsauthority/media/documents/"
            "port%20of%20dampier/about%20the%20port%20of%20dampier/port%20statistics/"
-           "2026/klein-stats-july-2025-to-may-2026-ytd.pdf"),
+           "2026/klein-stats-july-2025-to-june-2026-ytd.pdf"),
 ]
 DAMPIER_MONTHS = {"JULY": 7, "AUGUST": 8, "SEPTEMBER": 9, "OCTOBER": 10,
                   "NOVEMBER": 11, "DECEMBER": 12, "JANUARY": 1, "FEBRUARY": 2,
@@ -150,10 +150,32 @@ def download_direct(url: str, dest: Path, tries: int = 2) -> bool:
                 return True
         time.sleep(2 * attempt)
 
+    # If bot-walled, try Playwright headless browser download (§0.66 Rung 4)
+    if is_bot_walled:
+        logging.info("Live PPA media is Incapsula-gated; attempting Playwright browser download for %s", url.split('/')[-1])
+        try:
+            from playwright.sync_api import sync_playwright
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                page = browser.new_page()
+                with page.expect_download(timeout=25000) as dl_info:
+                    try:
+                        page.goto(url, timeout=25000)
+                    except Exception:
+                        pass
+                dl = dl_info.value
+                dl.save_as(str(dest))
+                browser.close()
+            if dest.exists() and dest.stat().st_size > 5000:
+                logging.info("Playwright download succeeded for %s (%d bytes)", dest.name, dest.stat().st_size)
+                return True
+        except Exception as exc:
+            logging.warning("Playwright download failed: %s; falling back to Wayback...", exc)
+
     # Fallback to Wayback for Dampier snapshots if live site is bot-walled or direct fetch failed
     dest.unlink(missing_ok=True)
     if is_bot_walled:
-        logging.info("Live PPA media is Incapsula-gated; checking Wayback archive for %s", url.split('/')[-1])
+        logging.info("Checking Wayback archive for %s", url.split('/')[-1])
     try:
         cdx_url = (f"https://web.archive.org/cdx/search/cdx?url={url}"
                    f"&output=json&limit=1&filter=statuscode:200&filter=mimetype:application/pdf")
