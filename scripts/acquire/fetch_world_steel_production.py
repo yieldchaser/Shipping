@@ -218,6 +218,18 @@ def run_pipeline():
     df.to_csv(OUT_CSV, index=False)
     logging.info("Saved %d monthly records to %s (Span: %s -> %s)", len(df), OUT_CSV, df["date"].min(), df["date"].max())
 
+    june_rows = df[df["date"] == "2026-06-01"]
+    june_2026_benchmark = {}
+    if not june_rows.empty:
+        jr = june_rows.iloc[0]
+        june_2026_benchmark = {
+            "world_total_mt": float(jr["world_total_mt"]) if pd.notnull(jr["world_total_mt"]) else None,
+            "yoy_change_pct": float(jr["yoy_change_pct"]) if pd.notnull(jr["yoy_change_pct"]) else None,
+            "china_mt": float(jr["china_mt"]) if pd.notnull(jr["china_mt"]) else None,
+            "india_mt": float(jr["india_mt"]) if pd.notnull(jr["india_mt"]) else None,
+            "source_url": str(jr.get("source_url", "")),
+        }
+
     # Build metadata JSON
     meta = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -233,13 +245,7 @@ def run_pipeline():
             "united_states_mt": float(df[df["date"] == "2026-07-01"]["united_states_mt"].iloc[0]),
             "japan_mt": float(df[df["date"] == "2026-07-01"]["japan_mt"].iloc[0]),
         },
-        "june_2026_benchmark": {
-            "world_total_mt": 155.7,
-            "yoy_change_pct": 1.7,
-            "china_mt": 83.7,
-            "india_mt": 14.1,
-            "validation": "Exact match to Prompt 13 specification (155.7 Mt, +1.7% YoY)",
-        },
+        "june_2026_benchmark": june_2026_benchmark,
         "shipping_transmission_mechanisms": {
             "iron_ore_demand": "Crude steel production determines seaborne iron ore consumption (1.6t ore per 1t steel)",
             "coking_coal_demand": "Basic oxygen furnace steelmaking requires ~0.77t metallurgical coal per 1t crude steel",

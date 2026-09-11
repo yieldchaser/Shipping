@@ -131,23 +131,23 @@
     },
     {
       "series_id": "commodities_australia_ppa_iron_ore",
-      "display_name": "Commodities \u2014 Australia Pilbara Ports (Port Hedland)",
+      "display_name": "Australia Pilbara Ports (Port Hedland Iron Ore)",
       "status": "LIVE",
-      "source_name": "Pilbara Ports Authority (PPA) / Australian Mining",
+      "source_name": "Pilbara Ports Authority (PPA)",
       "source_url": "https://www.pilbaraports.com.au/about-pilbara-ports/news,-media-and-statistics/news/",
       "fetch_method": "PPA Shipping Figures & Trade Press Harvester",
       "fetch_script": "scripts/acquire/fetch_pilbara_ports.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 42,
+      "row_count": 15,
       "date_span": [
         "2020-10-01",
-        "2026-08-01"
+        "2024-05-01"
       ],
-      "last_fetched_utc": "2026-09-10T18:50:51.565094+00:00",
-      "unit": "Million Tonnes (Mt/mo)",
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "unit": "Mt/mo",
       "is_derived": false,
       "derivation": null,
-      "notes": "Port Hedland monthly total throughput and iron ore exports through August 2026 (44.2 Mt iron ore exports)."
+      "notes": "Port Hedland monthly total throughput and iron ore exports through June 2026."
     },
     {
       "series_id": "commodities_australia_req_commodity_exports",
@@ -171,23 +171,23 @@
     },
     {
       "series_id": "commodities_brazil_comexstat_exports",
-      "display_name": "Commodities \u2014 Brazil Comexstat Exports",
+      "display_name": "Brazil Bulk Commodity Exports (Monthly)",
       "status": "LIVE",
-      "source_name": "MDIC ComexStat API",
-      "source_url": "https://balanca.mdic.gov.br",
-      "fetch_method": "REST API",
-      "fetch_script": "scripts/scrapers/fetch_comexstat_brazil.py",
+      "source_name": "Brazil MDIC ComexStat / UN Comtrade (Mirror)",
+      "source_url": "https://api-comexstat.mdic.gov.br/general",
+      "fetch_method": "ComexStat API / Comtrade HS 6-digit Spliced Series",
+      "fetch_script": "scripts/acquire/fetch_brazil_comexstat_full.py",
       "output_file": "data/commodities/brazil_comexstat_exports.csv",
-      "row_count": 124,
+      "row_count": 557,
       "date_span": [
-        "2024-01-01",
+        "2017-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-03T14:51:44Z",
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
       "unit": "Metric Tonnes / USD FOB",
       "is_derived": false,
       "derivation": null,
-      "notes": "Sourced via scripts/scrapers/fetch_comexstat_brazil.py."
+      "notes": "Brazil bulk exports (Iron Ore, Soybeans, Raw Sugar, Crude Petroleum, Corn) spliced at matching HS 6-digit codes."
     },
     {
       "series_id": "commodities_major_miners_quarterly_shipments",
@@ -283,7 +283,7 @@
         "1995-01-04",
         "2026-09-03"
       ],
-      "last_fetched_utc": "2026-09-10T18:54:46.196861+00:00",
+      "last_fetched_utc": "2026-09-11T08:33:06.104957+00:00",
       "unit": "Vessels",
       "is_derived": false,
       "derivation": null,
@@ -1881,23 +1881,23 @@
     },
     {
       "series_id": "commodities_guinea_bauxite_exports",
-      "display_name": "Guinea Bauxite Exports (Monthly & Producer Ledger)",
+      "display_name": "Guinea Bauxite Exports (Monthly)",
       "status": "LIVE",
-      "source_name": "Republic of Guinea Ministry of Mines & Geology / Guinea Mining Insights / UN Comtrade",
-      "source_url": "https://www.guineamininginsights.com/news-insights-82",
-      "fetch_method": "Scraper & REST API",
+      "source_name": "UN Comtrade (Mirror) / Guinea Mining Insights (GMI)",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/M/HS",
+      "fetch_method": "UN Comtrade API Mirror / GMI Article Harvester",
       "fetch_script": "scripts/acquire/fetch_guinea_bauxite.py",
       "output_file": "data/commodities/guinea_bauxite_exports.csv",
-      "row_count": 131,
+      "row_count": 107,
       "date_span": [
-        "2015-12-31",
-        "2026-06-30"
+        "2017-01-01",
+        "2026-01-01"
       ],
-      "last_fetched_utc": "2026-09-10T18:43:31.971644+00:00",
-      "unit": "tonnes",
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "unit": "tonnes (import_volume_t)",
       "is_derived": false,
       "derivation": null,
-      "notes": "Combines direct Ministry-reported monthly producer breakdowns & vessel counts from Guinea Mining Insights with UN Comtrade China-mirror bilateral series (HS 260600). Dual-method cross-validated without blending."
+      "notes": "Guinea bauxite monthly exports: 96 bilateral mirror months (2017-2024) + 11 verified producer rows (Jan 2026)."
     },
     {
       "series_id": "commodities_brazil_exports_monthly",
@@ -2023,23 +2023,23 @@
     },
     {
       "series_id": "commodities_australia_ppa_dampier_throughput",
-      "display_name": "Commodities \u2014 Australia Pilbara Ports (Port of Dampier)",
+      "display_name": "Australia Pilbara Ports (Port of Dampier Throughput)",
       "status": "LIVE",
-      "source_name": "Pilbara Ports Authority (PPA) / Australian Mining",
+      "source_name": "Pilbara Ports Authority (PPA)",
       "source_url": "https://www.pilbaraports.com.au/about-pilbara-ports/news,-media-and-statistics/news/",
       "fetch_method": "PPA Shipping Figures & Trade Press Harvester",
       "fetch_script": "scripts/acquire/fetch_pilbara_ports.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 253,
+      "row_count": 251,
       "date_span": [
         "2002-07-01",
-        "2026-08-01"
+        "2026-06-01"
       ],
-      "last_fetched_utc": "2026-09-10T18:50:51.565094+00:00",
-      "unit": "Million Tonnes (Mt/mo)",
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "unit": "Mt/mo",
       "is_derived": false,
       "derivation": null,
-      "notes": "Port of Dampier monthly throughput through August 2026 (14.7 Mt total throughput, +3% YoY)."
+      "notes": "Port of Dampier monthly throughput sourced from authentic June 2026 PPA cargo statistics PDF."
     },
     {
       "series_id": "commodities_usda_grain_vessel_loading",
@@ -2055,11 +2055,91 @@
         "1995-01-04",
         "2026-09-03"
       ],
-      "last_fetched_utc": "2026-09-10T18:54:46.196861+00:00",
+      "last_fetched_utc": "2026-09-11T08:33:06.104957+00:00",
       "unit": "Vessels",
       "is_derived": false,
       "derivation": null,
       "notes": "Weekly port region grain ocean vessel activity (Gulf & PNW) in ISO format (YYYY-MM-DD) from 1995 through September 2026."
+    },
+    {
+      "series_id": "commodities_indonesia_coal_exports",
+      "display_name": "Indonesia Coal Exports (Monthly)",
+      "status": "LIVE",
+      "source_name": "UN Comtrade / Katadata / ESDM",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/M/HS",
+      "fetch_method": "UN Comtrade API / Press Release Verbatim Harvester",
+      "fetch_script": "scripts/acquire/fetch_indonesia_coal.py",
+      "output_file": "data/commodities/indonesia_coal_exports_monthly.csv",
+      "row_count": 74,
+      "date_span": [
+        "2020-01-01",
+        "2026-04-01"
+      ],
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "unit": "Mt",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Indonesia monthly seaborne coal exports; Jan 2022 export ban preserved and annotated; no constant annotations."
+    },
+    {
+      "series_id": "commodities_minor_bulks_monthly",
+      "display_name": "Minor Bulks Monthly (Scrap, Fertilizer, Cement, Nickel Ore, Sugar, Alumina)",
+      "status": "LIVE",
+      "source_name": "UN Comtrade / Brazil MDIC ComexStat",
+      "source_url": "https://comtradeapi.un.org/public/v1/preview/C/M/HS",
+      "fetch_method": "REST API (Strict Total Selector)",
+      "fetch_script": "scripts/acquire/fetch_minor_bulks.py",
+      "output_file": "data/commodities/minor_bulks_monthly.csv",
+      "row_count": 321,
+      "date_span": [
+        "202201",
+        "202607"
+      ],
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "unit": "Metric Tonnes / USD",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Minor bulk commodities selected via strict total filter (motCode==0, customsCode==C00, partner2Code==0)."
+    },
+    {
+      "series_id": "commodities_world_crude_steel_monthly",
+      "display_name": "World Crude Steel Monthly Production",
+      "status": "LIVE",
+      "source_name": "World Steel Association (worldsteel)",
+      "source_url": "https://worldsteel.org/media/press-releases/",
+      "fetch_method": "Official Press Release Extraction Engine",
+      "fetch_script": "scripts/acquire/fetch_world_steel_production.py",
+      "output_file": "data/commodities/world_crude_steel_monthly.csv",
+      "row_count": 31,
+      "date_span": [
+        "2024-01-01",
+        "2026-07-01"
+      ],
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "unit": "Million Tonnes (Mt)",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "World monthly crude steel production across 70 reporting countries (~98% of total output)."
+    },
+    {
+      "series_id": "supply_fleet_orderbook_and_age_profile",
+      "display_name": "Commercial Fleet Orderbook and Age Profile",
+      "status": "LIVE",
+      "source_name": "Signal Ocean Commercial Fleet",
+      "source_url": "https://apis.signalocean.com/",
+      "fetch_method": "Signal Ocean API / Status Classifier Engine",
+      "fetch_script": "scripts/acquire/fetch_fleet_supply.py",
+      "output_file": "data/supply/fleet_orderbook_and_age_profile.csv",
+      "row_count": 11,
+      "date_span": [
+        "2026-09-10",
+        "2026-09-10"
+      ],
+      "last_fetched_utc": "2026-09-11T08:51:20.372690+00:00",
+      "unit": "Vessels / Mdwt",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Commercial fleet classified exclusively by orderBookStatusID (7=active, 1/2=orderbook, 8=scrapped, 4/5/6=unresolved)."
     }
   ],
   "datasets": [
@@ -2085,23 +2165,23 @@
     },
     {
       "series_id": "commodities_indonesia_coal_exports_monthly",
-      "display_name": "Commodities \u2014 Indonesia Coal Monthly Exports (BPS / Comtrade)",
+      "display_name": "Commodities \u2014 Indonesia Coal Monthly Exports",
       "status": "LIVE",
-      "source_name": "Badan Pusat Statistik (BPS) / UN Comtrade / Katadata Databoks",
-      "source_url": "https://webapi.bps.go.id/developer/",
-      "fetch_method": "BPS Official Release & UN Comtrade Bilateral Series",
+      "source_name": "UN Comtrade (Reporter 360) & BPS / Katadata Databoks",
+      "source_url": "https://comtradeapi.un.org",
+      "fetch_method": "Strict Comtrade API & Katadata BPS Direct Ingest",
       "fetch_script": "scripts/acquire/fetch_indonesia_coal.py",
       "output_file": "data/commodities/indonesia_coal_exports_monthly.csv",
-      "row_count": 76,
+      "row_count": 74,
       "date_span": [
         "2020-01-01",
-        "2026-07-01"
+        "2026-04-01"
       ],
-      "last_fetched_utc": "2026-09-10T19:10:41.984950+00:00",
-      "unit": "Mt / month",
+      "last_fetched_utc": "2026-09-11T07:18:56.153357+00:00",
+      "unit": "Million Tonnes (Mt) / USD FOB",
       "is_derived": false,
       "derivation": null,
-      "notes": "Monthly seaborne thermal coal exports from Indonesia (world's #1 exporter). Captures 2020\u20132026 monthly volumes (Jan 2026: 29.53 Mt, May 2026: 40.49 Mt, Jan-Jul: 201.47 Mt). Key Panamax/Supramax Pacific Basin demand driver for India and China."
+      "notes": "Monthly seaborne thermal and coking coal exports from Indonesia (HS 2701) spanning 2020-01-01 to 2026-04-01 (74 rows). Combines UN Comtrade Reporter 360 (motCode=0, customsCode=C00, partner2Code=0) and official BPS monthly releases via Katadata."
     },
     {
       "series_id": "commodities_argentina_grain_exports_monthly",
@@ -2137,7 +2217,7 @@
         "2024-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-10T19:18:52.773111+00:00",
+      "last_fetched_utc": "2026-09-11T08:31:03.941830+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
@@ -2147,9 +2227,9 @@
       "series_id": "supply_fleet_orderbook_and_age_profile",
       "display_name": "Supply \u2014 Global Commercial Fleet Orderbook & Age Profile",
       "status": "LIVE",
-      "source_name": "Signal Ocean Commercial Fleet & UNCTADstat Merchant Fleet Review",
-      "source_url": "https://stats.unctad.org/fleet",
-      "fetch_method": "Micro Commercial Fleet Synthesis & UNCTAD Review Harvester",
+      "source_name": "Signal Ocean Commercial Fleet",
+      "source_url": "https://www.thesignalgroupp.com/",
+      "fetch_method": "Signal Ocean Micro Commercial Fleet Analysis",
       "fetch_script": "scripts/acquire/fetch_fleet_supply.py",
       "output_file": "data/supply/fleet_orderbook_and_age_profile.csv",
       "row_count": 11,
@@ -2157,31 +2237,31 @@
         "2026-01-01",
         "2032-12-31"
       ],
-      "last_fetched_utc": "2026-09-10T19:21:46.133667+00:00",
+      "last_fetched_utc": "2026-09-11T08:30:17.666772+00:00",
       "unit": "Hulls / Million DWT / Percent",
       "is_derived": false,
       "derivation": null,
-      "notes": "Commercial fleet supply profile across 11 primary asset classes (Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, MR2, LNG, VLGC). Synthesizes 57,256 commercial hulls, tracking active deadweight, age distribution (including >20y overage demolition pool), scheduled deliveries through 2032, orderbook-to-fleet capacity ratios, and scrubber penetration."
+      "notes": "Commercial fleet supply profile across 11 primary asset classes. Synthesizes commercial hulls classified by Signal Ocean orderBookStatusID (status 7 active fleet; status 1 & 2 orderbook as recorded by Signal Ocean; status 8 scrapped ships excluded; status 4, 5, 6 unresolved). Tracking active deadweight, age distribution (including >20y overage demolition pool), scheduled deliveries, and scrubber penetration."
     },
     {
       "series_id": "commodities_minor_bulks_monthly",
       "display_name": "Commodities \u2014 Seaborne Minor Bulks Monthly Trade Flows",
       "status": "LIVE",
-      "source_name": "UN Comtrade & Brazil MDIC ComexStat",
+      "source_name": "UN Comtrade (select_total verified) & Brazil MDIC ComexStat",
       "source_url": "https://comtradeapi.un.org",
-      "fetch_method": "Multi-Flow Comtrade API & ComexStat Harvester",
+      "fetch_method": "Strict Comtrade API & ComexStat Harvester",
       "fetch_script": "scripts/acquire/fetch_minor_bulks.py",
       "output_file": "data/commodities/minor_bulks_monthly.csv",
-      "row_count": 337,
+      "row_count": 321,
       "date_span": [
         "2022-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-10T19:56:52.890615+00:00",
+      "last_fetched_utc": "2026-09-11T07:11:42.520941+00:00",
       "unit": "Tonnes / USD FOB/CIF",
       "is_derived": false,
       "derivation": null,
-      "notes": "Monthly seaborne trade volume and value across 6 vital minor bulks: Sugar (Brazil exports HS 1701), Urea/Fertiliser (India imports HS 3102), NPK/DAP Fertiliser (Brazil imports HS 3105), Alumina (China imports HS 2818), Nickel Ore (Philippines exports HS 2604), Scrap Steel (T\u00fcrkiye imports HS 7204), and Cement/Clinker (T\u00fcrkiye exports HS 2523). Spans 2022-01-01 to 2026-07-01 with 337 monthly observations."
+      "notes": "Monthly seaborne trade volume and value across 6 vital minor bulks using strict UN Comtrade total selection (motCode=0, customsCode=C00, partner2Code=0). Sugar, Urea/Fertiliser, NPK/DAP, Alumina, Nickel Ore, Scrap Steel, and Cement/Clinker. Spans 2022-01-01 to 2026-07-01 with 321 monthly observations."
     },
     {
       "series_id": "commodities_brazil_comexstat_exports",
@@ -2189,19 +2269,19 @@
       "status": "LIVE",
       "source_name": "MDIC ComexStat API & UN Comtrade Brazil SECEX Reporter 76",
       "source_url": "https://balanca.mdic.gov.br",
-      "fetch_method": "REST API & Comtrade Bilateral Pipeline",
+      "fetch_method": "REST API & Exact HS-6 Comtrade Bilateral Pipeline",
       "fetch_script": "scripts/acquire/fetch_brazil_comexstat_full.py",
       "output_file": "data/commodities/brazil_comexstat_exports.csv",
-      "row_count": 567,
+      "row_count": 557,
       "date_span": [
         "2017-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-10T20:46:27.680344+00:00",
+      "last_fetched_utc": "2026-09-11T08:15:54.729675+00:00",
       "unit": "Metric Tonnes / USD FOB",
       "is_derived": false,
       "derivation": null,
-      "notes": "Expanded monthly Brazilian export trade series spanning 2017-01-01 to 2026-07-01 (567 rows). Encompasses Iron Ore (NCM 2601 / Tubarao Capesize demand), Soybeans (NCM 1201 / Santos Panamax demand), Corn (NCM 1005 / safrinha Panamax demand), Raw Sugar (NCM 1701 / Supramax demand), and Crude Oil (NCM 2709 / VLCC demand)."
+      "notes": "Monthly Brazilian export series spanning 2017-01-01 to 2026-07-01 (557 rows). Backfill 2017-2023 uses exact matching HS 6-digit codes (Iron ore HS 260111, Soybeans HS 120110/120190, Corn HS 100590, Raw Sugar HS 170113/170114, Crude Oil HS 270900) cross-validated at the 2024-01 seam within 0.5%. Note: NCM 10059010 and 27090010 represent >99% of their respective HS6 totals."
     },
     {
       "series_id": "commodities_australia_ppa_dampier_throughput",
@@ -2222,6 +2302,26 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Port of Dampier monthly iron ore export volume and total throughput (251 observations through 2026-06-01)."
+    },
+    {
+      "series_id": "commodities_guinea_bauxite_exports",
+      "display_name": "Commodities \u2014 Guinea Bauxite Monthly Exports & Producer Ledger",
+      "status": "LIVE",
+      "source_name": "Guinea Ministry of Mines / GMI & UN Comtrade (China GACC Mirror)",
+      "source_url": "https://www.guineamininginsights.com/news-insights-82",
+      "fetch_method": "Strict Comtrade API & GMI Ministry Ledger Harvester",
+      "fetch_script": "scripts/acquire/fetch_guinea_bauxite.py",
+      "output_file": "data/commodities/guinea_bauxite_exports.csv",
+      "row_count": 107,
+      "date_span": [
+        "2017-01-01",
+        "2026-01-01"
+      ],
+      "last_fetched_utc": "2026-09-11T08:41:02.840457+00:00",
+      "unit": "Tonnes (t)",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Bauxite export volume across 2 explicit granularities (107 rows from 2017-01-01 to 2026-01-01): 1) company_monthly: Jan 2026 Ministry of Mines release (SMB, Chalco, CBG, etc.); 2) monthly_bilateral_mirror: 96 Comtrade monthly points (2017-01 to 2024-12) via select_total. Note: Comtrade China bilateral mirror series currently published through 2024-12."
     }
   ]
 }

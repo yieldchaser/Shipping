@@ -1,0 +1,58 @@
+{
+  "dataset": "Signal Ocean Commercial Fleet Registry",
+  "confidence": "inferred from yearBuilt distribution",
+  "description": "Classification mapping for Signal Ocean orderBookStatusID across 57,256 commercial hulls",
+  "status_mapping": {
+    "1": {
+      "classification": "on order",
+      "bucket": "orderbook",
+      "median_yearBuilt": 2027,
+      "treatment": "included in forward orderbook"
+    },
+    "2": {
+      "classification": "on order / under construction",
+      "bucket": "orderbook",
+      "median_yearBuilt": 2027,
+      "treatment": "included in forward orderbook"
+    },
+    "4": {
+      "classification": "unresolved holding",
+      "bucket": "status_unresolved",
+      "median_yearBuilt": 2017,
+      "treatment": "reported in unresolved audit bucket; excluded from active and orderbook"
+    },
+    "5": {
+      "classification": "unresolved pending",
+      "bucket": "status_unresolved",
+      "median_yearBuilt": 2027,
+      "treatment": "reported in unresolved audit bucket; excluded from active and orderbook"
+    },
+    "6": {
+      "classification": "unresolved unconfirmed",
+      "bucket": "status_unresolved",
+      "median_yearBuilt": 2026,
+      "treatment": "reported in unresolved audit bucket; excluded from active and orderbook"
+    },
+    "7": {
+      "classification": "in service",
+      "bucket": "fleet",
+      "median_yearBuilt": 2011,
+      "treatment": "included in active commercial operating fleet"
+    },
+    "8": {
+      "classification": "scrapped / dead / decommissioned",
+      "bucket": "scrapped",
+      "median_yearBuilt": 1984,
+      "treatment": "strictly excluded from active operating fleet and forward orderbook"
+    }
+  },
+  "dry_bulk_distribution_evidence": {
+    "7": {"hulls": 26181, "median_yearBuilt": 2011, "inferred_meaning": "in service"},
+    "8": {"hulls": 5425, "median_yearBuilt": 1984, "inferred_meaning": "scrapped / dead"},
+    "1": {"hulls": 444, "median_yearBuilt": 2027, "inferred_meaning": "on order"},
+    "2": {"hulls": 882, "median_yearBuilt": 2027, "inferred_meaning": "on order / under construction"},
+    "4": {"hulls": 521, "median_yearBuilt": 2017, "inferred_meaning": "unresolved"},
+    "5": {"hulls": 64, "median_yearBuilt": 2027, "inferred_meaning": "unresolved"},
+    "6": {"hulls": 42, "median_yearBuilt": 2026, "inferred_meaning": "unresolved"}
+  }
+}

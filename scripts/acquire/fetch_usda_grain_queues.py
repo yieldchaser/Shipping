@@ -88,13 +88,32 @@ def parse_vessel_activity():
         except Exception:
             week = int(raw_dt.strftime("%W"))
 
+        def to_num(v, is_float=False):
+            if pd.isna(v):
+                return ""
+            try:
+                fl = float(v)
+                return round(fl, 2) if is_float else int(fl)
+            except Exception:
+                return ""
+
         # Gulf metrics:
+        # Loading: Unnamed: 2
+        # Waiting to load: Gulf
         # In Port: Unnamed: 4
+        # In Port 4-year avg: In port
         # Loaded 7-Days: Unnamed: 6
+        # Loaded 4-year avg: Loaded
         # Due 10-Days: Unnamed: 8
-        g_in = df.iloc[idx]["Unnamed: 4"]
-        g_loaded = df.iloc[idx]["Unnamed: 6"]
-        g_due = df.iloc[idx]["Unnamed: 8"]
+        # Due 4-year avg: Due
+        g_loading = to_num(df.iloc[idx]["Unnamed: 2"])
+        g_waiting = to_num(df.iloc[idx]["Gulf"])
+        g_in = to_num(df.iloc[idx]["Unnamed: 4"])
+        g_in_4yr = to_num(df.iloc[idx]["In port"], is_float=True)
+        g_loaded = to_num(df.iloc[idx]["Unnamed: 6"], is_float=True)
+        g_loaded_4yr = to_num(df.iloc[idx]["Loaded"], is_float=True)
+        g_due = to_num(df.iloc[idx]["Unnamed: 8"], is_float=True)
+        g_due_4yr = to_num(df.iloc[idx]["Due"], is_float=True)
 
         rows.append({
             "date": dt_iso,
@@ -102,20 +121,29 @@ def parse_vessel_activity():
             "month": month,
             "year": year,
             "port": "Gulf",
-            "in_port": int(g_in) if pd.notna(g_in) and str(g_in).replace('.','',1).isdigit() else "",
-            "loaded_7_days": float(g_loaded) if pd.notna(g_loaded) and str(g_loaded).replace('.','',1).isdigit() else "",
-            "due_10_days": float(g_due) if pd.notna(g_due) and str(g_due).replace('.','',1).isdigit() else "",
             "port_region": "Mississippi River",
-            "vessels_due_10d": float(g_due) if pd.notna(g_due) and str(g_due).replace('.','',1).isdigit() else ""
+            "loading": g_loading,
+            "waiting_to_load": g_waiting,
+            "in_port": g_in,
+            "in_port_4yr_avg": g_in_4yr,
+            "loaded_7_days": g_loaded,
+            "loaded_4yr_avg": g_loaded_4yr,
+            "due_10_days": g_due,
+            "due_4yr_avg": g_due_4yr,
+            "vessels_due_10d": g_due,
         })
 
         # PNW metrics:
+        # Loading: PNW
+        # Waiting to load: Unnamed: 11
         # In Port: Unnamed: 12
         # Loaded 7-Days: Unnamed: 13
         # Due 10-Days: Unnamed: 14
-        p_in = df.iloc[idx]["Unnamed: 12"]
-        p_loaded = df.iloc[idx]["Unnamed: 13"]
-        p_due = df.iloc[idx]["Unnamed: 14"]
+        p_loading = to_num(df.iloc[idx]["PNW"])
+        p_waiting = to_num(df.iloc[idx]["Unnamed: 11"])
+        p_in = to_num(df.iloc[idx]["Unnamed: 12"])
+        p_loaded = to_num(df.iloc[idx]["Unnamed: 13"], is_float=True)
+        p_due = to_num(df.iloc[idx]["Unnamed: 14"], is_float=True)
 
         rows.append({
             "date": dt_iso,
@@ -123,11 +151,16 @@ def parse_vessel_activity():
             "month": month,
             "year": year,
             "port": "PNW",
-            "in_port": int(p_in) if pd.notna(p_in) and str(p_in).replace('.','',1).isdigit() else "",
-            "loaded_7_days": float(p_loaded) if pd.notna(p_loaded) and str(p_loaded).replace('.','',1).isdigit() else "",
-            "due_10_days": float(p_due) if pd.notna(p_due) and str(p_due).replace('.','',1).isdigit() else "",
             "port_region": "Pacific Northwest",
-            "vessels_due_10d": float(p_due) if pd.notna(p_due) and str(p_due).replace('.','',1).isdigit() else ""
+            "loading": p_loading,
+            "waiting_to_load": p_waiting,
+            "in_port": p_in,
+            "in_port_4yr_avg": "",
+            "loaded_7_days": p_loaded,
+            "loaded_4yr_avg": "",
+            "due_10_days": p_due,
+            "due_4yr_avg": "",
+            "vessels_due_10d": p_due,
         })
 
     df_out = pd.DataFrame(rows)
@@ -220,12 +253,22 @@ def main():
         logging.info("Validation 2026-08-13 Gulf: Loaded=%s (expected 29), Due=%s (expected 31)", r2["loaded_7_days"], r2["due_10_days"])
 
     # Columns for usda_grain_vessel_loading.csv
-    cols_vessel_loading = ["date", "week", "month", "year", "port", "in_port", "loaded_7_days", "due_10_days"]
+    cols_vessel_loading = [
+        "date", "week", "month", "year", "port",
+        "loading", "waiting_to_load", "in_port", "in_port_4yr_avg",
+        "loaded_7_days", "loaded_4yr_avg",
+        "due_10_days", "due_4yr_avg"
+    ]
     df[cols_vessel_loading].to_csv(OUT_CSV1, index=False, encoding="utf-8")
     logging.info("Wrote %d rows to %s", len(df), OUT_CSV1)
 
     # Columns for usda_grain_vessel_loading_queues.csv
-    cols_queues = ["date", "week", "month", "year", "port", "in_port", "loaded_7_days", "due_10_days", "port_region", "vessels_due_10d"]
+    cols_queues = [
+        "date", "week", "month", "year", "port", "port_region",
+        "loading", "waiting_to_load", "in_port", "in_port_4yr_avg",
+        "loaded_7_days", "loaded_4yr_avg",
+        "due_10_days", "due_4yr_avg", "vessels_due_10d"
+    ]
     df[cols_queues].to_csv(OUT_CSV2, index=False, encoding="utf-8")
     logging.info("Wrote %d rows to %s", len(df), OUT_CSV2)
 

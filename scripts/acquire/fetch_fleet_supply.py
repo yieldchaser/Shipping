@@ -3,16 +3,13 @@
 Target 9 — Fleet Supply Side Ingestion & Orderbook Analytics Engine
 ==================================================================
 Synthesizes the global commercial shipping supply side across:
-1. UNCTADstat Merchant Fleet Database & Review of Maritime Transport benchmarks:
-   - World fleet as of 1 Jan 2026: ~116,000 vessels, 2.50 billion DWT (+85M DWT YoY)
-   - Tankers + Bulkers represent 69.2% of total global carrying capacity
-   - Shipyard completions: China, South Korea, Japan represent 91.4% of completions
-   - Demolition & recycling: India, Bangladesh, Türkiye represent 80.2% of scrapped tonnage
-2. Signal Ocean Commercial Fleet Records (57,256 commercial hulls on disk):
+1. Signal Ocean Commercial Fleet Records (57,256 commercial hulls on disk):
+   - Classified by orderBookStatusID (status 7 = active fleet; 1, 2 = orderbook; 8 = scrapped; 4, 5, 6 = unresolved)
    - Derives age profile (0–4y, 5–9y, 10–14y, 15–19y, 20+y overage demolition pool)
    - Derives orderbook-to-fleet capacity ratios (% of fleet on order)
    - Computes delivery schedules by year (2026, 2027, 2028, 2029+)
    - Measures scrubber adoption rate across Capesize, Panamax, VLCC, and gas carriers
+   - Orderbook is reported as recorded by Signal Ocean (coverage of unbuilt hulls is partial/indicative)
 
 Outputs:
 - data/supply/fleet_orderbook_and_age_profile.csv
@@ -25,7 +22,6 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 import pandas as pd
-import requests
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
@@ -36,16 +32,6 @@ SUPPLY_DIR.mkdir(parents=True, exist_ok=True)
 OUT_CSV = SUPPLY_DIR / "fleet_orderbook_and_age_profile.csv"
 OUT_JSON = SUPPLY_DIR / "merchant_fleet_summary.json"
 MANIFEST_FILE = REPO_ROOT / "data" / "provenance" / "manifest.json"
-
-UNCTAD_URLS = [
-    "https://stats.unctad.org/fleet",
-    "https://unctadstat.unctad.org/datacentre/reportInfo/US.MerchantFleet",
-]
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-}
 
 CURRENT_YEAR = 2026
 
@@ -67,24 +53,8 @@ ASSET_CLASS_SPECS = [
 ]
 
 
-def verify_unctad_endpoints():
-    """Verify live UNCTADstat fleet portal endpoints."""
-    results = {}
-    for url in UNCTAD_URLS:
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=12)
-            results[url] = {"status": r.status_code, "bytes": len(r.text)}
-            logging.info("UNCTADstat probe %s -> HTTP %d (%d bytes)", url, r.status_code, len(r.text))
-        except Exception as e:
-            results[url] = {"status": "error", "error": str(e)}
-            logging.warning("UNCTADstat probe failed for %s: %s", url, e)
-    return results
-
-
 def process_fleet_data():
     """Process micro fleet records across all vessel categories."""
-    unctad_probes = verify_unctad_endpoints()
-
     # Load datasets into memory
     loaded_files = {}
     for spec in ASSET_CLASS_SPECS:
@@ -103,6 +73,8 @@ def process_fleet_data():
     total_orderbook_hulls = 0
     total_fleet_dwt = 0.0
     total_orderbook_dwt = 0.0
+    total_unresolved_hulls = 0
+    total_scrapped_hulls = 0
 
     for spec in ASSET_CLASS_SPECS:
         c_name = spec["class_name"]
@@ -113,9 +85,15 @@ def process_fleet_data():
         if not matched:
             continue
 
-        # Split into active fleet (built < 2026) vs orderbook (built >= 2026)
-        active = [v for v in matched if (v.get("yearBuilt") or 0) < CURRENT_YEAR and (v.get("yearBuilt") or 0) >= 1980]
-        orderbook = [v for v in matched if (v.get("yearBuilt") or 0) >= CURRENT_YEAR]
+        # Classify by orderBookStatusID per data/reference/signal_orderbook_status_map.json:
+        # 7 -> active fleet
+        # 1, 2 -> orderbook (orderbook as recorded by Signal Ocean)
+        # 8 -> scrapped / dead (strictly excluded)
+        # 4, 5, 6 -> unresolved (reported separately, excluded from active and orderbook)
+        active = [v for v in matched if v.get("orderBookStatusID") == 7]
+        orderbook = [v for v in matched if v.get("orderBookStatusID") in (1, 2)]
+        unresolved = [v for v in matched if v.get("orderBookStatusID") in (4, 5, 6)]
+        scrapped = [v for v in matched if v.get("orderBookStatusID") == 8]
 
         active_count = len(active)
         active_dwt = sum(float(v.get("deadweight") or 0.0) for v in active)
@@ -137,6 +115,9 @@ def process_fleet_data():
         ob_dwt = sum(float(v.get("deadweight") or 0.0) for v in orderbook)
         total_orderbook_hulls += ob_count
         total_orderbook_dwt += ob_dwt
+
+        total_unresolved_hulls += len(unresolved)
+        total_scrapped_hulls += len(scrapped)
 
         ob_to_fleet_pct = round((ob_dwt / active_dwt) * 100, 1) if active_dwt > 0 else 0.0
 
@@ -169,7 +150,9 @@ def process_fleet_data():
             "deliveries_2028_count": deliv_2028,
             "deliveries_2029_plus_count": deliv_2029_plus,
             "scrubber_fitted_pct": scrubber_pct,
-            "source": "Signal Ocean Commercial Fleet & UNCTADstat Merchant Fleet Review",
+            "status_unresolved_vessel_count": len(unresolved),
+            "scrapped_excluded_vessel_count": len(scrapped),
+            "source": "Signal Ocean Commercial Fleet (orderbook as recorded by Signal Ocean)",
         })
 
     df = pd.DataFrame(rows)
@@ -179,24 +162,16 @@ def process_fleet_data():
     # Master summary JSON
     summary = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "unctad_benchmarks_2026": {
-            "world_fleet_vessels": 116000,
-            "world_fleet_dwt_billion": 2.50,
-            "yoy_capacity_growth_dwt_million": 85.0,
-            "tankers_and_bulkers_share_pct": 69.2,
-            "top_shipbuilding_nations_share_pct": 91.4,
-            "top_shipbuilding_nations": ["China", "South Korea", "Japan"],
-            "top_ship_recycling_nations_share_pct": 80.2,
-            "top_ship_recycling_nations": ["India", "Bangladesh", "Türkiye"],
-            "source_urls": UNCTAD_URLS,
-        },
+        "status_mapping_reference": "data/reference/signal_orderbook_status_map.json",
         "signal_ocean_computed_fleet_metrics": {
             "total_commercial_tracked_hulls": sum(len(f) for f in loaded_files.values()),
             "primary_cargo_active_hulls": total_active_hulls,
             "primary_cargo_active_dwt_million": round(total_fleet_dwt / 1e6, 1),
-            "total_orderbook_hulls_scheduled": total_orderbook_hulls,
+            "total_orderbook_hulls_as_recorded": total_orderbook_hulls,
             "total_orderbook_dwt_million": round(total_orderbook_dwt / 1e6, 1),
-            "aggregate_orderbook_to_fleet_pct": round((total_orderbook_dwt / total_fleet_dwt) * 100, 1),
+            "aggregate_orderbook_to_fleet_pct": round((total_orderbook_dwt / total_fleet_dwt) * 100, 1) if total_fleet_dwt > 0 else 0.0,
+            "total_unresolved_hulls": total_unresolved_hulls,
+            "total_scrapped_hulls_excluded": total_scrapped_hulls,
         },
         "asset_classes": rows,
     }
@@ -224,9 +199,9 @@ def update_manifest(df):
         "series_id": series_id,
         "display_name": "Supply — Global Commercial Fleet Orderbook & Age Profile",
         "status": "LIVE",
-        "source_name": "Signal Ocean Commercial Fleet & UNCTADstat Merchant Fleet Review",
-        "source_url": "https://stats.unctad.org/fleet",
-        "fetch_method": "Micro Commercial Fleet Synthesis & UNCTAD Review Harvester",
+        "source_name": "Signal Ocean Commercial Fleet",
+        "source_url": "https://www.thesignalgroupp.com/",
+        "fetch_method": "Signal Ocean Micro Commercial Fleet Analysis",
         "fetch_script": "scripts/acquire/fetch_fleet_supply.py",
         "output_file": "data/supply/fleet_orderbook_and_age_profile.csv",
         "row_count": len(df),
@@ -236,10 +211,10 @@ def update_manifest(df):
         "is_derived": False,
         "derivation": None,
         "notes": (
-            f"Commercial fleet supply profile across {len(df)} primary asset classes (Capesize, Panamax, "
-            f"Supramax, Handysize, VLCC, Suezmax, Aframax, MR2, LNG, VLGC). Synthesizes 57,256 commercial hulls, "
-            f"tracking active deadweight, age distribution (including >20y overage demolition pool), "
-            f"scheduled deliveries through 2032, orderbook-to-fleet capacity ratios, and scrubber penetration."
+            f"Commercial fleet supply profile across {len(df)} primary asset classes. Synthesizes commercial hulls "
+            f"classified by Signal Ocean orderBookStatusID (status 7 active fleet; status 1 & 2 orderbook as recorded "
+            f"by Signal Ocean; status 8 scrapped ships excluded; status 4, 5, 6 unresolved). Tracking active deadweight, "
+            f"age distribution (including >20y overage demolition pool), scheduled deliveries, and scrubber penetration."
         ),
     }
 

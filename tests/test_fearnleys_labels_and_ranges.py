@@ -112,44 +112,72 @@ def test_baltic_route_taxonomy_reference():
     for code in ["C3", "C5", "C9_182", "C10_182", "P1A_82", "P2A_82", "P3A_82", "P4_82", "S1C", "S1B", "S4A", "S4B", "S10", "TD3C", "TD20"]:
         assert code in tax["routes"], f"Taxonomy missing expected Baltic route {code}!"
 
-def test_taxonomy_coherence():
-    """Permanent test per Guardrails §0.55: Every official route code in a header
-    must be consistent with its definition in data/reference/baltic_route_taxonomy.json.
-    """
+REGISTRY_PATH = ROOT / "data" / "reference" / "fearnleys_tsid_registry.json"
+
+KNOWN_EXEMPT_PARENS = {
+    "Singapore", "Rotterdam", "Brent Crude", "SOFR/LIBOR", "Dirty Tanker",
+    "TD3/TD3C transition", "mislabelled 1 Year TC - VLCC",
+    "mislabelled 1 Year TC - Suezmax", "mislabelled 1 Year TC - Aframax",
+    "mislabelled LR1 TC", "mislabelled Handy TC",
+}
+
+def check_taxonomy_coherence(headers):
+    """Core assertion function for taxonomy coherence, accepting any header list."""
     tax_path = ROOT / "data" / "reference" / "baltic_route_taxonomy.json"
+    assert tax_path.exists(), "baltic_route_taxonomy.json must exist"
+    assert REGISTRY_PATH.exists(), "fearnleys_tsid_registry.json must exist"
+
     with open(tax_path, "r", encoding="utf-8") as f:
         tax = json.load(f)
     routes = tax["routes"]
 
-    headers, _ = load_data()
-    for h in headers[1:]:
-        # 1. Negative checks: S1B is Canakkale/China-Korea; must never be labelled Transatlantic RV
+    with open(REGISTRY_PATH, "r", encoding="utf-8") as f:
+        registry = json.load(f)
+
+    for h in headers:
+        if h == "date":
+            continue
+        m_tsid = re.search(r"\(tsid_(\d+)\)", h)
+        assert m_tsid, f"Header {h} lacks (tsid_N) tag!"
+        tsid_str = m_tsid.group(1)
+        assert tsid_str in registry, f"tsid {tsid_str} not found in fearnleys_tsid_registry.json!"
+
+        reg_entry = registry[tsid_str]
+        expected_code = reg_entry.get("code")
+
+        all_parens = re.findall(r"\(([^)]+)\)", h)
+        codes_found = [p for p in all_parens if not p.startswith("tsid_") and p not in KNOWN_EXEMPT_PARENS]
+
+        # 1. Every code in parentheses must exist in the taxonomy — unknown codes fail
+        for c in codes_found:
+            assert c in routes, f"Header {h} carries route code '({c})' which does not exist in Baltic taxonomy!"
+
+        # 2. If an expected route code exists, header must equal the registry code
+        if expected_code:
+            if expected_code == "TD3/TD3C":
+                assert "TD3/TD3C" in h or "transition" in h.lower(), f"tsid {tsid_str} must carry TD3/TD3C transition!"
+            else:
+                assert f"({expected_code})" in h, f"Header {h} does not carry expected registry code ({expected_code})!"
+                assert expected_code in codes_found, f"Header {h} does not match expected code {expected_code} (found {codes_found})!"
+        else:
+            assert len(codes_found) == 0, f"Header {h} carries route codes {codes_found} but registry specifies no code!"
+
+        # 3. Vessel class matches
+        vessel_class = reg_entry.get("vessel_class")
+        if vessel_class and vessel_class in ["Capesize", "Panamax", "Supramax", "Handysize", "VLCC", "Suezmax", "Aframax"]:
+            assert vessel_class in h, f"Header {h} does not match vessel class {vessel_class} from registry!"
+
+        # 4. Negative route checks
         if "Transatlantic" in h:
             assert "(S1B)" not in h, f"Header {h} erroneously carries S1B for Transatlantic route!"
 
-        # 2. Assert S4B is Delivery Cont and S4A is Delivery USG
-        if "tsid_120132" in h:
-            assert "(S4B)" in h, f"tsid 120132 must be S4B ('Skaw-Passero trip to US Gulf' = delivery Cont)!"
-            desc = routes["S4B"]["description"]
-            assert "Skaw-Passero trip to US Gulf" in desc, f"S4B taxonomy description mismatch: {desc}"
-        if "tsid_120133" in h:
-            assert "(S4A)" in h, f"tsid 120133 must be S4A ('US Gulf trip to Skaw-Passero' = delivery USG)!"
-            desc = routes["S4A"]["description"]
-            assert "US Gulf trip to Skaw-Passero" in desc, f"S4A taxonomy description mismatch: {desc}"
 
-        # 3. tsId 1 straddles TD3 (Japan) and TD3C (China); must explicitly flag the transition
-        if "(tsid_1)" in h:
-            assert "TD3/TD3C" in h or "transition" in h.lower(), f"tsid 1 ({h}) must flag the TD3/TD3C historical transition!"
-
-        # 4. For any official single code in parens (e.g. C3, C10_182, P1A_82), verify existence and class
-        m = re.search(r"\(([A-Z0-9_]+)\)", h)
-        if m:
-            code = m.group(1)
-            if code in routes:
-                tax_entry = routes[code]
-                tax_class = tax_entry["vessel_class"]
-                if tax_class in ["Capesize", "Panamax", "Supramax", "Handysize"]:
-                    assert tax_class in h, f"Header {h} vessel class does not match taxonomy class {tax_class} for code {code}!"
+def test_taxonomy_coherence():
+    """Permanent test per Guardrails §0.55: Every official route code in a header
+    must be consistent with fearnleys_tsid_registry.json and baltic_route_taxonomy.json.
+    """
+    headers, _ = load_data()
+    check_taxonomy_coherence(headers)
 
 def test_median_plausible_bands():
     headers, rows = load_data()

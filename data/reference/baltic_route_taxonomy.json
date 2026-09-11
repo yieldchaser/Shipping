@@ -8,6 +8,20 @@
     "description": "Canonical code -> description -> class -> unit map, index formulas, and vessel specs."
   },
   "routes": {
+    "BDI": {
+      "code": "BDI",
+      "description": "Baltic Dry Index composite freight benchmark",
+      "vessel_class": "Dry Bulk Composite",
+      "category": "Dry Bulk Index",
+      "unit": "index"
+    },
+    "TD3/TD3C": {
+      "code": "TD3/TD3C",
+      "description": "Middle East Gulf to China (TD3C) / Middle East Gulf to Japan (historical TD3)",
+      "vessel_class": "Dirty Tankers",
+      "category": "Tanker Dirty",
+      "unit": "worldscale"
+    },
     "C2": {
       "code": "C2",
       "description": "Tubarao to Rotterdam",

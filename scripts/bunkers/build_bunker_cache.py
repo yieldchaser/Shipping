@@ -9,6 +9,7 @@ import json
 import os
 import re
 import sys
+from datetime import datetime, timezone
 
 import pandas as pd
 import numpy as np
@@ -599,7 +600,7 @@ def build_bunker_summary():
         fwd_meta[port] = {
             'hub': port,
             'provenance': 'BunkerIndex modelled curve — one slope applied per hub',
-            'as_of': '2026-09-05',
+            'as_of': datetime.now(timezone.utc).strftime("%Y-%m-%d"),
             'is_modelled': True,
             'structure': structure,
             'slope_pct': slope_pct

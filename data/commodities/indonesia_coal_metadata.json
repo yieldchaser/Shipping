@@ -1,49 +1,19 @@
 {
-  "generated_at": "2026-09-10T19:10:41.979497+00:00",
+  "generated_at": "2026-09-11T07:18:56.127948+00:00",
   "commodity": "Thermal & Metallurgical Coal (HS 2701)",
   "country": "Indonesia (World's #1 Seaborne Exporter)",
-  "total_monthly_points": 76,
+  "total_monthly_points": 74,
   "date_span": [
     "2020-01-01",
-    "2026-07-01"
+    "2026-04-01"
   ],
-  "latest_data_through": "2026-07-01",
-  "primary_buyers": [
-    {
-      "country": "India",
-      "estimated_share_pct": 26.5,
-      "vessel_class": "Panamax / Capesize"
-    },
-    {
-      "country": "China",
-      "estimated_share_pct": 22.0,
-      "vessel_class": "Panamax / Supramax"
-    },
-    {
-      "country": "Philippines",
-      "estimated_share_pct": 11.5,
-      "vessel_class": "Supramax / Handysize"
-    },
-    {
-      "country": "Vietnam",
-      "estimated_share_pct": 10.0,
-      "vessel_class": "Supramax"
-    },
-    {
-      "country": "South Korea",
-      "estimated_share_pct": 7.5,
-      "vessel_class": "Panamax / Post-Panamax"
-    },
-    {
-      "country": "Japan",
-      "estimated_share_pct": 7.0,
-      "vessel_class": "Panamax"
-    },
-    {
-      "country": "Malaysia",
-      "estimated_share_pct": 6.0,
-      "vessel_class": "Supramax"
-    }
-  ],
-  "operator_handoff_note": "Official BPS Web API endpoint is implemented. To query BPS directly without Rung 4/6 fallback, set BPS_API_KEY in environment via free key at https://webapi.bps.go.id/developer/."
+  "latest_data_through": "2026-04-01",
+  "notable_events": {
+    "2022-01": "Indonesian government export ban (ESDM) to protect domestic power generation reserves; volume fell to 10.92 Mt."
+  },
+  "shipping_impact": {
+    "vessel_classes": "Panamax, Post-Panamax, Supramax",
+    "primary_corridors": "Kalimantan/Sumatra -> India East Coast (Paradip, Dhamra, Krishnapatnam) & South China (Guangzhou, Fangcheng)",
+    "seasonal_dynamics": "Dry season (April-October) loading surges; monsoon disruptions in Dec-Feb."
+  }
 }

@@ -1,0 +1,274 @@
+{
+  "1": {
+    "code": "TD3/TD3C",
+    "fearnpulse_name": "MEG/Japan (transitioned to China)",
+    "taxonomy_description": "Middle East Gulf to China (TD3C) / Middle East Gulf to Japan (historical TD3)",
+    "vessel_class": "VLCC",
+    "evidence": "Historical benchmark MEG/Japan (TD3) transitioned to MEG/China (TD3C) around 2019-2020. Quoted in Worldscale points (15-140 WS), straddling both definitions.",
+    "confidence": "verified"
+  },
+  "2": {
+    "code": "TD2",
+    "fearnpulse_name": "MEG/Singapore",
+    "taxonomy_description": "Middle East Gulf to Singapore",
+    "vessel_class": "VLCC",
+    "evidence": "Fearnpulse publishes MEG/Singapore in Worldscale points matching Baltic TD2 route description 'Middle East Gulf to Singapore'.",
+    "confidence": "verified"
+  },
+  "3": {
+    "code": "TD15",
+    "fearnpulse_name": "WAF/FEAST",
+    "taxonomy_description": "West Africa to China",
+    "vessel_class": "VLCC",
+    "evidence": "Fearnpulse publishes WAF/FEAST in Worldscale points matching Baltic TD15 route description 'West Africa to China'.",
+    "confidence": "verified"
+  },
+  "4": {
+    "code": "TD20",
+    "fearnpulse_name": "WAF/UKC",
+    "taxonomy_description": "West Africa to UK-Continent",
+    "vessel_class": "Suezmax",
+    "evidence": "Fearnpulse publishes West Africa to UK-Continent Suezmax route in Worldscale points matching Baltic TD20 route definition.",
+    "confidence": "verified"
+  },
+  "5": {
+    "code": null,
+    "fearnpulse_name": "Market Brief (Dirty Tanker)",
+    "taxonomy_description": null,
+    "vessel_class": "Dirty Tanker",
+    "evidence": "Fearnleys BITR market brief composite; no single Baltic route code exists for this composite.",
+    "confidence": "unverified"
+  },
+  "6": {
+    "code": "TD19",
+    "fearnpulse_name": "Cross Med",
+    "taxonomy_description": "Cross Mediterranean",
+    "vessel_class": "Aframax",
+    "evidence": "Fearnpulse publishes Cross Med Aframax dirty tanker rate in Worldscale points matching Baltic TD19 route description 'Cross Mediterranean'.",
+    "confidence": "verified"
+  },
+  "7": {
+    "code": null,
+    "fearnpulse_name": "1 Year TC - VLCC",
+    "taxonomy_description": null,
+    "vessel_class": "VLCC",
+    "evidence": "Quoted in Worldscale points (55-430). Time charters are never quoted in Worldscale; series was mislabelled 1 Year TC by publisher.",
+    "confidence": "unverified"
+  },
+  "8": {
+    "code": null,
+    "fearnpulse_name": "1 Year TC - Suezmax",
+    "taxonomy_description": null,
+    "vessel_class": "Suezmax",
+    "evidence": "Quoted in Worldscale points (62.5-330). Time charters are never quoted in Worldscale; series was mislabelled 1 Year TC by publisher.",
+    "confidence": "unverified"
+  },
+  "9": {
+    "code": null,
+    "fearnpulse_name": "1 Year TC - Aframax",
+    "taxonomy_description": null,
+    "vessel_class": "Aframax",
+    "evidence": "Quoted in Worldscale points (10-575). Time charters are never quoted in Worldscale; series was mislabelled 1 Year TC by publisher.",
+    "confidence": "unverified"
+  },
+  "11": {
+    "code": null,
+    "fearnpulse_name": "Specialized High-Spec TC",
+    "taxonomy_description": null,
+    "vessel_class": "Specialized Asset",
+    "evidence": "Specialized clean product asset rate; mislabelled LR1 TC.",
+    "confidence": "unverified"
+  },
+  "13": {
+    "code": null,
+    "fearnpulse_name": "Specialized Asset Rate",
+    "taxonomy_description": null,
+    "vessel_class": "Specialized Asset",
+    "evidence": "Specialized small asset rate; mislabelled Handy TC.",
+    "confidence": "unverified"
+  },
+  "303": {
+    "code": null,
+    "fearnpulse_name": "380 CST Bunker Price (Singapore)",
+    "taxonomy_description": null,
+    "vessel_class": "Bunkers",
+    "evidence": "Marine fuel commodity benchmark in Singapore.",
+    "confidence": "unverified"
+  },
+  "304": {
+    "code": null,
+    "fearnpulse_name": "MGO Bunker Price (Singapore)",
+    "taxonomy_description": null,
+    "vessel_class": "Bunkers",
+    "evidence": "Marine gasoil commodity benchmark in Singapore.",
+    "confidence": "unverified"
+  },
+  "306": {
+    "code": null,
+    "fearnpulse_name": "380 CST Bunker Price (Rotterdam)",
+    "taxonomy_description": null,
+    "vessel_class": "Bunkers",
+    "evidence": "Marine fuel commodity benchmark in Rotterdam.",
+    "confidence": "unverified"
+  },
+  "307": {
+    "code": null,
+    "fearnpulse_name": "MGO Bunker Price (Rotterdam)",
+    "taxonomy_description": null,
+    "vessel_class": "Bunkers",
+    "evidence": "Marine gasoil commodity benchmark in Rotterdam.",
+    "confidence": "unverified"
+  },
+  "316": {
+    "code": null,
+    "fearnpulse_name": "Commodity Prices (Brent Crude)",
+    "taxonomy_description": null,
+    "vessel_class": "Commodities",
+    "evidence": "Brent crude oil benchmark price.",
+    "confidence": "unverified"
+  },
+  "5001": {
+    "code": null,
+    "fearnpulse_name": "USD/KRW",
+    "taxonomy_description": null,
+    "vessel_class": "FX",
+    "evidence": "Foreign exchange rate.",
+    "confidence": "unverified"
+  },
+  "5002": {
+    "code": null,
+    "fearnpulse_name": "USD/NOK",
+    "taxonomy_description": null,
+    "vessel_class": "FX",
+    "evidence": "Foreign exchange rate.",
+    "confidence": "unverified"
+  },
+  "5003": {
+    "code": null,
+    "fearnpulse_name": "EUR/USD",
+    "taxonomy_description": null,
+    "vessel_class": "FX",
+    "evidence": "Foreign exchange rate.",
+    "confidence": "unverified"
+  },
+  "10001": {
+    "code": "C3",
+    "fearnpulse_name": "Capesize Tubarao/Qingdao",
+    "taxonomy_description": "Tubarao to Qingdao",
+    "vessel_class": "Capesize",
+    "evidence": "Fearnpulse publishes Capesize voyage rate Tubarao to Qingdao in USD/tonne, exactly matching Baltic route C3 definition.",
+    "confidence": "verified"
+  },
+  "10002": {
+    "code": "C5",
+    "fearnpulse_name": "Capesize Australia/China",
+    "taxonomy_description": "West Australia to Qingdao",
+    "vessel_class": "Capesize",
+    "evidence": "Fearnpulse publishes Capesize voyage rate West Australia to Qingdao in USD/tonne, exactly matching Baltic route C5 definition.",
+    "confidence": "verified"
+  },
+  "10003": {
+    "code": null,
+    "fearnpulse_name": "Capesize Newcastle/Qingdao Coal",
+    "taxonomy_description": null,
+    "vessel_class": "Capesize",
+    "evidence": "Newcastle to Qingdao coal voyage route; Baltic historical assessment without single active canonical code.",
+    "confidence": "unverified"
+  },
+  "10010": {
+    "code": "P1A_82",
+    "fearnpulse_name": "Panamax Transatlantic RV",
+    "taxonomy_description": "Skaw-Gib transatlantic round voyage",
+    "vessel_class": "Panamax",
+    "evidence": "Fearnpulse publishes Panamax transatlantic round voyage TCE matching Baltic route P1A_82 definition.",
+    "confidence": "verified"
+  },
+  "10011": {
+    "code": "P2A_82",
+    "fearnpulse_name": "Panamax TCE Cont/Far East",
+    "taxonomy_description": "Skaw-Gib trip HK-S Korea incl Taiwan",
+    "vessel_class": "Panamax",
+    "evidence": "Fearnpulse publishes Panamax fronthaul TCE Continent to Far East matching Baltic route P2A_82 definition.",
+    "confidence": "verified"
+  },
+  "10012": {
+    "code": "P3A_82",
+    "fearnpulse_name": "Panamax TCE Far East RV",
+    "taxonomy_description": "Hong Kong-South Korea transpacific round voyage",
+    "vessel_class": "Panamax",
+    "evidence": "Fearnpulse publishes Panamax transpacific / Far East round voyage TCE matching Baltic route P3A_82 definition.",
+    "confidence": "verified"
+  },
+  "10013": {
+    "code": "P4_82",
+    "fearnpulse_name": "Panamax TCE Far East/Cont",
+    "taxonomy_description": "Hong Kong-South Korea trip to Skaw-Passero",
+    "vessel_class": "Panamax",
+    "evidence": "Fearnpulse publishes Panamax backhaul TCE Far East to Continent matching Baltic route P4_82 definition.",
+    "confidence": "verified"
+  },
+  "11323": {
+    "code": "BDI",
+    "fearnpulse_name": "Baltic Dry Index",
+    "taxonomy_description": "Baltic Dry Index composite freight benchmark",
+    "vessel_class": "Dry Bulk Composite",
+    "evidence": "Official Baltic Dry Index published as composite dry bulk market benchmark.",
+    "confidence": "verified"
+  },
+  "12100": {
+    "code": null,
+    "fearnpulse_name": "Interest Rates (SOFR/LIBOR)",
+    "taxonomy_description": null,
+    "vessel_class": "Macro",
+    "evidence": "Global interbank benchmark financing rates.",
+    "confidence": "unverified"
+  },
+  "120129": {
+    "code": "S1C",
+    "fearnpulse_name": "Supramax US Gulf - China/South Japan",
+    "taxonomy_description": "US Gulf trip to China-south Japan",
+    "vessel_class": "Supramax",
+    "evidence": "Fearnpulse publishes Supramax US Gulf to China/South Japan TCE matching Baltic route S1C definition.",
+    "confidence": "verified"
+  },
+  "120132": {
+    "code": "S4B",
+    "fearnpulse_name": "Supramax Transatlantic RV (raw A)",
+    "taxonomy_description": "Skaw-Passero trip to US Gulf",
+    "vessel_class": "Supramax",
+    "evidence": "Fearnpulse publishes Supramax transatlantic trip delivery Continent to US Gulf matching Baltic route S4B definition ('Skaw-Passero trip to US Gulf' = delivered Continent).",
+    "confidence": "verified"
+  },
+  "120133": {
+    "code": "S4A",
+    "fearnpulse_name": "Supramax Transatlantic RV (raw B)",
+    "taxonomy_description": "US Gulf trip to Skaw-Passero",
+    "vessel_class": "Supramax",
+    "evidence": "Fearnpulse publishes Supramax transatlantic trip delivery US Gulf to Continent matching Baltic route S4A definition ('US Gulf trip to Skaw-Passero' = delivered USG).",
+    "confidence": "verified"
+  },
+  "120137": {
+    "code": "S10",
+    "fearnpulse_name": "Supramax South China - Indonesia RV",
+    "taxonomy_description": "South China trip via Indonesia to south China",
+    "vessel_class": "Supramax",
+    "evidence": "Fearnpulse publishes Supramax trip South China via Indonesia round voyage matching Baltic route S10 definition.",
+    "confidence": "verified"
+  },
+  "120654": {
+    "code": "C10_182",
+    "fearnpulse_name": "Capesize Pacific RV",
+    "taxonomy_description": "China-Japan transpacific round voyage",
+    "vessel_class": "Capesize",
+    "evidence": "Fearnpulse publishes Capesize transpacific round voyage TCE matching Baltic route C10_182 definition.",
+    "confidence": "verified"
+  },
+  "120655": {
+    "code": "C9_182",
+    "fearnpulse_name": "Capesize TCE Cont/Far East",
+    "taxonomy_description": "Continent/Mediterranean trip China-Japan",
+    "vessel_class": "Capesize",
+    "evidence": "Fearnpulse publishes Capesize fronthaul TCE Continent/Med to China-Japan matching Baltic route C9_182 definition.",
+    "confidence": "verified"
+  }
+}

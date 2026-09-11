@@ -32,20 +32,44 @@ NETWORK_LIBS = re.compile(
     r"\b(requests|urllib|aiohttp|httpx|socket|playwright|selenium|http\.client)\b"
 )
 DATE_LITERAL = re.compile(r"^\d{4}-\d{2}-\d{2}")
+DATE_STR_RE = re.compile(r"^(19|20)\d{2}[-/](0?[1-9]|1[0-2])([-/](0?[1-9]|[12]\d|3[01]))?$")
+DATE_KEYS = {"date", "month", "period", "timestamp", "time", "year_month"}
 TIMESTAMP_KEYS = {"generated_at", "as_of", "last_updated"}
 
 
 def load_allowlist():
-    allowlist = set()
+    """Load allowlist. Every entry must strictly match path:line:rule <reason>. Bare paths are forbidden."""
+    allowlist = {}
     if ALLOWLIST_FILE.exists():
         with open(ALLOWLIST_FILE, "r", encoding="utf-8") as f:
-            for line in f:
+            for idx, line in enumerate(f, 1):
                 line = line.strip()
-                if line and not line.startswith("#"):
-                    parts = line.split()
-                    if parts:
-                        allowlist.add(parts[0])
+                if not line or line.startswith("#"):
+                    continue
+                parts = line.split(None, 1)
+                entry = parts[0]
+                reason = parts[1] if len(parts) > 1 else ""
+                m = re.match(r"^([^:\s]+):(\d+):([A-Za-z0-9]+)$", entry)
+                if not m:
+                    raise ValueError(
+                        f"Bare path or invalid entry in allowlist at line {idx}: '{line}'. "
+                        f"Format must be 'path:line:rule <reason>' per GUARDRAILS §0.5."
+                    )
+                rel_path = m.group(1).replace("\\", "/")
+                lineno = int(m.group(2))
+                rule = m.group(3)
+                allowlist[(rel_path, lineno, rule)] = reason
     return allowlist
+
+
+def is_allowlisted(allowlist, rel_path, lineno, rule):
+    """Check if specific path:line:rule is explicitly exempted."""
+    rel_path = rel_path.replace("\\", "/")
+    if (rel_path, lineno, rule) in allowlist:
+        return True
+    if len(rule) > 2 and (rel_path, lineno, rule[:2]) in allowlist:
+        return True
+    return False
 
 
 def get_numeric_value(node):
@@ -80,9 +104,7 @@ def is_year_or_month_key(key_node):
 def check_f1_hardcoded_series(file_path, tree, content_lines, allowlist, violations):
     """Detect dict literals with >= 8 numeric values keyed by year or month."""
     rel_path = str(file_path.relative_to(ROOT)).replace("\\", "/")
-    if rel_path in allowlist:
-        return
-
+    found = False
     for node in ast.walk(tree):
         if isinstance(node, ast.Dict):
             year_month_numeric_count = 0
@@ -106,21 +128,82 @@ def check_f1_hardcoded_series(file_path, tree, content_lines, allowlist, violati
 
             if year_month_numeric_count >= 8 or (has_nested_series and len(node.keys) >= 2):
                 lineno = getattr(node, "lineno", 1)
-                snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
-                violations.append({
-                    "violation": "F1 (Hardcoded Series)",
-                    "file": rel_path,
-                    "line": lineno,
-                    "snippet": snippet[:100],
-                })
+                if not is_allowlisted(allowlist, rel_path, lineno, "F1"):
+                    found = True
+                    snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+                    violations.append({
+                        "violation": "F1 (Hardcoded Series)",
+                        "file": rel_path,
+                        "line": lineno,
+                        "snippet": snippet[:100],
+                    })
+    return found
 
 
-def check_f2_silent_fallbacks(file_path, tree, content, content_lines, violations):
+def check_f1b_list_of_dicts(file_path, tree, content_lines, allowlist, violations):
+    """Detect list or tuple literals holding >= 3 observation dicts (date + >= 2 numeric fields)."""
+    rel_path = str(file_path.relative_to(ROOT)).replace("\\", "/")
+    found = False
+    for node in ast.walk(tree):
+        if isinstance(node, (ast.List, ast.Tuple)):
+            obs_dicts = 0
+            for elt in node.elts:
+                if isinstance(elt, ast.Dict):
+                    has_date = False
+                    numeric_count = 0
+                    for k, v in zip(elt.keys, elt.values):
+                        if isinstance(k, ast.Constant) and isinstance(k.value, str):
+                            if k.value.lower() in DATE_KEYS or DATE_STR_RE.match(k.value):
+                                has_date = True
+                        if isinstance(v, ast.Constant) and isinstance(v.value, str):
+                            if DATE_STR_RE.match(v.value):
+                                has_date = True
+                        if get_numeric_value(v) is not None:
+                            numeric_count += 1
+                    if has_date and numeric_count >= 2:
+                        obs_dicts += 1
+            if obs_dicts >= 3:
+                lineno = getattr(node, "lineno", 1)
+                if not is_allowlisted(allowlist, rel_path, lineno, "F1b"):
+                    found = True
+                    snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+                    violations.append({
+                        "violation": f"F1b (List/Tuple of {obs_dicts} Observation Dicts)",
+                        "file": rel_path,
+                        "line": lineno,
+                        "snippet": snippet[:100],
+                    })
+    return found
+
+
+def check_f1_constant_annotations(file_path, tree, content_lines, allowlist, violations):
+    """Detect constant estimated annotations stamped into rows (e.g. subscript assignment with ~ percentage)."""
+    rel_path = str(file_path.relative_to(ROOT)).replace("\\", "/")
+    found = False
+    for node in ast.walk(tree):
+        if isinstance(node, ast.Assign):
+            for t in node.targets:
+                if isinstance(t, ast.Subscript):
+                    if isinstance(node.value, ast.Constant) and isinstance(node.value.value, str):
+                        if re.search(r"[~≈]\s*\d+", node.value.value):
+                            lineno = getattr(node, "lineno", 1)
+                            if not is_allowlisted(allowlist, rel_path, lineno, "F1"):
+                                found = True
+                                snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+                                violations.append({
+                                    "violation": "F1 (Constant Estimated Annotation)",
+                                    "file": rel_path,
+                                    "line": lineno,
+                                    "snippet": snippet[:100],
+                                })
+    return found
+
+
+def check_f2_silent_fallbacks(file_path, tree, content, content_lines, allowlist, violations):
     """Detect silent fallback patterns."""
     rel_path = str(file_path.relative_to(ROOT)).replace("\\", "/")
 
     # Pattern A: ast.IfExp where else branch is a non-zero numeric literal or fallback variable
-    # e.g. x if x else -73.1, or expr if cond else 75.0
     for node in ast.walk(tree):
         if isinstance(node, ast.IfExp):
             val = get_numeric_value(node.orelse)
@@ -135,7 +218,7 @@ def check_f2_silent_fallbacks(file_path, tree, content, content_lines, violation
                     if node.test.id == node.body.id:
                         is_fallback = True
 
-                if is_fallback:
+                if is_fallback and not is_allowlisted(allowlist, rel_path, lineno, "F2"):
                     violations.append({
                         "violation": "F2 (Silent Fallback Literal)",
                         "file": rel_path,
@@ -150,13 +233,14 @@ def check_f2_silent_fallbacks(file_path, tree, content, content_lines, violation
     for m in fallback_assign.finditer(content):
         start_idx = m.start()
         lineno = content[:start_idx].count("\n") + 1
-        snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
-        violations.append({
-            "violation": "F2 (Silent Fallback Assignment)",
-            "file": rel_path,
-            "line": lineno,
-            "snippet": snippet[:100],
-        })
+        if not is_allowlisted(allowlist, rel_path, lineno, "F2"):
+            snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+            violations.append({
+                "violation": "F2 (Silent Fallback Assignment)",
+                "file": rel_path,
+                "line": lineno,
+                "snippet": snippet[:100],
+            })
 
     # Pattern C: except block returning empty / None followed by caller 'or <literal>'
     except_fallback = re.compile(
@@ -165,21 +249,25 @@ def check_f2_silent_fallbacks(file_path, tree, content, content_lines, violation
     for m in except_fallback.finditer(content):
         start_idx = m.start()
         lineno = content[:start_idx].count("\n") + 1
-        snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
-        violations.append({
-            "violation": "F2 (Except Silent Fallback)",
-            "file": rel_path,
-            "line": lineno,
-            "snippet": snippet[:100],
-        })
+        if not is_allowlisted(allowlist, rel_path, lineno, "F2"):
+            snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+            violations.append({
+                "violation": "F2 (Except Silent Fallback)",
+                "file": rel_path,
+                "line": lineno,
+                "snippet": snippet[:100],
+            })
 
 
-def check_f3_unverified_provenance(file_path, tree, content, content_lines, violations):
-    """Detect docstrings claiming authenticity in files with no network calls."""
+def check_f3_unverified_provenance(file_path, tree, content, content_lines, allowlist, violations, has_literal_data):
+    """Detect docstrings claiming authenticity in files with no network calls (or containing literal data)."""
     rel_path = str(file_path.relative_to(ROOT)).replace("\\", "/")
     has_network = bool(NETWORK_LIBS.search(content))
 
-    if not has_network:
+    # F3b: If file has literal data (F1/F1b), network calls do NOT exempt it
+    should_check = (not has_network) or has_literal_data
+
+    if should_check:
         for node in ast.walk(tree):
             if isinstance(node, (ast.Module, ast.FunctionDef, ast.AsyncFunctionDef, ast.ClassDef)):
                 doc = ast.get_docstring(node)
@@ -187,16 +275,18 @@ def check_f3_unverified_provenance(file_path, tree, content, content_lines, viol
                     m = PROVENANCE_WORDS.search(doc)
                     if m:
                         lineno = getattr(node, "lineno", 1)
-                        snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
-                        violations.append({
-                            "violation": f"F3 (Unverified Provenance: '{m.group(0)}')",
-                            "file": rel_path,
-                            "line": lineno,
-                            "snippet": snippet[:100],
-                        })
+                        rule = "F3b" if has_literal_data else "F3"
+                        if not is_allowlisted(allowlist, rel_path, lineno, rule):
+                            snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+                            violations.append({
+                                "violation": f"{rule} (Unverified Provenance: '{m.group(0)}')",
+                                "file": rel_path,
+                                "line": lineno,
+                                "snippet": snippet[:100],
+                            })
 
 
-def check_f5_hardcoded_timestamps(file_path, tree, content_lines, violations):
+def check_f5_hardcoded_timestamps(file_path, tree, content_lines, allowlist, violations):
     """Detect 'generated_at', 'as_of', 'last_updated' assigned a literal date string."""
     rel_path = str(file_path.relative_to(ROOT)).replace("\\", "/")
 
@@ -208,13 +298,14 @@ def check_f5_hardcoded_timestamps(file_path, tree, content_lines, violations):
                     if isinstance(v, ast.Constant) and isinstance(v.value, str):
                         if DATE_LITERAL.match(v.value):
                             lineno = getattr(k, "lineno", 1)
-                            snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
-                            violations.append({
-                                "violation": f"F5 (Hardcoded Timestamp: '{k.value}')",
-                                "file": rel_path,
-                                "line": lineno,
-                                "snippet": snippet[:100],
-                            })
+                            if not is_allowlisted(allowlist, rel_path, lineno, "F5"):
+                                snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+                                violations.append({
+                                    "violation": f"F5 (Hardcoded Timestamp: '{k.value}')",
+                                    "file": rel_path,
+                                    "line": lineno,
+                                    "snippet": snippet[:100],
+                                })
         # Assignment: generated_at = "2026-09-07"
         elif isinstance(node, ast.Assign):
             for target in node.targets:
@@ -222,13 +313,14 @@ def check_f5_hardcoded_timestamps(file_path, tree, content_lines, violations):
                     if isinstance(node.value, ast.Constant) and isinstance(node.value.value, str):
                         if DATE_LITERAL.match(node.value.value):
                             lineno = getattr(node, "lineno", 1)
-                            snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
-                            violations.append({
-                                "violation": f"F5 (Hardcoded Timestamp: '{target.id}')",
-                                "file": rel_path,
-                                "line": lineno,
-                                "snippet": snippet[:100],
-                            })
+                            if not is_allowlisted(allowlist, rel_path, lineno, "F5"):
+                                snippet = content_lines[lineno - 1].strip() if lineno <= len(content_lines) else ""
+                                violations.append({
+                                    "violation": f"F5 (Hardcoded Timestamp: '{target.id}')",
+                                    "file": rel_path,
+                                    "line": lineno,
+                                    "snippet": snippet[:100],
+                                })
 
 
 def check_orphan_series(violations):
@@ -293,9 +385,6 @@ def main():
             for file in files:
                 if file.endswith(".py"):
                     fpath = Path(root) / file
-                    rel_path = str(fpath.relative_to(ROOT)).replace("\\", "/")
-                    if rel_path in allowlist:
-                        continue
                     try:
                         with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
                             content = f.read()
@@ -305,10 +394,14 @@ def main():
 
                     content_lines = content.splitlines()
 
-                    check_f1_hardcoded_series(fpath, tree, content_lines, allowlist, violations)
-                    check_f2_silent_fallbacks(fpath, tree, content, content_lines, violations)
-                    check_f3_unverified_provenance(fpath, tree, content, content_lines, violations)
-                    check_f5_hardcoded_timestamps(fpath, tree, content_lines, violations)
+                    f1_hit = check_f1_hardcoded_series(fpath, tree, content_lines, allowlist, violations)
+                    f1b_hit = check_f1b_list_of_dicts(fpath, tree, content_lines, allowlist, violations)
+                    f1_ann_hit = check_f1_constant_annotations(fpath, tree, content_lines, allowlist, violations)
+                    has_literal = f1_hit or f1b_hit or f1_ann_hit
+
+                    check_f2_silent_fallbacks(fpath, tree, content, content_lines, allowlist, violations)
+                    check_f3_unverified_provenance(fpath, tree, content, content_lines, allowlist, violations, has_literal)
+                    check_f5_hardcoded_timestamps(fpath, tree, content_lines, allowlist, violations)
 
     # 2. Scan for orphan series
     check_orphan_series(violations)

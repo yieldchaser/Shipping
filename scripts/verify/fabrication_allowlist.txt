@@ -1,38 +1,59 @@
 # scripts/verify/fabrication_allowlist.txt
-# One path + reason per line for genuine static reference data (e.g. port coordinates, vessel DWT bands, distance matrices).
-# Format: <path> <reason>
-data/reference/commodity_normalisation.json Canonical Signal Ocean cargo taxonomy reference mapping (F1 reference mapping)
-scripts/current_book_manual_shock.py Legacy desk scenario modeling script
-scripts/current_book_scenario_ui.py Legacy desk scenario UI script
-scripts/decision_ticket_workflow.py Legacy trade decision ticket workflow
-scripts/etf_official_nav_engine.py Legacy ETF NAV engine
-scripts/etf_true_waterfall_engine.py Legacy ETF waterfall engine
-scripts/extract_demolition_pdfs.py Legacy demolition extraction utility
-scripts/generate_brief.py Legacy intelligence briefing generator
-scripts/migrate_historical_archives_and_manifest.py Legacy migration script
-scripts/parse_star_asia_corpus.py Legacy Star Asia corpus parser
-scripts/production_scenario_workflow.py Legacy production scenario workflow
-scripts/run_daily_return_backtests.py Legacy backtest runner
-scripts/scenario_snapshot_schema.py Legacy scenario snapshot schema
-scripts/test_daily_return_backtests.py Legacy test suite
-scripts/test_decision_ticket_workflow.py Legacy test suite
-scripts/test_evidence_and_governance.py Legacy test suite
-scripts/test_fetch_live_etf_quotes.py Legacy test suite
-scripts/test_seabrokers_scraper.py Legacy test suite
-scripts/test_thesis_scenario_builder.py Legacy test suite
-scripts/thesis_scenario_builder.py Legacy thesis scenario builder
-scripts/analysis/cascade_extractor_dry_run.py Legacy cascade extractor dry run
-scripts/analysis/cascade_extractor_v2.py Legacy cascade extractor v2
-scripts/bunkers/build_bunker_cache.py Legacy bunker cache builder
-scripts/experiments/timesfm_probe_backtest.py Legacy experiments backtest script
-scripts/fearnleys/build_fearnleys_cache.py Legacy fearnleys cache builder
-scripts/geospatial/build_geospatial_tracker.py Legacy geospatial tracker builder
-scripts/scrapers/fetch_capital_link_indices.py Legacy scrapers capital link script
-scripts/scrapers/fetch_hsn_shipbrokers.py Legacy scrapers HSN shipbrokers script
-scripts/scrapers/fetch_un_comtrade_bauxite.py Legacy scrapers UN comtrade bauxite script
-scripts/backtest_macro_health_radar.py Legacy macro health radar backtest script
-scripts/check_data_spike_health.py Legacy spike health check utility
-scripts/compute_port_stress_matrix.py Legacy port stress matrix calculator
-scripts/contract_spec_registry.py Legacy contract spec registry
-bunker_pipeline/run_pipeline.py Legacy bunker pipeline runner
-bunker_pipeline/extractors/bunkerindex_bix.py Legacy bunker index extractor
+# One path:line:rule + reason per line for legacy test fixtures and static defaults.
+# Format: <path>:<line>:<rule> <reason>
+# Bare paths are strictly forbidden per GUARDRAILS §0.5 and Prompt 13B §C8.
+scripts/backtest_macro_health_radar.py:210:F2 Legacy desk scenario modeling script fallback
+scripts/check_data_spike_health.py:1:F3 Legacy data spike health check docstring
+scripts/compute_port_stress_matrix.py:176:F2 Legacy port stress matrix weekly calls mean default
+scripts/compute_port_stress_matrix.py:177:F2 Legacy port stress matrix weekly calls std default
+scripts/contract_spec_registry.py:1:F3 Legacy contract spec registry docstring
+scripts/contract_spec_registry.py:24:F3 Legacy contract spec registry class docstring
+scripts/current_book_manual_shock.py:1:F3 Legacy desk scenario modeling docstring
+scripts/current_book_manual_shock.py:254:F3 Legacy desk scenario modeling function docstring
+scripts/current_book_scenario_ui.py:1:F3 Legacy desk scenario UI docstring
+scripts/decision_ticket_workflow.py:1:F3 Legacy trade decision ticket workflow docstring
+scripts/etf_official_nav_engine.py:164:F2 Legacy ETF NAV engine initial NAV default
+scripts/etf_true_waterfall_engine.py:99:F2 Legacy ETF waterfall engine multiplier default
+scripts/extract_demolition_pdfs.py:142:F2 Legacy demolition PDF extraction bound default
+scripts/generate_brief.py:1885:F2 Legacy brief generator timeout parameter default
+scripts/migrate_historical_archives_and_manifest.py:1:F3 Legacy migration script docstring
+scripts/parse_star_asia_corpus.py:269:F2 Legacy Star Asia parser coverage calculation default
+scripts/parse_star_asia_corpus.py:82:F2 Legacy Star Asia parser row fallback assignment
+scripts/parse_star_asia_corpus.py:86:F2 Legacy Star Asia parser row fallback assignment
+scripts/production_scenario_workflow.py:53:F3 Legacy production scenario workflow docstring
+scripts/run_daily_return_backtests.py:1:F3 Legacy backtest runner docstring
+scripts/scenario_snapshot_schema.py:285:F2 Legacy scenario snapshot share count default
+scripts/scenario_snapshot_schema.py:180:F3 Legacy scenario snapshot function docstring
+scripts/test_daily_return_backtests.py:1:F3 Legacy test suite docstring
+scripts/test_decision_ticket_workflow.py:107:F2 Legacy test fixture price fallback
+scripts/test_decision_ticket_workflow.py:113:F2 Legacy test fixture price fallback
+scripts/test_decision_ticket_workflow.py:115:F2 Legacy test fixture price fallback
+scripts/test_decision_ticket_workflow.py:1:F3 Legacy test suite docstring
+scripts/test_evidence_and_governance.py:1:F3 Legacy test suite docstring
+scripts/test_fetch_live_etf_quotes.py:32:F2 Legacy test mock price default
+scripts/test_fetch_live_etf_quotes.py:33:F2 Legacy test mock previous close default
+scripts/test_fetch_live_etf_quotes.py:34:F2 Legacy test mock change default
+scripts/test_fetch_live_etf_quotes.py:35:F2 Legacy test mock change percent default
+scripts/test_seabrokers_scraper.py:74:F3 Legacy test suite function docstring
+scripts/test_thesis_scenario_builder.py:57:F2 Legacy test fixture price fallback
+scripts/test_thesis_scenario_builder.py:67:F2 Legacy test fixture price fallback
+scripts/thesis_scenario_builder.py:747:F2 Legacy thesis scenario builder total NAV default
+scripts/thesis_scenario_builder.py:748:F2 Legacy thesis scenario builder shares default
+scripts/thesis_scenario_builder.py:749:F2 Legacy thesis scenario builder NAV per share default
+scripts/thesis_scenario_builder.py:750:F2 Legacy thesis scenario builder market price default
+scripts/analysis/cascade_extractor_dry_run.py:322:F2 Legacy cascade extractor confidence default
+scripts/analysis/cascade_extractor_v2.py:219:F2 Legacy cascade extractor Alang monthly target default
+scripts/analysis/cascade_extractor_v2.py:233:F2 Legacy cascade extractor seasonal factor fallback
+scripts/analysis/cascade_extractor_v2.py:226:F2 Legacy cascade extractor Chattogram monthly target default
+scripts/analysis/cascade_extractor_v2.py:232:F2 Legacy cascade extractor Gadani monthly target default
+scripts/bunkers/build_bunker_cache.py:415:F2 Legacy bunker cache builder YoY calc fallback
+scripts/experiments/timesfm_probe_backtest.py:527:F2 Legacy experiments backtest horizon argument default
+scripts/fearnleys/build_fearnleys_cache.py:191:F2 Legacy fearnleys cache builder percentile rank fallback
+scripts/geospatial/build_geospatial_tracker.py:377:F2 Legacy geospatial tracker anchor radius default
+scripts/geospatial/build_geospatial_tracker.py:310:F2 Legacy geospatial tracker transit days default
+scripts/scrapers/fetch_capital_link_indices.py:189:F2 Legacy scrapers capital link lookback default
+scripts/scrapers/fetch_hsn_shipbrokers.py:262:F2 Legacy scrapers HSN shipbrokers pages default
+scripts/scrapers/fetch_un_comtrade_bauxite.py:74:F2 Legacy scrapers UN Comtrade max month default
+scripts/scrapers/fetch_panama_canal_advisories.py:25:F1b Legacy Panama Canal advisory checkpoints
+bunker_pipeline/run_pipeline.py:80:F3 Legacy bunker pipeline function docstring
+bunker_pipeline/extractors/bunkerindex_bix.py:165:F3 Legacy bunker index extractor function docstring
