@@ -296,6 +296,9 @@ def generate_provenance_manifest_table():
 
 
 def main():
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     # Run gates
     gate_fab_status, gate_fab_count = run_gate_no_fabrication()
     gate_cit_status, gate_cit_count = run_gate_source_citations()
