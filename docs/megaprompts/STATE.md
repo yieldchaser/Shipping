@@ -17,7 +17,15 @@
 | **Prompt 14** | ✅ Done — `ff518ba29` (includes 13C). 9 modules visible; audited via screenshots. Suite 249 green |
 | Part-0 fix | ✅ `5293552b2` — Guinea unsourced rows purged (kept rows verified on page), BPS citation path, 3.2x removed |
 | **PUSHED** | ✅ **`d7c62362f` on origin/main, 2026-09-11** — Round 1 + Round 2 live at https://yieldchaser.github.io/Shipping/ (Pages deploy green; verified 12 tabs, new Cargo modules, no fake lineups, header revert intact) |
-| Next | **Prompt 15** → Prompt 16 |
+| Next | **Prompt 17 (continuous run, `QUEUE-17.md`)** — supersedes running 15/16 separately |
+
+## Live-site audit after the push (2026-09-11)
+- **~30 of 46 loaders read non-existent columns** since Round 1 foundation commit `d21185f31` (e.g. SGX `settlement` vs real `price`) → modules silently blank. Data intact.
+- Broker Desk overview "cache unavailable"; Signals lead-lag and ETF z-score empty.
+- Braemar strip: one-time 10 Sep snapshot labelled "Live GraphQL Feed"; endpoint updates daily (Cape Sep 53,250 → 51,250). Shown on every Broker Desk sub-tab.
+- `chokepoint_transit_metrics.csv` hand-typed (14.5 days / 28.4% identical for Suez and Bab-el-Mandeb) → Tracking KPIs; "+53.9% vs baseline" sign bug.
+- Flow matrix volume = sum over the few fixtures with quantity (grain ~52 t per fixture).
+- ~25 internal/dev terms in visible UI text; tab bar overflows (1,491 px in 1,400 px).
 
 ## Pre-15 audit (2026-09-11) — coverage, automation, speed, design
 - **11 Round 2 fetchers are wired to no workflow**, including `build_cargo_cache.py`. Once pushed they'd freeze. → 15 Part A
