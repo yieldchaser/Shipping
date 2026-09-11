@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T15:02:05Z",
+ "generated_at": "2026-09-11T12:54:23Z",
  "compiler_version": 2,
  "count": 81,
  "files": [
@@ -57,7 +57,7 @@
    "path": "knowledge/chunks/baltic_ningbo_2026.jsonl",
    "stem": "baltic_ningbo_2026",
    "year": 2026,
-   "bytes": 186382
+   "bytes": 189056
   },
   {
    "file": "baltic_tanker.jsonl",
