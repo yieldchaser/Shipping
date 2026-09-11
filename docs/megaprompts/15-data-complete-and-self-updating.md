@@ -55,9 +55,14 @@ When pushed, every one of these modules freezes on the day it was built:
    `fetch_usda_grains.py`, and call `fetch_usda_grain_queues.py` from `usda_weekly.yml`.**
    Check the other Socrata entries in that script the same way: any file a Round 2 script
    now owns must have exactly one writer.
-2. **`data_expansion.yml` runs `build_geospatial_tracker.py` daily.** Confirm the
-   synthesis block removed in Prompt 14 is gone from the committed file, so the job can't
-   regenerate the fake lineup CSV.
+2. **`data_expansion.yml` runs `build_geospatial_tracker.py` daily.** The lineup
+   synthesis is gone (verified on the pushed build), but the same file still has
+   **`generate_stable_imo()`** (line ~155): it invents an IMO number from
+   `zlib.crc32(vessel_name)` for vessels that lack one, and writes it into
+   `vessel_voyage_tracks_master.csv`. It isn't rendered today, but it's a hash-derived
+   identifier (GUARDRAILS F7). Delete it — a missing IMO stays blank — and add F7
+   detection (hash or random values written to data) to `check_no_fabrication.py`, with a
+   mutation test built on this exact function.
 
 ### The fix
 1. Create **`.github/workflows/monthly_trade_flows.yml`**: cron on the **8th, 16th and 24th

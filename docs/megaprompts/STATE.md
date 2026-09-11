@@ -15,7 +15,9 @@
 | Prompt 13C | ✅ Done — **staged, not committed**. Full suite 249 green (verified). Audited |
 | 13D | **Withdrawn** — mostly audit hygiene; its on-screen items folded into 14 |
 | **Prompt 14** | ✅ Done — `ff518ba29` (includes 13C). 9 modules visible; audited via screenshots. Suite 249 green |
-| Next | Part-0 fix (Guinea unsourced rows, citation checker, "3.2x") → **merge origin/main + push** → Prompt 15 → Prompt 16 |
+| Part-0 fix | ✅ `5293552b2` — Guinea unsourced rows purged (kept rows verified on page), BPS citation path, 3.2x removed |
+| **PUSHED** | ✅ **`d7c62362f` on origin/main, 2026-09-11** — Round 1 + Round 2 live at https://yieldchaser.github.io/Shipping/ (Pages deploy green; verified 12 tabs, new Cargo modules, no fake lineups, header revert intact) |
+| Next | **Prompt 15** → Prompt 16 |
 
 ## Pre-15 audit (2026-09-11) — coverage, automation, speed, design
 - **11 Round 2 fetchers are wired to no workflow**, including `build_cargo_cache.py`. Once pushed they'd freeze. → 15 Part A
@@ -54,9 +56,12 @@ writing tracked files. Revisit only if they bite.
   agent's headless browser fails. Unlocks China imports in **tonnes** by origin.
 - ~~BPS API key~~ — done: GitHub secret + Windows user env var, verified.
 
-⚠ **Nothing from Round 1 or Round 2 is pushed yet.** Push happens right after the Part-0
-fix pass: merge origin/main (keep the header revert `e95b48242`; take harvester data for
-files the agent didn't rebuild), run the gate, push.
+✅ **Pushed 2026-09-11 (`d7c62362f`).** Merge rules used, reuse next time: keep header revert
+`e95b48242`; keep deletions of synthesized files; keep agent-rebuilt files (USDA queues);
+take collector-only data from origin; rebuild derived bunker/tanker summaries with the
+daily-job scripts; revert test-run side effects before committing.
+⚠ Until Prompt 15 Part A lands, `usda_weekly.yml` (next run ~2026-09-17) can overwrite the
+rebuilt USDA queue CSV. Run 15 before then.
 
 ## 13B audit — defects carried into 13C
 | § | Defect |
