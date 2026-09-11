@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T12:50:05Z",
+  "generated_at": "2026-09-11T14:55:37Z",
   "current_date": "2026-09-11",
-  "warning_count": 4,
+  "warning_count": 3,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,53 +12,10 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 4
+      "watch": 3
     }
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "coal_and_grain_flows",
-      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
-      "details": {
-        "topic_id": "coal_and_grain_flows",
-        "title": "Coal and Grain Flows",
-        "severity": "watch",
-        "score_diff": 0.75,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-09-09"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.19,
-            "dominant_tone": "neutral",
-            "doc_count": 4,
-            "latest_date": "2026-09-01"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.5,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-04"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.75,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-10"
-          }
-        ],
-        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_divergence",
@@ -86,10 +43,10 @@
           },
           {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
+            "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-10"
+            "latest_date": "2026-09-11"
           },
           {
             "source": "breakwave",
@@ -106,13 +63,20 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "tanker_market",
-      "message": "Tanker Market shows recent tone divergence: breakwave reads constructive while baltic reads neutral.",
+      "message": "Tanker Market shows recent tone divergence: breakwave reads constructive while hellenic reads neutral.",
       "details": {
         "topic_id": "tanker_market",
         "title": "Tanker Market",
         "severity": "watch",
         "score_diff": 0.83,
         "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.08,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-09-10"
+          },
           {
             "source": "baltic",
             "avg_tone_score": -0.08,
@@ -121,28 +85,21 @@
             "latest_date": "2026-09-04"
           },
           {
-            "source": "hellenic",
-            "avg_tone_score": 0.29,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-09-09"
-          },
-          {
             "source": "breakwave_insights",
-            "avg_tone_score": 0.75,
+            "avg_tone_score": 0.62,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-10"
+            "latest_date": "2026-09-11"
           },
           {
             "source": "breakwave",
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
-            "doc_count": 3,
+            "doc_count": 2,
             "latest_date": "2026-09-08"
           }
         ],
-        "message": "Tanker Market shows recent tone divergence: breakwave reads constructive while baltic reads neutral."
+        "message": "Tanker Market shows recent tone divergence: breakwave reads constructive while hellenic reads neutral."
       }
     },
     {
@@ -175,7 +132,7 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-09-10"
+            "latest_date": "2026-09-11"
           },
           {
             "source": "breakwave",
