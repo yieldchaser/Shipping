@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas__root",
+  "doc_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 37",
+  "section_path": [
+    "Gas report - Week 37"
+  ],
+  "section_path_text": "Gas report - Week 37",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG market showed signs of improvement this week, with increased chartering activity and stronger sentiment supporting spot rates across both basins. While vessel availability remains elevated, emerging October requirements and renewed interest in multi-month coverage helped improve market confidence. On the BLNG1 Australia-Japan route, rates increased by $5,300 week-on-week to settle at $26,000/day.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "japan",
+    "gas",
+    "day.",
+    "route",
+    "sentiment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 445,
+  "source_path": "reports/baltic/gas/2026/2026-09-11_W37_gas-report-week-37_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas",
+      "parent_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG market showed signs of improvement this week, with increased chartering activity and stronger sentiment supporting spot rates across both basins. While vessel availability remains elevated, emerging October requirements and renewed interest in multi-month coverage helped improve market confidence.",
+      "keywords": [
+        "lng",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "japan",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas",
+      "parent_id": "baltic_gas_2026-09-11_2026_09_11_w37_gas_report_week_37_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market was relatively quiet this week, with many participants focused on industry events. Only one fixture was reported that limited price discovery.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "route",
+        "day.",
+        "tce",
+        "earnings",
+        "was",
+        "ahead."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

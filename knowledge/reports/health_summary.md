@@ -1,16 +1,16 @@
 ---
-generated_at: '2026-09-11T18:03:52Z'
+generated_at: '2026-09-11T19:13:38Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
-warning_count: 3
+warning_count: 1
 ---
 
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 10096
-- Chunks: 105542
-- Sections: 34444
+- Documents: 10100
+- Chunks: 105553
+- Sections: 34455
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -20,10 +20,10 @@ warning_count: 3
 |---|---|---:|---:|---|---:|---:|
 | breakwave/drybulk | 2026-09-01 | 10 | 14 | healthy | 14 | 0 |
 | breakwave/tankers | 2026-09-08 | 3 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-09-04 | 7 | 7 | healthy | 0 | 8 |
-| baltic/tanker | 2026-09-04 | 7 | 7 | healthy | 0 | 12 |
-| baltic/gas | 2026-09-04 | 7 | 7 | healthy | 0 | 0 |
-| baltic/container | 2026-09-04 | 7 | 7 | healthy | 0 | 0 |
+| baltic/dry | 2026-09-11 | 0 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-09-11 | 0 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-09-11 | 0 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-09-11 | 0 | 7 | healthy | 7 | 0 |
 | baltic/ningbo | 2026-09-11 | 0 | 7 | healthy | 7 | 0 |
 | breakwave_insights/insights | 2026-09-11 | 0 | 14 | healthy | 0 | 0 |
 | hellenic/dry_charter | 2026-09-10 | 1 | 14 | healthy | 1 | 1 |
@@ -38,23 +38,19 @@ warning_count: 3
 
 | Topic | Latest Evidence | Docs | Evidence | Recent Sources | Missing Sources | Status |
 |---|---|---:|---:|---|---|---|
-| Dry Bulk Market | 2026-09-11 | 83 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Dry Bulk Market | 2026-09-11 | 81 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Tanker Market | 2026-09-11 | 81 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Capesize | 2026-09-11 | 123 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Panamax and Supramax | 2026-09-11 | 118 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| VLCC and Suezmax | 2026-09-11 | 97 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| China Steel and Iron Ore | 2026-09-11 | 95 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Coal and Grain Flows | 2026-09-11 | 105 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Panamax and Supramax | 2026-09-11 | 116 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| VLCC and Suezmax | 2026-09-11 | 98 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| China Steel and Iron Ore | 2026-09-11 | 96 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Coal and Grain Flows | 2026-09-11 | 103 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Oil and OPEC | 2026-09-11 | 95 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| LNG and LPG Shipping | 2026-09-04 | 134 | 250 | baltic, hellenic | - | healthy |
+| LNG and LPG Shipping | 2026-09-11 | 134 | 250 | baltic, hellenic | - | healthy |
 | Container and Ningbo Routes | 2026-09-11 | 213 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
-- `watch` Oil and OPEC shows recent tone divergence: breakwave reads constructive while baltic reads neutral.
 - `watch` Tanker Market shows recent tone divergence: breakwave reads constructive while hellenic reads neutral.
-- `watch` VLCC and Suezmax shows recent tone divergence: breakwave reads constructive while baltic reads neutral.
 
 ## Cross-Source Divergence
 - `watch` Tanker Market shows recent tone divergence: breakwave reads constructive while hellenic reads neutral.
-- `watch` VLCC and Suezmax shows recent tone divergence: breakwave reads constructive while baltic reads neutral.
-- `watch` Oil and OPEC shows recent tone divergence: breakwave reads constructive while baltic reads neutral.
