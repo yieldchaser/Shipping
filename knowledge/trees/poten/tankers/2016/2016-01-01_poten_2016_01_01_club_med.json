@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Club Med",
+  "section_path": [
+    "Poten Tanker Opinion: Club Med"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Club Med",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Club Med\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/club-med/](https://www.poten.com/club-med/)\n**Full PDF Report**: [Weekly-Opinion-18-November-2016-Club-Med.pdf](http://www.poten.com/wp-content/uploads/2016/11/Weekly-Opinion-18-November-2016-Club-Med.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-18-November-2016-Club-Med.pdf. Analysis & Overview\nClub Med\n18 Nov 2016: Like the Caribbean and the North Sea, the Mediterranean is a well-known shipping region with significant sources of oil supply as well as demand. Traditionally, a lot of the oil that was produced in the region stayed in the area and short-haul trades on Aframaxes and Suezmaxes tend to dominate movements in...",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "europe",
+    "crude_oil",
+    "club",
+    "full",
+    "https",
+    "med",
+    "oil",
+    "pdf",
+    "region",
+    "www.poten.com/club-med"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 227,
+  "source_path": "reports/poten/2016/poten_2016-01-01_club_med.md",
+  "source_url": "https://www.poten.com/club-med/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med__s01_poten_tanker_opinion_club_med",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med__root",
+      "title": "Poten Tanker Opinion: Club Med",
+      "section_path": [
+        "Poten Tanker Opinion: Club Med"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Club Med",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/club-med/](https://www.poten.com/club-med/)\n**Full PDF Report**: [Weekly-Opinion-18-November-2016-Club-Med.pdf](http://www.poten.com/wp-content/uploads/2016/11/Weekly-Opinion-18-November-2016-Club-Med.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-18-November-2016-Club-Med.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/club-med",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_club_med__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Club Med\n18 Nov 2016: Like the Caribbean and the North Sea, the Mediterranean is a well-known shipping region with significant sources of oil supply as well as demand. Traditionally, a lot of the oil that was produced in the region stayed in the area and short-haul trades on Aframaxes and Suezmaxes tend to dominate movements in...",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "europe",
+        "crude_oil",
+        "oil",
+        "region",
+        "aframaxes",
+        "area"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

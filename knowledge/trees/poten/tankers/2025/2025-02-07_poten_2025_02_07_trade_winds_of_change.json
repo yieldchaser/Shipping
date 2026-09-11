@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change__root",
+  "doc_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Trade Winds of Change",
+  "section_path": [
+    "Poten Tanker Opinion: Trade Winds of Change"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Trade Winds of Change",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Trade Winds of Change\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-02-07\n**Source URL**: [https://www.poten.com/trade-winds-of-change/](https://www.poten.com/trade-winds-of-change/)\n**Full PDF Report**: [Weekly Opinion - 7 February 2025 - Trade Winds of Change.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%207%20February%202025%20-%20Trade%20Winds%20of%20Change.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 7 February 2025 - Trade Winds of Change.pdf. Analysis & Overview\nTrade Winds of Change\nTrade Winds of Change",
+  "keywords": [
+    "trade",
+    "winds",
+    "opinion",
+    "change",
+    "february",
+    "https",
+    "change.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/trade-winds-of-change",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 192,
+  "source_path": "reports/poten/2025/poten_2025-02-07_trade_winds_of_change.md",
+  "source_url": "https://www.poten.com/trade-winds-of-change/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change__s01_poten_tanker_opinion_trade_winds_of_change",
+      "doc_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change",
+      "parent_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change__root",
+      "title": "Poten Tanker Opinion: Trade Winds of Change",
+      "section_path": [
+        "Poten Tanker Opinion: Trade Winds of Change"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Trade Winds of Change",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-02-07\n**Source URL**: [https://www.poten.com/trade-winds-of-change/](https://www.poten.com/trade-winds-of-change/)\n**Full PDF Report**: [Weekly Opinion - 7 February 2025 - Trade Winds of Change.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%207%20February%202025%20-%20Trade%20Winds%20of%20Change.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 7 February 2025 - Trade Winds of Change.pdf.",
+      "keywords": [
+        "february",
+        "https",
+        "opinion",
+        "trade",
+        "winds",
+        "change.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change",
+      "parent_id": "poten_tankers_2025-02-07_poten_2025_02_07_trade_winds_of_change__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Trade Winds of Change\nTrade Winds of Change",
+      "keywords": [
+        "change",
+        "trade",
+        "winds"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

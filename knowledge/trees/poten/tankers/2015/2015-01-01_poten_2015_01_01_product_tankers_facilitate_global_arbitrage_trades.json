@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Product Tankers Facilitate Global Arbitrage Trades",
+  "section_path": [
+    "Poten Tanker Opinion: Product Tankers Facilitate Global Arbitrage Trades"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Product Tankers Facilitate Global Arbitrage Trades",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Product Tankers Facilitate Global Arbitrage Trades\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/product-tankers-facilitate-global-arbitrage-trades/](https://www.poten.com/product-tankers-facilitate-global-arbitrage-trades/)\n**Full PDF Report**: [Weekly-Opinion-Mar-6-2015-Close-the-Window.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/03/Weekly-Opinion-Mar-6-2015-Close-the-Window.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-Mar-6-2015-Close-the-Window.pdf. Analysis & Overview\nProduct Tankers Facilitate Global Arbitrage Trades\n10 Mar 2015: Over the last couple of years, the U.S. has developed into one of the largest exporters of oil products.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "https",
+    "arbitrage",
+    "facilitate",
+    "full",
+    "global",
+    "mar",
+    "opinion",
+    "pdf",
+    "product"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 266,
+  "source_path": "reports/poten/2015/poten_2015-01-01_product_tankers_facilitate_global_arbitrage_trades.md",
+  "source_url": "https://www.poten.com/product-tankers-facilitate-global-arbitrage-trades/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades__s01_poten_tanker_opinion_product_tankers_facilitate_global_arbitrage_trades",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades__root",
+      "title": "Poten Tanker Opinion: Product Tankers Facilitate Global Arbitrage Trades",
+      "section_path": [
+        "Poten Tanker Opinion: Product Tankers Facilitate Global Arbitrage Trades"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Product Tankers Facilitate Global Arbitrage Trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/product-tankers-facilitate-global-arbitrage-trades/](https://www.poten.com/product-tankers-facilitate-global-arbitrage-trades/)\n**Full PDF Report**: [Weekly-Opinion-Mar-6-2015-Close-the-Window.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/03/Weekly-Opinion-Mar-6-2015-Close-the-Window.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-Mar-6-2015-Close-the-Window.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/product-tankers-facilitate-global-arbitrage-trades",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_product_tankers_facilitate_global_arbitrage_trades__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Product Tankers Facilitate Global Arbitrage Trades\n10 Mar 2015: Over the last couple of years, the U.S. has developed into one of the largest exporters of oil products.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "mar",
+        "u.s.",
+        "access",
+        "arbitrage",
+        "cheap"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

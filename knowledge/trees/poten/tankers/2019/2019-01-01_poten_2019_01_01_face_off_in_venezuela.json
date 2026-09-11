@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Face-off in Venezuela",
+  "section_path": [
+    "Poten Tanker Opinion: Face-off in Venezuela"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Face-off in Venezuela",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Face-off in Venezuela\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/face-off-in-venezuela/](https://www.poten.com/face-off-in-venezuela/)\n**Full PDF Report**: [Weekly-Opinion-25-January-2019-Face-off-in-Venezuela.pdf](http://www.poten.com/wp-content/uploads/2019/01/Weekly-Opinion-25-January-2019-Face-off-in-Venezuela.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-25-January-2019-Face-off-in-Venezuela.pdf. Analysis & Overview\nFace-off in Venezuela\nFace-off in Venezuela",
+  "keywords": [
+    "face-off",
+    "venezuela",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/face-off-in-venezuela",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 179,
+  "source_path": "reports/poten/2019/poten_2019-01-01_face-off_in_venezuela.md",
+  "source_url": "https://www.poten.com/face-off-in-venezuela/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela__s01_poten_tanker_opinion_face_off_in_venezuela",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela__root",
+      "title": "Poten Tanker Opinion: Face-off in Venezuela",
+      "section_path": [
+        "Poten Tanker Opinion: Face-off in Venezuela"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Face-off in Venezuela",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/face-off-in-venezuela/](https://www.poten.com/face-off-in-venezuela/)\n**Full PDF Report**: [Weekly-Opinion-25-January-2019-Face-off-in-Venezuela.pdf](http://www.poten.com/wp-content/uploads/2019/01/Weekly-Opinion-25-January-2019-Face-off-in-Venezuela.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-25-January-2019-Face-off-in-Venezuela.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/face-off-in-venezuela",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_face_off_in_venezuela__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Face-off in Venezuela\nFace-off in Venezuela",
+      "keywords": [
+        "face-off",
+        "venezuela"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

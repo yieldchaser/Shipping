@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent__root",
+  "doc_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Breaking Into Brent",
+  "section_path": [
+    "Poten Tanker Opinion: Breaking Into Brent"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Breaking Into Brent",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Breaking Into Brent\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-06-02\n**Source URL**: [https://www.poten.com/tanker-opinion-june-2-2023-breaking-into-brent/](https://www.poten.com/tanker-opinion-june-2-2023-breaking-into-brent/)\n**Full PDF Report**: [Weekly Opinion - 2 June 2023 - Breaking Into Brent.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%202%20June%202023%20-%20Breaking%20Into%20Brent.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 2 June 2023 - Breaking Into Brent.pdf. Analysis & Overview\nBreaking Into Brent\nBreaking Into Brent",
+  "keywords": [
+    "breaking",
+    "opinion",
+    "brent",
+    "https",
+    "june",
+    "brent.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-june-2-2023-breaking-into-brent",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 204,
+  "source_path": "reports/poten/2023/poten_2023-06-02_breaking_into_brent.md",
+  "source_url": "https://www.poten.com/tanker-opinion-june-2-2023-breaking-into-brent/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent__s01_poten_tanker_opinion_breaking_into_brent",
+      "doc_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent",
+      "parent_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent__root",
+      "title": "Poten Tanker Opinion: Breaking Into Brent",
+      "section_path": [
+        "Poten Tanker Opinion: Breaking Into Brent"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Breaking Into Brent",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-06-02\n**Source URL**: [https://www.poten.com/tanker-opinion-june-2-2023-breaking-into-brent/](https://www.poten.com/tanker-opinion-june-2-2023-breaking-into-brent/)\n**Full PDF Report**: [Weekly Opinion - 2 June 2023 - Breaking Into Brent.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%202%20June%202023%20-%20Breaking%20Into%20Brent.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 2 June 2023 - Breaking Into Brent.pdf.",
+      "keywords": [
+        "breaking",
+        "https",
+        "june",
+        "opinion",
+        "brent.pdf",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-june-2-2023-breaking-into-brent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent",
+      "parent_id": "poten_tankers_2023-06-02_poten_2023_06_02_breaking_into_brent__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Breaking Into Brent\nBreaking Into Brent",
+      "keywords": [
+        "breaking",
+        "brent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

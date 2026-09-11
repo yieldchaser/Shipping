@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: One Belt, One Road",
+  "section_path": [
+    "Poten Tanker Opinion: One Belt, One Road"
+  ],
+  "section_path_text": "Poten Tanker Opinion: One Belt, One Road",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: One Belt, One Road\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/one-belt-one-road/](https://www.poten.com/one-belt-one-road/)\n**Full PDF Report**: [Weekly-Opinion-6-October-2017-One-Belt-One-Road.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-6-October-2017-One-Belt-One-Road.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-6-October-2017-One-Belt-One-Road.pdf. Analysis & Overview\nOne Belt, One Road\n6 Oct 2017:Â In September 2013, Chinese President Xi Jinping introduced the â€œOne Belt One Roadâ€� (OBOR) initiative.Â It is an ambitious program with a heavy emphasis on infrastructure development that will potentially span up to 65 countries in Asia, Africa and Europe.Â Through this program, China intends to strengthen trading relationships with these countries and...",
+  "keywords": [
+    "china",
+    "europe",
+    "one",
+    "belt",
+    "road",
+    "countries",
+    "full",
+    "https",
+    "pdf",
+    "program",
+    "www.poten.com/one-belt-one-road",
+    "africa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 257,
+  "source_path": "reports/poten/2017/poten_2017-01-01_one_belt_one_road.md",
+  "source_url": "https://www.poten.com/one-belt-one-road/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road__s01_poten_tanker_opinion_one_belt_one_road",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road__root",
+      "title": "Poten Tanker Opinion: One Belt, One Road",
+      "section_path": [
+        "Poten Tanker Opinion: One Belt, One Road"
+      ],
+      "section_path_text": "Poten Tanker Opinion: One Belt, One Road",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/one-belt-one-road/](https://www.poten.com/one-belt-one-road/)\n**Full PDF Report**: [Weekly-Opinion-6-October-2017-One-Belt-One-Road.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-6-October-2017-One-Belt-One-Road.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-6-October-2017-One-Belt-One-Road.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/one-belt-one-road",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_one_belt_one_road__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "One Belt, One Road\n6 Oct 2017:Â In September 2013, Chinese President Xi Jinping introduced the â€œOne Belt One Roadâ€� (OBOR) initiative.Â It is an ambitious program with a heavy emphasis on infrastructure development that will potentially span up to 65 countries in Asia, Africa and Europe.Â Through this program, China intends to strengthen trading relationships with these countries and...",
+      "keywords": [
+        "china",
+        "europe",
+        "one",
+        "belt",
+        "countries",
+        "program",
+        "road",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

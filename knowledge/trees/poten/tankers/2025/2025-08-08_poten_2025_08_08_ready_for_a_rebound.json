@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound__root",
+  "doc_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Ready For A Rebound",
+  "section_path": [
+    "Poten Tanker Opinion: Ready For A Rebound"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Ready For A Rebound",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Ready For A Rebound\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-08-08\n**Source URL**: [https://www.poten.com/ready-for-a-rebound-2/](https://www.poten.com/ready-for-a-rebound-2/)\n**Full PDF Report**: [Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%208%20August%202025%20-%20OPEC%20Remains%20Opaque.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf.",
+  "keywords": [
+    "crude_oil",
+    "opinion",
+    "august",
+    "https",
+    "opec",
+    "remains",
+    "full",
+    "opaque.pdf",
+    "pdf",
+    "ready",
+    "rebound",
+    "www.poten.com/ready-for-a-rebound-2"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 194,
+  "source_path": "reports/poten/2025/poten_2025-08-08_ready_for_a_rebound.md",
+  "source_url": "https://www.poten.com/ready-for-a-rebound-2/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound__s01_poten_tanker_opinion_ready_for_a_rebound",
+      "doc_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound",
+      "parent_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound__root",
+      "title": "Poten Tanker Opinion: Ready For A Rebound",
+      "section_path": [
+        "Poten Tanker Opinion: Ready For A Rebound"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Ready For A Rebound",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-08-08\n**Source URL**: [https://www.poten.com/ready-for-a-rebound-2/](https://www.poten.com/ready-for-a-rebound-2/)\n**Full PDF Report**: [Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%208%20August%202025%20-%20OPEC%20Remains%20Opaque.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf.",
+      "keywords": [
+        "crude_oil",
+        "august",
+        "https",
+        "opec",
+        "opinion",
+        "remains",
+        "full",
+        "opaque.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound__s02_overview",
+      "doc_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound",
+      "parent_id": "poten_tankers_2025-08-08_poten_2025_08_08_ready_for_a_rebound__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "ready",
+        "rebound"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

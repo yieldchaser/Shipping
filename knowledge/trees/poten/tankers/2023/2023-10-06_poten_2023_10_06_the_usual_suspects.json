@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects__root",
+  "doc_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Usual Suspects",
+  "section_path": [
+    "Poten Tanker Opinion: The Usual Suspects"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Usual Suspects",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Usual Suspects\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-10-06\n**Source URL**: [https://www.poten.com/tanker-opinion-the-usual-suspects-october-6-2023/](https://www.poten.com/tanker-opinion-the-usual-suspects-october-6-2023/)\n**Full PDF Report**: [Weekly Opinion - 6 Oct 2023 - The Usual Suspects.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%206%20Oct%202023%20-%20The%20Usual%20Suspects.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 6 Oct 2023 - The Usual Suspects.pdf. Analysis & Overview\nThe Usual Suspects\n6 Oct 2023: China remains key to crude tanker demand in 2024 The IEA estimates that China has now overtaken the US as the country with the largest refining capacity with 18.2 million barrels per day (Mb/d) in 2022, representing about 17.7% of the global capacity. The IEA projects that Chinaâ€™s refining capacity will grow...",
+  "keywords": [
+    "china",
+    "usual",
+    "oct",
+    "opinion",
+    "https",
+    "capacity",
+    "full",
+    "iea",
+    "pdf",
+    "refining",
+    "suspects",
+    "suspects.pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 299,
+  "source_path": "reports/poten/2023/poten_2023-10-06_the_usual_suspects.md",
+  "source_url": "https://www.poten.com/tanker-opinion-the-usual-suspects-october-6-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects__s01_poten_tanker_opinion_the_usual_suspects",
+      "doc_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects",
+      "parent_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects__root",
+      "title": "Poten Tanker Opinion: The Usual Suspects",
+      "section_path": [
+        "Poten Tanker Opinion: The Usual Suspects"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Usual Suspects",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-10-06\n**Source URL**: [https://www.poten.com/tanker-opinion-the-usual-suspects-october-6-2023/](https://www.poten.com/tanker-opinion-the-usual-suspects-october-6-2023/)\n**Full PDF Report**: [Weekly Opinion - 6 Oct 2023 - The Usual Suspects.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%206%20Oct%202023%20-%20The%20Usual%20Suspects.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 6 Oct 2023 - The Usual Suspects.pdf.",
+      "keywords": [
+        "https",
+        "oct",
+        "opinion",
+        "usual",
+        "full",
+        "pdf",
+        "suspects.pdf",
+        "www.poten.com/tanker-opinion-the-usual-suspects-october-6-2023"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects",
+      "parent_id": "poten_tankers_2023-10-06_poten_2023_10_06_the_usual_suspects__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Usual Suspects\n6 Oct 2023: China remains key to crude tanker demand in 2024 The IEA estimates that China has now overtaken the US as the country with the largest refining capacity with 18.2 million barrels per day (Mb/d) in 2022, representing about 17.7% of the global capacity. The IEA projects that Chinaâ€™s refining capacity will grow...",
+      "keywords": [
+        "china",
+        "capacity",
+        "iea",
+        "refining",
+        "barrels",
+        "capacity.",
+        "country",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 91,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

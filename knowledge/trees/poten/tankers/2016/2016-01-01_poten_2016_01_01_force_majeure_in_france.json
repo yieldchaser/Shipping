@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Force Majeure In France",
+  "section_path": [
+    "Poten Tanker Opinion: Force Majeure In France"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Force Majeure In France",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Force Majeure In France\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/force-majeure-in-france/](https://www.poten.com/force-majeure-in-france/)\n**Full PDF Report**: [Weekly-Opinion-27-May-2016-Force-Majeure-In-France.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/05/Weekly-Opinion-27-May-2016-Force-Majeure-In-France.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-27-May-2016-Force-Majeure-In-France.pdf. Analysis & Overview\nForce Majeure In France\n27 May 2016: After the oil industry suffered from a severe drought in Venezuela, forest fires in Canada and rebel attacks on oil installations in Nigeria, it is now facing the consequences of a national strike in France, where members of the trade union CGT have organized strikes at the countryâ€™s refineries and blocked oil...",
+  "keywords": [
+    "crude_oil",
+    "france",
+    "https",
+    "force",
+    "full",
+    "majeure",
+    "oil",
+    "pdf",
+    "www.poten.com/force-majeure-in-france",
+    "after",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 253,
+  "source_path": "reports/poten/2016/poten_2016-01-01_force_majeure_in_france.md",
+  "source_url": "https://www.poten.com/force-majeure-in-france/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france__s01_poten_tanker_opinion_force_majeure_in_france",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france__root",
+      "title": "Poten Tanker Opinion: Force Majeure In France",
+      "section_path": [
+        "Poten Tanker Opinion: Force Majeure In France"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Force Majeure In France",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/force-majeure-in-france/](https://www.poten.com/force-majeure-in-france/)\n**Full PDF Report**: [Weekly-Opinion-27-May-2016-Force-Majeure-In-France.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/05/Weekly-Opinion-27-May-2016-Force-Majeure-In-France.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-27-May-2016-Force-Majeure-In-France.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/force-majeure-in-france",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_force_majeure_in_france__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Force Majeure In France\n27 May 2016: After the oil industry suffered from a severe drought in Venezuela, forest fires in Canada and rebel attacks on oil installations in Nigeria, it is now facing the consequences of a national strike in France, where members of the trade union CGT have organized strikes at the countryâ€™s refineries and blocked oil...",
+      "keywords": [
+        "crude_oil",
+        "france",
+        "oil",
+        "after",
+        "attacks",
+        "blocked",
+        "canada",
+        "cgt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Tanker Supply Cloud Has A Silver Lining",
+  "section_path": [
+    "Poten Tanker Opinion: Tanker Supply Cloud Has A Silver Lining"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Tanker Supply Cloud Has A Silver Lining",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Tanker Supply Cloud Has A Silver Lining\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/tanker-supply-cloud-silver-lining/](https://www.poten.com/tanker-supply-cloud-silver-lining/)\n**Full PDF Report**: [Weekly-Opinion-19-January-2017-Tanker-Supply-Cloud-Has-A-Silver-Lining.pdf](http://www.poten.com/wp-content/uploads/2017/01/Weekly-Opinion-19-January-2017-Tanker-Supply-Cloud-Has-A-Silver-Lining.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-19-January-2017-Tanker-Supply-Cloud-Has-A-Silver-Lining.pdf. Analysis & Overview\nTanker Supply Cloud Has A Silver Lining\n19 Jan 2017:Â We recently updated the age profile statistics for the tanker fleet.Â At first glance, this is not a pretty picture.Â Based on the delivery schedule of the current orderbook, deliveries of new tankers in 2017 will be at the highest level since 2009, which came at the end of the tanker market...",
+  "keywords": [
+    "cloud",
+    "full",
+    "https",
+    "lining",
+    "pdf",
+    "silver",
+    "supply",
+    "www.poten.com/tanker-supply-cloud-silver-lining",
+    "age",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 285,
+  "source_path": "reports/poten/2017/poten_2017-01-01_tanker_supply_cloud_has_a_silver_lining.md",
+  "source_url": "https://www.poten.com/tanker-supply-cloud-silver-lining/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining__s01_poten_tanker_opinion_tanker_supply_cloud_has_a_silver_lining",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining__root",
+      "title": "Poten Tanker Opinion: Tanker Supply Cloud Has A Silver Lining",
+      "section_path": [
+        "Poten Tanker Opinion: Tanker Supply Cloud Has A Silver Lining"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Tanker Supply Cloud Has A Silver Lining",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/tanker-supply-cloud-silver-lining/](https://www.poten.com/tanker-supply-cloud-silver-lining/)\n**Full PDF Report**: [Weekly-Opinion-19-January-2017-Tanker-Supply-Cloud-Has-A-Silver-Lining.pdf](http://www.poten.com/wp-content/uploads/2017/01/Weekly-Opinion-19-January-2017-Tanker-Supply-Cloud-Has-A-Silver-Lining.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-19-January-2017-Tanker-Supply-Cloud-Has-A-Silver-Lining.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/tanker-supply-cloud-silver-lining",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_tanker_supply_cloud_has_a_silver_lining__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Tanker Supply Cloud Has A Silver Lining\n19 Jan 2017:Â We recently updated the age profile statistics for the tanker fleet.Â At first glance, this is not a pretty picture.Â Based on the delivery schedule of the current orderbook, deliveries of new tankers in 2017 will be at the highest level since 2009, which came at the end of the tanker market...",
+      "keywords": [
+        "age",
+        "based",
+        "came",
+        "cloud",
+        "current",
+        "deliveries",
+        "delivery",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: This Time it is Different",
+  "section_path": [
+    "Poten Tanker Opinion: This Time it is Different"
+  ],
+  "section_path_text": "Poten Tanker Opinion: This Time it is Different",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: This Time it is Different\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/this-time-is-is-different/](https://www.poten.com/this-time-is-is-different/)\n**Full PDF Report**: [Weekly-Opinion-October-9-2015-This-Time-It-Is-Different.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/10/Weekly-Opinion-October-9-2015-This-Time-It-Is-Different.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-October-9-2015-This-Time-It-Is-Different.pdf. Analysis & Overview\nThis Time it is Different\n9 Oct 2015: The VlCC market is hot again, but for different reasons.Â Late last week, time charter equivalents (TCEâ€™s), a measure of vesselâ€™s daily earnings exceeded the magical $100,000 per day mark for VLCCâ€™s. Â This brings back memories from the 2004 â€\"2008 â€œsuper-cycleâ€�, when this happened on a regular basis.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "different",
+    "https",
+    "time",
+    "full",
+    "pdf",
+    "www.poten.com/this-time-is-is-different",
+    "again",
+    "analysis",
+    "anticipation",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 290,
+  "source_path": "reports/poten/2015/poten_2015-01-01_this_time_it_is_different.md",
+  "source_url": "https://www.poten.com/this-time-is-is-different/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different__s01_poten_tanker_opinion_this_time_it_is_different",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different__root",
+      "title": "Poten Tanker Opinion: This Time it is Different",
+      "section_path": [
+        "Poten Tanker Opinion: This Time it is Different"
+      ],
+      "section_path_text": "Poten Tanker Opinion: This Time it is Different",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/this-time-is-is-different/](https://www.poten.com/this-time-is-is-different/)\n**Full PDF Report**: [Weekly-Opinion-October-9-2015-This-Time-It-Is-Different.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/10/Weekly-Opinion-October-9-2015-This-Time-It-Is-Different.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-October-9-2015-This-Time-It-Is-Different.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/this-time-is-is-different",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_this_time_it_is_different__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This Time it is Different\n9 Oct 2015: The VlCC market is hot again, but for different reasons.Â Late last week, time charter equivalents (TCEâ€™s), a measure of vesselâ€™s daily earnings exceeded the magical $100,000 per day mark for VLCCâ€™s. Â This brings back memories from the 2004 â€\"2008 â€œsuper-cycleâ€�, when this happened on a regular basis.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "different",
+        "time",
+        "again",
+        "anticipation",
+        "back",
+        "basis."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

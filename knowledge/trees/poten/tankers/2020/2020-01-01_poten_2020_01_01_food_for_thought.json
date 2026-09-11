@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Food For Thought",
+  "section_path": [
+    "Poten Tanker Opinion: Food For Thought"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Food For Thought",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Food For Thought\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-food-for-thought/](https://www.poten.com/tanker-opinion-food-for-thought/)\n**Full PDF Report**: [Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf](https://www.poten.com/wp-content/uploads/2020/09/Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf. Analysis & Overview\nFood For Thought\nFood For Thought",
+  "keywords": [
+    "food",
+    "https",
+    "thought",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-food-for-thought",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 176,
+  "source_path": "reports/poten/2020/poten_2020-01-01_food_for_thought.md",
+  "source_url": "https://www.poten.com/tanker-opinion-food-for-thought/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought__s01_poten_tanker_opinion_food_for_thought",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought__root",
+      "title": "Poten Tanker Opinion: Food For Thought",
+      "section_path": [
+        "Poten Tanker Opinion: Food For Thought"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Food For Thought",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-food-for-thought/](https://www.poten.com/tanker-opinion-food-for-thought/)\n**Full PDF Report**: [Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf](https://www.poten.com/wp-content/uploads/2020/09/Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-food-for-thought",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_food_for_thought__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Food For Thought\nFood For Thought",
+      "keywords": [
+        "food",
+        "thought"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

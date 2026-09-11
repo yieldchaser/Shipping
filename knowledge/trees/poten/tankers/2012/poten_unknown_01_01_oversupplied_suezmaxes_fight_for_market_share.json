@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Oversupplied Suezmaxes Fight for Market Share",
+  "section_path": [
+    "Poten Tanker Opinion: Oversupplied Suezmaxes Fight for Market Share"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Oversupplied Suezmaxes Fight for Market Share",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Oversupplied Suezmaxes Fight for Market Share\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/oversupplied-suezmaxes-fight-for-market-share/](https://www.poten.com/oversupplied-suezmaxes-fight-for-market-share/)\n**Full PDF Report**: [Tanker_Opinion_20120928.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120928.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120928.pdf. Analysis & Overview\nOversupplied Suezmaxes Fight for Market Share\nOversupplied Suezmaxes Fight for Market Share",
+  "keywords": [
+    "suezmax",
+    "fight",
+    "https",
+    "oversupplied",
+    "share",
+    "suezmaxes",
+    "full",
+    "pdf",
+    "www.poten.com/oversupplied-suezmaxes-fight-for-market-share",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 183,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_oversupplied_suezmaxes_fight_for_market_share.md",
+  "source_url": "https://www.poten.com/oversupplied-suezmaxes-fight-for-market-share/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share__s01_poten_tanker_opinion_oversupplied_suezmaxes_fight_for_market_share",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share__root",
+      "title": "Poten Tanker Opinion: Oversupplied Suezmaxes Fight for Market Share",
+      "section_path": [
+        "Poten Tanker Opinion: Oversupplied Suezmaxes Fight for Market Share"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Oversupplied Suezmaxes Fight for Market Share",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/oversupplied-suezmaxes-fight-for-market-share/](https://www.poten.com/oversupplied-suezmaxes-fight-for-market-share/)\n**Full PDF Report**: [Tanker_Opinion_20120928.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120928.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120928.pdf.",
+      "keywords": [
+        "suezmax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/oversupplied-suezmaxes-fight-for-market-share",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_oversupplied_suezmaxes_fight_for_market_share__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Oversupplied Suezmaxes Fight for Market Share\nOversupplied Suezmaxes Fight for Market Share",
+      "keywords": [
+        "suezmax",
+        "fight",
+        "oversupplied",
+        "share",
+        "suezmaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

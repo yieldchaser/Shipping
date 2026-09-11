@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Railway To Heaven",
+  "section_path": [
+    "Poten Tanker Opinion: Railway To Heaven"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Railway To Heaven",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Railway To Heaven\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/railway-to-heaven/](https://www.poten.com/railway-to-heaven/)\n**Full PDF Report**: [Weekly-Opinion-14-September-2018-Railway-To-Heaven.pdf](http://www.poten.com/wp-content/uploads/2018/09/Weekly-Opinion-14-September-2018-Railway-To-Heaven.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-14-September-2018-Railway-To-Heaven.pdf. Analysis & Overview\nRailway To Heaven\nRailway To Heaven",
+  "keywords": [
+    "heaven",
+    "railway",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/railway-to-heaven",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 174,
+  "source_path": "reports/poten/2018/poten_2018-01-01_railway_to_heaven.md",
+  "source_url": "https://www.poten.com/railway-to-heaven/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven__s01_poten_tanker_opinion_railway_to_heaven",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven__root",
+      "title": "Poten Tanker Opinion: Railway To Heaven",
+      "section_path": [
+        "Poten Tanker Opinion: Railway To Heaven"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Railway To Heaven",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/railway-to-heaven/](https://www.poten.com/railway-to-heaven/)\n**Full PDF Report**: [Weekly-Opinion-14-September-2018-Railway-To-Heaven.pdf](http://www.poten.com/wp-content/uploads/2018/09/Weekly-Opinion-14-September-2018-Railway-To-Heaven.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-14-September-2018-Railway-To-Heaven.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/railway-to-heaven",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_railway_to_heaven__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Railway To Heaven\nRailway To Heaven",
+      "keywords": [
+        "heaven",
+        "railway"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

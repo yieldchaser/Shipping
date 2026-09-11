@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Adding Fuel to the Eco Ship Fire",
+  "section_path": [
+    "Poten Tanker Opinion: Adding Fuel to the Eco Ship Fire"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Adding Fuel to the Eco Ship Fire",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Adding Fuel to the Eco Ship Fire\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/adding-fuel-to-the-eco-ship-fire/](https://www.poten.com/adding-fuel-to-the-eco-ship-fire/)\n**Full PDF Report**: [Tanker_Opinion_20130830.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130830.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130830.pdf. Analysis & Overview\nAdding Fuel to the Eco Ship Fire\nAdding Fuel to the Eco Ship Fire",
+  "keywords": [
+    "adding",
+    "eco",
+    "fire",
+    "fuel",
+    "https",
+    "ship",
+    "full",
+    "pdf",
+    "www.poten.com/adding-fuel-to-the-eco-ship-fire",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 165,
+  "source_path": "reports/poten/2013/poten_unknown-01-01_adding_fuel_to_the_eco_ship_fire.md",
+  "source_url": "https://www.poten.com/adding-fuel-to-the-eco-ship-fire/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire__s01_poten_tanker_opinion_adding_fuel_to_the_eco_ship_fire",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire__root",
+      "title": "Poten Tanker Opinion: Adding Fuel to the Eco Ship Fire",
+      "section_path": [
+        "Poten Tanker Opinion: Adding Fuel to the Eco Ship Fire"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Adding Fuel to the Eco Ship Fire",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/adding-fuel-to-the-eco-ship-fire/](https://www.poten.com/adding-fuel-to-the-eco-ship-fire/)\n**Full PDF Report**: [Tanker_Opinion_20130830.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130830.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130830.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/adding-fuel-to-the-eco-ship-fire",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_adding_fuel_to_the_eco_ship_fire__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Adding Fuel to the Eco Ship Fire\nAdding Fuel to the Eco Ship Fire",
+      "keywords": [
+        "adding",
+        "eco",
+        "fire",
+        "fuel",
+        "ship"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

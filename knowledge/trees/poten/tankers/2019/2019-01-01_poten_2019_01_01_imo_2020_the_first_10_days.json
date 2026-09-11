@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: IMO 2020 â€\" The First 10 Days",
+  "section_path": [
+    "Poten Tanker Opinion: IMO 2020 â€\" The First 10 Days"
+  ],
+  "section_path_text": "Poten Tanker Opinion: IMO 2020 â€\" The First 10 Days",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: IMO 2020 â€\" The First 10 Days\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/imo-2020-the-first-10-days/](https://www.poten.com/imo-2020-the-first-10-days/)\n**Full PDF Report**: [Weekly-Opinion-10-January-2019-IMO-2020-The-First-10-Days.pdf](http://www.poten.com/wp-content/uploads/2020/01/Weekly-Opinion-10-January-2019-IMO-2020-The-First-10-Days.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-10-January-2019-IMO-2020-The-First-10-Days.pdf. Analysis & Overview\nIMO 2020 â€\" The First 10 Days\n10 Jan 2020: Relatively Smooth Sailing as New Rules Come into Force We are still in the early innings of the new IMO rules and it is much too early to draw any definitive conclusions about the long-term implications of IMO 2020 on the shipping and the oil industry. However, as most of us have...",
+  "keywords": [
+    "crude_oil",
+    "imo",
+    "days",
+    "early",
+    "first",
+    "full",
+    "https",
+    "new",
+    "pdf",
+    "rules",
+    "www.poten.com/imo-2020-the-first-10-days",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 279,
+  "source_path": "reports/poten/2019/poten_2019-01-01_imo_2020_the_first_10_days.md",
+  "source_url": "https://www.poten.com/imo-2020-the-first-10-days/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days__s01_poten_tanker_opinion_imo_2020_the_first_10_days",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days__root",
+      "title": "Poten Tanker Opinion: IMO 2020 â€\" The First 10 Days",
+      "section_path": [
+        "Poten Tanker Opinion: IMO 2020 â€\" The First 10 Days"
+      ],
+      "section_path_text": "Poten Tanker Opinion: IMO 2020 â€\" The First 10 Days",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/imo-2020-the-first-10-days/](https://www.poten.com/imo-2020-the-first-10-days/)\n**Full PDF Report**: [Weekly-Opinion-10-January-2019-IMO-2020-The-First-10-Days.pdf](http://www.poten.com/wp-content/uploads/2020/01/Weekly-Opinion-10-January-2019-IMO-2020-The-First-10-Days.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-10-January-2019-IMO-2020-The-First-10-Days.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/imo-2020-the-first-10-days",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_imo_2020_the_first_10_days__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "IMO 2020 â€\" The First 10 Days\n10 Jan 2020: Relatively Smooth Sailing as New Rules Come into Force We are still in the early innings of the new IMO rules and it is much too early to draw any definitive conclusions about the long-term implications of IMO 2020 on the shipping and the oil industry. However, as most of us have...",
+      "keywords": [
+        "crude_oil",
+        "imo",
+        "early",
+        "new",
+        "rules",
+        "any",
+        "are",
+        "come"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

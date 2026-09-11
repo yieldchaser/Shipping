@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal__root",
+  "doc_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Not All Crude Is Created Equal",
+  "section_path": [
+    "Poten Tanker Opinion: Not All Crude Is Created Equal"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Not All Crude Is Created Equal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Not All Crude Is Created Equal\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-11-10\n**Source URL**: [https://www.poten.com/tanker-opinions-not-all-crude-is-created-equal-november-10-2023/](https://www.poten.com/tanker-opinions-not-all-crude-is-created-equal-november-10-2023/)\n**Full PDF Report**: [Weekly opinion - 10 November 2023 - Not All Crude Is Created Equal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20opinion%20-%2010%20November%202023%20-%20Not%20All%20Crude%20Is%20Created%20Equal.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly opinion - 10 November 2023 - Not All Crude Is Created Equal.pdf. Analysis & Overview\nNot All Crude Is Created Equal\nNot All Crude Is Created Equal",
+  "keywords": [
+    "all",
+    "created",
+    "crude",
+    "not",
+    "opinion",
+    "equal",
+    "https",
+    "november",
+    "equal.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-not-all-crude-is-created-equal-november-10-2023"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 242,
+  "source_path": "reports/poten/2023/poten_2023-11-10_not_all_crude_is_created_equal.md",
+  "source_url": "https://www.poten.com/tanker-opinions-not-all-crude-is-created-equal-november-10-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal__s01_poten_tanker_opinion_not_all_crude_is_created_equal",
+      "doc_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal",
+      "parent_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal__root",
+      "title": "Poten Tanker Opinion: Not All Crude Is Created Equal",
+      "section_path": [
+        "Poten Tanker Opinion: Not All Crude Is Created Equal"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Not All Crude Is Created Equal",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-11-10\n**Source URL**: [https://www.poten.com/tanker-opinions-not-all-crude-is-created-equal-november-10-2023/](https://www.poten.com/tanker-opinions-not-all-crude-is-created-equal-november-10-2023/)\n**Full PDF Report**: [Weekly opinion - 10 November 2023 - Not All Crude Is Created Equal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20opinion%20-%2010%20November%202023%20-%20Not%20All%20Crude%20Is%20Created%20Equal.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly opinion - 10 November 2023 - Not All Crude Is Created Equal.pdf.",
+      "keywords": [
+        "all",
+        "created",
+        "crude",
+        "https",
+        "not",
+        "november",
+        "opinion",
+        "equal.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal",
+      "parent_id": "poten_tankers_2023-11-10_poten_2023_11_10_not_all_crude_is_created_equal__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Not All Crude Is Created Equal\nNot All Crude Is Created Equal",
+      "keywords": [
+        "all",
+        "created",
+        "crude",
+        "equal",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

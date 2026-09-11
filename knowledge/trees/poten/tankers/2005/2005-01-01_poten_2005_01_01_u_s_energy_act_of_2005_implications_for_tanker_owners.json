@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners__root",
+  "doc_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: U.S. Energy Act of 2005 Implications for Tanker Owners",
+  "section_path": [
+    "Poten Tanker Opinion: U.S. Energy Act of 2005 Implications for Tanker Owners"
+  ],
+  "section_path_text": "Poten Tanker Opinion: U.S. Energy Act of 2005 Implications for Tanker Owners",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Energy Act of 2005 Implications for Tanker Owners\n**Author**: Erik Broekhuizen\n**Published Date**: 2005-01-01\n**Source URL**: [https://www.poten.com/u-s-energy-act-of-2005-implications-for-tanker-owners/](https://www.poten.com/u-s-energy-act-of-2005-implications-for-tanker-owners/)\n**Full PDF Report**: [Tanker_Opinion_20050805.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050805.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2005/Tanker_Opinion_20050805.pdf. Energy Act of 2005 Implications for Tanker Owners\nU.S. Energy Act of 2005 Implications for Tanker Owners",
+  "keywords": [
+    "act",
+    "energy",
+    "https",
+    "implications",
+    "owners",
+    "u.s.",
+    "full",
+    "pdf",
+    "www.poten.com/u-s-energy-act-of-2005-implications-for-tanker-owners",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 204,
+  "source_path": "reports/poten/2005/poten_2005-01-01_u_s_energy_act_of_2005_implications_for_tanker_owners.md",
+  "source_url": "https://www.poten.com/u-s-energy-act-of-2005-implications-for-tanker-owners/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners__s01_poten_tanker_opinion_u_s_energy_act_of_2005_implications_for_tanker_owners",
+      "doc_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners",
+      "parent_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners__root",
+      "title": "Poten Tanker Opinion: U.S. Energy Act of 2005 Implications for Tanker Owners",
+      "section_path": [
+        "Poten Tanker Opinion: U.S. Energy Act of 2005 Implications for Tanker Owners"
+      ],
+      "section_path_text": "Poten Tanker Opinion: U.S. Energy Act of 2005 Implications for Tanker Owners",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2005-01-01\n**Source URL**: [https://www.poten.com/u-s-energy-act-of-2005-implications-for-tanker-owners/](https://www.poten.com/u-s-energy-act-of-2005-implications-for-tanker-owners/)\n**Full PDF Report**: [Tanker_Opinion_20050805.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050805.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2005/Tanker_Opinion_20050805.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/u-s-energy-act-of-2005-implications-for-tanker-owners",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners__s02_analysis_overview",
+      "doc_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners",
+      "parent_id": "poten_tankers_2005-01-01_poten_2005_01_01_u_s_energy_act_of_2005_implications_for_tanker_owners__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Energy Act of 2005 Implications for Tanker Owners\nU.S. Energy Act of 2005 Implications for Tanker Owners",
+      "keywords": [
+        "act",
+        "energy",
+        "implications",
+        "owners",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

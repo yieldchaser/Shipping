@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Letting it All Out",
+  "section_path": [
+    "Poten Tanker Opinion: Letting it All Out"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Letting it All Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Letting it All Out\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-october-30-letting-it-all-out/](https://www.poten.com/tanker-opinion-october-30-letting-it-all-out/)\n**Full PDF Report**: [Weekly-Opinion-30-October-2020-Letting-It-All-Out.pdf](https://www.poten.com/wp-content/uploads/2020/10/Weekly-Opinion-30-October-2020-Letting-It-All-Out.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-30-October-2020-Letting-It-All-Out.pdf. Analysis & Overview\nLetting it All Out\nLetting it All Out",
+  "keywords": [
+    "all",
+    "https",
+    "letting",
+    "out",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-october-30-letting-it-all-out",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 196,
+  "source_path": "reports/poten/2020/poten_2020-01-01_letting_it_all_out.md",
+  "source_url": "https://www.poten.com/tanker-opinion-october-30-letting-it-all-out/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out__s01_poten_tanker_opinion_letting_it_all_out",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out__root",
+      "title": "Poten Tanker Opinion: Letting it All Out",
+      "section_path": [
+        "Poten Tanker Opinion: Letting it All Out"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Letting it All Out",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-october-30-letting-it-all-out/](https://www.poten.com/tanker-opinion-october-30-letting-it-all-out/)\n**Full PDF Report**: [Weekly-Opinion-30-October-2020-Letting-It-All-Out.pdf](https://www.poten.com/wp-content/uploads/2020/10/Weekly-Opinion-30-October-2020-Letting-It-All-Out.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-30-October-2020-Letting-It-All-Out.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-october-30-letting-it-all-out",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_letting_it_all_out__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Letting it All Out\nLetting it All Out",
+      "keywords": [
+        "all",
+        "letting",
+        "out"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

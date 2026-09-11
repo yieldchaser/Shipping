@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Will Naphtha Keep Cracking",
+  "section_path": [
+    "Poten Tanker Opinion: Will Naphtha Keep Cracking"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Will Naphtha Keep Cracking",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Will Naphtha Keep Cracking\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/will-naphtha-keep-cracking/](https://www.poten.com/will-naphtha-keep-cracking/)\n**Full PDF Report**: [Weekly-Opinion-May-29-2015-Will-Naphtha-Keep-Cracking.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Weekly-Opinion-May-29-2015-Will-Naphtha-Keep-Cracking.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-May-29-2015-Will-Naphtha-Keep-Cracking.pdf. Analysis & Overview\nWill Naphtha Keep Cracking\n29 May 2015: Naphtha has been a key driver for the LR product trades. Â Naphtha refers to a range of volatile and flammable liquids produced by the distillation of petroleum.",
+  "keywords": [
+    "products",
+    "gas",
+    "naphtha",
+    "https",
+    "cracking",
+    "full",
+    "keep",
+    "liquids",
+    "pdf",
+    "www.poten.com/will-naphtha-keep-cracking",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 273,
+  "source_path": "reports/poten/2015/poten_2015-01-01_will_naphtha_keep_cracking.md",
+  "source_url": "https://www.poten.com/will-naphtha-keep-cracking/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking__s01_poten_tanker_opinion_will_naphtha_keep_cracking",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking__root",
+      "title": "Poten Tanker Opinion: Will Naphtha Keep Cracking",
+      "section_path": [
+        "Poten Tanker Opinion: Will Naphtha Keep Cracking"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Will Naphtha Keep Cracking",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/will-naphtha-keep-cracking/](https://www.poten.com/will-naphtha-keep-cracking/)\n**Full PDF Report**: [Weekly-Opinion-May-29-2015-Will-Naphtha-Keep-Cracking.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Weekly-Opinion-May-29-2015-Will-Naphtha-Keep-Cracking.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-May-29-2015-Will-Naphtha-Keep-Cracking.pdf.",
+      "keywords": [
+        "products",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/will-naphtha-keep-cracking",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_naphtha_keep_cracking__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Will Naphtha Keep Cracking\n29 May 2015: Naphtha has been a key driver for the LR product trades. Â Naphtha refers to a range of volatile and flammable liquids produced by the distillation of petroleum.",
+      "keywords": [
+        "products",
+        "gas",
+        "naphtha",
+        "liquids",
+        "components",
+        "cracking",
+        "distillation",
+        "driver"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

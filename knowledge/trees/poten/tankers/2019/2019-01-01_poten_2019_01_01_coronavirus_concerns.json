@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Coronavirus Concerns",
+  "section_path": [
+    "Poten Tanker Opinion: Coronavirus Concerns"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Coronavirus Concerns",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Coronavirus Concerns\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/coronavirus-concerns/](https://www.poten.com/coronavirus-concerns/)\n**Full PDF Report**: [Weekly-Opinion-23-January-2019-Coronavirus-Concerns.pdf](http://www.poten.com/wp-content/uploads/2020/01/Weekly-Opinion-23-January-2019-Coronavirus-Concerns.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-23-January-2019-Coronavirus-Concerns.pdf. Analysis & Overview\nCoronavirus Concerns\n23 Jan 2020: The coronavirus outbreak, which started in the city of Wuhan in China, has spread across several countries in Asia, with confirmed cases in South Korea, Japan, Taiwan as well as Thailand and Singapore. There has also been one case identified in the United States.",
+  "keywords": [
+    "china",
+    "singapore",
+    "japan",
+    "coronavirus",
+    "concerns",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/coronavirus-concerns",
+    "according",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 241,
+  "source_path": "reports/poten/2019/poten_2019-01-01_coronavirus_concerns.md",
+  "source_url": "https://www.poten.com/coronavirus-concerns/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns__s01_poten_tanker_opinion_coronavirus_concerns",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns__root",
+      "title": "Poten Tanker Opinion: Coronavirus Concerns",
+      "section_path": [
+        "Poten Tanker Opinion: Coronavirus Concerns"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Coronavirus Concerns",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/coronavirus-concerns/](https://www.poten.com/coronavirus-concerns/)\n**Full PDF Report**: [Weekly-Opinion-23-January-2019-Coronavirus-Concerns.pdf](http://www.poten.com/wp-content/uploads/2020/01/Weekly-Opinion-23-January-2019-Coronavirus-Concerns.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-23-January-2019-Coronavirus-Concerns.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/coronavirus-concerns",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_coronavirus_concerns__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Coronavirus Concerns\n23 Jan 2020: The coronavirus outbreak, which started in the city of Wuhan in China, has spread across several countries in Asia, with confirmed cases in South Korea, Japan, Taiwan as well as Thailand and Singapore. There has also been one case identified in the United States.",
+      "keywords": [
+        "china",
+        "singapore",
+        "japan",
+        "coronavirus",
+        "according",
+        "asia",
+        "case",
+        "cases"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

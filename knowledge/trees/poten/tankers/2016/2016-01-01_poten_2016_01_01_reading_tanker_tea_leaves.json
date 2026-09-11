@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Reading Tanker Tea Leaves",
+  "section_path": [
+    "Poten Tanker Opinion: Reading Tanker Tea Leaves"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Reading Tanker Tea Leaves",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Reading Tanker Tea Leaves\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/reading-tanker-tea-leaves/](https://www.poten.com/reading-tanker-tea-leaves/)\n**Full PDF Report**: [Weekly-Opinion-February-26-2016-Reading-Tanker-Tea-Leaves.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/02/Weekly-Opinion-February-26-2016-Reading-Tanker-Tea-Leaves.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-February-26-2016-Reading-Tanker-Tea-Leaves.pdf. Analysis & Overview\nReading Tanker Tea Leaves\n26 Feb 2016: Every year around this time, the International Energy Agency (IEA) publishes their Medium Term Oil Market Report. The report includes the customary oil supply and demand forecasts and refinery dynamics.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "oil",
+    "full",
+    "leaves",
+    "pdf",
+    "reading",
+    "tea",
+    "www.poten.com/reading-tanker-tea-leaves",
+    "agency",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 256,
+  "source_path": "reports/poten/2016/poten_2016-01-01_reading_tanker_tea_leaves.md",
+  "source_url": "https://www.poten.com/reading-tanker-tea-leaves/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves__s01_poten_tanker_opinion_reading_tanker_tea_leaves",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves__root",
+      "title": "Poten Tanker Opinion: Reading Tanker Tea Leaves",
+      "section_path": [
+        "Poten Tanker Opinion: Reading Tanker Tea Leaves"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Reading Tanker Tea Leaves",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/reading-tanker-tea-leaves/](https://www.poten.com/reading-tanker-tea-leaves/)\n**Full PDF Report**: [Weekly-Opinion-February-26-2016-Reading-Tanker-Tea-Leaves.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/02/Weekly-Opinion-February-26-2016-Reading-Tanker-Tea-Leaves.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-February-26-2016-Reading-Tanker-Tea-Leaves.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/reading-tanker-tea-leaves",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_reading_tanker_tea_leaves__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Reading Tanker Tea Leaves\n26 Feb 2016: Every year around this time, the International Energy Agency (IEA) publishes their Medium Term Oil Market Report. The report includes the customary oil supply and demand forecasts and refinery dynamics.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "agency",
+        "around",
+        "crude",
+        "customary",
+        "demand",
+        "detailed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

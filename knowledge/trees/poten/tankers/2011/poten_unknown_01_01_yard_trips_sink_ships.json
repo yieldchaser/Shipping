@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Yard Trips Sink Ships",
+  "section_path": [
+    "Poten Tanker Opinion: Yard Trips Sink Ships"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Yard Trips Sink Ships",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Yard Trips Sink Ships\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/yard-trips-sink-ships-june-24-2011/](https://www.poten.com/yard-trips-sink-ships-june-24-2011/)\n**Full PDF Report**: [Tanker_Opinion_20110624.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110624.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110624.pdf. Analysis & Overview\nYard Trips Sink Ships\nYard Trips Sink Ships",
+  "keywords": [
+    "https",
+    "ships",
+    "sink",
+    "trips",
+    "yard",
+    "full",
+    "pdf",
+    "www.poten.com/yard-trips-sink-ships-june-24-2011",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 169,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_yard_trips_sink_ships.md",
+  "source_url": "https://www.poten.com/yard-trips-sink-ships-june-24-2011/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships__s01_poten_tanker_opinion_yard_trips_sink_ships",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships__root",
+      "title": "Poten Tanker Opinion: Yard Trips Sink Ships",
+      "section_path": [
+        "Poten Tanker Opinion: Yard Trips Sink Ships"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Yard Trips Sink Ships",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/yard-trips-sink-ships-june-24-2011/](https://www.poten.com/yard-trips-sink-ships-june-24-2011/)\n**Full PDF Report**: [Tanker_Opinion_20110624.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110624.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110624.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/yard-trips-sink-ships-june-24-2011",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_yard_trips_sink_ships__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yard Trips Sink Ships\nYard Trips Sink Ships",
+      "keywords": [
+        "ships",
+        "sink",
+        "trips",
+        "yard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

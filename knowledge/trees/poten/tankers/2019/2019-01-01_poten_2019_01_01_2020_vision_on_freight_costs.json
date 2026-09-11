@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: 2020 Vision On Freight Costs",
+  "section_path": [
+    "Poten Tanker Opinion: 2020 Vision On Freight Costs"
+  ],
+  "section_path_text": "Poten Tanker Opinion: 2020 Vision On Freight Costs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: 2020 Vision On Freight Costs\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/2020-vision-on-freight-costs/](https://www.poten.com/2020-vision-on-freight-costs/)\n**Full PDF Report**: [Weekly-Opinion-01-November-2019-2020-Vision-on-Freight-Costs.pdf](http://www.poten.com/wp-content/uploads/2019/11/Weekly-Opinion-01-November-2019-2020-Vision-on-Freight-Costs.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-01-November-2019-2020-Vision-on-Freight-Costs.pdf. Analysis & Overview\n2020 Vision On Freight Costs\n1 Nov 2019: The Impact of IMO 2020 on Freight Rates Anyone who follows the shipping industry or is involved in the refining business will be aware of the fuel change affecting the shipping markets in 2020, with the implementation of the International Maritime Organization (IMO) Sulphur regulations. After January 1, 2020, ships will be...",
+  "keywords": [
+    "costs",
+    "full",
+    "https",
+    "imo",
+    "pdf",
+    "vision",
+    "www.poten.com/2020-vision-on-freight-costs",
+    "affecting",
+    "after",
+    "analysis",
+    "anyone",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 279,
+  "source_path": "reports/poten/2019/poten_2019-01-01_2020_vision_on_freight_costs.md",
+  "source_url": "https://www.poten.com/2020-vision-on-freight-costs/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs__s01_poten_tanker_opinion_2020_vision_on_freight_costs",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs__root",
+      "title": "Poten Tanker Opinion: 2020 Vision On Freight Costs",
+      "section_path": [
+        "Poten Tanker Opinion: 2020 Vision On Freight Costs"
+      ],
+      "section_path_text": "Poten Tanker Opinion: 2020 Vision On Freight Costs",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/2020-vision-on-freight-costs/](https://www.poten.com/2020-vision-on-freight-costs/)\n**Full PDF Report**: [Weekly-Opinion-01-November-2019-2020-Vision-on-Freight-Costs.pdf](http://www.poten.com/wp-content/uploads/2019/11/Weekly-Opinion-01-November-2019-2020-Vision-on-Freight-Costs.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-01-November-2019-2020-Vision-on-Freight-Costs.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/2020-vision-on-freight-costs",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_2020_vision_on_freight_costs__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2020 Vision On Freight Costs\n1 Nov 2019: The Impact of IMO 2020 on Freight Rates Anyone who follows the shipping industry or is involved in the refining business will be aware of the fuel change affecting the shipping markets in 2020, with the implementation of the International Maritime Organization (IMO) Sulphur regulations. After January 1, 2020, ships will be...",
+      "keywords": [
+        "imo",
+        "affecting",
+        "after",
+        "anyone",
+        "aware",
+        "be...",
+        "business",
+        "change"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

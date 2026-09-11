@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Oil Markets Are Rebalancing",
+  "section_path": [
+    "Poten Tanker Opinion: Oil Markets Are Rebalancing"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Oil Markets Are Rebalancing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Oil Markets Are Rebalancing\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/oil-markets-are-rebalancing/](https://www.poten.com/oil-markets-are-rebalancing/)\n**Full PDF Report**: [Weekly-Opinion-22-May-2020-Oil-Markets-Are-Rebalancing.pdf](http://www.poten.com/wp-content/uploads/2020/05/Weekly-Opinion-22-May-2020-Oil-Markets-Are-Rebalancing.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-22-May-2020-Oil-Markets-Are-Rebalancing.pdf. Analysis & Overview\nOil Markets Are Rebalancing\nOil Markets Are Rebalancing",
+  "keywords": [
+    "crude_oil",
+    "are",
+    "markets",
+    "oil",
+    "rebalancing",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/oil-markets-are-rebalancing",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 193,
+  "source_path": "reports/poten/2020/poten_2020-01-01_oil_markets_are_rebalancing.md",
+  "source_url": "https://www.poten.com/oil-markets-are-rebalancing/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing__s01_poten_tanker_opinion_oil_markets_are_rebalancing",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing__root",
+      "title": "Poten Tanker Opinion: Oil Markets Are Rebalancing",
+      "section_path": [
+        "Poten Tanker Opinion: Oil Markets Are Rebalancing"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Oil Markets Are Rebalancing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/oil-markets-are-rebalancing/](https://www.poten.com/oil-markets-are-rebalancing/)\n**Full PDF Report**: [Weekly-Opinion-22-May-2020-Oil-Markets-Are-Rebalancing.pdf](http://www.poten.com/wp-content/uploads/2020/05/Weekly-Opinion-22-May-2020-Oil-Markets-Are-Rebalancing.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-22-May-2020-Oil-Markets-Are-Rebalancing.pdf.",
+      "keywords": [
+        "crude_oil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/oil-markets-are-rebalancing",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_oil_markets_are_rebalancing__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Oil Markets Are Rebalancing\nOil Markets Are Rebalancing",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "markets",
+        "oil",
+        "rebalancing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

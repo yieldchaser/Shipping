@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Russia Attacks Ukraine",
+  "section_path": [
+    "Poten Tanker Opinion: Russia Attacks Ukraine"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Russia Attacks Ukraine",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Russia Attacks Ukraine\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinon-february-25-2022-russia-attacks-ukraine/](https://www.poten.com/tanker-opinon-february-25-2022-russia-attacks-ukraine/)\n**Full PDF Report**: [Weekly-Opinion-25-February-2022-Russia-Attacks-Ukraine.pdf](https://www.poten.com/wp-content/uploads/2022/02/Weekly-Opinion-25-February-2022-Russia-Attacks-Ukraine.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-25-February-2022-Russia-Attacks-Ukraine.pdf. Analysis & Overview\nRussia Attacks Ukraine\nRussia Attacks Ukraine",
+  "keywords": [
+    "attacks",
+    "https",
+    "russia",
+    "ukraine",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinon-february-25-2022-russia-attacks-ukraine",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 200,
+  "source_path": "reports/poten/2022/poten_2022-01-01_russia_attacks_ukraine.md",
+  "source_url": "https://www.poten.com/tanker-opinon-february-25-2022-russia-attacks-ukraine/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine__s01_poten_tanker_opinion_russia_attacks_ukraine",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine__root",
+      "title": "Poten Tanker Opinion: Russia Attacks Ukraine",
+      "section_path": [
+        "Poten Tanker Opinion: Russia Attacks Ukraine"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Russia Attacks Ukraine",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinon-february-25-2022-russia-attacks-ukraine/](https://www.poten.com/tanker-opinon-february-25-2022-russia-attacks-ukraine/)\n**Full PDF Report**: [Weekly-Opinion-25-February-2022-Russia-Attacks-Ukraine.pdf](https://www.poten.com/wp-content/uploads/2022/02/Weekly-Opinion-25-February-2022-Russia-Attacks-Ukraine.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-25-February-2022-Russia-Attacks-Ukraine.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinon-february-25-2022-russia-attacks-ukraine",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_russia_attacks_ukraine__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Russia Attacks Ukraine\nRussia Attacks Ukraine",
+      "keywords": [
+        "attacks",
+        "russia",
+        "ukraine"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

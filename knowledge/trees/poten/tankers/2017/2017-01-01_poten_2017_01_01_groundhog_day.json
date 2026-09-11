@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Groundhog Day",
+  "section_path": [
+    "Poten Tanker Opinion: Groundhog Day"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Groundhog Day",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Groundhog Day\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/groundhog-day/](https://www.poten.com/groundhog-day/)\n**Full PDF Report**: [Weekly-Opinion-January-5-2017-Groundhog-Day.pdf](http://www.poten.com/wp-content/uploads/2017/01/Weekly-Opinion-January-5-2017-Groundhog-Day.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-January-5-2017-Groundhog-Day.pdf. Analysis & Overview\nGroundhog Day\n5 Jan 2017: There were only minor changes in the rankings of the top dirty spot charterers in 2016 as compared to 2015. Unipec, Shell and Vitol claimed the top positions as they did last year.",
+  "keywords": [
+    "china",
+    "india",
+    "crude_oil",
+    "day",
+    "full",
+    "groundhog",
+    "https",
+    "moved",
+    "pdf",
+    "top",
+    "www.poten.com/groundhog-day",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 237,
+  "source_path": "reports/poten/2017/poten_2017-01-01_groundhog_day.md",
+  "source_url": "https://www.poten.com/groundhog-day/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day__s01_poten_tanker_opinion_groundhog_day",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day__root",
+      "title": "Poten Tanker Opinion: Groundhog Day",
+      "section_path": [
+        "Poten Tanker Opinion: Groundhog Day"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Groundhog Day",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/groundhog-day/](https://www.poten.com/groundhog-day/)\n**Full PDF Report**: [Weekly-Opinion-January-5-2017-Groundhog-Day.pdf](http://www.poten.com/wp-content/uploads/2017/01/Weekly-Opinion-January-5-2017-Groundhog-Day.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-January-5-2017-Groundhog-Day.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/groundhog-day",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_groundhog_day__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Groundhog Day\n5 Jan 2017: There were only minor changes in the rankings of the top dirty spot charterers in 2016 as compared to 2015. Unipec, Shell and Vitol claimed the top positions as they did last year.",
+      "keywords": [
+        "china",
+        "india",
+        "crude_oil",
+        "moved",
+        "top",
+        "changes",
+        "charterers",
+        "claimed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

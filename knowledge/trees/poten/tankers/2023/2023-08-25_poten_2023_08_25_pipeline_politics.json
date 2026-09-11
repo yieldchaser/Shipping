@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics__root",
+  "doc_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Pipeline Politics",
+  "section_path": [
+    "Poten Tanker Opinion: Pipeline Politics"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Pipeline Politics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Pipeline Politics\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-08-25\n**Source URL**: [https://www.poten.com/tanker-opinions-pipeline-politics-august-25-2023/](https://www.poten.com/tanker-opinions-pipeline-politics-august-25-2023/)\n**Full PDF Report**: [Weekly Opinion - 25 August 2023 - Pipeline Politics.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20August%202023%20-%20Pipeline%20Politics.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 25 August 2023 - Pipeline Politics.pdf. Analysis & Overview\nPipeline Politics\nPipeline Politics",
+  "keywords": [
+    "pipeline",
+    "opinion",
+    "august",
+    "https",
+    "politics",
+    "full",
+    "pdf",
+    "politics.pdf",
+    "www.poten.com/tanker-opinions-pipeline-politics-august-25-2023",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 196,
+  "source_path": "reports/poten/2023/poten_2023-08-25_pipeline_politics.md",
+  "source_url": "https://www.poten.com/tanker-opinions-pipeline-politics-august-25-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics__s01_poten_tanker_opinion_pipeline_politics",
+      "doc_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics",
+      "parent_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics__root",
+      "title": "Poten Tanker Opinion: Pipeline Politics",
+      "section_path": [
+        "Poten Tanker Opinion: Pipeline Politics"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Pipeline Politics",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-08-25\n**Source URL**: [https://www.poten.com/tanker-opinions-pipeline-politics-august-25-2023/](https://www.poten.com/tanker-opinions-pipeline-politics-august-25-2023/)\n**Full PDF Report**: [Weekly Opinion - 25 August 2023 - Pipeline Politics.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20August%202023%20-%20Pipeline%20Politics.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 25 August 2023 - Pipeline Politics.pdf.",
+      "keywords": [
+        "august",
+        "https",
+        "opinion",
+        "pipeline",
+        "full",
+        "pdf",
+        "politics.pdf",
+        "www.poten.com/tanker-opinions-pipeline-politics-august-25-2023"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics",
+      "parent_id": "poten_tankers_2023-08-25_poten_2023_08_25_pipeline_politics__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "pipeline",
+        "politics"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

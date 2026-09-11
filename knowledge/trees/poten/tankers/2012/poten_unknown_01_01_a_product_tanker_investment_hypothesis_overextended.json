@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Product Tanker Investment Hypothesis, Overextended",
+  "section_path": [
+    "Poten Tanker Opinion: A Product Tanker Investment Hypothesis, Overextended"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Product Tanker Investment Hypothesis, Overextended",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Product Tanker Investment Hypothesis, Overextended\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-product-tanker-investment-hypothesis-overextended/](https://www.poten.com/a-product-tanker-investment-hypothesis-overextended/)\n**Full PDF Report**: [Tanker_Opinion_20121012.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121012.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121012.pdf. Analysis & Overview\nA Product Tanker Investment Hypothesis, Overextended\nA Product Tanker Investment Hypothesis, Overextended",
+  "keywords": [
+    "https",
+    "hypothesis",
+    "investment",
+    "overextended",
+    "product",
+    "full",
+    "pdf",
+    "www.poten.com/a-product-tanker-investment-hypothesis-overextended",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 177,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_a_product_tanker_investment_hypothesis_overextended.md",
+  "source_url": "https://www.poten.com/a-product-tanker-investment-hypothesis-overextended/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended__s01_poten_tanker_opinion_a_product_tanker_investment_hypothesis_overextended",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Poten Tanker Opinion: A Product Tanker Investment Hypothesis, Overextended",
+      "section_path": [
+        "Poten Tanker Opinion: A Product Tanker Investment Hypothesis, Overextended"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Product Tanker Investment Hypothesis, Overextended",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-product-tanker-investment-hypothesis-overextended/](https://www.poten.com/a-product-tanker-investment-hypothesis-overextended/)\n**Full PDF Report**: [Tanker_Opinion_20121012.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121012.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121012.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/a-product-tanker-investment-hypothesis-overextended",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_product_tanker_investment_hypothesis_overextended__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Product Tanker Investment Hypothesis, Overextended\nA Product Tanker Investment Hypothesis, Overextended",
+      "keywords": [
+        "hypothesis",
+        "investment",
+        "overextended",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Flat Rates Keep Climbing",
+  "section_path": [
+    "Poten Tanker Opinion: Flat Rates Keep Climbing"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Flat Rates Keep Climbing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Flat Rates Keep Climbing\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/flat-rates-keep-climbing/](https://www.poten.com/flat-rates-keep-climbing/)\n**Full PDF Report**: [Tanker_Opinion_20061222.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20061222.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20061222.pdf. Analysis & Overview\nFlat Rates Keep Climbing\nFlat Rates Keep Climbing",
+  "keywords": [
+    "climbing",
+    "flat",
+    "https",
+    "keep",
+    "full",
+    "pdf",
+    "www.poten.com/flat-rates-keep-climbing",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 155,
+  "source_path": "reports/poten/2006/poten_unknown-01-01_flat_rates_keep_climbing.md",
+  "source_url": "https://www.poten.com/flat-rates-keep-climbing/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing__s01_poten_tanker_opinion_flat_rates_keep_climbing",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing__root",
+      "title": "Poten Tanker Opinion: Flat Rates Keep Climbing",
+      "section_path": [
+        "Poten Tanker Opinion: Flat Rates Keep Climbing"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Flat Rates Keep Climbing",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/flat-rates-keep-climbing/](https://www.poten.com/flat-rates-keep-climbing/)\n**Full PDF Report**: [Tanker_Opinion_20061222.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20061222.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20061222.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/flat-rates-keep-climbing",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_flat_rates_keep_climbing__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Flat Rates Keep Climbing\nFlat Rates Keep Climbing",
+      "keywords": [
+        "climbing",
+        "flat",
+        "keep"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

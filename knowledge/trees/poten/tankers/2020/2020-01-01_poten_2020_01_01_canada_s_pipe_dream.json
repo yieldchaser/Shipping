@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Canada's Pipe Dream",
+  "section_path": [
+    "Poten Tanker Opinion: Canada's Pipe Dream"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Canada's Pipe Dream",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Canada's Pipe Dream\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-november-13-canadas-pipe-dream/](https://www.poten.com/tanker-opinion-november-13-canadas-pipe-dream/)\n**Full PDF Report**: [Weekly-Opinion-13-November-2020-Canadas-Pipe-Dream.pdf](http://www.poten.com/wp-content/uploads/2020/11/Weekly-Opinion-13-November-2020-Canadas-Pipe-Dream.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-13-November-2020-Canadas-Pipe-Dream.pdf. Analysis & Overview\nCanada's Pipe Dream\nCanada's Pipe Dream",
+  "keywords": [
+    "canada",
+    "dream",
+    "pipe",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/tanker-opinion-november-13-canadas-pipe-dream",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 193,
+  "source_path": "reports/poten/2020/poten_2020-01-01_canada_s_pipe_dream.md",
+  "source_url": "https://www.poten.com/tanker-opinion-november-13-canadas-pipe-dream/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream__s01_poten_tanker_opinion_canada_s_pipe_dream",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream__root",
+      "title": "Poten Tanker Opinion: Canada's Pipe Dream",
+      "section_path": [
+        "Poten Tanker Opinion: Canada's Pipe Dream"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Canada's Pipe Dream",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-november-13-canadas-pipe-dream/](https://www.poten.com/tanker-opinion-november-13-canadas-pipe-dream/)\n**Full PDF Report**: [Weekly-Opinion-13-November-2020-Canadas-Pipe-Dream.pdf](http://www.poten.com/wp-content/uploads/2020/11/Weekly-Opinion-13-November-2020-Canadas-Pipe-Dream.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-13-November-2020-Canadas-Pipe-Dream.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/tanker-opinion-november-13-canadas-pipe-dream",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_canada_s_pipe_dream__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Canada's Pipe Dream\nCanada's Pipe Dream",
+      "keywords": [
+        "canada",
+        "dream",
+        "pipe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

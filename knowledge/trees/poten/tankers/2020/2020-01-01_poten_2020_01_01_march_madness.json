@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: March Madness",
+  "section_path": [
+    "Poten Tanker Opinion: March Madness"
+  ],
+  "section_path_text": "Poten Tanker Opinion: March Madness",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: March Madness\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/march-madness/](https://www.poten.com/march-madness/)\n**Full PDF Report**: [Weekly-Opinion-13-March-2020-March-Madness.pdf](http://www.poten.com/wp-content/uploads/2020/03/Weekly-Opinion-13-March-2020-March-Madness.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-13-March-2020-March-Madness.pdf. Analysis & Overview\nMarch Madness\nMarch Madness",
+  "keywords": [
+    "madness",
+    "march",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/march-madness",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 161,
+  "source_path": "reports/poten/2020/poten_2020-01-01_march_madness.md",
+  "source_url": "https://www.poten.com/march-madness/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness__s01_poten_tanker_opinion_march_madness",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness__root",
+      "title": "Poten Tanker Opinion: March Madness",
+      "section_path": [
+        "Poten Tanker Opinion: March Madness"
+      ],
+      "section_path_text": "Poten Tanker Opinion: March Madness",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/march-madness/](https://www.poten.com/march-madness/)\n**Full PDF Report**: [Weekly-Opinion-13-March-2020-March-Madness.pdf](http://www.poten.com/wp-content/uploads/2020/03/Weekly-Opinion-13-March-2020-March-Madness.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-13-March-2020-March-Madness.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/march-madness",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_march_madness__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "madness",
+        "march"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

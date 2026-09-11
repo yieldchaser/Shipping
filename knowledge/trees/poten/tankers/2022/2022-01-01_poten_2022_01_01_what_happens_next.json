@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: What Happens Next",
+  "section_path": [
+    "Poten Tanker Opinion: What Happens Next"
+  ],
+  "section_path_text": "Poten Tanker Opinion: What Happens Next",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: What Happens Next\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-december-9-2022-what-happens-next/](https://www.poten.com/tanker-opinions-december-9-2022-what-happens-next/)\n**Full PDF Report**: [Weekly-Opinion-9-December-2022-What-Happens-Next.pdf](https://www.poten.com/wp-content/uploads/2022/12/Weekly-Opinion-9-December-2022-What-Happens-Next.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-9-December-2022-What-Happens-Next.pdf. Analysis & Overview\nWhat Happens Next\nWhat Happens Next",
+  "keywords": [
+    "happens",
+    "https",
+    "next",
+    "what",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-december-9-2022-what-happens-next",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 199,
+  "source_path": "reports/poten/2022/poten_2022-01-01_what_happens_next.md",
+  "source_url": "https://www.poten.com/tanker-opinions-december-9-2022-what-happens-next/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next__s01_poten_tanker_opinion_what_happens_next",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next__root",
+      "title": "Poten Tanker Opinion: What Happens Next",
+      "section_path": [
+        "Poten Tanker Opinion: What Happens Next"
+      ],
+      "section_path_text": "Poten Tanker Opinion: What Happens Next",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-december-9-2022-what-happens-next/](https://www.poten.com/tanker-opinions-december-9-2022-what-happens-next/)\n**Full PDF Report**: [Weekly-Opinion-9-December-2022-What-Happens-Next.pdf](https://www.poten.com/wp-content/uploads/2022/12/Weekly-Opinion-9-December-2022-What-Happens-Next.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-9-December-2022-What-Happens-Next.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinions-december-9-2022-what-happens-next",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_what_happens_next__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "What Happens Next\nWhat Happens Next",
+      "keywords": [
+        "happens",
+        "next",
+        "what"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

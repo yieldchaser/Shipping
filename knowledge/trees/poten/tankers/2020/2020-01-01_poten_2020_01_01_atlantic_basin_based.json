@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Atlantic Basin Based",
+  "section_path": [
+    "Poten Tanker Opinion: Atlantic Basin Based"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Atlantic Basin Based",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Atlantic Basin Based\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/atlantic-basin-based/](https://www.poten.com/atlantic-basin-based/)\n**Full PDF Report**: [Weekly-Opinion-7-Aug-2020-China-Is-More-Dominant-Than-Ever.pdf](http://www.poten.com/wp-content/uploads/2020/08/Weekly-Opinion-7-Aug-2020-China-Is-More-Dominant-Than-Ever.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-7-Aug-2020-China-Is-More-Dominant-Than-Ever.pdf. Analysis & Overview\nAtlantic Basin Based\nAtlantic Basin Based",
+  "keywords": [
+    "china",
+    "atlantic",
+    "based",
+    "basin",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/atlantic-basin-based",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 184,
+  "source_path": "reports/poten/2020/poten_2020-01-01_atlantic_basin_based.md",
+  "source_url": "https://www.poten.com/atlantic-basin-based/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based__s01_poten_tanker_opinion_atlantic_basin_based",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based__root",
+      "title": "Poten Tanker Opinion: Atlantic Basin Based",
+      "section_path": [
+        "Poten Tanker Opinion: Atlantic Basin Based"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Atlantic Basin Based",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/atlantic-basin-based/](https://www.poten.com/atlantic-basin-based/)\n**Full PDF Report**: [Weekly-Opinion-7-Aug-2020-China-Is-More-Dominant-Than-Ever.pdf](http://www.poten.com/wp-content/uploads/2020/08/Weekly-Opinion-7-Aug-2020-China-Is-More-Dominant-Than-Ever.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-7-Aug-2020-China-Is-More-Dominant-Than-Ever.pdf.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/atlantic-basin-based",
+        "archived",
+        "author"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_atlantic_basin_based__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Atlantic Basin Based\nAtlantic Basin Based",
+      "keywords": [
+        "atlantic",
+        "based",
+        "basin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Special Summer Sale",
+  "section_path": [
+    "Poten Tanker Opinion: Special Summer Sale"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Special Summer Sale",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Special Summer Sale\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/special-summer-sale/](https://www.poten.com/special-summer-sale/)\n**Full PDF Report**: [Weekly-Opinion-11-August-2017-Special-Summer-Sale.pdf](http://www.poten.com/wp-content/uploads/2017/08/Weekly-Opinion-11-August-2017-Special-Summer-Sale.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-11-August-2017-Special-Summer-Sale.pdf. Analysis & Overview\nSpecial Summer Sale\n11 Aug 2017:Â We are in the middle of the dog days of summer.Â As there is very little going on in the tanker markets, we thought it may make sense to reflect on the state of the newbuilding and S&amp;P market and see if there are any good deals to be had.Â Obviously, it is...",
+  "keywords": [
+    "are",
+    "full",
+    "https",
+    "pdf",
+    "sale",
+    "special",
+    "summer",
+    "www.poten.com/special-summer-sale",
+    "amp",
+    "analysis",
+    "any",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 242,
+  "source_path": "reports/poten/2017/poten_2017-01-01_special_summer_sale.md",
+  "source_url": "https://www.poten.com/special-summer-sale/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale__s01_poten_tanker_opinion_special_summer_sale",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale__root",
+      "title": "Poten Tanker Opinion: Special Summer Sale",
+      "section_path": [
+        "Poten Tanker Opinion: Special Summer Sale"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Special Summer Sale",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/special-summer-sale/](https://www.poten.com/special-summer-sale/)\n**Full PDF Report**: [Weekly-Opinion-11-August-2017-Special-Summer-Sale.pdf](http://www.poten.com/wp-content/uploads/2017/08/Weekly-Opinion-11-August-2017-Special-Summer-Sale.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-11-August-2017-Special-Summer-Sale.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/special-summer-sale",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_special_summer_sale__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Special Summer Sale\n11 Aug 2017:Â We are in the middle of the dog days of summer.Â As there is very little going on in the tanker markets, we thought it may make sense to reflect on the state of the newbuilding and S&amp;P market and see if there are any good deals to be had.Â Obviously, it is...",
+      "keywords": [
+        "are",
+        "amp",
+        "any",
+        "aug",
+        "days",
+        "deals",
+        "dog",
+        "going"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

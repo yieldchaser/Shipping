@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Suezmaxes Surface Calm - Hidden Undercurrents",
+  "section_path": [
+    "Poten Tanker Opinion: Suezmaxes Surface Calm - Hidden Undercurrents"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Suezmaxes Surface Calm - Hidden Undercurrents",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Suezmaxes Surface Calm - Hidden Undercurrents\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/suezmaxes-surface-calm-hidden-undercurrents/](https://www.poten.com/suezmaxes-surface-calm-hidden-undercurrents/)\n**Full PDF Report**: [Tanker_Opinion_20050304.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050304.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050304.pdf. Analysis & Overview\nSuezmaxes Surface Calm - Hidden Undercurrents\nSuezmaxes Surface Calm - Hidden Undercurrents",
+  "keywords": [
+    "suezmax",
+    "calm",
+    "hidden",
+    "https",
+    "suezmaxes",
+    "surface",
+    "undercurrents",
+    "full",
+    "pdf",
+    "www.poten.com/suezmaxes-surface-calm-hidden-undercurrents",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 182,
+  "source_path": "reports/poten/2005/poten_unknown-01-01_suezmaxes_surface_calm_hidden_undercurrents.md",
+  "source_url": "https://www.poten.com/suezmaxes-surface-calm-hidden-undercurrents/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents__s01_poten_tanker_opinion_suezmaxes_surface_calm_hidden_undercurrents",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "Poten Tanker Opinion: Suezmaxes Surface Calm - Hidden Undercurrents",
+      "section_path": [
+        "Poten Tanker Opinion: Suezmaxes Surface Calm - Hidden Undercurrents"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Suezmaxes Surface Calm - Hidden Undercurrents",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/suezmaxes-surface-calm-hidden-undercurrents/](https://www.poten.com/suezmaxes-surface-calm-hidden-undercurrents/)\n**Full PDF Report**: [Tanker_Opinion_20050304.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050304.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050304.pdf.",
+      "keywords": [
+        "suezmax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/suezmaxes-surface-calm-hidden-undercurrents",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_surface_calm_hidden_undercurrents__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Suezmaxes Surface Calm - Hidden Undercurrents\nSuezmaxes Surface Calm - Hidden Undercurrents",
+      "keywords": [
+        "suezmax",
+        "calm",
+        "hidden",
+        "suezmaxes",
+        "surface",
+        "undercurrents"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Slippery Orders",
+  "section_path": [
+    "Poten Tanker Opinion: Slippery Orders"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Slippery Orders",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Slippery Orders\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/slippery-orders/](https://www.poten.com/slippery-orders/)\n**Full PDF Report**: [Weekly-Opinion-15-July-2016-Slippery-Orders.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-15-July-2016-Slippery-Orders.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-15-July-2016-Slippery-Orders.pdf. Analysis & Overview\nSlippery Orders\n15 Jun 2016:Â The situation of the shipyards in the world and in particular the struggles of the Korean shipbuilding industry has received a fair amount of attention in the shipping press, as well as in more general news outlets. In the tanker market, which, until recently, was one of the few profitable shipping segments,...",
+  "keywords": [
+    "https",
+    "full",
+    "orders",
+    "pdf",
+    "slippery",
+    "www.poten.com/slippery-orders",
+    "amount",
+    "analysis",
+    "archived",
+    "attention",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 235,
+  "source_path": "reports/poten/2016/poten_2016-01-01_slippery_orders.md",
+  "source_url": "https://www.poten.com/slippery-orders/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders__s01_poten_tanker_opinion_slippery_orders",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders__root",
+      "title": "Poten Tanker Opinion: Slippery Orders",
+      "section_path": [
+        "Poten Tanker Opinion: Slippery Orders"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Slippery Orders",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/slippery-orders/](https://www.poten.com/slippery-orders/)\n**Full PDF Report**: [Weekly-Opinion-15-July-2016-Slippery-Orders.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-15-July-2016-Slippery-Orders.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-15-July-2016-Slippery-Orders.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/slippery-orders",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_slippery_orders__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Slippery Orders\n15 Jun 2016:Â The situation of the shipyards in the world and in particular the struggles of the Korean shipbuilding industry has received a fair amount of attention in the shipping press, as well as in more general news outlets. In the tanker market, which, until recently, was one of the few profitable shipping segments,...",
+      "keywords": [
+        "amount",
+        "attention",
+        "fair",
+        "few",
+        "general",
+        "jun",
+        "korean",
+        "news"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 77,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

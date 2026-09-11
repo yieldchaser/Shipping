@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Baby, Itâ€™s a Wild World",
+  "section_path": [
+    "Poten Tanker Opinion: Baby, Itâ€™s a Wild World"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Baby, Itâ€™s a Wild World",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Baby, Itâ€™s a Wild World\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/baby-its-a-wild-world-june-10-2011/](https://www.poten.com/baby-its-a-wild-world-june-10-2011/)\n**Full PDF Report**: [Tanker_Opinion_20110610.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110610.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110610.pdf. Analysis & Overview\nBaby, Itâ€™s a Wild World\nBaby, Itâ€™s a Wild World",
+  "keywords": [
+    "baby",
+    "https",
+    "wild",
+    "world",
+    "full",
+    "pdf",
+    "www.poten.com/baby-its-a-wild-world-june-10-2011",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 179,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_baby_it_s_a_wild_world.md",
+  "source_url": "https://www.poten.com/baby-its-a-wild-world-june-10-2011/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world__s01_poten_tanker_opinion_baby_it_s_a_wild_world",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world__root",
+      "title": "Poten Tanker Opinion: Baby, Itâ€™s a Wild World",
+      "section_path": [
+        "Poten Tanker Opinion: Baby, Itâ€™s a Wild World"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Baby, Itâ€™s a Wild World",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/baby-its-a-wild-world-june-10-2011/](https://www.poten.com/baby-its-a-wild-world-june-10-2011/)\n**Full PDF Report**: [Tanker_Opinion_20110610.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110610.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110610.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/baby-its-a-wild-world-june-10-2011",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_baby_it_s_a_wild_world__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Baby, Itâ€™s a Wild World\nBaby, Itâ€™s a Wild World",
+      "keywords": [
+        "baby",
+        "wild",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

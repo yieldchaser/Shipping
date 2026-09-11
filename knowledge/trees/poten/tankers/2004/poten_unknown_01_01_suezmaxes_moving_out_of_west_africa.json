@@ -1,0 +1,89 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Suezmaxes Moving Out of West Africa",
+  "section_path": [
+    "Poten Tanker Opinion: Suezmaxes Moving Out of West Africa"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Suezmaxes Moving Out of West Africa",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Suezmaxes Moving Out of West Africa\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/suezmaxes-moving-out-of-west-africa/](https://www.poten.com/suezmaxes-moving-out-of-west-africa/)\n**Full PDF Report**: [Tanker_Opinion_20041101.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20041101.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20041101.pdf. Analysis & Overview\nSuezmaxes Moving Out of West Africa\nSuezmaxes Moving Out of West Africa",
+  "keywords": [
+    "suezmax",
+    "west_africa",
+    "africa",
+    "https",
+    "moving",
+    "out",
+    "suezmaxes",
+    "west",
+    "full",
+    "pdf",
+    "www.poten.com/suezmaxes-moving-out-of-west-africa",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 169,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_suezmaxes_moving_out_of_west_africa.md",
+  "source_url": "https://www.poten.com/suezmaxes-moving-out-of-west-africa/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa__s01_poten_tanker_opinion_suezmaxes_moving_out_of_west_africa",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa__root",
+      "title": "Poten Tanker Opinion: Suezmaxes Moving Out of West Africa",
+      "section_path": [
+        "Poten Tanker Opinion: Suezmaxes Moving Out of West Africa"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Suezmaxes Moving Out of West Africa",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/suezmaxes-moving-out-of-west-africa/](https://www.poten.com/suezmaxes-moving-out-of-west-africa/)\n**Full PDF Report**: [Tanker_Opinion_20041101.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20041101.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20041101.pdf.",
+      "keywords": [
+        "suezmax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/suezmaxes-moving-out-of-west-africa",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_moving_out_of_west_africa__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Suezmaxes Moving Out of West Africa\nSuezmaxes Moving Out of West Africa",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "africa",
+        "moving",
+        "out",
+        "suezmaxes",
+        "west"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

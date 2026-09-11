@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Driven to Diesel",
+  "section_path": [
+    "Poten Tanker Opinion: Driven to Diesel"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Driven to Diesel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Driven to Diesel\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/driven-to-diesel/](https://www.poten.com/driven-to-diesel/)\n**Full PDF Report**: [Tanker_Opinion_20060929.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20060929.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20060929.pdf. Analysis & Overview\nDriven to Diesel\nDriven to Diesel",
+  "keywords": [
+    "products",
+    "diesel",
+    "driven",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/driven-to-diesel",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 142,
+  "source_path": "reports/poten/2006/poten_unknown-01-01_driven_to_diesel.md",
+  "source_url": "https://www.poten.com/driven-to-diesel/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel__s01_poten_tanker_opinion_driven_to_diesel",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel__root",
+      "title": "Poten Tanker Opinion: Driven to Diesel",
+      "section_path": [
+        "Poten Tanker Opinion: Driven to Diesel"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Driven to Diesel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/driven-to-diesel/](https://www.poten.com/driven-to-diesel/)\n**Full PDF Report**: [Tanker_Opinion_20060929.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20060929.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20060929.pdf.",
+      "keywords": [
+        "products",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/driven-to-diesel",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_driven_to_diesel__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Driven to Diesel\nDriven to Diesel",
+      "keywords": [
+        "products",
+        "diesel",
+        "driven"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

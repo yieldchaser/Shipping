@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A North Sea Renaissance",
+  "section_path": [
+    "Poten Tanker Opinion: A North Sea Renaissance"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A North Sea Renaissance",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A North Sea Renaissance\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/a-north-sea-renaissance/](https://www.poten.com/a-north-sea-renaissance/)\n**Full PDF Report**: [Weekly-Opinion-9-November-2018-A-North-Sea-Renaissance.pdf](http://www.poten.com/wp-content/uploads/2018/11/Weekly-Opinion-9-November-2018-A-North-Sea-Renaissance.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-9-November-2018-A-North-Sea-Renaissance.pdf. Analysis & Overview\nA North Sea Renaissance\n11 November 2018: On Thursday, an Aframax crude oil tanker and a Norwegian navy frigate collided off Norwayâ€™s west coast, just north of the Sture oil terminal.Â While the frigate, the â€œKNM Helge Ingstadâ€�, sustained significant damage, the oil tanker only reported minor damage, no injuries and no pollution.Â As a precaution, Equinor temporary closed...",
+  "keywords": [
+    "aframax",
+    "crude_oil",
+    "north",
+    "oil",
+    "damage",
+    "frigate",
+    "full",
+    "https",
+    "pdf",
+    "renaissance",
+    "sea",
+    "www.poten.com/a-north-sea-renaissance"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 272,
+  "source_path": "reports/poten/2018/poten_2018-01-01_a_north_sea_renaissance.md",
+  "source_url": "https://www.poten.com/a-north-sea-renaissance/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance__s01_poten_tanker_opinion_a_north_sea_renaissance",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance__root",
+      "title": "Poten Tanker Opinion: A North Sea Renaissance",
+      "section_path": [
+        "Poten Tanker Opinion: A North Sea Renaissance"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A North Sea Renaissance",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/a-north-sea-renaissance/](https://www.poten.com/a-north-sea-renaissance/)\n**Full PDF Report**: [Weekly-Opinion-9-November-2018-A-North-Sea-Renaissance.pdf](http://www.poten.com/wp-content/uploads/2018/11/Weekly-Opinion-9-November-2018-A-North-Sea-Renaissance.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-9-November-2018-A-North-Sea-Renaissance.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/a-north-sea-renaissance",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_north_sea_renaissance__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A North Sea Renaissance\n11 November 2018: On Thursday, an Aframax crude oil tanker and a Norwegian navy frigate collided off Norwayâ€™s west coast, just north of the Sture oil terminal.Â While the frigate, the â€œKNM Helge Ingstadâ€�, sustained significant damage, the oil tanker only reported minor damage, no injuries and no pollution.Â As a precaution, Equinor temporary closed...",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "oil",
+        "damage",
+        "frigate",
+        "north",
+        "closed...",
+        "coast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

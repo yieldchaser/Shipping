@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Houston, We Have A Problem",
+  "section_path": [
+    "Poten Tanker Opinion: Houston, We Have A Problem"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Houston, We Have A Problem",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Houston, We Have A Problem\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/houston-we-have-a-problem/](https://www.poten.com/houston-we-have-a-problem/)\n**Full PDF Report**: [Weekly-Opinion-01-September-2017-Houston-We-Have-A-Problem.pdf](http://www.poten.com/wp-content/uploads/2017/09/Weekly-Opinion-01-September-2017-Houston-We-Have-A-Problem.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-01-September-2017-Houston-We-Have-A-Problem.pdf. Analysis & Overview\nHouston, We Have A Problem\nHouston, We Have A Problem",
+  "keywords": [
+    "houston",
+    "problem",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/houston-we-have-a-problem",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 189,
+  "source_path": "reports/poten/2017/poten_2017-01-01_houston_we_have_a_problem.md",
+  "source_url": "https://www.poten.com/houston-we-have-a-problem/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem__s01_poten_tanker_opinion_houston_we_have_a_problem",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem__root",
+      "title": "Poten Tanker Opinion: Houston, We Have A Problem",
+      "section_path": [
+        "Poten Tanker Opinion: Houston, We Have A Problem"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Houston, We Have A Problem",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/houston-we-have-a-problem/](https://www.poten.com/houston-we-have-a-problem/)\n**Full PDF Report**: [Weekly-Opinion-01-September-2017-Houston-We-Have-A-Problem.pdf](http://www.poten.com/wp-content/uploads/2017/09/Weekly-Opinion-01-September-2017-Houston-We-Have-A-Problem.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-01-September-2017-Houston-We-Have-A-Problem.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/houston-we-have-a-problem",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_houston_we_have_a_problem__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Houston, We Have A Problem\nHouston, We Have A Problem",
+      "keywords": [
+        "houston",
+        "problem"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

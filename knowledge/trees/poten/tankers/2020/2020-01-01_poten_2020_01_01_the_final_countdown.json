@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Final Countdown",
+  "section_path": [
+    "Poten Tanker Opinion: The Final Countdown"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Final Countdown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Final Countdown\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/the-final-countdown/](https://www.poten.com/the-final-countdown/)\n**Full PDF Report**: [Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf](http://www.poten.com/wp-content/uploads/2020/01/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf. Analysis & Overview\nThe Final Countdown\n3 Jan 2020: Top Reported Dirty Spot Charterers for 2019* As we have reached the end of the decade, we are compiling the last list of top charterers of the 2010â€™s. While the total number of reported dirty spot fixtures in 2019 declined by almost 9% from 2018, Unipecâ€˜s volumes and...",
+  "keywords": [
+    "charterers",
+    "countdown",
+    "dirty",
+    "final",
+    "full",
+    "https",
+    "pdf",
+    "reported",
+    "top",
+    "unipec",
+    "www.poten.com/the-final-countdown",
+    "almost"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 252,
+  "source_path": "reports/poten/2020/poten_2020-01-01_the_final_countdown.md",
+  "source_url": "https://www.poten.com/the-final-countdown/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown__s01_poten_tanker_opinion_the_final_countdown",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown__root",
+      "title": "Poten Tanker Opinion: The Final Countdown",
+      "section_path": [
+        "Poten Tanker Opinion: The Final Countdown"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Final Countdown",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/the-final-countdown/](https://www.poten.com/the-final-countdown/)\n**Full PDF Report**: [Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf](http://www.poten.com/wp-content/uploads/2020/01/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-January-3-2020-The-Final-Countdown.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/the-final-countdown",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_final_countdown__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Final Countdown\n3 Jan 2020: Top Reported Dirty Spot Charterers for 2019* As we have reached the end of the decade, we are compiling the last list of top charterers of the 2010â€™s. While the total number of reported dirty spot fixtures in 2019 declined by almost 9% from 2018, Unipecâ€˜s volumes and...",
+      "keywords": [
+        "charterers",
+        "dirty",
+        "reported",
+        "top",
+        "unipec",
+        "almost",
+        "and...",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

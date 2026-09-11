@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap__root",
+  "doc_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Breaking The Price Cap",
+  "section_path": [
+    "Poten Tanker Opinion: Breaking The Price Cap"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Breaking The Price Cap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Breaking The Price Cap\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-07-28\n**Source URL**: [https://www.poten.com/tanker-opinions-breaking-the-price-cap-july-2023/](https://www.poten.com/tanker-opinions-breaking-the-price-cap-july-2023/)\n**Full PDF Report**: [Weekly Opinion - 28 July 2023 - Breaking The Price Cap.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2028%20July%202023%20-%20Breaking%20The%20Price%20Cap.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 28 July 2023 - Breaking The Price Cap.pdf. Analysis & Overview\nBreaking The Price Cap\nBreaking The Price Cap",
+  "keywords": [
+    "breaking",
+    "price",
+    "opinion",
+    "cap",
+    "https",
+    "july",
+    "cap.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-breaking-the-price-cap-july-2023",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 206,
+  "source_path": "reports/poten/2023/poten_2023-07-28_breaking_the_price_cap.md",
+  "source_url": "https://www.poten.com/tanker-opinions-breaking-the-price-cap-july-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap__s01_poten_tanker_opinion_breaking_the_price_cap",
+      "doc_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap",
+      "parent_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap__root",
+      "title": "Poten Tanker Opinion: Breaking The Price Cap",
+      "section_path": [
+        "Poten Tanker Opinion: Breaking The Price Cap"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Breaking The Price Cap",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-07-28\n**Source URL**: [https://www.poten.com/tanker-opinions-breaking-the-price-cap-july-2023/](https://www.poten.com/tanker-opinions-breaking-the-price-cap-july-2023/)\n**Full PDF Report**: [Weekly Opinion - 28 July 2023 - Breaking The Price Cap.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2028%20July%202023%20-%20Breaking%20The%20Price%20Cap.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 28 July 2023 - Breaking The Price Cap.pdf.",
+      "keywords": [
+        "breaking",
+        "https",
+        "july",
+        "opinion",
+        "price",
+        "cap.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap",
+      "parent_id": "poten_tankers_2023-07-28_poten_2023_07_28_breaking_the_price_cap__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Breaking The Price Cap\nBreaking The Price Cap",
+      "keywords": [
+        "breaking",
+        "cap",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

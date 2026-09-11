@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival__root",
+  "doc_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Nigeriaâ€™s Refining Revival",
+  "section_path": [
+    "Poten Tanker Opinion: Nigeriaâ€™s Refining Revival"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Nigeriaâ€™s Refining Revival",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Nigeriaâ€™s Refining Revival\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-08-04\n**Source URL**: [https://www.poten.com/tanker-opinion-nigerias-refining-revival-august-4-2023/](https://www.poten.com/tanker-opinion-nigerias-refining-revival-august-4-2023/)\n**Full PDF Report**: [Weekly Opinion - 4 August 2023 - Nigerias Refining Revival.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%204%20August%202023%20-%20Nigerias%20Refining%20Revival.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 4 August 2023 - Nigerias Refining Revival.pdf. Analysis & Overview\nNigeriaâ€™s Refining Revival\nNigeriaâ€™s Refining Revival",
+  "keywords": [
+    "refining",
+    "opinion",
+    "august",
+    "https",
+    "nigeria",
+    "nigerias",
+    "revival",
+    "full",
+    "pdf",
+    "revival.pdf",
+    "www.poten.com/tanker-opinion-nigerias-refining-revival-august-4-2023",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 238,
+  "source_path": "reports/poten/2023/poten_2023-08-04_nigeria_s_refining_revival.md",
+  "source_url": "https://www.poten.com/tanker-opinion-nigerias-refining-revival-august-4-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival__s01_poten_tanker_opinion_nigeria_s_refining_revival",
+      "doc_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival",
+      "parent_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival__root",
+      "title": "Poten Tanker Opinion: Nigeriaâ€™s Refining Revival",
+      "section_path": [
+        "Poten Tanker Opinion: Nigeriaâ€™s Refining Revival"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Nigeriaâ€™s Refining Revival",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-08-04\n**Source URL**: [https://www.poten.com/tanker-opinion-nigerias-refining-revival-august-4-2023/](https://www.poten.com/tanker-opinion-nigerias-refining-revival-august-4-2023/)\n**Full PDF Report**: [Weekly Opinion - 4 August 2023 - Nigerias Refining Revival.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%204%20August%202023%20-%20Nigerias%20Refining%20Revival.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 4 August 2023 - Nigerias Refining Revival.pdf.",
+      "keywords": [
+        "august",
+        "https",
+        "nigerias",
+        "opinion",
+        "refining",
+        "full",
+        "pdf",
+        "revival.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival",
+      "parent_id": "poten_tankers_2023-08-04_poten_2023_08_04_nigeria_s_refining_revival__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Nigeriaâ€™s Refining Revival\nNigeriaâ€™s Refining Revival",
+      "keywords": [
+        "nigeria",
+        "refining",
+        "revival"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

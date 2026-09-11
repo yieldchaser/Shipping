@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Where Does It All Go",
+  "section_path": [
+    "Poten Tanker Opinion: Where Does It All Go"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Where Does It All Go",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Where Does It All Go\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/where-does-it-all-go/](https://www.poten.com/where-does-it-all-go/)\n**Full PDF Report**: [Weekly-Opinion-28-February-2020-Where-Does-It-All-Go.pdf](http://www.poten.com/wp-content/uploads/2020/02/Weekly-Opinion-28-February-2020-Where-Does-It-All-Go.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-28-February-2020-Where-Does-It-All-Go.pdf. Analysis & Overview\nWhere Does It All Go\n28 February 2020: Where does the oil go if demand suddenly disappears? In a short period of time, oil demand growth, initially in China, but increasingly also in other parts of the world, has started to falter.Â The spreading of the coronavirus has significantly reduced global demand for transportation fuels, particularly in China, where the...",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "demand",
+    "does",
+    "all",
+    "full",
+    "https",
+    "oil",
+    "pdf",
+    "www.poten.com/where-does-it-all-go",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 258,
+  "source_path": "reports/poten/2020/poten_2020-01-01_where_does_it_all_go.md",
+  "source_url": "https://www.poten.com/where-does-it-all-go/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go__s01_poten_tanker_opinion_where_does_it_all_go",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go__root",
+      "title": "Poten Tanker Opinion: Where Does It All Go",
+      "section_path": [
+        "Poten Tanker Opinion: Where Does It All Go"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Where Does It All Go",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/where-does-it-all-go/](https://www.poten.com/where-does-it-all-go/)\n**Full PDF Report**: [Weekly-Opinion-28-February-2020-Where-Does-It-All-Go.pdf](http://www.poten.com/wp-content/uploads/2020/02/Weekly-Opinion-28-February-2020-Where-Does-It-All-Go.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-28-February-2020-Where-Does-It-All-Go.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/where-does-it-all-go",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_where_does_it_all_go__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Where Does It All Go\n28 February 2020: Where does the oil go if demand suddenly disappears? In a short period of time, oil demand growth, initially in China, but increasingly also in other parts of the world, has started to falter.Â The spreading of the coronavirus has significantly reduced global demand for transportation fuels, particularly in China, where the...",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "demand",
+        "does",
+        "oil",
+        "all",
+        "but",
+        "coronavirus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

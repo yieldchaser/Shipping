@@ -1,0 +1,83 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: M-I-S-S-I-S-S-I-P-P-I",
+  "section_path": [
+    "Poten Tanker Opinion: M-I-S-S-I-S-S-I-P-P-I"
+  ],
+  "section_path_text": "Poten Tanker Opinion: M-I-S-S-I-S-S-I-P-P-I",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: M-I-S-S-I-S-S-I-P-P-I\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/m-i-s-s-i-s-s-i-p-p-i/](https://www.poten.com/m-i-s-s-i-s-s-i-p-p-i/)\n**Full PDF Report**: [Tanker_Opinion_20110513.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110513.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110513.pdf.",
+  "keywords": [
+    "https",
+    "m-i-s-s-i-s-s-i-p-p-i",
+    "full",
+    "pdf",
+    "www.poten.com/m-i-s-s-i-s-s-i-p-p-i",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date",
+    "erik"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 177,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_m-i-s-s-i-s-s-i-p-p-i.md",
+  "source_url": "https://www.poten.com/m-i-s-s-i-s-s-i-p-p-i/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i__s01_poten_tanker_opinion_m_i_s_s_i_s_s_i_p_p_i",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i__root",
+      "title": "Poten Tanker Opinion: M-I-S-S-I-S-S-I-P-P-I",
+      "section_path": [
+        "Poten Tanker Opinion: M-I-S-S-I-S-S-I-P-P-I"
+      ],
+      "section_path_text": "Poten Tanker Opinion: M-I-S-S-I-S-S-I-P-P-I",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/m-i-s-s-i-s-s-i-p-p-i/](https://www.poten.com/m-i-s-s-i-s-s-i-p-p-i/)\n**Full PDF Report**: [Tanker_Opinion_20110513.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110513.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110513.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/m-i-s-s-i-s-s-i-p-p-i",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_m_i_s_s_i_s_s_i_p_p_i__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "m-i-s-s-i-s-s-i-p-p-i"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

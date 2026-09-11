@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina__root",
+  "doc_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Donâ€™t Frack For Me Argentina",
+  "section_path": [
+    "Poten Tanker Opinion: Donâ€™t Frack For Me Argentina"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Donâ€™t Frack For Me Argentina",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Donâ€™t Frack For Me Argentina\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-07-25\n**Source URL**: [https://www.poten.com/dont-frack-for-me-argentina/](https://www.poten.com/dont-frack-for-me-argentina/)\n**Full PDF Report**: [Weekly Opinion - 25 July 2025 - Dont Frack For Me Argentina.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20July%202025%20-%20Dont%20Frack%20For%20Me%20Argentina.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 25 July 2025 - Dont Frack For Me Argentina.pdf. Analysis & Overview\nDonâ€™t Frack For Me Argentina\nDonâ€™t Frack For Me Argentina",
+  "keywords": [
+    "frack",
+    "opinion",
+    "argentina",
+    "don",
+    "dont",
+    "https",
+    "july",
+    "argentina.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/dont-frack-for-me-argentina",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 222,
+  "source_path": "reports/poten/2025/poten_2025-07-25_don_t_frack_for_me_argentina.md",
+  "source_url": "https://www.poten.com/dont-frack-for-me-argentina/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina__s01_poten_tanker_opinion_don_t_frack_for_me_argentina",
+      "doc_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina",
+      "parent_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina__root",
+      "title": "Poten Tanker Opinion: Donâ€™t Frack For Me Argentina",
+      "section_path": [
+        "Poten Tanker Opinion: Donâ€™t Frack For Me Argentina"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Donâ€™t Frack For Me Argentina",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-07-25\n**Source URL**: [https://www.poten.com/dont-frack-for-me-argentina/](https://www.poten.com/dont-frack-for-me-argentina/)\n**Full PDF Report**: [Weekly Opinion - 25 July 2025 - Dont Frack For Me Argentina.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20July%202025%20-%20Dont%20Frack%20For%20Me%20Argentina.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 25 July 2025 - Dont Frack For Me Argentina.pdf.",
+      "keywords": [
+        "dont",
+        "frack",
+        "https",
+        "july",
+        "opinion",
+        "argentina.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina",
+      "parent_id": "poten_tankers_2025-07-25_poten_2025_07_25_don_t_frack_for_me_argentina__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Donâ€™t Frack For Me Argentina\nDonâ€™t Frack For Me Argentina",
+      "keywords": [
+        "argentina",
+        "don",
+        "frack"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

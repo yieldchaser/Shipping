@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Uh-Oh Canada …",
+  "section_path": [
+    "Poten Tanker Opinion: Uh-Oh Canada …"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Uh-Oh Canada …",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Uh-Oh Canada …\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/uh-oh-canada/](https://www.poten.com/uh-oh-canada/)\n**Full PDF Report**: [Weekly-Opinion-June-12-2015-Uh-Oh-Canada.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/06/Weekly-Opinion-June-12-2015-Uh-Oh-Canada.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-June-12-2015-Uh-Oh-Canada.pdf. Analysis & Overview\nUh-Oh Canada …\n12 Jun 2015: Price drop may slow down oil production growth. Â On Tuesday, June 9, the Canadian Association of Petroleum Producers (CAPP) released their latest annual forecast titled â€œCrude Oil â€\" Forecast, Markets &amp; Transportationâ€�.",
+  "keywords": [
+    "crude_oil",
+    "oil",
+    "https",
+    "canada",
+    "forecast",
+    "full",
+    "pdf",
+    "uh-oh",
+    "www.poten.com/uh-oh-canada",
+    "amp",
+    "analysis",
+    "annual"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 259,
+  "source_path": "reports/poten/2015/poten_2015-01-01_uh-oh_canada.md",
+  "source_url": "https://www.poten.com/uh-oh-canada/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada__s01_poten_tanker_opinion_uh_oh_canada",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada__root",
+      "title": "Poten Tanker Opinion: Uh-Oh Canada …",
+      "section_path": [
+        "Poten Tanker Opinion: Uh-Oh Canada …"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Uh-Oh Canada …",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/uh-oh-canada/](https://www.poten.com/uh-oh-canada/)\n**Full PDF Report**: [Weekly-Opinion-June-12-2015-Uh-Oh-Canada.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/06/Weekly-Opinion-June-12-2015-Uh-Oh-Canada.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-June-12-2015-Uh-Oh-Canada.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/uh-oh-canada",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_uh_oh_canada__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Uh-Oh Canada …\n12 Jun 2015: Price drop may slow down oil production growth. Â On Tuesday, June 9, the Canadian Association of Petroleum Producers (CAPP) released their latest annual forecast titled â€œCrude Oil â€\" Forecast, Markets &amp; Transportationâ€�.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "forecast",
+        "amp",
+        "annual",
+        "association",
+        "canada",
+        "canadian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

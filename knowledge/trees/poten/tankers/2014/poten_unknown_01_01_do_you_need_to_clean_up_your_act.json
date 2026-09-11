@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Do You Need to Clean Up Your Act",
+  "section_path": [
+    "Poten Tanker Opinion: Do You Need to Clean Up Your Act"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Do You Need to Clean Up Your Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Do You Need to Clean Up Your Act\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/do-you-need-to-clean-up-your-act/](https://www.poten.com/do-you-need-to-clean-up-your-act/)\n**Full PDF Report**: [Tanker_Opinion_20140314.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140314.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140314.pdf. Analysis & Overview\nDo You Need to Clean Up Your Act\nDo You Need to Clean Up Your Act",
+  "keywords": [
+    "act",
+    "clean",
+    "https",
+    "need",
+    "you",
+    "your",
+    "full",
+    "pdf",
+    "www.poten.com/do-you-need-to-clean-up-your-act",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 166,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_do_you_need_to_clean_up_your_act.md",
+  "source_url": "https://www.poten.com/do-you-need-to-clean-up-your-act/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act__s01_poten_tanker_opinion_do_you_need_to_clean_up_your_act",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act__root",
+      "title": "Poten Tanker Opinion: Do You Need to Clean Up Your Act",
+      "section_path": [
+        "Poten Tanker Opinion: Do You Need to Clean Up Your Act"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Do You Need to Clean Up Your Act",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/do-you-need-to-clean-up-your-act/](https://www.poten.com/do-you-need-to-clean-up-your-act/)\n**Full PDF Report**: [Tanker_Opinion_20140314.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140314.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140314.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/do-you-need-to-clean-up-your-act",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_do_you_need_to_clean_up_your_act__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Do You Need to Clean Up Your Act\nDo You Need to Clean Up Your Act",
+      "keywords": [
+        "act",
+        "clean",
+        "need",
+        "you",
+        "your"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

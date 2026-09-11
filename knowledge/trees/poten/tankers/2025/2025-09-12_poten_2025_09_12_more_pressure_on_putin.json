@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin__root",
+  "doc_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: More Pressure On Putin",
+  "section_path": [
+    "Poten Tanker Opinion: More Pressure On Putin"
+  ],
+  "section_path_text": "Poten Tanker Opinion: More Pressure On Putin",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: More Pressure On Putin\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-09-12\n**Source URL**: [https://www.poten.com/more-pressure-on-putin/](https://www.poten.com/more-pressure-on-putin/)\n**Full PDF Report**: [Weekly Opinion - 12 Sep 2025 - More Pressure On Putin.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20Sep%202025%20-%20More%20Pressure%20On%20Putin.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 12 Sep 2025 - More Pressure On Putin.pdf.",
+  "keywords": [
+    "pressure",
+    "opinion",
+    "https",
+    "sep",
+    "full",
+    "pdf",
+    "putin",
+    "putin.pdf",
+    "www.poten.com/more-pressure-on-putin",
+    "archived",
+    "authentic",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 188,
+  "source_path": "reports/poten/2025/poten_2025-09-12_more_pressure_on_putin.md",
+  "source_url": "https://www.poten.com/more-pressure-on-putin/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin__s01_poten_tanker_opinion_more_pressure_on_putin",
+      "doc_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin",
+      "parent_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin__root",
+      "title": "Poten Tanker Opinion: More Pressure On Putin",
+      "section_path": [
+        "Poten Tanker Opinion: More Pressure On Putin"
+      ],
+      "section_path_text": "Poten Tanker Opinion: More Pressure On Putin",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-09-12\n**Source URL**: [https://www.poten.com/more-pressure-on-putin/](https://www.poten.com/more-pressure-on-putin/)\n**Full PDF Report**: [Weekly Opinion - 12 Sep 2025 - More Pressure On Putin.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20Sep%202025%20-%20More%20Pressure%20On%20Putin.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 12 Sep 2025 - More Pressure On Putin.pdf.",
+      "keywords": [
+        "https",
+        "opinion",
+        "pressure",
+        "sep",
+        "full",
+        "pdf",
+        "putin.pdf",
+        "www.poten.com/more-pressure-on-putin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin__s02_overview",
+      "doc_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin",
+      "parent_id": "poten_tankers_2025-09-12_poten_2025_09_12_more_pressure_on_putin__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "pressure",
+        "putin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

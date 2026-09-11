@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Something to be Thankful For",
+  "section_path": [
+    "Poten Tanker Opinion: Something to be Thankful For"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Something to be Thankful For",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Something to be Thankful For\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/something-to-be-thankful-for/](https://www.poten.com/something-to-be-thankful-for/)\n**Full PDF Report**: [Tanker_Opinion_20051123.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20051123.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20051123.pdf. Analysis & Overview\nSomething to be Thankful For\nSomething to be Thankful For",
+  "keywords": [
+    "https",
+    "something",
+    "thankful",
+    "full",
+    "pdf",
+    "www.poten.com/something-to-be-thankful-for",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 156,
+  "source_path": "reports/poten/2005/poten_unknown-01-01_something_to_be_thankful_for.md",
+  "source_url": "https://www.poten.com/something-to-be-thankful-for/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for__s01_poten_tanker_opinion_something_to_be_thankful_for",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for__root",
+      "title": "Poten Tanker Opinion: Something to be Thankful For",
+      "section_path": [
+        "Poten Tanker Opinion: Something to be Thankful For"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Something to be Thankful For",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/something-to-be-thankful-for/](https://www.poten.com/something-to-be-thankful-for/)\n**Full PDF Report**: [Tanker_Opinion_20051123.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20051123.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20051123.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/something-to-be-thankful-for",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_something_to_be_thankful_for__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Something to be Thankful For\nSomething to be Thankful For",
+      "keywords": [
+        "something",
+        "thankful"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

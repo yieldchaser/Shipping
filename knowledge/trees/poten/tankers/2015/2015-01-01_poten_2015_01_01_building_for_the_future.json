@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Building for the Future",
+  "section_path": [
+    "Poten Tanker Opinion: Building for the Future"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Building for the Future",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Building for the Future\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/building-for-the-future/](https://www.poten.com/building-for-the-future/)\n**Full PDF Report**: [Weekly-Opinion-July-31-2015-Building-for-the-Future.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-31-2015-Building-for-the-Future.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-31-2015-Building-for-the-Future.pdf. Analysis & Overview\nBuilding for the Future\n31 Jul 2015: Should tanker owners take advantage of low yard prices? Â The tanker market has been doing very well so far this year, both for crude carriers and product tankers.Â Not surprisingly, contracting has picked up from previous years for most tanker segments.Â Owners are eager to take advantage of the strength in the...",
+  "keywords": [
+    "https",
+    "advantage",
+    "building",
+    "full",
+    "future",
+    "owners",
+    "pdf",
+    "take",
+    "www.poten.com/building-for-the-future",
+    "analysis",
+    "archived",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 249,
+  "source_path": "reports/poten/2015/poten_2015-01-01_building_for_the_future.md",
+  "source_url": "https://www.poten.com/building-for-the-future/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future__s01_poten_tanker_opinion_building_for_the_future",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future__root",
+      "title": "Poten Tanker Opinion: Building for the Future",
+      "section_path": [
+        "Poten Tanker Opinion: Building for the Future"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Building for the Future",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/building-for-the-future/](https://www.poten.com/building-for-the-future/)\n**Full PDF Report**: [Weekly-Opinion-July-31-2015-Building-for-the-Future.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-31-2015-Building-for-the-Future.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-31-2015-Building-for-the-Future.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/building-for-the-future",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_building_for_the_future__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Building for the Future\n31 Jul 2015: Should tanker owners take advantage of low yard prices? Â The tanker market has been doing very well so far this year, both for crude carriers and product tankers.Â Not surprisingly, contracting has picked up from previous years for most tanker segments.Â Owners are eager to take advantage of the strength in the...",
+      "keywords": [
+        "advantage",
+        "owners",
+        "take",
+        "are",
+        "both",
+        "building",
+        "carriers",
+        "contracting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

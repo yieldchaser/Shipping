@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Slow Boat to China",
+  "section_path": [
+    "Poten Tanker Opinion: Slow Boat to China"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Slow Boat to China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Slow Boat to China\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/slow-boat-to-china/](https://www.poten.com/slow-boat-to-china/)\n**Full PDF Report**: [Weekly-Opinion-04-September-2020-Slow-Boat-To-China.pdf](http://www.poten.com/wp-content/uploads/2020/09/Weekly-Opinion-04-September-2020-Slow-Boat-To-China.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-04-September-2020-Slow-Boat-To-China.pdf. Analysis & Overview\nSlow Boat to China\nSlow Boat to China",
+  "keywords": [
+    "china",
+    "boat",
+    "slow",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/slow-boat-to-china",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 177,
+  "source_path": "reports/poten/2020/poten_2020-01-01_slow_boat_to_china.md",
+  "source_url": "https://www.poten.com/slow-boat-to-china/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china__s01_poten_tanker_opinion_slow_boat_to_china",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china__root",
+      "title": "Poten Tanker Opinion: Slow Boat to China",
+      "section_path": [
+        "Poten Tanker Opinion: Slow Boat to China"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Slow Boat to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/slow-boat-to-china/](https://www.poten.com/slow-boat-to-china/)\n**Full PDF Report**: [Weekly-Opinion-04-September-2020-Slow-Boat-To-China.pdf](http://www.poten.com/wp-content/uploads/2020/09/Weekly-Opinion-04-September-2020-Slow-Boat-To-China.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-04-September-2020-Slow-Boat-To-China.pdf.",
+      "keywords": [
+        "china",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/slow-boat-to-china",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_slow_boat_to_china__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Slow Boat to China\nSlow Boat to China",
+      "keywords": [
+        "china",
+        "boat",
+        "slow"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

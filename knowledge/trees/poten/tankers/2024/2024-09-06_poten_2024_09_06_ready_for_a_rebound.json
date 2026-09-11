@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound__root",
+  "doc_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Ready For A Rebound",
+  "section_path": [
+    "Poten Tanker Opinion: Ready For A Rebound"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Ready For A Rebound",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Ready For A Rebound\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-09-06\n**Source URL**: [https://www.poten.com/ready-for-a-rebound/](https://www.poten.com/ready-for-a-rebound/)\n**Full PDF Report**: [Weekly Opinion - 6 Sep 2024 - Ready For A Rebound.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%206%20Sep%202024%20-%20Ready%20For%20A%20Rebound.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 6 Sep 2024 - Ready For A Rebound.pdf. Analysis & Overview\nReady For A Rebound\nReady For A Rebound",
+  "keywords": [
+    "ready",
+    "opinion",
+    "https",
+    "rebound",
+    "sep",
+    "full",
+    "pdf",
+    "rebound.pdf",
+    "www.poten.com/ready-for-a-rebound",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 197,
+  "source_path": "reports/poten/2024/poten_2024-09-06_ready_for_a_rebound.md",
+  "source_url": "https://www.poten.com/ready-for-a-rebound/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound__s01_poten_tanker_opinion_ready_for_a_rebound",
+      "doc_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound",
+      "parent_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound__root",
+      "title": "Poten Tanker Opinion: Ready For A Rebound",
+      "section_path": [
+        "Poten Tanker Opinion: Ready For A Rebound"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Ready For A Rebound",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-09-06\n**Source URL**: [https://www.poten.com/ready-for-a-rebound/](https://www.poten.com/ready-for-a-rebound/)\n**Full PDF Report**: [Weekly Opinion - 6 Sep 2024 - Ready For A Rebound.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%206%20Sep%202024%20-%20Ready%20For%20A%20Rebound.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 6 Sep 2024 - Ready For A Rebound.pdf.",
+      "keywords": [
+        "https",
+        "opinion",
+        "ready",
+        "sep",
+        "full",
+        "pdf",
+        "rebound.pdf",
+        "www.poten.com/ready-for-a-rebound"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound",
+      "parent_id": "poten_tankers_2024-09-06_poten_2024_09_06_ready_for_a_rebound__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ready For A Rebound\nReady For A Rebound",
+      "keywords": [
+        "ready",
+        "rebound"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

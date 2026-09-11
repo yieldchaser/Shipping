@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Change Is In The Air",
+  "section_path": [
+    "Poten Tanker Opinion: Change Is In The Air"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Change Is In The Air",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Change Is In The Air\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/change-is-in-the-air/](https://www.poten.com/change-is-in-the-air/)\n**Full PDF Report**: [Weekly-Opinion-11-November-2016-Retirement-Planning.pdf](http://www.poten.com/wp-content/uploads/2016/11/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf. Analysis & Overview\nChange Is In The Air\n4 Nov 2016: Last week, the International Maritime Organization (IMO) decided on the timing of the sulphur emissions cap for marine bunker fuel. The organization had already decided to reduce global permissible sulphur oxide emissions by 2020 (requiring a reduction of the sulphur content of marine fuel from 3.5% to 0.5% or other emission reducing...",
+  "keywords": [
+    "sulphur",
+    "air",
+    "change",
+    "decided",
+    "emissions",
+    "full",
+    "https",
+    "marine",
+    "organization",
+    "pdf",
+    "www.poten.com/change-is-in-the-air",
+    "already"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 247,
+  "source_path": "reports/poten/2016/poten_2016-01-01_change_is_in_the_air.md",
+  "source_url": "https://www.poten.com/change-is-in-the-air/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air__s01_poten_tanker_opinion_change_is_in_the_air",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air__root",
+      "title": "Poten Tanker Opinion: Change Is In The Air",
+      "section_path": [
+        "Poten Tanker Opinion: Change Is In The Air"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Change Is In The Air",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/change-is-in-the-air/](https://www.poten.com/change-is-in-the-air/)\n**Full PDF Report**: [Weekly-Opinion-11-November-2016-Retirement-Planning.pdf](http://www.poten.com/wp-content/uploads/2016/11/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/change-is-in-the-air",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_change_is_in_the_air__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Change Is In The Air\n4 Nov 2016: Last week, the International Maritime Organization (IMO) decided on the timing of the sulphur emissions cap for marine bunker fuel. The organization had already decided to reduce global permissible sulphur oxide emissions by 2020 (requiring a reduction of the sulphur content of marine fuel from 3.5% to 0.5% or other emission reducing...",
+      "keywords": [
+        "sulphur",
+        "decided",
+        "emissions",
+        "marine",
+        "organization",
+        "air",
+        "already",
+        "bunker"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

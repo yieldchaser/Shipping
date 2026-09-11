@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Breakup as Backup",
+  "section_path": [
+    "Poten Tanker Opinion: Breakup as Backup"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Breakup as Backup",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Breakup as Backup\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/breakup-as-backup/](https://www.poten.com/breakup-as-backup/)\n**Full PDF Report**: [Weekly-Opinion-January-15-2016-Breakup-as-Backup.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/01/Weekly-Opinion-January-15-2016-Breakup-as-Backup.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-January-15-2016-Breakup-as-Backup.pdf. Analysis & Overview\nBreakup as Backup\n15 Jan 2016:Â What is the scrapping potential of the crude fleet? Tanker owners are currently doing fairly well, certainly compared to their colleagues in the dry bulk market.Â However, history shows that such markets do not last forever and when the downturn comes, it is important that the supply side can respond quickly.Â The tanker...",
+  "keywords": [
+    "https",
+    "backup",
+    "breakup",
+    "full",
+    "pdf",
+    "www.poten.com/breakup-as-backup",
+    "analysis",
+    "archived",
+    "are",
+    "author",
+    "broekhuizen",
+    "can"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 249,
+  "source_path": "reports/poten/2016/poten_2016-01-01_breakup_as_backup.md",
+  "source_url": "https://www.poten.com/breakup-as-backup/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup__s01_poten_tanker_opinion_breakup_as_backup",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup__root",
+      "title": "Poten Tanker Opinion: Breakup as Backup",
+      "section_path": [
+        "Poten Tanker Opinion: Breakup as Backup"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Breakup as Backup",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/breakup-as-backup/](https://www.poten.com/breakup-as-backup/)\n**Full PDF Report**: [Weekly-Opinion-January-15-2016-Breakup-as-Backup.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/01/Weekly-Opinion-January-15-2016-Breakup-as-Backup.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-January-15-2016-Breakup-as-Backup.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/breakup-as-backup",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_breakup_as_backup__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Breakup as Backup\n15 Jan 2016:Â What is the scrapping potential of the crude fleet? Tanker owners are currently doing fairly well, certainly compared to their colleagues in the dry bulk market.Â However, history shows that such markets do not last forever and when the downturn comes, it is important that the supply side can respond quickly.Â The tanker...",
+      "keywords": [
+        "are",
+        "backup",
+        "breakup",
+        "can",
+        "certainly",
+        "colleagues",
+        "comes",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

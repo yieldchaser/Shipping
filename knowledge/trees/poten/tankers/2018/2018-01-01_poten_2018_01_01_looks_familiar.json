@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Looks Familiar",
+  "section_path": [
+    "Poten Tanker Opinion: Looks Familiar"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Looks Familiar",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Looks Familiar\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/looks-familiar/](https://www.poten.com/looks-familiar/)\n**Full PDF Report**: [Weekly-Opinion-16-Mar-2018-Looks-Familiar.pdf](http://www.poten.com/wp-content/uploads/2018/03/Weekly-Opinion-16-Mar-2018-Looks-Familiar.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-16-Mar-2018-Looks-Familiar.pdf. Analysis & Overview\nLooks Familiar\nLooks Familiar",
+  "keywords": [
+    "familiar",
+    "looks",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/looks-familiar",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 156,
+  "source_path": "reports/poten/2018/poten_2018-01-01_looks_familiar.md",
+  "source_url": "https://www.poten.com/looks-familiar/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar__s01_poten_tanker_opinion_looks_familiar",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar__root",
+      "title": "Poten Tanker Opinion: Looks Familiar",
+      "section_path": [
+        "Poten Tanker Opinion: Looks Familiar"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Looks Familiar",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/looks-familiar/](https://www.poten.com/looks-familiar/)\n**Full PDF Report**: [Weekly-Opinion-16-Mar-2018-Looks-Familiar.pdf](http://www.poten.com/wp-content/uploads/2018/03/Weekly-Opinion-16-Mar-2018-Looks-Familiar.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-16-Mar-2018-Looks-Familiar.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/looks-familiar",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_looks_familiar__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "familiar",
+        "looks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

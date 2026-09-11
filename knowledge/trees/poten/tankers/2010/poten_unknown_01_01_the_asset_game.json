@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Asset Game",
+  "section_path": [
+    "Poten Tanker Opinion: The Asset Game"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Asset Game",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Asset Game\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-asset-game/](https://www.poten.com/the-asset-game/)\n**Full PDF Report**: [Tanker_Opinion_20100730.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20100730.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20100730.pdf. Analysis & Overview\nThe Asset Game\nThe Asset Game",
+  "keywords": [
+    "asset",
+    "game",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/the-asset-game",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 139,
+  "source_path": "reports/poten/2010/poten_unknown-01-01_the_asset_game.md",
+  "source_url": "https://www.poten.com/the-asset-game/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game__s01_poten_tanker_opinion_the_asset_game",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game__root",
+      "title": "Poten Tanker Opinion: The Asset Game",
+      "section_path": [
+        "Poten Tanker Opinion: The Asset Game"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Asset Game",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-asset-game/](https://www.poten.com/the-asset-game/)\n**Full PDF Report**: [Tanker_Opinion_20100730.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20100730.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20100730.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/the-asset-game",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_asset_game__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Asset Game\nThe Asset Game",
+      "keywords": [
+        "asset",
+        "game"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

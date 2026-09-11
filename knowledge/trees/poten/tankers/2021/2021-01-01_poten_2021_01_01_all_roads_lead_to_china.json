@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: All Roads Lead To China",
+  "section_path": [
+    "Poten Tanker Opinion: All Roads Lead To China"
+  ],
+  "section_path_text": "Poten Tanker Opinion: All Roads Lead To China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: All Roads Lead To China\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/all-roads-lead-to-china/](https://www.poten.com/all-roads-lead-to-china/)\n**Full PDF Report**: [Weekly-Opinion-17-Sept-2021-All-Roads-Lead-To-China.pdf](https://www.poten.com/wp-content/uploads/2021/09/Weekly-Opinion-17-Sept-2021-All-Roads-Lead-To-China.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-17-Sept-2021-All-Roads-Lead-To-China.pdf. Analysis & Overview\nAll Roads Lead To China\n17 Sep 2021:Tanker owners can no longer take Chinese growth for granted Over the last two decades, Chinaâ€™s oil demand growth has propelled the tanker market upwards and onwards. Chinaâ€™s rapid economic development was largely responsible for the 2004-2008 â€œSuper Cycleâ€� in the shipping markets (not only in tankers, but in dry cargo and containers...",
+  "keywords": [
+    "container",
+    "china",
+    "crude_oil",
+    "https",
+    "all",
+    "full",
+    "growth",
+    "lead",
+    "pdf",
+    "roads",
+    "www.poten.com/all-roads-lead-to-china",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 270,
+  "source_path": "reports/poten/2021/poten_2021-01-01_all_roads_lead_to_china.md",
+  "source_url": "https://www.poten.com/all-roads-lead-to-china/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china__s01_poten_tanker_opinion_all_roads_lead_to_china",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china__root",
+      "title": "Poten Tanker Opinion: All Roads Lead To China",
+      "section_path": [
+        "Poten Tanker Opinion: All Roads Lead To China"
+      ],
+      "section_path_text": "Poten Tanker Opinion: All Roads Lead To China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/all-roads-lead-to-china/](https://www.poten.com/all-roads-lead-to-china/)\n**Full PDF Report**: [Weekly-Opinion-17-Sept-2021-All-Roads-Lead-To-China.pdf](https://www.poten.com/wp-content/uploads/2021/09/Weekly-Opinion-17-Sept-2021-All-Roads-Lead-To-China.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-17-Sept-2021-All-Roads-Lead-To-China.pdf.",
+      "keywords": [
+        "china",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/all-roads-lead-to-china",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_all_roads_lead_to_china__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "All Roads Lead To China\n17 Sep 2021:Tanker owners can no longer take Chinese growth for granted Over the last two decades, Chinaâ€™s oil demand growth has propelled the tanker market upwards and onwards. Chinaâ€™s rapid economic development was largely responsible for the 2004-2008 â€œSuper Cycleâ€� in the shipping markets (not only in tankers, but in dry cargo and containers...",
+      "keywords": [
+        "container",
+        "china",
+        "crude_oil",
+        "growth",
+        "all",
+        "but",
+        "can",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

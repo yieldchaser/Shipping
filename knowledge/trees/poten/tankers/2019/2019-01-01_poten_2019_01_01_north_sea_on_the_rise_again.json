@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: North Sea On The Rise Again",
+  "section_path": [
+    "Poten Tanker Opinion: North Sea On The Rise Again"
+  ],
+  "section_path_text": "Poten Tanker Opinion: North Sea On The Rise Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: North Sea On The Rise Again\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/north-sea-on-the-rise-again/](https://www.poten.com/north-sea-on-the-rise-again/)\n**Full PDF Report**: [Weekly-Opinion-26-July-2019-North-Sea-On-The-Rise-Again.pdf](http://www.poten.com/wp-content/uploads/2019/07/Weekly-Opinion-26-July-2019-North-Sea-On-The-Rise-Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-26-July-2019-North-Sea-On-The-Rise-Again.pdf. Analysis & Overview\nNorth Sea On The Rise Again\n26 Jul 2019:Â In recent years, the airwaves have been dominated by the growth in U.S. Oil markets also need to keep an eye on the ongoing turmoil in the Middle East as well as the elaborate decision-making process of the members of OPEC (+Russia).",
+  "keywords": [
+    "crude_oil",
+    "again",
+    "full",
+    "https",
+    "north",
+    "oil",
+    "pdf",
+    "rise",
+    "sea",
+    "www.poten.com/north-sea-on-the-rise-again",
+    "airwaves",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 266,
+  "source_path": "reports/poten/2019/poten_2019-01-01_north_sea_on_the_rise_again.md",
+  "source_url": "https://www.poten.com/north-sea-on-the-rise-again/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again__s01_poten_tanker_opinion_north_sea_on_the_rise_again",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again__root",
+      "title": "Poten Tanker Opinion: North Sea On The Rise Again",
+      "section_path": [
+        "Poten Tanker Opinion: North Sea On The Rise Again"
+      ],
+      "section_path_text": "Poten Tanker Opinion: North Sea On The Rise Again",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/north-sea-on-the-rise-again/](https://www.poten.com/north-sea-on-the-rise-again/)\n**Full PDF Report**: [Weekly-Opinion-26-July-2019-North-Sea-On-The-Rise-Again.pdf](http://www.poten.com/wp-content/uploads/2019/07/Weekly-Opinion-26-July-2019-North-Sea-On-The-Rise-Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-26-July-2019-North-Sea-On-The-Rise-Again.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/north-sea-on-the-rise-again",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_north_sea_on_the_rise_again__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "North Sea On The Rise Again\n26 Jul 2019:Â In recent years, the airwaves have been dominated by the growth in U.S. Oil markets also need to keep an eye on the ongoing turmoil in the Middle East as well as the elaborate decision-making process of the members of OPEC (+Russia).",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "again",
+        "airwaves",
+        "crude",
+        "decision-making",
+        "dominated",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

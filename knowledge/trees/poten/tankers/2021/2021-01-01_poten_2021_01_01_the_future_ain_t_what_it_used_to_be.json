@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Future Ainâ€™t What It Used To Be",
+  "section_path": [
+    "Poten Tanker Opinion: The Future Ainâ€™t What It Used To Be"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Future Ainâ€™t What It Used To Be",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Future Ainâ€™t What It Used To Be\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-december-03-the-future-aint-what-it-used-to-be/](https://www.poten.com/tanker-opinion-december-03-the-future-aint-what-it-used-to-be/)\n**Full PDF Report**: [Weekly-Opinion-3-December-2021-The-Future-Aint-What-It-Used-To-Be.pdf](https://www.poten.com/wp-content/uploads/2021/12/Weekly-Opinion-3-December-2021-The-Future-Aint-What-It-Used-To-Be.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-3-December-2021-The-Future-Aint-What-It-Used-To-Be.pdf. Analysis & Overview\nThe Future Ainâ€™t What It Used To Be\nThe Future Ainâ€™t What It Used To Be",
+  "keywords": [
+    "ain",
+    "future",
+    "https",
+    "what",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-december-03-the-future-aint-what-it-used-to-be",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2021/poten_2021-01-01_the_future_ain_t_what_it_used_to_be.md",
+  "source_url": "https://www.poten.com/tanker-opinion-december-03-the-future-aint-what-it-used-to-be/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be__s01_poten_tanker_opinion_the_future_ain_t_what_it_used_to_be",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be__root",
+      "title": "Poten Tanker Opinion: The Future Ainâ€™t What It Used To Be",
+      "section_path": [
+        "Poten Tanker Opinion: The Future Ainâ€™t What It Used To Be"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Future Ainâ€™t What It Used To Be",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-december-03-the-future-aint-what-it-used-to-be/](https://www.poten.com/tanker-opinion-december-03-the-future-aint-what-it-used-to-be/)\n**Full PDF Report**: [Weekly-Opinion-3-December-2021-The-Future-Aint-What-It-Used-To-Be.pdf](https://www.poten.com/wp-content/uploads/2021/12/Weekly-Opinion-3-December-2021-The-Future-Aint-What-It-Used-To-Be.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-3-December-2021-The-Future-Aint-What-It-Used-To-Be.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-december-03-the-future-aint-what-it-used-to-be",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_the_future_ain_t_what_it_used_to_be__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Future Ainâ€™t What It Used To Be\nThe Future Ainâ€™t What It Used To Be",
+      "keywords": [
+        "ain",
+        "future",
+        "what"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

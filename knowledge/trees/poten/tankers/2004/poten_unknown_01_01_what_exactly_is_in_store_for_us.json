@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: What Exactly is in Store for US",
+  "section_path": [
+    "Poten Tanker Opinion: What Exactly is in Store for US"
+  ],
+  "section_path_text": "Poten Tanker Opinion: What Exactly is in Store for US",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: What Exactly is in Store for US\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/what-exactly-is-in-store-for-us/](https://www.poten.com/what-exactly-is-in-store-for-us/)\n**Full PDF Report**: [Tanker_Opinion_20041230.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20041230.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20041230.pdf. Analysis & Overview\nWhat Exactly is in Store for US\nWhat Exactly is in Store for US",
+  "keywords": [
+    "exactly",
+    "https",
+    "store",
+    "what",
+    "full",
+    "pdf",
+    "www.poten.com/what-exactly-is-in-store-for-us",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 161,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_what_exactly_is_in_store_for_us.md",
+  "source_url": "https://www.poten.com/what-exactly-is-in-store-for-us/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us__s01_poten_tanker_opinion_what_exactly_is_in_store_for_us",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us__root",
+      "title": "Poten Tanker Opinion: What Exactly is in Store for US",
+      "section_path": [
+        "Poten Tanker Opinion: What Exactly is in Store for US"
+      ],
+      "section_path_text": "Poten Tanker Opinion: What Exactly is in Store for US",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/what-exactly-is-in-store-for-us/](https://www.poten.com/what-exactly-is-in-store-for-us/)\n**Full PDF Report**: [Tanker_Opinion_20041230.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20041230.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20041230.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/what-exactly-is-in-store-for-us",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_what_exactly_is_in_store_for_us__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "What Exactly is in Store for US\nWhat Exactly is in Store for US",
+      "keywords": [
+        "exactly",
+        "store",
+        "what"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

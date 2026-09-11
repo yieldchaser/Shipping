@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Whatever Floats Your Boat",
+  "section_path": [
+    "Poten Tanker Opinion: Whatever Floats Your Boat"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Whatever Floats Your Boat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Whatever Floats Your Boat\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/whatever-floats-your-boat-2/](https://www.poten.com/whatever-floats-your-boat-2/)\n**Full PDF Report**: [Tanker_Opinion_20101015.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20101015.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20101015.pdf. Analysis & Overview\nWhatever Floats Your Boat\nWhatever Floats Your Boat",
+  "keywords": [
+    "boat",
+    "floats",
+    "https",
+    "whatever",
+    "your",
+    "full",
+    "pdf",
+    "www.poten.com/whatever-floats-your-boat-2",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 157,
+  "source_path": "reports/poten/2010/poten_unknown-01-01_whatever_floats_your_boat.md",
+  "source_url": "https://www.poten.com/whatever-floats-your-boat-2/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat__s01_poten_tanker_opinion_whatever_floats_your_boat",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat__root",
+      "title": "Poten Tanker Opinion: Whatever Floats Your Boat",
+      "section_path": [
+        "Poten Tanker Opinion: Whatever Floats Your Boat"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Whatever Floats Your Boat",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/whatever-floats-your-boat-2/](https://www.poten.com/whatever-floats-your-boat-2/)\n**Full PDF Report**: [Tanker_Opinion_20101015.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20101015.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20101015.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/whatever-floats-your-boat-2",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_whatever_floats_your_boat__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Whatever Floats Your Boat\nWhatever Floats Your Boat",
+      "keywords": [
+        "boat",
+        "floats",
+        "whatever",
+        "your"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

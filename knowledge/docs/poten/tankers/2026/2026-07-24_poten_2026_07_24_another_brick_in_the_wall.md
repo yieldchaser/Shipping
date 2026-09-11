@@ -93,6 +93,7 @@ Houthi attacks complicate Saudi exports. On July 19, Yemen's Houthi rebel moveme
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-07-24
 **Source URL**: [https://www.poten.com/another-brick-in-the-wall-2/](https://www.poten.com/another-brick-in-the-wall-2/)
+**Full PDF Report**: [Weekly Opinion - 24 July 2026 - Another Brick In The Wall v2.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2024%20July%202026%20-%20Another%20Brick%20In%20The%20Wall%20v2.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy__root",
+  "doc_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Big Picture 2009 BP Statistical Review of World Energy",
+  "section_path": [
+    "Poten Tanker Opinion: The Big Picture 2009 BP Statistical Review of World Energy"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Big Picture 2009 BP Statistical Review of World Energy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Big Picture 2009 BP Statistical Review of World Energy\n**Author**: Erik Broekhuizen\n**Published Date**: 2009-01-01\n**Source URL**: [https://www.poten.com/the-big-picture-2009-bp-statistical-review-of-world-energy/](https://www.poten.com/the-big-picture-2009-bp-statistical-review-of-world-energy/)\n**Full PDF Report**: [Tanker_Opinion_20090619.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090619.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2009/Tanker_Opinion_20090619.pdf. Analysis & Overview\nThe Big Picture 2009 BP Statistical Review of World Energy\nThe Big Picture 2009 BP Statistical Review of World Energy",
+  "keywords": [
+    "big",
+    "energy",
+    "https",
+    "picture",
+    "review",
+    "statistical",
+    "world",
+    "full",
+    "pdf",
+    "www.poten.com/the-big-picture-2009-bp-statistical-review-of-world-energy",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 189,
+  "source_path": "reports/poten/2009/poten_2009-01-01_the_big_picture_2009_bp_statistical_review_of_world_energy.md",
+  "source_url": "https://www.poten.com/the-big-picture-2009-bp-statistical-review-of-world-energy/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy__s01_poten_tanker_opinion_the_big_picture_2009_bp_statistical_review_of_world_energy",
+      "doc_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy",
+      "parent_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy__root",
+      "title": "Poten Tanker Opinion: The Big Picture 2009 BP Statistical Review of World Energy",
+      "section_path": [
+        "Poten Tanker Opinion: The Big Picture 2009 BP Statistical Review of World Energy"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Big Picture 2009 BP Statistical Review of World Energy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2009-01-01\n**Source URL**: [https://www.poten.com/the-big-picture-2009-bp-statistical-review-of-world-energy/](https://www.poten.com/the-big-picture-2009-bp-statistical-review-of-world-energy/)\n**Full PDF Report**: [Tanker_Opinion_20090619.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090619.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2009/Tanker_Opinion_20090619.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/the-big-picture-2009-bp-statistical-review-of-world-energy",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy__s02_analysis_overview",
+      "doc_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy",
+      "parent_id": "poten_tankers_2009-01-01_poten_2009_01_01_the_big_picture_2009_bp_statistical_review_of_world_energy__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Big Picture 2009 BP Statistical Review of World Energy\nThe Big Picture 2009 BP Statistical Review of World Energy",
+      "keywords": [
+        "big",
+        "energy",
+        "picture",
+        "review",
+        "statistical",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

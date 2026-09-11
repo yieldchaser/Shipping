@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place__root",
+  "doc_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Between A Rock And A Hard Place",
+  "section_path": [
+    "Poten Tanker Opinion: Between A Rock And A Hard Place"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Between A Rock And A Hard Place",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Between A Rock And A Hard Place\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-05-31\n**Source URL**: [https://www.poten.com/between-a-rock-and-a-hard-place/](https://www.poten.com/between-a-rock-and-a-hard-place/)\n**Full PDF Report**: [Weekly Opinion - 31 May 2024 - Between A Rock And A Hard Place.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2031%20May%202024%20-%20Between%20A%20Rock%20And%20A%20Hard%20Place.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 31 May 2024 - Between A Rock And A Hard Place.pdf. Analysis & Overview\nBetween A Rock And A Hard Place\nBetween A Rock And A Hard Place",
+  "keywords": [
+    "between",
+    "hard",
+    "rock",
+    "opinion",
+    "https",
+    "may",
+    "place",
+    "full",
+    "pdf",
+    "place.pdf",
+    "www.poten.com/between-a-rock-and-a-hard-place",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 220,
+  "source_path": "reports/poten/2024/poten_2024-05-31_between_a_rock_and_a_hard_place.md",
+  "source_url": "https://www.poten.com/between-a-rock-and-a-hard-place/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place__s01_poten_tanker_opinion_between_a_rock_and_a_hard_place",
+      "doc_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place",
+      "parent_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place__root",
+      "title": "Poten Tanker Opinion: Between A Rock And A Hard Place",
+      "section_path": [
+        "Poten Tanker Opinion: Between A Rock And A Hard Place"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Between A Rock And A Hard Place",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-05-31\n**Source URL**: [https://www.poten.com/between-a-rock-and-a-hard-place/](https://www.poten.com/between-a-rock-and-a-hard-place/)\n**Full PDF Report**: [Weekly Opinion - 31 May 2024 - Between A Rock And A Hard Place.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2031%20May%202024%20-%20Between%20A%20Rock%20And%20A%20Hard%20Place.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 31 May 2024 - Between A Rock And A Hard Place.pdf.",
+      "keywords": [
+        "between",
+        "hard",
+        "https",
+        "may",
+        "opinion",
+        "rock",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place",
+      "parent_id": "poten_tankers_2024-05-31_poten_2024_05_31_between_a_rock_and_a_hard_place__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Between A Rock And A Hard Place\nBetween A Rock And A Hard Place",
+      "keywords": [
+        "between",
+        "hard",
+        "place",
+        "rock"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion__root",
+  "doc_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Operation Rising Lion",
+  "section_path": [
+    "Poten Tanker Opinion: Operation Rising Lion"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Operation Rising Lion",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Operation Rising Lion\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-06-13\n**Source URL**: [https://www.poten.com/operation-rising-lion/](https://www.poten.com/operation-rising-lion/)\n**Full PDF Report**: [Weekly Opinion - 13 June 2025 - Operation Rising Lion.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2013%20June%202025%20-%20Operation%20Rising%20Lion.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 13 June 2025 - Operation Rising Lion.pdf. Analysis & Overview\nOperation Rising Lion\nOperation Rising Lion",
+  "keywords": [
+    "operation",
+    "rising",
+    "opinion",
+    "https",
+    "june",
+    "lion",
+    "full",
+    "lion.pdf",
+    "pdf",
+    "www.poten.com/operation-rising-lion",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 186,
+  "source_path": "reports/poten/2025/poten_2025-06-13_operation_rising_lion.md",
+  "source_url": "https://www.poten.com/operation-rising-lion/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion__s01_poten_tanker_opinion_operation_rising_lion",
+      "doc_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion",
+      "parent_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion__root",
+      "title": "Poten Tanker Opinion: Operation Rising Lion",
+      "section_path": [
+        "Poten Tanker Opinion: Operation Rising Lion"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Operation Rising Lion",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-06-13\n**Source URL**: [https://www.poten.com/operation-rising-lion/](https://www.poten.com/operation-rising-lion/)\n**Full PDF Report**: [Weekly Opinion - 13 June 2025 - Operation Rising Lion.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2013%20June%202025%20-%20Operation%20Rising%20Lion.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 13 June 2025 - Operation Rising Lion.pdf.",
+      "keywords": [
+        "https",
+        "june",
+        "operation",
+        "opinion",
+        "rising",
+        "full",
+        "lion.pdf",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion",
+      "parent_id": "poten_tankers_2025-06-13_poten_2025_06_13_operation_rising_lion__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Operation Rising Lion\nOperation Rising Lion",
+      "keywords": [
+        "lion",
+        "operation",
+        "rising"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

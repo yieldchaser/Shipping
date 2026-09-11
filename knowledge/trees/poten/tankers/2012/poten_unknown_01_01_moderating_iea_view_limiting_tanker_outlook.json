@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Moderating IEA View Limiting Tanker Outlook",
+  "section_path": [
+    "Poten Tanker Opinion: Moderating IEA View Limiting Tanker Outlook"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Moderating IEA View Limiting Tanker Outlook",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Moderating IEA View Limiting Tanker Outlook\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/moderating-iea-view-limiting-tanker-outlook/](https://www.poten.com/moderating-iea-view-limiting-tanker-outlook/)\n**Full PDF Report**: [Tanker_Opinion_20120713.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120713.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120713.pdf. Analysis & Overview\nModerating IEA View Limiting Tanker Outlook\nModerating IEA View Limiting Tanker Outlook",
+  "keywords": [
+    "https",
+    "iea",
+    "limiting",
+    "moderating",
+    "outlook",
+    "view",
+    "full",
+    "pdf",
+    "www.poten.com/moderating-iea-view-limiting-tanker-outlook",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 176,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_moderating_iea_view_limiting_tanker_outlook.md",
+  "source_url": "https://www.poten.com/moderating-iea-view-limiting-tanker-outlook/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook__s01_poten_tanker_opinion_moderating_iea_view_limiting_tanker_outlook",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook__root",
+      "title": "Poten Tanker Opinion: Moderating IEA View Limiting Tanker Outlook",
+      "section_path": [
+        "Poten Tanker Opinion: Moderating IEA View Limiting Tanker Outlook"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Moderating IEA View Limiting Tanker Outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/moderating-iea-view-limiting-tanker-outlook/](https://www.poten.com/moderating-iea-view-limiting-tanker-outlook/)\n**Full PDF Report**: [Tanker_Opinion_20120713.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120713.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120713.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/moderating-iea-view-limiting-tanker-outlook",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_moderating_iea_view_limiting_tanker_outlook__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Moderating IEA View Limiting Tanker Outlook\nModerating IEA View Limiting Tanker Outlook",
+      "keywords": [
+        "iea",
+        "limiting",
+        "moderating",
+        "outlook",
+        "view"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

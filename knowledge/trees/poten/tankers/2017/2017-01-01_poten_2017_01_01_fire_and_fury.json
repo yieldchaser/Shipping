@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Fire And Fury",
+  "section_path": [
+    "Poten Tanker Opinion: Fire And Fury"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Fire And Fury",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Fire And Fury\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/fire-and-fury/](https://www.poten.com/fire-and-fury/)\n**Full PDF Report**: [Weekly-Opinion-08-September-2017-Fire-and-Fury.pdf](http://www.poten.com/wp-content/uploads/2017/09/Weekly-Opinion-08-September-2017-Fire-and-Fury.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-08-September-2017-Fire-and-Fury.pdf. Analysis & Overview\nFire And Fury\nFire And Fury",
+  "keywords": [
+    "fire",
+    "fury",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/fire-and-fury",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 162,
+  "source_path": "reports/poten/2017/poten_2017-01-01_fire_and_fury.md",
+  "source_url": "https://www.poten.com/fire-and-fury/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury__s01_poten_tanker_opinion_fire_and_fury",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury__root",
+      "title": "Poten Tanker Opinion: Fire And Fury",
+      "section_path": [
+        "Poten Tanker Opinion: Fire And Fury"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Fire And Fury",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/fire-and-fury/](https://www.poten.com/fire-and-fury/)\n**Full PDF Report**: [Weekly-Opinion-08-September-2017-Fire-and-Fury.pdf](http://www.poten.com/wp-content/uploads/2017/09/Weekly-Opinion-08-September-2017-Fire-and-Fury.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-08-September-2017-Fire-and-Fury.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/fire-and-fury",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_fire_and_fury__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fire And Fury\nFire And Fury",
+      "keywords": [
+        "fire",
+        "fury"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

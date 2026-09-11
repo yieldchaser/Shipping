@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela__root",
+  "doc_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Closing The Door (Again) On Venezuela",
+  "section_path": [
+    "Poten Tanker Opinion: Closing The Door (Again) On Venezuela"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Closing The Door (Again) On Venezuela",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Closing The Door (Again) On Venezuela\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-03-14\n**Source URL**: [https://www.poten.com/closing-the-door-again-on-venezuela/](https://www.poten.com/closing-the-door-again-on-venezuela/)\n**Full PDF Report**: [Weekly Opinion - 14 March 2025 - Closing the Door (Again) On Venezuela.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20March%202025%20-%20Closing%20the%20Door%20(Again)%20On%20Venezuela.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 14 March 2025 - Closing the Door (Again) On Venezuela.pdf. Analysis & Overview\nClosing The Door (Again) On Venezuela\nClosing The Door (Again) On Venezuela",
+  "keywords": [
+    "again",
+    "closing",
+    "door",
+    "opinion",
+    "https",
+    "march",
+    "venezuela",
+    "full",
+    "pdf",
+    "venezuela.pdf",
+    "www.poten.com/closing-the-door-again-on-venezuela",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 231,
+  "source_path": "reports/poten/2025/poten_2025-03-14_closing_the_door_again_on_venezuela.md",
+  "source_url": "https://www.poten.com/closing-the-door-again-on-venezuela/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela__s01_poten_tanker_opinion_closing_the_door_again_on_venezuela",
+      "doc_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela",
+      "parent_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela__root",
+      "title": "Poten Tanker Opinion: Closing The Door (Again) On Venezuela",
+      "section_path": [
+        "Poten Tanker Opinion: Closing The Door (Again) On Venezuela"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Closing The Door (Again) On Venezuela",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-03-14\n**Source URL**: [https://www.poten.com/closing-the-door-again-on-venezuela/](https://www.poten.com/closing-the-door-again-on-venezuela/)\n**Full PDF Report**: [Weekly Opinion - 14 March 2025 - Closing the Door (Again) On Venezuela.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20March%202025%20-%20Closing%20the%20Door%20(Again)%20On%20Venezuela.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 14 March 2025 - Closing the Door (Again) On Venezuela.pdf.",
+      "keywords": [
+        "again",
+        "closing",
+        "door",
+        "https",
+        "march",
+        "opinion",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela",
+      "parent_id": "poten_tankers_2025-03-14_poten_2025_03_14_closing_the_door_again_on_venezuela__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Closing The Door (Again) On Venezuela\nClosing The Door (Again) On Venezuela",
+      "keywords": [
+        "again",
+        "closing",
+        "door",
+        "venezuela"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

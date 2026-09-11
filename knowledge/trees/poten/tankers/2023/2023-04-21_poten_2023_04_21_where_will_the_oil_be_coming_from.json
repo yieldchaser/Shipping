@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from__root",
+  "doc_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Where Will The Oil Be Coming From",
+  "section_path": [
+    "Poten Tanker Opinion: Where Will The Oil Be Coming From"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Where Will The Oil Be Coming From",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Where Will The Oil Be Coming From\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-04-21\n**Source URL**: [https://www.poten.com/tanker-opinion-april-21-2023-where-will-the-oil-be-coming-from/](https://www.poten.com/tanker-opinion-april-21-2023-where-will-the-oil-be-coming-from/)\n**Full PDF Report**: [Weekly Opinion - 21 April 2023 - Where Will The Oil Be Coming From.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2021%20April%202023%20-%20Where%20Will%20The%20Oil%20Be%20Coming%20From.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 21 April 2023 - Where Will The Oil Be Coming From.pdf. Analysis & Overview\nWhere Will The Oil Be Coming From\nWhere Will The Oil Be Coming From",
+  "keywords": [
+    "crude_oil",
+    "coming",
+    "oil",
+    "opinion",
+    "april",
+    "https",
+    "from.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-april-21-2023-where-will-the-oil-be-coming-from",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 248,
+  "source_path": "reports/poten/2023/poten_2023-04-21_where_will_the_oil_be_coming_from.md",
+  "source_url": "https://www.poten.com/tanker-opinion-april-21-2023-where-will-the-oil-be-coming-from/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from__s01_poten_tanker_opinion_where_will_the_oil_be_coming_from",
+      "doc_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from",
+      "parent_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from__root",
+      "title": "Poten Tanker Opinion: Where Will The Oil Be Coming From",
+      "section_path": [
+        "Poten Tanker Opinion: Where Will The Oil Be Coming From"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Where Will The Oil Be Coming From",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-04-21\n**Source URL**: [https://www.poten.com/tanker-opinion-april-21-2023-where-will-the-oil-be-coming-from/](https://www.poten.com/tanker-opinion-april-21-2023-where-will-the-oil-be-coming-from/)\n**Full PDF Report**: [Weekly Opinion - 21 April 2023 - Where Will The Oil Be Coming From.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2021%20April%202023%20-%20Where%20Will%20The%20Oil%20Be%20Coming%20From.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 21 April 2023 - Where Will The Oil Be Coming From.pdf.",
+      "keywords": [
+        "crude_oil",
+        "april",
+        "coming",
+        "https",
+        "oil",
+        "opinion",
+        "from.pdf",
+        "full"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from",
+      "parent_id": "poten_tankers_2023-04-21_poten_2023_04_21_where_will_the_oil_be_coming_from__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Where Will The Oil Be Coming From\nWhere Will The Oil Be Coming From",
+      "keywords": [
+        "crude_oil",
+        "coming",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

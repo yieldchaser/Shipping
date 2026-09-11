@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected__root",
+  "doc_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Expect The Unexpected!",
+  "section_path": [
+    "Poten Tanker Opinion: Expect The Unexpected!"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Expect The Unexpected!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Expect The Unexpected! **Author**: Erik Broekhuizen\n**Published Date**: 2024-05-24\n**Source URL**: [https://www.poten.com/expect-the-unexpected/](https://www.poten.com/expect-the-unexpected/)\n**Full PDF Report**: [Weekly Opinion -24 May 2024 - Expect The Unexpected.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-24%20May%202024%20-%20Expect%20The%20Unexpected.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -24 May 2024 - Expect The Unexpected.pdf. Analysis & Overview\nExpect The Unexpected!",
+  "keywords": [
+    "expect",
+    "opinion",
+    "https",
+    "may",
+    "unexpected",
+    "full",
+    "pdf",
+    "unexpected.pdf",
+    "www.poten.com/expect-the-unexpected",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 180,
+  "source_path": "reports/poten/2024/poten_2024-05-24_expect_the_unexpected.md",
+  "source_url": "https://www.poten.com/expect-the-unexpected/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected__s01_poten_tanker_opinion_expect_the_unexpected",
+      "doc_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected",
+      "parent_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected__root",
+      "title": "Poten Tanker Opinion: Expect The Unexpected!",
+      "section_path": [
+        "Poten Tanker Opinion: Expect The Unexpected!"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Expect The Unexpected!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-05-24\n**Source URL**: [https://www.poten.com/expect-the-unexpected/](https://www.poten.com/expect-the-unexpected/)\n**Full PDF Report**: [Weekly Opinion -24 May 2024 - Expect The Unexpected.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-24%20May%202024%20-%20Expect%20The%20Unexpected.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -24 May 2024 - Expect The Unexpected.pdf.",
+      "keywords": [
+        "expect",
+        "https",
+        "may",
+        "opinion",
+        "full",
+        "pdf",
+        "unexpected.pdf",
+        "www.poten.com/expect-the-unexpected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected",
+      "parent_id": "poten_tankers_2024-05-24_poten_2024_05_24_expect_the_unexpected__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "expect",
+        "unexpected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

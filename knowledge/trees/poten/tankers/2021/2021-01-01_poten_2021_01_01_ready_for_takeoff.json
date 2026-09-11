@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Ready for Takeoff",
+  "section_path": [
+    "Poten Tanker Opinion: Ready for Takeoff"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Ready for Takeoff",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Ready for Takeoff\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-february-26-ready-for-takeoff/](https://www.poten.com/tanker-opinion-february-26-ready-for-takeoff/)\n**Full PDF Report**: [Weekly-Opinion-26-February-2021-Ready-For-Takeoff.pdf](https://www.poten.com/wp-content/uploads/2021/02/Weekly-Opinion-26-February-2021-Ready-For-Takeoff.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-26-February-2021-Ready-For-Takeoff.pdf. Analysis & Overview\nReady for Takeoff\nReady for Takeoff",
+  "keywords": [
+    "https",
+    "ready",
+    "takeoff",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-february-26-ready-for-takeoff",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 189,
+  "source_path": "reports/poten/2021/poten_2021-01-01_ready_for_takeoff.md",
+  "source_url": "https://www.poten.com/tanker-opinion-february-26-ready-for-takeoff/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff__s01_poten_tanker_opinion_ready_for_takeoff",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff__root",
+      "title": "Poten Tanker Opinion: Ready for Takeoff",
+      "section_path": [
+        "Poten Tanker Opinion: Ready for Takeoff"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Ready for Takeoff",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-february-26-ready-for-takeoff/](https://www.poten.com/tanker-opinion-february-26-ready-for-takeoff/)\n**Full PDF Report**: [Weekly-Opinion-26-February-2021-Ready-For-Takeoff.pdf](https://www.poten.com/wp-content/uploads/2021/02/Weekly-Opinion-26-February-2021-Ready-For-Takeoff.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-26-February-2021-Ready-For-Takeoff.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-february-26-ready-for-takeoff",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_ready_for_takeoff__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ready for Takeoff\nReady for Takeoff",
+      "keywords": [
+        "ready",
+        "takeoff"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

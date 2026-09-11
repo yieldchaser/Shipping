@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Post-Panamax Stress Disorder",
+  "section_path": [
+    "Poten Tanker Opinion: Post-Panamax Stress Disorder"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Post-Panamax Stress Disorder",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Post-Panamax Stress Disorder\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/post-panamax-stress-disorder/](https://www.poten.com/post-panamax-stress-disorder/)\n**Full PDF Report**: [Tanker_Opinion_20130823.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130823.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130823.pdf. Analysis & Overview\nPost-Panamax Stress Disorder\nPost-Panamax Stress Disorder",
+  "keywords": [
+    "panamax",
+    "disorder",
+    "https",
+    "post-panamax",
+    "stress",
+    "full",
+    "pdf",
+    "www.poten.com/post-panamax-stress-disorder",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 156,
+  "source_path": "reports/poten/2013/poten_unknown-01-01_post-panamax_stress_disorder.md",
+  "source_url": "https://www.poten.com/post-panamax-stress-disorder/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder__s01_poten_tanker_opinion_post_panamax_stress_disorder",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder__root",
+      "title": "Poten Tanker Opinion: Post-Panamax Stress Disorder",
+      "section_path": [
+        "Poten Tanker Opinion: Post-Panamax Stress Disorder"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Post-Panamax Stress Disorder",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/post-panamax-stress-disorder/](https://www.poten.com/post-panamax-stress-disorder/)\n**Full PDF Report**: [Tanker_Opinion_20130823.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130823.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130823.pdf.",
+      "keywords": [
+        "panamax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/post-panamax-stress-disorder",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_post_panamax_stress_disorder__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Post-Panamax Stress Disorder\nPost-Panamax Stress Disorder",
+      "keywords": [
+        "panamax",
+        "disorder",
+        "post-panamax",
+        "stress"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -94,6 +94,7 @@ How the Iran War rewired the refined product trade. - Iran war caused a near com
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-06-05
 **Source URL**: [https://www.poten.com/a-strait-up-fuel-shock/](https://www.poten.com/a-strait-up-fuel-shock/)
+**Full PDF Report**: [Weekly Opinion - 5 June 2026 - A Strait-Up Fuel Shock.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%205%20June%202026%20-%20A%20Strait-Up%20Fuel%20Shock.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

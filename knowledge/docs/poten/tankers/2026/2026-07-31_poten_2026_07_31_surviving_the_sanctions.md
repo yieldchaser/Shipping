@@ -98,6 +98,7 @@ Russia adjusts to changes in global oil markets. The Russia - Ukraine war starte
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-07-31
 **Source URL**: [https://www.poten.com/surviving-the-sanctions/](https://www.poten.com/surviving-the-sanctions/)
+**Full PDF Report**: [Weekly Opinion - 31 July 2026 - Surviving The Sanctions.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2031%20July%202026%20-%20Surviving%20The%20Sanctions.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

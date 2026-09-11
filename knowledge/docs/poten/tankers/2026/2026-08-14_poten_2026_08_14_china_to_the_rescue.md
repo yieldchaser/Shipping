@@ -89,6 +89,7 @@ China To The Rescue?
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-08-14
 **Source URL**: [https://www.poten.com/china-to-the-rescue/](https://www.poten.com/china-to-the-rescue/)
+**Full PDF Report**: [Weekly Opinion - 14 August 2026 - China To The Rescue.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20August%202026%20-%20China%20To%20The%20Rescue.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

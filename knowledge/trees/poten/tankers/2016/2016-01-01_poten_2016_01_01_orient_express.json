@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Orient Express",
+  "section_path": [
+    "Poten Tanker Opinion: Orient Express"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Orient Express",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Orient Express\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/orient-express/](https://www.poten.com/orient-express/)\n**Full PDF Report**: [Weekly-Opinion-22-July-2016-Orient-Express.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-22-July-2016-Orient-Express.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-22-July-2016-Orient-Express.pdf. Analysis & Overview\nOrient Express\n22 Jul 2016: Last weekend, the world witnessed a failed coup attempt in Turkey. While this event was going on, we received several questions on the oil volumes passing through Turkey.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "attempt",
+    "coup",
+    "express",
+    "failed",
+    "full",
+    "orient",
+    "pdf",
+    "turkey.",
+    "www.poten.com/orient-express",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 226,
+  "source_path": "reports/poten/2016/poten_2016-01-01_orient_express.md",
+  "source_url": "https://www.poten.com/orient-express/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express__s01_poten_tanker_opinion_orient_express",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express__root",
+      "title": "Poten Tanker Opinion: Orient Express",
+      "section_path": [
+        "Poten Tanker Opinion: Orient Express"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Orient Express",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/orient-express/](https://www.poten.com/orient-express/)\n**Full PDF Report**: [Weekly-Opinion-22-July-2016-Orient-Express.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-22-July-2016-Orient-Express.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-22-July-2016-Orient-Express.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/orient-express",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_orient_express__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Orient Express\n22 Jul 2016: Last weekend, the world witnessed a failed coup attempt in Turkey. While this event was going on, we received several questions on the oil volumes passing through Turkey.",
+      "keywords": [
+        "crude_oil",
+        "attempt",
+        "coup",
+        "failed",
+        "turkey.",
+        "at...",
+        "even",
+        "event"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

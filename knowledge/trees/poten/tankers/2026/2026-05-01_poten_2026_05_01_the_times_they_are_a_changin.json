@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 296,
+  "token_count": 387,
   "source_path": "reports/poten/2026/poten_2026-05-01_the_times_they_are_a-changin.md",
   "source_url": "https://www.poten.com/the-times-they-are-a-changin/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: The Times They Are A-Changin'",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-01\n**Source URL**: [https://www.poten.com/the-times-they-are-a-changin/](https://www.poten.com/the-times-they-are-a-changin/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-01\n**Source URL**: [https://www.poten.com/the-times-they-are-a-changin/](https://www.poten.com/the-times-they-are-a-changin/)\n**Full PDF Report**: [Weekly Opinion - 1 May 2026 - The Times They Are A-Changin.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%201%20May%202026%20-%20The%20Times%20They%20Are%20A-Changin.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
+        "a-changin.pdf",
+        "are",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/the-times-they-are-a-changin",
-        "analysis",
-        "archived"
+        "may",
+        "opinion",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 99,
+      "token_count": 190,
       "section_type": null,
       "children": []
     },

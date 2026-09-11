@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options__root",
+  "doc_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Kingdom Has Options",
+  "section_path": [
+    "Poten Tanker Opinion: The Kingdom Has Options"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Kingdom Has Options",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Kingdom Has Options\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-10-25\n**Source URL**: [https://www.poten.com/the-kingdom-has-options/](https://www.poten.com/the-kingdom-has-options/)\n**Full PDF Report**: [Weekly Opinion - 25 Oct 2024 - The Kingdom Has Options.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20Oct%202024%20-%20The%20Kingdom%20Has%20Options.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 25 Oct 2024 - The Kingdom Has Options.pdf. Analysis & Overview\nThe Kingdom Has Options\nThe Kingdom Has Options",
+  "keywords": [
+    "kingdom",
+    "opinion",
+    "https",
+    "oct",
+    "options",
+    "full",
+    "options.pdf",
+    "pdf",
+    "www.poten.com/the-kingdom-has-options",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 193,
+  "source_path": "reports/poten/2024/poten_2024-10-25_the_kingdom_has_options.md",
+  "source_url": "https://www.poten.com/the-kingdom-has-options/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options__s01_poten_tanker_opinion_the_kingdom_has_options",
+      "doc_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options",
+      "parent_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options__root",
+      "title": "Poten Tanker Opinion: The Kingdom Has Options",
+      "section_path": [
+        "Poten Tanker Opinion: The Kingdom Has Options"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Kingdom Has Options",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-10-25\n**Source URL**: [https://www.poten.com/the-kingdom-has-options/](https://www.poten.com/the-kingdom-has-options/)\n**Full PDF Report**: [Weekly Opinion - 25 Oct 2024 - The Kingdom Has Options.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20Oct%202024%20-%20The%20Kingdom%20Has%20Options.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 25 Oct 2024 - The Kingdom Has Options.pdf.",
+      "keywords": [
+        "https",
+        "kingdom",
+        "oct",
+        "opinion",
+        "full",
+        "options.pdf",
+        "pdf",
+        "www.poten.com/the-kingdom-has-options"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options",
+      "parent_id": "poten_tankers_2024-10-25_poten_2024_10_25_the_kingdom_has_options__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Kingdom Has Options\nThe Kingdom Has Options",
+      "keywords": [
+        "kingdom",
+        "options"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The End Of A Decade",
+  "section_path": [
+    "Poten Tanker Opinion: The End Of A Decade"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The End Of A Decade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The End Of A Decade\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/the-end-of-a-decade/](https://www.poten.com/the-end-of-a-decade/)\n**Full PDF Report**: [Weekly-Opinion-20-December-2019-The-End-Of-A-Decade.pdf](http://www.poten.com/wp-content/uploads/2019/12/Weekly-Opinion-20-December-2019-The-End-Of-A-Decade.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-20-December-2019-The-End-Of-A-Decade.pdf. Analysis & Overview\nThe End Of A Decade\n20 Dec 2019: The Last Decade Has Been Nothing Like the Previous One We are approaching the end of the second decade of the 21st century and we want to use this Tanker Opinion to reflect on the previous two decades to see what changed and what stayed the same.",
+  "keywords": [
+    "decade",
+    "end",
+    "full",
+    "https",
+    "opinion",
+    "pdf",
+    "previous",
+    "what",
+    "www.poten.com/the-end-of-a-decade",
+    "analysis",
+    "approaching",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 251,
+  "source_path": "reports/poten/2019/poten_2019-01-01_the_end_of_a_decade.md",
+  "source_url": "https://www.poten.com/the-end-of-a-decade/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade__s01_poten_tanker_opinion_the_end_of_a_decade",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade__root",
+      "title": "Poten Tanker Opinion: The End Of A Decade",
+      "section_path": [
+        "Poten Tanker Opinion: The End Of A Decade"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The End Of A Decade",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/the-end-of-a-decade/](https://www.poten.com/the-end-of-a-decade/)\n**Full PDF Report**: [Weekly-Opinion-20-December-2019-The-End-Of-A-Decade.pdf](http://www.poten.com/wp-content/uploads/2019/12/Weekly-Opinion-20-December-2019-The-End-Of-A-Decade.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-20-December-2019-The-End-Of-A-Decade.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/the-end-of-a-decade",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_end_of_a_decade__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The End Of A Decade\n20 Dec 2019: The Last Decade Has Been Nothing Like the Previous One We are approaching the end of the second decade of the 21st century and we want to use this Tanker Opinion to reflect on the previous two decades to see what changed and what stayed the same.",
+      "keywords": [
+        "decade",
+        "end",
+        "previous",
+        "what",
+        "approaching",
+        "are",
+        "century",
+        "changed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

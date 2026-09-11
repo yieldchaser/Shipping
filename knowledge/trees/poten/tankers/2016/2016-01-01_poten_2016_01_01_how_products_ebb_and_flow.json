@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: How Products Ebb And Flow",
+  "section_path": [
+    "Poten Tanker Opinion: How Products Ebb And Flow"
+  ],
+  "section_path_text": "Poten Tanker Opinion: How Products Ebb And Flow",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: How Products Ebb And Flow\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/how-products-ebb-and-flow/](https://www.poten.com/how-products-ebb-and-flow/)\n**Full PDF Report**: [Weekly-Opinion-22-April-2016-How-Products-Ebb-And-Flow.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/04/Weekly-Opinion-22-April-2016-How-Products-Ebb-And-Flow.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-22-April-2016-How-Products-Ebb-And-Flow.pdf. Analysis & Overview\nHow Products Ebb And Flow\n22 April 2016: Since the global financial crisis, when product trades declined as a result of a sudden pull-back in oil demand, the oil trades (both crude and products) have made a comeback. However, the individual products that are driving the expansion of oil demand are not all growing at the same rate.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "https",
+    "oil",
+    "are",
+    "demand",
+    "ebb",
+    "flow",
+    "full",
+    "how",
+    "pdf",
+    "trades"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 259,
+  "source_path": "reports/poten/2016/poten_2016-01-01_how_products_ebb_and_flow.md",
+  "source_url": "https://www.poten.com/how-products-ebb-and-flow/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow__s01_poten_tanker_opinion_how_products_ebb_and_flow",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow__root",
+      "title": "Poten Tanker Opinion: How Products Ebb And Flow",
+      "section_path": [
+        "Poten Tanker Opinion: How Products Ebb And Flow"
+      ],
+      "section_path_text": "Poten Tanker Opinion: How Products Ebb And Flow",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/how-products-ebb-and-flow/](https://www.poten.com/how-products-ebb-and-flow/)\n**Full PDF Report**: [Weekly-Opinion-22-April-2016-How-Products-Ebb-And-Flow.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/04/Weekly-Opinion-22-April-2016-How-Products-Ebb-And-Flow.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-22-April-2016-How-Products-Ebb-And-Flow.pdf.",
+      "keywords": [
+        "products",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/how-products-ebb-and-flow",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_how_products_ebb_and_flow__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "How Products Ebb And Flow\n22 April 2016: Since the global financial crisis, when product trades declined as a result of a sudden pull-back in oil demand, the oil trades (both crude and products) have made a comeback. However, the individual products that are driving the expansion of oil demand are not all growing at the same rate.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "oil",
+        "are",
+        "demand",
+        "trades",
+        "all",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

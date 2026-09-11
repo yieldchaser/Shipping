@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Light Sweet Dire Divergence",
+  "section_path": [
+    "Poten Tanker Opinion: Light Sweet Dire Divergence"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Light Sweet Dire Divergence",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Light Sweet Dire Divergence\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/light-sweet-dire-divergence/](https://www.poten.com/light-sweet-dire-divergence/)\n**Full PDF Report**: [Tanker_Opinion_20110128.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110128.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110128.pdf. Analysis & Overview\nLight Sweet Dire Divergence\nLight Sweet Dire Divergence",
+  "keywords": [
+    "dire",
+    "divergence",
+    "https",
+    "light",
+    "sweet",
+    "full",
+    "pdf",
+    "www.poten.com/light-sweet-dire-divergence",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 156,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_light_sweet_dire_divergence.md",
+  "source_url": "https://www.poten.com/light-sweet-dire-divergence/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence__s01_poten_tanker_opinion_light_sweet_dire_divergence",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence__root",
+      "title": "Poten Tanker Opinion: Light Sweet Dire Divergence",
+      "section_path": [
+        "Poten Tanker Opinion: Light Sweet Dire Divergence"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Light Sweet Dire Divergence",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/light-sweet-dire-divergence/](https://www.poten.com/light-sweet-dire-divergence/)\n**Full PDF Report**: [Tanker_Opinion_20110128.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110128.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110128.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/light-sweet-dire-divergence",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_light_sweet_dire_divergence__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Light Sweet Dire Divergence\nLight Sweet Dire Divergence",
+      "keywords": [
+        "dire",
+        "divergence",
+        "light",
+        "sweet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

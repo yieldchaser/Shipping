@@ -101,6 +101,7 @@ What will be the impact of the 60-day waiver? On March 18, 2026, the Trump admin
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-03-20
 **Source URL**: [https://www.poten.com/keeping-up-with-the-joneses-act/](https://www.poten.com/keeping-up-with-the-joneses-act/)
+**Full PDF Report**: [Weekly Opinion - 20 Mar 2026 - Keeping Up With The Joneses (Act).pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2020%20Mar%202026%20-%20Keeping%20Up%20With%20The%20Joneses%20(Act).pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

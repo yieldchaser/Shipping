@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Cloudy With a Chance of Rate Falls",
+  "section_path": [
+    "Poten Tanker Opinion: Cloudy With a Chance of Rate Falls"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Cloudy With a Chance of Rate Falls",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Cloudy With a Chance of Rate Falls\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/cloudy-with-a-chance-of-rate-falls-2/](https://www.poten.com/cloudy-with-a-chance-of-rate-falls-2/)\n**Full PDF Report**: [Weekly-Opinion-October-2-2015-Cloudy-With-a-Chance-of-Rate-Falls.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/10/Weekly-Opinion-October-2-2015-Cloudy-With-a-Chance-of-Rate-Falls.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-October-2-2015-Cloudy-With-a-Chance-of-Rate-Falls.pdf. Analysis & Overview\nCloudy With a Chance of Rate Falls\n2 Oct 2015: The impact of lower US production on the Jones Act. Flag tanker market has received a boost from the increase in domestic U.S.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "chance",
+    "cloudy",
+    "falls",
+    "full",
+    "oil",
+    "pdf",
+    "production",
+    "tight",
+    "u.s.",
+    "www.poten.com/cloudy-with-a-chance-of-rate-falls-2"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 292,
+  "source_path": "reports/poten/2015/poten_2015-01-01_cloudy_with_a_chance_of_rate_falls.md",
+  "source_url": "https://www.poten.com/cloudy-with-a-chance-of-rate-falls-2/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls__s01_poten_tanker_opinion_cloudy_with_a_chance_of_rate_falls",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls__root",
+      "title": "Poten Tanker Opinion: Cloudy With a Chance of Rate Falls",
+      "section_path": [
+        "Poten Tanker Opinion: Cloudy With a Chance of Rate Falls"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Cloudy With a Chance of Rate Falls",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/cloudy-with-a-chance-of-rate-falls-2/](https://www.poten.com/cloudy-with-a-chance-of-rate-falls-2/)\n**Full PDF Report**: [Weekly-Opinion-October-2-2015-Cloudy-With-a-Chance-of-Rate-Falls.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/10/Weekly-Opinion-October-2-2015-Cloudy-With-a-Chance-of-Rate-Falls.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-October-2-2015-Cloudy-With-a-Chance-of-Rate-Falls.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/cloudy-with-a-chance-of-rate-falls-2",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_cloudy_with_a_chance_of_rate_falls__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Cloudy With a Chance of Rate Falls\n2 Oct 2015: The impact of lower US production on the Jones Act. Flag tanker market has received a boost from the increase in domestic U.S.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "production",
+        "tight",
+        "u.s.",
+        "act.",
+        "bakken",
+        "basin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

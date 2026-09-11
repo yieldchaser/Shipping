@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Afra-Maxed Out",
+  "section_path": [
+    "Poten Tanker Opinion: Afra-Maxed Out"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Afra-Maxed Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Afra-Maxed Out\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/afra-maxed-out/](https://www.poten.com/afra-maxed-out/)\n**Full PDF Report**: [Weekly-Opinion-27-January-2017-Afra-Maxed-Out.pdf](http://www.poten.com/wp-content/uploads/2017/01/Weekly-Opinion-27-January-2017-Afra-Maxed-Out.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-27-January-2017-Afra-Maxed-Out.pdf. Analysis & Overview\nAfra-Maxed Out\nAfra-Maxed Out",
+  "keywords": [
+    "afra-maxed",
+    "out",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/afra-maxed-out",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 172,
+  "source_path": "reports/poten/2017/poten_2017-01-01_afra-maxed_out.md",
+  "source_url": "https://www.poten.com/afra-maxed-out/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out__s01_poten_tanker_opinion_afra_maxed_out",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out__root",
+      "title": "Poten Tanker Opinion: Afra-Maxed Out",
+      "section_path": [
+        "Poten Tanker Opinion: Afra-Maxed Out"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Afra-Maxed Out",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/afra-maxed-out/](https://www.poten.com/afra-maxed-out/)\n**Full PDF Report**: [Weekly-Opinion-27-January-2017-Afra-Maxed-Out.pdf](http://www.poten.com/wp-content/uploads/2017/01/Weekly-Opinion-27-January-2017-Afra-Maxed-Out.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-27-January-2017-Afra-Maxed-Out.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/afra-maxed-out",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_afra_maxed_out__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "afra-maxed",
+        "out"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

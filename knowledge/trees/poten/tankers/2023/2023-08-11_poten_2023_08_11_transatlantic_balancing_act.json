@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act__root",
+  "doc_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Transatlantic Balancing Act",
+  "section_path": [
+    "Poten Tanker Opinion: Transatlantic Balancing Act"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Transatlantic Balancing Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Transatlantic Balancing Act\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-08-11\n**Source URL**: [https://www.poten.com/tanker-opinions-transatlantic-balancing-act-august-11-2023/](https://www.poten.com/tanker-opinions-transatlantic-balancing-act-august-11-2023/)\n**Full PDF Report**: [Weekly Opinion - 11 August 2023 - Transatlantic Balancing Act.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2011%20August%202023%20-%20Transatlantic%20Balancing%20Act.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 11 August 2023 - Transatlantic Balancing Act.pdf. Analysis & Overview\nTransatlantic Balancing Act\nTransatlantic Balancing Act",
+  "keywords": [
+    "atlantic",
+    "balancing",
+    "transatlantic",
+    "opinion",
+    "act",
+    "august",
+    "https",
+    "act.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-transatlantic-balancing-act-august-11-2023",
+    "act.pdf."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 228,
+  "source_path": "reports/poten/2023/poten_2023-08-11_transatlantic_balancing_act.md",
+  "source_url": "https://www.poten.com/tanker-opinions-transatlantic-balancing-act-august-11-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act__s01_poten_tanker_opinion_transatlantic_balancing_act",
+      "doc_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act",
+      "parent_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act__root",
+      "title": "Poten Tanker Opinion: Transatlantic Balancing Act",
+      "section_path": [
+        "Poten Tanker Opinion: Transatlantic Balancing Act"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Transatlantic Balancing Act",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-08-11\n**Source URL**: [https://www.poten.com/tanker-opinions-transatlantic-balancing-act-august-11-2023/](https://www.poten.com/tanker-opinions-transatlantic-balancing-act-august-11-2023/)\n**Full PDF Report**: [Weekly Opinion - 11 August 2023 - Transatlantic Balancing Act.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2011%20August%202023%20-%20Transatlantic%20Balancing%20Act.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 11 August 2023 - Transatlantic Balancing Act.pdf.",
+      "keywords": [
+        "atlantic",
+        "august",
+        "balancing",
+        "https",
+        "opinion",
+        "transatlantic",
+        "act.pdf",
+        "full"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act",
+      "parent_id": "poten_tankers_2023-08-11_poten_2023_08_11_transatlantic_balancing_act__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Transatlantic Balancing Act\nTransatlantic Balancing Act",
+      "keywords": [
+        "atlantic",
+        "act",
+        "balancing",
+        "transatlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

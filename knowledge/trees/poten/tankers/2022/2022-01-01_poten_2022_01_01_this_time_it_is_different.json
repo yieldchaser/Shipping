@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: This Time it is Different",
+  "section_path": [
+    "Poten Tanker Opinion: This Time it is Different"
+  ],
+  "section_path_text": "Poten Tanker Opinion: This Time it is Different",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: This Time it is Different\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-july-29-2022-this-time-it-is-different/](https://www.poten.com/tanker-opinions-july-29-2022-this-time-it-is-different/)\n**Full PDF Report**: [Weekly-Opinion-29-July-2022-This-Time-it-is-Different.pdf](https://www.poten.com/wp-content/uploads/2022/07/Weekly-Opinion-29-July-2022-This-Time-it-is-Different.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-29-July-2022-This-Time-it-is-Different.pdf. Analysis & Overview\nThis Time it is Different\nThis Time it is Different",
+  "keywords": [
+    "different",
+    "https",
+    "time",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-july-29-2022-this-time-it-is-different",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 200,
+  "source_path": "reports/poten/2022/poten_2022-01-01_this_time_it_is_different.md",
+  "source_url": "https://www.poten.com/tanker-opinions-july-29-2022-this-time-it-is-different/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different__s01_poten_tanker_opinion_this_time_it_is_different",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different__root",
+      "title": "Poten Tanker Opinion: This Time it is Different",
+      "section_path": [
+        "Poten Tanker Opinion: This Time it is Different"
+      ],
+      "section_path_text": "Poten Tanker Opinion: This Time it is Different",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-july-29-2022-this-time-it-is-different/](https://www.poten.com/tanker-opinions-july-29-2022-this-time-it-is-different/)\n**Full PDF Report**: [Weekly-Opinion-29-July-2022-This-Time-it-is-Different.pdf](https://www.poten.com/wp-content/uploads/2022/07/Weekly-Opinion-29-July-2022-This-Time-it-is-Different.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-29-July-2022-This-Time-it-is-Different.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinions-july-29-2022-this-time-it-is-different",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_this_time_it_is_different__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This Time it is Different\nThis Time it is Different",
+      "keywords": [
+        "different",
+        "time"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

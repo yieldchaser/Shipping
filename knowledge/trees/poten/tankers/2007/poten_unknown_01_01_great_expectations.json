@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Great Expectations",
+  "section_path": [
+    "Poten Tanker Opinion: Great Expectations"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Great Expectations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Great Expectations\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/great-expectations/](https://www.poten.com/great-expectations/)\n**Full PDF Report**: [Tanker_Opinion_20070330.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20070330.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20070330.pdf. Analysis & Overview\nGreat Expectations\nGreat Expectations",
+  "keywords": [
+    "expectations",
+    "great",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/great-expectations",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 141,
+  "source_path": "reports/poten/2007/poten_unknown-01-01_great_expectations.md",
+  "source_url": "https://www.poten.com/great-expectations/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations__s01_poten_tanker_opinion_great_expectations",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations__root",
+      "title": "Poten Tanker Opinion: Great Expectations",
+      "section_path": [
+        "Poten Tanker Opinion: Great Expectations"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Great Expectations",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/great-expectations/](https://www.poten.com/great-expectations/)\n**Full PDF Report**: [Tanker_Opinion_20070330.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20070330.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20070330.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/great-expectations",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_great_expectations__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "expectations",
+        "great"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

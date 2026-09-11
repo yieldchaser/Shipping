@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Non OPEC Non US No Problem",
+  "section_path": [
+    "Poten Tanker Opinion: Non OPEC Non US No Problem"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Non OPEC Non US No Problem",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Non OPEC Non US No Problem\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/non-opec-non-us-no-problem/](https://www.poten.com/non-opec-non-us-no-problem/)\n**Full PDF Report**: [Weekly-Opinion-19-Jan-2018-Non-OPEC-Non-US-No-Problem.pdf](http://www.poten.com/wp-content/uploads/2018/01/Weekly-Opinion-19-Jan-2018-Non-OPEC-Non-US-No-Problem.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-19-Jan-2018-Non-OPEC-Non-US-No-Problem.pdf. Analysis & Overview\nNon OPEC Non US No Problem\nNon OPEC Non US No Problem",
+  "keywords": [
+    "crude_oil",
+    "non",
+    "opec",
+    "problem",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/non-opec-non-us-no-problem",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 194,
+  "source_path": "reports/poten/2018/poten_2018-01-01_non_opec_non_us_no_problem.md",
+  "source_url": "https://www.poten.com/non-opec-non-us-no-problem/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem__s01_poten_tanker_opinion_non_opec_non_us_no_problem",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem__root",
+      "title": "Poten Tanker Opinion: Non OPEC Non US No Problem",
+      "section_path": [
+        "Poten Tanker Opinion: Non OPEC Non US No Problem"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Non OPEC Non US No Problem",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/non-opec-non-us-no-problem/](https://www.poten.com/non-opec-non-us-no-problem/)\n**Full PDF Report**: [Weekly-Opinion-19-Jan-2018-Non-OPEC-Non-US-No-Problem.pdf](http://www.poten.com/wp-content/uploads/2018/01/Weekly-Opinion-19-Jan-2018-Non-OPEC-Non-US-No-Problem.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-19-Jan-2018-Non-OPEC-Non-US-No-Problem.pdf.",
+      "keywords": [
+        "crude_oil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/non-opec-non-us-no-problem",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_non_opec_non_us_no_problem__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Non OPEC Non US No Problem\nNon OPEC Non US No Problem",
+      "keywords": [
+        "crude_oil",
+        "non",
+        "opec",
+        "problem"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

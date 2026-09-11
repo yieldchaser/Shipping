@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Dark Days Before Christmas",
+  "section_path": [
+    "Poten Tanker Opinion: The Dark Days Before Christmas"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Dark Days Before Christmas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Dark Days Before Christmas\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/dark-days-christmas/](https://www.poten.com/dark-days-christmas/)\n**Full PDF Report**: [Weekly-Opinion-9-December-2016-The-Dark-Days-Before-Christmas.pdf](http://www.poten.com/wp-content/uploads/2016/12/Weekly-Opinion-9-December-2016-The-Dark-Days-Before-Christmas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-9-December-2016-The-Dark-Days-Before-Christmas.pdf. Analysis & Overview\nThe Dark Days Before Christmas\n09 December 2016: Â Clouds have been gathering above the tanker market for some time now.Â The orderbook for delivery in 2017, particularly for crude oil tankers, is high and the prospects for oil demand growth have been muted.Â The recently announced OPEC production cuts came on top of that. Â In previous years, China has been...",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "before",
+    "christmas",
+    "dark",
+    "days",
+    "full",
+    "https",
+    "oil",
+    "pdf",
+    "www.poten.com/dark-days-christmas",
+    "above"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 262,
+  "source_path": "reports/poten/2016/poten_2016-01-01_the_dark_days_before_christmas.md",
+  "source_url": "https://www.poten.com/dark-days-christmas/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas__s01_poten_tanker_opinion_the_dark_days_before_christmas",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas__root",
+      "title": "Poten Tanker Opinion: The Dark Days Before Christmas",
+      "section_path": [
+        "Poten Tanker Opinion: The Dark Days Before Christmas"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Dark Days Before Christmas",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/dark-days-christmas/](https://www.poten.com/dark-days-christmas/)\n**Full PDF Report**: [Weekly-Opinion-9-December-2016-The-Dark-Days-Before-Christmas.pdf](http://www.poten.com/wp-content/uploads/2016/12/Weekly-Opinion-9-December-2016-The-Dark-Days-Before-Christmas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-9-December-2016-The-Dark-Days-Before-Christmas.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/dark-days-christmas",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_the_dark_days_before_christmas__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Dark Days Before Christmas\n09 December 2016: Â Clouds have been gathering above the tanker market for some time now.Â The orderbook for delivery in 2017, particularly for crude oil tankers, is high and the prospects for oil demand growth have been muted.Â The recently announced OPEC production cuts came on top of that. Â In previous years, China has been...",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "above",
+        "announced",
+        "been...",
+        "before",
+        "came"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

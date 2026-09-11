@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Storage Story",
+  "section_path": [
+    "Poten Tanker Opinion: The Storage Story"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Storage Story",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Storage Story\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-storage-story/](https://www.poten.com/the-storage-story/)\n**Full PDF Report**: [Tanker_Opinion_20100212.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20100212.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20100212.pdf. Analysis & Overview\nThe Storage Story\nThe Storage Story",
+  "keywords": [
+    "https",
+    "storage",
+    "story",
+    "full",
+    "pdf",
+    "www.poten.com/the-storage-story",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 137,
+  "source_path": "reports/poten/2010/poten_unknown-01-01_the_storage_story.md",
+  "source_url": "https://www.poten.com/the-storage-story/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story__s01_poten_tanker_opinion_the_storage_story",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story__root",
+      "title": "Poten Tanker Opinion: The Storage Story",
+      "section_path": [
+        "Poten Tanker Opinion: The Storage Story"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Storage Story",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-storage-story/](https://www.poten.com/the-storage-story/)\n**Full PDF Report**: [Tanker_Opinion_20100212.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20100212.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20100212.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/the-storage-story",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_storage_story__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Storage Story\nThe Storage Story",
+      "keywords": [
+        "storage",
+        "story"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

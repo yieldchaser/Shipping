@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Putin's Rate Hike",
+  "section_path": [
+    "Poten Tanker Opinion: Putin's Rate Hike"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Putin's Rate Hike",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Putin's Rate Hike\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-21-october-2022-putins-rate-hike/](https://www.poten.com/tanker-opinion-21-october-2022-putins-rate-hike/)\n**Full PDF Report**: [Weekly-Opinion-21-October-2022-Putins-Rate-Hike.pdf](https://www.poten.com/wp-content/uploads/2022/10/Weekly-Opinion-21-October-2022-Putins-Rate-Hike.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-21-October-2022-Putins-Rate-Hike.pdf. Analysis & Overview\nPutin's Rate Hike\nPutin's Rate Hike",
+  "keywords": [
+    "hike",
+    "https",
+    "putin",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-21-october-2022-putins-rate-hike",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 202,
+  "source_path": "reports/poten/2022/poten_2022-01-01_putin_s_rate_hike.md",
+  "source_url": "https://www.poten.com/tanker-opinion-21-october-2022-putins-rate-hike/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike__s01_poten_tanker_opinion_putin_s_rate_hike",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike__root",
+      "title": "Poten Tanker Opinion: Putin's Rate Hike",
+      "section_path": [
+        "Poten Tanker Opinion: Putin's Rate Hike"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Putin's Rate Hike",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-21-october-2022-putins-rate-hike/](https://www.poten.com/tanker-opinion-21-october-2022-putins-rate-hike/)\n**Full PDF Report**: [Weekly-Opinion-21-October-2022-Putins-Rate-Hike.pdf](https://www.poten.com/wp-content/uploads/2022/10/Weekly-Opinion-21-October-2022-Putins-Rate-Hike.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-21-October-2022-Putins-Rate-Hike.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-21-october-2022-putins-rate-hike",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_putin_s_rate_hike__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Putin's Rate Hike\nPutin's Rate Hike",
+      "keywords": [
+        "hike",
+        "putin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal__root",
+  "doc_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Art Of The Iran Nuclear Deal",
+  "section_path": [
+    "Poten Tanker Opinion: The Art Of The Iran Nuclear Deal"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Art Of The Iran Nuclear Deal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Art Of The Iran Nuclear Deal\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-05-16\n**Source URL**: [https://www.poten.com/the-art-of-the-iran-nuclear-deal/](https://www.poten.com/the-art-of-the-iran-nuclear-deal/)\n**Full PDF Report**: [Weekly Opinion - 16 May 2025 - The Art Of The Iran Nuclear Deal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2016%20May%202025%20-%20The%20Art%20Of%20The%20Iran%20Nuclear%20Deal.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 16 May 2025 - The Art Of The Iran Nuclear Deal.pdf. Analysis & Overview\nThe Art Of The Iran Nuclear Deal\nThe Art Of The Iran Nuclear Deal",
+  "keywords": [
+    "art",
+    "iran",
+    "nuclear",
+    "opinion",
+    "deal",
+    "https",
+    "may",
+    "deal.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/the-art-of-the-iran-nuclear-deal",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 225,
+  "source_path": "reports/poten/2025/poten_2025-05-16_the_art_of_the_iran_nuclear_deal.md",
+  "source_url": "https://www.poten.com/the-art-of-the-iran-nuclear-deal/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal__s01_poten_tanker_opinion_the_art_of_the_iran_nuclear_deal",
+      "doc_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal",
+      "parent_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal__root",
+      "title": "Poten Tanker Opinion: The Art Of The Iran Nuclear Deal",
+      "section_path": [
+        "Poten Tanker Opinion: The Art Of The Iran Nuclear Deal"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Art Of The Iran Nuclear Deal",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-05-16\n**Source URL**: [https://www.poten.com/the-art-of-the-iran-nuclear-deal/](https://www.poten.com/the-art-of-the-iran-nuclear-deal/)\n**Full PDF Report**: [Weekly Opinion - 16 May 2025 - The Art Of The Iran Nuclear Deal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2016%20May%202025%20-%20The%20Art%20Of%20The%20Iran%20Nuclear%20Deal.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 16 May 2025 - The Art Of The Iran Nuclear Deal.pdf.",
+      "keywords": [
+        "art",
+        "https",
+        "iran",
+        "may",
+        "nuclear",
+        "opinion",
+        "deal.pdf",
+        "full"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal",
+      "parent_id": "poten_tankers_2025-05-16_poten_2025_05_16_the_art_of_the_iran_nuclear_deal__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Art Of The Iran Nuclear Deal\nThe Art Of The Iran Nuclear Deal",
+      "keywords": [
+        "art",
+        "deal",
+        "iran",
+        "nuclear"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Mission Impossible",
+  "section_path": [
+    "Poten Tanker Opinion: Mission Impossible"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Mission Impossible",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Mission Impossible\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-july-10-2020/](https://www.poten.com/tanker-opinion-july-10-2020/)\n**Full PDF Report**: [Weekly-Opinion-10-July-2020-Mission-Impossible.pdf](http://www.poten.com/wp-content/uploads/2020/07/Weekly-Opinion-10-July-2020-Mission-Impossible.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-10-July-2020-Mission-Impossible.pdf. Analysis & Overview\nMission Impossible\nMission Impossible",
+  "keywords": [
+    "impossible",
+    "mission",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/tanker-opinion-july-10-2020",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 170,
+  "source_path": "reports/poten/2020/poten_2020-01-01_mission_impossible.md",
+  "source_url": "https://www.poten.com/tanker-opinion-july-10-2020/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible__s01_poten_tanker_opinion_mission_impossible",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible__root",
+      "title": "Poten Tanker Opinion: Mission Impossible",
+      "section_path": [
+        "Poten Tanker Opinion: Mission Impossible"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Mission Impossible",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-july-10-2020/](https://www.poten.com/tanker-opinion-july-10-2020/)\n**Full PDF Report**: [Weekly-Opinion-10-July-2020-Mission-Impossible.pdf](http://www.poten.com/wp-content/uploads/2020/07/Weekly-Opinion-10-July-2020-Mission-Impossible.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-10-July-2020-Mission-Impossible.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/tanker-opinion-july-10-2020",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_mission_impossible__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "impossible",
+        "mission"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

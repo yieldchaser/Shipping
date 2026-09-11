@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: What Slowdown",
+  "section_path": [
+    "Poten Tanker Opinion: What Slowdown"
+  ],
+  "section_path_text": "Poten Tanker Opinion: What Slowdown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: What Slowdown\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/what-slowdown/](https://www.poten.com/what-slowdown/)\n**Full PDF Report**: [Weekly-Opinion-19-May-2017-What-Slowdown.pdf](http://www.poten.com/wp-content/uploads/2017/05/Weekly-Opinion-19-May-2017-What-Slowdown.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-19-May-2017-What-Slowdown.pdf. Analysis & Overview\nWhat Slowdown\n19 May 2017: Â Since the early years of this century, China has been the growth engine of the bulk shipping markets.Â In recent years, Chinaâ€™s annual growth rates have slowed from the heady double digit levels that were not unusual 10 years ago.Â However, since the countryâ€™s absolute demand levels are so much higher, Chinaâ€™s...",
+  "keywords": [
+    "china",
+    "years",
+    "full",
+    "growth",
+    "https",
+    "levels",
+    "pdf",
+    "since",
+    "slowdown",
+    "what",
+    "www.poten.com/what-slowdown",
+    "absolute"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 244,
+  "source_path": "reports/poten/2017/poten_2017-01-01_what_slowdown.md",
+  "source_url": "https://www.poten.com/what-slowdown/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown__s01_poten_tanker_opinion_what_slowdown",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown__root",
+      "title": "Poten Tanker Opinion: What Slowdown",
+      "section_path": [
+        "Poten Tanker Opinion: What Slowdown"
+      ],
+      "section_path_text": "Poten Tanker Opinion: What Slowdown",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/what-slowdown/](https://www.poten.com/what-slowdown/)\n**Full PDF Report**: [Weekly-Opinion-19-May-2017-What-Slowdown.pdf](http://www.poten.com/wp-content/uploads/2017/05/Weekly-Opinion-19-May-2017-What-Slowdown.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-19-May-2017-What-Slowdown.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/what-slowdown",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_what_slowdown__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "What Slowdown\n19 May 2017: Â Since the early years of this century, China has been the growth engine of the bulk shipping markets.Â In recent years, Chinaâ€™s annual growth rates have slowed from the heady double digit levels that were not unusual 10 years ago.Â However, since the countryâ€™s absolute demand levels are so much higher, Chinaâ€™s...",
+      "keywords": [
+        "china",
+        "years",
+        "growth",
+        "levels",
+        "since",
+        "absolute",
+        "ago.",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

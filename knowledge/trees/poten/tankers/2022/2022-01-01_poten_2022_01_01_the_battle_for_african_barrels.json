@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Battle For African Barrels",
+  "section_path": [
+    "Poten Tanker Opinion: The Battle For African Barrels"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Battle For African Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Battle For African Barrels\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-october-14-2022-the-battle-for-african-barrels/](https://www.poten.com/tanker-opinion-october-14-2022-the-battle-for-african-barrels/)\n**Full PDF Report**: [Weekly-Opinion-14-October-2022-The-Battle-For-African-Barrels.pdf](https://www.poten.com/wp-content/uploads/2022/10/Weekly-Opinion-14-October-2022-The-Battle-For-African-Barrels.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-14-October-2022-The-Battle-For-African-Barrels.pdf. Analysis & Overview\nThe Battle For African Barrels\nThe Battle For African Barrels",
+  "keywords": [
+    "african",
+    "barrels",
+    "battle",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-october-14-2022-the-battle-for-african-barrels",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 215,
+  "source_path": "reports/poten/2022/poten_2022-01-01_the_battle_for_african_barrels.md",
+  "source_url": "https://www.poten.com/tanker-opinion-october-14-2022-the-battle-for-african-barrels/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels__s01_poten_tanker_opinion_the_battle_for_african_barrels",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels__root",
+      "title": "Poten Tanker Opinion: The Battle For African Barrels",
+      "section_path": [
+        "Poten Tanker Opinion: The Battle For African Barrels"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Battle For African Barrels",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-october-14-2022-the-battle-for-african-barrels/](https://www.poten.com/tanker-opinion-october-14-2022-the-battle-for-african-barrels/)\n**Full PDF Report**: [Weekly-Opinion-14-October-2022-The-Battle-For-African-Barrels.pdf](https://www.poten.com/wp-content/uploads/2022/10/Weekly-Opinion-14-October-2022-The-Battle-For-African-Barrels.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-14-October-2022-The-Battle-For-African-Barrels.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-october-14-2022-the-battle-for-african-barrels",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_battle_for_african_barrels__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Battle For African Barrels\nThe Battle For African Barrels",
+      "keywords": [
+        "african",
+        "barrels",
+        "battle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

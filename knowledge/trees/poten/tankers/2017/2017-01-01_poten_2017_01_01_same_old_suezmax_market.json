@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Same Old Suezmax Market",
+  "section_path": [
+    "Poten Tanker Opinion: Same Old Suezmax Market"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Same Old Suezmax Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Same Old Suezmax Market\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/old-suezmax-market/](https://www.poten.com/old-suezmax-market/)\n**Full PDF Report**: [Weekly-Opinion-18-August-2017-Same-Old-Suezmax-Market.pdf](http://www.poten.com/wp-content/uploads/2017/08/Weekly-Opinion-18-August-2017-Same-Old-Suezmax-Market.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-18-August-2017-Same-Old-Suezmax-Market.pdf. Analysis & Overview\nSame Old Suezmax Market\n18 Aug 2017: Â Poten monitors the Suezmax market for its customers on an ongoing basis.Â Our Suezmax desk looks at the tonnage profile, reviews the ships that are open in the next 30-day window as well as the overhang (ships before the window) in each of the four main loading zones that they follow in...",
+  "keywords": [
+    "suezmax",
+    "full",
+    "https",
+    "old",
+    "pdf",
+    "poten",
+    "same",
+    "ships",
+    "window",
+    "www.poten.com/old-suezmax-market",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 261,
+  "source_path": "reports/poten/2017/poten_2017-01-01_same_old_suezmax_market.md",
+  "source_url": "https://www.poten.com/old-suezmax-market/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market__s01_poten_tanker_opinion_same_old_suezmax_market",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market__root",
+      "title": "Poten Tanker Opinion: Same Old Suezmax Market",
+      "section_path": [
+        "Poten Tanker Opinion: Same Old Suezmax Market"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Same Old Suezmax Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/old-suezmax-market/](https://www.poten.com/old-suezmax-market/)\n**Full PDF Report**: [Weekly-Opinion-18-August-2017-Same-Old-Suezmax-Market.pdf](http://www.poten.com/wp-content/uploads/2017/08/Weekly-Opinion-18-August-2017-Same-Old-Suezmax-Market.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-18-August-2017-Same-Old-Suezmax-Market.pdf.",
+      "keywords": [
+        "suezmax",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/old-suezmax-market",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_same_old_suezmax_market__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Same Old Suezmax Market\n18 Aug 2017: Â Poten monitors the Suezmax market for its customers on an ongoing basis.Â Our Suezmax desk looks at the tonnage profile, reviews the ships that are open in the next 30-day window as well as the overhang (ships before the window) in each of the four main loading zones that they follow in...",
+      "keywords": [
+        "suezmax",
+        "ships",
+        "window",
+        "are",
+        "aug",
+        "basis.",
+        "before",
+        "customers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Case of the Missing Aframaxes",
+  "section_path": [
+    "Poten Tanker Opinion: The Case of the Missing Aframaxes"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Case of the Missing Aframaxes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Case of the Missing Aframaxes\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-case-of-the-missing-aframaxes/](https://www.poten.com/the-case-of-the-missing-aframaxes/)\n**Full PDF Report**: [Tanker_Opinion_20040528.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040528.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040528.pdf. Analysis & Overview\nThe Case of the Missing Aframaxes\nThe Case of the Missing Aframaxes",
+  "keywords": [
+    "aframax",
+    "aframaxes",
+    "case",
+    "https",
+    "missing",
+    "full",
+    "pdf",
+    "www.poten.com/the-case-of-the-missing-aframaxes",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 164,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_the_case_of_the_missing_aframaxes.md",
+  "source_url": "https://www.poten.com/the-case-of-the-missing-aframaxes/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes__s01_poten_tanker_opinion_the_case_of_the_missing_aframaxes",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes__root",
+      "title": "Poten Tanker Opinion: The Case of the Missing Aframaxes",
+      "section_path": [
+        "Poten Tanker Opinion: The Case of the Missing Aframaxes"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Case of the Missing Aframaxes",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-case-of-the-missing-aframaxes/](https://www.poten.com/the-case-of-the-missing-aframaxes/)\n**Full PDF Report**: [Tanker_Opinion_20040528.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040528.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040528.pdf.",
+      "keywords": [
+        "aframax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/the-case-of-the-missing-aframaxes",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_case_of_the_missing_aframaxes__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Case of the Missing Aframaxes\nThe Case of the Missing Aframaxes",
+      "keywords": [
+        "aframax",
+        "aframaxes",
+        "case",
+        "missing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Challenge Or Opportunity",
+  "section_path": [
+    "Poten Tanker Opinion: Challenge Or Opportunity"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Challenge Or Opportunity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Challenge Or Opportunity\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/challenge-or-opportunity/](https://www.poten.com/challenge-or-opportunity/)\n**Full PDF Report**: [Weekly-Opinion-15-November-2019-Challenge-Or-Opportunity.pdf](http://www.poten.com/wp-content/uploads/2019/11/Weekly-Opinion-15-November-2019-Challenge-Or-Opportunity.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-15-November-2019-Challenge-Or-Opportunity.pdf. Analysis & Overview\nChallenge Or Opportunity\n15 Nov 2019:Â Mixed Outlook for Refiners as a Result of IMO 2020 Analysts expect that the implementation of the IMO 2020 sulfur regulations will lead to significant changes in trade flows as refiners worldwide adjust both their crude intake as well as their product output. For sophisticated (â€œcomplexâ€�) refineries with significant upgrade capacity, it...",
+  "keywords": [
+    "challenge",
+    "full",
+    "https",
+    "imo",
+    "opportunity",
+    "pdf",
+    "refiners",
+    "significant",
+    "www.poten.com/challenge-or-opportunity",
+    "adjust",
+    "analysis",
+    "analysts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 250,
+  "source_path": "reports/poten/2019/poten_2019-01-01_challenge_or_opportunity.md",
+  "source_url": "https://www.poten.com/challenge-or-opportunity/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity__s01_poten_tanker_opinion_challenge_or_opportunity",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity__root",
+      "title": "Poten Tanker Opinion: Challenge Or Opportunity",
+      "section_path": [
+        "Poten Tanker Opinion: Challenge Or Opportunity"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Challenge Or Opportunity",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/challenge-or-opportunity/](https://www.poten.com/challenge-or-opportunity/)\n**Full PDF Report**: [Weekly-Opinion-15-November-2019-Challenge-Or-Opportunity.pdf](http://www.poten.com/wp-content/uploads/2019/11/Weekly-Opinion-15-November-2019-Challenge-Or-Opportunity.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-15-November-2019-Challenge-Or-Opportunity.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/challenge-or-opportunity",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_challenge_or_opportunity__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Challenge Or Opportunity\n15 Nov 2019:Â Mixed Outlook for Refiners as a Result of IMO 2020 Analysts expect that the implementation of the IMO 2020 sulfur regulations will lead to significant changes in trade flows as refiners worldwide adjust both their crude intake as well as their product output. For sophisticated (â€œcomplexâ€�) refineries with significant upgrade capacity, it...",
+      "keywords": [
+        "imo",
+        "refiners",
+        "significant",
+        "adjust",
+        "analysts",
+        "both",
+        "capacity",
+        "challenge"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

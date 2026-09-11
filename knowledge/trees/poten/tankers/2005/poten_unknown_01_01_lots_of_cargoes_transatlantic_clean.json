@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Lots of Cargoes Transatlantic Clean",
+  "section_path": [
+    "Poten Tanker Opinion: Lots of Cargoes Transatlantic Clean"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Lots of Cargoes Transatlantic Clean",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Lots of Cargoes Transatlantic Clean\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/lots-of-cargoes-transatlantic-clean/](https://www.poten.com/lots-of-cargoes-transatlantic-clean/)\n**Full PDF Report**: [Tanker_Opinion_20051118.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20051118.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20051118.pdf. Analysis & Overview\nLots of Cargoes Transatlantic Clean\nLots of Cargoes Transatlantic Clean",
+  "keywords": [
+    "atlantic",
+    "cargoes",
+    "clean",
+    "https",
+    "lots",
+    "transatlantic",
+    "full",
+    "pdf",
+    "www.poten.com/lots-of-cargoes-transatlantic-clean",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 169,
+  "source_path": "reports/poten/2005/poten_unknown-01-01_lots_of_cargoes_transatlantic_clean.md",
+  "source_url": "https://www.poten.com/lots-of-cargoes-transatlantic-clean/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean__s01_poten_tanker_opinion_lots_of_cargoes_transatlantic_clean",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean__root",
+      "title": "Poten Tanker Opinion: Lots of Cargoes Transatlantic Clean",
+      "section_path": [
+        "Poten Tanker Opinion: Lots of Cargoes Transatlantic Clean"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Lots of Cargoes Transatlantic Clean",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/lots-of-cargoes-transatlantic-clean/](https://www.poten.com/lots-of-cargoes-transatlantic-clean/)\n**Full PDF Report**: [Tanker_Opinion_20051118.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20051118.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20051118.pdf.",
+      "keywords": [
+        "atlantic",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/lots-of-cargoes-transatlantic-clean",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_lots_of_cargoes_transatlantic_clean__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Lots of Cargoes Transatlantic Clean\nLots of Cargoes Transatlantic Clean",
+      "keywords": [
+        "atlantic",
+        "cargoes",
+        "clean",
+        "lots",
+        "transatlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

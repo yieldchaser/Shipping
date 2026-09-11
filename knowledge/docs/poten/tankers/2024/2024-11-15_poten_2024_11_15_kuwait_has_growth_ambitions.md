@@ -1,0 +1,105 @@
+---
+category: tankers
+commodities:
+- crude_oil
+- products
+date: '2024-11-15'
+doc_id: poten_tankers_2024-11-15_poten_2024_11_15_kuwait_has_growth_ambitions
+document_type: analyst_opinion
+is_error_page: false
+key_entities: []
+keywords:
+- opinion
+- ambitions
+- fill
+- growth
+- https
+- kuwait
+- nov
+- full
+- pdf
+- up.pdf
+- www.poten.com/kuwait-has-growth-ambitions
+- analysis
+market_tone: neutral
+numeric_observation_count: 2
+numeric_observations:
+- section: 'Poten Tanker Opinion: Kuwait Has Growth Ambitions'
+  section_type: null
+  source_line: '**Published Date**: 2024-11-15'
+  unit: null
+  values:
+  - 2024.0
+  - -11.0
+  - -15.0
+- section: 'Poten Tanker Opinion: Kuwait Has Growth Ambitions'
+  section_type: null
+  source_line: '**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly
+    Opinion - 15 Nov 2024 - Fill It Up.pdf.'
+  unit: null
+  values:
+  - 2024.0
+  - 15.0
+  - 2024.0
+regions:
+- meg
+- china
+- atlantic
+- pacific
+- europe
+section_count: 2
+signals: {}
+source: poten
+source_path: reports/poten/2024/poten_2024-11-15_kuwait_has_growth_ambitions.md
+source_stem: poten_2024-11-15_kuwait_has_growth_ambitions
+source_url: https://www.poten.com/kuwait-has-growth-ambitions/
+summary: 'Poten Tanker Opinion: Kuwait Has Growth Ambitions
+
+  **Author**: Erik Broekhuizen
+
+  **Published Date**: 2024-11-15
+
+  **Source URL**: [https://www.poten.com/kuwait-has-growth-ambitions/](https://www.poten.com/kuwait-has-growth-ambitions/)
+
+  **Full PDF Report**: [Weekly Opinion - 15 Nov 2024 - Fill It Up.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2015%20Nov%202024%20-%20Fill%20It%20Up.pdf)
+
+  **Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion
+  - 15 Nov 2024 - Fill It Up.pdf. Analysis & Overview
+
+  Kuwait Has Growth Ambitions
+
+  Kuwait Has Growth Ambitions'
+themes:
+- opinion
+- ambitions
+- fill
+- growth
+- https
+- kuwait
+title: 'Poten Tanker Opinion: Kuwait Has Growth Ambitions'
+vessel_classes:
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Poten Tanker Opinion: Kuwait Has Growth Ambitions
+**Author**: Erik Broekhuizen
+**Published Date**: 2024-11-15
+**Source URL**: [https://www.poten.com/kuwait-has-growth-ambitions/](https://www.poten.com/kuwait-has-growth-ambitions/)
+**Full PDF Report**: [Weekly Opinion - 15 Nov 2024 - Fill It Up.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2015%20Nov%202024%20-%20Fill%20It%20Up.pdf)
+**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 15 Nov 2024 - Fill It Up.pdf. Analysis & Overview
+Kuwait Has Growth Ambitions
+Kuwait Has Growth Ambitions
+
+## Poten Tanker Opinion: Kuwait Has Growth Ambitions
+**Author**: Erik Broekhuizen
+**Published Date**: 2024-11-15
+**Source URL**: [https://www.poten.com/kuwait-has-growth-ambitions/](https://www.poten.com/kuwait-has-growth-ambitions/)
+**Full PDF Report**: [Weekly Opinion - 15 Nov 2024 - Fill It Up.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2015%20Nov%202024%20-%20Fill%20It%20Up.pdf)
+**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 15 Nov 2024 - Fill It Up.pdf.
+
+## Analysis & Overview
+Kuwait Has Growth Ambitions
+Kuwait Has Growth Ambitions

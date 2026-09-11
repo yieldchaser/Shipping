@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 296,
+  "token_count": 378,
   "source_path": "reports/poten/2026/poten_2026-05-22_let_s_try_that_again.md",
   "source_url": "https://www.poten.com/lets-try-that-again/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Let's Try That Again",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-22\n**Source URL**: [https://www.poten.com/lets-try-that-again/](https://www.poten.com/lets-try-that-again/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-22\n**Source URL**: [https://www.poten.com/lets-try-that-again/](https://www.poten.com/lets-try-that-again/)\n**Full PDF Report**: [Weekly Opinion - 22 May 2026 - Lets Try That Again.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2022%20May%202026%20-%20Lets%20Try%20That%20Again.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
+        "again.pdf",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/lets-try-that-again",
-        "analysis",
-        "archived"
+        "lets",
+        "may",
+        "opinion",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 93,
+      "token_count": 175,
       "section_type": null,
       "children": []
     },

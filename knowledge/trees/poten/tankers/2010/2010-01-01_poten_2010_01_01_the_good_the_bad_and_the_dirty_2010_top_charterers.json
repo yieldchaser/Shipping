@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers__root",
+  "doc_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Good, the Bad, and the Dirty 2010 Top Charterers",
+  "section_path": [
+    "Poten Tanker Opinion: The Good, the Bad, and the Dirty 2010 Top Charterers"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Good, the Bad, and the Dirty 2010 Top Charterers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Good, the Bad, and the Dirty 2010 Top Charterers\n**Author**: Erik Broekhuizen\n**Published Date**: 2010-01-01\n**Source URL**: [https://www.poten.com/the-good-the-bad-and-the-dirty-2010-top-charterers/](https://www.poten.com/the-good-the-bad-and-the-dirty-2010-top-charterers/)\n**Full PDF Report**: [Tanker_Opinion_20110107.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110107.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2010/Tanker_Opinion_20110107.pdf. Analysis & Overview\nThe Good, the Bad, and the Dirty 2010 Top Charterers\nThe Good, the Bad, and the Dirty 2010 Top Charterers",
+  "keywords": [
+    "bad",
+    "charterers",
+    "dirty",
+    "good",
+    "https",
+    "top",
+    "full",
+    "pdf",
+    "www.poten.com/the-good-the-bad-and-the-dirty-2010-top-charterers",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 202,
+  "source_path": "reports/poten/2011/poten_2010-01-01_the_good_the_bad_and_the_dirty_2010_top_charterers.md",
+  "source_url": "https://www.poten.com/the-good-the-bad-and-the-dirty-2010-top-charterers/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers__s01_poten_tanker_opinion_the_good_the_bad_and_the_dirty_2010_top_charterers",
+      "doc_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers",
+      "parent_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers__root",
+      "title": "Poten Tanker Opinion: The Good, the Bad, and the Dirty 2010 Top Charterers",
+      "section_path": [
+        "Poten Tanker Opinion: The Good, the Bad, and the Dirty 2010 Top Charterers"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Good, the Bad, and the Dirty 2010 Top Charterers",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2010-01-01\n**Source URL**: [https://www.poten.com/the-good-the-bad-and-the-dirty-2010-top-charterers/](https://www.poten.com/the-good-the-bad-and-the-dirty-2010-top-charterers/)\n**Full PDF Report**: [Tanker_Opinion_20110107.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110107.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2010/Tanker_Opinion_20110107.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/the-good-the-bad-and-the-dirty-2010-top-charterers",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers__s02_analysis_overview",
+      "doc_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers",
+      "parent_id": "poten_tankers_2010-01-01_poten_2010_01_01_the_good_the_bad_and_the_dirty_2010_top_charterers__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Good, the Bad, and the Dirty 2010 Top Charterers\nThe Good, the Bad, and the Dirty 2010 Top Charterers",
+      "keywords": [
+        "bad",
+        "charterers",
+        "dirty",
+        "good",
+        "top"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

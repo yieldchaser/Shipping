@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Coming Clean Down Under",
+  "section_path": [
+    "Poten Tanker Opinion: Coming Clean Down Under"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Coming Clean Down Under",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Coming Clean Down Under\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/coming-clean-down-under/](https://www.poten.com/coming-clean-down-under/)\n**Full PDF Report**: [Tanker_Opinion_20150327.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/03/Tanker_Opinion_20150327.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20150327.pdf. Analysis & Overview\nComing Clean Down Under\n27 Mar 2015: Australian refinery closures increase product tanker demand.Â In recent years, a number of oil companies operating in the Australian market have decided to close their least efficient refineries and import products to satisfy demand. Today, Chevron announced to divest its 50% shareholding in Caltex Australia which owns the 109 thousand barrels per day...",
+  "keywords": [
+    "australia",
+    "crude_oil",
+    "products",
+    "https",
+    "australian",
+    "clean",
+    "coming",
+    "demand.",
+    "down",
+    "full",
+    "pdf",
+    "www.poten.com/coming-clean-down-under"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 218,
+  "source_path": "reports/poten/2015/poten_unknown-01-01_coming_clean_down_under.md",
+  "source_url": "https://www.poten.com/coming-clean-down-under/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under__s01_poten_tanker_opinion_coming_clean_down_under",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under__root",
+      "title": "Poten Tanker Opinion: Coming Clean Down Under",
+      "section_path": [
+        "Poten Tanker Opinion: Coming Clean Down Under"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Coming Clean Down Under",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/coming-clean-down-under/](https://www.poten.com/coming-clean-down-under/)\n**Full PDF Report**: [Tanker_Opinion_20150327.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/03/Tanker_Opinion_20150327.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20150327.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/coming-clean-down-under",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_coming_clean_down_under__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Coming Clean Down Under\n27 Mar 2015: Australian refinery closures increase product tanker demand.Â In recent years, a number of oil companies operating in the Australian market have decided to close their least efficient refineries and import products to satisfy demand. Today, Chevron announced to divest its 50% shareholding in Caltex Australia which owns the 109 thousand barrels per day...",
+      "keywords": [
+        "australia",
+        "crude_oil",
+        "products",
+        "australian",
+        "demand.",
+        "announced",
+        "barrels",
+        "caltex"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

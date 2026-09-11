@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Thinking Outside the Triangle",
+  "section_path": [
+    "Poten Tanker Opinion: Thinking Outside the Triangle"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Thinking Outside the Triangle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Thinking Outside the Triangle\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/thinking-outside-the-triangle/](https://www.poten.com/thinking-outside-the-triangle/)\n**Full PDF Report**: [Tanker_Opinion_20140417.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140417.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140417.pdf. Analysis & Overview\nThinking Outside the Triangle\nThinking Outside the Triangle",
+  "keywords": [
+    "https",
+    "outside",
+    "thinking",
+    "triangle",
+    "full",
+    "pdf",
+    "www.poten.com/thinking-outside-the-triangle",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 148,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_thinking_outside_the_triangle.md",
+  "source_url": "https://www.poten.com/thinking-outside-the-triangle/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle__s01_poten_tanker_opinion_thinking_outside_the_triangle",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle__root",
+      "title": "Poten Tanker Opinion: Thinking Outside the Triangle",
+      "section_path": [
+        "Poten Tanker Opinion: Thinking Outside the Triangle"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Thinking Outside the Triangle",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/thinking-outside-the-triangle/](https://www.poten.com/thinking-outside-the-triangle/)\n**Full PDF Report**: [Tanker_Opinion_20140417.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140417.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140417.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/thinking-outside-the-triangle",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_thinking_outside_the_triangle__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Thinking Outside the Triangle\nThinking Outside the Triangle",
+      "keywords": [
+        "outside",
+        "thinking",
+        "triangle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

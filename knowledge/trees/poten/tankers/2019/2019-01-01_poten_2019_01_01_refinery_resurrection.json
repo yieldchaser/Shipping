@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Refinery Resurrection",
+  "section_path": [
+    "Poten Tanker Opinion: Refinery Resurrection"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Refinery Resurrection",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Refinery Resurrection\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/refinery-resurrection/](https://www.poten.com/refinery-resurrection/)\n**Full PDF Report**: [Weekly-Opinion-27-September-2019-Refinery-Resurrection.pdf](http://www.poten.com/wp-content/uploads/2019/09/Weekly-Opinion-27-September-2019-Refinery-Resurrection.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-27-September-2019-Refinery-Resurrection.pdf. Analysis & Overview\nRefinery Resurrection\n27 Sep 2019:Â St. Croix Refinery Restart Will Impact Crude and Product Flows By the end of 2019, Limetree Bay Refining is planning to restart (part of) the old Hess, St.",
+  "keywords": [
+    "refinery",
+    "bay",
+    "croix",
+    "full",
+    "https",
+    "limetree",
+    "pdf",
+    "restart",
+    "resurrection",
+    "st.",
+    "www.poten.com/refinery-resurrection",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 260,
+  "source_path": "reports/poten/2019/poten_2019-01-01_refinery_resurrection.md",
+  "source_url": "https://www.poten.com/refinery-resurrection/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection__s01_poten_tanker_opinion_refinery_resurrection",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection__root",
+      "title": "Poten Tanker Opinion: Refinery Resurrection",
+      "section_path": [
+        "Poten Tanker Opinion: Refinery Resurrection"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Refinery Resurrection",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/refinery-resurrection/](https://www.poten.com/refinery-resurrection/)\n**Full PDF Report**: [Weekly-Opinion-27-September-2019-Refinery-Resurrection.pdf](http://www.poten.com/wp-content/uploads/2019/09/Weekly-Opinion-27-September-2019-Refinery-Resurrection.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-27-September-2019-Refinery-Resurrection.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/refinery-resurrection",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_resurrection__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Refinery Resurrection\n27 Sep 2019:Â St. Croix Refinery Restart Will Impact Crude and Product Flows By the end of 2019, Limetree Bay Refining is planning to restart (part of) the old Hess, St.",
+      "keywords": [
+        "refinery",
+        "bay",
+        "croix",
+        "limetree",
+        "restart",
+        "st.",
+        "arclight",
+        "capital"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

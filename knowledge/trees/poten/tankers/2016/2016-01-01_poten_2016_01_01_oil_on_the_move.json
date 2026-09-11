@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Oil on the Move",
+  "section_path": [
+    "Poten Tanker Opinion: Oil on the Move"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Oil on the Move",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Oil on the Move\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/oil-on-the-move/](https://www.poten.com/oil-on-the-move/)\n**Full PDF Report**: [Weekly-Opinion-29-July-2016-Oil-on-the-Move.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-29-July-2016-Oil-on-the-Move.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-29-July-2016-Oil-on-the-Move.pdf. Analysis & Overview\nOil on the Move\n29 Jul 2016:Â Quite a lot has happened over the last 12-18 months: North American crude oil production has been declining for some time now; Iran has reentered the market and oil production in Iraq and Saudi Arabia has increased. Production growth in Middle East OPEC has been partially offset by outages in Libya and...",
+  "keywords": [
+    "crude_oil",
+    "oil",
+    "https",
+    "production",
+    "full",
+    "move",
+    "pdf",
+    "www.poten.com/oil-on-the-move",
+    "american",
+    "analysis",
+    "and...",
+    "arabia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 243,
+  "source_path": "reports/poten/2016/poten_2016-01-01_oil_on_the_move.md",
+  "source_url": "https://www.poten.com/oil-on-the-move/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move__s01_poten_tanker_opinion_oil_on_the_move",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move__root",
+      "title": "Poten Tanker Opinion: Oil on the Move",
+      "section_path": [
+        "Poten Tanker Opinion: Oil on the Move"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Oil on the Move",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/oil-on-the-move/](https://www.poten.com/oil-on-the-move/)\n**Full PDF Report**: [Weekly-Opinion-29-July-2016-Oil-on-the-Move.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-29-July-2016-Oil-on-the-Move.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-29-July-2016-Oil-on-the-Move.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/oil-on-the-move",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_oil_on_the_move__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Oil on the Move\n29 Jul 2016:Â Quite a lot has happened over the last 12-18 months: North American crude oil production has been declining for some time now; Iran has reentered the market and oil production in Iraq and Saudi Arabia has increased. Production growth in Middle East OPEC has been partially offset by outages in Libya and...",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "production",
+        "american",
+        "and...",
+        "arabia",
+        "crude",
+        "declining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

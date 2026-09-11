@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: OPEC's Production Dilemma",
+  "section_path": [
+    "Poten Tanker Opinion: OPEC's Production Dilemma"
+  ],
+  "section_path_text": "Poten Tanker Opinion: OPEC's Production Dilemma",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: OPEC's Production Dilemma\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/opecs-production-dilemma/](https://www.poten.com/opecs-production-dilemma/)\n**Full PDF Report**: [News-Brief-16-September-2019-Attacks-on-Saudi-Oil-Infrastructure.pdf](http://www.poten.com/wp-content/uploads/2019/09/News-Brief-16-September-2019-Attacks-on-Saudi-Oil-Infrastructure.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/News-Brief-16-September-2019-Attacks-on-Saudi-Oil-Infrastructure.pdf. Analysis & Overview\nOPEC's Production Dilemma\n13 Sep 2019: OPEC Decides to Leave Production Cuts in Place (for now) During a monitoring meeting earlier this week, OPEC decided to leave production cuts unchanged. However, Iraq and Nigeria indicated they would reduce their production to align more closely with their quotas.",
+  "keywords": [
+    "crude_oil",
+    "opec",
+    "production",
+    "cuts",
+    "dilemma",
+    "full",
+    "https",
+    "leave",
+    "pdf",
+    "www.poten.com/opecs-production-dilemma",
+    "align",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 259,
+  "source_path": "reports/poten/2019/poten_2019-01-01_opec_s_production_dilemma.md",
+  "source_url": "https://www.poten.com/opecs-production-dilemma/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma__s01_poten_tanker_opinion_opec_s_production_dilemma",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma__root",
+      "title": "Poten Tanker Opinion: OPEC's Production Dilemma",
+      "section_path": [
+        "Poten Tanker Opinion: OPEC's Production Dilemma"
+      ],
+      "section_path_text": "Poten Tanker Opinion: OPEC's Production Dilemma",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/opecs-production-dilemma/](https://www.poten.com/opecs-production-dilemma/)\n**Full PDF Report**: [News-Brief-16-September-2019-Attacks-on-Saudi-Oil-Infrastructure.pdf](http://www.poten.com/wp-content/uploads/2019/09/News-Brief-16-September-2019-Attacks-on-Saudi-Oil-Infrastructure.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/News-Brief-16-September-2019-Attacks-on-Saudi-Oil-Infrastructure.pdf.",
+      "keywords": [
+        "crude_oil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/opecs-production-dilemma",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_opec_s_production_dilemma__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "OPEC's Production Dilemma\n13 Sep 2019: OPEC Decides to Leave Production Cuts in Place (for now) During a monitoring meeting earlier this week, OPEC decided to leave production cuts unchanged. However, Iraq and Nigeria indicated they would reduce their production to align more closely with their quotas.",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "production",
+        "cuts",
+        "leave",
+        "align",
+        "around...",
+        "closely"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

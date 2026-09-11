@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__root",
+  "doc_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: â€˜Drill, Baby, Drillâ€™ With Low Oil Prices",
+  "section_path": [
+    "Poten Tanker Opinion: â€˜Drill, Baby, Drillâ€™ With Low Oil Prices"
+  ],
+  "section_path_text": "Poten Tanker Opinion: â€˜Drill, Baby, Drillâ€™ With Low Oil Prices",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: â€˜Drill, Baby, Drillâ€™ With Low Oil Prices\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-04-11\n**Source URL**: [https://www.poten.com/drill-baby-drill-with-low-oil-prices/](https://www.poten.com/drill-baby-drill-with-low-oil-prices/)\n**Full PDF Report**: [Weekly Opinion - 11 April 2025 - Drill Baby Drill With Low Oil Prices.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2011%20April%202025%20-%20Drill%20Baby%20Drill%20With%20Low%20Oil%20Prices.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 11 April 2025 - Drill Baby Drill With Low Oil Prices.pdf. Analysis & Overview\nâ€˜Drill, Baby, Drillâ€™ With Low Oil Prices\nâ€˜Drill, Baby, Drillâ€™ With Low Oil Prices",
+  "keywords": [
+    "crude_oil",
+    "drill",
+    "baby",
+    "low",
+    "oil",
+    "opinion",
+    "april",
+    "https",
+    "prices",
+    "full",
+    "pdf",
+    "prices.pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 257,
+  "source_path": "reports/poten/2025/poten_2025-04-11__drill_baby_drill_with_low_oil_prices.md",
+  "source_url": "https://www.poten.com/drill-baby-drill-with-low-oil-prices/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__s01_poten_tanker_opinion_drill_baby_drill_with_low_oil_prices",
+      "doc_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices",
+      "parent_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__root",
+      "title": "Poten Tanker Opinion: â€˜Drill, Baby, Drillâ€™ With Low Oil Prices",
+      "section_path": [
+        "Poten Tanker Opinion: â€˜Drill, Baby, Drillâ€™ With Low Oil Prices"
+      ],
+      "section_path_text": "Poten Tanker Opinion: â€˜Drill, Baby, Drillâ€™ With Low Oil Prices",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-04-11\n**Source URL**: [https://www.poten.com/drill-baby-drill-with-low-oil-prices/](https://www.poten.com/drill-baby-drill-with-low-oil-prices/)\n**Full PDF Report**: [Weekly Opinion - 11 April 2025 - Drill Baby Drill With Low Oil Prices.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2011%20April%202025%20-%20Drill%20Baby%20Drill%20With%20Low%20Oil%20Prices.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 11 April 2025 - Drill Baby Drill With Low Oil Prices.pdf.",
+      "keywords": [
+        "crude_oil",
+        "drill",
+        "april",
+        "baby",
+        "https",
+        "low",
+        "oil",
+        "opinion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices",
+      "parent_id": "poten_tankers_2025-04-11_poten_2025_04_11_drill_baby_drill_with_low_oil_prices__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "â€˜Drill, Baby, Drillâ€™ With Low Oil Prices\nâ€˜Drill, Baby, Drillâ€™ With Low Oil Prices",
+      "keywords": [
+        "crude_oil",
+        "drill",
+        "baby",
+        "low",
+        "oil",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

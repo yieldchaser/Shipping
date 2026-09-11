@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: What Me Worry",
+  "section_path": [
+    "Poten Tanker Opinion: What Me Worry"
+  ],
+  "section_path_text": "Poten Tanker Opinion: What Me Worry",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: What Me Worry\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/what-me-worry/](https://www.poten.com/what-me-worry/)\n**Full PDF Report**: [Tanker_Opinion_20050422.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050422.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050422.pdf. Analysis & Overview\nWhat Me Worry\nWhat Me Worry",
+  "keywords": [
+    "https",
+    "what",
+    "worry",
+    "full",
+    "pdf",
+    "www.poten.com/what-me-worry",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 144,
+  "source_path": "reports/poten/2005/poten_unknown-01-01_what_me_worry.md",
+  "source_url": "https://www.poten.com/what-me-worry/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry__s01_poten_tanker_opinion_what_me_worry",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry__root",
+      "title": "Poten Tanker Opinion: What Me Worry",
+      "section_path": [
+        "Poten Tanker Opinion: What Me Worry"
+      ],
+      "section_path_text": "Poten Tanker Opinion: What Me Worry",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/what-me-worry/](https://www.poten.com/what-me-worry/)\n**Full PDF Report**: [Tanker_Opinion_20050422.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050422.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050422.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/what-me-worry",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_what_me_worry__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "What Me Worry\nWhat Me Worry",
+      "keywords": [
+        "what",
+        "worry"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

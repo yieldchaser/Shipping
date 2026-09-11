@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Another Brick in the Wall",
+  "section_path": [
+    "Poten Tanker Opinion: Another Brick in the Wall"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Another Brick in the Wall",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Another Brick in the Wall\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/another-brick-in-the-wall/](https://www.poten.com/another-brick-in-the-wall/)\n**Full PDF Report**: [Weekly-Opinion-21-February-2020-Another-Brick-in-the-Wall.pdf](http://www.poten.com/wp-content/uploads/2020/02/Weekly-Opinion-21-February-2020-Another-Brick-in-the-Wall.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-21-February-2020-Another-Brick-in-the-Wall.pdf. Analysis & Overview\nAnother Brick in the Wall\n21 February 2020: The US announces more sanctions on Venezuela A little more than a year ago, Mr. Juan Guaido, then the head of Venezuelaâ€™s National Assembly, burst on the international scene after he declared himself interim president.",
+  "keywords": [
+    "another",
+    "brick",
+    "full",
+    "https",
+    "pdf",
+    "united",
+    "venezuela",
+    "wall",
+    "www.poten.com/another-brick-in-the-wall",
+    "after",
+    "ago",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 256,
+  "source_path": "reports/poten/2020/poten_2020-01-01_another_brick_in_the_wall.md",
+  "source_url": "https://www.poten.com/another-brick-in-the-wall/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall__s01_poten_tanker_opinion_another_brick_in_the_wall",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall__root",
+      "title": "Poten Tanker Opinion: Another Brick in the Wall",
+      "section_path": [
+        "Poten Tanker Opinion: Another Brick in the Wall"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Another Brick in the Wall",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/another-brick-in-the-wall/](https://www.poten.com/another-brick-in-the-wall/)\n**Full PDF Report**: [Weekly-Opinion-21-February-2020-Another-Brick-in-the-Wall.pdf](http://www.poten.com/wp-content/uploads/2020/02/Weekly-Opinion-21-February-2020-Another-Brick-in-the-Wall.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-21-February-2020-Another-Brick-in-the-Wall.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/another-brick-in-the-wall",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_another_brick_in_the_wall__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Another Brick in the Wall\n21 February 2020: The US announces more sanctions on Venezuela A little more than a year ago, Mr. Juan Guaido, then the head of Venezuelaâ€™s National Assembly, burst on the international scene after he declared himself interim president.",
+      "keywords": [
+        "united",
+        "venezuela",
+        "after",
+        "ago",
+        "announces",
+        "another",
+        "assembly",
+        "brick"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

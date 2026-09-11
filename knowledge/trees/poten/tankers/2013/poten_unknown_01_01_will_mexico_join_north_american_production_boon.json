@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Will Mexico Join North American Production Boon",
+  "section_path": [
+    "Poten Tanker Opinion: Will Mexico Join North American Production Boon"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Will Mexico Join North American Production Boon",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Will Mexico Join North American Production Boon\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/will-mexico-join-north-american-production-boon/](https://www.poten.com/will-mexico-join-north-american-production-boon/)\n**Full PDF Report**: [Tanker_Opinion_20130419.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20130419.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130419.pdf. Analysis & Overview\nWill Mexico Join North American Production Boon\nWill Mexico Join North American Production Boon",
+  "keywords": [
+    "american",
+    "boon",
+    "https",
+    "join",
+    "mexico",
+    "north",
+    "production",
+    "full",
+    "pdf",
+    "www.poten.com/will-mexico-join-north-american-production-boon",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 174,
+  "source_path": "reports/poten/2013/poten_unknown-01-01_will_mexico_join_north_american_production_boon.md",
+  "source_url": "https://www.poten.com/will-mexico-join-north-american-production-boon/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon__s01_poten_tanker_opinion_will_mexico_join_north_american_production_boon",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon__root",
+      "title": "Poten Tanker Opinion: Will Mexico Join North American Production Boon",
+      "section_path": [
+        "Poten Tanker Opinion: Will Mexico Join North American Production Boon"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Will Mexico Join North American Production Boon",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/will-mexico-join-north-american-production-boon/](https://www.poten.com/will-mexico-join-north-american-production-boon/)\n**Full PDF Report**: [Tanker_Opinion_20130419.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20130419.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130419.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/will-mexico-join-north-american-production-boon",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_will_mexico_join_north_american_production_boon__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Will Mexico Join North American Production Boon\nWill Mexico Join North American Production Boon",
+      "keywords": [
+        "american",
+        "boon",
+        "join",
+        "mexico",
+        "north",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

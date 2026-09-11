@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Burmese Crude Oil Python",
+  "section_path": [
+    "Poten Tanker Opinion: The Burmese Crude Oil Python"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Burmese Crude Oil Python",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Burmese Crude Oil Python\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-burmese-crude-oil-python/](https://www.poten.com/the-burmese-crude-oil-python/)\n**Full PDF Report**: [Tanker_Opinion_20140502.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140502.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140502.pdf. Analysis & Overview\nThe Burmese Crude Oil Python\nThe Burmese Crude Oil Python",
+  "keywords": [
+    "crude_oil",
+    "burmese",
+    "crude",
+    "https",
+    "oil",
+    "python",
+    "full",
+    "pdf",
+    "www.poten.com/the-burmese-crude-oil-python",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 164,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_the_burmese_crude_oil_python.md",
+  "source_url": "https://www.poten.com/the-burmese-crude-oil-python/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python__s01_poten_tanker_opinion_the_burmese_crude_oil_python",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python__root",
+      "title": "Poten Tanker Opinion: The Burmese Crude Oil Python",
+      "section_path": [
+        "Poten Tanker Opinion: The Burmese Crude Oil Python"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Burmese Crude Oil Python",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/the-burmese-crude-oil-python/](https://www.poten.com/the-burmese-crude-oil-python/)\n**Full PDF Report**: [Tanker_Opinion_20140502.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140502.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140502.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/the-burmese-crude-oil-python",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_the_burmese_crude_oil_python__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Burmese Crude Oil Python\nThe Burmese Crude Oil Python",
+      "keywords": [
+        "crude_oil",
+        "burmese",
+        "crude",
+        "oil",
+        "python"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 258,
+  "token_count": 351,
   "source_path": "reports/poten/2026/poten_2026-06-26_full_steam_ahead_not_so_fast.md",
   "source_url": "https://www.poten.com/full-steam-ahead-not-so-fast/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Full Steam Ahead? Not So Fast!",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-06-26\n**Source URL**: [https://www.poten.com/full-steam-ahead-not-so-fast/](https://www.poten.com/full-steam-ahead-not-so-fast/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-06-26\n**Source URL**: [https://www.poten.com/full-steam-ahead-not-so-fast/](https://www.poten.com/full-steam-ahead-not-so-fast/)\n**Full PDF Report**: [Weekly Opinion - 26 June 2026 - Full Steam Ahead - Not So Fast.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2026%20June%202026%20-%20Full%20Steam%20Ahead%20-%20Not%20So%20Fast.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "full",
+        "https",
+        "ahead",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/full-steam-ahead-not-so-fast",
-        "analysis",
-        "archived"
+        "fast.pdf",
+        "june",
+        "not"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 93,
+      "token_count": 186,
       "section_type": null,
       "children": []
     },

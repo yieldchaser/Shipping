@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Flat Rates On The Rise Again",
+  "section_path": [
+    "Poten Tanker Opinion: Flat Rates On The Rise Again"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Flat Rates On The Rise Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Flat Rates On The Rise Again\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/flat-rates-rise/](https://www.poten.com/flat-rates-rise/)\n**Full PDF Report**: [Weekly-Opinion-13-October-2017-Flat-Rate-On-The-Rise-Again.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-13-October-2017-Flat-Rate-On-The-Rise-Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-13-October-2017-Flat-Rate-On-The-Rise-Again.pdf. Analysis & Overview\nFlat Rates On The Rise Again\nFlat Rates On The Rise Again",
+  "keywords": [
+    "again",
+    "flat",
+    "rise",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/flat-rates-rise",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 188,
+  "source_path": "reports/poten/2017/poten_2017-01-01_flat_rates_on_the_rise_again.md",
+  "source_url": "https://www.poten.com/flat-rates-rise/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again__s01_poten_tanker_opinion_flat_rates_on_the_rise_again",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again__root",
+      "title": "Poten Tanker Opinion: Flat Rates On The Rise Again",
+      "section_path": [
+        "Poten Tanker Opinion: Flat Rates On The Rise Again"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Flat Rates On The Rise Again",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/flat-rates-rise/](https://www.poten.com/flat-rates-rise/)\n**Full PDF Report**: [Weekly-Opinion-13-October-2017-Flat-Rate-On-The-Rise-Again.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-13-October-2017-Flat-Rate-On-The-Rise-Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-13-October-2017-Flat-Rate-On-The-Rise-Again.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/flat-rates-rise",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_flat_rates_on_the_rise_again__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Flat Rates On The Rise Again\nFlat Rates On The Rise Again",
+      "keywords": [
+        "again",
+        "flat",
+        "rise"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

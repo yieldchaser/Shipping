@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet__root",
+  "doc_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Shining A Light On The â€œDark Fleetâ€�",
+  "section_path": [
+    "Poten Tanker Opinion: Shining A Light On The â€œDark Fleetâ€�"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Shining A Light On The â€œDark Fleetâ€�",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Shining A Light On The â€œDark Fleetâ€�\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-02-10\n**Source URL**: [https://www.poten.com/tanker-opinion-february-10-2023-shining-a-light-on-the-dark-fleet/](https://www.poten.com/tanker-opinion-february-10-2023-shining-a-light-on-the-dark-fleet/)\n**Full PDF Report**: [Weekly Opinion - 10 February 2023 - Shining A Light On The Dark Fleet.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2010%20February%202023%20-%20Shining%20A%20Light%20On%20The%20Dark%20Fleet.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 10 February 2023 - Shining A Light On The Dark Fleet.pdf. Analysis & Overview\nShining A Light On The â€œDark Fleetâ€�\nShining A Light On The â€œDark Fleetâ€�",
+  "keywords": [
+    "dark",
+    "light",
+    "shining",
+    "opinion",
+    "february",
+    "fleet",
+    "https",
+    "fleet.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-february-10-2023-shining-a-light-on-the-dark-fleet",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 269,
+  "source_path": "reports/poten/2023/poten_2023-02-10_shining_a_light_on_the_dark_fleet.md",
+  "source_url": "https://www.poten.com/tanker-opinion-february-10-2023-shining-a-light-on-the-dark-fleet/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet__s01_poten_tanker_opinion_shining_a_light_on_the_dark_fleet",
+      "doc_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet",
+      "parent_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet__root",
+      "title": "Poten Tanker Opinion: Shining A Light On The â€œDark Fleetâ€�",
+      "section_path": [
+        "Poten Tanker Opinion: Shining A Light On The â€œDark Fleetâ€�"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Shining A Light On The â€œDark Fleetâ€�",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-02-10\n**Source URL**: [https://www.poten.com/tanker-opinion-february-10-2023-shining-a-light-on-the-dark-fleet/](https://www.poten.com/tanker-opinion-february-10-2023-shining-a-light-on-the-dark-fleet/)\n**Full PDF Report**: [Weekly Opinion - 10 February 2023 - Shining A Light On The Dark Fleet.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2010%20February%202023%20-%20Shining%20A%20Light%20On%20The%20Dark%20Fleet.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 10 February 2023 - Shining A Light On The Dark Fleet.pdf.",
+      "keywords": [
+        "dark",
+        "february",
+        "https",
+        "light",
+        "opinion",
+        "shining",
+        "fleet.pdf",
+        "full"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet",
+      "parent_id": "poten_tankers_2023-02-10_poten_2023_02_10_shining_a_light_on_the_dark_fleet__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Shining A Light On The â€œDark Fleetâ€�\nShining A Light On The â€œDark Fleetâ€�",
+      "keywords": [
+        "dark",
+        "fleet",
+        "light",
+        "shining"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

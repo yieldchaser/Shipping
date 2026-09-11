@@ -98,6 +98,7 @@ The potential impact of the U.S. - India trade deal The U.S.
 **Author**: Daniella Green
 **Published Date**: 2026-02-06
 **Source URL**: [https://www.poten.com/moscow-we-have-a-problem/](https://www.poten.com/moscow-we-have-a-problem/)
+**Full PDF Report**: [Weekly Opinion - 6 Feb 2026 - Moscow, We Have A Problem.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%206%20Feb%202026%20-%20Moscow%2c%20We%20Have%20A%20Problem.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

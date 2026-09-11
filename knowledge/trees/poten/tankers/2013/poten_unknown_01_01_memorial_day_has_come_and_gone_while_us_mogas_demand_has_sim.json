@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone",
+  "section_path": [
+    "Poten Tanker Opinion: Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/memorial-day-has-come-and-gone-while-us-mogas-demand-has-simply-gone/](https://www.poten.com/memorial-day-has-come-and-gone-while-us-mogas-demand-has-simply-gone/)\n**Full PDF Report**: [Tanker_Opinion_20130531.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130531.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130531.pdf. Analysis & Overview\nMemorial Day Has Come and Gone While US Mogas Demand Has Simply Gone\nMemorial Day Has Come and Gone While US Mogas Demand Has Simply Gone",
+  "keywords": [
+    "gas",
+    "gone",
+    "come",
+    "day",
+    "demand",
+    "https",
+    "memorial",
+    "mogas",
+    "simply",
+    "full",
+    "pdf",
+    "www.poten.com/memorial-day-has-come-and-gone-while-us-mogas-demand-has-simply-gone"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 212,
+  "source_path": "reports/poten/2013/poten_unknown-01-01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim.md",
+  "source_url": "https://www.poten.com/memorial-day-has-come-and-gone-while-us-mogas-demand-has-simply-gone/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim__s01_poten_tanker_opinion_memorial_day_has_come_and_gone_while_us_mogas_demand_has_simply_gone",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim__root",
+      "title": "Poten Tanker Opinion: Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone",
+      "section_path": [
+        "Poten Tanker Opinion: Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/memorial-day-has-come-and-gone-while-us-mogas-demand-has-simply-gone/](https://www.poten.com/memorial-day-has-come-and-gone-while-us-mogas-demand-has-simply-gone/)\n**Full PDF Report**: [Tanker_Opinion_20130531.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130531.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130531.pdf.",
+      "keywords": [
+        "gas",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/memorial-day-has-come-and-gone-while-us-mogas-demand-has-simply-gone",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_memorial_day_has_come_and_gone_while_us_mogas_demand_has_sim__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Memorial Day Has Come and Gone While US Mogas Demand Has Simply Gone\nMemorial Day Has Come and Gone While US Mogas Demand Has Simply Gone",
+      "keywords": [
+        "gas",
+        "gone",
+        "come",
+        "day",
+        "demand",
+        "memorial",
+        "mogas",
+        "simply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

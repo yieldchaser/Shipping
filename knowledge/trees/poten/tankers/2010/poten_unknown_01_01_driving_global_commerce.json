@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Driving Global Commerce",
+  "section_path": [
+    "Poten Tanker Opinion: Driving Global Commerce"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Driving Global Commerce",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Driving Global Commerce\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/driving-global-commerce/](https://www.poten.com/driving-global-commerce/)\n**Full PDF Report**: [Tanker_Opinion_20100806.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20100806.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20100806.pdf. Analysis & Overview\nDriving Global Commerce\nDriving Global Commerce",
+  "keywords": [
+    "commerce",
+    "driving",
+    "global",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/driving-global-commerce",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 139,
+  "source_path": "reports/poten/2010/poten_unknown-01-01_driving_global_commerce.md",
+  "source_url": "https://www.poten.com/driving-global-commerce/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce__s01_poten_tanker_opinion_driving_global_commerce",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce__root",
+      "title": "Poten Tanker Opinion: Driving Global Commerce",
+      "section_path": [
+        "Poten Tanker Opinion: Driving Global Commerce"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Driving Global Commerce",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/driving-global-commerce/](https://www.poten.com/driving-global-commerce/)\n**Full PDF Report**: [Tanker_Opinion_20100806.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20100806.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20100806.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/driving-global-commerce",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_driving_global_commerce__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Driving Global Commerce\nDriving Global Commerce",
+      "keywords": [
+        "commerce",
+        "driving",
+        "global"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Navigating The Hurricane Season",
+  "section_path": [
+    "Poten Tanker Opinion: Navigating The Hurricane Season"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Navigating The Hurricane Season",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Navigating The Hurricane Season\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/navigating-the-hurricane-season/](https://www.poten.com/navigating-the-hurricane-season/)\n**Full PDF Report**: [Weekly-Opinion-19-July-2019-Navigating-The-Hurricane-Season.pdf](http://www.poten.com/wp-content/uploads/2019/07/Weekly-Opinion-19-July-2019-Navigating-The-Hurricane-Season.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-19-July-2019-Navigating-The-Hurricane-Season.pdf. Analysis & Overview\nNavigating The Hurricane Season\nNavigating The Hurricane Season",
+  "keywords": [
+    "hurricane",
+    "navigating",
+    "season",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/navigating-the-hurricane-season",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 189,
+  "source_path": "reports/poten/2019/poten_2019-01-01_navigating_the_hurricane_season.md",
+  "source_url": "https://www.poten.com/navigating-the-hurricane-season/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season__s01_poten_tanker_opinion_navigating_the_hurricane_season",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season__root",
+      "title": "Poten Tanker Opinion: Navigating The Hurricane Season",
+      "section_path": [
+        "Poten Tanker Opinion: Navigating The Hurricane Season"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Navigating The Hurricane Season",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/navigating-the-hurricane-season/](https://www.poten.com/navigating-the-hurricane-season/)\n**Full PDF Report**: [Weekly-Opinion-19-July-2019-Navigating-The-Hurricane-Season.pdf](http://www.poten.com/wp-content/uploads/2019/07/Weekly-Opinion-19-July-2019-Navigating-The-Hurricane-Season.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-19-July-2019-Navigating-The-Hurricane-Season.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/navigating-the-hurricane-season",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_the_hurricane_season__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Navigating The Hurricane Season\nNavigating The Hurricane Season",
+      "keywords": [
+        "hurricane",
+        "navigating",
+        "season"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

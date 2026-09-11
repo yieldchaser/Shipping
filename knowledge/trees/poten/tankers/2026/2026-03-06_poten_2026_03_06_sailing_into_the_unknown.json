@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 326,
+  "token_count": 409,
   "source_path": "reports/poten/2026/poten_2026-03-06_sailing_into_the_unknown.md",
   "source_url": "https://www.poten.com/sailing-into-the-unknown/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Sailing Into The Unknown",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-03-06\n**Source URL**: [https://www.poten.com/sailing-into-the-unknown/](https://www.poten.com/sailing-into-the-unknown/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-03-06\n**Source URL**: [https://www.poten.com/sailing-into-the-unknown/](https://www.poten.com/sailing-into-the-unknown/)\n**Full PDF Report**: [Weekly Opinion - 6 Mar 2026 - Sailing Into The Unknown.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%206%20Mar%202026%20-%20Sailing%20Into%20The%20Unknown.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
+        "mar",
+        "opinion",
         "published",
-        "summary",
-        "www.poten.com/sailing-into-the-unknown",
-        "analysis",
-        "archived"
+        "sailing",
+        "summary"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 91,
+      "token_count": 174,
       "section_type": null,
       "children": []
     },

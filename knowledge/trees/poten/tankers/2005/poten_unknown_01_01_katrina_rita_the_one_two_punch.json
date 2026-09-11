@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Katrina-Rita The One-Two Punch",
+  "section_path": [
+    "Poten Tanker Opinion: Katrina-Rita The One-Two Punch"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Katrina-Rita The One-Two Punch",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Katrina-Rita The One-Two Punch\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/katrina-rita-the-one-two-punch/](https://www.poten.com/katrina-rita-the-one-two-punch/)\n**Full PDF Report**: [Tanker_Opinion_20050923.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050923.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050923.pdf. Analysis & Overview\nKatrina-Rita The One-Two Punch\nKatrina-Rita The One-Two Punch",
+  "keywords": [
+    "https",
+    "katrina-rita",
+    "one-two",
+    "punch",
+    "full",
+    "pdf",
+    "www.poten.com/katrina-rita-the-one-two-punch",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 168,
+  "source_path": "reports/poten/2005/poten_unknown-01-01_katrina-rita_the_one-two_punch.md",
+  "source_url": "https://www.poten.com/katrina-rita-the-one-two-punch/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch__s01_poten_tanker_opinion_katrina_rita_the_one_two_punch",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch__root",
+      "title": "Poten Tanker Opinion: Katrina-Rita The One-Two Punch",
+      "section_path": [
+        "Poten Tanker Opinion: Katrina-Rita The One-Two Punch"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Katrina-Rita The One-Two Punch",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/katrina-rita-the-one-two-punch/](https://www.poten.com/katrina-rita-the-one-two-punch/)\n**Full PDF Report**: [Tanker_Opinion_20050923.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050923.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050923.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/katrina-rita-the-one-two-punch",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_katrina_rita_the_one_two_punch__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Katrina-Rita The One-Two Punch\nKatrina-Rita The One-Two Punch",
+      "keywords": [
+        "katrina-rita",
+        "one-two",
+        "punch"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

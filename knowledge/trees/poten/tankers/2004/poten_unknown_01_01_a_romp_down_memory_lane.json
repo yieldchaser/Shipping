@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Romp Down Memory Lane",
+  "section_path": [
+    "Poten Tanker Opinion: A Romp Down Memory Lane"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Romp Down Memory Lane",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Romp Down Memory Lane\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-romp-down-memory-lane/](https://www.poten.com/a-romp-down-memory-lane/)\n**Full PDF Report**: [Tanker_Opinion_20040716.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040716.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040716.pdf. Analysis & Overview\nA Romp Down Memory Lane\nA Romp Down Memory Lane",
+  "keywords": [
+    "down",
+    "https",
+    "lane",
+    "memory",
+    "romp",
+    "full",
+    "pdf",
+    "www.poten.com/a-romp-down-memory-lane",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 156,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_a_romp_down_memory_lane.md",
+  "source_url": "https://www.poten.com/a-romp-down-memory-lane/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane__s01_poten_tanker_opinion_a_romp_down_memory_lane",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane__root",
+      "title": "Poten Tanker Opinion: A Romp Down Memory Lane",
+      "section_path": [
+        "Poten Tanker Opinion: A Romp Down Memory Lane"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Romp Down Memory Lane",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-romp-down-memory-lane/](https://www.poten.com/a-romp-down-memory-lane/)\n**Full PDF Report**: [Tanker_Opinion_20040716.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040716.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040716.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/a-romp-down-memory-lane",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_romp_down_memory_lane__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Romp Down Memory Lane\nA Romp Down Memory Lane",
+      "keywords": [
+        "down",
+        "lane",
+        "memory",
+        "romp"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

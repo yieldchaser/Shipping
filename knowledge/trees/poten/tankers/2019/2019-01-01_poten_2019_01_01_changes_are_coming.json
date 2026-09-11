@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Changes Are Coming",
+  "section_path": [
+    "Poten Tanker Opinion: Changes Are Coming"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Changes Are Coming",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Changes Are Coming\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/changes-are-coming/](https://www.poten.com/changes-are-coming/)\n**Full PDF Report**: [Weekly-Opinion-27-December-2019-Changes-Are-Coming.pdf](http://www.poten.com/wp-content/uploads/2019/12/Weekly-Opinion-27-December-2019-Changes-Are-Coming.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-27-December-2019-Changes-Are-Coming.pdf. Analysis & Overview\nChanges Are Coming\n27 Dec 2019: IMO 2020 Will Become Reality on January 1st When the clock strikes 12 midnight on December 31st, the new IMO 2020 bunker fuel regulations will become effective. To be compliant, shipowners worldwide will have to switch to low sulphur fuels (0.5%) or use scrubbers to clean their exhaust gasses.",
+  "keywords": [
+    "gas",
+    "are",
+    "become",
+    "changes",
+    "coming",
+    "full",
+    "https",
+    "imo",
+    "pdf",
+    "shipowners",
+    "www.poten.com/changes-are-coming",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 254,
+  "source_path": "reports/poten/2019/poten_2019-01-01_changes_are_coming.md",
+  "source_url": "https://www.poten.com/changes-are-coming/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming__s01_poten_tanker_opinion_changes_are_coming",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming__root",
+      "title": "Poten Tanker Opinion: Changes Are Coming",
+      "section_path": [
+        "Poten Tanker Opinion: Changes Are Coming"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Changes Are Coming",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/changes-are-coming/](https://www.poten.com/changes-are-coming/)\n**Full PDF Report**: [Weekly-Opinion-27-December-2019-Changes-Are-Coming.pdf](http://www.poten.com/wp-content/uploads/2019/12/Weekly-Opinion-27-December-2019-Changes-Are-Coming.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-27-December-2019-Changes-Are-Coming.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/changes-are-coming",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_changes_are_coming__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Changes Are Coming\n27 Dec 2019: IMO 2020 Will Become Reality on January 1st When the clock strikes 12 midnight on December 31st, the new IMO 2020 bunker fuel regulations will become effective. To be compliant, shipowners worldwide will have to switch to low sulphur fuels (0.5%) or use scrubbers to clean their exhaust gasses.",
+      "keywords": [
+        "gas",
+        "become",
+        "imo",
+        "shipowners",
+        "are",
+        "bunker",
+        "changes",
+        "charterers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

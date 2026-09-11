@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: To Scrap or to Scrub",
+  "section_path": [
+    "Poten Tanker Opinion: To Scrap or to Scrub"
+  ],
+  "section_path_text": "Poten Tanker Opinion: To Scrap or to Scrub",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: To Scrap or to Scrub\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/to-scrap-or-to-scrub/](https://www.poten.com/to-scrap-or-to-scrub/)\n**Full PDF Report**: [Weekly-Opinion-20-July-2018-To-Scrap-Or-To-Scrub.pdf](http://www.poten.com/wp-content/uploads/2018/07/Weekly-Opinion-20-July-2018-To-Scrap-Or-To-Scrub.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-20-July-2018-To-Scrap-Or-To-Scrub.pdf. Analysis & Overview\nTo Scrap or to Scrub\nTo Scrap or to Scrub",
+  "keywords": [
+    "scrap",
+    "scrub",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/to-scrap-or-to-scrub",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 194,
+  "source_path": "reports/poten/2018/poten_2018-01-01_to_scrap_or_to_scrub.md",
+  "source_url": "https://www.poten.com/to-scrap-or-to-scrub/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub__s01_poten_tanker_opinion_to_scrap_or_to_scrub",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub__root",
+      "title": "Poten Tanker Opinion: To Scrap or to Scrub",
+      "section_path": [
+        "Poten Tanker Opinion: To Scrap or to Scrub"
+      ],
+      "section_path_text": "Poten Tanker Opinion: To Scrap or to Scrub",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/to-scrap-or-to-scrub/](https://www.poten.com/to-scrap-or-to-scrub/)\n**Full PDF Report**: [Weekly-Opinion-20-July-2018-To-Scrap-Or-To-Scrub.pdf](http://www.poten.com/wp-content/uploads/2018/07/Weekly-Opinion-20-July-2018-To-Scrap-Or-To-Scrub.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-20-July-2018-To-Scrap-Or-To-Scrub.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/to-scrap-or-to-scrub",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_to_scrap_or_to_scrub__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "To Scrap or to Scrub\nTo Scrap or to Scrub",
+      "keywords": [
+        "scrap",
+        "scrub"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

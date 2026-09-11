@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Panamaxes Cleaning Up Their Act",
+  "section_path": [
+    "Poten Tanker Opinion: Panamaxes Cleaning Up Their Act"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Panamaxes Cleaning Up Their Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Panamaxes Cleaning Up Their Act\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/panamaxes-cleaning-act/](https://www.poten.com/panamaxes-cleaning-act/)\n**Full PDF Report**: [Panamaxes-Cleaning-Up-Their-Act.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/01/Panamaxes-Cleaning-Up-Their-Act.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Panamaxes-Cleaning-Up-Their-Act.pdf. Analysis & Overview\nPanamaxes Cleaning Up Their Act\nPanamaxes Cleaning Up Their Act",
+  "keywords": [
+    "panamax",
+    "act",
+    "cleaning",
+    "https",
+    "panamaxes",
+    "full",
+    "pdf",
+    "www.poten.com/panamaxes-cleaning-act",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 164,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_panamaxes_cleaning_up_their_act.md",
+  "source_url": "https://www.poten.com/panamaxes-cleaning-act/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act__s01_poten_tanker_opinion_panamaxes_cleaning_up_their_act",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act__root",
+      "title": "Poten Tanker Opinion: Panamaxes Cleaning Up Their Act",
+      "section_path": [
+        "Poten Tanker Opinion: Panamaxes Cleaning Up Their Act"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Panamaxes Cleaning Up Their Act",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/panamaxes-cleaning-act/](https://www.poten.com/panamaxes-cleaning-act/)\n**Full PDF Report**: [Panamaxes-Cleaning-Up-Their-Act.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/01/Panamaxes-Cleaning-Up-Their-Act.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Panamaxes-Cleaning-Up-Their-Act.pdf.",
+      "keywords": [
+        "panamax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/panamaxes-cleaning-act",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_panamaxes_cleaning_up_their_act__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Panamaxes Cleaning Up Their Act\nPanamaxes Cleaning Up Their Act",
+      "keywords": [
+        "panamax",
+        "act",
+        "cleaning",
+        "panamaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

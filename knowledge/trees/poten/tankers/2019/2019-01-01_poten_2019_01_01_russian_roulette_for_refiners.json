@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Russian Roulette for Refiners",
+  "section_path": [
+    "Poten Tanker Opinion: Russian Roulette for Refiners"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Russian Roulette for Refiners",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Russian Roulette for Refiners\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/russian-roulette-for-refiners/](https://www.poten.com/russian-roulette-for-refiners/)\n**Full PDF Report**: [Weekly-Opinion-3-May-2019-Russian-Roulette-for-Refiners.pdf](http://www.poten.com/wp-content/uploads/2019/05/Weekly-Opinion-3-May-2019-Russian-Roulette-for-Refiners.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-3-May-2019-Russian-Roulette-for-Refiners.pdf. Analysis & Overview\nRussian Roulette for Refiners\n3 May 2019:Â Last week, reports surfaced that Russian Urals crude flowing through the Druzhba pipeline was contaminated with organic chloride.Â Â Refiners in Germany, Poland, Belarus, Hungary, the Czech Republic and Slovakia all stopped accepting supplies of Russian Urals crude.Â Official numbers have not been released, but analysts estimate that at least 35 million barrels of...",
+  "keywords": [
+    "russian",
+    "refiners",
+    "full",
+    "https",
+    "pdf",
+    "roulette",
+    "urals",
+    "www.poten.com/russian-roulette-for-refiners",
+    "accepting",
+    "all",
+    "analysis",
+    "analysts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 262,
+  "source_path": "reports/poten/2019/poten_2019-01-01_russian_roulette_for_refiners.md",
+  "source_url": "https://www.poten.com/russian-roulette-for-refiners/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners__s01_poten_tanker_opinion_russian_roulette_for_refiners",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners__root",
+      "title": "Poten Tanker Opinion: Russian Roulette for Refiners",
+      "section_path": [
+        "Poten Tanker Opinion: Russian Roulette for Refiners"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Russian Roulette for Refiners",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/russian-roulette-for-refiners/](https://www.poten.com/russian-roulette-for-refiners/)\n**Full PDF Report**: [Weekly-Opinion-3-May-2019-Russian-Roulette-for-Refiners.pdf](http://www.poten.com/wp-content/uploads/2019/05/Weekly-Opinion-3-May-2019-Russian-Roulette-for-Refiners.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-3-May-2019-Russian-Roulette-for-Refiners.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/russian-roulette-for-refiners",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_russian_roulette_for_refiners__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Russian Roulette for Refiners\n3 May 2019:Â Last week, reports surfaced that Russian Urals crude flowing through the Druzhba pipeline was contaminated with organic chloride.Â Â Refiners in Germany, Poland, Belarus, Hungary, the Czech Republic and Slovakia all stopped accepting supplies of Russian Urals crude.Â Official numbers have not been released, but analysts estimate that at least 35 million barrels of...",
+      "keywords": [
+        "russian",
+        "refiners",
+        "urals",
+        "accepting",
+        "all",
+        "analysts",
+        "barrels",
+        "belarus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

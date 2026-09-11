@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor__root",
+  "doc_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Are Russian Barrels Getting Out Of Favor",
+  "section_path": [
+    "Poten Tanker Opinion: Are Russian Barrels Getting Out Of Favor"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Are Russian Barrels Getting Out Of Favor",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Are Russian Barrels Getting Out Of Favor\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-03-08\n**Source URL**: [https://www.poten.com/are-russian-barrels-getting-out-of-favor/](https://www.poten.com/are-russian-barrels-getting-out-of-favor/)\n**Full PDF Report**: [Weekly Opinion -8 March 2024 - Are Russian Barrels Getting Out Of Favor.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-8%20March%202024%20-%20Are%20Russian%20Barrels%20Getting%20Out%20Of%20Favor.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -8 March 2024 - Are Russian Barrels Getting Out Of Favor.pdf. Analysis & Overview\nAre Russian Barrels Getting Out Of Favor\nAre Russian Barrels Getting Out Of Favor",
+  "keywords": [
+    "are",
+    "barrels",
+    "getting",
+    "out",
+    "russian",
+    "opinion",
+    "favor",
+    "https",
+    "march",
+    "favor.pdf",
+    "full",
+    "pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 232,
+  "source_path": "reports/poten/2024/poten_2024-03-08_are_russian_barrels_getting_out_of_favor.md",
+  "source_url": "https://www.poten.com/are-russian-barrels-getting-out-of-favor/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor__s01_poten_tanker_opinion_are_russian_barrels_getting_out_of_favor",
+      "doc_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor",
+      "parent_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor__root",
+      "title": "Poten Tanker Opinion: Are Russian Barrels Getting Out Of Favor",
+      "section_path": [
+        "Poten Tanker Opinion: Are Russian Barrels Getting Out Of Favor"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Are Russian Barrels Getting Out Of Favor",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-03-08\n**Source URL**: [https://www.poten.com/are-russian-barrels-getting-out-of-favor/](https://www.poten.com/are-russian-barrels-getting-out-of-favor/)\n**Full PDF Report**: [Weekly Opinion -8 March 2024 - Are Russian Barrels Getting Out Of Favor.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-8%20March%202024%20-%20Are%20Russian%20Barrels%20Getting%20Out%20Of%20Favor.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -8 March 2024 - Are Russian Barrels Getting Out Of Favor.pdf.",
+      "keywords": [
+        "are",
+        "barrels",
+        "getting",
+        "https",
+        "march",
+        "opinion",
+        "out",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor",
+      "parent_id": "poten_tankers_2024-03-08_poten_2024_03_08_are_russian_barrels_getting_out_of_favor__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Are Russian Barrels Getting Out Of Favor\nAre Russian Barrels Getting Out Of Favor",
+      "keywords": [
+        "are",
+        "barrels",
+        "favor",
+        "getting",
+        "out",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

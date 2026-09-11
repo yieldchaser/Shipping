@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 252,
+  "token_count": 331,
   "source_path": "reports/poten/2026/poten_2026-01-16_a_new_dawn.md",
   "source_url": "https://www.poten.com/a-new-dawn/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: A New Dawn",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Raza Zoya\n**Published Date**: 2026-01-16\n**Source URL**: [https://www.poten.com/a-new-dawn/](https://www.poten.com/a-new-dawn/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Raza Zoya\n**Published Date**: 2026-01-16\n**Source URL**: [https://www.poten.com/a-new-dawn/](https://www.poten.com/a-new-dawn/)\n**Full PDF Report**: [Weekly Opinion - 16 Jan 2026 - A New Dawn.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2016%20Jan%202026%20-%20A%20New%20Dawn.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/a-new-dawn",
-        "analysis",
-        "archived"
+        "dawn.pdf",
+        "jan",
+        "new",
+        "opinion",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 86,
+      "token_count": 165,
       "section_type": null,
       "children": []
     },

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Let it Burn",
+  "section_path": [
+    "Poten Tanker Opinion: Let it Burn"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Let it Burn",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Let it Burn\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/let-it-burn/](https://www.poten.com/let-it-burn/)\n**Full PDF Report**: [Weekly-Opinion-July-10-2015-Let-it-Burn.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-10-2015-Let-it-Burn.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-10-2015-Let-it-Burn.pdf. Analysis & Overview\nLet it Burn\n10 Jul 2015: It seems as though the fuel oil industry has not caught a break yet this yearâ€¦and may not for the rest of the 2015. Global residual fuel oil demand continues to decrease from the current level of 8 million bpd, as normally high-sulfur fuel becomes increasingly unpopular due to environmental regulations, with...",
+  "keywords": [
+    "crude_oil",
+    "fuel",
+    "https",
+    "burn",
+    "full",
+    "let",
+    "not",
+    "oil",
+    "pdf",
+    "www.poten.com/let-it-burn",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 241,
+  "source_path": "reports/poten/2015/poten_2015-01-01_let_it_burn.md",
+  "source_url": "https://www.poten.com/let-it-burn/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn__s01_poten_tanker_opinion_let_it_burn",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn__root",
+      "title": "Poten Tanker Opinion: Let it Burn",
+      "section_path": [
+        "Poten Tanker Opinion: Let it Burn"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Let it Burn",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/let-it-burn/](https://www.poten.com/let-it-burn/)\n**Full PDF Report**: [Weekly-Opinion-July-10-2015-Let-it-Burn.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-10-2015-Let-it-Burn.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-10-2015-Let-it-Burn.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/let-it-burn",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_let_it_burn__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Let it Burn\n10 Jul 2015: It seems as though the fuel oil industry has not caught a break yet this yearâ€¦and may not for the rest of the 2015. Global residual fuel oil demand continues to decrease from the current level of 8 million bpd, as normally high-sulfur fuel becomes increasingly unpopular due to environmental regulations, with...",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "not",
+        "oil",
+        "becomes",
+        "bpd",
+        "break",
+        "burn"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

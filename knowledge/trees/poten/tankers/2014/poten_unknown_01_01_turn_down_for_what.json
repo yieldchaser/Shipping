@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Turn Down For What",
+  "section_path": [
+    "Poten Tanker Opinion: Turn Down For What"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Turn Down For What",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Turn Down For What\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/turn-down-for-what/](https://www.poten.com/turn-down-for-what/)\n**Full PDF Report**: [Tanker_Opinion_20140725.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140725.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140725.pdf. Analysis & Overview\nTurn Down For What\nTurn Down For What",
+  "keywords": [
+    "down",
+    "https",
+    "turn",
+    "what",
+    "full",
+    "pdf",
+    "www.poten.com/turn-down-for-what",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 146,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_turn_down_for_what.md",
+  "source_url": "https://www.poten.com/turn-down-for-what/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what__s01_poten_tanker_opinion_turn_down_for_what",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what__root",
+      "title": "Poten Tanker Opinion: Turn Down For What",
+      "section_path": [
+        "Poten Tanker Opinion: Turn Down For What"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Turn Down For What",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/turn-down-for-what/](https://www.poten.com/turn-down-for-what/)\n**Full PDF Report**: [Tanker_Opinion_20140725.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140725.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140725.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/turn-down-for-what",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_turn_down_for_what__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Turn Down For What\nTurn Down For What",
+      "keywords": [
+        "down",
+        "turn",
+        "what"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

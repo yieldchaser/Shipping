@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Pacific Promise",
+  "section_path": [
+    "Poten Tanker Opinion: Pacific Promise"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Pacific Promise",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Pacific Promise\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/pacific-promise/](https://www.poten.com/pacific-promise/)\n**Full PDF Report**: [Weekly-Opinion-November-6-2015-Pacific-Promise.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/11/Weekly-Opinion-November-6-2015-Pacific-Promise.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-November-6-2015-Pacific-Promise.pdf. Analysis & Overview\nPacific Promise\n06 Nov 2015:Â Refining capacity in Asia has been growing rapidly for many years. Not surprisingly, the vast majority of this growth took place in China, which more than doubled its refining capacity over the last 10 years.",
+  "keywords": [
+    "china",
+    "pacific",
+    "india",
+    "https",
+    "refining",
+    "asia",
+    "capacity",
+    "full",
+    "growth",
+    "pdf",
+    "promise",
+    "www.poten.com/pacific-promise"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 229,
+  "source_path": "reports/poten/2015/poten_2015-01-01_pacific_promise.md",
+  "source_url": "https://www.poten.com/pacific-promise/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise__s01_poten_tanker_opinion_pacific_promise",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise__root",
+      "title": "Poten Tanker Opinion: Pacific Promise",
+      "section_path": [
+        "Poten Tanker Opinion: Pacific Promise"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Pacific Promise",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/pacific-promise/](https://www.poten.com/pacific-promise/)\n**Full PDF Report**: [Weekly-Opinion-November-6-2015-Pacific-Promise.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/11/Weekly-Opinion-November-6-2015-Pacific-Promise.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-November-6-2015-Pacific-Promise.pdf.",
+      "keywords": [
+        "pacific",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/pacific-promise",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_pacific_promise__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Pacific Promise\n06 Nov 2015:Â Refining capacity in Asia has been growing rapidly for many years. Not surprisingly, the vast majority of this growth took place in China, which more than doubled its refining capacity over the last 10 years.",
+      "keywords": [
+        "china",
+        "pacific",
+        "india",
+        "refining",
+        "asia",
+        "capacity",
+        "growth",
+        "years."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

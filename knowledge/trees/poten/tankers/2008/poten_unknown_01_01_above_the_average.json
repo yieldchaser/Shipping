@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Above The Average",
+  "section_path": [
+    "Poten Tanker Opinion: Above The Average"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Above The Average",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Above The Average\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/above-the-average/](https://www.poten.com/above-the-average/)\n**Full PDF Report**: [Tanker_Opinion_20081224.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20081224.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20081224.pdf. Analysis & Overview\nAbove The Average\nAbove The Average",
+  "keywords": [
+    "above",
+    "average",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/above-the-average",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 139,
+  "source_path": "reports/poten/2008/poten_unknown-01-01_above_the_average.md",
+  "source_url": "https://www.poten.com/above-the-average/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average__s01_poten_tanker_opinion_above_the_average",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average__root",
+      "title": "Poten Tanker Opinion: Above The Average",
+      "section_path": [
+        "Poten Tanker Opinion: Above The Average"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Above The Average",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/above-the-average/](https://www.poten.com/above-the-average/)\n**Full PDF Report**: [Tanker_Opinion_20081224.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20081224.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20081224.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/above-the-average",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_above_the_average__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Above The Average\nAbove The Average",
+      "keywords": [
+        "above",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

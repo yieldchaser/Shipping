@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: No Changes At The Top",
+  "section_path": [
+    "Poten Tanker Opinion: No Changes At The Top"
+  ],
+  "section_path_text": "Poten Tanker Opinion: No Changes At The Top",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: No Changes At The Top\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/no-changes-at-the-top/](https://www.poten.com/no-changes-at-the-top/)\n**Full PDF Report**: [Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/01/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf. Analysis & Overview\nNo Changes At The Top\n08 Jan 2016: Â Top Reported Dirty Spot Charterers for 2015 Â When reviewing our latest rankings, nobody will be surprised to see that Unipec remained the largest dirty spot charterer in 2015, a position they are unlikely to lose anytime soon, despite slowing oil demand growth in China.Â The most significant movers in the ranking last...",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "https",
+    "top",
+    "changes",
+    "dirty",
+    "full",
+    "pdf",
+    "www.poten.com/no-changes-at-the-top",
+    "analysis",
+    "anytime",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 259,
+  "source_path": "reports/poten/2016/poten_2016-01-01_no_changes_at_the_top.md",
+  "source_url": "https://www.poten.com/no-changes-at-the-top/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top__s01_poten_tanker_opinion_no_changes_at_the_top",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top__root",
+      "title": "Poten Tanker Opinion: No Changes At The Top",
+      "section_path": [
+        "Poten Tanker Opinion: No Changes At The Top"
+      ],
+      "section_path_text": "Poten Tanker Opinion: No Changes At The Top",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/no-changes-at-the-top/](https://www.poten.com/no-changes-at-the-top/)\n**Full PDF Report**: [Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/01/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-January-8-2016-No-Changes-At-The-Top.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/no-changes-at-the-top",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_no_changes_at_the_top__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "No Changes At The Top\n08 Jan 2016: Â Top Reported Dirty Spot Charterers for 2015 Â When reviewing our latest rankings, nobody will be surprised to see that Unipec remained the largest dirty spot charterer in 2015, a position they are unlikely to lose anytime soon, despite slowing oil demand growth in China.Â The most significant movers in the ranking last...",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "dirty",
+        "top",
+        "anytime",
+        "are",
+        "changes",
+        "charterer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

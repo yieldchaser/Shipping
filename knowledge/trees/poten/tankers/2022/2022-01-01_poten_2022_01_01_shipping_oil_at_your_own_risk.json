@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Shipping Oil At Your Own Risk",
+  "section_path": [
+    "Poten Tanker Opinion: Shipping Oil At Your Own Risk"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Shipping Oil At Your Own Risk",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Shipping Oil At Your Own Risk\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-june-2-2022-shipping-oil-at-your-own-risk/](https://www.poten.com/tanker-opinion-june-2-2022-shipping-oil-at-your-own-risk/)\n**Full PDF Report**: [Weekly-Opinion-2-June-2022-Shipping-Oil-At-Your-Own-Risk.pdf](https://www.poten.com/wp-content/uploads/2022/06/Weekly-Opinion-2-June-2022-Shipping-Oil-At-Your-Own-Risk.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-2-June-2022-Shipping-Oil-At-Your-Own-Risk.pdf. Analysis & Overview\nShipping Oil At Your Own Risk\nShipping Oil At Your Own Risk",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "oil",
+    "own",
+    "risk",
+    "your",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-june-2-2022-shipping-oil-at-your-own-risk",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 224,
+  "source_path": "reports/poten/2022/poten_2022-01-01_shipping_oil_at_your_own_risk.md",
+  "source_url": "https://www.poten.com/tanker-opinion-june-2-2022-shipping-oil-at-your-own-risk/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk__s01_poten_tanker_opinion_shipping_oil_at_your_own_risk",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk__root",
+      "title": "Poten Tanker Opinion: Shipping Oil At Your Own Risk",
+      "section_path": [
+        "Poten Tanker Opinion: Shipping Oil At Your Own Risk"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Shipping Oil At Your Own Risk",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-june-2-2022-shipping-oil-at-your-own-risk/](https://www.poten.com/tanker-opinion-june-2-2022-shipping-oil-at-your-own-risk/)\n**Full PDF Report**: [Weekly-Opinion-2-June-2022-Shipping-Oil-At-Your-Own-Risk.pdf](https://www.poten.com/wp-content/uploads/2022/06/Weekly-Opinion-2-June-2022-Shipping-Oil-At-Your-Own-Risk.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-2-June-2022-Shipping-Oil-At-Your-Own-Risk.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-june-2-2022-shipping-oil-at-your-own-risk",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_shipping_oil_at_your_own_risk__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Shipping Oil At Your Own Risk\nShipping Oil At Your Own Risk",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "own",
+        "risk",
+        "your"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

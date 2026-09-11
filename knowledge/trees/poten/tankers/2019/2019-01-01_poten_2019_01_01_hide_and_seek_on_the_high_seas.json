@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Hide And Seek On The High Seas",
+  "section_path": [
+    "Poten Tanker Opinion: Hide And Seek On The High Seas"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Hide And Seek On The High Seas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Hide And Seek On The High Seas\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/hide-and-seek-on-the-high-seas/](https://www.poten.com/hide-and-seek-on-the-high-seas/)\n**Full PDF Report**: [Weekly-Opinion-6-September-2019-Hide-and-Seek-on-the-High-Seas.pdf](http://www.poten.com/wp-content/uploads/2019/09/Weekly-Opinion-6-September-2019-Hide-and-Seek-on-the-High-Seas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-6-September-2019-Hide-and-Seek-on-the-High-Seas.pdf. Analysis & Overview\nHide And Seek On The High Seas\n6 Sep 2019:Â Iranian Crude Oil Exports Continue to Decline Just when you think you have seen it all in the ongoing conflict between Iran and the United States, a report emerges that a representative of the U.S. State Department offered to pay millions of U.S.",
+  "keywords": [
+    "crude_oil",
+    "full",
+    "hide",
+    "high",
+    "https",
+    "iranian",
+    "pdf",
+    "seas",
+    "seek",
+    "u.s.",
+    "www.poten.com/hide-and-seek-on-the-high-seas",
+    "you"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 273,
+  "source_path": "reports/poten/2019/poten_2019-01-01_hide_and_seek_on_the_high_seas.md",
+  "source_url": "https://www.poten.com/hide-and-seek-on-the-high-seas/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas__s01_poten_tanker_opinion_hide_and_seek_on_the_high_seas",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas__root",
+      "title": "Poten Tanker Opinion: Hide And Seek On The High Seas",
+      "section_path": [
+        "Poten Tanker Opinion: Hide And Seek On The High Seas"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Hide And Seek On The High Seas",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/hide-and-seek-on-the-high-seas/](https://www.poten.com/hide-and-seek-on-the-high-seas/)\n**Full PDF Report**: [Weekly-Opinion-6-September-2019-Hide-and-Seek-on-the-High-Seas.pdf](http://www.poten.com/wp-content/uploads/2019/09/Weekly-Opinion-6-September-2019-Hide-and-Seek-on-the-High-Seas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-6-September-2019-Hide-and-Seek-on-the-High-Seas.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/hide-and-seek-on-the-high-seas",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_hide_and_seek_on_the_high_seas__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Hide And Seek On The High Seas\n6 Sep 2019:Â Iranian Crude Oil Exports Continue to Decline Just when you think you have seen it all in the ongoing conflict between Iran and the United States, a report emerges that a representative of the U.S. State Department offered to pay millions of U.S.",
+      "keywords": [
+        "crude_oil",
+        "iranian",
+        "u.s.",
+        "you",
+        "adrian",
+        "all",
+        "between",
+        "conflict"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 84,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

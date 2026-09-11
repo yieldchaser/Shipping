@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Covid-19 Infects the Tanker Market",
+  "section_path": [
+    "Poten Tanker Opinion: Covid-19 Infects the Tanker Market"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Covid-19 Infects the Tanker Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Covid-19 Infects the Tanker Market\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-8-january-2021-covid-19-infects-the-tanker-market/](https://www.poten.com/tanker-opinion-8-january-2021-covid-19-infects-the-tanker-market/)\n**Full PDF Report**: [Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf](https://www.poten.com/wp-content/uploads/2021/01/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf. Analysis & Overview\nCovid-19 Infects the Tanker Market\nCovid-19 Infects the Tanker Market",
+  "keywords": [
+    "covid-19",
+    "https",
+    "infects",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-8-january-2021-covid-19-infects-the-tanker-market",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 241,
+  "source_path": "reports/poten/2021/poten_2021-01-01_covid-19_infects_the_tanker_market.md",
+  "source_url": "https://www.poten.com/tanker-opinion-8-january-2021-covid-19-infects-the-tanker-market/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market__s01_poten_tanker_opinion_covid_19_infects_the_tanker_market",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market__root",
+      "title": "Poten Tanker Opinion: Covid-19 Infects the Tanker Market",
+      "section_path": [
+        "Poten Tanker Opinion: Covid-19 Infects the Tanker Market"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Covid-19 Infects the Tanker Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-8-january-2021-covid-19-infects-the-tanker-market/](https://www.poten.com/tanker-opinion-8-january-2021-covid-19-infects-the-tanker-market/)\n**Full PDF Report**: [Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf](https://www.poten.com/wp-content/uploads/2021/01/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-January-8-2021-Covid-19-Infects-The-Tanker-Market.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-8-january-2021-covid-19-infects-the-tanker-market",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_covid_19_infects_the_tanker_market__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Covid-19 Infects the Tanker Market\nCovid-19 Infects the Tanker Market",
+      "keywords": [
+        "covid-19",
+        "infects"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

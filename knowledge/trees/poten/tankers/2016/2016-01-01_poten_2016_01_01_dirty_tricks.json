@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Dirty Tricks",
+  "section_path": [
+    "Poten Tanker Opinion: Dirty Tricks"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Dirty Tricks",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Dirty Tricks\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/dirty-tricks/](https://www.poten.com/dirty-tricks/)\n**Full PDF Report**: [Weekly-Opinion-March-24-2016-Dirty-Tricks.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/03/Weekly-Opinion-March-24-2016-Dirty-Tricks.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-March-24-2016-Dirty-Tricks.pdf. Analysis & Overview\nDirty Tricks\n24 Mar 2016:Â As we are approaching the end of the first quarter of 2016, we have taken a closer look at our dirty fixture information for 2015 as it compares to 2014 and Q1 2016. The objective is to identify dirty trade routes that have seen significant changes from one year to the next.",
+  "keywords": [
+    "dirty",
+    "https",
+    "full",
+    "pdf",
+    "tricks",
+    "www.poten.com/dirty-tricks",
+    "analysis",
+    "approaching",
+    "archived",
+    "are",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 235,
+  "source_path": "reports/poten/2016/poten_2016-01-01_dirty_tricks.md",
+  "source_url": "https://www.poten.com/dirty-tricks/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks__s01_poten_tanker_opinion_dirty_tricks",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks__root",
+      "title": "Poten Tanker Opinion: Dirty Tricks",
+      "section_path": [
+        "Poten Tanker Opinion: Dirty Tricks"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Dirty Tricks",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/dirty-tricks/](https://www.poten.com/dirty-tricks/)\n**Full PDF Report**: [Weekly-Opinion-March-24-2016-Dirty-Tricks.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/03/Weekly-Opinion-March-24-2016-Dirty-Tricks.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-March-24-2016-Dirty-Tricks.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/dirty-tricks",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_dirty_tricks__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Dirty Tricks\n24 Mar 2016:Â As we are approaching the end of the first quarter of 2016, we have taken a closer look at our dirty fixture information for 2015 as it compares to 2014 and Q1 2016. The objective is to identify dirty trade routes that have seen significant changes from one year to the next.",
+      "keywords": [
+        "dirty",
+        "approaching",
+        "are",
+        "changes",
+        "closer",
+        "compares",
+        "end",
+        "first"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

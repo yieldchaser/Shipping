@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T14:58:31Z",
+ "generated_at": "2026-09-11T18:07:33Z",
  "compiler_version": 2,
- "count": 81,
+ "count": 104,
  "files": [
   {
    "file": "baltic_container.jsonl",
@@ -169,7 +169,7 @@
    "path": "knowledge/chunks/broker_reports_broker_report_2026.jsonl",
    "stem": "broker_reports_broker_report_2026",
    "year": 2026,
-   "bytes": 4401009
+   "bytes": 4428647
   },
   {
    "file": "bunker_and_carbon_spreads_2026.jsonl",
@@ -550,11 +550,172 @@
    "bytes": 93234
   },
   {
+   "file": "poten_tankers_2004.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2004.jsonl",
+   "stem": "poten_tankers_2004",
+   "year": 2004,
+   "bytes": 175546
+  },
+  {
+   "file": "poten_tankers_2005.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2005.jsonl",
+   "stem": "poten_tankers_2005",
+   "year": 2005,
+   "bytes": 152353
+  },
+  {
+   "file": "poten_tankers_2006.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2006.jsonl",
+   "stem": "poten_tankers_2006",
+   "year": 2006,
+   "bytes": 140237
+  },
+  {
+   "file": "poten_tankers_2007.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2007.jsonl",
+   "stem": "poten_tankers_2007",
+   "year": 2007,
+   "bytes": 128573
+  },
+  {
+   "file": "poten_tankers_2008.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2008.jsonl",
+   "stem": "poten_tankers_2008",
+   "year": 2008,
+   "bytes": 136045
+  },
+  {
+   "file": "poten_tankers_2009.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2009.jsonl",
+   "stem": "poten_tankers_2009",
+   "year": 2009,
+   "bytes": 153570
+  },
+  {
+   "file": "poten_tankers_2010.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2010.jsonl",
+   "stem": "poten_tankers_2010",
+   "year": 2010,
+   "bytes": 140545
+  },
+  {
+   "file": "poten_tankers_2011.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2011.jsonl",
+   "stem": "poten_tankers_2011",
+   "year": 2011,
+   "bytes": 144457
+  },
+  {
+   "file": "poten_tankers_2012.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2012.jsonl",
+   "stem": "poten_tankers_2012",
+   "year": 2012,
+   "bytes": 156847
+  },
+  {
+   "file": "poten_tankers_2013.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2013.jsonl",
+   "stem": "poten_tankers_2013",
+   "year": 2013,
+   "bytes": 169553
+  },
+  {
+   "file": "poten_tankers_2014.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2014.jsonl",
+   "stem": "poten_tankers_2014",
+   "year": 2014,
+   "bytes": 146898
+  },
+  {
+   "file": "poten_tankers_2015.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2015.jsonl",
+   "stem": "poten_tankers_2015",
+   "year": 2015,
+   "bytes": 166405
+  },
+  {
+   "file": "poten_tankers_2016.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2016.jsonl",
+   "stem": "poten_tankers_2016",
+   "year": 2016,
+   "bytes": 179914
+  },
+  {
+   "file": "poten_tankers_2017.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2017.jsonl",
+   "stem": "poten_tankers_2017",
+   "year": 2017,
+   "bytes": 152445
+  },
+  {
+   "file": "poten_tankers_2018.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2018.jsonl",
+   "stem": "poten_tankers_2018",
+   "year": 2018,
+   "bytes": 134211
+  },
+  {
+   "file": "poten_tankers_2019.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2019.jsonl",
+   "stem": "poten_tankers_2019",
+   "year": 2019,
+   "bytes": 168372
+  },
+  {
+   "file": "poten_tankers_2020.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2020.jsonl",
+   "stem": "poten_tankers_2020",
+   "year": 2020,
+   "bytes": 110748
+  },
+  {
+   "file": "poten_tankers_2021.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2021.jsonl",
+   "stem": "poten_tankers_2021",
+   "year": 2021,
+   "bytes": 124526
+  },
+  {
+   "file": "poten_tankers_2022.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2022.jsonl",
+   "stem": "poten_tankers_2022",
+   "year": 2022,
+   "bytes": 140389
+  },
+  {
+   "file": "poten_tankers_2023.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2023.jsonl",
+   "stem": "poten_tankers_2023",
+   "year": 2023,
+   "bytes": 134996
+  },
+  {
+   "file": "poten_tankers_2024.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2024.jsonl",
+   "stem": "poten_tankers_2024",
+   "year": 2024,
+   "bytes": 136707
+  },
+  {
+   "file": "poten_tankers_2025.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2025.jsonl",
+   "stem": "poten_tankers_2025",
+   "year": 2025,
+   "bytes": 128513
+  },
+  {
    "file": "poten_tankers_2026.jsonl",
    "path": "knowledge/chunks/poten_tankers_2026.jsonl",
    "stem": "poten_tankers_2026",
    "year": 2026,
-   "bytes": 117205
+   "bytes": 124239
+  },
+  {
+   "file": "poten_tankers_2030.jsonl",
+   "path": "knowledge/chunks/poten_tankers_2030.jsonl",
+   "stem": "poten_tankers_2030",
+   "year": 2030,
+   "bytes": 3124
   },
   {
    "file": "regional_freight_spreads_2026.jsonl",

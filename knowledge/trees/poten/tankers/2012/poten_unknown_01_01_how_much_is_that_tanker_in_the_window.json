@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: How Much Is That Tanker In The Window",
+  "section_path": [
+    "Poten Tanker Opinion: How Much Is That Tanker In The Window"
+  ],
+  "section_path_text": "Poten Tanker Opinion: How Much Is That Tanker In The Window",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: How Much Is That Tanker In The Window\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/how-much-is-that-tanker-in-the-window/](https://www.poten.com/how-much-is-that-tanker-in-the-window/)\n**Full PDF Report**: [Tanker_Opinion_20120224.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120224.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120224.pdf. Analysis & Overview\nHow Much Is That Tanker In The Window\nHow Much Is That Tanker In The Window",
+  "keywords": [
+    "how",
+    "https",
+    "much",
+    "window",
+    "full",
+    "pdf",
+    "www.poten.com/how-much-is-that-tanker-in-the-window",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 169,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_how_much_is_that_tanker_in_the_window.md",
+  "source_url": "https://www.poten.com/how-much-is-that-tanker-in-the-window/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window__s01_poten_tanker_opinion_how_much_is_that_tanker_in_the_window",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window__root",
+      "title": "Poten Tanker Opinion: How Much Is That Tanker In The Window",
+      "section_path": [
+        "Poten Tanker Opinion: How Much Is That Tanker In The Window"
+      ],
+      "section_path_text": "Poten Tanker Opinion: How Much Is That Tanker In The Window",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/how-much-is-that-tanker-in-the-window/](https://www.poten.com/how-much-is-that-tanker-in-the-window/)\n**Full PDF Report**: [Tanker_Opinion_20120224.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120224.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120224.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/how-much-is-that-tanker-in-the-window",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_how_much_is_that_tanker_in_the_window__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "How Much Is That Tanker In The Window\nHow Much Is That Tanker In The Window",
+      "keywords": [
+        "how",
+        "much",
+        "window"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

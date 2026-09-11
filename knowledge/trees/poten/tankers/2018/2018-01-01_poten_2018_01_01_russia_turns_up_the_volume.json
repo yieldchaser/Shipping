@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Russia Turns Up The Volume",
+  "section_path": [
+    "Poten Tanker Opinion: Russia Turns Up The Volume"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Russia Turns Up The Volume",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Russia Turns Up The Volume\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/russia-turns-up-the-volume/](https://www.poten.com/russia-turns-up-the-volume/)\n**Full PDF Report**: [Weekly-Opinion-4-May-2018-Russia-Turns-Up-The-Volume.pdf](http://www.poten.com/wp-content/uploads/2018/05/Weekly-Opinion-4-May-2018-Russia-Turns-Up-The-Volume.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-4-May-2018-Russia-Turns-Up-The-Volume.pdf. Analysis & Overview\nRussia Turns Up The Volume\nRussia Turns Up The Volume",
+  "keywords": [
+    "russia",
+    "turns",
+    "volume",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/russia-turns-up-the-volume",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 183,
+  "source_path": "reports/poten/2018/poten_2018-01-01_russia_turns_up_the_volume.md",
+  "source_url": "https://www.poten.com/russia-turns-up-the-volume/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume__s01_poten_tanker_opinion_russia_turns_up_the_volume",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume__root",
+      "title": "Poten Tanker Opinion: Russia Turns Up The Volume",
+      "section_path": [
+        "Poten Tanker Opinion: Russia Turns Up The Volume"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Russia Turns Up The Volume",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/russia-turns-up-the-volume/](https://www.poten.com/russia-turns-up-the-volume/)\n**Full PDF Report**: [Weekly-Opinion-4-May-2018-Russia-Turns-Up-The-Volume.pdf](http://www.poten.com/wp-content/uploads/2018/05/Weekly-Opinion-4-May-2018-Russia-Turns-Up-The-Volume.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-4-May-2018-Russia-Turns-Up-The-Volume.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/russia-turns-up-the-volume",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_russia_turns_up_the_volume__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Russia Turns Up The Volume\nRussia Turns Up The Volume",
+      "keywords": [
+        "russia",
+        "turns",
+        "volume"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Suezmaxes as the Comeback Kid",
+  "section_path": [
+    "Poten Tanker Opinion: Suezmaxes as the Comeback Kid"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Suezmaxes as the Comeback Kid",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Suezmaxes as the Comeback Kid\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/suezmaxes-as-the-comeback-kid/](https://www.poten.com/suezmaxes-as-the-comeback-kid/)\n**Full PDF Report**: [Tanker_Opinion_20141010.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20141010.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20141010.pdf. Analysis & Overview\nSuezmaxes as the Comeback Kid\nSuezmaxes as the Comeback Kid",
+  "keywords": [
+    "suezmax",
+    "comeback",
+    "https",
+    "kid",
+    "suezmaxes",
+    "full",
+    "pdf",
+    "www.poten.com/suezmaxes-as-the-comeback-kid",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 171,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_suezmaxes_as_the_comeback_kid.md",
+  "source_url": "https://www.poten.com/suezmaxes-as-the-comeback-kid/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid__s01_poten_tanker_opinion_suezmaxes_as_the_comeback_kid",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid__root",
+      "title": "Poten Tanker Opinion: Suezmaxes as the Comeback Kid",
+      "section_path": [
+        "Poten Tanker Opinion: Suezmaxes as the Comeback Kid"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Suezmaxes as the Comeback Kid",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/suezmaxes-as-the-comeback-kid/](https://www.poten.com/suezmaxes-as-the-comeback-kid/)\n**Full PDF Report**: [Tanker_Opinion_20141010.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20141010.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20141010.pdf.",
+      "keywords": [
+        "suezmax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/suezmaxes-as-the-comeback-kid",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_suezmaxes_as_the_comeback_kid__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Suezmaxes as the Comeback Kid\nSuezmaxes as the Comeback Kid",
+      "keywords": [
+        "suezmax",
+        "comeback",
+        "kid",
+        "suezmaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter__root",
+  "doc_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Does Size Still Matter",
+  "section_path": [
+    "Poten Tanker Opinion: Does Size Still Matter"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Does Size Still Matter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Does Size Still Matter\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-03-01\n**Source URL**: [https://www.poten.com/does-size-still-matter/](https://www.poten.com/does-size-still-matter/)\n**Full PDF Report**: [Weekly Opinion -1 March 2024 - Does Size Still Matter.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-1%20March%202024%20-%20Does%20Size%20Still%20Matter.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -1 March 2024 - Does Size Still Matter.pdf. Analysis & Overview\nDoes Size Still Matter\nDoes Size Still Matter",
+  "keywords": [
+    "does",
+    "size",
+    "still",
+    "opinion",
+    "https",
+    "march",
+    "matter",
+    "full",
+    "matter.pdf",
+    "pdf",
+    "www.poten.com/does-size-still-matter",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 192,
+  "source_path": "reports/poten/2024/poten_2024-03-01_does_size_still_matter.md",
+  "source_url": "https://www.poten.com/does-size-still-matter/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter__s01_poten_tanker_opinion_does_size_still_matter",
+      "doc_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter",
+      "parent_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter__root",
+      "title": "Poten Tanker Opinion: Does Size Still Matter",
+      "section_path": [
+        "Poten Tanker Opinion: Does Size Still Matter"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Does Size Still Matter",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-03-01\n**Source URL**: [https://www.poten.com/does-size-still-matter/](https://www.poten.com/does-size-still-matter/)\n**Full PDF Report**: [Weekly Opinion -1 March 2024 - Does Size Still Matter.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-1%20March%202024%20-%20Does%20Size%20Still%20Matter.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -1 March 2024 - Does Size Still Matter.pdf.",
+      "keywords": [
+        "does",
+        "https",
+        "march",
+        "opinion",
+        "size",
+        "still",
+        "full",
+        "matter.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter",
+      "parent_id": "poten_tankers_2024-03-01_poten_2024_03_01_does_size_still_matter__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Does Size Still Matter\nDoes Size Still Matter",
+      "keywords": [
+        "does",
+        "matter",
+        "size",
+        "still"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

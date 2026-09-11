@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Managing the Aftershock",
+  "section_path": [
+    "Poten Tanker Opinion: Managing the Aftershock"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Managing the Aftershock",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Managing the Aftershock\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/managing-the-aftershock/](https://www.poten.com/managing-the-aftershock/)\n**Full PDF Report**: [Tanker_Opinion_20110318.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110318.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110318.pdf. Analysis & Overview\nManaging the Aftershock\nManaging the Aftershock",
+  "keywords": [
+    "aftershock",
+    "https",
+    "managing",
+    "full",
+    "pdf",
+    "www.poten.com/managing-the-aftershock",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 154,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_managing_the_aftershock.md",
+  "source_url": "https://www.poten.com/managing-the-aftershock/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock__s01_poten_tanker_opinion_managing_the_aftershock",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock__root",
+      "title": "Poten Tanker Opinion: Managing the Aftershock",
+      "section_path": [
+        "Poten Tanker Opinion: Managing the Aftershock"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Managing the Aftershock",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/managing-the-aftershock/](https://www.poten.com/managing-the-aftershock/)\n**Full PDF Report**: [Tanker_Opinion_20110318.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110318.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110318.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/managing-the-aftershock",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_managing_the_aftershock__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Managing the Aftershock\nManaging the Aftershock",
+      "keywords": [
+        "aftershock",
+        "managing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

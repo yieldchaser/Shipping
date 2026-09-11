@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Line In The Sand",
+  "section_path": [
+    "Poten Tanker Opinion: A Line In The Sand"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Line In The Sand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Line In The Sand\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/a-line-in-the-sand/](https://www.poten.com/a-line-in-the-sand/)\n**Full PDF Report**: [Weekly-Opinion-9-June-2017-A-Line-In-The-Sand.pdf](http://www.poten.com/wp-content/uploads/2017/06/Weekly-Opinion-9-June-2017-A-Line-In-The-Sand.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-9-June-2017-A-Line-In-The-Sand.pdf. Analysis & Overview\nA Line In The Sand\n9 Jun 2017: Â For a tanker analyst, whenever you make a prediction or forecast regarding the direction of the shipping markets, there is always a disclaimer that unexpected geopolitical events could materially change the timing as well as the magnitude of any market correction (up or down).Â This weekâ€™s unforeseen events in Qatar demonstrated again...",
+  "keywords": [
+    "events",
+    "full",
+    "https",
+    "line",
+    "pdf",
+    "sand",
+    "www.poten.com/a-line-in-the-sand",
+    "again...",
+    "always",
+    "analysis",
+    "analyst",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2017/poten_2017-01-01_a_line_in_the_sand.md",
+  "source_url": "https://www.poten.com/a-line-in-the-sand/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand__s01_poten_tanker_opinion_a_line_in_the_sand",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand__root",
+      "title": "Poten Tanker Opinion: A Line In The Sand",
+      "section_path": [
+        "Poten Tanker Opinion: A Line In The Sand"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Line In The Sand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/a-line-in-the-sand/](https://www.poten.com/a-line-in-the-sand/)\n**Full PDF Report**: [Weekly-Opinion-9-June-2017-A-Line-In-The-Sand.pdf](http://www.poten.com/wp-content/uploads/2017/06/Weekly-Opinion-9-June-2017-A-Line-In-The-Sand.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-9-June-2017-A-Line-In-The-Sand.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/a-line-in-the-sand",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_a_line_in_the_sand__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Line In The Sand\n9 Jun 2017: Â For a tanker analyst, whenever you make a prediction or forecast regarding the direction of the shipping markets, there is always a disclaimer that unexpected geopolitical events could materially change the timing as well as the magnitude of any market correction (up or down).Â This weekâ€™s unforeseen events in Qatar demonstrated again...",
+      "keywords": [
+        "events",
+        "again...",
+        "always",
+        "analyst",
+        "any",
+        "change",
+        "correction",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

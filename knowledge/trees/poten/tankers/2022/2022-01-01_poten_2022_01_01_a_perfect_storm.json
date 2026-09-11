@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Perfect Storm",
+  "section_path": [
+    "Poten Tanker Opinion: A Perfect Storm"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Perfect Storm",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Perfect Storm\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-may-27-2022-a-perfect-storm/](https://www.poten.com/tanker-opinion-may-27-2022-a-perfect-storm/)\n**Full PDF Report**: [Weekly-Opinion-27-May-2022-A-Perfect-Storm.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2022/06/Weekly-Opinion-27-May-2022-A-Perfect-Storm.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-27-May-2022-A-Perfect-Storm.pdf. Analysis & Overview\nA Perfect Storm\nA Perfect Storm",
+  "keywords": [
+    "https",
+    "perfect",
+    "storm",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-may-27-2022-a-perfect-storm",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 186,
+  "source_path": "reports/poten/2022/poten_2022-01-01_a_perfect_storm.md",
+  "source_url": "https://www.poten.com/tanker-opinion-may-27-2022-a-perfect-storm/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm__s01_poten_tanker_opinion_a_perfect_storm",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm__root",
+      "title": "Poten Tanker Opinion: A Perfect Storm",
+      "section_path": [
+        "Poten Tanker Opinion: A Perfect Storm"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Perfect Storm",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-may-27-2022-a-perfect-storm/](https://www.poten.com/tanker-opinion-may-27-2022-a-perfect-storm/)\n**Full PDF Report**: [Weekly-Opinion-27-May-2022-A-Perfect-Storm.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2022/06/Weekly-Opinion-27-May-2022-A-Perfect-Storm.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-27-May-2022-A-Perfect-Storm.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-may-27-2022-a-perfect-storm",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_a_perfect_storm__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Perfect Storm\nA Perfect Storm",
+      "keywords": [
+        "perfect",
+        "storm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

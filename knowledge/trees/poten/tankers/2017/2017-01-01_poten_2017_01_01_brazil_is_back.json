@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Brazil is Back",
+  "section_path": [
+    "Poten Tanker Opinion: Brazil is Back"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Brazil is Back",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Brazil is Back\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/brazil-is-back/](https://www.poten.com/brazil-is-back/)\n**Full PDF Report**: [Weekly-Opinion-21-April-2017-Brazil-is-Back.pdf](http://www.poten.com/wp-content/uploads/2017/04/Weekly-Opinion-21-April-2017-Brazil-is-Back.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-21-April-2017-Brazil-is-Back.pdf. Analysis & Overview\nBrazil is Back\n21 Apr 2017:Â Brazil is South Americaâ€™s undisputed energy powerhouse.Â The country is a large energy consumer and producer.Â It is the third largest economy in the Americas, behind the United States and Canada.Â The Brazilian economy and its energy sector went through a rough period from 2014 through 2016 as domestic political turmoil coincided with...",
+  "keywords": [
+    "brazil",
+    "crude_oil",
+    "energy",
+    "back",
+    "economy",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/brazil-is-back",
+    "america",
+    "americas",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 244,
+  "source_path": "reports/poten/2017/poten_2017-01-01_brazil_is_back.md",
+  "source_url": "https://www.poten.com/brazil-is-back/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back__s01_poten_tanker_opinion_brazil_is_back",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back__root",
+      "title": "Poten Tanker Opinion: Brazil is Back",
+      "section_path": [
+        "Poten Tanker Opinion: Brazil is Back"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Brazil is Back",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/brazil-is-back/](https://www.poten.com/brazil-is-back/)\n**Full PDF Report**: [Weekly-Opinion-21-April-2017-Brazil-is-Back.pdf](http://www.poten.com/wp-content/uploads/2017/04/Weekly-Opinion-21-April-2017-Brazil-is-Back.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-21-April-2017-Brazil-is-Back.pdf.",
+      "keywords": [
+        "brazil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/brazil-is-back",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_brazil_is_back__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Brazil is Back\n21 Apr 2017:Â Brazil is South Americaâ€™s undisputed energy powerhouse.Â The country is a large energy consumer and producer.Â It is the third largest economy in the Americas, behind the United States and Canada.Â The Brazilian economy and its energy sector went through a rough period from 2014 through 2016 as domestic political turmoil coincided with...",
+      "keywords": [
+        "brazil",
+        "crude_oil",
+        "energy",
+        "economy",
+        "america",
+        "americas",
+        "apr",
+        "back"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 325,
+  "token_count": 407,
   "source_path": "reports/poten/2026/poten_2026-07-31_surviving_the_sanctions.md",
   "source_url": "https://www.poten.com/surviving-the-sanctions/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Surviving The Sanctions",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-07-31\n**Source URL**: [https://www.poten.com/surviving-the-sanctions/](https://www.poten.com/surviving-the-sanctions/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-07-31\n**Source URL**: [https://www.poten.com/surviving-the-sanctions/](https://www.poten.com/surviving-the-sanctions/)\n**Full PDF Report**: [Weekly Opinion - 31 July 2026 - Surviving The Sanctions.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2031%20July%202026%20-%20Surviving%20The%20Sanctions.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
+        "july",
+        "opinion",
         "published",
-        "summary",
-        "www.poten.com/surviving-the-sanctions",
-        "analysis",
-        "archived"
+        "sanctions.pdf",
+        "summary"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 91,
+      "token_count": 173,
       "section_type": null,
       "children": []
     },

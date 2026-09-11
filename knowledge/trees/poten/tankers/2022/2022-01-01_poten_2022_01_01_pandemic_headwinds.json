@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Pandemic Headwinds",
+  "section_path": [
+    "Poten Tanker Opinion: Pandemic Headwinds"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Pandemic Headwinds",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Pandemic Headwinds\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-may-10-2022-pandemic-headwinds/](https://www.poten.com/tanker-opinions-may-10-2022-pandemic-headwinds/)\n**Full PDF Report**: [Weekly-Opinion-6-May-2022-Pandemic-Headwinds.pdf](https://www.poten.com/wp-content/uploads/2022/05/Weekly-Opinion-6-May-2022-Pandemic-Headwinds.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-6-May-2022-Pandemic-Headwinds.pdf. Analysis & Overview\nPandemic Headwinds\nPandemic Headwinds",
+  "keywords": [
+    "headwinds",
+    "https",
+    "pandemic",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-may-10-2022-pandemic-headwinds",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 199,
+  "source_path": "reports/poten/2022/poten_2022-01-01_pandemic_headwinds.md",
+  "source_url": "https://www.poten.com/tanker-opinions-may-10-2022-pandemic-headwinds/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds__s01_poten_tanker_opinion_pandemic_headwinds",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds__root",
+      "title": "Poten Tanker Opinion: Pandemic Headwinds",
+      "section_path": [
+        "Poten Tanker Opinion: Pandemic Headwinds"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Pandemic Headwinds",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-may-10-2022-pandemic-headwinds/](https://www.poten.com/tanker-opinions-may-10-2022-pandemic-headwinds/)\n**Full PDF Report**: [Weekly-Opinion-6-May-2022-Pandemic-Headwinds.pdf](https://www.poten.com/wp-content/uploads/2022/05/Weekly-Opinion-6-May-2022-Pandemic-Headwinds.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-6-May-2022-Pandemic-Headwinds.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinions-may-10-2022-pandemic-headwinds",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_pandemic_headwinds__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "headwinds",
+        "pandemic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

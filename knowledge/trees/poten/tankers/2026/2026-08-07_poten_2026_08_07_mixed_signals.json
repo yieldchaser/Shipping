@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 315,
+  "token_count": 388,
   "source_path": "reports/poten/2026/poten_2026-08-07_mixed_signals.md",
   "source_url": "https://www.poten.com/mixed-signals/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Mixed Signals",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-08-07\n**Source URL**: [https://www.poten.com/mixed-signals/](https://www.poten.com/mixed-signals/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-08-07\n**Source URL**: [https://www.poten.com/mixed-signals/](https://www.poten.com/mixed-signals/)\n**Full PDF Report**: [Weekly Opinion - 7 August 2026 - Mixed Signals.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%207%20August%202026%20-%20Mixed%20Signals.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
+        "august",
         "author",
         "date",
-        "https",
+        "mixed",
+        "opinion",
         "published",
-        "summary",
-        "www.poten.com/mixed-signals",
-        "analysis",
-        "archived"
+        "signals.pdf"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 87,
+      "token_count": 160,
       "section_type": null,
       "children": []
     },

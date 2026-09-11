@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: MOTIVAting Trade Patterns",
+  "section_path": [
+    "Poten Tanker Opinion: MOTIVAting Trade Patterns"
+  ],
+  "section_path_text": "Poten Tanker Opinion: MOTIVAting Trade Patterns",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: MOTIVAting Trade Patterns\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/motivating-trade-patterns/](https://www.poten.com/motivating-trade-patterns/)\n**Full PDF Report**: [Tanker_Opinion_20120217.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120217.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120217.pdf. Analysis & Overview\nMOTIVAting Trade Patterns\nMOTIVAting Trade Patterns",
+  "keywords": [
+    "https",
+    "motivating",
+    "patterns",
+    "trade",
+    "full",
+    "pdf",
+    "www.poten.com/motivating-trade-patterns",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 151,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_motivating_trade_patterns.md",
+  "source_url": "https://www.poten.com/motivating-trade-patterns/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns__s01_poten_tanker_opinion_motivating_trade_patterns",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns__root",
+      "title": "Poten Tanker Opinion: MOTIVAting Trade Patterns",
+      "section_path": [
+        "Poten Tanker Opinion: MOTIVAting Trade Patterns"
+      ],
+      "section_path_text": "Poten Tanker Opinion: MOTIVAting Trade Patterns",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/motivating-trade-patterns/](https://www.poten.com/motivating-trade-patterns/)\n**Full PDF Report**: [Tanker_Opinion_20120217.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120217.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120217.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/motivating-trade-patterns",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_motivating_trade_patterns__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "MOTIVAting Trade Patterns\nMOTIVAting Trade Patterns",
+      "keywords": [
+        "motivating",
+        "patterns",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

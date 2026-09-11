@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east__root",
+  "doc_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Conflict Brewing In The Middle East",
+  "section_path": [
+    "Poten Tanker Opinion: Conflict Brewing In The Middle East"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Conflict Brewing In The Middle East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Conflict Brewing In The Middle East\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-08-02\n**Source URL**: [https://www.poten.com/conflict-brewing-in-the-middle-east/](https://www.poten.com/conflict-brewing-in-the-middle-east/)\n**Full PDF Report**: [Weekly Opinion - 2 Aug 2024 - Conflict Brewing In The Middle East (UPDATED).pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%202%20Aug%202024%20-%20Conflict%20Brewing%20In%20The%20Middle%20East%20(UPDATED).pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 2 Aug 2024 - Conflict Brewing In The Middle East (UPDATED).pdf. Analysis & Overview\nConflict Brewing In The Middle East\nConflict Brewing In The Middle East",
+  "keywords": [
+    "brewing",
+    "conflict",
+    "east",
+    "middle",
+    "opinion",
+    "pdf",
+    "aug",
+    "https",
+    "updated",
+    "full",
+    "www.poten.com/conflict-brewing-in-the-middle-east",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 226,
+  "source_path": "reports/poten/2024/poten_2024-08-02_conflict_brewing_in_the_middle_east.md",
+  "source_url": "https://www.poten.com/conflict-brewing-in-the-middle-east/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east__s01_poten_tanker_opinion_conflict_brewing_in_the_middle_east",
+      "doc_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east",
+      "parent_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east__root",
+      "title": "Poten Tanker Opinion: Conflict Brewing In The Middle East",
+      "section_path": [
+        "Poten Tanker Opinion: Conflict Brewing In The Middle East"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Conflict Brewing In The Middle East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-08-02\n**Source URL**: [https://www.poten.com/conflict-brewing-in-the-middle-east/](https://www.poten.com/conflict-brewing-in-the-middle-east/)\n**Full PDF Report**: [Weekly Opinion - 2 Aug 2024 - Conflict Brewing In The Middle East (UPDATED).pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%202%20Aug%202024%20-%20Conflict%20Brewing%20In%20The%20Middle%20East%20(UPDATED).pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 2 Aug 2024 - Conflict Brewing In The Middle East (UPDATED).pdf.",
+      "keywords": [
+        "pdf",
+        "aug",
+        "brewing",
+        "conflict",
+        "east",
+        "https",
+        "middle",
+        "opinion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east",
+      "parent_id": "poten_tankers_2024-08-02_poten_2024_08_02_conflict_brewing_in_the_middle_east__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Conflict Brewing In The Middle East\nConflict Brewing In The Middle East",
+      "keywords": [
+        "brewing",
+        "conflict",
+        "east",
+        "middle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

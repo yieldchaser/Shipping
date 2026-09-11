@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: To Fit Or Retrofit",
+  "section_path": [
+    "Poten Tanker Opinion: To Fit Or Retrofit"
+  ],
+  "section_path_text": "Poten Tanker Opinion: To Fit Or Retrofit",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: To Fit Or Retrofit\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/to-fit-or-retrofit/](https://www.poten.com/to-fit-or-retrofit/)\n**Full PDF Report**: [Weekly-Opinion-16-September-2016-To-Fit-Or-Retrofit.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/09/Weekly-Opinion-16-September-2016-To-Fit-Or-Retrofit.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-16-September-2016-To-Fit-Or-Retrofit.pdf. Analysis & Overview\nTo Fit Or Retrofit\n16 Sep 2016: Almost three months after the inauguration of the new locks of the Panama Canal we will try to capture some early indications as to its implications for and utilization by the large tanker market. Some of these early developments may have been expected, while others were less predictable.",
+  "keywords": [
+    "https",
+    "early",
+    "fit",
+    "full",
+    "pdf",
+    "retrofit",
+    "www.poten.com/to-fit-or-retrofit",
+    "after",
+    "almost",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 235,
+  "source_path": "reports/poten/2016/poten_2016-01-01_to_fit_or_retrofit.md",
+  "source_url": "https://www.poten.com/to-fit-or-retrofit/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit__s01_poten_tanker_opinion_to_fit_or_retrofit",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit__root",
+      "title": "Poten Tanker Opinion: To Fit Or Retrofit",
+      "section_path": [
+        "Poten Tanker Opinion: To Fit Or Retrofit"
+      ],
+      "section_path_text": "Poten Tanker Opinion: To Fit Or Retrofit",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/to-fit-or-retrofit/](https://www.poten.com/to-fit-or-retrofit/)\n**Full PDF Report**: [Weekly-Opinion-16-September-2016-To-Fit-Or-Retrofit.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/09/Weekly-Opinion-16-September-2016-To-Fit-Or-Retrofit.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-16-September-2016-To-Fit-Or-Retrofit.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/to-fit-or-retrofit",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_to_fit_or_retrofit__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "To Fit Or Retrofit\n16 Sep 2016: Almost three months after the inauguration of the new locks of the Panama Canal we will try to capture some early indications as to its implications for and utilization by the large tanker market. Some of these early developments may have been expected, while others were less predictable.",
+      "keywords": [
+        "early",
+        "after",
+        "almost",
+        "canal",
+        "capture",
+        "developments",
+        "download",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

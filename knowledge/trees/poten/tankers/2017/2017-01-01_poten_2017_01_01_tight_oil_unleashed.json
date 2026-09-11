@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Tight Oil Unleashed",
+  "section_path": [
+    "Poten Tanker Opinion: Tight Oil Unleashed"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Tight Oil Unleashed",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Tight Oil Unleashed\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/tight-oil-unleashed/](https://www.poten.com/tight-oil-unleashed/)\n**Full PDF Report**: [Weekly-Opinion-24-March-2017-Tight-Oil-Unleashed.pdf](http://www.poten.com/wp-content/uploads/2017/03/Weekly-Opinion-24-March-2017-Tight-Oil-Unleashed.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-24-March-2017-Tight-Oil-Unleashed.pdf. Analysis & Overview\nTight Oil Unleashed\n24 Mar 2017: Â In April 2015, U.S. crude oil production reached 9.627 million barrels per day (mb/d).Â This was the highest production level since the early 1970s, when U.S.",
+  "keywords": [
+    "crude_oil",
+    "oil",
+    "production",
+    "crude",
+    "full",
+    "https",
+    "pdf",
+    "source",
+    "tight",
+    "u.s.",
+    "unleashed",
+    "www.poten.com/tight-oil-unleashed"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 268,
+  "source_path": "reports/poten/2017/poten_2017-01-01_tight_oil_unleashed.md",
+  "source_url": "https://www.poten.com/tight-oil-unleashed/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed__s01_poten_tanker_opinion_tight_oil_unleashed",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed__root",
+      "title": "Poten Tanker Opinion: Tight Oil Unleashed",
+      "section_path": [
+        "Poten Tanker Opinion: Tight Oil Unleashed"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Tight Oil Unleashed",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/tight-oil-unleashed/](https://www.poten.com/tight-oil-unleashed/)\n**Full PDF Report**: [Weekly-Opinion-24-March-2017-Tight-Oil-Unleashed.pdf](http://www.poten.com/wp-content/uploads/2017/03/Weekly-Opinion-24-March-2017-Tight-Oil-Unleashed.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-24-March-2017-Tight-Oil-Unleashed.pdf.",
+      "keywords": [
+        "crude_oil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/tight-oil-unleashed",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_tight_oil_unleashed__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Tight Oil Unleashed\n24 Mar 2017: Â In April 2015, U.S. crude oil production reached 9.627 million barrels per day (mb/d).Â This was the highest production level since the early 1970s, when U.S.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "production",
+        "crude",
+        "u.s.",
+        "april",
+        "barrels",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

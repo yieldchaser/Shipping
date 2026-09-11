@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Take Advantage of this Yard Sale",
+  "section_path": [
+    "Poten Tanker Opinion: Take Advantage of this Yard Sale"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Take Advantage of this Yard Sale",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Take Advantage of this Yard Sale\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/take-advantage-of-this-yard-sale/](https://www.poten.com/take-advantage-of-this-yard-sale/)\n**Full PDF Report**: [Weekly-Opinion-13-May-2016-Take-Advantage-of-This-Yard-Sale.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/05/Weekly-Opinion-13-May-2016-Take-Advantage-of-This-Yard-Sale.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-13-May-2016-Take-Advantage-of-This-Yard-Sale.pdf. Analysis & Overview\nTake Advantage of this Yard Sale\n13 May 2016: Tanker prices have been trending down in recent months, even though freight rates in most tanker segments have been strong. This week, Poten assesses the contract price for a newbuilding VLCC at $90 million and a 5 year old vessel is valued at $74.5 million.",
+  "keywords": [
+    "vlcc",
+    "https",
+    "advantage",
+    "full",
+    "pdf",
+    "poten",
+    "prices",
+    "sale",
+    "take",
+    "www.poten.com/take-advantage-of-this-yard-sale",
+    "yard",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 274,
+  "source_path": "reports/poten/2016/poten_2016-01-01_take_advantage_of_this_yard_sale.md",
+  "source_url": "https://www.poten.com/take-advantage-of-this-yard-sale/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale__s01_poten_tanker_opinion_take_advantage_of_this_yard_sale",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale__root",
+      "title": "Poten Tanker Opinion: Take Advantage of this Yard Sale",
+      "section_path": [
+        "Poten Tanker Opinion: Take Advantage of this Yard Sale"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Take Advantage of this Yard Sale",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/take-advantage-of-this-yard-sale/](https://www.poten.com/take-advantage-of-this-yard-sale/)\n**Full PDF Report**: [Weekly-Opinion-13-May-2016-Take-Advantage-of-This-Yard-Sale.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/05/Weekly-Opinion-13-May-2016-Take-Advantage-of-This-Yard-Sale.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-13-May-2016-Take-Advantage-of-This-Yard-Sale.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/take-advantage-of-this-yard-sale",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_take_advantage_of_this_yard_sale__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Take Advantage of this Yard Sale\n13 May 2016: Tanker prices have been trending down in recent months, even though freight rates in most tanker segments have been strong. This week, Poten assesses the contract price for a newbuilding VLCC at $90 million and a 5 year old vessel is valued at $74.5 million.",
+      "keywords": [
+        "vlcc",
+        "prices",
+        "advantage",
+        "assesses",
+        "contract",
+        "decade",
+        "down",
+        "even"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: An Issue of Sulf-Deprecation",
+  "section_path": [
+    "Poten Tanker Opinion: An Issue of Sulf-Deprecation"
+  ],
+  "section_path_text": "Poten Tanker Opinion: An Issue of Sulf-Deprecation",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: An Issue of Sulf-Deprecation\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/an-issue-of-sulf-deprecation/](https://www.poten.com/an-issue-of-sulf-deprecation/)\n**Full PDF Report**: [Tanker_Opinion_20140801.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140801.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140801.pdf. Analysis & Overview\nAn Issue of Sulf-Deprecation\nAn Issue of Sulf-Deprecation",
+  "keywords": [
+    "https",
+    "issue",
+    "sulf-deprecation",
+    "full",
+    "pdf",
+    "www.poten.com/an-issue-of-sulf-deprecation",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 163,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_an_issue_of_sulf-deprecation.md",
+  "source_url": "https://www.poten.com/an-issue-of-sulf-deprecation/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation__s01_poten_tanker_opinion_an_issue_of_sulf_deprecation",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation__root",
+      "title": "Poten Tanker Opinion: An Issue of Sulf-Deprecation",
+      "section_path": [
+        "Poten Tanker Opinion: An Issue of Sulf-Deprecation"
+      ],
+      "section_path_text": "Poten Tanker Opinion: An Issue of Sulf-Deprecation",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/an-issue-of-sulf-deprecation/](https://www.poten.com/an-issue-of-sulf-deprecation/)\n**Full PDF Report**: [Tanker_Opinion_20140801.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140801.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140801.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/an-issue-of-sulf-deprecation",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_an_issue_of_sulf_deprecation__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "An Issue of Sulf-Deprecation\nAn Issue of Sulf-Deprecation",
+      "keywords": [
+        "issue",
+        "sulf-deprecation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

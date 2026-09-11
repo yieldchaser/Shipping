@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again__root",
+  "doc_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Make America Build Ships Again",
+  "section_path": [
+    "Poten Tanker Opinion: Make America Build Ships Again"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Make America Build Ships Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Make America Build Ships Again\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-04-25\n**Source URL**: [https://www.poten.com/make-america-build-ships-again/](https://www.poten.com/make-america-build-ships-again/)\n**Full PDF Report**: [Weekly Opinion - 25 April 2025 - Make America Build Ships Again.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20April%202025%20-%20Make%20America%20Build%20Ships%20Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 25 April 2025 - Make America Build Ships Again.pdf. Analysis & Overview\nMake America Build Ships Again\nMake America Build Ships Again",
+  "keywords": [
+    "america",
+    "build",
+    "make",
+    "ships",
+    "opinion",
+    "again",
+    "april",
+    "https",
+    "again.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/make-america-build-ships-again"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 209,
+  "source_path": "reports/poten/2025/poten_2025-04-25_make_america_build_ships_again.md",
+  "source_url": "https://www.poten.com/make-america-build-ships-again/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again__s01_poten_tanker_opinion_make_america_build_ships_again",
+      "doc_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again",
+      "parent_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again__root",
+      "title": "Poten Tanker Opinion: Make America Build Ships Again",
+      "section_path": [
+        "Poten Tanker Opinion: Make America Build Ships Again"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Make America Build Ships Again",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-04-25\n**Source URL**: [https://www.poten.com/make-america-build-ships-again/](https://www.poten.com/make-america-build-ships-again/)\n**Full PDF Report**: [Weekly Opinion - 25 April 2025 - Make America Build Ships Again.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2025%20April%202025%20-%20Make%20America%20Build%20Ships%20Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 25 April 2025 - Make America Build Ships Again.pdf.",
+      "keywords": [
+        "america",
+        "april",
+        "build",
+        "https",
+        "make",
+        "opinion",
+        "ships",
+        "again.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again",
+      "parent_id": "poten_tankers_2025-04-25_poten_2025_04_25_make_america_build_ships_again__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Make America Build Ships Again\nMake America Build Ships Again",
+      "keywords": [
+        "again",
+        "america",
+        "build",
+        "make",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

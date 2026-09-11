@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Big Remains Beautiful",
+  "section_path": [
+    "Poten Tanker Opinion: Big Remains Beautiful"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Big Remains Beautiful",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Big Remains Beautiful\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/big-remains-beautiful/](https://www.poten.com/big-remains-beautiful/)\n**Full PDF Report**: [Weekly-Opinion-17-March-2017-Big-Remains-Beautiful.pdf](http://www.poten.com/wp-content/uploads/2017/03/Weekly-Opinion-17-March-2017-Big-Remains-Beautiful.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-17-March-2017-Big-Remains-Beautiful.pdf. Analysis & Overview\nBig Remains Beautiful\n17 Mar 2017: Â Global VLCC trades are dominated by two regions: exports are primarily coming from the countries around the Arabian Gulf and the destination of most of the worldsâ€™ crude oil is Asia. The most recent movement data from Lloydâ€™s List Intelligence confirms this once again.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "are",
+    "beautiful",
+    "big",
+    "full",
+    "https",
+    "pdf",
+    "remains",
+    "www.poten.com/big-remains-beautiful",
+    "again."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 249,
+  "source_path": "reports/poten/2017/poten_2017-01-01_big_remains_beautiful.md",
+  "source_url": "https://www.poten.com/big-remains-beautiful/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful__s01_poten_tanker_opinion_big_remains_beautiful",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful__root",
+      "title": "Poten Tanker Opinion: Big Remains Beautiful",
+      "section_path": [
+        "Poten Tanker Opinion: Big Remains Beautiful"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Big Remains Beautiful",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/big-remains-beautiful/](https://www.poten.com/big-remains-beautiful/)\n**Full PDF Report**: [Weekly-Opinion-17-March-2017-Big-Remains-Beautiful.pdf](http://www.poten.com/wp-content/uploads/2017/03/Weekly-Opinion-17-March-2017-Big-Remains-Beautiful.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-17-March-2017-Big-Remains-Beautiful.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/big-remains-beautiful",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_big_remains_beautiful__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Big Remains Beautiful\n17 Mar 2017: Â Global VLCC trades are dominated by two regions: exports are primarily coming from the countries around the Arabian Gulf and the destination of most of the worldsâ€™ crude oil is Asia. The most recent movement data from Lloydâ€™s List Intelligence confirms this once again.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "are",
+        "again.",
+        "arabian",
+        "around",
+        "asia."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

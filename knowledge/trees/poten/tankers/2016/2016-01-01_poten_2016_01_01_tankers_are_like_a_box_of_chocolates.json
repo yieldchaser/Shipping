@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Tankers Are Like A Box Of Chocolates",
+  "section_path": [
+    "Poten Tanker Opinion: Tankers Are Like A Box Of Chocolates"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Tankers Are Like A Box Of Chocolates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Tankers Are Like A Box Of Chocolates\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/tankers-are-like-a-box-of-chocolates/](https://www.poten.com/tankers-are-like-a-box-of-chocolates/)\n**Full PDF Report**: [Weekly-Opinion-February-19-2016-Tankers-Are-Like-A-Box-Of-Chocolate_3.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/02/Weekly-Opinion-February-19-2016-Tankers-Are-Like-A-Box-Of-Chocolate_3.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-February-19-2016-Tankers-Are-Like-A-Box-Of-Chocolate_3.pdf. Analysis & Overview\nTankers Are Like A Box Of Chocolates\n19 Feb 2016: The uncertainty around the direction of the tanker market has increased since the start of 2016. At current production levels, the markets for both crude oil and (certain) refined products seem oversupplied, which supports healthy spot rates for both crude oil and product tankers.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "crude",
+    "https",
+    "are",
+    "both",
+    "box",
+    "chocolates",
+    "full",
+    "like",
+    "oil",
+    "pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 301,
+  "source_path": "reports/poten/2016/poten_2016-01-01_tankers_are_like_a_box_of_chocolates.md",
+  "source_url": "https://www.poten.com/tankers-are-like-a-box-of-chocolates/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates__s01_poten_tanker_opinion_tankers_are_like_a_box_of_chocolates",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates__root",
+      "title": "Poten Tanker Opinion: Tankers Are Like A Box Of Chocolates",
+      "section_path": [
+        "Poten Tanker Opinion: Tankers Are Like A Box Of Chocolates"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Tankers Are Like A Box Of Chocolates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/tankers-are-like-a-box-of-chocolates/](https://www.poten.com/tankers-are-like-a-box-of-chocolates/)\n**Full PDF Report**: [Weekly-Opinion-February-19-2016-Tankers-Are-Like-A-Box-Of-Chocolate_3.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/02/Weekly-Opinion-February-19-2016-Tankers-Are-Like-A-Box-Of-Chocolate_3.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-February-19-2016-Tankers-Are-Like-A-Box-Of-Chocolate_3.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tankers-are-like-a-box-of-chocolates",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_are_like_a_box_of_chocolates__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Tankers Are Like A Box Of Chocolates\n19 Feb 2016: The uncertainty around the direction of the tanker market has increased since the start of 2016. At current production levels, the markets for both crude oil and (certain) refined products seem oversupplied, which supports healthy spot rates for both crude oil and product tankers.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "crude",
+        "both",
+        "oil",
+        "are",
+        "argue",
+        "around"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

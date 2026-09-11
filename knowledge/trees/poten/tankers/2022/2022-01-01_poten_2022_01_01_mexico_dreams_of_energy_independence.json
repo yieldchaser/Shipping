@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Mexico Dreams Of Energy Independence",
+  "section_path": [
+    "Poten Tanker Opinion: Mexico Dreams Of Energy Independence"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Mexico Dreams Of Energy Independence",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Mexico Dreams Of Energy Independence\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-14-january-2022-mexico-dreams-of-energy-independence/](https://www.poten.com/tanker-opinion-14-january-2022-mexico-dreams-of-energy-independence/)\n**Full PDF Report**: [Weekly-Opinion-14-January-2022-Mexico-Dreams-of-Energy-Independence.pdf](https://www.poten.com/wp-content/uploads/2022/01/Weekly-Opinion-14-January-2022-Mexico-Dreams-of-Energy-Independence.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-14-January-2022-Mexico-Dreams-of-Energy-Independence.pdf. Analysis & Overview\nMexico Dreams Of Energy Independence\nMexico Dreams Of Energy Independence",
+  "keywords": [
+    "dreams",
+    "energy",
+    "https",
+    "independence",
+    "mexico",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-14-january-2022-mexico-dreams-of-energy-independence",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 225,
+  "source_path": "reports/poten/2022/poten_2022-01-01_mexico_dreams_of_energy_independence.md",
+  "source_url": "https://www.poten.com/tanker-opinion-14-january-2022-mexico-dreams-of-energy-independence/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence__s01_poten_tanker_opinion_mexico_dreams_of_energy_independence",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence__root",
+      "title": "Poten Tanker Opinion: Mexico Dreams Of Energy Independence",
+      "section_path": [
+        "Poten Tanker Opinion: Mexico Dreams Of Energy Independence"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Mexico Dreams Of Energy Independence",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-14-january-2022-mexico-dreams-of-energy-independence/](https://www.poten.com/tanker-opinion-14-january-2022-mexico-dreams-of-energy-independence/)\n**Full PDF Report**: [Weekly-Opinion-14-January-2022-Mexico-Dreams-of-Energy-Independence.pdf](https://www.poten.com/wp-content/uploads/2022/01/Weekly-Opinion-14-January-2022-Mexico-Dreams-of-Energy-Independence.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-14-January-2022-Mexico-Dreams-of-Energy-Independence.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-14-january-2022-mexico-dreams-of-energy-independence",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_mexico_dreams_of_energy_independence__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Mexico Dreams Of Energy Independence\nMexico Dreams Of Energy Independence",
+      "keywords": [
+        "dreams",
+        "energy",
+        "independence",
+        "mexico"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

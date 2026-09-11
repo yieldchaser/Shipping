@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Deal Is Done",
+  "section_path": [
+    "Poten Tanker Opinion: A Deal Is Done"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Deal Is Done",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Deal Is Done\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/a-deal-is-done/](https://www.poten.com/a-deal-is-done/)\n**Full PDF Report**: [Weekly-Opinion-7-December-2018-A-Deal-Is-Done.pdf](http://www.poten.com/wp-content/uploads/2018/12/Weekly-Opinion-7-December-2018-A-Deal-Is-Done.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-7-December-2018-A-Deal-Is-Done.pdf. Analysis & Overview\nA Deal Is Done\nA Deal Is Done",
+  "keywords": [
+    "deal",
+    "done",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/a-deal-is-done",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 173,
+  "source_path": "reports/poten/2018/poten_2018-01-01_a_deal_is_done.md",
+  "source_url": "https://www.poten.com/a-deal-is-done/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done__s01_poten_tanker_opinion_a_deal_is_done",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done__root",
+      "title": "Poten Tanker Opinion: A Deal Is Done",
+      "section_path": [
+        "Poten Tanker Opinion: A Deal Is Done"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Deal Is Done",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/a-deal-is-done/](https://www.poten.com/a-deal-is-done/)\n**Full PDF Report**: [Weekly-Opinion-7-December-2018-A-Deal-Is-Done.pdf](http://www.poten.com/wp-content/uploads/2018/12/Weekly-Opinion-7-December-2018-A-Deal-Is-Done.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-7-December-2018-A-Deal-Is-Done.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/a-deal-is-done",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_a_deal_is_done__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Deal Is Done\nA Deal Is Done",
+      "keywords": [
+        "deal",
+        "done"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

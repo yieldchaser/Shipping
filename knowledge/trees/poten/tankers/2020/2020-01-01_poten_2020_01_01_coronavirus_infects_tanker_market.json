@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Coronavirus Infects Tanker Market",
+  "section_path": [
+    "Poten Tanker Opinion: Coronavirus Infects Tanker Market"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Coronavirus Infects Tanker Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Coronavirus Infects Tanker Market\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/coronavirus-infects-tanker-market/](https://www.poten.com/coronavirus-infects-tanker-market/)\n**Full PDF Report**: [Weekly-Opinion-14-February-2020-Corona-Virus-Infects-Tanker-Market.pdf](http://www.poten.com/wp-content/uploads/2020/02/Weekly-Opinion-14-February-2020-Corona-Virus-Infects-Tanker-Market.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-14-February-2020-Corona-Virus-Infects-Tanker-Market.pdf. Analysis & Overview\nCoronavirus Infects Tanker Market\n14 February 2020: The coronavirus (now officially called COVID-19 by the World Health Organization) continues to spread, albeit primarily among the unfortunate population of mainland China.Â When we talked about the coronavirus in our Weekly Opinion three weeks ago, officials had counted 600 infected people and 17 deaths.Â The most recent numbers are 60,360 people...",
+  "keywords": [
+    "china",
+    "coronavirus",
+    "full",
+    "https",
+    "infects",
+    "opinion",
+    "pdf",
+    "www.poten.com/coronavirus-infects-tanker-market",
+    "ago",
+    "albeit",
+    "among",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 278,
+  "source_path": "reports/poten/2020/poten_2020-01-01_coronavirus_infects_tanker_market.md",
+  "source_url": "https://www.poten.com/coronavirus-infects-tanker-market/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market__s01_poten_tanker_opinion_coronavirus_infects_tanker_market",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market__root",
+      "title": "Poten Tanker Opinion: Coronavirus Infects Tanker Market",
+      "section_path": [
+        "Poten Tanker Opinion: Coronavirus Infects Tanker Market"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Coronavirus Infects Tanker Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/coronavirus-infects-tanker-market/](https://www.poten.com/coronavirus-infects-tanker-market/)\n**Full PDF Report**: [Weekly-Opinion-14-February-2020-Corona-Virus-Infects-Tanker-Market.pdf](http://www.poten.com/wp-content/uploads/2020/02/Weekly-Opinion-14-February-2020-Corona-Virus-Infects-Tanker-Market.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-14-February-2020-Corona-Virus-Infects-Tanker-Market.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/coronavirus-infects-tanker-market",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_coronavirus_infects_tanker_market__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Coronavirus Infects Tanker Market\n14 February 2020: The coronavirus (now officially called COVID-19 by the World Health Organization) continues to spread, albeit primarily among the unfortunate population of mainland China.Â When we talked about the coronavirus in our Weekly Opinion three weeks ago, officials had counted 600 infected people and 17 deaths.Â The most recent numbers are 60,360 people...",
+      "keywords": [
+        "china",
+        "coronavirus",
+        "ago",
+        "albeit",
+        "among",
+        "are",
+        "called",
+        "china."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

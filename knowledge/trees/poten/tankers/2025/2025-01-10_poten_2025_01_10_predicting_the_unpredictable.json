@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable__root",
+  "doc_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Predicting The Unpredictable",
+  "section_path": [
+    "Poten Tanker Opinion: Predicting The Unpredictable"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Predicting The Unpredictable",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Predicting The Unpredictable\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-01-10\n**Source URL**: [https://www.poten.com/predicting-the-unpredictable/](https://www.poten.com/predicting-the-unpredictable/)\n**Full PDF Report**: [Weekly Opinion - 10 January 2025 - Predicting The Upredictable.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2010%20January%202025%20-%20Predicting%20The%20Upredictable.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 10 January 2025 - Predicting The Upredictable.pdf. Analysis & Overview\nPredicting The Unpredictable\nPredicting The Unpredictable",
+  "keywords": [
+    "predicting",
+    "opinion",
+    "https",
+    "january",
+    "unpredictable",
+    "full",
+    "pdf",
+    "upredictable.pdf",
+    "www.poten.com/predicting-the-unpredictable",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 204,
+  "source_path": "reports/poten/2025/poten_2025-01-10_predicting_the_unpredictable.md",
+  "source_url": "https://www.poten.com/predicting-the-unpredictable/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable__s01_poten_tanker_opinion_predicting_the_unpredictable",
+      "doc_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable",
+      "parent_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable__root",
+      "title": "Poten Tanker Opinion: Predicting The Unpredictable",
+      "section_path": [
+        "Poten Tanker Opinion: Predicting The Unpredictable"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Predicting The Unpredictable",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-01-10\n**Source URL**: [https://www.poten.com/predicting-the-unpredictable/](https://www.poten.com/predicting-the-unpredictable/)\n**Full PDF Report**: [Weekly Opinion - 10 January 2025 - Predicting The Upredictable.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2010%20January%202025%20-%20Predicting%20The%20Upredictable.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 10 January 2025 - Predicting The Upredictable.pdf.",
+      "keywords": [
+        "https",
+        "january",
+        "opinion",
+        "predicting",
+        "full",
+        "pdf",
+        "upredictable.pdf",
+        "www.poten.com/predicting-the-unpredictable"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable",
+      "parent_id": "poten_tankers_2025-01-10_poten_2025_01_10_predicting_the_unpredictable__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Predicting The Unpredictable\nPredicting The Unpredictable",
+      "keywords": [
+        "predicting",
+        "unpredictable"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

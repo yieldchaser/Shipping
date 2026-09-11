@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026",
+  "parent_id": null,
+  "title": "Fearnleys Week 37 2026",
+  "section_path": [
+    "Fearnleys Week 37 2026"
+  ],
+  "section_path_text": "Fearnleys Week 37 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Fearnleys Week 37 2026\n**Broker**: General Broker\n**Published Date**: 10/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-37-2026/](https://www.hellenicshippingnews.com/fearnleys-week-37-2026/)\n\nMarket Report Content\nFearnleys\nWeekly Report\nWeek 37 - September 9, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nThe VLCC positions list is now so tight that no one would be too surprised if we see\nthe WS 400 mark breached for a Fujairah/East run off a prompt-ish position before\nlong, crazy as it may sound. Speed blindness does not even begin to describe the\ncurrent mood. However, the oil still needs to get out through the Strait of Hormuz and\nIranians have increased efforts to stop that from happening.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3278,
+  "source_path": "reports/broker_reports/2026/general_broker_10_09_2026_fearnleys_week_37_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/fearnleys-week-37-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026__s01_fearnleys_week_37_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026__root",
+      "title": "Fearnleys Week 37 2026",
+      "section_path": [
+        "Fearnleys Week 37 2026"
+      ],
+      "section_path_text": "Fearnleys Week 37 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 10/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-37-2026/](https://www.hellenicshippingnews.com/fearnleys-week-37-2026/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/fearnleys-week-37-2026",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_fearnleys_week_37_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fearnleys\nWeekly Report\nWeek 37 - September 9, 2026\ninfo@hellenicshippingnews.com\n01Tankers\nVLCC\nSuezmax\nThe VLCC positions list is now so tight that no one would be too surprised if we see\nthe WS 400 mark breached for a Fujairah/East run off a prompt-ish position before\nlong, crazy as it may sound. Speed blindness does not even begin to describe the\ncurrent mood.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3201,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

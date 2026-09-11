@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 271,
+  "token_count": 354,
   "source_path": "reports/poten/2026/poten_2026-01-09_show_me_the_barrels.md",
   "source_url": "https://www.poten.com/show-me-the-barrels/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Show Me The Barrels",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-01-09\n**Source URL**: [https://www.poten.com/show-me-the-barrels/](https://www.poten.com/show-me-the-barrels/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-01-09\n**Source URL**: [https://www.poten.com/show-me-the-barrels/](https://www.poten.com/show-me-the-barrels/)\n**Full PDF Report**: [Weekly Opinion - January 9 2026 - Show Me The Barrels.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%20January%209%202026%20-%20Show%20Me%20The%20Barrels.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
-        "author",
-        "date",
         "https",
+        "author",
+        "barrels.pdf",
+        "date",
+        "january",
+        "opinion",
         "published",
-        "summary",
-        "www.poten.com/show-me-the-barrels",
-        "analysis",
-        "archived"
+        "show"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 87,
+      "token_count": 170,
       "section_type": null,
       "children": []
     },

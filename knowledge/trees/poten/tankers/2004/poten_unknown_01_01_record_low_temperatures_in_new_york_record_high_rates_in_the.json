@@ -1,0 +1,89 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Record Low Temperatures in New York,Record High Rates in the Caribbean",
+  "section_path": [
+    "Poten Tanker Opinion: Record Low Temperatures in New York,Record High Rates in the Caribbean"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Record Low Temperatures in New York,Record High Rates in the Caribbean",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Record Low Temperatures in New York,Record High Rates in the Caribbean\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/record-low-temperatures-in-new-yorkrecord-high-rates-in-the-caribbean/](https://www.poten.com/record-low-temperatures-in-new-yorkrecord-high-rates-in-the-caribbean/)\n**Full PDF Report**: [Tanker_Opinion_20040116.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040116.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040116.pdf. Analysis & Overview\nRecord Low Temperatures in New York,Record High Rates in the Caribbean\nRecord Low Temperatures in New York,Record High Rates in the Caribbean",
+  "keywords": [
+    "record",
+    "caribbean",
+    "high",
+    "https",
+    "low",
+    "new",
+    "temperatures",
+    "york",
+    "full",
+    "pdf",
+    "www.poten.com/record-low-temperatures-in-new-yorkrecord-high-rates-in-the-caribbean",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 202,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_record_low_temperatures_in_new_york_record_high_rates_in_the.md",
+  "source_url": "https://www.poten.com/record-low-temperatures-in-new-yorkrecord-high-rates-in-the-caribbean/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the__s01_poten_tanker_opinion_record_low_temperatures_in_new_york_record_high_rates_in_the_caribbean",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the__root",
+      "title": "Poten Tanker Opinion: Record Low Temperatures in New York,Record High Rates in the Caribbean",
+      "section_path": [
+        "Poten Tanker Opinion: Record Low Temperatures in New York,Record High Rates in the Caribbean"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Record Low Temperatures in New York,Record High Rates in the Caribbean",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/record-low-temperatures-in-new-yorkrecord-high-rates-in-the-caribbean/](https://www.poten.com/record-low-temperatures-in-new-yorkrecord-high-rates-in-the-caribbean/)\n**Full PDF Report**: [Tanker_Opinion_20040116.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040116.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040116.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/record-low-temperatures-in-new-yorkrecord-high-rates-in-the-caribbean",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_record_low_temperatures_in_new_york_record_high_rates_in_the__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Record Low Temperatures in New York,Record High Rates in the Caribbean\nRecord Low Temperatures in New York,Record High Rates in the Caribbean",
+      "keywords": [
+        "record",
+        "caribbean",
+        "high",
+        "low",
+        "new",
+        "temperatures",
+        "york"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

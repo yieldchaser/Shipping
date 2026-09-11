@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll__root",
+  "doc_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: 2006 IEA Outlook Let the Good Times Roll",
+  "section_path": [
+    "Poten Tanker Opinion: 2006 IEA Outlook Let the Good Times Roll"
+  ],
+  "section_path_text": "Poten Tanker Opinion: 2006 IEA Outlook Let the Good Times Roll",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: 2006 IEA Outlook Let the Good Times Roll\n**Author**: Erik Broekhuizen\n**Published Date**: 2006-01-01\n**Source URL**: [https://www.poten.com/2006-iea-outlook-let-the-good-times-roll/](https://www.poten.com/2006-iea-outlook-let-the-good-times-roll/)\n**Full PDF Report**: [Tanker_Opinion_20060707.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20060707.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2006/Tanker_Opinion_20060707.pdf. Analysis & Overview\n2006 IEA Outlook Let the Good Times Roll\n2006 IEA Outlook Let the Good Times Roll",
+  "keywords": [
+    "good",
+    "https",
+    "iea",
+    "let",
+    "outlook",
+    "roll",
+    "times",
+    "full",
+    "pdf",
+    "www.poten.com/2006-iea-outlook-let-the-good-times-roll",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 182,
+  "source_path": "reports/poten/2006/poten_2006-01-01_2006_iea_outlook_let_the_good_times_roll.md",
+  "source_url": "https://www.poten.com/2006-iea-outlook-let-the-good-times-roll/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll__s01_poten_tanker_opinion_2006_iea_outlook_let_the_good_times_roll",
+      "doc_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll",
+      "parent_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll__root",
+      "title": "Poten Tanker Opinion: 2006 IEA Outlook Let the Good Times Roll",
+      "section_path": [
+        "Poten Tanker Opinion: 2006 IEA Outlook Let the Good Times Roll"
+      ],
+      "section_path_text": "Poten Tanker Opinion: 2006 IEA Outlook Let the Good Times Roll",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2006-01-01\n**Source URL**: [https://www.poten.com/2006-iea-outlook-let-the-good-times-roll/](https://www.poten.com/2006-iea-outlook-let-the-good-times-roll/)\n**Full PDF Report**: [Tanker_Opinion_20060707.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20060707.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2006/Tanker_Opinion_20060707.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/2006-iea-outlook-let-the-good-times-roll",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll__s02_analysis_overview",
+      "doc_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll",
+      "parent_id": "poten_tankers_2006-01-01_poten_2006_01_01_2006_iea_outlook_let_the_good_times_roll__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "2006 IEA Outlook Let the Good Times Roll\n2006 IEA Outlook Let the Good Times Roll",
+      "keywords": [
+        "good",
+        "iea",
+        "let",
+        "outlook",
+        "roll",
+        "times"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again__root",
+  "doc_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Will the Dragon Rise Again",
+  "section_path": [
+    "Poten Tanker Opinion: Will the Dragon Rise Again"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Will the Dragon Rise Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Will the Dragon Rise Again\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-07-12\n**Source URL**: [https://www.poten.com/will-the-dragon-rise-again/](https://www.poten.com/will-the-dragon-rise-again/)\n**Full PDF Report**: [Weekly Opinion - 12 July 2024 - Will The Dragon Rise Again.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20July%202024%20-%20Will%20The%20Dragon%20Rise%20Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 12 July 2024 - Will The Dragon Rise Again.pdf. Analysis & Overview\nWill the Dragon Rise Again\nWill the Dragon Rise Again",
+  "keywords": [
+    "dragon",
+    "rise",
+    "opinion",
+    "again",
+    "https",
+    "july",
+    "again.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/will-the-dragon-rise-again",
+    "again.pdf.",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 205,
+  "source_path": "reports/poten/2024/poten_2024-07-12_will_the_dragon_rise_again.md",
+  "source_url": "https://www.poten.com/will-the-dragon-rise-again/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again__s01_poten_tanker_opinion_will_the_dragon_rise_again",
+      "doc_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again",
+      "parent_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again__root",
+      "title": "Poten Tanker Opinion: Will the Dragon Rise Again",
+      "section_path": [
+        "Poten Tanker Opinion: Will the Dragon Rise Again"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Will the Dragon Rise Again",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-07-12\n**Source URL**: [https://www.poten.com/will-the-dragon-rise-again/](https://www.poten.com/will-the-dragon-rise-again/)\n**Full PDF Report**: [Weekly Opinion - 12 July 2024 - Will The Dragon Rise Again.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20July%202024%20-%20Will%20The%20Dragon%20Rise%20Again.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 12 July 2024 - Will The Dragon Rise Again.pdf.",
+      "keywords": [
+        "dragon",
+        "https",
+        "july",
+        "opinion",
+        "rise",
+        "again.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again",
+      "parent_id": "poten_tankers_2024-07-12_poten_2024_07_12_will_the_dragon_rise_again__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Will the Dragon Rise Again\nWill the Dragon Rise Again",
+      "keywords": [
+        "again",
+        "dragon",
+        "rise"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

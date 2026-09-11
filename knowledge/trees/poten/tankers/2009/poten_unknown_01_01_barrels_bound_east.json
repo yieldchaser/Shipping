@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Barrels Bound East",
+  "section_path": [
+    "Poten Tanker Opinion: Barrels Bound East"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Barrels Bound East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Barrels Bound East\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/barrels-bound-east/](https://www.poten.com/barrels-bound-east/)\n**Full PDF Report**: [Tanker_Opinion_20091023.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20091023.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20091023.pdf. Analysis & Overview\nBarrels Bound East\nBarrels Bound East",
+  "keywords": [
+    "barrels",
+    "bound",
+    "east",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/barrels-bound-east",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 142,
+  "source_path": "reports/poten/2009/poten_unknown-01-01_barrels_bound_east.md",
+  "source_url": "https://www.poten.com/barrels-bound-east/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east__s01_poten_tanker_opinion_barrels_bound_east",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east__root",
+      "title": "Poten Tanker Opinion: Barrels Bound East",
+      "section_path": [
+        "Poten Tanker Opinion: Barrels Bound East"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Barrels Bound East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/barrels-bound-east/](https://www.poten.com/barrels-bound-east/)\n**Full PDF Report**: [Tanker_Opinion_20091023.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20091023.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20091023.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/barrels-bound-east",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_barrels_bound_east__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Barrels Bound East\nBarrels Bound East",
+      "keywords": [
+        "barrels",
+        "bound",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

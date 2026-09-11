@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep__root",
+  "doc_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Going Deep",
+  "section_path": [
+    "Poten Tanker Opinion: Going Deep"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Going Deep",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Going Deep\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-06-21\n**Source URL**: [https://www.poten.com/going-deep/](https://www.poten.com/going-deep/)\n**Full PDF Report**: [Weekly Opinion - 21 June 2024 - Going Deep.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2021%20June%202024%20-%20Going%20Deep.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 21 June 2024 - Going Deep.pdf. Analysis & Overview\nGoing Deep\n21 June 2024:Deepwater port development will help VLCC demand Over the last decade, the U.S. has developed into the largest crude oil producer in the world.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "going",
+    "june",
+    "opinion",
+    "https",
+    "oil",
+    "crude",
+    "deep",
+    "deep.pdf",
+    "full",
+    "pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 243,
+  "source_path": "reports/poten/2024/poten_2024-06-21_going_deep.md",
+  "source_url": "https://www.poten.com/going-deep/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep__s01_poten_tanker_opinion_going_deep",
+      "doc_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep",
+      "parent_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep__root",
+      "title": "Poten Tanker Opinion: Going Deep",
+      "section_path": [
+        "Poten Tanker Opinion: Going Deep"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Going Deep",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-06-21\n**Source URL**: [https://www.poten.com/going-deep/](https://www.poten.com/going-deep/)\n**Full PDF Report**: [Weekly Opinion - 21 June 2024 - Going Deep.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2021%20June%202024%20-%20Going%20Deep.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 21 June 2024 - Going Deep.pdf.",
+      "keywords": [
+        "going",
+        "https",
+        "june",
+        "opinion",
+        "deep.pdf",
+        "full",
+        "pdf",
+        "www.poten.com/going-deep"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep",
+      "parent_id": "poten_tankers_2024-06-21_poten_2024_06_21_going_deep__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Going Deep\n21 June 2024:Deepwater port development will help VLCC demand Over the last decade, the U.S. has developed into the largest crude oil producer in the world.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "oil",
+        "crude",
+        "shale",
+        "u.s.",
+        "decade",
+        "deep"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

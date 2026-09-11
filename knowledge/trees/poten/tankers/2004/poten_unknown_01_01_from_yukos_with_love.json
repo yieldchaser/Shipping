@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: From Yukos With Love",
+  "section_path": [
+    "Poten Tanker Opinion: From Yukos With Love"
+  ],
+  "section_path_text": "Poten Tanker Opinion: From Yukos With Love",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: From Yukos With Love\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/from-yukos-with-love/](https://www.poten.com/from-yukos-with-love/)\n**Full PDF Report**: [Tanker_Opinion_20040730.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040730.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040730.pdf. Analysis & Overview\nFrom Yukos With Love\nFrom Yukos With Love",
+  "keywords": [
+    "https",
+    "love",
+    "yukos",
+    "full",
+    "pdf",
+    "www.poten.com/from-yukos-with-love",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 151,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_from_yukos_with_love.md",
+  "source_url": "https://www.poten.com/from-yukos-with-love/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love__s01_poten_tanker_opinion_from_yukos_with_love",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love__root",
+      "title": "Poten Tanker Opinion: From Yukos With Love",
+      "section_path": [
+        "Poten Tanker Opinion: From Yukos With Love"
+      ],
+      "section_path_text": "Poten Tanker Opinion: From Yukos With Love",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/from-yukos-with-love/](https://www.poten.com/from-yukos-with-love/)\n**Full PDF Report**: [Tanker_Opinion_20040730.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040730.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040730.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/from-yukos-with-love",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_from_yukos_with_love__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "From Yukos With Love\nFrom Yukos With Love",
+      "keywords": [
+        "love",
+        "yukos"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

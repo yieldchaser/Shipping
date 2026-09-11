@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Recovering Chinese Data Supporting Oil Imports",
+  "section_path": [
+    "Poten Tanker Opinion: Recovering Chinese Data Supporting Oil Imports"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Recovering Chinese Data Supporting Oil Imports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Recovering Chinese Data Supporting Oil Imports\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/recovering-chinese-data-supporting-oil-imports/](https://www.poten.com/recovering-chinese-data-supporting-oil-imports/)\n**Full PDF Report**: [Tanker_Opinion_20121116.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121116.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121116.pdf. Analysis & Overview\nRecovering Chinese Data Supporting Oil Imports\nRecovering Chinese Data Supporting Oil Imports",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "chinese",
+    "data",
+    "https",
+    "imports",
+    "oil",
+    "recovering",
+    "supporting",
+    "full",
+    "pdf",
+    "www.poten.com/recovering-chinese-data-supporting-oil-imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 165,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_recovering_chinese_data_supporting_oil_imports.md",
+  "source_url": "https://www.poten.com/recovering-chinese-data-supporting-oil-imports/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports__s01_poten_tanker_opinion_recovering_chinese_data_supporting_oil_imports",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports__root",
+      "title": "Poten Tanker Opinion: Recovering Chinese Data Supporting Oil Imports",
+      "section_path": [
+        "Poten Tanker Opinion: Recovering Chinese Data Supporting Oil Imports"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Recovering Chinese Data Supporting Oil Imports",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/recovering-chinese-data-supporting-oil-imports/](https://www.poten.com/recovering-chinese-data-supporting-oil-imports/)\n**Full PDF Report**: [Tanker_Opinion_20121116.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121116.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121116.pdf.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/recovering-chinese-data-supporting-oil-imports",
+        "archived",
+        "author"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_recovering_chinese_data_supporting_oil_imports__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Recovering Chinese Data Supporting Oil Imports\nRecovering Chinese Data Supporting Oil Imports",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "chinese",
+        "data",
+        "imports",
+        "oil",
+        "recovering",
+        "supporting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

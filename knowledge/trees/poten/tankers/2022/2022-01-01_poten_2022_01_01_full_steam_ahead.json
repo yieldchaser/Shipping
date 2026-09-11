@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Full Steam Ahead",
+  "section_path": [
+    "Poten Tanker Opinion: Full Steam Ahead"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Full Steam Ahead",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Full Steam Ahead\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-september-30-2022-full-steam-ahead/](https://www.poten.com/tanker-opinion-september-30-2022-full-steam-ahead/)\n**Full PDF Report**: [Weekly-Opinion-16-September-2022-Changing-Tanker-Trades-Down-Under.pdf](https://www.poten.com/wp-content/uploads/2022/09/Weekly-Opinion-16-September-2022-Changing-Tanker-Trades-Down-Under.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-16-September-2022-Changing-Tanker-Trades-Down-Under.pdf. Analysis & Overview\nFull Steam Ahead\nFull Steam Ahead",
+  "keywords": [
+    "full",
+    "ahead",
+    "https",
+    "steam",
+    "pdf",
+    "www.poten.com/tanker-opinion-september-30-2022-full-steam-ahead",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 201,
+  "source_path": "reports/poten/2022/poten_2022-01-01_full_steam_ahead.md",
+  "source_url": "https://www.poten.com/tanker-opinion-september-30-2022-full-steam-ahead/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead__s01_poten_tanker_opinion_full_steam_ahead",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead__root",
+      "title": "Poten Tanker Opinion: Full Steam Ahead",
+      "section_path": [
+        "Poten Tanker Opinion: Full Steam Ahead"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Full Steam Ahead",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-september-30-2022-full-steam-ahead/](https://www.poten.com/tanker-opinion-september-30-2022-full-steam-ahead/)\n**Full PDF Report**: [Weekly-Opinion-16-September-2022-Changing-Tanker-Trades-Down-Under.pdf](https://www.poten.com/wp-content/uploads/2022/09/Weekly-Opinion-16-September-2022-Changing-Tanker-Trades-Down-Under.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-16-September-2022-Changing-Tanker-Trades-Down-Under.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-september-30-2022-full-steam-ahead",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_full_steam_ahead__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Full Steam Ahead\nFull Steam Ahead",
+      "keywords": [
+        "ahead",
+        "full",
+        "steam"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

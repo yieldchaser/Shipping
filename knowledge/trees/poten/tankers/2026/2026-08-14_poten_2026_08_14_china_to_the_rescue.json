@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 308,
+  "token_count": 391,
   "source_path": "reports/poten/2026/poten_2026-08-14_china_to_the_rescue.md",
   "source_url": "https://www.poten.com/china-to-the-rescue/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: China To The Rescue?",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-08-14\n**Source URL**: [https://www.poten.com/china-to-the-rescue/](https://www.poten.com/china-to-the-rescue/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-08-14\n**Source URL**: [https://www.poten.com/china-to-the-rescue/](https://www.poten.com/china-to-the-rescue/)\n**Full PDF Report**: [Weekly Opinion - 14 August 2026 - China To The Rescue.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20August%202026%20-%20China%20To%20The%20Rescue.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
         "china",
+        "https",
+        "august",
         "author",
         "date",
-        "https",
+        "opinion",
         "published",
-        "summary",
-        "www.poten.com/china-to-the-rescue",
-        "analysis"
+        "rescue.pdf"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 91,
+      "token_count": 174,
       "section_type": null,
       "children": []
     },

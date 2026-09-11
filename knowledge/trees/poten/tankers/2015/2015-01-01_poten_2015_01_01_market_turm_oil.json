@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Market Turm(Oil)",
+  "section_path": [
+    "Poten Tanker Opinion: Market Turm(Oil)"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Market Turm(Oil)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Market Turm(Oil)\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/market-turmoil/](https://www.poten.com/market-turmoil/)\n**Full PDF Report**: [Weekly-Opinion-August-28-2015-Market-TurmOil.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/08/Weekly-Opinion-August-28-2015-Market-TurmOil.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-August-28-2015-Market-TurmOil.pdf. Analysis & Overview\nMarket Turm(Oil)\n28 Aug 2015: Impact of the volatility in the equity markets on tankers. Â Over the last two weeks, equity markets worldwide have sold off as investors ran for the exit.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "equity",
+    "full",
+    "last",
+    "markets",
+    "oil",
+    "pdf",
+    "turm",
+    "www.poten.com/market-turmoil",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 238,
+  "source_path": "reports/poten/2015/poten_2015-01-01_market_turm_oil.md",
+  "source_url": "https://www.poten.com/market-turmoil/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil__s01_poten_tanker_opinion_market_turm_oil",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil__root",
+      "title": "Poten Tanker Opinion: Market Turm(Oil)",
+      "section_path": [
+        "Poten Tanker Opinion: Market Turm(Oil)"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Market Turm(Oil)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/market-turmoil/](https://www.poten.com/market-turmoil/)\n**Full PDF Report**: [Weekly-Opinion-August-28-2015-Market-TurmOil.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/08/Weekly-Opinion-August-28-2015-Market-TurmOil.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-August-28-2015-Market-TurmOil.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/market-turmoil",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_market_turm_oil__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Market Turm(Oil)\n28 Aug 2015: Impact of the volatility in the equity markets on tankers. Â Over the last two weeks, equity markets worldwide have sold off as investors ran for the exit.",
+      "keywords": [
+        "crude_oil",
+        "equity",
+        "last",
+        "markets",
+        "aug",
+        "back",
+        "better",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

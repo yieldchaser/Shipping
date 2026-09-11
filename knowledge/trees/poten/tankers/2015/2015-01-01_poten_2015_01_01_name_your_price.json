@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Name Your Price",
+  "section_path": [
+    "Poten Tanker Opinion: Name Your Price"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Name Your Price",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Name Your Price\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/name-your-price/](https://www.poten.com/name-your-price/)\n**Full PDF Report**: [Weekly-Opinion-June-26-2015-Tanker-Prices.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/06/Weekly-Opinion-June-26-2015-Tanker-Prices.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-June-26-2015-Tanker-Prices.pdf. Analysis & Overview\nName Your Price\n26 Jun 2015: What is happening with tanker prices? Crude oil tanker prices have moved somewhat out of sync as of late.Â In the most recent Marine Project Report, Potenâ€™s assessment of a VLCC newbuilding contract is Â approximately $95.5 million, down $2 million from the end of 2014, while prices for 5 year old VLCCs...",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "https",
+    "prices",
+    "full",
+    "million",
+    "name",
+    "pdf",
+    "poten",
+    "price",
+    "www.poten.com/name-your-price",
+    "your"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2015/poten_2015-01-01_name_your_price.md",
+  "source_url": "https://www.poten.com/name-your-price/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price__s01_poten_tanker_opinion_name_your_price",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price__root",
+      "title": "Poten Tanker Opinion: Name Your Price",
+      "section_path": [
+        "Poten Tanker Opinion: Name Your Price"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Name Your Price",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/name-your-price/](https://www.poten.com/name-your-price/)\n**Full PDF Report**: [Weekly-Opinion-June-26-2015-Tanker-Prices.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/06/Weekly-Opinion-June-26-2015-Tanker-Prices.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-June-26-2015-Tanker-Prices.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/name-your-price",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_name_your_price__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Name Your Price\n26 Jun 2015: What is happening with tanker prices? Crude oil tanker prices have moved somewhat out of sync as of late.Â In the most recent Marine Project Report, Potenâ€™s assessment of a VLCC newbuilding contract is Â approximately $95.5 million, down $2 million from the end of 2014, while prices for 5 year old VLCCs...",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "prices",
+        "million",
+        "approximately",
+        "assessment",
+        "contract",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

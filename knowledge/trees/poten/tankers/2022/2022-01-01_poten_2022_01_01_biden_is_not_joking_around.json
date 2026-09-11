@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Biden is Not Joking Around",
+  "section_path": [
+    "Poten Tanker Opinion: Biden is Not Joking Around"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Biden is Not Joking Around",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Biden is Not Joking Around\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-1-april-2022-biden-not-joking-around/](https://www.poten.com/tanker-opinion-1-april-2022-biden-not-joking-around/)\n**Full PDF Report**: [Weekly-Opinion-1-April-2022-Biden-Is-Not-Joking-Around.pdf](https://www.poten.com/wp-content/uploads/2022/04/Weekly-Opinion-1-April-2022-Biden-Is-Not-Joking-Around.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-1-April-2022-Biden-Is-Not-Joking-Around.pdf. Analysis & Overview\nBiden is Not Joking Around\nBiden is Not Joking Around",
+  "keywords": [
+    "around",
+    "biden",
+    "https",
+    "joking",
+    "not",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-1-april-2022-biden-not-joking-around",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 214,
+  "source_path": "reports/poten/2022/poten_2022-01-01_biden_is_not_joking_around.md",
+  "source_url": "https://www.poten.com/tanker-opinion-1-april-2022-biden-not-joking-around/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around__s01_poten_tanker_opinion_biden_is_not_joking_around",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around__root",
+      "title": "Poten Tanker Opinion: Biden is Not Joking Around",
+      "section_path": [
+        "Poten Tanker Opinion: Biden is Not Joking Around"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Biden is Not Joking Around",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-1-april-2022-biden-not-joking-around/](https://www.poten.com/tanker-opinion-1-april-2022-biden-not-joking-around/)\n**Full PDF Report**: [Weekly-Opinion-1-April-2022-Biden-Is-Not-Joking-Around.pdf](https://www.poten.com/wp-content/uploads/2022/04/Weekly-Opinion-1-April-2022-Biden-Is-Not-Joking-Around.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-1-April-2022-Biden-Is-Not-Joking-Around.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-1-april-2022-biden-not-joking-around",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_biden_is_not_joking_around__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Biden is Not Joking Around\nBiden is Not Joking Around",
+      "keywords": [
+        "around",
+        "biden",
+        "joking",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

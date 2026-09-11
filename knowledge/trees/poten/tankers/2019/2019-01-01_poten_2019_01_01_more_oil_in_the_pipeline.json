@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: More Oil in the Pipeline",
+  "section_path": [
+    "Poten Tanker Opinion: More Oil in the Pipeline"
+  ],
+  "section_path_text": "Poten Tanker Opinion: More Oil in the Pipeline",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: More Oil in the Pipeline\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/more-oil-in-the-pipeline/](https://www.poten.com/more-oil-in-the-pipeline/)\n**Full PDF Report**: [Weekly-Opinion-12-April-2019-More-Oil-In-The-Pipeline.pdf](http://www.poten.com/wp-content/uploads/2019/04/Weekly-Opinion-12-April-2019-More-Oil-In-The-Pipeline.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-12-April-2019-More-Oil-In-The-Pipeline.pdf. Analysis & Overview\nMore Oil in the Pipeline\n12 Apr 2019: As anybody who follows the oil industry knows, U.S. crude oil production has grown rapidly in recent years.Â According to the EIA, the U.S.",
+  "keywords": [
+    "crude_oil",
+    "oil",
+    "u.s.",
+    "full",
+    "https",
+    "mb/d",
+    "pdf",
+    "pipeline",
+    "production",
+    "www.poten.com/more-oil-in-the-pipeline",
+    "according",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 270,
+  "source_path": "reports/poten/2019/poten_2019-01-01_more_oil_in_the_pipeline.md",
+  "source_url": "https://www.poten.com/more-oil-in-the-pipeline/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline__s01_poten_tanker_opinion_more_oil_in_the_pipeline",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline__root",
+      "title": "Poten Tanker Opinion: More Oil in the Pipeline",
+      "section_path": [
+        "Poten Tanker Opinion: More Oil in the Pipeline"
+      ],
+      "section_path_text": "Poten Tanker Opinion: More Oil in the Pipeline",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/more-oil-in-the-pipeline/](https://www.poten.com/more-oil-in-the-pipeline/)\n**Full PDF Report**: [Weekly-Opinion-12-April-2019-More-Oil-In-The-Pipeline.pdf](http://www.poten.com/wp-content/uploads/2019/04/Weekly-Opinion-12-April-2019-More-Oil-In-The-Pipeline.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-12-April-2019-More-Oil-In-The-Pipeline.pdf.",
+      "keywords": [
+        "crude_oil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/more-oil-in-the-pipeline",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_more_oil_in_the_pipeline__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "More Oil in the Pipeline\n12 Apr 2019: As anybody who follows the oil industry knows, U.S. crude oil production has grown rapidly in recent years.Â According to the EIA, the U.S.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "u.s.",
+        "mb/d",
+        "production",
+        "according",
+        "anybody",
+        "apr"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

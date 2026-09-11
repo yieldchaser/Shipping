@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: All Eyes On The East",
+  "section_path": [
+    "Poten Tanker Opinion: All Eyes On The East"
+  ],
+  "section_path_text": "Poten Tanker Opinion: All Eyes On The East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: All Eyes On The East\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/all-eyes-on-the-east/](https://www.poten.com/all-eyes-on-the-east/)\n**Full PDF Report**: [Weekly-Opinion-5-April-2019-All-Eyes-On-The-East.pdf](http://www.poten.com/wp-content/uploads/2019/04/Weekly-Opinion-5-April-2019-All-Eyes-On-The-East.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-5-April-2019-All-Eyes-On-The-East.pdf. Analysis & Overview\nAll Eyes On The East\n5 April 2019: Refining capacity in Asia has been growing rapidly for many years, driven by continued growth in refined product demand in the region.Â The Middle East has also added significant capacity.Â While growing domestic demand is a driver in the Middle East as well, the large crude oil producers in the region, like...",
+  "keywords": [
+    "crude_oil",
+    "east",
+    "all",
+    "demand",
+    "eyes",
+    "full",
+    "growing",
+    "https",
+    "middle",
+    "pdf",
+    "www.poten.com/all-eyes-on-the-east",
+    "added"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 246,
+  "source_path": "reports/poten/2019/poten_2019-01-01_all_eyes_on_the_east.md",
+  "source_url": "https://www.poten.com/all-eyes-on-the-east/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east__s01_poten_tanker_opinion_all_eyes_on_the_east",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east__root",
+      "title": "Poten Tanker Opinion: All Eyes On The East",
+      "section_path": [
+        "Poten Tanker Opinion: All Eyes On The East"
+      ],
+      "section_path_text": "Poten Tanker Opinion: All Eyes On The East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/all-eyes-on-the-east/](https://www.poten.com/all-eyes-on-the-east/)\n**Full PDF Report**: [Weekly-Opinion-5-April-2019-All-Eyes-On-The-East.pdf](http://www.poten.com/wp-content/uploads/2019/04/Weekly-Opinion-5-April-2019-All-Eyes-On-The-East.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-5-April-2019-All-Eyes-On-The-East.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/all-eyes-on-the-east",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_all_eyes_on_the_east__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "All Eyes On The East\n5 April 2019: Refining capacity in Asia has been growing rapidly for many years, driven by continued growth in refined product demand in the region.Â The Middle East has also added significant capacity.Â While growing domestic demand is a driver in the Middle East as well, the large crude oil producers in the region, like...",
+      "keywords": [
+        "crude_oil",
+        "east",
+        "demand",
+        "growing",
+        "middle",
+        "added",
+        "all",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

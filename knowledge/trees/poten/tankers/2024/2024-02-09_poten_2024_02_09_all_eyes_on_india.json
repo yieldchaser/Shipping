@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india__root",
+  "doc_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: All Eyes on India",
+  "section_path": [
+    "Poten Tanker Opinion: All Eyes on India"
+  ],
+  "section_path_text": "Poten Tanker Opinion: All Eyes on India",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: All Eyes on India\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-02-09\n**Source URL**: [https://www.poten.com/tanker-opinion-all-eyes-on-india-february-9-2024/](https://www.poten.com/tanker-opinion-all-eyes-on-india-february-9-2024/)\n**Full PDF Report**: [Weekly Opinion - 9 February 2024 - All Eyes On India.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%209%20February%202024%20-%20All%20Eyes%20On%20India.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 9 February 2024 - All Eyes On India.pdf. Analysis & Overview\nAll Eyes on India\nAll Eyes on India",
+  "keywords": [
+    "india",
+    "all",
+    "eyes",
+    "opinion",
+    "february",
+    "https",
+    "full",
+    "india.pdf",
+    "pdf",
+    "www.poten.com/tanker-opinion-all-eyes-on-india-february-9-2024",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 214,
+  "source_path": "reports/poten/2024/poten_2024-02-09_all_eyes_on_india.md",
+  "source_url": "https://www.poten.com/tanker-opinion-all-eyes-on-india-february-9-2024/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india__s01_poten_tanker_opinion_all_eyes_on_india",
+      "doc_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india",
+      "parent_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india__root",
+      "title": "Poten Tanker Opinion: All Eyes on India",
+      "section_path": [
+        "Poten Tanker Opinion: All Eyes on India"
+      ],
+      "section_path_text": "Poten Tanker Opinion: All Eyes on India",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-02-09\n**Source URL**: [https://www.poten.com/tanker-opinion-all-eyes-on-india-february-9-2024/](https://www.poten.com/tanker-opinion-all-eyes-on-india-february-9-2024/)\n**Full PDF Report**: [Weekly Opinion - 9 February 2024 - All Eyes On India.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%209%20February%202024%20-%20All%20Eyes%20On%20India.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 9 February 2024 - All Eyes On India.pdf.",
+      "keywords": [
+        "india",
+        "all",
+        "eyes",
+        "february",
+        "https",
+        "opinion",
+        "full",
+        "india.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 190,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india",
+      "parent_id": "poten_tankers_2024-02-09_poten_2024_02_09_all_eyes_on_india__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "All Eyes on India\nAll Eyes on India",
+      "keywords": [
+        "india",
+        "all",
+        "eyes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

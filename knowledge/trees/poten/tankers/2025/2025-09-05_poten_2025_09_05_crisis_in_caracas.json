@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas__root",
+  "doc_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Crisis In Caracas",
+  "section_path": [
+    "Poten Tanker Opinion: Crisis In Caracas"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Crisis In Caracas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Crisis In Caracas\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-09-05\n**Source URL**: [https://www.poten.com/crisis-in-caracas/](https://www.poten.com/crisis-in-caracas/)\n**Full PDF Report**: [Weekly Opinion - 5 Sep 2025 - Crisis In Caracas.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%205%20Sep%202025%20-%20Crisis%20In%20Caracas.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 5 Sep 2025 - Crisis In Caracas.pdf.",
+  "keywords": [
+    "crisis",
+    "opinion",
+    "https",
+    "sep",
+    "caracas",
+    "caracas.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/crisis-in-caracas",
+    "archived",
+    "authentic",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 187,
+  "source_path": "reports/poten/2025/poten_2025-09-05_crisis_in_caracas.md",
+  "source_url": "https://www.poten.com/crisis-in-caracas/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas__s01_poten_tanker_opinion_crisis_in_caracas",
+      "doc_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas",
+      "parent_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas__root",
+      "title": "Poten Tanker Opinion: Crisis In Caracas",
+      "section_path": [
+        "Poten Tanker Opinion: Crisis In Caracas"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Crisis In Caracas",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-09-05\n**Source URL**: [https://www.poten.com/crisis-in-caracas/](https://www.poten.com/crisis-in-caracas/)\n**Full PDF Report**: [Weekly Opinion - 5 Sep 2025 - Crisis In Caracas.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%205%20Sep%202025%20-%20Crisis%20In%20Caracas.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 5 Sep 2025 - Crisis In Caracas.pdf.",
+      "keywords": [
+        "crisis",
+        "https",
+        "opinion",
+        "sep",
+        "caracas.pdf",
+        "full",
+        "pdf",
+        "www.poten.com/crisis-in-caracas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas__s02_overview",
+      "doc_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas",
+      "parent_id": "poten_tankers_2025-09-05_poten_2025_09_05_crisis_in_caracas__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "caracas",
+        "crisis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

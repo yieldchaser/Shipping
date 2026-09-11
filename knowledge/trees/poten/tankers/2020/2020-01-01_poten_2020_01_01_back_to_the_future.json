@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Back To The Future",
+  "section_path": [
+    "Poten Tanker Opinion: Back To The Future"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Back To The Future",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Back To The Future\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/back-to-the-future-2/](https://www.poten.com/back-to-the-future-2/)\n**Full PDF Report**: [Weekly-Opinion-5-June-2020-Back-to-the-Future.pdf](http://www.poten.com/wp-content/uploads/2020/06/Weekly-Opinion-5-June-2020-Back-to-the-Future.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-5-June-2020-Back-to-the-Future.pdf. Analysis & Overview\nBack To The Future\nBack To The Future",
+  "keywords": [
+    "back",
+    "future",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/back-to-the-future-2",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 174,
+  "source_path": "reports/poten/2020/poten_2020-01-01_back_to_the_future.md",
+  "source_url": "https://www.poten.com/back-to-the-future-2/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future__s01_poten_tanker_opinion_back_to_the_future",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future__root",
+      "title": "Poten Tanker Opinion: Back To The Future",
+      "section_path": [
+        "Poten Tanker Opinion: Back To The Future"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Back To The Future",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/back-to-the-future-2/](https://www.poten.com/back-to-the-future-2/)\n**Full PDF Report**: [Weekly-Opinion-5-June-2020-Back-to-the-Future.pdf](http://www.poten.com/wp-content/uploads/2020/06/Weekly-Opinion-5-June-2020-Back-to-the-Future.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-5-June-2020-Back-to-the-Future.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/back-to-the-future-2",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_back_to_the_future__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Back To The Future\nBack To The Future",
+      "keywords": [
+        "back",
+        "future"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Rock U.S. Like a Hurricane",
+  "section_path": [
+    "Poten Tanker Opinion: Rock U.S. Like a Hurricane"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Rock U.S. Like a Hurricane",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Like a Hurricane\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/rock-u-s-like-a-hurricane/](https://www.poten.com/rock-u-s-like-a-hurricane/)\n**Full PDF Report**: [Tanker_Opinion_20110902.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110902.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110902.pdf.",
+  "keywords": [
+    "https",
+    "hurricane",
+    "like",
+    "rock",
+    "u.s.",
+    "full",
+    "pdf",
+    "www.poten.com/rock-u-s-like-a-hurricane",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 161,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_rock_u_s_like_a_hurricane.md",
+  "source_url": "https://www.poten.com/rock-u-s-like-a-hurricane/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane__s01_poten_tanker_opinion_rock_u_s_like_a_hurricane",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane__root",
+      "title": "Poten Tanker Opinion: Rock U.S. Like a Hurricane",
+      "section_path": [
+        "Poten Tanker Opinion: Rock U.S. Like a Hurricane"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Rock U.S. Like a Hurricane",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/rock-u-s-like-a-hurricane/](https://www.poten.com/rock-u-s-like-a-hurricane/)\n**Full PDF Report**: [Tanker_Opinion_20110902.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110902.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110902.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/rock-u-s-like-a-hurricane",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_rock_u_s_like_a_hurricane__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "hurricane",
+        "like",
+        "rock",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

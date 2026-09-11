@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs__root",
+  "doc_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Chinese Shipping In The Crosshairs",
+  "section_path": [
+    "Poten Tanker Opinion: Chinese Shipping In The Crosshairs"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Chinese Shipping In The Crosshairs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Chinese Shipping In The Crosshairs\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-02-28\n**Source URL**: [https://www.poten.com/chinese-shipping-in-the-crosshairs/](https://www.poten.com/chinese-shipping-in-the-crosshairs/)\n**Full PDF Report**: [Weekly Opinion - 28 February 2025 - Chinese Shipping In The Crosshairs.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2028%20February%202025%20-%20Chinese%20Shipping%20In%20The%20Crosshairs.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 28 February 2025 - Chinese Shipping In The Crosshairs.pdf. Analysis & Overview\nChinese Shipping In The Crosshairs\nChinese Shipping In The Crosshairs",
+  "keywords": [
+    "china",
+    "chinese",
+    "opinion",
+    "crosshairs",
+    "february",
+    "https",
+    "crosshairs.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/chinese-shipping-in-the-crosshairs",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 218,
+  "source_path": "reports/poten/2025/poten_2025-02-28_chinese_shipping_in_the_crosshairs.md",
+  "source_url": "https://www.poten.com/chinese-shipping-in-the-crosshairs/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs__s01_poten_tanker_opinion_chinese_shipping_in_the_crosshairs",
+      "doc_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs",
+      "parent_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs__root",
+      "title": "Poten Tanker Opinion: Chinese Shipping In The Crosshairs",
+      "section_path": [
+        "Poten Tanker Opinion: Chinese Shipping In The Crosshairs"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Chinese Shipping In The Crosshairs",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-02-28\n**Source URL**: [https://www.poten.com/chinese-shipping-in-the-crosshairs/](https://www.poten.com/chinese-shipping-in-the-crosshairs/)\n**Full PDF Report**: [Weekly Opinion - 28 February 2025 - Chinese Shipping In The Crosshairs.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2028%20February%202025%20-%20Chinese%20Shipping%20In%20The%20Crosshairs.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 28 February 2025 - Chinese Shipping In The Crosshairs.pdf.",
+      "keywords": [
+        "china",
+        "chinese",
+        "february",
+        "https",
+        "opinion",
+        "crosshairs.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs",
+      "parent_id": "poten_tankers_2025-02-28_poten_2025_02_28_chinese_shipping_in_the_crosshairs__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Chinese Shipping In The Crosshairs\nChinese Shipping In The Crosshairs",
+      "keywords": [
+        "china",
+        "chinese",
+        "crosshairs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: More From The Med (Maybe)",
+  "section_path": [
+    "Poten Tanker Opinion: More From The Med (Maybe)"
+  ],
+  "section_path_text": "Poten Tanker Opinion: More From The Med (Maybe)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: More From The Med (Maybe)\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/more-from-the-med-maybe/](https://www.poten.com/more-from-the-med-maybe/)\n**Full PDF Report**: [Weekly-Opinion-April-8-2016-More-From-The-Med-Maybe.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/04/Weekly-Opinion-April-8-2016-More-From-The-Med-Maybe.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-April-8-2016-More-From-The-Med-Maybe.pdf. Analysis & Overview\nMore From The Med (Maybe)\n08 April 2016: Â The Arab Spring movement, which started in Tunisia in December 2010 and quickly spread throughout North Africa and the Middle East, started to have an impact on Libya in February 2011 and by October of the same year, Muammar Gadaffi, the countryâ€™s leader since 1969, was ousted and killed.",
+  "keywords": [
+    "https",
+    "full",
+    "maybe",
+    "med",
+    "pdf",
+    "since",
+    "started",
+    "www.poten.com/more-from-the-med-maybe",
+    "africa",
+    "analysis",
+    "april",
+    "arab"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 271,
+  "source_path": "reports/poten/2016/poten_2016-01-01_more_from_the_med_maybe.md",
+  "source_url": "https://www.poten.com/more-from-the-med-maybe/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe__s01_poten_tanker_opinion_more_from_the_med_maybe",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe__root",
+      "title": "Poten Tanker Opinion: More From The Med (Maybe)",
+      "section_path": [
+        "Poten Tanker Opinion: More From The Med (Maybe)"
+      ],
+      "section_path_text": "Poten Tanker Opinion: More From The Med (Maybe)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/more-from-the-med-maybe/](https://www.poten.com/more-from-the-med-maybe/)\n**Full PDF Report**: [Weekly-Opinion-April-8-2016-More-From-The-Med-Maybe.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/04/Weekly-Opinion-April-8-2016-More-From-The-Med-Maybe.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-April-8-2016-More-From-The-Med-Maybe.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/more-from-the-med-maybe",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_more_from_the_med_maybe__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "More From The Med (Maybe)\n08 April 2016: Â The Arab Spring movement, which started in Tunisia in December 2010 and quickly spread throughout North Africa and the Middle East, started to have an impact on Libya in February 2011 and by October of the same year, Muammar Gadaffi, the countryâ€™s leader since 1969, was ousted and killed.",
+      "keywords": [
+        "since",
+        "started",
+        "africa",
+        "april",
+        "arab",
+        "country",
+        "december",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

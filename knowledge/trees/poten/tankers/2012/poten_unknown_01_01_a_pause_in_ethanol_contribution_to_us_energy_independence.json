@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Pause in Ethanol Contribution to US Energy Independence",
+  "section_path": [
+    "Poten Tanker Opinion: A Pause in Ethanol Contribution to US Energy Independence"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Pause in Ethanol Contribution to US Energy Independence",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Pause in Ethanol Contribution to US Energy Independence\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-pause-in-ethanol-contribution-to-us-energy-independence/](https://www.poten.com/a-pause-in-ethanol-contribution-to-us-energy-independence/)\n**Full PDF Report**: [Tanker_Opinion_20121123.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121123.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121123.pdf. Analysis & Overview\nA Pause in Ethanol Contribution to US Energy Independence\nA Pause in Ethanol Contribution to US Energy Independence",
+  "keywords": [
+    "contribution",
+    "energy",
+    "ethanol",
+    "https",
+    "independence",
+    "pause",
+    "full",
+    "pdf",
+    "www.poten.com/a-pause-in-ethanol-contribution-to-us-energy-independence",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 180,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_a_pause_in_ethanol_contribution_to_us_energy_independence.md",
+  "source_url": "https://www.poten.com/a-pause-in-ethanol-contribution-to-us-energy-independence/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence__s01_poten_tanker_opinion_a_pause_in_ethanol_contribution_to_us_energy_independence",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence__root",
+      "title": "Poten Tanker Opinion: A Pause in Ethanol Contribution to US Energy Independence",
+      "section_path": [
+        "Poten Tanker Opinion: A Pause in Ethanol Contribution to US Energy Independence"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Pause in Ethanol Contribution to US Energy Independence",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-pause-in-ethanol-contribution-to-us-energy-independence/](https://www.poten.com/a-pause-in-ethanol-contribution-to-us-energy-independence/)\n**Full PDF Report**: [Tanker_Opinion_20121123.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121123.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121123.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/a-pause-in-ethanol-contribution-to-us-energy-independence",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_pause_in_ethanol_contribution_to_us_energy_independence__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Pause in Ethanol Contribution to US Energy Independence\nA Pause in Ethanol Contribution to US Energy Independence",
+      "keywords": [
+        "contribution",
+        "energy",
+        "ethanol",
+        "independence",
+        "pause"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

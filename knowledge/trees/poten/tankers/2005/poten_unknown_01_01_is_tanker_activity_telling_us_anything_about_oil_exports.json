@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Is Tanker Activity Telling Us Anything About Oil Exports",
+  "section_path": [
+    "Poten Tanker Opinion: Is Tanker Activity Telling Us Anything About Oil Exports"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Is Tanker Activity Telling Us Anything About Oil Exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Is Tanker Activity Telling Us Anything About Oil Exports\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/is-tanker-activity-telling-us-anything-about-oil-exports/](https://www.poten.com/is-tanker-activity-telling-us-anything-about-oil-exports/)\n**Full PDF Report**: [Tanker_Opinion_20050624.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050624.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050624.pdf. Analysis & Overview\nIs Tanker Activity Telling Us Anything About Oil Exports\nIs Tanker Activity Telling Us Anything About Oil Exports",
+  "keywords": [
+    "crude_oil",
+    "activity",
+    "anything",
+    "exports",
+    "https",
+    "oil",
+    "telling",
+    "full",
+    "pdf",
+    "www.poten.com/is-tanker-activity-telling-us-anything-about-oil-exports",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 188,
+  "source_path": "reports/poten/2005/poten_unknown-01-01_is_tanker_activity_telling_us_anything_about_oil_exports.md",
+  "source_url": "https://www.poten.com/is-tanker-activity-telling-us-anything-about-oil-exports/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports__s01_poten_tanker_opinion_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "Poten Tanker Opinion: Is Tanker Activity Telling Us Anything About Oil Exports",
+      "section_path": [
+        "Poten Tanker Opinion: Is Tanker Activity Telling Us Anything About Oil Exports"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Is Tanker Activity Telling Us Anything About Oil Exports",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/is-tanker-activity-telling-us-anything-about-oil-exports/](https://www.poten.com/is-tanker-activity-telling-us-anything-about-oil-exports/)\n**Full PDF Report**: [Tanker_Opinion_20050624.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050624.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050624.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/is-tanker-activity-telling-us-anything-about-oil-exports",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_is_tanker_activity_telling_us_anything_about_oil_exports__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Is Tanker Activity Telling Us Anything About Oil Exports\nIs Tanker Activity Telling Us Anything About Oil Exports",
+      "keywords": [
+        "crude_oil",
+        "activity",
+        "anything",
+        "exports",
+        "oil",
+        "telling"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Energizing the Last Thirty Years",
+  "section_path": [
+    "Poten Tanker Opinion: Energizing the Last Thirty Years"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Energizing the Last Thirty Years",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Energizing the Last Thirty Years\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/energizing-the-last-thirty-years/](https://www.poten.com/energizing-the-last-thirty-years/)\n**Full PDF Report**: [Tanker_Opinion_20080411.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20080411.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20080411.pdf. Analysis & Overview\nEnergizing the Last Thirty Years\nEnergizing the Last Thirty Years",
+  "keywords": [
+    "energizing",
+    "https",
+    "last",
+    "thirty",
+    "years",
+    "full",
+    "pdf",
+    "www.poten.com/energizing-the-last-thirty-years",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 160,
+  "source_path": "reports/poten/2008/poten_unknown-01-01_energizing_the_last_thirty_years.md",
+  "source_url": "https://www.poten.com/energizing-the-last-thirty-years/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years__s01_poten_tanker_opinion_energizing_the_last_thirty_years",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years__root",
+      "title": "Poten Tanker Opinion: Energizing the Last Thirty Years",
+      "section_path": [
+        "Poten Tanker Opinion: Energizing the Last Thirty Years"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Energizing the Last Thirty Years",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/energizing-the-last-thirty-years/](https://www.poten.com/energizing-the-last-thirty-years/)\n**Full PDF Report**: [Tanker_Opinion_20080411.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20080411.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20080411.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/energizing-the-last-thirty-years",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_energizing_the_last_thirty_years__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Energizing the Last Thirty Years\nEnergizing the Last Thirty Years",
+      "keywords": [
+        "energizing",
+        "last",
+        "thirty",
+        "years"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

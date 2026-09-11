@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting__root",
+  "doc_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Two Years And Counting…",
+  "section_path": [
+    "Poten Tanker Opinion: Two Years And Counting…"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Two Years And Counting…",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Two Years And Counting…\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-02-23\n**Source URL**: [https://www.poten.com/two-years-and-counting/](https://www.poten.com/two-years-and-counting/)\n**Full PDF Report**: [Weekly Opinion -23 February 2024 - Two Years And Counting.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-23%20February%202024%20-%20Two%20Years%20And%20Counting.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -23 February 2024 - Two Years And Counting.pdf. Analysis & Overview\nTwo Years And Counting…\nTwo Years And Counting…",
+  "keywords": [
+    "two",
+    "years",
+    "opinion",
+    "counting",
+    "february",
+    "https",
+    "counting.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/two-years-and-counting",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 196,
+  "source_path": "reports/poten/2024/poten_2024-02-23_two_years_and_counting.md",
+  "source_url": "https://www.poten.com/two-years-and-counting/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting__s01_poten_tanker_opinion_two_years_and_counting",
+      "doc_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting",
+      "parent_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting__root",
+      "title": "Poten Tanker Opinion: Two Years And Counting…",
+      "section_path": [
+        "Poten Tanker Opinion: Two Years And Counting…"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Two Years And Counting…",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-02-23\n**Source URL**: [https://www.poten.com/two-years-and-counting/](https://www.poten.com/two-years-and-counting/)\n**Full PDF Report**: [Weekly Opinion -23 February 2024 - Two Years And Counting.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-23%20February%202024%20-%20Two%20Years%20And%20Counting.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -23 February 2024 - Two Years And Counting.pdf.",
+      "keywords": [
+        "february",
+        "https",
+        "opinion",
+        "two",
+        "years",
+        "counting.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting",
+      "parent_id": "poten_tankers_2024-02-23_poten_2024_02_23_two_years_and_counting__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Two Years And Counting…\nTwo Years And Counting…",
+      "keywords": [
+        "counting",
+        "two",
+        "years"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

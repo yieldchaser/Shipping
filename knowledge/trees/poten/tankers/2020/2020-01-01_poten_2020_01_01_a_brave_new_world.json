@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Brave New World",
+  "section_path": [
+    "Poten Tanker Opinion: A Brave New World"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Brave New World",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Brave New World\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-november-6-a-brave-new-world/](https://www.poten.com/tanker-opinion-november-6-a-brave-new-world/)\n**Full PDF Report**: [Weekly-Opinion-6-November-2020-A-Brave-New-World.pdf](https://www.poten.com/wp-content/uploads/2020/11/Weekly-Opinion-6-November-2020-A-Brave-New-World.pdf?utm_campaign=Weekly%20Tanker%20Opinion&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-9V_3pN9fDYa3guY2GhjiBMhGtIqiW_Ulj9z4DGnQn9PmI92YmG1WJqDupUGFxMUpiuE98F0sJ7al2fqm3340B1F-h9lg&utm_content=2&utm_source=hs_email)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-6-November-2020-A-Brave-New-World.pdf. Analysis & Overview\nA Brave New World\nA Brave New World",
+  "keywords": [
+    "brave",
+    "https",
+    "new",
+    "world",
+    "full",
+    "opinion",
+    "pdf",
+    "www.poten.com/tanker-opinion-november-6-a-brave-new-world",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 301,
+  "source_path": "reports/poten/2020/poten_2020-01-01_a_brave_new_world.md",
+  "source_url": "https://www.poten.com/tanker-opinion-november-6-a-brave-new-world/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world__s01_poten_tanker_opinion_a_brave_new_world",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world__root",
+      "title": "Poten Tanker Opinion: A Brave New World",
+      "section_path": [
+        "Poten Tanker Opinion: A Brave New World"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Brave New World",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-november-6-a-brave-new-world/](https://www.poten.com/tanker-opinion-november-6-a-brave-new-world/)\n**Full PDF Report**: [Weekly-Opinion-6-November-2020-A-Brave-New-World.pdf](https://www.poten.com/wp-content/uploads/2020/11/Weekly-Opinion-6-November-2020-A-Brave-New-World.pdf?utm_campaign=Weekly%20Tanker%20Opinion&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-9V_3pN9fDYa3guY2GhjiBMhGtIqiW_Ulj9z4DGnQn9PmI92YmG1WJqDupUGFxMUpiuE98F0sJ7al2fqm3340B1F-h9lg&utm_content=2&utm_source=hs_email)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-6-November-2020-A-Brave-New-World.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-november-6-a-brave-new-world",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 277,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_a_brave_new_world__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Brave New World\nA Brave New World",
+      "keywords": [
+        "brave",
+        "new",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

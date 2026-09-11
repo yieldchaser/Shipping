@@ -95,6 +95,7 @@ Venezuela's turnaround has started. Since the end of March, the focus of the oil
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-05-01
 **Source URL**: [https://www.poten.com/the-times-they-are-a-changin/](https://www.poten.com/the-times-they-are-a-changin/)
+**Full PDF Report**: [Weekly Opinion - 1 May 2026 - The Times They Are A-Changin.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%201%20May%202026%20-%20The%20Times%20They%20Are%20A-Changin.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

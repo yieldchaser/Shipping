@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start__root",
+  "doc_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A New Dawn Or A False Start",
+  "section_path": [
+    "Poten Tanker Opinion: A New Dawn Or A False Start"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A New Dawn Or A False Start",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A New Dawn Or A False Start\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-06-16\n**Source URL**: [https://www.poten.com/tanker-opinion-a-new-dawn-or-a-false-start-june-16-2023/](https://www.poten.com/tanker-opinion-a-new-dawn-or-a-false-start-june-16-2023/)\n**Full PDF Report**: [Weekly Opinion - 16 June 2023 - A New Dawn Or A False Start.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2016%20June%202023%20-%20A%20New%20Dawn%20Or%20A%20False%20Start.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 16 June 2023 - A New Dawn Or A False Start.pdf. Analysis & Overview\nA New Dawn Or A False Start\nA New Dawn Or A False Start",
+  "keywords": [
+    "dawn",
+    "false",
+    "new",
+    "opinion",
+    "https",
+    "june",
+    "start",
+    "full",
+    "pdf",
+    "start.pdf",
+    "www.poten.com/tanker-opinion-a-new-dawn-or-a-false-start-june-16-2023",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2023/poten_2023-06-16_a_new_dawn_or_a_false_start.md",
+  "source_url": "https://www.poten.com/tanker-opinion-a-new-dawn-or-a-false-start-june-16-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start__s01_poten_tanker_opinion_a_new_dawn_or_a_false_start",
+      "doc_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start",
+      "parent_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start__root",
+      "title": "Poten Tanker Opinion: A New Dawn Or A False Start",
+      "section_path": [
+        "Poten Tanker Opinion: A New Dawn Or A False Start"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A New Dawn Or A False Start",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-06-16\n**Source URL**: [https://www.poten.com/tanker-opinion-a-new-dawn-or-a-false-start-june-16-2023/](https://www.poten.com/tanker-opinion-a-new-dawn-or-a-false-start-june-16-2023/)\n**Full PDF Report**: [Weekly Opinion - 16 June 2023 - A New Dawn Or A False Start.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2016%20June%202023%20-%20A%20New%20Dawn%20Or%20A%20False%20Start.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 16 June 2023 - A New Dawn Or A False Start.pdf.",
+      "keywords": [
+        "dawn",
+        "false",
+        "https",
+        "june",
+        "new",
+        "opinion",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start",
+      "parent_id": "poten_tankers_2023-06-16_poten_2023_06_16_a_new_dawn_or_a_false_start__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A New Dawn Or A False Start\nA New Dawn Or A False Start",
+      "keywords": [
+        "dawn",
+        "false",
+        "new",
+        "start"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

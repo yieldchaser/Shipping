@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Pipe Dreams",
+  "section_path": [
+    "Poten Tanker Opinion: Pipe Dreams"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Pipe Dreams",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Pipe Dreams\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/pipe-dreams/](https://www.poten.com/pipe-dreams/)\n**Full PDF Report**: [Weekly-Opinion-Feb-6.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/02/Weekly-Opinion-Feb-6.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Weekly-Opinion-Feb-6.pdf. Analysis & Overview\nPipe Dreams\n10 Feb 2015: AÂ number of years ago, there was much discussion about new pipeline construction and expansion projects and their potential impact on tanker demand. Recently it has become quiet, in particular with respect to pipelines outside of North America.",
+  "keywords": [
+    "https",
+    "dreams",
+    "full",
+    "pdf",
+    "pipe",
+    "projects",
+    "www.poten.com/pipe-dreams",
+    "ago",
+    "america.",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 200,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_pipe_dreams.md",
+  "source_url": "https://www.poten.com/pipe-dreams/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams__s01_poten_tanker_opinion_pipe_dreams",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams__root",
+      "title": "Poten Tanker Opinion: Pipe Dreams",
+      "section_path": [
+        "Poten Tanker Opinion: Pipe Dreams"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Pipe Dreams",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/pipe-dreams/](https://www.poten.com/pipe-dreams/)\n**Full PDF Report**: [Weekly-Opinion-Feb-6.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/02/Weekly-Opinion-Feb-6.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Weekly-Opinion-Feb-6.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/pipe-dreams",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_pipe_dreams__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Pipe Dreams\n10 Feb 2015: AÂ number of years ago, there was much discussion about new pipeline construction and expansion projects and their potential impact on tanker demand. Recently it has become quiet, in particular with respect to pipelines outside of North America.",
+      "keywords": [
+        "projects",
+        "ago",
+        "america.",
+        "become",
+        "construction",
+        "demand.",
+        "discussion",
+        "download"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 71,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

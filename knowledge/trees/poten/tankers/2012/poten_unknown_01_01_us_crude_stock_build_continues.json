@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: US Crude Stock Build Continues",
+  "section_path": [
+    "Poten Tanker Opinion: US Crude Stock Build Continues"
+  ],
+  "section_path_text": "Poten Tanker Opinion: US Crude Stock Build Continues",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: US Crude Stock Build Continues\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/us-crude-stock-build-continues/](https://www.poten.com/us-crude-stock-build-continues/)\n**Full PDF Report**: [Tanker_Opinion_20120622.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120622.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120622.pdf. Analysis & Overview\nUS Crude Stock Build Continues\nUS Crude Stock Build Continues",
+  "keywords": [
+    "build",
+    "continues",
+    "crude",
+    "https",
+    "stock",
+    "full",
+    "pdf",
+    "www.poten.com/us-crude-stock-build-continues",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 159,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_us_crude_stock_build_continues.md",
+  "source_url": "https://www.poten.com/us-crude-stock-build-continues/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues__s01_poten_tanker_opinion_us_crude_stock_build_continues",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues__root",
+      "title": "Poten Tanker Opinion: US Crude Stock Build Continues",
+      "section_path": [
+        "Poten Tanker Opinion: US Crude Stock Build Continues"
+      ],
+      "section_path_text": "Poten Tanker Opinion: US Crude Stock Build Continues",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/us-crude-stock-build-continues/](https://www.poten.com/us-crude-stock-build-continues/)\n**Full PDF Report**: [Tanker_Opinion_20120622.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120622.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120622.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/us-crude-stock-build-continues",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_us_crude_stock_build_continues__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "US Crude Stock Build Continues\nUS Crude Stock Build Continues",
+      "keywords": [
+        "build",
+        "continues",
+        "crude",
+        "stock"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

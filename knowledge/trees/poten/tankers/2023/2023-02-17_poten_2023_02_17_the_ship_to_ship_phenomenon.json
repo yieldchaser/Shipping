@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon__root",
+  "doc_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Ship-To-Ship Phenomenon",
+  "section_path": [
+    "Poten Tanker Opinion: The Ship-To-Ship Phenomenon"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Ship-To-Ship Phenomenon",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Ship-To-Ship Phenomenon\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-02-17\n**Source URL**: [https://www.poten.com/the-ship-to-ship-phenomenon/](https://www.poten.com/the-ship-to-ship-phenomenon/)\n**Full PDF Report**: [Weekly Opinion - 17 February 2023 - The Ship-To-Ship Phenomenon.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20February%202023%20-%20The%20Ship-To-Ship%20Phenomenon.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 17 February 2023 - The Ship-To-Ship Phenomenon.pdf. Analysis & Overview\nThe Ship-To-Ship Phenomenon\n17 Feb 2023:Why is the volume of ship-to-ship transfers growing? Global crude oil and refined product trade flows have reshuffled after the Russian attack on Ukraine.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "ship-to-ship",
+    "opinion",
+    "february",
+    "https",
+    "full",
+    "markets",
+    "pdf",
+    "phenomenon"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 289,
+  "source_path": "reports/poten/2023/poten_2023-02-17_the_ship-to-ship_phenomenon.md",
+  "source_url": "https://www.poten.com/the-ship-to-ship-phenomenon/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon__s01_poten_tanker_opinion_the_ship_to_ship_phenomenon",
+      "doc_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon",
+      "parent_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon__root",
+      "title": "Poten Tanker Opinion: The Ship-To-Ship Phenomenon",
+      "section_path": [
+        "Poten Tanker Opinion: The Ship-To-Ship Phenomenon"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Ship-To-Ship Phenomenon",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-02-17\n**Source URL**: [https://www.poten.com/the-ship-to-ship-phenomenon/](https://www.poten.com/the-ship-to-ship-phenomenon/)\n**Full PDF Report**: [Weekly Opinion - 17 February 2023 - The Ship-To-Ship Phenomenon.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20February%202023%20-%20The%20Ship-To-Ship%20Phenomenon.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 17 February 2023 - The Ship-To-Ship Phenomenon.pdf.",
+      "keywords": [
+        "february",
+        "https",
+        "opinion",
+        "ship-to-ship",
+        "full",
+        "pdf",
+        "phenomenon.pdf",
+        "www.poten.com/the-ship-to-ship-phenomenon"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon",
+      "parent_id": "poten_tankers_2023-02-17_poten_2023_02_17_the_ship_to_ship_phenomenon__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Ship-To-Ship Phenomenon\n17 Feb 2023:Why is the volume of ship-to-ship transfers growing? Global crude oil and refined product trade flows have reshuffled after the Russian attack on Ukraine.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "markets",
+        "ship-to-ship",
+        "after",
+        "attack"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

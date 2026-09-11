@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 307,
+  "token_count": 393,
   "source_path": "reports/poten/2026/poten_2026-08-21_moving_in_the_right_direction.md",
   "source_url": "https://www.poten.com/moving-in-the-right-direction/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Moving In The Right Direction",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-08-21\n**Source URL**: [https://www.poten.com/moving-in-the-right-direction/](https://www.poten.com/moving-in-the-right-direction/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-08-21\n**Source URL**: [https://www.poten.com/moving-in-the-right-direction/](https://www.poten.com/moving-in-the-right-direction/)\n**Full PDF Report**: [Weekly Opinion - 21 August 2026 - Moving In The Right Direction.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2021%20August%202026%20-%20Moving%20In%20The%20Right%20Direction.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
+        "august",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/moving-in-the-right-direction",
-        "analysis",
-        "archived"
+        "direction.pdf",
+        "moving",
+        "opinion",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 91,
+      "token_count": 177,
       "section_type": null,
       "children": []
     },

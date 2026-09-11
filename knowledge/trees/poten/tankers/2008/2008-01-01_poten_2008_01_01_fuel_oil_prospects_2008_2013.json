@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013__root",
+  "doc_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Fuel Oil Prospects 2008-2013",
+  "section_path": [
+    "Poten Tanker Opinion: Fuel Oil Prospects 2008-2013"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Fuel Oil Prospects 2008-2013",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Fuel Oil Prospects 2008-2013\n**Author**: Erik Broekhuizen\n**Published Date**: 2008-01-01\n**Source URL**: [https://www.poten.com/fuel-oil-prospects-2008-2013/](https://www.poten.com/fuel-oil-prospects-2008-2013/)\n**Full PDF Report**: [Tanker_Opinion_20080905.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20080905.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2008/Tanker_Opinion_20080905.pdf. Analysis & Overview\nFuel Oil Prospects 2008-2013\nFuel Oil Prospects 2008-2013",
+  "keywords": [
+    "crude_oil",
+    "fuel",
+    "https",
+    "oil",
+    "prospects",
+    "full",
+    "pdf",
+    "www.poten.com/fuel-oil-prospects-2008-2013",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 181,
+  "source_path": "reports/poten/2008/poten_2008-01-01_fuel_oil_prospects_2008-2013.md",
+  "source_url": "https://www.poten.com/fuel-oil-prospects-2008-2013/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013__s01_poten_tanker_opinion_fuel_oil_prospects_2008_2013",
+      "doc_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013",
+      "parent_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013__root",
+      "title": "Poten Tanker Opinion: Fuel Oil Prospects 2008-2013",
+      "section_path": [
+        "Poten Tanker Opinion: Fuel Oil Prospects 2008-2013"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Fuel Oil Prospects 2008-2013",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2008-01-01\n**Source URL**: [https://www.poten.com/fuel-oil-prospects-2008-2013/](https://www.poten.com/fuel-oil-prospects-2008-2013/)\n**Full PDF Report**: [Tanker_Opinion_20080905.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20080905.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2008/Tanker_Opinion_20080905.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/fuel-oil-prospects-2008-2013",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013__s02_analysis_overview",
+      "doc_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013",
+      "parent_id": "poten_tankers_2008-01-01_poten_2008_01_01_fuel_oil_prospects_2008_2013__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Fuel Oil Prospects 2008-2013\nFuel Oil Prospects 2008-2013",
+      "keywords": [
+        "crude_oil",
+        "fuel",
+        "oil",
+        "prospects"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

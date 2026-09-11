@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 334,
+  "token_count": 424,
   "source_path": "reports/poten/2026/poten_2026-02-06_moscow_we_have_a_problem.md",
   "source_url": "https://www.poten.com/moscow-we-have-a-problem/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Moscow, We Have A Problem",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-02-06\n**Source URL**: [https://www.poten.com/moscow-we-have-a-problem/](https://www.poten.com/moscow-we-have-a-problem/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-02-06\n**Source URL**: [https://www.poten.com/moscow-we-have-a-problem/](https://www.poten.com/moscow-we-have-a-problem/)\n**Full PDF Report**: [Weekly Opinion - 6 Feb 2026 - Moscow, We Have A Problem.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%206%20Feb%202026%20-%20Moscow%2c%20We%20Have%20A%20Problem.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/moscow-we-have-a-problem",
-        "analysis",
-        "archived"
+        "feb",
+        "moscow",
+        "opinion",
+        "problem.pdf",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 93,
+      "token_count": 183,
       "section_type": null,
       "children": []
     },

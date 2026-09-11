@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Transatlantic Oil Swap",
+  "section_path": [
+    "Poten Tanker Opinion: Transatlantic Oil Swap"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Transatlantic Oil Swap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Transatlantic Oil Swap\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/transatlantic-oil-swap/](https://www.poten.com/transatlantic-oil-swap/)\n**Full PDF Report**: [Weekly-Opinion-17-February-2017-Transatlantic-Oil-Swap.pdf](http://www.poten.com/wp-content/uploads/2017/02/Weekly-Opinion-17-February-2017-Transatlantic-Oil-Swap.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-17-February-2017-Transatlantic-Oil-Swap.pdf. Analysis & Overview\nTransatlantic Oil Swap\n17 Feb 2017: Historically, the transatlantic product trade has been a significant source of employment for product tankers.Â The trade is also attractive because of a steady two-way trade so a tanker can typically achieve high utilization rates on these routes. Please fill out the following form to access the full article.Â \" />",
+  "keywords": [
+    "atlantic",
+    "crude_oil",
+    "full",
+    "trade",
+    "transatlantic",
+    "https",
+    "oil",
+    "pdf",
+    "product",
+    "source",
+    "swap",
+    "www.poten.com/transatlantic-oil-swap"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 248,
+  "source_path": "reports/poten/2017/poten_2017-01-01_transatlantic_oil_swap.md",
+  "source_url": "https://www.poten.com/transatlantic-oil-swap/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap__s01_poten_tanker_opinion_transatlantic_oil_swap",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap__root",
+      "title": "Poten Tanker Opinion: Transatlantic Oil Swap",
+      "section_path": [
+        "Poten Tanker Opinion: Transatlantic Oil Swap"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Transatlantic Oil Swap",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/transatlantic-oil-swap/](https://www.poten.com/transatlantic-oil-swap/)\n**Full PDF Report**: [Weekly-Opinion-17-February-2017-Transatlantic-Oil-Swap.pdf](http://www.poten.com/wp-content/uploads/2017/02/Weekly-Opinion-17-February-2017-Transatlantic-Oil-Swap.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-17-February-2017-Transatlantic-Oil-Swap.pdf.",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/transatlantic-oil-swap",
+        "archived",
+        "author"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_transatlantic_oil_swap__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Transatlantic Oil Swap\n17 Feb 2017: Historically, the transatlantic product trade has been a significant source of employment for product tankers.Â The trade is also attractive because of a steady two-way trade so a tanker can typically achieve high utilization rates on these routes. Please fill out the following form to access the full article.Â \" />",
+      "keywords": [
+        "atlantic",
+        "crude_oil",
+        "trade",
+        "product",
+        "transatlantic",
+        "access",
+        "achieve",
+        "article."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

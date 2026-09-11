@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Out of Sync",
+  "section_path": [
+    "Poten Tanker Opinion: Out of Sync"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Out of Sync",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Out of Sync\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/out-of-sync/](https://www.poten.com/out-of-sync/)\n**Full PDF Report**: [Weekly-Opinion-01-July-2016-Out-of-Sync.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-01-July-2016-Out-of-Sync.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-01-July-2016-Out-of-Sync.pdf. Analysis & Overview\nOut of Sync\n1 Jul 2016:Â Some days ago we received a request to look into the relationship between tanker rates and oil prices. It seems logical that the two markets are related as tanker rates are driven by the volume of oil that is being moved and the distance between the producer and the consumer.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "are",
+    "between",
+    "full",
+    "oil",
+    "out",
+    "pdf",
+    "sync",
+    "www.poten.com/out-of-sync",
+    "ago",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 224,
+  "source_path": "reports/poten/2016/poten_2016-01-01_out_of_sync.md",
+  "source_url": "https://www.poten.com/out-of-sync/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync__s01_poten_tanker_opinion_out_of_sync",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync__root",
+      "title": "Poten Tanker Opinion: Out of Sync",
+      "section_path": [
+        "Poten Tanker Opinion: Out of Sync"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Out of Sync",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/out-of-sync/](https://www.poten.com/out-of-sync/)\n**Full PDF Report**: [Weekly-Opinion-01-July-2016-Out-of-Sync.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/07/Weekly-Opinion-01-July-2016-Out-of-Sync.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-01-July-2016-Out-of-Sync.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/out-of-sync",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_out_of_sync__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Out of Sync\n1 Jul 2016:Â Some days ago we received a request to look into the relationship between tanker rates and oil prices. It seems logical that the two markets are related as tanker rates are driven by the volume of oil that is being moved and the distance between the producer and the consumer.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "between",
+        "oil",
+        "ago",
+        "being",
+        "consumer.",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 71,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Will OPEC Trigger NOPEC",
+  "section_path": [
+    "Poten Tanker Opinion: Will OPEC Trigger NOPEC"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Will OPEC Trigger NOPEC",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Will OPEC Trigger NOPEC\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/will-opec-trigger-nopec/](https://www.poten.com/will-opec-trigger-nopec/)\n**Full PDF Report**: [Weekly-Opinion-7-October-2022-Will-OPEC-Trigger-NOPEC.pdf](https://www.poten.com/wp-content/uploads/2022/10/Weekly-Opinion-7-October-2022-Will-OPEC-Trigger-NOPEC.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-7-October-2022-Will-OPEC-Trigger-NOPEC.pdf. Analysis & Overview\nWill OPEC Trigger NOPEC\nWill OPEC Trigger NOPEC",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "nopec",
+    "opec",
+    "trigger",
+    "full",
+    "pdf",
+    "www.poten.com/will-opec-trigger-nopec",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 189,
+  "source_path": "reports/poten/2022/poten_2022-01-01_will_opec_trigger_nopec.md",
+  "source_url": "https://www.poten.com/will-opec-trigger-nopec/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec__s01_poten_tanker_opinion_will_opec_trigger_nopec",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec__root",
+      "title": "Poten Tanker Opinion: Will OPEC Trigger NOPEC",
+      "section_path": [
+        "Poten Tanker Opinion: Will OPEC Trigger NOPEC"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Will OPEC Trigger NOPEC",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/will-opec-trigger-nopec/](https://www.poten.com/will-opec-trigger-nopec/)\n**Full PDF Report**: [Weekly-Opinion-7-October-2022-Will-OPEC-Trigger-NOPEC.pdf](https://www.poten.com/wp-content/uploads/2022/10/Weekly-Opinion-7-October-2022-Will-OPEC-Trigger-NOPEC.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-7-October-2022-Will-OPEC-Trigger-NOPEC.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/will-opec-trigger-nopec",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_will_opec_trigger_nopec__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Will OPEC Trigger NOPEC\nWill OPEC Trigger NOPEC",
+      "keywords": [
+        "crude_oil",
+        "nopec",
+        "opec",
+        "trigger"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

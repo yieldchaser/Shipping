@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: VLCC Outlook Remains Foggy",
+  "section_path": [
+    "Poten Tanker Opinion: VLCC Outlook Remains Foggy"
+  ],
+  "section_path_text": "Poten Tanker Opinion: VLCC Outlook Remains Foggy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: VLCC Outlook Remains Foggy\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-april-29-2022-vlcc-outlook-remains-foggy/](https://www.poten.com/tanker-opinion-april-29-2022-vlcc-outlook-remains-foggy/)\n**Full PDF Report**: [Weekly-Opinion-29-April-2022-VLCC-Outlook-Remains-Foggy-002.pdf](https://www.poten.com/wp-content/uploads/2022/04/Weekly-Opinion-29-April-2022-VLCC-Outlook-Remains-Foggy-002.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-29-April-2022-VLCC-Outlook-Remains-Foggy-002.pdf. Analysis & Overview\nVLCC Outlook Remains Foggy\nVLCC Outlook Remains Foggy",
+  "keywords": [
+    "vlcc",
+    "foggy",
+    "https",
+    "outlook",
+    "remains",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-april-29-2022-vlcc-outlook-remains-foggy",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 234,
+  "source_path": "reports/poten/2022/poten_2022-01-01_vlcc_outlook_remains_foggy.md",
+  "source_url": "https://www.poten.com/tanker-opinion-april-29-2022-vlcc-outlook-remains-foggy/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy__s01_poten_tanker_opinion_vlcc_outlook_remains_foggy",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy__root",
+      "title": "Poten Tanker Opinion: VLCC Outlook Remains Foggy",
+      "section_path": [
+        "Poten Tanker Opinion: VLCC Outlook Remains Foggy"
+      ],
+      "section_path_text": "Poten Tanker Opinion: VLCC Outlook Remains Foggy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-april-29-2022-vlcc-outlook-remains-foggy/](https://www.poten.com/tanker-opinion-april-29-2022-vlcc-outlook-remains-foggy/)\n**Full PDF Report**: [Weekly-Opinion-29-April-2022-VLCC-Outlook-Remains-Foggy-002.pdf](https://www.poten.com/wp-content/uploads/2022/04/Weekly-Opinion-29-April-2022-VLCC-Outlook-Remains-Foggy-002.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-29-April-2022-VLCC-Outlook-Remains-Foggy-002.pdf.",
+      "keywords": [
+        "vlcc",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-april-29-2022-vlcc-outlook-remains-foggy",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_vlcc_outlook_remains_foggy__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC Outlook Remains Foggy\nVLCC Outlook Remains Foggy",
+      "keywords": [
+        "vlcc",
+        "foggy",
+        "outlook",
+        "remains"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

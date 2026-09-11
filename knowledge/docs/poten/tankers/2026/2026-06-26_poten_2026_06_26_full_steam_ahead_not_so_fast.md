@@ -87,6 +87,7 @@ Full Steam Ahead?
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-06-26
 **Source URL**: [https://www.poten.com/full-steam-ahead-not-so-fast/](https://www.poten.com/full-steam-ahead-not-so-fast/)
+**Full PDF Report**: [Weekly Opinion - 26 June 2026 - Full Steam Ahead - Not So Fast.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2026%20June%202026%20-%20Full%20Steam%20Ahead%20-%20Not%20So%20Fast.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

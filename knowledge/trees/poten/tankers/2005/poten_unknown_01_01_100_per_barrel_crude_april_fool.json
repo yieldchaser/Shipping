@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: $100+ Per Barrel Crude April Fool",
+  "section_path": [
+    "Poten Tanker Opinion: $100+ Per Barrel Crude April Fool"
+  ],
+  "section_path_text": "Poten Tanker Opinion: $100+ Per Barrel Crude April Fool",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: $100+ Per Barrel Crude April Fool\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/100-per-barrel-crude-april-fool/](https://www.poten.com/100-per-barrel-crude-april-fool/)\n**Full PDF Report**: [Tanker_Opinion_20050401.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050401.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050401.pdf. Analysis & Overview\n$100+ Per Barrel Crude April Fool\n$100+ Per Barrel Crude April Fool",
+  "keywords": [
+    "april",
+    "barrel",
+    "crude",
+    "fool",
+    "https",
+    "per",
+    "full",
+    "pdf",
+    "www.poten.com/100-per-barrel-crude-april-fool",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 173,
+  "source_path": "reports/poten/2005/poten_unknown-01-01__100_per_barrel_crude_april_fool.md",
+  "source_url": "https://www.poten.com/100-per-barrel-crude-april-fool/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool__s01_poten_tanker_opinion_100_per_barrel_crude_april_fool",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool__root",
+      "title": "Poten Tanker Opinion: $100+ Per Barrel Crude April Fool",
+      "section_path": [
+        "Poten Tanker Opinion: $100+ Per Barrel Crude April Fool"
+      ],
+      "section_path_text": "Poten Tanker Opinion: $100+ Per Barrel Crude April Fool",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/100-per-barrel-crude-april-fool/](https://www.poten.com/100-per-barrel-crude-april-fool/)\n**Full PDF Report**: [Tanker_Opinion_20050401.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050401.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050401.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/100-per-barrel-crude-april-fool",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_100_per_barrel_crude_april_fool__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "$100+ Per Barrel Crude April Fool\n$100+ Per Barrel Crude April Fool",
+      "keywords": [
+        "april",
+        "barrel",
+        "crude",
+        "fool",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

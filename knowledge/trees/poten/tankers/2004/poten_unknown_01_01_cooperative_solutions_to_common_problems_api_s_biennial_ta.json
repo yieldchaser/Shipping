@@ -1,0 +1,89 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Cooperative Solutions to Common Problems - API's Biennial Tanker Conference",
+  "section_path": [
+    "Poten Tanker Opinion: Cooperative Solutions to Common Problems - API's Biennial Tanker Conference"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Cooperative Solutions to Common Problems - API's Biennial Tanker Conference",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Cooperative Solutions to Common Problems - API's Biennial Tanker Conference\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/cooperative-solutions-to-common-problems-apis-biennial-tanker-conference/](https://www.poten.com/cooperative-solutions-to-common-problems-apis-biennial-tanker-conference/)\n**Full PDF Report**: [Tanker_Opinion_20040709.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040709.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040709.pdf. Analysis & Overview\nCooperative Solutions to Common Problems - API's Biennial Tanker Conference\nCooperative Solutions to Common Problems - API's Biennial Tanker Conference",
+  "keywords": [
+    "api",
+    "biennial",
+    "common",
+    "conference",
+    "cooperative",
+    "https",
+    "problems",
+    "solutions",
+    "full",
+    "pdf",
+    "www.poten.com/cooperative-solutions-to-common-problems-apis-biennial-tanker-conference",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 197,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_cooperative_solutions_to_common_problems_api_s_biennial_ta.md",
+  "source_url": "https://www.poten.com/cooperative-solutions-to-common-problems-apis-biennial-tanker-conference/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta__s01_poten_tanker_opinion_cooperative_solutions_to_common_problems_api_s_biennial_tanker_conference",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta__root",
+      "title": "Poten Tanker Opinion: Cooperative Solutions to Common Problems - API's Biennial Tanker Conference",
+      "section_path": [
+        "Poten Tanker Opinion: Cooperative Solutions to Common Problems - API's Biennial Tanker Conference"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Cooperative Solutions to Common Problems - API's Biennial Tanker Conference",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/cooperative-solutions-to-common-problems-apis-biennial-tanker-conference/](https://www.poten.com/cooperative-solutions-to-common-problems-apis-biennial-tanker-conference/)\n**Full PDF Report**: [Tanker_Opinion_20040709.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040709.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040709.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/cooperative-solutions-to-common-problems-apis-biennial-tanker-conference",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_cooperative_solutions_to_common_problems_api_s_biennial_ta__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Cooperative Solutions to Common Problems - API's Biennial Tanker Conference\nCooperative Solutions to Common Problems - API's Biennial Tanker Conference",
+      "keywords": [
+        "api",
+        "biennial",
+        "common",
+        "conference",
+        "cooperative",
+        "problems",
+        "solutions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

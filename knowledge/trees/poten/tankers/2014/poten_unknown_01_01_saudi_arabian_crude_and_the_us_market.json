@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Saudi Arabian Crude and the US Market",
+  "section_path": [
+    "Poten Tanker Opinion: Saudi Arabian Crude and the US Market"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Saudi Arabian Crude and the US Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Saudi Arabian Crude and the US Market\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/saudi-arabian-crude-and-the-us-market/](https://www.poten.com/saudi-arabian-crude-and-the-us-market/)\n**Full PDF Report**: [Tanker_Opinion_20140110.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140110.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140110.pdf. Analysis & Overview\nSaudi Arabian Crude and the US Market\nSaudi Arabian Crude and the US Market",
+  "keywords": [
+    "arabian",
+    "crude",
+    "https",
+    "saudi",
+    "full",
+    "pdf",
+    "www.poten.com/saudi-arabian-crude-and-the-us-market",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 168,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_saudi_arabian_crude_and_the_us_market.md",
+  "source_url": "https://www.poten.com/saudi-arabian-crude-and-the-us-market/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market__s01_poten_tanker_opinion_saudi_arabian_crude_and_the_us_market",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market__root",
+      "title": "Poten Tanker Opinion: Saudi Arabian Crude and the US Market",
+      "section_path": [
+        "Poten Tanker Opinion: Saudi Arabian Crude and the US Market"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Saudi Arabian Crude and the US Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/saudi-arabian-crude-and-the-us-market/](https://www.poten.com/saudi-arabian-crude-and-the-us-market/)\n**Full PDF Report**: [Tanker_Opinion_20140110.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140110.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140110.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/saudi-arabian-crude-and-the-us-market",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_saudi_arabian_crude_and_the_us_market__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Saudi Arabian Crude and the US Market\nSaudi Arabian Crude and the US Market",
+      "keywords": [
+        "arabian",
+        "crude",
+        "saudi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

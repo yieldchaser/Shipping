@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 270,
+  "token_count": 359,
   "source_path": "reports/poten/2026/poten_2026-09-04_a_new_headache_for_opec.md",
   "source_url": "https://www.poten.com/a-new-headache-for-opec/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: A New Headache For OPEC",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-09-04\n**Source URL**: [https://www.poten.com/a-new-headache-for-opec/](https://www.poten.com/a-new-headache-for-opec/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-09-04\n**Source URL**: [https://www.poten.com/a-new-headache-for-opec/](https://www.poten.com/a-new-headache-for-opec/)\n**Full PDF Report**: [Weekly Opinion - 4 September 2026 - A New Headache For OPEC.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%204%20September%202026%20-%20A%20New%20Headache%20For%20OPEC.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
         "crude_oil",
+        "https",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/a-new-headache-for-opec",
-        "analysis"
+        "headache",
+        "new",
+        "opec.pdf",
+        "opinion"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 93,
+      "token_count": 182,
       "section_type": null,
       "children": []
     },

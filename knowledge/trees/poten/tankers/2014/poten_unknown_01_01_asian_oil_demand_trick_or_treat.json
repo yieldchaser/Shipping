@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Asian Oil Demand - Trick or Treat",
+  "section_path": [
+    "Poten Tanker Opinion: Asian Oil Demand - Trick or Treat"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Asian Oil Demand - Trick or Treat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Asian Oil Demand - Trick or Treat\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/asian-oil-demand-trick-or-treat/](https://www.poten.com/asian-oil-demand-trick-or-treat/)\n**Full PDF Report**: [Tanker_Opinion_20141031.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20141031.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20141031.pdf. Analysis & Overview\nAsian Oil Demand - Trick or Treat\nAsian Oil Demand - Trick or Treat",
+  "keywords": [
+    "crude_oil",
+    "asian",
+    "demand",
+    "https",
+    "oil",
+    "treat",
+    "trick",
+    "full",
+    "pdf",
+    "www.poten.com/asian-oil-demand-trick-or-treat",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 163,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_asian_oil_demand_trick_or_treat.md",
+  "source_url": "https://www.poten.com/asian-oil-demand-trick-or-treat/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat__s01_poten_tanker_opinion_asian_oil_demand_trick_or_treat",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat__root",
+      "title": "Poten Tanker Opinion: Asian Oil Demand - Trick or Treat",
+      "section_path": [
+        "Poten Tanker Opinion: Asian Oil Demand - Trick or Treat"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Asian Oil Demand - Trick or Treat",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/asian-oil-demand-trick-or-treat/](https://www.poten.com/asian-oil-demand-trick-or-treat/)\n**Full PDF Report**: [Tanker_Opinion_20141031.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20141031.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20141031.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/asian-oil-demand-trick-or-treat",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_asian_oil_demand_trick_or_treat__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Asian Oil Demand - Trick or Treat\nAsian Oil Demand - Trick or Treat",
+      "keywords": [
+        "crude_oil",
+        "asian",
+        "demand",
+        "oil",
+        "treat",
+        "trick"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Libyaâ€™s Rollercoaster Ride",
+  "section_path": [
+    "Poten Tanker Opinion: Libyaâ€™s Rollercoaster Ride"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Libyaâ€™s Rollercoaster Ride",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Libyaâ€™s Rollercoaster Ride\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/libyas-rollercoaster-ride/](https://www.poten.com/libyas-rollercoaster-ride/)\n**Full PDF Report**: [Weekly-Opinion-17-July-2020-Libyas-Rollercoaster-Ride.pdf](http://www.poten.com/wp-content/uploads/2020/07/Weekly-Opinion-17-July-2020-Libyas-Rollercoaster-Ride.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-17-July-2020-Libyas-Rollercoaster-Ride.pdf. Analysis & Overview\nLibyaâ€™s Rollercoaster Ride\nLibyaâ€™s Rollercoaster Ride",
+  "keywords": [
+    "libya",
+    "ride",
+    "rollercoaster",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/libyas-rollercoaster-ride",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 199,
+  "source_path": "reports/poten/2020/poten_2020-01-01_libya_s_rollercoaster_ride.md",
+  "source_url": "https://www.poten.com/libyas-rollercoaster-ride/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride__s01_poten_tanker_opinion_libya_s_rollercoaster_ride",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride__root",
+      "title": "Poten Tanker Opinion: Libyaâ€™s Rollercoaster Ride",
+      "section_path": [
+        "Poten Tanker Opinion: Libyaâ€™s Rollercoaster Ride"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Libyaâ€™s Rollercoaster Ride",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/libyas-rollercoaster-ride/](https://www.poten.com/libyas-rollercoaster-ride/)\n**Full PDF Report**: [Weekly-Opinion-17-July-2020-Libyas-Rollercoaster-Ride.pdf](http://www.poten.com/wp-content/uploads/2020/07/Weekly-Opinion-17-July-2020-Libyas-Rollercoaster-Ride.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-17-July-2020-Libyas-Rollercoaster-Ride.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/libyas-rollercoaster-ride",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_libya_s_rollercoaster_ride__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Libyaâ€™s Rollercoaster Ride\nLibyaâ€™s Rollercoaster Ride",
+      "keywords": [
+        "libya",
+        "ride",
+        "rollercoaster"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

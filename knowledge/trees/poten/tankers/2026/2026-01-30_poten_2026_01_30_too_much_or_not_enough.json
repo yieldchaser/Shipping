@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 237,
+  "token_count": 323,
   "source_path": "reports/poten/2026/poten_2026-01-30_too_much_or_not_enough.md",
   "source_url": "https://www.poten.com/too-much-or-not-enough/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Too Much Or Not Enough?",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Raza Zoya\n**Published Date**: 2026-01-30\n**Source URL**: [https://www.poten.com/too-much-or-not-enough/](https://www.poten.com/too-much-or-not-enough/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Raza Zoya\n**Published Date**: 2026-01-30\n**Source URL**: [https://www.poten.com/too-much-or-not-enough/](https://www.poten.com/too-much-or-not-enough/)\n**Full PDF Report**: [Weekly Opinion - 30 Jan 2026 - Too Much Or Not Enough.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2030%20Jan%202026%20-%20Too%20Much%20Or%20Not%20Enough.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/too-much-or-not-enough",
-        "analysis",
-        "archived"
+        "enough.pdf",
+        "jan",
+        "much",
+        "not",
+        "opinion"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 94,
+      "token_count": 180,
       "section_type": null,
       "children": []
     },

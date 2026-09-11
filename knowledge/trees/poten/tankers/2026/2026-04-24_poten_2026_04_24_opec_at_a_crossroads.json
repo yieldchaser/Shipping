@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 303,
+  "token_count": 389,
   "source_path": "reports/poten/2026/poten_2026-04-24_opec_at_a_crossroads.md",
   "source_url": "https://www.poten.com/opec-at-a-crossroads/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: OPEC At A Crossroads",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-04-24\n**Source URL**: [https://www.poten.com/opec-at-a-crossroads/](https://www.poten.com/opec-at-a-crossroads/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-04-24\n**Source URL**: [https://www.poten.com/opec-at-a-crossroads/](https://www.poten.com/opec-at-a-crossroads/)\n**Full PDF Report**: [Weekly Opinion - 24 April 2026 - OPEC At A Crossroads.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2024%20April%202026%20-%20OPEC%20At%20A%20Crossroads.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
         "crude_oil",
-        "author",
-        "date",
         "https",
-        "published",
-        "summary",
-        "www.poten.com/opec-at-a-crossroads",
-        "analysis"
+        "april",
+        "author",
+        "crossroads.pdf",
+        "date",
+        "opec",
+        "opinion"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 91,
+      "token_count": 177,
       "section_type": null,
       "children": []
     },

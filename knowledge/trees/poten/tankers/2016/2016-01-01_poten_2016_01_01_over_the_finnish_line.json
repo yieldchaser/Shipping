@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Over The Finnish Line",
+  "section_path": [
+    "Poten Tanker Opinion: Over The Finnish Line"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Over The Finnish Line",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Over The Finnish Line\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/over-the-finnish-line/](https://www.poten.com/over-the-finnish-line/)\n**Full PDF Report**: [Weekly-Opinion-09-September-2016-Over-The-Finnish-Line.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/09/Weekly-Opinion-09-September-2016-Over-The-Finnish-Line.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-09-September-2016-Over-The-Finnish-Line.pdf. Analysis & Overview\nOver The Finnish Line\n9 Sep 2016:Â Earlier this week, Finland ratified the IMOâ€™s Ballast Water Management Convention (BWMC), raising the percentage of world tonnage to 35.1441% and the number of ratifying countries to 52. This means that the hurdle of 30 countries representing 35% of the worldâ€™s merchant fleet has now been met and on September 8, 2017...",
+  "keywords": [
+    "https",
+    "countries",
+    "finnish",
+    "full",
+    "line",
+    "pdf",
+    "world",
+    "www.poten.com/over-the-finnish-line",
+    "analysis",
+    "archived",
+    "author",
+    "ballast"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 268,
+  "source_path": "reports/poten/2016/poten_2016-01-01_over_the_finnish_line.md",
+  "source_url": "https://www.poten.com/over-the-finnish-line/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line__s01_poten_tanker_opinion_over_the_finnish_line",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line__root",
+      "title": "Poten Tanker Opinion: Over The Finnish Line",
+      "section_path": [
+        "Poten Tanker Opinion: Over The Finnish Line"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Over The Finnish Line",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/over-the-finnish-line/](https://www.poten.com/over-the-finnish-line/)\n**Full PDF Report**: [Weekly-Opinion-09-September-2016-Over-The-Finnish-Line.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/09/Weekly-Opinion-09-September-2016-Over-The-Finnish-Line.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-09-September-2016-Over-The-Finnish-Line.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/over-the-finnish-line",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_over_the_finnish_line__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Over The Finnish Line\n9 Sep 2016:Â Earlier this week, Finland ratified the IMOâ€™s Ballast Water Management Convention (BWMC), raising the percentage of world tonnage to 35.1441% and the number of ratifying countries to 52. This means that the hurdle of 30 countries representing 35% of the worldâ€™s merchant fleet has now been met and on September 8, 2017...",
+      "keywords": [
+        "countries",
+        "world",
+        "ballast",
+        "bwmc",
+        "convention",
+        "earlier",
+        "finland",
+        "finnish"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

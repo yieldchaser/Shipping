@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Rock versus Sand",
+  "section_path": [
+    "Poten Tanker Opinion: Rock versus Sand"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Rock versus Sand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Rock versus Sand\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/rock-versus-sand/](https://www.poten.com/rock-versus-sand/)\n**Full PDF Report**: [Weekly-Opinion-28-April-2017-Rock-versus-Sand.pdf](http://www.poten.com/wp-content/uploads/2017/04/Weekly-Opinion-28-April-2017-Rock-versus-Sand.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-28-April-2017-Rock-versus-Sand.pdf. Analysis & Overview\nRock versus Sand\n28 Apr 2017: Â American shale is back.Â Production is going from strength to strength on the back of increased drilling activity and significantly reduced breakeven prices compared to 2014/2015.Â Even at current prices, which are hovering around $50 per barrel, shale oil can be profitably extracted from fields in the United States.Â As a result,...",
+  "keywords": [
+    "crude_oil",
+    "full",
+    "https",
+    "pdf",
+    "prices",
+    "rock",
+    "sand",
+    "shale",
+    "strength",
+    "versus",
+    "www.poten.com/rock-versus-sand",
+    "activity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 251,
+  "source_path": "reports/poten/2017/poten_2017-01-01_rock_versus_sand.md",
+  "source_url": "https://www.poten.com/rock-versus-sand/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand__s01_poten_tanker_opinion_rock_versus_sand",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand__root",
+      "title": "Poten Tanker Opinion: Rock versus Sand",
+      "section_path": [
+        "Poten Tanker Opinion: Rock versus Sand"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Rock versus Sand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/rock-versus-sand/](https://www.poten.com/rock-versus-sand/)\n**Full PDF Report**: [Weekly-Opinion-28-April-2017-Rock-versus-Sand.pdf](http://www.poten.com/wp-content/uploads/2017/04/Weekly-Opinion-28-April-2017-Rock-versus-Sand.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-28-April-2017-Rock-versus-Sand.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/rock-versus-sand",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_rock_versus_sand__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Rock versus Sand\n28 Apr 2017: Â American shale is back.Â Production is going from strength to strength on the back of increased drilling activity and significantly reduced breakeven prices compared to 2014/2015.Â Even at current prices, which are hovering around $50 per barrel, shale oil can be profitably extracted from fields in the United States.Â As a result,...",
+      "keywords": [
+        "crude_oil",
+        "prices",
+        "shale",
+        "strength",
+        "activity",
+        "american",
+        "apr",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

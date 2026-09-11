@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Shipbuildingâ€™s Slippery Slope",
+  "section_path": [
+    "Poten Tanker Opinion: Shipbuildingâ€™s Slippery Slope"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Shipbuildingâ€™s Slippery Slope",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Shipbuildingâ€™s Slippery Slope\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/shipbuildings-slippery-slope/](https://www.poten.com/shipbuildings-slippery-slope/)\n**Full PDF Report**: [Tanker_Opinion_20140509.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140509.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140509.pdf. Analysis & Overview\nShipbuildingâ€™s Slippery Slope\nShipbuildingâ€™s Slippery Slope",
+  "keywords": [
+    "https",
+    "shipbuilding",
+    "slippery",
+    "slope",
+    "full",
+    "pdf",
+    "www.poten.com/shipbuildings-slippery-slope",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 167,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_shipbuilding_s_slippery_slope.md",
+  "source_url": "https://www.poten.com/shipbuildings-slippery-slope/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope__s01_poten_tanker_opinion_shipbuilding_s_slippery_slope",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope__root",
+      "title": "Poten Tanker Opinion: Shipbuildingâ€™s Slippery Slope",
+      "section_path": [
+        "Poten Tanker Opinion: Shipbuildingâ€™s Slippery Slope"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Shipbuildingâ€™s Slippery Slope",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/shipbuildings-slippery-slope/](https://www.poten.com/shipbuildings-slippery-slope/)\n**Full PDF Report**: [Tanker_Opinion_20140509.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140509.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140509.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/shipbuildings-slippery-slope",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_shipbuilding_s_slippery_slope__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Shipbuildingâ€™s Slippery Slope\nShipbuildingâ€™s Slippery Slope",
+      "keywords": [
+        "shipbuilding",
+        "slippery",
+        "slope"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

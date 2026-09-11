@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Supply Side Savior",
+  "section_path": [
+    "Poten Tanker Opinion: Supply Side Savior"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Supply Side Savior",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Supply Side Savior\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/supply-side-savior/](https://www.poten.com/supply-side-savior/)\n**Full PDF Report**: [Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf](http://www.poten.com/wp-content/uploads/2020/10/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf. Analysis & Overview\nSupply Side Savior\n16 Oct 2020:Can low ordering and increased scrapping revive the tanker market? The tanker market appears to be in dire straits at the moment.",
+  "keywords": [
+    "crude_oil",
+    "demand",
+    "full",
+    "https",
+    "pdf",
+    "savior",
+    "side",
+    "supply",
+    "www.poten.com/supply-side-savior",
+    "activity",
+    "agencies",
+    "all"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 244,
+  "source_path": "reports/poten/2020/poten_2020-01-01_supply_side_savior.md",
+  "source_url": "https://www.poten.com/supply-side-savior/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior__s01_poten_tanker_opinion_supply_side_savior",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior__root",
+      "title": "Poten Tanker Opinion: Supply Side Savior",
+      "section_path": [
+        "Poten Tanker Opinion: Supply Side Savior"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Supply Side Savior",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/supply-side-savior/](https://www.poten.com/supply-side-savior/)\n**Full PDF Report**: [Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf](http://www.poten.com/wp-content/uploads/2020/10/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-16-October-2020-Supply-Side-Savior.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/supply-side-savior",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_supply_side_savior__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Supply Side Savior\n16 Oct 2020:Can low ordering and increased scrapping revive the tanker market? The tanker market appears to be in dire straits at the moment.",
+      "keywords": [
+        "crude_oil",
+        "demand",
+        "activity",
+        "agencies",
+        "all",
+        "appears",
+        "can",
+        "continues"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 84,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

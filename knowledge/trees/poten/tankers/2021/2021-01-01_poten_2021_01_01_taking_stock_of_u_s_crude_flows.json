@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Taking Stock Of U.S. Crude Flows",
+  "section_path": [
+    "Poten Tanker Opinion: Taking Stock Of U.S. Crude Flows"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Taking Stock Of U.S. Crude Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Taking Stock Of U.S. Crude Flows\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-june-18-2021-taking-stock-of-us-crude-flows/](https://www.poten.com/tanker-opinion-june-18-2021-taking-stock-of-us-crude-flows/)\n**Full PDF Report**: [Weekly-Opinion-18-June-2021-Taking-Stock-of-U.S.-Crude-Flows.pdf](https://www.poten.com/wp-content/uploads/2021/06/Weekly-Opinion-18-June-2021-Taking-Stock-of-U.S.-Crude-Flows.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-18-June-2021-Taking-Stock-of-U.S.-Crude-Flows.pdf. Analysis & Overview\nTaking Stock Of U.S.",
+  "keywords": [
+    "crude",
+    "flows",
+    "https",
+    "stock",
+    "taking",
+    "u.s.",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-june-18-2021-taking-stock-of-us-crude-flows",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 237,
+  "source_path": "reports/poten/2021/poten_2021-01-01_taking_stock_of_u_s_crude_flows.md",
+  "source_url": "https://www.poten.com/tanker-opinion-june-18-2021-taking-stock-of-us-crude-flows/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows__s01_poten_tanker_opinion_taking_stock_of_u_s_crude_flows",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows__root",
+      "title": "Poten Tanker Opinion: Taking Stock Of U.S. Crude Flows",
+      "section_path": [
+        "Poten Tanker Opinion: Taking Stock Of U.S. Crude Flows"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Taking Stock Of U.S. Crude Flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-june-18-2021-taking-stock-of-us-crude-flows/](https://www.poten.com/tanker-opinion-june-18-2021-taking-stock-of-us-crude-flows/)\n**Full PDF Report**: [Weekly-Opinion-18-June-2021-Taking-Stock-of-U.S.-Crude-Flows.pdf](https://www.poten.com/wp-content/uploads/2021/06/Weekly-Opinion-18-June-2021-Taking-Stock-of-U.S.-Crude-Flows.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-18-June-2021-Taking-Stock-of-U.S.-Crude-Flows.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-june-18-2021-taking-stock-of-us-crude-flows",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_taking_stock_of_u_s_crude_flows__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Crude Flows\nTaking Stock Of U.S.",
+      "keywords": [
+        "crude",
+        "flows",
+        "stock",
+        "taking",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

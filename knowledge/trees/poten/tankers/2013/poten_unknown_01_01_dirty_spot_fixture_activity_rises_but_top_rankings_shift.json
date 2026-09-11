@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Dirty Spot Fixture Activity Rises, But Top Rankings Shift",
+  "section_path": [
+    "Poten Tanker Opinion: Dirty Spot Fixture Activity Rises, But Top Rankings Shift"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Dirty Spot Fixture Activity Rises, But Top Rankings Shift",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Dirty Spot Fixture Activity Rises, But Top Rankings Shift\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/dirty-spot-fixture-activity-rises-but-top-rankings-shift/](https://www.poten.com/dirty-spot-fixture-activity-rises-but-top-rankings-shift/)\n**Full PDF Report**: [Tanker_Opinion_20130104.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20130104.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130104.pdf. Analysis & Overview\nDirty Spot Fixture Activity Rises, But Top Rankings Shift\nDirty Spot Fixture Activity Rises, But Top Rankings Shift",
+  "keywords": [
+    "activity",
+    "but",
+    "dirty",
+    "fixture",
+    "https",
+    "rankings",
+    "rises",
+    "shift",
+    "top",
+    "full",
+    "pdf",
+    "www.poten.com/dirty-spot-fixture-activity-rises-but-top-rankings-shift"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 185,
+  "source_path": "reports/poten/2013/poten_unknown-01-01_dirty_spot_fixture_activity_rises_but_top_rankings_shift.md",
+  "source_url": "https://www.poten.com/dirty-spot-fixture-activity-rises-but-top-rankings-shift/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift__s01_poten_tanker_opinion_dirty_spot_fixture_activity_rises_but_top_rankings_shift",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift__root",
+      "title": "Poten Tanker Opinion: Dirty Spot Fixture Activity Rises, But Top Rankings Shift",
+      "section_path": [
+        "Poten Tanker Opinion: Dirty Spot Fixture Activity Rises, But Top Rankings Shift"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Dirty Spot Fixture Activity Rises, But Top Rankings Shift",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/dirty-spot-fixture-activity-rises-but-top-rankings-shift/](https://www.poten.com/dirty-spot-fixture-activity-rises-but-top-rankings-shift/)\n**Full PDF Report**: [Tanker_Opinion_20130104.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20130104.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130104.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/dirty-spot-fixture-activity-rises-but-top-rankings-shift",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_dirty_spot_fixture_activity_rises_but_top_rankings_shift__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Dirty Spot Fixture Activity Rises, But Top Rankings Shift\nDirty Spot Fixture Activity Rises, But Top Rankings Shift",
+      "keywords": [
+        "activity",
+        "but",
+        "dirty",
+        "fixture",
+        "rankings",
+        "rises",
+        "shift",
+        "top"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

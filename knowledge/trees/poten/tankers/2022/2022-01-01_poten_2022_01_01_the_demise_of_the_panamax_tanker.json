@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Demise Of The Panamax Tanker",
+  "section_path": [
+    "Poten Tanker Opinion: The Demise Of The Panamax Tanker"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Demise Of The Panamax Tanker",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Demise Of The Panamax Tanker\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-january-28-2022-the-demise-of-the-panamax-tanker/](https://www.poten.com/tanker-opinion-january-28-2022-the-demise-of-the-panamax-tanker/)\n**Full PDF Report**: [Weekly-Opinion-28-January-2022-The-Demise-of-the-LR1.pdf](https://www.poten.com/wp-content/uploads/2022/01/Weekly-Opinion-28-January-2022-The-Demise-of-the-LR1.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-28-January-2022-The-Demise-of-the-LR1.pdf. Analysis & Overview\nThe Demise Of The Panamax Tanker\nThe Demise Of The Panamax Tanker",
+  "keywords": [
+    "panamax",
+    "demise",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-january-28-2022-the-demise-of-the-panamax-tanker",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 228,
+  "source_path": "reports/poten/2022/poten_2022-01-01_the_demise_of_the_panamax_tanker.md",
+  "source_url": "https://www.poten.com/tanker-opinion-january-28-2022-the-demise-of-the-panamax-tanker/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker__s01_poten_tanker_opinion_the_demise_of_the_panamax_tanker",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker__root",
+      "title": "Poten Tanker Opinion: The Demise Of The Panamax Tanker",
+      "section_path": [
+        "Poten Tanker Opinion: The Demise Of The Panamax Tanker"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Demise Of The Panamax Tanker",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-january-28-2022-the-demise-of-the-panamax-tanker/](https://www.poten.com/tanker-opinion-january-28-2022-the-demise-of-the-panamax-tanker/)\n**Full PDF Report**: [Weekly-Opinion-28-January-2022-The-Demise-of-the-LR1.pdf](https://www.poten.com/wp-content/uploads/2022/01/Weekly-Opinion-28-January-2022-The-Demise-of-the-LR1.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-28-January-2022-The-Demise-of-the-LR1.pdf.",
+      "keywords": [
+        "panamax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-january-28-2022-the-demise-of-the-panamax-tanker",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_the_demise_of_the_panamax_tanker__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Demise Of The Panamax Tanker\nThe Demise Of The Panamax Tanker",
+      "keywords": [
+        "panamax",
+        "demise"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

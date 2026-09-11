@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off__root",
+  "doc_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Ready For Take-Off",
+  "section_path": [
+    "Poten Tanker Opinion: Ready For Take-Off"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Ready For Take-Off",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Ready For Take-Off\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-06-23\n**Source URL**: [https://www.poten.com/tanker-opinion-ready-for-take-off-june-23-2023/](https://www.poten.com/tanker-opinion-ready-for-take-off-june-23-2023/)\n**Full PDF Report**: [Weekly Opinion - 23 June 2023 - Ready For Take-Off.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2023%20June%202023%20-%20Ready%20For%20Take-Off.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 23 June 2023 - Ready For Take-Off.pdf. Analysis & Overview\nReady For Take-Off\nReady For Take-Off",
+  "keywords": [
+    "ready",
+    "opinion",
+    "https",
+    "june",
+    "take-off",
+    "full",
+    "pdf",
+    "take-off.pdf",
+    "www.poten.com/tanker-opinion-ready-for-take-off-june-23-2023",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 216,
+  "source_path": "reports/poten/2023/poten_2023-06-23_ready_for_take-off.md",
+  "source_url": "https://www.poten.com/tanker-opinion-ready-for-take-off-june-23-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off__s01_poten_tanker_opinion_ready_for_take_off",
+      "doc_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off",
+      "parent_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off__root",
+      "title": "Poten Tanker Opinion: Ready For Take-Off",
+      "section_path": [
+        "Poten Tanker Opinion: Ready For Take-Off"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Ready For Take-Off",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-06-23\n**Source URL**: [https://www.poten.com/tanker-opinion-ready-for-take-off-june-23-2023/](https://www.poten.com/tanker-opinion-ready-for-take-off-june-23-2023/)\n**Full PDF Report**: [Weekly Opinion - 23 June 2023 - Ready For Take-Off.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2023%20June%202023%20-%20Ready%20For%20Take-Off.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 23 June 2023 - Ready For Take-Off.pdf.",
+      "keywords": [
+        "https",
+        "june",
+        "opinion",
+        "ready",
+        "full",
+        "pdf",
+        "take-off.pdf",
+        "www.poten.com/tanker-opinion-ready-for-take-off-june-23-2023"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off",
+      "parent_id": "poten_tankers_2023-06-23_poten_2023_06_23_ready_for_take_off__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ready For Take-Off\nReady For Take-Off",
+      "keywords": [
+        "ready",
+        "take-off"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

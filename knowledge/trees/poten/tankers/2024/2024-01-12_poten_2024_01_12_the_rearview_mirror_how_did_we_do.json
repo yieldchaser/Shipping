@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do__root",
+  "doc_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Rearview Mirror. How Did We Do",
+  "section_path": [
+    "Poten Tanker Opinion: The Rearview Mirror. How Did We Do"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Rearview Mirror. How Did We Do",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Rearview Mirror. How Did We Do\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-01-12\n**Source URL**: [https://www.poten.com/tanker-opinions-the-rearview-mirror-how-did-we-do-january-12-2024/](https://www.poten.com/tanker-opinions-the-rearview-mirror-how-did-we-do-january-12-2024/)\n**Full PDF Report**: [Weekly Opinion - 12 January 2024 - The Rearview Mirror.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20January%202024%20-%20The%20Rearview%20Mirror.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 12 January 2024 - The Rearview Mirror.pdf. Analysis & Overview\nThe Rearview Mirror.",
+  "keywords": [
+    "rearview",
+    "opinion",
+    "did",
+    "how",
+    "https",
+    "january",
+    "mirror.",
+    "full",
+    "mirror.pdf",
+    "pdf",
+    "www.poten.com/tanker-opinions-the-rearview-mirror-how-did-we-do-january-12-2024",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 240,
+  "source_path": "reports/poten/2024/poten_2024-01-12_the_rearview_mirror_how_did_we_do.md",
+  "source_url": "https://www.poten.com/tanker-opinions-the-rearview-mirror-how-did-we-do-january-12-2024/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do__s01_poten_tanker_opinion_the_rearview_mirror_how_did_we_do",
+      "doc_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do",
+      "parent_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do__root",
+      "title": "Poten Tanker Opinion: The Rearview Mirror. How Did We Do",
+      "section_path": [
+        "Poten Tanker Opinion: The Rearview Mirror. How Did We Do"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Rearview Mirror. How Did We Do",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-01-12\n**Source URL**: [https://www.poten.com/tanker-opinions-the-rearview-mirror-how-did-we-do-january-12-2024/](https://www.poten.com/tanker-opinions-the-rearview-mirror-how-did-we-do-january-12-2024/)\n**Full PDF Report**: [Weekly Opinion - 12 January 2024 - The Rearview Mirror.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20January%202024%20-%20The%20Rearview%20Mirror.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 12 January 2024 - The Rearview Mirror.pdf.",
+      "keywords": [
+        "https",
+        "january",
+        "opinion",
+        "rearview",
+        "full",
+        "mirror.pdf",
+        "pdf",
+        "www.poten.com/tanker-opinions-the-rearview-mirror-how-did-we-do-january-12-2024"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do",
+      "parent_id": "poten_tankers_2024-01-12_poten_2024_01_12_the_rearview_mirror_how_did_we_do__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "How Did We Do\nThe Rearview Mirror.",
+      "keywords": [
+        "did",
+        "how",
+        "mirror.",
+        "rearview"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

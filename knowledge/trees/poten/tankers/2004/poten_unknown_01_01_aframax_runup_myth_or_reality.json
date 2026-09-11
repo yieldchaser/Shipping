@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Aframax Runup â€\" Myth or Reality",
+  "section_path": [
+    "Poten Tanker Opinion: Aframax Runup â€\" Myth or Reality"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Aframax Runup â€\" Myth or Reality",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Aframax Runup â€\" Myth or Reality\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/aframax-runup-myth-or-reality/](https://www.poten.com/aframax-runup-myth-or-reality/)\n**Full PDF Report**: [Tanker_Opinion_20041022.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20041022.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20041022.pdf. Analysis & Overview\nAframax Runup â€\" Myth or Reality\nAframax Runup â€\" Myth or Reality",
+  "keywords": [
+    "aframax",
+    "https",
+    "myth",
+    "reality",
+    "runup",
+    "full",
+    "pdf",
+    "www.poten.com/aframax-runup-myth-or-reality",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 172,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_aframax_runup_myth_or_reality.md",
+  "source_url": "https://www.poten.com/aframax-runup-myth-or-reality/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality__s01_poten_tanker_opinion_aframax_runup_myth_or_reality",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality__root",
+      "title": "Poten Tanker Opinion: Aframax Runup â€\" Myth or Reality",
+      "section_path": [
+        "Poten Tanker Opinion: Aframax Runup â€\" Myth or Reality"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Aframax Runup â€\" Myth or Reality",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/aframax-runup-myth-or-reality/](https://www.poten.com/aframax-runup-myth-or-reality/)\n**Full PDF Report**: [Tanker_Opinion_20041022.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20041022.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20041022.pdf.",
+      "keywords": [
+        "aframax",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/aframax-runup-myth-or-reality",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_aframax_runup_myth_or_reality__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Aframax Runup â€\" Myth or Reality\nAframax Runup â€\" Myth or Reality",
+      "keywords": [
+        "aframax",
+        "myth",
+        "reality",
+        "runup"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

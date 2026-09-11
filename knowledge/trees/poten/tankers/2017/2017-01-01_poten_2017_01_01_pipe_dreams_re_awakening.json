@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Pipe Dreams Re-Awakening",
+  "section_path": [
+    "Poten Tanker Opinion: Pipe Dreams Re-Awakening"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Pipe Dreams Re-Awakening",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Pipe Dreams Re-Awakening\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/pipe-dreams-re-awakening/](https://www.poten.com/pipe-dreams-re-awakening/)\n**Full PDF Report**: [Weekly-Opinion-3-February-2017-Pipe-Dreams-Re-Awakening.pdf](http://www.poten.com/wp-content/uploads/2017/02/Weekly-Opinion-3-February-2017-Pipe-Dreams-Re-Awakening.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-3-February-2017-Pipe-Dreams-Re-Awakening.pdf. Analysis & Overview\nPipe Dreams Re-Awakening\n3 Feb 2017: On January 24, in his first week in office, President Trump issued several memos and an executive order aimed at streamlining and expediting approvals for midstream infrastructure (like pipelines).Â Two of the projects that President Trump would like to see approved (fulfilling some of his election campaign promises) are the Keystone XL...",
+  "keywords": [
+    "dreams",
+    "full",
+    "his",
+    "https",
+    "like",
+    "pdf",
+    "pipe",
+    "president",
+    "re-awakening",
+    "trump",
+    "www.poten.com/pipe-dreams-re-awakening",
+    "aimed"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 265,
+  "source_path": "reports/poten/2017/poten_2017-01-01_pipe_dreams_re-awakening.md",
+  "source_url": "https://www.poten.com/pipe-dreams-re-awakening/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening__s01_poten_tanker_opinion_pipe_dreams_re_awakening",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening__root",
+      "title": "Poten Tanker Opinion: Pipe Dreams Re-Awakening",
+      "section_path": [
+        "Poten Tanker Opinion: Pipe Dreams Re-Awakening"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Pipe Dreams Re-Awakening",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/pipe-dreams-re-awakening/](https://www.poten.com/pipe-dreams-re-awakening/)\n**Full PDF Report**: [Weekly-Opinion-3-February-2017-Pipe-Dreams-Re-Awakening.pdf](http://www.poten.com/wp-content/uploads/2017/02/Weekly-Opinion-3-February-2017-Pipe-Dreams-Re-Awakening.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-3-February-2017-Pipe-Dreams-Re-Awakening.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/pipe-dreams-re-awakening",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_pipe_dreams_re_awakening__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Pipe Dreams Re-Awakening\n3 Feb 2017: On January 24, in his first week in office, President Trump issued several memos and an executive order aimed at streamlining and expediting approvals for midstream infrastructure (like pipelines).Â Two of the projects that President Trump would like to see approved (fulfilling some of his election campaign promises) are the Keystone XL...",
+      "keywords": [
+        "his",
+        "like",
+        "president",
+        "trump",
+        "aimed",
+        "approvals",
+        "approved",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

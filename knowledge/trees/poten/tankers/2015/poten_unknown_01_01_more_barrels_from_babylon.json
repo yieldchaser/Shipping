@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: More Barrels From Babylon",
+  "section_path": [
+    "Poten Tanker Opinion: More Barrels From Babylon"
+  ],
+  "section_path_text": "Poten Tanker Opinion: More Barrels From Babylon",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: More Barrels From Babylon\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/more-barrels-from-babylon/](https://www.poten.com/more-barrels-from-babylon/)\n**Full PDF Report**: [Tanker_Opinion_20150213.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20150213.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20150213.pdf. Analysis & Overview\nMore Barrels From Babylon\n13 Feb 2015: Iraqi Production and Exports Near Historic Highs.Â In the context of oil production growth, the US is the country that is often mentioned as the fastest growing non-OPEC producer. Within the group of OPEC countries, Iraq is the star performer with rapidly growing production.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "babylon",
+    "barrels",
+    "full",
+    "growing",
+    "pdf",
+    "production",
+    "www.poten.com/more-barrels-from-babylon",
+    "agency",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 229,
+  "source_path": "reports/poten/2015/poten_unknown-01-01_more_barrels_from_babylon.md",
+  "source_url": "https://www.poten.com/more-barrels-from-babylon/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon__s01_poten_tanker_opinion_more_barrels_from_babylon",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon__root",
+      "title": "Poten Tanker Opinion: More Barrels From Babylon",
+      "section_path": [
+        "Poten Tanker Opinion: More Barrels From Babylon"
+      ],
+      "section_path_text": "Poten Tanker Opinion: More Barrels From Babylon",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/more-barrels-from-babylon/](https://www.poten.com/more-barrels-from-babylon/)\n**Full PDF Report**: [Tanker_Opinion_20150213.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20150213.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20150213.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/more-barrels-from-babylon",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_more_barrels_from_babylon__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "More Barrels From Babylon\n13 Feb 2015: Iraqi Production and Exports Near Historic Highs.Â In the context of oil production growth, the US is the country that is often mentioned as the fastest growing non-OPEC producer. Within the group of OPEC countries, Iraq is the star performer with rapidly growing production.",
+      "keywords": [
+        "crude_oil",
+        "growing",
+        "production",
+        "agency",
+        "babylon",
+        "barrels",
+        "context",
+        "countries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Slipâ€¦Nâ€™ Slide into Better Times",
+  "section_path": [
+    "Poten Tanker Opinion: Slipâ€¦Nâ€™ Slide into Better Times"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Slipâ€¦Nâ€™ Slide into Better Times",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Slipâ€¦Nâ€™ Slide into Better Times\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/slipn-slide-into-better-times/](https://www.poten.com/slipn-slide-into-better-times/)\n**Full PDF Report**: [Tanker_Opinion_20140815.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140815.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140815.pdf. Analysis & Overview\nSlipâ€¦Nâ€™ Slide into Better Times\nSlipâ€¦Nâ€™ Slide into Better Times",
+  "keywords": [
+    "better",
+    "https",
+    "slide",
+    "slip",
+    "times",
+    "full",
+    "pdf",
+    "www.poten.com/slipn-slide-into-better-times",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 175,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_slip_n_slide_into_better_times.md",
+  "source_url": "https://www.poten.com/slipn-slide-into-better-times/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times__s01_poten_tanker_opinion_slip_n_slide_into_better_times",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times__root",
+      "title": "Poten Tanker Opinion: Slipâ€¦Nâ€™ Slide into Better Times",
+      "section_path": [
+        "Poten Tanker Opinion: Slipâ€¦Nâ€™ Slide into Better Times"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Slipâ€¦Nâ€™ Slide into Better Times",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/slipn-slide-into-better-times/](https://www.poten.com/slipn-slide-into-better-times/)\n**Full PDF Report**: [Tanker_Opinion_20140815.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140815.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140815.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/slipn-slide-into-better-times",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_slip_n_slide_into_better_times__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Slipâ€¦Nâ€™ Slide into Better Times\nSlipâ€¦Nâ€™ Slide into Better Times",
+      "keywords": [
+        "better",
+        "slide",
+        "slip",
+        "times"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

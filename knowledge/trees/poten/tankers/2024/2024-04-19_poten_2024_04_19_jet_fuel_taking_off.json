@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off__root",
+  "doc_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Jet Fuel Taking Off",
+  "section_path": [
+    "Poten Tanker Opinion: Jet Fuel Taking Off"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Jet Fuel Taking Off",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Jet Fuel Taking Off\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-04-19\n**Source URL**: [https://www.poten.com/jet-fuel-taking-off/](https://www.poten.com/jet-fuel-taking-off/)\n**Full PDF Report**: [Weekly Opinion -19 April 2024 - Jet Fuel Taking Off.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-19%20April%202024%20-%20Jet%20Fuel%20Taking%20Off.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -19 April 2024 - Jet Fuel Taking Off.pdf. Analysis & Overview\nJet Fuel Taking Off\nJet Fuel Taking Off",
+  "keywords": [
+    "products",
+    "fuel",
+    "jet",
+    "taking",
+    "opinion",
+    "april",
+    "https",
+    "off",
+    "full",
+    "off.pdf",
+    "pdf",
+    "www.poten.com/jet-fuel-taking-off"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 189,
+  "source_path": "reports/poten/2024/poten_2024-04-19_jet_fuel_taking_off.md",
+  "source_url": "https://www.poten.com/jet-fuel-taking-off/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off__s01_poten_tanker_opinion_jet_fuel_taking_off",
+      "doc_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off",
+      "parent_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off__root",
+      "title": "Poten Tanker Opinion: Jet Fuel Taking Off",
+      "section_path": [
+        "Poten Tanker Opinion: Jet Fuel Taking Off"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Jet Fuel Taking Off",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-04-19\n**Source URL**: [https://www.poten.com/jet-fuel-taking-off/](https://www.poten.com/jet-fuel-taking-off/)\n**Full PDF Report**: [Weekly Opinion -19 April 2024 - Jet Fuel Taking Off.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-19%20April%202024%20-%20Jet%20Fuel%20Taking%20Off.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -19 April 2024 - Jet Fuel Taking Off.pdf.",
+      "keywords": [
+        "products",
+        "april",
+        "fuel",
+        "https",
+        "jet",
+        "opinion",
+        "taking",
+        "full"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off",
+      "parent_id": "poten_tankers_2024-04-19_poten_2024_04_19_jet_fuel_taking_off__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Jet Fuel Taking Off\nJet Fuel Taking Off",
+      "keywords": [
+        "products",
+        "fuel",
+        "jet",
+        "off",
+        "taking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico__root",
+  "doc_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Much To Do About Mexico",
+  "section_path": [
+    "Poten Tanker Opinion: Much To Do About Mexico"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Much To Do About Mexico",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Much To Do About Mexico\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-05-10\n**Source URL**: [https://www.poten.com/much-to-do-about-mexico/](https://www.poten.com/much-to-do-about-mexico/)\n**Full PDF Report**: [Weekly Opinion -10 May 2024 - Much To Do About Mexico.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-10%20May%202024%20-%20Much%20To%20Do%20About%20Mexico.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -10 May 2024 - Much To Do About Mexico.pdf. Analysis & Overview\nMuch To Do About Mexico\nMuch To Do About Mexico",
+  "keywords": [
+    "much",
+    "opinion",
+    "https",
+    "may",
+    "mexico",
+    "full",
+    "mexico.pdf",
+    "pdf",
+    "www.poten.com/much-to-do-about-mexico",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 201,
+  "source_path": "reports/poten/2024/poten_2024-05-10_much_to_do_about_mexico.md",
+  "source_url": "https://www.poten.com/much-to-do-about-mexico/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico__s01_poten_tanker_opinion_much_to_do_about_mexico",
+      "doc_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico",
+      "parent_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico__root",
+      "title": "Poten Tanker Opinion: Much To Do About Mexico",
+      "section_path": [
+        "Poten Tanker Opinion: Much To Do About Mexico"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Much To Do About Mexico",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-05-10\n**Source URL**: [https://www.poten.com/much-to-do-about-mexico/](https://www.poten.com/much-to-do-about-mexico/)\n**Full PDF Report**: [Weekly Opinion -10 May 2024 - Much To Do About Mexico.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-10%20May%202024%20-%20Much%20To%20Do%20About%20Mexico.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -10 May 2024 - Much To Do About Mexico.pdf.",
+      "keywords": [
+        "https",
+        "may",
+        "much",
+        "opinion",
+        "full",
+        "mexico.pdf",
+        "pdf",
+        "www.poten.com/much-to-do-about-mexico"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico",
+      "parent_id": "poten_tankers_2024-05-10_poten_2024_05_10_much_to_do_about_mexico__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Much To Do About Mexico\nMuch To Do About Mexico",
+      "keywords": [
+        "mexico",
+        "much"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

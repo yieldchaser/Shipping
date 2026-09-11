@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Kurdish Tightrope",
+  "section_path": [
+    "Poten Tanker Opinion: Kurdish Tightrope"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Kurdish Tightrope",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Kurdish Tightrope\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/kurdish-tightrope/](https://www.poten.com/kurdish-tightrope/)\n**Full PDF Report**: [Weekly-Opinion-20-October-2017-Kurdish-Tightrope.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-20-October-2017-Kurdish-Tightrope.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-20-October-2017-Kurdish-Tightrope.pdf. Analysis & Overview\nKurdish Tightrope\nKurdish Tightrope",
+  "keywords": [
+    "kurdish",
+    "tightrope",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/kurdish-tightrope",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 181,
+  "source_path": "reports/poten/2017/poten_2017-01-01_kurdish_tightrope.md",
+  "source_url": "https://www.poten.com/kurdish-tightrope/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope__s01_poten_tanker_opinion_kurdish_tightrope",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope__root",
+      "title": "Poten Tanker Opinion: Kurdish Tightrope",
+      "section_path": [
+        "Poten Tanker Opinion: Kurdish Tightrope"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Kurdish Tightrope",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/kurdish-tightrope/](https://www.poten.com/kurdish-tightrope/)\n**Full PDF Report**: [Weekly-Opinion-20-October-2017-Kurdish-Tightrope.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-20-October-2017-Kurdish-Tightrope.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-20-October-2017-Kurdish-Tightrope.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/kurdish-tightrope",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_kurdish_tightrope__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "kurdish",
+        "tightrope"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: U.S. Driving Season(ality)",
+  "section_path": [
+    "Poten Tanker Opinion: U.S. Driving Season(ality)"
+  ],
+  "section_path_text": "Poten Tanker Opinion: U.S. Driving Season(ality)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Driving Season(ality)\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/u-s-driving-seasonality/](https://www.poten.com/u-s-driving-seasonality/)\n**Full PDF Report**: [Weekly-Opinion-2-Jun-2017-U.S.-Driving-Seasonality.pdf](http://www.poten.com/wp-content/uploads/2017/06/Weekly-Opinion-2-Jun-2017-U.S.-Driving-Seasonality.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-2-Jun-2017-U.S.-Driving-Seasonality.pdf. Driving Season(ality)\n2 Jun 2017: Â This weekâ€™s Memorial Day unofficially kicked off the annual U.S. summer driving season which typically ends on Labor Day, another holiday weekend in early September.Â Historically this means more driving and higher gasoline demand than during any other period of the year, because during the summer, families visit friends and relatives or...",
+  "keywords": [
+    "products",
+    "gas",
+    "driving",
+    "season",
+    "u.s.",
+    "ality",
+    "day",
+    "during",
+    "full",
+    "https",
+    "pdf",
+    "summer"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 250,
+  "source_path": "reports/poten/2017/poten_2017-01-01_u_s_driving_season_ality.md",
+  "source_url": "https://www.poten.com/u-s-driving-seasonality/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality__s01_poten_tanker_opinion_u_s_driving_season_ality",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality__root",
+      "title": "Poten Tanker Opinion: U.S. Driving Season(ality)",
+      "section_path": [
+        "Poten Tanker Opinion: U.S. Driving Season(ality)"
+      ],
+      "section_path_text": "Poten Tanker Opinion: U.S. Driving Season(ality)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/u-s-driving-seasonality/](https://www.poten.com/u-s-driving-seasonality/)\n**Full PDF Report**: [Weekly-Opinion-2-Jun-2017-U.S.-Driving-Seasonality.pdf](http://www.poten.com/wp-content/uploads/2017/06/Weekly-Opinion-2-Jun-2017-U.S.-Driving-Seasonality.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-2-Jun-2017-U.S.-Driving-Seasonality.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/u-s-driving-seasonality",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_u_s_driving_season_ality__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Driving Season(ality)\n2 Jun 2017: Â This weekâ€™s Memorial Day unofficially kicked off the annual U.S. summer driving season which typically ends on Labor Day, another holiday weekend in early September.Â Historically this means more driving and higher gasoline demand than during any other period of the year, because during the summer, families visit friends and relatives or...",
+      "keywords": [
+        "products",
+        "gas",
+        "driving",
+        "day",
+        "during",
+        "season",
+        "summer",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

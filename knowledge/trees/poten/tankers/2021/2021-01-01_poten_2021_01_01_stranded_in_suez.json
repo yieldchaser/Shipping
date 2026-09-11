@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Stranded in Suez",
+  "section_path": [
+    "Poten Tanker Opinion: Stranded in Suez"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Stranded in Suez",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Stranded in Suez\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-26-stranded-in-suez/](https://www.poten.com/tanker-opinion-26-stranded-in-suez/)\n**Full PDF Report**: [Weekly-Opinion-26-March-2021-Stranded-In-Suez.pdf](https://www.poten.com/wp-content/uploads/2021/03/Weekly-Opinion-26-March-2021-Stranded-In-Suez.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-26-March-2021-Stranded-In-Suez.pdf. Analysis & Overview\nStranded in Suez\nStranded in Suez",
+  "keywords": [
+    "https",
+    "stranded",
+    "suez",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-26-stranded-in-suez",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 185,
+  "source_path": "reports/poten/2021/poten_2021-01-01_stranded_in_suez.md",
+  "source_url": "https://www.poten.com/tanker-opinion-26-stranded-in-suez/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez__s01_poten_tanker_opinion_stranded_in_suez",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez__root",
+      "title": "Poten Tanker Opinion: Stranded in Suez",
+      "section_path": [
+        "Poten Tanker Opinion: Stranded in Suez"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Stranded in Suez",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-26-stranded-in-suez/](https://www.poten.com/tanker-opinion-26-stranded-in-suez/)\n**Full PDF Report**: [Weekly-Opinion-26-March-2021-Stranded-In-Suez.pdf](https://www.poten.com/wp-content/uploads/2021/03/Weekly-Opinion-26-March-2021-Stranded-In-Suez.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-26-March-2021-Stranded-In-Suez.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-26-stranded-in-suez",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_stranded_in_suez__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Stranded in Suez\nStranded in Suez",
+      "keywords": [
+        "stranded",
+        "suez"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

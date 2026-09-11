@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon__root",
+  "doc_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Recovering Dragon",
+  "section_path": [
+    "Poten Tanker Opinion: The Recovering Dragon"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Recovering Dragon",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Recovering Dragon\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-04-28\n**Source URL**: [https://www.poten.com/tanker-opinion-april-28-2023-the-recovering-dragon/](https://www.poten.com/tanker-opinion-april-28-2023-the-recovering-dragon/)\n**Full PDF Report**: [Weekly Opinion - 28 April 2023 - The Recovering Dragon (Update).pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2028%20April%202023%20-%20The%20Recovering%20Dragon%20(Update).pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 28 April 2023 - The Recovering Dragon (Update).pdf. Analysis & Overview\nThe Recovering Dragon\nThe Recovering Dragon",
+  "keywords": [
+    "dragon",
+    "recovering",
+    "opinion",
+    "pdf",
+    "april",
+    "https",
+    "update",
+    "full",
+    "www.poten.com/tanker-opinion-april-28-2023-the-recovering-dragon",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 221,
+  "source_path": "reports/poten/2023/poten_2023-04-28_the_recovering_dragon.md",
+  "source_url": "https://www.poten.com/tanker-opinion-april-28-2023-the-recovering-dragon/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon__s01_poten_tanker_opinion_the_recovering_dragon",
+      "doc_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon",
+      "parent_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon__root",
+      "title": "Poten Tanker Opinion: The Recovering Dragon",
+      "section_path": [
+        "Poten Tanker Opinion: The Recovering Dragon"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Recovering Dragon",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-04-28\n**Source URL**: [https://www.poten.com/tanker-opinion-april-28-2023-the-recovering-dragon/](https://www.poten.com/tanker-opinion-april-28-2023-the-recovering-dragon/)\n**Full PDF Report**: [Weekly Opinion - 28 April 2023 - The Recovering Dragon (Update).pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2028%20April%202023%20-%20The%20Recovering%20Dragon%20(Update).pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 28 April 2023 - The Recovering Dragon (Update).pdf.",
+      "keywords": [
+        "pdf",
+        "april",
+        "dragon",
+        "https",
+        "opinion",
+        "recovering",
+        "update",
+        "full"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon",
+      "parent_id": "poten_tankers_2023-04-28_poten_2023_04_28_the_recovering_dragon__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Recovering Dragon\nThe Recovering Dragon",
+      "keywords": [
+        "dragon",
+        "recovering"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

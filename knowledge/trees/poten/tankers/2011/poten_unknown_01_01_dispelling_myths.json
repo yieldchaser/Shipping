@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Dispelling Myths",
+  "section_path": [
+    "Poten Tanker Opinion: Dispelling Myths"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Dispelling Myths",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Dispelling Myths\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/dispelling-myths/](https://www.poten.com/dispelling-myths/)\n**Full PDF Report**: [Tanker_Opinion_20110415.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110415.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110415.pdf. Analysis & Overview\nDispelling Myths\nDispelling Myths",
+  "keywords": [
+    "dispelling",
+    "https",
+    "myths",
+    "full",
+    "pdf",
+    "www.poten.com/dispelling-myths",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 144,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_dispelling_myths.md",
+  "source_url": "https://www.poten.com/dispelling-myths/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths__s01_poten_tanker_opinion_dispelling_myths",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths__root",
+      "title": "Poten Tanker Opinion: Dispelling Myths",
+      "section_path": [
+        "Poten Tanker Opinion: Dispelling Myths"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Dispelling Myths",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/dispelling-myths/](https://www.poten.com/dispelling-myths/)\n**Full PDF Report**: [Tanker_Opinion_20110415.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110415.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110415.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/dispelling-myths",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_dispelling_myths__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "dispelling",
+        "myths"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

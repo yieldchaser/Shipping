@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review__root",
+  "doc_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Our 2025 Forecast Review",
+  "section_path": [
+    "Poten Tanker Opinion: Our 2025 Forecast Review"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Our 2025 Forecast Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Our 2025 Forecast Review\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-12-19\n**Source URL**: [https://www.poten.com/our-2025-forecast-review/](https://www.poten.com/our-2025-forecast-review/)\n**Full PDF Report**: [Weekly Opinion - 19 December 2025 - Our 2025 Forecast Review.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2019%20December%202025%20-%20Our%202025%20Forecast%20Review.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 19 December 2025 - Our 2025 Forecast Review.pdf.",
+  "keywords": [
+    "forecast",
+    "our",
+    "opinion",
+    "december",
+    "https",
+    "full",
+    "pdf",
+    "review",
+    "review.pdf",
+    "www.poten.com/our-2025-forecast-review",
+    "archived",
+    "authentic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 198,
+  "source_path": "reports/poten/2025/poten_2025-12-19_our_2025_forecast_review.md",
+  "source_url": "https://www.poten.com/our-2025-forecast-review/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review__s01_poten_tanker_opinion_our_2025_forecast_review",
+      "doc_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review",
+      "parent_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review__root",
+      "title": "Poten Tanker Opinion: Our 2025 Forecast Review",
+      "section_path": [
+        "Poten Tanker Opinion: Our 2025 Forecast Review"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Our 2025 Forecast Review",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-12-19\n**Source URL**: [https://www.poten.com/our-2025-forecast-review/](https://www.poten.com/our-2025-forecast-review/)\n**Full PDF Report**: [Weekly Opinion - 19 December 2025 - Our 2025 Forecast Review.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2019%20December%202025%20-%20Our%202025%20Forecast%20Review.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 19 December 2025 - Our 2025 Forecast Review.pdf.",
+      "keywords": [
+        "december",
+        "forecast",
+        "https",
+        "opinion",
+        "our",
+        "full",
+        "pdf",
+        "review.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review__s02_overview",
+      "doc_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review",
+      "parent_id": "poten_tankers_2025-12-19_poten_2025_12_19_our_2025_forecast_review__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "forecast",
+        "our",
+        "review"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

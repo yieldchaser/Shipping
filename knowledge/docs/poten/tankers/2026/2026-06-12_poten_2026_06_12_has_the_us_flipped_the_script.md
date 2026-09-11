@@ -86,6 +86,7 @@ Has The US Flipped The Script?
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-06-12
 **Source URL**: [https://www.poten.com/has-the-us-flipped-the-script/](https://www.poten.com/has-the-us-flipped-the-script/)
+**Full PDF Report**: [Weekly Opinion - 12 June 2026 - Has The U.S. Flipped The Script.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20June%202026%20-%20Has%20The%20U.S.%20Flipped%20The%20Script.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

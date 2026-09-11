@@ -1,0 +1,83 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Spot The Difference",
+  "section_path": [
+    "Poten Tanker Opinion: Spot The Difference"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Spot The Difference",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Spot The Difference\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/spot-the-difference/](https://www.poten.com/spot-the-difference/)\n**Full PDF Report**: [Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf](http://www.poten.com/wp-content/uploads/2018/01/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf. Analysis & Overview\nSpot The Difference\nSpot The Difference",
+  "keywords": [
+    "difference",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/spot-the-difference",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date",
+    "erik"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 164,
+  "source_path": "reports/poten/2018/poten_2018-01-01_spot_the_difference.md",
+  "source_url": "https://www.poten.com/spot-the-difference/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference__s01_poten_tanker_opinion_spot_the_difference",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference__root",
+      "title": "Poten Tanker Opinion: Spot The Difference",
+      "section_path": [
+        "Poten Tanker Opinion: Spot The Difference"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Spot The Difference",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/spot-the-difference/](https://www.poten.com/spot-the-difference/)\n**Full PDF Report**: [Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf](http://www.poten.com/wp-content/uploads/2018/01/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-January-5-2018-Spot-The-Difference.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/spot-the-difference",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_spot_the_difference__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Spot The Difference\nSpot The Difference",
+      "keywords": [
+        "difference"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

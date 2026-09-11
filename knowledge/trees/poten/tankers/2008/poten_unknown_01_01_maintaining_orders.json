@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Maintaining Orders",
+  "section_path": [
+    "Poten Tanker Opinion: Maintaining Orders"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Maintaining Orders",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Maintaining Orders\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/maintaining-orders/](https://www.poten.com/maintaining-orders/)\n**Full PDF Report**: [Tanker_Opinion_20081205.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20081205.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20081205.pdf. Analysis & Overview\nMaintaining Orders\nMaintaining Orders",
+  "keywords": [
+    "https",
+    "maintaining",
+    "orders",
+    "full",
+    "pdf",
+    "www.poten.com/maintaining-orders",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 139,
+  "source_path": "reports/poten/2008/poten_unknown-01-01_maintaining_orders.md",
+  "source_url": "https://www.poten.com/maintaining-orders/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders__s01_poten_tanker_opinion_maintaining_orders",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders__root",
+      "title": "Poten Tanker Opinion: Maintaining Orders",
+      "section_path": [
+        "Poten Tanker Opinion: Maintaining Orders"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Maintaining Orders",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/maintaining-orders/](https://www.poten.com/maintaining-orders/)\n**Full PDF Report**: [Tanker_Opinion_20081205.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20081205.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20081205.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/maintaining-orders",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_maintaining_orders__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "maintaining",
+        "orders"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

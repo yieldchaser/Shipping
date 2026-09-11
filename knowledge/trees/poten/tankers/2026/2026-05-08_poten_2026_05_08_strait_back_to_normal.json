@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 314,
+  "token_count": 396,
   "source_path": "reports/poten/2026/poten_2026-05-08_strait_back_to_normal.md",
   "source_url": "https://www.poten.com/strait-back-to-normal/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Strait Back To Normal",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-08\n**Source URL**: [https://www.poten.com/strait-back-to-normal/](https://www.poten.com/strait-back-to-normal/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-08\n**Source URL**: [https://www.poten.com/strait-back-to-normal/](https://www.poten.com/strait-back-to-normal/)\n**Full PDF Report**: [Weekly Opinion - 8 May 2026 - Strait Back To Normal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%208%20May%202026%20-%20Strait%20Back%20To%20Normal.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
-        "author",
-        "date",
         "https",
-        "published",
-        "summary",
-        "www.poten.com/strait-back-to-normal",
-        "analysis",
-        "archived"
+        "author",
+        "back",
+        "date",
+        "may",
+        "normal.pdf",
+        "opinion",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 91,
+      "token_count": 173,
       "section_type": null,
       "children": []
     },

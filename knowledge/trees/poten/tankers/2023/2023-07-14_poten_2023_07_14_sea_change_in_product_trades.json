@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades__root",
+  "doc_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Sea Change In Product Trades",
+  "section_path": [
+    "Poten Tanker Opinion: Sea Change In Product Trades"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Sea Change In Product Trades",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Sea Change In Product Trades\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-07-14\n**Source URL**: [https://www.poten.com/tanker-opinion-sea-change-in-product-trades-july-14-2023/](https://www.poten.com/tanker-opinion-sea-change-in-product-trades-july-14-2023/)\n**Full PDF Report**: [Weekly Opinion - 14 July 2023 - Sea Change In Product Trades.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20July%202023%20-%20Sea%20Change%20In%20Product%20Trades.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 14 July 2023 - Sea Change In Product Trades.pdf. Analysis & Overview\nSea Change In Product Trades\nSea Change In Product Trades",
+  "keywords": [
+    "change",
+    "product",
+    "sea",
+    "opinion",
+    "https",
+    "july",
+    "trades",
+    "full",
+    "pdf",
+    "trades.pdf",
+    "www.poten.com/tanker-opinion-sea-change-in-product-trades-july-14-2023",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 225,
+  "source_path": "reports/poten/2023/poten_2023-07-14_sea_change_in_product_trades.md",
+  "source_url": "https://www.poten.com/tanker-opinion-sea-change-in-product-trades-july-14-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades__s01_poten_tanker_opinion_sea_change_in_product_trades",
+      "doc_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades",
+      "parent_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades__root",
+      "title": "Poten Tanker Opinion: Sea Change In Product Trades",
+      "section_path": [
+        "Poten Tanker Opinion: Sea Change In Product Trades"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Sea Change In Product Trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-07-14\n**Source URL**: [https://www.poten.com/tanker-opinion-sea-change-in-product-trades-july-14-2023/](https://www.poten.com/tanker-opinion-sea-change-in-product-trades-july-14-2023/)\n**Full PDF Report**: [Weekly Opinion - 14 July 2023 - Sea Change In Product Trades.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20July%202023%20-%20Sea%20Change%20In%20Product%20Trades.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 14 July 2023 - Sea Change In Product Trades.pdf.",
+      "keywords": [
+        "change",
+        "https",
+        "july",
+        "opinion",
+        "product",
+        "sea",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades",
+      "parent_id": "poten_tankers_2023-07-14_poten_2023_07_14_sea_change_in_product_trades__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Sea Change In Product Trades\nSea Change In Product Trades",
+      "keywords": [
+        "change",
+        "product",
+        "sea",
+        "trades"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Venezuela's Struggle Continue",
+  "section_path": [
+    "Poten Tanker Opinion: Venezuela's Struggle Continue"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Venezuela's Struggle Continue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Venezuela's Struggle Continue\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/venezuelas-struggle-continue/](https://www.poten.com/venezuelas-struggle-continue/)\n**Full PDF Report**: [Weekly-Opinion-9-August-2019-Venezuelas-Struggles-Continue.pdf](http://www.poten.com/wp-content/uploads/2019/08/Weekly-Opinion-9-August-2019-Venezuelas-Struggles-Continue.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-9-August-2019-Venezuelas-Struggles-Continue.pdf. Analysis & Overview\nVenezuela's Struggle Continue\n9 Aug 2019:Â U.S. tightens sanctions against former regional powerhouse The reports of the imminent demise of the regime of Nicolas Maduro of Venezuela (like the death of Mark Twain in 1897) have been greatly exaggerated.",
+  "keywords": [
+    "venezuela",
+    "continue",
+    "full",
+    "https",
+    "maduro",
+    "pdf",
+    "regime",
+    "sanctions",
+    "struggle",
+    "www.poten.com/venezuelas-struggle-continue",
+    "against",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 269,
+  "source_path": "reports/poten/2019/poten_2019-01-01_venezuela_s_struggle_continue.md",
+  "source_url": "https://www.poten.com/venezuelas-struggle-continue/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue__s01_poten_tanker_opinion_venezuela_s_struggle_continue",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue__root",
+      "title": "Poten Tanker Opinion: Venezuela's Struggle Continue",
+      "section_path": [
+        "Poten Tanker Opinion: Venezuela's Struggle Continue"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Venezuela's Struggle Continue",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/venezuelas-struggle-continue/](https://www.poten.com/venezuelas-struggle-continue/)\n**Full PDF Report**: [Weekly-Opinion-9-August-2019-Venezuelas-Struggles-Continue.pdf](http://www.poten.com/wp-content/uploads/2019/08/Weekly-Opinion-9-August-2019-Venezuelas-Struggles-Continue.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-9-August-2019-Venezuelas-Struggles-Continue.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/venezuelas-struggle-continue",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_venezuela_s_struggle_continue__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Venezuela's Struggle Continue\n9 Aug 2019:Â U.S. tightens sanctions against former regional powerhouse The reports of the imminent demise of the regime of Nicolas Maduro of Venezuela (like the death of Mark Twain in 1897) have been greatly exaggerated.",
+      "keywords": [
+        "venezuela",
+        "maduro",
+        "regime",
+        "sanctions",
+        "against",
+        "aug",
+        "citing...",
+        "civilian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

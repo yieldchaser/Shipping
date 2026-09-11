@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Large Tankers Are Cleaning Up Their Act",
+  "section_path": [
+    "Poten Tanker Opinion: Large Tankers Are Cleaning Up Their Act"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Large Tankers Are Cleaning Up Their Act",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Large Tankers Are Cleaning Up Their Act\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/large-tankers-cleaning-act/](https://www.poten.com/large-tankers-cleaning-act/)\n**Full PDF Report**: [Weekly-Opinion-23-February-2017-Large-Tankers-Are-Cleaning-Up-Their-Act.pdf](http://www.poten.com/wp-content/uploads/2017/02/Weekly-Opinion-23-February-2017-Large-Tankers-Are-Cleaning-Up-Their-Act.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-23-February-2017-Large-Tankers-Are-Cleaning-Up-Their-Act.pdf. Analysis & Overview\nLarge Tankers Are Cleaning Up Their Act\n23 Feb 2017:Â Long Range 1 (LR1) and Long Range 2 (LR2) product carriers are the coated version of their crude oil relatives Panamaxes and Aframaxes.Â Although these large product carriers have been around for a long time, it is only in the last 10 &#8211; 15 years that they have become a significant factor...",
+  "keywords": [
+    "panamax",
+    "aframax",
+    "crude_oil",
+    "are",
+    "large",
+    "long",
+    "act",
+    "carriers",
+    "cleaning",
+    "full",
+    "https",
+    "pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 290,
+  "source_path": "reports/poten/2017/poten_2017-01-01_large_tankers_are_cleaning_up_their_act.md",
+  "source_url": "https://www.poten.com/large-tankers-cleaning-act/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act__s01_poten_tanker_opinion_large_tankers_are_cleaning_up_their_act",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act__root",
+      "title": "Poten Tanker Opinion: Large Tankers Are Cleaning Up Their Act",
+      "section_path": [
+        "Poten Tanker Opinion: Large Tankers Are Cleaning Up Their Act"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Large Tankers Are Cleaning Up Their Act",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/large-tankers-cleaning-act/](https://www.poten.com/large-tankers-cleaning-act/)\n**Full PDF Report**: [Weekly-Opinion-23-February-2017-Large-Tankers-Are-Cleaning-Up-Their-Act.pdf](http://www.poten.com/wp-content/uploads/2017/02/Weekly-Opinion-23-February-2017-Large-Tankers-Are-Cleaning-Up-Their-Act.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-23-February-2017-Large-Tankers-Are-Cleaning-Up-Their-Act.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/large-tankers-cleaning-act",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_large_tankers_are_cleaning_up_their_act__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Large Tankers Are Cleaning Up Their Act\n23 Feb 2017:Â Long Range 1 (LR1) and Long Range 2 (LR2) product carriers are the coated version of their crude oil relatives Panamaxes and Aframaxes.Â Although these large product carriers have been around for a long time, it is only in the last 10 &#8211; 15 years that they have become a significant factor...",
+      "keywords": [
+        "panamax",
+        "aframax",
+        "crude_oil",
+        "long",
+        "are",
+        "carriers",
+        "large",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

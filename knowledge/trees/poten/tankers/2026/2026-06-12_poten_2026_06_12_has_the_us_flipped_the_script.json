@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 327,
+  "token_count": 422,
   "source_path": "reports/poten/2026/poten_2026-06-12_has_the_us_flipped_the_script.md",
   "source_url": "https://www.poten.com/has-the-us-flipped-the-script/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Has The US Flipped The Script?",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-06-12\n**Source URL**: [https://www.poten.com/has-the-us-flipped-the-script/](https://www.poten.com/has-the-us-flipped-the-script/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-06-12\n**Source URL**: [https://www.poten.com/has-the-us-flipped-the-script/](https://www.poten.com/has-the-us-flipped-the-script/)\n**Full PDF Report**: [Weekly Opinion - 12 June 2026 - Has The U.S. Flipped The Script.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2012%20June%202026%20-%20Has%20The%20U.S.%20Flipped%20The%20Script.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst).",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
+        "flipped",
+        "june",
+        "opinion",
         "published",
-        "summary",
-        "www.poten.com/has-the-us-flipped-the-script",
-        "analysis",
-        "archived"
+        "script.pdf"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 95,
+      "token_count": 190,
       "section_type": null,
       "children": []
     },

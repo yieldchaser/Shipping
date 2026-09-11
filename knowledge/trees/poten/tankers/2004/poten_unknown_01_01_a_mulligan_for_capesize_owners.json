@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Mulligan for Capesize Owners",
+  "section_path": [
+    "Poten Tanker Opinion: A Mulligan for Capesize Owners"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Mulligan for Capesize Owners",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Mulligan for Capesize Owners\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-mulligan-for-capesize-owners-2/](https://www.poten.com/a-mulligan-for-capesize-owners-2/)\n**Full PDF Report**: [A-Mulligan-for-Capesize-Owners.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/01/A-Mulligan-for-Capesize-Owners.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/A-Mulligan-for-Capesize-Owners.pdf. Analysis & Overview\nA Mulligan for Capesize Owners\n23 Jan 2015: While the tanker market has gone from strength to strength on the back of sharply lower oil prices and moderate fleet expansion, the dry cargo market, in general, and capesize bulk carriers, in particular, are in the doldrums. The dry bulk orderbook for 2015 and 2016 delivery remains high, in particular for...",
+  "keywords": [
+    "capesize",
+    "crude_oil",
+    "https",
+    "full",
+    "mulligan",
+    "owners",
+    "particular",
+    "pdf",
+    "strength",
+    "www.poten.com/a-mulligan-for-capesize-owners-2",
+    "a-mulligan-for-capesize-owners.pdf",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_a_mulligan_for_capesize_owners.md",
+  "source_url": "https://www.poten.com/a-mulligan-for-capesize-owners-2/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners__s01_poten_tanker_opinion_a_mulligan_for_capesize_owners",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners__root",
+      "title": "Poten Tanker Opinion: A Mulligan for Capesize Owners",
+      "section_path": [
+        "Poten Tanker Opinion: A Mulligan for Capesize Owners"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Mulligan for Capesize Owners",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-mulligan-for-capesize-owners-2/](https://www.poten.com/a-mulligan-for-capesize-owners-2/)\n**Full PDF Report**: [A-Mulligan-for-Capesize-Owners.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/01/A-Mulligan-for-Capesize-Owners.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/A-Mulligan-for-Capesize-Owners.pdf.",
+      "keywords": [
+        "capesize",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/a-mulligan-for-capesize-owners-2",
+        "a-mulligan-for-capesize-owners.pdf",
+        "archived",
+        "author"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_mulligan_for_capesize_owners__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Mulligan for Capesize Owners\n23 Jan 2015: While the tanker market has gone from strength to strength on the back of sharply lower oil prices and moderate fleet expansion, the dry cargo market, in general, and capesize bulk carriers, in particular, are in the doldrums. The dry bulk orderbook for 2015 and 2016 delivery remains high, in particular for...",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "particular",
+        "strength",
+        "are",
+        "back",
+        "cargo",
+        "carriers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 89,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Rising Oil Market Uncertainty Surrounds Tanker Market",
+  "section_path": [
+    "Poten Tanker Opinion: Rising Oil Market Uncertainty Surrounds Tanker Market"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Rising Oil Market Uncertainty Surrounds Tanker Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Rising Oil Market Uncertainty Surrounds Tanker Market\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/rising-oil-market-uncertainty-surrounds-tanker-market/](https://www.poten.com/rising-oil-market-uncertainty-surrounds-tanker-market/)\n**Full PDF Report**: [Tanker_Opinion_20120914.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120914.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120914.pdf. Analysis & Overview\nRising Oil Market Uncertainty Surrounds Tanker Market\nRising Oil Market Uncertainty Surrounds Tanker Market",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "oil",
+    "rising",
+    "surrounds",
+    "uncertainty",
+    "full",
+    "pdf",
+    "www.poten.com/rising-oil-market-uncertainty-surrounds-tanker-market",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 182,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_rising_oil_market_uncertainty_surrounds_tanker_market.md",
+  "source_url": "https://www.poten.com/rising-oil-market-uncertainty-surrounds-tanker-market/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market__s01_poten_tanker_opinion_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Poten Tanker Opinion: Rising Oil Market Uncertainty Surrounds Tanker Market",
+      "section_path": [
+        "Poten Tanker Opinion: Rising Oil Market Uncertainty Surrounds Tanker Market"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Rising Oil Market Uncertainty Surrounds Tanker Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/rising-oil-market-uncertainty-surrounds-tanker-market/](https://www.poten.com/rising-oil-market-uncertainty-surrounds-tanker-market/)\n**Full PDF Report**: [Tanker_Opinion_20120914.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120914.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120914.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/rising-oil-market-uncertainty-surrounds-tanker-market",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_rising_oil_market_uncertainty_surrounds_tanker_market__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Rising Oil Market Uncertainty Surrounds Tanker Market\nRising Oil Market Uncertainty Surrounds Tanker Market",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "rising",
+        "surrounds",
+        "uncertainty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

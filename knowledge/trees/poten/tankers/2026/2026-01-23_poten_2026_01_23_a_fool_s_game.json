@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 259,
+  "token_count": 339,
   "source_path": "reports/poten/2026/poten_2026-01-23_a_fool_s_game.md",
   "source_url": "https://www.poten.com/a-fools-game/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: A Fool's Game?",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Raza Zoya\n**Published Date**: 2026-01-23\n**Source URL**: [https://www.poten.com/a-fools-game/](https://www.poten.com/a-fools-game/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Raza Zoya\n**Published Date**: 2026-01-23\n**Source URL**: [https://www.poten.com/a-fools-game/](https://www.poten.com/a-fools-game/)\n**Full PDF Report**: [Weekly Opinion - 23 January 2026 - A Fools Game.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2023%20January%202026%20-%20A%20Fools%20Game.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
-        "published",
-        "summary",
-        "www.poten.com/a-fools-game",
-        "analysis",
-        "archived"
+        "fools",
+        "game.pdf",
+        "january",
+        "opinion",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 88,
+      "token_count": 168,
       "section_type": null,
       "children": []
     },

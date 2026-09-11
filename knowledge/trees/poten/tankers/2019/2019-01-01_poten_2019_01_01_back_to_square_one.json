@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Back to Square One",
+  "section_path": [
+    "Poten Tanker Opinion: Back to Square One"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Back to Square One",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Back to Square One\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/back-to-square-one/](https://www.poten.com/back-to-square-one/)\n**Full PDF Report**: [Weekly-Opinion-10-May-2019-Back-to-Square-One.pdf](http://www.poten.com/wp-content/uploads/2019/05/Weekly-Opinion-10-May-2019-Back-to-Square-One.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-10-May-2019-Back-to-Square-One.pdf. Analysis & Overview\nBack to Square One\n10 May 2019:Â After the tanker freight market recovered in the fourth quarter of 2018, most analysts (including ourselves) expected that the beginning of 2019 would show better earnings than the comparable period of last year.Â Unfortunately, that has not been the case.Â While the start of the year was encouraging, following a strong 4th quarter...",
+  "keywords": [
+    "back",
+    "full",
+    "https",
+    "one",
+    "pdf",
+    "square",
+    "www.poten.com/back-to-square-one",
+    "after",
+    "analysis",
+    "analysts",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 244,
+  "source_path": "reports/poten/2019/poten_2019-01-01_back_to_square_one.md",
+  "source_url": "https://www.poten.com/back-to-square-one/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one__s01_poten_tanker_opinion_back_to_square_one",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one__root",
+      "title": "Poten Tanker Opinion: Back to Square One",
+      "section_path": [
+        "Poten Tanker Opinion: Back to Square One"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Back to Square One",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/back-to-square-one/](https://www.poten.com/back-to-square-one/)\n**Full PDF Report**: [Weekly-Opinion-10-May-2019-Back-to-Square-One.pdf](http://www.poten.com/wp-content/uploads/2019/05/Weekly-Opinion-10-May-2019-Back-to-Square-One.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-10-May-2019-Back-to-Square-One.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/back-to-square-one",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_back_to_square_one__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Back to Square One\n10 May 2019:Â After the tanker freight market recovered in the fourth quarter of 2018, most analysts (including ourselves) expected that the beginning of 2019 would show better earnings than the comparable period of last year.Â Unfortunately, that has not been the case.Â While the start of the year was encouraging, following a strong 4th quarter...",
+      "keywords": [
+        "after",
+        "analysts",
+        "back",
+        "beginning",
+        "better",
+        "case.",
+        "comparable",
+        "earnings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

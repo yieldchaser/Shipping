@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas__root",
+  "doc_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Is Oil Running Out Of Gas",
+  "section_path": [
+    "Poten Tanker Opinion: Is Oil Running Out Of Gas"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Is Oil Running Out Of Gas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Is Oil Running Out Of Gas\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-06-14\n**Source URL**: [https://www.poten.com/is-oil-running-out-of-gas/](https://www.poten.com/is-oil-running-out-of-gas/)\n**Full PDF Report**: [Weekly Opinion - 14 June 2024 - Is Oil Running Out Of Gas.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20June%202024%20-%20Is%20Oil%20Running%20Out%20Of%20Gas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 14 June 2024 - Is Oil Running Out Of Gas.pdf. Analysis & Overview\nIs Oil Running Out Of Gas\nIs Oil Running Out Of Gas",
+  "keywords": [
+    "crude_oil",
+    "gas",
+    "oil",
+    "out",
+    "running",
+    "opinion",
+    "https",
+    "june",
+    "full",
+    "gas.pdf",
+    "pdf",
+    "www.poten.com/is-oil-running-out-of-gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 212,
+  "source_path": "reports/poten/2024/poten_2024-06-14_is_oil_running_out_of_gas.md",
+  "source_url": "https://www.poten.com/is-oil-running-out-of-gas/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas__s01_poten_tanker_opinion_is_oil_running_out_of_gas",
+      "doc_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas",
+      "parent_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas__root",
+      "title": "Poten Tanker Opinion: Is Oil Running Out Of Gas",
+      "section_path": [
+        "Poten Tanker Opinion: Is Oil Running Out Of Gas"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Is Oil Running Out Of Gas",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-06-14\n**Source URL**: [https://www.poten.com/is-oil-running-out-of-gas/](https://www.poten.com/is-oil-running-out-of-gas/)\n**Full PDF Report**: [Weekly Opinion - 14 June 2024 - Is Oil Running Out Of Gas.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20June%202024%20-%20Is%20Oil%20Running%20Out%20Of%20Gas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 14 June 2024 - Is Oil Running Out Of Gas.pdf.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "https",
+        "june",
+        "oil",
+        "opinion",
+        "out",
+        "running"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas",
+      "parent_id": "poten_tankers_2024-06-14_poten_2024_06_14_is_oil_running_out_of_gas__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Is Oil Running Out Of Gas\nIs Oil Running Out Of Gas",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "oil",
+        "out",
+        "running"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

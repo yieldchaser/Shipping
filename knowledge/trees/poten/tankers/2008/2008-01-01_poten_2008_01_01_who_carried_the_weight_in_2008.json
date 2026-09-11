@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008__root",
+  "doc_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Who Carried the Weight in 2008",
+  "section_path": [
+    "Poten Tanker Opinion: Who Carried the Weight in 2008"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Who Carried the Weight in 2008",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Who Carried the Weight in 2008\n**Author**: Erik Broekhuizen\n**Published Date**: 2008-01-01\n**Source URL**: [https://www.poten.com/who-carried-the-weight-in-2008/](https://www.poten.com/who-carried-the-weight-in-2008/)\n**Full PDF Report**: [Tanker_Opinion_20090102.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090102.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2008/Tanker_Opinion_20090102.pdf. Analysis & Overview\nWho Carried the Weight in 2008\nWho Carried the Weight in 2008",
+  "keywords": [
+    "carried",
+    "https",
+    "weight",
+    "who",
+    "full",
+    "pdf",
+    "www.poten.com/who-carried-the-weight-in-2008",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 172,
+  "source_path": "reports/poten/2009/poten_2008-01-01_who_carried_the_weight_in_2008.md",
+  "source_url": "https://www.poten.com/who-carried-the-weight-in-2008/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008__s01_poten_tanker_opinion_who_carried_the_weight_in_2008",
+      "doc_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008__root",
+      "title": "Poten Tanker Opinion: Who Carried the Weight in 2008",
+      "section_path": [
+        "Poten Tanker Opinion: Who Carried the Weight in 2008"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Who Carried the Weight in 2008",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2008-01-01\n**Source URL**: [https://www.poten.com/who-carried-the-weight-in-2008/](https://www.poten.com/who-carried-the-weight-in-2008/)\n**Full PDF Report**: [Tanker_Opinion_20090102.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090102.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2008/Tanker_Opinion_20090102.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/who-carried-the-weight-in-2008",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008__s02_analysis_overview",
+      "doc_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008",
+      "parent_id": "poten_tankers_2008-01-01_poten_2008_01_01_who_carried_the_weight_in_2008__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Who Carried the Weight in 2008\nWho Carried the Weight in 2008",
+      "keywords": [
+        "carried",
+        "weight",
+        "who"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

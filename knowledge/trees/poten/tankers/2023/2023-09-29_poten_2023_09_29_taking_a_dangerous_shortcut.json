@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut__root",
+  "doc_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Taking a Dangerous Shortcut",
+  "section_path": [
+    "Poten Tanker Opinion: Taking a Dangerous Shortcut"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Taking a Dangerous Shortcut",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Taking a Dangerous Shortcut\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-09-29\n**Source URL**: [https://www.poten.com/tanker-opinion-taking-a-dangerous-shortcut-september-29-2023/](https://www.poten.com/tanker-opinion-taking-a-dangerous-shortcut-september-29-2023/)\n**Full PDF Report**: [Weekly Opinion - 29 Sep 2023 - Taking A Dangerous Shortcut.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2029%20Sep%202023%20-%20Taking%20A%20Dangerous%20Shortcut.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 29 Sep 2023 - Taking A Dangerous Shortcut.pdf. Analysis & Overview\nTaking a Dangerous Shortcut\nTaking a Dangerous Shortcut",
+  "keywords": [
+    "dangerous",
+    "taking",
+    "opinion",
+    "https",
+    "sep",
+    "shortcut",
+    "full",
+    "pdf",
+    "shortcut.pdf",
+    "www.poten.com/tanker-opinion-taking-a-dangerous-shortcut-september-29-2023",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 217,
+  "source_path": "reports/poten/2023/poten_2023-09-29_taking_a_dangerous_shortcut.md",
+  "source_url": "https://www.poten.com/tanker-opinion-taking-a-dangerous-shortcut-september-29-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut__s01_poten_tanker_opinion_taking_a_dangerous_shortcut",
+      "doc_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut",
+      "parent_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut__root",
+      "title": "Poten Tanker Opinion: Taking a Dangerous Shortcut",
+      "section_path": [
+        "Poten Tanker Opinion: Taking a Dangerous Shortcut"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Taking a Dangerous Shortcut",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-09-29\n**Source URL**: [https://www.poten.com/tanker-opinion-taking-a-dangerous-shortcut-september-29-2023/](https://www.poten.com/tanker-opinion-taking-a-dangerous-shortcut-september-29-2023/)\n**Full PDF Report**: [Weekly Opinion - 29 Sep 2023 - Taking A Dangerous Shortcut.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2029%20Sep%202023%20-%20Taking%20A%20Dangerous%20Shortcut.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 29 Sep 2023 - Taking A Dangerous Shortcut.pdf.",
+      "keywords": [
+        "dangerous",
+        "https",
+        "opinion",
+        "sep",
+        "taking",
+        "full",
+        "pdf",
+        "shortcut.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut",
+      "parent_id": "poten_tankers_2023-09-29_poten_2023_09_29_taking_a_dangerous_shortcut__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Taking a Dangerous Shortcut\nTaking a Dangerous Shortcut",
+      "keywords": [
+        "dangerous",
+        "shortcut",
+        "taking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

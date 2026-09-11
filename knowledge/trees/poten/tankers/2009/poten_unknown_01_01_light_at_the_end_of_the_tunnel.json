@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Light At the End of the Tunnel",
+  "section_path": [
+    "Poten Tanker Opinion: Light At the End of the Tunnel"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Light At the End of the Tunnel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Light At the End of the Tunnel\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/light-at-the-end-of-the-tunnel/](https://www.poten.com/light-at-the-end-of-the-tunnel/)\n**Full PDF Report**: [Tanker_Opinion_20090417.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090417.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20090417.pdf. Analysis & Overview\nLight At the End of the Tunnel\nLight At the End of the Tunnel",
+  "keywords": [
+    "end",
+    "https",
+    "light",
+    "tunnel",
+    "full",
+    "pdf",
+    "www.poten.com/light-at-the-end-of-the-tunnel",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 159,
+  "source_path": "reports/poten/2009/poten_unknown-01-01_light_at_the_end_of_the_tunnel.md",
+  "source_url": "https://www.poten.com/light-at-the-end-of-the-tunnel/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel__s01_poten_tanker_opinion_light_at_the_end_of_the_tunnel",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel__root",
+      "title": "Poten Tanker Opinion: Light At the End of the Tunnel",
+      "section_path": [
+        "Poten Tanker Opinion: Light At the End of the Tunnel"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Light At the End of the Tunnel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/light-at-the-end-of-the-tunnel/](https://www.poten.com/light-at-the-end-of-the-tunnel/)\n**Full PDF Report**: [Tanker_Opinion_20090417.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090417.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20090417.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/light-at-the-end-of-the-tunnel",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_light_at_the_end_of_the_tunnel__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Light At the End of the Tunnel\nLight At the End of the Tunnel",
+      "keywords": [
+        "end",
+        "light",
+        "tunnel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

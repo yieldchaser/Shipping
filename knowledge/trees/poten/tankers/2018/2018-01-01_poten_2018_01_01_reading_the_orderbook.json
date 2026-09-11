@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Reading The Orderbook",
+  "section_path": [
+    "Poten Tanker Opinion: Reading The Orderbook"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Reading The Orderbook",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Reading The Orderbook\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/reading-the-orderbook/](https://www.poten.com/reading-the-orderbook/)\n**Full PDF Report**: [Weekly-Opinion-27-Apr-2018-Reading-The-Orderbook.pdf](http://www.poten.com/wp-content/uploads/2018/04/Weekly-Opinion-27-Apr-2018-Reading-The-Orderbook.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-27-Apr-2018-Reading-The-Orderbook.pdf. Analysis & Overview\nReading The Orderbook\nReading The Orderbook",
+  "keywords": [
+    "orderbook",
+    "reading",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/reading-the-orderbook",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 167,
+  "source_path": "reports/poten/2018/poten_2018-01-01_reading_the_orderbook.md",
+  "source_url": "https://www.poten.com/reading-the-orderbook/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook__s01_poten_tanker_opinion_reading_the_orderbook",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook__root",
+      "title": "Poten Tanker Opinion: Reading The Orderbook",
+      "section_path": [
+        "Poten Tanker Opinion: Reading The Orderbook"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Reading The Orderbook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/reading-the-orderbook/](https://www.poten.com/reading-the-orderbook/)\n**Full PDF Report**: [Weekly-Opinion-27-Apr-2018-Reading-The-Orderbook.pdf](http://www.poten.com/wp-content/uploads/2018/04/Weekly-Opinion-27-Apr-2018-Reading-The-Orderbook.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-27-Apr-2018-Reading-The-Orderbook.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/reading-the-orderbook",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_reading_the_orderbook__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Reading The Orderbook\nReading The Orderbook",
+      "keywords": [
+        "orderbook",
+        "reading"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

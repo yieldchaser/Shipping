@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Reading the Tea Leaves",
+  "section_path": [
+    "Poten Tanker Opinion: Reading the Tea Leaves"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Reading the Tea Leaves",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Reading the Tea Leaves\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/reading-the-tea-leaves/](https://www.poten.com/reading-the-tea-leaves/)\n**Full PDF Report**: [Weekly-Opinion-October-23-2015-Reading-The-Tea-Leaves.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/10/Weekly-Opinion-October-23-2015-Reading-The-Tea-Leaves.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-October-23-2015-Reading-The-Tea-Leaves.pdf. Analysis & Overview\nReading the Tea Leaves\n23 Oct 2015: Another round of oil demand growth projections.Â This is the time of the year that most investment banks as well as the various international oil and energy organizations, such as the International Energy Agency (IEA), the Energy Information Administration (EIA) and the Organization of the Petroleum Exporting Countries (OPEC), go on record with...",
+  "keywords": [
+    "crude_oil",
+    "energy",
+    "https",
+    "full",
+    "international",
+    "leaves",
+    "oil",
+    "pdf",
+    "reading",
+    "tea",
+    "www.poten.com/reading-the-tea-leaves",
+    "administration"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 257,
+  "source_path": "reports/poten/2015/poten_2015-01-01_reading_the_tea_leaves.md",
+  "source_url": "https://www.poten.com/reading-the-tea-leaves/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves__s01_poten_tanker_opinion_reading_the_tea_leaves",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves__root",
+      "title": "Poten Tanker Opinion: Reading the Tea Leaves",
+      "section_path": [
+        "Poten Tanker Opinion: Reading the Tea Leaves"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Reading the Tea Leaves",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/reading-the-tea-leaves/](https://www.poten.com/reading-the-tea-leaves/)\n**Full PDF Report**: [Weekly-Opinion-October-23-2015-Reading-The-Tea-Leaves.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/10/Weekly-Opinion-October-23-2015-Reading-The-Tea-Leaves.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-October-23-2015-Reading-The-Tea-Leaves.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/reading-the-tea-leaves",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_reading_the_tea_leaves__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Reading the Tea Leaves\n23 Oct 2015: Another round of oil demand growth projections.Â This is the time of the year that most investment banks as well as the various international oil and energy organizations, such as the International Energy Agency (IEA), the Energy Information Administration (EIA) and the Organization of the Petroleum Exporting Countries (OPEC), go on record with...",
+      "keywords": [
+        "crude_oil",
+        "energy",
+        "international",
+        "oil",
+        "administration",
+        "agency",
+        "another",
+        "banks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

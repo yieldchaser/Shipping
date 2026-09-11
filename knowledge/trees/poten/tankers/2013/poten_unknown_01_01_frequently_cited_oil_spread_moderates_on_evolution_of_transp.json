@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Frequently Cited Oil Spread Moderates on Evolution of Transportation Options",
+  "section_path": [
+    "Poten Tanker Opinion: Frequently Cited Oil Spread Moderates on Evolution of Transportation Options"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Frequently Cited Oil Spread Moderates on Evolution of Transportation Options",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Frequently Cited Oil Spread Moderates on Evolution of Transportation Options\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/frequently-cited-oil-spread-moderates-on-evolution-of-transportation-options/](https://www.poten.com/frequently-cited-oil-spread-moderates-on-evolution-of-transportation-options/)\n**Full PDF Report**: [Tanker_Opinion_20130510.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130510.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130510.pdf. Analysis & Overview\nFrequently Cited Oil Spread Moderates on Evolution of Transportation Options\nFrequently Cited Oil Spread Moderates on Evolution of Transportation Options",
+  "keywords": [
+    "crude_oil",
+    "cited",
+    "evolution",
+    "frequently",
+    "https",
+    "moderates",
+    "oil",
+    "options",
+    "spread",
+    "transportation",
+    "full",
+    "pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 198,
+  "source_path": "reports/poten/2013/poten_unknown-01-01_frequently_cited_oil_spread_moderates_on_evolution_of_transp.md",
+  "source_url": "https://www.poten.com/frequently-cited-oil-spread-moderates-on-evolution-of-transportation-options/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp__s01_poten_tanker_opinion_frequently_cited_oil_spread_moderates_on_evolution_of_transportation_options",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp__root",
+      "title": "Poten Tanker Opinion: Frequently Cited Oil Spread Moderates on Evolution of Transportation Options",
+      "section_path": [
+        "Poten Tanker Opinion: Frequently Cited Oil Spread Moderates on Evolution of Transportation Options"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Frequently Cited Oil Spread Moderates on Evolution of Transportation Options",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/frequently-cited-oil-spread-moderates-on-evolution-of-transportation-options/](https://www.poten.com/frequently-cited-oil-spread-moderates-on-evolution-of-transportation-options/)\n**Full PDF Report**: [Tanker_Opinion_20130510.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20130510.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20130510.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/frequently-cited-oil-spread-moderates-on-evolution-of-transportation-options",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_frequently_cited_oil_spread_moderates_on_evolution_of_transp__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Frequently Cited Oil Spread Moderates on Evolution of Transportation Options\nFrequently Cited Oil Spread Moderates on Evolution of Transportation Options",
+      "keywords": [
+        "crude_oil",
+        "cited",
+        "evolution",
+        "frequently",
+        "moderates",
+        "oil",
+        "options",
+        "spread"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

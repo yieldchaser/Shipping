@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Darkest Before Dawn",
+  "section_path": [
+    "Poten Tanker Opinion: Darkest Before Dawn"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Darkest Before Dawn",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Darkest Before Dawn\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/darkest-before-dawn/](https://www.poten.com/darkest-before-dawn/)\n**Full PDF Report**: [Weekly-Opinion-16-Feb-2018-Darkest-Before-Dawn.pdf](http://www.poten.com/wp-content/uploads/2018/02/Weekly-Opinion-16-Feb-2018-Darkest-Before-Dawn.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-16-Feb-2018-Darkest-Before-Dawn.pdf. Analysis & Overview\nDarkest Before Dawn\n16 Feb 2018:Â The tanker market of the end of 2017 and the beginning of 2018 will probably be remembered as one of the worst in recent history. The fact that the tanker market of the 1980s was much worse (and probably lasted longer) is of little consolation to shipowners experiencing earnings that regularly do not...",
+  "keywords": [
+    "before",
+    "darkest",
+    "dawn",
+    "full",
+    "https",
+    "pdf",
+    "probably",
+    "www.poten.com/darkest-before-dawn",
+    "analysis",
+    "archived",
+    "author",
+    "beginning"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2018/poten_2018-01-01_darkest_before_dawn.md",
+  "source_url": "https://www.poten.com/darkest-before-dawn/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn__s01_poten_tanker_opinion_darkest_before_dawn",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn__root",
+      "title": "Poten Tanker Opinion: Darkest Before Dawn",
+      "section_path": [
+        "Poten Tanker Opinion: Darkest Before Dawn"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Darkest Before Dawn",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/darkest-before-dawn/](https://www.poten.com/darkest-before-dawn/)\n**Full PDF Report**: [Weekly-Opinion-16-Feb-2018-Darkest-Before-Dawn.pdf](http://www.poten.com/wp-content/uploads/2018/02/Weekly-Opinion-16-Feb-2018-Darkest-Before-Dawn.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-16-Feb-2018-Darkest-Before-Dawn.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/darkest-before-dawn",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_darkest_before_dawn__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Darkest Before Dawn\n16 Feb 2018:Â The tanker market of the end of 2017 and the beginning of 2018 will probably be remembered as one of the worst in recent history. The fact that the tanker market of the 1980s was much worse (and probably lasted longer) is of little consolation to shipowners experiencing earnings that regularly do not...",
+      "keywords": [
+        "probably",
+        "before",
+        "beginning",
+        "consolation",
+        "darkest",
+        "dawn",
+        "earnings",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

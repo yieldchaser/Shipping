@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down__root",
+  "doc_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Going, Going…. Down",
+  "section_path": [
+    "Poten Tanker Opinion: Going, Going…. Down"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Going, Going…. Down",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Down\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-march-24-2023-going-going-down/](https://www.poten.com/tanker-opinion-march-24-2023-going-going-down/)\n**Full PDF Report**: [Weekly-Opinion-24-March-2023-Going-Going-Down.pdf](https://www.poten.com/wp-content/uploads/2023/03/Weekly-Opinion-24-March-2023-Going-Going-Down.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly-Opinion-24-March-2023-Going-Going-Down.pdf.",
+  "keywords": [
+    "going",
+    "down",
+    "https",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-march-24-2023-going-going-down",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 191,
+  "source_path": "reports/poten/2023/poten_2023-01-01_going_going_down.md",
+  "source_url": "https://www.poten.com/tanker-opinion-march-24-2023-going-going-down/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down__s01_poten_tanker_opinion_going_going_down",
+      "doc_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down",
+      "parent_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down__root",
+      "title": "Poten Tanker Opinion: Going, Going…. Down",
+      "section_path": [
+        "Poten Tanker Opinion: Going, Going…. Down"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Going, Going…. Down",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-march-24-2023-going-going-down/](https://www.poten.com/tanker-opinion-march-24-2023-going-going-down/)\n**Full PDF Report**: [Weekly-Opinion-24-March-2023-Going-Going-Down.pdf](https://www.poten.com/wp-content/uploads/2023/03/Weekly-Opinion-24-March-2023-Going-Going-Down.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly-Opinion-24-March-2023-Going-Going-Down.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-march-24-2023-going-going-down",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down",
+      "parent_id": "poten_tankers_2023-01-01_poten_2023_01_01_going_going_down__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "going",
+        "down"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

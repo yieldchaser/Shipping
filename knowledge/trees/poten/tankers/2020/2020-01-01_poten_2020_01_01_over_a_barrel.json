@@ -1,0 +1,83 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Over A Barrel",
+  "section_path": [
+    "Poten Tanker Opinion: Over A Barrel"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Over A Barrel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Over A Barrel\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/over-a-barrel/](https://www.poten.com/over-a-barrel/)\n**Full PDF Report**: [Weekly-Opinion-19-June-2020-Over-A-Barrel.pdf](http://www.poten.com/wp-content/uploads/2020/06/Weekly-Opinion-19-June-2020-Over-A-Barrel.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-19-June-2020-Over-A-Barrel.pdf. Analysis & Overview\nOver A Barrel\nOver A Barrel",
+  "keywords": [
+    "barrel",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/over-a-barrel",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date",
+    "erik"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 164,
+  "source_path": "reports/poten/2020/poten_2020-01-01_over_a_barrel.md",
+  "source_url": "https://www.poten.com/over-a-barrel/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel__s01_poten_tanker_opinion_over_a_barrel",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel__root",
+      "title": "Poten Tanker Opinion: Over A Barrel",
+      "section_path": [
+        "Poten Tanker Opinion: Over A Barrel"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Over A Barrel",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/over-a-barrel/](https://www.poten.com/over-a-barrel/)\n**Full PDF Report**: [Weekly-Opinion-19-June-2020-Over-A-Barrel.pdf](http://www.poten.com/wp-content/uploads/2020/06/Weekly-Opinion-19-June-2020-Over-A-Barrel.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-19-June-2020-Over-A-Barrel.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/over-a-barrel",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_over_a_barrel__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Over A Barrel\nOver A Barrel",
+      "keywords": [
+        "barrel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

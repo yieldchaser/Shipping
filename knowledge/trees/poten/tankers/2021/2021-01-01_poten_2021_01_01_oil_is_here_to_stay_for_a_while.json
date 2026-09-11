@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Oil Is Here To Stay â€\" For A While",
+  "section_path": [
+    "Poten Tanker Opinion: Oil Is Here To Stay â€\" For A While"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Oil Is Here To Stay â€\" For A While",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Oil Is Here To Stay â€\" For A While\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-october-1-2021-oil-is-here-to-stay-for-a-while/](https://www.poten.com/tanker-opinion-october-1-2021-oil-is-here-to-stay-for-a-while/)\n**Full PDF Report**: [Weekly-Opinion-1-Oct-2021-Oil-Is-Here-To-Stay-For-A-While.pdf](https://www.poten.com/wp-content/uploads/2021/10/Weekly-Opinion-1-Oct-2021-Oil-Is-Here-To-Stay-For-A-While.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-1-Oct-2021-Oil-Is-Here-To-Stay-For-A-While.pdf. Analysis & Overview\nOil Is Here To Stay â€\" For A While\nOil Is Here To Stay â€\" For A While",
+  "keywords": [
+    "crude_oil",
+    "here",
+    "https",
+    "oil",
+    "stay",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-october-1-2021-oil-is-here-to-stay-for-a-while",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 248,
+  "source_path": "reports/poten/2021/poten_2021-01-01_oil_is_here_to_stay_for_a_while.md",
+  "source_url": "https://www.poten.com/tanker-opinion-october-1-2021-oil-is-here-to-stay-for-a-while/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while__s01_poten_tanker_opinion_oil_is_here_to_stay_for_a_while",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while__root",
+      "title": "Poten Tanker Opinion: Oil Is Here To Stay â€\" For A While",
+      "section_path": [
+        "Poten Tanker Opinion: Oil Is Here To Stay â€\" For A While"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Oil Is Here To Stay â€\" For A While",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-october-1-2021-oil-is-here-to-stay-for-a-while/](https://www.poten.com/tanker-opinion-october-1-2021-oil-is-here-to-stay-for-a-while/)\n**Full PDF Report**: [Weekly-Opinion-1-Oct-2021-Oil-Is-Here-To-Stay-For-A-While.pdf](https://www.poten.com/wp-content/uploads/2021/10/Weekly-Opinion-1-Oct-2021-Oil-Is-Here-To-Stay-For-A-While.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-1-Oct-2021-Oil-Is-Here-To-Stay-For-A-While.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-october-1-2021-oil-is-here-to-stay-for-a-while",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_oil_is_here_to_stay_for_a_while__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Oil Is Here To Stay â€\" For A While\nOil Is Here To Stay â€\" For A While",
+      "keywords": [
+        "crude_oil",
+        "here",
+        "oil",
+        "stay"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

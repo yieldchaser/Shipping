@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Caribbean Tankers in Trouble",
+  "section_path": [
+    "Poten Tanker Opinion: Caribbean Tankers in Trouble"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Caribbean Tankers in Trouble",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Caribbean Tankers in Trouble\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/caribbean-tankers-trouble/](https://www.poten.com/caribbean-tankers-trouble/)\n**Full PDF Report**: [Weekly-Opinion-21-July-2017-Caribbean-Tankers-in-Trouble.pdf](http://www.poten.com/wp-content/uploads/2017/07/Weekly-Opinion-21-July-2017-Caribbean-Tankers-in-Trouble.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-21-July-2017-Caribbean-Tankers-in-Trouble.pdf. Analysis & Overview\nCaribbean Tankers in Trouble\n21 Jul 2017: Â On Monday, July 17 U.S. President Trump stated that â€œThe United States will not stand by as Venezuela crumbles.Â If the Maduro regime imposes its Constituent Assembly on July 30, the United States will take strong and swift economic actions.â€�Â Opponents of President Maduroâ€™s regime are highly critical of the Constituent Assembly,...",
+  "keywords": [
+    "assembly",
+    "caribbean",
+    "constituent",
+    "full",
+    "https",
+    "july",
+    "maduro",
+    "pdf",
+    "president",
+    "regime",
+    "states",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 273,
+  "source_path": "reports/poten/2017/poten_2017-01-01_caribbean_tankers_in_trouble.md",
+  "source_url": "https://www.poten.com/caribbean-tankers-trouble/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble__s01_poten_tanker_opinion_caribbean_tankers_in_trouble",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble__root",
+      "title": "Poten Tanker Opinion: Caribbean Tankers in Trouble",
+      "section_path": [
+        "Poten Tanker Opinion: Caribbean Tankers in Trouble"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Caribbean Tankers in Trouble",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/caribbean-tankers-trouble/](https://www.poten.com/caribbean-tankers-trouble/)\n**Full PDF Report**: [Weekly-Opinion-21-July-2017-Caribbean-Tankers-in-Trouble.pdf](http://www.poten.com/wp-content/uploads/2017/07/Weekly-Opinion-21-July-2017-Caribbean-Tankers-in-Trouble.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-21-July-2017-Caribbean-Tankers-in-Trouble.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/caribbean-tankers-trouble",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 160,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_caribbean_tankers_in_trouble__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Caribbean Tankers in Trouble\n21 Jul 2017: Â On Monday, July 17 U.S. President Trump stated that â€œThe United States will not stand by as Venezuela crumbles.Â If the Maduro regime imposes its Constituent Assembly on July 30, the United States will take strong and swift economic actions.â€�Â Opponents of President Maduroâ€™s regime are highly critical of the Constituent Assembly,...",
+      "keywords": [
+        "assembly",
+        "constituent",
+        "july",
+        "maduro",
+        "president",
+        "regime",
+        "states",
+        "united"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Charley, Frances & Ivan Make for Jittery Oil Industry",
+  "section_path": [
+    "Poten Tanker Opinion: Charley, Frances & Ivan Make for Jittery Oil Industry"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Charley, Frances & Ivan Make for Jittery Oil Industry",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Charley, Frances & Ivan Make for Jittery Oil Industry\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/charley-frances-ivan-make-for-jittery-oil-industry/](https://www.poten.com/charley-frances-ivan-make-for-jittery-oil-industry/)\n**Full PDF Report**: [Tanker_Opinion_20040910.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040910.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040910.pdf. Analysis & Overview\nCharley, Frances & Ivan Make for Jittery Oil Industry\nCharley, Frances & Ivan Make for Jittery Oil Industry",
+  "keywords": [
+    "crude_oil",
+    "charley",
+    "frances",
+    "https",
+    "ivan",
+    "jittery",
+    "make",
+    "oil",
+    "full",
+    "pdf",
+    "www.poten.com/charley-frances-ivan-make-for-jittery-oil-industry",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 193,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_charley_frances_ivan_make_for_jittery_oil_industry.md",
+  "source_url": "https://www.poten.com/charley-frances-ivan-make-for-jittery-oil-industry/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry__s01_poten_tanker_opinion_charley_frances_ivan_make_for_jittery_oil_industry",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry__root",
+      "title": "Poten Tanker Opinion: Charley, Frances & Ivan Make for Jittery Oil Industry",
+      "section_path": [
+        "Poten Tanker Opinion: Charley, Frances & Ivan Make for Jittery Oil Industry"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Charley, Frances & Ivan Make for Jittery Oil Industry",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/charley-frances-ivan-make-for-jittery-oil-industry/](https://www.poten.com/charley-frances-ivan-make-for-jittery-oil-industry/)\n**Full PDF Report**: [Tanker_Opinion_20040910.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040910.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040910.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/charley-frances-ivan-make-for-jittery-oil-industry",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_charley_frances_ivan_make_for_jittery_oil_industry__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Charley, Frances & Ivan Make for Jittery Oil Industry\nCharley, Frances & Ivan Make for Jittery Oil Industry",
+      "keywords": [
+        "crude_oil",
+        "charley",
+        "frances",
+        "ivan",
+        "jittery",
+        "make",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

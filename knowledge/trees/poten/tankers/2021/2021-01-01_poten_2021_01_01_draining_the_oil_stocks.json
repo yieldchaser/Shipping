@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Draining the Oil Stocks",
+  "section_path": [
+    "Poten Tanker Opinion: Draining the Oil Stocks"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Draining the Oil Stocks",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Draining the Oil Stocks\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-april-23-2021-draining-the-oil-stocks/](https://www.poten.com/tanker-opinion-april-23-2021-draining-the-oil-stocks/)\n**Full PDF Report**: [Weekly-Opinion-23-April-2021-Draining-The-Oil-Stocks.pdf](https://www.poten.com/wp-content/uploads/2021/04/Weekly-Opinion-23-April-2021-Draining-The-Oil-Stocks.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-23-April-2021-Draining-The-Oil-Stocks.pdf. Analysis & Overview\nDraining the Oil Stocks\nDraining the Oil Stocks",
+  "keywords": [
+    "crude_oil",
+    "draining",
+    "https",
+    "oil",
+    "stocks",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-april-23-2021-draining-the-oil-stocks",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 208,
+  "source_path": "reports/poten/2021/poten_2021-01-01_draining_the_oil_stocks.md",
+  "source_url": "https://www.poten.com/tanker-opinion-april-23-2021-draining-the-oil-stocks/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks__s01_poten_tanker_opinion_draining_the_oil_stocks",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks__root",
+      "title": "Poten Tanker Opinion: Draining the Oil Stocks",
+      "section_path": [
+        "Poten Tanker Opinion: Draining the Oil Stocks"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Draining the Oil Stocks",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-april-23-2021-draining-the-oil-stocks/](https://www.poten.com/tanker-opinion-april-23-2021-draining-the-oil-stocks/)\n**Full PDF Report**: [Weekly-Opinion-23-April-2021-Draining-The-Oil-Stocks.pdf](https://www.poten.com/wp-content/uploads/2021/04/Weekly-Opinion-23-April-2021-Draining-The-Oil-Stocks.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-23-April-2021-Draining-The-Oil-Stocks.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-april-23-2021-draining-the-oil-stocks",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_draining_the_oil_stocks__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Draining the Oil Stocks\nDraining the Oil Stocks",
+      "keywords": [
+        "crude_oil",
+        "draining",
+        "oil",
+        "stocks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Retirement Planning",
+  "section_path": [
+    "Poten Tanker Opinion: Retirement Planning"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Retirement Planning",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Retirement Planning\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/retirement-planning/](https://www.poten.com/retirement-planning/)\n**Full PDF Report**: [Weekly-Opinion-11-November-2016-Retirement-Planning.pdf](http://www.poten.com/wp-content/uploads/2016/11/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf. Analysis & Overview\nRetirement Planning\n11 Nov 2016: The age profile of the tanker fleet gives owners reason for concern. The orderbook for delivery in 2017 and 2018 ranges from a modest 5% of the existing fleet for Handyâ€™s to a whopping 19% for Suezmaxes.",
+  "keywords": [
+    "handysize",
+    "suezmax",
+    "fleet",
+    "full",
+    "https",
+    "pdf",
+    "planning",
+    "retirement",
+    "www.poten.com/retirement-planning",
+    "age",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 246,
+  "source_path": "reports/poten/2016/poten_2016-01-01_retirement_planning.md",
+  "source_url": "https://www.poten.com/retirement-planning/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning__s01_poten_tanker_opinion_retirement_planning",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning__root",
+      "title": "Poten Tanker Opinion: Retirement Planning",
+      "section_path": [
+        "Poten Tanker Opinion: Retirement Planning"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Retirement Planning",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/retirement-planning/](https://www.poten.com/retirement-planning/)\n**Full PDF Report**: [Weekly-Opinion-11-November-2016-Retirement-Planning.pdf](http://www.poten.com/wp-content/uploads/2016/11/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-11-November-2016-Retirement-Planning.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/retirement-planning",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_retirement_planning__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Retirement Planning\n11 Nov 2016: The age profile of the tanker fleet gives owners reason for concern. The orderbook for delivery in 2017 and 2018 ranges from a modest 5% of the existing fleet for Handyâ€™s to a whopping 19% for Suezmaxes.",
+      "keywords": [
+        "handysize",
+        "suezmax",
+        "fleet",
+        "age",
+        "balancing",
+        "built-in",
+        "concern.",
+        "delivery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

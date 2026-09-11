@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: (Not So) Happy New Year!",
+  "section_path": [
+    "Poten Tanker Opinion: (Not So) Happy New Year!"
+  ],
+  "section_path_text": "Poten Tanker Opinion: (Not So) Happy New Year!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: (Not So) Happy New Year! **Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/not-happy-new-year/](https://www.poten.com/not-happy-new-year/)\n**Full PDF Report**: [Weekly-Opinion-12-Jan-2018-Not-So-Happy-New-Year.pdf](http://www.poten.com/wp-content/uploads/2018/01/Weekly-Opinion-12-Jan-2018-Not-So-Happy-New-Year.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-12-Jan-2018-Not-So-Happy-New-Year.pdf. Analysis & Overview\n(Not So) Happy New Year!",
+  "keywords": [
+    "happy",
+    "new",
+    "not",
+    "year",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/not-happy-new-year",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 183,
+  "source_path": "reports/poten/2018/poten_2018-01-01__not_so_happy_new_year.md",
+  "source_url": "https://www.poten.com/not-happy-new-year/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year__s01_poten_tanker_opinion_not_so_happy_new_year",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year__root",
+      "title": "Poten Tanker Opinion: (Not So) Happy New Year!",
+      "section_path": [
+        "Poten Tanker Opinion: (Not So) Happy New Year!"
+      ],
+      "section_path_text": "Poten Tanker Opinion: (Not So) Happy New Year!",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/not-happy-new-year/](https://www.poten.com/not-happy-new-year/)\n**Full PDF Report**: [Weekly-Opinion-12-Jan-2018-Not-So-Happy-New-Year.pdf](http://www.poten.com/wp-content/uploads/2018/01/Weekly-Opinion-12-Jan-2018-Not-So-Happy-New-Year.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-12-Jan-2018-Not-So-Happy-New-Year.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/not-happy-new-year",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_not_so_happy_new_year__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "happy",
+        "new",
+        "not",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

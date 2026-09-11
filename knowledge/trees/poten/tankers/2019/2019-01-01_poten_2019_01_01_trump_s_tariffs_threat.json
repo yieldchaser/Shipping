@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Trumpâ€™s Tariffs Threat",
+  "section_path": [
+    "Poten Tanker Opinion: Trumpâ€™s Tariffs Threat"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Trumpâ€™s Tariffs Threat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Trumpâ€™s Tariffs Threat\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/trumps-tariffs-threat/](https://www.poten.com/trumps-tariffs-threat/)\n**Full PDF Report**: [Weekly-Opinion-31-May-2019-Trumps-Tariffs-Threat.pdf](http://www.poten.com/wp-content/uploads/2019/05/Weekly-Opinion-31-May-2019-Trumps-Tariffs-Threat.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-31-May-2019-Trumps-Tariffs-Threat.pdf. Analysis & Overview\nTrumpâ€™s Tariffs Threat\n31 May 2019:Â On May 30, President Trump tweeted that he will impose 5% tariffs on all imports from Mexico unless they do more to reduce the inflow of Central American migrants into the U.S.Â The tariffs will start on June 10th and will increase monthly by 5% points until they reach 25% (by October).Â While...",
+  "keywords": [
+    "tariffs",
+    "trump",
+    "full",
+    "https",
+    "may",
+    "pdf",
+    "threat",
+    "www.poten.com/trumps-tariffs-threat",
+    "all",
+    "american",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 259,
+  "source_path": "reports/poten/2019/poten_2019-01-01_trump_s_tariffs_threat.md",
+  "source_url": "https://www.poten.com/trumps-tariffs-threat/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat__s01_poten_tanker_opinion_trump_s_tariffs_threat",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat__root",
+      "title": "Poten Tanker Opinion: Trumpâ€™s Tariffs Threat",
+      "section_path": [
+        "Poten Tanker Opinion: Trumpâ€™s Tariffs Threat"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Trumpâ€™s Tariffs Threat",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/trumps-tariffs-threat/](https://www.poten.com/trumps-tariffs-threat/)\n**Full PDF Report**: [Weekly-Opinion-31-May-2019-Trumps-Tariffs-Threat.pdf](http://www.poten.com/wp-content/uploads/2019/05/Weekly-Opinion-31-May-2019-Trumps-Tariffs-Threat.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-31-May-2019-Trumps-Tariffs-Threat.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/trumps-tariffs-threat",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_trump_s_tariffs_threat__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Trumpâ€™s Tariffs Threat\n31 May 2019:Â On May 30, President Trump tweeted that he will impose 5% tariffs on all imports from Mexico unless they do more to reduce the inflow of Central American migrants into the U.S.Â The tariffs will start on June 10th and will increase monthly by 5% points until they reach 25% (by October).Â While...",
+      "keywords": [
+        "tariffs",
+        "may",
+        "trump",
+        "all",
+        "american",
+        "central",
+        "imports",
+        "impose"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

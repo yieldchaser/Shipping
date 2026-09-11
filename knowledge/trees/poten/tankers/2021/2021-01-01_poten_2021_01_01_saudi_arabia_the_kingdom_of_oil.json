@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil__root",
+  "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Saudi Arabia The Kingdom Of Oil",
+  "section_path": [
+    "Poten Tanker Opinion: Saudi Arabia The Kingdom Of Oil"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Saudi Arabia The Kingdom Of Oil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Saudi Arabia The Kingdom Of Oil\n**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-december-10-saudi-arabia-the-kingdom-of-oil/](https://www.poten.com/tanker-opinion-december-10-saudi-arabia-the-kingdom-of-oil/)\n**Full PDF Report**: [Weekly-Opinion-10-December-2021-Saudi-Arabia-The-Kingdom-Of-Oil.pdf](https://www.poten.com/wp-content/uploads/2021/12/Weekly-Opinion-10-December-2021-Saudi-Arabia-The-Kingdom-Of-Oil.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-10-December-2021-Saudi-Arabia-The-Kingdom-Of-Oil.pdf. Analysis & Overview\nSaudi Arabia The Kingdom Of Oil\nSaudi Arabia The Kingdom Of Oil",
+  "keywords": [
+    "crude_oil",
+    "arabia",
+    "https",
+    "kingdom",
+    "oil",
+    "saudi",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-december-10-saudi-arabia-the-kingdom-of-oil",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 229,
+  "source_path": "reports/poten/2021/poten_2021-01-01_saudi_arabia_the_kingdom_of_oil.md",
+  "source_url": "https://www.poten.com/tanker-opinion-december-10-saudi-arabia-the-kingdom-of-oil/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil__s01_poten_tanker_opinion_saudi_arabia_the_kingdom_of_oil",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil__root",
+      "title": "Poten Tanker Opinion: Saudi Arabia The Kingdom Of Oil",
+      "section_path": [
+        "Poten Tanker Opinion: Saudi Arabia The Kingdom Of Oil"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Saudi Arabia The Kingdom Of Oil",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2021-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-december-10-saudi-arabia-the-kingdom-of-oil/](https://www.poten.com/tanker-opinion-december-10-saudi-arabia-the-kingdom-of-oil/)\n**Full PDF Report**: [Weekly-Opinion-10-December-2021-Saudi-Arabia-The-Kingdom-Of-Oil.pdf](https://www.poten.com/wp-content/uploads/2021/12/Weekly-Opinion-10-December-2021-Saudi-Arabia-The-Kingdom-Of-Oil.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2021/Weekly-Opinion-10-December-2021-Saudi-Arabia-The-Kingdom-Of-Oil.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-december-10-saudi-arabia-the-kingdom-of-oil",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil__s02_analysis_overview",
+      "doc_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil",
+      "parent_id": "poten_tankers_2021-01-01_poten_2021_01_01_saudi_arabia_the_kingdom_of_oil__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Saudi Arabia The Kingdom Of Oil\nSaudi Arabia The Kingdom Of Oil",
+      "keywords": [
+        "crude_oil",
+        "arabia",
+        "kingdom",
+        "oil",
+        "saudi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Shifting Sands of VLCC Employment",
+  "section_path": [
+    "Poten Tanker Opinion: Shifting Sands of VLCC Employment"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Shifting Sands of VLCC Employment",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Shifting Sands of VLCC Employment\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/shifting-sands-of-vlcc-employment/](https://www.poten.com/shifting-sands-of-vlcc-employment/)\n**Full PDF Report**: [Tanker_Opinion_20050520.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050520.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050520.pdf. Analysis & Overview\nShifting Sands of VLCC Employment\nShifting Sands of VLCC Employment",
+  "keywords": [
+    "vlcc",
+    "employment",
+    "https",
+    "sands",
+    "shifting",
+    "full",
+    "pdf",
+    "www.poten.com/shifting-sands-of-vlcc-employment",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 163,
+  "source_path": "reports/poten/2005/poten_unknown-01-01_shifting_sands_of_vlcc_employment.md",
+  "source_url": "https://www.poten.com/shifting-sands-of-vlcc-employment/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment__s01_poten_tanker_opinion_shifting_sands_of_vlcc_employment",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment__root",
+      "title": "Poten Tanker Opinion: Shifting Sands of VLCC Employment",
+      "section_path": [
+        "Poten Tanker Opinion: Shifting Sands of VLCC Employment"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Shifting Sands of VLCC Employment",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/shifting-sands-of-vlcc-employment/](https://www.poten.com/shifting-sands-of-vlcc-employment/)\n**Full PDF Report**: [Tanker_Opinion_20050520.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20050520.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20050520.pdf.",
+      "keywords": [
+        "vlcc",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/shifting-sands-of-vlcc-employment",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_shifting_sands_of_vlcc_employment__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Shifting Sands of VLCC Employment\nShifting Sands of VLCC Employment",
+      "keywords": [
+        "vlcc",
+        "employment",
+        "sands",
+        "shifting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

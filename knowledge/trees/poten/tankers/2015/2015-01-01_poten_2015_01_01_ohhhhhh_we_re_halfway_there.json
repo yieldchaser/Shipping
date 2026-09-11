@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Ohhhhhh, We're Halfway There",
+  "section_path": [
+    "Poten Tanker Opinion: Ohhhhhh, We're Halfway There"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Ohhhhhh, We're Halfway There",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Ohhhhhh, We're Halfway There\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/ohhhhhh-were-halfway-there/](https://www.poten.com/ohhhhhh-were-halfway-there/)\n**Full PDF Report**: [Weekly-Opinion-July-3-2015-Mid-Year-Top-Dirty-Charterers.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-3-2015-Mid-Year-Top-Dirty-Charterers.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-3-2015-Mid-Year-Top-Dirty-Charterers.pdf. Analysis & Overview\nOhhhhhh, We're Halfway There\n02 Jul 2015: Livinâ€™ On a Prayer &#8211; Top Reported Dirty Spot Charterers for 2015 YTD* The first half of 2015 has come and gone, oil has moved, and traders and oil companies alike have claimed their spots in the worldwide spot dirty tanker chartering landscape. Not surprisingly, Unipec remains in the lead in the...",
+  "keywords": [
+    "capesize",
+    "crude_oil",
+    "https",
+    "dirty",
+    "full",
+    "halfway",
+    "ohhhhhh",
+    "oil",
+    "pdf",
+    "www.poten.com/ohhhhhh-were-halfway-there",
+    "alike",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 286,
+  "source_path": "reports/poten/2015/poten_2015-01-01_ohhhhhh_we_re_halfway_there.md",
+  "source_url": "https://www.poten.com/ohhhhhh-were-halfway-there/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there__s01_poten_tanker_opinion_ohhhhhh_we_re_halfway_there",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there__root",
+      "title": "Poten Tanker Opinion: Ohhhhhh, We're Halfway There",
+      "section_path": [
+        "Poten Tanker Opinion: Ohhhhhh, We're Halfway There"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Ohhhhhh, We're Halfway There",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/ohhhhhh-were-halfway-there/](https://www.poten.com/ohhhhhh-were-halfway-there/)\n**Full PDF Report**: [Weekly-Opinion-July-3-2015-Mid-Year-Top-Dirty-Charterers.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-3-2015-Mid-Year-Top-Dirty-Charterers.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-3-2015-Mid-Year-Top-Dirty-Charterers.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/ohhhhhh-were-halfway-there",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_ohhhhhh_we_re_halfway_there__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ohhhhhh, We're Halfway There\n02 Jul 2015: Livinâ€™ On a Prayer &#8211; Top Reported Dirty Spot Charterers for 2015 YTD* The first half of 2015 has come and gone, oil has moved, and traders and oil companies alike have claimed their spots in the worldwide spot dirty tanker chartering landscape. Not surprisingly, Unipec remains in the lead in the...",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "dirty",
+        "oil",
+        "alike",
+        "charterers",
+        "chartering",
+        "claimed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

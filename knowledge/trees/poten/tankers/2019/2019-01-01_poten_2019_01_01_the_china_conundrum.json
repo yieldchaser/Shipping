@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The China Conundrum",
+  "section_path": [
+    "Poten Tanker Opinion: The China Conundrum"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The China Conundrum",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The China Conundrum\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/the-china-conundrum/](https://www.poten.com/the-china-conundrum/)\n**Full PDF Report**: [Weekly-Opinion-11-January-2019-The-China-Conundrum.pdf](http://www.poten.com/wp-content/uploads/2019/01/Weekly-Opinion-11-January-2019-The-China-Conundrum.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-11-January-2019-The-China-Conundrum.pdf. Analysis & Overview\nThe China Conundrum\nThe China Conundrum",
+  "keywords": [
+    "china",
+    "conundrum",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/the-china-conundrum",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 172,
+  "source_path": "reports/poten/2019/poten_2019-01-01_the_china_conundrum.md",
+  "source_url": "https://www.poten.com/the-china-conundrum/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum__s01_poten_tanker_opinion_the_china_conundrum",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum__root",
+      "title": "Poten Tanker Opinion: The China Conundrum",
+      "section_path": [
+        "Poten Tanker Opinion: The China Conundrum"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The China Conundrum",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/the-china-conundrum/](https://www.poten.com/the-china-conundrum/)\n**Full PDF Report**: [Weekly-Opinion-11-January-2019-The-China-Conundrum.pdf](http://www.poten.com/wp-content/uploads/2019/01/Weekly-Opinion-11-January-2019-The-China-Conundrum.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-11-January-2019-The-China-Conundrum.pdf.",
+      "keywords": [
+        "china",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/the-china-conundrum",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_the_china_conundrum__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The China Conundrum\nThe China Conundrum",
+      "keywords": [
+        "china",
+        "conundrum"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

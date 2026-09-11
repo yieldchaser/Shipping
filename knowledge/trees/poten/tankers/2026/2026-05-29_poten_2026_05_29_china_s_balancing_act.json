@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 379,
+  "token_count": 461,
   "source_path": "reports/poten/2026/poten_2026-05-29_china_s_balancing_act.md",
   "source_url": "https://www.poten.com/chinas-balancing-act/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: China's Balancing Act",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-29\n**Source URL**: [https://www.poten.com/chinas-balancing-act/](https://www.poten.com/chinas-balancing-act/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-05-29\n**Source URL**: [https://www.poten.com/chinas-balancing-act/](https://www.poten.com/chinas-balancing-act/)\n**Full PDF Report**: [Weekly Opinion - 29 May 2026 - Chinas Balancing Act.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2029%20May%202026%20-%20Chinas%20Balancing%20Act.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
         "china",
-        "author",
-        "date",
         "https",
-        "published",
-        "summary",
-        "www.poten.com/chinas-balancing-act",
-        "analysis"
+        "act.pdf",
+        "author",
+        "balancing",
+        "chinas",
+        "date",
+        "may"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 91,
+      "token_count": 173,
       "section_type": null,
       "children": []
     },

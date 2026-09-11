@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Chinese Crude Sourcing Offers Continued Support to VLCCs",
+  "section_path": [
+    "Poten Tanker Opinion: Chinese Crude Sourcing Offers Continued Support to VLCCs"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Chinese Crude Sourcing Offers Continued Support to VLCCs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Chinese Crude Sourcing Offers Continued Support to VLCCs\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/chinese-crude-sourcing-offers-continued-support-to-vlccs/](https://www.poten.com/chinese-crude-sourcing-offers-continued-support-to-vlccs/)\n**Full PDF Report**: [Tanker_Opinion_20120615.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120615.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120615.pdf. Analysis & Overview\nChinese Crude Sourcing Offers Continued Support to VLCCs\nChinese Crude Sourcing Offers Continued Support to VLCCs",
+  "keywords": [
+    "vlcc",
+    "china",
+    "chinese",
+    "continued",
+    "crude",
+    "https",
+    "offers",
+    "sourcing",
+    "support",
+    "vlccs",
+    "full",
+    "pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 190,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_chinese_crude_sourcing_offers_continued_support_to_vlccs.md",
+  "source_url": "https://www.poten.com/chinese-crude-sourcing-offers-continued-support-to-vlccs/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs__s01_poten_tanker_opinion_chinese_crude_sourcing_offers_continued_support_to_vlccs",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs__root",
+      "title": "Poten Tanker Opinion: Chinese Crude Sourcing Offers Continued Support to VLCCs",
+      "section_path": [
+        "Poten Tanker Opinion: Chinese Crude Sourcing Offers Continued Support to VLCCs"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Chinese Crude Sourcing Offers Continued Support to VLCCs",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/chinese-crude-sourcing-offers-continued-support-to-vlccs/](https://www.poten.com/chinese-crude-sourcing-offers-continued-support-to-vlccs/)\n**Full PDF Report**: [Tanker_Opinion_20120615.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120615.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120615.pdf.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/chinese-crude-sourcing-offers-continued-support-to-vlccs",
+        "archived",
+        "author"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_chinese_crude_sourcing_offers_continued_support_to_vlccs__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Chinese Crude Sourcing Offers Continued Support to VLCCs\nChinese Crude Sourcing Offers Continued Support to VLCCs",
+      "keywords": [
+        "vlcc",
+        "china",
+        "chinese",
+        "continued",
+        "crude",
+        "offers",
+        "sourcing",
+        "support"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Conference BAM!Really â€œKicking it Up a Notchâ€�",
+  "section_path": [
+    "Poten Tanker Opinion: A Conference BAM!Really â€œKicking it Up a Notchâ€�"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Conference BAM!Really â€œKicking it Up a Notchâ€�",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Conference BAM!Really â€œKicking it Up a Notchâ€�\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-conference-bamreally-kicking-it-up-a-notch/](https://www.poten.com/a-conference-bamreally-kicking-it-up-a-notch/)\n**Full PDF Report**: [Tanker_Opinion_20040326.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040326.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040326.pdf. Analysis & Overview\nA Conference BAM!Really â€œKicking it Up a Notchâ€�\nA Conference BAM!Really â€œKicking it Up a Notchâ€�",
+  "keywords": [
+    "bam",
+    "conference",
+    "https",
+    "kicking",
+    "notch",
+    "really",
+    "full",
+    "pdf",
+    "www.poten.com/a-conference-bamreally-kicking-it-up-a-notch",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 200,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_a_conference_bam_really_kicking_it_up_a_notch.md",
+  "source_url": "https://www.poten.com/a-conference-bamreally-kicking-it-up-a-notch/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch__s01_poten_tanker_opinion_a_conference_bam_really_kicking_it_up_a_notch",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch__root",
+      "title": "Poten Tanker Opinion: A Conference BAM!Really â€œKicking it Up a Notchâ€�",
+      "section_path": [
+        "Poten Tanker Opinion: A Conference BAM!Really â€œKicking it Up a Notchâ€�"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Conference BAM!Really â€œKicking it Up a Notchâ€�",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-conference-bamreally-kicking-it-up-a-notch/](https://www.poten.com/a-conference-bamreally-kicking-it-up-a-notch/)\n**Full PDF Report**: [Tanker_Opinion_20040326.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040326.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040326.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/a-conference-bamreally-kicking-it-up-a-notch",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_conference_bam_really_kicking_it_up_a_notch__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Conference BAM!Really â€œKicking it Up a Notchâ€�\nA Conference BAM!Really â€œKicking it Up a Notchâ€�",
+      "keywords": [
+        "bam",
+        "conference",
+        "kicking",
+        "notch",
+        "really"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

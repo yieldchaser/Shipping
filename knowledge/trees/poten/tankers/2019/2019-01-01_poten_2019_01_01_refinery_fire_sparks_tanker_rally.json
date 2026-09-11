@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Refinery Fire Sparks Tanker Rally",
+  "section_path": [
+    "Poten Tanker Opinion: Refinery Fire Sparks Tanker Rally"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Refinery Fire Sparks Tanker Rally",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Refinery Fire Sparks Tanker Rally\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/refinery-fire-sparks-tanker-rally/](https://www.poten.com/refinery-fire-sparks-tanker-rally/)\n**Full PDF Report**: [Weekly-Opinion-21-June-2019-Refinery-Fire-Sparks-Tanker-Rally.pdf](http://www.poten.com/wp-content/uploads/2019/06/Weekly-Opinion-21-June-2019-Refinery-Fire-Sparks-Tanker-Rally.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-21-June-2019-Refinery-Fire-Sparks-Tanker-Rally.pdf. Analysis & Overview\nRefinery Fire Sparks Tanker Rally\nRefinery Fire Sparks Tanker Rally",
+  "keywords": [
+    "fire",
+    "rally",
+    "refinery",
+    "sparks",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/refinery-fire-sparks-tanker-rally",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 205,
+  "source_path": "reports/poten/2019/poten_2019-01-01_refinery_fire_sparks_tanker_rally.md",
+  "source_url": "https://www.poten.com/refinery-fire-sparks-tanker-rally/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally__s01_poten_tanker_opinion_refinery_fire_sparks_tanker_rally",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally__root",
+      "title": "Poten Tanker Opinion: Refinery Fire Sparks Tanker Rally",
+      "section_path": [
+        "Poten Tanker Opinion: Refinery Fire Sparks Tanker Rally"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Refinery Fire Sparks Tanker Rally",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/refinery-fire-sparks-tanker-rally/](https://www.poten.com/refinery-fire-sparks-tanker-rally/)\n**Full PDF Report**: [Weekly-Opinion-21-June-2019-Refinery-Fire-Sparks-Tanker-Rally.pdf](http://www.poten.com/wp-content/uploads/2019/06/Weekly-Opinion-21-June-2019-Refinery-Fire-Sparks-Tanker-Rally.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-21-June-2019-Refinery-Fire-Sparks-Tanker-Rally.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/refinery-fire-sparks-tanker-rally",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_refinery_fire_sparks_tanker_rally__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Refinery Fire Sparks Tanker Rally\nRefinery Fire Sparks Tanker Rally",
+      "keywords": [
+        "fire",
+        "rally",
+        "refinery",
+        "sparks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

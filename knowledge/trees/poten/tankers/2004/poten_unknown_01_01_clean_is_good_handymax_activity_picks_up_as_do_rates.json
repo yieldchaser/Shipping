@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Clean Is Good Handymax Activity Picks Up As Do Rates",
+  "section_path": [
+    "Poten Tanker Opinion: Clean Is Good Handymax Activity Picks Up As Do Rates"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Clean Is Good Handymax Activity Picks Up As Do Rates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Clean Is Good Handymax Activity Picks Up As Do Rates\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/clean-is-good-handymax-activity-picks-up-as-do-rates/](https://www.poten.com/clean-is-good-handymax-activity-picks-up-as-do-rates/)\n**Full PDF Report**: [Tanker_Opinion_20040604.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040604.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040604.pdf. Analysis & Overview\nClean Is Good Handymax Activity Picks Up As Do Rates\nClean Is Good Handymax Activity Picks Up As Do Rates",
+  "keywords": [
+    "handysize",
+    "activity",
+    "clean",
+    "good",
+    "handymax",
+    "https",
+    "picks",
+    "full",
+    "pdf",
+    "www.poten.com/clean-is-good-handymax-activity-picks-up-as-do-rates",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 185,
+  "source_path": "reports/poten/2004/poten_unknown-01-01_clean_is_good_handymax_activity_picks_up_as_do_rates.md",
+  "source_url": "https://www.poten.com/clean-is-good-handymax-activity-picks-up-as-do-rates/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates__s01_poten_tanker_opinion_clean_is_good_handymax_activity_picks_up_as_do_rates",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates__root",
+      "title": "Poten Tanker Opinion: Clean Is Good Handymax Activity Picks Up As Do Rates",
+      "section_path": [
+        "Poten Tanker Opinion: Clean Is Good Handymax Activity Picks Up As Do Rates"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Clean Is Good Handymax Activity Picks Up As Do Rates",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/clean-is-good-handymax-activity-picks-up-as-do-rates/](https://www.poten.com/clean-is-good-handymax-activity-picks-up-as-do-rates/)\n**Full PDF Report**: [Tanker_Opinion_20040604.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20040604.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20040604.pdf.",
+      "keywords": [
+        "handysize",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/clean-is-good-handymax-activity-picks-up-as-do-rates",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_clean_is_good_handymax_activity_picks_up_as_do_rates__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Clean Is Good Handymax Activity Picks Up As Do Rates\nClean Is Good Handymax Activity Picks Up As Do Rates",
+      "keywords": [
+        "handysize",
+        "activity",
+        "clean",
+        "good",
+        "handymax",
+        "picks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

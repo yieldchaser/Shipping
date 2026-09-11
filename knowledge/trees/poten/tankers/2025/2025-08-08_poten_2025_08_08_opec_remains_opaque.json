@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque__root",
+  "doc_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: OPEC Remains Opaque",
+  "section_path": [
+    "Poten Tanker Opinion: OPEC Remains Opaque"
+  ],
+  "section_path_text": "Poten Tanker Opinion: OPEC Remains Opaque",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: OPEC Remains Opaque\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-08-08\n**Source URL**: [https://www.poten.com/opec-remains-opaque/](https://www.poten.com/opec-remains-opaque/)\n**Full PDF Report**: [Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%208%20August%202025%20-%20OPEC%20Remains%20Opaque.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf. Analysis & Overview\nOPEC Remains Opaque\nOPEC Remains Opaque",
+  "keywords": [
+    "crude_oil",
+    "opec",
+    "remains",
+    "opinion",
+    "august",
+    "https",
+    "opaque",
+    "full",
+    "opaque.pdf",
+    "pdf",
+    "www.poten.com/opec-remains-opaque",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 202,
+  "source_path": "reports/poten/2025/poten_2025-08-08_opec_remains_opaque.md",
+  "source_url": "https://www.poten.com/opec-remains-opaque/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque__s01_poten_tanker_opinion_opec_remains_opaque",
+      "doc_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque",
+      "parent_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque__root",
+      "title": "Poten Tanker Opinion: OPEC Remains Opaque",
+      "section_path": [
+        "Poten Tanker Opinion: OPEC Remains Opaque"
+      ],
+      "section_path_text": "Poten Tanker Opinion: OPEC Remains Opaque",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-08-08\n**Source URL**: [https://www.poten.com/opec-remains-opaque/](https://www.poten.com/opec-remains-opaque/)\n**Full PDF Report**: [Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%208%20August%202025%20-%20OPEC%20Remains%20Opaque.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 8 August 2025 - OPEC Remains Opaque.pdf.",
+      "keywords": [
+        "crude_oil",
+        "august",
+        "https",
+        "opec",
+        "opinion",
+        "remains",
+        "full",
+        "opaque.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque",
+      "parent_id": "poten_tankers_2025-08-08_poten_2025_08_08_opec_remains_opaque__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "OPEC Remains Opaque\nOPEC Remains Opaque",
+      "keywords": [
+        "crude_oil",
+        "opaque",
+        "opec",
+        "remains"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

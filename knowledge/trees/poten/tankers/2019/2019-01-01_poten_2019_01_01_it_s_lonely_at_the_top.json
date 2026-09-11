@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Itâ€™s Lonely At The Top",
+  "section_path": [
+    "Poten Tanker Opinion: Itâ€™s Lonely At The Top"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Itâ€™s Lonely At The Top",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Itâ€™s Lonely At The Top\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/its-lonely-at-the-top/](https://www.poten.com/its-lonely-at-the-top/)\n**Full PDF Report**: [Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf](http://www.poten.com/wp-content/uploads/2019/01/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf. Analysis & Overview\nItâ€™s Lonely At The Top\nItâ€™s Lonely At The Top",
+  "keywords": [
+    "lonely",
+    "top",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/its-lonely-at-the-top",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 194,
+  "source_path": "reports/poten/2019/poten_2019-01-01_it_s_lonely_at_the_top.md",
+  "source_url": "https://www.poten.com/its-lonely-at-the-top/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top__s01_poten_tanker_opinion_it_s_lonely_at_the_top",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top__root",
+      "title": "Poten Tanker Opinion: Itâ€™s Lonely At The Top",
+      "section_path": [
+        "Poten Tanker Opinion: Itâ€™s Lonely At The Top"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Itâ€™s Lonely At The Top",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/its-lonely-at-the-top/](https://www.poten.com/its-lonely-at-the-top/)\n**Full PDF Report**: [Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf](http://www.poten.com/wp-content/uploads/2019/01/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-January-4-2019-Top-Dirty-Charterers.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/its-lonely-at-the-top",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_it_s_lonely_at_the_top__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Itâ€™s Lonely At The Top\nItâ€™s Lonely At The Top",
+      "keywords": [
+        "lonely",
+        "top"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

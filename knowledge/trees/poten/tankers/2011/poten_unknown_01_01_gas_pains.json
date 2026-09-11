@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Gas Pains",
+  "section_path": [
+    "Poten Tanker Opinion: Gas Pains"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Gas Pains",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Gas Pains\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/gas-pains/](https://www.poten.com/gas-pains/)\n**Full PDF Report**: [Tanker_Opinion_20110311.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110311.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110311.pdf. Analysis & Overview\nGas Pains\nGas Pains",
+  "keywords": [
+    "gas",
+    "https",
+    "pains",
+    "full",
+    "pdf",
+    "www.poten.com/gas-pains",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 139,
+  "source_path": "reports/poten/2011/poten_unknown-01-01_gas_pains.md",
+  "source_url": "https://www.poten.com/gas-pains/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains__s01_poten_tanker_opinion_gas_pains",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains__root",
+      "title": "Poten Tanker Opinion: Gas Pains",
+      "section_path": [
+        "Poten Tanker Opinion: Gas Pains"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Gas Pains",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/gas-pains/](https://www.poten.com/gas-pains/)\n**Full PDF Report**: [Tanker_Opinion_20110311.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20110311.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20110311.pdf.",
+      "keywords": [
+        "gas",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/gas-pains",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_gas_pains__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "gas",
+        "pains"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

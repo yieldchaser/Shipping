@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Decisions, Decisions â€¦",
+  "section_path": [
+    "Poten Tanker Opinion: Decisions, Decisions â€¦"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Decisions, Decisions â€¦",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Decisions, Decisions â€¦\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/decisions-decisions/](https://www.poten.com/decisions-decisions/)\n**Full PDF Report**: [Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf](http://www.poten.com/wp-content/uploads/2019/03/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf. Analysis & Overview\nDecisions, Decisions â€¦\n1 March 2019: The tanker market is at somewhat of a crossroads:Â Trade flows are changing due to rapidly growing exports from the U.S. to Asia, one of the longest trade routes in the industry.Â On the other hand, due to regulatory changes, owners are required to make tough choices on how to keep operating...",
+  "keywords": [
+    "decisions",
+    "are",
+    "due",
+    "full",
+    "https",
+    "pdf",
+    "trade",
+    "www.poten.com/decisions-decisions",
+    "analysis",
+    "archived",
+    "asia",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2019/poten_2019-01-01_decisions_decisions.md",
+  "source_url": "https://www.poten.com/decisions-decisions/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions__s01_poten_tanker_opinion_decisions_decisions",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions__root",
+      "title": "Poten Tanker Opinion: Decisions, Decisions â€¦",
+      "section_path": [
+        "Poten Tanker Opinion: Decisions, Decisions â€¦"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Decisions, Decisions â€¦",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/decisions-decisions/](https://www.poten.com/decisions-decisions/)\n**Full PDF Report**: [Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf](http://www.poten.com/wp-content/uploads/2019/03/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-01-March-2019-Decisions-Decisions.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/decisions-decisions",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_decisions_decisions__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Decisions, Decisions â€¦\n1 March 2019: The tanker market is at somewhat of a crossroads:Â Trade flows are changing due to rapidly growing exports from the U.S. to Asia, one of the longest trade routes in the industry.Â On the other hand, due to regulatory changes, owners are required to make tough choices on how to keep operating...",
+      "keywords": [
+        "are",
+        "decisions",
+        "due",
+        "trade",
+        "asia",
+        "changes",
+        "changing",
+        "choices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 84,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

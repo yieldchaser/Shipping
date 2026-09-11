@@ -88,6 +88,7 @@ Does The Buy And Hold Strategy Still Work?
 **Author**: Raza Zoya
 **Published Date**: 2026-02-20
 **Source URL**: [https://www.poten.com/does-the-buy-and-hold-strategy-still-work/](https://www.poten.com/does-the-buy-and-hold-strategy-still-work/)
+**Full PDF Report**: [Weekly Opinion - 20 Feb 2026 - Does The Buy And Hold Strategy Still Work.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2020%20Feb%202026%20-%20Does%20The%20Buy%20And%20Hold%20Strategy%20Still%20Work.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

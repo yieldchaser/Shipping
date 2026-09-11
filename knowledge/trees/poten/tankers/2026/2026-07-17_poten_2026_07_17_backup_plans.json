@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 267,
+  "token_count": 341,
   "source_path": "reports/poten/2026/poten_2026-07-17_backup_plans.md",
   "source_url": "https://www.poten.com/backup-plans-2/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Backup Plans",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-07-17\n**Source URL**: [https://www.poten.com/backup-plans-2/](https://www.poten.com/backup-plans-2/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Daniella Green\n**Published Date**: 2026-07-17\n**Source URL**: [https://www.poten.com/backup-plans-2/](https://www.poten.com/backup-plans-2/)\n**Full PDF Report**: [Weekly Opinion - 17 July 2026 - Backup Plans.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20July%202026%20-%20Backup%20Plans.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
-        "author",
-        "date",
         "https",
-        "published",
-        "summary",
-        "www.poten.com/backup-plans-2",
-        "analysis",
-        "archived"
+        "author",
+        "backup",
+        "date",
+        "july",
+        "opinion",
+        "plans.pdf",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 89,
+      "token_count": 163,
       "section_type": null,
       "children": []
     },

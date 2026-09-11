@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Stocking Slippage",
+  "section_path": [
+    "Poten Tanker Opinion: Stocking Slippage"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Stocking Slippage",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Stocking Slippage\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/stocking-slippage/](https://www.poten.com/stocking-slippage/)\n**Full PDF Report**: [Tanker_Opinion_20091224.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20091224.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20091224.pdf. Analysis & Overview\nStocking Slippage\nStocking Slippage",
+  "keywords": [
+    "https",
+    "slippage",
+    "stocking",
+    "full",
+    "pdf",
+    "www.poten.com/stocking-slippage",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 149,
+  "source_path": "reports/poten/2009/poten_unknown-01-01_stocking_slippage.md",
+  "source_url": "https://www.poten.com/stocking-slippage/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage__s01_poten_tanker_opinion_stocking_slippage",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage__root",
+      "title": "Poten Tanker Opinion: Stocking Slippage",
+      "section_path": [
+        "Poten Tanker Opinion: Stocking Slippage"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Stocking Slippage",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/stocking-slippage/](https://www.poten.com/stocking-slippage/)\n**Full PDF Report**: [Tanker_Opinion_20091224.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20091224.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20091224.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/stocking-slippage",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_stocking_slippage__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "slippage",
+        "stocking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

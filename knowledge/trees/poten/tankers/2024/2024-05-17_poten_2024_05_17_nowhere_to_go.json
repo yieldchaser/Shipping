@@ -1,0 +1,83 @@
+{
+  "node_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go__root",
+  "doc_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Nowhere To Go",
+  "section_path": [
+    "Poten Tanker Opinion: Nowhere To Go"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Nowhere To Go",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Nowhere To Go\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-05-17\n**Source URL**: [https://www.poten.com/nowhere-to-go/](https://www.poten.com/nowhere-to-go/)\n**Full PDF Report**: [Weekly Opinion -17 May 2024 - Nowhere To Go.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-17%20May%202024%20-%20Nowhere%20To%20Go.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -17 May 2024 - Nowhere To Go.pdf. Analysis & Overview\nNowhere To Go\nNowhere To Go",
+  "keywords": [
+    "nowhere",
+    "opinion",
+    "https",
+    "may",
+    "full",
+    "go.pdf",
+    "pdf",
+    "www.poten.com/nowhere-to-go",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 185,
+  "source_path": "reports/poten/2024/poten_2024-05-17_nowhere_to_go.md",
+  "source_url": "https://www.poten.com/nowhere-to-go/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go__s01_poten_tanker_opinion_nowhere_to_go",
+      "doc_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go",
+      "parent_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go__root",
+      "title": "Poten Tanker Opinion: Nowhere To Go",
+      "section_path": [
+        "Poten Tanker Opinion: Nowhere To Go"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Nowhere To Go",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-05-17\n**Source URL**: [https://www.poten.com/nowhere-to-go/](https://www.poten.com/nowhere-to-go/)\n**Full PDF Report**: [Weekly Opinion -17 May 2024 - Nowhere To Go.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-17%20May%202024%20-%20Nowhere%20To%20Go.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -17 May 2024 - Nowhere To Go.pdf.",
+      "keywords": [
+        "https",
+        "may",
+        "nowhere",
+        "opinion",
+        "full",
+        "go.pdf",
+        "pdf",
+        "www.poten.com/nowhere-to-go"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go",
+      "parent_id": "poten_tankers_2024-05-17_poten_2024_05_17_nowhere_to_go__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Nowhere To Go\nNowhere To Go",
+      "keywords": [
+        "nowhere"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

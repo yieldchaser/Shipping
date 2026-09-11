@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Repositioning â€œEmptiesâ€�",
+  "section_path": [
+    "Poten Tanker Opinion: Repositioning â€œEmptiesâ€�"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Repositioning â€œEmptiesâ€�",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Repositioning â€œEmptiesâ€�\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/repositioning-empties/](https://www.poten.com/repositioning-empties/)\n**Full PDF Report**: [Weekly-Opinion-14-December-2018-Repositioning-Empties.pdf](http://www.poten.com/wp-content/uploads/2018/12/Weekly-Opinion-14-December-2018-Repositioning-Empties.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-14-December-2018-Repositioning-Empties.pdf. Analysis & Overview\nRepositioning â€œEmptiesâ€�\n14 December 2018:Â One of the challenges in the container shipping industry is the need to reposition empty containers (â€œemptiesâ€�) as a result of global trade imbalances. For example, there are twice as many containers moving from Asia to the United States than vice versa, so more than half the slots of containerships leaving the U.S....",
+  "keywords": [
+    "container",
+    "empties",
+    "containers",
+    "full",
+    "https",
+    "pdf",
+    "repositioning",
+    "www.poten.com/repositioning-empties",
+    "analysis",
+    "archived",
+    "are",
+    "asia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 269,
+  "source_path": "reports/poten/2018/poten_2018-01-01_repositioning_empties.md",
+  "source_url": "https://www.poten.com/repositioning-empties/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties__s01_poten_tanker_opinion_repositioning_empties",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties__root",
+      "title": "Poten Tanker Opinion: Repositioning â€œEmptiesâ€�",
+      "section_path": [
+        "Poten Tanker Opinion: Repositioning â€œEmptiesâ€�"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Repositioning â€œEmptiesâ€�",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/repositioning-empties/](https://www.poten.com/repositioning-empties/)\n**Full PDF Report**: [Weekly-Opinion-14-December-2018-Repositioning-Empties.pdf](http://www.poten.com/wp-content/uploads/2018/12/Weekly-Opinion-14-December-2018-Repositioning-Empties.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-14-December-2018-Repositioning-Empties.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/repositioning-empties",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_repositioning_empties__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Repositioning â€œEmptiesâ€�\n14 December 2018:Â One of the challenges in the container shipping industry is the need to reposition empty containers (â€œemptiesâ€�) as a result of global trade imbalances. For example, there are twice as many containers moving from Asia to the United States than vice versa, so more than half the slots of containerships leaving the U.S....",
+      "keywords": [
+        "container",
+        "containers",
+        "empties",
+        "are",
+        "asia",
+        "challenges",
+        "containerships",
+        "december"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

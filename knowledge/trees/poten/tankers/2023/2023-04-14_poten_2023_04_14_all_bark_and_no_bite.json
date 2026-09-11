@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite__root",
+  "doc_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: All Bark and No Bite",
+  "section_path": [
+    "Poten Tanker Opinion: All Bark and No Bite"
+  ],
+  "section_path_text": "Poten Tanker Opinion: All Bark and No Bite",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: All Bark and No Bite\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-04-14\n**Source URL**: [https://www.poten.com/tanker-opinion-all-bark-and-no-bite-april-2023/](https://www.poten.com/tanker-opinion-all-bark-and-no-bite-april-2023/)\n**Full PDF Report**: [Weekly Opinion - 14 April 2023 - All Bark And No Bite.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20April%202023%20-%20All%20Bark%20And%20No%20Bite.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 14 April 2023 - All Bark And No Bite.pdf. Analysis & Overview\nAll Bark and No Bite\nAll Bark and No Bite",
+  "keywords": [
+    "all",
+    "bark",
+    "opinion",
+    "april",
+    "bite",
+    "https",
+    "bite.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-all-bark-and-no-bite-april-2023",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 222,
+  "source_path": "reports/poten/2023/poten_2023-04-14_all_bark_and_no_bite.md",
+  "source_url": "https://www.poten.com/tanker-opinion-all-bark-and-no-bite-april-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite__s01_poten_tanker_opinion_all_bark_and_no_bite",
+      "doc_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite",
+      "parent_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite__root",
+      "title": "Poten Tanker Opinion: All Bark and No Bite",
+      "section_path": [
+        "Poten Tanker Opinion: All Bark and No Bite"
+      ],
+      "section_path_text": "Poten Tanker Opinion: All Bark and No Bite",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-04-14\n**Source URL**: [https://www.poten.com/tanker-opinion-all-bark-and-no-bite-april-2023/](https://www.poten.com/tanker-opinion-all-bark-and-no-bite-april-2023/)\n**Full PDF Report**: [Weekly Opinion - 14 April 2023 - All Bark And No Bite.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2014%20April%202023%20-%20All%20Bark%20And%20No%20Bite.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 14 April 2023 - All Bark And No Bite.pdf.",
+      "keywords": [
+        "all",
+        "april",
+        "bark",
+        "https",
+        "opinion",
+        "bite.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite",
+      "parent_id": "poten_tankers_2023-04-14_poten_2023_04_14_all_bark_and_no_bite__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "All Bark and No Bite\nAll Bark and No Bite",
+      "keywords": [
+        "all",
+        "bark",
+        "bite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

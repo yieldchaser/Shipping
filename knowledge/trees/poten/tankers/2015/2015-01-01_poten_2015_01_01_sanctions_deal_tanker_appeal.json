@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Sanctions Deal, Tanker Appeal",
+  "section_path": [
+    "Poten Tanker Opinion: Sanctions Deal, Tanker Appeal"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Sanctions Deal, Tanker Appeal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Sanctions Deal, Tanker Appeal\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/sanctions-deal-tanker-appeal/](https://www.poten.com/sanctions-deal-tanker-appeal/)\n**Full PDF Report**: [Weekly-Opinion-July-17-2015-Iran-Sanctions.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-17-2015-Iran-Sanctions.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-17-2015-Iran-Sanctions.pdf. Analysis & Overview\nSanctions Deal, Tanker Appeal\n17 Jul 2015: What is the impact of the Iran deal on the tanker market? Â On July 14, the P5+1 (5 permanent members of the UN Security Council plus Germany) announced that they reached an agreement with the Iranian government on sanctions relief in exchange for compliance of Iran with a series of requirements which...",
+  "keywords": [
+    "deal",
+    "https",
+    "sanctions",
+    "appeal",
+    "full",
+    "iran",
+    "pdf",
+    "www.poten.com/sanctions-deal-tanker-appeal",
+    "agreement",
+    "analysis",
+    "announced",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 255,
+  "source_path": "reports/poten/2015/poten_2015-01-01_sanctions_deal_tanker_appeal.md",
+  "source_url": "https://www.poten.com/sanctions-deal-tanker-appeal/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal__s01_poten_tanker_opinion_sanctions_deal_tanker_appeal",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal__root",
+      "title": "Poten Tanker Opinion: Sanctions Deal, Tanker Appeal",
+      "section_path": [
+        "Poten Tanker Opinion: Sanctions Deal, Tanker Appeal"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Sanctions Deal, Tanker Appeal",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/sanctions-deal-tanker-appeal/](https://www.poten.com/sanctions-deal-tanker-appeal/)\n**Full PDF Report**: [Weekly-Opinion-July-17-2015-Iran-Sanctions.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/07/Weekly-Opinion-July-17-2015-Iran-Sanctions.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-July-17-2015-Iran-Sanctions.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/sanctions-deal-tanker-appeal",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_sanctions_deal_tanker_appeal__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Sanctions Deal, Tanker Appeal\n17 Jul 2015: What is the impact of the Iran deal on the tanker market? Â On July 14, the P5+1 (5 permanent members of the UN Security Council plus Germany) announced that they reached an agreement with the Iranian government on sanctions relief in exchange for compliance of Iran with a series of requirements which...",
+      "keywords": [
+        "deal",
+        "iran",
+        "sanctions",
+        "agreement",
+        "announced",
+        "appeal",
+        "compliance",
+        "council"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

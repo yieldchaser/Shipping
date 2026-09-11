@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Backyard Barrels",
+  "section_path": [
+    "Poten Tanker Opinion: Backyard Barrels"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Backyard Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Backyard Barrels\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/backyard-barrels/](https://www.poten.com/backyard-barrels/)\n**Full PDF Report**: [Weekly-Opinion-26-October-2018-Backyard-Barrels.pdf](http://www.poten.com/wp-content/uploads/2018/10/Weekly-Opinion-26-October-2018-Backyard-Barrels.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-26-October-2018-Backyard-Barrels.pdf. Analysis & Overview\nBackyard Barrels\n26 October 2018:Â Sometimes things just work out.Â Until 2006, the United States was a significant (and growing) net importer of refined products.Â U.S. imports of petroleum products peaked at the end of 2005 at 4.5 million barrels per day (b/d).Â At the same time, U.S.",
+  "keywords": [
+    "products",
+    "barrels",
+    "backyard",
+    "full",
+    "https",
+    "million",
+    "pdf",
+    "refined",
+    "u.s.",
+    "www.poten.com/backyard-barrels",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 259,
+  "source_path": "reports/poten/2018/poten_2018-01-01_backyard_barrels.md",
+  "source_url": "https://www.poten.com/backyard-barrels/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels__s01_poten_tanker_opinion_backyard_barrels",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels__root",
+      "title": "Poten Tanker Opinion: Backyard Barrels",
+      "section_path": [
+        "Poten Tanker Opinion: Backyard Barrels"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Backyard Barrels",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/backyard-barrels/](https://www.poten.com/backyard-barrels/)\n**Full PDF Report**: [Weekly-Opinion-26-October-2018-Backyard-Barrels.pdf](http://www.poten.com/wp-content/uploads/2018/10/Weekly-Opinion-26-October-2018-Backyard-Barrels.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-26-October-2018-Backyard-Barrels.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/backyard-barrels",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_backyard_barrels__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Backyard Barrels\n26 October 2018:Â Sometimes things just work out.Â Until 2006, the United States was a significant (and growing) net importer of refined products.Â U.S. imports of petroleum products peaked at the end of 2005 at 4.5 million barrels per day (b/d).Â At the same time, U.S.",
+      "keywords": [
+        "products",
+        "barrels",
+        "million",
+        "refined",
+        "u.s.",
+        "b/d",
+        "b/d.",
+        "backyard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 103,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: EXPENSIVE GAS FOR THE GOLDEN STATE",
+  "section_path": [
+    "Poten Tanker Opinion: EXPENSIVE GAS FOR THE GOLDEN STATE"
+  ],
+  "section_path_text": "Poten Tanker Opinion: EXPENSIVE GAS FOR THE GOLDEN STATE",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: EXPENSIVE GAS FOR THE GOLDEN STATE\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/expensive-gas-for-the-golden-state/](https://www.poten.com/expensive-gas-for-the-golden-state/)\n**Full PDF Report**: [Weekly-Opinion-08-November-2019-Expensive-Gas-for-the-Golden-State.pdf](http://www.poten.com/wp-content/uploads/2019/11/Weekly-Opinion-08-November-2019-Expensive-Gas-for-the-Golden-State.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-08-November-2019-Expensive-Gas-for-the-Golden-State.pdf. Analysis & Overview\nEXPENSIVE GAS FOR THE GOLDEN STATE\n8 Nov 2019: California Refinery Outages Help Product Tankers California has regularly been on the front pages of the newspapers in recent weeks with the forest fires that raged in several locations and with deliberate power outages meant to prevent additional fires. Much less prominent, there were some news reports of several tankers diverting gasoline...",
+  "keywords": [
+    "products",
+    "gas",
+    "california",
+    "expensive",
+    "full",
+    "golden",
+    "https",
+    "outages",
+    "pdf",
+    "several",
+    "state",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 273,
+  "source_path": "reports/poten/2019/poten_2019-01-01_expensive_gas_for_the_golden_state.md",
+  "source_url": "https://www.poten.com/expensive-gas-for-the-golden-state/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state__s01_poten_tanker_opinion_expensive_gas_for_the_golden_state",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state__root",
+      "title": "Poten Tanker Opinion: EXPENSIVE GAS FOR THE GOLDEN STATE",
+      "section_path": [
+        "Poten Tanker Opinion: EXPENSIVE GAS FOR THE GOLDEN STATE"
+      ],
+      "section_path_text": "Poten Tanker Opinion: EXPENSIVE GAS FOR THE GOLDEN STATE",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/expensive-gas-for-the-golden-state/](https://www.poten.com/expensive-gas-for-the-golden-state/)\n**Full PDF Report**: [Weekly-Opinion-08-November-2019-Expensive-Gas-for-the-Golden-State.pdf](http://www.poten.com/wp-content/uploads/2019/11/Weekly-Opinion-08-November-2019-Expensive-Gas-for-the-Golden-State.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-08-November-2019-Expensive-Gas-for-the-Golden-State.pdf.",
+      "keywords": [
+        "gas",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/expensive-gas-for-the-golden-state",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_expensive_gas_for_the_golden_state__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "EXPENSIVE GAS FOR THE GOLDEN STATE\n8 Nov 2019: California Refinery Outages Help Product Tankers California has regularly been on the front pages of the newspapers in recent weeks with the forest fires that raged in several locations and with deliberate power outages meant to prevent additional fires. Much less prominent, there were some news reports of several tankers diverting gasoline...",
+      "keywords": [
+        "products",
+        "gas",
+        "california",
+        "outages",
+        "several",
+        "tankers",
+        "additional",
+        "deliberate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

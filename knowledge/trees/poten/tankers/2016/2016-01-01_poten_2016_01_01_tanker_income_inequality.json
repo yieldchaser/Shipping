@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Tanker Income Inequality",
+  "section_path": [
+    "Poten Tanker Opinion: Tanker Income Inequality"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Tanker Income Inequality",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Tanker Income Inequality\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/tanker-income-inequality/](https://www.poten.com/tanker-income-inequality/)\n**Full PDF Report**: [Weekly-Opinion-April-15-2016-Tanker-Income-Inequality.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/04/Weekly-Opinion-April-15-2016-Tanker-Income-Inequality.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-April-15-2016-Tanker-Income-Inequality.pdf. Analysis & Overview\nTanker Income Inequality\n15 April 2016: Typically, the Suezmax and VLCC markets behave somewhat similarly over a period of time. However, in Q1 of 2016 we have experienced a significant divergence in rates between the two segments.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "meg",
+    "japan",
+    "https",
+    "full",
+    "income",
+    "inequality",
+    "pdf",
+    "www.poten.com/tanker-income-inequality",
+    "analysis",
+    "april"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 250,
+  "source_path": "reports/poten/2016/poten_2016-01-01_tanker_income_inequality.md",
+  "source_url": "https://www.poten.com/tanker-income-inequality/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality__s01_poten_tanker_opinion_tanker_income_inequality",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality__root",
+      "title": "Poten Tanker Opinion: Tanker Income Inequality",
+      "section_path": [
+        "Poten Tanker Opinion: Tanker Income Inequality"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Tanker Income Inequality",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/tanker-income-inequality/](https://www.poten.com/tanker-income-inequality/)\n**Full PDF Report**: [Weekly-Opinion-April-15-2016-Tanker-Income-Inequality.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/04/Weekly-Opinion-April-15-2016-Tanker-Income-Inequality.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-April-15-2016-Tanker-Income-Inequality.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-income-inequality",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_tanker_income_inequality__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Tanker Income Inequality\n15 April 2016: Typically, the Suezmax and VLCC markets behave somewhat similarly over a period of time. However, in Q1 of 2016 we have experienced a significant divergence in rates between the two segments.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "meg",
+        "japan",
+        "april",
+        "arabian",
+        "average",
+        "behave"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

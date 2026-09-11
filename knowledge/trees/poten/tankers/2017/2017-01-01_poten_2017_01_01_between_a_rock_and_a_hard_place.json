@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Between a Rock and a Hard Place",
+  "section_path": [
+    "Poten Tanker Opinion: Between a Rock and a Hard Place"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Between a Rock and a Hard Place",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Between a Rock and a Hard Place\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/between_a_rock_and_a-hard_place/](https://www.poten.com/between_a_rock_and_a-hard_place/)\n**Full PDF Report**: [Weekly-Opinion-14-July-2017-Between-a-Rock-and-a-Hard-Place.pdf](http://www.poten.com/wp-content/uploads/2017/07/Weekly-Opinion-14-July-2017-Between-a-Rock-and-a-Hard-Place.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-14-July-2017-Between-a-Rock-and-a-Hard-Place.pdf. Analysis & Overview\nBetween a Rock and a Hard Place\n14 Jul 2017:Â As the tanker market suffers through its typical summer doldrums, shipowners are looking around for glimmers of hope that indicate that rates may improve in the coming months.Â OPEC members are experiencing a similarly uninspiring market, facing stubbornly low oil prices due to an oversupplied market.Â Unfortunately, a solution that could improve OPECâ€™s...",
+  "keywords": [
+    "crude_oil",
+    "are",
+    "between",
+    "full",
+    "hard",
+    "https",
+    "improve",
+    "opec",
+    "pdf",
+    "place",
+    "rock",
+    "www.poten.com/between_a_rock_and_a-hard_place"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 284,
+  "source_path": "reports/poten/2017/poten_2017-01-01_between_a_rock_and_a_hard_place.md",
+  "source_url": "https://www.poten.com/between_a_rock_and_a-hard_place/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place__s01_poten_tanker_opinion_between_a_rock_and_a_hard_place",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place__root",
+      "title": "Poten Tanker Opinion: Between a Rock and a Hard Place",
+      "section_path": [
+        "Poten Tanker Opinion: Between a Rock and a Hard Place"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Between a Rock and a Hard Place",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/between_a_rock_and_a-hard_place/](https://www.poten.com/between_a_rock_and_a-hard_place/)\n**Full PDF Report**: [Weekly-Opinion-14-July-2017-Between-a-Rock-and-a-Hard-Place.pdf](http://www.poten.com/wp-content/uploads/2017/07/Weekly-Opinion-14-July-2017-Between-a-Rock-and-a-Hard-Place.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-14-July-2017-Between-a-Rock-and-a-Hard-Place.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/between_a_rock_and_a-hard_place",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_between_a_rock_and_a_hard_place__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Between a Rock and a Hard Place\n14 Jul 2017:Â As the tanker market suffers through its typical summer doldrums, shipowners are looking around for glimmers of hope that indicate that rates may improve in the coming months.Â OPEC members are experiencing a similarly uninspiring market, facing stubbornly low oil prices due to an oversupplied market.Â Unfortunately, a solution that could improve OPECâ€™s...",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "improve",
+        "opec",
+        "around",
+        "between",
+        "coming",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

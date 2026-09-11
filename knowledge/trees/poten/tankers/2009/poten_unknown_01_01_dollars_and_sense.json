@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Dollars and Sense",
+  "section_path": [
+    "Poten Tanker Opinion: Dollars and Sense"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Dollars and Sense",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Dollars and Sense\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/dollars-and-sense/](https://www.poten.com/dollars-and-sense/)\n**Full PDF Report**: [Tanker_Opinion_20090626.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090626.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20090626.pdf. Analysis & Overview\nDollars and Sense\nDollars and Sense",
+  "keywords": [
+    "dollars",
+    "https",
+    "sense",
+    "full",
+    "pdf",
+    "www.poten.com/dollars-and-sense",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 147,
+  "source_path": "reports/poten/2009/poten_unknown-01-01_dollars_and_sense.md",
+  "source_url": "https://www.poten.com/dollars-and-sense/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense__s01_poten_tanker_opinion_dollars_and_sense",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense__root",
+      "title": "Poten Tanker Opinion: Dollars and Sense",
+      "section_path": [
+        "Poten Tanker Opinion: Dollars and Sense"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Dollars and Sense",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/dollars-and-sense/](https://www.poten.com/dollars-and-sense/)\n**Full PDF Report**: [Tanker_Opinion_20090626.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090626.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20090626.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/dollars-and-sense",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_dollars_and_sense__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Dollars and Sense\nDollars and Sense",
+      "keywords": [
+        "dollars",
+        "sense"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

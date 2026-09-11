@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Post-Sandy Focus Shifting to Distillate Markets",
+  "section_path": [
+    "Poten Tanker Opinion: Post-Sandy Focus Shifting to Distillate Markets"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Post-Sandy Focus Shifting to Distillate Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Post-Sandy Focus Shifting to Distillate Markets\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/post-sandy-focus-shifting-to-distillate-markets/](https://www.poten.com/post-sandy-focus-shifting-to-distillate-markets/)\n**Full PDF Report**: [Tanker_Opinion_20121110.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121110.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121110.pdf. Analysis & Overview\nPost-Sandy Focus Shifting to Distillate Markets\nPost-Sandy Focus Shifting to Distillate Markets",
+  "keywords": [
+    "distillate",
+    "focus",
+    "https",
+    "markets",
+    "post-sandy",
+    "shifting",
+    "full",
+    "pdf",
+    "www.poten.com/post-sandy-focus-shifting-to-distillate-markets",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 179,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_post-sandy_focus_shifting_to_distillate_markets.md",
+  "source_url": "https://www.poten.com/post-sandy-focus-shifting-to-distillate-markets/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets__s01_poten_tanker_opinion_post_sandy_focus_shifting_to_distillate_markets",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Poten Tanker Opinion: Post-Sandy Focus Shifting to Distillate Markets",
+      "section_path": [
+        "Poten Tanker Opinion: Post-Sandy Focus Shifting to Distillate Markets"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Post-Sandy Focus Shifting to Distillate Markets",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/post-sandy-focus-shifting-to-distillate-markets/](https://www.poten.com/post-sandy-focus-shifting-to-distillate-markets/)\n**Full PDF Report**: [Tanker_Opinion_20121110.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121110.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121110.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/post-sandy-focus-shifting-to-distillate-markets",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_post_sandy_focus_shifting_to_distillate_markets__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Post-Sandy Focus Shifting to Distillate Markets\nPost-Sandy Focus Shifting to Distillate Markets",
+      "keywords": [
+        "distillate",
+        "focus",
+        "markets",
+        "post-sandy",
+        "shifting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

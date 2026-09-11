@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Not So Fast….",
+  "section_path": [
+    "Poten Tanker Opinion: Not So Fast…."
+  ],
+  "section_path_text": "Poten Tanker Opinion: Not So Fast….",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Not So Fast…. **Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-5-august-2022-not-so-fast/](https://www.poten.com/tanker-opinion-5-august-2022-not-so-fast/)\n**Full PDF Report**: [Weekly-Opinion-5-August-2022-Not-So-Fast-.pdf](https://www.poten.com/wp-content/uploads/2022/08/Weekly-Opinion-5-August-2022-Not-So-Fast-.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-5-August-2022-Not-So-Fast-.pdf. Analysis & Overview\nNot So Fast….",
+  "keywords": [
+    "fast",
+    "https",
+    "not",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-5-august-2022-not-so-fast",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 193,
+  "source_path": "reports/poten/2022/poten_2022-01-01_not_so_fast.md",
+  "source_url": "https://www.poten.com/tanker-opinion-5-august-2022-not-so-fast/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast__s01_poten_tanker_opinion_not_so_fast",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast__root",
+      "title": "Poten Tanker Opinion: Not So Fast….",
+      "section_path": [
+        "Poten Tanker Opinion: Not So Fast…."
+      ],
+      "section_path_text": "Poten Tanker Opinion: Not So Fast….",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-5-august-2022-not-so-fast/](https://www.poten.com/tanker-opinion-5-august-2022-not-so-fast/)\n**Full PDF Report**: [Weekly-Opinion-5-August-2022-Not-So-Fast-.pdf](https://www.poten.com/wp-content/uploads/2022/08/Weekly-Opinion-5-August-2022-Not-So-Fast-.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-5-August-2022-Not-So-Fast-.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-5-august-2022-not-so-fast",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_not_so_fast__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "fast",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

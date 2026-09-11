@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 331,
+  "token_count": 415,
   "source_path": "reports/poten/2026/poten_2026-06-05_a_strait-up_fuel_shock.md",
   "source_url": "https://www.poten.com/a-strait-up-fuel-shock/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: A Strait-Up Fuel Shock",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-06-05\n**Source URL**: [https://www.poten.com/a-strait-up-fuel-shock/](https://www.poten.com/a-strait-up-fuel-shock/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-06-05\n**Source URL**: [https://www.poten.com/a-strait-up-fuel-shock/](https://www.poten.com/a-strait-up-fuel-shock/)\n**Full PDF Report**: [Weekly Opinion - 5 June 2026 - A Strait-Up Fuel Shock.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%205%20June%202026%20-%20A%20Strait-Up%20Fuel%20Shock.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
+        "https",
         "author",
         "date",
-        "https",
+        "fuel",
+        "june",
+        "opinion",
         "published",
-        "summary",
-        "www.poten.com/a-strait-up-fuel-shock",
-        "analysis",
-        "archived"
+        "shock.pdf"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 95,
+      "token_count": 179,
       "section_type": null,
       "children": []
     },

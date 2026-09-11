@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy__root",
+  "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Tankers Br(exit) Strategy",
+  "section_path": [
+    "Poten Tanker Opinion: Tankers Br(exit) Strategy"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Tankers Br(exit) Strategy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Tankers Br(exit) Strategy\n**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/tankers-brexit-strategy/](https://www.poten.com/tankers-brexit-strategy/)\n**Full PDF Report**: [Weekly-Opinion-24-June-2016-Tankers-Brexit-Strategy.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/06/Weekly-Opinion-24-June-2016-Tankers-Brexit-Strategy.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-24-June-2016-Tankers-Brexit-Strategy.pdf. Analysis & Overview\nTankers Br(exit) Strategy\n24 Jun 2016:Â On a lazy summer day (in New York at least), the world woke up to the news that voters in the United Kingdom voted to leave the European Union after being a member since 1973. As most people worldwide expected the â€˜Remainâ€™ camp to prevail in the end, the Exit vote came...",
+  "keywords": [
+    "europe",
+    "exit",
+    "https",
+    "full",
+    "pdf",
+    "strategy",
+    "tankers",
+    "www.poten.com/tankers-brexit-strategy",
+    "after",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 261,
+  "source_path": "reports/poten/2016/poten_2016-01-01_tankers_br_exit_strategy.md",
+  "source_url": "https://www.poten.com/tankers-brexit-strategy/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy__s01_poten_tanker_opinion_tankers_br_exit_strategy",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy__root",
+      "title": "Poten Tanker Opinion: Tankers Br(exit) Strategy",
+      "section_path": [
+        "Poten Tanker Opinion: Tankers Br(exit) Strategy"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Tankers Br(exit) Strategy",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2016-01-01\n**Source URL**: [https://www.poten.com/tankers-brexit-strategy/](https://www.poten.com/tankers-brexit-strategy/)\n**Full PDF Report**: [Weekly-Opinion-24-June-2016-Tankers-Brexit-Strategy.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2016/06/Weekly-Opinion-24-June-2016-Tankers-Brexit-Strategy.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2016/Weekly-Opinion-24-June-2016-Tankers-Brexit-Strategy.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tankers-brexit-strategy",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy__s02_analysis_overview",
+      "doc_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy",
+      "parent_id": "poten_tankers_2016-01-01_poten_2016_01_01_tankers_br_exit_strategy__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Tankers Br(exit) Strategy\n24 Jun 2016:Â On a lazy summer day (in New York at least), the world woke up to the news that voters in the United Kingdom voted to leave the European Union after being a member since 1973. As most people worldwide expected the â€˜Remainâ€™ camp to prevail in the end, the Exit vote came...",
+      "keywords": [
+        "europe",
+        "exit",
+        "after",
+        "being",
+        "came...",
+        "camp",
+        "day",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

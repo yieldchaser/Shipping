@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Force Awakens",
+  "section_path": [
+    "Poten Tanker Opinion: The Force Awakens"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Force Awakens",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Force Awakens\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/the-force-awakens/](https://www.poten.com/the-force-awakens/)\n**Full PDF Report**: [Weekly-Opinion-December-18-2015-The-Force-Awakens.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/12/Weekly-Opinion-December-18-2015-The-Force-Awakens.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-December-18-2015-The-Force-Awakens.pdf. Analysis & Overview\nThe Force Awakens\n18 Dec 2015: Â U.S. crude oil exports will change the oil and tanker market.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "oil",
+    "u.s.",
+    "awakens",
+    "crude",
+    "force",
+    "full",
+    "pdf",
+    "www.poten.com/the-force-awakens",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 247,
+  "source_path": "reports/poten/2015/poten_2015-01-01_the_force_awakens.md",
+  "source_url": "https://www.poten.com/the-force-awakens/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens__s01_poten_tanker_opinion_the_force_awakens",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens__root",
+      "title": "Poten Tanker Opinion: The Force Awakens",
+      "section_path": [
+        "Poten Tanker Opinion: The Force Awakens"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Force Awakens",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/the-force-awakens/](https://www.poten.com/the-force-awakens/)\n**Full PDF Report**: [Weekly-Opinion-December-18-2015-The-Force-Awakens.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/12/Weekly-Opinion-December-18-2015-The-Force-Awakens.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-December-18-2015-The-Force-Awakens.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/the-force-awakens",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_the_force_awakens__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Force Awakens\n18 Dec 2015: Â U.S. crude oil exports will change the oil and tanker market.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "u.s.",
+        "crude",
+        "awakens",
+        "ban",
+        "bill",
+        "change"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 83,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

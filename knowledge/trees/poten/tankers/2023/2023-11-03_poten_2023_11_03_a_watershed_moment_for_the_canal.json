@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal__root",
+  "doc_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Watershed Moment For The Canal",
+  "section_path": [
+    "Poten Tanker Opinion: A Watershed Moment For The Canal"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Watershed Moment For The Canal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Watershed Moment For The Canal\n**Author**: Erik Broekhuizen\n**Published Date**: 2023-11-03\n**Source URL**: [https://www.poten.com/tanker-opinions-a-watershed-moment-for-the-canal-november-3-2023/](https://www.poten.com/tanker-opinions-a-watershed-moment-for-the-canal-november-3-2023/)\n**Full PDF Report**: [Weekly Opinion - 3 November 2023 - A Watershed Moment For The Canal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%203%20November%202023%20-%20A%20Watershed%20Moment%20For%20The%20Canal.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 3 November 2023 - A Watershed Moment For The Canal.pdf. Analysis & Overview\nA Watershed Moment For The Canal\nA Watershed Moment For The Canal",
+  "keywords": [
+    "moment",
+    "watershed",
+    "opinion",
+    "canal",
+    "https",
+    "november",
+    "canal.pdf",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-a-watershed-moment-for-the-canal-november-3-2023",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 247,
+  "source_path": "reports/poten/2023/poten_2023-11-03_a_watershed_moment_for_the_canal.md",
+  "source_url": "https://www.poten.com/tanker-opinions-a-watershed-moment-for-the-canal-november-3-2023/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal__s01_poten_tanker_opinion_a_watershed_moment_for_the_canal",
+      "doc_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal",
+      "parent_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal__root",
+      "title": "Poten Tanker Opinion: A Watershed Moment For The Canal",
+      "section_path": [
+        "Poten Tanker Opinion: A Watershed Moment For The Canal"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Watershed Moment For The Canal",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2023-11-03\n**Source URL**: [https://www.poten.com/tanker-opinions-a-watershed-moment-for-the-canal-november-3-2023/](https://www.poten.com/tanker-opinions-a-watershed-moment-for-the-canal-november-3-2023/)\n**Full PDF Report**: [Weekly Opinion - 3 November 2023 - A Watershed Moment For The Canal.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%203%20November%202023%20-%20A%20Watershed%20Moment%20For%20The%20Canal.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2023/Weekly Opinion - 3 November 2023 - A Watershed Moment For The Canal.pdf.",
+      "keywords": [
+        "https",
+        "moment",
+        "november",
+        "opinion",
+        "watershed",
+        "canal.pdf",
+        "full",
+        "pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal__s02_analysis_overview",
+      "doc_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal",
+      "parent_id": "poten_tankers_2023-11-03_poten_2023_11_03_a_watershed_moment_for_the_canal__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Watershed Moment For The Canal\nA Watershed Moment For The Canal",
+      "keywords": [
+        "canal",
+        "moment",
+        "watershed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

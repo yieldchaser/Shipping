@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 304,
+  "token_count": 397,
   "source_path": "reports/poten/2026/poten_2026-07-24_another_brick_in_the_wall.md",
   "source_url": "https://www.poten.com/another-brick-in-the-wall-2/",
   "children": [
@@ -41,20 +41,20 @@
       "section_path_text": "Poten Tanker Opinion: Another Brick In The Wall",
       "level": 1,
       "ordinal": 1,
-      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-07-24\n**Source URL**: [https://www.poten.com/another-brick-in-the-wall-2/](https://www.poten.com/another-brick-in-the-wall-2/)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2026-07-24\n**Source URL**: [https://www.poten.com/another-brick-in-the-wall-2/](https://www.poten.com/another-brick-in-the-wall-2/)\n**Full PDF Report**: [Weekly Opinion - 24 July 2026 - Another Brick In The Wall v2.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2024%20July%202026%20-%20Another%20Brick%20In%20The%20Wall%20v2.pdf)\n**Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.",
       "keywords": [
-        "author",
-        "date",
         "https",
-        "published",
-        "summary",
-        "www.poten.com/another-brick-in-the-wall-2",
-        "analysis",
-        "archived"
+        "another",
+        "author",
+        "brick",
+        "date",
+        "july",
+        "opinion",
+        "published"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 97,
+      "token_count": 190,
       "section_type": null,
       "children": []
     },

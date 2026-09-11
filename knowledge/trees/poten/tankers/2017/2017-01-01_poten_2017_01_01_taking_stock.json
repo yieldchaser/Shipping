@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Taking Stock",
+  "section_path": [
+    "Poten Tanker Opinion: Taking Stock"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Taking Stock",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Taking Stock\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/taking-stock/](https://www.poten.com/taking-stock/)\n**Full PDF Report**: [Weekly-Opinion-27-October-2017-Taking-Stock.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-27-October-2017-Taking-Stock.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-27-October-2017-Taking-Stock.pdf. Analysis & Overview\nTaking Stock\nTaking Stock",
+  "keywords": [
+    "stock",
+    "taking",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/taking-stock",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 154,
+  "source_path": "reports/poten/2017/poten_2017-01-01_taking_stock.md",
+  "source_url": "https://www.poten.com/taking-stock/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock__s01_poten_tanker_opinion_taking_stock",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock__root",
+      "title": "Poten Tanker Opinion: Taking Stock",
+      "section_path": [
+        "Poten Tanker Opinion: Taking Stock"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Taking Stock",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/taking-stock/](https://www.poten.com/taking-stock/)\n**Full PDF Report**: [Weekly-Opinion-27-October-2017-Taking-Stock.pdf](http://www.poten.com/wp-content/uploads/2017/10/Weekly-Opinion-27-October-2017-Taking-Stock.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-27-October-2017-Taking-Stock.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/taking-stock",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_taking_stock__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "stock",
+        "taking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

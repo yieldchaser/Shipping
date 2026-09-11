@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Shift to Transshipment",
+  "section_path": [
+    "Poten Tanker Opinion: A Shift to Transshipment"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Shift to Transshipment",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Shift to Transshipment\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-shift-to-transshipment/](https://www.poten.com/a-shift-to-transshipment/)\n**Full PDF Report**: [Tanker_Opinion_20120127.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120127.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120127.pdf. Analysis & Overview\nA Shift to Transshipment\nA Shift to Transshipment",
+  "keywords": [
+    "https",
+    "shift",
+    "transshipment",
+    "full",
+    "pdf",
+    "www.poten.com/a-shift-to-transshipment",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 147,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_a_shift_to_transshipment.md",
+  "source_url": "https://www.poten.com/a-shift-to-transshipment/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment__s01_poten_tanker_opinion_a_shift_to_transshipment",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment__root",
+      "title": "Poten Tanker Opinion: A Shift to Transshipment",
+      "section_path": [
+        "Poten Tanker Opinion: A Shift to Transshipment"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Shift to Transshipment",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-shift-to-transshipment/](https://www.poten.com/a-shift-to-transshipment/)\n**Full PDF Report**: [Tanker_Opinion_20120127.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20120127.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20120127.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/a-shift-to-transshipment",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_shift_to_transshipment__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Shift to Transshipment\nA Shift to Transshipment",
+      "keywords": [
+        "shift",
+        "transshipment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

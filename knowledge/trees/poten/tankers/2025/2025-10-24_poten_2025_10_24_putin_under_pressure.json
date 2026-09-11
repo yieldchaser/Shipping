@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure__root",
+  "doc_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Putin Under Pressure",
+  "section_path": [
+    "Poten Tanker Opinion: Putin Under Pressure"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Putin Under Pressure",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Putin Under Pressure\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-10-24\n**Source URL**: [https://www.poten.com/putin-under-pressure/](https://www.poten.com/putin-under-pressure/)\n**Full PDF Report**: [Weekly Opinion - 24 October 2025 - Putin Under Pressure.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2024%20October%202025%20-%20Putin%20Under%20Pressure.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 24 October 2025 - Putin Under Pressure.pdf.",
+  "keywords": [
+    "putin",
+    "opinion",
+    "https",
+    "october",
+    "full",
+    "pdf",
+    "pressure",
+    "pressure.pdf",
+    "www.poten.com/putin-under-pressure",
+    "archived",
+    "authentic",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 177,
+  "source_path": "reports/poten/2025/poten_2025-10-24_putin_under_pressure.md",
+  "source_url": "https://www.poten.com/putin-under-pressure/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure__s01_poten_tanker_opinion_putin_under_pressure",
+      "doc_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure",
+      "parent_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure__root",
+      "title": "Poten Tanker Opinion: Putin Under Pressure",
+      "section_path": [
+        "Poten Tanker Opinion: Putin Under Pressure"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Putin Under Pressure",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-10-24\n**Source URL**: [https://www.poten.com/putin-under-pressure/](https://www.poten.com/putin-under-pressure/)\n**Full PDF Report**: [Weekly Opinion - 24 October 2025 - Putin Under Pressure.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2024%20October%202025%20-%20Putin%20Under%20Pressure.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 24 October 2025 - Putin Under Pressure.pdf.",
+      "keywords": [
+        "https",
+        "october",
+        "opinion",
+        "putin",
+        "full",
+        "pdf",
+        "pressure.pdf",
+        "www.poten.com/putin-under-pressure"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure__s02_overview",
+      "doc_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure",
+      "parent_id": "poten_tankers_2025-10-24_poten_2025_10_24_putin_under_pressure__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "pressure",
+        "putin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

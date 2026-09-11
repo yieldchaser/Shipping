@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: OPEC Quotas Staying Steady",
+  "section_path": [
+    "Poten Tanker Opinion: OPEC Quotas Staying Steady"
+  ],
+  "section_path_text": "Poten Tanker Opinion: OPEC Quotas Staying Steady",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: OPEC Quotas Staying Steady\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/opec-quotas-staying-steady/](https://www.poten.com/opec-quotas-staying-steady/)\n**Full PDF Report**: [Tanker_Opinion_20060908.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20060908.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20060908.pdf. Analysis & Overview\nOPEC Quotas Staying Steady\nOPEC Quotas Staying Steady",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "opec",
+    "quotas",
+    "staying",
+    "steady",
+    "full",
+    "pdf",
+    "www.poten.com/opec-quotas-staying-steady",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 166,
+  "source_path": "reports/poten/2006/poten_unknown-01-01_opec_quotas_staying_steady.md",
+  "source_url": "https://www.poten.com/opec-quotas-staying-steady/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady__s01_poten_tanker_opinion_opec_quotas_staying_steady",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady__root",
+      "title": "Poten Tanker Opinion: OPEC Quotas Staying Steady",
+      "section_path": [
+        "Poten Tanker Opinion: OPEC Quotas Staying Steady"
+      ],
+      "section_path_text": "Poten Tanker Opinion: OPEC Quotas Staying Steady",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/opec-quotas-staying-steady/](https://www.poten.com/opec-quotas-staying-steady/)\n**Full PDF Report**: [Tanker_Opinion_20060908.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20060908.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20060908.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/opec-quotas-staying-steady",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_opec_quotas_staying_steady__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "OPEC Quotas Staying Steady\nOPEC Quotas Staying Steady",
+      "keywords": [
+        "crude_oil",
+        "opec",
+        "quotas",
+        "staying",
+        "steady"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

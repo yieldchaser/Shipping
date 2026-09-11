@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Tankers from Texas",
+  "section_path": [
+    "Poten Tanker Opinion: Tankers from Texas"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Tankers from Texas",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Tankers from Texas\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/tankers-from-texas/](https://www.poten.com/tankers-from-texas/)\n**Full PDF Report**: [Weekly-Opinion-May-22-2015-Tankers-from-Texas.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Weekly-Opinion-May-22-2015-Tankers-from-Texas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-May-22-2015-Tankers-from-Texas.pdf. Analysis & Overview\nTankers from Texas\n22 May 2015: U.S. Â The rapid growth in tight oil production has created an abundance of light sweet crude in the United States.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "full",
+    "oil",
+    "pdf",
+    "tankers",
+    "texas",
+    "tight",
+    "u.s.",
+    "www.poten.com/tankers-from-texas",
+    "able",
+    "abundance"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 243,
+  "source_path": "reports/poten/2015/poten_2015-01-01_tankers_from_texas.md",
+  "source_url": "https://www.poten.com/tankers-from-texas/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas__s01_poten_tanker_opinion_tankers_from_texas",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas__root",
+      "title": "Poten Tanker Opinion: Tankers from Texas",
+      "section_path": [
+        "Poten Tanker Opinion: Tankers from Texas"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Tankers from Texas",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/tankers-from-texas/](https://www.poten.com/tankers-from-texas/)\n**Full PDF Report**: [Weekly-Opinion-May-22-2015-Tankers-from-Texas.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Weekly-Opinion-May-22-2015-Tankers-from-Texas.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-May-22-2015-Tankers-from-Texas.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tankers-from-texas",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_tankers_from_texas__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Tankers from Texas\n22 May 2015: U.S. Â The rapid growth in tight oil production has created an abundance of light sweet crude in the United States.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "tight",
+        "u.s.",
+        "able",
+        "abundance",
+        "already",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

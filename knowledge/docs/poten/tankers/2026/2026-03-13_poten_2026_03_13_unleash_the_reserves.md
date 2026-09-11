@@ -94,6 +94,7 @@ How will SPR releases impact the market and trade flows? The conflict between th
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-03-13
 **Source URL**: [https://www.poten.com/unleash-the-reserves/](https://www.poten.com/unleash-the-reserves/)
+**Full PDF Report**: [Weekly Opinion - 13 Mar 2026 - Unleash The Reserves.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2013%20Mar%202026%20-%20Unleash%20The%20Reserves.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

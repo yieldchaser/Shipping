@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: You Ain't Seen Nothing Yet",
+  "section_path": [
+    "Poten Tanker Opinion: You Ain't Seen Nothing Yet"
+  ],
+  "section_path_text": "Poten Tanker Opinion: You Ain't Seen Nothing Yet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: You Ain't Seen Nothing Yet\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-september-9-2022-you-aint-seen-nothing-yet/](https://www.poten.com/tanker-opinion-september-9-2022-you-aint-seen-nothing-yet/)\n**Full PDF Report**: [Weekly-Opinion-9-September-2022-You-Aint-Seen-Nothing-Yet.pdf](https://www.poten.com/wp-content/uploads/2022/09/Weekly-Opinion-9-September-2022-You-Aint-Seen-Nothing-Yet.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-9-September-2022-You-Aint-Seen-Nothing-Yet.pdf. Analysis & Overview\nYou Ain't Seen Nothing Yet\nYou Ain't Seen Nothing Yet",
+  "keywords": [
+    "ain",
+    "https",
+    "nothing",
+    "seen",
+    "yet",
+    "you",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinion-september-9-2022-you-aint-seen-nothing-yet",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 220,
+  "source_path": "reports/poten/2022/poten_2022-01-01_you_ain_t_seen_nothing_yet.md",
+  "source_url": "https://www.poten.com/tanker-opinion-september-9-2022-you-aint-seen-nothing-yet/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet__s01_poten_tanker_opinion_you_ain_t_seen_nothing_yet",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet__root",
+      "title": "Poten Tanker Opinion: You Ain't Seen Nothing Yet",
+      "section_path": [
+        "Poten Tanker Opinion: You Ain't Seen Nothing Yet"
+      ],
+      "section_path_text": "Poten Tanker Opinion: You Ain't Seen Nothing Yet",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinion-september-9-2022-you-aint-seen-nothing-yet/](https://www.poten.com/tanker-opinion-september-9-2022-you-aint-seen-nothing-yet/)\n**Full PDF Report**: [Weekly-Opinion-9-September-2022-You-Aint-Seen-Nothing-Yet.pdf](https://www.poten.com/wp-content/uploads/2022/09/Weekly-Opinion-9-September-2022-You-Aint-Seen-Nothing-Yet.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-9-September-2022-You-Aint-Seen-Nothing-Yet.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinion-september-9-2022-you-aint-seen-nothing-yet",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 190,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_you_ain_t_seen_nothing_yet__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "You Ain't Seen Nothing Yet\nYou Ain't Seen Nothing Yet",
+      "keywords": [
+        "ain",
+        "nothing",
+        "seen",
+        "yet",
+        "you"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

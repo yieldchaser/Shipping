@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant__root",
+  "doc_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Sleeping Giant",
+  "section_path": [
+    "Poten Tanker Opinion: A Sleeping Giant"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Sleeping Giant",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Sleeping Giant\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-02-16\n**Source URL**: [https://www.poten.com/a-sleeping-giant/](https://www.poten.com/a-sleeping-giant/)\n**Full PDF Report**: [Weekly Opinion -16 February 2024 - A Sleeping Giant.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-16%20February%202024%20-%20A%20Sleeping%20Giant.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -16 February 2024 - A Sleeping Giant.pdf. Analysis & Overview\nA Sleeping Giant\n21 Feb 2024:Changes in Indonesiaâ€™s oil balances should benefit tankers On Wednesday February 14, Indonesia, Asiaâ€™s third most populous country and its second largest democracy after India went to the polls to elect a new president. The winner appears to be Prabowo Subianto, the countryâ€™s defense minister and former general who has the support of...",
+  "keywords": [
+    "india",
+    "crude_oil",
+    "sleeping",
+    "february",
+    "opinion",
+    "https",
+    "country",
+    "full",
+    "giant",
+    "giant.pdf",
+    "indonesia",
+    "pdf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 263,
+  "source_path": "reports/poten/2024/poten_2024-02-16_a_sleeping_giant.md",
+  "source_url": "https://www.poten.com/a-sleeping-giant/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant__s01_poten_tanker_opinion_a_sleeping_giant",
+      "doc_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant",
+      "parent_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant__root",
+      "title": "Poten Tanker Opinion: A Sleeping Giant",
+      "section_path": [
+        "Poten Tanker Opinion: A Sleeping Giant"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Sleeping Giant",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-02-16\n**Source URL**: [https://www.poten.com/a-sleeping-giant/](https://www.poten.com/a-sleeping-giant/)\n**Full PDF Report**: [Weekly Opinion -16 February 2024 - A Sleeping Giant.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-16%20February%202024%20-%20A%20Sleeping%20Giant.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion -16 February 2024 - A Sleeping Giant.pdf.",
+      "keywords": [
+        "february",
+        "https",
+        "opinion",
+        "sleeping",
+        "full",
+        "giant.pdf",
+        "pdf",
+        "www.poten.com/a-sleeping-giant"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant",
+      "parent_id": "poten_tankers_2024-02-16_poten_2024_02_16_a_sleeping_giant__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Sleeping Giant\n21 Feb 2024:Changes in Indonesiaâ€™s oil balances should benefit tankers On Wednesday February 14, Indonesia, Asiaâ€™s third most populous country and its second largest democracy after India went to the polls to elect a new president. The winner appears to be Prabowo Subianto, the countryâ€™s defense minister and former general who has the support of...",
+      "keywords": [
+        "india",
+        "crude_oil",
+        "country",
+        "indonesia",
+        "after",
+        "appears",
+        "asia",
+        "balances"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: California Gasoline Situation Stabilises",
+  "section_path": [
+    "Poten Tanker Opinion: California Gasoline Situation Stabilises"
+  ],
+  "section_path_text": "Poten Tanker Opinion: California Gasoline Situation Stabilises",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: California Gasoline Situation Stabilises\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/california-gasoline-situation-stabilises/](https://www.poten.com/california-gasoline-situation-stabilises/)\n**Full PDF Report**: [Tanker_Opinion_20121019.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121019.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121019.pdf. Analysis & Overview\nCalifornia Gasoline Situation Stabilises\nCalifornia Gasoline Situation Stabilises",
+  "keywords": [
+    "products",
+    "gas",
+    "california",
+    "gasoline",
+    "https",
+    "situation",
+    "stabilises",
+    "full",
+    "pdf",
+    "www.poten.com/california-gasoline-situation-stabilises",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 165,
+  "source_path": "reports/poten/2012/poten_unknown-01-01_california_gasoline_situation_stabilises.md",
+  "source_url": "https://www.poten.com/california-gasoline-situation-stabilises/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises__s01_poten_tanker_opinion_california_gasoline_situation_stabilises",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises__root",
+      "title": "Poten Tanker Opinion: California Gasoline Situation Stabilises",
+      "section_path": [
+        "Poten Tanker Opinion: California Gasoline Situation Stabilises"
+      ],
+      "section_path_text": "Poten Tanker Opinion: California Gasoline Situation Stabilises",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/california-gasoline-situation-stabilises/](https://www.poten.com/california-gasoline-situation-stabilises/)\n**Full PDF Report**: [Tanker_Opinion_20121019.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20121019.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20121019.pdf.",
+      "keywords": [
+        "products",
+        "gas",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/california-gasoline-situation-stabilises",
+        "archived",
+        "author"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_california_gasoline_situation_stabilises__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "California Gasoline Situation Stabilises\nCalifornia Gasoline Situation Stabilises",
+      "keywords": [
+        "products",
+        "gas",
+        "california",
+        "gasoline",
+        "situation",
+        "stabilises"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

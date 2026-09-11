@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Plugging Nigeriaâ€™s Black Hole",
+  "section_path": [
+    "Poten Tanker Opinion: Plugging Nigeriaâ€™s Black Hole"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Plugging Nigeriaâ€™s Black Hole",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Plugging Nigeriaâ€™s Black Hole\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/plugging-nigerias-black-hole/](https://www.poten.com/plugging-nigerias-black-hole/)\n**Full PDF Report**: [Weekly-Opinion-September-4-2015-Plugging-Nigerias-Black-Hole.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/09/Weekly-Opinion-September-4-2015-Plugging-Nigerias-Black-Hole.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-September-4-2015-Plugging-Nigerias-Black-Hole.pdf. Analysis & Overview\nPlugging Nigeriaâ€™s Black Hole\n4 Sep 2015:Â New Nigerian Government overhauls oil industry.Â When Nigeria gained independence from Great Britain in 1960, the country was expected to develop into an African powerhouse. It had a large population and abundant natural resources, including significant oil reserves.",
+  "keywords": [
+    "crude_oil",
+    "nigeria",
+    "full",
+    "https",
+    "oil",
+    "black",
+    "hole",
+    "its",
+    "pdf",
+    "plugging",
+    "www.poten.com/plugging-nigerias-black-hole",
+    "abundant"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 275,
+  "source_path": "reports/poten/2015/poten_2015-01-01_plugging_nigeria_s_black_hole.md",
+  "source_url": "https://www.poten.com/plugging-nigerias-black-hole/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole__s01_poten_tanker_opinion_plugging_nigeria_s_black_hole",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole__root",
+      "title": "Poten Tanker Opinion: Plugging Nigeriaâ€™s Black Hole",
+      "section_path": [
+        "Poten Tanker Opinion: Plugging Nigeriaâ€™s Black Hole"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Plugging Nigeriaâ€™s Black Hole",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/plugging-nigerias-black-hole/](https://www.poten.com/plugging-nigerias-black-hole/)\n**Full PDF Report**: [Weekly-Opinion-September-4-2015-Plugging-Nigerias-Black-Hole.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/09/Weekly-Opinion-September-4-2015-Plugging-Nigerias-Black-Hole.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-September-4-2015-Plugging-Nigerias-Black-Hole.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/plugging-nigerias-black-hole",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_plugging_nigeria_s_black_hole__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Plugging Nigeriaâ€™s Black Hole\n4 Sep 2015:Â New Nigerian Government overhauls oil industry.Â When Nigeria gained independence from Great Britain in 1960, the country was expected to develop into an African powerhouse. It had a large population and abundant natural resources, including significant oil reserves.",
+      "keywords": [
+        "crude_oil",
+        "nigeria",
+        "oil",
+        "its",
+        "abundant",
+        "african",
+        "because",
+        "black"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 91,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

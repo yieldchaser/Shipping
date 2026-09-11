@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings__root",
+  "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Will Lifting Sanctions Sanction Liftings",
+  "section_path": [
+    "Poten Tanker Opinion: Will Lifting Sanctions Sanction Liftings"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Will Lifting Sanctions Sanction Liftings",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Will Lifting Sanctions Sanction Liftings\n**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/will-lifting-sanctions-sanction-liftings/](https://www.poten.com/will-lifting-sanctions-sanction-liftings/)\n**Full PDF Report**: [Weekly-Opinion-December-11-2015-Will-Lifting-Sanctions-Sanction-Liftings.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/12/Weekly-Opinion-December-11-2015-Will-Lifting-Sanctions-Sanction-Liftings.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-December-11-2015-Will-Lifting-Sanctions-Sanction-Liftings.pdf. Analysis & Overview\nWill Lifting Sanctions Sanction Liftings\n11 Dec 2015: The impact on the tanker market of lifting Iranian sanctions. Â It doesnâ€™t look like the world needs any more crude oil at the moment, but that is exactly what they are going to get sometime in 2016, as the major sanctions against Iran are likely being lifted.",
+  "keywords": [
+    "crude_oil",
+    "https",
+    "lifting",
+    "sanctions",
+    "are",
+    "full",
+    "iran",
+    "liftings",
+    "pdf",
+    "sanction",
+    "www.poten.com/will-lifting-sanctions-sanction-liftings",
+    "add..."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 286,
+  "source_path": "reports/poten/2015/poten_2015-01-01_will_lifting_sanctions_sanction_liftings.md",
+  "source_url": "https://www.poten.com/will-lifting-sanctions-sanction-liftings/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings__s01_poten_tanker_opinion_will_lifting_sanctions_sanction_liftings",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings__root",
+      "title": "Poten Tanker Opinion: Will Lifting Sanctions Sanction Liftings",
+      "section_path": [
+        "Poten Tanker Opinion: Will Lifting Sanctions Sanction Liftings"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Will Lifting Sanctions Sanction Liftings",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2015-01-01\n**Source URL**: [https://www.poten.com/will-lifting-sanctions-sanction-liftings/](https://www.poten.com/will-lifting-sanctions-sanction-liftings/)\n**Full PDF Report**: [Weekly-Opinion-December-11-2015-Will-Lifting-Sanctions-Sanction-Liftings.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/12/Weekly-Opinion-December-11-2015-Will-Lifting-Sanctions-Sanction-Liftings.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2015/Weekly-Opinion-December-11-2015-Will-Lifting-Sanctions-Sanction-Liftings.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/will-lifting-sanctions-sanction-liftings",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings__s02_analysis_overview",
+      "doc_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings",
+      "parent_id": "poten_tankers_2015-01-01_poten_2015_01_01_will_lifting_sanctions_sanction_liftings__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Will Lifting Sanctions Sanction Liftings\n11 Dec 2015: The impact on the tanker market of lifting Iranian sanctions. Â It doesnâ€™t look like the world needs any more crude oil at the moment, but that is exactly what they are going to get sometime in 2016, as the major sanctions against Iran are likely being lifted.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "iran",
+        "lifting",
+        "sanctions",
+        "add...",
+        "against",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 84,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires__root",
+  "doc_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Another Refinery Retires",
+  "section_path": [
+    "Poten Tanker Opinion: Another Refinery Retires"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Another Refinery Retires",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Another Refinery Retires\n**Author**: Erik Broekhuizen\n**Published Date**: 2024-10-18\n**Source URL**: [https://www.poten.com/another-refinery-retires/](https://www.poten.com/another-refinery-retires/)\n**Full PDF Report**: [Weekly Opinion - 18 Oct 2024 - Another Refinery Retires.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2018%20Oct%202024%20-%20Another%20Refinery%20Retires.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 18 Oct 2024 - Another Refinery Retires.pdf. Analysis & Overview\nAnother Refinery Retires\nAnother Refinery Retires",
+  "keywords": [
+    "another",
+    "refinery",
+    "opinion",
+    "https",
+    "oct",
+    "retires",
+    "full",
+    "pdf",
+    "retires.pdf",
+    "www.poten.com/another-refinery-retires",
+    "analysis",
+    "archived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 196,
+  "source_path": "reports/poten/2024/poten_2024-10-18_another_refinery_retires.md",
+  "source_url": "https://www.poten.com/another-refinery-retires/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires__s01_poten_tanker_opinion_another_refinery_retires",
+      "doc_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires",
+      "parent_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires__root",
+      "title": "Poten Tanker Opinion: Another Refinery Retires",
+      "section_path": [
+        "Poten Tanker Opinion: Another Refinery Retires"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Another Refinery Retires",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2024-10-18\n**Source URL**: [https://www.poten.com/another-refinery-retires/](https://www.poten.com/another-refinery-retires/)\n**Full PDF Report**: [Weekly Opinion - 18 Oct 2024 - Another Refinery Retires.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2018%20Oct%202024%20-%20Another%20Refinery%20Retires.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2024/Weekly Opinion - 18 Oct 2024 - Another Refinery Retires.pdf.",
+      "keywords": [
+        "another",
+        "https",
+        "oct",
+        "opinion",
+        "refinery",
+        "full",
+        "pdf",
+        "retires.pdf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires__s02_analysis_overview",
+      "doc_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires",
+      "parent_id": "poten_tankers_2024-10-18_poten_2024_10_18_another_refinery_retires__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Another Refinery Retires\nAnother Refinery Retires",
+      "keywords": [
+        "another",
+        "refinery",
+        "retires"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

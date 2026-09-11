@@ -1,0 +1,87 @@
+{
+  "node_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007__root",
+  "doc_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: High Stakes Energy Poker(July 6, 2007)",
+  "section_path": [
+    "Poten Tanker Opinion: High Stakes Energy Poker(July 6, 2007)"
+  ],
+  "section_path_text": "Poten Tanker Opinion: High Stakes Energy Poker(July 6, 2007)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: High Stakes Energy Poker(July 6, 2007)\n**Author**: Erik Broekhuizen\n**Published Date**: 2007-01-01\n**Source URL**: [https://www.poten.com/high-stakes-energy-pokerjuly-6-2007/](https://www.poten.com/high-stakes-energy-pokerjuly-6-2007/)\n**Full PDF Report**: [Tanker_Opinion_20070706.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20070706.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2007/Tanker_Opinion_20070706.pdf. Analysis & Overview\nHigh Stakes Energy Poker(July 6, 2007)\nHigh Stakes Energy Poker(July 6, 2007)",
+  "keywords": [
+    "energy",
+    "high",
+    "https",
+    "july",
+    "poker",
+    "stakes",
+    "full",
+    "pdf",
+    "www.poten.com/high-stakes-energy-pokerjuly-6-2007",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 191,
+  "source_path": "reports/poten/2007/poten_2007-01-01_high_stakes_energy_poker_july_6_2007.md",
+  "source_url": "https://www.poten.com/high-stakes-energy-pokerjuly-6-2007/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007__s01_poten_tanker_opinion_high_stakes_energy_poker_july_6_2007",
+      "doc_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007",
+      "parent_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007__root",
+      "title": "Poten Tanker Opinion: High Stakes Energy Poker(July 6, 2007)",
+      "section_path": [
+        "Poten Tanker Opinion: High Stakes Energy Poker(July 6, 2007)"
+      ],
+      "section_path_text": "Poten Tanker Opinion: High Stakes Energy Poker(July 6, 2007)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2007-01-01\n**Source URL**: [https://www.poten.com/high-stakes-energy-pokerjuly-6-2007/](https://www.poten.com/high-stakes-energy-pokerjuly-6-2007/)\n**Full PDF Report**: [Tanker_Opinion_20070706.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20070706.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2007/Tanker_Opinion_20070706.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/high-stakes-energy-pokerjuly-6-2007",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007__s02_analysis_overview",
+      "doc_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007",
+      "parent_id": "poten_tankers_2007-01-01_poten_2007_01_01_high_stakes_energy_poker_july_6_2007__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "High Stakes Energy Poker(July 6, 2007)\nHigh Stakes Energy Poker(July 6, 2007)",
+      "keywords": [
+        "energy",
+        "high",
+        "july",
+        "poker",
+        "stakes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Transportation Costs With 2020 Vision",
+  "section_path": [
+    "Poten Tanker Opinion: Transportation Costs With 2020 Vision"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Transportation Costs With 2020 Vision",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Transportation Costs With 2020 Vision\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/transportation-costs-with-2020-vision/](https://www.poten.com/transportation-costs-with-2020-vision/)\n**Full PDF Report**: [Weekly-Opinion-31-August-2018-Transportation-Costs-With-2020-Vision.pdf](http://www.poten.com/wp-content/uploads/2018/08/Weekly-Opinion-31-August-2018-Transportation-Costs-With-2020-Vision.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-31-August-2018-Transportation-Costs-With-2020-Vision.pdf. Analysis & Overview\nTransportation Costs With 2020 Vision\nTransportation Costs With 2020 Vision",
+  "keywords": [
+    "costs",
+    "transportation",
+    "vision",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/transportation-costs-with-2020-vision",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 211,
+  "source_path": "reports/poten/2018/poten_2018-01-01_transportation_costs_with_2020_vision.md",
+  "source_url": "https://www.poten.com/transportation-costs-with-2020-vision/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision__s01_poten_tanker_opinion_transportation_costs_with_2020_vision",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision__root",
+      "title": "Poten Tanker Opinion: Transportation Costs With 2020 Vision",
+      "section_path": [
+        "Poten Tanker Opinion: Transportation Costs With 2020 Vision"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Transportation Costs With 2020 Vision",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/transportation-costs-with-2020-vision/](https://www.poten.com/transportation-costs-with-2020-vision/)\n**Full PDF Report**: [Weekly-Opinion-31-August-2018-Transportation-Costs-With-2020-Vision.pdf](http://www.poten.com/wp-content/uploads/2018/08/Weekly-Opinion-31-August-2018-Transportation-Costs-With-2020-Vision.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-31-August-2018-Transportation-Costs-With-2020-Vision.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/transportation-costs-with-2020-vision",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_transportation_costs_with_2020_vision__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Transportation Costs With 2020 Vision\nTransportation Costs With 2020 Vision",
+      "keywords": [
+        "costs",
+        "transportation",
+        "vision"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

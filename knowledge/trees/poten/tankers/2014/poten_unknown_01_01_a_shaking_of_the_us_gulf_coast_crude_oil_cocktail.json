@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: A Shaking of the US Gulf Coast Crude Oil Cocktail",
+  "section_path": [
+    "Poten Tanker Opinion: A Shaking of the US Gulf Coast Crude Oil Cocktail"
+  ],
+  "section_path_text": "Poten Tanker Opinion: A Shaking of the US Gulf Coast Crude Oil Cocktail",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: A Shaking of the US Gulf Coast Crude Oil Cocktail\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-shaking-of-the-us-gulf-coast-crude-oil-cocktail/](https://www.poten.com/a-shaking-of-the-us-gulf-coast-crude-oil-cocktail/)\n**Full PDF Report**: [Tanker_Opinion_20140516.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140516.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140516.pdf. Analysis & Overview\nA Shaking of the US Gulf Coast Crude Oil Cocktail\nA Shaking of the US Gulf Coast Crude Oil Cocktail",
+  "keywords": [
+    "us_gulf",
+    "crude_oil",
+    "coast",
+    "cocktail",
+    "crude",
+    "gulf",
+    "https",
+    "oil",
+    "shaking",
+    "full",
+    "pdf",
+    "www.poten.com/a-shaking-of-the-us-gulf-coast-crude-oil-cocktail"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 192,
+  "source_path": "reports/poten/2014/poten_unknown-01-01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail.md",
+  "source_url": "https://www.poten.com/a-shaking-of-the-us-gulf-coast-crude-oil-cocktail/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail__s01_poten_tanker_opinion_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail__root",
+      "title": "Poten Tanker Opinion: A Shaking of the US Gulf Coast Crude Oil Cocktail",
+      "section_path": [
+        "Poten Tanker Opinion: A Shaking of the US Gulf Coast Crude Oil Cocktail"
+      ],
+      "section_path_text": "Poten Tanker Opinion: A Shaking of the US Gulf Coast Crude Oil Cocktail",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/a-shaking-of-the-us-gulf-coast-crude-oil-cocktail/](https://www.poten.com/a-shaking-of-the-us-gulf-coast-crude-oil-cocktail/)\n**Full PDF Report**: [Tanker_Opinion_20140516.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/04/Tanker_Opinion_20140516.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20140516.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/a-shaking-of-the-us-gulf-coast-crude-oil-cocktail",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_a_shaking_of_the_us_gulf_coast_crude_oil_cocktail__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A Shaking of the US Gulf Coast Crude Oil Cocktail\nA Shaking of the US Gulf Coast Crude Oil Cocktail",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "coast",
+        "cocktail",
+        "crude",
+        "gulf",
+        "oil",
+        "shaking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

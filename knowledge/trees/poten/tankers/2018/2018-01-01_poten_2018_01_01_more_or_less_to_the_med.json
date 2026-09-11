@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med__root",
+  "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: More (Or Less) To The Med",
+  "section_path": [
+    "Poten Tanker Opinion: More (Or Less) To The Med"
+  ],
+  "section_path_text": "Poten Tanker Opinion: More (Or Less) To The Med",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: More (Or Less) To The Med\n**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/more-or-less-to-the-med/](https://www.poten.com/more-or-less-to-the-med/)\n**Full PDF Report**: [Weekly-Opinion-16-November-2018-More-Or-Less-To-The-Med.pdf](http://www.poten.com/wp-content/uploads/2018/11/Weekly-Opinion-16-November-2018-More-Or-Less-To-The-Med.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-16-November-2018-More-Or-Less-To-The-Med.pdf. Analysis & Overview\nMore (Or Less) To The Med\nMore (Or Less) To The Med",
+  "keywords": [
+    "less",
+    "med",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/more-or-less-to-the-med",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 198,
+  "source_path": "reports/poten/2018/poten_2018-01-01_more_or_less_to_the_med.md",
+  "source_url": "https://www.poten.com/more-or-less-to-the-med/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med__s01_poten_tanker_opinion_more_or_less_to_the_med",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med__root",
+      "title": "Poten Tanker Opinion: More (Or Less) To The Med",
+      "section_path": [
+        "Poten Tanker Opinion: More (Or Less) To The Med"
+      ],
+      "section_path_text": "Poten Tanker Opinion: More (Or Less) To The Med",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2018-01-01\n**Source URL**: [https://www.poten.com/more-or-less-to-the-med/](https://www.poten.com/more-or-less-to-the-med/)\n**Full PDF Report**: [Weekly-Opinion-16-November-2018-More-Or-Less-To-The-Med.pdf](http://www.poten.com/wp-content/uploads/2018/11/Weekly-Opinion-16-November-2018-More-Or-Less-To-The-Med.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2018/Weekly-Opinion-16-November-2018-More-Or-Less-To-The-Med.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/more-or-less-to-the-med",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med__s02_analysis_overview",
+      "doc_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med",
+      "parent_id": "poten_tankers_2018-01-01_poten_2018_01_01_more_or_less_to_the_med__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "More (Or Less) To The Med\nMore (Or Less) To The Med",
+      "keywords": [
+        "less",
+        "med"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

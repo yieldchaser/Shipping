@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Lights Dimming For Venezuela",
+  "section_path": [
+    "Poten Tanker Opinion: Lights Dimming For Venezuela"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Lights Dimming For Venezuela",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Lights Dimming For Venezuela\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/lights-dimming-for-venezuela/](https://www.poten.com/lights-dimming-for-venezuela/)\n**Full PDF Report**: [Weekly-Opinion-8-March-2019-Lights-Dimming-For-Venezuela.pdf](http://www.poten.com/wp-content/uploads/2019/03/Weekly-Opinion-8-March-2019-Lights-Dimming-For-Venezuela.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-8-March-2019-Lights-Dimming-For-Venezuela.pdf. Analysis & Overview\nLights Dimming For Venezuela\n8 Mar 2019: As an illustration of the severe problems that Venezuela is facing, the country experienced a widespread blackout last night. It stopped subway service in Caracas and caused problems all around the country.Â Not surprisingly, there was no agreement on what caused the blackout.Â The Maduro government blamed sabotage by right-wing â€œcriminalsâ€�, while...",
+  "keywords": [
+    "venezuela",
+    "caused",
+    "dimming",
+    "full",
+    "https",
+    "lights",
+    "pdf",
+    "problems",
+    "www.poten.com/lights-dimming-for-venezuela",
+    "agreement",
+    "all",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 267,
+  "source_path": "reports/poten/2019/poten_2019-01-01_lights_dimming_for_venezuela.md",
+  "source_url": "https://www.poten.com/lights-dimming-for-venezuela/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela__s01_poten_tanker_opinion_lights_dimming_for_venezuela",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela__root",
+      "title": "Poten Tanker Opinion: Lights Dimming For Venezuela",
+      "section_path": [
+        "Poten Tanker Opinion: Lights Dimming For Venezuela"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Lights Dimming For Venezuela",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/lights-dimming-for-venezuela/](https://www.poten.com/lights-dimming-for-venezuela/)\n**Full PDF Report**: [Weekly-Opinion-8-March-2019-Lights-Dimming-For-Venezuela.pdf](http://www.poten.com/wp-content/uploads/2019/03/Weekly-Opinion-8-March-2019-Lights-Dimming-For-Venezuela.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-8-March-2019-Lights-Dimming-For-Venezuela.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/lights-dimming-for-venezuela",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_lights_dimming_for_venezuela__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Lights Dimming For Venezuela\n8 Mar 2019: As an illustration of the severe problems that Venezuela is facing, the country experienced a widespread blackout last night. It stopped subway service in Caracas and caused problems all around the country.Â Not surprisingly, there was no agreement on what caused the blackout.Â The Maduro government blamed sabotage by right-wing â€œcriminalsâ€�, while...",
+      "keywords": [
+        "caused",
+        "problems",
+        "venezuela",
+        "agreement",
+        "all",
+        "around",
+        "blackout",
+        "blackout."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

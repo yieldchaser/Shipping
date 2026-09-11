@@ -1,0 +1,88 @@
+{
+  "node_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on__root",
+  "doc_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: U.S. Crude Oil Production Is Barreling On",
+  "section_path": [
+    "Poten Tanker Opinion: U.S. Crude Oil Production Is Barreling On"
+  ],
+  "section_path_text": "Poten Tanker Opinion: U.S. Crude Oil Production Is Barreling On",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Crude Oil Production Is Barreling On\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-12-05\n**Source URL**: [https://www.poten.com/u-s-crude-oil-production-is-barreling-on/](https://www.poten.com/u-s-crude-oil-production-is-barreling-on/)\n**Full PDF Report**: [Weekly Opinion - 5 December 2025 - US Crude Oil Production Is Barreling On.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%205%20December%202025%20-%20US%20Crude%20Oil%20Production%20Is%20Barreling%20On.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 5 December 2025 - US Crude Oil Production Is Barreling On.pdf. Crude Oil Production Is Barreling On",
+  "keywords": [
+    "crude_oil",
+    "barreling",
+    "crude",
+    "oil",
+    "production",
+    "opinion",
+    "december",
+    "https",
+    "full",
+    "on.pdf",
+    "pdf",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 237,
+  "source_path": "reports/poten/2025/poten_2025-12-05_u_s_crude_oil_production_is_barreling_on.md",
+  "source_url": "https://www.poten.com/u-s-crude-oil-production-is-barreling-on/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on__s01_poten_tanker_opinion_u_s_crude_oil_production_is_barreling_on",
+      "doc_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on",
+      "parent_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on__root",
+      "title": "Poten Tanker Opinion: U.S. Crude Oil Production Is Barreling On",
+      "section_path": [
+        "Poten Tanker Opinion: U.S. Crude Oil Production Is Barreling On"
+      ],
+      "section_path_text": "Poten Tanker Opinion: U.S. Crude Oil Production Is Barreling On",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-12-05\n**Source URL**: [https://www.poten.com/u-s-crude-oil-production-is-barreling-on/](https://www.poten.com/u-s-crude-oil-production-is-barreling-on/)\n**Full PDF Report**: [Weekly Opinion - 5 December 2025 - US Crude Oil Production Is Barreling On.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%205%20December%202025%20-%20US%20Crude%20Oil%20Production%20Is%20Barreling%20On.pdf)\n**Coverage**: Full authentic PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 5 December 2025 - US Crude Oil Production Is Barreling On.pdf.",
+      "keywords": [
+        "crude_oil",
+        "barreling",
+        "crude",
+        "december",
+        "https",
+        "oil",
+        "opinion",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on__s02_overview",
+      "doc_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on",
+      "parent_id": "poten_tankers_2025-12-05_poten_2025_12_05_u_s_crude_oil_production_is_barreling_on__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Crude Oil Production Is Barreling On",
+      "keywords": [
+        "crude_oil",
+        "barreling",
+        "crude",
+        "oil",
+        "production",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 12,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -96,6 +96,7 @@ Asia's oil diversification drive can redraw global tanker routes. For many decad
 **Author**: Erik Broekhuizen
 **Published Date**: 2026-05-15
 **Source URL**: [https://www.poten.com/insurance-by-distance/](https://www.poten.com/insurance-by-distance/)
+**Full PDF Report**: [Weekly Opinion - 15 May 2026 - Insurance By Distance.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2015%20May%202026%20-%20Insurance%20By%20Distance.pdf)
 **Coverage**: Public summary layer (title, author, date, standfirst). The complete analysis sits behind a registration form on poten.com; only the openly published summary is archived here.
 
 ## Analysis & Commentary

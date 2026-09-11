@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil__root",
+  "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: The Barrels From Brazil",
+  "section_path": [
+    "Poten Tanker Opinion: The Barrels From Brazil"
+  ],
+  "section_path_text": "Poten Tanker Opinion: The Barrels From Brazil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: The Barrels From Brazil\n**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/the-barrels-from-brazil/](https://www.poten.com/the-barrels-from-brazil/)\n**Full PDF Report**: [Weekly-Opinion-28-Aug-2020-The-Barrels-From-Brazil.pdf](http://www.poten.com/wp-content/uploads/2020/08/Weekly-Opinion-28-Aug-2020-The-Barrels-From-Brazil.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-28-Aug-2020-The-Barrels-From-Brazil.pdf. Analysis & Overview\nThe Barrels From Brazil\nThe Barrels From Brazil",
+  "keywords": [
+    "brazil",
+    "barrels",
+    "full",
+    "https",
+    "pdf",
+    "www.poten.com/the-barrels-from-brazil",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 175,
+  "source_path": "reports/poten/2020/poten_2020-01-01_the_barrels_from_brazil.md",
+  "source_url": "https://www.poten.com/the-barrels-from-brazil/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil__s01_poten_tanker_opinion_the_barrels_from_brazil",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil__root",
+      "title": "Poten Tanker Opinion: The Barrels From Brazil",
+      "section_path": [
+        "Poten Tanker Opinion: The Barrels From Brazil"
+      ],
+      "section_path_text": "Poten Tanker Opinion: The Barrels From Brazil",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2020-01-01\n**Source URL**: [https://www.poten.com/the-barrels-from-brazil/](https://www.poten.com/the-barrels-from-brazil/)\n**Full PDF Report**: [Weekly-Opinion-28-Aug-2020-The-Barrels-From-Brazil.pdf](http://www.poten.com/wp-content/uploads/2020/08/Weekly-Opinion-28-Aug-2020-The-Barrels-From-Brazil.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2020/Weekly-Opinion-28-Aug-2020-The-Barrels-From-Brazil.pdf.",
+      "keywords": [
+        "brazil",
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/the-barrels-from-brazil",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil__s02_analysis_overview",
+      "doc_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil",
+      "parent_id": "poten_tankers_2020-01-01_poten_2020_01_01_the_barrels_from_brazil__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Barrels From Brazil\nThe Barrels From Brazil",
+      "keywords": [
+        "brazil",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

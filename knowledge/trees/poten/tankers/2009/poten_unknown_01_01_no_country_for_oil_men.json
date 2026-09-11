@@ -1,0 +1,86 @@
+{
+  "node_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men__root",
+  "doc_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: No Country for Oil Men",
+  "section_path": [
+    "Poten Tanker Opinion: No Country for Oil Men"
+  ],
+  "section_path_text": "Poten Tanker Opinion: No Country for Oil Men",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: No Country for Oil Men\n**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/no-country-for-oil-men/](https://www.poten.com/no-country-for-oil-men/)\n**Full PDF Report**: [Tanker_Opinion_20090821.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090821.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20090821.pdf. Analysis & Overview\nNo Country for Oil Men\nNo Country for Oil Men",
+  "keywords": [
+    "crude_oil",
+    "country",
+    "https",
+    "men",
+    "oil",
+    "full",
+    "pdf",
+    "www.poten.com/no-country-for-oil-men",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 149,
+  "source_path": "reports/poten/2009/poten_unknown-01-01_no_country_for_oil_men.md",
+  "source_url": "https://www.poten.com/no-country-for-oil-men/",
+  "children": [
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men__s01_poten_tanker_opinion_no_country_for_oil_men",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men__root",
+      "title": "Poten Tanker Opinion: No Country for Oil Men",
+      "section_path": [
+        "Poten Tanker Opinion: No Country for Oil Men"
+      ],
+      "section_path_text": "Poten Tanker Opinion: No Country for Oil Men",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: unknown-01-01\n**Source URL**: [https://www.poten.com/no-country-for-oil-men/](https://www.poten.com/no-country-for-oil-men/)\n**Full PDF Report**: [Tanker_Opinion_20090821.pdf](https://potenprd.wpenginepowered.com/wp-content/uploads/2015/05/Tanker_Opinion_20090821.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/unknown/Tanker_Opinion_20090821.pdf.",
+      "keywords": [
+        "crude_oil",
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/no-country-for-oil-men",
+        "archived",
+        "author",
+        "broekhuizen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men__s02_analysis_overview",
+      "doc_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men",
+      "parent_id": "poten_tankers_no_date_poten_unknown_01_01_no_country_for_oil_men__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "No Country for Oil Men\nNo Country for Oil Men",
+      "keywords": [
+        "crude_oil",
+        "country",
+        "men",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

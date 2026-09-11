@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics__root",
+  "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Navigating Geopolitics",
+  "section_path": [
+    "Poten Tanker Opinion: Navigating Geopolitics"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Navigating Geopolitics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Navigating Geopolitics\n**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/navigating-geopolitics/](https://www.poten.com/navigating-geopolitics/)\n**Full PDF Report**: [Weekly-Opinion-12-July-2019-Navigating-Geopolitics.pdf](http://www.poten.com/wp-content/uploads/2019/07/Weekly-Opinion-12-July-2019-Navigating-Geopolitics.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-12-July-2019-Navigating-Geopolitics.pdf. Analysis & Overview\nNavigating Geopolitics\n12 Jul 2019:Â Geopolitical tension and the tanker market are linked, because there is typically a close relationship between geopolitical events and oil prices. Historically, many of the worldâ€™s leading oil producing countries are politically unstable and some are at odds with the U.S.",
+  "keywords": [
+    "crude_oil",
+    "are",
+    "geopolitical",
+    "events",
+    "full",
+    "geopolitics",
+    "https",
+    "navigating",
+    "oil",
+    "pdf",
+    "www.poten.com/navigating-geopolitics",
+    "analysis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 258,
+  "source_path": "reports/poten/2019/poten_2019-01-01_navigating_geopolitics.md",
+  "source_url": "https://www.poten.com/navigating-geopolitics/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics__s01_poten_tanker_opinion_navigating_geopolitics",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics__root",
+      "title": "Poten Tanker Opinion: Navigating Geopolitics",
+      "section_path": [
+        "Poten Tanker Opinion: Navigating Geopolitics"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Navigating Geopolitics",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2019-01-01\n**Source URL**: [https://www.poten.com/navigating-geopolitics/](https://www.poten.com/navigating-geopolitics/)\n**Full PDF Report**: [Weekly-Opinion-12-July-2019-Navigating-Geopolitics.pdf](http://www.poten.com/wp-content/uploads/2019/07/Weekly-Opinion-12-July-2019-Navigating-Geopolitics.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2019/Weekly-Opinion-12-July-2019-Navigating-Geopolitics.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/navigating-geopolitics",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics__s02_analysis_overview",
+      "doc_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics",
+      "parent_id": "poten_tankers_2019-01-01_poten_2019_01_01_navigating_geopolitics__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Navigating Geopolitics\n12 Jul 2019:Â Geopolitical tension and the tanker market are linked, because there is typically a close relationship between geopolitical events and oil prices. Historically, many of the worldâ€™s leading oil producing countries are politically unstable and some are at odds with the U.S.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "geopolitical",
+        "events",
+        "oil",
+        "back",
+        "because",
+        "between"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 88,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

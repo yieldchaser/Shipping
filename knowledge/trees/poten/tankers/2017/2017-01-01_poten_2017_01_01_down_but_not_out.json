@@ -1,0 +1,90 @@
+{
+  "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out__root",
+  "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Down, But Not Out",
+  "section_path": [
+    "Poten Tanker Opinion: Down, But Not Out"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Down, But Not Out",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Down, But Not Out\n**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/down-but-not-out/](https://www.poten.com/down-but-not-out/)\n**Full PDF Report**: [Weekly-Opinion-7-April-2017-Down-But-Not-Out.pdf](http://www.poten.com/wp-content/uploads/2017/04/Weekly-Opinion-7-April-2017-Down-But-Not-Out.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-7-April-2017-Down-But-Not-Out.pdf. Analysis & Overview\nDown, But Not Out\n7 Apr 2017: Â In the first three months of 2017, the level and direction of crude exports from the West African oil producers has changed and it is having a significant impact on the tanker markets.Â Several press articles have reported on these changes and because we have access to the APEX data from Lloydâ€™s...",
+  "keywords": [
+    "west_africa",
+    "crude_oil",
+    "but",
+    "down",
+    "full",
+    "https",
+    "not",
+    "out",
+    "pdf",
+    "www.poten.com/down-but-not-out",
+    "access",
+    "african"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/poten/2017/poten_2017-01-01_down_but_not_out.md",
+  "source_url": "https://www.poten.com/down-but-not-out/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out__s01_poten_tanker_opinion_down_but_not_out",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out__root",
+      "title": "Poten Tanker Opinion: Down, But Not Out",
+      "section_path": [
+        "Poten Tanker Opinion: Down, But Not Out"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Down, But Not Out",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2017-01-01\n**Source URL**: [https://www.poten.com/down-but-not-out/](https://www.poten.com/down-but-not-out/)\n**Full PDF Report**: [Weekly-Opinion-7-April-2017-Down-But-Not-Out.pdf](http://www.poten.com/wp-content/uploads/2017/04/Weekly-Opinion-7-April-2017-Down-But-Not-Out.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2017/Weekly-Opinion-7-April-2017-Down-But-Not-Out.pdf.",
+      "keywords": [
+        "full",
+        "https",
+        "pdf",
+        "www.poten.com/down-but-not-out",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out__s02_analysis_overview",
+      "doc_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out",
+      "parent_id": "poten_tankers_2017-01-01_poten_2017_01_01_down_but_not_out__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Down, But Not Out\n7 Apr 2017: Â In the first three months of 2017, the level and direction of crude exports from the West African oil producers has changed and it is having a significant impact on the tanker markets.Â Several press articles have reported on these changes and because we have access to the APEX data from Lloydâ€™s...",
+      "keywords": [
+        "west_africa",
+        "crude_oil",
+        "access",
+        "african",
+        "apex",
+        "apr",
+        "articles",
+        "because"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

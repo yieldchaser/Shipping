@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty__root",
+  "doc_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Navigating Uncertainty",
+  "section_path": [
+    "Poten Tanker Opinion: Navigating Uncertainty"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Navigating Uncertainty",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Navigating Uncertainty\n**Author**: Erik Broekhuizen\n**Published Date**: 2025-01-17\n**Source URL**: [https://www.poten.com/navigating-uncertainty-2/](https://www.poten.com/navigating-uncertainty-2/)\n**Full PDF Report**: [Weekly Opinion - 17 January 2025 - Navigating Uncertainty.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20January%202025%20-%20Navigating%20Uncertainty.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 17 January 2025 - Navigating Uncertainty.pdf. Analysis & Overview\nNavigating Uncertainty\nNavigating Uncertainty",
+  "keywords": [
+    "navigating",
+    "opinion",
+    "https",
+    "january",
+    "uncertainty",
+    "full",
+    "pdf",
+    "uncertainty.pdf",
+    "www.poten.com/navigating-uncertainty-2",
+    "analysis",
+    "archived",
+    "author"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 195,
+  "source_path": "reports/poten/2025/poten_2025-01-17_navigating_uncertainty.md",
+  "source_url": "https://www.poten.com/navigating-uncertainty-2/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty__s01_poten_tanker_opinion_navigating_uncertainty",
+      "doc_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty",
+      "parent_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty__root",
+      "title": "Poten Tanker Opinion: Navigating Uncertainty",
+      "section_path": [
+        "Poten Tanker Opinion: Navigating Uncertainty"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Navigating Uncertainty",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2025-01-17\n**Source URL**: [https://www.poten.com/navigating-uncertainty-2/](https://www.poten.com/navigating-uncertainty-2/)\n**Full PDF Report**: [Weekly Opinion - 17 January 2025 - Navigating Uncertainty.pdf](https://1975593.fs1.hubspotusercontent-na1.net/hubfs/1975593/Tanker%20Opinions/Weekly%20Opinion%20-%2017%20January%202025%20-%20Navigating%20Uncertainty.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2025/Weekly Opinion - 17 January 2025 - Navigating Uncertainty.pdf.",
+      "keywords": [
+        "https",
+        "january",
+        "navigating",
+        "opinion",
+        "full",
+        "pdf",
+        "uncertainty.pdf",
+        "www.poten.com/navigating-uncertainty-2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty__s02_analysis_overview",
+      "doc_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty",
+      "parent_id": "poten_tankers_2025-01-17_poten_2025_01_17_navigating_uncertainty__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "navigating",
+        "uncertainty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

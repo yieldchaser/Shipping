@@ -1,0 +1,84 @@
+{
+  "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters__root",
+  "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters",
+  "parent_id": null,
+  "title": "Poten Tanker Opinion: Murky Waters",
+  "section_path": [
+    "Poten Tanker Opinion: Murky Waters"
+  ],
+  "section_path_text": "Poten Tanker Opinion: Murky Waters",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Poten Tanker Opinion: Murky Waters\n**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-june-17-2022-murky-waters/](https://www.poten.com/tanker-opinions-june-17-2022-murky-waters/)\n**Full PDF Report**: [Weekly-Opinion-17-June-2022-Murky-Waters.pdf](https://www.poten.com/wp-content/uploads/2022/06/Weekly-Opinion-17-June-2022-Murky-Waters.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-17-June-2022-Murky-Waters.pdf. Analysis & Overview\nMurky Waters\nMurky Waters",
+  "keywords": [
+    "https",
+    "murky",
+    "waters",
+    "full",
+    "pdf",
+    "www.poten.com/tanker-opinions-june-17-2022-murky-waters",
+    "analysis",
+    "archived",
+    "author",
+    "broekhuizen",
+    "coverage",
+    "date"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 186,
+  "source_path": "reports/poten/2022/poten_2022-01-01_murky_waters.md",
+  "source_url": "https://www.poten.com/tanker-opinions-june-17-2022-murky-waters/",
+  "children": [
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters__s01_poten_tanker_opinion_murky_waters",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters__root",
+      "title": "Poten Tanker Opinion: Murky Waters",
+      "section_path": [
+        "Poten Tanker Opinion: Murky Waters"
+      ],
+      "section_path_text": "Poten Tanker Opinion: Murky Waters",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Author**: Erik Broekhuizen\n**Published Date**: 2022-01-01\n**Source URL**: [https://www.poten.com/tanker-opinions-june-17-2022-murky-waters/](https://www.poten.com/tanker-opinions-june-17-2022-murky-waters/)\n**Full PDF Report**: [Weekly-Opinion-17-June-2022-Murky-Waters.pdf](https://www.poten.com/wp-content/uploads/2022/06/Weekly-Opinion-17-June-2022-Murky-Waters.pdf)\n**Coverage**: Full PDF archived locally under reports/poten/pdfs/2022/Weekly-Opinion-17-June-2022-Murky-Waters.pdf.",
+      "keywords": [
+        "https",
+        "full",
+        "pdf",
+        "www.poten.com/tanker-opinions-june-17-2022-murky-waters",
+        "archived",
+        "author",
+        "broekhuizen",
+        "coverage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters__s02_analysis_overview",
+      "doc_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters",
+      "parent_id": "poten_tankers_2022-01-01_poten_2022_01_01_murky_waters__root",
+      "title": "Analysis & Overview",
+      "section_path": [
+        "Analysis & Overview"
+      ],
+      "section_path_text": "Analysis & Overview",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "murky",
+        "waters"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
