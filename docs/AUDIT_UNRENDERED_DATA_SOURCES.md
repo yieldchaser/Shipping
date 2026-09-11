@@ -29,7 +29,7 @@ A comprehensive, byte-level forensic census of the entire repository confirms th
 │                                               │ │                                               │
 │   • 50 Tabular Datasets (mostly prompt CSVs)  │ │   • 282 Tabular Files, Spreadsheets & Parquets│
 │   • Baltic Prompt Indices (BDI, BCI, BPI, BSI)│ │   • > 3,100,000 Quantitative Rows             │
-│   • Basic ETF curves (BDRY, BWET snapshots)   │ │   • 16-Sheet Master Excel Model (45k rows)    │
+│   • Basic ETF curves (BDRY, BWET snapshots)   │ │   • 3,441 Shipbroker Research PDFs            │
 │   • Prompt SGX Capesize single-contract quote │ │   • 35,957 Research Reports & Articles        │
 │   • 6-Port PortWatch congestion gauge         │ │   • 221-Port Global Bunker Pricing Matrix     │
 │   • 1 US vs Brazil landed cost spread chart   │ │   • 52-Year Fixture History (1974–2026)       │
@@ -41,7 +41,7 @@ A comprehensive, byte-level forensic census of the entire repository confirms th
 └───────────────────────────────────────────────┘ └───────────────────────────────────────────────┘
 ```
 
-Below is the **definitive, 21-category forensic inventory** of all data sources, historical depth, row counts, and structural contents present on disk but **absent from the frontend**.
+Below is the **definitive, 20-category forensic inventory** of all data sources, historical depth, row counts, and structural contents present on disk but **absent from the frontend**.
 
 ---
 
@@ -99,34 +99,7 @@ Harvested via Ship & Bunker and Bunker Index across every major and secondary bu
 
 ---
 
-## 4. Master Financial Model Workbook (`docs/Shipping_Main.xlsm`, 3.84 MB, 16 Sheets)
-
-The core master analytical workbook containing multi-year backtested quantitative models, rolling statistics, and vessel segment matrices.
-
-| Sheet Name | Dimensions | Contents & Quantitative Structures |
-| :--- | :--- | :--- |
-| `Dirtytanker` | 4,385 rows x 10 cols | Daily BDTI dirty tanker index, % changes, rolling returns. |
-| `Cleantanker` | 4,368 rows x 13 cols | Daily BCTI clean tanker index, route sub-indices. |
-| `Cape` | 4,196 rows x 22 cols | Capesize 5TC daily rates, route components, rolling stats. |
-| `Panama` | 4,196 rows x 23 cols | Panamax 4TC daily rates, P1A, P2A, P3A route breakdowns. |
-| `Suprama` | 4,195 rows x 22 cols | Supramax 10TC daily rates and regional basin rates. |
-| `BDIY` | 4,398 rows x 22 cols | Baltic Dry Index master composite history. |
-| `BDRY` | 4,196 rows x 25 cols | Breakwave Dry Bulk ETF tracking model, custom synthetic baskets. |
-| `Breakwave Drybulk` | 5,132 rows x 16 cols | Historical lot allocations, CUSIPs, prices, market values, and weights. |
-| `Breakwave Tanker` | 48 rows x 16 cols | Tanker ETF holding allocations and weightings. |
-| `Yearly Dashboard` | 7,937 rows x 52 cols | Multi-year performance attribution matrix (2008–2026). |
-| `Quarterly Dashboard` | 23 rows x 39 cols | Quarterly seasonal rate performance comparisons. |
-| `Monthly Dashboard` | 45 rows x 53 cols | Monthly seasonal rate performance and cycle highs/lows. |
-| `DB_Master` | 4,400 rows x 12 cols | Normalized database linking trading day numbers, dates, and asset rates. |
-| `Yearly Calculations` | 5,000 rows x 94 cols | Rolling mean, standard deviation, +1 Sigma, +2 Sigma envelope bands. |
-| `Quarterly Calculations` | 511 rows x 54 cols | Historical quarterly statistics by segment from 2008 to 2026. |
-| `Monthly Calculations` | 68 rows x 54 cols | Historical monthly statistics by segment from 2008 to 2026. |
-
-*Website Status*: 0% rendered directly from the Excel macro workbook.
-
----
-
-## 5. Australian REQ Macro Commodity Model (`data/cache/req_jun2026_hist.xlsx`, 3.52 MB)
+## 4. Australian REQ Macro Commodity Model (`data/cache/req_jun2026_hist.xlsx`, 3.52 MB)
 
 Harvested from the Australian Department of Industry, Science and Resources (DISR) *Resources and Energy Quarterly* (REQ).
 
@@ -142,7 +115,7 @@ Harvested from the Australian Department of Industry, Science and Resources (DIS
 
 ---
 
-## 6. Alibra Historical Polling Store (`docs/alibra_data/`, 39 Files)
+## 5. Alibra Historical Polling Store (`docs/alibra_data/`, 39 Files)
 
 Contains systematic weekly polling captures from Alibra Shipping:
 
@@ -156,7 +129,7 @@ Contains systematic weekly polling captures from Alibra Shipping:
 
 ---
 
-## 7. Hellenic Shipping News Research Archive (`reports/hellenic/`, 14,058 Files, 3.18 GB)
+## 6. Hellenic Shipping News Research Archive (`reports/hellenic/`, 14,058 Files, 3.18 GB)
 
 A vast private intelligence repository covering 12 years of global maritime trade (2014–2026):
 
@@ -171,7 +144,7 @@ A vast private intelligence repository covering 12 years of global maritime trad
 
 ---
 
-## 8. Breakwave Insights & Reports Archive (`reports/breakwave/`, 18,289 Files, 2.53 GB)
+## 7. Breakwave Insights & Reports Archive (`reports/breakwave/`, 18,289 Files, 2.53 GB)
 
 The complete commercial and macro research publication history from Breakwave Advisors:
 
@@ -182,14 +155,14 @@ The complete commercial and macro research publication history from Breakwave Ad
 
 ---
 
-## 9. Baltic Exchange Commentary Archive (`reports/baltic/`, 2,891 Files, 13.2 MB)
+## 8. Baltic Exchange Commentary Archive (`reports/baltic/`, 2,891 Files, 13.2 MB)
 
 - **2,891 Market Commentary Articles**: Historical Baltic Exchange weekly dry bulk, tanker, and gas fixture roundups, broker sentiment, and index commentary.
 - *Website Status*: 0% rendered in `index.html` (only Baltic quantitative index curves are plotted; the textual commentary archive is unexposed).
 
 ---
 
-## 10. Institutional Dry Bulk & Tanker Research (`reports/drybulk/` & `reports/tankers/`, 287 PDFs, 91.7 MB)
+## 9. Institutional Dry Bulk & Tanker Research (`reports/drybulk/` & `reports/tankers/`, 287 PDFs, 91.7 MB)
 
 - [`reports/drybulk/`](file:///c:/Users/Dell/Github/Shipping/reports/drybulk/): **209 full institutional research PDFs (63.6 MB)** covering dry bulk fleet fundamentals, iron ore/coal/grain demand, and chartering trends.
 - [`reports/tankers/`](file:///c:/Users/Dell/Github/Shipping/reports/tankers/): **78 full institutional research PDFs (28.2 MB)** spanning 2023–2026, covering crude and product tanker balances, OPEC+ export flows, refinery margins, and shadow fleet developments.
@@ -197,7 +170,7 @@ The complete commercial and macro research publication history from Breakwave Ad
 
 ---
 
-## 11. Seabrokers Seabreeze Offshore Intelligence (371 Records, 97 Reports, 574 MB)
+## 10. Seabrokers Seabreeze Offshore Intelligence (371 Records, 97 Reports, 574 MB)
 
 Harvested directly from Seabrokers Chartering and digested via `anydoc`.
 
@@ -213,7 +186,7 @@ Harvested directly from Seabrokers Chartering and digested via `anydoc`.
 
 ---
 
-## 12. Capital Link Shipping Equity Universe (41k Rows, 7 Workbooks, 21 Years)
+## 11. Capital Link Shipping Equity Universe (41k Rows, 7 Workbooks, 21 Years)
 
 Harvested from SEE Capital Markets / Zagreb Stock Exchange covering 21 years of shipping equities.
 
@@ -233,7 +206,7 @@ Harvested from SEE Capital Markets / Zagreb Stock Exchange covering 21 years of 
 
 ---
 
-## 13. Port Congestion, Chokepoints, AIS Transits & Upstream Commodities (150k Rows)
+## 12. Port Congestion, Chokepoints, AIS Transits & Upstream Commodities (150k Rows)
 
 | File Path | Format | Size | Records | Coverage | Contents & Recoverable Intelligence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -249,7 +222,7 @@ Harvested from SEE Capital Markets / Zagreb Stock Exchange covering 21 years of 
 
 ---
 
-## 14. Academic Corpus & Knowledge Graph Shards (12 Books, 19.8k Shards, 1.12 GB)
+## 13. Academic Corpus & Knowledge Graph Shards (12 Books, 19.8k Shards, 1.12 GB)
 
 ### Academic Treatises in `reports/*.pdf` (120.8 MB):
 1. **Stopford, Martin**: *Maritime Economics (3rd Edition)* (36.0 MB)
@@ -273,7 +246,7 @@ Harvested from SEE Capital Markets / Zagreb Stock Exchange covering 21 years of 
 
 ---
 
-## 15. Global Maritime & Bulk Cargo Equities, Mining Giants & SEC Filings Universe (158k Records, 175 Companies, 26.7 MB)
+## 14. Global Maritime & Bulk Cargo Equities, Mining Giants & SEC Filings Universe (158k Records, 175 Companies, 26.7 MB)
 
 Ingested directly via `edgartools` (SEC EDGAR) and international regulatory APIs across 154 maritime/offshore issuers plus the 21 primary seaborne dry bulk mining & cargo giants (Vale, Rio Tinto, BHP, Fortescue, Glencore, Anglo American, Teck, CSN, Alcoa, ArcelorMittal, Freeport, Cleveland-Cliffs, Peabody, Warrior Met, Alpha Met, Arch, ADM, Bunge, South32, Whitehaven, Yancoal):
 
@@ -289,7 +262,7 @@ Ingested directly via `edgartools` (SEC EDGAR) and international regulatory APIs
 
 ---
 
-## 16. Drewry Maritime Intelligence, AIS Fleet Analytics & Opinions (274 Reports, 539 Articles, 149 WCI Prints)
+## 15. Drewry Maritime Intelligence, AIS Fleet Analytics & Opinions (274 Reports, 539 Articles, 149 WCI Prints)
 
 Extracted directly from Drewry Shipping Consultants (CloudFront DAM and Opinions Portal) with automated production scrapers verified in GitHub Actions CI:
 
@@ -305,7 +278,7 @@ Extracted directly from Drewry Shipping Consultants (CloudFront DAM and Opinions
 
 ---
 
-## 17. The Signal Group & Signal Ocean Intelligence Archive (496 Reports, 1,372 Embedded Charts, 303.7 MB)
+## 16. The Signal Group & Signal Ocean Intelligence Archive (496 Reports, 1,372 Embedded Charts, 303.7 MB)
 
 Harvested directly from The Signal Group (Signal Ocean & Signal Maritime intelligence portals) across all published Weekly Market Monitors, Commodity Radars, and Market Newsroom Research:
 
@@ -323,7 +296,7 @@ Harvested directly from The Signal Group (Signal Ocean & Signal Maritime intelli
 
 ---
 
-## 18. Hellenic Shipping News Weekly Shipbroker Reports Archive (3,573 Reports, 3,441 Direct PDFs, 2.67 GB)
+## 17. Hellenic Shipping News Weekly Shipbroker Reports Archive (3,573 Reports, 3,441 Direct PDFs, 2.67 GB)
 
 Extracted via high-speed WordPress REST API endpoints from Hellenic Shipping News across all 239 historical pages of `weekly-shipbrokers-reports/` (bypassing all front-page ads, scripts, and overlays):
 
@@ -356,7 +329,7 @@ Extracted via high-speed WordPress REST API endpoints from Hellenic Shipping New
 
 ---
 
-## 19. Live & Historical Port Influx & Vessel Arrival Matrix (150k Port Calls, 20,000 UI Rows, 4.0 MB)
+## 18. Live & Historical Port Influx & Vessel Arrival Matrix (150k Port Calls, 20,000 UI Rows, 4.0 MB)
 
 Harvested directly from the IMF PortWatch ArcGIS REST API Gateway (`https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/Daily_Ports_Data/FeatureServer/0/query`) across 41 strategic global maritime hubs spanning **Dry Bulk, Tankers, LPG, and LNG**:
 
@@ -376,7 +349,7 @@ Harvested directly from the IMF PortWatch ArcGIS REST API Gateway (`https://serv
 
 ---
 
-## 20. Geospatial Vessel Voyage Tracker & Active Port Lineup Database (740 Active Hulls, 9.9k Voyage Tracks, 2,162 Vectors)
+## 19. Geospatial Vessel Voyage Tracker & Active Port Lineup Database (740 Active Hulls, 9.9k Voyage Tracks, 2,162 Vectors)
 
 Institutional-grade geospatial tracking layer cross-referencing 537k commercial fixtures, 150k port calls, and 2,065 IMF PortWatch port coordinates into clean, un-intermingled spatial time series:
 
@@ -396,7 +369,7 @@ Institutional-grade geospatial tracking layer cross-referencing 537k commercial 
 
 ---
 
-## 21. Physical Commodity In-Transit Flows & Seasonal Envelope Module (116 Monthly Records, Brazil Iron Ore & Guinea Bauxite, 2017–2026)
+## 20. Physical Commodity In-Transit Flows & Seasonal Envelope Module (116 Monthly Records, Brazil Iron Ore & Guinea Bauxite, 2017–2026)
 
 Institutional long-haul macro export tracker reproducing Signal Ocean physical flow envelopes and upstream freight drivers. Compiles continuous monthly volume series from January 1, 2017 through August 31, 2026 alongside preceding 5-year rolling min/max ranges and 5-year rolling averages:
 

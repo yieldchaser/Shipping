@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T15:13:04Z",
+ "generated_at": "2026-09-11T14:58:31Z",
  "compiler_version": 2,
  "count": 81,
  "files": [
@@ -57,7 +57,7 @@
    "path": "knowledge/chunks/baltic_ningbo_2026.jsonl",
    "stem": "baltic_ningbo_2026",
    "year": 2026,
-   "bytes": 186382
+   "bytes": 189056
   },
   {
    "file": "baltic_tanker.jsonl",
@@ -134,7 +134,7 @@
    "path": "knowledge/chunks/breakwave_insights_insights_2026.jsonl",
    "stem": "breakwave_insights_insights_2026",
    "year": 2026,
-   "bytes": 3647872
+   "bytes": 3692338
   },
   {
    "file": "breakwave_tankers.jsonl",
@@ -253,7 +253,7 @@
    "path": "knowledge/chunks/hellenic_demolition_2026.jsonl",
    "stem": "hellenic_demolition_2026",
    "year": 2026,
-   "bytes": 2883100
+   "bytes": 2884836
   },
   {
    "file": "hellenic_dry_charter.jsonl",
@@ -316,7 +316,7 @@
    "path": "knowledge/chunks/hellenic_dry_charter_2026.jsonl",
    "stem": "hellenic_dry_charter_2026",
    "year": 2026,
-   "bytes": 114574
+   "bytes": 122578
   },
   {
    "file": "hellenic_iron_ore.jsonl",
@@ -379,7 +379,7 @@
    "path": "knowledge/chunks/hellenic_iron_ore_2026.jsonl",
    "stem": "hellenic_iron_ore_2026",
    "year": 2026,
-   "bytes": 4317527
+   "bytes": 4485960
   },
   {
    "file": "hellenic_shipbuilding.jsonl",
@@ -435,7 +435,7 @@
    "path": "knowledge/chunks/hellenic_shipbuilding_2026.jsonl",
    "stem": "hellenic_shipbuilding_2026",
    "year": 2026,
-   "bytes": 220832
+   "bytes": 222590
   },
   {
    "file": "hellenic_tanker_charter.jsonl",
@@ -491,7 +491,7 @@
    "path": "knowledge/chunks/hellenic_tanker_charter_2026.jsonl",
    "stem": "hellenic_tanker_charter_2026",
    "year": 2026,
-   "bytes": 121826
+   "bytes": 129835
   },
   {
    "file": "hellenic_vessel_valuations.jsonl",
@@ -547,7 +547,7 @@
    "path": "knowledge/chunks/hellenic_vessel_valuations_2026.jsonl",
    "stem": "hellenic_vessel_valuations_2026",
    "year": 2026,
-   "bytes": 83591
+   "bytes": 93234
   },
   {
    "file": "poten_tankers_2026.jsonl",

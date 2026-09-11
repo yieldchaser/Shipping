@@ -5,105 +5,30 @@
   "sizes": {
     "portwatch_ports_master.csv": {
       "rows": 2065,
-      "bytes": 462166
+      "bytes": 460100
     },
     "chokepoints_master.csv": {
       "rows": 28,
-      "bytes": 5912
+      "bytes": 5883
     },
     "portwatch_disruptions.csv": {
       "rows": 132,
-      "bytes": 48895
+      "bytes": 48762
     },
-    "port_calls_daily_expanded_2025.csv.gz": {
-      "rows": 401500,
-      "bytes": 12163668,
-      "bytes_gz": 12163668,
-      "format": "csv.gz"
+    "port_calls_daily_expanded.csv": {
+      "rows": 510055,
+      "bytes": 57895926
     },
-    "port_calls_daily_expanded_2024.csv.gz": {
-      "rows": 496654,
-      "bytes": 14081024,
-      "bytes_gz": 14081024,
-      "format": "csv.gz"
-    },
-    "port_calls_daily_expanded_2023.csv.gz": {
-      "rows": 770903,
-      "bytes": 20300627,
-      "bytes_gz": 20300627,
-      "format": "csv.gz"
-    },
-    "port_calls_daily_expanded_2022.csv.gz": {
-      "rows": 771317,
-      "bytes": 20315925,
-      "bytes_gz": 20315925,
-      "format": "csv.gz"
-    },
-    "port_calls_daily_expanded_2021.csv.gz": {
-      "rows": 771365,
-      "bytes": 20194052,
-      "bytes_gz": 20194052,
-      "format": "csv.gz"
-    },
-    "port_calls_daily_expanded_2020.csv.gz": {
-      "rows": 772998,
-      "bytes": 20049625,
-      "bytes_gz": 20049625,
-      "format": "csv.gz"
-    },
-    "port_calls_daily_expanded_2019.csv.gz": {
-      "rows": 310222,
-      "bytes": 9315247,
-      "bytes_gz": 9315247,
-      "format": "csv.gz"
+    "port_calls_daily_expanded.parquet": {
+      "rows": 510055,
+      "bytes": 8431534
     }
   },
-  "rows": 4294959,
+  "rows": 14455,
   "ports_ingested": 2065,
-  "max_date": "2026-08-28",
-  "min_date": "2025-01-01",
-  "skipped_chunks": {
-    "2025:chunk2": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2025:chunk4": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2025:chunk5": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2025:chunk7": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2025:chunk14": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2024:chunk7": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2024:chunk10": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2024:chunk11": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}",
-    "2024:chunk12": "ArcGIS query failed after 5 attempts: {\"code\": 400, \"message\": \"Cannot perform query. Invalid query parameters.\", \"details\": [\"Unable to perform query. Please check your parameters.\"]}"
-  },
-  "year_reconciliation": {
-    "2025": {
-      "fetched": 401500,
-      "source": 21900
-    },
-    "2024": {
-      "fetched": 496654,
-      "source": 21228
-    },
-    "2023": {
-      "fetched": 770903,
-      "source": 20805
-    },
-    "2022": {
-      "fetched": 771317,
-      "source": 20440
-    },
-    "2021": {
-      "fetched": 771365,
-      "source": 20440
-    },
-    "2020": {
-      "fetched": 772998,
-      "source": 19983
-    },
-    "2019": {
-      "fetched": 310222,
-      "source": 8395
-    }
-  },
-  "mode": "backfill",
-  "elapsed_s": 47795.1,
-  "generated_utc": "2026-09-09 19:33 UTC"
+  "max_date": "2026-09-04",
+  "min_date": "2026-01-01",
+  "mode": "refresh",
+  "elapsed_s": 16.3,
+  "generated_utc": "2026-09-10 09:28 UTC"
 }
