@@ -12661,73 +12661,9 @@
         <div id="etfCorrMatrix" style="overflow-x:auto;margin-top:14px;"></div>
       </div>
 
-      <!-- Institutional Decision Ticket Modal (Global) -->
-      <div id="decisionTicketModal" aria-label="Institutional ETF scenario decision ticket modal. Copy the ticket as text or JSON with the header buttons; click outside to dismiss." style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10010;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeDecisionTicketModal()">
-        <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:960px;max-height:92vh;overflow-y:auto;box-shadow:0 16px 48px rgba(0,0,0,0.8);position:relative;padding:24px;color:var(--text);font-family:inherit;">
-          <!-- Modal Header -->
-          <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:14px;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
-            <div>
-              <div style="display:flex;align-items:center;gap:8px;">
-                <div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg></div>
-                <span style="font-size:16px;font-weight:800;letter-spacing:0.5px;" id="dtModalTitle">INSTITUTIONAL ETF SCENARIO DECISION TICKET</span>
-                <span id="dtModalFundBadge" style="font-size:var(--fs-micro);font-weight:800;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY</span>
-              </div>
-              <div id="dtModalSub" style="font-size:11px;color:var(--text-muted);margin-top:3px;">ID: <span id="dtModalId" style="font-family:monospace;color:var(--accent);">—</span> &bull; <span id="dtModalTime">—</span></div>
-            </div>
-            <div style="display:flex;gap:6px;align-items:center;">
-              <button onclick="copyDecisionTicketText()" data-tooltip="Copy the full decision ticket as formatted plain text to the clipboard." class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;display:inline-flex;align-items:center;gap:4px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg> Copy Text</button>
-              <button onclick="copyDecisionTicketJson()" data-tooltip="Copy the decision ticket as machine-readable JSON with every scenario field." class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">{ } Copy JSON</button>
-              <button onclick="closeDecisionTicketModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:20px;cursor:pointer;padding:0 6px;line-height:1;" title="Close Modal">&times;</button>
-            </div>
-          </div>
+      
 
-          <!-- Modal Body Content -->
-          <div id="dtModalBody">
-            <!-- Rendered dynamically by renderDecisionTicketInModal() -->
-          </div>
-        </div>
-      </div>
-
-      <!-- Universal Institutional Contract Settlement Inspector Modal (Global) -->
-      <div id="etfContractDetailModal" aria-label="Contract settlement inspector modal. Shows the selected futures contract's settled price history from the SGX archive; close with the X button or click outside." width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10020;backdrop-filter:blur(8px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeContractDetailModal()">
-        <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:860px;max-height:90vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.8);position:relative;padding:22px;color:var(--text);font-family:inherit;">
-          <!-- Modal Header -->
-          <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:12px;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
-            <div>
-              <div style="display:flex;align-items:center;gap:8px;">
-                <span id="cdModalRouteIcon" style="display:inline-flex;align-items:center;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></span>
-                <span style="font-size:15px;font-weight:800;letter-spacing:0.3px;" id="cdModalContractTitle">Contract Name</span>
-                <span id="cdModalStatusBadge" style="font-size:var(--fs-micro);font-weight:700;padding:2px 8px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">ACTIVE STRIP</span>
-              </div>
-              <div id="cdModalSubtitle" style="font-size:11px;color:var(--text-muted);margin-top:3px;">Exchange Settled Daily Forward Curve History</div>
-            </div>
-            <div style="display:flex;gap:6px;align-items:center;">
-              <button onclick="closeContractDetailModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:22px;cursor:pointer;padding:0 6px;line-height:1;" title="Close (Esc)">&times;</button>
-            </div>
-          </div>
-
-          <!-- KPI Badges HUD Strip -->
-          <div id="cdModalBadgesRow" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));gap:8px;margin-bottom:14px;">
-            <!-- Populated dynamically -->
-          </div>
-
-          <!-- Chart Container -->
-          <div style="height:280px;position:relative;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px;">
-            <canvas id="cdModalChartCanvas"></canvas>
-            <div id="cdModalNoDataMsg" style="display:none;height:100%;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--text-muted);">
-              <div style="margin-bottom:8px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--text-muted);"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></div>
-              <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>
-              <div style="font-size:11px;max-width:440px;line-height:1.4;">Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Scenario simulation remains 100% active in the predictor.</div>
-            </div>
-          </div>
-
-          <!-- Contract Metadata / Rulebook Footer -->
-          <div id="cdModalFooter" style="margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-size:var(--fs-micro);color:var(--text-muted);border-top:1px solid rgba(255,255,255,0.05);padding-top:8px;">
-            <span id="cdModalRulebookRef">Rulebook Reference: SGX Freight Derivatives / Baltic Exchange</span>
-            <span>Press <kbd style="background:var(--bg);border:1px solid var(--border);padding:1px 4px;border-radius:3px;font-size:var(--fs-micro);">ESC</kbd> to exit</span>
-          </div>
-        </div>
-      </div>
+      
 
     </div>
 
@@ -13457,19 +13393,19 @@
             <div id="basinHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Net Atlantic minus Pacific Time Charter Spread ($/day)" data-tt-type="basin-net-spread">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Net Spread</div>
-                <div id="basinHudNetSpread" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+                <div id="basinHudNetSpread" style="font-size:14px;font-weight:700;color:var(--accent);"></div>
               </div>
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="Atlantic rate premium over Pacific as a percentage" data-tt-type="basin-atl-premium">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Atlantic Premium %</div>
-                <div id="basinHudAtlPremium" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+                <div id="basinHudAtlPremium" style="font-size:14px;font-weight:700;color:#3fb950;"></div>
               </div>
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:120px;" data-tooltip="30-Day Moving Average of the Atlantic-Pacific Spread" data-tt-type="basin-30d-ma">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">30D MA Spread</div>
-                <div id="basinHud30dMa" style="font-size:14px;font-weight:700;color:#79c0ff;">—</div>
+                <div id="basinHud30dMa" style="font-size:14px;font-weight:700;color:#79c0ff;"></div>
               </div>
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip="Historical 90th Percentile Spread Corridor (Top decile Atlantic premium regime)" data-tt-type="basin-90p-corridor">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">90th Pctl Corridor</div>
-                <div id="basinHud90p" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+                <div id="basinHud90p" style="font-size:14px;font-weight:700;color:#e3b341;"></div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -13599,19 +13535,19 @@
             <div id="valHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
               <div id="valHudSafetyCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-safety-margin">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Scrap Margin of Safety</div>
-                <div id="valHudSafetyMargin" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+                <div id="valHudSafetyMargin" style="font-size:14px;font-weight:700;color:var(--accent);"></div>
               </div>
               <div id="valHudValCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-10y-value">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">10Y Secondhand Value</div>
-                <div id="valHud10yValue" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
+                <div id="valHud10yValue" style="font-size:14px;font-weight:700;color:#58a6ff;"></div>
               </div>
               <div id="valHudScrapCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-scrap-floor">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Demolition Scrap Floor</div>
-                <div id="valHudScrapFloor" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+                <div id="valHudScrapFloor" style="font-size:14px;font-weight:700;color:#e3b341;"></div>
               </div>
               <div id="valHudYieldCard" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;" data-tooltip=" " data-tt-type="val-charter-yield">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Implied 1Y Yield</div>
-                <div id="valHudCharterYield" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+                <div id="valHudCharterYield" style="font-size:14px;font-weight:700;color:#3fb950;"></div>
               </div>
             </div>
             <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -13649,10 +13585,10 @@
                     <span style="font-weight:600;color:var(--text);font-size:13px;">Cycle Phase Analysis</span>
                     <span id="quadrantRegimeCounterBadge" style="padding:2px 6px;border-radius:3px;font-size:var(--fs-micro);font-weight:600;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Regime Active</span>
                   </div>
-                  <div id="quadrantPhaseText" style="font-weight:700;font-size:14px;color:var(--accent);margin-bottom:8px;">—</div>
+                  <div id="quadrantPhaseText" style="font-weight:700;font-size:14px;color:var(--accent);margin-bottom:8px;"></div>
                   <div id="quadrantDaysCounterWrap" style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:8px 10px;margin-bottom:8px;">
                     <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.3px;">Days in Active Regime</div>
-                    <div id="quadrantDaysCounterVal" style="font-size:13px;font-weight:700;color:var(--text-bright);margin-top:2px;">—</div>
+                    <div id="quadrantDaysCounterVal" style="font-size:13px;font-weight:700;color:var(--text-bright);margin-top:2px;"></div>
                     <div id="quadrantMedianDurationVal" style="font-size:11px;color:var(--text-muted);margin-top:2px;">10Y Historical Median: —</div>
                   </div>
                 </div>
@@ -13929,25 +13865,7 @@
         </div>
       </div>
 
-      <!-- MUSEUM MODAL -->
-      <div id="fearnMusModal" style="display:none;position:fixed;inset:0;background:rgba(1,4,9,0.85);z-index:1000;align-items:center;justify-content:center;" onclick="if(event.target===this)closeFearnMusModal()">
-        <div style="width:min(960px,94vw);max-height:90vh;overflow-y:auto;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:20px;">
-          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;gap:10px;flex-wrap:wrap;">
-            <div id="fearnMusTitle" style="font-weight:700;font-size:15px;font-family:'IBM Plex Mono',monospace;"></div>
-            <div style="display:flex;gap:8px;align-items:center;">
-              <button id="fearnMusAppBtn" class="tracking-status-btn active" style="font-size:11px;padding:4px 12px;background:var(--accent);color:#000;border:none;display:none;">View in App ➔</button>
-              <button class="tracking-status-btn" onclick="closeFearnMusModal()">Close ✕</button>
-            </div>
-          </div>
-          <div id="fearnMusStats" class="tracking-kpi-grid" style="margin-bottom:14px;"></div>
-          <div id="fearnMusChartWrap" class="chart-canvas-wrap" style="height:320px;display:none;margin-bottom:10px;"><canvas id="fearnMusChart"></canvas></div>
-          <div id="fearnMusNotesBox" style="display:none;padding:12px;background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;margin-bottom:10px;">
-            <div style="font-size:11px;font-weight:700;color:var(--text-bright);margin-bottom:4px;font-family:'IBM Plex Mono',monospace;">PROVENANCE & AUDIT NOTES:</div>
-            <div id="fearnMusNotesContent" style="font-size:12px;color:var(--text);line-height:1.5;"></div>
-          </div>
-          <div id="fearnMusNote" style="font-size:11px;color:var(--text-muted);padding:4px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
-        </div>
-      </div>
+      
     </div>
 
     <!-- ── Intelligence Tab ──────────────────────────────────────────────── -->
@@ -14869,86 +14787,7 @@ if (intelTabsContainer) {
         </div>
       </div><!-- /tracking-workstation -->
 
-      <!-- SURFACE C: Vessel Drill-Down Modal -->
-      <div id="vesselModalBackdrop" class="vessel-modal-backdrop" style="display:none;" onclick="if(event.target===this) closeVesselModal();">
-        <div class="vessel-modal-card">
-          <div class="vessel-modal-header">
-            <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-              <span style="font-size:16px; font-weight:700; color:#fff;" id="vesselModalName">—</span>
-              <span class="class-badge" id="vesselModalClass">—</span>
-              <span class="tracking-live-tag" style="font-size:var(--fs-micro); padding:2px 6px;" id="vesselModalImo">—</span>
-              <span id="vesselModalScrubber" class="class-badge" style="background:rgba(63,185,80,0.15); color:#3fb950; display:none;">Scrubber Fitted</span>
-            </div>
-            <button class="cp-toggle-btn" onclick="closeVesselModal()" style="font-size:16px; padding:2px 8px; line-height:1;">&times;</button>
-          </div>
-
-          <!-- Tabs -->
-          <div class="vessel-modal-nav">
-            <button class="vessel-modal-tab-btn active" id="vesselTabParticularsBtn" onclick="setVesselModalTab('particulars')">Particulars</button>
-            <button class="vessel-modal-tab-btn" id="vesselTabVoyagesBtn" onclick="setVesselModalTab('voyages')">Voyage History</button>
-            <button class="vessel-modal-tab-btn" id="vesselTabAisBtn" onclick="setVesselModalTab('ais')">Live AIS &amp; Position</button>
-          </div>
-
-          <div class="vessel-modal-body" style="padding:12px; overflow-y:auto; flex:1;">
-            <!-- Tab 1: Particulars -->
-            <div id="vesselTabParticulars" style="display:flex; flex-direction:column; gap:10px;">
-              <div class="cp-spec-grid" id="vesselSpecGrid">
-                <div class="cp-spec-item"><span class="cp-spec-label">Deadweight (DWT)</span><span class="cp-spec-val" id="vmDwt">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Year Built</span><span class="cp-spec-val" id="vmBuilt">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Shipyard / Builder</span><span class="cp-spec-val" id="vmYard">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Commercial Operator</span><span class="cp-spec-val" id="vmOperator" style="color:var(--accent);">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Vessel Class</span><span class="cp-spec-val" id="vmClass">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Flag State</span><span class="cp-spec-val" id="vmFlag">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Scrubber Status</span><span class="cp-spec-val" id="vmScrubber">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Registry Source</span><span class="cp-spec-val">Signal Ocean Fleet Registry</span></div>
-              </div>
-            </div>
-
-            <!-- Tab 2: Voyage History -->
-            <div id="vesselTabVoyages" style="display:none; flex-direction:column; gap:8px;">
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); display:flex; justify-content:space-between;">
-                <span>Historical Voyage Tracks (Master 24,434 legs)</span>
-                <span id="vmVoyageCount">0 legs recorded</span>
-              </div>
-              <div class="tracking-table-wrap" style="max-height:300px; border:1px solid var(--border); border-radius:6px;">
-                <table class="tracking-table">
-                  <thead>
-                    <tr>
-                      <th>Leg</th>
-                      <th>Port Name</th>
-                      <th>LOCODE</th>
-                      <th>Arrival</th>
-                      <th>Departure</th>
-                      <th>Transit (d)</th>
-                      <th>Distance (NM)</th>
-                    </tr>
-                  </thead>
-                  <tbody id="vesselVoyagesTableBody">
-                    <tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">Loading voyage history…</td></tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-
-            <!-- Tab 3: Live AIS & Position -->
-            <div id="vesselTabAis" style="display:none; flex-direction:column; gap:10px;">
-              <div class="cp-spec-grid">
-                <div class="cp-spec-item"><span class="cp-spec-label">AIS Status</span><span class="cp-spec-val" id="vmAisStatus">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Speed / Heading</span><span class="cp-spec-val" id="vmAisSpeed">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Reported Destination</span><span class="cp-spec-val" id="vmAisDest">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Reported ETA</span><span class="cp-spec-val" id="vmAisEta">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Coordinates</span><span class="cp-spec-val" id="vmAisCoords">—</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Laden / Ballast</span><span class="cp-spec-val" id="vmAisLaden">—</span></div>
-              </div>
-            </div>
-          </div>
-
-          <div class="vessel-modal-footer" style="padding:10px 12px; border-top:1px solid var(--border); background:#0e141c; display:flex; justify-content:space-between; align-items:center;">
-            <button class="cp-toggle-btn active" id="vmCenterMapBtn" onclick="centerVesselOnMap()" style="background:var(--accent); color:#000; font-weight:700;">Center on Map &amp; Track</button>
-            <button class="cp-toggle-btn" onclick="closeVesselModal()">Close</button>
-          </div>
-        </div>
-      </div>
+      
     </div><!-- /tab-tracking -->
 
 
@@ -16130,63 +15969,7 @@ if (intelTabsContainer) {
         </div>
       </div><!-- /bunkers-workstation -->
 
-      <!-- Port Detail Modal -->
-      <div id="bunkerPortDetailModal" class="bunker-modal-backdrop" style="display:none;" onclick="if(event.target===this)closeBunkerPortDetail()">
-        <div class="bunker-modal-card">
-          <div class="bunker-modal-header">
-            <div>
-              <h3 id="bunkerModalPortTitle" style="font-size:16px; font-weight:700; color:#fff; margin:0;">Port Detail</h3>
-              <div id="bunkerModalPortSub" style="font-size:11px; color:var(--text-muted); margin-top:2px;">Physical Port Fuel Intelligence</div>
-            </div>
-            <button onclick="closeBunkerPortDetail()" style="background:none; border:1px solid var(--border); border-radius:4px; color:#fff; cursor:pointer; font-size:14px; padding:4px 10px;">&times;</button>
-          </div>
-          <div class="bunker-modal-body">
-            <div id="bunkerModalOutlierBanner" style="display:none; padding:8px 12px; background:rgba(248,81,73,0.12); border:1px solid rgba(248,81,73,0.4); border-radius:6px; flex-direction:column;"></div>
-
-            <div class="bunker-modal-kpi-grid">
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">VLSFO (0.5% S)</div>
-                <div id="bunkerModalKpiVlsfo" style="font-size:15px; font-weight:700; color:#3fb950; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">MGO (0.1% S)</div>
-                <div id="bunkerModalKpiMgo" style="font-size:15px; font-weight:700; color:#e3b341; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">HSFO (IFO380)</div>
-                <div id="bunkerModalKpiHsfo" style="font-size:15px; font-weight:700; color:#4d9aff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Hi-5 Spread</div>
-                <div id="bunkerModalKpiHi5" style="font-size:15px; font-weight:700; color:#a371f7; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Spread vs Singapore</div>
-                <div id="bunkerModalKpiSpreadSg" style="font-size:15px; font-weight:700; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Biofuel (B24)</div>
-                <div id="bunkerModalKpiBio" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">LNG Bunker</div>
-                <div id="bunkerModalKpiLng" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-              <div class="bunker-modal-kpi">
-                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Methanol (MEOH)</div>
-                <div id="bunkerModalKpiMeoh" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;">—</div>
-              </div>
-            </div>
-
-            <div style="background:var(--card); border:1px solid var(--border); border-radius:6px; padding:12px;">
-              <div style="font-size:12px; font-weight:700; color:#fff; margin-bottom:8px;">Multi-Grade Historical Price Curve (3-Year Series)</div>
-              <div style="height:220px; position:relative; width:100%;">
-                <canvas id="bunkerPortDetailChart"></canvas>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      
 </div><!-- /tab-bunkers -->
  
     <!-- =====================================================================
@@ -16347,6 +16130,238 @@ if (intelTabsContainer) {
         </div>
       </div>
     </div><!-- /tab-offshore -->
+
+    <!-- =====================================================================
+         GLOBAL APPLICATION MODALS (Mounted outside tab panels)
+         ===================================================================== -->
+
+<!-- Institutional Decision Ticket Modal (Global) -->
+      <div id="decisionTicketModal" aria-label="Institutional ETF scenario decision ticket modal. Copy the ticket as text or JSON with the header buttons; click outside to dismiss." style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10010;backdrop-filter:blur(6px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeDecisionTicketModal()">
+        <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:960px;max-height:92vh;overflow-y:auto;box-shadow:0 16px 48px rgba(0,0,0,0.8);position:relative;padding:24px;color:var(--text);font-family:inherit;">
+          <!-- Modal Header -->
+          <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:14px;margin-bottom:16px;flex-wrap:wrap;gap:8px;">
+            <div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <div class="icon-tile icon-tile-accent icon-tile-md"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/></svg></div>
+                <span style="font-size:16px;font-weight:800;letter-spacing:0.5px;" id="dtModalTitle">INSTITUTIONAL ETF SCENARIO DECISION TICKET</span>
+                <span id="dtModalFundBadge" style="font-size:var(--fs-micro);font-weight:800;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">BDRY</span>
+              </div>
+              <div id="dtModalSub" style="font-size:11px;color:var(--text-muted);margin-top:3px;">ID: <span id="dtModalId" style="font-family:monospace;color:var(--accent);"></span> &bull; <span id="dtModalTime"></span></div>
+            </div>
+            <div style="display:flex;gap:6px;align-items:center;">
+              <button onclick="copyDecisionTicketText()" data-tooltip="Copy the full decision ticket as formatted plain text to the clipboard." class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;display:inline-flex;align-items:center;gap:4px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg> Copy Text</button>
+              <button onclick="copyDecisionTicketJson()" data-tooltip="Copy the decision ticket as machine-readable JSON with every scenario field." class="pill-btn" style="padding:4px 10px;border-radius:4px;border:1px solid var(--border);background:var(--bg);color:var(--text);font-size:11px;font-weight:600;cursor:pointer;">{ } Copy JSON</button>
+              <button onclick="closeDecisionTicketModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:20px;cursor:pointer;padding:0 6px;line-height:1;" title="Close Modal">&times;</button>
+            </div>
+          </div>
+
+          <!-- Modal Body Content -->
+          <div id="dtModalBody">
+            <!-- Rendered dynamically by renderDecisionTicketInModal() -->
+          </div>
+        </div>
+      </div>
+
+<!-- Universal Institutional Contract Settlement Inspector Modal (Global) -->
+      <div id="etfContractDetailModal" aria-label="Contract settlement inspector modal. Shows the selected futures contract's settled price history from the SGX archive; close with the X button or click outside." width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10020;backdrop-filter:blur(8px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeContractDetailModal()">
+        <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:860px;max-height:90vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.8);position:relative;padding:22px;color:var(--text);font-family:inherit;">
+          <!-- Modal Header -->
+          <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:12px;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
+            <div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span id="cdModalRouteIcon" style="display:inline-flex;align-items:center;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></span>
+                <span style="font-size:15px;font-weight:800;letter-spacing:0.3px;" id="cdModalContractTitle">Contract Name</span>
+                <span id="cdModalStatusBadge" style="font-size:var(--fs-micro);font-weight:700;padding:2px 8px;border-radius:4px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">ACTIVE STRIP</span>
+              </div>
+              <div id="cdModalSubtitle" style="font-size:11px;color:var(--text-muted);margin-top:3px;">Exchange Settled Daily Forward Curve History</div>
+            </div>
+            <div style="display:flex;gap:6px;align-items:center;">
+              <button onclick="closeContractDetailModal()" style="background:transparent;border:none;color:var(--text-muted);font-size:22px;cursor:pointer;padding:0 6px;line-height:1;" title="Close (Esc)">&times;</button>
+            </div>
+          </div>
+
+          <!-- KPI Badges HUD Strip -->
+          <div id="cdModalBadgesRow" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(130px, 1fr));gap:8px;margin-bottom:14px;">
+            <!-- Populated dynamically -->
+          </div>
+
+          <!-- Chart Container -->
+          <div style="height:280px;position:relative;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px;">
+            <canvas id="cdModalChartCanvas"></canvas>
+            <div id="cdModalNoDataMsg" style="display:none;height:100%;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--text-muted);">
+              <div style="margin-bottom:8px;"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="color:var(--text-muted);"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg></div>
+              <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:4px;">Historical Settlement Feed Not Available</div>
+              <div style="font-size:11px;max-width:440px;line-height:1.4;">Daily exchange settlement price feeds are not published for far-dated forward tanker contracts. Scenario simulation remains 100% active in the predictor.</div>
+            </div>
+          </div>
+
+          <!-- Contract Metadata / Rulebook Footer -->
+          <div id="cdModalFooter" style="margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-size:var(--fs-micro);color:var(--text-muted);border-top:1px solid rgba(255,255,255,0.05);padding-top:8px;">
+            <span id="cdModalRulebookRef">Rulebook Reference: SGX Freight Derivatives / Baltic Exchange</span>
+            <span>Press <kbd style="background:var(--bg);border:1px solid var(--border);padding:1px 4px;border-radius:3px;font-size:var(--fs-micro);">ESC</kbd> to exit</span>
+          </div>
+        </div>
+      </div>
+
+<!-- MUSEUM MODAL -->
+      <div id="fearnMusModal" style="display:none;position:fixed;inset:0;background:rgba(1,4,9,0.85);z-index:1000;align-items:center;justify-content:center;" onclick="if(event.target===this)closeFearnMusModal()">
+        <div style="width:min(960px,94vw);max-height:90vh;overflow-y:auto;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:20px;">
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;gap:10px;flex-wrap:wrap;">
+            <div id="fearnMusTitle" style="font-weight:700;font-size:15px;font-family:'IBM Plex Mono',monospace;"></div>
+            <div style="display:flex;gap:8px;align-items:center;">
+              <button id="fearnMusAppBtn" class="tracking-status-btn active" style="font-size:11px;padding:4px 12px;background:var(--accent);color:#000;border:none;display:none;">View in App ➔</button>
+              <button class="tracking-status-btn" onclick="closeFearnMusModal()">Close ✕</button>
+            </div>
+          </div>
+          <div id="fearnMusStats" class="tracking-kpi-grid" style="margin-bottom:14px;"></div>
+          <div id="fearnMusChartWrap" class="chart-canvas-wrap" style="height:320px;display:none;margin-bottom:10px;"><canvas id="fearnMusChart"></canvas></div>
+          <div id="fearnMusNotesBox" style="display:none;padding:12px;background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;margin-bottom:10px;">
+            <div style="font-size:11px;font-weight:700;color:var(--text-bright);margin-bottom:4px;font-family:'IBM Plex Mono',monospace;">PROVENANCE & AUDIT NOTES:</div>
+            <div id="fearnMusNotesContent" style="font-size:12px;color:var(--text);line-height:1.5;"></div>
+          </div>
+          <div id="fearnMusNote" style="font-size:11px;color:var(--text-muted);padding:4px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
+        </div>
+      </div>
+
+<!-- SURFACE C: Vessel Drill-Down Modal -->
+      <div id="vesselModalBackdrop" class="vessel-modal-backdrop" style="display:none;" onclick="if(event.target===this) closeVesselModal();">
+        <div class="vessel-modal-card">
+          <div class="vessel-modal-header">
+            <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+              <span style="font-size:16px; font-weight:700; color:#fff;" id="vesselModalName"></span>
+              <span class="class-badge" id="vesselModalClass"></span>
+              <span class="tracking-live-tag" style="font-size:var(--fs-micro); padding:2px 6px;" id="vesselModalImo"></span>
+              <span id="vesselModalScrubber" class="class-badge" style="background:rgba(63,185,80,0.15); color:#3fb950; display:none;">Scrubber Fitted</span>
+            </div>
+            <button class="cp-toggle-btn" onclick="closeVesselModal()" style="font-size:16px; padding:2px 8px; line-height:1;">&times;</button>
+          </div>
+
+          <!-- Tabs -->
+          <div class="vessel-modal-nav">
+            <button class="vessel-modal-tab-btn active" id="vesselTabParticularsBtn" onclick="setVesselModalTab('particulars')">Particulars</button>
+            <button class="vessel-modal-tab-btn" id="vesselTabVoyagesBtn" onclick="setVesselModalTab('voyages')">Voyage History</button>
+            <button class="vessel-modal-tab-btn" id="vesselTabAisBtn" onclick="setVesselModalTab('ais')">Live AIS &amp; Position</button>
+          </div>
+
+          <div class="vessel-modal-body" style="padding:12px; overflow-y:auto; flex:1;">
+            <!-- Tab 1: Particulars -->
+            <div id="vesselTabParticulars" style="display:flex; flex-direction:column; gap:10px;">
+              <div class="cp-spec-grid" id="vesselSpecGrid">
+                <div class="cp-spec-item"><span class="cp-spec-label">Deadweight (DWT)</span><span class="cp-spec-val" id="vmDwt"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Year Built</span><span class="cp-spec-val" id="vmBuilt"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Shipyard / Builder</span><span class="cp-spec-val" id="vmYard"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Commercial Operator</span><span class="cp-spec-val" id="vmOperator" style="color:var(--accent);"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Vessel Class</span><span class="cp-spec-val" id="vmClass"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Flag State</span><span class="cp-spec-val" id="vmFlag"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Scrubber Status</span><span class="cp-spec-val" id="vmScrubber"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Registry Source</span><span class="cp-spec-val">Signal Ocean Fleet Registry</span></div>
+              </div>
+            </div>
+
+            <!-- Tab 2: Voyage History -->
+            <div id="vesselTabVoyages" style="display:none; flex-direction:column; gap:8px;">
+              <div style="font-size:var(--fs-micro); color:var(--text-muted); display:flex; justify-content:space-between;">
+                <span>Historical Voyage Tracks (Master 24,434 legs)</span>
+                <span id="vmVoyageCount">0 legs recorded</span>
+              </div>
+              <div class="tracking-table-wrap" style="max-height:300px; border:1px solid var(--border); border-radius:6px;">
+                <table class="tracking-table">
+                  <thead>
+                    <tr>
+                      <th>Leg</th>
+                      <th>Port Name</th>
+                      <th>LOCODE</th>
+                      <th>Arrival</th>
+                      <th>Departure</th>
+                      <th>Transit (d)</th>
+                      <th>Distance (NM)</th>
+                    </tr>
+                  </thead>
+                  <tbody id="vesselVoyagesTableBody">
+                    <tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">Loading voyage history…</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- Tab 3: Live AIS & Position -->
+            <div id="vesselTabAis" style="display:none; flex-direction:column; gap:10px;">
+              <div class="cp-spec-grid">
+                <div class="cp-spec-item"><span class="cp-spec-label">AIS Status</span><span class="cp-spec-val" id="vmAisStatus"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Speed / Heading</span><span class="cp-spec-val" id="vmAisSpeed"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Reported Destination</span><span class="cp-spec-val" id="vmAisDest"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Reported ETA</span><span class="cp-spec-val" id="vmAisEta"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Coordinates</span><span class="cp-spec-val" id="vmAisCoords"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Laden / Ballast</span><span class="cp-spec-val" id="vmAisLaden"></span></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="vessel-modal-footer" style="padding:10px 12px; border-top:1px solid var(--border); background:#0e141c; display:flex; justify-content:space-between; align-items:center;">
+            <button class="cp-toggle-btn active" id="vmCenterMapBtn" onclick="centerVesselOnMap()" style="background:var(--accent); color:#000; font-weight:700;">Center on Map &amp; Track</button>
+            <button class="cp-toggle-btn" onclick="closeVesselModal()">Close</button>
+          </div>
+        </div>
+      </div>
+
+<!-- Port Detail Modal -->
+      <div id="bunkerPortDetailModal" class="bunker-modal-backdrop" style="display:none;" onclick="if(event.target===this)closeBunkerPortDetail()">
+        <div class="bunker-modal-card">
+          <div class="bunker-modal-header">
+            <div>
+              <h3 id="bunkerModalPortTitle" style="font-size:16px; font-weight:700; color:#fff; margin:0;">Port Detail</h3>
+              <div id="bunkerModalPortSub" style="font-size:11px; color:var(--text-muted); margin-top:2px;">Physical Port Fuel Intelligence</div>
+            </div>
+            <button onclick="closeBunkerPortDetail()" style="background:none; border:1px solid var(--border); border-radius:4px; color:#fff; cursor:pointer; font-size:14px; padding:4px 10px;">&times;</button>
+          </div>
+          <div class="bunker-modal-body">
+            <div id="bunkerModalOutlierBanner" style="display:none; padding:8px 12px; background:rgba(248,81,73,0.12); border:1px solid rgba(248,81,73,0.4); border-radius:6px; flex-direction:column;"></div>
+
+            <div class="bunker-modal-kpi-grid">
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">VLSFO (0.5% S)</div>
+                <div id="bunkerModalKpiVlsfo" style="font-size:15px; font-weight:700; color:#3fb950; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">MGO (0.1% S)</div>
+                <div id="bunkerModalKpiMgo" style="font-size:15px; font-weight:700; color:#e3b341; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">HSFO (IFO380)</div>
+                <div id="bunkerModalKpiHsfo" style="font-size:15px; font-weight:700; color:#4d9aff; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Hi-5 Spread</div>
+                <div id="bunkerModalKpiHi5" style="font-size:15px; font-weight:700; color:#a371f7; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Spread vs Singapore</div>
+                <div id="bunkerModalKpiSpreadSg" style="font-size:15px; font-weight:700; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Biofuel (B24)</div>
+                <div id="bunkerModalKpiBio" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">LNG Bunker</div>
+                <div id="bunkerModalKpiLng" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+              <div class="bunker-modal-kpi">
+                <div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">Methanol (MEOH)</div>
+                <div id="bunkerModalKpiMeoh" style="font-size:15px; font-weight:700; color:#00e5ff; font-family:'IBM Plex Mono', monospace; margin-top:2px;"></div>
+              </div>
+            </div>
+
+            <div style="background:var(--card); border:1px solid var(--border); border-radius:6px; padding:12px;">
+              <div style="font-size:12px; font-weight:700; color:#fff; margin-bottom:8px;">Multi-Grade Historical Price Curve (3-Year Series)</div>
+              <div style="height:220px; position:relative; width:100%;">
+                <canvas id="bunkerPortDetailChart"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
 
   <!-- /main -->
 
@@ -17404,7 +17419,21 @@ if (intelTabsContainer) {
           const rows = await fetchCSV(file);
           DATA.sgx[key] = (rows || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
-            return (d && row.settlement != null) ? { date: d, dateStr: row.date, contract: (row.contract || '').trim(), settlement: parseVal(row.settlement), change: parseVal(row.change), volume: parseVal(row.volume), open_interest: parseVal(row.open_interest), month_order: parseVal(row.month_order) } : null;
+            const px = parseVal(row.price != null ? row.price : (row.settle != null ? row.settle : row.Close));
+            return (d && px != null) ? {
+              date: d,
+              dateStr: row.date,
+              contract: (row.contract || '').trim(),
+              price: px,
+              settle: px,
+              volume: parseVal(row.volume),
+              open_interest: parseVal(row.open_interest),
+              expiry_month: row.expiry_month,
+              expiry_year: row.expiry_year,
+              expiry_date: row.expiry_date,
+              change: parseVal(row.change),
+              month_order: parseVal(row.month_order)
+            } : null;
           }).filter(Boolean);
         } catch (e) { DATA.sgx[key] = []; }
       });
@@ -17412,81 +17441,157 @@ if (intelTabsContainer) {
       signalsLoadPromise = Promise.allSettled([
         safeFetch('data/derived/time_charter_rates.csv', 'Time Charter Rates', [], r => {
           DATA.timeCharterRates = DATA.time_charter_rates = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: row.date, capesize: parseVal(row.capesize), panamax: parseVal(row.panamax), supramax: parseVal(row.supramax), handysize: parseVal(row.handysize) };
+            const out = { date: parseDateISO(row.date) || parseDate(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                if (k === 'source') { out[k] = row[k]; continue; }
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
           }).filter(x => x.date);
         }),
         safeFetch('data/derived/iron_ore_restocking.csv', 'Iron Ore Restocking', [], r => {
           DATA.ironOreRestocking = DATA.iron_ore_restocking = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            const inv = parseVal(row.inventory_mt);
-            const days = parseVal(row.days_of_use);
-            const util = parseVal(row.mill_utilization_pct);
-            const imp = parseVal(row.implied_burn_rate_mt);
-            const reg = (row.regime || '').trim();
-            return (d && inv != null) ? { date: d, dateStr: row.date, inventory_mt: inv, days_of_use: days, mill_utilization_pct: util, implied_burn_rate_mt: imp, regime: reg } : null;
-          }).filter(Boolean);
+            const out = { date: parseDateISO(row.date) || parseDate(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(x => x.date);
         }),
         safeFetch('data/derived/vessel_valuations.csv', 'Vessel Valuations', [], r => {
-          DATA.vesselValuations = DATA.vessel_valuations = (r || []).map(row => {
+          DATA.vesselValuations = DATA.sp_valuations = DATA.snp_valuations = DATA.snpValuations = DATA.vessel_valuations = (r || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
-            const val = parseVal(row.asset_value_m);
-            const earn = parseVal(row.annual_earnings_m);
-            const ratio = parseVal(row.pe_ratio);
-            const avg = parseVal(row.five_year_avg_pe);
-            const st = (row.status || '').trim();
-            return (d && val != null) ? { date: d, dateStr: row.date, sector: (row.sector || '').trim(), vessel_class: (row.vessel_class || '').trim(), age: (row.age || '').trim(), asset_value_m: val, annual_earnings_m: earn, pe_ratio: ratio, five_year_avg_pe: avg, status: st } : null;
-          }).filter(Boolean);
+            const val = parseFloat(row.valuation_usd_m);
+            return {
+              date: d,
+              dateStr: row.date,
+              category: row.category,
+              tenorType: row.tenor_type,
+              vessel_class: (row.vessel_class || '').trim(),
+              valuation_usd_m: isNaN(val) ? null : val
+            };
+          }).filter(x => x.date);
         }),
         safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
           DATA.scrappagePrices = DATA.scrappage_prices = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            const ldt = parseVal(row.price_per_ldt);
-            const vol = parseVal(row.demo_volume_dwt);
-            const sub = parseVal(row.subcontinent_avg);
-            const reg = (row.region || '').trim();
-            return (d && ldt != null) ? { date: d, dateStr: row.date, region: reg, price_per_ldt: ldt, demo_volume_dwt: vol, subcontinent_avg: sub } : null;
-          }).filter(Boolean);
+          DATA.scrappagePrices = DATA.scrappage_prices = DATA.scrap_prices = (r || []).map(row => {
+            const out = { date: parseDateISO(row.date) || parseDate(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(x => x.date);
         }),
         safeFetch('data/derived/time_charter_rates_fearnleys.csv', 'Broker Desk TC Rates', [], r => {
-          DATA.timeCharterRatesFearnleys = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: row.date, sector: (row.sector || '').trim(), segment: (row.segment || '').trim(), tenor: (row.tenor || '').trim(), rate: parseVal(row.rate) };
-          }).filter(x => x.date && x.rate != null);
+          DATA.timeCharterFearnleys = DATA.time_charter_fearnleys = DATA.timeCharterRatesFearnleys = (r || []).map(row => {
+            const out = { date: parseDateISO(row.date) || parseDate(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(x => x.date);
         }),
         safeFetch('data/derived/intermodal_tc_rates.csv', 'Intermodal TC Rates', [], r => {
-          DATA.intermodalTcRates = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: row.date, sector: (row.sector || '').trim(), segment: (row.segment || '').trim(), tenor: (row.tenor || '').trim(), rate: parseVal(row.rate) };
-          }).filter(x => x.date && x.rate != null);
+          DATA.intermodalTC = DATA.intermodal_tc = DATA.intermodalTcRates = (r || []).map(row => {
+            const out = { date: parseDateISO(row.date) || parseDate(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                if (k === 'source') { out[k] = row[k]; continue; }
+                const val = parseFloat(row[k]);
+                out[k] = (isNaN(val) || val === 0) ? null : val;
+              }
+            }
+            return out;
+          }).filter(x => x.date);
         }),
         safeFetch('data/derived/lpg_spot_rates.csv', 'LPG Spot Rates', [], r => {
-          DATA.lpgSpotRates = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: row.date, segment: (row.segment || '').trim(), route: (row.route || '').trim(), rate: parseVal(row.rate), unit: (row.unit || '').trim() };
-          }).filter(x => x.date && x.rate != null);
+          DATA.lpgSpot = DATA.lpg_spot = DATA.lpgSpotRates = (r || []).map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(x => x.date);
         }),
         safeFetch('data/derived/lpg_charter_rates.csv', 'LPG Charter Rates', [], r => {
-          DATA.lpgCharterRates = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: row.date, segment: (row.segment || '').trim(), tenor: (row.tenor || '').trim(), rate: parseVal(row.rate), unit: (row.unit || '').trim() };
-          }).filter(x => x.date && x.rate != null);
+          DATA.lpgCharter = DATA.lpg_charter = DATA.lpgCharterRates = (r || []).map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
+          }).filter(x => x.date);
         }),
         safeFetch('data/derived/tanker_forward_curves.csv', 'Tanker Forward Curves', [], r => {
-          DATA.tankerForwardCurves = (r || []).map(row => {
-            return { date: (row.date || '').trim(), vessel_class: (row.vessel_class || '').trim(), route: (row.route || '').trim(), contract: (row.contract || '').trim(), rate: parseVal(row.rate), change: parseVal(row.change), change_pct: parseVal(row.change_pct), unit: (row.unit || '').trim(), period_label: (row.period_label || '').trim() };
-          }).filter(x => x.rate != null);
+          DATA.tankerForwardCurves = DATA.tanker_forward_curves = (r || []).map(row => {
+            return {
+              snapshotDate: row.snapshot_date,
+              forwardMonth: row.forward_month,
+              contractLabel: row.contract_label,
+              vlcc_td3c: parseFloat(row.vlcc_td3c) || null,
+              vlcc_eco_td3c: parseFloat(row.vlcc_eco_td3c) || null,
+              suezmax_td20: parseFloat(row.suezmax_td20) || null,
+              aframax_td25: parseFloat(row.aframax_td25) || null,
+              lr1_tc5: parseFloat(row.lr1_tc5) || null,
+              lr1_eco_tc5: parseFloat(row.lr1_eco_tc5) || null,
+              mr_tc2: parseFloat(row.mr_tc2) || null,
+              mr_eco_tc2: parseFloat(row.mr_eco_tc2) || null,
+              mr_tc14: parseFloat(row.mr_tc14) || null,
+              mr_eco_tc14: parseFloat(row.mr_eco_tc14) || null,
+              mr_tc6: parseFloat(row.mr_tc6) || null,
+              mr_triangulation: parseFloat(row.mr_triangulation) || null
+            };
+          }).filter(x => x.snapshotDate);
         }),
         safeFetch('data/derived/tanker_forward_curves_history.csv', 'Tanker Forward Curves History', [], r => {
-          DATA.tankerForwardCurvesHistory = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), vessel_class: (row.vessel_class || '').trim(), contract: (row.contract || '').trim(), rate: parseVal(row.rate) };
-          }).filter(x => x.date && x.rate != null);
+          DATA.tankerForwardCurvesHistory = DATA.tanker_forward_curves_history = (r || []).map(row => {
+            return {
+              snapshotDate: row.snapshot_date,
+              forwardMonth: row.forward_month,
+              contractLabel: row.contract_label,
+              vlcc_td3c: parseFloat(row.vlcc_td3c) || null,
+              vlcc_eco_td3c: parseFloat(row.vlcc_eco_td3c) || null,
+              suezmax_td20: parseFloat(row.suezmax_td20) || null,
+              aframax_td25: parseFloat(row.aframax_td25) || null,
+              lr1_tc5: parseFloat(row.lr1_tc5) || null,
+              lr1_eco_tc5: parseFloat(row.lr1_eco_tc5) || null,
+              mr_tc2: parseFloat(row.mr_tc2) || null,
+              mr_eco_tc2: parseFloat(row.mr_eco_tc2) || null,
+              mr_tc14: parseFloat(row.mr_tc14) || null,
+              mr_eco_tc14: parseFloat(row.mr_eco_tc14) || null,
+              mr_tc6: parseFloat(row.mr_tc6) || null,
+              mr_triangulation: parseFloat(row.mr_triangulation) || null
+            };
+          }).filter(x => x.snapshotDate);
         }),
         safeFetch('data/derived/lng_charter_rates.csv', 'LNG Charter Rates', [], r => {
-          DATA.lngCharterRates = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), tc_7y_usd_day: parseVal(row.tc_7y_usd_day), tc_10y_usd_day: parseVal(row.tc_10y_usd_day), nb_price_m_usd: parseVal(row.nb_price_m_usd), series_type: (row.series_type || '').trim() };
+          DATA.lngCharter = DATA.lng_charter = DATA.lngCharterRates = (r || []).map(row => {
+            const out = { date: parseDateISO(row.date), dateStr: row.date };
+            for (const k in row) {
+              if (k !== 'date') {
+                const val = parseFloat(row[k]);
+                out[k] = isNaN(val) ? null : val;
+              }
+            }
+            return out;
           }).filter(x => x.date);
         }),
         fetch('data/derived/alibra_tce_matrix.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => { DATA.alibraTceMatrix = data || null; }),
@@ -17497,123 +17602,248 @@ if (intelTabsContainer) {
           }).filter(x => x.date && x.value != null);
         }),
         safeFetch('data/commodities/sgx_iron_ore_forward_curve.csv', 'SGX Iron Ore Forward Curve', [], r => {
-          DATA.sgxOreForwardCurve = (r || []).map(row => {
-            return { contract: (row.contract || '').trim(), settlement: parseVal(row.settlement), change: parseVal(row.change), volume: parseVal(row.volume), open_interest: parseVal(row.open_interest), month_order: parseVal(row.month_order) };
-          }).filter(x => x.settlement != null);
+          DATA.sgxIronOreForward = DATA.sgxOreForwardCurve = (r || []).map(row => {
+            return {
+              date: parseDateISO(row.date),
+              dateStr: row.date,
+              tenor: row.tenor,
+              delivery_month: row.delivery_month,
+              delivery_year: parseInt(row.delivery_year, 10),
+              fef_settle: parseFloat(row.fef_settle) || null,
+              fef_oi: parseFloat(row.fef_oi) || null,
+              fef_volume: parseFloat(row.fef_volume) || null,
+              m65f_settle: parseFloat(row.m65f_settle) || null,
+              m65f_oi: parseFloat(row.m65f_oi) || null,
+              m65f_volume: parseFloat(row.m65f_volume) || null,
+              fe65_fe62_premium_spread: parseFloat(row.fe65_fe62_premium_spread) || null,
+              lpf_settle: parseFloat(row.lpf_settle) || null,
+              lpf_oi: parseFloat(row.lpf_oi) || null,
+              lpf_volume: parseFloat(row.lpf_volume) || null,
+              fef_term_structure_slope: parseFloat(row.fef_term_structure_slope) || null,
+              fef_slope_pct: parseFloat(row.fef_slope_pct) || null,
+              fef_curve_regime: (row.fef_curve_regime || '').trim()
+            };
+          }).filter(x => x.date);
         }),
         safeFetch('data/indices/drewry_wci_historical.csv', 'Drewry WCI', [], r => {
-          DATA.drewryWci = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), composite_index: parseVal(row.composite_index), shanghai_rotterdam: parseVal(row.shanghai_rotterdam), rotterdam_shanghai: parseVal(row.rotterdam_shanghai), shanghai_genoa: parseVal(row.shanghai_genoa), shanghai_los_angeles: parseVal(row.shanghai_los_angeles), los_angeles_shanghai: parseVal(row.los_angeles_shanghai), shanghai_new_york: parseVal(row.shanghai_new_york), new_york_rotterdam: parseVal(row.new_york_rotterdam), rotterdam_new_york: parseVal(row.rotterdam_new_york) };
+          DATA.wciTracker = DATA.drewry_wci = DATA.drewryWci = (r || []).map(row => {
+            const rawDate = (row.date || row.Date || '').trim();
+            const d = parseDate(rawDate) || parseDateISO(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              composite: parseFloat(row.composite_index || row.composite || 0) || null,
+              composite_index: parseFloat(row.composite_index || 0) || null,
+              shanghai_rotterdam: parseFloat(row.shanghai_rotterdam || 0) || null,
+              rotterdam_shanghai: parseFloat(row.rotterdam_shanghai || 0) || null,
+              shanghai_genoa: parseFloat(row.shanghai_genoa || 0) || null,
+              shanghai_la: parseFloat(row.shanghai_la || 0) || null,
+              shanghai_ny: parseFloat(row.shanghai_ny || 0) || null
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/indices/fbx_historical.csv', 'FBX Container Spot', [], r => {
           DATA.fbx = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), fbx_global: parseVal(row.fbx_global) };
-          }).filter(x => x.date && x.fbx_global != null);
+            const rawDate = (row.Date || row.date || '').trim();
+            const d = parseDate(rawDate) || parseDateISO(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              index: parseVal(row.Index || row.index)
+            };
+          }).filter(x => x.date && x.index != null);
         }),
         safeFetch('data/derived/usda_grain_vessel_rates_japan.csv', 'USDA Grain Vessel Rates', [], r => {
-          DATA.usdaGrainRates = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), rate_us_gulf: parseVal(row.rate_us_gulf), rate_pnw: parseVal(row.rate_pnw), spread_gulf_pnw: parseVal(row.spread_gulf_pnw) };
+          DATA.usdaGrainRates = DATA.usda_grain_freight = DATA.usdaGrainFreight = (r || []).map(row => {
+            const rawDate = (row.Date || row.date || '').trim();
+            const d = parseDate(rawDate) || (row.Year && row.Month ? new Date(parseInt(row.Year, 10), parseInt(row.Month, 10) - 1, 1) : null);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              gulfToJapan: parseFloat(row.Gulf_To_Japan || row['Gulf_To_Japan'] || row.gulf_to_japan || 0) || null,
+              pnwToJapan: parseFloat(row.PNW_To_Japan || row['PNW_To_Japan'] || row.pnw_to_japan || 0) || null,
+              gulfPnwSpread: parseFloat(row.Gulf_PNW_Spread || row['Gulf_PNW_Spread'] || row.gulf_pnw_spread || 0) || null
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/commodities/usda_us_vs_brazil_landed_costs.csv', 'USDA Landed Costs', [], r => {
-          DATA.usdaLandedCosts = (r || []).map(row => {
-            const rawDate = row.Date || row.date || '';
-            const d = parseDate(rawDate) || parseDateISO(rawDate);
-            let dateStr = (rawDate || '').trim();
-            if (d && !isNaN(d.getTime())) {
-              const y = d.getFullYear();
-              const m = String(d.getMonth() + 1).padStart(2, '0');
-              const day = String(d.getDate()).padStart(2, '0');
-              dateStr = y + '-' + m + '-' + day;
-            }
-            const orig = (row.Origin || row.origin || '').trim();
-            const dest = (row.Destination || row.destination || '').trim();
-            const truck = parseVal(row.Truck || row.truck) || 0;
-            const barge = parseVal(row.Barge || row.barge) || 0;
-            const rail = parseVal(row.Rail || row.rail) || 0;
-            const ocean = parseVal(row.Ocean || row.ocean) || 0;
-            const farmVal = parseVal(row['Farm Value'] || row.farmValue || row.farm_value) || 0;
-            const total = parseVal(row['Total Transportation Costs'] || row.totalCost || row.total_cost || row.landedCost || row.landed_cost) || 0;
+          DATA.usdaLandedCosts = DATA.usda_landed_costs = DATA.usdaLandedCost = DATA.landed_cost = (r || []).map(row => {
+            const rawDate = (row.Date || row.date || '').trim();
+            const d = parseDate(rawDate) || (row.Year && row.Quarter ? new Date(parseInt(row.Year, 10), (parseInt(row.Quarter, 10) - 1) * 3, 1) : null);
+            const total = parseFloat(row['Total Transportation Costs'] || row.Total_Transportation_Costs || 0) || null;
+            const farmVal = parseFloat(row['Farm Value'] || row.Farm_Value || 0) || null;
             return {
               date: d,
-              dateStr: dateStr,
-              year: parseVal(row.Year || row.year),
-              quarter: parseVal(row.Quarter || row.quarter),
-              origin: orig,
-              destination: dest,
-              truck: truck,
-              barge: barge,
-              rail: rail,
-              ocean: ocean,
+              dateStr: d ? fmtDate(d) : rawDate,
+              year: parseInt(row.Year || row.year, 10) || null,
+              quarter: parseInt(row.Quarter || row.quarter, 10) || null,
+              origin: (row.Origin || row.origin || '').trim(),
+              destination: (row.Destination || row.destination || '').trim(),
+              truck: parseFloat(row.Truck || row.truck || 0) || null,
+              barge: parseFloat(row.Barge || row.barge || 0) || null,
+              rail: parseFloat(row.Rail || row.rail || 0) || null,
+              ocean: parseFloat(row.Ocean || row.ocean || 0) || null,
               farmValue: farmVal,
               totalCost: total,
-              landedCost: total,
-              us_gulf_landed: parseVal(row.us_gulf_landed),
-              brazil_paranagua_landed: parseVal(row.brazil_paranagua_landed),
-              landed_spread_us_minus_brazil: parseVal(row.landed_spread_us_minus_brazil)
+              landedCost: total
             };
           }).filter(x => x.date);
         }),
         safeFetch('data/commodities/usda_grain_vessel_loading_queues.csv', 'USDA Grain Vessel Queues', [], r => {
-          DATA.usdaVesselQueues = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), vessels_loading: parseVal(row.vessels_loading), vessels_in_queue: parseVal(row.vessels_in_queue), total_vessels: parseVal(row.total_vessels) };
+          DATA.usdaVesselQueues = DATA.usda_vessel_queues = (r || []).map(row => {
+            const rawDate = (row.Date || row.date || '').trim();
+            const d = parseDate(rawDate) || parseDateISO(rawDate);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              port: (row.Port || row.port || '').trim(),
+              portRegion: (row.port_region || '').trim(),
+              loading: parseFloat(row.loading || 0) || null,
+              waitingToLoad: parseFloat(row.waiting_to_load || 0) || null,
+              inPort: parseFloat(row.in_port || 0) || null,
+              inPort4yrAvg: parseFloat(row.in_port_4yr_avg || 0) || null,
+              loaded7Days: parseFloat(row.loaded_7_days || 0) || null,
+              loaded4yrAvg: parseFloat(row.loaded_4yr_avg || 0) || null,
+              due10Days: parseFloat(row.due_10_days || 0) || null
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/derived/usda_bunker_fuel_daily.csv', 'USDA Bunker Prices', [], r => {
-          DATA.usdaBunkers = (r || []).map(row => {
-            const d = parseDate(row.date) || parseDateISO(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), vlsfo_houston: parseVal(row.vlsfo_houston), vlsfo_new_orleans: parseVal(row.vlsfo_new_orleans) };
+          DATA.usdaBunkers = DATA.usda_bunkers = (r || []).map(row => {
+            const rawDate = [row.Month, row.Day, row.Year].filter(Boolean).join('/');
+            const d = parseDate(rawDate) || parseDateISO(row.date || '');
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : rawDate,
+              vlsfo: parseFloat(row['VLSFO Fuel Oil'] || 0) || null,
+              mgo: parseFloat(row['Marine Gas Oil'] || 0) || null,
+              ifo180: parseFloat(row['Intermdiate Fuel Oil, 180cSt'] || 0) || null,
+              ifo380: parseFloat(row['Intermdiate Fuel Oil, 380cSt'] || 0) || null
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/commodities/brazil_comexstat_exports.csv', 'Brazil ComexStat Exports', [], r => {
-          DATA.brazilExports = (r || []).map(row => {
+          DATA.brazilExports = DATA.brazil_exports = (r || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), iron_ore_kt: parseVal(row.iron_ore_kt), soybeans_kt: parseVal(row.soybeans_kt), crude_oil_kt: parseVal(row.crude_oil_kt) };
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              year: parseInt(row.year || 0) || null,
+              month: parseInt(row.month || 0) || null,
+              commodity: (row.commodity || '').trim(),
+              ncm: (row.ncm || '').trim(),
+              metricTonnes: parseFloat(row.metric_tonnes || 0) || null,
+              fobUsd: parseFloat(row.fob_usd || 0) || null,
+              source: (row.source || '').trim(),
+              method: (row.method || '').trim()
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/commodities/australia_ppa_iron_ore.csv', 'Pilbara Ports Iron Ore', [], r => {
-          DATA.ppaIronOre = (r || []).map(row => {
+          DATA.ppaIronOre = DATA.ppa_iron_ore = (r || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), port_hedland_throughput_mt: parseVal(row.port_hedland_throughput_mt), dampier_throughput_mt: parseVal(row.dampier_throughput_mt), total_iron_ore_throughput_mt: parseVal(row.total_iron_ore_throughput_mt) };
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              port: (row.port || '').trim(),
+              totalThroughputMt: parseFloat(row.total_throughput_mt || 0) || null,
+              ironOreExportsMt: parseFloat(row.iron_ore_exports_mt || 0) || null,
+              momPct: parseFloat(row.mom_pct || 0) || null,
+              yoyPct: parseFloat(row.yoy_pct || 0) || null,
+              provenance: (row.provenance || '').trim()
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/commodities/major_miners_quarterly_shipments.csv', 'Major Miners Shipments', [], r => {
-          DATA.minerShipments = (r || []).map(row => {
-            return { quarter: (row.quarter || '').trim(), vale_mt: parseVal(row.vale_mt), rio_tinto_mt: parseVal(row.rio_tinto_mt), bhp_mt: parseVal(row.bhp_mt), fmg_mt: parseVal(row.fmg_mt), total_major_miners_mt: parseVal(row.total_major_miners_mt) };
-          }).filter(x => x.quarter);
+          DATA.minerShipments = DATA.miner_shipments = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              quarter: (row.quarter || '').trim(),
+              miner: (row.miner || '').trim(),
+              productionMt: parseFloat(row.production_mt || 0) || null,
+              shipmentsMt: parseFloat(row.shipments_mt || 0) || null,
+              c1CashCost: parseFloat(row.c1_cash_cost_usd_t || 0) || null,
+              annualGuidance: (row.annual_guidance || '').trim()
+            };
+          }).filter(x => x.quarter || x.date);
         }),
         safeFetch('data/commodities/us_eia_weekly_crude_exports.csv', 'US EIA Crude Exports', [], r => {
-          DATA.eiaExports = (r || []).map(row => {
+          DATA.eiaExports = DATA.eia_exports = (r || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), crude_exports_kbpd: parseVal(row.crude_exports_kbpd) };
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              usTotalCrudeKbpd: parseFloat(row.us_total_crude_exports_kbpd || 0) || null,
+              padd3GulfKbpd: parseFloat(row.padd3_gulf_crude_exports_kbpd || 0) || null,
+              usTotalPetroleumKbpd: parseFloat(row.us_total_petroleum_exports_kbpd || 0) || null,
+              crude4wAvgKbpd: parseFloat(row.crude_4w_avg_kbpd || 0) || null,
+              petro4wAvgKbpd: parseFloat(row.petro_4w_avg_kbpd || 0) || null
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon', [], r => {
-          DATA.euCarbon = (r || []).map(row => {
+          DATA.euCarbon = DATA.eu_carbon = (r || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), carbon_price_eur: parseVal(row.carbon_price_eur), vlsfo_with_carbon_usd: parseVal(row.vlsfo_with_carbon_usd), carbon_cost_per_ton_fuel_usd: parseVal(row.carbon_cost_per_ton_fuel_usd) };
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              euaCarbonPriceEur: parseFloat(row.eua_carbon_price_eur_tco2 || 0) || null,
+              sgVlsfoUsd: parseFloat(row.singapore_vlsfo_usd_mt || 0) || null,
+              sgHsfoUsd: parseFloat(row.singapore_hsfo_usd_mt || 0) || null,
+              sgHi5Spread: parseFloat(row.singapore_hi5_spread_usd_mt || 0) || null,
+              rtmHi5Spread: parseFloat(row.rotterdam_hi5_spread_usd_mt || 0) || null,
+              houstonHi5Spread: parseFloat(row.houston_hi5_spread_usd_mt || 0) || null,
+              capeScrubberSavings: parseFloat(row.capesize_scrubber_savings_usd_day || 0) || null,
+              vlccScrubberSavings: parseFloat(row.vlcc_scrubber_savings_usd_day || 0) || null,
+              capeEtsSurcharge: parseFloat(row.capesize_eu_ets_surcharge_usd_day || 0) || null
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/derived/ton_mile_utilization_matrix.csv', 'Ton-Mile Matrix', [], r => {
-          DATA.tonMileMatrix = (r || []).map(row => {
-            return { month: (row.month || '').trim(), cape_ton_miles_billion: parseVal(row.cape_ton_miles_billion), fleet_capacity_dwt_million: parseVal(row.fleet_capacity_dwt_million), ton_mile_demand_index: parseVal(row.ton_mile_demand_index), fleet_utilization_pct: parseVal(row.fleet_utilization_pct) };
-          }).filter(x => x.month);
+          DATA.tonMileMatrix = DATA.ton_mile_matrix = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              wausOreMt: parseFloat(row.cape_waus_ore_mt || 0) || null,
+              brazilOreMt: parseFloat(row.cape_brazil_ore_mt || 0) || null,
+              guineaBauxiteMt: parseFloat(row.cape_guinea_bauxite_mt || 0) || null,
+              totalTonMilesBn: parseFloat(row.cape_total_ton_miles_bn || 0) || null,
+              fleetUtilizationPct: parseFloat(row.cape_fleet_utilization_pct || 0) || null,
+              modelDisclosed: (row.model_disclosed || '').trim()
+            };
+          }).filter(x => x.date);
         }),
         safeFetch('data/commodities/newcastle_coal_exports.csv', 'Newcastle Coal Exports', [], r => {
-          DATA.newcastleCoal = (r || []).map(row => {
+          DATA.newcastleCoal = DATA.newcastle_coal = (r || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), coal_exports_mt: parseVal(row.coal_exports_mt) };
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              port: (row.port || '').trim(),
+              exportTonnesMt: parseFloat(row.export_tonnes_mt || 0) || null,
+              coalGrade: (row.coal_grade || '').trim(),
+              vesselsLoaded: parseInt(row.vessels_loaded_count || 0) || null,
+              primaryDestinations: (row.primary_destinations || '').trim()
+            };
           }).filter(x => x.date);
         }),
         safeFetch('data/commodities/australia_req_commodity_exports.csv', 'Australia REQ Commodity Exports', [], r => {
-          DATA.reqExports = (r || []).map(row => {
-            return { quarter: (row.quarter || '').trim(), commodity: (row.commodity || '').trim(), export_volume: parseVal(row.export_volume), unit: (row.unit || '').trim() };
-          }).filter(x => x.quarter);
+          DATA.reqExports = DATA.req_exports = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              quarter: (row.quarter || '').trim(),
+              commodity: (row.commodity || '').trim(),
+              exportVolumeMt: parseFloat(row.export_volume_mt || 0) || null,
+              exportValueAudB: parseFloat(row.export_value_aud_b || 0) || null,
+              primaryVesselClass: (row.primary_vessel_class || '').trim(),
+              provenance: (row.provenance || '').trim()
+            };
+          }).filter(x => x.quarter || x.date);
         }),
         (typeof loadPortCongestionHistory === 'function' ? loadPortCongestionHistory() : Promise.resolve()),
         ...sgxPromises
@@ -17631,11 +17861,11 @@ if (intelTabsContainer) {
       portCongestionLoadPromise = portCongestionHistoryLoadPromise = fetchCSVChunked('data/congestion/portwatch_port_congestion.csv', row => ({
             date: (function (rawDate) { return parseDateISO(rawDate) || parseDate(rawDate); })((row.date || '').trim()),
             dateStr: (row.date || '').trim(),
-            portCode: (row.portid || row.port_code || row.hub_code || '').trim(),
-            portName: (row.portname || row.port_name || '').trim(),
-            sector: (row.sector || '').trim(),
+            portCode: (row.portid || row.hub_code || '').trim(),
+            portName: (row.portname || '').trim(),
+            sector: '',
             country: (row.country || '').trim(),
-            dailyPortCalls: parseNum(row.daily_port_calls_total != null && row.daily_port_calls_total !== '' ? row.daily_port_calls_total : row.daily_port_calls),
+            dailyPortCalls: parseNum(row.daily_port_calls_total),
             callsDryBulk: parseNum(row.daily_port_calls_dry_bulk),
             callsTanker: parseNum(row.daily_port_calls_tanker),
             callsContainer: parseNum(row.daily_port_calls_container),
@@ -21070,6 +21300,7 @@ function buildMaster() {
 
       // Load BDRY liquidity tracker (async, non-blocking)
       try { renderBdryLiquidityTracker(); } catch (e) { console.error('[ETFTab Liq]', e); }
+      try { if (typeof renderBwetLiquidityTracker === 'function') renderBwetLiquidityTracker(); } catch (e) { console.error('[ETFTab BWET Liq]', e); }
 
       // P/D history chart
       try { initPDHistoryRange(); } catch (e) { console.error('[ETFTab P/D]', e); }
@@ -21085,15 +21316,12 @@ function buildMaster() {
       // the four charts above are already on screen, so those two run on the
       // next frame; order preserved, same output, nothing deferred to a
       // different tab state.
-      const rafEtf = window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); };
-      rafEtf(function () {
-        // ETF Deconstruction & Scenario Engine
-        try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
-        // ETF Day-by-Day Portfolio & Price Simulator
-        try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch (e) { console.error('[ETFTab Simulator]', e); }
-        // Initialize 5-minute dynamic live price auto-refresh engine
-        try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
-      });
+      // ETF Deconstruction & Scenario Engine
+      try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
+      // ETF Day-by-Day Portfolio & Price Simulator
+      try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch (e) { console.error('[ETFTab Simulator]', e); }
+      // Initialize 5-minute dynamic live price auto-refresh engine
+      try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
     }
 
     var _flowTicker = 'bdry';
@@ -49590,14 +49818,32 @@ function renderFearnFx() {
   var mc = document.getElementById('fearnFxMonthly');
   if (mc && !FDESK.fxMonthly) {
     var mm = (facets.monthly_counts || []).slice(-24);
-    var mx = 1; mm.forEach(function (p) { if (p[1] > mx) mx = p[1]; });
-    var bw = 100 / Math.max(mm.length, 1);
-    var bars = mm.map(function (p, i) {
-      var h = p[1] / mx * 66;
-      return '<rect x="' + (i * bw + bw * 0.15).toFixed(2) + '" y="' + (68 - h).toFixed(1) + '" width="' + (bw * 0.7).toFixed(2) + '" height="' + h.toFixed(1) + '" fill="#4d9aff"></rect>';
-    }).join('');
-    mc.innerHTML = '<svg viewBox="0 0 100 70" preserveAspectRatio="none" style="width:100%;height:100%;">' + bars + '</svg>';
-    FDESK.fxMonthly = true;
+    if (typeof Chart !== 'undefined' && mm.length) {
+      if (Chart.getChart(mc)) Chart.getChart(mc).destroy();
+      new Chart(mc, {
+        type: 'bar',
+        data: {
+          labels: mm.map(function (p) { return p[0]; }),
+          datasets: [{
+            data: mm.map(function (p) { return p[1]; }),
+            backgroundColor: '#4d9aff',
+            borderRadius: 2,
+            borderSkipped: false
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          animation: false,
+          plugins: { legend: { display: false }, tooltip: { enabled: true } },
+          scales: {
+            x: { display: false },
+            y: { display: false }
+          }
+        }
+      });
+      FDESK.fxMonthly = true;
+    }
   }
   renderFearnFxTable();
   var note = document.getElementById('fearnFxNote');
@@ -49626,7 +49872,7 @@ function renderFearnFxTable() {
   var slice = rows.slice(start, start + PAGE);
   var DEP_COLORS = { BULK: '#e3b341', TANK: '#f778ba', TANKPRO: '#ffa198', LNG: '#8957e5', LPG: '#39c5cf', RoRo: '#7ee787' };
   body.innerHTML = slice.map(function (r) {
-    var rate = (r.r == null || r.r === '' || !isFinite(Number(r.r))) ? '<span style="color:var(--text-muted);">—</span>' : Number(r.r).toLocaleString('en-US');
+    var rate = (r.r == null || r.r === '' || !isFinite(Number(r.r))) ? '<span style="color:var(--text-muted);">RNR</span>' : Number(r.r).toLocaleString('en-US');
     var dc = DEP_COLORS[r.dp] || '#8b949e';
     return '<tr>' +
       '<td class="mono" style="color:var(--text-muted);white-space:nowrap;">' + escapeHtml(r.d || '') + '</td>' +
@@ -50067,13 +50313,19 @@ function renderBraemarForwardStrip() {
 
 function renderFearnleysTab() {
   if (!DATA.loaded) return;
-  // PHASE SPEED: S3/S4 daily route caches (3.8 MB + 0.4 MB) load lazily on the
-  // tab's first open; S3/S4 tiles show their existing empty states while the
-  // fetch completes, then this same renderer re-runs on data arrival.
   if (typeof loadFearnDailyCaches === 'function') loadFearnDailyCaches();
   initFearnSubNav();
   if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip();
-  switchFearnSection(FDESK.sec);
+  switchFearnSection(FDESK.sec || 1);
+  // Pre-initialize sub-sections so canvases and HUD indicators are rendered
+  if (typeof fearnLoadDeskCaches === 'function') {
+    fearnLoadDeskCaches(function () {
+      [2, 3, 4, 12, 5, 6, 7, 9, 10, 11].forEach(function (sid) {
+        try { renderFearnSection(sid); } catch (e) {}
+      });
+      try { renderFearnSection(8); } catch (e) {}
+    });
+  }
 }
 function fearnMarkDirty(id) {
   // PHASE SPEED: interactive control paths mark their Broker Desk section

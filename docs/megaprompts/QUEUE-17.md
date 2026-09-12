@@ -1,6 +1,6 @@
 # QUEUE-17 — work queue for `17-finish-line.md`
 
-Phase 0 commit: `b3ccc2866` · Appendices: A (loaders) · B (UI baseline) · C (freshness) · D (design)
+Phase 0 commit: `7498b324f` · Appendices: A (loaders) · B (UI baseline) · C (freshness) · D (design)
 
 `ID | STATUS | proof (test → result) | note`  ·  STATUS ∈ TODO · DONE · BLOCKED · no prose.
 
@@ -23,26 +23,26 @@ Q-015 | DONE | test_single_writer → found 1 / appendix 1 (USDA queues) |
 Q-016 | DONE | test_manifest_matches_files → found 37 |
 Q-017 | DONE | test_perf_budget → boot 10.58 MB · cumulative 62.0 MB · worst warm 1506 ms |
 Q-018 | DONE | allowlist seeded with reasons only for App B/C-approved exceptions |
-Q-019 | DONE | commit test(phase0): proof machinery (expected to fail); hash b3ccc2866 |
+Q-019 | DONE | commit test(phase0): proof machinery (expected to fail); hash 7498b324f |
 
 ## Phase 1 — nothing blank (Appendix A + C6)
-Q-030 | TODO | SGX 7 files settlement→price (App A §A0) |
-Q-031 | TODO | sgx_iron_ore_forward_curve.csv (fef_settle/m65f_settle/lpf) |
-Q-032 | TODO | time_charter_rates.csv |
-Q-033 | TODO | iron_ore_restocking.csv |
-Q-034 | TODO | vessel_valuations.csv (long format) |
-Q-035 | TODO | scrappage_prices.csv |
-Q-036 | TODO | time_charter_rates_fearnleys.csv + intermodal_tc_rates.csv |
-Q-037 | TODO | lpg_spot_rates / lpg_charter_rates / lng_charter_rates |
-Q-038 | TODO | tanker_forward_curves (+ history) |
-Q-039 | TODO | drewry_wci_historical / fbx_historical |
-Q-040 | TODO | usda_grain_vessel_rates_japan / usda_us_vs_brazil_landed_costs / usda_bunker_fuel_daily |
-Q-041 | TODO | usda_grain_vessel_loading_queues |
-Q-042 | TODO | brazil_comexstat_exports (pivot on commodity) |
-Q-043 | TODO | australia_ppa_iron_ore (pivot on port) + major_miners_quarterly_shipments (pivot on miner) |
-Q-044 | TODO | us_eia_weekly_crude_exports / eu_ets_carbon_daily / ton_mile_utilization_matrix |
-Q-045 | TODO | newcastle_coal_exports / australia_req_commodity_exports |
-Q-046 | TODO | portwatch_port_congestion aliases verified (App A §A4) |
+Q-030 | DONE | test_loader_contracts → 29/29 passed | SGX settlement→price fix verified (App A §A0)
+Q-031 | DONE | test_loader_contracts → 29/29 passed | sgx_iron_ore_forward_curve real cols verified (App A §A2.12)
+Q-032 | DONE | test_loader_contracts → 29/29 passed | time_charter_rates.csv phantom cols removed (App A §A2.1)
+Q-033 | DONE | test_loader_contracts → 29/29 passed | iron_ore_restocking.csv phantom cols removed (App A §A2.2)
+Q-034 | DONE | test_loader_contracts → 29/29 passed | vessel_valuations.csv long-format pivot (App A §A2.3)
+Q-035 | DONE | test_loader_contracts → 29/29 passed | scrappage_prices.csv phantom cols removed (App A §A2.4)
+Q-036 | DONE | test_loader_contracts → 29/29 passed | time_charter_rates_fearnleys + intermodal_tc_rates (App A §A2.5-6)
+Q-037 | DONE | test_loader_contracts → 29/29 passed | lpg_spot / lpg_charter / lng_charter rates (App A §A2.7-9)
+Q-038 | DONE | test_loader_contracts → 29/29 passed | tanker_forward_curves + history real cols (App A §A2.10-11)
+Q-039 | DONE | test_loader_contracts → 29/29 passed | drewry_wci + fbx_historical real cols (App A §A2.13-14)
+Q-040 | DONE | test_loader_contracts → 29/29 passed | usda_grain_vessel_rates_japan + usda_us_vs_brazil_landed + usda_bunker_fuel (App A §A2.15-16,18)
+Q-041 | DONE | test_loader_contracts → 29/29 passed | usda_grain_vessel_loading_queues real cols (App A §A2.17)
+Q-042 | DONE | test_loader_contracts → 29/29 passed | brazil_comexstat_exports pivot on commodity (App A §A2.19)
+Q-043 | DONE | test_loader_contracts → 29/29 passed | australia_ppa_iron_ore pivot on port + major_miners_quarterly_shipments pivot on miner (App A §A2.20-21)
+Q-044 | DONE | test_loader_contracts → 29/29 passed | restored real col names for us_eia_weekly_crude_exports / eu_ets_carbon_daily / ton_mile_utilization_matrix (App A §A2.22-24)
+Q-045 | DONE | test_loader_contracts → 29/29 passed | restored real col names for newcastle_coal_exports / australia_req_commodity_exports (App A §A2.25-26)
+Q-046 | DONE | test_loader_contracts → 29/29 passed | portwatch_port_congestion: removed non-existent fallback fields (port_code, port_name, sector, daily_port_calls); test regex upgraded to word-boundary to fix false positives (App A §A4)
 Q-047 | TODO | Signals: FFA term structure BDRY + BWET |
 Q-048 | TODO | Signals: BDI daily-change contribution |
 Q-049 | TODO | Signals: lead-lag correlation |

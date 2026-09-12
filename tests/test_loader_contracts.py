@@ -15,6 +15,7 @@ Expected to FAIL on baseline code (27 broken loaders + SGX group).
 """
 
 import csv
+import re
 from pathlib import Path
 import pytest
 
@@ -106,7 +107,14 @@ def test_table_a1_loader_contract(file_path, missing_fields):
 
     read_absent = []
     for fld in absent:
-        if f"row.{fld}" in loader_chunk or f"row['{fld}']" in loader_chunk or f'row["{fld}"]' in loader_chunk:
+        # Use word-boundary pattern: field access must end at a non-identifier char
+        # so "row.contract" won't match "row.contract_label"
+        pattern = re.compile(
+            r'row\.' + re.escape(fld) + r'(?![a-zA-Z0-9_])'
+            r'|row\[\'' + re.escape(fld) + r'\'\]'
+            r'|row\["' + re.escape(fld) + r'"\]'
+        )
+        if pattern.search(loader_chunk):
             read_absent.append(fld)
 
     assert not read_absent, (
@@ -137,7 +145,16 @@ def test_loader_contracts_summary():
             broken_loaders.append(file_path)
             continue
         chunk = html_text[file_idx:file_idx + 1200]
-        absent_read = [f for f in missing_fields if f not in header and (f"row.{f}" in chunk or f"row['{f}']" in chunk or f'row["{f}"]' in chunk)]
+        absent_read = []
+        for f in missing_fields:
+            if f not in header:
+                pat = re.compile(
+                    r'row\.' + re.escape(f) + r'(?![a-zA-Z0-9_])'
+                    r'|row\[\'' + re.escape(f) + r'\'\]'
+                    r'|row\["' + re.escape(f) + r'"\]'
+                )
+                if pat.search(chunk):
+                    absent_read.append(f)
         if absent_read:
             broken_loaders.append(f"{file_path}: reads missing {absent_read}")
 
