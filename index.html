@@ -13844,8 +13844,8 @@
         <div class="chart-container mb-20">
           <div class="chart-header">
             <div>
-              <div class="chart-title" data-tooltip="Institutional Data Catalogue & Provenance Museum: every series across the application registered with verified source attribution, producing pipelines, row counts, and date spans.">Data Catalogue & Provenance Museum <span id="fearnMusCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
-              <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">App-wide registry of all 86 data series · Filter by status · Click 'View in App' to jump directly to live chart</div>
+              <div class="chart-title" id="fearnMusTitle" data-tooltip="Institutional Data Catalogue &amp; Provenance Museum: 'Showing' is the count of series matching active filters; 'Registered' is the total catalogued series across all pipelines; 'LIVE' indicates automated production pipelines with verified source attribution and unmanipulated data points.">Data Catalogue &amp; Provenance Museum <span id="fearnMusCount" style="font-size:11px;color:var(--text-muted);font-weight:400;"></span></div>
+              <div id="fearnMusSubtitle" style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;margin-top:2px;">App-wide registry of all data series · Filter by status · Click 'View in App' to jump directly to live chart</div>
             </div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;">
@@ -50390,7 +50390,10 @@ function renderFearnMusWall() {
 
   wall.innerHTML = html || '<div style="color:var(--text-muted);font-size:12px;grid-column:1/-1;">No series match the active filter or search query.</div>';
   var cnt = document.getElementById('fearnMusCount');
-  if (cnt) cnt.textContent = '· Showing ' + filtered.length + ' of ' + seriesList.length + ' registered series (' + (manifest.status_breakdown ? Object.keys(manifest.status_breakdown).map(function(k){return k+' '+manifest.status_breakdown[k];}).join(' · ') : '78 LIVE') + ')';
+  var liveCount = seriesList.filter(function (s) { return (s.status || '').toUpperCase() === 'LIVE'; }).length;
+  if (cnt) cnt.textContent = '· Showing ' + filtered.length + ' of ' + seriesList.length + ' registered series (' + liveCount + ' LIVE)';
+  var sub = document.getElementById('fearnMusSubtitle');
+  if (sub) sub.innerHTML = 'App-wide registry of all ' + seriesList.length + ' data series · Filter by status · Click \'View in App\' to jump directly to live chart';
 }
 
 function setFearnMusType(t) {

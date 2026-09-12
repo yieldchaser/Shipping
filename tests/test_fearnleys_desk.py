@@ -186,3 +186,18 @@ def test_fearnleys_strip_visibility_overview_only():
     assert sec1_pos != -1 and strip_pos != -1 and sec2_pos != -1
     assert sec1_pos < strip_pos < sec2_pos, "fearnBraemarStrip must reside inside fearnSec1 (Overview) only"
 
+
+def test_museum_prose_count_no_contradiction():
+    """G-3 / Assertion 6: Prose count must match computed registry count, no hardcoded integer contradiction."""
+    html = (ROOT / "index.html").read_text(encoding="utf-8")
+    # Assert old contradiction 86 is gone from museum markup
+    assert "registry of all 86 data series" not in html
+    # Assert museum subtitle uses dynamic total count or uncontradicted prose
+    assert 'id="fearnMusSubtitle"' in html
+    # Assert tooltip defines showing, registered, and LIVE
+    mus_header = html[html.find('id="fearnMusTitle"'):html.find('id="fearnMusTitle"') + 600]
+    assert "'Showing' is the count" in mus_header
+    assert "'Registered' is the total" in mus_header
+    assert "'LIVE' indicates" in mus_header
+
+
