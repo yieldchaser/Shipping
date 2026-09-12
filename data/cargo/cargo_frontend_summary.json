@@ -10,7 +10,7 @@
       "title": "Brazil Iron Ore Exports vs Capesize C3 (Tubar\u00e3o\u2013Qingdao)",
       "origin": "Brazil (Tubar\u00e3o / Ponta da Madeira)",
       "destination": "Qingdao, China",
-      "route_code": "C3 (tsid 10001)",
+      "route_code": "C3 (Route 10001)",
       "months": [
         "2023-01",
         "2023-02",
@@ -158,7 +158,7 @@
       ],
       "provenance": {
         "volume_source": "MDIC ComexStat (Brazil Customs)",
-        "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10001)",
+        "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10001)",
         "status": "LIVE"
       }
     },
@@ -166,7 +166,7 @@
       "title": "Western Australia Iron Ore (Port Hedland) vs Capesize C5 (Dampier\u2013Qingdao)",
       "origin": "Port Hedland / Pilbara, WA",
       "destination": "Qingdao, China",
-      "route_code": "C5 (tsid 10002)",
+      "route_code": "C5 (Route 10002)",
       "months": [
         "2023-01",
         "2023-02",
@@ -314,7 +314,7 @@
       ],
       "provenance": {
         "volume_source": "Pilbara Ports Authority Official Cargo Statistics",
-        "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10002)",
+        "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10002)",
         "status": "LIVE"
       }
     },
@@ -322,7 +322,7 @@
       "title": "Australian Thermal Coal Exports vs Capesize Newcastle\u2013Qingdao",
       "origin": "Port of Newcastle, NSW",
       "destination": "Qingdao, China",
-      "route_code": "Newcastle Coal (tsid 10003)",
+      "route_code": "Newcastle Coal (Route 10003)",
       "months": [
         "2023-01",
         "2023-02",
@@ -470,7 +470,7 @@
       ],
       "provenance": {
         "volume_source": "Port of Newcastle Terminal Operations",
-        "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10003)",
+        "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10003)",
         "status": "LIVE"
       }
     },
@@ -478,7 +478,7 @@
       "title": "US Gulf Grain Inspections vs Supramax US Gulf\u2013Japan Freight",
       "origin": "US Gulf Coast Terminals (Mississippi River)",
       "destination": "Japan / South Korea",
-      "route_code": "Supramax USG-China/Japan S1C (tsid 120129)",
+      "route_code": "Supramax USG-China/Japan S1C (Route 120129)",
       "months": [
         "2023-01",
         "2023-02",
@@ -626,7 +626,7 @@
       ],
       "provenance": {
         "volume_source": "USDA Grain Transportation Report (AMS)",
-        "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 120129)",
+        "freight_source": "Fearnleys Continuous Benchmark Rates (Route 120129)",
         "status": "LIVE"
       }
     },
@@ -634,7 +634,7 @@
       "title": "Guinea Bauxite Mirror Imports vs Panamax Transatlantic RV",
       "origin": "Kamsar / Boffa, Guinea (via China Customs Mirror)",
       "destination": "China Ports",
-      "route_code": "Panamax Transatlantic RV P1A_82 (tsid 10010)",
+      "route_code": "Panamax Transatlantic RV P1A_82 (Route 10010)",
       "months": [
         "2023-01",
         "2023-02",
@@ -782,7 +782,7 @@
       ],
       "provenance": {
         "volume_source": "UN Comtrade (Reporter: China, Partner: Guinea HS 260600)",
-        "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10010)",
+        "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10010)",
         "status": "LIVE_MIRROR",
         "mirror_notice": "Mirror trade flow. Direct Conakry Ministry of Mines feed is UNAVAILABLE."
       }
