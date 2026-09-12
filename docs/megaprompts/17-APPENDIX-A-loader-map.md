@@ -17,9 +17,27 @@ Real header (`data/futures/sgx_cape_futures.csv`, ~9,175 rows, appended daily by
 `contract,expiry_month,expiry_year,date,price,volume,open_interest,expiry_date`
 
 Pre-Round-1 code read `row.settle || row.price || row.Close || row.close` (old index.html L6873)
-and `row.Price || row.price || ...` (L6920). Fix: settlement → `price`, keep `volume` and
-`open_interest` (both exist), drop `change`/`month_order` or derive them.
-This single bug blanks the SGX FFA forward curve and the SGX iron-ore term structure on Signals.
+and `row.Price || row.price || ...` (L6920).
+
+**Renaming the field is not enough — proven in the browser on 2026-09-12.** The downstream builder
+`parseSGXRows()` (index.html ~32480) consumes the **raw CSV row**: it reads `row.contract`,
+`row.date`, `row.price`, `row.volume`, `row.open_interest` and `row.expiry_date` (falling back to
+decoding the month code from the ticker, e.g. `CWFJ26` → Apr 2026). The Round 1 loader replaces each
+row with `{date, dateStr, contract, settlement, …}`, which drops `price` and `expiry_date`, so
+`parseSGXRows` discards everything.
+
+Measured against the live build:
+
+| | value |
+|---|---|
+| Raw rows in `sgx_cape_futures.csv` | **9,239** |
+| Rows the current loader keeps | **0** |
+| `parseSGXRows(raw)` → contracts / still active | **82 / 76** |
+| Front of the curve it yields | Sep 2026 **$51,157** · Oct **$48,521** · Nov **$45,461** |
+
+**Fix:** store the raw rows in `DATA.sgx[key]` (or map to exactly the keys `parseSGXRows` reads).
+Verify by asserting ≥ 70 active contracts for `cape` and a non-null front-month price.
+This one bug blanks both the SGX FFA forward curve and the SGX iron-ore term structure on Signals.
 
 
 ## A1 — Table
@@ -526,6 +544,13 @@ portCongestionLoadPromise = fetchCSVChunked('data/congestion/portwatch_port_cong
 - `data/derived/vessel_valuations.csv` — long format: (date, category, tenor_type, vessel_class,
   `valuation_usd_m`). The module wants asset value / earnings / P-E: derive only what the file
   supports, and drop KPIs it cannot support rather than showing "—".
+
+## A3b — Check the consumer, not only the loader
+The SGX case (§A0) proves the failure can sit between the loader and its consumer: the loader
+"succeeds", the array is full, and the renderer still gets nothing because it reads keys the loader
+renamed away. **For every loader you touch, find the function that consumes `DATA.<x>` and confirm
+the keys match**, then assert a real post-condition (contract count, non-null latest value) rather
+than just "rows > 0".
 
 ## A4 — Verify before changing (possible false positives)
 - `data/congestion/portwatch_port_congestion.csv` — `daily_port_calls`, `port_code`, `port_name`,
