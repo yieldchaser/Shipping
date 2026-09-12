@@ -190,28 +190,50 @@ string - pass the same computed text through.
 
 **Rename the ladder.** Two problems with the current labels: `SELL` and `ACCUMULATE` are trade
 instructions, which is exactly what was removed from the banner body last round; and `GOLDEN DIP`,
-`CATCHING KNIFE`, `VALUE TRAP` are retail-trader slang rather than broker language. Replace with
-valuation words that describe where the index sits:
+`CATCHING KNIFE`, `VALUE TRAP` are retail-trader slang rather than broker language. The owner has
+chosen this vocabulary: **Stretched / Elevated / Mid-range / Soft / Depressed**.
 
-| Current label | New label |
-|---|---|
-| `SELL (Overheated)` | `Rich` |
-| `ACCUMULATE` | `Cheap` |
-| `GOLDEN DIP` | `Deep value` |
-| `CATCHING KNIFE` | `Distressed` |
-| `VALUE TRAP` | `Distressed - structurally weak` |
-| `WAIT` | `Mid-range` |
+| Condition (unchanged) | Current label | New label |
+|---|---|---|
+| `pctl5y > 0.8` | `SELL (Overheated)` | `Stretched` |
+| `pctl5y 0.6 - 0.8` | *(part of `WAIT`)* | `Elevated` |
+| `pctl5y 0.4 - 0.6` | *(part of `WAIT`)* | `Mid-range` |
+| `pctl5y < 0.4` | `ACCUMULATE` | `Soft` |
+| `pctl5y < 0.3 && alltimePctl < 0.3` | `VALUE TRAP` | `Depressed - structurally weak` |
+| `pctl5y < 0.2 && z < -0.5 && alltimePctl > 0.4` | `GOLDEN DIP` | `Depressed` |
+| `pctl5y < 0.1 && z < -0.6` | `CATCHING KNIFE` | `Depressed - high volatility` |
 
 Drop the `BEARISH SIGNAL:` / `BULLISH SIGNAL:` prefixes entirely - they are typed into the markup
 around `#alertBearishText` / `#alertBullishText`, so remove them there rather than blanking them in
-JS. Keep the existing red/green colour coding; the colour carries the direction without the page
-having to shout it.
+JS. Keep the red/green colour coding; colour carries direction without the page shouting it.
 
-**Do not change the thresholds or the buckets** - only the words. The ladder still fires on the
-same percentile and z-score boundaries, and `signal_base_rates.json` still keys on
-`overheated` / `accumulate` / `deep_distress` / `unconditional`. This is a labelling change, not a
-model change, and the tooltip must still say the numbers are a base rate and not a forecast.
+### One deliberate model change, and why
 
+Everywhere else this is labels only. The exception: **`WAIT` splits into `Elevated` and
+`Mid-range` at the 0.6 percentile.** I originally wrote "do not change the thresholds"; I am
+revising that, because the chosen vocabulary exposed a real flaw. `WAIT` currently spans 0.4 to 0.8
+- forty percentiles under one label - and those halves behave differently. Measured on
+`bdiy_historical.csv`, forward 3-month return by band:
+
+| Band | n | mean | median | higher |
+|---|---|---|---|---|
+| > 0.8 Stretched | 2,632 | -1.14% | -2.26% | 46.9% |
+| 0.6 - 0.8 Elevated | 1,575 | +0.71% | -1.08% | 46.9% |
+| 0.4 - 0.6 Mid-range | 1,459 | +3.18% | -0.48% | 49.1% |
+| < 0.4 Soft | 3,526 | +18.16% | +9.85% | 62.0% |
+
+Monotonic, and every band has n > 1,400. Splitting is informative, not cosmetic.
+
+**This obliges a matching change in `scripts/build_views.py`.** `build_signal_base_rates()`
+currently emits `overheated` / `accumulate` / `deep_distress` / `unconditional`. Add `elevated`
+(0.6-0.8) and `mid_range` (0.4-0.6) using the same forward-63-session, trailing-1260-session method,
+and keep the existing 30-observation floor. A label must never show a tooltip base rate that was not
+computed for its own band - if a bucket is missing, the tooltip says less rather than borrowing a
+neighbour's number.
+
+Everything else stays: same percentile and z-score boundaries for the remaining tiers, same
+`signal_base_rates.json` shape, and the tooltip still states the figures are a base rate, not a
+forecast.
 
 ---
 
