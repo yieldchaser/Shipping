@@ -111,6 +111,72 @@ right — but typed into a template string where nothing would recompute them, a
 it. It also shows median, win rate and sample size, and no longer recommends a trade. Leave it
 deriving; do not reintroduce typed statistics into the banner strings.
 
+
+## P-11 · Broker Desk → S&P & Assets: the parity chart is empty for 29 of 33 vessel classes
+
+"5Y-OLD SECONDHAND VALUE AS % OF NEWBUILD PRICE" (`#fearnAcParity`) renders a 300 px chart with a
+legend, a 0%–1% axis and **no line at all** for 29 of the 33 classes in the selector. Measured on
+the live site by stepping through every option: only **Kamsarmax, Suezmax, Ultramax and VLCC** draw
+anything. VLCC is the default, which is exactly why every test passes — the suite only ever sees
+the default value of a `<select>`.
+
+Root cause is in the data, and it is unambiguous. `data/derived/fearnleys_asset_curves.json` keys
+each class to a set of tenor series. The ratio needs **both** a `PRICES` (newbuild) leg and a 5-year
+leg (`DRY-5`, `WET-5`, `DRY-5-JP`, `DRY-5-CN`) under the *same* class key. Availability:
+
+| Class group | Has `PRICES` | Has a 5y leg | Parity possible |
+|---|---|---|---|
+| Kamsarmax · Suezmax · Ultramax · VLCC | yes | yes | **yes — these 4 work** |
+| 1,900–21,000 TEU · Aframax · LNGC · MGC · Newcastlemax · Product · VLGC | yes | no | no |
+| Capesize · Handysize · MR · Aframax / LR2 | no | yes | no |
+| every `(Japanese)` / `(Chinese)` variant | no | yes | no |
+| Panamax (Japanese) · Panamax (Chinese) | no | no | no |
+
+Two things to do, in this order:
+
+1. **Stop drawing an empty chart.** When a class has no overlap, hide the canvas and show only the
+   message that is already there (`no NB+5y overlap for <class>`). A 300 px axis labelled 0%–1%
+   with no data looks like a broken chart, which is worse than an honest sentence.
+2. **Then go get the missing leg.** Fearnleys publishes newbuild prices for Capesize, Handysize and
+   the Panamax family; they are simply not in this file. Extend the fetcher so the classes that
+   have a 5y leg also get their own `PRICES`.
+
+**Do not join across bases to manufacture coverage.** Dividing a `DRY-5-JP` (Japanese-built 5-year)
+by a generic `PRICES` newbuild is a different-basis ratio and would be a fabricated number wearing a
+real one's clothes. Same-class only, or no chart.
+
+## P-12 · Internal series codes are printed in the UI
+
+The S&P & Assets header line reads, verbatim:
+
+```
+VLCC · Newbuilding price [PRICES] · 10yr old [WET-10] · 5yr old [WET-5] · Resale [WET-RESALE] · scrap: Tanker scrap (India, $/ldt) [tanker_india]
+```
+
+and on the dry side `[DRY-10]`, `[DRY-5]`, `[DRY-10-JP]`, `[DRY-15-JP]`, `[dry_india]`. These are
+internal lookup keys from `fearnleys_asset_curves.json`. `test_ui_copy_lint` misses them because
+they are not in its banned-term list and they are generated at runtime rather than sitting in
+markup.
+
+Drop the bracketed codes from the visible label. If the provenance is worth showing, put the key in
+the tooltip, where it answers "where did this come from" without cluttering the header.
+
+## P-13 · Test gap: the suite only ever sees default dropdown values
+
+P-11 sat on the live site through four rounds of green tests because `#fearnAcParity` is only empty
+for non-default selections. The UI sweep clicks buttons and sub-tabs; it never changes a `<select>`.
+
+Extend `test_charts_have_data` (or add a sibling) to walk each visible `<select>` through its
+options on the panels that have them, and assert no visible canvas ends up with a Chart instance
+carrying zero points. This is a strengthening, so it is allowed — but land it **after** P-11, or it
+will fail on 29 classes immediately.
+
+## Not a bug — for the record
+
+The "Excel" box that appears over the DEMOLITION SCRAP FLOOR tile in the screenshot is a Windows
+taskbar hover tooltip, not part of the page. I searched the DOM for it on the live site and there is
+no such element. Nothing to fix.
+
 ---
 
 ## Rules still in force
