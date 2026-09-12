@@ -75,13 +75,14 @@ mention them, so the archive reads as truncated with no way forward. Two fixes:
    commentary; searching by keyword alone is the wrong primary axis. Desk + month + year, then
    keyword within that.
 
-## G-5 · Restore the floating quote ticker
+## G-5 · DONE — floating quote ticker restored
 
-It was changed to a single centred quote that fades. The owner wants the floating/scrolling
-behaviour back — **the ticker and its content are a deliberate design choice, keep them.** The only
-real defect was that quotes were clipped mid-word at both viewport edges. Restore the motion and fix
-the clipping: each quote must enter and leave whole, and the marquee must not cut a word at either
-margin.
+Landed at `45be25529`; **do not revert or re-style it.** The track holds all 25 quotes twice and the
+animation translates by exactly -50%, so the loop is seamless. Items are `flex: 0 0 auto` and never
+truncated, which is what fixes the old mid-word clipping - the edge mask fades quotes in and out
+instead of chopping them. Speed is computed from the measured width (55 px/sec) and recomputed on
+resize and after webfonts load; hover pauses it; `prefers-reduced-motion` disables it. Verified at
+55.7 px/sec, 0 px movement while hovered, 0 items truncated.
 
 ## G-6 · Give the tab bar more room
 
@@ -164,6 +165,54 @@ One milder thing found in the same pass: on Signals, a range group renders `3Y` 
 `5Y` and `All` identically. Same family as F-2; worth checking while you are in there.
 
 
+## G-12 · Shorten the signal banner and retire the trade-instruction words
+
+The banner currently reads, on one line:
+
+```
+BEARISH SIGNAL: SELL (Overheated) : the index sits at 96.8% of its 5-year range. Historically since
+1989, the BDI's next 3 months from this zone averaged -1.1% (median -2.3%, higher 47% of the time,
+n = 2,632) against +7.3% for any random day. Base rate, not a forecast.
+```
+
+Too long for a banner. The evidence is right and should stay reachable, but it belongs in the
+tooltip, not shouted across the page.
+
+**Target:**
+
+```
+RICH  ·  the index sits at 96.8% of its 5-year range.
+```
+
+with the full base-rate sentence moved to that element's `data-tooltip`, unchanged and still
+derived from `data/views/signal_base_rates.json`. Do not re-type the statistics into the tooltip
+string - pass the same computed text through.
+
+**Rename the ladder.** Two problems with the current labels: `SELL` and `ACCUMULATE` are trade
+instructions, which is exactly what was removed from the banner body last round; and `GOLDEN DIP`,
+`CATCHING KNIFE`, `VALUE TRAP` are retail-trader slang rather than broker language. Replace with
+valuation words that describe where the index sits:
+
+| Current label | New label |
+|---|---|
+| `SELL (Overheated)` | `Rich` |
+| `ACCUMULATE` | `Cheap` |
+| `GOLDEN DIP` | `Deep value` |
+| `CATCHING KNIFE` | `Distressed` |
+| `VALUE TRAP` | `Distressed - structurally weak` |
+| `WAIT` | `Mid-range` |
+
+Drop the `BEARISH SIGNAL:` / `BULLISH SIGNAL:` prefixes entirely - they are typed into the markup
+around `#alertBearishText` / `#alertBullishText`, so remove them there rather than blanking them in
+JS. Keep the existing red/green colour coding; the colour carries the direction without the page
+having to shout it.
+
+**Do not change the thresholds or the buckets** - only the words. The ladder still fires on the
+same percentile and z-score boundaries, and `signal_base_rates.json` still keys on
+`overheated` / `accumulate` / `deep_distress` / `unconditional`. This is a labelling change, not a
+model change, and the tooltip must still say the numbers are a base rate and not a forecast.
+
+
 ---
 
 ## Assertions to add
@@ -184,5 +233,5 @@ One milder thing found in the same pass: on Signals, a range group renders `3Y` 
 ## Order
 
 G-1, G-3, G-7 first — each is small and immediately visible. Then `20-FIVE.md` F-1 to F-5. Then
-G-4, G-5, G-6, G-9, G-10, G-11. G-2 needs the owner's confirmation on scope before you touch attribution;
+G-4, G-6, G-9, G-10, G-11, G-12. G-5 is already done - see below. G-2 needs the owner's confirmation on scope before you touch attribution;
 do the panel-heading half, leave the source lines alone.
