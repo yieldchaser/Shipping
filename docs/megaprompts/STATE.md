@@ -1,8 +1,42 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-12 (Prompt 17 round 2 audited).** Update this file at every prompt boundary.
+**Last updated: 2026-09-12 (Prompt 17 round 3 audited).** Update this file at every prompt boundary.
 
 ---
+
+## Prompt 17 round 3 — audited 2026-09-12, best round so far
+Frozen suite unmodified: **10 failed / 35 passed** (was 14/31). Report is broadly honest for the
+first time — it names the 5 remaining UI failures instead of claiming a sweep.
+- **Verified green:** `tab_console_errors {}`, `failed_requests []`, `test_charts_have_data`,
+  `test_no_dash_kpis`, `test_ui_sweep`, `test_no_empty_states`. **ETFs warm revisit 3242 → 219 ms**
+  (round-2 regression reversed by removing 6 s + 7.5 s of stacked `idleYield`). R2-0 fixed the
+  right way: `simHudPnl` back to `—` with an allowlist entry and reason.
+- **My independent 12-tab sweep:** 0 raw dashes anywhere; no 2-point stub charts. Every
+  low-cardinality chart is legitimately so (donuts 2–3, radar 5 axes, waterfall 4, quarterly 4).
+  **No fabrication this round.** Tooltips moved unasked: Broker Desk 54.5 → 80.2%.
+- **R3-0 blocking regression:** the round-1 modal fix is **reverted**. `index.html:16180` is the
+  malformed tag again (no `style="display:none;position:fixed;…"`). Measured on the ETFs tab:
+  `offsetParent true · display flex · 792×258 at y=7375 · visibleToUser true` — a blank grey panel
+  with no Chart instance, inline in the page. Line moved 12690 → 16180, so a bulk rewrite of
+  `index.html` likely overwrote it.
+- **R3-1:** `test_charts_have_data` **passed anyway** — it scopes canvases to the active tab panel
+  and missed a user-visible blank canvas. Widen to document-wide visibility; add
+  `cdModalChartCanvas` boot state as a regression case.
+- **R3-2:** `test_no_console_errors` no longer covers production. `index.html:21952` gates the four
+  external CORS proxies behind `hostname === 'localhost'`, so the erroring path never runs under
+  test while it still races on `yieldchaser.github.io`. Fix: delete the proxies — `live_quotes.json`
+  is already synced ~2-hourly, so they are redundant.
+- **R3-3:** allowlist entry `{tab: bunkers, pattern: "^—$"}` exempts the whole tab. Currently
+  suppresses nothing (0 raw dashes measured); narrow to ids or delete.
+- **Phase 2 untouched for a third round:** 18 frozen views, 35 unscheduled writers, 37 manifest
+  disagreements, 138 typed numbers, and `fetch_usda_grain_queues.py` + `fetch_usda_grains.py`
+  both writing the same CSV. **`test_single_writer` due 2026-09-17 — four days.** Ordered first.
+- → `17-CORRECTION-R3.md`.
+
+## Known blind spot in my own frozen test (still open)
+`test_loader_contracts` scans only `html_text[file_idx:file_idx+1200]`. A mutation planted 3,931
+chars after the file-path string went undetected; the same one at offset 277 was caught. Widen the
+window between rounds. R3-1 above is the same class of defect in `test_charts_have_data`.
 
 ## Prompt 17 round 2 — audited 2026-09-12, still NOT done
 Frozen suite unmodified: **14 failed / 31 passed** — identical headline to round 1. Report claimed
@@ -25,13 +59,6 @@ Frozen suite unmodified: **14 failed / 31 passed** — identical headline to rou
 - **Phases 2–8 unchanged from round 1**, every test still red. `test_single_writer` due
   **2026-09-17** (5 days).
 - → `17-CORRECTION-R2.md`.
-
-## Known blind spot in my own frozen test (fix before calling Phase 1 done)
-`test_loader_contracts` scans only `html_text[file_idx:file_idx+1200]`. A mutation planted 3,931
-chars after the file-path string went **undetected**; the same mutation at offset 277 was caught.
-Loaders whose field access sits far from the `safeFetch(...)` call are invisible to it. Widen the
-window (or parse to the closing brace) at the end of the run — it is a strengthening, so it does
-not violate the freeze, but it will change the agent's `git diff` check, so land it between rounds.
 
 ## Prompt 17 round 1 — audited 2026-09-12, NOT done (1 phase of 8)
 Agent reported "ALL TESTS PASSED" from its own `verify_all_tabs_e2e.py` (not in repo, not the
