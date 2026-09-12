@@ -18481,6 +18481,11 @@ if (intelTabsContainer) {
           if (liveDot) liveDot.classList.add('active');
 
           // Large raw files are drill-down only (Tier 3). Bunker summary, voyage history, congestion history, fearn daily, and offshore load on tab open.
+          if (typeof loadProductFullHistory === 'function') {
+            loadProductFullHistory(currentProduct).then(res => {
+              if (res && currentTab === 'dashboard') renderOverlayChart(currentProduct);
+            });
+          }
           idleStart();
           initStaleGuard();
         }
@@ -18932,37 +18937,90 @@ function buildMaster() {
     // =====================================================================
     // OVERLAY CHART
     // =====================================================================
+    const _fullHistoryPromises = {};
+    function loadProductFullHistory(productKey) {
+      if (!productKey) return Promise.resolve(null);
+      if (_fullHistoryPromises[productKey]) return _fullHistoryPromises[productKey];
+
+      _fullHistoryPromises[productKey] = fetch(`data/views/indices/${productKey}.json`)
+        .then(r => r.ok ? r.json() : null)
+        .then(d => {
+          if (!d || !d.dates || !d.values) return null;
+          DATA.byYearProduct = DATA.byYearProduct || {};
+          DATA.byYearProduct[productKey] = {};
+          var byYr = DATA.byYearProduct[productKey];
+          for (var i = 0; i < d.dates.length; i++) {
+            var ds = d.dates[i];
+            var yr = parseInt(ds.slice(0, 4));
+            var val = d.values[i];
+            if (!byYr[yr]) byYr[yr] = [];
+            byYr[yr].push({
+              dateStr: ds,
+              year: yr,
+              [productKey]: val
+            });
+          }
+          for (var year in byYr) {
+            byYr[year].forEach(function(row, idx) { row[productKey + '_td'] = idx + 1; });
+          }
+          return byYr;
+        })
+        .catch(err => {
+          console.warn('[FullHistory load]', productKey, err);
+          return null;
+        });
+
+      return _fullHistoryPromises[productKey];
+    }
+    window.loadProductFullHistory = loadProductFullHistory;
+
     function selectYearPreset(n, targetBtn) {
       window.selectYearPreset = selectYearPreset;
       const currentYear = new Date().getFullYear();
-      const checkboxes = document.querySelectorAll('#yearCheckboxes input[type=checkbox]');
 
       const presetBtns = document.querySelectorAll('#yearPresetButtons .toggle-btn');
       presetBtns.forEach(btn => btn.classList.remove('active'));
 
-      // If triggered by click event, highlight clicked button
       if (targetBtn) {
         targetBtn.classList.add('active');
       } else if (event && event.target && event.target.tagName === 'BUTTON') {
         event.target.classList.add('active');
       }
 
-      checkboxes.forEach(cb => {
-        const y = parseInt(cb.value);
-        if (n === 'none') {
-          cb.checked = false;
-        } else if (n === 'all') {
-          cb.checked = true;
-        } else {
-          cb.checked = (y >= currentYear - n && y < currentYear);
-        }
-      });
+      function applyPresetSelection() {
+        const checkboxes = document.querySelectorAll('#yearCheckboxes input[type=checkbox]');
+        checkboxes.forEach(cb => {
+          const y = parseInt(cb.value);
+          if (n === 'none') {
+            cb.checked = false;
+          } else if (n === 'all') {
+            cb.checked = true;
+          } else {
+            cb.checked = (y >= currentYear - n && y < currentYear);
+          }
+        });
+        buildOverlayChart(currentProduct);
+      }
 
-      buildOverlayChart(currentProduct);
+      const prodByYear = (DATA.byYearProduct && DATA.byYearProduct[currentProduct]) || DATA.byYear || {};
+      const years = Object.keys(prodByYear).map(Number).sort((a, b) => a - b);
+      const minYear = years[0] || currentYear;
+
+      if ((n === 10 || n === 'all') && minYear > currentYear - 10) {
+        loadProductFullHistory(currentProduct).then(res => {
+          if (res) {
+            renderOverlayChart(currentProduct);
+          }
+          applyPresetSelection();
+        });
+      } else {
+        applyPresetSelection();
+      }
     }
 
     function renderOverlayChart(productKey) {
-      const years = Object.keys(DATA.byYear).map(Number).sort((a, b) => a - b);
+      const prodByYear = (DATA.byYearProduct && DATA.byYearProduct[productKey]) || DATA.byYear || {};
+      const years = Object.keys(prodByYear).map(Number).sort((a, b) => a - b);
       const currentYear = new Date().getFullYear();
 
       const defaultCompare = years
@@ -18972,6 +19030,7 @@ function buildMaster() {
         .slice(0, 3);
 
       const checkboxContainer = document.getElementById('yearCheckboxes');
+      if (!checkboxContainer) return;
       checkboxContainer.innerHTML = '';
 
       const priorYears = years.filter(y => y < currentYear);

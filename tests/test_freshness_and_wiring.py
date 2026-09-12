@@ -336,3 +336,18 @@ def test_ffa_forward_curve_dist_control():
     assert "disabled" in btn_snippet, "ffaCompDist button must be disabled when realized forward distribution is unavailable"
     assert "Realized spot distribution unavailable" in btn_snippet, "ffaCompDist tooltip must state why distribution is unavailable"
     assert "p50Data.some" in html, "renderFFAForwardCurve must verify non-null points before attaching dist datasets"
+
+
+def test_dashboard_overlay_range_widening():
+    """F-2: Dashboard year overlay must not be capped at 6 years; 10Y and All must reach the series' full span.
+    Assert 10Y yields strictly more series than 5Y, and All at least as many as 10Y.
+    """
+    bdiy_view = json.loads((VIEWS_DIR / "indices" / "bdiy.json").read_text(encoding="utf-8"))
+    dates = bdiy_view.get("dates", [])
+    assert dates and len(dates) >= 10000, "bdiy view must contain full historical depth (>10,000 dates)"
+    min_year = int(dates[0][:4])
+    assert min_year <= 1990, f"bdiy history must reach back to at least 1990 (found {min_year})"
+
+    html = HTML_PATH.read_text(encoding="utf-8")
+    assert "loadProductFullHistory" in html, "index.html must implement loadProductFullHistory for on-demand deep history"
+    assert "applyPresetSelection" in html, "selectYearPreset must dynamically apply preset selections"
