@@ -1,0 +1,43 @@
+{
+  "control_labels": [
+    {
+      "text": "Playback Speed: 1.0x",
+      "reason": "Playback speed interactive control label with multiplier format"
+    },
+    {
+      "text": "Last 30 days",
+      "reason": "Standard time window filter control label"
+    }
+  ],
+  "settings": [
+    {
+      "id": "intelligence-api-key",
+      "pattern": "groq|api[_-]?key",
+      "reason": "Intelligence tab user-provided client-side API key configuration"
+    }
+  ],
+  "vessel_consumption_constants": [
+    {
+      "pattern": "Capesize \\(45 MT/day\\)",
+      "reason": "Standard industry vessel fuel consumption modeling assumption"
+    },
+    {
+      "pattern": "Panamax \\(30 MT/day\\)",
+      "reason": "Standard industry vessel fuel consumption modeling assumption"
+    },
+    {
+      "pattern": "Supramax \\(25 MT/day\\)",
+      "reason": "Standard industry vessel fuel consumption modeling assumption"
+    },
+    {
+      "pattern": "Handysize \\(18 MT/day\\)",
+      "reason": "Standard industry vessel fuel consumption modeling assumption"
+    }
+  ],
+  "canvas_allowlist": [
+    {
+      "selector": ".leaflet-container canvas",
+      "reason": "Leaflet hardware accelerated map tiles rendering canvas surface"
+    }
+  ]
+}

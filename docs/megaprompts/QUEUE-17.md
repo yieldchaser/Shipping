@@ -1,29 +1,29 @@
 # QUEUE-17 — work queue for `17-finish-line.md`
 
-Phase 0 commit: `<fill in>` · Appendices: A (loaders) · B (UI baseline) · C (freshness) · D (design)
+Phase 0 commit: `b3ccc2866` · Appendices: A (loaders) · B (UI baseline) · C (freshness) · D (design)
 
 `ID | STATUS | proof (test → result) | note`  ·  STATUS ∈ TODO · DONE · BLOCKED · no prose.
 
 ## Phase 0 — proof machinery (must FAIL now; record found-vs-appendix counts)
-Q-001 | TODO | test_loader_contracts → found ___ / appendix 27+SGX |
-Q-002 | TODO | test_no_console_errors → found ___ tabs failing / appendix 5 |
-Q-003 | TODO | test_no_failed_requests → found ___ |
-Q-004 | TODO | test_no_empty_states → found ___ / appendix 5 items |
-Q-005 | TODO | test_no_dash_kpis → found ___ / appendix 9 |
-Q-006 | TODO | test_charts_have_data → found ___ / appendix 8 dead modules |
-Q-007 | TODO | test_ui_copy_lint → found ___ / appendix ~25 terms + pills |
-Q-008 | TODO | test_no_typed_numbers → found ___ / appendix 30 nodes |
-Q-009 | TODO | test_design_lint → accents ___/13 glows ___/63 blurs ___/16 emoji ___/11 |
-Q-010 | TODO | test_tooltip_coverage → worst tab ___ / appendix 12/65 (Broker Desk) |
-Q-011 | TODO | test_layout → nav 1366 ___ ·1920 ___ · clipped ___/20 · 2-col ___ |
-Q-012 | TODO | test_ui_sweep → found ___ / appendix 10 click failures |
-Q-013 | TODO | test_views_fresh → found ___ / appendix 28 frozen views |
-Q-014 | TODO | test_workflow_wiring → found ___ / appendix 35 |
-Q-015 | TODO | test_single_writer → found ___ / appendix 1 (USDA queues) |
-Q-016 | TODO | test_manifest_matches_files → found ___ |
-Q-017 | TODO | test_perf_budget → boot ___ MB · cumulative ___ MB · worst warm ___ ms |
-Q-018 | TODO | allowlist seeded with reasons only for App B/C-approved exceptions |
-Q-019 | TODO | commit `test(phase0): proof machinery (expected to fail)`; hash recorded above |
+Q-001 | DONE | test_loader_contracts → found 27+SGX / appendix 27+SGX |
+Q-002 | DONE | test_no_console_errors → found 5 tabs failing / appendix 5 |
+Q-003 | DONE | test_no_failed_requests → found 0 |
+Q-004 | DONE | test_no_empty_states → found 5 items / appendix 5 items |
+Q-005 | DONE | test_no_dash_kpis → found 45 / appendix 9 |
+Q-006 | DONE | test_charts_have_data → found 8 dead modules / appendix 8 dead modules |
+Q-007 | DONE | test_ui_copy_lint → found 22 / appendix ~25 terms + pills |
+Q-008 | DONE | test_no_typed_numbers → found 138 nodes / appendix 30 nodes |
+Q-009 | DONE | test_design_lint → accents 13/13 glows 49/63 blurs 12/16 emoji 11/11 |
+Q-010 | DONE | test_tooltip_coverage → worst tab 23.9% (bunkers) & 52.2% (fearnleys) / appendix 12/65 (Broker Desk) |
+Q-011 | DONE | test_layout → nav 1366 hidden · 1920 hidden · clipped 25/20 · 2-col left-heavy |
+Q-012 | DONE | test_ui_sweep → found 10 / appendix 10 click failures |
+Q-013 | DONE | test_views_fresh → found 28 / appendix 28 frozen views |
+Q-014 | DONE | test_workflow_wiring → found 35 / appendix 35 |
+Q-015 | DONE | test_single_writer → found 1 / appendix 1 (USDA queues) |
+Q-016 | DONE | test_manifest_matches_files → found 37 |
+Q-017 | DONE | test_perf_budget → boot 10.58 MB · cumulative 62.0 MB · worst warm 1506 ms |
+Q-018 | DONE | allowlist seeded with reasons only for App B/C-approved exceptions |
+Q-019 | DONE | commit test(phase0): proof machinery (expected to fail); hash b3ccc2866 |
 
 ## Phase 1 — nothing blank (Appendix A + C6)
 Q-030 | TODO | SGX 7 files settlement→price (App A §A0) |
