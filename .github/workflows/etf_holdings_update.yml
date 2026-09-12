@@ -43,6 +43,12 @@ jobs:
     - name: Download and process ETF holdings & generate authoritative snapshot bundle
       run: python scripts/update_etf_holdings.py
 
+    - name: Rebuild provenance manifest
+      # This job appends rows to data/etf/*.csv. Without this step the manifest
+      # keeps the previous row counts and test_manifest_matches_files goes red on
+      # the next run. Every writer must refresh the manifest in the same run.
+      run: python scripts/verify/build_provenance_manifest.py
+
     - name: Run Production Artifact Integrity Audit
       run: python scripts/verify_production_artifact_integrity.py
 
@@ -60,6 +66,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A data/etf/
+        git add data/provenance/manifest.json
         if git diff --staged --quiet; then
           echo "No ETF holdings or snapshot changes to commit."
           exit 0
