@@ -174,3 +174,15 @@ def test_comment_chunks_complete_and_idempotent():
     for desk in ["tanker", "dry", "gas", "snp"]:
         p = ROOT / "data" / "derived" / f"fearnleys_comments_{desk}.json"
         assert hashlib.sha256(p.read_bytes()).hexdigest() == hashes[desk]
+
+
+def test_fearnleys_strip_visibility_overview_only():
+    """G-1 / Assertion 5: Forward FFA strip belongs to Overview only, not on other sub-tabs."""
+    html = (ROOT / "index.html").read_text(encoding="utf-8")
+    assert 'id="fearnBraemarStrip"' in html
+    sec1_pos = html.find('id="fearnSec1"')
+    strip_pos = html.find('id="fearnBraemarStrip"')
+    sec2_pos = html.find('id="fearnSec2"')
+    assert sec1_pos != -1 and strip_pos != -1 and sec2_pos != -1
+    assert sec1_pos < strip_pos < sec2_pos, "fearnBraemarStrip must reside inside fearnSec1 (Overview) only"
+
