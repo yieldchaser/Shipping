@@ -27,6 +27,7 @@ VIEWS_DIR = DATA_DIR / "views"
 WORKFLOWS_DIR = REPO_ROOT / ".github" / "workflows"
 MANIFEST_PATH = DATA_DIR / "provenance" / "manifest.json"
 ALLOWLIST_PATH = DATA_DIR / "reference" / "ui_test_allowlist.json"
+BALTIC_TAXONOMY_PATH = DATA_DIR / "reference" / "baltic_route_taxonomy.json"
 
 
 def test_views_fresh():
@@ -279,3 +280,47 @@ def test_no_typed_numbers():
         f"Found {len(violations)} typed numbers with units in markup outside <script> (expected ~30 primary nodes):\n"
         + "\n".join(violations[:20])
     )
+
+
+def test_baltic_route_taxonomy_glosses():
+    """G-7 / Assertion 7: Baltic route codes rendered in the UI must carry plain-language descriptions
+    derived directly from the authoritative data/reference/baltic_route_taxonomy.json, and codes
+    absent from the taxonomy (TC20, H7) must explicitly declare their absence.
+    """
+    assert BALTIC_TAXONOMY_PATH.exists(), "data/reference/baltic_route_taxonomy.json must exist"
+    tax = json.loads(BALTIC_TAXONOMY_PATH.read_text(encoding="utf-8"))
+    routes = tax.get("routes", {})
+
+    html = HTML_PATH.read_text(encoding="utf-8")
+
+    code_map = {
+        "C2": ("C2", "Tubarao to Rotterdam"),
+        "C3": ("C3", "Tubarao to Qingdao"),
+        "C5": ("C5", "West Australia to Qingdao"),
+        "C7": ("C7", "Bolivar to Rotterdam"),
+        "P1A": ("P1A_82", "Skaw-Gib transatlantic round voyage"),
+        "P2A": ("P2A_82", "Skaw-Gib trip HK-S Korea incl Taiwan"),
+        "P3A": ("P3A_82", "Hong Kong-South Korea transpacific round voyage"),
+        "S1B": ("S1B", "Canakkale trip via Med or Bl Sea to China-South Korea"),
+        "S4A": ("S4A", "US Gulf trip to Skaw-Passero"),
+        "S4B": ("S4B", "Skaw-Passero trip to US Gulf"),
+        "S10": ("S10", "South China trip via Indonesia to south China"),
+        "TD3C": ("TD3C", "Middle East Gulf to China"),
+        "TD20": ("TD20", "West Africa to UK-Continent"),
+        "TD25": ("TD25", "US Gulf to A-R-A"),
+        "TC2": ("TC2_37", "Continent to US Atlantic coast"),
+    }
+
+    for key, (tax_key, exp_desc) in code_map.items():
+        assert tax_key in routes, f"Expected {tax_key} in baltic_route_taxonomy.json"
+        tax_desc = routes[tax_key]["description"]
+        assert exp_desc in tax_desc, f"Expected {exp_desc} in taxonomy description for {tax_key}"
+        assert f"Baltic {key}: {exp_desc}" in html, f"index.html must include canonical gloss for {key}"
+
+    assert "code not present in Baltic official route taxonomy" in html
+    assert 'id="flagBtnBrazilC3"' in html and 'Baltic C3: Tubarao to Qingdao' in html
+    assert 'id="flagBtnPilbaraC5"' in html and 'Baltic C5: West Australia to Qingdao' in html
+    assert 'id="flagshipHudTsid"' in html
+    assert 'id="presetTd3c"' in html and 'Middle East Gulf to China' in html
+    assert 'id="presetC5"' in html and 'West Australia to Qingdao' in html
+    assert 'id="presetC3"' in html and 'Tubarao to Qingdao' in html

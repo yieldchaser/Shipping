@@ -14469,9 +14469,9 @@ if (intelTabsContainer) {
               <div style="display:flex; flex-direction:column; gap:4px; padding:6px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border);">
                 <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Benchmark Corridors:</div>
                 <div style="display:flex; flex-wrap:wrap; gap:4px;">
-                  <button class="cp-toggle-btn active" id="presetTd3c" onclick="loadPresetRoute('td3c')" style="font-size:11px; padding:3px 8px;">Fujairah &rarr; Rotterdam (TD3C)</button>
-                  <button class="cp-toggle-btn" id="presetC5" onclick="loadPresetRoute('c5')" style="font-size:11px; padding:3px 8px;">Port Hedland &rarr; Qingdao (C5)</button>
-                  <button class="cp-toggle-btn" id="presetC3" onclick="loadPresetRoute('c3')" style="font-size:11px; padding:3px 8px;">Tubarao &rarr; Qingdao (C3)</button>
+                  <button class="cp-toggle-btn active" id="presetTd3c" onclick="loadPresetRoute('td3c')" data-tooltip="Baltic TD3C: Middle East Gulf to China (Dirty Tankers, worldscale)" style="font-size:11px; padding:3px 8px;">Fujairah &rarr; Rotterdam (TD3C)</button>
+                  <button class="cp-toggle-btn" id="presetC5" onclick="loadPresetRoute('c5')" data-tooltip="Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)" style="font-size:11px; padding:3px 8px;">Port Hedland &rarr; Qingdao (C5)</button>
+                  <button class="cp-toggle-btn" id="presetC3" onclick="loadPresetRoute('c3')" data-tooltip="Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)" style="font-size:11px; padding:3px 8px;">Tubarao &rarr; Qingdao (C3)</button>
                   <button class="cp-toggle-btn" id="presetTransatlantic" onclick="loadPresetRoute('transatlantic')" style="font-size:11px; padding:3px 8px;">Houston &rarr; Rotterdam</button>
                   <button class="cp-toggle-btn" id="presetTranspacific" onclick="loadPresetRoute('transpacific')" style="font-size:11px; padding:3px 8px;">US Gulf &rarr; Chiba (Panama/Suez)</button>
                 </div>
@@ -14937,11 +14937,11 @@ if (intelTabsContainer) {
             </div>
             <!-- Route Selector Buttons -->
             <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-              <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
-              <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
-              <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
-              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs Panamax</button>
-              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
+              <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" data-tooltip="Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
+              <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" data-tooltip="Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
+              <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" data-tooltip="Seaborne thermal coal export corridor from Newcastle to Asian power utilities" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
+              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" data-tooltip="US Gulf grain seaborne departures paired with Baltic Panamax voyage assessments" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs Panamax</button>
+              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" data-tooltip="Guinea bauxite seaborne departures paired with Capesize freight benchmark indicators" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
             </div>
           </div>
 
@@ -14961,7 +14961,7 @@ if (intelTabsContainer) {
             </div>
             <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Curve Identifier</div>
-              <div id="flagshipHudTsid" style="font-size:13px;font-weight:700;color:var(--text);">Route 10001 (C3)</div>
+              <div id="flagshipHudTsid" style="font-size:13px;font-weight:700;color:var(--text);" data-tooltip="Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)">Route 10001 (C3)</div>
             </div>
           </div>
 
@@ -23020,15 +23020,25 @@ function buildMaster() {
         return t && t.trim().length >= 20 && !/^(click|toggle|select|tap)\b/i.test(t.trim());
       };
 
-      var ROUTE_GLOSS = {
-        'C3': 'Tubarao to Qingdao Capesize iron ore freight benchmark route',
-        'C5': 'West Australia to Qingdao Capesize iron ore freight benchmark route',
-        'S4A': 'US Gulf to Skaw-Passero Supramax grain freight trip route',
-        'TD3': 'Middle East Gulf to Japan VLCC crude oil tanker benchmark route',
-        'TD3C': 'Middle East Gulf to China VLCC 270k MT crude oil tanker benchmark route',
-        'TD20': 'West Africa to UK Continent Suezmax 130k MT crude tanker benchmark route',
-        'TD25': 'US Gulf to UK Continent Aframax 70k MT crude tanker benchmark route',
-        'TC20': 'Middle East to UK Continent Clean LR2 90k MT product tanker route'
+      var BALTIC_ROUTE_TAXONOMY_GLOSS = {
+        'C2': 'Baltic C2: Tubarao to Rotterdam (Capesize, usd/tonne)',
+        'C3': 'Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)',
+        'C5': 'Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)',
+        'C7': 'Baltic C7: Bolivar to Rotterdam (Capesize, usd/tonne)',
+        'P1A': 'Baltic P1A: Skaw-Gib transatlantic round voyage (Panamax, usd/day)',
+        'P2A': 'Baltic P2A: Skaw-Gib trip HK-S Korea incl Taiwan (Panamax, usd/day)',
+        'P3A': 'Baltic P3A: Hong Kong-South Korea transpacific round voyage (Panamax, usd/day)',
+        'S1B': 'Baltic S1B: Canakkale trip via Med or Bl Sea to China-South Korea (Supramax, usd/day)',
+        'S4A': 'Baltic S4A: US Gulf trip to Skaw-Passero (Supramax, usd/day)',
+        'S4B': 'Baltic S4B: Skaw-Passero trip to US Gulf (Supramax, usd/day)',
+        'S10': 'Baltic S10: South China trip via Indonesia to south China (Supramax, usd/day)',
+        'TD3': 'Baltic TD3: Middle East Gulf to Japan (superseded by TD3C in official route taxonomy)',
+        'TD3C': 'Baltic TD3C: Middle East Gulf to China (Dirty Tankers, worldscale)',
+        'TD20': 'Baltic TD20: West Africa to UK-Continent (Dirty Tankers, worldscale)',
+        'TD25': 'Baltic TD25: US Gulf to A-R-A (Dirty Tankers, worldscale)',
+        'TC2': 'Baltic TC2: Continent to US Atlantic coast (CPP, UNL) (Clean Tankers, worldscale)',
+        'TC20': 'Baltic TC20: Clean Tanker route (code not present in Baltic official route taxonomy)',
+        'H7': 'Baltic H7: Handysize 7TC route basket (code not present in Baltic official route taxonomy)'
       };
 
       panel.querySelectorAll('button, select, input, textarea, [role="button"], .chip, .segmented-btn, .btn, .control, .leaflet-marker-icon, .toggle-btn, .cp-toggle-btn, .tracking-pill, .tracking-status-btn, .tracking-subview-btn, .tracking-layer-chk, .corr-btn, .dl-btn, .cp-page-btn, .brief-nav-btn, .sq-tab, .sq-q, .sent-matrix-toggle, .pill-btn, .dist-calc-btn, .signal-vessel-btn').forEach(function (el) {
@@ -23048,13 +23058,11 @@ function buildMaster() {
           desc = 'Scenario target settlement price override for disclosed holding contract #' + (idx2 != null ? String(Number(idx2) + 1) : '');
         }
 
-        // Check Baltic route glosses
+        // Check Baltic route glosses from canonical taxonomy
         if (!desc) {
-          for (var code in ROUTE_GLOSS) {
-            if (txt.indexOf(code) !== -1 || id.indexOf(code) !== -1) {
-              desc = ROUTE_GLOSS[code];
-              break;
-            }
+          var bMatch = (txt + ' ' + id).match(/\b(C2|C3|C5|C7|P1A|P2A|P3A|S1B|S4A|S4B|S10|TD3C|TD20|TD25|TD3|TC2|TC20|H7)\b/);
+          if (bMatch && BALTIC_ROUTE_TAXONOMY_GLOSS[bMatch[1]]) {
+            desc = BALTIC_ROUTE_TAXONOMY_GLOSS[bMatch[1]];
           }
         }
 
@@ -23093,6 +23101,22 @@ function buildMaster() {
         el.setAttribute('data-tooltip', desc);
         el.setAttribute('title', desc);
         el.setAttribute(STAMPED, '1');
+      });
+
+      // 4) Leaf elements (span, div, card, heading) displaying Baltic route codes
+      panel.querySelectorAll('span, div, p, td, th, .cargo-hud-card, .chart-title').forEach(function (el) {
+        if (el.children.length === 0 || el.classList.contains('cargo-hud-card')) {
+          if (!hasValidTip(el)) {
+            var txt = (el.textContent || '').trim();
+            var id = el.id || '';
+            var bMatch = (txt + ' ' + id).match(/\b(C2|C3|C5|C7|P1A|P2A|P3A|S1B|S4A|S4B|S10|TD3C|TD20|TD25|TD3|TC2|TC20|H7)\b/);
+            if (bMatch && BALTIC_ROUTE_TAXONOMY_GLOSS[bMatch[1]]) {
+              el.setAttribute('data-tooltip', BALTIC_ROUTE_TAXONOMY_GLOSS[bMatch[1]]);
+              el.setAttribute('title', BALTIC_ROUTE_TAXONOMY_GLOSS[bMatch[1]]);
+              el.setAttribute(STAMPED, '1');
+            }
+          }
+        }
       });
     }
     window.annotateCoverageGaps = annotateCoverageGaps;
@@ -29756,7 +29780,16 @@ function renderFearnleysSnpTable() {
       var lastRate = pairData.freight_data.filter(function(v) { return v !== null; }).slice(-1)[0];
       if (volEl && lastVol != null) volEl.textContent = lastVol + ' ' + pairData.volume_unit + '/mo';
       if (rateEl && lastRate != null) rateEl.textContent = '$' + lastRate + ' / MT';
-      if (tsidEl) tsidEl.textContent = (pairData.route_code || '').replace(/tsid_?\s*/gi, 'Route ');
+      if (tsidEl) {
+        var rCode = (pairData.route_code || '').replace(/tsid_?\s*/gi, 'Route ');
+        tsidEl.textContent = rCode;
+        var rTip = 'Baltic Exchange benchmark freight route';
+        if (rCode.indexOf('C3') !== -1) rTip = 'Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)';
+        else if (rCode.indexOf('C5') !== -1) rTip = 'Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)';
+        else if (rCode.indexOf('TD3C') !== -1) rTip = 'Baltic TD3C: Middle East Gulf to China (Dirty Tankers, worldscale)';
+        else if (rCode.indexOf('TD20') !== -1) rTip = 'Baltic TD20: West Africa to UK-Continent (Dirty Tankers, worldscale)';
+        tsidEl.setAttribute('data-tooltip', rTip);
+      }
       if (provEl) provEl.textContent = 'Volume: ' + pairData.provenance.volume_source + ' · Freight: ' + (pairData.provenance.freight_source || '').replace(/tsid_?\s*/gi, 'Route ');
       if (badgeEl) {
         badgeEl.textContent = pairData.provenance.status === 'LIVE_MIRROR' ? 'MIRROR STATISTIC' : 'PAIRED DATA';
