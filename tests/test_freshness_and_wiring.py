@@ -351,3 +351,19 @@ def test_dashboard_overlay_range_widening():
     html = HTML_PATH.read_text(encoding="utf-8")
     assert "loadProductFullHistory" in html, "index.html must implement loadProductFullHistory for on-demand deep history"
     assert "applyPresetSelection" in html, "selectYearPreset must dynamically apply preset selections"
+
+
+def test_restocking_spot_no_spurious_interpolation():
+    """F-3: Capesize spot in the iron ore restocking chart must set spanGaps: false and
+    lookupSpot must not nearest-snap across holes, ensuring broken lines over missing data
+    rather than drawing synthetic bridging chords across months of gaps.
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+    assert "function renderIronOreRestockingChart" in html
+    spot_defs = re.findall(r"label:\s*'Capesize Spot \(\$/day\)',[^}]+spanGaps:\s*(true|false)", html)
+    assert spot_defs, "Must define Capesize Spot ($/day) datasets in renderIronOreRestockingChart"
+    for sg in spot_defs:
+        assert sg == "false", f"Capesize Spot dataset must set spanGaps: false, found spanGaps: {sg}"
+    assert "function lookupSpot(spotMap, dateStr, dateObj, maxDiffMs)" in html
+    assert "if (!maxDiffMs) return null;" in html
+

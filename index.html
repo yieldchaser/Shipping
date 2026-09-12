@@ -16580,11 +16580,12 @@ if (intelTabsContainer) {
       return _spotMapCache[spotKey];
     }
 
-    // Fast spot value lookup: O(1) by dateStr, O(log N) fallback by nearest date
+    // Fast spot value lookup: O(1) by dateStr, O(log N) fallback only when maxDiffMs explicitly passed
     function lookupSpot(spotMap, dateStr, dateObj, maxDiffMs) {
       var v = spotMap.byDate[dateStr];
       if (v != null) return v;
-      var idx = binarySearchNearest(spotMap.sortedTs, dateObj.getTime(), maxDiffMs || 345600000);
+      if (!maxDiffMs) return null;
+      var idx = binarySearchNearest(spotMap.sortedTs, dateObj.getTime(), maxDiffMs);
       return idx >= 0 ? spotMap.sortedVals[idx] : null;
     }
 
@@ -26573,7 +26574,7 @@ function buildMaster() {
 
       if (activeGrade === 'steel') {
         datasets = [
-          { label: 'Capesize Spot ($/day)', data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+          { label: 'Capesize Spot ($/day)', data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 2, fill: false, tension: 0.1, spanGaps: false },
           { label: 'China Steel Output (MT)', data: rows.map(r => r.steelProd), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
           { label: 'Steel Inventories (MT)', data: rows.map(r => r.steelInv), yAxisID: 'yRight', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true }
         ];
@@ -26581,7 +26582,7 @@ function buildMaster() {
         const gradeLabel = activeGrade === '65' ? 'CFR 65% Carajas Fines ($/dmt)' : 'CFR 62% Standard Ore ($/dmt)';
         const stockLabel = activeGrade === '65' ? 'Port Stock 65% Est. (Mt)' : 'China Port Inventory (Mt)';
         datasets = [
-          { label: 'Capesize Spot ($/day)', data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
+          { label: 'Capesize Spot ($/day)', data: rows.map(r => r.spot), yAxisID: 'yLeft', borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 2, fill: false, tension: 0.1, spanGaps: false },
           { label: gradeLabel, data: rows.map(r => r.price), yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true },
           { label: stockLabel, data: rows.map(r => r.stock), yAxisID: 'yRight2', borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [4, 4], pointRadius: 0, fill: false, tension: 0.1, spanGaps: true }
         ];
