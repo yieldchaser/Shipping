@@ -470,3 +470,18 @@ def test_bunker_port_detail_code_fallback_and_feedback():
     assert "port.locode" in html
     assert "Port Not Found: " in html
     assert "modal.style.display = 'flex'" in html
+
+
+def test_broker_branding_demoted_in_panel_headings():
+    """G-2: Third-party broker branding must be demoted in panel titles (e.g.
+    'FORWARD FFA STRIP' instead of leading with 'BRAEMAR LIVE FORWARD FFA STRIP')
+    while preserving authentic source attribution, provenance manifest entries,
+    and tooltips intact.
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+    # Neutral panel heading
+    assert "FORWARD FFA STRIP" in html
+    assert "BRAEMAR LIVE FORWARD FFA STRIP" not in html
+    # Preserved source attribution
+    assert "Source: Braemar ACM Shipbroking" in html
+
