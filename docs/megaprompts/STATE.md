@@ -1,8 +1,57 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-12 (Prompt 18 complete; suite green; live-site polish queued).**
+**Last updated: 2026-09-13. Prompt 18 shipped and green; 20-FIVE + 21-NEXT are the live run.**
 
 ---
+
+## Current state
+Suite **45 passed / 0 failed**. Live at https://yieldchaser.github.io/Shipping/, Pages green.
+`origin/main` is the truth; the agent commits per item and pushes.
+
+**The contract** — the only thing that counts as done:
+
+```bash
+python -m pytest tests/test_ui_tabs.py tests/test_loader_contracts.py tests/test_freshness_and_wiring.py -q
+```
+
+plus `git diff <baseline> -- tests/ data/reference/ui_test_allowlist.json` to prove nothing was
+weakened.
+
+## The live run — two specs, both on main
+- **`20-FIVE.md`** F-1..F-5 — Realized Pctl inert (3 datasets, 0 points) · Dashboard 10Y/All capped
+  at 6 years while BDI runs to 1985 · Capesize spot bridges a 282-day hole with one straight line ·
+  BIX shows `obs 2026-09-04` while `bix_history.csv` is complete through 09-09 · fleet AIS sector
+  filters repaint nothing (160 markers before and after).
+- **`21-NEXT.md`** G-1..G-12 — order is in its last section.
+
+### Done already
+| Item | By | Commit |
+|---|---|---|
+| G-1 Braemar strip → Overview only | agent | `307839d0e` |
+| G-3 museum count contradiction | agent | `f859293d8` |
+| G-5 floating quote marquee | me | `45be25529` |
+
+### Still open in 21
+G-2 (demote broker branding, **keep** source attribution — needs owner's explicit word before
+touching provenance) · G-4 Broker Voice pagination + month/year selector · G-6 tab-bar spacing ·
+G-7 Baltic route tooltips (C3 0/2, C5 0/3 — read from `baltic_route_taxonomy.json`, never edit it) ·
+G-9 fleet-supply cadence · G-10 Port Detail matches on name not code · G-11 tracking Laden/Ballast
+inert · G-12 shorten the signal banner and rename the ladder to Stretched / Elevated / Mid-range /
+Soft / Depressed.
+
+**G-12 carries the one deliberate threshold change of this run:** `WAIT` splits at percentile 0.6,
+because the 0.4–0.8 band lumps together regimes that differ (fwd 3M mean +0.71% vs +3.18%,
+n=1,575 / 1,459). It obliges `build_signal_base_rates()` to emit `elevated` and `mid_range` buckets
+so no label borrows a neighbour's base rate.
+
+## G-8 is a DO-NOT-TOUCH
+The Series Museum is correct: 10Y and Max agree because the Fearnleys series starts 2017-07.
+Only the Dashboard's 10Y/All are broken (that's F-2).
+
+## Method note
+Every defect in the last three sessions was found by opening the page, not by the tests. A green
+suite is a floor. Also: my own sweep tooling produced 212 false positives out of 459 — verify what
+my harness reports before passing it on.
 
 ## DONE — Prompt 18 finished. Suite 45 passed / 0 failed at `1075b241a`, live and deployed.
 Verified by me, not taken on report. Pages deploy green. `origin/main` clean, 0 ahead / 0 behind.
