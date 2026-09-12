@@ -1,8 +1,52 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-12 (Prompt 17 round 3 audited).** Update this file at every prompt boundary.
+**Last updated: 2026-09-12 (R3 fixes landed by me; round 4 queued).** Update this file at every prompt boundary.
 
 ---
+
+## R3 fixes landed by me — `86cc840d6`, pushed. Suite 9 failed / 36 passed
+Prateek asked me to stop round-tripping and fix it directly. Two coder subagents were dispatched
+and both were structurally blocked: subagents inherit this session's stale worktree, and the
+permission layer refuses writes to the base checkout. One refused to fabricate the missing files
+(correct); the other's edits landed in the worktree copy and had to be ported by hand. **Delegation
+to subagents does not work for this repo from a worktree session — do the work directly.**
+- **R3-0 had two causes.** The malformed `<div id="etfContractDetailModal">` had lost its `style=`
+  keyword again, AND the ETF deconstruction render called `openContractPriceInspector()` every
+  render to force a canvas to mount for the audit — popping the modal over the ETFs tab. Fixed
+  both. Measured after: `display none · offsetParent null · 0×0` (before: `flex · 792×258 · y=7375`).
+- **R3-2** proxies and the `hostname === 'localhost'` gate deleted; quotes are cache-only.
+- **R3-3** tab-wide bunkers allowlist entry deleted; the 1 dash it hid is now visible to the test.
+- **R3-1** `test_charts_have_data` sweeps the whole document for *visible* canvases, not just the
+  active panel — the panel scope is why it stayed green through R3-0.
+- **`test_single_writer` GREEN.** `fetch_usda_grain_queues.py` is sole writer; the 2020-ending
+  Socrata dataset removed from `fetch_usda_grains.py`; `usda_weekly.yml` rewired. **The 2026-09-17
+  deadline is cleared.** Also strengthened the test, which counted a filename in a COMMENT as a
+  write. Mutation-proven both ways.
+- **`test_views_fresh` GREEN, and rewritten** — it had asserted every view be as new as BDI, which
+  a weekly index can only satisfy by lying. Now: every view carries an `as_of`; the stamp may not
+  overstate the view's own newest date; nothing may fall 45 days behind the newest; `pages.yml`
+  must rebuild views. `build_views.py` stamps from content, never the clock, capped at today so
+  forward-curve expiries are not read as freshness. Date-free lookups declare
+  `{as_of: null, freshness: "static-lookup"}`; the seven known ones are pinned.
+- **`pages.yml` now runs `build_views.py`** before packaging — the actual root cause of frozen views.
+
+## Correction to my own earlier claim (recorded so it does not propagate)
+I reported the `test_loader_contracts` 1200-char window as a proven blind spot. **It was not.** My
+mutation at offset 3931 escaped because it landed outside that loader entirely, where `row.capesize`
+is not a violation — the true body is 585 chars. The old test was behaving correctly. I replaced
+the window with real brace matching anyway (tighter, no bleed into the next loader) and proved it
+with an in-body mutation, but the original diagnosis was wrong.
+
+## Known flake
+One suite run showed 11 tabs with console errors and ~50 dead canvases, all `Chart is not defined`.
+Did not reproduce. Chart.js loads from a CDN, so a network hiccup fails every chart in the run.
+Vendor it locally. → `17-CORRECTION-R4.md` Q-B6.
+
+## Remaining 9 — all in `17-CORRECTION-R4.md`
+Automation: `test_workflow_wiring` (27 series, down from 35), `test_manifest_matches_files` (37),
+`test_no_typed_numbers` (138). UI: copy lint (21 terms), design lint (13 accents / 11 emoji,
+untouched for four rounds), tooltips (bunkers 24%), layout (Offshore hidden at 1366px),
+1 bunkers dash, perf (boot 10.4 MB vs 0.5; cumulative 73 MB vs 8; warm now 196 ms).
 
 ## Prompt 17 round 3 — audited 2026-09-12, best round so far
 Frozen suite unmodified: **10 failed / 35 passed** (was 14/31). Report is broadly honest for the
@@ -32,11 +76,6 @@ first time — it names the 5 remaining UI failures instead of claiming a sweep.
   disagreements, 138 typed numbers, and `fetch_usda_grain_queues.py` + `fetch_usda_grains.py`
   both writing the same CSV. **`test_single_writer` due 2026-09-17 — four days.** Ordered first.
 - → `17-CORRECTION-R3.md`.
-
-## Known blind spot in my own frozen test (still open)
-`test_loader_contracts` scans only `html_text[file_idx:file_idx+1200]`. A mutation planted 3,931
-chars after the file-path string went undetected; the same one at offset 277 was caught. Widen the
-window between rounds. R3-1 above is the same class of defect in `test_charts_have_data`.
 
 ## Prompt 17 round 2 — audited 2026-09-12, still NOT done
 Frozen suite unmodified: **14 failed / 31 passed** — identical headline to round 1. Report claimed
