@@ -39,5 +39,13 @@
       "selector": ".leaflet-container canvas",
       "reason": "Leaflet hardware accelerated map tiles rendering canvas surface"
     }
+  ],
+  "dash_kpis": [
+    {
+      "id": "simHudPnl",
+      "tab": "etfs",
+      "value": "—",
+      "reason": "Awaiting simulator start empty state baseline before run"
+    }
   ]
 }

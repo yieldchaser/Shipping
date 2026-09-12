@@ -14,6 +14,7 @@ Also handles:
 import os
 import sys
 import json
+import re
 import glob
 from datetime import datetime, timezone
 import pandas as pd
@@ -56,9 +57,85 @@ def get_prov_header(prov_map, file_path, default_id="", fallback_source=""):
         "status": item.get('status', "LIVE")
     }
 
+_ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}")
+
+
+def _today_iso():
+    import datetime as _dt
+    return _dt.date.today().isoformat()
+
+
+def _max_observed_date(obj):
+    """Newest date in the payload that is not in the future.
+
+    Forward curves carry contract expiry dates years ahead; those describe the
+    instrument, not how current the data is. as_of means 'data through'.
+    """
+    today = _today_iso()
+    best = _max_date_in(obj)
+    if best and best <= today:
+        return best
+    # Walk again keeping only non-future dates.
+    return _max_date_in_capped(obj, today)
+
+
+def _max_date_in_capped(obj, today, best=""):
+    if isinstance(obj, str):
+        if _ISO_DATE_RE.match(obj) and obj[:10] <= today:
+            return max(best, obj[:10])
+        return best
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            if isinstance(k, str) and _ISO_DATE_RE.match(k) and k[:10] <= today:
+                best = max(best, k[:10])
+            best = _max_date_in_capped(v, today, best)
+        return best
+    if isinstance(obj, (list, tuple)):
+        for v in obj:
+            best = _max_date_in_capped(v, today, best)
+    return best
+
+
+def _max_date_in(obj, best=""):
+    """Deepest ISO date present anywhere in the payload.
+
+    Used to stamp a view's as_of from its OWN data. Never uses the clock: a view
+    built today from data that ends last week is as_of last week, and must say so.
+    """
+    if isinstance(obj, str):
+        if _ISO_DATE_RE.match(obj):
+            return max(best, obj[:10])
+        return best
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            if isinstance(k, str) and _ISO_DATE_RE.match(k):
+                best = max(best, k[:10])
+            best = _max_date_in(v, best)
+        return best
+    if isinstance(obj, (list, tuple)):
+        for v in obj:
+            best = _max_date_in(v, best)
+        return best
+    return best
+
+
 def write_view_manifest(target_file, payload, report_name):
     """Write deterministic JSON and verify <= 250 KB limit."""
     os.makedirs(os.path.dirname(target_file), exist_ok=True)
+    # Stamp as_of from the payload's own newest date so freshness is checkable.
+    if isinstance(payload, dict):
+        as_of = _max_observed_date(payload)
+        hdr = payload.get("header")
+        target = hdr if isinstance(hdr, dict) else payload
+        if as_of:
+            target["as_of"] = as_of
+            target.pop("freshness", None)
+        else:
+            # No date anywhere in the payload: this is a static lookup table
+            # (vessel/port registries). Say so explicitly rather than stamping a
+            # date the data does not support.
+            target["as_of"] = None
+            target["freshness"] = "static-lookup"
     raw_str = json.dumps(payload, sort_keys=True, separators=(',', ':'))
     raw_bytes = raw_str.encode('utf-8')
     size_bytes = len(raw_bytes)
@@ -340,6 +417,44 @@ def build_etf_summary(prov_map):
     }
     write_view_manifest("data/views/etf_summary.json", payload, "ETF Summary View")
 
+
+def stamp_all_views(views_root="data/views"):
+    """Stamp as_of on every view under data/views/, whoever wrote it.
+
+    write_view_manifest stamps the views this script builds, but several views
+    (data/views/signal/*, data/views/signals/*) are written by other scripts.
+    This pass runs last so no view can ship without declaring its own freshness.
+    The date always comes from the file's own content - never from the clock.
+    """
+    stamped = 0
+    for path in sorted(glob.glob(os.path.join(views_root, "**", "*.json"), recursive=True)):
+        try:
+            with open(path, "r", encoding="utf-8") as fh:
+                data = json.load(fh)
+        except Exception:
+            continue
+        if not isinstance(data, dict):
+            continue
+        hdr = data.get("header")
+        target = hdr if isinstance(hdr, dict) else data
+        as_of = _max_observed_date(data)
+        if as_of:
+            if target.get("as_of") == as_of and "freshness" not in target:
+                continue
+            target["as_of"] = as_of
+            target.pop("freshness", None)
+        else:
+            if target.get("as_of") is None and target.get("freshness") == "static-lookup":
+                continue
+            target["as_of"] = None
+            target["freshness"] = "static-lookup"
+        with open(path, "w", encoding="utf-8") as fh:
+            json.dump(data, fh, sort_keys=True, separators=(",", ":"))
+        stamped += 1
+    print(f"  [STAMP] as_of written on {stamped} view(s)")
+    return stamped
+
+
 def main():
     print("=================================================================")
     print("scripts/build_views.py — Building Tier 1 View Manifests")
@@ -362,6 +477,7 @@ def main():
     build_etf_summary(prov_map)
     
     print("\nAll view manifests successfully built and validated under 250 KB target.")
+    stamp_all_views()
 
 if __name__ == '__main__':
     main()

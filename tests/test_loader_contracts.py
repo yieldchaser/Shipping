@@ -64,6 +64,32 @@ TABLE_A1_LOADERS = [
 ]
 
 
+
+def _loader_chunk(html_text, file_idx):
+    """Lexical extent of the loader call starting at file_idx.
+
+    A fixed 1200-char window silently missed real breakage: a planted
+    `row.capesize` 3,931 chars past the safeFetch( call went undetected while the
+    identical mutation at 277 was caught. Track brace depth to the end of the
+    call's body instead, with a hard cap so a malformed file cannot hang.
+    """
+    CAP = 6000
+    start = file_idx
+    end = min(len(html_text), start + CAP)
+    depth = 0
+    seen = False
+    for i in range(start, end):
+        c = html_text[i]
+        if c == '{':
+            depth += 1
+            seen = True
+        elif c == '}':
+            depth -= 1
+            if seen and depth <= 0:
+                return html_text[start:i + 1]
+    return html_text[start:end]
+
+
 def test_sgx_futures_loader_contracts():
     """Verify SGX futures CSV loaders in index.html match real file schema."""
     html_text = HTML_PATH.read_text(encoding="utf-8")
@@ -103,7 +129,7 @@ def test_table_a1_loader_contract(file_path, missing_fields):
     # Locate the loader block for this file
     file_idx = html_text.find(file_path)
     assert file_idx != -1, f"Loader for {file_path} not found in index.html"
-    loader_chunk = html_text[file_idx:file_idx + 1200]
+    loader_chunk = _loader_chunk(html_text, file_idx)
 
     read_absent = []
     for fld in absent:
@@ -144,7 +170,7 @@ def test_loader_contracts_summary():
         if file_idx == -1:
             broken_loaders.append(file_path)
             continue
-        chunk = html_text[file_idx:file_idx + 1200]
+        chunk = _loader_chunk(html_text, file_idx)
         absent_read = []
         for f in missing_fields:
             if f not in header:

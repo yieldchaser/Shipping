@@ -38,6 +38,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install build deps
+        run: pip install pandas
+
+      - name: Build view layer
+        # data/views/ is what the frontend reads. Without this step the views
+        # ship frozen at whatever was last committed by hand - the Dashboard
+        # showed "as of 2026-09-09" while BDI had 2026-09-11.
+        run: python scripts/build_views.py
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

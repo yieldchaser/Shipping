@@ -25,6 +25,10 @@ HEADERS = {
 }
 
 DATASETS = {
+    # NOTE: usda_grain_vessel_loading_queues.csv is deliberately NOT fetched here.
+    # Socrata dataset uiht-9xts ends in 2020 and would overwrite the rebuilt series.
+    # Sole writer of that file is scripts/acquire/fetch_usda_grain_queues.py.
+    # Enforced by tests/test_freshness_and_wiring.py::test_single_writer.
     "usda_bunker_fuel_daily.csv": {
         "id": "4v3x-mj86",
         "name": "Daily Bunker Fuel Prices (VLSFO, MGO, IFO 380)",
@@ -38,11 +42,6 @@ DATASETS = {
     "usda_us_vs_brazil_landed_costs.csv": {
         "id": "g9w7-d2kh",
         "name": "US vs Brazil Soybean Landed Costs to China",
-        "dir": COMMODITIES_DIR,
-    },
-    "usda_grain_vessel_loading_queues.csv": {
-        "id": "uiht-9xts",
-        "name": "Grain Vessel Loading Queues (Gulf & PNW In-Port & Due)",
         "dir": COMMODITIES_DIR,
     },
     "usda_us_vs_brazil_cost_spreads.csv": {

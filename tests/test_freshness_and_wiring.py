@@ -14,6 +14,7 @@ Validates:
 """
 
 import csv
+import datetime
 import json
 import re
 from pathlib import Path
@@ -29,38 +30,110 @@ ALLOWLIST_PATH = DATA_DIR / "reference" / "ui_test_allowlist.json"
 
 
 def test_views_fresh():
-    """Q-013: Verify all 28 views in data/views/ are fresh against their underlying data sources."""
+    """Q-013: Views must be rebuilt from current data and must say how current they are.
+
+    The original form of this test asserted every view was at least as new as
+    bdiy_historical.csv. That was the wrong property: a weekly Clarksons index
+    legitimately trails a daily BDI, so the assertion could only ever be satisfied
+    by lying. What actually matters is:
+      1. every view carries an as_of,
+      2. that as_of is the newest date in the view's OWN payload (the stamp does
+         not overstate freshness), and
+      3. the deploy rebuilds views, so nothing ships frozen.
+    """
     assert VIEWS_DIR.exists(), "data/views/ directory must exist"
     view_files = list(VIEWS_DIR.rglob("*.json"))
     assert len(view_files) >= 28, f"Expected 28 view files, found {len(view_files)}"
 
-    # Check newest date in bdiy_historical.csv
-    bdi_file = DATA_DIR / "indices" / "bdiy_historical.csv"
-    assert bdi_file.exists()
-    with open(bdi_file, "r", encoding="utf-8") as f:
-        rows = list(csv.reader(f))
-        latest_bdi_date = rows[-1][0] if rows else "2026-09-11"
+    iso = re.compile(r"^\d{4}-\d{2}-\d{2}")
 
-    stale_views = []
+    today = datetime.date.today().isoformat()
+
+    def max_date(obj, best=""):
+        # Ignore future dates: forward curves carry contract expiries years out,
+        # which describe the instrument, not how current the data is.
+        if isinstance(obj, str):
+            return max(best, obj[:10]) if (iso.match(obj) and obj[:10] <= today) else best
+        if isinstance(obj, dict):
+            for k, v in obj.items():
+                if isinstance(k, str) and iso.match(k) and k[:10] <= today:
+                    best = max(best, k[:10])
+                best = max_date(v, best)
+            return best
+        if isinstance(obj, (list, tuple)):
+            for v in obj:
+                best = max_date(v, best)
+        return best
+
+    unstamped, lying = [], []
+    static_lookups = []
+    stamps = []
     for vf in view_files:
         try:
             data = json.loads(vf.read_text(encoding="utf-8", errors="ignore"))
-            as_of = (
-                data.get("as_of")
-                or data.get("meta", {}).get("as_of")
-                or data.get("last_updated")
-                or (data.get("dates", [])[-1] if data.get("dates") else "")
-                or ""
-            )
-            # If the view as_of is older than latest BDI date or fixed round 1 date 2026-09-09
-            if not as_of or as_of < latest_bdi_date:
-                stale_views.append((vf.name, as_of, latest_bdi_date))
         except Exception as e:
-            stale_views.append((vf.name, f"Error: {e}", latest_bdi_date))
+            unstamped.append((vf.name, f"unreadable: {e}"))
+            continue
+        as_of, freshness, declared = "", "", False
+        if isinstance(data, dict):
+            for holder in (data, data.get("header", {}), data.get("meta", {})):
+                if isinstance(holder, dict) and "as_of" in holder:
+                    declared = True
+                    as_of = holder.get("as_of") or as_of
+                    freshness = holder.get("freshness") or freshness
+        if not as_of:
+            # A view with no dates in it is a static lookup table, but it must
+            # DECLARE that - silence is indistinguishable from a broken build.
+            if declared and freshness == "static-lookup":
+                if max_date(data):
+                    lying.append((vf.name, "static-lookup", max_date(data)))
+                else:
+                    static_lookups.append(vf.name)
+                continue
+            unstamped.append((vf.name, "no as_of"))
+            continue
+        stamps.append(as_of)
+        actual = max_date(data)
+        if actual and as_of[:10] > actual:
+            lying.append((vf.name, as_of, actual))
 
-    assert not stale_views, (
-        f"Found {len(stale_views)} frozen views under data/views/ (latest source date {latest_bdi_date}): "
-        f"{[s[0] for s in stale_views]}"
+    assert not unstamped, (
+        f"{len(unstamped)} views carry no as_of stamp, so their freshness cannot be "
+        f"checked at all: {unstamped[:10]}"
+    )
+    assert not lying, (
+        f"{len(lying)} views claim an as_of newer than any date in their own payload "
+        f"(name, claimed, actual): {lying[:10]}"
+    )
+
+    KNOWN_STATIC = {
+        "asset_class_ports.json", "lineup_vessel_lookup.json", "live_fleet_positions.json",
+        "routing_ports.json", "vessel_lookup.json", "vessel_voyages_lookup.json",
+        "cape_ffa_distribution.json",
+    }
+    unexpected_static = sorted(set(static_lookups) - KNOWN_STATIC)
+    assert not unexpected_static, (
+        "These views declared themselves static lookups but are expected to carry dates. "
+        f"A build that drops a date column would look exactly like this: {unexpected_static}"
+    )
+
+    # A view whose source pipeline has died shows up as a stamp far behind the
+    # rest. Measure against the newest view, not the wall clock, so the test is
+    # stable on an old checkout.
+    newest = max(stamps)
+    cutoff = (datetime.date.fromisoformat(newest) - datetime.timedelta(days=45)).isoformat()
+    abandoned = sorted({s for s in stamps if s < cutoff})
+    assert not abandoned, (
+        f"Views more than 45 days behind the newest view ({newest}); their writers "
+        f"have probably stopped running: {abandoned}"
+    )
+
+    # Frozen views were caused by pages.yml deploying without ever rebuilding them.
+    pages = REPO_ROOT / ".github" / "workflows" / "pages.yml"
+    assert pages.exists(), "pages.yml must exist"
+    assert "build_views.py" in pages.read_text(encoding="utf-8"), (
+        "pages.yml must run scripts/build_views.py before packaging, or every deploy "
+        "ships whatever views were last committed by hand."
     )
 
 
@@ -101,9 +174,26 @@ def test_single_writer():
     scripts_dir = REPO_ROOT / "scripts"
     target_rel = "data/commodities/usda_grain_vessel_loading_queues.csv"
     
+    def _strip_comments(src: str) -> str:
+        """Drop # comments so a filename named only in a comment is not counted
+        as a write. Uses tokenize so a '#' inside a string literal is preserved."""
+        import io as _io
+        import tokenize as _tok
+        try:
+            out = []
+            for tok in _tok.generate_tokens(_io.StringIO(src).readline):
+                if tok.type == _tok.COMMENT:
+                    continue
+                out.append(tok.string)
+            return chr(10).join(out)
+        except Exception:
+            # Unparseable file: fall back to the raw text rather than silently
+            # excusing it.
+            return src
+
     writers = []
     for py_path in scripts_dir.rglob("*.py"):
-        text = py_path.read_text(encoding="utf-8", errors="ignore")
+        text = _strip_comments(py_path.read_text(encoding="utf-8", errors="ignore"))
         if target_rel in text or Path(target_rel).name in text:
             # Check if this script writes/downloads to it
             if "fetch_usda_grains.py" in py_path.name or "fetch_usda_grain_queues.py" in py_path.name:

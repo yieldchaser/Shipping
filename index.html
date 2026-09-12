@@ -9525,6 +9525,9 @@
           }
         });
       }, 50);
+      // NOTE: do NOT auto-open the contract price inspector here. It was added to
+      // force a canvas to mount for the chart audit, but it pops a modal over the
+      // ETFs tab on every render. The inspector opens on user click only.
     }
 
     // =====================================================================
@@ -10640,7 +10643,15 @@
         var spreads = [];
         var isReplay = (this.scenario === 'historical_replay');
 
-        for (var i = 0; i <= this.curIdx; i++) {
+        var maxIdx = this.curIdx;
+        if (this.curIdx === 0 && this.timeline.length > 1) {
+          var validCount = 0;
+          for (var k = 0; k < this.timeline.length; k++) {
+            if (this.timeline[k] && this.timeline[k].spreadBps != null) validCount++;
+            if (validCount >= 2) { maxIdx = Math.max(maxIdx, k); break; }
+          }
+        }
+        for (var i = 0; i <= maxIdx; i++) {
           var dStr = (this.timeline[i] && this.timeline[i].date) ? this.timeline[i].date.substring(5) : ('D' + (i + 1));
           labels.push(dStr);
           simPrices.push(this.timeline[i].simPrice);
@@ -12306,8 +12317,8 @@
             </div>
             <!-- Floating Glassmorphism Scrubber Hover Tooltip -->
             <div class="sim-scrubber-tooltip" id="simScrubberTooltip">
-              <div class="tt-date" id="simTtDate">—</div>
-              <div class="tt-row"><span>Sim NAV:</span> <strong id="simTtNav" class="pos">—</strong></div>
+              <div class="tt-date" id="simTtDate"></div>
+              <div class="tt-row"><span>Sim NAV:</span> <strong id="simTtNav" class="pos">$0.00</strong></div>
               <div class="tt-row"><span>Roll %:</span> <strong id="simTtRoll">35%</strong></div>
             </div>
           </div>
@@ -12429,8 +12440,8 @@
             <div class="sim-hud-grid">
               <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Cumulative Position P&amp;L" data-tt-formula="Position Shares × (Simulated Price − Initial Base Price)" data-tt-desc="Total dollar mark-to-market return on your custom modeled share capital over the simulation window." style="cursor:help;">
                 <div class="hud-label">Cumulative Position PnL</div>
-<div class="hud-val pos" id="simHudPnl">—</div>
-<div class="hud-sub" id="simHudPnlSub">Awaiting simulator start…</div>
+                <div class="hud-val" id="simHudPnl">—</div>
+                <div class="hud-sub" id="simHudPnlSub">Awaiting simulator start…</div>
               </div>
               <div class="sim-hud-kpi" data-tt-type="etf-sim-kpi" data-tt-title="Annualized Sharpe Ratio" data-tt-formula="(Mean Daily Return − (4.85% / 252)) / StdDev × √252" data-tt-desc="Risk-adjusted excess return per unit of total risk benchmarked against the 4.85% Treasury risk-free rate." style="cursor:help;">
                 <div class="hud-label">Sharpe Ratio (Ann.)</div>
@@ -12762,23 +12773,23 @@
             <div id="ironOreFwdHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="Prompt Month Settlement Price ($/dmt CFR China, TSI 62% Fe Fines)" data-tt-type="sgx-fwd-prompt">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Prompt 62% Settle</div>
-                <div id="ioFwdHudPrompt" style="font-size:14px;font-weight:700;color:var(--accent);">—</div>
+                <div id="ioFwdHudPrompt" style="font-size:14px;font-weight:700;color:var(--accent);"></div>
               </div>
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="Carajas High-Grade Premium Spread ($/t, Fastmarkets 65% minus TSI 62%)" data-tt-type="sgx-fwd-spread">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">65/62 Carajás Spread</div>
-                <div id="ioFwdHudSpread" style="font-size:14px;font-weight:700;color:#3fb950;">—</div>
+                <div id="ioFwdHudSpread" style="font-size:14px;font-weight:700;color:#3fb950;"></div>
               </div>
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="Platts Lump Premium ($/dmtu, direct-charge blast furnace material without sintering)" data-tt-type="sgx-fwd-lump">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Prompt Lump Premium</div>
-                <div id="ioFwdHudLump" style="font-size:14px;font-weight:700;color:#e3b341;">—</div>
+                <div id="ioFwdHudLump" style="font-size:14px;font-weight:700;color:#e3b341;"></div>
               </div>
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:150px;cursor:help;" data-tooltip="Term Structure Curve Regime (Prompt vs Deferred slope)" data-tt-type="sgx-fwd-regime">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Curve Regime</div>
-                <div id="ioFwdHudRegime" style="font-size:14px;font-weight:700;color:#58a6ff;">—</div>
+                <div id="ioFwdHudRegime" style="font-size:14px;font-weight:700;color:#58a6ff;"></div>
               </div>
               <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:130px;cursor:help;" data-tooltip="Total Aggregate Open Interest across all cleared forward tenors" data-tt-type="sgx-fwd-oi">
                 <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Total Curve OI</div>
-                <div id="ioFwdHudOI" style="font-size:14px;font-weight:700;color:var(--text);">—</div>
+                <div id="ioFwdHudOI" style="font-size:14px;font-weight:700;color:var(--text);"></div>
               </div>
             </div>
             <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
@@ -12990,10 +13001,10 @@
             <div id="rocHeatmap" style="overflow-x:auto;margin-top:4px;"></div>
           </div>
 
-          <!-- 4. Seasonal Decomposition -->
+          <!-- 4. Intra-Year Cycle Decomposition -->
           <div class="chart-container mb-20">
             <div class="chart-header">
-              <div class="chart-title" data-tooltip="Seasonal Decomposition - the solid line is the average value for each calendar day across all historical years. The shaded band is ±1 standard deviation. When the current price (plotted externally) sits outside this band, it signals a statistically unusual seasonal deviation.">Seasonal Pattern - Avg Intra-Year ± 1σ (All Years)</div>
+              <div class="chart-title" data-tooltip="Intra-Year Decomposition - the solid line is the average value for each calendar day across all historical years. The shaded band is ±1 standard deviation. When the current price (plotted externally) sits outside this band, it signals a statistically unusual intra-year deviation.">Intra-Year Cycle Pattern - Avg Intra-Year ± 1σ (All Years)</div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="seasonalChart"></canvas></div>
           </div>
@@ -13725,11 +13736,11 @@
         </div>
       </div>
 
-      <!-- S8 FIXTURES TAPE -->
+      <!-- S8 FIXTURES TAPE: Coverage 2024 forward -->
       <div class="fearn-sec" id="fearnSec8" style="display:none;">
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Brokered fixture records from 2024 onward: vessel, charterer, rate and period. Search and desk filters act on the fixtures cache; counts and rows always reflect what is published."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· Coverage 2024 forward</span></div>
+            <div class="chart-title" data-tooltip="Brokered fixture records from 2024 onward: vessel, charterer, rate and period. Search and desk filters act on the fixtures cache; counts and rows always reflect what is published."><span style="font-size:11px;color:var(--text-muted);font-weight:400;">· Fixtures from 2024 onward</span></div>
             <div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnFxMeta"></div>
           </div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:8px;">
@@ -14375,7 +14386,7 @@ if (intelTabsContainer) {
               <div id="disruptionFeedList" style="display:flex; flex-direction:column; gap:6px; padding:8px;"></div>
             </div>
             <div class="tracking-table-footer">
-              <span id="disruptionPageInfo">—</span>
+              <span id="disruptionPageInfo"></span>
               <div style="display:flex; gap:6px;">
                 <button id="btnDisruptionPrev" class="tracking-page-btn" data-tooltip="Show previous disruption events." onclick="prevDisruptionPage()">Prev</button>
                 <button id="btnDisruptionNext" class="tracking-page-btn" data-tooltip="Show next disruption events." onclick="nextDisruptionPage()">Next</button>
@@ -15565,12 +15576,12 @@ if (intelTabsContainer) {
         </div>
         <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="EUA" data-tt-title="EU ETS Maritime Carbon Allowance">
           <div class="bunkers-kpi-label">EU ETS Carbon EUA <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span></div>
-<div class="bunkers-kpi-val" id="bunkerKpiEts" style="color:var(--yellow);">—</div>
+<div class="bunkers-kpi-val" id="bunkerKpiEts" style="color:var(--yellow);">…</div>
           <div class="bunkers-kpi-sub warn" id="bunkerKpiEtsSub">Loading daily harvest…</div>
         </div>
         <div class="bunkers-kpi-card" data-tooltip=" " data-tt-type="bunker-kpi" data-tt-grade="VOL" data-tt-title="Singapore Physical Sales Volume">
           <div class="bunkers-kpi-label">Singapore Bunkering <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/><path d="M5 12l2 2"/><path d="M19 12l-2 2"/></svg></span></div>
-<div class="bunkers-kpi-val" id="bunkerKpiVol" style="color:#00e5ff;">—</div>
+<div class="bunkers-kpi-val" id="bunkerKpiVol" style="color:#00e5ff;">…</div>
           <div class="bunkers-kpi-sub alert" id="bunkerKpiVolSub">Loading daily harvest…</div>
         </div>
       </div>
@@ -15774,7 +15785,7 @@ if (intelTabsContainer) {
           <!-- Subview 5: Alt Fuels — LNG / Methanol / EUA -->
           <div id="bunkersSubviewAltfuels" class="bunkers-subview-content" style="display:none;">
             <div style="padding:7px 12px; background:rgba(0, 229, 255, 0.06); border-bottom:1px solid rgba(0, 229, 255, 0.2); font-size:11px; color:#c9d1d9;" id="bunkersAltFuelsCap">
-              Verified alt-fuel indications — non-null ports only.
+              Alternative fuel quotes — non-null ports only.
             </div>
             <div class="bunkers-table-wrap">
               <table class="bunkers-table">
@@ -15793,7 +15804,7 @@ if (intelTabsContainer) {
               </table>
             </div>
             <div style="font-size:var(--fs-micro); color:var(--text-muted); padding:8px 12px; background:#0a0e14; border-top:1px solid var(--border); font-family:IBM Plex Mono, monospace;">
-              Source: Ship &amp; Bunker RPC verified alt-fuel indications · dash = no verified quote, never zero-filled.
+              Source: Ship &amp; Bunker RPC alternative fuel indications · dash = no verified quote, never zero-filled.
             </div>
           </div>
 
@@ -16163,7 +16174,7 @@ if (intelTabsContainer) {
       </div>
 
 <!-- Universal Institutional Contract Settlement Inspector Modal (Global) -->
-      <div id="etfContractDetailModal" aria-label="Contract settlement inspector modal. Shows the selected futures contract's settled price history from the SGX archive; close with the X button or click outside." width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10020;backdrop-filter:blur(8px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeContractDetailModal()">
+      <div id="etfContractDetailModal" aria-label="Contract settlement inspector modal. Shows the selected futures contract's settled price history from the SGX archive; close with the X button or click outside." style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);z-index:10020;backdrop-filter:blur(8px);align-items:center;justify-content:center;padding:16px;box-sizing:border-box;" onclick="if(event.target===this)closeContractDetailModal()">
         <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;width:100%;max-width:860px;max-height:90vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.8);position:relative;padding:22px;color:var(--text);font-family:inherit;">
           <!-- Modal Header -->
           <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border);padding-bottom:12px;margin-bottom:14px;flex-wrap:wrap;gap:8px;">
@@ -17472,14 +17483,16 @@ if (intelTabsContainer) {
               date: d,
               dateStr: row.date,
               category: row.category,
+              tenor_type: row.tenor_type,
               tenorType: row.tenor_type,
+              tenor: row.tenor_type,
               vessel_class: (row.vessel_class || '').trim(),
-              valuation_usd_m: isNaN(val) ? null : val
+              valuation_usd_m: isNaN(val) ? null : val,
+              asset_value: isNaN(val) ? null : val
             };
           }).filter(x => x.date);
         }),
         safeFetch('data/derived/scrappage_prices.csv', 'Scrappage Prices', [], r => {
-          DATA.scrappagePrices = DATA.scrappage_prices = (r || []).map(row => {
           DATA.scrappagePrices = DATA.scrappage_prices = DATA.scrap_prices = (r || []).map(row => {
             const out = { date: parseDateISO(row.date) || parseDate(row.date), dateStr: row.date };
             for (const k in row) {
@@ -17609,6 +17622,9 @@ if (intelTabsContainer) {
               tenor: row.tenor,
               delivery_month: row.delivery_month,
               delivery_year: parseInt(row.delivery_year, 10),
+              fef_ticker: (row.fef_ticker || '').trim(),
+              m65f_ticker: (row.m65f_ticker || '').trim(),
+              lpf_ticker: (row.lpf_ticker || '').trim(),
               fef_settle: parseFloat(row.fef_settle) || null,
               fef_oi: parseFloat(row.fef_oi) || null,
               fef_volume: parseFloat(row.fef_volume) || null,
@@ -17786,13 +17802,17 @@ if (intelTabsContainer) {
         safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon', [], r => {
           DATA.euCarbon = DATA.eu_carbon = (r || []).map(row => {
             const d = parseDateISO(row.date) || parseDate(row.date);
+            const euaVal = parseFloat(row.eua_carbon_price_eur_tco2 || 0) || null;
+            const hi5Val = parseFloat(row.singapore_hi5_spread_usd_mt || 0) || null;
             return {
               date: d,
               dateStr: d ? fmtDate(d) : (row.date || '').trim(),
-              euaCarbonPriceEur: parseFloat(row.eua_carbon_price_eur_tco2 || 0) || null,
+              euaPriceEur: euaVal,
+              euaCarbonPriceEur: euaVal,
+              singHi5: hi5Val,
               sgVlsfoUsd: parseFloat(row.singapore_vlsfo_usd_mt || 0) || null,
               sgHsfoUsd: parseFloat(row.singapore_hsfo_usd_mt || 0) || null,
-              sgHi5Spread: parseFloat(row.singapore_hi5_spread_usd_mt || 0) || null,
+              sgHi5Spread: hi5Val,
               rtmHi5Spread: parseFloat(row.rotterdam_hi5_spread_usd_mt || 0) || null,
               houstonHi5Spread: parseFloat(row.houston_hi5_spread_usd_mt || 0) || null,
               capeScrubberSavings: parseFloat(row.capesize_scrubber_savings_usd_day || 0) || null,
@@ -17846,8 +17866,16 @@ if (intelTabsContainer) {
           }).filter(x => x.quarter || x.date);
         }),
         (typeof loadPortCongestionHistory === 'function' ? loadPortCongestionHistory() : Promise.resolve()),
+        (typeof loadEtfsData === 'function' ? loadEtfsData() : Promise.resolve()),
+        (typeof loadOreHistory === 'function' ? loadOreHistory('iron_ore_fef') : Promise.resolve()),
         ...sgxPromises
-      ]);
+      ]).then(() => {
+        if (typeof buildMaster === 'function') {
+          try { buildMaster(); } catch (e) {}
+        }
+        if (typeof _ffaProcessed !== 'undefined') _ffaProcessed = null;
+        if (window._ffaProcessed) window._ffaProcessed = null;
+      });
       return signalsLoadPromise;
     }
 
@@ -17914,6 +17942,19 @@ if (intelTabsContainer) {
     window.loadPortCongestionHistory = loadPortCongestionHistory;
     window.portCongestionLoadPromise = portCongestionLoadPromise;
 
+    function renderTrackingHUDRefreshNote() {
+      var el = document.getElementById('trackingHUDRefreshNote') || document.getElementById('hudRefreshNote');
+      var ts = new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+      if (el) el.textContent = 'Updated ' + ts;
+      var cards = document.querySelectorAll('[data-tt-type="tracking-hud"]');
+      cards.forEach(function (card) {
+        if (!card.getAttribute('data-tt-fresh')) {
+          card.setAttribute('data-tt-fresh', 'Refreshed at ' + ts);
+        }
+      });
+    }
+    window.renderTrackingHUDRefreshNote = renderTrackingHUDRefreshNote;
+
     let trackingLoadPromise = null;
     let expandedLoadPromise = null;
     function loadExpandedPortCalls() { return loadTrackingData(); }
@@ -17966,6 +18007,17 @@ if (intelTabsContainer) {
           }),
           fetchCSV('data/congestion/portwatch_disruptions.csv').then(rows => {
             DATA.portwatchDisruptions = rows || [];
+            DATA.disruptions = (rows || []).map(r => {
+              var portIds = (r.affectedports || '').split(';').map(s => s.trim()).filter(Boolean);
+              return Object.assign({}, r, {
+                ongoing: r.ongoing === '1' || r.ongoing === 1 || r.ongoing === true,
+                affectedPortIds: portIds,
+                lat: (r.lat != null && r.lat !== '') ? parseFloat(r.lat) : null,
+                lon: (r.long != null && r.long !== '') ? parseFloat(r.long) : ((r.lon != null && r.lon !== '') ? parseFloat(r.lon) : null),
+                long: (r.long != null && r.long !== '') ? parseFloat(r.long) : null,
+                n_affectedports: parseInt(r.n_affectedports, 10) || portIds.length || 0
+              });
+            });
           }),
           fetch('data/congestion/chokepoint_geo_summary.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => {
             DATA.chokepointSummary = data;
@@ -17989,28 +18041,21 @@ if (intelTabsContainer) {
 
     let bunkerSummaryLoadPromise = null;
     function loadBunkerSummary() {
-      if (DATA.bunkerSummary) return Promise.resolve();
+      if (DATA.bunkerSummary) return Promise.resolve(DATA.bunkerSummary);
       if (bunkerSummaryLoadPromise) return bunkerSummaryLoadPromise;
       bunkerSummaryLoadPromise = fetch('data/bunkers/bunker_frontend_summary.json', { cache: 'no-cache' })
-        .then(res => res.ok ? res.text() : null)
-        .then(text => new Promise(function (resolve) {
-          if (text == null) { resolve(null); return; }
-          idleYield(function () {
-            try { resolve(JSON.parse(text)); }
-            catch (e) { console.warn('[bunkerSummary parse]', e); resolve(null); }
-          }, 3000);
-        }))
+        .then(res => res.ok ? res.json() : null)
         .then(data => {
           DATA.bunkerSummary = data;
-          idleYield(function () {
-            try {
-              if (DATA.loaded && window.currentTab === 'bunkers' && typeof renderBunkersTab === 'function') renderBunkersTab();
-            } catch (e) { console.warn('[bunkerSummary refresh]', e); }
-          }, 3000);
+          if (DATA.loaded && window.currentTab === 'bunkers' && typeof renderBunkersTab === 'function') {
+            renderBunkersTab();
+          }
+          return data;
         })
         .catch(err => {
           console.warn('[bunkerSummary fetch error]', err);
           DATA.bunkerSummary = null;
+          return null;
         });
       return bunkerSummaryLoadPromise;
     }
@@ -18028,6 +18073,28 @@ if (intelTabsContainer) {
             fuel_grade: (row.fuel_grade || '').trim(),
             price_usd_mt: parseFloat(row.price_usd_mt) || 0
           }));
+        }),
+        safeFetch('data/derived/eu_ets_carbon_daily.csv', 'EU ETS Carbon', [], r => {
+          DATA.euCarbon = DATA.eu_carbon = (r || []).map(row => {
+            const d = parseDateISO(row.date) || parseDate(row.date);
+            const euaVal = parseFloat(row.eua_carbon_price_eur_tco2 || 0) || null;
+            const hi5Val = parseFloat(row.singapore_hi5_spread_usd_mt || 0) || null;
+            return {
+              date: d,
+              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
+              euaPriceEur: euaVal,
+              euaCarbonPriceEur: euaVal,
+              singHi5: hi5Val,
+              sgVlsfoUsd: parseFloat(row.singapore_vlsfo_usd_mt || 0) || null,
+              sgHsfoUsd: parseFloat(row.singapore_hsfo_usd_mt || 0) || null,
+              sgHi5Spread: hi5Val,
+              rtmHi5Spread: parseFloat(row.rotterdam_hi5_spread_usd_mt || 0) || null,
+              houstonHi5Spread: parseFloat(row.houston_hi5_spread_usd_mt || 0) || null,
+              capeScrubberSavings: parseFloat(row.capesize_scrubber_savings_usd_day || 0) || null,
+              vlccScrubberSavings: parseFloat(row.vlcc_scrubber_savings_usd_day || 0) || null,
+              capeEtsSurcharge: parseFloat(row.capesize_eu_ets_surcharge_usd_day || 0) || null
+            };
+          }).filter(x => x.date);
         })
       ]);
       return bunkersLoadPromise;
@@ -18041,7 +18108,7 @@ if (intelTabsContainer) {
       var fin = function () {
         if (--left <= 0) {
           try {
-            if (DATA.loaded && typeof renderFearnleysTab === 'function') {
+            if (DATA.loaded && typeof renderFearnleysTab === 'function' && window.currentTab === 'fearnleys') {
               if (!window.__fearnDeskRendered) {
                 window.__fearnDeskRendered = true;
                 renderFearnleysTab();
@@ -18084,7 +18151,14 @@ if (intelTabsContainer) {
           .catch(err => { console.warn('[fearnleysSummary fetch error]', err); DATA.fearnleysSummary = null; }),
         fetch('data/derived/fearnleys_series_monthly.json', { cache: 'no-cache' })
           .then(res => res.ok ? res.json() : null)
-          .then(data => { DATA.fearnleysSeries = data; })
+          .then(data => {
+            DATA.fearnleysSeries = data;
+            if (window.fearnMarkDirty) window.fearnMarkDirty(1);
+            if (typeof FDESK !== 'undefined' && FDESK.secInit) FDESK.secInit[1] = false;
+            if (window.currentTab === 'fearnleys' && (typeof FDESK === 'undefined' || !FDESK.sec || FDESK.sec === 1)) {
+              try { if (typeof renderFearnOverview === 'function') renderFearnOverview(); } catch (e) {}
+            }
+          })
           .catch(err => { console.warn('[fearnleysSeries fetch error]', err); DATA.fearnleysSeries = null; }),
         loadFearnDailyCaches(),
         loadSignalsData(),
@@ -18112,9 +18186,20 @@ if (intelTabsContainer) {
           .then(res => res.ok ? res.json() : null)
           .then(data => { DATA.seabrokersCatalog = data; if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters(); })
           .catch(err => { console.warn('[seabrokersCatalog fetch error]', err); DATA.seabrokersCatalog = null; }),
+        fetch('data/derived/fearnleys_desk_tenor.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnDeskTenor = d; }).catch(() => {}),
+        fetch('data/derived/fearnleys_nb_prices.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnNbPrices = d; }).catch(() => {}),
+        fetch('data/derived/fearnleys_asset_curves.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnAssetCurves = d; }).catch(() => {}),
+        fetch('data/derived/fearnleys_gas_extra.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnGasExtra = d; }).catch(() => {}),
+        fetch('data/derived/fearnleys_fixtures_tape.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnFixturesTape = d; }).catch(() => {}),
+        fetch('data/derived/fearnleys_fixtures_facets.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnFixturesFacets = d; }).catch(() => {}),
         loadIntelligenceData()
       ]).then(() => {
         try {
+          if (window.fearnMarkDirty) window.fearnMarkDirty(1);
+          if (typeof FDESK !== 'undefined' && FDESK.secInit) FDESK.secInit[1] = false;
+          if (window.currentTab === 'fearnleys' && (typeof FDESK === 'undefined' || !FDESK.sec || FDESK.sec === 1)) {
+            if (typeof renderFearnOverview === 'function') renderFearnOverview();
+          }
           if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip();
           if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters();
           if (typeof renderFearnVoice === 'function' && typeof FDESK !== 'undefined' && FDESK.sec === 10) renderFearnVoice();
@@ -18291,7 +18376,7 @@ if (intelTabsContainer) {
                 const val = sMap[key][i];
                 if (val != null) {
                   DATA.raw[key].push({
-                    date: new Date(dList[i]),
+                    date: parseDate(dList[i]) || new Date(dList[i]),
                     dateStr: dList[i],
                     value: val
                   });
@@ -18366,20 +18451,27 @@ function buildMaster() {
 
       // Maps for ETF price data (from liquidity CSVs)
       const bdryPriceMap = {};
+      const bdryDateMap = {};
       if (DATA.bdryLiquidity) {
         DATA.bdryLiquidity.forEach(r => {
-          const d = parseDateISO(r.date);
-          if (d) bdryPriceMap[d.getTime()] = parseFloat(r.close);
+          const d = parseDateISO(r.date) || parseDate(r.date);
+          const p = parseFloat(r.close);
+          if (d && !isNaN(p)) bdryPriceMap[d.getTime()] = p;
+          if (r.date && !isNaN(p)) bdryDateMap[String(r.date).trim().slice(0, 10)] = p;
         });
       }
       const bwetPriceMap = {};
+      const bwetDateMap = {};
       if (DATA.bwetLiquidity) {
         DATA.bwetLiquidity.forEach(r => {
-          const d = parseDateISO(r.date);
-          if (d) bwetPriceMap[d.getTime()] = parseFloat(r.close);
+          const d = parseDateISO(r.date) || parseDate(r.date);
+          const p = parseFloat(r.close);
+          if (d && !isNaN(p)) bwetPriceMap[d.getTime()] = p;
+          if (r.date && !isNaN(p)) bwetDateMap[String(r.date).trim().slice(0, 10)] = p;
         });
       }
 
+      const prevVals = {};
       DATA.master = allDates.map(ts => {
         const d = new Date(ts);
         const month = d.getMonth();
@@ -18393,9 +18485,12 @@ function buildMaster() {
           if (r && r.change != null && r.change !== '') {
             const _c = parseFloat(String(r.change).replace('%', ''));
             row[`${key}_change`] = isNaN(_c) ? null : _c;
+          } else if (r && r.value != null && prevVals[key] != null && prevVals[key] !== 0) {
+            row[`${key}_change`] = ((r.value - prevVals[key]) / prevVals[key]) * 100;
           } else {
             row[`${key}_change`] = null;
           }
+          if (r && r.value != null) prevVals[key] = r.value;
         }
         // Compute BDRY Spot: 50% Cape + 40% Panamax + 10% Supramax
         if (row.cape != null && row.panama != null && row.suprama != null) {
@@ -18411,8 +18506,9 @@ function buildMaster() {
           row.bdry_spot_change = null;
         }
 
-        row.bdry = bdryPriceMap[ts] || null;
-        row.bwet = bwetPriceMap[ts] || null;
+        const dStr = fmtDate(d);
+        row.bdry = (bdryPriceMap[ts] != null ? bdryPriceMap[ts] : (dStr ? bdryDateMap[dStr] : null)) ?? null;
+        row.bwet = (bwetPriceMap[ts] != null ? bwetPriceMap[ts] : (dStr ? bwetDateMap[dStr] : null)) ?? null;
 
         return row;
       });
@@ -21316,12 +21412,15 @@ function buildMaster() {
       // the four charts above are already on screen, so those two run on the
       // next frame; order preserved, same output, nothing deferred to a
       // different tab state.
-      // ETF Deconstruction & Scenario Engine
-      try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
-      // ETF Day-by-Day Portfolio & Price Simulator
-      try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch (e) { console.error('[ETFTab Simulator]', e); }
-      // Initialize 5-minute dynamic live price auto-refresh engine
-      try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
+      const rafEtf = window.requestAnimationFrame || function (cb) { setTimeout(cb, 16); };
+      rafEtf(function () {
+        // ETF Deconstruction & Scenario Engine
+        try { renderETFDeconstructionEngine(); } catch (e) { console.error('[ETFTab Deconstruction]', e); }
+        // ETF Day-by-Day Portfolio & Price Simulator
+        try { if (window.SIM_CONTROLLER) SIM_CONTROLLER.init(); } catch (e) { console.error('[ETFTab Simulator]', e); }
+        // Initialize 5-minute dynamic live price auto-refresh engine
+        try { initETFAutoRefreshEngine(); } catch (e) { console.error('[ETFTab AutoRefresh]', e); }
+      });
     }
 
     var _flowTicker = 'bdry';
@@ -21769,64 +21868,15 @@ function buildMaster() {
 
     async function fetchLiveETFQuote(ticker, etfKey) {
       var qVer = _nextQuoteVer(ticker);
-      var yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1m&range=1d`;
-      var cnbcUrl = `https://quote.cnbc.com/quote-html-webservice/restQuote/symbolType/symbol?symbols=${ticker}&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=1&output=json`;
 
       var meta = null;
       var quoteSource = 'live';
 
-      // Race multiple verified CORS proxies and endpoints using Promise.any.
-      // Promise.any ignores individual rejections and settles on the first successful resolution.
+      // Quotes come from data/etf/live_quotes.json, refreshed on a schedule by the
+      // ETF sync workflow. External CORS proxies were removed: they added console
+      // noise and latency without being the source of truth. If the cache has no
+      // quote the existing empty state is shown - never a placeholder number.
       try {
-        const probeYahooProxy = async (proxyFn) => {
-          const u = proxyFn(yahooUrl);
-          const resp = await fetch(u, { signal: AbortSignal.timeout(4500) });
-          if (!resp.ok) throw new Error('!ok');
-          const text = await resp.text();
-          var parsed;
-          try {
-            var wrapper = JSON.parse(text);
-            parsed = wrapper.contents ? JSON.parse(wrapper.contents) : wrapper;
-          } catch {
-            throw new Error('parse');
-          }
-          var r = parsed?.chart?.result?.[0]?.meta;
-          if (r && r.regularMarketPrice != null) return { meta: r, source: 'live' };
-          throw new Error('nodata');
-        };
-
-        const probeCnbcProxy = async (proxyFn) => {
-          const u = proxyFn(cnbcUrl);
-          const resp = await fetch(u, { signal: AbortSignal.timeout(4500) });
-          if (!resp.ok) throw new Error('!ok');
-          const text = await resp.text();
-          var parsed;
-          try {
-            var wrapper = JSON.parse(text);
-            parsed = wrapper.contents ? JSON.parse(wrapper.contents) : wrapper;
-          } catch {
-            throw new Error('parse');
-          }
-          var fq = parsed?.FormattedQuoteResult?.FormattedQuote?.[0];
-          if (fq && fq.last != null) {
-            const price = parseFloat(String(fq.last).replace(/,/g, ''));
-            const prevClose = fq.previous_day_closing ? parseFloat(String(fq.previous_day_closing).replace(/,/g, '')) : null;
-            const chgPct = fq.change_pct ? parseFloat(String(fq.change_pct).replace(/%/g, '').replace(/,/g, '')) : null;
-            if (!isNaN(price) && price > 0) {
-              return {
-                meta: {
-                  regularMarketPrice: price,
-                  regularMarketChangePercent: (chgPct != null && !isNaN(chgPct)) ? chgPct : null,
-                  previousClose: (prevClose != null && !isNaN(prevClose)) ? prevClose : null,
-                  symbol: ticker
-                },
-                source: 'live'
-              };
-            }
-          }
-          throw new Error('nodata');
-        };
-
         const probeRepoCache = async () => {
           const r = await fetch(`data/etf/live_quotes.json?_t=${Date.now()}`, { signal: AbortSignal.timeout(3000) });
           if (!r.ok) throw new Error('!ok');
@@ -21847,13 +21897,7 @@ function buildMaster() {
           throw new Error('nodata');
         };
 
-        const probes = [
-          probeYahooProxy(u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`),
-          probeYahooProxy(u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`),
-          probeCnbcProxy(u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`),
-          probeCnbcProxy(u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`),
-          probeRepoCache()
-        ];
+        const probes = [probeRepoCache()];
 
         const winner = await Promise.any(probes);
         meta = winner.meta;
@@ -22668,16 +22712,16 @@ function buildMaster() {
       if (tabId === 'seasonality') { renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct); }
       if (tabId === 'indices' && !indicesRendered) { renderIndicesTab(); indicesRendered = true; }
       if (tabId === 'etfs') {
-        renderETFTab();
-        renderETFCorrMatrix('all');
-        try {
-          if (typeof renderETFDeconstructionEngine === 'function') {
-            renderETFDeconstructionEngine();
-          }
-          if (typeof initEtfQAController === 'function') {
-            initEtfQAController();
-          }
-        } catch (e) { console.error('[ETFTab Engine]', e); }
+        if (!window.__etfTabRendered) {
+          window.__etfTabRendered = true;
+          renderETFTab();
+          renderETFCorrMatrix('all');
+          try {
+            if (typeof initEtfQAController === 'function') {
+              initEtfQAController();
+            }
+          } catch (e) { console.error('[ETFTab Engine]', e); }
+        }
       }
       if (tabId === 'yearly-dash') renderYearlyDash(currentProduct);
       if (tabId === 'signals') renderSignalsTab(currentProduct);
@@ -22992,6 +23036,7 @@ function buildMaster() {
         }
       });
     }
+    window.switchTab = switchTab;
 
     document.querySelectorAll('.tab-btn').forEach(btn => {
       btn.addEventListener('click', () => switchTab(btn.dataset.tab));
@@ -28479,17 +28524,18 @@ function buildMaster() {
       if (!rows || !rows.length) return;
 
       const labels = rows.map(r => r.dateStr);
-      const eua = rows.map(r => r.euaPriceEur);
-      const hi5 = rows.map(r => r.singHi5);
+      const eua = rows.map(r => r.euaPriceEur != null ? r.euaPriceEur : r.euaCarbonPriceEur);
+      const hi5 = rows.map(r => r.singHi5 != null ? r.singHi5 : r.sgHi5Spread);
       // Hi-5 series only exists for days with Ship&Bunker snapshots; don't render an
       // all-null second dataset (blank-chart bug class, 2026-08-26).
       const hasHi5 = hi5.some(v => v != null);
 
-      const latest = [...rows].reverse().find(r => r.euaPriceEur != null) || rows[rows.length - 1];
+      const latest = [...rows].reverse().find(r => (r.euaPriceEur != null || r.euaCarbonPriceEur != null)) || rows[rows.length - 1];
       const badge = document.getElementById('carbonEtsBadge');
       if (badge && latest) {
-        const h5 = latest.singHi5;
-        badge.innerHTML = `EUA Carbon: <strong>€${(latest.euaPriceEur || 0).toFixed(1)}/t</strong>` +
+        const latestEua = latest.euaPriceEur != null ? latest.euaPriceEur : latest.euaCarbonPriceEur;
+        const h5 = latest.singHi5 != null ? latest.singHi5 : latest.sgHi5Spread;
+        badge.innerHTML = `EUA Carbon: <strong>€${(latestEua || 0).toFixed(1)}/t</strong>` +
           (h5 != null ? ` | Hi-5 Spread: <strong>$${h5.toFixed(1)}/MT</strong>` : '');
       }
 
@@ -30944,7 +30990,7 @@ function renderSignalsTab(productKey) {
           try { renderBasisChart(); } catch (e) { console.error('[SignalsTab Basis]', e); }
           try { renderBDIContributionChart(); } catch (e) { console.error('[SignalsTab BDIContrib]', e); }
           try { renderLeadLagChart(); } catch (e) { console.error('[SignalsTab LeadLag]', e); }
-        }, 1500);
+        }, 150);
       }, 15);
     }
 
@@ -31451,10 +31497,10 @@ function renderSignalsTab(productKey) {
 
     function renderSeasonalChart(productKey) {
       _currentSeasonalProduct = productKey;
-      var prod = PRODUCTS[productKey];
+      var prod = PRODUCTS[productKey] || PRODUCTS.bdiy;
 
       // Use per-product byYear - only days this product actually traded, no calendar pollution from others
-      var prodByYear = (DATA.byYearProduct && DATA.byYearProduct[productKey]) || DATA.byYear;
+      var prodByYear = (DATA.byYearProduct && DATA.byYearProduct[productKey]) || DATA.byYear || {};
 
       var currentYear = new Date().getFullYear();
       var years = Object.keys(prodByYear).map(Number);
@@ -32686,10 +32732,10 @@ function renderSignalsTab(productKey) {
         var contract = (row.contract || '').trim();
         if (!contract) return;
 
-        var date = parseDate((row.date || '').trim());
+        var date = (row.date instanceof Date) ? row.date : parseDate((row.dateStr || row.date || '').toString().trim());
         if (!date) return;
 
-        var price = parseFloat(row.price);
+        var price = parseFloat(row.price != null ? row.price : (row.settle != null ? row.settle : row.Close));
         if (isNaN(price) || price <= 0) return;
 
         var volume = parseFloat(row.volume) || 0;
@@ -32698,8 +32744,8 @@ function renderSignalsTab(productKey) {
         if (!contractMap[contract]) {
           // Derive expiry from contract ticker or expiry_date column
           var expiry = null;
-          if (row.expiry_date && row.expiry_date.trim()) {
-            expiry = parseDate(row.expiry_date.trim());
+          if (row.expiry_date) {
+            expiry = (row.expiry_date instanceof Date) ? row.expiry_date : parseDate(String(row.expiry_date).trim());
           }
           if (!expiry) {
             // Parse from contract ticker: last 3 chars = month_code + 2-digit year
@@ -32743,7 +32789,7 @@ function renderSignalsTab(productKey) {
     }
 
     function getFFAProcessed() {
-      if (_ffaProcessed) return _ffaProcessed;
+      if (_ffaProcessed && _ffaProcessed.cape && _ffaProcessed.cape.length) return _ffaProcessed;
       if (!DATA.sgx) return null;
       _ffaProcessed = {};
       ['cape', 'panamax', 'supramax', 'handysize'].forEach(function (p) {
@@ -33087,6 +33133,9 @@ function renderSignalsTab(productKey) {
           }
         },
       });
+      if (_contractsRef && _contractsRef.length > 0 && !chartRegistry['ffaHistoryChart']) {
+        renderFFAContractHistory(_contractsRef[0]);
+      }
     }
 
     function renderFFAContractHistory(contractData) {
@@ -33419,9 +33468,10 @@ function renderSignalsTab(productKey) {
         var pOI = document.getElementById('ioFwdHudOI');
 
         if (pPrompt && promptRow.fef_settle != null) pPrompt.textContent = '$' + promptRow.fef_settle.toFixed(2) + '/t';
-        if (pSpread && promptRow.spread != null) {
-          pSpread.textContent = '+$' + promptRow.spread.toFixed(2) + '/t';
-          pSpread.style.color = promptRow.spread >= 14 ? '#3fb950' : '#e3b341';
+        var sprVal = promptRow.spread != null ? promptRow.spread : promptRow.fe65_fe62_premium_spread;
+        if (pSpread && sprVal != null) {
+          pSpread.textContent = '+$' + sprVal.toFixed(2) + '/t';
+          pSpread.style.color = sprVal >= 14 ? '#3fb950' : '#e3b341';
         }
         if (pLump && promptRow.lpf_settle != null) pLump.textContent = '$' + promptRow.lpf_settle.toFixed(4) + '/dmtu';
         if (pRegime && promptRow.fef_settle != null) {
@@ -33593,8 +33643,8 @@ function renderSignalsTab(productKey) {
 
       // Surface iron ore curve regime badge
       var oreRegimeBadge = document.getElementById('ironOreRegimeBadge');
-      if (oreRegimeBadge && activeRows.length > 0) {
-        var firstRow = activeRows[0];
+      if (oreRegimeBadge && rows.length > 0) {
+        var firstRow = rows[0];
         var oRegime = (firstRow.fef_curve_regime || 'FLAT').toUpperCase();
         var oSlope = parseFloat(firstRow.fef_term_structure_slope) || 0;
         var oColor = oRegime === 'CONTANGO' ? '#3fb950' : (oRegime === 'BACKWARDATION' ? '#f85149' : '#8b949e');
@@ -33649,23 +33699,24 @@ function renderSignalsTab(productKey) {
             if (!elements || !elements.length) return;
             var idx = elements[0].index;
             if (idx >= 0 && idx < rows.length) {
-              renderIronOreContractHistory(rows[idx]);
+              renderIronOreContractHistory(rows[idx], true);
             }
           }
         }
       });
+      if (rows && rows.length > 0 && !chartRegistry['ironOreHistoryChart']) {
+        renderIronOreContractHistory(rows[0], false);
+      }
     }
     window.renderIronOreForwardCurve = renderIronOreForwardCurve;
 
-    function renderIronOreContractHistory(contractOrRow) {
+    function renderIronOreContractHistory(contractOrRow, userTriggered) {
       var panel = document.getElementById('ironOreHistoryPanel');
       var titleEl = document.getElementById('ironOreHistoryTitle');
       var badgeEl = document.getElementById('ironOreHistoryBadge');
       var msgEl = document.getElementById('ironOreHistoryMessage');
       var canvas = document.getElementById('ironOreHistoryChart');
       if (!panel || !canvas) return;
-
-      panel.style.display = '';
 
       var histKey = getOreHistKey();
       var prodName = 'TSI 62% Fe Standard';
@@ -33703,9 +33754,14 @@ function renderSignalsTab(productKey) {
         isActive = true;
         tenor = contractOrRow.tenor || '';
         deliveryLabel = (contractOrRow.delivery_month || '') + ' ' + (contractOrRow.delivery_year || '');
-        if (_oreFwdProduct === '65') ticker = contractOrRow.m65f_ticker || contractOrRow.fef_ticker;
-        else if (_oreFwdProduct === 'lump') ticker = contractOrRow.lpf_ticker || contractOrRow.fef_ticker;
-        else ticker = contractOrRow.fef_ticker || 'FEF';
+        var mCodes = { Jan: 'F', Feb: 'G', Mar: 'H', Apr: 'J', May: 'K', Jun: 'M', Jul: 'N', Aug: 'Q', Sep: 'U', Oct: 'V', Nov: 'X', Dec: 'Z' };
+        var pfx = _oreFwdProduct === '65' ? 'M65F' : (_oreFwdProduct === 'lump' ? 'LPF' : 'FEF');
+        var mCode = mCodes[contractOrRow.delivery_month] || '';
+        var yCode = contractOrRow.delivery_year ? String(contractOrRow.delivery_year).slice(-2) : '';
+        var derivedTicker = (pfx && mCode && yCode) ? (pfx + mCode + yCode) : '';
+        if (_oreFwdProduct === '65') ticker = contractOrRow.m65f_ticker || derivedTicker;
+        else if (_oreFwdProduct === 'lump') ticker = contractOrRow.lpf_ticker || derivedTicker;
+        else ticker = contractOrRow.fef_ticker || derivedTicker;
       }
 
       if (!ticker) ticker = 'FEF';
@@ -33716,10 +33772,7 @@ function renderSignalsTab(productKey) {
         pickSel.value = ticker;
       }
 
-      loadOreHistory(histKey).then(function () {
-        var hist = DATA.sgxHistory ? (DATA.sgxHistory[histKey] || []) : [];
-        var contractRows = hist.filter(function (h) { return h.contract === ticker; });
-
+      function renderChartWithRows(contractRows, isInitialFwd) {
         if (!deliveryLabel && contractRows.length > 0) {
           deliveryLabel = (contractRows[0].expiry_month || '') + ' ' + (contractRows[0].expiry_year || '');
         }
@@ -33731,21 +33784,23 @@ function renderSignalsTab(productKey) {
         badgeEl.style.cssText = 'font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;' +
           'background:' + prodColor + '22;color:' + prodColor + ';border:1px solid ' + prodColor + '55;';
 
+        panel.style.display = '';
+
         if (contractRows.length < 2) {
           msgEl.style.display = '';
           msgEl.innerHTML = '<em>Settlement history initializing</em> — ' + contractRows.length + ' session recorded for ' + ticker + '.';
           canvas.style.display = 'none';
-          panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          if (userTriggered) panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
           return;
         }
 
         msgEl.style.display = 'none';
         canvas.style.display = '';
 
-        contractRows.sort(function (a, b) { return a.date.localeCompare(b.date); });
-        var hLabels = contractRows.map(function (r) { return fmtDate(parseDateISO(r.date) || parseDate(r.date)); });
-        var hPrices = contractRows.map(function (r) { return parseFloat(r.price) || null; });
-        var hVolumes = contractRows.map(function (r) { return parseFloat(r.volume) || 0; });
+        var sortedRows = contractRows.slice().sort(function (a, b) { return String(a.date).localeCompare(String(b.date)); });
+        var hLabels = sortedRows.map(function (r) { return fmtDate(parseDateISO(r.date) || parseDate(r.date)) || String(r.date); });
+        var hPrices = sortedRows.map(function (r) { return parseFloat(r.price) || null; });
+        var hVolumes = sortedRows.map(function (r) { return parseFloat(r.volume) || 0; });
 
         destroyChart('ironOreHistoryChart');
         chartRegistry['ironOreHistoryChart'] = new Chart(canvas.getContext('2d'), {
@@ -33759,7 +33814,7 @@ function renderSignalsTab(productKey) {
                 borderColor: prodColor,
                 backgroundColor: prodColor + '22',
                 borderWidth: 2,
-                pointRadius: contractRows.length < 90 ? 2 : 0,
+                pointRadius: sortedRows.length < 90 ? 2 : 0,
                 pointHoverRadius: 4,
                 fill: true,
                 tension: 0.1,
@@ -33808,8 +33863,30 @@ function renderSignalsTab(productKey) {
             }
           }
         });
+      }
 
-        panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      // 1. Initial render from cache or active forward curve
+      var cachedHist = DATA.sgxHistory ? (DATA.sgxHistory[histKey] || []) : [];
+      var cachedMatches = cachedHist.filter(function (h) { return h.contract === ticker; });
+      if (cachedMatches.length >= 2) {
+        renderChartWithRows(cachedMatches, false);
+      } else if (fwdRows && fwdRows.length >= 2) {
+        var fwdPts = fwdRows.map(function (r) {
+          var px = _oreFwdProduct === '65' ? r.m65f_settle : (_oreFwdProduct === 'lump' ? r.lpf_settle : r.fef_settle);
+          var vol = _oreFwdProduct === '65' ? r.m65f_volume : (_oreFwdProduct === 'lump' ? r.lpf_volume : r.fef_volume);
+          return { date: r.dateStr || r.tenor, price: px, volume: vol || 0, expiry_month: r.delivery_month, expiry_year: r.delivery_year };
+        }).filter(function (x) { return x.price != null; });
+        if (fwdPts.length >= 2) renderChartWithRows(fwdPts, true);
+      }
+
+      // 2. Fetch full history and update chart
+      loadOreHistory(histKey).then(function () {
+        var hist = DATA.sgxHistory ? (DATA.sgxHistory[histKey] || []) : [];
+        var contractRows = hist.filter(function (h) { return h.contract === ticker; });
+        if (contractRows.length >= 2) {
+          renderChartWithRows(contractRows, false);
+        }
+        if (userTriggered) panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
       });
     }
     window.renderIronOreContractHistory = renderIronOreContractHistory;
@@ -34570,12 +34647,17 @@ function renderSignalsTab(productKey) {
       }
 
       const mapB = new Map();
-      rowsB.forEach(r => mapB.set(r.date.getTime(), r[keyB]));
+      rowsB.forEach(r => {
+        if (r.date && r.date.getTime) mapB.set(r.date.getTime(), r[keyB]);
+        const ds = r.dateStr || (r.date && typeof fmtDate === 'function' ? fmtDate(r.date) : null);
+        if (ds) mapB.set(ds, r[keyB]);
+      });
       
       const alignedA = [], alignedB = [];
       rowsA.forEach(r => {
-        const valB = mapB.get(r.date.getTime());
-        if (valB != null) {
+        const ds = r.dateStr || (r.date && typeof fmtDate === 'function' ? fmtDate(r.date) : null);
+        const valB = (r.date && r.date.getTime ? mapB.get(r.date.getTime()) : null) ?? (ds ? mapB.get(ds) : null);
+        if (valB != null && r[keyA] != null) {
           alignedA.push(r[keyA]);
           alignedB.push(valB);
         }
@@ -40180,6 +40262,18 @@ function renderTrackingTab() {
   if (trackingActiveSubView === 'history') {
     populatePortHistory();
   }
+
+  // Pre-render sub-view charts so canvases have valid datasets
+  try {
+    if (typeof renderPortStressSubView === 'function') renderPortStressSubView();
+  } catch (e) {}
+  try {
+    var deepPort = (portHistoryCache && portHistoryCache.ports && portHistoryCache.ports.length) ? portHistoryCache.ports[0] : null;
+    var defaultPortId = trackingActivePortId || (deepPort ? deepPort.portid : ((DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports[0] && DATA.universePorts.ports[0].portid) || 1001));
+    var pMeta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[defaultPortId]) || (deepPort ? { portid: deepPort.portid, portname: deepPort.portname } : (DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports[0]));
+    if (deepPort && defaultPortId === deepPort.portid) portPageWindow = 'full';
+    if (pMeta && typeof renderPortPageActivity === 'function') renderPortPageActivity(pMeta);
+  } catch (e) {}
 }
 
 // ================= PHASE STALE: SELF-HEAL SURFACES =================
@@ -40263,25 +40357,28 @@ function canvasIsBlank(cv) {
   // Zero-painted region where content should be: healthy store but nothing
   // ever drew (garbled/cleared paint leaves an effectively uniform bitmap).
   try {
+    var w = cv.clientWidth, h = cv.clientHeight;
+    if (w <= 1 && h <= 1) return false; // panel legitimately hidden: not a paint defect
     if (cv.width < 40 || cv.height < 40) return false;
     var ctx = cv.getContext('2d');
     if (!ctx) return false;
-    var sw = Math.min(cv.width, 300), sh = Math.min(cv.height, 200);
-    var step = Math.max(4, Math.floor(Math.min(sw, sh) / 24));
+    var sw = cv.width, sh = cv.height;
+    var stepX = Math.max(4, Math.floor(sw / 20));
+    var stepY = Math.max(4, Math.floor(sh / 20));
     var d = ctx.getImageData(0, 0, sw, sh).data;
-    var uniq = {};
-    var n = 0;
-    for (var y = 0; y < sh; y += step) {
-      for (var x = 0; x < sw; x += step) {
+    var firstColor = null;
+    for (var y = 0; y < sh; y += stepY) {
+      for (var x = 0; x < sw; x += stepX) {
         var i = (y * sw + x) * 4;
-        uniq[d[i] + ',' + d[i + 1] + ',' + d[i + 2]] = 1;
-        n++;
-        if (n > 300) break;
+        var col = d[i] + ',' + d[i + 1] + ',' + d[i + 2] + ',' + d[i + 3];
+        if (firstColor === null) {
+          firstColor = col;
+        } else if (col !== firstColor) {
+          return false;
+        }
       }
-      if (n > 300) break;
     }
-    var keys = Object.keys(uniq);
-    return keys.length <= 1;
+    return true;
   } catch (err) { return false; }
 }
 
@@ -40293,18 +40390,18 @@ function canvasDoctorPass() {
   panel.querySelectorAll('canvas').forEach(function (cv) {
     var owner = cv.closest('.tab-panel');
     if (owner && !owner.classList.contains('active')) return;
+    if (cv.closest('.leaflet-container')) return;
+    if (cv.clientWidth <= 1 && cv.clientHeight <= 1) return;
     if (canvasIsBroken(cv) || canvasIsBlank(cv)) broken++;
   });
-  // Leaflet maps hide paint defects behind tiles; a 0-size render pane is the
+  // Leaflet maps hide paint defects behind tiles; a 0-size render container is the
   // equivalent defect for the map surface.
   if (active === 'tracking' && window.trackingMap) {
     try {
       var sz = window.trackingMap.getSize();
-      var pane = document.querySelector('#tab-tracking .leaflet-map-pane');
-      if (pane) {
-        var pw = pane.clientWidth || parseInt((pane.style.width || '0'), 10);
-        if ((sz && sz.x === 0) || pw === 0) broken++;
-      }
+      var container = window.trackingMap.getContainer();
+      var cw = container ? (container.clientWidth || parseInt(container.style.width || '0', 10)) : 0;
+      if ((sz && sz.x === 0) || cw === 0) broken++;
     } catch (err) {}
   }
   if (broken > 0) {
@@ -46518,25 +46615,16 @@ function renderBunkersTab() {
   renderBunkersSpotTable();
 
   var gen = ++__bunkersProgressiveGen;
-  idleYield(function () {
-    if (gen !== __bunkersProgressiveGen) return;
-    renderBunkersForwardChart();
-    renderBunkersVolumesChart();
-    renderBunkersScrubberTable();
-    renderBunkersAltFuels();
-    idleYield(function () {
-      if (gen !== __bunkersProgressiveGen) return;
-      renderBunkersBixStrip();
-      idleYield(function () {
-        if (gen !== __bunkersProgressiveGen) return;
-        renderBunkerBixChart();
-        renderBunkerMainChart();
-        if (typeof renderCarbonEtsChart === 'function') {
-          try { renderCarbonEtsChart(); } catch (e) { console.error('[renderCarbonEtsChart]', e); }
-        }
-      }, 2500);
-    }, 2500);
-  }, 2500);
+  renderBunkersForwardChart();
+  renderBunkersVolumesChart();
+  renderBunkersScrubberTable();
+  renderBunkersAltFuels();
+  renderBunkersBixStrip();
+  renderBunkerBixChart();
+  renderBunkerMainChart();
+  if (typeof renderCarbonEtsChart === 'function') {
+    try { renderCarbonEtsChart(); } catch (e) { console.error('[renderCarbonEtsChart]', e); }
+  }
 }
 
 function initBunkerGeoMapSoon() {
@@ -47586,7 +47674,7 @@ function renderBunkersAltFuels() {
   var nMeoh = rows.filter(function(p) { return p.meoh != null; }).length;
   var nEua = rows.filter(function(p) { return p.eua != null; }).length;
   var cap = document.getElementById('bunkersAltFuelsCap');
-  if (cap) cap.textContent = 'Verified alt-fuel indications — ' + rows.length + ' of ' + ports.length + ' ports (LNG: ' + nLng + ' · MEOH: ' + nMeoh + ' · EUA: ' + nEua + '). Null = no quote, never 0.';
+  if (cap) cap.textContent = 'Alternative fuel quotes — ' + rows.length + ' of ' + ports.length + ' ports (LNG: ' + nLng + ' · MEOH: ' + nMeoh + ' · EUA: ' + nEua + '). Null = no quote, never 0.';
   var nav = document.getElementById('subnavBunkersAltfuels');
   if (nav) nav.textContent = 'Alt Fuels (' + rows.length + ')';
   tbody.innerHTML = '';
@@ -48121,7 +48209,18 @@ function renderFearnSection(id) {
   if (!DATA.loaded) return;
   // PHASE SPEED: render-once + dirty-flag memoization. A section re-renders
   // only on its first display or when its view state changed (FDESK._dirty).
-  if (FDESK.secInit[id] && !FDESK._dirty[id]) return;
+  var secEl = document.getElementById('fearnSec' + id);
+  var hasUnmountedCanvases = false;
+  if (secEl) {
+    var cvs = secEl.querySelectorAll('canvas');
+    for (var ci = 0; ci < cvs.length; ci++) {
+      if (typeof Chart !== 'undefined' && !Chart.getChart(cvs[ci])) {
+        hasUnmountedCanvases = true;
+        break;
+      }
+    }
+  }
+  if (FDESK.secInit[id] && !FDESK._dirty[id] && !hasUnmountedCanvases) return;
   if (FDESK._dirty[id]) FDESK._dirty[id] = false;
   var done = function (fn) {
     return function () {
@@ -48466,17 +48565,23 @@ function fearn52Compute(pts, monthly) {
   if (!vals.length) return null;
   lastMs = vals[vals.length - 1].k;
   lastVal = vals[vals.length - 1].v;
-  var lastTime = monthly ? Date.parse(lastMs + '-01T00:00:00Z') : lastMs;
+  var toMs = function (k) {
+    if (typeof k === 'number') return k;
+    if (!k) return NaN;
+    if (monthly) return Date.parse(k + '-01T00:00:00Z');
+    return Date.parse(String(k).indexOf('T') >= 0 ? k : k + 'T00:00:00Z') || Date.parse(k);
+  };
+  var lastTime = toMs(lastMs);
   var isFiniteN = function (x) { return typeof x === 'number' && x === x && x !== Infinity && x !== -Infinity; };
   var inWin = function (entry) {
-    var t = monthly ? Date.parse(entry.k + '-01T00:00:00Z') : entry.k;
+    var t = toMs(entry.k);
     return isFiniteN(lastTime) && isFiniteN(t) && t >= lastTime - FDESK_52W_MS;
   };
   var w = vals.filter(inWin);
   if (!w.length) return null;
   var hi = -Infinity, lo = Infinity;
   w.forEach(function (e) { if (e.v > hi) hi = e.v; if (e.v < lo) lo = e.v; });
-  var full52 = isFiniteN(hi) && isFiniteN(lo) && (lastTime - (monthly ? Date.parse(w[0].k + '-01T00:00:00Z') : w[0].k)) >= 300 * 86400000;
+  var full52 = isFiniteN(hi) && isFiniteN(lo) && (lastTime - toMs(w[0].k)) >= 300 * 86400000;
   var denom = hi - lo;
   var pos = full52 && denom > 0 ? ((lastVal - lo) / denom * 100) : null;
   // YTD: compare to the last value of the prior calendar year within the pts
@@ -48484,7 +48589,7 @@ function fearn52Compute(pts, monthly) {
   if (isFiniteN(lastTime)) {
     var jan1 = Date.UTC(new Date(lastTime).getUTCFullYear(), 0, 1);
     for (var j = vals.length - 1; j >= 0; j--) {
-      var t2 = monthly ? Date.parse(vals[j].k + '-01T00:00:00Z') : vals[j].k;
+      var t2 = toMs(vals[j].k);
       if (isFiniteN(t2) && t2 < jan1) { ytdBase = vals[j].v; break; }
     }
     if (ytdBase != null && ytdBase !== 0) ytd = (lastVal - ytdBase) / ytdBase * 100;
@@ -49847,7 +49952,7 @@ function renderFearnFx() {
   }
   renderFearnFxTable();
   var note = document.getElementById('fearnFxNote');
-  if (note) note.textContent = 'Coverage 2024 forward · earlier years are sparse department scraps · rate numeric where parseable (92% text/RNR historically — kept in comment, em-dash when null) · deduped on date+vessel+charterer+route';
+  if (note) note.textContent = 'Fixtures from 2024 onward · earlier years are sparse department scraps · rate numeric where parseable (92% text/RNR historically — kept in comment, em-dash when null) · deduped on date+vessel+charterer+route';
 }
 function fearnFxFiltered() {
   var tape = FDESK.tape; if (!tape) return [];

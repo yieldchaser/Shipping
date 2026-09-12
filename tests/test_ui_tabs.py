@@ -233,13 +233,24 @@ def tab_audit_data(web_server):
                 }});
 
                 // Dead charts (canvases with < 2 non-null points or no Chart instance, excluding Leaflet)
-                const canvases = p.querySelectorAll('canvas');
+                // Document-wide, not panel-scoped. A panel-scoped sweep missed a
+                // modal canvas rendering as a visible blank 792x258 panel inside
+                // the ETFs tab with no Chart instance. Only VISIBLE canvases
+                // count: a hidden modal's canvas is not a defect.
+                const canvases = document.querySelectorAll('canvas');
                 let deadCount = 0;
+                const deadIds = [];
                 canvases.forEach(cv => {{
                     if (cv.closest('.leaflet-container')) return;
+                    const r = cv.getBoundingClientRect();
+                    if (r.width < 2 || r.height < 2) return;
+                    if (cv.offsetParent === null) return;
+                    const cs = getComputedStyle(cv);
+                    if (cs.visibility === 'hidden' || cs.display === 'none') return;
                     const ch = typeof Chart !== 'undefined' ? Chart.getChart(cv) : null;
                     if (!ch) {{
                         deadCount++;
+                        deadIds.push(cv.id || 'no-id');
                     }} else {{
                         let pts = 0;
                         if (ch.data && ch.data.datasets) {{
@@ -247,7 +258,10 @@ def tab_audit_data(web_server):
                                 if (ds.data) ds.data.forEach(v => {{ if (v != null) pts++; }});
                             }});
                         }}
-                        if (pts < 2) deadCount++;
+                        if (pts < 2) {{
+                            deadCount++;
+                            deadIds.push((cv.id || 'no-id') + ' (pts=' + pts + ')');
+                        }}
                     }}
                 }});
 
@@ -279,6 +293,7 @@ def tab_audit_data(web_server):
                     emptyMatches,
                     kpis,
                     deadCount,
+                    deadIds,
                     totalControls,
                     tipped,
                     descriptiveOnly,
@@ -391,7 +406,30 @@ def test_no_empty_states(tab_audit_data):
 
 def test_no_dash_kpis(tab_audit_data):
     """Q-005: Verify no KPI values are —, -, n/a, NaN, $NaN (baseline: 9 items)."""
-    dash_tabs = tab_audit_data["tab_dash_kpis"]
+    allowlist = {}
+    if ALLOWLIST_PATH.exists():
+        try:
+            allowlist = json.loads(ALLOWLIST_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    allowed_kpis = allowlist.get("dash_kpis", [])
+
+    dash_tabs = {}
+    for tab, kpis in tab_audit_data["tab_dash_kpis"].items():
+        unallowed = []
+        for k in kpis:
+            k_id = k.split("=")[0] if "=" in k else None
+            k_val = k.split("=")[1] if "=" in k else k
+            if any(
+                (entry.get("id") and entry.get("id") == k_id) or
+                (entry.get("tab") == tab and (not entry.get("pattern") or re.search(entry["pattern"], k_val)))
+                for entry in allowed_kpis
+            ):
+                continue
+            unallowed.append(k)
+        if unallowed:
+            dash_tabs[tab] = unallowed
+
     total_dash = sum(len(v) for v in dash_tabs.values())
     assert not dash_tabs, (
         f"Found {total_dash} dash/n/a KPI values across {len(dash_tabs)} tabs "

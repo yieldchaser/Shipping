@@ -46,6 +46,10 @@ jobs:
         run: |
           python scripts/scrapers/fetch_usda_grains.py
           python scripts/scrapers/fetch_usda_fas_exports.py
+          # Sole writer of data/commodities/usda_grain_vessel_loading_queues.csv.
+          # Must not be replaced by fetch_usda_grains.py, whose Socrata source
+          # (uiht-9xts) ends in 2020 and would destroy the rebuilt series.
+          python scripts/acquire/fetch_usda_grain_queues.py
 
       - name: Commit & Push USDA Feeds
         run: |
