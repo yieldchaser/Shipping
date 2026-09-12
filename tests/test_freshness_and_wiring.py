@@ -324,3 +324,15 @@ def test_baltic_route_taxonomy_glosses():
     assert 'id="presetTd3c"' in html and 'Middle East Gulf to China' in html
     assert 'id="presetC5"' in html and 'West Australia to Qingdao' in html
     assert 'id="presetC3"' in html and 'Tubarao to Qingdao' in html
+
+
+def test_ffa_forward_curve_dist_control():
+    """F-1: Realized Pctl on the SGX FFA forward curve must not attach empty datasets to the chart.
+    If realized spot history across forward tenors is unavailable, the button must be disabled with
+    explanatory tooltip and must not attach 0-point datasets.
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+    btn_snippet = html[html.find('id="ffaCompDist"'):html.find('id="ffaCompDist"') + 400]
+    assert "disabled" in btn_snippet, "ffaCompDist button must be disabled when realized forward distribution is unavailable"
+    assert "Realized spot distribution unavailable" in btn_snippet, "ffaCompDist tooltip must state why distribution is unavailable"
+    assert "p50Data.some" in html, "renderFFAForwardCurve must verify non-null points before attaching dist datasets"

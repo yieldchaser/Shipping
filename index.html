@@ -12754,7 +12754,7 @@
                   <button class="toggle-btn" id="ffaComp2w" data-tooltip="Overlay the settlement curve as it stood 2W ago, from the FFA archive snapshot." onclick="setFFAComp('2w')">2W ago</button>
                   <button class="toggle-btn" id="ffaComp1m" data-tooltip="Overlay the settlement curve as it stood 1M ago, from the FFA archive snapshot." onclick="setFFAComp('1m')">1M ago</button>
                   <button class="toggle-btn" id="ffaComp3m" data-tooltip="Overlay the settlement curve as it stood 3M ago, from the FFA archive snapshot." onclick="setFFAComp('3m')">3M ago</button>
-                  <button class="toggle-btn" id="ffaCompDist" data-tooltip="Overlay historical realized spot settlement distribution (P10–P90 band and median) across tenors to evaluate forward valuation percentiles." onclick="setFFAComp('dist')">Realized Pctl</button>
+                  <button class="toggle-btn" id="ffaCompDist" disabled style="opacity:0.5;cursor:not-allowed;" data-tooltip="Realized spot distribution unavailable: historical realized spot index points (BCI) do not match SGX forward $/day settlement contract pricing across tenors without tenored forward realization history." onclick="return false;">Realized Pctl</button>
                   <button class="toggle-btn active" id="ffaCompNone" data-tooltip="Show only the current settlement curve with no historical overlay." onclick="setFFAComp('none')">No Compare</button>
                 </div>
               </div>
@@ -33113,6 +33113,7 @@ function renderSignalsTab(productKey) {
     }
 
     function setFFAComp(w) {
+      if (w === 'dist') return;
       window.setFFAComp = setFFAComp;
       _ffaComp = w;
       ['1w', '2w', '1m', '3m', 'none'].forEach(function (k) {
@@ -33209,38 +33210,40 @@ function renderSignalsTab(productKey) {
             p50Data.push(null); p10Data.push(null); p90Data.push(null);
           }
         });
-        datasets.push({
-          label: 'Realized Spot Median (P50)',
-          data: p50Data,
-          borderColor: '#e3b341',
-          borderWidth: 2,
-          borderDash: [5, 5],
-          pointRadius: 3,
-          fill: false,
-          tension: 0.2,
-          order: 3
-        });
-        datasets.push({
-          label: 'Realized Spot P10–P90 Band',
-          data: p90Data,
-          borderColor: 'rgba(227,179,65,0.25)',
-          backgroundColor: 'rgba(227,179,65,0.08)',
-          borderWidth: 1,
-          pointRadius: 0,
-          fill: '+1',
-          tension: 0.2,
-          order: 4
-        });
-        datasets.push({
-          label: 'Realized Spot P10 Lower',
-          data: p10Data,
-          borderColor: 'rgba(227,179,65,0.25)',
-          borderWidth: 1,
-          pointRadius: 0,
-          fill: false,
-          tension: 0.2,
-          order: 5
-        });
+        if (p50Data.some(function(v) { return v !== null; })) {
+          datasets.push({
+            label: 'Realized Spot Median (P50)',
+            data: p50Data,
+            borderColor: '#e3b341',
+            borderWidth: 2,
+            borderDash: [5, 5],
+            pointRadius: 3,
+            fill: false,
+            tension: 0.2,
+            order: 3
+          });
+          datasets.push({
+            label: 'Realized Spot P10–P90 Band',
+            data: p90Data,
+            borderColor: 'rgba(227,179,65,0.25)',
+            backgroundColor: 'rgba(227,179,65,0.08)',
+            borderWidth: 1,
+            pointRadius: 0,
+            fill: '+1',
+            tension: 0.2,
+            order: 4
+          });
+          datasets.push({
+            label: 'Realized Spot P10 Lower',
+            data: p10Data,
+            borderColor: 'rgba(227,179,65,0.25)',
+            borderWidth: 1,
+            pointRadius: 0,
+            fill: false,
+            tension: 0.2,
+            order: 5
+          });
+        }
       }
 
       // Comparison overlay
