@@ -95893,7 +95893,7 @@
       "node": "Bauxite / Alumina",
       "group": "Ores and Rocks",
       "status": "LIVE_MIRROR",
-      "source": "UN Comtrade China Mirror (HS 260600) + Broker Fixtures (Conakry direct UNAVAILABLE)",
+      "source": "UN Comtrade China Mirror (HS 260600) + Broker Fixtures (Conakry direct offline / un-reacquired)",
       "fixtures": 3676,
       "has_national": true
     },

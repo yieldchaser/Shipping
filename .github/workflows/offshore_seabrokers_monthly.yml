@@ -55,6 +55,7 @@ jobs:
           else
             python scripts/scrapers/fetch_seabrokers_reports.py --auto
           fi
+          python scripts/offshore/build_offshore_cache.py
 
       - name: Commit and Push Offshore Updates
         run: |

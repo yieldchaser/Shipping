@@ -229,7 +229,10 @@ def find_producing_script(rel_path):
         "data/derived/macro_health_score_backtest.csv": ("scripts/backtest_macro_health_radar.py", "Macro Health Radar v2 Engine", "Internal Model", "Point-in-Time Backtest", "0-100 Score"),
         "data/derived/port_stress_summary.json": ("scripts/congestion/build_port_stress_cache.py", "Port Stress Matrix Builder", "Internal Model", "Arrival Density Aggregation", "Stress Index"),
         "data/derived/fearnleys_summary.json": ("scripts/fearnleys/build_fearnleys_cache.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "GraphQL Cache", "Summary Metrics"),
-        "data/derived/fearnleys_desk_tenor.json": ("scripts/fearnleys/build_fearnleys_cache.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "GraphQL Cache", "Tenor Curves"),
+        "data/derived/fearnleys_desk_tenor.json": ("scripts/fearnleys/build_desk_caches.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "GraphQL Cache", "Tenor Curves"),
+        "data/derived/fearnleys_asset_curves.json": ("scripts/fearnleys/build_desk_caches.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "Asset Age Curves", "USD Millions"),
+        "data/derived/fearnleys_nb_prices.json": ("scripts/fearnleys/build_desk_caches.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "Newbuilding Prices", "USD Millions"),
+        "data/derived/fearnleys_gas_extra.json": ("scripts/fearnleys/build_desk_caches.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "Gas Rates Extra", "USD/day"),
         "data/derived/fearnleys_dry_routes_daily.json": ("scripts/fearnleys/fetch_dry_routes_ts.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "GraphQL API", "USD/day"),
         "data/derived/fearnleys_tanker_routes_daily.json": ("scripts/fearnleys/build_tanker_routes_daily.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "GraphQL API", "WS / USD"),
         "data/derived/fearnleys_fixtures_facets.json": ("scripts/fearnleys/build_fixtures_tape.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "Fixtures Analytics", "Fixtures"),
@@ -239,8 +242,8 @@ def find_producing_script(rel_path):
         "data/derived/usda_grain_vessel_rates_japan.csv": ("scripts/scrapers/fetch_usda_grains.py", "USDA Agricultural Marketing Service", "https://www.ams.usda.gov", "Report Parsing", "USD/MT"),
         "data/derived/offshore_summary.json": ("scripts/offshore/build_offshore_cache.py", "Seabreeze / Fearnleys Offshore", "https://fearnleys.com", "Offshore Aggregation", "Dayrates"),
         # Broker Desk Phase 4.2 Ingestions
-        "data/clarksons/braemar_live_rates.json": ("scripts/clarksons/fetch_braemar_rates.py", "Braemar ACM Shipbroking GraphQL", "https://braemar.com", "GraphQL API", "USD/day"),
-        "data/clarksons/gibson_all_reports_catalog.json": ("scripts/clarksons/scrape_gibson_catalog.py", "Gibson Shipbrokers Research", "https://www.gibsons.co.uk", "Research Catalogue API", "Metadata"),
+        "data/clarksons/braemar_live_rates.json": ("scripts/clarksons/fetch_braemar_rates.py", "Braemar ACM Shipbroking", "https://braemar.com", "Broker Rate Assessment Snapshot", "USD/day"),
+        "data/clarksons/gibson_all_reports_catalog.json": ("scripts/scrapers/fetch_gibson_weekly.py", "Gibson Shipbrokers Research", "https://www.gibsons.co.uk", "Research Catalogue API", "Metadata"),
         "data/clarksons/gibson_tanker_rates_continuous_daily.csv": ("scripts/fearnleys/build_tanker_routes_daily.py", "Gibson Shipbrokers Continuous Daily Feed", "https://www.gibsons.co.uk", "Daily Broker Assessment", "WS / USD"),
         "data/clarksons/fearnleys_benchmark_rates_continuous.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Continuous Benchmark Engine", "https://fearnleys.com", "GraphQL Continuous Series", "USD/day / WS"),
 
@@ -254,11 +257,15 @@ def find_producing_script(rel_path):
         "data/commodities/guinea_bauxite_exports.csv": ("scripts/scrapers/fetch_un_comtrade_bauxite.py", "China Customs (GACC) via UN Comtrade", "https://comtradeplus.un.org", "Mirror Trade Statistics", "Metric Tonnes / USD"),
         "data/commodities/un_comtrade_guinea_bauxite.csv": ("scripts/scrapers/fetch_un_comtrade_bauxite.py", "China Customs (GACC) via UN Comtrade", "https://comtradeplus.un.org", "Mirror Trade Statistics", "Metric Tonnes / USD"),
 
-        # Explicit UNREGISTERED files (frontend loads them, but no script in the repo produces them)
-        "data/derived/chokepoint_transit_metrics.csv": None,
-        "data/derived/lng_charter_rates.csv": None,
-        "data/derived/lpg_charter_rates.csv": None,
-        "data/derived/lpg_spot_rates.csv": None,
+        # Congestion, Derived & Reports Pipelines
+        "data/congestion/chokepoint_annotations.json": ("scripts/geospatial/build_chokepoint_cache.py", "PortWatch & Maritime Security Advisories", "https://portwatch.imf.org", "Structured Event Ingestion", "Annotations"),
+        "data/derived/chokepoint_transit_metrics.csv": ("scripts/geospatial/build_chokepoint_cache.py", "IMF PortWatch & AIS Chokepoint Aggregator", "https://portwatch.imf.org", "Derived Model", "Daily Transits"),
+        "data/derived/lng_charter_rates.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Hasura GraphQL API", "https://fearnleys.com", "GraphQL API", "USD/day"),
+        "data/derived/lpg_charter_rates.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Hasura GraphQL API", "https://fearnleys.com", "GraphQL API", "USD/day"),
+        "data/derived/lpg_spot_rates.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Hasura GraphQL API", "https://fearnleys.com", "GraphQL API", "USD/day"),
+        "data/reports/fearnleys_reports_catalog.json": ("scripts/fetch_fearnleys_reports.py", "Fearnleys Custom Research Reports", "https://fearnleys.com", "Report Catalog Ingestion", "Metadata"),
+        "data/reports/seabrokers_catalog.json": ("scripts/scrapers/fetch_seabrokers_reports.py", "Seabrokers Seabreeze Monthly Market Reports", "https://seabrokers.co.uk", "Report Catalog Ingestion", "Metadata"),
+        "data/provenance/manifest.json": ("scripts/verify/build_provenance_manifest.py", "Provenance Verification Engine", "Local Pipeline", "Deterministic Manifest Compiler", "Provenance Registry"),
     }
 
     if rel_path in PIPELINE_MAP:

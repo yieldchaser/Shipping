@@ -42,12 +42,17 @@ jobs:
         run: |
           python scripts/fetch_fearnleys_tc.py
           if [ -f scripts/fearnleys/build_series_cache.py ]; then python scripts/fearnleys/build_series_cache.py; fi
+          python scripts/fetch_fearnleys_reports.py || true
+          python scripts/fearnleys/daily_fearnleys_sync.py || true
+          python scripts/fearnleys/build_fearnleys_cache.py
+          python scripts/fearnleys/build_desk_caches.py
+          python scripts/fearnleys/build_fixtures_tape.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/derived/time_charter_rates_fearnleys.csv data/derived/fearnleys_series_monthly.json
+          git add data/derived/time_charter_rates_fearnleys.csv data/derived/fearnleys_series_monthly.json data/derived/fearnleys_*.json data/derived/fearnleys_*.csv data/derived/lng_charter_rates.csv data/derived/lpg_*.csv data/reports/fearnleys_reports_catalog.json
           if git diff --staged --quiet; then
             echo "No Fearnleys TC changes to commit."
             exit 0

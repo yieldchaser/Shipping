@@ -35,7 +35,9 @@ jobs:
         run: git pull --rebase --autostash origin main
 
       - name: Run Alibra Poller & Ingestion Engine
-        run: python scripts/alibra_poller.py --integrate
+        run: |
+          python scripts/alibra_poller.py --integrate
+          python scripts/integrate_alibra_feed.py
 
       - name: Commit and push changes
         run: |

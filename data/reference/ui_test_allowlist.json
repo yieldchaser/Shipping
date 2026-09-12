@@ -7,6 +7,30 @@
     {
       "text": "Last 30 days",
       "reason": "Standard time window filter control label"
+    },
+    {
+      "text": "Last 90 days",
+      "reason": "Standard time window filter control label"
+    },
+    {
+      "text": "+10% All",
+      "reason": "Curve shifter macro control button label"
+    },
+    {
+      "text": "-10% All",
+      "reason": "Curve shifter macro control button label"
+    },
+    {
+      "text": "\u00b12.50%",
+      "reason": "Configurable model assumption spread band"
+    },
+    {
+      "text": "\u00b12.5%",
+      "reason": "Configurable model assumption spread band"
+    },
+    {
+      "text": "&plusmn;2.50%",
+      "reason": "Configurable model assumption spread band"
     }
   ],
   "settings": [
@@ -32,6 +56,46 @@
     {
       "pattern": "Handysize \\(18 MT/day\\)",
       "reason": "Standard industry vessel fuel consumption modeling assumption"
+    },
+    {
+      "pattern": "VLCC \\(55 MT/day\\)",
+      "reason": "Standard industry vessel fuel consumption modeling assumption (VLCC baseline)"
+    },
+    {
+      "pattern": "Suezmax \\(38 MT/day\\)",
+      "reason": "Standard industry vessel fuel consumption modeling assumption (Suezmax baseline)"
+    },
+    {
+      "pattern": "Panamax / Kamsarmax \\(30 MT/day\\)",
+      "reason": "Standard industry vessel fuel consumption modeling assumption (Panamax/Kamsarmax baseline)"
+    },
+    {
+      "pattern": "Burn-rate assumptions:.*",
+      "reason": "Engineering modeling assumptions for bunker consumption and EU ETS carbon compliance"
+    },
+    {
+      "pattern": ".*\\b\\d+([,-]\\d+)*\\s*DWT\\b.*",
+      "reason": "Standard commercial shipping vessel deadweight tonnage (DWT) classification specifications"
+    },
+    {
+      "pattern": ".*\\b(VLSFO|MGO)\\s*\\(0\\.[15]%(\\s*S)?\\).*",
+      "reason": "IMO 2020 MARPOL Annex VI statutory marine fuel sulfur limit standards"
+    },
+    {
+      "pattern": ".*\\b(62%|65%)\\s*(Standard|Carajas|Fe).*",
+      "reason": "Standard Singapore Exchange (SGX) and Platts iron ore contract grade specifications"
+    },
+    {
+      "pattern": ".*Solactive.*",
+      "reason": "Solactive Dry Bulk Index official methodology weighting specifications"
+    },
+    {
+      "pattern": ".*50% Capesize, 40% Panamax, 10% Supramax.*",
+      "reason": "Solactive Dry Bulk Index and synthetic BDI basket weighting formula"
+    },
+    {
+      "pattern": ".*Prompt 62% Settle.*",
+      "reason": "SGX cleared prompt iron ore contract label"
     }
   ],
   "canvas_allowlist": [
@@ -44,7 +108,7 @@
     {
       "id": "simHudPnl",
       "tab": "etfs",
-      "value": "—",
+      "value": "\u2014",
       "reason": "Awaiting simulator start empty state baseline before run"
     }
   ]
