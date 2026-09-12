@@ -1,9 +1,9 @@
 # Shipping: Zero-Infrastructure Intelligence Platform & Quantitative Terminal
 
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://yieldchaser.github.io/Shipping/)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=for-the-badge&logo=python)](file:///c:/Users/Dell/Github/Shipping/scripts)
-[![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-GitHub%20Actions-orange?style=for-the-badge&logo=githubactions)](file:///c:/Users/Dell/Github/Shipping/.github/workflows)
-[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-RAG%20Compiler-purple?style=for-the-badge)](file:///c:/Users/Dell/Github/Shipping/knowledge)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=for-the-badge&logo=python)](scripts)
+[![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-GitHub%20Actions-orange?style=for-the-badge&logo=githubactions)](.github/workflows)
+[![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-RAG%20Compiler-purple?style=for-the-badge)](knowledge)
 
 > *"I am a Man of Fortune, and I must seek my Fortune."*  
 > — **Henry Avery, 1694**
@@ -14,7 +14,7 @@
 
 The production analytical dashboard is served directly from this repository via GitHub Pages:  
 👉 **[https://yieldchaser.github.io/Shipping/](https://yieldchaser.github.io/Shipping/)**  
-*(Can also be launched locally by opening [`index.html`](file:///c:/Users/Dell/Github/Shipping/index.html) in any modern web browser).*
+*(Can also be launched locally by opening [`index.html`](index.html) in any modern web browser).*
 
 **No server. No build step. No database cost.** The entire platform operates as a self-sustaining quantitative shipping intelligence terminal with client-side execution, browser-native RAG AI research search, and automated multi-daily scraping pipelines.
 
@@ -24,8 +24,8 @@ The production analytical dashboard is served directly from this repository via 
 
 ```mermaid
 flowchart LR
-    A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify, SGX, ComexStat, PPA,<br/>US EIA, IMF PortWatch, EU ETS"] --> B["⚙️ <b>GitHub Actions</b><br/>17 Automated Workflows<br/>(Scheduled Crons + Ingestion)"]
-    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (51+ CSV/JSON Series)<br/>knowledge/ (RAG Corpus)"]
+    A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify, SGX, ComexStat, PPA,<br/>US EIA, IMF PortWatch, EU ETS"] --> B["⚙️ <b>GitHub Actions</b><br/>19 Automated Workflows<br/>(Scheduled Crons + Ingestion)"]
+    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (102 rendered series)<br/>knowledge/ (RAG Corpus)"]
     C --> D["🌐 <b>Web Terminal</b><br/>index.html Dashboard &<br/>Browser RAG Assistant"]
 ```
 
@@ -49,7 +49,7 @@ flowchart LR
 
 ## 2. Exhaustive Data Catalog & Time Series Inventory
 
-This section provides a complete reference for every data file tracked within the repository. For the full tabular health inventory and update cadence schedule, see [`docs/DATASETS.md`](file:///c:/Users/Dell/Github/Shipping/docs/DATASETS.md). **External LLMs or automated parsers can use this inventory to locate datasets, verify schemas, and extend historical data.**
+This section provides a complete reference for every data file tracked within the repository. For the full tabular health inventory and update cadence schedule, see [`docs/DATASETS.md`](docs/DATASETS.md). **External LLMs or automated parsers can use this inventory to locate datasets, verify schemas, and extend historical data.**
 
 ### 2.1 Primary Freight Spot Indices (`data/indices/`)
 
@@ -57,13 +57,13 @@ All files use standard CSV formatting with date headers in `DD-MM-YYYY` format.
 
 | File Path | Target Index | Code | Start Date | Rows | Schema / Columns | Primary / Derived |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [`data/indices/bdiy_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bdiy_historical.csv) | Baltic Dry Index | BDI | 04-01-1985 | ~10,492 | `Date, Index, % Change` | Primary (Validated Backfill + Scraped) |
-| [`data/indices/cape_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cape_historical.csv) | Baltic Capesize Index | BCI | 06-10-2008 | ~4,312 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/panama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/panama_historical.csv) | Baltic Panamax Index | BPI | 06-10-2008 | ~4,312 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/suprama_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/suprama_historical.csv) | Baltic Supramax Index | BSI | 06-10-2008 | ~4,311 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/handysize_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/handysize_historical.csv) | Baltic Handysize Index | BHSI | 06-10-2008 | ~4,290 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/cleantanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/cleantanker_historical.csv) | Baltic Clean Tanker | BCTI | 02-01-2008 | ~4,484 | `Date, Index, % Change` | Primary (Scraped) |
-| [`data/indices/dirtytanker_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/dirtytanker_historical.csv) | Baltic Dirty Tanker | BDTI | 05-12-2007 | ~4,499 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/bdiy_historical.csv`](data/indices/bdiy_historical.csv) | Baltic Dry Index | BDI | 04-01-1985 | ~10,492 | `Date, Index, % Change` | Primary (Validated Backfill + Scraped) |
+| [`data/indices/cape_historical.csv`](data/indices/cape_historical.csv) | Baltic Capesize Index | BCI | 06-10-2008 | ~4,312 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/panama_historical.csv`](data/indices/panama_historical.csv) | Baltic Panamax Index | BPI | 06-10-2008 | ~4,312 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/suprama_historical.csv`](data/indices/suprama_historical.csv) | Baltic Supramax Index | BSI | 06-10-2008 | ~4,311 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/handysize_historical.csv`](data/indices/handysize_historical.csv) | Baltic Handysize Index | BHSI | 06-10-2008 | ~4,290 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/cleantanker_historical.csv`](data/indices/cleantanker_historical.csv) | Baltic Clean Tanker | BCTI | 02-01-2008 | ~4,484 | `Date, Index, % Change` | Primary (Scraped) |
+| [`data/indices/dirtytanker_historical.csv`](data/indices/dirtytanker_historical.csv) | Baltic Dirty Tanker | BDTI | 05-12-2007 | ~4,499 | `Date, Index, % Change` | Primary (Scraped) |
 
 ### 2.2 Baltic Ticker API Series (`data/indices/`)
 
@@ -74,10 +74,10 @@ Updated via Baltic Ticker public API (`scripts/baltic_new_indices.py`) and TAC I
 | `data/indices/blng_historical.csv` | Baltic LNG Freight Index | BLNG | 13-03-2026 | 104 | `Date, Index, % Change` |
 | `data/indices/blpg_historical.csv` | Baltic LPG Freight Index | BLPG | 13-03-2026 | 104 | `Date, Index, % Change` |
 | `data/indices/fbx_historical.csv` | Freightos Baltic Container Index | FBX | 13-03-2026 | 104 | `Date, Index, % Change` |
-| [`data/indices/bai_historical.csv`](file:///c:/Users/Dell/Github/Shipping/data/indices/bai_historical.csv) | Baltic Air Freight Index | BAI | 01-01-2018 | 456 | `Date, Index, % Change` |
+| [`data/indices/bai_historical.csv`](data/indices/bai_historical.csv) | Baltic Air Freight Index | BAI | 01-01-2018 | 456 | `Date, Index, % Change` |
 
 > [!NOTE]
-> **Shallow CSVs until backfill runs land (E2E audit, no-break):** Drewry WCI **139 rows** (2024-01-04→2026-08-26 provisional, 2024+ badge in UI; Wayback 2011 pending — never synthesized), Brazil ComexStat **92 rows** (2024+ slice), EIA weekly exports **500 rows** (real 2017+ kept as-is without `EIA_API_KEY`), FAS outstanding sales **10k rows** (tail 2006 — FAS DESC 60k lands on Thu 15 UTC runs), FBX **108 rows** (Mar-2026+ slice; full 2017→present is a follow-up). How to trigger: `gh workflow run poten_drewry_weekly.yml -f backfill_2011=true`; `gh workflow run upstream_commodity_flows.yml -f comexstat_full=1` (multi-hour pacing) or `COMEXSTAT_FULL_HISTORY=1 python scripts/scrapers/fetch_comexstat_brazil.py`; `gh workflow run usda_weekly.yml` (Thu 15 UTC FAS DESC 60k). See [`docs/DATASETS.md`](file:///c:/Users/Dell/Github/Shipping/docs/DATASETS.md) for full inventory.
+> **Shallow CSVs until backfill runs land (E2E audit, no-break):** Drewry WCI **139 rows** (2024-01-04→2026-08-26 provisional, 2024+ badge in UI; Wayback 2011 pending — never synthesized), Brazil ComexStat **92 rows** (2024+ slice), EIA weekly exports **500 rows** (real 2017+ kept as-is without `EIA_API_KEY`), FAS outstanding sales **10k rows** (tail 2006 — FAS DESC 60k lands on Thu 15 UTC runs), FBX **108 rows** (Mar-2026+ slice; full 2017→present is a follow-up). How to trigger: `gh workflow run poten_drewry_weekly.yml -f backfill_2011=true`; `gh workflow run upstream_commodity_flows.yml -f comexstat_full=1` (multi-hour pacing) or `COMEXSTAT_FULL_HISTORY=1 python scripts/scrapers/fetch_comexstat_brazil.py`; `gh workflow run usda_weekly.yml` (Thu 15 UTC FAS DESC 60k). See [`docs/DATASETS.md`](docs/DATASETS.md) for full inventory.
 
 ### 2.3 Time Charter (TC) Rates, Forward Curves & Valuations (`data/derived/`)
 
@@ -85,20 +85,20 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 
 | File Path | Description | Start Date | Rows | Columns / Schema Overview |
 | :--- | :--- | :--- | :--- | :--- |
-| [`time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv) | **Merged** Weekly TC Rates ($/day) — Fearnleys pre-2021 + Alibra Deep Archive (2008–2026) + Alibra weekly feed | 2000-01-05 | ~2,083 | `date, source` + 64 rate columns (66 cols total) spanning 4/6M, 1Y, 2Y, 3Y, 5Y across Dry Bulk (Atl/Pac), Crude, Product, and Handy Tankers. `source` = `fearnleys`, `alibra_archive`, `alibra_ocr` |
-| [`tanker_forward_curves.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/tanker_forward_curves.csv) | **Tanker FFA Forward Curves** — 22-month forward term structure across 12 tanker routes | 2026-08-12 | ~22 | `snapshot_date, forward_month, contract_label, vlcc_td3c, vlcc_eco_td3c, suezmax_td20, aframax_td25, lr1_tc5, lr1_eco_tc5, mr_tc2, mr_eco_tc2, mr_tc14, mr_eco_tc14, mr_tc6, mr_triangulation` |
-| [`tanker_forward_curves_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/tanker_forward_curves_history.csv) | **Tanker Forward History Accumulator** — persistent multi-snapshot forward curve time series | 2026-08-12 | Accumulating | `snapshot_date, forward_month, contract_label` + 12 forward TCE route columns |
-| [`time_charter_rates_fearnleys.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates_fearnleys.csv) | **Fearnleys-only** TC Rates — single-source reference for cross-validation | 2000-01-05 | ~1,595 | `date, capesize_1y_avg, panamax_1y_avg, supramax_1y_avg, handysize_1y_avg, vlcc_1y, suezmax_1y, aframax_1y` |
-| [`intermodal_tc_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/intermodal_tc_rates.csv) | **Intermodal** Weekly TC Rates ($/day) — fills MR, LR1, Handysize & 3Y period gaps | 2025-03-07 | ~43 | `date, source` + 20 rate columns (`mr_1y_tc`, `mr_3y_tc`, `lr1_1y_tc`, `lr1_3y_tc`, 3Y dry/wet period rates) |
-| [`lpg_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/lpg_charter_rates.csv) | LPG 1Y TC Rates ($/month) from Fearnleys API | 2019-07-01 | ~359 | `date, vlgc_84k_tc, mgc_38k_tc, hdy_22k_tc` |
-| [`lng_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/lng_charter_rates.csv) | LNG 7Y/10Y TC Rates ($/day) & Newbuilding Prices ($M) from Fearnleys API | 2017-01-05 | ~513 | `date, lngc_174k_7y_tc, lngc_174k_10y_tc, lngc_80k_nb_price, lngc_30k_nb_price, lngc_7k_nb_price` |
-| [`lpg_spot_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/lpg_spot_rates.csv) | LPG Spot Rates ($/day) from Fearnleys API | 2004-01-07 | ~1,152 | `date, vlgc_spot, mgc_spot` |
-| [`vessel_valuations.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/vessel_valuations.csv) | S&P Secondhand 5Y/10Y Prices & Newbuilding Prices ($M) from Fearnleys | 1970-12-01 | ~20,499 | `date, category, tenor_type, vessel_class, valuation_usd_m` |
-| [`scrappage_prices.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/scrappage_prices.csv) | Demolition/scrap prices by country ($/LDT) parsed via AnyDoc OCR engine | 2021-07-03 | ~377 | `date, dry_india, dry_bangla, dry_pak, dry_turkey, tanker_india, tanker_bangla, tanker_pak, container_india` |
-| [`alibra_tce_matrix.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/alibra_tce_matrix.json) | **Live Period TCE Rate Matrix** — weekly benchmark rates across Dry Bulk (Atl/Pac) and Tanker classes with multi-horizon momentum (`1W WoW`, `1M MoM`, `1Y YoY`), 52-week SVG trend sparklines, 10-year historical cycle percentile ranks (2016–2026), Atlantic vs Pacific basin spreads, and Eco fuel efficiency premiums | Live | 11 Classes | `report_date, dry_bulk: [size, 6M/1Y/2Y (Atl/Pac), sparkline_52w, pctile_10y, basin_spread_1y, mom_1w/1m/1y], tankers: [size, 1Y/2Y/3Y/5Y, sparkline_52w, pctile_10y, eco_premium_day, curve_slope_3y, mom_1w/1m/1y]` |
-| [`fearnleys_catalog.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/fearnleys_catalog.csv) | Catalog of all route metrics, subtypes, & counts available in Fearnleys Hasura API | — | ~356 | `id, unit, rate_type, rate_subtype, route, count, min_date, max_date` |
-| [`iron_ore_restocking.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/iron_ore_restocking.csv) | Iron Ore Price vs Port Stocks & Freight | 2018-07-03 | ~1,244 | `Date, iron_ore_cfr_62, qingdao_port_inventory, cape_spot_tce, ratio_score` |
-| [`macro_health_score_backtest.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/macro_health_score_backtest.csv) | **Historical Macro Heat Score & Regime Backtest (v2 engine)** — point-in-time 5-pillar composite scores with percentile diagnostics and multi-horizon forward returns (1W, 1M, 3M, 6M) across daily freight history | 2018-03-22 | ~1,984 | `date, bdi, bdry, p1_momentum, p2_term_structure, p3_futures_basis, p4_port_restock, p4_inv_pctl, p5_asset_safety, p5_margin_pctl, total_score, regime, input_staleness_*, any_input_stale, bdi_fwd_1W, bdry_fwd_1W, bdi_fwd_1M, bdry_fwd_1M, bdi_fwd_3M, bdry_fwd_3M, bdi_fwd_6M, bdry_fwd_6M` |
+| [`time_charter_rates.csv`](data/derived/time_charter_rates.csv) | **Merged** Weekly TC Rates ($/day) — Fearnleys pre-2021 + Alibra Deep Archive (2008–2026) + Alibra weekly feed | 2000-01-05 | ~2,083 | `date, source` + 64 rate columns (66 cols total) spanning 4/6M, 1Y, 2Y, 3Y, 5Y across Dry Bulk (Atl/Pac), Crude, Product, and Handy Tankers. `source` = `fearnleys`, `alibra_archive`, `alibra_ocr` |
+| [`tanker_forward_curves.csv`](data/derived/tanker_forward_curves.csv) | **Tanker FFA Forward Curves** — 22-month forward term structure across 12 tanker routes | 2026-08-12 | ~22 | `snapshot_date, forward_month, contract_label, vlcc_td3c, vlcc_eco_td3c, suezmax_td20, aframax_td25, lr1_tc5, lr1_eco_tc5, mr_tc2, mr_eco_tc2, mr_tc14, mr_eco_tc14, mr_tc6, mr_triangulation` |
+| [`tanker_forward_curves_history.csv`](data/derived/tanker_forward_curves_history.csv) | **Tanker Forward History Accumulator** — persistent multi-snapshot forward curve time series | 2026-08-12 | Accumulating | `snapshot_date, forward_month, contract_label` + 12 forward TCE route columns |
+| [`time_charter_rates_fearnleys.csv`](data/derived/time_charter_rates_fearnleys.csv) | **Fearnleys-only** TC Rates — single-source reference for cross-validation | 2000-01-05 | ~1,595 | `date, capesize_1y_avg, panamax_1y_avg, supramax_1y_avg, handysize_1y_avg, vlcc_1y, suezmax_1y, aframax_1y` |
+| [`intermodal_tc_rates.csv`](data/derived/intermodal_tc_rates.csv) | **Intermodal** Weekly TC Rates ($/day) — fills MR, LR1, Handysize & 3Y period gaps | 2025-03-07 | ~43 | `date, source` + 20 rate columns (`mr_1y_tc`, `mr_3y_tc`, `lr1_1y_tc`, `lr1_3y_tc`, 3Y dry/wet period rates) |
+| [`lpg_charter_rates.csv`](data/derived/lpg_charter_rates.csv) | LPG 1Y TC Rates ($/month) from Fearnleys API | 2019-07-01 | ~359 | `date, vlgc_84k_tc, mgc_38k_tc, hdy_22k_tc` |
+| [`lng_charter_rates.csv`](data/derived/lng_charter_rates.csv) | LNG 7Y/10Y TC Rates ($/day) & Newbuilding Prices ($M) from Fearnleys API | 2017-01-05 | ~513 | `date, lngc_174k_7y_tc, lngc_174k_10y_tc, lngc_80k_nb_price, lngc_30k_nb_price, lngc_7k_nb_price` |
+| [`lpg_spot_rates.csv`](data/derived/lpg_spot_rates.csv) | LPG Spot Rates ($/day) from Fearnleys API | 2004-01-07 | ~1,152 | `date, vlgc_spot, mgc_spot` |
+| [`vessel_valuations.csv`](data/derived/vessel_valuations.csv) | S&P Secondhand 5Y/10Y Prices & Newbuilding Prices ($M) from Fearnleys | 1970-12-01 | ~20,499 | `date, category, tenor_type, vessel_class, valuation_usd_m` |
+| [`scrappage_prices.csv`](data/derived/scrappage_prices.csv) | Demolition/scrap prices by country ($/LDT) parsed via AnyDoc OCR engine | 2021-07-03 | ~377 | `date, dry_india, dry_bangla, dry_pak, dry_turkey, tanker_india, tanker_bangla, tanker_pak, container_india` |
+| [`alibra_tce_matrix.json`](data/derived/alibra_tce_matrix.json) | **Live Period TCE Rate Matrix** — weekly benchmark rates across Dry Bulk (Atl/Pac) and Tanker classes with multi-horizon momentum (`1W WoW`, `1M MoM`, `1Y YoY`), 52-week SVG trend sparklines, 10-year historical cycle percentile ranks (2016–2026), Atlantic vs Pacific basin spreads, and Eco fuel efficiency premiums | Live | 11 Classes | `report_date, dry_bulk: [size, 6M/1Y/2Y (Atl/Pac), sparkline_52w, pctile_10y, basin_spread_1y, mom_1w/1m/1y], tankers: [size, 1Y/2Y/3Y/5Y, sparkline_52w, pctile_10y, eco_premium_day, curve_slope_3y, mom_1w/1m/1y]` |
+| [`fearnleys_catalog.csv`](data/derived/fearnleys_catalog.csv) | Catalog of all route metrics, subtypes, & counts available in Fearnleys Hasura API | — | ~356 | `id, unit, rate_type, rate_subtype, route, count, min_date, max_date` |
+| [`iron_ore_restocking.csv`](data/derived/iron_ore_restocking.csv) | Iron Ore Price vs Port Stocks & Freight | 2018-07-03 | ~1,244 | `Date, iron_ore_cfr_62, qingdao_port_inventory, cape_spot_tce, ratio_score` |
+| [`macro_health_score_backtest.csv`](data/derived/macro_health_score_backtest.csv) | **Historical Macro Heat Score & Regime Backtest (v2 engine)** — point-in-time 5-pillar composite scores with percentile diagnostics and multi-horizon forward returns (1W, 1M, 3M, 6M) across daily freight history | 2018-03-22 | ~1,984 | `date, bdi, bdry, p1_momentum, p2_term_structure, p3_futures_basis, p4_port_restock, p4_inv_pctl, p5_asset_safety, p5_margin_pctl, total_score, regime, input_staleness_*, any_input_stale, bdi_fwd_1W, bdry_fwd_1W, bdi_fwd_1M, bdry_fwd_1M, bdi_fwd_3M, bdry_fwd_3M, bdi_fwd_6M, bdry_fwd_6M` |
 
 > [!NOTE]
 > **Dual-Source TC Rates**: The merged file contains data from two brokers with a ~8% median divergence in the overlap period. The `source` column identifies the broker. The Fearnleys-only file provides a clean single-source reference for comparison. The dashboard offers a **Merged / Fearnleys / Both** toggle to visualize the divergence.
@@ -107,23 +107,23 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 
 | File Path | Type | Start Date | Rows | Content Summary |
 | :--- | :--- | :--- | :--- | :--- |
-| [`data/futures/bdryff_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/bdryff_history.csv) | Futures Index | 28-02-2010 | ~4,118 | Solactive BDRY Freight Futures Index history (`Date, Close`) |
-| [`data/futures/bwetff_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/bwetff_history.csv) | Futures Index | 22-12-2016 | ~2,419 | Solactive BWET Freight Futures Index history (`Date, Close`) |
-| [`data/futures/sgx_cape_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_cape_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Capesize FFA forward curves & settlement history |
-| [`data/futures/sgx_panamax_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_panamax_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Panamax FFA forward curves & settlement history |
-| [`data/futures/sgx_supramax_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_supramax_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Supramax FFA forward curves & settlement history |
-| [`data/futures/sgx_handysize_futures.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_handysize_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Handysize FFA forward curves & settlement history |
-| [`data/futures/sgx_*_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_cape_futures_history.csv) | **Full Contract Lives** (4 files) | 2022 | ~324,547 | Complete SGX FFA archive per contract (`contract, expiry_month, expiry_year, date, price, volume, open_interest, expiry_date`), rebuilt via `scripts/expansion_sgx_history_backfill.py --rebuild` & refreshed Mon–Thu. **Availability reality (verified at source)**: SGX publishes a settlement price only on sessions that actually cleared (~7 traded days per typical life; labels in the frontend Contract Archive show each contract's count), redacts lookback prices outside its entitlement window even where trades occurred, and serves volume/open-interest full-depth back to 2022 regardless — so the archive is a complete *activity* record with prices wherever they exist. Daily price granularity from Mar 2026 onward comes from our own live collection. Surfaced via the **Contract Archive** selector on the SGX FFA Forward Curve — lazy-loaded per vessel class (~2–7 MB), then session-cached. |
-| [`data/etf/bdry_holdings.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bdry_holdings.csv) | Daily Holdings | Live | ~21 | BDRY FFA contract holdings (Capesize, Panamax, Supramax 5TC) |
-| [`data/etf/bwet_holdings.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bwet_holdings.csv) | Daily Holdings | Live | ~15 | BWET FFA contract holdings (TD3C VLCC & TD20 Suezmax) |
-| [`data/etf/bdry_holdings_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bdry_holdings_history.csv) | Historical Holdings | Live | ~350 | Daily historical disclosures of BDRY ETF FFA contract positions |
-| [`data/etf/bwet_holdings_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bwet_holdings_history.csv) | Historical Holdings | Live | ~350 | Daily historical disclosures of BWET ETF FFA contract positions |
-| [`data/etf/snapshots/scenario_snapshots.js`](file:///c:/Users/Dell/Github/Shipping/data/etf/snapshots/scenario_snapshots.js) | Snapshot Bundle | Live | — | Cryptographically verified canonical scenario snapshot bundle for BDRY & BWET |
-| [`data/etf/snapshots/provenance_manifest.json`](file:///c:/Users/Dell/Github/Shipping/data/etf/snapshots/provenance_manifest.json) | Audit Manifest | Live | — | Immutable SHA-256 cryptographic provenance registry and hash audit trail |
-| [`data/etf/BDRY_flows.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/BDRY_flows.csv) | Fund Flows | 23-03-2018 | ~2,088 | Daily flow $, Net Shares, NAV, AUM history for BDRY ETF |
-| [`data/etf/BWET_flows.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/BWET_flows.csv) | Fund Flows | 04-05-2023 | ~808 | Daily flow $, Net Shares, NAV, AUM history for BWET ETF |
-| [`data/flows/all_flows_summary.json`](file:///c:/Users/Dell/Github/Shipping/data/flows/all_flows_summary.json) | JSON Summary | Live | — | Unified JSON payload containing synced ETF flow metrics |
-| [`data/etf/bdry_liquidity.csv`](file:///c:/Users/Dell/Github/Shipping/data/etf/bdry_liquidity.csv) | Liquidity | 22-03-2018 | ~2,096 | Daily Close, Volume, Dollar Value Traded, Tier, Safe Liquidity $ |
+| [`data/futures/bdryff_history.csv`](data/futures/bdryff_history.csv) | Futures Index | 28-02-2010 | ~4,118 | Solactive BDRY Freight Futures Index history (`Date, Close`) |
+| [`data/futures/bwetff_history.csv`](data/futures/bwetff_history.csv) | Futures Index | 22-12-2016 | ~2,419 | Solactive BWET Freight Futures Index history (`Date, Close`) |
+| [`data/futures/sgx_cape_futures.csv`](data/futures/sgx_cape_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Capesize FFA forward curves & settlement history |
+| [`data/futures/sgx_panamax_futures.csv`](data/futures/sgx_panamax_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Panamax FFA forward curves & settlement history |
+| [`data/futures/sgx_supramax_futures.csv`](data/futures/sgx_supramax_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Supramax FFA forward curves & settlement history |
+| [`data/futures/sgx_handysize_futures.csv`](data/futures/sgx_handysize_futures.csv) | Curve Data | 05-03-2026 | ~3,000 | SGX Handysize FFA forward curves & settlement history |
+| [`data/futures/sgx_*_futures_history.csv`](data/futures/sgx_cape_futures_history.csv) | **Full Contract Lives** (4 files) | 2022 | ~324,547 | Complete SGX FFA archive per contract (`contract, expiry_month, expiry_year, date, price, volume, open_interest, expiry_date`), rebuilt via `scripts/expansion_sgx_history_backfill.py --rebuild` & refreshed Mon–Thu. **Availability reality (verified at source)**: SGX publishes a settlement price only on sessions that actually cleared (~7 traded days per typical life; labels in the frontend Contract Archive show each contract's count), redacts lookback prices outside its entitlement window even where trades occurred, and serves volume/open-interest full-depth back to 2022 regardless — so the archive is a complete *activity* record with prices wherever they exist. Daily price granularity from Mar 2026 onward comes from our own live collection. Surfaced via the **Contract Archive** selector on the SGX FFA Forward Curve — lazy-loaded per vessel class (~2–7 MB), then session-cached. |
+| [`data/etf/bdry_holdings.csv`](data/etf/bdry_holdings.csv) | Daily Holdings | Live | ~21 | BDRY FFA contract holdings (Capesize, Panamax, Supramax 5TC) |
+| [`data/etf/bwet_holdings.csv`](data/etf/bwet_holdings.csv) | Daily Holdings | Live | ~15 | BWET FFA contract holdings (TD3C VLCC & TD20 Suezmax) |
+| [`data/etf/bdry_holdings_history.csv`](data/etf/bdry_holdings_history.csv) | Historical Holdings | Live | ~350 | Daily historical disclosures of BDRY ETF FFA contract positions |
+| [`data/etf/bwet_holdings_history.csv`](data/etf/bwet_holdings_history.csv) | Historical Holdings | Live | ~350 | Daily historical disclosures of BWET ETF FFA contract positions |
+| [`data/etf/snapshots/scenario_snapshots.js`](data/etf/snapshots/scenario_snapshots.js) | Snapshot Bundle | Live | — | Cryptographically verified canonical scenario snapshot bundle for BDRY & BWET |
+| [`data/etf/snapshots/provenance_manifest.json`](data/etf/snapshots/provenance_manifest.json) | Audit Manifest | Live | — | Immutable SHA-256 cryptographic provenance registry and hash audit trail |
+| [`data/etf/BDRY_flows.csv`](data/etf/BDRY_flows.csv) | Fund Flows | 23-03-2018 | ~2,088 | Daily flow $, Net Shares, NAV, AUM history for BDRY ETF |
+| [`data/etf/BWET_flows.csv`](data/etf/BWET_flows.csv) | Fund Flows | 04-05-2023 | ~808 | Daily flow $, Net Shares, NAV, AUM history for BWET ETF |
+| [`data/flows/all_flows_summary.json`](data/flows/all_flows_summary.json) | JSON Summary | Live | — | Unified JSON payload containing synced ETF flow metrics |
+| [`data/etf/bdry_liquidity.csv`](data/etf/bdry_liquidity.csv) | Liquidity | 22-03-2018 | ~2,096 | Daily Close, Volume, Dollar Value Traded, Tier, Safe Liquidity $ |
 
 ### 2.5 Expansion Collectors (`data/congestion/`, `data/macro/`, `data/bunkers/`)
 
@@ -131,10 +131,10 @@ Mon–Thu 05:00 UTC via `.github/workflows/data_expansion.yml` (idempotent upser
 
 | File Path | Description | Coverage | Source |
 | :--- | :--- | :--- | :--- |
-| [`data/congestion/chokepoint_transits_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/chokepoint_transits_daily.csv) | Daily transits across 28 maritime chokepoints by vessel class (Suez, Panama, Bosporus, Malacca, ...) | 2019 → live (~78k rows) | IMF PortWatch ArcGIS (`expansion_portwatch.py`) |
-| [`data/congestion/port_calls_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/port_calls_daily.csv) | Daily port-call volumes for curated major ports by segment | rolling window | IMF PortWatch ArcGIS (`expansion_portwatch.py`) |
-| [`data/macro/commodities_monthly.csv`](file:///c:/Users/Dell/Github/Shipping/data/macro/commodities_monthly.csv) | World Bank Pink Sheet monthly commodity prices + CMO indices — iron ore / coal / crude / natgas / grains / metals, the core cargo-demand drivers behind dry bulk & tanker freight. Rendered on the Signals tab as **Cargo Demand Drivers** (Ore & Coal / Energy / Grains / Base Metals / WB Indices groups, USD vs rolling % vs 5Y-ago view, 5Y/10Y/MAX windows). Series the Pink Sheet no longer publishes are auto-dropped from the schema. | 1960 → current month−1 (monthly) | World Bank CMO xlsx (`expansion_worldbank_pinksheet.py`) |
-| [`data/bunkers/bunker_prices_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/bunkers/bunker_prices_daily.csv) | Bunker fuel prices ($/mt): VLSFO / MGO / IFO380 across global & regional averages plus 8 major hubs | daily snapshots accumulate | Ship & Bunker (`expansion_bunker_prices.py`) |
+| [`data/congestion/chokepoint_transits_daily.csv`](data/congestion/chokepoint_transits_daily.csv) | Daily transits across 28 maritime chokepoints by vessel class (Suez, Panama, Bosporus, Malacca, ...) | 2019 → live (~78k rows) | IMF PortWatch ArcGIS (`expansion_portwatch.py`) |
+| [`data/congestion/port_calls_daily.csv`](data/congestion/port_calls_daily.csv) | Daily port-call volumes for curated major ports by segment | rolling window | IMF PortWatch ArcGIS (`expansion_portwatch.py`) |
+| [`data/macro/commodities_monthly.csv`](data/macro/commodities_monthly.csv) | World Bank Pink Sheet monthly commodity prices + CMO indices — iron ore / coal / crude / natgas / grains / metals, the core cargo-demand drivers behind dry bulk & tanker freight. Rendered on the Signals tab as **Cargo Demand Drivers** (Ore & Coal / Energy / Grains / Base Metals / WB Indices groups, USD vs rolling % vs 5Y-ago view, 5Y/10Y/MAX windows). Series the Pink Sheet no longer publishes are auto-dropped from the schema. | 1960 → current month−1 (monthly) | World Bank CMO xlsx (`expansion_worldbank_pinksheet.py`) |
+| [`data/bunkers/bunker_prices_daily.csv`](data/bunkers/bunker_prices_daily.csv) | Bunker fuel prices ($/mt): VLSFO / MGO / IFO380 across global & regional averages plus 8 major hubs | daily snapshots accumulate | Ship & Bunker (`expansion_bunker_prices.py`) |
 
 > [!NOTE]
 > **Retired targets** (removed after source access was lost): OPEC MOMR
@@ -146,12 +146,12 @@ Mon–Thu 05:00 UTC via `.github/workflows/data_expansion.yml` (idempotent upser
 
 | File Path | Document Type | Description |
 | :--- | :--- | :--- |
-| [`docs/DATASETS.md`](file:///c:/Users/Dell/Github/Shipping/docs/DATASETS.md) | Data Inventory | Master inventory and health monitoring reference for all 51+ CSV/JSON datasets |
-| [`docs/Amplify_BDRY_Prospectus.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BDRY_Prospectus.pdf) | Prospectus | Official statutory prospectus for Amplify BDRY ETF detailing Solactive index rules and roll schedules |
-| [`docs/Amplify_BDRY_FactSheet.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BDRY_FactSheet.pdf) | Factsheet | Official fund factsheet detailing BDRY benchmark weightings (50% Cape / 40% Pana / 10% Supra) |
-| [`docs/Amplify_BWET_Prospectus.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BWET_Prospectus.pdf) | Prospectus | Official statutory prospectus for Amplify BWET ETF detailing Breakwave Wet Freight Futures Index rules |
-| [`docs/Amplify_BWET_FactSheet.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/Amplify_BWET_FactSheet.pdf) | Factsheet | Official fund factsheet detailing BWET benchmark weightings (90% TD3C VLCC / 10% TD20 Suezmax) |
-| [`docs/BDRY-BWET_Form10-Q_March-31-2026.pdf`](file:///c:/Users/Dell/Github/Shipping/docs/BDRY-BWET_Form10-Q_March-31-2026.pdf) | SEC Filing | Form 10-Q Quarterly Report for Breakwave Trust filed with the SEC containing audited holdings & financial disclosures |
+| [`docs/DATASETS.md`](docs/DATASETS.md) | Data Inventory | Master inventory and health monitoring reference for all 102 rendered datasets |
+| [`docs/Amplify_BDRY_Prospectus.pdf`](docs/Amplify_BDRY_Prospectus.pdf) | Prospectus | Official statutory prospectus for Amplify BDRY ETF detailing Solactive index rules and roll schedules |
+| [`docs/Amplify_BDRY_FactSheet.pdf`](docs/Amplify_BDRY_FactSheet.pdf) | Factsheet | Official fund factsheet detailing BDRY benchmark weightings (50% Cape / 40% Pana / 10% Supra) |
+| [`docs/Amplify_BWET_Prospectus.pdf`](docs/Amplify_BWET_Prospectus.pdf) | Prospectus | Official statutory prospectus for Amplify BWET ETF detailing Breakwave Wet Freight Futures Index rules |
+| [`docs/Amplify_BWET_FactSheet.pdf`](docs/Amplify_BWET_FactSheet.pdf) | Factsheet | Official fund factsheet detailing BWET benchmark weightings (90% TD3C VLCC / 10% TD20 Suezmax) |
+| [`docs/BDRY-BWET_Form10-Q_March-31-2026.pdf`](docs/BDRY-BWET_Form10-Q_March-31-2026.pdf) | SEC Filing | Form 10-Q Quarterly Report for Breakwave Trust filed with the SEC containing audited holdings & financial disclosures |
 
 ### 2.7 Upstream Physical Commodity Flows, Port Bottlenecks & Carbon Regimes (`data/commodities/`, `data/congestion/`, `data/derived/`)
 
@@ -159,16 +159,16 @@ Ingested weekly/monthly from official primary authorities (Brazil MDIC ComexStat
 
 | File Path | Description | Start Date | Rows | Primary Schema / Columns | Source / Authority |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|| [`data/commodities/brazil_comexstat_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/brazil_comexstat_exports.csv) | Brazilian monthly seaborne exports for Iron Ore (NCM 26011100), Crude Oil (27090010), Soybeans (1201*), Raw Sugar (1701*) — **Build C (1997-live, year-by-year):** every value server-returned from the live API (2026-08-25 rebuild); the 92-row 2024+ window is retained as the recent slice | 1997-01-01 → live (year-by-year, Build C) | 1997-live (92-row 2024+ recent slice retained) | `date, year, month, commodity, ncm, metric_tonnes, fob_usd` | Brazilian MDIC / SECEX (`fetch_comexstat_brazil.py`) |
-| [`data/commodities/australia_ppa_iron_ore.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_ppa_iron_ore.csv) | Pilbara Ports Authority monthly iron-ore throughput for Port Hedland, parsed from official PPA cargo-statistics PDFs via the Internet Archive Wayback Machine. **REAL (live_ppa_archive)**: 15 months of measured Port Hedland loadings (2020-10 → 2024-05) with per-destination splits (China / Korea / Japan / Other). Coverage is bounded by what PPA published as machine-readable destination-origin PDFs — not a continuous series. | 2020-10-01 | 15 | `date, port, total_throughput_mt, iron_ore_exports_mt, destinations_t, mom_pct, yoy_pct, provenance` | Pilbara Ports Authority (`fetch_ppa_iron_ore.py`) — Wayback PDF parse |
-| [`data/commodities/major_miners_quarterly_shipments.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/major_miners_quarterly_shipments.csv) | Quarterly shipment run rates & C1 cash costs for Vale, Rio Tinto, BHP, Fortescue (FMG). **DIAGNOSTIC**: values are editorial estimates pending a live IR-feed scraper — flagged `provenance=editorial_estimate_diagnostic`, not verified against corporate filings, and surfaced as indicative only in the UI. | 2024-Q1 | 40 | `date, quarter, miner, production_mt, shipments_mt, c1_cash_cost_usd_t, annual_guidance, primary_loading_terminals, provenance` | Corporate Production Filings (`fetch_major_miners_production.py`) |
-| [`data/commodities/us_eia_weekly_crude_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/us_eia_weekly_crude_exports.csv) | US Gulf Coast (PADD 3) & Total US weekly crude and petroleum exports with 4W MA — **Build C:** `EIA_API_KEY` required for 1991-live depth; without a key the existing real 2017+ file is kept as-is (no synthetic fallback) | 1991-01-01 → live (with key; else real 2017+ kept, no synthetic, Build C) | 1991-live with key, else 2017+ (~500 recent rows) | `date, us_total_crude_exports_kbpd, padd3_gulf_crude_exports_kbpd, us_total_petroleum_exports_kbpd, crude_4w_avg_kbpd, petro_4w_avg_kbpd` | US EIA Weekly Status Report (`fetch_eia_petroleum_exports.py`) |
-| [`data/commodities/un_comtrade_guinea_bauxite.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/un_comtrade_guinea_bauxite.csv) | Bilateral monthly Guinea-to-China bauxite seaborne export volumes (HS 260600) | 2024-01-01 | 32 | `date, period, commodity, hs_code, reporter, partner, import_volume_mt, cif_usd, avg_cif_usd_t` | UN Comtrade v1 Data API (`fetch_un_comtrade_bauxite.py`) |
-| [`data/congestion/portwatch_port_congestion.csv`](file:///c:/Users/Dell/Github/Shipping/data/congestion/portwatch_port_congestion.csv) | Daily measured port activity across Core12 hubs (Qingdao, Ningbo, Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao + All aggregate): port calls (total / dry bulk / tanker / container) and dry-bulk & tanker import/export tonnages (kt). **2026-08-25 audit:** the previous waiting-times/anchored-counts series was found to be simulated and has been withdrawn; only fields actually published by IMF PortWatch are stored. | 2019-01-01 → live (19,523 rows) | `date, portid, portname, country, hub_code, daily_port_calls_total, daily_port_calls_dry_bulk, daily_port_calls_tanker, daily_port_calls_container, import_dry_bulk_kt, export_dry_bulk_kt, import_tanker_kt, export_tanker_kt` | IMF PortWatch ArcGIS `Daily_Ports_Data` FeatureServer (`fetch_portwatch_port_activity.py`) — real observations only, no synthetic waiting times. |
-| [`data/derived/eu_ets_carbon_daily.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/eu_ets_carbon_daily.csv) | Daily EU ETS EUA carbon allowance spot (€/t CO2), Hi-5 fuel spreads ($/MT), and scrubber savings. **Backfilled 2026-08-26 from ICAP's official Allowance Price Explorer** (2,988 real daily EUA prices, 2010 → 2026-06); live daily Hi-5 bunker spreads join where Ship & Bunker data exists. `provenance=icap_ape_eu_ets_daily`. | 2010-01-05 | 2,988 | `date, eua_carbon_price_eur_tco2, source_created_at, singapore_vlsfo_usd_mt, singapore_hsfo_usd_mt, singapore_hi5_spread_usd_mt, rotterdam_hi5_spread_usd_mt, houston_hi5_spread_usd_mt, capesize_scrubber_savings_usd_day, vlcc_scrubber_savings_usd_day, capesize_eu_ets_surcharge_usd_day, provenance` | ICAP Allowance Price Explorer + Ship & Bunker (`backfill_eu_ets_icap.py`, `fetch_eu_ets_carbon.py`) |
-| [`data/commodities/newcastle_coal_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/newcastle_coal_exports.csv) | Monthly coal export throughput for Port of Newcastle (real TfNSW opendata XLSX, 2018-01 → 2026-07). **Note:** the README previously listed Dalrymple Bay (DBCT) and Gladstone — those ports are not yet in this feed; only Newcastle is covered. | 2018-01-01 | 103 | `date, port, export_tonnes_mt, coal_grade, vessels_loaded_count, primary_destinations` | Port of Newcastle / TfNSW opendata (`fetch_newcastle_coal.py`) |
-| [`data/commodities/australia_req_commodity_exports.csv`](file:///c:/Users/Dell/Github/Shipping/data/commodities/australia_req_commodity_exports.csv) | Australian Resources & Energy Quarterly (REQ) historical exports. **REAL (1990-Q1 → 2026-Q1, 725 rows)** parsed from the DISR REQ workbook; a repo-tracked copy is committed so CI never loses the series on a network outage. | 1990-03-01 | 725 | `date, quarter, commodity, export_volume_mt, export_value_aud_b, primary_vessel_class, provenance` | Australian DISR REQ (`fetch_australia_req.py`) |
-| [`data/derived/ton_mile_utilization_matrix.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/ton_mile_utilization_matrix.csv) | **DIAGNOSTIC** Capesize-only global monthly ton-mile absorption and active fleet utilization (the quantitative engine currently publishes Capesize only; VLCC/Suezmax rows are emitted when the model produces them). **Mechanism:** Guinea→China 11,200 nm absorbs **3.11x** more DWT-days per tonne than WAus→China (3,600 nm); Brazil→China 11,000 nm (3.06x). **Provenance:** Brazil live (ComexStat), Guinea live (UN Comtrade), WAus fixed 48 Mt/mo assumption, 815 Bn Ton-NM corridor capacity — see `scripts/scrapers/generate_ton_mile_matrix.py`. | 2024-01-01 | 32 | `date, cape_waus_ore_mt, cape_brazil_ore_mt, cape_guinea_bauxite_mt, cape_total_ton_miles_bn, cape_fleet_utilization_pct, model_disclosed` | Quantitative Ton-Mile Engine (`generate_ton_mile_matrix.py`) |
+|| [`data/commodities/brazil_comexstat_exports.csv`](data/commodities/brazil_comexstat_exports.csv) | Brazilian monthly seaborne exports for Iron Ore (NCM 26011100), Crude Oil (27090010), Soybeans (1201*), Raw Sugar (1701*) — **Build C (1997-live, year-by-year):** every value server-returned from the live API (2026-08-25 rebuild); the 92-row 2024+ window is retained as the recent slice | 1997-01-01 → live (year-by-year, Build C) | 1997-live (92-row 2024+ recent slice retained) | `date, year, month, commodity, ncm, metric_tonnes, fob_usd` | Brazilian MDIC / SECEX (`fetch_comexstat_brazil.py`) |
+| [`data/commodities/australia_ppa_iron_ore.csv`](data/commodities/australia_ppa_iron_ore.csv) | Pilbara Ports Authority monthly iron-ore throughput for Port Hedland, parsed from official PPA cargo-statistics PDFs via the Internet Archive Wayback Machine. **REAL (live_ppa_archive)**: 15 months of measured Port Hedland loadings (2020-10 → 2024-05) with per-destination splits (China / Korea / Japan / Other). Coverage is bounded by what PPA published as machine-readable destination-origin PDFs — not a continuous series. | 2020-10-01 | 15 | `date, port, total_throughput_mt, iron_ore_exports_mt, destinations_t, mom_pct, yoy_pct, provenance` | Pilbara Ports Authority (`fetch_ppa_iron_ore.py`) — Wayback PDF parse |
+| [`data/commodities/major_miners_quarterly_shipments.csv`](data/commodities/major_miners_quarterly_shipments.csv) | Quarterly shipment run rates & C1 cash costs for Vale, Rio Tinto, BHP, Fortescue (FMG). **DIAGNOSTIC**: values are editorial estimates pending a live IR-feed scraper — flagged `provenance=editorial_estimate_diagnostic`, not verified against corporate filings, and surfaced as indicative only in the UI. | 2024-Q1 | 40 | `date, quarter, miner, production_mt, shipments_mt, c1_cash_cost_usd_t, annual_guidance, primary_loading_terminals, provenance` | Corporate Production Filings (`fetch_major_miners_production.py`) |
+| [`data/commodities/us_eia_weekly_crude_exports.csv`](data/commodities/us_eia_weekly_crude_exports.csv) | US Gulf Coast (PADD 3) & Total US weekly crude and petroleum exports with 4W MA — **Build C:** `EIA_API_KEY` required for 1991-live depth; without a key the existing real 2017+ file is kept as-is (no synthetic fallback) | 1991-01-01 → live (with key; else real 2017+ kept, no synthetic, Build C) | 1991-live with key, else 2017+ (~500 recent rows) | `date, us_total_crude_exports_kbpd, padd3_gulf_crude_exports_kbpd, us_total_petroleum_exports_kbpd, crude_4w_avg_kbpd, petro_4w_avg_kbpd` | US EIA Weekly Status Report (`fetch_eia_petroleum_exports.py`) |
+| [`data/commodities/un_comtrade_guinea_bauxite.csv`](data/commodities/un_comtrade_guinea_bauxite.csv) | Bilateral monthly Guinea-to-China bauxite seaborne export volumes (HS 260600) | 2024-01-01 | 32 | `date, period, commodity, hs_code, reporter, partner, import_volume_mt, cif_usd, avg_cif_usd_t` | UN Comtrade v1 Data API (`fetch_un_comtrade_bauxite.py`) |
+| [`data/congestion/portwatch_port_congestion.csv`](data/congestion/portwatch_port_congestion.csv) | Daily measured port activity across Core12 hubs (Qingdao, Ningbo, Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao + All aggregate): port calls (total / dry bulk / tanker / container) and dry-bulk & tanker import/export tonnages (kt). **2026-08-25 audit:** the previous waiting-times/anchored-counts series was found to be simulated and has been withdrawn; only fields actually published by IMF PortWatch are stored. | 2019-01-01 → live (19,523 rows) | `date, portid, portname, country, hub_code, daily_port_calls_total, daily_port_calls_dry_bulk, daily_port_calls_tanker, daily_port_calls_container, import_dry_bulk_kt, export_dry_bulk_kt, import_tanker_kt, export_tanker_kt` | IMF PortWatch ArcGIS `Daily_Ports_Data` FeatureServer (`fetch_portwatch_port_activity.py`) — real observations only, no synthetic waiting times. |
+| [`data/derived/eu_ets_carbon_daily.csv`](data/derived/eu_ets_carbon_daily.csv) | Daily EU ETS EUA carbon allowance spot (€/t CO2), Hi-5 fuel spreads ($/MT), and scrubber savings. **Backfilled 2026-08-26 from ICAP's official Allowance Price Explorer** (2,988 real daily EUA prices, 2010 → 2026-06); live daily Hi-5 bunker spreads join where Ship & Bunker data exists. `provenance=icap_ape_eu_ets_daily`. | 2010-01-05 | 2,988 | `date, eua_carbon_price_eur_tco2, source_created_at, singapore_vlsfo_usd_mt, singapore_hsfo_usd_mt, singapore_hi5_spread_usd_mt, rotterdam_hi5_spread_usd_mt, houston_hi5_spread_usd_mt, capesize_scrubber_savings_usd_day, vlcc_scrubber_savings_usd_day, capesize_eu_ets_surcharge_usd_day, provenance` | ICAP Allowance Price Explorer + Ship & Bunker (`backfill_eu_ets_icap.py`, `fetch_eu_ets_carbon.py`) |
+| [`data/commodities/newcastle_coal_exports.csv`](data/commodities/newcastle_coal_exports.csv) | Monthly coal export throughput for Port of Newcastle (real TfNSW opendata XLSX, 2018-01 → 2026-07). **Note:** the README previously listed Dalrymple Bay (DBCT) and Gladstone — those ports are not yet in this feed; only Newcastle is covered. | 2018-01-01 | 103 | `date, port, export_tonnes_mt, coal_grade, vessels_loaded_count, primary_destinations` | Port of Newcastle / TfNSW opendata (`fetch_newcastle_coal.py`) |
+| [`data/commodities/australia_req_commodity_exports.csv`](data/commodities/australia_req_commodity_exports.csv) | Australian Resources & Energy Quarterly (REQ) historical exports. **REAL (1990-Q1 → 2026-Q1, 725 rows)** parsed from the DISR REQ workbook; a repo-tracked copy is committed so CI never loses the series on a network outage. | 1990-03-01 | 725 | `date, quarter, commodity, export_volume_mt, export_value_aud_b, primary_vessel_class, provenance` | Australian DISR REQ (`fetch_australia_req.py`) |
+| [`data/derived/ton_mile_utilization_matrix.csv`](data/derived/ton_mile_utilization_matrix.csv) | **DIAGNOSTIC** Capesize-only global monthly ton-mile absorption and active fleet utilization (the quantitative engine currently publishes Capesize only; VLCC/Suezmax rows are emitted when the model produces them). **Mechanism:** Guinea→China 11,200 nm absorbs **3.11x** more DWT-days per tonne than WAus→China (3,600 nm); Brazil→China 11,000 nm (3.06x). **Provenance:** Brazil live (ComexStat), Guinea live (UN Comtrade), WAus fixed 48 Mt/mo assumption, 815 Bn Ton-NM corridor capacity — see `scripts/scrapers/generate_ton_mile_matrix.py`. | 2024-01-01 | 32 | `date, cape_waus_ore_mt, cape_brazil_ore_mt, cape_guinea_bauxite_mt, cape_total_ton_miles_bn, cape_fleet_utilization_pct, model_disclosed` | Quantitative Ton-Mile Engine (`generate_ton_mile_matrix.py`) |
 
 > [!NOTE]
 > **Spike guard (flag-only, no fabrication):** `scripts/check_data_spike_health.py` scans `data/derived/*.csv` + `data/commodities/*.csv` + `data/congestion/*.csv` (WoW >30%, 3-sigma vs prior 252, >15 flatline repeats) and appends flags to `knowledge/manifests/spike_queue.jsonl` — it never edits or deletes `data/`, and known P0s are flagged, not auto-corrected.
@@ -613,7 +613,7 @@ explicit volatility warnings, and the signal tooltip/legend document the audit.
 
 ## 5. Intelligence Knowledge Base Engine & RAG Architecture
 
-The repo embeds an incremental document processing compiler ([`scripts/process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py)) and browser-native retrieval augmented generation (RAG) assistant.
+The repo embeds an incremental document processing compiler ([`scripts/process_knowledge.py`](scripts/process_knowledge.py)) and browser-native retrieval augmented generation (RAG) assistant.
 
 ```
 knowledge/
@@ -702,65 +702,65 @@ The repository contains 150+ specialized Python modules across quantitative pric
 
 | Script Name | Size | Primary Role & Description |
 | :--- | :--- | :--- |
-| [`integrate_alibra_feed.py`](file:///c:/Users/Dell/Github/Shipping/scripts/integrate_alibra_feed.py) | 11.4 KB | Ingestion & harmonization engine for 2008–2026 deep historical archives, 22-month tanker forward curves, and weekly TCE tables. |
-| [`alibra_poller.py`](file:///c:/Users/Dell/Github/Shipping/scripts/alibra_poller.py) | 7.2 KB | Automated multi-daily Alibra Google Sheet poller with canonical date stamping, retries, and `--integrate` flag. |
-| [`extract_demolition_pdfs.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract_demolition_pdfs.py) | 12.8 KB | Multi-threaded Firecrawl AnyDoc OCR extraction pipeline recovering scrap prices across 1,040+ historical reports for India, Bangladesh, Pakistan, and Turkey. |
-| [`extract_iron_ore_pdfs.py`](file:///c:/Users/Dell/Github/Shipping/scripts/extract_iron_ore_pdfs.py) | 14.2 KB | Multi-threaded Firecrawl AnyDoc OCR parser for 2,226+ daily iron ore port reports across Chinese discharge terminals. |
-| [`process_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/process_knowledge.py) | 151.4 KB | Knowledge ingestion compiler, tree builder, chunking engine, AnyDoc OCR parser, LLM failover. Incremental derived builds (content-addressed caches), shard manifest + pre-built search indexes, structured-table-aware charter rescan. |
-| [`search_index_build.py`](file:///c:/Users/Dell/Github/Shipping/scripts/search_index_build.py) | 8.1 KB | Compiles per-shard BM25-ready posting indexes (`knowledge/chunks/search/*.idx.json`) so the browser Q&A ranks candidates without downloading/tokenizing raw shards. |
-| [`table_extract.py`](file:///c:/Users/Dell/Github/Shipping/scripts/table_extract.py) | 9.8 KB | Geometry-based structured table recovery from OCR word boxes (row clustering + column-gap detection) for image-backed Alibra/MMI market tables. |
-| [`generate_brief.py`](file:///c:/Users/Dell/Github/Shipping/scripts/generate_brief.py) | 94.4 KB | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer (Groq / NVIDIA NIM / OpenRouter cascade). |
-| [`validate_knowledge.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_knowledge.py) | 49.3 KB | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
-| [`thesis_scenario_builder.py`](file:///c:/Users/Dell/Github/Shipping/scripts/thesis_scenario_builder.py) | 42.6 KB | Authoritative Python ETF scenario builder executing 4-regime pricing & decision ticket translation. |
-| [`baltic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_scraper.py) | 32.7 KB | Selenium/HTTP scraper for Baltic Exchange reports and asset mirroring. |
-| [`update_etf_holdings.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_etf_holdings.py) | 28.6 KB | Amplify ETF holdings downloader, provenance registrar, and snapshot generator. |
-| [`decision_ticket_workflow.py`](file:///c:/Users/Dell/Github/Shipping/scripts/decision_ticket_workflow.py) | 26.5 KB | Core institutional decision ticket generation, route attribution, and risk disclosure engine. |
-| [`update_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/update_indices.py) | 24.6 KB | StockQ freight indices & SGX FFA futures curve scraper. |
-| [`hellenic_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/hellenic_scraper.py) | 24.3 KB | Hellenic Shipping News report & weekly TC rate table scraper. |
-| [`build_health_report.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_health_report.py) | 23.3 KB | Knowledge health, source cadence, and diagnostic report generator. |
-| [`scenario_snapshot_schema.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scenario_snapshot_schema.py) | 21.8 KB | Authoritative snapshot schema compiler & dynamic reverse-engineered shares generator. |
-| [`verify_acquisition_manifests.py`](file:///c:/Users/Dell/Github/Shipping/scripts/verify_acquisition_manifests.py) | 21.8 KB | Validates full provenance trail for all external source data files. |
-| [`build_wiki.py`](file:///c:/Users/Dell/Github/Shipping/scripts/build_wiki.py) | 20.3 KB | Topic evidence scoring and automated markdown wiki page builder. |
-| [`provenance_manifest_manager.py`](file:///c:/Users/Dell/Github/Shipping/scripts/provenance_manifest_manager.py) | 19.8 KB | Immutable SHA-256 provenance manifest registry and content hash auditor. |
-| [`breakwave_insights_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_insights_scraper.py) | 18.4 KB | Breakwave Insights HTML commentary archive scraper. |
-| [`fetch_flows_shipping.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fetch_flows_shipping.py) | 16.8 KB | Playwright headless scraper for BDRY & BWET fund flows & NAV history. |
-| [`breakwave_scraper.py`](file:///c:/Users/Dell/Github/Shipping/scripts/breakwave_scraper.py) | 16.0 KB | Breakwave Advisors PDF biweekly report scraper. |
-| [`current_book_manual_shock.py`](file:///c:/Users/Dell/Github/Shipping/scripts/current_book_manual_shock.py) | 15.0 KB | Disclosed book manual contract shock calculation & provenance validation core. |
-| [`etf_true_waterfall_engine.py`](file:///c:/Users/Dell/Github/Shipping/scripts/etf_true_waterfall_engine.py) | 15.0 KB | Decomposes ETF daily price return into Freight, Roll Drag, and Net Cash Yield. |
-| [`normalize_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/normalize_source_archives.py) | 14.8 KB | HTML archive standardizer and cleaner. |
-| [`test_decision_ticket_workflow.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_decision_ticket_workflow.py) | 24.8 KB | Python unit test suite for Decision Ticket workflow and book separation. Self-healing assertions derived from live contract_level_breakdown. |
-| [`etf_official_nav_engine.py`](file:///c:/Users/Dell/Github/Shipping/scripts/etf_official_nav_engine.py) | 13.4 KB | Official fund NAV reconstruction engine with statutory OER alignment. |
-| [`production_scenario_workflow.py`](file:///c:/Users/Dell/Github/Shipping/scripts/production_scenario_workflow.py) | 13.1 KB | End-to-end scenario pipeline linking live snapshots to decision tickets. |
-| [`contract_spec_registry.py`](file:///c:/Users/Dell/Github/Shipping/scripts/contract_spec_registry.py) | 12.0 KB | Official exchange specifications (SGX, CME ClearPort, Baltic) for freight contracts. |
-| [`parse_cftc_monthly_statements.py`](file:///c:/Users/Dell/Github/Shipping/scripts/parse_cftc_monthly_statements.py) | 13.0 KB | Monthly statement parser extracting Net Assets, Shares, and NAV from CFTC Rule 4.22(h) filings via AnyDoc structured tables and regex fallback. |
-| [`etf_provenance_registry.py`](file:///c:/Users/Dell/Github/Shipping/scripts/etf_provenance_registry.py) | 11.5 KB | Cryptographic provenance registry managing immutable raw source archives. |
-| [`source_archive_utils_v2.py`](file:///c:/Users/Dell/Github/Shipping/scripts/source_archive_utils_v2.py) | 11.3 KB | Shared text repair (`repair_text`), filename slugification, and asset utilities. |
-| [`verify_production_artifact_integrity.py`](file:///c:/Users/Dell/Github/Shipping/scripts/verify_production_artifact_integrity.py) | 10.6 KB | Cryptographic production artifact integrity and snapshot parity auditor. |
-| [`run_daily_return_backtests.py`](file:///c:/Users/Dell/Github/Shipping/scripts/run_daily_return_backtests.py) | 10.3 KB | Daily return backtesting engine comparing modeled vs actual ETF returns. |
-| [`test_10q_dynamic_engine.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_10q_dynamic_engine.py) | 9.3 KB | SEC Form 10-Q dynamic share resolution test suite. |
-| [`baltic_new_indices.py`](file:///c:/Users/Dell/Github/Shipping/scripts/baltic_new_indices.py) | 8.8 KB | Baltic Ticker API scraper for BLNG, BLPG, FBX, and BAI. |
-| [`test_10q_golden_fixtures.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_10q_golden_fixtures.py) | 8.7 KB | Golden fixture validation tests for quarterly financial statements. |
-| [`archive_exchange_rulebooks_and_manifest.py`](file:///c:/Users/Dell/Github/Shipping/scripts/archive_exchange_rulebooks_and_manifest.py) | 8.7 KB | Archival utility for exchange rulebooks and contract specifications. |
-| [`backfill_historical_data.py`](file:///c:/Users/Dell/Github/Shipping/scripts/backfill_historical_data.py) | 8.5 KB | Fearnleys Hasura GraphQL API historical rates backfill script. |
-| [`cross_check_cftc_10q.py`](file:///c:/Users/Dell/Github/Shipping/scripts/cross_check_cftc_10q.py) | 7.5 KB | Independent cross-checking utility reconciling CFTC ledgers against SEC Form 10-Q disclosures. |
-| [`test_roll_schedule_mechanics.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_roll_schedule_mechanics.py) | 6.4 KB | Unit tests for 5-axiom roll schedule decay and business day progression. |
-| [`test_evidence_and_governance.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_evidence_and_governance.py) | 6.4 KB | Governance and audit trail verification tests. |
-| [`test_cftc_monthly_ledger.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_cftc_monthly_ledger.py) | 5.8 KB | Tests for CFTC monthly statement parsing and ledger math. |
-| [`current_book_scenario_ui.py`](file:///c:/Users/Dell/Github/Shipping/scripts/current_book_scenario_ui.py) | 5.0 KB | Terminal UI tool for running manual sensitivity scenarios on active book. |
-| [`check_data_health.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_data_health.py) | 4.9 KB | CSV time series health & date continuity checker. |
-| [`check_breakwave_freshness.py`](file:///c:/Users/Dell/Github/Shipping/scripts/check_breakwave_freshness.py) | 4.9 KB | Freshness monitoring utility for Breakwave biweekly reports. |
-| [`test_production_scenario_workflow.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_production_scenario_workflow.py) | 5.4 KB | Integration tests for production scenario generation. Self-healing lot-derived P&L assertions. |
-| [`validate_source_archives.py`](file:///c:/Users/Dell/Github/Shipping/scripts/validate_source_archives.py) | 4.3 KB | Source archive format validator. |
-| [`test_daily_return_backtests.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_daily_return_backtests.py) | 4.3 KB | Unit tests for daily return accounting backtests. |
-| [`migrate_historical_archives_and_manifest.py`](file:///c:/Users/Dell/Github/Shipping/scripts/migrate_historical_archives_and_manifest.py) | 3.8 KB | Historical archive migration helper. |
-| [`fetch_fearnleys_tc.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fetch_fearnleys_tc.py) | 3.7 KB | Fearnleys Hasura API time charter rate fetcher. |
-| [`test_accounting_integrity_guards.py`](file:///c:/Users/Dell/Github/Shipping/scripts/test_accounting_integrity_guards.py) | 3.3 KB | Accounting invariant and cash balance guard tests. |
-| [`build_series_cache.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fearnleys/build_series_cache.py) | 3.4 KB | Per-label monthly means + ATH/ATL/percentile cache (294 series) for the Fearnleys desk browser. |
-| [`build_vessel_leg_economics.py`](file:///c:/Users/Dell/Github/Shipping/scripts/geospatial/build_vessel_leg_economics.py) | 2.8 KB | Latest voyage leg per IMO (2,657) for Tracking tooltips; derived avg kn, omitted where unrecorded. |
-| [`build_comment_chunks.py`](file:///c:/Users/Dell/Github/Shipping/scripts/fearnleys/build_comment_chunks.py) | 2.8 KB | Broker-comment archive chunker (11,709 rows → 4 per-desk lazy-load JSONs). |
-| [`port_universe.py`](file:///c:/Users/Dell/Github/Shipping/scripts/congestion/port_universe.py) | 2.5 KB | Single-source port-asset hub universe (50 series / 41 physical hubs) shared by stress builders. |
-| [`append_daily_holdings.py`](file:///c:/Users/Dell/Github/Shipping/scripts/append_daily_holdings.py) | 2.3 KB | Daily ETF holdings appending utility. |
-| [`knowledge_hash.py`](file:///c:/Users/Dell/Github/Shipping/scripts/knowledge_hash.py) | 1.2 KB | Incremental hashing helper for knowledge builds. |
+| [`integrate_alibra_feed.py`](scripts/integrate_alibra_feed.py) | 11.4 KB | Ingestion & harmonization engine for 2008–2026 deep historical archives, 22-month tanker forward curves, and weekly TCE tables. |
+| [`alibra_poller.py`](scripts/alibra_poller.py) | 7.2 KB | Automated multi-daily Alibra Google Sheet poller with canonical date stamping, retries, and `--integrate` flag. |
+| [`extract_demolition_pdfs.py`](scripts/extract_demolition_pdfs.py) | 12.8 KB | Multi-threaded Firecrawl AnyDoc OCR extraction pipeline recovering scrap prices across 1,040+ historical reports for India, Bangladesh, Pakistan, and Turkey. |
+| [`extract_iron_ore_pdfs.py`](scripts/extract_iron_ore_pdfs.py) | 14.2 KB | Multi-threaded Firecrawl AnyDoc OCR parser for 2,226+ daily iron ore port reports across Chinese discharge terminals. |
+| [`process_knowledge.py`](scripts/process_knowledge.py) | 151.4 KB | Knowledge ingestion compiler, tree builder, chunking engine, AnyDoc OCR parser, LLM failover. Incremental derived builds (content-addressed caches), shard manifest + pre-built search indexes, structured-table-aware charter rescan. |
+| [`search_index_build.py`](scripts/search_index_build.py) | 8.1 KB | Compiles per-shard BM25-ready posting indexes (`knowledge/chunks/search/*.idx.json`) so the browser Q&A ranks candidates without downloading/tokenizing raw shards. |
+| [`table_extract.py`](scripts/table_extract.py) | 9.8 KB | Geometry-based structured table recovery from OCR word boxes (row clustering + column-gap detection) for image-backed Alibra/MMI market tables. |
+| [`generate_brief.py`](scripts/generate_brief.py) | 94.4 KB | Analytics computation (Z-scores, percentiles, spreads) & daily AI brief synthesizer (Groq / NVIDIA NIM / OpenRouter cascade). |
+| [`validate_knowledge.py`](scripts/validate_knowledge.py) | 49.3 KB | Comprehensive corpus validator checking manifests, trees, signals, and wiki links. |
+| [`thesis_scenario_builder.py`](scripts/thesis_scenario_builder.py) | 42.6 KB | Authoritative Python ETF scenario builder executing 4-regime pricing & decision ticket translation. |
+| [`baltic_scraper.py`](scripts/baltic_scraper.py) | 32.7 KB | Selenium/HTTP scraper for Baltic Exchange reports and asset mirroring. |
+| [`update_etf_holdings.py`](scripts/update_etf_holdings.py) | 28.6 KB | Amplify ETF holdings downloader, provenance registrar, and snapshot generator. |
+| [`decision_ticket_workflow.py`](scripts/decision_ticket_workflow.py) | 26.5 KB | Core institutional decision ticket generation, route attribution, and risk disclosure engine. |
+| [`update_indices.py`](scripts/update_indices.py) | 24.6 KB | StockQ freight indices & SGX FFA futures curve scraper. |
+| [`hellenic_scraper.py`](scripts/hellenic_scraper.py) | 24.3 KB | Hellenic Shipping News report & weekly TC rate table scraper. |
+| [`build_health_report.py`](scripts/build_health_report.py) | 23.3 KB | Knowledge health, source cadence, and diagnostic report generator. |
+| [`scenario_snapshot_schema.py`](scripts/scenario_snapshot_schema.py) | 21.8 KB | Authoritative snapshot schema compiler & dynamic reverse-engineered shares generator. |
+| [`verify_acquisition_manifests.py`](scripts/verify_acquisition_manifests.py) | 21.8 KB | Validates full provenance trail for all external source data files. |
+| [`build_wiki.py`](scripts/build_wiki.py) | 20.3 KB | Topic evidence scoring and automated markdown wiki page builder. |
+| [`provenance_manifest_manager.py`](scripts/provenance_manifest_manager.py) | 19.8 KB | Immutable SHA-256 provenance manifest registry and content hash auditor. |
+| [`breakwave_insights_scraper.py`](scripts/breakwave_insights_scraper.py) | 18.4 KB | Breakwave Insights HTML commentary archive scraper. |
+| [`fetch_flows_shipping.py`](scripts/fetch_flows_shipping.py) | 16.8 KB | Playwright headless scraper for BDRY & BWET fund flows & NAV history. |
+| [`breakwave_scraper.py`](scripts/breakwave_scraper.py) | 16.0 KB | Breakwave Advisors PDF biweekly report scraper. |
+| [`current_book_manual_shock.py`](scripts/current_book_manual_shock.py) | 15.0 KB | Disclosed book manual contract shock calculation & provenance validation core. |
+| [`etf_true_waterfall_engine.py`](scripts/etf_true_waterfall_engine.py) | 15.0 KB | Decomposes ETF daily price return into Freight, Roll Drag, and Net Cash Yield. |
+| [`normalize_source_archives.py`](scripts/normalize_source_archives.py) | 14.8 KB | HTML archive standardizer and cleaner. |
+| [`test_decision_ticket_workflow.py`](scripts/test_decision_ticket_workflow.py) | 24.8 KB | Python unit test suite for Decision Ticket workflow and book separation. Self-healing assertions derived from live contract_level_breakdown. |
+| [`etf_official_nav_engine.py`](scripts/etf_official_nav_engine.py) | 13.4 KB | Official fund NAV reconstruction engine with statutory OER alignment. |
+| [`production_scenario_workflow.py`](scripts/production_scenario_workflow.py) | 13.1 KB | End-to-end scenario pipeline linking live snapshots to decision tickets. |
+| [`contract_spec_registry.py`](scripts/contract_spec_registry.py) | 12.0 KB | Official exchange specifications (SGX, CME ClearPort, Baltic) for freight contracts. |
+| [`parse_cftc_monthly_statements.py`](scripts/parse_cftc_monthly_statements.py) | 13.0 KB | Monthly statement parser extracting Net Assets, Shares, and NAV from CFTC Rule 4.22(h) filings via AnyDoc structured tables and regex fallback. |
+| [`etf_provenance_registry.py`](scripts/etf_provenance_registry.py) | 11.5 KB | Cryptographic provenance registry managing immutable raw source archives. |
+| [`source_archive_utils_v2.py`](scripts/source_archive_utils_v2.py) | 11.3 KB | Shared text repair (`repair_text`), filename slugification, and asset utilities. |
+| [`verify_production_artifact_integrity.py`](scripts/verify_production_artifact_integrity.py) | 10.6 KB | Cryptographic production artifact integrity and snapshot parity auditor. |
+| [`run_daily_return_backtests.py`](scripts/run_daily_return_backtests.py) | 10.3 KB | Daily return backtesting engine comparing modeled vs actual ETF returns. |
+| [`test_10q_dynamic_engine.py`](scripts/test_10q_dynamic_engine.py) | 9.3 KB | SEC Form 10-Q dynamic share resolution test suite. |
+| [`baltic_new_indices.py`](scripts/baltic_new_indices.py) | 8.8 KB | Baltic Ticker API scraper for BLNG, BLPG, FBX, and BAI. |
+| [`test_10q_golden_fixtures.py`](scripts/test_10q_golden_fixtures.py) | 8.7 KB | Golden fixture validation tests for quarterly financial statements. |
+| [`archive_exchange_rulebooks_and_manifest.py`](scripts/archive_exchange_rulebooks_and_manifest.py) | 8.7 KB | Archival utility for exchange rulebooks and contract specifications. |
+| [`backfill_historical_data.py`](scripts/backfill_historical_data.py) | 8.5 KB | Fearnleys Hasura GraphQL API historical rates backfill script. |
+| [`cross_check_cftc_10q.py`](scripts/cross_check_cftc_10q.py) | 7.5 KB | Independent cross-checking utility reconciling CFTC ledgers against SEC Form 10-Q disclosures. |
+| [`test_roll_schedule_mechanics.py`](scripts/test_roll_schedule_mechanics.py) | 6.4 KB | Unit tests for 5-axiom roll schedule decay and business day progression. |
+| [`test_evidence_and_governance.py`](scripts/test_evidence_and_governance.py) | 6.4 KB | Governance and audit trail verification tests. |
+| [`test_cftc_monthly_ledger.py`](scripts/test_cftc_monthly_ledger.py) | 5.8 KB | Tests for CFTC monthly statement parsing and ledger math. |
+| [`current_book_scenario_ui.py`](scripts/current_book_scenario_ui.py) | 5.0 KB | Terminal UI tool for running manual sensitivity scenarios on active book. |
+| [`check_data_health.py`](scripts/check_data_health.py) | 4.9 KB | CSV time series health & date continuity checker. |
+| [`check_breakwave_freshness.py`](scripts/check_breakwave_freshness.py) | 4.9 KB | Freshness monitoring utility for Breakwave biweekly reports. |
+| [`test_production_scenario_workflow.py`](scripts/test_production_scenario_workflow.py) | 5.4 KB | Integration tests for production scenario generation. Self-healing lot-derived P&L assertions. |
+| [`validate_source_archives.py`](scripts/validate_source_archives.py) | 4.3 KB | Source archive format validator. |
+| [`test_daily_return_backtests.py`](scripts/test_daily_return_backtests.py) | 4.3 KB | Unit tests for daily return accounting backtests. |
+| [`migrate_historical_archives_and_manifest.py`](scripts/migrate_historical_archives_and_manifest.py) | 3.8 KB | Historical archive migration helper. |
+| [`fetch_fearnleys_tc.py`](scripts/fetch_fearnleys_tc.py) | 3.7 KB | Fearnleys Hasura API time charter rate fetcher. |
+| [`test_accounting_integrity_guards.py`](scripts/test_accounting_integrity_guards.py) | 3.3 KB | Accounting invariant and cash balance guard tests. |
+| [`build_series_cache.py`](scripts/fearnleys/build_series_cache.py) | 3.4 KB | Per-label monthly means + ATH/ATL/percentile cache (294 series) for the Fearnleys desk browser. |
+| [`build_vessel_leg_economics.py`](scripts/geospatial/build_vessel_leg_economics.py) | 2.8 KB | Latest voyage leg per IMO (2,657) for Tracking tooltips; derived avg kn, omitted where unrecorded. |
+| [`build_comment_chunks.py`](scripts/fearnleys/build_comment_chunks.py) | 2.8 KB | Broker-comment archive chunker (11,709 rows → 4 per-desk lazy-load JSONs). |
+| [`port_universe.py`](scripts/congestion/port_universe.py) | 2.5 KB | Single-source port-asset hub universe (50 series / 41 physical hubs) shared by stress builders. |
+| [`append_daily_holdings.py`](scripts/append_daily_holdings.py) | 2.3 KB | Daily ETF holdings appending utility. |
+| [`knowledge_hash.py`](scripts/knowledge_hash.py) | 1.2 KB | Incremental hashing helper for knowledge builds. |
 
 ---
 
@@ -823,7 +823,7 @@ python scripts/validate_knowledge.py
    - Derived time series (`time_charter_rates.csv`, `iron_ore_restocking.csv`) use ISO format `YYYY-MM-DD` (e.g. `2021-07-07`).
    - Ensure new rows match the existing date format of the target file.
 2. **Preserve Exact Header Order**:
-   - When appending to [`time_charter_rates.csv`](file:///c:/Users/Dell/Github/Shipping/data/derived/time_charter_rates.csv), preserve the column order: `date, source` + 64 rate columns (66 cols total).
+   - When appending to [`time_charter_rates.csv`](data/derived/time_charter_rates.csv), preserve the column order: `date, source` + 64 rate columns (66 cols total).
 3. **Source Provenance (CRITICAL)**:
    - Every row in `time_charter_rates.csv` MUST have a `source` column value (`fearnleys` or `alibra_ocr`).
    - `scrappage_prices.csv` is the pipeline output for demolition data (history begins 2021-07-03) — do NOT write scrappage data to `vessel_valuations.csv` (which contains Fearnleys S&P data).
@@ -844,6 +844,58 @@ The dashboard features an animated global ticker at the top, named after the leg
 - **Interactive Controls**: Pauses on hover, fully copy-paste enabled.
 
 ---
+
+---
+
+## ✅ Verification & Data Freshness
+
+The three test files under `tests/` are the contract for this dashboard. One command proves the
+state of the whole thing:
+
+```bash
+python -m pytest tests/test_ui_tabs.py tests/test_loader_contracts.py tests/test_freshness_and_wiring.py -q
+```
+
+**45 passed / 0 failed** is the only acceptable result. What they enforce:
+
+| Test | Guarantee |
+|---|---|
+| `test_loader_contracts` | every CSV loader reads columns the file actually has |
+| `test_charts_have_data` | no visible canvas is blank anywhere in the document |
+| `test_no_typed_numbers` | no number is hardcoded in markup where data should render it |
+| `test_no_dash_kpis` / `test_no_empty_states` | no KPI renders as a dash or a stuck loading state |
+| `test_views_fresh` | every file in `data/views/` carries an `as_of` it can justify from its own content |
+| `test_workflow_wiring` | every rendered series has a workflow that runs its fetcher |
+| `test_single_writer` | no two scripts write the same data file |
+| `test_manifest_matches_files` | the provenance manifest agrees with what is on disk |
+| `test_ui_copy_lint` / `test_design_lint` / `test_tooltip_coverage` / `test_layout` | front-facing copy, design and layout standards |
+| `test_perf_budget` | boot ≤ 4 MB, cumulative ≤ 58 MB, warm tab switch ≤ 50 ms |
+
+### How the data stays current
+
+**102 rendered series** are wired end to end. 94 are invoked by an explicit `python …` step in a
+workflow carrying a cron; the remaining 8 are view files built by `scripts/build_views.py`, which
+runs inside `pages.yml` on every push and whenever a data workflow completes — so views rebuild
+whenever their inputs change rather than on a clock of their own.
+
+Cadence follows each source's own publication schedule: Baltic indices and ETF holdings on
+weekdays, Alibra twice daily, Fearnleys weekly on the Wednesday/Thursday release, USDA weekly
+after the Thursday agricultural release, Poten/Drewry weekly, upstream commodity flows Mondays,
+BPS monthly on the 15th, Seabrokers monthly.
+
+**One writer per file.** If two scripts target the same CSV, `test_single_writer` fails. Any job
+that appends to a data file also refreshes `data/provenance/manifest.json` in the same run, so the
+manifest cannot drift away from disk between deploys.
+
+### Numbers in the UI
+
+No number is typed into the page where data should produce it. Where a genuine modelling constant
+appears (vessel fuel burn, MARPOL sulphur limits, index weightings), it sits in
+`data/reference/ui_test_allowlist.json` with its source recorded. The dashboard's signal base rates
+are recomputed from `data/indices/bdiy_historical.csv` on every build into
+`data/views/signal_base_rates.json` — they are historical base rates, not forecasts, and the banner
+says so.
+
 
 ## 📄 License & Attribution
 

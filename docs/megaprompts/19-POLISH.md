@@ -12,31 +12,23 @@ change any test to cover these unless the fix genuinely needs it.
 
 ---
 
-## P-1 · Animated pirate ships sail across the header and cover the logo (every tab)
+## P-1 · DONE — header ships no longer cover the wordmark
 
-`index.html:6456` — `<div class="header-ships">` containing `<svg id="pirateShip"
-filter="url(#pirateGlow)">`, a pixel-art pirate galleon with a `feGaussianBlur` glow, animated
-across the header on a loop. On most tabs one of them sits **directly on top of the "SHIPPING
-INTELLIGENCE" wordmark**, obscuring it. On Tracking there are four on screen at once.
+**The ships are a deliberate design choice and they stay.** Only the collision was a bug: they
+sailed across the "SHIPPING INTELLIGENCE" text and made it unreadable. Fixed by pinning the ship
+lane to `z-index: 0` and giving the wordmark an opaque `var(--card)` chip at `z-index: 3`, so the
+ships pass behind it. Do not remove the ships, and do not reintroduce the overlap.
 
-This is the single most damaging thing on the page: it is the first thing anyone sees and it makes
-a broker terminal look like a game. Remove `header-ships`, the `pirateShip` SVG and the
-`pirateGlow` filter entirely. Keep the anchor mark and the wordmark.
-
-Note the glow here is an SVG `feGaussianBlur`, which is why `test_design_lint` never counted it —
-it only looks for CSS `box-shadow` and `backdrop-filter`. Do not add an assertion for this; just
-delete the element.
-
-## P-2 · The quote ticker runs pirate movie lines
+## P-2 · The quote ticker — keep or cut is the owner's call
 
 `index.html:11029` — a 25-entry `var quotes` ticker under the nav. It includes **four Captain Jack
 Sparrow quotes**, "Why is the rum always gone?", and pirate-raid trivia ("The Ganj-i-Sawai, 1695 —
 £600,000 in gold & silver seized on the Indian Ocean. The richest pirate raid in history").
 
-A freight desk does not ship Pirates of the Caribbean quotes. Either delete the ticker and reclaim
-the vertical space, or replace it with something a trader would actually use in that strip — the
-day's index moves, or the next scheduled data release. If you keep it, it must not scroll text off
-both edges mid-word, which it currently does.
+The ticker is part of the same deliberate aesthetic as the ships, so **do not delete it without
+being asked.** One thing is a real defect regardless of taste: it scrolls text off both edges
+mid-word, so quotes are frequently unreadable at the viewport margins. Fix the marquee so each
+quote enters and leaves whole.
 
 ## P-3 · Tracking: Port Universe shows zero rows out of 2,065
 
@@ -107,6 +99,17 @@ which is the thing a reader actually wants.
 
 On "CURRENT YEAR VS HISTORICAL YEARS", the 2023 and 2024 series appear to continue past the card's
 right border toward the viewport edge. Confirm at 1920 px and clip the plot area to the card.
+
+## P-10 · DONE — signal banner now derives its own base rates
+
+The banner asserted "Since 1991: −1.1% avg fwd 3M BDI vs +7.5% unconditional. Profit taking &
+hedging recommended." Recomputed from `bdiy_historical.csv`: −1.14% vs +7.26%, so the numbers were
+right — but typed into a template string where nothing would recompute them, and invisible to
+`test_no_typed_numbers` because they live inside `<script>`.
+
+`build_views.py` now emits `data/views/signal_base_rates.json` on every build, and the banner reads
+it. It also shows median, win rate and sample size, and no longer recommends a trade. Leave it
+deriving; do not reintroduce typed statistics into the banner strings.
 
 ---
 
