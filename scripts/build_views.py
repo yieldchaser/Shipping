@@ -14,6 +14,7 @@ Also handles:
 import os
 import sys
 import json
+import csv
 import re
 import glob
 from datetime import datetime, timezone
@@ -418,6 +419,83 @@ def build_etf_summary(prov_map):
     write_view_manifest("data/views/etf_summary.json", payload, "ETF Summary View")
 
 
+
+def build_signal_base_rates(out_path="data/views/signal_base_rates.json"):
+    """Forward-return base rates for the dashboard signal ladder.
+
+    The banner used to carry these as typed strings ("-1.1% avg fwd 3M vs +7.5%
+    unconditional"). They were correct when written, but nothing recomputed them,
+    so they would drift as history grew. This derives them from the BDI series
+    itself on every build. Nothing here is assumed: if the file is missing or too
+    short, we emit no numbers and the UI shows its empty state.
+    """
+    import statistics as _stats
+    src = "data/indices/bdiy_historical.csv"
+    if not os.path.exists(src):
+        print("  [SIGNAL] %s absent - base rates not built" % src)
+        return None
+    rows = []
+    with open(src, "r", encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            v = r.get("Index")
+            d = r.get("Date")
+            if d and v not in (None, "", "NaN"):
+                try:
+                    rows.append((d, float(v)))
+                except ValueError:
+                    continue
+    rows.sort()
+    vals = [v for _, v in rows]
+    FWD, W5 = 63, 1260          # ~3 months of sessions; 5Y percentile window
+    if len(vals) < W5 + FWD + 1:
+        print("  [SIGNAL] only %d rows - too short for a 5Y base rate" % len(vals))
+        return None
+
+    buckets = {"overheated": [], "accumulate": [], "deep_distress": [], "unconditional": []}
+    for i in range(W5, len(vals) - FWD):
+        window = vals[i - W5:i + 1]
+        pctl = sum(1 for x in window if x <= vals[i]) / len(window)
+        fwd = (vals[i + FWD] - vals[i]) / vals[i] * 100.0
+        buckets["unconditional"].append(fwd)
+        if pctl > 0.8:
+            buckets["overheated"].append(fwd)
+        elif pctl < 0.2:
+            buckets["deep_distress"].append(fwd)
+        elif pctl < 0.4:
+            buckets["accumulate"].append(fwd)
+
+    def summarise(series):
+        if len(series) < 30:
+            return None
+        return {
+            "n": len(series),
+            "mean_pct": round(_stats.mean(series), 2),
+            "median_pct": round(_stats.median(series), 2),
+            "win_rate_pct": round(sum(1 for x in series if x > 0) / len(series) * 100, 1),
+        }
+
+    payload = {
+        "header": {
+            "source": src,
+            "method": ("Forward %d-session (~3 month) return of the BDI, bucketed by the "
+                       "index's own percentile within a trailing %d-session (~5 year) window. "
+                       "Base rates, not forecasts." % (FWD, W5)),
+            "series_start": rows[0][0],
+            "series_end": rows[-1][0],
+            "first_measurable": rows[W5][0],
+        },
+        "buckets": {k: summarise(v) for k, v in buckets.items()},
+    }
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, sort_keys=True, separators=(",", ":"))
+    oh = payload["buckets"]["overheated"]
+    un = payload["buckets"]["unconditional"]
+    print("  [SIGNAL] base rates -> %s (overheated n=%s mean=%s%% vs uncond mean=%s%%)"
+          % (out_path, oh and oh["n"], oh and oh["mean_pct"], un and un["mean_pct"]))
+    return payload
+
+
 def stamp_all_views(views_root="data/views"):
     """Stamp as_of on every view under data/views/, whoever wrote it.
 
@@ -477,6 +555,7 @@ def main():
     build_etf_summary(prov_map)
     
     print("\nAll view manifests successfully built and validated under 250 KB target.")
+    build_signal_base_rates()
     stamp_all_views()
 
 if __name__ == '__main__':

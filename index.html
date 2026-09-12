@@ -218,6 +218,7 @@
       left: 0;
       width: 100%;
       pointer-events: none;
+      z-index: 0;
     }
 
     .header-ships svg {
@@ -229,7 +230,14 @@
       font-weight: 600;
       color: var(--accent);
       position: relative;
-      z-index: 2;
+      /* Ships sail the full width of the header behind this. Without an opaque
+         backdrop the wordmark sits on top of a moving sprite and stops being
+         readable, which is what it looked like on every tab. The ships keep
+         sailing; they just pass behind a solid chip. */
+      background: var(--card);
+      padding-right: 16px;
+      border-radius: 4px;
+      z-index: 3;
       white-space: nowrap;
       display: flex;
       align-items: center;
@@ -18644,6 +18652,31 @@ function buildMaster() {
       };
     }
 
+    // Forward-return base rates, derived from the BDI series itself by
+    // scripts/build_views.py on every deploy. These used to be typed into the
+    // banner strings; they were correct when written, but nothing recomputed them.
+    var SIGNAL_BASE_RATES = null;
+    fetch('data/views/signal_base_rates.json', { cache: 'no-cache' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) { SIGNAL_BASE_RATES = d; })
+      .catch(function () { SIGNAL_BASE_RATES = null; });
+
+    // One bucket rendered as a factual base rate, or '' when we have no numbers.
+    // Never guesses: no data means the banner simply says less.
+    function baseRatePhrase(bucket) {
+      var br = SIGNAL_BASE_RATES && SIGNAL_BASE_RATES.buckets;
+      var b = br && br[bucket], u = br && br.unconditional;
+      if (!b || !u) return '';
+      var since = ((SIGNAL_BASE_RATES.header || {}).first_measurable || '').slice(0, 4);
+      var MINUS = String.fromCharCode(8722), NB = String.fromCharCode(8239), RSQ = String.fromCharCode(8217);
+      var f = function (x) { return (x >= 0 ? '+' : MINUS) + Math.abs(x).toFixed(1); };
+      return ' Historically' + (since ? ' since ' + since : '') + ', the BDI' + RSQ +
+        's next 3 months from this zone averaged <strong>' + f(b.mean_pct) + '%</strong> (median ' +
+        f(b.median_pct) + '%, higher ' + b.win_rate_pct.toFixed(0) + '% of the time, n' + NB + '=' + NB +
+        b.n.toLocaleString('en-US') + ') against ' + f(u.mean_pct) +
+        '% for any random day. Base rate, not a forecast.';
+    }
+
     function tradingSignal(stats) {
       if (!stats) return { label: 'WAIT', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT', cls: 'signal-wait' };
       const { pctl5y, zScore252, alltimePctl } = stats;
@@ -18736,7 +18769,7 @@ function buildMaster() {
         bannerMsg = '<strong>' + sig.label + ' WATCH</strong> : Cheap on both 5Y and all-time windows (' + pctTxt + '% 5Y Percentile). Named for structural-doubt risk, yet historically <strong>+23.9% avg fwd 3M (69% win)</strong> on BDI since 1991.';
       } else if (sig.label.indexOf('SELL') !== -1) {
         bannerTone = 'bear';
-        bannerMsg = '<strong>' + sig.label + ' ACTIVE</strong> : Market overextended at ' + pctTxt + '% 5Y Percentile.' + (bdiCal ? ' Since 1991: <strong>\u22121.1% avg fwd 3M BDI</strong> vs +7.5% unconditional.' : '') + ' Profit taking &amp; hedging recommended.';
+        bannerMsg = '<strong>' + sig.label + '</strong> : the index sits at ' + pctTxt + '% of its 5-year range.' + (bdiCal ? baseRatePhrase('overheated') : '');
       }
       if (bannerTone === 'bull') {
         bullishTxt.innerHTML = bannerMsg;
