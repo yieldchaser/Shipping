@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-09-11T19:13:38Z'
+generated_at: '2026-09-12T17:55:14Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 1
@@ -18,20 +18,20 @@ warning_count: 1
 
 | Source | Latest | Age (days) | Cadence | Status | Latest Gap | Undated |
 |---|---|---:|---:|---|---:|---:|
-| breakwave/drybulk | 2026-09-01 | 10 | 14 | healthy | 14 | 0 |
-| breakwave/tankers | 2026-09-08 | 3 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-09-11 | 0 | 7 | healthy | 7 | 8 |
-| baltic/tanker | 2026-09-11 | 0 | 7 | healthy | 7 | 12 |
-| baltic/gas | 2026-09-11 | 0 | 7 | healthy | 7 | 0 |
-| baltic/container | 2026-09-11 | 0 | 7 | healthy | 7 | 0 |
-| baltic/ningbo | 2026-09-11 | 0 | 7 | healthy | 7 | 0 |
-| breakwave_insights/insights | 2026-09-11 | 0 | 14 | healthy | 0 | 0 |
-| hellenic/dry_charter | 2026-09-10 | 1 | 14 | healthy | 1 | 1 |
-| hellenic/tanker_charter | 2026-09-10 | 1 | 14 | healthy | 1 | 0 |
-| hellenic/iron_ore | 2026-09-11 | 0 | 14 | healthy | 1 | 0 |
-| hellenic/vessel_valuations | 2026-09-10 | 1 | 14 | healthy | 1 | 0 |
-| hellenic/demolition | 2026-09-10 | 1 | 21 | healthy | 2 | 2 |
-| hellenic/shipbuilding | 2026-09-10 | 1 | 21 | healthy | 2 | 0 |
+| breakwave/drybulk | 2026-09-01 | 11 | 14 | healthy | 14 | 0 |
+| breakwave/tankers | 2026-09-08 | 4 | 14 | healthy | 14 | 0 |
+| baltic/dry | 2026-09-11 | 1 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-09-11 | 1 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-09-11 | 1 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-09-11 | 1 | 7 | healthy | 7 | 0 |
+| baltic/ningbo | 2026-09-11 | 1 | 7 | healthy | 7 | 0 |
+| breakwave_insights/insights | 2026-09-11 | 1 | 14 | healthy | 0 | 0 |
+| hellenic/dry_charter | 2026-09-10 | 2 | 14 | healthy | 1 | 1 |
+| hellenic/tanker_charter | 2026-09-10 | 2 | 14 | healthy | 1 | 0 |
+| hellenic/iron_ore | 2026-09-11 | 1 | 14 | healthy | 1 | 0 |
+| hellenic/vessel_valuations | 2026-09-10 | 2 | 14 | healthy | 1 | 0 |
+| hellenic/demolition | 2026-09-10 | 2 | 21 | healthy | 2 | 2 |
+| hellenic/shipbuilding | 2026-09-10 | 2 | 21 | healthy | 2 | 0 |
 | books | undated | - | - | reference | - | 12 |
 
 ## Topic Coverage
