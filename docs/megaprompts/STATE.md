@@ -17,7 +17,24 @@
 | **Prompt 14** | ✅ Done — `ff518ba29` (includes 13C). 9 modules visible; audited via screenshots. Suite 249 green |
 | Part-0 fix | ✅ `5293552b2` — Guinea unsourced rows purged (kept rows verified on page), BPS citation path, 3.2x removed |
 | **PUSHED** | ✅ **`d7c62362f` on origin/main, 2026-09-11** — Round 1 + Round 2 live at https://yieldchaser.github.io/Shipping/ (Pages deploy green; verified 12 tabs, new Cargo modules, no fake lineups, header revert intact) |
-| Next | **Prompt 17 (continuous run, `QUEUE-17.md`)** — supersedes running 15/16 separately |
+| Next | **Prompt 17 v2 (continuous run)** — `17-finish-line.md` + `QUEUE-17.md` + appendices A–D. Supersedes running 15/16 separately |
+
+## Full click-through audit (2026-09-12) — evidence in appendices A–D
+Method: headless Chromium at 1920×1080, mount each of the 12 tabs, scroll it, click every control,
+read the live DOM; plus static scans of loaders, workflows and views. Re-run it the same way.
+- **~30 loaders read columns their files don't have** (Appendix A). SGX proven end-to-end: raw file
+  has 9,239 rows, the loader keeps **0**; feeding raw rows to `parseSGXRows` yields **82 contracts /
+  76 active**, Sep 2026 $51,157. The bug is loader↔consumer key mismatch, not just a rename.
+- **The whole `data/views/` layer is frozen** at 2026-09-10 (Dashboard says "Data as of 2026-09-09"
+  while BDI has 2026-09-11); nothing runs `build_views.py`; `pages.yml` has no build step.
+- **35 rendered series have no scheduled writer**; `usda_weekly.yml` would overwrite the rebuilt
+  USDA queue file with a dataset ending 2020.
+- **8 Signals modules have no chart object**; Broker Desk TC Rates shows 5 × `n/a`; S&P & Assets has
+  2 blank charts and 4 dash KPIs; Tracking throws `renderTrackingHUDRefreshNote is not defined`.
+- **Cargo HUD tiles are typed into the markup** and labelled LIVE (C3 $24.80 vs today's $42.12).
+- Tooltips: Broker Desk 12/65, Cargo 5/11. Design: 13 accent bars, 63 glows, 16 blurs, 11 emoji.
+- Nav: 1,491 px of tabs in a 1,400 px bar → **Offshore hidden at 1366 and 1920**.
+- Braemar "Live GraphQL Feed" is a one-time 10 Sep snapshot; the endpoint moved to $51,250 by 11 Sep.
 
 ## Live-site audit after the push (2026-09-11)
 - **~30 of 46 loaders read non-existent columns** since Round 1 foundation commit `d21185f31` (e.g. SGX `settlement` vs real `price`) → modules silently blank. Data intact.
