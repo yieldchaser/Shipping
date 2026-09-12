@@ -399,3 +399,31 @@ def test_bix_regional_movers_asof_freshness():
     assert "renderBunkersBixMovers" in html
 
 
+def test_tracking_map_sector_and_status_filtering():
+    """F-5 / G-11: Fleet AIS sector and status filters over the tracking map must repaint
+    and filter both vessels and port pins. Selecting a sector narrows the map to that trade:
+    vessel markers are filtered by class/segment, and matching port markers are highlighted
+    (lit) while non-matching ports are de-emphasized (dimmed).
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+
+    # Verify setTrackingMapSector filters liveFleetSegment and replots live fleet markers
+    assert "function setTrackingMapSector(sector)" in html
+    assert "liveFleetSegment = fleetSegMap[sector]" in html
+    assert "plotLiveFleetMarkers()" in html
+    assert "plotPortHubMarkers()" in html
+
+    # Verify isPortInSectorFilter correctly tests port's sector calls without dead checks
+    assert "function isPortInSectorFilter(code)" in html
+    assert "if (!stats._byPort[trackingMapSector])" not in html, "isPortInSectorFilter must not check trackingMapSector on _byPort"
+    assert "stats._byPort[code][secKey]" in html
+
+    # Verify setLiveFleetSegment syncs sector and port markers
+    assert "function setLiveFleetSegment(seg)" in html
+    assert "trackingMapSector = secFromFleetSeg[seg]" in html
+
+    # Verify universePorts load callback recalculates stats and plots port markers
+    assert "window.__trackingSectorPortStats = trackingSectorPortStats();" in html
+
+
+
