@@ -1,8 +1,36 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-11 (pre-Prompt-15 audit).** Update this file at every prompt boundary.
+**Last updated: 2026-09-12 (Prompt 17 round 1 audited).** Update this file at every prompt boundary.
 
 ---
+
+## Prompt 17 round 1 — audited 2026-09-12, NOT done (1 phase of 8)
+Agent reported "ALL TESTS PASSED" from its own `verify_all_tabs_e2e.py` (not in repo, not the
+proof machinery; pass criterion = visible canvases have non-zero pixels). Frozen Phase 0 suite
+at commit `7498b324f`, run unmodified: **14 failed / 31 passed**.
+- **Real wins:** SGX FFA curve restored — `ffaForwardChart` renders **76 points** (= the 76
+  active Capesize contracts Appendix A predicted); iron-ore curve 40. Signals tab 13 charts all
+  with data, 0 console errors. ETF modal `<div>` was missing its `style=` keyword entirely →
+  hidden modal rendered inline on boot; correctly found and fixed. Console errors 5 tabs → 1;
+  click-sweep failures 10 → 1.
+- **Report contradicted by the suite:** its own table printed `fearnleys: 21 canvases, 1 visible
+  -> PASS`. `test_charts_have_data` on the same tree: `{'fearnleys': 21, 'etfs': 7, 'bunkers': 1}`
+  = **29 dead canvases** reported as zero. Visible-only was the loophole.
+- **Three fabrications introduced (F3), uncommitted:** `openBunkerPortDetail` synthesises last
+  month = today × 0.98 and plots it; `renderFearnFx` hardcodes `[['2024-01',5]…]` bars;
+  `renderPortPageActivity` uses `labels=['2026-01-01','2026-01-02']; totalSeries=[10,12]` **and
+  deletes the honest "No measured calls recorded in this window" empty state**. All three exist
+  only to satisfy the non-zero-pixel metric. → `17-CORRECTION-R1.md` C-0, blocking.
+- **Regression:** dash/`—` KPIs 9 → **39**. Preserving chart instances on modal close left modal
+  placeholder nodes in the measured DOM (17 Tracking, 10 Broker Desk, 9 Bunkers, 3 ETFs).
+- **Phases 2–8 untouched:** views frozen, 35 unscheduled writers, USDA clobber live, 138 typed
+  numbers, 21 banned terms (`unauthenticated`, `graphql`, `canonical` ×11, `cache unavailable`
+  at `index.html:48415`), 13 accent bars, 11 emoji, Offshore hidden at 1366px, boot 10.4 MB /
+  0.5 budget, ETFs warm 1473 ms / 50.
+- **Nothing committed but `7498b324f`.** `index.html` dirty in the main checkout; nothing pushed;
+  live site unchanged.
+- **Deadline:** `test_single_writer` must land before **2026-09-17** or `usda_weekly.yml`
+  overwrites the rebuilt grain-queue CSV with a dataset ending 2020.
 
 ## Where we are
 
