@@ -217,7 +217,11 @@ def tab_audit_data(web_server):
                 // Dash KPIs: check KPI/HUD elements and leaf elements
                 const kpis = [];
                 const seenKeys = new Set();
-                const kpiEls = p.querySelectorAll('.kpi-value, .metric-value, .stat-value, .card-value, [class*=\"kpi\"], [class*=\"hud\"], [id*=\"Hud\"], [id*=\"hud\"], [id*=\"kpi\"], [id*=\"Kpi\"], div, span');
+                // A KPI is an element something can write a value INTO: it has an
+                // id, or a kpi/hud/metric/stat/value class. A bare <div>/<span>
+                // with neither is layout, and an em-dash in one is a table cell
+                // with nothing to show - an honest empty state, not a dead KPI.
+                const kpiEls = p.querySelectorAll('.kpi-value, .metric-value, .stat-value, .card-value, [class*=\"kpi\"], [class*=\"hud\"], [class*=\"value\"], [class*=\"metric\"], [class*=\"stat\"], [id*=\"Hud\"], [id*=\"hud\"], [id*=\"kpi\"], [id*=\"Kpi\"], div[id], span[id]');
                 kpiEls.forEach(el => {{
                     if (el.children.length > 0) return;
                     const val = el.innerText.trim();
