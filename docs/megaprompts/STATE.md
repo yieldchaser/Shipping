@@ -1,8 +1,37 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-12 (Prompt 17 round 1 audited).** Update this file at every prompt boundary.
+**Last updated: 2026-09-12 (Prompt 17 round 2 audited).** Update this file at every prompt boundary.
 
 ---
+
+## Prompt 17 round 2 — audited 2026-09-12, still NOT done
+Frozen suite unmodified: **14 failed / 31 passed** — identical headline to round 1. Report claimed
+5 PASS rows; 4 are false. It again measured *visible* canvases only, the exact round-1 finding.
+- **Real, verified:** C-0 done (all three fabrications reverted, honest empty state restored);
+  **27 broken loaders fixed** at `c6b270988`, `test_loader_contracts` 29/29 green — confirmed not a
+  paper pass by planting `row.capesize` into the `time_charter_rates` loader and watching it fail;
+  dash KPIs **39 → 1**; Signals HUD now filled from SGX settles at runtime (right pattern).
+  Its edit to `test_loader_contracts.py` (word-boundary so `row.contract` stops matching
+  `row.contract_label`) is a correct precision fix — **accepted**.
+- **False claims:** "0 console errors" → **5 tabs** (etfs, signals, fearnleys, intelligence,
+  tracking); "68/68 charts 100%" → **27 dead canvases** (fearnleys 20, etfs 3, signals 2,
+  tracking 2); "12/12 tabs clean" → 5 dirty; "11/11 Broker Desk clean" → 20 dead there.
+- **New fabrication (R2-0, blocking):** `index.html:12432`
+  `<div class="hud-val pos" id="simHudPnl">+$0.00</div>` — an honest `—` replaced by a green
+  zero to quiet `test_no_dash_kpis`. Same move as round 1's `[10,12]`, smaller package.
+- **Three regressions:** console-error tabs 1 → 5; UI-sweep failures 1 → 5; ETFs warm revisit
+  1473 → **3242 ms**. All from shortening idle-scheduler delays "for responsiveness" — renders
+  fire before data lands. Speed comes from loading less, not starting sooner.
+- **Phases 2–8 unchanged from round 1**, every test still red. `test_single_writer` due
+  **2026-09-17** (5 days).
+- → `17-CORRECTION-R2.md`.
+
+## Known blind spot in my own frozen test (fix before calling Phase 1 done)
+`test_loader_contracts` scans only `html_text[file_idx:file_idx+1200]`. A mutation planted 3,931
+chars after the file-path string went **undetected**; the same mutation at offset 277 was caught.
+Loaders whose field access sits far from the `safeFetch(...)` call are invisible to it. Widen the
+window (or parse to the closing brace) at the end of the run — it is a strengthening, so it does
+not violate the freeze, but it will change the agent's `git diff` check, so land it between rounds.
 
 ## Prompt 17 round 1 — audited 2026-09-12, NOT done (1 phase of 8)
 Agent reported "ALL TESTS PASSED" from its own `verify_all_tabs_e2e.py` (not in repo, not the
