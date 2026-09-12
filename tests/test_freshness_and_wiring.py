@@ -426,4 +426,38 @@ def test_tracking_map_sector_and_status_filtering():
     assert "window.__trackingSectorPortStats = trackingSectorPortStats();" in html
 
 
+def test_signal_banner_and_vocabulary():
+    """G-12: Signals banner shortened, trade instruction words retired in favor of
+    Stretched / Elevated / Mid-range / Soft / Depressed vocabulary, and signal_base_rates.json
+    extended with elevated (0.6-0.8) and mid_range (0.4-0.6) buckets.
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+
+    # Verify BEARISH SIGNAL / BULLISH SIGNAL prefix strings removed from HTML markup
+    assert "BULLISH SIGNAL: <span id=\"alertBullishText\"" not in html
+    assert "BEARISH SIGNAL: <span id=\"alertBearishText\"" not in html
+
+    # Verify tradingSignal uses new vocabulary
+    assert "label: 'Stretched'" in html
+    assert "label: 'Elevated'" in html
+    assert "label: 'Mid-range'" in html
+    assert "label: 'Soft'" in html
+    assert "label: 'Depressed'" in html
+
+    # Verify signal_base_rates.json contains new buckets
+    base_rates_file = REPO_ROOT / "data" / "views" / "signal_base_rates.json"
+    assert base_rates_file.exists()
+    br = json.loads(base_rates_file.read_text(encoding="utf-8"))
+    buckets = br.get("buckets", {})
+    assert "stretched" in buckets
+    assert "elevated" in buckets
+    assert "mid_range" in buckets
+    assert "soft" in buckets
+    assert "unconditional" in buckets
+    assert buckets["elevated"]["n"] >= 30
+    assert buckets["mid_range"]["n"] >= 30
+    assert buckets["stretched"]["n"] >= 30
+
+
+
 

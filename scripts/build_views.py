@@ -451,7 +451,16 @@ def build_signal_base_rates(out_path="data/views/signal_base_rates.json"):
         print("  [SIGNAL] only %d rows - too short for a 5Y base rate" % len(vals))
         return None
 
-    buckets = {"overheated": [], "accumulate": [], "deep_distress": [], "unconditional": []}
+    buckets = {
+        "overheated": [],
+        "stretched": [],
+        "elevated": [],
+        "mid_range": [],
+        "accumulate": [],
+        "soft": [],
+        "deep_distress": [],
+        "unconditional": [],
+    }
     for i in range(W5, len(vals) - FWD):
         window = vals[i - W5:i + 1]
         pctl = sum(1 for x in window if x <= vals[i]) / len(window)
@@ -459,10 +468,16 @@ def build_signal_base_rates(out_path="data/views/signal_base_rates.json"):
         buckets["unconditional"].append(fwd)
         if pctl > 0.8:
             buckets["overheated"].append(fwd)
-        elif pctl < 0.2:
-            buckets["deep_distress"].append(fwd)
-        elif pctl < 0.4:
+            buckets["stretched"].append(fwd)
+        elif pctl >= 0.6:
+            buckets["elevated"].append(fwd)
+        elif pctl >= 0.4:
+            buckets["mid_range"].append(fwd)
+        else:
             buckets["accumulate"].append(fwd)
+            buckets["soft"].append(fwd)
+        if pctl < 0.2:
+            buckets["deep_distress"].append(fwd)
 
     def summarise(series):
         if len(series) < 30:
@@ -477,6 +492,7 @@ def build_signal_base_rates(out_path="data/views/signal_base_rates.json"):
     payload = {
         "header": {
             "source": src,
+            "as_of": rows[-1][0],
             "method": ("Forward %d-session (~3 month) return of the BDI, bucketed by the "
                        "index's own percentile within a trailing %d-session (~5 year) window. "
                        "Base rates, not forecasts." % (FWD, W5)),

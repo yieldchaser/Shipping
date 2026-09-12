@@ -600,13 +600,13 @@
       vertical-align: middle;
     }
 
-    .signal-sell {
+    .signal-sell, .signal-stretched {
       background: rgba(248, 81, 73, 0.14);
       color: #f85149;
       border: 1px solid rgba(248, 81, 73, 0.35);
     }
 
-    .signal-golden {
+    .signal-golden, .signal-depressed {
       background: rgba(63, 185, 80, 0.14);
       color: #3fb950;
       border: 1px solid rgba(63, 185, 80, 0.35);
@@ -624,13 +624,13 @@
       border: 1px solid rgba(227, 179, 65, 0.35);
     }
 
-    .signal-accumulate {
+    .signal-accumulate, .signal-soft {
       background: rgba(88, 166, 255, 0.14);
       color: #58a6ff;
       border: 1px solid rgba(88, 166, 255, 0.35);
     }
 
-    .signal-wait {
+    .signal-wait, .signal-elevated, .signal-mid {
       background: rgba(139, 148, 158, 0.12);
       color: #8b949e;
       border: 1px solid rgba(139, 148, 158, 0.3);
@@ -11104,10 +11104,10 @@
 
   <div class="alerts-container" id="alertsContainer">
     <div id="alertBullish" class="alert-box alert-bullish">
-       BULLISH SIGNAL: <span id="alertBullishText"></span>
+      <span id="alertBullishText"></span>
     </div>
     <div id="alertBearish" class="alert-box alert-bearish">
-      BEARISH SIGNAL: <span id="alertBearishText"></span>
+      <span id="alertBearishText"></span>
     </div>
   </div>
 
@@ -18722,29 +18722,32 @@ function buildMaster() {
 
     // One bucket rendered as a factual base rate, or '' when we have no numbers.
     // Never guesses: no data means the banner simply says less.
-    function baseRatePhrase(bucket) {
+    function baseRatePhrase(bucket, plainText) {
       var br = SIGNAL_BASE_RATES && SIGNAL_BASE_RATES.buckets;
       var b = br && br[bucket], u = br && br.unconditional;
       if (!b || !u) return '';
       var since = ((SIGNAL_BASE_RATES.header || {}).first_measurable || '').slice(0, 4);
-      var MINUS = String.fromCharCode(8722), NB = String.fromCharCode(8239), RSQ = String.fromCharCode(8217);
+      var MINUS = plainText ? '-' : String.fromCharCode(8722), NB = plainText ? ' ' : String.fromCharCode(8239), RSQ = "'";
       var f = function (x) { return (x >= 0 ? '+' : MINUS) + Math.abs(x).toFixed(1); };
-      return ' Historically' + (since ? ' since ' + since : '') + ', the BDI' + RSQ +
-        's next 3 months from this zone averaged <strong>' + f(b.mean_pct) + '%</strong> (median ' +
+      var sOpen = plainText ? '' : '<strong>';
+      var sClose = plainText ? '' : '</strong>';
+      return 'Historically' + (since ? ' since ' + since : '') + ', the BDI' + RSQ +
+        's next 3 months from this zone averaged ' + sOpen + f(b.mean_pct) + '%' + sClose + ' (median ' +
         f(b.median_pct) + '%, higher ' + b.win_rate_pct.toFixed(0) + '% of the time, n' + NB + '=' + NB +
         b.n.toLocaleString('en-US') + ') against ' + f(u.mean_pct) +
         '% for any random day. Base rate, not a forecast.';
     }
 
     function tradingSignal(stats) {
-      if (!stats) return { label: 'WAIT', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT', cls: 'signal-wait' };
+      if (!stats) return { label: 'Mid-range', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> Mid-range', cls: 'signal-wait signal-mid' };
       const { pctl5y, zScore252, alltimePctl } = stats;
-      if (pctl5y > 0.8) return { label: 'SELL (Overheated)', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> SELL (Overheated)', cls: 'signal-sell' };
-      if (pctl5y < 0.2 && zScore252 < -0.5 && alltimePctl > 0.4) return { label: 'GOLDEN DIP', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> GOLDEN DIP', cls: 'signal-golden' };
-      if (pctl5y < 0.1 && zScore252 < -0.6) return { label: 'CATCHING KNIFE', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg> CATCHING KNIFE', cls: 'signal-knife' };
-      if (pctl5y < 0.3 && alltimePctl < 0.3) return { label: 'VALUE TRAP', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> VALUE TRAP', cls: 'signal-trap' };
-      if (pctl5y < 0.4) return { label: 'ACCUMULATE', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg> ACCUMULATE', cls: 'signal-accumulate' };
-      return { label: 'WAIT', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> WAIT', cls: 'signal-wait' };
+      if (pctl5y > 0.8) return { label: 'Stretched', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> Stretched', cls: 'signal-sell signal-stretched' };
+      if (pctl5y < 0.1 && zScore252 < -0.6) return { label: 'Depressed - high volatility', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg> Depressed - high volatility', cls: 'signal-knife signal-depressed' };
+      if (pctl5y < 0.2 && zScore252 < -0.5 && alltimePctl > 0.4) return { label: 'Depressed', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg> Depressed', cls: 'signal-golden signal-depressed' };
+      if (pctl5y < 0.3 && alltimePctl < 0.3) return { label: 'Depressed - structurally weak', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> Depressed - structurally weak', cls: 'signal-trap signal-depressed' };
+      if (pctl5y < 0.4) return { label: 'Soft', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg> Soft', cls: 'signal-accumulate signal-soft' };
+      if (pctl5y >= 0.6) return { label: 'Elevated', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> Elevated', cls: 'signal-wait signal-elevated' };
+      return { label: 'Mid-range', text: '<svg class="signal-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> Mid-range', cls: 'signal-wait signal-mid' };
     }
 
     function pctColor(pct) {
@@ -18794,7 +18797,18 @@ function buildMaster() {
       const sigEl = document.getElementById('dashSignal');
       sigEl.innerHTML = sig.text;
       sigEl.className = 'signal-badge ' + sig.cls;
-      sigEl.setAttribute('data-tooltip', `Marine Intelligence Signal for ${prod.label} - evidence-calibrated ladder over 5Y Percentile and Z-Score. Backtested on BDI since 1991: overheated (>80th pctl) preceded -1.1% avg fwd 3M vs +7.5% unconditional; deep-distress zones (Knife/Trap) preceded +24% to +33% avg fwd 3M with 69-75% win rates.`);
+      const bdiCal = productKey === 'bdiy';
+      var sigTip = `Marine Intelligence Signal for ${prod.label} \u2014 evidence-calibrated ladder over 5Y Percentile and Z-Score.`;
+      var brTip = '';
+      if (bdiCal) {
+        if (sig.label === 'Stretched') brTip = baseRatePhrase('stretched', true) || baseRatePhrase('overheated', true);
+        else if (sig.label === 'Elevated') brTip = baseRatePhrase('elevated', true);
+        else if (sig.label === 'Mid-range') brTip = baseRatePhrase('mid_range', true);
+        else if (sig.label === 'Soft') brTip = baseRatePhrase('soft', true) || baseRatePhrase('accumulate', true);
+        else if (sig.label.startsWith('Depressed')) brTip = baseRatePhrase('deep_distress', true);
+      }
+      if (brTip) sigTip += ' ' + brTip;
+      sigEl.setAttribute('data-tooltip', sigTip);
 
       // MOMENTUM REGIME (NEW)
       renderRegimeBadge(productKey, stats.currentPrice);
@@ -18804,39 +18818,36 @@ function buildMaster() {
       const bearishEl = document.getElementById('alertBearish');
       const bullishTxt = document.getElementById('alertBullishText');
       const bearishTxt = document.getElementById('alertBearishText');
-      // Alerts banner — evidence-audited ladder (BDI backtest 1991-2026, n=8,930):
-      // SELL >80th pct: -1.1% avg fwd 3M vs +7.5% uncond. | GOLDEN DIP +21.4% (58% win)
-      // VALUE TRAP +23.9% (69% win) | CATCHING KNIFE +32.6% (75% win).
-      // KNIFE/TRAP names warn about volatility/structural doubt, but empirically
-      // deep-distress zones were the strongest forward-return territory — so they
-      // route to the constructive banner with their realized profiles attached.
       const pctTxt = (stats.pctl5y * 100).toFixed(1);
-      const bdiCal = productKey === 'bdiy';
       let bannerTone = null;
       let bannerMsg = '';
-      if (sig.label === 'GOLDEN DIP') {
-        bannerTone = 'bull';
-        bannerMsg = '<strong>' + sig.label + ' ACTIVE</strong> : Market positioned in value accumulation zone (' + pctTxt + '% 5Y Percentile).' + (bdiCal ? ' Since 1991: <strong>+21.4% avg fwd 3M BDI</strong> (58% win).' : '');
-      } else if (sig.label === 'ACCUMULATE') {
-        bannerTone = 'bull';
-        bannerMsg = '<strong>' + sig.label + ' ACTIVE</strong> : Sub-40th-percentile value zone (' + pctTxt + '% 5Y Percentile).' + (bdiCal ? ' Modestly positive fwd returns since 1991; the strongest edge sits deeper in the distribution.' : '');
-      } else if (sig.label === 'CATCHING KNIFE') {
-        bannerTone = 'bull';
-        bannerMsg = '<strong>' + sig.label + ' ZONE</strong> : Deep-distress pricing (' + pctTxt + '% 5Y Percentile, z \u2264 \u22120.6). The label warns of volatility, but since 1991 this was the strongest forward-return zone on BDI (<strong>+32.6% avg fwd 3M, 75% win</strong>). Scale in via tranches.';
-      } else if (sig.label === 'VALUE TRAP') {
-        bannerTone = 'bull';
-        bannerMsg = '<strong>' + sig.label + ' WATCH</strong> : Cheap on both 5Y and all-time windows (' + pctTxt + '% 5Y Percentile). Named for structural-doubt risk, yet historically <strong>+23.9% avg fwd 3M (69% win)</strong> on BDI since 1991.';
-      } else if (sig.label.indexOf('SELL') !== -1) {
+      let bannerTip = '';
+
+      if (sig.label === 'Stretched') {
         bannerTone = 'bear';
-        bannerMsg = '<strong>' + sig.label + '</strong> : the index sits at ' + pctTxt + '% of its 5-year range.' + (bdiCal ? baseRatePhrase('overheated') : '');
+        bannerMsg = '<strong>STRETCHED</strong> \u00b7 the index sits at ' + pctTxt + '% of its 5-year range.';
+        bannerTip = bdiCal ? (baseRatePhrase('stretched', true) || baseRatePhrase('overheated', true)) : '';
+      } else if (sig.label.startsWith('Depressed')) {
+        bannerTone = 'bull';
+        bannerMsg = '<strong>' + sig.label.toUpperCase() + '</strong> \u00b7 the index sits at ' + pctTxt + '% of its 5-year range.';
+        bannerTip = bdiCal ? baseRatePhrase('deep_distress', true) : '';
+      } else if (sig.label === 'Soft') {
+        bannerTone = 'bull';
+        bannerMsg = '<strong>SOFT</strong> \u00b7 the index sits at ' + pctTxt + '% of its 5-year range.';
+        bannerTip = bdiCal ? (baseRatePhrase('soft', true) || baseRatePhrase('accumulate', true)) : '';
       }
+
       if (bannerTone === 'bull') {
         bullishTxt.innerHTML = bannerMsg;
         bullishEl.style.display = 'block';
+        bullishEl.setAttribute('data-tooltip', bannerTip);
+        bullishTxt.setAttribute('data-tooltip', bannerTip);
         bearishEl.style.display = 'none';
       } else if (bannerTone === 'bear') {
         bearishTxt.innerHTML = bannerMsg;
         bearishEl.style.display = 'block';
+        bearishEl.setAttribute('data-tooltip', bannerTip);
+        bearishTxt.setAttribute('data-tooltip', bannerTip);
         bullishEl.style.display = 'none';
       } else {
         bullishEl.style.display = 'none';
