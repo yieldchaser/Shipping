@@ -744,9 +744,9 @@
       white-space: nowrap;
       background: linear-gradient(90deg, rgba(240,192,64,0.07) 0%, rgba(240,192,64,0.03) 50%, rgba(240,192,64,0.07) 100%);
       border-bottom: 1px solid rgba(240,192,64,0.18);
-      padding: 7px 20px;
+      padding: 7px 0;
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       align-items: center;
       min-height: 32px;
       mask-image: linear-gradient(90deg, transparent 0%, #000 40px, #000 calc(100% - 40px), transparent 100%);
@@ -755,20 +755,33 @@
     .ticker-track {
       display: inline-flex;
       align-items: center;
-      justify-content: center;
-      transition: opacity 0.35s ease, transform 0.35s ease;
-      max-width: 100%;
+      /* Continuous marquee. The track holds the quote list twice, so translating
+         by exactly -50% lands on an identical frame and the loop is seamless.
+         Duration is set in JS from the measured width so speed stays constant
+         however many quotes there are. */
+      white-space: nowrap;
+      will-change: transform;
+      animation-name: ticker-scroll;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+    @keyframes ticker-scroll {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-50%); }
+    }
+    .ticker-wrap:hover .ticker-track { animation-play-state: paused; }
+    @media (prefers-reduced-motion: reduce) {
+      .ticker-track { animation: none; }
     }
     .ticker-item {
       display: inline-flex;
       align-items: center;
+      padding-right: 64px;
       font-size: 12px;
       color: rgba(240,192,64,0.85);
       font-style: italic;
       letter-spacing: 0.2px;
-      max-width: 100%;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      flex: 0 0 auto;
     }
     .ticker-item .ticker-attr {
       font-style: normal;
@@ -11064,30 +11077,28 @@
       var icon = '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:8px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/></svg></span>';
       var el = document.getElementById('averyTicker');
       if (!el) return;
-      var qIdx = 0;
-      var paused = false;
-      var wrap = el.parentElement;
-      if (wrap) {
-        wrap.addEventListener('mouseenter', function () { paused = true; });
-        wrap.addEventListener('mouseleave', function () { paused = false; });
+
+      function itemHtml(q) {
+        return '<span class="ticker-item"><span class="ticker-icon">' + icon + '</span>' +
+               q.text + (q.attr ? '<span class="ticker-attr">— ' + q.attr + '</span>' : '') +
+               '</span>';
       }
-      function renderQuote(i) {
-        var q = quotes[i % quotes.length];
-        el.style.opacity = '0';
-        el.style.transform = 'translateY(6px)';
-        setTimeout(function () {
-          el.innerHTML = '<span class="ticker-item"><span class="ticker-icon">' + icon + '</span>' + q.text + (q.attr ? '<span class="ticker-attr">— ' + q.attr + '</span>' : '') + '</span>';
-          el.style.opacity = '1';
-          el.style.transform = 'translateY(0)';
-        }, 220);
+
+      // Two identical passes: the animation translates by -50%, which is exactly
+      // one pass, so the seam is invisible and no quote is ever cut mid-word.
+      var pass = quotes.map(itemHtml).join('');
+      el.innerHTML = pass + pass;
+
+      // Constant scroll speed (px/sec) regardless of how many quotes there are.
+      var PX_PER_SEC = 55;
+      function setSpeed() {
+        var onePass = el.scrollWidth / 2;
+        if (!onePass) return;
+        el.style.animationDuration = Math.max(30, Math.round(onePass / PX_PER_SEC)) + 's';
       }
-      renderQuote(0);
-      setInterval(function () {
-        if (!paused) {
-          qIdx = (qIdx + 1) % quotes.length;
-          renderQuote(qIdx);
-        }
-      }, 7000);
+      setSpeed();
+      window.addEventListener('resize', setSpeed);
+      if (document.fonts && document.fonts.ready) { document.fonts.ready.then(setSpeed); }
     })();
   </script>
 
