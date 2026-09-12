@@ -459,5 +459,14 @@ def test_signal_banner_and_vocabulary():
     assert buckets["stretched"]["n"] >= 30
 
 
-
-
+def test_bunker_port_detail_code_fallback_and_feedback():
+    """G-10: openBunkerPortDetail must support lookup by stable port code, UN/LOCODE,
+    and display name, and when a port is not found, it must show visible user feedback
+    rather than failing silently.
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+    assert "function openBunkerPortDetail(portIdent)" in html
+    assert "port.code" in html
+    assert "port.locode" in html
+    assert "Port Not Found: " in html
+    assert "modal.style.display = 'flex'" in html

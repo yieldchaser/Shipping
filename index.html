@@ -47125,8 +47125,8 @@ function plotBunkerPortMarkers() {
           '<div><div class="signal-field-label">Updated</div><div class="signal-field-val" style="font-size:var(--fs-micro);">' + escapeHtml(p.latest_date) + '</div></div>' +
           '</div>' +
           '<div style="display:flex; gap:6px; margin-top:8px;">' +
-          '<button class="signal-vessel-btn" style="flex:1;" onclick="focusBunkerPort(\'" + escapeHtml(p.name) + "\')">Historical Chart</button>' +
-          '<button class="signal-vessel-btn" style="flex:1; background:rgba(77,154,255,0.18); border-color:var(--accent);" onclick="openBunkerPortDetail(\'" + escapeHtml(p.name) + "\')">Port Detail</button>' +
+          '<button class="signal-vessel-btn" style="flex:1;" onclick="focusBunkerPort(\'' + escapeHtml(p.name) + '\')">Historical Chart</button>' +
+          '<button class="signal-vessel-btn" style="flex:1; background:rgba(77,154,255,0.18); border-color:var(--accent);" onclick="openBunkerPortDetail(\'' + escapeHtml(p.code || p.name) + '\')">Port Detail</button>' +
           '</div>' +
           '</div>';
 
@@ -47377,7 +47377,7 @@ function renderBunkersSpotTable() {
     tr.innerHTML = '<td>' +
       '<div style="font-weight:700; color:#fff; display:flex; align-items:center; gap:6px;">' +
       '<span>' + escapeHtml(p.name) + '</span>' +
-      '<button onclick="event.stopPropagation(); openBunkerPortDetail(\'' + escapeHtml(p.name) + '\');" title="Open Port Fuel Detail Modal" style="background:none; border:none; cursor:pointer; color:var(--accent); padding:0; font-size:11px; display:inline-flex; align-items:center;">' +
+      '<button onclick="event.stopPropagation(); openBunkerPortDetail(\'' + escapeHtml(p.code || p.name) + '\');" title="Open Port Fuel Detail Modal" style="background:none; border:none; cursor:pointer; color:var(--accent); padding:0; font-size:11px; display:inline-flex; align-items:center;">' +
       '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>' +
       '</button>' +
       '</div>' +
@@ -47396,7 +47396,7 @@ function renderBunkersSpotTable() {
     });
 
     tr.addEventListener('dblclick', function() {
-      openBunkerPortDetail(p.name);
+      openBunkerPortDetail(p.code || p.name);
     });
 
     tbody.appendChild(tr);
@@ -48061,23 +48061,57 @@ function renderBunkersScrubberTable() {
   }
 }
 
-function openBunkerPortDetail(portName) {
+function openBunkerPortDetail(portIdent) {
+  if (!portIdent) return;
+  var target = String(portIdent).trim();
+  var targetLower = target.toLowerCase();
+  var targetClean = target.replace(/\s+/g, '').toUpperCase();
   var summary = DATA.bunkerSummary;
   var ports = summary && summary.ports ? summary.ports : [];
   var p = null;
+
+  // 1. Match against ports by exact name, lower name, code, or locode
   for (var i = 0; i < ports.length; i++) {
-    if (ports[i].name === portName) { p = ports[i]; break; }
+    var port = ports[i];
+    if (port.name === target || (port.name && port.name.toLowerCase() === targetLower)) { p = port; break; }
+    if (port.code && (port.code === target || port.code.toLowerCase() === targetLower)) { p = port; break; }
+    if (port.locode && (port.locode === target || port.locode.replace(/\s+/g, '').toUpperCase() === targetClean)) { p = port; break; }
   }
+
+  // 2. Fallback check against composites
   if (!p) {
     var comps = summary && summary.composites ? summary.composites : [];
     for (var j = 0; j < comps.length; j++) {
-      if (comps[j].name === portName) { p = comps[j]; break; }
+      var comp = comps[j];
+      if (comp.name === target || (comp.name && comp.name.toLowerCase() === targetLower)) { p = comp; break; }
+      if (comp.code && (comp.code === target || comp.code.toLowerCase() === targetLower)) { p = comp; break; }
     }
   }
-  if (!p) return;
 
   var modal = document.getElementById('bunkerPortDetailModal');
   if (!modal) return;
+
+  // 3. User feedback when port lookup fails rather than failing silently (G-10)
+  if (!p) {
+    var titleEl = document.getElementById('bunkerModalPortTitle');
+    var subEl = document.getElementById('bunkerModalPortSub');
+    if (titleEl) titleEl.textContent = 'Port Not Found: ' + target;
+    if (subEl) subEl.textContent = 'No matching bunker price records found for this port code/name in the active summary.';
+    var outlierEl = document.getElementById('bunkerModalOutlierBanner');
+    if (outlierEl) outlierEl.style.display = 'none';
+    ['bunkerModalKpiVlsfo', 'bunkerModalKpiMgo', 'bunkerModalKpiHsfo', 'bunkerModalKpiHi5', 'bunkerModalKpiBio', 'bunkerModalKpiLng', 'bunkerModalKpiMeoh'].forEach(function(id) {
+      var el = document.getElementById(id);
+      if (el) el.textContent = '—';
+    });
+    var spEl = document.getElementById('bunkerModalKpiSpreadSg');
+    if (spEl) { spEl.textContent = '—'; spEl.style.color = 'var(--text-muted)'; }
+    if (bunkerPortDetailChartInstance) {
+      try { bunkerPortDetailChartInstance.destroy(); } catch (e) {}
+      bunkerPortDetailChartInstance = null;
+    }
+    modal.style.display = 'flex';
+    return;
+  }
 
   document.getElementById('bunkerModalPortTitle').textContent = p.name + ' (' + (p.code || p.country || p.region) + ')';
   document.getElementById('bunkerModalPortSub').textContent = (p.country || '') + ' · ' + (p.region || '') + ' · Lat: ' + (p.lat ? p.lat.toFixed(2) : '—') + ', Lon: ' + (p.lon ? p.lon.toFixed(2) : '—') + ' · Observation ' + (p.latest_date || '2026-09-04');
@@ -48089,7 +48123,7 @@ function openBunkerPortDetail(portName) {
       var flagsTxt = p.outlier_flags.map(function(f) {
         return f.grade + ': $' + f.val.toFixed(2) + ' (' + (f.zscore > 0 ? '+' : '') + f.zscore + 'σ vs mean $' + f.mean.toFixed(1) + ')';
       }).join(' · ');
-      outlierBox.innerHTML = '<div style="font-weight:700; color:#f85149; margin-bottom:2px;">️ 3σ STATISTICAL OUTLIER GUARD ACTIVE</div><div style="color:#c9d1d9; font-size:11px;">' + escapeHtml(flagsTxt) + ' — The price is preserved from the authentic historical harvest but flagged due to high variance against global cluster distributions.</div>';
+      outlierBox.innerHTML = '<div style="font-weight:700; color:#f85149; margin-bottom:2px;">️ 3σ STATISTICAL OUTLIER GUARD ACTIVE</div><div style="color:#c9d1d9; font-size:11px;">' + escapeHtml(flagsTxt) + ' — The price is preserved from the authentic historical archive but flagged due to high variance against global cluster distributions.</div>';
     } else {
       outlierBox.style.display = 'none';
     }
