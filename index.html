@@ -716,6 +716,7 @@
       border-radius: 10px;
       padding: 16px;
       box-shadow: inset 0 1px 0 rgba(255,255,255,0.03);
+      overflow: hidden;
     }
 
     .chart-header {
@@ -743,32 +744,37 @@
       white-space: nowrap;
       background: linear-gradient(90deg, rgba(240,192,64,0.07) 0%, rgba(240,192,64,0.03) 50%, rgba(240,192,64,0.07) 100%);
       border-bottom: 1px solid rgba(240,192,64,0.18);
-      padding: 7px 0;
+      padding: 7px 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 32px;
+      mask-image: linear-gradient(90deg, transparent 0%, #000 40px, #000 calc(100% - 40px), transparent 100%);
+      -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 40px, #000 calc(100% - 40px), transparent 100%);
     }
     .ticker-track {
-      display: inline-block;
-      animation: ticker-scroll 180s linear infinite;
-    }
-    .ticker-wrap:hover .ticker-track {
-      animation-play-state: paused;
-    }
-    @keyframes ticker-scroll {
-      0%   { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: opacity 0.35s ease, transform 0.35s ease;
+      max-width: 100%;
     }
     .ticker-item {
-      display: inline-block;
-      padding: 0 64px;
+      display: inline-flex;
+      align-items: center;
       font-size: 12px;
-      color: rgba(240,192,64,0.75);
+      color: rgba(240,192,64,0.85);
       font-style: italic;
       letter-spacing: 0.2px;
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
     .ticker-item .ticker-attr {
       font-style: normal;
       font-size: 11px;
-      color: rgba(240,192,64,0.42);
-      margin-left: 6px;
+      color: rgba(240,192,64,0.5);
+      margin-left: 8px;
     }
     .ticker-item .ticker-icon { font-style: normal; margin-right: 8px; }
 
@@ -813,6 +819,8 @@
     .chart-canvas-wrap {
       height: 320px;
       position: relative;
+      overflow: hidden;
+      max-width: 100%;
     }
 
     /* DRAWDOWN CHART */
@@ -3365,19 +3373,16 @@
     .tracking-sector-toggle .cp-toggle-btn { font-size: var(--fs-micro); padding: 4px 9px; }
     .tracking-sector-toggle .sec-count { color: rgba(255,255,255,0.72); font-family: 'IBM Plex Mono', monospace; font-size: var(--fs-micro); margin-left: 3px; }
     .map-sector-overlay {
-      position: absolute;
-      top: 12px;
-      left: 12px;
-      z-index: 1000;
-      background: rgba(17, 24, 32, 0.9);
+      position: relative;
+      background: rgba(13, 19, 26, 0.95);
       border: 1px solid var(--border);
-      
-      padding: 8px 10px;
+      padding: 8px 12px;
       border-radius: 6px;
       font-size: var(--fs-micro);
       pointer-events: auto;
+      margin-bottom: 8px;
     }
-    .map-sector-overlay-title { font-size: var(--fs-micro); color: var(--text-muted); letter-spacing: 0.06em; margin-bottom: 6px; font-weight: 600; }
+    .map-sector-overlay-title { font-size: var(--fs-micro); color: var(--text-muted); letter-spacing: 0.06em; margin-bottom: 0; font-weight: 600; }
     .cp-selector-chips {
       display: flex;
       flex-wrap: wrap;
@@ -3751,19 +3756,15 @@
       background: rgba(77, 154, 255, 0.08);
     }
     .map-fleet-hud {
-      position: absolute;
-      top: 12px;
-      left: 12px;
-      right: 12px;
-      z-index: 999;
-      background: rgba(13, 19, 26, 0.92);
+      position: relative;
+      background: rgba(13, 19, 26, 0.95);
       border: 1px solid var(--border);
       border-radius: 6px;
       padding: 8px 12px;
-      
       display: flex;
       flex-direction: column;
       gap: 6px;
+      margin-bottom: 8px;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
     }
     .hud-metric-box {
@@ -4063,12 +4064,12 @@
     /* Map Overlays */
         .map-active-hud {
           position: absolute;
-          top: 12px;
-          left: 60px;
-          z-index: 1000;
+          top: 10px;
+          right: 12px;
+          left: auto;
+          z-index: 500;
           background: rgba(17, 24, 32, 0.9);
           border: 1px solid var(--border);
-          
           padding: 6px 12px;
           border-radius: 6px;
           font-size: 11px;
@@ -4080,12 +4081,11 @@
         }
         .map-legend-overlay {
           position: absolute;
-          bottom: 40px;
+          bottom: 12px;
           left: 12px;
-          z-index: 1000;
+          z-index: 500;
           background: rgba(17, 24, 32, 0.9);
           border: 1px solid var(--border);
-          
           padding: 8px 12px;
           border-radius: 6px;
           font-size: var(--fs-micro);
@@ -4111,9 +4111,9 @@
     .map-legend-dot.strait { background: #4d9aff; box-shadow: 0 2px 5px #4d9aff; }
     .map-coords-overlay {
       position: absolute;
-      bottom: 16px;
+      bottom: 12px;
       right: 12px;
-      z-index: 1000;
+      z-index: 500;
       background: rgba(17, 24, 32, 0.85);
       border: 1px solid var(--border);
       padding: 4px 8px;
@@ -11061,12 +11061,33 @@
         { text: '“I am the master of my fate, I am the captain of my soul.”', attr: 'William Ernest Henley' },
         { text: '“Savvy?”', attr: 'Captain Jack Sparrow' }
       ];
-      var icon = '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:4px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/></svg></span>';
-      var html = quotes.map(function (q) {
-        return '<span class="ticker-item"><span class="ticker-icon">' + icon + '</span>' + q.text + (q.attr ? '<span class="ticker-attr"> - ' + q.attr + '</span>' : '') + '</span>';
-      }).join('');
+      var icon = '<span class="icon-tile icon-tile-accent icon-tile-sm" style="margin-right:8px;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="5" r="3"/><line x1="12" y1="8" x2="12" y2="21"/><path d="M5 12H2a10 10 0 0 0 20 0h-3"/></svg></span>';
       var el = document.getElementById('averyTicker');
-      el.innerHTML = html + html; // doubled for seamless loop
+      if (!el) return;
+      var qIdx = 0;
+      var paused = false;
+      var wrap = el.parentElement;
+      if (wrap) {
+        wrap.addEventListener('mouseenter', function () { paused = true; });
+        wrap.addEventListener('mouseleave', function () { paused = false; });
+      }
+      function renderQuote(i) {
+        var q = quotes[i % quotes.length];
+        el.style.opacity = '0';
+        el.style.transform = 'translateY(6px)';
+        setTimeout(function () {
+          el.innerHTML = '<span class="ticker-item"><span class="ticker-icon">' + icon + '</span>' + q.text + (q.attr ? '<span class="ticker-attr">— ' + q.attr + '</span>' : '') + '</span>';
+          el.style.opacity = '1';
+          el.style.transform = 'translateY(0)';
+        }, 220);
+      }
+      renderQuote(0);
+      setInterval(function () {
+        if (!paused) {
+          qIdx = (qIdx + 1) % quotes.length;
+          renderQuote(qIdx);
+        }
+      }, 7000);
     })();
   </script>
 
@@ -14629,77 +14650,70 @@ if (intelTabsContainer) {
 
         <!-- Right Pane: Interactive Leaflet Map & Chokepoint Transit Analytics Drawer -->
         <div class="tracking-right-pane">
-          <!-- Leaflet Map Container -->
-          <div id="trackingMapContainer">
-            <!-- SURFACE D: Floating Live Fleet AIS HUD -->
-            <div class="map-fleet-hud" id="aisFleetHud">
-              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
-                <div style="display:flex; align-items:center; gap:8px;">
-                  <span class="live-dot-pulse"></span>
-                  <span style="font-size:var(--fs-micro); font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:0.05em;">FLEET AIS</span>
-                  <span class="fleet-hud-badge" id="hudTrackedCount">7,937 Tracked</span>
-                </div>
-                <div style="display:flex; align-items:center; gap:8px;">
-                  <label style="display:flex; align-items:center; gap:5px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;">
-                    <input type="checkbox" id="toggleLiveFleetLayer" checked onchange="toggleLiveFleetMarkers(this.checked)" />
-                    <span>Display Fleet Layer</span>
-                  </label>
-                </div>
+          <!-- SURFACE D: Floating Live Fleet AIS HUD -->
+          <div class="map-fleet-hud" id="aisFleetHud">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+              <div style="display:flex; align-items:center; gap:8px;">
+                <span class="live-dot-pulse"></span>
+                <span style="font-size:var(--fs-micro); font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:0.05em;">FLEET AIS</span>
+                <span class="fleet-hud-badge" id="hudTrackedCount">7,937 Tracked</span>
               </div>
-
-              <!-- HUD Metrics Strip -->
-              <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(80px, 1fr)); gap:6px; margin:4px 0;">
-                <div class="hud-metric-box">
-                  <span class="hud-lbl">Avg Speed</span>
-                  <span class="hud-num" id="hudAvgSpeed">11.4 kn</span>
-                </div>
-                <div class="hud-metric-box">
-                  <span class="hud-lbl">% Laden</span>
-                  <span class="hud-num" id="hudPctLaden">—</span>
-                </div>
-                <div class="hud-metric-box">
-                  <span class="hud-lbl">Capesize/VLOC</span>
-                  <span class="hud-num" id="hudCapeCount">2,246</span>
-                </div>
-                <div class="hud-metric-box">
-                  <span class="hud-lbl">VLCC/Suezmax</span>
-                  <span class="hud-num" id="hudTankerCount">2,315</span>
-                </div>
-                <div class="hud-metric-box">
-                  <span class="hud-lbl">LNG</span>
-                  <span class="hud-num" id="hudLngCount">1,273</span>
-                </div>
-                <div class="hud-metric-box">
-                  <span class="hud-lbl">LPG</span>
-                  <span class="hud-num" id="hudLpgCount">2,103</span>
-                </div>
-              </div>
-
-              <!-- HUD Segment & Status Filters -->
-              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
-                <div class="cp-btn-group" id="hudSegBtnGroup">
-                  <button class="cp-toggle-btn active" id="hudSegAll" onclick="setLiveFleetSegment('all')">All</button>
-                  <button class="cp-toggle-btn" id="hudSegDry" onclick="setLiveFleetSegment('dry_bulk')">Dry Bulk</button>
-                  <button class="cp-toggle-btn" id="hudSegTankers" onclick="setLiveFleetSegment('tankers')">Tankers</button>
-                  <button class="cp-toggle-btn" id="hudSegLng" onclick="setLiveFleetSegment('lng')">LNG</button>
-                  <button class="cp-toggle-btn" id="hudSegLpg" onclick="setLiveFleetSegment('lpg')">LPG</button>
-                </div>
-                <div class="cp-btn-group" id="hudStatusBtnGroup">
-                  <button class="cp-toggle-btn active" id="hudStatAll" onclick="setLiveFleetStatusFilter('all')">All Status</button>
-                  <button class="cp-toggle-btn" id="hudStatLaden" onclick="setLiveFleetStatusFilter('laden')">Laden</button>
-                  <button class="cp-toggle-btn" id="hudStatBallast" onclick="setLiveFleetStatusFilter('ballast')">Ballast</button>
-                </div>
+              <div style="display:flex; align-items:center; gap:8px;">
+                <label style="display:flex; align-items:center; gap:5px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;">
+                  <input type="checkbox" id="toggleLiveFleetLayer" checked onchange="toggleLiveFleetMarkers(this.checked)" />
+                  <span>Display Fleet Layer</span>
+                </label>
               </div>
             </div>
-            <div class="map-active-hud">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
-                <circle cx="12" cy="12" r="10"></circle>
-                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
-              </svg>
-              <span id="mapHudDetail">Measured PortWatch port calls · loading universe…</span>
+
+            <!-- HUD Metrics Strip -->
+            <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(80px, 1fr)); gap:6px; margin:4px 0;">
+              <div class="hud-metric-box">
+                <span class="hud-lbl">Avg Speed</span>
+                <span class="hud-num" id="hudAvgSpeed">11.4 kn</span>
+              </div>
+              <div class="hud-metric-box">
+                <span class="hud-lbl">% Laden</span>
+                <span class="hud-num" id="hudPctLaden">—</span>
+              </div>
+              <div class="hud-metric-box">
+                <span class="hud-lbl">Capesize/VLOC</span>
+                <span class="hud-num" id="hudCapeCount">2,246</span>
+              </div>
+              <div class="hud-metric-box">
+                <span class="hud-lbl">VLCC/Suezmax</span>
+                <span class="hud-num" id="hudTankerCount">2,315</span>
+              </div>
+              <div class="hud-metric-box">
+                <span class="hud-lbl">LNG</span>
+                <span class="hud-num" id="hudLngCount">1,273</span>
+              </div>
+              <div class="hud-metric-box">
+                <span class="hud-lbl">LPG</span>
+                <span class="hud-num" id="hudLpgCount">2,103</span>
+              </div>
             </div>
 
-            <div class="map-sector-overlay" id="mapSectorToggle" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all" data-tt-context="note">
+            <!-- HUD Segment & Status Filters -->
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+              <div class="cp-btn-group" id="hudSegBtnGroup">
+                <button class="cp-toggle-btn active" id="hudSegAll" onclick="setLiveFleetSegment('all')">All</button>
+                <button class="cp-toggle-btn" id="hudSegDry" onclick="setLiveFleetSegment('dry_bulk')">Dry Bulk</button>
+                <button class="cp-toggle-btn" id="hudSegTankers" onclick="setLiveFleetSegment('tankers')">Tankers</button>
+                <button class="cp-toggle-btn" id="hudSegLng" onclick="setLiveFleetSegment('lng')">LNG</button>
+                <button class="cp-toggle-btn" id="hudSegLpg" onclick="setLiveFleetSegment('lpg')">LPG</button>
+              </div>
+              <div class="cp-btn-group" id="hudStatusBtnGroup">
+                <button class="cp-toggle-btn active" id="hudStatAll" onclick="setLiveFleetStatusFilter('all')">All Status</button>
+                <button class="cp-toggle-btn" id="hudStatLaden" onclick="setLiveFleetStatusFilter('laden')">Laden</button>
+                <button class="cp-toggle-btn" id="hudStatBallast" onclick="setLiveFleetStatusFilter('ballast')">Ballast</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Map Sector Highlight Control Strip -->
+          <div class="map-sector-overlay" id="mapSectorToggle" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all" data-tt-context="note">
+            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
               <div class="map-sector-overlay-title">SECTOR HIGHLIGHT (PORTWATCH CALLS)</div>
               <div class="tracking-sector-toggle">
                 <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all">All <span class="sec-count" id="secMapCountAll">&mdash;</span></button>
@@ -14709,6 +14723,17 @@ if (intelTabsContainer) {
                 <button class="cp-toggle-btn" id="secMapGen" onclick="setTrackingMapSector('General Cargo')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="General Cargo">Gen Cargo <span class="sec-count" id="secMapCountGen">&mdash;</span></button>
                 <button class="cp-toggle-btn" id="secMapRoro" onclick="setTrackingMapSector('RoRo')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="RoRo">RoRo <span class="sec-count" id="secMapCountRoro">&mdash;</span></button>
               </div>
+            </div>
+          </div>
+
+          <!-- Leaflet Map Container -->
+          <div id="trackingMapContainer">
+            <div class="map-active-hud">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--accent);">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+              </svg>
+              <span id="mapHudDetail">Measured PortWatch port calls · loading universe…</span>
             </div>
 
             <div class="map-legend-overlay">
@@ -14752,7 +14777,7 @@ if (intelTabsContainer) {
 
             <div class="cp-spec-strip" id="cpDrawerNote">
               <div class="cp-spec-narrative">
-                <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb and steam around the Cape of Good Hope. The extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model.
+                <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb and steam around the Cape of Good Hope. <span title="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model." data-tooltip="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model.">Extra voyage days are calculated from the chokepoint transit-metrics model.</span>
               </div>
               <div class="cp-spec-grid">
                 <div class="cp-spec-item"><span class="cp-spec-label">Region</span><span class="cp-spec-val">Red Sea / Gulf of Aden</span></div>
@@ -17642,6 +17667,7 @@ if (intelTabsContainer) {
               m65f_oi: parseFloat(row.m65f_oi) || null,
               m65f_volume: parseFloat(row.m65f_volume) || null,
               fe65_fe62_premium_spread: parseFloat(row.fe65_fe62_premium_spread) || null,
+              spread: parseFloat(row.fe65_fe62_premium_spread) || null,
               lpf_settle: parseFloat(row.lpf_settle) || null,
               lpf_oi: parseFloat(row.lpf_oi) || null,
               lpf_volume: parseFloat(row.lpf_volume) || null,
@@ -18004,8 +18030,20 @@ if (intelTabsContainer) {
           loadPortCongestionHistory(),
           loadSignalFleetData(),
           fetchCSV('data/geospatial/portwatch_ports_master.csv').then(rows => {
-            DATA.universePorts = { rows: rows, byId: {} };
-            rows.forEach(r => { DATA.universePorts.byId[r.portid] = r; });
+            rows = rows || [];
+            DATA.universePorts = { rows: rows, list: rows, ports: rows, byId: {}, byLocode: {} };
+            rows.forEach(r => {
+              if (r.lat != null && r.lat !== '') r.lat = parseFloat(r.lat);
+              if (r.lon != null && r.lon !== '') r.lon = parseFloat(r.lon);
+              if (r.portid) DATA.universePorts.byId[r.portid] = r;
+              if (r.LOCODE) {
+                DATA.universePorts.byLocode[r.LOCODE] = r;
+                DATA.universePorts.byLocode[r.LOCODE.replace(/\s+/g, '')] = r;
+              }
+            });
+            if (window.currentTab === 'tracking' && (trackingActiveSubView === 'universe' || trackingActiveSubView === 'portpage')) {
+              renderUniverseTable();
+            }
           }),
           fetchCSV('data/congestion/portwatch_disruptions.csv').then(rows => {
             DATA.portwatchDisruptions = rows || [];
@@ -19007,6 +19045,7 @@ function buildMaster() {
         options: {
           responsive: true,
           maintainAspectRatio: false,
+          clip: true,
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true } },
@@ -22774,18 +22813,19 @@ function buildMaster() {
       // Tooltip coverage engine: after this tab's renderers ran, give every
       // still-uncontexted interactive element an honest hover annotation.
       if (typeof annotateCoverageGaps === 'function') {
-        annotateCoverageGaps(tabId);
+        window.__tabMounted = window.__tabMounted || {};
+        var isWarmRevisit = window.__tabMounted[tabId] === true;
+        window.__tabMounted[tabId] = true;
+        if (!isWarmRevisit) {
+          annotateCoverageGaps(tabId);
+        }
         // Sub-sections of some tabs (tables, settlement inspectors, desk groups)
         // render asynchronously after switchTab returns; re-stamp once the DOM
-        // settles. The stamped marker keeps this idempotent. PHASE SPEED: the
-        // delayed pass checks that this tab is still the active one - a slow
-        // tab's timer must not stamp panels that are no longer displayed
-        // (that stale pass was costing ~2.4s of main-thread time on later
-        // warm switches, which read as multi-second tab-switch latency).
+        // settles. The stamped marker keeps this idempotent.
         setTimeout(function () {
           if (currentTab !== tabId) return;
           try { annotateCoverageGaps(tabId); } catch (e) {}
-        }, 1500);
+        }, isWarmRevisit ? 200 : 500);
       }
 
 
@@ -33627,7 +33667,9 @@ function renderSignalsTab(productKey) {
         yScales.y.title.text = 'Spread ($/tonne)';
         datasets.push({
           label: '65/62 Carajás Quality Spread (M65F minus FEF)',
-          data: rows.map(function (r) { return r.spread; }),
+          data: rows.map(function (r) {
+            return r.spread != null ? r.spread : (r.fe65_fe62_premium_spread != null ? r.fe65_fe62_premium_spread : (r.m65f_settle != null && r.fef_settle != null ? +(r.m65f_settle - r.fef_settle).toFixed(2) : null));
+          }),
           borderColor: '#3fb950',
           backgroundColor: 'rgba(63,185,80,0.15)',
           borderWidth: 2.5,
@@ -33680,7 +33722,9 @@ function renderSignalsTab(productKey) {
         });
         datasets.push({
           label: '65/62 Quality Spread ($/t)',
-          data: rows.map(function (r) { return r.spread; }),
+          data: rows.map(function (r) {
+            return r.spread != null ? r.spread : (r.fe65_fe62_premium_spread != null ? r.fe65_fe62_premium_spread : (r.m65f_settle != null && r.fef_settle != null ? +(r.m65f_settle - r.fef_settle).toFixed(2) : null));
+          }),
           borderColor: '#3fb950',
           borderDash: [5, 4],
           backgroundColor: 'transparent',
@@ -39845,12 +39889,12 @@ window.__portHistoryCtx = null;
 
 // PortWatch measured sector keys (expanded feed): container, dry_bulk, general_cargo, roro, tanker, cargo.
 function pwSectorKey(sector) {
-  var s = (sector || 'all').toLowerCase();
+  var s = (sector || 'all').toLowerCase().replace(/\s+/g, '_').replace(/-/g, '_');
   if (s === 'all') return 'total';
-  if (s === 'tanker') return 'tanker';
-  if (s === 'dry bulk') return 'dry_bulk';
-  if (s === 'container') return 'container';
-  if (s === 'general cargo') return 'general_cargo';
+  if (s === 'tanker' || s === 'tankers') return 'tanker';
+  if (s === 'dry_bulk' || s === 'bulk') return 'dry_bulk';
+  if (s === 'container' || s === 'containers') return 'container';
+  if (s === 'general_cargo' || s === 'gencargo') return 'general_cargo';
   if (s === 'roro') return 'roro';
   return null; // LNG/LPG have no measured PortWatch class
 }
@@ -40897,7 +40941,7 @@ function updateSectorMapCounts() {
 function filterUniversePorts() {
   // Universe browser filter: name / country / LOCODE over all 2,065 ports,
   // plus the measured class filter (ports with YTD calls in the class).
-  var ports = (DATA.universePorts && DATA.universePorts.list) || [];
+  var ports = (DATA.universePorts && (DATA.universePorts.list || DATA.universePorts.rows || DATA.universePorts.ports)) || [];
   var q = (trackingSearchQuery || '').toLowerCase().trim();
   var cls = universeClassFilter;
   var stats = window.__trackingSectorPortStats || {};
@@ -40908,7 +40952,7 @@ function filterUniversePorts() {
       if (hay.indexOf(q) === -1) return false;
     }
     if (secKey) {
-      var sp = stats._byPort[p.portid];
+      var sp = stats._byPort && stats._byPort[p.portid];
       if (!sp || !((sp[secKey] || 0) > 0)) return false;
     }
     return true;
@@ -40958,7 +41002,8 @@ function renderUniverseTable() {
 
   var filtered = filterUniversePorts();
   var total = filtered.length;
-  if (badge) badge.textContent = total.toLocaleString('en-US') + ' of ' + ((DATA.universePorts && DATA.universePorts.list) || []).length.toLocaleString('en-US') + ' universe ports';
+  var totalUniverse = ((DATA.universePorts && (DATA.universePorts.list || DATA.universePorts.rows)) || []).length;
+  if (badge) badge.textContent = total.toLocaleString('en-US') + ' of ' + totalUniverse.toLocaleString('en-US') + ' universe ports';
 
   var totalPages = Math.ceil(total / UNIVERSE_PAGE_SIZE) || 1;
   if (universePage > totalPages) universePage = totalPages;
@@ -41005,7 +41050,9 @@ function renderUniverseTable() {
       }
     }
     var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[p.portid]) || {};
-    var sub = (p.country || '') + (p.LOCODE ? ' \u00b7 ' + p.LOCODE : '') + (meta.lat != null ? ' \u00b7 ' + meta.lat.toFixed(2) + '\u00b0, ' + meta.lon.toFixed(2) + '\u00b0' : '');
+    var latNum = (meta.lat != null && !isNaN(meta.lat)) ? Number(meta.lat) : null;
+    var lonNum = (meta.lon != null && !isNaN(meta.lon)) ? Number(meta.lon) : null;
+    var sub = (p.country || '') + (p.LOCODE ? ' \u00b7 ' + p.LOCODE : '') + (latNum != null ? ' \u00b7 ' + latNum.toFixed(2) + '\u00b0, ' + lonNum.toFixed(2) + '\u00b0' : '');
 
     tr.innerHTML = '<td><div style="font-weight:700; color:#fff;">' + escapeHtml(p.portname || p.portid) + '</div>' +
       '<div style="font-size:var(--fs-micro); color:var(--text-muted);">' + escapeHtml(sub) + '</div></td>' +
@@ -41077,8 +41124,10 @@ function renderPortPage() {
   var title = document.getElementById('ppTitle');
   var sub = document.getElementById('ppSub');
   if (title) title.textContent = meta.fullname || (meta.portname + ', ' + (meta.country || ''));
+  var latNum = (meta.lat != null && !isNaN(meta.lat)) ? Number(meta.lat) : null;
+  var lonNum = (meta.lon != null && !isNaN(meta.lon)) ? Number(meta.lon) : null;
   if (sub) sub.textContent = (meta.portname || '') + ' \u00b7 ' + (meta.country || '') + ' \u00b7 ' + (meta.continent || '') +
-    (meta.LOCODE ? ' \u00b7 LOCODE ' + meta.LOCODE : '') + ' \u00b7 ' + (meta.lat != null ? meta.lat.toFixed(3) + '\u00b0, ' + meta.lon.toFixed(3) + '\u00b0' : '');
+    (meta.LOCODE ? ' \u00b7 LOCODE ' + meta.LOCODE : '') + (latNum != null ? ' \u00b7 ' + latNum.toFixed(3) + '\u00b0, ' + lonNum.toFixed(3) + '\u00b0' : '');
 
   renderPortPageFacts(meta);
   renderPortPageActivity(meta);
@@ -46142,12 +46191,12 @@ function escapeHtml(str) {
             const momCls = (cat.mom_pct || 0) >= 0 ? 'pos' : 'neg';
             html = `<div class="rt-title">${cat.name || cat.label}: Spot Benchmark</div>`;
             html += `<div class="rt-row"><span class="rt-label">Latest Dayrate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">£${rateGbp.toLocaleString('en-US')} / d (~$${rateUsd.toLocaleString('en-US')})</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoyCls}">${yoy} (vs Aug '25 spot trough)</span></div>`;
             if (mom) html += `<div class="rt-row"><span class="rt-label">MoM Velocity</span><span class="rt-val ${momCls}">${mom}</span></div>`;
             if (cat.utilization_pct != null) html += `<div class="rt-row"><span class="rt-label">Fleet Utilisation</span><span class="rt-val">${cat.utilization_pct}%</span></div>`;
             if (cat.hi_52w) html += `<div class="rt-row"><span class="rt-label">52-Week Range</span><span class="rt-val">£${Math.round(cat.lo_52w || 0).toLocaleString('en-US')} – £${Math.round(cat.hi_52w).toLocaleString('en-US')}</span></div>`;
             if (cat.all_time_hi) html += `<div class="rt-row"><span class="rt-label">All-Time Peak</span><span class="rt-val" style="color:#f0883e;">£${Math.round(cat.all_time_hi).toLocaleString('en-US')} / d</span></div>`;
-            html += `<div class="rt-note">Direct monthly broker assessments from Seabrokers Seabreeze intelligence archive (2018–2026). Click to isolate segment.</div>`;
+            html += `<div class="rt-note">Direct monthly broker assessments from Seabrokers Seabreeze intelligence archive (2018–2026). YoY compares latest fixture rates against the Aug 2025 North Sea spot trough. Click to isolate segment.</div>`;
           }
         }
         else if (type === 'offshore-ledger-row') {
@@ -48283,18 +48332,13 @@ window.formatSeriesMuseumBadge = function formatSeriesMuseumBadge(opts) {
 };
 
 function fearnStatusBadge(st, s) {
-  if (s && s.route) {
-    return formatSeriesMuseumBadge({
-      status: st,
-      family: s.type,
-      name: s.route || s.k,
-      unit: s.unit,
-      n: s.n,
-      span: (s.first && s.last) ? (s.first + '→' + s.last) : null,
-      p: s.pct_rank
-    });
+  if (st === 'ACTIVE') {
+    if (s && s.last) {
+      return '<span class="series-asof-date" style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;white-space:nowrap;">As of ' + escapeHtml(s.last) + '</span>';
+    }
+    return '';
   }
-  var col = st === 'ACTIVE' ? 'var(--green)' : (st === 'STALE' ? 'var(--yellow,#e3b341)' : 'var(--text-muted)');
+  var col = st === 'STALE' ? 'var(--yellow,#e3b341)' : 'var(--text-muted)';
   return '<span class="series-museum-badge-sm" style="font-size:var(--fs-micro);font-weight:700;letter-spacing:0.5px;padding:1px 6px;border-radius:4px;border:1px solid ' + col + ';color:' + col + ';white-space:nowrap;">' + st + '</span>';
 }
 
@@ -48455,7 +48499,7 @@ function renderFearnOverview() {
     var sec = deskOf[t] != null ? deskOf[t] : 9;
     var st = fearnStatusOf(s);
     return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" ' + ttTile + '>' +
-      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st) + '</div>' +
+      '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st, s) + '</div>' +
       '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(s.route || s.k) + '</div>' +
       '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })) + '</div>' +
       '<div class="tracking-kpi-sub" style="' + chgStyle + '">' + chgTxt + '</div>' +
@@ -49643,6 +49687,8 @@ function renderFearnAc() {
     if (meta0) meta0.textContent = cls + ' — no published base curves in this cache; CN/JP variant classes or PRICES-only classes carry the data. Pick another class.';
     if (FDESK.acChart) { FDESK.acChart.destroy(); FDESK.acChart = null; }
     if (FDESK.acParityChart) { FDESK.acParityChart.destroy(); FDESK.acParityChart = null; }
+    var pCanvas0 = document.getElementById('fearnAcParity');
+    if (pCanvas0 && pCanvas0.parentElement) pCanvas0.parentElement.style.display = 'none';
     var pn0 = document.getElementById('fearnAcParityNote');
     if (pn0) pn0.textContent = 'no curves for ' + cls;
     return;
@@ -49675,9 +49721,15 @@ function renderFearnAc() {
     });
   }
   var meta = document.getElementById('fearnAcMeta');
-  if (meta) meta.textContent = cls + ' · ' + tenors.map(function (t) { return (tenorLabelMap[t] || t) + ' [' + t + ']'; }).join(' · ') + (ac.scrap && ac.scrap[scrapKey] ? ' · scrap: ' + (SCRAP_NAMES[scrapKey] || scrapKey) + ' [' + scrapKey + ']' : '');
+  if (meta) {
+    meta.textContent = cls + ' · ' + tenors.map(function (t) { return (tenorLabelMap[t] || t); }).join(' · ') + (ac.scrap && ac.scrap[scrapKey] ? ' · Scrap: ' + (SCRAP_NAMES[scrapKey] || scrapKey) : '');
+    var tip = 'Series keys: ' + tenors.join(', ') + (ac.scrap && ac.scrap[scrapKey] ? ' | Scrap: ' + scrapKey : '');
+    meta.setAttribute('title', tip);
+    meta.setAttribute('data-tooltip', tip);
+  }
   var canvas = document.getElementById('fearnAcChart');
   if (canvas && typeof Chart !== 'undefined') {
+    if (canvas.parentElement) canvas.parentElement.style.display = '';
     if (FDESK.acChart) { FDESK.acChart.destroy(); FDESK.acChart = null; }
     FDESK.acChart = new Chart(canvas.getContext('2d'), {
       type: 'line',
@@ -49700,22 +49752,27 @@ function renderFearnAc() {
   var pCanvas = document.getElementById('fearnAcParity');
   if (pCanvas && typeof Chart !== 'undefined') {
     if (FDESK.acParityChart) { FDESK.acParityChart.destroy(); FDESK.acParityChart = null; }
-    FDESK.acParityChart = new Chart(pCanvas.getContext('2d'), {
-      type: 'line',
-      data: {
-        labels: pc.map(function (p) { return p[0]; }),
-        datasets: [{
-          label: cls + ' 5y as % of NB', data: pc.map(function (p) { return p[1]; }),
-          borderColor: '#e3b341', backgroundColor: '#e3b34115', fill: true, borderWidth: 2, pointRadius: 0, tension: 0.2
-        }]
-      },
-      options: {
-        responsive: true, maintainAspectRatio: false,
-        interaction: { mode: 'index', intersect: false },
-        plugins: { legend: { labels: { color: '#d4dce8' } }, tooltip: { callbacks: { label: function (it) { return ' ' + it.formattedValue + '%'; } } } },
-        scales: { x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 12 } }, y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, callback: function (v) { return v + '%'; } } } }
-      }
-    });
+    if (!pc.length) {
+      if (pCanvas.parentElement) pCanvas.parentElement.style.display = 'none';
+    } else {
+      if (pCanvas.parentElement) pCanvas.parentElement.style.display = '';
+      FDESK.acParityChart = new Chart(pCanvas.getContext('2d'), {
+        type: 'line',
+        data: {
+          labels: pc.map(function (p) { return p[0]; }),
+          datasets: [{
+            label: cls + ' 5y as % of NB', data: pc.map(function (p) { return p[1]; }),
+            borderColor: '#e3b341', backgroundColor: '#e3b34115', fill: true, borderWidth: 2, pointRadius: 0, tension: 0.2
+          }]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: { legend: { labels: { color: '#d4dce8' } }, tooltip: { callbacks: { label: function (it) { return ' ' + it.formattedValue + '%'; } } } },
+          scales: { x: { grid: { color: 'rgba(28,35,51,0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 12 } }, y: { grid: { color: 'rgba(28,35,51,0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, callback: function (v) { return v + '%'; } } } }
+        }
+      });
+    }
   }
   var pn = document.getElementById('fearnAcParityNote');
   if (pn) {
@@ -50256,7 +50313,7 @@ function renderFearnMusWall() {
       }).join(' ');
       var chip = st === 'ARCHIVED' ? '<span style="font-size:11px;color:' + col + ';font-family:\'IBM Plex Mono\',monospace;">discontinued ' + s.last + '</span>' : '';
       return '<div class="tracking-kpi-card" style="cursor:pointer;padding:10px 12px;background:var(--card);border:1px solid var(--border);border-radius:6px;" onclick="openFearnMusModal(\'' + k.replace(/'/g, "\\'") + '\')" title="' + escapeHtml(k) + '">' +
-        '<div style="display:flex;justify-content:space-between;gap:4px;align-items:center;margin-bottom:3px;">' + fearnStatusBadge(st) + '<span style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + escapeHtml(s.type) + '</span></div>' +
+        '<div style="display:flex;justify-content:space-between;gap:4px;align-items:center;margin-bottom:3px;">' + fearnStatusBadge(st, s) + '<span style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">' + escapeHtml(s.type) + '</span></div>' +
         '<div style="font-size:12px;font-weight:600;color:var(--text-bright);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escapeHtml(s.route || k) + '</div>' +
         '<div style="font-size:11px;color:var(--text-muted);margin-bottom:4px;">' + escapeHtml(s.subtype || '') + ' · ' + s.unit + ' · ' + s.n + 'm</div>' +
         '<svg width="100%" height="32" viewBox="0 0 100 32" preserveAspectRatio="none"><polyline points="' + pts + '" fill="none" stroke="' + col + '" stroke-width="1.5" vector-effect="non-scaling-stroke"/></svg>' +
@@ -51138,7 +51195,7 @@ function renderOffshoreKPIs() {
       const yoy = c.yoy_change_pct != null ? (c.yoy_change_pct >= 0 ? '+' : '') + c.yoy_change_pct.toFixed(1) + '%' : '—';
       const yoyColor = (c.yoy_change_pct || 0) >= 0 ? 'var(--green)' : 'var(--red)';
       const util = c.utilization_pct != null ? c.utilization_pct + '%' : '—';
-      subEl.innerHTML = `YoY: <strong style="color:${yoyColor};">${yoy}</strong> · Util: <strong>${util}</strong>`;
+      subEl.innerHTML = `YoY: <strong style="color:${yoyColor};">${yoy}</strong> <span style="font-size:10px;color:var(--text-muted);font-weight:normal;">(vs Aug '25 trough)</span> · Util: <strong>${util}</strong>`;
     }
   });
 }
@@ -51530,11 +51587,8 @@ function renderOffshoreReports() {
         <span>${sizeStr}</span>
       </div>
       <div style="display:flex; gap:6px;">
-        <a href="${reportUrl}" target="_blank" rel="noopener" class="offshore-pdf-btn" data-tooltip="Download official Seabreeze monthly market intelligence report (PDF).">
-          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/>
-          </svg>
-          PDF
+        <a href="${reportUrl}" target="_blank" rel="noopener" class="offshore-download-btn offshore-pdf-btn" data-tooltip="Download official Seabreeze monthly market intelligence report (PDF).">
+          Download PDF
         </a>
       </div>
     </div>`;
