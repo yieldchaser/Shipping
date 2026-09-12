@@ -1,230 +1,191 @@
 # 17 — FINISH LINE (continuous run)
 
-**Read `00-GUARDRAILS.md` first.** This prompt replaces the unrun Prompts 15 and 16 as the
-thing you execute; those two files stay as **detailed sub-specs** that phases below point
-to. Work queue: **`docs/megaprompts/QUEUE-17.md`** (already written — every item, in order).
+**Read `00-GUARDRAILS.md` first.** Execute this prompt against the work queue
+**`docs/megaprompts/QUEUE-17.md`**. Prompts 15 and 16 remain as sub-specs that phases point to.
+
+Four appendices carry the measured evidence. **Read them before Phase 0 — they are the ground truth
+for this run, produced by clicking through every tab and reading the live DOM on 2026-09-11/12:**
+
+| Appendix | Contents |
+|---|---|
+| `17-APPENDIX-A-loader-map.md` | Every broken data loader: real file header, the fields the code wrongly reads, and the pre-Round-1 implementation to restore |
+| `17-APPENDIX-B-ui-baseline.md` | Per-tab measured counts and the exact offending items (empty states, dashes, internal wording, pills, accents, glows, clipped text, untipped controls, click failures) |
+| `17-APPENDIX-C-freshness-and-wiring.md` | Frozen view layer, 35 unscheduled writers, the USDA workflow that destroys data, hand-typed data files, on-screen data-quality defects |
+| `17-APPENDIX-D-design.md` | Design tokens, components, and the Tracking rebuild with a wireframe |
 
 ---
 
-## How this run works — read this twice
+## How this run works
 
-### You run until the queue is empty
-Do not stop at phase boundaries. Do not stop to report. Stop only when:
-1. every item in `QUEUE-17.md` is `DONE` or `BLOCKED`, **and** the full gate is green, or
-2. a §0.5 HARD STOP occurs.
+### Run until the queue is empty
+Do not stop at phase boundaries, do not stop to report. Stop only when every queue item is `DONE`
+or `BLOCKED` **and** the full gate is green, or on a §0.5 HARD STOP. The queue file is your memory:
+if context runs short, re-read it, find the first `TODO`, continue. Commit after each phase (stage
+only your own files, never `git add -A`, never push — the operator audits and pushes).
 
-If your context gets long, that's fine: the queue file *is* your memory. Re-read it, find
-the first `TODO`, continue. Commit after each phase (stage only your own files; never
-`git add -A`; never push — the operator audits and pushes).
+### Phase 0 writes the tests, and the tests must be at least as strict as the audit
+Write the proof machinery **before any fix**. On today's code each test must fail, and
+**it must report at least the counts in Appendix B §B1 for every tab**. A test that reports fewer
+findings than the appendix is too weak — tighten it until it matches or exceeds, and record the
+number it found next to the appendix number in the queue.
 
-### Proof comes from tests you write first, not from your report
-**Phase 0 builds the proof machinery before any fix.** Each test is specified exactly
-below. On the current code they **must fail**; record each one's failure count in the
-queue as the baseline. Then the whole run is: make them pass without weakening them.
+- **Test files are frozen after the Phase 0 commit.** At the end, `git diff <phase0-commit> -- tests/`
+  must show additions only — never a loosened assertion, a deleted case, or a threshold moved. The
+  operator runs exactly that diff.
+- **Allowlists** live in `data/reference/ui_test_allowlist.json`, one entry per exception, each with
+  a `reason` of at least 15 characters naming why it is legitimate. Entries are audited one by one.
+  Start it with only what Appendix B/C marks as legitimate (control labels like "Playback Speed:
+  1.0x", "Last 30 days"; the Intelligence tab's own API-key setting; vessel-consumption assumption
+  constants; Leaflet canvases).
 
-- **Test files are frozen after the Phase 0 commit.** `git diff <phase0-commit> -- tests/`
-  at the end must show only *additions* (new test files or new cases), never a loosened
-  assertion, a removed case or a widened allowlist without a queue line saying why.
-  The operator runs exactly this diff.
-- **Allowlists** (`data/reference/*_allowlist.json`) hold one entry per exception, each
-  with a reason. Every entry is audited. An allowlist that grows during the run is the
-  first thing checked.
-
-### How to write the queue (token budget)
-One line per item, updated in place:
-```
-Q-012 | DONE | tests/test_loader_contracts.py::sgx → pass | restored row.price mapping from 253691965:index.html L16636
-Q-031 | BLOCKED | NQBP 403 Cloudflare; tried requests, headless, Wayback CDX (0 snapshots)
-```
-No prose paragraphs. No pasted logs. The proof is the named test passing, and it's
-re-runnable. Screenshots only where an item says so.
+### Queue economy
+One line per item: `Q-012 | DONE | tests/test_ui_tabs.py::test_charts_have_data[signals] → pass |
+restored row.price mapping (App A §A0)`. No prose, no pasted logs. Screenshots only where asked.
 
 ### Never
 - type a number, percentage, date span or row count into `index.html` markup or prose
-- delete or hide a module to make a test pass. A module whose data genuinely doesn't exist
-  gets an allowlist entry with the reason and a proper empty state
-- invent a column mapping. Read the file's header, or restore the pre-Round-1 code
+- delete or hide a module to make a test pass — if data genuinely doesn't exist, give it a real
+  empty state and an allowlist entry with the reason
+- invent a column mapping — use Appendix A, or the file's real header
+- weaken a test, or add an allowlist entry without a reason line in the queue
 
 ---
 
-## PHASE 0 — Build the proof machinery (commit before any fix)
+## PHASE 0 — Proof machinery (commit before any fix)
 
-| Test | What it asserts | Baseline (measured 2026-09-11) |
-|---|---|---|
-| `tests/test_loader_contracts.py` | For every `fetchCSV` / `safeFetch` / `fetchCSVChunked` / `fetch(...json)` in `index.html`, every field the mapping code reads (`row.x`, `row['x']`, `r.x`) exists in that file's header, or is listed with a reason in `data/reference/loader_field_allowlist.json` (true aliases/fallbacks only). Static parse; no browser needed. | **~30 of 46 CSV loaders fail** |
-| `tests/test_no_empty_modules.py` (Playwright, headed Chrome, 1920×1080) | Mount each of the 12 tabs, wait for network idle + 2 s. No *visible* element's text matches: `not available`, `Loading...`, `Insufficient`, `cache unavailable`, `No data`, `awaiting`, a KPI whose value is `—` or `-`, or an empty canvas (all pixels one colour). Exceptions only via `data/reference/allowed_empty_modules.json` (module id + reason + manifest `series_id` showing DORMANT/UNAVAILABLE). | fails on Signals (SGX FFA, SGX iron ore, lead-lag, ETF z-score), Broker Desk overview, and more |
-| `tests/test_ui_copy_lint.py` (Playwright) | Visible `innerText` of every mounted tab (not tooltips) contains none of the banned internal terms (list in Phase 3). Allowlist `data/reference/copy_allowlist.json` by element id. | ~25 distinct terms present |
-| `tests/test_design_lint.py` | `index.html` and injected JS strings contain none of: `border-left: [2-6]px solid <non-neutral colour>` on cards/boxes; `box-shadow: 0 0 Npx <colour>` glows; `backdrop-filter: blur`; emoji / dingbat characters; `-webkit-background-clip: text`. | 13 / 30 / 12 / 11 / 0 |
-| `tests/test_layout.py` (Playwright) | At 1366×768 **and** 1920×1080: (a) the tab bar's `scrollWidth ≤ clientWidth` — every tab visible; (b) in every two-column row, the shorter column is ≥ 60% of the taller (catches Tracking's empty left column); (c) no element's text is clipped by `overflow:hidden` with an ellipsis on a tab label. | (a) fails: 1,491 px of tabs in 1,400 px |
-| `tests/test_perf_budget.py` | Prompt 16 Part A acceptance — headed Chrome, "Fast 4G" throttling. | ETFs 2.1 s per revisit, Tracking 18.7 MB CSV |
-| `tests/test_tooltip_coverage.py` | Prompt 16 Part B acceptance, ≥ 95% per tab after mount. | 61% of static controls |
+Build with Playwright (already used by `tests/test_phase8_regression_and_design.py`), a session
+fixture serving the repo over `http.server`, and one **mount helper** that: opens the tab, waits for
+network idle, **scrolls the whole panel top → bottom → top** (five Signals charts only render when
+scrolled into view — see Appendix C §C6), then waits 1 s. Every check below runs per tab, and again
+for every sub-tab/sub-view (Broker Desk 12, Tracking 5+, Bunkers 5, Cargo 6, ETFs, Signals).
 
-Queue items Q-001 … Q-007. **Commit as `test(phase0): proof machinery (expected to fail)`**
-and record the commit hash at the top of the queue file.
+| Test | Fails when |
+|---|---|
+| `test_loader_contracts.py` (static) | a loader reads a field absent from the file's header (Appendix A). Baseline: **27 loaders + the SGX group** |
+| `test_no_console_errors` | any `pageerror`, `console.error`, or a `[stale-guard] … blank canvas(es)` warning (the page's own blank-chart detector) |
+| `test_no_failed_requests` | any request ≥ 400 |
+| `test_no_empty_states` | visible text matches `not available / Loading… / Insufficient / unavailable / no data / awaiting / NaN / undefined / null / Invalid Date` |
+| `test_no_dash_kpis` | a KPI value is `—`, `-`, `n/a`, `NaN`, `$NaN` |
+| `test_charts_have_data` | a visible canvas has no Chart instance, or its datasets hold < 2 non-null points (exclude Leaflet via allowlist) |
+| `test_ui_copy_lint` | visible text contains an internal term (Phase 3 list), an all-caps status pill, a count badge, a file path (`data/…`, `.json`, `.csv`), `tsid`, or a number with > 4 decimals |
+| `test_no_typed_numbers` (static) | markup text outside `<script>` contains a value with a unit (`Mt`, `%`, `$`, `/day`, `days`, `NM`) that isn't an allowlisted control label |
+| `test_design_lint` (static + computed) | coloured left-edge accent (border-left ≥ 2 px, non-grey, other borders thinner), `box-shadow: 0 0 …` glow, `backdrop-filter: blur`, emoji/dingbat, gradient text. Baseline: **13 accents / 30+33 glows / 12+4 blurs / 11 emoji** |
+| `test_tooltip_coverage` | < 95% of visible controls carry a tooltip, or a tooltip starts with "Click/Toggle/Select/Tap", or is < 20 chars. Baseline: Broker Desk **12/65**, Cargo **5/11**, Intelligence **27/38** |
+| `test_layout` | tab bar `scrollWidth > clientWidth` at 1366 **and** 1920 (Offshore is hidden at both today); a panel scrolls horizontally; leaf text is clipped (Bunkers: 20 today); in a two-column row the shorter column < 60% of the taller |
+| `test_ui_sweep` | clicking any control raises an error or reveals a new empty state (Appendix B lists today's: Broker Desk "S&P & Assets" → "Loading…", Cargo sub-views → "UNAVAILABLE", …) |
+| `test_views_fresh` (static) | a `data/views/*.json` `as_of` is older than the newest date in the source it derives from (today: dashboard 2026-09-09 vs BDI 2026-09-11) |
+| `test_workflow_wiring` (static) | a file loaded by `index.html` has no writer script invoked by any workflow or by the `pages.yml` build step (today: 35) |
+| `test_single_writer` (static) | two scripts write the same data file (today: `fetch_usda_grains.py` vs `fetch_usda_grain_queues.py`) |
+| `test_manifest_matches_files` (static) | manifest `row_count` / `date_span` disagree with the file |
+| `test_perf_budget` | boot transfer > 0.5 MB, cumulative over 12 tabs > 8 MB, any cold tab switch with a long task > 200 ms, any warm switch > 50 ms (today: 55 MB, ETFs 2.1 s warm) |
 
----
-
-## PHASE 1 — Restore every blank module (highest user impact)
-
-**Root cause, verified:** Round 1's foundation commit `d21185f31` rewrote the data loaders
-with guessed column names. Before it, the page read the files' real columns — for SGX,
-`row.price` (`git show 253691965:index.html`, around line 6873 and the `sgxFiles` block at
-~16636) — so SGX curves and ~30 other modules have rendered empty since Round 1 went live.
-**The data itself is intact** (e.g. `sgx_cape_futures.csv` now ~9,175 rows, collected daily
-since March, appended every night by the collector).
-
-For every loader failing `test_loader_contracts.py`:
-1. Read the file's real header.
-2. If the pre-Round-1 `index.html` (`253691965`) had a working mapping for that file,
-   restore its logic. Cite the old line in the queue.
-3. Otherwise map from the header. Where the file is **long format** (e.g.
-   `australia_ppa_iron_ore.csv`: `port` + `iron_ore_exports_mt`; `brazil_comexstat_exports.csv`:
-   `commodity` + `metric_tonnes`), pivot it in code — don't invent wide columns.
-
-Known specifics:
-- SGX futures (7 files): `settlement` → `price`. SGX iron-ore curve
-  (`data/commodities/sgx_iron_ore_forward_curve.csv`): `fef_settle` / `m65f_settle` / …
-- Broker Desk Overview "cache unavailable": `renderFearnOverview` (`index.html` ~47935)
-  reads `cache.meta.labels_cached` etc. Make it match the real structure of the file it
-  loads.
-- Signals: lead-lag "Insufficient overlapping data", ETF premium/discount z-score stuck on
-  "Loading…". Trace both to their inputs.
-
-Done when `test_loader_contracts.py` and `test_no_empty_modules.py` pass. Screenshot the
-Signals tab and the Broker Desk overview.
+Commit as `test(phase0): proof machinery (expected to fail)` and record the hash in the queue.
 
 ---
 
-## PHASE 2 — Everything updates itself (deadline: before 2026-09-17)
+## PHASE 1 — Nothing on screen is blank or wrong-by-omission
 
-Execute **Prompt 15 Part A exactly** (11 unscheduled fetchers; `usda_weekly.yml` overwriting
-the rebuilt USDA queue file; `generate_stable_imo()`; incremental Fearnleys refresh;
-`monthly_trade_flows.yml`).
+1. **Every loader in Appendix A.** Restore the pre-Round-1 mapping where the appendix shows one;
+   otherwise map from the real header. Pivot the long-format files (§A3) rather than inventing wide
+   columns. Start with §A0 (SGX, 7 files, `settlement` → `price`) — it alone restores the SGX FFA
+   forward curve and the iron-ore term structure, and the underlying data is intact and growing
+   daily (~9,175 rows in the cape file).
+2. **The eight Signals modules with no chart object** (Appendix C §C6): FFA term structure BDRY and
+   BWET, BDI daily-change contribution, lead-lag correlation, ETF premium/discount z-score, ETF fund
+   flow signals, plus the two SGX curves from item 1.
+3. **Broker Desk**: overview "· cache unavailable" (`renderFearnOverview`, ~47935); TC Rates' five
+   `n/a` KPIs; the spot-vs-period chart drawing only one of its three legend series; S&P & Assets'
+   two blank charts, four `—` KPIs and stuck "Loading…".
+4. **Tracking**: `renderTrackingHUDRefreshNote is not defined`; "awaiting disruptions feed";
+   `hudDisruptionsActive = —`.
+5. **Cargo**: the HUD tiles must render from data (Phase 4 item 2 removes the typed values).
+6. Whatever else `test_no_empty_states`, `test_charts_have_data` and `test_ui_sweep` report.
 
-Plus **Braemar**:
-- `data/clarksons/braemar_live_rates.json` was captured **once** (10 Sep) and never
-  refreshed, yet it's labelled "Live GraphQL Feed". The endpoint
-  (`POST https://api.braemarscreen.com/api/graphql`, query `homepageMarkets`) is live and
-  **does update daily**: Cape Sep was $53,250 on 10 Sep and $51,250 on 11 Sep.
-- Write `scripts/scrapers/fetch_braemar_strip.py` (appends a dated snapshot to
-  `data/clarksons/braemar_strip_history.csv`). Schedule it daily after London close
-  (≈ 17:45 UTC).
-- **Intraday test:** a temporary workflow polls every 30 minutes, 07:00–17:30 UTC, for one
-  London trading day. If `price` ever differs from `prevClose` intraday, it's a live mark;
-  if not, it's a daily close. Record which in the queue and label it accordingly
-  ("Braemar close · 11 Sep"). Delete the temporary workflow afterwards.
-- It's not the same as SGX: Cape Sep 10 Sep — Braemar $53,250 vs SGX settlement $51,829.
-  Show it **once**, on Broker Desk → Overview, with an SGX comparison column. Remove it
-  from every other Broker Desk sub-tab.
+Done when those four tests pass on every tab **and every sub-view**.
 
 ---
 
-## PHASE 3 — The dashboard speaks to a trader, not to us
+## PHASE 2 — It keeps itself up to date (do before 2026-09-17)
 
-Visible text must never describe *how we got the data* or *our internal checks*. That
-belongs in a tooltip, in plain words, if anywhere.
-
-**Banned in visible text** (the `test_ui_copy_lint.py` list): unauthenticated · GraphQL ·
-Hasura · API · cache · pipeline · harvest · scrape/scraper/scraping · reverse-engineer ·
-fixture-grounded · canonical · taxonomy (alignment/audit) · audit · disclosure · "data
-reality" · honest · fabricat* · synthetic · quarantine · operator · "network inspection" ·
-pending · "editorial estimate" · "computed from the chart's own series" · "no external
-lookup" · "zero ton-mile sliders" · "Rule:" lines · all-caps status pills (LIVE OFFICIAL,
-LIVE HARBOR MASTER, LIVE MIRROR STATISTIC, LIVE SUPPLY REGISTRY, LIVE MULTIPLES, LIVE 5Y
-ENVELOPES, ACTIVE REROUTING, AUDIT DISCLOSURE, UNCLASSIFIED BUCKET, HIGH COVERAGE) ·
-count badges next to titles ("15 Active Pricing Modules", "540,640 BROKER FIXTURES",
-"40 TENORS", "7 TRADE BASINS", "98% GLOBAL OUTPUT", "182.8 MT ANNUAL RECORD").
-
-The Intelligence tab's "API key stored in your browser" setting is a real user feature:
-allowlist that element.
-
-**Replacement pattern** for every module footer:
-`Source: <publisher> · through <data_through>` — one muted line, from the manifest.
-STALE → amber text with age; DORMANT → red. (That's Prompt 15 Part B2's provenance line.)
-
-Specific rewrites:
-- **Commodity Flow Matrix** (Cargo): delete the "Fixture Data Reality … 53.2% Unclassified
-  … AUDIT DISCLOSURE" block. Column "Canonical Commodity" → "Commodity". The unclassified
-  row becomes an ordinary last row: "Not specified in fixture", with a tooltip. Delete the
-  "Primary Trade Corridor" column — it reads "Unspecified Origin → Unspecified Destination"
-  on almost every row. Delete the "Coverage Status" badges.
-  **Fix the volume column**: `total_qty_mt` sums only fixtures that report a quantity (grain:
-  50,132 fixtures → 2.6 Mt ≈ 52 t per fixture — impossible for a bulk fixture). Show
-  *fixtures with quantity reported* and the *median parcel size*, and drop parcels outside
-  1,000 t–450,000 t (dry) as unparseable. "Other Minor Cargoes 3,269.6 Mt" is a unit error:
-  find it.
-- Delete the "Signal Ocean Taxonomy Audit: National Customs Series vs Fixture Coverage" block.
-- Braemar header text ("Unauthenticated broker forward curve · …", "Live GraphQL Feed") →
-  "Braemar forward FFA · close <date>".
-- `"Source: … (Fearnleys Hasura monthly). Frozen-state display…"` → the standard provenance line.
+Appendix C is the specification. In order:
+1. **`pages.yml` build step** (§C1) — every view/cache builder runs at deploy, so what is published
+   is built from the newest data. The Dashboard has been frozen at 2026-09-09 since Round 1.
+2. **`usda_weekly.yml`** (§C4) — stop `fetch_usda_grains.py` overwriting the rebuilt queue file;
+   call `fetch_usda_grain_queues.py`. One writer per file, enforced by `test_single_writer`.
+3. **Schedule the 35 unscheduled writers** (§C2) — verify the real writer of each file first; then
+   Prompt 15 Part A's `monthly_trade_flows.yml` plus the nightly jobs. `generate_stable_imo()` goes.
+4. **Braemar** (§C3) — a daily fetch after the London close appending to a dated history; the
+   30-minute intraday probe for one session to settle whether it is a live mark or a daily close;
+   label it with what you find; show it once, on Broker Desk → Overview, with an SGX comparison.
+5. **Say what is static** — Signal Ocean positions and any other one-time snapshot get a real
+   as-of label, not "LIVE FLEET AIS", until something refreshes them.
 
 ---
 
-## PHASE 4 — Numbers that are wrong or typed
+## PHASE 3 — The dashboard speaks to a trader
 
-1. **`data/derived/chokepoint_transit_metrics.csv` is hand-typed.** No script builds it, it's
-   unregistered in the manifest, and Bab-el-Mandeb and Suez carry identical
-   `avg_rerouting_voyage_days_added = 14.5` and `implied_tonne_mile_expansion_pct = 28.4`.
-   These drive Tracking's "Cape voyage delay +14.5 days" and "Tonne-mile expansion +28.4%" KPIs.
-   - **Cape delay**: compute it from real distances. `data/geospatial/signal_distance_ports.json`
-     or great-circle via waypoints for a stated reference voyage (e.g. Singapore → Rotterdam via
-     Suez vs via the Cape) at a stated speed. Show the formula in the tooltip.
-   - **Tonne-mile expansion**: no source → remove it.
-   - `daily_transit_count` must come from PortWatch (it already feeds the 7D rate, 25.4/day),
-     not the CSV's 14.2.
-   - Build the file from a script, register it, or delete it.
-2. **Bab el-Mandeb detail box says "52.8 transits/day (+53.9% vs baseline)"** while the KPI
-   beside it says −51.9%. Fix the calculation and add a test: current / baseline − 1 must
-   agree between the box and the KPI.
-3. **Milestone text "adding an editorial estimate of about +14.5 days"** — delete; use the
-   computed number from item 1.
-4. **Baltic route codes on screen.** Wherever a route series is shown (Broker Desk dry and
-   tanker routes, TC rates, Fearnleys series, Signals FFA), append the official code as a
-   small muted suffix ("Tubarão → Qingdao · C3") **only** when
-   `data/reference/fearnleys_tsid_registry.json` has confidence `verified` or `inferred` (or,
-   for other feeds, when its route text matches `baltic_route_taxonomy.json` word for word).
-   The tooltip shows the official Baltic description. Timecharter baskets are named as
-   baskets: C5TC, P5TC/P4TC, S10TC, H7TC. **Never guess a code.** Anything without evidence
-   gets no code.
+Banned in visible text (Appendix B lists every instance and where):
+unauthenticated · GraphQL · Hasura · API · cache · pipeline · harvest · scrape/scraper · reverse-engineer ·
+fixture-grounded · canonical · taxonomy · audit · disclosure · "data reality" · honest · fabricat* ·
+synthetic · quarantine · operator · "network inspection" · pending · "editorial estimate" ·
+"computed from the chart's own series" · "no external lookup" · "zero ton-mile sliders" · "Rule:" lines ·
+file paths and `tsid` · all-caps pills (LIVE OFFICIAL / LIVE HARBOR MASTER / LIVE MIRROR STATISTIC /
+LIVE SUPPLY REGISTRY / LIVE MULTIPLES / LIVE 5Y ENVELOPES / LIVE PAIRED / LIVE FLEET AIS /
+ACTIVE REROUTING / EST. AUDIT / UNCLASSIFIED BUCKET / HIGH COVERAGE / FROZEN / MODELLED) ·
+count badges beside titles (540k Broker Fixtures, 14 Flow Datasets, 40 TENORS, 15 Active Pricing
+Modules, 7 TRADE BASINS, 98% GLOBAL OUTPUT, 182.8 MT ANNUAL RECORD).
+
+Replace each module footer with `Source: <publisher> · through <data_through>` from the manifest
+(amber when stale, red when dormant). Keep the Intelligence tab's API-key setting (allowlist).
+Delete the Cargo "Fixture Data Reality … AUDIT DISCLOSURE" block and the "Signal Ocean Taxonomy
+Audit" block; rename "Canonical Commodity" → "Commodity"; the unclassified row becomes
+"Not specified in fixture".
 
 ---
 
-## PHASE 5 — Layout and design
+## PHASE 4 — Numbers that are wrong, typed, or unlabelled
 
-1. **Tab bar**: rename "Cargo & Trade Flows" → **"Cargo"** and tighten tab padding so all 12
-   tabs fit at 1366 px (`test_layout.py` (a)).
-2. **Tracking — rebuild the layout on the Signal Ocean pattern** (`Inspiration/Screenshot
-   (9232).png`, `(9248).png`). Today it has an empty left column under a small chart, map
-   chips cramped over the map, and a long right column. Target:
-   - A full-height workspace under the tab bar, with **no page scroll for the primary view at
-     1920×1080**. Left panel 440–480 px: a compact filter row (sector · window · search) and
-     sub-views as tabs (Ports · Port calls · Chokepoints · Disruptions · Vessels) that render
-     **inside the left panel**. The map fills the rest and reacts to the selection.
-   - Details (a port's call history, a chokepoint's transit series) open **in the left panel or
-     a drawer under the map**, not as new full-width sections that leave a column empty.
-   - Sector filter chips move from floating over the map into the filter row. Legend: small,
-     bottom-left.
-   - KPI strip: one row, at most 6, value + one short label each.
-   - Milestones: a plain table (dates · event · source link), no cards.
-   - Screenshot at 1920×1080 and 1366×768.
-3. **Design lint to zero** — Prompt 16 Part C. Reference style: Kpler's chart
-   (`Inspiration/HN-0BL4awAAh6c5.jpg`) — neutral grey 5-year band, one accent line, thin
-   gridlines, a control panel on the left, no decoration.
-4. **Empty space**: `test_layout.py` (b) ≥ 60% column balance. Also no card with a fixed
-   height and a short body.
+1. **`chokepoint_transit_metrics.csv`** (§C5): build it from a script and register it, or delete it.
+   Compute the Cape delay from real distances at a stated speed and show the formula in the tooltip;
+   drop the tonne-mile expansion KPI (no source); take the transit count from PortWatch.
+2. **Cargo HUD tiles** (§C5): remove every typed number from markup; render from data; if a value
+   can't be computed the tile doesn't exist. Today they claim C3 $24.80 / C5 $10.60 while the same
+   repo shows C3 $42.12 and C5 $17.85.
+3. **"52.8 transits/day (+53.9% vs baseline)"** beside a KPI reading −51.9% — fix the sign and add a
+   test that the panel and the KPI agree.
+4. **Commodity Flow Matrix volumes** (§C6): report fixtures-with-quantity and median parcel size;
+   treat parcels outside 1,000–450,000 t as unparseable; find the "Other Minor Cargoes 3,269.6 Mt"
+   unit error; drop the "Unspecified → Unspecified" corridor column.
+5. **LNG Desk default series** (§C6): $1,000/day with ATL 0 is broken — choose a defensible default
+   and add a per-asset-class plausibility band, reporting (not hiding) anything outside it.
+6. **Route identity**: Broker Desk tiles truncate to "SUPRAMAX TRANSATL…" three times over, so S4A
+   and S4B are indistinguishable. Show the full route and append the official Baltic code as a muted
+   suffix ("US Gulf → Skaw-Passero · S4A") **only** where `fearnleys_tsid_registry.json` says
+   `verified`/`inferred`, or where the route text matches `baltic_route_taxonomy.json` exactly.
+   Tooltip carries the official description. Never guess a code.
+7. Numbers on screen are formatted: no "35.18357925 Mt/mo".
 
 ---
 
-## PHASE 6 — Speed and tooltips
-Execute **Prompt 16 Parts A and B exactly**. Tracking's 18.7 MB voyage CSV and the double
-`port_stress_summary.json` fetch are fixed here if Phase 5 hasn't already.
+## PHASE 5 — Layout and design (Appendix D)
+
+1. Rename the tab to **"Cargo"** and tighten padding until all 12 tabs fit at 1366 px.
+2. **Rebuild Tracking** to the §D4 wireframe: KPI strip, filter bar, 460 px left panel with
+   sub-views that always have a default selection, map filling the rest, detail drawer under the
+   map. No page scroll for the primary view at 1920×1080; left panel must not scroll sideways.
+3. Apply §D2/§D3 tokens and components; design lint to zero; fix the 20 clipped Bunkers values and
+   the clipped LPG labels.
+4. Tooltips to ≥ 95% per tab, three beats, with source and date (Prompt 16 Part B).
+
+## PHASE 6 — Speed
+Prompt 16 Part A: ETFs re-rendering on every revisit (2.1 s), Tracking's 18.7 MB voyage CSV, the
+duplicated `port_stress_summary.json` fetch, the 4.4 MB bunker summary at boot, 55 MB per session.
 
 ## PHASE 7 — Complete and current data
-Execute **Prompt 15 Parts B, C and D exactly** (August 2026 pulls; GACC tonnes; JODI; EIA LNG;
-TradeStat; ABS; coverage matrix), rendering each into the redesigned layout.
+Prompt 15 Parts B–D: August 2026 where published (ComexStat already has it), GACC tonnes, JODI,
+EIA LNG, India TradeStat, ABS, and the generated `docs/DATA_COVERAGE.md`.
 
-## PHASE 8 — Final gate
-- `pytest tests/ -q` (all, including Phase 0 tests) · detector · citations — all green.
-- `git diff <phase0-commit> -- tests/` shows additions only.
-- Screenshots of all 12 tabs at 1920×1080 → `docs/screenshots/17/`.
-- Last line of `QUEUE-17.md`: counts of DONE / BLOCKED, and the final commit hash.
+## PHASE 8 — Final
+Full `pytest tests/ -q` green · detector · citations · `git diff <phase0> -- tests/` additions only ·
+screenshots of all 12 tabs and every sub-view at 1920×1080 into `docs/screenshots/17/` ·
+last queue line: DONE/BLOCKED counts and the final commit hash.
