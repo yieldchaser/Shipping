@@ -367,3 +367,35 @@ def test_restocking_spot_no_spurious_interpolation():
     assert "function lookupSpot(spotMap, dateStr, dateObj, maxDiffMs)" in html
     assert "if (!maxDiffMs) return null;" in html
 
+
+def test_bix_regional_movers_asof_freshness():
+    """F-4: The displayed as-of date in the BIX regional movers table must equal the true
+    max observation date in the data behind it (e.g. 2026-09-09 from bix_history.csv),
+    not an earlier stale date like 2026-09-04.
+    """
+    bix_hist_path = DATA_DIR / "bunkers" / "bix_history.csv"
+    assert bix_hist_path.exists(), "bix_history.csv must exist"
+
+    import csv
+    with open(bix_hist_path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        hist_dates = [r["observation_date"] for r in reader if r.get("observation_date")]
+    true_max_date = max(hist_dates)
+    assert true_max_date >= "2026-09-09", f"Expected bix_history.csv to reach at least 2026-09-09, got {true_max_date}"
+
+    summary_path = DATA_DIR / "bunkers" / "bunker_frontend_summary.json"
+    assert summary_path.exists(), "bunker_frontend_summary.json must exist"
+    with open(summary_path, "r", encoding="utf-8") as f:
+        summary = json.load(f)
+    bix = summary.get("benchmarks_bix", [])
+    assert bix, "benchmarks_bix must not be empty"
+    bix_max_date = max(r["date"] for r in bix if r.get("date"))
+    assert bix_max_date == true_max_date, (
+        f"benchmarks_bix max date ({bix_max_date}) must match bix_history.csv max date ({true_max_date})"
+    )
+
+    html = HTML_PATH.read_text(encoding="utf-8")
+    assert "bunkerBixMoversObs" in html
+    assert "renderBunkersBixMovers" in html
+
+

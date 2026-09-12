@@ -197,6 +197,13 @@ def build_bunker_summary():
         bix_history_payload = _bbh.build_bix_history_payload(BIX_HISTORY_CSV)
         print(f"BIX history archive: {len(_rows_written)} rows "
               f"({len({r['observation_date'] for r in _rows_written})} obs dates)")
+        # Guarantee df_bix contains the freshest trailing observation dates from the archive
+        if os.path.exists(BIX_HISTORY_CSV):
+            df_hist = pd.read_csv(BIX_HISTORY_CSV)
+            if not df_hist.empty and 'observation_date' in df_hist.columns:
+                obs_dates = sorted(df_hist['observation_date'].dropna().unique())
+                trailing_dates = obs_dates[-10:] if len(obs_dates) >= 10 else obs_dates
+                df_bix = df_hist[df_hist['observation_date'].isin(trailing_dates)].sort_values(['observation_date', 'index_code', 'grade']).copy()
     except Exception as e:
         print(f"WARNING: BIX history accumulation skipped ({e})")
 

@@ -5589,7 +5589,7 @@
       background: rgba(77, 154, 255, 0.16);
     }
     .bunkers-port-row.selected td:first-child {
-      box-shadow: inset 3px 0 2px var(--accent);
+      box-shadow: inset 3px 0 0 var(--accent);
     }
 
     .bunkers-table-footer {
@@ -47749,7 +47749,7 @@ function renderBunkersBixStrip() {
         });
       });
       var el = document.getElementById('bunkerBixArchBadge');
-      if (el && d0 && d1) el.textContent = 'Archive ' + d0 + ' to ' + d1 + ' · accumulates with each daily update';
+      if (el && d0 && d1) el.textContent = 'Archive ' + d0 + ' to ' + d1 + ' · accumulates with each daily harvest';
     } catch (e) {}
   })();
 
