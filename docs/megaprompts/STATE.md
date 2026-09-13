@@ -562,15 +562,16 @@ read them. New `scripts/fearnleys/build_gas_rate_csvs.py` rebuilds them from `fe
 (every old value matched the catalog; none lost) and adds `lngc_174k_nb_price`; wired into
 `data_expansion.yml` with `build_desk_caches.py`. Guard: `tests/test_gas_rates.py`.
 
-### Open — 11 older tests failing on main before today (not in the 46 + UI contract)
-Found running the whole `tests/` tree. All fail identically on `c4128a35a`; none caused by today's work.
-- `test_speed_budget.py` (7): expect boot-time `idleSchedule` prefetch, `idleYield` refreshes and a
-  progressive-render generation guard. `dc7037ec5` ("payload budget") deliberately moved those loads to
-  tab open, and `86cc840d6` dropped the bunkers generation guard. Speed contract vs 58 MB transfer
-  contract conflict — **owner decision**.
-- `test_stale_guard.py::test_meta_summary_jsons_fetch_no_cache`: `dc7037ec5` removed `{cache:'no-cache'}`
-  from the port_stress_summary fetch (dedupe) — a long-lived tab can keep a stale copy across deploys.
-- `test_bunker_cache_and_frontend.py` wave1 / phase_b: BIX mover accent style and "accumulates with each
-  daily harvest" copy added by `ccc612821`, removed one second later by `e57a427c7` (agent overwrite).
-- `test_freshness_and_wiring.py::test_fleet_supply_writer_and_asof_label`: manifest has no
-  `supply_fleet_orderbook_and_age_profile` series.
+### Closed — the 11 older failing tests (whole `tests/` tree now 305 passed, 1 skipped)
+- **Speed vs payload budget:** kept `dc7037ec5`'s load-on-tab-open (it keeps boot ≤ 4 MB and the sweep
+  ≤ 58 MB). Speed tests now pin that contract (loaders triggered by their tab, memoized promises).
+- **Real regressions restored:** Bunkers (8 charts) had become one synchronous block. New
+  `renderInFrames(steps, isStale)` renders one chart per frame with a generation guard — frames, not
+  2.5 s idle waits, so the chart-data sweep still sees data. Signals stays one pass with a tab-left
+  bail: slicing it tripped the stale-canvas guard and route-code gloss pass, which run on tab open. `no-cache`
+  restored on the port_stress_summary fetch (kept the dedupe).
+- **Outdated markers updated** to intentional later changes: Bunkers selected-row edge (`0 2px`), copy
+  lint's "update" for "harvest", roll-badge and target-price tooltip wording.
+- **Fleet supply manifest entry:** `build_provenance_manifest.py` rewrote the manifest and dropped the
+  `datasets` key that `fetch_fleet_supply.py` writes. It now carries `datasets` forward.
+- README brought up to date (tabs as they are now, route cards, Cargo tab, test commands and counts).

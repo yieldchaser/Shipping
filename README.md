@@ -25,7 +25,7 @@ The production analytical dashboard is served directly from this repository via 
 ```mermaid
 flowchart LR
     A["📡 <b>Data Sources</b><br/>Baltic, Breakwave, Hellenic,<br/>Amplify, SGX, ComexStat, PPA,<br/>US EIA, IMF PortWatch, EU ETS"] --> B["⚙️ <b>GitHub Actions</b><br/>19 Automated Workflows<br/>(Scheduled Crons + Ingestion)"]
-    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (102 rendered series)<br/>knowledge/ (RAG Corpus)"]
+    B --> C["🗄️ <b>Storage Layer</b><br/>data/ (104 rendered series)<br/>knowledge/ (RAG Corpus)"]
     C --> D["🌐 <b>Web Terminal</b><br/>index.html Dashboard &<br/>Browser RAG Assistant"]
 ```
 
@@ -90,8 +90,8 @@ Calculated weekly via Fearnleys Hasura GraphQL API (`scripts/backfill_historical
 | [`tanker_forward_curves_history.csv`](data/derived/tanker_forward_curves_history.csv) | **Tanker Forward History Accumulator** — persistent multi-snapshot forward curve time series | 2026-08-12 | Accumulating | `snapshot_date, forward_month, contract_label` + 12 forward TCE route columns |
 | [`time_charter_rates_fearnleys.csv`](data/derived/time_charter_rates_fearnleys.csv) | **Fearnleys-only** TC Rates — single-source reference for cross-validation | 2000-01-05 | ~1,595 | `date, capesize_1y_avg, panamax_1y_avg, supramax_1y_avg, handysize_1y_avg, vlcc_1y, suezmax_1y, aframax_1y` |
 | [`intermodal_tc_rates.csv`](data/derived/intermodal_tc_rates.csv) | **Intermodal** Weekly TC Rates ($/day) — fills MR, LR1, Handysize & 3Y period gaps | 2025-03-07 | ~43 | `date, source` + 20 rate columns (`mr_1y_tc`, `mr_3y_tc`, `lr1_1y_tc`, `lr1_3y_tc`, 3Y dry/wet period rates) |
-| [`lpg_charter_rates.csv`](data/derived/lpg_charter_rates.csv) | LPG 1Y TC Rates ($/month) from Fearnleys API | 2019-07-01 | ~359 | `date, vlgc_84k_tc, mgc_38k_tc, hdy_22k_tc` |
-| [`lng_charter_rates.csv`](data/derived/lng_charter_rates.csv) | LNG 7Y/10Y TC Rates ($/day) & Newbuilding Prices ($M) from Fearnleys API | 2017-01-05 | ~513 | `date, lngc_174k_7y_tc, lngc_174k_10y_tc, lngc_80k_nb_price, lngc_30k_nb_price, lngc_7k_nb_price` |
+| [`lpg_charter_rates.csv`](data/derived/lpg_charter_rates.csv) | LPG 1Y TC Rates ($/month) from the Fearnleys catalog, rebuilt daily by `build_gas_rate_csvs.py` | 2019-07-01 | ~364 | `date, vlgc_84k_tc, mgc_38k_tc, hdy_22k_tc` |
+| [`lng_charter_rates.csv`](data/derived/lng_charter_rates.csv) | LNG 174k 7Y/10Y TC Rates ($/day) and Newbuilding Prices ($M: 174k, 80k, 30k, 7.5k m³) from the Fearnleys catalog, rebuilt daily by `build_gas_rate_csvs.py`. Fearnleys publishes no charter rate below the 174k class. | 2013-12-29 | ~783 | `date, lngc_174k_7y_tc, lngc_174k_10y_tc, lngc_80k_nb_price, lngc_30k_nb_price, lngc_7k_nb_price, lngc_174k_nb_price` |
 | [`lpg_spot_rates.csv`](data/derived/lpg_spot_rates.csv) | LPG Spot Rates ($/day) from Fearnleys API | 2004-01-07 | ~1,152 | `date, vlgc_spot, mgc_spot` |
 | [`vessel_valuations.csv`](data/derived/vessel_valuations.csv) | S&P Secondhand 5Y/10Y Prices & Newbuilding Prices ($M) from Fearnleys | 1970-12-01 | ~20,499 | `date, category, tenor_type, vessel_class, valuation_usd_m` |
 | [`scrappage_prices.csv`](data/derived/scrappage_prices.csv) | Demolition/scrap prices by country ($/LDT) parsed via AnyDoc OCR engine | 2021-07-03 | ~377 | `date, dry_india, dry_bangla, dry_pak, dry_turkey, tanker_india, tanker_bangla, tanker_pak, container_india` |
@@ -162,8 +162,9 @@ Ingested weekly/monthly from official primary authorities (Brazil MDIC ComexStat
 || [`data/commodities/brazil_comexstat_exports.csv`](data/commodities/brazil_comexstat_exports.csv) | Brazilian monthly seaborne exports for Iron Ore (NCM 26011100), Crude Oil (27090010), Soybeans (1201*), Raw Sugar (1701*) — **Build C (1997-live, year-by-year):** every value server-returned from the live API (2026-08-25 rebuild); the 92-row 2024+ window is retained as the recent slice | 1997-01-01 → live (year-by-year, Build C) | 1997-live (92-row 2024+ recent slice retained) | `date, year, month, commodity, ncm, metric_tonnes, fob_usd` | Brazilian MDIC / SECEX (`fetch_comexstat_brazil.py`) |
 | [`data/commodities/australia_ppa_iron_ore.csv`](data/commodities/australia_ppa_iron_ore.csv) | Pilbara Ports Authority monthly iron-ore throughput for Port Hedland, parsed from official PPA cargo-statistics PDFs via the Internet Archive Wayback Machine. **REAL (live_ppa_archive)**: 15 months of measured Port Hedland loadings (2020-10 → 2024-05) with per-destination splits (China / Korea / Japan / Other). Coverage is bounded by what PPA published as machine-readable destination-origin PDFs — not a continuous series. | 2020-10-01 | 15 | `date, port, total_throughput_mt, iron_ore_exports_mt, destinations_t, mom_pct, yoy_pct, provenance` | Pilbara Ports Authority (`fetch_ppa_iron_ore.py`) — Wayback PDF parse |
 | [`data/commodities/major_miners_quarterly_shipments.csv`](data/commodities/major_miners_quarterly_shipments.csv) | Quarterly shipment run rates & C1 cash costs for Vale, Rio Tinto, BHP, Fortescue (FMG). **DIAGNOSTIC**: values are editorial estimates pending a live IR-feed scraper — flagged `provenance=editorial_estimate_diagnostic`, not verified against corporate filings, and surfaced as indicative only in the UI. | 2024-Q1 | 40 | `date, quarter, miner, production_mt, shipments_mt, c1_cash_cost_usd_t, annual_guidance, primary_loading_terminals, provenance` | Corporate Production Filings (`fetch_major_miners_production.py`) |
-| [`data/commodities/us_eia_weekly_crude_exports.csv`](data/commodities/us_eia_weekly_crude_exports.csv) | US Gulf Coast (PADD 3) & Total US weekly crude and petroleum exports with 4W MA — **Build C:** `EIA_API_KEY` required for 1991-live depth; without a key the existing real 2017+ file is kept as-is (no synthetic fallback) | 1991-01-01 → live (with key; else real 2017+ kept, no synthetic, Build C) | 1991-live with key, else 2017+ (~500 recent rows) | `date, us_total_crude_exports_kbpd, padd3_gulf_crude_exports_kbpd, us_total_petroleum_exports_kbpd, crude_4w_avg_kbpd, petro_4w_avg_kbpd` | US EIA Weekly Status Report (`fetch_eia_petroleum_exports.py`) |
+| [`data/commodities/us_eia_weekly_crude_exports.csv`](data/commodities/us_eia_weekly_crude_exports.csv) | Total US weekly crude oil exports (EIA series WCREXUS2) with 4-week average. EIA publishes weekly exports for the US as a whole only; there is no weekly Gulf Coast (PADD 3) split. `EIA_API_KEY` required to extend history. | 1991-02-08 | ~1,856 | `date, us_total_crude_exports_kbpd, crude_4w_avg_kbpd` | US EIA API v2 (`fetch_eia_petroleum_exports.py`) |
 | [`data/commodities/un_comtrade_guinea_bauxite.csv`](data/commodities/un_comtrade_guinea_bauxite.csv) | Bilateral monthly Guinea-to-China bauxite seaborne export volumes (HS 260600) | 2024-01-01 | 32 | `date, period, commodity, hs_code, reporter, partner, import_volume_mt, cif_usd, avg_cif_usd_t` | UN Comtrade v1 Data API (`fetch_un_comtrade_bauxite.py`) |
+| [`data/commodities/guinea_bauxite_exports.csv`](data/commodities/guinea_bauxite_exports.csv) | Guinea bauxite: China customs monthly imports from Guinea (UN Comtrade to 2024-12; SMM articles quoting GACC after, each kept only if its quote is still in the live article), Guinea Ministry of Mines national totals and 2025 producer ledger. Comtrade 2017 months are excluded from the chart (11% of Guinea's reported exports). | 2015-12-31 | ~144 | `date, tonnes, company, source_url, publisher, source_quote, method, granularity` | UN Comtrade / SMM / Guinea Mining Insights (`fetch_guinea_bauxite.py`) |
 | [`data/congestion/portwatch_port_congestion.csv`](data/congestion/portwatch_port_congestion.csv) | Daily measured port activity across Core12 hubs (Qingdao, Ningbo, Hedland, Newcastle, Singapore, Rotterdam, Houston, Tubarao, Santos, Rizhao, Hay Point, Qinhuangdao + All aggregate): port calls (total / dry bulk / tanker / container) and dry-bulk & tanker import/export tonnages (kt). **2026-08-25 audit:** the previous waiting-times/anchored-counts series was found to be simulated and has been withdrawn; only fields actually published by IMF PortWatch are stored. | 2019-01-01 → live (19,523 rows) | `date, portid, portname, country, hub_code, daily_port_calls_total, daily_port_calls_dry_bulk, daily_port_calls_tanker, daily_port_calls_container, import_dry_bulk_kt, export_dry_bulk_kt, import_tanker_kt, export_tanker_kt` | IMF PortWatch ArcGIS `Daily_Ports_Data` FeatureServer (`fetch_portwatch_port_activity.py`) — real observations only, no synthetic waiting times. |
 | [`data/derived/eu_ets_carbon_daily.csv`](data/derived/eu_ets_carbon_daily.csv) | Daily EU ETS EUA carbon allowance spot (€/t CO2), Hi-5 fuel spreads ($/MT), and scrubber savings. **Backfilled 2026-08-26 from ICAP's official Allowance Price Explorer** (2,988 real daily EUA prices, 2010 → 2026-06); live daily Hi-5 bunker spreads join where Ship & Bunker data exists. `provenance=icap_ape_eu_ets_daily`. | 2010-01-05 | 2,988 | `date, eua_carbon_price_eur_tco2, source_created_at, singapore_vlsfo_usd_mt, singapore_hsfo_usd_mt, singapore_hi5_spread_usd_mt, rotterdam_hi5_spread_usd_mt, houston_hi5_spread_usd_mt, capesize_scrubber_savings_usd_day, vlcc_scrubber_savings_usd_day, capesize_eu_ets_surcharge_usd_day, provenance` | ICAP Allowance Price Explorer + Ship & Bunker (`backfill_eu_ets_icap.py`, `fetch_eu_ets_carbon.py`) |
 | [`data/commodities/newcastle_coal_exports.csv`](data/commodities/newcastle_coal_exports.csv) | Monthly coal export throughput for Port of Newcastle (real TfNSW opendata XLSX, 2018-01 → 2026-07). **Note:** the README previously listed Dalrymple Bay (DBCT) and Gladstone — those ports are not yet in this feed; only Newcastle is covered. | 2018-01-01 | 103 | `date, port, export_tonnes_mt, coal_grade, vessels_loaded_count, primary_destinations` | Port of Newcastle / TfNSW opendata (`fetch_newcastle_coal.py`) |
@@ -213,13 +214,11 @@ Main quantitative overview for the selected index.
 
 ### 📅 Yearly Tab
 
-Multi-year macro cycles and decade-scale benchmark tracking.
+Multi-year macro cycles and decade-scale benchmark tracking. Opening the tab loads each index's full history (`data/views/indices/<key>.json`), not the 5-year boot window.
 
 - **Historical Price Chart**: Full history with rolling average toggle (5Y / 10Y / All-Time) and dual-handle range slider.
-- **Z-Score (Rolling 252-Day)**: All 7 products, selected product highlighted with 3M/6M/1Y/2Y/3Y lookback toggles.
-- **Historical Z-Score (All Time from 2008)**: Full-history structural cycle view.
+- **Z-Score (Rolling 252-Day)**: All 7 products, selected product highlighted, with 3M/6M/1Y/2Y/3Y and **All** (full history) windows.
 - **Multi-Year Rates**: Annual averages by product across all years.
-- **Current Year Monthly Bar**: MoM trend acceleration or decay color coding.
 - **Rates — All Products Multi-Year Overlay**: Last 4 years by trading day with product selector dropdown.
 - **Drawdown % (52-Week Rolling, Last 5 Years)**: Peak retracement depth across the last 5 years.
 
@@ -227,41 +226,33 @@ Multi-year macro cycles and decade-scale benchmark tracking.
 
 ### 🗓️ Seasonality Tab
 
-Quarterly, monthly, and heatmap seasonality in one workspace (all three sections render together).
+A **Quarterly ⇄ Monthly** toggle switches the whole workspace; the heatmap follows it. The tab uses each index's full history.
 
+**Quarterly**
 - **Win Rate KPI Cards**: Historical probability each quarter beats the prior quarter (Q1–Q4).
-- **Quarterly Spaghetti Chart**: Q1/Q2/Q3/Q4 across all years rebased to 100 at the start of Q1 to expose path dependency.
-- **Quarterly Area Comparison**: Current year (solid) vs prior year (dashed) vs 5-year rolling average (shaded).
-- **Quarterly Bar Chart**: Trailing 4 quarters with Quarter-over-Quarter (QoQ) direction coloring.
-- **Quarterly Data Grid**: 8-year tabular record showing Open, High, Low, Close, QoQ %, and full-year % change.
+- **Quarterly Spaghetti Chart**: Q1–Q4 across all years rebased to 100 at the start of Q1.
+- **Quarterly Area Comparison**: Current year vs prior year vs 5-year average.
+- **Quarterly Bar Chart**: Trailing 4 quarters, coloured by QoQ direction.
+- **Quarterly Heatmap**: Year × Quarter, absolute value or QoQ % with CSV download.
 
----
-
-**Monthly** — intra-year progression and momentum shifts.
-
-- **Monthly Win Rate KPI Cards**: Historical probability of each calendar month being positive across multi-decade history.
-- **Monthly Spaghetti Chart**: Index trajectory across all 12 calendar months for each historical year.
-- **Monthly Area Comparison**: Current year vs prior year vs 5Y seasonal average.
-- **Monthly Bar Chart**: 12-month rolling momentum summary.
-- **Monthly Data Grid**: 8-year $\times$ 12-month tabular matrix with relative scaling.
-
----
-
-**Heatmaps** — high-density seasonal momentum matrices.
-
-- **Monthly Performance Heatmap**: Year $\times$ Month, absolute value or MoM % return toggle with CSV download.
-- **Quarterly Heatmap**: Year $\times$ Quarter, absolute value or QoQ % return toggle with CSV download.
-- **8-Year Relative Scaling**: Color scaling tailored to recent 8-year windows to ensure modern volatility extremes remain visually distinct.
+**Monthly**
+- **Monthly Spaghetti Chart** and **Seasonal Position** (current path vs 5Y mean ±1σ).
+- **Monthly Area Comparison** and **Monthly Bar Chart** (last 12 months).
+- **Win-Rate Matrix**: 10Y / 15Y / All-Time win rate per month. A window the history cannot cover shows `-`.
+- **Monthly Performance Heatmap**: Year × Month, absolute value or MoM % with CSV download.
 
 ---
 
 ### 📈 Indices Tab
 
-Dedicated benchmark monitoring suite.
+Dedicated benchmark monitoring suite. Filters: **All · Baltic Freight · Dry Routes · Tanker Routes · Maritime Equities · Futures & ETFs** (counts reflect cards actually shown).
 
-- All 6 base indices as individual interactive chart cards (BDI, BCI, BPI, BSI, BHSI, BDTI, BCTI).
-- Current value, day change %, and status badge.
-- Dual-handle date range slider (defaults to last 5 years).
+Card order: BDI → vessel-class indices (Capesize, Panamax, Supramax, Handysize) → dry routes → tanker indices (BDTI, BCTI) → tanker routes → Capital Link equities → futures & ETFs.
+
+- **Index cards** load full history on tab open (BDI from 1985, vessel classes from 2008); the range slider reaches the first print and defaults to the last 5 years.
+- **Dry route cards** (Fearnleys route assessments): C3, C5, C9_182, C10_182, P1A_82–P4_82, S1C, S4A, S4B, S10.
+- **Tanker route cards** (Worldscale points): Fearnleys daily assessments from 2018-05 — VLCC MEG/Far East (**TD3C**), VLCC WAF/Far East, VLCC MEG/USG, Suezmax WAF/UKC (**TD20**), Suezmax Black Sea/Med, Aframax USG/UKC-Med (**TD25**), Aframax Ceyhan/Med, Aframax Caribs/USG — plus Gibson **TC1** and **TC5**. A Baltic code is shown only where the series tracks Gibson's print of that code (median gap 1.3–2.2%); titles match `data/reference/baltic_route_taxonomy.json` verbatim.
+- Routes are built into `data/views/routes/` by `scripts/build_views.py` and lazy-loaded. A route with no print for 30 days is hidden automatically; discontinued feeds (Fearnleys tanker tsIds 1–9, Primorsk/UKC) are not wired.
 - Stats strip: 52W High—Low · 52W Position · YTD % · From Last Trough.
 
 ---
@@ -317,55 +308,16 @@ Structured in the **"Executive Intelligence First"** workflow:
 
 ### 🎯 Signals Tab
 
-Comprehensive analytical suite arranged into **3 thematic quantitative sections**:
+Derivatives and technicals for the selected index.
 
-#### Section 1: Derivatives & Technicals
-- **A. Forward Curves & Derivatives Basis**:
-  - **SGX FFA Forward Curve**: Singapore Exchange settlements across live contract months for Capesize, Panamax, Supramax, and Handysize with vs 1W/2W/1M/3M historical comparisons and contract drilldown inspector. **Contract Archive** selector exposes every expired contract with available settlement history (Jan-2024 expiries onward) — full-life traces load lazily per vessel class and stay session-cached; active-contract clicks still drill down instantly from the curve.
-  - **FFA Term Structure (BDRY & BWET Curve Shape)**: Multi-contract prompt vs deferred slope analysis.
-  - **Futures vs Spot Premium (Basis)**: Front-month FFA vs combined spot basket tracking (Contango vs Backwardation).
-  - **Cape / Panamax Spread Ratio**: BCI / BPI ratio (Iron Ore vs Bulk Grain proxy) with rolling percentiles.
-- **B. Momentum & Volatility Regimes**:
-  - **Bollinger Bands (20D, 2σ)**: Price envelope with bandwidth squeeze indicators.
-  - **Historical Volatility**: Annualized volatility with all-time regime percentiles.
-  - **Rate-of-Change (ROC) Heatmap**: 7 products $\times$ 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y).
-  - **Seasonal Pattern Decomposition**: Historical average intra-year pattern $\pm 1\sigma$ band overlaid with current year.
-- **C. Cross-Asset Attribution & Lead-Lag**:
-  - **BDI Vessel Class Daily Contribution**: Daily point move attribution (50% Cape, 40% Pana, 10% Supra). *(Enhanced: Daily / 30D Cumulative / 90D Cumulative rolling attribution mode toggle. Speculative Cape vs Geared Divergence Alert badge — divergence = Cape 30D contrib − Pana+Supra 30D contrib.)*
-  - **Lead-Lag Cross-Correlation Analysis**: Cross-correlation of log returns (-30 to +30 days) identifying predictive lead times. *(Enhanced: 5 pre-configured institutional shipping asset pair presets with Optimal Peak Correlation marker showing peak r and t-test significance (t = r√((N−2)/(1−r²)), p < 0.05 threshold).)*
-  - **Win-Rate Matrices** *(New)*: Quarterly (Q1–Q4) and Monthly (Jan–Dec) empirical win-rate tables across 10Y / 20Y / All-Time lookback windows, color-coded green (>60%) / amber (40–60%) / red (<40%).
-- **D. ETF Market Timing & Sentiment Signals**:
-  - **ETF Premium/Discount Z-Score**: Standardized sentiment oscillator identifying extreme overextension ($Z > +2$) vs forced liquidation ($Z < -2$).
-  - **ETF Fund Flow Signals**: 5-day rolling flow vs NAV price to detect accumulation vs distribution divergences.
+- **SGX FFA Forward Curve** with contract history, and **SGX Iron Ore Forward Term Structure** (62% FEF vs 65% M65F) with settlement history.
+- **FFA Term Structure** for the BDRY/BWET curve shape, and **Futures vs Spot Basis**.
+- **Capesize / Panamax spread**, **Bollinger Bands (20-day, 2σ)**, **Historical Volatility**.
+- **Rate-of-Change Heatmap** (all products × timeframes) and **Intra-Year Cycle Pattern** (average ±1σ).
+- **BDI Daily Change — Vessel Class Contribution** and **Lead-Lag Correlation** of log returns.
+- **ETF Premium/Discount Z-Score** and **ETF Fund Flow Signals**.
 
-#### Section 2: Physical Freight & Cargo
-- **Time Charter Curve (Spot vs Period Term Structure)**: Spot $/day TCE earnings vs Period TC rates across all tenors (`[ 4/6M ] [ 1Y ] [ 2Y ] [ 3Y ] [ 5Y ] [ All Tenors ]`), Broker source toggles (`[ Merged ] [ Fearnleys ] [ Intermodal ] [ Both ]`), and Regional Basin selectors (`[ Global Blended ] [ Atlantic ] [ Pacific ] [ Both ]`).
-- **Live Period TCE Rate Matrix Heatmap Table**: Institutional weekly period charter assessment matrix for all 11 shipping classes across Dry Bulk and Liquid Tankers. Features:
-  - **Dynamic Multi-Horizon Momentum Toggles** (`[ 1W WoW ] [ 1M MoM ] [ 1Y YoY ]`) calculating week-on-week broker revisions, 30-day medium-term momentum, and 52-week structural expansion.
-  - **52-Week Trend Mini-Sparklines** plotted with inline high-DPI SVGs showing 52-week price trajectory, range spread, and high/low extremes.
-  - **10-Year Historical Cycle Percentile Ranks (2016–2026)** ranking prompt 1Y rates against the 10-year decade distribution with median rate benchmarks.
-  - **Basin Arbitrage Spreads (Dry Bulk)** evaluating Atlantic vs Pacific 1Y spreads ($/day) and % Atlantic premia.
-  - **Eco Fuel Savings & Term Structure Curve Slopes (Tankers)** displaying modern Tier III / Scrubber fuel efficiency premiums (+$2,900 to +$6,200/day) and classifying forward curves into Backwardation, Contango, or Flat.
-  - **Interactive Vessel Diagnostic Drilldown** expanding comprehensive vessel specifications (DWT, cargo, primary global routes) and momentum metrics upon row selection.
-  - **Rich Interactive Tooltips** dynamically personalized across all cells, buttons, sparklines, cycle ranks, and arbitrage spreads.
-- **Tanker FFA Forward Term Structures (22-Month Horizon)**: 22-month forward TCE expectations across 12 tanker routes (`[ VLCC TD3C ] [ Suezmax TD20 ] [ Aframax TD25 ] [ Clean LR1 TC5 ] [ Clean MR ] [ Overlaid ]`) with Eco fuel-efficiency premium spreads.
-- **Tonnage Basin Arbitrage (Atlantic vs Pacific Spread)**: Regional basin spreads and arbitrage ratios across 4/6M, 1Y, and 2Y period tenors with clean continuous historical baseline. *(Enhanced: multi-sector vessel toggle — Capesize / Panamax / Supramax / Handysize / All Dry Sectors. Basin Arbitrage HUD displays Net Spread $/day, Atlantic Premium %, 30D Moving Average Spread, and 90th Percentile Corridor.)*
-- **Leading Restocking Pressures & Raw Material Balances**: Spot Capesize freight vs Iron Ore prices and Qingdao Port Inventory with grade selector (`[ 62% Standard Fe ] [ 65% Carajas Fines ] [ China Steel Output & Inventories ]`). *(Enhanced: Inventory Coverage Days gauge (Port Inventory MT ÷ Daily Consumption), 30D Drawdown Velocity (MT/week), and Freight-to-Commodity Landed Cost Ratio % (Freight $/t ÷ CFR 62% $/t × 100).)*
-- **Cargo Demand Drivers — World Bank Commodity Prices** *(New)*: Monthly Pink Sheet series grouped into `[ Ore & Coal ] [ Energy ] [ Grains ] [ Base Metals ] [ WB Indices ]`, with USD vs rolling **% vs 5Y-ago** normalized views, `[ 5Y ] [ 10Y ] [ MAX ]` windows (1960→present), and a live HUD (Iron Ore / Coal AUS / Brent / Total Index with YoY badges). Lazy-loaded on first render so it never blocks page load; dynamic tooltips explain each group's freight-demand transmission channel.
-- **LPG Freight & Charter Rates**: Ras Tanura to Chiba VLGC 84k, MGC 38k, Handy 22k spot vs 1Y TC vs Baltic BLPG index with unit toggle (`[ $/Day TCE ] [ $/Month PCM ]`). *(Enhanced: segment selector — VLGC 84k / MGC 38k / Handy 22k / All LPG Fleet — with Spot-to-Period Arbitrage Spread indicator (Spot TCE $/d minus 1Y Period TC $/d).)*
-- **LNG Carrier Long-Term Period Rates & Shipyard Asset Values**: Modern 174k m³ 7-Year and 10-Year Time Charter rates ($/day) against shipyard newbuilding prices ($M) across 174k Large, 30k Mid-Scale, and 7k Small Coastal LNG carriers. *(Enhanced: vessel scale selector — 174k / 30k / 7k / All — with Implied Cash-on-Cash Payback Yield HUD: `Yield% = (10Y TC Rate × 365.25 / NB Price $M) × 100%`.)*
-
-#### Section 3: Vessel Capital Cycle
-- **Vessel Valuations & Demolition Scrap Floors**: S&P secondhand 5Y/10Y prices (1970–2026) with 3 sub-modes (`[ 10Y Asset Value ] [ Demolition Scrap Floor ] [ Implied Charter Yield % ]`) and multi-country recycling floors (India, Bangladesh, Pakistan, Turkey Aliağa, and Container Ship Scrappage $/LDT). *(Enhanced: sector selector — Capesize / Panamax / Supramax / Handysize / VLCC / Suezmax / Aframax — with Scrap Floor Margin of Safety Cushion %: `(Asset Value − Scrap Floor) / Asset Value × 100%`.)*
-- **Shipping Market Cycle Quadrant**: 4-phase trajectory (Recovery, Boom, Over-ordering, Restructuring) based on 60D spot momentum vs Spot/TC Z-scores. *(Enhanced: Days-in-Regime Counter vs 10Y Median Duration benchmark, and Dry/Crude/Product sector overlay toggle.)*
-
-#### Section 4: Upstream Commodity Flows & Port Logistics (`#signals-sec-upstream`)
-- **Brazilian Bulk Seaborne Exports (MDIC ComexStat)**: Monthly physical departures from Ponta da Madeira, Tubarão, and Santos with commodity toggles (`[ Iron Ore ] [ Crude Oil ] [ Soybeans ] [ Raw Sugar ] [ All Cargoes ]`) providing a 15–30 day leading indicator over Baltic Capesize (BCI C3) and Suezmax freight.
-- **Pilbara Ports Throughput & Major Miner Guidance**: Port Hedland monthly iron ore throughput (Mt), parsed from official PPA cargo-statistics PDFs, representing ~43% of global seaborne iron ore supply alongside quarterly production & C1 cash cost run rates for Vale, Rio Tinto, BHP, and Fortescue (`[ Port Hedland ] [ Miner Shipments ]`). *(Coverage is the 15 measured months PPA published as machine-readable destination-origin PDFs; a continuous live feed is pending.)*
-- **US Gulf Coast (PADD 3) Seaborne Petroleum Exports**: Weekly EIA crude and total petroleum export velocity (kbpd) with 4-week moving average overlay dictating VLCC TD22 (USG→China) and Suezmax TD20/TD27 ton-mile demand.
-- **Global Port Activity Monitor (Core12, measured AIS only)**: IMF PortWatch Core12 spatial AIS activity monitor (`[ Qingdao ] [ Ningbo ] [ Hedland ] [ Newcastle ] [ Singapore ] [ Rotterdam ] [ Houston ] [ Tubarao ] [ Santos ] [ Rizhao ] [ Hay Point ] [ Qinhuangdao ] [ All ]`) with daily port-calls and dry-bulk import/export tonnages (kt). *(2026-08-25 audit: re-scoped to "Global Port Activity Monitor" — the chart plots measured IMF PortWatch daily port calls and dry-bulk import tonnages only; the simulated waiting-time/anchored-count series was withdrawn. Caofeidian is not a tracked hub.)*
-- **EU ETS Maritime Carbon & Scrubber Hi-5 Fuel Economics**: Daily European Union Allowance (EUA) spot prices (€/t CO2) vs Singapore/Rotterdam Hi-5 bunker fuel spreads with an **Interactive Scrubber Payback & Voyage Cost Calculator** (Capesize, VLCC, Suezmax, Panamax vessel selectors, daily $/day savings, annualized $M advantage, and EU ETS voyage drag).
-- **Ton-Mile Absorption & Fleet Utilization Model Simulator (diagnostic)**: Dynamic active fleet utilization model ($U = \text{TM} / (\text{Fleet DWT} \times (1 - \text{Congestion}))$) for the **Capesize (380M DWT)** fleet. Interactive sliders for Guinea Bauxite exports, Brazil Iron Ore shipments, and Port Congestion factors dynamically recalculate Capesize supply elasticity, triggering non-linear super-cycle regime alerts when active fleet utilization breaches $88\%\text{--}90\%$. **Mechanism:** Guinea→China 11,200 nm consumes **3.11x** more Capesize DWT-days per tonne than WAus→China (3,600 nm). **Provenance (diagnostic badge):** Brazil live (ComexStat), Guinea live (UN Comtrade), WAus fixed 48 Mt/mo, 815 Bn Ton-NM corridor capacity — see `scripts/scrapers/generate_ton_mile_matrix.py`. *(The quantitative engine currently publishes Capesize ton-mile/Utilization; VLCC and Suezmax tabs appear automatically when the model emits those fleets.)*
+Physical freight, gas, capital-cycle and cargo modules that used to sit here now live on **Broker Desk** and **Cargo & Trade Flows**.
 
 ---
 
@@ -404,13 +356,16 @@ Executive macro desk and deep research workspace.
 
 ---
 
-### 🏗️ Fearnleys Desk Tab
+### 🏗️ Broker Desk Tab
 
-Full Hasura-sourced rate history: 294 series / 356 catalog ids, 32,085 monthly points.
+Fearnleys-sourced rate history plus period, route and capital-cycle modules.
 
 - **Rate Browser**: Desk pills (Tanker, Dry TC, LNG, LPG, Newbuilding, S&P), grouped series picker, Max/10Y/5Y/2Y ranges, live stat cards (latest, MoM, ATH/ATL, history percentile).
-- **Broker Voice**: Latest commentary with desk filter + search; full 11,709-comment archive lazy-loads per desk (tanker/dry/gas/S&P chunks).
-- **Backtest Lab**: Macro health score history with per-regime 1M forward-hit pills (realized outcomes, not forecasts).
+- **Live Period TCE Rate Matrix** (weekly Alibra benchmarks), **Tanker Routes** and **Dry Route Benchmarks** with daily charts, **Tanker FFA Forward Term Structures**.
+- **Tonnage Basin Arbitrage (Atlantic vs Pacific TC)**: each tenor opens on its own full span (1Y from 2015; 4-6M and 2Y from mid-2021, which is where Alibra's basin split starts); a note shows where the selected tenor's data begins.
+- **Commercial Fleet Supply & Orderbook**, **Vessel Valuations & Capital Yield**, **Shipping Market Cycle Quadrant**.
+- **LNG / LPG TC and Spot families**: real 174k 7Y/10Y TC and LPG TC/spot from `lng_charter_rates.csv` / `lpg_*` (rebuilt daily).
+- **Data Catalogue & Provenance Museum**, **Broker Voice & Research Repository**, **Backtest Lab**.
 
 ---
 
@@ -422,6 +377,19 @@ Live vessel lineup, congestion, and chokepoint telemetry (1,568 hulls across 36 
 - **Lineup table**: Anchored-since sorting, wait/arrival/DWT sorts, DWT size filter, hull↔DWT lens, KPI-as-filter cards, queue build/clear signal.
 - **Chokepoint directory**: 28 chokepoints with tonnage + Gen Cargo / Ro-Ro sector toggles, 5Y envelopes, Suez-vs-Cape delta estimates (labeled diagnostic).
 - **Voyage-leg economics**: Per-IMO last-leg transit/distance/speed in tooltips (2,657 IMOs, 100% lineup overlap; absent where unrecorded).
+
+---
+
+### 📦 Cargo & Trade Flows Tab
+
+Physical cargo volumes and the freight that moves them. Every plotted number traces to a published source; `tests/test_cargo_truth.py` enforces it.
+
+- **Origin → Freight**: cargo basin volume paired with the route that carries it — Brazil ore vs C3, Pilbara ore vs C5, Newcastle coal vs Newcastle/Qingdao, US Gulf grain (USDA inspections) vs S1C. Each HUD shows the route's own unit ($/MT or $k/day). **Guinea bauxite is volume-only**: no Baltic route covers that Capesize trade.
+- **Commodity Flow Matrix** from the Fearnleys fixture ledger.
+- **Seasonal export basins**: Brazil (ComexStat), Pilbara Ports, **US Crude Oil Exports (EIA weekly, US total)**, Newcastle coal, Indonesia coal (BPS), **Guinea bauxite** (China customs mirror + ministry ledger), minor bulks, Australia REQ, Argentina grain.
+- **Grain logistics**: USDA export commitments, inspections, loading queues, Gulf vs PNW ocean freight, landed soybean cost to China.
+- **Who Feeds China**, **World Crude Steel**, **Leading Restocking Pressures**, **Cargo Demand Drivers (World Bank)**, **Container Equity Index & Global Container Freight**.
+- Gaps stay gaps: where a source did not publish a month (e.g. USDA Oct–Dec 2025, most Guinea months after 2024), the chart is empty for that month rather than filled.
 
 ---
 
@@ -674,7 +642,7 @@ flowchart LR
 
 ## 6. Automated GitHub Actions Workflows
 
-The repository maintains itself via 17 idempotent GitHub Actions workflows:
+The repository maintains itself via 19 idempotent GitHub Actions workflows:
 
 | Workflow File | Cron Schedule | Triggers | Execution Script Sequence | Function & Output |
 | :--- | :--- | :--- | :--- | :--- |
@@ -691,7 +659,7 @@ The repository maintains itself via 17 idempotent GitHub Actions workflows:
 | [`usda_weekly.yml`](file:///.github/workflows/usda_weekly.yml) | `0 15 * * 4` | Thursdays 3 PM UTC / Dispatch | USDA maritime & freight data ingest scripts | Ingests weekly USDA maritime/grain freight data releases. |
 | [`daily_knowledge_update.yml`](file:///.github/workflows/daily_knowledge_update.yml) | `30 15 * * *` | Daily 3:30 PM UTC | `python scripts/check_breakwave_freshness.py` | Incremental health check; triggers rebuild if source files outpace knowledge base. |
 | [`fearnleys_weekly.yml`](file:///.github/workflows/fearnleys_weekly.yml) | `45 6 * * 3` | Wednesdays 6:45 AM UTC / Dispatch | `python scripts/fetch_fearnleys_tc.py` | Pulls the weekly Fearnleys TC edition into `data/derived/time_charter_rates_fearnleys.csv`. |
-| [`data_expansion.yml`](file:///.github/workflows/data_expansion.yml) | `0 5 * * 1-4` | Mon–Thu 5 AM UTC / Dispatch | `expansion_sgx_history_backfill.py`<br>`expansion_worldbank_pinksheet.py`<br>`expansion_portwatch.py`<br>`expansion_bunker_prices.py` | Runs the expansion collectors (SGX full contract lives, World Bank Pink Sheet, PortWatch chokepoints/ports, Ship & Bunker prices); idempotent upserts with per-step graceful failure. |
+| [`data_expansion.yml`](.github/workflows/data_expansion.yml) | `0 5 * * 1-4` | Mon–Thu 5 AM UTC / Dispatch | expansion collectors<br>`daily_fearnleys_sync.py`<br>`fetch_dry_routes_ts.py --refresh`<br>`build_tanker_routes_daily.py`<br>`build_gas_rate_csvs.py --verify`<br>`build_desk_caches.py` | Runs the expansion collectors (SGX, World Bank Pink Sheet, PortWatch, bunkers), then the Fearnleys daily sync and every cache built from it: dry routes, tanker routes, LNG/LPG rate CSVs and the Broker Desk gas overlay. Idempotent upserts with per-step graceful failure. |
 | [`pages.yml`](file:///.github/workflows/pages.yml) | On push to `main` + after any data workflow completes | `workflow_run` ×10 / Push / Dispatch | Static Artifact Upload & Deploy | Deploys static site to GitHub Pages; re-deploys whenever any upstream data workflow finishes so published data stays fresh. Heavy knowledge artifacts (`knowledge/docs`, `trees`, `manifests`, bulk of `derived`) are stripped pre-packaging, but the compact `breakwave_signals.json` (62 KB) and `knowledge/chunks/` (incl. the `index.json` shard manifest) ship to production. |
 
 ---
@@ -796,9 +764,9 @@ python scripts/update_etf_holdings.py
 # 4. Verify Cryptographic SHA-256 Provenance & Production Artifact Integrity
 python scripts/verify_production_artifact_integrity.py
 
-# 5. Run Full Automated Test Suites (87/87 Passed)
-python scratch/run_all_test_suites.py
-python scripts/test_decision_ticket_workflow.py
+# 5. Run the test suites (run the browser suite separately; it takes ~20 min)
+python -m pytest tests -q --ignore=tests/test_ui_tabs.py
+python -m pytest tests/test_ui_tabs.py -q
 
 # 6. Run Headless DOM Simulation Runtime Tests
 node scratch/simulate_dom_runtime.js
@@ -849,14 +817,18 @@ The dashboard features an animated global ticker at the top, named after the leg
 
 ## ✅ Verification & Data Freshness
 
-The three test files under `tests/` are the contract for this dashboard. One command proves the
-state of the whole thing:
+Everything under `tests/` must pass. Run the non-browser tests and the browser suite separately
+(the browser suite drives every tab in headless Chromium and takes ~20 minutes):
 
 ```bash
-python -m pytest tests/test_ui_tabs.py tests/test_loader_contracts.py tests/test_freshness_and_wiring.py -q
+python -m pytest tests -q --ignore=tests/test_ui_tabs.py    # 305 passed, 1 skipped
+python -m pytest tests/test_ui_tabs.py -q                   # 26 passed
 ```
 
-**45 passed / 0 failed** is the only acceptable result. What they enforce:
+If a run hangs or reports memory allocation failures, kill leftover `python -m http.server` and
+`ms-playwright` processes first; it is memory, not code.
+
+What the core contract enforces:
 
 | Test | Guarantee |
 |---|---|
@@ -868,12 +840,15 @@ python -m pytest tests/test_ui_tabs.py tests/test_loader_contracts.py tests/test
 | `test_workflow_wiring` | every rendered series has a workflow that runs its fetcher |
 | `test_single_writer` | no two scripts write the same data file |
 | `test_manifest_matches_files` | the provenance manifest agrees with what is on disk |
+| `test_cargo_truth` | no commodity series is a fixed multiple or offset of another; EIA, USDA grain and Guinea charts equal their source files |
+| `test_gas_rates` | LNG/LPG rate files equal the Fearnleys catalog and are current |
+| `test_route_cards_match_taxonomy_and_sources` | route titles match the Baltic taxonomy; each route view equals its source point for point |
 | `test_ui_copy_lint` / `test_design_lint` / `test_tooltip_coverage` / `test_layout` | front-facing copy, design and layout standards |
 | `test_perf_budget` | boot ≤ 4 MB, cumulative ≤ 58 MB, warm tab switch ≤ 50 ms |
 
 ### How the data stays current
 
-**102 rendered series** are wired end to end. 94 are invoked by an explicit `python …` step in a
+**104 rendered series** are wired end to end. 94 are invoked by an explicit `python …` step in a
 workflow carrying a cron; the remaining 8 are view files built by `scripts/build_views.py`, which
 runs inside `pages.yml` on every push and whenever a data workflow completes — so views rebuild
 whenever their inputs change rather than on a clock of their own.
