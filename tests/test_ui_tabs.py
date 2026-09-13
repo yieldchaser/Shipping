@@ -887,3 +887,248 @@ def test_yearly_and_seasonality_use_deep_history(web_server):
             )
         finally:
             browser.close()
+
+
+# ---------------------------------------------------------------------------
+# Live-site click-through audit (2026-09-12): win-rate matrix layout, tooltip
+# truncation, sector-follow, tooltip/banner overlap, and Indices deep history.
+# ---------------------------------------------------------------------------
+
+def test_monthly_winrate_matrix_columns_align_and_use_15y(web_server):
+    """A: the Monthly Historical Win-Rate Matrix body cells must line up under
+    their own headers (real <table> layout, not a flex-broken row), and the
+    middle window is 15Y - not 20Y, which is always '-' because deep history
+    only reaches back to ~2008/2009 for every product but the BDI.
+
+    Root cause: matrix rows used class="rt-row", a global `display:flex` row
+    style meant for unrelated label/value widgets elsewhere in the page,
+    which broke the table's column layout.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        try:
+            page.goto(f"{web_server}/index.html", wait_until="networkidle")
+            page.wait_for_timeout(3000)
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"seasonality\"]'); if (b) b.click(); }""")
+            page.wait_for_timeout(3000)
+            # The Monthly Win-Rate Matrix lives in #seasonMonthlyBlock, which
+            # the Seasonality tab keeps `hidden` by default (it opens on the
+            # Quarterly granularity view); switch to Monthly first.
+            page.evaluate("""() => { if (typeof setSeasonGranularity === 'function') setSeasonGranularity('month'); }""")
+            page.wait_for_timeout(500)
+            for _ in range(6):
+                page.mouse.wheel(0, 1200)
+                page.wait_for_timeout(220)
+            page.wait_for_selector("#monthlyWinRateMatrix table", timeout=15000)
+            page.wait_for_timeout(1000)
+
+            headers = page.eval_on_selector_all(
+                "#monthlyWinRateMatrix thead th", "els => els.map(e => e.textContent.trim())"
+            )
+            assert len(headers) == 4
+            assert any("15Y" in h for h in headers), f"expected a 15Y column header, got {headers}"
+            assert not any("20Y" in h for h in headers), f"20Y column should have been replaced, got {headers}"
+
+            header_ranges = page.eval_on_selector_all(
+                "#monthlyWinRateMatrix thead th",
+                "els => els.map(e => { const r = e.getBoundingClientRect(); return [r.left, r.right]; })",
+            )
+            for lo, hi in header_ranges:
+                assert hi > lo, f"header cell has zero width ({lo}, {hi}) - table failed to render/layout"
+
+            row_count = page.eval_on_selector_all("#monthlyWinRateMatrix tbody tr", "els => els.length")
+            assert row_count == 12
+
+            for row_idx in range(row_count):
+                cell_count = page.eval_on_selector(
+                    f"#monthlyWinRateMatrix tbody tr:nth-child({row_idx + 1})", "e => e.children.length"
+                )
+                assert cell_count == len(headers), (
+                    f"row {row_idx} has {cell_count} cells but header has {len(headers)} columns"
+                )
+                centers = page.eval_on_selector_all(
+                    f"#monthlyWinRateMatrix tbody tr:nth-child({row_idx + 1}) td",
+                    "els => els.map(e => { const r = e.getBoundingClientRect(); return r.left + r.width / 2; })",
+                )
+                assert all(c > 0 for c in centers), (
+                    f"row {row_idx} cells have zero-position centers {centers} - table failed to render/layout"
+                )
+                for col_idx, center in enumerate(centers):
+                    lo, hi = header_ranges[col_idx]
+                    assert lo <= center <= hi, (
+                        f"row {row_idx} col {col_idx} center {center} not within header range [{lo}, {hi}]"
+                    )
+        finally:
+            browser.close()
+
+
+def _visible_tooltip_text(page, contains):
+    return page.evaluate(
+        """(needle) => {
+            const els = document.querySelectorAll('div.visible');
+            for (const e of els) {
+                if (e.textContent.includes(needle)) return e.textContent;
+            }
+            return null;
+        }""",
+        contains,
+    )
+
+
+def test_trend_lifecycle_tooltip_not_truncated(web_server):
+    """B1: the custom tooltip renderer used innerHTML whenever the static
+    tooltip text contained both "<" and ">", so comparison-operator phrases
+    like "ROC>0" were parsed as HTML tags and silently dropped, truncating
+    the Trend Lifecycle tooltip mid-sentence.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        try:
+            _boot(page, web_server)
+            page.hover("#dashRegimeBadge")
+            page.wait_for_timeout(500)
+            text = _visible_tooltip_text(page, "Trend Lifecycle")
+            assert text, "Trend Lifecycle tooltip did not render"
+            idx = text.find("Contraction (")
+            assert idx != -1, f"tooltip missing 'Contraction (' segment: {text!r}"
+            remainder = text[idx + len("Contraction ("):]
+            assert len(remainder) > 1, f"tooltip truncated right after 'Contraction (': {text!r}"
+            assert ")" in remainder, f"tooltip missing closing ')' for Contraction clause: {text!r}"
+        finally:
+            browser.close()
+
+
+def test_selecting_handysize_updates_hero_and_tooltips(web_server):
+    """B2: selecting a sector pill must be reflected in the hero label and
+    the signal/trend-lifecycle tooltips.
+
+    Root cause: renderRegimeBadge's tooltip checked `rows[0].bdiy`, a field
+    present on every row of the shared wide DATA.master table regardless of
+    which product was selected, so it always said "BDI Index" no matter what
+    was active.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        try:
+            _boot(page, web_server)
+            page.click('button.index-pill[data-val="handysize"]')
+            page.wait_for_timeout(1500)
+
+            label = page.inner_text("#dashProductLabel")
+            assert "Handysize" in label, f"hero label did not switch to Handysize: {label!r}"
+            assert "BDI" not in label and "Baltic Dry Index" not in label
+
+            sig_tt = page.get_attribute("#dashSignal", "data-tooltip") or ""
+            assert "Handysize" in sig_tt, f"signal tooltip did not mention Handysize: {sig_tt!r}"
+            assert "Baltic Dry Index" not in sig_tt and "(BDI)" not in sig_tt
+
+            page.hover("#dashRegimeBadge")
+            page.wait_for_timeout(500)
+            badge_tt = _visible_tooltip_text(page, "Trend Lifecycle") or ""
+            assert "Handysize" in badge_tt, f"trend lifecycle tooltip did not mention Handysize: {badge_tt!r}"
+            assert "Baltic Dry Index" not in badge_tt and "BDI Index" not in badge_tt
+        finally:
+            browser.close()
+
+
+def test_tooltip_does_not_cover_alert_banner(web_server):
+    """B3: the custom tooltip defaulted to rendering above its target, which
+    placed it on top of the red alert banner sitting directly above the
+    dashboard signal/regime badges. It now prefers rendering below the
+    target, only flipping above when there isn't room.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        try:
+            _boot(page, web_server)
+            banner_box = page.evaluate(
+                """() => {
+                    const b = document.getElementById('alertBearish') || document.getElementById('alertBullish');
+                    if (!b) return null;
+                    const cs = getComputedStyle(b);
+                    if (cs.display === 'none') return null;
+                    const r = b.getBoundingClientRect();
+                    return { top: r.top, bottom: r.bottom };
+                }"""
+            )
+            if not banner_box:
+                pytest.skip("no visible alert banner in this data state")
+
+            page.hover("#dashRegimeBadge")
+            page.wait_for_timeout(500)
+            tt_box = page.evaluate(
+                """() => {
+                    const els = document.querySelectorAll('div.visible');
+                    for (const e of els) {
+                        if (e.textContent.includes('Trend Lifecycle')) {
+                            const r = e.getBoundingClientRect();
+                            return { top: r.top, bottom: r.bottom };
+                        }
+                    }
+                    return null;
+                }"""
+            )
+            assert tt_box, "tooltip did not render"
+            overlap = tt_box["top"] < banner_box["bottom"] and tt_box["bottom"] > banner_box["top"]
+            assert not overlap, f"tooltip {tt_box} overlaps alert banner {banner_box}"
+        finally:
+            browser.close()
+
+
+BALTIC_INDICES_KEYS = ["bdiy", "cape", "panama", "suprama", "handysize", "dirtytanker", "cleantanker"]
+
+
+def test_indices_tab_baltic_cards_reach_deep_history(web_server):
+    """C: the Indices tab cards must expose the same deep history as the
+    Yearly/Seasonality tabs, not the 5-year-capped boot window.
+
+    Root cause: DATA.raw[key] (which the Indices cards and their range
+    sliders read) is only ever populated from the boot manifest
+    data/views/dashboard_master.json, which is capped to five years for the
+    boot budget (starts 2021-01-03). The deep per-product view
+    (data/views/indices/<key>.json) already exists on disk and is used by
+    ensureDeepHistory()/withDeepHistory() for the Seasonality/Yearly tabs,
+    but the Indices tab never called it. Opening the Indices tab now also
+    triggers ensureDeepHistory() per card and rebuilds DATA.raw[key] plus the
+    range slider from the extended DATA.master once it resolves.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        try:
+            _boot(page, web_server)
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"indices\"]'); if (b) b.click(); }""")
+            page.wait_for_timeout(1500)
+
+            for key in BALTIC_INDICES_KEYS:
+                page.wait_for_function(
+                    """(k) => {
+                        const raw = (window.DATA && DATA.raw && DATA.raw[k]) || [];
+                        return raw.length && new Date(raw[0].date).getUTCFullYear() <= 2010;
+                    }""",
+                    arg=key,
+                    timeout=15000,
+                )
+                info = page.evaluate(
+                    """(k) => {
+                        const raw = (window.DATA && DATA.raw && DATA.raw[k]) || [];
+                        const startEl = document.getElementById('rangeStart_' + k);
+                        if (!raw.length || !startEl) return null;
+                        return { firstDateStr: raw[0].dateStr, sliderMin: parseInt(startEl.min, 10) };
+                    }""",
+                    key,
+                )
+                assert info, f"no data / slider found for {key}"
+                assert info["sliderMin"] == 0, f"{key} slider min is not index 0: {info}"
+                import re as _re
+                m = _re.search(r"(19|20)\d{2}", info["firstDateStr"])
+                assert m, f"could not parse year from {info['firstDateStr']!r} for {key}"
+                assert int(m.group(0)) <= 2010, (
+                    f"{key} deep history does not reach back to <=2010 (first={info['firstDateStr']})"
+                )
+        finally:
+            browser.close()

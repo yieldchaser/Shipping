@@ -11441,7 +11441,7 @@
       <!-- Quarterly Historical Win-Rate Matrix -->
       <div class="chart-section" style="margin-top:20px;">
         <div class="chart-header">
-          <div class="chart-header-title" data-tooltip="Historical Quarterly Win Rate Matrix &#8212; fraction of years each quarter generated positive returns, computed across 10Y, 20Y, and all-time windows. Green = win rate above 60%; Amber = 40-60%; Red = below 40%.">Quarterly Historical Win-Rate Matrix</div>
+          <div class="chart-header-title" data-tooltip="Historical Quarterly Win Rate Matrix &#8212; fraction of years each quarter generated positive returns, computed across 10Y, 15Y, and all-time windows. Green = win rate above 60%; Amber = 40-60%; Red = below 40%.">Quarterly Historical Win-Rate Matrix</div>
         </div>
         <div style="overflow-x:auto">
           <div id="quarterlyWinRateMatrix"></div>
@@ -11491,7 +11491,7 @@
       <!-- Monthly Data Grid removed: duplicated the Monthly Performance Heatmap (same year×month absolute matrix, same 8Y window & palette). The heatmap's Absolute/% toggle + CSV download supersedes it. -->
       <div class="chart-section" style="margin-top:20px;">
         <div class="chart-header">
-          <div class="chart-header-title" data-tooltip="Historical Monthly Win Rate Matrix &#8212; fraction of years each calendar month generated positive returns, across 10Y, 20Y, and all-time windows. Green = above 60%; Amber = 40-60%; Red = below 40%.">Monthly Historical Win-Rate Matrix</div>
+          <div class="chart-header-title" data-tooltip="Historical Monthly Win Rate Matrix &#8212; fraction of years each calendar month generated positive returns, across 10Y, 15Y, and all-time windows. Green = above 60%; Amber = 40-60%; Red = below 40%.">Monthly Historical Win-Rate Matrix</div>
         </div>
         <div style="overflow-x:auto">
           <div id="monthlyWinRateMatrix"></div>
@@ -20642,7 +20642,59 @@ function buildMaster() {
         // Wire up dual range slider
         initIndexRangeSlider(key, totalRows);
         buildIndexChartByRange(key, startIdx5y, totalRows - 1);
+
+        // Indices cards read DATA.raw[key], which boot only ever populates
+        // from the 5-year-capped data/views/dashboard_master.json manifest
+        // (see loadAllData ~L18446-18466). That is why every Indices card
+        // used to open on ~2021+ with no way to see further back, even
+        // though the deep per-product view (data/views/indices/<key>.json)
+        // already exists on disk and is used by the Seasonality/Yearly tabs
+        // via ensureDeepHistory()/withDeepHistory(). ensureDeepHistory only
+        // extends DATA.master though, so once it resolves we also need to
+        // rebuild this card's DATA.raw[key] from the now-extended master and
+        // reset its slider/chart to the full span. `computed` products
+        // (bdry_spot/bdry/bwet - ETF share prices with no raw historical
+        // file, PRODUCTS[key].file is null) have no matching deep view on
+        // disk; skip them rather than firing a fetch guaranteed to 404.
+        if (!prod.computed) {
+          ensureDeepHistory(key).then(function (extended) {
+            if (extended) refreshIndexCardDeepHistory(key);
+          });
+        }
       });
+    }
+
+    // Rebuilds DATA.raw[key] from the (now deep-history-extended) DATA.master,
+    // then resets that Indices card's dual-range slider to span the full
+    // history while keeping the same "last 5 years" default view.
+    function refreshIndexCardDeepHistory(key) {
+      const startEl = document.getElementById('rangeStart_' + key);
+      const endEl = document.getElementById('rangeEnd_' + key);
+      if (!startEl || !endEl) return; // card no longer on screen (tab/filter changed)
+
+      const rows = getRows(key);
+      if (!rows || !rows.length) return;
+      DATA.raw[key] = rows.map(function (r) {
+        return { date: r.date, dateStr: r.date.toISOString().slice(0, 10), value: r[key] };
+      });
+
+      const totalRows = DATA.raw[key].length;
+      const cutoff5y = new Date(); cutoff5y.setFullYear(cutoff5y.getFullYear() - 5);
+      const defaultStartIdx = DATA.raw[key].findIndex(function (r) { return r.date >= cutoff5y; });
+      const startIdx5y = defaultStartIdx < 0 ? 0 : defaultStartIdx;
+
+      // Replace the range inputs with clones to drop the previous 'input'
+      // listeners (which closed over the old, pre-deep-history totalRows)
+      // before re-initializing them against the extended data.
+      const freshStart = startEl.cloneNode(true);
+      const freshEnd = endEl.cloneNode(true);
+      startEl.parentNode.replaceChild(freshStart, startEl);
+      endEl.parentNode.replaceChild(freshEnd, endEl);
+      freshStart.min = '0'; freshStart.max = String(totalRows - 1); freshStart.value = String(startIdx5y);
+      freshEnd.min = '0'; freshEnd.max = String(totalRows - 1); freshEnd.value = String(totalRows - 1);
+
+      initIndexRangeSlider(key, totalRows);
+      buildIndexChartByRange(key, startIdx5y, totalRows - 1);
     }
 
     function initIndexRangeSlider(key, totalRows) {
@@ -24465,9 +24517,10 @@ function buildMaster() {
         : allYears.filter(function (y) { return y < cy; });
 
       // A window may only report a number when the history actually covers it.
-      // Every series here starts in 2008 except the BDI (1985), so a 20Y column
-      // that quietly fell back to whatever years existed printed a 15-year
-      // statistic under a 20-year heading - and before deep history was wired in,
+      // Every series here starts in 2008 except the BDI (1985); a 20Y column
+      // was therefore always '-' for every non-BDI product (2008-2026 is
+      // <20 years), so the middle window is 15Y instead - fully covered by
+      // every series' deep history - and before deep history was wired in,
       // all three columns printed the same five-year number. Short window: '-'.
       if (windowYears > 0) {
         var complete = allYears.filter(function (y) { return y < cy; });
@@ -24513,7 +24566,7 @@ function buildMaster() {
       if (!allYears || !allYears.length) { el.innerHTML = ''; return; }
 
       var w10  = _computeWinRate(productKey, periods, getPAvg, allYears, 10);
-      var w20  = _computeWinRate(productKey, periods, getPAvg, allYears, 20);
+      var w15  = _computeWinRate(productKey, periods, getPAvg, allYears, 15);
       var wAll = _computeWinRate(productKey, periods, getPAvg, allYears, 0);
 
       // Dense fixed-width matrix: Quarter column compact, win-rate columns
@@ -24523,17 +24576,17 @@ function buildMaster() {
       html += '<thead><tr>';
       html += '<th style="text-align:left;width:110px;">' + headerNoun + '</th>';
       html += '<th style="min-width:130px;">10Y Win Rate</th>';
-      html += '<th style="min-width:130px;">20Y Win Rate</th>';
+      html += '<th style="min-width:130px;">15Y Win Rate</th>';
       html += '<th style="min-width:150px;">All-Time Win Rate</th>';
       html += '</tr></thead><tbody>';
 
       periods.forEach(function (p, pi) {
-        var r10 = w10[p], r20 = w20[p], rAll = wAll[p];
+        var r10 = w10[p], r15 = w15[p], rAll = wAll[p];
         var fmt = function (r) { return r != null ? (r * 100).toFixed(0) + '%' : '-'; };
-        html += '<tr class="rt-row" data-tt-type="seasonal-winrate-matrix" data-tooltip="Historical win-rate for ' + labels[pi] + ' across different lookback windows. Win = ' + unitWord + ' avg higher than prior ' + unitWord + ' avg.">';
+        html += '<tr class="wr-row" data-tt-type="seasonal-winrate-matrix" data-tooltip="Historical win-rate for ' + labels[pi] + ' across different lookback windows. Win = ' + unitWord + ' avg higher than prior ' + unitWord + ' avg.">';
         html += '<td class="year-col" style="text-align:left;">' + labels[pi] + '</td>';
         html += '<td style="' + _winRateCellStyle(r10) + '">' + fmt(r10) + '</td>';
-        html += '<td style="' + _winRateCellStyle(r20) + '">' + fmt(r20) + '</td>';
+        html += '<td style="' + _winRateCellStyle(r15) + '">' + fmt(r15) + '</td>';
         html += '<td style="' + _winRateCellStyle(rAll) + '">' + fmt(rAll) + '</td>';
         html += '</tr>';
       });
@@ -34518,7 +34571,8 @@ function renderSignalsTab(productKey) {
       el.textContent = label;
       el.className = 'regime-badge ' + cls;
       el.style.display = 'inline-block';
-      const tt = `Trend Lifecycle for ${rows[0] && rows[0].bdiy ? 'BDI Index' : 'Selected Asset'} - classifies market state using MA(200) anchor and 60-day velocity. Current: ${label} (MA200: ${fmt(ma200)}, ROC60: ${roc60.toFixed(1)}%).  Expansion (>MA200, ROC>0),  Distribution (>MA200, ROC<0), Accumulation (<MA200, ROC>0),  Contraction (<MA200, ROC<0).`;
+      const assetLabel = (PRODUCTS[productKey] && PRODUCTS[productKey].label) || 'Selected Asset';
+      const tt = `Trend Lifecycle for ${assetLabel} - classifies market state using MA(200) anchor and 60-day velocity. Current: ${label} (MA200: ${fmt(ma200)}, ROC60: ${roc60.toFixed(1)}%).  Expansion (>MA200, ROC>0),  Distribution (>MA200, ROC<0), Accumulation (<MA200, ROC>0),  Contraction (<MA200, ROC<0).`;
       el.setAttribute('data-tooltip', tt);
       el.removeAttribute('title');
     }
@@ -46932,35 +46986,39 @@ function escapeHtml(str) {
         if (richContent && richContent.trim()) {
           tt.innerHTML = richContent;
         } else if (staticText && staticText.trim()) {
-          if (staticText.includes('<') && staticText.includes('>')) {
-            tt.innerHTML = staticText;
-          } else {
-            tt.textContent = staticText;
-          }
+          // Static tooltips are always plain text (never intentional markup);
+          // using innerHTML here caused "<" / ">" comparison operators (e.g.
+          // "ROC>0") to be parsed as HTML tags and silently dropped, truncating
+          // the tooltip text. textContent renders the literal characters.
+          tt.textContent = staticText;
         } else {
           return;
         }
-        
+
         tt.classList.add('visible');
 
         const rect = target.getBoundingClientRect();
         const GAP = 12;
-        
+
         // Measure unconstrained layout dimensions
         const ttWidth = tt.offsetWidth;
         const ttHeight = tt.offsetHeight;
 
         let left = rect.left + rect.width / 2 - ttWidth / 2;
-        let top  = rect.top - ttHeight - GAP;
+        // Prefer placing the tooltip below the target: several targets (e.g.
+        // the dashboard signal badge / trend-lifecycle badge) sit directly
+        // beneath the red alert banner, so placing the tooltip above them
+        // used to render it on top of the banner text, hiding it.
+        let top = rect.bottom + GAP;
 
-        // If it goes off the top of the viewport, flip it below
-        if (top < 8) {
-          top = rect.bottom + GAP;
-        }
-        
-        // If it still goes off the bottom of the viewport, clamp it
+        // If it goes off the bottom of the viewport, flip it above instead
         if (top + ttHeight > window.innerHeight - 8) {
-          top = window.innerHeight - ttHeight - 8;
+          top = rect.top - ttHeight - GAP;
+        }
+
+        // If it still goes off the top of the viewport, clamp it
+        if (top < 8) {
+          top = 8;
         }
         
         // Horizontal clamping
