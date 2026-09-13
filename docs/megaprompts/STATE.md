@@ -518,3 +518,46 @@ No open spec. Next work starts from the owner's next observation.
   `data/clarksons/fearnleys_benchmark_rates_continuous.csv` wide file is NOT refreshed by any job.
 - Gibson feed (TC1/TC5) last print 2026-09-03; `broker_reports_weekly.yml` runs it with `|| true` and the
   CSV has not been committed since 2026-09-10. If it stops, TC1/TC5 auto-hide after 30 days.
+
+## 2026-09-13 (night) — Cargo & Trade Flows: every number traced to a source
+
+Owner asked why some Cargo charts were half-empty. Four causes, two of them invented numbers.
+
+- **EIA exports chart flat at zero** — `build_cargo_cache.py` read `crude_exports_kbpd`; the column is
+  `us_total_crude_exports_kbpd`. Now fails loudly if missing. ISO-week keying also fixed (late-December
+  prints were overwriting week 1).
+- **EIA "PADD 3" and "total petroleum" columns were invented** — `fetch_eia_petroleum_exports.py` wrote US
+  total × 0.92 and × 2.45. EIA has no weekly Gulf Coast export series. Columns deleted; chart retitled
+  "US Crude Oil Exports (EIA Weekly)".
+- **US Gulf grain flagship volume was a generated sawtooth** (`4.2 + (i % 5) * 0.35`). Now monthly sums of
+  USDA AMS Gulf inspections (dataset 5sxb-qe7q). The source has no rows for 2025-10..12; those stay empty.
+- **Guinea bauxite** paired with Panamax P1A_82 (unrelated route) → now volume-only. UN Comtrade has no
+  China–Guinea months after 2024-12 (checked); SMM articles quoting GACC fill 2025-01/02/04 and 2026-03/05,
+  each kept only if its quote is found verbatim in the live article. Other 2025–26 months: no public
+  monthly Guinea figure found. 2017 Comtrade months (4.8 Mt vs 43 Mt Guinea exports; every other year
+  64–78%) excluded by a data-driven rule and named in provenance.
+- **C3/C5 spread tile** read `DATA.capeC3Latest`, which nothing sets → always showed typed 40.99/17.77.
+  Now reads the flagship monthly means. Other typed fallbacks (68181 rows, 540640 fixtures, 182.8 Mt,
+  16.4 Mt/mo) now render "—".
+- Flagship freight now reads `fearnleys_dry_routes_daily.json` (refreshed); values identical on every
+  overlapping month. Route labels emitted as "Route N" at source (copy lint had hand-edited the JSON).
+- Deleted two orphan files nobody wrote or read, both invented: `usda_brazil_ocean_freight.csv`
+  (Paranaguá = Santos + 1.25) and `usda_bulk_grain_ocean_rates.csv` (China = Japan + 2.50 / + 1.80).
+
+**Guard:** `tests/test_cargo_truth.py` — no commodity time-series column may be a fixed multiple or offset
+of another; EIA envelope equals the CSV week for week; Gulf grain equals USDA sums; Guinea volume-only and
+traces to its CSV. UI test for HUD units, Guinea, C3/C5 tile, EIA data. All mutation-checked.
+
+**Known, not changed (disclosed models, owner's call):** `eu_ets_carbon_daily.csv` scrubber savings = Hi-5
+spread × 45 / × 55 t/day; `ton_mile_utilization_matrix.csv` utilization = ton-miles × 0.1227 (constant
+fleet; `model_disclosed=True`).
+
+**LNG / LPG (same night).** Fearnleys' catalog (queried) publishes newbuilding prices for 80k/30k/7.5k m³
+LNG carriers but charter rates only for 174k and larger. `renderLNGCharterChart` invented a 30k/7k "hire"
+(174k TC × price/142.5 × 0.90 / 0.85), called the 80k price "174k", and computed payback from that
+mismatched pair. Removed; payback now needs a same-size pair. That panel's HTML was already removed in
+`975f406b7` (dead renderer) — nothing was on screen; the market brief text was. `lng_charter_rates.csv`,
+`lpg_charter_rates.csv`, `lpg_spot_rates.csv` had **no writer** and froze at 2026-08-05 while Broker Desk
+read them. New `scripts/fearnleys/build_gas_rate_csvs.py` rebuilds them from `fearnpulse_rates_full.csv`
+(every old value matched the catalog; none lost) and adds `lngc_174k_nb_price`; wired into
+`data_expansion.yml` with `build_desk_caches.py`. Guard: `tests/test_gas_rates.py`.

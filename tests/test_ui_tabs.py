@@ -1440,3 +1440,62 @@ def test_indices_hides_discontinued_route(web_server):
             assert "rt_STALE_PROBE" not in keys, "a route with no print for >30 days is still shown"
         finally:
             browser.close()
+
+
+def test_cargo_flagship_units_guinea_volume_only_and_eia_has_data(web_server):
+    """Cargo & Trade Flows: each flagship HUD shows its route's own unit; Guinea bauxite
+    is volume-only (no unrelated freight line); the C3/C5 tile reads live monthly means,
+    not typed fallbacks; the EIA exports envelope carries real values."""
+    summary = json.loads((Path(__file__).resolve().parent.parent / "data" / "cargo" / "cargo_frontend_summary.json")
+                         .read_text(encoding="utf-8"))
+    fp = summary["flagship_pairs"]
+
+    def last(pair):
+        pts = [(m, v) for m, v in zip(pair["months"], pair["freight_data"]) if v is not None]
+        return pts[-1]
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        errors = []
+        page.on("pageerror", lambda e: errors.append(str(e)))
+        try:
+            _boot(page, web_server)
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab="cargo"]'); if (b) b.click(); }""")
+            page.wait_for_function("() => window.DATA && DATA.cargoSummary && DATA.cargoSummary.flagship_pairs", timeout=30000)
+            page.wait_for_timeout(2500)
+
+            def hud(route):
+                page.evaluate(f"() => setFlagshipRoute('{route}')")
+                page.wait_for_timeout(800)
+                return page.evaluate("""() => {
+                    const ch = Chart.getChart(document.getElementById('flagshipOriginFreightChart'));
+                    return { rate: document.getElementById('flagshipHudRate').textContent,
+                             code: document.getElementById('flagshipHudTsid').textContent,
+                             n: ch ? ch.data.datasets.length : -1 };
+                }""")
+
+            c3 = hud("brazil_c3")
+            assert c3["rate"] == f"${last(fp['brazil_c3'])[1]} / MT" and c3["n"] == 2, c3
+            usg = hud("usg_grain")
+            assert usg["rate"] == f"${last(fp['usg_grain'])[1]}k / day" and usg["n"] == 2, usg
+            gn = hud("guinea_cape")
+            assert gn["rate"] == "No matching route" and gn["code"] == "—" and gn["n"] == 1, gn
+
+            m3, v3 = last(fp["brazil_c3"])
+            m5, v5 = last(fp["pilbara_c5"])
+            tile = page.evaluate("() => document.getElementById('cargoHudC3C5SpreadSub').textContent")
+            assert f"C3: ${v3:.2f}/t" in tile and f"C5: ${v5:.2f}/t" in tile and m3 in tile, tile
+
+            eia = page.evaluate("""() => {
+                const ch = Chart.getChart(document.getElementById('eiaExportsChart'));
+                if (!ch) return null;
+                return ch.data.datasets.map(d => (d.data || []).filter(v => Number.isFinite(v) && v > 0).length);
+            }""")
+            assert eia and max(eia) > 20, f"EIA exports chart has no real values: {eia}"
+            title = page.evaluate("() => document.getElementById('eiaExportsTitle').textContent")
+            assert "PADD" not in title, title
+            assert not errors, errors
+        finally:
+            browser.close()
+

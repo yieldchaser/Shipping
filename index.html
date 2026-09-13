@@ -14949,7 +14949,7 @@ if (intelTabsContainer) {
                 <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Dual Axis Overlay</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                Physical seaborne departure volume (Left Axis, Mt) paired directly with the corresponding Baltic spot freight rate (Right Axis, $/MT). Observed data only.
+                Physical seaborne departure volume (left axis, Mt) paired with the freight route that carries that cargo (right axis, in the route's own unit). Observed data only; where no route matches, only volume is shown.
               </div>
             </div>
             <!-- Route Selector Buttons -->
@@ -14957,8 +14957,8 @@ if (intelTabsContainer) {
               <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" data-tooltip="Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
               <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" data-tooltip="Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
               <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" data-tooltip="Seaborne thermal coal export corridor from Newcastle to Asian power utilities" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
-              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" data-tooltip="US Gulf grain seaborne departures paired with Baltic Panamax voyage assessments" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs Panamax</button>
-              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" data-tooltip="Guinea bauxite seaborne departures paired with Capesize freight benchmark indicators" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
+              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" data-tooltip="US Gulf grain inspections paired with Supramax S1C (US Gulf trip to China-south Japan)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs S1C</button>
+              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" data-tooltip="China's imports of Guinea bauxite. No Baltic route covers this Capesize trade, so volume is shown on its own." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
             </div>
           </div>
 
@@ -14992,7 +14992,7 @@ if (intelTabsContainer) {
             </div>
             <div>
               <strong>Attempted Source:</strong> Ministry of Mines and Geology, Republic of Guinea &middot; Central Bank of the Republic of Guinea (BCRG).<br>
-              <strong>Status:</strong> Direct monthly export clearing feeds from Port Kamsar / Port Boffa are offline / un-reacquired. In strict accordance with anti-fabrication guardrails, no synthetic ton-miles or fabricated numbers are plotted. The series displayed above is the <strong>UN Comtrade Mirror Trade Statistic</strong> (China General Administration of Customs reported imports from Guinea under HS 260600).
+              <strong>Status:</strong> Port Kamsar / Port Boffa monthly clearing data is not published. The volume above is China's customs record of imports from Guinea (HS 260600): UN Comtrade to Dec 2024, then SMM reports of the same customs figure where a monthly one was published. 2017 is left out: China's reported months for that year cover only a small fraction of Guinea's own reported exports, far below every other year. No freight rate is paired: no Baltic route covers Guinea&ndash;China bauxite.
             </div>
           </div>
 
@@ -15141,7 +15141,7 @@ if (intelTabsContainer) {
         <!-- 3. US GULF COAST CRUDE PETROLEUM EXPORTS (EIA) -->
         <div class="chart-container mb-20" id="eiaExportsContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="eiaExportsTitle">US Gulf Coast (PADD 3) Seaborne Petroleum Exports (EIA Weekly)</div>
+            <div class="chart-title" id="eiaExportsTitle">US Crude Oil Exports (EIA Weekly)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="eiaExportsBadge" class="kpi-badge">US Crude Exports: —</div>
             </div>
@@ -17856,10 +17856,7 @@ if (intelTabsContainer) {
               date: d,
               dateStr: d ? fmtDate(d) : (row.date || '').trim(),
               usTotalCrudeKbpd: parseFloat(row.us_total_crude_exports_kbpd || 0) || null,
-              padd3GulfKbpd: parseFloat(row.padd3_gulf_crude_exports_kbpd || 0) || null,
-              usTotalPetroleumKbpd: parseFloat(row.us_total_petroleum_exports_kbpd || 0) || null,
-              crude4wAvgKbpd: parseFloat(row.crude_4w_avg_kbpd || 0) || null,
-              petro4wAvgKbpd: parseFloat(row.petro_4w_avg_kbpd || 0) || null
+              crude4wAvgKbpd: parseFloat(row.crude_4w_avg_kbpd || 0) || null
             };
           }).filter(x => x.date);
         }),
@@ -20566,10 +20563,12 @@ function buildMaster() {
               .then(v => {
                 const key = 'rt_' + rt.card_id;
                 const rows = [];
-                for (let i = 0; i < v.dates.length; i++) {
+                const first = _parseIsoLocal(v.header.first);
+                for (let i = 0; i < v.day_offsets.length; i++) {
                   const val = v.values[i];
                   if (val == null || isNaN(val)) continue;
-                  rows.push({ date: _parseIsoLocal(v.dates[i]), dateStr: v.dates[i], value: val });
+                  const d = new Date(first.getFullYear(), first.getMonth(), first.getDate() + v.day_offsets[i]);
+                  rows.push({ date: d, dateStr: fmtDate(d), value: val });
                 }
                 if (!rows.length) return;
                 ROUTE_ROWS[key] = rows;
@@ -26379,33 +26378,21 @@ function buildMaster() {
       const datasets = [];
 
       const latest = rows[rows.length - 1];
-      let latestNb = 142.5;
-      let latestTc = 84500;
-      let nbLabelText = '174k Shipyard Price';
-
-      if (activeScale === '30k') {
-        latestNb = latest ? (latest.lngc_30k_nb_price || 87.0) : 87.0;
-        const refTc = latest ? (latest.lngc_174k_7y_tc || latest.lngc_174k_10y_tc || 81150) : 81150;
-        latestTc = Math.round(refTc * (latestNb / 142.5) * 0.90);
-        nbLabelText = '30k Mid-Scale Price';
-      } else if (activeScale === '7k') {
-        latestNb = latest ? (latest.lngc_7k_nb_price || 57.5) : 57.5;
-        const refTc = latest ? (latest.lngc_174k_7y_tc || latest.lngc_174k_10y_tc || 81150) : 81150;
-        latestTc = Math.round(refTc * (latestNb / 142.5) * 0.85);
-        nbLabelText = '7k Coastal Price';
-      } else if (activeScale === 'all') {
-        latestNb = latest ? (latest.lngc_80k_nb_price || 142.5) : 142.5;
-        latestTc = latest ? (latest.lngc_174k_10y_tc || latest.lngc_174k_7y_tc || 84500) : 84500;
-        nbLabelText = '174k Benchmark Price';
-      } else {
-        latestNb = latest ? (latest.lngc_80k_nb_price || 142.5) : 142.5;
-        latestTc = latest ? (latest.lngc_174k_10y_tc || latest.lngc_174k_7y_tc || 84500) : 84500;
-        nbLabelText = '174k Shipyard Price';
-      }
-
-      const grossRevAnnual = latestTc * 365.25;
-      const paybackYield = ((grossRevAnnual) / (latestNb * 1e6)) * 100;
-      const paybackYears = (latestNb * 1e6) / grossRevAnnual;
+      // Only published numbers. Fearnleys prices 80k, 30k and 7.5k m3 newbuildings but
+      // publishes charter rates for the 174k class only. This panel used to invent a
+      // 30k/7k "hire" as 174k TC x (price / 142.5) x 0.90 / 0.85, called the 80k price
+      // "174k", and divided a 174k charter by that 80k price for payback. Payback is now
+      // shown only when a same-size newbuilding price and charter rate both exist.
+      const nbCol = activeScale === '30k' ? 'lngc_30k_nb_price' : (activeScale === '7k' ? 'lngc_7k_nb_price' : 'lngc_80k_nb_price');
+      const nbLabelText = activeScale === '30k' ? '30k m³ Newbuilding Price' : (activeScale === '7k' ? '7.5k m³ Newbuilding Price' : '80k m³ Newbuilding Price');
+      const latestNb = latest && latest[nbCol] != null ? latest[nbCol] : null;
+      const tc174 = latest ? (latest.lngc_174k_10y_tc != null ? latest.lngc_174k_10y_tc : latest.lngc_174k_7y_tc) : null;
+      const nb174 = latest && latest.lngc_174k_nb_price != null ? latest.lngc_174k_nb_price : null;
+      const paybackOk = (activeScale === '174k' || activeScale === 'all') && tc174 != null && nb174 != null;
+      const latestTc = paybackOk ? tc174 : null;
+      const grossRevAnnual = paybackOk ? tc174 * 365.25 : null;
+      const paybackYield = paybackOk ? (grossRevAnnual / (nb174 * 1e6)) * 100 : null;
+      const paybackYears = paybackOk ? (nb174 * 1e6) / grossRevAnnual : null;
 
       const yieldEl = document.getElementById('lngHudPaybackYield');
       const yearsEl = document.getElementById('lngHudPaybackYears');
@@ -26417,50 +26404,49 @@ function buildMaster() {
       const yearsCard = document.getElementById('lngHudYearsCard');
       const nbCard = document.getElementById('lngHudNbCard');
 
-      if (yieldEl) yieldEl.textContent = paybackYield.toFixed(1) + '% p.a.';
-      if (yearsEl) yearsEl.textContent = paybackYears.toFixed(1) + ' Years';
-      if (nbPriceEl) nbPriceEl.textContent = '$' + latestNb.toFixed(1) + 'M';
+      if (yieldEl) yieldEl.textContent = paybackOk ? paybackYield.toFixed(1) + '% p.a.' : '—';
+      if (yearsEl) yearsEl.textContent = paybackOk ? paybackYears.toFixed(1) + ' Years' : '—';
+      if (nbPriceEl) nbPriceEl.textContent = latestNb != null ? '$' + latestNb.toFixed(1) + 'M' : '—';
       if (nbLabelEl) nbLabelEl.textContent = nbLabelText;
 
       if (yieldCard) {
         yieldCard.setAttribute('data-tooltip', ' ');
         yieldCard.setAttribute('data-tt-type', 'lng-payback-yield');
         yieldCard.setAttribute('data-tt-scale', activeScale);
-        yieldCard.setAttribute('data-tt-yield', paybackYield.toFixed(1) + '% p.a.');
-        yieldCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
-        yieldCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString('en-US') + '/day');
-        yieldCard.setAttribute('data-tt-years', paybackYears.toFixed(1) + ' Years');
+        yieldCard.setAttribute('data-tt-yield', paybackOk ? paybackYield.toFixed(1) + '% p.a.' : '');
+        yieldCard.setAttribute('data-tt-price', paybackOk ? '$' + nb174.toFixed(1) + 'M' : '');
+        yieldCard.setAttribute('data-tt-tc', paybackOk ? '$' + Math.round(latestTc).toLocaleString('en-US') + '/day' : '');
+        yieldCard.setAttribute('data-tt-years', paybackOk ? paybackYears.toFixed(1) + ' Years' : '');
       }
       if (yearsCard) {
         yearsCard.setAttribute('data-tooltip', ' ');
         yearsCard.setAttribute('data-tt-type', 'lng-payback-years');
         yearsCard.setAttribute('data-tt-scale', activeScale);
-        yearsCard.setAttribute('data-tt-years', paybackYears.toFixed(1) + ' Years');
-        yearsCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
-        yearsCard.setAttribute('data-tt-tc', '$' + Math.round(latestTc).toLocaleString('en-US') + '/day');
-        yearsCard.setAttribute('data-tt-yield', paybackYield.toFixed(1) + '% p.a.');
+        yearsCard.setAttribute('data-tt-years', paybackOk ? paybackYears.toFixed(1) + ' Years' : '');
+        yearsCard.setAttribute('data-tt-price', paybackOk ? '$' + nb174.toFixed(1) + 'M' : '');
+        yearsCard.setAttribute('data-tt-tc', paybackOk ? '$' + Math.round(latestTc).toLocaleString('en-US') + '/day' : '');
+        yearsCard.setAttribute('data-tt-yield', paybackOk ? paybackYield.toFixed(1) + '% p.a.' : '');
       }
       if (nbCard) {
         nbCard.setAttribute('data-tooltip', ' ');
         nbCard.setAttribute('data-tt-type', 'lng-nb-price');
         nbCard.setAttribute('data-tt-scale', activeScale);
-        nbCard.setAttribute('data-tt-price', '$' + latestNb.toFixed(1) + 'M');
+        nbCard.setAttribute('data-tt-price', latestNb != null ? '$' + latestNb.toFixed(1) + 'M' : '');
         nbCard.setAttribute('data-tt-label', nbLabelText);
       }
 
       if (badge && latest) {
+        const m = v => v != null ? '$' + v.toFixed(1) + 'M' : '—';
         if (activeScale === '30k') {
-          badge.textContent = '30k NB: $' + latestNb.toFixed(1) + 'M | Est Hire: $' + Math.round(latestTc / 1000) + 'k/d';
+          badge.textContent = '30k m³ NB: ' + m(latest.lngc_30k_nb_price) + ' | no published charter rate';
         } else if (activeScale === '7k') {
-          badge.textContent = '7k NB: $' + latestNb.toFixed(1) + 'M | Est Hire: $' + Math.round(latestTc / 1000) + 'k/d';
+          badge.textContent = '7.5k m³ NB: ' + m(latest.lngc_7k_nb_price) + ' | no published charter rate';
         } else if (activeScale === 'all') {
-          badge.textContent = '174k: $' + (latest.lngc_80k_nb_price || 142.5).toFixed(1) + 'M | 30k: $' + (latest.lngc_30k_nb_price || 87.0).toFixed(1) + 'M | 7k: $' + (latest.lngc_7k_nb_price || 57.5).toFixed(1) + 'M';
-        } else {
-          if (latest.lngc_174k_7y_tc != null && latest.lngc_174k_10y_tc != null) {
-            badge.textContent = '174k 7Y: $' + (latest.lngc_174k_7y_tc / 1000).toFixed(0) + 'k/d | 10Y: $' + (latest.lngc_174k_10y_tc / 1000).toFixed(0) + 'k/d';
-          } else if (latest.lngc_80k_nb_price != null) {
-            badge.textContent = '174k NB: $' + latest.lngc_80k_nb_price.toFixed(1) + 'M';
-          }
+          badge.textContent = '80k: ' + m(latest.lngc_80k_nb_price) + ' | 30k: ' + m(latest.lngc_30k_nb_price) + ' | 7.5k: ' + m(latest.lngc_7k_nb_price);
+        } else if (latest.lngc_174k_7y_tc != null && latest.lngc_174k_10y_tc != null) {
+          badge.textContent = '174k 7Y: $' + (latest.lngc_174k_7y_tc / 1000).toFixed(0) + 'k/d | 10Y: $' + (latest.lngc_174k_10y_tc / 1000).toFixed(0) + 'k/d';
+        } else if (latest.lngc_80k_nb_price != null) {
+          badge.textContent = '80k m³ NB: ' + m(latest.lngc_80k_nb_price);
         }
       }
 
@@ -26470,8 +26456,8 @@ function buildMaster() {
         lngTitle.setAttribute('data-tt-type', 'concept-lngtc');
         lngTitle.setAttribute('data-tt-tc7y', latest.lngc_174k_7y_tc || 0);
         lngTitle.setAttribute('data-tt-tc10y', latest.lngc_174k_10y_tc || 0);
-        lngTitle.setAttribute('data-tt-nb', latestNb);
-        lngTitle.setAttribute('data-tt-yield', paybackYield.toFixed(1));
+        lngTitle.setAttribute('data-tt-nb', latestNb != null ? latestNb : '');
+        lngTitle.setAttribute('data-tt-yield', paybackOk ? paybackYield.toFixed(1) : '');
       }
 
       if (activeScale === '174k' || activeScale === '7y' || activeScale === '10y') {
@@ -26499,7 +26485,7 @@ function buildMaster() {
           spanGaps: true
         });
         datasets.push({
-          label: '174k Large LNG Shipyard Price ($M)',
+          label: '80k m³ LNG Newbuilding Price ($M)',
           data: rows.map(r => r.lngc_80k_nb_price),
           borderColor: '#e3b341',
           backgroundColor: 'transparent',
@@ -26522,7 +26508,7 @@ function buildMaster() {
           spanGaps: true
         });
         datasets.push({
-          label: '174k m³ Large LNG NB ($M)',
+          label: '80k m³ LNG NB ($M)',
           data: rows.map(r => r.lngc_80k_nb_price),
           borderColor: '#e3b341',
           backgroundColor: 'transparent',
@@ -26535,7 +26521,7 @@ function buildMaster() {
         });
       } else if (activeScale === '7k') {
         datasets.push({
-          label: '7k m³ Small Coastal LNG NB ($M)',
+          label: '7.5k m³ Small-Scale LNG NB ($M)',
           data: rows.map(r => r.lngc_7k_nb_price),
           borderColor: '#3fb950',
           backgroundColor: 'transparent',
@@ -26582,7 +26568,7 @@ function buildMaster() {
           spanGaps: true
         });
         datasets.push({
-          label: '174k Large LNG NB ($M)',
+          label: '80k m³ LNG NB ($M)',
           data: rows.map(r => r.lngc_80k_nb_price),
           borderColor: '#e3b341',
           backgroundColor: 'transparent',
@@ -29051,7 +29037,7 @@ function buildMaster() {
     window.renderPpaThroughputChart = renderPpaThroughputChart;
 
     // =========================================================================
-    // 3. US PADD 3 SEABORNE PETROLEUM EXPORTS (EIA WEEKLY)
+    // 3. US CRUDE OIL EXPORTS (EIA WEEKLY, SERIES WCREXUS2)
     // =========================================================================
     function renderEiaExportsChart() {
       const canvas = document.getElementById('eiaExportsChart');
@@ -29063,13 +29049,11 @@ function buildMaster() {
       const labels = rows.map(r => r.dateStr);
       const crude = rows.map(r => r.usTotalCrudeKbpd);
       const crude4w = rows.map(r => r.crude4wAvgKbpd);
-      const padd3 = rows.map(r => r.padd3GulfCrudeKbpd);
-      const totalPetro = rows.map(r => r.usTotalPetroKbpd);
 
       const latest = rows[rows.length - 1];
       const badge = document.getElementById('eiaExportsBadge');
       if (badge && latest) {
-        badge.innerHTML = `US Crude: <strong>${(latest.usTotalCrudeKbpd || 0).toLocaleString('en-US')} kbpd</strong> | Gulf Coast: <strong>${(latest.padd3GulfCrudeKbpd || 0).toLocaleString('en-US')} kbpd</strong>`;
+        badge.innerHTML = `US Crude Exports: <strong>${(latest.usTotalCrudeKbpd || 0).toLocaleString('en-US')} kbpd</strong>`;
       }
 
       destroyChart('eiaExportsChart');
@@ -29080,7 +29064,6 @@ function buildMaster() {
           datasets: [
             { label: 'Total US Crude Exports (kbpd)', data: crude, borderColor: '#58a6ff', borderWidth: 1.5, tension: 0.1 },
             { label: '4-Week Moving Average', data: crude4w, borderColor: '#3fb950', borderWidth: 2.5, tension: 0.2 },
-            { label: 'PADD 3 Gulf Coast Crude (kbpd)', data: padd3, borderColor: '#e3b341', borderWidth: 1.5, borderDash: [4, 2], tension: 0.1 },
           ]
         },
         options: {
@@ -30414,20 +30397,32 @@ function renderFearnleysSnpTable() {
 
       if (corridorEl) corridorEl.textContent = pairData.origin + ' → ' + pairData.destination;
       var lastVol = pairData.volume_data.filter(function(v) { return v !== null; }).slice(-1)[0];
-      var lastRate = pairData.freight_data.filter(function(v) { return v !== null; }).slice(-1)[0];
-      if (volEl && lastVol != null) volEl.textContent = lastVol + ' ' + pairData.volume_unit + '/mo';
-      if (rateEl && lastRate != null) rateEl.textContent = '$' + lastRate + ' / MT';
-      if (tsidEl) {
+      var hasFreight = !!pairData.freight_unit && (pairData.freight_data || []).some(function(v) { return v !== null; });
+      var lastRate = hasFreight ? pairData.freight_data.filter(function(v) { return v !== null; }).slice(-1)[0] : null;
+      var fmtRate = function(v) {
+        if (v == null) return '';
+        if (pairData.freight_unit === '$k/day') return '$' + v + 'k / day';
+        if (pairData.freight_unit === 'USD/MT') return '$' + v + ' / MT';
+        return v + ' ' + pairData.freight_unit;
+      };
+      if (volEl) volEl.textContent = lastVol != null ? lastVol + ' ' + pairData.volume_unit + '/mo' : '—';
+      if (rateEl) rateEl.textContent = hasFreight ? fmtRate(lastRate) : 'No matching route';
+      if (tsidEl && !pairData.route_code) {
+        tsidEl.textContent = '—';
+        tsidEl.setAttribute('data-tooltip', pairData.freight_note || 'No Baltic benchmark route covers this cargo flow.');
+      } else if (tsidEl) {
         var rCode = (pairData.route_code || '').replace(/tsid_?\s*/gi, 'Route ');
         tsidEl.textContent = rCode;
         var rTip = 'Baltic Exchange benchmark freight route';
         if (rCode.indexOf('C3') !== -1) rTip = 'Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)';
         else if (rCode.indexOf('C5') !== -1) rTip = 'Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)';
+        else if (rCode.indexOf('S1C') !== -1) rTip = 'Baltic S1C: US Gulf trip to China-south Japan (Supramax, usd/day)';
+        else if (rCode.indexOf('Newcastle') !== -1) rTip = 'Fearnleys Newcastle to Qingdao coal assessment (Capesize, usd/tonne); no Baltic code';
         else if (rCode.indexOf('TD3C') !== -1) rTip = 'Baltic TD3C: Middle East Gulf to China (Dirty Tankers, worldscale)';
         else if (rCode.indexOf('TD20') !== -1) rTip = 'Baltic TD20: West Africa to UK-Continent (Dirty Tankers, worldscale)';
         tsidEl.setAttribute('data-tooltip', rTip);
       }
-      if (provEl) provEl.textContent = 'Volume: ' + pairData.provenance.volume_source + ' · Freight: ' + (pairData.provenance.freight_source || '').replace(/tsid_?\s*/gi, 'Route ');
+      if (provEl) provEl.textContent = 'Volume: ' + pairData.provenance.volume_source + (pairData.provenance.freight_source ? ' · Freight: ' + pairData.provenance.freight_source.replace(/tsid_?\s*/gi, 'Route ') : ' · Freight: none paired');
       if (badgeEl) {
         badgeEl.textContent = pairData.provenance.status === 'LIVE_MIRROR' ? 'MIRROR STATISTIC' : 'PAIRED DATA';
         badgeEl.className = pairData.provenance.status === 'LIVE_MIRROR' ? 'cargo-badge-mirror' : 'cargo-badge-live';
@@ -30452,7 +30447,7 @@ function renderFearnleysSnpTable() {
               fill: true,
               yAxisID: 'yLeft'
             },
-            {
+          ].concat(hasFreight ? [{
               label: pairData.freight_label,
               data: pairData.freight_data,
               borderColor: '#f59e0b',
@@ -30461,8 +30456,7 @@ function renderFearnleysSnpTable() {
               pointRadius: 2.5,
               fill: false,
               yAxisID: 'yRight'
-            }
-          ]
+            }] : [])
         },
         options: {
           responsive: true,
@@ -30490,9 +30484,10 @@ function renderFearnleysSnpTable() {
             yRight: {
               type: 'linear',
               position: 'right',
+              display: hasFreight,
               grid: { drawOnChartArea: false },
-              ticks: { color: '#f59e0b', font: { size: 11 }, callback: function(v) { return '$' + v; } },
-              title: { display: true, text: 'Baltic Route Freight Rate', color: '#f59e0b', font: { size: 11 } }
+              ticks: { color: '#f59e0b', font: { size: 11 }, callback: function(v) { return pairData.freight_unit === '$k/day' ? '$' + v + 'k' : '$' + v; } },
+              title: { display: true, text: 'Route Freight Rate (' + (pairData.freight_unit || '') + ')', color: '#f59e0b', font: { size: 11 } }
             }
           }
         }
@@ -31120,25 +31115,27 @@ function renderFearnleysSnpTable() {
       var vols = dates.map(function(d) { return volMap[d] != null ? volMap[d] : null; });
       var cifs = dates.map(function(d) { return cifMap[d] != null ? cifMap[d] : null; });
 
-      var total2025 = gb.total_2025_mt || 182.8;
-      var yoyVal = gb.yoy_2025_pct != null ? gb.yoy_2025_pct.toFixed(1) : '26.1';
+      var total2025 = gb.total_2025_mt;
+      var yoyVal = gb.yoy_2025_pct != null ? gb.yoy_2025_pct.toFixed(1) : '—';
 
       var recordBadge = document.getElementById('guineaAnnualRecordBadge');
       if (recordBadge) {
-        recordBadge.textContent = total2025.toFixed(1) + ' Mt Annual Record';
+        recordBadge.textContent = total2025 != null ? total2025.toFixed(1) + ' Mt Annual Record' : '—';
       }
       var ledgerSummary = document.getElementById('guineaLedgerSummary');
       if (ledgerSummary) {
-        ledgerSummary.textContent = 'Total 2025 Seaborne Exports: ' + total2025.toFixed(1) + ' Mt (+' + yoyVal + '% YoY)';
+        ledgerSummary.textContent = total2025 != null ? 'Total 2025 Seaborne Exports: ' + total2025.toFixed(1) + ' Mt (+' + yoyVal + '% YoY)' : '';
       }
 
-      var lastVol = null;
+      var lastVol = null, lastVolMonth = null;
       for (var vi = vols.length - 1; vi >= 0; vi--) {
-        if (vols[vi] != null) { lastVol = vols[vi]; break; }
+        if (vols[vi] != null) { lastVol = vols[vi]; lastVolMonth = dates[vi]; break; }
       }
       var badge = document.getElementById('guineaBauxiteBadge');
       if (badge) {
-        badge.innerHTML = 'Mirror Run-Rate: <strong>' + (lastVol != null ? lastVol.toFixed(1) + ' Mt/mo' : '16.4 Mt/mo') + '</strong> (' + total2025.toFixed(1) + ' Mt 2025 Record)';
+        badge.innerHTML = lastVol != null
+          ? 'Latest mirror month: <strong>' + lastVol.toFixed(1) + ' Mt</strong> (' + lastVolMonth + ')' + (total2025 != null ? ' · 2025 exports ' + total2025.toFixed(1) + ' Mt' : '')
+          : '—';
       }
 
       // Populate 2025 producer ledger table (5 columns: Operator, Exports, Share, Terminal, Destination)
@@ -31704,8 +31701,8 @@ function renderFearnleysSnpTable() {
       var usdaExp = cs.usda_export_commitments;
       var grainEl = document.getElementById('cargoHudGrains');
       if (grainEl) {
-        var totRows = (usdaExp && usdaExp.total_rows) || 68181;
-        grainEl.textContent = (totRows / 1000).toFixed(1) + 'k Records';
+        var totRows = usdaExp && usdaExp.total_rows;
+        grainEl.textContent = totRows ? (totRows / 1000).toFixed(1) + 'k Records' : '—';
       }
       var grainSub = document.getElementById('cargoHudGrainsSub');
       if (grainSub) grainSub.textContent = 'Active: Corn, Wheat, Soybeans (FAS)';
@@ -31713,18 +31710,32 @@ function renderFearnleysSnpTable() {
       var fixEl = document.getElementById('cargoHudFixtures');
       var fixSub = document.getElementById('cargoHudFixturesSub');
       var meta = (cfm && cfm.metadata) || {};
-      var totFix = meta.total_fixtures || 540640;
-      var unclassPct = meta.unclassified_pct != null ? meta.unclassified_pct : 53.22;
-      if (fixEl) fixEl.textContent = (totFix / 1000).toFixed(0) + 'k Fixtures';
-      if (fixSub) fixSub.textContent = (100 - unclassPct).toFixed(1) + '% Classified | ' + unclassPct.toFixed(1) + '% Unclassified';
+      var totFix = meta.total_fixtures;
+      var unclassPct = meta.unclassified_pct;
+      if (fixEl) fixEl.textContent = totFix ? (totFix / 1000).toFixed(0) + 'k Fixtures' : '—';
+      if (fixSub) fixSub.textContent = unclassPct != null ? (100 - unclassPct).toFixed(1) + '% Classified | ' + unclassPct.toFixed(1) + '% Unclassified' : '';
 
-      var c3 = (window.DATA && window.DATA.capeC3Latest) || 40.99;
-      var c5 = (window.DATA && window.DATA.capeC5Latest) || 17.77;
+      // C3 and C5 come from the same monthly means the Origin -> Freight chart plots.
+      // This used to read DATA.capeC3Latest / capeC5Latest, which nothing ever sets,
+      // so the tile always showed its typed fallbacks.
+      var fp = cs.flagship_pairs || {};
+      var lastOf = function (pair) {
+        if (!pair || !pair.freight_data) return null;
+        for (var i = pair.freight_data.length - 1; i >= 0; i--) {
+          if (pair.freight_data[i] != null) return { v: pair.freight_data[i], m: pair.months[i] };
+        }
+        return null;
+      };
+      var c3 = lastOf(fp.brazil_c3), c5 = lastOf(fp.pilbara_c5);
       var spreadEl = document.getElementById('cargoHudC3C5Spread');
-      if (spreadEl && c3 && c5) {
-        spreadEl.textContent = '+$' + (c3 - c5).toFixed(2) + ' / MT';
-        var spreadSub = document.getElementById('cargoHudC3C5SpreadSub');
-        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.toFixed(2) + '/t | C5: $' + c5.toFixed(2) + '/t (Tubarao Premium)';
+      var spreadSub = document.getElementById('cargoHudC3C5SpreadSub');
+      if (spreadEl && c3 && c5 && c3.m === c5.m) {
+        var sp = c3.v - c5.v;
+        spreadEl.textContent = (sp >= 0 ? '+$' : '-$') + Math.abs(sp).toFixed(2) + ' / MT';
+        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.v.toFixed(2) + '/t | C5: $' + c5.v.toFixed(2) + '/t (' + c3.m + ' average)';
+      } else if (spreadEl) {
+        spreadEl.textContent = '—';
+        if (spreadSub) spreadSub.textContent = '';
       }
     }
 
@@ -38052,7 +38063,7 @@ function _paintBrief(el, tsEl, data) {
           const lng10y = Number(lastLng.lngc_174k_10y_tc || 0);
           lines.push('', `— GAS SHIPPING BENCHMARKS —`);
           lines.push(`  LPG VLGC 84k 1Y TC: $${vlgcDay.toLocaleString('en-US')}/d ($${vlgcMonth.toLocaleString('en-US')}/mo) | MGC 38k 1Y: $${Number(lastLpg.mgc_38k_tc||0).toLocaleString('en-US')}/mo`);
-          lines.push(`  LNG 174k 2-Stroke: 7Y TC $${lng7y.toLocaleString('en-US')}/d | 10Y TC $${lng10y.toLocaleString('en-US')}/d | Newbuilding: $${Number(lastLng.lngc_80k_nb_price||262).toLocaleString('en-US')}M`);
+          lines.push(`  LNG 174k 2-Stroke: 7Y TC $${lng7y.toLocaleString('en-US')}/d | 10Y TC $${lng10y.toLocaleString('en-US')}/d | 80k m³ NB: ${lastLng.lngc_80k_nb_price != null ? '$' + Number(lastLng.lngc_80k_nb_price).toLocaleString('en-US') + 'M' : '—'}`);
         }
       }
 
@@ -45054,11 +45065,11 @@ function escapeHtml(str) {
           html += `<div class="rt-note">Capesize C5 demand anchor. See provenance footer below the chart for full audit detail.</div>`;
         }
         else if (type === 'concept-eia-exports' || type === 'eia-exports-header') {
-          html = `<div class="rt-title">US Gulf Coast (PADD 3) Seaborne Petroleum Exports</div>`;
+          html = `<div class="rt-title">US Crude Oil Exports (all US ports)</div>`;
           html += `<div class="rt-row"><span class="rt-label">Data Source</span><span class="rt-val">US Energy Information Administration (EIA Weekly WCREXUS2)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Tanker Impact</span><span class="rt-val" style="color:#58a6ff">VLCC TD22 (USG→China), Suezmax TD20/TD27, Aframax TD25</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Velocity</span><span class="rt-val">Thousand Barrels per Day (kbpd) & 4-Week Moving Average</span></div>`;
-          html += `<div class="rt-note">US Gulf seaborne crude exports represent the largest incremental growth driver for long-haul tanker ton-miles. Transatlantic shipments to Europe replace short-haul North Sea barrels, while USG-to-Asia runs (~15,200 nm) absorb VLCC capacity for 60+ days.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Velocity</span><span class="rt-val">Thousand barrels per day (kbpd), 5-year weekly range</span></div>`;
+          html += `<div class="rt-note">EIA publishes weekly crude exports for the US as a whole; there is no weekly Gulf Coast split. US crude exports represent the largest incremental growth driver for long-haul tanker ton-miles. Transatlantic shipments to Europe replace short-haul North Sea barrels, while USG-to-Asia runs (~15,200 nm) absorb VLCC capacity for 60+ days.</div>`;
         }
         else if (type === 'concept-port-congestion' || type === 'concept-portwatch-congestion' || type === 'portwatch-header') {
           const pwRows = (window.DATA && (DATA.portCongestion || DATA.portwatch_congestion || DATA.portwatchCongestion)) || [];
@@ -45242,7 +45253,9 @@ function escapeHtml(str) {
           html = `<div class="rt-title">LNG Fleet Cash-on-Cash Payback Yield</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: ((Period TC Rate × 365.25) / Newbuilding Shipyard Capex) × 100%.</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Measures gross cash return on capital expenditure generated by long-term take-or-pay LNG period charters.</div>`;
-          if (yieldVal) {
+          if (!yieldVal) {
+            html += `<div class="rt-note">Not shown: it needs a newbuilding price and a charter rate for the same vessel size, and no such pair is published for this view.</div>`;
+          } else {
             html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Vessel Class</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${scale}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Payback Yield</span><span class="rt-val pos" style="font-weight:700;">${yieldVal}</span></div>`;
             if (price) html += `<div class="rt-row"><span class="rt-label">Newbuilding Capex</span><span class="rt-val">${price}</span></div>`;
@@ -45258,7 +45271,9 @@ function escapeHtml(str) {
           const yieldVal = target.getAttribute('data-tt-yield');
           html = `<div class="rt-title">LNG Implied Shipyard Capex Payback Period</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: Shipyard Newbuilding Price / Annual Gross Period Charter Revenue. Measures years required to fully amortize vessel shipyard build costs.</div>`;
-          if (years) {
+          if (!years) {
+            html += `<div class="rt-note">Not shown: it needs a newbuilding price and a charter rate for the same vessel size, and no such pair is published for this view.</div>`;
+          } else {
             html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Vessel Class</span><span class="rt-val" style="color:var(--accent);font-weight:600;">${scale}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Amortization Period</span><span class="rt-val" style="color:#58a6ff;font-weight:700;">${years}</span></div>`;
             if (price) html += `<div class="rt-row"><span class="rt-label">Newbuilding Capex</span><span class="rt-val">${price}</span></div>`;
@@ -45971,7 +45986,7 @@ function escapeHtml(str) {
         }
         else if (type === 'lng-scale-selector') {
           const scale = target.getAttribute('data-tt-scale') || '174k';
-          const scales = {'174k':'174,000 CBM Large LNG Carrier','30k':'30,000 CBM Mid-Scale LNG','7k':'7,000 CBM Small Coastal LNG',all:'All LNG Vessel Scales'};
+          const scales = {'174k':'174,000 CBM Large LNG Carrier','30k':'30,000 CBM Mid-Scale LNG','7k':'7,500 CBM Small-Scale LNG',all:'All LNG Vessel Scales'};
           html = `<div class="rt-title">LNG Fleet Scale: ${scales[scale] || scale}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Primary Trade</span><span class="rt-val">${scale === '174k' ? 'Long-haul LNG: Qatar/US/Australia to Asia/Europe' : (scale === '30k' ? 'Regional distribution, FSRUs, peak-shaving' : (scale === '7k' ? 'Coastal, river terminals, bunker supply' : 'Across all LNG trade lanes'))}</span></div>`;
           html += `<div class="rt-note">LNG vessel size dictates both cargo economics and infrastructure access. Large carriers dominate inter-continental trade; small vessels serve emerging markets.</div>`;
@@ -46008,9 +46023,9 @@ function escapeHtml(str) {
           const scale = target.getAttribute('data-tt-scale') || '174k';
           const info = {
             '174k': {name:'174,000 m³ Large LNG Carrier', trade:'Qatar → Japan/Korea/Europe, US Gulf → Asia (18–21 day passages)', nb:'$230–260M newbuilding (Hyundai, Daewoo, Samsung)', tc:'10Y TC benchmark: $80,000–110,000/day depending on market cycle', ldts:'~25,000 LDT: slow-steaming 19 knots, 2-stroke DFDE or X-DF propulsion', orderbook:'Dominant: ~70% of global LNG orderbook by CBM', note:'The 174k "TFDE" carrier is the global benchmark for inter-continental LNG trade. Spot charters are rare; the asset class is primarily financed via long-term oil-major or utility-backed time charters.'},
-            '30k': {name:'30,000 m³ Mid-Scale LNG Carrier', trade:'Regional distribution: FSRUs, North Sea, Mediterranean, SE Asia hub-to-spoke', nb:'$75–95M newbuilding (Kawasaki, CSSC)', tc:'1Y TC benchmark: $30,000–50,000/day; thin liquidity', ldts:'~10,500 LDT: pressure tanks or fully refrigerated', orderbook:'Growing: driven by European LNG import diversification 2022–2024', note:'Mid-scale LNG plays a critical role in "last mile" regasification, serving terminals too small to accept Q-Flex or conventional LNG tonnage. Higher spot rate volatility due to thinner fleet depth.'},
-            '7k': {name:'7,000 m³ Small Coastal / Bunkering LNG Vessel', trade:'LNG bunkering, coastal gas supply, river terminals, Arctic feeder routes', nb:'$35–55M newbuilding (Tersan, Crist, Damen)', tc:'Spot hire: $15,000–28,000/day; often proprietary or long-term utility-contracted', ldts:'~3,200 LDT: pressure or semi-refrigerated', orderbook:'Expanding rapidly via LNG bunkering infrastructure build-out (IMO 2020+ shipping decarbonisation)', note:'Small-scale LNG is the fastest-growing segment driven by LNG as marine fuel adoption under IMO 2020 sulphur caps. Vessels serve as floating gas stations for LNG-fuelled container ships and car carriers.'},
-            'all': {name:'All LNG Fleet Scales: Composite View', trade:'Full spectrum: inter-continental long-haul + regional distribution + coastal bunkering', nb:'Weighted average NB price shown for 174k benchmark', tc:'Chart overlays all three tenor series for cross-scale relative value comparison', ldts:'Fleet LDT range: 3,000–25,000 LDT depending on vessel size', orderbook:'Global LNG fleet: ~750 vessels with ~280 on order (2024)', note:'Viewing all scales simultaneously reveals the term structure of LNG vessel economics: from commodity-like small-scale up to project-financed large carriers underpinning $B LNG supply chain investments.'}
+            '30k': {name:'30,000 m³ Mid-Scale LNG Carrier', trade:'Regional distribution: FSRUs, North Sea, Mediterranean, SE Asia hub-to-spoke', nb:'$75–95M newbuilding (Kawasaki, CSSC)', tc:'No published charter rate for this size (Fearnleys publishes newbuilding prices only)', ldts:'~10,500 LDT: pressure tanks or fully refrigerated', orderbook:'Growing: driven by European LNG import diversification 2022–2024', note:'Mid-scale LNG plays a critical role in "last mile" regasification, serving terminals too small to accept Q-Flex or conventional LNG tonnage. Higher spot rate volatility due to thinner fleet depth.'},
+            '7k': {name:'7,500 m³ Small-Scale / Bunkering LNG Vessel', trade:'LNG bunkering, coastal gas supply, river terminals, Arctic feeder routes', nb:'$35–55M newbuilding (Tersan, Crist, Damen)', tc:'No published charter rate for this size (Fearnleys publishes newbuilding prices only)', ldts:'~3,200 LDT: pressure or semi-refrigerated', orderbook:'Expanding rapidly via LNG bunkering infrastructure build-out (IMO 2020+ shipping decarbonisation)', note:'Small-scale LNG is the fastest-growing segment driven by LNG as marine fuel adoption under IMO 2020 sulphur caps. Vessels serve as floating gas stations for LNG-fuelled container ships and car carriers.'},
+            'all': {name:'All LNG Fleet Scales: Composite View', trade:'Full spectrum: inter-continental long-haul + regional distribution + coastal bunkering', nb:'Fearnleys newbuilding prices for 80k, 30k and 7.5k m³ carriers', tc:'Charter rates are published for the 174k class only', ldts:'Fleet LDT range: 3,000–25,000 LDT depending on vessel size', orderbook:'Global LNG fleet: ~750 vessels with ~280 on order (2024)', note:'Viewing all scales simultaneously reveals the term structure of LNG vessel economics: from commodity-like small-scale up to project-financed large carriers underpinning $B LNG supply chain investments.'}
           };
           const v = info[scale] || info['174k'];
           html = `<div class="rt-title">LNG Vessel Scale: ${v.name}</div>`;

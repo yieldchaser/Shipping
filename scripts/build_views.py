@@ -430,8 +430,12 @@ def build_route_views():
             "row_count": len(dates),
             "status": "LIVE",
         }
+        # Dates ship as day offsets from header.first: ISO strings were ~60% of the
+        # payload and pushed the tab-sweep transfer over its 58 MB budget.
+        base = datetime.strptime(dates[0], "%Y-%m-%d")
+        offsets = [(datetime.strptime(d, "%Y-%m-%d") - base).days for d in dates]
         write_view_manifest(f"data/views/routes/{cid}.json",
-                            {"header": header, "dates": dates, "values": [dedup[d] for d in dates]},
+                            {"header": header, "day_offsets": offsets, "values": [dedup[d] for d in dates]},
                             f"Route {cid}")
         catalog.append({k: header[k] for k in ("card_id", "code", "title", "vessel_class", "group",
                                                "unit", "precision", "source", "note", "first",

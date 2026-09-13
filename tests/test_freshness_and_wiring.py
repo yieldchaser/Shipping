@@ -621,6 +621,8 @@ def test_route_cards_match_taxonomy_and_sources():
                 f"{cid}: title {e['title']!r} != taxonomy {tax[e['code']]['description']!r}")
             assert e["unit"] == tax[e["code"]]["unit"], f"{cid}: unit {e['unit']} != taxonomy {tax[e['code']]['unit']}"
         view = json.loads((ROUTES_VIEW_DIR / f"{cid}.json").read_text(encoding="utf-8"))
+        base = datetime.date.fromisoformat(view["header"]["first"])
+        view["dates"] = [(base + datetime.timedelta(days=o)).isoformat() for o in view["day_offsets"]]
         assert len(view["dates"]) == len(view["values"]) == e["row_count"]
         assert view["dates"] == sorted(set(view["dates"])), f"{cid}: dates not strictly ascending"
         assert min(view["values"]) > 0, f"{cid}: a non-positive print is plotted as a rate"
