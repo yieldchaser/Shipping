@@ -562,3 +562,250 @@ def test_perf_budget(tab_audit_data):
     assert not violations, (
         f"Performance budget violations: {'; '.join(violations)}"
     )
+
+
+# ---------------------------------------------------------------------------
+# Behavioural proofs (F-2, F-5 / G-11)
+#
+# These replace the string-presence forms of test_dashboard_overlay_range_widening
+# and test_tracking_map_sector_and_status_filtering that lived in
+# tests/test_freshness_and_wiring.py. Those asserted identifiers such as
+# "loadProductFullHistory" and "plotPortHubMarkers()" appeared somewhere in
+# index.html, which stays true if the wiring is deleted and the name survives in
+# a comment. What matters is what the page does, so these drive the controls and
+# read the result out of the live DOM instead.
+# ---------------------------------------------------------------------------
+
+def _boot(page, web_server):
+    """Loads index.html and lets the lazy IntersectionObserver charts mount."""
+    page.goto(f"{web_server}/index.html", wait_until="networkidle")
+    page.wait_for_timeout(5000)
+
+
+def _overlay_datasets(page):
+    """Returns {n, first_label, last_label} for the dashboard year-overlay chart."""
+    return page.evaluate("""() => {
+        for (const c of document.querySelectorAll('canvas')) {
+            if (!c.offsetParent) continue;
+            const ch = (typeof Chart !== 'undefined') ? Chart.getChart(c) : null;
+            if (!ch) continue;
+            const ds = ch.data.datasets || [];
+            if (c.id !== 'overlayChart' || ds.length < 2) continue;
+            return {
+                n: ds.length,
+                first: String(ds[0].label),
+                last: String(ds[ds.length - 1].label)
+            };
+        }
+        return null;
+    }""")
+
+
+def _click_preset(page, label):
+    return page.evaluate("""(l) => {
+        const b = [...document.querySelectorAll('button')].filter(e => e.offsetParent
+            && e.innerText.trim().toLowerCase() === l.toLowerCase());
+        if (!b.length) return 'no-button';
+        b[0].click();
+        return 'ok';
+    }""", label)
+
+
+def test_dashboard_overlay_range_widening(web_server):
+    """F-2: the dashboard year overlay must actually widen with the range preset.
+
+    Baseline defect: 10Y and All returned the same six years as 5Y while the BDI
+    series runs back to 1985. Proven by counting the chart's datasets (one per
+    year), not by counting points and not by grepping index.html.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1920, "height": 1080}).new_page()
+        try:
+            _boot(page, web_server)
+            # Scroll the overlay into view so its lazy chart mounts.
+            for _ in range(3):
+                page.mouse.wheel(0, 1000)
+                page.wait_for_timeout(250)
+
+            seen = {}
+            for preset in ("1Y", "5Y", "10Y", "All"):
+                assert _click_preset(page, preset) == "ok", f"{preset} preset button not found"
+                page.wait_for_timeout(2500)
+                state = _overlay_datasets(page)
+                assert state, f"overlayChart carried no datasets after selecting {preset}"
+                seen[preset] = state
+
+            assert seen["5Y"]["n"] > seen["1Y"]["n"], (
+                f"5Y ({seen['5Y']['n']} years) must show more than 1Y ({seen['1Y']['n']})"
+            )
+            assert seen["10Y"]["n"] > seen["5Y"]["n"], (
+                f"10Y ({seen['10Y']['n']} years) must show more than 5Y ({seen['5Y']['n']}) "
+                "- this is the F-2 defect: the overlay was capped at six years"
+            )
+            assert seen["All"]["n"] >= seen["10Y"]["n"], (
+                f"All ({seen['All']['n']} years) must be at least 10Y ({seen['10Y']['n']})"
+            )
+            oldest = int(seen["All"]["last"])
+            assert oldest <= 1990, (
+                f"All must reach the full BDI span; oldest year rendered was {oldest}"
+            )
+        finally:
+            browser.close()
+
+
+def _tracking_state(page):
+    """HUD counters plus a pixel digest of the map canvas."""
+    return page.evaluate("""() => {
+        const g = id => { const e = document.getElementById(id); return e ? e.textContent.trim() : null; };
+        let pix = '';
+        const cv = document.querySelector('.leaflet-overlay-pane canvas');
+        if (cv) {
+            try {
+                const d = cv.getContext('2d').getImageData(0, 0, cv.width, cv.height).data;
+                let h = 0;
+                for (let i = 0; i < d.length; i += 997) h = ((h << 5) - h + d[i]) | 0;
+                pix = String(h);
+            } catch (e) { pix = 'blocked'; }
+        }
+        return {
+            tracked: g('hudTrackedCount'),
+            laden: g('hudPctLaden'),
+            pix,
+            dimmed: document.querySelectorAll('.port-hub-pin.dimmed').length,
+            lit: document.querySelectorAll('.port-hub-pin.lit').length
+        };
+    }""")
+
+
+def test_tracking_map_sector_and_status_filtering(web_server):
+    """F-5 / G-11: the Fleet AIS sector and status filters must repaint the map.
+
+    Baseline defect: every filter left the map and its counters untouched. The
+    vessel layer uses Leaflet's canvas renderer, so vessels are pixels rather
+    than DOM markers - hence the pixel digest alongside the HUD counters.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1920, "height": 1080}).new_page()
+        try:
+            _boot(page, web_server)
+            page.evaluate("() => window.switchTab('tracking')")
+            page.wait_for_timeout(8000)
+            for _ in range(4):
+                page.mouse.wheel(0, 1100)
+                page.wait_for_timeout(250)
+
+            base = _tracking_state(page)
+            assert base["tracked"], "tracking HUD must report a tracked vessel count"
+
+            page.evaluate("() => window.setLiveFleetStatusFilter('laden')")
+            page.wait_for_timeout(2200)
+            laden = _tracking_state(page)
+
+            page.evaluate("() => window.setLiveFleetSegment('dry_bulk')")
+            page.wait_for_timeout(2200)
+            dry = _tracking_state(page)
+
+            assert laden["tracked"] != base["tracked"], (
+                f"status filter is inert: tracked count stayed {base['tracked']}"
+            )
+            assert laden["laden"] == "100.0%", (
+                f"laden filter must leave only laden vessels, got {laden['laden']}"
+            )
+            assert dry["tracked"] != laden["tracked"], (
+                f"sector filter is inert: tracked count stayed {laden['tracked']}"
+            )
+            assert base["dimmed"] == 0, (
+                f"with no sector selected no port pin may be dimmed; {base['dimmed']} were"
+            )
+            assert dry["dimmed"] > 0 and dry["lit"] > 0, (
+                "selecting a sector must light the port pins inside it and dim those outside; "
+                f"got {dry['lit']} lit / {dry['dimmed']} dimmed"
+            )
+            digests = {base["pix"], laden["pix"], dry["pix"]}
+            assert "blocked" not in digests, "could not read the map canvas"
+            assert len(digests) == 3, (
+                "the map canvas must repaint distinctly for each filter; "
+                f"got {len(digests)} distinct states across all/laden/dry-bulk"
+            )
+        finally:
+            browser.close()
+
+
+BALTIC_CODES_RENDERED = [
+    "C2", "C3", "C5", "C7", "C8", "C9", "C10", "C14", "C16", "C17",
+    "P1A", "P2A", "P3A", "P4", "P5", "P6",
+    "S1B", "S1C", "S2", "S3", "S4A", "S4B", "S5", "S8", "S9", "S10", "S15",
+    "TD1", "TD2", "TD3C", "TD6", "TD7", "TD8", "TD9", "TD15", "TD17", "TD18",
+    "TD19", "TD20", "TD22", "TD25",
+    "TC1", "TC2", "TC5", "TC6", "TC7", "TC8", "TC12", "TC14", "TC15", "TC17",
+    "HS1", "HS2", "HS4",
+]
+
+_BARE_CODE_PROBE = """(codes) => {
+    const re = new RegExp('(^|[^A-Za-z0-9_])(' + codes.join('|') + ')([^A-Za-z0-9_]|$)');
+    const bare = [];
+    document.querySelectorAll('*').forEach(e => {
+        if (!e.offsetParent) return;
+        let own = '';
+        for (const n of e.childNodes) { if (n.nodeType === 3) own += ' ' + n.textContent; }
+        own = own.trim();
+        if (!own || own.length > 60) return;
+        const m = own.match(re);
+        if (!m) return;
+        let n = e, tipped = false;
+        for (let i = 0; i < 4 && n; i++, n = n.parentElement) {
+            if (n.getAttribute && (n.getAttribute('data-tooltip') || n.getAttribute('title'))) { tipped = true; break; }
+        }
+        if (!tipped) bare.push(m[2] + ' in <' + e.tagName.toLowerCase() + '> "' + own.slice(0, 40) + '"');
+    });
+    return bare;
+}"""
+
+
+def test_baltic_route_codes_are_glossed(web_server):
+    """G-7: no Baltic route code may render on screen without a route description.
+
+    decorateBalticRouteCodes attaches one from BALTIC_ROUTE_GLOSS, which
+    tests/test_freshness_and_wiring.py pins to baltic_route_taxonomy.json. This half
+    proves the decoration actually reaches the DOM, including sub-tab content that
+    renders long after the tab itself mounts.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1920, "height": 1080}).new_page()
+        try:
+            page.goto(f"{web_server}/index.html", wait_until="networkidle")
+            page.wait_for_timeout(5000)
+
+            bare = []
+            for tab_id, _panel in TABS:
+                page.evaluate("(t) => window.switchTab(t)", tab_id)
+                page.wait_for_timeout(3000)
+                # click the sub-views so their content renders too
+                subs = page.evaluate("""() => {
+                    const p = document.getElementById('tab-' + window.currentTab);
+                    if (!p) return [];
+                    return [...p.querySelectorAll('button')]
+                        .filter(e => e.offsetParent && e.innerText.trim().length < 26)
+                        .map((e, i) => { e.setAttribute('data-baltic-sub', 's' + i); return 's' + i; })
+                        .slice(0, 14);
+                }""")
+                for sid in subs:
+                    page.evaluate(
+                        "(s) => { const e = document.querySelector('[data-baltic-sub=\"' + s + '\"]'); if (e) e.click(); }",
+                        sid,
+                    )
+                    page.wait_for_timeout(900)
+                page.mouse.wheel(0, 4000)
+                page.wait_for_timeout(1500)
+                for item in page.evaluate(_BARE_CODE_PROBE, BALTIC_CODES_RENDERED):
+                    bare.append(f"{tab_id}: {item}")
+
+            assert not bare, (
+                f"{len(bare)} Baltic route codes rendered without a route description "
+                "(baseline: C3 0/2, C5 0/3 tipped):\n" + "\n".join(bare[:25])
+            )
+        finally:
+            browser.close()

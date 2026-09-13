@@ -282,6 +282,48 @@ def test_no_typed_numbers():
     )
 
 
+def test_baltic_gloss_map_matches_taxonomy():
+    """G-7: the runtime gloss map in index.html must not drift from the taxonomy.
+
+    index.html carries a BALTIC_ROUTE_GLOSS object that decorateBalticRouteCodes uses
+    to attach a description to every route code rendered anywhere in the UI. The page
+    is static and cannot read data/reference/baltic_route_taxonomy.json at runtime, so
+    this test is what keeps the two in step: every code in the map must resolve in the
+    taxonomy and carry that file's description verbatim. Two mapping errors have
+    already been made against this taxonomy in this project.
+    """
+    tax = json.loads(BALTIC_TAXONOMY_PATH.read_text(encoding="utf-8"))["routes"]
+    # taxonomy keys carry a vessel-size suffix (P1A_82); the UI renders the bare code
+    by_code = {}
+    for key, val in tax.items():
+        code = key.split("_")[0]
+        desc = (val.get("description") or "").strip()
+        if desc:
+            by_code.setdefault(code, desc)
+
+    html = HTML_PATH.read_text(encoding="utf-8")
+    marker = "var BALTIC_ROUTE_GLOSS = {"
+    assert marker in html, "index.html must define BALTIC_ROUTE_GLOSS"
+    body = html.split(marker, 1)[1].split("};", 1)[0]
+    entries = re.findall(r'"([A-Z0-9]+)": "([^"]*)"', body)
+    assert len(entries) >= 60, f"gloss map looks truncated ({len(entries)} entries)"
+
+    drift = []
+    for code, raw_desc in entries:
+        # the map is JS source, so   and friends arrive escaped
+        desc = json.loads('"' + raw_desc + '"')
+        if code not in by_code:
+            drift.append(f"{code} is glossed in index.html but absent from the taxonomy")
+        elif by_code[code] != desc:
+            drift.append(f"{code}: index.html says {desc!r}, taxonomy says {by_code[code]!r}")
+    assert not drift, (
+        "BALTIC_ROUTE_GLOSS has drifted from baltic_route_taxonomy.json:\n"
+        + "\n".join(drift)
+    )
+
+    assert "function decorateBalticRouteCodes(root)" in html
+
+
 def test_baltic_route_taxonomy_glosses():
     """G-7 / Assertion 7: Baltic route codes rendered in the UI must carry plain-language descriptions
     derived directly from the authoritative data/reference/baltic_route_taxonomy.json, and codes
@@ -338,20 +380,6 @@ def test_ffa_forward_curve_dist_control():
     assert "p50Data.some" in html, "renderFFAForwardCurve must verify non-null points before attaching dist datasets"
 
 
-def test_dashboard_overlay_range_widening():
-    """F-2: Dashboard year overlay must not be capped at 6 years; 10Y and All must reach the series' full span.
-    Assert 10Y yields strictly more series than 5Y, and All at least as many as 10Y.
-    """
-    bdiy_view = json.loads((VIEWS_DIR / "indices" / "bdiy.json").read_text(encoding="utf-8"))
-    dates = bdiy_view.get("dates", [])
-    assert dates and len(dates) >= 10000, "bdiy view must contain full historical depth (>10,000 dates)"
-    min_year = int(dates[0][:4])
-    assert min_year <= 1990, f"bdiy history must reach back to at least 1990 (found {min_year})"
-
-    html = HTML_PATH.read_text(encoding="utf-8")
-    assert "loadProductFullHistory" in html, "index.html must implement loadProductFullHistory for on-demand deep history"
-    assert "applyPresetSelection" in html, "selectYearPreset must dynamically apply preset selections"
-
 
 def test_restocking_spot_no_spurious_interpolation():
     """F-3: Capesize spot in the iron ore restocking chart must set spanGaps: false and
@@ -398,32 +426,6 @@ def test_bix_regional_movers_asof_freshness():
     assert "bunkerBixMoversObs" in html
     assert "renderBunkersBixMovers" in html
 
-
-def test_tracking_map_sector_and_status_filtering():
-    """F-5 / G-11: Fleet AIS sector and status filters over the tracking map must repaint
-    and filter both vessels and port pins. Selecting a sector narrows the map to that trade:
-    vessel markers are filtered by class/segment, and matching port markers are highlighted
-    (lit) while non-matching ports are de-emphasized (dimmed).
-    """
-    html = HTML_PATH.read_text(encoding="utf-8")
-
-    # Verify setTrackingMapSector filters liveFleetSegment and replots live fleet markers
-    assert "function setTrackingMapSector(sector)" in html
-    assert "liveFleetSegment = fleetSegMap[sector]" in html
-    assert "plotLiveFleetMarkers()" in html
-    assert "plotPortHubMarkers()" in html
-
-    # Verify isPortInSectorFilter correctly tests port's sector calls without dead checks
-    assert "function isPortInSectorFilter(code)" in html
-    assert "if (!stats._byPort[trackingMapSector])" not in html, "isPortInSectorFilter must not check trackingMapSector on _byPort"
-    assert "stats._byPort[code][secKey]" in html
-
-    # Verify setLiveFleetSegment syncs sector and port markers
-    assert "function setLiveFleetSegment(seg)" in html
-    assert "trackingMapSector = secFromFleetSeg[seg]" in html
-
-    # Verify universePorts load callback recalculates stats and plots port markers
-    assert "window.__trackingSectorPortStats = trackingSectorPortStats();" in html
 
 
 def test_signal_banner_and_vocabulary():
@@ -542,4 +544,39 @@ def test_fleet_supply_writer_and_asof_label():
     assert "fleetOrderbookAsOfBadge" in html
     assert "As of 2026-09" in html
 
+# NOTE: test_dashboard_overlay_range_widening (F-2) and
+# test_tracking_map_sector_and_status_filtering (F-5 / G-11) used to live here as
+# string-presence checks against index.html. They now live in tests/test_ui_tabs.py
+# as behavioural proofs that drive the controls and read the live DOM, because an
+# identifier surviving in a comment is not evidence that a feature works.
 
+
+def test_signal_base_rate_bands_partition():
+    """G-12: the banner's five bands must be disjoint and must cover every session.
+
+    Each label the banner can show (Stretched / Elevated / Mid-range / Soft /
+    Depressed) quotes a base rate from its own bucket, so a bucket must contain
+    exactly the sessions its label describes. An earlier form pooled the sub-0.2
+    sessions into 'soft', which made the Soft base rate read +18.2% when the zone
+    it names returns +8.2%. The legacy keys are kept as aliases of the same band.
+    """
+    path = VIEWS_DIR / "signal_base_rates.json"
+    assert path.exists(), "data/views/signal_base_rates.json must be built"
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    buckets = payload["buckets"]
+
+    bands = ["stretched", "elevated", "mid_range", "soft", "depressed"]
+    for name in bands:
+        assert buckets.get(name), f"band {name} missing from signal_base_rates.json"
+
+    total = sum(buckets[name]["n"] for name in bands)
+    uncond = buckets["unconditional"]["n"]
+    assert total == uncond, (
+        f"the five bands must partition the sample exactly: bands sum to {total}, "
+        f"unconditional is {uncond} (overlap or a gap between thresholds)"
+    )
+
+    for band, legacy in (("stretched", "overheated"), ("soft", "accumulate"), ("depressed", "deep_distress")):
+        assert buckets[legacy]["n"] == buckets[band]["n"], (
+            f"legacy key {legacy} must alias {band}; got n={buckets[legacy]['n']} vs {buckets[band]['n']}"
+        )
