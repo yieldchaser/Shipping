@@ -10837,7 +10837,7 @@
             type: 'bar',
             data: {
               labels: labels,
-              datasets: [{ data: values, backgroundColor: colors, borderRadius: 4 }]
+              datasets: [{ data: values, backgroundColor: colors, borderRadius: 6, borderSkipped: false, maxBarThickness: 46, categoryPercentage: 0.62, barPercentage: 0.74 }]
             },
             options: {
               responsive: true,
@@ -22884,7 +22884,9 @@ function buildMaster() {
       }
 
       if (tabId === 'dashboard') renderDashboard(currentProduct);
-      if (tabId === 'seasonality') { renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct); }
+      if (tabId === 'seasonality') withDeepHistory(currentProduct, function () {
+        renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct);
+      });
       if (tabId === 'indices' && !indicesRendered) { renderIndicesTab(); indicesRendered = true; }
       if (tabId === 'etfs') {
         if (!window.__etfTabRendered) {
@@ -22898,7 +22900,7 @@ function buildMaster() {
           } catch (e) { console.error('[ETFTab Engine]', e); }
         }
       }
-      if (tabId === 'yearly-dash') renderYearlyDash(currentProduct);
+      if (tabId === 'yearly-dash') withDeepHistory(currentProduct, function () { renderYearlyDash(currentProduct); });
       if (tabId === 'signals') renderSignalsTab(currentProduct);
       if (tabId === 'cargo') renderCargoTab();
       if (tabId === 'fearnleys') renderFearnleysTab();
@@ -23381,8 +23383,10 @@ function buildMaster() {
       currentProduct = this.value;
       if (!DATA.loaded) return;
       if (currentTab === 'dashboard') renderDashboard(currentProduct);
-      if (currentTab === 'seasonality') { renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct); }
-      if (currentTab === 'yearly-dash') renderYearlyDash(currentProduct);
+      if (currentTab === 'seasonality') withDeepHistory(currentProduct, function () {
+        renderQuarterlyTab(currentProduct); renderMonthlyDash(currentProduct); renderHeatmaps(currentProduct);
+      });
+      if (currentTab === 'yearly-dash') withDeepHistory(currentProduct, function () { renderYearlyDash(currentProduct); });
       if (currentTab === 'signals') renderSignalsTab(currentProduct);
       if (currentTab === 'intelligence') renderIntelligenceTab();
       if (currentTab === 'etfs') {
@@ -23430,6 +23434,119 @@ function buildMaster() {
     // =====================================================================
     var _ydHistAvgWindow = 5; // tracks currently active avg window (5, 10, or 0=all-time)
     var _ydHistProductKey = null;
+
+    // =====================================================================
+    // Deep history for the Yearly and Seasonality tabs
+    //
+    // data/views/dashboard_master.json is deliberately capped at five years to
+    // hold the boot transfer budget, and DATA.master is built from it. Every
+    // panel on Yearly and Seasonality reads DATA.master through getRows() /
+    // getProductYears(), so all of them silently ran on five years: the
+    // "Last 8 Years" quarterly grid had three empty rows, the historical price
+    // chart began in 2021 whatever the slider did, and the win-rate matrix
+    // printed the SAME five-year number under its 10Y, 20Y and All-Time
+    // headings. loadProductFullHistory() already existed but only fed the
+    // dashboard's year overlay through DATA.byYearProduct.
+    //
+    // This extends DATA.master backwards, for one product at a time, from the
+    // per-index view (~85 KB each) and only when one of those two tabs is
+    // actually open. Boot is untouched.
+    // =====================================================================
+    var _deepHistoryLoaded = {};
+    var _deepHistoryPromises = {};
+
+    function ensureDeepHistory(productKey) {
+      if (!productKey) return Promise.resolve(false);
+      if (_deepHistoryLoaded[productKey]) return Promise.resolve(false);
+      if (_deepHistoryPromises[productKey]) return _deepHistoryPromises[productKey];
+
+      _deepHistoryPromises[productKey] = fetch('data/views/indices/' + productKey + '.json')
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (d) {
+          if (!d || !d.dates || !d.values || !DATA.master || !DATA.master.length) return false;
+          _deepHistoryLoaded[productKey] = true;
+
+          var byTs = {};
+          for (var i = 0; i < DATA.master.length; i++) byTs[DATA.master[i].ts] = DATA.master[i];
+
+          var added = [];
+          for (var j = 0; j < d.dates.length; j++) {
+            var val = d.values[j];
+            if (val == null) continue;
+            var parts = String(d.dates[j]).slice(0, 10).split('-');
+            if (parts.length !== 3) continue;
+            var dt = new Date(Date.UTC(+parts[0], +parts[1] - 1, +parts[2]));
+            var ts = dt.getTime();
+            if (isNaN(ts)) continue;
+            var row = byTs[ts];
+            if (!row) {
+              row = {
+                date: dt,
+                ts: ts,
+                year: dt.getUTCFullYear(),
+                month: dt.getUTCMonth(),
+                quarter: getQuarter(dt.getUTCMonth())
+              };
+              byTs[ts] = row;
+              added.push(row);
+            }
+            // Never overwrite a value the five-year master already carries; the
+            // deep view only fills the dates it does not have. Another product's
+            // deep load may already have widened master past this product's own
+            // start date, so the merge cannot be gated on master's first row.
+            if (row[productKey] == null) row[productKey] = val;
+          }
+          if (added.length) {
+            DATA.master = added.concat(DATA.master);
+            DATA.master.sort(function (a, b) { return a.ts - b.ts; });
+          }
+
+          // day-over-day change for the rows we just added, so anything reading
+          // <key>_change over deep history gets a real number rather than null
+          var prev = null;
+          for (var k = 0; k < DATA.master.length; k++) {
+            var r2 = DATA.master[k];
+            if (r2[productKey] == null) continue;
+            if (r2[productKey + '_change'] == null && prev != null && prev !== 0) {
+              r2[productKey + '_change'] = ((r2[productKey] - prev) / prev) * 100;
+            }
+            prev = r2[productKey];
+          }
+
+          DATA.years = [...new Set(DATA.master.map(function (r) { return r.year; }))].sort(function (a, b) { return a - b; });
+
+          // The range slider preserves the visible DATE window across data
+          // changes, which would pin the chart to the five-year window it was
+          // first built with and hide the history we just loaded. Drop the
+          // remembered window so the next init opens on the full span.
+          var sEl = document.getElementById('ydHistRangeStart');
+          var eEl = document.getElementById('ydHistRangeEnd');
+          if (sEl) { sEl._allRows = null; sEl.value = 0; }
+          if (eEl) { eEl.value = 0; }
+
+          invalidateRowCache();
+          if (typeof invalidateStatsCache === 'function') invalidateStatsCache();
+          return true;
+        })
+        .catch(function (err) {
+          console.warn('[DeepHistory]', productKey, err);
+          return false;
+        });
+
+      return _deepHistoryPromises[productKey];
+    }
+    window.ensureDeepHistory = ensureDeepHistory;
+
+    // Loads deep history, then re-runs the renderers for whichever of the two
+    // tabs is open. Renders once immediately so the tab is never blank while
+    // the fetch is in flight.
+    function withDeepHistory(productKey, render) {
+      render();
+      ensureDeepHistory(productKey).then(function (extended) {
+        if (extended) render();
+      });
+    }
+    window.withDeepHistory = withDeepHistory;
 
     function renderYearlyDash(productKey) {
       _ydHistProductKey = productKey;
@@ -23886,7 +24003,7 @@ function buildMaster() {
       destroyChart(canvasId);
       var canvas = document.getElementById(canvasId); if (!canvas) return;
       chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
-        type: 'bar', data: { labels: MONTH_NAMES, datasets: [{ label: PRODUCTS[productKey].label + ' ' + cy, data: avgs, backgroundColor: colors, borderRadius: 4 }] },
+        type: 'bar', data: { labels: MONTH_NAMES, datasets: [{ label: PRODUCTS[productKey].label + ' ' + cy, data: avgs, backgroundColor: colors, borderRadius: 6, borderSkipped: false, maxBarThickness: 46, categoryPercentage: 0.62, barPercentage: 0.74 }] },
         options: {
           responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
           scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
@@ -24077,7 +24194,7 @@ function buildMaster() {
       destroyChart('monthlyBarChart');
       var canvas = document.getElementById('monthlyBarChart'); if (!canvas) return;
       chartRegistry['monthlyBarChart'] = new Chart(canvas.getContext('2d'), {
-        type: 'bar', data: { labels: labels, datasets: [{ label: PRODUCTS[productKey].label, data: data, backgroundColor: colors, borderRadius: 4 }] },
+        type: 'bar', data: { labels: labels, datasets: [{ label: PRODUCTS[productKey].label, data: data, backgroundColor: colors, borderRadius: 6, borderSkipped: false, maxBarThickness: 46, categoryPercentage: 0.62, barPercentage: 0.74 }] },
         options: {
           responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
           scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, maxRotation: 45 } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
@@ -24213,7 +24330,7 @@ function buildMaster() {
       destroyChart('quarterlyBarChart');
       var canvas = document.getElementById('quarterlyBarChart'); if (!canvas) return;
       chartRegistry['quarterlyBarChart'] = new Chart(canvas.getContext('2d'), {
-        type: 'bar', data: { labels: labels, datasets: [{ label: PRODUCTS[productKey].label, data: data, backgroundColor: colors, borderRadius: 4 }] },
+        type: 'bar', data: { labels: labels, datasets: [{ label: PRODUCTS[productKey].label, data: data, backgroundColor: colors, borderRadius: 6, borderSkipped: false, maxBarThickness: 46, categoryPercentage: 0.62, barPercentage: 0.74 }] },
         options: {
           responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
           scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 12 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } } }
@@ -24292,6 +24409,20 @@ function buildMaster() {
       var years = windowYears > 0
         ? allYears.filter(function (y) { return y > cy - windowYears && y < cy; })
         : allYears.filter(function (y) { return y < cy; });
+
+      // A window may only report a number when the history actually covers it.
+      // Every series here starts in 2008 except the BDI (1985), so a 20Y column
+      // that quietly fell back to whatever years existed printed a 15-year
+      // statistic under a 20-year heading - and before deep history was wired in,
+      // all three columns printed the same five-year number. Short window: '-'.
+      if (windowYears > 0) {
+        var complete = allYears.filter(function (y) { return y < cy; });
+        if (!complete.length || (cy - complete[0]) < windowYears) {
+          var blank = {};
+          periods.forEach(function (p) { blank[p] = null; });
+          return blank;
+        }
+      }
       var rates = {};
       periods.forEach(function (p, pi) {
         var wins = 0, total = 0;

@@ -809,3 +809,81 @@ def test_baltic_route_codes_are_glossed(web_server):
             )
         finally:
             browser.close()
+
+
+def test_yearly_and_seasonality_use_deep_history(web_server):
+    """The Yearly and Seasonality tabs must run on the full series, not the
+    five-year boot window.
+
+    dashboard_master.json is capped at five years for the boot budget, and every
+    panel on those two tabs reads DATA.master. The symptoms were: the historical
+    price chart opened in 2021 whatever the slider did, the "Last 8 Years"
+    quarterly grid had empty rows, and the win-rate matrix printed the SAME
+    five-year number under its 10Y, 20Y and All-Time headings. ensureDeepHistory
+    extends DATA.master from the per-index view when either tab is opened.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1920, "height": 1080}).new_page()
+        try:
+            page.goto(f"{web_server}/index.html", wait_until="networkidle")
+            page.wait_for_timeout(5000)
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"yearly-dash\"]'); if (b) b.click(); }""")
+            page.wait_for_timeout(7000)
+            for _ in range(4):
+                page.mouse.wheel(0, 1000)
+                page.wait_for_timeout(250)
+
+            hist = page.evaluate("""() => {
+                const c = document.getElementById('yearlyHistChart');
+                const ch = c ? Chart.getChart(c) : null;
+                if (!ch) return null;
+                const labs = ch.data.labels || [];
+                return {first: String(labs[0]), n: labs.length,
+                        masterYears: (window.DATA && DATA.master) ? DATA.master.length : 0};
+            }""")
+            assert hist, "yearlyHistChart must exist on the Yearly tab"
+            first_year = int(str(hist["first"])[:4])
+            assert first_year <= 2010, (
+                f"the historical price chart must open on the full series; it starts {hist['first']} "
+                "(the five-year boot window starts 2021)"
+            )
+
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"seasonality\"]'); if (b) b.click(); }""")
+            page.wait_for_timeout(7000)
+            for _ in range(6):
+                page.mouse.wheel(0, 1200)
+                page.wait_for_timeout(220)
+
+            rows = page.evaluate("""() => {
+                const el = document.getElementById('quarterlyWinRateMatrix');
+                if (!el) return null;
+                return [...el.querySelectorAll('tbody tr')].map(
+                    tr => [...tr.querySelectorAll('td')].slice(1).map(td => td.innerText.trim()));
+            }""")
+            assert rows, "quarterly win-rate matrix must render"
+            # The three columns are 10Y / 20Y / All-Time. On a series with real
+            # depth they cannot all be the same number in every row.
+            identical = all(len(set(r)) == 1 for r in rows)
+            assert not identical, (
+                "10Y / 20Y / All-Time win rates are identical in every row - the matrix is "
+                f"computing all three over the same window: {rows}"
+            )
+
+            grid = page.evaluate("""() => {
+                const p = document.getElementById('tab-seasonality');
+                const t = [...p.querySelectorAll('table')].filter(e => e.offsetParent)
+                    .find(x => /YEAR/i.test(x.innerText.slice(0, 80)));
+                if (!t) return null;
+                return [...t.querySelectorAll('tbody tr')].map(
+                    tr => [...tr.querySelectorAll('td,th')].map(td => td.innerText.trim()));
+            }""")
+            assert grid, "quarterly data grid must render"
+            year_rows = [r for r in grid if r and r[0].isdigit()]
+            empty = [r[0] for r in year_rows if all(c in ("-", "\u2014", "") for c in r[1:5])]
+            assert not empty, (
+                f"the 8-year quarterly grid has rows with no data at all: {empty} - "
+                "the tab is running on a window shorter than the grid claims"
+            )
+        finally:
+            browser.close()
