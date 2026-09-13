@@ -260,9 +260,9 @@ def find_producing_script(rel_path):
         # Congestion, Derived & Reports Pipelines
         "data/congestion/chokepoint_annotations.json": ("scripts/geospatial/build_chokepoint_cache.py", "PortWatch & Maritime Security Advisories", "https://portwatch.imf.org", "Structured Event Ingestion", "Annotations"),
         "data/derived/chokepoint_transit_metrics.csv": ("scripts/geospatial/build_chokepoint_cache.py", "IMF PortWatch & AIS Chokepoint Aggregator", "https://portwatch.imf.org", "Derived Model", "Daily Transits"),
-        "data/derived/lng_charter_rates.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Hasura GraphQL API", "https://fearnleys.com", "GraphQL API", "USD/day"),
-        "data/derived/lpg_charter_rates.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Hasura GraphQL API", "https://fearnleys.com", "GraphQL API", "USD/day"),
-        "data/derived/lpg_spot_rates.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Hasura GraphQL API", "https://fearnleys.com", "GraphQL API", "USD/day"),
+        "data/derived/lng_charter_rates.csv": ("scripts/fearnleys/build_gas_rate_csvs.py", "Fearnleys Hasura GraphQL API (via fearnpulse_rates_full.csv)", "https://fearnleys.com", "GraphQL API", "USD/day (174k TC); USD million (newbuilding prices)"),
+        "data/derived/lpg_charter_rates.csv": ("scripts/fearnleys/build_gas_rate_csvs.py", "Fearnleys Hasura GraphQL API (via fearnpulse_rates_full.csv)", "https://fearnleys.com", "GraphQL API", "USD as published (Fearnleys LPG TC)"),
+        "data/derived/lpg_spot_rates.csv": ("scripts/fearnleys/build_gas_rate_csvs.py", "Fearnleys Hasura GraphQL API (via fearnpulse_rates_full.csv)", "https://fearnleys.com", "GraphQL API", "USD as published (Fearnleys LPG spot)"),
         "data/reports/fearnleys_reports_catalog.json": ("scripts/fetch_fearnleys_reports.py", "Fearnleys Custom Research Reports", "https://fearnleys.com", "Report Catalog Ingestion", "Metadata"),
         "data/reports/seabrokers_catalog.json": ("scripts/scrapers/fetch_seabrokers_reports.py", "Seabrokers Seabreeze Monthly Market Reports", "https://seabrokers.co.uk", "Report Catalog Ingestion", "Metadata"),
         "data/provenance/manifest.json": ("scripts/verify/build_provenance_manifest.py", "Provenance Verification Engine", "Local Pipeline", "Deterministic Manifest Compiler", "Provenance Registry"),

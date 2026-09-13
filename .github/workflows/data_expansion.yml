@@ -79,6 +79,10 @@ jobs:
           # fearnpulse_rates_full.csv (the sync's 30-day Hasura delta keeps it live) —
           # no second API pull; --verify asserts the regression floors.
           if [ -f scripts/fearnleys/build_tanker_routes_daily.py ]; then python scripts/fearnleys/build_tanker_routes_daily.py --build --verify; fi
+          # LNG/LPG rate CSVs had no writer and froze at 2026-08-05; rebuild them from the
+          # same refreshed catalog, then the Broker Desk gas overlay that reads them.
+          if [ -f scripts/fearnleys/build_gas_rate_csvs.py ]; then python scripts/fearnleys/build_gas_rate_csvs.py --verify; fi
+          if [ -f scripts/fearnleys/build_desk_caches.py ]; then python scripts/fearnleys/build_desk_caches.py; fi
 
       - name: Geospatial voyage tracker (idempotent, additive-only)
         # Rebuilds lineup/voyage/UI-vector caches from existing fixture data only.
