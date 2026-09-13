@@ -485,3 +485,24 @@ def test_broker_branding_demoted_in_panel_headings():
     # Preserved source attribution
     assert "Source: Braemar ACM Shipbroking" in html
 
+
+def test_broker_voice_pagination_and_selectors():
+    """G-4 / Assertion 8: Broker Voice must have month and year selectors alongside desk filter.
+    Any truncation message ('Showing first N of M matches') must be accompanied by working
+    pagination/load controls ('Load next 150', 'Load all matches') in the same container,
+    eliminating the dead-end truncation state.
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+    # 1. Year and month selectors
+    assert "id=\"fearnVoiceYear\"" in html
+    assert "id=\"fearnVoiceMonth\"" in html
+    # 2. Pagination functions and event wiring
+    assert "function fearnVoiceLoadNext()" in html
+    assert "function fearnVoiceLoadAllMatches()" in html
+    assert "id=\"fearnVoiceNextBtn\"" in html
+    assert "id=\"fearnVoiceAllBtn\"" in html
+    # 3. Dead-end copy removed
+    assert "Refine search query for specific topics." not in html
+    # 4. Truncation message has working continue controls in fearnVoicePagination
+    assert "fearnVoicePagination" in html
+    assert "Load next 150" in html

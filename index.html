@@ -13866,10 +13866,28 @@
             </div>
           </div>
           <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px;">
-            <select id="fearnVoiceType" class="tracking-select" style="min-width:240px;font-size:11px;" onchange="onFearnVoiceChange()">
+            <select id="fearnVoiceType" class="tracking-select" style="min-width:220px;font-size:11px;" onchange="onFearnVoiceChange()" data-tooltip="Filter commentary by desk, vessel sector, or research publication catalogue.">
               <option value="all">All Desks & Research Catalogues</option>
             </select>
-            <input type="text" id="fearnVoiceSearch" class="tracking-input" placeholder="Search commentary, titles, keywords..." style="min-width:240px;flex:1;font-size:11px;" oninput="onFearnVoiceChange()">
+            <select id="fearnVoiceYear" class="tracking-select" style="min-width:120px;font-size:11px;" onchange="onFearnVoiceChange()" data-tooltip="Filter commentary and research by publication year from the active archive.">
+              <option value="all">All Years</option>
+            </select>
+            <select id="fearnVoiceMonth" class="tracking-select" style="min-width:115px;font-size:11px;" onchange="onFearnVoiceChange()" data-tooltip="Filter commentary and research by publication calendar month (Jan through Dec).">
+              <option value="all">All Months</option>
+              <option value="01">01 · Jan</option>
+              <option value="02">02 · Feb</option>
+              <option value="03">03 · Mar</option>
+              <option value="04">04 · Apr</option>
+              <option value="05">05 · May</option>
+              <option value="06">06 · Jun</option>
+              <option value="07">07 · Jul</option>
+              <option value="08">08 · Aug</option>
+              <option value="09">09 · Sep</option>
+              <option value="10">10 · Oct</option>
+              <option value="11">11 · Nov</option>
+              <option value="12">12 · Dec</option>
+            </select>
+            <input type="text" id="fearnVoiceSearch" class="tracking-input" placeholder="Search commentary, titles, keywords..." style="min-width:200px;flex:1;font-size:11px;" oninput="onFearnVoiceChange()" data-tooltip="Search commentary by keyword, vessel name, charterer, or route.">
             <button id="fearnArchiveBtn" class="tracking-status-btn" onclick="loadFearnArchive()" data-tooltip="Lazy-load the full per-desk comment archive (11,709 rows in 4 chunks) for deeper search.">Load full archive</button>
           </div>
           <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:560px;overflow-y:auto;"></div>
@@ -51052,29 +51070,67 @@ var FEARN_VOICE_TYPES = ['VLCC Weekly Comment', 'Suezmax Weekly Comment', 'Afram
 
 function initFearnVoiceFilters() {
   var sel = document.getElementById('fearnVoiceType');
-  if (!sel) return;
-  var curVal = FEARN_STATE.voiceType || (sel.value || 'all');
-  sel.innerHTML = '<option value="all">All Sources & Desks</option>' +
-    '<optgroup label="Research Publication Catalogues">' +
-    '<option value="Gibson Research Reports">Gibson Research Reports (548 reports)</option>' +
-    '<option value="Fearnleys Research Reports">Fearnleys Research Reports (175 reports)</option>' +
-    '<option value="Seabrokers Offshore Reports">Seabrokers Offshore Reports (97 reports)</option>' +
-    '</optgroup>' +
-    '<optgroup label="Fearnleys Weekly Desk Comments">' +
-    FEARN_VOICE_TYPES.map(function (t) {
-      return '<option value="' + escapeHtml(t) + '">' + escapeHtml(t) + '</option>';
-    }).join('') +
-    '</optgroup>';
-  sel.value = curVal;
+  if (sel) {
+    var curVal = FEARN_STATE.voiceType || (sel.value || 'all');
+    sel.innerHTML = '<option value="all">All Sources & Desks</option>' +
+      '<optgroup label="Research Publication Catalogues">' +
+      '<option value="Gibson Research Reports">Gibson Research Reports (548 reports)</option>' +
+      '<option value="Fearnleys Research Reports">Fearnleys Research Reports (175 reports)</option>' +
+      '<option value="Seabrokers Offshore Reports">Seabrokers Offshore Reports (97 reports)</option>' +
+      '</optgroup>' +
+      '<optgroup label="Fearnleys Weekly Desk Comments">' +
+      FEARN_VOICE_TYPES.map(function (t) {
+        return '<option value="' + escapeHtml(t) + '">' + escapeHtml(t) + '</option>';
+      }).join('') +
+      '</optgroup>';
+    sel.value = curVal;
+  }
+
+  var ySel = document.getElementById('fearnVoiceYear');
+  if (ySel) {
+    var curY = FEARN_STATE.voiceYear || (ySel.value || 'all');
+    var all = fearnVoiceComments();
+    var yrMap = {};
+    all.forEach(function (c) {
+      if (c.date && c.date.length >= 4) {
+        var y = c.date.slice(0, 4);
+        if (/^\d{4}$/.test(y)) yrMap[y] = (yrMap[y] || 0) + 1;
+      }
+    });
+    var yrs = Object.keys(yrMap).sort().reverse();
+    ySel.innerHTML = '<option value="all">All Years (' + all.length.toLocaleString('en-US') + ')</option>' +
+      yrs.map(function (y) {
+        return '<option value="' + y + '">' + y + ' (' + yrMap[y].toLocaleString('en-US') + ')</option>';
+      }).join('');
+    if (curY && (curY === 'all' || yrMap[curY])) ySel.value = curY;
+  }
 }
 
 function onFearnVoiceChange() {
   var t = document.getElementById('fearnVoiceType');
+  var y = document.getElementById('fearnVoiceYear');
+  var m = document.getElementById('fearnVoiceMonth');
   var q = document.getElementById('fearnVoiceSearch');
   FEARN_STATE.voiceType = t ? t.value : 'all';
+  FEARN_STATE.voiceYear = y ? y.value : 'all';
+  FEARN_STATE.voiceMonth = m ? m.value : 'all';
   FEARN_STATE.voiceQ = q ? q.value.toLowerCase().trim() : '';
+  FEARN_STATE.voiceLimit = 150;
   renderFearnVoice();
 }
+
+function fearnVoiceLoadNext() {
+  FEARN_STATE.voiceLimit = (FEARN_STATE.voiceLimit || 150) + 150;
+  renderFearnVoice();
+}
+
+function fearnVoiceLoadAllMatches() {
+  var all = fearnVoiceComments();
+  FEARN_STATE.voiceLimit = all.length + 5000;
+  renderFearnVoice();
+}
+window.fearnVoiceLoadNext = fearnVoiceLoadNext;
+window.fearnVoiceLoadAllMatches = fearnVoiceLoadAllMatches;
 
 function renderFearnVoice() {
   var box = document.getElementById('fearnVoiceStream');
@@ -51083,10 +51139,18 @@ function renderFearnVoice() {
   var all = fearnVoiceComments();
   var q = FEARN_STATE.voiceQ || '';
   var filterType = FEARN_STATE.voiceType || 'all';
+  var filterYear = FEARN_STATE.voiceYear || 'all';
+  var filterMonth = FEARN_STATE.voiceMonth || 'all';
 
   var rows = all.filter(function (c) {
     if (filterType !== 'all') {
       if (c.type !== filterType && c.source !== filterType) return false;
+    }
+    if (filterYear !== 'all') {
+      if (!c.date || c.date.slice(0, 4) !== filterYear) return false;
+    }
+    if (filterMonth !== 'all') {
+      if (!c.date || c.date.slice(5, 7) !== filterMonth) return false;
     }
     if (q) {
       var hay = ((c.name || '') + ' ' + (c.text || '') + ' ' + (c.type || '') + ' ' + (c.subtype || '') + ' ' + (c.source || '') + ' ' + (c.date || '')).toLowerCase();
@@ -51105,18 +51169,18 @@ function renderFearnVoice() {
     return;
   }
 
-  // Cap to 150 items to keep DOM rendering fast
-  var sliceRows = rows.slice(0, 150);
-  box.innerHTML = sliceRows.map(function (c) {
+  var limit = FEARN_STATE.voiceLimit || 150;
+  var sliceRows = rows.slice(0, limit);
+  var itemsHtml = sliceRows.map(function (c) {
     var srcColor = c.source === 'Gibson' ? '#e3b341' : (c.source === 'Seabrokers' ? '#39c5cf' : '#4d9aff');
     var srcBadge = '<span style="font-size:11px;font-weight:700;font-family:\'IBM Plex Mono\',monospace;padding:2px 6px;border-radius:3px;background:' + srcColor + '18;color:' + srcColor + ';border:1px solid ' + srcColor + '40;">' + escapeHtml(c.source || 'Broker') + '</span>';
 
     var links = [];
     if (c.pdf_url) {
-      links.push('<a href="' + escapeHtml(c.pdf_url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;padding:2px 8px;border-radius:4px;background:rgba(227,179,65,0.12);color:#e3b341;text-decoration:none;border:1px solid rgba(227,179,65,0.3);font-family:\'IBM Plex Mono\',monospace;font-weight:600;">PDF ↗</a>');
+      links.push('<a href="' + escapeHtml(c.pdf_url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;padding:2px 8px;border-radius:4px;background:rgba(227,179,65,0.12);color:#e3b341;text-decoration:none;border:1px solid rgba(227,179,65,0.3);font-family:\'IBM Plex Mono\',monospace;font-weight:600;" data-tooltip="Download original PDF publication report document.">PDF ↗</a>');
     }
     if (c.url && c.url !== c.pdf_url) {
-      links.push('<a href="' + escapeHtml(c.url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;padding:2px 8px;border-radius:4px;background:rgba(77,154,255,0.12);color:#4d9aff;text-decoration:none;border:1px solid rgba(77,154,255,0.3);font-family:\'IBM Plex Mono\',monospace;font-weight:600;">Online ↗</a>');
+      links.push('<a href="' + escapeHtml(c.url) + '" target="_blank" rel="noopener noreferrer" style="font-size:11px;padding:2px 8px;border-radius:4px;background:rgba(77,154,255,0.12);color:#4d9aff;text-decoration:none;border:1px solid rgba(77,154,255,0.3);font-family:\'IBM Plex Mono\',monospace;font-weight:600;" data-tooltip="Open institutional online report page.">Online ↗</a>');
     }
     if (c.markdown_path) {
       links.push('<span style="font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;" data-tooltip="Local markdown digest at ' + escapeHtml(c.markdown_path) + '">Digest ↗</span>');
@@ -51134,7 +51198,27 @@ function renderFearnVoice() {
       '</div>' +
       '<div style="font-size:12px;line-height:1.55;color:var(--text);">' + escapeHtml(c.text || '') + '</div>' +
       '</div>';
-  }).join('') + (rows.length > 150 ? ('<div style="text-align:center;font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;padding:8px;">Showing first 150 of ' + rows.length.toLocaleString('en-US') + ' matches. Refine search query for specific topics.</div>') : '');
+  }).join('');
+
+  var navHtml = '';
+  if (rows.length > sliceRows.length) {
+    navHtml = '<div id="fearnVoicePagination" style="text-align:center;font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;padding:12px 16px;background:var(--card);border:1px solid var(--border);border-radius:6px;display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;">' +
+      '<span id="fearnVoiceShowingText">Showing first ' + sliceRows.length.toLocaleString('en-US') + ' of ' + rows.length.toLocaleString('en-US') + ' matches</span>' +
+      '<span>·</span>' +
+      '<button id="fearnVoiceNextBtn" class="tracking-status-btn" onclick="fearnVoiceLoadNext()" style="padding:4px 12px;cursor:pointer;background:rgba(77,154,255,0.12);border-color:var(--accent);color:#58a6ff;" data-tooltip="Load and display the next 150 matching broker commentaries.">Load next 150</button>' +
+      '<span>·</span>' +
+      '<button id="fearnVoiceAllBtn" class="tracking-status-btn" onclick="fearnVoiceLoadAllMatches()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Render all currently matching broker commentaries without truncation.">Load all ' + rows.length.toLocaleString('en-US') + ' matches</button>' +
+      (!(FEARN_STATE.archive && FEARN_STATE.archive.rows) ? ('<span>·</span><button id="fearnVoiceFullArcBtn" class="tracking-status-btn" onclick="loadFearnArchive()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Lazy-load the full multi-year commentary archive containing 11,709 records.">Load full archive</button>') : '') +
+      '</div>';
+  } else if (!(FEARN_STATE.archive && FEARN_STATE.archive.rows)) {
+    navHtml = '<div id="fearnVoicePagination" style="text-align:center;font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;padding:10px 16px;background:var(--card);border:1px solid var(--border);border-radius:6px;display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;">' +
+      '<span>Showing all ' + rows.length.toLocaleString('en-US') + ' matches in active catalogue</span>' +
+      '<span>·</span>' +
+      '<button id="fearnVoiceFullArcBtn" class="tracking-status-btn" onclick="loadFearnArchive()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Lazy-load the full multi-year commentary archive containing 11,709 records.">Load full archive (11k+ rows)</button>' +
+      '</div>';
+  }
+
+  box.innerHTML = itemsHtml + navHtml;
 }
 
 function fearnVoiceDeskFor(type) {
@@ -51175,6 +51259,7 @@ function loadFearnArchive() {
     FEARN_STATE.archive.rows.sort(function (a, b) { return a.date < b.date ? 1 : -1; });
     FEARN_STATE.archiveLoading = false;
     if (btn) btn.textContent = 'Archive: ' + FEARN_STATE.archive.rows.length.toLocaleString('en-US') + ' rows';
+    initFearnVoiceFilters();
     renderFearnVoice();
   });
 }
