@@ -491,3 +491,30 @@ separately.
 ### Open
 
 No open spec. Next work starts from the owner's next observation.
+
+---
+
+## 2026-09-13 (evening) — tooltips, win-rate, Indices history, basin span, route cards
+
+- `50ed77d93`: win-rate matrix rows had `.rt-row` (flex) → misaligned; 20Y → 15Y. Tooltips: `<`/`>` text no
+  longer parsed as HTML (rich tooltips keep markup), Trend Lifecycle names the selected product, tooltip
+  opens below its target. Indices cards load deep history.
+- `ece0f3dc6`: tab clicked before boot data landed never re-rendered (`catchUpActiveTabRender`); basin
+  tenor switch kept the previous tenor's slider window.
+- Route cards on Indices (this commit): `data/views/routes/*.json` built by `build_views.py`
+  `build_route_views()`; lazy-loaded; filters Dry Routes / Tanker Routes; order BDI → vessel classes → dry
+  routes → tanker indices → tanker routes → equities → futures/ETFs. A route with no print for 30 days is
+  hidden at render time.
+
+### Source truth for routes (executed 2026-09-13)
+- Fearnpulse TS and Hasura: local copies hold the **full** API history for every series (row-for-row).
+- Fearnleys did continue tanker routes after 2023-05 — on Hasura, under Fearnleys route names, daily WS
+  from **2018-05-18** (source start). tsIds 1-9 are dead since 2023-05-22.
+- The repo's code labels on tsIds 1 ("TD3C", 46% off) and 4 ("TD20", 37% off) are wrong. Not used.
+- Codes attached by value evidence vs Gibson's coded prints: TD3C = VLCC MEG/FEAST (1.7%), TD20 = Suezmax
+  WAFR/UKC (2.2%), TD25 = Aframax USG/UKCM (1.3%). Other tanker cards carry no Baltic code.
+- A print of 0 = not assessed. Primorsk/UKC is 0 since 2022-12-16 → excluded.
+- Dry route source is `data/derived/fearnleys_dry_routes_daily.json` (refreshed Mon-Thu). The
+  `data/clarksons/fearnleys_benchmark_rates_continuous.csv` wide file is NOT refreshed by any job.
+- Gibson feed (TC1/TC5) last print 2026-09-03; `broker_reports_weekly.yml` runs it with `|| true` and the
+  CSV has not been committed since 2026-09-10. If it stops, TC1/TC5 auto-hide after 30 days.

@@ -300,6 +300,149 @@ def build_indices_and_dashboard_master(prov_map):
     }
     write_view_manifest("data/views/dashboard_master.json", master_payload, "Dashboard Master (5Y)")
 
+# ---------------------------------------------------------------------------
+# Route cards for the Indices tab (Dry Routes / Tanker Routes)
+# ---------------------------------------------------------------------------
+# Every series below was checked against its source on 2026-09-13:
+#   * Fearnpulse TS endpoint (dry routes): the local copy holds the full
+#     series the endpoint returns with no `last` limit, row for row.
+#   * Fearnleys Hasura catalog (tanker routes): local fearnpulse_rates_full.csv
+#     matches the API's count and first date for all 356 non-empty series. The
+#     per-route tanker assessments start 2018-05-18 at the source.
+# Baltic codes are attached to a tanker series only where its values track the
+# Gibson series published under that code (median relative gap, shared days):
+#   TD3C  VLCC MEG/FEAST      1.7%  (965)
+#   TD20  Suezmax WAFR/UKC    2.2%  (837)
+#   TD25  Aframax USG/UKCM    1.3%  (960)
+# A print of 0 means the route was not assessed that day (Fearnleys quotes
+# Primorsk/UKC as 0 from 2022-12-16 on, after the Russian crude embargo), so
+# non-positive values are dropped rather than plotted as a rate. Primorsk/UKC
+# itself is left out: it has not had a real print since 2022-12-15.
+# Fearnleys tsIds 1-9 are NOT used: they stopped on 2023-05-22, and the codes the
+# repo attached to them fail that check (tsId 4 "TD20" sits 37% away from TD20,
+# tsId 1 "TD3C" 46% away from MEG/FEAST).
+# Dry routes come from the daily-refreshed Fearnpulse bundle (data_expansion.yml runs
+# fetch_dry_routes_ts.py --refresh), matched on tsId.
+ROUTE_DRY_JSON = "data/derived/fearnleys_dry_routes_daily.json"
+ROUTE_TANKER_JSON = "data/derived/fearnleys_tanker_routes_daily.json"
+FEARNPULSE_SRC = "Fearnleys route assessments"
+FEARNLEYS_TANK_SRC = "Fearnleys daily tanker assessments"
+GIBSON_SRC = "E.A. Gibson daily tanker rates"
+
+ROUTE_CARDS = [
+    # group, card id, Baltic code, title, vessel class, unit, precision, source kind, source key
+    ("dry", "C3", "C3", "Tubarao to Qingdao", "Capesize", "usd/tonne", 2, "dry", 10001),
+    ("dry", "C5", "C5", "West Australia to Qingdao", "Capesize", "usd/tonne", 2, "dry", 10002),
+    ("dry", "C9_182", "C9_182", "Continent/Mediterranean trip China-Japan", "Capesize", "usd/day", 0, "dry", 120655),
+    ("dry", "C10_182", "C10_182", "China-Japan transpacific round voyage", "Capesize", "usd/day", 0, "dry", 120654),
+    ("dry", "P1A_82", "P1A_82", "Skaw-Gib transatlantic round voyage", "Panamax", "usd/day", 0, "dry", 10010),
+    ("dry", "P2A_82", "P2A_82", "Skaw-Gib trip HK-S Korea incl Taiwan", "Panamax", "usd/day", 0, "dry", 10011),
+    ("dry", "P3A_82", "P3A_82", "Hong Kong-South Korea transpacific round voyage", "Panamax", "usd/day", 0, "dry", 10012),
+    ("dry", "P4_82", "P4_82", "Hong Kong-South Korea trip to Skaw-Passero", "Panamax", "usd/day", 0, "dry", 10013),
+    ("dry", "S1C", "S1C", "US Gulf trip to China-south Japan", "Supramax", "usd/day", 0, "dry", 120129),
+    ("dry", "S4A", "S4A", "US Gulf trip to Skaw-Passero", "Supramax", "usd/day", 0, "dry", 120132),
+    ("dry", "S4B", "S4B", "Skaw-Passero trip to US Gulf", "Supramax", "usd/day", 0, "dry", 120133),
+    ("dry", "S10", "S10", "South China trip via Indonesia to south China", "Supramax", "usd/day", 0, "dry", 120137),
+    ("tanker", "TD3C", "TD3C", "Middle East Gulf to China", "VLCC", "worldscale", 1, "fearn", "TANK_VLCC_MEG_FEAST"),
+    ("tanker", "VLCC_WAFR_FEAST", None, "West Africa to Far East", "VLCC", "worldscale", 1, "fearn", "TANK_VLCC_WAFR_FEAST"),
+    ("tanker", "VLCC_MEG_USG", None, "Middle East Gulf to US Gulf", "VLCC", "worldscale", 1, "fearn", "TANK_VLCC_MEG_USG"),
+    ("tanker", "TD20", "TD20", "West Africa to UK-Continent", "Suezmax", "worldscale", 1, "fearn", "TANK_SUEZMAX_WAFR_UKC"),
+    ("tanker", "SUEZ_BLSEA_MED", None, "Black Sea to Mediterranean", "Suezmax", "worldscale", 1, "fearn", "TANK_SUEZMAX_BLSEA_MED"),
+    ("tanker", "TD25", "TD25", "US Gulf to A-R-A", "Aframax", "worldscale", 1, "fearn", "TANK_AFRAMAX_USG_UKCM"),
+    ("tanker", "AFRA_CEYHAN_MED", None, "Ceyhan to Mediterranean", "Aframax", "worldscale", 1, "fearn", "TANK_AFRAMAX_CEYHAN_MED"),
+    ("tanker", "AFRA_CBS_USG", None, "Caribbean to US Gulf", "Aframax", "worldscale", 1, "fearn", "TANK_AFRAMAX_CBS_USG"),
+    ("tanker", "TC1", "TC1", "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)", "LR2 clean (75kt)", "worldscale", 1, "gibson", "GIBSON_TC1"),
+    ("tanker", "TC5", "TC5", "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)", "LR1 clean (55kt)", "worldscale", 1, "gibson", "GIBSON_TC5"),
+]
+
+ROUTE_NOTES = {
+    "TD3C": ("Fearnleys' VLCC MEG/Far East assessment. Tracks the Gibson TD3C print within 1.7% "
+             "(median, 965 shared days). The Baltic redefined TD3C from MEG-Japan to MEG-China in 2019-20."),
+    "TD20": "Fearnleys' Suezmax WAFR/UKC assessment. Tracks the Gibson TD20 print within 2.2% (median, 837 shared days).",
+    "TD25": "Fearnleys' Aframax USG/UKC-Med assessment (Gibson quotes TD25 as USG/UKC 70kt). Tracks the Gibson TD25 print within 1.3% (median, 960 shared days).",
+}
+
+
+def _route_points_dry(dry_series, tsid):
+    s = next((v for v in dry_series.values() if v.get("tsid") == tsid), None)
+    if not s:
+        raise ValueError(f"route tsId {tsid} missing from {ROUTE_DRY_JSON}")
+    return _route_pts_to_dates(s["pts"])
+
+
+def _route_pts_to_dates(pts):
+    out = []
+    for ms, v in pts:
+        if v is None or v <= 0:
+            continue
+        out.append((datetime.fromtimestamp(ms / 1000, tz=timezone.utc).strftime("%Y-%m-%d"), float(v)))
+    return out
+
+
+def _route_points_tanker(series_all, key):
+    s = series_all.get(key)
+    if not s:
+        raise ValueError(f"route series {key} missing from {ROUTE_TANKER_JSON}")
+    if s.get("derived"):
+        raise ValueError(f"route series {key} is derived; route cards show source assessments only")
+    return _route_pts_to_dates(s["pts"])
+
+
+def build_route_views():
+    """Per-route views for the Indices tab plus a small catalog the page reads first."""
+    print("\n--- Building Tier 1: Indices Route Cards ---")
+    with open(ROUTE_DRY_JSON, "r", encoding="utf-8") as f:
+        dry_series = json.load(f).get("series", {})
+    tanker_series = {}
+    if os.path.exists(ROUTE_TANKER_JSON):
+        with open(ROUTE_TANKER_JSON, "r", encoding="utf-8") as f:
+            tanker_series = json.load(f).get("series", {})
+
+    catalog = []
+    for group, cid, code, title, vclass, unit, precision, kind, key in ROUTE_CARDS:
+        if kind == "dry":
+            pts = _route_points_dry(dry_series, key)
+            source = FEARNPULSE_SRC
+        else:
+            pts = _route_points_tanker(tanker_series, key)
+            source = FEARNLEYS_TANK_SRC if kind == "fearn" else GIBSON_SRC
+        # dedupe keep-last, chronological
+        dedup = {}
+        for d, v in pts:
+            dedup[d] = round(v, 2)
+        dates = sorted(dedup)
+        if not dates:
+            raise ValueError(f"route card {cid} has no points")
+        header = {
+            "series_id": f"route_{cid}",
+            "card_id": cid,
+            "code": code,
+            "title": title,
+            "vessel_class": vclass,
+            "group": group,
+            "unit": unit,
+            "precision": precision,
+            "source": source,
+            "source_key": key,
+            "note": ROUTE_NOTES.get(cid),
+            "first": dates[0],
+            "last": dates[-1],
+            "row_count": len(dates),
+            "status": "LIVE",
+        }
+        write_view_manifest(f"data/views/routes/{cid}.json",
+                            {"header": header, "dates": dates, "values": [dedup[d] for d in dates]},
+                            f"Route {cid}")
+        catalog.append({k: header[k] for k in ("card_id", "code", "title", "vessel_class", "group",
+                                               "unit", "precision", "source", "note", "first",
+                                               "last", "row_count")})
+    write_view_manifest("data/views/routes/catalog.json",
+                        {"header": {"series_id": "route_catalog", "source": "Fearnleys / E.A. Gibson",
+                                    "row_count": len(catalog), "status": "LIVE"},
+                         "routes": catalog},
+                        "Route catalog")
+
+
 def build_port_calls_summary(prov_map):
     """Pre-aggregate port_calls_daily_expanded.csv (53.65 MB) into a compact <= 250 KB summary view."""
     print("\n--- Building Tier 1: Port Calls Summary View ---")
@@ -598,7 +741,8 @@ def main():
     
     # 3. Build dashboard master and indices
     build_indices_and_dashboard_master(prov_map)
-    
+    build_route_views()
+
     # 4. Build port calls summary
     build_port_calls_summary(prov_map)
 

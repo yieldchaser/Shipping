@@ -1329,3 +1329,114 @@ def test_basin_spread_1y_tenor_shows_full_span(web_server):
             assert note and "2015" in note, f"data-start note should reflect the 1y tenor's real start date: {note!r}"
         finally:
             browser.close()
+
+
+# ---------------------------------------------------------------------------
+# Indices tab: dry and tanker route cards
+# ---------------------------------------------------------------------------
+INDICES_PRODUCT_ORDER_HEAD = ["bdiy", "cape", "panama", "suprama", "handysize"]
+INDICES_TANKER_INDICES = ["dirtytanker", "cleantanker"]
+INDICES_EQUITIES = ["clmi", "cldbi", "clti", "clci", "cllg", "clmfi", "clmlp"]
+
+
+def _open_indices_and_wait_for_routes(page, web_server):
+    _boot(page, web_server)
+    page.evaluate("""() => { const b = document.querySelector('button[data-tab="indices"]'); if (b) b.click(); }""")
+    page.wait_for_function(
+        "() => document.querySelectorAll('#indicesGrid .index-chart-card[id^=\"idxCard_rt_\"]').length > 0",
+        timeout=30000,
+    )
+    page.wait_for_timeout(1500)
+
+
+def _card_state(page):
+    return page.evaluate("""() => [...document.querySelectorAll('#indicesGrid .index-chart-card')].map(c => {
+        const k = c.id.replace('idxCard_', '');
+        const cv = document.getElementById('idxChart_' + k);
+        const ch = cv && typeof Chart !== 'undefined' ? Chart.getChart(cv) : null;
+        const vals = ch ? ch.data.datasets[0].data : [];
+        return { key: k, title: c.querySelector('.card-header-bar span').textContent,
+                 n: vals.length, finite: vals.filter(v => Number.isFinite(v)).length };
+    })""")
+
+
+def test_indices_route_cards_live_ordered_and_full_depth(web_server):
+    """Every live route in data/views/routes/catalog.json gets a card with data, in the
+    agreed order (BDI, vessel classes, dry routes, tanker indices, tanker routes,
+    equities, futures/ETFs); filter counts match the cards; each route slider reaches
+    the first print of its source."""
+    catalog = json.loads((Path(__file__).resolve().parent.parent / "data" / "views" / "routes" / "catalog.json")
+                         .read_text(encoding="utf-8"))["routes"]
+    dry = ["rt_" + e["card_id"] for e in catalog if e["group"] == "dry"]
+    tanker = ["rt_" + e["card_id"] for e in catalog if e["group"] == "tanker"]
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        errors = []
+        page.on("pageerror", lambda e: errors.append(str(e)))
+        try:
+            _open_indices_and_wait_for_routes(page, web_server)
+            cards = _card_state(page)
+            keys = [c["key"] for c in cards]
+            expected_prefix = INDICES_PRODUCT_ORDER_HEAD + dry + INDICES_TANKER_INDICES + tanker + INDICES_EQUITIES
+            assert keys[:len(expected_prefix)] == expected_prefix, f"Indices card order wrong: {keys}"
+            for c in cards:
+                assert c["n"] > 0 and c["finite"] == c["n"], f"card {c['key']} has no/invalid chart data: {c}"
+
+            by_id = {"rt_" + e["card_id"]: e for e in catalog}
+            for k in dry + tanker:
+                e = by_id[k]
+                if e["code"]:
+                    title = next(c["title"] for c in cards if c["key"] == k)
+                    assert title == f"{e['code']} · {e['title']}", f"{k} header {title!r}"
+                first = page.evaluate(
+                    """(k) => { const s = document.getElementById('rangeStart_' + k);
+                                s.value = 0; s.dispatchEvent(new Event('input'));
+                                const ch = Chart.getChart(document.getElementById('idxChart_' + k));
+                                return ch.data.labels[0]; }""", k)
+                assert first == e["first"], f"{k}: slider start shows {first}, source starts {e['first']}"
+
+            for filt, want in (("dryroutes", dry), ("tankerroutes", tanker)):
+                page.evaluate(f"() => setIndicesFilter('{filt}')")
+                page.wait_for_timeout(1200)
+                got = [c["key"] for c in _card_state(page)]
+                assert got == want, f"{filt} filter shows {got}, expected {want}"
+                label = page.evaluate(f"() => document.getElementById('idxFilter{filt.capitalize()}').textContent")
+                assert label.endswith(f"({len(want)})"), f"{filt} button count {label!r} != {len(want)}"
+            page.evaluate("() => setIndicesFilter('all')")
+            page.wait_for_timeout(1500)
+            n_all = len(_card_state(page))
+            label_all = page.evaluate("() => document.getElementById('idxFilterAll').textContent")
+            assert label_all.endswith(f"({n_all})"), f"All button {label_all!r} but {n_all} cards shown"
+            assert not errors, f"page errors on Indices tab: {errors}"
+        finally:
+            browser.close()
+
+
+def test_indices_hides_discontinued_route(web_server):
+    """A route whose last print is older than 30 days must not get a card, even if the
+    catalog lists it (feeds stop without anyone rebuilding the catalog)."""
+    root = Path(__file__).resolve().parent.parent
+    catalog = json.loads((root / "data" / "views" / "routes" / "catalog.json").read_text(encoding="utf-8"))
+    stale = dict(catalog["routes"][0])
+    stale["card_id"] = "STALE_PROBE"
+    stale["code"] = None
+    stale["title"] = "Discontinued probe"
+    stale["last"] = "2023-05-22"
+    catalog["routes"].append(stale)
+    view = json.loads((root / "data" / "views" / "routes" / f"{catalog['routes'][0]['card_id']}.json").read_text(encoding="utf-8"))
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        page.route("**/data/views/routes/catalog.json",
+                   lambda r: r.fulfill(status=200, content_type="application/json", body=json.dumps(catalog)))
+        page.route("**/data/views/routes/STALE_PROBE.json",
+                   lambda r: r.fulfill(status=200, content_type="application/json", body=json.dumps(view)))
+        try:
+            _open_indices_and_wait_for_routes(page, web_server)
+            keys = [c["key"] for c in _card_state(page)]
+            assert "rt_" + catalog["routes"][0]["card_id"] in keys, "live route card missing"
+            assert "rt_STALE_PROBE" not in keys, "a route with no print for >30 days is still shown"
+        finally:
+            browser.close()

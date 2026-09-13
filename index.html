@@ -11536,8 +11536,10 @@
     <div class="tab-panel" id="tab-indices">
       <div class="indices-filter-bar" style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;padding-bottom:12px;border-bottom:1px solid rgba(255,255,255,0.06);flex-wrap:wrap;gap:12px;">
         <div style="display:flex;gap:6px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);flex-wrap:wrap;">
-          <button class="toggle-btn active" id="idxFilterAll" data-tooltip="Show all 19 benchmark cards: Baltic freight, Capital Link equities, and futures/ETFs." onclick="setIndicesFilter('all')">All Benchmarks (19)</button>
-          <button class="toggle-btn" id="idxFilterFreight" data-tooltip="Show only the Baltic Exchange freight benchmark cards (BDI and route indices)." onclick="setIndicesFilter('freight')">Baltic Freight (7)</button>
+          <button class="toggle-btn active" id="idxFilterAll" data-tooltip="Show every benchmark card: Baltic freight indices, dry and tanker route assessments, Capital Link equities, and futures/ETFs." onclick="setIndicesFilter('all')">All Benchmarks (19)</button>
+          <button class="toggle-btn" id="idxFilterFreight" data-tooltip="Show only the Baltic Exchange freight benchmark cards (BDI and vessel-class indices)." onclick="setIndicesFilter('freight')">Baltic Freight (7)</button>
+          <button class="toggle-btn" id="idxFilterDryroutes" data-tooltip="Show individual dry bulk route assessments (Capesize, Panamax, Supramax) from Fearnleys. Routes that have stopped printing are not shown." onclick="setIndicesFilter('dryroutes')">Dry Routes (0)</button>
+          <button class="toggle-btn" id="idxFilterTankerroutes" data-tooltip="Show individual tanker route assessments (VLCC, Suezmax, Aframax, clean LR) in Worldscale points from Fearnleys and E.A. Gibson. Routes that have stopped printing are not shown." onclick="setIndicesFilter('tankerroutes')">Tanker Routes (0)</button>
           <button class="toggle-btn" id="idxFilterEquities" data-tooltip="Show listed maritime equity index cards (dry bulk, tanker, gas, container)." onclick="setIndicesFilter('equities')">Maritime Equities (7)</button>
           <button class="toggle-btn" id="idxFilterDerivatives" data-tooltip="Show only the futures and ETF benchmark cards (BDRY, BWET and spot composites)." onclick="setIndicesFilter('derivatives')">Futures &amp; ETFs (5)</button>
         </div>
@@ -20500,9 +20502,10 @@ function buildMaster() {
     // INDICES TAB (CHANGE 7)
     // =====================================================================
     window.currentIndicesFilter = 'all';
+    const INDICES_FILTERS = ['all', 'freight', 'dryroutes', 'tankerroutes', 'equities', 'derivatives'];
     function setIndicesFilter(filter) {
       window.currentIndicesFilter = filter;
-      ['all', 'freight', 'equities', 'derivatives'].forEach(f => {
+      INDICES_FILTERS.forEach(f => {
         const btn = document.getElementById('idxFilter' + f.charAt(0).toUpperCase() + f.slice(1));
         if (btn) btn.classList.toggle('active', f === filter);
       });
@@ -20510,14 +20513,113 @@ function buildMaster() {
     }
     window.setIndicesFilter = setIndicesFilter;
 
+    const BALTIC_FREIGHT_KEYS = ['bdiy', 'cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
+    const DERIVATIVE_KEYS = ['bdryff', 'bwetff', 'bdry_spot', 'bdry', 'bwet'];
+
+    // Card order on the Indices tab: composite BDI, vessel-class indices by size,
+    // dry routes by class, tanker indices, tanker routes, equities, futures/ETFs.
+    // Route cards are placeholders here; their series come from
+    // data/views/routes/ (built by scripts/build_views.py) and load on first open.
     const INDICES_ORDER = [
-      // Baltic Freight Spot & Period Benchmarks
-      'bdiy', 'cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker',
-      // Capital Link Shipping Equities
+      'bdiy', 'cape', 'panama', 'suprama', 'handysize',
+      '@dry',
+      'dirtytanker', 'cleantanker',
+      '@tanker',
       'clmi', 'cldbi', 'clti', 'clci', 'cllg', 'clmfi', 'clmlp',
-      // Freight Futures & ETFs
       'bdryff', 'bwetff', 'bdry_spot', 'bdry', 'bwet'
     ];
+
+    // A route that has not printed for this long is treated as discontinued and
+    // is not shown. Measured against today, so it applies without a rebuild.
+    const ROUTE_STALE_DAYS = 30;
+    const ROUTE_CLASS_COLORS = {
+      'Capesize': '#58a6ff', 'Panamax': '#79c0ff', 'Supramax': '#3fb950',
+      'VLCC': '#f0883e', 'Suezmax': '#e3b341', 'Aframax': '#db6d28',
+      'LR2 clean (75kt)': '#56d4dd', 'LR1 clean (55kt)': '#39c5cf'
+    };
+    const ROUTE_UNIT_LABEL = { 'usd/day': '$/day', 'usd/tonne': '$/tonne', 'worldscale': 'WS points' };
+    const ROUTE_META = {};   // 'rt_<card_id>' -> catalog entry + display fields
+    const ROUTE_ROWS = {};   // 'rt_<card_id>' -> [{date, dateStr, value}]
+    let _routeLoadPromise = null;
+    let _routeKeysByGroup = { dry: [], tanker: [] };
+    let _routeCatalogLive = [];
+    let _routeLoadDone = false;
+
+    function _parseIsoLocal(s) {
+      const p = s.split('-');
+      return new Date(+p[0], +p[1] - 1, +p[2]);
+    }
+
+    function ensureRouteCards() {
+      if (_routeLoadPromise) return _routeLoadPromise;
+      _routeLoadPromise = fetch('data/views/routes/catalog.json')
+        .then(r => { if (!r.ok) throw new Error('route catalog HTTP ' + r.status); return r.json(); })
+        .then(cat => {
+          const today = new Date();
+          const live = _routeCatalogLive = (cat.routes || []).filter(rt => {
+            const ageDays = (today - _parseIsoLocal(rt.last)) / 86400000;
+            return ageDays <= ROUTE_STALE_DAYS;
+          });
+          return Promise.all(live.map(rt =>
+            fetch('data/views/routes/' + rt.card_id + '.json')
+              .then(r => { if (!r.ok) throw new Error('route ' + rt.card_id + ' HTTP ' + r.status); return r.json(); })
+              .then(v => {
+                const key = 'rt_' + rt.card_id;
+                const rows = [];
+                for (let i = 0; i < v.dates.length; i++) {
+                  const val = v.values[i];
+                  if (val == null || isNaN(val)) continue;
+                  rows.push({ date: _parseIsoLocal(v.dates[i]), dateStr: v.dates[i], value: val });
+                }
+                if (!rows.length) return;
+                ROUTE_ROWS[key] = rows;
+                ROUTE_META[key] = Object.assign({}, rt, {
+                  label: rt.code ? rt.code + ' · ' + rt.title : rt.vessel_class + ' · ' + rt.title,
+                  color: ROUTE_CLASS_COLORS[rt.vessel_class] || '#8b949e'
+                });
+                _routeKeysByGroup[rt.group].push(key);
+              })
+              .catch(err => console.warn('[Indices] route card skipped:', err.message))
+          ));
+        })
+        .then(() => {
+          // Keep catalog order (by vessel class) regardless of fetch completion order.
+          const order = _routeCatalogLive.map(rt => 'rt_' + rt.card_id).filter(k => ROUTE_META[k]);
+          ['dry', 'tanker'].forEach(g => {
+            _routeKeysByGroup[g] = order.filter(k => ROUTE_META[k].group === g);
+          });
+          _routeLoadDone = true;
+          updateIndicesFilterCounts();
+          return true;
+        })
+        .catch(err => {
+          console.warn('[Indices] route catalog unavailable:', err.message);
+          _routeLoadPromise = null;
+          return false;
+        });
+      return _routeLoadPromise;
+    }
+
+    function updateIndicesFilterCounts() {
+      const have = k => DATA.raw[k] && DATA.raw[k].length;
+      const counts = {
+        freight: BALTIC_FREIGHT_KEYS.filter(have).length,
+        dryroutes: _routeKeysByGroup.dry.length,
+        tankerroutes: _routeKeysByGroup.tanker.length,
+        equities: INDICES_ORDER.filter(k => PRODUCTS[k] && PRODUCTS[k].capital_link && have(k)).length,
+        derivatives: DERIVATIVE_KEYS.filter(have).length
+      };
+      counts.all = counts.freight + counts.dryroutes + counts.tankerroutes + counts.equities + counts.derivatives;
+      Object.keys(counts).forEach(f => {
+        const btn = document.getElementById('idxFilter' + f.charAt(0).toUpperCase() + f.slice(1));
+        if (btn) btn.textContent = btn.textContent.replace(/\(\d+\)\s*$/, '(' + counts[f] + ')');
+      });
+    }
+
+    // Cards read metadata and rows through these, so product and route cards
+    // share one renderer, slider and chart builder.
+    function idxMeta(key) { return ROUTE_META[key] || PRODUCTS[key]; }
+    function idxRows(key) { return ROUTE_ROWS[key] || DATA.raw[key]; }
 
     function renderIndicesTab() {
       const grid = document.getElementById('indicesGrid');
@@ -20525,19 +20627,48 @@ function buildMaster() {
       grid.innerHTML = '';
 
       const filter = window.currentIndicesFilter || 'all';
-      let activeKeys = INDICES_ORDER.filter(key => PRODUCTS[key]);
+      const routesReady = !!(_routeLoadPromise && Object.keys(ROUTE_META).length);
+      let activeKeys = [];
+      INDICES_ORDER.forEach(k => {
+        if (k === '@dry' || k === '@tanker') {
+          if (routesReady) activeKeys = activeKeys.concat(_routeKeysByGroup[k.slice(1)]);
+        } else if (PRODUCTS[k]) {
+          activeKeys.push(k);
+        }
+      });
       if (filter === 'freight') {
-        activeKeys = activeKeys.filter(k => ['bdiy', 'cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'].includes(k));
+        activeKeys = activeKeys.filter(k => BALTIC_FREIGHT_KEYS.includes(k));
+      } else if (filter === 'dryroutes') {
+        activeKeys = activeKeys.filter(k => ROUTE_META[k] && ROUTE_META[k].group === 'dry');
+      } else if (filter === 'tankerroutes') {
+        activeKeys = activeKeys.filter(k => ROUTE_META[k] && ROUTE_META[k].group === 'tanker');
       } else if (filter === 'equities') {
         activeKeys = activeKeys.filter(k => PRODUCTS[k] && PRODUCTS[k].capital_link);
       } else if (filter === 'derivatives') {
-        activeKeys = activeKeys.filter(k => ['bdryff', 'bwetff', 'bdry_spot', 'bdry', 'bwet'].includes(k));
+        activeKeys = activeKeys.filter(k => DERIVATIVE_KEYS.includes(k));
+      }
+
+      if (!routesReady) {
+        if (filter === 'dryroutes' || filter === 'tankerroutes') {
+          const msg = _routeLoadDone ? 'Route assessments are unavailable right now.' : 'Loading route assessments…';
+          grid.innerHTML = '<div class="index-routes-loading" style="color:var(--text-muted);padding:24px;">' + msg + '</div>';
+        }
+        ensureRouteCards().then(ok => {
+          const panel = document.getElementById('tab-indices');
+          if (ok && panel && panel.classList.contains('active') && Object.keys(ROUTE_META).length) renderIndicesTab();
+        });
+      }
+
+      updateIndicesFilterCounts();
+      if (routesReady && !activeKeys.length && (filter === 'dryroutes' || filter === 'tankerroutes')) {
+        grid.innerHTML = '<div class="index-routes-loading" style="color:var(--text-muted);padding:24px;">No live route assessments in this group.</div>';
       }
 
       activeKeys.forEach(key => {
-        const prod = PRODUCTS[key];
+        const isRoute = !!ROUTE_META[key];
+        const prod = idxMeta(key);
         // Skip products with no data rows
-        const rows = DATA.raw[key];
+        const rows = idxRows(key);
         if (!rows || !rows.length) return;
 
         const latest = rows[rows.length - 1];
@@ -20589,13 +20720,17 @@ function buildMaster() {
         card.id = cardId;
 
         // Compute total rows and default 5Y range
-        const totalRows = DATA.raw[key].length;
+        const totalRows = rows.length;
         const cutoff5y = new Date(); cutoff5y.setFullYear(cutoff5y.getFullYear() - 5);
-        const defaultStartIdx = DATA.raw[key].findIndex(r => r.date >= cutoff5y);
+        const defaultStartIdx = rows.findIndex(r => r.date >= cutoff5y);
         const startIdx5y = defaultStartIdx < 0 ? 0 : defaultStartIdx;
 
         let badgeHtml = '';
-        if (prod.capital_link) {
+        if (isRoute) {
+          const grp = prod.group === 'dry' ? 'DRY ROUTE' : 'TANKER ROUTE';
+          const bc = prod.group === 'dry' ? '63,185,80' : '240,136,62';
+          badgeHtml = `<span style="background:rgba(${bc},0.15);color:rgb(${bc});border:1px solid rgba(${bc},0.3);font-size:var(--fs-micro);font-weight:700;padding:2px 7px;border-radius:10px;margin-left:8px;vertical-align:middle;">${grp}</span>`;
+        } else if (prod.capital_link) {
           badgeHtml = `<span style="background:rgba(56,139,253,0.15);color:#58a6ff;border:1px solid rgba(56,139,253,0.3);font-size:var(--fs-micro);font-weight:700;padding:2px 7px;border-radius:10px;margin-left:8px;vertical-align:middle;">EQUITY BENCHMARK</span>`;
         } else if (prod.solactive || prod.computed) {
           badgeHtml = `<span style="background:rgba(227,179,65,0.15);color:#f2cc60;border:1px solid rgba(227,179,65,0.3);font-size:var(--fs-micro);font-weight:700;padding:2px 7px;border-radius:10px;margin-left:8px;vertical-align:middle;">DERIVATIVE / ETF</span>`;
@@ -20603,18 +20738,27 @@ function buildMaster() {
           badgeHtml = `<span style="background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);font-size:var(--fs-micro);font-weight:700;padding:2px 7px;border-radius:10px;margin-left:8px;vertical-align:middle;">BALTIC FREIGHT</span>`;
         }
 
-        const tooltipText = prod.tt || `${prod.label} - Displays full price history, rolling analytics, and 52-week parameters.`;
+        const escAttr = t => String(t).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        const escHtml = t => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        const unitLabel = isRoute ? (ROUTE_UNIT_LABEL[prod.unit] || prod.unit) : '';
+        const tooltipText = isRoute
+          ? `${prod.vessel_class} · ${prod.title}. Unit: ${unitLabel}. Source: ${prod.source}. History ${prod.first} to ${prod.last} (${prod.row_count.toLocaleString('en-US')} prints).` + (prod.note ? ' ' + prod.note : '')
+          : (prod.tt || `${prod.label} - Displays full price history, rolling analytics, and 52-week parameters.`);
+        const routeMetaHtml = isRoute
+          ? `<div class="index-route-meta" style="font-size:11px;color:var(--text-muted);margin-top:2px;">${escHtml(prod.vessel_class)} · ${escHtml(unitLabel)} · ${escHtml(prod.source)} · since ${escHtml(prod.first.slice(0, 7))}</div>`
+          : '';
 
         card.innerHTML = `
-      <div class="card-header-bar" data-tooltip="${tooltipText}" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">
-        <span>${prod.label}</span>
+      <div class="card-header-bar" data-tooltip="${escAttr(tooltipText)}" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">
+        <span>${isRoute ? escHtml(prod.label) : prod.label}</span>
         ${badgeHtml}
       </div>
       <div class="index-chart-header">
         <div class="index-chart-subtitle">
-          <span>${fmt(latest.value, precision)}</span>
+          <span>${fmt(latest.value, precision)}${unitLabel ? ' <span style="font-size:11px;color:var(--text-muted);">' + escHtml(unitLabel) + '</span>' : ''}</span>
           <span class="${chgCls}">${chgStr}</span>
         </div>
+        ${routeMetaHtml}
       </div>
       <div class="index-chart-canvas-wrap">
         <canvas id="${canvasId}"></canvas>
@@ -20667,7 +20811,7 @@ function buildMaster() {
         // (bdry_spot/bdry/bwet - ETF share prices with no raw historical
         // file, PRODUCTS[key].file is null) have no matching deep view on
         // disk; skip them rather than firing a fetch guaranteed to 404.
-        if (!prod.computed) {
+        if (!isRoute && !prod.computed) {
           ensureDeepHistory(key).then(function (extended) {
             if (extended) refreshIndexCardDeepHistory(key);
           });
@@ -20729,7 +20873,7 @@ function buildMaster() {
         fillEl.style.left = pctStart + '%';
         fillEl.style.width = (pctEnd - pctStart) + '%';
         // Update label
-        const rows = DATA.raw[key];
+        const rows = idxRows(key);
         const startDate = rows[s] ? fmtDate(rows[s].date).slice(0, 7) : '';
         const endDate = rows[e] ? fmtDate(rows[e].date).slice(0, 7) : '';
         labelEl.textContent = startDate + ' → ' + endDate;
@@ -20744,9 +20888,9 @@ function buildMaster() {
     }
 
     function buildIndexChartByRange(key, startIdx, endIdx) {
-      const prod = PRODUCTS[key];
-      const allRows = DATA.raw[key];
-      if (!allRows || !allRows.length) return;
+      const prod = idxMeta(key);
+      const allRows = idxRows(key);
+      if (!prod || !allRows || !allRows.length) return;
 
       const rows = allRows.slice(startIdx, endIdx + 1);
       const labels = rows.map(r => fmtDate(r.date));

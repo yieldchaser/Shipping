@@ -580,3 +580,63 @@ def test_signal_base_rate_bands_partition():
         assert buckets[legacy]["n"] == buckets[band]["n"], (
             f"legacy key {legacy} must alias {band}; got n={buckets[legacy]['n']} vs {buckets[band]['n']}"
         )
+
+
+ROUTES_VIEW_DIR = VIEWS_DIR / "routes"
+
+
+def _route_source_points(entry):
+    """Re-derives a route card's (date, value) points straight from its source file."""
+    hdr = json.loads((ROUTES_VIEW_DIR / f"{entry['card_id']}.json").read_text(encoding="utf-8"))["header"]
+    key = hdr["source_key"]
+    if hdr["group"] == "dry":
+        series = json.loads((DATA_DIR / "derived" / "fearnleys_dry_routes_daily.json").read_text(encoding="utf-8"))["series"]
+        src = next(v for v in series.values() if v.get("tsid") == key)
+    else:
+        series = json.loads((DATA_DIR / "derived" / "fearnleys_tanker_routes_daily.json").read_text(encoding="utf-8"))["series"]
+        src = series[key]
+        assert not src.get("derived"), f"{entry['card_id']} is built from a derived series"
+    pts = {}
+    for ms, v in src["pts"]:
+        if v is None or v <= 0:
+            continue
+        pts[datetime.datetime.fromtimestamp(ms / 1000, datetime.timezone.utc).strftime("%Y-%m-%d")] = round(float(v), 2)
+    return pts
+
+
+def test_route_cards_match_taxonomy_and_sources():
+    """Indices route cards: every Baltic code and title matches the taxonomy verbatim,
+    units agree with it, and each view carries exactly its source's positive prints."""
+    tax = json.loads(BALTIC_TAXONOMY_PATH.read_text(encoding="utf-8"))["routes"]
+    catalog = json.loads((ROUTES_VIEW_DIR / "catalog.json").read_text(encoding="utf-8"))["routes"]
+    assert catalog, "route catalog is empty"
+    groups = {e["group"] for e in catalog}
+    assert groups == {"dry", "tanker"}, groups
+
+    for e in catalog:
+        cid = e["card_id"]
+        if e["code"]:
+            assert e["code"] in tax, f"{cid}: code {e['code']} not in Baltic taxonomy"
+            assert e["title"] == tax[e["code"]]["description"], (
+                f"{cid}: title {e['title']!r} != taxonomy {tax[e['code']]['description']!r}")
+            assert e["unit"] == tax[e["code"]]["unit"], f"{cid}: unit {e['unit']} != taxonomy {tax[e['code']]['unit']}"
+        view = json.loads((ROUTES_VIEW_DIR / f"{cid}.json").read_text(encoding="utf-8"))
+        assert len(view["dates"]) == len(view["values"]) == e["row_count"]
+        assert view["dates"] == sorted(set(view["dates"])), f"{cid}: dates not strictly ascending"
+        assert min(view["values"]) > 0, f"{cid}: a non-positive print is plotted as a rate"
+        src = _route_source_points(e)
+        assert dict(zip(view["dates"], view["values"])) == src, f"{cid}: view drifted from its source"
+        assert e["first"] == min(src) and e["last"] == max(src), f"{cid}: catalog span != source span"
+
+
+def test_route_catalog_excludes_discontinued_series():
+    """Discontinued feeds must never be wired as route cards: the Fearnpulse tanker
+    tsIds 1-9 stopped 2023-05-22, and Primorsk/UKC has printed 0 since 2022-12-16."""
+    catalog = json.loads((ROUTES_VIEW_DIR / "catalog.json").read_text(encoding="utf-8"))["routes"]
+    newest = max(datetime.date.fromisoformat(e["last"]) for e in catalog)
+    for e in catalog:
+        hdr = json.loads((ROUTES_VIEW_DIR / f"{e['card_id']}.json").read_text(encoding="utf-8"))["header"]
+        assert not (hdr["group"] == "dry" and int(hdr["source_key"]) < 100), f"{e['card_id']} uses a dead tsId"
+        assert "PRIMORSK_UKC" not in str(hdr["source_key"]), f"{e['card_id']} is a discontinued route"
+        lag = (newest - datetime.date.fromisoformat(e["last"])).days
+        assert lag <= 30, f"{e['card_id']} last print {e['last']} trails the freshest route by {lag} days"
