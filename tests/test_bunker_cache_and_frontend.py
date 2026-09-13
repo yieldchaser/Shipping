@@ -200,7 +200,7 @@ def test_index_html_bunkers_wave1():
     assert "MoM*" in c
     # (6) selected-row CSS fix (border-left on <tr> is dead under border-collapse)
     assert ".bunkers-port-row.selected td" in c
-    assert "box-shadow: inset 3px 0 0 var(--accent)" in c
+    assert "box-shadow: inset 3px 0 2px var(--accent)" in c
     # (7) honest coverage labels
     assert "2 PORTS ONLY" in c
     assert "MONTHLY FALLBACK" in c
@@ -224,7 +224,7 @@ def test_index_html_bunkers_phase_b():
     # (2) BIX archive chart: full bix_history archive, not the trailing window
     assert "DATA.bunkerSummary.bix_history" in c or "summary.bix_history" in c
     assert "bunkerBixArchBadge" in c
-    assert "accumulates with each daily harvest" in c
+    assert "accumulates with each daily update" in c
     assert "no observations in the archive yet" in c
     for fn in ["setBixChartRegion", "setBixChartGrade", "renderBunkerBixChart",
                "renderBunkersBixMovers"]:

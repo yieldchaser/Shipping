@@ -89,7 +89,7 @@ def test_coverage_engine_covers_tables_charts_and_roll_badges():
     # dc7037ec5 replaced the coverage-engine note with the richer typed tooltip below.
     assert "M0:'Front-month prompt contract'" in C and "'M+2':'Third-month (M+2) contract'" in C
     assert "onDeconstTargetPriceInput" in C
-    assert "Contract Target Price Override" in C
+    assert "Scenario target settlement price override for disclosed holding contract #" in C
     # engine re-runs once for late async sub-section renders, idempotently
     assert "annotateCoverageGaps(tabId)" in C
     assert "setTimeout" in C

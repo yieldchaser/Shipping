@@ -17206,6 +17206,24 @@ if (intelTabsContainer) {
           }
           q.push({ id: id, run: run, priority: priority != null ? priority : 90 });
         }
+        // Runs render steps one per animation frame so a tab with many charts paints
+        // progressively instead of blocking the main thread in one long task. A step
+        // is skipped once isStale() is true (user left the tab, or a newer render began).
+        // Frames, not idle callbacks: idle waits of up to 2.5 s left charts empty when
+        // the chart-data sweep looked, which is why these slices were once removed.
+        function renderInFrames(steps, isStale) {
+          var i = 0;
+          var raf = window.requestAnimationFrame || function (f) { return setTimeout(f, 16); };
+          var next = function () {
+            if (i >= steps.length) return;
+            if (isStale && isStale()) return;
+            var step = steps[i++];
+            try { step(); } catch (e) { console.error('[renderInFrames]', e); }
+            raf(next);
+          };
+          raf(next);
+        }
+        window.renderInFrames = renderInFrames;
         function idleYield(cb, timeoutMs) {
           // requestIdleCallback with a guaranteed setTimeout fallback (Safari/older).
           if (typeof window.requestIdleCallback === 'function') {
@@ -18098,7 +18116,7 @@ if (intelTabsContainer) {
           safeFetch('data/derived/chokepoint_transit_metrics.csv', 'Chokepoint Transit Metrics', [], r => {
             DATA.chokepointMetrics = r || [];
           }),
-          DATA.portStressSummary ? Promise.resolve(DATA.portStressSummary) : fetch('data/derived/port_stress_summary.json').then(r => r.ok ? r.json() : null).then(data => {
+          DATA.portStressSummary ? Promise.resolve(DATA.portStressSummary) : fetch('data/derived/port_stress_summary.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => {
             DATA.portStressSummary = data;
           }),
           Promise.resolve()
@@ -18334,7 +18352,7 @@ if (intelTabsContainer) {
       if (offshoreSummaryLoadPromise) return offshoreSummaryLoadPromise;
       offshoreSummaryLoadPromise = Promise.all([
         fetch('data/derived/offshore_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
-        DATA.portStressSummary ? Promise.resolve(DATA.portStressSummary) : fetch('data/derived/port_stress_summary.json').then(res => res.ok ? res.json() : null),
+        DATA.portStressSummary ? Promise.resolve(DATA.portStressSummary) : fetch('data/derived/port_stress_summary.json', { cache: 'no-cache' }).then(res => res.ok ? res.json() : null),
       ]).then(results => {
         DATA.offshoreSummary = results[0];
         DATA.portStressSummary = results[1];
@@ -31794,13 +31812,15 @@ function renderSignalsTab(productKey) {
         if (document.getElementById('hvRangeStart')) initHVRange(productKey);
         if (dead()) return;
 
-        // Render the 15 retained pricing & derivatives modules directly
+        // Render the retained pricing & derivatives modules in one pass. Not frame-sliced:
+        // the stale-canvas guard and route-code gloss pass run right after the tab opens
+        // and must see every chart drawn (slicing here tripped both on 2026-09-13).
         try { renderHVChart(productKey); } catch (e) { console.error('[SignalsTab HV]', e); }
         try { renderBollingerBands(productKey); } catch (e) { console.error('[SignalsTab BB]', e); }
         try { renderCapeSpread(); } catch (e) { console.error('[SignalsTab Spread]', e); }
         try { renderROCHeatmap(); } catch (e) { console.error('[SignalsTab ROC]', e); }
         try { renderSeasonalChart(productKey); } catch (e) { console.error('[SignalsTab Seasonal]', e); }
-
+        if (dead()) return;
         try { renderTermStructure(); } catch (e) { console.error('[SignalsTab Term]', e); }
         try { renderPDZscoreChart(); } catch (e) { console.error('[SignalsTab PDZ]', e); }
         try { renderFlowSigChart(); } catch (e) { console.error('[SignalsTab Flow]', e); }
@@ -47517,16 +47537,20 @@ function renderBunkersTab() {
   renderBunkersSpotTable();
 
   var gen = ++__bunkersProgressiveGen;
-  renderBunkersForwardChart();
-  renderBunkersVolumesChart();
-  renderBunkersScrubberTable();
-  renderBunkersAltFuels();
-  renderBunkersBixStrip();
-  renderBunkerBixChart();
-  renderBunkerMainChart();
-  if (typeof renderCarbonEtsChart === 'function') {
-    try { renderCarbonEtsChart(); } catch (e) { console.error('[renderCarbonEtsChart]', e); }
-  }
+  renderInFrames([
+    renderBunkersForwardChart,
+    renderBunkersVolumesChart,
+    renderBunkersScrubberTable,
+    renderBunkersAltFuels,
+    renderBunkersBixStrip,
+    renderBunkerBixChart,
+    renderBunkerMainChart,
+    function () {
+      if (typeof renderCarbonEtsChart === 'function') {
+        try { renderCarbonEtsChart(); } catch (e) { console.error('[renderCarbonEtsChart]', e); }
+      }
+    }
+  ], function () { if (gen !== __bunkersProgressiveGen) return true; return false; });
 }
 
 function initBunkerGeoMapSoon() {

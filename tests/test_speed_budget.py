@@ -51,18 +51,27 @@ def test_idle_scheduler_started_from_boot_completion():
     i = C.index("liveDot.classList.add('active')")
     tail = C[i:i + 2500]
     assert "idleStart()" in tail
-    assert "idleSchedule('bunker-summary'" in tail
+    # dc7037ec5 (payload budget) stopped prefetching the heavy tab payloads at boot:
+    # they load when their tab opens, so a visitor who never opens Bunkers or
+    # Tracking never downloads them, and the boot transfer stays under budget.
+    assert "idleSchedule('bunker-summary'" not in tail
 
 
-def test_prefetch_priority_order():
-    order = [
-        C.index("idleSchedule('bunker-summary'"),
-        C.index("idleSchedule('congestion-history'"),
-        C.index("idleSchedule('fearn-daily'"),
-        C.index("idleSchedule('offshore-summary'"),
-        C.index("idleSchedule('expanded-portcalls'"),
-    ]
-    assert order == sorted(order), "prefetch priorities must ascend: bunker summary first, expanded universe last"
+def test_heavy_tab_payloads_load_on_tab_open_and_are_memoized():
+    """Each heavy payload is fetched by its own tab, once per session."""
+    opens = {
+        "loadBunkerSummary": "function renderBunkersTab() {",
+        "loadPortCongestionHistory": "function renderTrackingTab() {",
+        "loadExpandedPortCalls": "function renderTrackingTab() {",
+    }
+    for loader, render in opens.items():
+        seg = C[C.index(render):C.index(render) + 4000]
+        assert loader + "()" in seg, f"{render} must trigger {loader}"
+    assert "if (tabId === 'offshore') { if (typeof loadOffshoreSummary === 'function') loadOffshoreSummary();" in C
+    # memoized: a second call returns the in-flight or cached promise
+    seg = C[C.index("function loadBunkerSummary() {"):C.index("window.loadBunkerSummary = loadBunkerSummary;")]
+    assert "if (DATA.bunkerSummary) return Promise.resolve(DATA.bunkerSummary);" in seg
+    assert "if (bunkerSummaryLoadPromise) return bunkerSummaryLoadPromise;" in seg
 
 
 # ---------------------------------------------------------------- chunked parsing
@@ -115,13 +124,15 @@ def test_bunkers_progressive_render_split():
     assert "initBunkerGeoMapSoon()" in seg
     assert "updateBunkersHUD();" in seg
     assert "renderBunkersSpotTable();" in seg
-    assert "renderBunkerMainChart();" in seg
-    # heavy pieces must be inside idle slices, not in the synchronous body
+    assert "renderBunkerMainChart" in seg
+    # heavy pieces render one per frame after the shell, not in the synchronous body
     body_end = seg.index("var gen = ++__bunkersProgressiveGen;")
-    assert "renderBunkerMainChart();" not in seg[:body_end]
+    assert "renderBunkerMainChart" not in seg[:body_end]
+    tail = seg[body_end:]
+    assert "renderInFrames([" in tail
+    assert "renderBunkerMainChart," in tail and "renderBunkerMainChart();" not in tail
     # generation guard invalidates stale slices
-    assert "__bunkersProgressiveGen" in C
-    assert "if (gen !== __bunkersProgressiveGen) return;" in seg
+    assert "if (gen !== __bunkersProgressiveGen) return true;" in tail
 
 
 def test_bunkers_warm_revisit_skips_rerender():
@@ -130,13 +141,11 @@ def test_bunkers_warm_revisit_skips_rerender():
     assert "bunkersTabFullyInitialized = true;" in C
 
 
-def test_bunker_summary_parses_off_open_path():
-    # 4.4 MB JSON: fetch -> text -> JSON.parse on idle; cache + guarded refresh
+def test_bunker_summary_fetch_is_fresh_cached_and_tab_guarded():
+    # 4.4 MB JSON loads once per session, bypasses a stale HTTP cache, and only
+    # re-renders when the Bunkers tab is actually on screen
     seg = C[C.index("function loadBunkerSummary() {"):C.index("window.loadBunkerSummary = loadBunkerSummary;")]
-    assert "res.text()" in seg
-    assert "JSON.parse(text)" in seg
-    assert "idleYield" in seg
-    # refresh only when the tab is actually on screen
+    assert "fetch('data/bunkers/bunker_frontend_summary.json', { cache: 'no-cache' })" in seg
     assert "window.currentTab === 'bunkers'" in seg
 
 
@@ -147,8 +156,8 @@ def test_signals_rerender_gated_to_active_tab():
     assert "window.currentTab !== 'signals'" in seg
     # the debounced body must bail when the user left the tab
     assert "if (window.currentTab !== 'signals') { return; }" in seg
-    # Broker Desk terminal work is deferred off the first paint
-    assert "idleYield" in seg
+    # the second half of the charts is skipped if the user already left the tab
+    assert "if (dead()) return;" in seg
 
 
 def test_switch_tab_mirrors_window_currentTab():
@@ -159,8 +168,13 @@ def test_switch_tab_mirrors_window_currentTab():
 
 
 # ---------------------------------------------------------------- background refresh discipline
+def _expanded_refresh_segment():
+    end = C.index("console.warn('[expanded refresh]', e);")
+    return C[C.rindex("DATA.portCallsExpandedWindow", 0, end):end]
+
+
 def test_expanded_completion_refresh_never_janks_foreign_tab():
-    seg = C[C.index("Slice 4: refresh the surfaces"):C.index("[expanded port calls fetch error]")]
+    seg = _expanded_refresh_segment()
     assert "window.currentTab === 'tracking'" in seg
 
 
@@ -184,7 +198,7 @@ def test_tracking_warm_revisit_gated_on_stale_flags():
     assert "DATA.__trackingStaleExpanded" in seg
     assert "DATA.__trackingStaleHistory = false;" in seg
     assert "DATA.__trackingStaleExpanded = false;" in seg
-    seg_exp = C[C.index("Slice 4: refresh the surfaces"):C.index("[expanded port calls fetch error]")]
+    seg_exp = _expanded_refresh_segment()
     assert "DATA.__trackingStaleExpanded = true;" in seg_exp
     seg_cong = C[C.index("function loadPortCongestionHistory() {"):C.index("window.loadPortCongestionHistory = loadPortCongestionHistory;")]
     assert "DATA.__trackingStaleHistory = true;" in seg_cong

@@ -371,12 +371,24 @@ def build_manifest():
         }
         series_entries.append(entry)
 
+    # "datasets" is written by other producers (e.g. scripts/acquire/fetch_fleet_supply.py
+    # registers the fleet orderbook there). Rebuilding "series" must not erase it: a
+    # scheduled rebuild used to drop those entries and fail test_fleet_supply_writer_and_asof_label.
+    existing_datasets = []
+    if MANIFEST_FILE.exists():
+        try:
+            with open(MANIFEST_FILE, "r", encoding="utf-8") as f:
+                existing_datasets = json.load(f).get("datasets", []) or []
+        except (OSError, ValueError):
+            existing_datasets = []
+
     manifest_payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "schema_version": "1.0",
         "total_series": len(series_entries),
         "unregistered_count": len(unregistered_files),
         "series": series_entries,
+        "datasets": existing_datasets,
     }
 
     with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
