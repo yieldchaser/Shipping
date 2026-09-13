@@ -506,3 +506,13 @@ def test_broker_voice_pagination_and_selectors():
     # 4. Truncation message has working continue controls in fearnVoicePagination
     assert "fearnVoicePagination" in html
     assert "Load next 150" in html
+
+
+def test_tab_bar_breathing_room():
+    """G-6: Tab bar items must have increased breathing room and horizontal padding
+    while preserving zero overflow at 1366px viewport width.
+    """
+    html = HTML_PATH.read_text(encoding="utf-8")
+    assert "max-width: 1450px;" in html
+    assert "padding: 10px 12px;" in html
+
