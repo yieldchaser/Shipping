@@ -11329,6 +11329,7 @@
             <button class="toggle-btn active" id="ydZscoreBtn252" data-tooltip="Compute the z-score against a 1-year (252 trading day) rolling window — the default." onclick="setYDZscoreWindow(252)">1Y</button>
             <button class="toggle-btn" id="ydZscoreBtn504" data-tooltip="Compute the z-score against a 2-year (504 trading day) rolling window." onclick="setYDZscoreWindow(504)">2Y</button>
             <button class="toggle-btn" id="ydZscoreBtn756" data-tooltip="Compute the z-score against a 3-year (756 trading day) rolling window." onclick="setYDZscoreWindow(756)">3Y</button>
+            <button class="toggle-btn" id="ydZscoreBtnAll" data-tooltip="Z-score over the whole series from 2008 against a 1-year window - structural context across every cycle rather than the recent one." onclick="setYDZscoreWindow('all')">All</button>
           </div>
         </div>
         <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -11344,35 +11345,14 @@
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
       </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Long-term z-score analysis providing structural context by comparing the current market to every cycle since the 2008 peak.">Historical Z-Score (All Time from 2008)</div>
-        </div>
-        <div class="index-range-wrap" style="padding: 2px 0 6px;">
-          <div class="index-range-label">
-            <span>Range:</span>
-            <span id="ydHistZscoreRangeLabel">Loading…</span>
-          </div>
-          <div class="dual-range-track" id="ydHistZscoreRangeTrack">
-            <div class="dual-range-fill" id="ydHistZscoreRangeFill"></div>
-            <input type="range" id="ydHistZscoreRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-            <input type="range" id="ydHistZscoreRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-          </div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyHistZscoreChart"></canvas></div>
-      </div>
+      
       <div class="chart-container mb-20">
         <div class="chart-header">
           <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product)</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
       </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Intra-Year Trajectory - monthly average rates for the active year. Colour coding shows the MoM trend acceleration or decay.">Shipping Rates • Current Year Monthly Bar</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyShippingRatesChart"></canvas></div>
-      </div>
+      
       <div class="chart-container mb-20">
         <div class="chart-header">
           <div class="chart-title" data-tooltip="Seasonal Fingerprint - overlays current action against the last 3 clusters. Reveals if current freight pricing is leading or lagging its historical average.">Rates • Multi-Year Overlay</div>
@@ -11403,6 +11383,18 @@
 
     <!-- ===== TAB: QUARTERLY ===== -->
     <div class="tab-panel" id="tab-seasonality">
+      <!-- Granularity toggle. Quarterly and Monthly used to be rendered one below
+           the other: the same spaghetti, area comparison, bar chart, win-rate
+           matrix and heatmap, twice, eleven panels for six questions. The panels
+           themselves are unchanged - this only chooses which set is on screen. -->
+      <div class="chart-header" style="margin-bottom:16px;gap:10px;">
+        <div class="chart-title" data-tooltip="Seasonality reads the calendar shape of the selected index: which quarters and which months have historically expanded, and where the current year sits against that pattern.">Seasonality</div>
+        <div class="toggle-group" id="seasonGranularityToggle">
+          <button class="toggle-btn active" id="seasonGranQuarter" data-tooltip="Show the quarterly view: Q1-Q4 trajectories, quarterly win rates, the 8-year quarterly grid and the quarterly heatmap." onclick="setSeasonGranularity('quarter')">Quarterly</button>
+          <button class="toggle-btn" id="seasonGranMonth" data-tooltip="Show the monthly view: 12-month trajectories, the seasonal position band, monthly win rates and the monthly heatmap." onclick="setSeasonGranularity('month')">Monthly</button>
+        </div>
+      </div>
+      <div id="seasonQuarterlyBlock">
       <!-- SECTION: Quarterly -->
       <!-- Win-Rate KPI Cards -->
       <div class="win-rate-row mb-20" id="winRateRow" data-tooltip="Probability of Expansion - historical 'Hit Rate' for this specific period. 60%+ signifies a high-conviction seasonal tailwind backed by decades of data."></div>
@@ -11456,6 +11448,8 @@
         </div>
       </div>
 
+      </div><!-- /seasonQuarterlyBlock -->
+      <div id="seasonMonthlyBlock" hidden>
       <!-- SECTION: Monthly -->
       <!-- Win-Rate KPI card row removed: its all-time % per month is the ALL-TIME column of the Monthly Historical Win-Rate Matrix below (single source of truth). -->
 
@@ -11504,7 +11498,9 @@
         </div>
       </div>
 
-      <!-- SECTION: Heatmaps -->
+      </div><!-- /seasonMonthlyBlock -->
+
+      <!-- SECTION: Heatmaps - one per granularity, shown with its block -->
       <div class="heatmap-view-row">
         <label for="heatmapViewSelect" data-tooltip="View Mode toggle - Absolute Values show raw index levels (useful for spotting price floors/ceilings). % Change mode converts each cell to the Month-over-Month or Quarter-over-Quarter % return, making seasonal momentum patterns immediately obvious.">Heatmap View:</label>
         <select id="heatmapViewSelect" data-tooltip="Switch the heatmaps between absolute values and MoM/QoQ percentage change; both views compute from the same master cache." onchange="onHeatmapViewChange()">
@@ -11513,7 +11509,7 @@
         </select>
       </div>
 
-      <div class="heatmap-section mb-20">
+      <div class="heatmap-section mb-20" id="monthlyHeatmapSection" hidden>
         <div
           style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
           <div class="section-title" style="margin-bottom:0" data-tooltip="Cyclical Intensity (Monthly) - visualizes rate velocity by month. Red = Negative Momentum; Green = Asset Expansion. Essential for identifying recurring seasonal pivot points.">Monthly Performance Heatmap</div>
@@ -11524,7 +11520,7 @@
         </div>
       </div>
 
-      <div class="heatmap-section mb-20">
+      <div class="heatmap-section mb-20" id="quarterlyHeatmapSection">
         <div
           style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
           <div class="section-title" style="margin-bottom:0" data-tooltip="Quarterly Heatmap - aggregates Jan-Mar into Q1, Apr-Jun into Q2 etc., reducing noise and exposing multi-month structural biases (e.g., Q4 is historically the strongest quarter for Capesize rates).">Quarterly Heatmap</div>
@@ -23526,6 +23522,13 @@ function buildMaster() {
 
           invalidateRowCache();
           if (typeof invalidateStatsCache === 'function') invalidateStatsCache();
+          // The z-score cache is keyed by window size only and is built from
+          // DATA.master; it would otherwise keep serving the five-year build.
+          if (typeof _ydZscoreCache === 'object' && _ydZscoreCache) {
+            for (var zk in _ydZscoreCache) delete _ydZscoreCache[zk];
+          }
+          var zStart = document.getElementById('ydZscoreRangeStart');
+          if (zStart) { zStart.max = 100; zStart._ydZscoreAllTime = undefined; }
           return true;
         })
         .catch(function (err) {
@@ -23548,15 +23551,48 @@ function buildMaster() {
     }
     window.withDeepHistory = withDeepHistory;
 
+    // =====================================================================
+    // Seasonality granularity
+    //
+    // Both blocks stay in the DOM and both keep rendering; this chooses which
+    // is on screen. Charts are built either way, so switching is instant and
+    // nothing has to re-read the data.
+    // =====================================================================
+    var _seasonGranularity = 'quarter';
+
+    function setSeasonGranularity(g) {
+      _seasonGranularity = (g === 'month') ? 'month' : 'quarter';
+      var isMonth = _seasonGranularity === 'month';
+      var q = document.getElementById('seasonQuarterlyBlock');
+      var m = document.getElementById('seasonMonthlyBlock');
+      var qh = document.getElementById('quarterlyHeatmapSection');
+      var mh = document.getElementById('monthlyHeatmapSection');
+      if (q) q.hidden = isMonth;
+      if (m) m.hidden = !isMonth;
+      if (qh) qh.hidden = isMonth;
+      if (mh) mh.hidden = !isMonth;
+      var qb = document.getElementById('seasonGranQuarter');
+      var mb = document.getElementById('seasonGranMonth');
+      if (qb) qb.classList.toggle('active', !isMonth);
+      if (mb) mb.classList.toggle('active', isMonth);
+      // Chart.js sizes a canvas to its container; one built while hidden comes
+      // back with a stale box, so nudge the ones now on screen.
+      (isMonth ? ['monthlySpaghettiChart', 'seasonalPosChart', 'monthlyAreaCompChart', 'monthlyBarChart']
+               : ['spaghettiChart', 'quarterlyAreaComp1Chart', 'quarterlyBarChart']).forEach(function (id) {
+        var c = document.getElementById(id);
+        var ch = (c && typeof Chart !== 'undefined') ? Chart.getChart(c) : null;
+        if (ch) { try { ch.resize(); } catch (e) {} }
+      });
+    }
+    window.setSeasonGranularity = setSeasonGranularity;
+
     function renderYearlyDash(productKey) {
       _ydHistProductKey = productKey;
       var fns = [
         function () { renderYDKpi(productKey); },
         function () { initYDHistChart(productKey); },
-        function () { renderYDZscore(productKey, false, 'yearlyZscoreChart'); },
-        function () { renderYDZscore(productKey, true, 'yearlyHistZscoreChart'); },
+        function () { renderYDZscore(productKey, _ydZscoreAllTime === true, 'yearlyZscoreChart'); },
         function () { renderYDMultiRates('yearlyMultiRatesChart'); },
-        function () { renderYDShippingRates(productKey, 'yearlyShippingRatesChart'); },
         function () { renderYDRatesOverlay('yearlyRatesChart'); },
         function () { renderYDDrawdown(productKey, 'yearlyDrawdownChart'); },
       ];
@@ -23764,6 +23800,7 @@ function buildMaster() {
     }
 
     // ── Rolling Z-Score window state ─────────────────────────────────────────────
+    var _ydZscoreAllTime = false;
     var _ydZscoreWindow = 252;      // active rolling window (trading days)
     var _ydZscoreProductKey = null; // cached so setYDZscoreWindow can re-render
     var _ydZscoreCache = {};        // lazy cache keyed by windowSize - computed once per window, reused forever
@@ -23776,16 +23813,27 @@ function buildMaster() {
       756: '3Y (756-Day)',
     };
 
+    // 'all' renders the same chart over the whole series from 2008. It used to be
+    // a second canvas below this one showing exactly that; two panels for one
+    // question.
     function setYDZscoreWindow(w) {
       window.setYDZscoreWindow = setYDZscoreWindow;
-      _ydZscoreWindow = w;
+      var allTime = (w === 'all');
+      if (!allTime) _ydZscoreWindow = w;
       [63, 126, 252, 504, 756].forEach(function (x) {
         var el = document.getElementById('ydZscoreBtn' + x);
-        if (el) el.classList.toggle('active', x === w);
+        if (el) el.classList.toggle('active', !allTime && x === w);
       });
+      var allEl = document.getElementById('ydZscoreBtnAll');
+      if (allEl) allEl.classList.toggle('active', allTime);
       var titleEl = document.getElementById('ydZscoreTitle');
-      if (titleEl) titleEl.textContent = 'Z-Score (Rolling ' + _ydZscoreWindowLabels[w] + ')';
-      if (_ydZscoreProductKey) renderYDZscore(_ydZscoreProductKey, false, 'yearlyZscoreChart');
+      if (titleEl) {
+        titleEl.textContent = allTime
+          ? 'Z-Score (Whole Series from 2008, 1-Year Window)'
+          : 'Z-Score (Rolling ' + _ydZscoreWindowLabels[_ydZscoreWindow] + ')';
+      }
+      _ydZscoreAllTime = allTime;
+      if (_ydZscoreProductKey) renderYDZscore(_ydZscoreProductKey, allTime, 'yearlyZscoreChart');
     }
 
     function renderYDZscore(productKey, allTime, canvasId) {
@@ -23827,7 +23875,13 @@ function buildMaster() {
 
       // First render: max is still HTML default 100 - set it and apply default range
       // Subsequent calls (window change): max already equals total-1, preserve positions
-      var firstRender = (parseInt(startEl.max) !== total - 1);
+      // A mode change must re-apply the default range even when the point count
+      // is unchanged: 'All' and the rolling windows share windowSize 252, so
+      // without this the All view silently kept the rolling view's 3-year
+      // slider window and showed exactly the same span.
+      var modeChanged = (startEl._ydZscoreAllTime !== allTime);
+      startEl._ydZscoreAllTime = allTime;
+      var firstRender = (parseInt(startEl.max) !== total - 1) || modeChanged;
       startEl.max = total - 1;
       endEl.max = total - 1;
 
