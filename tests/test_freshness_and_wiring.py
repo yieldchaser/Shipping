@@ -516,3 +516,30 @@ def test_tab_bar_breathing_room():
     assert "max-width: 1450px;" in html
     assert "padding: 10px 12px;" in html
 
+
+def test_fleet_supply_writer_and_asof_label():
+    """G-9: Commercial Fleet Supply & Orderbook Profile must have a scheduled writer wired
+    in CI (scheduled_pipeline_sync.yml) and be labeled with its real as-of date in the UI.
+    """
+    workflow_path = REPO_ROOT / ".github" / "workflows" / "scheduled_pipeline_sync.yml"
+    assert workflow_path.exists(), "scheduled_pipeline_sync.yml must exist"
+    workflow_text = workflow_path.read_text(encoding="utf-8")
+    assert "python scripts/acquire/fetch_fleet_supply.py" in workflow_text, (
+        "fetch_fleet_supply.py must be scheduled in scheduled_pipeline_sync.yml"
+    )
+    assert "data/supply/" in workflow_text, "data/supply/ must be staged in scheduled_pipeline_sync.yml"
+
+    script_path = REPO_ROOT / "scripts" / "acquire" / "fetch_fleet_supply.py"
+    assert script_path.exists(), "fetch_fleet_supply.py must exist"
+
+    manifest_path = REPO_ROOT / "data" / "provenance" / "manifest.json"
+    assert manifest_path.exists()
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    series_ids = [ds["series_id"] for ds in manifest.get("datasets", []) if "series_id" in ds]
+    assert "supply_fleet_orderbook_and_age_profile" in series_ids
+
+    html = HTML_PATH.read_text(encoding="utf-8")
+    assert "fleetOrderbookAsOfBadge" in html
+    assert "As of 2026-09" in html
+
+

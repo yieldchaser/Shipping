@@ -1947,5 +1947,27 @@
       "derivation": null,
       "notes": "Sourced via scripts/build_views.py."
     }
+  ],
+  "datasets": [
+    {
+      "series_id": "supply_fleet_orderbook_and_age_profile",
+      "display_name": "Supply \u2014 Global Commercial Fleet Orderbook & Age Profile",
+      "status": "LIVE",
+      "source_name": "Signal Ocean Commercial Fleet",
+      "source_url": "https://www.thesignalgroupp.com/",
+      "fetch_method": "Signal Ocean Micro Commercial Fleet Analysis",
+      "fetch_script": "scripts/acquire/fetch_fleet_supply.py",
+      "output_file": "data/supply/fleet_orderbook_and_age_profile.csv",
+      "row_count": 11,
+      "date_span": [
+        "2026-01-01",
+        "2032-12-31"
+      ],
+      "last_fetched_utc": "2026-09-12T20:47:18.174343+00:00",
+      "unit": "Hulls / Million DWT / Percent",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Commercial fleet supply profile across 11 primary asset classes. Synthesizes commercial hulls classified by Signal Ocean orderBookStatusID (status 7 active fleet; status 1 & 2 orderbook as recorded by Signal Ocean; status 8 scrapped ships excluded; status 4, 5, 6 unresolved). Tracking active deadweight, age distribution (including >20y overage demolition pool), scheduled deliveries, and scrubber penetration."
+    }
   ]
 }

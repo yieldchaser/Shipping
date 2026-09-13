@@ -32,6 +32,7 @@ jobs:
 
       - name: Run Cargo & Congestion Cache Builders
         run: |
+          python scripts/acquire/fetch_fleet_supply.py
           python scripts/cargo/build_cargo_cache.py
           python scripts/cargo/build_commodity_flow_matrix.py
           python scripts/geospatial/build_chokepoint_cache.py
@@ -45,7 +46,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/cargo/ data/congestion/ data/derived/ data/etf/snapshots/ data/provenance/ data/clarksons/
+          git add data/cargo/ data/congestion/ data/derived/ data/etf/snapshots/ data/provenance/ data/clarksons/ data/supply/
           if git diff --staged --quiet; then
             echo "No pipeline cache changes to commit."
             exit 0
