@@ -1,6 +1,6 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-13. Prompt 18 shipped and green; 20-FIVE + 21-NEXT are the live run.**
+**Last updated: 2026-09-13. Prompt 18 shipped; 20-FIVE + 21-NEXT audited and closed (60 passed / 0 failed).**
 
 ---
 
@@ -378,3 +378,65 @@ will explain — do not push.**
 | "GMI data-hub has no data" (13B agent) | It has plain-HTML chart data tables: annual 2015–2025, per-company 2025, destination shares |
 
 Every row count in these prompts is a **2026-09-10/11 snapshot**. Re-measure; never hardcode.
+
+---
+
+## 2026-09-13 — Prompts 20-FIVE + 21-NEXT audited and closed
+
+Agent finished both. Audited by execution, not by reading its report. Contract:
+
+```bash
+python -m pytest tests/test_ui_tabs.py tests/test_loader_contracts.py tests/test_freshness_and_wiring.py -q
+```
+
+**60 passed / 0 failed.** `data/reference/ui_test_allowlist.json` untouched; no test weakened.
+
+### Verified working against the live DOM
+
+| Item | Evidence |
+|---|---|
+| G-1 | forward FFA strip on Broker Desk Overview only, `-` on the other eleven sub-tabs |
+| G-2 | `BRAEMAR LIVE FORWARD FFA STRIP` gone from headings; source attribution kept |
+| G-3 | `SHOWING 103 OF 103 REGISTERED SERIES (98 LIVE)` and the prose both computed; typed 86 gone |
+| G-4 | `fearnVoiceYear` / `fearnVoiceMonth` selects + `Load next 150` / `Load all N matches` |
+| G-5 | ticker alive — 50 items, `ticker-scroll` 264s, "Savvy?" present. Not reverted |
+| G-8 | Series Museum untouched: 2Y 24 / 5Y 60 / 10Y 105 / Max 105 |
+| G-12 | banner reads `STRETCHED · the index sits at 96.8% of its 5-year range.` |
+| F-1 | Realized Pctl `disabled` with a tooltip explaining why. Not faked |
+| F-2 | overlay datasets 1Y 4 / 5Y 6 / 10Y 11 / All 42, back to 1985 |
+| F-4 | `obs 2026-09-09` = newest BIX observation |
+| F-5 / G-11 | HUD 7,937 → laden 2,823 → dry-bulk laden 1,038; 524 port pins dimmed; map canvas repaints distinctly |
+
+I first scored F-2 and F-5 as broken and was wrong both times — F-2 because I
+counted points instead of datasets, F-5 because the map uses Leaflet's
+`preferCanvas`, so vessels are pixels and a DOM-marker probe sees nothing
+change. Pixel-hashing the canvas settled it. **A probe failing is not the page
+failing.**
+
+### Fixed in this pass (mine, `7044a50ff`, `d5bce02a7`, `3747c4407`)
+
+- **Two hollow tests replaced.** `test_dashboard_overlay_range_widening` and
+  `test_tracking_map_sector_and_status_filtering` asserted identifiers appeared
+  in `index.html`; both would survive the wiring being deleted and the name left
+  in a comment. They now drive the controls and read the live DOM, and both are
+  mutation-proven.
+- **G-7 completed.** `BALTIC_ROUTE_GLOSS` (66 codes, verbatim from
+  `data/reference/baltic_route_taxonomy.json`) + `decorateBalticRouteCodes()`,
+  run on tab switch and after in-panel clicks. 0 bare codes across all twelve
+  tabs and their sub-views; was 3 bare on the default views alone.
+  `test_baltic_gloss_map_matches_taxonomy` fails if the map drifts from the file.
+- **G-12 bands made disjoint.** `soft` had been every session below the 0.4
+  percentile, swallowing the sub-0.2 sessions the banner already calls
+  Depressed, so the Soft base rate read +18.2% / 62.0% for a zone that actually
+  returns +8.2% / 52.9%. Five bands now partition the sample exactly
+  (2632 + 1575 + 1459 + 1451 + 2075 = 9192). Legacy keys kept as aliases.
+
+### Known and deliberately not changed
+
+- `data/views/signals/cape_ffa_distribution.json` is header-only, flagged
+  CRITICAL by `scripts/check_frontend_data_integrity.py`. This is **why** F-1
+  disables the Realized Pctl button with an explanation rather than drawing a
+  line. Pre-existing since `86cc840d6`; fix the upstream file, not the button.
+- Series Museum range behaviour (G-8) is correct. Do not "fix" it.
+- Source attribution and provenance entries stay unless the owner says
+  otherwise explicitly.
