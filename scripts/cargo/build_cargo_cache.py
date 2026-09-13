@@ -143,62 +143,39 @@ def compute_seasonal_envelope_weekly(data_by_year_week):
 
 
 def load_baltic_freight_rates():
-    """Load Baltic continuous benchmark rates from Fearnleys CSV."""
-    fpath = CLARKSONS_DIR / "fearnleys_benchmark_rates_continuous.csv"
+    """Monthly means of the Fearnleys route assessments paired with cargo volumes.
+
+    Reads data/derived/fearnleys_dry_routes_daily.json, which data_expansion.yml
+    refreshes Mon-Thu. The older wide file data/clarksons/fearnleys_benchmark_rates_continuous.csv
+    is a one-off backfill that no job refreshes, so reading it froze the freight side.
+    """
+    fpath = DERIVED_DIR / "fearnleys_dry_routes_daily.json"
     if not fpath.exists():
-        print(f"Warning: Baltic rates continuous file missing: {fpath}")
-        return {}
+        raise FileNotFoundError(f"Fearnleys dry routes bundle missing: {fpath}")
+    with open(fpath, "r", encoding="utf-8") as f:
+        series = json.load(f).get("series", {})
 
-    rates_monthly = {
-        "c3_tubarao_qingdao": {},    # tsid_10001 ($/tonne)
-        "c5_dampier_qingdao": {},    # tsid_10002 ($/tonne)
-        "newcastle_coal": {},        # tsid_10003 ($/tonne)
-        "supramax_usg_japan": {},    # tsid_120129 ($/day)
-        "panamax_transatlantic_rv": {}, # tsid_10010 ($/day)
-        "capesize_pacific_rv": {},   # tsid_120654 ($/day)
-        "capesize_fronthaul": {}     # tsid_120655 ($/day)
+    wanted = {
+        "c3_tubarao_qingdao": 10001,       # $/tonne
+        "c5_dampier_qingdao": 10002,       # $/tonne
+        "newcastle_coal": 10003,           # $/tonne
+        "supramax_usg_japan": 120129,      # $/day
+        "panamax_transatlantic_rv": 10010, # $/day
+        "capesize_pacific_rv": 120654,     # $/day
+        "capesize_fronthaul": 120655,      # $/day
     }
-
-    month_counts = defaultdict(lambda: defaultdict(list))
-
-    with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            d = (row.get("date") or "").strip()
-            if not d:
+    rates_monthly = {}
+    for key, tsid in wanted.items():
+        s = next((v for v in series.values() if v.get("tsid") == tsid), None)
+        if s is None:
+            raise ValueError(f"tsId {tsid} ({key}) missing from {fpath}")
+        by_month = defaultdict(list)
+        for ms, val in s.get("pts", []):
+            if val is None or val <= 0:
                 continue
-            ym = d[:7]
-
-            def parse_by_tsid(tsid_num):
-                for k, v in row.items():
-                    if f"(tsid_{tsid_num})" in k and v:
-                        try:
-                            return float(v)
-                        except ValueError:
-                            return None
-                return None
-
-            c3 = parse_by_tsid(10001)
-            c5 = parse_by_tsid(10002)
-            nc = parse_by_tsid(10003)
-            usg = parse_by_tsid(120129)
-            pan_ta = parse_by_tsid(10010)
-            cape_pac = parse_by_tsid(120654)
-            cape_fh = parse_by_tsid(120655)
-
-            if c3 is not None: month_counts["c3_tubarao_qingdao"][ym].append(c3)
-            if c5 is not None: month_counts["c5_dampier_qingdao"][ym].append(c5)
-            if nc is not None: month_counts["newcastle_coal"][ym].append(nc)
-            if usg is not None: month_counts["supramax_usg_japan"][ym].append(usg)
-            if pan_ta is not None: month_counts["panamax_transatlantic_rv"][ym].append(pan_ta)
-            if cape_pac is not None: month_counts["capesize_pacific_rv"][ym].append(cape_pac)
-            if cape_fh is not None: month_counts["capesize_fronthaul"][ym].append(cape_fh)
-
-    for key, ym_dict in month_counts.items():
-        for ym, vals in ym_dict.items():
-            if vals:
-                rates_monthly[key][ym] = round(sum(vals) / len(vals), 2)
-
+            ym = datetime.utcfromtimestamp(ms / 1000).strftime("%Y-%m")
+            by_month[ym].append(float(val))
+        rates_monthly[key] = {ym: round(sum(v) / len(v), 2) for ym, v in by_month.items()}
     return rates_monthly
 
 
@@ -397,14 +374,19 @@ def process_us_eia_crude():
 
     with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
         reader = csv.DictReader(f)
+        # The column was renamed from crude_exports_kbpd; reading the old name
+        # silently yielded an all-zero envelope. Fail loudly instead.
+        if "us_total_crude_exports_kbpd" not in (reader.fieldnames or []):
+            raise ValueError(f"{fpath} has no us_total_crude_exports_kbpd column: {reader.fieldnames}")
         for row in reader:
             d_str = (row.get("date") or "").strip()
-            val_str = row.get("crude_exports_kbpd")
+            val_str = row.get("us_total_crude_exports_kbpd")
             if d_str and val_str:
                 try:
                     dt = datetime.strptime(d_str[:10], "%Y-%m-%d")
-                    w = dt.isocalendar()[1]
-                    y = dt.year
+                    # ISO year and week together: 2024-12-30 is ISO 2025-W01, and keying
+                    # it to calendar 2024 overwrote 2024's week 1 with a December print.
+                    y, w, _ = dt.isocalendar()
                     val = float(val_str)
                     weekly_dict[(str(y), w)] = val
                     all_dates.append(d_str[:10])
@@ -415,9 +397,9 @@ def process_us_eia_crude():
 
     return {
         "provenance": {
-            "source": "US Energy Information Administration (EIA-4PS4)",
-            "method": "Weekly Petroleum Status Report (WPSR)",
-            "span": "2020–2026",
+            "source": "US Energy Information Administration (series WCREXUS2)",
+            "method": "Weekly Petroleum Status Report (WPSR) - total US crude oil exports",
+            "span": (min(all_dates)[:4] + "–" + latest_date[:4]) if all_dates else None,
             "as_of": latest_date,
             "status": "LIVE",
             "unit": "Thousand Barrels/Day (kbpd)"
@@ -741,6 +723,31 @@ def process_guinea_bauxite():
     producers_2025.sort(key=lambda x: x["tonnes_mt"], reverse=True)
     direct_producers_jan2026.sort(key=lambda x: x["tonnes_mt"], reverse=True)
 
+    # A complete mirror year that accounts for under 30% of Guinea's own reported
+    # exports is inconsistent at the source, not a real collapse: UN Comtrade's 2017
+    # China-Guinea months total 4.8 Mt against 43 Mt exported (every other year is
+    # 64-78%) and imply a $300/t CIF price. Such years are left out of the plotted
+    # series and named in the provenance instead of being drawn.
+    national_by_year = {}
+    with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
+        for row in csv.DictReader(f):
+            if row.get("granularity") == "annual_national" and (row.get("company") or "").strip() == "National Total":
+                try:
+                    national_by_year[row["date"][:4]] = float(row["tonnes"]) / 1e6
+                except (KeyError, ValueError):
+                    pass
+    excluded_years = []
+    for y in sorted({ym[:4] for ym in monthly_mirror}):
+        months = [ym for ym in monthly_mirror if ym.startswith(y)]
+        if len(months) == 12 and national_by_year.get(y):
+            share = sum(monthly_mirror[m] for m in months) / national_by_year[y]
+            if share < 0.30:
+                excluded_years.append({"year": y, "mirror_total_mt": round(sum(monthly_mirror[m] for m in months), 1),
+                                       "guinea_reported_exports_mt": national_by_year[y], "share": round(share, 2)})
+                for m in months:
+                    monthly_mirror.pop(m, None)
+                    avg_price.pop(m, None)
+
     min_date = min(monthly_mirror.keys()) if monthly_mirror else "2017-01"
     latest_date = max(monthly_mirror.keys()) if monthly_mirror else "2024-12"
 
@@ -758,7 +765,9 @@ def process_guinea_bauxite():
             "mirror_notice": "Bilateral trade flow: China-reported imports (UN Comtrade & SMM HS 260600 mirror) cross-referenced with Republic of Guinea Ministry of Mines direct releases.",
             "direct_source_status": "PARTIAL",
             "direct_source_attempted": f"Ministry of Mines direct releases active ({len(direct_producers_jan2026)} producer records from 2026-01 and 2025 producer ledger)",
-            "unit": "Million Tonnes (Mt/mo)"
+            "unit": "Million Tonnes (Mt/mo)",
+            "excluded_mirror_years": excluded_years,
+            "gap_note": "UN Comtrade carries no China-Guinea months after 2024-12; later months come from SMM articles quoting GACC and are shown only where one was found."
         },
         "monthly_volume_mt": monthly_mirror,
         "avg_cif_usd_t": avg_price,
@@ -1072,7 +1081,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         "title": "Brazil Iron Ore Exports vs Capesize C3 (Tubarão–Qingdao)",
         "origin": "Brazil (Tubarão / Ponta da Madeira)",
         "destination": "Qingdao, China",
-        "route_code": "C3 (tsid 10001)",
+        "route_code": "C3 (Route 10001)",
         "months": recent_months,
         "volume_label": "Brazil Seaborne Iron Ore Exports (Mt/mo)",
         "volume_unit": "Mt",
@@ -1082,7 +1091,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         "freight_data": [c3_rates.get(m) for m in recent_months],
         "provenance": {
             "volume_source": "MDIC ComexStat (Brazil Customs)",
-            "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10001)",
+            "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10001)",
             "status": "LIVE"
         }
     }
@@ -1094,7 +1103,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         "title": "Western Australia Iron Ore (Port Hedland) vs Capesize C5 (Dampier–Qingdao)",
         "origin": "Port Hedland / Pilbara, WA",
         "destination": "Qingdao, China",
-        "route_code": "C5 (tsid 10002)",
+        "route_code": "C5 (Route 10002)",
         "months": recent_months,
         "volume_label": "Port Hedland Iron Ore Throughput (Mt/mo)",
         "volume_unit": "Mt",
@@ -1104,7 +1113,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         "freight_data": [c5_rates.get(m) for m in recent_months],
         "provenance": {
             "volume_source": "Pilbara Ports Authority Official Cargo Statistics",
-            "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10002)",
+            "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10002)",
             "status": "LIVE"
         }
     }
@@ -1116,7 +1125,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         "title": "Australian Thermal Coal Exports vs Capesize Newcastle–Qingdao",
         "origin": "Port of Newcastle, NSW",
         "destination": "Qingdao, China",
-        "route_code": "Newcastle Coal (tsid 10003)",
+        "route_code": "Newcastle Coal (Route 10003)",
         "months": recent_months,
         "volume_label": "Newcastle Seaborne Coal Shipments (Mt/mo)",
         "volume_unit": "Mt",
@@ -1126,51 +1135,71 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         "freight_data": [nc_rates.get(m) for m in recent_months],
         "provenance": {
             "volume_source": "Port of Newcastle Terminal Operations",
-            "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10003)",
+            "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10003)",
             "status": "LIVE"
         }
     }
 
     # 4. US Gulf Grain vs Supramax USG-Japan (corrected from Panamax)
+    # Volume is the monthly sum of USDA AMS Gulf inspections (dataset 5sxb-qe7q, top
+    # 20 destinations). It replaces a generated 4.2 + (i % 5) * 0.35 sawtooth that was
+    # plotted as data. A month counts only with 4+ weekly reports; the source itself
+    # has no rows for 2025-10 to 2025-12, and those months stay empty.
+    gulf_weeks = defaultdict(set)
+    gulf_mt = defaultdict(float)
+    with open(COMMODITIES_DIR / "usda_ytd_grain_inspections_top20.csv", "r", encoding="utf-8", errors="ignore") as f:
+        for row in csv.DictReader(f):
+            if (row.get("ams_reg") or "").strip() != "GULF":
+                continue
+            d = (row.get("date") or "")[:10]
+            try:
+                gulf_mt[d[:7]] += float(row.get("mt") or 0)
+            except ValueError:
+                continue
+            gulf_weeks[d[:7]].add(d)
+    gulf_grain_monthly = {m: round(t / 1e6, 2) for m, t in gulf_mt.items() if len(gulf_weeks[m]) >= 4}
+
     usg_rates = baltic_rates.get("supramax_usg_japan", {})
     usg_grain_pair = {
         "title": "US Gulf Grain Inspections vs Supramax US Gulf–Japan Freight",
         "origin": "US Gulf Coast Terminals (Mississippi River)",
         "destination": "Japan / South Korea",
-        "route_code": "Supramax USG-China/Japan S1C (tsid 120129)",
+        "route_code": "Supramax USG-China/Japan S1C (Route 120129)",
         "months": recent_months,
-        "volume_label": "US Gulf Monthly Grain Export Volume (Mt/mo)",
+        "volume_label": "US Gulf Grain Inspections, top-20 destinations (Mt/mo)",
         "volume_unit": "Mt",
-        # Use estimated 4.5 Mt baseline scaled by reported inspections
-        "volume_data": [round(4.2 + (i % 5) * 0.35, 2) for i in range(len(recent_months))],
+        "volume_data": [gulf_grain_monthly.get(m) for m in recent_months],
         "freight_label": "Supramax USG–Japan Rate ($k/day)",
         "freight_unit": "$k/day",
         "freight_data": [round(usg_rates.get(m) / 1000.0, 2) if usg_rates.get(m) is not None else None for m in recent_months],
         "provenance": {
-            "volume_source": "USDA Grain Transportation Report (AMS)",
-            "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 120129)",
+            "volume_source": "USDA AMS grain inspections by top 20 destinations, US Gulf (agtransport.usda.gov 5sxb-qe7q)",
+            "freight_source": "Fearnleys Continuous Benchmark Rates (Route 120129)",
             "status": "LIVE"
         }
     }
 
-    # 5. Guinea Bauxite vs Panamax Transatlantic RV (corrected from Capesize)
-    pan_rates = baltic_rates.get("panamax_transatlantic_rv", {})
+    # 5. Guinea bauxite - volume only. It used to be paired with Panamax P1A_82
+    # (Skaw-Gib transatlantic round voyage), a route with no link to Guinea-China
+    # bauxite, which moves on Capesizes. The Baltic taxonomy has no Guinea-China
+    # Capesize route, so no freight line is drawn rather than a wrong one.
     gb_vol = guinea_data.get("monthly_volume_mt", {})
     guinea_cape_pair = {
-        "title": "Guinea Bauxite Mirror Imports vs Panamax Transatlantic RV",
+        "title": "Guinea Bauxite Mirror Imports",
         "origin": "Kamsar / Boffa, Guinea (via China Customs Mirror)",
         "destination": "China Ports",
-        "route_code": "Panamax Transatlantic RV P1A_82 (tsid 10010)",
+        "route_code": None,
         "months": recent_months,
         "volume_label": "China Import of Guinea Bauxite (Mt/mo)",
         "volume_unit": "Mt",
         "volume_data": [gb_vol.get(m) for m in recent_months],
-        "freight_label": "Panamax Transatlantic RV Rate ($k/day)",
-        "freight_unit": "$k/day",
-        "freight_data": [round(pan_rates.get(m) / 1000.0, 2) if pan_rates.get(m) is not None else None for m in recent_months],
+        "freight_label": None,
+        "freight_unit": None,
+        "freight_data": [None for _ in recent_months],
+        "freight_note": "No Baltic benchmark route covers Guinea-China bauxite (Capesize), so no freight rate is paired.",
         "provenance": {
-            "volume_source": "UN Comtrade (Reporter: China, Partner: Guinea HS 260600)",
-            "freight_source": "Fearnleys Continuous Benchmark Rates (tsid 10010)",
+            "volume_source": "UN Comtrade (Reporter: China, Partner: Guinea HS 260600) to 2024-12; SMM reports of GACC data after",
+            "freight_source": None,
             "status": "LIVE_MIRROR",
             "mirror_notice": "Mirror trade flow. Direct Conakry Ministry of Mines feed is UNAVAILABLE."
         }

@@ -866,7 +866,7 @@ def load_physical_signals_context() -> str:
                 last_lng = lng_rows[-1]
                 vlgc_pcm = float(last_lpg.get("vlgc_84k_tc") or 0)
                 lines.append(f"  • LPG Fleet: VLGC 84k 1Y TC ${vlgc_pcm/30.4375:,.0f}/day (${vlgc_pcm:,.0f}/month) | MGC 38k ${float(last_lpg.get('mgc_38k_tc') or 0):,.0f}/month | Handy 22k ${float(last_lpg.get('hdy_22k_tc') or 0):,.0f}/month")
-                lines.append(f"  • LNG Fleet: 174k 2-Stroke 7Y TC ${float(last_lng.get('lngc_174k_7y_tc') or 0):,.0f}/day | 10Y TC ${float(last_lng.get('lngc_174k_10y_tc') or 0):,.0f}/day | Newbuilding Order: ${float(last_lng.get('lngc_80k_nb_price') or 262):,.0f}M")
+                lines.append(f"  • LNG Fleet: 174k 2-Stroke 7Y TC ${float(last_lng.get('lngc_174k_7y_tc') or 0):,.0f}/day | 10Y TC ${float(last_lng.get('lngc_174k_10y_tc') or 0):,.0f}/day | 80k m3 Newbuilding: " + (f"${float(last_lng.get('lngc_80k_nb_price')):,.1f}M" if last_lng.get('lngc_80k_nb_price') else "n/a") + f"")
         except Exception:
             pass
 
@@ -1044,7 +1044,7 @@ def load_physical_signals_context() -> str:
                 eia_rows = list(csv.DictReader(f))
             if eia_rows:
                 le = eia_rows[-1]
-                lines.append(f"  • US EIA Petroleum Exports ({le.get('date', '')}): US Total Crude {float(le.get('us_total_crude_exports_kbpd', 0)):,.0f} kbpd | PADD 3 Gulf Coast {float(le.get('padd3_gulf_crude_exports_kbpd', 0)):,.0f} kbpd | 4W Avg {float(le.get('crude_4w_avg_kbpd', 0)):,.0f} kbpd (TD22 VLCC & TD25 Aframax Driver)")
+                lines.append(f"  • US EIA Crude Exports ({le.get('date', '')}): US Total Crude {float(le.get('us_total_crude_exports_kbpd', 0)):,.0f} kbpd | 4W Avg {float(le.get('crude_4w_avg_kbpd', 0)):,.0f} kbpd (TD22 VLCC & TD25 Aframax Driver)")
 
         # 11d. IMF PortWatch Port Activity (measured fields only)
         p_cong = ROOT / "data" / "congestion" / "portwatch_port_congestion.csv"

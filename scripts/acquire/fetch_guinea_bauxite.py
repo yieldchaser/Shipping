@@ -274,6 +274,59 @@ def fetch_ministry_national_articles():
     return rows
 
 
+# UN Comtrade has no China-Guinea HS 260600 months after 2024-12 (checked 2026-09-13:
+# every 2025 and 2026 period returns count 0). SMM republishes the same GACC monthly
+# figure in its news articles. Each entry is kept only if its quote is found verbatim
+# in the live article, so a moved or edited article drops out instead of lingering.
+# Months with no SMM article giving a Guinea-specific monthly figure stay empty.
+SMM_GACC_MONTHS = [
+    ("2025-01-01", 12661000.0, "https://news.metal.com/newscontent/103240663",
+     "January 2025: Imports from Guinea stood at 12.661 million mt, up 21.9% MoM and 37.18% YoY."),
+    ("2025-02-01", 10729000.0, "https://news.metal.com/newscontent/103240663",
+     "February 2025: Imports fell to 10.729 million mt, down 15.26% MoM but up 21.17% YoY."),
+    ("2025-04-01", 16732000.0, "https://news.metal.com/newscontent/103335643",
+     "By country, imports from Guinea were 16.732 million mt, up 28.72% MoM and 59.62% YoY"),
+    ("2026-03-01", 18120000.0, "https://news.metal.com/newscontent/103879102",
+     "In March 2026, domestic imports of Guinean bauxite amounted to 18.12 million tons, up 29.6% month-on-month and 39.4% year-on-year."),
+    ("2026-05-01", 19607400.0, "https://news.metal.com/newscontent/103994500",
+     "May imports were at a high level, with imports from Guinea reaching around 19.6074 million mt"),
+]
+
+
+def _article_text(url):
+    import html as _html
+    import re as _re
+    r = requests.get(url, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    raw = (r.text.replace("\\u003c", "<").replace("\\u003e", ">")
+           .replace("\\u0026rsquo;", "’").replace("\\n", " "))
+    txt = _html.unescape(_re.sub(r"<[^>]+>", " ", raw))
+    return _re.sub(r"\s+", " ", txt)
+
+
+def fetch_smm_gacc_months():
+    rows, cache = [], {}
+    for d, t, url, quote in SMM_GACC_MONTHS:
+        try:
+            if url not in cache:
+                cache[url] = _article_text(url)
+        except Exception as exc:  # noqa: BLE001
+            logging.warning("SMM article %s unreachable (%s); %s not added", url, exc, d)
+            continue
+        if quote not in cache[url]:
+            logging.warning("Quote for %s not found verbatim in %s; not added", d, url)
+            continue
+        rows.append({
+            "date": d, "tonnes": t, "vessels": "",
+            "company": "Bilateral Mirror (China Imports from Guinea)",
+            "source_url": url, "publisher": "Shanghai Metals Market (SMM) / GACC",
+            "source_quote": quote, "method": "SMM report of GACC data",
+            "import_volume_t": t, "avg_cif_usd_t": "",
+            "granularity": "monthly_bilateral_mirror",
+        })
+    return rows
+
+
 def build_guinea_dataset():
     logging.info("Starting Guinea bauxite data compilation...")
     existing_df = pd.read_csv(OUT_FILE) if OUT_FILE.exists() else pd.DataFrame()
@@ -288,7 +341,7 @@ def build_guinea_dataset():
         base_rows = jan_rows + data_hub_rows + comtrade_rows
 
     national_article_rows = fetch_ministry_national_articles()
-    all_rows = base_rows + national_article_rows
+    all_rows = base_rows + national_article_rows + fetch_smm_gacc_months()
     df = pd.DataFrame(all_rows)
     df.drop_duplicates(subset=["date", "company", "source_url"], inplace=True)
 

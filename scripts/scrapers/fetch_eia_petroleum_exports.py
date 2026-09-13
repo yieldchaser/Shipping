@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
 US Energy Information Administration (EIA) Seaborne Petroleum Export Scraper
-Fetches weekly US Gulf Coast (PADD 3) & Total US crude oil exports (WCREXUS2) and total petroleum products in kbpd.
+Fetches weekly total US crude oil exports (EIA series WCREXUS2) in kbpd.
+
+EIA publishes weekly crude exports for the US as a whole only. Earlier versions of
+this script wrote a 'PADD 3 Gulf Coast' column as US total x 0.92 and a 'total
+petroleum' column as US total x 2.45. Neither is an EIA series; both were removed
+(2026-09-13) and must not come back.
 Direct Portal: https://www.eia.gov/petroleum/supply/weekly/
 
 Build C policy (no fake data):
@@ -9,7 +14,6 @@ Build C policy (no fake data):
     the existing real 2017+ file as-is (never overwrites with synthetic data).
   - With a key, WCREXUS2 is paginated back to 1991-01-01 (offset/length loop),
     then upserted onto existing rows (dedup + sort only, never delete).
-  - CSV headers are never changed.
 """
 
 import os
@@ -118,13 +122,9 @@ def fetch_eia_weekly():
             continue
         if val <= 0:
             continue
-        padd3 = round(val * 0.92, 1)
-        total_petro = round(val * 2.45, 1)
         records.append({
             "date": dt_str,
             "us_total_crude_exports_kbpd": val,
-            "padd3_gulf_crude_exports_kbpd": padd3,
-            "us_total_petroleum_exports_kbpd": total_petro,
         })
     if not records:
         logging.error("EIA API returned no usable %s rows back to %s; keeping existing file as-is.",
@@ -135,25 +135,19 @@ def fetch_eia_weekly():
         raise SystemExit(f"EIA API returned no usable {SERIES} rows — wrote nothing (no fake data).")
 
     df = pd.DataFrame(records).drop_duplicates(subset=["date"], keep="last").sort_values("date")
-    df["crude_4w_avg_kbpd"] = df["us_total_crude_exports_kbpd"].rolling(4, min_periods=1).mean().round(1)
-    df["petro_4w_avg_kbpd"] = df["us_total_petroleum_exports_kbpd"].rolling(4, min_periods=1).mean().round(1)
-    # Never delete rows: upsert onto existing real 2017+ rows, dedup + sort only.
-    # CSV headers are never changed (existing column order wins).
+    # Never delete rows: upsert onto existing real rows, dedup + sort only.
     existing = _read_existing()
     if existing is not None:
         try:
-            old_cols = list(existing.columns)
-            df = (pd.concat([existing, df], ignore_index=True)
+            df = (pd.concat([existing[["date", "us_total_crude_exports_kbpd"]], df], ignore_index=True)
                   .drop_duplicates(subset=["date"], keep="last")
                   .sort_values("date").reset_index(drop=True))
-            df["crude_4w_avg_kbpd"] = df["us_total_crude_exports_kbpd"].rolling(4, min_periods=1).mean().round(1)
-            df["petro_4w_avg_kbpd"] = df["us_total_petroleum_exports_kbpd"].rolling(4, min_periods=1).mean().round(1)
-            df = df[[c for c in old_cols if c in df.columns]
-                    + [c for c in df.columns if c not in old_cols]]
         except Exception as exc:  # noqa: BLE001
             logging.warning("Could not merge with existing %s (%s); writing fresh API fetch.",
                             OUT_FILE.name, exc)
-    df.to_csv(OUT_FILE, index=False)
+    df["crude_4w_avg_kbpd"] = df["us_total_crude_exports_kbpd"].rolling(4, min_periods=1).mean().round(1)
+    df = df[["date", "us_total_crude_exports_kbpd", "crude_4w_avg_kbpd"]]
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     logging.info("Successfully fetched %d %s rows (merged total %d) via official EIA API v2.",
                  len(records), SERIES, len(df))
     return df
