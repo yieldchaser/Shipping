@@ -13466,6 +13466,7 @@
                 <input type="range" id="basinRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
                 <input type="range" id="basinRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
               </div>
+              <div id="basinDataStartNote" style="font-size:var(--fs-micro);color:var(--text-muted);margin-top:4px;"></div>
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="basinSpreadChart"></canvas></div>
           </div>
@@ -18431,6 +18432,14 @@ if (intelTabsContainer) {
       DATA.tankerForwardCurvesHistory = DATA.tankerForwardCurvesHistory || [];
 
       let completed = false;
+      // switchTab() bails out with `if (!DATA.loaded) return;` (see below), so a
+      // tab clicked before boot data lands never renders - even after DATA.loaded
+      // flips true - because nothing re-runs its render call. Re-invoking
+      // switchTab(currentTab) once loading finishes is a cheap, idempotent way to
+      // catch up whichever tab is on screen (dashboard/seasonality/yearly-dash/etc).
+      function catchUpActiveTabRender() {
+        try { if (typeof switchTab === 'function' && typeof currentTab !== 'undefined') switchTab(currentTab); } catch (err) {}
+      }
       const watchdog = setTimeout(() => {
         if (!completed) {
           completed = true;
@@ -18438,6 +18447,7 @@ if (intelTabsContainer) {
           DATA.loaded = true;
           if (overlay) overlay.classList.add('hidden');
           try { initStaleGuard(); } catch (err) {}
+          catchUpActiveTabRender();
         }
       }, 8000);
 
@@ -18508,6 +18518,7 @@ if (intelTabsContainer) {
           }
           idleStart();
           initStaleGuard();
+          catchUpActiveTabRender();
         }
       }
     }
@@ -24742,6 +24753,19 @@ function buildMaster() {
           }
         }
       });
+      // 1y TC history runs back to 2015 (Pacific to 2008) while 4/6m and 2y
+      // only start mid-2021 - very different spans. initDualRangeSlider
+      // preserves the previously-shown DATE window across re-renders (by
+      // design, so a live data refresh doesn't reset a user's manual zoom),
+      // but that means switching tenors was carrying over whichever narrow
+      // window a shorter-history tenor had shown instead of defaulting to
+      // the newly-selected tenor's own full available span. Clearing the
+      // slider's remembered window here forces initDualRangeSlider back into
+      // its "no prior window" branch, which sets 0..full-length.
+      var bStart = document.getElementById('basinRangeStart');
+      var bEnd = document.getElementById('basinRangeEnd');
+      if (bStart) { bStart._allRows = null; bStart.value = 0; }
+      if (bEnd) { bEnd.value = 100; }
       renderBasinSpreadChart(window.currentProduct || 'cape');
     };
 
@@ -26578,6 +26602,11 @@ function buildMaster() {
           if (!rows.length) return;
 
           initDualRangeSlider('basinRange', rows, function(isManual) { if (isManual) renderBasinSpreadChart(productKey); });
+          const noteElAll = document.getElementById('basinDataStartNote');
+          if (noteElAll) {
+            noteElAll.textContent = 'Data for All Dry Sectors ' + activeTenor.toUpperCase() +
+              ' (all basins) starts ' + fmtDateUser(rows[0].date) + '.';
+          }
           const bSEl = document.getElementById('basinRangeStart');
           const bEEl = document.getElementById('basinRangeEnd');
           const bS = bSEl ? parseInt(bSEl.value) : 0;
@@ -26688,6 +26717,13 @@ function buildMaster() {
 
       if (isMainCall) {
         initDualRangeSlider('basinRange', allBasinRows, function(isManual) { if (isManual) renderBasinSpreadChart(productKey); });
+        // Where this tenor's own data actually starts (both basins present),
+        // derived from the loaded rows - never hardcoded.
+        const noteEl = document.getElementById('basinDataStartNote');
+        if (noteEl) {
+          noteEl.textContent = 'Data for ' + cfg.label + ' ' + activeTenor.toUpperCase() +
+            ' (both basins) starts ' + fmtDateUser(allBasinRows[0].date) + '.';
+        }
       }
       const bSEl = document.getElementById('basinRangeStart');
       const bEEl = document.getElementById('basinRangeEnd');

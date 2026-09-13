@@ -862,12 +862,21 @@ def test_yearly_and_seasonality_use_deep_history(web_server):
                     tr => [...tr.querySelectorAll('td')].slice(1).map(td => td.innerText.trim()));
             }""")
             assert rows, "quarterly win-rate matrix must render"
-            # The three columns are 10Y / 20Y / All-Time. On a series with real
+            # The three columns are 10Y / 15Y / All-Time. On a series with real
             # depth they cannot all be the same number in every row.
             identical = all(len(set(r)) == 1 for r in rows)
             assert not identical, (
-                "10Y / 20Y / All-Time win rates are identical in every row - the matrix is "
+                "10Y / 15Y / All-Time win rates are identical in every row - the matrix is "
                 f"computing all three over the same window: {rows}"
+            )
+            # Tightened: the "not identical" check above only fails if EVERY
+            # row is broken, so a matrix where some quarters render real
+            # percentages and others are stuck on '-' (P0: BDI Quarterly
+            # matrix regression) slipped through undetected. Every cell must
+            # be a real value on a series with 40+ years of history.
+            dashes = [(r_idx, c_idx) for r_idx, r in enumerate(rows) for c_idx, c in enumerate(r) if c in ("-", "—", "")]
+            assert not dashes, (
+                f"quarterly win-rate matrix has blank/'-' cells at (row, col) {dashes}: {rows}"
             )
 
             grid = page.evaluate("""() => {
@@ -885,6 +894,83 @@ def test_yearly_and_seasonality_use_deep_history(web_server):
                 f"the 8-year quarterly grid has rows with no data at all: {empty} - "
                 "the tab is running on a window shorter than the grid claims"
             )
+        finally:
+            browser.close()
+
+
+SEASONALITY_BALTIC_SECTORS = ["bdiy", "cape", "panama", "suprama", "handysize", "dirtytanker", "cleantanker"]
+
+
+def test_seasonality_quarterly_and_monthly_render_for_every_sector(web_server):
+    """P0 regression guard: on Seasonality default Quarterly view, the Q1-Q4
+    win-rate cells must show a real percentage (not '-') and the "Quarterly
+    Performance by Year (Spaghetti)" chart must have >= 2 datasets with real
+    data - for every Baltic sector, and the same for the Monthly view.
+
+    test_yearly_and_seasonality_use_deep_history only asserted the three
+    win-rate columns were "not all identical", which a matrix with some
+    quarters blank ('-') and others populated still satisfies - that gap let
+    a P0 (Quarterly win-rate cards all '-', spaghetti chart empty) ship
+    undetected. This checks every cell explicitly, and every sector.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1920, "height": 1080}).new_page()
+        try:
+            page.goto(f"{web_server}/index.html", wait_until="networkidle")
+            page.wait_for_timeout(5000)
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"seasonality\"]'); if (b) b.click(); }""")
+            page.wait_for_timeout(3000)
+
+            for sector in SEASONALITY_BALTIC_SECTORS:
+                page.click(f'button.index-pill[data-val="{sector}"]')
+                page.wait_for_timeout(2500)
+                for _ in range(4):
+                    page.mouse.wheel(0, 1000)
+                    page.wait_for_timeout(150)
+
+                # Quarterly (default granularity)
+                page.evaluate("""() => { if (typeof setSeasonGranularity === 'function') setSeasonGranularity('quarter'); }""")
+                page.wait_for_timeout(300)
+                q_rows = page.evaluate("""() => {
+                    const el = document.getElementById('quarterlyWinRateMatrix');
+                    if (!el) return null;
+                    return [...el.querySelectorAll('tbody tr')].map(
+                        tr => [...tr.querySelectorAll('td')].slice(1).map(td => td.innerText.trim()));
+                }""")
+                assert q_rows and len(q_rows) == 4, f"{sector}: quarterly win-rate matrix missing rows: {q_rows}"
+                blanks = [(r, c) for r, row in enumerate(q_rows) for c, v in enumerate(row) if v in ("-", "—", "")]
+                assert not blanks, f"{sector}: quarterly win-rate has blank cells at {blanks}: {q_rows}"
+
+                spaghetti = page.evaluate("""() => {
+                    const c = document.getElementById('spaghettiChart');
+                    const ch = c && typeof Chart !== 'undefined' ? Chart.getChart(c) : null;
+                    if (!ch) return null;
+                    return ch.data.datasets.map(d => (d.data || []).filter(v => v != null).length);
+                }""")
+                assert spaghetti, f"{sector}: spaghettiChart has no Chart instance"
+                real_datasets = [n for n in spaghetti if n >= 2]
+                assert len(real_datasets) >= 2, (
+                    f"{sector}: spaghetti chart needs >=2 datasets with real data, got point-counts {spaghetti}"
+                )
+
+                # Monthly granularity
+                page.evaluate("""() => { if (typeof setSeasonGranularity === 'function') setSeasonGranularity('month'); }""")
+                page.wait_for_timeout(300)
+                m_rows = page.evaluate("""() => {
+                    const el = document.getElementById('monthlyWinRateMatrix');
+                    if (!el) return null;
+                    return [...el.querySelectorAll('tbody tr')].map(
+                        tr => [...tr.querySelectorAll('td')].slice(1).map(td => td.innerText.trim()));
+                }""")
+                assert m_rows and len(m_rows) == 12, f"{sector}: monthly win-rate matrix missing rows: {m_rows}"
+                # 15Y/All-Time columns must be populated on every sector's deep
+                # history; only 10Y could plausibly stay blank for a series
+                # with < 10 complete years, which none of these have.
+                blanks_m = [(r, c) for r, row in enumerate(m_rows) for c, v in enumerate(row) if v in ("-", "—", "")]
+                assert not blanks_m, f"{sector}: monthly win-rate has blank cells at {blanks_m}: {m_rows}"
+
+                page.evaluate("""() => { if (typeof setSeasonGranularity === 'function') setSeasonGranularity('quarter'); }""")
         finally:
             browser.close()
 
@@ -1175,5 +1261,71 @@ def test_indices_tab_baltic_cards_reach_deep_history(web_server):
                 assert int(m.group(0)) <= 2010, (
                     f"{key} deep history does not reach back to <=2010 (first={info['firstDateStr']})"
                 )
+        finally:
+            browser.close()
+
+
+# ---------------------------------------------------------------------------
+# Tonnage Basin Arbitrage: switching TC tenors must default to that tenor's
+# own full available span, not a window carried over from a shorter-history
+# tenor.
+# ---------------------------------------------------------------------------
+
+def test_basin_spread_1y_tenor_shows_full_span(web_server):
+    """1y TC history runs back to 2015 (Pacific to 2008); 4/6m and 2y only
+    start mid-2021. initDualRangeSlider (index.html ~L16862) preserves the
+    previously-shown date window across re-renders so a live data refresh
+    doesn't reset a user's manual zoom - but that meant switching TC tenors
+    carried over whichever narrow window a shorter-history tenor had shown,
+    instead of resetting to the newly-selected tenor's own full span.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        try:
+            _boot(page, web_server)
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"fearnleys\"]'); if (b) b.click(); }""")
+            page.wait_for_timeout(3000)
+            page.evaluate(
+                """() => new Promise(resolve => {
+                    if (typeof fearnLoadDeskCaches === 'function') {
+                        fearnLoadDeskCaches(function () {
+                            if (typeof renderBasinSpreadChart === 'function') renderBasinSpreadChart(window.currentProduct || 'cape');
+                            resolve();
+                        });
+                    } else { resolve(); }
+                })"""
+            )
+            page.wait_for_timeout(2000)
+
+            def chart_state():
+                return page.evaluate(
+                    """() => {
+                        const c = document.getElementById('basinSpreadChart');
+                        const ch = c && typeof Chart !== 'undefined' ? Chart.getChart(c) : null;
+                        return ch ? { first: ch.data.labels[0], n: ch.data.labels.length } : null;
+                    }"""
+                )
+
+            # Narrow the window to the shorter-history 4/6m tenor first...
+            page.evaluate("() => window.setBasinTenor('4_6m')")
+            page.wait_for_timeout(1000)
+            narrow = chart_state()
+            assert narrow, "basin chart did not render for 4_6m tenor"
+
+            # ...then switch back to 1y: it must show 1y's OWN full span
+            # (starting <= 2015), not the 4/6m window it just carried over.
+            page.evaluate("() => window.setBasinTenor('1y')")
+            page.wait_for_timeout(1000)
+            wide = chart_state()
+            assert wide, "basin chart did not render for 1y tenor"
+            first_year = int(str(wide["first"])[:4])
+            assert first_year <= 2015, (
+                f"1y tenor chart must open on its own full span (<=2015); got first label "
+                f"{wide['first']!r} (n={wide['n']}) after switching from 4_6m ({narrow})"
+            )
+
+            note = page.evaluate("() => { const e = document.getElementById('basinDataStartNote'); return e ? e.textContent : null; }")
+            assert note and "2015" in note, f"data-start note should reflect the 1y tenor's real start date: {note!r}"
         finally:
             browser.close()
