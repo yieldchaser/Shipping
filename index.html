@@ -22940,9 +22940,134 @@ function buildMaster() {
     // the cache/section it acts on, and state plainly when no live data backs a
     // number. Never invent values; never touch elements that already carry
     // data-tooltip / data-tt-* / title / aria-label.
+    // Baltic route code glosses. Values are copied verbatim from
+    // data/reference/baltic_route_taxonomy.json, which is the labelling authority;
+    // tests/test_freshness_and_wiring.py asserts every entry below still matches that
+    // file, so a drift between the two fails the suite rather than shipping a wrong
+    // route description. Do not hand-edit a description here - edit the taxonomy.
+    var BALTIC_ROUTE_GLOSS = {
+      "C10": "China-Japan transpacific round voyage",
+      "C14": "China-Brazil round voyage",
+      "C16": "Revised backhaul",
+      "C17": "Saldanha Bay to Qingdao",
+      "C2": "Tubarao to Rotterdam",
+      "C3": "Tubarao to Qingdao",
+      "C5": "West Australia to Qingdao",
+      "C7": "Bolivar to Rotterdam",
+      "C8": "Gibraltar/Hamburg transatlantic round voyage",
+      "C9": "Continent/Mediterranean trip China-Japan",
+      "HS1": "Skaw-Passero trip to Rio de Janeiro-Recalada",
+      "HS2": "Skaw-Passero trip to Boston-Galveston",
+      "HS4": "US Gulf trip via US Gulf or north coast South America to Skaw-Passero",
+      "HS5": "South East Asia trip to Singapore-Japan",
+      "HS6": "North China-South Korea-Japan trip to North China-South Korea-Japan",
+      "HS7": "North China-South Korea-Japan trip to south east Asia",
+      "P1A": "Skaw-Gib transatlantic round voyage",
+      "P2A": "Skaw-Gib trip HK-S Korea incl Taiwan",
+      "P3A": "Hong Kong-South Korea transpacific round voyage",
+      "P4": "Hong Kong-South Korea trip to Skaw-Passero",
+      "P5": "South China, one Indonesian round voyage",
+      "P6": "Dely Singapore for one round voyage via Atlantic",
+      "S10": "South China trip via Indonesia to south China",
+      "S15": "Indian Ocean trip via South Africa\u00a0 to the Far East",
+      "S1B": "Canakkale trip via Med or Bl Sea to China-South Korea",
+      "S1C": "US Gulf trip to China-south Japan",
+      "S2": "North China one Australian or Pacific round voyage",
+      "S3": "North China trip to West Africa",
+      "S4A": "US Gulf trip to Skaw-Passero",
+      "S4B": "Skaw-Passero trip to US Gulf",
+      "S5": "West Africa trip via east coast South America to north China",
+      "S8": "South China trip via Indonesia to east coast India",
+      "S9": "West Africa trip via east coast South America to Skaw-Passero",
+      "TC1": "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)",
+      "TC10": "South Korea to NoPac west coast (CPP/UNL)",
+      "TC11": "South Korea to Singapore (CPP)",
+      "TC12": "Sikka (WCI) to Japan (naphtha)",
+      "TC14": "US Gulf to Continent (CPP, UNL, diesel)",
+      "TC15": "Med / Far East (naphtha)",
+      "TC16": "Amsterdam to offshore Lome (CPP)",
+      "TC17": "Middle East Gulf to East Africa",
+      "TC18": "US Gulf to Brazil",
+      "TC2": "Continent to US Atlantic coast (CPP, UNL)",
+      "TC5": "Middle East Gulf to Japan (CPP, UNL, naphtha condensate)",
+      "TC6": "Algeria to European Mediterranean (CPP, UNL)",
+      "TC7": "Singapore to east coast Australia (CPP)",
+      "TC8": "Middle East Gulf to UK-Cont. (CPP, UNL)",
+      "TC9": "Baltic to UK-Cont. (CPP, UNL, ULSD)",
+      "TD12": "Amsterdam-Rotterdam-Antwerp to US Gulf",
+      "TD14": "South East Asia to east coast Australia",
+      "TD15": "West Africa to China",
+      "TD17": "Baltic to UK-Cont",
+      "TD18": "Baltic to UK-Cont",
+      "TD19": "Cross Mediterranean",
+      "TD2": "Middle East Gulf to Singapore",
+      "TD20": "West Africa to UK-Continent",
+      "TD21": "Caribbean to US Gulf (50,000mt fuel oil)",
+      "TD22": "US Gulf to China (assessed in US $/lumpsum)",
+      "TD23": "Middle East Gulf to Mediterranean (Light Crude)",
+      "TD24": "Pacific Russia to China",
+      "TD25": "US Gulf to A-R-A",
+      "TD3C": "Middle East Gulf to China",
+      "TD6": "Black Sea to Mediterranean",
+      "TD7": "North Sea to Continent",
+      "TD8": "Kuwait to Singapore (Crude/DPP heat 135F)",
+      "TD9": "Caribbean to US Gulf"
+    };
+    window.BALTIC_ROUTE_GLOSS = BALTIC_ROUTE_GLOSS;
+
+    // Attaches a plain-language route description to every Baltic route code rendered
+    // inside `root` that does not already carry one (G-7). Codes absent from the
+    // taxonomy are left bare rather than given an invented gloss.
+    function decorateBalticRouteCodes(root) {
+      if (!root || !root.querySelectorAll) return 0;
+      // Called from annotateCoverageGaps, which can run during boot before this
+      // script block finishes evaluating; bail out rather than throw.
+      if (typeof BALTIC_ROUTE_GLOSS === 'undefined' || !BALTIC_ROUTE_GLOSS) return 0;
+      const codes = Object.keys(BALTIC_ROUTE_GLOSS);
+      if (!codes.length) return 0;
+      const re = new RegExp('(^|[^A-Za-z0-9_])(' + codes.join('|') + ')([^A-Za-z0-9_]|$)');
+      const covered = function (el) {
+        let n = el, d = 0;
+        while (n && d < 4) {
+          if (n.hasAttribute && (n.hasAttribute('data-tooltip') || n.hasAttribute('title'))) return true;
+          n = n.parentElement; d++;
+        }
+        return false;
+      };
+      let stamped = 0;
+      root.querySelectorAll('*').forEach(function (el) {
+        if (el.hasAttribute('data-baltic-glossed')) return;
+        let own = '';
+        for (let i = 0; i < el.childNodes.length; i++) {
+          if (el.childNodes[i].nodeType === 3) own += ' ' + el.childNodes[i].textContent;
+        }
+        own = own.trim();
+        if (!own || own.length > 60) return;
+        const m = own.match(re);
+        if (!m) return;
+        const code = m[2];
+        el.setAttribute('data-baltic-glossed', '1');
+        if (covered(el)) return;
+        el.setAttribute('data-tooltip', 'Baltic ' + code + ': ' + BALTIC_ROUTE_GLOSS[code]);
+        stamped++;
+      });
+      return stamped;
+    }
+    window.decorateBalticRouteCodes = decorateBalticRouteCodes;
+
+    // Sub-tab and in-panel renders happen long after switchTab, so re-run the pass
+    // shortly after any click inside a tab panel. Elements already seen carry
+    // data-baltic-glossed, so repeat passes only touch newly rendered nodes.
+    document.addEventListener('click', function (ev) {
+      const panel = ev.target && ev.target.closest ? ev.target.closest('.tab-panel') : null;
+      if (!panel) return;
+      setTimeout(function () { decorateBalticRouteCodes(panel); }, 600);
+    }, true);
+
     function annotateCoverageGaps(tabId) {
       var panel = document.getElementById('tab-' + tabId);
       if (!panel || !panel.querySelectorAll) return;
+      decorateBalticRouteCodes(panel);
       // Chart.js option text for a canvas: top labels + which dataset keys exist.
       function chartText(cv) {
         try {
