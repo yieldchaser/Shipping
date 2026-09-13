@@ -1000,6 +1000,51 @@ def test_trend_lifecycle_tooltip_not_truncated(web_server):
             browser.close()
 
 
+def test_rich_static_tooltip_still_renders_as_markup(web_server):
+    """B1 regression guard: several data-tooltip attributes intentionally
+    carry real HTML (e.g. "<div class='rt-title'>...</div>" on the ETFs
+    tab's Thesis-to-ETF Scenario Translator card). Fixing the truncation bug
+    by always using textContent for static tooltips broke these - they must
+    still render as markup (a real .rt-title element), not literal "<div"
+    text.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1440, "height": 900}).new_page()
+        try:
+            _boot(page, web_server)
+            page.evaluate("""() => { const b = document.querySelector('button[data-tab=\"etfs\"]'); if (b) b.click(); }""")
+            page.wait_for_timeout(2000)
+            # Dispatch the mouseover directly on the chart-title element in a
+            # single evaluate() (rather than page.hover(), which hovers the
+            # visual center and may land on a nested child - e.g. the
+            # "VERIFIED" badge - that carries its own, different tooltip).
+            tt = page.evaluate(
+                """() => {
+                    const e = document.querySelector('#etfDeconstructCard .chart-title');
+                    if (!e) return { found: false };
+                    e.scrollIntoView({block: 'center'});
+                    e.dispatchEvent(new MouseEvent('mouseover', {bubbles: true}));
+                    const el = document.getElementById('global-tooltip');
+                    if (!el || !el.classList.contains('visible')) return { found: false };
+                    return {
+                        found: true,
+                        html: el.innerHTML,
+                        text: el.textContent,
+                        hasTitleEl: !!el.querySelector('.rt-title'),
+                    };
+                }"""
+            )
+            assert tt and tt["found"], f"rich tooltip did not render: {tt}"
+            assert tt["hasTitleEl"], f"tooltip has no .rt-title element: {tt['html']!r}"
+            assert "Thesis-to-ETF Scenario Translator" in tt["text"]
+            assert "<div" not in tt["text"] and "&lt;div" not in tt["text"], (
+                f"tooltip rendered markup as literal text instead of real elements: {tt['text']!r}"
+            )
+        finally:
+            browser.close()
+
+
 def test_selecting_handysize_updates_hero_and_tooltips(web_server):
     """B2: selecting a sector pill must be reflected in the hero label and
     the signal/trend-lifecycle tooltips.

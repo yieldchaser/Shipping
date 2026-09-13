@@ -46986,11 +46986,19 @@ function escapeHtml(str) {
         if (richContent && richContent.trim()) {
           tt.innerHTML = richContent;
         } else if (staticText && staticText.trim()) {
-          // Static tooltips are always plain text (never intentional markup);
-          // using innerHTML here caused "<" / ">" comparison operators (e.g.
-          // "ROC>0") to be parsed as HTML tags and silently dropped, truncating
-          // the tooltip text. textContent renders the literal characters.
-          tt.textContent = staticText;
+          // Some static tooltips intentionally carry real markup (e.g.
+          // "<div class='rt-title'>...</div>"), so innerHTML is still needed
+          // for those. But naively using innerHTML whenever the text merely
+          // contained "<" and ">" anywhere caused comparison-operator phrases
+          // like "ROC>0" to be parsed as an (invalid) HTML tag and silently
+          // dropped, truncating the tooltip. Only treat it as markup when it
+          // actually contains a real opening/closing tag for one of the
+          // handful of elements these tooltips use.
+          if (/<\/?(div|span|b|i|br|strong|em|ul|li|p|small)\b[^>]*>/i.test(staticText)) {
+            tt.innerHTML = staticText;
+          } else {
+            tt.textContent = staticText;
+          }
         } else {
           return;
         }
