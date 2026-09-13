@@ -458,6 +458,7 @@ def build_signal_base_rates(out_path="data/views/signal_base_rates.json"):
         "mid_range": [],
         "accumulate": [],
         "soft": [],
+        "depressed": [],
         "deep_distress": [],
         "unconditional": [],
     }
@@ -466,18 +467,24 @@ def build_signal_base_rates(out_path="data/views/signal_base_rates.json"):
         pctl = sum(1 for x in window if x <= vals[i]) / len(window)
         fwd = (vals[i + FWD] - vals[i]) / vals[i] * 100.0
         buckets["unconditional"].append(fwd)
+        # Five disjoint bands, one per label the banner can show, so the statistic
+        # quoted under a label is drawn from exactly the sessions that label
+        # describes. 'soft' must NOT swallow the sub-0.2 sessions: the banner
+        # already shows those as Depressed, and pooling them made the Soft base
+        # rate look better than the zone it names.
         if pctl > 0.8:
-            buckets["overheated"].append(fwd)
             buckets["stretched"].append(fwd)
+            buckets["overheated"].append(fwd)      # legacy key, same band
         elif pctl >= 0.6:
             buckets["elevated"].append(fwd)
         elif pctl >= 0.4:
             buckets["mid_range"].append(fwd)
-        else:
-            buckets["accumulate"].append(fwd)
+        elif pctl >= 0.2:
             buckets["soft"].append(fwd)
-        if pctl < 0.2:
-            buckets["deep_distress"].append(fwd)
+            buckets["accumulate"].append(fwd)      # legacy key, same band
+        else:
+            buckets["depressed"].append(fwd)
+            buckets["deep_distress"].append(fwd)   # legacy key, same band
 
     def summarise(series):
         if len(series) < 30:
