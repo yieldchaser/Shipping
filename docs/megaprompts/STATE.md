@@ -1,6 +1,6 @@
 # PROJECT STATE — handoff snapshot
 
-**Last updated: 2026-09-13. Prompt 18 shipped; 20-FIVE + 21-NEXT audited and closed (60 passed / 0 failed).**
+**Last updated: 2026-09-13 (end of day). 20-FIVE + 21-NEXT closed; Yearly/Seasonality fixed and restructured. 61 passed / 0 failed. No open spec.**
 
 ---
 
@@ -440,3 +440,54 @@ failing.**
 - Series Museum range behaviour (G-8) is correct. Do not "fix" it.
 - Source attribution and provenance entries stay unless the owner says
   otherwise explicitly.
+
+---
+
+## 2026-09-13 (later) — Yearly & Seasonality: data truth, then restructure
+
+`origin/main` at `b7162a5f5`. **61 passed / 0 failed** (46 static + 15 UI).
+
+### Two stacked bugs behind "the history looks wrong" (`cdfa766ae`, `f008f2d2e`)
+
+1. **`build_views.py` dropped every value above 1,000.** Baltic CSVs quote them (`"2,325"`);
+   `float()` raised and a `try/except: continue` swallowed it. cape kept 1,111 of 4,335 rows,
+   panama 1,638, suprama 2,393 — whole years gone, and the survivors were the cheap years, so every
+   percentile was biased high (Panamax 5Y pctl 98.0% on screen, 85.5% true). Fixed by
+   `parse_number()`. The CSVs on disk were complete all along.
+2. **Yearly and Seasonality ran on the five-year boot window.** `dashboard_master.json` is capped
+   for the boot budget and both tabs read `DATA.master`. Chart opened 2021; 8-year grid had empty
+   rows; win-rate matrix showed one number under 10Y / 20Y / All-Time. `ensureDeepHistory()` now
+   merges the per-index view when either tab opens. A window the data cannot cover shows `-`.
+
+### Data coverage — nothing to download
+
+All 16 `data/views/indices/*.json` continuous, zero gaps > 14 days. seecapitalmarkets.com BCI
+matched our `cape` on 10 of 10 dates; ours is a day fresher. Same Baltic feed, not a new source.
+
+### Restructure, 18 panels → 12 (`b7162a5f5`)
+
+- **Seasonality:** Quarterly ⇄ Monthly toggle replaces rendering the same five panels twice.
+  Heatmap follows the toggle. `seasonalPosChart` kept (no twin). Both sets still render; no chart
+  logic changed.
+- **Yearly:** all-time z-score is now an **All** button on the z-score chart; the duplicate
+  current-year monthly bar is gone. Fixed on the way: All kept the rolling 3-year slider window,
+  and the z-score cache served the pre-deep-history build.
+- **Tabs deliberately not merged** — Yearly is the series through time, Seasonality its calendar
+  shape.
+- Bar charts slimmed (`maxBarThickness: 46`, 0.62 category width, 6px radius).
+
+### New guards
+
+`test_yearly_and_seasonality_use_deep_history` (chart span, identical win-rate columns, empty grid
+rows) — mutation-proven.
+
+### Running the suite
+
+If the full run hangs or OpenBLAS reports allocation failures, it is memory, not code. Kill orphan
+`python -m http.server` and `ms-playwright` processes, then run
+`tests/test_loader_contracts.py tests/test_freshness_and_wiring.py` and `tests/test_ui_tabs.py`
+separately.
+
+### Open
+
+No open spec. Next work starts from the owner's next observation.
