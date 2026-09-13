@@ -23,6 +23,34 @@ import pandas as pd
 # Hard ceiling per view manifest (Rule: Target <= 250 KB)
 MAX_MANIFEST_BYTES = 250 * 1024
 
+def parse_number(val):
+    """Parses a numeric cell that may carry thousands separators or stray symbols.
+
+    Baltic index CSVs quote values above a thousand as "2,325" while values below
+    it are bare. float() raises on the former, so a plain float()/continue loop
+    silently keeps only the years the index happened to trade below 1,000 - which
+    is exactly what happened to cape/panama/suprama: 62% of their history was
+    dropped, the surviving sample was biased low, and every percentile computed
+    from it read far too high. Returns None when the cell genuinely is not a number.
+    """
+    if val is None:
+        return None
+    if isinstance(val, (int, float)):
+        try:
+            if val != val:  # NaN
+                return None
+        except TypeError:
+            return None
+        return float(val)
+    txt = str(val).strip().replace(",", "").replace("%", "").replace("$", "")
+    if not txt or txt in ("-", "--", "n/a", "N/A", "nan", "NaN", "None"):
+        return None
+    try:
+        return float(txt)
+    except ValueError:
+        return None
+
+
 def normalize_date_str(val):
     """Normalize dates to ISO YYYY-MM-DD. Returns (normalized_str, was_repaired_bool)."""
     if val is None or pd.isna(val):
@@ -226,10 +254,10 @@ def build_indices_and_dashboard_master(prov_map):
             d_norm, _ = normalize_date_str(row[dcol])
             if not d_norm or len(d_norm) != 10:
                 continue
-            try:
-                v = round(float(row[vcol]), 2)
-            except (ValueError, TypeError):
+            parsed = parse_number(row[vcol])
+            if parsed is None:
                 continue
+            v = round(parsed, 2)
             series_points.append((d_norm, v))
         
         series_points.sort(key=lambda x: x[0])
