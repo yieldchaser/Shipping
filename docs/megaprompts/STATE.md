@@ -575,3 +575,23 @@ read them. New `scripts/fearnleys/build_gas_rate_csvs.py` rebuilds them from `fe
 - **Fleet supply manifest entry:** `build_provenance_manifest.py` rewrote the manifest and dropped the
   `datasets` key that `fetch_fleet_supply.py` writes. It now carries `datasets` forward.
 - README brought up to date (tabs as they are now, route cards, Cargo tab, test commands and counts).
+
+## 2026-09-14 — Tracking map performance (Bunkers map measured, left as is)
+
+Measured first (Playwright + Chrome CPU profiler), same session, median of 3, old → new:
+sector filter 1.5 s → 0.33 s; fleet status filter 0.35 s → 0.1 s; 10 zoom+pan steps 3.5 s → 1.8 s;
+map layers 10,082 → 2,144. Screenshots (tiles hidden) pixel-identical in 7 views; popups, hover and
+click behave the same.
+
+- **Vessel dots:** `createFleetDotsLayer()` — one `L.Canvas` subclass draws all ~8,000 vessels with
+  Leaflet's own circle fill/stroke calls from points projected once at zoom 0; click hit-tests and
+  builds the popup on demand. Added first so it stays the overlay pane's first canvas.
+- **Port pins:** a sector change rewrites the existing ~2,000 pins in place (content, size) and
+  re-appends them in rebuild order, so stacking over chokepoint/disruption beacons is unchanged.
+  Pins outside the view (+50% margin) get `display:none` on `moveend`; popups build on open.
+- **Tried and reverted:** deferring Tracking's tables/charts one frame (queued data callbacks delayed
+  them ~2 s); starting the Bunkers map before its frame-sliced charts (left a chart undrawn when the
+  stale-canvas guard looked). The Bunkers map now builds as the last frame of that chain — same
+  speed as before (~0.75 s), no longer dependent on an idle slot.
+- Guard: `test_tracking_map_stays_light_and_interactive` (layer count, in-place pins, off-screen
+  hiding, vessel click popup), each mutation-checked.

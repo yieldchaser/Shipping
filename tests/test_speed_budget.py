@@ -120,8 +120,8 @@ def test_chunked_fetch_timeout_scoped_to_headers_not_body():
 # ---------------------------------------------------------------- bunkers split render
 def test_bunkers_progressive_render_split():
     seg = C[C.index("function renderBunkersTab() {"):C.index("function initBunkerGeoMap() {")]
-    # fast shell = map soon + HUD + spot table; heavy art deferred
-    assert "initBunkerGeoMapSoon()" in seg
+    # fast shell = HUD + spot table; heavy art deferred, map as the last frame after the charts
+    assert "initBunkerGeoMapNow\n  ], function ()" in seg
     assert "updateBunkersHUD();" in seg
     assert "renderBunkersSpotTable();" in seg
     assert "renderBunkerMainChart" in seg

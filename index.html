@@ -41096,6 +41096,7 @@ function renderTrackingTab() {
     setTimeout(function() { trackingMap.invalidateSize(); }, 80);
   }
 
+
   // Populate Port Select Options if empty
   populateTrackingPortOptions();
 
@@ -41434,12 +41435,15 @@ function initTrackingMap() {
       opacity: 0.85
     }).addTo(trackingMap);
 
-    // Marker layers (port calls, chokepoints, disruption events; no vessel-position layer exists in the data)
+    // Marker layers. The fleet dots layer is added first so its canvas stays the
+    // first canvas in the overlay pane, beneath any track or route drawn later.
+    liveFleetMarkersLayer = createFleetDotsLayer().addTo(trackingMap);
     chokepointMarkersLayer = L.layerGroup().addTo(trackingMap);
     portMarkersLayer = L.layerGroup().addTo(trackingMap);
     disruptionMarkersLayer = L.layerGroup().addTo(trackingMap);
     activeVesselTrackLayer = L.layerGroup().addTo(trackingMap);
-    liveFleetMarkersLayer = L.layerGroup().addTo(trackingMap);
+
+    trackingMap.on('moveend', syncPortHubPinsToView);
 
     // Track coordinates on mousemove
     trackingMap.on('mousemove', function(e) {
@@ -41885,6 +41889,107 @@ var liveFleetStatus = 'all';
 var liveFleetVisible = true;
 var liveFleetMarkersLayer = null;
 
+// One canvas layer for the whole live fleet. The map used to hold ~8,000
+// L.circleMarker layers, each projected, bounds-checked and hit-tested on every
+// pan/zoom and each carrying a pre-built popup string. This subclass of Leaflet's
+// own Canvas renderer (so zoom animation, padding and retina scaling are Leaflet's)
+// draws the same circles with the same fill/stroke calls, from a flat array of
+// points projected once at zoom 0, and builds a popup only when a dot is clicked.
+function createFleetDotsLayer() {
+  var R = 3.5, WEIGHT = 1, FILL_OPACITY = 0.82, STROKE = '#0a0f16';
+  var HIT = R + WEIGHT / 2;   // CircleMarker._containsPoint: radius + stroke half-width
+  var Layer = L.Canvas.extend({
+    initialize: function (options) {
+      L.Canvas.prototype.initialize.call(this, options);
+      this._dots = [];
+    },
+    setDots: function (dots) {
+      this._dots = dots || [];
+      if (this._map && this._ctx) this._redraw();
+    },
+    clearLayers: function () { this.setDots([]); return this; },
+    getLayers: function () { return this._dots; },
+    _updatePaths: function () {
+      if (this._postponeUpdatePaths) { return; }
+      this._redrawBounds = null;
+      this._redraw();
+    },
+    _layerPoint: function (d, scale, origin) {
+      return [Math.round(d.x0 * scale) - origin.x, Math.round(d.y0 * scale) - origin.y];
+    },
+    _draw: function () {
+      var map = this._map, ctx = this._ctx, dots = this._dots;
+      if (!map || !ctx || !dots.length || !this._bounds) return;
+      var scale = Math.pow(2, map.getZoom()), origin = map.getPixelOrigin();
+      var b = this._bounds, pad = R + WEIGHT + 1;
+      var minX = b.min.x - pad, minY = b.min.y - pad, maxX = b.max.x + pad, maxY = b.max.y + pad;
+      var r = Math.max(Math.round(R), 1), TAU = Math.PI * 2;
+      ctx.save();
+      ctx.lineWidth = WEIGHT;
+      ctx.strokeStyle = STROKE;
+      ctx.lineCap = 'round';
+      ctx.lineJoin = 'round';
+      if (ctx.setLineDash) ctx.setLineDash([]);
+      for (var i = 0; i < dots.length; i++) {
+        var d = dots[i];
+        var x = Math.round(d.x0 * scale) - origin.x, y = Math.round(d.y0 * scale) - origin.y;
+        if (x < minX || x > maxX || y < minY || y > maxY) continue;
+        ctx.beginPath();
+        ctx.arc(x, y, r, 0, TAU, false);
+        ctx.globalAlpha = FILL_OPACITY;
+        ctx.fillStyle = d.color;
+        ctx.fill('evenodd');
+        ctx.globalAlpha = 1;
+        ctx.stroke();
+      }
+      ctx.restore();
+    },
+    _hit: function (e) {
+      var map = this._map, dots = this._dots;
+      if (!map || !dots.length) return null;
+      var pt = map.mouseEventToLayerPoint(e), scale = Math.pow(2, map.getZoom()), origin = map.getPixelOrigin();
+      var found = null;
+      for (var i = 0; i < dots.length; i++) {
+        var d = dots[i];
+        var dx = Math.round(d.x0 * scale) - origin.x - pt.x, dy = Math.round(d.y0 * scale) - origin.y - pt.y;
+        if (dx * dx + dy * dy <= HIT * HIT) found = d;   // last drawn wins, as in L.Canvas
+      }
+      return found;
+    },
+    _onClick: function (e) {
+      if (e.type === 'click' && this._map && !this._map.dragging.moving()) {
+        var d = this._hit(e);
+        if (d) {
+          L.DomEvent.stop(e);
+          var html = typeof d.popup === 'function' ? d.popup() : d.popup;
+          L.popup().setLatLng(this._map.mouseEventToLatLng(e)).setContent(html).openOn(this._map);
+          return;
+        }
+      }
+      this._fireEvent(false, e);
+    },
+    _handleMouseHover: function (e) {
+      if (this._mouseHoverThrottled) { return; }
+      var over = !!this._hit(e);
+      if (over !== !!this._hoverOn) {
+        this._hoverOn = over;
+        if (over) L.DomUtil.addClass(this._container, 'leaflet-interactive');
+        else L.DomUtil.removeClass(this._container, 'leaflet-interactive');
+      }
+      this._fireEvent(false, e);
+      this._mouseHoverThrottled = true;
+      var self = this;
+      setTimeout(function () { self._mouseHoverThrottled = false; }, 32);
+    },
+    _handleMouseOut: function () {
+      if (this._hoverOn && this._container) L.DomUtil.removeClass(this._container, 'leaflet-interactive');
+      this._hoverOn = false;
+      this._mouseHoverThrottled = false;
+    }
+  });
+  return new Layer({ padding: 0.1 });
+}
+
 function loadSignalFleetData() {
   if (DATA.signalFleetLoaded) return Promise.resolve();
   if (signalFleetLoadPromise) return signalFleetLoadPromise;
@@ -42246,7 +42351,7 @@ window.updateLiveFleetHUD = updateLiveFleetHUD;
 function plotLiveFleetMarkers() {
   if (!window.trackingMap) return;
   if (!liveFleetMarkersLayer) {
-    liveFleetMarkersLayer = L.layerGroup().addTo(trackingMap);
+    liveFleetMarkersLayer = createFleetDotsLayer().addTo(trackingMap);
   }
   liveFleetMarkersLayer.clearLayers();
 
@@ -42287,42 +42392,35 @@ function plotLiveFleetMarkers() {
   if (elSpd) elSpd.textContent = avgSpd + ' kn';
   if (elLaden) elLaden.textContent = pctLaden + '%';
 
-  // Render circle markers
+  // Render circle markers (one canvas layer; popups are built on click)
+  var dots = [];
   filtered.forEach(function(r) {
     // ['imo', 'name', 'class', 'seg', 'lat', 'lon', 'spd', 'hdg', 'dst', 'op', 'stat', 'laden', 'eta']
     var lat = r[4], lon = r[5];
     if (lat == null || lon == null || isNaN(lat) || isNaN(lon)) return;
-
-    var color = segColors[r[3]] || '#58a6ff';
-    var marker = L.circleMarker([lat, lon], {
-      radius: 3.5,
-      fillColor: color,
-      fillOpacity: 0.82,
-      color: '#0a0f16',
-      weight: 1
-    });
-
-    var opText = r[9] ? '<br>Operator: <strong style="color:var(--accent);">' + escapeHtml(r[9]) + '</strong>' : '';
-    var statusText = r[10] ? '<br>Status: ' + escapeHtml(r[10]) : '';
-    var ladenBadge = r[11] === 1
-      ? '<span class="status-badge-berth">Laden</span>'
-      : '<span class="status-badge-anchor">Ballast</span>';
-
-    var popupHtml = '<div style="font-size:12px; font-family:var(--font-mono);">' +
-      '<div style="font-weight:700; font-size:13px; color:#fff; margin-bottom:3px;">' + escapeHtml(r[1]) + '</div>' +
-      '<div>' + escapeHtml(r[2]) + ' &middot; ' + ladenBadge + '</div>' +
-      opText +
-      statusText +
-      '<br>Speed: ' + r[6] + ' kn &middot; Heading: ' + r[7] + '°' +
-      (r[8] ? '<br>Destination: ' + escapeHtml(r[8]) : '') +
-      '<div style="margin-top:8px;">' +
-        '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Drill Down</button>' +
-      '</div>' +
-    '</div>';
-
-    marker.bindPopup(popupHtml);
-    marker.addTo(liveFleetMarkersLayer);
+    var p0 = trackingMap.project([lat, lon], 0);
+    dots.push({ x0: p0.x, y0: p0.y, color: segColors[r[3]] || '#58a6ff', popup: function () { return liveFleetPopupHtml(r); } });
   });
+  liveFleetMarkersLayer.setDots(dots);
+}
+
+function liveFleetPopupHtml(r) {
+  var opText = r[9] ? '<br>Operator: <strong style="color:var(--accent);">' + escapeHtml(r[9]) + '</strong>' : '';
+  var statusText = r[10] ? '<br>Status: ' + escapeHtml(r[10]) : '';
+  var ladenBadge = r[11] === 1
+    ? '<span class="status-badge-berth">Laden</span>'
+    : '<span class="status-badge-anchor">Ballast</span>';
+  return '<div style="font-size:12px; font-family:var(--font-mono);">' +
+    '<div style="font-weight:700; font-size:13px; color:#fff; margin-bottom:3px;">' + escapeHtml(r[1]) + '</div>' +
+    '<div>' + escapeHtml(r[2]) + ' &middot; ' + ladenBadge + '</div>' +
+    opText +
+    statusText +
+    '<br>Speed: ' + r[6] + ' kn &middot; Heading: ' + r[7] + '°' +
+    (r[8] ? '<br>Destination: ' + escapeHtml(r[8]) : '') +
+    '<div style="margin-top:8px;">' +
+      '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Drill Down</button>' +
+    '</div>' +
+  '</div>';
 }
 window.plotLiveFleetMarkers = plotLiveFleetMarkers;
 
@@ -43107,7 +43205,7 @@ function toggleTrackingLayer(layerName) {
     if (isChecked) trackingMap.addLayer(chokepointMarkersLayer);
     else trackingMap.removeLayer(chokepointMarkersLayer);
   } else if (layerName === 'ports' && portMarkersLayer) {
-    if (isChecked) trackingMap.addLayer(portMarkersLayer);
+    if (isChecked) { trackingMap.addLayer(portMarkersLayer); syncPortHubPinsToView(); }
     else trackingMap.removeLayer(portMarkersLayer);
   } else if (layerName === 'disruptions' && disruptionMarkersLayer) {
     if (isChecked) trackingMap.addLayer(disruptionMarkersLayer);
@@ -43119,64 +43217,120 @@ window.toggleTrackingLayer = toggleTrackingLayer;
 // Port-call pins: size follows measured year-to-date calls from the PortWatch
 // expanded universe (5 largest YTD hubs set the scale). No waiting-queue
 // synthesis anywhere: the queue fields were removed with the lineup snapshot.
+// Port hub pins. A sector change used to destroy and recreate all ~2,000 pins
+// (plus their popup strings) even though only each pin's class, title and badge
+// size change. Pins are now rebuilt only when the underlying stats object changes;
+// a sector change rewrites each pin's content in place, and popups build on open.
+var __portHubPins = { stats: null, list: [] };
+
+// Pins outside the view (plus half a screen of margin) are hidden with display:none.
+// At the default world view about 1,150 of ~2,000 pins are off-screen, yet every
+// zoom step laid out and repainted all of them. Hiding rather than removing keeps
+// every pin's DOM position, so overlapping pins stack exactly as before.
+function syncPortHubPinsToView() {
+  if (!trackingMap || !portMarkersLayer || !__portHubPins.list.length) return;
+  var view = trackingMap.getBounds().pad(0.5);
+  __portHubPins.list.forEach(function (item) {
+    var el = item.marker._icon;
+    if (!el) return;
+    var want = view.contains(item.latlng) ? '' : 'none';
+    if (el.style.display !== want) el.style.display = want;
+  });
+}
+window.syncPortHubPinsToView = syncPortHubPinsToView;
+
+function portHubPinSpec(p, scale) {
+  var tot = portHubTotal(p);
+  var inSector = isPortInSectorFilter(p.portid);
+  var r = 6 + Math.round(14 * Math.sqrt(tot / scale));
+  if (!inSector) r = 6;
+  var pinState = '';
+  if (trackingMapSector !== 'all') pinState = inSector ? ' lit' : ' dimmed';
+  var html = '<div class="port-hub-pin' + pinState + '" title="' + escapeHtml(p.name) + ': ' + tot.toLocaleString('en-US') + ' port calls YTD (PortWatch)' +
+    (trackingMapSector !== 'all' ? (inSector ? ' \u00b7 ' + escapeHtml(trackingMapSector) + ' highlight' : ' \u00b7 dimmed (outside ' + escapeHtml(trackingMapSector) + ')') : '') + '">' +
+    '<span class="port-hub-badge" style="min-width:' + Math.max(18, 12 + String(tot).length * 6) + 'px; font-size:' + (r >= 18 ? '10px' : '9px') + ';">' + (tot >= 1000 ? Math.round(tot / 1000) + 'k' : tot) + '</span>' +
+    '</div>';
+  return { html: html, icon: L.divIcon({
+    className: 'port-hub-marker-icon',
+    html: html,
+    iconSize: [Math.max(26, r * 2), 18],
+    iconAnchor: [Math.max(13, r), 9],
+    popupAnchor: [0, -9]
+  }) };
+}
+
+function portHubTotal(p) {
+  return (p.tanker || 0) + (p.dry_bulk || 0) + (p.container || 0) + (p.general_cargo || 0) + (p.roro || 0);
+}
+
+function portHubPopupHtml(p) {
+  var tot = portHubTotal(p);
+  return '<div class="signal-vessel-popup" style="min-width:230px;">' +
+    '<div class="signal-vessel-head">' +
+    '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="status-badge-berth">' + tot.toLocaleString('en-US') + ' Calls YTD</span></div>' +
+    '<div class="signal-vessel-sub">' + escapeHtml(p.country || '') + ' (' + escapeHtml(p.portid) + ')</div>' +
+    '</div>' +
+    '<div class="signal-vessel-grid">' +
+    '<div><div class="signal-field-label">Tanker calls YTD</div><div class="signal-field-val">' + (p.tanker || 0).toLocaleString('en-US') + '</div></div>' +
+    '<div><div class="signal-field-label">Dry-bulk calls YTD</div><div class="signal-field-val">' + (p.dry_bulk || 0).toLocaleString('en-US') + '</div></div>' +
+    '<div><div class="signal-field-label">Container calls YTD</div><div class="signal-field-val">' + (p.container || 0).toLocaleString('en-US') + '</div></div>' +
+    '<div><div class="signal-field-label">Gen-cargo / RoRo YTD</div><div class="signal-field-val">' + ((p.general_cargo || 0) + (p.roro || 0)).toLocaleString('en-US') + '</div></div>' +
+    '</div>' +
+    '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:4px;">Measured IMF PortWatch calls, 2026 year to date. No vessel positions: PortWatch publishes counts, not live ship locations.</div>' +
+    '<button class="signal-vessel-btn" onclick="openPortPage(\'' + p.portid + '\')">Open Port Page (' + escapeHtml(p.name) + ')</button>' +
+    '</div>';
+}
+
 function plotPortHubMarkers() {
   if (!trackingMap || !portMarkersLayer) return;
-  portMarkersLayer.clearLayers();
 
   var stats = window.__trackingSectorPortStats;
   var byPort = stats ? (stats._byPort || {}) : {};
+
+  // Same stats as the pins on the map: rewrite each pin's state in place, then move
+  // the pins to the top of the marker pane in the same order a rebuild appended
+  // them, so pins still stack above chokepoint and disruption beacons as before.
+  if (stats && __portHubPins.stats === stats && __portHubPins.list.length) {
+    var frag = document.createDocumentFragment(), pane = null;
+    __portHubPins.list.forEach(function (item) {
+      var spec = portHubPinSpec(item.p, __portHubPins.scale);
+      var el = item.marker._icon;
+      if (spec.html !== item.html) {
+        item.html = spec.html;
+        item.marker.options.icon = spec.icon;
+        if (el) {
+          el.innerHTML = spec.html;
+          spec.icon._setIconStyles(el, 'icon');
+        }
+      }
+      if (el) { pane = pane || el.parentNode; frag.appendChild(el); }
+    });
+    if (pane) pane.appendChild(frag);
+    return;
+  }
+
+  portMarkersLayer.clearLayers();
+  __portHubPins = { stats: stats, list: [], scale: 1 };
+
   var entries = Object.keys(byPort).map(function(pid) { return byPort[pid]; });
-  var totOf = function(p) { return (p.tanker || 0) + (p.dry_bulk || 0) + (p.container || 0) + (p.general_cargo || 0) + (p.roro || 0); };
-  entries.sort(function(a, b) { return totOf(b) - totOf(a); });
+  entries.sort(function(a, b) { return portHubTotal(b) - portHubTotal(a); });
   var top = entries.slice(0, 5);
-  var scale = top.length ? totOf(top[top.length - 1]) : 0;
+  var scale = top.length ? portHubTotal(top[top.length - 1]) : 0;
   if (!scale) scale = 1;
+  __portHubPins.scale = scale;
 
   entries.forEach(function(p) {
     var lat = p.lat, lon = p.lon;
     if (lat == null || lon == null) return;
-    var tot = totOf(p);
-    if (tot <= 0) return;
-    var inSector = isPortInSectorFilter(p.portid);
-    var r = 6 + Math.round(14 * Math.sqrt(tot / scale));
-    if (!inSector) r = 6;
-    var pinState = '';
-    if (trackingMapSector !== 'all') pinState = inSector ? ' lit' : ' dimmed';
-
-    var iconHtml = '<div class="port-hub-pin' + pinState + '" title="' + escapeHtml(p.name) + ': ' + tot.toLocaleString('en-US') + ' port calls YTD (PortWatch)' +
-      (trackingMapSector !== 'all' ? (inSector ? ' \u00b7 ' + escapeHtml(trackingMapSector) + ' highlight' : ' \u00b7 dimmed (outside ' + escapeHtml(trackingMapSector) + ')') : '') + '">' +
-      '<span class="port-hub-badge" style="min-width:' + Math.max(18, 12 + String(tot).length * 6) + 'px; font-size:' + (r >= 18 ? '10px' : '9px') + ';">' + (tot >= 1000 ? Math.round(tot / 1000) + 'k' : tot) + '</span>' +
-      '</div>';
-
-    var customIcon = L.divIcon({
-      className: 'port-hub-marker-icon',
-      html: iconHtml,
-      iconSize: [Math.max(26, r * 2), 18],
-      iconAnchor: [Math.max(13, r), 9],
-      popupAnchor: [0, -9]
-    });
-
-    var marker = L.marker([lat, lon], { icon: customIcon });
-
-    var popupHtml = '<div class="signal-vessel-popup" style="min-width:230px;">' +
-      '<div class="signal-vessel-head">' +
-      '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="status-badge-berth">' + tot.toLocaleString('en-US') + ' Calls YTD</span></div>' +
-      '<div class="signal-vessel-sub">' + escapeHtml(p.country || '') + ' (' + escapeHtml(p.portid) + ')</div>' +
-      '</div>' +
-      '<div class="signal-vessel-grid">' +
-      '<div><div class="signal-field-label">Tanker calls YTD</div><div class="signal-field-val">' + (p.tanker || 0).toLocaleString('en-US') + '</div></div>' +
-      '<div><div class="signal-field-label">Dry-bulk calls YTD</div><div class="signal-field-val">' + (p.dry_bulk || 0).toLocaleString('en-US') + '</div></div>' +
-      '<div><div class="signal-field-label">Container calls YTD</div><div class="signal-field-val">' + (p.container || 0).toLocaleString('en-US') + '</div></div>' +
-      '<div><div class="signal-field-label">Gen-cargo / RoRo YTD</div><div class="signal-field-val">' + ((p.general_cargo || 0) + (p.roro || 0)).toLocaleString('en-US') + '</div></div>' +
-      '</div>' +
-      '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:4px;">Measured IMF PortWatch calls, 2026 year to date. No vessel positions: PortWatch publishes counts, not live ship locations.</div>' +
-      '<button class="signal-vessel-btn" onclick="openPortPage(\'' + p.portid + '\')">Open Port Page (' + escapeHtml(p.name) + ')</button>' +
-      '</div>';
-
-    marker.bindPopup(popupHtml, { maxWidth: 320 });
+    if (portHubTotal(p) <= 0) return;
+    var spec = portHubPinSpec(p, scale);
+    var marker = L.marker([lat, lon], { icon: spec.icon });
+    marker.bindPopup(function () { return portHubPopupHtml(p); }, { maxWidth: 320 });
     marker.on('click', function() { openPortPage(p.portid); });
     portMarkersLayer.addLayer(marker);
+    __portHubPins.list.push({ p: p, marker: marker, html: spec.html, latlng: L.latLng(lat, lon) });
   });
+  syncPortHubPinsToView();
 }
 
 // Chokepoint beacon pins (measured transit status from the chokepoint summary
@@ -47531,7 +47685,6 @@ function renderBunkersTab() {
   }
   bunkersTabFullyInitialized = true;
 
-  initBunkerGeoMapSoon();
   updateBunkersHUD();
   renderBunkersCompositesStrip();
   renderBunkersSpotTable();
@@ -47549,18 +47702,20 @@ function renderBunkersTab() {
       if (typeof renderCarbonEtsChart === 'function') {
         try { renderCarbonEtsChart(); } catch (e) { console.error('[renderCarbonEtsChart]', e); }
       }
-    }
+    },
+    // The map is the last frame of the chain. It used to wait for an idle slot
+    // (up to 2 s, and a busy tab rarely has one); started earlier it interleaved
+    // with the charts and left one undrawn when the stale-canvas guard looked.
+    initBunkerGeoMapNow
   ], function () { if (gen !== __bunkersProgressiveGen) return true; return false; });
 }
 
-function initBunkerGeoMapSoon() {
-  idleYield(function () {
-    if (!bunkerGeoMapInitialized) {
-      initBunkerGeoMap();
-    } else if (bunkerGeoMap && typeof bunkerGeoMap.invalidateSize === 'function') {
-      setTimeout(function() { bunkerGeoMap.invalidateSize(); }, 80);
-    }
-  }, 2000);
+function initBunkerGeoMapNow() {
+  if (!bunkerGeoMapInitialized) {
+    initBunkerGeoMap();
+  } else if (bunkerGeoMap && typeof bunkerGeoMap.invalidateSize === 'function') {
+    setTimeout(function() { bunkerGeoMap.invalidateSize(); }, 80);
+  }
 }
 
 function initBunkerGeoMap() {

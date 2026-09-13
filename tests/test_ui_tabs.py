@@ -1499,3 +1499,87 @@ def test_cargo_flagship_units_guinea_volume_only_and_eia_has_data(web_server):
         finally:
             browser.close()
 
+
+
+def test_tracking_map_stays_light_and_interactive(web_server):
+    """Tracking map performance contract (2026-09-14).
+
+    The live fleet (~8,000 vessels) draws on one canvas layer instead of one
+    Leaflet layer per vessel; a sector change updates the existing port pins in
+    place instead of recreating ~2,000 markers; pins outside the view are hidden
+    rather than laid out; and a click on a vessel dot still opens its popup.
+    """
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_context(viewport={"width": 1920, "height": 1080}).new_page()
+        errors = []
+        page.on("pageerror", lambda e: errors.append(str(e)))
+        try:
+            _boot(page, web_server)
+            page.evaluate("() => window.switchTab('tracking')")
+            page.wait_for_function(
+                "() => window.trackingMap && document.querySelectorAll('#trackingMap .port-hub-marker-icon').length > 500",
+                timeout=40000)
+            page.wait_for_timeout(4000)
+            page.evaluate("() => document.getElementById('trackingMap').scrollIntoView({block: 'center'})")
+            page.evaluate("() => trackingMap.setView([20, 45], 3, {animate: false})")
+            page.wait_for_timeout(800)
+
+            state = page.evaluate("""() => {
+                let layers = 0; trackingMap.eachLayer(() => layers++);
+                const pins = [...document.querySelectorAll('#trackingMap .port-hub-marker-icon')];
+                return { layers, vessels: liveFleetMarkersLayer.getLayers().length,
+                         pins: pins.length, hidden: pins.filter(e => e.style.display === 'none').length };
+            }""")
+            assert state["vessels"] > 5000, state
+            assert state["layers"] < 3000, f"vessels must not be one map layer each: {state}"
+            assert 0 < state["hidden"] < state["pins"], f"off-screen pins must be hidden, on-screen shown: {state}"
+
+            # a sector change rewrites the same pin elements
+            page.evaluate("() => { window.__pinEls = [...document.querySelectorAll('#trackingMap .port-hub-marker-icon')]; }")
+            page.evaluate("() => setTrackingMapSector('Tankers')")
+            page.wait_for_timeout(600)
+            same = page.evaluate("""() => {
+                const now = [...document.querySelectorAll('#trackingMap .port-hub-marker-icon')];
+                return { kept: now.filter(e => window.__pinEls.includes(e)).length, now: now.length,
+                         lit: document.querySelectorAll('.port-hub-pin.lit').length };
+            }""")
+            assert same["kept"] == same["now"] and same["lit"] > 0, f"pins must update in place: {same}"
+            page.evaluate("() => setTrackingMapSector('all')")
+            page.wait_for_timeout(400)
+
+            # panning reveals hidden pins
+            page.evaluate("() => trackingMap.setView([15, -80], 4, {animate: false})")
+            page.wait_for_timeout(600)
+            shown_americas = page.evaluate("""() => portMarkersLayer.getLayers().filter(m => {
+                const ll = m.getLatLng(); return ll.lng < -60 && ll.lng > -100 && ll.lat > 0 && ll.lat < 30 && m._icon && m._icon.style.display !== 'none';
+            }).length""")
+            assert shown_americas > 0, "pins must reappear when the map moves to them"
+
+            # click the vessel dot drawn nearest the map centre -> popup
+            page.evaluate("() => trackingMap.setView([1.3, 103.8], 7, {animate: false})")
+            page.wait_for_timeout(800)
+            pt = page.evaluate("""() => {
+                const m = trackingMap, mr = document.getElementById('trackingMap').getBoundingClientRect();
+                const sc = Math.pow(2, m.getZoom()), o = m.getPixelOrigin();
+                let best = null;
+                for (const d of liveFleetMarkersLayer.getLayers()) {
+                    const lp = L.point(Math.round(d.x0 * sc) - o.x, Math.round(d.y0 * sc) - o.y);
+                    const cp = m.layerPointToContainerPoint(lp);
+                    const x = mr.left + cp.x, y = mr.top + cp.y;
+                    if (x < mr.left + 80 || x > mr.right - 80 || y < mr.top + 80 || y > mr.bottom - 80) continue;
+                    const el = document.elementFromPoint(x, y);
+                    if (!el || el.tagName !== 'CANVAS') continue;
+                    const dd = (cp.x - mr.width / 2) ** 2 + (cp.y - mr.height / 2) ** 2;
+                    if (!best || dd < best[2]) best = [x, y, dd];
+                }
+                return best;
+            }""")
+            assert pt, "no clickable vessel dot found near Singapore"
+            page.mouse.click(pt[0], pt[1])
+            page.wait_for_timeout(500)
+            popup = page.evaluate("() => { const e = document.querySelector('#trackingMap .leaflet-popup-content'); return e ? e.innerText : ''; }")
+            assert "Speed:" in popup and "Vessel Drill Down" in popup, f"vessel popup did not open: {popup!r}"
+            assert not errors, errors
+        finally:
+            browser.close()
