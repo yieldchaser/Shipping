@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_drybulk_2026-09-15__root",
+  "doc_id": "breakwave_drybulk_2026-09-15",
+  "parent_id": null,
+  "title": "Dry Bulk Shipping - September 15, 2026",
+  "section_path": [
+    "Dry Bulk Shipping - September 15, 2026"
+  ],
+  "section_path_text": "Dry Bulk Shipping - September 15, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Iron Ore Trade Remain Elevated as We Enter the Seasonally Strong Period - Short-term Indicators September historically marks the beginning of seasonal strength in the dry bulk Momentum: Neutral trade, as weather-related disruptions subside and Northern Hemisphere import Sentiment: Neutral demand for bulk commodity goods rises ahead of winter. This year, the market enters this period from an exceptionally high baseline, with Capesize rates holding Fundamentals: Neutral firmly well above $40,000 and Panamax spot rates in the low $20,000 range. Consequently, any additional market tightness will likely push spot rates to levels Breakwave Dry 3454 yielding well above-average returns for shipowners.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "products",
+    "steel",
+    "yoy"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 909,
+  "source_path": "reports/drybulk/2026/2026-09-15_Breakwave_Dry_Bulk.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_drybulk_2026-09-15__s01_overview",
+      "doc_id": "breakwave_drybulk_2026-09-15",
+      "parent_id": "breakwave_drybulk_2026-09-15__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- Iron Ore Trade Remain Elevated as We Enter the Seasonally Strong Period - Short-term Indicators September historically marks the beginning of seasonal strength in the dry bulk Momentum: Neutral trade, as weather-related disruptions subside and Northern Hemisphere import Sentiment: Neutral demand for bulk commodity goods rises ahead of winter. This year, the market enters this period from an exceptionally high baseline, with Capesize rates holding Fundamentals: Neutral firmly well above $40,000 and Panamax spot rates in the low $20,000 range.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "products",
+        "iron"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 619,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_drybulk_2026-09-15__s02_fundamentals",
+      "doc_id": "breakwave_drybulk_2026-09-15",
+      "parent_id": "breakwave_drybulk_2026-09-15__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- China Steel Production (YTD: 577mt, YOY: -2.9%)\n- China Steel Inventories (YTD: 4.8mt, YOY: 1.4%)\n- China Iron Ore Inventories (YTD: 151mt, YOY: 14.1%)\n- China Iron Ore Imports (YTD: 846mt, YOY: 5.4%)\n- China Coal Imports (YTD: 310mt, YOY: 3.4%)\n- China Soybean Imports (YTD: 74mt, YOY: 1.3%)\n- Brazil Iron Ore Exports (YTD: 264mt, YOY: -0.6%)\n- Australia Iron Ore Exports (YTD: 542mt, YOY: 3.6%)\n- Dry Bulk Fleet (YTD: 1093 mdwt, YOY: 3.7%)\n- Baltic Dry Index Average (YTD: Baltic Dry Index, Average, YOY: 2,529)\n- Capesize Spot Rates Average (YTD: Capesize Spot Rates, Average, YOY: 32,638)\n- Panamax Spot Rates Average (YTD: Panamax Spot rates, Average, YOY: 18,103)",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 289,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
