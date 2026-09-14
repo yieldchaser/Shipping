@@ -16675,9 +16675,9 @@ if (intelTabsContainer) {
       suprama: { label: 'Supramax', file: 'data/indices/suprama_historical.csv', color: '#f0883e', tt: 'Supramax Vessels (58K DWT) - versatile geared vessels hauling \'minor bulks\' like fertilizers, minerals, and steel. Offers lower volatility due to a highly diversified commodity base.' },
       handysize: { label: 'Handysize', file: 'data/indices/handysize_historical.csv', color: '#7ee787', tt: 'Handysize Vessels (38K DWT) - small, geared vessels capable of serving regional ports. Tracks the fragmented trade of specialized raw materials and finished industrial goods.' },
       dirtytanker: { label: 'Dirty Tanker (BDTI)', file: 'data/indices/dirtytanker_historical.csv', color: '#e3b341', tt: 'Baltic Dirty Tanker Index (BDTI) - tracks the cost of hauling crude oil on VLCC, Suezmax, and Aframax vessels. Driven by OPEC+ output, refinery runs, and geopolitical energy shocks.' },
-      blng: { label: 'Baltic LNG Index (BLNG)', file: 'data/indices/blng_historical.csv', color: '#56d4dd', tt: 'Baltic LNG Index (BLNG) - the Baltic Exchange LNG carrier freight benchmark, collected daily from the Baltic Exchange public ticker since 13 Mar 2026. Tracks spot LNG shipping costs, driven by liquefaction start-ups, Atlantic-Pacific arbitrage and fleet deliveries.' },
-      blpg: { label: 'Baltic LPG Index (BLPG)', file: 'data/indices/blpg_historical.csv', color: '#e3b341', tt: 'Baltic LPG Index (BLPG) - the Baltic Exchange LPG carrier freight benchmark, collected daily from the Baltic Exchange public ticker since 13 Mar 2026. Tracks VLGC shipping costs, driven by US and Middle East LPG exports to Asia.' },
-      bai: { label: 'Baltic Air Freight Index (BAI00)', file: 'data/indices/bai_historical.csv', color: '#8b949e', tt: 'Baltic Air Freight Index (BAI00) - the Baltic Exchange weekly air cargo price benchmark across major global lanes, weekly since Jan 2018. Not a shipping index: a cross-check on how urgent-freight demand compares with sea freight.' },
+      blng: { label: 'Baltic LNG Index (BLNG)', file: 'data/indices/blng_historical.csv', color: '#56d4dd', tt: 'Baltic LNG Index (BLNG) - Baltic Exchange benchmark for LNG carrier freight. Rises when new liquefaction capacity and long Atlantic-to-Asia voyages absorb ships; falls when newbuild deliveries outrun cargoes. Read beside BLPG and the Capital Link gas equity index. Recorded daily from the Baltic Exchange public ticker since 13 Mar 2026, so history is short.' },
+      blpg: { label: 'Baltic LPG Index (BLPG)', file: 'data/indices/blpg_historical.csv', color: '#e3b341', tt: 'Baltic LPG Index (BLPG) - Baltic Exchange benchmark for LPG carrier freight, led by very large gas carriers moving US and Middle East propane and butane to Asia. Sensitive to US export volumes, Panama Canal transits and Chinese petrochemical demand. Recorded daily from the Baltic Exchange public ticker since 13 Mar 2026, so history is short.' },
+      bai: { label: 'Baltic Air Freight Index (BAI00)', file: 'data/indices/bai_historical.csv', color: '#8b949e', tt: 'Baltic Air Freight Index (BAI00) - Baltic Exchange weekly benchmark of air cargo prices across the main global lanes, weekly since Jan 2018. Not a shipping rate: when sea freight is slow or congested, urgent cargo shifts to air and this index rises. Sits beside the container equity index as the other general-cargo gauge.' },
       cleantanker: { label: 'Clean Tanker (BCTI)', file: 'data/indices/cleantanker_historical.csv', color: '#a371f7', tt: 'Baltic Clean Tanker Index (BCTI) - monitors the freight rates for refined petroleum products (Gasoline, Diesel, Jet Fuel, Naphtha). Tied to global refining margins and seasonal demand.' },
       bdryff: { label: 'BDRY Freight Futures (BDRYFF)', file: 'data/futures/bdryff_history.csv', color: '#00bfff', solactive: true, tt: 'BDRY Freight Futures (BDRYFF) - tracks the front-month settlement prices of Dry Bulk FFAs. Represents the market\'s \'Forward Expectation\' vs. its \'Spot Reality\'.' },
       bwetff: { label: 'BWET Freight Futures (BWETFF)', file: 'data/futures/bwetff_history.csv', color: '#ff6b6b', solactive: true, tt: 'BWET Freight Futures (BWETFF) - tracks the settlement of Dirty Tanker (TD3C/TD20) forward contracts. High-conviction tool for hedging crude oil maritime logistics risk.' },
@@ -17702,16 +17702,6 @@ if (intelTabsContainer) {
           }).filter(x => x.date);
         }),
         fetch('data/derived/alibra_tce_matrix.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => { DATA.alibraTceMatrix = data || null; }),
-        safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
-          // The file is Date,Index,% Change with DD-MM-YYYY dates (Baltic ticker poller).
-          // renderLPGFreightChart matches rows by dateStr and reads .blpg.
-          DATA.blpg = (r || []).map(row => {
-            const raw = (row.Date || row.date || '').trim();
-            const d = parseDate(raw) || parseDateISO(raw);
-            const v = parseVal(row.Index != null ? row.Index : row.value);
-            return { date: d, dateStr: d ? fmtDate(d) : raw, value: v, blpg: v };
-          }).filter(x => x.date && x.value != null);
-        }),
         safeFetch('data/commodities/sgx_iron_ore_forward_curve.csv', 'SGX Iron Ore Forward Curve', [], r => {
           DATA.sgxIronOreForward = DATA.sgxOreForwardCurve = (r || []).map(row => {
             return {
@@ -20550,16 +20540,34 @@ function buildMaster() {
     // dry routes by class, tanker indices, tanker routes, equities, futures/ETFs.
     // Route cards are placeholders here; their series come from
     // data/views/routes/ (built by scripts/build_views.py) and load on first open.
+    // Two cards per row, read as pairs; four related cards form a 2x2 block.
+    // Route cards are named explicitly (rt_<card_id>); '@dry' / '@tanker' then add
+    // any live route not listed, so a new catalog entry still appears.
     const INDICES_ORDER = [
-      'bdiy', 'bdry_spot',
-      'cape', 'panama', 'suprama', 'handysize',
+      'bdiy', 'bdry_spot',                          // dry composite | its ETF spot basket
+      'cape', 'panama',                             // vessel-class indices by size
+      'suprama', 'handysize',
+      'rt_C3', 'rt_C5',                             // Capesize: ore voyages ($/t)
+      'rt_C9_182', 'rt_C10_182',                    //           time-charter trips ($/day)
+      'rt_P1A_82', 'rt_P2A_82',                     // Panamax: Atlantic round | fronthaul
+      'rt_P3A_82', 'rt_P4_82',                      //          Pacific round | backhaul
+      'rt_S4A', 'rt_S4B',                           // Supramax: transatlantic out | back
+      'rt_S1C', 'rt_S10',                           //           to Asia | intra-Asia
       '@dry',
-      'dirtytanker', 'cleantanker',
-      'blng', 'blpg',
+      'bdryff', 'bdry',                             // dry freight futures | dry ETF
+      'dirtytanker', 'cleantanker',                 // tanker indices
+      'rt_TD3C', 'rt_VLCC_MEG_USG',                 // Middle East Gulf crude: east | west
+      'rt_VLCC_WAFR_FEAST', 'rt_TD20',              // West Africa crude: VLCC Asia | Suezmax Europe
+      'rt_SUEZ_BLSEA_MED', 'rt_AFRA_CEYHAN_MED',    // Mediterranean crude
+      'rt_TD25', 'rt_AFRA_CBS_USG',                 // US Gulf crude: exports | imports
+      'rt_TC1', 'rt_TC5',                           // clean MEG-Japan: LR2 | LR1
       '@tanker',
-      'clmi', 'cldbi', 'clti', 'clci', 'cllg', 'clmfi', 'clmlp',
-      'bdryff', 'bwetff', 'bdry', 'bwet',
-      'bai'
+      'bwetff', 'bwet',                             // tanker futures | tanker ETF
+      'blng', 'blpg',                               // gas freight
+      'cllg', 'clmlp',                              // gas equities | energy shipping MLPs
+      'clmi', 'clmfi',                              // broad equities: all | mixed fleet
+      'cldbi', 'clti',                              // sector equities: dry | tanker
+      'clci', 'bai'                                 // containers | air freight
     ];
 
     // A route that has not printed for this long is treated as discontinued and
@@ -20571,6 +20579,31 @@ function buildMaster() {
       'LR2 clean (75kt)': '#56d4dd', 'LR1 clean (55kt)': '#39c5cf'
     };
     const ROUTE_UNIT_LABEL = { 'usd/day': '$/day', 'usd/tonne': '$/tonne', 'worldscale': 'WS points' };
+    // What each route card measures, for its header tooltip.
+    const ROUTE_TT = {
+      C3: 'C3 Capesize iron ore voyage rate, Tubarao (Brazil) to Qingdao (China), in $ per tonne of cargo. The long-haul Brazilian ore route: it reacts to Vale export seasonality and to tonne-mile demand more than C5.',
+      C5: 'C5 Capesize iron ore voyage rate, West Australia to Qingdao, in $ per tonne of cargo. The highest-volume dry bulk route: a short haul tracking Australian ore shipments to Chinese steel mills.',
+      C9_182: 'C9 Capesize time-charter rate for a fronthaul trip from the Continent/Mediterranean to China-Japan, 182,000 dwt basis, in $ per day. Atlantic-to-Pacific positioning, normally the best-paying Capesize route.',
+      C10_182: 'C10 Capesize time-charter rate for a China-Japan transpacific round voyage, 182,000 dwt basis, in $ per day. The heaviest route (35%) in the Capesize 5TC average, driven by Australian ore and coal to Asia.',
+      P1A_82: 'P1A Panamax (82,000 dwt) time-charter rate for a transatlantic round voyage from Skaw-Gibraltar, in $ per day. Atlantic grain, coal and minerals trade.',
+      P2A_82: 'P2A Panamax (82,000 dwt) fronthaul trip from Skaw-Gibraltar to Hong Kong-South Korea incl. Taiwan, in $ per day. Atlantic-to-Asia grain and coal, usually the premium Panamax route.',
+      P3A_82: 'P3A Panamax (82,000 dwt) transpacific round voyage from Hong Kong-South Korea, in $ per day. Pacific coal and grain from Australia, Indonesia and the North Pacific.',
+      P4_82: 'P4 Panamax (82,000 dwt) backhaul trip from Hong Kong-South Korea to Skaw-Passero, in $ per day. Pacific-to-Atlantic positioning, usually the lowest-paying Panamax route.',
+      S1C: 'S1C Supramax trip from the US Gulf to China-south Japan, in $ per day. Fronthaul grain and petcoke from the US Gulf to Asia.',
+      S4A: 'S4A Supramax trip from the US Gulf to Skaw-Passero, in $ per day. Transatlantic fronthaul into Europe; read it beside S4B, the return leg.',
+      S4B: 'S4B Supramax trip from Skaw-Passero to the US Gulf, in $ per day. Transatlantic backhaul; the gap to S4A shows which way the Atlantic is short of ships.',
+      S10: 'S10 Supramax South China trip via Indonesia back to South China, in $ per day. Intra-Asia coal and nickel ore round trip, a gauge of Indonesian exports to China.',
+      TD3C: 'TD3C VLCC crude voyage, Middle East Gulf to China (270,000 t), in Worldscale points. The benchmark crude tanker route, driven by Gulf export volumes and Chinese imports.',
+      VLCC_MEG_USG: 'VLCC crude voyage, Middle East Gulf to the US Gulf, in Worldscale points. Westbound Gulf crude: low Worldscale on a very long haul. Read beside TD3C, the eastbound lane.',
+      VLCC_WAFR_FEAST: 'VLCC crude voyage, West Africa to the Far East, in Worldscale points. Long-haul Atlantic crude to Asia that competes with the Gulf for VLCC tonnage.',
+      TD20: 'TD20 Suezmax crude voyage, West Africa to UK-Continent (130,000 t), in Worldscale points. The benchmark Suezmax route: Nigerian and Angolan crude into Europe.',
+      SUEZ_BLSEA_MED: 'Suezmax crude voyage, Black Sea to the Mediterranean, in Worldscale points. Black Sea export crude into Mediterranean refineries; sensitive to Turkish Straits delays and sanctions.',
+      AFRA_CEYHAN_MED: 'Aframax crude voyage, Ceyhan (Turkey) to the Mediterranean, in Worldscale points. Caspian and Iraqi pipeline crude loading at Ceyhan for Mediterranean refineries.',
+      TD25: 'TD25 Aframax crude voyage, US Gulf to Europe (A-R-A), in Worldscale points. US crude exports across the Atlantic.',
+      AFRA_CBS_USG: 'Aframax crude voyage, Caribbean to the US Gulf, in Worldscale points. Short-haul Latin American crude into US Gulf refineries; read beside TD25, the export lane.',
+      TC1: 'TC1 LR2 clean products voyage, Middle East Gulf to Japan (75,000 t), in Worldscale points. East-of-Suez naphtha and refined products benchmark on the larger product tankers.',
+      TC5: 'TC5 LR1 clean products voyage, Middle East Gulf to Japan (55,000 t), in Worldscale points. Same lane as TC1 on smaller ships; the spread shows demand for bigger product tankers.'
+    };
     const ROUTE_META = {};   // 'rt_<card_id>' -> catalog entry + display fields
     const ROUTE_ROWS = {};   // 'rt_<card_id>' -> [{date, dateStr, value}]
     let _routeLoadPromise = null;
@@ -20664,9 +20697,12 @@ function buildMaster() {
       const filter = window.currentIndicesFilter || 'all';
       const routesReady = !!(_routeLoadPromise && Object.keys(ROUTE_META).length);
       let activeKeys = [];
+      const listed = new Set(INDICES_ORDER);
       INDICES_ORDER.forEach(k => {
         if (k === '@dry' || k === '@tanker') {
-          if (routesReady) activeKeys = activeKeys.concat(_routeKeysByGroup[k.slice(1)]);
+          if (routesReady) activeKeys = activeKeys.concat(_routeKeysByGroup[k.slice(1)].filter(r => !listed.has(r)));
+        } else if (k.startsWith('rt_')) {
+          if (routesReady && ROUTE_META[k]) activeKeys.push(k);
         } else if (PRODUCTS[k]) {
           activeKeys.push(k);
         }
@@ -20732,7 +20768,16 @@ function buildMaster() {
         const currentYear = latest.date.getFullYear();
         const jan1 = new Date(currentYear, 0, 1);
         const priorYearRows = rows.filter(r => r.date < jan1);
-        const ytdBase = priorYearRows.length ? priorYearRows[priorYearRows.length - 1].value : null;
+        // A series that starts inside this year (BLNG/BLPG from 13 Mar 2026) has no
+        // prior-year close; measure from its first print and say so in the label.
+        const firstThisYear = priorYearRows.length ? null : rows.find(r => r.date >= jan1);
+        const ytdBase = priorYearRows.length ? priorYearRows[priorYearRows.length - 1].value : (firstThisYear ? firstThisYear.value : null);
+        const ytdLabel = firstThisYear
+          ? 'Since ' + firstThisYear.date.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })
+          : 'YTD %';
+        const ytdTip = firstThisYear
+          ? 'Change since this series began on ' + firstThisYear.date.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) + ' - it has no prior-year close to measure year-to-date from.'
+          : 'Year-to-Date Return - the % change from the last closing value of prior year December 31 to today.';
         let ytdStr = '-', ytdCls = '';
         if (ytdBase) {
           const ytd = ((latest.value - ytdBase) / ytdBase * 100);
@@ -20777,11 +20822,11 @@ function buildMaster() {
         const escHtml = t => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
         const unitLabel = isRoute ? (ROUTE_UNIT_LABEL[prod.unit] || prod.unit) : '';
         const tooltipText = isRoute
-          ? `${prod.vessel_class} · ${prod.title}. Unit: ${unitLabel}. Source: ${prod.source}. History ${prod.first} to ${prod.last} (${prod.row_count.toLocaleString('en-US')} prints).` + (prod.note ? ' ' + prod.note : '')
+          ? (ROUTE_TT[prod.card_id] || `${prod.vessel_class} · ${prod.title}.`) +
+            (prod.unit === 'worldscale' ? ' Worldscale points are a percentage of the route\'s published flat rate (100 = flat rate).' : '') +
+            ` History ${prod.first} to ${prod.last} (${prod.row_count.toLocaleString('en-US')} daily prints).`
           : (prod.tt || `${prod.label} - Displays full price history, rolling analytics, and 52-week parameters.`);
-        const routeMetaHtml = isRoute
-          ? `<div class="index-route-meta" style="font-size:11px;color:var(--text-muted);margin-top:2px;">${escHtml(prod.vessel_class)} · ${escHtml(unitLabel)} · ${escHtml(prod.source)} · since ${escHtml(prod.first.slice(0, 7))}</div>`
-          : '';
+        const routeMetaHtml = '';
 
         card.innerHTML = `
       <div class="card-header-bar" data-tooltip="${escAttr(tooltipText)}" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">
@@ -20819,7 +20864,7 @@ function buildMaster() {
           <div class="index-stat-mini-val ${w52PosCls}">${w52PosStr}</div>
         </div>
         <div class="index-stat-mini">
-          <div class="index-stat-mini-label" data-tooltip="Year-to-Date Return - the % change from the last closing value of prior year December 31 to today.">YTD %</div>
+          <div class="index-stat-mini-label" data-tooltip="${ytdTip}">${ytdLabel}</div>
           <div class="index-stat-mini-val ${ytdCls}">${ytdStr}</div>
         </div>
         <div class="index-stat-mini">
@@ -25793,29 +25838,6 @@ function buildMaster() {
     };
 
     // =========================================================================
-    // LPG SEGMENT TOGGLE STATE & HANDLER
-    // =========================================================================
-    window.lpgSegment = window.lpgSegment || 'vlgc';
-    window.setLpgSegment = function(seg) {
-      window.lpgSegment = seg;
-      ['vlgc', 'mgc', 'handy', 'all'].forEach(function(s) {
-        const btn = document.getElementById('lpgSeg' + (s === 'vlgc' ? 'Vlgc' : (s === 'mgc' ? 'Mgc' : (s === 'handy' ? 'Handy' : 'All'))));
-        if (btn) {
-          if (s === seg) {
-            btn.classList.add('active');
-            btn.style.background = 'var(--accent)';
-            btn.style.color = '#fff';
-          } else {
-            btn.classList.remove('active');
-            btn.style.background = 'var(--card)';
-            btn.style.color = 'var(--text-muted)';
-          }
-        }
-      });
-      renderLPGFreightChart(window.currentProduct || 'cape');
-    };
-
-    // =========================================================================
     // LNG SCALE / SERIES TOGGLE STATE & HANDLER
     // =========================================================================
     window.lngScale = window.lngScale || '174k';
@@ -27508,243 +27530,6 @@ function buildMaster() {
       hud('comHudCoal', 'comHudCoal', 'coal_australian');
       hud('comHudBrent', 'comHudBrent', 'crude_brent');
       hud('comHudTotalIdx', 'comHudTotalIdx', 'total_index');
-    }
-
-    // =========================================================================
-    // LPG FREIGHT & CHARTER RATES CHART
-    // =========================================================================
-    window.lpgUnitMode = 'day';
-    var _lpgUnitMode = 'day';
-
-    function setLPGUnit(unit) {
-      window.setLPGUnit = setLPGUnit;
-      _lpgUnitMode = unit;
-      window.lpgUnitMode = unit;
-      var btnDay = document.getElementById('lpgUnitDay');
-      var btnMonth = document.getElementById('lpgUnitMonth');
-      if (btnDay) {
-        btnDay.classList.toggle('active', unit === 'day');
-        btnDay.style.background = (unit === 'day') ? 'var(--accent)' : 'var(--card)';
-        btnDay.style.color = (unit === 'day') ? '#fff' : 'var(--text-muted)';
-      }
-      if (btnMonth) {
-        btnMonth.classList.toggle('active', unit === 'month');
-        btnMonth.style.background = (unit === 'month') ? 'var(--accent)' : 'var(--card)';
-        btnMonth.style.color = (unit === 'month') ? '#fff' : 'var(--text-muted)';
-      }
-      var productKey = (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'cape';
-      try { renderLPGFreightChart(productKey); } catch (e) { console.error(e); }
-    }
-
-    function renderLPGFreightChart(productKey) {
-      var container = document.getElementById('lpgContainer');
-      var canvas = document.getElementById('lpgFreightChart');
-      if (!canvas || !container) return;
-
-      var spotRows = DATA.lpgSpot || [];
-      var tcRows = DATA.lpgCharter || [];
-      var blpgRows = DATA.blpg || [];
-
-      if (!spotRows.length && !tcRows.length) {
-        container.style.display = 'none';
-        return;
-      }
-      container.style.display = '';
-
-      var isDay = (window.lpgUnitMode || _lpgUnitMode) !== 'month';
-      var activeSegment = window.lpgSegment || 'vlgc';
-
-      // Scaling helper: daily TCE ($/d) vs monthly PCM ($M/mo)
-      var scaleVal = function (v) {
-        if (v == null || isNaN(v)) return null;
-        return isDay ? (v / 30.4375) : (v / 1e6);
-      };
-
-      // Unify all series onto a single aligned grid
-      var dateMap = {};
-      spotRows.forEach(function (r) {
-        if (!r.date) return;
-        var ds = r.dateStr || fmtDate(r.date);
-        if (!dateMap[ds]) dateMap[ds] = { date: r.date, dateStr: ds };
-        dateMap[ds].vlgc_spot = r.vlgc_spot;
-        dateMap[ds].mgc_spot = r.mgc_spot;
-      });
-      tcRows.forEach(function (r) {
-        if (!r.date) return;
-        var ds = r.dateStr || fmtDate(r.date);
-        if (!dateMap[ds]) dateMap[ds] = { date: r.date, dateStr: ds };
-        dateMap[ds].vlgc_tc = r.vlgc_84k_tc;
-        dateMap[ds].mgc_tc = r.mgc_38k_tc;
-        dateMap[ds].hdy_tc = r.hdy_22k_tc;
-      });
-      blpgRows.forEach(function (r) {
-        if (!r.date) return;
-        var ds = r.dateStr || fmtDate(r.date);
-        if (!dateMap[ds]) dateMap[ds] = { date: r.date, dateStr: ds };
-        dateMap[ds].blpg = r.blpg || r.close;
-      });
-
-      var allDates = Object.values(dateMap).sort(function (a, b) { return a.date - b.date; });
-      if (!allDates.length) return;
-
-      // Linear-interpolate sparse period TC series
-      ['vlgc_tc', 'mgc_tc', 'hdy_tc', 'vlgc_spot', 'mgc_spot', 'blpg'].forEach(function (field) {
-        var validIdx = [];
-        allDates.forEach(function (r, i) { if (r[field] != null) validIdx.push(i); });
-        if (validIdx.length >= 2) {
-          for (var vi = 0; vi < validIdx.length - 1; vi++) {
-            var ia = validIdx[vi], ib = validIdx[vi + 1];
-            var dtA = allDates[ia].date.getTime(), dtB = allDates[ib].date.getTime();
-            if (dtB - dtA <= 65 * 86400000) {
-              var va = allDates[ia][field], vb = allDates[ib][field];
-              for (var j = ia + 1; j < ib; j++) {
-                allDates[j][field] = va + (vb - va) * (j - ia) / (ib - ia);
-              }
-            }
-          }
-        }
-        if (validIdx.length > 0) {
-          var lastI = validIdx[validIdx.length - 1];
-          for (var k = lastI + 1; k < allDates.length; k++) allDates[k][field] = allDates[lastI][field];
-        }
-      });
-
-      initDualRangeSlider('lpgRange', allDates, function (isManual) { if (isManual) renderLPGFreightChart(productKey); });
-      var sEl = document.getElementById('lpgRangeStart');
-      var eEl = document.getElementById('lpgRangeEnd');
-      var s = sEl ? parseInt(sEl.value) : 0;
-      var e = eEl ? parseInt(eEl.value) : allDates.length - 1;
-      var rows = allDates.slice(s, e + 1);
-      if (!rows.length) return;
-
-      var labels = rows.map(function (r) { return fmtDate(r.date); });
-      var latest = rows[rows.length - 1];
-
-      // Compute Spot-to-Period Arbitrage Spread
-      var rawSpot = (activeSegment === 'mgc' ? latest.mgc_spot : latest.vlgc_spot) || (latest.vlgc_spot || 0);
-      var rawTc = (activeSegment === 'mgc' ? latest.mgc_tc : (activeSegment === 'handy' ? latest.hdy_tc : latest.vlgc_tc)) || (latest.vlgc_tc || 0);
-      var rawSpread = rawSpot - rawTc;
-      var scaledSpread = isDay ? (rawSpread / 30.4375) : (rawSpread / 1e6);
-      var premPct = rawTc > 0 ? ((rawSpot - rawTc) / rawTc) * 100 : 0;
-
-      var spreadEl = document.getElementById('lpgHudSpotTcSpread');
-      var premEl = document.getElementById('lpgHudPremPct');
-      var blpgEl = document.getElementById('lpgHudBlpgIndex');
-      var badge = document.getElementById('lpgRatesBadge');
-
-      var spreadCard = document.getElementById('lpgHudSpreadCard');
-      var premCard = document.getElementById('lpgHudPremCard');
-      var blpgCard = document.getElementById('lpgHudBlpgCard');
-
-      if (spreadEl) {
-        spreadEl.textContent = (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString('en-US') + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo');
-        spreadEl.style.color = scaledSpread >= 0 ? '#3fb950' : '#f85149';
-      }
-      if (premEl) {
-        premEl.textContent = (premPct >= 0 ? '+' : '') + premPct.toFixed(1) + '%';
-        premEl.style.color = premPct >= 0 ? '#3fb950' : '#f85149';
-      }
-      if (blpgEl) {
-        blpgEl.textContent = latest.blpg != null ? Math.round(latest.blpg).toLocaleString('en-US') + ' pts' : '—';
-      }
-
-      if (spreadCard) {
-        spreadCard.setAttribute('data-tooltip', ' ');
-        spreadCard.setAttribute('data-tt-type', 'lpg-spot-tc-spread');
-        spreadCard.setAttribute('data-tt-seg', activeSegment);
-        spreadCard.setAttribute('data-tt-spread', (scaledSpread >= 0 ? '+$' : '-$') + (isDay ? Math.round(Math.abs(scaledSpread)).toLocaleString('en-US') + '/d' : Math.abs(scaledSpread).toFixed(2) + 'M/mo'));
-        spreadCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString('en-US') + '/day');
-        spreadCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString('en-US') + '/day');
-      }
-      if (premCard) {
-        premCard.setAttribute('data-tooltip', ' ');
-        premCard.setAttribute('data-tt-type', 'lpg-spot-tc-premium');
-        premCard.setAttribute('data-tt-seg', activeSegment);
-        premCard.setAttribute('data-tt-prem', (premPct >= 0 ? '+' : '') + premPct.toFixed(1) + '%');
-        premCard.setAttribute('data-tt-spot', '$' + Math.round(rawSpot / 30.4375).toLocaleString('en-US') + '/day');
-        premCard.setAttribute('data-tt-tc', '$' + Math.round(rawTc / 30.4375).toLocaleString('en-US') + '/day');
-      }
-      if (blpgCard) {
-        blpgCard.setAttribute('data-tooltip', ' ');
-        blpgCard.setAttribute('data-tt-type', 'lpg-blpg-index');
-        blpgCard.setAttribute('data-tt-blpg', latest.blpg ? Math.round(latest.blpg).toLocaleString('en-US') + ' pts' : '—');
-      }
-
-      if (badge && latest) {
-        var badgeRate = scaleVal(rawTc);
-        badge.textContent = activeSegment.toUpperCase() + ' 1Y TC: ' + (isDay ? '$' + Math.round(badgeRate).toLocaleString('en-US') + '/d' : '$' + badgeRate.toFixed(2) + 'M/mo');
-      }
-
-      var lpgTitle = document.getElementById('lpgChartTitle');
-      if (lpgTitle && latest) {
-        lpgTitle.setAttribute('data-tooltip', ' ');
-        lpgTitle.setAttribute('data-tt-type', 'concept-lpg-freight');
-        lpgTitle.setAttribute('data-tt-spot', Math.round(rawSpot / 30.4375));
-        lpgTitle.setAttribute('data-tt-tc', Math.round(rawTc / 30.4375));
-        lpgTitle.setAttribute('data-tt-spread', Math.round(scaledSpread));
-        lpgTitle.setAttribute('data-tt-blpg', latest.blpg ? Math.round(latest.blpg) : 0);
-      }
-
-      var datasets = [];
-      var unitSuffix = isDay ? ' ($/day TCE)' : ' ($M/mo PCM)';
-
-      if (activeSegment === 'vlgc') {
-        datasets.push({ label: 'Ras Tanura–Chiba VLGC Spot' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.vlgc_spot); }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'VLGC 84k 1Y TC' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.vlgc_tc); }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'Baltic LPG Index (BLPG)', data: rows.map(function (r) { return r.blpg; }), borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, yAxisID: 'yRight', tension: 0.1, spanGaps: true });
-      } else if (activeSegment === 'mgc') {
-        datasets.push({ label: 'MGC Spot Rate' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.mgc_spot); }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'MGC 38k 1Y TC' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.mgc_tc); }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 2, borderDash: [4, 4], pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'Baltic LPG Index (BLPG)', data: rows.map(function (r) { return r.blpg; }), borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, yAxisID: 'yRight', tension: 0.1, spanGaps: true });
-      } else if (activeSegment === 'handy') {
-        datasets.push({ label: 'Handy 22k 1Y TC' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.hdy_tc); }), borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'Baltic LPG Index (BLPG)', data: rows.map(function (r) { return r.blpg; }), borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, yAxisID: 'yRight', tension: 0.1, spanGaps: true });
-      } else {
-        datasets.push({ label: 'VLGC Spot' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.vlgc_spot); }), borderColor: '#58a6ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'VLGC 84k 1Y TC' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.vlgc_tc); }), borderColor: '#3fb950', backgroundColor: 'transparent', borderWidth: 1.8, borderDash: [4, 4], pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'MGC 38k 1Y TC' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.mgc_tc); }), borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [3, 3], pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'Handy 22k 1Y TC' + unitSuffix, data: rows.map(function (r) { return scaleVal(r.hdy_tc); }), borderColor: '#f0883e', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [2, 2], pointRadius: 0, yAxisID: 'yLeft', tension: 0.1, spanGaps: true });
-        datasets.push({ label: 'Baltic LPG Index', data: rows.map(function (r) { return r.blpg; }), borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.2, pointRadius: 0, yAxisID: 'yRight', tension: 0.1, spanGaps: true });
-      }
-
-      destroyChart('lpgFreightChart');
-      updateOrCreateChart('lpgFreightChart', canvas, {
-        type: 'line',
-        data: { labels: labels, datasets: datasets },
-        options: {
-          responsive: true,
-          maintainAspectRatio: false,
-          interaction: { mode: 'index', intersect: false },
-          plugins: {
-            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
-            tooltip: {
-              callbacks: {
-                label: function (c) {
-                  var val = c.parsed.y;
-                  if (val == null) return ' ' + c.dataset.label + ': —';
-                  if (c.dataset.yAxisID === 'yRight') return ' ' + c.dataset.label + ': ' + Math.round(val).toLocaleString('en-US') + ' pts';
-                  return ' ' + c.dataset.label + ': ' + (isDay ? '$' + Math.round(val).toLocaleString('en-US') + '/day' : '$' + val.toFixed(2) + 'M/month');
-                }
-              }
-            }
-          },
-          scales: {
-            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 6, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            yLeft: {
-              position: 'left',
-              grid: { color: '#151a22' },
-              ticks: { font: { size: 11 }, callback: function (v) { return isDay ? '$' + Math.round(v).toLocaleString('en-US') : '$' + v.toFixed(1) + 'M'; } },
-              title: { display: true, text: isDay ? 'Daily TCE Equivalent ($/day)' : 'Monthly Hire ($M/month)', color: '#8b949e', font: { size: 11 } }
-            },
-            yRight: {
-              position: 'right',
-              grid: { drawOnChartArea: false },
-              ticks: { font: { size: 11 }, callback: function (v) { return v != null ? Math.round(v) : ''; } },
-              title: { display: true, text: 'Baltic LPG Index', color: '#8b949e', font: { size: 11 } }
-            }
-          }
-        }
-      });
     }
 
     // =========================================================================
@@ -32301,7 +32086,7 @@ function renderSignalsTab(productKey) {
       ];
 
       // For each product, get latest value and value N days ago
-      var prodLabels = { bdiy: 'BDI', cape: 'Capesize', panama: 'Panamax', suprama: 'Supramax', handysize: 'Handysize', cleantanker: 'Clean Tanker', dirtytanker: 'Dirty Tanker', bdry_spot: 'BDRY Spot', bdryff: 'BDRYFF', bwetff: 'BWETFF', bdry: 'BDRY Stock', bwet: 'BWET Stock', clmi: 'CLMI', cldbi: 'CLDBI', clti: 'CLTI', clci: 'CLCI', cllg: 'CLLG', clmfi: 'CLMFI', clmlp: 'CLMLP' };
+      var prodLabels = { bdiy: 'BDI', cape: 'Capesize', panama: 'Panamax', suprama: 'Supramax', handysize: 'Handysize', cleantanker: 'Clean Tanker', dirtytanker: 'Dirty Tanker', bdry_spot: 'BDRY Spot', bdryff: 'BDRYFF', bwetff: 'BWETFF', bdry: 'BDRY Stock', bwet: 'BWET Stock', clmi: 'CLMI', cldbi: 'CLDBI', clti: 'CLTI', clci: 'CLCI', cllg: 'CLLG', clmfi: 'CLMFI', clmlp: 'CLMLP', blng: 'Baltic LNG', blpg: 'Baltic LPG', bai: 'Baltic Air Freight' };
 
       var html = '<table class="heatmap-table" style="min-width:520px;width:100%"><thead><tr>';
       html += '<th style="text-align:left">Product</th>';
@@ -32313,6 +32098,7 @@ function renderSignalsTab(productKey) {
         if (!rows.length) { html += '<tr><td>' + prodLabels[key] + '</td>' + periods.map(function () { return '<td>-</td>'; }).join('') + '</tr>'; return; }
         var latest = rows[rows.length - 1];
         var latestVal = latest[key];
+        if (latestVal == null) { html += '<tr><td style="text-align:left;color:var(--text);font-weight:600;padding:8px 10px;">' + (prodLabels[key] || key) + '</td>' + periods.map(function () { return '<td style="color:#484f58">-</td>'; }).join('') + '</tr>'; return; }
 
         html += '<tr><td style="text-align:left;color:var(--text);font-weight:600;padding:8px 10px;">' + prodLabels[key] + '</td>';
         periods.forEach(function (p) {
@@ -45302,18 +45088,6 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Model Status</span><span class="rt-val">32 months 2024-01→2026-08, 60-98.5% clipped, WAus fixed 48Mt/mo</span></div>`;
           html += `<div class="rt-note">Interactive simulation demonstrating why expanding long-haul trades (Guinea Bauxite, Brazil Ore, US Gulf & Guyana Crude) structurally tighten global dry bulk and tanker fleet capacity. When active fleet utilization exceeds 88%–90%, freight rates experience non-linear super-cycle repricing.</div>`;
         }
-        else if (type === 'concept-lpg-freight') {
-          const spot = target.getAttribute('data-tt-spot') || 'n/a';
-          const tc = target.getAttribute('data-tt-tc') || 'n/a';
-          const spread = target.getAttribute('data-tt-spread') || 'n/a';
-          const blpg = target.getAttribute('data-tt-blpg') || 'n/a';
-          html = `<div class="rt-title">LPG Freight &amp; Period Charter Rates</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Ras Tanura → Chiba Spot</span><span class="rt-val">$${Number(spot).toLocaleString('en-US')}/day</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">VLGC 84k 1Y Time Charter</span><span class="rt-val">$${Number(tc).toLocaleString('en-US')}/day</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Spot-Period Spread</span><span class="rt-val ${Number(spread) >= 0 ? 'pos' : 'neg'}">${Number(spread) >= 0 ? '+' : ''}$${Number(spread).toLocaleString('en-US')}/day</span></div>`;
-          if (blpg && blpg !== '0' && blpg !== 'n/a') html += `<div class="rt-row"><span class="rt-label">Baltic LPG Index</span><span class="rt-val" style="color:#e3b341">${blpg} pts</span></div>`;
-          html += `<div class="rt-note">Monitors Arabian Gulf to Japan VLGC benchmark economics alongside 1-year period charter fixtures and the Baltic LPG index.</div>`;
-        }
         else if (type === 'basin-net-spread') {
           html = `<div class="rt-title">Basin Arbitrage Net Spread</div>`;
           html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;"><strong>Formula</strong>: Atlantic Time Charter Rate ($/day) − Pacific Time Charter Rate ($/day).</div>`;
@@ -45433,14 +45207,6 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Spot Premium %</span><span class="rt-val ${prem.startsWith('+') ? 'pos' : 'neg'}" style="font-weight:700;">${prem}</span></div>`;
             if (spot) html += `<div class="rt-row"><span class="rt-label">Spot Rate</span><span class="rt-val">${spot}</span></div>`;
             if (tc) html += `<div class="rt-row"><span class="rt-label">1Y TC Rate</span><span class="rt-val">${tc}</span></div>`;
-          }
-        }
-        else if (type === 'lpg-blpg-index') {
-          const blpg = target.getAttribute('data-tt-blpg');
-          html = `<div class="rt-title">Baltic LPG Index (BLPG)</div>`;
-          html += `<div style="font-size:11px;color:#8b949e;margin-bottom:8px;line-height:1.35;">Official Baltic Exchange index evaluating global Very Large Gas Carrier (VLGC 84,000 m³) freight benchmarks.</div>`;
-          if (blpg) {
-            html += `<div class="rt-row" style="border-top:1px solid rgba(48,54,61,0.5);padding-top:6px;margin-top:6px;"><span class="rt-label">Latest BLPG Index</span><span class="rt-val" style="color:#e3b341;font-weight:700;">${blpg}</span></div>`;
           }
         }
         else if (type === 'lng-payback-yield') {
@@ -51648,9 +51414,9 @@ function renderFfaForwardStrip() {
         ' | Click to chart today';
       var border = hot ? (mv.pct > 0 ? '1px solid rgba(63,185,80,0.7)' : '1px solid rgba(248,81,73,0.7)') : (isSel ? '1px solid var(--accent)' : '1px solid var(--border)');
       return '<div role="button" tabindex="0" onclick="selectFfaLiveTenor(\'' + seg.key + '\',\'' + escapeHtml(t.name) + '\')" style="cursor:pointer;flex:1;min-width:76px;padding:6px 8px;background:var(--card-subtle);border:' + border + ';border-radius:4px;text-align:center;" data-tooltip="' + escapeHtml(tt) + '">' +
-        '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(t.name) + (hot ? ' ⚑' : '') + '</div>' +
+        '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(t.name) + '</div>' +
         '<div style="font-size:12px;font-weight:700;font-family:\'IBM Plex Mono\',monospace;color:var(--text-bright);margin-bottom:2px;">$' + Math.round(t.price).toLocaleString('en-US') + '</div>' +
-        '<div style="font-size:10px;color:' + mv.color + ';font-family:\'IBM Plex Mono\',monospace;white-space:nowrap;">' + mv.text + '</div>' +
+        '<div style="font-size:10px;line-height:1.3;color:' + mv.color + ';font-family:\'IBM Plex Mono\',monospace;overflow-wrap:anywhere;">' + mv.text + '</div>' +
         '</div>';
     }).join('');
     return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;display:flex;flex-direction:column;gap:8px;">' +
@@ -51666,10 +51432,10 @@ function renderFfaForwardStrip() {
   if (alertBox) {
     alertBox.innerHTML = alerts.length
       ? '<div style="padding:8px 10px;border:1px solid rgba(210,153,34,0.5);background:rgba(210,153,34,0.1);border-radius:5px;color:var(--text);">' +
-        '<b>⚑ Live market has moved ' + FFA_LIVE_ALERT_PCT + '% or more from the SGX settlement:</b> ' +
+        '<b>Alert: live market has moved ' + FFA_LIVE_ALERT_PCT + '% or more from the SGX settlement:</b> ' +
         alerts.map(function (a) { return escapeHtml(a.seg.label + ' ' + a.t.name) + ' <span style="color:' + a.mv.color + ';font-family:\'IBM Plex Mono\',monospace;">' + a.mv.text + '</span>'; }).join(' · ') +
         '</div>'
-      : '<div style="color:var(--text-muted);" data-tooltip="Alert level: a live price ' + FFA_LIVE_ALERT_PCT + '% or more above or below its last SGX settlement. Such a contract gets a coloured border and a flag, and is listed here.">No tenor is ' + FFA_LIVE_ALERT_PCT + '% or more away from its SGX settlement' + (ageMin <= 30 ? ' right now.' : ' at the last read.') + '</div>';
+      : '<div style="color:var(--text-muted);" data-tooltip="Alert level: a live price ' + FFA_LIVE_ALERT_PCT + '% or more above or below its last SGX settlement. Such a contract gets a coloured border and is listed here.">No tenor is ' + FFA_LIVE_ALERT_PCT + '% or more away from its SGX settlement' + (ageMin <= 30 ? ' right now.' : ' at the last read.') + '</div>';
   }
   renderFfaLiveDetail();
 }

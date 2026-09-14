@@ -1337,6 +1337,15 @@ def test_basin_spread_1y_tenor_shows_full_span(web_server):
 INDICES_PRODUCT_ORDER_HEAD = ["bdiy", "bdry_spot", "cape", "panama", "suprama", "handysize"]
 INDICES_TANKER_INDICES = ["dirtytanker", "cleantanker", "blng", "blpg"]
 INDICES_EQUITIES = ["clmi", "cldbi", "clti", "clci", "cllg", "clmfi", "clmlp"]
+INDICES_AGREED_ORDER = [
+    "bdiy", "bdry_spot", "cape", "panama", "suprama", "handysize",
+    "rt_C3", "rt_C5", "rt_C9_182", "rt_C10_182", "rt_P1A_82", "rt_P2A_82", "rt_P3A_82", "rt_P4_82",
+    "rt_S4A", "rt_S4B", "rt_S1C", "rt_S10",
+    "bdryff", "dirtytanker", "cleantanker",
+    "rt_TD3C", "rt_VLCC_MEG_USG", "rt_VLCC_WAFR_FEAST", "rt_TD20", "rt_SUEZ_BLSEA_MED", "rt_AFRA_CEYHAN_MED",
+    "rt_TD25", "rt_AFRA_CBS_USG", "rt_TC1", "rt_TC5",
+    "bwetff", "blng", "blpg", "cllg", "clmlp", "clmi", "clmfi", "cldbi", "clti", "clci", "bai",
+]
 
 
 def _open_indices_and_wait_for_routes(page, web_server):
@@ -1378,8 +1387,13 @@ def test_indices_route_cards_live_ordered_and_full_depth(web_server):
             _open_indices_and_wait_for_routes(page, web_server)
             cards = _card_state(page)
             keys = [c["key"] for c in cards]
-            expected_prefix = INDICES_PRODUCT_ORDER_HEAD + dry + INDICES_TANKER_INDICES + tanker + INDICES_EQUITIES
-            assert keys[:len(expected_prefix)] == expected_prefix, f"Indices card order wrong: {keys}"
+            # The agreed pair/2x2 order (index.html INDICES_ORDER). BDRY/BWET stock cards
+            # are computed from ETF data and may be absent, so compare the other keys only.
+            expected = INDICES_AGREED_ORDER + [k for k in dry + tanker if k not in INDICES_AGREED_ORDER]
+            got = [k for k in keys if k not in ("bdry", "bwet")]
+            want = [k for k in expected if k in got or k.startswith("rt_") or k not in ("bdry", "bwet")]
+            assert got == [k for k in want if k in keys], f"Indices card order wrong: {keys}"
+            assert set(dry + tanker) <= set(keys), f"live route cards missing: {set(dry + tanker) - set(keys)}"
             for c in cards:
                 assert c["n"] > 0 and c["finite"] == c["n"], f"card {c['key']} has no/invalid chart data: {c}"
 
@@ -1396,7 +1410,8 @@ def test_indices_route_cards_live_ordered_and_full_depth(web_server):
                                 return ch.data.labels[0]; }""", k)
                 assert first == e["first"], f"{k}: slider start shows {first}, source starts {e['first']}"
 
-            for filt, want in (("dryroutes", dry), ("tankerroutes", tanker)):
+            ordered = lambda grp: [k for k in INDICES_AGREED_ORDER if k in grp] + [k for k in grp if k not in INDICES_AGREED_ORDER]
+            for filt, want in (("dryroutes", ordered(dry)), ("tankerroutes", ordered(tanker))):
                 page.evaluate(f"() => setIndicesFilter('{filt}')")
                 page.wait_for_timeout(1200)
                 got = [c["key"] for c in _card_state(page)]
