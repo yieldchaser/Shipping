@@ -63,7 +63,7 @@ def test_recorder_workflow_covers_london_session_and_pages_reads_raw():
     wf = yaml.safe_load((ROOT / ".github/workflows/ffa_live_recorder.yml").read_text(encoding="utf-8"))
     on = wf.get("on") or wf.get(True)
     crons = [c["cron"] for c in on["schedule"]]
-    assert crons == ["55 5 * * 1-5", "5 12 * * 1-5"]
+    assert crons == ["5 0 * * 1-5", "55 5 * * 1-5", "5 12 * * 1-5"]
     run = json.dumps(wf["jobs"]["record"]["steps"])
     assert "--interval 120" in run and "--push" in run and "12:10" in run and "18:30" in run
     html = (ROOT / "index.html").read_text(encoding="utf-8")

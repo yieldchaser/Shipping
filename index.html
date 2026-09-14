@@ -13205,16 +13205,16 @@
           <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
             <div style="display:flex;align-items:center;gap:8px;">
               <span style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">FORWARD FFA STRIP</span>
-              <span class="badge" id="ffaStripAsOf" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Loading…</span>
+              <span class="badge" id="ffaStripAsOf" data-tooltip="Time of the latest price read. Reads run every 2 minutes on weekdays 00:05-18:30 UTC and reach this page within about 10-15 minutes. Shows Last read with the time once the data is over 30 minutes old: outside those hours, at weekends, or if a run was missed." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Loading…</span>
             </div>
-            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Dry-bulk FFAs trade between brokers during the London day; SGX clears them and publishes one settlement price per contract each evening (UTC). This strip shows the live traded price, read every 2 minutes on weekdays 06:00-18:30 UTC, against the last SGX settlement, so a move shows up hours before the next settlement. Quarter and calendar settlements are the average of their monthly contracts. Click a price to chart today.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
+            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Dry-bulk FFAs trade between brokers during the London day; SGX clears them and publishes one settlement price per contract each evening (UTC). This strip shows the live traded price, read every 2 minutes on weekdays 00:05-18:30 UTC (Singapore morning to London close), against the last SGX settlement, so a move shows up hours before the next settlement. Quarter and calendar settlements are the average of their monthly contracts. Click a price to chart today.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
           </div>
           <div id="ffaStripGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
           <div id="ffaLiveAlerts" style="margin-top:10px;font-size:12px;"></div>
           <div id="ffaLiveDetail" style="margin-top:10px;background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">
             <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap;">
               <span id="ffaLiveChartTitle" style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">SESSION</span>
-              <span style="font-size:11px;color:var(--text-muted);">Live price (UTC) vs previous SGX settlement (dashed)</span>
+              <span style="font-size:11px;color:var(--text-muted);" data-tooltip="Blue: the live traded price for the selected contract today, stepping at each recorded change (UTC, true time spacing). Dashed: the last SGX settlement it is measured against. Click any price above to switch contract.">Live price (UTC) vs previous SGX settlement (dashed)</span>
             </div>
             <div style="position:relative;height:190px;"><canvas id="ffaLiveChart"></canvas></div>
           </div>
@@ -51544,6 +51544,31 @@ function loadFfaLive() {
 }
 window.loadFfaLive = loadFfaLive;
 
+var FFA_MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+var FFA_SEG_INFO = {
+  cape: 'Capesize FFA on the Baltic Capesize time-charter route average (SGX CWF)',
+  panamax: 'Panamax FFA on the Baltic Panamax time-charter route average (SGX PWF)',
+  supramax: 'Supramax FFA on the Baltic Supramax time-charter route average (SGX SWF)',
+  handysize: 'Handysize FFA on the Baltic Handysize time-charter route average (SGX HWF)'
+};
+
+// "Sep" -> "September 2026 month contract", "Q4" -> "Q4 2026 strip (Oct-Dec)", "Cal 27" -> "Calendar 2027 strip (Jan-Dec)".
+function ffaContractName(name, sessionDate) {
+  var d = new Date((sessionDate || '') + 'T00:00:00Z');
+  var y = isNaN(d) ? new Date().getUTCFullYear() : d.getUTCFullYear();
+  var m = isNaN(d) ? new Date().getUTCMonth() : d.getUTCMonth();
+  var cal = /^Cal\s*(\d{2})$/.exec(name);
+  if (cal) return 'Calendar 20' + cal[1] + ' strip (Jan-Dec)';
+  var q = /^Q([1-4])$/.exec(name);
+  if (q) {
+    var qs = (+q[1] - 1) * 3, qy = qs < m - (m % 3) ? y + 1 : y;
+    return 'Q' + q[1] + ' ' + qy + ' strip (' + FFA_MONTHS[qs] + '-' + FFA_MONTHS[qs + 2] + ')';
+  }
+  var mi = FFA_MONTHS.indexOf(name);
+  if (mi >= 0) return new Date(Date.UTC(mi < m ? y + 1 : y, mi, 1)).toLocaleDateString('en-GB', { month: 'long', year: 'numeric', timeZone: 'UTC' }) + ' month contract';
+  return name;
+}
+
 function ffaFmtMove(diff, settle) {
   var pct = settle ? diff / settle * 100 : 0;
   if (Math.abs(diff) < 0.5) return { text: 'unch', pct: 0, color: 'var(--text-muted)' };
@@ -51588,12 +51613,13 @@ function renderFfaForwardStrip() {
     var curveBadge = '';
     if (ts.length > 1) {
       var spread = ts[ts.length - 1].price - ts[0].price;
+      var curveTip = 'Curve shape: live ' + ts[ts.length - 1].name + ' $' + Math.round(ts[ts.length - 1].price).toLocaleString('en-US') + ' minus live ' + ts[0].name + ' $' + Math.round(ts[0].price).toLocaleString('en-US') + '. Backwardated: later contracts cheaper than the prompt month (market expects rates to fall). Contango: later contracts dearer. Flat: within $500.';
       if (spread < -500) {
-        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(248,81,73,0.15);color:#f85149;border:1px solid rgba(248,81,73,0.3);">Backwardated (-$' + Math.abs(Math.round(spread)).toLocaleString('en-US') + ')</span>';
+        curveBadge = '<span class="badge" data-tooltip="' + escapeHtml(curveTip) + '" style="font-size:11px;padding:2px 6px;background:rgba(248,81,73,0.15);color:#f85149;border:1px solid rgba(248,81,73,0.3);">Backwardated (-$' + Math.abs(Math.round(spread)).toLocaleString('en-US') + ')</span>';
       } else if (spread > 500) {
-        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Contango (+$' + Math.round(spread).toLocaleString('en-US') + ')</span>';
+        curveBadge = '<span class="badge" data-tooltip="' + escapeHtml(curveTip) + '" style="font-size:11px;padding:2px 6px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Contango (+$' + Math.round(spread).toLocaleString('en-US') + ')</span>';
       } else {
-        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(200,200,200,0.1);color:var(--text-muted);border:1px solid var(--border);">Flat</span>';
+        curveBadge = '<span class="badge" data-tooltip="' + escapeHtml(curveTip) + '" style="font-size:11px;padding:2px 6px;background:rgba(200,200,200,0.1);color:var(--text-muted);border:1px solid var(--border);">Flat</span>';
       }
     }
     var pills = ts.map(function (t) {
@@ -51601,11 +51627,14 @@ function renderFfaForwardStrip() {
       var hot = Math.abs(mv.pct) >= FFA_LIVE_ALERT_PCT;
       if (hot) alerts.push({ seg: seg, t: t, mv: mv });
       var isSel = FFA_LIVE.sel && FFA_LIVE.sel.seg === seg.key && FFA_LIVE.sel.tenor === t.name;
-      var range = (t.high != null && t.low != null) ? ' | Session: open $' + Math.round(t.open).toLocaleString('en-US') + ', high $' + Math.round(t.high).toLocaleString('en-US') + ', low $' + Math.round(t.low).toLocaleString('en-US') : '';
-      var tt = 'What: live FFA market price · ' + seg.label + ' ' + t.name +
-        ' | When: read ' + day + ' ' + hhmm +
-        ' | Move: vs previous SGX settlement $' + Math.round(t.settle).toLocaleString('en-US') + range +
-        ' | Click to chart the session';
+      var usd = function (x) { return '$' + Math.round(x).toLocaleString('en-US') + '/day'; };
+      var lastChange = (t.path && t.path.length) ? t.path[t.path.length - 1][0] + ' UTC' : hhmm;
+      var tt = 'What: ' + (FFA_SEG_INFO[seg.key] || seg.label) + ' · ' + ffaContractName(t.name, v.session_date) +
+        ' | Live: ' + usd(t.price) + ', last changed ' + lastChange + ', read ' + day + ' ' + hhmm +
+        ' | SGX settle: ' + usd(t.settle) + (/^(Q|Cal)/.test(t.name) ? ' (average of the latest published monthly settlements)' : ' (latest published settlement)') +
+        ' | Move: ' + mv.text + (hot ? ' · at or beyond the ' + FFA_LIVE_ALERT_PCT + '% alert level' : '') +
+        (t.high != null ? ' | Today: open ' + usd(t.open) + ', high ' + usd(t.high) + ', low ' + usd(t.low) : '') +
+        ' | Click to chart today';
       var border = hot ? (mv.pct > 0 ? '1px solid rgba(63,185,80,0.7)' : '1px solid rgba(248,81,73,0.7)') : (isSel ? '1px solid var(--accent)' : '1px solid var(--border)');
       return '<div role="button" tabindex="0" onclick="selectFfaLiveTenor(\'' + seg.key + '\',\'' + escapeHtml(t.name) + '\')" style="cursor:pointer;flex:1;min-width:76px;padding:6px 8px;background:var(--card-subtle);border:' + border + ';border-radius:4px;text-align:center;" data-tooltip="' + escapeHtml(tt) + '">' +
         '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(t.name) + (hot ? ' ⚑' : '') + '</div>' +
@@ -51616,7 +51645,7 @@ function renderFfaForwardStrip() {
     return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;display:flex;flex-direction:column;gap:8px;">' +
       '<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">' +
       '<div><span style="font-weight:700;font-size:12px;color:' + meta.color + ';font-family:\'IBM Plex Mono\',monospace;">' + escapeHtml(seg.label) + '</span> ' +
-      '<span style="font-size:11px;color:var(--text-muted);">' + meta.sub + '</span></div>' +
+      '<span style="font-size:11px;color:var(--text-muted);" data-tooltip="' + escapeHtml(FFA_SEG_INFO[seg.key] || seg.label) + '. Prices are USD per day.">' + meta.sub + '</span></div>' +
       curveBadge + '</div>' +
       '<div style="display:flex;gap:6px;flex-wrap:wrap;">' + pills + '</div>' +
       '</div>';
@@ -51629,7 +51658,7 @@ function renderFfaForwardStrip() {
         '<b>⚑ Live market has moved ' + FFA_LIVE_ALERT_PCT + '% or more from the SGX settlement:</b> ' +
         alerts.map(function (a) { return escapeHtml(a.seg.label + ' ' + a.t.name) + ' <span style="color:' + a.mv.color + ';font-family:\'IBM Plex Mono\',monospace;">' + a.mv.text + '</span>'; }).join(' · ') +
         '</div>'
-      : '<div style="color:var(--text-muted);">No tenor is ' + FFA_LIVE_ALERT_PCT + '% or more away from its SGX settlement' + (ageMin <= 30 ? ' right now.' : ' at the last read.') + '</div>';
+      : '<div style="color:var(--text-muted);" data-tooltip="Alert level: a live price ' + FFA_LIVE_ALERT_PCT + '% or more above or below its last SGX settlement. Such a contract gets a coloured border and a flag, and is listed here.">No tenor is ' + FFA_LIVE_ALERT_PCT + '% or more away from its SGX settlement' + (ageMin <= 30 ? ' right now.' : ' at the last read.') + '</div>';
   }
   renderFfaLiveDetail();
 }
