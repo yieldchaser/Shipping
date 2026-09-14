@@ -672,8 +672,9 @@ def _tracking_state(page):
             tracked: g('hudTrackedCount'),
             laden: g('hudPctLaden'),
             pix,
-            dimmed: document.querySelectorAll('.port-hub-pin.dimmed').length,
-            lit: document.querySelectorAll('.port-hub-pin.lit').length
+            // Port hubs are canvas circles: lit = sector highlight, dimmed = outside it.
+            dimmed: (window.__portHubPins ? __portHubPins.list : []).filter(i => i.marker.options.fillOpacity <= 0.25).length,
+            lit: (window.__portHubPins ? __portHubPins.list : []).filter(i => i.marker.options.fillOpacity >= 0.9).length
         };
     }""")
 
@@ -1517,12 +1518,12 @@ def test_cargo_flagship_units_guinea_volume_only_and_eia_has_data(web_server):
 
 
 def test_tracking_map_stays_light_and_interactive(web_server):
-    """Tracking map performance contract (2026-09-14).
+    """Tracking map contract (2026-09-14).
 
-    The live fleet (~8,000 vessels) draws on one canvas layer instead of one
-    Leaflet layer per vessel; a sector change updates the existing port pins in
-    place instead of recreating ~2,000 markers; pins outside the view are hidden
-    rather than laid out; and a click on a vessel dot still opens its popup.
+    The live fleet (~8,000 vessels) draws on one canvas layer; the ~2,000 ports
+    are canvas circles sized by calls rather than glowing DOM badges; a sector
+    change restyles the same circles; port names appear only when zoomed in, for
+    the busiest ports in view, without overlapping; a vessel click opens its popup.
     """
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -1533,7 +1534,7 @@ def test_tracking_map_stays_light_and_interactive(web_server):
             _boot(page, web_server)
             page.evaluate("() => window.switchTab('tracking')")
             page.wait_for_function(
-                "() => window.trackingMap && document.querySelectorAll('#trackingMap .port-hub-marker-icon').length > 500",
+                "() => window.trackingMap && window.__portHubPins && __portHubPins.list.length > 500",
                 timeout=40000)
             page.wait_for_timeout(4000)
             page.evaluate("() => document.getElementById('trackingMap').scrollIntoView({block: 'center'})")
@@ -1542,34 +1543,39 @@ def test_tracking_map_stays_light_and_interactive(web_server):
 
             state = page.evaluate("""() => {
                 let layers = 0; trackingMap.eachLayer(() => layers++);
-                const pins = [...document.querySelectorAll('#trackingMap .port-hub-marker-icon')];
                 return { layers, vessels: liveFleetMarkersLayer.getLayers().length,
-                         pins: pins.length, hidden: pins.filter(e => e.style.display === 'none').length };
+                         ports: __portHubPins.list.length,
+                         canvasPorts: __portHubPins.list.filter(i => i.marker instanceof L.CircleMarker).length,
+                         domMarkers: document.querySelectorAll('#trackingMap .leaflet-marker-icon').length,
+                         labels: document.querySelectorAll('#trackingMap .port-hub-label').length };
             }""")
             assert state["vessels"] > 5000, state
             assert state["layers"] < 3000, f"vessels must not be one map layer each: {state}"
-            assert 0 < state["hidden"] < state["pins"], f"off-screen pins must be hidden, on-screen shown: {state}"
+            assert state["canvasPorts"] == state["ports"], f"ports must draw on canvas, not as DOM pins: {state}"
+            assert state["domMarkers"] < 200, f"world view must not carry thousands of DOM markers: {state}"
+            assert state["labels"] == 0, f"no port labels at world zoom: {state}"
 
-            # a sector change rewrites the same pin elements
-            page.evaluate("() => { window.__pinEls = [...document.querySelectorAll('#trackingMap .port-hub-marker-icon')]; }")
+            # a sector change restyles the same circles
+            page.evaluate("() => { window.__portObjs = __portHubPins.list.map(i => i.marker); }")
             page.evaluate("() => setTrackingMapSector('Tankers')")
             page.wait_for_timeout(600)
-            same = page.evaluate("""() => {
-                const now = [...document.querySelectorAll('#trackingMap .port-hub-marker-icon')];
-                return { kept: now.filter(e => window.__pinEls.includes(e)).length, now: now.length,
-                         lit: document.querySelectorAll('.port-hub-pin.lit').length };
-            }""")
-            assert same["kept"] == same["now"] and same["lit"] > 0, f"pins must update in place: {same}"
+            same = page.evaluate("""() => ({
+                kept: __portHubPins.list.filter(i => window.__portObjs.includes(i.marker)).length,
+                now: __portHubPins.list.length,
+                lit: __portHubPins.list.filter(i => i.marker.options.fillOpacity >= 0.9).length })""")
+            assert same["kept"] == same["now"] and same["lit"] > 0, f"ports must restyle in place: {same}"
             page.evaluate("() => setTrackingMapSector('all')")
             page.wait_for_timeout(400)
 
-            # panning reveals hidden pins
-            page.evaluate("() => trackingMap.setView([15, -80], 4, {animate: false})")
-            page.wait_for_timeout(600)
-            shown_americas = page.evaluate("""() => portMarkersLayer.getLayers().filter(m => {
-                const ll = m.getLatLng(); return ll.lng < -60 && ll.lng > -100 && ll.lat > 0 && ll.lat < 30 && m._icon && m._icon.style.display !== 'none';
-            }).length""")
-            assert shown_americas > 0, "pins must reappear when the map moves to them"
+            # zooming in names the busiest ports in view, capped and non-overlapping
+            page.evaluate("() => trackingMap.setView([26, 52], 6, {animate: false})")
+            page.wait_for_timeout(800)
+            boxes = page.evaluate("""() => [...document.querySelectorAll('#trackingMap .port-hub-label span')].map(e => {
+                const r = e.getBoundingClientRect(); return [r.left, r.top, r.right, r.bottom]; })""")
+            assert 0 < len(boxes) <= 25, f"expected up to 25 port labels at zoom 6, got {len(boxes)}"
+            overlaps = sum(1 for a in range(len(boxes)) for b in range(a + 1, len(boxes))
+                           if boxes[a][0] < boxes[b][2] and boxes[a][2] > boxes[b][0] and boxes[a][1] < boxes[b][3] and boxes[a][3] > boxes[b][1])
+            assert overlaps == 0, f"{overlaps} port labels overlap"
 
             # click the vessel dot drawn nearest the map centre -> popup
             page.evaluate("() => trackingMap.setView([1.3, 103.8], 7, {animate: false})")

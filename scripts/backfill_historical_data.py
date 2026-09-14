@@ -190,8 +190,14 @@ def fetch_and_save_vessel_valuations():
         print(f"  [OK] Saved {len(df)} asset valuation rows to {out_path} ({df['date'].min()} -> {df['date'].max()})")
 
 def main():
-    backfill_bdi()
-    backfill_bai00()
+    import sys
+    # The BDI (1985-2007) and BAI00 backfills are one-off: both histories are already in
+    # the repo and kept current by the daily index updaters. Run daily, they crashed on the
+    # ISO dates the BDI updater writes (exit 1 on 2026-09-13/14, so this workflow's commit
+    # step never ran), and they would rewrite each file in the other's date format.
+    if "--with-index-backfill" in sys.argv:
+        backfill_bdi()
+        backfill_bai00()
     fearn_df = fetch_fearnleys_rates()
     backfill_tc_rates(fearn_df)
     fetch_and_save_vessel_valuations()

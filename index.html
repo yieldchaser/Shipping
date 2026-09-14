@@ -3521,8 +3521,10 @@
     .pd-detail-row { display: flex; justify-content: space-between; gap: 10px; }
     .pd-detail-k { color: var(--text-muted); flex: 0 0 46%; }
     .pd-detail-v { color: var(--text); text-align: right; font-family: 'IBM Plex Mono', monospace; }
-    .port-hub-pin.dimmed { opacity: 0.28; filter: grayscale(0.85); }
-    .port-hub-pin.lit { filter: drop-shadow(0 0 4px rgba(77,154,255,0.6)); }
+    .port-hub-label span { display: inline-block; white-space: nowrap; font: 600 10px/1.2 'IBM Plex Mono', monospace; color: #c9d1d9; text-shadow: 0 0 3px #0a0f16, 0 0 3px #0a0f16; pointer-events: none; }
+    .port-hub-label b { color: #79c0ff; font-weight: 700; }
+    .leaflet-tooltip.port-hub-tip { background: #161b22; color: #e6edf3; border: 1px solid #30363d; font-size: 11px; box-shadow: none; }
+    .leaflet-tooltip.port-hub-tip::before { border-top-color: #30363d; }
     .ph-table { width: 100%; border-collapse: collapse; font-size: var(--fs-micro); }
     .ph-table th { position: sticky; top: 0; background: #141c26; color: var(--text-muted); padding: 5px 8px; font-weight: 600; border-bottom: 1px solid var(--border); text-align: left; }
     .ph-table td { padding: 5px 8px; border-bottom: 1px solid #141b24; }
@@ -4118,7 +4120,7 @@
       height: 8px;
       border-radius: 50%;
     }
-    .map-legend-dot.berth { background: #3fb950; box-shadow: 0 2px 5px #3fb950; }
+    .map-legend-dot.berth { background: #4d9aff; }
     .map-legend-dot.anchor { background: #e3b341; box-shadow: 0 2px 5px #e3b341; }
     .map-legend-dot.reroute { background: #f85149; box-shadow: 0 2px 5px #f85149; }
     .map-legend-dot.strait { background: #4d9aff; box-shadow: 0 2px 5px #4d9aff; }
@@ -4214,29 +4216,6 @@
       display: flex;
       align-items: center;
       justify-content: center;
-    }
-
-    .port-hub-pin {
-      background: #1c2838;
-      border: 1.5px solid var(--accent);
-      border-radius: 12px;
-      padding: 1px 7px;
-      box-shadow: 0 2px 8px rgba(77, 154, 255, 0.4);
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      transition: transform 0.15s;
-    }
-    .port-hub-pin:hover {
-      transform: scale(1.15);
-      background: var(--accent);
-    }
-    .port-hub-badge {
-      font-size: var(--fs-micro);
-      font-weight: 700;
-      color: #fff;
-      font-family: 'IBM Plex Mono', monospace;
     }
 
     /* Signal Ocean-style Vessel Particulars Popup Card */
@@ -14774,8 +14753,8 @@ if (intelTabsContainer) {
             </div>
 
             <div class="map-legend-overlay">
-              <div class="map-legend-item"><span class="map-legend-dot berth"></span> Port calls (measured, size = YTD calls)</div>
-              <div class="map-legend-item"><span class="map-legend-dot anchor"></span> Disruption event (amber = ended)</div>
+              <div class="map-legend-item"><span class="map-legend-dot berth"></span> Port (circle size = calls YTD; names shown when zoomed in)</div>
+              <div class="map-legend-item"><span class="map-legend-dot anchor"></span> Disruption event (red beacon = ongoing, amber ring = ended)</div>
               <div class="map-legend-item"><span class="map-legend-dot strait"></span> Strategic Maritime Chokepoint</div>
             </div>
 
@@ -18288,12 +18267,12 @@ if (intelTabsContainer) {
           .then(res => res.ok ? res.json() : null)
           .then(data => { DATA.seabrokersCatalog = data; if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters(); })
           .catch(err => { console.warn('[seabrokersCatalog fetch error]', err); DATA.seabrokersCatalog = null; }),
-        fetch('data/derived/fearnleys_desk_tenor.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnDeskTenor = d; }).catch(() => {}),
-        fetch('data/derived/fearnleys_nb_prices.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnNbPrices = d; }).catch(() => {}),
-        fetch('data/derived/fearnleys_asset_curves.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnAssetCurves = d; }).catch(() => {}),
-        fetch('data/derived/fearnleys_gas_extra.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnGasExtra = d; }).catch(() => {}),
-        fetch('data/derived/fearnleys_fixtures_tape.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnFixturesTape = d; }).catch(() => {}),
-        fetch('data/derived/fearnleys_fixtures_facets.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.fearnFixturesFacets = d; }).catch(() => {}),
+        fearnJsonOnce('data/derived/fearnleys_desk_tenor.json', 'fearnDeskTenor').catch(() => {}),
+        fearnJsonOnce('data/derived/fearnleys_nb_prices.json', 'fearnNbPrices').catch(() => {}),
+        fearnJsonOnce('data/derived/fearnleys_asset_curves.json', 'fearnAssetCurves').catch(() => {}),
+        fearnJsonOnce('data/derived/fearnleys_gas_extra.json', 'fearnGasExtra').catch(() => {}),
+        fearnJsonOnce('data/derived/fearnleys_fixtures_tape.json', 'fearnFixturesTape').catch(() => {}),
+        fearnJsonOnce('data/derived/fearnleys_fixtures_facets.json', 'fearnFixturesFacets').catch(() => {}),
         loadIntelligenceData()
       ]).then(() => {
         try {
@@ -41243,7 +41222,15 @@ function initTrackingMap() {
     // first canvas in the overlay pane, beneath any track or route drawn later.
     liveFleetMarkersLayer = createFleetDotsLayer().addTo(trackingMap);
     chokepointMarkersLayer = L.layerGroup().addTo(trackingMap);
-    portMarkersLayer = L.layerGroup().addTo(trackingMap);
+    // Feature group so one tooltip and one popup serve all ~2,000 port circles.
+    portMarkersLayer = L.featureGroup().addTo(trackingMap);
+    portMarkersLayer.bindTooltip(function (layer) {
+      var p = layer.options.portHub;
+      return p ? '<b>' + escapeHtml(p.name) + '</b> · ' + portHubTotal(p).toLocaleString('en-US') + ' calls YTD' : '';
+    }, { direction: 'top', offset: [0, -4], className: 'port-hub-tip' });
+    portMarkersLayer.bindPopup(function (layer) {
+      return layer.options.portHub ? portHubPopupHtml(layer.options.portHub) : '';
+    }, { maxWidth: 320 });
     disruptionMarkersLayer = L.layerGroup().addTo(trackingMap);
     activeVesselTrackLayer = L.layerGroup().addTo(trackingMap);
 
@@ -41777,22 +41764,36 @@ function createFleetDotsLayer() {
           return;
         }
       }
-      this._fireEvent(false, e);
+      // This canvas covers the port/disruption canvas underneath: pass the event down.
+      var under = this._underRenderer();
+      if (under) under._onClick(e);
+      else this._fireEvent(false, e);
+    },
+    _underRenderer: function () {
+      var r = window.__portHubPins && window.__portHubPins.renderer;
+      return r && r._map === this._map ? r : null;
     },
     _handleMouseHover: function (e) {
       if (this._mouseHoverThrottled) { return; }
       var over = !!this._hit(e);
+      var under = this._underRenderer();
+      if (under) {
+        if (over) { if (under._hoveredLayer) under._handleMouseOut(e); }
+        else { under._mouseHoverThrottled = false; under._handleMouseHover(e, this._map.mouseEventToLayerPoint(e)); over = !!under._hoveredLayer; }
+      }
       if (over !== !!this._hoverOn) {
         this._hoverOn = over;
         if (over) L.DomUtil.addClass(this._container, 'leaflet-interactive');
         else L.DomUtil.removeClass(this._container, 'leaflet-interactive');
       }
-      this._fireEvent(false, e);
+      if (!under) this._fireEvent(false, e);
       this._mouseHoverThrottled = true;
       var self = this;
       setTimeout(function () { self._mouseHoverThrottled = false; }, 32);
     },
-    _handleMouseOut: function () {
+    _handleMouseOut: function (e) {
+      var under = this._underRenderer();
+      if (under && under._hoveredLayer) under._handleMouseOut(e);
       if (this._hoverOn && this._container) L.DomUtil.removeClass(this._container, 'leaflet-interactive');
       this._hoverOn = false;
       this._mouseHoverThrottled = false;
@@ -43017,7 +43018,7 @@ function toggleTrackingLayer(layerName) {
     else trackingMap.removeLayer(chokepointMarkersLayer);
   } else if (layerName === 'ports' && portMarkersLayer) {
     if (isChecked) { trackingMap.addLayer(portMarkersLayer); syncPortHubPinsToView(); }
-    else trackingMap.removeLayer(portMarkersLayer);
+    else { trackingMap.removeLayer(portMarkersLayer); syncPortHubPinsToView(); }
   } else if (layerName === 'disruptions' && disruptionMarkersLayer) {
     if (isChecked) trackingMap.addLayer(disruptionMarkersLayer);
     else trackingMap.removeLayer(disruptionMarkersLayer);
@@ -43028,47 +43029,82 @@ window.toggleTrackingLayer = toggleTrackingLayer;
 // Port-call pins: size follows measured year-to-date calls from the PortWatch
 // expanded universe (5 largest YTD hubs set the scale). No waiting-queue
 // synthesis anywhere: the queue fields were removed with the lineup snapshot.
-// Port hub pins. A sector change used to destroy and recreate all ~2,000 pins
-// (plus their popup strings) even though only each pin's class, title and badge
-// size change. Pins are now rebuilt only when the underlying stats object changes;
-// a sector change rewrites each pin's content in place, and popups build on open.
-var __portHubPins = { stats: null, list: [] };
+// Port hubs. ~2,000 ports are drawn as small circles on their own canvas, sized by
+// year-to-date calls, instead of glowing DOM badges with a number on every one:
+// at world zoom the badges merged into solid blue blobs and cost thousands of DOM
+// nodes on every zoom step. Names and call counts appear as labels only for the
+// busiest ports in view once zoomed in; hover shows a port, click opens its card.
+var __portHubPins = { stats: null, list: [], scale: 1, renderer: null, labels: null };
+var PORT_HUB_LABEL_MIN_ZOOM = 5;
 
-// Pins outside the view (plus half a screen of margin) are hidden with display:none.
-// At the default world view about 1,150 of ~2,000 pins are off-screen, yet every
-// zoom step laid out and repainted all of them. Hiding rather than removing keeps
-// every pin's DOM position, so overlapping pins stack exactly as before.
+function portHubStyle(p, scale) {
+  var tot = portHubTotal(p);
+  var r = 2.5 + 6.5 * Math.sqrt(Math.min(1, tot / scale));
+  if (trackingMapSector === 'all') {
+    return { radius: r, fillColor: '#4d9aff', fillOpacity: 0.55, color: '#0a0f16', weight: 1, opacity: 0.9 };
+  }
+  if (isPortInSectorFilter(p.portid)) {
+    return { radius: r, fillColor: '#79c0ff', fillOpacity: 0.9, color: '#0a0f16', weight: 1, opacity: 1 };
+  }
+  return { radius: 2, fillColor: '#6e7681', fillOpacity: 0.25, color: '#0a0f16', weight: 0.5, opacity: 0.4 };
+}
+
+// Ports and ended disruptions share one canvas in a pane just under the overlay
+// pane, so the vessel dots (overlay pane) stay on top and clickable.
+function portHubRenderer() {
+  if (__portHubPins.renderer) return __portHubPins.renderer;
+  if (!trackingMap.getPane('portHubPane')) trackingMap.createPane('portHubPane').style.zIndex = 390;
+  return (__portHubPins.renderer = L.canvas({ padding: 0.3, tolerance: 4, pane: 'portHubPane' }));
+}
+
+function portHubCount(tot) {
+  return tot >= 1000 ? (tot / 1000).toFixed(tot >= 10000 ? 0 : 1) + 'k' : String(tot);
+}
+
+// Labels for the busiest ports in view (plus a small margin), rebuilt on moveend.
+// At most 25 labels, 50 from zoom 7, so the DOM stays small at any zoom.
 function syncPortHubPinsToView() {
-  if (!trackingMap || !portMarkersLayer || !__portHubPins.list.length) return;
-  var view = trackingMap.getBounds().pad(0.5);
-  __portHubPins.list.forEach(function (item) {
-    var el = item.marker._icon;
-    if (!el) return;
-    var want = view.contains(item.latlng) ? '' : 'none';
-    if (el.style.display !== want) el.style.display = want;
-  });
+  if (!trackingMap || !portMarkersLayer) return;
+  var labels = __portHubPins.labels;
+  if (!labels) labels = __portHubPins.labels = L.layerGroup().addTo(trackingMap);
+  labels.clearLayers();
+  if (!trackingMap.hasLayer(portMarkersLayer) || trackingMap.getZoom() < PORT_HUB_LABEL_MIN_ZOOM) return;
+  var view = trackingMap.getBounds().pad(0.1);
+  var limit = trackingMap.getZoom() >= 7 ? 50 : 25;
+  var placed = [];
+  __portHubPins.list
+    .filter(function (item) {
+      return view.contains(item.latlng) && (trackingMapSector === 'all' || isPortInSectorFilter(item.p.portid));
+    })
+    .sort(function (a, b) { return b.tot - a.tot; })
+    .filter(function (item) {
+      if (placed.length >= limit) return false;
+      var off = Math.ceil(item.marker.options.radius) + 4;
+      var pt = trackingMap.latLngToContainerPoint(item.latlng);
+      var w = (item.p.name.length + portHubCount(item.tot).length + 1) * 6.2;
+      var box = { x0: pt.x + off - 2, x1: pt.x + off + w + 2, y0: pt.y - 9, y1: pt.y + 9 };
+      for (var k = 0; k < placed.length; k++) {
+        var o = placed[k];
+        if (box.x0 < o.x1 && box.x1 > o.x0 && box.y0 < o.y1 && box.y1 > o.y0) return false;
+      }
+      placed.push(box);
+      return true;
+    })
+    .forEach(function (item) {
+      var off = Math.ceil(item.marker.options.radius) + 4;
+      labels.addLayer(L.marker(item.latlng, {
+        interactive: false,
+        keyboard: false,
+        icon: L.divIcon({
+          className: 'port-hub-label',
+          html: '<span>' + escapeHtml(item.p.name) + ' <b>' + portHubCount(item.tot) + '</b></span>',
+          iconSize: [0, 0],
+          iconAnchor: [-off, 7]
+        })
+      }));
+    });
 }
 window.syncPortHubPinsToView = syncPortHubPinsToView;
-
-function portHubPinSpec(p, scale) {
-  var tot = portHubTotal(p);
-  var inSector = isPortInSectorFilter(p.portid);
-  var r = 6 + Math.round(14 * Math.sqrt(tot / scale));
-  if (!inSector) r = 6;
-  var pinState = '';
-  if (trackingMapSector !== 'all') pinState = inSector ? ' lit' : ' dimmed';
-  var html = '<div class="port-hub-pin' + pinState + '" title="' + escapeHtml(p.name) + ': ' + tot.toLocaleString('en-US') + ' port calls YTD (PortWatch)' +
-    (trackingMapSector !== 'all' ? (inSector ? ' \u00b7 ' + escapeHtml(trackingMapSector) + ' highlight' : ' \u00b7 dimmed (outside ' + escapeHtml(trackingMapSector) + ')') : '') + '">' +
-    '<span class="port-hub-badge" style="min-width:' + Math.max(18, 12 + String(tot).length * 6) + 'px; font-size:' + (r >= 18 ? '10px' : '9px') + ';">' + (tot >= 1000 ? Math.round(tot / 1000) + 'k' : tot) + '</span>' +
-    '</div>';
-  return { html: html, icon: L.divIcon({
-    className: 'port-hub-marker-icon',
-    html: html,
-    iconSize: [Math.max(26, r * 2), 18],
-    iconAnchor: [Math.max(13, r), 9],
-    popupAnchor: [0, -9]
-  }) };
-}
 
 function portHubTotal(p) {
   return (p.tanker || 0) + (p.dry_bulk || 0) + (p.container || 0) + (p.general_cargo || 0) + (p.roro || 0);
@@ -43098,30 +43134,18 @@ function plotPortHubMarkers() {
   var stats = window.__trackingSectorPortStats;
   var byPort = stats ? (stats._byPort || {}) : {};
 
-  // Same stats as the pins on the map: rewrite each pin's state in place, then move
-  // the pins to the top of the marker pane in the same order a rebuild appended
-  // them, so pins still stack above chokepoint and disruption beacons as before.
+  // Same stats: a sector change only restyles the existing circles.
   if (stats && __portHubPins.stats === stats && __portHubPins.list.length) {
-    var frag = document.createDocumentFragment(), pane = null;
     __portHubPins.list.forEach(function (item) {
-      var spec = portHubPinSpec(item.p, __portHubPins.scale);
-      var el = item.marker._icon;
-      if (spec.html !== item.html) {
-        item.html = spec.html;
-        item.marker.options.icon = spec.icon;
-        if (el) {
-          el.innerHTML = spec.html;
-          spec.icon._setIconStyles(el, 'icon');
-        }
-      }
-      if (el) { pane = pane || el.parentNode; frag.appendChild(el); }
+      item.marker.setStyle(portHubStyle(item.p, __portHubPins.scale));
     });
-    if (pane) pane.appendChild(frag);
+    syncPortHubPinsToView();
     return;
   }
 
   portMarkersLayer.clearLayers();
-  __portHubPins = { stats: stats, list: [], scale: 1 };
+  var renderer = portHubRenderer();
+  __portHubPins = { stats: stats, list: [], scale: 1, renderer: renderer, labels: __portHubPins.labels };
 
   var entries = Object.keys(byPort).map(function(pid) { return byPort[pid]; });
   entries.sort(function(a, b) { return portHubTotal(b) - portHubTotal(a); });
@@ -43130,16 +43154,15 @@ function plotPortHubMarkers() {
   if (!scale) scale = 1;
   __portHubPins.scale = scale;
 
-  entries.forEach(function(p) {
+  // Smallest first, so the busiest ports draw on top where circles overlap.
+  entries.slice().reverse().forEach(function(p) {
     var lat = p.lat, lon = p.lon;
     if (lat == null || lon == null) return;
-    if (portHubTotal(p) <= 0) return;
-    var spec = portHubPinSpec(p, scale);
-    var marker = L.marker([lat, lon], { icon: spec.icon });
-    marker.bindPopup(function () { return portHubPopupHtml(p); }, { maxWidth: 320 });
-    marker.on('click', function() { openPortPage(p.portid); });
+    var tot = portHubTotal(p);
+    if (tot <= 0) return;
+    var marker = L.circleMarker([lat, lon], Object.assign({ renderer: renderer, portHub: p }, portHubStyle(p, scale)));
     portMarkersLayer.addLayer(marker);
-    __portHubPins.list.push({ p: p, marker: marker, html: spec.html, latlng: L.latLng(lat, lon) });
+    __portHubPins.list.push({ p: p, marker: marker, tot: tot, latlng: L.latLng(lat, lon) });
   });
   syncPortHubPinsToView();
 }
@@ -43232,6 +43255,28 @@ function plotDisruptionMarkers() {
     var lat = parseFloat(d.lat), lon = parseFloat(d.lon);
     if (isNaN(lat) || isNaN(lon)) return;
     var color = d.ongoing ? '#f85149' : '#e3b341';
+    var tt = '<strong>' + escapeHtml(d.eventname || d.eventid) + '</strong>' +
+      (d.ongoing ? ' <span style="color:#f85149;">(ongoing)</span>' : ' <span style="color:#8b949e;">(ended)</span>') +
+      '<br>' + escapeHtml(disruptionEventTypeLabel(d.eventtype)) + ' \u00b7 ' + escapeHtml(d.country || '') +
+      '<br>' + escapeHtml(d.fromdate || '') + ' \u2192 ' + escapeHtml(d.todate || '') +
+      '<br>' + ((d.affectedPortIds || []).length) + ' affected ports';
+    var openEvent = function() {
+      if (typeof setTrackingSubView === 'function') setTrackingSubView('disruptions');
+      if (typeof flyToDisruption === 'function') flyToDisruption(d.eventid);
+    };
+    if (!d.ongoing) {
+      // ~130 ended events drawn as beacons with pulse rings buried the map in amber;
+      // they stay findable as thin rings, and only live events keep the beacon.
+      var ring = L.circleMarker([lat, lon], {
+        renderer: portHubRenderer(),
+        radius: 4, color: '#e3b341', weight: 1.5, opacity: 0.75, fill: true, fillColor: '#e3b341', fillOpacity: 0.08,
+        bubblingMouseEvents: false
+      });
+      ring.bindTooltip(tt, { sticky: true, opacity: 0.95 });
+      ring.on('click', openEvent);
+      disruptionMarkersLayer.addLayer(ring);
+      return;
+    }
     var iconHtml = '<div class="chokepoint-beacon-pin" style="--cp-color:' + color + '; --cp-glow:' + (d.ongoing ? 'rgba(248, 81, 73, 0.5)' : 'rgba(227, 179, 65, 0.35)') + ';">' +
       '<div class="cp-pulse-ring"></div>' +
       '<div class="cp-inner-dot">' +
@@ -43241,16 +43286,8 @@ function plotDisruptionMarkers() {
       '</div></div>';
     var customIcon = L.divIcon({ className: 'chokepoint-beacon-icon', html: iconHtml, iconSize: [18, 18], iconAnchor: [9, 9], popupAnchor: [0, -10] });
     var marker = L.marker([lat, lon], { icon: customIcon });
-    var tt = '<strong>' + escapeHtml(d.eventname || d.eventid) + '</strong>' +
-      (d.ongoing ? ' <span style="color:#f85149;">(ongoing)</span>' : '') +
-      '<br>' + escapeHtml(disruptionEventTypeLabel(d.eventtype)) + ' \u00b7 ' + escapeHtml(d.country || '') +
-      '<br>' + escapeHtml(d.fromdate || '') + ' \u2192 ' + escapeHtml(d.todate || '') +
-      '<br>' + ((d.affectedPortIds || []).length) + ' affected ports';
     marker.bindTooltip(tt, { sticky: true, opacity: 0.95 });
-    marker.on('click', function() {
-      if (typeof setTrackingSubView === 'function') setTrackingSubView('disruptions');
-      if (typeof flyToDisruption === 'function') flyToDisruption(d.eventid);
-    });
+    marker.on('click', openEvent);
     disruptionMarkersLayer.addLayer(marker);
   });
 }
@@ -49023,12 +49060,25 @@ var FDESK = {
 };
 
 // ---------- cache lazy-loaders ----------
+// One request per Broker Desk cache file. The tab-open preload and a section's own
+// lazy load used to fetch the same file twice when a section opened before the
+// preload finished (the 5 MB fixtures tape was downloaded twice).
+var __fearnJsonInflight = {};
+function fearnJsonOnce(url, key) {
+  if (DATA[key]) return Promise.resolve(DATA[key]);
+  if (!__fearnJsonInflight[url]) {
+    __fearnJsonInflight[url] = fetch(url, { cache: 'no-cache' })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (j) { DATA[key] = j; return j; })
+      .catch(function (e) { delete __fearnJsonInflight[url]; DATA[key] = DATA[key] || null; throw e; });
+  }
+  return __fearnJsonInflight[url];
+}
+window.fearnJsonOnce = fearnJsonOnce;
 function fearnLoadJson(url, key, cb) {
-  if (DATA[key]) { if (cb) cb(true); return; }
-  fetch(url, { cache: 'no-cache' })
-    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function (j) { DATA[key] = j; if (cb) cb(true); })
-    .catch(function (e) { console.warn('[fearn load]', url, e); DATA[key] = DATA[key] || null; if (cb) cb(false); });
+  fearnJsonOnce(url, key)
+    .then(function () { if (cb) cb(true); })
+    .catch(function (e) { console.warn('[fearn load]', url, e); if (cb) cb(false); });
 }
 function fearnLoadDeskCaches(cb) {
   var need = [['fearnleys_desk_tenor.json', 'fearnDeskTenor'], ['fearnleys_nb_prices.json', 'fearnNbPrices'], ['fearnleys_asset_curves.json', 'fearnAssetCurves'], ['fearnleys_gas_extra.json', 'fearnGasExtra']];
