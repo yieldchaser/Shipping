@@ -17,629 +17,532 @@
 
 ---
 
-## Market Analysis & Intelligence (Anydoc Extracted)
+## Detailed Monthly Intelligence Sections
 
-MAY 2020
+### May 2020 (Page 1)
 
-### RUSH FOR LAYUP STARTING TO EASE IN NORTH SEA
+**May 2020**:
 
-# CONTENTS
 
-3 OSV MARKET ROUND-UP 6 OSV AVAILABILITY, RATES &
+**Rush For Layup Starting**:
 
-UTILISATION-NORTH SEA 7 MONTHLY OSV SPOT RATES -
 
-NORTH SEA 8 FEATURE VESSEL
+**To Ease In North Sea**:
 
-OSV NEWBUILDINGS, CONVERSIONS, SALE & PURCHASE
 
-11 SUBSEA 14 RENEWABLES
+### About Seabrokers Group (Page 2)
 
-15 RIGS 16 CONUNDRUM CORNER
+**Contents**:
+ Production and Administration:
 
-& DUTY PHONES
+Seabrokers Ltd, Aberdeen For your free copy of Seabreeze, email:
 
-ABOUT SEABROKERS GROUP
-
-The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facili- ties Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations. Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
-
-The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
-
-Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO 9001:2015.
-
-Production and Administration: Seabrokers Ltd, Aberdeen For your free copy of Seabreeze, email: **chartering@seabrokers.co.uk**
-
-The Seabreeze Monthly Market Report is distributed worldwide through our offices in Aberdeen, Stavanger and Rio de Janeiro.
+chartering@seabrokers.co.uk The Seabreeze Monthly Market Report is distributed worldwide through our offices in Aberdeen, Stavanger and Rio de Janeiro.
 
 © Seabrokers Group 2020
 
-SHIPBROKING REAL ESTATE
+**About Seabrokers Group**:
+ The Seabrokers Group was established in 1982. We provide a unique and varied range of services to clients. The Seabrokers Group has an experienced workforce within Shipbroking, Real Estate, Facili­ ties Management, Construction, Sea Surveillance, Harbour Cranes and Safe Lifting Operations.
 
-SECURALIFT FACILITY MANAGEMENT
+Our head office is located in Stavanger, but we also have offices in Aberdeen, Bergen and Rio de Janeiro.
 
-SEA SURVEILLANCE FOUNDATIONS
+The Seabrokers Group is different – and we are proud of this fact. Our information, experience and knowledge provide us with the ability to perform in our diverse business areas.
 
-YACHTING HARBOUR CRANES
+Seabrokers Chartering AS and Seabrokers Ltd are certified by DNV GL in line with Management System Standard ISO  9001:2015.
 
-OUR OFFICES: STAVANGER BERGEN SKIEN ABERDEEN RIO DE JANEIRO
+**Our Offices:**:
 
-**www.seabrokers-group.com**
 
-#### VESSEL LAYUPS EASE SOLSTAD SIGNS RESTRUCTURING AGREEMENT OFF IN NORTH SEA
+**Stavanger**:
 
-||Solstad Offshore has entered into|Solstad will by no means be the|
-|---|---|---|
-||a Restructuring Implementation|only OSV owner to go through|
-|More than 40 OSVs have been|Agreement that will see NOK|a financial restructuring this|
-|laid up in Northwest Europe in|10.9 billion (USD 1.1 billion) of|year, as investors come to terms|
-|the space of 10 weeks. That is a|debt converted into equity. The|with the impact of Covid-19 and|
-|more dramatic response to the|agreement also incorporates a|the dramatic effect it has had|
-|market downturn than any of us|new fleet loan that will mature|on the offshore market. In other|
-|realistically expected.|after four years, while industrial shareholders will retain up to|examples, Hornbeck Offshore has formally filed for Chapter|
-|If owners are to glean any|33.34% ownership of Solstad.|11 bankruptcy protection, while|
-|positives from recent events, it||Siem Offshore has entered into|
-|might be that the flood of vessels|The agreement has been entered|an agreement with secured|
-|going into layup slowed to more|into with a majority of the key|lenders in Europe and Norway|
-|of a trickle in the second half|stakeholders although three|to defer 100% of its principal|
-|of May, and there were also a|financial providers have not|and interest debt payments|
-|few units reactivated for term|yet signed up. As part of the|until April 30, 2021. Similar|
-|charters. That is because the|restructuring, Solstad’s fleet|discussions are ongoing with|
-|combined efforts of owners have|will be refocused, with 37 of|Siem’s secured lenders in Brazil|
-|moved the market into a slightly|the company’s older and less|and Canada, with the standstill|
-|more balanced state and the vast|sophisticated vessels to be sold|agreement in Europe contingent|
-|oversupply of active vessels is|or scrapped. The long-term plan|on an agreement being reached|
-|nowhere near as severe as it was|is based around a core fleet of|with the Brazilian and Canadian|
-|this time last month.|around 90 vessels.|banks.|
 
-We have experienced periods of tightened availability on the HISTORIC CO2 STORAGE INVESTMENT spot market, albeit short lived,
+**Bergen**:
 
-|and there were even some days|Equinor, Shell and Total have|as a first step in the creation of a|
-|---|---|---|
-|in May when the Norwegian|made a historic investment|value chain for Carbon Capture|
-|AHTS sector was sold out. Let’s|decision for the transport and|and Storage, which is vital if the|
-|not get carried away-demand|storage of CO2 on the Norwegian|global climate goals from the|
-|levels this year have decreased at a dramatic rate, and the fact|Continental Shelf, with the partners planning to establish a|Paris Agreement are to be met.|
-|that more than 40 vessels have|joint venture company for the|This concludes the study phase,|
-|only recently gone into layup|project. The initial investments|where a successful confirmation|
-|means there is a wide pool of|will total NOK 6.9 billion (USD|well was recently drilled in the|
-|idle supply that can quickly be reactivated if market conditions|712 million).|northern North Sea, some 100km west of Bergen. The project will|
-|start to improve. However, the|The Northern Lights project|be developed in further phases.|
-|collective discipline shown by|has been given the green light,|Phase 1 will include the capacity|
-|owners over the last few months|with a plan for development|to transport, inject and store up|
-|may keep the market slightly|and operation handed over to|to 1.5 million tonnes of CO2 per|
-|more stable than it was during|the Ministry of Petroleum and|year. This phase is expected to be|
-|the previous downturn.|Energy. The project is viewed|operational in 2024.|
 
-SEABREEZE 3
+**Aberdeen**:
 
-#### RUSSIA CONTRACTS FOR NORTH SEA VESSELS
 
-*Normand Serenade (c/o O. Halland)* The summer drilling season in Russia is fast approaching and a raft of North Sea vessels have been chartered to work in the Arctic alongside some additional Russian-owned vessels.
+**Rio De Janeiro**:
+ www.seabrokers-group.com 3
 
-FEMCO has awarded 80-day firm contracts to Viking Supply Ships for AHTS vessel Magne Viking; Rem Offshore for PSVs Rem Arctic and Rem Cetus; and Solstad Offshore for PSVs Normand Serenade, Normand Surfer and Sea Spear. FEMCO is
+**Osv Market Round-Up**:
+ 6
 
-|working alongside Rosneft for|Pearl; Solstad Offshore for AHTS|and MPSV Ocean Zephyr.|
-|---|---|---|
-|drilling operations with COSL|vessel Far Sigma and PSVs|MAGE is working alongside|
-|semi Nanhai 9 in the Kara Sea.|Normand Sitella and Normand Supra; Sverre Farstad for PSV|Gazprom for drilling operations with COSL semi Nanhai 8, also|
-|Separately, MAGE has awarded|Farland; Vestland Offshore for|in the Kara Sea. Sevnor AHTS|
-|90-day firm contracts to Siem|PSV Solvik Supplier; and Wilson|Sayan Lord has also been fixed|
-|Offshore for AHTS vessel Siem|Offshore for PSV Wilson Baltic|by Gazprom for work this year.|
+### Osv Market Round-Up (Page 3)
 
-#### EQUINOR KEEPS CLIPPER
+**Seabreeze   3**:
 
-Equinor has extended its Following the initial award of contract with the Island Clipper the contract, the Clipper was until spring 2023. The Island equipped with a battery package, Offshore vessel was earlier shore connection compatibility chartered for a firm period of and a walk-to-work gangway three years from April 2019 but which can be mobilised at short an additional year has now been notice. The Island Clipper is a *Island Clipper (c/o G. Sandersen)* added to the firm period. 2015-built UT 776 CD vessel.
 
-#### APACHE RETAINS VROON TRIO
+**Osv Market Round-Up**:
 
-Apache has awarded Vroon come with further options. The Offshore one-year contract VOS Faithful, Endeavour and extensions for a trio of ERRVs. Seeker are Group B ERRVs; the The VOS Faithful is now firmly Faithful was delivered by Jiangsu committed until June 2021, Island in China in 2014, while while the VOS Seeker and VOS the latter two were delivered by Endeavour are fixed up until Astilleros Zamakona in Spain in October 2021. All three contracts 2009-2010. *VOS Faithful (pictured c/o O. Halland)*
 
-4 SEABREEZE
+**Vessel Layups Ease**:
 
-#### SPIRIT SELECTS PSV SUPPORT
 
-*Grampian Talisker (pictured c/o C. Reid)* Spirit Energy has recently awarded contracts for PSVs to support two simultaneous rig programmes offshore the UK and Norway.
+**Off In North Sea**:
+ More than 40 OSVs have been laid up in Northwest Europe in the space of 10 weeks. That is a more dramatic response to the market downturn than any of us realistically expected.
 
-In the UK sector, Spirit has chartered the Grampian Talisker from North Star Shipping for a period of circa 90 days. The IMT 978 PSV has left the North Sea spot market to undertake this charter. She is supporting Spirit’s P&A campaign with Borr Drilling jackup Ran in the East
+If owners are to glean any positives from recent events, it might be that the flood of vessels going into layup slowed to more of a trickle in the second half of May, and there were also a few units reactivated for term charters. That is because the combined efforts of owners have moved the market into a slightly more balanced state and the vast oversupply of active vessels is nowhere near as severe as it was this time last month.
 
-|Irish Sea.|The vessel will be providing|Sea, around 60km west of the|
-|---|---|---|
-||support for Spirit’s drilling|Wisting discovery. Another|
-|Up in Norway, Spirit has fixed|campaign with Transocean|Møkster PSV, the Stril Mar,|
-|up the Stril Polar from Simon|semisubmersible Leiv Eiriksson,|had earlier been fixed up on an|
-|Møkster Shipping on a one-well|where a wildcat well is being|equivalent contract to support|
-|plus one-well option contract.|drilled in PL 719 in the Barents|the same drilling programme.|
+We have experienced periods of tightened availability on the spot market, albeit short lived, and there were even some days in May when the Norwegian AHTS sector was sold out. Let’s not get carried away - demand levels this year have decreased at a dramatic rate, and the fact that more than 40 vessels have only recently gone into layup means there is a wide pool of idle supply that can quickly be reactivated if market conditions start to improve. However, the collective discipline shown by owners over the last few months may keep the market slightly more stable than it was during the previous downturn.
 
-#### LONG-TERM EXTENSIONS FOR LNG PSVS
+**Solstad Signs Restructuring Agreement**:
+ Solstad Offshore has entered into a Restructuring Implementation Agreement that will see NOK 10.9 billion (USD 1.1 billion) of debt converted into equity. The agreement also incorporates a new fleet loan that will mature after four years, while industrial shareholders will retain up to 33.34% ownership of Solstad.
 
-Harvey Gulf International EBITDA returns north of 50% on Marine has secured 18-month an annual basis for the company. contract extensions for two of its Built to the STX SV310 DF LNG-fuelled PSVs. The Harvey design, the Harvey Freedom and Freedom and Harvey Liberty are Harvey Liberty are sister vessels. now contracted to Shell in the The dual-fuel PSVs have a length US Gulf well into 2022. of 94.5m, breadth of 19.5m, deck Harvey Gulf has indicated that area of 974m² and a deadweight *Harvey Liberty* each vessel should produce of circa 5,400 tons.
+The agreement has been entered into with a majority of the key stakeholders although three financial providers have not yet signed up. As part of the restructuring, Solstad’s fleet will be refocused, with 37 of the company’s older and less sophisticated vessels to be sold or scrapped. The long-term plan is based around a core fleet of around 90 vessels.
 
-#### LEOPARD PROWLING THE MED
+Solstad will by no means be the only OSV owner to go through a financial restructuring this year, as investors come to terms with the impact of Covid-19 and the dramatic effect it has had on the offshore market. In other examples, Hornbeck Offshore has formally filed for Chapter 11 bankruptcy protection, while Siem Offshore has entered into an agreement with secured lenders in Europe and Norway to defer 100% of its principal and interest debt payments until April 30, 2021. Similar discussions are ongoing with Siem’s secured lenders in Brazil and Canada, with the standstill agreement in Europe contingent on an agreement being reached with the Brazilian and Canadian banks.
 
-Opielok has managed to get PSV it is understood that the work OOC Leopard back to work in scope will take place offshore the Mediterranean Sea following Libya, with the vessel recently a brief idle period. The vessel plotting a course for Mellitah Oil has been fixed up for 60 days & Gas’ Sabratha platform. The to perform geophysical survey OOC Leopard is a 2012-built PSV duties. While Opielok has not with a length of 73.9m, breadth disclosed the client or location, of 16.0m and deck area of 670m².
+**Historic Co2 Storage Investment**:
+ Equinor, Shell and Total have made a historic investment decision for the transport and storage of CO2 on the Norwegian Continental Shelf, with the partners planning to establish a joint venture company for the project. The initial investments will total NOK 6.9 billion (USD 712 million).
 
-SEABREEZE 5
+The Northern Lights project has been given the green light, with a plan for development and operation handed over to the Ministry of Petroleum and Energy. The project is viewed as a first step in the creation of a value chain for Carbon Capture and Storage, which is vital if the global climate goals from the Paris Agreement are to be met.
 
-# OSV RATES & UTILISATION
+This concludes the study phase, where a successful confirmation well was recently drilled in the northern North Sea, some 100km west of Bergen. The project will be developed in further phases.
 
-#### MAY 2020 - DAILY NORTH SEA OSV AVAILABILITY
+Phase 1 will include the capacity to transport, inject and store up to 1.5 million tonnes of CO2 per year. This phase is expected to be operational in 2024.
 
-PSV 2020 PSV 2019 AHTS 2020 AHTS 2019 28 26 24 22 20 18 16 14 12 10 8 6 4 2 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+### Osv Market Round-Up (Page 4)
 
-#### RATES & UTILISATION
+**4   Seabreeze**:
 
-||NORTH SEA SPOT AVERAGE UTILISATION MAY 2020||||||
-|---|---|---|---|---|---|---|
-|TYPE|MAY 2020|APR 2020|MAR 2020|FEB 2020|JAN 2020|DEC 2019|
-|MED PSV|42%|66%|63%|59%|66%|67%|
-|LARGE PSV|50%|58%|74%|65%|80%|68%|
-|MED AHTS|38%|51%|38%|13%|62%|51%|
-|LARGE AHTS|55%|67%|57%|36%|63%|62%|
 
-|NORTH SEA AVERAGE RATES MAY 2020||||||
-|---|---|---|---|---|---|
-|CATEGORY|AVERAGE RATE MAY 2020|AVERAGE RATE MAY 2019|% CHANGE|MINIMUM|MAXIMUM|
-|SUPPLY DUTIES PSVS < 900M²|£3,751|£14,573|-74.26%|£2,250|£6,836|
-|SUPPLY DUTIES PSVS > 900M²|£4,370|£15,422|-71.66%|£2,000|£8,847|
-|AHTS DUTIES AHTS < 22,000 BHP|£10,745|£21,629|-50.32%|£5,000|£20,107|
-|AHTS DUTIES AHTS > 22,000 BHP|£13,100|£26,482|-50.53%|£4,021|£30,000|
+**Osv Market Round-Up**:
+ Equinor has extended its contract with the Island Clipper until spring 2023. The Island Offshore vessel was earlier chartered for a firm period of three years from April 2019 but an additional year has now been added to the firm period.
 
-#### SPOT MARKET ARRIVALS & DEPARTURES-MAY 2020
+Following the initial award of the contract, the Clipper was equipped with a battery package, shore connection compatibility and a walk-to-work gangway which can be mobilised at short notice. The Island Clipper is a 2015-built UT 776 CD vessel.
 
-**ARRIVALS-NORTH SEA SPOT DEPARTURES-NORTH SEA SPOT** MAERSK MAKER EX CANADA SOVEREIGN EX SOUTH AMERICA
+The summer drilling season in Russia is fast approaching and a raft of North Sea vessels have been chartered to work in the Arctic alongside some additional Russian-owned vessels.
 
-** Vessels arriving in or departing from the North Sea term/layup market are not included here.* 6 SEABREEZE
+FEMCO has awarded 80-day firm contracts to Viking Supply Ships for AHTS vessel Magne Viking; Rem Offshore for PSVs Rem Arctic and Rem Cetus;
 
-# NORTH SEA AVERAGE SPOT RATES
+and Solstad Offshore for PSVs Normand Serenade, Normand Surfer and Sea Spear. FEMCO is working alongside Rosneft for drilling operations with COSL semi Nanhai 9 in the Kara Sea.
 
-||£40,000 £40,000 £40,000 £17,500 £15,000||PSVs < 900m²||
-|---|---|---|---|---|
-||£30,000 £30,000 £30,000 £12,500 £10,000 £20,000 £20,000 £20,000 £7,500 £5,000 £10,000 £10,000 £10,000 £2,500||All Cargo Runs All Cargo Runs All Cargo Runs||
-||£- £- £- £- 2019 2019 2019 2019 2020 2020 2020 2020 £20,000 £20,000 £20,000 £17,500 £15,000 £15,000 £15,000 £15,000 £12,500 £10,000 £10,000 £10,000 £10,000 £7,500 £5,000 £5,000 £5,000 £5,000 £2,500|Jan Jan Jan Jan £5,299 £5,299 £5,299 £5,299 £5,257 £5,257 £5,257 £5,257|Feb Feb Feb Feb £8,789 £8,789 £8,789 £8,789 £6,308 £6,308 £6,308 £6,308 PSVs > 900m² PSVs < 900M² PSVs < 900M2 PSVs < 900M2|Mar Mar Mar Mar £9,473 £9,473 £9,473 £9,473 £8,863 £8,863 £8,863 £8,863|
-||£- £- £- £- 2019 2019 2019 2019 2020 2020 2020 2020 £40,000 £40,000 £40,000 £40,000 £35,000 £30,000 £30,000 £30,000 £30,000 £25,000 £20,000 £20,000 £20,000 £20,000 £15,000 £10,000 £10,000 £10,000 £10,000 £5,000|Jan Jan Jan Jan £5,280 £5,280 £5,280 £5,280 £6,810 £6,810 £6,810 £6,810|Feb Feb Feb Feb £11,076 £11,076 £11,076 £11,076 £8,014 £8,014 £8,014 £8,014 AHTS < 22,000 bhp PSVs > 900M² PSVs > 900M2 PSVs > 900M2|Mar Mar Mar Mar £13,339 £13,339 £13,339 £13,339 £7,132 £7,132 £7,132 £7,132|
-||£- £- £- £- 2019 2019 2019 2019 2020 2020 2020 2020 £40,000 £40,000 £40,000 £40,000 £35,000 £30,000 £30,000 £30,000 £30,000 £25,000 £20,000 £20,000 £20,000 £20,000 £15,000 £10,000 £10,000 £10,000 £10,000 £5,000|Jan Jan Jan Jan £29,143 £29,143 £29,143 £29,143 £7,959 £7,959 £7,959 £7,959|Feb Feb Feb Feb £14,899 £14,899 £14,899 £14,899 £18,562 £18,562 £18,562 £18,562 AHTS > 22,000 bhp Rig Moves Rig Moves Rig Moves|Mar Mar Mar Mar £19,848 £19,848 £19,848 £19,848 £25,486 £25,486 £25,486 £25,486|
-||£- £- £- £- 2019 2019 2019 2019 2020 2020 2020 2020 £25,000 £25,000 £25,000 £25,000 £20,000 £20,000 £20,000 £20,000 £15,000 £15,000 £15,000 £15,000 £10,000 £10,000 £10,000 £10,000 £5,000 £5,000 £5,000 £5,000 £- £- £- £- 2019 2019 2019 2019 2020 2020 2020 2020|Jan Jan Jan Jan £16,134 £16,134 £16,134 £16,134 £9,203 £9,203 £9,203 £9,203|Feb Feb Feb Feb £20,987 £20,987 £20,987 £20,987 £16,901 £16,901 £16,901 £16,901 PSVs < 900m² PSVs < 900m² PSVs < 900m² PSVs < 900m² £10,580 £10,580 £10,580 £10,638 £5,943 £- £- £-|Mar Mar Mar Mar £20,592 £20,592 £20,592 £20,592 £21,268 £21,268 £21,268 £21,268 Average Day Rates To Month (May 2020)|
+Separately, MAGE has awarded 90-day firm contracts to Siem Offshore for AHTS vessel Siem Pearl; Solstad Offshore for AHTS vessel Far Sigma and PSVs Normand Sitella and Normand Supra; Sverre Farstad for PSV Farland; Vestland Offshore for PSV Solvik Supplier; and Wilson Offshore for PSV Wilson Baltic and MPSV Ocean Zephyr.
 
-|Apr Apr Apr Apr|May May May May|Jun Jun Jun Jun|Jul Jul Jul Jul|Aug Aug Aug Aug|Sep Sep Sep Sep|Oct Oct Oct Oct|Nov Nov Nov Nov|Dec Dec Dec Dec|
-|---|---|---|---|---|---|---|---|---|
-|£16,775 £16,775 £16,775 £16,775|£26,482 £26,482 £26,482 £26,482|£25,687 £25,687 £25,687 £25,687|£23,150 £23,150 £23,150 £23,150|£32,237 £32,237 £32,237 £32,237|£33,057 £33,057 £33,057 £33,057|£29,220 £29,220 £29,220 £29,220|£24,610 £24,610 £24,610 £24,610|£34,702 £34,702 £34,702 £34,702|
-|£8,141 £8,141 £8,141 £8,141|£13,100 £13,100 £13,100 £13,100|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|
+MAGE is working alongside Gazprom for drilling operations with COSL semi Nanhai 8, also in the Kara Sea. Sevnor AHTS Sayan Lord has also been fixed by Gazprom for work this year.
 
-|Apr Apr Apr Apr|May May May May|Jun Jun Jun Jun|Jul Jul Jul Jul|Aug Aug Aug Aug|Sep Sep Sep Sep|Oct Oct Oct Oct|Nov Nov Nov Nov|Dec Dec Dec Dec|
-|---|---|---|---|---|---|---|---|---|
-|£15,703 £15,703 £15,703 £15,703|£21,629 £21,629 £21,629 £21,629|£24,750 £24,750 £24,750 £24,750|£20,533 £20,533 £20,533 £20,533|£16,124 £16,124 £16,124 £16,124|£35,871 £35,871 £35,871 £35,871|£34,305 £34,305 £34,305 £34,305|£24,346 £24,346 £24,346 £24,346|£21,707 £21,707 £21,707 £21,707|
-|£7,087 £7,087 £7,087 £7,087|£10,745 £10,745 £10,745 £10,745|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|
+**Equinor Keeps Clipper**:
 
-|Apr Apr Apr Apr|May May May May|Jun Jun Jun Jun|Jul Jul Jul Jul|Aug Aug Aug Aug|Sep Sep Sep Sep|Oct Oct Oct Oct|Nov Nov Nov Nov|Dec Dec Dec Dec|
-|---|---|---|---|---|---|---|---|---|
-|£16,587 £16,587 £16,587 £16,587|£15,422 £15,422 £15,422 £15,422|£11,039 £11,039 £11,039 £11,039|£11,928 £11,928 £11,928 £11,928|£10,646 £10,646 £10,646 £10,646|£10,434 £10,434 £10,434 £10,434|£6,940 £6,940 £6,940 £6,940|£8,007 £8,007 £8,007 £8,007|£9,683 £9,683 £9,683 £9,683|
-|£3,733 £3,733 £3,733 £3,733|£4,370 £4,370 £4,370 £4,370|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|
 
-|Apr Apr Apr Apr|May May May May|Jun Jun Jun Jun|Jul Jul Jul Jul|Aug Aug Aug Aug|Sep Sep Sep Sep|Oct Oct Oct Oct|Nov Nov Nov Nov|Dec Dec Dec Dec|
-|---|---|---|---|---|---|---|---|---|
-|£15,340 £15,340 £15,340 £15,340|£14,573 £14,573 £14,573 £14,573|£10,224 £10,224 £10,224 £10,224|£10,639 £10,639 £10,639 £10,639|£8,420 £8,420 £8,420 £8,420|£11,161 £11,161 £11,161 £11,161|£5,916 £5,916 £5,916 £5,916|£8,398 £8,398 £8,398 £8,398|£7,918 £7,918 £7,918 £7,918|
-|£3,485 £3,485 £3,485 £3,485|£3,751 £3,751 £3,751 £3,751|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|£-£-£-£-|
+**Russia Contracts For North Sea Vessels**:
+ Apache has awarded Vroon Offshore one-year contract extensions for a trio of ERRVs.
 
-**Average Day Rates To Month (June 2013) Average Day Rates To Month (June 2013) Average Day Rates To Month (June 2013)**
+The VOS Faithful is now firmly committed until June 2021, while the VOS Seeker and VOS Endeavour are fixed up until October 2021. All three contracts come with further options. The VOS Faithful, Endeavour and Seeker are Group B ERRVs; the Faithful was delivered by Jiangsu Island in China in 2014, while the latter two were delivered by Astilleros Zamakona in Spain in 2009-2010.
 
-|PSVs > 900m² PSVs > 900m² PSVs > 900m² PSVs > 900m²|AHTS < 22,000 bhp AHTS < 22,000 bhp AHTS < 22,000 bhp AHTS < 22,000 bhp|AHTS > 22,000 bhp AHTS > 22,000 bhp AHTS > 22,000 bhp AHTS > 22,000 bhp|
-|---|---|---|
-|£11,873 £11,873 £11,873 £12,012|£20,992 £20,992 £20,992 £20,491|£21,687 £21,687 £21,687 £20,837|
-|£6,398 £-£-£-|£15,274 £-£-£-|£14,301 £-£-£-|
+**Apache Retains Vroon Trio**:
+ Normand Serenade (c/o O. Halland) VOS Faithful (pictured c/o O. Halland) Island Clipper (c/o G. Sandersen)
 
-SEABREEZE 7
+### Osv Market Round-Up (Page 5)
 
-# FEATURE VESSEL
+**Seabreeze   5**:
 
-#### SEACOR ANDES
 
-**Seacor Marine has mobilised its newbuild PSV Seacor Andes to Singapore following her recent delivery from the COSCO**
+**Osv Market Round-Up**:
+ Opielok has managed to get PSV OOC Leopard back to work in the Mediterranean Sea following a brief idle period. The vessel has been fixed up for 60 days to perform geophysical survey duties. While Opielok has not disclosed the client or location, it is understood that the work scope will take place offshore Libya, with the vessel recently plotting a course for Mellitah Oil & Gas’ Sabratha platform. The OOC Leopard is a 2012-built PSV with a length of 73.9m, breadth of 16.0m and deck area of 670m².
 
-##### Zhoushan Shipyard in China.
+Harvey Gulf International Marine has secured 18-month contract extensions for two of its LNG-fuelled PSVs. The Harvey Freedom and Harvey Liberty are now contracted to Shell in the US Gulf well into 2022.
 
-|This is the second in a series of|acquired by Seacor Marine in||
-|---|---|---|
-|three sister vessels that COSCO|January 2019 for a total price of||
-|has been building for Seacor, following the earlier delivery of|around USD 46 million.||
-|the Seacor Alps last October. The|The vessels have a length of|SEACOR ANDES SPECS:|
-|final vessel, the Seacor Atlas, is|83.8m, breadth of 18.0m and a||
-|also expected to be delivered this|deadweight in excess of 3,800t.|Yard: COSCO Zhoushan, China|
-|year.|They have a deck area of 875m².|Design: UT 771 CDL PSV LOA: 83.8m|
-|The three vessels, built to the UT|The trio are powered by four|Breadth: 18.0m|
-|771 CDL design, were originally|main MTU 12V4000M23S|Deadweight: 3,857t|
-|ordered as part of a four-PSV|engines, providing a total output|Deck Area: 875m²|
-|deal for the East Sunrise Group|of 7,402 bhp. They each have an|Accommodation: 46 persons|
-|but only one unit was actually|accommodation capacity for 46|Main Engine Output: 7,402 bhp|
-|delivered to the intended|persons in a combination of one,|Economic Speed: 10.0 knots|
-|owners. The other three were|two and four-berth cabins.|Eco Consumption: 7.3m³/day|
+Harvey Gulf has indicated that each vessel should produce EBITDA returns north of 50% on an annual basis for the company.
 
-8 SEABREEZE
+Built to the STX SV310 DF design, the Harvey Freedom and Harvey Liberty are sister vessels.
 
-# NEWBUILDS, CONVERSIONS, S&P
+The dual-fuel PSVs have a length of 94.5m, breadth of 19.5m, deck area of 974m² and a deadweight of circa 5,400 tons.
 
-#### TWO ULSTEIN NEWBUILDS DELIVERED IN CHINA
+Spirit Energy has recently awarded contracts for PSVs to support two simultaneous rig programmes offshore the UK and Norway.
 
-The first two of four Ulstein PX Min Fu and Guo Hai Min Qiang. 121 PSVs have been delivered The original newbuild order to SinoOcean by Shanghai was placed by Pacific Radiance. Waigaoqiao Shipbuilding (SWS) Instead, under the ownership in China. of SinoOcean, all four vessels The deliveries of the Guo Hai have been chartered to China Min Sheng and Guo Hai Min Offshore Services Ltd (COSL) to Xing will be followed later this support production operations year by sister vessels Guo Hai offshore China. *Guo Hai Min Xing*
+In the UK sector, Spirit has chartered the Grampian Talisker from North Star Shipping for a period of circa 90 days. The IMT 978 PSV has left the North Sea spot market to undertake this charter. She is supporting Spirit’s P&A campaign with Borr Drilling jackup Ran in the East Irish Sea.
 
-#### RETURN OF REM ARCTIC
+Up in Norway, Spirit has fixed up the Stril Polar from Simon Møkster Shipping on a one-well plus one-well option contract.
 
-The Rem Arctic is back. Having return to the market as the Rem originally been delivered as the Arctic under the management of Rem Arctic in 2015 under the the new Rem Offshore. Rem has ownership of Rem Offshore, the already lined up a term contract VS 485 MkIII PSV was renamed for the vessel offshore Russia as the Normand Skude following alongside stablemate Rem Cetus the 2016 merger of Rem Offshore (see p.4). The Rem Arctic has just with Solstad. Now, Solstad has been put through her five-year sold the vessel and she will soon survey at Myklebust Verft.
+The vessel will be providing support for Spirit’s drilling campaign with Transocean semisubmersible Leiv Eiriksson, where a wildcat well is being drilled in PL 719 in the Barents Sea, around 60km west of the Wisting discovery. Another Møkster PSV, the Stril Mar, had earlier been fixed up on an equivalent contract to support the same drilling programme.
 
-The Vengery and Venie are both 10-year old vessels that were built to the Havyard 842 design. They have a length of 74.5m, breadth of 17.2m and a deck area of 500m². They have a total engine output of 16,600 bhp, providing a bollard pull of circa 200 tons. *Vengery (ex POSH Constant)*
+**Long-Term Extensions For Lng Psvs**:
 
-#### BRIDGEWATER UPGRADES AHTS FLEET
 
-*Rem Arctic prior to Solstad ownership* *(pictured c/o O. Halland)*
+**Leopard Prowling The Med**:
 
-#### FEMCO BUYS POSH PAIR
 
-Russian owner FEMCO has recently acquired two sister AHTS vessels from POSH Semco. The POSH Constant and POSH Conquest, renamed as Vengery and Venie respectively, are currently heading towards Murmansk from Singapore with arrivals scheduled for mid-June.
+**Spirit Selects Psv Support**:
+ Grampian Talisker (pictured c/o C. Reid) Harvey Liberty
 
-Bridgewater Offshore, a joint venture between Kim Heng Offshore and private equity investors, has upgraded its offshore fleet via the acquisition of two AHTS vessels from a liquidation sale. The Salveritas and Salviceroy, to be renamed as Bridgewater 163 and 168, were
+### Osv Rates & Utilisation (Page 6)
 
-previously owned by POSH Terasea. The 2007-built vessels have a bollard pull of 150-160t. Meanwhile, Bridgewater also recently offloaded one of its smaller anchor handlers. The 2004-built Bridgewater 80 was sold to undisclosed buyers for USD 1.85 million.
+**6   Seabreeze**:
 
-SEABREEZE 9
 
-*Salveritas (Bridgewater 163)*
+**Osv Rates & Utilisation**:
 
-# NEWBUILDS, CONVERSIONS, S&P
 
-conditions have dramatically changed. Tidewater is holding its divestiture target at USD 39 million for 2020 but has now acknowledged that it may have to divest more than the intended 46 vessels to achieve that target.
+**North Sea Spot Average Utilisation May 2020**:
 
-#### TIDEWATER LOOKING TO DIVEST MORE TONNAGE
 
-When Tidewater released its first quarter results, the company revealed that 46 lower specification vessels had been identified for disposal this year as part of an effort to ‘high grade’ its fleet. Since then, market
+**May 2020**:
 
-#### KARADENIZ PICKS UP ANOTHER OSV
 
-The Karadeniz Group has bought integrated power plants that another OSV for conversion into can supply electricity to shore. a powership. The Turkish owner The Crest Angelica, renamed recently acquired the 2012-built as Karadeniz Powership Alper Crest Angelica from Pacific Bay, has a deadweight of nearly Radiance and she will now be 7,000t and a deck area of more modified into a vessel with fully than 1,600m².
+**Apr 2020**:
 
-#### GUANGXIN RESELLS PSV PAIR
 
-Guangxin Shipbuilding in China has entered into an agreement with Tianjin Zhihai Shipping for the resale of two PSVs that had initially been ordered by Indian company Tag Offshore. The 78m vessels, which have
+**Mar 2020**:
 
-#### US GULF PSVS SOLD OUT OF MARKET
 
-both been built to the Focal 522 design, are scheduled for delivery during the third quarter of 2020. They became available for resale after the intended owners Tag Offshore went into a liquidation process.
+**Feb 2020**:
 
-|Two small PSVs in the US|Mail Company, with the vessel|
-|---|---|
-|Gulf have recently been sold|renamed as Bruce Mail.|
-|to owners outside the offshore|Meanwhile, Southern States has|
-|sector.|sold the 1999-built Southern|
-|Aries Marine has sold the|Quest to Panama-based Servitec|
-|1983-built Elsa Leigh to|Steam Ship, with this vessel|
-|Bahamas-based Cat Island|renamed as VI Quest.|
 
-#### RECENT DELIVERIES OF NEWBUILD OSVS
+**Jan 2020**:
 
-|NAME|TYPE/DESIGN|OWNER / MANAGER|COMMITMENT|
-|---|---|---|---|
-|GUO HAI MIN SHENG|ULSTEIN PX 121 PSV|SINO-OCEAN|FAR EAST|
-|GUO HAI MIN XING|ULSTEIN PX 121 PSV|SINO-OCEAN|FAR EAST|
-|SEACOR ANDES|UT 771 CDL PSV|SEACOR MARINE|TBC|
 
-10 SEABREEZE
+**Dec 2019**:
 
-*Elsa Leigh (Bruce Mail)*
 
-# SUBSEA
+**Med Psv**:
+ 42% 66% 63% 59% 66% 67%
 
-#### SUBSEA MARKET ROUND-UP
+**Large Psv**:
+ 50% 58% 74% 65% 80% 68%
 
-|The main focus of last month’s|during 2020. The field partners|pipelines, along with well plug|
-|---|---|---|
-|commentary was the trend of|had been investigating various|and abandonment.|
-|project delays or cancellations.|alternative production strategies|This approval only addresses|
-|Despite a marginal recovery|to further extend the life of the|Phase 1, which is currently|
-|in oil prices in May, this trend|fields, but no viable alternative|planned for the summer of 2020.|
-|has continued but we have also|has been identified. Some of|This will involve the flushing|
-|experienced a renewed focus on|the options included near-field|and cleaning of the FPSO, FSO|
-|decommissioning projects. Being|tie-back opportunities, the|and subsea production systems,|
-|able to secure vessels for these|de-bottlenecking of the Kyle|the implementation of required|
-|decom campaigns while rates|field and further development|isolations, removal of the FPSO|
-|are low will ultimately reduce|drilling.|and FSO, as well as the removal|
-|the overall cost of the project.|The removal of the FPSO and|of buoyant flexible pipelines and|
-|The UK authorities have|FSO form part of a wider Banff|vessel mooring infrastructure.|
-|approved CNR’s plan for the|and Kyle decommissioning|The remaining phases associated|
-|removal of the Petrojarl Banff|plan. This will be carried out in|with the Banff and Kyle decom|
-|FPSO and Apollo Spirit FSO|three distinct phases over the|will be covered by their own|
-|from the Banff and Kyle fields|course of five years. The first|programmes. To remind, CNR|
-|in the Central North Sea. With|phase covers the removal of the|decided to extend the charter for|
-|production rates at both fields|FPSO and FSO vessels, while|the Petrojarl Banff FPSO back in|
-|on the decline, CNR has found|the second and third phases|May 2019 to keep it working on|
-|that continued production|will cover the decommissioning|the fields until the end of August|
-|would become uneconomical|of the subsea installations and|2020.|
+**Med Ahts**:
+ 38% 51% 38% 13% 62% 51%
 
-#### MAERSK TO WORK ON DUNLIN ALPHA REMOVAL
+**Large Ahts**:
+ 55% 67% 57% 36% 63% 62%
 
-||Dunlin Alpha platform’s subsea|Maersk Involver. All four vessels|
-|---|---|---|
-||conductors and guide frames. Maersk will remove four 30 inch jacket-mounted drilling conductors and two associated conductor guide frames using|are equipped with a 400-tonne crane, DP3 and accommodation for 120 persons. Project management and engineering will commence this|
-|Fairfield Betula Limited has|one of their four I-class vessels:|year, with offshore execution|
-|awarded Maersk Supply Service|Maersk Implementer, Maersk|currently scheduled for 2022 or|
-|a contract for the removal of the|Installer, Maersk Inventor or|2023.|
+**May 2020 - Daily North Sea Osv Availability**:
 
-#### POLAR KING CHARTER EXTENDED
 
-Nexans Skagerrak has extended The vessel has been conducting its contract with GC Rieber cable lay support and trenching Shipping’s IMR support vessel worldwide, but is also capable Polar King by a further two of carrying out IMR duties. months. The charter, which The Polar King has a 150-tonne initially started in January 2017, active heave compensated is now firm until September crane, two work-class ROVs and
+### North Sea Average Spot Rates (Page 7)
 
-2020. accommodation for 112 persons.
-SEABREEZE 11
+**Seabreeze   7**:
 
-# SUBSEA
 
-#### TOTAL JOINS O/G DECARB PROJECT
+**North Sea Average Spot Rates**:
+ £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £16,134 £20,987 £20,592 £16,775 £26,482 £25,687 £23,150 £32,237 £33,057 £29,220 £24,610 £34,702 2020 £9,203 £16,901 £21,268 £8,141 £13,100 £- £- £- £- £- £- £- Rig Moves £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £29,143 £14,899 £19,848 £15,703 £21,629 £24,750 £20,533 £16,124 £35,871 £34,305 £24,346 £21,707 2020 £7,959 £18,562 £25,486 £7,087 £10,745 £- £- £- £- £- £- £- PSVs > 900M2 £- £5,000 £10,000 £15,000 £20,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,280 £11,076 £13,339 £16,587 £15,422 £11,039 £11,928 £10,646 £10,434 £6,940 £8,007 £9,683 2020 £6,810 £8,014 £7,132 £3,733 £4,370 £- £- £- £- £- £- £- PSVs < 900M2 £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,299 £8,789 £9,473 £15,340 £14,573 £10,224 £10,639 £8,420 £11,161 £5,916 £8,398 £7,918 2020 £5,257 £6,308 £8,863 £3,485 £3,751 £- £- £- £- £- £- £- All Cargo Runs £- £5,000 £10,000 £15,000 £20,000 £25,000 PSVs < 900m² PSVs > 900m² AHTS < 22,000 bhp AHTS > 22,000 bhp 2019 £10,580 £11,873 £20,992 £21,687 2020 £- £- £- £- Average Day Rates To Month  (June 2013) £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £16,134 £20,987 £20,592 £16,775 £26,482 £25,687 £23,150 £32,237 £33,057 £29,220 £24,610 £34,702 2020 £9,203 £16,901 £21,268 £8,141 £13,100 £- £- £- £- £- £- £- Rig Moves £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £29,143 £14,899 £19,848 £15,703 £21,629 £24,750 £20,533 £16,124 £35,871 £34,305 £24,346 £21,707 2020 £7,959 £18,562 £25,486 £7,087 £10,745 £- £- £- £- £- £- £- PSVs > 900M² £- £5,000 £10,000 £15,000 £20,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,280 £11,076 £13,339 £16,587 £15,422 £11,039 £11,928 £10,646 £10,434 £6,940 £8,007 £9,683 2020 £6,810 £8,014 £7,132 £3,733 £4,370 £- £- £- £- £- £- £- PSVs < 900M² £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,299 £8,789 £9,473 £15,340 £14,573 £10,224 £10,639 £8,420 £11,161 £5,916 £8,398 £7,918 2020 £5,257 £6,308 £8,863 £3,485 £3,751 £- £- £- £- £- £- £- All Cargo Runs £- £5,000 £10,000 £15,000 £20,000 £25,000 PSVs < 900m² PSVs > 900m² AHTS < 22,000 bhp AHTS > 22,000 bhp 2019 £10,580 £11,873 £20,992 £21,687 2020 £- £- £- £- Average Day Rates To Month  (June 2013) £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £16,134 £20,987 £20,592 £16,775 £26,482 £25,687 £23,150 £32,237 £33,057 £29,220 £24,610 £34,702 2020 £9,203 £16,901 £21,268 £8,141 £13,100 £- £- £- £- £- £- £- Rig Moves £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £29,143 £14,899 £19,848 £15,703 £21,629 £24,750 £20,533 £16,124 £35,871 £34,305 £24,346 £21,707 2020 £7,959 £18,562 £25,486 £7,087 £10,745 £- £- £- £- £- £- £- PSVs > 900M2 £- £5,000 £10,000 £15,000 £20,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,280 £11,076 £13,339 £16,587 £15,422 £11,039 £11,928 £10,646 £10,434 £6,940 £8,007 £9,683 2020 £6,810 £8,014 £7,132 £3,733 £4,370 £- £- £- £- £- £- £- PSVs < 900M2 £- £10,000 £20,000 £30,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,299 £8,789 £9,473 £15,340 £14,573 £10,224 £10,639 £8,420 £11,161 £5,916 £8,398 £7,918 2020 £5,257 £6,308 £8,863 £3,485 £3,751 £- £- £- £- £- £- £- All Cargo Runs £- £5,000 £10,000 £15,000 £20,000 £25,000 PSVs < 900m² PSVs > 900m² AHTS < 22,000 bhp AHTS > 22,000 bhp 2019 £10,580 £11,873 £20,992 £21,687 2020 £- £- £- £- Average Day Rates To Month  (June 2013) £- £5,000 £10,000 £15,000 £20,000 £25,000 £30,000 £35,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £16,134 £20,987 £20,592 £16,775 £26,482 £25,687 £23,150 £32,237 £33,057 £29,220 £24,610 £34,702 2020 £9,203 £16,901 £21,268 £8,141 £13,100 £- £- £- £- £- £- £- AHTS > 22,000 bhp £- £5,000 £10,000 £15,000 £20,000 £25,000 £30,000 £35,000 £40,000 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £29,143 £14,899 £19,848 £15,703 £21,629 £24,750 £20,533 £16,124 £35,871 £34,305 £24,346 £21,707 2020 £7,959 £18,562 £25,486 £7,087 £10,745 £- £- £- £- £- £- £- AHTS < 22,000 bhp £- £2,500 £5,000 £7,500 £10,000 £12,500 £15,000 £17,500 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,280 £11,076 £13,339 £16,587 £15,422 £11,039 £11,928 £10,646 £10,434 £6,940 £8,007 £9,683 2020 £6,810 £8,014 £7,132 £3,733 £4,370 £- £- £- £- £- £- £- PSVs > 900m² £- £2,500 £5,000 £7,500 £10,000 £12,500 £15,000 £17,500 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2019 £5,299 £8,789 £9,473 £15,340 £14,573 £10,224 £10,639 £8,420 £11,161 £5,916 £8,398 £7,918 2020 £5,257 £6,308 £8,863 £3,485 £3,751 £- £- £- £- £- £- £- PSVs < 900m² £- £5,000 £10,000 £15,000 £20,000 £25,000 PSVs < 900m² PSVs > 900m² AHTS < 22,000 bhp AHTS > 22,000 bhp 2019 £10,638 £12,012 £20,491 £20,837 2020 £5,943 £6,398 £15,274 £14,301 Average Day Rates To Month (May 2020)
 
-|While several operators are|technology from a floating|of hydrogen into gas that could|
-|---|---|---|
-|looking at reducing their costs|foundation to store energy and|be sent ashore. Other partners in|
-|for decommissioning projects,|convert electricity into hydrogen|the O/G Decarb include Floating|
-|some are also investigating ways|via electrolysis. As well as|Power Plant A/S, the Danish|
-|to introduce renewable energy to|ensuring that the production|Hydrocarbon Research and|
-|power offshore platforms.|platform has access to a stable|Technology Centre, DTU Wind,|
-|With that in mind, Total has|source of renewable energy,|Hydrogen Valley, the Danish Gas|
-|joined the O/G Decarb project|the project will also examine|Technology Centre and Technip|
-|exploring the possibility of|whether it would be possible to|FMC. The project will run until|
-|using combined wind and wave|integrate any surplus production|the end of 2020.|
+### Feature Vessel (Page 8)
 
-#### SUBSEA 7 SECURES CORE EPCI CONTRACT
+**8   Seabreeze**:
 
-|Independent Oil and Gas has|installation of 35km of flowlines|offshore activities are scheduled|
-|---|---|---|
-|awarded an EPCI contract to|between the Southwark, Blythe|to start during the second half|
-|Subsea 7 covering the subsea|and Elgood fields, as well as the|of 2020. This contract follows|
-|scopes at its Core Project in the|subsea structures, an umbilical,|the recent approval of the Phase|
-|UK Southern North Sea.|and associated subsea tie-ins.|1 Field Development Plan by|
-|The workscope includes project|The project management and|the UK Oil and Gas Authority.|
-|management, engineering,|detailed engineering have|First gas from the development|
-|procurement, construction and|already commenced, while|should flow in July 2021.|
 
-#### MIXED FORTUNES FOR DOF
+**Feature Vessel**:
+ Seacor Marine has mobilised its newbuild PSV Seacor Andes to Singapore following her recent delivery from the COSCO Zhoushan Shipyard in China.
 
-||with the OCV Skandi Acergy after|is Subsea 7 but this has yet to be|
-|---|---|---|
-||declaring a 60-day notice period. The Skandi Acergy will return to DOF’s pool of vessels on July 1, 2020. DOF states that it is entitled to a termination fee. Meanwhile DOF also secured a new contract with an undisclosed|confirmed. The 2011-built vessel will carry out a ploughing scope of work with commencement scheduled for later this year. Separately, a second undisclosed client has also chartered one of DOF’s construction vessels for a|
-|DOF Subsea experienced mixed|international charterer for the|six-month campaign, with options|
-|fortunes during May after Subsea|Skandi Skansen (pictured). It has|available to extend the contract by|
-|7 terminated its two-year contract|been suggested that the end client|up to 12 months.|
+**Seacor Andes**:
+ This is the second in a series of three sister vessels that COSCO has been building for Seacor, following the earlier delivery of the Seacor Alps last October. The final vessel, the Seacor Atlas, is also expected to be delivered this year.
 
-#### MMT KEEPS DEEP HELDER
+The three vessels, built to the UT 771 CDL design, were originally ordered as part of a four-PSV deal for the East Sunrise Group but only one unit was actually delivered to the intended owners. The other three were acquired by Seacor Marine in January 2019 for a total price of around USD 46 million.
 
-|MMT has awarded SeaMar a new|crane, inspection and work-class|the Deep Helder to Massachusetts|
-|---|---|---|
-|six-month contract to extend its charter with the 2014-built IMR support vessel Deep Helder. The DP2 vessel has a length of 64.8m and a deck area of 500m², and she is equipped with a 20t|ROVs and accommodation for 50 persons. She is also part of a pool vessel agreement between MMT and Reach Subsea. The six-month extension will commence in July 2020. MMT has recently relocated|to carry out wind-farm work.|
+The vessels have a length of 83.8m, breadth of 18.0m and a deadweight in excess of 3,800t.
 
-12 SEABREEZE
+They have a deck area of 875m².
 
-# SUBSEA
+The trio are powered by four main MTU 12V4000M23S engines, providing a total output of 7,402 bhp. They each have an accommodation capacity for 46 persons in a combination of one, two and four-berth cabins.
 
-#### SOLSTAD SECURES TERM CONTRACTS FOR DUO
+**Seacor Andes Specs:**:
+ Yard: COSCO Zhoushan, China Design: UT 771 CDL PSV LOA: 83.8m Breadth: 18.0m Deadweight: 3,857t Deck Area: 875m² Accommodation: 46 persons Main Engine Output: 7,402 bhp Economic Speed: 10.0 knots Eco Consumption: 7.3m³/day
 
-|Solstad has recently secured|Brazilian continental shelf. The|scope will be outside the oil &|
-|---|---|---|
-|two new term contracts for its|new contract will commence|gas and renewables markets.|
-|2001-built IMR vessel Far Saga|during the third quarter of 2020.|The Front Runner publication|
-|and 2007-built OCV Normand|The Far Saga has been operating|has reported that this charter|
-|Energy.|in Brazil since 2014.|will likely be for DEME/GSR for|
-|Petrobras has awarded Solstad a three-year contract to retain the services of the Brazilian-flagged Far Saga. The vessel is equipped with a 100t crane, two work-class ROVs and accommodation for 63 persons. Petrobras will continue to use the vessel to support its exploration and production activities on the|Meanwhile, an undisclosed client has chartered the OCV Normand Energy for a period of four to six months. The Normand Energy is equipped with a 250t crane and accommodation for 100 persons. This contract will commence during the latter stages of this quarter. It is understood that the work|seabed mineral mining work.|
+### Newbuilds, Conversions, S&P (Page 9)
 
-*Normand Energy (c/o O. Halland)*
+**Seabreeze   9**:
 
-#### SHELL CONTRACT FOR NORTRANS
 
-Shell has awarded a contract Meanwhile, Nortrans also 84m Temis is equipped with an to Singapore-based Nortrans secured a floatel contract with accommodation capacity for 501 Offshore and its partner in Noble Energy for the Alen Gas persons. Nigeria to utilise the Nigerian-field development off Equatorial flagged IMR vessel Prince Guinea. After completing the Jameson I (pictured). Leviathan project in January The contract has an estimated 2020, Noble once again selected duration of one to three months. the 2015-built DP3 floatel Temis. The 86m vessel, built in 2017, The vessel will support Noble’s is equipped with a 100t active hook up and commissioning heave compensated crane and project commencing in the accommodation for 100 persons. third quarter of this year. The
+**Newbuilds, Conversions, S&P**:
 
-#### SUBSEA 7 TO REDUCE FLEET SIZE
 
-|Subsea 7 has publicised further|vessels, including the Skandi|3,000 employees (25%).|
-|---|---|---|
-|details about its cost reduction|Acergy. Subsea 7 already has|Capital expenditures will also|
-|programme. Firstly, Subsea 7|the Seven Phoenix stacked and|be reduced to minimal levels in|
-|has terminated its charter of the OCV Skandi Acergy. Over the next 12 months, the contractor plans to further reduce its fleet of 32 vessels by up to 10 vessels through the non-renewal of chartered tonnage and the stacking of owned assets. Subsea 7 currently charters in eight|has removed the pipelay vessel Seven Mar from its fleet list as it is held for sale. As part of a target to achieve USD 400 million in annualised cost savings from the second quarter of 2021, Subsea 7 has also confirmed that it will reduce its global headcount by|2021 and 2022.|
+**Two Ulstein Newbuilds Delivered In China**:
+ The Rem Arctic is back. Having originally been delivered as the Rem Arctic in 2015 under the ownership of Rem Offshore, the VS 485 MkIII PSV was renamed as the Normand Skude following the 2016 merger of Rem Offshore with Solstad. Now, Solstad has sold the vessel and she will soon return to the market as the Rem Arctic under the management of the new Rem Offshore. Rem has already lined up a term contract for the vessel offshore Russia alongside stablemate Rem Cetus (see p.4). The Rem Arctic has just been put through her five-year survey at Myklebust Verft.
 
-SEABREEZE 13
+**Return Of Rem Arctic**:
+ The first two of four Ulstein PX 121 PSVs have been delivered to SinoOcean by Shanghai Waigaoqiao Shipbuilding (SWS) in China.
 
-# RENEWABLES
+The deliveries of the Guo Hai Min Sheng and Guo Hai Min Xing will be followed later this year by sister vessels Guo Hai Min Fu and Guo Hai Min Qiang.
 
-#### ONGC TO EXPAND RENEWABLE FOOTPRINT
+The original newbuild order was placed by Pacific Radiance.
 
-|ONGC and NTPC Ltd have|both companies to expand their|32GW of renewable energy|
-|---|---|---|
-|signed a Memorandum of|footprint in renewable energy.|projects by 2032 as it looks to|
-|Understanding (MoU) to set up|ONGC’s current renewable|expand its footprint in offshore|
-|a joint venture company for the|portfolio consists of 153MW of|wind and overseas renewable|
-|renewable energy business.|wind power and 23MW of solar.|energy projects.|
-|The MoU will see both NTPC|ONGC wants to add 10GW of|NTPC has 920MW of installed|
-|and ONGC explore the potential|renewable power to its portfolio|renewable energy projects in its|
-|to establish offshore wind and|by 2040.|portfolio and around 2,300MW|
-|other renewable energy projects|NTPC, India’s largest power|of renewable energy projects|
-|in India and overseas, allowing|company, is aiming to develop|under construction.|
+Instead, under the ownership of SinoOcean, all four vessels have been chartered to China Offshore Services Ltd (COSL) to support production operations offshore China.
 
-#### DOMINION TO DEVELOP JONES ACT VESSEL
+**Bridgewater Upgrades Ahts Fleet**:
+ Bridgewater Offshore, a joint venture between Kim Heng Offshore and private equity investors, has upgraded its offshore fleet via the acquisition of two AHTS vessels from a liquidation sale. The Salveritas and Salviceroy, to be renamed as Bridgewater 163 and 168, were previously owned by POSH Terasea. The 2007-built vessels have a bollard pull of 150-160t.
 
-|A consortium led by Dominion|next generation turbine sizes|developing the 2.6GW Coastal|
-|---|---|---|
-|Energy is developing a Jones Act|of 12MW and above. Subject to|Virginia Offshore Wind (CVOW)|
-|compliant installation vessel|funding by all the consortium|project, as well as a 12MW pilot|
-|for wind projects along the East Coast of the United States. The vessel would be equipped to handle all current turbine technologies as well as the|participants, the vessel could enter service as early as 2023 to work on wind projects offshore the East Coast of the USA. Dominion Energy is already|project with Ørsted.|
+Meanwhile, Bridgewater also recently offloaded one of its smaller anchor handlers. The 2004-built Bridgewater 80 was sold to undisclosed buyers for USD 1.85 million.
 
-#### ESVAGT’S NEWBUILD SOVS DELAYED
+Salveritas (Bridgewater 163)
 
-|Esvagt has agreed to delay the|The three vessels are all being|due for delivery during the third|
-|---|---|---|
-|delivery of its three newbuild|built for long-term contracts|quarter of 2020. Esvagt has yet|
-|Havyard 831L SOVs from|with turbine manufacturer|to provide an updated delivery|
-|Norwegian shipyard Havyard.|MHI Vestas for the Moray East,|schedule.|
-|Esvagt has also contributed to an|Triton Knoll, and Borssele III||
-|economic rescue package for the|and IV wind farms. The Moray||
-|shipbuilder.|East SOV had been scheduled||
-|The Danish company said the|for delivery in February 2021,||
-|delivery delays come as a result|with the Triton Knoll SOV also||
-|of Havyard finding itself in|due in the first quarter of 2021.||
-|“financial whirlwinds.”|The Borssele III and IV SOV was||
+**Femco Buys Posh Pair**:
+ Russian owner FEMCO has recently acquired two sister AHTS vessels from POSH Semco. The POSH Constant and POSH Conquest, renamed as Vengery and Venie respectively, are currently heading towards Murmansk from Singapore with arrivals scheduled for mid-June.
 
-#### ROVCO TO WORK ON EAST ANGLIA ONE
+The Vengery and Venie are both 10-year old vessels that were built to the Havyard 842 design.
 
-Rovco has been awarded a long-on all the subsea structures, All 102 turbines are installed on term contract with CWind for including the maintenance of the 714MW East Anglia ONE subsea work on the East Anglia the wind turbine and substation offshore wind farm, which will ONE wind project offshore the foundations. The contract will be fully commissioned later this United Kingdom. utilise a combined DP2 vessel year. First power was delivered Rovco will provide subsea and CSV solution alongside a to the UK grid in September inspection and survey work work-class ROV. 2019.
+They have a length of 74.5m, breadth of 17.2m and a deck area of 500m². They have a total engine output of 16,600 bhp, providing a bollard pull of circa 200 tons.
 
-14 SEABREEZE
+Guo Hai Min Xing Rem Arctic prior to Solstad ownership (pictured c/o O. Halland) Vengery (ex POSH Constant)
 
-# RIGS
+### Newbuilds, Conversions, S&P (Page 10)
 
-|INACTIVE RIGS NORTHWEST EUROPE|||
-|---|---|---|
-|NAME|TYPE|STATUS|
-|BIDEFORD DOLPHIN|SS|WARM STACK|
-|BLACKFORD DOLPHIN|SS|WARM STACK|
-|BOLETTE DOLPHIN|DS|COLD STACK|
-|COSLINNOVATOR|SS|WARM STACK|
-|DEEPSEA BERGEN|SS|WARM STACK|
-|DEEPSEA STAVANGER|SS|HOT STACK|
-|MAERSK GALLANT|JU|COLD STACK|
-|MAERSK INNOVATOR|JU|WARM STACK|
-|MAERSK INTERCEPTOR|JU|WARM STACK|
-|MAERSK REACHER|JU|WARM STACK|
-|MAERSK RESILIENT|JU|WARM STACK|
-|MAERSK RESOLUTE|JU|WARM STACK|
-|NOBLE HANS DEUL|JU|WARM STACK|
-|NOBLE HOUSTON COLBERT|JU|WARM STACK|
-|NOBLE SAM HARTLEY|JU|WARM STACK|
-|NOBLE SAM TURNER|JU|WARM STACK|
-|OCEAN VALIANT|SS|COLD STACK|
-|PROSPECTOR 1|JU|WARM STACK|
-|PROSPECTOR 5|JU|WARM STACK|
-|SCARABEO 8|SS|WARM STACK|
-|STENA SPEY|SS|WARM STACK|
-|SWIFT 10|JU|COLD STACK|
-|VALARIS JU-70|JU|COLD STACK|
-|VALARIS JU-71|JU|COLD STACK|
-|VALARIS JU-100|JU|COLD STACK|
-|VALARIS JU-121|JU|WARM STACK|
-|VALARIS JU-123|JU|WARM STACK|
-|VALARIS JU-249|JU|WARM STACK|
-|WEST ALPHA|SS|COLD STACK|
-|WEST BOLLSTA|SS|WARM STACK|
-|WEST EPSILON|JU|COLD STACK|
-|WEST LEO|SS|COLD STACK|
-|WEST NAVIGATOR|DS|COLD STACK|
-|WEST PEGASUS|SS|COLD STACK|
-|WEST TAURUS|SS|COLD STACK|
-|WEST VENTURE|SS|COLD STACK|
-|WILHUNTER|SS|COLD STACK|
+**10   Seabreeze**:
 
-#### OIL PRICE VS RIG UTILISATION
 
-100% $75 $70 **$70.53** $65 90% **$65.85** **$63.30 $64.00 $62.33 $62.74 $63.60**
+**Newbuilds, Conversions, S&P**:
 
-**87.9% 87.9%** $60
-**$59.25 $59.37 87.3% 87.7%** $55 80%**75.1% 74.2% 74.2% 84.1%** **$55.00**
 
-**81.3% 81.1%** $50
-70% **73.9% 75.4%**
+**Tidewater Looking To Divest More Tonnage**:
+ The Karadeniz Group has bought another OSV for conversion into a powership. The Turkish owner recently acquired the 2012-built Crest Angelica from Pacific Radiance and she will now be modified into a vessel with fully integrated power plants that can supply electricity to shore.
 
-**76.2%**
-**74.0% 74.1%**
-$45
+The Crest Angelica, renamed as Karadeniz Powership Alper Bay, has a deadweight of nearly 7,000t and a deck area of more than 1,600m².
 
-**72.4% 71.8% 72.9% 73.1% 72.5% 73.8%**
-**70.4%**$40
-60%
+**Karadeniz Picks Up Another Osv**:
+ When Tidewater released its first quarter results, the company revealed that 46 lower specification vessels had been identified for disposal this year as part of an effort to ‘high grade’ its fleet. Since then, market conditions have dramatically changed. Tidewater is holding its divestiture target at USD 39 million for 2020 but has now acknowledged that it may have to divest more than the intended 46 vessels to achieve that target.
 
-**62.3% 62.5%**
-**65.9%**
-**$32.98**
+Two small PSVs in the US Gulf have recently been sold to owners outside the offshore sector.
 
-**64.8%** $30 $35 **$32.66** $25
-50%**$23.34** $20
+Aries Marine has sold the 1983-built Elsa Leigh to Bahamas-based Cat Island Mail Company, with the vessel renamed as Bruce Mail.
 
-**48.1% 49.5%**
-**50.3%**
-$15
+Meanwhile, Southern States has sold the 1999-built Southern Quest to Panama-based Servitec Steam Ship, with this vessel renamed as VI Quest.
 
-**50.8% 51.5%**
-40% **44.7% 44.2% 43.2% 43.8% 43.9% 44.0%** $10
+**Us Gulf Psvs Sold Out Of Market**:
 
-**40.8% 41.8%** $5
-30% $0 May 19 Jun 19 Jul 19 Aug 19 Sep 19 Oct 19 Nov 19 Dec 19 Jan 20 Feb 20 Mar 20 Apr 20 May 20 Average Brent Crude US$ / Bbl Northwest Europe Rig Utilisation South America Rig Utilisation US Gulf Rig Utilisation
 
-#### TRANSOCEAN SCRAPPING TWO MORE RIGS
+**Guangxin Resells Psv Pair**:
+ Guangxin Shipbuilding in China has entered into an agreement with Tianjin Zhihai Shipping for the resale of two PSVs that had initially been ordered by Indian company Tag Offshore.
 
-Transocean has announced plans GSF Development Driller II to a to dispose of two more of its third party or whether to scrap floating rigs. Harsh enviroment her as well. The Transocean 712 midwater semi Transocean is a 37-year old Earl & Wright 712 is to be recycled, while the S711 semsubmersible, while the company is evaluating whether GSF Development Driller II is a to sell ultra-deepwater semi 15-year old ultra-deepwater rig.
+The 78m vessels, which have both been built to the Focal 522 design, are scheduled for delivery during the third quarter of 2020. They became available for resale after the intended owners Tag Offshore went into a liquidation process.
 
-#### 900% RISE IN REMOTE RIG INSPECTIONS
+**Type/Design**:
 
-Bureau Veritas has recorded a with lockdown restrictions, 900% increase in demand for requests for remote inspection, remote inspection of offshore certification, examination and assets and equipment since the verification have escalated from outbreak of Covid-19. Due to a ‘want’ to a ‘need’. Bureau the risk of potential exposure to Veritas is hopeful that this trend the coronavirus, in combination will continue beyond Covid-19.
 
-#### RIG UTILISATION AND DAY RATES
+**Owner / Manager**:
 
-MAY MAY MAY MAY MAY UTILISATION 2020 2019 2018 2017 2016
 
-|RECENT DAY RATE BENCHMARKS|LOW (USD)|HIGH (USD)|
-|---|---|---|
-|UK HARSH HIGH SPEC JACKUPS|65,000|75,000|
-|NORWAY HARSH HIGH SPEC JACKUPS|274,000|280,000|
-|UK HARSH HIGH SPEC SEMISUBS|200,000|200,000|
-|GLOBAL ULTRA-DEEPWATER SEMISUBS|150,000|180,950|
-|GLOBAL ULTRA-DEEPWATER DRILLSHIPS|220,000|250,000|
+**Commitment**:
 
-||2020|2019|2018|2017|2016|
-|---|---|---|---|---|---|
-|NORTHWEST EUROPE|64.8%|73.9%|65.6%|52.7%|68.0%|
-|SOUTH AMERICA|87.9%|62.3%|68.1%|71.2%|77.1%|
-|US GULF|41.8%|48.1%|42.1%|32.8%|36.8%|
 
-Source: IHS-Petrodata
+### Subsea (Page 11)
 
-SEABREEZE 15
+**Seabreeze   11**:
 
-## CONUNDRUM CORNER, DUTY PHONES
 
-#### THE SEABREEZE ARCHIVE
+**Subsea**:
+ The main focus of last month’s commentary was the trend of project delays or cancellations.
 
-For the current or archive copies of Seabreeze go to: **[http://www.seabrokers.co.uk/**](http://www.seabrokers.co.uk/**) - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact: **chartering@seabrokers.co.uk**
+Despite a marginal recovery in oil prices in May, this trend has continued but we have also experienced a renewed focus on decommissioning projects. Being able to secure vessels for these decom campaigns while rates are low will ultimately reduce the overall cost of the project.
 
-#### EQUITY RAISE FOR BORR DRILLING
+The UK authorities have approved CNR’s plan for the removal of the Petrojarl Banff FPSO and Apollo Spirit FSO from the Banff and Kyle fields in the Central North Sea. With production rates at both fields on the decline, CNR has found that continued production would become uneconomical during 2020. The field partners had been investigating various alternative production strategies to further extend the life of the fields, but no viable alternative has been identified. Some of the options included near-field tie-back opportunities, the de-bottlenecking of the Kyle field and further development drilling.
 
-Borr Drilling has successfully completed an Equity Offering to raise gross proceeds of USD 30 million. The offering was substantially oversubscribed.
+The removal of the FPSO and FSO form part of a wider Banff and Kyle decommissioning plan. This will be carried out in three distinct phases over the course of five years. The first phase covers the removal of the FPSO and FSO vessels, while the second and third phases will cover the decommissioning of the subsea installations and pipelines, along with well plug and abandonment.
 
-This process was initiated following discussions with Borr’s creditors and shipyards in order to strengthen the company’s liquidity position. Those discussions revolved around the deferral of certain yard commitments, adjustments in covenants, deferred amortisation and deferral of certain interest payments. In combination with the equity offering, the target is to improve Borr’s liquidity until the beginning of 2022 by USD 315 million, and to lower its cash bareboat break-even rate to USD 20,000 per day until the end of 2021. That is calculated based on full selling, general and administrative expenses, plus stacking and cash interest costs. This is based on only 12 out of 23 of Borr’s delivered drilling rigs being in operation.
+This approval only addresses Phase 1, which is currently planned for the summer of 2020.
 
-#### SEABROKERS GROUP CONTACTS
+This will involve the flushing and cleaning of the FPSO, FSO and subsea production systems, the implementation of required isolations, removal of the FPSO and FSO, as well as the removal of buoyant flexible pipelines and vessel mooring infrastructure.
 
-**SEABROKERS HEAD OFFICE** Forusbeen 78 - 4033 Stavanger-Norway Tel: (+47) 51 80 00 00 Internet: www.seabrokers-group.com
+The remaining phases associated with the Banff and Kyle decom will be covered by their own programmes. To remind, CNR decided to extend the charter for the Petrojarl Banff FPSO back in May 2019 to keep it working on the fields until the end of August 2020.
 
-**SEABROKERS CHARTERING AS-STAVANGER** Duty Telephone ++47 51 815400 (24 Hrs) E-mail chartering@seabrokers.no
+**Subsea Market Round-Up**:
+ Fairfield Betula Limited has awarded Maersk Supply Service a contract for the removal of the Dunlin Alpha platform’s subsea conductors and guide frames.
 
-**SEABROKERS LTD-ABERDEEN** Duty Telephone ++44 1224 747744 (24 Hrs) Duty Mobile ++44 7802 304129 E-Mail chartering@seabrokers.co.uk
+Maersk will remove four 30 inch jacket-mounted drilling conductors and two associated conductor guide frames using one of their four I-class vessels:
 
-**SEABROKERS BRAZIL LTDA-RIO DE JANEIRO** Duty Telephone ++55 21 3505 4200 (24 Hrs) E-mail chartering@seabrokers.com.br
+Maersk Implementer, Maersk Installer, Maersk Inventor or Maersk Involver. All four vessels are equipped with a 400-tonne crane, DP3 and accommodation for 120 persons.
 
-**SECURALIFT AS-STAVANGER** Telephone ++47 51 800000 E-mail stig@seabrokers.no
+Project management and engineering will commence this year, with offshore execution currently scheduled for 2022 or 2023.
 
-**SEA SURVEILLANCE AS-BERGEN** Telephone ++47 55 136500
+**Maersk To Work On Dunlin Alpha Removal**:
 
-#### HEADING E-mail info@seasurv.net
 
-**SEABROKERS EIENDOM AS-STAVANGER** Quiatis imaximilitem num enis porum ne dolles Telephone ++47 51 800000 qui rerum id min corepta dolo quo conet il idE-mail rolf.aarthun@seabrokers.no quisto que voluptatus eatis re ventur? Hilibust quis as mincias peribustis qui dolorit officatus **SEABROKERS SERVICES AS-STAVANGER** aut preiumquas qui iuscimu sapelest, esto odio. Telephone ++47 51 800000 E-mail lars.hagen@seabrokers.no Itatecum cus acerum ipidunture corporpores et int faccum remperi onsequi **SEABROKERS FUNDAMENTERING AS-STAVANGER** Telephone ++47 51 800000 E-mail fundamentering@seabrokers.no
+**Polar King Charter Extended**:
+ Nexans Skagerrak has extended its contract with GC Rieber Shipping’s IMR support vessel Polar King by a further two months. The charter, which initially started in January 2017, is now firm until September 2020.
 
-**SEABROKERS HAVNEKRANER AS-STAVANGER** Telephone ++47 51 800000 E-mail havnekraner@seabrokers.no
+The vessel has been conducting cable lay support and trenching worldwide, but is also capable of carrying out IMR duties.
 
-#### CONUNDRUM CORNER
+### Subsea (Page 12)
 
-##### Last month’s answer :-
+**12   Seabreeze**:
 
-What numbers should replace the question marks?
 
-A generous boy wanted to give sweets to his classmates. He offered 9 sweets to each boy and 12 sweets to each girl. One third of the boys in the class accepted the sweets but only one quarter of the girls had the sweets. If the boy gave out 87 sweets, how many classmates did he have?
+**Subsea**:
+ While several operators are looking at reducing their costs for decommissioning projects, some are also investigating ways to introduce renewable energy to power offshore platforms.
 
-The answer was :- 29 (21 boys and 8 girls).
+With that in mind, Total has joined the O/G Decarb project exploring the possibility of using combined wind and wave technology from a floating foundation to store energy and convert electricity into hydrogen via electrolysis. As well as ensuring that the production platform has access to a stable source of renewable energy, the project will also examine whether it would be possible to integrate any surplus production of hydrogen into gas that could be sent ashore. Other partners in the O/G Decarb include Floating Power Plant A/S, the Danish Hydrocarbon Research and Technology Centre, DTU Wind, Hydrogen Valley, the Danish Gas Technology Centre and Technip FMC. The project will run until the end of 2020.
 
-##### This month, our poser is as follows:
+**Total Joins O/G Decarb Project**:
 
-What number should appear next in the following sequence?
 
-4 5 5 7 14 17 51 55 ?
+**Subsea 7 Secures Core Epci Contract**:
+ Independent Oil and Gas has awarded an EPCI contract to Subsea 7 covering the subsea scopes at its Core Project in the UK Southern North Sea.
 
-16 SEABREEZE
+The workscope includes project management, engineering, procurement, construction and installation of 35km of flowlines between the Southwark, Blythe and Elgood fields, as well as the subsea structures, an umbilical, and associated subsea tie-ins.
+
+The project management and detailed engineering have already commenced, while offshore activities are scheduled to start during the second half of 2020. This contract follows the recent approval of the Phase 1 Field Development Plan by the UK Oil and Gas Authority.
+
+First gas from the development should flow in July 2021.
+
+**Mixed Fortunes For Dof**:
+ DOF Subsea experienced mixed fortunes during May after Subsea 7 terminated its two-year contract with the OCV Skandi Acergy after declaring a 60-day notice period.
+
+The Skandi Acergy will return to DOF’s pool of vessels on July 1, 2020. DOF states that it is entitled to a termination fee.
+
+Meanwhile DOF also secured a new contract with an undisclosed international charterer for the Skandi Skansen (pictured). It has been suggested that the end client is Subsea 7 but this has yet to be confirmed. The 2011-built vessel will carry out a ploughing scope of work with commencement scheduled for later this year.
+
+Separately, a second undisclosed client has also chartered one of DOF’s construction vessels for a six-month campaign, with options available to extend the contract by up to 12 months.
+
+**Mmt Keeps Deep Helder**:
+ MMT has awarded SeaMar a new six-month contract to extend its charter with the 2014-built IMR support vessel Deep Helder.
+
+The DP2 vessel has a length of 64.8m and a deck area of 500m², and she is equipped with a 20t crane, inspection and work-class ROVs and accommodation for 50 persons. She is also part of a pool vessel agreement between MMT and Reach Subsea. The six-month extension will commence in July 2020. MMT has recently relocated the Deep Helder to Massachusetts to carry out wind-farm work.
+
+### Subsea (Page 13)
+
+**Seabreeze   13**:
+
+
+**Subsea**:
+
+
+**Solstad Secures Term Contracts For Duo**:
+ Solstad has recently secured two new term contracts for its 2001-built IMR vessel Far Saga and 2007-built OCV Normand Energy.
+
+Petrobras has awarded Solstad a three-year contract to retain the services of the Brazilian-flagged Far Saga. The vessel is equipped with a 100t crane, two work-class ROVs and accommodation for 63 persons.
+
+Petrobras will continue to use the vessel to support its exploration and production activities on the Brazilian continental shelf. The new contract will commence during the third quarter of 2020.
+
+The Far Saga has been operating in Brazil since 2014.
+
+Meanwhile, an undisclosed client has chartered the OCV Normand Energy for a period of four to six months. The Normand Energy is equipped with a 250t crane and accommodation for 100 persons.
+
+This contract will commence during the latter stages of this quarter.
+
+It is understood that the work scope will be outside the oil & gas and renewables markets.
+
+The Front Runner publication has reported that this charter will likely be for DEME/GSR for seabed mineral mining work.
+
+**Shell Contract For Nortrans**:
+ Shell has awarded a contract to Singapore-based Nortrans Offshore and its partner in Nigeria to utilise the Nigerian- flagged IMR vessel Prince Jameson I (pictured).
+
+The contract has an estimated duration of one to three months.
+
+The 86m vessel, built in 2017, is equipped with a 100t active heave compensated crane and accommodation for 100 persons.
+
+Meanwhile, Nortrans also secured a floatel contract with Noble Energy for the Alen Gas field development off Equatorial Guinea. After completing the Leviathan project in January 2020, Noble once again selected the 2015-built DP3 floatel Temis.
+
+The vessel will support Noble’s hook up and commissioning project commencing in the third quarter of this year. The 84m Temis is equipped with an accommodation capacity for 501 persons.
+
+### Renewables (Page 14)
+
+**14   Seabreeze**:
+
+
+**Renewables**:
+ ONGC and NTPC Ltd have signed a Memorandum of Understanding (MoU) to set up a joint venture company for the renewable energy business.
+
+The MoU will see both NTPC and ONGC explore the potential to establish offshore wind and other renewable energy projects in India and overseas, allowing both companies to expand their footprint in renewable energy.
+
+ONGC’s current renewable portfolio consists of 153MW of wind power and 23MW of solar.
+
+ONGC wants to add 10GW of renewable power to its portfolio by 2040.
+
+NTPC, India’s largest power company, is aiming to develop 32GW of renewable energy projects by 2032 as it looks to expand its footprint in offshore wind and overseas renewable energy projects.
+
+NTPC has 920MW of installed renewable energy projects in its portfolio and around 2,300MW of renewable energy projects under construction.
+
+**Ongc To Expand Renewable Footprint**:
+
+
+**Dominion To Develop Jones Act Vessel**:
+ A consortium led by Dominion Energy is developing a Jones Act compliant installation vessel for wind projects along the East Coast of the United States.
+
+The vessel would be equipped to handle all current turbine technologies as well as the next generation turbine sizes of 12MW and above. Subject to funding by all the consortium participants, the vessel could enter service as early as 2023 to work on wind projects offshore the East Coast of the USA.
+
+Dominion Energy is already developing the 2.6GW Coastal Virginia Offshore Wind (CVOW) project, as well as a 12MW pilot project with Ørsted.
+
+**Esvagt’S Newbuild Sovs Delayed**:
+ Esvagt has agreed to delay the delivery of its three newbuild Havyard 831L SOVs from Norwegian shipyard Havyard.
+
+Esvagt has also contributed to an economic rescue package for the shipbuilder.
+
+The Danish company said the delivery delays come as a result of Havyard finding itself in “financial whirlwinds.” The three vessels are all being built for long-term contracts with turbine manufacturer MHI Vestas for the Moray East, Triton Knoll, and Borssele III and IV wind farms. The Moray East SOV had been scheduled for delivery in February 2021, with the Triton Knoll SOV also due in the first quarter of 2021.
+
+The Borssele III and IV SOV was due for delivery during the third quarter of 2020. Esvagt has yet to provide an updated delivery schedule.
+
+### Rigs (Page 15)
+
+**Seabreeze   15**:
+
+
+**Rigs**:
+ Transocean has announced plans to dispose of two more of its floating rigs. Harsh enviroment midwater semi Transocean 712 is to be recycled, while the company is evaluating whether to sell ultra-deepwater semi GSF Development Driller II to a third party or whether to scrap her as well. The Transocean 712 is a 37-year old Earl & Wright S711 semsubmersible, while the GSF Development Driller II is a 15-year old ultra-deepwater rig.
+
+**Oil Price Vs Rig Utilisation**:
+
+
+**Rig Utilisation And Day Rates**:
+
+
+**Utilisation**:
+
+
+**May**:
+ 2020
+
+**May**:
+ 2019
+
+**May**:
+ 2018
+
+**May**:
+ 2017
+
+**May**:
+ 2016
+
+**Northwest Europe**:
+ 64.8% 73.9% 65.6% 52.7% 68.0%
+
+**South America**:
+ 87.9% 62.3% 68.1% 71.2% 77.1%
+
+**Us Gulf**:
+ 41.8% 48.1% 42.1% 32.8% 36.8%
+
+**Recent Day Rate Benchmarks**:
+
+
+**Low (Usd)**:
+
+
+### Heading (Page 16)
+
+**Heading**:
+ Quiatis imaximilitem num enis porum ne dolles qui rerum id min corepta dolo quo conet il id quisto que voluptatus eatis re ventur? Hilibust quis as mincias peribustis qui dolorit officatus aut preiumquas qui iuscimu sapelest, esto odio.
+
+Itatecum cus acerum ipidunture corporpores et int faccum remperi onsequi
+
+**16   Seabreeze**:
+
+
+**Equity Raise For Borr Drilling**:
+ Borr Drilling has successfully completed an Equity Offering to raise gross proceeds of USD 30 million.
+
+The offering was substantially oversubscribed.
+
+This process was initiated following discussions with Borr’s creditors and shipyards in order to strengthen the company’s liquidity position.
+
+Those discussions revolved around the deferral of certain yard commitments, adjustments in covenants, deferred amortisation and deferral of certain interest payments. In combination with the equity offering, the target is to improve Borr’s liquidity until the beginning of 2022 by USD 315 million, and to lower its cash bareboat break-even rate to USD 20,000 per day until the end of 2021.
+
+That is calculated based on full selling, general and administrative expenses, plus stacking and cash interest costs. This is based on only 12 out of 23 of Borr’s delivered drilling rigs being in operation.
+
+**Conundrum Corner**:
+ Last month’s answer :- What numbers should replace the question marks? A generous boy wanted to give sweets to his classmates. He offered 9 sweets to each boy and 12 sweets to each girl. One third of the boys in the class accepted the sweets but only one quarter of the girls had the sweets. If the boy gave out 87 sweets, how many classmates did he have? The answer was :- 29 (21 boys and 8 girls).
+
+This month, our poser is as follows:
+
+What number should appear next in the following sequence? 4    5    5    7    14    17    51    55    ?
+
+**The Seabreeze Archive**:
+ For the current or archive copies of Seabreeze go to: http://www.seabrokers.co.uk/ - see under Shipbroking / Market Reports. If you wish to Subscribe or Unsubscribe please contact:
+
+chartering@seabrokers.co.uk
+
+**Conundrum Corner,**:
+
+
+**Duty Phones**:
+
