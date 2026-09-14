@@ -2,16 +2,16 @@ name: Live ETF Quotes Poller (BDRY/BWET)
 
 on:
   schedule:
-    # Run every 30 minutes between 13:00 and 21:00 UTC (US market hours) Monday-Friday
-    - cron: '*/30 13-21 * * 1-5'
+    # Run every 15 minutes at off-peak minutes between 13:00 and 21:00 UTC (US market hours) Monday-Friday
+    - cron: '7,22,37,52 13-21 * * 1-5'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: data-pipeline
-  cancel-in-progress: false
+  group: live-etf-quotes
+  cancel-in-progress: true
 
 jobs:
   update-quotes:
@@ -27,11 +27,6 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
 
     - name: Pull latest before run
       run: git pull --rebase --autostash origin main

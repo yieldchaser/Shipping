@@ -18476,10 +18476,18 @@ if (intelTabsContainer) {
           }
         }
 
-        // Live quotes for ticker header
+        // Live quotes for ticker header & initial ETF card state
         try {
-          const qResp = await fetch('data/etf/live_quotes.json', { cache: 'no-cache' });
+          const qResp = await fetch(`data/etf/live_quotes.json?_t=${Date.now()}`, { cache: 'no-cache' });
           if (qResp.ok) DATA.etfLiveQuotes = await qResp.json();
+          // Opportunistically check raw GitHub for newer commit
+          fetch(`https://raw.githubusercontent.com/yieldchaser/Shipping/main/data/etf/live_quotes.json?_t=${Date.now()}`)
+            .then(r => r.ok ? r.json() : null)
+            .then(rawD => {
+              if (rawD && (!DATA.etfLiveQuotes || (rawD.updated_at_utc || '') > (DATA.etfLiveQuotes.updated_at_utc || ''))) {
+                DATA.etfLiveQuotes = rawD;
+              }
+            }).catch(() => {});
         } catch (e) {}
 
       } catch (err) {
@@ -22309,17 +22317,18 @@ function buildMaster() {
       var meta = null;
       var quoteSource = 'live';
 
-      // Quotes come from data/etf/live_quotes.json, refreshed on a schedule by the
-      // ETF sync workflow. External CORS proxies were removed: they added console
-      // noise and latency without being the source of truth. If the cache has no
-      // quote the existing empty state is shown - never a placeholder number.
+      // Quotes come from data/etf/live_quotes.json (synced by GitHub Actions poller).
+      // We probe both the deployed local path and raw.githubusercontent.com in parallel,
+      // selecting whichever payload has the most recent timestamp. This eliminates
+      // GitHub Pages deployment latency (~3-4 min) so fresh commits are seen instantly.
       try {
-        const probeRepoCache = async () => {
-          const r = await fetch(`data/etf/live_quotes.json?_t=${Date.now()}`, { signal: AbortSignal.timeout(3000) });
+        const fetchPayload = async (url, timeoutMs) => {
+          const r = await fetch(url, { signal: AbortSignal.timeout(timeoutMs) });
           if (!r.ok) throw new Error('!ok');
           const data = await r.json();
           const q = data?.quotes?.[ticker];
           if (q && q.price != null) {
+            const timeVal = new Date(q.market_time_utc || data.updated_at_utc || 0).getTime();
             return {
               meta: {
                 regularMarketPrice: q.price,
@@ -22328,17 +22337,29 @@ function buildMaster() {
                 symbol: ticker,
                 marketTimeUtc: q.market_time_utc
               },
-              source: 'cached'
+              source: 'cached',
+              timeVal: isNaN(timeVal) ? 0 : timeVal,
+              payload: data
             };
           }
           throw new Error('nodata');
         };
 
-        const probes = [probeRepoCache()];
+        const probeRepoCache = () => fetchPayload(`data/etf/live_quotes.json?_t=${Date.now()}`, 3000);
+        const probeRawGit = () => fetchPayload(`https://raw.githubusercontent.com/yieldchaser/Shipping/main/data/etf/live_quotes.json?_t=${Date.now()}`, 3500);
 
-        const winner = await Promise.any(probes);
-        meta = winner.meta;
-        quoteSource = winner.source;
+        const results = await Promise.allSettled([probeRawGit(), probeRepoCache()]);
+        const candidates = results
+          .filter(r => r.status === 'fulfilled' && r.value?.meta?.regularMarketPrice != null)
+          .map(r => r.value)
+          .sort((a, b) => b.timeVal - a.timeVal);
+
+        if (candidates.length > 0) {
+          const best = candidates[0];
+          meta = best.meta;
+          quoteSource = best.source;
+          if (best.payload) DATA.etfLiveQuotes = best.payload;
+        }
       } catch (e) {
         meta = null;
       }
