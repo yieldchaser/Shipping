@@ -33955,7 +33955,13 @@ function renderSignalsTab(productKey) {
       var hp = document.getElementById('ironOreHistoryPanel');
       if (hp) { hp.style.display = 'none'; destroyChart('ironOreHistoryChart'); }
       refreshOrePick();
-      renderIronOreForwardCurve();
+      if (_oreFwdComp !== 'none') {
+        ensureOreCompHistoryLoaded().then(function () {
+          renderIronOreForwardCurve();
+        });
+      } else {
+        renderIronOreForwardCurve();
+      }
     }
     window.setOreFwdProduct = setOreFwdProduct;
 
@@ -34077,6 +34083,22 @@ function renderSignalsTab(productKey) {
     }
     window.onOrePickChange = onOrePickChange;
 
+    function ensureOreCompHistoryLoaded() {
+      if (_oreFwdComp === 'none') return Promise.resolve();
+      var promises = [];
+      if (_oreFwdProduct === '65') {
+        promises.push(loadOreHistory('iron_ore_m65f'));
+      } else if (_oreFwdProduct === 'lump') {
+        promises.push(loadOreHistory('iron_ore_lump_lpf'));
+      } else if (_oreFwdProduct === 'spread') {
+        promises.push(loadOreHistory('iron_ore_m65f'));
+        promises.push(loadOreHistory('iron_ore_fef'));
+      } else {
+        promises.push(loadOreHistory('iron_ore_fef'));
+      }
+      return Promise.all(promises);
+    }
+
     function setOreFwdComp(c) {
       window.setOreFwdComp = setOreFwdComp;
       _oreFwdComp = c;
@@ -34085,7 +34107,7 @@ function renderSignalsTab(productKey) {
         if (el) el.classList.toggle('active', k === c);
       });
       if (c !== 'none') {
-        loadOreHistory('iron_ore_fef').then(function () {
+        ensureOreCompHistoryLoaded().then(function () {
           renderIronOreForwardCurve();
         });
       } else {
@@ -34223,6 +34245,7 @@ function renderSignalsTab(productKey) {
         });
       } else if (_oreFwdProduct === 'lump') {
         yScales.y.title.text = 'Lump Premium ($/dmtu)';
+        yScales.y.ticks.callback = function (v) { return fmt(v, 3); };
         datasets.push({
           label: 'Platts Lump Premium (LPF)',
           data: rows.map(function (r) { return r.lpf_settle; }),
@@ -34277,55 +34300,168 @@ function renderSignalsTab(productKey) {
         });
       }
 
-      // Comparison overlay
+      // Comparison overlay - matched to active product curve
       if (_oreFwdComp !== 'none') {
         var daysBack = { '1w': 7, '2w': 14, '1m': 30, '3m': 91 }[_oreFwdComp] || 0;
         var today = new Date(); today.setHours(0, 0, 0, 0);
         var refDate = new Date(today.getTime() - daysBack * 86400000);
-        var hist = DATA.sgxHistory ? (DATA.sgxHistory['iron_ore_fef'] || []) : [];
+        var compLabel = { '1w': '1W ago', '2w': '2W ago', '1m': '1M ago', '3m': '3M ago' }[_oreFwdComp] || _oreFwdComp;
 
-        if (hist.length) {
-          var compPrices = rows.map(function (r) {
-            var ticker = r.fef_ticker;
-            for (var i = hist.length - 1; i >= 0; i--) {
-              var hRow = hist[i];
-              if (hRow.contract === ticker) {
-                var d = parseDateISO(hRow.date) || parseDate(hRow.date);
-                if (d && d <= refDate) return parseFloat(hRow.price) || null;
+        function getHistPriceAsOf(histRows, ticker, targetDate) {
+          if (!histRows || !ticker) return null;
+          for (var i = histRows.length - 1; i >= 0; i--) {
+            var h = histRows[i];
+            if (h.contract === ticker) {
+              var d = parseDateISO(h.date) || parseDate(h.date);
+              if (d && d <= targetDate) {
+                var p = parseFloat(h.price);
+                return isNaN(p) ? null : p;
               }
             }
-            return null;
-          });
-
-          if (compPrices.some(function (p) { return p != null; })) {
-            var compLabel = { '1w': '1W ago', '2w': '2W ago', '1m': '1M ago', '3m': '3M ago' }[_oreFwdComp] || _oreFwdComp;
-            datasets.push({
-              label: '62% Settle (' + compLabel + ')',
-              data: compPrices,
-              borderColor: 'rgba(139,148,158,0.6)',
-              backgroundColor: 'transparent',
-              borderWidth: 1.5,
-              pointRadius: 3,
-              borderDash: [4, 4],
-              tension: 0.2,
-              order: 9
-            });
           }
+          return null;
+        }
+
+        var compDataset = null;
+
+        if (_oreFwdProduct === '62') {
+          var hist62 = DATA.sgxHistory ? (DATA.sgxHistory['iron_ore_fef'] || []) : [];
+          if (hist62.length) {
+            var compPrices = rows.map(function (r) {
+              return getHistPriceAsOf(hist62, r.fef_ticker, refDate);
+            });
+            if (compPrices.some(function (p) { return p != null; })) {
+              compDataset = {
+                label: '62% Settle (' + compLabel + ')',
+                data: compPrices,
+                borderColor: 'rgba(139,148,158,0.65)',
+                backgroundColor: 'transparent',
+                borderWidth: 1.5,
+                pointRadius: 3,
+                borderDash: [4, 4],
+                tension: 0.2,
+                order: 9
+              };
+            }
+          }
+        } else if (_oreFwdProduct === '65') {
+          var hist65 = DATA.sgxHistory ? (DATA.sgxHistory['iron_ore_m65f'] || []) : [];
+          if (hist65.length) {
+            var compPrices = rows.map(function (r) {
+              return getHistPriceAsOf(hist65, r.m65f_ticker, refDate);
+            });
+            if (compPrices.some(function (p) { return p != null; })) {
+              compDataset = {
+                label: '65% Carajás (' + compLabel + ')',
+                data: compPrices,
+                borderColor: 'rgba(227,179,65,0.65)',
+                backgroundColor: 'transparent',
+                borderWidth: 1.5,
+                pointRadius: 3,
+                borderDash: [4, 4],
+                tension: 0.2,
+                order: 9
+              };
+            }
+          }
+        } else if (_oreFwdProduct === 'lump') {
+          var histLump = DATA.sgxHistory ? (DATA.sgxHistory['iron_ore_lump_lpf'] || []) : [];
+          if (histLump.length) {
+            var compPrices = rows.map(function (r) {
+              return getHistPriceAsOf(histLump, r.lpf_ticker, refDate);
+            });
+            if (compPrices.some(function (p) { return p != null; })) {
+              compDataset = {
+                label: 'Lump Premium (' + compLabel + ')',
+                data: compPrices,
+                borderColor: 'rgba(163,113,247,0.65)',
+                backgroundColor: 'transparent',
+                borderWidth: 1.5,
+                pointRadius: 3,
+                borderDash: [4, 4],
+                tension: 0.2,
+                order: 9
+              };
+            }
+          }
+        } else if (_oreFwdProduct === 'spread') {
+          var hist62 = DATA.sgxHistory ? (DATA.sgxHistory['iron_ore_fef'] || []) : [];
+          var hist65 = DATA.sgxHistory ? (DATA.sgxHistory['iron_ore_m65f'] || []) : [];
+          if (hist62.length && hist65.length) {
+            var compSpreads = rows.map(function (r) {
+              var p65 = getHistPriceAsOf(hist65, r.m65f_ticker, refDate);
+              var p62 = getHistPriceAsOf(hist62, r.fef_ticker, refDate);
+              if (p65 != null && p62 != null) {
+                return +(p65 - p62).toFixed(2);
+              }
+              return null;
+            });
+            if (compSpreads.some(function (p) { return p != null; })) {
+              compDataset = {
+                label: '65/62 Quality Spread (' + compLabel + ')',
+                data: compSpreads,
+                borderColor: 'rgba(63,185,80,0.65)',
+                backgroundColor: 'transparent',
+                borderWidth: 1.5,
+                pointRadius: 3,
+                borderDash: [4, 4],
+                tension: 0.2,
+                order: 9
+              };
+            }
+          }
+        } else if (_oreFwdProduct === 'all') {
+          var hist62 = DATA.sgxHistory ? (DATA.sgxHistory['iron_ore_fef'] || []) : [];
+          if (hist62.length) {
+            var compPrices = rows.map(function (r) {
+              return getHistPriceAsOf(hist62, r.fef_ticker, refDate);
+            });
+            if (compPrices.some(function (p) { return p != null; })) {
+              compDataset = {
+                label: '62% Settle (' + compLabel + ')',
+                data: compPrices,
+                borderColor: 'rgba(139,148,158,0.65)',
+                backgroundColor: 'transparent',
+                borderWidth: 1.5,
+                pointRadius: 3,
+                borderDash: [4, 4],
+                tension: 0.2,
+                yAxisID: 'y',
+                order: 9
+              };
+            }
+          }
+        }
+
+        if (compDataset) {
+          datasets.push(compDataset);
         }
       }
 
       // Surface iron ore curve regime badge
       var oreRegimeBadge = document.getElementById('ironOreRegimeBadge');
       if (oreRegimeBadge && rows.length > 0) {
-        var firstRow = rows[0];
-        var oRegime = (firstRow.fef_curve_regime || 'FLAT').toUpperCase();
-        var oSlope = parseFloat(firstRow.fef_term_structure_slope) || 0;
-        var oColor = oRegime === 'CONTANGO' ? '#3fb950' : (oRegime === 'BACKWARDATION' ? '#f85149' : '#8b949e');
-        var oBg = oRegime === 'CONTANGO' ? 'rgba(63,185,80,0.15)' : (oRegime === 'BACKWARDATION' ? 'rgba(248,81,73,0.15)' : 'rgba(139,148,158,0.15)');
-        oreRegimeBadge.textContent = oRegime + ' (' + (oSlope >= 0 ? '+' : '') + oSlope.toFixed(2) + ' $/t)';
+        var p0 = rows[0].fef_settle;
+        var p1 = rows.length > 1 ? rows[1].fef_settle : p0;
+        var oSlope = (p1 != null && p0 != null) ? (p1 - p0) : (parseFloat(rows.length > 1 ? rows[1].fef_term_structure_slope : 0) || 0);
+        var oRegime = Math.abs(oSlope) < 0.15 ? 'FLAT' : (oSlope > 0 ? 'CONTANGO' : 'BACKWARDATION');
+        var oColor = oRegime === 'BACKWARDATION' ? '#3fb950' : (oRegime === 'CONTANGO' ? '#f85149' : '#8b949e');
+        var oBg = oRegime === 'BACKWARDATION' ? 'rgba(63,185,80,0.15)' : (oRegime === 'CONTANGO' ? 'rgba(248,81,73,0.15)' : 'rgba(139,148,158,0.15)');
+        oreRegimeBadge.textContent = 'PROMPT ' + oRegime + ' (' + (oSlope >= 0 ? '+' : '') + oSlope.toFixed(2) + ' $/t)';
         oreRegimeBadge.style.color = oColor;
         oreRegimeBadge.style.background = oBg;
         oreRegimeBadge.style.borderColor = oColor;
+
+        var m1Name = rows[0].tenor || 'Prompt';
+        var m2Name = (rows.length > 1 && rows[1].tenor) ? rows[1].tenor : 'M2';
+        var ttHtml = '<div class="rt-title">SGX 62% Fe Iron Ore Term Structure</div>' +
+          '<div class="rt-row"><span class="rt-label">Prompt 1M Slope (' + m1Name + ' vs ' + m2Name + ')</span><span class="rt-val ' + (oSlope < 0 ? 'pos' : 'neg') + '">' + oRegime + ' (' + (oSlope >= 0 ? '+' : '') + oSlope.toFixed(2) + ' $/t)</span></div>' +
+          '<div class="rt-row"><span class="rt-label">' + m1Name + ' Settle</span><span class="rt-val">$' + fmt(p0, 2) + '/t</span></div>' +
+          '<div class="rt-row"><span class="rt-label">' + m2Name + ' Settle</span><span class="rt-val">$' + fmt(p1, 2) + '/t</span></div>' +
+          '<div class="rt-note">Backwardation in iron ore (Spot &gt; Forward) signals prompt physical steel mill restocking and port consumption tightness.</div>';
+
+        oreRegimeBadge.setAttribute('data-tooltip', ttHtml);
+        oreRegimeBadge.style.cursor = 'help';
         oreRegimeBadge.style.display = 'inline-block';
       } else if (oreRegimeBadge) {
         oreRegimeBadge.style.display = 'none';
@@ -34347,12 +34483,16 @@ function renderSignalsTab(productKey) {
                 title: function (c) {
                   var idx = c[0].dataIndex;
                   var row = rows[idx];
-                  return row ? (row.tenor + ' (' + row.fef_ticker + ')') : c[0].label;
+                  if (!row) return c[0].label;
+                  var tickerDisplay = _oreFwdProduct === 'lump' ? row.lpf_ticker : (_oreFwdProduct === '65' ? row.m65f_ticker : row.fef_ticker);
+                  return row.tenor + (tickerDisplay ? ' (' + tickerDisplay + ')' : '');
                 },
                 label: function (c) {
                   var v = c.parsed.y;
                   if (v == null) return null;
-                  return ' ' + c.dataset.label + ': $' + fmt(v, 2);
+                  var decimals = _oreFwdProduct === 'lump' ? 4 : 2;
+                  var unitStr = _oreFwdProduct === 'lump' ? '/dmtu' : '';
+                  return ' ' + c.dataset.label + ': $' + fmt(v, decimals) + unitStr;
                 },
                 afterBody: function (items) {
                   var idx = items[0].dataIndex;
