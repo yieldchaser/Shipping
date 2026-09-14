@@ -303,7 +303,7 @@ def run_v4_pipeline():
     out_csv = os.path.join(out_dir, "star_asia_chart_v4_reconciled.csv")
     out_json = os.path.join(out_dir, "cascade_v4_audit_report.json")
     
-    df_v4.to_csv(out_csv, index=False)
+    df_v4.to_csv(out_csv, index=False, lineterminator="\n")
     
     audit_data = {
         'timestamp': datetime.now(timezone.utc).isoformat(),

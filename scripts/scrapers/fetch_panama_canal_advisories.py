@@ -51,7 +51,7 @@ def main():
     
     out_csv = COMMODITIES_DIR / "panama_canal_draft_and_slots.csv"
     df = pd.DataFrame(HISTORICAL_ACP_DRAFTS)
-    df.to_csv(out_csv, index=False)
+    df.to_csv(out_csv, index=False, lineterminator="\n")
     print(f"[OK] Saved {len(df)} historical ACP operational checkpoints to {out_csv.name}")
     
     # Save structured markdown brief

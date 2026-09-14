@@ -155,7 +155,7 @@ def main():
     # Append to master log
     write_header = not MASTER_LOG.exists()
     with open(MASTER_LOG, "a", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=log_rows[0].keys())
+        writer = csv.DictWriter(f, fieldnames=log_rows[0].keys(), lineterminator="\n")
         if write_header:
             writer.writeheader()
         writer.writerows(log_rows)

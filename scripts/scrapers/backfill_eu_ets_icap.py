@@ -72,6 +72,6 @@ if cols:
     bf = bf.reindex(columns=cols + ["provenance"], fill_value="")
 combined = pd.concat([existing, bf], ignore_index=True) \
     .sort_values("date").drop_duplicates(subset="date", keep="last").reset_index(drop=True)
-combined.to_csv(OUT, index=False)
+combined.to_csv(OUT, index=False, lineterminator="\n")
 print(f"wrote {len(combined)} rows ({len(bf)} backfilled from ICAP) -> {OUT.name}")
 print(combined.tail(3)[["date", "eua_carbon_price_eur_tco2"]].to_string(index=False))

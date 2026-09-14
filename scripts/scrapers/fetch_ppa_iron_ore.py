@@ -533,7 +533,7 @@ def backfill_dampier_wayback() -> pd.DataFrame:
                "destinations_t", "mom_pct", "yoy_pct", "provenance"]]
     df = pd.concat([prev, new], ignore_index=True)
     df = df.sort_values(["port", "date"]).reset_index(drop=True)
-    df.to_csv(OUT_FILE, index=False)
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     logging.info("Backfilled %d Dampier months (%s .. %s) -> %s",
                  len(new), new["date"].min(), new["date"].max(), OUT_FILE.name)
     return df
@@ -708,7 +708,7 @@ def main() -> pd.DataFrame:
     df["date"] = df["date"].dt.strftime("%Y-%m-%d")
     df = df[["date", "port", "total_throughput_mt", "iron_ore_exports_mt",
              "destinations_t", "mom_pct", "yoy_pct", "provenance"]]
-    df.to_csv(OUT_FILE, index=False)
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     span = f"{df['date'].min()} .. {df['date'].max()}"
     logging.info("Wrote %d REAL PPA rows (%s) -> %s", len(df), span, OUT_FILE.name)
 

@@ -77,7 +77,7 @@ def crawl_demolition_reports(max_pages: int = 10):
     if all_fixtures:
         df_fix = pd.DataFrame(all_fixtures).drop_duplicates(subset=['sale_date', 'vessel_name', 'vessel_type'])
         out_csv = os.path.join(OUT_DIR, 'shipandbunker_demolition_fixtures.csv')
-        df_fix.to_csv(out_csv, index=False)
+        df_fix.to_csv(out_csv, index=False, lineterminator="\n")
         logger.info(f'Saved {len(df_fix)} unique demolition fixtures to {out_csv}')
     return len(all_fixtures)
 

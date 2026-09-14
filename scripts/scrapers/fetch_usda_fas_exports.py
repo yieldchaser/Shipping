@@ -149,7 +149,7 @@ def fetch_fas_dataset(filename, info):
     if date_col:
         df["_sort_tmp"] = pd.to_datetime(df[date_col], errors="coerce")
         df = df.sort_values(["_sort_tmp", date_col], ascending=[False, False], na_position="last").drop(columns=["_sort_tmp"]).reset_index(drop=True)
-    df.to_csv(out_path, index=False)
+    df.to_csv(out_path, index=False, lineterminator="\n")
     print(f"    [OK] Saved {len(df):,} rows and {len(df.columns)} columns to {out_path.name}")
     return len(df)
 

@@ -175,7 +175,7 @@ def sync_chokepoints():
         os.makedirs(os.path.dirname(CHOKE_OUT), exist_ok=True)
         tmp = CHOKE_OUT + '.tmp'
         with open(tmp, 'w', encoding='utf-8', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_rows)
         import shutil as _sh
@@ -261,7 +261,7 @@ def sync_ports(full=False):
         os.makedirs(os.path.dirname(PORTS_OUT), exist_ok=True)
         tmp = PORTS_OUT + '.tmp'
         with open(tmp, 'w', encoding='utf-8', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_rows)
         import shutil as _sh

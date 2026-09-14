@@ -249,7 +249,7 @@ def process_all_statements() -> Dict[str, pd.DataFrame]:
         csv_path = os.path.join(PARSED_DIR, f"{fund.lower()}_monthly_cftc_ledger.csv")
         json_path = os.path.join(PARSED_DIR, f"{fund.lower()}_monthly_cftc_ledger.json")
         
-        df.to_csv(csv_path, index=False)
+        df.to_csv(csv_path, index=False, lineterminator="\n")
         with open(json_path, 'w') as jf:
             json.dump(records, jf, indent=2)
             

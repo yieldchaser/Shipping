@@ -225,7 +225,7 @@ def append_to_manifest(entry):
 
     with open(MANIFEST_PATH, "a", newline="", encoding="utf-8") as f:
         fieldnames = ["slug", "url", "title", "date", "status", "paragraphs", "file_path"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         if not file_exists:
             writer.writeheader()
         writer.writerow(entry)

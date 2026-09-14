@@ -211,7 +211,7 @@ def main() -> pd.DataFrame:
     keep = keep[cols].drop_duplicates(subset=["portid", "date"])
 
     # primary output: real measured fields only
-    keep.to_csv(DATA_DIR / "portwatch_port_congestion.csv", index=False)
+    keep.to_csv(DATA_DIR / "portwatch_port_congestion.csv", index=False, lineterminator="\n")
     # port_calls_daily_v2.csv retired 2026-09-09: was a byte-identical duplicate
     # of the canonical portwatch_port_congestion.csv (same 43-port slice).
     logging.info("Wrote %d rows to %s", len(keep), "portwatch_port_congestion.csv")

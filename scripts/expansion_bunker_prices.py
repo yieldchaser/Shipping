@@ -160,7 +160,7 @@ def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     tmp = OUT_PATH + '.tmp'
     with open(tmp, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows_existing)
     import shutil as _sh

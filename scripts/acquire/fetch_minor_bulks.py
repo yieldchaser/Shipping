@@ -230,7 +230,7 @@ def run_minor_bulks_harvest():
         return
 
     df.sort_values(by=["date", "commodity"], inplace=True)
-    df.to_csv(OUT_CSV, index=False)
+    df.to_csv(OUT_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d verified minor bulks records to %s", len(df), OUT_CSV)
 
     summary_by_commodity = {}

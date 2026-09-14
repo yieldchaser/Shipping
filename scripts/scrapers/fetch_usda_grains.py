@@ -69,7 +69,7 @@ def fetch_dataset(filename, info):
         df = pd.read_csv(io.BytesIO(content))
         target_dir.mkdir(parents=True, exist_ok=True)
         out_path = target_dir / filename
-        df.to_csv(out_path, index=False)
+        df.to_csv(out_path, index=False, lineterminator="\n")
         print(f"    [OK] Saved {len(df):,} rows and {len(df.columns)} columns to {out_path.name}")
         return len(df)
 

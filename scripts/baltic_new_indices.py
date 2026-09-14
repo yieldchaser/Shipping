@@ -199,7 +199,7 @@ def load_existing_csv(path: Path) -> list[dict]:
 def write_csv(path: Path, rows: list[dict]):
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["Date", "Index", "% Change"])
+        writer = csv.DictWriter(handle, fieldnames=["Date", "Index", "% Change"], lineterminator="\n")
         writer.writeheader()
         for row in rows:
             writer.writerow(row)

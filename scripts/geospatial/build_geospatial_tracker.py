@@ -336,7 +336,7 @@ def build_geospatial_datasets():
     df_voyages = df_voyages.drop_duplicates(subset=["imo_number", "port_locode", "arrival_date"]).sort_values(["imo_number", "arrival_date"])
     master_csv = GEOSPATIAL_DIR / "vessel_voyage_tracks_master.csv"
     master_parquet = GEOSPATIAL_DIR / "vessel_voyage_tracks_master.parquet"
-    df_voyages.to_csv(master_csv, index=False)
+    df_voyages.to_csv(master_csv, index=False, lineterminator="\n")
     df_voyages.to_parquet(master_parquet, index=False)
     logging.info("Saved %s and %s (%d rows)", master_csv, master_parquet, len(df_voyages))
 
@@ -378,7 +378,7 @@ def build_geospatial_datasets():
 
     df_ui = pd.DataFrame(ui_rows).sort_values("vessel_name")
     ui_csv = GEOSPATIAL_DIR / "ui_voyage_vectors.csv"
-    df_ui.to_csv(ui_csv, index=False)
+    df_ui.to_csv(ui_csv, index=False, lineterminator="\n")
     logging.info("Saved pristine UI coordinate file: %s (%d hulls)", ui_csv, len(df_ui))
 
     # Print summary

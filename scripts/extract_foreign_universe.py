@@ -99,13 +99,13 @@ for idx, (_, row) in enumerate(foreign_list.iterrows()):
 
 # Save metrics
 df_metrics = pd.DataFrame(all_metrics)
-df_metrics.to_csv(os.path.join(OUT_DIR, "foreign_maritime_metrics.csv"), index=False)
+df_metrics.to_csv(os.path.join(OUT_DIR, "foreign_maritime_metrics.csv"), index=False, lineterminator="\n")
 df_metrics.to_parquet(os.path.join(OUT_DIR, "foreign_maritime_metrics.parquet"), index=False)
 print(f"[+] Successfully saved foreign metrics to {OUT_DIR}/foreign_maritime_metrics.parquet ({len(df_metrics)} records)")
 
 # Save financials
 if all_financials:
     df_fin_all = pd.concat(all_financials, ignore_index=True)
-    df_fin_all.to_csv(os.path.join(OUT_DIR, "foreign_maritime_financials.csv"), index=False)
+    df_fin_all.to_csv(os.path.join(OUT_DIR, "foreign_maritime_financials.csv"), index=False, lineterminator="\n")
     df_fin_all.to_parquet(os.path.join(OUT_DIR, "foreign_maritime_financials.parquet"), index=False)
     print(f"[+] Successfully saved foreign financials to {OUT_DIR}/foreign_maritime_financials.parquet ({len(df_fin_all)} rows)")

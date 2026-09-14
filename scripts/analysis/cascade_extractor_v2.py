@@ -437,7 +437,7 @@ def run_v2_upgrade():
     out_csv = os.path.join(out_dir, "star_asia_chart_v2_reconciled.csv")
     out_json = os.path.join(out_dir, "cascade_v2_audit_report.json")
     
-    df_v2.to_csv(out_csv, index=False)
+    df_v2.to_csv(out_csv, index=False, lineterminator="\n")
     
     audit_data = {
         'timestamp': datetime.now(timezone.utc).isoformat(),

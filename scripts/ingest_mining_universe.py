@@ -58,7 +58,7 @@ def update_catalog():
     if new_rows:
         df_new = pd.DataFrame(new_rows)
         df_combined = pd.concat([df_cat, df_new], ignore_index=True)
-        df_combined.to_csv(CATALOG_PATH, index=False)
+        df_combined.to_csv(CATALOG_PATH, index=False, lineterminator="\n")
         print(f"[+] Added {len(new_rows)} mining & cargo giants to {CATALOG_PATH} (Total: {len(df_combined)})")
     else:
         print("[i] All mining giants already in catalog.")
@@ -190,7 +190,7 @@ def ingest_sec_miners():
         df_new_f = pd.DataFrame(new_filings)
         df_cat_comb = pd.concat([df_cat_exist, df_new_f], ignore_index=True).drop_duplicates(subset=["accession_no", "user_ticker"])
         df_cat_comb.to_parquet(path_cat_parquet, index=False)
-        df_cat_comb.to_csv(os.path.join(DATA_DIR, "sec_master_filing_catalog.csv"), index=False)
+        df_cat_comb.to_csv(os.path.join(DATA_DIR, "sec_master_filing_catalog.csv"), index=False, lineterminator="\n")
         print(f"[+] Updated SEC Filings Catalog: {len(df_cat_comb)} total records (+{len(df_new_f)} new)")
 
     # Append & deduplicate Form 4
@@ -198,7 +198,7 @@ def ingest_sec_miners():
         df_new_f4 = pd.DataFrame(new_form4)
         df_f4_comb = pd.concat([df_f4_exist, df_new_f4], ignore_index=True).drop_duplicates(subset=["accession_no", "user_ticker"])
         df_f4_comb.to_parquet(path_f4_parquet, index=False)
-        df_f4_comb.to_csv(os.path.join(DATA_DIR, "sec_form4_insider_trades.csv"), index=False)
+        df_f4_comb.to_csv(os.path.join(DATA_DIR, "sec_form4_insider_trades.csv"), index=False, lineterminator="\n")
         print(f"[+] Updated Form 4 Insider Trades: {len(df_f4_comb)} total records (+{len(df_new_f4)} new)")
 
     # Append & deduplicate Exhibits
@@ -206,7 +206,7 @@ def ingest_sec_miners():
         df_new_ex = pd.DataFrame(new_ex99)
         df_ex_comb = pd.concat([df_ex99_exist, df_new_ex], ignore_index=True).drop_duplicates(subset=["accession_no", "user_ticker"])
         df_ex_comb.to_parquet(path_ex99_parquet, index=False)
-        df_ex_comb.to_csv(os.path.join(DATA_DIR, "sec_exhibit99_announcements.csv"), index=False)
+        df_ex_comb.to_csv(os.path.join(DATA_DIR, "sec_exhibit99_announcements.csv"), index=False, lineterminator="\n")
         print(f"[+] Updated Exhibit 99 Announcements: {len(df_ex_comb)} total records (+{len(df_new_ex)} new)")
 
     # Append Structured Financials
@@ -214,7 +214,7 @@ def ingest_sec_miners():
         df_new_fin = pd.concat(new_financials, ignore_index=True)
         df_fin_comb = pd.concat([df_fin_exist, df_new_fin], ignore_index=True)
         df_fin_comb.to_parquet(path_fin_parquet, index=False)
-        df_fin_comb.to_csv(os.path.join(DATA_DIR, "sec_xbrl_financials.csv"), index=False)
+        df_fin_comb.to_csv(os.path.join(DATA_DIR, "sec_xbrl_financials.csv"), index=False, lineterminator="\n")
         print(f"[+] Updated XBRL Financial Statements: {len(df_fin_comb)} total rows (+{len(df_new_fin)} new)")
 
 def ingest_foreign_miners():
@@ -282,14 +282,14 @@ def ingest_foreign_miners():
         df_new_met = pd.DataFrame(new_metrics)
         df_met_comb = pd.concat([df_met_exist, df_new_met], ignore_index=True).drop_duplicates(subset=["user_ticker", "symbol"], keep="last")
         df_met_comb.to_parquet(path_met_parquet, index=False)
-        df_met_comb.to_csv(os.path.join(DATA_DIR, "foreign_maritime_metrics.csv"), index=False)
+        df_met_comb.to_csv(os.path.join(DATA_DIR, "foreign_maritime_metrics.csv"), index=False, lineterminator="\n")
         print(f"[+] Updated Foreign Metrics: {len(df_met_comb)} total records (+{len(df_new_met)} new)")
 
     if new_financials:
         df_new_fin = pd.concat(new_financials, ignore_index=True)
         df_fin_comb = pd.concat([df_fin_exist, df_new_fin], ignore_index=True)
         df_fin_comb.to_parquet(path_fin_parquet, index=False)
-        df_fin_comb.to_csv(os.path.join(DATA_DIR, "foreign_maritime_financials.csv"), index=False)
+        df_fin_comb.to_csv(os.path.join(DATA_DIR, "foreign_maritime_financials.csv"), index=False, lineterminator="\n")
         print(f"[+] Updated Foreign Financials: {len(df_fin_comb)} total rows (+{len(df_new_fin)} new)")
 
 if __name__ == "__main__":

@@ -140,7 +140,7 @@ def main():
     print(f"Writing {CSV_PATH} with {len(csv_headers)} columns across {len(all_unique_dates)} dates...")
 
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, lineterminator="\n")
         writer.writerow(csv_headers)
         for d in all_unique_dates:
             row = [d]

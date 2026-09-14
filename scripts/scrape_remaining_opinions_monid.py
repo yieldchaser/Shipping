@@ -93,7 +93,7 @@ def main():
 
     manifest_fields = ["url", "title", "date", "paragraph_count"]
     manifest_file = open(MANIFEST_PATH, "a", newline="", encoding="utf-8")
-    manifest_writer = csv.DictWriter(manifest_file, fieldnames=manifest_fields)
+    manifest_writer = csv.DictWriter(manifest_file, fieldnames=manifest_fields, lineterminator="\n")
 
     success_count = 0
     fail_count = 0

@@ -64,7 +64,7 @@ def append_manifest_rows(rows):
     if not rows:
         return
     with open(MANIFEST_FILE, "a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["filename", "year", "week", "vessel_class", "size_bytes", "sha256"])
+        writer = csv.DictWriter(f, fieldnames=["filename", "year", "week", "vessel_class", "size_bytes", "sha256"], lineterminator="\n")
         for r in rows:
             writer.writerow(r)
 

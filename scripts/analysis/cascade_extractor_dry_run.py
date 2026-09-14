@@ -431,8 +431,8 @@ def run_dry_run():
     table_out_csv = os.path.join(out_dir, "advanced_shipping_table_reconciled.csv")
     audit_summary_json = os.path.join(out_dir, "cascade_audit_report.json")
     
-    df_chart_all.to_csv(chart_out_csv, index=False)
-    df_table_rec.to_csv(table_out_csv, index=False)
+    df_chart_all.to_csv(chart_out_csv, index=False, lineterminator="\n")
+    df_table_rec.to_csv(table_out_csv, index=False, lineterminator="\n")
     
     audit_report = {
         'dry_run_timestamp': datetime.utcnow().isoformat() + 'Z',

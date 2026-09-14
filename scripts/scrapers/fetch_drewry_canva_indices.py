@@ -141,7 +141,7 @@ def update_drewry_canva_datasets():
 
             csv_file = OUT_DIR / "drewry_intra_asia_container_index.csv"
             with open(csv_file, "w", newline="", encoding="utf-8") as f:
-                writer = csv.DictWriter(f, fieldnames=list(iaci_records[0].keys()))
+                writer = csv.DictWriter(f, fieldnames=list(iaci_records[0].keys()), lineterminator="\n")
                 writer.writeheader()
                 writer.writerows(iaci_records)
 
@@ -169,7 +169,7 @@ def update_drewry_canva_datasets():
                 })
             csv_file = OUT_DIR / "drewry_breakbulk_transport_indices.csv"
             with open(csv_file, "w", newline="", encoding="utf-8") as f:
-                writer = csv.DictWriter(f, fieldnames=list(bb_records[0].keys()))
+                writer = csv.DictWriter(f, fieldnames=list(bb_records[0].keys()), lineterminator="\n")
                 writer.writeheader()
                 writer.writerows(bb_records)
             json_file = OUT_DIR / "drewry_breakbulk_transport_indices.json"
@@ -202,7 +202,7 @@ def update_drewry_canva_datasets():
                 })
             csv_file = OUT_DIR / "drewry_airfreight_price_index.csv"
             with open(csv_file, "w", newline="", encoding="utf-8") as f:
-                writer = csv.DictWriter(f, fieldnames=list(af_records[0].keys()))
+                writer = csv.DictWriter(f, fieldnames=list(af_records[0].keys()), lineterminator="\n")
                 writer.writeheader()
                 writer.writerows(af_records)
             json_file = OUT_DIR / "drewry_airfreight_price_index.json"

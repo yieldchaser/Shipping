@@ -271,7 +271,7 @@ def build() -> pd.DataFrame:
 
     out = df[COLUMNS].sort_values(["vessel", "leg_date", "leg_sequence"],
                                   kind="stable").reset_index(drop=True)
-    out.to_csv(OUT_CSV, index=False)
+    out.to_csv(OUT_CSV, index=False, lineterminator="\n")
     out.to_parquet(OUT_PARQUET, compression="zstd", index=False)
     resolved_load = int((out["load_match"] != "").sum())
     resolved_disc = int((out["discharge_match"] != "").sum())

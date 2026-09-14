@@ -238,7 +238,7 @@ def main():
     all_rows.sort(key=lambda r: r.get("date", ""))
     
     with open(tc_file, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=tc_cols_with_source, extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=tc_cols_with_source, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for row in all_rows:
             writer.writerow(row)

@@ -160,28 +160,28 @@ for idx, (_, row) in enumerate(sec_list.iterrows()):
 if master_filings:
     df_mf = pd.DataFrame(master_filings)
     df_mf.to_parquet(os.path.join(OUT_DIR, "sec_master_filing_catalog.parquet"), index=False)
-    df_mf.to_csv(os.path.join(OUT_DIR, "sec_master_filing_catalog.csv"), index=False)
+    df_mf.to_csv(os.path.join(OUT_DIR, "sec_master_filing_catalog.csv"), index=False, lineterminator="\n")
     print(f"[+] Saved {len(df_mf)} filing catalog records to {OUT_DIR}/sec_master_filing_catalog.parquet")
 
 # Save Insider Trades
 if insider_trades:
     df_it = pd.DataFrame(insider_trades)
     df_it.to_parquet(os.path.join(OUT_DIR, "sec_form4_insider_trades.parquet"), index=False)
-    df_it.to_csv(os.path.join(OUT_DIR, "sec_form4_insider_trades.csv"), index=False)
+    df_it.to_csv(os.path.join(OUT_DIR, "sec_form4_insider_trades.csv"), index=False, lineterminator="\n")
     print(f"[+] Saved {len(df_it)} Form 4 insider records to {OUT_DIR}/sec_form4_insider_trades.parquet")
 
 # Save Commercial Announcements
 if commercial_announcements:
     df_ca = pd.DataFrame(commercial_announcements)
     df_ca.to_parquet(os.path.join(OUT_DIR, "sec_exhibit99_announcements.parquet"), index=False)
-    df_ca.to_csv(os.path.join(OUT_DIR, "sec_exhibit99_announcements.csv"), index=False)
+    df_ca.to_csv(os.path.join(OUT_DIR, "sec_exhibit99_announcements.csv"), index=False, lineterminator="\n")
     print(f"[+] Saved {len(df_ca)} commercial announcement records to {OUT_DIR}/sec_exhibit99_announcements.parquet")
 
 # Save Structured Financials
 if financial_records:
     df_all_fin = pd.concat(financial_records, ignore_index=True)
     df_all_fin.to_parquet(os.path.join(OUT_DIR, "sec_xbrl_financials.parquet"), index=False)
-    df_all_fin.to_csv(os.path.join(OUT_DIR, "sec_xbrl_financials.csv"), index=False)
+    df_all_fin.to_csv(os.path.join(OUT_DIR, "sec_xbrl_financials.csv"), index=False, lineterminator="\n")
     print(f"[+] Saved {len(df_all_fin)} structured XBRL financial rows to {OUT_DIR}/sec_xbrl_financials.parquet")
 
 print("=== SEC EXTRACTION COMPLETED ===")

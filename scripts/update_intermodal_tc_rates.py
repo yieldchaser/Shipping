@@ -96,7 +96,7 @@ def main():
     df_combined["date"] = pd.to_datetime(df_combined["date"], errors="coerce").dt.strftime("%Y-%m-%d")
     df_combined = df_combined.dropna(subset=["date"]).drop_duplicates(subset=["date"], keep="last").sort_values("date").reset_index(drop=True)
     
-    df_combined.to_csv(CSV_PATH, index=False)
+    df_combined.to_csv(CSV_PATH, index=False, lineterminator="\n")
     print(f"\n[OK] Successfully updated {CSV_PATH.name} to {len(df_combined)} chronologically sorted records.")
 
 if __name__ == "__main__":

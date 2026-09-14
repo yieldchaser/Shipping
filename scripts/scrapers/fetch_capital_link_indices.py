@@ -181,7 +181,7 @@ def update_master_time_series(dfs_dict: dict, out_path: str):
             
     master_df = pd.DataFrame(close_series)
     master_df = master_df.sort_index().reset_index().rename(columns={'index': 'date'})
-    master_df.to_csv(out_path, index=False)
+    master_df.to_csv(out_path, index=False, lineterminator="\n")
     print(f"✔ Saved consolidated master time series: {out_path} ({len(master_df):,} daily observations)")
 
 
@@ -232,14 +232,14 @@ def run_pipeline(backfill: bool = False, dry_run: bool = False, include_baltic: 
                     df_old = pd.read_csv(out_csv)
                     df_combined = pd.concat([df_old, df], ignore_index=True)
                     df_combined = df_combined.drop_duplicates(subset=['date']).sort_values('date').reset_index(drop=True)
-                    df_combined.to_csv(out_csv, index=False)
+                    df_combined.to_csv(out_csv, index=False, lineterminator="\n")
                     results[code] = df_combined
                     print(f"  -> Merged with existing store: {out_csv} ({len(df_combined):,} total bars)")
                 except Exception as e:
-                    df.to_csv(out_csv, index=False)
+                    df.to_csv(out_csv, index=False, lineterminator="\n")
                     print(f"  -> Written to: {out_csv}")
             else:
-                df.to_csv(out_csv, index=False)
+                df.to_csv(out_csv, index=False, lineterminator="\n")
                 print(f"  -> Written to: {out_csv}")
 
     if not dry_run:

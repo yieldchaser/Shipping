@@ -137,7 +137,7 @@ def sync_shipping_etfs(output_dir: str = "data/etf/sec_filings"):
             
     df = pd.DataFrame(catalog)
     out_csv = os.path.join(output_dir, "shipping_etf_sec_filings.csv")
-    df.to_csv(out_csv, index=False)
+    df.to_csv(out_csv, index=False, lineterminator="\n")
     print(f"[+] Saved {len(df)} filings to {out_csv}")
     return df
 
@@ -175,7 +175,7 @@ def scan_shipping_universe(output_file: str = "data/indices/sec_shipping_univers
                 
     df = pd.DataFrame(results)
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    df.to_csv(output_file, index=False)
+    df.to_csv(output_file, index=False, lineterminator="\n")
     print(f"[+] Shipping universe SEC status saved to {output_file}")
     return df
 

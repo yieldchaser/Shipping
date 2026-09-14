@@ -224,7 +224,7 @@ def main():
 
     out_path = "fearnpulse_rates.csv"
     with open(out_path, "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["label", "route", "date", "rate"])
+        writer = csv.DictWriter(f, fieldnames=["label", "route", "date", "rate"], lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_rows)
     print(f"\nWrote {len(all_rows)} rows to {out_path}")

@@ -48,7 +48,9 @@ def test_commodity_flow_matrix_structure_and_unclassified_bucket():
 
     assert "metadata" in data
     meta = data["metadata"]
-    assert meta["total_fixtures"] == 540640
+    # The fixtures ledger grows with every Fearnleys sync; it must never shrink below
+    # the 2026-09-12 audited count.
+    assert meta["total_fixtures"] >= 540640
     assert meta["unclassified_fixtures"] > 250000
     # Must be between 50% and 55%
     assert 50.0 <= meta["unclassified_pct"] <= 55.0

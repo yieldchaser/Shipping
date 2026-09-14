@@ -316,7 +316,7 @@ def main():
     } for r in results])
     
     tsv_path = "data/derived/per_issue_cell_coverage.tsv"
-    df_tsv.to_csv(tsv_path, sep="\t", index=False)
+    df_tsv.to_csv(tsv_path, sep="\t", index=False, lineterminator="\n")
     print(f"Saved {tsv_path} ({len(df_tsv)} rows)")
     
     # Save violations JSON

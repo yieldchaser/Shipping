@@ -269,7 +269,7 @@ def update_csv(filename, new_data):
     combined['Date'] = combined['Date_parsed'].dt.strftime('%Y-%m-%d')
     combined = combined.drop(columns=['Date_parsed'])
 
-    combined.to_csv(filepath, index=False)
+    combined.to_csv(filepath, index=False, lineterminator="\n")
     print(f"{filename}: {len(new_data)} new rows, {len(combined)} total rows")
 
 # ── Solactive freight futures index scraper ──────────────────────────────────
@@ -345,7 +345,7 @@ def update_solactive_csv(filename, latest_row):
 
     combined = combined.sort_values('date')
     combined['date'] = combined['date'].dt.strftime('%Y-%m-%d')
-    combined.to_csv(filename, index=False)
+    combined.to_csv(filename, index=False, lineterminator="\n")
     print(f"{filename}: Appended {latest_date.date()} -> value {latest_row['value'].iloc[0]}")
 
 
@@ -510,7 +510,7 @@ def update_solactive_with_fallback(isin, filename):
     existing_str = existing.copy()
     existing_str['date'] = existing_str['date'].dt.strftime('%d-%m-%Y')
     combined = pd.concat([existing_str, new_row], ignore_index=True)
-    combined.to_csv(filename, index=False)
+    combined.to_csv(filename, index=False, lineterminator="\n")
     print(f"  {filename}: live fallback OK — appended {live_date.date()} -> {live_val}")
 
 # ── NEW: Amplify ETF premium/discount scraper ─────────────────────────────────
@@ -581,7 +581,7 @@ def update_amplify_csv(filename, new_data):
     before = len(existing) if os.path.exists(filename) else 0
     added = len(combined) - before
     combined['Rate Date'] = combined['Rate Date'].dt.strftime('%Y-%m-%d')
-    combined.to_csv(filename, index=False)
+    combined.to_csv(filename, index=False, lineterminator="\n")
     print(f"{filename}: {added} new rows added, {len(combined)} total")
 
 # ── SGX FFA FUTURES ───────────────────────────────────────────────────────────
@@ -761,7 +761,7 @@ def update_sgx_csv(filename, product_code):
         if 'expiry_date' in combined.columns:
             cols.append('expiry_date')
         combined = combined[[c for c in cols if c in combined.columns]]
-        combined.to_csv(filename, index=False)
+        combined.to_csv(filename, index=False, lineterminator="\n")
         print(f"{filename}: +{len(new_rows)} new rows ({active_count} active contracts)")
     else:
         print(f"{filename}: nothing new ({active_count} active contracts checked)")

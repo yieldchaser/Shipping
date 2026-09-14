@@ -98,7 +98,7 @@ def main() -> pd.DataFrame:
     out = out.dropna(subset=["export_tonnes_mt"], how="all").sort_values("date")
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    out.to_csv(OUT, index=False)
+    out.to_csv(OUT, index=False, lineterminator="\n")
     print(f"[newcastle] wrote {len(out)} rows ({out['date'].min()} .. {out['date'].max()}) -> {OUT.name}")
     return out
 

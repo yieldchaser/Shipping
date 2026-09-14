@@ -524,7 +524,7 @@ def upsert_port_calls(fresh_df: pd.DataFrame) -> pd.DataFrame:
     combined["date"] = combined["date"].dt.strftime("%Y-%m-%d")
 
     # Save to port_calls_daily.csv
-    combined.to_csv(master_path, index=False)
+    combined.to_csv(master_path, index=False, lineterminator="\n")
     logging.info("Wrote %d total rows to %s (dates: %s to %s)",
                  len(combined), master_path, combined["date"].min(), combined["date"].max())
 

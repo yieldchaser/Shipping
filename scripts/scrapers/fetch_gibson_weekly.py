@@ -165,7 +165,7 @@ def fetch_latest_gibson_rates():
             final_rows.append(row)
 
         with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=cols)
+            writer = csv.DictWriter(f, fieldnames=cols, lineterminator="\n")
             writer.writeheader()
             writer.writerows(final_rows)
 

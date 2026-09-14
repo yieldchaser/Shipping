@@ -373,7 +373,7 @@ def existing_daily_state() -> tuple[pd.DataFrame | None, str | None]:
 def _write_csv_gz(df: pd.DataFrame, path: Path) -> int:
     tmp = path.with_suffix(path.suffix + ".tmp")
     with gzip.open(tmp, "wt", encoding="utf-8", newline="", compresslevel=6) as fh:
-        df.to_csv(fh, index=False)
+        df.to_csv(fh, index=False, lineterminator="\n")
     shutil.move(tmp, path)
     return path.stat().st_size
 
@@ -395,7 +395,7 @@ def write_daily_outputs(year_frames: dict[int, pd.DataFrame]) -> dict:
         df = df.reindex(columns=cols)
         df = df.sort_values(["date", "portid"], kind="stable").reset_index(drop=True)
         if year == this_year:
-            df.to_csv(DAILY_HOT_OUT, index=False)
+            df.to_csv(DAILY_HOT_OUT, index=False, lineterminator="\n")
             sizes["port_calls_daily_expanded.csv"] = {
                 "rows": int(len(df)), "bytes": DAILY_HOT_OUT.stat().st_size}
             df.to_parquet(DAILY_HOT_PARQUET_OUT, compression="zstd", index=False)
@@ -419,7 +419,7 @@ def _append_rows_to_temp(rows: list[dict], temp_path: Path) -> int:
     temp_path.parent.mkdir(parents=True, exist_ok=True)
     new_file = not temp_path.exists()
     with open(temp_path, "a", encoding="utf-8", newline="") as fh:
-        w = _csv.DictWriter(fh, fieldnames=DAILY_SCHEMA, extrasaction="ignore")
+        w = _csv.DictWriter(fh, fieldnames=DAILY_SCHEMA, extrasaction="ignore", lineterminator="\n")
         if new_file:
             w.writeheader()
         w.writerows(rows)
@@ -447,7 +447,7 @@ def _finalize_year_from_temp(year: int, temp_path: Path) -> dict:
     this_year = date.today().year
     out: dict = {}
     if year == this_year:
-        df.to_csv(DAILY_HOT_OUT, index=False)
+        df.to_csv(DAILY_HOT_OUT, index=False, lineterminator="\n")
         del df
         gc.collect()
         writer = None
@@ -481,15 +481,15 @@ def _finalize_year_from_temp(year: int, temp_path: Path) -> dict:
 def _refresh_master_tables() -> dict:
     sizes = {}
     ports = fetch_ports_database()
-    ports.to_csv(PORTS_MASTER_OUT, index=False)
+    ports.to_csv(PORTS_MASTER_OUT, index=False, lineterminator="\n")
     sizes["portwatch_ports_master.csv"] = {"rows": int(len(ports)),
                                            "bytes": PORTS_MASTER_OUT.stat().st_size}
     chokes = fetch_chokepoints_database()
-    chokes.to_csv(CHOKEPOINTS_OUT, index=False)
+    chokes.to_csv(CHOKEPOINTS_OUT, index=False, lineterminator="\n")
     sizes["chokepoints_master.csv"] = {"rows": int(len(chokes)),
                                        "bytes": CHOKEPOINTS_OUT.stat().st_size}
     dis = fetch_disruptions()
-    dis.to_csv(DISRUPTIONS_OUT, index=False)
+    dis.to_csv(DISRUPTIONS_OUT, index=False, lineterminator="\n")
     sizes["portwatch_disruptions.csv"] = {"rows": int(len(dis)),
                                           "bytes": DISRUPTIONS_OUT.stat().st_size}
     return sizes, ports

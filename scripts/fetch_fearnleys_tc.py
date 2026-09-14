@@ -138,7 +138,7 @@ def main():
             print(f"  [WARN] Failed to compare with existing CSV: {e}")
 
     os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-    merged.to_csv(OUTPUT, index=False)
+    merged.to_csv(OUTPUT, index=False, lineterminator="\n")
     print(f"\nSaved to {OUTPUT}")
 
     # Verification

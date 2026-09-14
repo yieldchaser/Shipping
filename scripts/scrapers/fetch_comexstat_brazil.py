@@ -201,7 +201,7 @@ def main() -> pd.DataFrame:
         except Exception as exc:  # noqa: BLE001
             logging.warning("Could not merge with existing %s (%s); writing fresh fetch.",
                             OUT_FILE.name, exc)
-    df.to_csv(OUT_FILE, index=False)
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     logging.info("Wrote %d REAL API rows -> %s", len(df), OUT_FILE.name)
     if failures:
         logging.warning("%d commodities FAILED this run (absent from CSV): %s",

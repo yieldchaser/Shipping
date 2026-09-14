@@ -237,7 +237,7 @@ def main():
                 print(f"  [{completed}/{total}] Ingested: {res.get('title', res.get('slug'))[:50]}...")
                 
     df_manifest = pd.DataFrame(manifest_records)
-    df_manifest.to_csv(MANIFEST_PATH, index=False)
+    df_manifest.to_csv(MANIFEST_PATH, index=False, lineterminator="\n")
     print(f"\n[+] Successfully generated master manifest: {MANIFEST_PATH}")
     print(f"[+] Total Reports Harvested: {len(df_manifest)}")
     print(f"[+] Monitors: {len(df_manifest[df_manifest['section'] == 'monitors'])}")

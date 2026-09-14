@@ -154,7 +154,7 @@ def sync_fixtures():
 
     print(f"    Found {len(new_fixtures)} new fixtures. Appending...", flush=True)
     with open(FIXTURES_CSV, "a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=FIXTURE_FIELDS)
+        writer = csv.DictWriter(f, fieldnames=FIXTURE_FIELDS, lineterminator="\n")
         for r in new_fixtures:
             clean_row = {}
             for col in FIXTURE_FIELDS:
@@ -252,7 +252,7 @@ def sync_rates():
 
     added = after_len - before_len
     print(f"    Appended {added} new rate observations (total now {after_len}).", flush=True)
-    combined.to_csv(RATES_CSV, index=False)
+    combined.to_csv(RATES_CSV, index=False, lineterminator="\n")
     return added
 
 
@@ -297,7 +297,7 @@ def sync_snp():
     print(f"    Found {len(unseen)} new S&P deals. Appending...", flush=True)
     fields = ["id", "created_at", "vessel", "built", "yard", "dwt", "segment", "price", "buyer", "comment"]
     with open(SNP_CSV, "a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fields)
+        writer = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
         for d in reversed(unseen):
             clean_d = {k: d.get(k, "") for k in fields}
             writer.writerow(clean_d)
@@ -364,7 +364,7 @@ def sync_comments():
     print(f"    Found {len(unseen)} new broker comments. Appending...", flush=True)
     fields = ["id", "date", "comment_type", "comment_subtype", "comment_name", "text", "created_at", "comment_meta_id"]
     with open(COMMENTS_CSV, "a", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fields)
+        writer = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
         for c in reversed(unseen):
             meta = c.pop("metadata", None) or {}
             c["comment_type"] = meta.get("comment_type", "")

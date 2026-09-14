@@ -160,7 +160,7 @@ def main() -> pd.DataFrame:
     row = derive_row_economics(row, load_bunker_truth())
 
     combined = pd.concat([existing, pd.DataFrame([row])], ignore_index=True)
-    combined.to_csv(OUT_FILE, index=False)
+    combined.to_csv(OUT_FILE, index=False, lineterminator="\n")
     logging.info("Appended %s: EUA EUR %.2f/t (real observation). Rows: %d",
                  today, price, len(combined))
     return combined

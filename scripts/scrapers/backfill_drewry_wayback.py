@@ -119,7 +119,7 @@ def run(from_year=2011, limit_per_pattern=200, max_snapshots=50, sleep_s=0.5,
 
     cand = candidate_path()
     cand_df = pd.DataFrame(collected, columns=CSV_COLUMNS) if collected else pd.DataFrame(columns=CSV_COLUMNS)
-    cand_df.to_csv(cand, index=False)
+    cand_df.to_csv(cand, index=False, lineterminator="\n")
     print(f"[OK] Candidate written: {cand} ({len(cand_df)} rows)")
 
     if len(cand_df):

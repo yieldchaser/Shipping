@@ -92,7 +92,7 @@ def fetch_all_comments():
 
     print(f"Total broker comments fetched: {len(all_rows)}", flush=True)
     with open(out_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_rows)
     print(f"Saved {len(all_rows)} broker comments to {out_csv}\n", flush=True)

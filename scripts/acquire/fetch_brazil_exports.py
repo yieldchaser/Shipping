@@ -63,7 +63,7 @@ def consolidate_brazil_exports():
             })
 
     df_out = pd.DataFrame(records).sort_values(['commodity', 'date'])
-    df_out.to_csv(OUT_FILE, index=False)
+    df_out.to_csv(OUT_FILE, index=False, lineterminator="\n")
 
     if MANIFEST_FILE.exists():
         with open(MANIFEST_FILE, 'r', encoding='utf-8') as f:

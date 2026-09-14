@@ -395,7 +395,7 @@ def main():
         csv_out = ETF_DIR / f"{ticker}_flows.csv"
         csv_cols = ["date", "usd_flow", "nav", "perf_pct", "cumulative_flow", "daily_inflow", "daily_outflow"]
         df_csv = df[[c for c in csv_cols if c in df.columns]]
-        df_csv.to_csv(csv_out, index=False)
+        df_csv.to_csv(csv_out, index=False, lineterminator="\n")
         logger.info(f"Saved {len(df_csv)} rows to {csv_out}")
 
         # Populate summary statistics (numeric views treat missing flows as flat days)

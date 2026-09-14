@@ -427,7 +427,7 @@ def download_and_digest_reports(entries: list, limit=None):
             combined = new_df
 
         combined.sort_values(by=["date", "category"], ascending=[False, True], inplace=True)
-        combined.to_csv(RATES_CSV_PATH, index=False)
+        combined.to_csv(RATES_CSV_PATH, index=False, lineterminator="\n")
         print(f"[+] Saved {len(combined)} dayrate records to {RATES_CSV_PATH}")
         rebuild_cache()
 

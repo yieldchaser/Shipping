@@ -263,7 +263,7 @@ def run_backtest():
 
     out_df = pd.DataFrame(records)
     out_csv = os.path.join(DERIVED_DIR, 'macro_health_score_backtest.csv')
-    out_df.to_csv(out_csv, index=False)
+    out_df.to_csv(out_csv, index=False, lineterminator="\n")
     print(f"Generated Macro Heat Score Backtest dataset with {len(out_df)} rows at {out_csv}")
     return out_df
 

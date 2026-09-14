@@ -116,7 +116,7 @@ def build_catalog():
             print(f"  [+] Page {p_num}/{total_pages} indexed ({len(res)} posts)")
             
     df = pd.DataFrame(all_records).sort_values("date", ascending=False)
-    df.to_csv(CATALOG_CSV, index=False)
+    df.to_csv(CATALOG_CSV, index=False, lineterminator="\n")
     with open(CATALOG_JSON, "w", encoding="utf-8") as f:
         json.dump(all_records, f, indent=2)
         

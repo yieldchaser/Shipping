@@ -160,6 +160,7 @@ def find_producing_script(rel_path):
         "data/indices/dirtytanker_historical.csv": ("scripts/update_indices.py", "StockQ / Baltic Exchange", "https://www.stockq.org", "Web Scraping", "Index"),
         "data/indices/blng_historical.csv": ("scripts/baltic_new_indices.py", "Baltic Exchange Ticker API", "https://www.balticexchange.com", "REST API", "Index"),
         "data/indices/blpg_historical.csv": ("scripts/baltic_new_indices.py", "Baltic Exchange Ticker API", "https://www.balticexchange.com", "REST API", "Index"),
+        "data/indices/bai_historical.csv": ("scripts/baltic_new_indices.py", "Baltic Exchange Ticker API", "https://www.balticexchange.com", "REST API", "Index"),
         "data/indices/fbx_historical.csv": ("scripts/baltic_new_indices.py", "Freightos Baltic Index", "https://fbx.freightos.com", "REST API", "Index"),
         "data/indices/drewry_wci_historical.csv": ("scripts/scrapers/fetch_drewry_wci.py", "Drewry Supply Chain Advisors", "https://www.drewry.co.uk", "Web Scraping", "USD/FEU"),
         # Capital Link Equity Indices

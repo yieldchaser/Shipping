@@ -282,13 +282,13 @@ def run_pipeline():
     df_monthly = pd.DataFrame(all_monthly)
     df_monthly.drop_duplicates(subset=["date"], keep="last", inplace=True)
     df_monthly.sort_values(by=["date"], inplace=True)
-    df_monthly.to_csv(OUT_MONTHLY_CSV, index=False)
+    df_monthly.to_csv(OUT_MONTHLY_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d monthly records to %s (Date span: %s -> %s)", len(df_monthly), OUT_MONTHLY_CSV, df_monthly["date"].min(), df_monthly["date"].max())
 
     # Sort ports records
     df_ports = pd.DataFrame(all_ports)
     df_ports.sort_values(by=["date", "port"], inplace=True)
-    df_ports.to_csv(OUT_PORTS_CSV, index=False)
+    df_ports.to_csv(OUT_PORTS_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d port records to %s", len(df_ports), OUT_PORTS_CSV)
 
     # Summary metadata with BCR cross-checks

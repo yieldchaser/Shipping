@@ -204,7 +204,7 @@ def main() -> pd.DataFrame:
     path, tag = _acquire_workbook()
     logging.info("Parsing %s (%s)", path.name, tag)
     df = parse_workbook(path, tag)
-    df.to_csv(OUT_FILE, index=False)
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     span = f"{df['date'].min()} .. {df['date'].max()}"
     logging.info("Wrote %d REAL DISR rows (%s) -> %s", len(df), span, OUT_FILE.name)
     for c in sorted(df["commodity"].unique()):

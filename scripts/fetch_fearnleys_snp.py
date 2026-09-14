@@ -75,7 +75,7 @@ def fetch_all_snp():
 
     print(f"Total S&P transactions fetched: {len(all_rows)}", flush=True)
     with open(out_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_rows)
     print(f"Saved {len(all_rows)} S&P records to {out_csv}\n", flush=True)

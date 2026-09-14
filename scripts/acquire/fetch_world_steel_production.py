@@ -215,7 +215,7 @@ def run_pipeline():
     df = pd.DataFrame(rows)
     df.drop_duplicates(subset=["date"], keep="last", inplace=True)
     df.sort_values(by=["date"], inplace=True)
-    df.to_csv(OUT_CSV, index=False)
+    df.to_csv(OUT_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d monthly records to %s (Span: %s -> %s)", len(df), OUT_CSV, df["date"].min(), df["date"].max())
 
     june_rows = df[df["date"] == "2026-06-01"]

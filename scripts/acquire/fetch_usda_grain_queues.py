@@ -259,7 +259,7 @@ def main():
         "loaded_7_days", "loaded_4yr_avg",
         "due_10_days", "due_4yr_avg"
     ]
-    df[cols_vessel_loading].to_csv(OUT_CSV1, index=False, encoding="utf-8")
+    df[cols_vessel_loading].to_csv(OUT_CSV1, index=False, encoding="utf-8", lineterminator="\n")
     logging.info("Wrote %d rows to %s", len(df), OUT_CSV1)
 
     # Columns for usda_grain_vessel_loading_queues.csv
@@ -269,7 +269,7 @@ def main():
         "loaded_7_days", "loaded_4yr_avg",
         "due_10_days", "due_4yr_avg", "vessels_due_10d"
     ]
-    df[cols_queues].to_csv(OUT_CSV2, index=False, encoding="utf-8")
+    df[cols_queues].to_csv(OUT_CSV2, index=False, encoding="utf-8", lineterminator="\n")
     logging.info("Wrote %d rows to %s", len(df), OUT_CSV2)
 
     update_manifest(df)

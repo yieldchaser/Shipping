@@ -249,8 +249,8 @@ def test_voyage_history_build_tiny_real_fixtures(tmp_path, monkeypatch):
         "lat": [1.0], "lon": [2.0], "vessel_count_total": [5], "LOCODE": ["XX NOW"],
     })
     fx_path, ports_path = tmp_path / "fx.csv", tmp_path / "ports.csv"
-    fx.to_csv(fx_path, index=False)
-    ports.to_csv(ports_path, index=False)
+    fx.to_csv(fx_path, index=False, lineterminator="\n")
+    ports.to_csv(ports_path, index=False, lineterminator="\n")
     monkeypatch.setattr(vh, "FIXTURES_PATH", fx_path)
     monkeypatch.setattr(vh, "PORTS_MASTER_PATH", ports_path)
     monkeypatch.setattr(vh, "OUT_CSV", tmp_path / "out.csv")

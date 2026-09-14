@@ -284,7 +284,7 @@ def main():
         "source_url", "publisher", "source_quote", "method"
     ]
     with open(csv_file, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(out_rows)
 

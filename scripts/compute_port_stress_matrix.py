@@ -249,13 +249,13 @@ def build_port_arrival_matrices(df: pd.DataFrame):
 
     # 1. Output port_stress_matrix.csv
     stress_csv = DERIVED_DIR / "port_stress_matrix.csv"
-    df_stress.to_csv(stress_csv, index=False)
+    df_stress.to_csv(stress_csv, index=False, lineterminator="\n")
     logging.info("Generated %s (%d rows)", stress_csv, len(df_stress))
 
     # 2. Output port_arrival_envelope_matrix.csv & parquet
     ui_csv = DATA_DIR / "port_arrival_envelope_matrix.csv"
     ui_parquet = DATA_DIR / "port_arrival_envelope_matrix.parquet"
-    df_ui.to_csv(ui_csv, index=False)
+    df_ui.to_csv(ui_csv, index=False, lineterminator="\n")
     df_ui.to_parquet(ui_parquet, index=False)
     logging.info("Generated %s and %s (%d rows)", ui_csv, ui_parquet, len(df_ui))
 

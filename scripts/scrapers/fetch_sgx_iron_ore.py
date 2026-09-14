@@ -456,7 +456,7 @@ def sync_iron_ore_restocking(cont_df):
         }
         df_restock = pd.concat([df_restock, pd.DataFrame([new_row])], ignore_index=True)
         
-    df_restock.to_csv(target_path, index=False)
+    df_restock.to_csv(target_path, index=False, lineterminator="\n")
     print(f"  ✔ Synchronized {updated_62} missing CFR 62% values and {updated_65} CFR 65% values in iron_ore_restocking.csv")
 
 def save_merged_history(path, new_df, subset_cols):
@@ -470,11 +470,11 @@ def save_merged_history(path, new_df, subset_cols):
             combined = pd.concat([existing[subset_cols], new_df[subset_cols]], ignore_index=True)
             combined = combined.drop_duplicates(subset=['contract', 'date'], keep='last')
             combined = combined.sort_values(['date', 'contract']).reset_index(drop=True)
-            combined.to_csv(path, index=False)
+            combined.to_csv(path, index=False, lineterminator="\n")
             return combined
         except Exception as e:
             print(f"Warning: merge failed for {path}: {e}")
-    new_df[subset_cols].to_csv(path, index=False)
+    new_df[subset_cols].to_csv(path, index=False, lineterminator="\n")
     return new_df
 
 
@@ -487,11 +487,11 @@ def save_merged_continuous(path, cont_df):
             combined = pd.concat([existing, cont_df], ignore_index=True)
             combined = combined.drop_duplicates(subset=['date'], keep='last')
             combined = combined.sort_values('date').reset_index(drop=True)
-            combined.to_csv(path, index=False)
+            combined.to_csv(path, index=False, lineterminator="\n")
             return combined
         except Exception as e:
             print(f"Warning: merge failed for {path}: {e}")
-    cont_df.to_csv(path, index=False)
+    cont_df.to_csv(path, index=False, lineterminator="\n")
     return cont_df
 
 
@@ -539,7 +539,7 @@ def main():
         fef_fut_live = os.path.join(FUTURES_DIR, 'sgx_iron_ore_fef.csv')
         latest_date = full_fef_df['date'].max()
         fef_live_df = full_fef_df[full_fef_df['date'] == latest_date]
-        fef_live_df[fef_cols].to_csv(fef_fut_live, index=False)
+        fef_live_df[fef_cols].to_csv(fef_fut_live, index=False, lineterminator="\n")
         print(f"✔ Saved: {fef_fut_live} ({len(fef_live_df):,} active rows)")
     else:
         full_fef_df = pd.DataFrame()
@@ -556,7 +556,7 @@ def main():
         m65f_fut_live = os.path.join(FUTURES_DIR, 'sgx_iron_ore_m65f.csv')
         m65f_latest_date = full_m65f_df['date'].max()
         m65f_live_df = full_m65f_df[full_m65f_df['date'] == m65f_latest_date]
-        m65f_live_df[fef_cols].to_csv(m65f_fut_live, index=False)
+        m65f_live_df[fef_cols].to_csv(m65f_fut_live, index=False, lineterminator="\n")
         print(f"✔ Saved: {m65f_fut_live} ({len(m65f_live_df):,} active rows)")
     else:
         full_m65f_df = pd.DataFrame()
@@ -573,7 +573,7 @@ def main():
         lpf_fut_live = os.path.join(FUTURES_DIR, 'sgx_iron_ore_lump_lpf.csv')
         lpf_latest_date = full_lpf_df['date'].max()
         lpf_live_df = full_lpf_df[full_lpf_df['date'] == lpf_latest_date]
-        lpf_live_df[fef_cols].to_csv(lpf_fut_live, index=False)
+        lpf_live_df[fef_cols].to_csv(lpf_fut_live, index=False, lineterminator="\n")
         print(f"✔ Saved: {lpf_fut_live} ({len(lpf_live_df):,} active rows)")
     else:
         full_lpf_df = pd.DataFrame()
@@ -582,7 +582,7 @@ def main():
     curve_df = build_forward_curve(fef_df, m65f_df, lpf_df)
     if not curve_df.empty:
         curve_path = os.path.join(COMMODITIES_DIR, 'sgx_iron_ore_forward_curve.csv')
-        curve_df.to_csv(curve_path, index=False)
+        curve_df.to_csv(curve_path, index=False, lineterminator="\n")
         print(f"✔ Saved: {curve_path} ({len(curve_df)} tenors)")
         
         # Display preview of active forward curve

@@ -4062,7 +4062,7 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
     all_rows = existing_backfill_rows + alibra_rows
     all_rows.sort(key=lambda r: r.get("date", ""))
     with open(tc_file, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=tc_cols_with_source, extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=tc_cols_with_source, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for row in all_rows:
             writer.writerow(row)
@@ -4226,7 +4226,7 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
 
     with open(io_file, "w", encoding="utf-8", newline="") as f:
         import csv
-        writer = csv.writer(f)
+        writer = csv.writer(f, lineterminator="\n")
         writer.writerow(io_cols)
         for date in sorted(existing_io.keys()):
             row = [date]
@@ -4288,7 +4288,7 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
 
     with open(val_file, "w", encoding="utf-8", newline="") as f:
         import csv
-        writer = csv.writer(f)
+        writer = csv.writer(f, lineterminator="\n")
         writer.writerow(val_cols)
         for date in sorted(existing_demo.keys()):
             row = [date]

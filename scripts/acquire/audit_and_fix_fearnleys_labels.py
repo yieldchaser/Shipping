@@ -316,7 +316,7 @@ def fix_csv():
 
     print(f"Rewriting {CSV_PATH} with {len(new_headers)} corrected headers...")
     with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, lineterminator="\n")
         writer.writerow(new_headers)
         writer.writerows(rows)
     print("Successfully rebuilt CSV.")

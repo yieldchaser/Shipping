@@ -141,7 +141,7 @@ def main():
         print("Starting fresh harvest...", flush=True)
 
     f_out = open(csv_path, "a" if file_exists else "w", newline="", encoding="utf-8")
-    writer = csv.DictWriter(f_out, fieldnames=FIELDNAMES)
+    writer = csv.DictWriter(f_out, fieldnames=FIELDNAMES, lineterminator="\n")
     if not file_exists:
         writer.writeheader()
 

@@ -352,7 +352,7 @@ def upsert_wci_rows(new_df):
     combined = combined[CSV_COLUMNS]
     combined["date"] = pd.to_datetime(combined["date"], errors="coerce").dt.strftime("%Y-%m-%d")
     combined = combined.dropna(subset=["date"]).drop_duplicates(subset="date", keep="last").sort_values("date")
-    combined.to_csv(csv_path, index=False)
+    combined.to_csv(csv_path, index=False, lineterminator="\n")
     return csv_path
 
 

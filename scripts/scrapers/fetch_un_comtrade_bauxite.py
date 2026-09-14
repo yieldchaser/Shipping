@@ -119,8 +119,8 @@ def fetch_comtrade_bauxite():
 
     df = pd.DataFrame(records).sort_values("date")
     # Discard any previous synthetic records if present
-    df.to_csv(OUT_FILE, index=False)
-    df.to_csv(ALT_OUT_FILE, index=False)
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
+    df.to_csv(ALT_OUT_FILE, index=False, lineterminator="\n")
     logging.info("Wrote %d REAL rows to %s and %s", len(df), OUT_FILE, ALT_OUT_FILE)
     return df
 

@@ -52,7 +52,7 @@ def backfill_bdi():
     combined['Index'] = combined['Index'].astype(int)
     
     out = combined[['Date', 'Index', '% Change']]
-    out.to_csv(local_path, index=False)
+    out.to_csv(local_path, index=False, lineterminator="\n")
     print(f"  [OK] Saved {len(out)} rows to {local_path} ({combined['dt'].min().strftime('%Y-%m-%d')} -> {combined['dt'].max().strftime('%Y-%m-%d')})")
 
 def backfill_bai00():
@@ -83,7 +83,7 @@ def backfill_bai00():
     combined = pd.concat([tac_df, local], ignore_index=True)
     combined = combined.drop_duplicates(subset=['Date'], keep='last').sort_values('dt', ascending=False)
     out = combined[['Date', 'Index']]
-    out.to_csv(local_path, index=False)
+    out.to_csv(local_path, index=False, lineterminator="\n")
     print(f"  [OK] Saved {len(out)} rows to {local_path} ({combined['dt'].min().strftime('%Y-%m-%d')} -> {combined['dt'].max().strftime('%Y-%m-%d')})")
 
 def fetch_fearnleys_rates():
@@ -160,7 +160,7 @@ def backfill_tc_rates(fearn_df):
 
     combined = pd.concat([piv_hist[local.columns], local], ignore_index=True)
     combined = combined.sort_values('date', ascending=True).reset_index(drop=True)
-    combined.to_csv(local_path, index=False)
+    combined.to_csv(local_path, index=False, lineterminator="\n")
     print(f"  [OK] Expanded time_charter_rates.csv from {len(local)} to {len(combined)} weekly rows ({combined['date'].min()} -> {combined['date'].max()})")
 
 def fetch_and_save_vessel_valuations():
@@ -186,7 +186,7 @@ def fetch_and_save_vessel_valuations():
                 })
         df = pd.DataFrame(rows)
         out_path = 'data/derived/vessel_valuations.csv'
-        df.to_csv(out_path, index=False)
+        df.to_csv(out_path, index=False, lineterminator="\n")
         print(f"  [OK] Saved {len(df)} asset valuation rows to {out_path} ({df['date'].min()} -> {df['date'].max()})")
 
 def main():

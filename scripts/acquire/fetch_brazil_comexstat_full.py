@@ -205,7 +205,7 @@ def run_full_history_harvest():
 
     df_out = pd.DataFrame(list(all_rows.values()))
     df_out.sort_values(by=["date", "commodity"], inplace=True)
-    df_out.to_csv(OUT_CSV, index=False)
+    df_out.to_csv(OUT_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d total Brazil export rows to %s (Date span: %s -> %s)",
                  len(df_out), OUT_CSV, df_out["date"].min(), df_out["date"].max())
 

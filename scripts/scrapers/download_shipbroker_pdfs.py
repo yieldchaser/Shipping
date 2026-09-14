@@ -153,7 +153,7 @@ def run_download(batch_size=None, workers=8):
     df["file_size_bytes"] = df["post_id"].map(size_map).fillna(df.get("file_size_bytes", 0))
     df["download_status"] = df["post_id"].map(status_map).fillna(df.get("download_status", "pending"))
     
-    df.to_csv(MANIFEST_CSV, index=False)
+    df.to_csv(MANIFEST_CSV, index=False, lineterminator="\n")
     print(f"\n[+] Manifest updated with local download paths at {MANIFEST_CSV}")
     print(f"[+] Run complete: {new_dl} downloaded, {cached} cached, {errs} errors. Total Size: {round(total_bytes/(1024*1024), 2)} MB.")
 

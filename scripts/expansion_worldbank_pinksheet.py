@@ -282,7 +282,7 @@ def main():
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     tmp = OUT_PATH + '.tmp'
     with open(tmp, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=live_fields)
+        writer = csv.DictWriter(f, fieldnames=live_fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
     import shutil as _sh

@@ -193,7 +193,7 @@ def main():
 
     print(f"\nWriting {len(all_rows)} rows to {out_csv}...", flush=True)
     with open(out_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         writer.writerows(all_rows)
     print(f"Wrote {len(all_rows)} rows to {out_csv}", flush=True)
@@ -203,7 +203,7 @@ def main():
     if os.path.exists(derived_dir):
         derived_path = os.path.join(derived_dir, "fearnpulse_rates_full.csv")
         with open(derived_path, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()
             writer.writerows(all_rows)
         print(f"Mirrored to {derived_path}", flush=True)

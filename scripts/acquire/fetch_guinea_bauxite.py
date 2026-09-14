@@ -346,7 +346,7 @@ def build_guinea_dataset():
     df.drop_duplicates(subset=["date", "company", "source_url"], inplace=True)
 
     df.sort_values(by=["date", "granularity", "company"], inplace=True)
-    df.to_csv(OUT_FILE, index=False)
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     logging.info("Wrote %d verified Guinea bauxite rows to %s", len(df), OUT_FILE)
 
     update_manifest(len(df), df["date"].min(), df["date"].max())

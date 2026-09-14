@@ -197,7 +197,7 @@ def upsert_scrappage_to_csv(extracted_records):
     assert new_rows >= old_rows, f"FATAL: Dataset shrank! {old_rows} -> {new_rows}"
     assert new_dry_ind >= old_dry_ind, "FATAL: dry_india count decreased!"
 
-    df_new.to_csv(TARGET_CSV, index=False)
+    df_new.to_csv(TARGET_CSV, index=False, lineterminator="\n")
     print(f"  [SAVED] Updated {TARGET_CSV.name} successfully!\n", flush=True)
 
 from concurrent.futures import ThreadPoolExecutor

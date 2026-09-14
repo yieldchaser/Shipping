@@ -227,7 +227,7 @@ def process_all_commodities():
     # Sort deterministically
     df = pd.DataFrame(all_rows)
     df.sort_values(by=["commodity", "date"], inplace=True)
-    df.to_csv(OUT_CSV, index=False)
+    df.to_csv(OUT_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d monthly records to %s", len(df), OUT_CSV)
 
     with open(OUT_PARTNERS_JSON, "w", encoding="utf-8") as f:

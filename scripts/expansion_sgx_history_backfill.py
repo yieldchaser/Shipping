@@ -220,7 +220,7 @@ def upsert_product(product_code, out_path, rebuild=False):
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     tmp = out_path + '.tmp'
     with open(tmp, 'w', encoding='utf-8', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDNAMES, extrasaction='ignore')
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES, extrasaction='ignore', lineterminator="\n")
         writer.writeheader()
         for row in all_rows:
             writer.writerow(row)

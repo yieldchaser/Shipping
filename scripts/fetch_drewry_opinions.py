@@ -230,7 +230,7 @@ def main():
     manifest_lock = threading.Lock()
     manifest_exists = os.path.exists(manifest_path)
     manifest_file = open(manifest_path, "a", newline="", encoding="utf-8")
-    manifest_writer = csv.DictWriter(manifest_file, fieldnames=manifest_fields)
+    manifest_writer = csv.DictWriter(manifest_file, fieldnames=manifest_fields, lineterminator="\n")
     if not manifest_exists:
         manifest_writer.writeheader()
 

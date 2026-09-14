@@ -71,7 +71,7 @@ def log_tc_rejection(date, column, old, new, source):
     is_new = not TC_REJECTION_LOG.exists()
     TC_REJECTION_LOG.parent.mkdir(parents=True, exist_ok=True)
     with open(TC_REJECTION_LOG, "a", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f)
+        writer = csv.writer(f, lineterminator="\n")
         if is_new:
             writer.writerow(["date", "column", "old", "new", "source"])
         writer.writerow([date, column, old, new, source])
@@ -246,7 +246,7 @@ def integrate_historical_time_charter():
     merged_rows.sort(key=lambda r: r["date"])
 
     with open(tc_file, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=TC_COLS, extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=TC_COLS, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for r in merged_rows:
             writer.writerow(r)
@@ -362,7 +362,7 @@ def integrate_tanker_forward_curves():
     out_snapshot = DERIVED_DIR / "tanker_forward_curves.csv"
     fc_fieldnames = list(latest_rows[0].keys())
     with open(out_snapshot, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fc_fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fc_fieldnames, lineterminator="\n")
         writer.writeheader()
         for r in latest_rows:
             writer.writerow(r)
@@ -387,7 +387,7 @@ def integrate_tanker_forward_curves():
             historical_merged.append(r)
 
     with open(out_history, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fc_fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fc_fieldnames, lineterminator="\n")
         writer.writeheader()
         for r in historical_merged:
             writer.writerow(r)

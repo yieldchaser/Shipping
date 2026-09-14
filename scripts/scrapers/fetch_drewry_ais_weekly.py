@@ -84,7 +84,7 @@ def append_to_manifest(entries):
 
     with open(MANIFEST_FILE, "a", newline="", encoding="utf-8") as f:
         fieldnames = ["filename", "year", "week", "vessel_class", "size_bytes", "sha256"]
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator="\n")
         if not file_exists:
             writer.writeheader()
         for entry in entries:

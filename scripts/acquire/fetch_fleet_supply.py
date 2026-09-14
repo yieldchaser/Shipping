@@ -156,7 +156,7 @@ def process_fleet_data():
         })
 
     df = pd.DataFrame(rows)
-    df.to_csv(OUT_CSV, index=False)
+    df.to_csv(OUT_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d asset classes to %s", len(df), OUT_CSV)
 
     # Master summary JSON

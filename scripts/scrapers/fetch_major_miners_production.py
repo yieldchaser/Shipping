@@ -94,7 +94,7 @@ def main() -> pd.DataFrame:
             "c1_cash_cost_usd_t", "annual_guidance", "primary_loading_terminals"
         ])
         df["provenance"] = "editorial_estimate_diagnostic"
-    df.to_csv(OUT_FILE, index=False)
+    df.to_csv(OUT_FILE, index=False, lineterminator="\n")
     logging.info("Wrote %d rows (provenance=%s) -> %s", len(df), df["provenance"].iloc[0], OUT_FILE)
     return df
 

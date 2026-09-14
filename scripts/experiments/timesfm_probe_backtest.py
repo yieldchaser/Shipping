@@ -1259,11 +1259,11 @@ def run_probe(cfg: BacktestConfig) -> Dict[str, Any]:
         raise RuntimeError("No records produced; check data / horizons.")
     # Save detailed
     results_csv = REPORT_DIR / "results.csv"
-    df.to_csv(results_csv, index=False)
+    df.to_csv(results_csv, index=False, lineterminator="\n")
     log(f"Saved detailed results to {results_csv} ({len(df)} rows)")
     # Mirror to derived if not huge
     try:
-        df.to_csv(DERIVED_MIRROR, index=False)
+        df.to_csv(DERIVED_MIRROR, index=False, lineterminator="\n")
         log(f"Mirrored to {DERIVED_MIRROR}")
     except Exception as e:  # noqa: BLE001
         log(f"Mirror failed: {e}")
@@ -1290,7 +1290,7 @@ def run_probe(cfg: BacktestConfig) -> Dict[str, Any]:
     counts = df.groupby(["target", "model", "covariates", "context", "horizon"]).size().reset_index(name="n_origins")
     summary = pd.merge(summary, counts, on=["target", "model", "covariates", "context", "horizon"], how="left")
     metrics_csv = REPORT_DIR / "metrics_summary.csv"
-    summary.to_csv(metrics_csv, index=False)
+    summary.to_csv(metrics_csv, index=False, lineterminator="\n")
     log(f"Saved metrics summary to {metrics_csv} ({len(summary)} rows)")
 
     # Also aggregate collapsed over contexts for easier reading

@@ -109,7 +109,7 @@ def append_daily_to_history(daily_path, hist_path, hash_state):
 
     if new_rows:
         with open(hist_path, 'a', encoding='utf-8', newline='') as f:
-            writer = csv.writer(f)
+            writer = csv.writer(f, lineterminator="\n")
             writer.writerows(new_rows)
         print(f"Appended {len(new_rows)} new historical records to {hist_path}")
     else:
