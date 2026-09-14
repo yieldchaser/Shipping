@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t__root",
+  "doc_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t",
+  "parent_id": null,
+  "title": "Capt. Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC on Cargo Securing.",
+  "section_path": [
+    "Capt. Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC on Cargo Securing."
+  ],
+  "section_path_text": "Capt. Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC on Cargo Securing.",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC on Cargo Securing. **Broker**: General Broker\n**Published Date**: 10/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing/](https://www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing/)\n\nMarket Report Content\nin Recent Videos\n10/09/2026\nCapt. Girish Munjal, Head of Content, MarinePALS, explains the significance of the joint Tokyo MOU-Paris MoU CIC on cargo securing, highlighting the importance of understanding the requirements, applying them correctly, and ensuring cargo is safely loaded, stowed and secured.",
+  "keywords": [
+    "cargo",
+    "content",
+    "marinepals",
+    "broker",
+    "capt.",
+    "cic",
+    "girish",
+    "https",
+    "mou",
+    "munjal",
+    "source",
+    "span"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 256,
+  "source_path": "reports/broker_reports/2026/general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t.md",
+  "source_url": "https://www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t__s01_capt_girish_munjal_content_director_marinepals_on_the_impact_of_the_psc_cic_on_cargo_securing",
+      "doc_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t",
+      "parent_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t__root",
+      "title": "Capt. Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC on Cargo Securing.",
+      "section_path": [
+        "Capt. Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC on Cargo Securing."
+      ],
+      "section_path_text": "Capt. Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC on Cargo Securing.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: General Broker\n**Published Date**: 10/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing/](https://www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing/)",
+      "keywords": [
+        "broker",
+        "https",
+        "www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing",
+        "date",
+        "general",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t",
+      "parent_id": "broker_reports_broker_report_2026-09-10_general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Girish Munjal, Head of Content, MarinePALS, explains the significance of the joint Tokyo MOU-Paris MoU CIC on cargo securing, highlighting the importance of understanding the requirements, applying them correctly, and ensuring cargo is safely loaded, stowed and secured. <span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">﻿</span>\nSource: MarinePALS",
+      "keywords": [
+        "cargo",
+        "marinepals",
+        "mou",
+        "span",
+        "applying",
+        "bookmark",
+        "capt.",
+        "cic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

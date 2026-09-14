@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37__root",
+  "doc_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37",
+  "parent_id": null,
+  "title": "Star Asia Shipbroking Weekly Market Report - WEEK 37",
+  "section_path": [
+    "Star Asia Shipbroking Weekly Market Report - WEEK 37"
+  ],
+  "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 37",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Star Asia Shipbroking Weekly Market Report - WEEK 37\n**Broker**: Star Asia\n**Published Date**: 14/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-37-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-37-5/)\n\nMarket Report Content\nSTAR ASIA | WEEKLY MARKET REPORT Week 37 | September 11th, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 37 · September 11th, 2026\nMARKET OVERVIEW\nRegional diplomacy in the Middle East is attempting its first coordinated dialogue since the outbreak of\nhostilities over six months ago, with coastal nations exploring direct multilateral talks in southern Oman to\naddress the prolonged closure of the Strait of Hormuz. Convening foreign ministers from the GCC\nalongside Iranian representatives marks a potential shift towards mediation, though attendance remains\ntentative amid renewed border skirmishes and strikes. The stakes surrounding these negotiations are\nmagnified by renewed territorial pushes toward the Red Sea coast near the Bab el -Mandeb ",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 9013,
+  "source_path": "reports/broker_reports/2026/star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37.md",
+  "source_url": "https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-37-5/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37__s01_star_asia_shipbroking_weekly_market_report_week_37",
+      "doc_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37",
+      "parent_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37__root",
+      "title": "Star Asia Shipbroking Weekly Market Report - WEEK 37",
+      "section_path": [
+        "Star Asia Shipbroking Weekly Market Report - WEEK 37"
+      ],
+      "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 37",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Star Asia\n**Published Date**: 14/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-37-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-37-5/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-37-5",
+        "asia",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "star"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37",
+      "parent_id": "broker_reports_broker_report_2026-09-14_star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "STAR ASIA | WEEKLY MARKET REPORT Week 37 | September 11th, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 37 · September 11th, 2026\nMARKET OVERVIEW\nRegional diplomacy in the Middle East is attempting its first coordinated dialogue since the outbreak of\nhostilities over six months ago, with coastal nations exploring direct multilateral talks in southern Oman to\naddress the prolonged closure of the Strait of Hormuz. Convening foreign ministers from the GCC\nalongside Iranian representatives marks a potential shift towards mediation, though attendance remains\ntentative amid renewed border skirmishes and strikes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "container"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8919,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

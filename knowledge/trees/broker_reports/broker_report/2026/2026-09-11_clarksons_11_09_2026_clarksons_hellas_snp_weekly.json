@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly__root",
+  "doc_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "CLARKSONS HELLAS - SnP WEEKLY\n**Broker**: Clarksons\n**Published Date**: 11/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-9/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-9/)\n\nMarket Report Content\nClarkson Hellas Ltd. Desk Talk\nAs spot rates remain on a strong trend across both Wet and Dry spaces, we ran through another week\nwhere we observed all-time-high tanker, and very strong dry cargo tonnage prices , while appetite for\nsecondhand vessels is continuing to absorb the elevated price levels. On the tanker side, rising crude and product prices have pushed VLCC earnings on the traditional route\nand global MR averages to $300,000/day and $37,200/day, respectively.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "atlantic",
+    "any",
+    "clarksons",
+    "information",
+    "usd",
+    "its",
+    "hellas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1945,
+  "source_path": "reports/broker_reports/2026/clarksons_11_09_2026_clarksons_hellas_snp_weekly.md",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-9/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly__s01_clarksons_hellas_snp_weekly",
+      "doc_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly__root",
+      "title": "CLARKSONS HELLAS - SnP WEEKLY",
+      "section_path": [
+        "CLARKSONS HELLAS - SnP WEEKLY"
+      ],
+      "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Clarksons\n**Published Date**: 11/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-9/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-9/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-9",
+        "broker",
+        "clarksons",
+        "date",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-09-11_clarksons_11_09_2026_clarksons_hellas_snp_weekly__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Desk Talk\nAs spot rates remain on a strong trend across both Wet and Dry spaces, we ran through another week\nwhere we observed all-time-high tanker, and very strong dry cargo tonnage prices , while appetite for\nsecondhand vessels is continuing to absorb the elevated price levels. On the tanker side, rising crude and product prices have pushed VLCC earnings on the traditional route\nand global MR averages to $300,000/day and $37,200/day, respectively.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "atlantic",
+        "any",
+        "information"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1861,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
