@@ -17703,9 +17703,13 @@ if (intelTabsContainer) {
         }),
         fetch('data/derived/alibra_tce_matrix.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => { DATA.alibraTceMatrix = data || null; }),
         safeFetch('data/indices/blpg_historical.csv', 'Baltic LPG Index', [], r => {
+          // The file is Date,Index,% Change with DD-MM-YYYY dates (Baltic ticker poller).
+          // renderLPGFreightChart matches rows by dateStr and reads .blpg.
           DATA.blpg = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return { date: d, dateStr: (row.date || '').trim(), value: parseVal(row.value) };
+            const raw = (row.Date || row.date || '').trim();
+            const d = parseDate(raw) || parseDateISO(raw);
+            const v = parseVal(row.Index != null ? row.Index : row.value);
+            return { date: d, dateStr: d ? fmtDate(d) : raw, value: v, blpg: v };
           }).filter(x => x.date && x.value != null);
         }),
         safeFetch('data/commodities/sgx_iron_ore_forward_curve.csv', 'SGX Iron Ore Forward Curve', [], r => {

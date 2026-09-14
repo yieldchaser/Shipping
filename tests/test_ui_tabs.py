@@ -1334,8 +1334,8 @@ def test_basin_spread_1y_tenor_shows_full_span(web_server):
 # ---------------------------------------------------------------------------
 # Indices tab: dry and tanker route cards
 # ---------------------------------------------------------------------------
-INDICES_PRODUCT_ORDER_HEAD = ["bdiy", "cape", "panama", "suprama", "handysize"]
-INDICES_TANKER_INDICES = ["dirtytanker", "cleantanker"]
+INDICES_PRODUCT_ORDER_HEAD = ["bdiy", "bdry_spot", "cape", "panama", "suprama", "handysize"]
+INDICES_TANKER_INDICES = ["dirtytanker", "cleantanker", "blng", "blpg"]
 INDICES_EQUITIES = ["clmi", "cldbi", "clti", "clci", "cllg", "clmfi", "clmlp"]
 
 
@@ -1362,8 +1362,8 @@ def _card_state(page):
 
 def test_indices_route_cards_live_ordered_and_full_depth(web_server):
     """Every live route in data/views/routes/catalog.json gets a card with data, in the
-    agreed order (BDI, vessel classes, dry routes, tanker indices, tanker routes,
-    equities, futures/ETFs); filter counts match the cards; each route slider reaches
+    agreed order, two per row (BDI and BDRY spot, vessel classes, dry routes, tanker
+    and gas indices, tanker routes, equities, futures/ETFs, air freight last); filter counts match the cards; each route slider reaches
     the first print of its source."""
     catalog = json.loads((Path(__file__).resolve().parent.parent / "data" / "views" / "routes" / "catalog.json")
                          .read_text(encoding="utf-8"))["routes"]

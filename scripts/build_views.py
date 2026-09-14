@@ -285,8 +285,15 @@ def build_indices_and_dashboard_master(prov_map):
 
     all_sorted_dates = sorted(dates_dict.keys())
     
-    # Dashboard master: 5-year primary window (from 2021-01-01 to latest)
-    dates_5y = [d for d in all_sorted_dates if d >= '2021-01-01']
+    # Dashboard master: rolling five-year boot window ending at the newest date.
+    # A fixed start (it was 2021-01-01) let the file grow every day towards the
+    # 250 KB ceiling; full history is served per index from data/views/indices/.
+    if all_sorted_dates:
+        last = all_sorted_dates[-1]
+        window_start = f"{int(last[:4]) - 5:04d}{last[4:10]}"
+    else:
+        window_start = ""
+    dates_5y = [d for d in all_sorted_dates if d >= window_start]
     master_header = {
         "series_id": "dashboard_master",
         "source": "Baltic Exchange / Solactive / Capital Link",
