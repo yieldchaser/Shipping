@@ -24,11 +24,11 @@
       "bytes": 8431534
     }
   },
-  "rows": 14455,
+  "rows": 0,
   "ports_ingested": 2065,
   "max_date": "2026-09-04",
   "min_date": "2026-01-01",
   "mode": "refresh",
-  "elapsed_s": 16.3,
-  "generated_utc": "2026-09-10 09:28 UTC"
+  "elapsed_s": 16.6,
+  "generated_utc": "2026-09-14 10:31 UTC"
 }
