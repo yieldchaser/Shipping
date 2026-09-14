@@ -36,7 +36,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from fetch_ffa_live_snapshot import build, fetch  # noqa: E402
+from fetch_ffa_live_snapshot import Blocked, build, fetch  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 OUT_DIR = REPO_ROOT / "data" / "ffa_live"
@@ -202,21 +202,30 @@ def main():
         deadline = now_utc().replace(hour=hh, minute=mm, second=0, microsecond=0)
 
     rec = Recorder()
-    dirty, last_push, failures, reads = False, time.monotonic(), 0, 0
+    dirty, last_push, failures, blocks, reads = False, time.monotonic(), 0, 0, 0
+    wait = args.interval
     while True:
         try:
             snap = build(fetch(), now_utc().strftime("%Y-%m-%dT%H:%M:%SZ"))
             changed = rec.record(snap)
             dirty = dirty or changed
             reads += 1
-            failures = 0
+            failures, blocks, wait = 0, 0, args.interval
             cape = snap["segments"][0]["tenors"][0]
             print(f"{snap['fetched_at_utc']} {'changed' if changed else 'same   '} Cape {cape['name']} {cape['price']:,.0f} vs settle {cape['settle']:,.0f}", flush=True)
+        except Blocked as exc:
+            # One polite read every 2 minutes is what the site's own ticker does per
+            # visitor. If it ever refuses us, wait 15 minutes, and give up for the
+            # run after three refusals in a row rather than keep knocking.
+            blocks += 1
+            wait = 900
+            print(f"{now_utc():%H:%M:%S} refused by the screen ({exc}), block {blocks}/3", flush=True)
         except Exception as exc:  # noqa: BLE001
             failures += 1
+            wait = min(args.interval * (2 ** failures), 900)
             print(f"{now_utc():%H:%M:%S} read failed ({failures}): {exc}", flush=True)
 
-        finished = args.once or (deadline is not None and now_utc() >= deadline)
+        finished = args.once or blocks >= 3 or (deadline is not None and now_utc() >= deadline)
         if args.push and dirty and (finished or time.monotonic() - last_push >= args.push_every):
             if push(f"data(ffa-live): intraday FFA ticks {now_utc():%Y-%m-%d %H:%M} UTC [skip ci]"):
                 dirty = False
@@ -224,7 +233,7 @@ def main():
             last_push = time.monotonic()
         if finished:
             break
-        time.sleep(args.interval)
+        time.sleep(wait)
 
     if reads == 0:
         print("No successful reads this run.", file=sys.stderr)

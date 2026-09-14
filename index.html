@@ -13207,22 +13207,16 @@
               <span style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">FORWARD FFA STRIP</span>
               <span class="badge" id="ffaStripAsOf" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Loading…</span>
             </div>
-            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Live dry-bulk FFA market prices, read every 2 minutes during the London session (Mon-Fri 06:00-18:30 UTC) and published about every 10 minutes; this panel re-reads them every 2 minutes while open. Each move is measured against the previous SGX settlement for that tenor; quarter and calendar settlements are the average of their monthly contracts. Click a price to chart its session.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
+            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Dry-bulk FFAs trade between brokers during the London day; SGX clears them and publishes one settlement price per contract each evening (UTC). This strip shows the live traded price, read every 2 minutes on weekdays 06:00-18:30 UTC, against the last SGX settlement, so a move shows up hours before the next settlement. Quarter and calendar settlements are the average of their monthly contracts. Click a price to chart today.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
           </div>
           <div id="ffaStripGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
           <div id="ffaLiveAlerts" style="margin-top:10px;font-size:12px;"></div>
-          <div id="ffaLiveDetail" style="margin-top:10px;display:grid;grid-template-columns:repeat(auto-fit, minmax(340px, 1fr));gap:12px;">
-            <div style="background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;min-width:0;">
-              <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap;">
-                <span id="ffaLiveChartTitle" style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">SESSION PATH</span>
-                <span style="font-size:11px;color:var(--text-muted);" data-tooltip="Each point is a recorded change in the live price (UTC). The dashed line is the previous SGX settlement the move is measured against.">Live price vs SGX settle (dashed)</span>
-              </div>
-              <div style="position:relative;height:190px;"><canvas id="ffaLiveChart"></canvas></div>
+          <div id="ffaLiveDetail" style="margin-top:10px;background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">
+            <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap;">
+              <span id="ffaLiveChartTitle" style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">SESSION</span>
+              <span style="font-size:11px;color:var(--text-muted);">Live price (UTC) vs previous SGX settlement (dashed)</span>
             </div>
-            <div style="background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;min-width:0;overflow-x:auto;">
-              <div style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);margin-bottom:6px;" data-tooltip="For each recorded session: the SGX settlement in force, the last live price of the session, and the SGX settlement published next. It shows how far ahead the live market pointed to the next settlement.">DID THE LIVE MARKET CALL THE SETTLE?</div>
-              <div id="ffaLiveHistory" style="font-size:11px;"></div>
-            </div>
+            <div style="position:relative;height:190px;"><canvas id="ffaLiveChart"></canvas></div>
           </div>
         </div>
         <div class="chart-container mb-20">
@@ -51538,8 +51532,7 @@ function ffaLiveFetch(path, asText) {
 
 function loadFfaLive() {
   var jobs = [
-    ffaLiveFetch('data/ffa_live/latest.json').then(function (d) { DATA.ffaStrip = d; }).catch(function (e) { console.warn('[ffaLive latest]', e); }),
-    ffaLiveFetch('data/ffa_live/daily.csv', true).then(function (t) { DATA.ffaLiveDaily = ffaParseDaily(t); }).catch(function (e) { console.warn('[ffaLive daily]', e); })
+    ffaLiveFetch('data/ffa_live/latest.json').then(function (d) { DATA.ffaStrip = d; }).catch(function (e) { console.warn('[ffaLive latest]', e); })
   ];
   if (!FFA_LIVE.timer) {
     FFA_LIVE.timer = setInterval(function () {
@@ -51550,16 +51543,6 @@ function loadFfaLive() {
   return Promise.all(jobs).then(function () { renderFfaForwardStrip(); });
 }
 window.loadFfaLive = loadFfaLive;
-
-function ffaParseDaily(text) {
-  var lines = (text || '').trim().split(/\r?\n/);
-  var head = (lines.shift() || '').split(',');
-  return lines.map(function (ln) {
-    var c = ln.split(','), o = {};
-    head.forEach(function (h, k) { o[h] = c[k]; });
-    return o;
-  });
-}
 
 function ffaFmtMove(diff, settle) {
   var pct = settle ? diff / settle * 100 : 0;
@@ -51664,22 +51647,25 @@ function renderFfaLiveDetail() {
   var t = seg && (seg.tenors || []).filter(function (x) { return x.name === FFA_LIVE.sel.tenor; })[0];
   if (!t) return;
   var title = document.getElementById('ffaLiveChartTitle');
-  if (title) title.textContent = seg.label + ' ' + t.name + ' · SESSION ' + (v.session_date || '');
+  if (title) title.textContent = seg.label + ' ' + t.name + ' · ' + (v.session_date || '');
 
   var canvas = document.getElementById('ffaLiveChart');
   if (canvas && typeof Chart !== 'undefined') {
     var path = (t.path || []).slice();
     var nowLbl = (v.fetched_at_utc || '').slice(11, 16);
     if (path.length && path[path.length - 1][0] !== nowLbl) path.push([nowLbl, t.price]);
-    var labels = path.map(function (p) { return p[0]; });
-    var prices = path.map(function (p) { return p[1]; });
+    // x = minutes since 00:00 UTC, so gaps between recorded changes keep their real width.
+    var mins = function (hm) { return +hm.slice(0, 2) * 60 + +hm.slice(3, 5); };
+    var hhmmOf = function (m) { m = Math.round(m); return ('0' + Math.floor(m / 60)).slice(-2) + ':' + ('0' + (m % 60)).slice(-2); };
+    var pts = path.map(function (p) { return { x: mins(p[0]), y: p[1] }; });
+    var xs = pts.map(function (q) { return q.x; });
+    var x0 = xs.length ? Math.min.apply(null, xs) : 0, x1 = xs.length ? Math.max.apply(null, xs) : 1;
     var cfg = {
       type: 'line',
       data: {
-        labels: labels,
         datasets: [
-          { label: 'Live price', data: prices, stepped: 'before', borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.12)', pointRadius: 2, borderWidth: 2, fill: false },
-          { label: 'SGX settle', data: labels.map(function () { return t.settle; }), borderColor: '#d29922', borderDash: [5, 4], pointRadius: 0, borderWidth: 1.5, fill: false }
+          { label: 'Live price', data: pts, stepped: 'before', borderColor: '#58a6ff', pointRadius: 2, borderWidth: 2, fill: false },
+          { label: 'SGX settle', data: [{ x: x0, y: t.settle }, { x: x1, y: t.settle }], borderColor: '#d29922', borderDash: [5, 4], pointRadius: 0, borderWidth: 1.5, fill: false }
         ]
       },
       options: {
@@ -51687,16 +51673,21 @@ function renderFfaLiveDetail() {
         interaction: { mode: 'index', intersect: false },
         plugins: {
           legend: { display: false },
-          tooltip: { callbacks: { label: function (c) { return c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString('en-US'); } } }
+          tooltip: { callbacks: {
+            title: function (items) { return items.length ? hhmmOf(items[0].parsed.x) + ' UTC' : ''; },
+            label: function (c) { return c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString('en-US'); }
+          } }
         },
         scales: {
-          x: { ticks: { color: '#8b949e', maxTicksLimit: 8 }, grid: { color: 'rgba(139,148,158,0.1)' }, title: { display: true, text: 'UTC', color: '#8b949e' } },
+          x: { type: 'linear', min: x0, max: Math.max(x1, x0 + 1), ticks: { color: '#8b949e', maxTicksLimit: 8, callback: function (m) { return hhmmOf(m); } }, grid: { color: 'rgba(139,148,158,0.1)' }, title: { display: true, text: 'UTC', color: '#8b949e' } },
           y: { ticks: { color: '#8b949e', callback: function (x) { return '$' + Math.round(x).toLocaleString('en-US'); } }, grid: { color: 'rgba(139,148,158,0.1)' } }
         }
       }
     };
     if (FFA_LIVE.chart && FFA_LIVE.chart.canvas === canvas) {
       FFA_LIVE.chart.data = cfg.data;
+      FFA_LIVE.chart.options.scales.x.min = cfg.options.scales.x.min;
+      FFA_LIVE.chart.options.scales.x.max = cfg.options.scales.x.max;
       FFA_LIVE.chart.update('none');
     } else {
       if (FFA_LIVE.chart) FFA_LIVE.chart.destroy();
@@ -51704,37 +51695,6 @@ function renderFfaLiveDetail() {
     }
   }
 
-  var hist = document.getElementById('ffaLiveHistory');
-  if (!hist) return;
-  var rows = (DATA.ffaLiveDaily || []).filter(function (r) { return r.segment === seg.key && r.tenor === t.name; })
-    .sort(function (a, b) { return a.date < b.date ? -1 : 1; });
-  if (!rows.length) {
-    hist.innerHTML = '<div style="color:var(--text-muted);">Recording started 14 Sep 2026; sessions appear here as they are recorded.</div>';
-    return;
-  }
-  var cell = 'padding:3px 6px;border-bottom:1px solid var(--border);white-space:nowrap;';
-  var out = rows.slice(-10).reverse().map(function (r) {
-    var k = rows.indexOf(r);
-    var next = rows[k + 1];
-    var settle = +r.settle, last = +r.last;
-    var mv = ffaFmtMove(last - settle, settle);
-    var nextSettle = next ? +next.settle : null;
-    var called = '—';
-    if (nextSettle != null) {
-      var liveDir = Math.sign(last - settle), actDir = Math.sign(nextSettle - settle);
-      var gap = last - nextSettle;
-      called = (liveDir === actDir || liveDir === 0 ? '✓ ' : '✗ ') + (Math.abs(gap) < 0.5 ? 'exact' : (gap > 0 ? '+$' : '-$') + Math.abs(Math.round(gap)).toLocaleString('en-US'));
-    }
-    return '<tr><td style="' + cell + '">' + r.date.slice(5) + '</td>' +
-      '<td style="' + cell + 'text-align:right;">$' + Math.round(settle).toLocaleString('en-US') + '</td>' +
-      '<td style="' + cell + 'text-align:right;">$' + Math.round(last).toLocaleString('en-US') + '</td>' +
-      '<td style="' + cell + 'text-align:right;color:' + mv.color + ';">' + (mv.pct ? (mv.pct > 0 ? '+' : '') + mv.pct.toFixed(1) + '%' : 'unch') + '</td>' +
-      '<td style="' + cell + 'text-align:right;">' + (nextSettle != null ? '$' + Math.round(nextSettle).toLocaleString('en-US') : 'pending') + '</td>' +
-      '<td style="' + cell + 'text-align:right;" data-tooltip="Did the live move point the same way as the next SGX settlement, and how far the last live price was from it.">' + called + '</td></tr>';
-  }).join('');
-  hist.innerHTML = '<table style="width:100%;border-collapse:collapse;font-family:\'IBM Plex Mono\',monospace;">' +
-    '<thead><tr style="color:var(--text-muted);text-align:right;"><th style="' + cell + 'text-align:left;">Day</th><th style="' + cell + '">SGX settle</th><th style="' + cell + '">Live last</th><th style="' + cell + '">Move</th><th style="' + cell + '">Next settle</th><th style="' + cell + '">Called?</th></tr></thead>' +
-    '<tbody>' + out + '</tbody></table>';
 }
 
 function renderFearnleysTab() {

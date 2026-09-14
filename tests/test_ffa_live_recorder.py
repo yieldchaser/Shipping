@@ -70,3 +70,24 @@ def test_recorder_workflow_covers_london_session_and_pages_reads_raw():
     assert "raw.githubusercontent.com/yieldchaser/Shipping/main/" in html
     assert "ffaLiveFetch('data/ffa_live/latest.json')" in html
     assert "FFA_LIVE_ALERT_PCT = 3" in html
+
+
+def test_backs_off_and_stops_when_refused(monkeypatch, tmp_path):
+    calls, sleeps = [], []
+
+    def refused():
+        calls.append(1)
+        raise rec_mod.Blocked("HTTP 429")
+
+    monkeypatch.setattr(rec_mod, "fetch", refused)
+    monkeypatch.setattr(rec_mod, "OUT_DIR", tmp_path)
+    monkeypatch.setattr(rec_mod.Recorder.__init__, "__defaults__", (tmp_path,))
+    monkeypatch.setattr(rec_mod.time, "sleep", lambda s: sleeps.append(s))
+    monkeypatch.setattr(sys, "argv", ["x", "--until", "23:59"])
+    assert rec_mod.main() == 1
+    assert len(calls) == 3 and sleeps == [900, 900]
+
+
+def test_page_has_no_settle_scorecard():
+    html = (ROOT / "index.html").read_text(encoding="utf-8")
+    assert "CALL THE SETTLE" not in html and "ffaLiveHistory" not in html

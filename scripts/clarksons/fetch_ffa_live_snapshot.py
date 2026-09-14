@@ -40,16 +40,24 @@ def tenor_label(name):
     return "Cal " + name[3:] if name.startswith("Cal") else name
 
 
+class Blocked(RuntimeError):
+    """The screen refused us (HTTP 403/429): back off instead of retrying."""
+
+
 def fetch():
     last_exc = None
     for _ in range(3):
         try:
             resp = requests.post(ENDPOINT, json={"query": QUERY}, headers=HEADERS, timeout=30)
+            if resp.status_code in (403, 429):
+                raise Blocked(f"HTTP {resp.status_code}")
             resp.raise_for_status()
             body = resp.json()
             if body.get("errors"):
                 raise RuntimeError(body["errors"])
             return body["data"]["brokerSite"]["ticker"]
+        except Blocked:
+            raise
         except Exception as exc:  # noqa: BLE001
             last_exc = exc
     raise RuntimeError(f"FFA screen unavailable: {last_exc}")
