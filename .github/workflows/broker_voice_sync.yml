@@ -1,0 +1,90 @@
+name: Broker Voice Sync
+
+# Keeps the Broker Desk "Broker Voice & Research Repository" current end to end:
+# Fearnleys desk comments, research PDFs, fixtures, S&P deals and rates (Hasura),
+# the comment archive chunks and summary cache built from them, and the Gibson
+# research catalogue (WordPress REST). A freshness check then asks every source
+# for its newest items and turns the run red if any is missing on main.
+
+on:
+  schedule:
+    # Twice a day, every day: Fearnleys and Gibson publish on weekdays at varying hours.
+    - cron: '20 7 * * *'
+    - cron: '20 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-pipeline
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas numpy pyarrow
+
+      - name: Pull latest
+        run: git pull --rebase --autostash origin main
+
+      - name: Collect sources
+        id: collect
+        # Every collector runs even if an earlier one fails; failures are recorded
+        # and fail the job only after whatever did succeed has been committed.
+        run: |
+          failed=""
+          python scripts/fearnleys/daily_fearnleys_sync.py || failed="$failed daily_fearnleys_sync"
+          python scripts/fearnleys/build_comment_chunks.py || failed="$failed build_comment_chunks"
+          python scripts/scrapers/fetch_gibson_catalog.py || failed="$failed fetch_gibson_catalog"
+          echo "failed=$failed" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/derived/fearnleys_broker_comments.csv \
+                  data/derived/fearnleys_comments_tanker.json data/derived/fearnleys_comments_dry.json \
+                  data/derived/fearnleys_comments_gas.json data/derived/fearnleys_comments_snp.json \
+                  data/derived/fearnleys_summary.json \
+                  data/derived/fearnleys_fixtures_full.csv data/derived/fearnleys_fixtures_full.parquet \
+                  data/derived/fearnleys_snp_transactions.csv data/derived/fearnpulse_rates_full.csv \
+                  data/reports/fearnleys_reports_catalog.json reports/fearnleys_reports_catalog.json \
+                  data/reports/fearnleys reports/fearnleys \
+                  data/clarksons/gibson_all_reports_catalog.json
+          if git diff --staged --quiet; then
+            echo "No Broker Voice changes to commit."
+            exit 0
+          fi
+          git commit -m "data(broker-voice): sync Fearnleys comments/reports and Gibson catalogue $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Push succeeded on attempt $attempt."
+              exit 0
+            fi
+            echo "Push race on attempt $attempt. Retrying in 10s..."
+            sleep 10
+          done
+          echo "Failed to push after 3 attempts."
+          exit 1
+
+      - name: Fail if a collector failed
+        if: steps.collect.outputs.failed != ''
+        run: |
+          echo "::error::Collectors failed:${{ steps.collect.outputs.failed }}"
+          exit 1
+
+      - name: Freshness check against live sources
+        run: python scripts/verify/check_broker_voice_fresh.py

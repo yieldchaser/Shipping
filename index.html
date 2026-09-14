@@ -13889,7 +13889,7 @@
               <option value="12">12 · Dec</option>
             </select>
             <input type="text" id="fearnVoiceSearch" class="tracking-input" placeholder="Search commentary, titles, keywords..." style="min-width:200px;flex:1;font-size:11px;" oninput="onFearnVoiceChange()" data-tooltip="Search commentary by keyword, vessel name, charterer, or route.">
-            <button id="fearnArchiveBtn" class="tracking-status-btn" onclick="loadFearnArchive()" data-tooltip="Lazy-load the full per-desk comment archive (11,709 rows in 4 chunks) for deeper search.">Load full archive</button>
+            <button id="fearnArchiveBtn" class="tracking-status-btn" onclick="loadFearnArchive()" data-tooltip="Lazy-load the full per-desk comment archive (11k+ rows in 4 chunks, refreshed twice daily) for deeper search.">Load full archive</button>
           </div>
           <div id="fearnVoiceStream" style="display:flex;flex-direction:column;gap:8px;max-height:560px;overflow-y:auto;"></div>
         </div>
@@ -51748,7 +51748,7 @@ function fearnVoiceComments() {
     }
   }
 
-  // 2. Fearnleys Research Reports Catalog (175 reports)
+  // 2. Fearnleys Research Reports Catalog
   if (window.DATA && DATA.fearnleysReportsCatalog && Array.isArray(DATA.fearnleysReportsCatalog)) {
     DATA.fearnleysReportsCatalog.forEach(function (r, idx) {
       var d = (r.date || r.created_at || '').slice(0, 10);
@@ -51780,7 +51780,7 @@ function fearnVoiceComments() {
     });
   }
 
-  // 3. Gibson Research Reports Catalog (548 reports)
+  // 3. Gibson Research Reports Catalog
   if (window.DATA && DATA.gibsonReportsCatalog) {
     var g = DATA.gibsonReportsCatalog;
     var allG = (g.online_reports || []).concat(g.report_downloads || []);
@@ -51801,7 +51801,7 @@ function fearnVoiceComments() {
     });
   }
 
-  // 4. Seabrokers Offshore Reports Catalog (97 reports)
+  // 4. Seabrokers Offshore Reports Catalog
   if (window.DATA && DATA.seabrokersCatalog && Array.isArray(DATA.seabrokersCatalog)) {
     DATA.seabrokersCatalog.forEach(function (r, idx) {
       var d = (r.date || '').slice(0, 10);
@@ -51831,11 +51831,17 @@ function initFearnVoiceFilters() {
   var sel = document.getElementById('fearnVoiceType');
   if (sel) {
     var curVal = FEARN_STATE.voiceType || (sel.value || 'all');
+    // Counts come from the loaded catalogues, which the scheduled Broker Voice sync refreshes.
+    var gCat = (window.DATA && DATA.gibsonReportsCatalog) || {};
+    var nGibson = (gCat.online_reports || []).length + (gCat.report_downloads || []).length;
+    var nFearn = (window.DATA && Array.isArray(DATA.fearnleysReportsCatalog)) ? DATA.fearnleysReportsCatalog.length : 0;
+    var nSea = (window.DATA && Array.isArray(DATA.seabrokersCatalog)) ? DATA.seabrokersCatalog.length : 0;
+    var catLabel = function (name, n) { return name + (n ? ' (' + n.toLocaleString('en-US') + ' reports)' : ''); };
     sel.innerHTML = '<option value="all">All Sources & Desks</option>' +
       '<optgroup label="Research Publication Catalogues">' +
-      '<option value="Gibson Research Reports">Gibson Research Reports (548 reports)</option>' +
-      '<option value="Fearnleys Research Reports">Fearnleys Research Reports (175 reports)</option>' +
-      '<option value="Seabrokers Offshore Reports">Seabrokers Offshore Reports (97 reports)</option>' +
+      '<option value="Gibson Research Reports">' + catLabel('Gibson Research Reports', nGibson) + '</option>' +
+      '<option value="Fearnleys Research Reports">' + catLabel('Fearnleys Research Reports', nFearn) + '</option>' +
+      '<option value="Seabrokers Offshore Reports">' + catLabel('Seabrokers Offshore Reports', nSea) + '</option>' +
       '</optgroup>' +
       '<optgroup label="Fearnleys Weekly Desk Comments">' +
       FEARN_VOICE_TYPES.map(function (t) {
@@ -51967,13 +51973,13 @@ function renderFearnVoice() {
       '<button id="fearnVoiceNextBtn" class="tracking-status-btn" onclick="fearnVoiceLoadNext()" style="padding:4px 12px;cursor:pointer;background:rgba(77,154,255,0.12);border-color:var(--accent);color:#58a6ff;" data-tooltip="Load and display the next 150 matching broker commentaries.">Load next 150</button>' +
       '<span>·</span>' +
       '<button id="fearnVoiceAllBtn" class="tracking-status-btn" onclick="fearnVoiceLoadAllMatches()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Render all currently matching broker commentaries without truncation.">Load all ' + rows.length.toLocaleString('en-US') + ' matches</button>' +
-      (!(FEARN_STATE.archive && FEARN_STATE.archive.rows) ? ('<span>·</span><button id="fearnVoiceFullArcBtn" class="tracking-status-btn" onclick="loadFearnArchive()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Lazy-load the full multi-year commentary archive containing 11,709 records.">Load full archive</button>') : '') +
+      (!(FEARN_STATE.archive && FEARN_STATE.archive.rows) ? ('<span>·</span><button id="fearnVoiceFullArcBtn" class="tracking-status-btn" onclick="loadFearnArchive()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Lazy-load the full multi-year commentary archive (11k+ records, refreshed twice daily).">Load full archive</button>') : '') +
       '</div>';
   } else if (!(FEARN_STATE.archive && FEARN_STATE.archive.rows)) {
     navHtml = '<div id="fearnVoicePagination" style="text-align:center;font-size:11px;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;padding:10px 16px;background:var(--card);border:1px solid var(--border);border-radius:6px;display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;">' +
       '<span>Showing all ' + rows.length.toLocaleString('en-US') + ' matches in active catalogue</span>' +
       '<span>·</span>' +
-      '<button id="fearnVoiceFullArcBtn" class="tracking-status-btn" onclick="loadFearnArchive()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Lazy-load the full multi-year commentary archive containing 11,709 records.">Load full archive (11k+ rows)</button>' +
+      '<button id="fearnVoiceFullArcBtn" class="tracking-status-btn" onclick="loadFearnArchive()" style="padding:4px 12px;cursor:pointer;" data-tooltip="Lazy-load the full multi-year commentary archive (11k+ records, refreshed twice daily).">Load full archive (11k+ rows)</button>' +
       '</div>';
   }
 

@@ -69,6 +69,11 @@ jobs:
         continue-on-error: true
         timeout-minutes: 10
         run: |
+          # No -e: one failing script (as the reports import did on 2026-09-10) must not
+          # skip the route, gas and desk builders below. The step still exits non-zero.
+          set +e
+          rc=0
+          trap 'rc=1' ERR
           if [ -f scripts/fearnleys/daily_fearnleys_sync.py ]; then python scripts/fearnleys/daily_fearnleys_sync.py; fi
           if [ -f scripts/fearnleys/build_comment_chunks.py ]; then python scripts/fearnleys/build_comment_chunks.py; fi
           # Fearnleys market-data service (fearnpulse /api/marketapi/TS): daily dry-route
@@ -83,6 +88,7 @@ jobs:
           # same refreshed catalog, then the Broker Desk gas overlay that reads them.
           if [ -f scripts/fearnleys/build_gas_rate_csvs.py ]; then python scripts/fearnleys/build_gas_rate_csvs.py --verify; fi
           if [ -f scripts/fearnleys/build_desk_caches.py ]; then python scripts/fearnleys/build_desk_caches.py; fi
+          exit $rc
 
       - name: Geospatial voyage tracker (idempotent, additive-only)
         # Rebuilds lineup/voyage/UI-vector caches from existing fixture data only.

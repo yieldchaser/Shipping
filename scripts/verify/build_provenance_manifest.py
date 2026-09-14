@@ -243,7 +243,7 @@ def find_producing_script(rel_path):
         "data/derived/offshore_summary.json": ("scripts/offshore/build_offshore_cache.py", "Seabreeze / Fearnleys Offshore", "https://fearnleys.com", "Offshore Aggregation", "Dayrates"),
         # Broker Desk Phase 4.2 Ingestions
         "data/clarksons/braemar_live_rates.json": ("scripts/clarksons/fetch_braemar_rates.py", "Braemar ACM Shipbroking", "https://braemar.com", "Broker Rate Assessment Snapshot", "USD/day"),
-        "data/clarksons/gibson_all_reports_catalog.json": ("scripts/scrapers/fetch_gibson_weekly.py", "Gibson Shipbrokers Research", "https://www.gibsons.co.uk", "Research Catalogue API", "Metadata"),
+        "data/clarksons/gibson_all_reports_catalog.json": ("scripts/scrapers/fetch_gibson_catalog.py", "Gibson Shipbrokers Research", "https://www.gibsons.co.uk", "Research Catalogue API", "Metadata"),
         "data/clarksons/gibson_tanker_rates_continuous_daily.csv": ("scripts/fearnleys/build_tanker_routes_daily.py", "Gibson Shipbrokers Continuous Daily Feed", "https://www.gibsons.co.uk", "Daily Broker Assessment", "WS / USD"),
         "data/clarksons/fearnleys_benchmark_rates_continuous.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Continuous Benchmark Engine", "https://fearnleys.com", "GraphQL Continuous Series", "USD/day / WS"),
 
@@ -342,7 +342,10 @@ def build_manifest():
                 if "fixtures" in rel_path:
                     notes = f"Sourced via {fetch_script}. Verified actual date span: 1974-12-18 to 2026-12-18 (540,640 rows in master CSV). Initial CSV row was 2019-03-21 due to unsorted chronological append, which earlier audits mistook for start date."
                 elif "gibson_all_reports_catalog" in rel_path:
-                    notes = f"Sourced via {fetch_script}. 548 broker research reports (153 online + 395 downloads) spanning 2016 to 2026."
+                    _g = json.loads((ROOT / rel_path).read_text(encoding="utf-8"))
+                    notes = (f"Sourced via {fetch_script} (WordPress REST, refreshed twice daily by broker_voice_sync.yml). "
+                             f"{len(_g.get('online_reports', [])) + len(_g.get('report_downloads', []))} research reports "
+                             f"({len(_g.get('online_reports', []))} online + {len(_g.get('report_downloads', []))} downloads).")
                 elif "braemar_live_rates" in rel_path:
                     notes = f"Sourced via {fetch_script}. 20 live forward tenors across Capesize, Panamax, Supramax, and Handysize."
                 elif "gibson_tanker_rates" in rel_path:

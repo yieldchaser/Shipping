@@ -16,6 +16,14 @@ on:
       - "Baltic New Indices Update"
       - "Fearnleys Weekly TC Update"
       - "Data Expansion Collectors"
+      - "Broker Voice Sync"
+      - "Weekly Broker Reports Ingest"
+      - "Offshore Seabreeze Monthly Pipeline"
+      - "Weekly Poten Opinions & Drewry WCI Ingest"
+      - "Scheduled Pipeline Sync & Derived Cache Builders"
+      - "Upstream Physical Commodity Flows & Port Logistics"
+      - "Weekly USDA Maritime & Freight Data Ingest"
+      - "Monthly BPS Indonesia Coal Ingest"
     types:
       - completed
 

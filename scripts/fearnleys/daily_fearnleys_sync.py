@@ -6,9 +6,11 @@ Designed for daily / scheduled automation (runs in <30 seconds without hammer).
 Workflow:
   1. Fixtures: Delta pull using cursor id > max_existing_id (only newly added deals).
   2. Rates: Pulls only recent prints (last 30 days) across series and upserts into fearnpulse_rates_full.csv.
-  3. S&P Transactions: Checks top 50 recent deals and appends any unseen records.
-  4. Broker Comments: Checks top 50 recent comments and appends unseen records.
-  5. Custom Reports: Checks top 5 recent publications; saves markdown if new issue.
+  3. S&P Transactions: Pages back until caught up and appends any unseen records.
+  4. Broker Comments: Pages back from the newest comment until a whole page is
+     already stored, and appends every unseen record.
+  5. Custom Reports: Same paging for publications; saves markdown for each new issue
+     and writes both catalogue copies (data/reports is the one the site reads).
   6. Rebuilds pre-aggregated cache: scripts/fearnleys/build_fearnleys_cache.py.
 """
 
@@ -20,6 +22,13 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 import requests
+
+# fetch_fearnleys_reports.py and build_fearnleys_cache.py live in scripts/ and
+# scripts/fearnleys/; make both importable however this script is launched.
+SCRIPTS_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+for _p in (SCRIPTS_DIR, os.path.dirname(os.path.abspath(__file__))):
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
 
 ENDPOINT = "https://pbrokerapp.hasura.app/v1/graphql"
 HEADERS = {
@@ -38,7 +47,11 @@ FIXTURES_PARQUET = os.path.join(DERIVED_DIR, "fearnleys_fixtures_full.parquet")
 RATES_CSV = os.path.join(DERIVED_DIR, "fearnpulse_rates_full.csv")
 SNP_CSV = os.path.join(DERIVED_DIR, "fearnleys_snp_transactions.csv")
 COMMENTS_CSV = os.path.join(DERIVED_DIR, "fearnleys_broker_comments.csv")
-REPORTS_CATALOG = os.path.join(BASE_DIR, "reports", "fearnleys_reports_catalog.json")
+# The site reads data/reports/; reports/ keeps the knowledge-base copy in step.
+REPORTS_CATALOG = os.path.join(BASE_DIR, "data", "reports", "fearnleys_reports_catalog.json")
+REPORTS_CATALOG_COPIES = [REPORTS_CATALOG, os.path.join(BASE_DIR, "reports", "fearnleys_reports_catalog.json")]
+PAGE_SIZE = 50
+MAX_PAGES = 40
 
 
 def post_graphql_with_retry(payload, max_retries=3, timeout=30):
@@ -117,17 +130,24 @@ def sync_fixtures():
                 continue
 
     print(f"    Current highest fixture ID: {max_id}", flush=True)
-    payload = {
-        "operationName": "GetNewFixtures",
-        "query": FIXTURE_QUERY,
-        "variables": {"lastId": max_id, "batchSize": 500},
-    }
-    data = post_graphql_with_retry(payload)
-    if not data or "fixture" not in data:
-        print("    No response from fixtures endpoint.", flush=True)
-        return 0
+    # Cursor pages of 500 until caught up; a single page left any backlog above 500 behind.
+    new_fixtures, cursor = [], max_id
+    for _ in range(200):
+        payload = {
+            "operationName": "GetNewFixtures",
+            "query": FIXTURE_QUERY,
+            "variables": {"lastId": cursor, "batchSize": 500},
+        }
+        data = post_graphql_with_retry(payload)
+        if not data or "fixture" not in data:
+            raise RuntimeError("No response from fixtures endpoint.")
+        batch = data["fixture"]
+        new_fixtures.extend(batch)
+        if len(batch) < 500:
+            break
+        cursor = max(int(r["id"]) for r in batch)
+        time.sleep(1.0)
 
-    new_fixtures = data["fixture"]
     if not new_fixtures:
         print("    Fixtures database is fully up to date (0 new fixtures).", flush=True)
         return 0
@@ -190,8 +210,7 @@ def sync_rates():
     }
     data = post_graphql_with_retry(payload, timeout=45)
     if not data or "rate_meta" not in data:
-        print("    Failed to fetch recent rates.", flush=True)
-        return 0
+        raise RuntimeError("Failed to fetch recent rates.")
 
     rate_metas = data["rate_meta"]
     new_rows = []
@@ -241,8 +260,8 @@ def sync_rates():
 # 3. S&P DEALS SYNC
 # -----------------------------------------------------------------------------
 SNP_QUERY = """
-query GetRecentSnp {
-  snp_transaction(limit: 50, order_by: {created_at: desc}) {
+query GetRecentSnp($limit: Int!, $offset: Int!) {
+  snp_transaction(limit: $limit, offset: $offset, order_by: [{created_at: desc}, {id: desc}]) {
     id
     created_at
     vessel
@@ -260,15 +279,8 @@ query GetRecentSnp {
 
 def sync_snp():
     print("\n>>> [3/5] Synchronizing S&P Transactions Ledger...", flush=True)
-    payload = {"operationName": "GetRecentSnp", "query": SNP_QUERY}
-    data = post_graphql_with_retry(payload)
-    if not data or "snp_transaction" not in data:
-        print("    Failed to fetch recent S&P transactions.", flush=True)
-        return 0
-
-    recent_deals = data["snp_transaction"]
-    if not recent_deals or not os.path.exists(SNP_CSV):
-        return 0
+    if not os.path.exists(SNP_CSV):
+        raise RuntimeError(f"missing {SNP_CSV}")
 
     # Collect existing IDs
     existing_ids = set()
@@ -277,7 +289,7 @@ def sync_snp():
         for r in reader:
             existing_ids.add(str(r.get("id")))
 
-    unseen = [d for d in recent_deals if str(d.get("id")) not in existing_ids]
+    unseen = fetch_unseen("GetRecentSnp", SNP_QUERY, "snp_transaction", existing_ids)
     if not unseen:
         print("    S&P transactions are up to date (0 new deals).", flush=True)
         return 0
@@ -296,8 +308,8 @@ def sync_snp():
 # 4. BROKER COMMENTS SYNC
 # -----------------------------------------------------------------------------
 COMMENTS_QUERY = """
-query GetRecentComments {
-  comment(limit: 50, order_by: {date: desc}) {
+query GetRecentComments($limit: Int!, $offset: Int!) {
+  comment(limit: $limit, offset: $offset, order_by: [{date: desc}, {id: desc}]) {
     id
     date
     text
@@ -313,17 +325,29 @@ query GetRecentComments {
 """
 
 
+def fetch_unseen(operation, query, key, existing_ids):
+    """Page newest-first until a full page holds nothing new. Raises if the API fails."""
+    unseen, seen_new = [], set()
+    for page in range(MAX_PAGES):
+        payload = {"operationName": operation, "query": query,
+                   "variables": {"limit": PAGE_SIZE, "offset": page * PAGE_SIZE}}
+        data = post_graphql_with_retry(payload)
+        if not data or key not in data:
+            raise RuntimeError(f"{operation}: Hasura returned no '{key}' data (page {page})")
+        rows = data[key]
+        fresh = [r for r in rows if str(r.get("id")) not in existing_ids and str(r.get("id")) not in seen_new]
+        seen_new.update(str(r.get("id")) for r in fresh)
+        unseen.extend(fresh)
+        if len(rows) < PAGE_SIZE or not fresh:
+            break
+        time.sleep(1.0)
+    return unseen
+
+
 def sync_comments():
     print("\n>>> [4/5] Synchronizing Broker Commentary Feed...", flush=True)
-    payload = {"operationName": "GetRecentComments", "query": COMMENTS_QUERY}
-    data = post_graphql_with_retry(payload)
-    if not data or "comment" not in data:
-        print("    Failed to fetch recent comments.", flush=True)
-        return 0
-
-    recent_comments = data["comment"]
-    if not recent_comments or not os.path.exists(COMMENTS_CSV):
-        return 0
+    if not os.path.exists(COMMENTS_CSV):
+        raise RuntimeError(f"missing {COMMENTS_CSV}")
 
     existing_ids = set()
     with open(COMMENTS_CSV, "r", encoding="utf-8", errors="replace") as f:
@@ -331,7 +355,8 @@ def sync_comments():
         for r in reader:
             existing_ids.add(str(r.get("id")))
 
-    unseen = [c for c in recent_comments if str(c.get("id")) not in existing_ids]
+    # Newest first, as the single 50-row page used to arrive; appended in reverse below.
+    unseen = fetch_unseen("GetRecentComments", COMMENTS_QUERY, "comment", existing_ids)
     if not unseen:
         print("    Broker comments are up to date (0 new notes).", flush=True)
         return 0
@@ -355,8 +380,8 @@ def sync_comments():
 # 5. RESEARCH REPORTS CHECK
 # -----------------------------------------------------------------------------
 REPORTS_QUERY = """
-query GetRecentReports {
-  custom_report(limit: 5, order_by: {date: desc}) {
+query GetRecentReports($limit: Int!, $offset: Int!) {
+  custom_report(limit: $limit, offset: $offset, order_by: [{date: desc}, {created_at: desc}]) {
     id
     date
     title
@@ -375,21 +400,14 @@ query GetRecentReports {
 
 def sync_reports():
     print("\n>>> [5/5] Checking for New Fearnleys Weekly Reports...", flush=True)
-    payload = {"operationName": "GetRecentReports", "query": REPORTS_QUERY}
-    data = post_graphql_with_retry(payload)
-    if not data or "custom_report" not in data:
-        print("    Failed to fetch recent reports.", flush=True)
-        return 0
-
-    recent_reports = data["custom_report"]
-    if not recent_reports or not os.path.exists(REPORTS_CATALOG):
-        return 0
+    if not os.path.exists(REPORTS_CATALOG):
+        raise RuntimeError(f"missing {REPORTS_CATALOG}")
 
     with open(REPORTS_CATALOG, "r", encoding="utf-8") as f:
         catalog = json.load(f)
 
-    existing_ids = {r.get("id") for r in catalog}
-    unseen = [r for r in recent_reports if r.get("id") not in existing_ids]
+    existing_ids = {str(r.get("id")) for r in catalog}
+    unseen = fetch_unseen("GetRecentReports", REPORTS_QUERY, "custom_report", existing_ids)
 
     if not unseen:
         print("    Reports catalog is up to date (0 new publications).", flush=True)
@@ -399,7 +417,7 @@ def sync_reports():
     from fetch_fearnleys_reports import blocks_to_markdown, slugify
 
     for r in unseen:
-        catalog.insert(0, r)
+        catalog.append(r)
         rep_date = r.get("date") or "undated"
         rep_slug = r.get("slug") or slugify(r.get("title") or r.get("id"))
         filename = f"{rep_date}_{rep_slug}.md"
@@ -409,8 +427,10 @@ def sync_reports():
             with open(os.path.join(d, filename), "w", encoding="utf-8") as mf:
                 mf.write(md_content)
 
-    with open(REPORTS_CATALOG, "w", encoding="utf-8") as f:
-        json.dump(catalog, f, indent=2, ensure_ascii=False)
+    catalog.sort(key=lambda r: (r.get("date") or "", r.get("created_at") or ""), reverse=True)
+    for path in REPORTS_CATALOG_COPIES:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(catalog, f, indent=2, ensure_ascii=False)
 
     return len(unseen)
 
@@ -421,23 +441,41 @@ def main():
     print("================================================================\n", flush=True)
 
     t0 = time.time()
-    n_fix = sync_fixtures()
-    n_rates = sync_rates()
-    n_snp = sync_snp()
-    n_comm = sync_comments()
-    n_rep = sync_reports()
+    failures = []
+
+    def guarded(name, fn):
+        # One failing feed must not stop the others, or the cache rebuild, from running.
+        # Failures are listed at the end and the script exits non-zero.
+        try:
+            return fn()
+        except Exception as exc:  # noqa: BLE001
+            import traceback
+            traceback.print_exc()
+            failures.append(f"{name}: {exc}")
+            return 0
+
+    n_fix = guarded("fixtures", sync_fixtures)
+    n_rates = guarded("rates", sync_rates)
+    n_snp = guarded("snp", sync_snp)
+    n_comm = guarded("comments", sync_comments)
+    n_rep = guarded("reports", sync_reports)
 
     # Rebuild summary cache
     print("\n================================================================", flush=True)
     print("  REBUILDING FEARNLEYS PRE-AGGREGATED FRONTEND CACHE            ", flush=True)
     print("================================================================", flush=True)
-    import build_fearnleys_cache
-    build_fearnleys_cache.main()
+    def rebuild_cache():
+        import build_fearnleys_cache
+        build_fearnleys_cache.main()
+    guarded("summary cache", rebuild_cache)
 
     elapsed = time.time() - t0
     print(f"Daily Sync Complete in {elapsed:.1f}s.")
     print(f"Deltas -> Fixtures: +{n_fix} | Rates: +{n_rates} | S&P: +{n_snp} | Comments: +{n_comm} | Reports: +{n_rep}")
     print("================================================================\n", flush=True)
+    if failures:
+        print("FAILED STEPS:\n  " + "\n  ".join(failures), flush=True)
+        sys.exit(1)
 
 
 if __name__ == "__main__":

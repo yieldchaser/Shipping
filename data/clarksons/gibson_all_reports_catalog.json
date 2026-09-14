@@ -1,9 +1,16 @@
 {
-  "harvested_at": "2026-09-09T19:48:57.523329+00:00",
-  "total_reports": 548,
-  "online_reports_count": 153,
+  "harvested_at": "2026-09-14T06:26:41.530087+00:00",
+  "total_reports": 549,
+  "online_reports_count": 154,
   "report_downloads_count": 395,
   "online_reports": [
+    {
+      "id": 19993,
+      "date": "2026-09-11T16:38:53",
+      "title": "Africa’s Refining Pipeline",
+      "slug": "africas-refining-pipeline",
+      "link": "https://www.gibsons.co.uk/report/africas-refining-pipeline/"
+    },
     {
       "id": 19868,
       "date": "2026-09-04T16:13:08",
@@ -105,7 +112,7 @@
     {
       "id": 18387,
       "date": "2026-06-05T14:05:08",
-      "title": "Gibson Weekly Projects Report &#8211; 05 June",
+      "title": "Gibson Weekly Projects Report – 05 June",
       "slug": "gibson-weekly-projects-report-05-june",
       "link": "https://www.gibsons.co.uk/report/gibson-weekly-projects-report-05-june/"
     },
@@ -182,7 +189,7 @@
     {
       "id": 16906,
       "date": "2026-03-20T16:48:46",
-      "title": "Gibson Weekly Projects Report &#8211; 20 March",
+      "title": "Gibson Weekly Projects Report – 20 March",
       "slug": "gibson-weekly-projects-report-20-march",
       "link": "https://www.gibsons.co.uk/report/gibson-weekly-projects-report-20-march/"
     },
@@ -301,7 +308,7 @@
     {
       "id": 14708,
       "date": "2025-11-07T16:45:17",
-      "title": "Trump&#8217;s Energy Agenda 2.0",
+      "title": "Trump’s Energy Agenda 2.0",
       "slug": "trumps-energy-agenda-2-0",
       "link": "https://www.gibsons.co.uk/report/trumps-energy-agenda-2-0/"
     },
@@ -364,7 +371,7 @@
     {
       "id": 13617,
       "date": "2025-09-05T15:46:53",
-      "title": "Sanctions and Tariffs Test Russia&#8217;s Crude Trade",
+      "title": "Sanctions and Tariffs Test Russia’s Crude Trade",
       "slug": "sanctions-and-tariffs-test-russias-crude-trade",
       "link": "https://www.gibsons.co.uk/report/sanctions-and-tariffs-test-russias-crude-trade/"
     },
@@ -392,7 +399,7 @@
     {
       "id": 13161,
       "date": "2025-08-08T16:30:14",
-      "title": "What\u2019s Steering Aframax Demand?",
+      "title": "What’s Steering Aframax Demand?",
       "slug": "whats-steering-aframax-demand",
       "link": "https://www.gibsons.co.uk/report/whats-steering-aframax-demand/"
     },
@@ -539,7 +546,7 @@
     {
       "id": 10077,
       "date": "2025-03-07T16:40:28",
-      "title": "Navigating Nigeria&#8217;s Oil Trade",
+      "title": "Navigating Nigeria’s Oil Trade",
       "slug": "navigating-nigerias-oil-trade",
       "link": "https://www.gibsons.co.uk/report/navigating-nigerias-oil-trade/"
     },
@@ -567,7 +574,7 @@
     {
       "id": 9605,
       "date": "2025-02-07T17:15:40",
-      "title": "White House in Spotlight&#8230; Again",
+      "title": "White House in Spotlight… Again",
       "slug": "white-house-in-spotlight-again",
       "link": "https://www.gibsons.co.uk/report/white-house-in-spotlight-again/"
     },
@@ -700,7 +707,7 @@
     {
       "id": 7332,
       "date": "2024-09-13T15:52:28",
-      "title": "Mexico&#8217;s Malaise",
+      "title": "Mexico’s Malaise",
       "slug": "mexicos-malaise",
       "link": "https://www.gibsons.co.uk/report/mexicos-malaise/"
     },
@@ -714,7 +721,7 @@
     {
       "id": 7095,
       "date": "2024-08-30T15:49:36",
-      "title": "What&#8217;s Next for Clean?",
+      "title": "What’s Next for Clean?",
       "slug": "whats-next-for-clean",
       "link": "https://www.gibsons.co.uk/report/whats-next-for-clean/"
     },
@@ -749,7 +756,7 @@
     {
       "id": 6478,
       "date": "2024-07-26T16:14:15",
-      "title": "Is China&#8217;s crude craze over?",
+      "title": "Is China’s crude craze over?",
       "slug": "is-chinas-crude-craze-over",
       "link": "https://www.gibsons.co.uk/report/is-chinas-crude-craze-over/"
     },
@@ -819,7 +826,7 @@
     {
       "id": 5500,
       "date": "2024-05-24T15:24:21",
-      "title": "OPEC&#8217;s Dilemma",
+      "title": "OPEC’s Dilemma",
       "slug": "opecs-dilemma",
       "link": "https://www.gibsons.co.uk/report/opecs-dilemma/"
     },
@@ -917,7 +924,7 @@
     {
       "id": 3753,
       "date": "2024-02-09T16:20:54",
-      "title": "Red Sea &#8211; Key Tanker Flows",
+      "title": "Red Sea – Key Tanker Flows",
       "slug": "red-sea-key-tanker-flows",
       "link": "https://www.gibsons.co.uk/report/red-sea-key-tanker-flows/"
     },
@@ -1108,7 +1115,7 @@
     {
       "id": 235,
       "date": "2023-08-25T00:00:00",
-      "title": "California Dreamin&#8217;",
+      "title": "California Dreamin’",
       "slug": "california-dreamin",
       "link": "https://www.gibsons.co.uk/report_downloads/california-dreamin/"
     },
@@ -1430,7 +1437,7 @@
     {
       "id": 373,
       "date": "2022-09-16T00:00:00",
-      "title": "Inflation Reduction Act \u2013 Wind of Change?",
+      "title": "Inflation Reduction Act – Wind of Change?",
       "slug": "inflation-reduction-act-wind-of-change",
       "link": "https://www.gibsons.co.uk/report_downloads/inflation-reduction-act-wind-of-change/"
     },
@@ -1458,14 +1465,14 @@
     {
       "id": 385,
       "date": "2022-08-22T00:00:00",
-      "title": "LNG Insight &#8211; Stock Building Pressure",
+      "title": "LNG Insight – Stock Building Pressure",
       "slug": "lng-insight-stock-building-pressure",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-insight-stock-building-pressure/"
     },
     {
       "id": 388,
       "date": "2022-08-19T00:00:00",
-      "title": "VLCC&#8217;s back in the game?",
+      "title": "VLCC’s back in the game?",
       "slug": "vlccs-back-in-the-game",
       "link": "https://www.gibsons.co.uk/report_downloads/vlccs-back-in-the-game/"
     },
@@ -1479,7 +1486,7 @@
     {
       "id": 394,
       "date": "2022-08-05T00:00:00",
-      "title": "Headwinds &#038; Tailwinds",
+      "title": "Headwinds & Tailwinds",
       "slug": "headwinds-tailwinds",
       "link": "https://www.gibsons.co.uk/report_downloads/headwinds-tailwinds/"
     },
@@ -1493,7 +1500,7 @@
     {
       "id": 400,
       "date": "2022-07-27T00:00:00",
-      "title": "LNG Insight &#8211; Hot &#038; Cold",
+      "title": "LNG Insight – Hot & Cold",
       "slug": "lng-insight-hot-cold",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-insight-hot-cold/"
     },
@@ -1535,7 +1542,7 @@
     {
       "id": 418,
       "date": "2022-06-23T00:00:00",
-      "title": "LNG Insight &#8211; Qatar in Focus",
+      "title": "LNG Insight – Qatar in Focus",
       "slug": "lng-insight-qatar-in-focus",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-insight-qatar-in-focus/"
     },
@@ -1605,7 +1612,7 @@
     {
       "id": 448,
       "date": "2022-04-04T00:00:00",
-      "title": "LNG Insight &#8211; Is LNG the solution to Europe&#8217;s gas challenge?",
+      "title": "LNG Insight – Is LNG the solution to Europe’s gas challenge?",
       "slug": "lng-insight-is-lng-the-solution-to-europes-gas-challenge",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-insight-is-lng-the-solution-to-europes-gas-challenge/"
     },
@@ -1794,7 +1801,7 @@
     {
       "id": 529,
       "date": "2021-09-23T00:00:00",
-      "title": "Gibson LNG Market Insight &#8211; Will EEXI and CII Kill LNG?",
+      "title": "Gibson LNG Market Insight – Will EEXI and CII Kill LNG?",
       "slug": "gibson-lng-market-insight-will-eexi-and-cii-kill-lng",
       "link": "https://www.gibsons.co.uk/report_downloads/gibson-lng-market-insight-will-eexi-and-cii-kill-lng/"
     },
@@ -1822,7 +1829,7 @@
     {
       "id": 541,
       "date": "2021-08-31T00:00:00",
-      "title": "LNG Market Insight &#8211; Australia",
+      "title": "LNG Market Insight – Australia",
       "slug": "lng-market-insight-australia",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-market-insight-australia/"
     },
@@ -1878,7 +1885,7 @@
     {
       "id": 565,
       "date": "2021-07-22T00:00:00",
-      "title": "LNG &#8211; The Year So Far",
+      "title": "LNG – The Year So Far",
       "slug": "lng-the-year-so-far",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-the-year-so-far/"
     },
@@ -1899,7 +1906,7 @@
     {
       "id": 574,
       "date": "2021-07-02T00:00:00",
-      "title": "Oil production \u2013 It\u2019s a game of two halves",
+      "title": "Oil production – It’s a game of two halves",
       "slug": "oil-production-its-a-game-of-two-halves",
       "link": "https://www.gibsons.co.uk/report_downloads/oil-production-its-a-game-of-two-halves/"
     },
@@ -1934,7 +1941,7 @@
     {
       "id": 589,
       "date": "2021-06-04T00:00:00",
-      "title": "It\u2019s a syn (fuel)",
+      "title": "It’s a syn (fuel)",
       "slug": "its-a-syn-fuel",
       "link": "https://www.gibsons.co.uk/report_downloads/its-a-syn-fuel/"
     },
@@ -2074,7 +2081,7 @@
     {
       "id": 649,
       "date": "2021-02-01T00:00:00",
-      "title": "LNG &#8211; 2020 &#8211; Surprising Results",
+      "title": "LNG – 2020 – Surprising Results",
       "slug": "lng-2020-surprising-results",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-2020-surprising-results/"
     },
@@ -2116,7 +2123,7 @@
     {
       "id": 667,
       "date": "2020-12-21T00:00:00",
-      "title": "LNG 2020 &#8211; The Year That Was Not",
+      "title": "LNG 2020 – The Year That Was Not",
       "slug": "lng-2020-the-year-that-was-not",
       "link": "https://www.gibsons.co.uk/report_downloads/lng-2020-the-year-that-was-not/"
     },
@@ -2319,7 +2326,7 @@
     {
       "id": 754,
       "date": "2020-06-12T00:00:00",
-      "title": "Libya \u2013 Crude Exports On Hold",
+      "title": "Libya – Crude Exports On Hold",
       "slug": "libya-crude-exports-on-hold",
       "link": "https://www.gibsons.co.uk/report_downloads/libya-crude-exports-on-hold/"
     },
@@ -2452,7 +2459,7 @@
     {
       "id": 811,
       "date": "2020-01-24T00:00:00",
-      "title": "Libyan Losses \u00a0",
+      "title": "Libyan Losses",
       "slug": "libyan-losses",
       "link": "https://www.gibsons.co.uk/report_downloads/libyan-losses/"
     },
@@ -2690,7 +2697,7 @@
     {
       "id": 913,
       "date": "2019-04-26T00:00:00",
-      "title": "Trump, Waivers and Oil Prices \u00a0",
+      "title": "Trump, Waivers and Oil Prices",
       "slug": "trump-waivers-and-oil-prices",
       "link": "https://www.gibsons.co.uk/report_downloads/trump-waivers-and-oil-prices/"
     },
@@ -2851,14 +2858,14 @@
     {
       "id": 982,
       "date": "2018-11-02T00:00:00",
-      "title": "It\u2019s Complicated",
+      "title": "It’s Complicated",
       "slug": "its-complicated",
       "link": "https://www.gibsons.co.uk/report_downloads/its-complicated/"
     },
     {
       "id": 985,
       "date": "2018-10-26T00:00:00",
-      "title": "Crude Price Gain Doubles India\u2019s Pain",
+      "title": "Crude Price Gain Doubles India’s Pain",
       "slug": "crude-price-gain-doubles-indias-pain",
       "link": "https://www.gibsons.co.uk/report_downloads/crude-price-gain-doubles-indias-pain/"
     },
@@ -2963,7 +2970,7 @@
     {
       "id": 1030,
       "date": "2018-07-13T00:00:00",
-      "title": "Trump, Tariffs &#038; Tankers",
+      "title": "Trump, Tariffs & Tankers",
       "slug": "trump-tariffs-tankers",
       "link": "https://www.gibsons.co.uk/report_downloads/trump-tariffs-tankers/"
     },
@@ -3040,7 +3047,7 @@
     {
       "id": 1063,
       "date": "2018-04-27T00:00:00",
-      "title": "D\u00e9j\u00e0 Vu",
+      "title": "Déjà Vu",
       "slug": "deja-vu",
       "link": "https://www.gibsons.co.uk/report_downloads/deja-vu/"
     },
@@ -3068,7 +3075,7 @@
     {
       "id": 1075,
       "date": "2018-03-23T00:00:00",
-      "title": "Iran \u2013 Last Chance Saloon?",
+      "title": "Iran – Last Chance Saloon?",
       "slug": "iran-last-chance-saloon",
       "link": "https://www.gibsons.co.uk/report_downloads/iran-last-chance-saloon/"
     },
@@ -3173,14 +3180,14 @@
     {
       "id": 1120,
       "date": "2017-12-01T00:00:00",
-      "title": "Venezuela&#8217;s Challenges",
+      "title": "Venezuela’s Challenges",
       "slug": "venezuelas-challenges",
       "link": "https://www.gibsons.co.uk/report_downloads/venezuelas-challenges/"
     },
     {
       "id": 1123,
       "date": "2017-11-24T00:00:00",
-      "title": "\u201cThe Big Green Tsunami",
+      "title": "“The Big Green Tsunami",
       "slug": "the-big-green-tsunami",
       "link": "https://www.gibsons.co.uk/report_downloads/the-big-green-tsunami/"
     },
@@ -3257,7 +3264,7 @@
     {
       "id": 1156,
       "date": "2017-09-08T00:00:00",
-      "title": "VLCC Floating Storage \u2013 Beginning of the End?",
+      "title": "VLCC Floating Storage – Beginning of the End?",
       "slug": "vlcc-floating-storage-beginning-of-the-end",
       "link": "https://www.gibsons.co.uk/report_downloads/vlcc-floating-storage-beginning-of-the-end/"
     },
@@ -3292,7 +3299,7 @@
     {
       "id": 1171,
       "date": "2017-08-04T00:00:00",
-      "title": "Making Sense of Sanctions &#8211; Venezuela",
+      "title": "Making Sense of Sanctions – Venezuela",
       "slug": "making-sense-of-sanctions-venezuela",
       "link": "https://www.gibsons.co.uk/report_downloads/making-sense-of-sanctions-venezuela/"
     },
@@ -3334,14 +3341,14 @@
     {
       "id": 1189,
       "date": "2017-06-23T00:00:00",
-      "title": "Summer Season for MR&#8217;s",
+      "title": "Summer Season for MR’s",
       "slug": "summer-season-for-mrs",
       "link": "https://www.gibsons.co.uk/report_downloads/summer-season-for-mrs/"
     },
     {
       "id": 1192,
       "date": "2017-06-16T00:00:00",
-      "title": "Don&#8217;t Believe The Pipe",
+      "title": "Don’t Believe The Pipe",
       "slug": "dont-believe-the-pipe",
       "link": "https://www.gibsons.co.uk/report_downloads/dont-believe-the-pipe/"
     },
@@ -3481,14 +3488,14 @@
     {
       "id": 1252,
       "date": "2017-01-16T00:00:00",
-      "title": "Slip &#8216;N Slide",
+      "title": "Slip ‘N Slide",
       "slug": "slip-n-slide",
       "link": "https://www.gibsons.co.uk/report_downloads/slip-n-slide/"
     },
     {
       "id": 1255,
       "date": "2017-01-06T00:00:00",
-      "title": "2016 &#8211; Just Scraps Again For Tankers",
+      "title": "2016 – Just Scraps Again For Tankers",
       "slug": "2016-just-scraps-again-for-tankers",
       "link": "https://www.gibsons.co.uk/report_downloads/2016-just-scraps-again-for-tankers/"
     },
@@ -3558,7 +3565,7 @@
     {
       "id": 1285,
       "date": "2016-10-21T00:00:00",
-      "title": "India &#8211; A Jewel for Tankers",
+      "title": "India – A Jewel for Tankers",
       "slug": "india-a-jewel-for-tankers",
       "link": "https://www.gibsons.co.uk/report_downloads/india-a-jewel-for-tankers/"
     },
@@ -3649,14 +3656,14 @@
     {
       "id": 1324,
       "date": "2016-07-25T00:00:00",
-      "title": "Clouds &#038; Clarity",
+      "title": "Clouds & Clarity",
       "slug": "clouds-clarity",
       "link": "https://www.gibsons.co.uk/report_downloads/clouds-clarity/"
     },
     {
       "id": 1327,
       "date": "2016-07-18T00:00:00",
-      "title": "Nigeria&#8217;s Refining Project &#8211; A Dream or Reality?",
+      "title": "Nigeria’s Refining Project – A Dream or Reality?",
       "slug": "nigerias-refining-project-a-dream-or-reality",
       "link": "https://www.gibsons.co.uk/report_downloads/nigerias-refining-project-a-dream-or-reality/"
     },
@@ -3684,7 +3691,7 @@
     {
       "id": 1339,
       "date": "2016-06-17T00:00:00",
-      "title": "Hard &#038; Fast",
+      "title": "Hard & Fast",
       "slug": "hard-fast",
       "link": "https://www.gibsons.co.uk/report_downloads/hard-fast/"
     },
@@ -3698,14 +3705,14 @@
     {
       "id": 1345,
       "date": "2016-06-03T00:00:00",
-      "title": "&#8216;Tanker Orders in Focus&#8217;",
+      "title": "‘Tanker Orders in Focus’",
       "slug": "tanker-orders-in-focus",
       "link": "https://www.gibsons.co.uk/report_downloads/tanker-orders-in-focus/"
     },
     {
       "id": 1348,
       "date": "2016-05-27T00:00:00",
-      "title": "&#8216;A year is a long time in Tankers&#8217;",
+      "title": "‘A year is a long time in Tankers’",
       "slug": "a-year-is-a-long-time-in-tankers",
       "link": "https://www.gibsons.co.uk/report_downloads/a-year-is-a-long-time-in-tankers/"
     },
