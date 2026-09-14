@@ -13200,16 +13200,30 @@
 
       <!-- S1 OVERVIEW -->
       <div class="fearn-sec" id="fearnSec1" style="display:none;">
-        <!-- FORWARD FFA STRIP: live market snapshot (data/clarksons/ffa_live_snapshot.json) -->
+        <!-- FORWARD FFA STRIP: live market recorder (data/ffa_live/, written by ffa_live_recorder.yml) -->
         <div id="fearnFfaStrip" style="margin-bottom:16px;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:6px;">
           <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
             <div style="display:flex;align-items:center;gap:8px;">
               <span style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">FORWARD FFA STRIP</span>
               <span class="badge" id="ffaStripAsOf" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Loading…</span>
             </div>
-            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Live dry-bulk FFA market prices, snapshotted every 30 minutes during London trading hours (Mon-Fri 07:00-17:30 UTC). Each change is measured against the previous SGX settlement for that tenor; quarter and calendar settlements are the average of their monthly contracts.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
+            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Live dry-bulk FFA market prices, read every 2 minutes during the London session (Mon-Fri 06:00-18:30 UTC) and published about every 10 minutes; this panel re-reads them every 2 minutes while open. Each move is measured against the previous SGX settlement for that tenor; quarter and calendar settlements are the average of their monthly contracts. Click a price to chart its session.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
           </div>
           <div id="ffaStripGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
+          <div id="ffaLiveAlerts" style="margin-top:10px;font-size:12px;"></div>
+          <div id="ffaLiveDetail" style="margin-top:10px;display:grid;grid-template-columns:repeat(auto-fit, minmax(340px, 1fr));gap:12px;">
+            <div style="background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;min-width:0;">
+              <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap;">
+                <span id="ffaLiveChartTitle" style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">SESSION PATH</span>
+                <span style="font-size:11px;color:var(--text-muted);" data-tooltip="Each point is a recorded change in the live price (UTC). The dashed line is the previous SGX settlement the move is measured against.">Live price vs SGX settle (dashed)</span>
+              </div>
+              <div style="position:relative;height:190px;"><canvas id="ffaLiveChart"></canvas></div>
+            </div>
+            <div style="background:var(--card-subtle);border:1px solid var(--border);border-radius:6px;padding:10px 12px;min-width:0;overflow-x:auto;">
+              <div style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);margin-bottom:6px;" data-tooltip="For each recorded session: the SGX settlement in force, the last live price of the session, and the SGX settlement published next. It shows how far ahead the live market pointed to the next settlement.">DID THE LIVE MARKET CALL THE SETTLE?</div>
+              <div id="ffaLiveHistory" style="font-size:11px;"></div>
+            </div>
+          </div>
         </div>
         <div class="chart-container mb-20">
           <div class="chart-header">
@@ -18262,10 +18276,7 @@ if (intelTabsContainer) {
           .catch(err => { console.warn('[fearnleysSeries fetch error]', err); DATA.fearnleysSeries = null; }),
         loadFearnDailyCaches(),
         loadSignalsData(),
-        fetch('data/clarksons/ffa_live_snapshot.json', { cache: 'no-cache' })
-          .then(res => res.ok ? res.json() : null)
-          .then(data => { DATA.ffaStrip = data; if (typeof renderFfaForwardStrip === 'function') renderFfaForwardStrip(); })
-          .catch(err => { console.warn('[ffaStrip fetch error]', err); DATA.ffaStrip = null; }),
+        (typeof loadFfaLive === 'function' ? loadFfaLive() : Promise.resolve()),
         fetch('data/clarksons/gibson_all_reports_catalog.json', { cache: 'no-cache' })
           .then(res => res.ok ? res.json() : null)
           .then(data => { DATA.gibsonReportsCatalog = data; if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters(); })
@@ -51506,6 +51517,60 @@ function fearnSeriesCache() {
   return (c && c.labels) ? c : null;
 }
 
+// Live FFA market vs previous SGX settlement. ffa_live_recorder.yml pushes
+// data/ffa_live/ every ~10 minutes; on the published site the files are read from
+// raw.githubusercontent.com (CORS-open, fresh on a cache-busted URL) so the page
+// sees each push without waiting for a Pages redeploy.
+var FFA_LIVE_ALERT_PCT = 3;
+var FFA_LIVE_REFRESH_MS = 120000;
+var FFA_LIVE = { sel: null, timer: null, chart: null };
+
+function ffaLiveUrl(path) {
+  var onPages = /github\.io$/.test(location.hostname);
+  return onPages ? 'https://raw.githubusercontent.com/yieldchaser/Shipping/main/' + path + '?t=' + Date.now() : path;
+}
+
+function ffaLiveFetch(path, asText) {
+  var parse = function (r) { if (!r.ok) throw new Error(r.status); return asText ? r.text() : r.json(); };
+  return fetch(ffaLiveUrl(path), { cache: 'no-store' }).then(parse)
+    .catch(function () { return fetch(path, { cache: 'no-cache' }).then(parse); });
+}
+
+function loadFfaLive() {
+  var jobs = [
+    ffaLiveFetch('data/ffa_live/latest.json').then(function (d) { DATA.ffaStrip = d; }).catch(function (e) { console.warn('[ffaLive latest]', e); }),
+    ffaLiveFetch('data/ffa_live/daily.csv', true).then(function (t) { DATA.ffaLiveDaily = ffaParseDaily(t); }).catch(function (e) { console.warn('[ffaLive daily]', e); })
+  ];
+  if (!FFA_LIVE.timer) {
+    FFA_LIVE.timer = setInterval(function () {
+      if (document.hidden || window.currentTab !== 'fearnleys') return;
+      loadFfaLive();
+    }, FFA_LIVE_REFRESH_MS);
+  }
+  return Promise.all(jobs).then(function () { renderFfaForwardStrip(); });
+}
+window.loadFfaLive = loadFfaLive;
+
+function ffaParseDaily(text) {
+  var lines = (text || '').trim().split(/\r?\n/);
+  var head = (lines.shift() || '').split(',');
+  return lines.map(function (ln) {
+    var c = ln.split(','), o = {};
+    head.forEach(function (h, k) { o[h] = c[k]; });
+    return o;
+  });
+}
+
+function ffaFmtMove(diff, settle) {
+  var pct = settle ? diff / settle * 100 : 0;
+  if (Math.abs(diff) < 0.5) return { text: 'unch', pct: 0, color: 'var(--text-muted)' };
+  return {
+    text: (diff > 0 ? '+$' : '-$') + Math.abs(Math.round(diff)).toLocaleString('en-US') + ' (' + (pct > 0 ? '+' : '') + pct.toFixed(1) + '%)',
+    pct: pct,
+    color: diff > 0 ? '#3fb950' : '#f85149'
+  };
+}
+
 function renderFfaForwardStrip() {
   var grid = document.getElementById('ffaStripGrid');
   if (!grid) return;
@@ -51522,16 +51587,18 @@ function renderFfaForwardStrip() {
   var hhmm = at.toISOString().slice(11, 16) + ' UTC';
   var day = at.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', timeZone: 'UTC' });
   if (badge) {
-    // Within an hour of a 30-minute snapshot the prices are current; after that
-    // (market closed, weekend, or a missed run) say plainly when they are from.
-    badge.textContent = ageMin <= 60 ? 'Live · ' + hhmm : 'Snapshot ' + day + ' ' + hhmm;
+    // Reads land every 2 minutes and are published about every 10; beyond 30 minutes
+    // the session is closed (evening, weekend) or a run was missed, so say when.
+    badge.textContent = ageMin <= 30 ? 'Live · ' + hhmm : 'Last read ' + day + ' ' + hhmm;
   }
+  if (!FFA_LIVE.sel) FFA_LIVE.sel = { seg: segs[0].key, tenor: (segs[0].tenors[0] || {}).name };
   var classMeta = {
     cape: { sub: 'Capesize TC average', color: '#58a6ff' },
     panamax: { sub: 'Panamax TC average', color: '#3fb950' },
     supramax: { sub: 'Supramax TC average', color: '#d29922' },
     handysize: { sub: 'Handysize TC average', color: '#bc8cff' }
   };
+  var alerts = [];
   grid.innerHTML = segs.map(function (seg) {
     var meta = classMeta[seg.key] || { sub: 'FFA', color: '#58a6ff' };
     var ts = seg.tenors || [];
@@ -51547,16 +51614,20 @@ function renderFfaForwardStrip() {
       }
     }
     var pills = ts.map(function (t) {
-      var diff = t.price - t.settle;
-      var diffStr = Math.abs(diff) < 0.5 ? 'unch' : (diff > 0 ? '+$' : '-$') + Math.abs(Math.round(diff)).toLocaleString('en-US');
-      var diffColor = Math.abs(diff) < 0.5 ? 'var(--text-muted)' : (diff > 0 ? '#3fb950' : '#f85149');
+      var mv = ffaFmtMove(t.price - t.settle, t.settle);
+      var hot = Math.abs(mv.pct) >= FFA_LIVE_ALERT_PCT;
+      if (hot) alerts.push({ seg: seg, t: t, mv: mv });
+      var isSel = FFA_LIVE.sel && FFA_LIVE.sel.seg === seg.key && FFA_LIVE.sel.tenor === t.name;
+      var range = (t.high != null && t.low != null) ? ' | Session: open $' + Math.round(t.open).toLocaleString('en-US') + ', high $' + Math.round(t.high).toLocaleString('en-US') + ', low $' + Math.round(t.low).toLocaleString('en-US') : '';
       var tt = 'What: live FFA market price · ' + seg.label + ' ' + t.name +
-        ' | When: snapshot ' + day + ' ' + hhmm + ', refreshed every 30 min in London trading hours' +
-        ' | Change: vs previous SGX settlement $' + Math.round(t.settle).toLocaleString('en-US');
-      return '<div style="flex:1;min-width:68px;padding:6px 8px;background:var(--card-subtle);border:1px solid var(--border);border-radius:4px;text-align:center;" data-tooltip="' + escapeHtml(tt) + '">' +
-        '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(t.name) + '</div>' +
+        ' | When: read ' + day + ' ' + hhmm +
+        ' | Move: vs previous SGX settlement $' + Math.round(t.settle).toLocaleString('en-US') + range +
+        ' | Click to chart the session';
+      var border = hot ? (mv.pct > 0 ? '1px solid rgba(63,185,80,0.7)' : '1px solid rgba(248,81,73,0.7)') : (isSel ? '1px solid var(--accent)' : '1px solid var(--border)');
+      return '<div role="button" tabindex="0" onclick="selectFfaLiveTenor(\'' + seg.key + '\',\'' + escapeHtml(t.name) + '\')" style="cursor:pointer;flex:1;min-width:76px;padding:6px 8px;background:var(--card-subtle);border:' + border + ';border-radius:4px;text-align:center;" data-tooltip="' + escapeHtml(tt) + '">' +
+        '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(t.name) + (hot ? ' ⚑' : '') + '</div>' +
         '<div style="font-size:12px;font-weight:700;font-family:\'IBM Plex Mono\',monospace;color:var(--text-bright);margin-bottom:2px;">$' + Math.round(t.price).toLocaleString('en-US') + '</div>' +
-        '<div style="font-size:11px;color:' + diffColor + ';font-family:\'IBM Plex Mono\',monospace;">' + diffStr + '</div>' +
+        '<div style="font-size:10px;color:' + mv.color + ';font-family:\'IBM Plex Mono\',monospace;white-space:nowrap;">' + mv.text + '</div>' +
         '</div>';
     }).join('');
     return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;display:flex;flex-direction:column;gap:8px;">' +
@@ -51567,6 +51638,103 @@ function renderFfaForwardStrip() {
       '<div style="display:flex;gap:6px;flex-wrap:wrap;">' + pills + '</div>' +
       '</div>';
   }).join('');
+
+  var alertBox = document.getElementById('ffaLiveAlerts');
+  if (alertBox) {
+    alertBox.innerHTML = alerts.length
+      ? '<div style="padding:8px 10px;border:1px solid rgba(210,153,34,0.5);background:rgba(210,153,34,0.1);border-radius:5px;color:var(--text);">' +
+        '<b>⚑ Live market has moved ' + FFA_LIVE_ALERT_PCT + '% or more from the SGX settlement:</b> ' +
+        alerts.map(function (a) { return escapeHtml(a.seg.label + ' ' + a.t.name) + ' <span style="color:' + a.mv.color + ';font-family:\'IBM Plex Mono\',monospace;">' + a.mv.text + '</span>'; }).join(' · ') +
+        '</div>'
+      : '<div style="color:var(--text-muted);">No tenor is ' + FFA_LIVE_ALERT_PCT + '% or more away from its SGX settlement' + (ageMin <= 30 ? ' right now.' : ' at the last read.') + '</div>';
+  }
+  renderFfaLiveDetail();
+}
+
+function selectFfaLiveTenor(seg, tenor) {
+  FFA_LIVE.sel = { seg: seg, tenor: tenor };
+  renderFfaForwardStrip();
+}
+window.selectFfaLiveTenor = selectFfaLiveTenor;
+
+function renderFfaLiveDetail() {
+  var v = window.DATA && DATA.ffaStrip;
+  if (!v || !FFA_LIVE.sel) return;
+  var seg = (v.segments || []).filter(function (x) { return x.key === FFA_LIVE.sel.seg; })[0];
+  var t = seg && (seg.tenors || []).filter(function (x) { return x.name === FFA_LIVE.sel.tenor; })[0];
+  if (!t) return;
+  var title = document.getElementById('ffaLiveChartTitle');
+  if (title) title.textContent = seg.label + ' ' + t.name + ' · SESSION ' + (v.session_date || '');
+
+  var canvas = document.getElementById('ffaLiveChart');
+  if (canvas && typeof Chart !== 'undefined') {
+    var path = (t.path || []).slice();
+    var nowLbl = (v.fetched_at_utc || '').slice(11, 16);
+    if (path.length && path[path.length - 1][0] !== nowLbl) path.push([nowLbl, t.price]);
+    var labels = path.map(function (p) { return p[0]; });
+    var prices = path.map(function (p) { return p[1]; });
+    var cfg = {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [
+          { label: 'Live price', data: prices, stepped: 'before', borderColor: '#58a6ff', backgroundColor: 'rgba(88,166,255,0.12)', pointRadius: 2, borderWidth: 2, fill: false },
+          { label: 'SGX settle', data: labels.map(function () { return t.settle; }), borderColor: '#d29922', borderDash: [5, 4], pointRadius: 0, borderWidth: 1.5, fill: false }
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false, animation: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { label: function (c) { return c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString('en-US'); } } }
+        },
+        scales: {
+          x: { ticks: { color: '#8b949e', maxTicksLimit: 8 }, grid: { color: 'rgba(139,148,158,0.1)' }, title: { display: true, text: 'UTC', color: '#8b949e' } },
+          y: { ticks: { color: '#8b949e', callback: function (x) { return '$' + Math.round(x).toLocaleString('en-US'); } }, grid: { color: 'rgba(139,148,158,0.1)' } }
+        }
+      }
+    };
+    if (FFA_LIVE.chart && FFA_LIVE.chart.canvas === canvas) {
+      FFA_LIVE.chart.data = cfg.data;
+      FFA_LIVE.chart.update('none');
+    } else {
+      if (FFA_LIVE.chart) FFA_LIVE.chart.destroy();
+      FFA_LIVE.chart = new Chart(canvas, cfg);
+    }
+  }
+
+  var hist = document.getElementById('ffaLiveHistory');
+  if (!hist) return;
+  var rows = (DATA.ffaLiveDaily || []).filter(function (r) { return r.segment === seg.key && r.tenor === t.name; })
+    .sort(function (a, b) { return a.date < b.date ? -1 : 1; });
+  if (!rows.length) {
+    hist.innerHTML = '<div style="color:var(--text-muted);">Recording started 14 Sep 2026; sessions appear here as they are recorded.</div>';
+    return;
+  }
+  var cell = 'padding:3px 6px;border-bottom:1px solid var(--border);white-space:nowrap;';
+  var out = rows.slice(-10).reverse().map(function (r) {
+    var k = rows.indexOf(r);
+    var next = rows[k + 1];
+    var settle = +r.settle, last = +r.last;
+    var mv = ffaFmtMove(last - settle, settle);
+    var nextSettle = next ? +next.settle : null;
+    var called = '—';
+    if (nextSettle != null) {
+      var liveDir = Math.sign(last - settle), actDir = Math.sign(nextSettle - settle);
+      var gap = last - nextSettle;
+      called = (liveDir === actDir || liveDir === 0 ? '✓ ' : '✗ ') + (Math.abs(gap) < 0.5 ? 'exact' : (gap > 0 ? '+$' : '-$') + Math.abs(Math.round(gap)).toLocaleString('en-US'));
+    }
+    return '<tr><td style="' + cell + '">' + r.date.slice(5) + '</td>' +
+      '<td style="' + cell + 'text-align:right;">$' + Math.round(settle).toLocaleString('en-US') + '</td>' +
+      '<td style="' + cell + 'text-align:right;">$' + Math.round(last).toLocaleString('en-US') + '</td>' +
+      '<td style="' + cell + 'text-align:right;color:' + mv.color + ';">' + (mv.pct ? (mv.pct > 0 ? '+' : '') + mv.pct.toFixed(1) + '%' : 'unch') + '</td>' +
+      '<td style="' + cell + 'text-align:right;">' + (nextSettle != null ? '$' + Math.round(nextSettle).toLocaleString('en-US') : 'pending') + '</td>' +
+      '<td style="' + cell + 'text-align:right;" data-tooltip="Did the live move point the same way as the next SGX settlement, and how far the last live price was from it.">' + called + '</td></tr>';
+  }).join('');
+  hist.innerHTML = '<table style="width:100%;border-collapse:collapse;font-family:\'IBM Plex Mono\',monospace;">' +
+    '<thead><tr style="color:var(--text-muted);text-align:right;"><th style="' + cell + 'text-align:left;">Day</th><th style="' + cell + '">SGX settle</th><th style="' + cell + '">Live last</th><th style="' + cell + '">Move</th><th style="' + cell + '">Next settle</th><th style="' + cell + '">Called?</th></tr></thead>' +
+    '<tbody>' + out + '</tbody></table>';
 }
 
 function renderFearnleysTab() {

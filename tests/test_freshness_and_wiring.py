@@ -484,7 +484,7 @@ def test_broker_branding_demoted_in_panel_headings():
     assert not re.search(r"(?i)braemar", html)
     assert "Live market snapshot" in html
     assert "vs previous SGX settlement" in html
-    assert "fetch('data/clarksons/ffa_live_snapshot.json'" in html
+    assert "function loadFfaLive()" in html and "data/ffa_live/" in html
 
 
 def test_broker_voice_pagination_and_selectors():

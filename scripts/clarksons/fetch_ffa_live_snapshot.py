@@ -14,9 +14,8 @@ after, next calendar year). Each product carries two numbers:
               data/futures/sgx_*_futures.csv settlements; quarter/calendar tenors
               equal the average of their monthly settlements)
 
-Writes data/clarksons/ffa_live_snapshot.json with the UTC fetch time. On any
-failure it leaves the previous snapshot untouched and exits non-zero, so the
-page keeps showing the last good snapshot with its real timestamp.
+build() validates a read and stamps its UTC time; ffa_live_recorder.py stores the
+reads under data/ffa_live/. Run this file directly to print one read.
 """
 
 import json
@@ -26,8 +25,6 @@ from pathlib import Path
 
 import requests
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-OUTPUT_FILE = REPO_ROOT / "data" / "clarksons" / "ffa_live_snapshot.json"
 
 ENDPOINT = "https://api.braemarscreen.com/api/graphql"
 QUERY = "{ brokerSite { ticker { name products { id name price prevClose } } } }"
@@ -85,15 +82,15 @@ def build(ticker, fetched_at):
 
 
 def main():
+    """Print one read. Storage and history are handled by ffa_live_recorder.py."""
     fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     try:
         payload = build(fetch(), fetched_at)
     except Exception as exc:  # noqa: BLE001
-        print(f"[ERROR] {exc}. Keeping the previous snapshot.", file=sys.stderr)
+        print(f"[ERROR] {exc}", file=sys.stderr)
         return 1
-    OUTPUT_FILE.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
-    cape = payload["segments"][0]["tenors"][0]
-    print(f"FFA snapshot {fetched_at}: {payload['segments'][0]['label']} {cape['name']} {cape['price']:,.0f} (settle {cape['settle']:,.0f})")
+    for seg in payload["segments"]:
+        print(seg["label"], ", ".join(f"{t['name']} {t['price']:,.0f} (settle {t['settle']:,.0f})" for t in seg["tenors"]))
     return 0
 
 

@@ -242,7 +242,8 @@ def find_producing_script(rel_path):
         "data/derived/usda_grain_vessel_rates_japan.csv": ("scripts/scrapers/fetch_usda_grains.py", "USDA Agricultural Marketing Service", "https://www.ams.usda.gov", "Report Parsing", "USD/MT"),
         "data/derived/offshore_summary.json": ("scripts/offshore/build_offshore_cache.py", "Seabreeze / Fearnleys Offshore", "https://fearnleys.com", "Offshore Aggregation", "Dayrates"),
         # Broker Desk Phase 4.2 Ingestions
-        "data/clarksons/ffa_live_snapshot.json": ("scripts/clarksons/fetch_ffa_live_snapshot.py", "Live broker FFA screen", "None", "Intraday Market Snapshot (every 30 min, London hours)", "USD/day"),
+        "data/ffa_live/latest.json": ("scripts/clarksons/ffa_live_recorder.py", "Live broker FFA screen", "None", "Intraday recorder (reads every 2 min, London session)", "USD/day"),
+        "data/ffa_live/daily.csv": ("scripts/clarksons/ffa_live_recorder.py", "Live broker FFA screen", "None", "Intraday recorder (daily session summary)", "USD/day"),
         "data/clarksons/gibson_all_reports_catalog.json": ("scripts/scrapers/fetch_gibson_catalog.py", "Gibson Shipbrokers Research", "https://www.gibsons.co.uk", "Research Catalogue API", "Metadata"),
         "data/clarksons/gibson_tanker_rates_continuous_daily.csv": ("scripts/fearnleys/build_tanker_routes_daily.py", "Gibson Shipbrokers Continuous Daily Feed", "https://www.gibsons.co.uk", "Daily Broker Assessment", "WS / USD"),
         "data/clarksons/fearnleys_benchmark_rates_continuous.csv": ("scripts/fearnleys/daily_fearnleys_sync.py", "Fearnleys Continuous Benchmark Engine", "https://fearnleys.com", "GraphQL Continuous Series", "USD/day / WS"),
@@ -346,8 +347,8 @@ def build_manifest():
                     notes = (f"Sourced via {fetch_script} (WordPress REST, refreshed twice daily by broker_voice_sync.yml). "
                              f"{len(_g.get('online_reports', [])) + len(_g.get('report_downloads', []))} research reports "
                              f"({len(_g.get('online_reports', []))} online + {len(_g.get('report_downloads', []))} downloads).")
-                elif "ffa_live_snapshot" in rel_path:
-                    notes = f"Sourced via {fetch_script}. Live prices for 20 dry-bulk FFA tenors (Capesize, Panamax, Supramax, Handysize), each with its previous SGX settlement; snapshot every 30 minutes during London trading hours by ffa_live_snapshot.yml."
+                elif "data/ffa_live/" in rel_path:
+                    notes = f"Sourced via {fetch_script} (ffa_live_recorder.yml). Live prices for 20 dry-bulk FFA tenors with the previous SGX settlement, read every 2 minutes Mon-Fri 06:00-18:30 UTC; every change stored in data/ffa_live/ticks/, session open/high/low/last in daily.csv."
                 elif "gibson_tanker_rates" in rel_path:
                     notes = f"Sourced via {fetch_script}. 9 continuous daily tanker benchmark routes (1,568 daily observations 2022-2026)."
                 elif "fearnleys_benchmark_rates" in rel_path:
