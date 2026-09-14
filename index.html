@@ -11329,7 +11329,7 @@
       
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product)</div>
+          <div class="chart-title" data-tooltip="Decade-Scale Benchmarks - yearly average closing rates. Tracks the slow-moving structural 'higher lows' characteristic of a tightening global fleet.">Multi-Year Rates (Annual Averages by Product) <span id="yearlyMultiRatesYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar year span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyMultiRatesChart"></canvas></div>
       </div>
@@ -24315,28 +24315,182 @@ function buildMaster() {
     }
 
     function renderYDMultiRates(canvasId) {
-      var seen = {}, years = [];
-      DATA.master.forEach(function (r) { if (!seen[r.year]) { seen[r.year] = 1; years.push(r.year); } });
-      years.sort(function (a, b) { return a - b; });
-      var datasets = PRODUCT_KEYS.filter(function (k) { return k !== 'bdry' && k !== 'bwet'; }).map(function (key) {
+      // 1. Gather all available years and precompute annual averages for all products in O(N)
+      var keys = PRODUCT_KEYS.filter(function (k) { return k !== 'bdry' && k !== 'bwet'; });
+      var yearSum = {};
+      var yearCount = {};
+      var seenYears = {};
+
+      DATA.master.forEach(function (r) {
+        var y = r.year;
+        if (!y) return;
+        if (!seenYears[y]) {
+          seenYears[y] = true;
+          yearSum[y] = {};
+          yearCount[y] = {};
+        }
+        for (var i = 0; i < keys.length; i++) {
+          var k = keys[i];
+          var v = r[k];
+          if (v != null && !isNaN(v)) {
+            yearSum[y][k] = (yearSum[y][k] || 0) + v;
+            yearCount[y][k] = (yearCount[y][k] || 0) + 1;
+          }
+        }
+      });
+
+      var allYears = Object.keys(seenYears).map(Number).sort(function (a, b) { return a - b; });
+      if (!allYears.length) return;
+
+      var fullAveragesByKey = {};
+      var availableYearsByKey = {};
+      keys.forEach(function (k) {
+        fullAveragesByKey[k] = {};
+        availableYearsByKey[k] = [];
+        allYears.forEach(function (y) {
+          var count = (yearCount[y] && yearCount[y][k]) || 0;
+          if (count > 0) {
+            var avg = yearSum[y][k] / count;
+            fullAveragesByKey[k][y] = avg;
+            availableYearsByKey[k].push(y);
+          } else {
+            fullAveragesByKey[k][y] = null;
+          }
+        });
+      });
+
+      // Preserve hidden state from previous chart instance (legend clicks)
+      var hiddenByLabel = {};
+      var prevChart = chartRegistry[canvasId];
+      if (prevChart && prevChart.data && prevChart.data.datasets) {
+        prevChart.data.datasets.forEach(function (ds, i) {
+          hiddenByLabel[ds.label] = !prevChart.isDatasetVisible(i);
+        });
+      }
+
+      // Helper to compute active continuous year range from all visible datasets
+      function computeActiveYears(hiddenMap) {
+        var minYear = Infinity;
+        var maxYear = -Infinity;
+        var hasVisible = false;
+
+        keys.forEach(function (k) {
+          var label = PRODUCTS[k].label;
+          var isHidden = hiddenMap[label] === true;
+          if (!isHidden) {
+            var yList = availableYearsByKey[k];
+            if (yList && yList.length) {
+              hasVisible = true;
+              if (yList[0] < minYear) minYear = yList[0];
+              if (yList[yList.length - 1] > maxYear) maxYear = yList[yList.length - 1];
+            }
+          }
+        });
+
+        if (!hasVisible || minYear > maxYear) {
+          return allYears.slice();
+        }
+
+        var res = [];
+        for (var y = minYear; y <= maxYear; y++) {
+          res.push(y);
+        }
+        return res;
+      }
+
+      var initialYears = computeActiveYears(hiddenByLabel);
+
+      var datasets = keys.map(function (key) {
+        var label = PRODUCTS[key].label;
+        var isHidden = hiddenByLabel[label] === true;
         return {
-          label: PRODUCTS[key].label,
-          data: years.map(function (y) { var v = DATA.master.filter(function (r) { return r.year === y && r[key] != null; }).map(function (r) { return r[key]; }); return v.length ? mean(v) : null; }),
-          borderColor: PRODUCTS[key].color, backgroundColor: 'transparent', borderWidth: 2, pointRadius: 3, tension: 0.2, spanGaps: true
+          label: label,
+          productKey: key,
+          hidden: isHidden,
+          data: initialYears.map(function (y) { return fullAveragesByKey[key][y]; }),
+          borderColor: PRODUCTS[key].color,
+          backgroundColor: 'transparent',
+          borderWidth: 2,
+          pointRadius: 3,
+          tension: 0.2,
+          spanGaps: true
         };
       });
+
+      function updateRangeBadge(currYears) {
+        var badge = document.getElementById('yearlyMultiRatesYearRange');
+        if (!badge) return;
+        if (!currYears || !currYears.length) {
+          badge.style.display = 'none';
+          return;
+        }
+        var minY = currYears[0];
+        var maxY = currYears[currYears.length - 1];
+        var count = currYears.length;
+        badge.textContent = minY === maxY ? String(minY) : (minY + '–' + maxY + ' (' + count + 'Y)');
+        badge.style.display = 'inline-block';
+      }
+
+      updateRangeBadge(initialYears);
+
       destroyChart(canvasId);
-      var canvas = document.getElementById(canvasId); if (!canvas) return;
+      var canvas = document.getElementById(canvasId);
+      if (!canvas) return;
+
       chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
-        type: 'line', data: { labels: years.map(String), datasets: datasets },
+        type: 'line',
+        data: { labels: initialYears.map(String), datasets: datasets },
         options: {
-          responsive: true, maintainAspectRatio: false,
+          responsive: true,
+          maintainAspectRatio: false,
           layout: { padding: { left: 10, top: 10 } },
           interaction: { mode: 'index', intersect: false },
-          plugins: { legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); } } } },
+          plugins: {
+            legend: {
+              position: 'top',
+              labels: { usePointStyle: true, font: { size: 11 } },
+              onClick: function (e, legendItem, legend) {
+                var index = legendItem.datasetIndex;
+                var ci = legend.chart;
+                // Toggle dataset visibility
+                var willBeVisible = !ci.isDatasetVisible(index);
+                ci.setDatasetVisibility(index, willBeVisible);
+                legendItem.hidden = !willBeVisible;
+
+                // Build updated hidden map across all datasets
+                var curHidden = {};
+                ci.data.datasets.forEach(function (ds, i) {
+                  curHidden[ds.label] = !ci.isDatasetVisible(i);
+                });
+
+                // Compute new dynamic active year range
+                var newYears = computeActiveYears(curHidden);
+                ci.data.labels = newYears.map(String);
+                ci.data.datasets.forEach(function (ds) {
+                  ds.data = newYears.map(function (y) { return fullAveragesByKey[ds.productKey][y]; });
+                });
+
+                updateRangeBadge(newYears);
+                ci.update();
+              }
+            },
+            tooltip: {
+              callbacks: {
+                title: function (c) { return 'Year ' + c[0].label; },
+                label: function (c) { return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? fmt(c.parsed.y) : '—'); }
+              }
+            }
+          },
           scales: {
-            x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Year', color: '#8b949e', font: { size: 11 } } },
-            y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } } }
+            x: {
+              grid: { color: '#151a22' },
+              ticks: { font: { size: 11 } },
+              title: { display: true, text: 'Year', color: '#8b949e', font: { size: 11 } }
+            },
+            y: {
+              grid: { color: '#151a22' },
+              ticks: { font: { size: 11 }, callback: function (v) { return v != null ? fmt(v) : ''; } }
+            }
           },
         },
       });
