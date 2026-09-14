@@ -4195,6 +4195,8 @@
     .chokepoint-beacon-pin:hover {
       transform: scale(1.25);
     }
+    #trackingMap.tm-zooming .leaflet-marker-icon { transition: none !important; }
+    #trackingMap.tm-zooming * { animation-play-state: paused !important; }
     .cp-pulse-ring {
       position: absolute;
       inset: -4px;
@@ -41444,6 +41446,13 @@ function initTrackingMap() {
     activeVesselTrackLayer = L.layerGroup().addTo(trackingMap);
 
     trackingMap.on('moveend', syncPortHubPinsToView);
+
+    // While a zoom animates, ~2,000 pins each running their own transform transition,
+    // plus the beacons' looping pulse rings, made the browser rebuild its GPU layers
+    // for up to 2 s per wheel step or popup auto-pan. Pins jump to place when the move
+    // ends and pulses pause until then.
+    trackingMap.on('zoomstart movestart', function () { trackingMap.getContainer().classList.add('tm-zooming'); });
+    trackingMap.on('moveend', function () { setTimeout(function () { trackingMap.getContainer().classList.remove('tm-zooming'); }, 0); });
 
     // Track coordinates on mousemove
     trackingMap.on('mousemove', function(e) {
