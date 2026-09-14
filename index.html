@@ -48302,11 +48302,16 @@ function renderBunkersForwardChart() {
   var meta = summary && summary.forward_curves_meta ? summary.forward_curves_meta[hub] : null;
 
   var badge = document.getElementById('bunkerFwdStructureBadge');
-  if (badge && meta) {
-    var isBack = meta.structure === 'Backwardation';
-    badge.className = 'bunker-term-badge ' + (isBack ? 'backwardation' : 'contango');
-    badge.textContent = meta.structure.toUpperCase() + ' (' + (meta.slope_pct > 0 ? '+' : '') + meta.slope_pct.toFixed(1) + '%)';
-    badge.title = 'Term Structure: ' + meta.structure + ' (' + meta.slope_pct.toFixed(1) + '% slope across 12M delivery months)';
+  if (badge) {
+    if (meta && meta.structure) {
+      var isBack = meta.structure === 'Backwardation';
+      badge.style.display = '';
+      badge.className = 'bunker-term-badge ' + (isBack ? 'backwardation' : 'contango');
+      badge.textContent = meta.structure.toUpperCase() + ' (' + (meta.slope_pct > 0 ? '+' : '') + meta.slope_pct.toFixed(1) + '%)';
+      badge.title = 'Term Structure: ' + meta.structure + ' (' + meta.slope_pct.toFixed(1) + '% slope across 12M delivery months)';
+    } else {
+      badge.style.display = 'none';
+    }
   }
 
   if (tbody) {
