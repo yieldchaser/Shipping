@@ -57,6 +57,8 @@ jobs:
         timeout-minutes: 20
         run: |
           if [ -f scripts/expansion_bunker_prices.py ]; then python scripts/expansion_bunker_prices.py; fi
+          # Refresh all 221 physical ports and macro benchmarks into bunker_master_historical.csv
+          if [ -f bunker_pipeline/run_pipeline.py ]; then python -m bunker_pipeline.run_pipeline --mode spot; fi
           # Harvest the FULL published BIX series (each page embeds ~256 daily
           # chart points per grade) into the append/merge archive, then
           # accumulate + rebuild BEFORE the summary so bix_history.csv extends

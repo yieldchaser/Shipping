@@ -392,20 +392,40 @@ def build_bunker_summary():
         glob_obs, glob_prev = '2026-09-07', '2026-09-03'
 
     sg_hi5 = ports_dict.get('Singapore', {}).get('hi5_spread') or 206.0
-    # Singapore Hi-5 7D delta: SG SS grade in master, latest vs latest obs <= 7 days back
-    sg_ss = df_master[(df_master['port_name'] == 'Singapore') & (df_master['grade'] == 'SS')].sort_values('observation_date')
-    if len(sg_ss):
-        last_ss_date = str(sg_ss['observation_date'].max())
-        last_ss = float(sg_ss[sg_ss['observation_date'] == last_ss_date]['price_usd'].values[0])
+    # Singapore Hi-5 7D delta: prefer daily Singapore spread (VLSFO - IFO380), fallback to master SS
+    sg_daily = df_daily[df_daily['port'] == 'singapore'].dropna(subset=['price_usd_mt'])
+    sg_hi5_series = []
+    if not sg_daily.empty:
+        piv = sg_daily.pivot(index='date', columns='fuel_grade', values='price_usd_mt')
+        if 'VLSFO' in piv.columns and 'IFO380' in piv.columns:
+            valid = piv.dropna(subset=['VLSFO', 'IFO380']).copy()
+            valid['spread'] = valid['VLSFO'] - valid['IFO380']
+            for d, row in valid.iterrows():
+                sg_hi5_series.append({'date': str(d), 'spread': float(row['spread'])})
+
+    if not sg_hi5_series:
+        sg_ss = df_master[(df_master['port_name'] == 'Singapore') & (df_master['grade'] == 'SS')].sort_values('observation_date')
+        for _, r in sg_ss.iterrows():
+            if pd.notna(r['price_usd']) and pd.notna(r['observation_date']):
+                sg_hi5_series.append({'date': str(r['observation_date']), 'spread': float(r['price_usd'])})
+
+    if sg_hi5_series:
+        sg_hi5_series.sort(key=lambda x: x['date'])
+        last_item = sg_hi5_series[-1]
+        last_ss_date = last_item['date']
+        last_ss = last_item['spread']
         week_ago = (pd.to_datetime(last_ss_date) - pd.DateOffset(days=7)).strftime('%Y-%m-%d')
-        prior_ss = sg_ss[sg_ss['observation_date'] <= week_ago]
-        if len(prior_ss):
-            prev_ss = float(prior_ss.sort_values('observation_date').iloc[-1]['price_usd'])
-            prev_ss_date = str(prior_ss.sort_values('observation_date').iloc[-1]['observation_date'])
-            sg_hi5_chg = round(last_ss - prev_ss, 2)
-            hi5_obs, hi5_prev = last_ss_date, prev_ss_date
+        priors = [x for x in sg_hi5_series if x['date'] <= week_ago]
+        if priors:
+            prev_item = priors[-1]
+            sg_hi5_chg = round(last_ss - prev_item['spread'], 2)
+            hi5_obs, hi5_prev = last_ss_date, prev_item['date']
+        elif len(sg_hi5_series) > 1:
+            prev_item = sg_hi5_series[-2]
+            sg_hi5_chg = round(last_ss - prev_item['spread'], 2)
+            hi5_obs, hi5_prev = last_ss_date, prev_item['date']
         else:
-            sg_hi5_chg, hi5_obs, hi5_prev = -5.50, last_ss_date, last_ss_date
+            sg_hi5_chg, hi5_obs, hi5_prev = 0.0, last_ss_date, last_ss_date
     else:
         sg_hi5_chg, hi5_obs, hi5_prev = -5.50, '2026-09-04', '2026-08-28'
     # Scrubber payback period in months for Capesize (CAPEX ~$2.2M, 45 MT/d burn)

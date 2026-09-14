@@ -60,12 +60,10 @@ def run_spot_extraction(markets: list, limit: int = None, batch_size: int = 5):
             all_records.extend(records)
             total_extracted += len(records)
             
-        # Ingest every 20 markets or at the end
-        if len(all_records) >= 15000 or (i + batch_size) >= len(targets):
-            if all_records:
-                STORE.ingest_records(all_records)
-                all_records = []
-                
+    if all_records:
+        logger.info(f"Committing {len(all_records)} harvested records to incremental store...")
+        STORE.ingest_records(all_records)
+
     logger.info(f"Finished spot extraction. Harvested {total_extracted} total price points.")
 
 def run_html_matrix_extraction():
