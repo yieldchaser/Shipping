@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-09-14T07:20:24Z",
+  "fetched_at_utc": "2026-09-14T07:24:31Z",
   "unit": "USD/day",
   "price_basis": "live market price at fetch time",
   "settle_basis": "previous SGX settlement (quarter and calendar tenors: average of monthly settlements)",
@@ -15,12 +15,12 @@
         },
         {
           "name": "Oct",
-          "price": 48500.0,
+          "price": 48000.0,
           "settle": 48521.0
         },
         {
           "name": "Q4",
-          "price": 45750.0,
+          "price": 45500.0,
           "settle": 45755.0
         },
         {
