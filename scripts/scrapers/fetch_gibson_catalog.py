@@ -84,7 +84,7 @@ def main():
     out["total_reports"] = out["online_reports_count"] + out["report_downloads_count"]
     out = {k: out[k] for k in ("harvested_at", "total_reports", "online_reports_count",
                                "report_downloads_count", "online_reports", "report_downloads")}
-    CATALOG.write_text(json.dumps(out, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    CATALOG.write_text(json.dumps(out, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     latest = out["online_reports"][0]
     print(f"Gibson catalogue: {out['total_reports']} entries (+{added} new); latest {latest['date'][:10]} {latest['title']}")
 

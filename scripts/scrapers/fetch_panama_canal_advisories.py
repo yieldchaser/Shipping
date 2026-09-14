@@ -75,7 +75,7 @@ vessel_classes: ["containership", "lng_carrier", "lpg_carrier", "panamax", "cape
 1. **US Gulf to Asia LNG / LPG**: Draft restrictions forced VLGCs and LNG carriers to divert via the Cape of Good Hope, adding 12-16 voyage days and expanding global ton-mile demand.
 2. **US East Coast Container Loops**: Transpacific EC services experienced payload capacity reductions of up to 40% per container vessel during draft curtailments.
 """
-    brief_md.write_text(content, encoding="utf-8")
+    brief_md.write_text(content, encoding="utf-8", newline="\n")
     print(f"[OK] Saved ACP operational briefing to {brief_md.name}")
 
 if __name__ == "__main__":

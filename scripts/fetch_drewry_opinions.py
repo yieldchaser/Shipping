@@ -206,7 +206,7 @@ def main():
             raw_links = json.load(f)
     else:
         raw_links = discover_all_items(max_pages=args.max_pages)
-        with open(all_links_cache, "w", encoding="utf-8") as f:
+        with open(all_links_cache, "w", encoding="utf-8", newline="\n") as f:
             json.dump(raw_links, f, indent=2)
         print(f"Cached {len(raw_links)} discovered item(s) to {all_links_cache}")
 
@@ -249,7 +249,7 @@ def main():
         try:
             article, status = fetch_article_direct(url, card_title=item.get("title", ""), card_date=item.get("date", ""))
             if article:
-                with open(out_path, "w", encoding="utf-8") as f:
+                with open(out_path, "w", encoding="utf-8", newline="\n") as f:
                     f.write(f"# {article['title']}\n\n")
                     if article["date"]:
                         f.write(f"*{article['date']}*\n\n")

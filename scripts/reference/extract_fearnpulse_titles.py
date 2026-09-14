@@ -45,7 +45,7 @@ def fetch_page_and_chunks():
             resp = requests.get(url, headers=HEADERS, timeout=15)
             resp.raise_for_status()
             html = resp.text
-            cached_page.write_text(html, encoding="utf-8")
+            cached_page.write_text(html, encoding="utf-8", newline="\n")
             matches = re.findall(r'src=["\'](/_next/static/chunks/[^"\']+)["\']', html)
             chunk_urls = ["https://fearnpulse.com" + m for m in matches]
         except Exception as e:
@@ -66,7 +66,7 @@ def fetch_page_and_chunks():
             print(f"Fetching chunk {filename}...")
             r = requests.get(cur_url, headers=HEADERS, timeout=15)
             content = r.text
-            cache_path.write_text(content, encoding="utf-8")
+            cache_path.write_text(content, encoding="utf-8", newline="\n")
         results.append((filename, content))
     return results
 
@@ -173,7 +173,7 @@ def main():
     print(f"Extracted {len(titles)} official Fearnpulse series titles.")
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(titles, f, indent=2)
     print(f"Saved to {OUTPUT_FILE}")
 

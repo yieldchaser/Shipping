@@ -78,7 +78,7 @@ def build_cape_ffa_distribution():
     out_dir = os.path.join('data', 'views', 'signals')
     os.makedirs(out_dir, exist_ok=True)
     out_file = os.path.join(out_dir, 'cape_ffa_distribution.json')
-    with open(out_file, 'w', encoding='utf-8') as f:
+    with open(out_file, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(dist, f, indent=2)
 
     size_kb = round(os.path.getsize(out_file) / 1024, 2)

@@ -45,7 +45,7 @@ FAMILIES = {
 
 
 def dump(path, payload):
-    with open(path, "w", encoding="utf-8") as f:
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(payload, f, separators=(",", ":"))
     print(f"  {path}: {round(os.path.getsize(path) / 1024, 1)} KB")
 

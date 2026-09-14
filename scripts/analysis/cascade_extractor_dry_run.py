@@ -460,7 +460,7 @@ def run_dry_run():
         'conclusion': 'CASCADE_VERIFIED_SUCCESSFUL'
     }
     
-    with open(audit_summary_json, 'w', encoding='utf-8') as f:
+    with open(audit_summary_json, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(audit_report, f, indent=2)
         
     print("\n" + "=" * 80)

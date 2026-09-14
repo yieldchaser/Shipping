@@ -393,7 +393,7 @@ def update_manifest(row_count, min_date, max_date):
             else:
                 sec_list.append(entry_data)
 
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, row_count)
 

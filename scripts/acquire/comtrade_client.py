@@ -63,7 +63,7 @@ def record_skipped_query(script: str, period: str, commodity: str, reason: str):
     else:
         records.append(entry)
 
-    with open(SKIPPED_QUERIES_FILE, "w", encoding="utf-8") as f:
+    with open(SKIPPED_QUERIES_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(records, f, indent=2)
 
 
@@ -141,7 +141,7 @@ def fetch_comtrade_monthly(
                 if r.status_code == 200:
                     resp_json = r.json()
                     raw_data = resp_json.get("data", [])
-                    with open(cache_path, "w", encoding="utf-8") as f:
+                    with open(cache_path, "w", encoding="utf-8", newline="\n") as f:
                         json.dump({"query_url": url, "fetched_utc": datetime.now(timezone.utc).isoformat(), "data": raw_data}, f, indent=2)
                     break
                 elif r.status_code == 429:

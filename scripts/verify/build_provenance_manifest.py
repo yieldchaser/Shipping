@@ -396,7 +396,7 @@ def build_manifest():
         "datasets": existing_datasets,
     }
 
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest_payload, f, indent=2)
 
     print(f"\nWrote provenance manifest with {len(series_entries)} series to {MANIFEST_FILE}")

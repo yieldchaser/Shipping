@@ -462,7 +462,7 @@ def main():
         'chokepoints': chokepoints_data
     }
 
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(payload, f, separators=(',', ':'))
 
     file_size_kb = round(os.path.getsize(output_path) / 1024, 1)

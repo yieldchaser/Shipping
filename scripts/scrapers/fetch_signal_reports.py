@@ -100,7 +100,7 @@ def parse_and_save(url, section):
         return {"slug": slug, "url": url, "section": section, "status": f"error: {e}"}
 
     # Save raw HTML
-    with open(html_path, "w", encoding="utf-8") as f:
+    with open(html_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(html)
         
     soup = BeautifulSoup(html, "html.parser")
@@ -183,7 +183,7 @@ def parse_and_save(url, section):
         }
 
     # Save clean Markdown
-    with open(md_path, "w", encoding="utf-8") as f:
+    with open(md_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(full_md + "\n")
         
     # Check for direct PDF links to download

@@ -481,7 +481,7 @@ def render_health_summary(coverage_report: dict, lint_report: dict, summary_path
         high_severity_count=lint_report["high_severity_count"],
     )
     summary_path.parent.mkdir(parents=True, exist_ok=True)
-    summary_path.write_text(frontmatter.dumps(post), encoding="utf-8")
+    summary_path.write_text(frontmatter.dumps(post), encoding="utf-8", newline="\n")
 
 
 def build_health_reports(
@@ -534,8 +534,8 @@ def build_health_reports(
         current_date=current_date,
     )
 
-    lint_report_path.write_text(json.dumps(lint_report, indent=2, ensure_ascii=False), encoding="utf-8")
-    coverage_report_path.write_text(json.dumps(coverage_report, indent=2, ensure_ascii=False), encoding="utf-8")
+    lint_report_path.write_text(json.dumps(lint_report, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
+    coverage_report_path.write_text(json.dumps(coverage_report, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
     render_health_summary(coverage_report, lint_report, summary_path)
 
 

@@ -118,7 +118,7 @@ def main():
             fail_count += 1
             continue
             
-        with open(out_path, "w", encoding="utf-8") as f:
+        with open(out_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(f"# {art['title']}\n\n")
             if art["date"]:
                 f.write(f"*{art['date']}*\n\n")

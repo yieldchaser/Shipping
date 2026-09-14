@@ -154,7 +154,7 @@ class Recorder:
         }
         self.out.mkdir(parents=True, exist_ok=True)
         tmp = self.latest_path.with_suffix(".tmp")
-        tmp.write_text(json.dumps(payload, separators=(",", ":")) + "\n", encoding="utf-8")
+        tmp.write_text(json.dumps(payload, separators=(",", ":")) + "\n", encoding="utf-8", newline="\n")
         os.replace(tmp, self.latest_path)
 
 

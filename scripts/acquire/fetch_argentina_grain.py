@@ -121,7 +121,7 @@ def fetch_and_parse_file(pair, fname, url):
             r = requests.get(url, headers=HEADERS, timeout=12, verify=False)
             if r.status_code == 200:
                 html_content = r.text
-                with open(cache_path, "w", encoding="utf-8", errors="ignore") as f:
+                with open(cache_path, "w", encoding="utf-8", errors="ignore", newline="\n") as f:
                     f.write(html_content)
         except Exception as e:
             logging.warning("Failed fetching %s: %s", url, e)
@@ -318,7 +318,7 @@ def run_pipeline():
         },
     }
 
-    with open(OUT_META_JSON, "w", encoding="utf-8") as f:
+    with open(OUT_META_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(metadata, f, indent=2)
     logging.info("Saved metadata JSON to %s", OUT_META_JSON)
 
@@ -366,7 +366,7 @@ def update_manifest(df):
         series_list.append(entry_data)
 
     manifest["datasets"] = series_list
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, len(df))
 

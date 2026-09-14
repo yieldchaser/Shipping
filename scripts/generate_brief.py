@@ -2458,7 +2458,7 @@ def main() -> None:
     latest_path = BRIEFS / "latest.json"
     dated_path = BRIEFS / f"{today}.json"
     for out_path in (latest_path, dated_path):
-        out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8")
+        out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
         try:
             display_path = out_path.relative_to(ROOT)
         except ValueError:
@@ -2471,7 +2471,7 @@ def main() -> None:
         "total_briefs": len(all_dates),
         "dates": all_dates
     }
-    (BRIEFS / "manifest.json").write_text(json.dumps(manifest_data, indent=2), encoding="utf-8")
+    (BRIEFS / "manifest.json").write_text(json.dumps(manifest_data, indent=2), encoding="utf-8", newline="\n")
     print("[brief] Wrote knowledge/briefs/manifest.json")
 
     print(

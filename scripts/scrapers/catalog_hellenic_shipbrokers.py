@@ -117,7 +117,7 @@ def build_catalog():
             
     df = pd.DataFrame(all_records).sort_values("date", ascending=False)
     df.to_csv(CATALOG_CSV, index=False, lineterminator="\n")
-    with open(CATALOG_JSON, "w", encoding="utf-8") as f:
+    with open(CATALOG_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(all_records, f, indent=2)
         
     print(f"\n=== CATALOG GENERATION COMPLETE ===")

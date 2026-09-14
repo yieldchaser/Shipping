@@ -71,7 +71,7 @@ def load_checkpoint():
 def save_checkpoint(data):
     """Persist latest anchor DAM ID."""
     CHECKPOINT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
+    with open(CHECKPOINT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(data, f, indent=2)
 
 

@@ -847,7 +847,7 @@ def main():
     new_js = get_cargo_js()
     updated_content = content.replace(old_target, new_js)
 
-    with open(INDEX_HTML, "w", encoding="utf-8") as f:
+    with open(INDEX_HTML, "w", encoding="utf-8", newline="\n") as f:
         f.write(updated_content)
 
     print(f"Successfully injected complete Cargo JS into {INDEX_HTML}")

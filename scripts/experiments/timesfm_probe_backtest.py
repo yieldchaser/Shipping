@@ -1857,7 +1857,7 @@ Outputs:
 *Evidence over marketing: this probe does not assume TimesFM is SOTA on freight; it measures. If the mock fallback is active above, the only empirical verdict is on baselines & contrarian — rerun with the checkpoint to judge TimesFM. If real, compare not just MAE but regime robustness and cost.*
 """
 
-    report_path.write_text(report_content, encoding="utf-8")
+    report_path.write_text(report_content, encoding="utf-8", newline="\n")
     log(f"Report written to {report_path} ({len(report_content)} bytes)")
 
     # Also ensure run.log will be written by tee? We'll handle in main.
@@ -1920,7 +1920,7 @@ def main() -> None:
     orig_stdout = sys.stdout
     orig_stderr = sys.stderr
     # Open log file
-    log_file = open(log_path, "w", encoding="utf-8")
+    log_file = open(log_path, "w", encoding="utf-8", newline="\n")
     tee = Tee(orig_stdout, log_file)
     sys.stdout = tee  # type: ignore[assignment]
     sys.stderr = tee  # type: ignore[assignment]

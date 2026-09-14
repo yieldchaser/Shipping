@@ -228,7 +228,7 @@ def main():
     }
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(output_payload, f, separators=(",", ":"))
 
     logging.info("Saved %s (%.1f KB).", OUTPUT_FILE, OUTPUT_FILE.stat().st_size / 1024)

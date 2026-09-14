@@ -82,7 +82,7 @@ def load_checkpoint():
 
 def save_checkpoint(cp):
     CHECKPOINT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    CHECKPOINT_FILE.write_text(json.dumps(cp, indent=2), encoding="utf-8")
+    CHECKPOINT_FILE.write_text(json.dumps(cp, indent=2), encoding="utf-8", newline="\n")
 
 
 def get_with_backoff(url, attempts=3):
@@ -160,7 +160,7 @@ source_url: "{source_url}"
 
 {text}
 """
-        path.write_text(md, encoding="utf-8", errors="ignore")
+        path.write_text(md, encoding="utf-8", errors="ignore", newline="\n")
         written.append(path)
     return written
 

@@ -182,7 +182,7 @@ def main():
         "series_catalog": catalog
     }
 
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
+    with open(JSON_PATH, "w", encoding="utf-8", newline="\n") as f:
         json.dump(json_doc, f, indent=2)
     print(f"Successfully updated {JSON_PATH}.")
 

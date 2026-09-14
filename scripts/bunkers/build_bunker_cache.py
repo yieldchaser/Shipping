@@ -726,7 +726,7 @@ def build_bunker_summary():
 
     # Write output
     os.makedirs(os.path.dirname(OUT_JSON), exist_ok=True)
-    with open(OUT_JSON, 'w', encoding='utf-8') as f:
+    with open(OUT_JSON, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(summary, f, separators=(',', ':'))
 
     size_kb = os.path.getsize(OUT_JSON) / 1024

@@ -430,7 +430,7 @@ def dump_filter_dom(driver, cat: str):
     DEBUG_DIR.mkdir(parents=True, exist_ok=True)
     # Save full page
     html_path = DEBUG_DIR / f"page_{cat}.html"
-    html_path.write_text(driver.page_source, encoding="utf-8")
+    html_path.write_text(driver.page_source, encoding="utf-8", newline="\n")
     print(f"  💾 Page HTML → {html_path}")
 
     # Dump candidate filter elements
@@ -460,7 +460,7 @@ def dump_filter_dom(driver, cat: str):
         return results;
     """)
     dom_path = DEBUG_DIR / f"filter_dom_{cat}.json"
-    dom_path.write_text(json.dumps(candidates, indent=2), encoding="utf-8")
+    dom_path.write_text(json.dumps(candidates, indent=2), encoding="utf-8", newline="\n")
     print(f"  💾 Filter DOM ({len(candidates or [])} candidates) → {dom_path}")
     if candidates:
         print(f"  First 5 candidates:")

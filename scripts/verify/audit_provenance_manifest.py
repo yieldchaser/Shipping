@@ -266,7 +266,7 @@ def main():
         print(f"  [LEAKAGE] {q['file']}:{q['line']} -> {q['snippet']}")
         
     out_file = ROOT / "data" / "provenance" / "phase8_provenance_audit.json"
-    with open(out_file, "w", encoding="utf-8") as f:
+    with open(out_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(rep, f, indent=2)
     print(f"Saved provenance audit report to {out_file}")
 

@@ -144,11 +144,11 @@ def save_manifest(manifest: Dict[str, Any], custom_manifest_path: Optional[str] 
     manifest['last_updated_utc'] = datetime.now(timezone.utc).isoformat()
     temp_path = f"{m_path}.tmp"
     try:
-        with open(temp_path, 'w', encoding='utf-8') as f:
+        with open(temp_path, 'w', encoding='utf-8', newline="\n") as f:
             json.dump(manifest, f, indent=2)
         os.replace(temp_path, m_path)
     except OSError:
-        with open(m_path, 'w', encoding='utf-8') as f:
+        with open(m_path, 'w', encoding='utf-8', newline="\n") as f:
             json.dump(manifest, f, indent=2)
 
 def save_raw_source_bytes(raw_bytes: bytes, source_date_str: str, base_dir: Optional[str] = None) -> Tuple[str, str]:

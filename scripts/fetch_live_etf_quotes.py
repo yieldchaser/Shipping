@@ -150,7 +150,7 @@ def run_pipeline(dry_run: bool = False) -> dict:
 
     if not dry_run and success_count > 0:
         os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-        with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        with open(OUTPUT_PATH, "w", encoding="utf-8", newline="\n") as f:
             json.dump(bundle, f, indent=2)
         print(f"[OK] Wrote {OUTPUT_PATH} ({success_count}/{len(TICKERS)} quotes)")
     elif dry_run:

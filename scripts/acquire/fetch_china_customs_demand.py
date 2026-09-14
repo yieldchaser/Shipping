@@ -230,7 +230,7 @@ def process_all_commodities():
     df.to_csv(OUT_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d monthly records to %s", len(df), OUT_CSV)
 
-    with open(OUT_PARTNERS_JSON, "w", encoding="utf-8") as f:
+    with open(OUT_PARTNERS_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(partners_summary, f, indent=2)
     logging.info("Saved partner distribution metadata to %s", OUT_PARTNERS_JSON)
 
@@ -288,7 +288,7 @@ def update_manifest(df):
         series_list.append(entry_data)
 
     manifest["datasets"] = series_list
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, len(df))
 

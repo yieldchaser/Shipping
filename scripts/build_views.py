@@ -695,7 +695,7 @@ def build_signal_base_rates(out_path="data/views/signal_base_rates.json"):
         "buckets": {k: summarise(v) for k, v in buckets.items()},
     }
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as fh:
+    with open(out_path, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(payload, fh, sort_keys=True, separators=(",", ":"))
     oh = payload["buckets"]["overheated"]
     un = payload["buckets"]["unconditional"]
@@ -734,7 +734,7 @@ def stamp_all_views(views_root="data/views"):
                 continue
             target["as_of"] = None
             target["freshness"] = "static-lookup"
-        with open(path, "w", encoding="utf-8") as fh:
+        with open(path, "w", encoding="utf-8", newline="\n") as fh:
             json.dump(data, fh, sort_keys=True, separators=(",", ":"))
         stamped += 1
     print(f"  [STAMP] as_of written on {stamped} view(s)")

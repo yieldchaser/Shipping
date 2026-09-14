@@ -169,7 +169,7 @@ def fetch_latest_gibson_rates():
             writer.writeheader()
             writer.writerows(final_rows)
 
-        with open(JSON_PATH, "w", encoding="utf-8") as f:
+        with open(JSON_PATH, "w", encoding="utf-8", newline="\n") as f:
             json.dump(final_rows, f, indent=2)
 
         print(f"Gibson update finished: {len(final_rows)} total dates (from {initial_count}, added/updated {new_obs} rate points).")

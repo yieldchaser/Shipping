@@ -287,7 +287,7 @@ def main():
         except Exception as e:  # never fail the run on one bad file
             print(f"WARN {p.name}: scanner error ({e})")
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUT_PATH, "w", encoding="utf-8") as f:
+    with open(OUT_PATH, "w", encoding="utf-8", newline="\n") as f:
         for item in all_findings:
             f.write(json.dumps(item) + "\n")
     n_high = sum(1 for x in all_findings if x.get("severity") == "high")

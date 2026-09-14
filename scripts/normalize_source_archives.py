@@ -34,7 +34,7 @@ MONTH_PATTERN = (
 def atomic_write(path: Path, content: str) -> None:
     TEMP_ROOT.mkdir(exist_ok=True)
     temp_path = TEMP_ROOT / f"{path.name}.tmp"
-    temp_path.write_text(content, encoding="utf-8")
+    temp_path.write_text(content, encoding="utf-8", newline="\n")
     os.replace(temp_path, path)
 
 

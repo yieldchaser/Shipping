@@ -97,7 +97,7 @@ def fetch_release(date_str, year, m_code, url):
             r = requests.get(url, headers=HEADERS, timeout=10)
             if r.status_code == 200:
                 html_text = r.text
-                with open(cache_file, "w", encoding="utf-8", errors="ignore") as f:
+                with open(cache_file, "w", encoding="utf-8", errors="ignore", newline="\n") as f:
                     f.write(html_text)
             else:
                 return None
@@ -253,7 +253,7 @@ def run_pipeline():
         },
     }
 
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
+    with open(OUT_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(meta, f, indent=2)
     logging.info("Saved metadata JSON to %s", OUT_JSON)
 
@@ -302,7 +302,7 @@ def update_manifest(df):
         series_list.append(entry_data)
 
     manifest["datasets"] = series_list
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, len(df))
 

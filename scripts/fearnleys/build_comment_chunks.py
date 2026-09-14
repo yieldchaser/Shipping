@@ -49,7 +49,7 @@ def main():
         recs = [{"d": r.date, "t": r.comment_type, "n": str(r.comment_name or ""),
                  "x": r.text} for r in sub.itertuples()]
         path = os.path.join(OUT_DIR, f"fearnleys_comments_{desk}.json")
-        with open(path, "w", encoding="utf-8") as f:
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(recs, f, separators=(",", ":"))
         print(f"  {desk}: {len(recs)} comments -> {path}")
 
@@ -57,7 +57,7 @@ def main():
     recs = [{"d": r.date, "t": r.comment_type, "n": str(r.comment_name or ""),
              "x": r.text} for r in rest.itertuples()]
     path = os.path.join(OUT_DIR, "fearnleys_comments_snp.json")
-    with open(path, "w", encoding="utf-8") as f:
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(recs, f, separators=(",", ":"))
     print(f"  snp+rest: {len(recs)} comments -> {path}")
     print(f"Total: {len(df)} comments chunked.")

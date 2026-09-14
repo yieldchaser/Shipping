@@ -424,12 +424,12 @@ def sync_reports():
         md_content = blocks_to_markdown(r)
         for d in [REPORTS_DIR, DATA_REPORTS_DIR]:
             os.makedirs(d, exist_ok=True)
-            with open(os.path.join(d, filename), "w", encoding="utf-8") as mf:
+            with open(os.path.join(d, filename), "w", encoding="utf-8", newline="\n") as mf:
                 mf.write(md_content)
 
     catalog.sort(key=lambda r: (r.get("date") or "", r.get("created_at") or ""), reverse=True)
     for path in REPORTS_CATALOG_COPIES:
-        with open(path, "w", encoding="utf-8") as f:
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(catalog, f, indent=2, ensure_ascii=False)
 
     return len(unseen)

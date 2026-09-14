@@ -734,7 +734,7 @@ def update_manifest(df: pd.DataFrame):
                     item["date_span"] = [df["date"].min(), df["date"].max()]
                     item["last_fetched_utc"] = now_iso
 
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with australia_ppa_iron_ore (%d rows, %s -> %s)",
                  len(df), df["date"].min(), df["date"].max())

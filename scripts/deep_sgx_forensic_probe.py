@@ -289,7 +289,7 @@ def save_report(results, live_contracts):
             for r in results if r["status"] == 200
         ]
     }
-    with open(report_path, "w", encoding="utf-8") as fh:
+    with open(report_path, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(data_to_save, fh, indent=2)
     print("\n" + "=" * 85)
     print(f"EXHAUSTIVE PROBE REPORT SAVED: {report_path}")

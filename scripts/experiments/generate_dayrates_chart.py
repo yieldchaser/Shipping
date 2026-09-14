@@ -492,7 +492,7 @@ html_content = f"""<!DOCTYPE html>
 </html>
 """
 
-with open(artifact_path, "w", encoding="utf-8") as f:
+with open(artifact_path, "w", encoding="utf-8", newline="\n") as f:
     f.write(html_content)
 
 print(f"Generated chart artifact at: {artifact_path} ({len(html_content)} bytes)")

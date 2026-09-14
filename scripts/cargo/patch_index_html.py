@@ -507,7 +507,7 @@ def main():
     new_html = get_tab_cargo_html()
     updated_content = content[:s_idx] + new_html + "\n\n    " + content[e_idx:]
 
-    with open(INDEX_HTML, "w", encoding="utf-8") as f:
+    with open(INDEX_HTML, "w", encoding="utf-8", newline="\n") as f:
         f.write(updated_content)
 
     print(f"Successfully replaced #tab-cargo HTML in {INDEX_HTML}")

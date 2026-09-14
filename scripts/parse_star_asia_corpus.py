@@ -321,7 +321,7 @@ def main():
     
     # Save violations JSON
     viol_path = "data/derived/corpus_validation_violations.json"
-    with open(viol_path, "w", encoding="utf-8") as f:
+    with open(viol_path, "w", encoding="utf-8", newline="\n") as f:
         json.dump(all_violations, f, indent=2)
     print(f"Saved {viol_path} ({len(all_violations)} violations)")
     

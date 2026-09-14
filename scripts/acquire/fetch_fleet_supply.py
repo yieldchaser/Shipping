@@ -176,7 +176,7 @@ def process_fleet_data():
         "asset_classes": rows,
     }
 
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
+    with open(OUT_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(summary, f, indent=2)
     logging.info("Saved supply summary JSON to %s", OUT_JSON)
 
@@ -225,7 +225,7 @@ def update_manifest(df):
         series_list.append(entry_data)
 
     manifest["datasets"] = series_list
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, len(df))
 

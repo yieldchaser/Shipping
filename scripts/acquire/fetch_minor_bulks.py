@@ -267,7 +267,7 @@ def run_minor_bulks_harvest():
         }
     }
 
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
+    with open(OUT_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(meta, f, indent=2)
     logging.info("Saved minor bulks metadata to %s", OUT_JSON)
 
@@ -311,7 +311,7 @@ def update_manifest(row_count, min_date, max_date):
         series_list.append(entry_data)
 
     manifest["datasets"] = series_list
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest.json with series %s (%d rows)", series_id, row_count)
 

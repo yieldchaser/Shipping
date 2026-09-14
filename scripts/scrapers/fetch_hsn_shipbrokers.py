@@ -43,7 +43,7 @@ def load_checkpoint():
 
 def save_checkpoint(cp):
     CHECKPOINT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
+    with open(CHECKPOINT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cp, f, indent=2)
 
 def fetch_url(url, timeout=25):
@@ -196,7 +196,7 @@ raw_pdf_path: "{local_pdf_path}"
 
 {extracted_text}
 """
-        with open(out_file, "w", encoding="utf-8") as f:
+        with open(out_file, "w", encoding="utf-8", newline="\n") as f:
             f.write(md_content)
         
         return True, out_file

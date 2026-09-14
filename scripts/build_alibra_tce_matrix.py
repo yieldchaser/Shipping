@@ -298,7 +298,7 @@ def generate_tce_matrix_json():
                 })
 
     out_file = DERIVED_DIR / "alibra_tce_matrix.json"
-    with open(out_file, "w", encoding="utf-8") as f:
+    with open(out_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(matrix, f, indent=2)
 
     print(f"Generated {out_file} with {len(matrix['dry_bulk'])} dry bulk and {len(matrix['tankers'])} tanker classes!")

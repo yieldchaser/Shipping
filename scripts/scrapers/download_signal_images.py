@@ -104,7 +104,7 @@ def harvest_and_localize():
                 modified = True
                 
         if modified:
-            with open(md_path, "w", encoding="utf-8") as f:
+            with open(md_path, "w", encoding="utf-8", newline="\n") as f:
                 f.write(content)
                 
     print("[+] Successfully localized all markdown files!")

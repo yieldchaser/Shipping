@@ -95,7 +95,7 @@ output = {
     'pdf_books': pdf_books
 }
 
-with open('scratch_full_data_audit.json', 'w', encoding='utf-8') as f:
+with open('scratch_full_data_audit.json', 'w', encoding='utf-8', newline="\n") as f:
     json.dump(output, f, indent=2)
 
 print(f"Audit complete. Processed {len(audit_records)} files.")

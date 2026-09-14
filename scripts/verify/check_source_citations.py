@@ -77,7 +77,7 @@ def get_cached_or_fetch(url: str) -> str:
             mp = MAGYP_CACHE / fname
             if mp.exists():
                 text = mp.read_text(encoding="utf-8", errors="ignore")
-                cache_file.write_text(text, encoding="utf-8", errors="ignore")
+                cache_file.write_text(text, encoding="utf-8", errors="ignore", newline="\n")
                 return text
 
     # Check worldsteel local cache
@@ -93,7 +93,7 @@ def get_cached_or_fetch(url: str) -> str:
             ws_file = WORLDSTEEL_CACHE / f"ws_{y}-{m_num:02d}-01.html"
             if ws_file.exists():
                 text = ws_file.read_text(encoding="utf-8", errors="ignore")
-                cache_file.write_text(text, encoding="utf-8", errors="ignore")
+                cache_file.write_text(text, encoding="utf-8", errors="ignore", newline="\n")
                 return text
 
     logging.info("Fetching citation URL: %s", url)
@@ -102,7 +102,7 @@ def get_cached_or_fetch(url: str) -> str:
         raise ValueError(f"HTTP {resp.status_code} for URL: {url}")
 
     text = resp.text
-    cache_file.write_text(text, encoding="utf-8", errors="ignore")
+    cache_file.write_text(text, encoding="utf-8", errors="ignore", newline="\n")
     return text
 
 

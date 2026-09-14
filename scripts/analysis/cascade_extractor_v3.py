@@ -298,7 +298,7 @@ def run_v3_upgrade():
         },
         'output_csv': out_csv
     }
-    with open(out_json, 'w', encoding='utf-8') as f:
+    with open(out_json, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(audit_data, f, indent=2)
         
     print(f"\nPersisted V3 datasets:")

@@ -434,7 +434,7 @@ def main():
     }
 
     os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
-    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+    with open(OUTPUT_JSON, "w", encoding="utf-8", newline="\n") as f:
         json.dump(summary_payload, f, ensure_ascii=False, indent=2)
 
     elapsed = time.time() - start_time

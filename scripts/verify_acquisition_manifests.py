@@ -369,7 +369,7 @@ def build_manifest_registry() -> Dict[str, Any]:
 def verify_manifest():
     manifest = build_manifest_registry()
     os.makedirs(os.path.dirname(MANIFEST_FILE), exist_ok=True)
-    with open(MANIFEST_FILE, "w") as f:
+    with open(MANIFEST_FILE, "w", newline="\n") as f:
         json.dump(manifest, f, indent=2)
         
     print("==========================================================================================")

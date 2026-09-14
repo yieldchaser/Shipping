@@ -533,7 +533,7 @@ def process_article(url: str, dry_run: bool, overwrite: bool) -> bool:
 
     html_doc = build_html(info, dest)
     dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(html_doc, encoding="utf-8")
+    dest.write_text(html_doc, encoding="utf-8", newline="\n")
     print(f"    saved: {dest.name}  ({dest.stat().st_size // 1024} KB)")
     return True
 

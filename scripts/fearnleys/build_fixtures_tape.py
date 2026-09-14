@@ -71,7 +71,7 @@ def main():
         league = cur["charterer"].fillna("—").astype(str).str.strip().replace("", "—").value_counts().head(25)
         facets["ytd_charterer_league"] = [[k, int(v)] for k, v in league.items()]
 
-    with open(FACETS, "w", encoding="utf-8") as f:
+    with open(FACETS, "w", encoding="utf-8", newline="\n") as f:
         json.dump(facets, f, separators=(",", ":"))
     print(f"  {FACETS}: {round(os.path.getsize(FACETS) / 1024, 1)} KB")
 
@@ -126,7 +126,7 @@ def main():
         },
         "rows": out_rows,
     }
-    with open(TAPE, "w", encoding="utf-8") as f:
+    with open(TAPE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(payload, f, separators=(",", ":"))
     print(f"  {TAPE}: {round(os.path.getsize(TAPE) / 1024, 1)} KB ({len(out_rows)} rows)")
 

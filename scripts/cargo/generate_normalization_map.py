@@ -176,7 +176,7 @@ NORMALIZATION_MAP = {
     }
 }
 
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
     json.dump(NORMALIZATION_MAP, f, indent=2)
 
 print(f"Generated {OUTPUT_FILE} with {len(NORMALIZATION_MAP['commodity_mappings'])} commodities and {len(NORMALIZATION_MAP['region_mappings'])} regions.")

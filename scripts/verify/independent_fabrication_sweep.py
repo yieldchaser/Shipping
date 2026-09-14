@@ -383,7 +383,7 @@ def main():
     }
     out_file = ROOT / "data" / "provenance" / "phase8_fabrication_sweep.json"
     out_file.parent.mkdir(parents=True, exist_ok=True)
-    with open(out_file, "w", encoding="utf-8") as f:
+    with open(out_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(report, f, indent=2)
     print(f"Saved independent sweep results to {out_file}")
 

@@ -83,7 +83,7 @@ def main():
         "labels": labels,
     }
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f:
+    with open(OUT, "w", encoding="utf-8", newline="\n") as f:
         json.dump(payload, f, separators=(",", ":"))
     kb = round(os.path.getsize(OUT) / 1024, 1)
     print(f"Generated {OUT}: {len(labels)} labels ({kb} KB).")

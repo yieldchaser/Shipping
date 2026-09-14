@@ -648,7 +648,7 @@ def extract_and_save(
     )
 
     dest_html.parent.mkdir(parents=True, exist_ok=True)
-    dest_html.write_text(html_doc, encoding="utf-8")
+    dest_html.write_text(html_doc, encoding="utf-8", newline="\n")
     print(f"    saved: {dest_html.name}  ({dest_html.stat().st_size // 1024} KB)")
     return True
 

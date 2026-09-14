@@ -717,7 +717,7 @@ def main() -> int:
             "per-prior-year csv.gz shards (measured 25.7 B/row gz). No data pruned."),
         **result,
     }
-    MANIFEST_OUT.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+    MANIFEST_OUT.write_text(json.dumps(manifest, indent=2), encoding="utf-8", newline="\n")
     logging.info("[ok] manifest -> %s", MANIFEST_OUT)
     for name, s in sorted(result["sizes"].items()):
         logging.info("  %-42s %9d rows  %10.1f KB", name, s["rows"], s["bytes"] / 1024)

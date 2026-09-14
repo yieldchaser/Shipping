@@ -27,7 +27,7 @@ def load_hash_state():
 
 def save_hash_state(state):
     os.makedirs(os.path.dirname(STATE_PATH), exist_ok=True)
-    with open(STATE_PATH, 'w', encoding='utf-8') as f:
+    with open(STATE_PATH, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(state, f, indent=2, sort_keys=True)
 
 

@@ -386,7 +386,7 @@ def main():
             "data": json.loads(df.to_json(orient="records"))
         }
 
-        with open(json_out, "w") as f:
+        with open(json_out, "w", newline="\n") as f:
             json.dump(json_dict, f, indent=2, allow_nan=False)
 
         logger.info(f"Saved {len(df)} rows to {json_out}")
@@ -452,12 +452,12 @@ def main():
         logger.info(f"Added {len(ng_history)} NG=F daily closes to summary")
 
     summary_out = FLOWS_DIR / "all_flows_summary.json"
-    with open(summary_out, "w") as f:
+    with open(summary_out, "w", newline="\n") as f:
         json.dump(summary_data, f, indent=2)
     logger.info(f"Saved summary to {summary_out}")
 
     docs_summary = DOCS_FLOWS_DIR / "all_flows_summary.json"
-    with open(docs_summary, "w") as f:
+    with open(docs_summary, "w", newline="\n") as f:
         json.dump(summary_data, f, indent=2)
     logger.info(f"Copied summary to {docs_summary}")
 

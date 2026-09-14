@@ -400,9 +400,9 @@ def download_and_digest_reports(entries: list, limit=None):
         # Digest PDF to Markdown using anydoc
         try:
             md_content, rate_rows = convert_pdf_to_markdown(entry, pdf_path, pdf_bytes)
-            with open(md_path_reports, "w", encoding="utf-8") as f:
+            with open(md_path_reports, "w", encoding="utf-8", newline="\n") as f:
                 f.write(md_content)
-            with open(md_path_data, "w", encoding="utf-8") as f:
+            with open(md_path_data, "w", encoding="utf-8", newline="\n") as f:
                 f.write(md_content)
 
             entry["digested"] = True
@@ -452,7 +452,7 @@ def save_catalog(entries: list):
         clean_entries.append(item)
 
     for path in [CATALOG_PATH_REPORTS, CATALOG_PATH_DATA]:
-        with open(path, "w", encoding="utf-8") as f:
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(clean_entries, f, indent=2, ensure_ascii=False)
     print(f"[+] Catalog written to {CATALOG_PATH_REPORTS} ({len(clean_entries)} entries)")
 

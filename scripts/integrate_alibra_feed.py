@@ -395,7 +395,7 @@ def integrate_tanker_forward_curves():
     # Persist integration state (hash + date actually used) only when integration proceeded
     try:
         TANKER_CURVE_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-        with open(TANKER_CURVE_STATE_FILE, "w", encoding="utf-8") as f:
+        with open(TANKER_CURVE_STATE_FILE, "w", encoding="utf-8", newline="\n") as f:
             json.dump({
                 "sha256": sha256_file(fc_files[-1]),
                 "snapshot_date": latest_rows[-1]["snapshot_date"] if latest_rows else None,

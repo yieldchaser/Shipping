@@ -106,7 +106,7 @@ def load_index():
 
 def save_index(index_data):
     INDEX_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(INDEX_FILE, "w", encoding="utf-8") as f:
+    with open(INDEX_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(index_data, f, indent=2)
 
 def clean_name(val):

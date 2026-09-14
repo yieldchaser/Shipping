@@ -34,7 +34,7 @@ def main():
         except Exception:
             pass
 
-    with open(OUT_PATH, 'w', encoding='utf-8') as f:
+    with open(OUT_PATH, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(out, f, separators=(',', ':'))
 
     print(f"Successfully compiled {OUT_PATH}: {len(out)} active vessels, {os.path.getsize(OUT_PATH)/1024:.1f} KB.")

@@ -65,7 +65,7 @@ def _save_meta_cache(meta_cache: dict, output_path: Path) -> None:
                 ensure_ascii=False,
                 separators=(",", ":"),
             ),
-            encoding="utf-8",
+            encoding="utf-8", newline="\n"
         )
         os.replace(tmp_path, cache_path)
     except OSError:
@@ -107,7 +107,7 @@ def _save_score_cache(scores: dict, config_hash: str, output_path: Path) -> None
                 ensure_ascii=False,
                 separators=(",", ":"),
             ),
-            encoding="utf-8",
+            encoding="utf-8", newline="\n"
         )
         os.replace(tmp_path, cache_path)
     except OSError:
@@ -656,7 +656,7 @@ def write_topic_page(topic: dict, topic_rows: list[dict], wiki_dir: Path, genera
         lines.append("- None configured.")
 
     post = frontmatter.Post("\n".join(lines).strip() + "\n", **metadata)
-    path.write_text(frontmatter.dumps(post), encoding="utf-8")
+    path.write_text(frontmatter.dumps(post), encoding="utf-8", newline="\n")
 
 
 def write_index(topics: list[dict], evidence_rows: list[dict], wiki_dir: Path, generated_at: str):
@@ -672,7 +672,7 @@ def write_index(topics: list[dict], evidence_rows: list[dict], wiki_dir: Path, g
     for topic in topics:
         topic_id = topic["topic_id"]
         lines.append(f"| {topic['title']} | {counts.get(topic_id, 0)} |")
-    (wiki_dir / "index.md").write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
+    (wiki_dir / "index.md").write_text("\n".join(lines).strip() + "\n", encoding="utf-8", newline="\n")
 
 
 def build_wiki(
@@ -710,9 +710,9 @@ def build_wiki(
     _save_score_cache(score_cache, config_hash, output_path)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text("", encoding="utf-8")
+    output_path.write_text("", encoding="utf-8", newline="\n")
     for row in evidence_rows:
-        with output_path.open("a", encoding="utf-8") as handle:
+        with output_path.open("a", encoding="utf-8", newline="\n") as handle:
             handle.write(json.dumps(row, ensure_ascii=False) + "\n")
 
     if wiki_dir.exists():

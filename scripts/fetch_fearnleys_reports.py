@@ -134,7 +134,7 @@ def fetch_all_reports():
 
     # Save catalogs
     for cp in catalog_paths:
-        with open(cp, "w", encoding="utf-8") as f:
+        with open(cp, "w", encoding="utf-8", newline="\n") as f:
             json.dump(all_reports, f, indent=2, ensure_ascii=False)
         print(f"Saved master catalog to {cp}", flush=True)
 
@@ -148,7 +148,7 @@ def fetch_all_reports():
         md_content = blocks_to_markdown(rep)
         for d in dirs:
             filepath = os.path.join(d, filename)
-            with open(filepath, "w", encoding="utf-8") as f:
+            with open(filepath, "w", encoding="utf-8", newline="\n") as f:
                 f.write(md_content)
         count_saved += 1
 

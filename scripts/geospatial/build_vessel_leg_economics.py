@@ -60,7 +60,7 @@ def main():
     # directly; provenance lives in this script's docstring + workflow logs).
     # Idempotent: same input rows -> byte-identical output (sorted keys).
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f:
+    with open(OUT, "w", encoding="utf-8", newline="\n") as f:
         json.dump(out, f, sort_keys=True, separators=(",", ":"))
     print(f"Generated {OUT}: {len(out)} IMOs.")
 

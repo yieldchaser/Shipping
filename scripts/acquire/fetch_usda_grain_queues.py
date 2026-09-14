@@ -229,7 +229,7 @@ def update_manifest(df):
         if not found:
             manifest["series"].append(entry)
 
-    with open(MANIFEST_FILE, "w", encoding="utf-8") as f:
+    with open(MANIFEST_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info("Updated manifest for usda grain loading and queues (%d rows, %s -> %s)", row_count, min_date, max_date)
 

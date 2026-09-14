@@ -77,7 +77,7 @@ def load_checkpoint():
 
 def save_checkpoint(cp):
     CHECKPOINT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    CHECKPOINT_FILE.write_text(json.dumps(cp, indent=2), encoding="utf-8")
+    CHECKPOINT_FILE.write_text(json.dumps(cp, indent=2), encoding="utf-8", newline="\n")
 
 
 def get_with_backoff(url, attempts=3):
@@ -477,7 +477,7 @@ source_url: "{primary['url']}"
 
 {narrative}
 """
-    md_path.write_text(md_content, encoding="utf-8", errors="ignore")
+    md_path.write_text(md_content, encoding="utf-8", errors="ignore", newline="\n")
     print(f"[OK] Narrative saved: {md_path.relative_to(REPO_ROOT)}")
 
     checkpoint["last_success_date"] = primary["date"]
@@ -508,7 +508,7 @@ source_url: "{RED_SEA_URL}"
 
 """ + "\n\n".join(rs_lines),
                 encoding="utf-8",
-                errors="ignore",
+                errors="ignore", newline="\n"
             )
             print(f"[OK] Red Sea notes saved: {rs_path.relative_to(REPO_ROOT)}")
 

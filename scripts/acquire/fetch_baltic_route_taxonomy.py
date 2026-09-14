@@ -211,7 +211,7 @@ def main():
     taxonomy = parse_taxonomy(html, url)
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(taxonomy, f, indent=2)
 
     print(f"\n[+] Successfully generated {OUTPUT_FILE}")

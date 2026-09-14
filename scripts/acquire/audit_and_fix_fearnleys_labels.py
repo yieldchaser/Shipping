@@ -345,7 +345,7 @@ def fix_json():
             meta["notes"] = mapping["notes"]
 
     print(f"Rewriting {JSON_PATH} with updated catalog metadata...")
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
+    with open(JSON_PATH, "w", encoding="utf-8", newline="\n") as f:
         json.dump(data, f, indent=2)
     print("Successfully updated JSON catalog.")
 

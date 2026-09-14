@@ -442,10 +442,10 @@ def save_scenario_snapshots_bundle(
     bdry_path = os.path.join(target_dir, 'bdry_scenario_snapshot.json')
     bwet_path = os.path.join(target_dir, 'bwet_scenario_snapshot.json')
     
-    with open(bdry_path, 'w', encoding='utf-8') as f:
+    with open(bdry_path, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(snap_bdry, f, indent=2)
         
-    with open(bwet_path, 'w', encoding='utf-8') as f:
+    with open(bwet_path, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(snap_bwet, f, indent=2)
         
     # Save unified JavaScript bundle
@@ -456,7 +456,7 @@ window.SCENARIO_SNAPSHOTS = {{
   bwet: {json.dumps(snap_bwet, indent=2)}
 }};
 """
-    with open(js_path, 'w', encoding='utf-8') as f:
+    with open(js_path, 'w', encoding='utf-8', newline="\n") as f:
         f.write(js_content)
         
     return {

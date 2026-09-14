@@ -32,7 +32,7 @@ def fix_and_verify_map_ports():
         master.append(p)
 
     master_path = GEO_DIR / 'signal_map_ports_master.json'
-    with open(master_path, 'w', encoding='utf-8') as f:
+    with open(master_path, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(master, f, separators=(',', ':'))
 
     # Verify MD5 hashes
@@ -76,7 +76,7 @@ def build_signal_views():
         'ports': compact_ports
     }
     p_path = VIEWS_DIR / 'ports_summary.json'
-    with open(p_path, 'w', encoding='utf-8') as f:
+    with open(p_path, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(ports_payload, f, separators=(',', ':'))
     logging.info('Wrote %s (%d ports, %d KB)', p_path.name, len(compact_ports), p_path.stat().st_size // 1024)
 
@@ -114,7 +114,7 @@ def build_signal_views():
         'sectors': fleet_summary
     }
     f_path = VIEWS_DIR / 'fleet_positions_summary.json'
-    with open(f_path, 'w', encoding='utf-8') as f:
+    with open(f_path, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(fleet_payload, f, separators=(',', ':'))
     logging.info('Wrote %s (%d tracked hulls, %d KB)', f_path.name, fleet_payload['header']['total_hulls'], f_path.stat().st_size // 1024)
 
@@ -221,7 +221,7 @@ def register_provenance():
         else:
             manifest['series'].append(item)
 
-    with open(MANIFEST_PATH, 'w', encoding='utf-8') as f:
+    with open(MANIFEST_PATH, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(manifest, f, indent=2)
     logging.info('Registered %d Signal Ocean series in manifest. Total series: %d', len(signal_entries), len(manifest['series']))
 

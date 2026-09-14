@@ -96,7 +96,7 @@ def consolidate_brazil_exports():
         if not found:
             manifest['series'].append(entry)
 
-        with open(MANIFEST_FILE, 'w', encoding='utf-8') as f:
+        with open(MANIFEST_FILE, 'w', encoding='utf-8', newline="\n") as f:
             json.dump(manifest, f, indent=2)
 
     return df_out

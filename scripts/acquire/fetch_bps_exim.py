@@ -103,7 +103,7 @@ def fetch_year(year, api_key="", use_cache=True):
         print(f"Warning: BPS returned status '{payload.get('status')}' for year {year}")
         return []
 
-    with open(cache_file, "w", encoding="utf-8") as f:
+    with open(cache_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(payload, f, indent=2)
 
     return payload.get("data", [])
@@ -126,7 +126,7 @@ def update_manifest(csv_path, row_count, min_date, max_date):
                 item["max_date"] = max_date
                 item["last_verified"] = datetime.utcnow().strftime("%Y-%m-%d")
 
-    with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
+    with open(MANIFEST_PATH, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, indent=2)
 
 
@@ -289,7 +289,7 @@ def main():
         writer.writerows(out_rows)
 
     detail_file = COMMODITIES_DIR / "indonesia_coal_ports_destinations.json"
-    with open(detail_file, "w", encoding="utf-8") as f:
+    with open(detail_file, "w", encoding="utf-8", newline="\n") as f:
         json.dump(ports_dest_detail, f, indent=2)
 
     min_date = out_rows[0]["date"]

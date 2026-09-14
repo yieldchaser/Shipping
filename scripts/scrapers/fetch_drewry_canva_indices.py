@@ -146,7 +146,7 @@ def update_drewry_canva_datasets():
                 writer.writerows(iaci_records)
 
             json_file = OUT_DIR / "drewry_intra_asia_container_index.json"
-            with open(json_file, "w", encoding="utf-8") as f:
+            with open(json_file, "w", encoding="utf-8", newline="\n") as f:
                 json.dump(iaci_records, f, indent=2)
             print(f"  [OK] Saved {len(iaci_records)} records to {csv_file.name}")
         except Exception as e:
@@ -173,7 +173,7 @@ def update_drewry_canva_datasets():
                 writer.writeheader()
                 writer.writerows(bb_records)
             json_file = OUT_DIR / "drewry_breakbulk_transport_indices.json"
-            with open(json_file, "w", encoding="utf-8") as f:
+            with open(json_file, "w", encoding="utf-8", newline="\n") as f:
                 json.dump(bb_records, f, indent=2)
             print(f"  [OK] Saved {len(bb_records)} records to {csv_file.name}")
         except Exception as e:
@@ -206,7 +206,7 @@ def update_drewry_canva_datasets():
                 writer.writeheader()
                 writer.writerows(af_records)
             json_file = OUT_DIR / "drewry_airfreight_price_index.json"
-            with open(json_file, "w", encoding="utf-8") as f:
+            with open(json_file, "w", encoding="utf-8", newline="\n") as f:
                 json.dump(af_records, f, indent=2)
             print(f"  [OK] Saved {len(af_records)} records to {csv_file.name}")
         except Exception as e:
@@ -231,7 +231,7 @@ def update_drewry_canva_datasets():
                 "total_cancelled_pct": 6
             }
             json_file = OUT_DIR / "drewry_cancelled_sailings_tracker.json"
-            with open(json_file, "w", encoding="utf-8") as f:
+            with open(json_file, "w", encoding="utf-8", newline="\n") as f:
                 json.dump(sailings_data, f, indent=2)
             print(f"  [OK] Saved Cancelled Sailings tracker to {json_file.name}")
         except Exception as e:

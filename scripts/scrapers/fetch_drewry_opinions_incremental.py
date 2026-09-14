@@ -271,7 +271,7 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
         data, status = parse_article_page(item["url"], cookie=cookie, card_title=item["title"], card_date=item["date"])
         if status == "OK" and data:
             md_path = OPINIONS_DIR / f"{slug}.md"
-            with open(md_path, "w", encoding="utf-8") as f:
+            with open(md_path, "w", encoding="utf-8", newline="\n") as f:
                 f.write(f"# {data['title']}\n\n")
                 if data["date"]:
                     f.write(f"*{data['date']}*\n\n")

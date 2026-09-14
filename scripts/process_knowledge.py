@@ -911,7 +911,7 @@ def append_jsonl(path: Path, row: dict):
     last_error = None
     for attempt in range(5):
         try:
-            with path.open("a", encoding="utf-8") as handle:
+            with path.open("a", encoding="utf-8", newline="\n") as handle:
                 handle.write(payload)
             return
         except PermissionError as exc:
@@ -998,7 +998,7 @@ def manifest_sort_key(row: dict):
 def write_manifest_rows(rows: list[dict]):
     rows = sorted(latest_rows_by_source(rows).values(), key=manifest_sort_key)
     DOCUMENTS_MANIFEST.parent.mkdir(parents=True, exist_ok=True)
-    DOCUMENTS_MANIFEST.write_text("", encoding="utf-8")
+    DOCUMENTS_MANIFEST.write_text("", encoding="utf-8", newline="\n")
     for row in rows:
         append_jsonl(DOCUMENTS_MANIFEST, row)
 
@@ -1093,7 +1093,7 @@ def rewrite_chunk_file(path: Path, removed_doc_ids: set[str]):
     for row in load_jsonl(path):
         if row.get("doc_id") not in removed_doc_ids:
             kept_rows.append(row)
-    path.write_text("", encoding="utf-8")
+    path.write_text("", encoding="utf-8", newline="\n")
     for row in kept_rows:
         append_jsonl(path, row)
 
@@ -1120,7 +1120,7 @@ def compact_chunk_file(path: Path, remove_doc_ids: set[str] | None = None):
         deduped_reversed.append(row)
     deduped_rows = list(reversed(deduped_reversed))
 
-    path.write_text("", encoding="utf-8")
+    path.write_text("", encoding="utf-8", newline="\n")
     for row in deduped_rows:
         append_jsonl(path, row)
 
@@ -1301,7 +1301,7 @@ def build_sources_registry():
             },
         },
     }
-    SOURCES_MANIFEST.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    SOURCES_MANIFEST.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
 
 def iter_source_files(source_filter: str | None):
@@ -1874,7 +1874,7 @@ def tree_output_path_from_doc_path(doc_path: Path) -> Path:
 
 def write_tree_file(path: Path, tree: dict):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(tree, indent=2, ensure_ascii=False), encoding="utf-8")
+    path.write_text(json.dumps(tree, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
 
 def iter_tree_nodes(node: dict):
@@ -3191,7 +3191,7 @@ def build_chunks(adapted: dict) -> list[dict]:
 def write_markdown_doc(path: Path, metadata: dict, body: str):
     path.parent.mkdir(parents=True, exist_ok=True)
     post = frontmatter.Post(body, **metadata)
-    path.write_text(frontmatter.dumps(post), encoding="utf-8")
+    path.write_text(frontmatter.dumps(post), encoding="utf-8", newline="\n")
 
 
 def adapt_markdown_report(
@@ -3394,7 +3394,7 @@ def _save_derived_cache(cache: dict) -> None:
         tmp = DERIVED_CACHE_PATH.with_suffix(".json.tmp")
         tmp.write_text(
             json.dumps(cache, ensure_ascii=False, separators=(",", ":")),
-            encoding="utf-8",
+            encoding="utf-8", newline="\n"
         )
         os.replace(tmp, DERIVED_CACHE_PATH)
     except OSError as exc:
@@ -3797,7 +3797,7 @@ def write_chunk_index() -> dict:
     CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
     out = CHUNKS_DIR / "index.json"
     tmp = out.with_suffix(".json.tmp")
-    tmp.write_text(json.dumps(payload, indent=1), encoding="utf-8")
+    tmp.write_text(json.dumps(payload, indent=1), encoding="utf-8", newline="\n")
     os.replace(tmp, out)
     return payload
 
@@ -3868,7 +3868,7 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
         + (" (full refresh)" if (force_full or env_force_full) else "")
     )
 
-    SIGNALS_DERIVED.write_text("", encoding="utf-8")
+    SIGNALS_DERIVED.write_text("", encoding="utf-8", newline="\n")
     bw_compact_signals = []
     for row in sorted(signal_rows, key=lambda item: (item.get("date") or "", item.get("doc_id") or "")):
         append_jsonl(SIGNALS_DERIVED, row)
@@ -3883,17 +3883,17 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
                 "doc_id": row.get("doc_id")
             })
 
-    BREAKWAVE_SIGNALS_DERIVED.write_text(json.dumps(bw_compact_signals, indent=2, ensure_ascii=False), encoding="utf-8")
+    BREAKWAVE_SIGNALS_DERIVED.write_text(json.dumps(bw_compact_signals, indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
-    THEMES_DERIVED.write_text("", encoding="utf-8")
+    THEMES_DERIVED.write_text("", encoding="utf-8", newline="\n")
     for row in theme_rows:
         append_jsonl(THEMES_DERIVED, row)
 
-    SECTION_INDEX_DERIVED.write_text("", encoding="utf-8")
+    SECTION_INDEX_DERIVED.write_text("", encoding="utf-8", newline="\n")
     for row in sorted(section_rows, key=lambda item: (item.get("date") or "", item.get("doc_id") or "", item.get("ordinal") or 0)):
         append_jsonl(SECTION_INDEX_DERIVED, row)
 
-    TIMELINES_DERIVED.write_text(json.dumps(dict(sorted(timelines.items())), indent=2, ensure_ascii=False), encoding="utf-8")
+    TIMELINES_DERIVED.write_text(json.dumps(dict(sorted(timelines.items())), indent=2, ensure_ascii=False), encoding="utf-8", newline="\n")
 
     # -------------------------------------------------------------------------
     # COMPILE DERIVED SUMMARY CSVS FOR THE FRONTEND

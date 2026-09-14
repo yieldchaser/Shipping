@@ -1,4 +1,4 @@
-"""CSV writers must write LF line endings on every platform.
+"""CSV and text writers must write LF line endings on every platform.
 
 pandas .to_csv() uses os.linesep (CRLF on Windows) and csv.writer defaults to CRLF
 everywhere. Data files are stored LF (.gitattributes), so a CRLF write made any
@@ -33,3 +33,23 @@ def test_every_csv_writer_sets_lf():
                 if "lineterminator" not in args:
                     offenders.append(f"{path.relative_to(ROOT)}:{line} {opener}{args[:60]}")
     assert not offenders, "CSV writers without lineterminator='\\n':\n" + "\n".join(offenders)
+
+
+def test_every_text_write_sets_lf():
+    """open(..., 'w'/'a') and Path.write_text translate newlines to CRLF on Windows."""
+    mode = re.compile(r"""(['"])(w|a|w\+|a\+|wt|at)\1""")
+    offenders = []
+    for path in sorted((ROOT / "scripts").rglob("*.py")):
+        src = path.read_text(encoding="utf-8", errors="replace")
+        for m in re.finditer(r"""(?<![\w"'])open\(|\.open\(|\.write_text\(""", src):
+            depth, j = 1, m.end()
+            while j < len(src) and depth:
+                depth += {"(": 1, ")": -1}.get(src[j], 0)
+                j += 1
+            args = src[m.end():j - 1]
+            if "write_text" not in m.group(0) and not mode.search(args):
+                continue
+            if "newline" not in args:
+                line = src[:m.start()].count("\n") + 1
+                offenders.append(f"{path.relative_to(ROOT)}:{line} {m.group(0)}{args[:60]}")
+    assert not offenders, "text writes without newline='\n':\n" + "\n".join(offenders)

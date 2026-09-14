@@ -34,7 +34,7 @@ Floating Price Settlement: The Floating Price for each contract month is the ari
 Termination of Trading: Trading ceases on the last business day of the contract month.
 Authoritative Reference: https://www.cmegroup.com/rulebook/NYMEX/6/684.pdf
 """
-with open('data/rulebooks/nymex_chapter_684_td3c.txt', 'w', encoding='utf-8') as f:
+with open('data/rulebooks/nymex_chapter_684_td3c.txt', 'w', encoding='utf-8', newline="\n") as f:
     f.write(nymex_684_content)
 
 # 2. Archive NYMEX Rulebook Chapter 944 (TD20)
@@ -51,7 +51,7 @@ Floating Price Settlement: The Floating Price for each contract month is the ari
 Termination of Trading: Trading ceases on the last business day of the contract month.
 Authoritative Reference: https://www.cmegroup.com/rulebook/NYMEX/9/944.pdf
 """
-with open('data/rulebooks/nymex_chapter_944_td20.txt', 'w', encoding='utf-8') as f:
+with open('data/rulebooks/nymex_chapter_944_td20.txt', 'w', encoding='utf-8', newline="\n") as f:
     f.write(nymex_944_content)
 
 # 3. Archive SGX Freight Derivatives Clearing Specifications (Capesize 5TC, Panamax 5TC, Supramax 10TC)
@@ -73,7 +73,7 @@ Settlement Index:
   - Supramax: Baltic Supramax 10TC / 58TC Index Average
 Authoritative Reference: https://www.sgx.com/derivatives/products/freight
 """
-with open('data/rulebooks/sgx_freight_derivatives_spec.txt', 'w', encoding='utf-8') as f:
+with open('data/rulebooks/sgx_freight_derivatives_spec.txt', 'w', encoding='utf-8', newline="\n") as f:
     f.write(sgx_spec_content)
 
 # 4. Generate Raw Holdings Archives for Aug 14, 2026
@@ -81,7 +81,7 @@ for fund in ['BDRY', 'BWET']:
     src_p = f'data/etf/{fund.lower()}_holdings_history.csv'
     dest_p = f'data/etf/raw_holdings/{fund.lower()}_holdings_raw_2026-08-14.csv'
     if os.path.exists(src_p):
-        with open(src_p, 'r', encoding='utf-8') as sf, open(dest_p, 'w', encoding='utf-8') as df:
+        with open(src_p, 'r', encoding='utf-8') as sf, open(dest_p, 'w', encoding='utf-8', newline="\n") as df:
             df.write(sf.read())
 
 # 5. Build Unified Manifest
@@ -147,7 +147,7 @@ manifest = {
     ]
 }
 
-with open('data/raw_sources_manifest.json', 'w', encoding='utf-8') as f:
+with open('data/raw_sources_manifest.json', 'w', encoding='utf-8', newline="\n") as f:
     json.dump(manifest, f, indent=2)
 
 print("Saved data/raw_sources_manifest.json and rulebook text specifications.")

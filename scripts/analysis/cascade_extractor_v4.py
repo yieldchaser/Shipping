@@ -326,7 +326,7 @@ def run_v4_pipeline():
         },
         'output_csv': out_csv
     }
-    with open(out_json, 'w', encoding='utf-8') as f:
+    with open(out_json, 'w', encoding='utf-8', newline="\n") as f:
         json.dump(audit_data, f, indent=2)
         
     print(f"\nPersisted V4 datasets:")

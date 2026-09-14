@@ -1263,7 +1263,7 @@ def main():
     }
 
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(summary_payload, f, indent=2)
 
     sz = OUTPUT_FILE.stat().st_size
