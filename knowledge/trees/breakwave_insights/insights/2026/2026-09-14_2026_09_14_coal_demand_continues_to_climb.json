@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-14_2026_09_14_coal_demand_continues_to_climb__root",
+  "doc_id": "breakwave_insights_insights_2026-09-14_2026_09_14_coal_demand_continues_to_climb",
+  "parent_id": null,
+  "title": "Coal Demand Continues to Climb",
+  "section_path": [
+    "Coal Demand Continues to Climb"
+  ],
+  "section_path_text": "Coal Demand Continues to Climb",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nFor a commodity supposedly in structural decline, coal has developed an extraordinary capacity to defy the simplicity of the energy-transition narrative. The world consumed more coal in 2025 than ever before, while 2026 is now expected to bring another increase. Yet beneath these record volumes lies a market being steadily reshaped: China is producing and consuming vast quantities while importing less, India is substituting domestic production for seaborne supply, mature economies continue to retreat, and Southeast Asia is emerging as one of the few meaningful pockets of growth.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "japan",
+    "coal",
+    "crude_oil",
+    "steel",
+    "gas",
+    "demand",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1646,
+  "source_path": "reports/breakwave/2026/2026-09-14_coal-demand-continues-to-climb.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/14/coal-demand-continues-to-climb",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-14_2026_09_14_coal_demand_continues_to_climb__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-14_2026_09_14_coal_demand_continues_to_climb",
+      "parent_id": "breakwave_insights_insights_2026-09-14_2026_09_14_coal_demand_continues_to_climb__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nFor a commodity supposedly in structural decline, coal has developed an extraordinary capacity to defy the simplicity of the energy-transition narrative. The world consumed more coal in 2025 than ever before, while 2026 is now expected to bring another increase.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "japan",
+        "coal",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1644,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

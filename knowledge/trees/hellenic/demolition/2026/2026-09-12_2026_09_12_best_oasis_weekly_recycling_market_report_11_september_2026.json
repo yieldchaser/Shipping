@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026__root",
+  "doc_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 11 September 2026",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 11 September 2026"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 11 September 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Indian recycling market remains quite buoyant. After a strong run, prices have stopped increasing further and remain close\nSource: Best Oasis Limited\n\nLinked asset: 2026-09-12_best-oasis-weekly-recycling-market-report-11-september-2026_weekly-ship-recycling-report-05-sept_621b7080c072.pdf\nSource asset: reports/hellenic/demolition/pdfs/2026-09-12_best-oasis-weekly-recycling-market-report-11-september-2026_weekly-ship-recycling-report-05-sept_621b7080c072.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 05 SEPTEMBER - 11 SEPTEMBER) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian recycling market remains quite buoyant. After a strong run, prices have stopped increasing further and remain close to last week's peak, with only a very minor downward trend.",
+  "keywords": [
+    "lpg",
+    "india",
+    "crude_oil",
+    "steel",
+    "gas",
+    "remains",
+    "delivered",
+    "recycling",
+    "buyers",
+    "moderate",
+    "pakistan",
+    "turkiye"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1256,
+  "source_path": "reports/hellenic/demolition/2026/2026-09-12_best-oasis-weekly-recycling-market-report-11-september-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-11-september-2026",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026__s01_main",
+      "doc_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026",
+      "parent_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Indian recycling market remains quite buoyant. After a strong run, prices have stopped increasing further and remain close\nSource: Best Oasis Limited",
+      "keywords": [
+        "india",
+        "after",
+        "best",
+        "buoyant.",
+        "close",
+        "further",
+        "increasing",
+        "indian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026__s02_linked_asset_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026_weekly_ship_recycling_report_05_sept_621b7080c072_pdf",
+      "doc_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026",
+      "parent_id": "hellenic_demolition_2026-09-12_2026_09_12_best_oasis_weekly_recycling_market_report_11_september_2026__root",
+      "title": "Linked asset: 2026-09-12_best-oasis-weekly-recycling-market-report-11-september-2026_weekly-ship-recycling-report-05-sept_621b7080c072.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-12_best-oasis-weekly-recycling-market-report-11-september-2026_weekly-ship-recycling-report-05-sept_621b7080c072.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-12_best-oasis-weekly-recycling-market-report-11-september-2026_weekly-ship-recycling-report-05-sept_621b7080c072.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-09-12_best-oasis-weekly-recycling-market-report-11-september-2026_weekly-ship-recycling-report-05-sept_621b7080c072.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 05 SEPTEMBER - 11 SEPTEMBER) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian recycling market remains quite buoyant. After a strong run, prices have stopped increasing further and remain close to last week's peak, with only a very minor downward trend.",
+      "keywords": [
+        "lpg",
+        "india",
+        "crude_oil",
+        "steel",
+        "gas",
+        "delivered",
+        "remains",
+        "buyers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1178,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
