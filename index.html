@@ -16675,6 +16675,9 @@ if (intelTabsContainer) {
       suprama: { label: 'Supramax', file: 'data/indices/suprama_historical.csv', color: '#f0883e', tt: 'Supramax Vessels (58K DWT) - versatile geared vessels hauling \'minor bulks\' like fertilizers, minerals, and steel. Offers lower volatility due to a highly diversified commodity base.' },
       handysize: { label: 'Handysize', file: 'data/indices/handysize_historical.csv', color: '#7ee787', tt: 'Handysize Vessels (38K DWT) - small, geared vessels capable of serving regional ports. Tracks the fragmented trade of specialized raw materials and finished industrial goods.' },
       dirtytanker: { label: 'Dirty Tanker (BDTI)', file: 'data/indices/dirtytanker_historical.csv', color: '#e3b341', tt: 'Baltic Dirty Tanker Index (BDTI) - tracks the cost of hauling crude oil on VLCC, Suezmax, and Aframax vessels. Driven by OPEC+ output, refinery runs, and geopolitical energy shocks.' },
+      blng: { label: 'Baltic LNG Index (BLNG)', file: 'data/indices/blng_historical.csv', color: '#56d4dd', tt: 'Baltic LNG Index (BLNG) - the Baltic Exchange LNG carrier freight benchmark, collected daily from the Baltic Exchange public ticker since 13 Mar 2026. Tracks spot LNG shipping costs, driven by liquefaction start-ups, Atlantic-Pacific arbitrage and fleet deliveries.' },
+      blpg: { label: 'Baltic LPG Index (BLPG)', file: 'data/indices/blpg_historical.csv', color: '#e3b341', tt: 'Baltic LPG Index (BLPG) - the Baltic Exchange LPG carrier freight benchmark, collected daily from the Baltic Exchange public ticker since 13 Mar 2026. Tracks VLGC shipping costs, driven by US and Middle East LPG exports to Asia.' },
+      bai: { label: 'Baltic Air Freight Index (BAI00)', file: 'data/indices/bai_historical.csv', color: '#8b949e', tt: 'Baltic Air Freight Index (BAI00) - the Baltic Exchange weekly air cargo price benchmark across major global lanes, weekly since Jan 2018. Not a shipping index: a cross-check on how urgent-freight demand compares with sea freight.' },
       cleantanker: { label: 'Clean Tanker (BCTI)', file: 'data/indices/cleantanker_historical.csv', color: '#a371f7', tt: 'Baltic Clean Tanker Index (BCTI) - monitors the freight rates for refined petroleum products (Gasoline, Diesel, Jet Fuel, Naphtha). Tied to global refining margins and seasonal demand.' },
       bdryff: { label: 'BDRY Freight Futures (BDRYFF)', file: 'data/futures/bdryff_history.csv', color: '#00bfff', solactive: true, tt: 'BDRY Freight Futures (BDRYFF) - tracks the front-month settlement prices of Dry Bulk FFAs. Represents the market\'s \'Forward Expectation\' vs. its \'Spot Reality\'.' },
       bwetff: { label: 'BWET Freight Futures (BWETFF)', file: 'data/futures/bwetff_history.csv', color: '#ff6b6b', solactive: true, tt: 'BWET Freight Futures (BWETFF) - tracks the settlement of Dirty Tanker (TD3C/TD20) forward contracts. High-conviction tool for hedging crude oil maritime logistics risk.' },
@@ -20535,20 +20538,24 @@ function buildMaster() {
     }
     window.setIndicesFilter = setIndicesFilter;
 
-    const BALTIC_FREIGHT_KEYS = ['bdiy', 'cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
+    const BALTIC_FREIGHT_KEYS = ['bdiy', 'cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker', 'blng', 'blpg', 'bai'];
     const DERIVATIVE_KEYS = ['bdryff', 'bwetff', 'bdry_spot', 'bdry', 'bwet'];
 
-    // Card order on the Indices tab: composite BDI, vessel-class indices by size,
+    // Card order on the Indices tab (two per row): BDI beside the BDRY spot composite,
+    // vessel-class indices in size pairs,
     // dry routes by class, tanker indices, tanker routes, equities, futures/ETFs.
     // Route cards are placeholders here; their series come from
     // data/views/routes/ (built by scripts/build_views.py) and load on first open.
     const INDICES_ORDER = [
-      'bdiy', 'cape', 'panama', 'suprama', 'handysize',
+      'bdiy', 'bdry_spot',
+      'cape', 'panama', 'suprama', 'handysize',
       '@dry',
       'dirtytanker', 'cleantanker',
+      'blng', 'blpg',
       '@tanker',
       'clmi', 'cldbi', 'clti', 'clci', 'cllg', 'clmfi', 'clmlp',
-      'bdryff', 'bwetff', 'bdry_spot', 'bdry', 'bwet'
+      'bdryff', 'bwetff', 'bdry', 'bwet',
+      'bai'
     ];
 
     // A route that has not printed for this long is treated as discontinued and

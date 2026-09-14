@@ -235,7 +235,10 @@ def build_indices_and_dashboard_master(prov_map):
         'clci': 'data/indices/capital_link_container_clci.csv',
         'cllg': 'data/indices/capital_link_lng_lpg_cllg.csv',
         'clmfi': 'data/indices/capital_link_mixed_fleet_clmfi.csv',
-        'clmlp': 'data/indices/capital_link_mlp_clmlp.csv'
+        'clmlp': 'data/indices/capital_link_mlp_clmlp.csv',
+        'blng': 'data/indices/blng_historical.csv',
+        'blpg': 'data/indices/blpg_historical.csv',
+        'bai': 'data/indices/bai_historical.csv'
     }
 
     dates_dict = {}
