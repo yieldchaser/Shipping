@@ -595,3 +595,47 @@ click behave the same.
   speed as before (~0.75 s), no longer dependent on an idle slot.
 - Guard: `test_tracking_map_stays_light_and_interactive` (layer count, in-place pins, off-screen
   hiding, vessel click popup), each mutation-checked.
+
+## 2026-09-14 (late) — freshness, broker feeds, FFA recorder, Indices, Tracking look, LF
+
+Everything below is on `origin/main` and live. Each item was measured or queried, not assumed.
+
+- **Tracking zoom freeze** (`5792e5513`): every wheel step froze up to 2.2 s in one compositor commit
+  (pins' own transform transitions + 160 looping pulse rings). Pause both while the map moves.
+- **Broker Voice feeds** (`5e6393aa0`): `daily_fearnleys_sync.py` crashed importing
+  `fetch_fearnleys_reports`, wrote the reports catalogue to `reports/` not `data/reports/`, and read
+  one 50/50/5/500-row page. Fixed (paging, both copies, guarded steps, non-zero exit). New
+  `scripts/scrapers/fetch_gibson_catalog.py` (WordPress REST). New `broker_voice_sync.yml` twice daily
+  with `scripts/verify/check_broker_voice_fresh.py` (fails red if a published item is missing).
+  `pages.yml` now redeploys after every scheduled data writer.
+- **Forward FFA strip = live broker screen, unbranded** (`7807d1717`, `70aae1a43`, `7e5218a3f`,
+  `f58136f3a`): endpoint `api.braemarscreen.com/api/graphql` (free, no auth; the old script called a
+  404 URL). `prevClose` equals our SGX settlements exactly; `price` moves intraday. No broker name on
+  the page. `scripts/clarksons/ffa_live_recorder.py` + `ffa_live_recorder.yml` read every 2 min on
+  weekdays 00:05-18:30 UTC, store only changes in `data/ffa_live/ticks/YYYY-MM.csv`, `daily.csv`,
+  `latest.json`; commits on top of origin/main (never conflicts); page reads `latest.json` from
+  raw.githubusercontent.com every 2 min. Backs off 15 min on 403/429, stops after 3. Alert at 3%.
+  SGX publishes each settlement the same evening UTC (the 22:00 job always has same-day settle).
+  **Pending:** one-off cloud routine `trig_01JmnWV13avELRUaWySa6JKZ` on 2026-09-15 08:30 UTC checks
+  for pre-London price changes and trims the 00:05 run (commits only if the data says so).
+- **Indices** (`73cc2dbe8`, `1e3be82c7`, `a312de3f7`): 44 cards, pairs and 2x2 blocks by lane
+  (see `INDICES_ORDER` comments); BLNG, BLPG, BAI00 added (already collected, never shown); route
+  tooltips (`ROUTE_TT`); no grey source line. Dashboard master is a rolling 5-year window (207 KB,
+  flat; was growing toward the 250 KB ceiling). Verified by query: C9_182/C10_182 start 2024-09-02 and
+  S1C/S4A/S4B/S10 start 2023-05-02 in the source, which is full depth; the Supramax start matches
+  the Baltic's BSI63 reporting start (2 May 2023). Dead LPG freight chart removed.
+- **Tracking look** (`992b6c1dd`): ports are canvas circles sized by calls (were glowing DOM badges
+  merging into blue blobs), labels only from zoom 5 for the busiest ports in view, non-overlapping;
+  ended disruptions are thin rings, only ongoing ones pulse. Vessel canvas passes misses to the port
+  canvas. Broker Desk no longer downloads its caches twice (tab sweep 58.4 -> 52.6 MB).
+- **Scheduled Pipeline Sync** red since 09-13: daily re-run of one-off BDI/BAI backfills crashed on
+  ISO dates. Those now need `--with-index-backfill`.
+- **ETFs** (`f41930bc7`): Baltic index route-weight guide (.docx) and workbook (.xlsx) under both ETF
+  cards (`assets/reference/`), checked against the taxonomy; "effective weight" relabelled nominal,
+  unconfirmed gas-carrier specs removed.
+- **Line endings** (`da32a75c6`, `35f978cf0`): every `to_csv`, `csv.writer` and text-mode write in
+  `scripts/` sets LF; `tests/test_lf_writers.py` guards it. This was the phantom
+  `vessel_valuations.csv` diff that blocked rebases on Windows.
+- **Tests leave data/ as found**: `tests/conftest.py` restores tracked `data/` files a run changed
+  and removes files it created (files already modified before the run are untouched). Builder
+  tests still run the real builders on the real data.

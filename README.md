@@ -247,10 +247,11 @@ A **Quarterly ⇄ Monthly** toggle switches the whole workspace; the heatmap fol
 
 Dedicated benchmark monitoring suite. Filters: **All · Baltic Freight · Dry Routes · Tanker Routes · Maritime Equities · Futures & ETFs** (counts reflect cards actually shown).
 
-Card order: BDI → vessel-class indices (Capesize, Panamax, Supramax, Handysize) → dry routes → tanker indices (BDTI, BCTI) → tanker routes → Capital Link equities → futures & ETFs.
+Cards are laid out two per row so related charts sit side by side, and four related cards form a 2×2 block: BDI | BDRY spot · Capesize | Panamax · Supramax | Handysize · Capesize routes (C3 | C5 over C9 | C10) · Panamax routes · Supramax routes · BDRYFF | BDRY · BDTI | BCTI · tanker lanes paired by origin · BWETFF | BWET · Baltic LNG | Baltic LPG · gas and MLP equities · broad and sector equities · container equities | Baltic Air Freight. The order lives in `INDICES_ORDER` in `index.html`; a new live route not listed there is still shown at the end of its group.
 
 - **Index cards** load full history on tab open (BDI from 1985, vessel classes from 2008); the range slider reaches the first print and defaults to the last 5 years.
-- **Dry route cards** (Fearnleys route assessments): C3, C5, C9_182, C10_182, P1A_82–P4_82, S1C, S4A, S4B, S10.
+- **Baltic LNG (BLNG), Baltic LPG (BLPG), Baltic Air Freight (BAI00)**: Baltic Exchange ticker series from `scripts/baltic_new_indices.py`. BLNG and BLPG are recorded from 13 Mar 2026, so their stats show "Since 13 Mar" instead of YTD.
+- **Dry route cards** (Fearnleys route assessments): C3, C5, C9_182, C10_182, P1A_82–P4_82, S1C, S4A, S4B, S10. C9_182/C10_182 start 2024-09-02 and the Supramax routes 2023-05-02 because that is where the source's series begin (the Baltic's 63,500 dwt Supramax routes started reporting on 2 May 2023); every print since is shown. Each card's header tooltip says what the route measures.
 - **Tanker route cards** (Worldscale points): Fearnleys daily assessments from 2018-05 — VLCC MEG/Far East (**TD3C**), VLCC WAF/Far East, VLCC MEG/USG, Suezmax WAF/UKC (**TD20**), Suezmax Black Sea/Med, Aframax USG/UKC-Med (**TD25**), Aframax Ceyhan/Med, Aframax Caribs/USG — plus Gibson **TC1** and **TC5**. A Baltic code is shown only where the series tracks Gibson's print of that code (median gap 1.3–2.2%); titles match `data/reference/baltic_route_taxonomy.json` verbatim.
 - Routes are built into `data/views/routes/` by `scripts/build_views.py` and lazy-loaded. A route with no print for 30 days is hidden automatically; discontinued feeds (Fearnleys tanker tsIds 1–9, Primorsk/UKC) are not wired.
 - Stats strip: 52W High—Low · 52W Position · YTD % · From Last Trough.
@@ -365,7 +366,9 @@ Fearnleys-sourced rate history plus period, route and capital-cycle modules.
 - **Tonnage Basin Arbitrage (Atlantic vs Pacific TC)**: each tenor opens on its own full span (1Y from 2015; 4-6M and 2Y from mid-2021, which is where Alibra's basin split starts); a note shows where the selected tenor's data begins.
 - **Commercial Fleet Supply & Orderbook**, **Vessel Valuations & Capital Yield**, **Shipping Market Cycle Quadrant**.
 - **LNG / LPG TC and Spot families**: real 174k 7Y/10Y TC and LPG TC/spot from `lng_charter_rates.csv` / `lpg_*` (rebuilt daily).
+- **Forward FFA strip** (Overview): live dry-bulk FFA prices for Capesize, Panamax, Supramax and Handysize (Sep, Oct, next two quarters, Cal) against the previous SGX settlement, with the day's path and a banner when any contract is 3% or more away. `scripts/clarksons/ffa_live_recorder.py` (`ffa_live_recorder.yml`) reads every 2 minutes on weekdays 00:05–18:30 UTC and stores every change in `data/ffa_live/` (`ticks/YYYY-MM.csv`, `daily.csv`, `latest.json`); the page re-reads `latest.json` from raw.githubusercontent.com every 2 minutes while open.
 - **Data Catalogue & Provenance Museum**, **Broker Voice & Research Repository**, **Backtest Lab**.
+- **Broker Voice** sources refresh twice daily in `broker_voice_sync.yml`: Fearnleys desk comments, research PDFs, fixtures and S&P deals (`scripts/fearnleys/daily_fearnleys_sync.py`, paged until caught up) and the Gibson research catalogue (`scripts/scrapers/fetch_gibson_catalog.py`). `scripts/verify/check_broker_voice_fresh.py` then asks each source for its newest items and fails the run if any is missing.
 
 ---
 
@@ -642,7 +645,7 @@ flowchart LR
 
 ## 6. Automated GitHub Actions Workflows
 
-The repository maintains itself via 19 idempotent GitHub Actions workflows:
+The repository maintains itself via its GitHub Actions workflows (the main ones below):
 
 | Workflow File | Cron Schedule | Triggers | Execution Script Sequence | Function & Output |
 | :--- | :--- | :--- | :--- | :--- |
@@ -660,7 +663,10 @@ The repository maintains itself via 19 idempotent GitHub Actions workflows:
 | [`daily_knowledge_update.yml`](file:///.github/workflows/daily_knowledge_update.yml) | `30 15 * * *` | Daily 3:30 PM UTC | `python scripts/check_breakwave_freshness.py` | Incremental health check; triggers rebuild if source files outpace knowledge base. |
 | [`fearnleys_weekly.yml`](file:///.github/workflows/fearnleys_weekly.yml) | `45 6 * * 3` | Wednesdays 6:45 AM UTC / Dispatch | `python scripts/fetch_fearnleys_tc.py` | Pulls the weekly Fearnleys TC edition into `data/derived/time_charter_rates_fearnleys.csv`. |
 | [`data_expansion.yml`](.github/workflows/data_expansion.yml) | `0 5 * * 1-4` | Mon–Thu 5 AM UTC / Dispatch | expansion collectors<br>`daily_fearnleys_sync.py`<br>`fetch_dry_routes_ts.py --refresh`<br>`build_tanker_routes_daily.py`<br>`build_gas_rate_csvs.py --verify`<br>`build_desk_caches.py` | Runs the expansion collectors (SGX, World Bank Pink Sheet, PortWatch, bunkers), then the Fearnleys daily sync and every cache built from it: dry routes, tanker routes, LNG/LPG rate CSVs and the Broker Desk gas overlay. Idempotent upserts with per-step graceful failure. |
-| [`pages.yml`](file:///.github/workflows/pages.yml) | On push to `main` + after any data workflow completes | `workflow_run` ×10 / Push / Dispatch | Static Artifact Upload & Deploy | Deploys static site to GitHub Pages; re-deploys whenever any upstream data workflow finishes so published data stays fresh. Heavy knowledge artifacts (`knowledge/docs`, `trees`, `manifests`, bulk of `derived`) are stripped pre-packaging, but the compact `breakwave_signals.json` (62 KB) and `knowledge/chunks/` (incl. the `index.json` shard manifest) ship to production. |
+| [`broker_voice_sync.yml`](.github/workflows/broker_voice_sync.yml) | `20 7 * * *`<br>`20 17 * * *` | Twice daily / Dispatch | `daily_fearnleys_sync.py`<br>`build_comment_chunks.py`<br>`fetch_gibson_catalog.py`<br>`check_broker_voice_fresh.py` | Keeps the Broker Voice repository current: Fearnleys comments, reports, fixtures, S&P deals and the Gibson catalogue; fails red if any published item is missing. |
+| [`ffa_live_recorder.yml`](.github/workflows/ffa_live_recorder.yml) | `5 0 * * 1-5`<br>`55 5 * * 1-5`<br>`5 12 * * 1-5` | Mon–Fri, three runs 00:05–18:30 UTC | `ffa_live_recorder.py --interval 120 --push` | Records live dry-bulk FFA prices against the SGX settlement every 2 minutes into `data/ffa_live/`, pushing every 10 minutes when prices moved. |
+| [`scheduled_pipeline_sync.yml`](.github/workflows/scheduled_pipeline_sync.yml) | `0 5 * * *` | Daily 5 AM UTC / Dispatch | fleet supply, cargo, chokepoint, macro backtest builders<br>`backfill_historical_data.py`<br>`build_provenance_manifest.py` | Rebuilds derived cargo, chokepoint and analytics caches, time-charter merge and vessel valuations. The one-off BDI/BAI00 backfills only run with `--with-index-backfill`. |
+| [`pages.yml`](file:///.github/workflows/pages.yml) | On push to `main` + after any scheduled data workflow completes | `workflow_run` / Push / Dispatch | Static Artifact Upload & Deploy | Deploys static site to GitHub Pages; re-deploys whenever any upstream data workflow finishes so published data stays fresh. Heavy knowledge artifacts (`knowledge/docs`, `trees`, `manifests`, bulk of `derived`) are stripped pre-packaging, but the compact `breakwave_signals.json` (62 KB) and `knowledge/chunks/` (incl. the `index.json` shard manifest) ship to production. |
 
 ---
 
@@ -821,9 +827,18 @@ Everything under `tests/` must pass. Run the non-browser tests and the browser s
 (the browser suite drives every tab in headless Chromium and takes ~20 minutes):
 
 ```bash
-python -m pytest tests -q --ignore=tests/test_ui_tabs.py    # 305 passed, 1 skipped
-python -m pytest tests/test_ui_tabs.py -q                   # 26 passed
+python -m pytest tests -q --ignore=tests/test_ui_tabs.py    # 300 passed, 1 skipped
+python -m pytest tests/test_ui_tabs.py -q                   # 27 passed
 ```
+
+Some tests run the real builders on the real data and check the output. `tests/conftest.py`
+restores any tracked file under `data/` the run changed and removes files it created, so a test run
+leaves the working tree as it found it (files you had already edited are not touched).
+
+Every CSV and text writer in `scripts/` writes LF line endings (`lineterminator="\n"`,
+`newline="\n"`); `tests/test_lf_writers.py` fails if a new one does not. Without it a local run on
+Windows rewrote files such as `data/derived/vessel_valuations.csv` with CRLF and git showed every
+line as changed.
 
 If a run hangs or reports memory allocation failures, kill leftover `python -m http.server` and
 `ms-playwright` processes first; it is memory, not code.
