@@ -475,17 +475,16 @@ def test_bunker_port_detail_code_fallback_and_feedback():
 
 
 def test_broker_branding_demoted_in_panel_headings():
-    """G-2: Third-party broker branding must be demoted in panel titles (e.g.
-    'FORWARD FFA STRIP' instead of leading with 'BRAEMAR LIVE FORWARD FFA STRIP')
-    while preserving authentic source attribution, provenance manifest entries,
-    and tooltips intact.
+    """G-2: The forward strip names no third-party broker anywhere on the page,
+    while still telling the reader what the numbers are: a live market snapshot
+    with its time, and the change against the previous SGX settlement.
     """
     html = HTML_PATH.read_text(encoding="utf-8")
-    # Neutral panel heading
     assert "FORWARD FFA STRIP" in html
-    assert "BRAEMAR LIVE FORWARD FFA STRIP" not in html
-    # Preserved source attribution
-    assert "Source: Braemar ACM Shipbroking" in html
+    assert not re.search(r"(?i)braemar", html)
+    assert "Live market snapshot" in html
+    assert "vs previous SGX settlement" in html
+    assert "fetch('data/clarksons/ffa_live_snapshot.json'" in html
 
 
 def test_broker_voice_pagination_and_selectors():

@@ -128,7 +128,7 @@
     },
     {
       "element": "<DIV class='' id=''>",
-      "clean_snippet": "What: Braemar FFA Forward Quote \u00b7 CAPESIZE Q1 | When: Prompt forward curve | Source: Braemar ACM Shipbroking G",
+      "clean_snippet": "What: live FFA market price \u00b7 CAPESIZE Q1 | When: snapshot, refreshed every 30 min in London trading hours",
       "char_length": 121,
       "len_ok": true,
       "beats_count": 1,

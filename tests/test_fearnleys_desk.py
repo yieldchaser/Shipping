@@ -179,12 +179,12 @@ def test_comment_chunks_complete_and_idempotent():
 def test_fearnleys_strip_visibility_overview_only():
     """G-1 / Assertion 5: Forward FFA strip belongs to Overview only, not on other sub-tabs."""
     html = (ROOT / "index.html").read_text(encoding="utf-8")
-    assert 'id="fearnBraemarStrip"' in html
+    assert 'id="fearnFfaStrip"' in html
     sec1_pos = html.find('id="fearnSec1"')
-    strip_pos = html.find('id="fearnBraemarStrip"')
+    strip_pos = html.find('id="fearnFfaStrip"')
     sec2_pos = html.find('id="fearnSec2"')
     assert sec1_pos != -1 and strip_pos != -1 and sec2_pos != -1
-    assert sec1_pos < strip_pos < sec2_pos, "fearnBraemarStrip must reside inside fearnSec1 (Overview) only"
+    assert sec1_pos < strip_pos < sec2_pos, "fearnFfaStrip must reside inside fearnSec1 (Overview) only"
 
 
 def test_museum_prose_count_no_contradiction():

@@ -48,7 +48,6 @@ jobs:
           python scripts/scrapers/fetch_hsn_shipbrokers.py "$PAGES"
           python scripts/update_intermodal_tc_rates.py
           python scripts/scrapers/fetch_gibson_weekly.py || true
-          python scripts/clarksons/fetch_braemar_rates.py || true
           python scripts/extract_demolition_pdfs.py || true
 
       - name: Commit & Push New Broker Reports

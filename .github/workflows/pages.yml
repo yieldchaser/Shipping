@@ -17,6 +17,7 @@ on:
       - "Fearnleys Weekly TC Update"
       - "Data Expansion Collectors"
       - "Broker Voice Sync"
+      - "FFA Live Snapshot"
       - "Weekly Broker Reports Ingest"
       - "Offshore Seabreeze Monthly Pipeline"
       - "Weekly Poten Opinions & Drewry WCI Ingest"
@@ -65,6 +66,8 @@ jobs:
 
       - name: Clean Heavy Folders Before Pages Packaging
         run: |
+          # Internal planning and research notes are not part of the site.
+          rm -rf docs/megaprompts docs/research docs/*.md docs/*.yaml docs/*.ipynb docs/*.docx
           rm -rf reports scratch knowledge/docs knowledge/trees knowledge/manifests .agents .claude .code-review-graph .codex .cursor .gemini .kiro .qoder .vscode
           # knowledge/derived is ~135 MB; the frontend only needs the compact
           # breakwave_signals.json (62 KB) from it. Deleting the heavy files but

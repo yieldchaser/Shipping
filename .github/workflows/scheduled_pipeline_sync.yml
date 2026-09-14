@@ -40,7 +40,6 @@ jobs:
           python scripts/backfill_historical_data.py
           python scripts/scenario_snapshot_schema.py
           python scripts/verify/build_provenance_manifest.py
-          python scripts/clarksons/fetch_braemar_rates.py || true
 
       - name: Commit and push changes
         run: |

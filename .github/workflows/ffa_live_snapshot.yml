@@ -1,0 +1,61 @@
+name: FFA Live Snapshot
+
+# Broker Desk forward FFA strip: live dry-bulk FFA prices plus the previous SGX
+# settlement, snapshotted every 30 minutes while the London FFA market trades.
+# Outside these hours the page labels the last snapshot with its time.
+
+on:
+  schedule:
+    - cron: '5,35 7-17 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ffa-live-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+          sparse-checkout: |
+            scripts/clarksons
+            data/clarksons
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch snapshot
+        run: python scripts/clarksons/fetch_ffa_live_snapshot.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/clarksons/ffa_live_snapshot.json
+          if git diff --staged --quiet; then
+            echo "Snapshot unchanged."
+            exit 0
+          fi
+          git commit -m "data(ffa): live FFA snapshot $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
+          for attempt in 1 2 3 4; do
+            if git pull --rebase --depth=50 origin main && git push origin HEAD:main; then
+              echo "Push succeeded on attempt $attempt."
+              exit 0
+            fi
+            echo "Push race on attempt $attempt. Retrying in 15s..."
+            sleep 15
+          done
+          exit 1

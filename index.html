@@ -13200,16 +13200,16 @@
 
       <!-- S1 OVERVIEW -->
       <div class="fearn-sec" id="fearnSec1" style="display:none;">
-        <!-- FORWARD FFA STRIP (Wave 4) -->
-        <div id="fearnBraemarStrip" style="margin-bottom:16px;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:6px;">
+        <!-- FORWARD FFA STRIP: live market snapshot (data/clarksons/ffa_live_snapshot.json) -->
+        <div id="fearnFfaStrip" style="margin-bottom:16px;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:6px;">
           <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:10px;">
             <div style="display:flex;align-items:center;gap:8px;">
               <span style="font-weight:700;font-size:12px;font-family:'IBM Plex Mono',monospace;color:var(--text-bright);">FORWARD FFA STRIP</span>
-              <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">As of 10 Sep 2026</span>
+              <span class="badge" id="ffaStripAsOf" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Loading…</span>
             </div>
-            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">Source: Braemar ACM Shipbroking · Cape / Panamax / Supramax / Handysize tenors</div>
+            <div style="font-size:11px;color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" data-tooltip="Live dry-bulk FFA market prices, snapshotted every 30 minutes during London trading hours (Mon-Fri 07:00-17:30 UTC). Each change is measured against the previous SGX settlement for that tenor; quarter and calendar settlements are the average of their monthly contracts.">Live market snapshot · change vs previous SGX settlement · Cape / Panamax / Supramax / Handysize</div>
           </div>
-          <div id="braemarTickerGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
+          <div id="ffaStripGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:10px;"></div>
         </div>
         <div class="chart-container mb-20">
           <div class="chart-header">
@@ -14795,7 +14795,7 @@ if (intelTabsContainer) {
               <div class="cp-controls-bar" style="margin-top:10px;">
                 <div class="cp-btn-group">
                   <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')" data-tooltip="Full historical transit observation series from AIS and IMF PortWatch (2019–2026).">Max (2019-2026)</button>
-                  <button class="cp-toggle-btn" id="cpRangeYoy" data-range="yoy" onclick="setChokepointRange('yoy')" data-tooltip="Year-over-Year overlay (Braemar pattern): Jan–Dec seasonal comparison across 2019–2026.">YoY Overlay</button>
+                  <button class="cp-toggle-btn" id="cpRangeYoy" data-range="yoy" onclick="setChokepointRange('yoy')" data-tooltip="Year-over-Year overlay: Jan–Dec seasonal comparison across 2019–2026.">YoY Overlay</button>
                   <button class="cp-toggle-btn" data-range="5y" onclick="setChokepointRange('5y')" data-tooltip="5-year historical transit trend (2021–2026).">5Y</button>
                   <button class="cp-toggle-btn" data-range="3y" onclick="setChokepointRange('3y')" data-tooltip="3-year transit trend capturing Red Sea &amp; Panama Canal disruption cycles (2023–2026).">3Y</button>
                   <button class="cp-toggle-btn" data-range="1y" onclick="setChokepointRange('1y')" data-tooltip="Trailing 12-month monthly transit volume.">1Y</button>
@@ -18262,10 +18262,10 @@ if (intelTabsContainer) {
           .catch(err => { console.warn('[fearnleysSeries fetch error]', err); DATA.fearnleysSeries = null; }),
         loadFearnDailyCaches(),
         loadSignalsData(),
-        fetch('data/clarksons/braemar_live_rates.json', { cache: 'no-cache' })
+        fetch('data/clarksons/ffa_live_snapshot.json', { cache: 'no-cache' })
           .then(res => res.ok ? res.json() : null)
-          .then(data => { DATA.braemarLiveRates = data; if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip(); })
-          .catch(err => { console.warn('[braemarLiveRates fetch error]', err); DATA.braemarLiveRates = null; }),
+          .then(data => { DATA.ffaStrip = data; if (typeof renderFfaForwardStrip === 'function') renderFfaForwardStrip(); })
+          .catch(err => { console.warn('[ffaStrip fetch error]', err); DATA.ffaStrip = null; }),
         fetch('data/clarksons/gibson_all_reports_catalog.json', { cache: 'no-cache' })
           .then(res => res.ok ? res.json() : null)
           .then(data => { DATA.gibsonReportsCatalog = data; if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters(); })
@@ -18300,7 +18300,7 @@ if (intelTabsContainer) {
           if (window.currentTab === 'fearnleys' && (typeof FDESK === 'undefined' || !FDESK.sec || FDESK.sec === 1)) {
             if (typeof renderFearnOverview === 'function') renderFearnOverview();
           }
-          if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip();
+          if (typeof renderFfaForwardStrip === 'function') renderFfaForwardStrip();
           if (typeof initFearnVoiceFilters === 'function') initFearnVoiceFilters();
           if (typeof renderFearnVoice === 'function' && typeof FDESK !== 'undefined' && FDESK.sec === 10) renderFearnVoice();
           if (typeof renderFearnMuseum === 'function' && typeof FDESK !== 'undefined' && FDESK.sec === 9) renderFearnMuseum();
@@ -23354,7 +23354,7 @@ function buildMaster() {
         zSparkDry: '<div class=\'rt-title\'>Dry Bulk Z-Score Sparkline</div><div class=\'rt-note\'>Composite utilization z-score history for dry bulk; zero line = long-run average, computed from the utilization cache.</div>',
         zSparkTanker: '<div class=\'rt-title\'>Tanker Z-Score Sparkline</div><div class=\'rt-note\'>Composite utilization z-score history for tankers; zero line = long-run average, computed from the utilization cache.</div>',
         timeCharterChart: '<div class=\'rt-title\'>Spot vs Period Term Arbitrage</div><div class=\'rt-row\'><span class=\'rt-label\'>What</span><span class=\'rt-val\'>Daily Spot vs Period TC Rates ($/day)</span></div><div class=\'rt-row\'><span class=\'rt-label\'>When</span><span class=\'rt-val\'>2000–2026 Daily &amp; Weekly</span></div><div class=\'rt-note\'>Overlays spot against 4/6M, 1Y, 2Y, 3Y, 5Y period curves to evaluate contango and backwardation. Source: Clarksons / Baltic.</div>',
-        tankerForwardChart: '<div class=\'rt-title\'>Tanker FFA Forward Term Structures</div><div class=\'rt-row\'><span class=\'rt-label\'>What</span><span class=\'rt-val\'>22-Month FFA Forward Curves</span></div><div class=\'rt-row\'><span class=\'rt-label\'>When</span><span class=\'rt-val\'>Prompt through deferred contract tenors</span></div><div class=\'rt-note\'>Settlement curves across VLCC TD3C, Suezmax TD20, Aframax TD25, Clean LR1 TC5, MR. Source: Braemar ACM / Baltic.</div>',
+        tankerForwardChart: '<div class=\'rt-title\'>Tanker FFA Forward Term Structures</div><div class=\'rt-row\'><span class=\'rt-label\'>What</span><span class=\'rt-val\'>22-Month FFA Forward Curves</span></div><div class=\'rt-row\'><span class=\'rt-label\'>When</span><span class=\'rt-val\'>Prompt through deferred contract tenors</span></div><div class=\'rt-note\'>Settlement curves across VLCC TD3C, Suezmax TD20, Aframax TD25, Clean LR1 TC5, MR. Source: broker FFA forward assessments on Baltic route definitions.</div>',
         basinSpreadChart: '<div class=\'rt-title\'>Tonnage Basin Arbitrage</div><div class=\'rt-row\'><span class=\'rt-label\'>What</span><span class=\'rt-val\'>Atlantic vs Pacific TC Spread ($/day)</span></div><div class=\'rt-row\'><span class=\'rt-label\'>When</span><span class=\'rt-val\'>Daily &amp; weekly freight series</span></div><div class=\'rt-note\'>Inter-basin freight premium driving fleet ballast repositioning. Source: Clarksons / Baltic.</div>',
         vesselValuationsChart: '<div class=\'rt-title\'>Vessel Valuations &amp; Capital Yield</div><div class=\'rt-row\'><span class=\'rt-label\'>What</span><span class=\'rt-val\'>10Y Asset Value vs Scrap Floor &amp; Charter Yield</span></div><div class=\'rt-row\'><span class=\'rt-label\'>When</span><span class=\'rt-val\'>Monthly asset price history</span></div><div class=\'rt-note\'>Downside scrap equity protection and 1Y TC cash yields. Source: Clarksons S&amp;P / Intermodal.</div>',
         marketCycleQuadrantChart: '<div class=\'rt-title\'>Shipping Market Cycle Quadrant</div><div class=\'rt-row\'><span class=\'rt-label\'>What</span><span class=\'rt-val\'>4-Phase Cycle Positioning (Momentum vs Spot/TC)</span></div><div class=\'rt-row\'><span class=\'rt-label\'>When</span><span class=\'rt-val\'>Active regime tracking</span></div><div class=\'rt-note\'>Categorizes market into Recovery, Boom, Over-ordering, and Restructuring phases. Source: Clarksons / Fearnleys.</div>',
@@ -43753,7 +43753,7 @@ function renderChokepointChart(cp) {
   var range = trackingActiveChokepointRange;
   var metric = trackingActiveChokepointMetric;
 
-  // 1. Year-over-Year overlay (Braemar pattern: 2019–2026 across Jan–Dec)
+  // 1. Year-over-Year overlay (2019–2026 across Jan–Dec)
   if (range === 'yoy') {
     var yoyLabels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
     var monthly = cp.monthly_series || [];
@@ -51191,7 +51191,6 @@ function fearnManifestTabFor(output_file) {
   if (f.indexOf('dry_routes') >= 0) return 'fearnleys';
   if (f.indexOf('fixtures') >= 0) return 'fearnleys';
   if (f.indexOf('snp') >= 0 || f.indexOf('vessel_valuations') >= 0) return 'fearnleys';
-  if (f.indexOf('braemar') >= 0) return 'fearnleys';
   return 'dashboard';
 }
 
@@ -51210,7 +51209,6 @@ function fearnNavigateToSeries(output_file, series_id) {
   if (f.indexOf('dry_routes') >= 0) { window.switchTab('fearnleys'); return window.switchFearnSection(4); }
   if (f.indexOf('fixtures') >= 0) { window.switchTab('fearnleys'); return window.switchFearnSection(8); }
   if (f.indexOf('snp') >= 0 || f.indexOf('vessel_valuations') >= 0) { window.switchTab('fearnleys'); return window.switchFearnSection(5); }
-  if (f.indexOf('braemar') >= 0) return window.switchTab('fearnleys');
   return window.switchTab('dashboard');
 }
 
@@ -51508,72 +51506,74 @@ function fearnSeriesCache() {
   return (c && c.labels) ? c : null;
 }
 
-function renderBraemarForwardStrip() {
-  var grid = document.getElementById('braemarTickerGrid');
+function renderFfaForwardStrip() {
+  var grid = document.getElementById('ffaStripGrid');
   if (!grid) return;
-  var bData = window.DATA && DATA.braemarLiveRates;
-  var tickers = bData && bData.data && bData.data.brokerSite && bData.data.brokerSite.ticker;
-  if (!tickers || !tickers.length) {
-    grid.innerHTML = '<div style="font-size:11px;color:var(--text-muted);padding:8px 0;">Braemar live forward rates feed pending or loading...</div>';
+  var badge = document.getElementById('ffaStripAsOf');
+  var v = window.DATA && DATA.ffaStrip;
+  var segs = v && v.segments;
+  if (!segs || !segs.length) {
+    if (badge) badge.textContent = 'Unavailable';
+    grid.innerHTML = '<div style="font-size:11px;color:var(--text-muted);padding:8px 0;">Live FFA snapshot not available.</div>';
     return;
   }
+  var at = new Date(v.fetched_at_utc);
+  var ageMin = (Date.now() - at.getTime()) / 60000;
+  var hhmm = at.toISOString().slice(11, 16) + ' UTC';
+  var day = at.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', timeZone: 'UTC' });
+  if (badge) {
+    // Within an hour of a 30-minute snapshot the prices are current; after that
+    // (market closed, weekend, or a missed run) say plainly when they are from.
+    badge.textContent = ageMin <= 60 ? 'Live · ' + hhmm : 'Snapshot ' + day + ' ' + hhmm;
+  }
   var classMeta = {
-    'Cape': { label: 'CAPESIZE', sub: 'Baltic C5TC Tenors', color: '#58a6ff' },
-    'Pmax': { label: 'PANAMAX', sub: 'Baltic P4TC/P5TC Tenors', color: '#3fb950' },
-    'Smax': { label: 'SUPRAMAX', sub: 'Baltic S10TC Tenors', color: '#d29922' },
-    'Handy': { label: 'HANDYSIZE', sub: 'Baltic H7TC Tenors', color: '#bc8cff' }
+    cape: { sub: 'Capesize TC average', color: '#58a6ff' },
+    panamax: { sub: 'Panamax TC average', color: '#3fb950' },
+    supramax: { sub: 'Supramax TC average', color: '#d29922' },
+    handysize: { sub: 'Handysize TC average', color: '#bc8cff' }
   };
-  var html = tickers.map(function (t) {
-    var meta = classMeta[t.name] || { label: (t.name || '').toUpperCase(), sub: 'FFA Tenors', color: '#58a6ff' };
-    var prods = t.products || [];
-    var firstP = prods.length ? parseFloat(prods[0].price) : 0;
-    var lastP = prods.length > 1 ? parseFloat(prods[prods.length - 1].price) : firstP;
-    var curveSpread = lastP - firstP;
+  grid.innerHTML = segs.map(function (seg) {
+    var meta = classMeta[seg.key] || { sub: 'FFA', color: '#58a6ff' };
+    var ts = seg.tenors || [];
     var curveBadge = '';
-    if (prods.length > 1) {
-      if (curveSpread < -500) {
-        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(248,81,73,0.15);color:#f85149;border:1px solid rgba(248,81,73,0.3);">Backwardated (-$' + Math.abs(Math.round(curveSpread)).toLocaleString('en-US') + ')</span>';
-      } else if (curveSpread > 500) {
-        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Contango (+$' + Math.round(curveSpread).toLocaleString('en-US') + ')</span>';
+    if (ts.length > 1) {
+      var spread = ts[ts.length - 1].price - ts[0].price;
+      if (spread < -500) {
+        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(248,81,73,0.15);color:#f85149;border:1px solid rgba(248,81,73,0.3);">Backwardated (-$' + Math.abs(Math.round(spread)).toLocaleString('en-US') + ')</span>';
+      } else if (spread > 500) {
+        curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">Contango (+$' + Math.round(spread).toLocaleString('en-US') + ')</span>';
       } else {
         curveBadge = '<span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(200,200,200,0.1);color:var(--text-muted);border:1px solid var(--border);">Flat</span>';
       }
     }
-    var prodPills = prods.map(function (p) {
-      var pr = parseFloat(p.price) || 0;
-      var pc = parseFloat(p.prevClose) || pr;
-      var diff = pr - pc;
-      var diffStr = Math.abs(diff) > 0.01
-        ? (diff > 0 ? '+$' + Math.round(diff).toLocaleString('en-US') : '-$' + Math.abs(Math.round(diff)).toLocaleString('en-US'))
-        : 'Settled';
-      var diffColor = diff > 0.01 ? '#3fb950' : (diff < -0.01 ? '#f85149' : 'var(--text-muted)');
-      var tt = 'What: Braemar FFA Forward Quote \u00b7 ' + meta.label + ' ' + (p.name || '') + ' | When: Prompt forward curve | Source: Braemar ACM Shipbroking GraphQL feed';
+    var pills = ts.map(function (t) {
+      var diff = t.price - t.settle;
+      var diffStr = Math.abs(diff) < 0.5 ? 'unch' : (diff > 0 ? '+$' : '-$') + Math.abs(Math.round(diff)).toLocaleString('en-US');
+      var diffColor = Math.abs(diff) < 0.5 ? 'var(--text-muted)' : (diff > 0 ? '#3fb950' : '#f85149');
+      var tt = 'What: live FFA market price · ' + seg.label + ' ' + t.name +
+        ' | When: snapshot ' + day + ' ' + hhmm + ', refreshed every 30 min in London trading hours' +
+        ' | Change: vs previous SGX settlement $' + Math.round(t.settle).toLocaleString('en-US');
       return '<div style="flex:1;min-width:68px;padding:6px 8px;background:var(--card-subtle);border:1px solid var(--border);border-radius:4px;text-align:center;" data-tooltip="' + escapeHtml(tt) + '">' +
-        '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(p.name || '') + '</div>' +
-        '<div style="font-size:12px;font-weight:700;font-family:\'IBM Plex Mono\',monospace;color:var(--text-bright);margin-bottom:2px;">$' + Math.round(pr).toLocaleString('en-US') + '</div>' +
+        '<div style="font-size:11px;font-weight:700;color:var(--text-muted);margin-bottom:2px;">' + escapeHtml(t.name) + '</div>' +
+        '<div style="font-size:12px;font-weight:700;font-family:\'IBM Plex Mono\',monospace;color:var(--text-bright);margin-bottom:2px;">$' + Math.round(t.price).toLocaleString('en-US') + '</div>' +
         '<div style="font-size:11px;color:' + diffColor + ';font-family:\'IBM Plex Mono\',monospace;">' + diffStr + '</div>' +
         '</div>';
     }).join('');
-
     return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;display:flex;flex-direction:column;gap:8px;">' +
       '<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;">' +
-      '<div>' +
-      '<span style="font-weight:700;font-size:12px;color:' + meta.color + ';font-family:\'IBM Plex Mono\',monospace;">' + meta.label + '</span> ' +
-      '<span style="font-size:11px;color:var(--text-muted);">' + meta.sub + '</span>' +
-      '</div>' +
-      curveBadge +
-      '</div>' +
-      '<div style="display:flex;gap:6px;flex-wrap:wrap;">' + prodPills + '</div>' +
+      '<div><span style="font-weight:700;font-size:12px;color:' + meta.color + ';font-family:\'IBM Plex Mono\',monospace;">' + escapeHtml(seg.label) + '</span> ' +
+      '<span style="font-size:11px;color:var(--text-muted);">' + meta.sub + '</span></div>' +
+      curveBadge + '</div>' +
+      '<div style="display:flex;gap:6px;flex-wrap:wrap;">' + pills + '</div>' +
       '</div>';
   }).join('');
-  grid.innerHTML = html;
 }
 
 function renderFearnleysTab() {
   if (!DATA.loaded) return;
   if (typeof loadFearnDailyCaches === 'function') loadFearnDailyCaches();
   initFearnSubNav();
-  if (typeof renderBraemarForwardStrip === 'function') renderBraemarForwardStrip();
+  if (typeof renderFfaForwardStrip === 'function') renderFfaForwardStrip();
   switchFearnSection(FDESK.sec || 1);
   // Pre-initialize sub-sections so canvases and HUD indicators are rendered
   if (typeof fearnLoadDeskCaches === 'function') {
