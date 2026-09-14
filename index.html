@@ -33661,10 +33661,29 @@ function renderSignalsTab(productKey) {
         var ffaRegime = Math.abs(ffaSlope) < 150 ? 'FLAT' : (ffaSlope > 0 ? 'CONTANGO' : 'BACKWARDATION');
         var ffaColor = ffaRegime === 'CONTANGO' ? '#3fb950' : (ffaRegime === 'BACKWARDATION' ? '#f85149' : '#8b949e');
         var ffaBg = ffaRegime === 'CONTANGO' ? 'rgba(63,185,80,0.15)' : (ffaRegime === 'BACKWARDATION' ? 'rgba(248,81,73,0.15)' : 'rgba(139,148,158,0.15)');
-        regimeBadge.textContent = ffaRegime + ' (' + (ffaSlope >= 0 ? '+' : '') + fmt(ffaSlope, 0) + ' $/d)';
+        regimeBadge.textContent = 'PROMPT ' + ffaRegime + ' (' + (ffaSlope >= 0 ? '+' : '') + fmt(ffaSlope, 0) + ' $/d)';
         regimeBadge.style.color = ffaColor;
         regimeBadge.style.background = ffaBg;
         regimeBadge.style.borderColor = ffaColor;
+
+        var m1Name = labels[0] || 'M1';
+        var m2Name = labels[1] || 'M2';
+        var p0Str = '$' + fmt(curPrices[0], 0);
+        var p1Str = '$' + fmt(curPrices[1], 0);
+        var ffaSlopeStr = (ffaSlope >= 0 ? '+' : '') + fmt(ffaSlope, 0) + ' $/d';
+        var defSlope = (curPrices.length >= 5 && curPrices[4] != null) ? (curPrices[4] - curPrices[0]) : null;
+        var defRegime = defSlope != null ? (defSlope < -200 ? 'Backwardation' : (defSlope > 200 ? 'Contango' : 'Flat')) : '';
+
+        var ttHtml = '<div class="rt-title">SGX FFA ' + prodLabels[_ffaProduct] + ' Term Structure</div>' +
+          '<div class="rt-row"><span class="rt-label">Prompt Spread (' + m1Name + ' vs ' + m2Name + ')</span><span class="rt-val ' + (ffaSlope >= 0 ? 'pos' : 'neg') + '">' + ffaRegime + ' (' + ffaSlopeStr + ')</span></div>' +
+          '<div class="rt-row"><span class="rt-label">' + m1Name + ' Settlement</span><span class="rt-val">' + p0Str + '/d</span></div>' +
+          '<div class="rt-row"><span class="rt-label">' + m2Name + ' Settlement</span><span class="rt-val">' + p1Str + '/d</span></div>' +
+          (defSlope != null ? '<div class="rt-row"><span class="rt-label">Deferred Horizon (' + labels[4] + ')</span><span class="rt-val ' + (defSlope >= 0 ? 'pos' : 'neg') + '">' + defRegime + ' (' + (defSlope >= 0 ? '+' : '') + fmt(defSlope, 0) + ' $/d)</span></div>' : '') +
+          '<div class="rt-note">Badge measures the prompt 1-month roll spread (' + m1Name + ' to ' + m2Name + '). ' +
+          (_ffaProduct === 'cape' ? 'Capesize is in backwardation from prompt iron ore voyage tightness.' : 'Prompt contango in ' + prodLabels[_ffaProduct] + ' reflects peak autumn grain export seasonality before winter lull.') + '</div>';
+
+        regimeBadge.setAttribute('data-tooltip', ttHtml);
+        regimeBadge.style.cursor = 'help';
         regimeBadge.style.display = 'inline-block';
       } else if (regimeBadge) {
         regimeBadge.style.display = 'none';
