@@ -22427,11 +22427,30 @@ function buildMaster() {
       try { renderMacroCyclesTable(etfKey, `macroCyclesTable_${etfKey}`, `macroCyclesDlBtn_${etfKey}`); } catch (e) { console.error('[MacroCycles]', e); }
       try { renderETFDrawdownChart(etfKey); } catch (e) { console.error('[Drawdown]', e); }
 
-      // Set initial NAV element from liquidity dataset
+      // Set initial NAV element from official baseline / flows
       const navEl = card.querySelector(`#etfNav_${etfKey}`);
-      if (navEl && liqRows && liqRows.length) {
-        const lastClose = parseFloat(liqRows[liqRows.length - 1].close);
-        if (!isNaN(lastClose)) navEl.textContent = '$' + lastClose.toFixed(2);
+      if (navEl) {
+        let officialNAV = null;
+        if (typeof window !== 'undefined' && window.SCENARIO_SNAPSHOTS && window.SCENARIO_SNAPSHOTS[etfKey]?.baseline) {
+          const base = window.SCENARIO_SNAPSHOTS[etfKey].baseline;
+          if (base.nav_per_share) officialNAV = base.nav_per_share;
+          else if (base.total_nav_dollars && base.shares_outstanding) officialNAV = base.total_nav_dollars / base.shares_outstanding;
+        }
+        if (!officialNAV) {
+          const flows = etfKey === 'bdry' ? DATA.bdryFlows : DATA.bwetFlows;
+          if (flows && flows.length) {
+            for (let i = flows.length - 1; i >= 0; i--) {
+              const n = parseFloat(flows[i].nav);
+              if (!isNaN(n) && n > 0) { officialNAV = n; break; }
+            }
+          }
+        }
+        if (officialNAV == null && liqRows && liqRows.length) {
+          officialNAV = parseFloat(liqRows[liqRows.length - 1].close);
+        }
+        if (officialNAV != null && !isNaN(officialNAV)) {
+          navEl.textContent = '$' + officialNAV.toFixed(2);
+        }
       }
 
       // Wire CSV download buttons (CHANGE 8)
@@ -22558,9 +22577,8 @@ function buildMaster() {
         }
 
         var navEl = card ? card.querySelector(`#etfNav_${etfKey}`) : null;
-        if (navEl) {
-          const nav = meta.navPrice ?? meta.regularMarketPrice;
-          if (nav != null) navEl.textContent = '$' + Number(nav).toFixed(2);
+        if (navEl && meta.navPrice != null && !isNaN(meta.navPrice)) {
+          navEl.textContent = '$' + Number(meta.navPrice).toFixed(2);
         }
 
         // Update 52W metrics with live price
@@ -22835,10 +22853,27 @@ function buildMaster() {
       const cashRows = holdings.filter(h => classifyHolding(h.Name, h.Ticker, etfKey) === 'cash');
       const totalFutures = futuresRows.reduce((s, h) => s + (parseFloat(h.Market_Value) || 0), 0);
       const totalCash = cashRows.reduce((s, h) => s + (parseFloat(h.Market_Value) || 0), 0);
-      const totalAUM = totalCash;
 
-      const leverageVal = totalCash > 0 ? (totalFutures / totalCash) : null;
-      const leverageStr = leverageVal !== null ? (leverageVal * 100).toFixed(1) + '%' : '-';
+      let netAssets = null;
+      if (typeof window !== 'undefined' && window.SCENARIO_SNAPSHOTS && window.SCENARIO_SNAPSHOTS[etfKey]?.baseline?.total_nav_dollars) {
+        netAssets = window.SCENARIO_SNAPSHOTS[etfKey].baseline.total_nav_dollars;
+      }
+      if (!netAssets && holdings && holdings.length) {
+        for (const ch of cashRows) {
+          const wt = parseFloat(String(ch.Weightings || '').replace('%', '')) / 100;
+          const mv = parseFloat(ch.Market_Value);
+          if (wt > 0.05 && mv > 0) {
+            netAssets = mv / wt;
+            break;
+          }
+        }
+      }
+      if (!netAssets || isNaN(netAssets)) {
+        netAssets = totalCash;
+      }
+
+      const exposureVal = (netAssets && netAssets > 0) ? (totalFutures / netAssets) : (totalCash > 0 ? (totalFutures / totalCash) : null);
+      const exposureStr = exposureVal !== null ? (exposureVal * 100).toFixed(1) + '%' : '-';
 
       return `
     <div class="etf-header">
@@ -22849,8 +22884,8 @@ function buildMaster() {
       <div class="etf-name">${name} <span id="etfLiveBadge_${etfKey}" class="etf-live-badge" style="font-size:var(--fs-micro);font-weight:700;padding:2px 6px;border-radius:6px;background:rgba(255,255,255,0.06);color:var(--text-muted);margin-left:6px;display:none;"></span></div>
       <div class="etf-price-row" id="etfPriceRow_${etfKey}">${priceHTML}</div>
     </div>
-    <div style="font-size:11px;color:var(--text-muted);padding:4px 0;margin-bottom:12px;" data-tooltip="Futures Exposure Ratio = total notional value of FFA positions / total fund cash. A ratio near 100% = fully replicated. Above 100% = leveraged. BDRY and BWET typically target ~100% replication with no leverage.">
-      Futures Exposure: <span style="color:var(--text);font-weight:600;">${leverageStr}</span>
+    <div style="font-size:11px;color:var(--text-muted);padding:4px 0;margin-bottom:12px;" data-tooltip="Futures Exposure Ratio = total notional value of FFA positions divided by fund net assets. A ratio near 100% indicates full target replication without structural leverage.">
+      Futures Exposure: <span style="color:var(--text);font-weight:600;">${exposureStr}</span>
     </div>
 
     <div class="etf-holdings-section">
@@ -22876,43 +22911,43 @@ function buildMaster() {
     </div>
 
     <div class="etf-metrics" style="grid-template-columns: repeat(3,1fr); margin-bottom:8px;">
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="Total aggregate notional value of all open forward freight agreement (FFA) derivatives held by the fund across all active contract maturities.">
         <div class="etf-metric-label">Total Futures</div>
         <div class="etf-metric-value">$${(totalFutures / 1e6).toFixed(1)}M</div>
       </div>
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="Collateral and cash equivalents (Treasury bills, money market funds, and cash reserves) pledged for futures margin requirements and providing portfolio liquidity.">
         <div class="etf-metric-label">Collateral Cash</div>
         <div class="etf-metric-value" style="color:var(--text-muted)">$${(totalCash / 1e6).toFixed(1)}M</div>
       </div>
-      <div class="etf-metric">
-        <div class="etf-metric-label">Futures / AUM</div>
-        <div class="etf-metric-value" style="color:var(--green)">${totalAUM > 0 ? (totalFutures / totalAUM * 100).toFixed(1) + '%' : '-'}</div>
+      <div class="etf-metric" data-tooltip="Total Net Assets (Assets Under Management) of the fund, reflecting total collateral cash plus net unrealized futures gains and clearing variation margin.">
+        <div class="etf-metric-label">Net Assets (AUM)</div>
+        <div class="etf-metric-value" style="color:var(--green)">$${(netAssets / 1e6).toFixed(1)}M</div>
       </div>
     </div>
     <div class="etf-metrics" style="grid-template-columns: repeat(3,1fr);">
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="Official Net Asset Value per share calculated daily by the fund custodian (Amplify / Wilmington Trust) based on official contract settlement prices.">
         <div class="etf-metric-label">NAV</div>
         <div class="etf-metric-value etf-nav-val" id="etfNav_${etfKey}">-</div>
       </div>
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="Annual fund expense ratio covering advisory, management, custody, administrative, and exchange clearing fees deducted from fund assets.">
         <div class="etf-metric-label">Expense Ratio</div>
         <div class="etf-metric-value" style="color:var(--text-muted)">3.50%</div>
       </div>
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="Target Exposure Ratio = Total Futures Notional / Net Assets. Targets approximately 100% unleveraged direct exposure to the freight index.">
         <div class="etf-metric-label">Exposure Ratio</div>
-        <div class="etf-metric-value" style="color:var(--yellow)">${leverageStr}</div>
+        <div class="etf-metric-value" style="color:var(--yellow)">${exposureStr}</div>
       </div>
     </div>
     <div class="etf-metrics" style="grid-template-columns: repeat(3,1fr);">
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="52-week trading range showing the lowest and highest secondary market trading prices over the rolling 1-year trailing period.">
         <div class="etf-metric-label">52W High - Low</div>
         <div class="etf-metric-value etf-w52-range val-white" id="etfW52Range_${etfKey}">${stats52w.range}</div>
       </div>
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="Current price percentile position relative to the 52-week range (0% = at 52-week low, 100% = at 52-week high).">
         <div class="etf-metric-label">52W Position</div>
         <div class="etf-metric-value etf-w52-pos ${stats52w.posCls}" id="etfW52Pos_${etfKey}">${stats52w.pos}</div>
       </div>
-      <div class="etf-metric">
+      <div class="etf-metric" data-tooltip="Percentage gain from the most recent structural cyclical trough (reversal point) identified by the macro cycle tracking algorithm.">
         <div class="etf-metric-label">From Last Trough</div>
         <div class="etf-metric-value etf-trough ${stats52w.troughCls}" id="etfTrough_${etfKey}">${stats52w.trough}</div>
       </div>
@@ -23104,6 +23139,8 @@ function buildMaster() {
       setTimeout(() => {
         const canvas = document.getElementById(`donut_${etfKey}`);
         if (!canvas) return;
+        canvas.removeAttribute('data-tooltip');
+        canvas.removeAttribute('data-stamped');
         destroyChart(`donut_${etfKey}`);
         const ctx = canvas.getContext('2d');
         chartRegistry[`donut_${etfKey}`] = new Chart(ctx, {
@@ -23576,7 +23613,7 @@ function buildMaster() {
         if (covered(cv) || cv.hasAttribute(STAMPED)) return;
         // Skip canvases that sit inside standard chart containers, canvas wraps, or cards
         // Chart.js manages its own rich interactive hover tooltips; do not stamp synthetic tooltips on them.
-        if (cv.closest('.chart-container, .chart-canvas-wrap, .spaghetti-wrap, .intel-vc-card, .intel-spark-wrap, .z-gauge-wrap, .chart-section')) return;
+        if (cv.closest('.chart-container, .chart-canvas-wrap, .spaghetti-wrap, .intel-vc-card, .intel-spark-wrap, .z-gauge-wrap, .chart-section, .donut-wrap') || (cv.id && cv.id.startsWith('donut_'))) return;
         var ct = chartText(cv);
         var cname = (cv.id || 'chart').replace(/_/g, ' ').replace(/([a-z])([A-Z])/g, '$1 $2');
         var h = wrap(cname.replace(/\b\w/g, function (c) { return c.toUpperCase(); }));
