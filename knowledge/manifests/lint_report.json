@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T20:24:55Z",
-  "current_date": "2026-09-14",
-  "warning_count": 0,
+  "generated_at": "2026-09-15T15:37:34Z",
+  "current_date": "2026-09-15",
+  "warning_count": 1,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,7 +11,53 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {}
+    "divergences": {
+      "watch": 1
+    }
   },
-  "warnings": []
+  "warnings": [
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "capesize",
+      "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "details": {
+        "topic_id": "capesize",
+        "title": "Capesize",
+        "severity": "watch",
+        "score_diff": 0.83,
+        "source_scores": [
+          {
+            "source": "hellenic",
+            "avg_tone_score": -0.08,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 6,
+            "latest_date": "2026-09-15"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.3,
+            "dominant_tone": "neutral",
+            "doc_count": 5,
+            "latest_date": "2026-09-15"
+          },
+          {
+            "source": "baltic",
+            "avg_tone_score": 0.62,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-11"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.75,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-09-15"
+          }
+        ],
+        "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+      }
+    }
+  ]
 }
