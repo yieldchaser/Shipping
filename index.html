@@ -24098,7 +24098,8 @@ function buildMaster() {
         if (v == null) return null;
         var start = Math.max(0, i - windowSize + 1);
         var cnt = pCnt[i + 1] - pCnt[start];
-        if (cnt < 20) return null;
+        var minCnt = Math.min(20, Math.max(5, Math.round(windowSize * 0.2)));
+        if (cnt < minCnt) return null;
         var sum = pSum[i + 1] - pSum[start];
         var sumSq = pSumSq[i + 1] - pSumSq[start];
         var m = sum / cnt;
@@ -24219,7 +24220,8 @@ function buildMaster() {
         var allZData = {};
         PRODUCT_KEYS.forEach(function (key) {
           var allRows = DATA.master.filter(function (r) { return r[key] != null && r.date >= cutoff2008; });
-          var zAll = computeRollingZscoreArr(allRows.map(function (r) { return r[key]; }), windowSize);
+          var effWin = (key === 'bai') ? Math.max(10, Math.round(windowSize * (52 / 252))) : windowSize;
+          var zAll = computeRollingZscoreArr(allRows.map(function (r) { return r[key]; }), effWin);
           allZData[key] = allRows.map(function (r, i) { return { dateStr: fmtDate(r.date), z: zAll[i] }; });
         });
         var pRows = allZData[productKey] || allZData['bdiy'] || [];
@@ -24227,6 +24229,15 @@ function buildMaster() {
           allZData: allZData,
           masterLabels: pRows.map(function (d) { return d.dateStr; })
         };
+      }
+
+      if (typeof ensureDeepHistory === 'function' && !_deepHistoryLoaded['bai']) {
+        ensureDeepHistory('bai').then(function (extended) {
+          if (extended) {
+            delete _ydZscoreCache[windowSize];
+            if (canvasId) renderYDZscore(productKey, allTime, canvasId);
+          }
+        });
       }
       var allZData = _ydZscoreCache[windowSize].allZData;
       var masterLabels = _ydZscoreCache[windowSize].masterLabels;
