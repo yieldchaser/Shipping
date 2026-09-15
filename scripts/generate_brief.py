@@ -323,7 +323,7 @@ def compute_etf_curve_metrics(fund_key: str, holdings: list[dict], curves: dict)
         return {}
     
     # Sort holdings by weight descending
-    sorted_h = sorted(holdings, key=lambda x: x.get("weight", 0), reverse=True)
+    sorted_h = sorted(holdings, key=lambda x: float(x.get("weight") or 0), reverse=True)
     prompt_h = sorted_h[0] if len(sorted_h) > 0 else {}
     next_h = sorted_h[1] if len(sorted_h) > 1 else {}
     
@@ -420,7 +420,7 @@ def recent_breakwave(signals: list[dict], category: str, n: int = RECENT_REPORTS
         and signal.get("date", "0000") not in ("0000-00-00", "", None)
         and signal.get("sentiment") is not None
     ]
-    filtered.sort(key=lambda x: x.get("date", ""), reverse=True)
+    filtered.sort(key=lambda x: (x.get("date") or ""), reverse=True)
     return filtered[:n]
 
 
@@ -1121,7 +1121,7 @@ def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> s
                         continue
         except FileNotFoundError:
             continue
-    chunks.sort(key=lambda x: x.get("date", ""), reverse=True)
+    chunks.sort(key=lambda x: (x.get("date") or ""), reverse=True)
     seen_dates: list[str] = []
     for chunk in chunks:
         d = chunk.get("date", "")

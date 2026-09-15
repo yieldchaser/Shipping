@@ -7442,13 +7442,16 @@
       var getFfaFn = (typeof getFFAProcessed === 'function') ? getFFAProcessed : (window.getFFAProcessed ? window.getFFAProcessed : null);
       var processed = getFfaFn ? getFfaFn() : null;
 
-      if (sgxKey) {
-        var m = contractName.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
-        var targetMonthLabel = m ? (m[1].charAt(0).toUpperCase() + m[1].slice(1).toLowerCase() + ' 20' + m[2]) : '';
-        var targetMonthShort = m ? (m[1].toLowerCase() + ' ' + m[2]) : '';
-        var codeMatch = (meta.ticker || contractName).match(/([FGHJKMNQUVXZ])(\d{2})/i);
-        var targetCode = codeMatch ? (codeMatch[1].toUpperCase() + codeMatch[2]) : '';
+      var m = contractName.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2,4})/i);
+      var monthNameToCode = { jan:'f', feb:'g', mar:'h', apr:'j', may:'k', jun:'m', jul:'n', aug:'q', sep:'u', oct:'v', nov:'x', dec:'z' };
+      var targetMonthShort = m ? (m[1].toLowerCase() + ' ' + m[2].slice(-2)) : '';
+      var targetMonthLabel = m ? (m[1].charAt(0).toUpperCase() + m[1].slice(1).toLowerCase() + ' 20' + m[2].slice(-2)) : '';
 
+      var codeMatch = (meta.ticker || meta.raw || contractName).match(/([FGHJKMNQUVXZ])(\d{2})/i);
+      var targetCode = codeMatch ? (codeMatch[1].toUpperCase() + codeMatch[2]) : (m && monthNameToCode[m[1].toLowerCase()] ? (monthNameToCode[m[1].toLowerCase()].toUpperCase() + m[2].slice(-2)) : '');
+      var metaTickerClean = (meta.ticker || meta.raw || '').toUpperCase().replace(/[^A-Z0-9]/g, '');
+
+      if (sgxKey) {
         if (processed && processed[sgxKey]) {
           var matchContract = processed[sgxKey].find(function(c) {
             var cExp = (c.expiryLabel || '').toLowerCase();
@@ -7460,33 +7463,44 @@
           });
 
           if (matchContract && matchContract.history && matchContract.history.length) {
-            history = matchContract.history;
-            historySource = 'sgx';
+            var sgxDateMap = {};
+            matchContract.history.forEach(function(h) {
+              var dObj = (h.date instanceof Date) ? h.date : new Date(h.date);
+              var px = parseFloat(h.price != null ? h.price : h.settle);
+              if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
+                sgxDateMap[dObj.toISOString().slice(0, 10)] = { date: dObj, price: px };
+              }
+            });
+            var sgxSorted = Object.keys(sgxDateMap).sort().map(function(k) { return sgxDateMap[k]; });
+            if (sgxSorted.length) {
+              history = sgxSorted;
+              historySource = 'sgx';
+            }
           }
         }
 
         // Direct scan in DATA.sgx if not found in processed
         if (!history.length && typeof DATA !== 'undefined' && DATA.sgx && DATA.sgx[sgxKey]) {
           var sgxRows = DATA.sgx[sgxKey] || [];
-          var sgxMatched = [];
+          var sgxDateMap2 = {};
           sgxRows.forEach(function(row) {
             var rMonth = String(row.expiry_month || row.month || row.tenor || '').toLowerCase();
             var rContract = String(row.contract || '').toUpperCase();
-            var isSgxMatch = (targetMonthShort && rMonth.includes(targetMonthShort)) ||
+            var isSgxMatch = (targetCode && rContract.includes(targetCode)) ||
                              (targetMonthLabel && rMonth.includes(targetMonthLabel.toLowerCase())) ||
-                             rMonth === contractName.toLowerCase() ||
-                             (targetCode && rContract.includes(targetCode));
+                             (targetMonthShort && rMonth.replace(/\s+/g, '').includes(targetMonthShort.replace(/\s+/g, ''))) ||
+                             rMonth === contractName.toLowerCase();
             if (isSgxMatch) {
-              var px = parseFloat(row.settle || row.price || row.Close || row.close);
-              var dObj = row.date ? new Date(row.date) : null;
+              var px = parseFloat(row.settle != null ? row.settle : (row.price != null ? row.price : row.Close));
+              var dObj = row.date ? (row.date instanceof Date ? row.date : new Date(row.date)) : null;
               if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
-                sgxMatched.push({ date: dObj, price: px });
+                sgxDateMap2[dObj.toISOString().slice(0, 10)] = { date: dObj, price: px };
               }
             }
           });
-          if (sgxMatched.length) {
-            sgxMatched.sort(function(a, b) { return a.date - b.date; });
-            history = sgxMatched;
+          var sgxSorted2 = Object.keys(sgxDateMap2).sort().map(function(k) { return sgxDateMap2[k]; });
+          if (sgxSorted2.length) {
+            history = sgxSorted2;
             historySource = 'sgx';
           }
         }
@@ -7497,47 +7511,66 @@
         var dataObj = (typeof DATA !== 'undefined' && DATA) ? DATA : ((typeof window !== 'undefined' && window.DATA) ? window.DATA : {});
         var rawHistoryList = _deconstETFKey === 'bdry' ? (dataObj.bdryHoldingsHistory || []) : (dataObj.bwetHoldingsHistory || []);
         var targetClean = contractName.toLowerCase().replace(/\s+/g, ' ').trim();
-        var targetMonthMatch = targetClean.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
-        var targetMonthStr = targetMonthMatch ? (targetMonthMatch[1].toLowerCase() + ' ' + targetMonthMatch[2]) : '';
 
-        var matchedRows = [];
+        var holdingsByDate = {};
 
         rawHistoryList.forEach(function(row) {
-          if (row) {
-            var rowName = String(row.Name || row.name || row.contract || row.Contract || '').toLowerCase().replace(/\s+/g, ' ').trim();
-            if (rowName) {
-              var isMatch = (rowName === targetClean || rowName.includes(targetClean) || targetClean.includes(rowName));
+          if (!row) return;
+          var rowName = String(row.Name || row.name || row.contract || row.Contract || '').toLowerCase().replace(/\s+/g, ' ').trim();
+          var rowTicker = String(row.Ticker || row.ticker || '').toUpperCase().replace(/\s+/g, ' ').trim();
+          var rowTickerClean = rowTicker.replace(/[^A-Z0-9]/g, '');
 
-              if (!isMatch && targetMonthStr) {
-                var rowMonthMatch = rowName.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)\s+(\d{2})/i);
-                var rowMonthStr = rowMonthMatch ? (rowMonthMatch[1].toLowerCase() + ' ' + rowMonthMatch[2]) : '';
+          if (!rowName && !rowTicker) return;
 
-                if (rowMonthStr === targetMonthStr) {
-                  if ((normCls === 'vlcc' && (rowName.includes('td3c') || rowName.includes('vlcc'))) ||
-                      (normCls === 'suez' && (rowName.includes('td20') || rowName.includes('suez'))) ||
-                      (normCls === 'cape' && (rowName.includes('cape') || rowName.includes('5tc'))) ||
-                      (normCls === 'pana' && (rowName.includes('pana') || rowName.includes('4tc') || rowName.includes('82kt'))) ||
-                      (normCls === 'supra' && (rowName.includes('supra') || rowName.includes('10tc') || rowName.includes('58kt')))) {
-                    isMatch = true;
-                  }
-                }
-              }
+          // Strict vessel class check to prevent cross-contamination (e.g. Capesize vs Panamax)
+          var rowCls = '';
+          if (_deconstETFKey === 'bdry') {
+            if (rowName.includes('cape') || rowTicker.startsWith('C5') || rowTicker.startsWith('CWF')) rowCls = 'cape';
+            else if (rowName.includes('pana') || rowTicker.startsWith('P5') || rowTicker.startsWith('P4')) rowCls = 'pana';
+            else if (rowName.includes('supra') || rowTicker.startsWith('S58')) rowCls = 'supra';
+          } else {
+            if (rowName.includes('td3') || rowName.includes('vlcc') || rowTicker.startsWith('DD3')) rowCls = 'vlcc';
+            else if (rowName.includes('td20') || rowName.includes('suez') || rowTicker.startsWith('DD20')) rowCls = 'suez';
+          }
 
-              if (isMatch) {
-                var px = parseFloat(row.Price || row.price || row.settle || row.Settle || row.unitPrice || row.close || row.Close);
-                var dStr = row.Date || row.date || row.DateStr || row.asOf;
-                var dObj = dStr ? new Date(dStr) : null;
-                if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
-                  matchedRows.push({ date: dObj, price: px });
-                }
-              }
+          if (rowCls !== normCls) return;
+
+          var isMatch = false;
+
+          // 1. Clean ticker match (e.g. C5TCMZ26INDEX vs C5TCMZ26)
+          if (metaTickerClean && (rowTickerClean === metaTickerClean || rowTickerClean.includes(metaTickerClean) || metaTickerClean.includes(rowTickerClean))) {
+            isMatch = true;
+          }
+
+          // 2. Month code match (e.g. Z26, V26, U26)
+          if (!isMatch && targetCode && (rowTickerClean.includes(targetCode) || rowTicker.includes(targetCode))) {
+            isMatch = true;
+          }
+
+          // 3. Month string match (e.g. "dec 26", "oct 26")
+          if (!isMatch && targetMonthShort && rowName.includes(targetMonthShort)) {
+            isMatch = true;
+          }
+
+          // 4. Clean name match
+          if (!isMatch && (rowName === targetClean || rowName.includes(targetClean) || targetClean.includes(rowName))) {
+            isMatch = true;
+          }
+
+          if (isMatch) {
+            var px = parseFloat(row.Price || row.price || row.settle || row.Settle || row.unitPrice || row.close || row.Close);
+            var dStr = row.Date || row.date || row.DateStr || row.asOf;
+            var dObj = dStr ? new Date(dStr) : null;
+            if (!isNaN(px) && px > 0 && dObj && !isNaN(dObj.getTime())) {
+              var dateKey = dObj.toISOString().slice(0, 10);
+              holdingsByDate[dateKey] = { date: dObj, price: px };
             }
           }
         });
 
-        if (matchedRows.length) {
-          matchedRows.sort(function(a, b) { return a.date - b.date; });
-          history = matchedRows;
+        var sortedKeys = Object.keys(holdingsByDate).sort();
+        if (sortedKeys.length) {
+          history = sortedKeys.map(function(k) { return holdingsByDate[k]; });
           historySource = 'etf_history';
         }
       }
@@ -7810,7 +7843,9 @@
         closeDeconstContractHistory();
         return;
       }
-      openContractPriceInspector(cls, contractName, { index: idx });
+      var item = (_lastPredHoldings && idx !== undefined) ? _lastPredHoldings[idx] : null;
+      var ticker = item ? (item.Ticker || item.ticker || '') : '';
+      openContractPriceInspector(cls, contractName, { index: idx, ticker: ticker });
     }
     window.openContractPriceInspector = openContractPriceInspector;
     window.openContractDetailModal = openContractDetailModal;
@@ -38754,11 +38789,13 @@ function _paintBrief(el, tsEl, data) {
                 throw new Error((providerLabel || 'Provider') + ' returned finish_reason=error mid-stream');
               }
               const delta = obj?.choices?.[0]?.delta;
-              const textPiece = delta?.content != null ? delta.content : (delta?.text != null ? delta.text : (delta?.reasoning_content != null ? delta.reasoning_content : ''));
+              // CRITICAL: NEVER accumulate delta.reasoning_content or delta.reasoning into answer
+              const textPiece = delta?.content != null ? delta.content : (delta?.text != null ? delta.text : '');
+              if (!textPiece) continue;
               full += textPiece;
               var displayFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '');
-              displayFull = displayFull.replace(/<think>[\s\S]*?<\/think>/gi, '').replace(/<think>[\s\S]*$/gi, '');
-              displayFull = displayFull.replace(/<thought>[\s\S]*?<\/thought>/gi, '').replace(/<thought>[\s\S]*$/gi, '');
+              displayFull = displayFull.replace(/<think>[\s\S]*?(<\/think>|$)/gi, '');
+              displayFull = displayFull.replace(/<thought>[\s\S]*?(<\/thought>|$)/gi, '');
               onTok(displayFull);
             } catch (err) {
               if (err.message && (err.message.includes('stream error') || err.message.includes('finish_reason'))) throw err;
@@ -38766,7 +38803,7 @@ function _paintBrief(el, tsEl, data) {
           }
         }
         var cleanedFull = full.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
-        cleanedFull = cleanedFull.replace(/<think>[\s\S]*?<\/think>/gi, '').replace(/<thought>[\s\S]*?<\/thought>/gi, '').trim();
+        cleanedFull = cleanedFull.replace(/<think>[\s\S]*?(<\/think>|$)/gi, '').replace(/<thought>[\s\S]*?(<\/thought>|$)/gi, '').trim();
         if (/^User Safety:\s*safe\s*$/i.test(cleanedFull) || /^Safety:\s*safe\s*$/i.test(cleanedFull) || (cleanedFull.length < 25 && /safe/i.test(cleanedFull) && !cleanedFull.includes(' '))) {
           throw new Error((providerLabel || 'Provider') + ' emitted a safety guardrail stub ("' + cleanedFull + '") instead of the actual completion. Retrying...');
         }
@@ -38776,6 +38813,10 @@ function _paintBrief(el, tsEl, data) {
       const doStream = !!onToken && !options?.enableWebSearch;
       const fetchSignal = options?.signal;
       const cleanModel = (model || '').replace(/\s*\((default|custom)\)/gi, '').replace(/^['"]+|['"]+$/g, '').trim();
+
+      const chatMessages = (options?.systemPrompt && (options?.userPrompt || prompt))
+        ? [{ role: 'system', content: options.systemPrompt }, { role: 'user', content: options.userPrompt || prompt }]
+        : [{ role: 'user', content: prompt }];
 
       // ── Key cross-provider auto-detection ──
       let effectiveProvider = provider;
@@ -38804,7 +38845,7 @@ function _paintBrief(el, tsEl, data) {
               headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${effectiveKey}` },
               body: JSON.stringify({
                 model: curModel,
-                messages: [{ role: 'user', content: prompt }],
+                messages: chatMessages,
                 temperature: 0.2,
                 max_tokens: 3500,
                 max_completion_tokens: 3500,
@@ -38837,7 +38878,9 @@ function _paintBrief(el, tsEl, data) {
             if (doStream && res.body) return _readSSE(res, onToken);
             const data = await res.json();
             const msg = data?.choices?.[0]?.message;
-            const contentText = (msg?.content != null && msg?.content !== '') ? msg.content : (msg?.reasoning_content || msg?.text || '');
+            let contentText = (msg?.content != null && msg?.content !== '') ? msg.content : (msg?.text || '');
+            contentText = contentText.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
+            contentText = contentText.replace(/<think>[\s\S]*?(<\/think>|$)/gi, '').replace(/<thought>[\s\S]*?(<\/thought>|$)/gi, '').trim();
             return { text: contentText || '(no response)', webCitations: [] };
           } catch (gErr) {
             lastGroqErr = gErr;
@@ -38872,10 +38915,12 @@ function _paintBrief(el, tsEl, data) {
             const orStream = doStream && !isFreeModel;
             const orBody = {
               model: curModel,
-              messages: [{ role: 'user', content: prompt }],
+              messages: chatMessages,
               temperature: 0.2,
               max_tokens: 4096,
-              stream: orStream
+              stream: orStream,
+              include_reasoning: false,
+              reasoning: { max_tokens: 0 }
             };
             if (options?.enableWebSearch) {
               orBody.plugins = [{ id: 'web' }];
@@ -38920,8 +38965,11 @@ function _paintBrief(el, tsEl, data) {
               }
               throw lastOrErr;
             }
-            let orText = data?.choices?.[0]?.message?.content || '';
+            let orText = (data?.choices?.[0]?.message?.content != null && data?.choices?.[0]?.message?.content !== '')
+              ? data.choices[0].message.content
+              : (data?.choices?.[0]?.message?.text || '');
             orText = orText.replace(/^User Safety:\s*safe\s*\n*/i, '').trim();
+            orText = orText.replace(/<think>[\s\S]*?(<\/think>|$)/gi, '').replace(/<thought>[\s\S]*?(<\/thought>|$)/gi, '').trim();
 
             if (!orText || /^User Safety:\s*safe\s*$/i.test(orText) || /^Safety:\s*safe\s*$/i.test(orText) || (orText.length < 25 && /safe/i.test(orText))) {
               const finishReason = data?.choices?.[0]?.finish_reason;
@@ -40781,7 +40829,7 @@ function _paintBrief(el, tsEl, data) {
         }
       }
 
-      var promptText = "You are a Senior Institutional ETF Derivatives Strategist and Quant Risk Engineer specializing in Breakwave & Amplify Shipping ETFs (BDRY and BWET).\n" +
+      var systemPrompt = "You are a Senior Institutional ETF Derivatives Strategist and Quant Risk Engineer specializing in Breakwave & Amplify Shipping ETFs (BDRY and BWET).\n" +
         "Today's date is " + (pred.snapshotDate || _disc.asOf || 'UNSPECIFIED (no disclosed snapshot loaded)') + ".\n" +
         "Answer the user's question with rigorous financial accuracy, exact arithmetic, and line-by-line mathematical proofs.\n\n" +
         "CRITICAL RESPONSE & ANTI-HALLUCINATION GUIDELINES:\n" +
@@ -40804,12 +40852,17 @@ function _paintBrief(el, tsEl, data) {
         "   - To apply slider shocks: [ACTION:apply_scenario:cape=+20,pana=-10,supra=0,vlcc=0,suez=0]\n" +
         "   - To jump the simulator: [ACTION:jump_simulator:2026-07-15]\n" +
         "   - To formalize a decision ticket: [ACTION:open_decision_ticket]\n" +
-        "6. DIRECT FINAL REPORT ONLY: Begin your response directly with the finalized, structured institutional analysis and headings. Do NOT output internal scratchpads, meta-dialogue, 'Here is a thinking process:', or planning outlines.\n\n" +
-        "User Question: " + query + "\n\n" +
+        "6. DIRECT FINAL REPORT ONLY: Begin your response directly with the finalized, structured institutional analysis and headings. Do NOT output internal scratchpads, meta-dialogue, 'Here is a thinking process:', or planning outlines.";
+
+      var userPrompt = "User Question: " + query + "\n\n" +
         "Quantitative Context:\n" + lines.join('\n');
+
+      var promptText = systemPrompt + "\n\n" + userPrompt;
 
       return {
         lines: lines,
+        systemPrompt: systemPrompt,
+        userPrompt: userPrompt,
         promptText: promptText,
         fundKey: fKey,
         useCurves: useCurves,
@@ -40824,6 +40877,7 @@ function _paintBrief(el, tsEl, data) {
     function _formatEtfQAAnswer(text) {
       if (!text) return '';
       let esc = String(text);
+      esc = esc.replace(/<think>[\s\S]*?(<\/think>|$)/gi, '').replace(/<thought>[\s\S]*?(<\/thought>|$)/gi, '').trim();
 
       // Parse [ACTION:apply_scenario:cape=+20,pana=-10...]
       esc = esc.replace(/\[ACTION:apply_scenario:([^\]]+)\]/gi, function(match, paramStr) {
@@ -40964,7 +41018,7 @@ function _paintBrief(el, tsEl, data) {
             var resObj = await _runProviderLLM(
               p, pKey, pModel, promptText,
               function(partial) { if (ansEl) ansEl.innerHTML = _formatEtfQAAnswer(partial); },
-              { enableWebSearch: webSearch, signal: etfQaSignal }
+              { enableWebSearch: webSearch, signal: etfQaSignal, systemPrompt: ctxObj.systemPrompt, userPrompt: ctxObj.userPrompt }
             );
             answer = typeof resObj === 'object' ? resObj.text : resObj;
             finalWebCitations = (typeof resObj === 'object' ? resObj.webCitations : []) || [];
