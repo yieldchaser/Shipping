@@ -11303,14 +11303,14 @@
       </div>
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its 1-year mean. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Trailing 1Y, 1-Year Window)</div>
+          <div class="chart-title" id="ydZscoreTitle" data-tooltip="Standardized measure of price deviation from its rolling mean. Normalizes completely different shipping segments onto a common statistical scale. Values > +2.0 or < -2.0 identify extreme overbought or oversold conditions.">Z-Score (Rolling Window Comparison) <span id="yearlyZscoreYearRange" class="badge" style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.25);margin-left:6px;display:none;" data-tooltip="Active calendar span across all visible product curves. Automatically rescales when products like BDI are toggled."></span></div>
           <div class="flex-row" style="gap:6px;align-items:center;">
             <button class="toggle-btn" id="ydZscoreBtn63" data-tooltip="Zoom chart and slider to the trailing 3 months." onclick="setYDZscoreWindow(63)">3M</button>
             <button class="toggle-btn" id="ydZscoreBtn126" data-tooltip="Zoom chart and slider to the trailing 6 months." onclick="setYDZscoreWindow(126)">6M</button>
             <button class="toggle-btn active" id="ydZscoreBtn252" data-tooltip="Zoom chart and slider to the trailing 1 year (default)." onclick="setYDZscoreWindow(252)">1Y</button>
             <button class="toggle-btn" id="ydZscoreBtn504" data-tooltip="Zoom chart and slider to the trailing 2 years." onclick="setYDZscoreWindow(504)">2Y</button>
             <button class="toggle-btn" id="ydZscoreBtn756" data-tooltip="Zoom chart and slider to the trailing 3 years." onclick="setYDZscoreWindow(756)">3Y</button>
-            <button class="toggle-btn" id="ydZscoreBtnAll" data-tooltip="Show full historical date range from 2008." onclick="setYDZscoreWindow('all')">All</button>
+            <button class="toggle-btn" id="ydZscoreBtnAll" data-tooltip="Show full historical date range across visible products." onclick="setYDZscoreWindow('all')">All</button>
           </div>
         </div>
         <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -24115,6 +24115,7 @@ function buildMaster() {
     var _ydZscoreProductKey = null; // cached so setYDZscoreWindow can re-render
     var _ydZscoreCache = {};        // lazy cache keyed by windowSize - computed once per window, reused forever
     var _ydZscoreActivePreset = '1Y';
+    var _ydZscoreHiddenMap = {};
 
     var _ydZscoreWindowLabels = {
       63: '3M',
@@ -24152,96 +24153,90 @@ function buildMaster() {
         if (el) el.classList.toggle('active', k === preset);
       });
 
-      var titleEl = document.getElementById('ydZscoreTitle');
-      if (titleEl) {
-        titleEl.textContent = allTime
-          ? 'Z-Score (Whole Series from 2008, 1-Year Window)'
-          : 'Z-Score (Trailing ' + preset + ', 1-Year Window)';
-      }
-
-      var canvasId = 'yearlyZscoreChart';
-      var prefix = 'ydZscore';
-      var startEl = document.getElementById(prefix + 'RangeStart');
-      var endEl = document.getElementById(prefix + 'RangeEnd');
-      var fillEl = document.getElementById(prefix + 'RangeFill');
-      var labelEl = document.getElementById(prefix + 'RangeLabel');
-
-      var windowSize = 252;
-      var cache = _ydZscoreCache[windowSize];
-      if (cache && cache.masterLabels && cache.masterLabels.length && startEl && endEl) {
-        var masterLabels = cache.masterLabels;
-        var total = masterLabels.length;
-        var lastDateStr = masterLabels[total - 1];
-        var lastDate = new Date(lastDateStr);
-        var sIdx = 0;
-
-        if (preset === '3M') {
-          var c3m = new Date(lastDate); c3m.setMonth(c3m.getMonth() - 3);
-          for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c3m) { sIdx = i; break; } }
-        } else if (preset === '6M') {
-          var c6m = new Date(lastDate); c6m.setMonth(c6m.getMonth() - 6);
-          for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c6m) { sIdx = i; break; } }
-        } else if (preset === '1Y') {
-          var c1y = new Date(lastDate); c1y.setFullYear(c1y.getFullYear() - 1);
-          for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c1y) { sIdx = i; break; } }
-        } else if (preset === '2Y') {
-          var c2y = new Date(lastDate); c2y.setFullYear(c2y.getFullYear() - 2);
-          for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c2y) { sIdx = i; break; } }
-        } else if (preset === '3Y') {
-          var c3y = new Date(lastDate); c3y.setFullYear(c3y.getFullYear() - 3);
-          for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c3y) { sIdx = i; break; } }
-        } else {
-          sIdx = 0; // All history
-        }
-
-        startEl.value = sIdx;
-        endEl.value = total - 1;
-        if (fillEl) {
-          var pctS = (sIdx / (total - 1)) * 100;
-          fillEl.style.left = pctS + '%';
-          fillEl.style.width = (100 - pctS) + '%';
-        }
-        if (labelEl) {
-          labelEl.textContent = masterLabels[sIdx].slice(0, 7) + ' → ' + masterLabels[total - 1].slice(0, 7);
-        }
-        _buildZscoreChart(_ydZscoreProductKey || 'bdiy', canvasId, cache.allZData, masterLabels, sIdx, total - 1);
-        return;
-      }
-
-      if (_ydZscoreProductKey) renderYDZscore(_ydZscoreProductKey, allTime, 'yearlyZscoreChart');
+      renderYDZscore(_ydZscoreProductKey || 'bdiy', allTime, 'yearlyZscoreChart');
     }
 
     function renderYDZscore(productKey, allTime, canvasId) {
-      var cutoff2008 = new Date('2008-01-01');
+      canvasId = canvasId || 'yearlyZscoreChart';
       var windowSize = 252; // Standardized 1-year rolling lookback
-      _ydZscoreProductKey = productKey;
+      _ydZscoreProductKey = productKey || 'bdiy';
 
       if (!_ydZscoreCache[windowSize]) {
         var allZData = {};
         PRODUCT_KEYS.forEach(function (key) {
-          var allRows = DATA.master.filter(function (r) { return r[key] != null && r.date >= cutoff2008; });
+          var allRows = DATA.master.filter(function (r) { return r[key] != null; });
           var effWin = (key === 'bai') ? Math.max(10, Math.round(windowSize * (52 / 252))) : windowSize;
           var zAll = computeRollingZscoreArr(allRows.map(function (r) { return r[key]; }), effWin);
           allZData[key] = allRows.map(function (r, i) { return { dateStr: fmtDate(r.date), z: zAll[i] }; });
         });
-        var pRows = allZData[productKey] || allZData['bdiy'] || [];
+
+        // Master labels: union of all distinct dates across all products in allZData
+        var dateSet = {};
+        PRODUCT_KEYS.forEach(function (key) {
+          (allZData[key] || []).forEach(function (d) {
+            if (d.z != null) dateSet[d.dateStr] = true;
+          });
+        });
+        var masterLabels = Object.keys(dateSet).sort();
+
         _ydZscoreCache[windowSize] = {
           allZData: allZData,
-          masterLabels: pRows.map(function (d) { return d.dateStr; })
+          masterLabels: masterLabels
         };
       }
 
-      if (typeof ensureDeepHistory === 'function' && !_deepHistoryLoaded['bai']) {
-        ensureDeepHistory('bai').then(function (extended) {
-          if (extended) {
-            delete _ydZscoreCache[windowSize];
-            if (canvasId) renderYDZscore(productKey, allTime, canvasId);
-          }
-        });
+      // Background fetch deep history for core indices if not loaded
+      var deepKeys = ['bdiy', 'cape', 'panama', 'suprama', 'dirtytanker', 'cleantanker', 'bai', 'bwetff', 'bdryff'];
+      var needLoad = deepKeys.filter(function (k) { return !_deepHistoryLoaded[k]; });
+      if (needLoad.length && typeof ensureDeepHistory === 'function') {
+        Promise.all(needLoad.map(function (k) { return ensureDeepHistory(k); }))
+          .then(function (results) {
+            if (results.some(Boolean)) {
+              delete _ydZscoreCache[windowSize];
+              if (canvasId) renderYDZscore(productKey, allTime, canvasId);
+            }
+          });
       }
+
       var allZData = _ydZscoreCache[windowSize].allZData;
       var masterLabels = _ydZscoreCache[windowSize].masterLabels;
-      var total = masterLabels.length;
+      if (!masterLabels || !masterLabels.length) return;
+
+      // Preserve hidden state from existing chart
+      var prevChart = chartRegistry[canvasId];
+      if (prevChart && prevChart.data && prevChart.data.datasets) {
+        prevChart.data.datasets.forEach(function (ds, i) {
+          _ydZscoreHiddenMap[ds.label] = !prevChart.isDatasetVisible(i);
+        });
+      }
+      var hiddenByLabel = _ydZscoreHiddenMap || {};
+
+      var visibleKeys = PRODUCT_KEYS.filter(function (key) {
+        var prod = PRODUCTS[key];
+        return prod && !hiddenByLabel[prod.label];
+      });
+      if (!visibleKeys.length) visibleKeys = PRODUCT_KEYS.slice();
+
+      // Find earliest date among currently visible products
+      var minVisibleDate = null;
+      visibleKeys.forEach(function (key) {
+        var rows = allZData[key] || [];
+        for (var i = 0; i < rows.length; i++) {
+          if (rows[i].z != null) {
+            if (!minVisibleDate || rows[i].dateStr < minVisibleDate) {
+              minVisibleDate = rows[i].dateStr;
+            }
+            break;
+          }
+        }
+      });
+      if (!minVisibleDate) minVisibleDate = masterLabels[0];
+
+      // Slice masterLabels to the active visible span (auto-adjusts when BDI or other series are toggled)
+      var startIdxInMaster = masterLabels.findIndex(function (d) { return d >= minVisibleDate; });
+      if (startIdxInMaster < 0) startIdxInMaster = 0;
+      var activeLabels = masterLabels.slice(startIdxInMaster);
+      var total = activeLabels.length;
       if (!total) return;
 
       var prefix = canvasId === 'yearlyZscoreChart' ? 'ydZscore' : 'ydHistZscore';
@@ -24251,40 +24246,54 @@ function buildMaster() {
       var labelEl = document.getElementById(prefix + 'RangeLabel');
 
       if (!startEl || !endEl) {
-        _buildZscoreChart(productKey, canvasId, allZData, masterLabels, 0, total - 1);
+        _buildZscoreChart(productKey, canvasId, allZData, activeLabels, 0, total - 1);
         return;
       }
 
       startEl.max = total - 1;
       endEl.max = total - 1;
 
-      // Apply active preset to range slider
-      var lastDateStr = masterLabels[total - 1];
+      // Determine slider indices based on preset
+      var lastDateStr = activeLabels[total - 1];
       var lastDate = new Date(lastDateStr);
       var sIdx = 0;
       var preset = _ydZscoreActivePreset || '1Y';
 
       if (preset === '3M') {
         var c3m = new Date(lastDate); c3m.setMonth(c3m.getMonth() - 3);
-        for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c3m) { sIdx = i; break; } }
+        for (var i = 0; i < total; i++) { if (new Date(activeLabels[i]) >= c3m) { sIdx = i; break; } }
       } else if (preset === '6M') {
         var c6m = new Date(lastDate); c6m.setMonth(c6m.getMonth() - 6);
-        for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c6m) { sIdx = i; break; } }
+        for (var i = 0; i < total; i++) { if (new Date(activeLabels[i]) >= c6m) { sIdx = i; break; } }
       } else if (preset === '1Y') {
         var c1y = new Date(lastDate); c1y.setFullYear(c1y.getFullYear() - 1);
-        for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c1y) { sIdx = i; break; } }
+        for (var i = 0; i < total; i++) { if (new Date(activeLabels[i]) >= c1y) { sIdx = i; break; } }
       } else if (preset === '2Y') {
         var c2y = new Date(lastDate); c2y.setFullYear(c2y.getFullYear() - 2);
-        for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c2y) { sIdx = i; break; } }
+        for (var i = 0; i < total; i++) { if (new Date(activeLabels[i]) >= c2y) { sIdx = i; break; } }
       } else if (preset === '3Y') {
         var c3y = new Date(lastDate); c3y.setFullYear(c3y.getFullYear() - 3);
-        for (var i = 0; i < total; i++) { if (new Date(masterLabels[i]) >= c3y) { sIdx = i; break; } }
+        for (var i = 0; i < total; i++) { if (new Date(activeLabels[i]) >= c3y) { sIdx = i; break; } }
       } else {
-        sIdx = 0;
+        sIdx = 0; // All visible history
       }
 
       startEl.value = sIdx;
       endEl.value = total - 1;
+
+      function updateRangeBadge(currLabels) {
+        var badge = document.getElementById('yearlyZscoreYearRange');
+        if (!badge) return;
+        if (!currLabels || !currLabels.length) {
+          badge.style.display = 'none';
+          return;
+        }
+        var minY = parseInt(currLabels[0].slice(0, 4));
+        var maxY = parseInt(currLabels[currLabels.length - 1].slice(0, 4));
+        var count = maxY - minY + 1;
+        badge.textContent = minY === maxY ? String(minY) : (minY + '–' + maxY + ' (' + count + 'Y)');
+        badge.style.display = 'inline-block';
+      }
 
       function updateFillAndLabel(s, e) {
         if (fillEl) {
@@ -24293,7 +24302,8 @@ function buildMaster() {
           fillEl.style.left = pctS + '%';
           fillEl.style.width = (pctE - pctS) + '%';
         }
-        if (labelEl) labelEl.textContent = masterLabels[s].slice(0, 7) + ' → ' + masterLabels[e].slice(0, 7);
+        if (labelEl) labelEl.textContent = activeLabels[s].slice(0, 7) + ' → ' + activeLabels[e].slice(0, 7);
+        updateRangeBadge([activeLabels[s], activeLabels[e]]);
       }
 
       if (startEl._onSlide) startEl.removeEventListener('input', startEl._onSlide);
@@ -24313,9 +24323,11 @@ function buildMaster() {
         });
         var allEl = document.getElementById('ydZscoreBtnAll');
         if (allEl) allEl.classList.toggle('active', s === 0 && e === total - 1);
+        if (s === 0 && e === total - 1) _ydZscoreActivePreset = 'All';
+        else _ydZscoreActivePreset = null;
 
         updateFillAndLabel(s, e);
-        _buildZscoreChart(productKey, canvasId, allZData, masterLabels, s, e);
+        _buildZscoreChart(productKey, canvasId, allZData, activeLabels, s, e);
       }
 
       startEl._onSlide = onSlide;
@@ -24324,27 +24336,20 @@ function buildMaster() {
       endEl.addEventListener('input', onSlide);
 
       updateFillAndLabel(sIdx, total - 1);
-      _buildZscoreChart(productKey, canvasId, allZData, masterLabels, sIdx, total - 1);
+      _buildZscoreChart(productKey, canvasId, allZData, activeLabels, sIdx, total - 1);
     }
 
-    function _buildZscoreChart(productKey, canvasId, allZData, masterLabels, s, e) {
-      var slicedLabels = masterLabels.slice(s, e + 1);
+    function _buildZscoreChart(productKey, canvasId, allZData, activeLabels, s, e) {
+      var slicedLabels = activeLabels.slice(s, e + 1);
       var slicedSet = {};
       slicedLabels.forEach(function (l) { slicedSet[l] = true; });
 
-      // Preserve hidden state from previous chart instance (legend clicks)
-      var hiddenByLabel = {};
-      var prevChart = chartRegistry[canvasId];
-      if (prevChart && prevChart.data && prevChart.data.datasets) {
-        prevChart.data.datasets.forEach(function (ds, i) {
-          hiddenByLabel[ds.label] = !prevChart.isDatasetVisible(i);
-        });
-      }
+      var hiddenByLabel = _ydZscoreHiddenMap || {};
 
       // Build full-resolution aligned data per product first
       var fullDatasets = PRODUCT_KEYS.map(function (key) {
         var zByDate = {};
-        allZData[key].forEach(function (d) { zByDate[d.dateStr] = d.z; });
+        (allZData[key] || []).forEach(function (d) { zByDate[d.dateStr] = d.z; });
         var lastVal = null;
         var lastDateMs = null;
         var isWeekly = (key === 'bai');
@@ -24416,7 +24421,25 @@ function buildMaster() {
           layout: { padding: { left: 10, top: 10 } },
           interaction: { mode: 'index', intersect: false },
           plugins: {
-            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            legend: {
+              position: 'top',
+              labels: { usePointStyle: true, font: { size: 11 } },
+              onClick: function (e, legendItem, legend) {
+                var index = legendItem.datasetIndex;
+                var ci = legend.chart;
+                var willBeVisible = !ci.isDatasetVisible(index);
+                ci.setDatasetVisibility(index, willBeVisible);
+                legendItem.hidden = !willBeVisible;
+
+                _ydZscoreHiddenMap = _ydZscoreHiddenMap || {};
+                ci.data.datasets.forEach(function (ds, i) {
+                  _ydZscoreHiddenMap[ds.label] = !ci.isDatasetVisible(i);
+                });
+
+                // Auto-adjust timeline and slider to match remaining visible products
+                renderYDZscore(productKey, _ydZscoreActivePreset === 'All', canvasId);
+              }
+            },
             tooltip: {
               callbacks: {
                 title: function (c) { return c[0].label; },
