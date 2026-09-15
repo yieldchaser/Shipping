@@ -1010,17 +1010,30 @@
       overflow-x: auto;
     }
 
+    .season-grid-2col {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 16px;
+      margin-bottom: 20px;
+      align-items: stretch;
+    }
+    @media (max-width: 1024px) {
+      .season-grid-2col {
+        grid-template-columns: 1fr;
+      }
+    }
+
     .heatmap-table {
       border-collapse: collapse;
       font-size: 12px;
-      min-width: 600px;
+      width: 100%;
     }
 
     .heatmap-table th {
       background: var(--bg);
       color: var(--text-muted);
       font-weight: 600;
-      padding: 7px 10px;
+      padding: 8px 10px;
       text-align: center;
       border: 1px solid var(--border);
       white-space: nowrap;
@@ -1030,12 +1043,11 @@
     }
 
     .heatmap-table td {
-      padding: 5px 8px;
+      padding: 6px 8px;
       text-align: center;
       border: 1px solid var(--grid);
-      font-size: 11px;
+      font-size: 11.5px;
       font-weight: 500;
-      min-width: 72px;
       white-space: nowrap;
       line-height: 1.4;
     }
@@ -1044,9 +1056,10 @@
       background: var(--bg);
       color: var(--text-muted);
       font-weight: 600;
-      padding: 6px 10px;
-      text-align: right;
+      padding: 6px 12px;
+      text-align: left;
       font-size: 12px;
+      white-space: nowrap;
     }
 
     .heatmap-abs-val {
@@ -1065,15 +1078,17 @@
     .heatmap-view-row {
       display: flex;
       align-items: center;
-      gap: 10px;
-      margin-bottom: 18px;
+      gap: 8px;
+      margin-bottom: 0;
       flex-wrap: wrap;
     }
 
     .heatmap-view-row label {
       color: var(--text-muted);
-      font-size: 12px;
+      font-size: 11.5px;
       font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
     }
 
     /* INDICES TAB */
@@ -11408,24 +11423,27 @@
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyBarChart"></canvas></div>
       </div>
 
-      <!-- Quarterly Area Comparison 2 Combined -->      <!-- Quarterly Data Grid -->
-      <div class="chart-section">
-        <div class="chart-header">
-          <div class="chart-header-title" data-tooltip="Quarterly Data Grid - 8-year tabular record showing the opening, closing, high, and low value for each Q1-Q4 period. Also shows the QoQ and full-year change for each row. Useful for spotting which year's patterns most closely mirror the current cycle.">Quarterly Data Grid (Last 8 Years)</div>
-          <button class="dl-btn" id="quarterlyDashGridDlBtn" data-tooltip="Download the quarterly dashboard grid as CSV — exactly the quarterly aggregates shown.">&#x2B07; CSV</button>
+      <!-- Quarterly Tabular Section: Data Grid & Win-Rate Matrix Side-by-Side -->
+      <div class="season-grid-2col">
+        <!-- Quarterly Data Grid -->
+        <div class="chart-section" style="margin-top:0;display:flex;flex-direction:column;">
+          <div class="chart-header">
+            <div class="chart-header-title" data-tooltip="Quarterly Data Grid - 8-year tabular record showing the opening, closing, high, and low value for each Q1-Q4 period. Also shows the QoQ and full-year change for each row. Useful for spotting which year's patterns most closely mirror the current cycle.">Quarterly Data Grid (Last 8 Years)</div>
+            <button class="dl-btn" id="quarterlyDashGridDlBtn" data-tooltip="Download the quarterly dashboard grid as CSV — exactly the quarterly aggregates shown.">&#x2B07; CSV</button>
+          </div>
+          <div style="overflow-x:auto;flex:1;">
+            <div id="quarterlyDashDataGrid"></div>
+          </div>
         </div>
-        <div style="overflow-x:auto">
-          <div id="quarterlyDashDataGrid"></div>
-        </div>
-      </div>
 
-      <!-- Quarterly Historical Win-Rate Matrix -->
-      <div class="chart-section" style="margin-top:20px;">
-        <div class="chart-header">
-          <div class="chart-header-title" data-tooltip="Historical Quarterly Win Rate Matrix &#8212; fraction of years each quarter generated positive returns, computed across 10Y, 15Y, and all-time windows. Green = win rate above 60%; Amber = 40-60%; Red = below 40%.">Quarterly Historical Win-Rate Matrix</div>
-        </div>
-        <div style="overflow-x:auto">
-          <div id="quarterlyWinRateMatrix"></div>
+        <!-- Quarterly Historical Win-Rate Matrix -->
+        <div class="chart-section" style="margin-top:0;display:flex;flex-direction:column;">
+          <div class="chart-header">
+            <div class="chart-header-title" data-tooltip="Historical Quarterly Win Rate Matrix &#8212; fraction of years each quarter generated positive returns, computed across 10Y, 15Y, and all-time windows. Green = win rate above 60%; Amber = 40-60%; Red = below 40%.">Quarterly Historical Win-Rate Matrix</div>
+          </div>
+          <div style="overflow-x:auto;flex:1;">
+            <div id="quarterlyWinRateMatrix"></div>
+          </div>
         </div>
       </div>
 
@@ -11461,54 +11479,65 @@
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyAreaCompChart"></canvas></div>
       </div>
 
-      <!-- Bar Chart -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title" data-tooltip="Rolling Momentum - a 12-month summary of rate velocity. Identifies the shift from one quarterly regime to the next.">Monthly Bar Chart (Last 12 Months)</div>
+      <!-- Monthly Momentum & Win-Rate Section Side-by-Side -->
+      <div class="season-grid-2col">
+        <!-- Monthly Bar Chart -->
+        <div class="chart-container" style="margin-bottom:0;display:flex;flex-direction:column;">
+          <div class="chart-header">
+            <div class="chart-title" data-tooltip="Rolling Momentum - a 12-month summary of rate velocity. Identifies the shift from one quarterly regime to the next.">Monthly Bar Chart (Last 12 Months)</div>
+          </div>
+          <div class="chart-canvas-wrap" style="flex:1;min-height:360px;"><canvas id="monthlyBarChart"></canvas></div>
         </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyBarChart"></canvas></div>
-      </div>
-      <!-- Monthly Historical Win-Rate Matrix -->
-      <!-- Monthly Data Grid removed: duplicated the Monthly Performance Heatmap (same year×month absolute matrix, same 8Y window & palette). The heatmap's Absolute/% toggle + CSV download supersedes it. -->
-      <div class="chart-section" style="margin-top:20px;">
-        <div class="chart-header">
-          <div class="chart-header-title" data-tooltip="Historical Monthly Win Rate Matrix &#8212; fraction of years each calendar month generated positive returns, across 10Y, 15Y, and all-time windows. Green = above 60%; Amber = 40-60%; Red = below 40%.">Monthly Historical Win-Rate Matrix</div>
-        </div>
-        <div style="overflow-x:auto">
-          <div id="monthlyWinRateMatrix"></div>
+
+        <!-- Monthly Historical Win-Rate Matrix -->
+        <div class="chart-section" style="margin-top:0;display:flex;flex-direction:column;">
+          <div class="chart-header">
+            <div class="chart-header-title" data-tooltip="Historical Monthly Win Rate Matrix &#8212; fraction of years each calendar month generated positive returns, across 10Y, 15Y, and all-time windows. Green = above 60%; Amber = 40-60%; Red = below 40%.">Monthly Historical Win-Rate Matrix</div>
+          </div>
+          <div style="overflow-x:auto;flex:1;">
+            <div id="monthlyWinRateMatrix"></div>
+          </div>
         </div>
       </div>
 
       </div><!-- /seasonMonthlyBlock -->
 
-      <!-- SECTION: Heatmaps - one per granularity, shown with its block -->
-      <div class="heatmap-view-row">
-        <label for="heatmapViewSelect" data-tooltip="View Mode toggle - Absolute Values show raw index levels (useful for spotting price floors/ceilings). % Change mode converts each cell to the Month-over-Month or Quarter-over-Quarter % return, making seasonal momentum patterns immediately obvious.">Heatmap View:</label>
-        <select id="heatmapViewSelect" data-tooltip="Switch the heatmaps between absolute values and MoM/QoQ percentage change; both views compute from the same master cache." onchange="onHeatmapViewChange()">
-          <option value="absolute">Absolute Values</option>
-          <option value="pct">% Change (MoM/QoQ)</option>
-        </select>
-      </div>
-
-      <div class="heatmap-section mb-20" id="monthlyHeatmapSection" hidden>
-        <div
-          style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
-          <div class="section-title" style="margin-bottom:0" data-tooltip="Cyclical Intensity (Monthly) - visualizes rate velocity by month. Red = Negative Momentum; Green = Asset Expansion. Essential for identifying recurring seasonal pivot points.">Monthly Performance Heatmap</div>
-          <button class="dl-btn" id="monthlyHeatmapDlBtn" data-tooltip="Download the monthly seasonality heatmap as CSV.">⬇ Download CSV</button>
-        </div>
-        <div class="heatmap-wrap">
-          <div id="monthlyHeatmap"></div>
-        </div>
-      </div>
-
-      <div class="heatmap-section mb-20" id="quarterlyHeatmapSection">
-        <div
-          style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
-          <div class="section-title" style="margin-bottom:0" data-tooltip="Quarterly Heatmap - aggregates Jan-Mar into Q1, Apr-Jun into Q2 etc., reducing noise and exposing multi-month structural biases (e.g., Q4 is historically the strongest quarter for Capesize rates).">Quarterly Heatmap</div>
-          <button class="dl-btn" id="quarterlyHeatmapDlBtn" data-tooltip="Download the quarterly seasonality heatmap as CSV.">⬇ Download CSV</button>
+      <!-- SECTION: Heatmaps - styled as full-width cards with integrated controls -->
+      <div class="chart-section mb-20" id="quarterlyHeatmapSection">
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;flex-wrap:wrap;gap:10px;">
+          <div class="chart-header-title" style="margin-bottom:0" data-tooltip="Quarterly Heatmap - aggregates Jan-Mar into Q1, Apr-Jun into Q2 etc., reducing noise and exposing multi-month structural biases (e.g., Q4 is historically the strongest quarter for Capesize rates).">Quarterly Heatmap</div>
+          <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+            <div class="heatmap-view-row">
+              <label for="heatmapViewSelect" data-tooltip="Switch between absolute values and QoQ % change.">View:</label>
+              <select id="heatmapViewSelect" data-tooltip="Switch the heatmaps between absolute values and MoM/QoQ percentage change." onchange="onHeatmapViewChange()">
+                <option value="absolute">Absolute Values</option>
+                <option value="pct">% Change (QoQ)</option>
+              </select>
+            </div>
+            <button class="dl-btn" id="quarterlyHeatmapDlBtn" data-tooltip="Download the quarterly seasonality heatmap as CSV.">&#x2B07; CSV</button>
+          </div>
         </div>
         <div class="heatmap-wrap">
           <div id="quarterlyHeatmap"></div>
+        </div>
+      </div>
+
+      <div class="chart-section mb-20" id="monthlyHeatmapSection" hidden>
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;flex-wrap:wrap;gap:10px;">
+          <div class="chart-header-title" style="margin-bottom:0" data-tooltip="Cyclical Intensity (Monthly) - visualizes rate velocity by month. Red = Negative Momentum; Green = Asset Expansion. Essential for identifying recurring seasonal pivot points.">Monthly Performance Heatmap</div>
+          <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+            <div class="heatmap-view-row">
+              <label for="heatmapViewSelectMonthly" data-tooltip="Switch between absolute values and MoM % change.">View:</label>
+              <select id="heatmapViewSelectMonthly" data-tooltip="Switch the heatmaps between absolute values and MoM/QoQ percentage change." onchange="onHeatmapViewChangeMonthly(this.value)">
+                <option value="absolute">Absolute Values</option>
+                <option value="pct">% Change (MoM)</option>
+              </select>
+            </div>
+            <button class="dl-btn" id="monthlyHeatmapDlBtn" data-tooltip="Download the monthly seasonality heatmap as CSV.">&#x2B07; CSV</button>
+          </div>
+        </div>
+        <div class="heatmap-wrap">
+          <div id="monthlyHeatmap"></div>
         </div>
       </div>
     </div>
@@ -16630,6 +16659,7 @@ if (intelTabsContainer) {
     // qAvg cache keyed by "productKey:year:quarter"
     const _qAvgCache = {};
     function getQAvgCached(productKey, year, quarter) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       const k = productKey + ':' + year + ':' + quarter;
       if (k in _qAvgCache) return _qAvgCache[k];
       const vals = DATA.master.filter(r => r.year === year && r.quarter === quarter && r[productKey] != null).map(r => r[productKey]);
@@ -16641,6 +16671,7 @@ if (intelTabsContainer) {
     // mAvg cache keyed by "productKey:year:month"
     const _mAvgCache = {};
     function getMAvgCached(productKey, year, month) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       const k = productKey + ':' + year + ':' + month;
       if (k in _mAvgCache) return _mAvgCache[k];
       const vals = DATA.master.filter(r => r.year === year && r.month === month && r[productKey] != null).map(r => r[productKey]);
@@ -20081,13 +20112,30 @@ function buildMaster() {
     // =====================================================================
     let currentHeatmapView = 'absolute';
 
-    function onHeatmapViewChange() {
-      window.onHeatmapViewChange = onHeatmapViewChange;
-      currentHeatmapView = document.getElementById('heatmapViewSelect').value;
-      renderHeatmaps(currentProduct);
+    function onHeatmapViewChange(val) {
+      if (typeof val === 'string' && val) {
+        currentHeatmapView = val;
+      } else {
+        var el = document.getElementById('heatmapViewSelect') || document.getElementById('heatmapViewSelectMonthly');
+        if (el) currentHeatmapView = el.value;
+      }
+      var sQ = document.getElementById('heatmapViewSelect');
+      var sM = document.getElementById('heatmapViewSelectMonthly');
+      if (sQ) sQ.value = currentHeatmapView;
+      if (sM) sM.value = currentHeatmapView;
+      var pk = (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      renderHeatmaps(pk);
     }
+    window.onHeatmapViewChange = onHeatmapViewChange;
+    window.onHeatmapViewChangeMonthly = onHeatmapViewChange;
 
     function renderHeatmaps(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      var sQ = document.getElementById('heatmapViewSelect');
+      var sM = document.getElementById('heatmapViewSelectMonthly');
+      if (sQ) sQ.value = currentHeatmapView;
+      if (sM) sM.value = currentHeatmapView;
+
       if (currentHeatmapView === 'pct') {
         renderMonthlyHeatmapPct(productKey);
       } else {
@@ -20096,8 +20144,10 @@ function buildMaster() {
       renderQuarterlyHeatmap(productKey);
 
       // Wire download buttons
-      document.getElementById('monthlyHeatmapDlBtn').onclick = () => downloadMonthlyHeatmap(productKey);
-      document.getElementById('quarterlyHeatmapDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
+      var mb = document.getElementById('monthlyHeatmapDlBtn');
+      if (mb) mb.onclick = () => downloadMonthlyHeatmap(productKey);
+      var qb = document.getElementById('quarterlyHeatmapDlBtn');
+      if (qb) qb.onclick = () => downloadQuarterlyHeatmapCSV(productKey);
     }
 
     // ---- Original absolute-value heatmap color (for Monthly Abs section) ----
@@ -20138,7 +20188,9 @@ function buildMaster() {
     }
 
     function renderMonthlyHeatmap(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       const container = document.getElementById('monthlyHeatmap');
+      if (!container) return;
       const years = getProductYears(productKey);
 
       const matrix = {};
@@ -20156,28 +20208,29 @@ function buildMaster() {
         colStats[m] = { min: Math.min(...vals), max: Math.max(...vals) };
       }
 
-      let html = `<table class="heatmap-table"><thead><tr>
-    <th>Year</th>${MONTH_NAMES.map(mn => `<th>${mn}</th>`).join('')}
+      let html = `<table class="heatmap-table" style="width:100%;min-width:900px;"><thead><tr>
+    <th style="width:8%;text-align:left;">Year</th>${MONTH_NAMES.map(mn => `<th style="text-align:center;">${mn}</th>`).join('')}
   </tr></thead><tbody>`;
 
       for (const y of [...years].reverse()) {
-        html += `<tr><td class="year-col">${y}</td>`;
+        html += `<tr><td class="year-col" style="text-align:left;">${y}</td>`;
         for (let m = 0; m < 12; m++) {
           const v = matrix[y][m];
           if (v == null) {
-            html += `<td style="color:#484f58">-</td>`;
+            html += `<td style="color:#484f58;text-align:center;">-</td>`;
           } else {
             const { min, max } = colStats[m];
             const ratio = max > min ? (v - min) / (max - min) : 0.5;
             const bg = heatmapColorAbs(ratio);
             const ttTitle = `${MONTH_NAMES[m]} ${y}: ${fmt(v, 0)}`;
-            html += `<td style="background:${bg};color:#e6edf3" 
+            html += `<td style="background:${bg};color:#e6edf3;text-align:center;" 
                 data-tooltip=" " 
                 data-tt-type="heatmap-cell" 
                 data-tt-product="${productKey}" 
                 data-tt-year="${y}" 
                 data-tt-month="${m}" 
-                data-tt-val="${v}" 
+                data-tt-val="${fmt(v, 0)}" 
+                data-tt-raw-val="${v}" 
                 data-tt-title="${ttTitle}">${fmt(v, 0)}</td>`;
           }
         }
@@ -20188,7 +20241,9 @@ function buildMaster() {
     }
 
     function renderMonthlyHeatmapPct(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       const container = document.getElementById('monthlyHeatmap');
+      if (!container) return;
       const years = getProductYears(productKey);
 
       // Build avg matrix
@@ -20200,16 +20255,16 @@ function buildMaster() {
         }
       }
 
-      let html = `<table class="heatmap-table"><thead><tr>
-    <th>Year</th>${MONTH_NAMES.map(mn => `<th>${mn}</th>`).join('')}
+      let html = `<table class="heatmap-table" style="width:100%;min-width:900px;"><thead><tr>
+    <th style="width:8%;text-align:left;">Year</th>${MONTH_NAMES.map(mn => `<th style="text-align:center;">${mn}</th>`).join('')}
   </tr></thead><tbody>`;
 
       for (const y of [...years].reverse()) {
-        html += `<tr><td class="year-col">${y}</td>`;
+        html += `<tr><td class="year-col" style="text-align:left;">${y}</td>`;
         for (let m = 0; m < 12; m++) {
           const v = matrix[y][m];
           if (v == null) {
-            html += `<td style="color:#484f58">-</td>`;
+            html += `<td style="color:#484f58;text-align:center;">-</td>`;
           } else {
             // MoM %: compare to previous month (could be prior year month 11)
             let prevV = null;
@@ -20230,13 +20285,14 @@ function buildMaster() {
               pctStr = '-';
             }
             const ttTitle = `${MONTH_NAMES[m]} ${y}: ${fmt(v, 0)}`;
-            html += `<td style="background:${bg};color:#e6edf3" 
+            html += `<td style="background:${bg};color:#e6edf3;text-align:center;" 
               data-tooltip=" " 
               data-tt-type="heatmap-cell" 
               data-tt-product="${productKey}" 
               data-tt-year="${y}" 
               data-tt-month="${m}" 
-              data-tt-val="${v}" 
+              data-tt-val="${fmt(v, 0)}" 
+              data-tt-raw-val="${v}" 
               data-tt-title="${ttTitle}">
               <span class="heatmap-abs-val">${fmt(v, 0)}</span>
               <span class="heatmap-pct-val">${pctStr}</span>
@@ -20269,6 +20325,7 @@ function buildMaster() {
     // QUARTERLY TAB
     // =====================================================================
     function renderQuarterlyTab(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       // The quarterly heatmap download buttons are now wired in renderHeatmaps
       // document.getElementById('quarterlyHeatmapDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
 
@@ -20300,6 +20357,7 @@ function buildMaster() {
 
     // ---- CHANGE 6: Win-Rate KPI Cards ----
     function renderWinRateCards(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
       const cy = new Date().getFullYear();
       // Only COMPLETE years count (exclude the current incomplete year)
@@ -20361,7 +20419,9 @@ function buildMaster() {
 
     // ---- Quarterly Heatmap with QoQ % divergent color ----
     function renderQuarterlyHeatmap(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       const container = document.getElementById('quarterlyHeatmap');
+      if (!container) return;
       const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
       const years = getProductYears(productKey);
 
@@ -20380,16 +20440,16 @@ function buildMaster() {
         colStats[q] = { min: Math.min(...vals), max: Math.max(...vals) };
       }
 
-      let html = `<table class="heatmap-table"><thead><tr>
-    <th>Year</th>${quarters.map(q => `<th>${q}</th>`).join('')}
+      let html = `<table class="heatmap-table" style="width:100%;table-layout:fixed;"><thead><tr>
+    <th style="width:12%;text-align:left;">Year</th>${quarters.map(q => `<th style="width:22%;text-align:center;">${q}</th>`).join('')}
   </tr></thead><tbody>`;
 
       for (const y of [...years].reverse()) {
-        html += `<tr><td class="year-col">${y}</td>`;
+        html += `<tr><td class="year-col" style="text-align:left;">${y}</td>`;
         for (const q of quarters) {
           const v = matrix[y][q];
           if (v == null) {
-            html += `<td style="color:#484f58">-</td>`;
+            html += `<td style="color:#484f58;text-align:center;">-</td>`;
           } else {
             // QoQ %: compare to prior quarter
             let prevV = null;
@@ -20414,13 +20474,14 @@ function buildMaster() {
               ? `<span class="heatmap-abs-val">${fmt(v, 0)}</span><span class="heatmap-pct-val">${pctStr}</span>`
               : fmt(v, 0);
             const ttTitle = `${q} ${y}: ${fmt(v, 0)}`;
-            html += `<td style="background:${bg};color:#e6edf3"
+            html += `<td style="background:${bg};color:#e6edf3;text-align:center;"
               data-tooltip=" " 
               data-tt-type="quarterly-cell" 
               data-tt-product="${productKey}" 
               data-tt-year="${y}" 
               data-tt-quarter="${q}" 
-              data-tt-val="${v}" 
+              data-tt-val="${fmt(v, 0)}" 
+              data-tt-raw-val="${v}" 
               data-tt-title="${ttTitle}">${cellContent}</td>`;
           }
         }
@@ -20447,6 +20508,8 @@ function buildMaster() {
 
     // ---- CHANGE 6: Spaghetti Chart ----
     function renderSpaghettiChart(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       const quarters = ['Q1', 'Q2', 'Q3', 'Q4'];
       const qColors = { Q1: '#58a6ff', Q2: '#3fb950', Q3: '#f0883e', Q4: '#a371f7' };
       const years = getProductYears(productKey);
@@ -23109,6 +23172,7 @@ function buildMaster() {
     // (signals debounce body, bunker idle slices) can verify their tab is the
     // one still on screen before touching the DOM.
     window.currentTab = currentTab;
+    window.currentProduct = currentProduct;
 
     // =====================================================================
     // LAZY CANVASES REGISTRY (Keeps boot canvases <= 12)
@@ -23673,6 +23737,7 @@ function buildMaster() {
 
     document.getElementById('globalProduct').addEventListener('change', function () {
       currentProduct = this.value;
+      window.currentProduct = currentProduct;
       if (!DATA.loaded) return;
       if (typeof invalidateStatsCache === 'function') invalidateStatsCache();
       if (currentTab === 'dashboard') renderDashboard(currentProduct);
@@ -23875,12 +23940,13 @@ function buildMaster() {
 
       // Re-render the activated view directly into the live unhidden DOM
       try {
+        var pk = (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
         if (isMonth) {
-          if (typeof renderMonthlyDash === 'function') renderMonthlyDash(currentProduct);
+          if (typeof renderMonthlyDash === 'function') renderMonthlyDash(pk);
         } else {
-          if (typeof renderQuarterlyTab === 'function') renderQuarterlyTab(currentProduct);
+          if (typeof renderQuarterlyTab === 'function') renderQuarterlyTab(pk);
         }
-        if (typeof renderHeatmaps === 'function') renderHeatmaps(currentProduct);
+        if (typeof renderHeatmaps === 'function') renderHeatmaps(pk);
       } catch (err) {
         console.error('[SeasonGranularity switch error]', err);
       }
@@ -24646,6 +24712,8 @@ function buildMaster() {
     }
 
     function renderYDShippingRates(productKey, canvasId) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       var cy = new Date().getFullYear(), avgs = [], colors = [];
       for (var m = 0; m < 12; m++) { var v = DATA.master.filter(function (r) { return r.year === cy && r.month === m && r[productKey] != null; }).map(function (r) { return r[productKey]; }); avgs.push(v.length ? mean(v) : null); }
       for (var m = 0; m < 12; m++) { var prev = m === 0 ? null : avgs[m - 1], curr = avgs[m]; if (curr == null) colors.push('#484f58'); else if (prev == null) colors.push(PRODUCTS[productKey].color); else colors.push(curr >= prev ? '#3fb950' : '#f85149'); }
@@ -24743,6 +24811,7 @@ function buildMaster() {
     // MONTHLY DASHBOARD TAB
     // =====================================================================
     function renderMonthlyDash(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       var fns = [
         function () { renderMonthlySpaghettiChart(productKey); },
         function () { renderSeasonalPos(productKey); },
@@ -24765,6 +24834,8 @@ function buildMaster() {
 
 
     function renderMonthlySpaghettiChart(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
       const mColors = [
         '#58a6ff', '#3fb950', '#f0883e', '#a371f7',
@@ -24831,6 +24902,8 @@ function buildMaster() {
     }
 
     function renderMDBarChart(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       var now = new Date(), labels = [], data = [], colors = [], prevAvg = null;
       for (var i = 11; i >= 0; i--) {
         var d = new Date(now.getFullYear(), now.getMonth() - i, 1), y = d.getFullYear(), m = d.getMonth();
@@ -24853,6 +24926,8 @@ function buildMaster() {
 
 
     function renderSeasonalPos(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       var prod = PRODUCTS[productKey];
       var cy = new Date().getFullYear(), curMonth = new Date().getMonth();
       var months = [0,1,2,3,4,5,6,7,8,9,10,11];
@@ -24907,6 +24982,8 @@ function buildMaster() {
     }
 
     function renderMDAreaComp(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       const cy = new Date().getFullYear();
       const py = cy - 1;
       const prod = PRODUCTS[productKey];
@@ -24942,11 +25019,14 @@ function buildMaster() {
     // =====================================================================
     // QUARTERLY DASHBOARD TAB
     // =====================================================================
-        function getQAvgPD(productKey, year, quarter) {
+    function getQAvgPD(productKey, year, quarter) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       return getQAvgCached(productKey, year, quarter);
     }
 
     function renderQDAreaComp1(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       var cy = new Date().getFullYear(), py = cy - 1, prod = PRODUCTS[productKey], qs = ['Q1', 'Q2', 'Q3', 'Q4'];
       var years5 = [cy, cy - 1, cy - 2, cy - 3, cy - 4];
       var seasonal = qs.map(function (q) { var v = years5.map(function (y) { return getQAvgPD(productKey, y, q); }).filter(function (v) { return v != null; }); return v.length ? mean(v) : null; });
@@ -24972,6 +25052,8 @@ function buildMaster() {
 
 
     function renderQDBarChart(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      if (!PRODUCTS[productKey]) productKey = 'bdiy';
       var now = new Date(), qs = ['Q1', 'Q2', 'Q3', 'Q4'], qIdx = qs.indexOf(getQuarter(now.getMonth())), y = now.getFullYear(), quarters = [];
       for (var i = 0; i < 4; i++) { qIdx--; if (qIdx < 0) { qIdx = 3; y--; } quarters.unshift({ year: y, q: qs[qIdx] }); }
       var labels = quarters.map(function (x) { return x.q + ' ' + x.year; }), data = quarters.map(function (x) { return getQAvgPD(productKey, x.year, x.q); });
@@ -24988,6 +25070,9 @@ function buildMaster() {
     }
 
     function renderQDDataGrid(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
+      var container = document.getElementById('quarterlyDashDataGrid');
+      if (!container) return;
       var a8all = [];
       var cy = new Date().getFullYear(), years8 = [cy, cy - 1, cy - 2, cy - 3, cy - 4, cy - 5, cy - 6, cy - 7], qs = ['Q1', 'Q2', 'Q3', 'Q4'];
       var seen = {}, allYears = [];
@@ -25001,24 +25086,24 @@ function buildMaster() {
       var avg8y = {};
       qs.forEach(function (q) { var v = years8.map(function (y) { return matrix[y] ? matrix[y][q] : null; }).filter(function (v) { return v != null; }); avg8y[q] = v.length ? mean(v) : null; });
       
-      var html = '<table class="heatmap-table"><thead><tr><th>Year</th>' + qs.map(function (q) { return '<th>' + q + '</th>'; }).join('') + '<th>Full Year Avg</th><th>YoY %</th></tr></thead><tbody>';
+      var html = '<table class="heatmap-table" style="width:100%;"><thead><tr><th style="width:14%;text-align:left;">Year</th>' + qs.map(function (q) { return '<th style="width:14%;text-align:center;">' + q + '</th>'; }).join('') + '<th style="width:16%;text-align:center;">Full Year Avg</th><th style="width:14%;text-align:center;">YoY %</th></tr></thead><tbody>';
       years8.forEach(function (y, i) {
         var qv = qs.map(function (q) { return matrix[y] ? matrix[y][q] : null; }), nn = qv.filter(function (v) { return v != null; }), fy = nn.length ? mean(nn) : null;
         var py2 = years8[i + 1], pv = py2 != null ? qs.map(function (q) { return matrix[py2] ? matrix[py2][q] : null; }).filter(function (v) { return v != null; }) : [], pfy = pv.length ? mean(pv) : null;
         var yoy = fy != null && pfy != null && pfy !== 0 ? ((fy - pfy) / pfy) * 100 : null;
-        html += '<tr><td class="year-col">' + y + '</td>';
-        qs.forEach(function (q) { var v = matrix[y] ? matrix[y][q] : null; if (v == null) { html += '<td style="color:#484f58">-</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3">' + fmt(v, 0) + '</td>'; });
-        html += '<td style="color:var(--text-muted)">' + (fy != null ? fmt(fy, 0) : '-') + '</td>';
-        html += '<td class="' + (yoy == null ? '' : yoy >= 0 ? 'val-green' : 'val-red') + '" style="font-weight:600">' + (yoy != null ? (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '%' : '-') + '</td></tr>';
+        html += '<tr><td class="year-col" style="text-align:left;">' + y + '</td>';
+        qs.forEach(function (q) { var v = matrix[y] ? matrix[y][q] : null; if (v == null) { html += '<td style="color:#484f58;text-align:center;">-</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;text-align:center;">' + fmt(v, 0) + '</td>'; });
+        html += '<td style="color:var(--text-muted);text-align:center;">' + (fy != null ? fmt(fy, 0) : '-') + '</td>';
+        html += '<td class="' + (yoy == null ? '' : yoy >= 0 ? 'val-green' : 'val-red') + '" style="font-weight:600;text-align:center;">' + (yoy != null ? (yoy >= 0 ? '+' : '') + yoy.toFixed(1) + '%' : '-') + '</td></tr>';
       });
       
-      html += '<tr><td class="year-col" style="color:var(--accent);font-weight:700">8Y Avg</td>';
-      qs.forEach(function (q) { var v = avg8y[q]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58">-</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600">' + fmt(v, 0) + '</td>'; });
+      html += '<tr><td class="year-col" style="color:var(--accent);font-weight:700;text-align:left;">8Y Avg</td>';
+      qs.forEach(function (q) { var v = avg8y[q]; a8all.push(v); if (v == null) { html += '<td style="color:#484f58;text-align:center;">-</td>'; return; } var cs = colStats[q], r2 = cs.max > cs.min ? (v - cs.min) / (cs.max - cs.min) : 0.5; html += '<td style="background:' + heatmapColorAbs(r2) + ';color:#e6edf3;font-weight:600;text-align:center;">' + fmt(v, 0) + '</td>'; });
       var a8avg = mean(a8all.filter(function (v) { return v != null; }));
-      html += '<td style="color:var(--accent);font-weight:600">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '-') + '</td><td>-</td></tr>';
+      html += '<td style="color:var(--accent);font-weight:600;text-align:center;">' + (a8avg != null && !isNaN(a8avg) ? fmt(a8avg, 0) : '-') + '</td><td style="text-align:center;">-</td></tr>';
       
       var ly = years8[0];
-      html += '<tr><td class="year-col" style="color:var(--text-muted)">QoQ %</td>';
+      html += '<tr><td class="year-col" style="color:var(--text-muted);text-align:left;">QoQ %</td>';
       for (var i = 0; i < qs.length; i++) {
         var q = qs[i];
         var curr = matrix[ly] ? matrix[ly][q] : null;
@@ -25026,15 +25111,16 @@ function buildMaster() {
         if (i > 0) { prev = matrix[ly] ? matrix[ly][qs[i-1]] : null; } 
         else { prev = matrix[ly-1] ? matrix[ly-1][qs[3]] : null; }
         
-        if (curr == null || prev == null) { html += '<td style="color:#484f58">-</td>'; continue; }
+        if (curr == null || prev == null) { html += '<td style="color:#484f58;text-align:center;">-</td>'; continue; }
         var pct = ((curr - prev) / prev) * 100;
-        html += '<td style="background:' + heatmapColorPct(pct) + ';color:#e6edf3;font-size:11px">' + (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%</td>';
+        html += '<td style="background:' + heatmapColorPct(pct) + ';color:#e6edf3;font-size:11px;text-align:center;">' + (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%</td>';
       }
       
-      html += '<td>-</td><td>-</td></tr></tbody></table>';
+      html += '<td style="text-align:center;">-</td><td style="text-align:center;">-</td></tr></tbody></table>';
       
-      document.getElementById('quarterlyDashDataGrid').innerHTML = html;
-      document.getElementById('quarterlyDashGridDlBtn').onclick = function () {
+      container.innerHTML = html;
+      var dl = document.getElementById('quarterlyDashGridDlBtn');
+      if (dl) dl.onclick = function () {
         var headers = ['Year'].concat(qs).concat(['Full Year Avg', 'YoY %']);
         var rows = years8.map(function (y, i) {
           var qv = qs.map(function (q) { return matrix[y] ? matrix[y][q] : null; }), nn = qv.filter(function (v) { return v != null; }), fy = nn.length ? mean(nn) : null;
@@ -25053,6 +25139,7 @@ function buildMaster() {
     // Helper: compute win-rate for a period set over a given window of years
     // Returns fraction of years where avg(period) > avg(prior period)
     function _computeWinRate(productKey, periods, getPeriodAvg, allYears, windowYears) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       var cy = new Date().getFullYear();
       // Exclude the current incomplete year: only COMPLETE years count
       var years = windowYears > 0
@@ -25105,6 +25192,7 @@ function buildMaster() {
     function _renderWinRateMatrix(elId, periods, labels, getPAvg, productKey, unitWord, headerNoun, minWidth) {
       var el = document.getElementById(elId);
       if (!el) return;
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       var allYears = getProductYears(productKey);
       if (!allYears || !allYears.length) { el.innerHTML = ''; return; }
 
@@ -25112,15 +25200,13 @@ function buildMaster() {
       var w15  = _computeWinRate(productKey, periods, getPAvg, allYears, 15);
       var wAll = _computeWinRate(productKey, periods, getPAvg, allYears, 0);
 
-      // Dense fixed-width matrix: Quarter column compact, win-rate columns
-      // equal-width; table does NOT stretch to 100% (chips float in vast
-      // empty cells at wide viewports). Centered via margin auto.
-      var html = '<table class="heatmap-table" style="margin:0 auto;min-width:' + minWidth + 'px;">';
+      // Clean full-width card layout: left-aligned period, centered win-rate columns
+      var html = '<table class="heatmap-table" style="width:100%;">';
       html += '<thead><tr>';
-      html += '<th style="text-align:left;width:110px;">' + headerNoun + '</th>';
-      html += '<th style="min-width:130px;">10Y Win Rate</th>';
-      html += '<th style="min-width:130px;">15Y Win Rate</th>';
-      html += '<th style="min-width:150px;">All-Time Win Rate</th>';
+      html += '<th style="text-align:left;width:22%;">' + headerNoun + '</th>';
+      html += '<th style="text-align:center;width:26%;">10Y Win Rate</th>';
+      html += '<th style="text-align:center;width:26%;">15Y Win Rate</th>';
+      html += '<th style="text-align:center;width:26%;">All-Time Win Rate</th>';
       html += '</tr></thead><tbody>';
 
       periods.forEach(function (p, pi) {
@@ -25128,23 +25214,25 @@ function buildMaster() {
         var fmt = function (r) { return r != null ? (r * 100).toFixed(0) + '%' : '-'; };
         html += '<tr class="wr-row" data-tt-type="seasonal-winrate-matrix" data-tooltip="Historical win-rate for ' + labels[pi] + ' across different lookback windows. Win = ' + unitWord + ' avg higher than prior ' + unitWord + ' avg.">';
         html += '<td class="year-col" style="text-align:left;">' + labels[pi] + '</td>';
-        html += '<td style="' + _winRateCellStyle(r10) + '">' + fmt(r10) + '</td>';
-        html += '<td style="' + _winRateCellStyle(r15) + '">' + fmt(r15) + '</td>';
-        html += '<td style="' + _winRateCellStyle(rAll) + '">' + fmt(rAll) + '</td>';
+        html += '<td style="' + _winRateCellStyle(r10) + 'text-align:center;">' + fmt(r10) + '</td>';
+        html += '<td style="' + _winRateCellStyle(r15) + 'text-align:center;">' + fmt(r15) + '</td>';
+        html += '<td style="' + _winRateCellStyle(rAll) + 'text-align:center;">' + fmt(rAll) + '</td>';
         html += '</tr>';
       });
       html += '</tbody></table>';
-      html += '<div style="font-size:11px;color:var(--text-muted);margin-top:6px;">Win = ' + unitWord + ' average above prior ' + unitWord + ' average. <span style="color:#3fb950">&gt;60%</span> = seasonally bullish. <span style="color:#f85149">&lt;40%</span> = seasonally bearish.</div>';
+      html += '<div style="font-size:11px;color:var(--text-muted);margin-top:8px;">Win = ' + unitWord + ' average above prior ' + unitWord + ' average. <span style="color:#3fb950">&gt;60%</span> = seasonally bullish. <span style="color:#f85149">&lt;40%</span> = seasonally bearish.</div>';
       el.innerHTML = html;
     }
 
     function renderQuarterlyWinRateMatrix(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       var qs = ['Q1', 'Q2', 'Q3', 'Q4'];
       var getPAvg = function (pk, y, q) { return getQAvgCached(pk, y, q); };
       _renderWinRateMatrix('quarterlyWinRateMatrix', qs, qs, getPAvg, productKey, 'quarter', 'Quarter', 320);
     }
 
     function renderMonthlyWinRateMatrix(productKey) {
+      productKey = productKey || (typeof currentProduct !== 'undefined' ? currentProduct : null) || window.currentProduct || 'bdiy';
       var months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
       var getPAvg = function (pk, y, m) { return getMAvgCached(pk, y, m); };
       _renderWinRateMatrix('monthlyWinRateMatrix', months, MONTH_NAMES, getPAvg, productKey, 'month', 'Month', 400);
