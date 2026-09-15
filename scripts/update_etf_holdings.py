@@ -509,6 +509,55 @@ def fetch_official_firestore_master_feed(eval_date_limit: Optional[str] = None) 
     df.to_csv(buf, index=False, lineterminator='\n')
     return buf.getvalue().encode('utf-8')
 
+def fetch_official_firestore_daily_metrics(eval_date_limit: Optional[str] = None) -> Dict[str, Any]:
+    """
+    Queries Amplify's official Firestore REST API (which powers amplifyetfs.com)
+    for the latest daily fund metrics (NAV, Net Assets, Shares Outstanding, Market Price, etc.)
+    for BDRY and BWET.
+    """
+    base_url = f"https://firestore.googleapis.com/v1/projects/{AMPLIFY_FIRESTORE_PROJECT_ID}/databases/(default)/documents"
+    out = {}
+    for ticker in ["BDRY", "BWET"]:
+        try:
+            url = f"{base_url}/funds/{ticker}:runQuery?key={AMPLIFY_FIRESTORE_API_KEY}"
+            payload = {
+                "structuredQuery": {
+                    "from": [{"collectionId": "daily"}],
+                    "orderBy": [{"field": {"fieldPath": "__name__"}, "direction": "DESCENDING"}],
+                    "limit": 5
+                }
+            }
+            r = requests.post(url, json=payload, headers=HEADERS, timeout=20)
+            if r.status_code != 200:
+                print(f"[WARN] Amplify daily metrics query failed for {ticker}: HTTP {r.status_code}")
+                continue
+            docs = r.json()
+            for res in docs:
+                if "document" in res:
+                    doc = res["document"]
+                    doc_id = doc["name"].split("/")[-1]
+                    if not eval_date_limit or doc_id <= eval_date_limit:
+                        fields = doc.get("fields", {})
+                        def _val(k):
+                            v = fields.get(k, {})
+                            return v.get("doubleValue") or v.get("integerValue") or v.get("stringValue")
+                        out[ticker] = {
+                            "date": doc_id,
+                            "nav": float(_val("NAV") or 0.0),
+                            "net_assets": float(_val("NetAssets") or 0.0),
+                            "shares_outstanding": int(_val("SharesOutstanding") or 0),
+                            "market_price": float(_val("MarketPrice") or 0.0),
+                            "nav_change_dollars": float(_val("NAVChangeDollars") or 0.0),
+                            "nav_change_pct": float(_val("NAVChangePercentage") or 0.0),
+                            "market_price_change_dollars": float(_val("MarketPriceChangeDollars") or 0.0),
+                            "market_price_change_pct": float(_val("MarketPriceChangePercentage") or 0.0),
+                            "premium_discount": float(_val("PremiumDiscount") or 0.0),
+                        }
+                        break
+        except Exception as e:
+            print(f"[WARN] Error fetching Amplify daily metrics for {ticker}: {e}")
+    return out
+
 def run_update_pipeline(
     custom_url: Optional[str] = None,
     raw_bytes_override: Optional[bytes] = None,
@@ -591,7 +640,7 @@ def run_update_pipeline(
             else:
                 os.makedirs(dst_sub, exist_ok=True)
                 
-        for fname in ['bdry_holdings.csv', 'bwet_holdings.csv', 'bdry_holdings_history.csv', 'bwet_holdings_history.csv', 'bdry_liquidity.csv', 'bwet_liquidity.csv', 'BDRY_flows.csv', 'BWET_flows.csv']:
+        for fname in ['bdry_holdings.csv', 'bwet_holdings.csv', 'bdry_holdings_history.csv', 'bwet_holdings_history.csv', 'bdry_liquidity.csv', 'bwet_liquidity.csv', 'BDRY_flows.csv', 'BWET_flows.csv', 'amplify_daily_metrics.json']:
             src_f = os.path.join(base_dest, fname)
             if os.path.exists(src_f):
                 shutil.copy2(src_f, os.path.join(staging_dir, fname))
@@ -617,6 +666,16 @@ def run_update_pipeline(
                 staging_dir=staging_dir
             )
             print(f"[OK] Staged holdings, history & derived archive for {fund}")
+
+        # Fetch official daily metrics (NAV, NetAssets, Shares) from Amplify Firestore
+        try:
+            daily_metrics = fetch_official_firestore_daily_metrics(eval_date_limit=as_of_date)
+            if daily_metrics:
+                with open(os.path.join(staging_dir, 'amplify_daily_metrics.json'), 'w', encoding='utf-8') as f:
+                    json.dump(daily_metrics, f, indent=2)
+                print(f"[OK] Staged authoritative Amplify daily metrics for {list(daily_metrics.keys())}")
+        except Exception as e:
+            print(f"[WARN] Error saving daily metrics to staging: {e}")
 
         # Fetch market prices if requested
         if not skip_price_fetch:

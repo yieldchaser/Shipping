@@ -271,7 +271,35 @@ def generate_scenario_snapshot(
     f_file = os.path.join(base_dir, f"{fund}_flows.csv")
     latest_nav_sh = None
     latest_nav_date = None
-    if os.path.exists(f_file):
+    latest_shares = 2200000 if fund == 'BDRY' else 4700000
+    latest_total_nav = None
+
+    # Priority 0: Authoritative contemporaneous daily metrics from Amplify Firestore
+    amplify_metrics_file = os.path.join(base_dir, 'amplify_daily_metrics.json')
+    if not os.path.exists(amplify_metrics_file):
+        root_metrics = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'data', 'etf', 'amplify_daily_metrics.json'))
+        if os.path.exists(root_metrics):
+            amplify_metrics_file = root_metrics
+
+    if os.path.exists(amplify_metrics_file):
+        try:
+            with open(amplify_metrics_file, 'r', encoding='utf-8') as f:
+                amp_data = json.load(f)
+            fund_amp = amp_data.get(fund)
+            if fund_amp and (not snapshot_date or fund_amp.get('date') == snapshot_date or fund_amp.get('date') <= snapshot_date):
+                if fund_amp.get('nav') and fund_amp['nav'] > 0:
+                    latest_nav_sh = round(float(fund_amp['nav']), 4)
+                    latest_nav_date = fund_amp.get('date')
+                if fund_amp.get('net_assets') and fund_amp['net_assets'] > 0:
+                    latest_total_nav = round(float(fund_amp['net_assets']), 2)
+                if fund_amp.get('shares_outstanding') and fund_amp['shares_outstanding'] > 0:
+                    latest_shares = int(fund_amp['shares_outstanding'])
+                if fund_amp.get('market_price') and fund_amp['market_price'] > 0:
+                    latest_mkt_px = float(fund_amp['market_price'])
+        except Exception as e:
+            print(f"[WARN] Error reading amplify_daily_metrics: {e}")
+
+    if latest_nav_sh is None and os.path.exists(f_file):
         import pandas as pd
         df_f = pd.read_csv(f_file)
         df_f['date_dt'] = pd.to_datetime(df_f['date'], errors='coerce')
@@ -282,33 +310,33 @@ def generate_scenario_snapshot(
             latest_nav_date = last_f['date_dt'].strftime('%Y-%m-%d')
 
     # 3. Derive Shares Outstanding & Total NAV (Reverse-Engineered directly from Constituent Market Value & Weights)
-    latest_shares = 2200000 if fund == 'BDRY' else 4700000
-    latest_total_nav = None
+
 
     # Priority A: Reverse-engineer dynamically from daily holdings CSV (Market_Value / Weightings)
-    raw_holdings_path = os.path.join(base_dir, 'raw_holdings', fund, f"{snapshot_date}.csv")
-    if not os.path.exists(raw_holdings_path):
-        raw_holdings_path = os.path.join(base_dir, f"{f_key}_holdings.csv")
+    if latest_total_nav is None:
+        raw_holdings_path = os.path.join(base_dir, 'raw_holdings', fund, f"{snapshot_date}.csv")
+        if not os.path.exists(raw_holdings_path):
+            raw_holdings_path = os.path.join(base_dir, f"{f_key}_holdings.csv")
 
-    if os.path.exists(raw_holdings_path):
-        try:
-            import pandas as pd
-            import numpy as np
-            df_h = pd.read_csv(raw_holdings_path)
-            if 'Market_Value' in df_h.columns and 'Weightings' in df_h.columns:
-                df_h['mv_num'] = df_h['Market_Value'].astype(str).str.replace('$', '').str.replace(',', '').astype(float)
-                df_h['wt_num'] = df_h['Weightings'].astype(str).str.replace('%', '').astype(float) / 100.0
-                valid_rows = df_h[(df_h['wt_num'] > 0.02) & (df_h['mv_num'] > 0)]
-                if not valid_rows.empty:
-                    implied_total_nav = float((valid_rows['mv_num'] / valid_rows['wt_num']).median())
-                    latest_total_nav = round(implied_total_nav, 2)
-                    price_for_shares = latest_nav_sh if (latest_nav_sh and latest_nav_sh > 0) else latest_mkt_px
-                    if price_for_shares and price_for_shares > 0:
-                        raw_shares = latest_total_nav / price_for_shares
-                        # Discretize to ETF creation basket resolution (25,000 shares)
-                        latest_shares = int(round(raw_shares / 25000.0) * 25000)
-        except Exception:
-            pass
+        if os.path.exists(raw_holdings_path):
+            try:
+                import pandas as pd
+                import numpy as np
+                df_h = pd.read_csv(raw_holdings_path)
+                if 'Market_Value' in df_h.columns and 'Weightings' in df_h.columns:
+                    df_h['mv_num'] = df_h['Market_Value'].astype(str).str.replace('$', '').str.replace(',', '').astype(float)
+                    df_h['wt_num'] = df_h['Weightings'].astype(str).str.replace('%', '').astype(float) / 100.0
+                    valid_rows = df_h[(df_h['wt_num'] > 0.02) & (df_h['mv_num'] > 0)]
+                    if not valid_rows.empty:
+                        implied_total_nav = float((valid_rows['mv_num'] / valid_rows['wt_num']).median())
+                        latest_total_nav = round(implied_total_nav, 2)
+                        price_for_shares = latest_nav_sh if (latest_nav_sh and latest_nav_sh > 0) else latest_mkt_px
+                        if price_for_shares and price_for_shares > 0:
+                            raw_shares = latest_total_nav / price_for_shares
+                            # Discretize to ETF creation basket resolution (25,000 shares)
+                            latest_shares = int(round(raw_shares / 25000.0) * 25000)
+            except Exception:
+                pass
 
     # Priority B: Fallback to historical CFTC monthly ledger if holdings CSV missing weights
     if latest_total_nav is None:

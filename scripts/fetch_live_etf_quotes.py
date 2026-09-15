@@ -139,9 +139,22 @@ def run_pipeline(dry_run: bool = False) -> dict:
     print(f"[{now_iso}] Fetching ETF quotes for {TICKERS}...")
     success_count = 0
 
+    amplify_metrics_file = os.path.join(REPO_ROOT, "data", "etf", "amplify_daily_metrics.json")
+    amp_metrics = {}
+    if os.path.exists(amplify_metrics_file):
+        try:
+            with open(amplify_metrics_file, "r", encoding="utf-8") as f:
+                amp_metrics = json.load(f)
+        except Exception:
+            pass
+
     for ticker in TICKERS:
         q = fetch_quote_with_fallback(ticker)
         if q:
+            if ticker in amp_metrics:
+                q["navPrice"] = amp_metrics[ticker].get("nav")
+                q["netAssets"] = amp_metrics[ticker].get("net_assets")
+                q["sharesOutstanding"] = amp_metrics[ticker].get("shares_outstanding")
             bundle["quotes"][ticker] = q
             success_count += 1
             print(f"  [OK] {ticker}: ${q['price']:.2f} ({q['change_percent']:+.2f}%) via {q['source']}")
