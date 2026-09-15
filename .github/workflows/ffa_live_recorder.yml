@@ -6,22 +6,30 @@ name: FFA Live Recorder
 # raw.githubusercontent.com, so the page is never more than ~10-15 minutes behind
 # the market without redeploying the site on every push.
 #
-# A job may run at most 6 hours, so the day is split in three runs. Each stops
-# at a fixed UTC time; a late-starting run simply records a shorter window.
+# GitHub starts scheduled runs late on this repo, often by 4-6 hours (the 00:05 run on
+# 2026-09-15 started at 04:46, the 12:05 run on 2026-09-14 at 18:03), so the recording
+# window is set by the clock, not by which cron fired:
+#   - any run started inside the window records until the window closes or for 5h45m
+#     (a job may run at most 6 hours), whichever comes first;
+#   - a run that stops before the window closes dispatches the next run itself
+#     (workflow_dispatch starts within a minute or so), so one chain covers the day;
+#   - the crons only (re)start the chain; runs share one concurrency group, so a cron
+#     firing while the chain is alive just queues and replaces any other queued run;
+#   - a run started outside the window (weekend, after 18:30) exits at once.
 
 on:
   schedule:
-    - cron: '5 0 * * 1-5'     # Asia run, until 06:00 UTC
-    - cron: '55 5 * * 1-5'    # London morning run, until 12:10 UTC
-    - cron: '5 12 * * 1-5'    # afternoon run, until 18:30 UTC
+    - cron: '5 0 * * 1-5'
+    - cron: '5 3 * * 1-5'
+    - cron: '5 6 * * 1-5'
+    - cron: '5 9 * * 1-5'
+    - cron: '5 12 * * 1-5'
+    - cron: '5 15 * * 1-5'
   workflow_dispatch:
-    inputs:
-      until:
-        description: 'Stop at HH:MM UTC'
-        default: '18:30'
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: ffa-live-recorder
@@ -49,16 +57,28 @@ jobs:
         run: pip install requests
 
       - name: Record session
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WINDOW_START: '00:05'
+          WINDOW_END: '18:30'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          if [ -n "${{ github.event.inputs.until }}" ]; then
-            UNTIL="${{ github.event.inputs.until }}"
-          elif [ "${{ github.event.schedule }}" = "5 0 * * 1-5" ]; then
-            UNTIL="06:00"
-          elif [ "${{ github.event.schedule }}" = "55 5 * * 1-5" ]; then
-            UNTIL="12:10"
-          else
-            UNTIL="18:30"
+          mins() { echo $((10#${1%%:*} * 60 + 10#${1##*:})); }
+          now=$(mins "$(date -u +%H:%M)")
+          start=$(mins "$WINDOW_START"); end=$(mins "$WINDOW_END")
+          if [ "$(date -u +%u)" -gt 5 ] || [ "$now" -lt "$start" ] || [ "$now" -ge "$end" ]; then
+            echo "Outside the recording window ($WINDOW_START-$WINDOW_END UTC, weekdays); nothing to do."
+            exit 0
           fi
+          stop=$(( now + 345 )); [ "$stop" -gt "$end" ] && stop=$end
+          UNTIL=$(printf '%02d:%02d' $((stop / 60)) $((stop % 60)))
+          echo "Recording until $UNTIL UTC"
+          set +e
           python scripts/clarksons/ffa_live_recorder.py --interval 120 --push-every 600 --until "$UNTIL" --push
+          rc=$?
+          set -e
+          if [ "$stop" -lt "$end" ]; then
+            gh workflow run ffa_live_recorder.yml --ref main -R "$GITHUB_REPOSITORY" && echo "Dispatched the next run"
+          fi
+          exit $rc
