@@ -1,6 +1,6 @@
 {
   "manifest_version": "1.0.0",
-  "last_updated_utc": "2026-09-15T09:51:02.417327+00:00",
+  "last_updated_utc": "2026-09-15T18:05:01.700599+00:00",
   "records": {
     "BDRY": {
       "2026-08-13": {
@@ -1636,9 +1636,9 @@
             "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
             "status": "VERIFIED_OFFICIAL_ARCHIVE",
             "record_id": "pub:BDRY:2026-09-15:ed20045bfd8eebd647dcb67d4aafdd28a5eafa56b9f1898b495f40cffe2cc305",
-            "snapshot_content_sha256": "eb99c90baa139bae2bdaa3d6b355f05389d02be8d6add082871d3a1a14e8b25e",
-            "snapshot_sha256": "eb99c90baa139bae2bdaa3d6b355f05389d02be8d6add082871d3a1a14e8b25e",
-            "manifest_snapshot_sha256": "eb99c90baa139bae2bdaa3d6b355f05389d02be8d6add082871d3a1a14e8b25e",
+            "snapshot_content_sha256": "46242284450474cc2db7b25646c82beae8b2ef6e33c05265673c242987d5d68d",
+            "snapshot_sha256": "46242284450474cc2db7b25646c82beae8b2ef6e33c05265673c242987d5d68d",
+            "manifest_snapshot_sha256": "46242284450474cc2db7b25646c82beae8b2ef6e33c05265673c242987d5d68d",
             "expected_sha256": "ed20045bfd8eebd647dcb67d4aafdd28a5eafa56b9f1898b495f40cffe2cc305",
             "local_archive_path": "data/etf/raw_holdings/BDRY/2026-09-15.csv"
           }
@@ -3300,9 +3300,9 @@
             "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE",
             "status": "VERIFIED_OFFICIAL_ARCHIVE",
             "record_id": "pub:BWET:2026-09-15:404bd87983b90dbc70b1530839454d50105a1795977683e4b2611c76d2a40720",
-            "snapshot_content_sha256": "f60ed887ccb1a39e60161273bd1d20e6fab5d16b56b97082a77829e6b950c9e8",
-            "snapshot_sha256": "f60ed887ccb1a39e60161273bd1d20e6fab5d16b56b97082a77829e6b950c9e8",
-            "manifest_snapshot_sha256": "f60ed887ccb1a39e60161273bd1d20e6fab5d16b56b97082a77829e6b950c9e8",
+            "snapshot_content_sha256": "2de6bccae77ce8217cdc1f5d40ee46a9fa443cc4bc64ead87b6b1bffd6dc6f41",
+            "snapshot_sha256": "2de6bccae77ce8217cdc1f5d40ee46a9fa443cc4bc64ead87b6b1bffd6dc6f41",
+            "manifest_snapshot_sha256": "2de6bccae77ce8217cdc1f5d40ee46a9fa443cc4bc64ead87b6b1bffd6dc6f41",
             "expected_sha256": "404bd87983b90dbc70b1530839454d50105a1795977683e4b2611c76d2a40720",
             "local_archive_path": "data/etf/raw_holdings/BWET/2026-09-15.csv"
           }
@@ -8695,6 +8695,24 @@
       "as_of_date": "2026-09-15",
       "archive_sha256": "404bd87983b90dbc70b1530839454d50105a1795977683e4b2611c76d2a40720",
       "snapshot_content_sha256": "f60ed887ccb1a39e60161273bd1d20e6fab5d16b56b97082a77829e6b950c9e8",
+      "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
+    },
+    {
+      "record_id": "pub:BDRY:2026-09-15:ed20045bfd8eebd647dcb67d4aafdd28a5eafa56b9f1898b495f40cffe2cc305",
+      "timestamp_utc": "2026-09-15T08:17:31.400182+00:00",
+      "fund": "BDRY",
+      "as_of_date": "2026-09-15",
+      "archive_sha256": "ed20045bfd8eebd647dcb67d4aafdd28a5eafa56b9f1898b495f40cffe2cc305",
+      "snapshot_content_sha256": "46242284450474cc2db7b25646c82beae8b2ef6e33c05265673c242987d5d68d",
+      "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
+    },
+    {
+      "record_id": "pub:BWET:2026-09-15:404bd87983b90dbc70b1530839454d50105a1795977683e4b2611c76d2a40720",
+      "timestamp_utc": "2026-09-15T08:17:31.548010+00:00",
+      "fund": "BWET",
+      "as_of_date": "2026-09-15",
+      "archive_sha256": "404bd87983b90dbc70b1530839454d50105a1795977683e4b2611c76d2a40720",
+      "snapshot_content_sha256": "2de6bccae77ce8217cdc1f5d40ee46a9fa443cc4bc64ead87b6b1bffd6dc6f41",
       "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
     }
   ],
