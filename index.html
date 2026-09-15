@@ -12820,7 +12820,7 @@
                 <span id="ffaHistoryBadge"
                   style="font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;"></span>
                 <button class="toggle-btn"
-                  onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">Close</button>
+                  onclick="closeFFAContractHistory()">Close</button>
               </div>
             </div>
             <div id="ffaHistoryMessage" style="display:none;color:var(--text-muted);font-size:13px;padding:16px 0;"></div>
@@ -23443,7 +23443,10 @@ function buildMaster() {
         }
       }
       if (tabId === 'yearly-dash') withDeepHistory(currentProduct, function () { renderYearlyDash(currentProduct); });
-      if (tabId === 'signals') renderSignalsTab(currentProduct);
+      if (tabId === 'signals') {
+        if (typeof window.closeFFAContractHistory === 'function') window.closeFFAContractHistory();
+        renderSignalsTab(currentProduct);
+      }
       if (tabId === 'cargo') renderCargoTab();
       if (tabId === 'fearnleys') renderFearnleysTab();
       if (tabId === 'intelligence') renderIntelligenceTab();
@@ -33949,6 +33952,7 @@ function renderSignalsTab(productKey) {
     var _ffaProduct = 'cape';
     var _ffaComp = 'none';
     var _ffaProcessed = null;  // lazily computed from DATA.sgx
+    var _activeFFAContractId = null;
 
     // CME month code → month number (same map as update_indices.py)
     var _CME_MAP = { F: 1, G: 2, H: 3, J: 4, K: 5, M: 6, N: 7, Q: 8, U: 9, V: 10, X: 11, Z: 12 };
@@ -34180,6 +34184,17 @@ function renderSignalsTab(productKey) {
       });
     }
 
+    function closeFFAContractHistory() {
+      window.closeFFAContractHistory = closeFFAContractHistory;
+      _activeFFAContractId = null;
+      var hp = document.getElementById('ffaHistoryPanel');
+      if (hp) hp.style.display = 'none';
+      destroyChart('ffaHistoryChart');
+      var sel = document.getElementById('ffaContractPick');
+      if (sel) sel.value = '';
+    }
+    window.closeFFAContractHistory = closeFFAContractHistory;
+
     function setFFAProduct(p) {
       window.setFFAProduct = setFFAProduct;
       _ffaProduct = p;
@@ -34189,8 +34204,7 @@ function renderSignalsTab(productKey) {
         if (el) el.classList.toggle('active', k === p);
       });
       // Close any open history panel when switching product
-      var hp = document.getElementById('ffaHistoryPanel');
-      if (hp) { hp.style.display = 'none'; destroyChart('ffaHistoryChart'); }
+      closeFFAContractHistory();
       refreshFFAPick();
       renderFFAForwardCurve();
     }
@@ -34200,7 +34214,7 @@ function renderSignalsTab(productKey) {
       window.setFFAComp = setFFAComp;
       _ffaComp = w;
       ['1w', '2w', '1m', '3m', 'none'].forEach(function (k) {
-        var el = document.getElementById('ffaComp' + k);
+        var el = document.getElementById('ffaComp' + (k === 'none' ? 'None' : k));
         if (el) el.classList.toggle('active', k === w);
       });
       renderFFAForwardCurve();
@@ -34408,12 +34422,21 @@ function renderSignalsTab(productKey) {
           }
         },
       });
-      if (_contractsRef && _contractsRef.length > 0 && !chartRegistry['ffaHistoryChart']) {
-        renderFFAContractHistory(_contractsRef[0]);
+      // Keep existing open contract history updated if user explicitly clicked one; never auto-open on load or change
+      if (_activeFFAContractId && _contractsRef && _contractsRef.length > 0) {
+        var match = _contractsRef.filter(function (c) { return c.contract === _activeFFAContractId; })[0];
+        if (match) {
+          var hp = document.getElementById('ffaHistoryPanel');
+          if (hp && hp.style.display !== 'none') {
+            renderFFAContractHistory(match, true);
+          }
+        } else {
+          _activeFFAContractId = null;
+        }
       }
     }
 
-    function renderFFAContractHistory(contractData) {
+    function renderFFAContractHistory(contractData, noScroll) {
       var panel = document.getElementById('ffaHistoryPanel');
       var titleEl = document.getElementById('ffaHistoryTitle');
       var badgeEl = document.getElementById('ffaHistoryBadge');
@@ -34422,6 +34445,11 @@ function renderSignalsTab(productKey) {
       if (!panel || !canvas) return;
 
       panel.style.display = '';
+      _activeFFAContractId = contractData.contract;
+      var sel = document.getElementById('ffaContractPick');
+      if (sel && contractData.contract) {
+        sel.value = contractData.contract;
+      }
 
       var label = contractData.expiryLabel || contractData.contract;
       titleEl.textContent = 'Contract History - ' + label + ' (' + contractData.contract + ')';
@@ -34441,7 +34469,7 @@ function renderSignalsTab(productKey) {
         msgEl.innerHTML = '<em>Data collection in progress</em> - only ' + hist.length +
           ' data point' + (hist.length === 1 ? '' : 's') + ' available for ' + label + '.';
         canvas.style.display = 'none';
-        panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        if (!noScroll) panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         return;
       }
 
@@ -34540,7 +34568,7 @@ function renderSignalsTab(productKey) {
         }
       });
 
-      panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      if (!noScroll) panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
 
     // =====================================================================
