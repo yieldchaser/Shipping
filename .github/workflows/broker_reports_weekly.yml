@@ -2,8 +2,9 @@ name: Weekly Broker Reports Ingest
 
 on:
   schedule:
-    # Every Monday and Wednesday at 07:00 UTC
-    - cron: '0 7 * * 1,3'
+    # Monday, Wednesday, and Friday at 07:00 UTC, plus Friday at 18:00 UTC (captures Friday afternoon weekly reports)
+    - cron: '0 7 * * 1,3,5'
+    - cron: '0 18 * * 5'
   workflow_dispatch:
     inputs:
       pages:
@@ -48,11 +49,13 @@ jobs:
           python scripts/scrapers/fetch_hsn_shipbrokers.py "$PAGES"
           python scripts/update_intermodal_tc_rates.py
           python scripts/scrapers/fetch_gibson_weekly.py || true
+          python scripts/fearnleys/build_tanker_routes_daily.py --build --verify || true
+          python scripts/build_views.py || true
           python scripts/extract_demolition_pdfs.py || true
 
       - name: Commit & Push New Broker Reports
         run: |
-          git add reports/broker_reports/ data/derived/intermodal_tc_rates.csv data/derived/broker_reports_checkpoint.json data/clarksons/ data/derived/scrappage_prices.csv || true
+          git add reports/broker_reports/ data/derived/intermodal_tc_rates.csv data/derived/broker_reports_checkpoint.json data/clarksons/ data/derived/scrappage_prices.csv data/derived/fearnleys_tanker_routes_daily.json data/views/routes/ || true
           if git diff --staged --quiet; then
             echo "No new broker reports found."
             exit 0

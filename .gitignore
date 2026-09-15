@@ -59,5 +59,9 @@ data/raw/
 scripts/drewry_ais_pdfs/
 reports/shipbrokers/**/*.pdf
 reports/poten/**/*.pdf
-reports/poten/pdfs/
-
+# Temporary scraper / API citation caches
+**/.cache_*
+data/.cache_citations/
+*.png
+!assets/**/*.png
+!reports/**/*.png

@@ -90,6 +90,7 @@ jobs:
           # same refreshed catalog, then the Broker Desk gas overlay that reads them.
           if [ -f scripts/fearnleys/build_gas_rate_csvs.py ]; then python scripts/fearnleys/build_gas_rate_csvs.py --verify; fi
           if [ -f scripts/fearnleys/build_desk_caches.py ]; then python scripts/fearnleys/build_desk_caches.py; fi
+          if [ -f scripts/build_views.py ]; then python scripts/build_views.py; fi
           exit $rc
 
       - name: Geospatial voyage tracker (idempotent, additive-only)

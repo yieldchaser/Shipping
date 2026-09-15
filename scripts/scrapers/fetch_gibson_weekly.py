@@ -10,6 +10,7 @@ import os
 import re
 import csv
 import json
+import subprocess
 import requests
 from pathlib import Path
 from datetime import datetime
@@ -22,6 +23,32 @@ JSON_PATH = DATA_DIR / "gibson_tanker_rates_continuous_daily.json"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 }
+
+def http_get_content(url, timeout=12):
+    """Fetch URL with requests, falling back to system curl if requests times out or fails."""
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=timeout)
+        if r.status_code == 200:
+            return r.text
+    except Exception:
+        pass
+    # Fallback to curl
+    curl_bin = "curl.exe" if os.name == "nt" else "curl"
+    try:
+        res = subprocess.run(
+            [curl_bin, "-s", "-L", "--compressed", "-A", HEADERS["User-Agent"], url],
+            capture_output=True,
+            timeout=timeout + 10
+        )
+        if res.returncode == 0 and res.stdout:
+            raw = res.stdout
+            import gzip
+            if raw.startswith(b"\x1f\x8b"):
+                return gzip.decompress(raw).decode("utf-8", errors="ignore")
+            return raw.decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"  [Error] curl fallback failed for {url}: {e}")
+    return None
 
 ROUTE_SLUG_MAP = {
     "Mid East/China 270kt": "vlcc_mideast_china_270kt",
@@ -77,24 +104,26 @@ def load_existing_dataset():
     return date_map, existing_cols
 
 def parse_date_gibson(dstr):
+    if not dstr or not isinstance(dstr, str):
+        return None
     for fmt in ("%d/%m/%Y", "%Y-%m-%d", "%d-%m-%Y", "%d %b %Y"):
         try:
             return datetime.strptime(dstr.strip(), fmt).strftime("%Y-%m-%d")
         except ValueError:
             pass
-    return dstr.strip()
+    return None
 
 def fetch_latest_gibson_rates():
     print("Fetching latest Gibson reports...")
-    api_url = "https://www.gibsons.co.uk/wp-json/wp/v2/report?per_page=3"
+    api_url = "https://www.gibsons.co.uk/wp-json/wp/v2/report?_fields=id,date,title,link&per_page=5"
+    api_raw = http_get_content(api_url, timeout=15)
+    if not api_raw:
+        print("Gibson API error: Failed to fetch report list")
+        return
     try:
-        r = requests.get(api_url, headers=HEADERS, timeout=20)
-        if r.status_code != 200:
-            print(f"Gibson API error: HTTP {r.status_code}")
-            return
-        reports = r.json()
+        reports = json.loads(api_raw)
     except Exception as e:
-        print(f"Error calling Gibson API: {e}")
+        print(f"Error parsing Gibson API JSON: {e}")
         return
 
     date_map, existing_cols = load_existing_dataset()
@@ -106,13 +135,9 @@ def fetch_latest_gibson_rates():
         link = rep.get("link")
         title = rep.get("title", {}).get("rendered", "")
         print(f"Checking report: {title} ({link})")
-        try:
-            r_page = requests.get(link, headers=HEADERS, timeout=25)
-            if r_page.status_code != 200:
-                continue
-            html = r_page.text
-        except Exception as e:
-            print(f"  Error fetching page: {e}")
+        html = http_get_content(link, timeout=15)
+        if not html:
+            print(f"  Failed to fetch report HTML: {link}")
             continue
 
         parts = html.split("wpDataCharts[")
@@ -133,18 +158,27 @@ def fetch_latest_gibson_rates():
             except Exception:
                 continue
             iso_dates = [parse_date_gibson(l) for l in raw_labels]
+            # Ignore charts that are not daily time series (e.g. category bar charts)
+            valid_dates = [d for d in iso_dates if d is not None]
+            if not valid_dates or (len(valid_dates) / len(iso_dates)) < 0.8:
+                continue
 
             ds_pattern = re.compile(r'\"label\":\"([^\"]+)\".+?\"data\":(\[[^\]]+\])')
             datasets = ds_pattern.findall(block)
             
             for ds_lbl, ds_raw in datasets:
-                col_name = ds_lbl.strip()
+                col_name = ds_lbl.replace("\\/", "/").strip()
+                # Only track recognized tanker rate routes or existing columns
+                if col_name not in ROUTE_SLUG_MAP and col_name not in all_cols_set:
+                    continue
                 all_cols_set.add(col_name)
                 try:
                     vals = json.loads(ds_raw)
                 except Exception:
                     continue
                 for d, val in zip(iso_dates, vals):
+                    if not d:
+                        continue
                     if d not in date_map:
                         date_map[d] = {"Date": d}
                     if val is not None and str(val).strip() != "":
@@ -155,8 +189,9 @@ def fetch_latest_gibson_rates():
                             pass
 
     if date_map:
-        sorted_dates = sorted(date_map.keys())
-        cols = ["Date"] + [c for c in existing_cols if c != "Date"] + [c for c in sorted(all_cols_set) if c not in existing_cols and c != "Date"]
+        # Keep only valid ISO dates (YYYY-MM-DD)
+        sorted_dates = sorted(d for d in date_map.keys() if re.match(r"^\d{4}-\d{2}-\d{2}$", d))
+        cols = ["Date"] + [c for c in existing_cols if c != "Date" and "\\" not in c] + [c for c in sorted(all_cols_set) if c not in existing_cols and c != "Date" and "\\" not in c]
         final_rows = []
         for d in sorted_dates:
             row = {"Date": d}
