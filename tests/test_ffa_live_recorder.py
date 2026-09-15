@@ -64,7 +64,7 @@ def test_recorder_workflow_covers_london_session_and_pages_reads_raw():
     on = wf.get("on") or wf.get(True)
     crons = [c["cron"] for c in on["schedule"]]
     assert crons and all(c.endswith("* * 1-5") for c in crons)
-    # GitHub starts crons hours late, so the window comes from the clock and runs chain.
+    # GitHub starts crons hours late, so runs chain (waiting overnight) and the clock sets the window.
     hours = sorted(int(c.split()[1]) for c in crons)
     assert hours[0] == 0 and all(b - a <= 3 for a, b in zip(hours, hours[1:]))
     steps = wf["jobs"]["record"]["steps"]

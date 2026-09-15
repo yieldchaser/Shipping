@@ -7,15 +7,16 @@ name: FFA Live Recorder
 # the market without redeploying the site on every push.
 #
 # GitHub starts scheduled runs late on this repo, often by 4-6 hours (the 00:05 run on
-# 2026-09-15 started at 04:46, the 12:05 run on 2026-09-14 at 18:03), so the recording
-# window is set by the clock, not by which cron fired:
-#   - any run started inside the window records until the window closes or for 5h45m
+# 2026-09-15 started at 04:46, the 12:05 run on 2026-09-14 at 18:03), so nothing here
+# relies on a cron firing on time. The runs form one chain:
+#   - a run inside the window records until the window closes or its 5h45m budget ends
 #     (a job may run at most 6 hours), whichever comes first;
-#   - a run that stops before the window closes dispatches the next run itself
-#     (workflow_dispatch starts within a minute or so), so one chain covers the day;
-#   - the crons only (re)start the chain; runs share one concurrency group, so a cron
-#     firing while the chain is alive just queues and replaces any other queued run;
-#   - a run started outside the window (weekend, after 18:30) exits at once.
+#   - a run outside the window (evening, weekend) waits for the next window, recording
+#     if it opens within the budget;
+#   - every run dispatches the next one before it exits (workflow_dispatch starts within
+#     a minute or so), so recording starts at 00:05 on the dot each weekday;
+#   - the crons only restart the chain if it ever breaks; runs share one concurrency
+#     group, so a cron firing while the chain is alive queues and replaces any other queued run.
 
 on:
   schedule:
@@ -64,21 +65,32 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          mins() { echo $((10#${1%%:*} * 60 + 10#${1##*:})); }
-          now=$(mins "$(date -u +%H:%M)")
-          start=$(mins "$WINDOW_START"); end=$(mins "$WINDOW_END")
-          if [ "$(date -u +%u)" -gt 5 ] || [ "$now" -lt "$start" ] || [ "$now" -ge "$end" ]; then
-            echo "Outside the recording window ($WINDOW_START-$WINDOW_END UTC, weekdays); nothing to do."
-            exit 0
+          budget_end=$(( $(date -u +%s) + 345 * 60 ))
+          # Next weekday window start at or after now, and its end, as epoch seconds.
+          day=$(date -u +%F)
+          for i in 0 1 2 3 4 5 6 7; do
+            d=$(date -u -d "$day + $i day" +%F)
+            [ "$(date -u -d "$d" +%u)" -gt 5 ] && continue
+            ws=$(date -u -d "$d $WINDOW_START" +%s); we=$(date -u -d "$d $WINDOW_END" +%s)
+            [ "$(date -u +%s)" -lt "$we" ] && break
+          done
+          if [ "$ws" -ge "$budget_end" ]; then
+            echo "Next window opens $(date -u -d @$ws '+%a %H:%M') UTC, beyond this run; waiting out the budget."
+            sleep $(( budget_end - $(date -u +%s) ))
+            rc=0
+          else
+            now=$(date -u +%s)
+            if [ "$now" -lt "$ws" ]; then
+              echo "Waiting for the window to open at $(date -u -d @$ws '+%a %H:%M') UTC"
+              sleep $(( ws - now ))
+            fi
+            stop=$(( budget_end < we ? budget_end : we ))
+            UNTIL=$(date -u -d @$stop +%H:%M)
+            echo "Recording until $UNTIL UTC"
+            set +e
+            python scripts/clarksons/ffa_live_recorder.py --interval 120 --push-every 600 --until "$UNTIL" --push
+            rc=$?
+            set -e
           fi
-          stop=$(( now + 345 )); [ "$stop" -gt "$end" ] && stop=$end
-          UNTIL=$(printf '%02d:%02d' $((stop / 60)) $((stop % 60)))
-          echo "Recording until $UNTIL UTC"
-          set +e
-          python scripts/clarksons/ffa_live_recorder.py --interval 120 --push-every 600 --until "$UNTIL" --push
-          rc=$?
-          set -e
-          if [ "$stop" -lt "$end" ]; then
-            gh workflow run ffa_live_recorder.yml --ref main -R "$GITHUB_REPOSITORY" && echo "Dispatched the next run"
-          fi
+          gh workflow run ffa_live_recorder.yml --ref main -R "$GITHUB_REPOSITORY" && echo "Dispatched the next run"
           exit $rc
