@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-14T11:26:31Z",
-    "as_of": "2026-09-14",
+    "generated_at": "2026-09-15T09:50:44Z",
+    "as_of": "2026-09-15",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
   },
@@ -622,7 +622,7 @@
         30.05,
         31.19,
         30.24,
-        32.48
+        32.61
       ],
       "provenance": {
         "volume_source": "USDA AMS grain inspections by top 20 destinations, US Gulf (agtransport.usda.gov 5sxb-qe7q)",
