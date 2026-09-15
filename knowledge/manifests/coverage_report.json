@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-14T17:16:58Z",
+  "generated_at": "2026-09-14T20:24:55Z",
   "current_date": "2026-09-14",
   "corpus": {
-    "document_count": 10113,
-    "chunk_count": 105675,
-    "section_count": 34482,
+    "document_count": 10114,
+    "chunk_count": 105678,
+    "section_count": 34484,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -16,11 +16,11 @@
       "category": "drybulk",
       "status": "healthy",
       "cadence_days": 14,
-      "latest_date": "2026-09-01",
-      "age_days": 13,
+      "latest_date": "2026-09-15",
+      "age_days": -1,
       "latest_gap_days": 14,
       "max_recent_gap_days": 14,
-      "dated_doc_count": 209,
+      "dated_doc_count": 210,
       "undated_doc_count": 0
     },
     {
@@ -212,24 +212,24 @@
       "title": "Dry Bulk Market",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-09-14",
-      "latest_evidence_age_days": 0,
-      "relevant_corpus_latest_date": "2026-09-14",
+      "latest_evidence_date": "2026-09-15",
+      "latest_evidence_age_days": -1,
+      "relevant_corpus_latest_date": "2026-09-15",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 86,
       "source_counts": {
         "baltic": 28,
-        "breakwave": 2,
-        "breakwave_insights": 126,
+        "breakwave": 4,
+        "breakwave_insights": 124,
         "hellenic": 94
       },
       "category_counts": {
         "demolition": 25,
         "dry": 28,
         "dry_charter": 9,
-        "drybulk": 2,
-        "insights": 126,
+        "drybulk": 4,
+        "insights": 124,
         "iron_ore": 46,
         "shipbuilding": 5,
         "vessel_valuations": 9
@@ -291,22 +291,22 @@
       "title": "Capesize",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-09-14",
-      "latest_evidence_age_days": 0,
-      "relevant_corpus_latest_date": "2026-09-14",
+      "latest_evidence_date": "2026-09-15",
+      "latest_evidence_age_days": -1,
+      "relevant_corpus_latest_date": "2026-09-15",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 123,
+      "document_count": 122,
       "source_counts": {
-        "baltic": 37,
-        "breakwave": 8,
+        "baltic": 35,
+        "breakwave": 10,
         "breakwave_insights": 71,
         "hellenic": 134
       },
       "category_counts": {
-        "dry": 37,
+        "dry": 35,
         "dry_charter": 9,
-        "drybulk": 8,
+        "drybulk": 10,
         "insights": 71,
         "iron_ore": 118,
         "vessel_valuations": 7
@@ -320,8 +320,8 @@
       "missing_recent_sources": [],
       "tone_distribution": {
         "cautiously_bearish": 24,
-        "constructive": 64,
-        "neutral": 35
+        "constructive": 65,
+        "neutral": 33
       }
     },
     {
@@ -329,23 +329,23 @@
       "title": "Panamax and Supramax",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-09-14",
-      "latest_evidence_age_days": 0,
-      "relevant_corpus_latest_date": "2026-09-14",
+      "latest_evidence_date": "2026-09-15",
+      "latest_evidence_age_days": -1,
+      "relevant_corpus_latest_date": "2026-09-15",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 116,
+      "document_count": 117,
       "source_counts": {
         "baltic": 99,
-        "breakwave": 6,
-        "breakwave_insights": 121,
+        "breakwave": 8,
+        "breakwave_insights": 119,
         "hellenic": 24
       },
       "category_counts": {
         "dry": 99,
         "dry_charter": 11,
-        "drybulk": 6,
-        "insights": 121,
+        "drybulk": 8,
+        "insights": 119,
         "vessel_valuations": 13
       },
       "recent_sources_present": [
@@ -357,7 +357,7 @@
       "missing_recent_sources": [],
       "tone_distribution": {
         "cautiously_bearish": 9,
-        "constructive": 60,
+        "constructive": 61,
         "neutral": 47
       }
     },
@@ -405,24 +405,24 @@
       "title": "China Steel and Iron Ore",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-09-14",
-      "latest_evidence_age_days": 0,
-      "relevant_corpus_latest_date": "2026-09-14",
+      "latest_evidence_date": "2026-09-15",
+      "latest_evidence_age_days": -1,
+      "relevant_corpus_latest_date": "2026-09-15",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 98,
       "source_counts": {
         "baltic": 39,
-        "breakwave": 6,
+        "breakwave": 7,
         "breakwave_insights": 124,
-        "hellenic": 81
+        "hellenic": 80
       },
       "category_counts": {
         "dry": 39,
         "dry_charter": 6,
-        "drybulk": 6,
+        "drybulk": 7,
         "insights": 124,
-        "iron_ore": 75
+        "iron_ore": 74
       },
       "recent_sources_present": [
         "baltic",
@@ -432,8 +432,8 @@
       ],
       "missing_recent_sources": [],
       "tone_distribution": {
-        "cautiously_bearish": 15,
-        "constructive": 60,
+        "cautiously_bearish": 14,
+        "constructive": 61,
         "neutral": 23
       }
     },
@@ -442,23 +442,23 @@
       "title": "Coal and Grain Flows",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-09-14",
-      "latest_evidence_age_days": 0,
-      "relevant_corpus_latest_date": "2026-09-14",
+      "latest_evidence_date": "2026-09-15",
+      "latest_evidence_age_days": -1,
+      "relevant_corpus_latest_date": "2026-09-15",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 104,
       "source_counts": {
         "baltic": 84,
-        "breakwave": 6,
-        "breakwave_insights": 151,
+        "breakwave": 8,
+        "breakwave_insights": 149,
         "hellenic": 9
       },
       "category_counts": {
         "dry": 84,
         "dry_charter": 9,
-        "drybulk": 6,
-        "insights": 151
+        "drybulk": 8,
+        "insights": 149
       },
       "recent_sources_present": [
         "baltic",
