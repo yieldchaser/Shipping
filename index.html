@@ -17050,19 +17050,25 @@ if (intelTabsContainer) {
     function pearsonCorr(keyA, keyB, cutoffDate) {
       // Correlate daily % RETURNS of date-intersected level pairs, not raw price
       // levels (level correlation is dominated by shared trend, pinning r≈1).
+      const cutoffTs = cutoffDate ? (cutoffDate.getTime ? cutoffDate.getTime() : new Date(cutoffDate).getTime()) : null;
       const pairs = [];
       for (const row of DATA.master) {
-        if (cutoffDate && row.date < cutoffDate) continue;
+        if (cutoffTs && row.ts < cutoffTs) continue;
         if (row[keyA] != null && row[keyB] != null) {
-          pairs.push([row.date, row[keyA], row[keyB]]);
+          pairs.push([row.ts, row[keyA], row[keyB]]);
         }
       }
       const retsA = [], retsB = [];
       for (let i = 1; i < pairs.length; i++) {
         const prevA = pairs[i - 1][1], prevB = pairs[i - 1][2];
-        if (prevA > 0 && prevB > 0) {
-          retsA.push((pairs[i][1] - prevA) / prevA);
-          retsB.push((pairs[i][2] - prevB) / prevB);
+        const curA = pairs[i][1], curB = pairs[i][2];
+        if (prevA > 0 && curA > 0 && prevB > 0 && curB > 0) {
+          const rA = (curA - prevA) / prevA;
+          const rB = (curB - prevB) / prevB;
+          if (isFinite(rA) && isFinite(rB) && Math.abs(rA) < 5 && Math.abs(rB) < 5) {
+            retsA.push(rA);
+            retsB.push(rB);
+          }
         }
       }
       const n = retsA.length;
@@ -17500,6 +17506,7 @@ if (intelTabsContainer) {
     let etfsLoadPromise = null;
     function loadEtfsData() {
       if (etfsLoadPromise) return etfsLoadPromise;
+      const coreCorrKeys = ['bdiy', 'cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker', 'bdryff', 'bwetff'];
       etfsLoadPromise = Promise.allSettled([
         safeFetch('data/etf/bdry_holdings.csv', 'BDRY Holdings', [], r => { DATA.bdryHoldings = r || []; }),
         safeFetch('data/etf/bwet_holdings.csv', 'BWET Holdings', [], r => { DATA.bwetHoldings = r || []; }),
@@ -17511,14 +17518,23 @@ if (intelTabsContainer) {
         safeFetch('data/etf/BWET_flows.csv', 'BWET Flows', [], r => { DATA.bwetFlows = parseFlowCsv(r || []); }),
         safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r || []; }),
         safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r || []; }),
-        fetch('data/etf/live_quotes.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.etfLiveQuotes = d; }).catch(() => {})
+        fetch('data/etf/live_quotes.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.etfLiveQuotes = d; }).catch(() => {}),
+        ...coreCorrKeys.map(k => typeof ensureDeepHistory === 'function' ? ensureDeepHistory(k) : Promise.resolve())
       ]).then(() => {
         if (typeof buildMaster === 'function' && DATA.master && DATA.master.length) {
           try {
             buildMaster();
+            for (const r of DATA.master) {
+              if (r.bdry_spot == null && r.cape != null && r.panama != null && r.suprama != null) {
+                r.bdry_spot = BDRY_WEIGHTS.cape * r.cape + BDRY_WEIGHTS.panama * r.panama + BDRY_WEIGHTS.suprama * r.suprama;
+              }
+            }
           } catch (err) {
             console.error('[loadEtfsData buildMaster error]', err);
           }
+        }
+        if (typeof renderETFCorrMatrix === 'function') {
+          renderETFCorrMatrix();
         }
       });
       return etfsLoadPromise;
@@ -20093,13 +20109,30 @@ function buildMaster() {
     // =====================================================================
     // CHANGE 3 - Correlation Matrix
     // =====================================================================
-    const CORR_LABELS = ['BDI', 'BDRY Spot', 'Cape', 'Panama', 'Supra', 'Handy', 'DirtyT', 'CleanT', 'BDRYFF', 'BWETFF'];
+    const CORR_ITEMS = [
+      { key: 'bdiy', label: 'BDI', desc: 'Baltic Dry Index' },
+      { key: 'bdry_spot', label: 'BDRY Spot', desc: 'BDRY Spot Composite (50% Cape, 40% Pmx, 10% Supra)' },
+      { key: 'cape', label: 'Cape', desc: 'Capesize Index (BCI)' },
+      { key: 'panama', label: 'Panama', desc: 'Panamax Index (BPI)' },
+      { key: 'suprama', label: 'Supra', desc: 'Supramax Index (BSI)' },
+      { key: 'handysize', label: 'Handy', desc: 'Handysize Index (BHSI)' },
+      { key: 'dirtytanker', label: 'DirtyT', desc: 'Baltic Dirty Tanker Index (BDTI)' },
+      { key: 'cleantanker', label: 'CleanT', desc: 'Baltic Clean Tanker Index (BCTI)' },
+      { key: 'bdryff', label: 'BDRYFF', desc: 'BDRY Freight Futures Index' },
+      { key: 'bwetff', label: 'BWETFF', desc: 'BWET Freight Futures Index' }
+    ];
+    const CORR_LABELS = CORR_ITEMS.map(x => x.label);
 
     function setCorrTimeframe(el, tf) {
       window.setCorrTimeframe = setCorrTimeframe;
       currentCorrTimeframe = tf;
-      document.querySelectorAll('.corr-btn').forEach(b => b.classList.remove('active'));
-      el.classList.add('active');
+      const parent = el ? el.closest('.corr-timeframe-btns') : null;
+      if (parent) {
+        parent.querySelectorAll('.corr-btn').forEach(b => b.classList.remove('active'));
+      } else {
+        document.querySelectorAll('.corr-timeframe-btns .corr-btn').forEach(b => b.classList.remove('active'));
+      }
+      if (el) el.classList.add('active');
       renderCorrMatrix(tf);
     }
 
@@ -20126,21 +20159,25 @@ function buildMaster() {
 
     function renderCorrMatrix(tf) {
       const container = document.getElementById('corrMatrix');
+      if (!container) return;
       let html = `<table class="corr-table"><thead><tr><th></th>`;
-      for (const lbl of CORR_LABELS) html += `<th>${lbl}</th>`;
+      for (const item of CORR_ITEMS) html += `<th title="${item.desc || item.label}">${item.label}</th>`;
       html += '</tr></thead><tbody>';
 
-      const nCols = CORR_LABELS.length;
+      const nCols = CORR_ITEMS.length;
       for (let i = 0; i < nCols; i++) {
-        html += `<tr><th style="text-align:left;background:var(--bg);color:var(--text-muted);font-size:11px">${CORR_LABELS[i]}</th>`;
+        html += `<tr><th style="text-align:left;background:var(--bg);color:var(--text-muted);font-size:11px">${CORR_ITEMS[i].label}</th>`;
         for (let j = 0; j < nCols; j++) {
           if (i === j) {
-            html += `<td style="background:#1c3150;color:#58a6ff;font-weight:700">1.00</td>`;
+            html += `<td style="background:#1c3150;color:#58a6ff;font-weight:700" title="${CORR_ITEMS[i].label} vs ${CORR_ITEMS[j].label}: 1.00">1.00</td>`;
           } else {
-            const r = getCorrCached(PRODUCT_KEYS[i], PRODUCT_KEYS[j], tf);
+            const r = getCorrCached(CORR_ITEMS[i].key, CORR_ITEMS[j].key, tf);
             const bg = corrColor(r);
             const textCol = r != null && Math.abs(r) > 0.4 ? '#fff' : '#e6edf3';
-            html += `<td style="background:${bg};color:${textCol}">${r != null ? r.toFixed(2) : '-'}</td>`;
+            const rStr = r != null ? r.toFixed(2) : '-';
+            const tfLabel = tf === 'all' ? 'All Time' : (tf ? tf.toUpperCase() : 'All Time');
+            const tt = `${CORR_ITEMS[i].label} vs ${CORR_ITEMS[j].label} (${tfLabel}): ${r != null ? r.toFixed(3) : 'N/A'}`;
+            html += `<td style="background:${bg};color:${textCol}" title="${tt}" data-tooltip="${tt}">${rStr}</td>`;
           }
         }
         html += '</tr>';
@@ -20149,27 +20186,35 @@ function buildMaster() {
       container.innerHTML = html;
     }
 
+    let currentETFCorrTimeframe = 'all';
     function renderETFCorrMatrix(tf) {
       window.renderETFCorrMatrix = renderETFCorrMatrix;
+      if (!tf) tf = currentETFCorrTimeframe || 'all';
+      currentETFCorrTimeframe = tf;
+
       ['all', '5y', '1y'].forEach(x => {
         const el = document.getElementById('etfCorrBtn' + x);
         if (el) el.classList.toggle('active', x === tf);
       });
       const container = document.getElementById('etfCorrMatrix');
       if (!container) return;
-      const etfKeys = ['bdry', 'bwet'];
-      const etfLabels = ['BDRY Price', 'BWET Price'];
+      const etfDefs = [
+        { key: 'bdry', label: 'BDRY Price' },
+        { key: 'bwet', label: 'BWET Price' }
+      ];
       let html = `<table class="corr-table"><thead><tr><th></th>`;
-      for (const lbl of CORR_LABELS) html += `<th>${lbl}</th>`;
+      for (const item of CORR_ITEMS) html += `<th title="${item.desc || item.label}">${item.label}</th>`;
       html += '</tr></thead><tbody>';
-      for (let i = 0; i < etfKeys.length; i++) {
-        html += `<tr><th style="text-align:left;background:var(--bg);color:var(--text-muted);font-size:11px;padding:8px 10px">${etfLabels[i]}</th>`;
-        const corrKeys = PRODUCT_KEYS.slice(0, CORR_LABELS.length);
-        for (let j = 0; j < corrKeys.length; j++) {
-          const r = getCorrCached(etfKeys[i], corrKeys[j], tf);
+      for (let i = 0; i < etfDefs.length; i++) {
+        html += `<tr><th style="text-align:left;background:var(--bg);color:var(--text-muted);font-size:11px;padding:8px 10px">${etfDefs[i].label}</th>`;
+        for (let j = 0; j < CORR_ITEMS.length; j++) {
+          const r = getCorrCached(etfDefs[i].key, CORR_ITEMS[j].key, tf);
           const bg = corrColor(r);
           const textCol = r != null && Math.abs(r) > 0.4 ? '#fff' : '#e6edf3';
-          html += `<td style="background:${bg};color:${textCol}">${r != null ? r.toFixed(2) : '-'}</td>`;
+          const rStr = r != null ? r.toFixed(2) : '-';
+          const tfLabel = tf === 'all' ? 'All Time' : (tf ? tf.toUpperCase() : 'All Time');
+          const tt = `${etfDefs[i].label} vs ${CORR_ITEMS[j].label} (${tfLabel}): ${r != null ? r.toFixed(3) : 'N/A'}`;
+          html += `<td style="background:${bg};color:${textCol}" title="${tt}" data-tooltip="${tt}">${rStr}</td>`;
         }
         html += '</tr>';
       }
@@ -23930,29 +23975,50 @@ function buildMaster() {
           if (!d || !d.dates || !d.values || !DATA.master || !DATA.master.length) return false;
           _deepHistoryLoaded[productKey] = true;
 
+          if (DATA.raw && (!DATA.raw[productKey] || DATA.raw[productKey].length < d.dates.length)) {
+            DATA.raw[productKey] = [];
+            for (var m = 0; m < d.dates.length; m++) {
+              if (d.values[m] != null) {
+                var rawDStr = String(d.dates[m]).slice(0, 10);
+                var rawDt = parseDate(rawDStr);
+                if (rawDt) {
+                  DATA.raw[productKey].push({ date: rawDt, dateStr: rawDStr, value: d.values[m] });
+                }
+              }
+            }
+          }
+
+          var byDateStr = {};
           var byTs = {};
-          for (var i = 0; i < DATA.master.length; i++) byTs[DATA.master[i].ts] = DATA.master[i];
+          for (var i = 0; i < DATA.master.length; i++) {
+            var mr = DATA.master[i];
+            byTs[mr.ts] = mr;
+            if (mr.date) byDateStr[fmtDate(mr.date)] = mr;
+          }
 
           var added = [];
           for (var j = 0; j < d.dates.length; j++) {
             var val = d.values[j];
             if (val == null) continue;
-            var parts = String(d.dates[j]).slice(0, 10).split('-');
-            if (parts.length !== 3) continue;
-            var dt = new Date(Date.UTC(+parts[0], +parts[1] - 1, +parts[2]));
-            var ts = dt.getTime();
-            if (isNaN(ts)) continue;
-            var row = byTs[ts];
+            var dStr = String(d.dates[j]).slice(0, 10);
+            var row = byDateStr[dStr];
             if (!row) {
-              row = {
-                date: dt,
-                ts: ts,
-                year: dt.getUTCFullYear(),
-                month: dt.getUTCMonth(),
-                quarter: getQuarter(dt.getUTCMonth())
-              };
-              byTs[ts] = row;
-              added.push(row);
+              var dt = parseDate(dStr);
+              if (!dt) continue;
+              var ts = dt.getTime();
+              row = byTs[ts];
+              if (!row) {
+                row = {
+                  date: dt,
+                  ts: ts,
+                  year: dt.getFullYear(),
+                  month: dt.getMonth(),
+                  quarter: getQuarter(dt.getMonth())
+                };
+                byTs[ts] = row;
+                byDateStr[dStr] = row;
+                added.push(row);
+              }
             }
             // Never overwrite a value the five-year master already carries; the
             // deep view only fills the dates it does not have. Another product's
@@ -23975,6 +24041,11 @@ function buildMaster() {
               r2[productKey + '_change'] = ((r2[productKey] - prev) / prev) * 100;
             }
             prev = r2[productKey];
+
+            // Recompute bdry_spot across deep rows
+            if (r2.bdry_spot == null && r2.cape != null && r2.panama != null && r2.suprama != null) {
+              r2.bdry_spot = BDRY_WEIGHTS.cape * r2.cape + BDRY_WEIGHTS.panama * r2.panama + BDRY_WEIGHTS.suprama * r2.suprama;
+            }
           }
 
           DATA.years = [...new Set(DATA.master.map(function (r) { return r.year; }))].sort(function (a, b) { return a - b; });
@@ -23990,6 +24061,9 @@ function buildMaster() {
 
           invalidateRowCache();
           if (typeof invalidateStatsCache === 'function') invalidateStatsCache();
+          if (typeof _corrCache === 'object' && _corrCache) {
+            for (var ck in _corrCache) delete _corrCache[ck];
+          }
           // The z-score cache is keyed by window size only and is built from
           // DATA.master; it would otherwise keep serving the five-year build.
           if (typeof _ydZscoreCache === 'object' && _ydZscoreCache) {
