@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37__root",
+  "doc_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37",
+  "parent_id": null,
+  "title": "ISM coasters and mini bulkers - Week 37",
+  "section_path": [
+    "ISM coasters and mini bulkers - Week 37"
+  ],
+  "section_path_text": "ISM coasters and mini bulkers - Week 37",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "ISM coasters and mini bulkers - Week 37\n**Broker**: Ism\n**Published Date**: 14/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-37-3/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-37-3/)\n\nMarket Report Content\nCHARTERING MARKET AT HAND:\nCOASTERS AND MINIBULKERS // WEEK 37\nCoaster market: Continent & Baltic Sea market strengthens while Ukrainian\nDanube rally loses steam\nFollowing the rally seen over the past few weeks,\ncharterers have managed to halt the rise in freight\nrates ex Ukrainian Black Sea ports (even despite\nfurther growth of congestion while waiting to pass\nthrough the Sulina Canal, which now exceeds two\nweeks). In any case, it is currently impossible to\nobjectively assess transportation costs from Reni and\nIzmail, since charterers are ready to pay $15-20/t more\nfor vessels open inside the Danube or the Sulina than\nfor those opening in the Black Sea. Similarly, charterers\nare willing to pay significantly more if the shipowner is\nwilling to transit through Bystre.",
+  "keywords": [
+    "europe",
+    "grain",
+    "steel",
+    "dwcc",
+    "are",
+    "sea",
+    "marmara/med",
+    "vsl",
+    "seagoing",
+    "year",
+    "black",
+    "coaster"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1804,
+  "source_path": "reports/broker_reports/2026/ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37.md",
+  "source_url": "https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-37-3/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37__s01_ism_coasters_and_mini_bulkers_week_37",
+      "doc_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37",
+      "parent_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37__root",
+      "title": "ISM coasters and mini bulkers - Week 37",
+      "section_path": [
+        "ISM coasters and mini bulkers - Week 37"
+      ],
+      "section_path_text": "ISM coasters and mini bulkers - Week 37",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Ism\n**Published Date**: 14/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-37-3/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-37-3/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-37-3",
+        "broker",
+        "date",
+        "ism",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37",
+      "parent_id": "broker_reports_broker_report_2026-09-14_ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "CHARTERING MARKET AT HAND:\nCOASTERS AND MINIBULKERS // WEEK 37\nCoaster market: Continent & Baltic Sea market strengthens while Ukrainian\nDanube rally loses steam\nFollowing the rally seen over the past few weeks,\ncharterers have managed to halt the rise in freight\nrates ex Ukrainian Black Sea ports (even despite\nfurther growth of congestion while waiting to pass\nthrough the Sulina Canal, which now exceeds two\nweeks). In any case, it is currently impossible to\nobjectively assess transportation costs from Reni and\nIzmail, since charterers are ready to pay $15-20/t more\nfor vessels open inside the Danube or the Sulina than\nfor those opening in the Black Sea.",
+      "keywords": [
+        "europe",
+        "grain",
+        "steel",
+        "dwcc",
+        "are",
+        "sea",
+        "marmara/med",
+        "vsl"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1715,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

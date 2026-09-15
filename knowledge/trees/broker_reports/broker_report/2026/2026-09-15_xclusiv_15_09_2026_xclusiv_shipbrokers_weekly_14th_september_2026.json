@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026",
+  "parent_id": null,
+  "title": "Xclusiv Shipbrokers Weekly 14th September 2026",
+  "section_path": [
+    "Xclusiv Shipbrokers Weekly 14th September 2026"
+  ],
+  "section_path_text": "Xclusiv Shipbrokers Weekly 14th September 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Xclusiv Shipbrokers Weekly 14th September 2026\n**Broker**: Xclusiv\n**Published Date**: 15/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-14th-september-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-14th-september-2026/)\n\nMarket Report Content\nJapan's Bulker Blueprint\nJapan's dry bulk shipbuilding market is dominated by a\nrelatively small group of established builders, but the bal-\nance between historical fleet presence and current new-\nbuilding activity varies considerably across vessel seg-\nments. Looking first at the active fleet, NSY is by far the\nlargest Japanese dry bulk builder, with 1,299 vessels cur-\nrently trading, representing 36.6% of the Japanese -built\nfleet. Tsuneishi follows with 686 vessels, or 19.3%, while\nOshima ranks third with 423 vessels and an 11.9% share.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8464,
+  "source_path": "reports/broker_reports/2026/xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-14th-september-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026__s01_xclusiv_shipbrokers_weekly_14th_september_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026__root",
+      "title": "Xclusiv Shipbrokers Weekly 14th September 2026",
+      "section_path": [
+        "Xclusiv Shipbrokers Weekly 14th September 2026"
+      ],
+      "section_path_text": "Xclusiv Shipbrokers Weekly 14th September 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Xclusiv\n**Published Date**: 15/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-14th-september-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-14th-september-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-14th-september-2026",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url",
+        "xclusiv"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-15_xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Japan's Bulker Blueprint\nJapan's dry bulk shipbuilding market is dominated by a\nrelatively small group of established builders, but the bal-\nance between historical fleet presence and current new-\nbuilding activity varies considerably across vessel seg-\nments. Looking first at the active fleet, NSY is by far the\nlargest Japanese dry bulk builder, with 1,299 vessels cur-\nrently trading, representing 36.6% of the Japanese -built\nfleet.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "container"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8363,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
