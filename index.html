@@ -17512,7 +17512,15 @@ if (intelTabsContainer) {
         safeFetch('data/etf/bdry_holdings_history.csv', 'BDRY History', [], r => { DATA.bdryHoldingsHistory = r || []; }),
         safeFetch('data/etf/bwet_holdings_history.csv', 'BWET History', [], r => { DATA.bwetHoldingsHistory = r || []; }),
         fetch('data/etf/live_quotes.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => { DATA.etfLiveQuotes = d; }).catch(() => {})
-      ]);
+      ]).then(() => {
+        if (typeof buildMaster === 'function' && DATA.master && DATA.master.length) {
+          try {
+            buildMaster();
+          } catch (err) {
+            console.error('[loadEtfsData buildMaster error]', err);
+          }
+        }
+      });
       return etfsLoadPromise;
     }
 
@@ -18570,7 +18578,21 @@ function buildMaster() {
       const allDatesSet = new Set();
       for (const key of PRODUCT_KEYS) {
         if (PRODUCTS[key].computed) continue;
-        for (const row of DATA.raw[key]) allDatesSet.add(row.date.getTime());
+        if (DATA.raw[key]) {
+          for (const row of DATA.raw[key]) allDatesSet.add(row.date.getTime());
+        }
+      }
+      if (DATA.bdryLiquidity && DATA.bdryLiquidity.length) {
+        for (const r of DATA.bdryLiquidity) {
+          const d = parseDateISO(r.date) || parseDate(r.date);
+          if (d) allDatesSet.add(d.getTime());
+        }
+      }
+      if (DATA.bwetLiquidity && DATA.bwetLiquidity.length) {
+        for (const r of DATA.bwetLiquidity) {
+          const d = parseDateISO(r.date) || parseDate(r.date);
+          if (d) allDatesSet.add(d.getTime());
+        }
       }
       const allDates = Array.from(allDatesSet).sort((a, b) => a - b);
 
@@ -18647,6 +18669,31 @@ function buildMaster() {
         return row;
       });
 
+      let prevBdry = null;
+      let prevBwet = null;
+      for (const row of DATA.master) {
+        if (row.bdry != null) {
+          if (prevBdry != null && prevBdry !== 0) {
+            row.bdry_change = ((row.bdry - prevBdry) / prevBdry) * 100;
+          } else {
+            row.bdry_change = null;
+          }
+          prevBdry = row.bdry;
+        } else {
+          row.bdry_change = null;
+        }
+        if (row.bwet != null) {
+          if (prevBwet != null && prevBwet !== 0) {
+            row.bwet_change = ((row.bwet - prevBwet) / prevBwet) * 100;
+          } else {
+            row.bwet_change = null;
+          }
+          prevBwet = row.bwet;
+        } else {
+          row.bwet_change = null;
+        }
+      }
+
       const byYear = {};
       for (const row of DATA.master) {
         if (!byYear[row.year]) byYear[row.year] = [];
@@ -18722,6 +18769,7 @@ function buildMaster() {
       for (const row of DATA.master) {
         DATA.masterByDate[row.ts] = row;
       }
+      DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
       invalidateRowCache();
       invalidateStatsCache();
     }
@@ -19588,7 +19636,19 @@ function buildMaster() {
     };
 
     function renderETFYearlyPerfTable(etfKey) {
-      const years = [...DATA.years].reverse();
+      let rows = getRows(etfKey);
+      if ((!rows || !rows.length) && (etfKey === 'bdry' || etfKey === 'bwet')) {
+        const liq = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+        if (liq && liq.length) {
+          rows = liq.map(r => {
+            const d = parseDateISO(r.date) || parseDate(r.date);
+            const val = parseFloat(r.close);
+            return (d && !isNaN(val)) ? { date: d, year: d.getFullYear(), [etfKey]: val } : null;
+          }).filter(Boolean);
+        }
+      }
+      const rowYears = rows && rows.length ? [...new Set(rows.map(r => r.year))].sort((a, b) => b - a) : [];
+      const years = rowYears.length ? rowYears : [...(DATA.years || [])].reverse();
 
       // Compute yearly averages
       const yearlyAvgs = {};
@@ -19596,7 +19656,7 @@ function buildMaster() {
       const yearlyMaxs = {};
       const yearlyTps = {};
       for (const y of years) {
-        const vals = getRows(etfKey).filter(r => r.year === y).map(r => r[etfKey]);
+        const vals = (rows || []).filter(r => r.year === y).map(r => r[etfKey]);
         yearlyAvgs[y] = vals.length ? mean(vals) : null;
         yearlyMins[y] = vals.length ? Math.min(...vals) : null;
         yearlyMaxs[y] = vals.length ? Math.max(...vals) : null;
@@ -19814,7 +19874,17 @@ function buildMaster() {
     };
 
     function renderMacroCyclesTable(productKey, containerId, dlBtnId) {
-      const rows = getRows(productKey);
+      let rows = getRows(productKey);
+      if ((!rows || !rows.length) && (productKey === 'bdry' || productKey === 'bwet')) {
+        const liq = productKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+        if (liq && liq.length) {
+          rows = liq.map(r => {
+            const d = parseDateISO(r.date) || parseDate(r.date);
+            const val = parseFloat(r.close);
+            return (d && !isNaN(val)) ? { date: d, year: d.getFullYear(), [productKey]: val } : null;
+          }).filter(Boolean);
+        }
+      }
       const container = document.getElementById(containerId);
       if (!container) return;
 
