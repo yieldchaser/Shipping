@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:59:59.009574+00:00",
+  "generated_at": "2026-09-15T19:41:47.799376+00:00",
   "brief_date": "2026-09-15",
   "constituent_holdings": {
     "bdry": {
@@ -69,7 +69,7 @@
     ]
   },
   "executive_tldr": [
-    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -1.10σ), favoring energy freight over industrial dry bulk.",
+    "Regime Split: Dry Bulk is in Neutral while Tankers exhibit Bull Confluence. Tankers outperform Dry Bulk on quantitative velocity (Z-differential -1.26σ), favoring energy freight over industrial dry bulk.",
     "Tactical Desk Strategy: Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows.",
     "Catalyst & Risk Boundary: Next weekly Baltic Exchange index revisions and Breakwave fundamental assessment. Invalidation Trigger: A rapid expansion beyond ±1.0σ Z-score would break the current range-bound regime."
   ],
@@ -120,22 +120,22 @@
       "roc60": 1.28
     },
     "clean_tanker": {
-      "value": 1837.0,
-      "z_score_252d": 1.37,
-      "pctl_5y": 0.975,
+      "value": 1874.0,
+      "z_score_252d": 1.435,
+      "pctl_5y": 0.978,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1322.3,
-      "roc60": 40.55
+      "ma200": 1327.4,
+      "roc60": 42.73
     },
     "dirty_tanker": {
-      "value": 4325.0,
-      "z_score_252d": 3.04,
+      "value": 4499.0,
+      "z_score_252d": 3.201,
       "pctl_5y": 1.0,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2284.8,
-      "roc60": 106.74
+      "ma200": 2300.0,
+      "roc60": 106.76
     }
   },
   "vessel_classes": {
@@ -171,12 +171,12 @@
       "momentum_grade": "STRONG_UP",
       "positioning_bias": "LONG",
       "confidence_score": 0.8,
-      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+2.21sigma). Of 6 Breakwave reports: Sentiment 2 pos/1 neg/3 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
-      "summary": "Tanker is in expansion regime at 1837.0, with z-score +2.21sigma and ROC60 +40.5%. Recent analyst sentiment skews neutral (positive:2, neutral:3, negative:1). Quant momentum and analyst signals align bullishly for tanker (Z=+2.21sigma). Of 6 Breakwave reports: Sentiment 2 pos/1 neg/3 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+2.32sigma). Of 6 Breakwave reports: Sentiment 2 pos/1 neg/3 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "summary": "Tanker is in expansion regime at 1874.0, with z-score +2.32sigma and ROC60 +42.7%. Recent analyst sentiment skews neutral (positive:2, neutral:3, negative:1). Quant momentum and analyst signals align bullishly for tanker (Z=+2.32sigma). Of 6 Breakwave reports: Sentiment 2 pos/1 neg/3 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
       "key_signals": [
-        "Quant: CLEAN_TANKER value=1837.0, z=+2.21sigma, 5Y percentile=97.5%.",
+        "Quant: CLEAN_TANKER value=1874.0, z=+2.32sigma, 5Y percentile=97.8%.",
         "Qual: last 6 reports sentiment mix -> positive:2, neutral:3, negative:1.",
-        "Cross-check: DIRTY_TANKER value=4325.0, z=+3.04sigma.",
+        "Cross-check: DIRTY_TANKER value=4499.0, z=+3.20sigma.",
         "Latest report 2026-09-08: momentum=positive, fundamentals=positive."
       ],
       "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
@@ -196,7 +196,7 @@
   },
   "macro_note": "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments.",
   "cross_sector_analysis": {
-    "relative_value": "Tankers outperform Dry Bulk on quantitative velocity (Z-differential -1.10σ), favoring energy freight over industrial dry bulk.",
+    "relative_value": "Tankers outperform Dry Bulk on quantitative velocity (Z-differential -1.26σ), favoring energy freight over industrial dry bulk.",
     "dominant_driver": "Global industrial commodity restocking cycles and regional geopolitical rerouting across key maritime choke points.",
     "positioning_recommendation": "Overweight Dirty Tankers (BDTI/VLCC) relative to Dry Bulk on resilient crude flows."
   },
