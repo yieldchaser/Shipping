@@ -22,7 +22,7 @@ import os
 
 import pandas as pd
 
-SRC = os.path.join("scripts", "fearnpulse_rates_full.csv")
+SRC = os.path.join("data", "derived", "fearnpulse_rates_full.csv") if os.path.exists(os.path.join("data", "derived", "fearnpulse_rates_full.csv")) else os.path.join("scripts", "fearnpulse_rates_full.csv")
 CATALOG = os.path.join("data", "derived", "fearnleys_catalog.csv")
 OUT = os.path.join("data", "derived", "fearnleys_series_monthly.json")
 

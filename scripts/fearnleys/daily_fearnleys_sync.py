@@ -460,14 +460,39 @@ def main():
     n_comm = guarded("comments", sync_comments)
     n_rep = guarded("reports", sync_reports)
 
-    # Rebuild summary cache
+    # Rebuild all pre-aggregated frontend caches & tapes
     print("\n================================================================", flush=True)
-    print("  REBUILDING FEARNLEYS PRE-AGGREGATED FRONTEND CACHE            ", flush=True)
+    print("  REBUILDING FEARNLEYS PRE-AGGREGATED FRONTEND CACHES & TAPES   ", flush=True)
     print("================================================================", flush=True)
     def rebuild_cache():
         import build_fearnleys_cache
         build_fearnleys_cache.main()
     guarded("summary cache", rebuild_cache)
+
+    def rebuild_fixtures_tape():
+        import build_fixtures_tape
+        build_fixtures_tape.main()
+    guarded("fixtures tape", rebuild_fixtures_tape)
+
+    def rebuild_desk_caches():
+        import build_desk_caches
+        build_desk_caches.main()
+    guarded("desk caches", rebuild_desk_caches)
+
+    def rebuild_comment_chunks():
+        import build_comment_chunks
+        build_comment_chunks.main()
+    guarded("comment chunks", rebuild_comment_chunks)
+
+    def rebuild_gas_rate_csvs():
+        import build_gas_rate_csvs
+        build_gas_rate_csvs.main(do_verify=False)
+    guarded("gas rate csvs", rebuild_gas_rate_csvs)
+
+    def rebuild_series_cache():
+        import build_series_cache
+        build_series_cache.main()
+    guarded("series monthly cache", rebuild_series_cache)
 
     elapsed = time.time() - t0
     print(f"Daily Sync Complete in {elapsed:.1f}s.")

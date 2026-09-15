@@ -92,11 +92,15 @@ def verify(series):
     print("  verify: every value equals the catalog")
 
 
+def main(do_verify=False):
+    s = load_catalog()
+    build(s)
+    if do_verify:
+        verify(s)
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--verify", action="store_true")
     args = ap.parse_args()
-    s = load_catalog()
-    build(s)
-    if args.verify:
-        verify(s)
+    main(do_verify=args.verify)

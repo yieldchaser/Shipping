@@ -148,10 +148,14 @@ def build_gas_extra():
     return sum(len(v) for v in payload.values())
 
 
-if __name__ == "__main__":
+def main():
     print("Building Fearnleys desk caches...")
     n1 = build_tenor()
     n2 = build_nb_prices()
     n3 = build_asset_curves()
     n4 = build_gas_extra()
     print(f"Done: tenor_rows={n1} nb_series={n2} asset_classes={n3} gas_series={n4}")
+
+
+if __name__ == "__main__":
+    main()
