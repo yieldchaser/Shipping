@@ -50365,21 +50365,32 @@ function renderFearnTc() {
     if (FDESK.tcChart) { FDESK.tcChart.destroy(); FDESK.tcChart = null; }
     var visDates, visDatasets, reach52 = false;
     if (FDESK.tcSource === 'fearnleys') {
-      var rowsF = (aser && aser.m) ? aser.m.map(function (p) { return { ym: p[0], v: p[1] }; }) : [];
-      if (!aser || !aser.m || !aser.m.length) return;
-      st = fearn52Compute(aser.m, true);
+      var curCls = FDESK.tcClass || cls || 'Capesize';
+      var TC_ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
+      var archKey = TC_ARCH_KEY[curCls];
+      var cache = fearnSeriesCache();
+      var curAser = (cache && cache.labels && archKey) ? cache.labels[archKey] : aser;
+      if (!curAser || !curAser.m || !curAser.m.length) return;
+      var rowsF = curAser.m.map(function (p) { return { ym: p[0], v: p[1] }; });
+      st = fearn52Compute(curAser.m, true);
+      sIdx = Math.max(0, Math.min(sIdx, rowsF.length - 1));
+      eIdx = Math.max(0, Math.min(eIdx, rowsF.length - 1));
+      if (sIdx > eIdx) { var tmp = sIdx; sIdx = eIdx; eIdx = tmp; }
       var slice = rowsF.slice(sIdx, eIdx + 1);
       visDates = slice.map(function (r) { return r.ym; });
       var lastT = Date.parse(visDates[visDates.length - 1] + '-01T00:00:00Z');
-      var trailingStart = Date.parse(aser.m[aser.m.length - 1][0] + '-01T00:00:00Z') - FDESK_52W_MS;
+      var trailingStart = Date.parse(curAser.m[curAser.m.length - 1][0] + '-01T00:00:00Z') - FDESK_52W_MS;
       reach52 = lastT >= trailingStart;
       visDatasets = [{
-        label: 'Fearnleys monthly archive · ' + (aser.route || archInfo.key),
+        label: 'Fearnleys monthly archive · ' + (curAser.route || archKey),
         data: slice.map(function (r) { return r.v; }),
         borderColor: '#e3b341', backgroundColor: 'transparent',
         borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
       }].concat(fearn52RefDatasets(st, slice.length, reach52));
     } else {
+      sIdx = Math.max(0, Math.min(sIdx, dates.length - 1));
+      eIdx = Math.max(0, Math.min(eIdx, dates.length - 1));
+      if (sIdx > eIdx) { var tmp2 = sIdx; sIdx = eIdx; eIdx = tmp2; }
       var vd = dates.slice(sIdx, eIdx + 1);
       visDates = vd;
       var oneYr = (byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; });
@@ -50440,13 +50451,15 @@ function renderFearnTc() {
     var oneYrS = (byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; });
     if (stripTc) stripTc.innerHTML = fearn52StripHtml('fearnTc', fearn52Compute(oneYrS, false));
   }
-  fearnRangeInit('fearnTcRange', 'tc', tcRows, drawWin);
+  var tcRangeKey = 'tc_' + (FDESK.tcSource === 'fearnleys' ? ('fearnleys_' + cls) : 'baltic');
+  fearnRangeInit('fearnTcRange', tcRangeKey, tcRows, drawWin);
 }
-function onFearnTcClass() { FDESK._dirty[2] = true; FDESK.secInit[2] = false; renderFearnTc(); }
+function onFearnTcClass() { FDESK._dirty[2] = true; FDESK.secInit[2] = false; delete window['_fearnTcRangeState']; renderFearnTc(); }
 function setFearnTcSource(mode) {
   FDESK.tcSourceByClass[FDESK.tcClass || 'Capesize'] = (mode === 'fearnleys') ? 'fearnleys' : 'baltic';
   FDESK._dirty[2] = true;
   FDESK.secInit[2] = false;
+  delete window['_fearnTcRangeState'];
   renderFearnTc();
 }
 
@@ -50632,13 +50645,22 @@ function fearnRangeInit(prefix, key, rows, onApply) {
     apply();
   };
   window['_' + prefix + 'SetWin'] = setWin;
-  // Rebind-safe: replace prior event listeners on cache refresh (closures must point at the
-  // FRESH rows/apply, never a stale first-bind snapshot - the stale snapshot froze canvases
-  // and produced degenerate '1 print' windows after the daily harvest appended a print).
+  // Rebind-safe dispatcher: always point element handlers to the fresh apply closure
+  // so dragging the slider never executes a stale closure from a prior mode/source.
+  startEl._fearnApply = apply;
+  endEl._fearnApply = apply;
+  startEl._fearnSync = function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); };
+  endEl._fearnSync = function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); };
   if (!startEl._fearnRangeBound) {
     startEl._fearnRangeBound = true;
-    startEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
-    endEl.addEventListener('input', function () { st.mode = 'custom'; cur.mode = 'custom'; syncButtons('custom'); apply(); });
+    startEl.addEventListener('input', function () {
+      if (startEl._fearnSync) startEl._fearnSync();
+      if (startEl._fearnApply) startEl._fearnApply();
+    });
+    endEl.addEventListener('input', function () {
+      if (endEl._fearnSync) endEl._fearnSync();
+      if (endEl._fearnApply) endEl._fearnApply();
+    });
   }
   // Persist the window as MS bounds (index-stable across cache growth) and always re-apply:
   if (st.sMs != null && st.eMs != null) {
