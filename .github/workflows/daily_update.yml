@@ -84,6 +84,22 @@ jobs:
       continue-on-error: true
       run: python scripts/fearnleys/build_tanker_routes_daily.py --build --verify || true
 
+    - name: Run Ship & Bunker daily benchmarks collector
+      continue-on-error: true
+      run: python scripts/expansion_bunker_prices.py || true
+
+    - name: Run Bunker spot pipeline refresh
+      continue-on-error: true
+      run: python -m bunker_pipeline.run_pipeline --mode spot || true
+
+    - name: Build BIX benchmark history
+      continue-on-error: true
+      run: python scripts/bunkers/build_bix_history.py || true
+
+    - name: Build bunker frontend summary cache
+      continue-on-error: true
+      run: python scripts/bunkers/build_bunker_cache.py || true
+
     - name: Build frontend view layer
       if: "!cancelled()"
       run: python scripts/build_views.py
@@ -93,20 +109,22 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/indices/bdiy_historical.csv data/indices/cape_historical.csv data/indices/panama_historical.csv data/indices/suprama_historical.csv data/indices/handysize_historical.csv data/indices/cleantanker_historical.csv data/indices/dirtytanker_historical.csv data/indices/capital_link_*.csv data/futures/bdryff_history.csv data/futures/bwetff_history.csv data/etf/BDRY_Daily.csv data/etf/BWET_Daily.csv data/etf/live_quotes.json data/futures/sgx_cape_futures.csv data/futures/sgx_panamax_futures.csv data/futures/sgx_supramax_futures.csv data/futures/sgx_handysize_futures.csv data/futures/sgx_iron_ore_*.csv data/commodities/sgx_iron_ore_*.csv data/derived/iron_ore_restocking.csv data/etf/BDRY_flows.csv data/etf/BWET_flows.csv data/flows/BDRY_flows.json data/flows/BWET_flows.json data/flows/all_flows_summary.json docs/data/flows/all_flows_summary.json data/derived/time_charter_rates.csv data/derived/tanker_forward_curves.csv data/derived/tanker_forward_curves_history.csv docs/alibra_data/ data/derived/fearnpulse_dry_routes_full.csv data/derived/fearnleys_dry_routes_daily.json data/derived/fearnpulse_rates_full.csv data/derived/fearnleys_tanker_routes_daily.json data/derived/fearnleys_*.json data/derived/fearnleys_*.csv data/derived/time_charter_rates_fearnleys.csv data/derived/intermodal_tc_rates.csv data/derived/lng_charter_rates.csv data/derived/lpg_*.csv data/reports/fearnleys_reports_catalog.json data/clarksons/ data/views/
+        git add data/indices/bdiy_historical.csv data/indices/cape_historical.csv data/indices/panama_historical.csv data/indices/suprama_historical.csv data/indices/handysize_historical.csv data/indices/cleantanker_historical.csv data/indices/dirtytanker_historical.csv data/indices/capital_link_*.csv data/futures/bdryff_history.csv data/futures/bwetff_history.csv data/etf/BDRY_Daily.csv data/etf/BWET_Daily.csv data/etf/live_quotes.json data/futures/sgx_cape_futures.csv data/futures/sgx_panamax_futures.csv data/futures/sgx_supramax_futures.csv data/futures/sgx_handysize_futures.csv data/futures/sgx_iron_ore_*.csv data/commodities/sgx_iron_ore_*.csv data/derived/iron_ore_restocking.csv data/etf/BDRY_flows.csv data/etf/BWET_flows.csv data/flows/BDRY_flows.json data/flows/BWET_flows.json data/flows/all_flows_summary.json docs/data/flows/all_flows_summary.json data/derived/time_charter_rates.csv data/derived/tanker_forward_curves.csv data/derived/tanker_forward_curves_history.csv docs/alibra_data/ data/derived/fearnpulse_dry_routes_full.csv data/derived/fearnleys_dry_routes_daily.json data/derived/fearnpulse_rates_full.csv data/derived/fearnleys_tanker_routes_daily.json data/derived/fearnleys_*.json data/derived/fearnleys_*.csv data/derived/time_charter_rates_fearnleys.csv data/derived/intermodal_tc_rates.csv data/derived/lng_charter_rates.csv data/derived/lpg_*.csv data/reports/fearnleys_reports_catalog.json data/clarksons/ data/views/ data/bunkers/ bunker_master_historical.csv
         if git diff --staged --quiet; then
           echo "No index/flow/alibra changes to commit."
           exit 0
         fi
 
-        git commit -m "Update indices and flows $(date +'%Y-%m-%d %H:%M UTC')"
+        git commit -m "Update indices, flows, and bunkers $(date +'%Y-%m-%d %H:%M UTC')"
 
         for attempt in 1 2 3; do
+          git rebase --abort 2>/dev/null || true
           if git pull --rebase --autostash origin main && git push origin HEAD:main; then
             echo "Push succeeded on attempt $attempt."
             exit 0
           fi
           echo "Push race on attempt $attempt. Retrying in 10s..."
+          git rebase --abort 2>/dev/null || true
           sleep 10
         done
 

@@ -2,8 +2,8 @@ name: Data Expansion Collectors
 
 on:
   schedule:
-    # Mon-Thu 05:00 UTC, off-peak, clear of the 06:45/07:00/10:30 data jobs.
-    - cron: '0 5 * * 1-4'
+    # Mon-Thu 05:30 UTC, off-peak, clear of 05:00 scheduled_pipeline_sync and 06:45/07:00 data jobs.
+    - cron: '30 5 * * 1-4'
   workflow_dispatch:
 
 permissions:
@@ -133,7 +133,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A data/ docs/
+          git add -A data/ docs/ bunker_master_historical.csv
           if git diff --staged --quiet; then
             echo "No expansion data changes to commit."
             exit 0
@@ -142,11 +142,13 @@ jobs:
           git commit -m "data(expansion): update collector datasets $(date -u +'%Y-%m-%d %H:%M UTC')"
 
           for attempt in 1 2 3; do
+            git rebase --abort 2>/dev/null || true
             if git pull --rebase --autostash origin main && git push origin HEAD:main; then
               echo "Push succeeded on attempt $attempt."
               exit 0
             fi
             echo "Push race on attempt $attempt. Retrying in 10s..."
+            git rebase --abort 2>/dev/null || true
             sleep 10
           done
 
