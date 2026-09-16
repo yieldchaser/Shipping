@@ -30,7 +30,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests beautifulsoup4 pandas lxml holidays numpy playwright
+        pip install requests beautifulsoup4 pandas lxml holidays numpy playwright pyarrow fastparquet
         playwright install --with-deps chromium
 
     - name: Pull latest before run
@@ -55,7 +55,7 @@ jobs:
       run: python scripts/fetch_live_etf_quotes.py
 
     - name: Sync Fearnleys Hasura recent freight & fixture deltas
-      run: python scripts/fearnleys/daily_fearnleys_sync.py
+      run: python scripts/fearnleys/daily_fearnleys_sync.py || true
 
     - name: Fetch Fearnleys TC benchmark rates
       run: python scripts/fetch_fearnleys_tc.py || true

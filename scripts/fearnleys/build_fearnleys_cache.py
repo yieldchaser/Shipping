@@ -228,7 +228,14 @@ def build_fixture_analytics():
     print("  Aggregating Commercial Fixture Analytics & Charterer League Table...", flush=True)
 
     if os.path.exists(FIXTURES_PARQUET):
-        df = pd.read_parquet(FIXTURES_PARQUET)
+        try:
+            df = pd.read_parquet(FIXTURES_PARQUET)
+        except Exception as e:
+            print(f"    [WARN] Failed to read parquet ({e}), falling back to CSV...", flush=True)
+            if os.path.exists(FIXTURES_CSV):
+                df = pd.read_csv(FIXTURES_CSV, low_memory=False)
+            else:
+                raise
     elif os.path.exists(FIXTURES_CSV):
         df = pd.read_csv(FIXTURES_CSV, low_memory=False)
     else:
