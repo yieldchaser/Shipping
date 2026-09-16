@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T18:01:06.409398Z",
+  "generated_at": "2026-09-16T19:07:42.610815Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
     "rate_records": 305936,
-    "fixture_records": 546123,
+    "fixture_records": 546124,
     "snp_records": 2620,
     "comment_records": 11730
   },
@@ -18707,9 +18707,9 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 546123,
+    "total_fixtures": 546124,
     "department_totals": {
-      "BULK": 421718,
+      "BULK": 421719,
       "TANKPRO": 65408,
       "TANK": 44301,
       "LNG": 8115,
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 196907,
+        "bulk": 196908,
         "tank": 3505,
         "gas": 2084,
-        "total": 202545
+        "total": 202546
       }
     ],
     "top_charterers": [
@@ -19226,15 +19226,15 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NIAVIGRAINS TRADING",
+        "vessel": "AYSEL",
+        "segment": "Handymax",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "nan"
+        "comment": "TRY ALL DIRECTION Last cgo: Grains / Steels"
       },
       {
         "date": "2026-09-16",
@@ -20246,15 +20246,15 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "LYNUX",
-        "segment": "Handymax",
+        "vessel": "SAGA WELCO",
+        "segment": "Supramax",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "TCT REDELIVERY PERU"
+        "comment": "TCT REDELIVERY FUJAIRAH"
       },
       {
         "date": "2026-09-16",
