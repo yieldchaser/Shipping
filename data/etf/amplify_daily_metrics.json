@@ -1,26 +1,26 @@
 {
   "BDRY": {
-    "date": "2026-09-14",
-    "nav": 15.2992,
-    "net_assets": 37101160.83,
-    "shares_outstanding": 2425040,
-    "market_price": 15.3,
-    "nav_change_dollars": -0.5633,
-    "nav_change_pct": -3.5511,
-    "market_price_change_dollars": -0.71,
-    "market_price_change_pct": -4.4347,
-    "premium_discount": 0.0052
+    "date": "2026-09-15",
+    "nav": 15.4042,
+    "net_assets": 36585485.91,
+    "shares_outstanding": 2375040,
+    "market_price": 15.33,
+    "nav_change_dollars": 0.105,
+    "nav_change_pct": 0.6863,
+    "market_price_change_dollars": 0.03,
+    "market_price_change_pct": 0.1961,
+    "premium_discount": -0.4817
   },
   "BWET": {
-    "date": "2026-09-14",
-    "nav": 751.1724,
-    "net_assets": 296788217.04,
+    "date": "2026-09-15",
+    "nav": 721.9703,
+    "net_assets": 285250481.31,
     "shares_outstanding": 395100,
-    "market_price": 769.72,
-    "nav_change_dollars": 29.1064,
-    "nav_change_pct": 4.031,
-    "market_price_change_dollars": 42.8,
-    "market_price_change_pct": 5.8879,
-    "premium_discount": 2.4692
+    "market_price": 725.98,
+    "nav_change_dollars": -29.2021,
+    "nav_change_pct": -3.8875,
+    "market_price_change_dollars": -43.74,
+    "market_price_change_pct": -5.6826,
+    "premium_discount": 0.5554
   }
 }
