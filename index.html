@@ -3632,7 +3632,7 @@
     .tracking-table-wrap {
       flex: 1;
       min-height: 0;
-      overflow-y: auto;
+      overflow: auto;
     }
     .tracking-table {
       width: 100%;
@@ -13866,7 +13866,7 @@
           </div>
           <div style="display:flex;gap:14px;align-items:flex-start;">
             <div style="flex:1;min-width:0;">
-              <div class="tracking-table-wrap" style="max-height:560px;overflow-y:auto;">
+              <div class="tracking-table-wrap" style="max-height:560px;overflow:auto;">
                 <table class="tracking-table" style="font-size:11px;">
                   <thead><tr><th>Date</th><th>Dept</th><th>Segment</th><th>Vessel</th><th>Charterer</th><th>Commodity</th><th>Period</th><th>Laycan</th><th style="text-align:right;">Rate</th><th>Comment</th></tr></thead>
                   <tbody id="fearnFxBody"><tr><td colspan="10" style="text-align:center;color:var(--text-muted);padding:14px;">Loading tape…</td></tr></tbody>
@@ -13888,7 +13888,9 @@
               </div>
               <div style="border:1px solid var(--border);border-radius:8px;padding:10px;background:var(--card);">
                 <div style="font-size:var(--fs-micro);font-weight:700;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;">Fixtures / Month (24m)</div>
-                <canvas id="fearnFxMonthly" style="width:100%;height:70px;"></canvas>
+                <div class="chart-canvas-wrap" style="height:70px;position:relative;overflow:hidden;max-width:100%;">
+                  <canvas id="fearnFxMonthly"></canvas>
+                </div>
               </div>
             </div>
           </div>
