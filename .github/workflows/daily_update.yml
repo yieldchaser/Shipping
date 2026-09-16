@@ -37,45 +37,59 @@ jobs:
       run: git pull --rebase --autostash origin main
 
     - name: Run scraper
+      continue-on-error: true
       run: python scripts/update_indices.py
 
     - name: Run fund flow scraper
+      continue-on-error: true
       run: python scripts/fetch_flows_shipping.py
 
     - name: Run Alibra poller and integration
+      continue-on-error: true
       run: python scripts/alibra_poller.py --integrate
 
     - name: Run Capital Link shipping indices scraper
+      continue-on-error: true
       run: python scripts/scrapers/fetch_capital_link_indices.py
 
     - name: Run SGX Iron Ore forward curve & restocking sync
+      continue-on-error: true
       run: python scripts/scrapers/fetch_sgx_iron_ore.py
 
     - name: Fetch live ETF quotes
+      continue-on-error: true
       run: python scripts/fetch_live_etf_quotes.py
 
     - name: Sync Fearnleys Hasura recent freight & fixture deltas
+      continue-on-error: true
       run: python scripts/fearnleys/daily_fearnleys_sync.py || true
 
     - name: Fetch Fearnleys TC benchmark rates
+      continue-on-error: true
       run: python scripts/fetch_fearnleys_tc.py || true
 
     - name: Update Intermodal TC rates
+      continue-on-error: true
       run: python scripts/update_intermodal_tc_rates.py || true
 
     - name: Refresh Fearnleys daily dry routes (Capesize, Panamax, Supramax)
-      run: python scripts/fearnleys/fetch_dry_routes_ts.py --refresh
+      continue-on-error: true
+      run: python scripts/fearnleys/fetch_dry_routes_ts.py --refresh || true
 
     - name: Fetch latest Gibson weekly tanker rate curves
+      continue-on-error: true
       run: python scripts/scrapers/fetch_gibson_weekly.py || true
 
     - name: Rebuild daily tanker routes cache
-      run: python scripts/fearnleys/build_tanker_routes_daily.py --build --verify
+      continue-on-error: true
+      run: python scripts/fearnleys/build_tanker_routes_daily.py --build --verify || true
 
     - name: Build frontend view layer
+      if: "!cancelled()"
       run: python scripts/build_views.py
 
     - name: Commit and push changes
+      if: "!cancelled()"
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
