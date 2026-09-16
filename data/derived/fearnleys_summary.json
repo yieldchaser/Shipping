@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T15:15:19.935469Z",
+  "generated_at": "2026-09-16T18:01:06.409398Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
-    "rate_records": 305920,
-    "fixture_records": 546103,
+    "rate_records": 305936,
+    "fixture_records": 546123,
     "snp_records": 2620,
     "comment_records": 11730
   },
@@ -18707,11 +18707,11 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 546103,
+    "total_fixtures": 546123,
     "department_totals": {
-      "BULK": 421700,
+      "BULK": 421718,
       "TANKPRO": 65408,
-      "TANK": 44299,
+      "TANK": 44301,
       "LNG": 8115,
       "LPG": 5706,
       "RoRo": 872
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 196889,
-        "tank": 3503,
+        "bulk": 196907,
+        "tank": 3505,
         "gas": 2084,
-        "total": 202525
+        "total": 202545
       }
     ],
     "top_charterers": [
@@ -19226,8 +19226,80 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "LUTUF",
+        "vessel": "NAN",
         "segment": "Panamax",
+        "charterer": "NIAVIGRAINS TRADING",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "LAMPARD",
+        "segment": "Ultramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "VERY CLOSE/DIRECT OWRS OPEN; LAST CARGO: STEEL (LAST) / CONCENTRATES / SOYBEAN MEAL / UREA / STEEL"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "MALOSE",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "SF 2.4"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "VTC PHEONIX",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "ADA WOG; CAN TRY ANY. INCL AFRICA/ATLANTIC"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAGUAL",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "BOX / OPEN HATCH, SID, 5 HO / 5 HA, GRAIN 1 622 502 CBFT / BALE 45 280 CBM, GRD 4 X 30.5, IMO 1.4, 2, 4.1, 4.2, 5.1, 6.1"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Capesize",
+        "charterer": "LSS OCEAN TRANSPORT",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "VSL STD CAPESIZE, MAX AGE 19 YRS, RIGHTSHIP SCORE 3, NO RUSSIA CALLER, FREE DA AT DISCHARGE PORT"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "ORIENTAL TBN 2",
+        "segment": "Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
@@ -19238,15 +19310,15 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "SHAMAN WISDOM",
-        "segment": "Handymax",
+        "vessel": "ORIENTAL TBN 1",
+        "segment": "Panamax",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "Australia & USA Trader, Passage via GOA is OK"
+        "comment": "PREFER INSIDE PG"
       },
       {
         "date": "2026-09-16",
@@ -19334,18 +19406,6 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "LAMPARD",
-        "segment": "Ultramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "VERY CLOSE/DIRECT OWRS OPEN; LAST CARGO: STEEL (LAST) / CONCENTRATES / SOYBEAN MEAL / UREA / STEEL"
-      },
-      {
-        "date": "2026-09-16",
         "vessel": "NAGUAL",
         "segment": "Handymax",
         "charterer": "NAN",
@@ -19355,6 +19415,18 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "BOX / OPEN HATCH"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "YANG FAN",
+        "segment": "Capesize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
       },
       {
         "date": "2026-09-16",
@@ -19406,6 +19478,18 @@
       },
       {
         "date": "2026-09-16",
+        "vessel": "SHAMAN WISDOM",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "Australia & USA Trader, Passage via GOA is OK"
+      },
+      {
+        "date": "2026-09-16",
         "vessel": "NAGUAL",
         "segment": "Handymax",
         "charterer": "NAN",
@@ -19415,18 +19499,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "Excl open spot Chittagong"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "ORIENTAL TBN 2",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
       },
       {
         "date": "2026-09-16",
@@ -19526,15 +19598,27 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "FCC",
+        "vessel": "SEA PUMA",
+        "segment": "Capesize",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "JALDHI",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "GEARED/GLESS MAX 20Y; NO PAKISTANI / CHINESE CREW ON BOARD; DUR ABT 8-9 DAYS WOG"
       },
       {
         "date": "2026-09-16",
@@ -19550,43 +19634,7 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "HAI PING",
-        "segment": "Mini-Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "HOT TO FIX"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "HAI GE",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "ADA"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "HAI GE",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PANAMA FLAG,RINA CLASS, ADA"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "HAI SUNNY",
+        "vessel": "DEMA",
         "segment": "Handysize",
         "charterer": "NAN",
         "route": "nan",
@@ -19594,55 +19642,91 @@
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "VIETNAM FLAG, CLASS RINA/PANDI: WEST OF ENGLAND"
+        "comment": "EX DD ARND, INCREASED DWT AND IMPROVED CONSUMPTION AND ADDED GRABS"
       },
       {
         "date": "2026-09-16",
-        "vessel": "ORIENTAL TBN 1",
-        "segment": "Panamax",
+        "vessel": "SEIYO GROWTH",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "PREFER INSIDE PG"
+        "comment": "nan"
       },
       {
         "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Capesize",
-        "charterer": "LSS OCEAN TRANSPORT",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "VSL STD CAPESIZE, MAX AGE 19 YRS, RIGHTSHIP SCORE 3, NO RUSSIA CALLER, FREE DA AT DISCHARGE PORT"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "HAI SING",
-        "segment": "Panamax",
+        "vessel": "SEIYO GLORY",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "ADA"
+        "comment": "nan"
       },
       {
         "date": "2026-09-16",
-        "vessel": "ETERNITY AFRICA",
-        "segment": "Supramax",
+        "vessel": "HORIZON 9",
+        "segment": "Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "N.ORE OK, deck cargo/2*25MT coil OK, prefer TCT to China"
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "SEIYO GODDESS",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "SEIYO FORTUNE",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "EXCL:AUS,EU,US"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "VW SAFETY",
+        "segment": "Mini-Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "BAO M",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
       },
       {
         "date": "2026-09-16",
@@ -19802,6 +19886,18 @@
       },
       {
         "date": "2026-09-16",
+        "vessel": "ETERNITY AFRICA",
+        "segment": "Supramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "N.ORE OK, deck cargo/2*25MT coil OK, prefer TCT to China"
+      },
+      {
+        "date": "2026-09-16",
         "vessel": "NAN",
         "segment": "Panamax",
         "charterer": "SKY FUSION",
@@ -19811,18 +19907,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "DECK HATCH LOAD / 2*25 / 20Y"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "NAGUAL",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "BOX / OPEN HATCH, SID, 5 HO / 5 HA, GRAIN 1 622 502 CBFT / BALE 45 280 CBM, GRD 4 X 30.5, IMO 1.4, 2, 4.1, 4.2, 5.1, 6.1"
       },
       {
         "date": "2026-09-16",
@@ -19910,33 +19994,9 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "DEMA",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "EX DD ARND, INCREASED DWT AND IMPROVED CONSUMPTION AND ADDED GRABS"
-      },
-      {
-        "date": "2026-09-16",
         "vessel": "NAN",
         "segment": "Panamax",
-        "charterer": "JALDHI",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "GEARED/GLESS MAX 20Y; NO PAKISTANI / CHINESE CREW ON BOARD; DUR ABT 8-9 DAYS WOG"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "YANG FAN",
-        "segment": "Capesize",
-        "charterer": "NAN",
+        "charterer": "FCC",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
@@ -19946,69 +20006,81 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "SEA PUMA",
-        "segment": "Capesize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "MALOSE",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "SF 2.4"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "VTC PHEONIX",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "ADA WOG; CAN TRY ANY. INCL AFRICA/ATLANTIC"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "HAI SUNNY",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "VIETNAM FLAG, CLASS RINA/PANDI: WEST OF ENGLAND"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "HAI SING",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "BULK CARRIER, CLASS: RINA , FLAG: MARSHALL ISLANDS, ADA"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "VW SAFETY",
+        "vessel": "HAI PING",
         "segment": "Mini-Handysize",
         "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "HOT TO FIX"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "OCEAN HOPE",
+        "segment": "Ultramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "EX OUR CP - EX DD. 2X25 + DECK/HATCH OK. GOA OK. RSEA DISCH OK. BGD RICE OK."
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "PANGAEA",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "TCT REDELIVERY USEC"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "TERNIUM",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "VIA CAPE OF GOOD HOPE; SINGLEDECKER / BULKCARRIER. BOX SHAPEP PREFERABLE; CLASSED LLOYDS HIGHEST OR EQUIVALENT; VESSEL M"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "SKY FUSION",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "REFINED SUCCESS",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "KSC",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
@@ -20021,6 +20093,18 @@
         "vessel": "NAN",
         "segment": "Panamax",
         "charterer": "DRYLOG",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "ZEPHYR",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
@@ -20126,18 +20210,6 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "PANGAEA",
-        "segment": "Handymax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "TCT REDELIVERY USEC"
-      },
-      {
-        "date": "2026-09-16",
         "vessel": "SKY FUSION",
         "segment": "Handymax",
         "charterer": "NAN",
@@ -20147,6 +20219,18 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "TCT REDELIVERY NEW ZEALAND"
+      },
+      {
+        "date": "2026-09-16",
+        "vessel": "HAI GE",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "ADA"
       },
       {
         "date": "2026-09-16",
@@ -20171,18 +20255,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "TCT REDELIVERY PERU"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "SAGA WELCO",
-        "segment": "Supramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "TCT REDELIVERY FUJAIRAH"
       },
       {
         "date": "2026-09-16",
@@ -20294,6 +20366,18 @@
       },
       {
         "date": "2026-09-16",
+        "vessel": "KSC",
+        "segment": "Ultramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "TCT REDELIVERY SPANISH OR EGYPTIAN MEDITERRANEAN"
+      },
+      {
+        "date": "2026-09-16",
         "vessel": "DRYLOG TRADING",
         "segment": "Ultramax",
         "charterer": "NAN",
@@ -20318,99 +20402,15 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "REFINED SUCCESS",
-        "segment": "Ultramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "TCT REDELIVERY FAR EAST"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "REFINED SUCCESS",
-        "segment": "Ultramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "TCT REDELIVERY SINGAPORE - JAPAN RANGE"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "REACHY",
-        "segment": "Ultramax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "TCT REDELIVERY SINGAPORE - JAPAN RANGE"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "MARELIS",
-        "segment": "Kamsarmax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "TCT REDELIVERY CHINA"
-      },
-      {
-        "date": "2026-09-16",
         "vessel": "NAN",
         "segment": "Panamax",
-        "charterer": "AVENIR",
+        "charterer": "SEACAPE",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "MAX 20 YRS"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "ZEPHYR",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "KSC",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-16",
-        "vessel": "HAI CHENG",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "PANAMA FLAG"
+        "comment": "5 UPTO 12 MONTHS PERIOD"
       }
     ]
   },
