@@ -29,11 +29,14 @@ TENOR_COLS = {
     "capesize_2y_avg": ("Capesize", "2Y"),
     "panamax_4_6m_avg": ("Panamax", "4-6M"), "panamax_1y_avg": ("Panamax", "1Y"),
     "panamax_2y_avg": ("Panamax", "2Y"),
-    "supramax_1y_avg": ("Supramax", "1Y"), "handysize_1y_avg": ("Handysize", "1Y"),
+    "supramax_4_6m_avg": ("Supramax", "4-6M"), "supramax_1y_avg": ("Supramax", "1Y"),
+    "supramax_2y_avg": ("Supramax", "2Y"),
+    "handysize_4_6m_avg": ("Handysize", "4-6M"), "handysize_1y_avg": ("Handysize", "1Y"),
+    "handysize_2y_avg": ("Handysize", "2Y"),
     "vlcc_1y": ("VLCC", "1Y"), "vlcc_2y": ("VLCC", "2Y"), "vlcc_3y": ("VLCC", "3Y"),
-    "suezmax_1y": ("Suezmax", "1Y"), "suezmax_2y": ("Suezmax", "2Y"),
-    "aframax_1y": ("Aframax", "1Y"),
-    "mr_1y_tc": ("MR", "1Y"), "mr_2y_tc": ("MR", "2Y"), "mr_3y_tc": ("MR", "3Y"),
+    "suezmax_1y": ("Suezmax", "1Y"), "suezmax_2y": ("Suezmax", "2Y"), "suezmax_3y": ("Suezmax", "3Y"),
+    "aframax_1y": ("Aframax", "1Y"), "aframax_2y": ("Aframax", "2Y"), "aframax_3y": ("Aframax", "3Y"),
+    "mr_1y": ("MR", "1Y"), "mr_2y": ("MR", "2Y"), "mr_3y": ("MR", "3Y"),
 }
 
 FAMILIES = {
