@@ -13147,6 +13147,7 @@
               <label for="leadLagPair" class="context-label" style="margin-bottom:0">Custom Pair:</label>
               <select id="leadLagPair" class="signals-select" data-tooltip="Choose the ETF-vs-index pair for the lead/lag correlation test; pairs map to cached daily series." onchange="onLeadLagSelectChange()">
                 <optgroup label="Financial Speed (ETF Leads)">
+                  <option value="bdry:cape">BDRY vs BCI (Capesize Spot)</option>
                   <option value="bdry:bdiy">BDRY vs BDI (Bulk Sentiment)</option>
                   <option value="bwet:cleantanker">BWET vs BCTI (Clean Tanker)</option>
                   <option value="bwet:dirtytanker">BWET vs BDTI (Dirty Tanker)</option>
@@ -13156,6 +13157,10 @@
                 <optgroup label="Vessel Rotation (Ripple Effects)">
                   <option value="cape:panama">BCI vs BPI (Cape vs Panamax)</option>
                   <option value="cape:suprama">BCI vs BSI (Cape vs Supramax)</option>
+                </optgroup>
+                <optgroup label="Commodity Demand Drivers">
+                  <option value="bdiy:ironore">BDI vs Iron Ore (SGX 62% FEF)</option>
+                  <option value="cape:ironore">BCI vs Iron Ore (Capesize vs FEF)</option>
                 </optgroup>
                 <optgroup label="Basis &amp; Indices">
                   <option value="bdiy:bdryff">BDI vs BDRYFF</option>
@@ -13169,6 +13174,7 @@
             </div>
             <div class="chart-canvas-wrap" style="height:320px"><canvas id="leadLagChart"></canvas></div>
             <div id="leadLagInfo" class="lead-lag-info"></div>
+            <div id="leadLagPeakBadge" style="margin-top:10px;"></div>
           </div>
 
           <!-- D. ETF MARKET TIMING & SENTIMENT SIGNALS -->
@@ -36075,43 +36081,119 @@ function renderSignalsTab(productKey) {
     // -------------------------------------------------------
     // 11. LEAD-LAG CORRELATION
     // -------------------------------------------------------
-    function renderLeadLagChart() {
+    // Helper to load time series for Lead-Lag cross-correlation (supports DATA.master indices and SGX iron ore continuous)
+    async function loadLeadLagSeries(key) {
+      if (key === 'ironore' || key === 'iron_ore') {
+        if (DATA.ironOreSeries && DATA.ironOreSeries.length) return DATA.ironOreSeries;
+        if (!window._ironOreLoadPromise) {
+          window._ironOreLoadPromise = fetchCSV('data/commodities/sgx_iron_ore_continuous_daily.csv')
+            .then(rows => {
+              const parsed = [];
+              for (let i = 0; i < (rows || []).length; i++) {
+                const r = rows[i];
+                const p = parseFloat(String(r.fef_m1_price || '').replace(/,/g, ''));
+                if (r.date && !isNaN(p) && p > 0) {
+                  const d = parseDate(r.date) || parseDateISO(r.date) || new Date(r.date);
+                  parsed.push({
+                    date: d,
+                    dateStr: String(r.date).trim().slice(0, 10),
+                    value: p,
+                    ironore: p
+                  });
+                }
+              }
+              DATA.ironOreSeries = parsed;
+              return parsed;
+            }).catch(err => {
+              console.warn('[LeadLag] Failed to load iron ore series:', err);
+              return [];
+            });
+        }
+        return window._ironOreLoadPromise;
+      }
+
+      if (typeof getRows === 'function') {
+        const rows = getRows(key);
+        if (rows && rows.length) return rows;
+      }
+      if (DATA && DATA.master) {
+        const rows = DATA.master.filter(r => r[key] != null);
+        if (rows && rows.length) return rows;
+      }
+      return [];
+    }
+
+    const LEAD_LAG_LABELS = {
+      bdiy:         'Baltic Dry Index',
+      bdry:         'BDRY ETF',
+      bwet:         'BWET ETF',
+      bdry_spot:    'BDRY Spot Composite',
+      cape:         'Capesize Index (BCI)',
+      panama:       'Panamax Index (BPI)',
+      suprama:      'Supramax Index (BSI)',
+      handysize:    'Handysize Index (BHSI)',
+      dirtytanker:  'Dirty Tanker Index (BDTI)',
+      cleantanker:  'Clean Tanker Index (BCTI)',
+      bdryff:       'BDRY Freight Futures',
+      bwetff:       'BWET Freight Futures',
+      ironore:      'Iron Ore (SGX 62% FEF)',
+      iron_ore:     'Iron Ore (SGX 62% FEF)'
+    };
+
+    async function renderLeadLagChart() {
       window.renderLeadLagChart = renderLeadLagChart;
       const pairEl = document.getElementById('leadLagPair');
       const pair = window.leadLagPair || (pairEl ? pairEl.value : 'bdry:cape');
       const [keyA, keyB] = pair.split(':');
 
-      // For preset pairs that may not exist in PRODUCTS (e.g. ironore), fall back gracefully
-      const rowsA = (typeof getRows === 'function') ? getRows(keyA) : [];
-      const rowsB_all = DATA.master.filter(r => r[keyB] != null);
-      const rowsB = rowsB_all.length ? rowsB_all : (typeof getRows === 'function' ? getRows(keyB) : []);
+      const infoEl = document.getElementById('leadLagInfo');
+      if (keyA === 'ironore' || keyB === 'ironore') {
+        if (!DATA.ironOreSeries && infoEl) {
+          infoEl.innerHTML = '<span style="color:var(--text-muted);font-size:12px;">Loading SGX 62% Fe Iron Ore daily series...</span>';
+        }
+      }
 
-      if (rowsA.length < 50 || rowsB.length < 50) {
+      const [rowsA, rowsB] = await Promise.all([
+        loadLeadLagSeries(keyA),
+        loadLeadLagSeries(keyB)
+      ]);
+
+      if (!rowsA || rowsA.length < 50 || !rowsB || rowsB.length < 50) {
         const canvas = document.getElementById('leadLagChart');
         if (canvas) { destroyChart('leadLagChart'); }
-        const infoEl = document.getElementById('leadLagInfo');
-        if (infoEl) infoEl.innerHTML = '<span style="color:var(--text-muted);font-size:12px;">Insufficient overlapping data for this pair.</span>';
+        if (infoEl) infoEl.innerHTML = '<span style="color:var(--text-muted);font-size:12px;">Insufficient data for this pair.</span>';
+        const peakBadge = document.getElementById('leadLagPeakBadge');
+        if (peakBadge) peakBadge.innerHTML = '';
         return;
       }
 
       const mapB = new Map();
       rowsB.forEach(r => {
-        if (r.date && r.date.getTime) mapB.set(r.date.getTime(), r[keyB]);
+        const val = r[keyB] != null ? r[keyB] : r.value;
+        if (r.date && r.date.getTime) mapB.set(r.date.getTime(), val);
         const ds = r.dateStr || (r.date && typeof fmtDate === 'function' ? fmtDate(r.date) : null);
-        if (ds) mapB.set(ds, r[keyB]);
+        if (ds) mapB.set(ds, val);
       });
       
       const alignedA = [], alignedB = [];
       rowsA.forEach(r => {
         const ds = r.dateStr || (r.date && typeof fmtDate === 'function' ? fmtDate(r.date) : null);
         const valB = (r.date && r.date.getTime ? mapB.get(r.date.getTime()) : null) ?? (ds ? mapB.get(ds) : null);
-        if (valB != null && r[keyA] != null) {
-          alignedA.push(r[keyA]);
+        const valA = r[keyA] != null ? r[keyA] : r.value;
+        if (valB != null && valA != null) {
+          alignedA.push(valA);
           alignedB.push(valB);
         }
       });
 
-      if (alignedA.length < 50) return;
+      if (alignedA.length < 50) {
+        const canvas = document.getElementById('leadLagChart');
+        if (canvas) { destroyChart('leadLagChart'); }
+        if (infoEl) infoEl.innerHTML = '<span style="color:var(--text-muted);font-size:12px;">Insufficient overlapping dates for this pair.</span>';
+        const peakBadge = document.getElementById('leadLagPeakBadge');
+        if (peakBadge) peakBadge.innerHTML = '';
+        return;
+      }
 
       const returnsA = calculateLogReturns(alignedA);
       const returnsB = calculateLogReturns(alignedB);
@@ -36147,10 +36229,10 @@ function renderSignalsTab(productKey) {
         sigLabel = Math.abs(t) > 1.96 ? 'Significant (p<0.05)' : 'Not Significant';
       }
 
-      const infoEl = document.getElementById('leadLagInfo');
+      const labelA = LEAD_LAG_LABELS[keyA] || ((PRODUCTS[keyA] && PRODUCTS[keyA].label) ? PRODUCTS[keyA].label.split('(')[0].trim() : keyA);
+      const labelB = LEAD_LAG_LABELS[keyB] || ((PRODUCTS[keyB] && PRODUCTS[keyB].label) ? PRODUCTS[keyB].label.split('(')[0].trim() : keyB);
+
       if (infoEl) {
-        const labelA = (PRODUCTS[keyA] && PRODUCTS[keyA].label) ? PRODUCTS[keyA].label.split('(')[0].trim() : keyA;
-        const labelB = (PRODUCTS[keyB] && PRODUCTS[keyB].label) ? PRODUCTS[keyB].label.split('(')[0].trim() : keyB;
         let interpretation = '';
         if (peakLag > 0) interpretation = `<strong>${labelA} leads ${labelB}</strong> by ${peakLag} trading days`;
         else if (peakLag < 0) interpretation = `<strong>${labelB} leads ${labelA}</strong> by ${Math.abs(peakLag)} trading days`;
