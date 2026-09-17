@@ -23735,7 +23735,7 @@ function buildMaster() {
         if (covered(cv) || cv.hasAttribute(STAMPED)) return;
         // Skip canvases that sit inside standard chart containers, canvas wraps, or cards
         // Chart.js manages its own rich interactive hover tooltips; do not stamp synthetic tooltips on them.
-        if (cv.closest('.chart-container, .chart-canvas-wrap, .spaghetti-wrap, .intel-vc-card, .intel-spark-wrap, .z-gauge-wrap, .chart-section, .donut-wrap') || (cv.id && cv.id.startsWith('donut_'))) return;
+        if (cv.closest('.chart-container, .chart-canvas-wrap, .spaghetti-wrap, .intel-vc-card, .intel-spark-wrap, .z-gauge-wrap, .chart-section, .donut-wrap, .bix-chart-box') || (cv.id && (cv.id.startsWith('donut_') || cv.id === 'bunkerBixChart'))) return;
         var ct = chartText(cv);
         var cname = (cv.id || 'chart').replace(/_/g, ' ').replace(/([a-z])([A-Z])/g, '$1 $2');
         var h = wrap(cname.replace(/\b\w/g, function (c) { return c.toUpperCase(); }));
@@ -49561,6 +49561,10 @@ function renderBunkerBixChart() {
   var canvas = document.getElementById('bunkerBixChart');
   if (!canvas || typeof Chart === 'undefined') return;
 
+  canvas.removeAttribute('data-tooltip');
+  canvas.removeAttribute('data-tt-type');
+  canvas.removeAttribute('data-tt-stamped');
+
   var summary = DATA.bunkerSummary;
   var bh = summary && summary.bix_history ? summary.bix_history : null;
   var suiteKey = 'BIX_' + bixChartRegion;
@@ -49614,7 +49618,7 @@ function renderBunkerBixChart() {
         tension: 0.15,
         borderWidth: 2,
         pointRadius: gradeData.dates.length > 40 ? 1 : 2.5,
-        pointHoverRadius: 5
+        pointHoverRadius: 4
       }]
     },
     options: {
@@ -49633,44 +49637,47 @@ function renderBunkerBixChart() {
           var sgn = chg > 0 ? '+' : '';
           var cls = chg > 0 ? 'up' : (chg < 0 ? 'dn' : '');
           var chgSpan = chg != null ? (' <span class="bix-d ' + cls + '" style="font-weight:700;">' + sgn + chg.toFixed(2) + '</span>') : '';
-          var rngSpan = (low != null && high != null) ? (' · Port Range: <span style="color:#fff;font-weight:600;">$' + low.toFixed(0) + '–$' + high.toFixed(0) + '</span>') : '';
-          metaEl.innerHTML = '<span style="color:#fff; font-weight:700;">' + regLabel + ' ' + bixChartGrade + '</span> · <span style="color:var(--accent); font-weight:700;">' + d + '</span> · <span style="color:#fff; font-weight:700;">$' + p.toFixed(2) + '/MT</span>' + chgSpan + rngSpan + ' · <span style="color:var(--text-muted); font-size:10px;">Obs #' + (idx + 1) + '/' + gradeData.dates.length + '</span>';
+          var rngSpan = (low != null && high != null) ? (' · Range: <span style="color:#fff;font-weight:600;">$' + low.toFixed(0) + '–$' + high.toFixed(0) + '</span>') : '';
+          metaEl.innerHTML = '<span style="color:#fff; font-weight:700;">' + regLabel + ' ' + bixChartGrade + '</span> · <span style="color:var(--accent); font-weight:700;">' + d + '</span> · <span style="color:#fff; font-weight:700;">$' + p.toFixed(2) + '/MT</span>' + chgSpan + rngSpan;
         }
       },
       plugins: {
         legend: { display: false },
         tooltip: {
-          backgroundColor: 'rgba(17, 24, 32, 0.95)',
-          borderColor: '#2b3648',
+          backgroundColor: '#0d1117',
+          borderColor: '#30363d',
           borderWidth: 1,
-          padding: 10,
+          padding: 8,
           cornerRadius: 4,
-          titleColor: '#fff',
-          titleFont: { family: 'IBM Plex Mono', size: 12, weight: '700' },
-          bodyColor: '#d4dce8',
-          bodyFont: { family: 'IBM Plex Mono', size: 11 },
+          titleColor: '#8b949e',
+          titleFont: { family: 'IBM Plex Mono, monospace', size: 11, weight: '500' },
+          bodyColor: '#e6edf3',
+          bodyFont: { family: 'IBM Plex Mono, monospace', size: 12, weight: '600' },
           displayColors: false,
           callbacks: {
-            title: function(items) { return items && items.length ? ('📅 Observation: ' + items[0].label) : ''; },
+            title: function(items) {
+              return (items && items.length) ? items[0].label : '';
+            },
             label: function(item) {
               var idx = item.dataIndex;
               var p = item.parsed.y;
               var chg = (gradeData.change_usd && isFinite(gradeData.change_usd[idx])) ? gradeData.change_usd[idx] : null;
+              var prevP = (chg != null && p) ? (p - chg) : null;
+              var pct = (chg != null && prevP > 0) ? ((chg / prevP) * 100) : null;
               var low = (gradeData.lows && isFinite(gradeData.lows[idx])) ? gradeData.lows[idx] : null;
               var high = (gradeData.highs && isFinite(gradeData.highs[idx])) ? gradeData.highs[idx] : null;
+
               var lines = [];
-              lines.push('  Index Price: $' + p.toFixed(2) + ' / MT');
-              if (chg != null) {
+              var chgStr = '';
+              if (chg != null && chg !== 0) {
                 var sgn = chg > 0 ? '+' : '';
-                var prevP = p - chg;
-                var pct = prevP > 0 ? ((chg / prevP) * 100) : null;
-                var pctStr = (pct != null && isFinite(pct)) ? (' (' + (pct > 0 ? '+' : '') + pct.toFixed(2) + '%)') : '';
-                lines.push('  Change vs Prior: ' + sgn + chg.toFixed(2) + pctStr);
+                var pctStr = (pct != null && isFinite(pct)) ? (' (' + sgn + pct.toFixed(2) + '%)') : '';
+                chgStr = '  ' + sgn + chg.toFixed(2) + pctStr;
               }
-              if (low != null && high != null) {
-                lines.push('  Constituent Range: $' + low.toFixed(0) + ' – $' + high.toFixed(0) + ' (Spread: $' + (high - low).toFixed(0) + ')');
+              lines.push(regLabel + ' ' + bixChartGrade + ': $' + p.toFixed(2) + '/MT' + chgStr);
+              if (low != null && high != null && high > low) {
+                lines.push('Range: $' + low.toFixed(0) + ' – $' + high.toFixed(0));
               }
-              lines.push('  Archive: Obs #' + (idx + 1) + ' of ' + gradeData.dates.length);
               return lines;
             }
           }
@@ -49688,26 +49695,15 @@ function renderBunkerBixChart() {
           var activePoint = chart.tooltip.getActiveElements()[0];
           var ctx2 = chart.ctx;
           var x = activePoint.element.x;
-          var y = activePoint.element.y;
           var topY = chart.chartArea.top;
           var bottomY = chart.chartArea.bottom;
           ctx2.save();
           ctx2.beginPath();
-          ctx2.setLineDash([4, 4]);
+          ctx2.setLineDash([3, 3]);
           ctx2.moveTo(x, topY);
           ctx2.lineTo(x, bottomY);
           ctx2.lineWidth = 1;
-          ctx2.strokeStyle = 'rgba(163, 113, 247, 0.5)';
-          ctx2.stroke();
-
-          // Point highlight ring
-          ctx2.beginPath();
-          ctx2.setLineDash([]);
-          ctx2.arc(x, y, 5, 0, Math.PI * 2);
-          ctx2.fillStyle = color;
-          ctx2.strokeStyle = '#fff';
-          ctx2.lineWidth = 2;
-          ctx2.fill();
+          ctx2.strokeStyle = 'rgba(110, 118, 129, 0.4)';
           ctx2.stroke();
           ctx2.restore();
         }
