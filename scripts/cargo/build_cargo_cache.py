@@ -309,10 +309,16 @@ def process_pilbara_iron_ore():
                         by_q[q]["vale_mt"] = round(v, 2)
                         by_q[q]["details"]["vale"] = {"mt": round(v, 2), "basis": "100% basis", "prov": prov}
                     elif "rio" in miner:
-                        v = s100 or spilb
-                        basis_str = "Total 100% (Pilbara+IOC)" if s100 else "Pilbara 100%"
+                        v = spilb or s100 or p100
+                        basis_str = "Pilbara 100%" if spilb else ("Total 100% (Pilbara+IOC)" if s100 else "100% basis")
                         by_q[q]["rio_tinto_mt"] = round(v, 2)
-                        by_q[q]["details"]["rio"] = {"mt": round(v, 2), "basis": basis_str, "prov": prov}
+                        by_q[q]["details"]["rio"] = {
+                            "mt": round(v, 2),
+                            "basis": basis_str,
+                            "pilbara_mt": round(spilb, 2) if spilb else None,
+                            "global_mt": round(s100, 2) if s100 else None,
+                            "prov": prov
+                        }
                     elif "bhp" in miner:
                         v = s100 or seq or p100
                         basis_str = "100% basis" if s100 else ("Equity Share" if seq else "100% Prod")

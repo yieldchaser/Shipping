@@ -87,7 +87,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2024-03-31", "quarter": "2024 Q1", "miner": "BHP",
@@ -139,7 +139,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2024-06-30", "quarter": "2024 Q2", "miner": "BHP",
@@ -191,7 +191,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2024-09-30", "quarter": "2024 Q3", "miner": "BHP",
@@ -243,7 +243,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2024-12-31", "quarter": "2024 Q4", "miner": "BHP",
@@ -295,7 +295,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2025-03-31", "quarter": "2025 Q1", "miner": "BHP",
@@ -352,7 +352,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
         "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2025-06-30", "quarter": "2025 Q2", "miner": "BHP",
@@ -408,7 +408,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
         "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2025-09-30", "quarter": "2025 Q3", "miner": "BHP",
@@ -464,7 +464,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
         "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2025-12-31", "quarter": "2025 Q4", "miner": "BHP",
@@ -521,7 +521,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
         "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2026-03-31", "quarter": "2026 Q1", "miner": "BHP",
@@ -574,7 +574,7 @@ OFFICIAL_FILINGS_REGISTRY = [
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
         "table_row_label": "Global iron ore sales (100% basis) / Total shipments ('000 tonnes) / Total production ('000 tonnes)",
-        "basis": "Rio Tinto total iron ore, 100% basis (Pilbara + IOC + Simandou)"
+        "basis": "Pilbara 100% basis ('000 t, Pilbara operations table); global 100% sales where stated from the summary table (Pilbara + IOC + Simandou)"
     },
     {
         "date": "2026-06-30", "quarter": "2026 Q2", "miner": "BHP",

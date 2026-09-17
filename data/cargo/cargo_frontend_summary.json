@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T15:00:00Z",
+    "generated_at": "2026-09-17T15:23:38Z",
     "as_of": "2026-09-17",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -2755,6 +2755,8 @@
           "rio": {
             "mt": 78.0,
             "basis": "Total 100% (Pilbara+IOC)",
+            "pilbara_mt": null,
+            "global_mt": 78.0,
             "prov": "illustrative_prior_estimate"
           },
           "vale": {
@@ -2788,6 +2790,8 @@
           "rio": {
             "mt": 80.3,
             "basis": "Total 100% (Pilbara+IOC)",
+            "pilbara_mt": null,
+            "global_mt": 80.3,
             "prov": "illustrative_prior_estimate"
           },
           "vale": {
@@ -2821,6 +2825,8 @@
           "rio": {
             "mt": 84.5,
             "basis": "Total 100% (Pilbara+IOC)",
+            "pilbara_mt": null,
+            "global_mt": 84.5,
             "prov": "illustrative_prior_estimate"
           },
           "vale": {
@@ -2854,6 +2860,8 @@
           "rio": {
             "mt": 87.1,
             "basis": "Total 100% (Pilbara+IOC)",
+            "pilbara_mt": null,
+            "global_mt": 87.1,
             "prov": "illustrative_prior_estimate"
           },
           "vale": {
@@ -2887,6 +2895,8 @@
           "rio": {
             "mt": 80.5,
             "basis": "Total 100% (Pilbara+IOC)",
+            "pilbara_mt": null,
+            "global_mt": 80.5,
             "prov": "illustrative_prior_estimate"
           },
           "vale": {
@@ -2920,6 +2930,8 @@
           "rio": {
             "mt": 79.89,
             "basis": "Pilbara 100%",
+            "pilbara_mt": 79.89,
+            "global_mt": null,
             "prov": "EDGAR:0000863064-26-000035"
           },
           "vale": {
@@ -2953,6 +2965,8 @@
           "rio": {
             "mt": 84.35,
             "basis": "Pilbara 100%",
+            "pilbara_mt": 84.35,
+            "global_mt": null,
             "prov": "EDGAR:0000863064-26-000035"
           },
           "vale": {
@@ -2986,6 +3000,8 @@
           "rio": {
             "mt": 91.26,
             "basis": "Pilbara 100%",
+            "pilbara_mt": 91.26,
+            "global_mt": null,
             "prov": "EDGAR:0000863064-26-000035"
           },
           "vale": {
@@ -3019,6 +3035,8 @@
           "rio": {
             "mt": 72.39,
             "basis": "Pilbara 100%",
+            "pilbara_mt": 72.39,
+            "global_mt": null,
             "prov": "EDGAR:0000863064-26-000035"
           },
           "vale": {
@@ -3031,10 +3049,10 @@
       {
         "quarter": "2026 Q2",
         "vale_mt": 79.75,
-        "rio_tinto_mt": 88.8,
+        "rio_tinto_mt": 85.26,
         "bhp_mt": 66.43,
         "fmg_mt": 52.7,
-        "total_mt": 287.68,
+        "total_mt": 284.14,
         "bhp_is_equity": true,
         "has_illustrative": false,
         "details": {
@@ -3050,8 +3068,10 @@
             "prov": "ASX:03116249"
           },
           "rio": {
-            "mt": 88.8,
-            "basis": "Total 100% (Pilbara+IOC)",
+            "mt": 85.26,
+            "basis": "Pilbara 100%",
+            "pilbara_mt": 85.26,
+            "global_mt": 88.8,
             "prov": "EDGAR:0000863064-26-000035"
           },
           "vale": {

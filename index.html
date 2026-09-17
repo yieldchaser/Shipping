@@ -29379,8 +29379,12 @@ function buildMaster() {
             metaMap[q]['Vale'] = { basis: '100% basis', prov: r.provenance };
           }
           if (r.miner === 'Rio Tinto') {
-            rioMap[q] = r.shipmentsMt100pct || r.pilbaraShipmentsMt || r.shipmentsMt;
-            metaMap[q]['Rio Tinto'] = { basis: r.shipmentsMt100pct ? 'Total 100% (Pilbara+IOC)' : 'Pilbara 100%', prov: r.provenance };
+            rioMap[q] = r.pilbaraShipmentsMt || r.shipmentsMt100pct || r.shipmentsMt;
+            metaMap[q]['Rio Tinto'] = {
+              basis: r.pilbaraShipmentsMt ? 'Pilbara 100%' : (r.shipmentsMt100pct ? 'Total 100% (Pilbara+IOC)' : '100% basis'),
+              prov: r.provenance,
+              globalMt: r.shipmentsMt100pct
+            };
           }
           if (r.miner === 'BHP') {
             bhpMap[q] = r.shipmentsMt100pct || r.shipmentsMtEquityShare || r.productionMt100pct || r.shipmentsMt;
@@ -29407,7 +29411,7 @@ function buildMaster() {
           data: {
             labels: quarters,
             datasets: [
-              { label: 'Rio Tinto (Total 100% / Pilbara Mt)', data: quarters.map(q => rioMap[q] || 0), backgroundColor: '#58a6ff' },
+              { label: 'Rio Tinto (Pilbara 100% Mt)', data: quarters.map(q => rioMap[q] || 0), backgroundColor: '#58a6ff' },
               { label: 'Vale (100% basis Mt)', data: quarters.map(q => valeMap[q] || 0), backgroundColor: '#3fb950' },
               { label: 'BHP (Equity Share / WAIO Mt)', data: quarters.map(q => bhpMap[q] || 0), backgroundColor: '#e3b341' },
               { label: 'Fortescue (100% basis Mt)', data: quarters.map(q => fmgMap[q] || 0), backgroundColor: '#bc8cff' },
@@ -29426,7 +29430,8 @@ function buildMaster() {
                     const info = metaMap[q] && metaMap[q][minerName];
                     const provTag = info && info.prov && info.prov.startsWith('EDGAR') ? ' [SEC 6-K]' : (info && info.prov && info.prov.startsWith('ASX') ? ' [ASX PDF]' : ' [Illustrative]');
                     const basisTag = info ? ` (${info.basis})` : '';
-                    return ` ${minerName}: ${c.parsed.y} Mt${basisTag}${provTag}`;
+                    const globalNote = info && info.globalMt && info.basis === 'Pilbara 100%' ? ` [Global: ${info.globalMt} Mt]` : '';
+                    return ` ${minerName}: ${c.parsed.y} Mt${basisTag}${globalNote}${provTag}`;
                   }
                 }
               }
@@ -31211,7 +31216,7 @@ function renderFearnleysSnpTable() {
           data: {
             labels: quarters,
             datasets: [
-              { label: 'Rio Tinto (Total 100% / Pilbara Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: '#58a6ff' },
+              { label: 'Rio Tinto (Pilbara 100% Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: '#58a6ff' },
               { label: 'Vale (100% basis Mt)', data: miners.map(m => m.vale_mt), backgroundColor: '#3fb950' },
               { label: 'BHP (Equity Share / WAIO Mt)', data: miners.map(m => m.bhp_mt), backgroundColor: '#e3b341' },
               { label: 'Fortescue (100% basis Mt)', data: miners.map(m => m.fmg_mt), backgroundColor: '#bc8cff' }
@@ -31229,8 +31234,9 @@ function renderFearnleysSnpTable() {
                     var minerKey = c.datasetIndex === 0 ? 'rio' : (c.datasetIndex === 1 ? 'vale' : (c.datasetIndex === 2 ? 'bhp' : 'fmg'));
                     var dt = m && m.details && m.details[minerKey];
                     var basisStr = dt ? (' (' + dt.basis + ')') : '';
+                    var globalStr = dt && dt.global_mt && dt.basis === 'Pilbara 100%' ? (' [Global: ' + dt.global_mt + ' Mt]') : '';
                     var provTag = dt && dt.prov && dt.prov.indexOf('EDGAR') >= 0 ? ' [SEC 6-K]' : (dt && dt.prov && dt.prov.indexOf('ASX') >= 0 ? ' [ASX PDF]' : ' [Illustrative]');
-                    return ' ' + c.dataset.label.split(' ')[0] + ': ' + c.parsed.y + ' Mt' + basisStr + provTag;
+                    return ' ' + c.dataset.label.split(' ')[0] + ': ' + c.parsed.y + ' Mt' + basisStr + globalStr + provTag;
                   }
                 }
               }
