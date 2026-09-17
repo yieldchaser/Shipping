@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T11:37:37Z",
+    "generated_at": "2026-09-17T14:51:43Z",
     "as_of": "2026-09-17",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -2738,7 +2738,31 @@
         "bhp_mt": 69.8,
         "fmg_mt": 43.3,
         "total_mt": 254.9,
-        "provenance": "EDGAR:0001193125-24-099412"
+        "bhp_is_equity": false,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 69.8,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          },
+          "fmg": {
+            "mt": 43.3,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 78.0,
+            "basis": "Total 100% (Pilbara+IOC)",
+            "prov": "illustrative_prior_estimate"
+          },
+          "vale": {
+            "mt": 63.8,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          }
+        }
       },
       {
         "quarter": "2024 Q2",
@@ -2747,7 +2771,31 @@
         "bhp_mt": 75.9,
         "fmg_mt": 53.7,
         "total_mt": 289.7,
-        "provenance": "EDGAR:0001193125-24-181504"
+        "bhp_is_equity": false,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 75.9,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          },
+          "fmg": {
+            "mt": 53.7,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 80.3,
+            "basis": "Total 100% (Pilbara+IOC)",
+            "prov": "illustrative_prior_estimate"
+          },
+          "vale": {
+            "mt": 79.8,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          }
+        }
       },
       {
         "quarter": "2024 Q3",
@@ -2756,7 +2804,31 @@
         "bhp_mt": 71.4,
         "fmg_mt": 47.7,
         "total_mt": 285.4,
-        "provenance": "EDGAR:0001193125-24-239102"
+        "bhp_is_equity": false,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 71.4,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          },
+          "fmg": {
+            "mt": 47.7,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 84.5,
+            "basis": "Total 100% (Pilbara+IOC)",
+            "prov": "illustrative_prior_estimate"
+          },
+          "vale": {
+            "mt": 81.8,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          }
+        }
       },
       {
         "quarter": "2024 Q4",
@@ -2765,7 +2837,31 @@
         "bhp_mt": 73.2,
         "fmg_mt": 49.4,
         "total_mt": 296.9,
-        "provenance": "EDGAR:0001193125-25-008921"
+        "bhp_is_equity": false,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 73.2,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          },
+          "fmg": {
+            "mt": 49.4,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 87.1,
+            "basis": "Total 100% (Pilbara+IOC)",
+            "prov": "illustrative_prior_estimate"
+          },
+          "vale": {
+            "mt": 87.2,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          }
+        }
       },
       {
         "quarter": "2025 Q1",
@@ -2774,52 +2870,196 @@
         "bhp_mt": 71.2,
         "fmg_mt": 45.1,
         "total_mt": 262.0,
-        "provenance": "EDGAR:0001193125-25-084201"
+        "bhp_is_equity": false,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 71.2,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          },
+          "fmg": {
+            "mt": 45.1,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 80.5,
+            "basis": "Total 100% (Pilbara+IOC)",
+            "prov": "illustrative_prior_estimate"
+          },
+          "vale": {
+            "mt": 65.2,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          }
+        }
       },
       {
         "quarter": "2025 Q2",
-        "vale_mt": 82.0,
-        "rio_tinto_mt": 83.0,
-        "bhp_mt": 78.1,
+        "vale_mt": 77.35,
+        "rio_tinto_mt": 79.89,
+        "bhp_mt": 67.83,
         "fmg_mt": 55.4,
-        "total_mt": 298.5,
-        "provenance": "EDGAR:0001193125-25-168231"
+        "total_mt": 280.47,
+        "bhp_is_equity": true,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 67.83,
+            "basis": "Equity Share",
+            "prov": "EDGAR:0001193125-26-306705"
+          },
+          "fmg": {
+            "mt": 55.4,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 79.89,
+            "basis": "Pilbara 100%",
+            "prov": "EDGAR:0000863064-26-000035"
+          },
+          "vale": {
+            "mt": 77.35,
+            "basis": "100% basis",
+            "prov": "EDGAR:0001292814-26-003838"
+          }
+        }
       },
       {
         "quarter": "2025 Q3",
         "vale_mt": 84.5,
-        "rio_tinto_mt": 87.2,
-        "bhp_mt": 74.0,
+        "rio_tinto_mt": 84.35,
+        "bhp_mt": 62.43,
         "fmg_mt": 49.8,
-        "total_mt": 295.5,
-        "provenance": "EDGAR:0001193125-25-241512"
+        "total_mt": 281.08,
+        "bhp_is_equity": true,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 62.43,
+            "basis": "Equity Share",
+            "prov": "EDGAR:0001193125-26-306705"
+          },
+          "fmg": {
+            "mt": 49.8,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 84.35,
+            "basis": "Pilbara 100%",
+            "prov": "EDGAR:0000863064-26-000035"
+          },
+          "vale": {
+            "mt": 84.5,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          }
+        }
       },
       {
         "quarter": "2025 Q4",
         "vale_mt": 89.9,
-        "rio_tinto_mt": 88.0,
-        "bhp_mt": 72.8,
-        "fmg_mt": 48.7,
-        "total_mt": 299.4,
-        "provenance": "EDGAR:0001193125-26-015822"
+        "rio_tinto_mt": 91.26,
+        "bhp_mt": 66.91,
+        "fmg_mt": 50.5,
+        "total_mt": 298.57,
+        "bhp_is_equity": true,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 66.91,
+            "basis": "Equity Share",
+            "prov": "EDGAR:0001193125-26-306705"
+          },
+          "fmg": {
+            "mt": 50.5,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 91.26,
+            "basis": "Pilbara 100%",
+            "prov": "EDGAR:0000863064-26-000035"
+          },
+          "vale": {
+            "mt": 89.9,
+            "basis": "100% basis",
+            "prov": "illustrative_prior_estimate"
+          }
+        }
       },
       {
         "quarter": "2026 Q1",
-        "vale_mt": 63.8,
-        "rio_tinto_mt": 78.0,
-        "bhp_mt": 70.3,
+        "vale_mt": 68.71,
+        "rio_tinto_mt": 72.39,
+        "bhp_mt": 58.61,
         "fmg_mt": 43.3,
-        "total_mt": 255.4,
-        "provenance": "EDGAR:0001193125-26-174828"
+        "total_mt": 243.01,
+        "bhp_is_equity": true,
+        "has_illustrative": true,
+        "details": {
+          "bhp": {
+            "mt": 58.61,
+            "basis": "Equity Share",
+            "prov": "EDGAR:0001193125-26-306705"
+          },
+          "fmg": {
+            "mt": 43.3,
+            "basis": "100% shipped",
+            "mined_mt": 0.0,
+            "prov": "illustrative_prior_estimate"
+          },
+          "rio": {
+            "mt": 72.39,
+            "basis": "Pilbara 100%",
+            "prov": "EDGAR:0000863064-26-000035"
+          },
+          "vale": {
+            "mt": 68.71,
+            "basis": "100% basis",
+            "prov": "EDGAR:0001292814-26-003838"
+          }
+        }
       },
       {
         "quarter": "2026 Q2",
-        "vale_mt": 79.7,
-        "rio_tinto_mt": 85.3,
-        "bhp_mt": 74.8,
+        "vale_mt": 79.75,
+        "rio_tinto_mt": 88.8,
+        "bhp_mt": 66.43,
         "fmg_mt": 52.7,
-        "total_mt": 292.5,
-        "provenance": "EDGAR:0001193125-26-306705"
+        "total_mt": 287.68,
+        "bhp_is_equity": true,
+        "has_illustrative": false,
+        "details": {
+          "bhp": {
+            "mt": 66.43,
+            "basis": "Equity Share",
+            "prov": "EDGAR:0001193125-26-306705"
+          },
+          "fmg": {
+            "mt": 52.7,
+            "basis": "100% shipped",
+            "mined_mt": 64.9,
+            "prov": "ASX:03116249"
+          },
+          "rio": {
+            "mt": 88.8,
+            "basis": "Total 100% (Pilbara+IOC)",
+            "prov": "EDGAR:0000863064-26-000035"
+          },
+          "vale": {
+            "mt": 79.75,
+            "basis": "100% basis",
+            "prov": "EDGAR:0001292814-26-003838"
+          }
+        }
       }
     ],
     "monthly_raw": {

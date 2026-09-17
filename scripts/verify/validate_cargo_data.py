@@ -239,23 +239,26 @@ def validate_major_miners():
         q = r["quarter"]
         prov = str(r.get("provenance", "")).strip()
 
-        # Shipments: must have at least one valid positive figure (100%, share, or shipments_mt)
+        # Shipments: must have at least one valid positive figure (100%, equity_share, pilbara, or shipments_mt)
         s100 = r.get("shipments_mt_100pct")
-        sshare = r.get("shipments_mt_bhp_share")
+        sshare = r.get("shipments_mt_equity_share")
+        spilb = r.get("pilbara_shipments_mt")
         ship = r.get("shipments_mt")
         has_ship = any(pd.notna(x) and str(x).strip() not in ("", "null", "nan", "None") and float(x) > 0 
-                       for x in [s100, sshare, ship])
+                       for x in [s100, sshare, spilb, ship])
         if not has_ship:
-            record_error(fname, "INVALID_SHIPMENTS", f"{m} {q} shipments missing or non-positive: ship={ship}, 100={s100}, share={sshare}")
+            record_error(fname, "INVALID_SHIPMENTS", f"{m} {q} shipments missing or non-positive: ship={ship}, 100={s100}, share={sshare}, pilb={spilb}")
 
-        # Production: must have at least one valid positive figure
+        # Production: must have at least one valid positive figure (100%, equity_share, pilbara, ore_mined, or production_mt)
         p100 = r.get("production_mt_100pct")
-        pshare = r.get("production_mt_bhp_share")
+        pshare = r.get("production_mt_equity_share")
+        ppilb = r.get("pilbara_production_mt")
+        pmined = r.get("ore_mined_mt")
         prod = r.get("production_mt")
         has_prod = any(pd.notna(x) and str(x).strip() not in ("", "null", "nan", "None") and float(x) > 0 
-                       for x in [p100, pshare, prod])
+                       for x in [p100, pshare, ppilb, pmined, prod])
         if not has_prod:
-            record_error(fname, "INVALID_PRODUCTION", f"{m} {q} production missing or non-positive: prod={prod}, 100={p100}, share={pshare}")
+            record_error(fname, "INVALID_PRODUCTION", f"{m} {q} production missing or non-positive: prod={prod}, 100={p100}, share={pshare}, pilb={ppilb}, mined={pmined}")
 
         # Provenance check
         if not (prov.startswith("EDGAR:") or prov.startswith("ASX:") or prov == "illustrative_prior_estimate"):

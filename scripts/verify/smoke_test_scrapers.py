@@ -96,7 +96,7 @@ def get_stored_period(csv_name: str, date_col: str = "date", filter_dict: dict =
         if filter_dict:
             for k, v in filter_dict.items():
                 if k in df.columns:
-                    df = df[df[k].astype(str) == str(v)]
+                    df = df[df[k].astype(str).str.contains(str(v), case=False, na=False)]
         if df.empty or date_col not in df.columns:
             return "empty"
         max_d = df[date_col].dropna().astype(str).str.strip().max()
@@ -233,7 +233,7 @@ def test_eia_crude_live():
 # =====================================================================
 def test_newcastle_coal_live():
     source = "Newcastle Coal (TfNSW CKAN)"
-    stored = get_stored_period("newcastle_coal_monthly.csv")
+    stored = get_stored_period("newcastle_coal_exports.csv")
     expected = get_expected_period(2)
     logger.info("[4. Newcastle Coal] Testing live CKAN XLSX & 12.63 Mt assertion...")
     api_url = "https://opendata.transport.nsw.gov.au/api/3/action/resource_show?id=3c5c9d89-ce54-4f72-9550-4077b7540612"
@@ -276,17 +276,36 @@ def test_bps_coal_live():
     stored = get_stored_period("indonesia_coal_exports_monthly.csv")
     expected = get_expected_period(2)  # BPS publishes with ~2 month lag (July in Sep)
     logger.info("[5. BPS Coal] Testing BPS API (fails loudly on error)...")
-    url = "https://webapi.bps.go.id/v1/api/dataexim/?sumber=1&periode=1&jenishs=2&tahun=2026"
+    
+    api_key = os.environ.get("BPS_API_KEY", "").strip()
+    if not api_key and sys.platform == "win32":
+        try:
+            import winreg
+            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as k:
+                api_key, _ = winreg.QueryValueEx(k, "BPS_API_KEY")
+                api_key = api_key.strip()
+        except Exception:
+            pass
+
+    hs_codes = "27011100;27011210;27011290;27011900;27012000;27021000;27022000"
+    url = f"https://webapi.bps.go.id/v1/api/dataexim/?sumber=1&periode=1&jenishs=2&tahun=2026&kodehs={hs_codes}"
+    if api_key:
+        url += f"&key={api_key}"
     
     try:
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=20) as resp:
             http_status = str(resp.status)
-            data = json.loads(resp.read().decode("utf-8"))
+            body_bytes = resp.read()
+            raw_text = body_bytes.decode("utf-8", errors="ignore")
+            data = json.loads(raw_text)
 
         status_txt = str(data.get("status", "ok")).lower()
         if status_txt in ("error", "fail", "gagal") or resp.status != 200:
-            raise RuntimeError(f"BPS API error status: '{status_txt}' (HTTP {resp.status}) — failing loudly")
+            redacted = raw_text
+            if api_key and api_key in redacted:
+                redacted = redacted.replace(api_key, "[REDACTED_KEY]")
+            raise RuntimeError(f"BPS API error status: '{status_txt}' (HTTP {resp.status}) — raw response: {redacted[:300]}")
 
         # Compare CSV row for 2026-07
         csv_path = COMMODITIES_DIR / "indonesia_coal_exports_monthly.csv"
@@ -405,9 +424,10 @@ def test_china_alumina_live():
         assert len(series) > 0, "Empty monthly series"
         latest = series[-1]
         m_str = latest.get("month", "")
-        qty = float(latest.get("qty", latest.get("metric_tonnes", 0)))
-        logger.info("  Latest Alumina month from live API: %s (qty: %.1f t)", m_str, qty)
-        record_result(source, True, http_status, stored, expected, f"Live month {m_str}: {qty:,.0f} t")
+        val_usd = float(latest.get("value_usd", latest.get("imports", 0)))
+        logger.info("  Latest Alumina month from live API: %s (value: $%.0f USD)", m_str, val_usd)
+        assert val_usd > 0, f"Expected positive value_usd, got {val_usd}"
+        record_result(source, True, http_status, stored, expected, f"Live month {m_str}: ${val_usd:,.0f} USD")
         return True
     except Exception as e:
         logger.error("  China Alumina live test failed: %s", e)
@@ -494,8 +514,16 @@ def test_comexstat_sugar_npk_live():
             data=json.dumps(sugar_payload).encode("utf-8"),
             headers={"Content-Type": "application/json", **HEADERS}
         )
-        with urllib.request.urlopen(req_sugar, timeout=30) as resp:
-            data_sugar = json.loads(resp.read().decode("utf-8"))
+        for attempt in range(3):
+            try:
+                with urllib.request.urlopen(req_sugar, timeout=30) as resp:
+                    data_sugar = json.loads(resp.read().decode("utf-8"))
+                break
+            except urllib.error.HTTPError as he:
+                if he.code == 429 and attempt < 2:
+                    time.sleep(3 * (attempt + 1))
+                    continue
+                raise
         assert len(data_sugar.get("data", {}).get("list", [])) > 0, "Sugar export list empty"
 
         sugar_kg = float(data_sugar["data"]["list"][0]["metricKG"])

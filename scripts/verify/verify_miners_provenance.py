@@ -98,23 +98,19 @@ def fetch_pdf_text(url: str, timeout: int = 30) -> str:
 # Field Verification Helper
 # ─────────────────────────────────────────────────────────────────────────────
 
-def verify_field_in_text(val_str: str, text: str, is_numeric: bool = True) -> tuple[bool, str]:
+def verify_field_in_text(val_str: str, text: str, field_name: str = "") -> tuple[bool, str]:
     """
     Search for val_str in text with exact word boundaries.
-    For numbers, also test formatted '000 t (e.g. 79.887 -> '79,887').
+    For numbers, test formatted '000 t (e.g. 79.887 -> '79,887') and exact decimals.
+    For C1 cash cost, match only against the exact printed value.
     """
     if not val_str or val_str.lower() in ("nan", "none", "null", ""):
         return True, ""
 
-    if is_numeric:
+    if field_name == "c1_cash_cost_usd_t":
         try:
             v = float(val_str)
-            candidates = [
-                f"{round(v * 1000):,}",      # "79,887"
-                str(round(v, 1)),             # "79.9"
-                str(round(v, 2)),             # "19.37"
-                str(v)                        # "79.887"
-            ]
+            candidates = [f"{v:.2f}", str(v), val_str]
             for c in candidates:
                 if re.search(r'(?<!\d)' + re.escape(c) + r'(?!\d)', text):
                     return True, c
@@ -122,13 +118,32 @@ def verify_field_in_text(val_str: str, text: str, is_numeric: bool = True) -> tu
         except ValueError:
             pass
 
-    # Text / guidance search: support ranges like "323-338" or "323 - 338"
-    m = re.search(r'(\d+)\s*[-–]\s*(\d+)', val_str)
-    if m:
-        low, high = m.group(1), m.group(2)
-        if re.search(rf'{low}\s*[-–]\s*{high}', text) or (low in text and high in text):
-            return True, f"{low}-{high}"
+    if field_name == "annual_guidance":
+        m = re.search(r'(\d+)\s*[-–]\s*(\d+)', val_str)
+        if m:
+            low, high = m.group(1), m.group(2)
+            if re.search(rf'{low}\s*[-–]\s*{high}', text) or (low in text and high in text):
+                return True, f"{low}-{high}"
+            return False, ""
+        if val_str in text:
+            return True, val_str
         return False, ""
+
+    try:
+        v = float(val_str)
+        candidates = [
+            f"{round(v * 1000):,}",      # "79,887"
+            str(v),                       # "74.8"
+            f"{v:.1f}",                   # "52.7"
+            str(round(v, 1)),             # "52.7"
+            str(round(v, 2))              # "52.80"
+        ]
+        for c in candidates:
+            if re.search(r'(?<!\d)' + re.escape(c) + r'(?!\d)', text):
+                return True, c
+        return False, ""
+    except ValueError:
+        pass
 
     if val_str in text:
         return True, val_str
@@ -198,24 +213,26 @@ def main() -> int:
             })
             continue
 
-        # ── Verify every non-null numeric field in the row ─────────────
         fields_to_check = [
-            ("shipments_mt_100pct", True),
-            ("shipments_mt_bhp_share", True),
-            ("production_mt_100pct", True),
-            ("production_mt_bhp_share", True),
-            ("c1_cash_cost_usd_t", True),
-            ("annual_guidance", False)
+            "shipments_mt_100pct",
+            "shipments_mt_equity_share",
+            "production_mt_100pct",
+            "production_mt_equity_share",
+            "pilbara_production_mt",
+            "pilbara_shipments_mt",
+            "ore_mined_mt",
+            "c1_cash_cost_usd_t",
+            "annual_guidance"
         ]
 
         verified_fields = []
         failed_fields = []
 
-        for field_name, is_num in fields_to_check:
+        for field_name in fields_to_check:
             val = str(row.get(field_name, "")).strip()
             if not val or val.lower() in ("nan", "none", "null", ""):
                 continue
-            ok, matched_token = verify_field_in_text(val, filing_text, is_numeric=is_num)
+            ok, matched_token = verify_field_in_text(val, filing_text, field_name=field_name)
             if ok:
                 verified_fields.append(f"{field_name}={val} ('{matched_token}')")
             else:

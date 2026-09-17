@@ -17966,10 +17966,19 @@ if (intelTabsContainer) {
               dateStr: d ? fmtDate(d) : (row.date || '').trim(),
               quarter: (row.quarter || '').trim(),
               miner: (row.miner || '').trim(),
+              productionMt100pct: parseFloat(row.production_mt_100pct || 0) || null,
+              productionMtEquityShare: parseFloat(row.production_mt_equity_share || 0) || null,
+              shipmentsMt100pct: parseFloat(row.shipments_mt_100pct || 0) || null,
+              shipmentsMtEquityShare: parseFloat(row.shipments_mt_equity_share || 0) || null,
+              pilbaraProductionMt: parseFloat(row.pilbara_production_mt || 0) || null,
+              pilbaraShipmentsMt: parseFloat(row.pilbara_shipments_mt || 0) || null,
+              oreMinedMt: parseFloat(row.ore_mined_mt || 0) || null,
               productionMt: parseFloat(row.production_mt || 0) || null,
               shipmentsMt: parseFloat(row.shipments_mt || 0) || null,
               c1CashCost: parseFloat(row.c1_cash_cost_usd_t || 0) || null,
-              annualGuidance: (row.annual_guidance || '').trim()
+              annualGuidance: (row.annual_guidance || '').trim(),
+              provenance: (row.provenance || '').trim(),
+              basis: (row.basis || '').trim()
             };
           }).filter(x => x.quarter || x.date);
         }),
@@ -29361,12 +29370,36 @@ function buildMaster() {
         if (!rows || !rows.length) return;
         const quarters = [...new Set(rows.map(r => r.quarter))].sort();
         const valeMap = {}, rioMap = {}, bhpMap = {}, fmgMap = {};
+        const metaMap = {};
         rows.forEach(r => {
-          if (r.miner === 'Vale') valeMap[r.quarter] = r.shipmentsMt;
-          if (r.miner === 'Rio Tinto') rioMap[r.quarter] = r.shipmentsMt;
-          if (r.miner === 'BHP') bhpMap[r.quarter] = r.shipmentsMt;
-          if (r.miner === 'Fortescue') fmgMap[r.quarter] = r.shipmentsMt;
+          const q = r.quarter;
+          if (!metaMap[q]) metaMap[q] = {};
+          if (r.miner === 'Vale') {
+            valeMap[q] = r.shipmentsMt100pct || r.productionMt100pct || r.shipmentsMt;
+            metaMap[q]['Vale'] = { basis: '100% basis', prov: r.provenance };
+          }
+          if (r.miner === 'Rio Tinto') {
+            rioMap[q] = r.shipmentsMt100pct || r.pilbaraShipmentsMt || r.shipmentsMt;
+            metaMap[q]['Rio Tinto'] = { basis: r.shipmentsMt100pct ? 'Total 100% (Pilbara+IOC)' : 'Pilbara 100%', prov: r.provenance };
+          }
+          if (r.miner === 'BHP') {
+            bhpMap[q] = r.shipmentsMt100pct || r.shipmentsMtEquityShare || r.productionMt100pct || r.shipmentsMt;
+            metaMap[q]['BHP'] = { basis: r.shipmentsMt100pct ? '100% basis' : (r.shipmentsMtEquityShare ? 'Equity Share' : 'WAIO 100% Prod'), prov: r.provenance };
+          }
+          if (r.miner === 'Fortescue') {
+            fmgMap[q] = r.shipmentsMt100pct || r.shipmentsMt;
+            metaMap[q]['Fortescue'] = { basis: '100% shipped' + (r.oreMinedMt ? ` (Mined: ${r.oreMinedMt} Mt)` : ''), prov: r.provenance };
+          }
         });
+
+        const hasIllustrative = rows.some(r => r.provenance && r.provenance.includes('illustrative'));
+        const badge = document.getElementById('ppaThroughputBadge');
+        if (badge) {
+          const lastQ = quarters[quarters.length - 1];
+          const totalQ = ((valeMap[lastQ] || 0) + (rioMap[lastQ] || 0) + (bhpMap[lastQ] || 0) + (fmgMap[lastQ] || 0)).toFixed(1);
+          badge.innerHTML = `Major Miners: <strong>${totalQ} Mt</strong> (${lastQ})` +
+            (hasIllustrative ? ' <span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:10px;font-weight:600;margin-left:6px;">14 Verified SEC/ASX / Illustrative Prior</span>' : '');
+        }
 
         destroyChart('ppaThroughputChart');
         updateOrCreateChart('ppaThroughputChart', canvas, {
@@ -29374,10 +29407,10 @@ function buildMaster() {
           data: {
             labels: quarters,
             datasets: [
-              { label: 'Rio Tinto (Pilbara WAIO Mt)', data: quarters.map(q => rioMap[q] || 0), backgroundColor: '#58a6ff' },
-              { label: 'Vale (Brazil Carajás/SE Mt)', data: quarters.map(q => valeMap[q] || 0), backgroundColor: '#3fb950' },
-              { label: 'BHP (Pilbara WAIO Mt)', data: quarters.map(q => bhpMap[q] || 0), backgroundColor: '#e3b341' },
-              { label: 'Fortescue (Port Hedland Mt)', data: quarters.map(q => fmgMap[q] || 0), backgroundColor: '#bc8cff' },
+              { label: 'Rio Tinto (Total 100% / Pilbara Mt)', data: quarters.map(q => rioMap[q] || 0), backgroundColor: '#58a6ff' },
+              { label: 'Vale (100% basis Mt)', data: quarters.map(q => valeMap[q] || 0), backgroundColor: '#3fb950' },
+              { label: 'BHP (Equity Share / WAIO Mt)', data: quarters.map(q => bhpMap[q] || 0), backgroundColor: '#e3b341' },
+              { label: 'Fortescue (100% basis Mt)', data: quarters.map(q => fmgMap[q] || 0), backgroundColor: '#bc8cff' },
             ]
           },
           options: {
@@ -29385,7 +29418,18 @@ function buildMaster() {
             maintainAspectRatio: false,
             plugins: {
               legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
-              tooltip: { callbacks: { label: c => ` ${c.dataset.label}: ${c.parsed.y} Mt` } }
+              tooltip: {
+                callbacks: {
+                  label: c => {
+                    const q = quarters[c.dataIndex];
+                    const minerName = c.dataset.label.split(' ')[0];
+                    const info = metaMap[q] && metaMap[q][minerName];
+                    const provTag = info && info.prov && info.prov.startsWith('EDGAR') ? ' [SEC 6-K]' : (info && info.prov && info.prov.startsWith('ASX') ? ' [ASX PDF]' : ' [Illustrative]');
+                    const basisTag = info ? ` (${info.basis})` : '';
+                    return ` ${minerName}: ${c.parsed.y} Mt${basisTag}${provTag}`;
+                  }
+                }
+              }
             },
             scales: {
               x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
@@ -31154,12 +31198,12 @@ function renderFearnleysSnpTable() {
         var miners = (DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore && DATA.cargoSummary.pilbara_iron_ore.miners_quarterly) || DATA.minerShipments || [];
         if (!miners || !miners.length) return;
         var quarters = miners.map(m => m.quarter);
-        var hasIllustrative = miners.some(m => m.provenance && m.provenance.indexOf('illustrative') >= 0);
+        var hasIllustrative = miners.some(m => m.has_illustrative || (m.provenance && m.provenance.indexOf('illustrative') >= 0));
         var badge = document.getElementById('ppaThroughputBadge');
         if (badge && miners.length) {
           var lastM = miners[miners.length - 1];
           badge.innerHTML = 'Major Miners: <strong>' + (lastM.total_mt || 0) + ' Mt</strong> (' + lastM.quarter + ')' +
-            (hasIllustrative ? ' <span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:10px;font-weight:600;margin-left:6px;">Official SEC/ASX (2024+) / Illustrative Prior Estimates</span>' : '');
+            (hasIllustrative ? ' <span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:10px;font-weight:600;margin-left:6px;">14 Verified SEC/ASX / Illustrative Prior</span>' : '');
         }
         destroyChart('ppaThroughputChart');
         updateOrCreateChart('ppaThroughputChart', canvas, {
@@ -31167,15 +31211,30 @@ function renderFearnleysSnpTable() {
           data: {
             labels: quarters,
             datasets: [
-              { label: 'Vale (Mt)', data: miners.map(m => m.vale_mt), backgroundColor: '#58a6ff' },
-              { label: 'Rio Tinto (Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: '#3fb950' },
-              { label: 'BHP (Mt)', data: miners.map(m => m.bhp_mt), backgroundColor: '#f59e0b' },
-              { label: 'Fortescue (Mt)', data: miners.map(m => m.fmg_mt), backgroundColor: '#a371f7' }
+              { label: 'Rio Tinto (Total 100% / Pilbara Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: '#58a6ff' },
+              { label: 'Vale (100% basis Mt)', data: miners.map(m => m.vale_mt), backgroundColor: '#3fb950' },
+              { label: 'BHP (Equity Share / WAIO Mt)', data: miners.map(m => m.bhp_mt), backgroundColor: '#e3b341' },
+              { label: 'Fortescue (100% basis Mt)', data: miners.map(m => m.fmg_mt), backgroundColor: '#bc8cff' }
             ]
           },
           options: {
             responsive: true,
             maintainAspectRatio: false,
+            plugins: {
+              legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+              tooltip: {
+                callbacks: {
+                  label: function(c) {
+                    var m = miners[c.dataIndex];
+                    var minerKey = c.datasetIndex === 0 ? 'rio' : (c.datasetIndex === 1 ? 'vale' : (c.datasetIndex === 2 ? 'bhp' : 'fmg'));
+                    var dt = m && m.details && m.details[minerKey];
+                    var basisStr = dt ? (' (' + dt.basis + ')') : '';
+                    var provTag = dt && dt.prov && dt.prov.indexOf('EDGAR') >= 0 ? ' [SEC 6-K]' : (dt && dt.prov && dt.prov.indexOf('ASX') >= 0 ? ' [ASX PDF]' : ' [Illustrative]');
+                    return ' ' + c.dataset.label.split(' ')[0] + ': ' + c.parsed.y + ' Mt' + basisStr + provTag;
+                  }
+                }
+              }
+            },
             scales: {
               x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
               y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: v => v + ' Mt' } }

@@ -288,18 +288,42 @@ def process_pilbara_iron_ore():
                             "bhp_mt": 0.0,
                             "fmg_mt": 0.0,
                             "total_mt": 0.0,
-                            "provenance": row.get("provenance", "illustrative_prior_estimate")
+                            "bhp_is_equity": False,
+                            "has_illustrative": False,
+                            "details": {}
                         }
                     miner = (row.get("miner") or "").strip().lower()
-                    ship = float(row.get("shipments_mt") or row.get("production_mt") or 0)
+                    prov = str(row.get("provenance") or "").strip()
+                    is_ill = "illustrative" in prov
+                    if is_ill:
+                        by_q[q]["has_illustrative"] = True
+
+                    s100 = float(row.get("shipments_mt_100pct") or 0)
+                    seq = float(row.get("shipments_mt_equity_share") or 0)
+                    spilb = float(row.get("pilbara_shipments_mt") or 0)
+                    p100 = float(row.get("production_mt_100pct") or 0)
+                    pmined = float(row.get("ore_mined_mt") or 0)
+
                     if "vale" in miner:
-                        by_q[q]["vale_mt"] = ship
+                        v = s100 or p100
+                        by_q[q]["vale_mt"] = round(v, 2)
+                        by_q[q]["details"]["vale"] = {"mt": round(v, 2), "basis": "100% basis", "prov": prov}
                     elif "rio" in miner:
-                        by_q[q]["rio_tinto_mt"] = ship
+                        v = s100 or spilb
+                        basis_str = "Total 100% (Pilbara+IOC)" if s100 else "Pilbara 100%"
+                        by_q[q]["rio_tinto_mt"] = round(v, 2)
+                        by_q[q]["details"]["rio"] = {"mt": round(v, 2), "basis": basis_str, "prov": prov}
                     elif "bhp" in miner:
-                        by_q[q]["bhp_mt"] = ship
+                        v = s100 or seq or p100
+                        basis_str = "100% basis" if s100 else ("Equity Share" if seq else "100% Prod")
+                        by_q[q]["bhp_mt"] = round(v, 2)
+                        by_q[q]["bhp_is_equity"] = bool(seq and not s100)
+                        by_q[q]["details"]["bhp"] = {"mt": round(v, 2), "basis": basis_str, "prov": prov}
                     elif "fortescue" in miner or "fmg" in miner:
-                        by_q[q]["fmg_mt"] = ship
+                        v = s100 or seq or p100 or pmined
+                        by_q[q]["fmg_mt"] = round(v, 2)
+                        by_q[q]["details"]["fmg"] = {"mt": round(v, 2), "basis": "100% shipped", "mined_mt": pmined, "prov": prov}
+
                 for q, d in sorted(by_q.items()):
                     d["total_mt"] = round(d["vale_mt"] + d["rio_tinto_mt"] + d["bhp_mt"] + d["fmg_mt"], 2)
                     miners_quarterly.append(d)
