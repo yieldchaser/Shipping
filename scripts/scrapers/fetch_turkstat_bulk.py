@@ -487,32 +487,17 @@ def run_pipeline():
             update_minor_bulks_turkstat(records)
         return
 
-    # 2. Check candidate scratch files — strictly only if they contain newer months!
-    candidates = [
-        SCRATCH_TUIK_DIR / "tuik_GENERAL_bd4b4757.csv",
-        SCRATCH_TUIK_DIR / "tuik_by_flow.csv",
-    ]
-    fresh_records = {}
-    for cand in candidates:
-        if cand.exists():
-            records = inspect_and_ingest_scratch_csv(cand, latest_stored)
-            if records:
-                fresh_records.update(records)
-                break
-
-    if fresh_records:
-        update_minor_bulks_turkstat(fresh_records)
-    else:
-        logger.info("[Cement Policy] TurkStat Qlik connection unavailable and no newer scratch files found.")
-        logger.info("[Cement Policy] Cement month intentionally left empty per zero-touch integrity policy.")
+    # 2. If live pull failed, never re-ingest old scratch files
+    logger.info("[TurkStat Policy] Live pull unavailable; old scratch files are never re-ingested.")
+    logger.info("[Cement Policy] TurkStat Qlik connection unavailable. Cement month intentionally left empty to alert.")
         
-        # 3. SteelOrbis Scrap Fallback
-        logger.info("[Scrap Fallback] Checking SteelOrbis Google News RSS fallback for scrap steel...")
-        so_records = fetch_steelorbis_scrap_fallback(latest_stored.get("Scrap Steel", "1900-01"))
-        if so_records:
-            update_minor_bulks_turkstat(so_records)
-        else:
-            logger.info("[Scrap Fallback] No newer published scrap reports found via SteelOrbis.")
+    # 3. SteelOrbis Scrap Fallback
+    logger.info("[Scrap Fallback] Checking SteelOrbis Google News RSS fallback for scrap steel...")
+    so_records = fetch_steelorbis_scrap_fallback(latest_stored.get("Scrap Steel", "1900-01"))
+    if so_records:
+        update_minor_bulks_turkstat(so_records)
+    else:
+        logger.info("[Scrap Fallback] No newer published scrap reports found via SteelOrbis.")
 
     logger.info("=== TurkStat pipeline complete ===")
 

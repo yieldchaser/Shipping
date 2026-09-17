@@ -109,7 +109,8 @@ def test_guinea_is_volume_only_and_traces_to_its_csv():
 
     gb = s["guinea_bauxite"]
     excluded = {e["year"] for e in gb["provenance"]["excluded_mirror_years"]}
-    assert "2017" in excluded
+    # 2017 was previously excluded when it was UN Comtrade undercount (4.8 Mt); now rebuilt from official GACC (27.6 Mt, 64% of national exports)
+    assert "2017" not in excluded
     mirror = {}
     for r in csv.DictReader((COMMODITIES / "guinea_bauxite_exports.csv").open(encoding="utf-8")):
         if r["granularity"] == "monthly_bilateral_mirror":

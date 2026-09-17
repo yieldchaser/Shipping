@@ -39,11 +39,30 @@ def get_prev_month(dt: date, n: int = 1) -> str:
 
 
 def get_latest_csv_date(csv_path: Path, date_col: str = "date") -> str:
-    """Return max date string in a CSV file."""
+    """Return max date string in a CSV file, evaluating ONLY validated rows."""
     if not csv_path.exists():
         return ""
     try:
-        df = pd.read_csv(csv_path, usecols=[date_col])
+        today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        df = pd.read_csv(csv_path)
+        if date_col not in df.columns:
+            return ""
+
+        # Filter out future dates
+        df = df[df[date_col].dropna().astype(str).str.strip() <= today_str]
+
+        fname = csv_path.name.lower()
+        if "steel" in fname and "world_total_mt" in df.columns:
+            df = df[df["world_total_mt"] >= 100.0]
+        elif "bauxite" in fname and "tonnes" in df.columns:
+            # Reject SMM parse bug (> 40 Mt) and ensure valid volume
+            df = df[df["tonnes"].astype(float) <= 40_000_000]
+        elif "minor_bulks" in fname and "metric_tonnes" in df.columns:
+            # Reject 0-value placeholder rows
+            df = df[(df["metric_tonnes"].astype(float) > 0) & (df["value_usd"].astype(float) > 0)]
+        elif "miners" in fname and "shipments_mt" in df.columns:
+            df = df[df["shipments_mt"].astype(float) > 0]
+
         valid_dates = df[date_col].dropna().astype(str).str.strip()
         if valid_dates.empty:
             return ""
@@ -176,8 +195,8 @@ def evaluate_freshness(today: date | None = None) -> list[dict]:
     if mb_csv.exists():
         df_mb = pd.read_csv(mb_csv)
         for cmd in df_mb["commodity"].unique():
-            sub = df_mb[df_mb["commodity"] == cmd]
-            mb_latest[cmd] = sub["date"].max()[:7]
+            sub = df_mb[(df_mb["commodity"] == cmd) & (df_mb["metric_tonnes"] > 0) & (df_mb["value_usd"] > 0) & (df_mb["date"] <= str(today))]
+            mb_latest[cmd] = sub["date"].max()[:7] if not sub.empty else ""
 
     # 7a. TurkStat Cement (published at end of M+1, so available in M+2)
     # E.g. July (M) is published at end of August (M+1); August is published at end of September.

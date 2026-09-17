@@ -153,8 +153,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/verify/check_data_freshness.py --create-issue
 
+      - name: Validate Commodity Data Quality & Provenance
+        run: python scripts/verify/validate_cargo_data.py
+
       - name: Commit and Push Updated Data
-        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

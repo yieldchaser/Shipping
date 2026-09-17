@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T09:53:03Z",
+    "generated_at": "2026-09-17T11:00:19Z",
     "as_of": "2026-09-17",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -154,7 +154,7 @@
         33.5,
         32.74,
         36.1,
-        41.38
+        41.48
       ],
       "provenance": {
         "volume_source": "MDIC ComexStat (Brazil Customs)",
@@ -310,7 +310,7 @@
         12.18,
         12.43,
         14.91,
-        17.48
+        17.38
       ],
       "provenance": {
         "volume_source": "Pilbara Ports Authority Official Cargo Statistics",
@@ -466,7 +466,7 @@
         19.48,
         19.39,
         19.98,
-        23.34
+        23.3
       ],
       "provenance": {
         "volume_source": "Transport for NSW (TfNSW) Open Data / Port of Newcastle Operations",
@@ -573,7 +573,7 @@
         4.93,
         5.59,
         4.7,
-        2.52
+        null
       ],
       "freight_label": "Supramax USG\u2013Japan Rate ($k/day)",
       "freight_unit": "$k/day",
@@ -709,12 +709,12 @@
         7.55,
         7.95,
         10.34,
-        12.66,
-        10.73,
-        13.0,
-        16.73,
+        12.59,
+        10.68,
+        13.01,
+        16.65,
         13.19,
-        13.32,
+        13.26,
         15.86,
         12.23,
         10.43,
@@ -723,9 +723,9 @@
         11.3,
         14.39,
         13.96,
-        18.12,
-        16.42,
-        423.0,
+        18.06,
+        16.37,
+        19.56,
         15.84,
         14.88,
         null,
@@ -2735,81 +2735,81 @@
         "quarter": "2024 Q1",
         "vale_mt": 63.8,
         "rio_tinto_mt": 78.0,
-        "bhp_mt": 69.8,
+        "bhp_mt": 68.1,
         "fmg_mt": 43.3,
-        "total_mt": 254.9,
+        "total_mt": 253.2,
         "provenance": "EDGAR:0001193125-24-099412"
       },
       {
         "quarter": "2024 Q2",
         "vale_mt": 79.8,
         "rio_tinto_mt": 80.3,
-        "bhp_mt": 75.9,
+        "bhp_mt": 76.5,
         "fmg_mt": 53.7,
-        "total_mt": 289.7,
-        "provenance": "EDGAR:0001193125-24-181504"
+        "total_mt": 290.3,
+        "provenance": "EDGAR:0001193125-24-188292"
       },
       {
         "quarter": "2024 Q3",
         "vale_mt": 81.8,
         "rio_tinto_mt": 84.5,
-        "bhp_mt": 71.4,
+        "bhp_mt": 71.6,
         "fmg_mt": 47.7,
-        "total_mt": 285.4,
+        "total_mt": 285.6,
         "provenance": "EDGAR:0001193125-24-239102"
       },
       {
         "quarter": "2024 Q4",
         "vale_mt": 87.2,
-        "rio_tinto_mt": 87.1,
-        "bhp_mt": 73.2,
+        "rio_tinto_mt": 85.7,
+        "bhp_mt": 72.4,
         "fmg_mt": 49.4,
-        "total_mt": 296.9,
+        "total_mt": 294.7,
         "provenance": "EDGAR:0001193125-25-008921"
       },
       {
         "quarter": "2025 Q1",
         "vale_mt": 65.2,
-        "rio_tinto_mt": 80.5,
-        "bhp_mt": 71.2,
+        "rio_tinto_mt": 70.7,
+        "bhp_mt": 68.1,
         "fmg_mt": 45.1,
-        "total_mt": 262.0,
+        "total_mt": 249.1,
         "provenance": "EDGAR:0001193125-25-084201"
       },
       {
         "quarter": "2025 Q2",
         "vale_mt": 82.0,
-        "rio_tinto_mt": 83.0,
-        "bhp_mt": 78.1,
+        "rio_tinto_mt": 79.9,
+        "bhp_mt": 76.5,
         "fmg_mt": 55.4,
-        "total_mt": 298.5,
-        "provenance": "EDGAR:0001193125-25-168231"
+        "total_mt": 293.8,
+        "provenance": "EDGAR:0001193125-25-160800"
       },
       {
         "quarter": "2025 Q3",
         "vale_mt": 84.5,
-        "rio_tinto_mt": 87.2,
-        "bhp_mt": 74.0,
+        "rio_tinto_mt": 84.3,
+        "bhp_mt": 71.6,
         "fmg_mt": 49.8,
-        "total_mt": 295.5,
+        "total_mt": 290.2,
         "provenance": "EDGAR:0001193125-25-241512"
       },
       {
         "quarter": "2025 Q4",
         "vale_mt": 89.9,
-        "rio_tinto_mt": 88.0,
+        "rio_tinto_mt": 91.3,
         "bhp_mt": 72.8,
         "fmg_mt": 48.7,
-        "total_mt": 299.4,
+        "total_mt": 302.7,
         "provenance": "EDGAR:0001193125-26-015822"
       },
       {
         "quarter": "2026 Q1",
         "vale_mt": 63.8,
-        "rio_tinto_mt": 78.0,
+        "rio_tinto_mt": 72.4,
         "bhp_mt": 70.3,
         "fmg_mt": 43.3,
-        "total_mt": 255.4,
+        "total_mt": 249.8,
         "provenance": "EDGAR:0001193125-26-174828"
       },
       {
@@ -14618,12 +14618,12 @@
       "2024-10": 7.55,
       "2024-11": 7.95,
       "2024-12": 10.34,
-      "2025-01": 12.66,
-      "2025-02": 10.73,
-      "2025-03": 13.0,
-      "2025-04": 16.73,
+      "2025-01": 12.59,
+      "2025-02": 10.68,
+      "2025-03": 13.01,
+      "2025-04": 16.65,
       "2025-05": 13.19,
-      "2025-06": 13.32,
+      "2025-06": 13.26,
       "2025-07": 15.86,
       "2025-08": 12.23,
       "2025-09": 10.43,
@@ -14632,9 +14632,9 @@
       "2025-12": 11.3,
       "2026-01": 14.39,
       "2026-02": 13.96,
-      "2026-03": 18.12,
-      "2026-04": 16.42,
-      "2026-05": 423.0,
+      "2026-03": 18.06,
+      "2026-04": 16.37,
+      "2026-05": 19.56,
       "2026-06": 15.84,
       "2026-07": 14.88
     },
@@ -14735,7 +14735,12 @@
       "2024-10": 70.61,
       "2024-11": 71.73,
       "2024-12": 73.4,
+      "2025-01": 81.55,
+      "2025-02": 90.13,
+      "2025-03": 95.67,
+      "2025-04": 93.77,
       "2025-05": 85.3,
+      "2025-06": 76.14,
       "2025-07": 74.2,
       "2025-08": 70.71,
       "2025-09": 71.61,
@@ -14744,6 +14749,9 @@
       "2025-12": 69.84,
       "2026-01": 68.7,
       "2026-02": 67.08,
+      "2026-03": 62.73,
+      "2026-04": 62.15,
+      "2026-05": 64.69,
       "2026-06": 66.21,
       "2026-07": 66.73
     },
@@ -14830,15 +14838,15 @@
       },
       {
         "date": "2025-12-31",
-        "label": "National Total (H2 2025)",
-        "tonnes_mt": 84.0,
-        "quote": "Exports slowed in the second half, but rose 16% to 84-million tons."
-      },
-      {
-        "date": "2025-12-31",
         "label": "National Total",
         "tonnes_mt": 183.0,
         "quote": "Guinea Bauxite Export Growth View data table Data table for Chart Year Export Rate 2015 18 2016 20.9 2017 43 2018 54.15 2019 64.45 2020 82.4 2021 85.66 2022 103 2023 127 2024 145 2025 183"
+      },
+      {
+        "date": "2025-12-31",
+        "label": "National Total (H2 2025)",
+        "tonnes_mt": 84.0,
+        "quote": "Exports slowed in the second half, but rose 16% to 84-million tons."
       },
       {
         "date": "2026-01-01",
@@ -28807,7 +28815,7 @@
       "source": "World Steel Association (worldsteel)",
       "method": "Official Monthly Production Releases (70 reporting nations, ~98% global output)",
       "span": "2024\u20132026",
-      "as_of": "2026-09",
+      "as_of": "2026-07",
       "status": "LIVE",
       "unit": "Million Tonnes (Mt/mo)"
     },
@@ -28842,9 +28850,7 @@
       "2026-04",
       "2026-05",
       "2026-06",
-      "2026-07",
-      "2026-08",
-      "2026-09"
+      "2026-07"
     ],
     "china_mt": [
       77.2,
@@ -28877,9 +28883,7 @@
       83.6,
       84.4,
       83.7,
-      76.9,
-      17.5,
-      17.5
+      76.9
     ],
     "row_mt": [
       70.9,
@@ -28912,9 +28916,7 @@
       69.8,
       73.5,
       72.0,
-      72.3,
-      15.5,
-      15.5
+      72.3
     ],
     "world_total_mt": [
       148.1,
@@ -28947,9 +28949,7 @@
       153.4,
       157.9,
       155.7,
-      149.2,
-      33.0,
-      33.0
+      149.2
     ],
     "yoy_change_pct": [
       -1.6,
@@ -28982,13 +28982,11 @@
       -1.9,
       -0.3,
       1.7,
-      -0.3,
-      -0.3,
       -0.3
     ],
-    "latest_world_mt": 33.0,
-    "latest_china_mt": 17.5,
-    "latest_row_mt": 15.5,
+    "latest_world_mt": 149.2,
+    "latest_china_mt": 76.9,
+    "latest_row_mt": 72.3,
     "latest_yoy": -0.3,
     "freight_note": "Per worldsteel raw materials fact sheet (https://worldsteel.org/steel-topics/raw-materials/): ~1.37 tonnes of iron ore and ~0.78 tonnes of metallurgical coal are required to produce 1 tonne of crude steel via the blast furnace-basic oxygen furnace (BF-BOF) route."
   },
@@ -29005,7 +29003,7 @@
       "Alumina": {
         "vessel_class": "Handymax / Supramax",
         "trade_flow": "China Imports",
-        "source": "China GACC via chinadata.live (HS 28182000)",
+        "source": "China GACC (HS 28182000, user export); value converted from CNY via FRED EXCHUS (6.7757)",
         "envelope": {
           "months": [
             "Jan",
@@ -29132,7 +29130,7 @@
               0.34,
               0.61,
               0.44,
-              0.67,
+              0.45,
               0.37,
               null,
               null,
@@ -29197,7 +29195,7 @@
           "2026-03": 0.33856279,
           "2026-04": 0.61110747,
           "2026-05": 0.43836036,
-          "2026-06": 0.668,
+          "2026-06": 0.44946368,
           "2026-07": 0.36657768
         },
         "latest_mt": 0.36657768
@@ -30609,7 +30607,7 @@
               0.51,
               1.82,
               1.82,
-              0.0,
+              null,
               null,
               null,
               null,
@@ -30673,10 +30671,9 @@
           "2026-04": 0.77554281,
           "2026-05": 0.50579628,
           "2026-06": 1.8193116,
-          "2026-07": 1.8216358400000001,
-          "2026-08": 0.0
+          "2026-07": 1.8216358400000001
         },
-        "latest_mt": 0.0
+        "latest_mt": 1.8216358400000001
       }
     }
   },

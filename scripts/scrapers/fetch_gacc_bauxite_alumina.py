@@ -302,7 +302,8 @@ def extract_period_from_smm(title: str, body: str, pub_date: str = "") -> str | 
 def parse_smm_bauxite_article(title: str, body: str, pub_date: str = "") -> dict | None:
     """
     Parse Guinea bauxite tonnes from an SMM article.
-    Strictly rejects cumulative / YTD sentences and extracts pure monthly volumes.
+    Strictly single-month gross imports only; rejects H1, quarterly, net imports, cumulative/YTD, first N months, forecast.
+    Clamps units to 3–40 Mt.
     """
     period_str = extract_period_from_smm(title, body, pub_date)
     if not period_str:
@@ -319,8 +320,8 @@ def parse_smm_bauxite_article(title: str, body: str, pub_date: str = "") -> dict
     ]
 
     for s in sentences:
-        # Strictly reject cumulative / YTD sentences
-        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months", s, re.IGNORECASE):
+        # Strictly reject cumulative, YTD, quarterly, H1, net imports, forecasts
+        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months|h1|h2|quarter|q[1-4]|net\s+imports|forecast|estimate|projected", s, re.IGNORECASE):
             continue
 
         for pat in patterns:
@@ -332,6 +333,11 @@ def parse_smm_bauxite_article(title: str, body: str, pub_date: str = "") -> dict
                     tonnes = val * 1e6
                 else:
                     tonnes = val
+
+                # Clamp units: Guinea bauxite must be strictly 3 Mt – 40 Mt
+                if tonnes < 3_000_000 or tonnes > 40_000_000:
+                    logger.warning(f"Rejecting SMM bauxite tonnes outside 3-40 Mt clamp: {tonnes:,.0f} t (quote: {m.group(0)})")
+                    continue
 
                 return {
                     "period": period_str,
@@ -346,7 +352,8 @@ def parse_smm_bauxite_article(title: str, body: str, pub_date: str = "") -> dict
 def parse_smm_alumina_article(title: str, body: str, pub_date: str = "") -> dict | None:
     """
     Parse Alumina import tonnes from an SMM article.
-    Strictly rejects cumulative / YTD sentences.
+    Strictly single-month gross imports only; rejects H1, quarterly, net imports, cumulative/YTD, first N months, forecast.
+    Clamps units to 10 kt – 3 Mt.
     """
     period_str = extract_period_from_smm(title, body, pub_date)
     if not period_str:
@@ -355,14 +362,15 @@ def parse_smm_alumina_article(title: str, body: str, pub_date: str = "") -> dict
     full_text = f"{title}\n{body}"
     sentences = [s.strip() for s in re.split(r"[.\n]+", full_text) if s.strip()]
 
+    # Gross imports only — reject net imports
     patterns = [
-        r"alumina\s+(?:net\s+)?imports\s+(?:reached|totaled|were)?\s*([\d,]+(?:\.\d+)?)\s*(?:mt|tonnes|t)",
+        r"alumina\s+imports\s+(?:reached|totaled|were)?\s*([\d,]+(?:\.\d+)?)\s*(?:mt|tonnes|t)",
         r"imported\s+([\d,]+(?:\.\d+)?)\s*(?:mt|tonnes|t)\s+(?:of\s+alumina)",
         r"([\d,]+(?:\.\d+)?)\s*(?:million|mil)\s*(?:mt|tonnes|t)\s+(?:of\s+alumina)",
     ]
 
     for s in sentences:
-        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months", s, re.IGNORECASE):
+        if re.search(r"january[-–\s]+[a-z]+|first\s+\d+\s+months|cumulative|ytd|in the first \w+ months|h1|h2|quarter|q[1-4]|net\s+imports|forecast|estimate|projected", s, re.IGNORECASE):
             continue
 
         for pat in patterns:
@@ -374,6 +382,12 @@ def parse_smm_alumina_article(title: str, body: str, pub_date: str = "") -> dict
                     tonnes = val * 1e6
                 else:
                     tonnes = val
+
+                # Clamp units: Alumina imports must be strictly 10 kt – 3 Mt (10,000 to 3,000,000 t)
+                if tonnes < 10_000 or tonnes > 3_000_000:
+                    logger.warning(f"Rejecting SMM alumina tonnes outside 10kt-3Mt clamp: {tonnes:,.0f} t (quote: {m.group(0)})")
+                    continue
+
                 return {
                     "period": period_str,
                     "date": f"{period_str}-01",
@@ -410,8 +424,18 @@ def update_guinea_bauxite_mirror(period: str, tonnes: float, method: str, publis
         ]
         for r in reader:
             if r.get("date") == date_str and r.get("granularity") == "monthly_bilateral_mirror":
-                curr_method = r.get("method", "")
-                curr_prio = priority.get("GACC" if "GACC query" in curr_method else ("SMM/GACC" if "SMM" in curr_method else "derived_value_share"), 1)
+                curr_method = str(r.get("method", ""))
+                curr_pub = str(r.get("publisher", ""))
+                is_curr_gacc = "gacc" in curr_method.lower() or "customs" in curr_method.lower() or "gacc" in curr_pub.lower()
+
+                # GACC export rows strictly outrank SMM and derived rows; NEVER overwrite GACC rows
+                if is_curr_gacc and method != "GACC":
+                    logger.info(f"Retaining official GACC row over candidate {method} for {period}")
+                    rows.append(r)
+                    updated = True
+                    continue
+
+                curr_prio = priority.get("GACC" if is_curr_gacc else ("SMM/GACC" if "SMM" in curr_method else "derived_value_share"), 1)
                 new_prio = priority.get(method, 1)
 
                 if new_prio >= curr_prio:
@@ -484,6 +508,12 @@ def update_minor_bulks_alumina(period: str, metric_tonnes: float | None, value_u
                 r.get("reporter_country") == "China" and
                 r.get("date") == date_str):
                 found = True
+                curr_src = str(r.get("source", "")).lower()
+                is_gacc_export = "user export" in curr_src or "gacc query" in curr_src
+                if is_gacc_export and "user export" not in source_str.lower():
+                    logger.info(f"Retaining official GACC Alumina row over candidate for {period}")
+                    rows.append(r)
+                    continue
                 if metric_tonnes is not None:
                     r["metric_tonnes"] = f"{metric_tonnes:.2f}"
                 if value_usd is not None:
@@ -594,11 +624,42 @@ def run_pipeline(target_period: str | None = None):
             derived_tonnes = china_tot_tonnes * (float(guinea_usd) / float(china_tot_usd)) * 0.982
             logger.info(f"[Channel D] Calibrated derived Guinea bauxite tonnes for {m_str}: {derived_tonnes:,.0f} t (factor 0.982)")
 
-        # 3. Sanity check SMM vs Channel D (if >10% diff, log and prefer derived)
-        if smm_bauxite and derived_tonnes:
-            diff_pct = abs(smm_bauxite["tonnes"] - derived_tonnes) / derived_tonnes
-            if diff_pct > 0.10:
+        # 3. Trailing 3m average from mirror series
+        trailing_3m = None
+        if GUINEA_CSV.exists():
+            try:
+                df_g = pd.read_csv(GUINEA_CSV)
+                m_sub = df_g[(df_g["granularity"] == "monthly_bilateral_mirror") & (df_g["date"] < f"{m_str}-01")]
+                if len(m_sub) >= 3:
+                    trailing_3m = m_sub.tail(3)["tonnes"].astype(float).mean()
+            except Exception:
+                pass
+
+        baseline = derived_tonnes or trailing_3m
+
+        # 4. Sanity check SMM vs Channel D / trailing 3m average (reject >25% deviation)
+        if smm_bauxite and baseline:
+            diff_pct = abs(smm_bauxite["tonnes"] - baseline) / baseline
+            if diff_pct > 0.25:
                 logger.warning(
+                    f"[Sanity Check] SMM tonnes ({smm_bauxite['tonnes']:,.0f}) diverges by {diff_pct:.1%} (>25%) "
+                    f"from baseline ({baseline:,.0f}). Rejecting SMM candidate."
+                )
+                smm_bauxite = None
+                if derived_tonnes:
+                    cif = float(guinea_usd) / derived_tonnes if guinea_usd else None
+                    update_guinea_bauxite_mirror(
+                        period=m_str,
+                        tonnes=derived_tonnes,
+                        method="derived_value_share",
+                        publisher="chinadata.live + GACC Table 14 (derived)",
+                        source_url="http://www.customs.gov.cn",
+                        quote=f"Derived after SMM divergence: {china_tot_tonnes:,.0f} total tonnes * ({guinea_usd}/{china_tot_usd}) * 0.982",
+                        avg_cif=cif
+                    )
+                    continue
+            elif diff_pct > 0.10 and derived_tonnes:
+                logger.info(
                     f"[Sanity Check] SMM tonnes ({smm_bauxite['tonnes']:,.0f}) diverges by {diff_pct:.1%} (>10%) "
                     f"from derived Channel D ({derived_tonnes:,.0f}). Preferring derived Channel D."
                 )
@@ -614,7 +675,7 @@ def run_pipeline(target_period: str | None = None):
                 )
                 continue
             else:
-                logger.info(f"[Sanity Check] SMM tonnes and Channel D agree within {diff_pct:.1%}.")
+                logger.info(f"[Sanity Check] SMM tonnes and baseline agree within {diff_pct:.1%}.")
 
         if smm_bauxite:
             logger.info(f"[Channel C] Found SMM Guinea bauxite tonnes for {m_str}: {smm_bauxite['tonnes']:,.0f} t")

@@ -62,6 +62,10 @@ def fetch_month_row(year, month, hs="3102"):
     try:
         kg = float(q[5].replace(",", ""))
         usd = float(v[4].replace(",", "")) * 1e6
+        # Zero means month is not yet published -> write nothing
+        if kg <= 0 or usd <= 0:
+            logging.info("TradeStat %04d-%02d returned zero (kg=%.1f, usd=%.1f) -> not yet published; writing nothing.", year, month, kg, usd)
+            return None
         return dict(date=f"{year}-{month:02d}-01",
                     period=f"{year}{month:02d}",
                     commodity="Urea / Fertiliser",

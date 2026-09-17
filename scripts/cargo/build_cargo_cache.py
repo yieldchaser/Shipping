@@ -1189,7 +1189,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
             except ValueError:
                 continue
             gulf_weeks[d[:7]].add(d)
-    gulf_grain_monthly = {m: round(t / 1e6, 2) for m, t in gulf_mt.items() if len(gulf_weeks[m]) >= 3 or m == recent_months[-1]}
+    gulf_grain_monthly = {m: round(t / 1e6, 2) for m, t in gulf_mt.items() if len(gulf_weeks[m]) >= 4}
 
     usg_rates = baltic_rates.get("supramax_usg_japan", {})
     usg_grain_pair = {

@@ -107,6 +107,10 @@ def fetch_release(date_str, year, m_code, url):
     if not m:
         return None
     world_total_mt = float(m.group(1))
+    # Enforce worldsteel total threshold > 100 Mt (global monthly total is ~140-175 Mt)
+    if world_total_mt < 100.0:
+        logging.warning("worldsteel total %.1f Mt < 100.0 Mt threshold for %s — rejecting candidate.", world_total_mt, date_str)
+        return None
 
     # 2. YoY change percentage
     yoy_pct = 0.0
