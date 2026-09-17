@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_at_utc": "2026-09-17T20:34:16.732364+00:00",
+  "updated_at_utc": "2026-09-17T21:58:06.460988+00:00",
   "quotes": {
     "BDRY": {
       "symbol": "BDRY",
@@ -10,7 +10,7 @@
       "change_percent": 3.2026,
       "regular_market_day_high": 15.92,
       "regular_market_day_low": 15.532,
-      "regular_market_volume": 96255,
+      "regular_market_volume": 96265,
       "market_time_utc": "2026-09-17T20:00:00+00:00",
       "currency": "USD",
       "exchange": "PCX",
@@ -27,7 +27,7 @@
       "change_percent": -0.0928,
       "regular_market_day_high": 795.413,
       "regular_market_day_low": 745.902,
-      "regular_market_volume": 144548,
+      "regular_market_volume": 144793,
       "market_time_utc": "2026-09-17T20:00:00+00:00",
       "currency": "USD",
       "exchange": "PCX",
