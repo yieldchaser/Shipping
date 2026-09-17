@@ -126,7 +126,7 @@
         "2002-07-01",
         "2026-08-01"
       ],
-      "last_fetched_utc": "2026-09-17T13:34:31.924841+00:00",
+      "last_fetched_utc": "2026-09-17T13:48:34.729041+00:00",
       "unit": "Throughput MT",
       "is_derived": false,
       "derivation": null,
@@ -2060,7 +2060,7 @@
         "2013-01-01",
         "2026-08-01"
       ],
-      "last_fetched_utc": "2026-09-17T11:28:44.159351+00:00",
+      "last_fetched_utc": "2026-09-17T14:05:54.108303+00:00",
       "unit": "Tonnes / USD FOB/CIF",
       "is_derived": false,
       "derivation": null
@@ -2079,7 +2079,7 @@
         "2024-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-17T11:28:55.160980+00:00",
+      "last_fetched_utc": "2026-09-17T14:06:12.179529+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
@@ -2099,7 +2099,7 @@
         "2023-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-17T11:29:23.336743+00:00",
+      "last_fetched_utc": "2026-09-17T14:06:46.105878+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
@@ -2108,7 +2108,7 @@
   ],
   "china_customs_monthly_imports": {
     "source": "General Administration of Customs (GACC) / chinadata.live",
-    "last_updated": "2026-09-17T11:29:16.023766+00:00",
+    "last_updated": "2026-09-17T14:06:38.648043+00:00",
     "latest_observation": "2026-07-01",
     "rows_count": 956,
     "status": "LIVE"
