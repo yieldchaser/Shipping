@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-09-17_2026_09_17_the_pressure_on_middle_eastern_energy_flows__root",
+  "doc_id": "breakwave_insights_insights_2026-09-17_2026_09_17_the_pressure_on_middle_eastern_energy_flows",
+  "parent_id": null,
+  "title": "The pressure on Middle Eastern energy flows",
+  "section_path": [
+    "The pressure on Middle Eastern energy flows"
+  ],
+  "section_path_text": "The pressure on Middle Eastern energy flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nThe pressure on Middle Eastern energy flows has intensified further, as disruption expands to infrastructure used to bypass Hormuz, following the temporary shutdown of Saudi Arabia's East- West pipeline after multiple drone strikes. Meanwhile, Houthi forces sought to consolidate their position around the Bab elMandeb Strait by seizing strategic locations and continuing strikes against targets in Saudi Arabia, enhancing their ability to control maritime traffic through the southern Red Sea and strengthening Iran's leverage. Saudi Arabia retaliated with airstrikes against Houthi-held areas while seeking military support from the United States and regional allies through the Mecca Agreement, aiming to frame the growing presence of Houthis around Bab el-Mandeb as a wider threat to Red Sea security, energy flows and Western interests.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "lng",
+    "brazil",
+    "crude_oil",
+    "gas",
+    "around",
+    "saudi",
+    "energy",
+    "further",
+    "pipeline",
+    "already"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 879,
+  "source_path": "reports/breakwave/2026/2026-09-17_the-pressure-on-middle-eastern-energy-flows.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/9/17/the-pressure-on-middle-eastern-energy-flows",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-09-17_2026_09_17_the_pressure_on_middle_eastern_energy_flows__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-09-17_2026_09_17_the_pressure_on_middle_eastern_energy_flows",
+      "parent_id": "breakwave_insights_insights_2026-09-17_2026_09_17_the_pressure_on_middle_eastern_energy_flows__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nThe pressure on Middle Eastern energy flows has intensified further, as disruption expands to infrastructure used to bypass Hormuz, following the temporary shutdown of Saudi Arabia's East- West pipeline after multiple drone strikes. Meanwhile, Houthi forces sought to consolidate their position around the Bab elMandeb Strait by seizing strategic locations and continuing strikes against targets in Saudi Arabia, enhancing their ability to control maritime traffic through the southern Red Sea and strengthening Iran's leverage.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "lng",
+        "brazil",
+        "crude_oil",
+        "gas",
+        "around",
+        "saudi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 877,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
