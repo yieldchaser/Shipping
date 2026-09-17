@@ -15729,7 +15729,11 @@ if (intelTabsContainer) {
 
       <!-- BIX BENCHMARK ARCHIVE (BunkerIndex BIX suites: latest strip + full history chart + movers) -->
       <div class="bix-strip-wrap">
-<span class="bix-arch-badge" id="bunkerBixArchBadge" data-tt-type="bix-archive-badge">Archive span: computing from bix history…</span>
+        <div class="bix-strip-head">
+          <span class="bnkr-tag">BIX</span>
+          <span id="bunkerBixHead">Regional Benchmarks · 5 Suites × VLSFO / IFO380 / MGO</span>
+          <span class="bix-arch-badge" id="bunkerBixArchBadge" data-tt-type="bix-archive-badge">Archive: computing…</span>
+        </div>
         <div class="bix-strip" id="bunkerBixStrip"><!-- Populated by renderBunkersBixStrip() --></div>
         <div class="bix-chart-controls">
           <div class="cp-btn-group" id="bixRegionBtns">
@@ -15747,7 +15751,7 @@ if (intelTabsContainer) {
           </div>
           <span class="bix-chart-meta" id="bunkerBixChartMeta" data-tt-type="bix-chart">World · VLSFO</span>
         </div>
-        <div class="bix-chart-box"><canvas id="bunkerBixChart" data-tt-type="bix-chart"></canvas></div>
+        <div class="bix-chart-box"><canvas id="bunkerBixChart"></canvas></div>
         <div class="bunkers-meta">Source: BunkerIndex BIX, 5 regions × 3 grades · changes vs prior observation · range chips = low-high across constituent ports · chart plots the full observation archive with region and grade selectors above.</div>
       </div>
 
@@ -49453,7 +49457,7 @@ function renderBunkersBixStrip() {
         });
       });
       var el = document.getElementById('bunkerBixArchBadge');
-      if (el && d0 && d1) el.textContent = 'Archive ' + d0 + ' to ' + d1 + ' · accumulates with each daily update';
+      if (el && d0 && d1) el.textContent = 'Archive: ' + d0 + ' → ' + d1 + ' · Daily Series';
     } catch (e) {}
   })();
 
@@ -49486,7 +49490,7 @@ function renderBunkersBixStrip() {
       var pct = (typeof r.change_pct === 'number' && isFinite(r.change_pct))
         ? (r.change_pct > 0 ? '+' : '') + r.change_pct.toFixed(2) + '%'
         : '\u2014';
-      html += '<div class="bix-chip" data-tt-type="bix-chip" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + r.price + '" data-tt-chg="' + r.change + '" data-tt-pct="' + (typeof r.change_pct === 'number' && isFinite(r.change_pct) ? r.change_pct : '') + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '" data-tt-date="' + r.date + '">' +
+      html += '<div class="bix-chip" onclick="setBixChartRegion(\'' + safeIx + '\'); setBixChartGrade(\'' + g + '\');" data-tt-type="bix-chip" data-tt-region="' + safeIx + '" data-tt-grade="' + g + '" data-tt-price="' + r.price + '" data-tt-chg="' + r.change + '" data-tt-pct="' + (typeof r.change_pct === 'number' && isFinite(r.change_pct) ? r.change_pct : '') + '" data-tt-low="' + r.low + '" data-tt-high="' + r.high + '" data-tt-date="' + r.date + '" style="cursor:pointer;" title="Click to view ' + safeIx + ' ' + g + ' chart">' +
         '<span class="bix-g">' + escapeHtml(g) + '</span>' +
         '<span class="bix-p">$' + r.price.toFixed(2) + '</span>' +
         '<span class="bix-d ' + cls + '">' + sgn + r.change.toFixed(2) + '</span>' +
@@ -49496,7 +49500,7 @@ function renderBunkersBixStrip() {
   });
   host.innerHTML = html;
   var head = document.getElementById('bunkerBixHead');
-  if (head && obsDate) head.textContent = 'BunkerIndex BIX benchmarks \u00b7 5 suites \u00d7 VLSFO / IFO380 / MGO \u00b7 obs ' + obsDate;
+  if (head && obsDate) head.textContent = 'Regional Benchmarks · 5 suites × VLSFO / IFO380 / MGO · obs ' + obsDate;
   var moversObs = document.getElementById('bunkerBixMoversObs');
   if (moversObs && obsDate) moversObs.textContent = 'obs ' + obsDate;
 
@@ -49563,16 +49567,25 @@ function renderBunkerBixChart() {
   var gradeData = bh && bh.series && bh.series[suiteKey] ? bh.series[suiteKey][bixChartGrade] : null;
 
   var metaEl = document.getElementById('bunkerBixChartMeta');
-  if (metaEl) {
+  var regLabel = BIX_REGION_LABELS[bixChartRegion] || bixChartRegion;
+
+  function updateSummaryMeta() {
+    if (!metaEl) return;
     if (gradeData && gradeData.dates && gradeData.dates.length) {
       var nObs = gradeData.dates.length;
       var dStart = gradeData.dates[0];
       var dEnd = gradeData.dates[nObs - 1];
-      metaEl.textContent = (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' · ' + bixChartGrade + ' · ' + nObs + ' obs (' + dStart + ' → ' + dEnd + ')';
+      var lastP = gradeData.prices[nObs - 1];
+      var lastChg = (gradeData.change_usd && isFinite(gradeData.change_usd[nObs - 1])) ? gradeData.change_usd[nObs - 1] : null;
+      var sgn = lastChg > 0 ? '+' : '';
+      var cls = lastChg > 0 ? 'up' : (lastChg < 0 ? 'dn' : '');
+      var chgSpan = lastChg != null ? (' <span class="bix-d ' + cls + '" style="font-weight:600;">(' + sgn + lastChg.toFixed(2) + ')</span>') : '';
+      metaEl.innerHTML = '<span style="color:#fff; font-weight:600;">' + regLabel + ' · ' + bixChartGrade + '</span> · ' + nObs + ' obs (' + dStart + ' → ' + dEnd + ') · Latest: <strong style="color:#fff;">$' + lastP.toFixed(2) + '/MT</strong>' + chgSpan;
     } else {
-      metaEl.textContent = (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' · ' + bixChartGrade + ' · no observations in the archive yet';
+      metaEl.textContent = regLabel + ' · ' + bixChartGrade + ' · no observations in the archive yet';
     }
   }
+  updateSummaryMeta();
 
   if (bunkerBixChartInstance) {
     bunkerBixChartInstance.destroy();
@@ -49593,7 +49606,7 @@ function renderBunkerBixChart() {
     data: {
       labels: gradeData.dates,
       datasets: [{
-        label: (BIX_REGION_LABELS[bixChartRegion] || bixChartRegion) + ' ' + bixChartGrade + ' ($/MT)',
+        label: regLabel + ' ' + bixChartGrade + ' ($/MT)',
         data: gradeData.prices,
         borderColor: color,
         backgroundColor: fill,
@@ -49601,32 +49614,64 @@ function renderBunkerBixChart() {
         tension: 0.15,
         borderWidth: 2,
         pointRadius: gradeData.dates.length > 40 ? 1 : 2.5,
-        pointHoverRadius: 4
+        pointHoverRadius: 5
       }]
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
       interaction: { mode: 'index', intersect: false },
+      onHover: function(evt, elements) {
+        if (!metaEl || !gradeData || !gradeData.dates) return;
+        if (elements && elements.length) {
+          var idx = elements[0].index;
+          var d = gradeData.dates[idx];
+          var p = gradeData.prices[idx];
+          var chg = (gradeData.change_usd && isFinite(gradeData.change_usd[idx])) ? gradeData.change_usd[idx] : null;
+          var low = (gradeData.lows && isFinite(gradeData.lows[idx])) ? gradeData.lows[idx] : null;
+          var high = (gradeData.highs && isFinite(gradeData.highs[idx])) ? gradeData.highs[idx] : null;
+          var sgn = chg > 0 ? '+' : '';
+          var cls = chg > 0 ? 'up' : (chg < 0 ? 'dn' : '');
+          var chgSpan = chg != null ? (' <span class="bix-d ' + cls + '" style="font-weight:700;">' + sgn + chg.toFixed(2) + '</span>') : '';
+          var rngSpan = (low != null && high != null) ? (' · Port Range: <span style="color:#fff;font-weight:600;">$' + low.toFixed(0) + '–$' + high.toFixed(0) + '</span>') : '';
+          metaEl.innerHTML = '<span style="color:#fff; font-weight:700;">' + regLabel + ' ' + bixChartGrade + '</span> · <span style="color:var(--accent); font-weight:700;">' + d + '</span> · <span style="color:#fff; font-weight:700;">$' + p.toFixed(2) + '/MT</span>' + chgSpan + rngSpan + ' · <span style="color:var(--text-muted); font-size:10px;">Obs #' + (idx + 1) + '/' + gradeData.dates.length + '</span>';
+        }
+      },
       plugins: {
         legend: { display: false },
         tooltip: {
-          backgroundColor: '#111820',
-          borderColor: '#1c2333',
+          backgroundColor: 'rgba(17, 24, 32, 0.95)',
+          borderColor: '#2b3648',
           borderWidth: 1,
+          padding: 10,
+          cornerRadius: 4,
           titleColor: '#fff',
+          titleFont: { family: 'IBM Plex Mono', size: 12, weight: '700' },
           bodyColor: '#d4dce8',
+          bodyFont: { family: 'IBM Plex Mono', size: 11 },
+          displayColors: false,
           callbacks: {
-            title: function(items) { return items && items.length ? ('Obs Date: ' + items[0].label) : ''; },
+            title: function(items) { return items && items.length ? ('📅 Observation: ' + items[0].label) : ''; },
             label: function(item) {
               var idx = item.dataIndex;
               var p = item.parsed.y;
-              var chg = gradeData.change_usd[idx];
-              var low = gradeData.lows[idx];
-              var high = gradeData.highs[idx];
-              var chgTxt = isFinite(chg) ? (' (' + (chg > 0 ? '+' : '') + chg.toFixed(2) + ')') : '';
-              var rngTxt = (isFinite(low) && isFinite(high)) ? (' · Range: $' + low.toFixed(0) + '–$' + high.toFixed(0)) : '';
-              return ' Index: $' + p.toFixed(2) + '/MT' + chgTxt + rngTxt;
+              var chg = (gradeData.change_usd && isFinite(gradeData.change_usd[idx])) ? gradeData.change_usd[idx] : null;
+              var low = (gradeData.lows && isFinite(gradeData.lows[idx])) ? gradeData.lows[idx] : null;
+              var high = (gradeData.highs && isFinite(gradeData.highs[idx])) ? gradeData.highs[idx] : null;
+              var lines = [];
+              lines.push('  Index Price: $' + p.toFixed(2) + ' / MT');
+              if (chg != null) {
+                var sgn = chg > 0 ? '+' : '';
+                var prevP = p - chg;
+                var pct = prevP > 0 ? ((chg / prevP) * 100) : null;
+                var pctStr = (pct != null && isFinite(pct)) ? (' (' + (pct > 0 ? '+' : '') + pct.toFixed(2) + '%)') : '';
+                lines.push('  Change vs Prior: ' + sgn + chg.toFixed(2) + pctStr);
+              }
+              if (low != null && high != null) {
+                lines.push('  Constituent Range: $' + low.toFixed(0) + ' – $' + high.toFixed(0) + ' (Spread: $' + (high - low).toFixed(0) + ')');
+              }
+              lines.push('  Archive: Obs #' + (idx + 1) + ' of ' + gradeData.dates.length);
+              return lines;
             }
           }
         }
@@ -49635,8 +49680,44 @@ function renderBunkerBixChart() {
         x: { grid: { color: 'rgba(28, 35, 51, 0.4)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 8 } },
         y: { grid: { color: 'rgba(28, 35, 51, 0.5)' }, ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, callback: function(v) { return '$' + v; } } }
       }
-    }
+    },
+    plugins: [{
+      id: 'bixCrosshairPlugin',
+      afterDraw: function(chart) {
+        if (chart.tooltip && chart.tooltip.getActiveElements && chart.tooltip.getActiveElements().length) {
+          var activePoint = chart.tooltip.getActiveElements()[0];
+          var ctx2 = chart.ctx;
+          var x = activePoint.element.x;
+          var y = activePoint.element.y;
+          var topY = chart.chartArea.top;
+          var bottomY = chart.chartArea.bottom;
+          ctx2.save();
+          ctx2.beginPath();
+          ctx2.setLineDash([4, 4]);
+          ctx2.moveTo(x, topY);
+          ctx2.lineTo(x, bottomY);
+          ctx2.lineWidth = 1;
+          ctx2.strokeStyle = 'rgba(163, 113, 247, 0.5)';
+          ctx2.stroke();
+
+          // Point highlight ring
+          ctx2.beginPath();
+          ctx2.setLineDash([]);
+          ctx2.arc(x, y, 5, 0, Math.PI * 2);
+          ctx2.fillStyle = color;
+          ctx2.strokeStyle = '#fff';
+          ctx2.lineWidth = 2;
+          ctx2.fill();
+          ctx2.stroke();
+          ctx2.restore();
+        }
+      }
+    }]
   });
+
+  canvas.onmouseleave = function() {
+    updateSummaryMeta();
+  };
 }
 
 function renderBunkersAltFuels() {
