@@ -15732,7 +15732,7 @@ if (intelTabsContainer) {
         <div class="bix-strip-head">
           <span class="bnkr-tag">BIX</span>
           <span id="bunkerBixHead">Regional Benchmarks · 5 Suites × VLSFO / IFO380 / MGO</span>
-          <span class="bix-arch-badge" id="bunkerBixArchBadge" data-tt-type="bix-archive-badge">Archive: computing…</span>
+          <span class="bix-arch-badge" id="bunkerBixArchBadge" data-tt-type="bix-archive-badge"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px; margin-right:4px; opacity:0.85;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>Archive: computing…</span>
         </div>
         <div class="bix-strip" id="bunkerBixStrip"><!-- Populated by renderBunkersBixStrip() --></div>
         <div class="bix-chart-controls">
@@ -15757,7 +15757,7 @@ if (intelTabsContainer) {
 
       <!-- BIX REGIONAL MOVERS (every published suite × 3 grades, latest observation) -->
       <div class="bix-movers-wrap">
-        <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixMoversHead">Regional movers · latest price and change vs prior observation</span><span class="bix-arch-badge" id="bunkerBixMoversObs" data-tt-type="bix-archive-badge">obs —</span></div>
+        <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixMoversHead">Regional movers · latest price and change vs prior observation</span><span class="bix-arch-badge" id="bunkerBixMoversObs" data-tt-type="bix-archive-badge"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px; margin-right:4px; opacity:0.85;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>obs —</span></div>
         <table class="bix-movers-table" data-tt-type="bix-movers">
           <thead><tr><th>Region</th><th>VLSFO</th><th>IFO380</th><th>MGO</th></tr></thead>
           <tbody id="bunkerBixMoversBody"><!-- Populated by renderBunkersBixMovers() --></tbody>
@@ -49457,7 +49457,8 @@ function renderBunkersBixStrip() {
         });
       });
       var el = document.getElementById('bunkerBixArchBadge');
-      if (el && d0 && d1) el.textContent = 'Archive: ' + d0 + ' → ' + d1 + ' · Daily Series';
+      var calSvg = '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px; margin-right:4px; opacity:0.85;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>';
+      if (el && d0 && d1) el.innerHTML = calSvg + 'Archive: ' + d0 + ' → ' + d1 + ' · Daily Series';
     } catch (e) {}
   })();
 
@@ -49502,7 +49503,10 @@ function renderBunkersBixStrip() {
   var head = document.getElementById('bunkerBixHead');
   if (head && obsDate) head.textContent = 'Regional Benchmarks · 5 suites × VLSFO / IFO380 / MGO · obs ' + obsDate;
   var moversObs = document.getElementById('bunkerBixMoversObs');
-  if (moversObs && obsDate) moversObs.textContent = 'obs ' + obsDate;
+  if (moversObs && obsDate) {
+    var calSvg = '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px; margin-right:4px; opacity:0.85;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>';
+    moversObs.innerHTML = calSvg + 'obs ' + obsDate;
+  }
 
   idleYield(function () {
     renderBunkersBixMovers();
@@ -49591,6 +49595,9 @@ function renderBunkerBixChart() {
   }
   updateSummaryMeta();
 
+  var ttEl = document.getElementById('bunkerBixHtmlTooltip');
+  if (ttEl) ttEl.style.opacity = '0';
+
   if (bunkerBixChartInstance) {
     bunkerBixChartInstance.destroy();
   }
@@ -49644,42 +49651,81 @@ function renderBunkerBixChart() {
       plugins: {
         legend: { display: false },
         tooltip: {
-          backgroundColor: '#0d1117',
-          borderColor: '#30363d',
-          borderWidth: 1,
-          padding: 8,
-          cornerRadius: 4,
-          titleColor: '#8b949e',
-          titleFont: { family: 'IBM Plex Mono, monospace', size: 11, weight: '500' },
-          bodyColor: '#e6edf3',
-          bodyFont: { family: 'IBM Plex Mono, monospace', size: 12, weight: '600' },
-          displayColors: false,
-          callbacks: {
-            title: function(items) {
-              return (items && items.length) ? items[0].label : '';
-            },
-            label: function(item) {
-              var idx = item.dataIndex;
-              var p = item.parsed.y;
-              var chg = (gradeData.change_usd && isFinite(gradeData.change_usd[idx])) ? gradeData.change_usd[idx] : null;
-              var prevP = (chg != null && p) ? (p - chg) : null;
-              var pct = (chg != null && prevP > 0) ? ((chg / prevP) * 100) : null;
-              var low = (gradeData.lows && isFinite(gradeData.lows[idx])) ? gradeData.lows[idx] : null;
-              var high = (gradeData.highs && isFinite(gradeData.highs[idx])) ? gradeData.highs[idx] : null;
+          enabled: false,
+          external: function(context) {
+            var tooltipModel = context.tooltip;
+            var box = canvas.parentElement;
+            if (!box) return;
 
-              var lines = [];
-              var chgStr = '';
-              if (chg != null && chg !== 0) {
-                var sgn = chg > 0 ? '+' : '';
-                var pctStr = (pct != null && isFinite(pct)) ? (' (' + sgn + pct.toFixed(2) + '%)') : '';
-                chgStr = '  ' + sgn + chg.toFixed(2) + pctStr;
-              }
-              lines.push(regLabel + ' ' + bixChartGrade + ': $' + p.toFixed(2) + '/MT' + chgStr);
-              if (low != null && high != null && high > low) {
-                lines.push('Range: $' + low.toFixed(0) + ' – $' + high.toFixed(0));
-              }
-              return lines;
+            var tt = document.getElementById('bunkerBixHtmlTooltip');
+            if (!tt) {
+              tt = document.createElement('div');
+              tt.id = 'bunkerBixHtmlTooltip';
+              tt.style.position = 'absolute';
+              tt.style.pointerEvents = 'none';
+              tt.style.zIndex = '50';
+              tt.style.background = '#0d1117';
+              tt.style.border = '1px solid #30363d';
+              tt.style.borderRadius = '4px';
+              tt.style.padding = '7px 11px';
+              tt.style.boxShadow = '0 6px 18px rgba(0,0,0,0.6)';
+              tt.style.transition = 'opacity 0.08s ease';
+              tt.style.fontFamily = "'IBM Plex Mono', monospace";
+              tt.style.color = '#e6edf3';
+              tt.style.whiteSpace = 'nowrap';
+              box.appendChild(tt);
             }
+
+            if (tooltipModel.opacity === 0 || !tooltipModel.dataPoints || !tooltipModel.dataPoints.length) {
+              tt.style.opacity = '0';
+              return;
+            }
+
+            var dp = tooltipModel.dataPoints[0];
+            var idx = dp.dataIndex;
+            var d = gradeData.dates[idx];
+            var p = dp.parsed.y;
+            var chg = (gradeData.change_usd && isFinite(gradeData.change_usd[idx])) ? gradeData.change_usd[idx] : null;
+            var prevP = (chg != null && p) ? (p - chg) : null;
+            var pct = (chg != null && prevP > 0) ? ((chg / prevP) * 100) : null;
+            var low = (gradeData.lows && isFinite(gradeData.lows[idx])) ? gradeData.lows[idx] : null;
+            var high = (gradeData.highs && isFinite(gradeData.highs[idx])) ? gradeData.highs[idx] : null;
+
+            var chgHtml = '';
+            if (chg != null && chg !== 0) {
+              var sgn = chg > 0 ? '+' : '';
+              var col = chg > 0 ? '#3fb950' : '#f85149';
+              var pctStr = (pct != null && isFinite(pct)) ? (' (' + sgn + pct.toFixed(2) + '%)') : '';
+              chgHtml = ' <span style="color:' + col + '; font-weight:700; margin-left:6px;">' + sgn + chg.toFixed(2) + pctStr + '</span>';
+            }
+
+            var rngHtml = '';
+            if (low != null && high != null && high > low) {
+              rngHtml = '<div style="color:#8b949e; font-size:10.5px; margin-top:3px;">Range: $' + low.toFixed(0) + ' \u2013 $' + high.toFixed(0) + '</div>';
+            }
+
+            var calSvg = '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px; margin-right:5px; opacity:0.8;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>';
+
+            tt.innerHTML = '<div style="color:#8b949e; font-size:10.5px; margin-bottom:3px; display:flex; align-items:center;">' + calSvg + '<span>' + d + '</span></div>' +
+              '<div style="font-size:12px; font-weight:700; color:#fff;">' + regLabel + ' ' + bixChartGrade + ': $' + p.toFixed(2) + '/MT' + chgHtml + '</div>' +
+              rngHtml;
+
+            var caretX = tooltipModel.caretX;
+            var caretY = tooltipModel.caretY;
+            var boxW = box.clientWidth || 300;
+            var boxH = box.clientHeight || 150;
+
+            if (caretX > boxW - 220) {
+              tt.style.transform = 'translate(-100%, -50%)';
+              tt.style.left = (caretX - 12) + 'px';
+            } else {
+              tt.style.transform = 'translate(0, -50%)';
+              tt.style.left = (caretX + 12) + 'px';
+            }
+
+            var topY = Math.min(Math.max(caretY, 26), boxH - 26);
+            tt.style.top = topY + 'px';
+            tt.style.opacity = '1';
           }
         }
       },
@@ -49691,10 +49737,15 @@ function renderBunkerBixChart() {
     plugins: [{
       id: 'bixCrosshairPlugin',
       afterDraw: function(chart) {
-        if (chart.tooltip && chart.tooltip.getActiveElements && chart.tooltip.getActiveElements().length) {
-          var activePoint = chart.tooltip.getActiveElements()[0];
+        var activeElements = chart.getActiveElements ? chart.getActiveElements() : [];
+        if (!activeElements.length && chart.tooltip && chart.tooltip.getActiveElements) {
+          activeElements = chart.tooltip.getActiveElements();
+        }
+        if (activeElements && activeElements.length) {
+          var activePoint = activeElements[0];
           var ctx2 = chart.ctx;
           var x = activePoint.element.x;
+          var y = activePoint.element.y;
           var topY = chart.chartArea.top;
           var bottomY = chart.chartArea.bottom;
           ctx2.save();
@@ -49705,6 +49756,15 @@ function renderBunkerBixChart() {
           ctx2.lineWidth = 1;
           ctx2.strokeStyle = 'rgba(110, 118, 129, 0.4)';
           ctx2.stroke();
+
+          ctx2.beginPath();
+          ctx2.setLineDash([]);
+          ctx2.arc(x, y, 4, 0, Math.PI * 2);
+          ctx2.fillStyle = color;
+          ctx2.strokeStyle = '#fff';
+          ctx2.lineWidth = 1.5;
+          ctx2.fill();
+          ctx2.stroke();
           ctx2.restore();
         }
       }
@@ -49713,6 +49773,15 @@ function renderBunkerBixChart() {
 
   canvas.onmouseleave = function() {
     updateSummaryMeta();
+    var tt = document.getElementById('bunkerBixHtmlTooltip');
+    if (tt) tt.style.opacity = '0';
+    if (bunkerBixChartInstance) {
+      if (bunkerBixChartInstance.setActiveElements) bunkerBixChartInstance.setActiveElements([]);
+      if (bunkerBixChartInstance.tooltip && bunkerBixChartInstance.tooltip.setActiveElements) {
+        bunkerBixChartInstance.tooltip.setActiveElements([], { x: 0, y: 0 });
+      }
+      bunkerBixChartInstance.render();
+    }
   };
 }
 
