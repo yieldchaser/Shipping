@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T11:37:37Z",
+    "generated_at": "2026-09-17T14:13:27Z",
     "as_of": "2026-09-17",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -2738,7 +2738,7 @@
         "bhp_mt": 69.8,
         "fmg_mt": 43.3,
         "total_mt": 254.9,
-        "provenance": "EDGAR:0001193125-24-099412"
+        "provenance": "illustrative_prior_estimate"
       },
       {
         "quarter": "2024 Q2",
@@ -2747,7 +2747,7 @@
         "bhp_mt": 75.9,
         "fmg_mt": 53.7,
         "total_mt": 289.7,
-        "provenance": "EDGAR:0001193125-24-181504"
+        "provenance": "illustrative_prior_estimate"
       },
       {
         "quarter": "2024 Q3",
@@ -2756,7 +2756,7 @@
         "bhp_mt": 71.4,
         "fmg_mt": 47.7,
         "total_mt": 285.4,
-        "provenance": "EDGAR:0001193125-24-239102"
+        "provenance": "illustrative_prior_estimate"
       },
       {
         "quarter": "2024 Q4",
@@ -2765,7 +2765,7 @@
         "bhp_mt": 73.2,
         "fmg_mt": 49.4,
         "total_mt": 296.9,
-        "provenance": "EDGAR:0001193125-25-008921"
+        "provenance": "illustrative_prior_estimate"
       },
       {
         "quarter": "2025 Q1",
@@ -2774,51 +2774,51 @@
         "bhp_mt": 71.2,
         "fmg_mt": 45.1,
         "total_mt": 262.0,
-        "provenance": "EDGAR:0001193125-25-084201"
+        "provenance": "illustrative_prior_estimate"
       },
       {
         "quarter": "2025 Q2",
-        "vale_mt": 82.0,
-        "rio_tinto_mt": 83.0,
-        "bhp_mt": 78.1,
+        "vale_mt": 77.346,
+        "rio_tinto_mt": 79.887,
+        "bhp_mt": 0.0,
         "fmg_mt": 55.4,
-        "total_mt": 298.5,
-        "provenance": "EDGAR:0001193125-25-168231"
+        "total_mt": 212.63,
+        "provenance": "EDGAR:0001193125-26-306705"
       },
       {
         "quarter": "2025 Q3",
         "vale_mt": 84.5,
-        "rio_tinto_mt": 87.2,
-        "bhp_mt": 74.0,
+        "rio_tinto_mt": 84.346,
+        "bhp_mt": 0.0,
         "fmg_mt": 49.8,
-        "total_mt": 295.5,
-        "provenance": "EDGAR:0001193125-25-241512"
+        "total_mt": 218.65,
+        "provenance": "EDGAR:0001193125-26-306705"
       },
       {
         "quarter": "2025 Q4",
         "vale_mt": 89.9,
-        "rio_tinto_mt": 88.0,
-        "bhp_mt": 72.8,
-        "fmg_mt": 48.7,
-        "total_mt": 299.4,
-        "provenance": "EDGAR:0001193125-26-015822"
+        "rio_tinto_mt": 91.259,
+        "bhp_mt": 0.0,
+        "fmg_mt": 50.5,
+        "total_mt": 231.66,
+        "provenance": "EDGAR:0001193125-26-306705"
       },
       {
         "quarter": "2026 Q1",
-        "vale_mt": 63.8,
-        "rio_tinto_mt": 78.0,
-        "bhp_mt": 70.3,
+        "vale_mt": 68.713,
+        "rio_tinto_mt": 72.387,
+        "bhp_mt": 0.0,
         "fmg_mt": 43.3,
-        "total_mt": 255.4,
-        "provenance": "EDGAR:0001193125-26-174828"
+        "total_mt": 184.4,
+        "provenance": "EDGAR:0001193125-26-306705"
       },
       {
         "quarter": "2026 Q2",
-        "vale_mt": 79.7,
-        "rio_tinto_mt": 85.3,
+        "vale_mt": 79.747,
+        "rio_tinto_mt": 85.264,
         "bhp_mt": 74.8,
         "fmg_mt": 52.7,
-        "total_mt": 292.5,
+        "total_mt": 292.51,
         "provenance": "EDGAR:0001193125-26-306705"
       }
     ],
