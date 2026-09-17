@@ -234,20 +234,62 @@ def test_newcastle_coal_live():
 # =====================================================================
 def test_bps_coal_live():
     source = "Indonesia Coal (BPS)"
-    logger.info("[5. BPS Coal] Testing BPS API connectivity...")
+    logger.info("[5. BPS Coal] Testing BPS API and asserting 2026-07 = 38.94 Mt vs CSV...")
     url = "https://webapi.bps.go.id/v1/api/dataexim/?sumber=1&periode=1&jenishs=2&tahun=2026"
     try:
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=20) as resp:
             http_status = str(resp.status)
             data = json.loads(resp.read().decode("utf-8"))
-        status_txt = data.get("status", "OK")
-        logger.info("  BPS live API returned status: %s", status_txt)
-        record_result(source, True, http_status, "2026-07", "2026-07", f"Live API status: {status_txt}")
+
+        status_txt = str(data.get("status", "ok")).lower()
+        assert status_txt not in ("error", "fail", "gagal"), \
+            f"BPS API returned error status: '{status_txt}' — treating as FAIL"
+
+        # Parse 2026-07 total (bulan=7)
+        rows = data.get("data", data.get("listData", []))
+        jul_row = None
+        for r in rows:
+            # BPS monthly rows may have keys like "bulan" or the URL encodes month
+            bulan = str(r.get("bulan", r.get("month", ""))).strip()
+            if bulan in ("7", "07"):
+                jul_row = r
+                break
+
+        if jul_row is not None:
+            # volume in kg; convert to Mt
+            kg = float(jul_row.get("volume", jul_row.get("berat", 0)))
+            live_mt = round(kg / 1e9, 2)
+        else:
+            # API doesn't return granular monthly breakdown in this endpoint;
+            # fall back to aggregate tonnage extraction
+            live_mt = None
+            logger.warning("  2026-07 row not found in BPS response (may be aggregate endpoint); skipping Mt assertion")
+
+        # Compare against CSV
+        csv_path = COMMODITIES_DIR / "indonesia_coal_exports_monthly.csv"
+        assert csv_path.exists(), f"CSV not found: {csv_path}"
+        csv_df = pd.read_csv(csv_path, dtype=str)
+        csv_row = csv_df[csv_df["date"].astype(str).str.startswith("2026-07")]
+        assert not csv_row.empty, "2026-07 row missing from indonesia_coal_exports_monthly.csv"
+        csv_mt = round(float(csv_row["volume_mt"].iloc[0]), 2)
+        logger.info("  CSV 2026-07 Indonesia coal total: %.2f Mt", csv_mt)
+        assert abs(csv_mt - 38.94) < 0.05, \
+            f"CSV 2026-07 = {csv_mt} Mt, expected 38.94 Mt (±0.05)"
+
+        if live_mt is not None:
+            logger.info("  Live BPS 2026-07 total: %.2f Mt; CSV: %.2f Mt", live_mt, csv_mt)
+            assert abs(live_mt - csv_mt) < 0.1, \
+                f"Live BPS {live_mt} Mt vs CSV {csv_mt} Mt diverges >0.1 Mt"
+            record_result(source, True, http_status, f"{live_mt}", "38.94",
+                          f"API status OK; live={live_mt} Mt matches CSV {csv_mt} Mt")
+        else:
+            record_result(source, True, http_status, f"{csv_mt}", "38.94",
+                          f"API status OK (no monthly breakdown returned); CSV 2026-07={csv_mt} Mt verified")
         return True
     except Exception as e:
         logger.error("  BPS live test failed: %s", e)
-        record_result(source, False, "ERROR", "2026-07", "2026-07", str(e))
+        record_result(source, False, "ERROR", "2026-07", "38.94", str(e))
         return False
 
 
