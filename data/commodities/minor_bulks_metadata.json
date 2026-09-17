@@ -1,6 +1,6 @@
 {
   "dataset_name": "Seaborne Minor Bulks Monthly Trade Flows",
-  "generated_utc": "2026-09-17T09:40:50.645203+00:00",
+  "generated_utc": "2026-09-17T11:28:44.158328+00:00",
   "total_rows": 602,
   "date_span": "2013-01-01 to 2026-08-01",
   "commodities_covered": [
@@ -17,10 +17,10 @@
       "total_records": 55,
       "min_date": "2022-01-01",
       "max_date": "2026-07-01",
-      "mean_monthly_tonnes": 172093.2,
-      "max_monthly_tonnes": 668000.0,
-      "total_volume_tonnes": 9465123.5,
-      "total_fob_usd": 4586356789.0,
+      "mean_monthly_tonnes": 168119.8,
+      "max_monthly_tonnes": 611107.5,
+      "total_volume_tonnes": 9246587.2,
+      "total_fob_usd": 4590666600.0,
       "vessel_class": "Handymax / Supramax",
       "reporter": "China",
       "flow": "Imports"
@@ -55,7 +55,7 @@
       "max_date": "2026-07-01",
       "mean_monthly_tonnes": 4047652.9,
       "max_monthly_tonnes": 9775064.0,
-      "total_volume_tonnes": 222620908.2,
+      "total_volume_tonnes": 222620908.1,
       "total_fob_usd": 6067423356.0,
       "vessel_class": "Supramax",
       "reporter": "Philippines",

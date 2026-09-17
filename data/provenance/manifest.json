@@ -126,7 +126,7 @@
         "2002-07-01",
         "2026-08-01"
       ],
-      "last_fetched_utc": "2026-09-17T09:52:27Z",
+      "last_fetched_utc": "2026-09-17T11:06:32.824349+00:00",
       "unit": "Throughput MT",
       "is_derived": false,
       "derivation": null,
@@ -2060,7 +2060,7 @@
         "2013-01-01",
         "2026-08-01"
       ],
-      "last_fetched_utc": "2026-09-17T09:40:50.646743+00:00",
+      "last_fetched_utc": "2026-09-17T11:28:44.159351+00:00",
       "unit": "Tonnes / USD FOB/CIF",
       "is_derived": false,
       "derivation": null
@@ -2074,16 +2074,16 @@
       "fetch_method": "Official Monthly Production Press Releases Harvester",
       "fetch_script": "scripts/scrapers/fetch_world_steel_production.py",
       "output_file": "data/commodities/world_crude_steel_monthly.csv",
-      "row_count": 33,
+      "row_count": 31,
       "date_span": [
         "2024-01-01",
-        "2026-09-01"
+        "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-17T09:41:01.070821+00:00",
+      "last_fetched_utc": "2026-09-17T11:28:55.160980+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
-      "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-09-01 (33 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax)."
+      "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-07-01 (31 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax)."
     },
     {
       "series_id": "commodities_argentina_grain_exports_monthly",
@@ -2099,11 +2099,18 @@
         "2023-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-17T09:41:31.169856+00:00",
+      "last_fetched_utc": "2026-09-17T11:29:23.336743+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,
       "notes": "Official Argentine agriculture ministry (MAGyP) grain shipments by port and terminal (2023\u20132026). Captures Up-River Parana (San Lorenzo, Rosario ~82%) vs Deepwater (Bahia Blanca, Necochea ~18%) Panamax and Handysize loading demand. Validated against Rosario Board of Trade (BCR)."
     }
-  ]
+  ],
+  "china_customs_monthly_imports": {
+    "source": "General Administration of Customs (GACC) / chinadata.live",
+    "last_updated": "2026-09-17T11:29:16.023766+00:00",
+    "latest_observation": "2026-07-01",
+    "rows_count": 956,
+    "status": "LIVE"
+  }
 }
