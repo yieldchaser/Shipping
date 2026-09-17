@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T12:39:45.176740Z",
+  "generated_at": "2026-09-17T12:49:57.347975Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
     "rate_records": 306027,
-    "fixture_records": 546944,
+    "fixture_records": 546948,
     "snp_records": 2620,
     "comment_records": 11731
   },
@@ -18707,9 +18707,9 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 546944,
+    "total_fixtures": 546948,
     "department_totals": {
-      "BULK": 422509,
+      "BULK": 422513,
       "TANKPRO": 65408,
       "TANK": 44318,
       "LNG": 8119,
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 197698,
+        "bulk": 197702,
         "tank": 3521,
         "gas": 2097,
-        "total": 203365
+        "total": 203369
       }
     ],
     "top_charterers": [
@@ -19150,7 +19150,7 @@
       {
         "rank": 19,
         "charterer": "SAROS SHIPPING",
-        "fixtures": 1024,
+        "fixtures": 1025,
         "market_share_pct": 0.19,
         "primary_segment": "Panamax",
         "primary_route": "Global",
@@ -19214,15 +19214,15 @@
     "recent_fixtures": [
       {
         "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "BONJA",
+        "vessel": "FERASET",
+        "segment": "Handysize",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "LAKES-FITTED"
+        "comment": "LAST 5 CGOES: PIG IRON/BAGGED CEMENT/STEEL SCRAP/MULCOA/LUMBER+GENERAL CARGO"
       },
       {
         "date": "2026-09-17",
@@ -19235,6 +19235,18 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "PANAMA FLAG,RINA CLASS"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NIAVIGRAINS",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "need abt 370.000 hold cap"
       },
       {
         "date": "2026-09-17",
@@ -19358,6 +19370,18 @@
       },
       {
         "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-17",
         "vessel": "S RUMBA",
         "segment": "Kamsarmax",
         "charterer": "NAN",
@@ -19367,18 +19391,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "last 3 cargoes coal, iron ore, coal"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Ultramax",
-        "charterer": "SLN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "m/m"
       },
       {
         "date": "2026-09-17",
@@ -19490,30 +19502,6 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "TBN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "Any Direction"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NIAVIGRAINS",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "need abt 370.000 hold cap"
-      },
-      {
-        "date": "2026-09-17",
         "vessel": "WELL PRIME",
         "segment": "Mini-Handysize",
         "charterer": "NAN",
@@ -19527,18 +19515,6 @@
       {
         "date": "2026-09-17",
         "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
         "segment": "Kamsarmax",
         "charterer": "NAN",
         "route": "nan",
@@ -19547,6 +19523,54 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "bare boat charter, redely: india, coastal movement of coal, age of the bulk carrier: 20/25 years"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NEWSUN VISION",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "READY TOMORROW. PLS PPOSE VOY/TCT WITHIN PG-JAPAN RANGE ONLY. NO SOHAR-FUJAIRAH"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "FEI JING",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "WCI REDEL OK"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "WILMA",
+        "segment": "Mini-Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "Open for part cargo"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "HTK DISCOVERY",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "NO : USA/CANADA/EUROPE/BALTIC/BLACK SEA/YEMEN/RUSSIA/UKRAINE/GULF OF ADEN/PERSIAN GULF INCLD SOHAR/FUJAIRAH, DIRTIES ALL"
       },
       {
         "date": "2026-09-17",
@@ -19646,18 +19670,6 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "FEI JING",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "WCI REDEL OK"
-      },
-      {
-        "date": "2026-09-17",
         "vessel": "LU YANG SHUN",
         "segment": "Handysize",
         "charterer": "NAN",
@@ -19667,6 +19679,18 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "GRAIN CLEAN"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "COFCO",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
       },
       {
         "date": "2026-09-17",
@@ -19790,15 +19814,15 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "NAN",
+        "vessel": "TBN",
         "segment": "Panamax",
-        "charterer": "COFCO",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "nan"
+        "comment": "Any Direction"
       },
       {
         "date": "2026-09-17",
@@ -19814,27 +19838,15 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "NBA HARMONIA",
-        "segment": "Handymax",
-        "charterer": "NAN",
+        "vessel": "NAN",
+        "segment": "Ultramax",
+        "charterer": "SLN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "CLASS: DNV / FLAG: MARSHALL ISLANDS"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "WILMA",
-        "segment": "Mini-Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "Open for part cargo"
+        "comment": "m/m"
       },
       {
         "date": "2026-09-17",
@@ -19846,7 +19858,19 @@
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "(23K) + SAO FRANCISCO DO SUL (22K)"
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "CSS/NOM",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
       },
       {
         "date": "2026-09-17",
@@ -19966,7 +19990,19 @@
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "nan"
+        "comment": "(23K) + SAO FRANCISCO DO SUL (22K)"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NBA HARMONIA",
+        "segment": "Handymax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "CLASS: DNV / FLAG: MARSHALL ISLANDS"
       },
       {
         "date": "2026-09-17",
@@ -19979,18 +20015,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "nan"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NOMI",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "OA OK"
       },
       {
         "date": "2026-09-17",
@@ -20104,30 +20128,6 @@
         "date": "2026-09-17",
         "vessel": "NAN",
         "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "OLD VESSEL WORKABLE; FOR 5-7 MONTHS PERIOD"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "CSS/NOM",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
         "charterer": "LTE",
         "route": "nan",
         "rate": "nan",
@@ -20159,6 +20159,30 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "FREE D/A"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NBC",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "NOMI",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "OA OK"
       },
       {
         "date": "2026-09-17",
@@ -20387,30 +20411,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "Sole or Part cargo; Stowage factor: 0.45-0.60 m3; 25 years age vsls max, IACS, geared with 25 tons each"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "GERDAU",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "NBC",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
       }
     ]
   },
