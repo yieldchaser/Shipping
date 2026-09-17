@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T18:00:11.633166Z",
+  "generated_at": "2026-09-17T20:25:51.332556Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
     "rate_records": 306027,
-    "fixture_records": 547044,
+    "fixture_records": 547048,
     "snp_records": 2620,
     "comment_records": 11731
   },
@@ -18707,9 +18707,9 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 547044,
+    "total_fixtures": 547048,
     "department_totals": {
-      "BULK": 422602,
+      "BULK": 422606,
       "TANKPRO": 65408,
       "TANK": 44325,
       "LNG": 8119,
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 197791,
+        "bulk": 197795,
         "tank": 3528,
         "gas": 2097,
-        "total": 203465
+        "total": 203469
       }
     ],
     "top_charterers": [
@@ -19226,15 +19226,27 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "SANDREAM",
-        "segment": "Ultramax",
+        "vessel": "DIAMOND HARBOUR",
+        "segment": "Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "DLOSP"
+        "comment": "REF CHERRY"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "SELAM",
+        "segment": "Panamax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "can not call to Eu countries"
       },
       {
         "date": "2026-09-17",
@@ -19526,51 +19538,15 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "QI HANG",
-        "segment": "Mini-Handysize",
+        "vessel": "SANDREAM",
+        "segment": "Ultramax",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "SELAM",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "can not call to Eu countries"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "DIAMOND HARBOUR",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "REF CHERRY"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "LTE",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
+        "comment": "DLOSP"
       },
       {
         "date": "2026-09-17",
@@ -19583,6 +19559,42 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "MM"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "DEMA M",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "VOYAGE only - full or part cgoes direction WW"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "PERISTIL",
+        "segment": "Supramax",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "CROATIA FLAG"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "VIET THUAN 30-06",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
       },
       {
         "date": "2026-09-17",
@@ -19874,15 +19886,15 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "PERISTIL",
-        "segment": "Supramax",
+        "vessel": "QI HANG",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "CROATIA FLAG"
+        "comment": "nan"
       },
       {
         "date": "2026-09-17",
@@ -19922,9 +19934,9 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "NAN",
+        "vessel": "TBN",
         "segment": "Panamax",
-        "charterer": "MUR",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
@@ -20222,30 +20234,6 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "HTF/NOM",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "FREE D/A"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "TBN",
-        "segment": "Panamax",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "nan"
-      },
-      {
-        "date": "2026-09-17",
         "vessel": "TBN",
         "segment": "Panamax",
         "charterer": "NAN",
@@ -20270,15 +20258,39 @@
       },
       {
         "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Ultramax",
-        "charterer": "A1",
+        "vessel": "TBN",
+        "segment": "Panamax",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "Duration abt 35 days wog"
+        "comment": "nan"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Handysize",
+        "charterer": "NAN",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "STOW 50 CU FT BALE PER TN"
+      },
+      {
+        "date": "2026-09-17",
+        "vessel": "NAN",
+        "segment": "Panamax",
+        "charterer": "MUR",
+        "route": "nan",
+        "rate": "nan",
+        "period": "nan",
+        "load_port": "nan",
+        "discharge_port": "nan",
+        "comment": "nan"
       },
       {
         "date": "2026-09-17",
@@ -20399,18 +20411,6 @@
         "load_port": "nan",
         "discharge_port": "nan",
         "comment": "full or part cgos dir WW"
-      },
-      {
-        "date": "2026-09-17",
-        "vessel": "NAN",
-        "segment": "Handysize",
-        "charterer": "NAN",
-        "route": "nan",
-        "rate": "nan",
-        "period": "nan",
-        "load_port": "nan",
-        "discharge_port": "nan",
-        "comment": "STOW 50 CU FT BALE PER TN"
       }
     ]
   },
