@@ -85,10 +85,44 @@ def fetch_commodity(ncms: list[str]) -> list[dict]:
     """
     import os as _os
 
-    full_history = _os.environ.get("COMEXSTAT_FULL_HISTORY", "1").strip() not in ("0", "false", "False", "")
-    start_year = int((PERIOD_FROM if full_history else RECENT_FROM).split("-")[0])
-    end_year = int(PERIOD_TO.split("-")[0])
+    full_history = _os.environ.get("COMEXSTAT_FULL_HISTORY", "0").strip() not in ("0", "false", "False", "")
     all_recs: list[dict] = []
+
+    if not full_history:
+        # Re-pull the last 3 months for scheduled/fast runs
+        now = datetime.now(timezone.utc)
+        m = now.month - 2
+        y = now.year
+        if m <= 0:
+            m += 12
+            y -= 1
+        recent_from = f"{y:04d}-{m:02d}"
+        logging.info("COMEXSTAT_FULL_HISTORY=0: Fetching recent 3-month window %s to %s", recent_from, PERIOD_TO)
+        payload = {
+            "flow": "export",
+            "monthDetail": True,
+            "period": {"from": recent_from, "to": PERIOD_TO},
+            "filters": [{"filter": "ncm", "values": ncms}],
+            "metrics": ["metricFOB", "metricKG"],
+        }
+        for attempt in range(MAX_RETRIES):
+            try:
+                res = _post(payload)
+                data_list = res.get("data", {}).get("list", [])
+                all_recs.extend(data_list)
+                break
+            except urllib.error.HTTPError as exc:
+                wait_s = 45 * (attempt + 1)
+                logging.warning("ComexStat query HTTP %d on attempt %d; sleeping %ds", exc.code, attempt + 1, wait_s)
+                time.sleep(wait_s)
+            except Exception as exc:
+                wait_s = 15 * (attempt + 1)
+                logging.warning("ComexStat error %s on attempt %d; sleeping %ds", exc, attempt + 1, wait_s)
+                time.sleep(wait_s)
+        return all_recs
+
+    start_year = int(PERIOD_FROM.split("-")[0])
+    end_year = int(PERIOD_TO.split("-")[0])
     for year in range(start_year, end_year + 1):
         period_from = f"{year}-01"
         period_to = PERIOD_TO if year == end_year else f"{year}-12"

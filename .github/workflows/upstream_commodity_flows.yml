@@ -4,18 +4,17 @@ on:
   schedule:
     - cron: '0 6 * * 1' # Runs every Monday at 06:00 UTC
   workflow_dispatch:
-    # One-shot backfill wiring (no auto-run): default scheduled run keeps full
-    # depth (COMEXSTAT_FULL_HISTORY=1). Set comexstat_full=0 for a fast
-    # recent-slice (2024+) run only. NOTE: full 1997->live ComexStat is
-    # multi-hour (year-by-year slices, ~45s pacing + 429 backoff) — run LAST
-    # and isolated per the step comment below.
     inputs:
       comexstat_full:
-        description: 'ComexStat depth: 1 = full 1997->live (multi-hour pacing); 0 = recent 2024+ slice'
+        description: 'ComexStat depth: 0 = recent 3-month slice (fast); 1 = full 1997->live'
         required: false
-        default: '1'
+        default: '0'
         type: choice
-        options: ['1', '0']
+        options: ['0', '1']
+
+permissions:
+  contents: write
+  issues: write
 
 jobs:
   update-upstream-flows:
@@ -36,57 +35,183 @@ jobs:
           python -m playwright install --with-deps chromium
           sudo apt-get update && sudo apt-get install -y poppler-utils
 
-      - name: Run Upstream Commodity & Congestion Scrapers
+      - name: Scrape Newcastle Coal
+        id: step_newcastle
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_newcastle_coal.py
+
+      - name: Scrape Australia PPA Iron Ore
+        id: step_ppa
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_australia_ppa.py
+
+      - name: Scrape Major Miners Production
+        id: step_miners
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_major_miners_production.py
+
+      - name: Scrape Australia REQ Forecasts
+        id: step_req
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_australia_req.py
+
+      - name: Scrape US EIA Petroleum Exports
+        id: step_eia
+        continue-on-error: true
+        timeout-minutes: 15
         env:
           EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
-          COMTRADE_API_KEY: ${{ secrets.COMTRADE_API_KEY }}
-          OILPRICE_API_KEY: ${{ secrets.OILPRICE_API_KEY }}
-        run: |
-          # Paced, real-data-only scrapers. No `|| true`: a genuine failure must fail
-          # the run so it is visible (data-provenance policy, 2026-08-25 audit).
-          python scripts/scrapers/fetch_newcastle_coal.py
-          python scripts/scrapers/fetch_australia_ppa.py
-          python scripts/scrapers/fetch_major_miners_production.py
-          python scripts/scrapers/fetch_australia_req.py
-          python scripts/scrapers/fetch_eia_petroleum_exports.py
-          python scripts/scrapers/fetch_portwatch_port_activity.py
-          python scripts/scrapers/fetch_eu_ets_carbon.py
-          python scripts/scrapers/fetch_gacc_bauxite_alumina.py
-          python scripts/scrapers/fetch_turkstat_bulk.py
-          # Primary-source minor bulk & demand scrapers
-          python scripts/scrapers/fetch_minor_bulks.py
-          python scripts/scrapers/fetch_world_steel_production.py
-          python scripts/scrapers/fetch_china_customs_demand.py
-          python scripts/scrapers/fetch_argentina_grain.py
-          python scripts/scrapers/fetch_psa_nickel.py
-          python scripts/scrapers/fetch_india_tradestat.py
-          # ComexStat is the most rate-limited (MDIC free tier); run LAST and isolated
-          # so its 429 backoff does not block the others. A partial run still commits
-          # the months it succeeded on (the scraper skips, never fakes).
-          # Dispatch input comexstat_full (default 1): 1 = full 1997->live
-          # year-by-year (multi-hour pacing); 0 = recent 2024+ slice only.
-          # Scheduled runs have no inputs -> fall back to 1 (full depth).
-          COMEXSTAT_FULL_HISTORY="${{ inputs.comexstat_full }}"; if [ -z "$COMEXSTAT_FULL_HISTORY" ]; then COMEXSTAT_FULL_HISTORY=1; fi; export COMEXSTAT_FULL_HISTORY; python scripts/scrapers/fetch_comexstat_brazil.py || echo "ComexStat rate-limited this run; will complete on a later paced run."
-          # Regenerate diagnostic Capesize ton-mile matrix AFTER live Brazil (ComexStat)
-          # + Guinea bauxite (UN Comtrade) inputs land. Empty-month policy: null, not
-          # fallback flatline — the generator refuses to fabricate a matrix when no
-          # source volumes exist (see generate_ton_mile_matrix.py).
-          python scripts/scrapers/generate_ton_mile_matrix.py
-          # Rebuild frontend Cargo & Trade Flows summary cache
-          python scripts/cargo/build_cargo_cache.py
+        run: python scripts/scrapers/fetch_eia_petroleum_exports.py
 
-      - name: Commit and push if updated
+      - name: Scrape PortWatch Port Activity
+        id: step_portwatch
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_portwatch_port_activity.py
+
+      - name: Scrape EU ETS Carbon
+        id: step_eu_ets
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_eu_ets_carbon.py
+
+      - name: Scrape GACC Bauxite & Alumina
+        id: step_gacc
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_gacc_bauxite_alumina.py
+
+      - name: Scrape TurkStat Bulk Trade
+        id: step_turkstat
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_turkstat_bulk.py
+
+      - name: Scrape Minor Bulks
+        id: step_minor_bulks
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          COMTRADE_API_KEY: ${{ secrets.COMTRADE_API_KEY }}
+        run: python scripts/scrapers/fetch_minor_bulks.py
+
+      - name: Scrape World Steel Production
+        id: step_world_steel
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_world_steel_production.py
+
+      - name: Scrape China Customs Demand
+        id: step_china_demand
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_china_customs_demand.py
+
+      - name: Scrape Argentina Grain
+        id: step_argentina_grain
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_argentina_grain.py
+
+      - name: Scrape PSA Nickel
+        id: step_psa_nickel
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_psa_nickel.py
+
+      - name: Scrape India TradeStat
+        id: step_india_tradestat
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/scrapers/fetch_india_tradestat.py
+
+      - name: Scrape Brazil ComexStat
+        id: step_comexstat
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          COMEXSTAT_FULL_HISTORY: ${{ inputs.comexstat_full || '0' }}
+        run: python scripts/scrapers/fetch_comexstat_brazil.py
+
+      - name: Generate Capesize Ton-Mile Matrix
+        if: always()
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python scripts/scrapers/generate_ton_mile_matrix.py
+
+      - name: Rebuild Frontend Cargo Cache
+        if: always()
+        run: python scripts/cargo/build_cargo_cache.py
+
+      - name: Check Data Freshness Guard
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/verify/check_data_freshness.py --create-issue
+
+      - name: Commit and Push Updated Data
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/commodities/ data/congestion/ data/derived/ data/cargo/ data/provenance/
-          git diff --quiet && git diff --staged --quiet && exit 0
-          git commit -m "Auto-update upstream commodity flows, port congestion and ton-mile matrix [skip ci]"
-          # Concurrent scheduled runs can move main; pull --rebase before pushing
-          # instead of failing with "fetch first" (which previously dropped a
-          # whole run's data on the floor).
-          for attempt in 1 2 3; do
-            git pull --rebase --autostash origin main && git push && break
-            echo "push attempt $attempt failed (concurrent commit); retrying..."
-            sleep 15
-          done
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update upstream commodity flows, port congestion and ton-mile matrix [skip ci]"
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push attempt $attempt failed (concurrent commit); retrying..."
+              sleep 15
+            done
+          fi
+
+      - name: Report Scraper Health & Enforce Non-Silent Failures
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -c "
+          import sys, subprocess
+          steps = {
+            'Newcastle Coal': '${{ steps.step_newcastle.outcome }}',
+            'Pilbara Ports': '${{ steps.step_ppa.outcome }}',
+            'Major Miners': '${{ steps.step_miners.outcome }}',
+            'Australia REQ': '${{ steps.step_req.outcome }}',
+            'EIA Petroleum': '${{ steps.step_eia.outcome }}',
+            'PortWatch': '${{ steps.step_portwatch.outcome }}',
+            'EU ETS Carbon': '${{ steps.step_eu_ets.outcome }}',
+            'GACC Bauxite/Alumina': '${{ steps.step_gacc.outcome }}',
+            'TurkStat Bulk': '${{ steps.step_turkstat.outcome }}',
+            'Minor Bulks': '${{ steps.step_minor_bulks.outcome }}',
+            'World Steel': '${{ steps.step_world_steel.outcome }}',
+            'China Customs Demand': '${{ steps.step_china_demand.outcome }}',
+            'Argentina Grain': '${{ steps.step_argentina_grain.outcome }}',
+            'PSA Nickel': '${{ steps.step_psa_nickel.outcome }}',
+            'India TradeStat': '${{ steps.step_india_tradestat.outcome }}',
+            'Brazil ComexStat': '${{ steps.step_comexstat.outcome }}'
+          }
+          print('=================================================================')
+          print('UPSTREAM COMMODITY FLOW SCRAPERS EXECUTION SUMMARY')
+          print('=================================================================')
+          for name, outcome in steps.items():
+            print(f'{name:<24}: {outcome}')
+          print('=================================================================')
+
+          failed = [name for name, outcome in steps.items() if outcome == 'failure']
+          if failed:
+            print(f'ERROR: {len(failed)} scrapers failed: {failed}')
+            title = f'Alert: Upstream Commodity Flow Failures ({len(failed)} scrapers)'
+            body = 'The following scrapers encountered errors during the automated run:\n\n' + '\n'.join([f'- {f}' for f in failed])
+            try:
+              subprocess.run(['gh', 'issue', 'create', '--title', title, '--body', body, '--label', 'data-freshness'], check=False)
+            except Exception as e:
+              print('Could not create GitHub issue:', e)
+            sys.exit(1)
+          else:
+            print('All upstream commodity scrapers succeeded!')
+          "

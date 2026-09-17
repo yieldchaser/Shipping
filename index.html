@@ -31154,6 +31154,13 @@ function renderFearnleysSnpTable() {
         var miners = (DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore && DATA.cargoSummary.pilbara_iron_ore.miners_quarterly) || DATA.minerShipments || [];
         if (!miners || !miners.length) return;
         var quarters = miners.map(m => m.quarter);
+        var hasIllustrative = miners.some(m => m.provenance && m.provenance.indexOf('illustrative') >= 0);
+        var badge = document.getElementById('ppaThroughputBadge');
+        if (badge && miners.length) {
+          var lastM = miners[miners.length - 1];
+          badge.innerHTML = 'Major Miners: <strong>' + (lastM.total_mt || 0) + ' Mt</strong> (' + lastM.quarter + ')' +
+            (hasIllustrative ? ' <span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:10px;font-weight:600;margin-left:6px;">Official SEC/ASX (2024+) / Illustrative Prior Estimates</span>' : '');
+        }
         destroyChart('ppaThroughputChart');
         updateOrCreateChart('ppaThroughputChart', canvas, {
           type: 'bar',
@@ -31732,7 +31739,7 @@ function renderFearnleysSnpTable() {
       grid.innerHTML = keys.map(function(k, idx) {
         var flow = flows[k];
         var safeId = 'minorBulkCanvas_' + idx;
-        var mtStr = (flow.latest_mt != null) ? flow.latest_mt.toFixed(2) + ' Mt/mo' : '';
+        var mtStr = (flow.latest_mt != null) ? flow.latest_mt.toFixed(2) + ' Mt/mo' : (flow.latest_usd ? 'USD Only (Volume Pending)' : '');
         return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">' +
           '<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:6px;">' +
             '<div>' +

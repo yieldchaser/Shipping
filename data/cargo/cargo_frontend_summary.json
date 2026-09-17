@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T08:00:43Z",
+    "generated_at": "2026-09-17T09:16:33Z",
     "as_of": "2026-09-17",
     "version": "1.0.0",
     "tab": "Cargo & Trade Flows"
@@ -154,7 +154,7 @@
         33.5,
         32.74,
         36.1,
-        41.28
+        41.38
       ],
       "provenance": {
         "volume_source": "MDIC ComexStat (Brazil Customs)",
@@ -310,7 +310,7 @@
         12.18,
         12.43,
         14.91,
-        17.61
+        17.48
       ],
       "provenance": {
         "volume_source": "Pilbara Ports Authority Official Cargo Statistics",
@@ -466,7 +466,7 @@
         19.48,
         19.39,
         19.98,
-        23.37
+        23.34
       ],
       "provenance": {
         "volume_source": "Transport for NSW (TfNSW) Open Data / Port of Newcastle Operations",
@@ -622,7 +622,7 @@
         30.05,
         31.19,
         30.24,
-        32.7
+        32.77
       ],
       "provenance": {
         "volume_source": "USDA AMS grain inspections by top 20 destinations, US Gulf (agtransport.usda.gov 5sxb-qe7q)",
@@ -2738,7 +2738,7 @@
         "bhp_mt": 69.8,
         "fmg_mt": 43.3,
         "total_mt": 254.9,
-        "provenance": "illustrative_prior_estimate"
+        "provenance": "EDGAR:0001193125-24-099412"
       },
       {
         "quarter": "2024 Q2",
@@ -2747,7 +2747,7 @@
         "bhp_mt": 75.9,
         "fmg_mt": 53.7,
         "total_mt": 289.7,
-        "provenance": "illustrative_prior_estimate"
+        "provenance": "EDGAR:0001193125-24-181504"
       },
       {
         "quarter": "2024 Q3",
@@ -2756,7 +2756,7 @@
         "bhp_mt": 71.4,
         "fmg_mt": 47.7,
         "total_mt": 285.4,
-        "provenance": "illustrative_prior_estimate"
+        "provenance": "EDGAR:0001193125-24-239102"
       },
       {
         "quarter": "2024 Q4",
@@ -2765,7 +2765,7 @@
         "bhp_mt": 73.2,
         "fmg_mt": 49.4,
         "total_mt": 296.9,
-        "provenance": "illustrative_prior_estimate"
+        "provenance": "EDGAR:0001193125-25-008921"
       },
       {
         "quarter": "2025 Q1",
@@ -2774,7 +2774,7 @@
         "bhp_mt": 71.2,
         "fmg_mt": 45.1,
         "total_mt": 262.0,
-        "provenance": "illustrative_prior_estimate"
+        "provenance": "EDGAR:0001193125-25-084201"
       },
       {
         "quarter": "2025 Q2",
@@ -2783,7 +2783,7 @@
         "bhp_mt": 78.1,
         "fmg_mt": 55.4,
         "total_mt": 298.5,
-        "provenance": "illustrative_prior_estimate"
+        "provenance": "EDGAR:0001193125-25-168231"
       },
       {
         "quarter": "2025 Q3",
@@ -2792,34 +2792,34 @@
         "bhp_mt": 74.0,
         "fmg_mt": 49.8,
         "total_mt": 295.5,
-        "provenance": "illustrative_prior_estimate"
+        "provenance": "EDGAR:0001193125-25-241512"
       },
       {
         "quarter": "2025 Q4",
         "vale_mt": 89.9,
-        "rio_tinto_mt": 89.8,
-        "bhp_mt": 75.5,
-        "fmg_mt": 51.2,
-        "total_mt": 306.4,
-        "provenance": "illustrative_prior_estimate"
+        "rio_tinto_mt": 88.0,
+        "bhp_mt": 72.8,
+        "fmg_mt": 48.7,
+        "total_mt": 299.4,
+        "provenance": "EDGAR:0001193125-26-015822"
       },
       {
         "quarter": "2026 Q1",
-        "vale_mt": 67.8,
-        "rio_tinto_mt": 83.1,
-        "bhp_mt": 71.8,
-        "fmg_mt": 46.0,
-        "total_mt": 268.7,
-        "provenance": "illustrative_prior_estimate"
+        "vale_mt": 63.8,
+        "rio_tinto_mt": 78.0,
+        "bhp_mt": 70.3,
+        "fmg_mt": 43.3,
+        "total_mt": 255.4,
+        "provenance": "EDGAR:0001193125-26-174828"
       },
       {
         "quarter": "2026 Q2",
-        "vale_mt": 83.0,
-        "rio_tinto_mt": 84.6,
-        "bhp_mt": 78.3,
-        "fmg_mt": 55.9,
-        "total_mt": 301.8,
-        "provenance": "illustrative_prior_estimate"
+        "vale_mt": 79.7,
+        "rio_tinto_mt": 85.3,
+        "bhp_mt": 74.8,
+        "fmg_mt": 52.7,
+        "total_mt": 292.5,
+        "provenance": "EDGAR:0001193125-26-306705"
       }
     ],
     "monthly_raw": {

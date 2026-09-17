@@ -147,7 +147,9 @@ def main():
     for y in years:
         print(f"  Querying year {y}...")
         try:
-            records = fetch_year(y, api_key)
+            # For the current and preceding year, always bypass cache to re-evaluate recent periods if API key is present
+            force_fresh = (y >= current_year - 1) and bool(api_key)
+            records = fetch_year(y, api_key, use_cache=not force_fresh)
             all_records.extend(records)
             print(f"    Got {len(records)} records for {y}")
             time.sleep(0.5)  # Polite pacing
