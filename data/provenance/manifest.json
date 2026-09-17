@@ -121,12 +121,12 @@
       "fetch_method": "Wayback PDF Parse",
       "fetch_script": "scripts/scrapers/fetch_ppa_iron_ore.py",
       "output_file": "data/commodities/australia_ppa_iron_ore.csv",
-      "row_count": 292,
+      "row_count": 423,
       "date_span": [
         "2002-07-01",
-        "2026-07-01"
+        "2026-08-01"
       ],
-      "last_fetched_utc": "2026-09-16T18:05:36Z",
+      "last_fetched_utc": "2026-09-17T09:22:55.067825+00:00",
       "unit": "Throughput MT",
       "is_derived": false,
       "derivation": null,
@@ -2045,11 +2045,70 @@
       "is_derived": false,
       "derivation": null,
       "notes": "Commercial fleet supply profile across 11 primary asset classes. Synthesizes commercial hulls classified by Signal Ocean orderBookStatusID (status 7 active fleet; status 1 & 2 orderbook as recorded by Signal Ocean; status 8 scrapped ships excluded; status 4, 5, 6 unresolved). Tracking active deadweight, age distribution (including >20y overage demolition pool), scheduled deliveries, and scrubber penetration."
+    },
+    {
+      "series_id": "commodities_minor_bulks_monthly",
+      "display_name": "Commodities \u2014 Seaborne Minor Bulks Monthly Trade Flows",
+      "status": "LIVE",
+      "source_name": "TurkStat, DGCI&S India, PSA Philippines, GACC China, Brazil MDIC ComexStat",
+      "source_url": "https://bi.tuik.gov.tr",
+      "fetch_method": "Multi-Source National Statistics Harvesters",
+      "fetch_script": "scripts/scrapers/fetch_minor_bulks.py",
+      "output_file": "data/commodities/minor_bulks_monthly.csv",
+      "row_count": 602,
+      "date_span": [
+        "2013-01-01",
+        "2026-08-01"
+      ],
+      "last_fetched_utc": "2026-09-17T09:40:50.646743+00:00",
+      "unit": "Tonnes / USD FOB/CIF",
+      "is_derived": false,
+      "derivation": null
+    },
+    {
+      "series_id": "commodities_world_crude_steel_monthly",
+      "display_name": "Commodities \u2014 World Crude Steel Monthly Production (worldsteel)",
+      "status": "LIVE",
+      "source_name": "World Steel Association (worldsteel)",
+      "source_url": "https://worldsteel.org/media/press-releases/",
+      "fetch_method": "Official Monthly Production Press Releases Harvester",
+      "fetch_script": "scripts/scrapers/fetch_world_steel_production.py",
+      "output_file": "data/commodities/world_crude_steel_monthly.csv",
+      "row_count": 33,
+      "date_span": [
+        "2024-01-01",
+        "2026-09-01"
+      ],
+      "last_fetched_utc": "2026-09-17T09:41:01.070821+00:00",
+      "unit": "Mt / month",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Monthly world crude steel production across 70 reporting countries (~98% global output) spanning 2024-01-01 to 2026-09-01 (33 months). Key macro demand indicator for iron ore (Capesize) and coking coal (Panamax)."
+    },
+    {
+      "series_id": "commodities_argentina_grain_exports_monthly",
+      "display_name": "Commodities \u2014 Argentina Grain Shipments by Port (MAGyP)",
+      "status": "LIVE",
+      "source_name": "Secretar\u00eda de Agricultura, Ganader\u00eda y Pesca (MAGyP)",
+      "source_url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/exportaciones/",
+      "fetch_method": "MAGyP Official Port Loading Harvester",
+      "fetch_script": "scripts/scrapers/fetch_argentina_grain.py",
+      "output_file": "data/commodities/argentina_grain_exports_monthly.csv",
+      "row_count": 43,
+      "date_span": [
+        "2023-01-01",
+        "2026-07-01"
+      ],
+      "last_fetched_utc": "2026-09-17T09:41:31.169856+00:00",
+      "unit": "Mt / month",
+      "is_derived": false,
+      "derivation": null,
+      "notes": "Official Argentine agriculture ministry (MAGyP) grain shipments by port and terminal (2023\u20132026). Captures Up-River Parana (San Lorenzo, Rosario ~82%) vs Deepwater (Bahia Blanca, Necochea ~18%) Panamax and Handysize loading demand. Validated against Rosario Board of Trade (BCR)."
     }
   ],
   "china_customs_monthly_imports": {
     "source": "General Administration of Customs (GACC) / chinadata.live",
-    "last_updated": "2026-09-17T07:46:49.813188+00:00",
+    "last_updated": "2026-09-17T09:41:22.938082+00:00",
     "latest_observation": "2026-07-01",
     "rows_count": 956,
     "status": "LIVE"
