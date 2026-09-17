@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T21:56:28.585969Z",
+  "generated_at": "2026-09-17T00:06:22.005471Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
     "rate_records": 305936,
-    "fixture_records": 546130,
+    "fixture_records": 546131,
     "snp_records": 2620,
     "comment_records": 11730
   },
@@ -18707,9 +18707,9 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 546130,
+    "total_fixtures": 546131,
     "department_totals": {
-      "BULK": 421725,
+      "BULK": 421726,
       "TANKPRO": 65408,
       "TANK": 44301,
       "LNG": 8115,
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 196914,
+        "bulk": 196915,
         "tank": 3505,
         "gas": 2084,
-        "total": 202552
+        "total": 202553
       }
     ],
     "top_charterers": [
@@ -19226,20 +19226,20 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Panamax",
-        "charterer": "CHABE",
+        "vessel": "ORIENTAL TBN 2",
+        "segment": "Handysize",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "sf abt 62/63' wog"
+        "comment": "nan"
       },
       {
         "date": "2026-09-16",
-        "vessel": "ORIENTAL TBN 2",
-        "segment": "Handysize",
+        "vessel": "HAV AMETHYST",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
@@ -19310,15 +19310,15 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "NAN",
-        "segment": "Capesize",
-        "charterer": "LSS OCEAN TRANSPORT",
+        "vessel": "WOOYANG DANDY",
+        "segment": "Supramax",
+        "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "VSL STD CAPESIZE, MAX AGE 19 YRS, RIGHTSHIP SCORE 3, NO RUSSIA CALLER, FREE DA AT DISCHARGE PORT"
+        "comment": "GRAIN CLEAN"
       },
       {
         "date": "2026-09-16",
@@ -19406,15 +19406,15 @@
       },
       {
         "date": "2026-09-16",
-        "vessel": "HAV AMETHYST",
-        "segment": "Mini-Handysize",
-        "charterer": "NAN",
+        "vessel": "NAN",
+        "segment": "Capesize",
+        "charterer": "LSS OCEAN TRANSPORT",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "nan"
+        "comment": "VSL STD CAPESIZE, MAX AGE 19 YRS, RIGHTSHIP SCORE 3, NO RUSSIA CALLER, FREE DA AT DISCHARGE PORT"
       },
       {
         "date": "2026-09-16",
