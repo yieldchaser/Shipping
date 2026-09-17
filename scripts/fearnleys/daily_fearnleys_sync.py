@@ -165,6 +165,12 @@ def sync_fixtures():
                     clean_row[col] = val.replace("\r\n", " ").replace("\n", " ")
                 else:
                     clean_row[col] = str(val)
+            # Date sanity check: reject any future dates more than 30 days ahead (e.g. 2026-12-18 typo)
+            f_date = clean_row.get("date", "")
+            max_future = (datetime.now(timezone.utc) + timedelta(days=30)).strftime("%Y-%m-%d")
+            if f_date and f_date > max_future:
+                print(f"    [WARN] Future fixture date rejected ({f_date} > {max_future}) for id {clean_row.get('id')}", flush=True)
+                continue
             writer.writerow(clean_row)
 
     # Regenerate Parquet if pandas is available

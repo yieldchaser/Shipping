@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:01:25.664451+00:00",
+  "generated_at": "2026-09-17T07:46:09.161885+00:00",
   "source": "General Administration of Customs of the People's Republic of China (GACC)",
   "api_provider": "chinadata.live / api/v2",
   "commodities": {
@@ -245,7 +245,7 @@
           "rank": 7
         },
         {
-          "partner": "Lao",
+          "partner": "Laos",
           "share_pct": 0.02,
           "value_usd": 554297,
           "rank": 8
@@ -265,71 +265,71 @@
       ],
       "source_url": "https://chinadata.live/api/v2/trade/hs/2701?flow=import&period=all"
     },
-    "2606": {
+    "26060000": {
       "commodity": "Bauxite",
       "flow": "import",
       "shipping_class": "Capesize / Supramax",
       "rationale": "Validates Guinea mirror from demand side; Guinea SMB/Chalco destination",
       "coverage": {
-        "first_month": "2025-01",
+        "first_month": "2021-01",
         "latest_month": "2026-07",
-        "rows": 249,
+        "rows": 607,
         "partner_count": 18,
-        "total_value_usd": 24604234182,
+        "total_value_usd": 56227645401,
         "updated_at": null
       },
-      "total_monthly_points": 19,
+      "total_monthly_points": 67,
       "latest_month": "2026-07",
       "top_partners_all_time": [
         {
           "partner": "Guinea",
-          "share_pct": 78.42,
-          "value_usd": 19293688601
+          "share_pct": 71.96,
+          "value_usd": 40463662616
         },
         {
           "partner": "Australia",
-          "share_pct": 15.67,
-          "value_usd": 3854907598
+          "share_pct": 19.33,
+          "value_usd": 10867310289
+        },
+        {
+          "partner": "Indonesia",
+          "share_pct": 3.94,
+          "value_usd": 2218076708
         },
         {
           "partner": "T\u00fcrkiye",
-          "share_pct": 1.1,
-          "value_usd": 270664075
-        },
-        {
-          "partner": "Sierra Leone",
-          "share_pct": 0.98,
-          "value_usd": 242349858
-        },
-        {
-          "partner": "Guyana",
-          "share_pct": 0.89,
-          "value_usd": 219243717
-        },
-        {
-          "partner": "Lao",
-          "share_pct": 0.59,
-          "value_usd": 146053345
+          "share_pct": 1.06,
+          "value_usd": 596854621
         },
         {
           "partner": "Brazil",
-          "share_pct": 0.54,
-          "value_usd": 133970002
-        },
-        {
-          "partner": "Cote d'lvoire",
-          "share_pct": 0.46,
-          "value_usd": 113656836
-        },
-        {
-          "partner": "Malaysia",
-          "share_pct": 0.45,
-          "value_usd": 111175554
+          "share_pct": 0.59,
+          "value_usd": 334421194
         },
         {
           "partner": "Ghana",
-          "share_pct": 0.38,
-          "value_usd": 93541588
+          "share_pct": 0.56,
+          "value_usd": 314278608
+        },
+        {
+          "partner": "Sierra Leone",
+          "share_pct": 0.49,
+          "value_usd": 276211985
+        },
+        {
+          "partner": "Lao",
+          "share_pct": 0.47,
+          "value_usd": 265482759
+        },
+        {
+          "partner": "Malaysia",
+          "share_pct": 0.41,
+          "value_usd": 228311654
+        },
+        {
+          "partner": "Guyana",
+          "share_pct": 0.39,
+          "value_usd": 221124358
         }
       ],
       "latest_partners": [
@@ -394,138 +394,138 @@
           "rank": 10
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/2606?flow=import&period=all"
+      "source_url": "https://chinadata.live/api/v2/trade/hs/26060000?flow=import&period=all"
     },
-    "2818": {
+    "28182000": {
       "commodity": "Alumina",
       "flow": "import",
       "shipping_class": "Handymax / Supramax",
       "rationale": "Pairs with bauxite; smelter feed imports",
       "coverage": {
-        "first_month": "2025-01",
+        "first_month": "2021-01",
         "latest_month": "2026-07",
-        "rows": 452,
-        "partner_count": 28,
-        "total_value_usd": 1858296971,
+        "rows": 1314,
+        "partner_count": 23,
+        "total_value_usd": 5548955399,
         "updated_at": null
       },
-      "total_monthly_points": 19,
+      "total_monthly_points": 67,
       "latest_month": "2026-07",
       "top_partners_all_time": [
         {
           "partner": "Australia",
-          "share_pct": 45.99,
-          "value_usd": 854575937
+          "share_pct": 50.5,
+          "value_usd": 2802422747
         },
         {
           "partner": "Indonesia",
-          "share_pct": 14.81,
-          "value_usd": 275198794
+          "share_pct": 14.7,
+          "value_usd": 815815924
+        },
+        {
+          "partner": "Vietnam",
+          "share_pct": 9.26,
+          "value_usd": 513669127
         },
         {
           "partner": "Japan",
-          "share_pct": 8.04,
-          "value_usd": 149350648
+          "share_pct": 6.84,
+          "value_usd": 379506826
         },
         {
           "partner": "Germany",
-          "share_pct": 7.37,
-          "value_usd": 137035656
-        },
-        {
-          "partner": "United States",
-          "share_pct": 7.29,
-          "value_usd": 135489592
-        },
-        {
-          "partner": "Viet Nam",
-          "share_pct": 5.68,
-          "value_usd": 105480249
+          "share_pct": 5.87,
+          "value_usd": 325977188
         },
         {
           "partner": "India",
-          "share_pct": 4.91,
-          "value_usd": 91330448
+          "share_pct": 3.4,
+          "value_usd": 188576489
         },
         {
           "partner": "France",
-          "share_pct": 2.08,
-          "value_usd": 38637467
+          "share_pct": 2.47,
+          "value_usd": 136951033
         },
         {
-          "partner": "Republic of Korea",
-          "share_pct": 1.66,
-          "value_usd": 30795403
+          "partner": "Kazakhstan",
+          "share_pct": 2.01,
+          "value_usd": 111305810
         },
         {
-          "partner": "Brazil",
-          "share_pct": 0.58,
-          "value_usd": 10813213
+          "partner": "United States",
+          "share_pct": 1.85,
+          "value_usd": 102744088
+        },
+        {
+          "partner": "South Korea",
+          "share_pct": 1.33,
+          "value_usd": 74034540
         }
       ],
       "latest_partners": [
         {
           "partner": "Australia",
-          "share_pct": 69.99,
-          "value_usd": 105336631,
+          "share_pct": 73.92,
+          "value_usd": 105285931,
           "rank": 1
         },
         {
           "partner": "Indonesia",
-          "share_pct": 14.09,
-          "value_usd": 21200022,
+          "share_pct": 14.88,
+          "value_usd": 21194352,
           "rank": 2
         },
         {
           "partner": "Japan",
-          "share_pct": 6.06,
-          "value_usd": 9119876,
+          "share_pct": 5.6,
+          "value_usd": 7980153,
           "rank": 3
         },
         {
           "partner": "Germany",
-          "share_pct": 4.6,
-          "value_usd": 6919661,
+          "share_pct": 2.34,
+          "value_usd": 3338728,
           "rank": 4
         },
         {
-          "partner": "United States",
-          "share_pct": 2.2,
-          "value_usd": 3309701,
+          "partner": "France",
+          "share_pct": 1.54,
+          "value_usd": 2195043,
           "rank": 5
         },
         {
-          "partner": "France",
-          "share_pct": 1.51,
-          "value_usd": 2274542,
+          "partner": "United States",
+          "share_pct": 0.68,
+          "value_usd": 964803,
           "rank": 6
         },
         {
           "partner": "Republic of Korea",
-          "share_pct": 0.76,
-          "value_usd": 1147614,
+          "share_pct": 0.46,
+          "value_usd": 650117,
           "rank": 7
         },
         {
           "partner": "Singapore",
-          "share_pct": 0.22,
+          "share_pct": 0.24,
           "value_usd": 338593,
           "rank": 8
         },
         {
           "partner": "Taiwan\uff0cChina",
-          "share_pct": 0.18,
+          "share_pct": 0.19,
           "value_usd": 276445,
           "rank": 9
         },
         {
-          "partner": "Switzerland",
-          "share_pct": 0.12,
-          "value_usd": 176638,
+          "partner": "India",
+          "share_pct": 0.05,
+          "value_usd": 64900,
           "rank": 10
         }
       ],
-      "source_url": "https://chinadata.live/api/v2/trade/hs/2818?flow=import&period=all"
+      "source_url": "https://chinadata.live/api/v2/trade/hs/28182000?flow=import&period=all"
     },
     "1201": {
       "commodity": "Soybeans",
@@ -757,7 +757,7 @@
           "rank": 5
         },
         {
-          "partner": "United Arab Emirates",
+          "partner": "UAE",
           "share_pct": 7.49,
           "value_usd": 1706317996,
           "rank": 6
@@ -906,7 +906,7 @@
           "rank": 8
         },
         {
-          "partner": "United Arab Emirates",
+          "partner": "UAE",
           "share_pct": 2.62,
           "value_usd": 210956919,
           "rank": 9
@@ -928,9 +928,9 @@
       "coverage": {
         "first_month": "2018-01",
         "latest_month": "2026-07",
-        "rows": 1475,
+        "rows": 1480,
         "partner_count": 20,
-        "total_value_usd": 284256261,
+        "total_value_usd": 284256763,
         "updated_at": null
       },
       "total_monthly_points": 103,
@@ -1031,7 +1031,7 @@
           "rank": 7
         },
         {
-          "partner": "Czechia\uff08Czech Republic\uff09",
+          "partner": "Czech Republic",
           "share_pct": 1.35,
           "value_usd": 12108,
           "rank": 8
@@ -1059,9 +1059,9 @@
       "coverage": {
         "first_month": "2018-01",
         "latest_month": "2026-07",
-        "rows": 2929,
+        "rows": 2930,
         "partner_count": 34,
-        "total_value_usd": 6457834246,
+        "total_value_usd": 6457834430,
         "updated_at": null
       },
       "total_monthly_points": 103,

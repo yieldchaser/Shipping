@@ -2046,5 +2046,12 @@
       "derivation": null,
       "notes": "Commercial fleet supply profile across 11 primary asset classes. Synthesizes commercial hulls classified by Signal Ocean orderBookStatusID (status 7 active fleet; status 1 & 2 orderbook as recorded by Signal Ocean; status 8 scrapped ships excluded; status 4, 5, 6 unresolved). Tracking active deadweight, age distribution (including >20y overage demolition pool), scheduled deliveries, and scrubber penetration."
     }
-  ]
+  ],
+  "china_customs_monthly_imports": {
+    "source": "General Administration of Customs (GACC) / chinadata.live",
+    "last_updated": "2026-09-17T07:46:49.813188+00:00",
+    "latest_observation": "2026-07-01",
+    "rows_count": 956,
+    "status": "LIVE"
+  }
 }

@@ -272,20 +272,52 @@ def process_pilbara_iron_ore():
     if miners_file.exists():
         with open(miners_file, "r", encoding="utf-8", errors="ignore") as f:
             r = csv.DictReader(f)
-            for row in r:
-                q = (row.get("quarter") or "").strip()
-                if q:
-                    try:
-                        miners_quarterly.append({
+            fieldnames = r.fieldnames or []
+            if "miner" in fieldnames:
+                # Long format: rows per miner
+                by_q = {}
+                for row in r:
+                    q = (row.get("quarter") or "").strip()
+                    if not q:
+                        continue
+                    if q not in by_q:
+                        by_q[q] = {
                             "quarter": q,
-                            "vale_mt": float(row.get("vale_mt") or 0),
-                            "rio_tinto_mt": float(row.get("rio_tinto_mt") or 0),
-                            "bhp_mt": float(row.get("bhp_mt") or 0),
-                            "fmg_mt": float(row.get("fmg_mt") or 0),
-                            "total_mt": float(row.get("total_major_miners_mt") or 0)
-                        })
-                    except ValueError:
-                        pass
+                            "vale_mt": 0.0,
+                            "rio_tinto_mt": 0.0,
+                            "bhp_mt": 0.0,
+                            "fmg_mt": 0.0,
+                            "total_mt": 0.0,
+                            "provenance": row.get("provenance", "illustrative_prior_estimate")
+                        }
+                    miner = (row.get("miner") or "").strip().lower()
+                    ship = float(row.get("shipments_mt") or row.get("production_mt") or 0)
+                    if "vale" in miner:
+                        by_q[q]["vale_mt"] = ship
+                    elif "rio" in miner:
+                        by_q[q]["rio_tinto_mt"] = ship
+                    elif "bhp" in miner:
+                        by_q[q]["bhp_mt"] = ship
+                    elif "fortescue" in miner or "fmg" in miner:
+                        by_q[q]["fmg_mt"] = ship
+                for q, d in sorted(by_q.items()):
+                    d["total_mt"] = round(d["vale_mt"] + d["rio_tinto_mt"] + d["bhp_mt"] + d["fmg_mt"], 2)
+                    miners_quarterly.append(d)
+            else:
+                for row in r:
+                    q = (row.get("quarter") or "").strip()
+                    if q:
+                        try:
+                            miners_quarterly.append({
+                                "quarter": q,
+                                "vale_mt": float(row.get("vale_mt") or 0),
+                                "rio_tinto_mt": float(row.get("rio_tinto_mt") or 0),
+                                "bhp_mt": float(row.get("bhp_mt") or 0),
+                                "fmg_mt": float(row.get("fmg_mt") or 0),
+                                "total_mt": float(row.get("total_major_miners_mt") or 0)
+                            })
+                        except ValueError:
+                            pass
 
     latest_date = max(hedland_monthly.keys()) if hedland_monthly else datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
@@ -353,8 +385,8 @@ def process_newcastle_coal():
 
     return {
         "provenance": {
-            "source": "Port of Newcastle Operations (portofnewcastle.com.au)",
-            "method": "Harbor Terminal Tonnage Statistics",
+            "source": "Transport for NSW (TfNSW) Open Data / Port of Newcastle Operations",
+            "method": "Harbor Terminal Tonnage Statistics (CKAN)",
             "span": "2018–2026",
             "as_of": latest_date,
             "status": "LIVE",
@@ -529,7 +561,7 @@ def process_usda_grain_inspections():
         "provenance": {
             "source": "USDA Agricultural Marketing Service (AMS FGIS)",
             "method": "Weekly Grain Inspection Database",
-            "span": "2025–2026",
+            "span": "2023–2026",
             "as_of": latest_date,
             "status": "LIVE",
             "unit": "Metric Tonnes (MT)"
@@ -1134,7 +1166,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         "freight_unit": "USD/MT",
         "freight_data": [nc_rates.get(m) for m in recent_months],
         "provenance": {
-            "volume_source": "Port of Newcastle Terminal Operations",
+            "volume_source": "Transport for NSW (TfNSW) Open Data / Port of Newcastle Operations",
             "freight_source": "Fearnleys Continuous Benchmark Rates (Route 10003)",
             "status": "LIVE"
         }
@@ -1157,7 +1189,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
             except ValueError:
                 continue
             gulf_weeks[d[:7]].add(d)
-    gulf_grain_monthly = {m: round(t / 1e6, 2) for m, t in gulf_mt.items() if len(gulf_weeks[m]) >= 4}
+    gulf_grain_monthly = {m: round(t / 1e6, 2) for m, t in gulf_mt.items() if len(gulf_weeks[m]) >= 3 or m == recent_months[-1]}
 
     usg_rates = baltic_rates.get("supramax_usg_japan", {})
     usg_grain_pair = {

@@ -20,7 +20,9 @@ primary_vessel_class is a static factual descriptor of the dominant carrier clas
 """
 import logging
 import os
+import re
 import ssl
+import urllib.parse
 import urllib.request
 from datetime import datetime
 from pathlib import Path
@@ -37,18 +39,54 @@ _CTX = ssl.create_default_context()
 _CTX.check_hostname = False
 _CTX.verify_mode = ssl.CERT_NONE
 
-# June-2026 edition (published Jul-2026; quarterly data through Mar-2026 actuals).
-EDITIONS = [
-    {
-        "tag": "jun2026",
-        "urls": [
-            "https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-jun-2026-historical-data.xlsx",
-            "https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx",
-            "https://web.archive.org/web/20260727061548if_/https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx",
-        ],
-        "cache": ROOT / "scratch" / "req_jun2026_hist.xlsx",
-    },
-]
+def get_candidate_editions() -> list[dict]:
+    """Dynamically discover latest editions from DISR landing page and generate quarterly candidates."""
+    candidates = []
+    now = datetime.now()
+    year = now.year
+
+    # 1. DISR landing page discovery
+    landing_url = "https://www.industry.gov.au/publications/resources-and-energy-quarterly"
+    try:
+        req = urllib.request.Request(landing_url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        with urllib.request.urlopen(req, timeout=15, context=_CTX) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")
+            matches = re.findall(r'href="([^"]*historical-data\.xlsx)"', html, re.IGNORECASE)
+            for m in matches:
+                full_url = urllib.parse.urljoin(landing_url, m)
+                tag_match = re.search(r'(march|june|jun|september|sep|december|dec)[-_](\d{4})', m, re.IGNORECASE)
+                tag = tag_match.group(0).lower().replace("-", "") if tag_match else f"discovered_{year}"
+                candidates.append({
+                    "tag": tag,
+                    "urls": [full_url],
+                    "cache": ROOT / "scratch" / f"req_{tag}_hist.xlsx",
+                })
+    except Exception as e:
+        logging.info("DISR landing page discovery skipped: %s", e)
+
+    # 2. Dynamic quarterly candidate URLs for current and prior years
+    months_map = [
+        ("march", "03", "04"),
+        ("june", "06", "07"),
+        ("september", "09", "10"),
+        ("december", "12", "01"),
+    ]
+    for y in [year, year - 1]:
+        for m_name, q_m, pub_m in months_map:
+            tag = f"{m_name[:3]}{y}"
+            pub_year = y if pub_m != "01" else y + 1
+            urls = [
+                f"https://www.industry.gov.au/sites/default/files/{pub_year}-{pub_m}/resources-and-energy-quarterly-{m_name[:3]}-{y}-historical-data.xlsx",
+                f"https://www.industry.gov.au/sites/default/files/{pub_year}-{pub_m}/resources-and-energy-quarterly-{m_name}-{y}-historical-data.xlsx",
+            ]
+            if tag == "jun2026":
+                urls.append("https://web.archive.org/web/20260727061548if_/https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx")
+            candidates.append({
+                "tag": tag,
+                "urls": urls,
+                "cache": ROOT / "scratch" / f"req_{tag}_hist.xlsx",
+            })
+    return candidates
 
 # Repo-tracked fallback copies (data/cache is committed): CI runners get the real
 # workbook even when industry.gov.au and web.archive.org are both unreachable.
@@ -72,7 +110,7 @@ TARGETS = [
 def _download(url: str, dest: Path) -> bool:
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=120, context=_CTX) as r:
+        with urllib.request.urlopen(req, timeout=10, context=_CTX) as r:
             raw = r.read()
         if len(raw) < 100_000:  # xlsx is ~3.6MB; anything smaller is an error page
             logging.warning("Suspiciously small payload (%d bytes) from %s", len(raw), url[:80])
@@ -89,7 +127,8 @@ def _acquire_workbook() -> tuple[Path, str]:
     tmp = ROOT / "scratch" / "req_live.xlsx"
     tmp.parent.mkdir(exist_ok=True)
     last_err = None
-    for ed in EDITIONS:
+    editions = get_candidate_editions()
+    for ed in editions:
         if ed["cache"].exists() and ed["cache"].stat().st_size > 100_000:
             return ed["cache"], f"{ed['tag']}+cache"
         for u in ed["urls"]:
@@ -100,7 +139,7 @@ def _acquire_workbook() -> tuple[Path, str]:
     # (data/cache is committed precisely so CI runners always have the real file).
     for cand in REPO_CACHES:
         if cand.exists() and cand.stat().st_size > 100_000:
-            return cand, f"{ed['tag']}+repo-cache"
+            return cand, "cached+repo"
     raise SystemExit(f"REQ historical workbook unobtainable ({last_err}). "
                      "NO data written — investigate network or update EDITIONS.")
 

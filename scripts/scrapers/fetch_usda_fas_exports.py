@@ -36,7 +36,7 @@ DATASETS = {
         "name": "USDA FAS Weekly Outstanding Export Sales by Commodity & Country",
         "dir": COMMODITIES_DIR,
         "limit": 10000,
-        "order_by": "date DESC",
+        "order_by": "date DESC, :id",
         "max_rows": 60000,
     },
     "usda_ytd_grain_inspections_top20.csv": {
@@ -44,7 +44,7 @@ DATASETS = {
         "name": "USDA Grain & Soybean Inspections by Top 20 Destinations",
         "dir": COMMODITIES_DIR,
         "limit": 10000,
-        "order_by": "date DESC",
+        "order_by": "date DESC, :id",
         "max_rows": 60000,
     },
 }

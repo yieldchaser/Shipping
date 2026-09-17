@@ -32,7 +32,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pandas beautifulsoup4 lxml openpyxl pymupdf
+          pip install requests pandas beautifulsoup4 lxml openpyxl pymupdf playwright pdfplumber
+          python -m playwright install --with-deps chromium
+          sudo apt-get update && sudo apt-get install -y poppler-utils
 
       - name: Run Upstream Commodity & Congestion Scrapers
         env:
@@ -43,13 +45,21 @@ jobs:
           # Paced, real-data-only scrapers. No `|| true`: a genuine failure must fail
           # the run so it is visible (data-provenance policy, 2026-08-25 audit).
           python scripts/scrapers/fetch_newcastle_coal.py
-          python scripts/scrapers/fetch_ppa_iron_ore.py
+          python scripts/scrapers/fetch_australia_ppa.py
           python scripts/scrapers/fetch_major_miners_production.py
           python scripts/scrapers/fetch_australia_req.py
           python scripts/scrapers/fetch_eia_petroleum_exports.py
           python scripts/scrapers/fetch_portwatch_port_activity.py
           python scripts/scrapers/fetch_eu_ets_carbon.py
-          python scripts/scrapers/fetch_un_comtrade_bauxite.py
+          python scripts/scrapers/fetch_gacc_bauxite_alumina.py
+          python scripts/scrapers/fetch_turkstat_bulk.py
+          # Primary-source minor bulk & demand scrapers
+          python scripts/scrapers/fetch_minor_bulks.py
+          python scripts/scrapers/fetch_world_steel_production.py
+          python scripts/scrapers/fetch_china_customs_demand.py
+          python scripts/scrapers/fetch_argentina_grain.py
+          python scripts/scrapers/fetch_psa_nickel.py
+          python scripts/scrapers/fetch_india_tradestat.py
           # ComexStat is the most rate-limited (MDIC free tier); run LAST and isolated
           # so its 429 backoff does not block the others. A partial run still commits
           # the months it succeeded on (the scraper skips, never fakes).
@@ -62,12 +72,14 @@ jobs:
           # fallback flatline — the generator refuses to fabricate a matrix when no
           # source volumes exist (see generate_ton_mile_matrix.py).
           python scripts/scrapers/generate_ton_mile_matrix.py
+          # Rebuild frontend Cargo & Trade Flows summary cache
+          python scripts/cargo/build_cargo_cache.py
 
       - name: Commit and push if updated
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/commodities/ data/congestion/ data/derived/
+          git add data/commodities/ data/congestion/ data/derived/ data/cargo/ data/provenance/
           git diff --quiet && git diff --staged --quiet && exit 0
           git commit -m "Auto-update upstream commodity flows, port congestion and ton-mile matrix [skip ci]"
           # Concurrent scheduled runs can move main; pull --rebase before pushing

@@ -49,11 +49,15 @@ jobs:
           # Sole writer of data/commodities/usda_grain_vessel_loading_queues.csv.
           # Must not be replaced by fetch_usda_grains.py, whose Socrata source
           # (uiht-9xts) ends in 2020 and would destroy the rebuilt series.
-          python scripts/acquire/fetch_usda_grain_queues.py
+          python scripts/scrapers/fetch_usda_grain_queues.py
+          # FGIS raw certificate backfill (current year) to close Socrata gaps
+          python scripts/scrapers/backfill_fgis_inspections.py $(date +%Y)
+          # Rebuild Cargo & Trade Flows frontend summary cache
+          python scripts/cargo/build_cargo_cache.py
 
       - name: Commit & Push USDA Feeds
         run: |
-          git add data/commodities/ data/derived/ || true
+          git add data/commodities/ data/derived/ data/cargo/ data/provenance/ || true
           if git diff --staged --quiet; then
             echo "No new USDA data changes."
             exit 0

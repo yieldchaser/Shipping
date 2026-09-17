@@ -30857,17 +30857,50 @@ function renderFearnleysSnpTable() {
       var guineaBox = document.getElementById('guineaEmptyStateCard');
 
       if (corridorEl) corridorEl.textContent = pairData.origin + ' → ' + pairData.destination;
-      var lastVol = pairData.volume_data.filter(function(v) { return v !== null; }).slice(-1)[0];
+      var lastVolIdx = -1;
+      for (var i = pairData.volume_data.length - 1; i >= 0; i--) {
+        if (pairData.volume_data[i] !== null && pairData.volume_data[i] !== undefined) {
+          lastVolIdx = i;
+          break;
+        }
+      }
+      var lastVol = lastVolIdx !== -1 ? pairData.volume_data[lastVolIdx] : null;
+      var lastVolMonth = lastVolIdx !== -1 && pairData.months ? pairData.months[lastVolIdx] : null;
+
       var hasFreight = !!pairData.freight_unit && (pairData.freight_data || []).some(function(v) { return v !== null; });
-      var lastRate = hasFreight ? pairData.freight_data.filter(function(v) { return v !== null; }).slice(-1)[0] : null;
+      var lastRateIdx = -1;
+      if (hasFreight && pairData.freight_data) {
+        for (var j = pairData.freight_data.length - 1; j >= 0; j--) {
+          if (pairData.freight_data[j] !== null && pairData.freight_data[j] !== undefined) {
+            lastRateIdx = j;
+            break;
+          }
+        }
+      }
+      var lastRate = lastRateIdx !== -1 ? pairData.freight_data[lastRateIdx] : null;
+      var lastRateMonth = lastRateIdx !== -1 && pairData.months ? pairData.months[lastRateIdx] : null;
+
+      var formatMonthLabel = function(mStr) {
+        if (!mStr) return '';
+        var parts = mStr.split('-');
+        if (parts.length < 2) return mStr;
+        var monthNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        var mIdx = parseInt(parts[1], 10) - 1;
+        return (monthNames[mIdx] || parts[1]) + ' ' + parts[0];
+      };
+
       var fmtRate = function(v) {
         if (v == null) return '';
         if (pairData.freight_unit === '$k/day') return '$' + v + 'k / day';
         if (pairData.freight_unit === 'USD/MT') return '$' + v + ' / MT';
         return v + ' ' + pairData.freight_unit;
       };
-      if (volEl) volEl.textContent = lastVol != null ? lastVol + ' ' + pairData.volume_unit + '/mo' : '—';
-      if (rateEl) rateEl.textContent = hasFreight ? fmtRate(lastRate) : 'No matching route';
+      var fmtVol = (typeof lastVol === 'number') ? (Math.round(lastVol * 100) / 100) : lastVol;
+      var volSuffix = lastVolMonth ? ' (' + formatMonthLabel(lastVolMonth) + ')' : '';
+      var rateSuffix = (lastRateMonth && lastRateMonth !== lastVolMonth) ? ' (' + formatMonthLabel(lastRateMonth) + ')' : '';
+
+      if (volEl) volEl.textContent = lastVol != null ? fmtVol + ' ' + pairData.volume_unit + '/mo' + volSuffix : '—';
+      if (rateEl) rateEl.textContent = hasFreight ? fmtRate(lastRate) + rateSuffix : 'No matching route';
       if (tsidEl && !pairData.route_code) {
         tsidEl.textContent = '—';
         tsidEl.setAttribute('data-tooltip', pairData.freight_note || 'No Baltic benchmark route covers this cargo flow.');
@@ -30906,6 +30939,7 @@ function renderFearnleysSnpTable() {
               borderWidth: 2,
               pointRadius: 2,
               fill: true,
+              spanGaps: true,
               yAxisID: 'yLeft'
             },
           ].concat(hasFreight ? [{
@@ -30916,6 +30950,7 @@ function renderFearnleysSnpTable() {
               borderWidth: 2.5,
               pointRadius: 2.5,
               fill: false,
+              spanGaps: true,
               yAxisID: 'yRight'
             }] : [])
         },
