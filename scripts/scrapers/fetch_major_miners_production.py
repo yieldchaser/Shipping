@@ -4,29 +4,32 @@ Major Global Iron Ore Miners Production & Shipments Scraper (§2.13)
 Writes major_miners_quarterly_shipments.csv from official SEC EDGAR 6-K
 filings and ASX quarterly production PDFs.
 
-Every row carries:
-  provenance       – EDGAR:<accession> or ASX:<docKey>
-  exhibit_url      – direct URL to the exhibit/PDF
-  table_row_label  – exact row label used in the filing table
-  basis            – description of what the figure represents
+Schema:
+  date                      - Calendar quarter end date (YYYY-MM-DD)
+  quarter                   - Quarter name (e.g. 2026 Q2)
+  miner                     - Vale, Rio Tinto, BHP, Fortescue
+  production_mt_100pct      - 100% basis production in Mt
+  production_mt_bhp_share   - BHP share production in Mt (BHP only)
+  shipments_mt_100pct       - 100% basis shipments in Mt
+  shipments_mt_bhp_share    - BHP share sales/shipments in Mt (BHP only)
+  production_mt             - Consistent 100% series where available
+  shipments_mt              - Consistent 100% series where available
+  c1_cash_cost_usd_t        - Quarterly C1 cash cost (USD/t), null if not reported
+  annual_guidance           - Company guidance reported in filing, null if not in filing
+  primary_loading_terminals - Port terminals
+  provenance                - EDGAR:<accession>, ASX:<docKey>, or illustrative_prior_estimate
+  exhibit_url               - Direct URL to filing exhibit or ASX PDF
+  table_row_label           - Exact table row label in the corporate filing
+  basis                     - Description of figure basis
 
-For any value that cannot be live-parsed from its exhibit, the registry
-value is used and basis states the source explicitly.  Historical rows
-where we have no access to the original exhibit are labelled
-illustrative_prior_estimate.
-
-Companies:
-  - Rio Tinto plc  (CIK 0000863064): 6-K Quarterly Operations Reviews.
-      Label: "Total shipments ('000 tonnes)" – 100% basis, includes IOC
-      and Simandou.  Values stored in Mt (divide '000 t by 1 000).
-  - BHP Group Ltd  (CIK 0000811809): 6-K Operational Reviews.
-      WAIO (Western Australia Iron Ore) production, BHP share (86.47%).
-      BHP FY ends 30 June → Q1 = Jul–Sep, Q2 = Oct–Dec, Q3 = Jan–Mar,
-      Q4 = Apr–Jun.  Calendar quarter dates are stored.
-  - Vale S.A.      (CIK 0000917851): 6-K Production and Sales Reports.
-      Iron ore fines production AND iron ore sales (separate fields).
-  - Fortescue Ltd  (ASX: FMG): ASX quarterly production PDFs.
-      "Ore shipped" from ASX quarterly PDF.
+Rules enforced:
+  - All-or-nothing per field: in any filing-provenance row, every numeric
+    field must be read from that filing, or be null.
+  - Rio Tinto: production parsed from filing; C1 is null (no quarterly C1).
+  - BHP: 100% basis and BHP-share in separate columns; WAIO production & sales separate; C1 null.
+  - Vale & Fortescue: C1 only if printed in filing; guidance only if printed.
+  - Fortescue: exact value match required.
+  - Illustrative rows: no '(ref: ...)' references in basis string; c1 and guidance null.
 """
 
 import sys
@@ -57,492 +60,557 @@ ASX_HEADERS = {
 
 # =====================================================================
 # Official Filings Registry
-# Values are sourced directly from the official SEC EDGAR exhibit or
-# ASX PDF listed in exhibit_url.  For Rio Tinto, production_mt is the
-# quarterly production figure and shipments_mt is "Total shipments
-# ('000 tonnes)" from the filing, converted from '000 t to Mt.
-#
-# Rio Tinto 2025 Q2-Q4 and 2026 Q1 values are from accession
-# 0000863064-26-000035 (filed 2026-07-16):
-#   Q2-25: 79,887 kt → 79.887 Mt
-#   Q3-25: 84,346 kt → 84.346 Mt
-#   Q4-25: 91,259 kt → 91.259 Mt
-#   Q1-26: 72,387 kt → 72.387 Mt
 # =====================================================================
 OFFICIAL_FILINGS_REGISTRY = [
     # ------------------------------------------------------------------
-    # 2024 Q1 – 2025 Q1  (historical — exhibit filenames not independently
-    # verified; values are cross-checked against published annual reports
-    # and company press releases but cannot be asserted against a downloaded
-    # exhibit.  Provenance = illustrative_prior_estimate.)
+    # 2024 Q1 (Historical — illustrative_prior_estimate)
     # ------------------------------------------------------------------
     {
         "date": "2024-03-31", "quarter": "2024 Q1", "miner": "Vale",
+        "production_mt_100pct": 70.8, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 63.8, "shipments_mt_bhp_share": None,
         "production_mt": 70.8, "shipments_mt": 63.8,
-        "c1_cash_cost_usd_t": 25.10, "annual_guidance": "310-320 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-24-001150)"
+        "basis": "Iron ore fines; historical estimate"
     },
     {
         "date": "2024-03-31", "quarter": "2024 Q1", "miner": "Rio Tinto",
+        "production_mt_100pct": 77.9, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 78.0, "shipments_mt_bhp_share": None,
         "production_mt": 77.9, "shipments_mt": 78.0,
-        "c1_cash_cost_usd_t": 21.50, "annual_guidance": "323-338 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis; historical estimate (ref: EDGAR 0000863064-24-000013)"
+        "basis": "100% basis; historical estimate"
     },
     {
         "date": "2024-03-31", "quarter": "2024 Q1", "miner": "BHP",
+        "production_mt_100pct": 68.1, "production_mt_bhp_share": 58.0,
+        "shipments_mt_100pct": 69.8, "shipments_mt_bhp_share": 59.5,
         "production_mt": 68.1, "shipments_mt": 69.8,
-        "c1_cash_cost_usd_t": 18.20, "annual_guidance": "250-260 Mt (BHP share)",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-24-099412)"
+        "table_row_label": "WAIO iron ore production",
+        "basis": "WAIO; historical estimate"
     },
     {
         "date": "2024-03-31", "quarter": "2024 Q1", "miner": "Fortescue",
+        "production_mt_100pct": 48.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 43.3, "shipments_mt_bhp_share": None,
         "production_mt": 48.0, "shipments_mt": 43.3,
-        "c1_cash_cost_usd_t": 17.60, "annual_guidance": "192-197 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ref: ASX 2924-02842911)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
+    # ------------------------------------------------------------------
+    # 2024 Q2 (Historical — illustrative_prior_estimate)
+    # ------------------------------------------------------------------
     {
         "date": "2024-06-30", "quarter": "2024 Q2", "miner": "Vale",
+        "production_mt_100pct": 80.6, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 79.8, "shipments_mt_bhp_share": None,
         "production_mt": 80.6, "shipments_mt": 79.8,
-        "c1_cash_cost_usd_t": 24.80, "annual_guidance": "310-320 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-24-002419)"
+        "basis": "Iron ore fines; historical estimate"
     },
     {
         "date": "2024-06-30", "quarter": "2024 Q2", "miner": "Rio Tinto",
+        "production_mt_100pct": 79.5, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 80.3, "shipments_mt_bhp_share": None,
         "production_mt": 79.5, "shipments_mt": 80.3,
-        "c1_cash_cost_usd_t": 21.75, "annual_guidance": "323-338 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis; historical estimate (ref: EDGAR 0000863064-24-000027)"
+        "basis": "100% basis; historical estimate"
     },
     {
         "date": "2024-06-30", "quarter": "2024 Q2", "miner": "BHP",
+        "production_mt_100pct": 76.5, "production_mt_bhp_share": 65.0,
+        "shipments_mt_100pct": 75.9, "shipments_mt_bhp_share": 64.5,
         "production_mt": 76.5, "shipments_mt": 75.9,
-        "c1_cash_cost_usd_t": 18.00, "annual_guidance": "250-260 Mt (BHP share)",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-24-181504)"
+        "table_row_label": "WAIO iron ore production",
+        "basis": "WAIO; historical estimate"
     },
     {
         "date": "2024-06-30", "quarter": "2024 Q2", "miner": "Fortescue",
+        "production_mt_100pct": 54.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 53.7, "shipments_mt_bhp_share": None,
         "production_mt": 54.0, "shipments_mt": 53.7,
-        "c1_cash_cost_usd_t": 17.70, "annual_guidance": "192-197 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ref: ASX 2924-02874102)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
+    # ------------------------------------------------------------------
+    # 2024 Q3 (Historical — illustrative_prior_estimate)
+    # ------------------------------------------------------------------
     {
         "date": "2024-09-30", "quarter": "2024 Q3", "miner": "Vale",
+        "production_mt_100pct": 90.9, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 81.8, "shipments_mt_bhp_share": None,
         "production_mt": 90.9, "shipments_mt": 81.8,
-        "c1_cash_cost_usd_t": 23.70, "annual_guidance": "310-320 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-24-003612)"
+        "basis": "Iron ore fines; historical estimate"
     },
     {
         "date": "2024-09-30", "quarter": "2024 Q3", "miner": "Rio Tinto",
+        "production_mt_100pct": 84.1, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 84.5, "shipments_mt_bhp_share": None,
         "production_mt": 84.1, "shipments_mt": 84.5,
-        "c1_cash_cost_usd_t": 21.60, "annual_guidance": "323-338 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis; historical estimate (ref: EDGAR 0000863064-24-000039)"
+        "basis": "100% basis; historical estimate"
     },
     {
         "date": "2024-09-30", "quarter": "2024 Q3", "miner": "BHP",
+        "production_mt_100pct": 71.6, "production_mt_bhp_share": 61.0,
+        "shipments_mt_100pct": 71.4, "shipments_mt_bhp_share": 60.8,
         "production_mt": 71.6, "shipments_mt": 71.4,
-        "c1_cash_cost_usd_t": 18.15, "annual_guidance": "255-265 Mt (BHP share)",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-24-239102)"
+        "table_row_label": "WAIO iron ore production",
+        "basis": "WAIO; historical estimate"
     },
     {
         "date": "2024-09-30", "quarter": "2024 Q3", "miner": "Fortescue",
+        "production_mt_100pct": 49.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 47.7, "shipments_mt_bhp_share": None,
         "production_mt": 49.0, "shipments_mt": 47.7,
-        "c1_cash_cost_usd_t": 17.80, "annual_guidance": "190-200 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ref: ASX 2924-02905418)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
+    # ------------------------------------------------------------------
+    # 2024 Q4 (Historical — illustrative_prior_estimate)
+    # ------------------------------------------------------------------
     {
         "date": "2024-12-31", "quarter": "2024 Q4", "miner": "Vale",
+        "production_mt_100pct": 89.4, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 87.2, "shipments_mt_bhp_share": None,
         "production_mt": 89.4, "shipments_mt": 87.2,
-        "c1_cash_cost_usd_t": 23.50, "annual_guidance": "310-320 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-25-000318)"
+        "basis": "Iron ore fines; historical estimate"
     },
     {
         "date": "2024-12-31", "quarter": "2024 Q4", "miner": "Rio Tinto",
+        "production_mt_100pct": 86.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 87.1, "shipments_mt_bhp_share": None,
         "production_mt": 86.0, "shipments_mt": 87.1,
-        "c1_cash_cost_usd_t": 21.40, "annual_guidance": "323-338 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis; historical estimate (ref: EDGAR 0000863064-25-000002)"
+        "basis": "100% basis; historical estimate"
     },
     {
         "date": "2024-12-31", "quarter": "2024 Q4", "miner": "BHP",
+        "production_mt_100pct": 72.4, "production_mt_bhp_share": 61.5,
+        "shipments_mt_100pct": 73.2, "shipments_mt_bhp_share": 62.2,
         "production_mt": 72.4, "shipments_mt": 73.2,
-        "c1_cash_cost_usd_t": 18.10, "annual_guidance": "255-265 Mt (BHP share)",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-25-008921)"
+        "table_row_label": "WAIO iron ore production",
+        "basis": "WAIO; historical estimate"
     },
     {
         "date": "2024-12-31", "quarter": "2024 Q4", "miner": "Fortescue",
+        "production_mt_100pct": 50.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 49.4, "shipments_mt_bhp_share": None,
         "production_mt": 50.0, "shipments_mt": 49.4,
-        "c1_cash_cost_usd_t": 17.90, "annual_guidance": "190-200 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ref: ASX 2924-02936701)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
+    # ------------------------------------------------------------------
+    # 2025 Q1 (Historical — illustrative_prior_estimate)
+    # ------------------------------------------------------------------
     {
         "date": "2025-03-31", "quarter": "2025 Q1", "miner": "Vale",
+        "production_mt_100pct": 70.8, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 65.2, "shipments_mt_bhp_share": None,
         "production_mt": 70.8, "shipments_mt": 65.2,
-        "c1_cash_cost_usd_t": 25.30, "annual_guidance": "320-335 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-25-001243)"
+        "basis": "Iron ore fines; historical estimate"
     },
     {
         "date": "2025-03-31", "quarter": "2025 Q1", "miner": "Rio Tinto",
+        "production_mt_100pct": 77.7, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 80.5, "shipments_mt_bhp_share": None,
         "production_mt": 77.7, "shipments_mt": 80.5,
-        "c1_cash_cost_usd_t": 21.80, "annual_guidance": "323-338 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis; historical estimate (ref: EDGAR 0000863064-25-000014)"
+        "basis": "100% basis; historical estimate"
     },
     {
         "date": "2025-03-31", "quarter": "2025 Q1", "miner": "BHP",
+        "production_mt_100pct": 68.1, "production_mt_bhp_share": 57.9,
+        "shipments_mt_100pct": 71.2, "shipments_mt_bhp_share": 60.5,
         "production_mt": 68.1, "shipments_mt": 71.2,
-        "c1_cash_cost_usd_t": 18.40, "annual_guidance": "255-265 Mt (BHP share)",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-25-084201)"
+        "table_row_label": "WAIO iron ore production",
+        "basis": "WAIO; historical estimate"
     },
     {
         "date": "2025-03-31", "quarter": "2025 Q1", "miner": "Fortescue",
+        "production_mt_100pct": 47.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 45.1, "shipments_mt_bhp_share": None,
         "production_mt": 47.0, "shipments_mt": 45.1,
-        "c1_cash_cost_usd_t": 18.30, "annual_guidance": "190-200 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ref: ASX 2924-02967119)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
     # ------------------------------------------------------------------
     # 2025 Q2
-    # Source for Rio 2025 Q2 shipments: filing 0000863064-26-000035
-    # (the 2Q 2026 Operations Review), which lists comparative periods
-    # including Q2 2025: "Total shipments ('000 tonnes)" = 79,887
-    # (i.e. 79.887 Mt).  Production figure 79.5 Mt from the 2025 Q2
-    # filing 0000863064-25-000028 (cross-checked).
-    # Vale/BHP/Fortescue 2025 Q2 exhibit URLs not independently verified.
+    # Rio Tinto: EDGAR:0000863064-26-000035 (2Q26 Operations Review comparative)
+    # Vale: EDGAR:0001292814-26-003838 (2Q26 Production & Sales comparative)
+    # BHP: EDGAR:0001193125-26-306705 (FY26 Operational Review comparative)
+    # Fortescue: illustrative_prior_estimate (02998412 was substantial holder notice)
     # ------------------------------------------------------------------
     {
         "date": "2025-06-30", "quarter": "2025 Q2", "miner": "Vale",
-        "production_mt": 80.6, "shipments_mt": 82.0,
-        "c1_cash_cost_usd_t": 24.90, "annual_guidance": "320-335 Mt",
+        "production_mt_100pct": 83.599, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 77.346, "shipments_mt_bhp_share": None,
+        "production_mt": 83.599, "shipments_mt": 77.346,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
-        "provenance": "illustrative_prior_estimate",
-        "exhibit_url": "",
-        "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-25-002611)"
+        "provenance": "EDGAR:0001292814-26-003838",
+        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426003838/vale20260721_6k1.htm",
+        "table_row_label": "Iron ore (production) / Iron ore (sales)",
+        "basis": "Iron ore production (83,599 kt) and sales (77,346 kt); '000 metric tons; comparative from 2Q26 report"
     },
     {
         "date": "2025-06-30", "quarter": "2025 Q2", "miner": "Rio Tinto",
-        "production_mt": 79.5, "shipments_mt": 79.887,
-        "c1_cash_cost_usd_t": 21.90, "annual_guidance": "323-338 Mt",
+        "production_mt_100pct": 83.743, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 79.887, "shipments_mt_bhp_share": None,
+        "production_mt": 83.743, "shipments_mt": 79.887,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
-        "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis (includes IOC and Simandou); '000 tonnes; comparative period from 2Q26 Operations Review"
+        "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
+        "basis": "Pilbara 100% basis; '000 tonnes converted to Mt; comparative from 2Q26 Operations Review"
     },
     {
         "date": "2025-06-30", "quarter": "2025 Q2", "miner": "BHP",
-        "production_mt": 76.5, "shipments_mt": 78.1,
-        "c1_cash_cost_usd_t": 18.30, "annual_guidance": "255-265 Mt (BHP share)",
+        "production_mt_100pct": None, "production_mt_bhp_share": 68.348,
+        "shipments_mt_100pct": None, "shipments_mt_bhp_share": 67.830,
+        "production_mt": None, "shipments_mt": None,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
-        "provenance": "illustrative_prior_estimate",
-        "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-25-168231)"
+        "provenance": "EDGAR:0001193125-26-306705",
+        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526306705/d212012d6k.htm",
+        "table_row_label": "Western Australia Iron Ore (WAIO)",
+        "basis": "WAIO; BHP share; Jun 2025 quarter production (68,348 kt) and sales (67,830 kt); FY26 Operational Review comparative"
     },
     {
         "date": "2025-06-30", "quarter": "2025 Q2", "miner": "Fortescue",
+        "production_mt_100pct": 55.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 55.4, "shipments_mt_bhp_share": None,
         "production_mt": 55.0, "shipments_mt": 55.4,
-        "c1_cash_cost_usd_t": 18.25, "annual_guidance": "190-200 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
-        "provenance": "ASX:02998412",
-        "exhibit_url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02998412",
+        "provenance": "illustrative_prior_estimate",
+        "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped; wet metric tonnes (wmt)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
     # ------------------------------------------------------------------
     # 2025 Q3
-    # Source for Rio 2025 Q3 shipments: filing 0000863064-26-000035
-    # "Total shipments ('000 tonnes)" Q3 2025 = 84,346 → 84.346 Mt
-    # Vale/BHP/Fortescue 2025 Q3 exhibit URLs not independently verified.
+    # Rio Tinto: EDGAR:0000863064-26-000035 (comparative)
+    # BHP: EDGAR:0001193125-26-306705 (comparative: Sep 2025)
+    # Vale & Fortescue: illustrative_prior_estimate
     # ------------------------------------------------------------------
     {
         "date": "2025-09-30", "quarter": "2025 Q3", "miner": "Vale",
+        "production_mt_100pct": 90.9, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 84.5, "shipments_mt_bhp_share": None,
         "production_mt": 90.9, "shipments_mt": 84.5,
-        "c1_cash_cost_usd_t": 23.60, "annual_guidance": "320-335 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-25-003891)"
+        "basis": "Iron ore fines; historical estimate"
     },
     {
         "date": "2025-09-30", "quarter": "2025 Q3", "miner": "Rio Tinto",
-        "production_mt": 84.1, "shipments_mt": 84.346,
-        "c1_cash_cost_usd_t": 21.70, "annual_guidance": "323-338 Mt",
+        "production_mt_100pct": 84.104, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 84.346, "shipments_mt_bhp_share": None,
+        "production_mt": 84.104, "shipments_mt": 84.346,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
-        "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis (includes IOC and Simandou); '000 tonnes; comparative period from 2Q26 Operations Review"
+        "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
+        "basis": "Pilbara 100% basis; '000 tonnes converted to Mt; comparative from 2Q26 Operations Review"
     },
     {
         "date": "2025-09-30", "quarter": "2025 Q3", "miner": "BHP",
-        "production_mt": 71.6, "shipments_mt": 74.0,
-        "c1_cash_cost_usd_t": 18.20, "annual_guidance": "255-265 Mt (BHP share)",
+        "production_mt_100pct": None, "production_mt_bhp_share": 62.015,
+        "shipments_mt_100pct": None, "shipments_mt_bhp_share": 62.430,
+        "production_mt": None, "shipments_mt": None,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
-        "provenance": "illustrative_prior_estimate",
-        "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-25-241512)"
+        "provenance": "EDGAR:0001193125-26-306705",
+        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526306705/d212012d6k.htm",
+        "table_row_label": "Western Australia Iron Ore (WAIO)",
+        "basis": "WAIO; BHP share; Sep 2025 quarter production (62,015 kt) and sales (62,430 kt); FY26 Operational Review comparative"
     },
     {
         "date": "2025-09-30", "quarter": "2025 Q3", "miner": "Fortescue",
+        "production_mt_100pct": 50.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 49.8, "shipments_mt_bhp_share": None,
         "production_mt": 50.0, "shipments_mt": 49.8,
-        "c1_cash_cost_usd_t": 18.40, "annual_guidance": "192-200 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ref: ASX 2924-03028114)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
     # ------------------------------------------------------------------
     # 2025 Q4
-    # Source for Rio 2025 Q4 shipments: filing 0000863064-26-000035
-    # "Total shipments ('000 tonnes)" Q4 2025 = 91,259 → 91.259 Mt
-    # Vale/BHP/Fortescue 2025 Q4 exhibit URLs not independently verified.
-    # Fortescue Q2 FY2026 (Dec 2025 quarter): research confirmed 50.5 Mt
-    # shipped; docKey 03058890 confirmed correct; stored value corrected.
+    # Rio Tinto: EDGAR:0000863064-26-000035 (comparative)
+    # BHP: EDGAR:0001193125-26-306705 (comparative: Dec 2025)
+    # Vale & Fortescue: illustrative_prior_estimate
     # ------------------------------------------------------------------
     {
         "date": "2025-12-31", "quarter": "2025 Q4", "miner": "Vale",
+        "production_mt_100pct": 89.4, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 89.9, "shipments_mt_bhp_share": None,
         "production_mt": 89.4, "shipments_mt": 89.9,
-        "c1_cash_cost_usd_t": 23.40, "annual_guidance": "320-335 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-26-000412)"
+        "basis": "Iron ore fines; historical estimate"
     },
     {
         "date": "2025-12-31", "quarter": "2025 Q4", "miner": "Rio Tinto",
-        "production_mt": 87.5, "shipments_mt": 91.259,
-        "c1_cash_cost_usd_t": 21.50, "annual_guidance": "323-338 Mt",
+        "production_mt_100pct": 89.674, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 91.259, "shipments_mt_bhp_share": None,
+        "production_mt": 89.674, "shipments_mt": 91.259,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
-        "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis (includes IOC and Simandou); '000 tonnes; comparative period from 2Q26 Operations Review"
+        "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
+        "basis": "Pilbara 100% basis; '000 tonnes converted to Mt; comparative from 2Q26 Operations Review"
     },
     {
         "date": "2025-12-31", "quarter": "2025 Q4", "miner": "BHP",
-        "production_mt": 72.8, "shipments_mt": 72.8,
-        "c1_cash_cost_usd_t": 18.10, "annual_guidance": "255-265 Mt (BHP share)",
+        "production_mt_100pct": None, "production_mt_bhp_share": 67.766,
+        "shipments_mt_100pct": None, "shipments_mt_bhp_share": 66.909,
+        "production_mt": None, "shipments_mt": None,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
-        "provenance": "illustrative_prior_estimate",
-        "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-26-015822)"
+        "provenance": "EDGAR:0001193125-26-306705",
+        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526306705/d212012d6k.htm",
+        "table_row_label": "Western Australia Iron Ore (WAIO)",
+        "basis": "WAIO; BHP share; Dec 2025 quarter production (67,766 kt) and sales (66,909 kt); FY26 Operational Review comparative"
     },
     {
         "date": "2025-12-31", "quarter": "2025 Q4", "miner": "Fortescue",
+        "production_mt_100pct": 51.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 50.5, "shipments_mt_bhp_share": None,
         "production_mt": 51.0, "shipments_mt": 50.5,
-        "c1_cash_cost_usd_t": 18.50, "annual_guidance": "192-200 Mt",
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "illustrative_prior_estimate",
         "exhibit_url": "",
         "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ASX docKey 03058890 maps to Kuniko Ltd — Fortescue Q2 FY2026 docKey not found)"
+        "basis": "Ore shipped wmt; historical estimate"
     },
 
     # ------------------------------------------------------------------
     # 2026 Q1
-    # Source for Rio 2026 Q1 shipments: filing 0000863064-26-000035 ✅ VERIFIED
-    # "Total shipments ('000 tonnes)" Q1 2026 = 72,387 → 72.387 Mt
-    # Vale/BHP/Fortescue: exhibit URLs not independently verified (EDGAR
-    # index returns 404 for guessed accessions; ASX docKeys resolve to
-    # unrelated companies). Marked illustrative_prior_estimate.
+    # Rio Tinto: EDGAR:0000863064-26-000035 (comparative)
+    # Vale: EDGAR:0001292814-26-003838 (comparative: 1Q26)
+    # BHP: EDGAR:0001193125-26-306705 (comparative: Mar 2026)
+    # Fortescue: illustrative_prior_estimate
     # ------------------------------------------------------------------
     {
         "date": "2026-03-31", "quarter": "2026 Q1", "miner": "Vale",
-        "production_mt": 70.8, "shipments_mt": 63.8,
-        "c1_cash_cost_usd_t": 24.80, "annual_guidance": "325-335 Mt",
-        "primary_loading_terminals": "Ponta da Madeira, Tubarão",
-        "provenance": "illustrative_prior_estimate",
-        "exhibit_url": "",
-        "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines; historical estimate (ref: EDGAR 0001292814-26-002102 — index 404)"
-    },
-    {
-        "date": "2026-03-31", "quarter": "2026 Q1", "miner": "Rio Tinto",
-        "production_mt": 77.9, "shipments_mt": 72.387,
-        "c1_cash_cost_usd_t": 21.70, "annual_guidance": "323-338 Mt",
-        "primary_loading_terminals": "Dampier, Cape Lambert",
-        "provenance": "EDGAR:0000863064-26-000035",
-        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
-        "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis (includes IOC and Simandou); '000 tonnes; comparative period from 2Q26 Operations Review"
-    },
-    {
-        "date": "2026-03-31", "quarter": "2026 Q1", "miner": "BHP",
-        "production_mt": 70.3, "shipments_mt": 70.3,
-        "c1_cash_cost_usd_t": 18.30, "annual_guidance": "255-265 Mt (BHP share)",
-        "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
-        "provenance": "illustrative_prior_estimate",
-        "exhibit_url": "",
-        "table_row_label": "WAIO iron ore production (BHP share)",
-        "basis": "WAIO; BHP share; historical estimate (ref: EDGAR 0001193125-26-174828 — index 404)"
-    },
-    {
-        "date": "2026-03-31", "quarter": "2026 Q1", "miner": "Fortescue",
-        "production_mt": 47.0, "shipments_mt": 43.3,
-        "c1_cash_cost_usd_t": 18.90, "annual_guidance": "192-200 Mt",
-        "primary_loading_terminals": "Port Hedland (Herb Elliott)",
-        "provenance": "illustrative_prior_estimate",
-        "exhibit_url": "",
-        "table_row_label": "Ore shipped",
-        "basis": "Ore shipped wmt; historical estimate (ASX docKey 03088711 maps to OpenLearning Ltd — Fortescue Q3 FY2026 docKey not found)"
-    },
-
-    # ------------------------------------------------------------------
-    # 2026 Q2  (most recent completed quarter)
-    # Rio Tinto: accession 0000863064-26-000035, filed 2026-07-16
-    #   "Total shipments ('000 tonnes)" Q2 2026 = 85,264 → 85.264 Mt
-    #   (Note: CSV previously had 85.3 Mt rounded; corrected to 85.264)
-    # Vale: accession 0001292814-26-003838 (Production and Sales Report)
-    #   Iron ore fines production 2Q26 = 84,255 kt → 84.255 Mt
-    #   Iron ore sales 2Q26 = 79,747 kt → 79.747 Mt
-    # BHP: accession 0001193125-26-306705 (FY26 Operational Review)
-    #   WAIO total (100% basis) = 74.8 Mt; BHP share shown separately
-    # Fortescue: ASX docKey 03116249
-    # ------------------------------------------------------------------
-    {
-        "date": "2026-06-30", "quarter": "2026 Q2", "miner": "Vale",
-        "production_mt": 84.255, "shipments_mt": 79.747,
-        "c1_cash_cost_usd_t": 24.10, "annual_guidance": "325-335 Mt",
+        "production_mt_100pct": 69.675, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 68.713, "shipments_mt_bhp_share": None,
+        "production_mt": 69.675, "shipments_mt": 68.713,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Ponta da Madeira, Tubarão",
         "provenance": "EDGAR:0001292814-26-003838",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426003838/vale20260721_6k1.htm",
-        "table_row_label": "Iron ore fines (production / sales)",
-        "basis": "Iron ore fines production (84,255 kt) and sales (79,747 kt); '000 metric tonnes; 2Q26 Production and Sales Report"
+        "table_row_label": "Iron ore (production) / Iron ore (sales)",
+        "basis": "Iron ore production (69,675 kt) and sales (68,713 kt); '000 metric tons; comparative from 2Q26 report"
     },
     {
-        "date": "2026-06-30", "quarter": "2026 Q2", "miner": "Rio Tinto",
-        "production_mt": 83.5, "shipments_mt": 85.264,
-        "c1_cash_cost_usd_t": 21.80, "annual_guidance": "323-338 Mt",
+        "date": "2026-03-31", "quarter": "2026 Q1", "miner": "Rio Tinto",
+        "production_mt_100pct": 78.813, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 72.387, "shipments_mt_bhp_share": None,
+        "production_mt": 78.813, "shipments_mt": 72.387,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Dampier, Cape Lambert",
         "provenance": "EDGAR:0000863064-26-000035",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
-        "table_row_label": "Total shipments ('000 tonnes)",
-        "basis": "100% basis (includes IOC and Simandou); '000 tonnes; 2Q26 Operations Review"
+        "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
+        "basis": "Pilbara 100% basis; '000 tonnes converted to Mt; comparative from 2Q26 Operations Review"
     },
     {
-        "date": "2026-06-30", "quarter": "2026 Q2", "miner": "BHP",
-        "production_mt": 74.8, "shipments_mt": 74.8,
-        "c1_cash_cost_usd_t": 18.20, "annual_guidance": "255-265 Mt (BHP share)",
+        "date": "2026-03-31", "quarter": "2026 Q1", "miner": "BHP",
+        "production_mt_100pct": None, "production_mt_bhp_share": 60.922,
+        "shipments_mt_100pct": None, "shipments_mt_bhp_share": 58.608,
+        "production_mt": None, "shipments_mt": None,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
         "provenance": "EDGAR:0001193125-26-306705",
         "exhibit_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526306705/d212012d6k.htm",
-        "table_row_label": "WAIO iron ore production (100% basis)",
-        "basis": "WAIO 100% basis; Jun 2026 quarter; BHP share ~64.9 Mt; FY26 total 291.2 Mt"
+        "table_row_label": "Western Australia Iron Ore (WAIO)",
+        "basis": "WAIO; BHP share; Mar 2026 quarter production (60,922 kt) and sales (58,608 kt); FY26 Operational Review comparative"
+    },
+    {
+        "date": "2026-03-31", "quarter": "2026 Q1", "miner": "Fortescue",
+        "production_mt_100pct": 47.0, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 43.3, "shipments_mt_bhp_share": None,
+        "production_mt": 47.0, "shipments_mt": 43.3,
+        "c1_cash_cost_usd_t": None, "annual_guidance": None,
+        "primary_loading_terminals": "Port Hedland (Herb Elliott)",
+        "provenance": "illustrative_prior_estimate",
+        "exhibit_url": "",
+        "table_row_label": "Ore shipped",
+        "basis": "Ore shipped wmt; historical estimate"
+    },
+
+    # ------------------------------------------------------------------
+    # 2026 Q2  (All 4 miners verified from official primary filings)
+    # ------------------------------------------------------------------
+    {
+        "date": "2026-06-30", "quarter": "2026 Q2", "miner": "Vale",
+        "production_mt_100pct": 84.255, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 79.747, "shipments_mt_bhp_share": None,
+        "production_mt": 84.255, "shipments_mt": 79.747,
+        "c1_cash_cost_usd_t": None, "annual_guidance": "335-345 Mt",
+        "primary_loading_terminals": "Ponta da Madeira, Tubarão",
+        "provenance": "EDGAR:0001292814-26-003838",
+        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426003838/vale20260721_6k1.htm",
+        "table_row_label": "Iron ore (production) / Iron ore (sales)",
+        "basis": "Iron ore production (84,255 kt) and sales (79,747 kt); '000 metric tons; 2Q26 Production and Sales Report"
+    },
+    {
+        "date": "2026-06-30", "quarter": "2026 Q2", "miner": "Rio Tinto",
+        "production_mt_100pct": 83.491, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 85.264, "shipments_mt_bhp_share": None,
+        "production_mt": 83.491, "shipments_mt": 85.264,
+        "c1_cash_cost_usd_t": None, "annual_guidance": "323-338 Mt",
+        "primary_loading_terminals": "Dampier, Cape Lambert",
+        "provenance": "EDGAR:0000863064-26-000035",
+        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000035/ex991results.htm",
+        "table_row_label": "Total production ('000 tonnes) / Total shipments ('000 tonnes)",
+        "basis": "Pilbara 100% basis; '000 tonnes converted to Mt; 2Q26 Operations Review"
+    },
+    {
+        "date": "2026-06-30", "quarter": "2026 Q2", "miner": "BHP",
+        "production_mt_100pct": 74.8, "production_mt_bhp_share": 66.174,
+        "shipments_mt_100pct": 74.8, "shipments_mt_bhp_share": 66.430,
+        "production_mt": 74.8, "shipments_mt": 74.8,
+        "c1_cash_cost_usd_t": None, "annual_guidance": "251-262 Mt (BHP share)",
+        "primary_loading_terminals": "Port Hedland (Nelson Point, Finucane)",
+        "provenance": "EDGAR:0001193125-26-306705",
+        "exhibit_url": "https://www.sec.gov/Archives/edgar/data/811809/000119312526306705/d212012d6k.htm",
+        "table_row_label": "WAIO (100% basis) (Mt) / Western Australia Iron Ore (WAIO)",
+        "basis": "WAIO 100% basis (74.8 Mt) & BHP share Jun 2026 production (66,174 kt) and sales (66,430 kt); FY26 Operational Review"
     },
     {
         "date": "2026-06-30", "quarter": "2026 Q2", "miner": "Fortescue",
-        "production_mt": 53.0, "shipments_mt": 52.7,
-        "c1_cash_cost_usd_t": 19.37, "annual_guidance": "190-200 Mt",
+        "production_mt_100pct": 64.9, "production_mt_bhp_share": None,
+        "shipments_mt_100pct": 52.7, "shipments_mt_bhp_share": 51.8,
+        "production_mt": 64.9, "shipments_mt": 52.7,
+        "c1_cash_cost_usd_t": 19.37, "annual_guidance": "197-207 Mt",
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
         "provenance": "ASX:03116249",
         "exhibit_url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03116249",
-        "table_row_label": "Ore shipped",
-        "basis": "Ore shipped; wet metric tonnes (wmt)"
+        "table_row_label": "Total ore shipped / Hematite C1 unit cost",
+        "basis": "Ore shipped 100% basis (52.7 Mt) and Fortescue share (51.8 Mt); Total ore mined 64.9 Mt; Hematite C1 US$19.37/wmt; FY27 guidance 197-207 Mt"
     },
 ]
 
 CSV_COLUMNS = [
-    "date", "quarter", "miner", "production_mt", "shipments_mt",
+    "date", "quarter", "miner",
+    "production_mt_100pct", "production_mt_bhp_share",
+    "shipments_mt_100pct", "shipments_mt_bhp_share",
+    "production_mt", "shipments_mt",
     "c1_cash_cost_usd_t", "annual_guidance", "primary_loading_terminals",
     "provenance", "exhibit_url", "table_row_label", "basis"
 ]
 
 
 # =====================================================================
-# SEC EDGAR 6-K Pipeline (Vale, Rio Tinto, BHP) — used to detect NEW
-# quarterly filings filed after the registry was last updated.
+# SEC EDGAR 6-K Pipeline (Vale, Rio Tinto, BHP)
 # =====================================================================
 def fetch_sec_filings(cik: str, name: str) -> list[dict]:
-    """Fetch recent 6-K submissions for a given CIK from SEC EDGAR."""
     padded_cik = cik.zfill(10)
     url = f"https://data.sec.gov/submissions/CIK{padded_cik}.json"
     logger.info(f"Checking SEC EDGAR filings for {name} (CIK {padded_cik})...")
@@ -553,38 +621,26 @@ def fetch_sec_filings(cik: str, name: str) -> list[dict]:
             recent = data.get("filings", {}).get("recent", {})
             forms = recent.get("form", [])
             filing_dates = recent.get("filingDate", [])
-            descriptions = recent.get("primaryDocDescription", [])
             accessions = recent.get("accessionNumber", [])
-            primary_docs = recent.get("primaryDocument", [])
-
             results = []
             for i, form in enumerate(forms):
-                if form in ("6-K", "6-K/A"):
-                    desc = descriptions[i] if i < len(descriptions) else ""
-                    acc = accessions[i] if i < len(accessions) else ""
-                    pdoc = primary_docs[i] if i < len(primary_docs) else ""
+                if form == "6-K":
                     results.append({
-                        "cik": padded_cik,
                         "company": name,
-                        "form": form,
-                        "filing_date": filing_dates[i],
-                        "description": desc,
-                        "accession": acc,
-                        "primary_doc": pdoc,
-                        "doc_url": f"https://www.sec.gov/Archives/edgar/data/{int(cik)}/{acc.replace('-', '')}/{pdoc}"
+                        "date": filing_dates[i],
+                        "accession": accessions[i]
                     })
             logger.info(f"Found {len(results)} 6-K filings for {name}")
-            return results
+            return results[:5]
     except Exception as e:
         logger.warning(f"Error fetching SEC filings for {name}: {e}")
         return []
 
 
 # =====================================================================
-# ASX Announcements Pipeline (Fortescue) — detect NEW PDFs
+# ASX Announcements Pipeline (Fortescue)
 # =====================================================================
 def fetch_asx_announcements(ticker: str = "fmg") -> list[dict]:
-    """Fetch recent announcements for Fortescue from the ASX API."""
     url = f"https://asx.api.markitdigital.com/asx-research/1.0/companies/{ticker.lower()}/announcements?count=20"
     logger.info(f"Checking ASX announcements for {ticker.upper()}...")
     req = urllib.request.Request(url, headers=ASX_HEADERS)
@@ -594,16 +650,13 @@ def fetch_asx_announcements(ticker: str = "fmg") -> list[dict]:
             items = data.get("data", {}).get("items", [])
             results = []
             for it in items:
-                headline = it.get("headline", "")
-                date_str = it.get("date", "")
-                doc_key = it.get("documentKey", "")
                 results.append({
                     "ticker": ticker.upper(),
                     "company": "Fortescue",
-                    "headline": headline,
-                    "date": date_str,
-                    "documentKey": doc_key,
-                    "pdf_url": f"https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/{doc_key}"
+                    "headline": it.get("headline", ""),
+                    "date": it.get("date", ""),
+                    "documentKey": it.get("documentKey", ""),
+                    "pdf_url": f"https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/{it.get('documentKey')}"
                 })
             logger.info(f"Found {len(results)} ASX announcements for {ticker.upper()}")
             return results
@@ -618,16 +671,11 @@ def fetch_asx_announcements(ticker: str = "fmg") -> list[dict]:
 def main():
     logger.info("=== Major Global Iron Ore Miners Production & Shipments (§2.13) ===")
 
-    # 1. Check for new SEC filings (detect new quarters not in registry)
+    # 1. Check for new SEC filings (audit log only)
     fetch_sec_filings("0000917851", "Vale")
     fetch_sec_filings("0000863064", "Rio Tinto")
     fetch_sec_filings("0000811809", "BHP")
     fetch_asx_announcements("fmg")
-    # NOTE: new quarters found by the above would require a registry update
-    # and a rerun of verify_miners_provenance.py. The registry is the
-    # authoritative source of truth; live-parsing of arbitrary new filings
-    # is not done here because the verifier must be able to independently
-    # confirm every row before it is committed.
 
     # 2. Build output DataFrame directly from the official registry
     registry_df = pd.DataFrame(OFFICIAL_FILINGS_REGISTRY)
@@ -649,10 +697,12 @@ def main():
         f"Wrote {len(registry_df)} rows to {OUT_FILE} "
         f"with strict filing provenance (EDGAR / ASX)."
     )
-    logger.info("Rio Tinto 2025 Q2 shipments: %.3f Mt", registry_df.loc[(registry_df["miner"] == "Rio Tinto") & (registry_df["quarter"] == "2025 Q2"), "shipments_mt"].iloc[0])
-    logger.info("Rio Tinto 2025 Q3 shipments: %.3f Mt", registry_df.loc[(registry_df["miner"] == "Rio Tinto") & (registry_df["quarter"] == "2025 Q3"), "shipments_mt"].iloc[0])
-    logger.info("Rio Tinto 2025 Q4 shipments: %.3f Mt", registry_df.loc[(registry_df["miner"] == "Rio Tinto") & (registry_df["quarter"] == "2025 Q4"), "shipments_mt"].iloc[0])
-    logger.info("Rio Tinto 2026 Q1 shipments: %.3f Mt", registry_df.loc[(registry_df["miner"] == "Rio Tinto") & (registry_df["quarter"] == "2026 Q1"), "shipments_mt"].iloc[0])
+
+    verified_count = len(registry_df[registry_df["provenance"] != "illustrative_prior_estimate"])
+    illustrative_count = len(registry_df[registry_df["provenance"] == "illustrative_prior_estimate"])
+    logger.info("Filing-verified rows: %d | Illustrative prior estimates: %d (Total %d)",
+                verified_count, illustrative_count, len(registry_df))
+
     return registry_df
 
 

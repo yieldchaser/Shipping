@@ -153,6 +153,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/verify/check_data_freshness.py --create-issue
 
+      - name: Verify Miners Provenance
+        run: python scripts/verify/verify_miners_provenance.py
+
       - name: Validate Commodity Data Quality & Provenance
         run: python scripts/verify/validate_cargo_data.py
 

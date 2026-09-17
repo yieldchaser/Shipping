@@ -10,6 +10,18 @@ Enforces zero tolerance for:
   - Missing or placeholder provenance
   - Duplicate keys on time-series records
   - Outliers outside 0.2x–5.0x trailing 12-month median
+  - Complete coverage of every #tab-cargo dataset:
+      * Guinea Bauxite (exports & partner USD)
+      * Minor Bulks Monthly (Alumina, Urea, Nickel, Cement, Scrap)
+      * World Crude Steel Monthly
+      * Major Miners Quarterly Shipments (all-or-nothing numeric fields, clean basis)
+      * Argentina Grain Exports Monthly
+      * Indonesia Coal Exports Monthly (BPS 2026-07 = 38.94 Mt check)
+      * Australia REQ Commodity Exports
+      * USDA FGIS Inspections (>= 77,695 rows)
+      * USDA FAS Outstanding Export Sales
+      * USDA Grain Vessel Queues
+      * China Customs Monthly Imports (HS 2601 iron ore demand)
 """
 
 import sys
@@ -108,7 +120,7 @@ def validate_guinea_bauxite():
 
 
 # =====================================================================
-# 2. Minor Bulks Monthly Validation (Alumina, Urea, etc.)
+# 2. Minor Bulks Monthly Validation (Alumina, Urea, Nickel, Cement, Scrap)
 # =====================================================================
 def validate_minor_bulks():
     fname = "minor_bulks_monthly.csv"
@@ -225,18 +237,35 @@ def validate_major_miners():
     for idx, r in df.iterrows():
         m = r["miner"]
         q = r["quarter"]
-        ship = r.get("shipments_mt")
-        prod = r.get("production_mt")
         prov = str(r.get("provenance", "")).strip()
 
-        if pd.isna(ship) or float(ship) <= 0:
-            record_error(fname, "INVALID_SHIPMENTS", f"{m} {q} shipments missing or non-positive: {ship}")
-        if pd.isna(prod) or float(prod) <= 0:
-            record_error(fname, "INVALID_PRODUCTION", f"{m} {q} production missing or non-positive: {prod}")
+        # Shipments: must have at least one valid positive figure (100%, share, or shipments_mt)
+        s100 = r.get("shipments_mt_100pct")
+        sshare = r.get("shipments_mt_bhp_share")
+        ship = r.get("shipments_mt")
+        has_ship = any(pd.notna(x) and str(x).strip() not in ("", "null", "nan", "None") and float(x) > 0 
+                       for x in [s100, sshare, ship])
+        if not has_ship:
+            record_error(fname, "INVALID_SHIPMENTS", f"{m} {q} shipments missing or non-positive: ship={ship}, 100={s100}, share={sshare}")
+
+        # Production: must have at least one valid positive figure
+        p100 = r.get("production_mt_100pct")
+        pshare = r.get("production_mt_bhp_share")
+        prod = r.get("production_mt")
+        has_prod = any(pd.notna(x) and str(x).strip() not in ("", "null", "nan", "None") and float(x) > 0 
+                       for x in [p100, pshare, prod])
+        if not has_prod:
+            record_error(fname, "INVALID_PRODUCTION", f"{m} {q} production missing or non-positive: prod={prod}, 100={p100}, share={pshare}")
 
         # Provenance check
         if not (prov.startswith("EDGAR:") or prov.startswith("ASX:") or prov == "illustrative_prior_estimate"):
             record_error(fname, "INVALID_PROVENANCE", f"{m} {q} invalid provenance: '{prov}'")
+
+        # Illustrative rows must have clean basis (no "(ref: ...)" unverified citations)
+        if prov == "illustrative_prior_estimate":
+            basis = str(r.get("basis", ""))
+            if "(ref:" in basis.lower():
+                record_error(fname, "ILLUSTRATIVE_HAS_REF", f"{m} {q} basis still contains unverified '(ref: ...)' citation: {basis}")
 
     # Check duplicates on (miner, quarter)
     dups = df[df.duplicated(subset=["miner", "quarter"], keep=False)]
@@ -245,7 +274,223 @@ def validate_major_miners():
 
 
 # =====================================================================
-# 5. Outlier Detection Across Time Series (0.2x to 5.0x Rolling 12m Median)
+# 5. Argentina Grain Validation
+# =====================================================================
+def validate_argentina_grain():
+    fname = "argentina_grain_exports_monthly.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        record_error(fname, "FILE_EXISTS", "File not found")
+        return
+
+    df = pd.read_csv(fpath)
+    dates = pd.to_datetime(df["date"], errors="coerce")
+    future = df[dates > pd.Timestamp(TODAY)]
+    if not future.empty:
+        record_error(fname, "NO_FUTURE_DATES", f"Found future dates: {list(future['date'])}")
+
+    zeros = df[pd.to_numeric(df["total_grain_mt"], errors="coerce").fillna(0) <= 0]
+    if not zeros.empty:
+        record_error(fname, "NO_ZEROS", f"Zero/null total_grain_mt at dates: {list(zeros['date'])}")
+
+    dups = df[df.duplicated(subset=["date"], keep=False)]
+    if not dups.empty:
+        record_error(fname, "NO_DUPLICATES", f"Duplicate date rows found: {list(dups['date'].unique())}")
+    logger.info("  [OK] argentina_grain: %d rows, latest %s = %.3f Mt", len(df), df["date"].max(), float(df["total_grain_mt"].iloc[-1]))
+
+
+# =====================================================================
+# 6. Indonesia Coal Validation (BPS 2026-07 = 38.94 Mt)
+# =====================================================================
+def validate_indonesia_coal():
+    fname = "indonesia_coal_exports_monthly.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        record_error(fname, "FILE_EXISTS", "File not found")
+        return
+
+    df = pd.read_csv(fpath)
+    row_2026_07 = df[df["date"].astype(str).str.startswith("2026-07")]
+    if row_2026_07.empty:
+        record_error(fname, "2026_07_MISSING", "2026-07 row missing from Indonesia coal CSV")
+    else:
+        val = float(row_2026_07["volume_mt"].iloc[0])
+        if abs(val - 38.94) > 0.05:
+            record_error(fname, "2026_07_VALUE", f"Expected 38.94 Mt (±0.05) for 2026-07, got {val:.2f} Mt")
+        else:
+            logger.info("  [OK] indonesia_coal: 2026-07 confirmed at %.2f Mt (matches BPS)", val)
+
+    dates = pd.to_datetime(df["date"], errors="coerce")
+    future = df[dates > pd.Timestamp(TODAY)]
+    if not future.empty:
+        record_error(fname, "NO_FUTURE_DATES", f"Found future dates: {list(future['date'])}")
+
+    zeros = df[pd.to_numeric(df["volume_mt"], errors="coerce").fillna(0) <= 0]
+    if not zeros.empty:
+        record_error(fname, "NO_ZEROS", f"Zero/null volume_mt rows: {list(zeros['date'])}")
+
+    dups = df[df.duplicated(subset=["date"], keep=False)]
+    if not dups.empty:
+        record_error(fname, "NO_DUPLICATES", f"Duplicate date rows found: {list(dups['date'].unique())}")
+
+
+# =====================================================================
+# 7. Australia REQ Validation
+# =====================================================================
+def validate_australia_req():
+    fname = "australia_req_commodity_exports.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        fname = "australia_req_exports.csv"
+        fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        record_error("australia_req_*.csv", "FILE_EXISTS", "Neither australia_req_commodity_exports.csv nor australia_req_exports.csv found")
+        return
+
+    df = pd.read_csv(fpath)
+    if len(df) == 0:
+        record_error(fname, "EMPTY", "REQ file is empty")
+        return
+    logger.info("  [OK] australia_req: %s verified with %d rows", fname, len(df))
+
+
+# =====================================================================
+# 8. USDA FGIS Inspections Validation (>= 77,695 rows)
+# =====================================================================
+def validate_usda_inspections():
+    fname = "usda_ytd_grain_inspections_top20.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        record_error(fname, "FILE_EXISTS", "File not found")
+        return
+
+    df = pd.read_csv(fpath, low_memory=False)
+    row_count = len(df)
+    if row_count < 77695:
+        record_error(fname, "ROW_COUNT_TOO_LOW", f"Expected >= 77,695 rows without deduplication, got {row_count:,}")
+    else:
+        logger.info("  [OK] usda_inspections: verified %d rows (>= 77,695 threshold)", row_count)
+
+
+# =====================================================================
+# 9. USDA FAS Export Sales & Vessel Queues Validation
+# =====================================================================
+def validate_usda_fas_and_queues():
+    # FAS sales
+    fname_fas = "usda_fas_outstanding_export_sales.csv"
+    fpath_fas = COMMODITIES_DIR / fname_fas
+    if not fpath_fas.exists():
+        record_error(fname_fas, "FILE_EXISTS", "File not found")
+    else:
+        df = pd.read_csv(fpath_fas, nrows=10)
+        if len(df) == 0:
+            record_error(fname_fas, "EMPTY", "FAS sales CSV is empty")
+        else:
+            logger.info("  [OK] usda_fas_sales: %s exists and active", fname_fas)
+
+    # Vessel queues
+    fname_q = "usda_grain_vessel_loading_queues.csv"
+    fpath_q = COMMODITIES_DIR / fname_q
+    if not fpath_q.exists():
+        fname_q = "usda_grain_vessel_loading.csv"
+        fpath_q = COMMODITIES_DIR / fname_q
+    if not fpath_q.exists():
+        record_error("usda_grain_vessel_loading*.csv", "FILE_EXISTS", "No USDA vessel loading CSV found")
+    else:
+        df = pd.read_csv(fpath_q, nrows=10)
+        if len(df) == 0:
+            record_error(fname_q, "EMPTY", "Vessel queues file is empty")
+        else:
+            logger.info("  [OK] usda_vessel_queues: %s exists and active", fname_q)
+
+
+# =====================================================================
+# 10. China Customs Iron Ore Demand Validation (HS 2601)
+# =====================================================================
+def validate_china_customs_demand():
+    fname = "china_customs_monthly_imports.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        record_error(fname, "FILE_EXISTS", "File not found")
+        return
+
+    df = pd.read_csv(fpath)
+    if "date" in df.columns:
+        dates = pd.to_datetime(df["date"], errors="coerce")
+        future = df[dates > pd.Timestamp(TODAY)]
+        if not future.empty:
+            record_error(fname, "NO_FUTURE_DATES", f"Found future dates: {list(future['date'].unique())}")
+
+    if "value_usd" in df.columns:
+        zeros = df[pd.to_numeric(df["value_usd"], errors="coerce").fillna(0) <= 0]
+        if not zeros.empty:
+            record_error(fname, "ZERO_VALUE_USD", f"{len(zeros)} rows with zero/null value_usd")
+
+    key_cols = [c for c in ["date", "hs_code", "flow"] if c in df.columns]
+    if len(key_cols) >= 2:
+        dups = df[df.duplicated(subset=key_cols, keep=False)]
+        if not dups.empty:
+            record_error(fname, "NO_DUPLICATES", f"Found {len(dups)} duplicate rows on {key_cols}")
+    logger.info("  [OK] china_customs_demand: %d rows validated", len(df))
+
+
+# =====================================================================
+# 11. TurkStat Bulk (Cement / Scrap) in minor_bulks_monthly.csv
+# =====================================================================
+def validate_turkstat_bulk():
+    fname = "minor_bulks_monthly.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        return
+    df = pd.read_csv(fpath)
+    turk = df[df["commodity"].isin(["Cement / Clinker", "Scrap Steel"])]
+    if turk.empty:
+        record_warning(fname, "TURKSTAT_DATA_PRESENT", "No Cement or Scrap rows found in minor_bulks_monthly.csv")
+        return
+
+    # Check future dates
+    dates = pd.to_datetime(turk["date"], errors="coerce")
+    future = turk[dates > pd.Timestamp(TODAY)]
+    if not future.empty:
+        record_error(fname, "TURKSTAT_NO_FUTURE_DATES", f"Future dates in TurkStat series: {list(future['date'].unique())}")
+
+    # Check positive tonnes
+    zeros = turk[pd.to_numeric(turk["metric_tonnes"], errors="coerce").fillna(0) <= 0]
+    if not zeros.empty:
+        record_error(fname, "TURKSTAT_NO_ZEROS", f"Zero metric_tonnes in TurkStat rows: {list(zeros['date'])}")
+    logger.info("  [OK] turkstat_bulk: %d rows (Cement/Scrap) validated in minor_bulks_monthly", len(turk))
+
+
+# =====================================================================
+# 12. Guinea Partner USD Validation
+# =====================================================================
+def validate_guinea_partner_usd():
+    fname = "china_customs_guinea_bauxite_partner_usd.csv"
+    fpath = COMMODITIES_DIR / fname
+    if not fpath.exists():
+        record_error(fname, "FILE_EXISTS", "File not found")
+        return
+
+    df = pd.read_csv(fpath)
+    val_col = "guinea_usd" if "guinea_usd" in df.columns else "value_usd"
+    if val_col not in df.columns:
+        record_error(fname, "COLUMN_MISSING", "guinea_usd or value_usd column missing")
+        return
+
+    zeros = df[pd.to_numeric(df[val_col], errors="coerce").fillna(0) <= 0]
+    if not zeros.empty:
+        record_error(fname, "ZERO_VALUE_USD", f"{len(zeros)} rows with zero/null {val_col}")
+
+    if "date" in df.columns:
+        dates = pd.to_datetime(df["date"], errors="coerce")
+        future = df[dates > pd.Timestamp(TODAY)]
+        if not future.empty:
+            record_error(fname, "NO_FUTURE_DATES", f"Future dates found: {list(future['date'].unique())}")
+    logger.info("  [OK] guinea_partner_usd: %d rows validated (col: %s)", len(df), val_col)
+
+
+# =====================================================================
+# 13. Outlier Detection Across Time Series (0.2x to 5.0x Rolling 12m Median)
 # =====================================================================
 def validate_time_series_outliers():
     target_files = [
@@ -270,7 +515,6 @@ def validate_time_series_outliers():
             for col in cols:
                 if col in gdf_sorted.columns and pd.api.types.is_numeric_dtype(gdf_sorted[col]):
                     s = gdf_sorted[col].dropna()
-                    # Filter out zero values so they don't skew the median
                     s_nonzero = s[s > 0]
                     if len(s_nonzero) >= 12:
                         med = s_nonzero.rolling(window=12, min_periods=6).median()
@@ -294,6 +538,14 @@ def validate_cargo_datasets():
     validate_minor_bulks()
     validate_world_crude_steel()
     validate_major_miners()
+    validate_argentina_grain()
+    validate_indonesia_coal()
+    validate_australia_req()
+    validate_usda_inspections()
+    validate_usda_fas_and_queues()
+    validate_china_customs_demand()
+    validate_turkstat_bulk()
+    validate_guinea_partner_usd()
     validate_time_series_outliers()
     return (len(ERRORS) == 0, len(ERRORS), len(WARNINGS), list(ERRORS))
 
@@ -314,7 +566,18 @@ def main():
         sys.exit(1)
     else:
         print("SUCCESS: All cargo commodity datasets PASSED integrity validation!")
-        print(f"  Checked: Guinea Bauxite, Minor Bulks, World Steel, Major Miners, Pilbara PPA, Newcastle, EIA, ComexStat")
+        print("  Checked datasets:")
+        print("    1. Guinea Bauxite (exports & partner USD)")
+        print("    2. Minor Bulks Monthly (Alumina, Urea, Nickel)")
+        print("    3. World Crude Steel Monthly")
+        print("    4. Major Miners Quarterly Shipments (all-or-nothing schema)")
+        print("    5. Argentina Grain Exports Monthly")
+        print("    6. Indonesia Coal Exports Monthly (BPS 2026-07 = 38.94 Mt confirmed)")
+        print("    7. Australia REQ Commodity Exports")
+        print("    8. USDA FGIS Inspections (>= 77,695 rows)")
+        print("    9. USDA FAS Outstanding Sales & Vessel Queues")
+        print("   10. China Customs Monthly Imports (Iron Ore Demand)")
+        print("   11. TurkStat Bulk (Cement & Scrap in minor_bulks)")
         print(f"  Total errors: 0 | Warnings: {warn_cnt}")
         print("=" * 80)
         sys.exit(0)
