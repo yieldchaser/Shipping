@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T21:29:22.340621Z",
+  "generated_at": "2026-09-18T23:55:03.685405Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
     "rate_records": 306089,
-    "fixture_records": 547940,
+    "fixture_records": 547941,
     "snp_records": 2642,
     "comment_records": 11732
   },
@@ -18707,9 +18707,9 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 547940,
+    "total_fixtures": 547941,
     "department_totals": {
-      "BULK": 423489,
+      "BULK": 423490,
       "TANKPRO": 65408,
       "TANK": 44332,
       "LNG": 8121,
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 198678,
+        "bulk": 198679,
         "tank": 3535,
         "gas": 2099,
-        "total": 204361
+        "total": 204362
       }
     ],
     "top_charterers": [
@@ -19214,15 +19214,15 @@
     "recent_fixtures": [
       {
         "date": "2026-09-18",
-        "vessel": "NAN",
-        "segment": "Panamax",
+        "vessel": "ECE SUNA",
+        "segment": "Mini-Handysize",
         "charterer": "NAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "1pc mobile crane, 1 Tianjin / 1 Constanta, Romania; Each pipe length: 5.5 meters; Approx. OuterDiam: Nominal diameter +"
+        "comment": "IMDG CARGOES PERMITTED (IMO CLASSES 1–9 EXCEPT 1.1 / 7 IF APPLICABLE), BARBADOS FLAG, CONTAINER CAPACITY: HOLD: 102 TEU"
       },
       {
         "date": "2026-09-18",
