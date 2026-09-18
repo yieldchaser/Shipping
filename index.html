@@ -3569,9 +3569,37 @@
 
     .tracking-workstation {
       display: grid;
-      grid-template-columns: minmax(480px, 560px) minmax(0, 1fr);
+      grid-template-columns: minmax(640px, 780px) minmax(0, 1fr);
       gap: 16px;
       align-items: stretch;
+      transition: grid-template-columns 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    @media (min-width: 1700px) {
+      .tracking-workstation {
+        grid-template-columns: minmax(720px, 860px) minmax(0, 1fr);
+      }
+    }
+    .tracking-workstation.pane-expanded {
+      grid-template-columns: 1fr;
+    }
+    .tracking-workstation.pane-expanded .tracking-right-pane {
+      display: none !important;
+    }
+    .tracking-workstation.pane-expanded .tracking-left-pane {
+      height: auto;
+      min-height: 650px;
+    }
+    .vessel-search-dropdown .vs-item {
+      padding: 8px 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: background 0.12s;
+    }
+    .vessel-search-dropdown .vs-item:hover {
+      background: rgba(77, 154, 255, 0.12);
     }
     .tracking-left-pane {
       display: flex;
@@ -3580,8 +3608,7 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
-      height: 0;
-      min-height: 100%;
+      min-height: 560px;
     }
     .tracking-right-pane {
       flex: 1;
@@ -14328,11 +14355,15 @@ if (intelTabsContainer) {
           <label class="tracking-layer-chk"><input type="checkbox" id="layerChokepoints" checked onchange="toggleTrackingLayer('chokepoints')"> Chokepoints</label>
           <label class="tracking-layer-chk"><input type="checkbox" id="layerDisruptions" checked onchange="toggleTrackingLayer('disruptions')"> Disruption Pins</label>
         </div>
-        <div class="tracking-tool-right">
+        <div class="tracking-tool-right" style="display:flex; align-items:center; gap:6px;">
+          <div style="position:relative; display:inline-block;">
+            <input type="text" id="vesselMasterSearchInput" class="tracking-input" style="width:220px;" placeholder="Search 57k vessels (Name, IMO)..." data-tooltip="Search the comprehensive 57,256 commercial vessel registry (Signal Ocean). Type vessel name or IMO to inspect DWT, class, built year, and operator particulars." oninput="onVesselMasterSearchInput(this.value)" onfocus="onVesselMasterSearchFocus()">
+            <div id="vesselMasterDropdown" class="vessel-search-dropdown" style="display:none; position:absolute; top:100%; right:0; width:360px; max-height:360px; overflow-y:auto; background:var(--card); border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,0.7); z-index:1000; margin-top:4px;"></div>
+          </div>
           <select id="trackingPortSelect" class="tracking-select" onchange="onTrackingPortChange()">
-            <option value="all">All Universe Ports</option>
+            <option value="all">All Universe Ports (2,995)</option>
           </select>
-          <input type="text" id="trackingSearchInput" class="tracking-input" placeholder="Search the port universe (name, country, LOCODE)..." data-tooltip="Searches all 2,065 PortWatch universe ports by name, country or UN/LOCODE and opens the matching port page." oninput="onTrackingSearchInput()">
+          <input type="text" id="trackingSearchInput" class="tracking-input" placeholder="Search 2,995 ports (name, LOCODE)..." data-tooltip="Searches all 2,995 PortWatch &amp; Signal Ocean terminals by name, country or UN/LOCODE and opens the matching port page." oninput="onTrackingSearchInput()">
         </div>
       </div>
 
@@ -14347,8 +14378,8 @@ if (intelTabsContainer) {
             <button id="subnavPortpage" class="tracking-subview-btn" data-tooltip="Port Queue &amp; Terminal Operations: Signal Ocean Live View with active vessel queues, waiting days, cargo filters and commercial operator joins." onclick="setTrackingSubView('portpage')">
               Port Queue &amp; Live View
             </button>
-            <button id="subnavUniverse" class="tracking-subview-btn active" data-tooltip="Port universe browser: search and filter all 2,065 measured PortWatch ports. Selecting a port opens its port page." onclick="setTrackingSubView('universe')">
-              Port Universe (2,065)
+            <button id="subnavUniverse" class="tracking-subview-btn active" data-tooltip="Port universe browser: search and filter all 2,995 measured PortWatch &amp; Signal Ocean terminals. Selecting a port opens its port page." onclick="setTrackingSubView('universe')">
+              Port Universe (2,995)
             </button>
             <button id="subnavDisruptions" class="tracking-subview-btn" data-tooltip="Disruptions feed: every PortWatch disruption event with alert level, severity, affected ports and dates. Ongoing events first." onclick="setTrackingSubView('disruptions')">
               Disruptions Feed
@@ -14421,7 +14452,7 @@ if (intelTabsContainer) {
           <!-- Subview 1: Port Universe Browser -->
           <div id="subviewUniverse" class="tracking-subview-content" style="display:flex; flex-direction:column;">
             <div style="display:flex; gap:8px; align-items:center; padding:8px 10px; border-bottom:1px solid var(--border); flex-wrap:wrap;">
-              <input type="text" id="universeSearchInput" class="tracking-input" style="flex:1; min-width:170px;" placeholder="Search 2,065 ports: name, country, LOCODE..." data-tooltip="Filters the PortWatch universe of 2,065 ports by name, country or UN/LOCODE. Matching happens on the loaded universe cache." oninput="onUniverseSearchInput()">
+              <input type="text" id="universeSearchInput" class="tracking-input" style="flex:1; min-width:170px;" placeholder="Search 2,995 ports: name, country, LOCODE..." data-tooltip="Filters the combined universe of 2,995 measured PortWatch and Signal Ocean terminals by name, country or UN/LOCODE. Matching happens on the loaded universe cache." oninput="onUniverseSearchInput()">
               <select id="universeClassFilter" class="tracking-select" onchange="onUniverseClassChange()" data-tooltip="Show only ports whose measured year-to-date calls include the chosen vessel class. From the PortWatch expanded feed.">
                 <option value="all">Any calls</option>
                 <option value="tanker">Tanker calls</option>
@@ -14474,6 +14505,9 @@ if (intelTabsContainer) {
                   </div>
                 </div>
                 <div style="display:flex; align-items:center; gap:6px;">
+                  <button class="cp-toggle-btn" id="btnTogglePaneExpand" onclick="toggleTrackingPaneExpand()" style="font-size:11px; padding:3px 8px;" data-tooltip="Toggle full-width queue view — expands left pane across the entire workstation screen for detailed fleet analysis.">
+                    &#x26F6; Expand Queue
+                  </button>
                   <button class="cp-toggle-btn" id="ppPinBtn" onclick="togglePinnedPort()" style="font-size:11px; padding:3px 8px;" data-tooltip="Pin this port to the quick-switch tab strip.">
                     &#128204; Pin Port
                   </button>
@@ -14559,19 +14593,63 @@ if (intelTabsContainer) {
                 <table class="tracking-table" style="width:100%; font-size:11px; text-align:left; border-collapse:collapse;" id="ppQueueTable">
                   <thead>
                     <tr style="position:sticky; top:0; background:var(--surface); z-index:2; border-bottom:1px solid var(--border);">
-                      <th style="padding:5px 8px;">Vessel Name / IMO</th>
-                      <th style="padding:5px 8px;">Class &amp; Segment</th>
-                      <th style="padding:5px 8px;">Commercial Operator</th>
-                      <th style="padding:5px 8px;">Status / Zone</th>
-                      <th style="padding:5px 8px;">Speed / Dist</th>
-                      <th style="padding:5px 8px;">Laden State</th>
-                      <th style="padding:5px 8px;">Reported Destination / ETA</th>
+                      <th style="padding:5px 8px; width:22%;">Vessel Name / IMO</th>
+                      <th style="padding:5px 8px; width:14%;">Class &amp; Segment</th>
+                      <th style="padding:5px 8px; width:18%;">Commercial Operator</th>
+                      <th style="padding:5px 8px; width:14%;">Status / Zone</th>
+                      <th style="padding:5px 8px; width:12%;">Speed / Dist</th>
+                      <th style="padding:5px 8px; width:8%;">Laden State</th>
+                      <th style="padding:5px 8px; width:12%;">Reported Destination / ETA</th>
                     </tr>
                   </thead>
                   <tbody id="ppQueueTableBody">
                     <tr><td colspan="7" style="padding:16px; text-align:center; color:var(--text-muted);">Select a port or load fleet positions to inspect live queue.</td></tr>
                   </tbody>
                 </table>
+              </div>
+            </div>
+
+            <!-- Commercial Arrivals Horizon & Freight Driver Forecast Card -->
+            <div id="ppArrivalsForecastCard" style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span style="font-size:var(--fs-micro); font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.05em;">COMMERCIAL ARRIVALS FORECAST</span>
+                  <span style="font-size:var(--fs-micro); color:var(--text-muted);">Tonnage Pressure &amp; Forward Rate Drivers</span>
+                </div>
+                <div id="ppFreightDriverBadge" class="status-badge-berth" style="font-size:10px; padding:2px 7px;">BALANCED</div>
+              </div>
+              
+              <!-- Horizons Grid: <=48h, 3-7d, >7d -->
+              <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(170px, 1fr)); gap:8px;" id="ppArrivalsHorizonsGrid">
+                <div class="ph-kpi-chip" style="min-width:0;">
+                  <div class="k">Near Coastal (&le;48h)</div>
+                  <div class="v" id="ppHorizonNear" style="color:#79c0ff;">&mdash;</div>
+                  <div class="s" style="color:var(--text-muted);">Imminent berthing &amp; pilots</div>
+                </div>
+                <div class="ph-kpi-chip" style="min-width:0;">
+                  <div class="k">Mid-Transit (3&ndash;7d)</div>
+                  <div class="v" id="ppHorizonMid" style="color:#e3b341;">&mdash;</div>
+                  <div class="s" style="color:var(--text-muted);">Working supply queue</div>
+                </div>
+                <div class="ph-kpi-chip" style="min-width:0;">
+                  <div class="k">Long-Haul Bound (&gt;7d)</div>
+                  <div class="v" id="ppHorizonLong" style="color:#a371f7;">&mdash;</div>
+                  <div class="s" style="color:var(--text-muted);">Pipeline arrivals volume</div>
+                </div>
+              </div>
+              
+              <!-- Sector Class Breakdown & Implied Cargo Volume -->
+              <div style="display:flex; flex-direction:column; gap:4px; padding:8px 10px; background:rgba(255,255,255,0.02); border:1px solid var(--border); border-radius:4px;">
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                  <span style="font-size:var(--fs-micro); font-weight:600; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em;">Fleet Class Mix &amp; Implied Tonnage Supply</span>
+                  <span style="font-size:var(--fs-micro); font-family:var(--font-mono); color:#79c0ff;" id="ppTotalImpliedDwt">&mdash;</span>
+                </div>
+                <div id="ppClassBreakdownChips" style="display:flex; flex-wrap:wrap; gap:6px; margin-top:2px;"></div>
+              </div>
+              
+              <!-- Freight Market Interpretation -->
+              <div id="ppFreightImpactNote" style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.45;">
+                Select a port to evaluate inbound vessel clusters against standard Baltic freight benchmarks.
               </div>
             </div>
 
@@ -18321,13 +18399,42 @@ if (intelTabsContainer) {
         await Promise.allSettled([
           loadPortCongestionHistory(),
           loadSignalFleetData(),
-          fetchCSV('data/geospatial/portwatch_ports_master.csv').then(rows => {
+          fetch('data/views/signal/unified_ports_master.json').then(function(r) {
+            return r.ok ? r.json() : null;
+          }).then(function(data) {
+            var rows = (data && data.ports) ? data.ports : [];
+            if (!rows.length) {
+              return fetchCSV('data/geospatial/portwatch_ports_master.csv');
+            }
+            return rows;
+          }).catch(function() {
+            return fetchCSV('data/geospatial/portwatch_ports_master.csv');
+          }).then(function(rows) {
             rows = rows || [];
             DATA.universePorts = { rows: rows, list: rows, ports: rows, byId: {}, byLocode: {} };
-            rows.forEach(r => {
+            rows.forEach(function(r) {
               if (r.lat != null && r.lat !== '') r.lat = parseFloat(r.lat);
               if (r.lon != null && r.lon !== '') r.lon = parseFloat(r.lon);
+              r.portname = r.portname || r.name;
+              r.name = r.portname;
+              r.LOCODE = r.LOCODE || r.locode || '';
+              r.ISO3 = r.ISO3 || r.iso3 || '';
+              if (r.calls_breakdown) {
+                r.total_calls = r.calls_breakdown.total || 0;
+                r.tanker_calls = r.calls_breakdown.tankers || 0;
+                r.dry_bulk_calls = r.calls_breakdown.dry_bulk || 0;
+                r.container_calls = r.calls_breakdown.container || 0;
+                r.general_cargo_calls = r.calls_breakdown.general_cargo || 0;
+                r.roro_calls = r.calls_breakdown.roro || 0;
+              }
               if (r.portid) DATA.universePorts.byId[r.portid] = r;
+              if (r.unified_id) DATA.universePorts.byId[r.unified_id] = r;
+              if (r.signal_port_ids && Array.isArray(r.signal_port_ids)) {
+                r.signal_port_ids.forEach(function(sid) {
+                  DATA.universePorts.byId['so_' + sid] = r;
+                  DATA.universePorts.byId[String(sid)] = r;
+                });
+              }
               if (r.LOCODE) {
                 DATA.universePorts.byLocode[r.LOCODE] = r;
                 DATA.universePorts.byLocode[r.LOCODE.replace(/\s+/g, '')] = r;
@@ -43414,6 +43521,177 @@ function setPortQueueFilter(filter) {
 }
 window.setPortQueueFilter = setPortQueueFilter;
 
+function toggleTrackingPaneExpand() {
+  var ws = document.querySelector('.tracking-workstation');
+  var btn = document.getElementById('btnTogglePaneExpand');
+  if (!ws) return;
+  var isExp = ws.classList.toggle('pane-expanded');
+  if (btn) {
+    btn.innerHTML = isExp ? '&#x2715; Collapse View' : '&#x26F6; Expand Queue';
+    btn.classList.toggle('active', isExp);
+  }
+  if (window.trackingMap) {
+    setTimeout(function() { window.trackingMap.invalidateSize(); }, 300);
+  }
+}
+window.toggleTrackingPaneExpand = toggleTrackingPaneExpand;
+
+function renderPortArrivalsForecast(qData, meta) {
+  var nearEl = document.getElementById('ppHorizonNear');
+  var midEl = document.getElementById('ppHorizonMid');
+  var longEl = document.getElementById('ppHorizonLong');
+  var dwtEl = document.getElementById('ppTotalImpliedDwt');
+  var chipsEl = document.getElementById('ppClassBreakdownChips');
+  var badgeEl = document.getElementById('ppFreightDriverBadge');
+  var noteEl = document.getElementById('ppFreightImpactNote');
+  if (!nearEl || !chipsEl) return;
+
+  var pName = (meta && (meta.portname || meta.name)) || 'Selected Port';
+
+  if (!qData || !qData.rows || !qData.rows.length) {
+    nearEl.textContent = '0 vessels';
+    midEl.textContent = '0 vessels';
+    longEl.textContent = '0 vessels';
+    if (dwtEl) dwtEl.textContent = '0 MT Implied Cargo';
+    chipsEl.innerHTML = '<span style="font-size:var(--fs-micro); color:var(--text-muted);">No inbound commercial vessels on approaches.</span>';
+    if (badgeEl) { badgeEl.className = 'status-badge-berth'; badgeEl.textContent = 'BALANCED'; }
+    if (noteEl) noteEl.textContent = 'Approaches clear. Berth occupancy and pilot bookings operating within seasonal baseline parameters.';
+    return;
+  }
+
+  var inbounds = qData.rows.filter(function(r) { return r[5] === 'inbound'; });
+  var anchored = qData.rows.filter(function(r) { return r[5] === 'anchored'; });
+
+  var classCapacity = {
+    'Capesize': 180000,
+    'VLOC': 250000,
+    'Newcastlemax': 208000,
+    'Post Panamax': 95000,
+    'Kamsarmax': 82000,
+    'Panamax': 75000,
+    'Ultramax': 63000,
+    'Supramax': 58000,
+    'Handymax': 45000,
+    'Handysize': 35000,
+    'VLCC': 300000,
+    'Suezmax': 150000,
+    'Aframax': 110000,
+    'LR2': 110000,
+    'LR1': 75000,
+    'MR2': 50000,
+    'MR1': 37000,
+    'Small Tanker': 15000,
+    'LNG Carrier': 78000,
+    'LPG Carrier': 49000,
+    'Large Gas Carrier': 55000,
+    'Very Large Gas Carrier': 54000,
+    'Container': 100000
+  };
+
+  var nearCount = 0, midCount = 0, longCount = 0;
+  var totalDwt = 0;
+  var classCounts = {};
+  var now = Date.now();
+
+  inbounds.forEach(function(r) {
+    var vclass = r[2] || 'Commercial';
+    var spd = Number(r[7]) || 12.0;
+    if (spd < 3.0) spd = 12.0;
+    var distKm = Number(r[14]) || 0;
+    var etaStr = r[10];
+
+    var hoursAway = null;
+    if (etaStr) {
+      var etaTime = new Date(etaStr).getTime();
+      if (!isNaN(etaTime) && etaTime > now) {
+        hoursAway = (etaTime - now) / 3600000;
+      }
+    }
+    if (hoursAway == null) {
+      hoursAway = (distKm / (spd * 1.852));
+    }
+
+    if (hoursAway <= 48) nearCount++;
+    else if (hoursAway <= 168) midCount++;
+    else longCount++;
+
+    var cap = 50000;
+    var matchKey = Object.keys(classCapacity).find(function(k) { return vclass.toLowerCase().indexOf(k.toLowerCase()) !== -1; });
+    if (matchKey) cap = classCapacity[matchKey];
+    totalDwt += cap;
+
+    var displayClass = matchKey || vclass;
+    classCounts[displayClass] = (classCounts[displayClass] || 0) + 1;
+  });
+
+  nearEl.textContent = nearCount.toLocaleString('en-US') + ' vessels';
+  midEl.textContent = midCount.toLocaleString('en-US') + ' vessels';
+  longEl.textContent = longCount.toLocaleString('en-US') + ' vessels';
+
+  var totalMtStr = totalDwt >= 1000000
+    ? (totalDwt / 1000000).toFixed(2) + ' Mt'
+    : (totalDwt / 1000).toFixed(0) + ' kt';
+  if (dwtEl) dwtEl.textContent = totalMtStr + ' (' + inbounds.length + ' inbound + ' + anchored.length + ' queued)';
+
+  var chipsHtml = '';
+  var sortedClasses = Object.keys(classCounts).sort(function(a, b) { return classCounts[b] - classCounts[a]; });
+  sortedClasses.forEach(function(cls) {
+    var cnt = classCounts[cls];
+    chipsHtml += '<span class="class-badge" style="font-size:10px; padding:2px 7px; background:#1c2333; border:1px solid var(--border); color:#fff;">' +
+      '<strong>' + escapeHtml(cls) + '</strong>: ' + cnt +
+    '</span>';
+  });
+  if (!sortedClasses.length) {
+    chipsHtml = '<span style="font-size:var(--fs-micro); color:var(--text-muted);">No class distinctions recorded for inbound hulls.</span>';
+  }
+  chipsEl.innerHTML = chipsHtml;
+
+  var capeCount = (classCounts['Capesize'] || 0) + (classCounts['Newcastlemax'] || 0) + (classCounts['VLOC'] || 0);
+  var vlccCount = classCounts['VLCC'] || 0;
+  var panamaxCount = (classCounts['Panamax'] || 0) + (classCounts['Kamsarmax'] || 0);
+  var lngCount = classCounts['LNG Carrier'] || 0;
+  var lpgCount = (classCounts['LPG Carrier'] || 0) + (classCounts['Very Large Gas Carrier'] || 0);
+
+  var driverBadge = 'BALANCED';
+  var badgeClass = 'status-badge-berth';
+  var impactText = 'Approaches and working anchorage operating within expected seasonal vessel arrival volumes.';
+
+  if (capeCount >= 10 || (capeCount >= 5 && nearCount >= 8)) {
+    driverBadge = 'BCI TONNAGE OVERHANG';
+    badgeClass = 'status-badge-warn';
+    impactText = 'Heavy Capesize concentration (' + capeCount + ' inbound) at ' + escapeHtml(pName) + ' exerts tonnage supply pressure, directly influencing Baltic Capesize Index (BCI) spot fixtures.';
+  } else if (vlccCount >= 6) {
+    driverBadge = 'TD3C SUPPLY SURGE';
+    badgeClass = 'status-badge-warn';
+    impactText = 'Elevated VLCC inbound cluster (' + vlccCount + ' large crude carriers) indicates rising discharge wait times, creating forward rate volatility across Baltic TD3C (Middle East Gulf to China).';
+  } else if (lngCount >= 5) {
+    driverBadge = 'BLNG SQUEEZE RISK';
+    badgeClass = 'status-badge-berth';
+    impactText = 'High inbound LNG carrier activity (' + lngCount + ' carriers) on approaches, maintaining tight liquefaction terminal scheduling and supporting Spark/Baltic BLNG spot day-rates.';
+  } else if (lpgCount >= 6) {
+    driverBadge = 'BLPG ARBITRAGE FLOW';
+    badgeClass = 'status-badge-berth';
+    impactText = 'Active VLGC gas carrier pipeline (' + lpgCount + ' vessels) reflecting active US Gulf to Far East or Middle East LPG arbitrage loadings.';
+  } else if (panamaxCount >= 12) {
+    driverBadge = 'BPI GRAIN / COAL FLOW';
+    badgeClass = 'status-badge-berth';
+    impactText = 'Substantial Panamax/Kamsarmax arrival queue (' + panamaxCount + ' vessels), anchoring Baltic Panamax Index (BPI) spot vessel employment.';
+  } else if (anchored.length >= 25) {
+    driverBadge = 'ELEVATED CONGESTION';
+    badgeClass = 'status-badge-red';
+    impactText = 'Anchorage queue depth of ' + anchored.length + ' vessels indicates berth congestion, increasing vessel turn-around days and demurrage costs.';
+  }
+
+  if (badgeEl) {
+    badgeEl.className = badgeClass;
+    badgeEl.textContent = driverBadge;
+  }
+  if (noteEl) {
+    noteEl.textContent = impactText;
+  }
+}
+window.renderPortArrivalsForecast = renderPortArrivalsForecast;
+
 function renderPortPageLiveQueue(meta) {
   var countAnc = document.getElementById('ppQueueCountAnchored');
   var countInb = document.getElementById('ppQueueCountInbound');
@@ -43454,6 +43732,7 @@ function renderPortPageLiveQueue(meta) {
     if (tbody) {
       tbody.innerHTML = '<tr><td colspan="7" style="padding:16px; text-align:center; color:var(--text-muted);">No commercial vessels currently in anchorage or inbound within queue radius.</td></tr>';
     }
+    renderPortArrivalsForecast(null, meta);
     return;
   }
 
@@ -43511,6 +43790,7 @@ function renderPortPageLiveQueue(meta) {
 
   // Render Rows with active filter
   renderPortQueueTableRows(qData);
+  renderPortArrivalsForecast(qData, meta);
 }
 window.renderPortPageLiveQueue = renderPortPageLiveQueue;
 
@@ -43787,6 +44067,49 @@ function createFleetDotsLayer() {
   return new Layer({ padding: 0.1 });
 }
 
+var _fullVesselLookupPromise = null;
+function ensureFullVesselLookup() {
+  if (DATA.vesselLookup && Object.keys(DATA.vesselLookup).length > 2000) {
+    return Promise.resolve(DATA.vesselLookup);
+  }
+  if (_fullVesselLookupPromise) return _fullVesselLookupPromise;
+  _fullVesselLookupPromise = fetch('data/views/signal/vessel_lookup.json')
+    .then(function(r) { return r.ok ? r.json() : {}; })
+    .then(function(data) {
+      DATA.vesselLookup = data || {};
+      DATA.lineupVesselLookup = Object.assign({}, DATA.vesselLookup, DATA.lineupVesselLookup || {});
+      return DATA.vesselLookup;
+    })
+    .catch(function(err) {
+      console.warn('[vessel_lookup load error]', err);
+      DATA.vesselLookup = DATA.lineupVesselLookup || {};
+      return DATA.vesselLookup;
+    });
+  return _fullVesselLookupPromise;
+}
+window.ensureFullVesselLookup = ensureFullVesselLookup;
+
+var _vesselSearchIndexPromise = null;
+function ensureVesselSearchIndex() {
+  if (DATA.vesselSearchIndex && DATA.vesselSearchIndex.length > 0) {
+    return Promise.resolve(DATA.vesselSearchIndex);
+  }
+  if (_vesselSearchIndexPromise) return _vesselSearchIndexPromise;
+  _vesselSearchIndexPromise = fetch('data/views/signal/vessel_search_index.json')
+    .then(function(r) { return r.ok ? r.json() : []; })
+    .then(function(data) {
+      DATA.vesselSearchIndex = data || [];
+      return DATA.vesselSearchIndex;
+    })
+    .catch(function(err) {
+      console.warn('[vessel_search_index load error]', err);
+      DATA.vesselSearchIndex = [];
+      return [];
+    });
+  return _vesselSearchIndexPromise;
+}
+window.ensureVesselSearchIndex = ensureVesselSearchIndex;
+
 function loadSignalFleetData() {
   if (DATA.signalFleetLoaded) return Promise.resolve();
   if (signalFleetLoadPromise) return signalFleetLoadPromise;
@@ -43807,6 +44130,10 @@ function loadSignalFleetData() {
       DATA.vesselVoyagesLookup = results[3] || null;
       DATA.portQueuesActive = results[4] || null;
       DATA.signalFleetLoaded = true;
+
+      // Pre-load full 57,256 commercial vessel registry & search index in background
+      ensureFullVesselLookup();
+      ensureVesselSearchIndex();
 
       // Initialize UI surfaces if DOM is ready
       renderAssetClassPortPicker();
@@ -43927,13 +44254,28 @@ window.onQuickTerminalClick = onQuickTerminalClick;
 // SURFACE C: Vessel Drill-Down Modal
 function openVesselDrillDown(imo, name) {
   var cleanImo = String(imo).replace('IMO', '').trim();
-  var lookup = (DATA.lineupVesselLookup && DATA.lineupVesselLookup[cleanImo]) || {};
+  var lookup = (DATA.vesselLookup && DATA.vesselLookup[cleanImo]) ||
+               (DATA.lineupVesselLookup && DATA.lineupVesselLookup[cleanImo]) || {};
 
   // Check live fleet positions for AIS data
   var livePos = null;
   if (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) {
     var imoNum = parseInt(cleanImo, 10);
     livePos = DATA.liveFleetPositions.rows.find(function(row) { return row[0] === imoNum; });
+  }
+
+  // Fallback to compact vesselSearchIndex if lookup not fully loaded yet
+  if (!lookup.name && DATA.vesselSearchIndex && DATA.vesselSearchIndex.length) {
+    var imoInt = parseInt(cleanImo, 10);
+    var sHit = DATA.vesselSearchIndex.find(function(r) { return r[0] === imoInt; });
+    if (sHit) {
+      lookup = {
+        name: sHit[1],
+        class: sHit[2],
+        dwt: sHit[3],
+        op: sHit[4]
+      };
+    }
   }
 
   activeDrillDownVessel = {
@@ -43948,6 +44290,45 @@ function openVesselDrillDown(imo, name) {
     flag: lookup.flag || '—',
     livePos: livePos
   };
+
+  // If full registry not yet loaded or vessel missing, lazily fetch and update modal particulars
+  if (typeof ensureFullVesselLookup === 'function' && (!DATA.vesselLookup || !DATA.vesselLookup[cleanImo])) {
+    ensureFullVesselLookup().then(function(vl) {
+      if (vl && vl[cleanImo] && activeDrillDownVessel && activeDrillDownVessel.imo === cleanImo) {
+        var refreshed = vl[cleanImo];
+        activeDrillDownVessel.name = refreshed.name || activeDrillDownVessel.name;
+        activeDrillDownVessel.vClass = refreshed.class || activeDrillDownVessel.vClass;
+        activeDrillDownVessel.dwt = refreshed.dwt || activeDrillDownVessel.dwt;
+        activeDrillDownVessel.built = refreshed.built || activeDrillDownVessel.built;
+        activeDrillDownVessel.yard = refreshed.yard || activeDrillDownVessel.yard;
+        activeDrillDownVessel.op = refreshed.op || activeDrillDownVessel.op;
+        activeDrillDownVessel.scrubbers = !!refreshed.scrubbers;
+        activeDrillDownVessel.flag = refreshed.flag || activeDrillDownVessel.flag;
+
+        var nameEl = document.getElementById('vesselModalName');
+        var classEl = document.getElementById('vesselModalClass');
+        var scrubberEl = document.getElementById('vesselModalScrubber');
+        var vmDwt = document.getElementById('vmDwt');
+        var vmBuilt = document.getElementById('vmBuilt');
+        var vmYard = document.getElementById('vmYard');
+        var vmOp = document.getElementById('vmOperator');
+        var vmCls = document.getElementById('vmClass');
+        var vmFlag = document.getElementById('vmFlag');
+        var vmScrub = document.getElementById('vmScrubber');
+
+        if (nameEl) nameEl.textContent = activeDrillDownVessel.name;
+        if (classEl) classEl.textContent = activeDrillDownVessel.vClass;
+        if (scrubberEl) scrubberEl.style.display = activeDrillDownVessel.scrubbers ? 'inline-block' : 'none';
+        if (vmDwt) vmDwt.textContent = activeDrillDownVessel.dwt ? activeDrillDownVessel.dwt.toLocaleString('en-US') + ' DWT' : '—';
+        if (vmBuilt) vmBuilt.textContent = activeDrillDownVessel.built ? String(activeDrillDownVessel.built) : '—';
+        if (vmYard) vmYard.textContent = activeDrillDownVessel.yard || '—';
+        if (vmOp) vmOp.textContent = activeDrillDownVessel.op || '—';
+        if (vmCls) vmCls.textContent = activeDrillDownVessel.vClass || '—';
+        if (vmFlag) vmFlag.textContent = activeDrillDownVessel.flag || '—';
+        if (vmScrub) vmScrub.textContent = activeDrillDownVessel.scrubbers ? 'Fitted (Exhaust Gas Cleaning System)' : 'Standard / Non-fitted';
+      }
+    });
+  }
 
   // Populate Header
   var nameEl = document.getElementById('vesselModalName');
@@ -44123,6 +44504,132 @@ function showVesselOnMap(imo) {
   }
 }
 window.showVesselOnMap = showVesselOnMap;
+
+// MASTER COMMERCIAL VESSEL SEARCH (57,256 Fleet Registry)
+var _masterSearchDebounceTimer = null;
+
+function onVesselMasterSearchFocus() {
+  ensureVesselSearchIndex();
+  var input = document.getElementById('vesselMasterSearchInput');
+  var val = input ? input.value.trim() : '';
+  if (val.length >= 2) {
+    onVesselMasterSearchInput(val);
+  }
+}
+window.onVesselMasterSearchFocus = onVesselMasterSearchFocus;
+
+function onVesselMasterSearchInput(query) {
+  clearTimeout(_masterSearchDebounceTimer);
+  var dropdown = document.getElementById('vesselMasterDropdown');
+  if (!dropdown) return;
+
+  var q = (query || '').trim().toLowerCase();
+  if (q.length < 2) {
+    dropdown.style.display = 'none';
+    dropdown.innerHTML = '';
+    return;
+  }
+
+  _masterSearchDebounceTimer = setTimeout(function() {
+    ensureVesselSearchIndex().then(function(index) {
+      if (!index || !index.length) {
+        dropdown.innerHTML = '<div style="padding:12px; color:var(--text-muted); font-size:12px; text-align:center;">Vessel search index loading…</div>';
+        dropdown.style.display = 'block';
+        return;
+      }
+
+      var cleanQ = q.replace(/^imo\s*/i, '');
+      var isNumeric = /^\d+$/.test(cleanQ);
+
+      var matches = [];
+      for (var i = 0; i < index.length; i++) {
+        var row = index[i]; // [imo, name, class, dwt, op]
+        var imoStr = String(row[0]);
+        var nameLower = (row[1] || '').toLowerCase();
+        var opLower = (row[4] || '').toLowerCase();
+
+        var matched = false;
+        var score = 0;
+
+        if (isNumeric) {
+          if (imoStr.indexOf(cleanQ) !== -1) {
+            matched = true;
+            score = (imoStr === cleanQ) ? 1000 : (imoStr.startsWith(cleanQ) ? 500 : 100);
+          }
+        } else {
+          if (nameLower.indexOf(q) !== -1) {
+            matched = true;
+            score = (nameLower === q) ? 1000 : (nameLower.startsWith(q) ? 500 : 100);
+          } else if (opLower.indexOf(q) !== -1) {
+            matched = true;
+            score = (opLower.startsWith(q) ? 200 : 50);
+          }
+        }
+
+        if (matched) {
+          matches.push({ score: score, dwt: row[3] || 0, row: row });
+        }
+      }
+
+      // Sort by score desc, then dwt desc
+      matches.sort(function(a, b) {
+        if (b.score !== a.score) return b.score - a.score;
+        return b.dwt - a.dwt;
+      });
+
+      var topMatches = matches.slice(0, 25);
+      if (topMatches.length === 0) {
+        dropdown.innerHTML = '<div style="padding:12px; color:var(--text-muted); font-size:12px; text-align:center;">No commercial vessels found matching "' + escapeHtml(query) + '".</div>';
+        dropdown.style.display = 'block';
+        return;
+      }
+
+      var html = '<div style="padding:6px 12px; background:rgba(255,255,255,0.02); font-size:10px; color:var(--text-muted); border-bottom:1px solid var(--border); font-family:var(--font-mono);">' +
+        '57,256 Fleet Search &middot; ' + matches.length.toLocaleString('en-US') + ' matches found (showing top ' + topMatches.length + ')</div>';
+
+      topMatches.forEach(function(m) {
+        var r = m.row;
+        var dwtStr = r[3] ? Number(r[3]).toLocaleString('en-US') + ' DWT' : '—';
+        var safeName = (r[1] || '').replace(/'/g, "\\'");
+        html += '<div class="vs-item" onclick="selectMasterSearchVessel(' + r[0] + ', \'' + safeName + '\')">' +
+          '<div style="overflow:hidden; text-overflow:ellipsis; white-space:nowrap; padding-right:8px;">' +
+            '<div style="font-weight:600; font-size:12px; color:var(--text-main); text-overflow:ellipsis; overflow:hidden;">' + escapeHtml(r[1]) + '</div>' +
+            '<div style="font-size:10px; color:var(--text-muted); font-family:var(--font-mono);">' +
+              'IMO ' + r[0] + ' &middot; <span style="color:var(--text-bright);">' + escapeHtml(r[4] || 'Unknown Operator') + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<div style="text-align:right; flex-shrink:0;">' +
+            '<span class="status-badge-berth" style="font-size:10px; padding:1px 5px;">' + escapeHtml(r[2]) + '</span>' +
+            '<div style="font-size:10px; color:var(--text-muted); font-family:var(--font-mono); margin-top:2px;">' + dwtStr + '</div>' +
+          '</div>' +
+        '</div>';
+      });
+
+      dropdown.innerHTML = html;
+      dropdown.style.display = 'block';
+    });
+  }, 120);
+}
+window.onVesselMasterSearchInput = onVesselMasterSearchInput;
+
+function selectMasterSearchVessel(imo, name) {
+  var input = document.getElementById('vesselMasterSearchInput');
+  var dropdown = document.getElementById('vesselMasterDropdown');
+  if (input) input.value = name || ('IMO ' + imo);
+  if (dropdown) dropdown.style.display = 'none';
+  openVesselDrillDown(imo, name);
+}
+window.selectMasterSearchVessel = selectMasterSearchVessel;
+
+// Close dropdown on click outside
+document.addEventListener('click', function(e) {
+  var dropdown = document.getElementById('vesselMasterDropdown');
+  var input = document.getElementById('vesselMasterSearchInput');
+  if (!dropdown || !input) return;
+  if (!dropdown.contains(e.target) && e.target !== input) {
+    dropdown.style.display = 'none';
+  }
+});
 
 // SURFACE D: Floating Live Fleet AIS HUD & Map Layer
 function updateLiveFleetHUD() {

@@ -136,3 +136,95 @@ def test_tooltips_on_new_controls():
     assert "'disruption-card'" in HTML
     # sector toggle overlay + chokepoint selector container + port history select
     assert 'id="mapSectorToggle"' in HTML and 'id="cpSelectorChips"' in HTML and 'id="phPortSelect"' in HTML
+
+
+def test_unified_ports_master_dataset():
+    """Verify unified ports master JSON contains canonical ports with coordinates, sectors, and polygons."""
+    upm_path = ROOT / "data" / "views" / "signal" / "unified_ports_master.json"
+    assert upm_path.exists(), "unified_ports_master.json must exist"
+    d = json.load(open(upm_path, encoding="utf-8"))
+    ports = d.get("ports", [])
+    assert len(ports) >= 2900, f"Expected >= 2900 ports, got {len(ports)}"
+    
+    # Check schema and zero (0,0) coordinates check
+    for p in ports:
+        assert p.get("unified_id"), "Every port must have a unified_id"
+        assert p.get("name"), "Every port must have a name"
+        assert p.get("country"), "Every port must have a country"
+        assert p.get("lat") is not None and p.get("lon") is not None
+        assert not (p["lat"] == 0.0 and p["lon"] == 0.0), f"Ghost Null Island coordinates in port {p['unified_id']}"
+
+    # Verify frontend loads unified_ports_master.json
+    assert "data/views/signal/unified_ports_master.json" in HTML
+
+
+def test_active_port_queues_dataset():
+    """Verify active commercial port queues dataset with multi-class queues and normality baselines."""
+    pq_path = ROOT / "data" / "views" / "signal" / "port_queues_active.json"
+    assert pq_path.exists(), "port_queues_active.json must exist"
+    d = json.load(open(pq_path, encoding="utf-8"))
+    ports = d.get("ports", {})
+    assert len(ports) >= 100, f"Expected >= 100 queued ports, got {len(ports)}"
+    
+    # Verify structure of port queues
+    sample_key = next(iter(ports))
+    sample = ports[sample_key]
+    assert "anchored_total" in sample and "inbound_total" in sample
+    assert "rows" in sample and "normality" in sample
+    norm = sample["normality"]
+    assert "hist_mean" in norm and "hist_std" in norm and "zscore" in norm
+
+
+def test_commercial_vessel_registry_57k():
+    """Verify the 57,256 commercial vessel registry and compact search index."""
+    vl_path = ROOT / "data" / "views" / "signal" / "vessel_lookup.json"
+    vsi_path = ROOT / "data" / "views" / "signal" / "vessel_search_index.json"
+    assert vl_path.exists(), "vessel_lookup.json must exist"
+    assert vsi_path.exists(), "vessel_search_index.json must exist"
+
+    vl = json.load(open(vl_path, encoding="utf-8"))
+    vsi = json.load(open(vsi_path, encoding="utf-8"))
+    assert len(vl) >= 57000, f"Expected >= 57k vessels in lookup, got {len(vl)}"
+    assert len(vsi) >= 57000, f"Expected >= 57k vessels in search index, got {len(vsi)}"
+
+    # Check sample particulars
+    sample_imo = next(iter(vl))
+    v = vl[sample_imo]
+    for field in ("name", "class", "dwt", "built", "op"):
+        assert field in v, f"Missing {field} in vessel particulars"
+
+
+def test_tracking_workstation_layout_and_pane_expansion():
+    """Verify responsive wide split pane (640-780px), full-width expand toggle, and proportional table columns."""
+    assert "grid-template-columns: minmax(640px, 780px) minmax(0, 1fr)" in HTML
+    assert ".tracking-workstation.pane-expanded" in HTML
+    assert 'id="btnTogglePaneExpand"' in HTML
+    assert "toggleTrackingPaneExpand()" in HTML
+    assert "renderPortQueueTableRows" in HTML
+    # Column proportional widths sum to 100%
+    for pct in ["width:22%", "width:14%", "width:18%", "width:12%", "width:8%"]:
+        assert pct in HTML, f"Missing column width specification {pct}"
+
+
+def test_port_arrivals_forecast_card_wiring():
+    """Verify the multi-class arrivals horizon forecast card markup and JavaScript execution calls."""
+    assert 'id="ppArrivalsForecastCard"' in HTML
+    assert 'id="ppHorizonNear"' in HTML and 'id="ppHorizonMid"' in HTML and 'id="ppHorizonLong"' in HTML
+    assert 'id="ppTotalImpliedDwt"' in HTML and 'id="ppClassBreakdownChips"' in HTML and 'id="ppFreightDriverBadge"' in HTML
+    assert "renderPortArrivalsForecast" in HTML
+    # Both branches of renderPortPageLiveQueue must trigger forecast
+    assert "renderPortArrivalsForecast(null, meta)" in HTML
+    assert "renderPortArrivalsForecast(qData, meta)" in HTML
+
+
+def test_master_vessel_autocomplete_search():
+    """Verify the 57k master vessel autocomplete search input, dropdown, and lazy drilldown integration."""
+    assert 'id="vesselMasterSearchInput"' in HTML
+    assert 'id="vesselMasterDropdown"' in HTML
+    assert "onVesselMasterSearchFocus()" in HTML
+    assert "onVesselMasterSearchInput(this.value)" in HTML
+    assert "selectMasterSearchVessel" in HTML
+    assert "ensureFullVesselLookup" in HTML
+    assert "ensureVesselSearchIndex" in HTML
+    assert "openVesselDrillDown" in HTML
+

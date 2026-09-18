@@ -28,6 +28,7 @@ DATA_DIR = REPO_ROOT / "data"
 FLEET_POS_PATH = DATA_DIR / "views" / "signal" / "live_fleet_positions.json"
 ASSET_PORTS_PATH = DATA_DIR / "views" / "signal" / "asset_class_ports.json"
 PORTWATCH_PATH = DATA_DIR / "geospatial" / "portwatch_ports_master.csv"
+UNIFIED_PORTS_PATH = DATA_DIR / "views" / "signal" / "unified_ports_master.json"
 STRESS_SUMMARY_PATH = DATA_DIR / "derived" / "port_stress_summary.json"
 OUTPUT_PATH = DATA_DIR / "views" / "signal" / "port_queues_active.json"
 
@@ -48,9 +49,32 @@ def clean_code(s: str) -> str:
     return "".join(ch for ch in s.upper() if ch.isalnum())
 
 def load_ports():
-    """Loads ports from portwatch_ports_master.csv with lat/lon and LOCODE."""
-    import csv
+    """Loads ports from unified_ports_master.json if present, otherwise portwatch_ports_master.csv."""
     ports = []
+    if UNIFIED_PORTS_PATH.exists():
+        with open(UNIFIED_PORTS_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        for p in data.get("ports", []):
+            try:
+                lat = float(p.get("lat", 0))
+                lon = float(p.get("lon", 0))
+            except (ValueError, TypeError):
+                continue
+            locode = (p.get("locode") or "").strip()
+            ports.append({
+                "portid": p["portid"],
+                "name": p["name"],
+                "fullname": p.get("fullname") or f"{p['name']}, {p.get('country', '')}",
+                "country": p.get("country", ""),
+                "locode": locode,
+                "clean_locode": clean_code(locode),
+                "lat": lat,
+                "lon": lon
+            })
+        logging.info("Loaded %d ports from Unified Ports Master", len(ports))
+        return ports
+
+    import csv
     if not PORTWATCH_PATH.exists():
         logging.warning("PortWatch master not found at %s", PORTWATCH_PATH)
         return ports
