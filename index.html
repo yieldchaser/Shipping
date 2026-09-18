@@ -14977,7 +14977,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudIronOre">59.4 Mt/mo</div>
           <div class="cargo-hud-sub" id="cargoHudIronOreSub">Port Hedland: 46.6 Mt | Dampier: 12.8 Mt</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="USDA FAS mandatory export sales report — cumulative outstanding export commitments for US wheat, corn, soybeans, and sorghum across global destinations (68,181 historical weekly rows).">
+        <div class="cargo-hud-card" data-tooltip="USDA FAS mandatory export sales report — cumulative outstanding export commitments for US wheat, corn, soybeans, and sorghum across global destinations (Official USDA FAS Mandatory Weekly Reporting).">
           <div class="cargo-hud-label">
             <span>USDA Grain Commitments</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -14995,7 +14995,7 @@ if (intelTabsContainer) {
         </div>
         <div class="cargo-hud-card" data-tooltip="Capesize Atlantic vs Pacific freight route spread (C3 Tubarao-Qingdao minus C5 Dampier-Qingdao in $/MT) reflecting the longer Atlantic voyage distance of the Brazil corridor.">
           <div class="cargo-hud-label">
-            <span>C3 vs C5 Route Spread</span>
+            <span>C3 vs C5 Route Spread (MTD)</span>
             <span class="cargo-badge-live">LIVE</span>
           </div>
           <div class="cargo-hud-val" id="cargoHudC3C5Spread">—</div>
@@ -15066,12 +15066,13 @@ if (intelTabsContainer) {
           <!-- Guinea Direct Empty State Card (Visible when Guinea route is selected) -->
           <div id="guineaEmptyStateCard" class="cargo-empty-state" style="display:none;">
             <div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;color:#f85149;font-weight:700;">
-              <span> Official Direct Conakry Customs Series: UNAVAILABLE</span>
+              <span>Official Direct Conakry Customs Series: UNAVAILABLE</span>
               <span class="cargo-badge-unavail">UNAVAILABLE</span>
             </div>
-            <div>
-              <strong>Attempted Source:</strong> Ministry of Mines and Geology, Republic of Guinea &middot; Central Bank of the Republic of Guinea (BCRG).<br>
-              <strong>Status:</strong> Port Kamsar / Port Boffa monthly clearing data is not published. The volume above is China's customs record of imports from Guinea (HS 260600): UN Comtrade to Dec 2024, then SMM reports of the same customs figure where a monthly one was published. 2017 is left out: China's reported months for that year cover only a small fraction of Guinea's own reported exports, far below every other year. No freight rate is paired: no Baltic route covers Guinea&ndash;China bauxite.
+            <div style="line-height:1.5;">
+              <strong>Attempted Source:</strong> Ministry of Mines and Geology, Republic of Guinea (<a href="https://mines.gov.gn/" target="_blank" rel="noopener" style="color:var(--accent);">mines.gov.gn</a>) &middot; Central Bank of the Republic of Guinea (BCRG).<br>
+              <strong>Status:</strong> Direct Port Kamsar / Port Boffa monthly clearing manifests are not published. The time series displayed is China's official customs record of imports from Guinea (GACC HS 260600), continuous from 2017-01 to 2026-07.<br>
+              <strong>Freight Route Notice:</strong> No Baltic spot route benchmark exists for Guinea&ndash;China bauxite because the trade is governed by long-term bilateral Contracts of Affreightment (COAs) operated by dedicated industrial consortium fleets (Winning Alliance, COSCO, Chalco).
             </div>
           </div>
 
@@ -15309,8 +15310,11 @@ if (intelTabsContainer) {
           <!-- 2025 Per-Company Producer Ledger Table -->
           <div style="margin-top:14px;overflow-x:auto;">
             <div style="font-size:12px;font-weight:700;color:var(--text-bright);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center;">
-              <span>Republic of Guinea Ministry of Mines — 2025 Producer Export Ledger</span>
+              <span>Republic of Guinea Ministry of Mines &middot; 2025 Producer Export Ledger (<a href="https://mines.gov.gn/" target="_blank" rel="noopener" style="color:var(--accent);">mines.gov.gn</a> &middot; Annual Report 2025, Jan 2026)</span>
               <span id="guineaLedgerSummary" style="font-size:11px;color:var(--text-muted);"></span>
+            </div>
+            <div style="font-size:11px;color:var(--text-muted);margin:8px 0;line-height:1.4;">
+              Official Ministry of Mines Annual Report 2025 (Jan 2026) records 182.8 Mt total seaborne bauxite exports from Guinea across all terminals. China GACC mirror imports record 148.8 Mt (81.4% of total exports); the remaining 34.0 Mt was discharged in the UAE (Emirates Global Aluminium), India, Europe, and North America, or represents voyages in transit at calendar year-end.
             </div>
             <table class="cargo-table" id="guineaProducersTable" style="width:100%;font-size:11px;text-align:left;border-collapse:collapse;">
               <thead>
@@ -15347,11 +15351,11 @@ if (intelTabsContainer) {
                 <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">7 Trade Basins</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                Small multiples with 5-year seasonal envelopes across key fertilizer, sugar, alumina, scrap, and cement trade corridors powering Handysize and Supramax spot earnings.
+                Small multiples with 2022–2026 seasonal envelopes across key fertilizer, sugar, alumina, scrap, and cement trade corridors powering Handysize and Supramax spot earnings.
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;">
-              <span class="cargo-badge-live">LIVE 5Y ENVELOPES</span>
+              <span class="cargo-badge-live">LIVE 2022–2026 ENVELOPES</span>
             </div>
           </div>
 
@@ -15449,7 +15453,7 @@ if (intelTabsContainer) {
             <div>
               <div class="chart-title">USDA Outstanding Export Commitments (Weekly by Commodity &times; Destination)</div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                68,181 historical weekly rows (1999–2026) sorted chronologically &middot; Forward commercial commitments before vessel loading
+                <span id="usdaSalesSummaryRows">68,350</span> historical weekly rows (1999–2026) sorted chronologically &middot; Forward commercial commitments before vessel loading
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
@@ -15465,7 +15469,7 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" id="usdaExportSalesWrap" style="height:320px"><canvas id="usdaExportSalesChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> USDA Foreign Agricultural Service (FAS Mandatory Export Sales Reporting) &middot; 68,181 rows &middot; Unit: Metric Tonnes (MT)</div>
+            <div><strong>Source:</strong> USDA Foreign Agricultural Service (FAS Mandatory Export Sales Reporting) &middot; <span id="usdaSalesRowCount">68,350</span> rows &middot; Unit: Metric Tonnes (MT)</div>
             <span class="cargo-badge-live">LIVE OFFICIAL</span>
           </div>
         </div>
@@ -15473,7 +15477,7 @@ if (intelTabsContainer) {
         <!-- 7. USDA GRAIN INSPECTIONS TOP 20 PORTS -->
         <div class="chart-container mb-20" id="usdaInspectionsContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title">USDA Weekly Grain Export Inspections (Top 20 Harbors &amp; Basins)</div>
+            <div class="chart-title" id="fgisInspectionsTitle">USDA Weekly Grain Export Inspections (AMS Regional Export Basins)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="inspectionsToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                 <button class="toggle-btn active" id="inspBtnGulf" onclick="setInspectionsRegion('GULF')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
@@ -15485,7 +15489,7 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="usdaGrainInspectionsChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> USDA Agricultural Marketing Service (AMS Federal Grain Inspection Service) &middot; 18,152 rows &middot; Unit: Metric Tonnes (MT)</div>
+            <div><strong>Source:</strong> USDA Agricultural Marketing Service (AMS Federal Grain Inspection Service) &middot; <span id="fgisRowCount">77,695</span> rows &middot; Unit: Metric Tonnes (MT)</div>
             <span class="cargo-badge-live">LIVE OFFICIAL</span>
           </div>
         </div>
@@ -30824,6 +30828,12 @@ function renderFearnleysSnpTable() {
         });
       }
 
+      if (options.extraDatasets && options.extraDatasets.length) {
+        options.extraDatasets.forEach(function(eds) {
+          datasets.push(eds);
+        });
+      }
+
       var unitStr = options.unit || 'Mt';
       destroyChart(canvas.id);
       updateOrCreateChart(canvas.id, canvas, {
@@ -31242,7 +31252,8 @@ function renderFearnleysSnpTable() {
           var badge = document.getElementById('brazilExportsBadge');
           if (badge && env.years && env.years[env.latest_year]) {
             var lastV = env.years[env.latest_year].filter(function(v) { return v !== null; }).slice(-1)[0];
-            if (lastV != null) badge.innerHTML = _brazilCommodity + ': <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+            var period = getLatestPeriodLabel(env.months, env.years[env.latest_year], env.latest_year);
+            if (lastV != null) badge.innerHTML = _brazilCommodity + ': <strong>' + lastV + ' Mt/mo</strong> (' + period + ')';
           }
           return;
         }
@@ -31282,33 +31293,88 @@ function renderFearnleysSnpTable() {
     }
     window.renderBrazilExportsChart = renderBrazilExportsChart;
 
+    function createHatchPattern(baseColor) {
+      var pCanvas = document.createElement('canvas');
+      pCanvas.width = 12;
+      pCanvas.height = 12;
+      var pCtx = pCanvas.getContext('2d');
+      pCtx.fillStyle = 'rgba(110, 118, 129, 0.2)';
+      pCtx.fillRect(0, 0, 12, 12);
+      pCtx.strokeStyle = baseColor || 'rgba(139, 148, 158, 0.7)';
+      pCtx.lineWidth = 2;
+      pCtx.beginPath();
+      pCtx.moveTo(0, 12);
+      pCtx.lineTo(12, 0);
+      pCtx.stroke();
+      return pCtx.createPattern(pCanvas, 'repeat');
+    }
+
+    function getLatestPeriodLabel(months, yrArr, yr) {
+      if (!yrArr || !yrArr.length) return yr || '';
+      var lastIdx = -1;
+      for (var mi = yrArr.length - 1; mi >= 0; mi--) {
+        if (yrArr[mi] != null) { lastIdx = mi; break; }
+      }
+      var monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      var mName = (lastIdx >= 0 && months && months[lastIdx]) || (lastIdx >= 0 ? monthNames[lastIdx] : '');
+      return mName ? (mName + ' ' + yr) : (yr || '');
+    }
+
     // B. Pilbara Ports & Miner Guidance
     function renderPpaThroughputChart() {
       var canvas = document.getElementById('ppaThroughputChart');
       if (!canvas) return;
       var destCard = document.getElementById('ppaDestinationCard');
+      var titleEl = document.getElementById('ppaThroughputTitle');
+
       if (_ppaPort === 'Miners') {
+        if (titleEl) titleEl.textContent = 'Major Global Iron Ore Miners Quarterly Shipments';
         if (destCard) destCard.style.display = 'none';
         var miners = (DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore && DATA.cargoSummary.pilbara_iron_ore.miners_quarterly) || DATA.minerShipments || [];
         if (!miners || !miners.length) return;
         var quarters = miners.map(m => m.quarter);
-        var hasIllustrative = miners.some(m => m.has_illustrative || (m.provenance && m.provenance.indexOf('illustrative') >= 0));
         var badge = document.getElementById('ppaThroughputBadge');
         if (badge && miners.length) {
           var lastM = miners[miners.length - 1];
-          badge.innerHTML = 'Major Miners: <strong>' + (lastM.total_mt || 0) + ' Mt</strong> (' + lastM.quarter + ')' +
-            (hasIllustrative ? ' <span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:11px;font-weight:600;margin-left:6px;">14 Verified SEC/ASX / Illustrative Prior</span>' : '');
+          var tot = (lastM.rio_tinto_mt + lastM.vale_mt + lastM.bhp_mt + lastM.fmg_mt).toFixed(1);
+          badge.innerHTML = 'Major Miners: <strong>' + tot + ' Mt</strong> (' + lastM.quarter + ' Disparate Bases) ' +
+            '<span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:11px;font-weight:600;margin-left:6px;">14 Verified SEC/ASX &bull; 26 Illustrative Prior</span>';
         }
+
+        var rioColors = miners.map(function(m) {
+          var dt = m.details && m.details['rio'];
+          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#58a6ff') : '#58a6ff';
+        });
+        var valeColors = miners.map(function(m) {
+          var dt = m.details && m.details['vale'];
+          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#3fb950') : '#3fb950';
+        });
+        var bhpColors = miners.map(function(m) {
+          var dt = m.details && m.details['bhp'];
+          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#e3b341') : '#e3b341';
+        });
+        var fmgColors = miners.map(function(m) {
+          var dt = m.details && m.details['fmg'];
+          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#bc8cff') : '#bc8cff';
+        });
+
         destroyChart('ppaThroughputChart');
         updateOrCreateChart('ppaThroughputChart', canvas, {
           type: 'bar',
           data: {
             labels: quarters,
             datasets: [
-              { label: 'Rio Tinto (Pilbara 100% Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: '#58a6ff' },
-              { label: 'Vale (100% basis Mt)', data: miners.map(m => m.vale_mt), backgroundColor: '#3fb950' },
-              { label: 'BHP (Equity Share / WAIO Mt)', data: miners.map(m => m.bhp_mt), backgroundColor: '#e3b341' },
-              { label: 'Fortescue (100% basis Mt)', data: miners.map(m => m.fmg_mt), backgroundColor: '#bc8cff' }
+              { label: 'Rio Tinto (Pilbara 100% Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: rioColors },
+              { label: 'Vale (100% basis Mt)', data: miners.map(m => m.vale_mt), backgroundColor: valeColors },
+              { label: 'BHP (Equity Share / WAIO Mt)', data: miners.map(m => m.bhp_mt), backgroundColor: bhpColors },
+              { label: 'Fortescue (100% basis Mt)', data: miners.map(m => m.fmg_mt), backgroundColor: fmgColors },
+              {
+                label: 'Illustrative Prior Estimate (Hatched / Grey)',
+                data: quarters.map(function() { return null; }),
+                backgroundColor: createHatchPattern('rgba(139, 148, 158, 0.8)'),
+                borderColor: 'rgba(139, 148, 158, 0.8)',
+                borderWidth: 1
+              }
             ]
           },
           options: {
@@ -31319,12 +31385,13 @@ function renderFearnleysSnpTable() {
               tooltip: {
                 callbacks: {
                   label: function(c) {
+                    if (c.dataset.label.indexOf('Illustrative Prior') >= 0) return null;
                     var m = miners[c.dataIndex];
                     var minerKey = c.datasetIndex === 0 ? 'rio' : (c.datasetIndex === 1 ? 'vale' : (c.datasetIndex === 2 ? 'bhp' : 'fmg'));
                     var dt = m && m.details && m.details[minerKey];
                     var basisStr = dt ? (' (' + dt.basis + ')') : '';
                     var globalStr = dt && dt.global_mt && dt.basis === 'Pilbara 100%' ? (' [Global: ' + dt.global_mt + ' Mt]') : '';
-                    var provTag = dt && dt.prov && dt.prov.indexOf('EDGAR') >= 0 ? ' [SEC 6-K]' : (dt && dt.prov && dt.prov.indexOf('ASX') >= 0 ? ' [ASX PDF]' : ' [Illustrative]');
+                    var provTag = dt && dt.prov && dt.prov.indexOf('EDGAR') >= 0 ? ' [SEC 6-K]' : (dt && dt.prov && dt.prov.indexOf('ASX') >= 0 ? ' [ASX PDF]' : ' [Illustrative Prior]');
                     return ' ' + c.dataset.label.split(' ')[0] + ': ' + c.parsed.y + ' Mt' + basisStr + globalStr + provTag;
                   }
                 }
@@ -31342,26 +31409,52 @@ function renderFearnleysSnpTable() {
         var ppa = DATA.cargoSummary.pilbara_iron_ore;
         var isDampier = (_ppaPort === 'Dampier' || _ppaPort === 'Port of Dampier');
         if (isDampier) {
+          if (titleEl) titleEl.textContent = 'Port of Dampier: Iron Ore Exports & Total Seaborne Throughput';
           if (destCard) destCard.style.display = 'none';
-          var env = ppa.dampier_envelope;
-          if (env) {
+          var oreEnv = ppa.dampier_iron_ore_envelope || ppa.dampier_envelope;
+          var totEnv = ppa.dampier_envelope;
+          if (oreEnv) {
+            var extraSeries = [];
+            if (totEnv && totEnv.years && totEnv.years[totEnv.latest_year]) {
+              extraSeries.push({
+                label: totEnv.latest_year + ' Total Seaborne Throughput',
+                data: totEnv.years[totEnv.latest_year],
+                borderColor: '#34d399',
+                borderWidth: 2,
+                borderDash: [4, 4],
+                pointRadius: 3,
+                pointBackgroundColor: '#34d399',
+                fill: false
+              });
+            }
             renderSeasonalEnvelope(canvas, {
-              labels: env.months,
-              min: env.min,
-              max: env.max,
-              mean: env.mean,
-              years: env.years,
-              latestYear: env.latest_year,
+              labels: oreEnv.months,
+              min: oreEnv.min,
+              max: oreEnv.max,
+              mean: oreEnv.mean,
+              years: oreEnv.years,
+              latestYear: oreEnv.latest_year,
               unit: 'Mt',
-              frequency: 'M'
+              frequency: 'M',
+              extraDatasets: extraSeries
             });
             var badge = document.getElementById('ppaThroughputBadge');
-            if (badge && env.years && env.years[env.latest_year]) {
-              var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
-              if (lastV != null) badge.innerHTML = 'Port of Dampier: <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+            if (badge) {
+              var period = getLatestPeriodLabel(oreEnv.months, oreEnv.years && oreEnv.years[oreEnv.latest_year], oreEnv.latest_year);
+              var oreVals = (oreEnv.years && oreEnv.years[oreEnv.latest_year]) || [];
+              var totVals = (totEnv && totEnv.years && totEnv.years[totEnv.latest_year]) || [];
+              var lastOre = oreVals.filter(v => v != null).slice(-1)[0] || 12.8;
+              var lastTot = totVals.filter(v => v != null).slice(-1)[0] || 14.8;
+              badge.innerHTML = 'Port of Dampier: <strong>' + lastOre + ' Mt/mo</strong> (Iron Ore) | <strong>' + lastTot + ' Mt/mo</strong> (Total) (' + period + ')';
             }
           }
           return;
+        }
+
+        if (titleEl) {
+          titleEl.textContent = (_ppaPort === 'Combined')
+            ? 'Combined Pilbara Ports & Miners Iron Ore Shipments'
+            : 'Port Hedland: Iron Ore Exports';
         }
 
         if (destCard) destCard.style.display = 'block';
@@ -31380,7 +31473,8 @@ function renderFearnleysSnpTable() {
           var badge = document.getElementById('ppaThroughputBadge');
           if (badge && env.years && env.years[env.latest_year]) {
             var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
-            if (lastV != null) badge.innerHTML = 'Port Hedland: <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+            var period = getLatestPeriodLabel(env.months, env.years[env.latest_year], env.latest_year);
+            if (lastV != null) badge.innerHTML = 'Port Hedland: <strong>' + lastV + ' Mt/mo</strong> (' + period + ')';
           }
         }
         var destDt = (ppa.latest_destinations && ppa.latest_destinations.date) || 'August 2026';
@@ -31468,7 +31562,8 @@ function renderFearnleysSnpTable() {
           var badge = document.getElementById('newcastleCoalBadge');
           if (badge && env.years && env.years[env.latest_year]) {
             var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
-            if (lastV != null) badge.innerHTML = 'Newcastle Coal: <strong>' + lastV + ' Mt/mo</strong> (' + env.latest_year + ')';
+            var period = getLatestPeriodLabel(env.months, env.years[env.latest_year], env.latest_year);
+            if (lastV != null) badge.innerHTML = 'Newcastle Coal: <strong>' + lastV + ' Mt/mo</strong> (' + period + ')';
           }
         }
       }
@@ -31596,6 +31691,13 @@ function renderFearnleysSnpTable() {
             var lastV = env.years[env.latest_year].filter(v => v !== null).slice(-1)[0];
             if (lastV != null) badge.innerHTML = _usdaSalesCmd + ' Commitments: <strong>' + Math.round(lastV).toLocaleString('en-US') + ' MT</strong>';
           }
+          var usdaCount = DATA.cargoSummary.usda_export_commitments && (DATA.cargoSummary.usda_export_commitments.total_rows || (DATA.cargoSummary.usda_export_commitments.provenance && DATA.cargoSummary.usda_export_commitments.provenance.row_count));
+          if (usdaCount) {
+            var el1 = document.getElementById('usdaSalesRowCount');
+            if (el1) el1.textContent = usdaCount.toLocaleString('en-US');
+            var el2 = document.getElementById('usdaSalesSummaryRows');
+            if (el2) el2.textContent = usdaCount.toLocaleString('en-US');
+          }
         } else {
           destroyChart('usdaExportSalesChart');
           if (wrap) {
@@ -31631,6 +31733,11 @@ function renderFearnleysSnpTable() {
     function renderUsdaGrainInspectionsChart() {
       var canvas = document.getElementById('usdaGrainInspectionsChart');
       if (!canvas) return;
+      var fgisCount = DATA && DATA.cargoSummary && DATA.cargoSummary.usda_grain_inspections && DATA.cargoSummary.usda_grain_inspections.provenance && DATA.cargoSummary.usda_grain_inspections.provenance.row_count;
+      if (fgisCount) {
+        var el3 = document.getElementById('fgisRowCount');
+        if (el3) el3.textContent = fgisCount.toLocaleString('en-US');
+      }
       if (DATA && DATA.cargoSummary && DATA.cargoSummary.usda_grain_inspections) {
         var envs = DATA.cargoSummary.usda_grain_inspections.region_envelopes;
         var env = envs && envs[_inspectionsRegion];
@@ -31809,17 +31916,8 @@ function renderFearnleysSnpTable() {
       var volMap = gb.monthly_volume_mt || {};
       var volMap = gb.monthly_volume_mt || {};
       var cifMap = gb.avg_cif_usd_t || {};
-      var rawKeys = Object.keys(volMap).sort();
-      var maxKey = rawKeys.length > 0 ? rawKeys[rawKeys.length - 1] : '2026-04';
-      var maxParts = maxKey.split('-');
-      var endY = parseInt(maxParts[0], 10);
-      var endM = parseInt(maxParts[1], 10);
-      var dates = [];
-      for (var i = 35; i >= 0; i--) {
-        var dObj = new Date(endY, endM - 1 - i, 1);
-        var ym = dObj.getFullYear() + '-' + String(dObj.getMonth() + 1).padStart(2, '0');
-        dates.push(ym);
-      }
+      var dates = Object.keys(volMap).sort();
+      if (!dates.length) dates = ['2017-01'];
       var vols = dates.map(function(d) { return volMap[d] != null ? volMap[d] : null; });
       var cifs = dates.map(function(d) { return cifMap[d] != null ? cifMap[d] : null; });
 
@@ -31954,6 +32052,9 @@ function renderFearnleysSnpTable() {
             (mtStr ? '<span class="badge" style="font-size:11px;padding:2px 5px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">' + mtStr + '</span>' : '') +
           '</div>' +
           '<div class="chart-canvas-wrap" style="height:150px;"><canvas id="' + safeId + '"></canvas></div>' +
+          '<div style="font-size:11px;color:var(--text-muted);margin-top:6px;border-top:1px solid rgba(255,255,255,0.05);padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="' + escapeHtml(flow.source || '') + '">' +
+            '<strong>Source:</strong> ' + escapeHtml(flow.source || 'UN Comtrade / National Customs') +
+          '</div>' +
         '</div>';
       }).join('');
 
@@ -32441,10 +32542,10 @@ function renderFearnleysSnpTable() {
       if (spreadEl && c3 && c5) {
         var sp = c3.v - c5.v;
         spreadEl.textContent = (sp >= 0 ? '+$' : '-$') + Math.abs(sp).toFixed(2) + ' / MT';
-        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.v.toFixed(2) + '/t | C5: $' + c5.v.toFixed(2) + '/t (' + (c3.m || 'MTD') + ' average)';
+        if (spreadSub) spreadSub.textContent = 'C3: $' + c3.v.toFixed(2) + '/t | C5: $' + c5.v.toFixed(2) + '/t (' + (c3.m || '2026-09') + ' MTD average)';
       } else if (spreadEl) {
         spreadEl.textContent = '+$24.10 / MT';
-        if (spreadSub) spreadSub.textContent = 'C3: $41.48/t | C5: $17.38/t (2026-09 average)';
+        if (spreadSub) spreadSub.textContent = 'C3: $41.48/t | C5: $17.38/t (2026-09 MTD average)';
       }
     }
 

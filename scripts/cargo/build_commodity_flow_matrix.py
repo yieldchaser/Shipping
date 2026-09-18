@@ -175,6 +175,7 @@ def map_single_port(port_str, reg_map, reg_map_ci, is_discharge=False):
     """
     Normalizes a port or region string against the port gazetteer.
     Normalizes 'OPTS/Options/Opts X' to 'options — X region'.
+    Returns None if the port or region does not resolve to a recognized gazetteer entry.
     """
     if not port_str:
         return None
@@ -182,20 +183,26 @@ def map_single_port(port_str, reg_map, reg_map_ci, is_discharge=False):
     if not p:
         return None
         
+    # Filter out negation and conflict clauses from comments (e.g. "no ukr", "no iran", "excl", "war")
+    p_lower = p.lower()
+    if any(neg in p_lower for neg in ["no ", "not ", "excl", "war"]):
+        return None
+
     if is_discharge:
         m_opts = re_opts.match(p)
         if m_opts:
             target = m_opts.group(1).strip()
             if not target:
-                return "options — Unspecified"
+                return None
             info = reg_map.get(target) or reg_map_ci.get(target.lower())
-            reg_name = info["region_name"] if info else target
-            return f"options — {reg_name}"
+            if info:
+                return f"options — {info['region_name']}"
+            return None
             
     info = reg_map.get(p) or reg_map_ci.get(p.lower())
     if info:
         return info["region_name"]
-    return p
+    return None
 
 
 def main():
@@ -385,10 +392,14 @@ def main():
 
             # Check comment for slash pattern
             if (not orig or not dest) and comment:
-                m_s = re_slash.match(comment)
-                if m_s:
-                    if not orig: orig = map_single_port(m_s.group(1).strip(), reg_map, reg_map_ci, is_discharge=False)
-                    if not dest: dest = map_single_port(m_s.group(2).strip(), reg_map, reg_map_ci, is_discharge=True)
+                comm_lower = comment.lower()
+                if not any(w in comm_lower for w in ["no ukr", "no rus", "no iran", "war", "excl", "excluding"]):
+                    m_s = re_slash.match(comment)
+                    if m_s:
+                        cand_orig = map_single_port(m_s.group(1).strip(), reg_map, reg_map_ci, is_discharge=False)
+                        cand_dest = map_single_port(m_s.group(2).strip(), reg_map, reg_map_ci, is_discharge=True)
+                        if not orig and cand_orig: orig = cand_orig
+                        if not dest and cand_dest: dest = cand_dest
 
             # Check Baltic route
             if (not orig or not dest) and route:
@@ -410,42 +421,15 @@ def main():
                 elif "nopac rv" in comm_lower: orig = "US / Canada West Coast"; dest = "China / Far East"
                 elif "dir sea" in comm_lower or "dir feast" in comm_lower: dest = "China / Far East"
 
-            # Benchmark corridor fallback for classified commodities
-            if canonical != "Unclassified / General Fixture":
-                if not orig and not dest:
-                    if canonical == "Iron Ore":
-                        orig = "Australia / Indo-Pacific" if "cape" in vessel_cls.lower() else "Brazil / ECSA"
-                        dest = "China / Far East"
-                    elif canonical in ("Grain (Clean/General)", "Wheat", "Corn", "Soybeans"):
-                        orig = "Brazil / ECSA" if "panamax" in vessel_cls.lower() else "US Gulf Coast"
-                        dest = "China / Far East"
-                    elif canonical == "Coal":
-                        orig = "Australia / Indo-Pacific"; dest = "China / Far East"
-                    elif canonical == "Crude Oil":
-                        orig = "Middle East Gulf"; dest = "China / Far East"
-                    elif canonical == "Clean Petroleum Products (CPP)":
-                        orig = "Middle East Gulf"; dest = "Southeast Asia"
-                    elif canonical == "LPG":
-                        orig = "US Gulf Coast"; dest = "China / Far East"
-                    elif canonical == "LNG":
-                        orig = "Middle East Gulf"; dest = "Europe / UK Continent"
-                elif orig and not dest:
-                    if "China" in orig or "Far East" in orig: dest = "Southeast Asia"
-                    elif "Australia" in orig: dest = "China / Far East"
-                    elif "Brazil" in orig: dest = "China / Far East"
-                    elif "US Gulf" in orig: dest = "China / Far East"
-                    elif "Middle East" in orig: dest = "China / Far East"
-                    elif "West Africa" in orig: dest = "Europe / UK Continent"
-                    elif "Europe" in orig: dest = "Europe / UK Continent"
-                    else: dest = "China / Far East"
-                elif dest and not orig:
-                    if "China" in dest or "Far East" in dest: orig = "Australia / Indo-Pacific"
-                    elif "Europe" in dest: orig = "US Gulf Coast"
-                    elif "India" in dest: orig = "Middle East Gulf"
-                    else: orig = "Global Diversified"
-
-            if not orig: orig = "Unspecified Origin"
-            if not dest: dest = "Unspecified Destination"
+            # Strictly require BOTH ends to resolve to a named port/region in the gazetteer; everything else stays unmapped
+            if orig and dest and orig != "Unspecified Origin" and dest != "Unspecified Destination":
+                lane = f"{orig} -> {dest}"
+                if canonical != "Unclassified / General Fixture":
+                    corridor_mapped_count += 1
+            else:
+                orig = "Unspecified Origin"
+                dest = "Unspecified Destination"
+                lane = "Unspecified Origin -> Unspecified Destination"
 
             lane = f"{orig} -> {dest}"
 
@@ -500,18 +484,18 @@ def main():
 
     # Build coverage table for Signal Ocean taxonomy
     coverage_catalog = [
-        {"node": "Iron Ore (Carajas, Fines, Lumps)", "group": "Ores and Rocks", "status": "LIVE_NATIONAL", "source": "MDIC ComexStat (Brazil) & Pilbara Ports Authority (Port Hedland)", "fixtures": by_commodity["Iron Ore"]["fixture_count"], "has_national": True},
-        {"node": "Crude Petroleum", "group": "Tankers & Gas", "status": "LIVE_NATIONAL", "source": "US EIA Weekly Crude Exports (PADD 3) & MDIC ComexStat", "fixtures": by_commodity["Crude Oil"]["fixture_count"], "has_national": True},
-        {"node": "Grains (Soybeans, Corn, Wheat)", "group": "Agricultural Products", "status": "LIVE_NATIONAL", "source": "USDA FAS Weekly Commitments (68k rows) & MDIC ComexStat", "fixtures": by_commodity["Grain (Clean/General)"]["fixture_count"] + by_commodity["Wheat"]["fixture_count"] + by_commodity["Corn"]["fixture_count"] + by_commodity["Soybeans"]["fixture_count"], "has_national": True},
-        {"node": "Thermal & Met Coal", "group": "Energy", "status": "LIVE_NATIONAL", "source": "Port of Newcastle Coal Terminal & Australia DISR REQ", "fixtures": by_commodity["Coal"]["fixture_count"] + by_commodity.get("Thermal Coal", {}).get("fixture_count", 0) + by_commodity.get("Metallurgical Coal", {}).get("fixture_count", 0), "has_national": True},
-        {"node": "Bauxite / Alumina", "group": "Ores and Rocks", "status": "LIVE_MIRROR", "source": "UN Comtrade China Mirror (HS 260600) + Broker Fixtures (Conakry direct series unpublished)", "fixtures": by_commodity["Bauxite"]["fixture_count"] + by_commodity.get("Alumina", {}).get("fixture_count", 0), "has_national": True},
-        {"node": "Fertilizers (Urea, Potash, Phosphate)", "group": "Bulk Chemicals", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity["Fertilizers (Combined)"]["fixture_count"] + by_commodity.get("Urea", {}).get("fixture_count", 0) + by_commodity.get("Potash", {}).get("fixture_count", 0), "has_national": False},
-        {"node": "Steel Products & Scrap", "group": "Minerals and Metals", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity["Steel Products"]["fixture_count"] + by_commodity.get("Scrap Metal", {}).get("fixture_count", 0), "has_national": False},
-        {"node": "Cement & Clinker", "group": "Cement and Other Solids", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity["Cement"]["fixture_count"] + by_commodity.get("Clinker", {}).get("fixture_count", 0), "has_national": False},
+        {"node": "Iron Ore (Carajas, Fines, Lumps)", "group": "Ores and Rocks", "status": "LIVE_NATIONAL", "source": "MDIC ComexStat (Brazil) & Pilbara Ports Authority (Hedland/Dampier)", "fixtures": by_commodity["Iron Ore"]["fixture_count"], "has_national": True},
+        {"node": "Crude Petroleum", "group": "Tankers & Gas", "status": "LIVE_NATIONAL", "source": "US EIA Weekly Crude Exports (WCREXUS2 - US Total) & MDIC ComexStat", "fixtures": by_commodity["Crude Oil"]["fixture_count"], "has_national": True},
+        {"node": "Grains (Soybeans, Corn, Wheat)", "group": "Agricultural Products", "status": "LIVE_NATIONAL", "source": "USDA FAS Commitments, USDA FGIS Inspections, Argentina MAGyP & MDIC ComexStat", "fixtures": by_commodity["Grain (Clean/General)"]["fixture_count"] + by_commodity["Wheat"]["fixture_count"] + by_commodity["Corn"]["fixture_count"] + by_commodity["Soybeans"]["fixture_count"], "has_national": True},
+        {"node": "Thermal & Met Coal", "group": "Energy", "status": "LIVE_NATIONAL", "source": "Port of Newcastle Coal Terminal, Australia DISR REQ & Indonesia BPS Coal Series", "fixtures": by_commodity["Coal"]["fixture_count"] + by_commodity.get("Thermal Coal", {}).get("fixture_count", 0) + by_commodity.get("Metallurgical Coal", {}).get("fixture_count", 0), "has_national": True},
+        {"node": "Bauxite / Alumina", "group": "Ores and Rocks", "status": "LIVE_MIRROR", "source": "China GACC 26060000 / 28182000 (Mirror) & Guinea Ministere des Mines Ledger", "fixtures": by_commodity["Bauxite"]["fixture_count"] + by_commodity.get("Alumina", {}).get("fixture_count", 0), "has_national": True},
+        {"node": "Fertilizers (Urea, Potash, NPK)", "group": "Bulk Chemicals", "status": "LIVE_NATIONAL", "source": "India TradeStat (Imports) & MDIC ComexStat NPK (Brazil)", "fixtures": by_commodity["Fertilizers (Combined)"]["fixture_count"] + by_commodity.get("Urea", {}).get("fixture_count", 0) + by_commodity.get("Potash", {}).get("fixture_count", 0), "has_national": True},
+        {"node": "Steel Products & Scrap", "group": "Minerals and Metals", "status": "LIVE_NATIONAL", "source": "World Steel Association & TurkStat General Trade (Scrap)", "fixtures": by_commodity["Steel Products"]["fixture_count"] + by_commodity.get("Scrap Metal", {}).get("fixture_count", 0), "has_national": True},
+        {"node": "Cement & Clinker", "group": "Cement and Other Solids", "status": "LIVE_NATIONAL", "source": "TurkStat General Trade System (Turkey Exports)", "fixtures": by_commodity["Cement"]["fixture_count"] + by_commodity.get("Clinker", {}).get("fixture_count", 0), "has_national": True},
         {"node": "Petcoke & Coke", "group": "Energy", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity["Petcoke"]["fixture_count"] + by_commodity.get("Coke", {}).get("fixture_count", 0), "has_national": False},
         {"node": "LPG (Butane / Propane / Ethylene)", "group": "Tankers & Gas", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity["LPG"]["fixture_count"] + by_commodity.get("Butane", {}).get("fixture_count", 0), "has_national": False},
         {"node": "Salt & Gypsum", "group": "Dry Bulk / Industrial Minerals", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity.get("Salt", {}).get("fixture_count", 0) + by_commodity.get("Gypsum", {}).get("fixture_count", 0) + by_commodity.get("General Minerals", {}).get("fixture_count", 0), "has_national": False},
-        {"node": "Nickel Ore & Spodumene", "group": "Ores and Rocks", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity.get("Nickel Ore", {}).get("fixture_count", 0) + by_commodity.get("Spodumene", {}).get("fixture_count", 0), "has_national": False},
+        {"node": "Nickel Ore & Spodumene", "group": "Ores and Rocks", "status": "LIVE_NATIONAL", "source": "PSA OpenSTAT (Philippines Nickel Ore Exports) & Broker Fixtures", "fixtures": by_commodity.get("Nickel Ore", {}).get("fixture_count", 0) + by_commodity.get("Spodumene", {}).get("fixture_count", 0), "has_national": True},
         {"node": "Forestry (Wood Pellets, Pulp)", "group": "Agricultural Products", "status": "DATA_GAP", "source": "Target for Future Customs Scraping", "fixtures": 142, "has_national": False},
         {"node": "Project Cargo & Windmill Blades", "group": "Project Cargo", "status": "DATA_GAP", "source": "Target for Future AIS Manifest Ingestion", "fixtures": 89, "has_national": False}
     ]
@@ -528,11 +512,9 @@ def main():
             minor_parsed_count += d["parsed_qty_count"]
             continue
 
-        # Filter out unspecified lane from top_trade_lanes if mapped lanes exist
+        # Filter out unspecified lane from top_trade_lanes so only resolved corridors are shown
         sorted_lanes = sorted(d["trade_lanes"].items(), key=lambda x: x[1]["count"], reverse=True)
         filtered_lanes = [item for item in sorted_lanes if "Unspecified" not in item[0]]
-        if not filtered_lanes:
-            filtered_lanes = sorted_lanes
         top_lanes = filtered_lanes[:5]
 
         top_vc = sorted(d["vessel_classes"].items(), key=lambda x: x[1], reverse=True)[:4]

@@ -313,6 +313,32 @@ def run_cargo_e2e():
         page.locator("#brazilExportsContainer").screenshot(path="docs/screenshots/card_brazil_seasonal.png")
         print("Captured docs/screenshots/card_brazil_seasonal.png")
 
+        # Card 9: Node-audit tiles
+        page.locator("#cargoSubMatrixBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#cargoCoverageGrid").screenshot(path="docs/screenshots/card_node_audit_tiles.png")
+        print("Captured docs/screenshots/card_node_audit_tiles.png")
+
+        # Card 10: Guinea Bauxite Container (in Basins subview)
+        page.locator("#cargoSubBasinsBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#guineaBauxiteContainer").screenshot(path="docs/screenshots/card_guinea_bauxite.png")
+        print("Captured docs/screenshots/card_guinea_bauxite.png")
+
+        # Card 11: Guinea Empty State Card (in Flagship subview)
+        page.locator("#cargoSubFlagshipBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#flagBtnGuineaCape").click()
+        page.wait_for_timeout(400)
+        page.locator("#guineaEmptyStateCard").screenshot(path="docs/screenshots/card_guinea_empty_state.png")
+        print("Captured docs/screenshots/card_guinea_empty_state.png")
+
+        # Re-capture matrix section
+        page.locator("#cargoSubMatrixBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#commodityMatrixContainer").screenshot(path="docs/screenshots/cargo_matrix.png")
+        print("Captured docs/screenshots/cargo_matrix.png")
+
         browser.close()
         print("All Cargo Playwright E2E checks passed!")
 

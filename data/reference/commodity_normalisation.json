@@ -1711,11 +1711,11 @@
       "basin": "Pacific"
     },
     "OPT": {
-      "region_name": "options \u2014 Unspecified",
+      "region_name": "options —\u2014 Unspecified",
       "basin": "Global"
     },
     "OPTS": {
-      "region_name": "options \u2014 Unspecified",
+      "region_name": "options —\u2014 Unspecified",
       "basin": "Global"
     },
     "Odesa": {
@@ -1727,19 +1727,19 @@
       "basin": "Pacific"
     },
     "Options": {
-      "region_name": "options \u2014 Unspecified",
+      "region_name": "options —\u2014 Unspecified",
       "basin": "Global"
     },
     "Options East": {
-      "region_name": "options \u2014 East / Far East",
+      "region_name": "options —\u2014 East / Far East",
       "basin": "Pacific"
     },
     "Opts": {
-      "region_name": "options \u2014 Unspecified",
+      "region_name": "options —\u2014 Unspecified",
       "basin": "Global"
     },
     "Opts East": {
-      "region_name": "options \u2014 East / Far East",
+      "region_name": "options —\u2014 East / Far East",
       "basin": "Pacific"
     },
     "PAZFLOR": {
