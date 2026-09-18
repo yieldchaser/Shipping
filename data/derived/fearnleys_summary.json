@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T21:58:12.661176Z",
+  "generated_at": "2026-09-17T23:57:08.225944Z",
   "provenance": {
     "source": "Fearnleys Hasura GraphQL Backend (pbrokerapp.hasura.app)",
     "rate_records": 306027,
-    "fixture_records": 547048,
+    "fixture_records": 547049,
     "snp_records": 2620,
     "comment_records": 11731
   },
@@ -18707,9 +18707,9 @@
     }
   },
   "fixtures_analytics": {
-    "total_fixtures": 547048,
+    "total_fixtures": 547049,
     "department_totals": {
-      "BULK": 422606,
+      "BULK": 422607,
       "TANKPRO": 65408,
       "TANK": 44325,
       "LNG": 8119,
@@ -18978,10 +18978,10 @@
       },
       {
         "year": 2026,
-        "bulk": 197795,
+        "bulk": 197796,
         "tank": 3528,
         "gas": 2097,
-        "total": 203469
+        "total": 203470
       }
     ],
     "top_charterers": [
@@ -19216,13 +19216,13 @@
         "date": "2026-09-17",
         "vessel": "NAN",
         "segment": "Panamax",
-        "charterer": "NAN",
+        "charterer": "ED&F MAN",
         "route": "nan",
         "rate": "nan",
         "period": "nan",
         "load_port": "nan",
         "discharge_port": "nan",
-        "comment": "nan"
+        "comment": "need min 14 days notice after fixing"
       },
       {
         "date": "2026-09-17",
