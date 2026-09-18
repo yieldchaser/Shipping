@@ -14252,13 +14252,19 @@ if (intelTabsContainer) {
           </h2>
           <div class="tracking-sub">Measured port calls across 2,065 ports, broker-reported fixtures, disruptions &amp; 28 strategic maritime chokepoints &middot; IMF PortWatch &amp; Fearnleys fixtures</div>
         </div>
-        <div class="tracking-live-tag">
-          <span class="tracking-live-dot"></span>
-          PORTWATCH MEASURED DATA
+        <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+          <div class="tracking-live-tag">
+            <span class="tracking-live-dot"></span>
+            PORTWATCH MEASURED DATA
+          </div>
+          <div class="tracking-live-tag" id="hudPredictiveStrip" style="border-color:rgba(240,136,62,0.4); color:#f0883e; background:rgba(240,136,62,0.1);" data-tooltip="Predictive freight signals: physical port congestion anomalies correlated with forward Baltic spot rates.">
+            <span class="tracking-live-dot" style="background:#f0883e; box-shadow:0 0 6px #f0883e;"></span>
+            PREDICTIVE FREIGHT: <span id="hudPredictiveStripVal" style="font-weight:700; margin-left:3px;">—</span>
+          </div>
         </div>
       </div>
 
-      <!-- 6-KPI HUD STRIP (every value computed live from real caches by updateTrackingHUD) -->
+      <!-- 7-KPI HUD STRIP (every value computed live from real caches by updateTrackingHUD) -->
       <div class="tracking-kpi-grid">
         <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Port Calls Across the Universe" data-tt-val="latest observed day · PortWatch expanded feed" data-tt-fresh="">
           <div class="tracking-kpi-label">Port Calls <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/><line x1="12" y1="1" x2="12" y2="10"/></svg></span></div>
@@ -14289,6 +14295,11 @@ if (intelTabsContainer) {
           <div class="tracking-kpi-label">Red Sea / Bab el-Mandeb <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudRedSeaDiverted" style="color:var(--red);">—</div>
           <div class="tracking-kpi-sub alert" id="hudRedSeaDivertedSub">vs Pre-Disruption Baseline</div>
+        </div>
+        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Predictive Freight Signals" data-tt-val="Port congestion anomalies correlated with Baltic spot rates" data-tt-fresh="">
+          <div class="tracking-kpi-label">Predictive Signals <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle; color:#f0883e;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></span></div>
+          <div class="tracking-kpi-val" id="hudPredictiveAlerts" style="color:#f0883e;">—</div>
+          <div class="tracking-kpi-sub" id="hudPredictiveAlertsSub" style="color:#f0883e;">Physical queues vs forward rates</div>
         </div>
       </div>
 
@@ -18234,6 +18245,16 @@ if (intelTabsContainer) {
           DATA.portStressSummary ? Promise.resolve(DATA.portStressSummary) : fetch('data/derived/port_stress_summary.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => {
             DATA.portStressSummary = data;
           }),
+          DATA.predictiveSignals ? Promise.resolve(DATA.predictiveSignals) : fetch('data/derived/predictive_freight_signals.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => {
+            DATA.predictiveSignals = data;
+            if (typeof updateTrackingHUD === 'function') updateTrackingHUD();
+          }).catch(e => { console.warn('[predictive signals fetch]', e); }),
+          Promise.all(['cape.json', 'dirtytanker.json', 'blng.json', 'blpg.json'].map(fn =>
+            fetch('data/views/indices/' + fn, { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(d => {
+              window.DATA.__balticIndices = window.DATA.__balticIndices || {};
+              if (d) window.DATA.__balticIndices[fn] = d;
+            }).catch(e => {})
+          )),
           Promise.resolve()
         ]);
       })();
@@ -42743,6 +42764,22 @@ function updateTrackingHUD() {
   if (hBelow) hBelow.textContent = cpsWithBase ? (below + ' / ' + cpsWithBase) : '\u2014';
   if (hRedSea) hRedSea.textContent = (t.divertedPct != null) ? ('-' + Math.abs(t.divertedPct).toFixed(1) + '%') : '\u2014';
 
+  var hPred = document.getElementById('hudPredictiveAlerts');
+  var hPredSub = document.getElementById('hudPredictiveAlertsSub');
+  var hStripVal = document.getElementById('hudPredictiveStripVal');
+  var pred = DATA.predictiveSignals;
+  if (pred && pred.summary) {
+    var nAlerts = pred.summary.total_alerts || (pred.alerts ? pred.alerts.length : 0);
+    var tickers = (pred.summary.impacted_tickers || []).join(' / ');
+    if (hPred) hPred.textContent = nAlerts + (nAlerts === 1 ? ' Alert' : ' Alerts');
+    if (hPredSub) hPredSub.textContent = tickers ? (tickers + ' forward rate impact') : 'Physical queues vs forward rates';
+    if (hStripVal) hStripVal.textContent = nAlerts + (nAlerts === 1 ? ' Alert' : ' Alerts');
+  } else {
+    if (hPred) hPred.textContent = '\u2014';
+    if (hPredSub) hPredSub.textContent = 'Awaiting predictive signals';
+    if (hStripVal) hStripVal.textContent = '\u2014';
+  }
+
   var sub0 = document.getElementById('hudUniverseCallsSub');
   if (sub0) sub0.textContent = k.latestDate ? ('PortWatch universe \u00b7 ' + k.latestDate) : 'awaiting PortWatch feed';
   var sub7 = document.getElementById('hudCalls7dSub');
@@ -54469,13 +54506,47 @@ function renderPortStressEnvelopeChart() {
     hist_max: 0
   };
 
+  const assetClass = hubMeta.asset_class || 'Dry Bulk';
+  let indexFile = 'cape.json';
+  let tickerName = 'BCI';
+  if (assetClass === 'Tankers') {
+    indexFile = 'dirtytanker.json';
+    tickerName = 'BDTI';
+  } else if (assetClass === 'LNG') {
+    indexFile = 'blng.json';
+    tickerName = 'BLNG';
+  } else if (assetClass === 'LPG') {
+    indexFile = 'blpg.json';
+    tickerName = 'BLPG';
+  }
+
+  // Check preloaded Baltic index series
+  window.DATA = window.DATA || {};
+  window.DATA.__balticIndices = window.DATA.__balticIndices || {};
+  const indexData = window.DATA.__balticIndices[indexFile];
+
+  if (!indexData && !window.DATA['__loading_' + indexFile]) {
+    window.DATA['__loading_' + indexFile] = true;
+    fetch('data/views/indices/' + indexFile, { cache: 'no-cache' })
+      .then(r => r.ok ? r.json() : null)
+      .then(d => {
+        window.DATA['__loading_' + indexFile] = false;
+        if (d) {
+          window.DATA.__balticIndices[indexFile] = d;
+          if (PORT_STRESS_STATE.selectedPortKey === key) {
+            renderPortStressEnvelopeChart();
+          }
+        }
+      }).catch(() => { window.DATA['__loading_' + indexFile] = false; });
+  }
+
   const titleEl = document.getElementById('portStressChartTitle');
   const subEl = document.getElementById('portStressChartSub');
   if (titleEl) {
     titleEl.textContent = `${hubMeta.name} (${hubMeta.asset_class}) 5-Year Arrival Envelope`;
   }
   if (subEl) {
-    subEl.textContent = `Weekly Calls vs 5Y Seasonal Normal Band [${Math.round(hubMeta.hist_min)}–${Math.round(hubMeta.hist_max)} calls/wk] · IMF PortWatch`;
+    subEl.textContent = `Weekly Calls vs 5Y Seasonal Normal Band [${Math.round(hubMeta.hist_min)}–${Math.round(hubMeta.hist_max)} calls/wk] · Correlated Baltic ${tickerName} Spot Index Overlay`;
   }
 
   const range = PORT_STRESS_STATE.range;
@@ -54490,6 +54561,82 @@ function renderPortStressEnvelopeChart() {
   const maxData = rawSeries.map(pt => pt.max);
   const minData = rawSeries.map(pt => pt.min);
 
+  // Align Baltic Index values with weekly dates
+  let balticValues = [];
+  if (indexData && indexData.dates && indexData.values) {
+    const iDates = indexData.dates;
+    const iVals = indexData.values;
+    let iPtr = 0;
+    let lastKnown = null;
+    balticValues = labels.map(lbl => {
+      while (iPtr < iDates.length && iDates[iPtr] <= lbl) {
+        lastKnown = iVals[iPtr];
+        iPtr++;
+      }
+      return lastKnown;
+    });
+  }
+
+  const datasets = [
+    {
+      label: 'Live Weekly Calls',
+      data: callsData,
+      borderColor: '#58a6ff',
+      backgroundColor: '#58a6ff20',
+      borderWidth: 2,
+      pointRadius: range === '1y' ? 2.5 : 1,
+      pointHoverRadius: 5,
+      tension: 0.15,
+      fill: false,
+      order: 1
+    },
+    {
+      label: '5Y Seasonal Mean',
+      data: meanData,
+      borderColor: '#e3b341',
+      borderWidth: 1.5,
+      borderDash: [4, 4],
+      pointRadius: 0,
+      fill: false,
+      order: 2
+    },
+    {
+      label: '5Y Historical Max Band',
+      data: maxData,
+      borderColor: 'rgba(63, 185, 80, 0.4)',
+      borderWidth: 1,
+      pointRadius: 0,
+      fill: false,
+      order: 3
+    },
+    {
+      label: '5Y Historical Min Band',
+      data: minData,
+      borderColor: 'rgba(63, 185, 80, 0.4)',
+      backgroundColor: 'rgba(63, 185, 80, 0.08)',
+      borderWidth: 1,
+      pointRadius: 0,
+      fill: '-1',
+      order: 4
+    }
+  ];
+
+  if (balticValues.length && balticValues.some(v => v != null)) {
+    datasets.unshift({
+      label: `Baltic ${tickerName} Spot Index`,
+      data: balticValues,
+      yAxisID: 'y1',
+      borderColor: '#f0883e',
+      backgroundColor: 'transparent',
+      borderWidth: 2,
+      pointRadius: range === '1y' ? 2 : 0,
+      pointHoverRadius: 4,
+      tension: 0.15,
+      fill: false,
+      order: 0
+    });
+  }
+
   if (PORT_STRESS_STATE.chartInstance) {
     PORT_STRESS_STATE.chartInstance.destroy();
     PORT_STRESS_STATE.chartInstance = null;
@@ -54499,49 +54646,7 @@ function renderPortStressEnvelopeChart() {
     type: 'line',
     data: {
       labels: labels,
-      datasets: [
-        {
-          label: 'Live Weekly Calls',
-          data: callsData,
-          borderColor: '#58a6ff',
-          backgroundColor: '#58a6ff20',
-          borderWidth: 2,
-          pointRadius: range === '1y' ? 2.5 : 1,
-          pointHoverRadius: 5,
-          tension: 0.15,
-          fill: false,
-          order: 1
-        },
-        {
-          label: '5Y Seasonal Mean',
-          data: meanData,
-          borderColor: '#e3b341',
-          borderWidth: 1.5,
-          borderDash: [4, 4],
-          pointRadius: 0,
-          fill: false,
-          order: 2
-        },
-        {
-          label: '5Y Historical Max Band',
-          data: maxData,
-          borderColor: 'rgba(63, 185, 80, 0.4)',
-          borderWidth: 1,
-          pointRadius: 0,
-          fill: false,
-          order: 3
-        },
-        {
-          label: '5Y Historical Min Band',
-          data: minData,
-          borderColor: 'rgba(63, 185, 80, 0.4)',
-          backgroundColor: 'rgba(63, 185, 80, 0.08)',
-          borderWidth: 1,
-          pointRadius: 0,
-          fill: '-1',
-          order: 4
-        }
-      ]
+      datasets: datasets
     },
     options: {
       responsive: true,
@@ -54560,6 +54665,9 @@ function renderPortStressEnvelopeChart() {
           bodyColor: '#d4dce8',
           callbacks: {
             label: function(item) {
+              if (item.dataset.yAxisID === 'y1') {
+                return ' ' + item.dataset.label + ': ' + (item.parsed.y != null ? Number(item.parsed.y).toLocaleString('en-US') + ' pts' : '—');
+              }
               return ' ' + item.dataset.label + ': ' + Number(item.parsed.y).toFixed(1) + ' calls / week';
             }
           }
@@ -54571,12 +54679,34 @@ function renderPortStressEnvelopeChart() {
           ticks: { color: '#7a8494', font: { family: 'IBM Plex Mono', size: 11 }, maxTicksLimit: 14 }
         },
         y: {
+          position: 'left',
           grid: { color: 'rgba(28, 35, 51, 0.5)' },
           grace: '8%',
           ticks: {
             color: '#7a8494',
             font: { family: 'IBM Plex Mono', size: 11 },
             callback: function(v) { return v + ' calls'; }
+          },
+          title: {
+            display: true,
+            text: 'Weekly Port Influx (Calls)',
+            color: '#7a8494',
+            font: { family: 'IBM Plex Sans', size: 10, weight: 600 }
+          }
+        },
+        y1: {
+          position: 'right',
+          grid: { display: false },
+          ticks: {
+            color: '#f0883e',
+            font: { family: 'IBM Plex Mono', size: 11 },
+            callback: function(v) { return Number(v).toLocaleString('en-US') + ' pts'; }
+          },
+          title: {
+            display: true,
+            text: `Baltic ${tickerName} Spot (Pts)`,
+            color: '#f0883e',
+            font: { family: 'IBM Plex Sans', size: 10, weight: 600 }
           }
         }
       }
