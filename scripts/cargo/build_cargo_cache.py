@@ -1298,10 +1298,26 @@ def process_minor_bulks():
     latest_date = max(all_dates) if all_dates else "2026-08-01"
     span_str = f"{min_date[:4]}–{latest_date[:4]}"
 
+    agency_map = {
+        "China GACC": "China GACC (Alumina)",
+        "TurkStat": "TurkStat (Cement, Scrap)",
+        "MDIC ComexStat": "MDIC ComexStat Brazil (Sugar)",
+        "UN Comtrade": "UN Comtrade (NPK Fertiliser)",
+        "Philippine Statistics Authority": "PSA OpenSTAT (Nickel Ore)",
+        "Ministry of Commerce": "India TradeStat / DGCI&S (Urea)"
+    }
+    present_agencies = []
+    for f in flows.values():
+        src = f.get("source", "")
+        for k, name in agency_map.items():
+            if k in src and name not in present_agencies:
+                present_agencies.append(name)
+    source_summary = " · ".join(present_agencies) if present_agencies else "National Customs Agencies (GACC, TurkStat, MDIC ComexStat, India DGCI&S, PSA)"
+
     provenance = {
-        "source": "UN Comtrade Bilateral Records & MDIC ComexStat (Brazil)",
-        "publisher": "United Nations Statistics Division & MDIC SECEX",
-        "method": "Direct National Customs Records & Bilateral Partner Mirrors",
+        "source": source_summary,
+        "publisher": "National Statistical Agencies (GACC, TurkStat, MDIC, DGCI&S, PSA)",
+        "method": "Direct National Customs Records & Bilateral Mirrors",
         "source_url": "https://comtradeplus.un.org/",
         "span": span_str,
         "min_date": min_date,
@@ -1375,6 +1391,23 @@ def build_flagship_pair(title, origin, dest, route_code, vol_dict, rate_dict, vo
         for m in sorted_months
     ]
 
+    min_year = sorted_months[0][:4] if sorted_months else "2023"
+    max_year = sorted_months[-1][:4] if sorted_months else "2026"
+    span_str = f"{min_year}–{max_year}"
+
+    latest_month = None
+    for m in reversed(sorted_months):
+        if vol_dict.get(m) is not None or (rate_dict and rate_dict.get(m) is not None):
+            latest_month = m
+            break
+    as_of_str = latest_month or (sorted_months[-1] if sorted_months else "2026-08")
+
+    prov = dict(prov_dict) if prov_dict else {}
+    prov["span"] = span_str
+    prov["as_of"] = as_of_str
+    prov["min_month"] = sorted_months[0] if sorted_months else None
+    prov["max_month"] = sorted_months[-1] if sorted_months else None
+
     return {
         "title": title,
         "origin": origin,
@@ -1388,7 +1421,7 @@ def build_flagship_pair(title, origin, dest, route_code, vol_dict, rate_dict, vo
         "freight_unit": freight_unit,
         "freight_data": freight_data,
         "freight_note": freight_note,
-        "provenance": prov_dict
+        "provenance": prov
     }
 
 
@@ -1539,7 +1572,7 @@ def build_flagship_origin_freight(baltic_rates, brazil_data, pilbara_data, newca
         freight_label=None,
         freight_unit=None,
         prov_dict={
-            "volume_source": "GACC HS 260600 bilateral customs mirror via UN Comtrade & SMM Monthly Disclosures",
+            "volume_source": "China General Administration of Customs (GACC HS 260600 bilateral customs mirror via UN Comtrade)",
             "freight_source": None,
             "status": "LIVE_MIRROR",
             "mirror_notice": "Mirror trade flow. Bilateral GACC China import mirror cross-referenced with Guinea Ministry of Mines direct releases."

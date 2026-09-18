@@ -2094,12 +2094,12 @@
       "fetch_method": "MAGyP Official Port Loading Harvester",
       "fetch_script": "scripts/scrapers/fetch_argentina_grain.py",
       "output_file": "data/commodities/argentina_grain_exports_monthly.csv",
-      "row_count": 43,
+      "row_count": 55,
       "date_span": [
-        "2023-01-01",
+        "2022-01-01",
         "2026-07-01"
       ],
-      "last_fetched_utc": "2026-09-17T14:06:46.105878+00:00",
+      "last_fetched_utc": "2026-09-18T05:14:27.995561+00:00",
       "unit": "Mt / month",
       "is_derived": false,
       "derivation": null,

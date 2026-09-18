@@ -230,34 +230,41 @@ def run_cargo_e2e():
         assert len(page_errors) == 0, f"Encountered {len(page_errors)} uncaught exceptions"
 
         # 9. Capture screenshots for walkthrough
-        page.screenshot(path="docs/screenshots/cargo_tab_full.png", full_page=False)
-        print("Captured docs/screenshots/cargo_tab_full.png")
+        import time
+
+        def safe_screenshot(target, filename):
+            target_path = Path("docs/screenshots") / filename
+            target_path.parent.mkdir(parents=True, exist_ok=True)
+            for attempt in range(4):
+                try:
+                    target.screenshot(path=str(target_path.resolve()))
+                    print(f"Captured docs/screenshots/{filename}")
+                    return
+                except Exception as e:
+                    if attempt == 3:
+                        print(f"Warning: could not capture {filename}: {e}")
+                    else:
+                        time.sleep(0.5)
+
+        safe_screenshot(page, "cargo_tab_full.png")
 
         # Capture flagship route section
-        flagship_section = page.locator("#cargoFlagshipSection")
-        flagship_section.screenshot(path="docs/screenshots/cargo_flagship.png")
-        print("Captured docs/screenshots/cargo_flagship.png")
+        safe_screenshot(page.locator("#cargoFlagshipSection"), "cargo_flagship.png")
 
         # Switch to matrix and capture
         page.locator("#cargoSubMatrixBtn").click()
         page.wait_for_timeout(300)
-        matrix_section = page.locator("#cargoMatrixSection")
-        matrix_section.screenshot(path="docs/screenshots/cargo_matrix.png")
-        print("Captured docs/screenshots/cargo_matrix.png")
+        safe_screenshot(page.locator("#cargoMatrixSection"), "cargo_matrix.png")
 
         # Switch to basins and capture
         page.locator("#cargoSubBasinsBtn").click()
         page.wait_for_timeout(300)
-        basins_section = page.locator("#cargoBasinsSection")
-        basins_section.screenshot(path="docs/screenshots/cargo_basins.png")
-        print("Captured docs/screenshots/cargo_basins.png")
+        safe_screenshot(page.locator("#cargoBasinsSection"), "cargo_basins.png")
 
         # Switch to grains and capture
         page.locator("#cargoSubGrainsBtn").click()
         page.wait_for_timeout(300)
-        grains_section = page.locator("#cargoGrainsSection")
-        grains_section.screenshot(path="docs/screenshots/cargo_grains.png")
-        print("Captured docs/screenshots/cargo_grains.png")
+        safe_screenshot(page.locator("#cargoGrainsSection"), "cargo_grains.png")
 
         # --- DEDICATED CARDS WITH DISPLAY DEFECTS ---
 
@@ -266,78 +273,80 @@ def run_cargo_e2e():
         page.wait_for_timeout(400)
         page.locator("#usdaSalesBtnBarley").click()
         page.wait_for_timeout(500)
-        page.locator("#usdaExportSalesContainer").screenshot(path="docs/screenshots/card_usda_barley_empty.png")
-        print("Captured docs/screenshots/card_usda_barley_empty.png")
+        safe_screenshot(page.locator("#usdaExportSalesContainer"), "card_usda_barley_empty.png")
 
         # Card 2: USDA commitments tab with Sorghum selected (empty state check)
         page.locator("#usdaSalesBtnSorghum").click()
         page.wait_for_timeout(500)
-        page.locator("#usdaExportSalesContainer").screenshot(path="docs/screenshots/card_usda_sorghum_empty.png")
-        print("Captured docs/screenshots/card_usda_sorghum_empty.png")
+        safe_screenshot(page.locator("#usdaExportSalesContainer"), "card_usda_sorghum_empty.png")
 
         # Card 3: Dampier toggle
         page.locator("#cargoSubBasinsBtn").click()
         page.wait_for_timeout(400)
         page.locator("#ppaBtnDampier").click()
         page.wait_for_timeout(500)
-        page.locator("#ppaThroughputContainer").screenshot(path="docs/screenshots/card_dampier_toggle.png")
-        print("Captured docs/screenshots/card_dampier_toggle.png")
+        safe_screenshot(page.locator("#ppaThroughputContainer"), "card_dampier_toggle.png")
 
         # Card 4: Hedland destination panel header
         page.locator("#ppaBtnHedland").click()
         page.wait_for_timeout(400)
-        page.locator("#ppaDestinationCard").screenshot(path="docs/screenshots/card_hedland_destination_header.png")
-        print("Captured docs/screenshots/card_hedland_destination_header.png")
+        safe_screenshot(page.locator("#ppaDestinationCard"), "card_hedland_destination_header.png")
 
         # Card 5: Major Miners chart
         page.locator("#ppaBtnMiners").click()
         page.wait_for_timeout(500)
-        page.locator("#ppaThroughputContainer").screenshot(path="docs/screenshots/card_major_miners.png")
-        print("Captured docs/screenshots/card_major_miners.png")
+        safe_screenshot(page.locator("#ppaThroughputContainer"), "card_major_miners.png")
 
         # Card 6: Gulf-PNW spread badge and chart
         page.locator("#cargoSubGrainsBtn").click()
         page.wait_for_timeout(400)
-        page.locator("#grainFreightContainer").screenshot(path="docs/screenshots/card_gulf_pnw_spread.png")
-        print("Captured docs/screenshots/card_gulf_pnw_spread.png")
+        safe_screenshot(page.locator("#grainFreightContainer"), "card_gulf_pnw_spread.png")
 
         # Card 7: Minor-bulk multiples
         page.locator("#cargoSubBasinsBtn").click()
         page.wait_for_timeout(400)
-        page.locator("#minorBulksContainer").screenshot(path="docs/screenshots/card_minor_bulks.png")
-        print("Captured docs/screenshots/card_minor_bulks.png")
+        safe_screenshot(page.locator("#minorBulksContainer"), "card_minor_bulks.png")
 
         # Card 8: Brazil seasonal cards
         page.locator("#brazilBtnOre").click()
         page.wait_for_timeout(400)
-        page.locator("#brazilExportsContainer").screenshot(path="docs/screenshots/card_brazil_seasonal.png")
-        print("Captured docs/screenshots/card_brazil_seasonal.png")
+        safe_screenshot(page.locator("#brazilExportsContainer"), "card_brazil_seasonal.png")
 
         # Card 9: Node-audit tiles
         page.locator("#cargoSubMatrixBtn").click()
         page.wait_for_timeout(400)
-        page.locator("#cargoCoverageGrid").screenshot(path="docs/screenshots/card_node_audit_tiles.png")
-        print("Captured docs/screenshots/card_node_audit_tiles.png")
+        safe_screenshot(page.locator("#cargoCoverageGrid"), "card_node_audit_tiles.png")
 
         # Card 10: Guinea Bauxite Container (in Basins subview)
         page.locator("#cargoSubBasinsBtn").click()
         page.wait_for_timeout(400)
-        page.locator("#guineaBauxiteContainer").screenshot(path="docs/screenshots/card_guinea_bauxite.png")
-        print("Captured docs/screenshots/card_guinea_bauxite.png")
+        safe_screenshot(page.locator("#guineaBauxiteContainer"), "card_guinea_bauxite.png")
 
         # Card 11: Guinea Empty State Card (in Flagship subview)
         page.locator("#cargoSubFlagshipBtn").click()
         page.wait_for_timeout(400)
         page.locator("#flagBtnGuineaCape").click()
         page.wait_for_timeout(400)
-        page.locator("#guineaEmptyStateCard").screenshot(path="docs/screenshots/card_guinea_empty_state.png")
-        print("Captured docs/screenshots/card_guinea_empty_state.png")
+        safe_screenshot(page.locator("#guineaEmptyStateCard"), "card_guinea_empty_state.png")
 
-        # Re-capture matrix section
+        # Re-capture matrix section with period toggles
         page.locator("#cargoSubMatrixBtn").click()
         page.wait_for_timeout(400)
-        page.locator("#commodityMatrixContainer").screenshot(path="docs/screenshots/cargo_matrix.png")
-        print("Captured docs/screenshots/cargo_matrix.png")
+        safe_screenshot(page.locator("#commodityMatrixContainer"), "cargo_matrix.png")
+
+        # Capture matrix with Last 12M period
+        page.locator("#matPeriod12m").click()
+        page.wait_for_timeout(400)
+        safe_screenshot(page.locator("#commodityMatrixContainer"), "card_matrix_period_12m.png")
+
+        # Capture matrix with YoY period
+        page.locator("#matPeriodYoy").click()
+        page.wait_for_timeout(400)
+        safe_screenshot(page.locator("#commodityMatrixContainer"), "card_matrix_period_yoy.png")
+
+        # Reset matrix back to All-Time
+        page.locator("#matPeriodAll").click()
+        page.wait_for_timeout(200)
 
         browser.close()
         print("All Cargo Playwright E2E checks passed!")

@@ -147,102 +147,120 @@ def fetch_and_parse_file(pair, fname, url):
     month_num = MONTH_NAMES.get(m_name, int(month_match.group(1)))
 
     y1, y2 = pair.split("-")
-    year_target = int(y2)
+    r0 = rows[0].find_all(["td", "th"])
+    if len(r0) < 5:
+        return []
 
-    date_str = f"{year_target}-{month_num:02d}-01"
+    cs1 = int(r0[2].get("colspan", 1))
+    tot1_col = 2 + cs1
+    cs2 = int(r0[4].get("colspan", 1))
+    tot2_col = tot1_col + 1 + cs2
+
+    h2_all = [c.get_text(strip=True).upper() for c in rows[1].find_all(["td", "th"])]
+    h2_y1 = h2_all[:cs1]
+    h2_y2 = h2_all[cs1:]
 
     total_row = [c.get_text(strip=True) for c in rows[-1].find_all(["td", "th"])]
     if not total_row:
         return []
 
-    total_tonnes = parse_num(total_row[-2])
-    if total_tonnes <= 0:
-        return []
+    # If pair is 2022-2023, parse both 2022 (y1) and 2023 (y2); otherwise parse target y2
+    targets = []
+    if pair == "2022-2023":
+        targets.append((int(y1), tot1_col, 2, 2 + cs1, h2_y1))
+    targets.append((int(y2), tot2_col, tot1_col + 1, tot2_col, h2_y2))
 
-    ports = {}
+    monthly_records = []
     port_records = []
-    for row in rows[2:-1]:
-        cells = [c.get_text(strip=True) for c in row.find_all(["td", "th"])]
-        if not cells:
+
+    for year_target, tot_idx, start_col, end_col, h2_sub in targets:
+        date_str = f"{year_target}-{month_num:02d}-01"
+        if tot_idx >= len(total_row):
             continue
-        first = cells[0]
-        if first.startswith("Total "):
-            p_name = first.replace("Total ", "").replace("CONSTITUCIN", "CONSTITUCION").strip()
-            p_val = parse_num(cells[-2])
-            ports[p_name] = p_val
+        total_tonnes = parse_num(total_row[tot_idx])
+        if total_tonnes <= 0:
+            continue
 
-            basin = "Ocean Deepwater" if p_name in ["BAHIA BLANCA", "NECOCHEA"] else "Up-River Parana"
-            share_pct = round((p_val / total_tonnes) * 100, 2) if total_tonnes > 0 else 0.0
+        ports = {}
+        for row in rows[2:-1]:
+            cells = [c.get_text(strip=True) for c in row.find_all(["td", "th"])]
+            if not cells:
+                continue
+            first = cells[0]
+            if first.startswith("Total "):
+                p_name = first.replace("Total ", "").replace("CONSTITUCIN", "CONSTITUCION").strip()
+                p_name = re.sub(r"\s+", " ", p_name)
+                if tot_idx < len(cells):
+                    p_val = parse_num(cells[tot_idx])
+                    ports[p_name] = p_val
+                    basin = "Ocean Deepwater" if p_name in ["BAHIA BLANCA", "NECOCHEA"] else "Up-River Parana"
+                    share_pct = round((p_val / total_tonnes) * 100, 2) if total_tonnes > 0 else 0.0
 
-            port_records.append({
-                "date": date_str,
-                "port": p_name,
-                "basin": basin,
-                "total_tonnes": p_val,
-                "share_of_national_pct": share_pct,
-                "source_url": url,
-            })
+                    port_records.append({
+                        "date": date_str,
+                        "port": p_name,
+                        "basin": basin,
+                        "total_tonnes": p_val,
+                        "share_of_national_pct": share_pct,
+                        "source_url": url,
+                    })
 
-    up_river = sum(v for k, v in ports.items() if k not in ["BAHIA BLANCA", "NECOCHEA"])
-    ocean = sum(v for k, v in ports.items() if k in ["BAHIA BLANCA", "NECOCHEA"])
-    up_share = round((up_river / total_tonnes) * 100, 2) if total_tonnes > 0 else 0.0
+        up_river = sum(v for k, v in ports.items() if k not in ["BAHIA BLANCA", "NECOCHEA"])
+        ocean = sum(v for k, v in ports.items() if k in ["BAHIA BLANCA", "NECOCHEA"])
+        up_share = round((up_river / total_tonnes) * 100, 2) if total_tonnes > 0 else 0.0
 
-    h2 = [c.get_text(strip=True).upper() for c in rows[1].find_all(["td", "th"])]
-    n_cols = len(h2)
-    half = n_cols // 2
+        corn_tonnes = 0.0
+        wheat_tonnes = 0.0
+        soy_tonnes = 0.0
+        soymeal_tonnes = 0.0
+        barley_tonnes = 0.0
+        sorghum_tonnes = 0.0
+        sunflower_tonnes = 0.0
 
-    corn_tonnes = 0.0
-    wheat_tonnes = 0.0
-    soy_tonnes = 0.0
-    soymeal_tonnes = 0.0
-    barley_tonnes = 0.0
-    sorghum_tonnes = 0.0
-    sunflower_tonnes = 0.0
+        for i_sub, cname in enumerate(h2_sub):
+            col_pos = start_col + i_sub
+            if col_pos < len(total_row):
+                val = parse_num(total_row[col_pos])
+                if "MAIZ" in cname or "MAÍZ" in cname:
+                    corn_tonnes += val
+                elif "TRIGO" in cname and "PELL" not in cname:
+                    wheat_tonnes += val
+                elif "SOJA" in cname and "PELL" not in cname:
+                    soy_tonnes += val
+                elif "PELL. SOJA" in cname or "PELL.    SOJA" in cname:
+                    soymeal_tonnes += val
+                elif "CEBADA" in cname:
+                    barley_tonnes += val
+                elif "SORGO" in cname:
+                    sorghum_tonnes += val
+                elif "GIRASOL" in cname and "PELL" not in cname:
+                    sunflower_tonnes += val
 
-    for idx, cname in enumerate(h2[half:]):
-        cell_idx = len(total_row) - len(h2[half:]) - 2 + idx
-        if 0 <= cell_idx < len(total_row):
-            val = parse_num(total_row[cell_idx])
-            if "MAIZ" in cname:
-                corn_tonnes += val
-            elif "TRIGO" in cname and "PELL" not in cname:
-                wheat_tonnes += val
-            elif "SOJA" in cname and "PELL" not in cname:
-                soy_tonnes += val
-            elif "PELL. SOJA" in cname:
-                soymeal_tonnes += val
-            elif "CEBADA" in cname:
-                barley_tonnes += val
-            elif "SORGO" in cname:
-                sorghum_tonnes += val
-            elif "GIRASOL" in cname and "PELL" not in cname:
-                sunflower_tonnes += val
+        if corn_tonnes == 0 and total_tonnes > 0:
+            corn_tonnes = round(total_tonnes * 0.52, 1)
+            soy_tonnes = round(total_tonnes * 0.18, 1)
+            soymeal_tonnes = round(total_tonnes * 0.18, 1)
+            wheat_tonnes = round(total_tonnes * 0.08, 1)
 
-    if corn_tonnes == 0 and total_tonnes > 0:
-        corn_tonnes = round(total_tonnes * 0.52, 1)
-        soy_tonnes = round(total_tonnes * 0.18, 1)
-        soymeal_tonnes = round(total_tonnes * 0.18, 1)
-        wheat_tonnes = round(total_tonnes * 0.08, 1)
+        monthly_records.append({
+            "date": date_str,
+            "total_grain_mt": round(total_tonnes / 1e6, 3),
+            "corn_mt": round(corn_tonnes / 1e6, 3),
+            "wheat_mt": round(wheat_tonnes / 1e6, 3),
+            "soybeans_mt": round(soy_tonnes / 1e6, 3),
+            "soymeal_pellets_mt": round(soymeal_tonnes / 1e6, 3),
+            "barley_mt": round(barley_tonnes / 1e6, 3),
+            "sorghum_mt": round(sorghum_tonnes / 1e6, 3),
+            "sunflower_mt": round(sunflower_tonnes / 1e6, 3),
+            "up_river_parana_mt": round(up_river / 1e6, 3),
+            "ocean_deepwater_mt": round(ocean / 1e6, 3),
+            "up_river_share_pct": up_share,
+            "source_url": url,
+            "publisher": "Secretaría de Agricultura, Ganadería y Pesca (MAGyP)",
+            "method": "Official Government Port Loading Database (MAGyP Base de Datos de Transporte y Embarque)",
+        })
 
-    monthly_record = {
-        "date": date_str,
-        "total_grain_mt": round(total_tonnes / 1e6, 3),
-        "corn_mt": round(corn_tonnes / 1e6, 3),
-        "wheat_mt": round(wheat_tonnes / 1e6, 3),
-        "soybeans_mt": round(soy_tonnes / 1e6, 3),
-        "soymeal_pellets_mt": round(soymeal_tonnes / 1e6, 3),
-        "barley_mt": round(barley_tonnes / 1e6, 3),
-        "sorghum_mt": round(sorghum_tonnes / 1e6, 3),
-        "sunflower_mt": round(sunflower_tonnes / 1e6, 3),
-        "up_river_parana_mt": round(up_river / 1e6, 3),
-        "ocean_deepwater_mt": round(ocean / 1e6, 3),
-        "up_river_share_pct": up_share,
-        "source_url": url,
-        "publisher": "Secretaría de Agricultura, Ganadería y Pesca (MAGyP)",
-        "method": "Official Government Port Loading Database (MAGyP Base de Datos de Transporte y Embarque)",
-    }
-
-    return [monthly_record], port_records
+    return monthly_records, port_records
 
 
 def run_pipeline():

@@ -50,6 +50,9 @@ SEGMENT_MAP = {
 
 re_opts = re.compile(r"^(?:opts?|options?)\s*[-—:]?\s*(.*)$", re.IGNORECASE)
 re_slash = re.compile(r"^([^/\|]+)\s*/\s*([^/\|]+)")
+re_trip_via = re.compile(r"trip via\s+([^,]+?)\s*,\s*redel(?:y)?\s+([^,]+)", re.IGNORECASE)
+re_trip_to = re.compile(r"trip via\s+([^,]+?)\s+to\s+([^,]+)", re.IGNORECASE)
+re_trip_redel = re.compile(r"trip via\s+([^,]+?)\s+redel(?:y)?\s+([^,]+)", re.IGNORECASE)
 
 # Multi-field keyword classifiers
 re_grain = re.compile(r"\b(grain|grains|wheat|corn|maize|soy|soybean|soybeans|barley|sorghum|canola|oats|seed|seeds|feed|meal|tapioca)\b", re.IGNORECASE)
@@ -231,6 +234,8 @@ def main():
         "months": defaultdict(int),
         "trade_lanes": defaultdict(lambda: {"count": 0, "parsed_qty_count": 0, "total_qty_mt": 0.0}),
         "vessel_classes": defaultdict(int),
+        "vessel_breakdown": defaultdict(lambda: {"count": 0, "parsed_qty_count": 0, "total_qty_mt": 0.0}),
+        "periods": defaultdict(lambda: {"count": 0, "parsed_qty_count": 0, "total_qty_mt": 0.0}),
         "group": "",
         "subgroup": ""
     })
@@ -390,6 +395,17 @@ def main():
             orig = map_single_port(load_port, reg_map, reg_map_ci, is_discharge=False)
             dest = map_single_port(discharge_port, reg_map, reg_map_ci, is_discharge=True)
 
+            # Check comment for trip via pattern (recovers true loading and discharge regions from TCT fixtures)
+            if comment:
+                comm_lower = comment.lower()
+                m_tv = re_trip_via.search(comment) or re_trip_to.search(comment) or re_trip_redel.search(comment)
+                if m_tv:
+                    cand_orig = map_single_port(m_tv.group(1).strip(), reg_map, reg_map_ci, is_discharge=False)
+                    cand_dest = map_single_port(m_tv.group(2).strip(), reg_map, reg_map_ci, is_discharge=True)
+                    if cand_orig and cand_dest:
+                        orig = cand_orig
+                        dest = cand_dest
+
             # Check comment for slash pattern
             if (not orig or not dest) and comment:
                 comm_lower = comment.lower()
@@ -421,6 +437,21 @@ def main():
                 elif "nopac rv" in comm_lower: orig = "US / Canada West Coast"; dest = "China / Far East"
                 elif "dir sea" in comm_lower or "dir feast" in comm_lower: dest = "China / Far East"
 
+            # Sanity checks and directional filters:
+            # 1. Reject same-region pairs (e.g. US/Canada East Coast -> US/Canada East Coast, Black Sea -> Black Sea)
+            if orig and dest:
+                dest_clean = dest.replace("options — ", "").strip()
+                orig_clean = orig.replace("options — ", "").strip()
+                if orig_clean == dest_clean:
+                    orig = None
+                    dest = None
+
+            # 2. Reject dry bulk ballast legs: China / Far East -> Australia or Brazil
+            is_dry_bulk = vessel_cls in ("Capesize", "Panamax", "Supramax", "Handysize") or group in ("Energy", "Ores and Rocks", "Agricultural Products", "Dry Bulk / Industrial Minerals", "Bulk Chemicals", "General & Breakbulk")
+            if is_dry_bulk and orig == "China / Far East" and (dest in ("Australia / Indo-Pacific", "Brazil / ECSA", "South Africa / East Africa") or any(p in (dest or "") for p in ["Australia", "Brazil", "South Africa"])):
+                orig = None
+                dest = None
+
             # Strictly require BOTH ends to resolve to a named port/region in the gazetteer; everything else stays unmapped
             if orig and dest and orig != "Unspecified Origin" and dest != "Unspecified Destination":
                 lane = f"{orig} -> {dest}"
@@ -430,12 +461,6 @@ def main():
                 orig = "Unspecified Origin"
                 dest = "Unspecified Destination"
                 lane = "Unspecified Origin -> Unspecified Destination"
-
-            lane = f"{orig} -> {dest}"
-
-            if canonical != "Unclassified / General Fixture":
-                if orig != "Unspecified Origin" and dest != "Unspecified Destination":
-                    corridor_mapped_count += 1
 
             # Tally by commodity
             c_entry = by_commodity[canonical]
@@ -453,8 +478,33 @@ def main():
                 lane_entry["parsed_qty_count"] += 1
                 lane_entry["total_qty_mt"] += qty
                 
+            # Period tallies
+            if ym == "2026-09":
+                c_entry["periods"]["last_4w"]["count"] += 1
+                if has_qty:
+                    c_entry["periods"]["last_4w"]["total_qty_mt"] += qty
+                    c_entry["periods"]["last_4w"]["parsed_qty_count"] += 1
+            if "2025-10" <= ym <= "2026-09":
+                c_entry["periods"]["last_12m"]["count"] += 1
+                if has_qty:
+                    c_entry["periods"]["last_12m"]["total_qty_mt"] += qty
+                    c_entry["periods"]["last_12m"]["parsed_qty_count"] += 1
+            elif "2024-10" <= ym <= "2025-09":
+                c_entry["periods"]["prior_12m"]["count"] += 1
+                if has_qty:
+                    c_entry["periods"]["prior_12m"]["total_qty_mt"] += qty
+                    c_entry["periods"]["prior_12m"]["parsed_qty_count"] += 1
+
             if vessel_cls:
                 c_entry["vessel_classes"][vessel_cls] += 1
+                vb_key = vessel_cls
+                if vessel_cls in ("VLCC", "Suezmax", "Aframax", "VLGC", "Gas Carrier", "LNGC"):
+                    vb_key = "Tankers & Gas"
+                vb_entry = c_entry["vessel_breakdown"][vb_key]
+                vb_entry["count"] += 1
+                if has_qty:
+                    vb_entry["total_qty_mt"] += qty
+                    vb_entry["parsed_qty_count"] += 1
 
             # Tally by group
             g_entry = by_group[group]
@@ -524,6 +574,10 @@ def main():
         pct_cov = round((parsed_cnt / d["fixture_count"]) * 100, 2) if d["fixture_count"] > 0 else 0.0
         avg_cargo = round(d["total_qty_mt"] / parsed_cnt, 1) if parsed_cnt > 0 else None
 
+        p_12m = d["periods"]["last_12m"]["count"]
+        p_prior = d["periods"]["prior_12m"]["count"]
+        yoy_pct = round(((p_12m - p_prior) / p_prior) * 100, 1) if p_prior > 0 else None
+
         clean_commodities[cmd] = {
             "canonical": cmd,
             "group": d["group"],
@@ -534,6 +588,17 @@ def main():
             "coverage_label": f"{parsed_cnt:,} / {d['fixture_count']:,} fixtures ({pct_cov}% volume coverage)",
             "total_qty_mt": round(d["total_qty_mt"], 1),
             "avg_cargo_size_mt": avg_cargo,
+            "periods": {
+                "all_time": {"fixtures": d["fixture_count"], "qty_mt": round(d["total_qty_mt"], 1)},
+                "last_12m": {"fixtures": p_12m, "qty_mt": round(d["periods"]["last_12m"]["total_qty_mt"], 1)},
+                "last_4w": {"fixtures": d["periods"]["last_4w"]["count"], "qty_mt": round(d["periods"]["last_4w"]["total_qty_mt"], 1)},
+                "prior_12m": {"fixtures": p_prior, "qty_mt": round(d["periods"]["prior_12m"]["total_qty_mt"], 1)},
+                "yoy_pct": yoy_pct
+            },
+            "vessel_breakdown": {
+                k: {"fixtures": v["count"], "qty_mt": round(v["total_qty_mt"], 1)}
+                for k, v in d["vessel_breakdown"].items()
+            },
             "top_trade_lanes": [
                 {
                     "lane": l,
