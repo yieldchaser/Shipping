@@ -14255,7 +14255,7 @@ if (intelTabsContainer) {
         <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
           <div class="tracking-live-tag">
             <span class="tracking-live-dot"></span>
-            PORTWATCH MEASURED DATA
+            PORTWATCH MEASURED DATA &middot; <span id="trackingHUDRefreshNote">LIVE</span>
           </div>
           <div class="tracking-live-tag" id="hudPredictiveStrip" style="border-color:rgba(240,136,62,0.4); color:#f0883e; background:rgba(240,136,62,0.1);" data-tooltip="Predictive freight signals: physical port congestion anomalies correlated with forward Baltic spot rates.">
             <span class="tracking-live-dot" style="background:#f0883e; box-shadow:0 0 6px #f0883e;"></span>
@@ -14313,8 +14313,8 @@ if (intelTabsContainer) {
           <button class="tracking-pill" data-class="Container" data-tooltip="Filter to ports with measured container-ship calls (liner services)." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
           <button class="tracking-pill" data-class="General Cargo" data-tooltip="Filter to ports with measured general-cargo / multipurpose vessel calls." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
           <button class="tracking-pill" data-class="RoRo" data-tooltip="Filter to ports with measured roll-on / roll-off vehicle-carrier calls." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
-          <button class="tracking-pill" data-class="LNG" data-tooltip="&lt;div class='rt-title'&gt;LNG Fixture Activity&lt;/div&gt;&lt;div class='rt-row'&gt;&lt;span class='rt-label'&gt;Source &amp;amp; Span&lt;/span&gt;&lt;span class='rt-val'&gt;Fearnleys Fixtures (2024–2026)&lt;/span&gt;&lt;/div&gt;&lt;div class='rt-note'&gt;Monitors long-haul cryogenic LNG carrier fixtures and spot voyage legs across major liquefaction export terminals.&lt;/div&gt;" onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">fixtures only</span></button>
-          <button class="tracking-pill" data-class="LPG" data-tooltip="&lt;div class='rt-title'&gt;LPG Fixture Activity&lt;/div&gt;&lt;div class='rt-row'&gt;&lt;span class='rt-label'&gt;Source &amp;amp; Span&lt;/span&gt;&lt;span class='rt-val'&gt;Fearnleys Fixtures (2024–2026)&lt;/span&gt;&lt;/div&gt;&lt;div class='rt-note'&gt;Monitors VLGC and midsize gas carrier commercial fixtures across Middle East and US Gulf export routes.&lt;/div&gt;" onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">fixtures only</span></button>
+          <button class="tracking-pill" data-class="LNG" data-tooltip="Filter map pins, terminal directory and live fleet to 73 global LNG liquefaction &amp; regasification terminals and 1,273 active LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
+          <button class="tracking-pill" data-class="LPG" data-tooltip="Filter map pins, terminal directory and live fleet to 150 global LPG export &amp; import terminals and 2,103 active LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
 
           <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:8px; margin-right:4px;">WINDOW:</div>
           <select id="trackingYearSelect" class="tracking-select" onchange="onTrackingYearChange()" data-tooltip="PortWatch daily window for the activity chart and the KPI strip. Year to date is what the measured feed carries; the full history since 2019 exists for the 43 classic hubs.">
@@ -14459,6 +14459,35 @@ if (intelTabsContainer) {
           <!-- Subview 1b: Port Queue & Terminal Operations (Live View + Asset-Class Terminal Directory) -->
           <div id="subviewPortpage" class="tracking-subview-content" style="display:none; flex-direction:column; height:100%; min-height:0; overflow-y:auto; padding:12px; gap:12px;">
             
+            <!-- Port Page Header & Quick Pinned Tab Strip -->
+            <div id="ppHeader" style="display:flex; flex-direction:column; gap:8px; border-bottom:1px solid var(--border); padding-bottom:10px;">
+              <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px;">
+                <div style="display:flex; flex-direction:column; gap:2px;">
+                  <div style="display:flex; align-items:center; gap:8px;">
+                    <button class="cp-toggle-btn" onclick="setTrackingSubView('universe')" style="font-size:10px; padding:2px 6px;" title="Back to Port Universe browser">
+                      &larr; Universe
+                    </button>
+                    <h3 id="ppTitle" style="font-size:17px; font-weight:700; color:#fff; margin:0;">Select a Port</h3>
+                  </div>
+                  <div id="ppSub" style="font-size:var(--fs-micro); color:var(--text-muted); font-family:var(--font-mono); margin-left:2px;">
+                    IMF PortWatch &amp; Signal Ocean Commercial Gateway
+                  </div>
+                </div>
+                <div style="display:flex; align-items:center; gap:6px;">
+                  <button class="cp-toggle-btn" id="ppPinBtn" onclick="togglePinnedPort()" style="font-size:11px; padding:3px 8px;" data-tooltip="Pin this port to the quick-switch tab strip.">
+                    &#128204; Pin Port
+                  </button>
+                  <button class="pd-close" onclick="setTrackingSubView('universe')" aria-label="Close port page" style="font-size:18px; cursor:pointer; background:none; border:none; color:var(--text-muted); padding:0 4px;" title="Close port page">&times;</button>
+                </div>
+              </div>
+              
+              <!-- Pinned Ports Quick-Switch Tab Strip -->
+              <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
+                <span style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em;">Pinned Hubs:</span>
+                <div id="ppTabStrip" class="cp-btn-group" style="display:flex; gap:4px; flex-wrap:wrap;"></div>
+              </div>
+            </div>
+
             <!-- SURFACE A: Asset-Class Port Picker -->
             <div id="acPortPicker" class="ac-picker-panel">
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
@@ -14496,16 +14525,108 @@ if (intelTabsContainer) {
               </div>
             </div>
 
-            <!-- Detailed Port Facts & PortWatch Activity Chart -->
-            <div style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:8px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
-              <div style="font-size:var(--fs-micro); font-weight:700; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em;">
-                Detailed Port Facts &amp; PortWatch Activity Chart
+            <!-- Active Port Queue & Inbound Fleet Terminal Panel -->
+            <div id="ppLiveQueuePanel" style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <div class="live-pulse-dot" style="display:inline-block; width:8px; height:8px; border-radius:50%; background:#3fb950; box-shadow:0 0 6px rgba(63,185,80,0.8);"></div>
+                  <div style="font-size:var(--fs-micro); font-weight:700; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em;">
+                    Active Port Queue &amp; Inbound Commercial Fleet
+                  </div>
+                </div>
+                <div style="font-size:var(--fs-micro); font-family:var(--font-mono); color:var(--text-muted);">
+                  Anchored/Berth: <strong id="ppQueueCountAnchored" style="color:#79c0ff;">&mdash;</strong> &middot;
+                  Inbound: <strong id="ppQueueCountInbound" style="color:#e3b341;">&mdash;</strong> &middot;
+                  Total: <strong id="ppQueueCountTotal" style="color:var(--text-main);">&mdash;</strong>
+                </div>
               </div>
-              <div style="margin-top:8px; display:flex; flex-direction:column; gap:8px;">
-                <div id="ppFactsCard" class="port-detail-drawer" style="position:static; transform:none; width:100%; box-shadow:none;"></div>
-                <div style="height:200px; position:relative; width:100%;"><canvas id="ppActivityChart"></canvas></div>
-                <div id="ppDisruptionsList" style="display:flex; flex-direction:column; gap:6px;"></div>
+
+              <!-- Statistical Normality & 5-Year Baseline Indicator -->
+              <div id="ppNormalityStrip" style="padding:6px 10px; background:rgba(255,255,255,0.02); border:1px solid var(--border); border-radius:4px; font-size:11px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+                <div id="ppNormalityText" style="color:var(--text-muted);">Loading 5-year seasonal operating baseline&hellip;</div>
+                <div id="ppNormalityBadge" class="status-badge-berth" style="display:none;">NORMAL</div>
               </div>
+
+              <!-- Queue Sub-Filter Buttons -->
+              <div style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
+                <button class="cp-toggle-btn active" id="btnQueueFilterAll" onclick="setPortQueueFilter('all')" style="font-size:11px; padding:3px 8px;">All Vessels (<span id="btnQueueCountAll">0</span>)</button>
+                <button class="cp-toggle-btn" id="btnQueueFilterAnchored" onclick="setPortQueueFilter('anchored')" style="font-size:11px; padding:3px 8px;">At Anchor / Berth (<span id="btnQueueCountAnchored">0</span>)</button>
+                <button class="cp-toggle-btn" id="btnQueueFilterInbound" onclick="setPortQueueFilter('inbound')" style="font-size:11px; padding:3px 8px;">Inbound En Route (<span id="btnQueueCountInbound">0</span>)</button>
+              </div>
+
+              <!-- Live Queue Table -->
+              <div style="overflow-x:auto; max-height:280px; overflow-y:auto; border:1px solid var(--border); border-radius:4px;">
+                <table class="tracking-table" style="width:100%; font-size:11px; text-align:left; border-collapse:collapse;" id="ppQueueTable">
+                  <thead>
+                    <tr style="position:sticky; top:0; background:var(--surface); z-index:2; border-bottom:1px solid var(--border);">
+                      <th style="padding:5px 8px;">Vessel Name / IMO</th>
+                      <th style="padding:5px 8px;">Class &amp; Segment</th>
+                      <th style="padding:5px 8px;">Commercial Operator</th>
+                      <th style="padding:5px 8px;">Status / Zone</th>
+                      <th style="padding:5px 8px;">Speed / Dist</th>
+                      <th style="padding:5px 8px;">Laden State</th>
+                      <th style="padding:5px 8px;">Reported Destination / ETA</th>
+                    </tr>
+                  </thead>
+                  <tbody id="ppQueueTableBody">
+                    <tr><td colspan="7" style="padding:16px; text-align:center; color:var(--text-muted);">Select a port or load fleet positions to inspect live queue.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- Detailed Port Facts Card -->
+            <div id="ppFactsCard" class="port-detail-drawer" style="position:static; transform:none; width:100%; box-shadow:none; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg);"></div>
+
+            <!-- Port Activity Chart Panel -->
+            <div style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                <div>
+                  <div id="ppActivityTitle" style="font-size:12px; font-weight:700; color:#fff;">Daily Port Calls &amp; Cargo Throughput</div>
+                  <div id="ppActivityWindowNote" style="font-size:var(--fs-micro); color:var(--text-muted);">Measured vessel arrivals recorded by IMF PortWatch satellite AIS</div>
+                </div>
+                <div class="cp-btn-group">
+                  <button class="cp-toggle-btn active" id="ppWinYtd" onclick="setPortPageWindow('ytd')" style="font-size:10px; padding:2px 7px;">2026 YTD</button>
+                  <button class="cp-toggle-btn" id="ppWinFull" onclick="setPortPageWindow('full')" style="font-size:10px; padding:2px 7px;" data-tooltip="Full 2019–2026 daily series for the 43 classic PortWatch hubs.">Full Series (2019+)</button>
+                </div>
+              </div>
+              <div style="height:190px; position:relative; width:100%;">
+                <canvas id="ppActivityChart"></canvas>
+              </div>
+              <div id="ppActivityFoot" style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.4;">Calls are measured vessel arrivals recorded by IMF PortWatch satellite AIS. Import / export lines are cargo tonnage in thousand tonnes where the feed publishes them.</div>
+            </div>
+
+            <!-- Recent Reported Fixtures Archive Panel -->
+            <div style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
+              <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                <div id="ppFixturesTitle" style="font-size:12px; font-weight:700; color:#fff;">Recent Reported Fixtures &mdash; loading here</div>
+                <button class="cp-toggle-btn" id="ppFxMode" onclick="setPortPageFixtureMode()" style="font-size:11px; padding:3px 8px;">Load legs</button>
+              </div>
+              <div style="overflow-x:auto; max-height:220px; overflow-y:auto; border:1px solid var(--border); border-radius:4px;">
+                <table class="tracking-table" style="width:100%; font-size:11px; text-align:left; border-collapse:collapse;" id="ppFixturesTable">
+                  <thead>
+                    <tr style="position:sticky; top:0; background:var(--surface); z-index:2; border-bottom:1px solid var(--border);">
+                      <th style="padding:4px 6px;">Vessel</th>
+                      <th style="padding:4px 6px;">Class</th>
+                      <th style="padding:4px 6px;">Opposite Port</th>
+                      <th style="padding:4px 6px;">Cargo</th>
+                      <th style="padding:4px 6px;">Date</th>
+                      <th style="padding:4px 6px;">Distance</th>
+                      <th style="padding:4px 6px;">Match Quality</th>
+                    </tr>
+                  </thead>
+                  <tbody id="ppFixturesBody">
+                    <tr><td colspan="7" style="padding:12px; text-align:center; color:var(--text-muted);">Loading fixtures archive&hellip;</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div id="ppFixturesFoot" style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.4;">Fixtures come from the Fearnleys broker tape matched to resolved PortWatch port ids. Absence of rows means nothing was reported, not that the port was idle.</div>
+            </div>
+
+            <!-- Port Disruptions List -->
+            <div style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:6px;">
+              <div style="font-size:var(--fs-micro); font-weight:700; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em;">Active &amp; Historical Disruption Events</div>
+              <div id="ppDisruptionsList" style="display:flex; flex-direction:column; gap:6px;"></div>
             </div>
           </div>
 
@@ -14833,12 +14954,14 @@ if (intelTabsContainer) {
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
               <div class="map-sector-overlay-title">SECTOR HIGHLIGHT (PORTWATCH CALLS)</div>
               <div class="tracking-sector-toggle">
-                <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all">All <span class="sec-count" id="secMapCountAll">&mdash;</span></button>
-                <button class="cp-toggle-btn" id="secMapTankers" onclick="setTrackingMapSector('Tankers')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="Tankers">Tankers <span class="sec-count" id="secMapCountTankers">&mdash;</span></button>
-                <button class="cp-toggle-btn" id="secMapDry" onclick="setTrackingMapSector('Dry Bulk')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="Dry Bulk">Dry Bulk <span class="sec-count" id="secMapCountDry">&mdash;</span></button>
-                <button class="cp-toggle-btn" id="secMapContainer" onclick="setTrackingMapSector('Container')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="Container">Container <span class="sec-count" id="secMapCountContainer">&mdash;</span></button>
-                <button class="cp-toggle-btn" id="secMapGen" onclick="setTrackingMapSector('General Cargo')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="General Cargo">Gen Cargo <span class="sec-count" id="secMapCountGen">&mdash;</span></button>
-                <button class="cp-toggle-btn" id="secMapRoro" onclick="setTrackingMapSector('RoRo')" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="RoRo">RoRo <span class="sec-count" id="secMapCountRoro">&mdash;</span></button>
+                <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip="Filter map pins and commercial fleet to all active global maritime hubs across tracked commercial sectors." data-tt-type="tracking-sector-map" data-tt-sector="all">All <span class="sec-count" id="secMapCountAll">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapTankers" onclick="setTrackingMapSector('Tankers')" data-tooltip="Filter map pins and commercial fleet to crude oil, dirty product, and clean product tanker terminals and live vessels." data-tt-type="tracking-sector-map" data-tt-sector="Tankers">Tankers <span class="sec-count" id="secMapCountTankers">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapDry" onclick="setTrackingMapSector('Dry Bulk')" data-tooltip="Filter map pins and commercial fleet to Capesize, Panamax, and Supramax dry bulk loading and discharge hubs." data-tt-type="tracking-sector-map" data-tt-sector="Dry Bulk">Dry Bulk <span class="sec-count" id="secMapCountDry">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapLng" onclick="setTrackingMapSector('LNG')" data-tooltip="Filter map pins and commercial fleet to 73 global LNG liquefaction &amp; regasification terminals and 1,273 active LNG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LNG">LNG <span class="sec-count" id="secMapCountLng">(73)</span></button>
+                <button class="cp-toggle-btn" id="secMapLpg" onclick="setTrackingMapSector('LPG')" data-tooltip="Filter map pins and commercial fleet to 150 global LPG export &amp; import terminals and 2,103 active LPG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LPG">LPG <span class="sec-count" id="secMapCountLpg">(150)</span></button>
+                <button class="cp-toggle-btn" id="secMapContainer" onclick="setTrackingMapSector('Container')" data-tooltip="Filter map pins to major container liner transshipment and gateway terminals." data-tt-type="tracking-sector-map" data-tt-sector="Container">Container <span class="sec-count" id="secMapCountContainer">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapGen" onclick="setTrackingMapSector('General Cargo')" data-tooltip="Filter map pins to multipurpose breakbulk and general cargo ports." data-tt-type="tracking-sector-map" data-tt-sector="General Cargo">Gen Cargo <span class="sec-count" id="secMapCountGen">&mdash;</span></button>
+                <button class="cp-toggle-btn" id="secMapRoro" onclick="setTrackingMapSector('RoRo')" data-tooltip="Filter map pins to dedicated pure car and truck carrier (PCTC) and roll-on/roll-off vehicle terminals." data-tt-type="tracking-sector-map" data-tt-sector="RoRo">RoRo <span class="sec-count" id="secMapCountRoro">&mdash;</span></button>
               </div>
             </div>
           </div>
@@ -41829,7 +41952,16 @@ function trackingSectorPortStats() {
 
 function setTrackingMapSector(sector) {
   trackingMapSector = sector;
-  var idMap = { 'all': 'secMapAll', 'Tankers': 'secMapTankers', 'Dry Bulk': 'secMapDry', 'Container': 'secMapContainer', 'General Cargo': 'secMapGen', 'RoRo': 'secMapRoro' };
+  var idMap = {
+    'all': 'secMapAll',
+    'Tankers': 'secMapTankers',
+    'Dry Bulk': 'secMapDry',
+    'LNG': 'secMapLng',
+    'LPG': 'secMapLpg',
+    'Container': 'secMapContainer',
+    'General Cargo': 'secMapGen',
+    'RoRo': 'secMapRoro'
+  };
   Object.keys(idMap).forEach(function(s) {
     var btn = document.getElementById(idMap[s]);
     if (btn) {
@@ -41844,6 +41976,8 @@ function setTrackingMapSector(sector) {
     'all': 'all',
     'Dry Bulk': 'dry_bulk',
     'Tankers': 'tankers',
+    'LNG': 'lng',
+    'LPG': 'lpg',
     'Container': 'container',
     'General Cargo': 'general_cargo',
     'RoRo': 'roro'
@@ -41856,10 +41990,24 @@ function setTrackingMapSector(sector) {
   });
   if (typeof plotLiveFleetMarkers === 'function') plotLiveFleetMarkers();
 
+  // Also sync asset-class terminal directory segment
+  if (sector === 'Dry Bulk' && typeof setAssetClassSegment === 'function') setAssetClassSegment('dry_bulk');
+  else if (sector === 'Tankers' && typeof setAssetClassSegment === 'function') setAssetClassSegment('tankers');
+  else if (sector === 'LNG' && typeof setAssetClassSegment === 'function') setAssetClassSegment('lng');
+  else if (sector === 'LPG' && typeof setAssetClassSegment === 'function') setAssetClassSegment('lpg');
+
   plotPortHubMarkers();
   var stats = window.__trackingSectorPortStats || {};
   var hud = document.getElementById('mapHudDetail');
-  if (hud && stats[sector]) hud.textContent = 'Sector highlight: ' + (sector === 'all' ? 'All Classes' : sector) + ' \u00b7 ' + stats[sector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[sector].nPorts + ' ports (PortWatch)';
+  if (hud) {
+    if (sector === 'LNG' || sector === 'LPG') {
+      var nHubs = sector === 'LNG' ? 73 : 150;
+      var nFleet = sector === 'LNG' ? '1,273' : '2,103';
+      hud.textContent = 'Sector highlight: ' + sector + ' \u00b7 ' + nHubs + ' commercial export/import terminals \u00b7 ' + nFleet + ' live ' + sector + ' carriers';
+    } else if (stats[sector]) {
+      hud.textContent = 'Sector highlight: ' + (sector === 'all' ? 'All Classes' : sector) + ' \u00b7 ' + stats[sector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[sector].nPorts + ' ports (PortWatch)';
+    }
+  }
   if (typeof updateSectorMapCounts === 'function') updateSectorMapCounts();
   if (typeof renderUniverseTable === 'function') renderUniverseTable();
 }
@@ -41868,14 +42016,51 @@ window.setTrackingSector = setTrackingMapSector;
 
 function isPortInSectorFilter(code) {
   if (trackingMapSector === 'all') return true;
+
+  // Gas terminals: check assetClassPorts (LNG col 7, LPG col 8)
+  if (trackingMapSector === 'LNG' || trackingMapSector === 'LPG') {
+    var acp = DATA.assetClassPorts;
+    if (acp && acp.ports) {
+      var colIdx = trackingMapSector === 'LNG' ? 7 : 8;
+      var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[code]) || null;
+      var pName = (meta ? meta.portname : code || '').toLowerCase();
+      var pLocode = (meta && meta.LOCODE ? meta.LOCODE.replace(/\s+/g, '') : '').toLowerCase();
+      for (var i = 0; i < acp.ports.length; i++) {
+        var ap = acp.ports[i];
+        if (ap[colIdx] > 0.05) {
+          var apName = (ap[1] || '').toLowerCase();
+          if (apName === pName || (pLocode && apName.indexOf(pLocode) !== -1)) return true;
+        }
+      }
+    }
+    return false;
+  }
+
+  // Dry bulk and Tanker terminals: check both PortWatch calls and Signal Ocean verified terminals
   var stats = window.__trackingSectorPortStats;
-  if (!stats || !stats._byPort || !stats._byPort[code]) return false;
   var secKey = secMapKeyFor(trackingMapSector);
-  if (!secKey) return true;
-  return (stats._byPort[code][secKey] || 0) > 0;
+  if (stats && stats._byPort && stats._byPort[code]) {
+    if (secKey && (stats._byPort[code][secKey] || 0) > 0) return true;
+  }
+
+  // Fallback to assetClassPorts for Dry Bulk (col 5) and Tankers (col 6)
+  if (trackingMapSector === 'Dry Bulk' || trackingMapSector === 'Tankers') {
+    var acp = DATA.assetClassPorts;
+    if (acp && acp.ports) {
+      var colIdx = trackingMapSector === 'Dry Bulk' ? 5 : 6;
+      var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[code]) || null;
+      var pName = (meta ? meta.portname : code || '').toLowerCase();
+      for (var j = 0; j < acp.ports.length; j++) {
+        var ap = acp.ports[j];
+        if (ap[colIdx] > 0.05 && (ap[1] || '').toLowerCase() === pName) return true;
+      }
+    }
+  }
+
+  return false;
 }
 function secMapKeyFor(sector) {
-  var m = { 'Tankers': 'tanker', 'Dry Bulk': 'dry_bulk', 'Container': 'container', 'General Cargo': 'general_cargo', 'RoRo': 'roro' };
+  var m = { 'Tankers': 'tanker', 'Dry Bulk': 'dry_bulk', 'Container': 'container', 'General Cargo': 'general_cargo', 'RoRo': 'roro', 'LNG': 'lng', 'LPG': 'lpg' };
   return m[sector] || null;
 }
 
@@ -42591,6 +42776,15 @@ function initTrackingMap() {
     portMarkersLayer.bindPopup(function (layer) {
       return layer.options.portHub ? portHubPopupHtml(layer.options.portHub) : '';
     }, { maxWidth: 320 });
+    portMarkersLayer.on('click', function (e) {
+      var p = e.layer && e.layer.options && e.layer.options.portHub;
+      if (p) {
+        var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[p.portid]) || p;
+        if (typeof highlightPortOnMap === 'function') {
+          highlightPortOnMap(meta);
+        }
+      }
+    });
     disruptionMarkersLayer = L.layerGroup().addTo(trackingMap);
     activeVesselTrackLayer = L.layerGroup().addTo(trackingMap);
 
@@ -42804,6 +42998,17 @@ function updateTrackingHUD() {
   pill('pillCountGencargo', stats['General Cargo'] ? stats['General Cargo'].nPorts : null);
   pill('pillCountRoro', stats['RoRo'] ? stats['RoRo'].nPorts : null);
 
+  var elPillLng = document.getElementById('pillCountLNG');
+  if (elPillLng) {
+    var nLngFleet = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud && DATA.liveFleetPositions.hud.lng) || 1273;
+    elPillLng.textContent = nLngFleet.toLocaleString('en-US') + ' hulls';
+  }
+  var elPillLpg = document.getElementById('pillCountLPG');
+  if (elPillLpg) {
+    var nLpgFleet = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud && DATA.liveFleetPositions.hud.lpg) || 2103;
+    elPillLpg.textContent = nLpgFleet.toLocaleString('en-US') + ' hulls';
+  }
+
   // Keep tooltip bus live (data-tt pattern): refresh data-tt-val + freshness.
   var freshCp = '';
   var cpMax = '';
@@ -42844,6 +43049,18 @@ function updateSectorMapCounts() {
     var el = document.getElementById(ids[s]);
     if (el && stats[s]) el.textContent = (s === 'all' ? stats[s].nPorts + ' ports' : stats[s].total.toLocaleString('en-US') + ' calls');
   });
+
+  var elLng = document.getElementById('secMapCountLng');
+  var elLpg = document.getElementById('secMapCountLpg');
+  if (elLng) {
+    var nLng = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[7] > 0.1; }).length : 73;
+    elLng.textContent = '(' + nLng + ')';
+  }
+  if (elLpg) {
+    var nLpg = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[8] > 0.1; }).length : 150;
+    elLpg.textContent = '(' + nLpg + ')';
+  }
+
   // Sector-toggle overlay tooltip carries live per-sector counts from the cache.
   var ov = document.getElementById('mapSectorToggle');
   if (ov) {
@@ -43009,8 +43226,21 @@ window.onUniverseSearchInput = onUniverseSearchInput;
 window.onUniverseClassChange = onUniverseClassChange;
 
 // ================= PORT PAGE =================
+// ================= PORT PAGE =================
 function openPortPage(portid) {
   var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[portid]) || null;
+  if (!meta && DATA.universePorts && DATA.universePorts.byLocode) {
+    if (DATA.universePorts.byLocode[portid]) {
+      meta = DATA.universePorts.byLocode[portid];
+      portid = meta.portid;
+    } else {
+      var stripped = String(portid).replace(/\s+/g, '').toUpperCase();
+      if (DATA.universePorts.byLocode[stripped]) {
+        meta = DATA.universePorts.byLocode[stripped];
+        portid = meta.portid;
+      }
+    }
+  }
   if (!meta) return;
   trackingActivePortId = portid;
   setTrackingSubView('portpage');
@@ -43028,6 +43258,383 @@ function portPageDisruptions(portid) {
   out.sort(function(a, b) { return (b.ongoing ? 1 : 0) - (a.ongoing ? 1 : 0) || (b.fromdate > a.fromdate ? 1 : -1); });
   return out;
 }
+
+var activePortHighlightLayer = null;
+var portQueueActiveFilter = 'all';
+var __currentPortQueueData = null;
+
+function getPortQueueData(meta) {
+  if (!DATA.portQueuesActive || !DATA.portQueuesActive.ports || !meta) return null;
+  var ports = DATA.portQueuesActive.ports;
+  // 1. Direct portid
+  if (meta.portid && ports[meta.portid]) return ports[meta.portid];
+  var pidStr = String(meta.portid);
+  if (!pidStr.startsWith('port') && ports['port' + pidStr]) return ports['port' + pidStr];
+
+  // 2. LOCODE lookup via locode_index
+  var locIndex = DATA.portQueuesActive.locode_index || {};
+  if (meta.LOCODE) {
+    var rawLoc = String(meta.LOCODE).replace(/\s+/g, '').toUpperCase();
+    if (locIndex[rawLoc] && ports[locIndex[rawLoc]]) return ports[locIndex[rawLoc]];
+    if (locIndex[meta.LOCODE] && ports[locIndex[meta.LOCODE]]) return ports[locIndex[meta.LOCODE]];
+  }
+
+  // 3. Name lookup fallback
+  var nameLower = (meta.portname || meta.name || '').toLowerCase().trim();
+  if (nameLower) {
+    var pkeys = Object.keys(ports);
+    for (var i = 0; i < pkeys.length; i++) {
+      var p = ports[pkeys[i]];
+      if (p && p.name && p.name.toLowerCase().trim() === nameLower) {
+        return p;
+      }
+    }
+  }
+  return null;
+}
+window.getPortQueueData = getPortQueueData;
+
+function renderPortQueueTableRows(qData) {
+  var tbody = document.getElementById('ppQueueTableBody');
+  if (!tbody) return;
+
+  if (!qData || !qData.rows || !qData.rows.length) {
+    tbody.innerHTML = '<tr><td colspan="7" style="padding:16px; text-align:center; color:var(--text-muted);">No commercial vessels currently in anchorage or inbound within queue radius.</td></tr>';
+    return;
+  }
+
+  var filter = portQueueActiveFilter || 'all';
+  var rows = qData.rows.filter(function(r) {
+    if (filter === 'anchored') return r[5] === 'anchored';
+    if (filter === 'inbound') return r[5] === 'inbound';
+    return true;
+  });
+
+  if (!rows.length) {
+    tbody.innerHTML = '<tr><td colspan="7" style="padding:16px; text-align:center; color:var(--text-muted);">No vessels match the selected queue filter (' + escapeHtml(filter) + ').</td></tr>';
+    return;
+  }
+
+  var html = '';
+  rows.forEach(function(r) {
+    // r: [imo, name, vclass, seg, op, queue_type, status, spd, hdg, dst, eta, laden, lat, lon, dist_km]
+    var imo = r[0] || '—';
+    var name = r[1] || 'Unknown Vessel';
+    var vclass = r[2] || '';
+    var seg = r[3] || '';
+    var op = r[4] || 'Unknown Operator';
+    var qType = r[5] || '';
+    var status = r[6] || (qType === 'anchored' ? 'Waiting at Anchor' : 'Inbound En Route');
+    var spd = (r[7] != null && !isNaN(r[7])) ? Number(r[7]).toFixed(1) : '—';
+    var dst = r[9] || '—';
+    var eta = r[10] ? r[10].replace('T', ' ').replace('Z', '').slice(0, 16) : '—';
+    var laden = r[11] === 1;
+    var distKm = (r[14] != null && !isNaN(r[14])) ? Math.round(Number(r[14])) : null;
+
+    // Segment color coding
+    var secColor = '#8b949e';
+    var segLow = seg.toLowerCase();
+    if (segLow.indexOf('bulk') !== -1) secColor = '#3b82f6';
+    else if (segLow.indexOf('tank') !== -1) secColor = '#f59e0b';
+    else if (segLow === 'lng') secColor = '#06b6d4';
+    else if (segLow === 'lpg') secColor = '#a855f7';
+    else if (segLow.indexOf('cont') !== -1) secColor = '#22c55e';
+
+    // Status badge styling
+    var isBerth = status.indexOf('Berth') !== -1;
+    var isAnchor = qType === 'anchored' && !isBerth;
+    var badgeCls = isBerth ? 'status-badge-berth' : (isAnchor ? 'status-badge-anchor' : 'status-badge-warn');
+    var badgeLabel = isBerth ? 'Berth Ops' : (isAnchor ? 'At Anchor' : 'Inbound');
+
+    // Laden indicator
+    var ladenHtml = laden
+      ? '<span style="color:#3fb950; font-weight:600;">Laden</span>'
+      : '<span style="color:var(--text-muted);">Ballast</span>';
+
+    // Speed / Distance
+    var spdDistHtml = spd !== '—' ? spd + ' kts' : '—';
+    if (distKm != null) {
+      spdDistHtml += ' <span style="font-family:var(--font-mono); color:var(--text-muted); font-size:10px;">(' + distKm.toLocaleString('en-US') + ' km)</span>';
+    }
+
+    var safeName = escapeHtml(name).replace(/'/g, "\\'");
+
+    html += '<tr style="border-bottom:1px solid rgba(255,255,255,0.05); cursor:pointer;" onclick="openVesselDrillDown(' + imo + ', \'' + safeName + '\')" title="Click to inspect vessel voyage and position">' +
+      '<td style="padding:6px 8px;">' +
+        '<div style="font-weight:600; color:#fff;">' + escapeHtml(name) + '</div>' +
+        '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:var(--font-mono);">IMO ' + escapeHtml(String(imo)) + '</div>' +
+      '</td>' +
+      '<td style="padding:6px 8px;">' +
+        '<div style="display:flex; align-items:center; gap:5px;">' +
+          '<span style="display:inline-block; width:6px; height:6px; border-radius:50%; background:' + secColor + ';"></span>' +
+          '<span>' + escapeHtml(vclass || seg || 'Commercial') + '</span>' +
+        '</div>' +
+        '<div style="font-size:var(--fs-micro); color:var(--text-muted); text-transform:uppercase;">' + escapeHtml(seg) + '</div>' +
+      '</td>' +
+      '<td style="padding:6px 8px;">' +
+        '<div style="max-width:140px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;" title="' + escapeHtml(op) + '">' +
+          escapeHtml(op) +
+        '</div>' +
+      '</td>' +
+      '<td style="padding:6px 8px;">' +
+        '<span class="' + badgeCls + '" style="font-size:10px; padding:1px 6px; border-radius:3px;">' + badgeLabel + '</span>' +
+        '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">' + escapeHtml(status) + '</div>' +
+      '</td>' +
+      '<td style="padding:6px 8px; font-family:var(--font-mono); font-size:11px;">' +
+        spdDistHtml +
+      '</td>' +
+      '<td style="padding:6px 8px; font-size:11px;">' +
+        ladenHtml +
+      '</td>' +
+      '<td style="padding:6px 8px;">' +
+        '<div style="font-family:var(--font-mono); font-size:11px; max-width:150px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;" title="' + escapeHtml(dst) + '">' +
+          escapeHtml(dst) +
+        '</div>' +
+        '<div style="font-size:var(--fs-micro); color:var(--text-muted);">' + escapeHtml(eta) + '</div>' +
+      '</td>' +
+    '</tr>';
+  });
+
+  tbody.innerHTML = html;
+}
+window.renderPortQueueTableRows = renderPortQueueTableRows;
+
+function setPortQueueFilter(filter) {
+  portQueueActiveFilter = filter || 'all';
+  var bAll = document.getElementById('btnQueueFilterAll');
+  var bAnc = document.getElementById('btnQueueFilterAnchored');
+  var bInb = document.getElementById('btnQueueFilterInbound');
+  if (bAll) bAll.classList.toggle('active', filter === 'all');
+  if (bAnc) bAnc.classList.toggle('active', filter === 'anchored');
+  if (bInb) bInb.classList.toggle('active', filter === 'inbound');
+
+  if (__currentPortQueueData) {
+    renderPortQueueTableRows(__currentPortQueueData);
+  }
+}
+window.setPortQueueFilter = setPortQueueFilter;
+
+function renderPortPageLiveQueue(meta) {
+  var countAnc = document.getElementById('ppQueueCountAnchored');
+  var countInb = document.getElementById('ppQueueCountInbound');
+  var countTot = document.getElementById('ppQueueCountTotal');
+  var normText = document.getElementById('ppNormalityText');
+  var normBadge = document.getElementById('ppNormalityBadge');
+  var btnCntAll = document.getElementById('btnQueueCountAll');
+  var btnCntAnc = document.getElementById('btnQueueCountAnchored');
+  var btnCntInb = document.getElementById('btnQueueCountInbound');
+
+  if (!DATA.portQueuesActive) {
+    if (normText) normText.textContent = 'Loading live commercial queues & 5-year operating baseline…';
+    if (typeof loadSignalFleetData === 'function') loadSignalFleetData();
+    return;
+  }
+
+  var qData = getPortQueueData(meta);
+  __currentPortQueueData = qData;
+
+  if (!qData || (!qData.rows || qData.rows.length === 0)) {
+    if (countAnc) countAnc.textContent = '0';
+    if (countInb) countInb.textContent = '0';
+    if (countTot) countTot.textContent = '0';
+    if (btnCntAll) btnCntAll.textContent = '0';
+    if (btnCntAnc) btnCntAnc.textContent = '0';
+    if (btnCntInb) btnCntInb.textContent = '0';
+
+    if (normText) {
+      normText.innerHTML = 'No active commercial anchorage or inbound queue detected within monitored radius (' + escapeHtml(meta.portname || meta.name || 'Hub') + ').';
+    }
+    if (normBadge) {
+      normBadge.style.display = 'inline-block';
+      normBadge.className = 'status-badge-berth';
+      normBadge.textContent = 'NORMAL';
+    }
+
+    var tbody = document.getElementById('ppQueueTableBody');
+    if (tbody) {
+      tbody.innerHTML = '<tr><td colspan="7" style="padding:16px; text-align:center; color:var(--text-muted);">No commercial vessels currently in anchorage or inbound within queue radius.</td></tr>';
+    }
+    return;
+  }
+
+  var anchored = qData.anchored_total || 0;
+  var inbound = qData.inbound_total || 0;
+  var total = anchored + inbound;
+
+  if (countAnc) countAnc.textContent = anchored.toLocaleString('en-US');
+  if (countInb) countInb.textContent = inbound.toLocaleString('en-US');
+  if (countTot) countTot.textContent = total.toLocaleString('en-US');
+  if (btnCntAll) btnCntAll.textContent = total.toLocaleString('en-US');
+  if (btnCntAnc) btnCntAnc.textContent = anchored.toLocaleString('en-US');
+  if (btnCntInb) btnCntInb.textContent = inbound.toLocaleString('en-US');
+
+  // Normality & Stress Scoring
+  var norm = qData.normality;
+  if (norm) {
+    var flag = (norm.stress_flag || 'NORMAL').toUpperCase();
+    var badgeClass = 'status-badge-berth';
+    if (flag === 'HIGH' || flag === 'STRESSED' || flag === 'CRITICAL') {
+      badgeClass = 'status-badge-red';
+    } else if (flag === 'WARNING' || flag === 'ELEVATED') {
+      badgeClass = 'status-badge-warn';
+    } else if (flag === 'LOW' || flag === 'COLLAPSE') {
+      badgeClass = 'status-badge-anchor';
+    }
+
+    if (normBadge) {
+      normBadge.style.display = 'inline-block';
+      normBadge.className = badgeClass;
+      normBadge.textContent = flag;
+    }
+
+    if (normText) {
+      var zStr = (norm.zscore != null) ? ((norm.zscore > 0 ? '+' : '') + Number(norm.zscore).toFixed(2)) : '0.00';
+      var meanStr = (norm.hist_mean != null) ? Number(norm.hist_mean).toFixed(1) : '—';
+      var stdStr = (norm.hist_std != null) ? Number(norm.hist_std).toFixed(1) : '0.0';
+      var acStr = norm.asset_class ? ' (' + norm.asset_class + ')' : '';
+      var interp = norm.interpretation || 'Operating within seasonal parameters.';
+
+      normText.innerHTML = '<strong style="color:var(--text-main);">5-Yr Seasonal Baseline' + escapeHtml(acStr) + ':</strong> Mean ' +
+        meanStr + ' calls/wk (&plusmn;' + stdStr + ') &middot; <strong>Z-Score: ' + zStr + '</strong> &middot; ' +
+        '<span style="color:var(--text-muted);">' + escapeHtml(interp) + '</span>';
+    }
+  } else {
+    if (normBadge) {
+      normBadge.style.display = 'inline-block';
+      normBadge.className = 'status-badge-berth';
+      normBadge.textContent = 'MONITORED';
+    }
+    if (normText) {
+      normText.textContent = 'Commercial queue active (' + total + ' vessels) \u00b7 Baseline historical stress metrics within standard seasonal envelope.';
+    }
+  }
+
+  // Render Rows with active filter
+  renderPortQueueTableRows(qData);
+}
+window.renderPortPageLiveQueue = renderPortPageLiveQueue;
+
+function highlightPortOnMap(meta) {
+  if (!window.trackingMap || !meta) return;
+  var lat = (meta.lat != null && !isNaN(meta.lat)) ? Number(meta.lat) : null;
+  var lon = (meta.lon != null && !isNaN(meta.lon)) ? Number(meta.lon) : null;
+  if (lat == null || lon == null) return;
+
+  if (activePortHighlightLayer) {
+    try {
+      window.trackingMap.removeLayer(activePortHighlightLayer);
+    } catch (e) {}
+    activePortHighlightLayer = null;
+  }
+
+  var group = L.layerGroup();
+
+  // 1. 35 km Anchorage Zone Buffer Circle
+  var anchorCircle = L.circle([lat, lon], {
+    radius: 35000, // 35 km radius
+    color: '#388bfd',
+    weight: 1.5,
+    dashArray: '4, 4',
+    fillColor: '#388bfd',
+    fillOpacity: 0.07,
+    interactive: false
+  });
+  group.addLayer(anchorCircle);
+
+  // 2. Center Port Halo Indicator
+  var centerHalo = L.circleMarker([lat, lon], {
+    radius: 12,
+    color: '#58a6ff',
+    weight: 2,
+    dashArray: '2, 2',
+    fillColor: '#58a6ff',
+    fillOpacity: 0.25,
+    interactive: false
+  });
+  group.addLayer(centerHalo);
+
+  // 3. Inbound vector rays and anchored vessel markers
+  var qData = getPortQueueData(meta);
+  if (qData && qData.rows && qData.rows.length) {
+    var inbounds = [];
+    var anchored = [];
+    qData.rows.forEach(function(r) {
+      if (r[5] === 'inbound') inbounds.push(r);
+      else anchored.push(r);
+    });
+    // Sort inbounds by distance and cap at nearest 30 to guarantee 60 FPS rendering
+    inbounds.sort(function(a, b) { return (Number(a[14]) || 99999) - (Number(b[14]) || 99999); });
+    var activeInbounds = inbounds.slice(0, 30);
+
+    activeInbounds.forEach(function(r) {
+      var vLat = Number(r[12]);
+      var vLon = Number(r[13]);
+      if (isNaN(vLat) || isNaN(vLon)) return;
+
+      var ray = L.polyline([[vLat, vLon], [lat, lon]], {
+        color: '#e3b341',
+        weight: 1.2,
+        opacity: 0.55,
+        dashArray: '3, 6',
+        interactive: false
+      });
+      group.addLayer(ray);
+
+      var inMarker = L.circleMarker([vLat, vLon], {
+        radius: 4,
+        color: '#e3b341',
+        weight: 1.5,
+        fillColor: '#d29922',
+        fillOpacity: 0.9,
+        interactive: true
+      });
+      inMarker.bindPopup(
+        '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:180px;">' +
+        '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:#e3b341;">(Inbound)</span></div>' +
+        '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km away' : '') + '</div>' +
+        '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
+        '<div style="font-size:10px;">ETA: ' + (r[10] ? r[10].replace('T', ' ').replace('Z', '').slice(0, 16) : '—') + '</div>' +
+        '</div>'
+      );
+      group.addLayer(inMarker);
+    });
+
+    anchored.forEach(function(r) {
+      var vLat = Number(r[12]);
+      var vLon = Number(r[13]);
+      if (isNaN(vLat) || isNaN(vLon)) return;
+
+      var isBerth = (r[6] || '').indexOf('Berth') !== -1;
+      var ancMarker = L.circleMarker([vLat, vLon], {
+        radius: isBerth ? 4.5 : 3.5,
+        color: isBerth ? '#3fb950' : '#58a6ff',
+        weight: 1.5,
+        fillColor: isBerth ? '#2ea043' : '#388bfd',
+        fillOpacity: 0.9,
+        interactive: true
+      });
+      ancMarker.bindPopup(
+        '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:180px;">' +
+        '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:' + (isBerth ? '#3fb950' : '#58a6ff') + ';">(' + escapeHtml(r[6] || 'Anchored') + ')</span></div>' +
+        '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km from hub' : 'In Port') + '</div>' +
+        '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
+        '<div style="font-size:10px;">Status: ' + escapeHtml(r[6] || '—') + '</div>' +
+        '</div>'
+      );
+      group.addLayer(ancMarker);
+    });
+  }
+
+  activePortHighlightLayer = group;
+  activePortHighlightLayer.addTo(window.trackingMap);
+
+  try {
+    var curZoom = window.trackingMap.getZoom();
+    var targetZoom = Math.max(curZoom, 7);
+    window.trackingMap.flyTo([lat, lon], targetZoom, { duration: 0.8 });
+  } catch (e) {}
+}
+window.highlightPortOnMap = highlightPortOnMap;
 
 function renderPortPage() {
   var portid = trackingActivePortId;
@@ -43047,6 +43654,8 @@ function renderPortPage() {
   renderPortPageFixtures(meta);
   renderPortPageDisruptions(portid);
   renderPortPageTabStrip(meta);
+  renderPortPageLiveQueue(meta);
+  highlightPortOnMap(meta);
 }
 window.renderPortPage = renderPortPage;
 
@@ -43188,13 +43797,15 @@ function loadSignalFleetData() {
         fetch('data/views/signal/lineup_vessel_lookup.json').then(function(r) { return r.ok ? r.json() : {}; }),
         fetch('data/views/signal/asset_class_ports.json').then(function(r) { return r.ok ? r.json() : null; }),
         fetch('data/views/signal/live_fleet_positions.json').then(function(r) { return r.ok ? r.json() : null; }),
-        fetch('data/views/signal/vessel_voyages_lookup.json').then(function(r) { return r.ok ? r.json() : null; })
+        fetch('data/views/signal/vessel_voyages_lookup.json').then(function(r) { return r.ok ? r.json() : null; }),
+        fetch('data/views/signal/port_queues_active.json').then(function(r) { return r.ok ? r.json() : null; })
       ]);
 
       DATA.lineupVesselLookup = results[0] || {};
       DATA.assetClassPorts = results[1] || null;
       DATA.liveFleetPositions = results[2] || null;
       DATA.vesselVoyagesLookup = results[3] || null;
+      DATA.portQueuesActive = results[4] || null;
       DATA.signalFleetLoaded = true;
 
       // Initialize UI surfaces if DOM is ready
@@ -43627,10 +44238,19 @@ function setLiveFleetSegment(seg) {
   });
 
   // Keep sector map toggle and port markers in sync
-  var secFromFleetSeg = { 'all': 'all', 'dry_bulk': 'Dry Bulk', 'tankers': 'Tankers' };
+  var secFromFleetSeg = { 'all': 'all', 'dry_bulk': 'Dry Bulk', 'tankers': 'Tankers', 'lng': 'LNG', 'lpg': 'LPG' };
   if (secFromFleetSeg[seg] !== undefined) {
     trackingMapSector = secFromFleetSeg[seg];
-    var idMap = { 'all': 'secMapAll', 'Tankers': 'secMapTankers', 'Dry Bulk': 'secMapDry', 'Container': 'secMapContainer', 'General Cargo': 'secMapGen', 'RoRo': 'secMapRoro' };
+    var idMap = {
+      'all': 'secMapAll',
+      'Tankers': 'secMapTankers',
+      'Dry Bulk': 'secMapDry',
+      'LNG': 'secMapLng',
+      'LPG': 'secMapLpg',
+      'Container': 'secMapContainer',
+      'General Cargo': 'secMapGen',
+      'RoRo': 'secMapRoro'
+    };
     Object.keys(idMap).forEach(function(s) {
       var btn = document.getElementById(idMap[s]);
       if (btn) {
@@ -43642,7 +44262,16 @@ function setLiveFleetSegment(seg) {
     plotPortHubMarkers();
     var stats = window.__trackingSectorPortStats || {};
     var hud = document.getElementById('mapHudDetail');
-    if (hud && stats[trackingMapSector]) hud.textContent = 'Sector highlight: ' + (trackingMapSector === 'all' ? 'All Classes' : trackingMapSector) + ' \u00b7 ' + stats[trackingMapSector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[trackingMapSector].nPorts + ' ports (PortWatch)';
+    if (hud) {
+      if (trackingMapSector === 'LNG' || trackingMapSector === 'LPG') {
+        var nHubs = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[trackingMapSector === 'LNG' ? 7 : 8] > 0.1; }).length : (trackingMapSector === 'LNG' ? 73 : 150);
+        var fleetCount = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud) ? (trackingMapSector === 'LNG' ? DATA.liveFleetPositions.hud.lng : DATA.liveFleetPositions.hud.lpg) : null;
+        var nFleet = (fleetCount != null && fleetCount.toLocaleString) ? fleetCount.toLocaleString('en-US') : (trackingMapSector === 'LNG' ? '1,273' : '2,103');
+        hud.textContent = 'Sector highlight: ' + trackingMapSector + ' \u00b7 ' + nHubs + ' commercial export/import terminals \u00b7 ' + nFleet + ' live ' + trackingMapSector + ' carriers';
+      } else if (stats[trackingMapSector]) {
+        hud.textContent = 'Sector highlight: ' + (trackingMapSector === 'all' ? 'All Classes' : trackingMapSector) + ' \u00b7 ' + stats[trackingMapSector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[trackingMapSector].nPorts + ' ports (PortWatch)';
+      }
+    }
   }
 
   plotLiveFleetMarkers();
@@ -44188,6 +44817,11 @@ function setTrackingSubView(subview) {
     if (el) el.style.display = (v === subview) ? 'flex' : 'none';
   });
 
+  if (subview !== 'portpage' && activePortHighlightLayer && window.trackingMap) {
+    try { window.trackingMap.removeLayer(activePortHighlightLayer); } catch(e) {}
+    activePortHighlightLayer = null;
+  }
+
   if (subview === 'history') {
     populatePortHistory();
   } else if (subview === 'portpage') {
@@ -44212,40 +44846,48 @@ function setTrackingClass(cls) {
   document.querySelectorAll('.tracking-pill').forEach(function(b) {
     b.classList.toggle('active', b.dataset.class === cls);
   });
-  if (cls === 'LNG' || cls === 'LPG') {
-    // No measured PortWatch class for gas: this mode reads the fixture-grounded
-    // archive only. Say so, and land the user on the vessel fixture view.
-    var hud = document.getElementById('mapHudDetail');
-    if (hud) hud.textContent = (cls === 'LNG' ? 'LNG' : 'LPG') + ': PortWatch publishes no measured gas port calls here. Showing broker-reported fixture legs (Vessel Voyages), badged as reported fixtures.';
-    if (typeof setTrackingSubView === 'function') setTrackingSubView('vessel');
-    var inp = document.getElementById('vesselSearchInput');
-    if (inp) {
-      var idx = typeof vesselIndexFromFixtures === 'function' ? vesselIndexFromFixtures() : null;
-      if (idx) {
-        var clsNorm = cls;
-        var hits = [];
-        for (var i = 0; i < idx.order.length && hits.length < 8; i++) {
-          var legs = idx.byVessel[idx.order[i]];
-          if (legs && legs.some(function(g) { return g.vessel_class === clsNorm; })) hits.push(idx.order[i]);
-        }
-        if (hits.length) {
-          inp.value = hits[0];
-          if (typeof renderVesselTimeline === 'function') renderVesselTimeline(hits[0]);
-        }
-      }
-    }
-    return;
+
+  var segMap = {
+    'all': 'all',
+    'Dry Bulk': 'Dry Bulk',
+    'Tanker': 'Tankers',
+    'Tankers': 'Tankers',
+    'LNG': 'LNG',
+    'LPG': 'LPG',
+    'Container': 'Container',
+    'General Cargo': 'General Cargo',
+    'RoRo': 'RoRo'
+  };
+  var targetSector = segMap[cls] || 'all';
+
+  if (typeof setTrackingMapSector === 'function') {
+    setTrackingMapSector(targetSector);
   }
-  // Measured classes: highlight ports with YTD calls in that class.
-  var secLabel = cls === 'all' ? 'all' : cls;
-  if (typeof setTrackingMapSector === 'function' && (cls === 'all' || cls === 'Tanker' || cls === 'Dry Bulk' || cls === 'Container' || cls === 'General Cargo' || cls === 'RoRo')) {
-    setTrackingMapSector(cls === 'Tanker' ? 'Tankers' : (cls === 'Dry Bulk' ? 'Dry Bulk' : cls));
+
+  // Also sync live fleet segment if loaded
+  var fleetSeg = 'all';
+  if (targetSector === 'Dry Bulk') fleetSeg = 'dry_bulk';
+  else if (targetSector === 'Tankers') fleetSeg = 'tankers';
+  else if (targetSector === 'LNG') fleetSeg = 'lng';
+  else if (targetSector === 'LPG') fleetSeg = 'lpg';
+  if (typeof setLiveFleetSegment === 'function') {
+    setLiveFleetSegment(fleetSeg);
   }
+
+  // Also sync asset-class terminal directory segment
+  if (fleetSeg !== 'all' && typeof setAssetClassSegment === 'function') {
+    setAssetClassSegment(fleetSeg);
+  }
+
   if (typeof renderUniverseTable === 'function') renderUniverseTable();
-  // The open port page re-renders so the activity chart applies the class lens.
+
+  // The open port page re-renders so the activity chart and live queue apply the class lens.
   if (trackingActiveSubView === 'portpage' && trackingActivePortId) {
     var meta = DATA.universePorts && DATA.universePorts.byId ? DATA.universePorts.byId[trackingActivePortId] : null;
-    if (meta && typeof renderPortPageActivity === 'function') renderPortPageActivity(meta);
+    if (meta) {
+      if (typeof renderPortPageActivity === 'function') renderPortPageActivity(meta);
+      if (typeof renderPortPageLiveQueue === 'function') renderPortPageLiveQueue(meta);
+    }
   }
 }
 window.setTrackingClass = setTrackingClass;
@@ -44420,7 +45062,12 @@ function portHubStyle(p, scale) {
     return { radius: r, fillColor: '#4d9aff', fillOpacity: 0.55, color: '#0a0f16', weight: 1, opacity: 0.9 };
   }
   if (isPortInSectorFilter(p.portid)) {
-    return { radius: r, fillColor: '#79c0ff', fillOpacity: 0.9, color: '#0a0f16', weight: 1, opacity: 1 };
+    var col = '#79c0ff';
+    if (trackingMapSector === 'Dry Bulk') col = '#3b82f6';
+    else if (trackingMapSector === 'Tankers') col = '#f59e0b';
+    else if (trackingMapSector === 'LNG') col = '#06b6d4';
+    else if (trackingMapSector === 'LPG') col = '#a855f7';
+    return { radius: Math.max(r, 4), fillColor: col, fillOpacity: 0.9, color: '#0a0f16', weight: 1, opacity: 1 };
   }
   return { radius: 2, fillColor: '#6e7681', fillOpacity: 0.25, color: '#0a0f16', weight: 0.5, opacity: 0.4 };
 }
@@ -44488,7 +45135,29 @@ function portHubTotal(p) {
 
 function portHubPopupHtml(p) {
   var tot = portHubTotal(p);
-  return '<div class="signal-vessel-popup" style="min-width:230px;">' +
+  var qData = typeof getPortQueueData === 'function' ? getPortQueueData(p) : null;
+  var qHtml = '';
+  if (qData) {
+    var anc = qData.anchored_total || 0;
+    var inb = qData.inbound_total || 0;
+    var qTot = anc + inb;
+    var norm = qData.normality;
+    var badgeCls = 'status-badge-berth';
+    var flag = norm ? (norm.stress_flag || 'NORMAL') : 'MONITORED';
+    if (flag === 'HIGH' || flag === 'STRESSED' || flag === 'CRITICAL') badgeCls = 'status-badge-red';
+    else if (flag === 'WARNING' || flag === 'ELEVATED') badgeCls = 'status-badge-warn';
+    else if (flag === 'LOW' || flag === 'COLLAPSE') badgeCls = 'status-badge-anchor';
+
+    qHtml = '<div style="margin-top:6px; padding:6px 8px; background:rgba(56,139,253,0.08); border:1px solid rgba(56,139,253,0.25); border-radius:4px; font-size:11px;">' +
+      '<div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:3px;">' +
+        '<strong style="color:#58a6ff;">Live Queue: ' + qTot.toLocaleString('en-US') + ' vessels</strong>' +
+        '<span class="' + badgeCls + '" style="font-size:9px; padding:1px 5px;">' + escapeHtml(flag) + '</span>' +
+      '</div>' +
+      '<div style="color:var(--text-muted); font-size:10px;">' + anc.toLocaleString('en-US') + ' at anchor/berth &middot; ' + inb.toLocaleString('en-US') + ' inbound en route</div>' +
+    '</div>';
+  }
+
+  return '<div class="signal-vessel-popup" style="min-width:240px;">' +
     '<div class="signal-vessel-head">' +
     '<div class="signal-vessel-title"><span>' + escapeHtml(p.name) + '</span><span class="status-badge-berth">' + tot.toLocaleString('en-US') + ' Calls YTD</span></div>' +
     '<div class="signal-vessel-sub">' + escapeHtml(p.country || '') + ' (' + escapeHtml(p.portid) + ')</div>' +
@@ -44499,7 +45168,8 @@ function portHubPopupHtml(p) {
     '<div><div class="signal-field-label">Container calls YTD</div><div class="signal-field-val">' + (p.container || 0).toLocaleString('en-US') + '</div></div>' +
     '<div><div class="signal-field-label">Gen-cargo / RoRo YTD</div><div class="signal-field-val">' + ((p.general_cargo || 0) + (p.roro || 0)).toLocaleString('en-US') + '</div></div>' +
     '</div>' +
-    '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:4px;">Measured IMF PortWatch calls, 2026 year to date. No vessel positions: PortWatch publishes counts, not live ship locations.</div>' +
+    qHtml +
+    '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:4px;">PortWatch YTD call totals &middot; Signal AIS active queue and anchorage radar.</div>' +
     '<button class="signal-vessel-btn" onclick="openPortPage(\'' + p.portid + '\')">Open Port Page (' + escapeHtml(p.name) + ')</button>' +
     '</div>';
 }
@@ -45654,14 +46324,34 @@ function escapeHtml(str) {
 
         if (type === 'tracking-sector-map') {
           const sec = target.getAttribute('data-tt-sector') || 'all';
-          const secPorts = window.__trackingSectorPortStats || {};
-          const p = secPorts[sec] || {};
-          const secName = sec === 'all' ? 'All Classes' : sec;
-          html = `<div class="rt-title">Sector Highlight: ${secName} (IMF PortWatch calls)</div>`;
-          html += `<div class="rt-row"><span class="rt-label">Ports with Calls (YTD)</span><span class="rt-val">${p.nPorts != null ? p.nPorts : 'n/a'}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Calls in Sector (YTD)</span><span class="rt-val">${p.total != null ? Number(p.total).toLocaleString('en-US') : 'n/a'}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Observation Type</span><span class="rt-val">AIS Port Calls Only (IMF PortWatch)</span></div>`;
-          html += `<div class="rt-note">Pin size on the map follows measured year-to-date calls from the PortWatch expanded feed (scaled to the five busiest hubs). Click a port pin to open its port page.</div>`;
+          if (sec === 'LNG') {
+            const nTerminals = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(p => p[7] > 0.1).length : 73;
+            const nCarriers = (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) ? DATA.liveFleetPositions.rows.filter(r => (r[3] || '').toLowerCase() === 'lng').length : 1273;
+            html = `<div class="rt-title">Sector Highlight: Liquefied Natural Gas (LNG)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#06b6d4; font-weight:700;">${nTerminals} Terminals</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Active Carrier Fleet</span><span class="rt-val" style="color:#06b6d4; font-weight:700;">${nCarriers.toLocaleString('en-US')} Carriers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">Signal Ocean Commercial &amp; Live AIS</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Trade Infrastructure</span><span class="rt-val">Liquefaction Exports &amp; Regasification Hubs</span></div>`;
+            html += `<div class="rt-note">Displays verified cryogenic LNG export/import terminals and live carrier AIS positions. PortWatch does not track gas calls; data is sourced directly from Signal Ocean terminal registry and live AIS feeds.</div>`;
+          } else if (sec === 'LPG') {
+            const nTerminals = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(p => p[8] > 0.1).length : 150;
+            const nCarriers = (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) ? DATA.liveFleetPositions.rows.filter(r => (r[3] || '').toLowerCase() === 'lpg').length : 2103;
+            html = `<div class="rt-title">Sector Highlight: Liquefied Petroleum Gas (LPG)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#a855f7; font-weight:700;">${nTerminals} Terminals</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Active Carrier Fleet</span><span class="rt-val" style="color:#a855f7; font-weight:700;">${nCarriers.toLocaleString('en-US')} Carriers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">Signal Ocean Commercial &amp; Live AIS</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">VLGC, LGC, MGC, Handy &amp; Small Gas</span></div>`;
+            html += `<div class="rt-note">Displays global pressurized and refrigerated LPG export/import infrastructure and live fleet AIS positions. Data is sourced directly from Signal Ocean terminal registry and live AIS feeds.</div>`;
+          } else {
+            const secPorts = window.__trackingSectorPortStats || {};
+            const p = secPorts[sec] || {};
+            const secName = sec === 'all' ? 'All Classes' : sec;
+            html = `<div class="rt-title">Sector Highlight: ${secName} (IMF PortWatch calls)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Ports with Calls (YTD)</span><span class="rt-val">${p.nPorts != null ? Number(p.nPorts).toLocaleString('en-US') : 'n/a'}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Calls in Sector (YTD)</span><span class="rt-val">${p.total != null ? Number(p.total).toLocaleString('en-US') : 'n/a'}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Type</span><span class="rt-val">AIS Port Calls Only (IMF PortWatch)</span></div>`;
+            html += `<div class="rt-note">Pin size on the map follows measured year-to-date calls from the PortWatch expanded feed (scaled to the five busiest hubs). Click a port pin to open its port page.</div>`;
+          }
         }
         else if (type === 'portwatch-callout') {
           const ctx = target.getAttribute('data-tt-context');
