@@ -17,6 +17,10 @@ Verifies:
 import os
 import sys
 from pathlib import Path
+import functools
+import http.server
+import socket
+import threading
 from playwright.sync_api import sync_playwright
 
 if hasattr(sys.stdout, 'reconfigure'):
@@ -30,6 +34,19 @@ def run_cargo_e2e():
 
     Path("docs/screenshots").mkdir(parents=True, exist_ok=True)
 
+    server = None
+    sock = socket.socket()
+    is_open = (sock.connect_ex(('127.0.0.1', 8000)) == 0)
+    sock.close()
+
+    if not is_open:
+        repo_root = Path(__file__).resolve().parent.parent
+        handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(repo_root))
+        server = http.server.ThreadingHTTPServer(('127.0.0.1', 8000), handler)
+        server_thread = threading.Thread(target=server.serve_forever, daemon=True)
+        server_thread.start()
+        print("Started internal test HTTP server on http://127.0.0.1:8000")
+
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(viewport={"width": 1600, "height": 1000})
@@ -38,8 +55,8 @@ def run_cargo_e2e():
         page.on("console", lambda msg: console_errors.append(msg.text) if msg.type == "error" else None)
         page.on("pageerror", lambda err: page_errors.append(str(err)))
 
-        print("Navigating to http://localhost:8000/index.html...")
-        page.goto("http://localhost:8000/index.html", wait_until="networkidle")
+        print("Navigating to http://127.0.0.1:8000/index.html...")
+        page.goto("http://127.0.0.1:8000/index.html", wait_until="networkidle")
 
         # Ensure loading overlay disappears
         try:
