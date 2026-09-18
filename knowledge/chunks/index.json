@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T15:02:14Z",
+ "generated_at": "2026-09-18T19:09:56Z",
  "compiler_version": 2,
  "count": 104,
  "files": [
@@ -15,7 +15,7 @@
    "path": "knowledge/chunks/baltic_container_2026.jsonl",
    "stem": "baltic_container_2026",
    "year": 2026,
-   "bytes": 206798
+   "bytes": 209066
   },
   {
    "file": "baltic_dry.jsonl",
@@ -29,7 +29,7 @@
    "path": "knowledge/chunks/baltic_dry_2026.jsonl",
    "stem": "baltic_dry_2026",
    "year": 2026,
-   "bytes": 878102
+   "bytes": 887640
   },
   {
    "file": "baltic_gas.jsonl",
@@ -43,7 +43,7 @@
    "path": "knowledge/chunks/baltic_gas_2026.jsonl",
    "stem": "baltic_gas_2026",
    "year": 2026,
-   "bytes": 378962
+   "bytes": 383408
   },
   {
    "file": "baltic_ningbo.jsonl",
@@ -71,7 +71,7 @@
    "path": "knowledge/chunks/baltic_tanker_2026.jsonl",
    "stem": "baltic_tanker_2026",
    "year": 2026,
-   "bytes": 881952
+   "bytes": 891172
   },
   {
    "file": "books.jsonl",

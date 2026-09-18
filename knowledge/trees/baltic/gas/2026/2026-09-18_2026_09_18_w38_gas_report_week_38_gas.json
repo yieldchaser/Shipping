@@ -1,0 +1,90 @@
+{
+  "node_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas__root",
+  "doc_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas",
+  "parent_id": null,
+  "title": "Gas report - Week 38",
+  "section_path": [
+    "Gas report - Week 38"
+  ],
+  "section_path_text": "Gas report - Week 38",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "LNG\nThe LNG freight market experienced a volatile but generally firmer week, supported by stronger LNG commodity prices, ongoing geopolitical uncertainty in the Middle East, and increased market activity. Market sentiment improved as concerns over the Strait of Hormuz and low European gas storage levels boosted LNG price expectations, although this did not translate fully into physical shipping demand due to ample vessel availability. Baltic LNG assessments strengthened significantly through the first half of the week before easing slightly on Thursday.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "japan",
+    "gas",
+    "day",
+    "day.",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 511,
+  "source_path": "reports/baltic/gas/2026/2026-09-18_W38_gas-report-week-38_gas.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas__s01_lng",
+      "doc_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas",
+      "parent_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas__root",
+      "title": "LNG",
+      "section_path": [
+        "LNG"
+      ],
+      "section_path_text": "LNG",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The LNG freight market experienced a volatile but generally firmer week, supported by stronger LNG commodity prices, ongoing geopolitical uncertainty in the Middle East, and increased market activity. Market sentiment improved as concerns over the Strait of Hormuz and low European gas storage levels boosted LNG price expectations, although this did not translate fully into physical shipping demand due to ample vessel availability.",
+      "keywords": [
+        "lng",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "us_gulf",
+        "japan",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 297,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas__s02_lpg",
+      "doc_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas",
+      "parent_id": "baltic_gas_2026-09-18_2026_09_18_w38_gas_report_week_38_gas__root",
+      "title": "LPG",
+      "section_path": [
+        "LPG"
+      ],
+      "section_path_text": "LPG",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The LPG market continued to strengthen this week, supported by strong arbitrage economics and exceptionally tight vessel availability. VLGC freight ex-US reached fresh highs, with several fixtures concluded above $300/mt HCvP and only a handful of vessels remain available for prompt October requirements.",
+      "keywords": [
+        "lpg",
+        "gas",
+        "route",
+        "day.",
+        "supported",
+        "tce",
+        "available",
+        "continued"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

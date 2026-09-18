@@ -7,7 +7,7 @@ categories:
 - iron_ore
 document_count: 97
 evidence_count: 250
-generated_at: '2026-09-18T14:54:07Z'
+generated_at: '2026-09-18T19:03:19Z'
 latest_evidence_date: '2026-09-18'
 page_type: topic_wiki
 related_topics:
@@ -23,7 +23,7 @@ topic_id: china_steel_and_iron_ore
 ---
 
 ## Summary
-China-driven steel and iron ore demand, port inventories, import trends, and the dry-bulk demand implications that flow through capesize and broader freight markets. The current wiki page is grounded in 250 cited sections from 97 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-09-18, with the strongest recurring markers being china, steel, iron ore, iron_ore, brazil. Primary coverage comes from categories such as dry, dry_charter, drybulk, insights, iron_ore.
+China-driven steel and iron ore demand, port inventories, import trends, and the dry-bulk demand implications that flow through capesize and broader freight markets. The current wiki page is grounded in 250 cited sections from 97 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-09-18, with the strongest recurring markers being china, steel, iron_ore, iron ore, brazil. Primary coverage comes from categories such as dry, dry_charter, drybulk, insights, iron_ore.
 
 ## Why It Matters
 China-driven steel and iron ore demand, port inventories, import trends, and the dry-bulk demand implications that flow through capesize and broader freight markets.
@@ -39,25 +39,25 @@ China-driven steel and iron ore demand, port inventories, import trends, and the
 - 2026-09-18 | breakwave_insights insights | Linked asset: 2026-09-18_baltic-dry-index-bdi-i-love-you-3000-amp-more_img_3tow2_7c3067890d01.png: Source asset: reports/breakwave/2026/assets/2026-09-18_baltic-dry-index-bdi-i-love-you-3000-amp-more_img_3tow2_7c3067890d01.png Linked image asset: 2026-09-18_baltic-dry-index-bdi-i-love-you-3000-amp-more_img_3tow2_7c3067890d01.png Image metadata: PNG 809x506 mode=RGBA Embedded info: dpi: (95.9866, 95.9866) OCR text: Capesize (>160K) Monthly Ton-Miles Seasonality 2022 -2023 ©2024 <mmme2025 -mmmm2026 130T 1.207 110T . oN vy 1.00T cf v o.9oT o.goT jan Feb Mar = Apr._--=s May = Jun. [doc_id: breakwave_insights_insights_2026-09-18_2026_09_18_baltic_dry_index_bdi_i_love_you_3000_amp_more | section_id: breakwave_insights_insights_2026-09-18_2026_09_18_baltic_dry_index_bdi_i_love_you_3000_amp_more__s04_linked_asset_2026_09_18_baltic_dry_index_bdi_i_love_you_3000_amp_more_img_3tow2_7c3067890d01_png | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-08-10 to 2026-09-18 across 1 calendar years.
+- Coverage span: 2026-08-11 to 2026-09-18 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: china, steel, iron ore, iron_ore, brazil, australia
+- Recurring evidence markers: china, steel, iron_ore, iron ore, brazil, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 133, hellenic: 81, baltic: 30, breakwave: 6
-- Category coverage: insights: 133, iron_ore: 75, dry: 30, dry_charter: 6, drybulk: 6
-- Tone distribution: constructive: 151, cautiously_bearish: 53, neutral: 46
+- Source coverage: breakwave_insights: 133, hellenic: 79, baltic: 32, breakwave: 6
+- Category coverage: insights: 133, iron_ore: 73, dry: 32, dry_charter: 6, drybulk: 6
+- Tone distribution: constructive: 153, cautiously_bearish: 51, neutral: 46
 - Related topics: dry_bulk_market, capesize
 
 ## Key Documents
 - 2026-09-18 | MMI Daily Iron Ore Index Report September 18 2026 [doc_id: hellenic_iron_ore_2026-09-18_2026_09_18_mmi_daily_iron_ore_index_report_september_18_2026 | section_id: hellenic_iron_ore_2026-09-18_2026_09_18_mmi_daily_iron_ore_index_report_september_18_2026__s03_linked_asset_2026_09_18_mmi_daily_iron_ore_index_report_september_18_2026_mmi_daily_iron_ore_report_for_18th_s_1ee5f11f9420_pdf | pages n/a]
 - 2026-09-18 | Baltic Dry Index (BDI) - I Love You 3000 & More [doc_id: breakwave_insights_insights_2026-09-18_2026_09_18_baltic_dry_index_bdi_i_love_you_3000_amp_more | section_id: breakwave_insights_insights_2026-09-18_2026_09_18_baltic_dry_index_bdi_i_love_you_3000_amp_more__s01_main | pages n/a]
 - 2026-09-18 | Guinea Powers China's Aluminium Record - But a Cap Looms [doc_id: breakwave_insights_insights_2026-09-18_2026_09_18_guinea_powers_chinas_aluminium_record_but_a_cap_looms | section_id: breakwave_insights_insights_2026-09-18_2026_09_18_guinea_powers_chinas_aluminium_record_but_a_cap_looms__s03_robust_chinese_seaborne_trade_in_bauxite | pages n/a]
+- 2026-09-18 | Bulk report - Week 38 [doc_id: baltic_dry_2026-09-18_2026_09_18_w38_bulk_report_week_38_dry | section_id: baltic_dry_2026-09-18_2026_09_18_w38_bulk_report_week_38_dry__s02_panamax_kamsarmax | pages n/a]
 - 2026-09-17 | MMI Daily Iron Ore Index Report September 17 2026 [doc_id: hellenic_iron_ore_2026-09-17_2026_09_17_mmi_daily_iron_ore_index_report_september_17_2026 | section_id: hellenic_iron_ore_2026-09-17_2026_09_17_mmi_daily_iron_ore_index_report_september_17_2026__s03_linked_asset_2026_09_17_mmi_daily_iron_ore_index_report_september_17_2026_mmi_daily_iron_ore_report_for_17th_s_e63bd60b621f_pdf | pages n/a]
 - 2026-09-17 | Oil falls as supply concerns ease [doc_id: breakwave_insights_insights_2026-09-17_2026_09_17_oil_falls_as_supply_concerns_ease | section_id: breakwave_insights_insights_2026-09-17_2026_09_17_oil_falls_as_supply_concerns_ease__s04_linked_asset_2026_09_17_oil_falls_as_supply_concerns_ease_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cc7e28e952e8_png | pages n/a]
 - 2026-09-17 | The pressure on Middle Eastern energy flows [doc_id: breakwave_insights_insights_2026-09-17_2026_09_17_the_pressure_on_middle_eastern_energy_flows | section_id: breakwave_insights_insights_2026-09-17_2026_09_17_the_pressure_on_middle_eastern_energy_flows__s01_main | pages n/a]
 - 2026-09-16 | MMI Daily Iron Ore Index Report September 16 2026 [doc_id: hellenic_iron_ore_2026-09-16_2026_09_16_mmi_daily_iron_ore_index_report_september_16_2026 | section_id: hellenic_iron_ore_2026-09-16_2026_09_16_mmi_daily_iron_ore_index_report_september_16_2026__s03_linked_asset_2026_09_16_mmi_daily_iron_ore_index_report_september_16_2026_mmi_daily_iron_ore_report_for_16th_s_fcaa96faf638_pdf | pages n/a]
-- 2026-09-16 | China's crude purchase priority in a highfreight environment [doc_id: breakwave_insights_insights_2026-09-16_2026_09_16_chinas_crude_purchase_priority_in_a_highfreight_environment | section_id: breakwave_insights_insights_2026-09-16_2026_09_16_chinas_crude_purchase_priority_in_a_highfreight_environment__s05_linked_asset_2026_09_16_chinas_crude_purchase_priority_in_a_highfreight_environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57888a0eb7e0_png | pages n/a]
 
 ## Related Topics
 - dry_bulk_market
