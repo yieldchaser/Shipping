@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:14:27.974474+00:00",
+  "generated_at": "2026-09-18T06:16:13.122922+00:00",
   "publisher": "Secretar\u00eda de Agricultura, Ganader\u00eda y Pesca (MAGyP) / Subsecretar\u00eda de Mercados Agropecuarios",
   "portal_url": "https://www.magyp.gob.ar/sitio/areas/ss_mercados_agropecuarios/exportaciones/",
   "total_monthly_points": 55,
@@ -34,9 +34,9 @@
   },
   "latest_observation": {
     "date": "2026-07-01",
-    "total_exports_mt": 0.253,
-    "up_river_parana_mt": 0.253,
-    "ocean_deepwater_mt": 0.0,
-    "up_river_share_pct": 100.0
+    "total_exports_mt": 8.101,
+    "up_river_parana_mt": 6.644,
+    "ocean_deepwater_mt": 1.457,
+    "up_river_share_pct": 82.01
   }
 }

@@ -258,6 +258,7 @@ def main():
     })
 
     monthly_totals = defaultdict(lambda: {"total": 0, "unclassified": 0, "classified": 0})
+    fixtures_by_year = defaultdict(int)
 
     print(f"Reading {FIXTURES_FILE}...")
     with open(FIXTURES_FILE, "r", encoding="utf-8", errors="ignore") as f:
@@ -276,6 +277,8 @@ def main():
             route = (row.get("route") or "").strip().upper()
 
             ym = date_str[:7] if len(date_str) >= 7 else "Unknown"
+            yr_str = date_str[:4] if len(date_str) >= 4 and date_str[:4].isdigit() else "Unknown"
+            fixtures_by_year[yr_str] += 1
 
             # 1. Vessel class: Derived directly from segment and DWT
             vessel_cls = normalize_vessel_class(segment, comment)
@@ -576,6 +579,8 @@ def main():
 
         p_12m = d["periods"]["last_12m"]["count"]
         p_prior = d["periods"]["prior_12m"]["count"]
+        # Non-comparable prior base check: prior basis < 100 fixtures reflects reporting coverage ramp, not trade growth
+        prior_comparable = p_prior >= 100
         yoy_pct = round(((p_12m - p_prior) / p_prior) * 100, 1) if p_prior > 0 else None
 
         clean_commodities[cmd] = {
@@ -593,7 +598,9 @@ def main():
                 "last_12m": {"fixtures": p_12m, "qty_mt": round(d["periods"]["last_12m"]["total_qty_mt"], 1)},
                 "last_4w": {"fixtures": d["periods"]["last_4w"]["count"], "qty_mt": round(d["periods"]["last_4w"]["total_qty_mt"], 1)},
                 "prior_12m": {"fixtures": p_prior, "qty_mt": round(d["periods"]["prior_12m"]["total_qty_mt"], 1)},
-                "yoy_pct": yoy_pct
+                "yoy_pct": yoy_pct,
+                "prior_comparable": prior_comparable,
+                "coverage_affected": True
             },
             "vessel_breakdown": {
                 k: {"fixtures": v["count"], "qty_mt": round(v["total_qty_mt"], 1)}
@@ -696,6 +703,14 @@ def main():
             "parsed_qty_pct": round((parsed_qty_count / total_fixtures) * 100, 2),
             "corridor_mapped_fixtures": corridor_mapped_count,
             "corridor_mapped_share_pct": round((corridor_mapped_count / classified_count) * 100, 2),
+            "effective_span": "2019–2026",
+            "earliest_year": 1974,
+            "provenance_span_claim": "Effective Coverage: 2019–2026 (Earliest archive record: 1974) · 547,049 Broker Fixtures",
+            "coverage_ramp_warning": (
+                "YoY fixture growth measures reporting ledger expansion (4,709 fixtures pre-2019 vs 509,824 in 2024-2026), "
+                "not seaborne trade volume growth. 93.2% of all fixtures are concentrated in 2024-2026."
+            ),
+            "fixtures_by_year": dict(sorted(fixtures_by_year.items())),
             "recent_months": recent_months,
             "as_of": max(recent_months) if recent_months else datetime.utcnow().strftime("%Y-%m-%d")
         },

@@ -82,30 +82,40 @@ def parse_num(val_str):
 def discover_monthly_urls():
     """Discover all monthly publication URLs across year pairs."""
     logging.info("Discovering monthly URLs from MAGyP exportaciones index...")
+    items = []
+    seen = set()
     try:
         r = requests.get(BASE_URL, headers=HEADERS, timeout=15, verify=False)
-        if r.status_code != 200:
-            logging.warning("MAGyP main index returned status %s", r.status_code)
-            return []
-        soup = BeautifulSoup(r.text, "html.parser")
-        items = []
-        seen = set()
-        for a in soup.find_all("a"):
-            href = a.get("href", "")
-            if "embarques_interanual/mensual-" in href and href.endswith(".php"):
-                fname = href.split("/")[-1]
-                pair = href.split("/")[-2].replace("mensual-", "")
-                if fname.startswith("20"):  # Skip annual consolidations like 2025-2026.php
-                    continue
-                full_url = BASE_URL + href
-                if full_url not in seen:
-                    seen.add(full_url)
-                    items.append((pair, fname, full_url))
-        logging.info("Discovered %d monthly files across year pairs.", len(items))
-        return items
+        if r.status_code == 200:
+            soup = BeautifulSoup(r.text, "html.parser")
+            for a in soup.find_all("a"):
+                href = a.get("href", "")
+                if "embarques_interanual/mensual-" in href and href.endswith(".php"):
+                    fname = href.split("/")[-1]
+                    pair = href.split("/")[-2].replace("mensual-", "")
+                    if fname.startswith("20"):  # Skip annual consolidations like 2025-2026.php
+                        continue
+                    full_url = BASE_URL + href
+                    if full_url not in seen:
+                        seen.add(full_url)
+                        items.append((pair, fname, full_url))
     except Exception as e:
-        logging.error("Failed discovering monthly files: %s", e)
-        return []
+        logging.warning("Failed discovering monthly files from remote: %s", e)
+
+    # Robust fallback to cached files in CACHE_DIR
+    if CACHE_DIR.exists():
+        for p in sorted(CACHE_DIR.glob("*.php")):
+            parts = p.name.split("_", 1)
+            if len(parts) == 2 and "-" in parts[0]:
+                pair = parts[0]
+                fname = parts[1]
+                dummy_url = f"{BASE_EMBARQUES}mensual-{pair}/{fname}"
+                if dummy_url not in seen:
+                    seen.add(dummy_url)
+                    items.append((pair, fname, dummy_url))
+
+    logging.info("Discovered %d monthly files across year pairs.", len(items))
+    return items
 
 
 def fetch_and_parse_file(pair, fname, url):
@@ -151,29 +161,50 @@ def fetch_and_parse_file(pair, fname, url):
     if len(r0) < 5:
         return []
 
-    cs1 = int(r0[2].get("colspan", 1))
-    tot1_col = 2 + cs1
-    cs2 = int(r0[4].get("colspan", 1))
-    tot2_col = tot1_col + 1 + cs2
+    # Dynamic layout detection:
+    # In table grid, col 0 is PUERTO, col 1 is MUELLE.
+    # When MUELLE is in r0, r0[0] is PUERTO (col 0), r0[1] is MUELLE (col 1), r0[2] is month 1.
+    # When MUELLE is omitted from r0 (e.g. 2025-10, 2026-07), r0[0] is PUERTO, r0[1] is month 1 (covers col 1 to 1 + cs1 - 1).
+    has_muelle_in_r0 = any("MUELLE" in c.get_text(strip=True).upper() for c in r0[:2])
+    if has_muelle_in_r0:
+        cs1 = int(r0[2].get("colspan", 1))
+        tot1_col = 2 + cs1
+        cs2 = int(r0[4].get("colspan", 1))
+        tot2_col = tot1_col + 1 + cs2
+        n_comm1 = cs1
+        n_comm2 = cs2
+        c1_start = 2
+        c2_start = tot1_col + 1
+    else:
+        cs1 = int(r0[1].get("colspan", 1))
+        tot1_col = 1 + cs1
+        cs2 = int(r0[3].get("colspan", 1))
+        tot2_col = tot1_col + 1 + cs2
+        n_comm1 = cs1 - 1
+        n_comm2 = cs2
+        c1_start = 2
+        c2_start = tot1_col + 1
 
-    h2_all = [c.get_text(strip=True).upper() for c in rows[1].find_all(["td", "th"])]
-    h2_y1 = h2_all[:cs1]
-    h2_y2 = h2_all[cs1:]
+    r1_cells = [c.get_text(strip=True).upper() for c in rows[1].find_all(["td", "th"])]
+    if r1_cells and r1_cells[0] in ["MUELLE", "PUERTO"]:
+        r1_cells = r1_cells[1:]
+
+    h2_y1 = r1_cells[:n_comm1]
+    h2_y2 = r1_cells[n_comm1:n_comm1 + n_comm2]
 
     total_row = [c.get_text(strip=True) for c in rows[-1].find_all(["td", "th"])]
     if not total_row:
         return []
 
-    # If pair is 2022-2023, parse both 2022 (y1) and 2023 (y2); otherwise parse target y2
     targets = []
     if pair == "2022-2023":
-        targets.append((int(y1), tot1_col, 2, 2 + cs1, h2_y1))
-    targets.append((int(y2), tot2_col, tot1_col + 1, tot2_col, h2_y2))
+        targets.append((int(y1), tot1_col, c1_start, h2_y1))
+    targets.append((int(y2), tot2_col, c2_start, h2_y2))
 
     monthly_records = []
     port_records = []
 
-    for year_target, tot_idx, start_col, end_col, h2_sub in targets:
+    for year_target, tot_idx, start_col, h2_sub in targets:
         date_str = f"{year_target}-{month_num:02d}-01"
         if tot_idx >= len(total_row):
             continue
@@ -192,18 +223,19 @@ def fetch_and_parse_file(pair, fname, url):
                 p_name = re.sub(r"\s+", " ", p_name)
                 if tot_idx < len(cells):
                     p_val = parse_num(cells[tot_idx])
-                    ports[p_name] = p_val
-                    basin = "Ocean Deepwater" if p_name in ["BAHIA BLANCA", "NECOCHEA"] else "Up-River Parana"
-                    share_pct = round((p_val / total_tonnes) * 100, 2) if total_tonnes > 0 else 0.0
+                    if p_val > 0:
+                        ports[p_name] = p_val
+                        basin = "Ocean Deepwater" if p_name in ["BAHIA BLANCA", "NECOCHEA"] else "Up-River Parana"
+                        share_pct = round((p_val / total_tonnes) * 100, 2) if total_tonnes > 0 else 0.0
 
-                    port_records.append({
-                        "date": date_str,
-                        "port": p_name,
-                        "basin": basin,
-                        "total_tonnes": p_val,
-                        "share_of_national_pct": share_pct,
-                        "source_url": url,
-                    })
+                        port_records.append({
+                            "date": date_str,
+                            "port": p_name,
+                            "basin": basin,
+                            "total_tonnes": p_val,
+                            "share_of_national_pct": share_pct,
+                            "source_url": url,
+                        })
 
         up_river = sum(v for k, v in ports.items() if k not in ["BAHIA BLANCA", "NECOCHEA"])
         ocean = sum(v for k, v in ports.items() if k in ["BAHIA BLANCA", "NECOCHEA"])
@@ -227,7 +259,7 @@ def fetch_and_parse_file(pair, fname, url):
                     wheat_tonnes += val
                 elif "SOJA" in cname and "PELL" not in cname:
                     soy_tonnes += val
-                elif "PELL. SOJA" in cname or "PELL.    SOJA" in cname:
+                elif "PELL. SOJA" in cname or "PELL.    SOJA" in cname or "PELLETS SOJA" in cname:
                     soymeal_tonnes += val
                 elif "CEBADA" in cname:
                     barley_tonnes += val
@@ -235,12 +267,6 @@ def fetch_and_parse_file(pair, fname, url):
                     sorghum_tonnes += val
                 elif "GIRASOL" in cname and "PELL" not in cname:
                     sunflower_tonnes += val
-
-        if corn_tonnes == 0 and total_tonnes > 0:
-            corn_tonnes = round(total_tonnes * 0.52, 1)
-            soy_tonnes = round(total_tonnes * 0.18, 1)
-            soymeal_tonnes = round(total_tonnes * 0.18, 1)
-            wheat_tonnes = round(total_tonnes * 0.08, 1)
 
         monthly_records.append({
             "date": date_str,
@@ -261,6 +287,77 @@ def fetch_and_parse_file(pair, fname, url):
         })
 
     return monthly_records, port_records
+
+
+def validate_argentina_dataset(df_monthly, df_ports):
+    """
+    Strict validation of the parsed Argentina grain datasets before persisting.
+    Halts and raises ValueError if any regression or data-integrity issue is detected.
+    """
+    # 1. Continuous sequence check: exactly 55 continuous monthly records
+    if len(df_monthly) != 55:
+        raise ValueError(f"Expected exactly 55 monthly records (2022-01 to 2026-07), got {len(df_monthly)}")
+
+    dates = list(df_monthly["date"])
+    if len(dates) != len(set(dates)):
+        raise ValueError("Duplicate dates found in monthly records!")
+
+    if dates[0] != "2022-01-01" or dates[-1] != "2026-07-01":
+        raise ValueError(f"Unexpected date span: {dates[0]} to {dates[-1]}, expected 2022-01-01 to 2026-07-01")
+
+    # 2. Component and Port reconciliation for every row
+    crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt"]
+    for _, row in df_monthly.iterrows():
+        dt = row["date"]
+        tot = float(row["total_grain_mt"])
+        if tot <= 0:
+            raise ValueError(f"Row {dt} has non-positive total: {tot}")
+
+        # Check that no single component exceeds total
+        for c in crops:
+            cval = float(row.get(c, 0.0))
+            if cval > tot:
+                raise ValueError(f"Row {dt}: component {c} ({cval} Mt) exceeds monthly total ({tot} Mt)!")
+
+        # Check component sum reconciliation (between 65% and 105%)
+        c_sum = sum(float(row.get(c, 0.0)) for c in crops)
+        if c_sum < 0.65 * tot or c_sum > 1.05 * tot:
+            raise ValueError(f"Row {dt}: component sum ({c_sum:.3f} Mt) reconciles poorly with total ({tot:.3f} Mt): {c_sum/tot*100:.1f}%")
+
+        # Check basin / port breakdown
+        up = float(row.get("up_river_parana_mt", 0.0))
+        ocean = float(row.get("ocean_deepwater_mt", 0.0))
+        basin_sum = up + ocean
+        if abs(basin_sum - tot) / tot > 0.02:
+            raise ValueError(f"Row {dt}: basin sum ({basin_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by > 2%")
+
+        up_share = float(row.get("up_river_share_pct", 0.0))
+        if up_share < 50.0 or up_share > 95.0:
+            raise ValueError(f"Row {dt}: anomalous up-river share: {up_share}%")
+
+    # 3. Ground-truth invariants for audited months
+    # July 2026: 8.101 Mt, corn-led 4.531 Mt, soymeal 2.031 Mt (1.928 Mt arg + 0.103 Mt transshipment), 8 active terminals
+    row_jul26 = df_monthly[df_monthly["date"] == "2026-07-01"].iloc[0]
+    if abs(float(row_jul26["total_grain_mt"]) - 8.101) > 0.01:
+        raise ValueError(f"July 2026 total is {row_jul26['total_grain_mt']} Mt, expected 8.101 Mt!")
+    if abs(float(row_jul26["corn_mt"]) - 4.531) > 0.01:
+        raise ValueError(f"July 2026 corn is {row_jul26['corn_mt']} Mt, expected 4.531 Mt!")
+    if abs(float(row_jul26["soymeal_pellets_mt"]) - 2.031) > 0.01:
+        raise ValueError(f"July 2026 soymeal is {row_jul26['soymeal_pellets_mt']} Mt, expected 2.031 Mt!")
+
+    jul26_ports = df_ports[df_ports["date"] == "2026-07-01"]
+    if len(jul26_ports) != 8:
+        raise ValueError(f"July 2026 active terminals count is {len(jul26_ports)}, expected 8!")
+    port_sum = jul26_ports["total_tonnes"].sum() / 1e6
+    if abs(port_sum - 8.101) > 0.01:
+        raise ValueError(f"July 2026 ports sum is {port_sum:.3f} Mt, expected 8.101 Mt!")
+
+    # October 2025: 6.755 Mt
+    row_oct25 = df_monthly[df_monthly["date"] == "2025-10-01"].iloc[0]
+    if abs(float(row_oct25["total_grain_mt"]) - 6.755) > 0.01:
+        raise ValueError(f"October 2025 total is {row_oct25['total_grain_mt']} Mt, expected 6.755 Mt!")
+
+    logging.info("All 55 monthly rows and port breakdowns passed strict reconciliation validators.")
 
 
 def run_pipeline():
@@ -291,12 +388,17 @@ def run_pipeline():
     df_monthly = pd.DataFrame(all_monthly)
     df_monthly.drop_duplicates(subset=["date"], keep="last", inplace=True)
     df_monthly.sort_values(by=["date"], inplace=True)
-    df_monthly.to_csv(OUT_MONTHLY_CSV, index=False, lineterminator="\n")
-    logging.info("Saved %d monthly records to %s (Date span: %s -> %s)", len(df_monthly), OUT_MONTHLY_CSV, df_monthly["date"].min(), df_monthly["date"].max())
 
     # Sort ports records
     df_ports = pd.DataFrame(all_ports)
     df_ports.sort_values(by=["date", "port"], inplace=True)
+
+    # Enforce strict reconciliation validation before saving
+    validate_argentina_dataset(df_monthly, df_ports)
+
+    df_monthly.to_csv(OUT_MONTHLY_CSV, index=False, lineterminator="\n")
+    logging.info("Saved %d monthly records to %s (Date span: %s -> %s)", len(df_monthly), OUT_MONTHLY_CSV, df_monthly["date"].min(), df_monthly["date"].max())
+
     df_ports.to_csv(OUT_PORTS_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d port records to %s", len(df_ports), OUT_PORTS_CSV)
 

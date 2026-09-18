@@ -15134,14 +15134,17 @@ if (intelTabsContainer) {
           <!-- Unclassified Fixtures & Partial Sample Coverage Disclosure Card -->
           <div class="cargo-unclass-card" style="margin-bottom:12px;">
             <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;flex-wrap:wrap;gap:6px;">
-              <span style="font-weight:700;color:#e3b341;">Fixture Coverage &amp; Volume Accounting Disclosure</span>
+              <span style="font-weight:700;color:#e3b341;">Fixture Coverage, Sampling Bias &amp; Volume Accounting Disclosure</span>
               <div style="display:flex;gap:6px;">
                 <span class="badge" style="font-size:11px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Parsed Qty: 27,305 fixtures (5.0% sample)</span>
                 <span class="cargo-badge-est">AUDIT DISCLOSURE</span>
               </div>
             </div>
             <div style="font-size:11.5px;line-height:1.5;">
-              <strong>Partial Sample Notice:</strong> Reported volume represents only commercial fixtures with explicit free-text charter cargo quantities parsed from broker commentary (~5.0% sample of 547,049 fixtures; 27,305 records). Fixtures lacking explicit tonnage are not assumed to be zero and do not contribute to volume totals. In parallel, records without an explicit commodity classification (24.6%) are isolated into the Unclassified Tonnage bucket to preserve reporting integrity.
+              <strong>Partial Sample Notice:</strong> Reported volume represents only commercial fixtures with explicit free-text charter cargo quantities parsed from broker commentary (~5.0% sample of 547,049 fixtures; 27,305 records). Fixtures lacking explicit tonnage are not assumed to be zero and do not contribute to volume totals. In parallel, records without an explicit commodity classification (24.6%) are isolated into the Unclassified Tonnage bucket.
+            </div>
+            <div style="font-size:11.5px;line-height:1.5;margin-top:6px;padding-top:6px;border-top:1px dashed rgba(227,179,65,0.25);color:var(--text-muted);">
+              <strong>Sampling Bias Warning (YoY Coverage Ramp):</strong> YoY fixture growth reflects commercial broker reporting ledger expansion (4,709 fixtures pre-2019 vs 19,052 in 2024, 287,302 in 2025, and 203,470 in 2026), NOT physical seaborne trade volume expansion. 93.2% of all fixtures occur within 2024–2026. Non-comparable prior-year bases (&lt; 100 fixtures) are suppressed.
             </div>
           </div>
 
@@ -15178,7 +15181,7 @@ if (intelTabsContainer) {
 
           <div class="cargo-provenance-strip" style="margin-top:14px;">
             <div>
-              <strong>Source:</strong> Fearnleys Fixture Ledger (547,049 broker fixtures: 412k classified, 135k unclassified) &middot; Parsed Qty Coverage: 27,305 fixtures (5.0% sample) &middot; Normalization: <code>data/reference/commodity_normalisation.json</code> &middot; Span: 1974&ndash;2026
+              <strong>Source:</strong> Fearnleys Fixture Ledger (547,049 broker fixtures: 412k classified, 135k unclassified) &middot; Effective Coverage: 2019&ndash;2026 (Earliest archive record: 1974) &middot; Parsed Qty Coverage: 27,305 fixtures (5.0% sample) &middot; Normalization: <code>data/reference/commodity_normalisation.json</code>
             </div>
             <span class="cargo-badge-live">LIVE BROKER LEDGER</span>
           </div>
@@ -31276,10 +31279,13 @@ function renderFearnleysSnpTable() {
           var p12 = r.periods.last_12m ? r.periods.last_12m.fixtures : 0;
           count = p12;
           qtyMt = r.periods.last_12m && r.periods.last_12m.qty_mt > 0 ? (r.periods.last_12m.qty_mt / 1e6) : 0;
-          if (r.periods.yoy_pct != null) {
+          var priorCount = r.periods.prior_12m ? r.periods.prior_12m.fixtures : 0;
+          if (priorCount < 100) {
+            yoyText = ' <span style="font-size:11px;color:var(--text-muted);font-style:italic;" title="Prior basis is non-comparable (&lt;100 fixtures) due to historical reporting coverage ramp">(sparse prior base)</span>';
+          } else if (r.periods.yoy_pct != null) {
             var sign = r.periods.yoy_pct >= 0 ? '+' : '';
             var yColor = r.periods.yoy_pct >= 0 ? '#3fb950' : '#f85149';
-            yoyText = ' <span style="font-size:11px;color:' + yColor + ';font-weight:600;">(' + sign + r.periods.yoy_pct.toFixed(1) + '% YoY)</span>';
+            yoyText = ' <span style="font-size:11px;color:' + yColor + ';font-weight:600;" title="Reported broker fixture growth affected by coverage expansion, not seaborne trade growth">(' + sign + r.periods.yoy_pct.toFixed(1) + '% fixture ramp*)</span>';
           }
         }
         r._displayCount = count;
@@ -31291,7 +31297,7 @@ function renderFearnleysSnpTable() {
 
       var volColHeader = document.getElementById('matrixVolColHeader');
       if (volColHeader) {
-        if (_cargoMatrixPeriod === 'yoy') volColHeader.textContent = 'Reported Volume & YoY Growth (Last 12M)';
+        if (_cargoMatrixPeriod === 'yoy') volColHeader.textContent = 'Reported Fixture Growth (Coverage-Affected), Not Trade Growth (Last 12M)';
         else if (_cargoMatrixPeriod === 'last_12m') volColHeader.textContent = 'Reported Volume (Last 12M, Mt)';
         else if (_cargoMatrixPeriod === 'last_4w') volColHeader.textContent = 'Reported Volume (Last 4W, Mt)';
         else volColHeader.textContent = 'Reported Volume (Mt, ~5.0% Sample)';
@@ -32178,7 +32184,7 @@ function renderFearnleysSnpTable() {
             (mtStr ? '<span class="badge" style="font-size:11px;padding:2px 5px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">' + mtStr + '</span>' : '') +
           '</div>' +
           '<div class="chart-canvas-wrap" style="height:150px;"><canvas id="' + safeId + '"></canvas></div>' +
-          '<div style="font-size:11px;color:var(--text-muted);margin-top:6px;border-top:1px solid rgba(255,255,255,0.05);padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="' + escapeHtml(flow.source || '') + '">' +
+          '<div style="font-size:11px;line-height:1.35;min-height:28px;color:var(--text-muted);margin-top:6px;border-top:1px solid rgba(255,255,255,0.05);padding-top:4px;word-break:break-word;" title="' + escapeHtml(flow.source || '') + '">' +
             '<strong>Source:</strong> ' + escapeHtml(flow.source || 'UN Comtrade / National Customs') +
           '</div>' +
         '</div>';

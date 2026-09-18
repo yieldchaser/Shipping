@@ -1285,9 +1285,20 @@ def process_minor_bulks():
                 continue
         envelope = compute_seasonal_envelope_monthly(flow_monthly)
         latest_r = rows[-1]
+        rep = latest_r.get("reporter_country") or latest_r.get("reporter") or ""
+        tf = latest_r.get("trade_flow") or ""
+        if rep and tf:
+            trade_flow_label = f"{rep} {tf}s" if not tf.endswith("s") else f"{rep} {tf}"
+        elif rep:
+            trade_flow_label = rep
+        else:
+            trade_flow_label = tf
+
+        vc = latest_r.get("vessel_demand_impact") or latest_r.get("vessel_class") or "Supramax / Handysize"
+
         flows[cmd] = {
-            "vessel_class": latest_r.get("vessel_demand_impact", "Supramax / Handysize"),
-            "trade_flow": f"{latest_r.get('reporter_country', '')} {latest_r.get('trade_flow', '')}",
+            "vessel_class": vc,
+            "trade_flow": trade_flow_label,
             "source": latest_r.get("source", ""),
             "envelope": envelope,
             "monthly_raw": flow_monthly,
@@ -1296,7 +1307,8 @@ def process_minor_bulks():
 
     min_date = min(all_dates) if all_dates else "2013-01-01"
     latest_date = max(all_dates) if all_dates else "2026-08-01"
-    span_str = f"{min_date[:4]}–{latest_date[:4]}"
+    # Synchronize provenance span with seasonal envelope 5-year baseline (2022–2026)
+    span_str = "2022–2026"
 
     agency_map = {
         "China GACC": "China GACC (Alumina)",
@@ -1320,6 +1332,7 @@ def process_minor_bulks():
         "method": "Direct National Customs Records & Bilateral Mirrors",
         "source_url": "https://comtradeplus.un.org/",
         "span": span_str,
+        "archive_span": f"{min_date[:4]}–{latest_date[:4]}",
         "min_date": min_date,
         "max_date": latest_date,
         "as_of": latest_date[:7],
