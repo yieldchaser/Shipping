@@ -51,9 +51,9 @@ def test_commodity_flow_matrix_structure_and_unclassified_bucket():
     # The fixtures ledger grows with every Fearnleys sync; it must never shrink below
     # the 2026-09-12 audited count.
     assert meta["total_fixtures"] >= 540640
-    assert meta["unclassified_fixtures"] > 250000
-    # Must be between 50% and 55%
-    assert 50.0 <= meta["unclassified_pct"] <= 55.0
+    assert meta["unclassified_fixtures"] > 0
+    # Audit Item 6: unclassified fixtures reduced to < 25% (previously ~53%)
+    assert meta["unclassified_pct"] < 25.0
 
     # Ensure unclassified group exists in groups
     groups = data["groups"]

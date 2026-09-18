@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "description": "Canonical reference mapping for broker fixtures and regional shorthand to Signal Ocean cargo taxonomy",
+  "version": "2.0.0",
+  "description": "Comprehensive reference mapping for Fearnleys fixtures, Signal Ocean taxonomy, and top 350+ port gazetteer",
   "commodity_mappings": {
     "grain": {
       "canonical": "Grain (Clean/General)",
@@ -105,31 +105,31 @@
       "vessel_class": "Capesize"
     },
     "iron ore fines": {
-      "canonical": "Iron Ore Fines",
+      "canonical": "Iron Ore",
       "group": "Ores and Rocks",
       "subgroup": "Iron Ore",
       "vessel_class": "Capesize"
     },
     "iron ore pellets": {
-      "canonical": "Iron Ore Pellets",
+      "canonical": "Iron Ore",
       "group": "Ores and Rocks",
       "subgroup": "Iron Ore",
       "vessel_class": "Capesize"
     },
     "iron ore lumps": {
-      "canonical": "Iron Ore Lumps",
+      "canonical": "Iron Ore",
       "group": "Ores and Rocks",
       "subgroup": "Iron Ore",
       "vessel_class": "Capesize"
     },
     "pellets": {
-      "canonical": "Iron Ore Pellets",
+      "canonical": "Iron Ore",
       "group": "Ores and Rocks",
       "subgroup": "Iron Ore",
       "vessel_class": "Capesize"
     },
     "fines": {
-      "canonical": "Iron Ore Fines",
+      "canonical": "Iron Ore",
       "group": "Ores and Rocks",
       "subgroup": "Iron Ore",
       "vessel_class": "Capesize"
@@ -172,8 +172,8 @@
     },
     "limestone": {
       "canonical": "Limestone",
-      "group": "Ores and Rocks",
-      "subgroup": "Other Ores and Rocks",
+      "group": "Dry Bulk / Industrial Minerals",
+      "subgroup": "Industrial Minerals",
       "vessel_class": "Supramax"
     },
     "coal": {
@@ -183,25 +183,25 @@
       "vessel_class": "Capesize"
     },
     "thermal coal": {
-      "canonical": "Thermal Coal",
+      "canonical": "Coal",
       "group": "Energy",
       "subgroup": "Coal",
       "vessel_class": "Panamax"
     },
     "metallurgical coal": {
-      "canonical": "Metallurgical Coal",
+      "canonical": "Coal",
       "group": "Energy",
       "subgroup": "Coal",
       "vessel_class": "Capesize"
     },
     "coking coal": {
-      "canonical": "Metallurgical Coal",
+      "canonical": "Coal",
       "group": "Energy",
       "subgroup": "Coal",
       "vessel_class": "Capesize"
     },
     "anthracite": {
-      "canonical": "Anthracite",
+      "canonical": "Coal",
       "group": "Energy",
       "subgroup": "Coal",
       "vessel_class": "Panamax"
@@ -358,24 +358,24 @@
     },
     "salt": {
       "canonical": "Salt",
-      "group": "Minerals and Metals",
-      "subgroup": "Minerals",
+      "group": "Dry Bulk / Industrial Minerals",
+      "subgroup": "Industrial Minerals",
       "vessel_class": "Supramax"
     },
     "gypsum": {
       "canonical": "Gypsum",
-      "group": "Minerals and Metals",
-      "subgroup": "Minerals",
+      "group": "Dry Bulk / Industrial Minerals",
+      "subgroup": "Industrial Minerals",
       "vessel_class": "Supramax"
     },
     "minerals": {
       "canonical": "General Minerals",
-      "group": "Minerals and Metals",
-      "subgroup": "Minerals",
+      "group": "Dry Bulk / Industrial Minerals",
+      "subgroup": "Industrial Minerals",
       "vessel_class": "Supramax"
     },
     "urea": {
-      "canonical": "Urea",
+      "canonical": "Fertilizers (Combined)",
       "group": "Bulk Chemicals",
       "subgroup": "Fertilizers",
       "vessel_class": "Supramax"
@@ -393,25 +393,24 @@
       "vessel_class": "Supramax"
     },
     "potash": {
-      "canonical": "Potash",
+      "canonical": "Fertilizers (Combined)",
       "group": "Bulk Chemicals",
-      "subgroup": "Fertilizers",
-      "vessel_class": "Supramax"
+      "subgroup": "Fertilizers"
     },
     "phosphate": {
-      "canonical": "Phosphate",
+      "canonical": "Fertilizers (Combined)",
       "group": "Bulk Chemicals",
       "subgroup": "Fertilizers",
       "vessel_class": "Supramax"
     },
     "sulphur": {
-      "canonical": "Sulphur",
+      "canonical": "Fertilizers (Combined)",
       "group": "Bulk Chemicals",
       "subgroup": "Fertilizers",
       "vessel_class": "Supramax"
     },
     "sulfur": {
-      "canonical": "Sulphur",
+      "canonical": "Fertilizers (Combined)",
       "group": "Bulk Chemicals",
       "subgroup": "Fertilizers",
       "vessel_class": "Supramax"
@@ -445,6 +444,41 @@
       "group": "General & Breakbulk",
       "subgroup": "Dry Bulk",
       "vessel_class": "Supramax"
+    },
+    "mop": {
+      "canonical": "Fertilizers (Combined)",
+      "group": "Bulk Chemicals",
+      "subgroup": "Fertilizers"
+    },
+    "sop": {
+      "canonical": "Fertilizers (Combined)",
+      "group": "Bulk Chemicals",
+      "subgroup": "Fertilizers"
+    },
+    "muriate of potash": {
+      "canonical": "Fertilizers (Combined)",
+      "group": "Bulk Chemicals",
+      "subgroup": "Fertilizers"
+    },
+    "canpotex": {
+      "canonical": "Fertilizers (Combined)",
+      "group": "Bulk Chemicals",
+      "subgroup": "Fertilizers"
+    },
+    "dap": {
+      "canonical": "Fertilizers (Combined)",
+      "group": "Bulk Chemicals",
+      "subgroup": "Fertilizers"
+    },
+    "map": {
+      "canonical": "Fertilizers (Combined)",
+      "group": "Bulk Chemicals",
+      "subgroup": "Fertilizers"
+    },
+    "general minerals": {
+      "canonical": "General Minerals",
+      "group": "Dry Bulk / Industrial Minerals",
+      "subgroup": "Industrial Minerals"
     }
   },
   "region_mappings": {
@@ -545,8 +579,8 @@
       "basin": "Atlantic"
     },
     "BOT": {
-      "region_name": "Black Sea & Mediterranean",
-      "basin": "Mediterranean"
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
     },
     "CPC": {
       "region_name": "Black Sea & Mediterranean",
@@ -681,11 +715,2267 @@
       "basin": "Atlantic"
     },
     "SPAIN": {
-      "region_name": "Europe / UK Continent",
+      "region_name": "Black Sea & Mediterranean",
       "basin": "Mediterranean"
     },
     "MED": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ABIDJAN": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "AGBAMI": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "AGIO": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "AIN SUKHNA": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "AKPO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "ALGECIRAS": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ALGERIA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ALIAGA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ANGRA DOS REIS": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "ARGENTINA": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "ARUBA": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "AUGUSTA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Abbot Point": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Abidjan": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Ain Sukhna": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "Alexandria": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Aliaga": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Altamira": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "Antwerp": {
       "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Aqaba": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "Aratu": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Arzew": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "BAHAMAS": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "BALIKPAPAN": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "BALTIC": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "BASHAYER": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "BATAAN": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "BENIN": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "BONGA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "BONNY": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "BRASS": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "BRISBANE": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "BROFJORDEN": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Baltimore": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "Bandar Abbas": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Barcarena": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Barcelona": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Barranquilla": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "Bayuquan": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Beira": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Bintulu LNG Terminal": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Bohai Bay": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Bonny": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Bonny Island LNG Terminal": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Brest": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Brisbane": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Brofjorden": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Bunati": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Bunbury": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Busan": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "CANAPORT": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "CARIBS": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "CARTAGENA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "CHILE": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "CHIRIQUI": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "CHIRIQUI GRANDE": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "CILACAP": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "CJK": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "CLOV": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "COCHIN": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "CORPUS CHRISTI": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "COVENAS": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "Cameron (North Carolina - US)": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Cameron LNG": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Campana": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Campha": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Canakkale": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Caofeidian": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Casablanca": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "China": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Chittagong": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Chornomorsk (aka Ilyichevsk)": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Cigading": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Cochin": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Conakry": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Constanta": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "DAESAN": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "DAKAR": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "DALIA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "DALIAN": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "DAS ISLAND": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "DJENO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "DONGES": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "DOS BOCAS": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "DURBAN": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Dahej": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Dakar": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Dalian": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Dalrymple Bay": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Damietta": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Dampier": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Dangjin": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Darwin": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Das Island": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Dhamra": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Djibouti": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "Dung Quat": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Dunkirk": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Durban": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "EAST-ECI": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "EAST-ECI-WCI": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "EAST-INDIA": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "EAST-UKC": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "EAST-UKCM": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "EAST-USWC": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "EAST-WCI": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "EAST-WEST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "ECAN": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "ECI": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "ECMEX": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "ECUADOR": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "EGINA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "ERHA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "ES SIDER": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ESCRAVOS": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "ESMERALDAS": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "ESSIDER": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "East Opts": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "F East": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "F. EAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "FORCADOS": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "FOS": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "FUJA-EAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "FUJAIRAH-SINGAPORE": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Fangcheng": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Far East": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Fawley": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Fos": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Fredericia": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Freeport": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Fujairah": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "GABON": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "GALLE-BRAZIL": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "GALVESTON": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "GDANSK": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "GHANA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "GIRASSOL": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "GREECE": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Gangavaram": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Gdansk": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Gdynia": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Geraldton": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Ghent": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Gibraltar": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Gladstone": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Gladstone - APLNG": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Goa": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Gresik": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "HOUND POINT": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "HOUSTON": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Hay Point": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Hazira": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Hodeidah": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "Huanghua": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "INDO": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "ITALY": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Immingham": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "India": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Indonesia": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Iskenderun": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Itaguai": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Itaqui": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Izmir": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "JOSE": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "JOSE IGNACIO": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "JUBILEE": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Jaigarh": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Jebel Ali": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Jeddah": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Jorf Lasfar": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Jose Terminal": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "KAOHSIUNG": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "KAVKAZ": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "KHARG": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "KIZOMBA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "KLAIPEDA": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "KOCHI": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "KOME KRIBI": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "KOREA": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "KRIBI": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "KUWAIT": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Kaarsto": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Kakinada": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Kalundborg": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Kamsar": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Kandla (Deendayal Port)": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Kaohsiung": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Karachi": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Kavkaz": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Krishnapatnam": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Kwangyang": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "LIBYA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "LINGGI": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "LOME": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Lagos": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Lanshan": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Lavera": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Lazaro Cardenas": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "Le Havre": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Lianyungang": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Luanda": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "MAA": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "MAILIAO": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "MALACCA": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "MALONGO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "MALTA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "MANGALORE": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "MED Opts": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "MED-UKC": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "MELLITAH": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "MILAZZO": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "MINA AL FAHAL": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "MINA SAUD": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "MONGSTAD": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "MUNDRA": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "MYANMAR": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Manila": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Maputo": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Marcus Hook": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "Matarani": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "Mesaieed": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Mina Saqr": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Mississippi River": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Mobile": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Mohammedia": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Mombasa": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Mongla": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Mongstad": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Morocco": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Morocco Opts": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Muara Berau": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Mumbai": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Mundra": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "NEW MANGALORE": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "NINGBO-ROK": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "NKOSSA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "NWE": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "NWE Opts": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Nacala": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Nantong": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Nemrut Bay": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Newcastle Australia": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Newport News": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "Norfolk (incl. Portsmouth)": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "Novorossiysk": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ODUDU": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "ONSAN": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "OPT": {
+      "region_name": "options \u2014 Unspecified",
+      "basin": "Global"
+    },
+    "OPTS": {
+      "region_name": "options \u2014 Unspecified",
+      "basin": "Global"
+    },
+    "Odesa": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Onsan": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Options": {
+      "region_name": "options \u2014 Unspecified",
+      "basin": "Global"
+    },
+    "Options East": {
+      "region_name": "options \u2014 East / Far East",
+      "basin": "Pacific"
+    },
+    "Opts": {
+      "region_name": "options \u2014 Unspecified",
+      "basin": "Global"
+    },
+    "Opts East": {
+      "region_name": "options \u2014 East / Far East",
+      "basin": "Pacific"
+    },
+    "PAZFLOR": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "PEMBROKE": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "PERU": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "PHILADELPHIA": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "PRIMORSK": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Paradip": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Paranagua": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Pisco": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "Pohang": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Point Fortin": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "Port Cartier": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "Port Elizabeth": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Port Hedland": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Port Jerome": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Port Kembla": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Port Klang": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Port Qasim": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Port Said": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Praia Mole": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Prince Rupert": {
+      "region_name": "US / Canada West Coast",
+      "basin": "Pacific"
+    },
+    "Puerto Jose": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "QUA IBOE": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Qingdao": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "RAS LAFFAN": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "RAS LANUF": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "RDAM": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "ROK-NINGBO": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "ROTTERDAM-UKCM": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "RSEA": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "RUWAIS": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Rabigh": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Ras Tanura": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Ravenna": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Recalada Lightship & Pilot Station": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Richards Bay": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Riga": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Rio Grande": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Rizhao": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Roberts Bank": {
+      "region_name": "US / Canada West Coast",
+      "basin": "Pacific"
+    },
+    "Rotterdam": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Rouen": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "SALDANHA BAY": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "SANGOMAR": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "SANKOFA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "SANTA PANAGIA BAY": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "SARROCH": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "SAVONA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "SINGAPORE-AUSTRALIA": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "SINGAPORE-NINGBO": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "SINGAPORE-THAILAND": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "SKAW": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "SKOREA": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "SPORE": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "SPORE-F.EAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "SRIRACHA": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Sabine": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Salalah": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Saldanha Bay": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Samarinda": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Santarem": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Santos": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Sarroch": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Sepetiba": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Shanghai": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Shuaiba": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Singapore": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Skaw": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Sohar": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Soyo": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "St Petersburg": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Stanlow": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Stenungsund": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "TAIWAN": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "TALLINN": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "TAMAN": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "TEES": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "THAI": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "THAILAND": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "TIANJIN": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "TRIESTE": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "TURKEY": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Taboneo - Banjarmasin": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Taiwan (Hualien)": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Taman": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Tanjung Bara CT": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Taranto": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Tarragona": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Tees": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Terneuzen": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Tianjin": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Tokyo": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Tuapse": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Tubarao": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Tuticorin": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "UKC-EAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "UKC-GDANSK": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKC-M": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKC-MED": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-ABIDJAN": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-DURBAN": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-EAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "UKCM-GDANSK": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-ISRAEL": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-NINGBO": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "UKCM-ROTTERDAM": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-SAFR": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-SCANDEN": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-SKOREA": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "UKCM-TA": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-TURKEY": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-USAC": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-USG": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "UKCM-WCI": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "ULSAN": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "URUGUAY": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "US Gulf": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "USAC": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "USAC-ECAN": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "USAC-ECC": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "USAC-UKCM": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "USG-EAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "USG-UKC": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "USG-UKCM": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "USG-USAC": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "USG-USAC-ECC": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "USGC": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "UST LUGA": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "USWC": {
+      "region_name": "US / Canada West Coast",
+      "basin": "Pacific"
+    },
+    "Ulsan": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "VADINAR-MUNDRA": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "VENEZUELA": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "VIETNAM": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "VIZAG": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Vancouver (Can)": {
+      "region_name": "US / Canada West Coast",
+      "basin": "Pacific"
+    },
+    "Veracruz": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "Vila do Conde": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Vizag": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "WC PAN": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "WCI-ECI": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "WEST-EAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "WHIFFENHEAD": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "WILHELMSHAVEN": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Wickham Point LNG Terminal - Darwin": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Xiamen": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "YANBU": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "YANTAI": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "YINGKOU": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "YOHO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "YOSU": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Yanbu": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Yangon": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Yuzhny (aka Pivdennyi)": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ZAFIRO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "ZAWIA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ZHOUSHAN": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "ZIRKU ISLAND": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "ZUEITINA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Zeebrugge LNG Terminal": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Zhoushan": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "ACU": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "AL SHAHEEN": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "ARA": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "ASENG": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Adang Bay": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Ashdod": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Asia": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "BAOBAB": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "BILBAO": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Bilbao": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "BRUNEI": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Bahudopi": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Bandar Imam Khomeini": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Barrow Island Terminal": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Belfast": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Bontang": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "CABINDA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "CAP LOPEZ": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "CBS": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "CONSTANZA": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Cape of Good Hope": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "Cove Point - LNG": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "DANGOTE": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Dammam": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Djen-Djen": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Donghae": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Dongjiakou": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "ECC": {
+      "region_name": "US / Canada East Coast",
+      "basin": "Atlantic"
+    },
+    "EMED": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "ETAME": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "El Dekheila": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "FEAST": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "FINNART": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "FUJA": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Flushing": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "GOLA": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Gabes": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Garrucha": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Gijon": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Grangemouth": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "HAWAII": {
+      "region_name": "US / Canada West Coast",
+      "basin": "Pacific"
+    },
+    "HUELVA": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Huelva": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Hon Gay": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Hong Kong": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "ISRAEL": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Ichthys": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Idku": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "JAMNAGAR": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "JEBEL DHANNA": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Jubail": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "KAZ": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "KIMANIS": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "KOZMINO": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Kaarstoe": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Karlshamn": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Key West": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Koh Sichang": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Kuantan": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "LA PALOMA": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "LA PAMPILLA": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "LEKKI": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Leixoes": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Lumut (Brunei Darussalam)": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "MASSONGO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "MUANDA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "MUARA": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "MURMANSK": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Male": {
+      "region_name": "India / South Asia",
+      "basin": "Indian Ocean"
+    },
+    "Meulaboh": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Mokpo": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Mons": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "NCHINA": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "NEW ZEALAND": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "NIPAH": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "NSEA": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "NWS": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Nador": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Nakhodka": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Narvik": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Nederland": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "OKONO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "OLOMBENDO": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "OMISALJ": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Okpo Shipyard": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Orinoco River": {
+      "region_name": "East Coast Mexico / Caribbean",
+      "basin": "Atlantic"
+    },
+    "Owendo": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "PACHI": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "PENNINGTON": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "PEREGRINO": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "PMO": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "PORTUGAL": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "PTP": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "PUERTO ARMUELLES": {
+      "region_name": "West Coast South America",
+      "basin": "Pacific"
+    },
+    "Pecem": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Phu My": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Pluto LNG Jetty": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Poland": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Ponta Ubu": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Port Harcourt": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Port Moresby": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Poso": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Qalhat LNG Terminal": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "Qinzhou": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Ras Al Khair": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "SAFR": {
+      "region_name": "South Africa / East Africa",
+      "basin": "Indian Ocean"
+    },
+    "SCAPA FLOW": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "SE Asia": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "SERPENTINA": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "SILLAMAE": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "SINES": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Sines": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "SOUTHWOLD": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "STS KAZ": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "STURE": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Safaga": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "Safi": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Saleef Port": {
+      "region_name": "Red Sea / Arabian Sea",
+      "basin": "Indian Ocean"
+    },
+    "Samsun": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "South West Pass": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "Stettin": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Straits": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Sulawesi Island": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Sumatra South": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "TA": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "TRANMERE": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "TULJA": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "TUTUNCIFLIK": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "Tanjung Kempeh": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Teluk Rubiah": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Tha Sala": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Thanh Hoa": {
+      "region_name": "Southeast Asia",
+      "basin": "Pacific"
+    },
+    "Tuban": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Tunisia": {
+      "region_name": "Black Sea & Mediterranean",
+      "basin": "Mediterranean"
+    },
+    "UAE": {
+      "region_name": "Middle East Gulf",
+      "basin": "Middle East"
+    },
+    "US": {
+      "region_name": "US Gulf Coast",
+      "basin": "Atlantic"
+    },
+    "USAN": {
+      "region_name": "West Africa",
+      "basin": "Atlantic"
+    },
+    "Up River": {
+      "region_name": "Brazil / ECSA",
+      "basin": "Atlantic"
+    },
+    "Ust-Luga": {
+      "region_name": "Baltic / Scandinavia",
+      "basin": "Atlantic"
+    },
+    "Vostochny": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "WEST": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "WHANGAREI": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "West": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Westernport": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Wheatstone LNG": {
+      "region_name": "Australia / Indo-Pacific",
+      "basin": "Pacific"
+    },
+    "Whitegate": {
+      "region_name": "Europe / UK Continent",
+      "basin": "Atlantic"
+    },
+    "Xiuyu": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Yangtse River": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "Yuhuan": {
+      "region_name": "China / Far East",
+      "basin": "Pacific"
+    },
+    "ZUETINA": {
+      "region_name": "Black Sea & Mediterranean",
       "basin": "Mediterranean"
     }
   }

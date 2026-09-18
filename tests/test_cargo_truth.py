@@ -108,7 +108,7 @@ def test_guinea_is_volume_only_and_traces_to_its_csv():
     assert all(v is None for v in pair["freight_data"]), "Guinea bauxite must not be paired with an unrelated route"
 
     gb = s["guinea_bauxite"]
-    excluded = {e["year"] for e in gb["provenance"]["excluded_mirror_years"]}
+    excluded = {e["year"] for e in gb["provenance"].get("excluded_mirror_years", [])}
     # 2017 was previously excluded when it was UN Comtrade undercount (4.8 Mt); now rebuilt from official GACC (27.6 Mt, 64% of national exports)
     assert "2017" not in excluded
     mirror = {}

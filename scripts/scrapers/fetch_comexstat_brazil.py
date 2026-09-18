@@ -189,18 +189,23 @@ def main() -> pd.DataFrame:
             if kg <= 0:
                 continue
             y, m = int(rec["year"]), int(rec["monthNumber"])
+            # Strictly explicit unit conversion: MDIC ComexStat API returns raw kilograms (metricKG).
+            # Convert raw kg -> metric tonnes strictly via kg / 1000.0 (no heuristics or conditional scaling).
+            metric_tonnes = round(kg / 1000.0, 2)
             rows.append({
                 "date": f"{y}-{m:02d}-01",
                 "year": y,
                 "month": m,
                 "commodity": commodity,
                 "ncm": "+".join(ncms),
-                "metric_tonnes": round(kg / 1000.0, 2),
+                "metric_tonnes": metric_tonnes,
                 "fob_usd": round(float(rec.get("metricFOB") or 0), 2),
+                "source": "Brazil MDIC ComexStat API",
+                "method": "NCM 8-digit REST API",
             })
         # multiple NCMs may land in the same month -> aggregate
         df_c = (pd.DataFrame(rows)
-                .groupby(["date", "year", "month", "commodity", "ncm"], as_index=False)
+                .groupby(["date", "year", "month", "commodity", "ncm", "source", "method"], as_index=False)
                 .sum(numeric_only=True))
         frames.append(df_c)
         got_months = len(df_c)
