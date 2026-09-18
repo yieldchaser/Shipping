@@ -18537,8 +18537,9 @@ if (intelTabsContainer) {
             if (window.trackingMap) {
               plotPortHubMarkers();
             }
-            if (window.currentTab === 'tracking' && (trackingActiveSubView === 'universe' || trackingActiveSubView === 'portpage')) {
-              renderUniverseTable();
+            if (window.currentTab === 'tracking') {
+              if (trackingActiveSubView === 'universe') renderUniverseTable();
+              if (trackingActiveSubView === 'portpage') renderPortPage();
             }
           }),
           fetchCSV('data/congestion/portwatch_disruptions.csv').then(rows => {
@@ -18585,10 +18586,14 @@ if (intelTabsContainer) {
 
     let voyageHistoryLoadPromise = null;
     function ensureVoyageHistory() {
-      if (DATA.voyageHistory && DATA.voyageHistory.length > 0) return Promise.resolve(DATA.voyageHistory);
+      if (DATA.voyageHistory) return Promise.resolve(DATA.voyageHistory);
       if (voyageHistoryLoadPromise) return voyageHistoryLoadPromise;
       voyageHistoryLoadPromise = fetchCSV('data/geospatial/voyage_history_fixturegrounded.csv').then(rows => {
         DATA.voyageHistory = rows || [];
+        return DATA.voyageHistory;
+      }).catch(err => {
+        console.warn('Failed to load voyage history:', err);
+        DATA.voyageHistory = [];
         return DATA.voyageHistory;
       });
       return voyageHistoryLoadPromise;
@@ -42676,10 +42681,11 @@ function renderTrackingTab() {
   } catch (e) {}
   try {
     var deepPort = (portHistoryCache && portHistoryCache.ports && portHistoryCache.ports.length) ? portHistoryCache.ports[0] : null;
-    var defaultPortId = trackingActivePortId || (deepPort ? deepPort.portid : ((DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports[0] && DATA.universePorts.ports[0].portid) || 1001));
+    var defaultPortId = trackingActivePortId || (deepPort ? deepPort.portid : ((DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports[0] && DATA.universePorts.ports[0].portid) || 'port70'));
+    if (!trackingActivePortId) trackingActivePortId = defaultPortId;
     var pMeta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[defaultPortId]) || (deepPort ? { portid: deepPort.portid, portname: deepPort.portname } : (DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports[0]));
     if (deepPort && defaultPortId === deepPort.portid) portPageWindow = 'full';
-    if (pMeta && typeof renderPortPageActivity === 'function') renderPortPageActivity(pMeta);
+    if (typeof renderPortPage === 'function') renderPortPage();
   } catch (e) {}
 }
 
@@ -43444,33 +43450,54 @@ window.onUniverseClassChange = onUniverseClassChange;
 
 // ================= PORT PAGE =================
 // ================= PORT PAGE =================
-function openPortPage(portid) {
+function getPortMeta(portid) {
+  if (!portid) return null;
   var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[portid]) || null;
   if (!meta && DATA.universePorts && DATA.universePorts.byLocode) {
     if (DATA.universePorts.byLocode[portid]) {
       meta = DATA.universePorts.byLocode[portid];
-      portid = meta.portid;
     } else {
       var stripped = String(portid).replace(/\s+/g, '').toUpperCase();
       if (DATA.universePorts.byLocode[stripped]) {
         meta = DATA.universePorts.byLocode[stripped];
-        portid = meta.portid;
       }
     }
   }
+  if (!meta && DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports.length) {
+    meta = DATA.universePorts.ports.find(function(p) { return String(p.portid) === String(portid) || String(p.unified_id) === String(portid); }) || null;
+  }
+  if (!meta && portHistoryCache && portHistoryCache.ports) {
+    var deep = portHistoryCache.ports.find(function(p) { return String(p.portid) === String(portid); });
+    if (deep) {
+      meta = { portid: deep.portid, portname: deep.portname, country: deep.country, LOCODE: deep.locode || '' };
+    }
+  }
+  return meta;
+}
+window.getPortMeta = getPortMeta;
+
+function openPortPage(portid) {
+  var meta = getPortMeta(portid);
   if (!meta) return;
-  trackingActivePortId = portid;
+  trackingActivePortId = meta.portid || portid;
   setTrackingSubView('portpage');
   renderPortPage();
 }
 window.openPortPage = openPortPage;
 
 function portPageDisruptions(portid) {
-  // Events whose affectedports list contains this PortWatch portid.
+  // Events whose affectedports list contains this PortWatch portid or locode.
   var out = [];
+  var pidStr = String(portid || '');
+  var meta = getPortMeta(portid);
+  var locodeClean = meta && (meta.LOCODE || meta.locode) ? String(meta.LOCODE || meta.locode).replace(/\s+/g, '').toUpperCase() : '';
   (DATA.disruptions || []).forEach(function(d) {
     var ids = d.affectedPortIds || [];
-    if (ids.indexOf(portid) !== -1) out.push(d);
+    var match = ids.some(function(id) { return String(id) === pidStr; });
+    if (!match && locodeClean && d.affectedLocodes) {
+      match = d.affectedLocodes.some(function(loc) { return String(loc).replace(/\s+/g, '').toUpperCase() === locodeClean; });
+    }
+    if (match) out.push(d);
   });
   out.sort(function(a, b) { return (b.ongoing ? 1 : 0) - (a.ongoing ? 1 : 0) || (b.fromdate > a.fromdate ? 1 : -1); });
   return out;
@@ -44027,9 +44054,19 @@ function highlightPortOnMap(meta) {
 window.highlightPortOnMap = highlightPortOnMap;
 
 function renderPortPage() {
-  var portid = trackingActivePortId;
-  var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[portid]) || null;
+  if (!trackingActivePortId) {
+    var deepPort = (portHistoryCache && portHistoryCache.ports && portHistoryCache.ports.length) ? portHistoryCache.ports[0] : null;
+    trackingActivePortId = deepPort ? deepPort.portid : ((DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports[0] && DATA.universePorts.ports[0].portid) || 'port70');
+  }
+  var meta = getPortMeta(trackingActivePortId);
+  if (!meta && DATA.universePorts && DATA.universePorts.ports && DATA.universePorts.ports.length) {
+    meta = DATA.universePorts.ports[0];
+    if (meta) {
+      trackingActivePortId = meta.portid || meta.unified_id;
+    }
+  }
   if (!meta) return;
+  var portid = meta.portid || trackingActivePortId;
 
   var title = document.getElementById('ppTitle');
   var sub = document.getElementById('ppSub');
@@ -44935,13 +44972,19 @@ function renderPortPageFacts(meta) {
   var html = '<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px;">' +
     '<div style="font-size:var(--fs-micro); color:var(--text-muted); letter-spacing:0.05em;">PORT FACTS \u2014 IMF PORTWATCH PORTS MASTER</div>' +
     '<span class="pd-close" onclick="setTrackingSubView(\'universe\')" aria-label="Close port page">\u00d7</span></div>';
+  var totalCalls = meta.vessel_count_total != null ? meta.vessel_count_total : (meta.calls_breakdown ? meta.calls_breakdown.total : meta.total_calls);
+  var cContainer = meta.vessel_count_container != null ? meta.vessel_count_container : (meta.calls_breakdown ? meta.calls_breakdown.container : meta.container_calls);
+  var cDryBulk = meta.vessel_count_dry_bulk != null ? meta.vessel_count_dry_bulk : (meta.calls_breakdown ? meta.calls_breakdown.dry_bulk : meta.dry_bulk_calls);
+  var cGeneral = meta.vessel_count_general_cargo != null ? meta.vessel_count_general_cargo : (meta.calls_breakdown ? meta.calls_breakdown.general_cargo : meta.general_cargo_calls);
+  var cRoro = meta.vessel_count_RoRo != null ? meta.vessel_count_RoRo : (meta.calls_breakdown ? meta.calls_breakdown.roro : meta.roro_calls);
+  var cTanker = meta.vessel_count_tanker != null ? meta.vessel_count_tanker : (meta.calls_breakdown ? meta.calls_breakdown.tankers : meta.tanker_calls);
   html += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:2px 14px; margin-top:6px;">';
-  html += row('Vessels observed (all classes)', meta.vessel_count_total != null ? Number(meta.vessel_count_total).toLocaleString('en-US') : 'n/a');
-  html += row('Container hulls', meta.vessel_count_container != null ? Number(meta.vessel_count_container).toLocaleString('en-US') : 'n/a');
-  html += row('Dry-bulk hulls', meta.vessel_count_dry_bulk != null ? Number(meta.vessel_count_dry_bulk).toLocaleString('en-US') : 'n/a');
-  html += row('General-cargo hulls', meta.vessel_count_general_cargo != null ? Number(meta.vessel_count_general_cargo).toLocaleString('en-US') : 'n/a');
-  html += row('RoRo hulls', meta.vessel_count_RoRo != null ? Number(meta.vessel_count_RoRo).toLocaleString('en-US') : 'n/a');
-  html += row('Tanker hulls', meta.vessel_count_tanker != null ? Number(meta.vessel_count_tanker).toLocaleString('en-US') : 'n/a');
+  html += row('Vessels observed (all classes)', totalCalls != null ? Number(totalCalls).toLocaleString('en-US') : 'n/a');
+  html += row('Container hulls', cContainer != null ? Number(cContainer).toLocaleString('en-US') : 'n/a');
+  html += row('Dry-bulk hulls', cDryBulk != null ? Number(cDryBulk).toLocaleString('en-US') : 'n/a');
+  html += row('General-cargo hulls', cGeneral != null ? Number(cGeneral).toLocaleString('en-US') : 'n/a');
+  html += row('RoRo hulls', cRoro != null ? Number(cRoro).toLocaleString('en-US') : 'n/a');
+  html += row('Tanker hulls', cTanker != null ? Number(cTanker).toLocaleString('en-US') : 'n/a');
   html += row('Top industry (1)', meta.industry_top1 || 'n/a');
   html += row('Top industry (2)', meta.industry_top2 || 'n/a');
   html += row('Top industry (3)', meta.industry_top3 || 'n/a');
@@ -44987,7 +45030,8 @@ function savePinnedPorts(list) {
 function togglePinnedPort() {
   var portid = trackingActivePortId;
   if (!portid) return;
-  var meta = DATA.universePorts.byId[portid];
+  var meta = getPortMeta(portid);
+  if (!meta) return;
   var list = getPinnedPorts();
   var idx = list.findIndex(function(p) { return p.portid === portid; });
   if (idx !== -1) { list.splice(idx, 1); savePinnedPorts(list); }
@@ -44999,13 +45043,13 @@ function unpinPort(portid) {
   var list = getPinnedPorts();
   var idx = list.findIndex(function(p) { return p.portid === portid; });
   if (idx !== -1) { list.splice(idx, 1); savePinnedPorts(list); }
-  var meta = DATA.universePorts && DATA.universePorts.byId ? DATA.universePorts.byId[trackingActivePortId] : null;
+  var meta = getPortMeta(trackingActivePortId);
   if (meta) renderPortPageTabStrip(meta);
 }
 window.unpinPort = unpinPort;
 
 function setPortPageWindow(w) {
-  var meta = DATA.universePorts && DATA.universePorts.byId ? DATA.universePorts.byId[trackingActivePortId] : null;
+  var meta = getPortMeta(trackingActivePortId);
   if (!meta) return;
   if (w === 'full' && !portHasDeepHistory(meta)) {
     // Only the 43 classic hubs carry the measured 2019-present series.
@@ -45132,7 +45176,7 @@ function setPortPageFixtureMode() {
   portPageMode = (portPageMode === 'load') ? 'discharge' : 'load';
   var btn = document.getElementById('ppFxMode');
   if (btn) btn.textContent = (portPageMode === 'load') ? 'Load legs' : 'Discharge legs';
-  var meta = DATA.universePorts && DATA.universePorts.byId ? DATA.universePorts.byId[trackingActivePortId] : null;
+  var meta = getPortMeta(trackingActivePortId);
   if (meta) renderPortPageFixtures(meta);
 }
 window.setPortPageFixtureMode = setPortPageFixtureMode;
@@ -45140,19 +45184,30 @@ window.setPortPageFixtureMode = setPortPageFixtureMode;
 function fixturesForPort(portid, mode) {
   // Broker-reported fixture legs where the resolved load/discharge portid equals
   // this port. Real records only; no arrival synthesis.
-  if ((!DATA.voyageHistory || !DATA.voyageHistory.length) && typeof ensureVoyageHistory === 'function') {
+  if (!DATA.voyageHistory && typeof ensureVoyageHistory === 'function') {
     ensureVoyageHistory().then(function() {
       if (trackingActiveSubView === 'portpage' && trackingActivePortId) {
-        var meta = (DATA.universePorts && DATA.universePorts.byId) ? DATA.universePorts.byId[trackingActivePortId] : null;
+        var meta = getPortMeta(trackingActivePortId);
         if (meta) renderPortPageFixtures(meta);
       }
     });
   }
   var legs = DATA.voyageHistory || [];
   var key = mode === 'discharge' ? 'discharge_portid' : 'load_portid';
+  var locodeKey = mode === 'discharge' ? 'discharge_locode' : 'load_locode';
+  var meta = getPortMeta(portid);
+  var locodeClean = meta && (meta.LOCODE || meta.locode) ? String(meta.LOCODE || meta.locode).replace(/\s+/g, '').toUpperCase() : '';
+  var pidStr = String(portid || '');
   var out = [];
   for (var i = legs.length - 1; i >= 0 && out.length < 200; i--) {
-    if (legs[i][key] === portid) out.push(legs[i]);
+    var leg = legs[i];
+    var pVal = leg[key];
+    var match = (pVal && String(pVal) === pidStr);
+    if (!match && locodeClean && leg[locodeKey]) {
+      var legLoc = String(leg[locodeKey]).replace(/\s+/g, '').toUpperCase();
+      if (legLoc === locodeClean) match = true;
+    }
+    if (match) out.push(leg);
   }
   return out;
 }
@@ -45166,6 +45221,10 @@ function renderPortPageFixtures(meta) {
   var legs = fixturesForPort(meta.portid, mode);
   if (title) title.textContent = 'Recent Reported Fixtures \u2014 ' + (mode === 'load' ? 'loading here' : 'discharging here');
   tbody.innerHTML = '';
+  if (!DATA.voyageHistory) {
+    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);"><span class="signal-spinner" style="display:inline-block; vertical-align:middle; margin-right:8px;"></span> Loading fixtures archive&hellip;</td></tr>';
+    return;
+  }
   if (!legs.length) {
     tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">No Rows To Show \u2014 no broker-reported fixture legs ' + (mode === 'load' ? 'loading' : 'discharging') + ' at this port in the archive.</td></tr>';
     if (foot) foot.textContent = 'Fixtures come from the Fearnleys broker tape matched to resolved PortWatch port ids. The archive does not record every call: absence of rows means nothing was reported, not that the port was idle.';
@@ -45330,7 +45389,7 @@ window.nextDisruptionPage = nextDisruptionPage;
 // ================= PER-VESSEL FIXTURE VOYAGES =================
 function vesselIndexFromFixtures() {
   if (window.__tuVesselIndex) return window.__tuVesselIndex;
-  if ((!DATA.voyageHistory || !DATA.voyageHistory.length) && typeof ensureVoyageHistory === 'function') {
+  if (!DATA.voyageHistory && typeof ensureVoyageHistory === 'function') {
     ensureVoyageHistory().then(function() {
       window.__tuVesselIndex = null;
       if (document.getElementById('vesselSearchInput')) onVesselSearchInput();
@@ -45451,9 +45510,16 @@ function setTrackingSubView(subview) {
     renderDisruptionFeed();
   } else if (subview === 'universe') {
     renderUniverseTable();
+  } else if (subview === 'vessel') {
+    if (typeof onVesselSearchInput === 'function') onVesselSearchInput();
   } else if (subview === 'distance') {
     if (typeof runDistanceCalculation === 'function') runDistanceCalculation();
   }
+
+  if (window.trackingMap && typeof window.trackingMap.invalidateSize === 'function') {
+    setTimeout(function() { try { window.trackingMap.invalidateSize(); } catch(e) {} }, 100);
+  }
+  window.dispatchEvent(new Event('resize'));
 }
 window.setTrackingSubView = setTrackingSubView;
 
