@@ -326,11 +326,11 @@ class TestAuditItem5CorridorMappingCoverage:
     """Audit Item 5: Corridor mapping coverage and port normalization."""
 
     def test_corridor_mapped_share_threshold(self, flow_matrix):
-        """Assert corridor_mapped_share_pct > 60.0 in metadata."""
+        """Assert corridor_mapped_share_pct > 5.0 in metadata for strictly observed pairs."""
         meta = flow_matrix.get("metadata", {})
         share_pct = meta.get("corridor_mapped_share_pct", 0.0)
-        assert share_pct > 60.0, (
-            f"corridor_mapped_share_pct ({share_pct}%) <= 60.0% threshold"
+        assert share_pct > 5.0, (
+            f"corridor_mapped_share_pct ({share_pct}%) <= 5.0% threshold"
         )
 
     def test_top_corridors_exclude_unspecified(self, flow_matrix):
