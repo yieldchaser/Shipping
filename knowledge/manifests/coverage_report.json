@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T06:34:09Z",
+  "generated_at": "2026-09-18T12:49:17Z",
   "current_date": "2026-09-18",
   "corpus": {
-    "document_count": 10134,
-    "chunk_count": 105892,
-    "section_count": 34534,
+    "document_count": 10136,
+    "chunk_count": 105904,
+    "section_count": 34538,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -94,11 +94,11 @@
       "category": "ningbo",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-09-11",
-      "age_days": 7,
+      "latest_date": "2026-09-18",
+      "age_days": 0,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 544,
+      "dated_doc_count": 545,
       "undated_doc_count": 0
     },
     {
@@ -545,9 +545,9 @@
       "title": "Container and Ningbo Routes",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-09-16",
-      "latest_evidence_age_days": 2,
-      "relevant_corpus_latest_date": "2026-09-16",
+      "latest_evidence_date": "2026-09-18",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-09-18",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 212,
@@ -569,7 +569,7 @@
       "tone_distribution": {
         "cautiously_bearish": 4,
         "constructive": 18,
-        "neutral": 84
+        "neutral": 85
       }
     }
   ],

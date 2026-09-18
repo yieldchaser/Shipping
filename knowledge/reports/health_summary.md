@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-09-18T06:34:09Z'
+generated_at: '2026-09-18T12:49:17Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 2
@@ -8,9 +8,9 @@ warning_count: 2
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 10134
-- Chunks: 105892
-- Sections: 34534
+- Documents: 10136
+- Chunks: 105904
+- Sections: 34538
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -24,7 +24,7 @@ warning_count: 2
 | baltic/tanker | 2026-09-11 | 7 | 7 | healthy | 7 | 12 |
 | baltic/gas | 2026-09-11 | 7 | 7 | healthy | 7 | 0 |
 | baltic/container | 2026-09-11 | 7 | 7 | healthy | 7 | 0 |
-| baltic/ningbo | 2026-09-11 | 7 | 7 | healthy | 7 | 0 |
+| baltic/ningbo | 2026-09-18 | 0 | 7 | healthy | 7 | 0 |
 | breakwave_insights/insights | 2026-09-17 | 1 | 14 | healthy | 0 | 0 |
 | hellenic/dry_charter | 2026-09-16 | 2 | 14 | healthy | 6 | 1 |
 | hellenic/tanker_charter | 2026-09-16 | 2 | 14 | healthy | 6 | 0 |
@@ -47,7 +47,7 @@ warning_count: 2
 | Coal and Grain Flows | 2026-09-17 | 105 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Oil and OPEC | 2026-09-17 | 97 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | LNG and LPG Shipping | 2026-09-15 | 135 | 250 | baltic, hellenic | - | healthy |
-| Container and Ningbo Routes | 2026-09-16 | 212 | 250 | baltic, hellenic | - | healthy |
+| Container and Ningbo Routes | 2026-09-18 | 212 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
 - `watch` China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.
