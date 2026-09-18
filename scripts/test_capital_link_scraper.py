@@ -107,3 +107,23 @@ def test_consolidated_master_csv():
     for code in CAPITAL_LINK_INDICES.keys():
         assert code in df.columns, f"Missing column {code} in master CSV"
         assert df[code].notna().sum() >= 5000, f"Too many missing values for {code} in master CSV"
+
+
+def test_no_cliff_drops():
+    """Verify that there are no synthetic cliff drops (e.g. July 14, 2026) in any index."""
+    for code, meta in CAPITAL_LINK_INDICES.items():
+        slug = meta['slug']
+        csv_path = os.path.join(INDICES_DIR, f"{slug}.csv")
+        df = pd.read_csv(csv_path)
+        
+        # Check July 14, 2026 specifically (was a fake -40% to -68% drop in corrupted third-party feed)
+        jul14 = df[df['date'] == '2026-07-14']
+        if not jul14.empty:
+            chg = abs(float(jul14.iloc[0]['change_pct']))
+            assert chg < 10.0, f"Anomalous price drop on 2026-07-14 for {code}: {jul14.iloc[0]['change_pct']}%"
+            
+        # Check that across all of 2026, daily price movements remain within realistic bounds (< 25%)
+        df_2026 = df[df['date'] >= '2026-01-01']
+        max_chg = df_2026['change_pct'].abs().max()
+        assert max_chg < 25.0, f"Extreme 1-day outlier ({max_chg}%) found in 2026 for {code}"
+
