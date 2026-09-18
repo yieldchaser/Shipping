@@ -1,0 +1,62 @@
+{
+  "node_id": "baltic_container_2026-09-18_2026_09_18_w38_container_report_week_38_container__root",
+  "doc_id": "baltic_container_2026-09-18_2026_09_18_w38_container_report_week_38_container",
+  "parent_id": null,
+  "title": "Container Report - Week 38",
+  "section_path": [
+    "Container Report - Week 38"
+  ],
+  "section_path_text": "Container Report - Week 38",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Container\nAnother week of ongoing tensions in the Middle East Gulf, with no end in sight, is going to keep bunker fuel prices high for now and have a knock-on effect on the container lines price per box movement worldwide. With the Houthis claiming that they control theBab el-Mandeb Strait, this could further cause problems for container lines who use the Suez Canal if they were to try and block vessels from transiting the strait. The cross Pacific trade loop FBX01 (China/East Asia - US West Coast) gained $633 from last Friday ending the week at $8,348 and is up $2,254 since the start of August.",
+  "keywords": [
+    "container",
+    "china",
+    "pacific",
+    "meg",
+    "europe",
+    "east",
+    "asia",
+    "china/east",
+    "ending",
+    "last",
+    "start",
+    "august."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 284,
+  "source_path": "reports/baltic/container/2026/2026-09-18_W38_container-report-week-38_container.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "baltic_container_2026-09-18_2026_09_18_w38_container_report_week_38_container__s01_container",
+      "doc_id": "baltic_container_2026-09-18_2026_09_18_w38_container_report_week_38_container",
+      "parent_id": "baltic_container_2026-09-18_2026_09_18_w38_container_report_week_38_container__root",
+      "title": "Container",
+      "section_path": [
+        "Container"
+      ],
+      "section_path_text": "Container",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another week of ongoing tensions in the Middle East Gulf, with no end in sight, is going to keep bunker fuel prices high for now and have a knock-on effect on the container lines price per box movement worldwide. With the Houthis claiming that they control theBab el-Mandeb Strait, this could further cause problems for container lines who use the Suez Canal if they were to try and block vessels from transiting the strait.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "meg",
+        "europe",
+        "east",
+        "asia",
+        "china/east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
