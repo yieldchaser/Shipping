@@ -259,8 +259,71 @@ def run_cargo_e2e():
         grains_section.screenshot(path="docs/screenshots/cargo_grains.png")
         print("Captured docs/screenshots/cargo_grains.png")
 
+        # --- DEDICATED CARDS WITH DISPLAY DEFECTS ---
+
+        # Card 1: USDA commitments tab with Barley selected (empty state check)
+        page.locator("#cargoSubGrainsBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#usdaSalesBtnBarley").click()
+        page.wait_for_timeout(500)
+        page.locator("#usdaExportSalesContainer").screenshot(path="docs/screenshots/card_usda_barley_empty.png")
+        print("Captured docs/screenshots/card_usda_barley_empty.png")
+
+        # Card 2: USDA commitments tab with Sorghum selected (empty state check)
+        page.locator("#usdaSalesBtnSorghum").click()
+        page.wait_for_timeout(500)
+        page.locator("#usdaExportSalesContainer").screenshot(path="docs/screenshots/card_usda_sorghum_empty.png")
+        print("Captured docs/screenshots/card_usda_sorghum_empty.png")
+
+        # Card 3: Dampier toggle
+        page.locator("#cargoSubBasinsBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#ppaBtnDampier").click()
+        page.wait_for_timeout(500)
+        page.locator("#ppaThroughputContainer").screenshot(path="docs/screenshots/card_dampier_toggle.png")
+        print("Captured docs/screenshots/card_dampier_toggle.png")
+
+        # Card 4: Hedland destination panel header
+        page.locator("#ppaBtnHedland").click()
+        page.wait_for_timeout(400)
+        page.locator("#ppaDestinationCard").screenshot(path="docs/screenshots/card_hedland_destination_header.png")
+        print("Captured docs/screenshots/card_hedland_destination_header.png")
+
+        # Card 5: Major Miners chart
+        page.locator("#ppaBtnMiners").click()
+        page.wait_for_timeout(500)
+        page.locator("#ppaThroughputContainer").screenshot(path="docs/screenshots/card_major_miners.png")
+        print("Captured docs/screenshots/card_major_miners.png")
+
+        # Card 6: Gulf-PNW spread badge and chart
+        page.locator("#cargoSubGrainsBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#grainFreightContainer").screenshot(path="docs/screenshots/card_gulf_pnw_spread.png")
+        print("Captured docs/screenshots/card_gulf_pnw_spread.png")
+
+        # Card 7: Minor-bulk multiples
+        page.locator("#cargoSubBasinsBtn").click()
+        page.wait_for_timeout(400)
+        page.locator("#minorBulksContainer").screenshot(path="docs/screenshots/card_minor_bulks.png")
+        print("Captured docs/screenshots/card_minor_bulks.png")
+
+        # Card 8: Brazil seasonal cards
+        page.locator("#brazilBtnOre").click()
+        page.wait_for_timeout(400)
+        page.locator("#brazilExportsContainer").screenshot(path="docs/screenshots/card_brazil_seasonal.png")
+        print("Captured docs/screenshots/card_brazil_seasonal.png")
+
         browser.close()
         print("All Cargo Playwright E2E checks passed!")
 
+        # Copy all screenshots to artifact directory
+        artifact_dir = Path(r"C:\Users\Dell\.gemini\antigravity\brain\b43c34cd-0857-475d-92ff-5a9e0356f6bc")
+        if artifact_dir.exists():
+            import shutil
+            for f in Path("docs/screenshots").glob("*.png"):
+                shutil.copy2(f, artifact_dir / f.name)
+            print(f"Copied all screenshots to artifact directory: {artifact_dir}")
+
 if __name__ == "__main__":
     run_cargo_e2e()
+

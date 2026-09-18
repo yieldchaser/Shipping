@@ -14962,7 +14962,7 @@ if (intelTabsContainer) {
           </div>
         </div>
         <div style="display:flex;align-items:center;gap:8px;">
-          <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">546k Commercial Fixtures</span>
+          <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">547k Commercial Fixtures</span>
           <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">14 Trade Corridors</span>
         </div>
       </div>
@@ -14985,13 +14985,13 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudGrains">38.1 Mt</div>
           <div class="cargo-hud-sub" id="cargoHudGrainsSub">Week ending 2026-09-03 (FAS Outstanding)</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="Total Fearnleys broker-reported fixture ledger breakdown. 53.2% of broker fixtures have an unclassified commodity field; this reality is explicitly reported rather than hidden.">
+        <div class="cargo-hud-card" data-tooltip="Total Fearnleys broker-reported fixture ledger breakdown. 24.6% of broker fixtures have an unclassified commodity field; this reality is explicitly reported rather than hidden.">
           <div class="cargo-hud-label">
             <span>Broker Fixture Coverage</span>
-            <span class="cargo-badge-est">ESTIMATE</span>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
-          <div class="cargo-hud-val" id="cargoHudFixtures">546k Fixtures</div>
-          <div class="cargo-hud-sub" id="cargoHudFixturesSub">256k Classified (46.8%) | 291k Unclassified (53.2%)</div>
+          <div class="cargo-hud-val" id="cargoHudFixtures">412k Classified (75.4%)</div>
+          <div class="cargo-hud-sub" id="cargoHudFixturesSub">547k Fixtures | 135k Unclassified (24.6%)</div>
         </div>
         <div class="cargo-hud-card" data-tooltip="Capesize Atlantic vs Pacific freight route spread (C3 Tubarao-Qingdao minus C5 Dampier-Qingdao in $/MT) reflecting the longer Atlantic voyage distance of the Brazil corridor.">
           <div class="cargo-hud-label">
@@ -15007,7 +15007,7 @@ if (intelTabsContainer) {
       <div class="cargo-toolbar">
         <div class="cargo-subview-btns">
           <button class="cargo-subview-btn active" id="cargoSubFlagshipBtn" onclick="setCargoSubView('flagship')">Flagship: Origin &rarr; Freight</button>
-          <button class="cargo-subview-btn" id="cargoSubMatrixBtn" onclick="setCargoSubView('matrix')">Commodity Flow Matrix (546k Fixtures)</button>
+          <button class="cargo-subview-btn" id="cargoSubMatrixBtn" onclick="setCargoSubView('matrix')">Commodity Flow Matrix (547k Fixtures)</button>
           <button class="cargo-subview-btn" id="cargoSubBasinsBtn" onclick="setCargoSubView('basins')">Seasonal Export Basins</button>
           <button class="cargo-subview-btn" id="cargoSubGrainsBtn" onclick="setCargoSubView('grains')">Grain Logistics &amp; Queues (USDA)</button>
           <button class="cargo-subview-btn" id="cargoSubDemandBtn" onclick="setCargoSubView('demand')">Demand Drivers &amp; Costs</button>
@@ -15089,9 +15089,10 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="commodityMatrixContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <span>Commodity Flow Matrix: Fixture-Derived Volume &amp; Trade Corridors</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);">546k Broker Fixtures</span>
+                <span id="cargoMatrixTotalBadge" class="badge" style="font-size:11px;padding:2px 6px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);">547,044 Broker Fixtures</span>
+                <span id="cargoMatrixCoverageBadge" class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);" title="Charter fixtures containing explicit reported cargo size (27,305 fixtures). Fixtures without quantity do not contribute to volume totals.">Parsed Qty Coverage: 27,305 fixtures (5.0% sample)</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Observed cargo fixtures aggregated by commodity &times; trade corridor &times; vessel class. Signal Ocean taxonomy alignment.
@@ -15110,14 +15111,17 @@ if (intelTabsContainer) {
             </div>
           </div>
 
-          <!-- Unclassified Fixtures Explicit Disclosure Card -->
-          <div class="cargo-unclass-card">
-            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">
-              <span style="font-weight:700;color:#e3b341;">Fixture Coverage: Unclassified Commercial Fixtures</span>
-              <span class="cargo-badge-est">AUDIT DISCLOSURE</span>
+          <!-- Unclassified Fixtures & Partial Sample Coverage Disclosure Card -->
+          <div class="cargo-unclass-card" style="margin-bottom:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;flex-wrap:wrap;gap:6px;">
+              <span style="font-weight:700;color:#e3b341;">Fixture Coverage &amp; Volume Accounting Disclosure</span>
+              <div style="display:flex;gap:6px;">
+                <span class="badge" style="font-size:11px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Parsed Qty: 27,305 fixtures (5.0% sample)</span>
+                <span class="cargo-badge-est">AUDIT DISCLOSURE</span>
+              </div>
             </div>
-            <div>
-              Of reported commercial fixtures in the historical ledger, records without an explicit commodity classification represent general cargo or unassigned market fixtures. This workstation isolates and displays this volume separately to maintain reporting integrity.
+            <div style="font-size:11.5px;line-height:1.5;">
+              <strong>Partial Sample Notice:</strong> Reported volume represents only commercial fixtures with explicit free-text charter cargo quantities parsed from broker commentary (~5.0% sample of 547,044 fixtures; 27,305 records). Fixtures lacking explicit tonnage are not assumed to be zero and do not contribute to volume totals. In parallel, records without an explicit commodity classification (24.6%) are isolated into the Unclassified Tonnage bucket to preserve reporting integrity.
             </div>
           </div>
 
@@ -15129,7 +15133,7 @@ if (intelTabsContainer) {
                   <th>Commodity Group</th>
                   <th>Taxonomy Subgroup</th>
                   <th style="text-align:right;">Reported Fixtures</th>
-                  <th style="text-align:right;">Reported Volume (Mt)</th>
+                  <th style="text-align:right;" title="Volume calculated strictly from fixtures with parsed charter quantity (27,305 fixtures / 5.0% sample)">Reported Volume (Mt, ~5.0% Sample)</th>
                   <th>Primary Trade Corridor</th>
                   <th>Primary Vessel Class</th>
                   <th>Coverage Status</th>
@@ -15154,7 +15158,7 @@ if (intelTabsContainer) {
 
           <div class="cargo-provenance-strip" style="margin-top:14px;">
             <div>
-              <strong>Source:</strong> Fearnleys Fixture Ledger (546k broker fixtures: 256k classified, 291k unclassified) &middot; Normalization: <code>data/reference/commodity_normalisation.json</code> &middot; Span: 1974–2026
+              <strong>Source:</strong> Fearnleys Fixture Ledger (547,044 broker fixtures: 412k classified, 135k unclassified) &middot; Parsed Qty Coverage: 27,305 fixtures (5.0% sample) &middot; Normalization: <code>data/reference/commodity_normalisation.json</code> &middot; Span: 1974&ndash;2026
             </div>
             <span class="cargo-badge-live">LIVE BROKER LEDGER</span>
           </div>
@@ -31147,6 +31151,16 @@ function renderFearnleysSnpTable() {
       }
 
       var matrix = DATA.commodityFlowMatrix;
+      if (matrix.metadata) {
+        var totB = document.getElementById('cargoMatrixTotalBadge');
+        if (totB && matrix.metadata.total_fixtures) {
+          totB.textContent = matrix.metadata.total_fixtures.toLocaleString('en-US') + ' Broker Fixtures';
+        }
+        var covB = document.getElementById('cargoMatrixCoverageBadge');
+        if (covB && matrix.metadata.fixtures_with_parsed_qty) {
+          covB.textContent = 'Parsed Qty Coverage: ' + matrix.metadata.fixtures_with_parsed_qty.toLocaleString('en-US') + ' fixtures (' + (matrix.metadata.parsed_qty_pct || 5.0).toFixed(1) + '% sample)';
+        }
+      }
       var commodities = matrix.commodities || {};
 
       var rows = Object.values(commodities);
@@ -31164,11 +31178,14 @@ function renderFearnleysSnpTable() {
         var badge = isUnclass ? '<span class="cargo-badge-est">UNCLASSIFIED BUCKET</span>' :
                     (r.fixture_count > 2000 ? '<span class="cargo-badge-live">HIGH COVERAGE</span>' : '<span class="cargo-badge-live" style="background:rgba(88,166,255,0.15);color:#58a6ff;border-color:rgba(88,166,255,0.3);">BROKER REPORTED</span>');
 
+        var volText = r.total_qty_mt > 0 ? (r.total_qty_mt / 1e6).toFixed(1) + ' Mt' : '—';
+        var coverageSub = (r.total_qty_mt > 0 && r.parsed_qty_pct != null) ? '<span style="font-size:11px;color:var(--text-muted);display:block;">(' + r.parsed_qty_pct.toFixed(1) + '% sample)</span>' : '';
+
         html += '<tr' + (isUnclass ? ' style="background:rgba(227,179,65,0.06);font-weight:600;"' : '') + '>';
         html += '<td style="font-family:IBM Plex Mono,monospace;color:var(--text-bright);">' + r.canonical + '</td>';
         html += '<td>' + (r.subgroup || r.group) + '</td>';
         html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;font-weight:700;">' + r.fixture_count.toLocaleString('en-US') + '</td>';
-        html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;color:var(--accent);">' + (r.total_qty_mt > 0 ? (r.total_qty_mt / 1000.0).toFixed(1) + ' Mt' : '—') + '</td>';
+        html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;color:var(--accent);">' + volText + coverageSub + '</td>';
         html += '<td style="font-size:11px;color:var(--text-muted);">' + topLane + '</td>';
         html += '<td><span class="badge" style="font-size:11px;padding:1px 5px;background:var(--bg);border:1px solid var(--border);">' + topVc + '</span></td>';
         html += '<td>' + badge + '</td>';
