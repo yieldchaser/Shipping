@@ -218,8 +218,8 @@ OFFICIAL_FILINGS_REGISTRY = [
         "production_mt": 48.0, "shipments_mt": 47.7,
         "c1_cash_cost_usd_t": 20.16, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
-        "provenance": "ASX:2824177",
-        "exhibit_url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/docs/default-source/announcements-and-reports/september-2024-quarterly-production-report.pdf",
+        "provenance": "ASX:069hm7ms79p437",
+        "exhibit_url": "https://announcements.asx.com.au/asxpdf/20241024/pdf/069hm7ms79p437.pdf",
         "table_row_label": "Total ore shipped / Total ore processed / Total ore mined / Hematite C1",
         "basis": "Total ore shipped (47.7 Mt), processed (48.0 Mt), mined (57.1 Mt); C1 US$20.16/wmt; ASX announcement"
     },
@@ -326,8 +326,8 @@ OFFICIAL_FILINGS_REGISTRY = [
         "production_mt": 47.6, "shipments_mt": 46.1,
         "c1_cash_cost_usd_t": 17.53, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
-        "provenance": "ASX:2882620",
-        "exhibit_url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/documents/regulatory/asx-announcements/2882620-march-2025-quarterly-production-report.pdf",
+        "provenance": "ASX:06j473xk9fqt6l",
+        "exhibit_url": "https://announcements.asx.com.au/asxpdf/20250429/pdf/06j473xk9fqt6l.pdf",
         "table_row_label": "Total ore shipped / Total ore processed / Total ore mined / Hematite C1",
         "basis": "Total ore shipped (46.1 Mt), processed (47.6 Mt), mined (55.5 Mt); C1 US$17.53/wmt; ASX announcement"
     },
@@ -380,8 +380,8 @@ OFFICIAL_FILINGS_REGISTRY = [
         "production_mt": 54.4, "shipments_mt": 55.2,
         "c1_cash_cost_usd_t": 16.29, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
-        "provenance": "ASX:2919488",
-        "exhibit_url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/documents/regulatory/asx-announcements/2919488-june-2025-quarterly-production-report.pdf",
+        "provenance": "ASX:06m2rwk1d2zgzf",
+        "exhibit_url": "https://announcements.asx.com.au/asxpdf/20250724/pdf/06m2rwk1d2zgzf.pdf",
         "table_row_label": "Total ore shipped / Total ore processed / Total ore mined / Hematite C1",
         "basis": "Total ore shipped (55.2 Mt), processed (54.4 Mt), mined (64.3 Mt); C1 US$16.29/wmt; ASX announcement"
     },
@@ -542,8 +542,8 @@ OFFICIAL_FILINGS_REGISTRY = [
         "production_mt": 47.8, "shipments_mt": 48.4,
         "c1_cash_cost_usd_t": 18.29, "annual_guidance": None,
         "primary_loading_terminals": "Port Hedland (Herb Elliott)",
-        "provenance": "ASX:03082072",
-        "exhibit_url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/documents/regulatory/asx-announcements/automated/03082072-march-2026-quarterly-production-report.pdf",
+        "provenance": "ASX:06ytclmh4bwzlr",
+        "exhibit_url": "https://announcements.asx.com.au/asxpdf/20260424/pdf/06ytclmh4bwzlr.pdf",
         "table_row_label": "Total ore shipped / Total ore processed / Total ore mined / Hematite C1",
         "basis": "Total ore shipped (48.4 Mt), processed (47.8 Mt), mined (59.5 Mt); C1 US$18.29/wmt; ASX announcement"
     },

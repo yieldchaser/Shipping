@@ -748,8 +748,8 @@ def test_major_miners_live():
     cmd = [sys.executable, str(ROOT / "scripts" / "verify" / "verify_miners_provenance.py")]
     res = subprocess.run(cmd, capture_output=True, text=True)
     if res.returncode == 0:
-        logger.info("  Miners verifier PASSED (all 14 verified rows confirmed)")
-        record_result(source, True, "200", stored, expected, "14 PASS / 0 FAIL across all non-null fields")
+        logger.info("  Miners verifier PASSED (all 40 verified rows confirmed)")
+        record_result(source, True, "200", stored, expected, "40 PASS / 0 FAIL across all non-null fields")
         return True
     else:
         logger.error("  Miners verifier FAILED with exit code %d:\n%s", res.returncode, res.stdout[-500:])

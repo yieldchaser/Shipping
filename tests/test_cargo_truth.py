@@ -257,15 +257,21 @@ def test_major_miners_all_rows_have_filing_provenance():
         f"{invalid_provs[['miner', 'quarter', 'provenance']].to_dict('records')}"
     )
 
-    # 3. Every row MUST have a valid non-empty exhibit URL pointing to SEC EDGAR or ASX
-    valid_url_mask = df["exhibit_url"].fillna("").str.contains(r"sec\.gov|asx\.com\.au|fortescue\.com|markitdigital\.com", regex=True)
+    # 3. Every row MUST have a valid non-empty exhibit URL pointing to SEC EDGAR or ASX/Markit
+    valid_url_mask = df["exhibit_url"].fillna("").str.contains(r"sec\.gov|asx\.com\.au|markitdigital\.com", regex=True)
     invalid_urls = df[~valid_url_mask]
     assert len(invalid_urls) == 0, (
         f"Found {len(invalid_urls)} row(s) with missing/invalid exhibit URL: "
         f"{invalid_urls[['miner', 'quarter', 'exhibit_url']].to_dict('records')}"
     )
 
-    # 4. Table row label and basis must be documented for every row
+    # 4. Strictly disallow company-hosted URLs (which move/break over time)
+    company_site_mask = df["exhibit_url"].fillna("").str.contains(r"fortescue\.com", regex=True)
+    assert not company_site_mask.any(), (
+        f"Found {company_site_mask.sum()} row(s) citing company-hosted fortescue.com URLs instead of exchange filings"
+    )
+
+    # 5. Table row label and basis must be documented for every row
     assert not df["table_row_label"].isna().any(), "Found rows with missing table_row_label"
     assert not (df["table_row_label"].str.strip() == "").any(), "Found rows with empty table_row_label"
     assert not df["basis"].isna().any(), "Found rows with missing basis"
