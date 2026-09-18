@@ -118,8 +118,28 @@ def discover_monthly_urls():
     return items
 
 
+def build_header_grid(rows, n_cols):
+    """Build a 2D header matrix handling colspan and rowspan correctly."""
+    grid = [[None] * n_cols for _ in range(2)]
+    for r_idx in range(2):
+        c_idx = 0
+        for cell in rows[r_idx].find_all(["td", "th"]):
+            while c_idx < n_cols and grid[r_idx][c_idx] is not None:
+                c_idx += 1
+            if c_idx >= n_cols:
+                break
+            cs = int(cell.get("colspan", 1))
+            rs = int(cell.get("rowspan", 1))
+            txt = cell.get_text(strip=True)
+            for r in range(r_idx, min(2, r_idx + rs)):
+                for c in range(c_idx, min(n_cols, c_idx + cs)):
+                    grid[r][c] = txt
+            c_idx += cs
+    return grid
+
+
 def fetch_and_parse_file(pair, fname, url):
-    """Download and parse a monthly interannual HTML table."""
+    """Download and parse a monthly interannual HTML table using 2D header grid."""
     cache_path = CACHE_DIR / f"{pair}_{fname}"
     html_content = ""
 
@@ -157,54 +177,39 @@ def fetch_and_parse_file(pair, fname, url):
     month_num = MONTH_NAMES.get(m_name, int(month_match.group(1)))
 
     y1, y2 = pair.split("-")
-    r0 = rows[0].find_all(["td", "th"])
-    if len(r0) < 5:
-        return []
-
-    # Dynamic layout detection:
-    # In table grid, col 0 is PUERTO, col 1 is MUELLE.
-    # When MUELLE is in r0, r0[0] is PUERTO (col 0), r0[1] is MUELLE (col 1), r0[2] is month 1.
-    # When MUELLE is omitted from r0 (e.g. 2025-10, 2026-07), r0[0] is PUERTO, r0[1] is month 1 (covers col 1 to 1 + cs1 - 1).
-    has_muelle_in_r0 = any("MUELLE" in c.get_text(strip=True).upper() for c in r0[:2])
-    if has_muelle_in_r0:
-        cs1 = int(r0[2].get("colspan", 1))
-        tot1_col = 2 + cs1
-        cs2 = int(r0[4].get("colspan", 1))
-        tot2_col = tot1_col + 1 + cs2
-        n_comm1 = cs1
-        n_comm2 = cs2
-        c1_start = 2
-        c2_start = tot1_col + 1
-    else:
-        cs1 = int(r0[1].get("colspan", 1))
-        tot1_col = 1 + cs1
-        cs2 = int(r0[3].get("colspan", 1))
-        tot2_col = tot1_col + 1 + cs2
-        n_comm1 = cs1 - 1
-        n_comm2 = cs2
-        c1_start = 2
-        c2_start = tot1_col + 1
-
-    r1_cells = [c.get_text(strip=True).upper() for c in rows[1].find_all(["td", "th"])]
-    if r1_cells and r1_cells[0] in ["MUELLE", "PUERTO"]:
-        r1_cells = r1_cells[1:]
-
-    h2_y1 = r1_cells[:n_comm1]
-    h2_y2 = r1_cells[n_comm1:n_comm1 + n_comm2]
-
     total_row = [c.get_text(strip=True) for c in rows[-1].find_all(["td", "th"])]
     if not total_row:
         return []
+    n_cols = len(total_row)
+    grid = build_header_grid(rows, n_cols)
 
-    targets = []
-    if pair == "2022-2023":
-        targets.append((int(y1), tot1_col, c1_start, h2_y1))
-    targets.append((int(y2), tot2_col, c2_start, h2_y2))
+    # Locate total columns from 2D grid (col where r0 or r1 contains 'TOTAL', excluding '%')
+    tot_cols = []
+    for c in range(2, n_cols):
+        r0_t = (grid[0][c] or "").upper()
+        r1_t = (grid[1][c] or "").upper()
+        if "TOTAL" in r0_t or "TOTAL" in r1_t:
+            if "%" not in r0_t and "%" not in r1_t:
+                tot_cols.append(c)
+
+    if len(tot_cols) < 2:
+        return []
+
+    tot1_col = tot_cols[0]
+    tot2_col = tot_cols[1]
+
+    cols_y1 = [c for c in range(2, tot1_col) if "TOTAL" not in (grid[1][c] or "").upper()]
+    cols_y2 = [c for c in range(tot1_col + 1, tot2_col) if "TOTAL" not in (grid[1][c] or "").upper()]
+
+    targets = [
+        (int(y1), tot1_col, cols_y1),
+        (int(y2), tot2_col, cols_y2),
+    ]
 
     monthly_records = []
     port_records = []
 
-    for year_target, tot_idx, start_col, h2_sub in targets:
+    for year_target, tot_idx, comm_cols in targets:
         date_str = f"{year_target}-{month_num:02d}-01"
         if tot_idx >= len(total_row):
             continue
@@ -219,8 +224,9 @@ def fetch_and_parse_file(pair, fname, url):
                 continue
             first = cells[0]
             if first.startswith("Total "):
-                p_name = first.replace("Total ", "").replace("CONSTITUCIN", "CONSTITUCION").strip()
-                p_name = re.sub(r"\s+", " ", p_name)
+                p_name = first.replace("Total ", "").replace("CONSTITUCIN", "CONSTITUCION").replace("CONSTITUCIÓN", "CONSTITUCION").strip()
+                p_name = re.sub(r"[^A-Z\s]", "", p_name)
+                p_name = re.sub(r"\s+", " ", p_name).strip()
                 if tot_idx < len(cells):
                     p_val = parse_num(cells[tot_idx])
                     if p_val > 0:
@@ -248,25 +254,27 @@ def fetch_and_parse_file(pair, fname, url):
         barley_tonnes = 0.0
         sorghum_tonnes = 0.0
         sunflower_tonnes = 0.0
+        other_tonnes = 0.0
 
-        for i_sub, cname in enumerate(h2_sub):
-            col_pos = start_col + i_sub
-            if col_pos < len(total_row):
-                val = parse_num(total_row[col_pos])
-                if "MAIZ" in cname or "MAÍZ" in cname:
-                    corn_tonnes += val
-                elif "TRIGO" in cname and "PELL" not in cname:
-                    wheat_tonnes += val
-                elif "SOJA" in cname and "PELL" not in cname:
-                    soy_tonnes += val
-                elif "PELL. SOJA" in cname or "PELL.    SOJA" in cname or "PELLETS SOJA" in cname:
-                    soymeal_tonnes += val
-                elif "CEBADA" in cname:
-                    barley_tonnes += val
-                elif "SORGO" in cname:
-                    sorghum_tonnes += val
-                elif "GIRASOL" in cname and "PELL" not in cname:
-                    sunflower_tonnes += val
+        for col_pos in comm_cols:
+            cname = (grid[1][col_pos] or "").upper().strip()
+            val = parse_num(total_row[col_pos])
+            if "MAIZ" in cname or "MAÍZ" in cname:
+                corn_tonnes += val
+            elif "TRIGO" in cname and "PELL" not in cname:
+                wheat_tonnes += val
+            elif "SOJA" in cname and "PELL" not in cname:
+                soy_tonnes += val
+            elif "PELL" in cname and "SOJA" in cname:
+                soymeal_tonnes += val
+            elif "CEBADA" in cname:
+                barley_tonnes += val
+            elif "SORGO" in cname:
+                sorghum_tonnes += val
+            elif ("GIRASOL" in cname or "GIRAOL" in cname) and "PELL" not in cname:
+                sunflower_tonnes += val
+            else:
+                other_tonnes += val
 
         monthly_records.append({
             "date": date_str,
@@ -278,6 +286,7 @@ def fetch_and_parse_file(pair, fname, url):
             "barley_mt": round(barley_tonnes / 1e6, 3),
             "sorghum_mt": round(sorghum_tonnes / 1e6, 3),
             "sunflower_mt": round(sunflower_tonnes / 1e6, 3),
+            "other_grains_mt": round(other_tonnes / 1e6, 3),
             "up_river_parana_mt": round(up_river / 1e6, 3),
             "ocean_deepwater_mt": round(ocean / 1e6, 3),
             "up_river_share_pct": up_share,
@@ -289,11 +298,18 @@ def fetch_and_parse_file(pair, fname, url):
     return monthly_records, port_records
 
 
-def validate_argentina_dataset(df_monthly, df_ports):
+def validate_argentina_dataset():
     """
-    Strict validation of the parsed Argentina grain datasets before persisting.
+    Strict validation of the persisted Argentina grain datasets directly from disk.
     Halts and raises ValueError if any regression or data-integrity issue is detected.
+    Prints the complete 55-row reconciliation breakdown.
     """
+    if not OUT_MONTHLY_CSV.exists() or not OUT_PORTS_CSV.exists():
+        raise FileNotFoundError(f"Missing CSV files: {OUT_MONTHLY_CSV} or {OUT_PORTS_CSV}")
+
+    df_monthly = pd.read_csv(OUT_MONTHLY_CSV)
+    df_ports = pd.read_csv(OUT_PORTS_CSV)
+
     # 1. Continuous sequence check: exactly 55 continuous monthly records
     if len(df_monthly) != 55:
         raise ValueError(f"Expected exactly 55 monthly records (2022-01 to 2026-07), got {len(df_monthly)}")
@@ -306,9 +322,13 @@ def validate_argentina_dataset(df_monthly, df_ports):
         raise ValueError(f"Unexpected date span: {dates[0]} to {dates[-1]}, expected 2022-01-01 to 2026-07-01")
 
     # 2. Component and Port reconciliation for every row
-    crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt"]
+    crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt", "other_grains_mt"]
+    print("=" * 140)
+    print(f"{'Date':10s} | {'Total':6s} | {'Corn':5s} | {'Wheat':5s} | {'Soy':5s} | {'Meal':5s} | {'Barley':6s} | {'Sorgo':5s} | {'Sunfl':5s} | {'Other':5s} | {'Sum':6s} | {'Diff':6s} | {'Diff%':6s} | {'UpRiver%':8s} | Status")
+    print("=" * 140)
+
     for _, row in df_monthly.iterrows():
-        dt = row["date"]
+        dt = str(row["date"])
         tot = float(row["total_grain_mt"])
         if tot <= 0:
             raise ValueError(f"Row {dt} has non-positive total: {tot}")
@@ -319,24 +339,34 @@ def validate_argentina_dataset(df_monthly, df_ports):
             if cval > tot:
                 raise ValueError(f"Row {dt}: component {c} ({cval} Mt) exceeds monthly total ({tot} Mt)!")
 
-        # Check component sum reconciliation (between 65% and 105%)
+        # Strict component sum check (tolerance <= 1.6% due to documented 2022-06 MAGyP typo)
         c_sum = sum(float(row.get(c, 0.0)) for c in crops)
-        if c_sum < 0.65 * tot or c_sum > 1.05 * tot:
-            raise ValueError(f"Row {dt}: component sum ({c_sum:.3f} Mt) reconciles poorly with total ({tot:.3f} Mt): {c_sum/tot*100:.1f}%")
+        diff_mt = abs(c_sum - tot)
+        diff_pct = (diff_mt / tot) * 100.0
 
-        # Check basin / port breakdown
         up = float(row.get("up_river_parana_mt", 0.0))
         ocean = float(row.get("ocean_deepwater_mt", 0.0))
         basin_sum = up + ocean
-        if abs(basin_sum - tot) / tot > 0.02:
-            raise ValueError(f"Row {dt}: basin sum ({basin_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by > 2%")
+        basin_diff_pct = (abs(basin_sum - tot) / tot) * 100.0
 
         up_share = float(row.get("up_river_share_pct", 0.0))
+
+        status = "OK"
+        print(f"{dt:10s} | {tot:6.3f} | {float(row.get('corn_mt', 0)):5.3f} | {float(row.get('wheat_mt', 0)):5.3f} | {float(row.get('soybeans_mt', 0)):5.3f} | {float(row.get('soymeal_pellets_mt', 0)):5.3f} | {float(row.get('barley_mt', 0)):6.3f} | {float(row.get('sorghum_mt', 0)):5.3f} | {float(row.get('sunflower_mt', 0)):5.3f} | {float(row.get('other_grains_mt', 0)):5.3f} | {c_sum:6.3f} | {diff_mt:6.3f} | {diff_pct:5.3f}% | {up_share:7.1f}% | {status}")
+
+        if diff_pct > 1.6:
+            raise ValueError(f"Row {dt}: component sum ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by {diff_pct:.2f}% (> 1.6% tolerance)!")
+
+        if basin_diff_pct > 2.0:
+            raise ValueError(f"Row {dt}: basin sum ({basin_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by {basin_diff_pct:.2f}% (> 2% tolerance)!")
+
         if up_share < 50.0 or up_share > 95.0:
             raise ValueError(f"Row {dt}: anomalous up-river share: {up_share}%")
 
+    print("=" * 140)
+
     # 3. Ground-truth invariants for audited months
-    # July 2026: 8.101 Mt, corn-led 4.531 Mt, soymeal 2.031 Mt (1.928 Mt arg + 0.103 Mt transshipment), 8 active terminals
+    # July 2026: 8.101 Mt, corn 4.531 Mt, soymeal 2.031 Mt, wheat 0.671 Mt, 8 active terminals
     row_jul26 = df_monthly[df_monthly["date"] == "2026-07-01"].iloc[0]
     if abs(float(row_jul26["total_grain_mt"]) - 8.101) > 0.01:
         raise ValueError(f"July 2026 total is {row_jul26['total_grain_mt']} Mt, expected 8.101 Mt!")
@@ -344,6 +374,8 @@ def validate_argentina_dataset(df_monthly, df_ports):
         raise ValueError(f"July 2026 corn is {row_jul26['corn_mt']} Mt, expected 4.531 Mt!")
     if abs(float(row_jul26["soymeal_pellets_mt"]) - 2.031) > 0.01:
         raise ValueError(f"July 2026 soymeal is {row_jul26['soymeal_pellets_mt']} Mt, expected 2.031 Mt!")
+    if abs(float(row_jul26["wheat_mt"]) - 0.671) > 0.01:
+        raise ValueError(f"July 2026 wheat is {row_jul26['wheat_mt']} Mt, expected 0.671 Mt!")
 
     jul26_ports = df_ports[df_ports["date"] == "2026-07-01"]
     if len(jul26_ports) != 8:
@@ -352,12 +384,38 @@ def validate_argentina_dataset(df_monthly, df_ports):
     if abs(port_sum - 8.101) > 0.01:
         raise ValueError(f"July 2026 ports sum is {port_sum:.3f} Mt, expected 8.101 Mt!")
 
+    # July 2025: 8.397 Mt (revised), corn 3.499 Mt, wheat 0.564 Mt, soybeans 1.445 Mt, soymeal 2.294 Mt
+    row_jul25 = df_monthly[df_monthly["date"] == "2025-07-01"].iloc[0]
+    if abs(float(row_jul25["total_grain_mt"]) - 8.397) > 0.01:
+        raise ValueError(f"July 2025 total is {row_jul25['total_grain_mt']} Mt, expected 8.397 Mt!")
+    if abs(float(row_jul25["corn_mt"]) - 3.499) > 0.01:
+        raise ValueError(f"July 2025 corn is {row_jul25['corn_mt']} Mt, expected 3.499 Mt!")
+    if abs(float(row_jul25["wheat_mt"]) - 0.564) > 0.01:
+        raise ValueError(f"July 2025 wheat is {row_jul25['wheat_mt']} Mt, expected 0.564 Mt!")
+    if abs(float(row_jul25["soybeans_mt"]) - 1.445) > 0.01:
+        raise ValueError(f"July 2025 soybeans is {row_jul25['soybeans_mt']} Mt, expected 1.445 Mt!")
+    if abs(float(row_jul25["soymeal_pellets_mt"]) - 2.294) > 0.01:
+        raise ValueError(f"July 2025 soymeal is {row_jul25['soymeal_pellets_mt']} Mt, expected 2.294 Mt!")
+
+    # August 2025: 8.391 Mt, corn 2.447 Mt, wheat 0.865 Mt, soybeans 1.519 Mt, soymeal 2.960 Mt
+    row_ago25 = df_monthly[df_monthly["date"] == "2025-08-01"].iloc[0]
+    if abs(float(row_ago25["total_grain_mt"]) - 8.391) > 0.01:
+        raise ValueError(f"August 2025 total is {row_ago25['total_grain_mt']} Mt, expected 8.391 Mt!")
+    if abs(float(row_ago25["corn_mt"]) - 2.447) > 0.01:
+        raise ValueError(f"August 2025 corn is {row_ago25['corn_mt']} Mt, expected 2.447 Mt!")
+    if abs(float(row_ago25["wheat_mt"]) - 0.865) > 0.01:
+        raise ValueError(f"August 2025 wheat is {row_ago25['wheat_mt']} Mt, expected 0.865 Mt!")
+    if abs(float(row_ago25["soybeans_mt"]) - 1.519) > 0.01:
+        raise ValueError(f"August 2025 soybeans is {row_ago25['soybeans_mt']} Mt, expected 1.519 Mt!")
+    if abs(float(row_ago25["soymeal_pellets_mt"]) - 2.960) > 0.01:
+        raise ValueError(f"August 2025 soymeal is {row_ago25['soymeal_pellets_mt']} Mt, expected 2.960 Mt!")
+
     # October 2025: 6.755 Mt
     row_oct25 = df_monthly[df_monthly["date"] == "2025-10-01"].iloc[0]
     if abs(float(row_oct25["total_grain_mt"]) - 6.755) > 0.01:
         raise ValueError(f"October 2025 total is {row_oct25['total_grain_mt']} Mt, expected 6.755 Mt!")
 
-    logging.info("All 55 monthly rows and port breakdowns passed strict reconciliation validators.")
+    logging.info("All 55 monthly rows and port breakdowns passed strict reconciliation validators on committed CSV.")
 
 
 def run_pipeline():
@@ -367,40 +425,50 @@ def run_pipeline():
         logging.error("No monthly URLs discovered!")
         sys.exit(1)
 
+    def pub_sort_key(item):
+        pair, fname, _ = item
+        y1, y2 = [int(x) for x in pair.split("-")]
+        m_match = re.search(r"(\d+)_([a-z]+)", fname.lower())
+        m_name = m_match.group(2) if m_match else ""
+        m_num = MONTH_NAMES.get(m_name, int(m_match.group(1)) if m_match else 0)
+        return (y1, y2, m_num)
+
+    urls.sort(key=pub_sort_key)
+
     all_monthly = []
     all_ports = []
 
-    logging.info("Parsing %d monthly files concurrently...", len(urls))
-    with ThreadPoolExecutor(max_workers=6) as executor:
-        futures = {executor.submit(fetch_and_parse_file, pair, fname, url): (pair, fname) for pair, fname, url in urls}
-        for f in as_completed(futures):
-            res = f.result()
-            if res:
-                m_recs, p_recs = res
-                all_monthly.extend(m_recs)
-                all_ports.extend(p_recs)
+    logging.info("Parsing %d monthly files sequentially to preserve chronological revisions...", len(urls))
+    for pair, fname, url in urls:
+        res = fetch_and_parse_file(pair, fname, url)
+        if res:
+            m_recs, p_recs = res
+            all_monthly.extend(m_recs)
+            all_ports.extend(p_recs)
 
     if not all_monthly:
         logging.error("No records successfully parsed!")
         sys.exit(1)
 
-    # Sort and deduplicate monthly records
+    # Sort and deduplicate monthly records - keep='last' so revised subsequent publications supersede
     df_monthly = pd.DataFrame(all_monthly)
     df_monthly.drop_duplicates(subset=["date"], keep="last", inplace=True)
     df_monthly.sort_values(by=["date"], inplace=True)
 
     # Sort ports records
     df_ports = pd.DataFrame(all_ports)
+    df_ports.drop_duplicates(subset=["date", "port"], keep="last", inplace=True)
     df_ports.sort_values(by=["date", "port"], inplace=True)
 
-    # Enforce strict reconciliation validation before saving
-    validate_argentina_dataset(df_monthly, df_ports)
-
+    # Persist to disk FIRST so validator tests the actual committed CSV
     df_monthly.to_csv(OUT_MONTHLY_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d monthly records to %s (Date span: %s -> %s)", len(df_monthly), OUT_MONTHLY_CSV, df_monthly["date"].min(), df_monthly["date"].max())
 
     df_ports.to_csv(OUT_PORTS_CSV, index=False, lineterminator="\n")
     logging.info("Saved %d port records to %s", len(df_ports), OUT_PORTS_CSV)
+
+    # Enforce strict reconciliation validation directly on the committed CSV
+    validate_argentina_dataset()
 
     # Dynamic summary metadata derived from latest parsed record
     latest_row = df_monthly.iloc[-1]

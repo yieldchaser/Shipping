@@ -1162,7 +1162,7 @@ def process_argentina_grain():
     rows = list(csv.DictReader(open(fpath, "r", encoding="utf-8")))
     rows.sort(key=lambda r: r["date"])
 
-    grains = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt"]
+    grains = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt", "other_grains_mt"]
     dates = [r["date"][:7] for r in rows]
     stacked_by_grain = {g.replace("_mt", ""): [float(r.get(g, 0) or 0) for r in rows] for g in grains}
     up_river_share = [float(r.get("up_river_share_pct", 0) or 0) for r in rows]

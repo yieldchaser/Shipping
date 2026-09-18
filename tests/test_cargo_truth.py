@@ -142,7 +142,8 @@ def test_argentina_grain_exports_integrity_and_reconciliation():
     assert df_monthly["date"].iloc[0] == "2022-01-01", f"First month is {df_monthly['date'].iloc[0]}, expected 2022-01-01"
     assert df_monthly["date"].iloc[-1] == "2026-07-01", f"Last month is {df_monthly['date'].iloc[-1]}, expected 2026-07-01"
 
-    crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt"]
+    assert "other_grains_mt" in df_monthly.columns, "argentina_grain_exports_monthly.csv must have other_grains_mt column"
+    crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt", "other_grains_mt"]
     for _, row in df_monthly.iterrows():
         dt = row["date"]
         tot = float(row["total_grain_mt"])
@@ -153,9 +154,9 @@ def test_argentina_grain_exports_integrity_and_reconciliation():
             cval = float(row.get(c, 0.0))
             assert cval <= tot, f"{dt}: {c} ({cval} Mt) exceeds total ({tot} Mt)"
 
-        # Component sum check
+        # Strict component sum check (tolerance <= 1.6% due to documented 2022-06 MAGyP typo)
         c_sum = sum(float(row.get(c, 0.0)) for c in crops)
-        assert 0.65 * tot <= c_sum <= 1.05 * tot, f"{dt}: component sum ({c_sum:.3f} Mt) reconciles poorly with total ({tot:.3f} Mt)"
+        assert abs(c_sum - tot) / tot <= 0.016, f"{dt}: component sum ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by > 1.6%"
 
         # Port basin check
         up = float(row.get("up_river_parana_mt", 0.0))
@@ -173,6 +174,22 @@ def test_argentina_grain_exports_integrity_and_reconciliation():
     assert abs(float(row_jul26["soymeal_pellets_mt"]) - 2.031) < 0.01, f"July 2026 soymeal was {row_jul26['soymeal_pellets_mt']}, expected 2.031"
     assert abs(float(row_jul26["wheat_mt"]) - 0.671) < 0.01, f"July 2026 wheat was {row_jul26['wheat_mt']}, expected 0.671"
     assert abs(float(row_jul26["up_river_share_pct"]) - 82.01) < 0.1, f"July 2026 up-river share was {row_jul26['up_river_share_pct']}, expected 82.01"
+
+    # Invariant: July 2025 ground-truth verification
+    row_jul25 = df_monthly[df_monthly["date"] == "2025-07-01"].iloc[0]
+    assert abs(float(row_jul25["total_grain_mt"]) - 8.397) < 0.01, f"July 2025 total was {row_jul25['total_grain_mt']}, expected 8.397"
+    assert abs(float(row_jul25["corn_mt"]) - 3.499) < 0.01, f"July 2025 corn was {row_jul25['corn_mt']}, expected 3.499"
+    assert abs(float(row_jul25["wheat_mt"]) - 0.564) < 0.01, f"July 2025 wheat was {row_jul25['wheat_mt']}, expected 0.564"
+    assert abs(float(row_jul25["soybeans_mt"]) - 1.445) < 0.01, f"July 2025 soybeans was {row_jul25['soybeans_mt']}, expected 1.445"
+    assert abs(float(row_jul25["soymeal_pellets_mt"]) - 2.294) < 0.01, f"July 2025 soymeal was {row_jul25['soymeal_pellets_mt']}, expected 2.294"
+
+    # Invariant: August 2025 ground-truth verification
+    row_ago25 = df_monthly[df_monthly["date"] == "2025-08-01"].iloc[0]
+    assert abs(float(row_ago25["total_grain_mt"]) - 8.391) < 0.01, f"August 2025 total was {row_ago25['total_grain_mt']}, expected 8.391"
+    assert abs(float(row_ago25["corn_mt"]) - 2.447) < 0.01, f"August 2025 corn was {row_ago25['corn_mt']}, expected 2.447"
+    assert abs(float(row_ago25["wheat_mt"]) - 0.865) < 0.01, f"August 2025 wheat was {row_ago25['wheat_mt']}, expected 0.865"
+    assert abs(float(row_ago25["soybeans_mt"]) - 1.519) < 0.01, f"August 2025 soybeans was {row_ago25['soybeans_mt']}, expected 1.519"
+    assert abs(float(row_ago25["soymeal_pellets_mt"]) - 2.960) < 0.01, f"August 2025 soymeal was {row_ago25['soymeal_pellets_mt']}, expected 2.960"
 
     # Invariant: October 2025 ground-truth verification
     row_oct25 = df_monthly[df_monthly["date"] == "2025-10-01"].iloc[0]
