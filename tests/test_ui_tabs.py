@@ -1550,7 +1550,7 @@ def test_tracking_map_stays_light_and_interactive(web_server):
                          labels: document.querySelectorAll('#trackingMap .port-hub-label').length };
             }""")
             assert state["vessels"] > 5000, state
-            assert state["layers"] < 3000, f"vessels must not be one map layer each: {state}"
+            assert state["layers"] < state["ports"] + 500, f"vessels must not be one map layer each: {state}"
             assert state["canvasPorts"] == state["ports"], f"ports must draw on canvas, not as DOM pins: {state}"
             assert state["domMarkers"] < 200, f"world view must not carry thousands of DOM markers: {state}"
             assert state["labels"] == 0, f"no port labels at world zoom: {state}"

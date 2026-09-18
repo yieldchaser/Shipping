@@ -228,3 +228,37 @@ def test_master_vessel_autocomplete_search():
     assert "ensureVesselSearchIndex" in HTML
     assert "openVesselDrillDown" in HTML
 
+
+def test_tracking_kpi_grid_symmetry_and_macro_telemetry():
+    """Verify exact 6-card symmetrical grid, macro disruption matrix, and vessel cadence disclosures."""
+    # Symmetrical 6-column KPI grid
+    assert "grid-template-columns: repeat(6, 1fr);" in HTML
+    assert "@media (max-width: 1400px)" in HTML
+
+    # Check that tracking-kpi-grid in tab-tracking has exactly 6 tracking-kpi-card elements
+    tab_tracking = HTML.split('id="tab-tracking"')[1].split('class="tracking-toolbar"')[0]
+    cards = re.findall(r'class="tracking-kpi-card"', tab_tracking)
+    assert len(cards) == 6, f"Expected exactly 6 KPI cards in tracking HUD strip, got {len(cards)}"
+
+    # Bab el-Mandeb dynamic deficit label
+    assert "Bab el-Mandeb vs 52.8 daily base" in HTML
+    assert "Bab el-Mandeb / Red Sea Transit Deficit" in HTML
+
+    # 2,995 universe total in toolbar pill
+    assert 'All Universe <span class="pill-count" id="pillCountAll">2,995</span>' in HTML
+
+    # Global strategic passage disruption matrix container and cards
+    assert 'id="cpMacroMatrixWrap"' in HTML
+    assert "Global Strategic Passage Disruption Matrix" in HTML
+    assert "Cape of Good Hope Rerouting Supply Absorption" in HTML
+    assert "+10.0–14.5 days" in HTML
+    assert "+28.4%" in HTML
+    assert "~3,200 MT VLSFO" in HTML
+
+    # Vessel drill-down cadence disclosure and unlisted particulars fallbacks
+    assert "Live Telemetry:</strong> Real-Time Stream &amp; Daily AIS Feeds" in HTML
+    assert "Commercial Registry:</strong> Signal Ocean (Monthly Reconciled)" in HTML
+    assert "Builder Unlisted in Signal Commercial Tier" in HTML
+    assert "International Commercial Registry" in HTML
+
+
