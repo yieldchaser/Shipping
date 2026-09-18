@@ -1,7 +1,7 @@
 name: FFA Live Recorder
 
-# Records the live dry-bulk FFA market every 2 minutes on weekdays 00:05-18:30 UTC
-# (Singapore morning through the London close) into data/ffa_live/, pushing every 10 minutes when
+# Records the live dry-bulk FFA market every 2 minutes on weekdays 02:30-18:30 UTC
+# (Singapore late morning through the London close) into data/ffa_live/, pushing every 10 minutes when
 # prices moved. The Broker Desk reads data/ffa_live/latest.json straight from
 # raw.githubusercontent.com, so the page is never more than ~10-15 minutes behind
 # the market without redeploying the site on every push.
@@ -14,13 +14,13 @@ name: FFA Live Recorder
 #   - a run outside the window (evening, weekend) waits for the next window, recording
 #     if it opens within the budget;
 #   - every run dispatches the next one before it exits (workflow_dispatch starts within
-#     a minute or so), so recording starts at 00:05 on the dot each weekday;
+#     a minute or so), so recording starts at 02:30 on the dot each weekday;
 #   - the crons only restart the chain if it ever breaks; runs share one concurrency
 #     group, so a cron firing while the chain is alive queues and replaces any other queued run.
 
 on:
   schedule:
-    - cron: '5 0 * * 1-5'
+    - cron: '30 2 * * 1-5'
     - cron: '5 3 * * 1-5'
     - cron: '5 6 * * 1-5'
     - cron: '5 9 * * 1-5'
@@ -60,7 +60,7 @@ jobs:
       - name: Record session
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          WINDOW_START: '00:05'
+          WINDOW_START: '02:30'
           WINDOW_END: '18:30'
         run: |
           git config --local user.email "action@github.com"
