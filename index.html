@@ -6482,7 +6482,7 @@
   <div class="loading-overlay" id="loadingOverlay">
     <div class="spinner"></div>
     <div class="loading-text">Loading shipping market data…</div>
-    <div class="loading-progress" id="loadingProgress">Fetching CSVs (0/8)</div>
+    <div class="loading-progress" id="loadingProgress">Loading dashboard views...</div>
   </div>
 
   <!-- HEADER -->
@@ -31973,7 +31973,7 @@ function renderFearnleysSnpTable() {
           ' data-tt-sub="Official Ministry of Mines Annual Report 2025"' +
           ' data-tt-vessel="Capesize Fleet (~1,000+ Laden Voyages)"' +
           ' data-tt-source="mines.gov.gn Annual Report 2025"' +
-          ' data-tt-note="Annual record bauxite export volume establishing Guinea as the world's largest seaborne bauxite supplier (+' + yoyVal + '% YoY)."' +
+          ' data-tt-note="Annual record bauxite export volume establishing Guinea as the world\'s largest seaborne bauxite supplier (+' + yoyVal + '% YoY)."' +
           '>' +
           '<td style="padding:6px 8px;color:var(--text-bright);">Total National Seaborne Record</td>' +
           '<td style="padding:6px 8px;text-align:right;color:#3fb950;">' + total2025.toFixed(1) + ' Mt</td>' +
@@ -32143,8 +32143,6 @@ function renderFearnleysSnpTable() {
           table.appendChild(tbody);
         }
         tbody.innerHTML = ag.latest_ports_breakdown.map(function(p) {
-          var isUp = (p.basin || '').toLowerCase().indexOf('up-river') !== -1;
-          var basinBadge = isUp ?
           var isUp = p.basin && p.basin.indexOf('Up-River') >= 0;
           var basinBadge = isUp ?
             '<span style="color:#58a6ff;background:rgba(88,166,255,0.15);padding:1px 5px;border-radius:3px;font-size:11px;">Up-River Paran&aacute;</span>' :
