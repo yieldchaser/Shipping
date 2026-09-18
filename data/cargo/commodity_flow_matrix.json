@@ -80501,22 +80501,6 @@
       "source": "PSA OpenSTAT (Philippines Nickel Ore Exports) & Broker Fixtures",
       "fixtures": 1282,
       "has_national": true
-    },
-    {
-      "node": "Forestry (Wood Pellets, Pulp)",
-      "group": "Agricultural Products",
-      "status": "DATA_GAP",
-      "source": "Target for Future Customs Scraping",
-      "fixtures": 142,
-      "has_national": false
-    },
-    {
-      "node": "Project Cargo & Windmill Blades",
-      "group": "Project Cargo",
-      "status": "DATA_GAP",
-      "source": "Target for Future AIS Manifest Ingestion",
-      "fixtures": 89,
-      "has_national": false
     }
   ]
 }

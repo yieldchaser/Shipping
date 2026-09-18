@@ -300,15 +300,16 @@ def validate_argentina_grain():
     if not dups.empty:
         record_error(fname, "NO_DUPLICATES", f"Duplicate date rows found: {list(dups['date'].unique())}")
 
-    # Strict component sum reconciliation (<= 1.6%)
+    # Strict component sum reconciliation (<= 0.5%, except known MAGyP June 2022 bulletin subtotal printing discrepancy of 1.58%)
     crops = ["corn_mt", "wheat_mt", "soybeans_mt", "soymeal_pellets_mt", "barley_mt", "sorghum_mt", "sunflower_mt", "other_grains_mt"]
     for idx, r in df.iterrows():
         dt = str(r["date"])
         tot = float(r.get("total_grain_mt") or 0)
         c_sum = sum(float(r.get(c) or 0) for c in crops)
         diff_pct = (abs(c_sum - tot) / tot) * 100.0 if tot > 0 else 0
-        if diff_pct > 1.6:
-            record_error(fname, "COMPONENT_SUM_RECONCILIATION", f"{dt}: sum of crops ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by {diff_pct:.2f}%")
+        thresh = 1.6 if dt == "2022-06-01" else 0.5
+        if diff_pct > thresh:
+            record_error(fname, "COMPONENT_SUM_RECONCILIATION", f"{dt}: sum of crops ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by {diff_pct:.2f}% (max {thresh}%)")
 
     logger.info("  [OK] argentina_grain: %d rows, latest %s = %.3f Mt", len(df), df["date"].max(), float(df["total_grain_mt"].iloc[-1]))
 

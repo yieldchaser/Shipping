@@ -354,8 +354,11 @@ def validate_argentina_dataset():
         status = "OK"
         print(f"{dt:10s} | {tot:6.3f} | {float(row.get('corn_mt', 0)):5.3f} | {float(row.get('wheat_mt', 0)):5.3f} | {float(row.get('soybeans_mt', 0)):5.3f} | {float(row.get('soymeal_pellets_mt', 0)):5.3f} | {float(row.get('barley_mt', 0)):6.3f} | {float(row.get('sorghum_mt', 0)):5.3f} | {float(row.get('sunflower_mt', 0)):5.3f} | {float(row.get('other_grains_mt', 0)):5.3f} | {c_sum:6.3f} | {diff_mt:6.3f} | {diff_pct:5.3f}% | {up_share:7.1f}% | {status}")
 
-        if diff_pct > 1.6:
-            raise ValueError(f"Row {dt}: component sum ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by {diff_pct:.2f}% (> 1.6% tolerance)!")
+        # Known MAGyP source subtotal printing discrepancy in June 2022 bulletin
+        # (San Lorenzo terminal subtotals sum to 4.054 Mt vs port row printed 4.175 Mt, 1.58% residual)
+        thresh = 1.6 if dt == "2022-06-01" else 0.5
+        if diff_pct > thresh:
+            raise ValueError(f"Row {dt}: component sum ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by {diff_pct:.2f}% (> {thresh}% tolerance)!")
 
         if basin_diff_pct > 2.0:
             raise ValueError(f"Row {dt}: basin sum ({basin_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by {basin_diff_pct:.2f}% (> 2% tolerance)!")

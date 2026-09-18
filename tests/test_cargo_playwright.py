@@ -112,12 +112,11 @@ def run_cargo_e2e():
             cur_corridor = page.locator("#flagshipHudCorridor").inner_text()
             print(f"Switched with {btn_id} -> Corridor: {cur_corridor}")
 
-        # Check Guinea mirror & empty-state provenance
-        guinea_empty = page.locator("#guineaEmptyStateCard")
-        assert guinea_empty.is_visible(), "Guinea UNAVAILABLE empty-state card should be visible"
+        # Check Guinea mirror & empty-state removal
+        assert page.locator("#guineaEmptyStateCard").count() == 0, "Guinea UNAVAILABLE empty-state card should be removed"
         guinea_status = page.locator("#flagshipStatusBadge").inner_text()
         print(f"Guinea Provenance Status: {guinea_status}")
-        assert "LIVE_MIRROR" in guinea_status or "MIRROR" in guinea_status
+        assert "LIVE" in guinea_status
 
         # 4. Commodity Flow Matrix table & group selector
         page.locator("#cargoSubMatrixBtn").click()
@@ -266,83 +265,72 @@ def run_cargo_e2e():
         page.wait_for_timeout(300)
         safe_screenshot(page.locator("#cargoGrainsSection"), "cargo_grains.png")
 
-        # --- DEDICATED CARDS WITH DISPLAY DEFECTS ---
+        # --- DEDICATED CARDS VERIFICATION ---
 
-        # Card 1: USDA commitments tab with Barley selected (empty state check)
+        # Card 1: USDA commitments tab (verify Barley/Sorghum removed, verify Wheat/Corn/Soy)
         page.locator("#cargoSubGrainsBtn").click()
         page.wait_for_timeout(400)
-        page.locator("#usdaSalesBtnBarley").click()
-        page.wait_for_timeout(500)
-        safe_screenshot(page.locator("#usdaExportSalesContainer"), "card_usda_barley_empty.png")
+        assert page.locator("#usdaSalesBtnBarley").count() == 0, "Barley button should be removed"
+        assert page.locator("#usdaSalesBtnSorghum").count() == 0, "Sorghum button should be removed"
+        page.locator("#usdaSalesBtnWheat").click()
+        page.wait_for_timeout(300)
+        safe_screenshot(page.locator("#usdaExportSalesContainer"), "card_usda_commitments.png")
 
-        # Card 2: USDA commitments tab with Sorghum selected (empty state check)
-        page.locator("#usdaSalesBtnSorghum").click()
-        page.wait_for_timeout(500)
-        safe_screenshot(page.locator("#usdaExportSalesContainer"), "card_usda_sorghum_empty.png")
-
-        # Card 3: Dampier toggle
+        # Card 2: Dampier toggle
         page.locator("#cargoSubBasinsBtn").click()
         page.wait_for_timeout(400)
         page.locator("#ppaBtnDampier").click()
         page.wait_for_timeout(500)
         safe_screenshot(page.locator("#ppaThroughputContainer"), "card_dampier_toggle.png")
 
-        # Card 4: Hedland destination panel header
+        # Card 3: Hedland destination panel header
         page.locator("#ppaBtnHedland").click()
         page.wait_for_timeout(400)
         safe_screenshot(page.locator("#ppaDestinationCard"), "card_hedland_destination_header.png")
 
-        # Card 5: Major Miners chart
-        page.locator("#ppaBtnMiners").click()
-        page.wait_for_timeout(500)
-        safe_screenshot(page.locator("#ppaThroughputContainer"), "card_major_miners.png")
+        # Card 4: Major Miners standalone card (clean separation from PPA)
+        assert page.locator("#ppaBtnMiners").count() == 0, "PPA Miners toggle should be eliminated"
+        assert page.locator("#majorMinersContainer").is_visible(), "Major Miners container should be visible"
+        safe_screenshot(page.locator("#majorMinersContainer"), "card_major_miners.png")
 
-        # Card 6: Gulf-PNW spread badge and chart
+        # Card 5: Gulf-PNW spread badge and chart
         page.locator("#cargoSubGrainsBtn").click()
         page.wait_for_timeout(400)
         safe_screenshot(page.locator("#grainFreightContainer"), "card_gulf_pnw_spread.png")
 
-        # Card 7: Minor-bulk multiples
+        # Card 6: Minor-bulk multiples
         page.locator("#cargoSubBasinsBtn").click()
         page.wait_for_timeout(400)
         safe_screenshot(page.locator("#minorBulksContainer"), "card_minor_bulks.png")
 
-        # Card 8: Brazil seasonal cards
+        # Card 7: Brazil seasonal cards
         page.locator("#brazilBtnOre").click()
         page.wait_for_timeout(400)
         safe_screenshot(page.locator("#brazilExportsContainer"), "card_brazil_seasonal.png")
 
-        # Card 9: Node-audit tiles
+        # Card 8: Node-audit tiles
         page.locator("#cargoSubMatrixBtn").click()
         page.wait_for_timeout(400)
         safe_screenshot(page.locator("#cargoCoverageGrid"), "card_node_audit_tiles.png")
 
-        # Card 10: Guinea Bauxite Container (in Basins subview)
+        # Card 9: Guinea Bauxite Container (in Basins subview)
         page.locator("#cargoSubBasinsBtn").click()
         page.wait_for_timeout(400)
         safe_screenshot(page.locator("#guineaBauxiteContainer"), "card_guinea_bauxite.png")
 
-        # Card 11: Guinea Empty State Card (in Flagship subview)
-        page.locator("#cargoSubFlagshipBtn").click()
-        page.wait_for_timeout(400)
-        page.locator("#flagBtnGuineaCape").click()
-        page.wait_for_timeout(400)
-        safe_screenshot(page.locator("#guineaEmptyStateCard"), "card_guinea_empty_state.png")
+        # Card 10: Guinea Empty State Card eliminated
+        assert page.locator("#guineaEmptyStateCard").count() == 0, "Guinea empty state card eliminated"
 
-        # Re-capture matrix section with period toggles
+        # Re-capture matrix section with period toggles (YoY removed)
         page.locator("#cargoSubMatrixBtn").click()
         page.wait_for_timeout(400)
+        assert page.locator("#matPeriodYoy").count() == 0, "YoY period toggle should be eliminated"
         safe_screenshot(page.locator("#commodityMatrixContainer"), "cargo_matrix.png")
 
         # Capture matrix with Last 12M period
         page.locator("#matPeriod12m").click()
         page.wait_for_timeout(400)
         safe_screenshot(page.locator("#commodityMatrixContainer"), "card_matrix_period_12m.png")
-
-        # Capture matrix with YoY period
-        page.locator("#matPeriodYoy").click()
-        page.wait_for_timeout(400)
-        safe_screenshot(page.locator("#commodityMatrixContainer"), "card_matrix_period_yoy.png")
 
         # Reset matrix back to All-Time
         page.locator("#matPeriodAll").click()

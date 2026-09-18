@@ -154,9 +154,10 @@ def test_argentina_grain_exports_integrity_and_reconciliation():
             cval = float(row.get(c, 0.0))
             assert cval <= tot, f"{dt}: {c} ({cval} Mt) exceeds total ({tot} Mt)"
 
-        # Strict component sum check (tolerance <= 1.6% due to documented 2022-06 MAGyP typo)
+        # Strict component sum check (tolerance <= 0.5%, except documented 2022-06 MAGyP subtotal print typo of 1.58%)
         c_sum = sum(float(row.get(c, 0.0)) for c in crops)
-        assert abs(c_sum - tot) / tot <= 0.016, f"{dt}: component sum ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by > 1.6%"
+        thresh = 0.016 if dt == "2022-06-01" else 0.005
+        assert abs(c_sum - tot) / tot <= thresh, f"{dt}: component sum ({c_sum:.3f} Mt) diverges from total ({tot:.3f} Mt) by > {thresh*100:.1f}%"
 
         # Port basin check
         up = float(row.get("up_river_parana_mt", 0.0))
@@ -228,4 +229,45 @@ def test_fixture_ledger_coverage_and_effective_span():
     assert pre_2019 / total < 0.02, f"Pre-2019 fixtures {pre_2019} should be < 2% of {total}"
     # Contemporary period 2024–2026 holds > 90% of all fixtures
     assert post_2023 / total > 0.90, f"2024–2026 fixtures {post_2023} should be > 90% of {total}"
+
+
+def test_major_miners_all_rows_have_filing_provenance():
+    """
+    Safeguard: Fail the build if any row in major_miners_quarterly_shipments.csv
+    has an unverified provenance (e.g. 'illustrative_prior_estimate') or lacks
+    a resolvable corporate filing citation (EDGAR: or ASX:).
+    """
+    miners_csv = COMMODITIES / "major_miners_quarterly_shipments.csv"
+    assert miners_csv.exists(), f"Miners CSV not found at {miners_csv}"
+
+    df = pd.read_csv(miners_csv, dtype=str)
+    assert len(df) == 40, f"Expected 40 quarterly miner records (10 quarters x 4 miners), got {len(df)}"
+
+    # 1. Zero illustrative / unverified rows
+    illustrative_mask = df["provenance"].fillna("").str.contains("illustrative", case=False)
+    assert not illustrative_mask.any(), (
+        f"Found {illustrative_mask.sum()} row(s) with illustrative provenance in major_miners_quarterly_shipments.csv"
+    )
+
+    # 2. Every row MUST start with EDGAR: or ASX:
+    valid_prov_mask = df["provenance"].fillna("").str.startswith(("EDGAR:", "ASX:"))
+    invalid_provs = df[~valid_prov_mask]
+    assert len(invalid_provs) == 0, (
+        f"Found {len(invalid_provs)} row(s) without valid EDGAR/ASX provenance citation: "
+        f"{invalid_provs[['miner', 'quarter', 'provenance']].to_dict('records')}"
+    )
+
+    # 3. Every row MUST have a valid non-empty exhibit URL pointing to SEC EDGAR or ASX
+    valid_url_mask = df["exhibit_url"].fillna("").str.contains(r"sec\.gov|asx\.com\.au|fortescue\.com|markitdigital\.com", regex=True)
+    invalid_urls = df[~valid_url_mask]
+    assert len(invalid_urls) == 0, (
+        f"Found {len(invalid_urls)} row(s) with missing/invalid exhibit URL: "
+        f"{invalid_urls[['miner', 'quarter', 'exhibit_url']].to_dict('records')}"
+    )
+
+    # 4. Table row label and basis must be documented for every row
+    assert not df["table_row_label"].isna().any(), "Found rows with missing table_row_label"
+    assert not (df["table_row_label"].str.strip() == "").any(), "Found rows with empty table_row_label"
+    assert not df["basis"].isna().any(), "Found rows with missing basis"
+    assert not (df["basis"].str.strip() == "").any(), "Found rows with empty basis"
 

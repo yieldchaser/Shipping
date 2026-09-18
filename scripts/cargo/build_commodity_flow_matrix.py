@@ -548,9 +548,7 @@ def main():
         {"node": "Petcoke & Coke", "group": "Energy", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity["Petcoke"]["fixture_count"] + by_commodity.get("Coke", {}).get("fixture_count", 0), "has_national": False},
         {"node": "LPG (Butane / Propane / Ethylene)", "group": "Tankers & Gas", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity["LPG"]["fixture_count"] + by_commodity.get("Butane", {}).get("fixture_count", 0), "has_national": False},
         {"node": "Salt & Gypsum", "group": "Dry Bulk / Industrial Minerals", "status": "FIXTURE_DERIVED", "source": "Fearnleys Fixture Ledger (Broker Reported)", "fixtures": by_commodity.get("Salt", {}).get("fixture_count", 0) + by_commodity.get("Gypsum", {}).get("fixture_count", 0) + by_commodity.get("General Minerals", {}).get("fixture_count", 0), "has_national": False},
-        {"node": "Nickel Ore & Spodumene", "group": "Ores and Rocks", "status": "LIVE_NATIONAL", "source": "PSA OpenSTAT (Philippines Nickel Ore Exports) & Broker Fixtures", "fixtures": by_commodity.get("Nickel Ore", {}).get("fixture_count", 0) + by_commodity.get("Spodumene", {}).get("fixture_count", 0), "has_national": True},
-        {"node": "Forestry (Wood Pellets, Pulp)", "group": "Agricultural Products", "status": "DATA_GAP", "source": "Target for Future Customs Scraping", "fixtures": 142, "has_national": False},
-        {"node": "Project Cargo & Windmill Blades", "group": "Project Cargo", "status": "DATA_GAP", "source": "Target for Future AIS Manifest Ingestion", "fixtures": 89, "has_national": False}
+        {"node": "Nickel Ore & Spodumene", "group": "Ores and Rocks", "status": "LIVE_NATIONAL", "source": "PSA OpenSTAT (Philippines Nickel Ore Exports) & Broker Fixtures", "fixtures": by_commodity.get("Nickel Ore", {}).get("fixture_count", 0) + by_commodity.get("Spodumene", {}).get("fixture_count", 0), "has_national": True}
     ]
 
     clean_commodities = {}

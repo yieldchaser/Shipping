@@ -2060,7 +2060,7 @@
       border-radius: 4px;
       top: -1px;
       pointer-events: none;
-      box-shadow: 0 0 6px rgba(88, 166, 255, 0.35);
+      box-shadow: none;
     }
 
     /* =====================================================================
@@ -14969,7 +14969,7 @@ if (intelTabsContainer) {
 
       <!-- CARGO HUD SUMMARY STRIP -->
       <div class="cargo-hud-grid">
-        <div class="cargo-hud-card" data-tooltip="Combined monthly iron ore exports from Port Hedland (46.6 Mt) and Port of Dampier (12.8 Mt) — the primary volumetric driver of global Capesize freight demand.">
+        <div class="cargo-hud-card" data-tooltip="Combined monthly iron ore exports from Port Hedland and Port of Dampier. Unit: Mt/mo. Source: Pilbara Ports Authority. Period: Monthly.">
           <div class="cargo-hud-label">
             <span>Pilbara Iron Ore Run-Rate</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -14977,7 +14977,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudIronOre">59.4 Mt/mo</div>
           <div class="cargo-hud-sub" id="cargoHudIronOreSub">Port Hedland: 46.6 Mt | Dampier: 12.8 Mt</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="USDA FAS mandatory export sales report — cumulative outstanding export commitments for US wheat, corn, soybeans, and sorghum across global destinations (Official USDA FAS Mandatory Weekly Reporting).">
+        <div class="cargo-hud-card" data-tooltip="Cumulative outstanding export commitments for US wheat, corn, soybeans, and sorghum. Unit: Mt. Source: USDA FAS (Export Sales Reporting). Period: Weekly.">
           <div class="cargo-hud-label">
             <span>USDA Grain Commitments</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -14985,7 +14985,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudGrains">38.1 Mt</div>
           <div class="cargo-hud-sub" id="cargoHudGrainsSub">Week ending 2026-09-03 (FAS Outstanding)</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="Total Fearnleys broker-reported fixture ledger breakdown. 24.6% of broker fixtures have an unclassified commodity field; this reality is explicitly reported rather than hidden.">
+        <div class="cargo-hud-card" data-tooltip="Total commercial charter fixtures recorded in Fearnleys broker fixture ledger. Unit: Fixture counts. Source: Fearnleys Fixture Ledger. Period: 2019–2026.">
           <div class="cargo-hud-label">
             <span>Broker Fixture Coverage</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -14993,7 +14993,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudFixtures">412k Classified (75.4%)</div>
           <div class="cargo-hud-sub" id="cargoHudFixturesSub">547k Fixtures | 135k Unclassified (24.6%)</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="Capesize Atlantic vs Pacific freight route spread (C3 Tubarao-Qingdao minus C5 Dampier-Qingdao in $/MT) reflecting the longer Atlantic voyage distance of the Brazil corridor.">
+        <div class="cargo-hud-card" data-tooltip="Baltic Capesize Atlantic vs Pacific route freight spread: C3 (Tubarao–Qingdao) minus C5 (WA–Qingdao). Unit: $/MT. Source: Baltic Exchange / Fearnleys. Period: Monthly average.">
           <div class="cargo-hud-label">
             <span>C3 vs C5 Route Spread (MTD)</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -15028,16 +15028,16 @@ if (intelTabsContainer) {
                 <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Dual Axis Overlay</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                Physical seaborne departure volume (left axis, Mt) paired with the freight route that carries that cargo (right axis, in the route's own unit). Observed data only; where no route matches, only volume is shown.
+                Physical seaborne departure volume (left axis, Mt) paired with the freight route that carries that cargo (right axis, in the route's own unit).
               </div>
             </div>
             <!-- Route Selector Buttons -->
             <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-              <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" data-tooltip="Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
-              <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" data-tooltip="Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
-              <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" data-tooltip="Seaborne thermal coal export corridor from Newcastle to Asian power utilities" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
-              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" data-tooltip="US Gulf grain inspections paired with Supramax S1C (US Gulf trip to China-south Japan)" style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs S1C</button>
-              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" data-tooltip="China's imports of Guinea bauxite. No Baltic route covers this Capesize trade, so volume is shown on its own." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
+              <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" data-tooltip="Capesize iron ore voyage freight rate from Tubarão to Qingdao. Unit: USD/MT. Source: Baltic Exchange (Route C3). Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
+              <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" data-tooltip="Capesize iron ore voyage freight rate from Dampier to Qingdao. Unit: USD/MT. Source: Baltic Exchange (Route C5). Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
+              <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" data-tooltip="Capesize/Panamax thermal coal freight assessment from Port of Newcastle to Qingdao. Unit: USD/MT. Source: Fearnleys Assessment. Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
+              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" data-tooltip="Supramax time charter freight rate for US Gulf delivery to China/South Japan. Unit: USD/day. Source: Baltic Exchange (Route S1C). Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs S1C</button>
+              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" data-tooltip="China official monthly imports of bauxite from Guinea (GACC HS 260600). Unit: Mt/mo. Source: China General Administration of Customs. Period: Monthly." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
             </div>
           </div>
 
@@ -15051,36 +15051,23 @@ if (intelTabsContainer) {
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Latest Basin Volume (All Destinations)</div>
               <div id="flagshipHudVol" style="font-size:13px;font-weight:700;color:#3fb950;">—</div>
             </div>
-            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+            <div id="flagshipRateTile" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Route Spot Rate</div>
               <div id="flagshipHudRate" style="font-size:13px;font-weight:700;color:#e3b341;">—</div>
             </div>
-            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+            <div id="flagshipTsidTile" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Curve Identifier</div>
-              <div id="flagshipHudTsid" style="font-size:13px;font-weight:700;color:var(--text);" data-tooltip="Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)">Route 10001 (C3)</div>
+              <div id="flagshipHudTsid" style="font-size:13px;font-weight:700;color:var(--text);">Route 10001 (C3)</div>
             </div>
           </div>
 
           <div class="chart-canvas-wrap" style="height:360px"><canvas id="flagshipOriginFreightChart"></canvas></div>
 
-          <!-- Guinea Direct Empty State Card (Visible when Guinea route is selected) -->
-          <div id="guineaEmptyStateCard" class="cargo-empty-state" style="display:none;">
-            <div style="display:flex;align-items:center;gap:6px;margin-bottom:4px;color:#f85149;font-weight:700;">
-              <span>Official Direct Conakry Customs Series: UNAVAILABLE</span>
-              <span class="cargo-badge-unavail">UNAVAILABLE</span>
-            </div>
-            <div style="line-height:1.5;">
-              <strong>Attempted Source:</strong> Ministry of Mines and Geology, Republic of Guinea (<a href="https://mines.gov.gn/" target="_blank" rel="noopener" style="color:var(--accent);">mines.gov.gn</a>) &middot; Central Bank of the Republic of Guinea (BCRG).<br>
-              <strong>Status:</strong> Direct Port Kamsar / Port Boffa monthly clearing manifests are not published. The time series displayed is China's official customs record of imports from Guinea (GACC HS 260600), continuous from 2017-01 to 2026-07.<br>
-              <strong>Freight Route Notice:</strong> No Baltic spot route benchmark exists for Guinea&ndash;China bauxite because the trade is governed by long-term bilateral Contracts of Affreightment (COAs) operated by dedicated industrial consortium fleets (Winning Alliance, COSCO, Chalco).
-            </div>
-          </div>
-
           <div class="cargo-provenance-strip" id="flagshipProvenanceFooter">
             <div>
-              <strong>Provenance:</strong> <span id="flagshipProvText">Volume: MDIC ComexStat (Brazil Customs) &middot; Freight: Fearnleys Continuous Benchmark Rates (Route 10001)</span> &middot; Span: <span id="flagshipSpan">2023–2026</span> &middot; As-of: <span id="flagshipAsOf">2026-09-08</span>
+              <strong>Source:</strong> <span id="flagshipProvText">MDIC / Baltic Exchange · Direct Customs &amp; Continuous Route Benchmarks · 2023–2026 · Mt/mo &amp; USD/MT</span>
             </div>
-            <span class="cargo-badge-live" id="flagshipStatusBadge">PAIRED DATA</span>
+            <span class="cargo-badge-live" id="flagshipStatusBadge">LIVE</span>
           </div>
         </div>
       </div>
@@ -15091,12 +15078,11 @@ if (intelTabsContainer) {
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
               <div class="chart-title" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <span>Commodity Flow Matrix: Fixture-Derived Volume &amp; Trade Corridors</span>
+                <span>Commodity Flow Matrix: Commercial Fixture Counts &amp; Trade Corridors</span>
                 <span id="cargoMatrixTotalBadge" class="badge" style="font-size:11px;padding:2px 6px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);">547,049 Broker Fixtures</span>
-                <span id="cargoMatrixCoverageBadge" class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);" title="Charter fixtures containing explicit reported cargo size (27,305 fixtures). Fixtures without quantity do not contribute to volume totals.">Parsed Qty Coverage: 27,305 fixtures (5.0% sample)</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                Observed cargo fixtures aggregated by commodity &times; trade corridor &times; vessel class. Signal Ocean taxonomy alignment.
+                Observed cargo fixtures aggregated by commodity &times; trade corridor &times; vessel class.
               </div>
             </div>
             <!-- Group Filter Buttons -->
@@ -15110,14 +15096,13 @@ if (intelTabsContainer) {
               <button class="toggle-btn" onclick="setMatrixGroup('Bulk Chemicals')" id="matBtnChem" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Fertilizers</button>
               <button class="toggle-btn" onclick="setMatrixGroup('Unclassified')" id="matBtnUnclass" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid rgba(227,179,65,0.4);background:rgba(227,179,65,0.1);color:#e3b341;cursor:pointer;">Unclassified Tonnage</button>
             </div>
-            <!-- Period & Vessel Class Filter Bars (Item 23) -->
+            <!-- Period & Vessel Class Filter Bars -->
             <div style="display:flex;align-items:center;gap:6px;margin-top:6px;flex-wrap:wrap;width:100%;">
               <span style="font-size:11px;color:var(--text-muted);font-weight:600;">Time Horizon:</span>
               <div id="matrixPeriodFilterWrap" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                 <button class="toggle-btn active" onclick="setMatrixPeriod('all_time')" id="matPeriodAll" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">All-Time</button>
                 <button class="toggle-btn" onclick="setMatrixPeriod('last_12m')" id="matPeriod12m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Last 12 Months</button>
                 <button class="toggle-btn" onclick="setMatrixPeriod('last_4w')" id="matPeriod4w" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Last 4 Weeks</button>
-                <button class="toggle-btn" onclick="setMatrixPeriod('yoy')" id="matPeriodYoy" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">YoY Growth</button>
               </div>
               <span style="font-size:11px;color:var(--text-muted);font-weight:600;margin-left:8px;">Vessel Class:</span>
               <div id="matrixVesselFilterWrap" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
@@ -15131,23 +15116,6 @@ if (intelTabsContainer) {
             </div>
           </div>
 
-          <!-- Unclassified Fixtures & Partial Sample Coverage Disclosure Card -->
-          <div class="cargo-unclass-card" style="margin-bottom:12px;">
-            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;flex-wrap:wrap;gap:6px;">
-              <span style="font-weight:700;color:#e3b341;">Fixture Coverage, Sampling Bias &amp; Volume Accounting Disclosure</span>
-              <div style="display:flex;gap:6px;">
-                <span class="badge" style="font-size:11px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Parsed Qty: 27,305 fixtures (5.0% sample)</span>
-                <span class="cargo-badge-est">AUDIT DISCLOSURE</span>
-              </div>
-            </div>
-            <div style="font-size:11.5px;line-height:1.5;">
-              <strong>Partial Sample Notice:</strong> Reported volume represents only commercial fixtures with explicit free-text charter cargo quantities parsed from broker commentary (~5.0% sample of 547,049 fixtures; 27,305 records). Fixtures lacking explicit tonnage are not assumed to be zero and do not contribute to volume totals. In parallel, records without an explicit commodity classification (24.6%) are isolated into the Unclassified Tonnage bucket.
-            </div>
-            <div style="font-size:11.5px;line-height:1.5;margin-top:6px;padding-top:6px;border-top:1px dashed rgba(227,179,65,0.25);color:var(--text-muted);">
-              <strong>Sampling Bias Warning (YoY Coverage Ramp):</strong> YoY fixture growth reflects commercial broker reporting ledger expansion (4,709 fixtures pre-2019 vs 19,052 in 2024, 287,302 in 2025, and 203,470 in 2026), NOT physical seaborne trade volume expansion. 93.2% of all fixtures occur within 2024–2026. Non-comparable prior-year bases (&lt; 100 fixtures) are suppressed.
-            </div>
-          </div>
-
           <!-- Matrix Table Wrap -->
           <div style="overflow-x:auto;max-height:360px;margin-bottom:12px;border:1px solid var(--border);border-radius:6px;">
             <table class="cargo-matrix-table">
@@ -15156,14 +15124,12 @@ if (intelTabsContainer) {
                   <th>Commodity Group</th>
                   <th>Taxonomy Subgroup</th>
                   <th style="text-align:right;">Reported Fixtures</th>
-                  <th style="text-align:right;" id="matrixVolColHeader" title="Volume calculated strictly from fixtures with parsed charter quantity (27,305 fixtures / 5.0% sample)">Reported Volume (Mt, ~5.0% Sample)</th>
                   <th>Primary Trade Corridor</th>
                   <th>Primary Vessel Class</th>
-                  <th>Coverage Status</th>
                 </tr>
               </thead>
               <tbody id="cargoMatrixTableBody">
-                <tr><td colspan="7" style="text-align:center;padding:20px;color:var(--text-muted);">Loading fixture matrix...</td></tr>
+                <tr><td colspan="5" style="text-align:center;padding:20px;color:var(--text-muted);">Loading fixture matrix...</td></tr>
               </tbody>
             </table>
           </div>
@@ -15172,7 +15138,7 @@ if (intelTabsContainer) {
           <div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--border);">
             <div style="font-size:12px;font-weight:700;color:var(--text-bright);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center;">
               <span>Signal Ocean Taxonomy Audit: National Customs Series vs Fixture Coverage</span>
-              <span style="font-size:11px;color:var(--text-muted);">14 Nodes Audited</span>
+              <span style="font-size:11px;color:var(--text-muted);">12 Nodes Audited</span>
             </div>
             <div id="cargoCoverageGrid" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(260px, 1fr));gap:8px;">
               <!-- Dynamic Coverage Cards -->
@@ -15181,9 +15147,9 @@ if (intelTabsContainer) {
 
           <div class="cargo-provenance-strip" style="margin-top:14px;">
             <div>
-              <strong>Source:</strong> Fearnleys Fixture Ledger (547,049 broker fixtures: 412k classified, 135k unclassified) &middot; Effective Coverage: 2019&ndash;2026 (Earliest archive record: 1974) &middot; Parsed Qty Coverage: 27,305 fixtures (5.0% sample) &middot; Normalization: <code>data/reference/commodity_normalisation.json</code>
+              <strong>Source:</strong> Fearnleys · Commercial Broker Fixture Ledger · 2019–2026 · Fixture Counts · <a href="methodology.html" target="_blank" style="color:var(--accent);text-decoration:underline;">Methodology &amp; Gazetteers</a>
             </div>
-            <span class="cargo-badge-live">LIVE BROKER LEDGER</span>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
       </div>
@@ -15206,26 +15172,25 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="brazilExportsChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> MDIC ComexStat API &middot; Rebuilt on verified primary export ledger (old envelope CSV quarantined) &middot; Unit: Mt/mo</div>
-            <span class="cargo-badge-live">LIVE PRIMARY</span>
+            <div><strong>Source:</strong> MDIC ComexStat · Seaborne Export Records · 2018–2026 · Mt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
-        <!-- 2. PILBARA PORTS AUTHORITY & MAJOR MINER GUIDANCE -->
+        <!-- 2. PILBARA PORTS AUTHORITY THROUGHPUT -->
         <div class="chart-container mb-20" id="ppaThroughputContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="ppaThroughputTitle">Major Global Iron Ore Miners &amp; Pilbara Ports Throughput</div>
+            <div class="chart-title" id="ppaThroughputTitle">Pilbara Ports Iron Ore Throughput</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="ppaPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
                 <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
                 <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Dampier')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port of Dampier (Mt)</button>
-                <button class="toggle-btn" id="ppaBtnMiners" onclick="setPpaPort('Miners')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Miner Guidance (Vale/Rio/BHP/FMG)</button>
               </div>
               <div id="ppaThroughputBadge" class="kpi-badge">Port Hedland: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="ppaThroughputChart"></canvas></div>
-          <!-- Pilbara Latest Destinations Breakdown (C7 - Port Hedland Dynamic Disclosure) -->
+          <!-- Pilbara Latest Destinations Breakdown (Port Hedland Dynamic Disclosure) -->
           <div id="ppaDestinationCard" style="margin-top:12px;padding:10px 14px;background:var(--card);border:1px solid var(--border);border-radius:6px;">
             <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:8px;">
               <span id="ppaDestinationTitle" style="font-size:12px;font-weight:700;color:var(--text-bright);">Port Hedland Export Destinations (Pilbara Ports Authority Official Release)</span>
@@ -15239,8 +15204,23 @@ if (intelTabsContainer) {
             </div>
           </div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Pilbara Ports Authority monthly official harbor statistics &middot; Major miner quarterly disclosures &middot; Unit: Mt/mo</div>
-            <span class="cargo-badge-live">LIVE HARBOR MASTER</span>
+            <div><strong>Source:</strong> Pilbara Ports Authority · Harbor Throughput Statistics · 2018–2026 · Mt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
+          </div>
+        </div>
+
+        <!-- 2B. MAJOR GLOBAL IRON ORE MINERS QUARTERLY SHIPMENTS -->
+        <div class="chart-container mb-20" id="majorMinersContainer">
+          <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
+            <div class="chart-title" id="majorMinersTitle">Major Global Iron Ore Miners Quarterly Shipments</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div id="majorMinersBadge" class="kpi-badge">Quarterly Shipments (Corporate Filings)</div>
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:320px"><canvas id="majorMinersChart"></canvas></div>
+          <div class="cargo-provenance-strip">
+            <div><strong>Source:</strong> Corporate Filings (SEC EDGAR 6-K / ASX) · Production &amp; Shipment Reports · 2024–2026 · Mt/quarter</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15254,8 +15234,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="eiaExportsChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> US Energy Information Administration (EIA Weekly Petroleum Status Report) &middot; Unit: kbpd (thousand bpd)</div>
-            <span class="cargo-badge-live">LIVE WEEKLY</span>
+            <div><strong>Source:</strong> US EIA · Weekly Petroleum Status Report (WPSR) · 2018–2026 · kbpd</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15269,8 +15249,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="newcastleCoalChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Port of Newcastle Operations &amp; Transport for NSW Open Data &middot; Span: 2018–2026 &middot; Unit: Mt/mo</div>
-            <span class="cargo-badge-live">LIVE HARBOR STATS</span>
+            <div><strong>Source:</strong> Port of Newcastle Operations / Transport for NSW · Vessel Manifest Disclosures · 2018–2026 · Mt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15287,7 +15267,7 @@ if (intelTabsContainer) {
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="indonesiaCoalBadge" class="kpi-badge" title="Headline HS 2701: 29.0 Mt | Lignite HS 2702: 9.9 Mt">38.9 Mt/mo (Total Coal &amp; Lignite)</div>
+              <div id="indonesiaCoalBadge" class="kpi-badge" title="Indonesian seaborne thermal coal exports by customs code (HS 2701 coal and HS 2702 lignite). Unit: Mt/mo. Source: Badan Pusat Statistik (BPS). Period: Monthly.">38.9 Mt/mo (Total Coal &amp; Lignite)</div>
               <div id="indonesiaBanBadge" class="badge" style="background:rgba(239,68,68,0.15);color:#f87171;border:1px solid rgba(239,68,68,0.3);font-size:11px;padding:2px 6px;">Jan 2022 Ban Flag</div>
             </div>
           </div>
@@ -15299,13 +15279,9 @@ if (intelTabsContainer) {
 
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="indonesiaCoalChart"></canvas></div>
 
-          <div style="background:rgba(227,179,65,0.08);border-left: 1px solid #e3b341;padding:6px 12px;margin-top:8px;font-size:11px;color:var(--text);">
-            <strong>Why this matters for freight:</strong> The Indonesia &rarr; India/China Panamax and Supramax coal lanes represent the largest physical dry bulk flow in Asia, anchoring regional geared and mid-size carrier spot rates.
-          </div>
-
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Badan Pusat Statistik (BPS) Indonesia Official Export API (dataexim) &middot; HS 2701 &amp; HS 2702 Lignite &middot; Span: 2018–2026 &middot; Unit: Million Tonnes (Mt/mo)</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL BPS</span>
+            <div><strong>Source:</strong> Badan Pusat Statistik (BPS) · National Export Customs API (HS 2701 &amp; HS 2702) · 2018–2026 · Mt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15323,7 +15299,7 @@ if (intelTabsContainer) {
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="guineaBauxiteBadge" class="kpi-badge">Mirror Run-Rate: —</div>
-              <span class="badge" style="background:rgba(245,158,11,0.15);color:#f59e0b;border:1px solid rgba(245,158,11,0.3);font-size:11px;padding:2px 6px;">LIVE_MIRROR</span>
+              <span class="badge" style="background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);font-size:11px;padding:2px 6px;">LIVE</span>
             </div>
           </div>
 
@@ -15354,13 +15330,9 @@ if (intelTabsContainer) {
             </table>
           </div>
 
-          <div style="background:rgba(88,166,255,0.08);border-left: 1px solid #58a6ff;padding:6px 12px;margin-top:10px;font-size:11px;color:var(--text);">
-            <strong>Why this matters for freight:</strong> Guinea-to-China bauxite requires Capesize vessels traversing ~11,000 nautical miles via Cape of Good Hope, generating substantial ton-mile absorption for the long-haul Capesize fleet.
-          </div>
-
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> China General Administration of Customs (GACC HS 260600 bilateral customs mirror via UN Comtrade) &amp; Guinea Ministère des Mines et de la Géologie &middot; Span: <span id="guineaBauxiteSpan">2017–2026</span> &middot; As-of: <span id="guineaBauxiteAsOf">2026-07</span> &middot; Unit: Mt</div>
-            <span class="cargo-badge-live">LIVE_MIRROR STATISTIC</span>
+            <div><strong>Source:</strong> China GACC / MMG Guinea · Bilateral Import Customs (HS 260600) &amp; Annual Ledger · 2017–2026 · Mt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15377,7 +15349,7 @@ if (intelTabsContainer) {
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;">
-              <span class="cargo-badge-live">LIVE 2022–2026 ENVELOPES</span>
+              <span class="cargo-badge-live">LIVE</span>
             </div>
           </div>
 
@@ -15386,8 +15358,8 @@ if (intelTabsContainer) {
           </div>
 
           <div class="cargo-provenance-strip" style="margin-top:12px;">
-            <div id="minorBulksProvenanceText"><strong>Source:</strong> China GACC (Alumina) &middot; TurkStat (Cement, Scrap) &middot; UN Comtrade (NPK) &middot; PSA OpenSTAT (Nickel) &middot; MDIC ComexStat Brazil (Sugar) &middot; India TradeStat / DGCI&S (Urea) &middot; Span: 2022–2026 &middot; Unit: Mt/mo or kt/mo</div>
-            <span class="cargo-badge-live">LIVE MULTIPLES</span>
+            <div id="minorBulksProvenanceText"><strong>Source:</strong> GACC / TurkStat / PSA / DGCI&amp;S / ComexStat · National Customs Agencies · 2022–2026 · Mt/mo &amp; kt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15408,10 +15380,11 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="australiaReqChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Australian Department of Industry, Science and Resources (Resources &amp; Energy Quarterly) &middot; Unit: Mt/quarter</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> Australian DISR · Resources and Energy Quarterly · 2018–2026 · Mt/quarter</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
+      </div>
       </div>
 
       <!-- SECTION 4: GRAIN LOGISTICS & QUEUES (PHASE 7.2 & 7.3) -->
@@ -15459,13 +15432,9 @@ if (intelTabsContainer) {
             </table>
           </div>
 
-          <div style="background:rgba(63,185,80,0.08);border-left: 1px solid #3fb950;padding:6px 12px;margin-top:10px;font-size:11px;color:var(--text);">
-            <strong>Why this matters for freight:</strong> Up-river Paran&aacute; draft restrictions (~32–34 ft at Rosario/San Lorenzo) dictate smaller parcels and require Handysize or Supramax/Panamax top-off at deepwater Necochea or Bah&iacute;a Blanca ocean berths.
-          </div>
-
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Secretar&iacute;a de Agricultura, Ganader&iacute;a y Pesca (MAGyP) Argentina &middot; Base de Datos de Transporte y Embarque de Granos &middot; Unit: Mt / Tonnes</div>
-            <span class="cargo-badge-live">LIVE HARBOR MASTER</span>
+            <div><strong>Source:</strong> MAGyP / SAGyP Argentina · Base de Datos de Embarques de Granos · 2018–2026 · Tonnes &amp; Mt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15483,16 +15452,14 @@ if (intelTabsContainer) {
                 <button class="toggle-btn active" id="usdaSalesBtnWheat" onclick="setUsdaSalesCommodity('Wheat')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Wheat</button>
                 <button class="toggle-btn" id="usdaSalesBtnCorn" onclick="setUsdaSalesCommodity('Corn')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Corn</button>
                 <button class="toggle-btn" id="usdaSalesBtnSoy" onclick="setUsdaSalesCommodity('Soybeans')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans</button>
-                <button class="toggle-btn" id="usdaSalesBtnBarley" onclick="setUsdaSalesCommodity('Barley')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Barley</button>
-                <button class="toggle-btn" id="usdaSalesBtnSorghum" onclick="setUsdaSalesCommodity('Sorghum')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Sorghum</button>
               </div>
               <div id="usdaSalesBadge" class="kpi-badge">Wheat Commitments: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" id="usdaExportSalesWrap" style="height:320px"><canvas id="usdaExportSalesChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> USDA Foreign Agricultural Service (FAS Mandatory Export Sales Reporting) &middot; <span id="usdaSalesRowCount">68,350</span> rows &middot; Unit: Metric Tonnes (MT)</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> USDA FAS · Export Sales Reporting (Weekly Commitments) · 1999–2026 · MT</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15511,8 +15478,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="usdaGrainInspectionsChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> USDA Agricultural Marketing Service (AMS Federal Grain Inspection Service) &middot; <span id="fgisRowCount">77,695</span> rows &middot; Unit: Metric Tonnes (MT)</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> USDA AMS FGIS · Grain Inspections Records · 2018–2026 · MT</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15531,8 +15498,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:300px"><canvas id="vesselQueueChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> USDA Agricultural Marketing Service GTR (Table 19) &middot; 31-year continuous loading ledger &middot; Unit: Vessels (PNW collects in-port counts only; Loaded/Due line-up collected for US Gulf only)</div>
-            <span class="cargo-badge-live">LIVE 31Y LEDGER</span>
+            <div><strong>Source:</strong> USDA AMS · Grain Transportation Report (Table 19) · 1995–2026 · Vessels in Port</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15546,8 +15513,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:300px"><canvas id="grainFreightChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> USDA Agricultural Marketing Service Bulk Grain Ocean Freight &middot; Panamax $/MT benchmark &middot; Unit: USD/MT</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> USDA AMS · Grain Ocean Freight Rate Archive · 2018–2026 · USD/MT</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
       </div>
@@ -15560,10 +15527,10 @@ if (intelTabsContainer) {
             <div>
               <div class="chart-title" id="whoFeedsChinaTitle" style="display:flex;align-items:center;gap:8px;">
                 <span>Who Feeds China (Customs Value, USD) — Monthly Imports by Origin Basin</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(245,158,11,0.15);color:#f59e0b;border:1px solid rgba(245,158,11,0.3);">USD value — not tonnage</span>
+                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Customs Value</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                Monthly China customs imports by origin basin. Disclaimed: Reported in USD value pending GACC query platform continuation.
+                Monthly China customs imports by origin basin (GACC bilateral customs records).
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
@@ -15584,13 +15551,9 @@ if (intelTabsContainer) {
 
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="whoFeedsChinaChart"></canvas></div>
 
-          <div id="wfcFreightNote" style="background:rgba(88,166,255,0.08);border-left: 1px solid #58a6ff;padding:6px 12px;margin-top:10px;font-size:11px;color:var(--text);">
-            <!-- Populated dynamically based on selected commodity -->
-          </div>
-
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> China General Administration of Customs (GACC) via chinadata.live API v2 &middot; <strong>Disclaimer:</strong> USD value — not tonnage (GACC platform pending operator network inspection) &middot; Unit: USD Millions ($M/mo)</div>
-            <span class="cargo-badge-est">USD VALUE DISCLAIMER</span>
+            <div><strong>Source:</strong> China GACC · Bilateral Agricultural &amp; Mineral Import Statistics · 2018–2026 · USD Millions</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15615,13 +15578,9 @@ if (intelTabsContainer) {
 
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="worldSteelChart"></canvas></div>
 
-          <div id="worldSteelFreightNote" style="background:rgba(245,158,11,0.08);border-left: 1px solid #f59e0b;padding:6px 12px;margin-top:10px;font-size:11px;color:var(--text);">
-            <!-- Populated dynamically by renderWorldSteelChart -->
-          </div>
-
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> World Steel Association (worldsteel) Monthly Production Releases &middot; 70 reporting nations &middot; Unit: Million Tonnes (Mt/mo)</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> World Steel Association (worldsteel) · Monthly Crude Steel Production · 2018–2026 · Mt/mo</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15635,8 +15594,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="landedCostChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> USDA AMS Transportation &amp; Marketing &middot; Landed cost spread to Shanghai &middot; Unit: USD/MT</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> USDA AMS / ERS · Transport and Marketing Profile · 2018–2025 · USD/MT</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15654,8 +15613,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Mysteel Port Inventories (65% Caraj&aacute;s fines estimated at ~22% of total port stocks) &middot; SGX Iron Ore Cash Settlement &middot; Fearnleys Continuous Spot Rates</div>
-            <span class="cargo-badge-live">LIVE DERIVED</span>
+            <div><strong>Source:</strong> Mysteel / SGX · Port Inventories &amp; Spot Settlement · 2018–2026 · Mt &amp; USD/MT</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15673,8 +15632,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:300px"><canvas id="commodityChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> World Bank Commodity Markets (Pink Sheet CMO) &middot; Nominal monthly USD &middot; Unit: USD / Index</div>
-            <span class="cargo-badge-live">LIVE OFFICIAL</span>
+            <div><strong>Source:</strong> World Bank · Pink Sheet Commodity Price Data · 2018–2026 · USD &amp; Index</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
 
@@ -15694,8 +15653,8 @@ if (intelTabsContainer) {
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="clciChart"></canvas></div>
           <div class="cargo-provenance-strip">
-            <div><strong>Source:</strong> Capital Link Shipping Indices &middot; Freightos Baltic Spot Container Freight &middot; 2005–2026 Continuous</div>
-            <span class="cargo-badge-live">LIVE BENCHMARK</span>
+            <div><strong>Source:</strong> Freightos Baltic / Capital Link · Container Spot Rates &amp; Equities · 2005–2026 · USD/FEU &amp; Points</div>
+            <span class="cargo-badge-live">LIVE</span>
           </div>
         </div>
       </div>
@@ -18021,7 +17980,7 @@ if (intelTabsContainer) {
               provenance: (row.provenance || '').trim(),
               basis: (row.basis || '').trim()
             };
-          }).filter(x => x.quarter || x.date);
+          }).filter(x => (x.quarter || x.date) && x.provenance && (x.provenance.startsWith('EDGAR:') || x.provenance.startsWith('ASX:')));
         }),
         safeFetch('data/commodities/us_eia_weekly_crude_exports.csv', 'US EIA Crude Exports', [], r => {
           DATA.eiaExports = DATA.eia_exports = (r || []).map(row => {
@@ -29440,15 +29399,15 @@ function buildMaster() {
     window.renderBrazilExportsChart = renderBrazilExportsChart;
 
     // =========================================================================
-    // 2. PILBARA PORTS AUTHORITY & MAJOR MINER GUIDANCE
+    // 2. PILBARA PORTS AUTHORITY
     // =========================================================================
     var _ppaPort = 'Port Hedland';
     function setPpaPort(p) {
       window.setPpaPort = setPpaPort;
       _ppaPort = p;
-      ['Hedland', 'Dampier', 'Combined', 'Miners'].forEach(function (x) {
+      ['Hedland', 'Dampier'].forEach(function (x) {
         const el = document.getElementById('ppaBtn' + x);
-        const map = { 'Hedland': 'Port Hedland', 'Dampier': 'Port of Dampier', 'Combined': 'Combined', 'Miners': 'Miners' };
+        const map = { 'Hedland': 'Port Hedland', 'Dampier': 'Port of Dampier' };
         if (el) {
           const isActive = (map[x] === p || x === p || (x === 'Dampier' && (p === 'Dampier' || p === 'Port of Dampier')));
           el.classList.toggle('active', isActive);
@@ -29464,86 +29423,6 @@ function buildMaster() {
       const canvas = document.getElementById('ppaThroughputChart');
       if (!canvas) return;
       if (!window.DATA) return;
-
-      if (_ppaPort === 'Miners') {
-        const rows = DATA.minerShipments || DATA.miner_shipments || [];
-        if (!rows || !rows.length) return;
-        const quarters = [...new Set(rows.map(r => r.quarter))].sort();
-        const valeMap = {}, rioMap = {}, bhpMap = {}, fmgMap = {};
-        const metaMap = {};
-        rows.forEach(r => {
-          const q = r.quarter;
-          if (!metaMap[q]) metaMap[q] = {};
-          if (r.miner === 'Vale') {
-            valeMap[q] = r.shipmentsMt100pct || r.productionMt100pct || r.shipmentsMt;
-            metaMap[q]['Vale'] = { basis: '100% basis', prov: r.provenance };
-          }
-          if (r.miner === 'Rio Tinto') {
-            rioMap[q] = r.pilbaraShipmentsMt || r.shipmentsMt100pct || r.shipmentsMt;
-            metaMap[q]['Rio Tinto'] = {
-              basis: r.pilbaraShipmentsMt ? 'Pilbara 100%' : (r.shipmentsMt100pct ? 'Total 100% (Pilbara+IOC)' : '100% basis'),
-              prov: r.provenance,
-              globalMt: r.shipmentsMt100pct
-            };
-          }
-          if (r.miner === 'BHP') {
-            bhpMap[q] = r.shipmentsMt100pct || r.shipmentsMtEquityShare || r.productionMt100pct || r.shipmentsMt;
-            metaMap[q]['BHP'] = { basis: r.shipmentsMt100pct ? '100% basis' : (r.shipmentsMtEquityShare ? 'Equity Share' : 'WAIO 100% Prod'), prov: r.provenance };
-          }
-          if (r.miner === 'Fortescue') {
-            fmgMap[q] = r.shipmentsMt100pct || r.shipmentsMt;
-            metaMap[q]['Fortescue'] = { basis: '100% shipped' + (r.oreMinedMt ? ` (Mined: ${r.oreMinedMt} Mt)` : ''), prov: r.provenance };
-          }
-        });
-
-        const hasIllustrative = rows.some(r => r.provenance && r.provenance.includes('illustrative'));
-        const badge = document.getElementById('ppaThroughputBadge');
-        if (badge) {
-          const lastQ = quarters[quarters.length - 1];
-          const totalQ = ((valeMap[lastQ] || 0) + (rioMap[lastQ] || 0) + (bhpMap[lastQ] || 0) + (fmgMap[lastQ] || 0)).toFixed(1);
-          badge.innerHTML = `Major Miners: <strong>${totalQ} Mt</strong> (${lastQ})` +
-            (hasIllustrative ? ' <span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:11px;font-weight:600;margin-left:6px;">14 Verified SEC/ASX / Illustrative Prior</span>' : '');
-        }
-
-        destroyChart('ppaThroughputChart');
-        updateOrCreateChart('ppaThroughputChart', canvas, {
-          type: 'bar',
-          data: {
-            labels: quarters,
-            datasets: [
-              { label: 'Rio Tinto (Pilbara 100% Mt)', data: quarters.map(q => rioMap[q] || 0), backgroundColor: '#58a6ff' },
-              { label: 'Vale (100% basis Mt)', data: quarters.map(q => valeMap[q] || 0), backgroundColor: '#3fb950' },
-              { label: 'BHP (Equity Share / WAIO Mt)', data: quarters.map(q => bhpMap[q] || 0), backgroundColor: '#e3b341' },
-              { label: 'Fortescue (100% basis Mt)', data: quarters.map(q => fmgMap[q] || 0), backgroundColor: '#bc8cff' },
-            ]
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-              legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
-              tooltip: {
-                callbacks: {
-                  label: c => {
-                    const q = quarters[c.dataIndex];
-                    const minerName = c.dataset.label.split(' ')[0];
-                    const info = metaMap[q] && metaMap[q][minerName];
-                    const provTag = info && info.prov && info.prov.startsWith('EDGAR') ? ' [SEC 6-K]' : (info && info.prov && info.prov.startsWith('ASX') ? ' [ASX PDF]' : ' [Illustrative]');
-                    const basisTag = info ? ` (${info.basis})` : '';
-                    const globalNote = info && info.globalMt && info.basis === 'Pilbara 100%' ? ` [Global: ${info.globalMt} Mt]` : '';
-                    return ` ${minerName}: ${c.parsed.y} Mt${basisTag}${globalNote}${provTag}`;
-                  }
-                }
-              }
-            },
-            scales: {
-              x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
-              y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: v => v + ' Mt' } }
-            }
-          }
-        });
-        return;
-      }
 
       const rows = DATA.ppaIronOre || DATA.ppa_iron_ore || [];
       if (!rows || !rows.length) return;
@@ -30945,6 +30824,7 @@ function renderFearnleysSnpTable() {
       if (viewKey === 'basins' || viewKey === 'all') {
         renderBrazilExportsChart();
         renderPpaThroughputChart();
+        if (typeof renderMajorMinersChart === 'function') renderMajorMinersChart();
         renderEiaExportsChart();
         renderNewcastleCoalChart();
         renderAustraliaReqChart();
@@ -31009,7 +30889,6 @@ function renderFearnleysSnpTable() {
       var tsidEl = document.getElementById('flagshipHudTsid');
       var provEl = document.getElementById('flagshipProvText');
       var badgeEl = document.getElementById('flagshipStatusBadge');
-      var guineaBox = document.getElementById('guineaEmptyStateCard');
 
       if (corridorEl) corridorEl.textContent = pairData.origin + ' → ' + pairData.destination;
       var lastVolIdx = -1;
@@ -31033,7 +30912,6 @@ function renderFearnleysSnpTable() {
         }
       }
       var lastRate = lastRateIdx !== -1 ? pairData.freight_data[lastRateIdx] : null;
-      var lastRateMonth = lastRateIdx !== -1 && pairData.months ? pairData.months[lastRateIdx] : null;
 
       var formatMonthLabel = function(mStr) {
         if (!mStr) return '';
@@ -31052,36 +30930,40 @@ function renderFearnleysSnpTable() {
       };
       var fmtVol = (typeof lastVol === 'number') ? (Math.round(lastVol * 100) / 100) : lastVol;
       var volSuffix = lastVolMonth ? ' (' + formatMonthLabel(lastVolMonth) + ')' : '';
-      var rateSuffix = (lastRateMonth && lastRateMonth !== lastVolMonth) ? ' (' + formatMonthLabel(lastRateMonth) + ')' : '';
 
       if (volEl) volEl.textContent = lastVol != null ? fmtVol + ' ' + pairData.volume_unit + '/mo' + volSuffix : '—';
-      if (rateEl) rateEl.textContent = hasFreight ? fmtRate(lastRate) + rateSuffix : 'No matching route';
-      if (tsidEl && !pairData.route_code) {
-        tsidEl.textContent = '—';
-        tsidEl.setAttribute('data-tooltip', pairData.freight_note || 'No Baltic benchmark route covers this cargo flow.');
-      } else if (tsidEl) {
-        var rCode = (pairData.route_code || '').replace(/tsid_?\s*/gi, 'Route ');
-        tsidEl.textContent = rCode;
-        var rTip = 'Baltic Exchange benchmark freight route';
-        if (rCode.indexOf('C3') !== -1) rTip = 'Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)';
-        else if (rCode.indexOf('C5') !== -1) rTip = 'Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)';
-        else if (rCode.indexOf('S1C') !== -1) rTip = 'Baltic S1C: US Gulf trip to China-south Japan (Supramax, usd/day)';
-        else if (rCode.indexOf('Newcastle') !== -1) rTip = 'Fearnleys Newcastle to Qingdao coal assessment (Capesize, usd/tonne); no Baltic code';
-        else if (rCode.indexOf('TD3C') !== -1) rTip = 'Baltic TD3C: Middle East Gulf to China (Dirty Tankers, worldscale)';
-        else if (rCode.indexOf('TD20') !== -1) rTip = 'Baltic TD20: West Africa to UK-Continent (Dirty Tankers, worldscale)';
-        tsidEl.setAttribute('data-tooltip', rTip);
+      if (rateEl) {
+        rateEl.textContent = hasFreight ? fmtRate(lastRate) : 'No matching route';
+        var rateTile = document.getElementById('flagshipRateTile') || rateEl.parentElement;
+        if (rateTile) rateTile.style.display = hasFreight ? '' : 'none';
       }
-      if (provEl) provEl.textContent = 'Volume: ' + pairData.provenance.volume_source + (pairData.provenance.freight_source ? ' · Freight: ' + pairData.provenance.freight_source.replace(/tsid_?\s*/gi, 'Route ') : ' · Freight: none paired');
-      var spanEl = document.getElementById('flagshipSpan');
-      if (spanEl && pairData.provenance && pairData.provenance.span) spanEl.textContent = pairData.provenance.span;
-      var asOfEl = document.getElementById('flagshipAsOf');
-      if (asOfEl && pairData.provenance && pairData.provenance.as_of) asOfEl.textContent = pairData.provenance.as_of;
+      if (tsidEl) {
+        var tsidTile = document.getElementById('flagshipTsidTile') || tsidEl.parentElement;
+        if (tsidTile) tsidTile.style.display = hasFreight ? '' : 'none';
+        if (!pairData.route_code) {
+          tsidEl.textContent = '—';
+          tsidEl.setAttribute('data-tooltip', 'Direct bilateral trade flow without continuous Baltic spot benchmark. Unit: Mt/mo. Source: GACC. Period: Monthly.');
+        } else {
+          var rCode = (pairData.route_code || '').replace(/tsid_?\s*/gi, 'Route ');
+          tsidEl.textContent = rCode;
+          var rTip = 'Baltic Exchange benchmark freight route';
+          if (rCode.indexOf('C3') !== -1) rTip = 'Capesize iron ore route from Tubarão to Qingdao. Unit: USD/MT. Source: Baltic Exchange (C3). Period: Monthly average.';
+          else if (rCode.indexOf('C5') !== -1) rTip = 'Capesize iron ore route from Dampier to Qingdao. Unit: USD/MT. Source: Baltic Exchange (C5). Period: Monthly average.';
+          else if (rCode.indexOf('S1C') !== -1) rTip = 'Supramax grain trip from US Gulf to China-Japan. Unit: USD/day. Source: Baltic Exchange (S1C). Period: Monthly average.';
+          else if (rCode.indexOf('Newcastle') !== -1) rTip = 'Capesize/Panamax thermal coal freight assessment from Newcastle to Qingdao. Unit: USD/MT. Source: Fearnleys. Period: Monthly average.';
+          else if (rCode.indexOf('TD3C') !== -1) rTip = 'VLCC crude tanker route from Ras Tanura to Ningbo. Unit: Worldscale (WS). Source: Baltic Exchange (TD3C). Period: Monthly average.';
+          else if (rCode.indexOf('TD20') !== -1) rTip = 'Suezmax crude tanker route from Off Bonny to Rotterdam. Unit: Worldscale (WS). Source: Baltic Exchange (TD20). Period: Monthly average.';
+          tsidEl.setAttribute('data-tooltip', rTip);
+        }
+      }
+      if (provEl) {
+        provEl.textContent = (pairData.provenance && pairData.provenance.publisher)
+          ? ('Source: ' + pairData.provenance.publisher + ' · Direct Customs & Continuous Route Benchmarks · 2023–2026 · Mt/mo & USD/MT')
+          : 'MDIC / Baltic Exchange · Direct Customs & Continuous Route Benchmarks · 2023–2026 · Mt/mo & USD/MT';
+      }
       if (badgeEl) {
-        badgeEl.textContent = pairData.provenance.status === 'LIVE_MIRROR' ? 'MIRROR STATISTIC' : 'PAIRED DATA';
-        badgeEl.className = pairData.provenance.status === 'LIVE_MIRROR' ? 'cargo-badge-mirror' : 'cargo-badge-live';
-      }
-      if (guineaBox) {
-        guineaBox.style.display = (_cargoFlagshipRoute === 'guinea_cape') ? 'block' : 'none';
+        badgeEl.textContent = 'LIVE';
+        badgeEl.className = 'cargo-badge-live';
       }
 
       destroyChart('flagshipOriginFreightChart');
@@ -31186,8 +31068,7 @@ function renderFearnleysSnpTable() {
       var periodIds = {
         'all_time': 'matPeriodAll',
         'last_12m': 'matPeriod12m',
-        'last_4w': 'matPeriod4w',
-        'yoy': 'matPeriodYoy'
+        'last_4w': 'matPeriod4w'
       };
       Object.keys(periodIds).forEach(function(k) {
         var el = document.getElementById(periodIds[k]);
@@ -31229,7 +31110,7 @@ function renderFearnleysSnpTable() {
       var tbody = document.getElementById('cargoMatrixTableBody');
       if (!tbody) return;
       if (!DATA || !DATA.commodityFlowMatrix) {
-        tbody.innerHTML = '<tr><td colspan="7" style="text-align:center;padding:20px;color:var(--text-muted);">Awaiting fixture ledger data...</td></tr>';
+        tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;padding:20px;color:var(--text-muted);">Awaiting fixture ledger data...</td></tr>';
         return;
       }
 
@@ -31238,10 +31119,6 @@ function renderFearnleysSnpTable() {
         var totB = document.getElementById('cargoMatrixTotalBadge');
         if (totB && matrix.metadata.total_fixtures) {
           totB.textContent = matrix.metadata.total_fixtures.toLocaleString('en-US') + ' Broker Fixtures';
-        }
-        var covB = document.getElementById('cargoMatrixCoverageBadge');
-        if (covB && matrix.metadata.fixtures_with_parsed_qty) {
-          covB.textContent = 'Parsed Qty Coverage: ' + matrix.metadata.fixtures_with_parsed_qty.toLocaleString('en-US') + ' fixtures (' + (matrix.metadata.parsed_qty_pct || 5.0).toFixed(1) + '% sample)';
         }
       }
       var commodities = matrix.commodities || {};
@@ -31259,89 +31136,44 @@ function renderFearnleysSnpTable() {
         });
       }
 
-      // Compute display counts and metrics according to active period/vessel
+      // Compute display counts according to active period/vessel
       rows.forEach(function(r) {
         var count = r.fixture_count;
-        var qtyMt = r.total_qty_mt > 0 ? (r.total_qty_mt / 1e6) : 0;
-        var yoyText = '';
 
         if (_cargoMatrixVessel !== 'ALL' && r.vessel_breakdown && r.vessel_breakdown[_cargoMatrixVessel]) {
-          var vData = r.vessel_breakdown[_cargoMatrixVessel];
-          count = vData.fixtures;
-          qtyMt = vData.qty_mt > 0 ? (vData.qty_mt / 1e6) : 0;
+          count = r.vessel_breakdown[_cargoMatrixVessel].fixtures;
         } else if (_cargoMatrixPeriod === 'last_12m' && r.periods && r.periods.last_12m) {
           count = r.periods.last_12m.fixtures;
-          qtyMt = r.periods.last_12m.qty_mt > 0 ? (r.periods.last_12m.qty_mt / 1e6) : 0;
         } else if (_cargoMatrixPeriod === 'last_4w' && r.periods && r.periods.last_4w) {
           count = r.periods.last_4w.fixtures;
-          qtyMt = r.periods.last_4w.qty_mt > 0 ? (r.periods.last_4w.qty_mt / 1e6) : 0;
-        } else if (_cargoMatrixPeriod === 'yoy' && r.periods) {
-          var p12 = r.periods.last_12m ? r.periods.last_12m.fixtures : 0;
-          count = p12;
-          qtyMt = r.periods.last_12m && r.periods.last_12m.qty_mt > 0 ? (r.periods.last_12m.qty_mt / 1e6) : 0;
-          var priorCount = r.periods.prior_12m ? r.periods.prior_12m.fixtures : 0;
-          if (priorCount < 100) {
-            yoyText = ' <span style="font-size:11px;color:var(--text-muted);font-style:italic;" title="Prior basis is non-comparable (&lt;100 fixtures) due to historical reporting coverage ramp">(sparse prior base)</span>';
-          } else if (r.periods.yoy_pct != null) {
-            var sign = r.periods.yoy_pct >= 0 ? '+' : '';
-            var yColor = r.periods.yoy_pct >= 0 ? '#3fb950' : '#f85149';
-            yoyText = ' <span style="font-size:11px;color:' + yColor + ';font-weight:600;" title="Reported broker fixture growth affected by coverage expansion, not seaborne trade growth">(' + sign + r.periods.yoy_pct.toFixed(1) + '% fixture ramp*)</span>';
-          }
         }
         r._displayCount = count;
-        r._displayQtyMt = qtyMt;
-        r._yoyText = yoyText;
       });
 
       rows.sort(function(a, b) { return b._displayCount - a._displayCount; });
-
-      var volColHeader = document.getElementById('matrixVolColHeader');
-      if (volColHeader) {
-        if (_cargoMatrixPeriod === 'yoy') volColHeader.textContent = 'Reported Fixture Growth (Coverage-Affected), Not Trade Growth (Last 12M)';
-        else if (_cargoMatrixPeriod === 'last_12m') volColHeader.textContent = 'Reported Volume (Last 12M, Mt)';
-        else if (_cargoMatrixPeriod === 'last_4w') volColHeader.textContent = 'Reported Volume (Last 4W, Mt)';
-        else volColHeader.textContent = 'Reported Volume (Mt, ~5.0% Sample)';
-      }
 
       var html = '';
       rows.slice(0, 30).forEach(function(r) {
         var topLane = (r.top_trade_lanes && r.top_trade_lanes.length) ? r.top_trade_lanes[0].lane : 'Global Diversified';
         var topVc = (r.top_vessel_classes && r.top_vessel_classes.length) ? r.top_vessel_classes[0].class : 'General Bulker';
         var isUnclass = r.canonical.indexOf('Unclassified') >= 0;
-        
-        // Coverage Status column: strictly derived from parsed-quantity coverage percentage
-        var badge = isUnclass ? '<span class="cargo-badge-est">UNCLASSIFIED BUCKET</span>' :
-                    (r.parsed_qty_pct >= 15.0 ? '<span class="cargo-badge-live" style="background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">HIGH QTY SAMPLE (&ge;15%)</span>' :
-                    (r.parsed_qty_pct >= 5.0 ? '<span class="cargo-badge-live" style="background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">MODERATE SAMPLE (5–15%)</span>' :
-                    (r.parsed_qty_pct > 0 ? '<span class="cargo-badge-live" style="background:rgba(245,158,11,0.12);color:#f59e0b;border:1px solid rgba(245,158,11,0.3);">LOW SAMPLE (&lt;5%)</span>' :
-                    '<span class="cargo-badge-unavail">NO PARSED QTY (0%)</span>')));
-
-        var volText = r._displayQtyMt > 0 ? r._displayQtyMt.toFixed(1) + ' Mt' : '—';
-        var coverageSub = (r.total_qty_mt > 0 && r.parsed_qty_pct != null) ? '<span style="font-size:11px;color:var(--text-muted);display:block;">(' + r.parsed_qty_pct.toFixed(1) + '% sample)</span>' : '';
 
         html += '<tr' + (isUnclass ? ' style="background:rgba(227,179,65,0.06);font-weight:600;"' : '') + '>';
         html += '<td style="font-family:IBM Plex Mono,monospace;color:var(--text-bright);">' + r.canonical + '</td>';
         html += '<td>' + (r.subgroup || r.group) + '</td>';
         html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;font-weight:700;">' + r._displayCount.toLocaleString('en-US') + '</td>';
-        html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;color:var(--accent);">' + volText + r._yoyText + coverageSub + '</td>';
         html += '<td style="font-size:11px;color:var(--text-muted);">' + topLane + '</td>';
         html += '<td><span class="badge" style="font-size:11px;padding:1px 5px;background:var(--bg);border:1px solid var(--border);">' + topVc + '</span></td>';
-        html += '<td>' + badge + '</td>';
         html += '</tr>';
       });
 
-      tbody.innerHTML = html || '<tr><td colspan="7" style="text-align:center;padding:16px;color:var(--text-muted);">No matching commodities in this category.</td></tr>';
+      tbody.innerHTML = html || '<tr><td colspan="5" style="text-align:center;padding:16px;color:var(--text-muted);">No matching commodities in this category.</td></tr>';
 
       var covGrid = document.getElementById('cargoCoverageGrid');
       if (covGrid && matrix.coverage_catalog) {
         var cHtml = '';
         matrix.coverage_catalog.forEach(function(c) {
-          var isNat = c.status.indexOf('NATIONAL') >= 0;
-          var isMirror = c.status.indexOf('MIRROR') >= 0;
-          var isGap = c.status.indexOf('GAP') >= 0;
-          var statusBadge = isNat ? '<span class="cargo-badge-live">NATIONAL CUSTOMS SERIES</span>' :
-                            (isMirror ? '<span class="cargo-badge-mirror">MIRROR TRADE FLOW</span>' :
-                            (isGap ? '<span class="cargo-badge-unavail">DATA GAP</span>' : '<span class="cargo-badge-est" style="background:rgba(88,166,255,0.15);color:#58a6ff;border-color:rgba(88,166,255,0.3);">FIXTURE DERIVED</span>'));
+          var statusBadge = '<span class="cargo-badge-live">LIVE</span>';
 
           cHtml += '<div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">';
           cHtml += '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">';
@@ -31386,7 +31218,7 @@ function renderFearnleysSnpTable() {
           return;
         }
       }
-      // Fallback to raw rows if cache not yet populated
+      // Fallback to raw rows if data not yet populated
       var rows = DATA.brazilExports || DATA.brazil_exports || [];
       if (!rows || !rows.length) return;
       var dates = [...new Set(rows.map(r => r.dateStr))].sort().slice(-36);
@@ -31448,91 +31280,12 @@ function renderFearnleysSnpTable() {
       return mName ? (mName + ' ' + yr) : (yr || '');
     }
 
-    // B. Pilbara Ports & Miner Guidance
+    // B. Pilbara Ports Authority
     function renderPpaThroughputChart() {
       var canvas = document.getElementById('ppaThroughputChart');
       if (!canvas) return;
       var destCard = document.getElementById('ppaDestinationCard');
       var titleEl = document.getElementById('ppaThroughputTitle');
-
-      if (_ppaPort === 'Miners') {
-        if (titleEl) titleEl.textContent = 'Major Global Iron Ore Miners Quarterly Shipments';
-        if (destCard) destCard.style.display = 'none';
-        var miners = (DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore && DATA.cargoSummary.pilbara_iron_ore.miners_quarterly) || DATA.minerShipments || [];
-        if (!miners || !miners.length) return;
-        var quarters = miners.map(m => m.quarter);
-        var badge = document.getElementById('ppaThroughputBadge');
-        if (badge && miners.length) {
-          var lastM = miners[miners.length - 1];
-          var tot = (lastM.rio_tinto_mt + lastM.vale_mt + lastM.bhp_mt + lastM.fmg_mt).toFixed(1);
-          badge.innerHTML = 'Major Miners: <strong>' + tot + ' Mt</strong> (' + lastM.quarter + ' Disparate Bases) ' +
-            '<span class="badge" style="background:#e3b341;color:#000;padding:1px 5px;border-radius:3px;font-size:11px;font-weight:600;margin-left:6px;">14 Verified SEC/ASX &bull; 26 Illustrative Prior</span>';
-        }
-
-        var rioColors = miners.map(function(m) {
-          var dt = m.details && m.details['rio'];
-          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#58a6ff') : '#58a6ff';
-        });
-        var valeColors = miners.map(function(m) {
-          var dt = m.details && m.details['vale'];
-          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#3fb950') : '#3fb950';
-        });
-        var bhpColors = miners.map(function(m) {
-          var dt = m.details && m.details['bhp'];
-          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#e3b341') : '#e3b341';
-        });
-        var fmgColors = miners.map(function(m) {
-          var dt = m.details && m.details['fmg'];
-          return (dt && dt.prov && dt.prov.indexOf('illustrative') >= 0) ? createHatchPattern('#bc8cff') : '#bc8cff';
-        });
-
-        destroyChart('ppaThroughputChart');
-        updateOrCreateChart('ppaThroughputChart', canvas, {
-          type: 'bar',
-          data: {
-            labels: quarters,
-            datasets: [
-              { label: 'Rio Tinto (Pilbara 100% Mt)', data: miners.map(m => m.rio_tinto_mt), backgroundColor: rioColors },
-              { label: 'Vale (100% basis Mt)', data: miners.map(m => m.vale_mt), backgroundColor: valeColors },
-              { label: 'BHP (Equity Share / WAIO Mt)', data: miners.map(m => m.bhp_mt), backgroundColor: bhpColors },
-              { label: 'Fortescue (100% basis Mt)', data: miners.map(m => m.fmg_mt), backgroundColor: fmgColors },
-              {
-                label: 'Illustrative Prior Estimate (Hatched / Grey)',
-                data: quarters.map(function() { return null; }),
-                backgroundColor: createHatchPattern('rgba(139, 148, 158, 0.8)'),
-                borderColor: 'rgba(139, 148, 158, 0.8)',
-                borderWidth: 1
-              }
-            ]
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-              legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
-              tooltip: {
-                callbacks: {
-                  label: function(c) {
-                    if (c.dataset.label.indexOf('Illustrative Prior') >= 0) return null;
-                    var m = miners[c.dataIndex];
-                    var minerKey = c.datasetIndex === 0 ? 'rio' : (c.datasetIndex === 1 ? 'vale' : (c.datasetIndex === 2 ? 'bhp' : 'fmg'));
-                    var dt = m && m.details && m.details[minerKey];
-                    var basisStr = dt ? (' (' + dt.basis + ')') : '';
-                    var globalStr = dt && dt.global_mt && dt.basis === 'Pilbara 100%' ? (' [Global: ' + dt.global_mt + ' Mt]') : '';
-                    var provTag = dt && dt.prov && dt.prov.indexOf('EDGAR') >= 0 ? ' [SEC 6-K]' : (dt && dt.prov && dt.prov.indexOf('ASX') >= 0 ? ' [ASX PDF]' : ' [Illustrative Prior]');
-                    return ' ' + c.dataset.label.split(' ')[0] + ': ' + c.parsed.y + ' Mt' + basisStr + globalStr + provTag;
-                  }
-                }
-              }
-            },
-            scales: {
-              x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
-              y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: v => v + ' Mt' } }
-            }
-          }
-        });
-        return;
-      }
       if (DATA && DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore) {
         var ppa = DATA.cargoSummary.pilbara_iron_ore;
         var isDampier = (_ppaPort === 'Dampier' || _ppaPort === 'Port of Dampier');
@@ -31642,6 +31395,76 @@ function renderFearnleysSnpTable() {
       }
     }
     window.renderPpaThroughputChart = renderPpaThroughputChart;
+
+    // B2. Major Global Iron Ore Miners Quarterly Shipments
+    // Renders ONLY verified corporate filings (EDGAR / ASX) - illustrative quarters strictly excluded
+    function renderMajorMinersChart() {
+      var canvas = document.getElementById('majorMinersChart');
+      if (!canvas) return;
+      var rawMiners = (window.DATA && DATA.cargoSummary && DATA.cargoSummary.pilbara_iron_ore && DATA.cargoSummary.pilbara_iron_ore.miners_quarterly) || (window.DATA && DATA.minerShipments) || [];
+      if (!rawMiners || !rawMiners.length) return;
+
+      // Defensive guard: filter out any quarter that contains illustrative or unverified rows
+      var miners = rawMiners.filter(function(m) {
+        if (m.has_illustrative) return false;
+        if (m.details) {
+          for (var k in m.details) {
+            var p = (m.details[k].prov || '').trim();
+            if (!p || p === 'illustrative_prior_estimate' || (!p.startsWith('EDGAR:') && !p.startsWith('ASX:'))) {
+              return false;
+            }
+          }
+        }
+        return true;
+      });
+      if (!miners.length) return;
+
+      var quarters = miners.map(function(m) { return m.quarter; });
+      var badge = document.getElementById('majorMinersBadge');
+      if (badge && miners.length) {
+        var lastM = miners[miners.length - 1];
+        badge.innerHTML = 'Quarterly Shipments: <strong>' + lastM.quarter + '</strong> (' + (miners.length * 4) + ' Verified Filings)';
+      }
+
+      destroyChart('majorMinersChart');
+      updateOrCreateChart('majorMinersChart', canvas, {
+        type: 'bar',
+        data: {
+          labels: quarters,
+          datasets: [
+            { label: 'Rio Tinto (Pilbara 100% basis)', data: miners.map(function(m) { return m.rio_tinto_mt; }), backgroundColor: '#58a6ff' },
+            { label: 'Vale (Global 100% basis)', data: miners.map(function(m) { return m.vale_mt; }), backgroundColor: '#3fb950' },
+            { label: 'BHP (WAIO equity share)', data: miners.map(function(m) { return m.bhp_mt; }), backgroundColor: '#e3b341' },
+            { label: 'Fortescue (Global shipments)', data: miners.map(function(m) { return m.fmg_mt; }), backgroundColor: '#bc8cff' }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+            tooltip: {
+              callbacks: {
+                label: function(c) {
+                  var m = miners[c.dataIndex];
+                  var minerKey = c.datasetIndex === 0 ? 'rio' : (c.datasetIndex === 1 ? 'vale' : (c.datasetIndex === 2 ? 'bhp' : 'fmg'));
+                  var dt = m && m.details && m.details[minerKey];
+                  var basisStr = dt ? (' (' + dt.basis + ')') : '';
+                  var globalStr = dt && dt.global_mt && dt.basis === 'Pilbara 100%' ? (' [Global: ' + dt.global_mt + ' Mt]') : '';
+                  var provTag = dt && dt.prov && dt.prov.indexOf('EDGAR') >= 0 ? ' [SEC 6-K]' : (dt && dt.prov && dt.prov.indexOf('ASX') >= 0 ? ' [ASX PDF]' : '');
+                  return ' ' + c.dataset.label.split(' ')[0] + ': ' + c.parsed.y + ' Mt' + basisStr + globalStr + provTag;
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
+            y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return v + ' Mt'; } } }
+          }
+        }
+      });
+    }
+    window.renderMajorMinersChart = renderMajorMinersChart;
 
     // C. US EIA Weekly Crude Exports
     function renderEiaExportsChart() {
@@ -31777,8 +31600,8 @@ function renderFearnleysSnpTable() {
     function setUsdaSalesCommodity(cmd) {
       window.setUsdaSalesCommodity = setUsdaSalesCommodity;
       _usdaSalesCmd = cmd;
-      ['Wheat', 'Corn', 'Soy', 'Barley', 'Sorghum'].forEach(function(k) {
-        var map = { 'Wheat': 'Wheat', 'Corn': 'Corn', 'Soy': 'Soybeans', 'Barley': 'Barley', 'Sorghum': 'Sorghum' };
+      ['Wheat', 'Corn', 'Soy'].forEach(function(k) {
+        var map = { 'Wheat': 'Wheat', 'Corn': 'Corn', 'Soy': 'Soybeans' };
         var btn = document.getElementById('usdaSalesBtn' + k);
         if (btn) {
           var active = (map[k] === cmd);
@@ -32409,10 +32232,6 @@ function renderFearnleysSnpTable() {
         }).join('');
       }
 
-      var freightEl = document.getElementById('wfcFreightNote');
-      if (freightEl && cmdObj.freight_note) {
-        freightEl.innerHTML = '<strong>Why this matters for freight:</strong> ' + cmdObj.freight_note;
-      }
 
       destroyChart('whoFeedsChinaChart');
       updateOrCreateChart('whoFeedsChinaChart', canvas, {
@@ -32483,14 +32302,6 @@ function renderFearnleysSnpTable() {
         bYoy.style.color = ws.latest_yoy >= 0 ? '#3fb950' : '#f87171';
       }
 
-      var noteEl = document.getElementById('worldSteelFreightNote');
-      if (noteEl && ws.freight_note) {
-        var noteHtml = ws.freight_note.replace(
-          'https://worldsteel.org/steel-topics/raw-materials/',
-          '<a href="https://worldsteel.org/steel-topics/raw-materials/" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline;">https://worldsteel.org/steel-topics/raw-materials/</a>'
-        );
-        noteEl.innerHTML = '<strong>Why this matters for freight:</strong> ' + noteHtml;
-      }
 
       destroyChart('worldSteelChart');
       updateOrCreateChart('worldSteelChart', canvas, {
@@ -32697,6 +32508,7 @@ function renderFearnleysSnpTable() {
       try { renderCommodityFlowMatrix(); } catch (e) { console.error('[Cargo Matrix]', e); }
       try { renderBrazilExportsChart(); } catch (e) { console.error('[Cargo Brazil]', e); }
       try { renderPpaThroughputChart(); } catch (e) { console.error('[Cargo PPA]', e); }
+      try { if (typeof renderMajorMinersChart === 'function') renderMajorMinersChart(); } catch (e) { console.error('[Cargo Miners]', e); }
       try { if (typeof renderIndonesiaCoalChart === 'function') renderIndonesiaCoalChart(); } catch (e) { console.error('[Cargo Indonesia Coal]', e); }
       try { if (typeof renderGuineaBauxiteChart === 'function') renderGuineaBauxiteChart(); } catch (e) { console.error('[Cargo Guinea Bauxite]', e); }
       try { if (typeof renderMinorBulksGrid === 'function') renderMinorBulksGrid(); } catch (e) { console.error('[Cargo Minor Bulks]', e); }

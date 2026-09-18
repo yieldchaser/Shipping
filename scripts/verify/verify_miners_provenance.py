@@ -154,17 +154,25 @@ def verify_field_in_text(val_str: str, text: str, field_name: str = "") -> tuple
 # Main
 # ─────────────────────────────────────────────────────────────────────────────
 
+import argparse
+
+
 def main() -> int:
     logger.info("=" * 80)
     logger.info("  MINERS PROVENANCE VERIFICATION — CSV-DRIVEN (no hardcoded expectations)")
     logger.info("=" * 80)
 
-    if not MINERS_CSV.exists():
-        logger.error("CSV not found: %s", MINERS_CSV)
+    parser = argparse.ArgumentParser(description="Verify miners provenance")
+    parser.add_argument("--csv", type=str, default=str(MINERS_CSV), help="Path to miners CSV")
+    args = parser.parse_args()
+
+    csv_path = Path(args.csv)
+    if not csv_path.exists():
+        logger.error("CSV not found: %s", csv_path)
         return 1
 
-    df = pd.read_csv(MINERS_CSV, dtype=str)
-    logger.info("Loaded %d rows from %s", len(df), MINERS_CSV.name)
+    df = pd.read_csv(csv_path, dtype=str)
+    logger.info("Loaded %d rows from %s", len(df), csv_path.name)
 
     results: list[dict] = []
     _text_cache: dict[str, str] = {}
@@ -178,12 +186,12 @@ def main() -> int:
 
         row_id = f"{miner} {quarter}"
 
-        # ── Skip illustrative rows ────────────────────────────────────
-        if prov == "illustrative_prior_estimate" or not prov:
+        # ── Fail any row without a valid filing citation ─────────────
+        if not prov or prov == "illustrative_prior_estimate" or not (prov.startswith("EDGAR:") or prov.startswith("ASX:")):
             results.append({
                 "id": row_id,
-                "status": "SKIP",
-                "detail": "illustrative_prior_estimate — no filing to verify"
+                "status": "FAIL",
+                "detail": f"Unverifiable provenance '{prov}' — must be a resolvable corporate filing citation (EDGAR: or ASX:)"
             })
             continue
 
@@ -261,16 +269,15 @@ def main() -> int:
 
     pass_count = sum(1 for r in results if r["status"] == "PASS")
     fail_count = sum(1 for r in results if r["status"] == "FAIL")
-    skip_count = sum(1 for r in results if r["status"] == "SKIP")
     total_count = len(results)
 
-    print(f"\nVERIFICATION SUMMARY: {pass_count} PASS / {fail_count} FAIL / {skip_count} SKIP  (total {total_count} rows)")
+    print(f"\nVERIFICATION SUMMARY: {pass_count} PASS / {fail_count} FAIL / 0 SKIP  (total {total_count} rows)")
 
     if fail_count > 0:
         logger.error("Verification FAILED: %d row(s) could not be verified from filing.", fail_count)
         return 1
 
-    logger.info("All %d verifiable rows PASSED primary filing confirmation.", pass_count)
+    logger.info("All %d rows PASSED primary filing confirmation.", pass_count)
     return 0
 
 
