@@ -32541,8 +32541,14 @@ function renderFearnleysSnpTable() {
       var oreEl = document.getElementById('cargoHudIronOre');
       if (oreEl) oreEl.textContent = (pVal > 0 ? pVal.toFixed(1) + ' Mt/mo' : '59.4 Mt/mo');
       var oreSub = document.getElementById('cargoHudIronOreSub');
-      var hedVal = (cs.pilbara_iron_ore && cs.pilbara_iron_ore.hedland_total_monthly_raw && cs.pilbara_iron_ore.hedland_total_monthly_raw['2026-08']) || 46.6;
-      var dampVal = (cs.pilbara_iron_ore && cs.pilbara_iron_ore.dampier_iron_ore_monthly_raw && cs.pilbara_iron_ore.dampier_iron_ore_monthly_raw['2026-08']) || 12.8;
+      var hedMap = (cs.pilbara_iron_ore && cs.pilbara_iron_ore.hedland_total_monthly_raw) || {};
+      var hedKeys = Object.keys(hedMap).sort();
+      var hedVal = hedKeys.length ? (hedMap[hedKeys[hedKeys.length - 1]] || 46.6) : 46.6;
+
+      var dampMap = (cs.pilbara_iron_ore && cs.pilbara_iron_ore.dampier_iron_ore_monthly_raw) || {};
+      var dampKeys = Object.keys(dampMap).sort();
+      var dampVal = dampKeys.length ? (dampMap[dampKeys[dampKeys.length - 1]] || 12.8) : 12.8;
+
       if (oreSub) oreSub.textContent = 'Port Hedland: ' + Number(hedVal).toFixed(1) + ' Mt | Dampier: ' + Number(dampVal).toFixed(1) + ' Mt';
 
       var usdaExp = cs.usda_export_commitments;
@@ -32557,7 +32563,8 @@ function renderFearnleysSnpTable() {
       });
       if (!totalCommitmentsMt || totalCommitmentsMt === 0) totalCommitmentsMt = 37.2;
       if (grainEl) grainEl.textContent = totalCommitmentsMt.toFixed(1) + ' Mt';
-      if (grainSub) grainSub.textContent = 'Week ending 2026-09-03 (FAS Outstanding)';
+      var asOfDate = (usdaExp && usdaExp.provenance && (usdaExp.provenance.as_of || usdaExp.provenance.max_date)) || '2026-09-03';
+      if (grainSub) grainSub.textContent = 'Week ending ' + asOfDate + ' (FAS Outstanding)';
 
       var fixEl = document.getElementById('cargoHudFixtures');
       var fixSub = document.getElementById('cargoHudFixturesSub');
@@ -48378,11 +48385,27 @@ function escapeHtml(str) {
         }
         else if (type === 'cargo-generic-card') {
           const title = target.getAttribute('data-tt-title') || 'Trade Flow Indicator';
-          const val = target.getAttribute('data-tt-val') || '';
-          const sub = target.getAttribute('data-tt-sub') || '';
+          let val = target.getAttribute('data-tt-val') || '';
+          let sub = target.getAttribute('data-tt-sub') || '';
           const vessel = target.getAttribute('data-tt-vessel') || '';
           const source = target.getAttribute('data-tt-source') || '';
           const note = target.getAttribute('data-tt-note') || '';
+
+          // Dynamically track live updated text if hovering a dynamic badge or card
+          const badgeEl = (target.id && (target.id.toLowerCase().includes('badge') || target.id.toLowerCase().includes('title'))) ? target : 
+                          (target.querySelector ? target.querySelector('.kpi-badge, .badge, .cargo-badge-live, [id$="Badge"]') : null);
+          if (badgeEl && badgeEl.textContent && badgeEl.textContent.trim()) {
+            const cleanText = badgeEl.textContent.replace(/\s+/g, ' ').trim();
+            if (cleanText && cleanText !== '—' && !cleanText.includes('LIVE') && cleanText.length < 90) {
+              val = cleanText;
+            }
+          } else if ((target.classList.contains('badge') || target.classList.contains('kpi-badge')) && target.textContent && target.textContent.trim()) {
+            const cleanText = target.textContent.replace(/\s+/g, ' ').trim();
+            if (cleanText && cleanText !== '—' && !cleanText.includes('LIVE') && cleanText.length < 90) {
+              val = cleanText;
+            }
+          }
+
           html = `<div class="rt-title">${title}</div>`;
           if (val) html += `<div class="rt-row"><span class="rt-label">Current Metric</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
           if (sub) html += `<div class="rt-row"><span class="rt-label">Context / Subtitle</span><span class="rt-val">${sub}</span></div>`;
