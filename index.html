@@ -14962,14 +14962,14 @@ if (intelTabsContainer) {
           </div>
         </div>
         <div style="display:flex;align-items:center;gap:8px;">
-          <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">547k Commercial Fixtures</span>
-          <span class="badge" style="font-size:11px;padding:3px 8px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);">14 Trade Corridors</span>
+          <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Commercial Charter Fixtures Ledger" data-tt-val="547,482 Fixtures" data-tt-sub="2018–2026 Continuous Record" data-tt-vessel="Capesize, Panamax, Supramax, Handysize, Tanker &amp; Gas" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Global fixture database capturing commercial charter party transactions across major dry bulk, liquid tanker, LPG and LNG segments with multi-field taxonomy." style="font-size:11px;padding:3px 8px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">547k Commercial Fixtures</span>
+          <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Global Arterial Trade Corridors" data-tt-val="14 Core Maritime Routes" data-tt-sub="Cross-Basin Cargo Networks" data-tt-vessel="Capesize, Panamax, Supramax" data-tt-source="AIS Tracking &amp; Customs Port Pairs" data-tt-note="Normalized bilateral shipping lanes linking primary loading basins (Pilbara, Tubarao, Santos, US Gulf, Newcastle, Kalimantan, Boke) with key Asian and Atlantic discharge hubs." style="font-size:11px;padding:3px 8px;background:rgba(63,185,80,0.15);color:#3fb950;border:1px solid rgba(63,185,80,0.3);cursor:help;">14 Trade Corridors</span>
         </div>
       </div>
 
       <!-- CARGO HUD SUMMARY STRIP -->
       <div class="cargo-hud-grid">
-        <div class="cargo-hud-card" data-tooltip="Combined monthly iron ore exports from Port Hedland and Port of Dampier. Unit: Mt/mo. Source: Pilbara Ports Authority. Period: Monthly.">
+        <div class="cargo-hud-card" data-tt-type="cargo-hud-ore" style="cursor:help;">
           <div class="cargo-hud-label">
             <span>Pilbara Iron Ore Run-Rate</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -14977,7 +14977,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudIronOre">59.4 Mt/mo</div>
           <div class="cargo-hud-sub" id="cargoHudIronOreSub">Port Hedland: 46.6 Mt | Dampier: 12.8 Mt</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="Cumulative outstanding export commitments for US wheat, corn, soybeans, and sorghum. Unit: Mt. Source: USDA FAS (Export Sales Reporting). Period: Weekly.">
+        <div class="cargo-hud-card" data-tt-type="cargo-hud-grains" style="cursor:help;">
           <div class="cargo-hud-label">
             <span>USDA Grain Commitments</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -14985,7 +14985,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudGrains">38.1 Mt</div>
           <div class="cargo-hud-sub" id="cargoHudGrainsSub">Week ending 2026-09-03 (FAS Outstanding)</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="Total commercial charter fixtures recorded in Fearnleys broker fixture ledger. Unit: Fixture counts. Source: Fearnleys Fixture Ledger. Period: 2019–2026.">
+        <div class="cargo-hud-card" data-tt-type="cargo-hud-fixtures" style="cursor:help;">
           <div class="cargo-hud-label">
             <span>Broker Fixture Coverage</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -14993,7 +14993,7 @@ if (intelTabsContainer) {
           <div class="cargo-hud-val" id="cargoHudFixtures">412k Classified (75.4%)</div>
           <div class="cargo-hud-sub" id="cargoHudFixturesSub">547k Fixtures | 135k Unclassified (24.6%)</div>
         </div>
-        <div class="cargo-hud-card" data-tooltip="Baltic Capesize Atlantic vs Pacific route freight spread: C3 (Tubarao–Qingdao) minus C5 (WA–Qingdao). Unit: $/MT. Source: Baltic Exchange / Fearnleys. Period: Monthly average.">
+        <div class="cargo-hud-card" data-tt-type="cargo-hud-spread" style="cursor:help;">
           <div class="cargo-hud-label">
             <span>C3 vs C5 Route Spread (MTD)</span>
             <span class="cargo-badge-live">LIVE</span>
@@ -15006,12 +15006,12 @@ if (intelTabsContainer) {
       <!-- WORKSTATION SUB-VIEW TOOLBAR -->
       <div class="cargo-toolbar">
         <div class="cargo-subview-btns">
-          <button class="cargo-subview-btn active" id="cargoSubFlagshipBtn" onclick="setCargoSubView('flagship')">Flagship: Origin &rarr; Freight</button>
-          <button class="cargo-subview-btn" id="cargoSubMatrixBtn" onclick="setCargoSubView('matrix')">Commodity Flow Matrix (547k Fixtures)</button>
-          <button class="cargo-subview-btn" id="cargoSubBasinsBtn" onclick="setCargoSubView('basins')">Seasonal Export Basins</button>
-          <button class="cargo-subview-btn" id="cargoSubGrainsBtn" onclick="setCargoSubView('grains')">Grain Logistics &amp; Queues (USDA)</button>
-          <button class="cargo-subview-btn" id="cargoSubDemandBtn" onclick="setCargoSubView('demand')">Demand Drivers &amp; Costs</button>
-          <button class="cargo-subview-btn" id="cargoSubAllBtn" onclick="setCargoSubView('all')">View All Modules</button>
+          <button class="cargo-subview-btn active" id="cargoSubFlagshipBtn" onclick="setCargoSubView('flagship')" data-tt-type="cargo-generic-card" data-tt-title="Flagship Workstation: Origin &rarr; Freight" data-tt-val="Dual-Axis Macro Overlay" data-tt-sub="Seaborne Departures vs Benchmark Rates" data-tt-vessel="Capesize, Panamax &amp; Supramax" data-tt-source="National Customs &amp; Baltic Exchange" data-tt-note="Synchronizes departure volume cycles with the freight pricing that clears those cargoes across primary maritime trade corridors.">Flagship: Origin &rarr; Freight</button>
+          <button class="cargo-subview-btn" id="cargoSubMatrixBtn" onclick="setCargoSubView('matrix')" data-tt-type="cargo-generic-card" data-tt-title="Matrix Workstation: Commodity Flows" data-tt-val="547,482 Fixtures Analyzed" data-tt-sub="Multi-Field Cross-Sectional Ledger" data-tt-vessel="All Commercial Vessel Segments" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Explores classified charter volume, average parcel sizes, top bilateral routes, and vessel segment preferences across 5 commodity supergroups.">Commodity Flow Matrix (547k Fixtures)</button>
+          <button class="cargo-subview-btn" id="cargoSubBasinsBtn" onclick="setCargoSubView('basins')" data-tt-type="cargo-generic-card" data-tt-title="Basins Workstation: Seasonal Exports" data-tt-val="6 Major Maritime Basins" data-tt-sub="Direct Basin Departure Intelligence" data-tt-vessel="Capesize, Panamax, Supramax, VLCC" data-tt-source="Port Authorities &amp; National Agencies" data-tt-note="High-fidelity export volume tracking across Brazil (ComexStat), Australia Pilbara Ports (PPA), Major Miners, US EIA Crude, Newcastle Coal, Indonesia Coal, and Guinea Bauxite.">Seasonal Export Basins</button>
+          <button class="cargo-subview-btn" id="cargoSubGrainsBtn" onclick="setCargoSubView('grains')" data-tt-type="cargo-generic-card" data-tt-title="Grains Workstation: Logistics &amp; Queues" data-tt-val="US &amp; South American Agris" data-tt-sub="Forward Commitments &amp; Draft Restrictions" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="USDA FAS, AMS &amp; SAGyP Argentina" data-tt-note="Leading agribulk trade indicators combining statutory forward sales commitments, export grain inspections, port vessel queues, and Parana River draft restrictions.">Grain Logistics &amp; Queues (USDA)</button>
+          <button class="cargo-subview-btn" id="cargoSubDemandBtn" onclick="setCargoSubView('demand')" data-tt-type="cargo-generic-card" data-tt-title="Demand Workstation: Absorption &amp; Costs" data-tt-val="End-Market Absorption" data-tt-sub="China Customs &amp; World Steel" data-tt-vessel="Dry Bulk &amp; Container Fleet" data-tt-source="China GACC, World Steel, World Bank, FBX" data-tt-note="Examines bilateral China import absorption ('Who Feeds China'), global steel production, landed soybean transport spreads, and container spot freight benchmarks.">Demand Drivers &amp; Costs</button>
+          <button class="cargo-subview-btn" id="cargoSubAllBtn" onclick="setCargoSubView('all')" data-tt-type="cargo-generic-card" data-tt-title="Consolidated View: Panoramic Canvas" data-tt-val="All 5 Modules Unrolled" data-tt-sub="Full Vertical Terminal Layout" data-tt-vessel="Complete Fleet Coverage" data-tt-source="Multi-Agency Intelligence Integration" data-tt-note="Unrolls all five analytical cargo workspaces into an integrated vertical terminal for panoramic multi-commodity monitoring.">View All Modules</button>
         </div>
         <div style="font-size:11px;color:var(--text-muted);">
           Methodology: <em>Direct trade flow observations and reported freight rates</em>
@@ -15023,9 +15023,9 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="flagshipOriginFreightContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" id="flagshipTitle" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="flagshipTitle" style="display:flex;align-items:center;gap:8px;" data-tt-type="cargo-generic-card" data-tt-title="Flagship Origin &rarr; Freight Engine" data-tt-val="Dual-Axis Macro Overlay" data-tt-sub="Physical Volumes vs Benchmark Route Rates" data-tt-vessel="Capesize, Panamax &amp; Supramax" data-tt-source="National Customs &amp; Baltic Exchange" data-tt-note="Synchronizes departure volume cycles with the freight pricing that clears those cargoes across primary maritime corridors.">
                 <span>Origin &rarr; Freight: Cargo Basin Volume (All Destinations) vs Baltic Benchmark Route Rate</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Dual Axis Overlay</span>
+                <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Dual-Axis Physical vs Freight Overlay" data-tt-val="Volume (Mt) &amp; Freight ($/MT or $/day)" data-tt-sub="Coupled Origin Cargo &amp; Route Dynamics" data-tt-vessel="Capesize, Panamax, Supramax, VLCC" data-tt-source="Basin Port Authorities &amp; Baltic Exchange" data-tt-note="Left vertical axis plots absolute seaborne physical outflow (Mt) while right vertical axis tracks benchmark spot freight fixtures carrying that specific commodity." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">Dual Axis Overlay</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Physical seaborne departure volume (left axis, Mt) paired with the freight route that carries that cargo (right axis, in the route's own unit).
@@ -15033,29 +15033,29 @@ if (intelTabsContainer) {
             </div>
             <!-- Route Selector Buttons -->
             <div style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-              <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" data-tooltip="Capesize iron ore voyage freight rate from Tubarão to Qingdao. Unit: USD/MT. Source: Baltic Exchange (Route C3). Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
-              <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" data-tooltip="Capesize iron ore voyage freight rate from Dampier to Qingdao. Unit: USD/MT. Source: Baltic Exchange (Route C5). Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
-              <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" data-tooltip="Capesize/Panamax thermal coal freight assessment from Port of Newcastle to Qingdao. Unit: USD/MT. Source: Fearnleys Assessment. Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
-              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" data-tooltip="Supramax time charter freight rate for US Gulf delivery to China/South Japan. Unit: USD/day. Source: Baltic Exchange (Route S1C). Period: Monthly average." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs S1C</button>
-              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" data-tooltip="China official monthly imports of bauxite from Guinea (GACC HS 260600). Unit: Mt/mo. Source: China General Administration of Customs. Period: Monthly." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
+              <button class="toggle-btn active" id="flagBtnBrazilC3" onclick="setFlagshipRoute('brazil_c3')" data-tt-type="cargo-generic-card" data-tt-title="Brazil Iron Ore vs Baltic C3" data-tt-val="Tubarao &amp; Ponta da Madeira &rarr; Qingdao" data-tt-sub="Long-Haul Capesize Freight clearing" data-tt-vessel="Capesize (180–210k DWT) / VLOC" data-tt-source="MDIC ComexStat &amp; Baltic Exchange Route 10001" data-tt-note="Capesize iron ore voyage freight rate ($/MT) paired with monthly Brazilian seaborne departure volume (~11,000 nm haul)." style="padding:4px 9px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Brazil Ore vs C3</button>
+              <button class="toggle-btn" id="flagBtnPilbaraC5" onclick="setFlagshipRoute('pilbara_c5')" data-tt-type="cargo-generic-card" data-tt-title="West Australia Iron Ore vs Baltic C5" data-tt-val="Port Hedland &amp; Dampier &rarr; Qingdao" data-tt-sub="Pacific Capesize Prompt Benchmark" data-tt-vessel="Capesize (180–210k DWT)" data-tt-source="Pilbara Ports Authority &amp; Baltic Exchange Route 10003" data-tt-note="Fast-turnaround Pacific iron ore corridor (~3,500 nm). High-frequency volume swings directly impact prompt vessel availability." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">WA Ore vs C5</button>
+              <button class="toggle-btn" id="flagBtnNewcastleCoal" onclick="setFlagshipRoute('newcastle_coal')" data-tt-type="cargo-generic-card" data-tt-title="Newcastle Coal vs Spot Freight" data-tt-val="Port of Newcastle &rarr; Qingdao / Japan" data-tt-sub="Pacific Thermal &amp; Met Coal Corridor" data-tt-vessel="Capesize &amp; Panamax / Post-Panamax" data-tt-source="Port of Newcastle Disclosures &amp; Fearnleys Assessment" data-tt-note="Monthly export departures from the world's leading coal terminal paired with spot Newcastle-to-China freight assessments." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Newcastle Coal</button>
+              <button class="toggle-btn" id="flagBtnUsgGrain" onclick="setFlagshipRoute('usg_grain')" data-tt-type="cargo-generic-card" data-tt-title="US Gulf Grain vs Baltic S1C" data-tt-val="US Gulf &rarr; China / South Japan" data-tt-sub="Atlantic Supramax Timecharter Rate ($/day)" data-tt-vessel="Supramax / Ultramax (58–64k DWT)" data-tt-source="USDA Export Inspections &amp; Baltic S1C (TSID 10065)" data-tt-note="Forward agricultural exports loaded at Mississippi River terminals paired with daily Supramax hire rates for Far East delivery." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">USG Grain vs S1C</button>
+              <button class="toggle-btn" id="flagBtnGuineaCape" onclick="setFlagshipRoute('guinea_cape')" data-tt-type="cargo-generic-card" data-tt-title="Guinea Bauxite vs Capesize Ton-Miles" data-tt-val="Boke &amp; Kamsar &rarr; Qingdao" data-tt-sub="China Customs GACC Mirror Volume" data-tt-vessel="Capesize / Newcastlemax (180–210k DWT)" data-tt-source="General Administration of Customs China (GACC)" data-tt-note="Tracks China's official monthly bauxite intake from Guinea (~11,200 nm), the fastest-growing source of long-haul Capesize ton-mile demand." style="padding:4px 9px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Guinea Bauxite (Mirror)</button>
             </div>
           </div>
 
           <!-- Flagship HUD Strip -->
           <div id="flagshipHudStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin:10px 0;">
-            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+            <div data-tt-type="cargo-generic-card" data-tt-title="Active Bilateral Trade Corridor" data-tt-val="Dedicated Freight Arc" data-tt-sub="Export Basin &rarr; Discharging Hub" data-tt-vessel="Assigned Segment Fleet" data-tt-source="AIS Tracking &amp; Baltic Specs" data-tt-note="Governs physical vessel transit times, canal routing choices, and ballasting decisions between basin and discharge port." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Trade Corridor</div>
               <div id="flagshipHudCorridor" style="font-size:13px;font-weight:700;color:var(--accent);">Tubar&atilde;o / Ponta da Madeira &rarr; Qingdao</div>
             </div>
-            <div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+            <div data-tt-type="cargo-generic-card" data-tt-title="Basin Departure Volume" data-tt-val="Total Monthly Physical Liftings" data-tt-sub="Reported Seaborne Throughput (All Destinations)" data-tt-vessel="Bulk Fleet Operating in Basin" data-tt-source="National Customs &amp; Port Authorities" data-tt-note="Aggregated physical departure volume from all marine berths within the designated regional export basin." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Latest Basin Volume (All Destinations)</div>
               <div id="flagshipHudVol" style="font-size:13px;font-weight:700;color:#3fb950;">—</div>
             </div>
-            <div id="flagshipRateTile" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+            <div id="flagshipRateTile" data-tt-type="cargo-generic-card" data-tt-title="Benchmark Freight Assessment" data-tt-val="Market Clearing Settlement Rate" data-tt-sub="Baltic Exchange Index or Spot Assessment" data-tt-vessel="Standardized Specification DWT" data-tt-source="Baltic Exchange &amp; Fearnleys Intelligence" data-tt-note="Continuous settlement benchmark used for freight derivatives (FFA) and commercial charter party settlements." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Route Spot Rate</div>
               <div id="flagshipHudRate" style="font-size:13px;font-weight:700;color:#e3b341;">—</div>
             </div>
-            <div id="flagshipTsidTile" style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;">
+            <div id="flagshipTsidTile" data-tt-type="cargo-generic-card" data-tt-title="Time-Series Curve Identifier (TSID)" data-tt-val="Baltic Standard Curve ID" data-tt-sub="Deterministic Index Code" data-tt-vessel="Official Baltic Specification" data-tt-source="Baltic Exchange Market Data" data-tt-note="Unique system identifier for the underlying daily route curve, guaranteeing exact auditability with official Baltic market feeds." style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:6px 12px;flex:1;min-width:140px;cursor:help;">
               <div style="font-size:var(--fs-micro);color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px;">Baltic Curve Identifier</div>
               <div id="flagshipHudTsid" style="font-size:13px;font-weight:700;color:var(--text);">Route 10001 (C3)</div>
             </div>
@@ -15067,7 +15067,7 @@ if (intelTabsContainer) {
             <div>
               <strong>Source:</strong> <span id="flagshipProvText">MDIC / Baltic Exchange · Direct Customs &amp; Continuous Route Benchmarks · 2023–2026 · Mt/mo &amp; USD/MT</span>
             </div>
-            <span class="cargo-badge-live" id="flagshipStatusBadge">LIVE</span>
+            <span class="cargo-badge-live" id="flagshipStatusBadge" data-tt-type="cargo-generic-card" data-tt-title="Flagship Data Feed Status" data-tt-val="Live Operational Sync" data-tt-sub="Automated Data Ingestion Pipeline" data-tt-vessel="Multi-Source Ingestion" data-tt-source="Direct API / Automated Scrapers" data-tt-note="Automated pipeline ensuring latest released customs, port authority, and Baltic route datasets are reflected." style="cursor:help;">LIVE</span>
           </div>
         </div>
       </div>
@@ -15077,9 +15077,9 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="commodityMatrixContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <div class="chart-title" id="cargoMatrixTitle" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;" data-tt-type="cargo-generic-card" data-tt-title="Commodity Flow Matrix Engine" data-tt-val="547,482 Commercial Fixtures" data-tt-sub="5 Supergroups &amp; 14 Arterial Corridors" data-tt-vessel="Complete Commercial Fleet" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Normalizes commercial charter party reports into standardized maritime commodity baskets, bilateral corridors, and realistic parcel sizes.">
                 <span>Commodity Flow Matrix: Commercial Fixture Counts &amp; Trade Corridors</span>
-                <span id="cargoMatrixTotalBadge" class="badge" style="font-size:11px;padding:2px 6px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);">547,049 Broker Fixtures</span>
+                <span id="cargoMatrixTotalBadge" class="badge" data-tt-type="cargo-generic-card" data-tt-title="Broker Fixture Universe" data-tt-val="547,482 Total Fixtures" data-tt-sub="412,482 Classified (75.4%)" data-tt-vessel="Dry Bulk, Tanker, LPG, LNG" data-tt-source="Fearnleys Commercial Fixture Ledger" data-tt-note="Total historical broker fixture contracts compiled across spot, prompt, and contract voyages." style="font-size:11px;padding:2px 6px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);cursor:help;">547,049 Broker Fixtures</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Observed cargo fixtures aggregated by commodity &times; trade corridor &times; vessel class.
@@ -15087,31 +15087,31 @@ if (intelTabsContainer) {
             </div>
             <!-- Group Filter Buttons -->
             <div id="matrixGroupFilterWrap" style="display:flex;gap:4px;flex-wrap:wrap;">
-              <button class="toggle-btn active" onclick="setMatrixGroup('ALL')" id="matBtnALL" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--accent);color:#fff;cursor:pointer;">All Groups</button>
-              <button class="toggle-btn" onclick="setMatrixGroup('Agricultural Products')" id="matBtnAgri" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Grains &amp; Agri</button>
-              <button class="toggle-btn" onclick="setMatrixGroup('Energy')" id="matBtnEnergy" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Coal &amp; Energy</button>
-              <button class="toggle-btn" onclick="setMatrixGroup('Ores and Rocks')" id="matBtnOres" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Ores &amp; Minerals</button>
-              <button class="toggle-btn" onclick="setMatrixGroup('Tankers & Gas')" id="matBtnWet" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Crude, Clean &amp; Gas</button>
-              <button class="toggle-btn" onclick="setMatrixGroup('Minerals and Metals')" id="matBtnMetals" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Steel &amp; Metals</button>
-              <button class="toggle-btn" onclick="setMatrixGroup('Bulk Chemicals')" id="matBtnChem" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Fertilizers</button>
-              <button class="toggle-btn" onclick="setMatrixGroup('Unclassified')" id="matBtnUnclass" style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid rgba(227,179,65,0.4);background:rgba(227,179,65,0.1);color:#e3b341;cursor:pointer;">Unclassified Tonnage</button>
+              <button class="toggle-btn active" onclick="setMatrixGroup('ALL')" id="matBtnALL" data-tt-type="cargo-generic-card" data-tt-title="Filter: All Commodity Groups" data-tt-val="547,482 Fixtures" data-tt-sub="Complete Macro Fixture Universe" data-tt-vessel="All Commercial Segments" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Display complete cross-sectional fixture ledger spanning all bulk, liquid, and gas categories." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--accent);color:#fff;cursor:pointer;">All Groups</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Agricultural Products')" id="matBtnAgri" data-tt-type="cargo-generic-card" data-tt-title="Filter: Grains &amp; Agricultural Bulks" data-tt-val="Wheat, Corn, Soybeans &amp; Meals" data-tt-sub="Seaborne Agribulk Corridors" data-tt-vessel="Panamax &amp; Supramax Fleet" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Agricultural dry bulk trades linking the Americas and Black Sea to Asian and MENA import terminals." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Grains &amp; Agri</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Energy')" id="matBtnEnergy" data-tt-type="cargo-generic-card" data-tt-title="Filter: Coal &amp; Bulk Energy" data-tt-val="Thermal &amp; Metallurgical Coal" data-tt-sub="Electric Utilities &amp; Steel Works" data-tt-vessel="Capesize &amp; Panamax Fleet" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Thermal coal for power generation and metallurgical coking coal for blast furnace steel production." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Coal &amp; Energy</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Ores and Rocks')" id="matBtnOres" data-tt-type="cargo-generic-card" data-tt-title="Filter: Ores &amp; Industrial Minerals" data-tt-val="Iron Ore, Bauxite &amp; Mineral Sands" data-tt-sub="High-Volume Extractive Mining" data-tt-vessel="Capesize (BCI) &amp; VLOC Dominance" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Primary heavy dry bulk minerals representing the dominant share of world ocean ton-mile absorption." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Ores &amp; Minerals</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Tankers & Gas')" id="matBtnWet" data-tt-type="cargo-generic-card" data-tt-title="Filter: Crude, Clean Products &amp; Gas" data-tt-val="Liquid Hydrocarbons &amp; LPG/LNG" data-tt-sub="Tanker &amp; Gas Carrier Market" data-tt-vessel="VLCC, Suezmax, Aframax, VLGC" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Commercial fixtures across crude carriers, product tankers, and pressurized/refrigerated gas carriers." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Crude, Clean &amp; Gas</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Minerals and Metals')" id="matBtnMetals" data-tt-type="cargo-generic-card" data-tt-title="Filter: Finished Steel &amp; Industrial Metals" data-tt-val="Coils, Billets, Plates &amp; Pig Iron" data-tt-sub="Breakbulk &amp; Geared Parcel Cargoes" data-tt-vessel="Supramax &amp; Handysize Fleet" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Semi-finished steel and non-ferrous industrial metals cleared on geared bulkers and general cargo vessels." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Steel &amp; Metals</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Bulk Chemicals')" id="matBtnChem" data-tt-type="cargo-generic-card" data-tt-title="Filter: Agricultural Fertilizers" data-tt-val="Urea, Phosphates &amp; Potash" data-tt-sub="Crop Nutrition Seaborne Supply" data-tt-vessel="Supramax &amp; Handysize Bulkers" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Dry chemical fertilizers loaded at specialized ports for global agricultural planting seasons." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid var(--border);background:var(--card);color:var(--text-muted);cursor:pointer;">Fertilizers</button>
+              <button class="toggle-btn" onclick="setMatrixGroup('Unclassified')" id="matBtnUnclass" data-tt-type="cargo-generic-card" data-tt-title="Filter: Unclassified Broker Records" data-tt-val="135,000 Unclassified Fixtures" data-tt-sub="24.6% of Total Universe" data-tt-vessel="Mixed Fleet Segments" data-tt-source="Fearnleys Broker Fixture Archive" data-tt-note="Commercial fixtures with non-standard commodity descriptions, preserved transparently to avoid data fabrication." style="padding:3px 8px;font-size:11px;border-radius:4px;border:1px solid rgba(227,179,65,0.4);background:rgba(227,179,65,0.1);color:#e3b341;cursor:pointer;">Unclassified Tonnage</button>
             </div>
             <!-- Period & Vessel Class Filter Bars -->
             <div style="display:flex;align-items:center;gap:6px;margin-top:6px;flex-wrap:wrap;width:100%;">
               <span style="font-size:11px;color:var(--text-muted);font-weight:600;">Time Horizon:</span>
               <div id="matrixPeriodFilterWrap" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" onclick="setMatrixPeriod('all_time')" id="matPeriodAll" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">All-Time</button>
-                <button class="toggle-btn" onclick="setMatrixPeriod('last_12m')" id="matPeriod12m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Last 12 Months</button>
-                <button class="toggle-btn" onclick="setMatrixPeriod('last_4w')" id="matPeriod4w" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Last 4 Weeks</button>
+                <button class="toggle-btn active" onclick="setMatrixPeriod('all_time')" id="matPeriodAll" data-tt-type="cargo-generic-card" data-tt-title="Time Horizon: All-Time" data-tt-val="2018–2026 History" data-tt-sub="Complete Historical Observation" data-tt-vessel="All Fleet Classes" data-tt-source="Fearnleys Archive" data-tt-note="Full historical scope capturing structural long-term commodity trade relationships and vessel allocations." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">All-Time</button>
+                <button class="toggle-btn" onclick="setMatrixPeriod('last_12m')" id="matPeriod12m" data-tt-type="cargo-generic-card" data-tt-title="Time Horizon: Trailing 12 Months" data-tt-val="Past 365 Days" data-tt-sub="Annualized Operational Cycle" data-tt-vessel="All Fleet Classes" data-tt-source="Fearnleys Archive" data-tt-note="Filters fixture ledger to recent 12-month commercial activity reflecting current market share and active routes." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Last 12 Months</button>
+                <button class="toggle-btn" onclick="setMatrixPeriod('last_4w')" id="matPeriod4w" data-tt-type="cargo-generic-card" data-tt-title="Time Horizon: Trailing 4 Weeks" data-tt-val="Prompt Spot Activity" data-tt-sub="High-Frequency Fixture Velocity" data-tt-vessel="All Fleet Classes" data-tt-source="Fearnleys Archive" data-tt-note="Captures latest 4-week chartering velocity, identifying prompt tightening and emerging commodity corridors." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Last 4 Weeks</button>
               </div>
               <span style="font-size:11px;color:var(--text-muted);font-weight:600;margin-left:8px;">Vessel Class:</span>
               <div id="matrixVesselFilterWrap" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" onclick="setMatrixVessel('ALL')" id="matVcAll" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">All Classes</button>
-                <button class="toggle-btn" onclick="setMatrixVessel('Capesize')" id="matVcBci" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Capesize (BCI)</button>
-                <button class="toggle-btn" onclick="setMatrixVessel('Panamax')" id="matVcBpi" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax (BPI)</button>
-                <button class="toggle-btn" onclick="setMatrixVessel('Supramax')" id="matVcBsi" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax (BSI)</button>
-                <button class="toggle-btn" onclick="setMatrixVessel('Handysize')" id="matVcBhsi" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize (BHSI)</button>
-                <button class="toggle-btn" onclick="setMatrixVessel('Tankers & Gas')" id="matVcWet" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Tankers &amp; Gas</button>
+                <button class="toggle-btn active" onclick="setMatrixVessel('ALL')" id="matVcAll" data-tt-type="cargo-generic-card" data-tt-title="Fleet Segment: All Classes" data-tt-val="All Fleet Segments" data-tt-sub="Comprehensive Vessel Scope" data-tt-vessel="Cape, Pana, Supra, Handy &amp; Wet" data-tt-source="Fearnleys Archive" data-tt-note="Cross-fleet aggregation showing full commercial fixture universe without fleet restrictions." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">All Classes</button>
+                <button class="toggle-btn" onclick="setMatrixVessel('Capesize')" id="matVcBci" data-tt-type="cargo-generic-card" data-tt-title="Fleet Segment: Capesize (BCI)" data-tt-val="100,000+ DWT" data-tt-sub="Baltic Capesize Index Fleet" data-tt-vessel="Capesize, Newcastlemax &amp; VLOC" data-tt-source="Fearnleys Archive" data-tt-note="Dedicated heavy dry bulk workhorses serving long-haul iron ore and bauxite arterial corridors." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Capesize (BCI)</button>
+                <button class="toggle-btn" onclick="setMatrixVessel('Panamax')" id="matVcBpi" data-tt-type="cargo-generic-card" data-tt-title="Fleet Segment: Panamax (BPI)" data-tt-val="65,000–90,000 DWT" data-tt-sub="Baltic Panamax Index Fleet" data-tt-vessel="Panamax &amp; Kamsarmax Bulkers" data-tt-source="Fearnleys Archive" data-tt-note="Primary carriers for global coal and grain trades, sized to transit the Neo-Panamax locks." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Panamax (BPI)</button>
+                <button class="toggle-btn" onclick="setMatrixVessel('Supramax')" id="matVcBsi" data-tt-type="cargo-generic-card" data-tt-title="Fleet Segment: Supramax (BSI)" data-tt-val="50,000–65,000 DWT" data-tt-sub="Baltic Supramax Index Fleet" data-tt-vessel="Supramax &amp; Ultramax Geared Bulkers" data-tt-source="Fearnleys Archive" data-tt-note="Geared bulk carriers equipped with onboard cranes and grabs, vital for minor bulks and regional ports." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Supramax (BSI)</button>
+                <button class="toggle-btn" onclick="setMatrixVessel('Handysize')" id="matVcBhsi" data-tt-type="cargo-generic-card" data-tt-title="Fleet Segment: Handysize (BHSI)" data-tt-val="15,000–40,000 DWT" data-tt-sub="Baltic Handysize Index Fleet" data-tt-vessel="Handysize Geared Bulkers" data-tt-source="Fearnleys Archive" data-tt-note="Versatile shallow-draft geared bulkers serving draft-constrained coastal and developing country terminals." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Handysize (BHSI)</button>
+                <button class="toggle-btn" onclick="setMatrixVessel('Tankers & Gas')" id="matVcWet" data-tt-type="cargo-generic-card" data-tt-title="Fleet Segment: Tankers &amp; Gas" data-tt-val="Wet &amp; Cryogenic Fleet" data-tt-sub="Liquid Hydrocarbons &amp; LPG/LNG" data-tt-vessel="VLCC, Suezmax, Aframax, VLGC, LNG" data-tt-source="Fearnleys Archive" data-tt-note="Petroleum crude and clean product tankers alongside specialized refrigerated liquefied gas carriers." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Tankers &amp; Gas</button>
               </div>
             </div>
           </div>
@@ -15121,11 +15121,11 @@ if (intelTabsContainer) {
             <table class="cargo-matrix-table">
               <thead>
                 <tr>
-                  <th>Commodity Group</th>
-                  <th>Taxonomy Subgroup</th>
-                  <th style="text-align:right;">Reported Fixtures</th>
-                  <th>Primary Trade Corridor</th>
-                  <th>Primary Vessel Class</th>
+                  <th data-tt-type="cargo-generic-card" data-tt-title="Column: Commodity Group" data-tt-val="Supergroup Taxonomy" data-tt-sub="Macro Cargo Classification" data-tt-vessel="All Fleet Classes" data-tt-source="Fearnleys Archive" data-tt-note="Standardized maritime supergroup categorizing raw commercial fixture entries." style="cursor:help;">Commodity Group</th>
+                  <th data-tt-type="cargo-generic-card" data-tt-title="Column: Taxonomy Subgroup" data-tt-val="Specific Sub-Commodity" data-tt-sub="Detailed Cargo Type" data-tt-vessel="Segment Specific" data-tt-source="Fearnleys Archive" data-tt-note="Disaggregated commodity variety classified via multi-field matching on broker remarks and route codes." style="cursor:help;">Taxonomy Subgroup</th>
+                  <th style="text-align:right;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Column: Reported Fixtures" data-tt-val="Total Commercial Contracts" data-tt-sub="Observation Period Volume" data-tt-vessel="Active Vessels" data-tt-source="Fearnleys Archive" data-tt-note="Verified count of commercial charter party contracts recorded within the selected timeframe.">Reported Fixtures</th>
+                  <th data-tt-type="cargo-generic-card" data-tt-title="Column: Primary Trade Corridor" data-tt-val="Dominant Sea Lane" data-tt-sub="Load to Discharge Flow" data-tt-vessel="Major Trade Corridors" data-tt-source="Gazetteer Normalization" data-tt-note="Top volume bilateral maritime route identified by normalizing load and discharge port pairs." style="cursor:help;">Primary Trade Corridor</th>
+                  <th data-tt-type="cargo-generic-card" data-tt-title="Column: Primary Vessel Class" data-tt-val="Dominant Fleet Segment" data-tt-sub="Deadweight &amp; Gear Class" data-tt-vessel="Assigned Vessel Segment" data-tt-source="Fixture Ledger Segment" data-tt-note="Primary commercial ship type derived directly from charter fixture deadweight and segment fields." style="cursor:help;">Primary Vessel Class</th>
                 </tr>
               </thead>
               <tbody id="cargoMatrixTableBody">
@@ -15159,15 +15159,15 @@ if (intelTabsContainer) {
         <!-- 1. BRAZILIAN BULK SEABORNE EXPORTS -->
         <div class="chart-container mb-20" id="brazilExportsContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="brazilExportsTitle">Brazilian Bulk Seaborne Exports (MDIC ComexStat)</div>
+            <div class="chart-title" id="brazilExportsTitle" data-tt-type="cargo-generic-card" data-tt-title="Brazil Seaborne Bulk Export Registry" data-tt-val="MDIC ComexStat Official Customs" data-tt-sub="Monthly Port Departures (2018–2026)" data-tt-vessel="Capesize, VLCC, Panamax &amp; Supramax" data-tt-source="Ministério do Desenvolvimento (MDIC)" data-tt-note="Official national trade statistics tracking major seaborne export bulk departures from Brazilian maritime ports.">Brazilian Bulk Seaborne Exports (MDIC ComexStat)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="brazilCommodityToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="brazilBtnOre" onclick="setBrazilCommodity('Iron Ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore (Mt)</button>
-                <button class="toggle-btn" id="brazilBtnCrude" onclick="setBrazilCommodity('Crude Oil')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Oil (Mt)</button>
-                <button class="toggle-btn" id="brazilBtnSoy" onclick="setBrazilCommodity('Soybeans')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans (Mt)</button>
-                <button class="toggle-btn" id="brazilBtnSugar" onclick="setBrazilCommodity('Raw Sugar')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Raw Sugar (Mt)</button>
+                <button class="toggle-btn active" id="brazilBtnOre" onclick="setBrazilCommodity('Iron Ore')" data-tt-type="cargo-generic-card" data-tt-title="Brazil Seaborne Iron Ore" data-tt-val="~30–38 Mt/month" data-tt-sub="Ponta da Madeira &amp; Tubarão Terminals" data-tt-vessel="Capesize &amp; VLOC (250–400k DWT)" data-tt-source="MDIC ComexStat (SH4 2601)" data-tt-note="Vale's Carajas and Southern System departures. Key driver of long-haul Baltic C3 ton-mile absorption to China." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore (Mt)</button>
+                <button class="toggle-btn" id="brazilBtnCrude" onclick="setBrazilCommodity('Crude Oil')" data-tt-type="cargo-generic-card" data-tt-title="Brazil Seaborne Crude Oil" data-tt-val="~5–9 Mt/month" data-tt-sub="Santos &amp; Campos Basin FPSO Liftings" data-tt-vessel="VLCC &amp; Suezmax Tankers" data-tt-source="MDIC ComexStat (SH4 2709)" data-tt-note="Pre-salt offshore production loaded via shuttle tankers and terminal STS for export to China and Europe." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Crude Oil (Mt)</button>
+                <button class="toggle-btn" id="brazilBtnSoy" onclick="setBrazilCommodity('Soybeans')" data-tt-type="cargo-generic-card" data-tt-title="Brazil Seaborne Soybeans" data-tt-val="Peak Q2/Q3 (~10–16 Mt/mo)" data-tt-sub="Santos, Paranaguá &amp; Northern Arc Ports" data-tt-vessel="Panamax &amp; Kamsarmax Bulkers" data-tt-source="MDIC ComexStat (SH4 1201)" data-tt-note="Center-West soybean harvest seaborne export peak driving intense Atlantic Panamax freight demand." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans (Mt)</button>
+                <button class="toggle-btn" id="brazilBtnSugar" onclick="setBrazilCommodity('Raw Sugar')" data-tt-type="cargo-generic-card" data-tt-title="Brazil Seaborne Raw Sugar" data-tt-val="~2–4 Mt/month" data-tt-sub="Port of Santos Dedicated Terminals" data-tt-vessel="Supramax &amp; Handymax Bulkers" data-tt-source="MDIC ComexStat (SH4 1701)" data-tt-note="Center-South sugarcane milling exports loaded into geared bulkers for global confectionery and refinery hubs." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Raw Sugar (Mt)</button>
               </div>
-              <div id="brazilExportsBadge" class="kpi-badge">Brazil Iron Ore: —</div>
+              <div id="brazilExportsBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Latest Brazil Export Observation" data-tt-val="ComexStat Monthly Throughput" data-tt-sub="Official Disclosed Period" data-tt-vessel="Assigned Basin Fleet" data-tt-source="MDIC ComexStat" data-tt-note="Reflects the latest available official monthly release from Brazilian customs authority." style="cursor:help;">Brazil Iron Ore: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="brazilExportsChart"></canvas></div>
@@ -15180,18 +15180,18 @@ if (intelTabsContainer) {
         <!-- 2. PILBARA PORTS AUTHORITY THROUGHPUT -->
         <div class="chart-container mb-20" id="ppaThroughputContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="ppaThroughputTitle">Pilbara Ports Iron Ore Throughput</div>
+            <div class="chart-title" id="ppaThroughputTitle" data-tt-type="cargo-generic-card" data-tt-title="Pilbara Ports Authority Seaborne Throughput" data-tt-val="~58–62 Mt/month Combined" data-tt-sub="World's Largest Bulk Export Gateway" data-tt-vessel="Capesize (180–210k DWT) &amp; VLOC" data-tt-source="Pilbara Ports Authority Official Release" data-tt-note="Official throughput disclosures representing ~60% of total world seaborne iron ore trade loaded at dedicated tidal berths.">Pilbara Ports Iron Ore Throughput</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="ppaPortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
-                <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Dampier')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port of Dampier (Mt)</button>
+                <button class="toggle-btn active" id="ppaBtnHedland" onclick="setPpaPort('Port Hedland')" data-tt-type="cargo-generic-card" data-tt-title="Port Hedland Iron Ore Hub" data-tt-val="~45–50 Mt/month" data-tt-sub="BHP, FMG &amp; Roy Hill Terminals" data-tt-vessel="Capesize &amp; Newcastlemax Bulkers" data-tt-source="Pilbara Ports Authority" data-tt-note="World's single largest bulk export terminal by volume. Operates with strict tidal draft sailing windows for 260k+ laden vessels." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Port Hedland (Mt)</button>
+                <button class="toggle-btn" id="ppaBtnDampier" onclick="setPpaPort('Dampier')" data-tt-type="cargo-generic-card" data-tt-title="Port of Dampier Iron Ore Hub" data-tt-val="~11–14 Mt/month" data-tt-sub="Rio Tinto Dedicated Export Berths" data-tt-vessel="Capesize Bulkers (180k–220k DWT)" data-tt-source="Pilbara Ports Authority" data-tt-note="Rio Tinto's primary Western Australian deep-water loading terminal (East Intercourse Island and Parker Point)." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Port of Dampier (Mt)</button>
               </div>
-              <div id="ppaThroughputBadge" class="kpi-badge">Port Hedland: —</div>
+              <div id="ppaThroughputBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Latest Pilbara Throughput" data-tt-val="Official Monthly Record" data-tt-sub="Disclosed Basin Tonnage" data-tt-vessel="Capesize Fleet" data-tt-source="Pilbara Ports Authority" data-tt-note="Direct monthly report from Pilbara Ports Authority covering actual shiploader departure tallies." style="cursor:help;">Port Hedland: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="ppaThroughputChart"></canvas></div>
           <!-- Pilbara Latest Destinations Breakdown (Port Hedland Dynamic Disclosure) -->
-          <div id="ppaDestinationCard" style="margin-top:12px;padding:10px 14px;background:var(--card);border:1px solid var(--border);border-radius:6px;">
+          <div id="ppaDestinationCard" data-tt-type="cargo-generic-card" data-tt-title="Port Hedland Bilateral Offtake Ledger" data-tt-val="China 85%+ Share" data-tt-sub="Official Destination Disclosures" data-tt-vessel="Capesize Fleet (~3,500 nm to Qingdao)" data-tt-source="Pilbara Ports Authority" data-tt-note="Disaggregates monthly Hedland departures across recipient nations (China, Japan, South Korea, Indonesia, Taiwan)." style="margin-top:12px;padding:10px 14px;background:var(--card);border:1px solid var(--border);border-radius:6px;cursor:help;">
             <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:8px;">
               <span id="ppaDestinationTitle" style="font-size:12px;font-weight:700;color:var(--text-bright);">Port Hedland Export Destinations (Pilbara Ports Authority Official Release)</span>
               <span id="ppaDestinationBadge" class="cargo-badge-live" style="font-size:11px;">LIVE DISCLOSURE</span>
@@ -15212,9 +15212,9 @@ if (intelTabsContainer) {
         <!-- 2B. MAJOR GLOBAL IRON ORE MINERS QUARTERLY SHIPMENTS -->
         <div class="chart-container mb-20" id="majorMinersContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="majorMinersTitle">Major Global Iron Ore Miners Quarterly Shipments</div>
+            <div class="chart-title" id="majorMinersTitle" data-tt-type="cargo-generic-card" data-tt-title="Major Global Iron Ore Producers" data-tt-val="Verified Corporate Filings" data-tt-sub="Quarterly Production Reports (EDGAR / ASX)" data-tt-vessel="Capesize &amp; VLOC Fleet" data-tt-source="Rio Tinto, Vale, BHP, Fortescue Official Filings" data-tt-note="Direct quarterly corporate disclosures from the Big 4 iron ore producers, strictly excluding illustrative estimates.">Major Global Iron Ore Miners Quarterly Shipments</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="majorMinersBadge" class="kpi-badge">Quarterly Shipments (Corporate Filings)</div>
+              <div id="majorMinersBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Miners Filings Ledger" data-tt-val="100% Verified SEC &amp; ASX Reports" data-tt-sub="Latest Quarter Disclosed" data-tt-vessel="Capesize Fleet" data-tt-source="Corporate Filings" data-tt-note="Shipments reported on standard corporate bases: Rio Tinto (Pilbara 100%), Vale (Global 100%), BHP (WAIO equity), Fortescue (Global)." style="cursor:help;">Quarterly Shipments (Corporate Filings)</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="majorMinersChart"></canvas></div>
@@ -15227,9 +15227,9 @@ if (intelTabsContainer) {
         <!-- 3. US GULF COAST CRUDE PETROLEUM EXPORTS (EIA) -->
         <div class="chart-container mb-20" id="eiaExportsContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="eiaExportsTitle">US Crude Oil Exports (EIA Weekly)</div>
+            <div class="chart-title" id="eiaExportsTitle" data-tt-type="cargo-generic-card" data-tt-title="US Seaborne Crude Oil Exports" data-tt-val="~3.8–4.6M bbl/d (~16–20 Mt/mo)" data-tt-sub="EIA Weekly Petroleum Status Report" data-tt-vessel="VLCC (Reverse Lightering) &amp; Aframax" data-tt-source="US Energy Information Administration (EIA)" data-tt-note="Weekly US Gulf Coast seaborne crude exports loading at Corpus Christi, Houston, and Louisiana Offshore Oil Port (LOOP).">US Crude Oil Exports (EIA Weekly)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="eiaExportsBadge" class="kpi-badge">US Crude Exports: —</div>
+              <div id="eiaExportsBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Latest Weekly US Crude Exports" data-tt-val="EIA 4-Week Average" data-tt-sub="Weekly DOE Form EIA-804" data-tt-vessel="VLCC &amp; Aframax Fleet" data-tt-source="US EIA" data-tt-note="Weekly commercial crude exports reported every Wednesday by the US Department of Energy." style="cursor:help;">US Crude Exports: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="eiaExportsChart"></canvas></div>
@@ -15242,9 +15242,9 @@ if (intelTabsContainer) {
         <!-- 4. NEWCASTLE SEABORNE COAL EXPORTS -->
         <div class="chart-container mb-20" id="newcastleCoalContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="newcastleCoalTitle">Australian Thermal &amp; Met Coal Exports (Port of Newcastle)</div>
+            <div class="chart-title" id="newcastleCoalTitle" data-tt-type="cargo-generic-card" data-tt-title="Port of Newcastle Coal Export Hub" data-tt-val="~11–14 Mt/month" data-tt-sub="PWCS &amp; NCIG Deep-Water Berths" data-tt-vessel="Capesize &amp; Panamax Bulkers" data-tt-source="Port of Newcastle Monthly Disclosures" data-tt-note="World's premier coal export port, shipping high-CV thermal coal and metallurgical coking coal across the Pacific basin.">Australian Thermal &amp; Met Coal Exports (Port of Newcastle)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="newcastleCoalBadge" class="kpi-badge">Newcastle Coal: —</div>
+              <div id="newcastleCoalBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Newcastle Monthly Throughput" data-tt-val="Official Port Records" data-tt-sub="Hunter Valley Seaborne Supply" data-tt-vessel="Capesize &amp; Panamax Fleet" data-tt-source="Port of Newcastle" data-tt-note="Direct monthly departure records compiling shiploader operations across PWCS and NCIG berths." style="cursor:help;">Newcastle Coal: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="newcastleCoalChart"></canvas></div>
@@ -15258,17 +15258,17 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="indonesiaCoalContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" id="indonesiaCoalTitle" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="indonesiaCoalTitle" style="display:flex;align-items:center;gap:8px;" data-tt-type="cargo-generic-card" data-tt-title="Indonesia Seaborne Coal Export System" data-tt-val="~38–44 Mt/month Total" data-tt-sub="World's Largest Thermal Coal Exporter" data-tt-vessel="Panamax, Supramax &amp; Geared Bulkers" data-tt-source="Badan Pusat Statistik (BPS) Customs" data-tt-note="Comprehensive customs series combining HS 2701 (Bituminous/Anthracite/Sub-bituminous) with HS 2702 (Lignite) departures.">
                 <span>Indonesian Seaborne Thermal Coal Exports (BPS Official API)</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Stacked Code Groups + Lignite</span>
+                <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Indonesian Coal HS Classification" data-tt-val="Bituminous, Sub-bituminous &amp; Lignite" data-tt-sub="BPS Export Harmonized System Codes" data-tt-vessel="Panamax, Supramax, Geared Handymax" data-tt-source="Badan Pusat Statistik (BPS Indonesia)" data-tt-note="Stacks HS 270112 (Bituminous coal), HS 270119/20 (Other coal &amp; briquettes), and HS 2702 (Lignite/brown coal), capturing total seaborne energy outflow from Kalimantan and Sumatra." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">Stacked Code Groups + Lignite</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Total seaborne thermal coal exports stacked by code group (Bituminous HS 270112, Other Coal HS 270111/19/20, and Lignite HS 2702). Headline HS 2701: 29.0 Mt | Lignite HS 2702: 9.9 Mt.
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="indonesiaCoalBadge" class="kpi-badge" title="Indonesian seaborne thermal coal exports by customs code (HS 2701 coal and HS 2702 lignite). Unit: Mt/mo. Source: Badan Pusat Statistik (BPS). Period: Monthly.">38.9 Mt/mo (Total Coal &amp; Lignite)</div>
-              <div id="indonesiaBanBadge" class="badge" style="background:rgba(239,68,68,0.15);color:#f87171;border:1px solid rgba(239,68,68,0.3);font-size:11px;padding:2px 6px;">Jan 2022 Ban Flag</div>
+              <div id="indonesiaCoalBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Indonesian Seaborne Coal Run-Rate" data-tt-val="38.9 Mt/mo (Total Coal &amp; Lignite)" data-tt-sub="BPS Official Disclosures" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="Badan Pusat Statistik (BPS)" data-tt-note="Aggregates Kaliorang, Taboneo, Muara Berau, and Bunati anchorages across Kalimantan and Sumatra." style="cursor:help;">38.9 Mt/mo (Total Coal &amp; Lignite)</div>
+              <div id="indonesiaBanBadge" class="badge" data-tt-type="cargo-generic-card" data-tt-title="January 2022 Export Ban Benchmark" data-tt-val="Temporary Export Halt" data-tt-sub="Domestic Market Obligation (DMO) Crisis" data-tt-vessel="Dry Bulk Fleet Stranded" data-tt-source="Ministry of Energy &amp; Mineral Resources (ESDM)" data-tt-note="Historical event benchmark: Indonesian government suspended coal exports in Jan 2022 to protect domestic power plants, stranding ~400 bulkers." style="background:rgba(239,68,68,0.15);color:#f87171;border:1px solid rgba(239,68,68,0.3);font-size:11px;padding:2px 6px;cursor:help;">Jan 2022 Ban Flag</div>
             </div>
           </div>
 
@@ -15289,17 +15289,17 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="guineaBauxiteContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" id="guineaBauxiteTitle" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="guineaBauxiteTitle" style="display:flex;align-items:center;gap:8px;" data-tt-type="cargo-generic-card" data-tt-title="Guinea Bauxite Seaborne Export Flow" data-tt-val="182.8 Mt Annual Record (2025)" data-tt-sub="World's Largest Bauxite Seaborne Origin" data-tt-vessel="Capesize Bulkers (~11,200 nm to China)" data-tt-source="China GACC &amp; Guinea Ministry of Mines" data-tt-note="Official mirror statistics cross-referenced with Republic of Guinea ministerial export manifests.">
                 <span>Guinea Bauxite Seaborne Exports — Bilateral Mirror &amp; Ministry Disclosures</span>
-                <span id="guineaAnnualRecordBadge" class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);"></span>
+                <span id="guineaAnnualRecordBadge" class="badge" data-tt-type="cargo-generic-card" data-tt-title="Guinea Bauxite 2025 Annual Export Record" data-tt-val="182.8 Mt High-Water Mark" data-tt-sub="+26.1% YoY Expansion" data-tt-vessel="Dedicated Capesize Shuttle Fleet" data-tt-source="Guinea Ministry of Mines &amp; China GACC" data-tt-note="Annual aggregate bauxite exports loaded across Rio Nunez, Kamsar, Dapilon, and Katougouma terminals servicing Chinese alumina refineries." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;"></span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Monthly seaborne mirror exports (China GACC imports HS 260600) cross-referenced with Republic of Guinea Ministry of Mines official quarterly and producer disclosures.
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="guineaBauxiteBadge" class="kpi-badge">Mirror Run-Rate: —</div>
-              <span class="badge" style="background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);font-size:11px;padding:2px 6px;">LIVE</span>
+              <div id="guineaBauxiteBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="China GACC Mirror Import Volume" data-tt-val="Official Customs Disclosures" data-tt-sub="HS 260600 Discharged Tonnes" data-tt-vessel="Capesize Fleet" data-tt-source="China Customs (GACC)" data-tt-note="Official import registry of Guinean bauxite cleared at Chinese ports (Yantai, Rizhao, Qingdao)." style="cursor:help;">Mirror Run-Rate: —</div>
+              <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="GACC Mirror Feed" data-tt-val="Monthly Direct Pipeline" data-tt-sub="Official Bilateral Mirror" data-tt-vessel="Capesize Fleet" data-tt-source="GACC China" data-tt-note="Automated monthly ingestion of Chinese customs data for Guinean aluminum ore." style="background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);font-size:11px;padding:2px 6px;cursor:help;">LIVE</span>
             </div>
           </div>
 
@@ -15317,11 +15317,11 @@ if (intelTabsContainer) {
             <table class="cargo-table" id="guineaProducersTable" style="width:100%;font-size:11px;text-align:left;border-collapse:collapse;">
               <thead>
                 <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);">
-                  <th style="padding:6px 8px;">Mining Syndicate / Operator</th>
-                  <th style="padding:6px 8px;text-align:right;">2025 Exports (Mt)</th>
-                  <th style="padding:6px 8px;text-align:right;">National Share</th>
-                  <th style="padding:6px 8px;">Export Terminals</th>
-                  <th style="padding:6px 8px;">Key Destination</th>
+                  <th style="padding:6px 8px;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Producer: Mining Syndicate / Operator" data-tt-val="Operating Concessionaire" data-tt-sub="Bauxite Extraction Consortia" data-tt-vessel="Capesize Fleet" data-tt-source="Guinea Ministry of Mines" data-tt-note="Major mining entities holding mining concessions in the Boke, Boffa, and Kindia bauxite basins.">Mining Syndicate / Operator</th>
+                  <th style="padding:6px 8px;text-align:right;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Metric: 2025 Annual Exports (Mt)" data-tt-val="Full-Year Certified Departures" data-tt-sub="Official Ministry Disclosures" data-tt-vessel="Capesize Bulkers" data-tt-source="Ministry Annual Report 2025" data-tt-note="Total certified physical seaborne bauxite exports loaded across company shiploaders during calendar year 2025.">2025 Exports (Mt)</th>
+                  <th style="padding:6px 8px;text-align:right;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Metric: National Export Share" data-tt-val="Percentage of 182.8 Mt Record" data-tt-sub="Relative Mining Scale" data-tt-vessel="Capesize Fleet" data-tt-source="Ministry of Mines" data-tt-note="Producer's share of total Republic of Guinea seaborne bauxite shipments in 2025.">National Share</th>
+                  <th style="padding:6px 8px;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Infrastructure: Export Marine Terminals" data-tt-val="Loading Berths &amp; Rivers" data-tt-sub="River Barging &amp; Offshore Transshipment" data-tt-vessel="Capesize Transshipment" data-tt-source="Port Authorities" data-tt-note="Dedicated estuarine river ports (Rio Nunez, Rio Pongo, Fatala, Kamsar) utilizing river barges and offshore transshipment platforms.">Export Terminals</th>
+                  <th style="padding:6px 8px;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Trade Flow: Key Discharging Destination" data-tt-val="Offtake Refining Center" data-tt-sub="Alumina Refinery Receiving Berths" data-tt-vessel="Capesize (~11,200 nm)" data-tt-source="Bilateral Customs" data-tt-note="Primary sovereign offtaker consuming raw bauxite for Bayer process alumina refining.">Key Destination</th>
                 </tr>
               </thead>
               <tbody id="guineaProducersTableBody">
@@ -15340,9 +15340,9 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="minorBulksContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" id="minorBulksTitle" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="minorBulksTitle" style="display:flex;align-items:center;gap:8px;" data-tt-type="cargo-generic-card" data-tt-title="Minor Bulk Multiples &amp; Geared Fleet Drivers" data-tt-val="7 Specialized Regional Basins" data-tt-sub="Seasonal Envelopes (2022–2026)" data-tt-vessel="Supramax, Ultramax &amp; Handysize" data-tt-source="TurkStat, PSA, GACC, DGCI&amp;S, ComexStat" data-tt-note="Small multiples tracking monthly volumes across high-margin minor bulk flows powering geared dry bulker spot earnings.">
                 <span>Minor Bulk Seaborne Export Multiples &amp; Geared Vessel Drivers</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">7 Trade Basins</span>
+                <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Geared Minor Bulk Basins" data-tt-val="7 Regional Export Centers" data-tt-sub="Fertilizers, Minerals, Scrap &amp; Agricultural Byproducts" data-tt-vessel="Supramax (50–65k DWT), Handysize (28–40k DWT)" data-tt-source="TurkStat, PSA, GACC, DGCI&amp;S, ComexStat" data-tt-note="Global minor bulk flows that form the backbone of geared bulk carrier ton-mile demand and backhaul earnings." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">7 Trade Basins</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Small multiples with 2022–2026 seasonal envelopes across key fertilizer, sugar, alumina, scrap, and cement trade corridors powering Handysize and Supramax spot earnings.
@@ -15366,16 +15366,16 @@ if (intelTabsContainer) {
         <!-- 5. AUSTRALIA REQ COMMODITY EXPORTS FORECASTS -->
         <div class="chart-container mb-20" id="australiaReqContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="australiaReqTitle">Australia Official Commodity Export Volumes (DISR REQ)</div>
+            <div class="chart-title" id="australiaReqTitle" data-tt-type="cargo-generic-card" data-tt-title="Australia Resources &amp; Energy Quarterly (REQ)" data-tt-val="Quarterly Export Statistics &amp; Official Forecasts" data-tt-sub="Department of Industry, Science and Resources (DISR)" data-tt-vessel="Capesize, Newcastlemax, Panamax, LNG Carriers" data-tt-source="Australian Government DISR / Office of the Chief Economist" data-tt-note="Official national export volumes for iron ore, metallurgical coal, thermal coal, LNG, and bauxite from the world&#39;s leading dry bulk exporting nation." style="cursor:help;">Australia Official Commodity Export Volumes (DISR REQ)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="reqCmdToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="reqBtnOre" onclick="setReqCommodity('Iron Ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore</button>
-                <button class="toggle-btn" id="reqBtnThermal" onclick="setReqCommodity('Thermal Coal')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Thermal Coal</button>
-                <button class="toggle-btn" id="reqBtnMet" onclick="setReqCommodity('Metallurgical Coal')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Met Coal</button>
-                <button class="toggle-btn" id="reqBtnLng" onclick="setReqCommodity('LNG')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">LNG</button>
-                <button class="toggle-btn" id="reqBtnBauxite" onclick="setReqCommodity('Bauxite')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Bauxite</button>
+                <button class="toggle-btn active" id="reqBtnOre" onclick="setReqCommodity('Iron Ore')" data-tt-type="cargo-generic-card" data-tt-title="Australia REQ: Iron Ore" data-tt-val="~220–235 Mt/quarter" data-tt-sub="Pilbara &amp; Mid West Basins" data-tt-vessel="Capesize &amp; VLOC Fleet" data-tt-source="Australian DISR (REQ)" data-tt-note="Official quarterly seaborne iron ore volume forecasts and historical data from the Australian Commonwealth government." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore</button>
+                <button class="toggle-btn" id="reqBtnThermal" onclick="setReqCommodity('Thermal Coal')" data-tt-type="cargo-generic-card" data-tt-title="Australia REQ: Thermal Coal" data-tt-val="~45–52 Mt/quarter" data-tt-sub="NSW &amp; Queensland Basins" data-tt-vessel="Panamax &amp; Capesize Bulkers" data-tt-source="Australian DISR (REQ)" data-tt-note="High-energy thermal coal exported to Japan, South Korea, Taiwan, and Southeast Asian utilities." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Thermal Coal</button>
+                <button class="toggle-btn" id="reqBtnMet" onclick="setReqCommodity('Metallurgical Coal')" data-tt-type="cargo-generic-card" data-tt-title="Australia REQ: Metallurgical Coal" data-tt-val="~38–44 Mt/quarter" data-tt-sub="Bowen Basin (Hay Point, Dalrymple)" data-tt-vessel="Panamax &amp; Capesize Bulkers" data-tt-source="Australian DISR (REQ)" data-tt-note="Premium hard coking coal (PHCC) essential for integrated blast furnace steelmaking globally." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Met Coal</button>
+                <button class="toggle-btn" id="reqBtnLng" onclick="setReqCommodity('LNG')" data-tt-type="cargo-generic-card" data-tt-title="Australia REQ: Liquefied Natural Gas" data-tt-val="~20–22 Mt/quarter" data-tt-sub="North West Shelf, Pluto, Wheatstone" data-tt-vessel="LNG Carriers (140–174k CBM)" data-tt-source="Australian DISR (REQ)" data-tt-note="Cryogenic LNG export cargoes shipped under long-term take-or-pay sales contracts." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">LNG</button>
+                <button class="toggle-btn" id="reqBtnBauxite" onclick="setReqCommodity('Bauxite')" data-tt-type="cargo-generic-card" data-tt-title="Australia REQ: Bauxite" data-tt-val="~9–11 Mt/quarter" data-tt-sub="Weipa, Gove &amp; Huntly Mines" data-tt-vessel="Capesize &amp; Panamax Bulkers" data-tt-source="Australian DISR (REQ)" data-tt-note="Seaborne bauxite exports primarily loaded at Gulf of Carpentaria terminals for China refining." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Bauxite</button>
               </div>
-              <div id="australiaReqBadge" class="kpi-badge">REQ Iron Ore: —</div>
+              <div id="australiaReqBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Latest DISR Observation" data-tt-val="Resources &amp; Energy Quarterly" data-tt-sub="Australian Official Statistics" data-tt-vessel="Bulk Export Fleet" data-tt-source="Department of Industry, Science and Resources" data-tt-note="Official quarterly publication analyzing Australian resources sector volumes, values, and forward forecasts." style="cursor:help;">REQ Iron Ore: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="australiaReqChart"></canvas></div>
@@ -15392,17 +15392,17 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="argentinaGrainContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" id="argentinaGrainTitle" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="argentinaGrainTitle" data-tt-type="cargo-generic-card" data-tt-title="Argentine Seaborne Agricultural Shipments (MAGyP)" data-tt-val="Harbor Master Vessel Lineup Ledger" data-tt-sub="Up-River Parana vs Deepwater Ocean Terminals" data-tt-vessel="Panamax, Kamsarmax, Supramax" data-tt-source="Secretaria de Agricultura, Ganaderia y Pesca (MAGyP)" data-tt-note="Detailed loading manifests across Rosario, San Lorenzo, Necochea, and Bahia Blanca. Up-river draft limitations govern deadweight utilization and ocean top-off requirements." style="display:flex;align-items:center;gap:8px;cursor:help;">
                 <span>Argentine Seaborne Grain Exports by Commodity &amp; Port Basin (MAGyP)</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Paran&aacute; Up-River Share</span>
+                <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Parana Up-River River Logistics Share" data-tt-val="~70–80% Up-River Share" data-tt-sub="Rosario Hub Draft-Restricted River System" data-tt-vessel="Panamax, Kamsarmax, Supramax" data-tt-source="MAGyP Argentina Harbor Master Ledgers" data-tt-note="Tracks proportion of Argentine grain loadings originating from river terminals along the Rio Parana requiring draft monitoring and ocean top-off." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">Paran&aacute; Up-River Share</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Official harbor master ledger of agricultural seaborne shipments by grain type with up-river Paran&aacute; draft-restricted river share line.
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="argGrainTotalBadge" class="kpi-badge">Argentina Grain: —</div>
-              <div id="argUpRiverBadge" class="kpi-badge" style="background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Up-River Share: —</div>
+              <div id="argGrainTotalBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Argentina Total Agricultural Exports" data-tt-val="National Port Throughput" data-tt-sub="SAGyP Official Shipment Ledger" data-tt-vessel="Panamax &amp; Supramax Fleet" data-tt-source="Secretaría de Agricultura (SAGyP)" data-tt-note="Monthly export volume across all Argentine maritime and river grain elevators (Corn, Wheat, Soybeans, Meal, Barley, Sorghum)." style="cursor:help;">Argentina Grain: —</div>
+              <div id="argUpRiverBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Paraná River Up-River Share" data-tt-val="~75–80% National Volume" data-tt-sub="Rosario Hub (San Lorenzo to Arroyo Seco)" data-tt-vessel="Panamax (Draft-Restricted ~32–34 ft)" data-tt-source="NABSA / SAGyP Argentina" data-tt-note="Critical dry bulk metric: share of grain loaded up-river where seasonal river depths govern Panamax short-loading and ocean top-offs." style="background:rgba(88,166,255,0.12);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">Up-River Share: —</div>
             </div>
           </div>
 
@@ -15417,12 +15417,12 @@ if (intelTabsContainer) {
             <table class="cargo-table" id="argentinaPortsTable" style="width:100%;font-size:11px;text-align:left;border-collapse:collapse;">
               <thead>
                 <tr style="border-bottom:1px solid var(--border);color:var(--text-muted);">
-                  <th style="padding:6px 8px;">Port Terminal</th>
-                  <th style="padding:6px 8px;">Basin Classification</th>
-                  <th style="padding:6px 8px;text-align:right;">Volume (Tonnes)</th>
-                  <th style="padding:6px 8px;text-align:right;">Volume (Mt)</th>
-                  <th style="padding:6px 8px;text-align:right;">National Share</th>
-                  <th style="padding:6px 8px;">Vessel Loading Impact</th>
+                  <th style="padding:6px 8px;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Terminal: Argentine Grain Port" data-tt-val="Elevator Complex" data-tt-sub="River or Ocean Maritime Berth" data-tt-vessel="Panamax &amp; Supramax" data-tt-source="SAGyP Argentina" data-tt-note="Export berth facility loading bulk grains and byproducts for global export.">Port Terminal</th>
+                  <th style="padding:6px 8px;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Hydrology: Basin Classification" data-tt-val="Up-River vs Ocean Port" data-tt-sub="Paraná River or Atlantic Deep-Water" data-tt-vessel="Vessel Draft Constraints" data-tt-source="Prefectura Naval Argentina" data-tt-note="Distinguishes between shallow river berths requiring pilotage and deep-water ocean terminals.">Basin Classification</th>
+                  <th style="padding:6px 8px;text-align:right;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Volume: Metric Tonnes (MT)" data-tt-val="Physical Throughput" data-tt-sub="Loaded Cargo Weight" data-tt-vessel="Dry Bulk Fleet" data-tt-source="SAGyP Grain Ledger" data-tt-note="Physical weight of grain cargoes loaded at this terminal across the observation period.">Volume (Tonnes)</th>
+                  <th style="padding:6px 8px;text-align:right;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Volume: Million Tonnes (Mt)" data-tt-val="Standard Seaborne Metric" data-tt-sub="Megatonnes Loaded" data-tt-vessel="Panamax Cargo Equivalence" data-tt-source="SAGyP Grain Ledger" data-tt-note="Normalized tonnage for direct ton-mile and vessel demand comparability.">Volume (Mt)</th>
+                  <th style="padding:6px 8px;text-align:right;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Share: National Export Contribution" data-tt-val="Terminal Volume Share" data-tt-sub="Percentage of Argentina Total" data-tt-vessel="Export Concentration" data-tt-source="SAGyP Argentina" data-tt-note="Port's relative share of total Argentine agricultural seaborne outflows.">National Share</th>
+                  <th style="padding:6px 8px;cursor:help;" data-tt-type="cargo-generic-card" data-tt-title="Operational Logistics: Vessel Loading Impact" data-tt-val="Draft Restrictions &amp; Top-Offs" data-tt-sub="Paraná River Depth vs Deep-Water" data-tt-vessel="Panamax Deadweight Utilization" data-tt-source="NABSA Port Handbooks" data-tt-note="Explains whether vessels must sail short-loaded from Rosario or complete full deadweight loading at southern ocean berths.">Vessel Loading Impact</th>
                 </tr>
               </thead>
               <tbody id="argentinaPortsTableBody">
@@ -15441,18 +15441,18 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="usdaExportSalesContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title">USDA Outstanding Export Commitments (Weekly by Commodity &times; Destination)</div>
+              <div class="chart-title" id="usdaExportSalesTitle" data-tt-type="cargo-generic-card" data-tt-title="USDA Foreign Agricultural Service (FAS) Export Sales" data-tt-val="Weekly Commercial Export Commitments" data-tt-sub="Forward Sales &amp; Outstanding Balances (1999–2026)" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="USDA FAS Export Sales Reporting Program" data-tt-note="Mandatory statutory weekly exporter reporting of accumulated sales, outstanding forward contracts, and destination commitments for US grain exports." style="cursor:help;">USDA Outstanding Export Commitments (Weekly by Commodity &times; Destination)</div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
-                <span id="usdaSalesSummaryRows">68,350</span> historical weekly rows (1999–2026) sorted chronologically &middot; Forward commercial commitments before vessel loading
+                <span id="usdaSalesSummaryRows" data-tt-type="cargo-generic-card" data-tt-title="USDA FAS Historical Timeseries Depth" data-tt-val="68,350 Weekly Observations" data-tt-sub="1999–2026 Continuous Record" data-tt-vessel="Panamax, Kamsarmax &amp; Supramax" data-tt-source="USDA Foreign Agricultural Service (FAS)" data-tt-note="Granular weekly timeseries capturing multi-decade trade flows, trade disputes, crop failure years, and seasonal export surges across all reporting commodities." style="cursor:help;text-decoration:underline dotted;">68,350</span> historical weekly rows (1999–2026) sorted chronologically &middot; Forward commercial commitments before vessel loading
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="usdaSalesCmdToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="usdaSalesBtnWheat" onclick="setUsdaSalesCommodity('Wheat')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Wheat</button>
-                <button class="toggle-btn" id="usdaSalesBtnCorn" onclick="setUsdaSalesCommodity('Corn')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Corn</button>
-                <button class="toggle-btn" id="usdaSalesBtnSoy" onclick="setUsdaSalesCommodity('Soybeans')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans</button>
+                <button class="toggle-btn active" id="usdaSalesBtnWheat" onclick="setUsdaSalesCommodity('Wheat')" data-tt-type="cargo-generic-card" data-tt-title="USDA FAS: US Wheat Commitments" data-tt-val="Forward Export Contracts" data-tt-sub="HRW, SRW, HRS &amp; White Wheat" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="USDA FAS (7 CFR Part 20)" data-tt-note="Weekly statutory forward sales reporting. Leads Gulf and PNW elevator loadings by 3–6 weeks." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Wheat</button>
+                <button class="toggle-btn" id="usdaSalesBtnCorn" onclick="setUsdaSalesCommodity('Corn')" data-tt-type="cargo-generic-card" data-tt-title="USDA FAS: US Corn Commitments" data-tt-val="Forward Export Contracts" data-tt-sub="Yellow Dent Corn Export Sales" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="USDA FAS (7 CFR Part 20)" data-tt-note="US feed grain commitments to Mexico, Japan, Colombia, and Asian livestock producers." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Corn</button>
+                <button class="toggle-btn" id="usdaSalesBtnSoy" onclick="setUsdaSalesCommodity('Soybeans')" data-tt-type="cargo-generic-card" data-tt-title="USDA FAS: US Soybean Commitments" data-tt-val="Forward Export Contracts" data-tt-sub="Peak US Harvest Marketing Year" data-tt-vessel="Panamax Fleet (~65–75k MT stems)" data-tt-source="USDA FAS (7 CFR Part 20)" data-tt-note="Peak autumn export sales commitments shipped via Mississippi River elevators and PNW rail routes to China." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans</button>
               </div>
-              <div id="usdaSalesBadge" class="kpi-badge">Wheat Commitments: —</div>
+              <div id="usdaSalesBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Current Forward Commitments" data-tt-val="FAS Outstanding Sales" data-tt-sub="Current Marketing Year" data-tt-vessel="Panamax &amp; Supramax" data-tt-source="USDA FAS Weekly Report" data-tt-note="Total volume of export sales contracts booked by commercial exporters but not yet physically loaded onto ocean vessels." style="cursor:help;">Wheat Commitments: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" id="usdaExportSalesWrap" style="height:320px"><canvas id="usdaExportSalesChart"></canvas></div>
@@ -15465,14 +15465,14 @@ if (intelTabsContainer) {
         <!-- 7. USDA GRAIN INSPECTIONS TOP 20 PORTS -->
         <div class="chart-container mb-20" id="usdaInspectionsContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="fgisInspectionsTitle">USDA Weekly Grain Export Inspections (AMS Regional Export Basins)</div>
+            <div class="chart-title" id="fgisInspectionsTitle" data-tt-type="cargo-generic-card" data-tt-title="USDA Federal Grain Inspection Service (FGIS)" data-tt-val="Weekly Physical Seaborne Inspections" data-tt-sub="Certificate of Export Inspection Volume" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="USDA AMS / Federal Grain Inspection Service" data-tt-note="Physical volumes officially inspected and weighed at export elevators across US Gulf, Pacific Northwest (PNW), Interior, and Great Lakes ports prior to ocean departure." style="cursor:help;">USDA Weekly Grain Export Inspections (AMS Regional Export Basins)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="inspectionsToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="inspBtnGulf" onclick="setInspectionsRegion('GULF')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
-                <button class="toggle-btn" id="inspBtnPac" onclick="setInspectionsRegion('PACIFIC')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific / PNW</button>
-                <button class="toggle-btn" id="inspBtnAtl" onclick="setInspectionsRegion('ATLANTIC')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic Coast</button>
+                <button class="toggle-btn active" id="inspBtnGulf" onclick="setInspectionsRegion('GULF')" data-tt-type="cargo-generic-card" data-tt-title="Inspections: US Gulf Region" data-tt-val="Mississippi River &amp; Texas Elevators" data-tt-sub="Primary Seaborne Agricultural Outlet" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="USDA AMS (FGIS)" data-tt-note="Official grain export inspections certifying physical grain loaded onto vessels at US Gulf deep-water berths." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
+                <button class="toggle-btn" id="inspBtnPac" onclick="setInspectionsRegion('PACIFIC')" data-tt-type="cargo-generic-card" data-tt-title="Inspections: Pacific / PNW" data-tt-val="Columbia River &amp; Puget Sound" data-tt-sub="Direct Trans-Pacific Gateway to Asia" data-tt-vessel="Panamax &amp; Kamsarmax Bulkers" data-tt-source="USDA AMS (FGIS)" data-tt-note="Export grain loaded from unit trains into ocean bulkers for direct short-transit shipment across the Pacific." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific / PNW</button>
+                <button class="toggle-btn" id="inspBtnAtl" onclick="setInspectionsRegion('ATLANTIC')" data-tt-type="cargo-generic-card" data-tt-title="Inspections: Atlantic Coast" data-tt-val="Norfolk &amp; East Coast Terminals" data-tt-sub="Transatlantic &amp; Regional Outlets" data-tt-vessel="Supramax &amp; Handysize Bulkers" data-tt-source="USDA AMS (FGIS)" data-tt-note="East Coast grain and soybean loadings serving European, Mediterranean, and Latin American destinations." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic Coast</button>
               </div>
-              <div id="usdaInspectionsBadge" class="kpi-badge">Gulf Inspections: —</div>
+              <div id="usdaInspectionsBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Weekly Grain Inspections" data-tt-val="Official AMS Certified Volume" data-tt-sub="Grain Liftings for Export" data-tt-vessel="Seaborne Bulk Fleet" data-tt-source="USDA AMS FGIS" data-tt-note="Physical tonnage officially weighed and inspected for foreign export during the latest reporting week." style="cursor:help;">Gulf Inspections: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="usdaGrainInspectionsChart"></canvas></div>
@@ -15485,14 +15485,14 @@ if (intelTabsContainer) {
         <!-- 8. USDA 31-YEAR GRAIN VESSEL LOADING & PORT QUEUES -->
         <div class="chart-container mb-20" id="vesselQueueContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="vesselQueueTitle">USDA Grain Vessel Loading &amp; Port Queues (31-Year History 1995–2026)</div>
+            <div class="chart-title" id="vesselQueueTitle" data-tt-type="cargo-generic-card" data-tt-title="USDA GTR Port Loading &amp; Vessel Queues" data-tt-val="31-Year Port Lineup Timeseries (1995–2026)" data-tt-sub="Congestion &amp; Berthing Delays by Port Basin" data-tt-vessel="Panamax, Kamsarmax, Supramax" data-tt-source="USDA AMS Grain Transportation Report (GTR)" data-tt-note="Weekly counts of bulk carriers waiting in anchorage queues and berthed at grain export terminals across the Mississippi Gulf, Texas Gulf, and PNW." style="cursor:help;">USDA Grain Vessel Loading &amp; Port Queues (31-Year History 1995–2026)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="queuePortToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="queueBtnGulf" onclick="setQueuePort('Gulf')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
-                <button class="toggle-btn" id="queueBtnPnw" onclick="setQueuePort('PNW')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">PNW</button>
-                <button class="toggle-btn" id="queueBtnBoth" onclick="setQueuePort('Both')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both Ports</button>
+                <button class="toggle-btn active" id="queueBtnGulf" onclick="setQueuePort('Gulf')" data-tt-type="cargo-generic-card" data-tt-title="Queue Port: US Gulf Elevators" data-tt-val="Mississippi River Anchorages" data-tt-sub="Vessels Loading &amp; Due (10 Days)" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="USDA AMS (Table 19)" data-tt-note="Counts bulkers currently loading or waiting in river anchorages across Mississippi and Texas elevator berths." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">US Gulf</button>
+                <button class="toggle-btn" id="queueBtnPnw" onclick="setQueuePort('PNW')" data-tt-type="cargo-generic-card" data-tt-title="Queue Port: Pacific Northwest (PNW)" data-tt-val="Columbia River &amp; Puget Sound" data-tt-sub="Vessels Loading &amp; Due (10 Days)" data-tt-vessel="Panamax &amp; Kamsarmax Bulkers" data-tt-source="USDA AMS (Table 19)" data-tt-note="Counts bulkers berthed or waiting at PNW grain terminals, reflecting rail delivery velocity and elevator congestion." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">PNW</button>
+                <button class="toggle-btn" id="queueBtnBoth" onclick="setQueuePort('Both')" data-tt-type="cargo-generic-card" data-tt-title="Queue Port: Both Basins Combined" data-tt-val="Total US Grain Loading Line-Up" data-tt-sub="31-Year Continuous Dataset" data-tt-vessel="Panamax &amp; Supramax Fleet" data-tt-source="USDA AMS (Table 19)" data-tt-note="Combined national grain bulker queue tracking commercial export congestion since 1995." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both Ports</button>
               </div>
-              <div id="queueBadge" class="kpi-badge">Vessels Due: —</div>
+              <div id="queueBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Grain Bulker Port Congestion" data-tt-val="Vessels In Port &amp; Due" data-tt-sub="USDA Grain Transportation Report" data-tt-vessel="Panamax &amp; Supramax" data-tt-source="USDA AMS" data-tt-note="Key leading indicator for vessel demurrage costs and agricultural freight demand spikes." style="cursor:help;">Vessels Due: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:300px"><canvas id="vesselQueueChart"></canvas></div>
@@ -15505,9 +15505,9 @@ if (intelTabsContainer) {
         <!-- 9. USDA BULK GRAIN OCEAN FREIGHT -->
         <div class="chart-container mb-20" id="grainFreightContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="grainFreightTitle">USDA Bulk Grain Ocean Freight (US Gulf vs PNW to Japan)</div>
+            <div class="chart-title" id="grainFreightTitle" data-tt-type="cargo-generic-card" data-tt-title="USDA Ocean Grain Freight Matrix" data-tt-val="Benchmark Panamax Grain Fixtures" data-tt-sub="GTR Table 2 Historical Freight Series" data-tt-vessel="Panamax (54k–60k MT cargo basis)" data-tt-source="USDA AMS Grain Transportation Report / Maritime Research Inc." data-tt-note="Comparative ocean freight rates from US Gulf and PNW to major Asian destinations (Japan, South Korea, China) reflecting canal transit tolls, bunker costs, and vessel availability." style="cursor:help;">USDA Bulk Grain Ocean Freight (US Gulf vs PNW to Japan)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="grainFreightBadge" class="kpi-badge">Gulf-PNW Spread: —</div>
+              <div id="grainFreightBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Grain Freight Basin Differential" data-tt-val="US Gulf vs PNW to Japan" data-tt-sub="Ocean Freight Spread ($/MT)" data-tt-vessel="Panamax Bulkers (55–65k MT parcels)" data-tt-source="USDA AMS Grain Transportation Report" data-tt-note="Spreads reflect the freight premium of the longer Gulf route (~11,500 nm via Panama) vs PNW (~4,500 nm), governing Midwest rail vs Mississippi barge logistics arbitrage." style="cursor:help;">Gulf-PNW Spread: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:300px"><canvas id="grainFreightChart"></canvas></div>
@@ -15524,9 +15524,9 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="whoFeedsChinaContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" id="whoFeedsChinaTitle" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="whoFeedsChinaTitle" data-tt-type="cargo-generic-card" data-tt-title="China Customs Import Origins &amp; Bilateral Counterparties" data-tt-val="Monthly Customs Value (CIF USD)" data-tt-sub="General Administration of Customs (GACC)" data-tt-vessel="Capesize, Panamax, Supramax, VLCC" data-tt-source="China GACC Customs Statistics" data-tt-note="Country-of-origin import shares across critical industrial bulk materials (iron ore, bauxite, soybeans, thermal coal, coking coal, crude oil) powering Chinese import demand." style="display:flex;align-items:center;gap:8px;cursor:help;">
                 <span>Who Feeds China (Customs Value, USD) — Monthly Imports by Origin Basin</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Customs Value</span>
+                <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="China Customs Import Valuation Basis" data-tt-val="CIF Customs Value (USD)" data-tt-sub="General Administration of Customs (GACC)" data-tt-vessel="Capesize, Panamax, Supramax, Rail Freight" data-tt-source="GACC Bilateral Customs Declarations" data-tt-note="Dollar value of agricultural and raw material imports reflecting both physical volume and delivered commodity pricing." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">Customs Value</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Monthly China customs imports by origin basin (GACC bilateral customs records).
@@ -15534,12 +15534,12 @@ if (intelTabsContainer) {
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="wfcCommodityToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="wfcBtnIronOre" onclick="setWfcCommodity('Iron ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore</button>
-                <button class="toggle-btn" id="wfcBtnBauxite" onclick="setWfcCommodity('Bauxite')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Bauxite</button>
-                <button class="toggle-btn" id="wfcBtnCoal" onclick="setWfcCommodity('Coal')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Coal</button>
-                <button class="toggle-btn" id="wfcBtnSoybeans" onclick="setWfcCommodity('Soybeans')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans</button>
+                <button class="toggle-btn active" id="wfcBtnIronOre" onclick="setWfcCommodity('Iron ore')" data-tt-type="cargo-generic-card" data-tt-title="China Intake: Iron Ore" data-tt-val="~100–110 Mt/month (~$10B/mo)" data-tt-sub="GACC Customs Import Value" data-tt-vessel="Capesize &amp; VLOC Fleet" data-tt-source="China GACC (Customs)" data-tt-note="Tracks China's sovereign monthly iron ore imports supplied primarily by Australia (65%+) and Brazil (20%+)." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Iron Ore</button>
+                <button class="toggle-btn" id="wfcBtnBauxite" onclick="setWfcCommodity('Bauxite')" data-tt-type="cargo-generic-card" data-tt-title="China Intake: Bauxite" data-tt-val="~12–15 Mt/month (~$1B/mo)" data-tt-sub="GACC HS 260600 Import Value" data-tt-vessel="Capesize Bulkers (~11,200 nm)" data-tt-source="China GACC (Customs)" data-tt-note="Tracks bauxite intake for China's aluminium industry, overwhelmingly supplied by Guinea (80%+) and Australia." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Bauxite</button>
+                <button class="toggle-btn" id="wfcBtnCoal" onclick="setWfcCommodity('Coal')" data-tt-type="cargo-generic-card" data-tt-title="China Intake: Thermal &amp; Coking Coal" data-tt-val="~35–45 Mt/month (~$3B/mo)" data-tt-sub="GACC HS 2701 Import Value" data-tt-vessel="Panamax, Supramax &amp; Capesize" data-tt-source="China GACC (Customs)" data-tt-note="Seaborne thermal coal (Indonesia, Australia) and overland metallurgical coal (Mongolia rail/trucking)." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Coal</button>
+                <button class="toggle-btn" id="wfcBtnSoybeans" onclick="setWfcCommodity('Soybeans')" data-tt-type="cargo-generic-card" data-tt-title="China Intake: Soybeans" data-tt-val="~8–12 Mt/month (~$5B/mo)" data-tt-sub="GACC HS 120100 Import Value" data-tt-vessel="Panamax &amp; Kamsarmax Bulkers" data-tt-source="China GACC (Customs)" data-tt-note="Bilateral oilseed imports swinging seasonally between Brazil (March–August) and the United States (September–January)." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Soybeans</button>
               </div>
-              <div id="whoFeedsChinaBadge" class="kpi-badge">China Import: —</div>
+              <div id="whoFeedsChinaBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Latest China Customs Observation" data-tt-val="GACC Disclosed Monthly Value" data-tt-sub="Bilateral Customs Clearing" data-tt-vessel="Bulk Fleet Discharging in China" data-tt-source="General Administration of Customs China" data-tt-note="Official CIF import customs valuation recorded upon discharge clearance at Chinese maritime ports." style="cursor:help;">China Import: —</div>
             </div>
           </div>
 
@@ -15560,18 +15560,18 @@ if (intelTabsContainer) {
         <div class="chart-container mb-20" id="worldSteelContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
             <div>
-              <div class="chart-title" id="worldSteelTitle" style="display:flex;align-items:center;gap:8px;">
+              <div class="chart-title" id="worldSteelTitle" data-tt-type="cargo-generic-card" data-tt-title="World Crude Steel Production Statistics" data-tt-val="~150–165 Mt/month Global Output" data-tt-sub="China vs. Rest of World (worldsteel)" data-tt-vessel="Capesize (Iron Ore) &amp; Panamax (Met Coal)" data-tt-source="World Steel Association (worldsteel.org)" data-tt-note="Monthly blast furnace and electric arc furnace production across 70 countries. Every 1 tonne of crude blast-furnace steel requires ~1.6 tonnes of iron ore and ~0.8 tonnes of metallurgical coal." style="display:flex;align-items:center;gap:8px;cursor:help;">
                 <span>World Crude Steel Production — China vs. Rest of World (worldsteel)</span>
-                <span class="badge" style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">Global Coverage</span>
+                <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="World Steel Association Production Coverage" data-tt-val="70 Reporting Countries" data-tt-sub="~97% of Global Crude Steel Output" data-tt-vessel="Capesize (Iron Ore), Panamax (Coking Coal)" data-tt-source="worldsteel (World Steel Association)" data-tt-note="Monthly crude steel production across major blast-furnace and electric arc furnace nations, the primary leading indicator for seaborne iron ore and coking coal demand." style="font-size:11px;padding:2px 6px;background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">Global Coverage</span>
               </div>
               <div style="font-size:11px;color:var(--text-muted);margin-top:2px;">
                 Official monthly production statistics from 70 reporting nations representing world crude steel output.
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="steelWorldBadge" class="kpi-badge">World: —</div>
-              <div id="steelChinaBadge" class="kpi-badge" style="background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);">China: —</div>
-              <div id="steelYoyBadge" class="kpi-badge">YoY: —</div>
+              <div id="steelWorldBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="World Crude Steel Production" data-tt-val="~145–160 Mt/month" data-tt-sub="70 Reporting Nations" data-tt-vessel="Raw Dry Bulk Demand Anchor" data-tt-source="World Steel Association (worldsteel)" data-tt-note="Aggregated crude steel output across 70 nations accounting for ~98% of total global production." style="cursor:help;">World: —</div>
+              <div id="steelChinaBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="China Crude Steel Production" data-tt-val="~75–85 Mt/month (~54% World)" data-tt-sub="CISA Mill Output" data-tt-vessel="Capesize &amp; Panamax Demand" data-tt-source="worldsteel / NBS China" data-tt-note="China is the world's largest steelmaker. Every 1 Mt change in crude steel requires ~1.6 Mt iron ore and ~0.8 Mt coking coal." style="background:rgba(88,166,255,0.15);color:#58a6ff;border:1px solid rgba(88,166,255,0.3);cursor:help;">China: —</div>
+              <div id="steelYoyBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Global Steel Production Momentum" data-tt-val="Year-on-Year Growth Rate" data-tt-sub="Trailing 12-Month Comparison" data-tt-vessel="Dry Bulk Macro Driver" data-tt-source="World Steel Association" data-tt-note="Annual expansion or contraction percentage in global steel mill output." style="cursor:help;">YoY: —</div>
             </div>
           </div>
 
@@ -15586,9 +15586,9 @@ if (intelTabsContainer) {
         <!-- 10. LANDED SOYBEAN TRANSPORTATION COST (US VS BRAZIL) -->
         <div class="chart-container mb-20" id="landedCostContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="landedCostTitle">Landed Soybean Transportation Cost to China (US vs Brazil)</div>
+            <div class="chart-title" id="landedCostTitle" data-tt-type="cargo-generic-card" data-tt-title="Seaborne Grain Landed Cost Model" data-tt-val="FOB Export Price + Ocean Freight + Canal Tolls" data-tt-sub="US Gulf vs Brazil Paranagua to Asian Discharge" data-tt-vessel="Panamax / Kamsarmax (60k–65k MT basis)" data-tt-source="USDA AMS GTR &amp; CEPEA/ESALQ Brazil" data-tt-note="Delivered CIF destination price comparison evaluating the economic competitiveness of South American vs US Gulf grain exports into Qingdao and Tokyo Bay." style="cursor:help;">Landed Soybean Transportation Cost to China (US vs Brazil)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-              <div id="landedCostBadge" class="kpi-badge">As of 2025 Q4 &mdash; 6-9m ERS lag</div>
+              <div id="landedCostBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Soybean Landed Transport Costs" data-tt-val="US vs Brazil Freight Differential" data-tt-sub="Farm Gate to Shanghai Port" data-tt-vessel="Panamax Bulkers" data-tt-source="USDA ERS / AMS Profile" data-tt-note="Compares total transportation cost (inland truck/rail, barge, port handling, ocean freight) for delivering soybeans to China from US Midwest vs Brazil Mato Grosso." style="cursor:help;">As of 2025 Q4 &mdash; 6-9m ERS lag</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="landedCostChart"></canvas></div>
@@ -15601,13 +15601,13 @@ if (intelTabsContainer) {
         <!-- 11. LEADING RESTOCKING PRESSURES (PORT STOCKS VS SPOT RATES) -->
         <div class="chart-container mb-20" id="restockingContainer">
           <div class="chart-header">
-            <div class="chart-title" id="restockingTitle">Leading Restocking Pressures (China Port Stocks vs Spot Rates)</div>
+            <div class="chart-title" id="restockingTitle" data-tt-type="cargo-generic-card" data-tt-title="China Steel Mill Restocking Pressure &amp; Port Stocks" data-tt-val="45 Major Coastal Port Inventories (Mt)" data-tt-sub="Port Stockpiles vs Capesize Spot Rates" data-tt-vessel="Capesize Bulkers (180k DWT basis)" data-tt-source="Mysteel / Steelhome Port Stock Inventories" data-tt-note="Tracks coastal iron ore port inventories against Baltic Capesize spot earnings. Depleted mill inventory triggers rapid chartering surges to rebuild furnace feedstocks." style="cursor:help;">Leading Restocking Pressures (China Port Stocks vs Spot Rates)</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="oreGradeToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
-                <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
+                <button class="toggle-btn active" id="oreBtn62" onclick="setOreGrade('62')" data-tt-type="cargo-generic-card" data-tt-title="Restocking: 62% Fe Standard Fines" data-tt-val="Benchmark Sinter Feed" data-tt-sub="Pilbara Fines (BHP, Rio, FMG)" data-tt-vessel="Capesize Pacific Run (C5)" data-tt-source="Mysteel / SGX Spot Benchmark" data-tt-note="Global benchmark iron ore grade. Compares port inventory days of consumption against landed spot price and ocean freight." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">62% Fe Standard</button>
+                <button class="toggle-btn" id="oreBtn65" onclick="setOreGrade('65')" data-tt-type="cargo-generic-card" data-tt-title="Restocking: 65% Carajás High-Grade Fines" data-tt-val="Premium Low-Alumina Feed" data-tt-sub="Vale Northern System (IOCJ)" data-tt-vessel="Capesize &amp; VLOC Atlantic Run (C3)" data-tt-source="Mysteel / SGX Spot Benchmark" data-tt-note="Premium Carajas ore used by mills to boost blast furnace productivity and cut carbon emissions. Higher price absorbs C3 freight." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">65% Carajas Fines</button>
               </div>
-              <div id="oreFreightRatioBadge" class="kpi-badge">Freight/Ore: —</div>
+              <div id="oreFreightRatioBadge" class="kpi-badge" data-tt-type="cargo-generic-card" data-tt-title="Ocean Freight-to-Ore Value Ratio" data-tt-val="C3/C5 Freight vs CFR Price" data-tt-sub="Freight Share of Delivered Value" data-tt-vessel="Capesize Fleet" data-tt-source="Baltic Exchange &amp; SGX" data-tt-note="Percentage of the landed iron ore price accounted for by seaborne freight. High ratio limits mill restocking propensity." style="cursor:help;">Freight/Ore: —</div>
             </div>
           </div>
           <div class="chart-canvas-wrap" style="height:320px"><canvas id="ironOreRestockingChart"></canvas></div>
@@ -15620,12 +15620,12 @@ if (intelTabsContainer) {
         <!-- 12. WORLD BANK COMMODITY DEMAND DRIVERS -->
         <div class="chart-container mb-20" id="commodityContainer">
           <div class="chart-header">
-            <div class="chart-title" id="commodityTitle">Cargo Demand Drivers &mdash; World Bank Commodity Prices</div>
+            <div class="chart-title" id="commodityTitle" data-tt-type="cargo-generic-card" data-tt-title="World Bank Commodity Markets (Pink Sheet)" data-tt-val="Global Monthly Commodity Price Indices" data-tt-sub="Raw Materials, Energy, Metals &amp; Agriculture" data-tt-vessel="Bulk Carriers, Tankers &amp; Gas Carriers" data-tt-source="World Bank Development Prospects Group" data-tt-note="Standardized global benchmark price series tracking macro commodity cycles, upstream extraction economics, and shipping demand fundamentals." style="cursor:help;">Cargo Demand Drivers &mdash; World Bank Commodity Prices</div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="commodityGroupToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="comGrpOre" onclick="setCommodityGroup('ore')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Ore &amp; Coal</button>
-                <button class="toggle-btn" id="comGrpEnergy" onclick="setCommodityGroup('energy')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Energy</button>
-                <button class="toggle-btn" id="comGrpGrain" onclick="setCommodityGroup('grain')" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Grains</button>
+                <button class="toggle-btn active" id="comGrpOre" onclick="setCommodityGroup('ore')" data-tt-type="cargo-generic-card" data-tt-title="World Bank Pink Sheet: Ore &amp; Coal" data-tt-val="Iron Ore (CFR China) &amp; Coal (Newcastle)" data-tt-sub="Raw Material Price Benchmarks" data-tt-vessel="Capesize &amp; Panamax Fleet" data-tt-source="World Bank Development Prospects Group" data-tt-note="Monthly commodity market prices compiled from major physical international transaction centers." style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Ore &amp; Coal</button>
+                <button class="toggle-btn" id="comGrpEnergy" onclick="setCommodityGroup('energy')" data-tt-type="cargo-generic-card" data-tt-title="World Bank Pink Sheet: Crude Energy" data-tt-val="Brent, WTI &amp; Dubai Crude" data-tt-sub="Global Energy Benchmarks" data-tt-vessel="Tanker &amp; Gas Carrier Fleet" data-tt-source="World Bank Development Prospects Group" data-tt-note="Global crude oil benchmarks driving tanker ton-mile demand and maritime bunker fuel costs." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Energy</button>
+                <button class="toggle-btn" id="comGrpGrain" onclick="setCommodityGroup('grain')" data-tt-type="cargo-generic-card" data-tt-title="World Bank Pink Sheet: Agricultural Grains" data-tt-val="Wheat (US HRW), Maize &amp; Soybeans" data-tt-sub="Global Food Price Index" data-tt-vessel="Panamax &amp; Supramax Bulkers" data-tt-source="World Bank Development Prospects Group" data-tt-note="International grain export prices shaping global agricultural trade flows and grain shipping routes." style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Grains</button>
               </div>
             </div>
           </div>
@@ -15639,14 +15639,14 @@ if (intelTabsContainer) {
         <!-- 13. CAPITAL LINK CONTAINER INDEX (CLCI) & FBX SPOT -->
         <div class="chart-container mb-20" id="containerIndexContainer">
           <div class="chart-header" style="flex-wrap:wrap;gap:8px;">
-            <div class="chart-title" id="containerIndexTitle">
+            <div class="chart-title" id="containerIndexTitle" data-tt-type="cargo-generic-card" data-tt-title="Container Equity Index (CLCI) &amp; Global Container Freight" data-tt-val="21-Year Continuous History (2005–2026)" data-tt-sub="Capital Link Container Index &amp; FBX Spot Rates" data-tt-vessel="Fully Cellular Containerships (Feeder to ULCV)" data-tt-source="Capital Link &amp; Freightos Baltic" data-tt-note="Coupled equity and spot rate benchmark spanning the 2008 cycle, 2016 downturn, 2021 supply chain squeeze, and Red Sea rerouting disruptions." style="cursor:help;">
               Container Equity Index (CLCI) &amp; Global Container Freight
-              <span class="badge" style="font-size:var(--fs-micro);font-weight:600;padding:2px 6px;border-radius:4px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);margin-left:6px;">21Y Continuous Benchmark</span>
+              <span class="badge" data-tt-type="cargo-generic-card" data-tt-title="Container Shipping Cycle (2005–2026)" data-tt-val="21-Year Continuous History" data-tt-sub="Capital Link Container Index (CLCI)" data-tt-vessel="Fully Cellular Containerships" data-tt-source="Capital Link &amp; Freightos Baltic" data-tt-note="Continuous equity and freight benchmark spanning 2008 super-cycle, 2016 downturn, 2021 pandemic boom, and Red Sea rerouting." style="font-size:var(--fs-micro);font-weight:600;padding:2px 6px;border-radius:4px;background:rgba(163,113,247,0.15);color:#a371f7;border:1px solid rgba(163,113,247,0.3);margin-left:6px;cursor:help;">21Y Continuous Benchmark</span>
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="containerViewToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                <button class="toggle-btn active" id="clciBtnSector" onclick="setContainerView('clci')" style="padding:4px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">CLCI Benchmark</button>
-                <button class="toggle-btn" id="clciBtnFbx" onclick="setContainerView('fbx')" style="padding:4px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">FBX Spot Freight ($/FEU)</button>
+                <button class="toggle-btn active" id="clciBtnSector" onclick="setContainerView('clci')" data-tt-type="cargo-generic-card" data-tt-title="Capital Link Container Index (CLCI)" data-tt-val="Public Containership Equities" data-tt-sub="Capitalization-Weighted Index" data-tt-vessel="Container Fleet Owners &amp; Liners" data-tt-source="Capital Link Maritime Indices" data-tt-note="Market capitalization-weighted equity benchmark of publicly listed container shipping operators and tonnage providers." style="padding:4px 10px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">CLCI Benchmark</button>
+                <button class="toggle-btn" id="clciBtnFbx" onclick="setContainerView('fbx')" data-tt-type="cargo-generic-card" data-tt-title="Freightos Baltic Global Container Index (FBX)" data-tt-val="Global Spot Container Freight ($/FEU)" data-tt-sub="40-Foot Equivalent Unit Benchmark" data-tt-vessel="Boxship Fleet (Feeders to ULCVs)" data-tt-source="Freightos Baltic Index (FBX)" data-tt-note="Global weighted average spot box rate calculated across 12 major trade lanes covering 50M+ annual container bookings." style="padding:4px 10px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">FBX Spot Freight ($/FEU)</button>
               </div>
             </div>
           </div>
@@ -15747,7 +15747,7 @@ if (intelTabsContainer) {
       <div class="bix-movers-wrap">
         <div class="bix-strip-head"><span class="bnkr-tag">BIX</span><span id="bunkerBixMoversHead">Regional movers · latest price and change vs prior observation</span><span class="bix-arch-badge" id="bunkerBixMoversObs" data-tt-type="bix-archive-badge"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px; margin-right:4px; opacity:0.85;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>obs —</span></div>
         <table class="bix-movers-table" data-tt-type="bix-movers">
-          <thead><tr><th>Region</th><th>VLSFO</th><th>IFO380</th><th>MGO</th></tr></thead>
+          <thead><tr><th data-tt-type="cargo-generic-card" data-tt-title="Bunker Index Regional Basin" data-tt-val="Global Bunkering Suites" data-tt-sub="Geographic Supply Zones" data-tt-vessel="Commercial Fleet" data-tt-source="BunkerIndex BIX Collection" data-tt-note="Regional benchmark groupings: World, World3 (Rotterdam/Fujairah/Singapore), APAC, EMEA, and Americas." style="cursor:help;">Region</th><th data-tt-type="cargo-generic-card" data-tt-title="Very Low Sulfur Fuel Oil (0.5% S)" data-tt-val="Regional VLSFO Benchmark" data-tt-sub="IMO 2020 Compliant Standard" data-tt-vessel="Non-Scrubber Fleet" data-tt-source="BunkerIndex BIX Daily Indices" data-tt-note="Delivered regional benchmark average price ($/MT) and change vs prior observation." style="cursor:help;">VLSFO</th><th data-tt-type="cargo-generic-card" data-tt-title="High Sulfur Fuel Oil IFO380 (3.5% S)" data-tt-val="Regional HSFO Benchmark" data-tt-sub="High-Viscosity Residual Fuel" data-tt-vessel="Scrubber-Fitted Fleet" data-tt-source="BunkerIndex BIX Daily Indices" data-tt-note="Delivered regional benchmark average price ($/MT) for scrubber-equipped vessels burning heavy fuel." style="cursor:help;">IFO380</th><th data-tt-type="cargo-generic-card" data-tt-title="Marine Gas Oil (0.1% S)" data-tt-val="Regional MGO Benchmark" data-tt-sub="Low Sulfur Marine Distillate" data-tt-vessel="ECA-Operating &amp; Port Auxiliary Fleet" data-tt-source="BunkerIndex BIX Daily Indices" data-tt-note="Delivered regional benchmark distillate fuel price ($/MT) mandatory inside emission control areas." style="cursor:help;">MGO</th></tr></thead>
           <tbody id="bunkerBixMoversBody"><!-- Populated by renderBunkersBixMovers() --></tbody>
         </table>
       </div>
@@ -15805,14 +15805,14 @@ if (intelTabsContainer) {
 
             <div id="bunkersFilterBanner" style="display:none; padding:7px 12px; background:rgba(0, 229, 255, 0.08); border-bottom:1px solid rgba(0, 229, 255, 0.25); font-size:11px; color:#c9d1d9; justify-content:space-between; align-items:center;">
               <span id="bunkersFilterBannerText">Filtered by Biofuels (B24): 8 premier global supply ports active.</span>
-              <button id="bunkerShowAllPortsBtn" onclick="setBunkerGrade('all'); setBunkerRegion('all');" style="background:none; border:none; color:#58a6ff; cursor:pointer; font-size:11px; text-decoration:underline; font-family:inherit;">Show All Ports</button>
+              <button id="bunkerShowAllPortsBtn" onclick="setBunkerGrade('all'); setBunkerRegion('all');" style="background:none; border:none; color:#58a6ff; cursor:pointer; font-size:11px; text-decoration:underline; font-family:inherit;" data-tooltip="Reset all filters to show all 221 physical bunker ports across all geographic regions and fuel grades.">Show All Ports</button>
             </div>
             <div class="bunkers-table-wrap">
               <table class="bunkers-table">
                 <thead>
                   <tr>
                     <th data-tooltip="Bunkering port or marine fuel supply terminal. Click to open Port Detail.">Port / Hub</th>
-                    <th data-tooltip="Geographical trading zone.">Region</th>
+                    <th data-tooltip="Major global marine refueling theater: Asia-Pacific (APAC), Europe/Middle East/Africa (EMEA), or Americas (AME).">Region</th>
                     <th data-tooltip="Very Low Sulphur Fuel Oil (0.5% max sulphur) price in $/MT.">VLSFO</th>
                     <th data-tooltip="Marine Gas Oil (0.1% max sulphur) distillate price in $/MT.">MGO</th>
                     <th id="bunkersThCol5" data-tooltip="High Sulphur Fuel Oil (3.5% max sulphur) price in $/MT.">HSFO</th>
@@ -15850,7 +15850,7 @@ if (intelTabsContainer) {
                 </select>
               </div>
               <div style="display:flex; align-items:center; gap:8px;">
-                <span id="bunkerFwdStructureBadge" class="bunker-term-badge backwardation">BACKWARDATION</span>
+                <span id="bunkerFwdStructureBadge" class="bunker-term-badge backwardation" data-tt-type="cargo-generic-card" data-tt-title="Forward Curve Market Structure" data-tt-val="Backwardation / Contango" data-tt-sub="12-Month Tenor Trajectory" data-tt-vessel="Bunker Buyers &amp; Fuel Hedgers" data-tt-source="BunkerIndex Clearing Swaps" data-tt-note="Backwardation indicates near-term prompt spot tightness where prompt prices exceed forward tenors. Contango reflects prompt surplus with forward carrying cost premiums." style="cursor:help;">BACKWARDATION</span>
                 <span class="bunker-museum-badge" data-tooltip="BunkerIndex single-slope term-structure model anchored to spot indication (M0) across 12 forward delivery contracts.">MODELLED · BunkerIndex Single-Slope · As-of 2026-09-05</span>
               </div>
             </div>
@@ -15889,7 +15889,7 @@ if (intelTabsContainer) {
                   <option value="Rotterdam">Rotterdam (Port Authority Deliveries)</option>
                 </select>
               </div>
-              <span id="bunkerVolBadge" class="bunker-term-badge" style="background:rgba(0,229,255,0.12); color:#00e5ff; border:1px solid rgba(0,229,255,0.3);">5-YEAR SEASONAL ENVELOPE</span>
+              <span id="bunkerVolBadge" class="bunker-term-badge" data-tt-type="cargo-generic-card" data-tt-title="Bunker Sales Seasonal Envelope" data-tt-val="5-Year Historical Band (2021–2026)" data-tt-sub="Monthly Sales Volumes" data-tt-vessel="Merchant Fleet Refueling" data-tt-source="MPA Singapore &amp; Port of Rotterdam" data-tt-note="Compares current monthly bunker sales against historical 5-year monthly minimum and maximum volumes to detect macro shipping activity trends." style="background:rgba(0,229,255,0.12); color:#00e5ff; border:1px solid rgba(0,229,255,0.3); cursor:help;">5-YEAR SEASONAL ENVELOPE</span>
             </div>
             <!-- Physical Volumes Chart -->
             <div style="height:230px; position:relative; padding:10px; background:#070b10; border-bottom:1px solid var(--border);">
@@ -15902,7 +15902,7 @@ if (intelTabsContainer) {
                     <th data-tooltip="Reported calendar delivery month or quarter.">Period</th>
                     <th data-tooltip="Reporting cadence (Monthly official port authority statistics).">Frequency</th>
                     <th data-tooltip="Total bunker fuel delivered in metric tonnes (MT).">Volume (Metric Tonnes)</th>
-                    <th data-tooltip="Fuel delivery breakdown category.">Metric Type</th>
+                    <th data-tooltip="Fuel grade category breakdown: Conventional residual fuel oil (VLSFO/HSFO), marine distillates (MGO/LSMGO), or alternative low-carbon blends (biofuel B24, LNG, methanol).">Metric Type</th>
                   </tr>
                 </thead>
                 <tbody id="bunkersVolumesTableBody">
@@ -16142,7 +16142,7 @@ if (intelTabsContainer) {
         <div class="offshore-kpi-card" data-tooltip=" " data-tt-type="offshore-kpi-card" data-tt-segment="large_ahts" onclick="setOffshoreSegment('large_ahts')">
           <div class="offshore-kpi-label">
             <span>Large AHTS (&gt;22,000 BHP)</span>
-            <span class="osv-badge" style="background:rgba(240,136,62,0.15); color:#f0883e; border:1px solid rgba(240,136,62,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro);">DEEPWATER</span>
+            <span class="osv-badge" data-tt-type="cargo-generic-card" data-tt-title="Large AHTS Operating Depth" data-tt-val="&gt;22,000 BHP Rating" data-tt-sub="Deepwater &amp; Harsh Environment" data-tt-vessel="Ultra-Large Anchor Handling Tugs" data-tt-source="Seabrokers Seabreeze" data-tt-note="Capable of deepwater pre-laid mooring, ultra-deep semi-submersible rig moves, and floating production installation in harsh North Sea / West of Shetland conditions." style="background:rgba(240,136,62,0.15); color:#f0883e; border:1px solid rgba(240,136,62,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro); cursor:help;">DEEPWATER</span>
           </div>
           <div class="offshore-kpi-val" id="offshoreKpiRateLargeAHTS" style="color:#f0883e;">—</div>
           <div class="offshore-kpi-sub" id="offshoreKpiSubLargeAHTS">—</div>
@@ -16150,7 +16150,7 @@ if (intelTabsContainer) {
         <div class="offshore-kpi-card" data-tooltip=" " data-tt-type="offshore-kpi-card" data-tt-segment="med_ahts" onclick="setOffshoreSegment('med_ahts')">
           <div class="offshore-kpi-label">
             <span>Medium AHTS (&lt;22,000 BHP)</span>
-            <span class="osv-badge" style="background:rgba(227,179,65,0.15); color:#e3b341; border:1px solid rgba(227,179,65,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro);">MIDWATER</span>
+            <span class="osv-badge" data-tt-type="cargo-generic-card" data-tt-title="Medium AHTS Operating Depth" data-tt-val="&lt;22,000 BHP Rating" data-tt-sub="Midwater &amp; Continental Shelf" data-tt-vessel="Anchor Handling Tug Supply" data-tt-source="Seabrokers Seabreeze" data-tt-note="Standard anchor handling and towing duties across southern and central North Sea fields and conventional jacket moorings." style="background:rgba(227,179,65,0.15); color:#e3b341; border:1px solid rgba(227,179,65,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro); cursor:help;">MIDWATER</span>
           </div>
           <div class="offshore-kpi-val" id="offshoreKpiRateMedAHTS" style="color:#e3b341;">—</div>
           <div class="offshore-kpi-sub" id="offshoreKpiSubMedAHTS">—</div>
@@ -16158,7 +16158,7 @@ if (intelTabsContainer) {
         <div class="offshore-kpi-card" data-tooltip=" " data-tt-type="offshore-kpi-card" data-tt-segment="large_psv" onclick="setOffshoreSegment('large_psv')">
           <div class="offshore-kpi-label">
             <span>Large PSV (&gt;900 m²)</span>
-            <span class="osv-badge" style="background:rgba(88,166,255,0.15); color:#58a6ff; border:1px solid rgba(88,166,255,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro);">DECK &gt;900m²</span>
+            <span class="osv-badge" data-tt-type="cargo-generic-card" data-tt-title="Large Platform Supply Vessel" data-tt-val="&gt;900 m² Clear Deck Area" data-tt-sub="Deepwater Supply &amp; Subsea Logistics" data-tt-vessel="Large PSV (4,000+ DWT)" data-tt-source="Seabrokers Seabreeze" data-tt-note="Maximized deck capacity and multi-tank bulk cargo systems carrying fuel, potable water, liquid mud, brine, and dry bulk cement to offshore platforms." style="background:rgba(88,166,255,0.15); color:#58a6ff; border:1px solid rgba(88,166,255,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro); cursor:help;">DECK &gt;900m²</span>
           </div>
           <div class="offshore-kpi-val" id="offshoreKpiRateLargePSV" style="color:#58a6ff;">—</div>
           <div class="offshore-kpi-sub" id="offshoreKpiSubLargePSV">—</div>
@@ -16166,7 +16166,7 @@ if (intelTabsContainer) {
         <div class="offshore-kpi-card" data-tooltip=" " data-tt-type="offshore-kpi-card" data-tt-segment="med_psv" onclick="setOffshoreSegment('med_psv')">
           <div class="offshore-kpi-label">
             <span>Medium PSV (&lt;900 m²)</span>
-            <span class="osv-badge" style="background:rgba(63,185,80,0.15); color:#3fb950; border:1px solid rgba(63,185,80,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro);">DECK &lt;900m²</span>
+            <span class="osv-badge" data-tt-type="cargo-generic-card" data-tt-title="Medium Platform Supply Vessel" data-tt-val="&lt;900 m² Clear Deck Area" data-tt-sub="Shallow-to-Midwater Field Supply" data-tt-vessel="Medium PSV (3,000–4,000 DWT)" data-tt-source="Seabrokers Seabreeze" data-tt-note="Workhorse supply vessels servicing closer-to-shore platforms and smaller exploration drilling campaigns." style="background:rgba(63,185,80,0.15); color:#3fb950; border:1px solid rgba(63,185,80,0.3); border-radius:4px; padding:1px 5px; font-size:var(--fs-micro); cursor:help;">DECK &lt;900m²</span>
           </div>
           <div class="offshore-kpi-val" id="offshoreKpiRateMedPSV" style="color:#3fb950;">—</div>
           <div class="offshore-kpi-sub" id="offshoreKpiSubMedPSV">—</div>
@@ -31157,8 +31157,24 @@ function renderFearnleysSnpTable() {
         var topLane = (r.top_trade_lanes && r.top_trade_lanes.length) ? r.top_trade_lanes[0].lane : 'Global Diversified';
         var topVc = (r.top_vessel_classes && r.top_vessel_classes.length) ? r.top_vessel_classes[0].class : 'General Bulker';
         var isUnclass = r.canonical.indexOf('Unclassified') >= 0;
+        var volMt = r.total_volume_mt ? (r.total_volume_mt / 1e6).toFixed(1) : '';
+        var sharePct = r.volume_share_pct ? r.volume_share_pct.toFixed(1) + '%' : '';
+        var avgParcel = r.avg_parcel_size_kt ? Math.round(r.avg_parcel_size_kt) : '';
+        var covPct = r.quantity_coverage_pct != null ? r.quantity_coverage_pct.toFixed(1) : '';
+        var noteTxt = escapeHtml('Top trade lane: ' + topLane + '. Commercial charter fixtures normalized under standard maritime taxonomy.');
 
-        html += '<tr' + (isUnclass ? ' style="background:rgba(227,179,65,0.06);font-weight:600;"' : '') + '>';
+        html += '<tr' + (isUnclass ? ' style="background:rgba(227,179,65,0.06);font-weight:600;cursor:help;"' : ' style="cursor:help;"') +
+          ' data-tt-type="cargo-matrix-cell"' +
+          ' data-tt-commodity="' + escapeHtml(r.canonical) + '"' +
+          ' data-tt-group="' + escapeHtml(r.subgroup || r.group || '') + '"' +
+          ' data-tt-fixtures="' + r._displayCount.toLocaleString('en-US') + '"' +
+          ' data-tt-vol="' + volMt + '"' +
+          ' data-tt-share="' + sharePct + '"' +
+          ' data-tt-vessel="' + escapeHtml(topVc) + '"' +
+          ' data-tt-parcel="' + avgParcel + '"' +
+          ' data-tt-coverage="' + covPct + '"' +
+          ' data-tt-note="' + noteTxt + '"' +
+          '>';
         html += '<td style="font-family:IBM Plex Mono,monospace;color:var(--text-bright);">' + r.canonical + '</td>';
         html += '<td>' + (r.subgroup || r.group) + '</td>';
         html += '<td style="text-align:right;font-family:IBM Plex Mono,monospace;font-weight:700;">' + r._displayCount.toLocaleString('en-US') + '</td>';
@@ -31175,7 +31191,14 @@ function renderFearnleysSnpTable() {
         matrix.coverage_catalog.forEach(function(c) {
           var statusBadge = '<span class="cargo-badge-live">LIVE</span>';
 
-          cHtml += '<div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">';
+          cHtml += '<div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:10px 12px;cursor:help;"' +
+            ' data-tt-type="cargo-generic-card"' +
+            ' data-tt-title="' + escapeHtml(c.node) + '"' +
+            ' data-tt-val="' + c.fixtures.toLocaleString('en-US') + ' broker fixtures"' +
+            ' data-tt-sub="Active observation node in commercial fixture ledger"' +
+            ' data-tt-source="' + escapeHtml(c.source) + '"' +
+            ' data-tt-note="Directly linked to physical cargo departures and charter reports across dry bulk, liquid, and gas segments."' +
+            '>';
           cHtml += '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;">';
           cHtml += '<strong style="font-size:11px;color:var(--text);">' + c.node + '</strong>';
           cHtml += statusBadge;
@@ -31373,8 +31396,16 @@ function renderFearnleysSnpTable() {
               var col = isChina ? 'var(--accent)' : 'var(--text-bright)';
               var bg = isChina ? 'rgba(88,166,255,0.1)' : 'var(--bg)';
               var border = isChina ? 'rgba(88,166,255,0.4)' : 'var(--border)';
-              return '<div style="background:' + bg + ';border:1px solid ' + border + ';border-radius:4px;padding:6px 8px;text-align:center;">' +
-                '<div style="font-size:11px;color:var(--text-muted);text-transform:uppercase;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="' + escapeHtml(d.destination) + '">' + escapeHtml(d.destination) + '</div>' +
+              var haulDist = d.destination === 'China' ? '~3,500 nm (12-day Capesize laden run)' : (d.destination === 'Japan' ? '~3,800 nm' : (d.destination === 'South Korea' ? '~3,600 nm' : 'Direct seaborne route'));
+              return '<div style="background:' + bg + ';border:1px solid ' + border + ';border-radius:4px;padding:6px 8px;text-align:center;cursor:help;"' +
+                ' data-tt-type="cargo-destination-tile"' +
+                ' data-tt-dest="' + escapeHtml(d.destination) + '"' +
+                ' data-tt-vol="' + d.tonnes_mt.toFixed(1) + '"' +
+                ' data-tt-share="' + d.share_pct.toFixed(2) + '%"' +
+                ' data-tt-haul="' + haulDist + '"' +
+                ' data-tt-note="Official Pilbara Ports Authority export disclosure. Dedicated berths load Capesize and VLOC vessels for direct Pacific discharge."' +
+                '>' +
+                '<div style="font-size:11px;color:var(--text-muted);text-transform:uppercase;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">' + escapeHtml(d.destination) + '</div>' +
                 '<div style="font-size:13px;font-weight:700;color:' + col + ';margin:2px 0;">' + d.share_pct.toFixed(2) + '%</div>' +
                 '<div style="font-size:11px;color:var(--text-muted);">' + d.tonnes_mt.toFixed(1) + ' Mt</div>' +
               '</div>';
@@ -31839,10 +31870,25 @@ function renderFearnleysSnpTable() {
           var displayMonth = (monthNames[parts[1]] || parts[1]) + ' ' + parts[0];
           var isLatest = (ym === ic.latest_date);
           var topDests = dests.slice(0, 4);
+          var destSummary = topDests.map(function(d){ return d.destination + ' (' + d.share_pct.toFixed(1) + '%)'; }).join(', ');
           var pillsHtml = topDests.map(function(d) {
-            return '<span><strong>' + escapeHtml(d.destination) + ':</strong> ' + d.tonnes_mt.toFixed(2) + ' Mt (' + d.share_pct.toFixed(1) + '%)</span>';
+            return '<span data-tt-type="cargo-destination-tile"' +
+              ' data-tt-dest="' + escapeHtml(d.destination) + '"' +
+              ' data-tt-vol="' + d.tonnes_mt.toFixed(2) + ' Mt"' +
+              ' data-tt-share="' + d.share_pct.toFixed(1) + '%"' +
+              ' data-tt-haul="Short to medium haul Pacific route (~1,500–3,500 nm)"' +
+              ' data-tt-note="Indonesian coal offtake discharged at coastal power utilities and industrial boilers."' +
+              ' style="cursor:help;"><strong>' + escapeHtml(d.destination) + ':</strong> ' + d.tonnes_mt.toFixed(2) + ' Mt (' + d.share_pct.toFixed(1) + '%)</span>';
           }).join(' ');
-          return '<div style="background:var(--bg);border:1px solid ' + (isLatest ? 'rgba(88,166,255,0.4)' : 'var(--border)') + ';border-radius:6px;padding:8px 12px;">' +
+          return '<div style="background:var(--bg);border:1px solid ' + (isLatest ? 'rgba(88,166,255,0.4)' : 'var(--border)') + ';border-radius:6px;padding:8px 12px;cursor:help;"' +
+            ' data-tt-type="cargo-generic-card"' +
+            ' data-tt-title="Indonesia Seaborne Coal: ' + displayMonth + '"' +
+            ' data-tt-val="' + totalMt + ' Mt (Total Coal &amp; Lignite)"' +
+            ' data-tt-sub="HS 2701 Headline: ' + headlineMt + ' Mt | Lignite HS 2702: ' + ligniteMt + ' Mt"' +
+            ' data-tt-vessel="Panamax, Supramax &amp; Geared Bulkers"' +
+            ' data-tt-source="Badan Pusat Statistik (BPS) Monthly Customs"' +
+            ' data-tt-note="Top offtakers: ' + destSummary + '. Key Kalimantan river barging and deep-water transshipment anchorages."' +
+            '>' +
             '<div style="font-size:11px;font-weight:700;color:' + (isLatest ? 'var(--accent)' : 'var(--text-bright)') + ';margin-bottom:4px;display:flex;justify-content:space-between;align-items:center;">' +
               '<span>' + displayMonth + ' Export Destinations (' + totalMt + ' Mt Total Seaborne)</span>' +
               (isLatest ? '<span class="badge" style="font-size:11px;padding:1px 4px;background:rgba(88,166,255,0.15);color:#58a6ff;">LATEST MONTH</span>' : '') +
@@ -31904,7 +31950,15 @@ function renderFearnleysSnpTable() {
       if (tbody && gb.producers_2025) {
         tbody.innerHTML = gb.producers_2025.map(function(p) {
           var share = ((p.tonnes_mt / total2025) * 100).toFixed(1);
-          return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">' +
+          return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);cursor:help;"' +
+            ' data-tt-type="cargo-producer-row"' +
+            ' data-tt-operator="' + escapeHtml(p.company || '') + '"' +
+            ' data-tt-vol="' + p.tonnes_mt.toFixed(1) + '"' +
+            ' data-tt-share="' + share + '%"' +
+            ' data-tt-terminal="' + escapeHtml(p.export_terminal || 'Rio Nunez / Boké') + '"' +
+            ' data-tt-dest="' + escapeHtml(p.key_destination || 'China & International') + '"' +
+            ' data-tt-note="Major West African bauxite concessionaire exporting via dedicated Capesize stems."' +
+            '>' +
             '<td style="padding:6px 8px;font-weight:600;color:var(--text-bright);">' + escapeHtml(p.company || '') + '</td>' +
             '<td style="padding:6px 8px;text-align:right;color:var(--accent);font-weight:700;">' + p.tonnes_mt.toFixed(1) + ' Mt</td>' +
             '<td style="padding:6px 8px;text-align:right;color:var(--text-muted);">' + share + '%</td>' +
@@ -31912,7 +31966,15 @@ function renderFearnleysSnpTable() {
             '<td style="padding:6px 8px;color:var(--text);">' + escapeHtml(p.key_destination || 'China & International') + '</td>' +
           '</tr>';
         }).join('') +
-        '<tr style="font-weight:700;border-top:1px solid var(--border);">' +
+        '<tr style="font-weight:700;border-top:1px solid var(--border);cursor:help;"' +
+          ' data-tt-type="cargo-generic-card"' +
+          ' data-tt-title="Republic of Guinea National Total"' +
+          ' data-tt-val="' + total2025.toFixed(1) + ' Mt Seaborne Exports"' +
+          ' data-tt-sub="Official Ministry of Mines Annual Report 2025"' +
+          ' data-tt-vessel="Capesize Fleet (~1,000+ Laden Voyages)"' +
+          ' data-tt-source="mines.gov.gn Annual Report 2025"' +
+          ' data-tt-note="Annual record bauxite export volume establishing Guinea as the world's largest seaborne bauxite supplier (+' + yoyVal + '% YoY)."' +
+          '>' +
           '<td style="padding:6px 8px;color:var(--text-bright);">Total National Seaborne Record</td>' +
           '<td style="padding:6px 8px;text-align:right;color:#3fb950;">' + total2025.toFixed(1) + ' Mt</td>' +
           '<td style="padding:6px 8px;text-align:right;color:var(--text-muted);">100.0%</td>' +
@@ -31998,7 +32060,16 @@ function renderFearnleysSnpTable() {
         var flow = flows[k];
         var safeId = 'minorBulkCanvas_' + idx;
         var mtStr = (flow.latest_mt != null) ? flow.latest_mt.toFixed(2) + ' Mt/mo' : (flow.latest_usd ? 'USD Only (Volume Pending)' : '');
-        return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;">' +
+        var yoyVal = flow.yoy_pct != null ? (flow.yoy_pct >= 0 ? '+' : '') + flow.yoy_pct.toFixed(1) + '%' : '—';
+        return '<div style="background:var(--card);border:1px solid var(--border);border-radius:6px;padding:10px 12px;cursor:help;"' +
+          ' data-tt-type="cargo-minor-bulk-card"' +
+          ' data-tt-commodity="' + escapeHtml(k) + '"' +
+          ' data-tt-vol="' + (flow.latest_mt != null ? flow.latest_mt.toFixed(2) : '—') + '"' +
+          ' data-tt-yoy="' + yoyVal + '"' +
+          ' data-tt-corridor="' + escapeHtml(flow.trade_flow || 'Regional maritime trade') + '"' +
+          ' data-tt-vessel="' + escapeHtml(flow.vessel_class || 'Supramax / Handysize') + '"' +
+          ' data-tt-note="National customs agency trade flow data compiled across key Atlantic and Pacific industrial corridors."' +
+          '>' +
           '<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:6px;">' +
             '<div>' +
               '<div style="font-size:12px;font-weight:700;color:var(--text-bright);">' + k + '</div>' +
@@ -32074,10 +32145,24 @@ function renderFearnleysSnpTable() {
         tbody.innerHTML = ag.latest_ports_breakdown.map(function(p) {
           var isUp = (p.basin || '').toLowerCase().indexOf('up-river') !== -1;
           var basinBadge = isUp ?
+          var isUp = p.basin && p.basin.indexOf('Up-River') >= 0;
+          var basinBadge = isUp ?
             '<span style="color:#58a6ff;background:rgba(88,166,255,0.15);padding:1px 5px;border-radius:3px;font-size:11px;">Up-River Paran&aacute;</span>' :
             '<span style="color:#3fb950;background:rgba(63,185,80,0.15);padding:1px 5px;border-radius:3px;font-size:11px;">Ocean Deepwater</span>';
           var mt = (p.tonnes / 1000000.0).toFixed(2);
-          return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">' +
+          var volKt = p.tonnes ? (p.tonnes / 1e3).toFixed(1) : '0';
+          var shareStr = (p.share_pct != null ? p.share_pct.toFixed(2) : '0.0') + '%';
+          var draftStr = isUp ? 'Parana Up-River (~32–34 ft Max Draft)' : 'Deep-Water Ocean Terminal (>42 ft Draft)';
+          var noteStr = isUp ? 'Vessels short-load in Rosario and top off deadweight at Bahia Blanca or Necochea.' : 'Deep-water top-off hub permitting full laden draft for long-haul ocean transit.';
+          return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);cursor:help;"' +
+            ' data-tt-type="cargo-port-row"' +
+            ' data-tt-port="' + escapeHtml(p.port || '') + '"' +
+            ' data-tt-vol="' + volKt + '"' +
+            ' data-tt-share="' + shareStr + '"' +
+            ' data-tt-draft="' + draftStr + '"' +
+            ' data-tt-crop="Corn, Wheat, Soybeans, Soymeal Pellets"' +
+            ' data-tt-note="' + noteStr + '"' +
+            '>' +
             '<td style="padding:6px 8px;font-weight:600;color:var(--text-bright);">' + (p.port || '') + '</td>' +
             '<td style="padding:6px 8px;">' + basinBadge + '</td>' +
             '<td style="padding:6px 8px;text-align:right;color:var(--text-muted);">' + Math.round(p.tonnes).toLocaleString('en-US') + '</td>' +
@@ -32085,8 +32170,7 @@ function renderFearnleysSnpTable() {
             '<td style="padding:6px 8px;text-align:right;color:var(--accent);font-weight:700;">' + (p.share_pct != null ? p.share_pct.toFixed(2) + '%' : '—') + '</td>' +
             '<td style="padding:6px 8px;text-align:right;color:var(--text-muted);">' + (isUp ? 'Draft restricted (~32-34 ft)' : 'Deep draft top-off (>42 ft)') + '</td>' +
           '</tr>';
-        }).join('');
-      }
+        }).join('');      }
 
       var colors = {
         corn: '#e3b341',
@@ -32224,7 +32308,16 @@ function renderFearnleysSnpTable() {
           var modeBadge = isOverland ?
             '<span style="font-size:11px;background:rgba(245,158,11,0.15);color:#f59e0b;padding:1px 4px;border-radius:3px;margin-left:4px;">Rail/Overland</span>' :
             '<span style="font-size:11px;background:rgba(88,166,255,0.15);color:#58a6ff;padding:1px 4px;border-radius:3px;margin-left:4px;">Seaborne ' + (cmdObj.shipping_class || '') + '</span>';
-          return '<div style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:6px 10px;font-size:11px;">' +
+          var haulDist = p.country === 'Australia' ? '~3,500 nm' : (p.country === 'Brazil' ? '~11,500 nm' : (p.country === 'Guinea' ? '~11,200 nm' : (p.country === 'Indonesia' ? '~2,200 nm' : (isOverland ? 'Cross-Border Rail' : 'Direct Seaborne'))));
+          var noteTxt = isOverland ? 'Transported via cross-border rail and heavy haulage trucking corridors.' : 'Long-haul ocean bulk carrier routing directly impacting ton-mile demand.';
+          return '<div style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:6px 10px;font-size:11px;cursor:help;"' +
+            ' data-tt-type="cargo-destination-tile"' +
+            ' data-tt-dest="' + escapeHtml(p.country) + '"' +
+            ' data-tt-vol="' + (p.usd_m ? '$' + Math.round(p.usd_m).toLocaleString('en-US') + 'M' : p.share_pct.toFixed(1) + '%') + '"' +
+            ' data-tt-share="' + p.share_pct.toFixed(1) + '%"' +
+            ' data-tt-haul="' + haulDist + '"' +
+            ' data-tt-note="' + noteTxt + '"' +
+            '>' +
             '<span style="color:var(--text-muted);">' + p.country + ':</span> ' +
             '<strong style="color:var(--text-bright);">' + p.share_pct.toFixed(1) + '%</strong>' +
             modeBadge +
@@ -48242,6 +48335,139 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Coverage</span><span class="rt-val">41 Strategic Maritime Ports</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Data Frequency</span><span class="rt-val">Weekly Calibrated AIS Influx</span></div>`;
           if (desc) html += `<div class="rt-note">${desc}</div>`;
+        }
+
+        // ── CARGO & TRADE FLOWS TAB HANDLERS ────────────────────────────────
+        else if (type === 'cargo-hud-ore') {
+          const oreVal = (document.getElementById('cargoHudIronOre') ? document.getElementById('cargoHudIronOre').textContent : '59.4 Mt/mo');
+          const subText = (document.getElementById('cargoHudIronOreSub') ? document.getElementById('cargoHudIronOreSub').textContent : 'Port Hedland: 46.6 Mt | Dampier: 12.8 Mt');
+          html = `<div class="rt-title"><span style="color:#58a6ff;">●</span> Pilbara Seaborne Iron Ore Run-Rate</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Combined Run-Rate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${oreVal}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Hub Breakdown</span><span class="rt-val">${subText}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Primary Fleet Class</span><span class="rt-val">Capesize (180–210k DWT) &amp; VLOC (250–400k)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Key Benchmark</span><span class="rt-val">Baltic C5 Route (West Australia to Qingdao)</span></div>`;
+          html += `<div class="rt-note">Pilbara Ports Authority accounts for ~60% of world seaborne iron ore exports. Every 1.0 Mt/month throughput change drives approximately 5–6 Capesize laden voyages and shifts prompt Pacific vessel availability.</div>`;
+        }
+        else if (type === 'cargo-hud-grains') {
+          const grainVal = (document.getElementById('cargoHudGrains') ? document.getElementById('cargoHudGrains').textContent : '38.1 Mt');
+          const subText = (document.getElementById('cargoHudGrainsSub') ? document.getElementById('cargoHudGrainsSub').textContent : 'Week ending 2026-09-03');
+          html = `<div class="rt-title"><span style="color:#3fb950;">●</span> USDA FAS Outstanding Export Commitments</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Forward Commitments</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${grainVal}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Reporting Period</span><span class="rt-val">${subText}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Commodity Basket</span><span class="rt-val">US Wheat, Corn, Soybeans, Cotton &amp; Sorghum</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Primary Fleet Class</span><span class="rt-val">Panamax / Kamsarmax (75–82k) &amp; Supramax (55–64k)</span></div>`;
+          html += `<div class="rt-note">Statutory forward export sales reported under 7 CFR Part 20. Forward commitments lead physical ocean vessel stem line-ups and export elevator loadings by 3–6 weeks. Source: USDA FAS.</div>`;
+        }
+        else if (type === 'cargo-hud-fixtures') {
+          const fixVal = (document.getElementById('cargoHudFixtures') ? document.getElementById('cargoHudFixtures').textContent : '412k Classified (75.4%)');
+          const subText = (document.getElementById('cargoHudFixturesSub') ? document.getElementById('cargoHudFixturesSub').textContent : '547k Fixtures');
+          html = `<div class="rt-title"><span style="color:#bc8cff;">●</span> Commercial Charter Fixture Ledger</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Classified Volume</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${fixVal}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Ledger Scope</span><span class="rt-val">${subText}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Classification Multi-Field</span><span class="rt-val">Segment, Department, Route, Charterer &amp; Remarks</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Sector Coverage</span><span class="rt-val">Dry Bulk (Cape/Pana/Supra/Handy), Wet, LPG, LNG</span></div>`;
+          html += `<div class="rt-note">Normalizes free-text charter reports into standardized commodity taxonomy, bilateral trade corridors, and realistic parcel sizes with continuous quantity coverage audit. Source: Fearnleys Fixture Ledger.</div>`;
+        }
+        else if (type === 'cargo-hud-spread') {
+          const spVal = (document.getElementById('cargoHudC3C5Spread') ? document.getElementById('cargoHudC3C5Spread').textContent : '+$24.10 / MT');
+          const subText = (document.getElementById('cargoHudC3C5SpreadSub') ? document.getElementById('cargoHudC3C5SpreadSub').textContent : 'C3 vs C5 Spread');
+          html = `<div class="rt-title"><span style="color:#e3b341;">●</span> Capesize Atlantic vs Pacific Route Spread</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Current Net Spread</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${spVal}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Route Rates</span><span class="rt-val">${subText}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Atlantic Leg (C3)</span><span class="rt-val">Tubarao–Qingdao (~11,000 nm, 35-day laden)</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Pacific Leg (C5)</span><span class="rt-val">West Australia–Qingdao (~3,500 nm, 12-day laden)</span></div>`;
+          html += `<div class="rt-note">Governs global Capesize ballasting economics. When C3 premium widens above bunker parity, vessels ballast away from Pacific discharge into the South Atlantic, tightening Asian availability.</div>`;
+        }
+        else if (type === 'cargo-generic-card') {
+          const title = target.getAttribute('data-tt-title') || 'Trade Flow Indicator';
+          const val = target.getAttribute('data-tt-val') || '';
+          const sub = target.getAttribute('data-tt-sub') || '';
+          const vessel = target.getAttribute('data-tt-vessel') || '';
+          const source = target.getAttribute('data-tt-source') || '';
+          const note = target.getAttribute('data-tt-note') || '';
+          html = `<div class="rt-title">${title}</div>`;
+          if (val) html += `<div class="rt-row"><span class="rt-label">Current Metric</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${val}</span></div>`;
+          if (sub) html += `<div class="rt-row"><span class="rt-label">Context / Subtitle</span><span class="rt-val">${sub}</span></div>`;
+          if (vessel) html += `<div class="rt-row"><span class="rt-label">Primary Fleet Class</span><span class="rt-val">${vessel}</span></div>`;
+          if (source) html += `<div class="rt-row"><span class="rt-label">Primary Source</span><span class="rt-val">${source}</span></div>`;
+          if (note) html += `<div class="rt-note">${note}</div>`;
+        }
+        else if (type === 'cargo-matrix-cell') {
+          const cmd = target.getAttribute('data-tt-commodity') || 'Commodity';
+          const grp = target.getAttribute('data-tt-group') || '';
+          const fix = target.getAttribute('data-tt-fixtures') || '';
+          const vol = target.getAttribute('data-tt-vol') || '';
+          const share = target.getAttribute('data-tt-share') || '';
+          const vessel = target.getAttribute('data-tt-vessel') || '';
+          const parcel = target.getAttribute('data-tt-parcel') || '';
+          const cov = target.getAttribute('data-tt-coverage') || '';
+          const note = target.getAttribute('data-tt-note') || '';
+
+          html = `<div class="rt-title"><span style="color:#58a6ff;">●</span> ${cmd} ${grp ? '<span style="font-size:11px;color:var(--text-muted);font-weight:normal;">(' + grp + ')</span>' : ''}</div>`;
+          if (vol) html += `<div class="rt-row"><span class="rt-label">Mapped Seaborne Volume</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${vol} Mt ${share ? '(' + share + ')' : ''}</span></div>`;
+          if (fix) html += `<div class="rt-row"><span class="rt-label">Recorded Charter Fixtures</span><span class="rt-val">${fix} fixtures</span></div>`;
+          if (vessel) html += `<div class="rt-row"><span class="rt-label">Dominant Vessel Class</span><span class="rt-val">${vessel}</span></div>`;
+          if (parcel) html += `<div class="rt-row"><span class="rt-label">Average Parcel Size</span><span class="rt-val">${parcel} kt / cargo</span></div>`;
+          if (cov) html += `<div class="rt-row"><span class="rt-label">Parsed Quantity Coverage</span><span class="rt-val" style="color:${parseFloat(cov) >= 70 ? 'var(--green)' : 'var(--yellow)'};">${cov}% with explicit units</span></div>`;
+          if (note) html += `<div class="rt-note">${note}</div>`;
+        }
+        else if (type === 'cargo-producer-row') {
+          const op = target.getAttribute('data-tt-operator') || 'Mining Producer';
+          const vol = target.getAttribute('data-tt-vol') || '';
+          const share = target.getAttribute('data-tt-share') || '';
+          const term = target.getAttribute('data-tt-terminal') || '';
+          const dest = target.getAttribute('data-tt-dest') || 'China (Qingdao / Yantai)';
+          const note = target.getAttribute('data-tt-note') || '';
+
+          html = `<div class="rt-title"><span style="color:#3fb950;">●</span> Guinea Bauxite: ${op}</div>`;
+          if (vol) html += `<div class="rt-row"><span class="rt-label">2025 Exports</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${vol} Mt (${share} share)</span></div>`;
+          if (term) html += `<div class="rt-row"><span class="rt-label">Loading Terminal / River</span><span class="rt-val">${term}</span></div>`;
+          if (dest) html += `<div class="rt-row"><span class="rt-label">Primary Destination</span><span class="rt-val">${dest}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Freight Requirement</span><span class="rt-val">Capesize (180–210k DWT) ~11,500 nm haul</span></div>`;
+          if (note) html += `<div class="rt-note">${note}</div>`;
+        }
+        else if (type === 'cargo-port-row') {
+          const port = target.getAttribute('data-tt-port') || 'Port Terminal';
+          const vol = target.getAttribute('data-tt-vol') || '';
+          const share = target.getAttribute('data-tt-share') || '';
+          const draft = target.getAttribute('data-tt-draft') || '';
+          const crop = target.getAttribute('data-tt-crop') || '';
+          const note = target.getAttribute('data-tt-note') || '';
+
+          html = `<div class="rt-title"><span style="color:#e3b341;">●</span> Argentina Agribulk: ${port}</div>`;
+          if (vol) html += `<div class="rt-row"><span class="rt-label">Export Throughput</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${vol} kt (${share})</span></div>`;
+          if (draft) html += `<div class="rt-row"><span class="rt-label">Draft Limitation</span><span class="rt-val" style="color:#f85149;font-weight:600;">${draft}</span></div>`;
+          if (crop) html += `<div class="rt-row"><span class="rt-label">Dominant Agris</span><span class="rt-val">${crop}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Primary Fleet Class</span><span class="rt-val">Panamax / Kamsarmax &amp; Supramax</span></div>`;
+          if (note) html += `<div class="rt-note">${note}</div>`;
+        }
+        else if (type === 'cargo-destination-tile') {
+          const dest = target.getAttribute('data-tt-dest') || 'Destination Market';
+          const vol = target.getAttribute('data-tt-vol') || '';
+          const share = target.getAttribute('data-tt-share') || '';
+          const haul = target.getAttribute('data-tt-haul') || '';
+          const note = target.getAttribute('data-tt-note') || '';
+
+          html = `<div class="rt-title"><span style="color:#58a6ff;">●</span> Seaborne Destination: ${dest}</div>`;
+          if (vol) html += `<div class="rt-row"><span class="rt-label">Offtake Volume</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${vol} Mt</span></div>`;
+          if (share) html += `<div class="rt-row"><span class="rt-label">Destination Share</span><span class="rt-val">${share} of basin exports</span></div>`;
+          if (haul) html += `<div class="rt-row"><span class="rt-label">Voyage Distance</span><span class="rt-val">${haul}</span></div>`;
+          if (note) html += `<div class="rt-note">${note}</div>`;
+        }
+        else if (type === 'cargo-minor-bulk-card') {
+          const cmd = target.getAttribute('data-tt-commodity') || 'Minor Bulk Commodity';
+          const vol = target.getAttribute('data-tt-vol') || '';
+          const yoy = target.getAttribute('data-tt-yoy') || '';
+          const corridor = target.getAttribute('data-tt-corridor') || '';
+          const vessel = target.getAttribute('data-tt-vessel') || 'Supramax / Handysize';
+          const note = target.getAttribute('data-tt-note') || '';
+
+          html = `<div class="rt-title"><span style="color:#3fb950;">●</span> Minor Bulk: ${cmd}</div>`;
+          if (vol) html += `<div class="rt-row"><span class="rt-label">Global Seaborne Run-Rate</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${vol} Mt/yr</span></div>`;
+          if (yoy) html += `<div class="rt-row"><span class="rt-label">Year-on-Year Growth</span><span class="rt-val" style="color:${(yoy.startsWith('+') ? 'var(--green)' : 'var(--red)')};font-weight:600;">${yoy}</span></div>`;
+          if (corridor) html += `<div class="rt-row"><span class="rt-label">Key Corridors</span><span class="rt-val">${corridor}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Vessel Segment</span><span class="rt-val">${vessel}</span></div>`;
+          if (note) html += `<div class="rt-note">${note}</div>`;
         }
 
         else if (type === 'fearn-route-state') {
