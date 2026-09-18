@@ -40,7 +40,8 @@ INDICES_DIR = os.path.join(DATA_DIR, 'indices')
 os.makedirs(INDICES_DIR, exist_ok=True)
 
 BASE_URL = "https://seecapitalmarkets.com"
-HISTORY_ENDPOINT = f"{BASE_URL}/SingleIndexValues/GetHistoryDataAscending"
+HISTORY_ENDPOINT = f"{BASE_URL}/SingleIndexValues/GetHistoryDataDescending"
+HISTORY_FALLBACK_ENDPOINT = f"{BASE_URL}/SingleIndexValues/GetHistoryDataAscending"
 LATEST_ENDPOINT = f"{BASE_URL}/IndexValues/GetIndexValues"
 
 HEADERS = {
@@ -111,23 +112,26 @@ def fetch_index_history(index_id: int, years: int = 25, retries: int = 3) -> lis
     session = requests.Session()
     session.headers.update(HEADERS)
     
-    for attempt in range(1, retries + 1):
-        try:
-            r = session.get(
-                HISTORY_ENDPOINT,
-                params={'indexId': index_id, 'years': years},
-                timeout=20
-            )
-            if r.status_code == 200:
-                payload = r.json()
-                data = payload.get('data', [])
-                return data
-            elif r.status_code in (404, 410):
-                return []
-        except requests.RequestException as e:
-            if attempt == retries:
-                print(f"    [Error] indexId {index_id}: {e}", file=sys.stderr)
-        time.sleep(1.0 * attempt)
+    # Try descending endpoint first (contains native exchange Change % fields)
+    for endpoint in (HISTORY_ENDPOINT, HISTORY_FALLBACK_ENDPOINT):
+        for attempt in range(1, retries + 1):
+            try:
+                r = session.get(
+                    endpoint,
+                    params={'indexId': index_id, 'years': years},
+                    timeout=20
+                )
+                if r.status_code == 200:
+                    payload = r.json()
+                    data = payload.get('data', []) if isinstance(payload, dict) else payload
+                    if data:
+                        return data
+                elif r.status_code in (404, 410):
+                    break
+            except requests.RequestException as e:
+                if attempt == retries:
+                    print(f"    [Warning] indexId {index_id} via {endpoint}: {e}", file=sys.stderr)
+            time.sleep(0.5 * attempt)
     return []
 
 
@@ -164,8 +168,17 @@ def parse_history_payload(raw_records: list, index_code: str, index_name: str) -
         
     df = pd.DataFrame(rows)
     if not df.empty:
+        # Sort ascending by date first so sequential price comparison is accurate
         df = df.sort_values('date').reset_index(drop=True)
         df = df.drop_duplicates(subset=['date'])
+
+        # Back-fill change_pct from successive close prices when the API returns 0.0
+        # (Only when price actually moved from previous trading day)
+        for i in range(1, len(df)):
+            if df.at[i, 'change_pct'] == 0.0 and df.at[i - 1, 'close'] > 0 and df.at[i, 'close'] != df.at[i - 1, 'close']:
+                df.at[i, 'change_pct'] = round(
+                    (df.at[i, 'close'] - df.at[i - 1, 'close']) / df.at[i - 1, 'close'] * 100, 4
+                )
     return df
 
 
@@ -231,7 +244,7 @@ def run_pipeline(backfill: bool = False, dry_run: bool = False, include_baltic: 
                 try:
                     df_old = pd.read_csv(out_csv)
                     df_combined = pd.concat([df_old, df], ignore_index=True)
-                    df_combined = df_combined.drop_duplicates(subset=['date']).sort_values('date').reset_index(drop=True)
+                    df_combined = df_combined.drop_duplicates(subset=['date'], keep='last').sort_values('date').reset_index(drop=True)
                     df_combined.to_csv(out_csv, index=False, lineterminator="\n")
                     results[code] = df_combined
                     print(f"  -> Merged with existing store: {out_csv} ({len(df_combined):,} total bars)")
