@@ -3574,11 +3574,13 @@
     .ph-table { width: 100%; border-collapse: collapse; font-size: var(--fs-micro); }
     .ph-table th { position: sticky; top: 0; background: #141c26; color: var(--text-muted); padding: 5px 8px; font-weight: 600; border-bottom: 1px solid var(--border); text-align: left; }
     .ph-table td { padding: 5px 8px; border-bottom: 1px solid #141b24; }
-    .ph-kpi-strip { display: flex; gap: 8px; flex-wrap: wrap; }
-    .ph-kpi-chip { background: var(--bg); border: 1px solid var(--border); border-radius: 5px; padding: 5px 9px; min-width: 92px; }
-    .ph-kpi-chip .k { font-size: var(--fs-micro); color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
-    .ph-kpi-chip .v { font-size: 13px; font-weight: 700; color: #fff; margin-top: 1px; font-family: 'IBM Plex Mono', monospace; }
-    .ph-kpi-chip .s { font-size: var(--fs-micro); margin-top: 1px; }
+    .ph-kpi-strip { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; width: 100%; }
+    @media (max-width: 900px) { .ph-kpi-strip { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 600px) { .ph-kpi-strip { grid-template-columns: repeat(2, 1fr); } }
+    .ph-kpi-chip { background: var(--bg); border: 1px solid var(--border); border-radius: 5px; padding: 6px 10px; width: 100%; box-sizing: border-box; }
+    .ph-kpi-chip .k { font-size: var(--fs-micro); color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .ph-kpi-chip .v { font-size: 13px; font-weight: 700; color: #fff; margin-top: 2px; font-family: 'IBM Plex Mono', monospace; }
+    .ph-kpi-chip .s { font-size: var(--fs-micro); margin-top: 1px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
     .tracking-workstation {
       display: grid;
@@ -3976,6 +3978,21 @@
       border-color: var(--accent);
       background: #121922;
       transform: translateY(-1px);
+    }
+    .cp-macro-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+    @media (max-width: 900px) {
+      .cp-macro-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+      }
+    }
+    @media (max-width: 500px) {
+      .cp-macro-grid {
+        grid-template-columns: 1fr !important;
+      }
     }
     .cp-dir-card.selected {
       border-color: var(--accent);
@@ -14432,15 +14449,22 @@ if (intelTabsContainer) {
                     <button class="cp-toggle-btn active" id="congBtnQingdao" onclick="setPortHistoryPort('port1069')" style="font-size:11px; padding:3px 8px;">Qingdao</button>
                     <button class="cp-toggle-btn" id="congBtnNingbo" onclick="setPortHistoryPort('port824')" style="font-size:11px; padding:3px 8px;">Ningbo</button>
                     <button class="cp-toggle-btn" id="congBtnHedland" onclick="setPortHistoryPort('port955')" style="font-size:11px; padding:3px 8px;">Port Hedland</button>
+                    <button class="cp-toggle-btn" id="congBtnDampier" onclick="setPortHistoryPort('port276')" style="font-size:11px; padding:3px 8px;">Dampier</button>
                     <button class="cp-toggle-btn" id="congBtnNewcastle" onclick="setPortHistoryPort('port816')" style="font-size:11px; padding:3px 8px;">Newcastle</button>
+                    <button class="cp-toggle-btn" id="congBtnHayPoint" onclick="setPortHistoryPort('port458')" style="font-size:11px; padding:3px 8px;">Hay Point</button>
                     <button class="cp-toggle-btn" id="congBtnSingapore" onclick="setPortHistoryPort('port1201')" style="font-size:11px; padding:3px 8px;">Singapore</button>
                     <button class="cp-toggle-btn" id="congBtnRotterdam" onclick="setPortHistoryPort('port1114')" style="font-size:11px; padding:3px 8px;">Rotterdam</button>
+                    <button class="cp-toggle-btn" id="congBtnRasTanura" onclick="setPortHistoryPort('port1091')" style="font-size:11px; padding:3px 8px;">Ras Tanura</button>
+                    <button class="cp-toggle-btn" id="congBtnFujairah" onclick="setPortHistoryPort('port362')" style="font-size:11px; padding:3px 8px;">Fujairah</button>
                     <button class="cp-toggle-btn" id="congBtnHouston" onclick="setPortHistoryPort('port481')" style="font-size:11px; padding:3px 8px;">Houston</button>
+                    <button class="cp-toggle-btn" id="congBtnCorpus" onclick="setPortHistoryPort('port264')" style="font-size:11px; padding:3px 8px;">Corpus Christi</button>
                     <button class="cp-toggle-btn" id="congBtnTubarao" onclick="setPortHistoryPort('port1328')" style="font-size:11px; padding:3px 8px;">Tubarao</button>
                     <button class="cp-toggle-btn" id="congBtnSantos" onclick="setPortHistoryPort('port1160')" style="font-size:11px; padding:3px 8px;">Santos</button>
                     <button class="cp-toggle-btn" id="congBtnRizhao" onclick="setPortHistoryPort('port1105')" style="font-size:11px; padding:3px 8px;">Rizhao</button>
-                    <button class="cp-toggle-btn" id="congBtnHayPoint" onclick="setPortHistoryPort('port458')" style="font-size:11px; padding:3px 8px;">Hay Point</button>
                     <button class="cp-toggle-btn" id="congBtnQinhuangdao" onclick="setPortHistoryPort('port1072')" style="font-size:11px; padding:3px 8px;">Qinhuangdao</button>
+                    <button class="cp-toggle-btn" id="congBtnRichardsBay" onclick="setPortHistoryPort('port1099')" style="font-size:11px; padding:3px 8px;">Richards Bay</button>
+                    <button class="cp-toggle-btn" id="congBtnSaldanhaBay" onclick="setPortHistoryPort('port1133')" style="font-size:11px; padding:3px 8px;">Saldanha Bay</button>
+                    <button class="cp-toggle-btn" id="congBtnRasLaffan" onclick="setPortHistoryPort('port1090')" style="font-size:11px; padding:3px 8px;">Ras Laffan</button>
                   </div>
                 </div>
 
@@ -14722,8 +14746,37 @@ if (intelTabsContainer) {
           </div>
 
           <!-- Subview 2: Chokepoints Ledger Directory -->
-          <div id="subviewChokepoints" class="tracking-subview-content" style="display:none; flex-direction:column; height:100%; min-height:0;">
-            <div id="chokepointDirList" class="chokepoint-dir-list">
+          <div id="subviewChokepoints" class="tracking-subview-content" style="display:none; flex-direction:column; height:100%; min-height:0; overflow-y:auto; padding:12px; gap:12px;">
+            <!-- Global Strategic Passage Disruption Matrix & Cape Rerouting Telemetry -->
+            <div id="cpMacroMatrixWrap" style="background:var(--card-bg, #0d1117); border:1px solid var(--border, #30363d); border-radius:6px; padding:12px;">
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; border-bottom:1px solid var(--border, #30363d); padding-bottom:8px; flex-wrap:wrap; gap:6px;">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background:#f85149; box-shadow:0 0 6px rgba(248,81,73,0.5);"></span>
+                  <span style="font-family:'IBM Plex Mono', monospace; font-size:11px; font-weight:700; color:#fff; letter-spacing:0.06em; text-transform:uppercase;">Global Strategic Passage Disruption Matrix</span>
+                </div>
+                <div style="font-family:'IBM Plex Mono', monospace; font-size:10px; color:var(--text-muted); display:flex; align-items:center; gap:6px;">
+                  <span>IMF PortWatch / Daily AIS Telemetry</span>
+                  <span id="cpMacroRegimeBadge" style="padding:1px 6px; border-radius:3px; background:rgba(56,139,253,0.12); color:#58a6ff; font-weight:600;">ACTIVE REROUTING REGIME</span>
+                </div>
+              </div>
+
+              <!-- 4-Card Macro Grid (Populated dynamically by renderMacroMatrix()) -->
+              <div id="cpMacroCardsGrid" class="cp-macro-grid" style="display:grid; grid-template-columns:repeat(4, 1fr); gap:8px; margin-bottom:10px;">
+                <!-- Injected by renderMacroMatrix -->
+              </div>
+
+              <!-- Cape Rerouting Economic Telemetry Strip -->
+              <div id="cpMacroTelemetryStrip" style="background:rgba(56,139,253,0.05); border:1px solid rgba(56,139,253,0.2); border-radius:4px; padding:8px 10px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+                <!-- Injected by renderMacroMatrix -->
+              </div>
+            </div>
+
+            <!-- Chokepoints Monitored Passages Directory List -->
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-top:2px; padding:0 2px;">
+              <span style="font-size:11px; font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:0.05em;">All 28 Monitored Passages &amp; Canals</span>
+              <span style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">Click passage to inspect transit series</span>
+            </div>
+            <div id="chokepointDirList" class="chokepoint-dir-list" style="padding:0;">
               <!-- Populated by JS -->
             </div>
           </div>
@@ -15043,9 +15096,9 @@ if (intelTabsContainer) {
           <!-- Map Sector Highlight Control Strip -->
           <div class="map-sector-overlay" id="mapSectorToggle" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all" data-tt-context="note">
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
-              <div class="map-sector-overlay-title">SECTOR HIGHLIGHT (PORTWATCH CALLS)</div>
+              <div class="map-sector-overlay-title">SECTOR HIGHLIGHT (PORTWATCH CALLS &amp; COMMERCIAL FLEET)</div>
               <div class="tracking-sector-toggle">
-                <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip="Filter map pins and commercial fleet to all active global maritime hubs across tracked commercial sectors." data-tt-type="tracking-sector-map" data-tt-sector="all">All <span class="sec-count" id="secMapCountAll">&mdash;</span></button>
+                <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip="Filter map pins and commercial fleet to all 2,995 global maritime hubs (1,979 audited PortWatch ports + 1,016 specialized commercial terminals)." data-tt-type="tracking-sector-map" data-tt-sector="all">All 2,995 Hubs <span class="sec-count" id="secMapCountAll">(1,979 PW)</span></button>
                 <button class="cp-toggle-btn" id="secMapTankers" onclick="setTrackingMapSector('Tankers')" data-tooltip="Filter map pins and commercial fleet to crude oil, dirty product, and clean product tanker terminals and live vessels." data-tt-type="tracking-sector-map" data-tt-sector="Tankers">Tankers <span class="sec-count" id="secMapCountTankers">&mdash;</span></button>
                 <button class="cp-toggle-btn" id="secMapDry" onclick="setTrackingMapSector('Dry Bulk')" data-tooltip="Filter map pins and commercial fleet to Capesize, Panamax, and Supramax dry bulk loading and discharge hubs." data-tt-type="tracking-sector-map" data-tt-sector="Dry Bulk">Dry Bulk <span class="sec-count" id="secMapCountDry">&mdash;</span></button>
                 <button class="cp-toggle-btn" id="secMapLng" onclick="setTrackingMapSector('LNG')" data-tooltip="Filter map pins and commercial fleet to 73 global LNG liquefaction &amp; regasification terminals and 1,273 active LNG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LNG">LNG <span class="sec-count" id="secMapCountLng">(73)</span></button>
@@ -15080,7 +15133,7 @@ if (intelTabsContainer) {
           </div>
 
           <!-- Lower Drawer: Chokepoint & Strategic Canal Transit Analytics -->
-          <div class="chokepoint-drawer" id="chokepointAnalyticsDrawer">
+          <div class="chokepoint-drawer" id="chokepointAnalyticsDrawer" style="display:none;">
             <div class="cp-drawer-header">
               <div class="cp-drawer-title-wrap">
                 <h3>
@@ -15160,73 +15213,6 @@ if (intelTabsContainer) {
               <canvas id="chokepointChart"></canvas>
             </div>
             <div id="cpAnnotationsStrip" style="margin-top:10px; display:flex; flex-direction:column; gap:6px;"></div>
-          </div>
-
-          <!-- Global Strategic Passage Disruption Matrix & Cape Rerouting Telemetry -->
-          <div id="cpMacroMatrixWrap" style="margin-top:14px; background:var(--card-bg, #0d1117); border:1px solid var(--border, #30363d); border-radius:6px; padding:12px;">
-            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; border-bottom:1px solid var(--border, #30363d); padding-bottom:8px;">
-              <div style="display:flex; align-items:center; gap:8px;">
-                <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background:#f85149; box-shadow:0 0 6px rgba(248,81,73,0.5);"></span>
-                <span style="font-family:'IBM Plex Mono', monospace; font-size:11px; font-weight:700; color:#fff; letter-spacing:0.06em; text-transform:uppercase;">Global Strategic Passage Disruption Matrix</span>
-              </div>
-              <div style="font-family:'IBM Plex Mono', monospace; font-size:10px; color:var(--text-muted); display:flex; align-items:center; gap:6px;">
-                <span>IMF PortWatch / Daily AIS Telemetry</span>
-                <span style="padding:1px 6px; border-radius:3px; background:rgba(56,139,253,0.12); color:#58a6ff; font-weight:600;">ACTIVE REROUTING REGIME</span>
-              </div>
-            </div>
-
-            <!-- 4-Card Macro Grid -->
-            <div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:8px; margin-bottom:12px;">
-              <!-- Bab el-Mandeb -->
-              <div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.25); border-radius:4px; padding:8px 10px;">
-                <div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Bab el-Mandeb</div>
-                <div style="display:flex; align-items:baseline; justify-content:space-between;">
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:16px; font-weight:700; color:#f85149;">-73.1%</span>
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:11px; color:#c9d1d9;">14.2 <span style="font-size:9px; color:var(--text-muted);">/ 52.8 d</span></span>
-                </div>
-                <div style="font-size:9px; color:var(--text-muted); margin-top:3px;">Severe Houthi missile rerouting</div>
-              </div>
-              <!-- Suez Canal -->
-              <div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.25); border-radius:4px; padding:8px 10px;">
-                <div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Suez Canal</div>
-                <div style="display:flex; align-items:baseline; justify-content:space-between;">
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:16px; font-weight:700; color:#f85149;">-73.1%</span>
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:11px; color:#c9d1d9;">18.4 <span style="font-size:9px; color:var(--text-muted);">/ 68.5 d</span></span>
-                </div>
-                <div style="font-size:9px; color:var(--text-muted); margin-top:3px;">Downstream Red Sea bypass</div>
-              </div>
-              <!-- Cape of Good Hope -->
-              <div style="background:rgba(22,27,34,0.8); border:1px solid rgba(63,185,80,0.3); border-radius:4px; padding:8px 10px;">
-                <div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Cape of Good Hope</div>
-                <div style="display:flex; align-items:baseline; justify-content:space-between;">
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:16px; font-weight:700; color:#3fb950;">+74.8%</span>
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:11px; color:#c9d1d9;">98.6 <span style="font-size:9px; color:var(--text-muted);">/ 56.4 d</span></span>
-                </div>
-                <div style="font-size:9px; color:#3fb950; margin-top:3px;">Cape diversion absorption</div>
-              </div>
-              <!-- Panama Canal -->
-              <div style="background:rgba(22,27,34,0.8); border:1px solid rgba(210,153,34,0.3); border-radius:4px; padding:8px 10px;">
-                <div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Panama Canal</div>
-                <div style="display:flex; align-items:baseline; justify-content:space-between;">
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:16px; font-weight:700; color:#d29922;">-14.8%</span>
-                  <span style="font-family:'IBM Plex Mono', monospace; font-size:11px; color:#c9d1d9;">31.9 <span style="font-size:9px; color:var(--text-muted);">/ 37.5 d</span></span>
-                </div>
-                <div style="font-size:9px; color:var(--text-muted); margin-top:3px;">Gatun Lake draft recovery</div>
-              </div>
-            </div>
-
-            <!-- Cape Rerouting Economic Telemetry Strip -->
-            <div style="background:rgba(56,139,253,0.05); border:1px solid rgba(56,139,253,0.2); border-radius:4px; padding:10px 12px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
-              <div style="display:flex; align-items:center; gap:8px;">
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                <span style="font-size:11px; font-weight:600; color:#58a6ff;">Cape of Good Hope Rerouting Supply Absorption:</span>
-              </div>
-              <div style="display:flex; gap:16px; align-items:center; font-family:'IBM Plex Mono', monospace; font-size:11px;">
-                <div><span style="color:var(--text-muted); font-size:10px;">Voyage Duration:</span> <strong style="color:#fff;">+10.0–14.5 days</strong></div>
-                <div><span style="color:var(--text-muted); font-size:10px;">Tonne-Mile Expansion:</span> <strong style="color:#38bdf8;">+28.4%</strong></div>
-                <div><span style="color:var(--text-muted); font-size:10px;">Extra Bunker Burn:</span> <strong style="color:#f0883e;">~3,200 MT VLSFO</strong></div>
-              </div>
-            </div>
           </div>
         </div>
       </div><!-- /tracking-workstation -->
@@ -18558,6 +18544,8 @@ if (intelTabsContainer) {
           }),
           fetch('data/congestion/chokepoint_geo_summary.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).then(data => {
             DATA.chokepointSummary = data;
+            if (typeof renderMacroMatrix === 'function') renderMacroMatrix();
+            if (typeof renderChokepointsDirectory === 'function' && typeof trackingActiveSubView !== 'undefined' && trackingActiveSubView === 'chokepoints') renderChokepointsDirectory();
           }),
           fetch('data/congestion/chokepoint_annotations.json').then(r => r.ok ? r.json() : null).then(data => {
             DATA.chokepointAnnotations = data || [];
@@ -42385,7 +42373,27 @@ function setPortHistoryPort(pid) {
   var sel = document.getElementById('phPortSelect');
   if (sel && sel.value !== pid) sel.value = pid;
 
-  var map = { 'Qingdao': 'port1069', 'Ningbo': 'port824', 'Hedland': 'port955', 'Newcastle': 'port816', 'Singapore': 'port1201', 'Rotterdam': 'port1114', 'Houston': 'port481', 'Tubarao': 'port1328', 'Santos': 'port1160', 'Rizhao': 'port1105', 'HayPoint': 'port458', 'Qinhuangdao': 'port1072' };
+  var map = {
+    'Qingdao': 'port1069',
+    'Ningbo': 'port824',
+    'Hedland': 'port955',
+    'Dampier': 'port276',
+    'Newcastle': 'port816',
+    'HayPoint': 'port458',
+    'Singapore': 'port1201',
+    'Rotterdam': 'port1114',
+    'RasTanura': 'port1091',
+    'Fujairah': 'port362',
+    'Houston': 'port481',
+    'Corpus': 'port264',
+    'Tubarao': 'port1328',
+    'Santos': 'port1160',
+    'Rizhao': 'port1105',
+    'Qinhuangdao': 'port1072',
+    'RichardsBay': 'port1099',
+    'SaldanhaBay': 'port1133',
+    'RasLaffan': 'port1090'
+  };
   Object.keys(map).forEach(function(k) {
     var b = document.getElementById('congBtn' + k);
     if (b) {
@@ -42396,11 +42404,11 @@ function setPortHistoryPort(pid) {
     }
   });
 
-  if (window.trackingMap && window.PORT_COORDINATES && window.PORT_COORDINATES[pid]) {
-    var c = window.PORT_COORDINATES[pid];
-    try {
-      trackingMap.flyTo([c.lat, c.lon], 7);
-    } catch (e) {}
+  if (window.trackingMap) {
+    var c = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[pid]) || (window.PORT_COORDINATES && window.PORT_COORDINATES[pid]);
+    if (c && c.lat != null && c.lon != null) {
+      try { trackingMap.flyTo([c.lat, c.lon], 7, { duration: 1.0 }); } catch (e) {}
+    }
   }
 
   renderPortHistory();
@@ -42452,6 +42460,22 @@ function renderPortHistory() {
     base: badge ? badge.base : null,
     delta: badge ? badge.delta : null
   };
+
+  var labels = win ? win.dates : [];
+  var valByDate = {};
+  var importByDate = {};
+  var peakVal = -1, peakDate = '';
+  rows.forEach(function(r) {
+    if (r.dateStr) {
+      valByDate[r.dateStr] = r.val;
+      if (r.importDryBulkKt != null) importByDate[r.dateStr] = r.importDryBulkKt;
+      if (labels.indexOf(r.dateStr) !== -1 && r.val != null && r.val > peakVal) {
+        peakVal = r.val;
+        peakDate = r.dateStr;
+      }
+    }
+  });
+
   var strip = document.getElementById('phKpiStrip');
   if (strip) {
     var chips = '';
@@ -42460,6 +42484,7 @@ function renderPortHistory() {
       chips += '<div class="ph-kpi-chip"><div class="k">5Y Same-Window Mean</div><div class="v">' + badge.base.toFixed(1) + '</div><div class="s" style="color:var(--text-muted);">2019-2025 window mean</div></div>';
       var dCol = badge.delta >= 0 ? 'var(--green)' : 'var(--red)';
       chips += '<div class="ph-kpi-chip"><div class="k">vs 5Y Avg</div><div class="v" style="color:' + dCol + ';">' + (badge.delta > 0 ? '+' : '') + badge.delta.toFixed(1) + '%</div><div class="s" style="color:' + dCol + ';">' + (badge.delta >= 0 ? 'above' : 'below') + ' seasonal norm</div></div>';
+      chips += '<div class="ph-kpi-chip"><div class="k">Window Peak</div><div class="v">' + (peakVal >= 0 ? peakVal.toLocaleString('en-US') : '\u2014') + '</div><div class="s" style="color:var(--text-muted);">' + (peakDate ? 'calls on ' + peakDate : 'peak calls') + '</div></div>';
       chips += '<div class="ph-kpi-chip"><div class="k">Window Coverage</div><div class="v">' + win.dates.length + 'd</div><div class="s" style="color:var(--text-muted);">' + win.d0 + ' \u2192 ' + win.d1 + '</div></div>';
     } else {
       chips += '<div class="ph-kpi-chip"><div class="k">' + escapeHtml(port.portname) + '</div><div class="v">\u2014</div><div class="s" style="color:var(--text-muted);">No ' + measure.toLowerCase() + ' readings in the shown window</div></div>';
@@ -42472,15 +42497,6 @@ function renderPortHistory() {
     if (portHistoryChartInstance) { portHistoryChartInstance.destroy(); portHistoryChartInstance = null; }
     return;
   }
-  var labels = win.dates;
-  var valByDate = {};
-  var importByDate = {};
-  rows.forEach(function(r) {
-    if (r.dateStr) {
-      valByDate[r.dateStr] = r.val;
-      if (r.importDryBulkKt != null) importByDate[r.dateStr] = r.importDryBulkKt;
-    }
-  });
   var series = labels.map(function(d) { return (d in valByDate) ? valByDate[d] : null; });
   var baseLine = (win.base != null) ? labels.map(function() { return win.base; }) : null;
   if (portHistoryChartInstance) portHistoryChartInstance.destroy();
@@ -43006,6 +43022,9 @@ function initTrackingMap() {
         if (typeof highlightPortOnMap === 'function') {
           highlightPortOnMap(meta);
         }
+        if (typeof openPortPage === 'function') {
+          openPortPage(p.portid);
+        }
       }
     });
     disruptionMarkersLayer = L.layerGroup().addTo(trackingMap);
@@ -43260,7 +43279,13 @@ function updateTrackingHUD() {
   var hudDetail = document.getElementById('mapHudDetail');
   if (hudDetail && trackingSelectedPort === 'all') {
     var inSec = trackingMapSector === 'all' ? stats.all : stats[trackingMapSector];
-    if (inSec) hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + inSec.nPorts + ' ports (PortWatch)';
+    if (inSec) {
+      if (trackingMapSector === 'all') {
+        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across 2,995 global hubs (1,979 PortWatch audited ports)';
+      } else {
+        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + inSec.nPorts + ' ports (PortWatch)';
+      }
+    }
   }
 }
 
@@ -43270,7 +43295,7 @@ function updateSectorMapCounts() {
   var ids = { 'all': 'secMapCountAll', 'Tankers': 'secMapCountTankers', 'Dry Bulk': 'secMapCountDry', 'Container': 'secMapCountContainer', 'General Cargo': 'secMapCountGen', 'RoRo': 'secMapCountRoro' };
   Object.keys(ids).forEach(function(s) {
     var el = document.getElementById(ids[s]);
-    if (el && stats[s]) el.textContent = (s === 'all' ? stats[s].nPorts + ' ports' : stats[s].total.toLocaleString('en-US') + ' calls');
+    if (el && stats[s]) el.textContent = (s === 'all' ? '(' + stats[s].nPorts.toLocaleString('en-US') + ' PW)' : stats[s].total.toLocaleString('en-US') + ' calls');
   });
 
   var elLng = document.getElementById('secMapCountLng');
@@ -44107,7 +44132,7 @@ var liveFleetMarkersLayer = null;
 // points projected once at zoom 0, and builds a popup only when a dot is clicked.
 function createFleetDotsLayer() {
   var R = 3.5, WEIGHT = 1, FILL_OPACITY = 0.82, STROKE = '#0a0f16';
-  var HIT = R + WEIGHT / 2;   // CircleMarker._containsPoint: radius + stroke half-width
+  var HIT = 12;   // Increased hit tolerance so clicking canvas dots is effortless (was R + WEIGHT / 2 ~4px)
   var Layer = L.Canvas.extend({
     initialize: function (options) {
       L.Canvas.prototype.initialize.call(this, options);
@@ -44852,7 +44877,7 @@ function plotLiveFleetMarkers() {
     var lat = r[4], lon = r[5];
     if (lat == null || lon == null || isNaN(lat) || isNaN(lon)) return;
     var p0 = trackingMap.project([lat, lon], 0);
-    dots.push({ x0: p0.x, y0: p0.y, color: segColors[r[3]] || '#58a6ff', popup: function () { return liveFleetPopupHtml(r); } });
+    dots.push({ x0: p0.x, y0: p0.y, color: segColors[r[3]] || '#58a6ff', vesselRow: r, popup: function () { return liveFleetPopupHtml(r); } });
   });
   liveFleetMarkersLayer.setDots(dots);
 }
@@ -44870,8 +44895,9 @@ function liveFleetPopupHtml(r) {
     statusText +
     '<br>Speed: ' + r[6] + ' kn &middot; Heading: ' + r[7] + '°' +
     (r[8] ? '<br>Destination: ' + escapeHtml(r[8]) : '') +
-    '<div style="margin-top:8px;">' +
+    '<div style="margin-top:8px; display:flex; gap:6px; flex-wrap:wrap;">' +
       '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Drill Down</button>' +
+      '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px; border-color:rgba(56,139,253,0.4); color:#58a6ff;" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixture Voyages</button>' +
     '</div>' +
   '</div>';
 }
@@ -45415,32 +45441,113 @@ function onVesselSearchInput() {
   var idx = vesselIndexFromFixtures();
   var box = document.getElementById('vesselResultsList');
   if (!box) return;
-  var hits = [];
-  if (q.length >= 2) {
-    for (var i = 0; i < idx.order.length && hits.length < 30; i++) {
-      if (idx.order[i].toLowerCase().indexOf(q) !== -1) hits.push(idx.order[i]);
+
+  if (q.length < 2) {
+    var topFeatured = ['JC NATURE', 'JC NEW RUBY', 'STARVIP', 'ANKA BLUE', 'BERGE BULK', 'CS CRYSTAL', 'PERMATA N', 'MINERAL NINGBO', 'PACIFIC HIGHWAY', 'STELLA BELLA'];
+    var featured = topFeatured.filter(function(v) { return idx.byVessel && idx.byVessel[v]; });
+    if (!featured.length && idx.order && idx.order.length) {
+      featured = idx.order.slice(0, 10);
     }
-  }
-  box.innerHTML = '';
-  if (!hits.length) {
-    box.innerHTML = '<div style="font-size:var(--fs-micro); color:var(--text-muted); padding:6px 0;">' + (q.length < 2 ? 'Type at least two letters to search the fixture vessels.' : 'No vessels named in the fixture archive match this search.') + '</div>';
+
+    var bannerHtml = '<div style="margin-bottom:8px; padding:8px 10px; background:rgba(56,139,253,0.06); border:1px solid rgba(56,139,253,0.2); border-radius:4px;">' +
+      '<div style="font-size:11px; font-weight:700; color:#58a6ff; display:flex; align-items:center; gap:6px;">' +
+        '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>' +
+        'Commercial Fixture Voyage Archive (Fearnleys Grounded)' +
+      '</div>' +
+      '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:3px; line-height:1.4;">' +
+        '546k+ Broker Fixtures &middot; 357k+ Resolved Leg Segments &middot; 57,000+ Named Hulls. Select a high-frequency commercial carrier below or search any vessel name.' +
+      '</div>' +
+    '</div>' +
+    '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em; margin-bottom:4px;">Featured High-Frequency Commercial Carriers:</div>' +
+    '<div id="vesselFeaturedBtns" style="display:flex; flex-wrap:wrap; gap:4px; margin-bottom:4px;"></div>';
+
+    box.innerHTML = bannerHtml;
+    var btnWrap = document.getElementById('vesselFeaturedBtns');
+    if (btnWrap) {
+      featured.forEach(function(v) {
+        var btn = document.createElement('button');
+        btn.className = 'cp-toggle-btn' + (window.__activeVesselTimeline === v ? ' active' : '');
+        btn.style.cssText = 'font-size:11px; padding:3px 8px;';
+        var legCount = idx.byVessel && idx.byVessel[v] ? idx.byVessel[v].length : '';
+        btn.textContent = v + (legCount ? ' (' + legCount + ')' : '');
+        btn.setAttribute('data-tooltip', 'Load voyage leg timeline for ' + escapeHtml(v) + ' (' + legCount + ' reported fixture legs)');
+        btn.addEventListener('click', function() {
+          window.__activeVesselTimeline = v;
+          document.querySelectorAll('#vesselFeaturedBtns button').forEach(function(b) { b.classList.remove('active'); });
+          btn.classList.add('active');
+          renderVesselTimeline(v);
+        });
+        btnWrap.appendChild(btn);
+      });
+    }
+
     var tbox = document.getElementById('vesselTimelineBox');
-    if (tbox) tbox.innerHTML = '';
+    if (tbox && (!tbox.innerHTML.trim() || !window.__activeVesselTimeline) && featured.length) {
+      window.__activeVesselTimeline = featured[0];
+      var firstBtn = btnWrap ? btnWrap.querySelector('button') : null;
+      if (firstBtn) firstBtn.classList.add('active');
+      renderVesselTimeline(featured[0]);
+    }
     return;
   }
+
+  var hits = [];
+  for (var i = 0; i < idx.order.length && hits.length < 30; i++) {
+    if (idx.order[i].toLowerCase().indexOf(q) !== -1) hits.push(idx.order[i]);
+  }
+
+  if (!hits.length) {
+    box.innerHTML = '<div style="font-size:var(--fs-micro); color:var(--text-muted); padding:6px 0;">No vessels named in the fixture archive match "' + escapeHtml(q) + '".</div>';
+    var tboxEmpty = document.getElementById('vesselTimelineBox');
+    if (tboxEmpty) tboxEmpty.innerHTML = '';
+    return;
+  }
+
+  box.innerHTML = '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em; margin-bottom:4px;">Search Results (' + hits.length + ' matching hulls):</div><div id="vesselSearchResultsList" style="display:flex; flex-wrap:wrap; gap:4px;"></div>';
+  var resWrap = document.getElementById('vesselSearchResultsList');
   hits.forEach(function(v) {
     var btn = document.createElement('button');
-    btn.className = 'cp-toggle-btn';
-    btn.style.cssText = 'margin:2px 4px 2px 0; font-size:var(--fs-micro);';
-    btn.textContent = v;
+    btn.className = 'cp-toggle-btn' + (window.__activeVesselTimeline === v ? ' active' : '');
+    btn.style.cssText = 'font-size:11px; padding:3px 8px;';
+    var legCount = idx.byVessel && idx.byVessel[v] ? idx.byVessel[v].length : '';
+    btn.textContent = v + (legCount ? ' (' + legCount + ')' : '');
     btn.setAttribute('data-tooltip', 'Show the reported fixture voyage timeline for ' + escapeHtml(v) + '. Reported fixtures, not AIS positions.');
-    btn.addEventListener('click', function() { renderVesselTimeline(v); });
-    box.appendChild(btn);
+    btn.addEventListener('click', function() {
+      window.__activeVesselTimeline = v;
+      if (resWrap) resWrap.querySelectorAll('button').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      renderVesselTimeline(v);
+    });
+    if (resWrap) resWrap.appendChild(btn);
   });
 }
 window.onVesselSearchInput = onVesselSearchInput;
 
+function openVesselVoyagesTab(vesselName) {
+  if (!vesselName) return;
+  if (typeof setTrackingSubView === 'function') {
+    setTrackingSubView('vessel');
+  }
+  var input = document.getElementById('vesselSearchInput');
+  if (input) input.value = vesselName;
+  window.__activeVesselTimeline = vesselName;
+
+  var idx = vesselIndexFromFixtures();
+  if (typeof ensureVoyageHistory === 'function' && (!DATA.voyageHistory || !DATA.voyageHistory.length)) {
+    ensureVoyageHistory().then(function() {
+      window.__tuVesselIndex = null;
+      onVesselSearchInput();
+      renderVesselTimeline(vesselName);
+    });
+  } else {
+    onVesselSearchInput();
+    renderVesselTimeline(vesselName);
+  }
+}
+window.openVesselVoyagesTab = openVesselVoyagesTab;
+
 function renderVesselTimeline(vesselName) {
+  window.__activeVesselTimeline = vesselName;
   var idx = vesselIndexFromFixtures();
   var legs = (idx.byVessel[vesselName] || []).slice().sort(function(a, b) { return (a.leg_date > b.leg_date ? 1 : -1); });
   var box = document.getElementById('vesselTimelineBox');
@@ -45493,6 +45600,12 @@ function setTrackingSubView(subview) {
     if (el) el.style.display = (v === subview) ? 'flex' : 'none';
   });
 
+  // Chokepoints analytics drawer is ONLY visible when subview is 'chokepoints'
+  var cpDrawer = document.getElementById('chokepointAnalyticsDrawer');
+  if (cpDrawer) {
+    cpDrawer.style.display = (subview === 'chokepoints') ? 'block' : 'none';
+  }
+
   if (subview !== 'portpage' && activePortHighlightLayer && window.trackingMap) {
     try { window.trackingMap.removeLayer(activePortHighlightLayer); } catch(e) {}
     activePortHighlightLayer = null;
@@ -45503,6 +45616,7 @@ function setTrackingSubView(subview) {
   } else if (subview === 'portpage') {
     renderPortPage();
   } else if (subview === 'chokepoints') {
+    if (typeof renderMacroMatrix === 'function') renderMacroMatrix();
     renderChokepointsDirectory();
   } else if (subview === 'stress') {
     renderPortStressSubView();
@@ -46111,7 +46225,116 @@ function plotDisruptionMarkers() {
   });
 }
 
+function renderMacroMatrix() {
+  var grid = document.getElementById('cpMacroCardsGrid');
+  var strip = document.getElementById('cpMacroTelemetryStrip');
+  var badge = document.getElementById('cpMacroRegimeBadge');
+  if (!grid && !strip) return;
+
+  var summary = DATA.chokepointSummary;
+  if (!summary || !summary.chokepoints) return;
+
+  var cps = summary.chokepoints;
+  var meta = summary.meta || {};
+  var crisis = meta.rerouting_crisis || {};
+
+  var getCp = function(id) {
+    return cps.find(function(c) { return c.id === id; }) || {};
+  };
+
+  var bab = getCp('bab_el_mandeb');
+  var suez = getCp('suez_canal');
+  var cape = getCp('cape_good_hope');
+  var pan = getCp('panama_canal');
+
+  var calcDelta = function(cp, crisisPct, isSurge) {
+    if (crisisPct != null) {
+      return (isSurge ? '+' : '-') + Math.abs(crisisPct).toFixed(1) + '%';
+    }
+    if (cp.avg_7d != null && cp.normal_baseline_daily != null && cp.normal_baseline_daily > 0) {
+      var d = ((cp.avg_7d - cp.normal_baseline_daily) / cp.normal_baseline_daily) * 100;
+      return (d > 0 ? '+' : '') + d.toFixed(1) + '%';
+    }
+    if (cp.baseline_change_pct != null) {
+      return (cp.baseline_change_pct > 0 ? '+' : '') + cp.baseline_change_pct.toFixed(1) + '%';
+    }
+    return '\u2014';
+  };
+
+  var babDelta = calcDelta(bab, crisis.bab_el_mandeb_diverted_pct, false);
+  var suezDelta = calcDelta(suez, crisis.suez_canal_diverted_pct, false);
+  var capeDelta = calcDelta(cape, crisis.cape_of_good_hope_surge_pct, true);
+  var panDelta = calcDelta(pan, null, false);
+
+  var babVal = (bab.avg_7d != null ? bab.avg_7d.toFixed(1) : '\u2014') + ' <span style="font-size:9px; color:var(--text-muted);">/ ' + (bab.normal_baseline_daily != null ? bab.normal_baseline_daily : '\u2014') + ' d</span>';
+  var suezVal = (suez.avg_7d != null ? suez.avg_7d.toFixed(1) : '\u2014') + ' <span style="font-size:9px; color:var(--text-muted);">/ ' + (suez.normal_baseline_daily != null ? suez.normal_baseline_daily : '\u2014') + ' d</span>';
+  var capeVal = (cape.avg_7d != null ? cape.avg_7d.toFixed(1) : '\u2014') + ' <span style="font-size:9px; color:var(--text-muted);">/ ' + (cape.normal_baseline_daily != null ? cape.normal_baseline_daily : '\u2014') + ' d</span>';
+  var panVal = (pan.avg_7d != null ? pan.avg_7d.toFixed(1) : '\u2014') + ' <span style="font-size:9px; color:var(--text-muted);">/ ' + (pan.normal_baseline_daily != null ? pan.normal_baseline_daily : '\u2014') + ' d</span>';
+
+  if (grid) {
+    grid.innerHTML =
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'bab_el_mandeb\'); if (trackingMap) trackingMap.flyTo([' + (bab.lat || 12.58) + ', ' + (bab.lon || 43.33) + '], 6, {duration:1.0});">' +
+        '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Bab el-Mandeb</div>' +
+        '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#f85149;">' + babDelta + '</span>' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:11px; color:#c9d1d9;">' + babVal + '</span>' +
+        '</div>' +
+        '<div style="font-size:9px; color:#f85149; margin-top:3px;">Red Sea Houthi conflict diversion</div>' +
+      '</div>' +
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'suez_canal\'); if (trackingMap) trackingMap.flyTo([' + (suez.lat || 30.7) + ', ' + (suez.lon || 32.34) + '], 6, {duration:1.0});">' +
+        '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Suez Canal</div>' +
+        '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#f85149;">' + suezDelta + '</span>' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:11px; color:#c9d1d9;">' + suezVal + '</span>' +
+        '</div>' +
+        '<div style="font-size:9px; color:#f85149; margin-top:3px;">Transit avoidance via Cape</div>' +
+      '</div>' +
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(63,185,80,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'cape_good_hope\'); if (trackingMap) trackingMap.flyTo([' + (cape.lat || -34.35) + ', ' + (cape.lon || 18.47) + '], 6, {duration:1.0});">' +
+        '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Cape of Good Hope</div>' +
+        '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#3fb950;">' + capeDelta + '</span>' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:11px; color:#c9d1d9;">' + capeVal + '</span>' +
+        '</div>' +
+        '<div style="font-size:9px; color:#3fb950; margin-top:3px;">Cape diversion absorption</div>' +
+      '</div>' +
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(210,153,34,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'panama_canal\'); if (trackingMap) trackingMap.flyTo([' + (pan.lat || 9.1) + ', ' + (pan.lon || -79.7) + '], 6, {duration:1.0});">' +
+        '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Panama Canal</div>' +
+        '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#d29922;">' + panDelta + '</span>' +
+          '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:11px; color:#c9d1d9;">' + panVal + '</span>' +
+        '</div>' +
+        '<div style="font-size:9px; color:var(--text-muted); margin-top:3px;">Gatun Lake draft recovery</div>' +
+      '</div>';
+  }
+
+  if (strip) {
+    var tel = trackingReroutingTelemetry();
+    var daysText = (tel.daysAdded != null) ? ('+' + tel.daysAdded.toFixed(1) + ' days') : (crisis.implied_additional_voyage_days ? ('+' + crisis.implied_additional_voyage_days + ' days') : '+10.0–14.5 days');
+    var tmText = (tel.tonneMilePct != null) ? ('+' + tel.tonneMilePct.toFixed(1) + '%') : (crisis.implied_tonne_mile_expansion_pct ? ('+' + crisis.implied_tonne_mile_expansion_pct + '%') : '+28.4%');
+
+    strip.innerHTML =
+      '<div style="display:flex; align-items:center; gap:8px;">' +
+        '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>' +
+        '<span style="font-size:11px; font-weight:600; color:#58a6ff;">Cape of Good Hope Rerouting Supply Absorption:</span>' +
+      '</div>' +
+      '<div style="display:flex; gap:16px; align-items:center; font-family:\'IBM Plex Mono\', monospace; font-size:11px; flex-wrap:wrap;">' +
+        '<div><span style="color:var(--text-muted); font-size:10px;">Voyage Duration:</span> <strong style="color:#fff;">' + daysText + '</strong></div>' +
+        '<div><span style="color:var(--text-muted); font-size:10px;">Tonne-Mile Expansion:</span> <strong style="color:#38bdf8;">' + tmText + '</strong></div>' +
+        '<div><span style="color:var(--text-muted); font-size:10px;">Extra Bunker Burn:</span> <strong style="color:#f0883e;">~3,200 MT VLSFO</strong></div>' +
+      '</div>';
+  }
+
+  if (badge) {
+    var isCrisis = (crisis.bab_el_mandeb_diverted_pct && crisis.bab_el_mandeb_diverted_pct > 20);
+    badge.textContent = isCrisis ? 'ACTIVE REROUTING REGIME' : 'NORMALIZED REGIME';
+    badge.style.color = isCrisis ? '#58a6ff' : 'var(--green)';
+    badge.style.background = isCrisis ? 'rgba(56,139,253,0.12)' : 'rgba(63,185,80,0.12)';
+  }
+}
+window.renderMacroMatrix = renderMacroMatrix;
+
 function renderChokepointsDirectory() {
+  if (typeof renderMacroMatrix === 'function') renderMacroMatrix();
   var container = document.getElementById('chokepointDirList');
   if (!container) return;
 
@@ -46157,6 +46380,12 @@ function renderChokepointsDirectory() {
 
 function openChokepointAnalytics(chokepointId) {
   trackingActiveChokepointId = chokepointId || 'bab_el_mandeb';
+
+  var cpDrawer = document.getElementById('chokepointAnalyticsDrawer');
+  if (cpDrawer) cpDrawer.style.display = 'block';
+  if (typeof trackingActiveSubView !== 'undefined' && trackingActiveSubView !== 'chokepoints' && typeof setTrackingSubView === 'function') {
+    setTrackingSubView('chokepoints');
+  }
 
   // Highlight directory card + selector chip
   document.querySelectorAll('.cp-dir-card').forEach(function(c) {
