@@ -47,7 +47,16 @@ jobs:
       - name: Sync Live Commercial Fleet & Port Queues
         env:
           SIGNAL_OCEAN_COOKIE: ${{ secrets.SIGNAL_OCEAN_COOKIE }}
-        run: python scripts/acquire/sync_live_fleet_pipeline.py || true
+          SIGNAL_EMAIL: ${{ secrets.SIGNAL_EMAIL }}
+          SIGNAL_PASSWORD: ${{ secrets.SIGNAL_PASSWORD }}
+        run: |
+          if [ -n "$SIGNAL_EMAIL" ] && [ -n "$SIGNAL_PASSWORD" ]; then
+            pip install playwright
+            python -m playwright install --with-deps chromium
+            python scripts/acquire/auto_refresh_signal_session.py --run-pipeline || true
+          else
+            python scripts/acquire/sync_live_fleet_pipeline.py || true
+          fi
 
       - name: Commit and push changes
         run: |
