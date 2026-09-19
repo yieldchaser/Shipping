@@ -5,6 +5,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Shipping</title>
+  <script>
+    (function() {
+      try {
+        var a = localStorage.getItem('shipping_platform_auth_v1') || sessionStorage.getItem('shipping_platform_auth_v1');
+        if (a !== 'authenticated') {
+          document.documentElement.classList.add('auth-locked');
+        }
+      } catch (e) {
+        document.documentElement.classList.add('auth-locked');
+      }
+    })();
+  </script>
   <!-- Pirate ship favicon - inline SVG as data URI, works in all browsers -->
   <link rel="icon" type="image/svg+xml"
     href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.92em' font-size='95' style='filter: drop-shadow(0px 3px 5px rgba(0,0,0,0.9));'%3E%3Cpath d='M50 15 a15 15 0 1 0 0 30 a15 15 0 1 0 0 -30 M50 45 v40 M25 65 h50 M25 65 a25 25 0 0 0 50 0' fill='none' stroke='%2358a6ff' stroke-width='8'/%3E/text%3E%3C/svg%3E">
@@ -6584,10 +6596,457 @@
   flex-direction: column;
 }
 
+/* =====================================================================
+   CLIENT-SIDE ACCESS CONTROL GATE
+   ===================================================================== */
+html.auth-locked {
+  overflow: hidden !important;
+  height: 100% !important;
+}
+html.auth-locked body {
+  overflow: hidden !important;
+  height: 100% !important;
+}
+html.auth-locked body > *:not(#authGateModal) {
+  display: none !important;
+}
+.auth-gate-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 99999999;
+  background: radial-gradient(circle at 50% 30%, #151d2c 0%, #080c12 75%, #04070a 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.auth-gate-card {
+  background: #0f1622;
+  border: 1px solid rgba(88, 166, 255, 0.28);
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.85), 0 0 40px rgba(77, 154, 255, 0.1);
+  width: 100%;
+  max-width: 410px;
+  padding: 32px 28px;
+  color: #d4dce8;
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  position: relative;
+  box-sizing: border-box;
+}
+.auth-gate-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 15%;
+  right: 15%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #58a6ff, transparent);
+}
+.auth-gate-header {
+  text-align: center;
+  margin-bottom: 22px;
+}
+.auth-gate-icon-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: rgba(77, 154, 255, 0.12);
+  border: 1px solid rgba(88, 166, 255, 0.35);
+  color: #58a6ff;
+  margin-bottom: 14px;
+  box-shadow: 0 0 20px rgba(88, 166, 255, 0.2);
+}
+.auth-gate-title {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+  margin: 0 0 6px 0;
+}
+.auth-gate-subtitle {
+  font-size: 12px;
+  color: #7a8494;
+  font-family: 'IBM Plex Mono', monospace;
+  letter-spacing: 0.3px;
+  margin: 0;
+}
+.auth-gate-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.auth-gate-error {
+  background: rgba(248, 81, 73, 0.12);
+  border: 1px solid rgba(248, 81, 73, 0.35);
+  color: #ff7b72;
+  padding: 9px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  line-height: 1.4;
+}
+.auth-field-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: left;
+}
+.auth-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #9aa5b5;
+  letter-spacing: 0.3px;
+}
+.auth-input-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.auth-input-icon {
+  position: absolute;
+  left: 12px;
+  color: #626e82;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+}
+.auth-input {
+  width: 100%;
+  background: #090d14;
+  border: 1px solid #253043;
+  border-radius: 6px;
+  padding: 10px 14px 10px 38px;
+  color: #ffffff;
+  font-size: 14px;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-sizing: border-box;
+}
+.auth-input:focus {
+  border-color: #58a6ff;
+  box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.18);
+}
+.auth-input-password {
+  padding-right: 40px;
+}
+.auth-pw-toggle {
+  position: absolute;
+  right: 10px;
+  background: none;
+  border: none;
+  color: #626e82;
+  cursor: pointer;
+  padding: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: color 0.15s;
+}
+.auth-pw-toggle:hover {
+  color: #58a6ff;
+}
+.auth-options-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #7a8494;
+  margin-top: -2px;
+}
+.auth-remember-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  user-select: none;
+}
+.auth-remember-label input[type="checkbox"] {
+  accent-color: #58a6ff;
+  cursor: pointer;
+}
+.auth-submit-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: linear-gradient(180deg, #238636 0%, #1f702e 100%);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #ffffff;
+  padding: 11px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 14px rgba(35, 134, 54, 0.35);
+  margin-top: 4px;
+}
+.auth-submit-btn:hover {
+  background: linear-gradient(180deg, #2ea043 0%, #238636 100%);
+  box-shadow: 0 6px 20px rgba(46, 160, 67, 0.45);
+  transform: translateY(-1px);
+}
+.auth-submit-btn:active {
+  transform: translateY(0);
+}
+.auth-gate-footer {
+  margin-top: 20px;
+  padding-top: 14px;
+  border-top: 1px solid #1a2230;
+  text-align: center;
+  font-size: 11px;
+  color: #556070;
+  font-family: 'IBM Plex Mono', monospace;
+}
+.auth-shake {
+  animation: authCardShake 0.45s cubic-bezier(.36,.07,.19,.97) both;
+}
+@keyframes authCardShake {
+  10%, 90% { transform: translate3d(-2px, 0, 0); }
+  20%, 80% { transform: translate3d(3px, 0, 0); }
+  30%, 50%, 70% { transform: translate3d(-5px, 0, 0); }
+  40%, 60% { transform: translate3d(5px, 0, 0); }
+}
+.auth-logout-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: rgba(248, 81, 73, 0.1);
+  border: 1px solid rgba(248, 81, 73, 0.25);
+  color: #f85149;
+  padding: 3px 9px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.auth-logout-btn:hover {
+  background: rgba(248, 81, 73, 0.2);
+  border-color: rgba(248, 81, 73, 0.5);
+  color: #ff7b72;
+}
+
 </style>
 </head>
 
 <body>
+
+  <!-- AUTHENTICATION GATE (RESTRICTED ACCESS) -->
+  <div id="authGateModal" class="auth-gate-overlay" style="display: none;">
+    <div id="authGateCard" class="auth-gate-card">
+      <div class="auth-gate-header">
+        <div class="auth-gate-icon-badge">
+          <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="5" r="3"/>
+            <line x1="12" y1="8" x2="12" y2="21"/>
+            <path d="M5 12H2a10 10 0 0 0 20 0h-3"/>
+            <path d="M5 12l2 2"/>
+            <path d="M19 12l-2 2"/>
+          </svg>
+        </div>
+        <h2 class="auth-gate-title">Shipping Intelligence</h2>
+        <p class="auth-gate-subtitle">RESTRICTED ACCESS &bull; AUTHORIZED TERMINAL</p>
+      </div>
+
+      <form id="authGateForm" class="auth-gate-form" onsubmit="return handlePlatformAuth(event)">
+        <div id="authGateError" class="auth-gate-error" style="display: none;">
+          <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="12" y1="8" x2="12" y2="12"/>
+            <line x1="12" y1="16" x2="12.01" y2="16"/>
+          </svg>
+          <span id="authGateErrorText">Invalid username or password. Access denied.</span>
+        </div>
+
+        <div class="auth-field-group">
+          <label for="authUsername" class="auth-label">Username</label>
+          <div class="auth-input-wrap">
+            <span class="auth-input-icon">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                <circle cx="12" cy="7" r="4"/>
+              </svg>
+            </span>
+            <input type="text" id="authUsername" class="auth-input" placeholder="Raghav123" autocomplete="username" spellcheck="false" required autofocus />
+          </div>
+        </div>
+
+        <div class="auth-field-group">
+          <label for="authPassword" class="auth-label">Password</label>
+          <div class="auth-input-wrap">
+            <span class="auth-input-icon">
+              <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+                <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+              </svg>
+            </span>
+            <input type="password" id="authPassword" class="auth-input auth-input-password" placeholder="Enter password" autocomplete="current-password" required />
+            <button type="button" id="togglePasswordBtn" class="auth-pw-toggle" title="Show or hide password" onclick="toggleAuthPasswordVisibility()" aria-label="Toggle password visibility">
+              <svg id="authPwEyeIcon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/>
+                <circle cx="12" cy="12" r="3"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <div class="auth-options-row">
+          <label class="auth-remember-label">
+            <input type="checkbox" id="authRememberMe" checked />
+            <span>Remember session on this device</span>
+          </label>
+        </div>
+
+        <button type="submit" id="authSubmitBtn" class="auth-submit-btn">
+          <span>Authenticate &amp; Enter Platform</span>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="5" y1="12" x2="19" y2="12"/>
+            <polyline points="12 5 19 12 12 19"/>
+          </svg>
+        </button>
+      </form>
+
+      <div class="auth-gate-footer">
+        <span>Terminal Security &bull; Session Encrypted</span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // =====================================================================
+    // PLATFORM ACCESS CONTROL & AUTHENTICATION ENGINE
+    // =====================================================================
+    const _AUTH_USER = 'Raghav123';
+    const _AUTH_PASS = 'Maritime#2026!Alpha';
+    const _AUTH_KEY  = 'shipping_platform_auth_v1';
+
+    function isPlatformAuthenticated() {
+      try {
+        return localStorage.getItem(_AUTH_KEY) === 'authenticated' ||
+               sessionStorage.getItem(_AUTH_KEY) === 'authenticated';
+      } catch (e) {
+        return false;
+      }
+    }
+
+    function syncAuthStateUI() {
+      var authed = isPlatformAuthenticated();
+      var modal = document.getElementById('authGateModal');
+      var logoutBtn = document.getElementById('authLogoutBtn');
+
+      if (authed) {
+        document.documentElement.classList.remove('auth-locked');
+        document.body.classList.remove('auth-locked');
+        if (modal) modal.style.display = 'none';
+        if (logoutBtn) logoutBtn.style.display = 'inline-flex';
+      } else {
+        document.documentElement.classList.add('auth-locked');
+        document.body.classList.add('auth-locked');
+        if (modal) {
+          modal.style.display = 'flex';
+          setTimeout(function() {
+            var uInput = document.getElementById('authUsername');
+            if (uInput) uInput.focus();
+          }, 50);
+        }
+        if (logoutBtn) logoutBtn.style.display = 'none';
+      }
+    }
+
+    function handlePlatformAuth(event) {
+      if (event && event.preventDefault) event.preventDefault();
+
+      var uInput = document.getElementById('authUsername');
+      var pInput = document.getElementById('authPassword');
+      var remCheck = document.getElementById('authRememberMe');
+      var errBox = document.getElementById('authGateError');
+      var errText = document.getElementById('authGateErrorText');
+      var card = document.getElementById('authGateCard');
+
+      var u = (uInput && uInput.value ? uInput.value.trim() : '');
+      var p = (pInput && pInput.value ? pInput.value : '');
+
+      // User check case-insensitive, password exact check
+      if (u.toLowerCase() === _AUTH_USER.toLowerCase() && p === _AUTH_PASS) {
+        try {
+          if (remCheck && remCheck.checked) {
+            localStorage.setItem(_AUTH_KEY, 'authenticated');
+          }
+          sessionStorage.setItem(_AUTH_KEY, 'authenticated');
+          localStorage.setItem('shipping_auth_user', _AUTH_USER);
+        } catch (e) {}
+
+        if (errBox) errBox.style.display = 'none';
+        syncAuthStateUI();
+        window.dispatchEvent(new Event('resize'));
+        return false;
+      }
+
+      // Authentication Failed
+      if (errBox) {
+        if (errText) errText.textContent = 'Invalid username or password. Access denied.';
+        errBox.style.display = 'flex';
+      }
+      if (card) {
+        card.classList.remove('auth-shake');
+        void card.offsetWidth; // Trigger reflow
+        card.classList.add('auth-shake');
+        setTimeout(function() { card.classList.remove('auth-shake'); }, 500);
+      }
+      if (pInput) {
+        pInput.value = '';
+        pInput.focus();
+      }
+      return false;
+    }
+
+    function handlePlatformLogout() {
+      try {
+        localStorage.removeItem(_AUTH_KEY);
+        sessionStorage.removeItem(_AUTH_KEY);
+        localStorage.removeItem('shipping_auth_user');
+      } catch (e) {}
+      window.location.reload();
+    }
+
+    function toggleAuthPasswordVisibility() {
+      var pInput = document.getElementById('authPassword');
+      var icon = document.getElementById('authPwEyeIcon');
+      if (!pInput) return;
+      if (pInput.type === 'password') {
+        pInput.type = 'text';
+        if (icon) {
+          icon.innerHTML = '<path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path><line x1="1" y1="1" x2="23" y2="23"></line>';
+        }
+      } else {
+        pInput.type = 'password';
+        if (icon) {
+          icon.innerHTML = '<path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle>';
+        }
+      }
+    }
+
+    // Immediately execute check
+    syncAuthStateUI();
+    document.addEventListener('DOMContentLoaded', syncAuthStateUI);
+  </script>
 
   <!-- LOADING OVERLAY -->
   <div class="loading-overlay" id="loadingOverlay">
@@ -6756,6 +7215,14 @@
     <button id="staleBuildReloadBtn" class="stale-toast-btn" type="button">Reload</button>
   </div>
   <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span></div>
+  <button id="authLogoutBtn" class="auth-logout-btn" title="Sign out from Raghav123" type="button" onclick="handlePlatformLogout()" style="display:none;">
+    <svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+      <polyline points="16 17 21 12 16 7"></polyline>
+      <line x1="21" y1="12" x2="9" y2="12"></line>
+    </svg>
+    <span>Sign Out</span>
+  </button>
 
     <!-- Hidden select to drive the legacy Javascript app state seamlessly -->
     <select id="globalProduct" style="display:none;">
