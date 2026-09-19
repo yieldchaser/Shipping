@@ -4189,6 +4189,25 @@
           gap: 8px;
           pointer-events: auto;
         }
+        .map-port-radar-hud {
+          position: absolute;
+          top: 48px;
+          right: 12px;
+          left: auto;
+          z-index: 500;
+          background: rgba(13, 17, 23, 0.95);
+          backdrop-filter: blur(8px);
+          border: 1px solid rgba(56, 139, 253, 0.4);
+          box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+          padding: 7px 12px;
+          border-radius: 6px;
+          font-size: 11px;
+          color: #c9d1d9;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          pointer-events: auto;
+        }
         .map-legend-overlay {
           position: absolute;
           bottom: 12px;
@@ -42192,10 +42211,19 @@ function setTrackingMapSector(sector) {
   var stats = window.__trackingSectorPortStats || {};
   var hud = document.getElementById('mapHudDetail');
   if (hud) {
-    if (sector === 'LNG' || sector === 'LPG') {
-      var nHubs = sector === 'LNG' ? 73 : 150;
-      var nFleet = sector === 'LNG' ? '1,273' : '2,103';
-      hud.textContent = 'Sector highlight: ' + sector + ' \u00b7 ' + nHubs + ' commercial export/import terminals \u00b7 ' + nFleet + ' live ' + sector + ' carriers';
+    var fleetRows = (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) || [];
+    var fleetSegMap = { 'Dry Bulk': 'dry_bulk', 'Tankers': 'tankers', 'LNG': 'lng', 'LPG': 'lpg' };
+    var activeSeg = fleetSegMap[sector] || null;
+    var segFleetCount = activeSeg ? fleetRows.filter(function(r) { return r[3] === activeSeg; }).length : fleetRows.length;
+
+    if (sector === 'Dry Bulk' || sector === 'Tankers' || sector === 'LNG' || sector === 'LPG') {
+      var nPrimary = 0;
+      if (DATA.assetClassPorts && DATA.assetClassPorts.ports) {
+        var segCol = sector === 'Dry Bulk' ? 5 : (sector === 'Tankers' ? 6 : (sector === 'LNG' ? 7 : 8));
+        nPrimary = DATA.assetClassPorts.ports.filter(function(p) { return p[segCol] > 0.1; }).length;
+      }
+      var nCalls = stats[sector] ? stats[sector].nPorts : (sector === 'LNG' ? 83 : (sector === 'LPG' ? 157 : 0));
+      hud.textContent = 'Sector highlight: ' + sector + ' \u00b7 ' + nPrimary + ' primary Signal hubs (' + nCalls.toLocaleString('en-US') + ' active ports) \u00b7 ' + segFleetCount.toLocaleString('en-US') + ' live ' + sector + ' vessels';
     } else if (stats[sector]) {
       hud.textContent = 'Sector highlight: ' + (sector === 'all' ? 'All Classes' : sector) + ' \u00b7 ' + stats[sector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[sector].nPorts + ' ports (PortWatch)';
     }
@@ -42206,59 +42234,96 @@ function setTrackingMapSector(sector) {
 window.setTrackingMapSector = setTrackingMapSector;
 window.setTrackingSector = setTrackingMapSector;
 
+function getAcpPortData(meta, code) {
+  if (!DATA.assetClassPorts || !DATA.assetClassPorts.ports) return null;
+  if (!window.__acpPortLookup) {
+    var lookupById = {};
+    var lookupByName = {};
+    DATA.assetClassPorts.ports.forEach(function(p) {
+      lookupById[p[0]] = p;
+      var nm = (p[1] || '').toLowerCase().trim();
+      if (nm) lookupByName[nm] = p;
+    });
+    window.__acpPortLookup = { byId: lookupById, byName: lookupByName };
+  }
+  var look = window.__acpPortLookup;
+  if (meta && meta.signal_port_ids && Array.isArray(meta.signal_port_ids)) {
+    for (var i = 0; i < meta.signal_port_ids.length; i++) {
+      var sid = meta.signal_port_ids[i];
+      if (look.byId[sid]) return look.byId[sid];
+    }
+  }
+  if (code && look.byId[code]) return look.byId[code];
+  var pName = (meta ? (meta.name || meta.portname) : code || '').toLowerCase().trim();
+  if (pName && look.byName[pName]) return look.byName[pName];
+  var cleanName = pName.replace(/\b(port of|port|terminal|harbour|harbor)\b/g, '').trim();
+  if (cleanName && look.byName[cleanName]) return look.byName[cleanName];
+  return null;
+}
+
+function isPrimarySectorHub(code, sector) {
+  var s = sector || trackingMapSector;
+  var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[code]) || null;
+  var ap = getAcpPortData(meta, code);
+  if (!ap) return false;
+  if (s === 'Dry Bulk') return ap[5] > 0.1;
+  if (s === 'Tankers') return ap[6] > 0.1;
+  if (s === 'LNG') return ap[7] > 0.1;
+  if (s === 'LPG') return ap[8] > 0.1;
+  return false;
+}
+window.isPrimarySectorHub = isPrimarySectorHub;
+
 function isPortInSectorFilter(code) {
   if (trackingMapSector === 'all') return true;
 
   var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[code]) || null;
-  if (meta && meta.sectors && Array.isArray(meta.sectors)) {
-    var sLower = trackingMapSector.toLowerCase().replace(/\s+/g, '_');
-    if (meta.sectors.indexOf(sLower) !== -1 ||
-        (trackingMapSector === 'Tankers' && (meta.sectors.indexOf('tanker') !== -1 || meta.sectors.indexOf('tankers') !== -1)) ||
-        (trackingMapSector === 'Dry Bulk' && meta.sectors.indexOf('dry_bulk') !== -1) ||
-        (trackingMapSector === 'LNG' && meta.sectors.indexOf('lng') !== -1) ||
-        (trackingMapSector === 'LPG' && meta.sectors.indexOf('lpg') !== -1)) {
-      return true;
-    }
-  }
+  var ap = getAcpPortData(meta, code);
+  var stats = window.__trackingSectorPortStats;
+  var portStats = (stats && stats._byPort && stats._byPort[code]) || null;
 
-  // Gas terminals: check assetClassPorts (LNG col 7, LPG col 8)
-  if (trackingMapSector === 'LNG' || trackingMapSector === 'LPG') {
-    var acp = DATA.assetClassPorts;
-    if (acp && acp.ports) {
-      var colIdx = trackingMapSector === 'LNG' ? 7 : 8;
-      var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[code]) || null;
-      var pName = (meta ? meta.portname : code || '').toLowerCase();
-      var pLocode = (meta && meta.LOCODE ? meta.LOCODE.replace(/\s+/g, '') : '').toLowerCase();
-      for (var i = 0; i < acp.ports.length; i++) {
-        var ap = acp.ports[i];
-        if (ap[colIdx] > 0.05) {
-          var apName = (ap[1] || '').toLowerCase();
-          if (apName === pName || (pLocode && apName.indexOf(pLocode) !== -1)) return true;
-        }
-      }
-    }
+  if (trackingMapSector === 'Dry Bulk') {
+    if (ap && ap[5] > 0.05) return true;
+    if (meta && meta.calls_breakdown && (meta.calls_breakdown.dry_bulk || 0) > 0) return true;
+    if (portStats && (portStats.dry_bulk || 0) > 0) return true;
     return false;
   }
 
-  // Dry bulk and Tanker terminals: check both PortWatch calls and Signal Ocean verified terminals
-  var stats = window.__trackingSectorPortStats;
-  var secKey = secMapKeyFor(trackingMapSector);
-  if (stats && stats._byPort && stats._byPort[code]) {
-    if (secKey && (stats._byPort[code][secKey] || 0) > 0) return true;
+  if (trackingMapSector === 'Tankers') {
+    if (ap && ap[6] > 0.05) return true;
+    if (meta && meta.calls_breakdown && (meta.calls_breakdown.tankers || 0) > 0) return true;
+    if (portStats && (portStats.tanker || 0) > 0) return true;
+    return false;
   }
 
-  // Fallback to assetClassPorts for Dry Bulk (col 5) and Tankers (col 6)
-  if (trackingMapSector === 'Dry Bulk' || trackingMapSector === 'Tankers') {
-    var acp = DATA.assetClassPorts;
-    if (acp && acp.ports) {
-      var colIdx = trackingMapSector === 'Dry Bulk' ? 5 : 6;
-      var meta = (DATA.universePorts && DATA.universePorts.byId && DATA.universePorts.byId[code]) || null;
-      var pName = (meta ? meta.portname : code || '').toLowerCase();
-      for (var j = 0; j < acp.ports.length; j++) {
-        var ap = acp.ports[j];
-        if (ap[colIdx] > 0.05 && (ap[1] || '').toLowerCase() === pName) return true;
-      }
-    }
+  if (trackingMapSector === 'LNG') {
+    if (ap && ap[7] > 0.1) return true;
+    if (meta && meta.capabilities && meta.capabilities.has_gas_readiness && (/\blng\b/i.test(meta.name || '') || /\bliquefaction\b/i.test(meta.name || ''))) return true;
+    return false;
+  }
+
+  if (trackingMapSector === 'LPG') {
+    if (ap && ap[8] > 0.1) return true;
+    if (meta && meta.capabilities && meta.capabilities.has_gas_readiness && (/\blpg\b/i.test(meta.name || '') || /\bpropane\b/i.test(meta.name || '') || /\bbutane\b/i.test(meta.name || ''))) return true;
+    return false;
+  }
+
+  if (trackingMapSector === 'Container') {
+    if (meta && meta.calls_breakdown && (meta.calls_breakdown.container || 0) > 0) return true;
+    if (portStats && (portStats.container || 0) > 0) return true;
+    return false;
+  }
+
+  if (trackingMapSector === 'General Cargo') {
+    if (meta && meta.calls_breakdown && (meta.calls_breakdown.general_cargo || 0) > 0) return true;
+    if (portStats && (portStats.general_cargo || 0) > 0) return true;
+    return false;
+  }
+
+  if (trackingMapSector === 'RoRo') {
+    if (meta && meta.calls_breakdown && (meta.calls_breakdown.roro || 0) > 0) return true;
+    if (portStats && (portStats.roro || 0) > 0) return true;
+    return false;
   }
 
   return false;
@@ -43956,18 +44021,37 @@ function renderPortPageLiveQueue(meta) {
 }
 window.renderPortPageLiveQueue = renderPortPageLiveQueue;
 
+function calcHaversineDistanceKm(lat1, lon1, lat2, lon2) {
+  var R = 6371; // km
+  var dLat = (lat2 - lat1) * Math.PI / 180;
+  var dLon = (lon2 - lon1) * Math.PI / 180;
+  var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+          Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+          Math.sin(dLon / 2) * Math.sin(dLon / 2);
+  var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return R * c;
+}
+window.calcHaversineDistanceKm = calcHaversineDistanceKm;
+
+function clearPortHighlightOnMap() {
+  if (activePortHighlightLayer && window.trackingMap) {
+    try {
+      window.trackingMap.removeLayer(activePortHighlightLayer);
+    } catch (e) {}
+    activePortHighlightLayer = null;
+  }
+  var banner = document.getElementById('mapPortRadarHud');
+  if (banner) banner.style.display = 'none';
+}
+window.clearPortHighlightOnMap = clearPortHighlightOnMap;
+
 function highlightPortOnMap(meta) {
   if (!window.trackingMap || !meta) return;
   var lat = (meta.lat != null && !isNaN(meta.lat)) ? Number(meta.lat) : null;
   var lon = (meta.lon != null && !isNaN(meta.lon)) ? Number(meta.lon) : null;
   if (lat == null || lon == null) return;
 
-  if (activePortHighlightLayer) {
-    try {
-      window.trackingMap.removeLayer(activePortHighlightLayer);
-    } catch (e) {}
-    activePortHighlightLayer = null;
-  }
+  clearPortHighlightOnMap();
 
   var group = L.layerGroup();
 
@@ -43997,78 +44081,152 @@ function highlightPortOnMap(meta) {
 
   // 3. Inbound vector rays and anchored vessel markers
   var qData = getPortQueueData(meta);
+  var inbounds = [];
+  var anchored = [];
+  var existingImos = {};
+
   if (qData && qData.rows && qData.rows.length) {
-    var inbounds = [];
-    var anchored = [];
     qData.rows.forEach(function(r) {
+      if (r[0]) existingImos[r[0]] = true;
       if (r[5] === 'inbound') inbounds.push(r);
       else anchored.push(r);
     });
-    // Sort inbounds by distance and cap at nearest 30 to guarantee 60 FPS rendering
-    inbounds.sort(function(a, b) { return (Number(a[14]) || 99999) - (Number(b[14]) || 99999); });
-    var activeInbounds = inbounds.slice(0, 30);
+  }
 
-    activeInbounds.forEach(function(r) {
-      var vLat = Number(r[12]);
-      var vLon = Number(r[13]);
-      if (isNaN(vLat) || isNaN(vLon)) return;
+  // Cross-reference live fleet positions to find all commercial vessels steamed toward this port
+  if (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) {
+    var pLoc = (meta.LOCODE || meta.locode || '').toUpperCase().replace(/\s+/g, '');
+    var pLocSpace = (meta.LOCODE || meta.locode || '').toUpperCase().trim();
+    var pName = (meta.portname || meta.name || '').toUpperCase().trim();
+    var cleanName = pName.replace(/\b(PORT OF|PORT|TERMINAL|HARBOUR|HARBOR)\b/g, '').trim();
 
-      var ray = L.polyline([[vLat, vLon], [lat, lon]], {
-        color: '#e3b341',
-        weight: 1.2,
-        opacity: 0.55,
-        dashArray: '3, 6',
-        interactive: false
-      });
-      group.addLayer(ray);
+    DATA.liveFleetPositions.rows.forEach(function(vr) {
+      // ['imo', 'name', 'class', 'seg', 'lat', 'lon', 'spd', 'hdg', 'dst', 'op', 'stat', 'laden', 'eta']
+      var imo = vr[0];
+      if (existingImos[imo]) return;
+      var dst = (vr[8] || '').toUpperCase().trim();
+      if (!dst || dst === '—' || dst === 'UNKNOWN') return;
 
-      var inMarker = L.circleMarker([vLat, vLon], {
-        radius: 4,
-        color: '#e3b341',
-        weight: 1.5,
-        fillColor: '#d29922',
-        fillOpacity: 0.9,
-        interactive: true
-      });
-      inMarker.bindPopup(
-        '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:180px;">' +
-        '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:#e3b341;">(Inbound)</span></div>' +
-        '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km away' : '') + '</div>' +
-        '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
-        '<div style="font-size:10px;">ETA: ' + (r[10] ? r[10].replace('T', ' ').replace('Z', '').slice(0, 16) : '—') + '</div>' +
-        '</div>'
-      );
-      group.addLayer(inMarker);
-    });
+      var match = false;
+      if (pLoc && (dst === pLoc || dst.indexOf(pLoc) !== -1)) match = true;
+      else if (pLocSpace && dst.indexOf(pLocSpace) !== -1) match = true;
+      else if (cleanName.length >= 4 && dst.indexOf(cleanName) !== -1) match = true;
 
-    anchored.forEach(function(r) {
-      var vLat = Number(r[12]);
-      var vLon = Number(r[13]);
-      if (isNaN(vLat) || isNaN(vLon)) return;
-
-      var isBerth = (r[6] || '').indexOf('Berth') !== -1;
-      var ancMarker = L.circleMarker([vLat, vLon], {
-        radius: isBerth ? 4.5 : 3.5,
-        color: isBerth ? '#3fb950' : '#58a6ff',
-        weight: 1.5,
-        fillColor: isBerth ? '#2ea043' : '#388bfd',
-        fillOpacity: 0.9,
-        interactive: true
-      });
-      ancMarker.bindPopup(
-        '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:180px;">' +
-        '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:' + (isBerth ? '#3fb950' : '#58a6ff') + ';">(' + escapeHtml(r[6] || 'Anchored') + ')</span></div>' +
-        '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km from hub' : 'In Port') + '</div>' +
-        '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
-        '<div style="font-size:10px;">Status: ' + escapeHtml(r[6] || '—') + '</div>' +
-        '</div>'
-      );
-      group.addLayer(ancMarker);
+      if (match) {
+        var vLat = Number(vr[4]);
+        var vLon = Number(vr[5]);
+        if (!isNaN(vLat) && !isNaN(vLon)) {
+          var dKm = Math.round(calcHaversineDistanceKm(vLat, vLon, lat, lon));
+          existingImos[imo] = true;
+          inbounds.push([
+            vr[0], vr[1], vr[2], vr[3], vr[9] || 'Unknown Operator',
+            'inbound', vr[10] || 'Underway', vr[6], vr[7], vr[8],
+            vr[12], vr[11], vLat, vLon, dKm
+          ]);
+        }
+      }
     });
   }
 
+  // Sort inbounds by distance and cap at nearest 35 to guarantee 60 FPS rendering
+  inbounds.sort(function(a, b) { return (Number(a[14]) || 99999) - (Number(b[14]) || 99999); });
+  var activeInbounds = inbounds.slice(0, 35);
+
+  activeInbounds.forEach(function(r) {
+    var vLat = Number(r[12]);
+    var vLon = Number(r[13]);
+    if (isNaN(vLat) || isNaN(vLon)) return;
+
+    var ray = L.polyline([[vLat, vLon], [lat, lon]], {
+      color: '#e3b341',
+      weight: 1.4,
+      opacity: 0.65,
+      dashArray: '4, 6',
+      interactive: false
+    });
+    group.addLayer(ray);
+
+    var inMarker = L.circleMarker([vLat, vLon], {
+      radius: 4.5,
+      color: '#f59e0b',
+      weight: 1.5,
+      fillColor: '#e3b341',
+      fillOpacity: 0.9,
+      interactive: true
+    });
+    inMarker.bindPopup(
+      '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:200px;">' +
+      '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:#e3b341;">(Inbound)</span></div>' +
+      '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km away' : 'Approaching') + '</div>' +
+      '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
+      '<div style="font-size:10px;">Speed: ' + (r[7] != null ? r[7] + ' kn' : '—') + ' &middot; ETA: ' + (r[10] ? r[10].replace('T', ' ').replace('Z', '').slice(0, 16) : '—') + '</div>' +
+      '<div style="margin-top:6px; display:flex; gap:4px;">' +
+        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Particulars</button>' +
+        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px; border-color:rgba(56,139,253,0.4); color:#58a6ff;" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixtures</button>' +
+      '</div>' +
+      '</div>'
+    );
+    group.addLayer(inMarker);
+  });
+
+  anchored.forEach(function(r) {
+    var vLat = Number(r[12]);
+    var vLon = Number(r[13]);
+    if (isNaN(vLat) || isNaN(vLon)) return;
+
+    var isBerth = (r[6] || '').indexOf('Berth') !== -1;
+    var ancMarker = L.circleMarker([vLat, vLon], {
+      radius: isBerth ? 4.5 : 3.5,
+      color: isBerth ? '#3fb950' : '#58a6ff',
+      weight: 1.5,
+      fillColor: isBerth ? '#2ea043' : '#388bfd',
+      fillOpacity: 0.9,
+      interactive: true
+    });
+    ancMarker.bindPopup(
+      '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:200px;">' +
+      '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:' + (isBerth ? '#3fb950' : '#58a6ff') + ';">(' + escapeHtml(r[6] || 'Anchored') + ')</span></div>' +
+      '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km from hub' : 'In Port') + '</div>' +
+      '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
+      '<div style="font-size:10px;">Status: ' + escapeHtml(r[6] || '—') + '</div>' +
+      '<div style="margin-top:6px; display:flex; gap:4px;">' +
+        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Particulars</button>' +
+        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px; border-color:rgba(56,139,253,0.4); color:#58a6ff;" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixtures</button>' +
+      '</div>' +
+      '</div>'
+    );
+    group.addLayer(ancMarker);
+  });
+
   activePortHighlightLayer = group;
   activePortHighlightLayer.addTo(window.trackingMap);
+
+  // Render on-map Port Radar HUD banner
+  var container = document.getElementById('trackingMapContainer') || (window.trackingMap ? window.trackingMap.getContainer() : null);
+  if (container) {
+    var hudBanner = document.getElementById('mapPortRadarHud');
+    if (!hudBanner) {
+      hudBanner = document.createElement('div');
+      hudBanner.id = 'mapPortRadarHud';
+      hudBanner.className = 'map-port-radar-hud';
+      container.appendChild(hudBanner);
+    }
+    var pTitle = meta.portname || meta.name || 'Selected Port';
+    var locStr = meta.LOCODE ? ' (' + meta.LOCODE + ')' : '';
+    var pid = meta.portid || meta.unified_id || '';
+    var closestBadge = '';
+    if (activeInbounds.length) {
+      var c0 = activeInbounds[0];
+      closestBadge = ' &middot; <span style="color:var(--text-muted);">Closest:</span> <strong style="color:#e3b341;">' + escapeHtml(c0[1]) + '</strong> (' + (c0[14] ? c0[14] + ' km' : 'approaching') + ')';
+    }
+    hudBanner.innerHTML = '<span style="color:#58a6ff; font-weight:700;">\u2299 ' + escapeHtml(pTitle) + locStr + '</span>' +
+      ' &middot; <span style="color:#3fb950;">' + anchored.length + ' at berth/anchor</span>' +
+      ' &middot; <span style="color:#e3b341;">' + inbounds.length + ' inbound en route</span>' +
+      closestBadge +
+      '<button style="margin-left:8px; padding:2px 8px; font-size:11px; background:var(--accent); color:#fff; border:none; border-radius:3px; cursor:pointer;" onclick="openPortPage(\'' + pid + '\')">Terminal Operations &rarr;</button>' +
+      '<button style="background:none; border:none; color:var(--text-muted); font-size:14px; cursor:pointer; padding:0 4px;" onclick="clearPortHighlightOnMap()">&times;</button>';
+    hudBanner.style.display = 'flex';
+  }
 
   try {
     var curZoom = window.trackingMap.getZoom();
@@ -44400,24 +44558,66 @@ function toggleAssetClassMajorOnly(checked) {
 }
 window.toggleAssetClassMajorOnly = toggleAssetClassMajorOnly;
 
+function findPortMetaByAssetPort(p) {
+  if (!p) return null;
+  var pid = p[0];
+  var pName = (p[1] || '').toLowerCase().trim();
+  if (DATA.universePorts && DATA.universePorts.byId) {
+    if (DATA.universePorts.byId['so_' + pid]) return DATA.universePorts.byId['so_' + pid];
+    if (DATA.universePorts.byId[String(pid)]) return DATA.universePorts.byId[String(pid)];
+  }
+  if (DATA.universePorts && DATA.universePorts.ports) {
+    var match = DATA.universePorts.ports.find(function(u) {
+      if (u.signal_port_ids && u.signal_port_ids.indexOf(pid) !== -1) return true;
+      var uName = (u.name || u.portname || '').toLowerCase().trim();
+      return uName === pName || (pName.length > 4 && uName.indexOf(pName) !== -1) || (uName.length > 4 && pName.indexOf(uName) !== -1);
+    });
+    if (match) return match;
+  }
+  return {
+    portid: 'so_' + pid,
+    unified_id: 'so_' + pid,
+    name: p[1],
+    portname: p[1],
+    country: p[2] || '',
+    lat: p[3],
+    lon: p[4]
+  };
+}
+
 function onAssetPortSelect(portId) {
   if (!portId || !DATA.assetClassPorts) return;
   var pid = parseInt(portId, 10);
   var p = DATA.assetClassPorts.ports.find(function(item) { return item[0] === pid; });
   if (!p) return;
 
-  // Focus map on port
-  if (window.trackingMap && p[3] && p[4]) {
-    trackingMap.setView([p[3], p[4]], 8);
+  var meta = findPortMetaByAssetPort(p);
+  if (meta) {
+    if (typeof highlightPortOnMap === 'function') highlightPortOnMap(meta);
+    if (typeof openPortPage === 'function') openPortPage(meta.portid || meta.unified_id);
+  } else if (window.trackingMap && p[3] && p[4]) {
+    trackingMap.flyTo([p[3], p[4]], 8);
   }
 }
 window.onAssetPortSelect = onAssetPortSelect;
 
 function onQuickTerminalClick(portName) {
-  if (DATA.assetClassPorts) {
-    var p = DATA.assetClassPorts.ports.find(function(item) { return item[1].toLowerCase() === portName.toLowerCase(); });
-    if (p && window.trackingMap && p[3] && p[4]) {
-      trackingMap.setView([p[3], p[4]], 8);
+  if (DATA.assetClassPorts && DATA.assetClassPorts.ports) {
+    var pName = (portName || '').toLowerCase().trim();
+    var p = DATA.assetClassPorts.ports.find(function(item) {
+      var n = (item[1] || '').toLowerCase().trim();
+      return n === pName || (pName.length > 4 && n.indexOf(pName) !== -1) || (n.length > 4 && pName.indexOf(n) !== -1);
+    });
+    if (p) {
+      var meta = findPortMetaByAssetPort(p);
+      if (meta) {
+        if (typeof highlightPortOnMap === 'function') highlightPortOnMap(meta);
+        if (typeof openPortPage === 'function') openPortPage(meta.portid || meta.unified_id);
+        return;
+      }
+      if (window.trackingMap && p[3] && p[4]) {
+        trackingMap.flyTo([p[3], p[4]], 8);
+      }
     }
   }
 }
@@ -45854,8 +46054,48 @@ var PORT_HUB_LABEL_MIN_ZOOM = 5;
 
 function portHubStyle(p, scale) {
   var tot = portHubTotal(p);
-  var isSpecialized = (tot <= 0 || p.isSpecializedTerminal || (p.capabilities && !p.capabilities.has_portwatch_calls));
+  var pid = p.portid || p.unified_id;
 
+  if (trackingMapSector !== 'all') {
+    if (!isPortInSectorFilter(pid)) {
+      // Cleanly suppress non-sector ports so the active sector network stands out without clutter
+      return { radius: 0, fillOpacity: 0, opacity: 0, stroke: false, interactive: false };
+    }
+
+    var isPrimary = isPrimarySectorHub(pid, trackingMapSector);
+    var colPri = '#3b82f6';
+    var colSec = '#60a5fa';
+    if (trackingMapSector === 'Dry Bulk') { colPri = '#3b82f6'; colSec = '#60a5fa'; }
+    else if (trackingMapSector === 'Tankers') { colPri = '#f59e0b'; colSec = '#fbbf24'; }
+    else if (trackingMapSector === 'LNG') { colPri = '#06b6d4'; colSec = '#22d3ee'; }
+    else if (trackingMapSector === 'LPG') { colPri = '#a855f7'; colSec = '#c084fc'; }
+    else if (trackingMapSector === 'Container') { colPri = '#10b981'; colSec = '#34d399'; }
+    else if (trackingMapSector === 'General Cargo') { colPri = '#6366f1'; colSec = '#818cf8'; }
+    else if (trackingMapSector === 'RoRo') { colPri = '#f43f5e'; colSec = '#fb7185'; }
+
+    var r = 2.5 + 6.5 * Math.sqrt(Math.min(1, tot / scale));
+    if (isPrimary) {
+      return {
+        radius: Math.max(r, 6.5),
+        fillColor: colPri,
+        fillOpacity: 0.95,
+        color: '#ffffff',
+        weight: 1.8,
+        opacity: 1
+      };
+    }
+    return {
+      radius: Math.max(r * 0.85, 3.5),
+      fillColor: colSec,
+      fillOpacity: 0.75,
+      color: '#0a0f16',
+      weight: 1,
+      opacity: 0.85
+    };
+  }
+
+  // All classes view
+  var isSpecialized = (tot <= 0 || p.isSpecializedTerminal || (p.capabilities && !p.capabilities.has_portwatch_calls));
   if (isSpecialized) {
     var specCol = '#38bdf8';
     if (p.sectors && Array.isArray(p.sectors)) {
@@ -45864,33 +46104,11 @@ function portHubStyle(p, scale) {
       else if (p.sectors.indexOf('dry_bulk') !== -1) specCol = '#3b82f6';
       else if (p.sectors.indexOf('tankers') !== -1 || p.sectors.indexOf('tanker') !== -1) specCol = '#f59e0b';
     }
-    if (trackingMapSector === 'all') {
-      return { radius: 3, fillColor: specCol, fillOpacity: 0.65, color: '#0a0f16', weight: 1, opacity: 0.9 };
-    }
-    if (isPortInSectorFilter(p.portid)) {
-      var col = specCol;
-      if (trackingMapSector === 'Dry Bulk') col = '#3b82f6';
-      else if (trackingMapSector === 'Tankers') col = '#f59e0b';
-      else if (trackingMapSector === 'LNG') col = '#06b6d4';
-      else if (trackingMapSector === 'LPG') col = '#a855f7';
-      return { radius: 4, fillColor: col, fillOpacity: 0.9, color: '#0a0f16', weight: 1, opacity: 1 };
-    }
-    return { radius: 1.5, fillColor: '#6e7681', fillOpacity: 0.2, color: '#0a0f16', weight: 0.5, opacity: 0.3 };
+    return { radius: 3, fillColor: specCol, fillOpacity: 0.65, color: '#0a0f16', weight: 1, opacity: 0.9 };
   }
 
   var r = 2.5 + 6.5 * Math.sqrt(Math.min(1, tot / scale));
-  if (trackingMapSector === 'all') {
-    return { radius: r, fillColor: '#4d9aff', fillOpacity: 0.55, color: '#0a0f16', weight: 1, opacity: 0.9 };
-  }
-  if (isPortInSectorFilter(p.portid)) {
-    var col = '#79c0ff';
-    if (trackingMapSector === 'Dry Bulk') col = '#3b82f6';
-    else if (trackingMapSector === 'Tankers') col = '#f59e0b';
-    else if (trackingMapSector === 'LNG') col = '#06b6d4';
-    else if (trackingMapSector === 'LPG') col = '#a855f7';
-    return { radius: Math.max(r, 4), fillColor: col, fillOpacity: 0.9, color: '#0a0f16', weight: 1, opacity: 1 };
-  }
-  return { radius: 2, fillColor: '#6e7681', fillOpacity: 0.25, color: '#0a0f16', weight: 0.5, opacity: 0.4 };
+  return { radius: r, fillColor: '#4d9aff', fillOpacity: 0.55, color: '#0a0f16', weight: 1, opacity: 0.9 };
 }
 
 // Ports and ended disruptions share one canvas in a pane just under the overlay
