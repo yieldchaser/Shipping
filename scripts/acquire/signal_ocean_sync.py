@@ -533,6 +533,9 @@ def build_views_and_provenance(geo_dir: Path, views_dir: Path, manifest_path: Pa
         hud_counts[seg] = seg_count
 
     hud_counts['all'] = len(all_rows)
+    hud_counts['total_vessels'] = len(all_rows)
+    hud_counts['capesize_vloc'] = hud_counts.get('dry_bulk', 0)
+    hud_counts['vlcc_suezmax'] = hud_counts.get('tankers', 0)
     hud_counts['avg_speed'] = round(total_speed / max(moving_count, 1), 1)
     hud_counts['pct_laden'] = round((laden_count / max(len(all_rows), 1)) * 100, 1)
     hud_counts['moving'] = moving_count

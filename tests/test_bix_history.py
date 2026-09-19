@@ -37,7 +37,7 @@ def _read(path):
 
 # ---------------------------------------------------------------- helpers
 
-def _row(d='2026-09-10', idx='BIX_World', grade='VLSFO', price='700.0',
+def _row(d='2026-09-25', idx='BIX_World', grade='VLSFO', price='700.0',
          chg='1.5', src='BunkerIndex_BIX'):
     return {'observation_date': d, 'index_code': idx, 'grade': grade,
             'price_usd': price, 'change_usd': chg, 'change_pct': '0.21',
@@ -92,7 +92,7 @@ def test_dedupe_latest_wins(tmp_path):
     inp = _tmp_csv(tmp_path, [_row(price='999.0', src='Old_Rev'), rev], name='rev.csv')
     archive, stats = bbh.merge_history(history_path=str(hist), seed_path=SEED_CSV,
                                        inputs=[inp])
-    key = ('2026-09-10', 'BIX_World', 'VLSFO')
+    key = ('2026-09-25', 'BIX_World', 'VLSFO')
     assert float(archive[key]['price_usd']) == 777.0  # latest rev, canonical float form
     assert archive[key]['source'] == 'Backfill_X'
     assert stats['new_keys_added'] == 1
@@ -126,14 +126,14 @@ def test_crlf_safe_roundtrip(tmp_path):
     with open(crlf, 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=FIELDS, lineterminator='\r\n')
         w.writeheader()
-        w.writerows([_row(d='2026-09-11', price='701.0')])
+        w.writerows([_row(d='2026-09-26', price='701.0')])
     archive2, stats = bbh.merge_history(history_path=str(hist), seed_path=SEED_CSV,
                                         inputs=[str(crlf)])
     bbh.write_history(archive2, str(hist))
     raw = open(str(hist), 'rb').read()
     assert b'\r\n' not in raw
     assert stats['total_rows'] == 151  # 150 seed + 1 new obs from the CRLF source
-    assert not any(r['observation_date'] == '2026-09-11' and '\r' in ''.join(r.values())
+    assert not any(r['observation_date'] == '2026-09-26' and '\r' in ''.join(r.values())
                    for r in _read(str(hist)))
 
 

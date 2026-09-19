@@ -3455,28 +3455,39 @@
     }
     .map-sector-overlay-title { font-size: var(--fs-micro); color: var(--text-muted); letter-spacing: 0.06em; margin-bottom: 0; font-weight: 600; }
     .cp-selector-chips {
-      display: flex;
-      flex-wrap: wrap;
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
       gap: 4px;
-      max-height: 116px;
-      overflow-y: auto;
-      padding: 2px;
-      border: 1px solid var(--border);
-      border-radius: 5px;
-      background: var(--bg);
+      padding: 0;
+      border: none;
+      background: transparent;
+    }
+    @media (max-width: 1200px) {
+      .cp-selector-chips {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+    @media (max-width: 680px) {
+      .cp-selector-chips {
+        grid-template-columns: repeat(2, 1fr);
+      }
     }
     .cp-selector-chip {
-      background: var(--card);
+      background: rgba(13, 19, 26, 0.9);
       border: 1px solid var(--border);
       color: var(--text-muted);
-      font-size: var(--fs-micro);
-      padding: 2px 7px;
-      border-radius: 999px;
+      font-size: 10px;
+      padding: 4px 6px;
+      border-radius: 4px;
       cursor: pointer;
       font-family: 'IBM Plex Mono', monospace;
       white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      text-align: center;
+      transition: all 0.15s ease;
     }
-    .cp-selector-chip:hover { color: var(--text); border-color: var(--accent); }
+    .cp-selector-chip:hover { color: var(--text); border-color: var(--accent); background: rgba(77, 154, 255, 0.12); }
     .cp-selector-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
     .cp-selector-chip.active-limit { background: var(--red); border-color: var(--red); color: #fff; font-weight: 600; }
     .cp-data-note {
@@ -3616,7 +3627,7 @@
     .tracking-workstation.pane-expanded .tracking-left-pane {
       height: auto;
       max-height: none;
-      min-height: 640px;
+      min-height: 832px;
     }
     .tracking-workstation.map-expanded {
       grid-template-columns: 1fr;
@@ -3628,9 +3639,9 @@
     .tracking-workstation.map-expanded .tracking-left-pane {
       grid-column: 1 / -1;
       order: 2;
-      height: 640px;
-      min-height: 640px;
-      max-height: 640px;
+      height: 832px;
+      min-height: 832px;
+      max-height: 832px;
     }
     .tracking-workstation .chokepoint-drawer {
       grid-column: 1 / -1;
@@ -3657,9 +3668,9 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
-      height: 640px;
-      min-height: 640px;
-      max-height: 640px;
+      height: 832px;
+      min-height: 832px;
+      max-height: 832px;
       box-sizing: border-box;
     }
     .tracking-right-pane {
@@ -4523,21 +4534,22 @@
       border-color: var(--accent);
     }
     .cp-narrative-note, .cp-spec-strip {
-      font-size: var(--fs-body);
-      color: var(--text);
-      background: #0d1219;
+      font-size: 11px;
+      color: var(--text-muted);
+      background: rgba(13, 18, 25, 0.6);
       border: 1px solid var(--border);
-      border-left: 1px solid var(--accent);
-      padding: 12px 14px;
-      border-radius: 0 6px 6px 0;
+      border-left: 3px solid var(--accent);
+      padding: 8px 12px;
+      border-radius: 4px;
       line-height: 1.5;
       display: flex;
       flex-direction: column;
-      gap: 10px;
+      gap: 6px;
+      margin: 8px 0 10px 0;
     }
     .cp-spec-narrative {
       color: var(--text);
-      font-size: var(--fs-body);
+      font-size: 11.5px;
       line-height: 1.5;
     }
     .cp-spec-grid {
@@ -5638,6 +5650,26 @@
       font-family: 'IBM Plex Mono', monospace;
       font-size: 11px;
       color: var(--text-muted);
+    }
+    .bunker-stale-pill {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      color: #8b949e;
+      background: rgba(139, 148, 158, 0.12);
+      border: 1px solid rgba(139, 148, 158, 0.3);
+      border-radius: 3px;
+      padding: 1px 5px;
+      cursor: help;
+    }
+    .bunker-ancient-pill {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      color: #e3b341;
+      background: rgba(227, 179, 65, 0.12);
+      border: 1px solid rgba(227, 179, 65, 0.3);
+      border-radius: 3px;
+      padding: 1px 5px;
+      cursor: help;
     }
 
     /* MODAL */
@@ -15336,7 +15368,7 @@ if (intelTabsContainer) {
             </div>
           </div>
 
-          <!-- Subview 2c: Per-Vessel Fixture Voyages -->
+          <!-- Subview 2c: Per-Vessel Fixture Voyages (Source: data/geospatial/voyage_history_fixturegrounded.csv) -->
           <div id="subviewVessel" class="tracking-subview-content" style="display:none; flex-direction:column;">
             <div style="display:flex; gap:8px; align-items:center; padding:8px 10px; border-bottom:1px solid var(--border); flex-wrap:wrap;">
               <input type="text" id="vesselSearchInput" class="tracking-input" style="flex:1; min-width:150px;" placeholder="Search vessel name (broker fixtures)..." data-tooltip="Searches vessels named in broker-reported fixtures. These are reported fixture voyages, not AIS positions." oninput="onVesselSearchInput()">
@@ -15663,7 +15695,7 @@ if (intelTabsContainer) {
         </div><!-- /tracking-right-pane -->
 
         <!-- Lower Drawer: Chokepoint & Strategic Canal Transit Analytics (Full Workstation Width) -->
-        <div class="chokepoint-drawer" id="chokepointAnalyticsDrawer" style="display:none;">
+        <div class="chokepoint-drawer" id="chokepointAnalyticsDrawer">
           <div class="cp-drawer-header">
             <div class="cp-drawer-title-wrap">
               <h3>
@@ -15691,13 +15723,7 @@ if (intelTabsContainer) {
 
           <div class="cp-spec-strip" id="cpDrawerNote">
             <div class="cp-spec-narrative">
-              <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb and steam around the Cape of Good Hope. <span title="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model." data-tooltip="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model.">Extra voyage days are calculated from the chokepoint transit-metrics model.</span>
-            </div>
-            <div class="cp-spec-grid">
-              <div class="cp-spec-item"><span class="cp-spec-label">Region</span><span class="cp-spec-val">Red Sea / Gulf of Aden</span></div>
-              <div class="cp-spec-item"><span class="cp-spec-label">Connects</span><span class="cp-spec-val" title="Southern approach gatekeeper to Suez Canal">Southern Suez Gateway</span></div>
-              <div class="cp-spec-item"><span class="cp-spec-label">Alternative Routing</span><span class="cp-spec-val" style="color:var(--accent);">Cape of Good Hope (+10-14d)</span></div>
-              <div class="cp-spec-item"><span class="cp-spec-label">Normal Baseline</span><span class="cp-spec-val">70 transits / day</span></div>
+              <strong>Red Sea Rerouting Crisis:</strong> Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding an editorial estimate of +10 to +14 days per laden voyage.
             </div>
           </div>
 
@@ -16575,6 +16601,10 @@ if (intelTabsContainer) {
           <button class="bunkers-pill" data-grade="MGO" onclick="setBunkerGrade('MGO')" data-tt-type="bunker-grade-btn" data-tt-grade="MGO">MGO</button>
           <button class="bunkers-pill" data-grade="IFO380" onclick="setBunkerGrade('IFO380')" data-tt-type="bunker-grade-btn" data-tt-grade="IFO380">HSFO</button>
           <button class="bunkers-pill" data-grade="BIO" onclick="setBunkerGrade('BIO')" data-tt-type="bunker-grade-btn" data-tt-grade="BIO">Biofuels</button>
+
+          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:12px; margin-right:4px;">STATUS:</div>
+          <button class="bunkers-pill active" id="bunkerPillStatusAll" data-freshness="all" onclick="setBunkerFreshness('all')" data-tt-type="bunker-freshness-btn" data-tt-freshness="all">All Ports (213)</button>
+          <button class="bunkers-pill" id="bunkerPillStatusActive" data-freshness="active" onclick="setBunkerFreshness('active')" data-tt-type="bunker-freshness-btn" data-tt-freshness="active" data-tooltip="Filter to active bunkering ports with verified quotes updated in September 2026 (161 ports).">Active / Sep 2026 (161)</button>
         </div>
         <div class="bunkers-tool-right">
           <input type="text" id="bunkersSearchInput" class="bunkers-input" placeholder="Search port, country, code..." oninput="onBunkersSearchInput()" data-tt-type="bunker-search">
@@ -43845,13 +43875,13 @@ function updateTrackingHUD() {
 
   var elPillLng = document.getElementById('pillCountLNG');
   if (elPillLng) {
-    var nLngFleet = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud && DATA.liveFleetPositions.hud.lng) || 1273;
-    elPillLng.textContent = nLngFleet.toLocaleString('en-US') + ' hulls';
+    var nLngFleet = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud && (DATA.liveFleetPositions.hud.lng != null ? DATA.liveFleetPositions.hud.lng : DATA.liveFleetPositions.hud.lng_carriers));
+    elPillLng.textContent = nLngFleet != null ? nLngFleet.toLocaleString('en-US') + ' hulls' : '—';
   }
   var elPillLpg = document.getElementById('pillCountLPG');
   if (elPillLpg) {
-    var nLpgFleet = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud && DATA.liveFleetPositions.hud.lpg) || 2103;
-    elPillLpg.textContent = nLpgFleet.toLocaleString('en-US') + ' hulls';
+    var nLpgFleet = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud && (DATA.liveFleetPositions.hud.lpg != null ? DATA.liveFleetPositions.hud.lpg : DATA.liveFleetPositions.hud.lpg_carriers));
+    elPillLpg.textContent = nLpgFleet != null ? nLpgFleet.toLocaleString('en-US') + ' hulls' : '—';
   }
 
   // Keep tooltip bus live (data-tt pattern): refresh data-tt-val + freshness.
@@ -45604,13 +45634,21 @@ function updateLiveFleetHUD() {
   var elLng = document.getElementById('hudLngCount');
   var elLpg = document.getElementById('hudLpgCount');
 
-  if (elCount) elCount.textContent = (hud.total_vessels || 7937).toLocaleString('en-US') + ' Tracked';
-  if (elSpd) elSpd.textContent = (hud.avg_speed || 11.4).toFixed(1) + ' kn';
-  if (elLaden) elLaden.textContent = (hud.pct_laden || 35.6).toFixed(1) + '%';
-  if (elCape) elCape.textContent = (hud.capesize_vloc || 2246).toLocaleString('en-US');
-  if (elTanker) elTanker.textContent = (hud.vlcc_suezmax || 2315).toLocaleString('en-US');
-  if (elLng) elLng.textContent = (hud.lng || 1273).toLocaleString('en-US');
-  if (elLpg) elLpg.textContent = (hud.lpg || 2103).toLocaleString('en-US');
+  var total = (hud.total_vessels != null) ? hud.total_vessels : (hud.all != null ? hud.all : null);
+  var avgSpd = hud.avg_speed != null ? hud.avg_speed : null;
+  var pctLaden = hud.pct_laden != null ? hud.pct_laden : null;
+  var capeCount = (hud.capesize_vloc != null) ? hud.capesize_vloc : (hud.dry_bulk != null ? hud.dry_bulk : null);
+  var tankerCount = (hud.vlcc_suezmax != null) ? hud.vlcc_suezmax : (hud.tankers != null ? hud.tankers : null);
+  var lngCount = hud.lng != null ? hud.lng : null;
+  var lpgCount = hud.lpg != null ? hud.lpg : null;
+
+  if (elCount) elCount.textContent = total != null ? total.toLocaleString('en-US') + ' Tracked' : '—';
+  if (elSpd) elSpd.textContent = avgSpd != null ? avgSpd.toFixed(1) + ' kn' : '—';
+  if (elLaden) elLaden.textContent = pctLaden != null ? pctLaden.toFixed(1) + '%' : '—';
+  if (elCape) elCape.textContent = capeCount != null ? capeCount.toLocaleString('en-US') : '—';
+  if (elTanker) elTanker.textContent = tankerCount != null ? tankerCount.toLocaleString('en-US') : '—';
+  if (elLng) elLng.textContent = lngCount != null ? lngCount.toLocaleString('en-US') : '—';
+  if (elLpg) elLpg.textContent = lpgCount != null ? lpgCount.toLocaleString('en-US') : '—';
 }
 window.updateLiveFleetHUD = updateLiveFleetHUD;
 
@@ -46429,10 +46467,10 @@ function setTrackingSubView(subview) {
     if (el) el.style.display = (v === subview) ? 'flex' : 'none';
   });
 
-  // Chokepoints analytics drawer is ONLY visible when subview is 'chokepoints'
+  // Chokepoints analytics drawer is permanently rendered across workstation subviews
   var cpDrawer = document.getElementById('chokepointAnalyticsDrawer');
   if (cpDrawer) {
-    cpDrawer.style.display = (subview === 'chokepoints') ? 'block' : 'none';
+    cpDrawer.style.display = 'block';
   }
 
   if (subview !== 'portpage' && activePortHighlightLayer && window.trackingMap) {
@@ -47263,7 +47301,7 @@ function openChokepointAnalytics(chokepointId) {
     var narrativeText = '';
     if (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal') {
       var daysTxt = trackingReroutingTelemetry().daysAdded;
-      var daysStr = (daysTxt != null) ? ('an estimated +' + daysTxt.toFixed(1) + ' days') : 'a range estimate of +10 to +14 days';
+      var daysStr = (daysTxt != null) ? ('an editorial estimate of +' + daysTxt.toFixed(1) + ' days') : 'an editorial estimate of +10 to +14 days';
       narrativeText = '<strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding ' + daysStr + ' per laden voyage.';
     } else if (cp.id === 'cape_good_hope') {
       narrativeText = '<strong>Cape Rerouting Surge</strong>: Circumnavigating Africa absorbs excess fleet capacity, expanding global ton-mile demand and lifting container and tanker TCE earnings.';
@@ -47273,19 +47311,8 @@ function openChokepointAnalytics(chokepointId) {
       narrativeText = '<strong>' + escapeHtml(cp.name || '') + '</strong>: ' + escapeHtml(cp.strategic_importance || 'Key strategic international transit chokepoint.');
     }
 
-    var connectsVal = cp.strategic_importance || 'Primary international trade corridor';
-    var altVal = cp.rerouting_via || 'Direct navigation';
-    var baselineVal = (cp.normal_baseline_daily != null) ? (cp.normal_baseline_daily + ' transits / day') : '—';
-    var deltaPct = (cp.baseline_change_pct != null) ? ((cp.baseline_change_pct > 0 ? '+' : '') + cp.baseline_change_pct + '% vs baseline') : '';
-
     noteEl.className = 'cp-spec-strip';
-    noteEl.innerHTML = '<div class="cp-spec-narrative">' + narrativeText + '</div>' +
-      '<div class="cp-spec-grid">' +
-        '<div class="cp-spec-item"><span class="cp-spec-label">Region</span><span class="cp-spec-val">' + escapeHtml(cp.region || '—') + '</span></div>' +
-        '<div class="cp-spec-item"><span class="cp-spec-label">Connects</span><span class="cp-spec-val" title="' + escapeHtml(connectsVal) + '">' + escapeHtml(connectsVal) + '</span></div>' +
-        '<div class="cp-spec-item"><span class="cp-spec-label">Alternative Routing</span><span class="cp-spec-val" style="color:var(--accent);">' + escapeHtml(altVal) + '</span></div>' +
-        '<div class="cp-spec-item"><span class="cp-spec-label">Normal Baseline</span><span class="cp-spec-val">' + escapeHtml(baselineVal) + (deltaPct ? ' <span style="font-size:var(--fs-micro);font-weight:600;color:' + (cp.baseline_change_pct < 0 ? 'var(--red)' : 'var(--green)') + ';">(' + deltaPct + ')</span>' : '') + '</span></div>' +
-      '</div>';
+    noteEl.innerHTML = '<div class="cp-spec-narrative">' + narrativeText + '</div>';
   }
 
   // 4 KPIs
@@ -50972,12 +50999,12 @@ function escapeHtml(str) {
                           (target.querySelector ? target.querySelector('.kpi-badge, .badge, .cargo-badge-live, [id$="Badge"]') : null);
           if (badgeEl && badgeEl.textContent && badgeEl.textContent.trim()) {
             const cleanText = badgeEl.textContent.replace(/\s+/g, ' ').trim();
-            if (cleanText && cleanText !== '—' && !cleanText.includes('LIVE') && cleanText.length < 90) {
+            if (cleanText && cleanText !== '-' && cleanText.charCodeAt(0) !== 0x2014 && !cleanText.includes('LIVE') && cleanText.length < 90) {
               val = cleanText;
             }
           } else if ((target.classList.contains('badge') || target.classList.contains('kpi-badge')) && target.textContent && target.textContent.trim()) {
             const cleanText = target.textContent.replace(/\s+/g, ' ').trim();
-            if (cleanText && cleanText !== '—' && !cleanText.includes('LIVE') && cleanText.length < 90) {
+            if (cleanText && cleanText !== '-' && cleanText.charCodeAt(0) !== 0x2014 && !cleanText.includes('LIVE') && cleanText.length < 90) {
               val = cleanText;
             }
           }
@@ -51536,6 +51563,7 @@ var bunkerMarkersLayer = null;
 
 var bunkersSelectedRegion = 'all';
 var bunkersSelectedGrade = 'all';
+var bunkersSelectedFreshness = 'all';
 var bunkersSearchQuery = '';
 var bunkersCurrentPage = 1;
 var BUNKERS_PAGE_SIZE = 50;
@@ -51722,7 +51750,7 @@ function plotBunkerPortMarkers() {
     if (ports.length === totalMaster) {
       hud.textContent = totalMaster + ' Global Bunker Supply Ports Active';
     } else {
-      var filterDesc = bunkersSelectedGrade !== 'all' ? (bunkersSelectedGrade === 'BIO' ? 'Biofuel (B24) Supply Hubs' : bunkersSelectedGrade + ' Grade') : (bunkersSelectedRegion !== 'all' ? bunkersSelectedRegion + ' Region' : 'Filtered');
+      var filterDesc = bunkersSelectedGrade !== 'all' ? (bunkersSelectedGrade === 'BIO' ? 'Biofuel (B24) Supply Hubs' : bunkersSelectedGrade + ' Grade') : (bunkersSelectedFreshness === 'active' ? 'Active Sep 2026' : (bunkersSelectedRegion !== 'all' ? bunkersSelectedRegion + ' Region' : 'Filtered'));
       hud.textContent = ports.length + ' of ' + totalMaster + ' Supply Ports Active (' + filterDesc + ')';
     }
   }
@@ -51817,6 +51845,10 @@ function filterBunkersData() {
   var q = (bunkersSearchQuery || '').toLowerCase().trim();
 
   return ports.filter(function(p) {
+    if (bunkersSelectedFreshness === 'active') {
+      if (!p.latest_date || p.latest_date < '2026-09-01') return false;
+    }
+
     if (bunkersSelectedRegion !== 'all') {
       if (p.region !== bunkersSelectedRegion) return false;
     }
@@ -51929,6 +51961,8 @@ function renderBunkersSpotTable() {
         bannerText.innerHTML = '<strong>Filtered by Biofuels (B24 blend)</strong>: Displaying the premier bunkering hubs with verified commercial bio-bunker indications (Singapore, Rotterdam, Fujairah, Houston, Gibraltar, Algeciras, Huelva).';
       } else if (bunkersSelectedGrade !== 'all') {
         bannerText.innerHTML = '<strong>Filtered by ' + escapeHtml(bunkersSelectedGrade) + '</strong>: ' + total + ' of ' + totalMaster + ' ports provide verified indications.';
+      } else if (bunkersSelectedFreshness === 'active') {
+        bannerText.innerHTML = '<strong>Filtered by Active Ports (Sep 2026)</strong>: ' + total + ' of ' + totalMaster + ' ports with live indications updated this month.';
       } else if (bunkersSelectedRegion !== 'all') {
         bannerText.innerHTML = '<strong>Filtered by ' + escapeHtml(bunkersSelectedRegion) + ' Region</strong>: ' + total + ' of ' + totalMaster + ' ports.';
       } else if (bunkersSearchQuery) {
@@ -51967,7 +52001,7 @@ function renderBunkersSpotTable() {
 
   tbody.innerHTML = '';
   if (!paged.length) {
-    tbody.innerHTML = '<tr><td colspan="8" style="text-align:center; padding:20px; color:var(--text-muted);">No bunker ports match current filters. <button onclick="setBunkerGrade(\'all\'); setBunkerRegion(\'all\');" style="background:none; border:none; color:var(--accent); text-decoration:underline; cursor:pointer;">Reset filters</button></td></tr>';
+    tbody.innerHTML = '<tr><td colspan="8" style="text-align:center; padding:20px; color:var(--text-muted);">No bunker ports match current filters. <button onclick="setBunkerGrade(\'all\'); setBunkerRegion(\'all\'); setBunkerFreshness(\'all\');" style="background:none; border:none; color:var(--accent); text-decoration:underline; cursor:pointer;">Reset filters</button></td></tr>';
     return;
   }
 
@@ -52005,7 +52039,13 @@ function renderBunkersSpotTable() {
     var statusHtml = '<span class="bunker-normal-pill">Normal</span>';
     if (p.is_outlier && p.outlier_flags && p.outlier_flags.length) {
       var outDesc = p.outlier_flags.map(function(f) { return f.grade + ' ' + (f.zscore > 0 ? '+' : '') + f.zscore + 'σ'; }).join(', ');
-      statusHtml = '<span class="bunker-outlier-pill" data-tooltip="Statistical 3σ outlier: ' + escapeHtml(outDesc) + '"> 3σ OUTLIER</span>';
+      statusHtml = '<span class="bunker-outlier-pill" data-tooltip="Statistical 3σ outlier: ' + escapeHtml(outDesc) + '">3σ OUTLIER</span>';
+    } else if (p.latest_date && p.latest_date < '2026-01-01') {
+      var yr = p.latest_date.slice(0, 4);
+      statusHtml = '<span class="bunker-ancient-pill" title="Historical baseline quote dating to ' + escapeHtml(p.latest_date) + ' (infrequent broker publication)">Hist ' + yr + '</span>';
+    } else if (p.latest_date && p.latest_date < '2026-08-01') {
+      var ym = p.latest_date.slice(0, 7);
+      statusHtml = '<span class="bunker-stale-pill" title="Prior observation from ' + escapeHtml(p.latest_date) + '">Obs ' + ym + '</span>';
     }
 
     tr.setAttribute('data-tooltip', ' ');
@@ -52041,7 +52081,7 @@ function renderBunkersSpotTable() {
       '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>' +
       '</button>' +
       '</div>' +
-      '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(p.code) + ' · ' + escapeHtml(p.country) + '</div>' +
+      '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:\'IBM Plex Mono\', monospace;">' + escapeHtml(p.code) + ' · ' + escapeHtml(p.country) + (p.latest_date ? (' · <span title="Last quote observation: ' + escapeHtml(p.latest_date) + '" style="color:' + (p.latest_date >= '2026-09-01' ? '#3fb950' : (p.latest_date < '2026-01-01' ? '#e3b341' : 'var(--text-muted)')) + ';">obs ' + escapeHtml(p.latest_date) + '</span>') : '') + '</div>' +
       '</td>' +
       '<td><span class="class-badge">' + escapeHtml(p.region) + '</span></td>' +
       '<td style="font-family:\'IBM Plex Mono\', monospace; font-weight:600; color:' + (p.vlsfo ? '#3fb950' : 'var(--text-muted)') + ';">' + vlsfoDisplay + '</td>' +
@@ -52136,6 +52176,17 @@ function setBunkerGrade(grade) {
   renderBunkersSpotTable();
   plotBunkerPortMarkers();
 }
+
+function setBunkerFreshness(freshness) {
+  bunkersSelectedFreshness = freshness;
+  bunkersCurrentPage = 1;
+  document.querySelectorAll('.bunkers-tools-bar .bunkers-pill[data-freshness]').forEach(function(btn) {
+    btn.classList.toggle('active', btn.dataset.freshness === freshness);
+  });
+  renderBunkersSpotTable();
+  plotBunkerPortMarkers();
+}
+window.setBunkerFreshness = setBunkerFreshness;
 
 function onBunkersSearchInput() {
   var input = document.getElementById('bunkersSearchInput');
@@ -52471,7 +52522,7 @@ function renderBunkersBixStrip() {
       });
       var el = document.getElementById('bunkerBixArchBadge');
       var calSvg = '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-1px; margin-right:4px; opacity:0.85;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>';
-      if (el && d0 && d1) el.innerHTML = calSvg + 'Archive: ' + d0 + ' → ' + d1 + ' · Daily Series';
+      if (el && d0 && d1) el.innerHTML = calSvg + 'Archive ' + d0 + ' to ' + d1 + ' · accumulates with each daily update';
     } catch (e) {}
   })();
 
@@ -52921,7 +52972,7 @@ function openBunkerPortDetail(portIdent) {
   }
 
   document.getElementById('bunkerModalPortTitle').textContent = p.name + ' (' + (p.code || p.country || p.region) + ')';
-  document.getElementById('bunkerModalPortSub').textContent = (p.country || '') + ' · ' + (p.region || '') + ' · Lat: ' + (p.lat ? p.lat.toFixed(2) : '—') + ', Lon: ' + (p.lon ? p.lon.toFixed(2) : '—') + ' · Observation ' + (p.latest_date || '2026-09-04');
+  document.getElementById('bunkerModalPortSub').textContent = (p.country || '') + ' · ' + (p.region || '') + ' · Lat: ' + (p.lat ? p.lat.toFixed(2) : '—') + ', Lon: ' + (p.lon ? p.lon.toFixed(2) : '—') + ' · Observation ' + (p.latest_date || 'Historical Archive');
 
   var outlierBox = document.getElementById('bunkerModalOutlierBanner');
   if (outlierBox) {
@@ -56926,10 +56977,10 @@ function renderPortStressSubView() {
   const collapseEl = document.getElementById('hudStressCollapse');
   const normalEl = document.getElementById('hudStressNormal');
 
-  if (totalEl) totalEl.textContent = sm.total_monitored || 50;
-  if (surgeEl) surgeEl.textContent = sm.surge_alerts || 0;
-  if (collapseEl) collapseEl.textContent = sm.collapse_alerts || 20;
-  if (normalEl) normalEl.textContent = sm.normal_hubs || 30;
+  if (totalEl) totalEl.textContent = sm.total_monitored != null ? sm.total_monitored.toLocaleString('en-US') : '—';
+  if (surgeEl) surgeEl.textContent = sm.surge_alerts != null ? sm.surge_alerts.toLocaleString('en-US') : '—';
+  if (collapseEl) collapseEl.textContent = sm.collapse_alerts != null ? sm.collapse_alerts.toLocaleString('en-US') : '—';
+  if (normalEl) normalEl.textContent = sm.normal_hubs != null ? sm.normal_hubs.toLocaleString('en-US') : '—';
 
   if (!PORT_STRESS_STATE.selectedPortKey && summary.hubs && summary.hubs.length) {
     const defaultHub = summary.hubs.find(h => h.key.toLowerCase().includes('auphe')) || summary.hubs[0];

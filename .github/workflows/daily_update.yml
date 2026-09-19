@@ -92,6 +92,10 @@ jobs:
       continue-on-error: true
       run: python -m bunker_pipeline.run_pipeline --mode spot || true
 
+    - name: Run Bunker BIX benchmarks collector
+      continue-on-error: true
+      run: python -m bunker_pipeline.run_pipeline --mode bix || true
+
     - name: Build BIX benchmark history
       continue-on-error: true
       run: python scripts/bunkers/build_bix_history.py || true

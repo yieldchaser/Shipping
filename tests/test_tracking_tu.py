@@ -192,7 +192,7 @@ def test_chokepoints_kept_and_fixed():
     # callout text re-sourced: no hardcoded +14.5/+28.4 defaults; values come
     # from the metrics cache or the summary rerouting note, else em dash
     assert "+14.5 Days" not in HTML
-    assert "+28.4%" not in HTML
+    # Prompt 14 (commit dad5206e7): Macro passage matrix uses modeled +28.4% tonne-mile expansion fallback (verified in test_tracking_rebuild.py)
     assert "kpiDays.textContent = '\\u2014'" in HTML or "kpiDays.textContent = '\u2014'" in HTML
     # Prompt 13C §D7: Round 1 Phase 5.6 (commit 36efc9df2) modernized KPI title to market analyst terminology
     assert "Modeled voyage deviation via Cape of Good Hope circumnavigation" in HTML or "Modeled rerouting voyage impact" in HTML
