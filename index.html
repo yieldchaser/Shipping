@@ -13409,17 +13409,70 @@
 
       <!-- S2 TC RATES -->
       <div class="fearn-sec" id="fearnSec2" style="display:none;">
+        <!-- TOP HERO: DAILY SPOT VS PERIOD TERM ARBITRAGE (2000-2026) -->
+        <div class="chart-container mb-20" id="timeCharterContainer">
+          <div class="chart-header">
+            <div class="chart-title" id="tcChartTitle" data-tooltip="Spot vs Period Time Charter Rates (TCE $/day) — overlays daily spot earnings against fixed period charter rates (4/6M, 1Y, 2Y, 3Y, 5Y) to identify term structure regimes. Spot > Period TC = Backwardation/tightness; Spot < Period TC = Contango/overcapacity. Daily Baltic spot freight publishing begins in 2000." data-tt-type="concept-timecharter">Daily Spot vs Period Term Arbitrage (2000–2026)</div>
+            <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+              <select id="tcVesselSelect" class="tracking-select" style="min-width:140px;" onchange="onTcVesselSelect(this.value)">
+                <option value="cape">Capesize</option>
+                <option value="panama">Panamax</option>
+                <option value="suprama">Supramax</option>
+                <option value="handysize">Handysize</option>
+                <option value="dirtytanker">VLCC Tanker</option>
+                <option value="suezmax">Suezmax Tanker</option>
+                <option value="aframax">Aframax Tanker</option>
+                <option value="cleantanker">MR Clean Tanker</option>
+              </select>
+              <div id="tcTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn" id="tcTenor4_6m" onclick="setTcTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
+                <button class="toggle-btn active" id="tcTenor1y" onclick="setTcTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
+                <button class="toggle-btn" id="tcTenor2y" onclick="setTcTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
+                <button class="toggle-btn" id="tcTenor3y" onclick="setTcTenor('3y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="3y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3Y</button>
+                <button class="toggle-btn" id="tcTenor5y" onclick="setTcTenor('5y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="5y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">5Y</button>
+                <button class="toggle-btn" id="tcTenorAll" onclick="setTcTenor('all')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Tenors</button>
+              </div>
+              <div id="tcBasinToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="tcBasinAvg" onclick="setTcBasin('avg')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="avg" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Global</button>
+                <button class="toggle-btn" id="tcBasinAtl" onclick="setTcBasin('atl')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="atl" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic</button>
+                <button class="toggle-btn" id="tcBasinPac" onclick="setTcBasin('pac')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="pac" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific</button>
+                <button class="toggle-btn" id="tcBasinBoth" onclick="setTcBasin('both')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+              </div>
+              <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
+                <button class="toggle-btn active" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="merged" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
+                <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="fearnleys" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
+                <button class="toggle-btn" id="tcSrcIntermodal" onclick="setTcSource('intermodal')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="intermodal" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Intermodal</button>
+                <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
+              </div>
+              <div id="spotTcRatioBadge" class="kpi-badge">Ratio: —</div>
+            </div>
+          </div>
+          <div class="index-range-wrap" style="padding: 2px 0 6px;">
+            <div class="index-range-label">
+              <span>Range:</span>
+              <span id="tcRangeLabel">Loading…</span>
+            </div>
+            <div class="dual-range-track" id="tcRangeTrack">
+              <div class="dual-range-fill" id="tcRangeFill"></div>
+              <input type="range" id="tcRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
+              <input type="range" id="tcRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
+            </div>
+          </div>
+          <div class="chart-canvas-wrap" style="height:380px"><canvas id="timeCharterChart"></canvas></div>
+        </div>
+
+        <!-- SECONDARY: PERIOD TC TERM STRUCTURE CURVES -->
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Time-charter rate assessment curves by vessel class. One source active at a time via the S2 toggle: Baltic Exchange weekly archive (2000 onward) or Fearnleys monthly archive (1977 onward). Hover the chart for per-point values from the active cache."><span id="fearnTcTitleNote" style="font-size:11px;color:var(--text-muted);font-weight:400;">· Baltic Weekly 2000+ · 2Y/3Y weekly only since 2021</span></div>
+            <div class="chart-title" data-tooltip="Period time-charter rate assessment curves across standard fixture tenors (4-6M, 1Y, 2Y, 3Y) from weekly shipbroker assessments. Hover the chart for per-point values from the active cache.">Institutional Period TC Term Structure <span id="fearnTcTitleNote" style="font-size:11px;color:var(--text-muted);font-weight:400;">· Baltic &amp; Fearnleys Weekly Assessments (2000–2026)</span></div>
             <div id="fearnTcMeta" data-tt-type="fearn-tc-chart" style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;cursor:help;"></div>
           </div>
           <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnTcClass" class="tracking-select" style="min-width:200px;" onchange="onFearnTcClass()" data-tt-type="fearn-tc-class"></select>
             <span id="fearnTcSrcWrap" style="display:inline-flex;gap:0;"></span>
-            <span id="fearnTcSubLine" style="font-size:var(--fs-micro);color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — gaps are honest, no interpolation</span>
+            <span id="fearnTcSubLine" style="font-size:var(--fs-micro);color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — honest weekly broker prints, no monthly averaging</span>
           </div>
-          <div class="chart-canvas-wrap" style="height:380px;"><canvas id="fearnTcChart"></canvas></div>
+          <div class="chart-canvas-wrap" style="height:360px;"><canvas id="fearnTcChart"></canvas></div>
           <div id="fearnTcStats" class="index-stats-strip" style="margin-top:10px;"></div>
           <div class="index-range-wrap">
             <div class="index-range-label">
@@ -13435,47 +13488,6 @@
           </div>
           <div id="fearnTcSourceNote" style="font-size:var(--fs-micro);color:var(--text-muted);padding:6px 2px 0;font-family:'IBM Plex Mono',monospace;"></div>
         </div>
-
-          <div class="chart-container mb-20">
-            <div class="chart-header">
-              <div class="chart-title" id="tcChartTitle" data-tooltip="Spot vs Period Time Charter Rates (TCE $/day) — overlays daily spot earnings against fixed period charter rates (4/6M, 1Y, 2Y, 3Y, 5Y) to identify term structure regimes. Spot > Period TC = Backwardation/tightness; Spot < Period TC = Contango/overcapacity. Daily Baltic spot freight publishing begins in 2000." data-tt-type="concept-timecharter">Daily Spot vs Period Term Arbitrage (2000–2026)</div>
-              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <div id="tcTenorToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn" id="tcTenor4_6m" onclick="setTcTenor('4_6m')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="4_6m" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;">4/6M</button>
-                  <button class="toggle-btn active" id="tcTenor1y" onclick="setTcTenor('1y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="1y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;border-left:1px solid var(--border);">1Y</button>
-                  <button class="toggle-btn" id="tcTenor2y" onclick="setTcTenor('2y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="2y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">2Y</button>
-                  <button class="toggle-btn" id="tcTenor3y" onclick="setTcTenor('3y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="3y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">3Y</button>
-                  <button class="toggle-btn" id="tcTenor5y" onclick="setTcTenor('5y')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="5y" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">5Y</button>
-                  <button class="toggle-btn" id="tcTenorAll" onclick="setTcTenor('all')" data-tooltip=" " data-tt-type="concept-tc-tenor" data-tt-tenor="all" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">All Tenors</button>
-                </div>
-                <div id="tcBasinToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tcBasinAvg" onclick="setTcBasin('avg')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="avg" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Global</button>
-                  <button class="toggle-btn" id="tcBasinAtl" onclick="setTcBasin('atl')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="atl" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Atlantic</button>
-                  <button class="toggle-btn" id="tcBasinPac" onclick="setTcBasin('pac')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="pac" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Pacific</button>
-                  <button class="toggle-btn" id="tcBasinBoth" onclick="setTcBasin('both')" data-tooltip=" " data-tt-type="concept-tc-basin" data-tt-basin="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
-                </div>
-                <div id="tcSourceToggle" style="display:inline-flex;border:1px solid var(--border);border-radius:4px;overflow:hidden;font-size:11px;">
-                  <button class="toggle-btn active" id="tcSrcMerged" onclick="setTcSource('merged')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="merged" style="padding:3px 8px;border:none;cursor:pointer;background:var(--accent);color:#fff;font-size:11px;font-family:inherit;">Merged</button>
-                  <button class="toggle-btn" id="tcSrcFearnleys" onclick="setTcSource('fearnleys')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="fearnleys" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Fearnleys</button>
-                  <button class="toggle-btn" id="tcSrcIntermodal" onclick="setTcSource('intermodal')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="intermodal" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Intermodal</button>
-                  <button class="toggle-btn" id="tcSrcBoth" onclick="setTcSource('both')" data-tooltip=" " data-tt-type="concept-tc-source" data-tt-source="both" style="padding:3px 8px;border:none;cursor:pointer;background:var(--card);color:var(--text-muted);font-size:11px;font-family:inherit;border-left:1px solid var(--border);">Both</button>
-                </div>
-                <div id="spotTcRatioBadge" class="kpi-badge">Ratio: —</div>
-              </div>
-            </div>
-            <div class="index-range-wrap" style="padding: 2px 0 6px;">
-              <div class="index-range-label">
-                <span>Range:</span>
-                <span id="tcRangeLabel">Loading…</span>
-              </div>
-              <div class="dual-range-track" id="tcRangeTrack">
-                <div class="dual-range-fill" id="tcRangeFill"></div>
-                <input type="range" id="tcRangeStart" data-tooltip="Drag to set the left (start) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="0" step="1">
-                <input type="range" id="tcRangeEnd" data-tooltip="Drag to set the right (end) edge of the plotted date window; the label above shows the exact dates from the cache." min="0" max="100" value="100" step="1">
-              </div>
-            </div>
-            <div class="chart-canvas-wrap" style="height:320px"><canvas id="timeCharterChart"></canvas></div>
-          </div>
 
 
           <div class="chart-container mb-20" id="tceMatrixContainer">
@@ -26207,6 +26219,12 @@ function buildMaster() {
             if (!canvas) return;
           }
         }
+      }
+
+      var tcVSel = document.getElementById('tcVesselSelect');
+      if (tcVSel) {
+        var validVals = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'suezmax', 'aframax', 'cleantanker'];
+        if (validVals.indexOf(productKey) >= 0) tcVSel.value = productKey;
       }
 
       let spotKey = 'cape';
@@ -52932,7 +52950,7 @@ function renderFearnSection(id) {
     };
   };
   if (id === 1) return done(renderFearnOverview)();
-  if (id === 2) { fearnLoadDeskCaches(done(function () { renderFearnTc(); try { renderTimeCharterChart(window.currentProduct || 'cape'); } catch(e){} try { renderTCEMatrixTable(); } catch(e){} })); return; }
+  if (id === 2) { fearnLoadDeskCaches(done(function () { try { renderTimeCharterChart(window.currentProduct || 'cape'); } catch(e){} renderFearnTc(); try { renderTCEMatrixTable(); } catch(e){} })); return; }
   if (id === 3) return done(function () { renderFearnTank(); try { renderTankerForwardChart(); } catch(e){} })();
   if (id === 4) { fearnLoadDeskCaches(done(function () { renderFearnDryGrid(); renderFearnNb(); try { renderBasinSpreadChart(window.currentProduct || 'cape'); } catch(e){} })); return; }
   if (id === 12) { fearnLoadDeskCaches(done(function () { renderFearnNb(); if (typeof renderFleetSupplyOrderbook === "function") renderFleetSupplyOrderbook(); })); return; }
@@ -53055,6 +53073,31 @@ function renderFearnOverview() {
 }
 
 // ---------- S2 TC RATES ----------
+function onTcVesselSelect(pk) {
+  window.currentProduct = pk;
+  var clsMapRev = {
+    'cape': 'Capesize',
+    'panama': 'Panamax',
+    'suprama': 'Supramax',
+    'handysize': 'Handysize',
+    'dirtytanker': 'VLCC',
+    'suezmax': 'Suezmax',
+    'aframax': 'Aframax',
+    'cleantanker': 'MR'
+  };
+  var fcSel = document.getElementById('fearnTcClass');
+  if (fcSel && clsMapRev[pk]) {
+    fcSel.value = clsMapRev[pk];
+    FDESK.tcClass = clsMapRev[pk];
+    FDESK._dirty[2] = true;
+    FDESK.secInit[2] = false;
+    delete window['_fearnTcRangeState'];
+    renderFearnTc();
+  }
+  renderTimeCharterChart(pk);
+}
+window.onTcVesselSelect = onTcVesselSelect;
+
 function renderFearnTc() {
   var d = DATA.fearnDeskTenor;
   if (!d || !d.rows) return;
@@ -53067,142 +53110,138 @@ function renderFearnTc() {
   var TENOR_COLORS = { '4-6M': '#4d9aff', '1Y': '#3fb950', '2Y': '#e3b341', '3Y': '#f778ba' };
   var cls = sel ? sel.value : FDESK.tcClass;
   FDESK.tcClass = cls;
-  // per-class source toggle: baltic weekly (default) vs Fearnleys monthly archive — one source at a time
+  // per-class source toggle: baltic multi-tenor weekly (default) vs Fearnleys 1Y weekly archive (1970+) — NO monthly downsampling
   if (FDESK.tcSourceByClass[cls] == null) FDESK.tcSourceByClass[cls] = 'baltic';
   FDESK.tcSource = FDESK.tcSourceByClass[cls];
   var seg = document.getElementById('fearnTcSrcWrap');
   if (seg && !seg.getAttribute('data-tt-built')) {
     seg.setAttribute('data-tt-built', '1');
     seg.innerHTML =
-      '<button class="tracking-status-btn" id="fearnTcSrcBaltic" onclick="setFearnTcSource(\'baltic\')" data-tt-type="fearn-tc-source" data-tt-mode="baltic" style="border-radius:4px 0 0 4px;">Baltic Weekly (2000+)</button>' +
-      '<button class="tracking-status-btn" id="fearnTcSrcFearn" onclick="setFearnTcSource(\'fearnleys\')" data-tt-type="fearn-tc-source" data-tt-mode="fearnleys" style="border-radius:0 4px 4px 0;border-left:none;">Fearnleys Monthly (1977+)</button>';
+      '<button class="tracking-status-btn" id="fearnTcSrcBaltic" onclick="setFearnTcSource(\'baltic\')" data-tt-type="fearn-tc-source" data-tt-mode="baltic" style="border-radius:4px 0 0 4px;">Baltic Multi-Tenor (2000+)</button>' +
+      '<button class="tracking-status-btn" id="fearnTcSrcFearn" onclick="setFearnTcSource(\'fearnleys\')" data-tt-type="fearn-tc-source" data-tt-mode="fearnleys" style="border-radius:0 4px 4px 0;border-left:none;">Fearnleys 1Y Weekly (1970+)</button>';
   }
   var bB = document.getElementById('fearnTcSrcBaltic'), bF = document.getElementById('fearnTcSrcFearn');
   if (bB) bB.classList.toggle('active', FDESK.tcSource === 'baltic');
   if (bF) bF.classList.toggle('active', FDESK.tcSource === 'fearnleys');
+
+  var dates = [];
+  var datasets = [];
   var byTenor = {};
-  var byArch = {}; // Fearnleys monthly archive series for this class (Fearnleys mode only)
-  d.rows.forEach(function (r) { if (r[1] === cls) (byTenor[r[2]] = byTenor[r[2]] || []).push(r); });
-  var tenors = Object.keys(byTenor).sort(function (a, b) { return ['4-6M', '1Y', '2Y', '3Y'].indexOf(a) - ['4-6M', '1Y', '2Y', '3Y'].indexOf(b); });
-  var allDates = {};
-  d.rows.forEach(function (r) { if (r[1] === cls) allDates[r[0]] = true; });
-  var dates = Object.keys(allDates).sort();
-  var dateIdx = {}; dates.forEach(function (dt, i) { dateIdx[dt] = i; });
-  var datasets = tenors.map(function (t) {
-    var vals = new Array(dates.length).fill(null);
-    byTenor[t].forEach(function (r) { vals[dateIdx[r[0]]] = r[3]; });
-    return {
-      label: t, data: vals,
-      borderColor: TENOR_COLORS[t] || '#8b949e', backgroundColor: 'transparent',
-      borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
-    };
-  });
-  // Fearnleys mode: swap in the single monthly archive series for this class (replaces the weekly tenor datasets entirely)
-  var archInfo = { key: null, n: null, first: null, last: null, latest: null, latestDate: null, frozen: null };
+  var tenors = [];
   var subLine = document.getElementById('fearnTcSubLine');
   var titleNote = document.getElementById('fearnTcTitleNote');
   var srcNote = document.getElementById('fearnTcSourceNote');
+  var meta = document.getElementById('fearnTcMeta');
+
   if (FDESK.tcSource === 'fearnleys') {
-    var TC_ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
-    var archKey = TC_ARCH_KEY[cls];
-    var cache = fearnSeriesCache();
-    var aser = (cache && cache.labels && archKey) ? cache.labels[archKey] : null;
-    if (aser && aser.m && aser.m.length) {
-      archInfo = { key: archKey, n: aser.n, first: aser.first, last: aser.last, latest: aser.latest, latestDate: aser.last, frozen: aser.last < (FDESK.maxym || aser.last) };
-      dates = aser.m.map(function (p) { return p[0]; });
+    var FEARN_1Y_COLS = { Capesize: 'capesize_1y_avg', Panamax: 'panamax_1y_avg', Supramax: 'supramax_1y_avg', Handysize: 'handysize_1y_avg', VLCC: 'vlcc_1y', Suezmax: 'suezmax_1y', Aframax: 'aframax_1y' };
+    var fCol = FEARN_1Y_COLS[cls];
+    var fearnList = DATA.timeCharterFearnleys || [];
+    var fRows = [];
+    if (fCol && fearnList.length) {
+      fearnList.forEach(function (r) {
+        var v = r[fCol];
+        if (v != null && !isNaN(v) && Number(v) > 0) {
+          fRows.push([r.dateStr || r.date, Number(v)]);
+        }
+      });
+    }
+    if (fRows.length) {
+      dates = fRows.map(function (p) { return p[0]; });
       datasets = [{
-        label: 'Fearnleys monthly archive · ' + (aser.route || archKey),
-        data: aser.m.map(function (p) { return p[1]; }),
+        label: cls + ' 1Y TC (Fearnleys Weekly Archive)',
+        data: fRows.map(function (p) { return p[1]; }),
         borderColor: '#e3b341', backgroundColor: 'transparent',
         borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
       }];
     }
-  }
-  var meta = document.getElementById('fearnTcMeta');
-  if (meta) {
-    if (FDESK.tcSource === 'fearnleys') {
-      meta.textContent = archInfo.key
-        ? (cls + ' · Fearnleys monthly archive: ' + archInfo.key + ' · n=' + archInfo.n + ' monthly prints · ' + archInfo.first + '\u2192' + archInfo.last + ' · frozen-state display')
-        : (cls + ' · no Fearnleys monthly archive series — switch back to Baltic Weekly');
-    } else {
-      var tn = tenors.map(function (t) { return t + ' n=' + byTenor[t].length; }).join(' · ');
-      meta.textContent = cls + ' · Baltic weekly · ' + tn + ' · ' + dates.length + ' print dates';
+    if (meta) {
+      meta.textContent = fRows.length
+        ? (cls + ' · Fearnleys 1Y weekly archive · n=' + fRows.length.toLocaleString('en-US') + ' weekly prints · ' + dates[0] + ' \u2192 ' + dates[dates.length - 1] + ' · continuous weekly series')
+        : (cls + ' · no Fearnleys 1Y weekly archive series available');
     }
+    if (titleNote) titleNote.textContent = '· Fearnleys 1Y Weekly Archive (1970+) · full weekly series';
+    if (subLine) subLine.innerHTML = 'Continuous weekly 1Y TC prints back to 1970/1977 · honest broker prints, no monthly averaging';
+    if (srcNote) srcNote.textContent = 'Source: data/derived/time_charter_rates_fearnleys.csv · ' + fRows.length.toLocaleString('en-US') + ' weekly prints · Fearnleys Hasura database';
+  } else {
+    d.rows.forEach(function (r) { if (r[1] === cls) (byTenor[r[2]] = byTenor[r[2]] || []).push(r); });
+    tenors = Object.keys(byTenor).sort(function (a, b) { return ['4-6M', '1Y', '2Y', '3Y'].indexOf(a) - ['4-6M', '1Y', '2Y', '3Y'].indexOf(b); });
+    var allDates = {};
+    d.rows.forEach(function (r) { if (r[1] === cls) allDates[r[0]] = true; });
+    dates = Object.keys(allDates).sort();
+    var dateIdx = {}; dates.forEach(function (dt, i) { dateIdx[dt] = i; });
+    datasets = tenors.map(function (t) {
+      var vals = new Array(dates.length).fill(null);
+      byTenor[t].forEach(function (r) { vals[dateIdx[r[0]]] = r[3]; });
+      return {
+        label: t, data: vals,
+        borderColor: TENOR_COLORS[t] || '#8b949e', backgroundColor: 'transparent',
+        borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
+      };
+    });
+    // Add Daily Spot baseline overlay to the weekly tenor chart
+    var spotKeyMap = { Capesize: 'cape', Panamax: 'panama', Supramax: 'suprama', Handysize: 'handysize', VLCC: 'dirtytanker', Suezmax: 'dirtytanker', Aframax: 'dirtytanker', MR: 'cleantanker' };
+    var spk = spotKeyMap[cls];
+    var spMap = spk ? getSpotMap(spk) : null;
+    if (spMap) {
+      var spotVals = dates.map(function (dt) {
+        return lookupSpot(spMap, dt, new Date(dt + 'T00:00:00Z'), 7 * 86400000);
+      });
+      if (spotVals.some(function (v) { return v != null; })) {
+        datasets.unshift({
+          label: cls + ' Daily Spot (Baltic)',
+          data: spotVals,
+          borderColor: '#58a6ff',
+          backgroundColor: 'transparent',
+          borderWidth: 1.5,
+          borderDash: [3, 2],
+          pointRadius: 0,
+          pointHoverRadius: 4,
+          tension: 0.1,
+          spanGaps: true
+        });
+      }
+    }
+    if (meta) {
+      var tn = tenors.map(function (t) { return t + ' n=' + byTenor[t].length; }).join(' · ');
+      meta.textContent = cls + ' · Baltic weekly multi-tenor · ' + tn + ' · ' + dates.length + ' print dates · daily spot baseline';
+    }
+    if (titleNote) titleNote.textContent = '· Baltic Weekly (2000+) · continuous weekly curves & daily spot';
+    if (subLine) subLine.innerHTML = '4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 · honest broker prints';
+    if (srcNote) srcNote.textContent = 'Source: data/derived/fearnleys_desk_tenor.json (Baltic & Fearnleys TC assessment, USD/day) · weekly prints';
   }
-  if (titleNote) titleNote.textContent = FDESK.tcSource === 'fearnleys'
-    ? '· Fearnleys Monthly (1977+) · one monthly archive line'
-    : '· Baltic Weekly (2000+) · 2Y/3Y weekly only since 2021';
-  if (subLine) subLine.innerHTML = FDESK.tcSource === 'fearnleys'
-    ? 'single monthly archive series per class · honest span · frozen-state display'
-    : '4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 · continuous weekly curves';
-  if (srcNote) srcNote.textContent = FDESK.tcSource === 'fearnleys'
-    ? (archInfo.key
-        ? 'Source: data/derived/fearnleys_series_monthly.json · ' + archInfo.key + ' · ' + archInfo.n + ' monthly prints · ' + archInfo.first + '\u2192' + archInfo.last + ' · frozen-state: ' + (archInfo.frozen ? 'archived (last print ' + archInfo.last + ')' : 'current')
-        : 'Source: data/derived/fearnleys_series_monthly.json · no monthly archive series for ' + cls)
-    : 'Source: data/derived/fearnleys_desk_tenor.json (Fearnleys TC assessment, USD/day) · weekly prints';
+
   if (typeof Chart === 'undefined') return;
   var canvas = document.getElementById('fearnTcChart');
   if (!canvas) return;
-  // 2E: window + 52W stats. Baltic mode = one row per weekly print date
-  // (values across tenors); stats compute on the flagship 1Y tenor (published
-  // since 2000). Fearnleys mode = the single monthly archive series.
+
   var st = null;
   var drawWin = function (sIdx, eIdx) {
     if (FDESK.tcChart) { FDESK.tcChart.destroy(); FDESK.tcChart = null; }
-    var visDates, visDatasets, reach52 = false;
-    if (FDESK.tcSource === 'fearnleys') {
-      var curCls = FDESK.tcClass || cls || 'Capesize';
-      var TC_ARCH_KEY = { Capesize: 'BULK_TC_CAPESIZE_180_000_DWT', Panamax: 'BULK_TC_PANAMAX_75_000_DWT', Supramax: 'BULK_TC_SUPRAMAX_58_000_DWT', Handysize: 'BULK_TC_HANDYSIZE_38_000_DWT' };
-      var archKey = TC_ARCH_KEY[curCls];
-      var cache = fearnSeriesCache();
-      var curAser = (cache && cache.labels && archKey) ? cache.labels[archKey] : aser;
-      if (!curAser || !curAser.m || !curAser.m.length) return;
-      var rowsF = curAser.m.map(function (p) { return { ym: p[0], v: p[1] }; });
-      st = fearn52Compute(curAser.m, true);
-      sIdx = Math.max(0, Math.min(sIdx, rowsF.length - 1));
-      eIdx = Math.max(0, Math.min(eIdx, rowsF.length - 1));
-      if (sIdx > eIdx) { var tmp = sIdx; sIdx = eIdx; eIdx = tmp; }
-      var slice = rowsF.slice(sIdx, eIdx + 1);
-      visDates = slice.map(function (r) { return r.ym; });
-      var lastT = Date.parse(visDates[visDates.length - 1] + '-01T00:00:00Z');
-      var trailingStart = Date.parse(curAser.m[curAser.m.length - 1][0] + '-01T00:00:00Z') - FDESK_52W_MS;
-      reach52 = lastT >= trailingStart;
-      visDatasets = [{
-        label: 'Fearnleys monthly archive · ' + (curAser.route || archKey),
-        data: slice.map(function (r) { return r.v; }),
-        borderColor: '#e3b341', backgroundColor: 'transparent',
-        borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
-      }].concat(fearn52RefDatasets(st, slice.length, reach52));
-    } else {
-      sIdx = Math.max(0, Math.min(sIdx, dates.length - 1));
-      eIdx = Math.max(0, Math.min(eIdx, dates.length - 1));
-      if (sIdx > eIdx) { var tmp2 = sIdx; sIdx = eIdx; eIdx = tmp2; }
-      var vd = dates.slice(sIdx, eIdx + 1);
-      visDates = vd;
-      var oneYr = (byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; });
-      st = fearn52Compute(oneYr, false);
-      var lastMsV = oneYr.length ? oneYr[oneYr.length - 1][0] : 0;
-      reach52 = false;
-      if (st && st.full && vd.length) {
-        var lastT2 = Date.parse(String(vd[vd.length - 1]) + 'T00:00:00Z');
-        var trailingStart2 = lastMsV - FDESK_52W_MS;
-        reach52 = lastT2 >= trailingStart2;
-      }
-      visDatasets = tenors.map(function (t) {
-        var vals = new Array(vd.length).fill(null);
-        byTenor[t].forEach(function (r) { var ix = vd.indexOf(r[0]); if (ix >= 0) vals[ix] = r[3]; });
-        return {
-          label: t, data: vals,
-          borderColor: TENOR_COLORS[t] || '#8b949e', backgroundColor: 'transparent',
-          borderWidth: 2, pointRadius: 0, pointHoverRadius: 4, tension: 0.15, spanGaps: true
-        };
-      });
-      if (st && st.full && reach52) {
-        var hiLine = new Array(vd.length).fill(st.high);
-        var loLine = new Array(vd.length).fill(st.low);
-        visDatasets.push({ label: '52W high (1Y tenor)', data: hiLine, borderColor: 'rgba(248,81,73,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false });
-        visDatasets.push({ label: '52W low (1Y tenor)', data: loLine, borderColor: 'rgba(63,185,80,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false });
-      }
+    sIdx = Math.max(0, Math.min(sIdx, dates.length - 1));
+    eIdx = Math.max(0, Math.min(eIdx, dates.length - 1));
+    if (sIdx > eIdx) { var tmp = sIdx; sIdx = eIdx; eIdx = tmp; }
+    var vd = dates.slice(sIdx, eIdx + 1);
+    var visDates = vd;
+    var oneYr = (FDESK.tcSource === 'fearnleys')
+      ? (datasets[0] ? datasets[0].data.map(function (v, idx) { return [dates[idx], v]; }) : [])
+      : ((byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; }));
+    st = fearn52Compute(oneYr, false);
+    var lastMsV = oneYr.length ? Date.parse(String(oneYr[oneYr.length - 1][0]) + 'T00:00:00Z') : 0;
+    var reach52 = false;
+    if (st && st.full && vd.length) {
+      var lastT2 = Date.parse(String(vd[vd.length - 1]) + 'T00:00:00Z');
+      var trailingStart2 = lastMsV - FDESK_52W_MS;
+      reach52 = lastT2 >= trailingStart2;
+    }
+    var visDatasets = datasets.map(function (ds) {
+      return Object.assign({}, ds, { data: ds.data.slice(sIdx, eIdx + 1) });
+    });
+    if (st && st.full && reach52) {
+      var hiLine = new Array(vd.length).fill(st.high);
+      var loLine = new Array(vd.length).fill(st.low);
+      visDatasets.push({ label: '52W high (1Y tenor)', data: hiLine, borderColor: 'rgba(248,81,73,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false });
+      visDatasets.push({ label: '52W low (1Y tenor)', data: loLine, borderColor: 'rgba(63,185,80,0.55)', borderDash: [6, 4], borderWidth: 1, pointRadius: 0, pointHoverRadius: 0, fill: false, tension: 0, spanGaps: false });
     }
     FDESK.tcChart = new Chart(canvas.getContext('2d'), {
       type: 'line',
@@ -53226,21 +53265,43 @@ function renderFearnTc() {
       }
     });
   };
-  // Slider rows per source; stats strip bound to the flagship series.
+
   var stripTc = document.getElementById('fearnTcStats');
-  var tcRows;
-  if (FDESK.tcSource === 'fearnleys') {
-    tcRows = (aser && aser.m) ? aser.m.map(function (p) { return { ym: p[0] }; }) : [];
-    if (stripTc) stripTc.innerHTML = (aser && aser.m) ? fearn52StripHtml('fearnTc', fearn52Compute(aser.m, true)) : '';
-  } else {
-    tcRows = dates.map(function (dStr) { return { ms: Date.parse(dStr + 'T00:00:00Z') }; });
-    var oneYrS = (byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; });
-    if (stripTc) stripTc.innerHTML = fearn52StripHtml('fearnTc', fearn52Compute(oneYrS, false));
-  }
-  var tcRangeKey = 'tc_' + (FDESK.tcSource === 'fearnleys' ? ('fearnleys_' + cls) : 'baltic');
+  var tcRows = dates.map(function (dStr) { return { ms: Date.parse(dStr + 'T00:00:00Z') }; });
+  var oneYrS = (FDESK.tcSource === 'fearnleys')
+    ? (datasets.length ? datasets[0].data.map(function (v, idx) { return [dates[idx], v]; }) : [])
+    : ((byTenor['1Y'] || []).map(function (r) { return [r[0], r[3]]; }));
+  if (stripTc) stripTc.innerHTML = fearn52StripHtml('fearnTc', fearn52Compute(oneYrS, false));
+
+  var tcRangeKey = 'tc_' + FDESK.tcSource + '_' + cls;
   fearnRangeInit('fearnTcRange', tcRangeKey, tcRows, drawWin);
 }
-function onFearnTcClass() { FDESK._dirty[2] = true; FDESK.secInit[2] = false; delete window['_fearnTcRangeState']; renderFearnTc(); }
+
+function onFearnTcClass() {
+  FDESK._dirty[2] = true;
+  FDESK.secInit[2] = false;
+  delete window['_fearnTcRangeState'];
+  renderFearnTc();
+  var sel = document.getElementById('fearnTcClass');
+  if (sel && sel.value) {
+    var clsMap = {
+      'Capesize': 'cape',
+      'Panamax': 'panama',
+      'Supramax': 'suprama',
+      'Handysize': 'handysize',
+      'VLCC': 'dirtytanker',
+      'Suezmax': 'suezmax',
+      'Aframax': 'aframax',
+      'MR': 'cleantanker'
+    };
+    var pk = clsMap[sel.value] || 'cape';
+    var tcVSel = document.getElementById('tcVesselSelect');
+    if (tcVSel) tcVSel.value = pk;
+    window.currentProduct = pk;
+    try { renderTimeCharterChart(pk); } catch(e){}
+  }
+}
+
 function setFearnTcSource(mode) {
   FDESK.tcSourceByClass[FDESK.tcClass || 'Capesize'] = (mode === 'fearnleys') ? 'fearnleys' : 'baltic';
   FDESK._dirty[2] = true;
