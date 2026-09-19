@@ -3567,8 +3567,9 @@
     .pd-detail-row { display: flex; justify-content: space-between; gap: 10px; }
     .pd-detail-k { color: var(--text-muted); flex: 0 0 46%; }
     .pd-detail-v { color: var(--text); text-align: right; font-family: 'IBM Plex Mono', monospace; }
-    .port-hub-label span { display: inline-block; white-space: nowrap; font: 600 10px/1.2 'IBM Plex Mono', monospace; color: #c9d1d9; text-shadow: 0 0 3px #0a0f16, 0 0 3px #0a0f16; pointer-events: none; }
-    .port-hub-label b { color: #79c0ff; font-weight: 700; }
+    .port-hub-label, .port-hub-label * { pointer-events: none !important; }
+    .port-hub-label span { display: inline-block; white-space: nowrap; font: 600 10px/1.2 'IBM Plex Mono', monospace; color: #c9d1d9; text-shadow: 0 0 3px #0a0f16, 0 0 3px #0a0f16; pointer-events: none !important; }
+    .port-hub-label b { color: #79c0ff; font-weight: 700; pointer-events: none !important; }
     .leaflet-tooltip.port-hub-tip { background: #161b22; color: #e6edf3; border: 1px solid #30363d; font-size: 11px; box-shadow: none; }
     .leaflet-tooltip.port-hub-tip::before { border-top-color: #30363d; }
     .ph-table { width: 100%; border-collapse: collapse; font-size: var(--fs-micro); }
@@ -3591,7 +3592,7 @@
     }
     @media (min-width: 1700px) {
       .tracking-workstation {
-        grid-template-columns: minmax(720px, 860px) minmax(0, 1fr);
+        grid-template-columns: minmax(680px, 820px) minmax(0, 1fr);
       }
     }
     .tracking-workstation.pane-expanded {
@@ -3603,7 +3604,27 @@
     .tracking-workstation.pane-expanded .tracking-left-pane {
       height: auto;
       max-height: none;
-      min-height: 650px;
+      min-height: 640px;
+    }
+    .tracking-workstation.map-expanded {
+      grid-template-columns: 1fr;
+    }
+    .tracking-workstation.map-expanded .tracking-right-pane {
+      grid-column: 1 / -1;
+      order: 1;
+    }
+    .tracking-workstation.map-expanded .tracking-left-pane {
+      grid-column: 1 / -1;
+      order: 2;
+      height: 640px;
+      min-height: 640px;
+      max-height: 640px;
+    }
+    .tracking-workstation .chokepoint-drawer {
+      grid-column: 1 / -1;
+      width: 100%;
+      box-sizing: border-box;
+      margin-top: 4px;
     }
     .vessel-search-dropdown .vs-item {
       padding: 8px 12px;
@@ -3624,8 +3645,10 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
-      min-height: 680px;
-      max-height: calc(100vh - 150px);
+      height: 640px;
+      min-height: 640px;
+      max-height: 640px;
+      box-sizing: border-box;
     }
     .tracking-right-pane {
       flex: 1;
@@ -4120,13 +4143,14 @@
 
     /* LEAFLET MAP WORKSPACE */
     #trackingMapContainer {
-      height: 560px;
-      min-height: 520px;
+      height: 640px;
+      min-height: 640px;
       position: relative;
       border-radius: 8px;
       border: 1px solid var(--border);
       overflow: hidden;
       background: #06090e;
+      box-sizing: border-box;
     }
     #trackingMap {
       width: 100%;
@@ -4172,42 +4196,48 @@
     }
 
     /* Map Overlays */
-        .map-active-hud {
-          position: absolute;
-          top: 10px;
-          right: 12px;
-          left: auto;
-          z-index: 500;
-          background: rgba(17, 24, 32, 0.9);
-          border: 1px solid var(--border);
-          padding: 6px 12px;
-          border-radius: 6px;
-          font-size: 11px;
-          color: #fff;
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          pointer-events: auto;
-        }
-        .map-port-radar-hud {
-          position: absolute;
-          top: 48px;
-          right: 12px;
-          left: auto;
-          z-index: 500;
-          background: rgba(13, 17, 23, 0.95);
-          backdrop-filter: blur(8px);
-          border: 1px solid rgba(56, 139, 253, 0.4);
-          box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
-          padding: 7px 12px;
-          border-radius: 6px;
-          font-size: 11px;
-          color: #c9d1d9;
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          pointer-events: auto;
-        }
+    .map-active-hud {
+      position: absolute;
+      top: 10px;
+      right: 12px;
+      max-width: calc(100% - 70px);
+      z-index: 500;
+      background: rgba(17, 24, 32, 0.9);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 11px;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      pointer-events: none;
+    }
+    .map-active-hud * {
+      pointer-events: auto;
+    }
+    .map-port-radar-hud {
+      position: absolute;
+      top: 48px;
+      right: 12px;
+      max-width: calc(100% - 70px);
+      z-index: 500;
+      background: rgba(13, 17, 23, 0.95);
+      backdrop-filter: blur(8px);
+      border: 1px solid rgba(56, 139, 253, 0.4);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+      padding: 7px 12px;
+      border-radius: 6px;
+      font-size: 11px;
+      color: #c9d1d9;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      pointer-events: none;
+    }
+    .map-port-radar-hud * {
+      pointer-events: auto;
+    }
         .map-legend-overlay {
           position: absolute;
           bottom: 12px;
@@ -14405,8 +14435,12 @@ if (intelTabsContainer) {
           <label class="tracking-layer-chk"><input type="checkbox" id="layerDisruptions" checked onchange="toggleTrackingLayer('disruptions')"> Disruption Pins</label>
         </div>
         <div class="tracking-tool-right" style="display:flex; align-items:center; gap:6px;">
+          <button class="cp-toggle-btn" id="btnToggleMapExpand" onclick="toggleTrackingMapExpand()" style="display:flex; align-items:center; gap:5px; padding:4px 8px; font-size:11px;" data-tooltip="Toggle map layout between Split Workstation view and Expansive Full-Width Command Map.">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+            <span id="btnToggleMapExpandLabel">Expand Map</span>
+          </button>
           <div style="position:relative; display:inline-block;">
-            <input type="text" id="vesselMasterSearchInput" class="tracking-input" style="width:220px;" placeholder="Search 57k vessels (Name, IMO)..." data-tooltip="Search the comprehensive 57,256 commercial vessel registry (Signal Ocean). Type vessel name or IMO to inspect DWT, class, built year, and operator particulars." oninput="onVesselMasterSearchInput(this.value)" onfocus="onVesselMasterSearchFocus()">
+            <input type="text" id="vesselMasterSearchInput" class="tracking-input" style="width:200px;" placeholder="Search 57k vessels (Name, IMO)..." data-tooltip="Search the comprehensive 57,256 commercial vessel registry (Signal Ocean). Type vessel name or IMO to inspect DWT, class, built year, and operator particulars." oninput="onVesselMasterSearchInput(this.value)" onfocus="onVesselMasterSearchFocus()">
             <div id="vesselMasterDropdown" class="vessel-search-dropdown" style="display:none; position:absolute; top:100%; right:0; width:360px; max-height:360px; overflow-y:auto; background:var(--card); border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,0.7); z-index:1000; margin-top:4px;"></div>
           </div>
           <select id="trackingPortSelect" class="tracking-select" onchange="onTrackingPortChange()">
@@ -15149,90 +15183,90 @@ if (intelTabsContainer) {
 
             <!-- Map Canvas -->
             <div id="trackingMap"></div>
-          </div>
+          </div><!-- /trackingMapContainer -->
+        </div><!-- /tracking-right-pane -->
 
-          <!-- Lower Drawer: Chokepoint & Strategic Canal Transit Analytics -->
-          <div class="chokepoint-drawer" id="chokepointAnalyticsDrawer" style="display:none;">
-            <div class="cp-drawer-header">
-              <div class="cp-drawer-title-wrap">
-                <h3>
-                  <span id="cpDrawerName">Bab el-Mandeb Strait</span>
-                  <span id="cpDrawerStatusTag" class="cp-status-tag rerouting">—</span>
-                </h3>
-                <div class="cp-region" id="cpDrawerRegion">Red Sea / Gulf of Aden · Global Container &amp; Crude Artery</div>
-              </div>
-              <div class="cp-selector-wrap" style="width:100%; display:flex; flex-direction:column; gap:6px;">
-                <div style="font-size:var(--fs-micro); font-weight:600; color:var(--text-muted); letter-spacing:0.06em;">CHOKEPOINT SELECTOR &mdash; ALL 28 MONITORED PASSAGES</div>
-                <div class="cp-selector-chips" id="cpSelectorChips" role="listbox" aria-label="Select chokepoint"><!-- chips injected by renderChokepointSelector --></div>
-              </div>
-              <div id="cpDataNote" class="cp-data-note" style="display:none;"></div>
-              <div class="cp-controls-bar" style="margin-top:10px;">
-                <div class="cp-btn-group">
-                  <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')" data-tooltip="Full historical transit observation series from AIS and IMF PortWatch (2019–2026).">Max (2019-2026)</button>
-                  <button class="cp-toggle-btn" id="cpRangeYoy" data-range="yoy" onclick="setChokepointRange('yoy')" data-tooltip="Year-over-Year overlay: Jan–Dec seasonal comparison across 2019–2026.">YoY Overlay</button>
-                  <button class="cp-toggle-btn" data-range="5y" onclick="setChokepointRange('5y')" data-tooltip="5-year historical transit trend (2021–2026).">5Y</button>
-                  <button class="cp-toggle-btn" data-range="3y" onclick="setChokepointRange('3y')" data-tooltip="3-year transit trend capturing Red Sea &amp; Panama Canal disruption cycles (2023–2026).">3Y</button>
-                  <button class="cp-toggle-btn" data-range="1y" onclick="setChokepointRange('1y')" data-tooltip="Trailing 12-month monthly transit volume.">1Y</button>
-                  <button class="cp-toggle-btn" data-range="90d" onclick="setChokepointRange('90d')" data-tooltip="High-resolution daily transit tracking (last 90 days).">90D Daily</button>
-                </div>
-              </div>
+        <!-- Lower Drawer: Chokepoint & Strategic Canal Transit Analytics (Full Workstation Width) -->
+        <div class="chokepoint-drawer" id="chokepointAnalyticsDrawer" style="display:none;">
+          <div class="cp-drawer-header">
+            <div class="cp-drawer-title-wrap">
+              <h3>
+                <span id="cpDrawerName">Bab el-Mandeb Strait</span>
+                <span id="cpDrawerStatusTag" class="cp-status-tag rerouting">—</span>
+              </h3>
+              <div class="cp-region" id="cpDrawerRegion">Red Sea / Gulf of Aden · Global Container &amp; Crude Artery</div>
             </div>
-
-            <div class="cp-spec-strip" id="cpDrawerNote">
-              <div class="cp-spec-narrative">
-                <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb and steam around the Cape of Good Hope. <span title="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model." data-tooltip="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model.">Extra voyage days are calculated from the chokepoint transit-metrics model.</span>
-              </div>
-              <div class="cp-spec-grid">
-                <div class="cp-spec-item"><span class="cp-spec-label">Region</span><span class="cp-spec-val">Red Sea / Gulf of Aden</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Connects</span><span class="cp-spec-val" title="Southern approach gatekeeper to Suez Canal">Southern Suez Gateway</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Alternative Routing</span><span class="cp-spec-val" style="color:var(--accent);">Cape of Good Hope (+10-14d)</span></div>
-                <div class="cp-spec-item"><span class="cp-spec-label">Normal Baseline</span><span class="cp-spec-val">70 transits / day</span></div>
-              </div>
+            <div class="cp-selector-wrap" style="width:100%; display:flex; flex-direction:column; gap:6px;">
+              <div style="font-size:var(--fs-micro); font-weight:600; color:var(--text-muted); letter-spacing:0.06em;">CHOKEPOINT SELECTOR &mdash; ALL 28 MONITORED PASSAGES</div>
+              <div class="cp-selector-chips" id="cpSelectorChips" role="listbox" aria-label="Select chokepoint"><!-- chips injected by renderChokepointSelector --></div>
             </div>
-
-            <div class="cp-kpis-strip">
-              <div class="cp-kpi-tile">
-                <div class="cp-kpi-tile-label">7D Transit Rate</div>
-                <div class="cp-kpi-tile-val" id="cpKpiDaily">—</div>
-                <div class="cp-kpi-tile-sub" id="cpKpiBaseline">Baseline: —</div>
-              </div>
-              <div class="cp-kpi-tile">
-                <div class="cp-kpi-tile-label">Baseline Disruption</div>
-                <div class="cp-kpi-tile-val alert" id="cpKpiDiverted">—</div>
-                <div class="cp-kpi-tile-sub">Structural Diversion</div>
-              </div>
-              <div class="cp-kpi-tile">
-                <div class="cp-kpi-tile-label">Cape Voyage Delay</div>
-                <div class="cp-kpi-tile-val warn" id="cpKpiDaysAdded">—</div>
-                <div class="cp-kpi-tile-sub">via Cape of Good Hope</div>
-              </div>
-              <div class="cp-kpi-tile">
-                <div class="cp-kpi-tile-label">Tonne-Mile Expansion</div>
-                <div class="cp-kpi-tile-val" id="cpKpiTonneMile" style="color:#a371f7;">—</div>
-                <div class="cp-kpi-tile-sub">Absorbs Excess Fleet Supply</div>
-              </div>
-            </div>
-
-            <div class="cp-controls-bar">
+            <div id="cpDataNote" class="cp-data-note" style="display:none;"></div>
+            <div class="cp-controls-bar" style="margin-top:10px;">
               <div class="cp-btn-group">
-                <button class="cp-toggle-btn active" data-metric="total" onclick="setChokepointMetric('total')" data-tooltip="Total commercial vessel transits across all vessel categories.">All Vessels</button>
-                <button class="cp-toggle-btn" data-metric="tanker" onclick="setChokepointMetric('tanker')" data-tooltip="Crude, product, and chemical tanker transits.">Tankers</button>
-                <button class="cp-toggle-btn" data-metric="bulk" onclick="setChokepointMetric('bulk')" data-tooltip="Capesize, Panamax, Supramax, and Handysize dry bulk carrier transits.">Dry Bulk</button>
-                <button class="cp-toggle-btn" data-metric="container" onclick="setChokepointMetric('container')" data-tooltip="Container ship transits and liner capacity.">Containers</button>
-                <button class="cp-toggle-btn" data-metric="gencargo" onclick="setChokepointMetric('gencargo')" data-tooltip="General-cargo / multipurpose transits (daily CSV sector).">Gen Cargo</button>
-                <button class="cp-toggle-btn" data-metric="roro" onclick="setChokepointMetric('roro')" data-tooltip="Ro-Ro / vehicle-carrier transits (daily CSV sector).">Ro-Ro</button>
-                <button class="cp-toggle-btn" data-metric="capacity" onclick="setChokepointMetric('capacity')" data-tooltip="Aggregate deadweight capacity (k DWT) transiting the chokepoint.">Capacity (DWT)</button>
-              </div>
-              <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace; width:100%; padding-top:4px; border-top:1px solid var(--border);">
-                Source: AIS Daily Transit Observation &amp; IMF PortWatch (2019–2026) · baseline levels reflect 2019-2023 pre-disruption historical medians
+                <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')" data-tooltip="Full historical transit observation series from AIS and IMF PortWatch (2019–2026).">Max (2019-2026)</button>
+                <button class="cp-toggle-btn" id="cpRangeYoy" data-range="yoy" onclick="setChokepointRange('yoy')" data-tooltip="Year-over-Year overlay: Jan–Dec seasonal comparison across 2019–2026.">YoY Overlay</button>
+                <button class="cp-toggle-btn" data-range="5y" onclick="setChokepointRange('5y')" data-tooltip="5-year historical transit trend (2021–2026).">5Y</button>
+                <button class="cp-toggle-btn" data-range="3y" onclick="setChokepointRange('3y')" data-tooltip="3-year transit trend capturing Red Sea &amp; Panama Canal disruption cycles (2023–2026).">3Y</button>
+                <button class="cp-toggle-btn" data-range="1y" onclick="setChokepointRange('1y')" data-tooltip="Trailing 12-month monthly transit volume.">1Y</button>
+                <button class="cp-toggle-btn" data-range="90d" onclick="setChokepointRange('90d')" data-tooltip="High-resolution daily transit tracking (last 90 days).">90D Daily</button>
               </div>
             </div>
-
-            <div style="height:220px; position:relative; width:100%; padding-top:6px;">
-              <canvas id="chokepointChart"></canvas>
-            </div>
-            <div id="cpAnnotationsStrip" style="margin-top:10px; display:flex; flex-direction:column; gap:6px;"></div>
           </div>
+
+          <div class="cp-spec-strip" id="cpDrawerNote">
+            <div class="cp-spec-narrative">
+              <strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb and steam around the Cape of Good Hope. <span title="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model." data-tooltip="Extra voyage days shown in the KPI tiles are editorial estimates from the chokepoint transit-metrics model.">Extra voyage days are calculated from the chokepoint transit-metrics model.</span>
+            </div>
+            <div class="cp-spec-grid">
+              <div class="cp-spec-item"><span class="cp-spec-label">Region</span><span class="cp-spec-val">Red Sea / Gulf of Aden</span></div>
+              <div class="cp-spec-item"><span class="cp-spec-label">Connects</span><span class="cp-spec-val" title="Southern approach gatekeeper to Suez Canal">Southern Suez Gateway</span></div>
+              <div class="cp-spec-item"><span class="cp-spec-label">Alternative Routing</span><span class="cp-spec-val" style="color:var(--accent);">Cape of Good Hope (+10-14d)</span></div>
+              <div class="cp-spec-item"><span class="cp-spec-label">Normal Baseline</span><span class="cp-spec-val">70 transits / day</span></div>
+            </div>
+          </div>
+
+          <div class="cp-kpis-strip">
+            <div class="cp-kpi-tile">
+              <div class="cp-kpi-tile-label">7D Transit Rate</div>
+              <div class="cp-kpi-tile-val" id="cpKpiDaily">—</div>
+              <div class="cp-kpi-tile-sub" id="cpKpiBaseline">Baseline: —</div>
+            </div>
+            <div class="cp-kpi-tile">
+              <div class="cp-kpi-tile-label">Baseline Disruption</div>
+              <div class="cp-kpi-tile-val alert" id="cpKpiDiverted">—</div>
+              <div class="cp-kpi-tile-sub">Structural Diversion</div>
+            </div>
+            <div class="cp-kpi-tile">
+              <div class="cp-kpi-tile-label">Cape Voyage Delay</div>
+              <div class="cp-kpi-tile-val warn" id="cpKpiDaysAdded">—</div>
+              <div class="cp-kpi-tile-sub">via Cape of Good Hope</div>
+            </div>
+            <div class="cp-kpi-tile">
+              <div class="cp-kpi-tile-label">Tonne-Mile Expansion</div>
+              <div class="cp-kpi-tile-val" id="cpKpiTonneMile" style="color:#a371f7;">—</div>
+              <div class="cp-kpi-tile-sub">Absorbs Excess Fleet Supply</div>
+            </div>
+          </div>
+
+          <div class="cp-controls-bar">
+            <div class="cp-btn-group">
+              <button class="cp-toggle-btn active" data-metric="total" onclick="setChokepointMetric('total')" data-tooltip="Total commercial vessel transits across all vessel categories.">All Vessels</button>
+              <button class="cp-toggle-btn" data-metric="tanker" onclick="setChokepointMetric('tanker')" data-tooltip="Crude, product, and chemical tanker transits.">Tankers</button>
+              <button class="cp-toggle-btn" data-metric="bulk" onclick="setChokepointMetric('bulk')" data-tooltip="Capesize, Panamax, Supramax, and Handysize dry bulk carrier transits.">Dry Bulk</button>
+              <button class="cp-toggle-btn" data-metric="container" onclick="setChokepointMetric('container')" data-tooltip="Container ship transits and liner capacity.">Containers</button>
+              <button class="cp-toggle-btn" data-metric="gencargo" onclick="setChokepointMetric('gencargo')" data-tooltip="General-cargo / multipurpose transits (daily CSV sector).">Gen Cargo</button>
+              <button class="cp-toggle-btn" data-metric="roro" onclick="setChokepointMetric('roro')" data-tooltip="Ro-Ro / vehicle-carrier transits (daily CSV sector).">Ro-Ro</button>
+              <button class="cp-toggle-btn" data-metric="capacity" onclick="setChokepointMetric('capacity')" data-tooltip="Aggregate deadweight capacity (k DWT) transiting the chokepoint.">Capacity (DWT)</button>
+            </div>
+            <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace; width:100%; padding-top:4px; border-top:1px solid var(--border);">
+              Source: AIS Daily Transit Observation &amp; IMF PortWatch (2019–2026) · baseline levels reflect 2019-2023 pre-disruption historical medians
+            </div>
+          </div>
+
+          <div style="height:220px; position:relative; width:100%; padding-top:6px;">
+            <canvas id="chokepointChart"></canvas>
+          </div>
+          <div id="cpAnnotationsStrip" style="margin-top:10px; display:flex; flex-direction:column; gap:6px;"></div>
         </div>
       </div><!-- /tracking-workstation -->
 
@@ -16666,8 +16700,8 @@ if (intelTabsContainer) {
       </div>
 
 <!-- SURFACE C: Vessel Drill-Down Modal -->
-      <div id="vesselModalBackdrop" class="vessel-modal-backdrop" style="display:none;" onclick="if(event.target===this) closeVesselModal();">
-        <div class="vessel-modal-card">
+      <div id="vesselModalBackdrop" class="vessel-modal-backdrop" style="display:none; pointer-events:none;" onclick="if(event.target===this) closeVesselModal();">
+        <div class="vessel-modal-card" id="vesselDetailModal">
           <div class="vessel-modal-header">
             <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
               <span style="font-size:16px; font-weight:700; color:#fff;" id="vesselModalName"></span>
@@ -18593,16 +18627,38 @@ if (intelTabsContainer) {
 
     let voyageHistoryLoadPromise = null;
     function ensureVoyageHistory() {
-      if (DATA.voyageHistory) return Promise.resolve(DATA.voyageHistory);
+      if (DATA.voyageHistory && DATA.voyageHistory.length) return Promise.resolve(DATA.voyageHistory);
       if (voyageHistoryLoadPromise) return voyageHistoryLoadPromise;
-      voyageHistoryLoadPromise = fetchCSV('data/geospatial/voyage_history_fixturegrounded.csv').then(rows => {
-        DATA.voyageHistory = rows || [];
-        return DATA.voyageHistory;
-      }).catch(err => {
-        console.warn('Failed to load voyage history:', err);
-        DATA.voyageHistory = [];
-        return DATA.voyageHistory;
-      });
+      voyageHistoryLoadPromise = fetch('data/geospatial/voyage_history_packed.json', { cache: 'no-cache' })
+        .then(function(res) { return res.ok ? res.json() : null; })
+        .then(function(data) {
+          if (data && data.vessels) {
+            DATA.voyageHistoryPacked = data;
+            var flat = [];
+            Object.keys(data.vessels).forEach(function(v) {
+              data.vessels[v].forEach(function(leg) {
+                flat.push({
+                  vessel: v,
+                  leg_date: leg[0],
+                  load_port: leg[1],
+                  discharge_port: leg[2],
+                  vessel_class: leg[3],
+                  distance_nm: leg[4],
+                  load_match: leg[5],
+                  discharge_match: leg[5]
+                });
+              });
+            });
+            DATA.voyageHistory = flat;
+          } else {
+            DATA.voyageHistory = [];
+          }
+          return DATA.voyageHistory;
+        }).catch(function(err) {
+          console.warn('Failed to load packed voyage history:', err);
+          DATA.voyageHistory = [];
+          return DATA.voyageHistory;
+        });
       return voyageHistoryLoadPromise;
     }
     window.ensureVoyageHistory = ensureVoyageHistory;
@@ -43763,6 +43819,20 @@ function toggleTrackingPaneExpand() {
 }
 window.toggleTrackingPaneExpand = toggleTrackingPaneExpand;
 
+function toggleTrackingMapExpand() {
+  var ws = document.querySelector('.tracking-workstation');
+  var btn = document.getElementById('btnToggleMapExpand');
+  var lbl = document.getElementById('btnToggleMapExpandLabel');
+  if (!ws) return;
+  var isExp = ws.classList.toggle('map-expanded');
+  if (btn) btn.classList.toggle('active', isExp);
+  if (lbl) lbl.textContent = isExp ? 'Split View' : 'Expand Map';
+  if (window.trackingMap && typeof trackingMap.invalidateSize === 'function') {
+    setTimeout(function() { window.trackingMap.invalidateSize(); }, 280);
+  }
+}
+window.toggleTrackingMapExpand = toggleTrackingMapExpand;
+
 function renderPortArrivalsForecast(qData, meta) {
   var nearEl = document.getElementById('ppHorizonNear');
   var midEl = document.getElementById('ppHorizonMid');
@@ -44290,7 +44360,7 @@ var liveFleetMarkersLayer = null;
 // points projected once at zoom 0, and builds a popup only when a dot is clicked.
 function createFleetDotsLayer() {
   var R = 3.5, WEIGHT = 1, FILL_OPACITY = 0.82, STROKE = '#0a0f16';
-  var HIT = 12;   // Increased hit tolerance so clicking canvas dots is effortless (was R + WEIGHT / 2 ~4px)
+  var HIT = 14;   // 14px hit tolerance so clicking canvas vessel dots is effortless
   var Layer = L.Canvas.extend({
     initialize: function (options) {
       L.Canvas.prototype.initialize.call(this, options);
@@ -44349,8 +44419,27 @@ function createFleetDotsLayer() {
       }
       return found;
     },
+    _hitPort: function (e) {
+      if (!this._map || !window.__portHubPins || !window.__portHubPins.list || !window.__portHubPins.list.length) return null;
+      var clickPt = this._map.mouseEventToContainerPoint(e);
+      var hitPort = null;
+      var bestDist = 16; // 16px hit radius for easy port clicking
+      var list = window.__portHubPins.list;
+      for (var i = 0; i < list.length; i++) {
+        var item = list[i];
+        if (trackingMapSector !== 'all' && typeof isPortInSectorFilter === 'function' && !isPortInSectorFilter(item.p.portid || item.p.unified_id)) continue;
+        var pt = this._map.latLngToContainerPoint(item.latlng);
+        var dist = Math.hypot(pt.x - clickPt.x, pt.y - clickPt.y);
+        if (dist <= bestDist) {
+          bestDist = dist;
+          hitPort = item;
+        }
+      }
+      return hitPort;
+    },
     _onClick: function (e) {
       if (e.type === 'click' && this._map && !this._map.dragging.moving()) {
+        // 1. Hit-test commercial vessel dots first
         var d = this._hit(e);
         if (d) {
           L.DomEvent.stop(e);
@@ -44358,10 +44447,27 @@ function createFleetDotsLayer() {
           L.popup().setLatLng(this._map.mouseEventToLatLng(e)).setContent(html).openOn(this._map);
           return;
         }
+        // 2. Hit-test port pins directly
+        var portHit = this._hitPort(e);
+        if (portHit) {
+          L.DomEvent.stop(e);
+          var p = portHit.p;
+          var meta = (DATA.universePorts && DATA.universePorts.byId && (DATA.universePorts.byId[p.portid] || DATA.universePorts.byId[p.unified_id])) || p;
+          if (typeof highlightPortOnMap === 'function') {
+            highlightPortOnMap(meta);
+          }
+          if (typeof portHubPopupHtml === 'function') {
+            L.popup({ maxWidth: 320 })
+              .setLatLng(portHit.latlng)
+              .setContent(portHubPopupHtml(p))
+              .openOn(this._map);
+          }
+          return;
+        }
       }
-      // This canvas covers the port/disruption canvas underneath: pass the event down.
+      // Pass down to underlying canvas if any
       var under = this._underRenderer();
-      if (under) under._onClick(e);
+      if (under && under._onClick) under._onClick(e);
       else this._fireEvent(false, e);
     },
     _underRenderer: function () {
@@ -44370,18 +44476,12 @@ function createFleetDotsLayer() {
     },
     _handleMouseHover: function (e) {
       if (this._mouseHoverThrottled) { return; }
-      var over = !!this._hit(e);
-      var under = this._underRenderer();
-      if (under) {
-        if (over) { if (under._hoveredLayer) under._handleMouseOut(e); }
-        else { under._mouseHoverThrottled = false; under._handleMouseHover(e, this._map.mouseEventToLayerPoint(e)); over = !!under._hoveredLayer; }
-      }
+      var over = !!this._hit(e) || !!this._hitPort(e);
       if (over !== !!this._hoverOn) {
         this._hoverOn = over;
         if (over) L.DomUtil.addClass(this._container, 'leaflet-interactive');
         else L.DomUtil.removeClass(this._container, 'leaflet-interactive');
       }
-      if (!under) this._fireEvent(false, e);
       this._mouseHoverThrottled = true;
       var self = this;
       setTimeout(function () { self._mouseHoverThrottled = false; }, 32);
@@ -44791,13 +44891,19 @@ function openVesselDrillDown(imo, name) {
   setVesselModalTab('particulars');
 
   var modal = document.getElementById('vesselModalBackdrop');
-  if (modal) modal.style.display = 'flex';
+  if (modal) {
+    modal.style.display = 'flex';
+    modal.style.pointerEvents = 'auto';
+  }
 }
 window.openVesselDrillDown = openVesselDrillDown;
 
 function closeVesselModal() {
   var modal = document.getElementById('vesselModalBackdrop');
-  if (modal) modal.style.display = 'none';
+  if (modal) {
+    modal.style.display = 'none';
+    modal.style.pointerEvents = 'none';
+  }
 }
 window.closeVesselModal = closeVesselModal;
 
@@ -45614,11 +45720,14 @@ window.nextDisruptionPage = nextDisruptionPage;
 
 // ================= PER-VESSEL FIXTURE VOYAGES =================
 function vesselIndexFromFixtures() {
-  if (window.__tuVesselIndex) return window.__tuVesselIndex;
-  if (!DATA.voyageHistory && typeof ensureVoyageHistory === 'function') {
+  if (window.__tuVesselIndex && window.__tuVesselIndex.order && window.__tuVesselIndex.order.length > 0) {
+    return window.__tuVesselIndex;
+  }
+  if ((!DATA.voyageHistory || !DATA.voyageHistory.length) && typeof ensureVoyageHistory === 'function') {
     ensureVoyageHistory().then(function() {
       window.__tuVesselIndex = null;
       if (document.getElementById('vesselSearchInput')) onVesselSearchInput();
+      if (window.__activeVesselTimeline) renderVesselTimeline(window.__activeVesselTimeline);
     });
   }
   var legs = DATA.voyageHistory || [];
@@ -45630,8 +45739,11 @@ function vesselIndexFromFixtures() {
     if (!byVessel[v]) { byVessel[v] = []; order.push(v); }
     byVessel[v].push(g);
   });
-  window.__tuVesselIndex = { byVessel: byVessel, order: order };
-  return window.__tuVesselIndex;
+  var idx = { byVessel: byVessel, order: order };
+  if (order.length > 0) {
+    window.__tuVesselIndex = idx;
+  }
+  return idx;
 }
 
 function onVesselSearchInput() {
@@ -45643,10 +45755,18 @@ function onVesselSearchInput() {
   if (!box) return;
 
   if (q.length < 2) {
-    var topFeatured = ['JC NATURE', 'JC NEW RUBY', 'STARVIP', 'ANKA BLUE', 'BERGE BULK', 'CS CRYSTAL', 'PERMATA N', 'MINERAL NINGBO', 'PACIFIC HIGHWAY', 'STELLA BELLA'];
+    var topFeatured = [
+      'New Vision', 'Chafa', 'Achilleas', 'Jag Lakshya', 'Brightway',
+      'Jag Leena', 'Jag Lok', 'Ithaki Warrior', 'Aegean Unity', 'Desh Abhimaan',
+      'Maran Hermione', 'Prudent Warrior', 'Afroditi', 'Faithful Warrior', 'Sea Garnet'
+    ];
     var featured = topFeatured.filter(function(v) { return idx.byVessel && idx.byVessel[v]; });
-    if (!featured.length && idx.order && idx.order.length) {
-      featured = idx.order.slice(0, 10);
+    if (!featured.length) {
+      if (idx.order && idx.order.length) {
+        featured = idx.order.slice(0, 15);
+      } else {
+        featured = topFeatured;
+      }
     }
 
     var bannerHtml = '<div style="margin-bottom:8px; padding:8px 10px; background:rgba(56,139,253,0.06); border:1px solid rgba(56,139,253,0.2); border-radius:4px;">' +
@@ -45670,7 +45790,7 @@ function onVesselSearchInput() {
         btn.style.cssText = 'font-size:11px; padding:3px 8px;';
         var legCount = idx.byVessel && idx.byVessel[v] ? idx.byVessel[v].length : '';
         btn.textContent = v + (legCount ? ' (' + legCount + ')' : '');
-        btn.setAttribute('data-tooltip', 'Load voyage leg timeline for ' + escapeHtml(v) + ' (' + legCount + ' reported fixture legs)');
+        btn.setAttribute('data-tooltip', 'Load voyage leg timeline for ' + escapeHtml(v) + (legCount ? ' (' + legCount + ' reported fixture legs)' : ''));
         btn.addEventListener('click', function() {
           window.__activeVesselTimeline = v;
           document.querySelectorAll('#vesselFeaturedBtns button').forEach(function(b) { b.classList.remove('active'); });
@@ -45749,9 +45869,36 @@ window.openVesselVoyagesTab = openVesselVoyagesTab;
 function renderVesselTimeline(vesselName) {
   window.__activeVesselTimeline = vesselName;
   var idx = vesselIndexFromFixtures();
-  var legs = (idx.byVessel[vesselName] || []).slice().sort(function(a, b) { return (a.leg_date > b.leg_date ? 1 : -1); });
   var box = document.getElementById('vesselTimelineBox');
   if (!box) return;
+
+  if (!DATA.voyageHistory || !DATA.voyageHistory.length) {
+    box.innerHTML = '<div style="font-weight:700; color:#fff; font-size:12.5px; margin-bottom:2px;">' + escapeHtml(vesselName) + '</div>' +
+      '<div style="font-size:var(--fs-micro); color:var(--text-muted); padding:16px 0; text-align:center;">' +
+        '<span class="signal-spinner" style="display:inline-block; vertical-align:middle; margin-right:8px;"></span>' +
+        'Loading commercial voyage leg archive for <strong>' + escapeHtml(vesselName) + '</strong>&hellip;' +
+      '</div>';
+    if (typeof ensureVoyageHistory === 'function') {
+      ensureVoyageHistory().then(function() {
+        renderVesselTimeline(vesselName);
+      });
+    }
+    return;
+  }
+
+  var legs = idx.byVessel ? idx.byVessel[vesselName] : null;
+  if (!legs && idx.byVessel) {
+    var vLower = (vesselName || '').toLowerCase();
+    for (var k in idx.byVessel) {
+      if (k.toLowerCase() === vLower) {
+        legs = idx.byVessel[k];
+        vesselName = k;
+        break;
+      }
+    }
+  }
+  legs = (legs || []).slice().sort(function(a, b) { return (a.leg_date > b.leg_date ? 1 : -1); });
+
   var totalDist = 0, legsDist = 0;
   legs.forEach(function(g) { var d = parseFloat(g.distance_nm); if (d > 0) { totalDist += d; legsDist++; } });
   var html = '<div style="font-weight:700; color:#fff; font-size:12.5px; margin-bottom:2px;">' + escapeHtml(vesselName) + '</div>' +
@@ -45759,7 +45906,7 @@ function renderVesselTimeline(vesselName) {
     (legsDist ? ' \u00b7 ' + Math.round(totalDist).toLocaleString('en-US') + ' NM great-circle on ' + legsDist + ' resolved leg' + (legsDist === 1 ? '' : 's') : '') +
     ' \u00b7 reported fixture voyages, not AIS positions</div>';
   if (!legs.length) {
-    box.innerHTML = html + '<div style="font-size:var(--fs-micro); color:var(--text-muted);">No fixture legs recorded for this vessel name.</div>';
+    box.innerHTML = html + '<div style="font-size:var(--fs-micro); color:var(--text-muted); padding:12px 0;">No fixture legs recorded for hull "' + escapeHtml(vesselName) + '".</div>';
     return;
   }
   html += '<div class="tracking-table-wrap" style="max-height:420px;"><table class="tracking-table"><thead><tr>' +

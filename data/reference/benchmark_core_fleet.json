@@ -1,0 +1,6449 @@
+{
+  "metadata": {
+    "title": "Macro Benchmark Core Fleet (800 Hulls)",
+    "description": "Curated strategic merchant fleet tracking >70% of global seaborne ton-miles.",
+    "total_hulls": 800,
+    "sectors": {
+      "dry_bulk": {
+        "count": 250,
+        "subclasses": {
+          "valemax_vloc": 73,
+          "baltic_5tc_capesize": 177
+        },
+        "type_header": "3"
+      },
+      "tankers": {
+        "count": 250,
+        "subclasses": {
+          "vlcc": 175,
+          "suezmax": 75
+        },
+        "type_header": "1"
+      },
+      "lng": {
+        "count": 150,
+        "subclasses": {
+          "qmax_qflex_and_export_megi": 150
+        },
+        "type_header": "5"
+      },
+      "lpg": {
+        "count": 150,
+        "subclasses": {
+          "vlgc": 150
+        },
+        "type_header": "6"
+      }
+    }
+  },
+  "sectors": {
+    "dry_bulk": [
+      {
+        "imo": 9575450,
+        "name": "Sea Qingdao",
+        "class": "VLOC",
+        "dwt": 403880,
+        "built": 2012,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9575515,
+        "name": "Sea Maranhao",
+        "class": "VLOC",
+        "dwt": 403844,
+        "built": 2013,
+        "operator": "Pan Ocean"
+      },
+      {
+        "imo": 9575448,
+        "name": "Sea Beijing",
+        "class": "VLOC",
+        "dwt": 403818,
+        "built": 2011,
+        "operator": "Sea Navigation"
+      },
+      {
+        "imo": 9575486,
+        "name": "Sea Fujiyama",
+        "class": "VLOC",
+        "dwt": 403811,
+        "built": 2012,
+        "operator": "Pan Ocean"
+      },
+      {
+        "imo": 9575498,
+        "name": "Sea Tubarao",
+        "class": "VLOC",
+        "dwt": 403784,
+        "built": 2013,
+        "operator": "Sea Navigation"
+      },
+      {
+        "imo": 9575474,
+        "name": "Sea Indonesia",
+        "class": "VLOC",
+        "dwt": 403727,
+        "built": 2012,
+        "operator": "Sea Navigation"
+      },
+      {
+        "imo": 9575462,
+        "name": "Sea Espirito Santo",
+        "class": "VLOC",
+        "dwt": 403627,
+        "built": 2012,
+        "operator": "Pan Ocean"
+      },
+      {
+        "imo": 9575503,
+        "name": "Sea Ponta Da Madeira",
+        "class": "VLOC",
+        "dwt": 403508,
+        "built": 2016,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9593969,
+        "name": "Ore Korea",
+        "class": "VLOC",
+        "dwt": 402358,
+        "built": 2013,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9488918,
+        "name": "Ore Brasil",
+        "class": "VLOC",
+        "dwt": 402347,
+        "built": 2011,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9572329,
+        "name": "Shandong Da De",
+        "class": "VLOC",
+        "dwt": 402303,
+        "built": 2011,
+        "operator": "Daewoo"
+      },
+      {
+        "imo": 9593919,
+        "name": "Shandong Da Cheng",
+        "class": "VLOC",
+        "dwt": 402285,
+        "built": 2012,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9572343,
+        "name": "Shandong Da Ren",
+        "class": "VLOC",
+        "dwt": 402285,
+        "built": 2012,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9566526,
+        "name": "Saham Max",
+        "class": "VLOC",
+        "dwt": 400694,
+        "built": 2013,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9532513,
+        "name": "Ore Dongjiakou",
+        "class": "VLOC",
+        "dwt": 400606,
+        "built": 2012,
+        "operator": "Ming Wah"
+      },
+      {
+        "imo": 9522972,
+        "name": "Ore China",
+        "class": "VLOC",
+        "dwt": 400606,
+        "built": 2011,
+        "operator": "Ming Wah"
+      },
+      {
+        "imo": 9532537,
+        "name": "Ore Hebei",
+        "class": "VLOC",
+        "dwt": 400535,
+        "built": 2012,
+        "operator": "Ming Wah"
+      },
+      {
+        "imo": 9532549,
+        "name": "Ore Shandong",
+        "class": "VLOC",
+        "dwt": 400440,
+        "built": 2012,
+        "operator": "Ming Wah"
+      },
+      {
+        "imo": 9566538,
+        "name": "Shinas Max",
+        "class": "VLOC",
+        "dwt": 400420,
+        "built": 2013,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9532525,
+        "name": "Pacific Warrior",
+        "class": "VLOC",
+        "dwt": 400398,
+        "built": 2012,
+        "operator": "Ming Wah"
+      },
+      {
+        "imo": 9566514,
+        "name": "Liwa Max",
+        "class": "VLOC",
+        "dwt": 400315,
+        "built": 2012,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9565065,
+        "name": "Sohar Max",
+        "class": "VLOC",
+        "dwt": 400315,
+        "built": 2012,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9532575,
+        "name": "Yuan Shi Hai",
+        "class": "VLOC",
+        "dwt": 400293,
+        "built": 2013,
+        "operator": "Cosco Shipping Bulk"
+      },
+      {
+        "imo": 9532604,
+        "name": "Pacific Merchants",
+        "class": "VLOC",
+        "dwt": 400101,
+        "built": 2014,
+        "operator": "Ming Wah"
+      },
+      {
+        "imo": 9532616,
+        "name": "Pacific Winner",
+        "class": "VLOC",
+        "dwt": 400065,
+        "built": 2014,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9532628,
+        "name": "Pacific Mariner",
+        "class": "VLOC",
+        "dwt": 400032,
+        "built": 2015,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807657,
+        "name": "Yard: Jiangsu New Yangzijiang",
+        "class": "VLOC",
+        "dwt": 400000,
+        "built": 2021,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807669,
+        "name": "Yard: Jiangsu New Yangzijiang",
+        "class": "VLOC",
+        "dwt": 400000,
+        "built": 2021,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807671,
+        "name": "Yard: Jiangsu New Yangzijiang",
+        "class": "VLOC",
+        "dwt": 400000,
+        "built": 2021,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807683,
+        "name": "Yard: Jiangsu New Yangzijiang",
+        "class": "VLOC",
+        "dwt": 400000,
+        "built": 2021,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9593957,
+        "name": "Shandong Da Zhi",
+        "class": "VLOC",
+        "dwt": 400000,
+        "built": 2012,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9572331,
+        "name": "Ore Italia",
+        "class": "VLOC",
+        "dwt": 400000,
+        "built": 2011,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806988,
+        "name": "Pacific Harvest",
+        "class": "VLOC",
+        "dwt": 399999,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9532551,
+        "name": "Yuan Zhen Hai",
+        "class": "VLOC",
+        "dwt": 399997,
+        "built": 2013,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9532587,
+        "name": "Yuan Jian Hai",
+        "class": "VLOC",
+        "dwt": 399995,
+        "built": 2013,
+        "operator": "China Ore Shipping"
+      },
+      {
+        "imo": 9532599,
+        "name": "Yuan Zhuo Hai",
+        "class": "VLOC",
+        "dwt": 399974,
+        "built": 2014,
+        "operator": "China Ore Shipping"
+      },
+      {
+        "imo": 9837987,
+        "name": "NSU Brazil",
+        "class": "VLOC",
+        "dwt": 399821,
+        "built": 2020,
+        "operator": "NS United"
+      },
+      {
+        "imo": 9827865,
+        "name": "NSU Carajas",
+        "class": "VLOC",
+        "dwt": 399688,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9815202,
+        "name": "Ore Tangshan",
+        "class": "VLOC",
+        "dwt": 399438,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9815226,
+        "name": "Ore Ningbo",
+        "class": "VLOC",
+        "dwt": 399402,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807035,
+        "name": "Ore Dalian",
+        "class": "VLOC",
+        "dwt": 399363,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9815214,
+        "name": "Ore Shanghai",
+        "class": "VLOC",
+        "dwt": 399294,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807750,
+        "name": "Ore Zhanjiang",
+        "class": "VLOC",
+        "dwt": 399277,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807724,
+        "name": "Pacific Express",
+        "class": "VLOC",
+        "dwt": 399252,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807047,
+        "name": "Ore Xiamen",
+        "class": "VLOC",
+        "dwt": 399251,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9815238,
+        "name": "Ore Hong Kong",
+        "class": "VLOC",
+        "dwt": 399214,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807023,
+        "name": "Ore Tianjin",
+        "class": "VLOC",
+        "dwt": 399213,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807748,
+        "name": "Pacific Career",
+        "class": "VLOC",
+        "dwt": 399172,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807011,
+        "name": "Pacific Longevity",
+        "class": "VLOC",
+        "dwt": 399149,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807736,
+        "name": "Pacific Flourish",
+        "class": "VLOC",
+        "dwt": 399116,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807700,
+        "name": "Ore Guangzhou",
+        "class": "VLOC",
+        "dwt": 399095,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807695,
+        "name": "Ore Shenzhen",
+        "class": "VLOC",
+        "dwt": 398997,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806976,
+        "name": "Pacific Unity",
+        "class": "VLOC",
+        "dwt": 398707,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806914,
+        "name": "Yuan Jin Hai",
+        "class": "VLOC",
+        "dwt": 398683,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806873,
+        "name": "Yuan He Hai",
+        "class": "VLOC",
+        "dwt": 398595,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9848194,
+        "name": "NSU Tubarao",
+        "class": "VLOC",
+        "dwt": 398519,
+        "built": 2020,
+        "operator": "NS United"
+      },
+      {
+        "imo": 9806897,
+        "name": "Yuan Yi Hai",
+        "class": "VLOC",
+        "dwt": 398459,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806902,
+        "name": "Yuan Bao Hai",
+        "class": "VLOC",
+        "dwt": 398453,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806940,
+        "name": "Yuan Hua Hai",
+        "class": "VLOC",
+        "dwt": 398441,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807059,
+        "name": "Pacific Prosperity",
+        "class": "VLOC",
+        "dwt": 398438,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806990,
+        "name": "Pacific Vision",
+        "class": "VLOC",
+        "dwt": 398411,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806964,
+        "name": "Yuan Fu Hai",
+        "class": "VLOC",
+        "dwt": 398407,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806926,
+        "name": "Yuan Shen Hai",
+        "class": "VLOC",
+        "dwt": 398383,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807009,
+        "name": "Pacific Excellence",
+        "class": "VLOC",
+        "dwt": 398351,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806885,
+        "name": "Yuan Gu Hai",
+        "class": "VLOC",
+        "dwt": 398292,
+        "built": 2018,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806938,
+        "name": "Yuan Sui Hai",
+        "class": "VLOC",
+        "dwt": 398199,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9806952,
+        "name": "Yuan Qian Hai",
+        "class": "VLOC",
+        "dwt": 398151,
+        "built": 2020,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9807061,
+        "name": "Pacific Auspice",
+        "class": "VLOC",
+        "dwt": 397933,
+        "built": 2019,
+        "operator": "Vale"
+      },
+      {
+        "imo": 9447562,
+        "name": "Berge Neblina",
+        "class": "VLOC",
+        "dwt": 392099,
+        "built": 2013,
+        "operator": "Berge Bulk"
+      },
+      {
+        "imo": 9447550,
+        "name": "Berge Jaya",
+        "class": "VLOC",
+        "dwt": 391699,
+        "built": 2012,
+        "operator": "Berge Bulk"
+      },
+      {
+        "imo": 9447548,
+        "name": "Berge Aconcagua",
+        "class": "VLOC",
+        "dwt": 388139,
+        "built": 2012,
+        "operator": "Berge Bulk"
+      },
+      {
+        "imo": 9447536,
+        "name": "Berge Everest",
+        "class": "VLOC",
+        "dwt": 388133,
+        "built": 2011,
+        "operator": "Berge Bulk"
+      },
+      {
+        "imo": 8420804,
+        "name": "Geostahl",
+        "class": "VLOC",
+        "dwt": 364767,
+        "built": 1986,
+        "operator": "Berge Bulk"
+      },
+      {
+        "imo": 1155955,
+        "name": "Hengli Dalian HL-B181k-16",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2029,
+        "operator": "Capital Ship Management"
+      },
+      {
+        "imo": 1107312,
+        "name": "Namura 713",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2028,
+        "operator": "DryDel Shipping"
+      },
+      {
+        "imo": 1107324,
+        "name": "Namura 716",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2028,
+        "operator": "DryDel Shipping"
+      },
+      {
+        "imo": 1155943,
+        "name": "Hengli Dalian HL-B181k-15",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156105,
+        "name": "Hengli Dalian HL-B181k-30",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156117,
+        "name": "Hengli Dalian HL-B181k-31",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156129,
+        "name": "Hengli Dalian HL-B181k-32",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156131,
+        "name": "Hengli Dalian HL-B181k-33",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156143,
+        "name": "Hengli Dalian HL-B181k-34",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156155,
+        "name": "Hengli Dalian HL-B181k-35",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156167,
+        "name": "Hengli Dalian HL-B181k-36",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187506,
+        "name": "Hengli Dalian HL-B181k-51",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1119054,
+        "name": "Qingdao Beihai",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2028,
+        "operator": "U-ming"
+      },
+      {
+        "imo": 1119066,
+        "name": "Qingdao Beihai",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2028,
+        "operator": "U-ming"
+      },
+      {
+        "imo": 1143562,
+        "name": "Namura 707",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1143574,
+        "name": "Namura 708",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1143586,
+        "name": "Namura 709",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1143598,
+        "name": "Namura 710",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1139810,
+        "name": "Jmu Ariake 5320",
+        "class": "Capesize",
+        "dwt": 183000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1155979,
+        "name": "Hengli Dalian HL-B181k-17",
+        "class": "Capesize",
+        "dwt": 181500,
+        "built": 2027,
+        "operator": "Reederei H. Vogemann"
+      },
+      {
+        "imo": 1171595,
+        "name": "Hengli Dalian HL-B181k-38",
+        "class": "Capesize",
+        "dwt": 181500,
+        "built": 2027,
+        "operator": "Enesel"
+      },
+      {
+        "imo": 1171648,
+        "name": "Hengli Dalian HL-B181k-41",
+        "class": "Capesize",
+        "dwt": 181500,
+        "built": 2027,
+        "operator": "Maran Dry"
+      },
+      {
+        "imo": 1171650,
+        "name": "Hengli Dalian HL-B181k-42",
+        "class": "Capesize",
+        "dwt": 181500,
+        "built": 2027,
+        "operator": "Maran Dry"
+      },
+      {
+        "imo": 1149671,
+        "name": "Hengli Hi",
+        "class": "Capesize",
+        "dwt": 181500,
+        "built": 2027,
+        "operator": "Seanergy Maritime"
+      },
+      {
+        "imo": 1070090,
+        "name": "Imabari Saijo 8312",
+        "class": "Capesize",
+        "dwt": 181400,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1070105,
+        "name": "Imabari Saijo 8314",
+        "class": "Capesize",
+        "dwt": 181400,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1127532,
+        "name": "Imabari Saijo 8323",
+        "class": "Capesize",
+        "dwt": 181400,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1145479,
+        "name": "Imabari Saijo 8329",
+        "class": "Capesize",
+        "dwt": 181400,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1110723,
+        "name": "Anaxandros",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Capital Ship Management"
+      },
+      {
+        "imo": 1110735,
+        "name": "Anaxarchos",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1110747,
+        "name": "Hengli Dalian Hl-B181K-11",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "U-ming"
+      },
+      {
+        "imo": 1110759,
+        "name": "Hengli Dalian HL-B181k-12",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "U-ming"
+      },
+      {
+        "imo": 1110773,
+        "name": "Hengli Dalian HL-B181k-14",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156026,
+        "name": "Hengli Dalian HL-B181k-22",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1156038,
+        "name": "Hengli Dalian HL-B181k-23",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1156040,
+        "name": "Hengli Dalian HL-B181k-24",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156052,
+        "name": "Hengli Dalian HL-B181k-25",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156064,
+        "name": "Hengli Dalian HL-B181k-26",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156076,
+        "name": "Hengli Dalian HL-B181k-27",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156088,
+        "name": "Hengli Dalian HL-B181k-28",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1156090,
+        "name": "Hengli Dalian HL-B181k-29",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1171583,
+        "name": "Hengli Dalian HL-B181k-37",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1171600,
+        "name": "Hengli Dalian HL-B181k-39",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Maran Dry"
+      },
+      {
+        "imo": 1171636,
+        "name": "Hengli Dalian HL-B181k-40",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Maran Dry"
+      },
+      {
+        "imo": 1171662,
+        "name": "Hengli Dalian HL-B181k-43",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Maran Dry"
+      },
+      {
+        "imo": 1171674,
+        "name": "Hengli Dalian HL-B181k-44",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1171686,
+        "name": "Hengli Dalian HL-B181k-45",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1171698,
+        "name": "Hengli Dalian HL-B181k-46",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1171703,
+        "name": "Hengli Dalian HL-B181k-47",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1171715,
+        "name": "Hengli Dalian HL-B181k-48",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Tsakos Shipping & Trading"
+      },
+      {
+        "imo": 1067689,
+        "name": "Titlis",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2027,
+        "operator": "Reederei H. Vogemann"
+      },
+      {
+        "imo": 1110761,
+        "name": "Hengli Dalian HL-B181k-13",
+        "class": "Capesize",
+        "dwt": 181000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1155981,
+        "name": "Hengli Dalian HL-B181k-18",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2027,
+        "operator": "Capital Ship Management"
+      },
+      {
+        "imo": 1155993,
+        "name": "Hengli Dalian HL-B181k-19",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2027,
+        "operator": "Reederei H. Vogemann"
+      },
+      {
+        "imo": 1156002,
+        "name": "Hengli Dalian HL-B181k-20",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2027,
+        "operator": "Reederei H. Vogemann"
+      },
+      {
+        "imo": 1156014,
+        "name": "Hengli Dalian HL-B181k-21",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2027,
+        "operator": "Reederei H. Vogemann"
+      },
+      {
+        "imo": 1143524,
+        "name": "Frontier Harmony",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2026,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1143536,
+        "name": "Namura 706",
+        "class": "Capesize",
+        "dwt": 184000,
+        "built": 2026,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1099486,
+        "name": "Frontier Fortissimo",
+        "class": "Capesize",
+        "dwt": 183000,
+        "built": 2026,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1099474,
+        "name": "Frontier Vista",
+        "class": "Capesize",
+        "dwt": 183000,
+        "built": 2026,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1089857,
+        "name": "Liberty Queen",
+        "class": "Capesize",
+        "dwt": 182820,
+        "built": 2026,
+        "operator": "Kyowa Kisen"
+      },
+      {
+        "imo": 1089845,
+        "name": "Veritas Queen",
+        "class": "Capesize",
+        "dwt": 182700,
+        "built": 2026,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1089871,
+        "name": "Frontier Rindo",
+        "class": "Capesize",
+        "dwt": 182691,
+        "built": 2026,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1042809,
+        "name": "First Robin",
+        "class": "Capesize",
+        "dwt": 182390,
+        "built": 2026,
+        "operator": "Daiichi"
+      },
+      {
+        "imo": 1042811,
+        "name": "Nord Prime",
+        "class": "Capesize",
+        "dwt": 182334,
+        "built": 2026,
+        "operator": "Norden"
+      },
+      {
+        "imo": 1057050,
+        "name": "Aquavictory",
+        "class": "Capesize",
+        "dwt": 182020,
+        "built": 2026,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 1081245,
+        "name": "Theseus",
+        "class": "Capesize",
+        "dwt": 182000,
+        "built": 2026,
+        "operator": "Samos Steamship"
+      },
+      {
+        "imo": 1075349,
+        "name": "Frontier Peace",
+        "class": "Capesize",
+        "dwt": 181987,
+        "built": 2026,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1070088,
+        "name": "Cape Pentas",
+        "class": "Capesize",
+        "dwt": 181400,
+        "built": 2026,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1070076,
+        "name": "Cape Tsutsuji",
+        "class": "Capesize",
+        "dwt": 181400,
+        "built": 2026,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1031305,
+        "name": "Buergenstock",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2026,
+        "operator": "Solar Shipping"
+      },
+      {
+        "imo": 1067677,
+        "name": "Jungfrau",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2026,
+        "operator": "Reederei H. Vogemann"
+      },
+      {
+        "imo": 1031290,
+        "name": "Matterhorn",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2026,
+        "operator": "Solar Shipping"
+      },
+      {
+        "imo": 1045277,
+        "name": "Pilatus",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2026,
+        "operator": "Solar Shipping"
+      },
+      {
+        "imo": 1045289,
+        "name": "Rigi",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2026,
+        "operator": "Reederei H. Vogemann"
+      },
+      {
+        "imo": 1081233,
+        "name": "Alcinous",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2026,
+        "operator": "Samos Steamship"
+      },
+      {
+        "imo": 1089869,
+        "name": "Aquabella",
+        "class": "Capesize",
+        "dwt": 182663,
+        "built": 2025,
+        "operator": "Fukujin Shipping"
+      },
+      {
+        "imo": 1015765,
+        "name": "Global Future",
+        "class": "Capesize",
+        "dwt": 182613,
+        "built": 2025,
+        "operator": "Miyazaki Sangyo"
+      },
+      {
+        "imo": 1028669,
+        "name": "Frontier Wish",
+        "class": "Capesize",
+        "dwt": 182454,
+        "built": 2025,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9989754,
+        "name": "Sakura Queen",
+        "class": "Capesize",
+        "dwt": 182416,
+        "built": 2025,
+        "operator": "Glencore"
+      },
+      {
+        "imo": 1028671,
+        "name": "First Ace",
+        "class": "Capesize",
+        "dwt": 182396,
+        "built": 2025,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 1028657,
+        "name": "Frontier Hope",
+        "class": "Capesize",
+        "dwt": 182390,
+        "built": 2025,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1057024,
+        "name": "Nord Tramp",
+        "class": "Capesize",
+        "dwt": 182106,
+        "built": 2025,
+        "operator": "Shoei Kisen Kaisha"
+      },
+      {
+        "imo": 1013640,
+        "name": "Cape Suzuran",
+        "class": "Capesize",
+        "dwt": 182098,
+        "built": 2025,
+        "operator": "K Line"
+      },
+      {
+        "imo": 1057012,
+        "name": "Sea Ibis",
+        "class": "Capesize",
+        "dwt": 182055,
+        "built": 2025,
+        "operator": "Shoei Kisen Kaisha"
+      },
+      {
+        "imo": 1024390,
+        "name": "Cape Wisteria",
+        "class": "Capesize",
+        "dwt": 182028,
+        "built": 2025,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1031276,
+        "name": "Uetliberg",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2025,
+        "operator": "Solar Shipping"
+      },
+      {
+        "imo": 1031288,
+        "name": "Zugerberg",
+        "class": "Capesize",
+        "dwt": 181250,
+        "built": 2025,
+        "operator": "Solar Shipping"
+      },
+      {
+        "imo": 9957024,
+        "name": "Ubuntu Sincerity",
+        "class": "Capesize",
+        "dwt": 189784,
+        "built": 2024,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9957036,
+        "name": "Ubuntu Liberty",
+        "class": "Capesize",
+        "dwt": 189658,
+        "built": 2024,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9983578,
+        "name": "Spring Harmony",
+        "class": "Capesize",
+        "dwt": 182498,
+        "built": 2024,
+        "operator": "NS United"
+      },
+      {
+        "imo": 9959228,
+        "name": "Prometheus",
+        "class": "Capesize",
+        "dwt": 182384,
+        "built": 2024,
+        "operator": "Alberta Shipmanagement"
+      },
+      {
+        "imo": 9989742,
+        "name": "Lucky Queen",
+        "class": "Capesize",
+        "dwt": 182354,
+        "built": 2024,
+        "operator": "Bunge"
+      },
+      {
+        "imo": 9980186,
+        "name": "Bo May",
+        "class": "Capesize",
+        "dwt": 182317,
+        "built": 2024,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9989730,
+        "name": "First Delphinus",
+        "class": "Capesize",
+        "dwt": 182316,
+        "built": 2024,
+        "operator": "Daiichi"
+      },
+      {
+        "imo": 9960124,
+        "name": "Cape Pleasure",
+        "class": "Capesize",
+        "dwt": 182096,
+        "built": 2024,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9991173,
+        "name": "Cape Gannet",
+        "class": "Capesize",
+        "dwt": 182027,
+        "built": 2024,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9980174,
+        "name": "Heng May",
+        "class": "Capesize",
+        "dwt": 181283,
+        "built": 2024,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1032268,
+        "name": "SG Aquamarine",
+        "class": "Capesize",
+        "dwt": 180643,
+        "built": 2024,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9956989,
+        "name": "Ubuntu Unity",
+        "class": "Capesize",
+        "dwt": 189784,
+        "built": 2023,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9957000,
+        "name": "Ubuntu Empathy",
+        "class": "Capesize",
+        "dwt": 189774,
+        "built": 2023,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9956991,
+        "name": "Ubuntu Community",
+        "class": "Capesize",
+        "dwt": 189741,
+        "built": 2023,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9957012,
+        "name": "Ubuntu Humanity",
+        "class": "Capesize",
+        "dwt": 189721,
+        "built": 2023,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9936680,
+        "name": "Ubuntu Integrity",
+        "class": "Capesize",
+        "dwt": 189688,
+        "built": 2023,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9936692,
+        "name": "Ubuntu Loyalty",
+        "class": "Capesize",
+        "dwt": 189688,
+        "built": 2023,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9959216,
+        "name": "Proteus",
+        "class": "Capesize",
+        "dwt": 182479,
+        "built": 2023,
+        "operator": "Lavinia"
+      },
+      {
+        "imo": 9965928,
+        "name": "Frontier Spirit",
+        "class": "Capesize",
+        "dwt": 182461,
+        "built": 2023,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9953573,
+        "name": "Cape Sun",
+        "class": "Capesize",
+        "dwt": 182436,
+        "built": 2023,
+        "operator": "Olympia Ocean Carriers"
+      },
+      {
+        "imo": 9951109,
+        "name": "World Seafarer MD",
+        "class": "Capesize",
+        "dwt": 182344,
+        "built": 2023,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9966221,
+        "name": "GCL Thames",
+        "class": "Capesize",
+        "dwt": 182334,
+        "built": 2023,
+        "operator": "Arcelormittal"
+      },
+      {
+        "imo": 9966233,
+        "name": "Nord Steel",
+        "class": "Capesize",
+        "dwt": 182288,
+        "built": 2023,
+        "operator": "Norden"
+      },
+      {
+        "imo": 9966245,
+        "name": "Capt G",
+        "class": "Capesize",
+        "dwt": 182281,
+        "built": 2023,
+        "operator": "Transmed Shipping"
+      },
+      {
+        "imo": 9936745,
+        "name": "Cape Diversity",
+        "class": "Capesize",
+        "dwt": 182236,
+        "built": 2023,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9960148,
+        "name": "Navios Amethyst",
+        "class": "Capesize",
+        "dwt": 182212,
+        "built": 2023,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9960136,
+        "name": "Cape Satsuki",
+        "class": "Capesize",
+        "dwt": 182202,
+        "built": 2023,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9951927,
+        "name": "Navios Sakura",
+        "class": "Capesize",
+        "dwt": 182169,
+        "built": 2023,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9801330,
+        "name": "Imabari Hiroshima 2578",
+        "class": "Capesize",
+        "dwt": 182160,
+        "built": 2023,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9933092,
+        "name": "Navios Altair",
+        "class": "Capesize",
+        "dwt": 182115,
+        "built": 2023,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9936812,
+        "name": "Ocean Leader",
+        "class": "Capesize",
+        "dwt": 182101,
+        "built": 2023,
+        "operator": "Ocean Longevity"
+      },
+      {
+        "imo": 9951111,
+        "name": "Aquajoy",
+        "class": "Capesize",
+        "dwt": 182082,
+        "built": 2023,
+        "operator": "Hokoku Marine"
+      },
+      {
+        "imo": 9933080,
+        "name": "Carouge",
+        "class": "Capesize",
+        "dwt": 182080,
+        "built": 2023,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9942732,
+        "name": "Gina Oldendorff",
+        "class": "Capesize",
+        "dwt": 182002,
+        "built": 2023,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9944869,
+        "name": "HL Nambu 1",
+        "class": "Capesize",
+        "dwt": 178952,
+        "built": 2023,
+        "operator": "Contango Shipping"
+      },
+      {
+        "imo": 9944936,
+        "name": "HL Nambu 2",
+        "class": "Capesize",
+        "dwt": 178952,
+        "built": 2023,
+        "operator": "Contango Shipping"
+      },
+      {
+        "imo": 9936678,
+        "name": "Ubuntu Equality",
+        "class": "Capesize",
+        "dwt": 189688,
+        "built": 2022,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9936666,
+        "name": "Ubuntu Harmony",
+        "class": "Capesize",
+        "dwt": 189688,
+        "built": 2022,
+        "operator": "U-ming"
+      },
+      {
+        "imo": 9938614,
+        "name": "Navios Astra",
+        "class": "Capesize",
+        "dwt": 182393,
+        "built": 2022,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9921611,
+        "name": "Fj Rossa",
+        "class": "Capesize",
+        "dwt": 182345,
+        "built": 2022,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9938602,
+        "name": "Cape Elianto",
+        "class": "Capesize",
+        "dwt": 182328,
+        "built": 2022,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9921609,
+        "name": "Aquacharm",
+        "class": "Capesize",
+        "dwt": 182309,
+        "built": 2022,
+        "operator": "Fukujin Shipping"
+      },
+      {
+        "imo": 9920681,
+        "name": "Princess Eternity",
+        "class": "Capesize",
+        "dwt": 182263,
+        "built": 2022,
+        "operator": "Arcelormittal"
+      },
+      {
+        "imo": 9933078,
+        "name": "Berge Gasherbrum",
+        "class": "Capesize",
+        "dwt": 182202,
+        "built": 2022,
+        "operator": "Berge Bulk"
+      },
+      {
+        "imo": 9916197,
+        "name": "Asanagi",
+        "class": "Capesize",
+        "dwt": 182162,
+        "built": 2022,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9925801,
+        "name": "Yunagi",
+        "class": "Capesize",
+        "dwt": 182147,
+        "built": 2022,
+        "operator": "Yahata Kisen"
+      },
+      {
+        "imo": 9933418,
+        "name": "Frontier Jasmine",
+        "class": "Capesize",
+        "dwt": 182130,
+        "built": 2022,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9942718,
+        "name": "Cape Cormorant",
+        "class": "Capesize",
+        "dwt": 182109,
+        "built": 2022,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9936800,
+        "name": "Ocean Asia",
+        "class": "Capesize",
+        "dwt": 182090,
+        "built": 2022,
+        "operator": "Ocean Longevity"
+      },
+      {
+        "imo": 9925813,
+        "name": "Navios Armonia",
+        "class": "Capesize",
+        "dwt": 182079,
+        "built": 2022,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9920667,
+        "name": "First Eternity",
+        "class": "Capesize",
+        "dwt": 182067,
+        "built": 2022,
+        "operator": "Daiichi"
+      },
+      {
+        "imo": 9916202,
+        "name": "Cape Falcon",
+        "class": "Capesize",
+        "dwt": 182066,
+        "built": 2022,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9933107,
+        "name": "Navios Azalea",
+        "class": "Capesize",
+        "dwt": 182064,
+        "built": 2022,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9926520,
+        "name": "Florida",
+        "class": "Capesize",
+        "dwt": 182063,
+        "built": 2022,
+        "operator": "Bunge"
+      },
+      {
+        "imo": 9942720,
+        "name": "Alice Oldendorff",
+        "class": "Capesize",
+        "dwt": 181963,
+        "built": 2022,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9926623,
+        "name": "GCL Dunkirk",
+        "class": "Capesize",
+        "dwt": 180953,
+        "built": 2022,
+        "operator": "Arcelormittal"
+      },
+      {
+        "imo": 9889679,
+        "name": "Hl Sunny",
+        "class": "Capesize",
+        "dwt": 179070,
+        "built": 2022,
+        "operator": "Posco"
+      },
+      {
+        "imo": 9905215,
+        "name": "Spring Citrus",
+        "class": "Capesize",
+        "dwt": 182348,
+        "built": 2021,
+        "operator": "MOL"
+      },
+      {
+        "imo": 9915583,
+        "name": "Kauri",
+        "class": "Capesize",
+        "dwt": 182327,
+        "built": 2021,
+        "operator": "Kotobuki Kaiun"
+      },
+      {
+        "imo": 9920679,
+        "name": "Ace Eternity",
+        "class": "Capesize",
+        "dwt": 182098,
+        "built": 2021,
+        "operator": "Daiichi"
+      },
+      {
+        "imo": 9921623,
+        "name": "Star Shibumi",
+        "class": "Capesize",
+        "dwt": 182090,
+        "built": 2021,
+        "operator": "Star Bulk"
+      },
+      {
+        "imo": 9906805,
+        "name": "Awajisan Maru",
+        "class": "Capesize",
+        "dwt": 181994,
+        "built": 2021,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9913949,
+        "name": "Grand Sakura",
+        "class": "Capesize",
+        "dwt": 181924,
+        "built": 2021,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9872107,
+        "name": "Shandong De Yu",
+        "class": "Capesize",
+        "dwt": 180730,
+        "built": 2021,
+        "operator": "BoCom Leasing"
+      },
+      {
+        "imo": 9872121,
+        "name": "Shandong De Tai",
+        "class": "Capesize",
+        "dwt": 180702,
+        "built": 2021,
+        "operator": "RWE"
+      },
+      {
+        "imo": 9872119,
+        "name": "Shandong De Feng",
+        "class": "Capesize",
+        "dwt": 180657,
+        "built": 2021,
+        "operator": "RWE"
+      },
+      {
+        "imo": 9751030,
+        "name": "Xiang May",
+        "class": "Capesize",
+        "dwt": 180000,
+        "built": 2021,
+        "operator": "Foremost Maritime"
+      },
+      {
+        "imo": 9874715,
+        "name": "Cs Wu Han",
+        "class": "Capesize",
+        "dwt": 179692,
+        "built": 2021,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9874703,
+        "name": "CS Hang Zhou",
+        "class": "Capesize",
+        "dwt": 179691,
+        "built": 2021,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9874698,
+        "name": "CS Nanjing",
+        "class": "Capesize",
+        "dwt": 179668,
+        "built": 2021,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9874686,
+        "name": "Cs Ji Nan",
+        "class": "Capesize",
+        "dwt": 179606,
+        "built": 2021,
+        "operator": "RWE"
+      },
+      {
+        "imo": 9889667,
+        "name": "Hl Oceanic",
+        "class": "Capesize",
+        "dwt": 179070,
+        "built": 2021,
+        "operator": "Posco"
+      },
+      {
+        "imo": 9860491,
+        "name": "Cape Olympia",
+        "class": "Capesize",
+        "dwt": 183057,
+        "built": 2020,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9860790,
+        "name": "Ocean Dragon",
+        "class": "Capesize",
+        "dwt": 182917,
+        "built": 2020,
+        "operator": "Ocean Longevity"
+      },
+      {
+        "imo": 9860489,
+        "name": "Royal Argo",
+        "class": "Capesize",
+        "dwt": 182883,
+        "built": 2020,
+        "operator": "Tokei Kaiun"
+      },
+      {
+        "imo": 9875111,
+        "name": "Genco Courageous",
+        "class": "Capesize",
+        "dwt": 182868,
+        "built": 2020,
+        "operator": "Genco Shipping"
+      },
+      {
+        "imo": 9875123,
+        "name": "Klkh Friendship",
+        "class": "Capesize",
+        "dwt": 182697,
+        "built": 2020,
+        "operator": "K Line"
+      },
+      {
+        "imo": 9871775,
+        "name": "First Phoenix",
+        "class": "Capesize",
+        "dwt": 182591,
+        "built": 2020,
+        "operator": "Nissen Kaiun"
+      },
+      {
+        "imo": 9871799,
+        "name": "Lady Deena",
+        "class": "Capesize",
+        "dwt": 182588,
+        "built": 2020,
+        "operator": "RWE"
+      },
+      {
+        "imo": 9871787,
+        "name": "Empress Zonda",
+        "class": "Capesize",
+        "dwt": 182584,
+        "built": 2020,
+        "operator": "Louis Dreyfus Group"
+      },
+      {
+        "imo": 9861794,
+        "name": "Lady Wynn",
+        "class": "Capesize",
+        "dwt": 182514,
+        "built": 2020,
+        "operator": "RWE"
+      },
+      {
+        "imo": 9853723,
+        "name": "Empress Mistral",
+        "class": "Capesize",
+        "dwt": 180896,
+        "built": 2020,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9863106,
+        "name": "Zella Oldendorff",
+        "class": "Capesize",
+        "dwt": 180857,
+        "built": 2020,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9872066,
+        "name": "Shandong De Long",
+        "class": "Capesize",
+        "dwt": 180727,
+        "built": 2020,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9872042,
+        "name": "Shandong De Rui",
+        "class": "Capesize",
+        "dwt": 180727,
+        "built": 2020,
+        "operator": "RWE"
+      },
+      {
+        "imo": 9872078,
+        "name": "Shandong De Hong",
+        "class": "Capesize",
+        "dwt": 180716,
+        "built": 2020,
+        "operator": "Rio Tinto Group"
+      },
+      {
+        "imo": 9872030,
+        "name": "Shandong De Xiang",
+        "class": "Capesize",
+        "dwt": 180628,
+        "built": 2020,
+        "operator": "RWE"
+      },
+      {
+        "imo": 9872080,
+        "name": "Shandong De Yun",
+        "class": "Capesize",
+        "dwt": 180620,
+        "built": 2020,
+        "operator": "Rio Tinto Group"
+      },
+      {
+        "imo": 9872054,
+        "name": "Shandong De Chang",
+        "class": "Capesize",
+        "dwt": 180601,
+        "built": 2020,
+        "operator": "RWE"
+      }
+    ],
+    "tankers": [
+      {
+        "imo": 1176545,
+        "name": "Hanwha Ocean",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2030,
+        "operator": "Stealth Maritime Corp"
+      },
+      {
+        "imo": 1135307,
+        "name": "Jiangsu New Hantong HT-Ot319-468",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2030,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1172628,
+        "name": "Jiangsu New Hantong Ht-Ot319-506",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1172630,
+        "name": "Jiangsu New Hantong Ht-Ot319-507",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189554,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189580,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189592,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189607,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189619,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189621,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1175022,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2030,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1175034,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2030,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1175046,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2030,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1189724,
+        "name": "Hanwha Ocean",
+        "class": "VLCC",
+        "dwt": 300000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1169102,
+        "name": "New Times 0330013",
+        "class": "VLCC",
+        "dwt": 299500,
+        "built": 2030,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1100560,
+        "name": "P-85",
+        "class": "VLCC",
+        "dwt": 322809,
+        "built": 2029,
+        "operator": "Petrobras"
+      },
+      {
+        "imo": 1176533,
+        "name": "Hanwha Ocean",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2029,
+        "operator": "Stealth Maritime Corp"
+      },
+      {
+        "imo": 1176181,
+        "name": "Hanwha Ocean 5551",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2029,
+        "operator": "Samos Steamship"
+      },
+      {
+        "imo": 1157147,
+        "name": "Hyundai Samho 8345",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1157159,
+        "name": "Hyundai Samho 8346",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1157161,
+        "name": "Hyundai Samho 8347",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1162295,
+        "name": "New Times Shipyard",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1162300,
+        "name": "New Times Shipyard",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1166772,
+        "name": "Hantong Shi Ht-Ot319-496",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Union Maritime"
+      },
+      {
+        "imo": 1166784,
+        "name": "Hantong Shi Ht-Ot319-497",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Union Maritime"
+      },
+      {
+        "imo": 1178000,
+        "name": "Jiangsu New Hantong",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1178012,
+        "name": "Jiangsu New Hantong",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1178036,
+        "name": "Jiangsu New Hantong",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1135278,
+        "name": "Jiangsu New Hantong HT-Ot319-465",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1135280,
+        "name": "Jiangsu New Hantong HT-Ot319-466",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1135292,
+        "name": "Jiangsu New Hantong HT-Ot319-467",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1197513,
+        "name": "Jiangsu New Hantong HT-Ot319-508",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1197525,
+        "name": "Jiangsu New Hantong HT-Ot319-509",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1174808,
+        "name": "Qingdao Beihai",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Pan Ocean"
+      },
+      {
+        "imo": 1183160,
+        "name": "Wison Nantong",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1176870,
+        "name": "Advantage Voyager",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Advantage Tankers"
+      },
+      {
+        "imo": 1177393,
+        "name": "Dalian",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1177408,
+        "name": "Dalian",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1176894,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Mercuria"
+      },
+      {
+        "imo": 1189528,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189530,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189542,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189578,
+        "name": "Hudong Zhonghua",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1180429,
+        "name": "Dalian",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1180431,
+        "name": "Dalian",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1175008,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1175010,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1175058,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1175060,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1176882,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Mercuria"
+      },
+      {
+        "imo": 1166796,
+        "name": "Hantong Shi Ht-Ot319-584",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Union Maritime"
+      },
+      {
+        "imo": 1166801,
+        "name": "Hantong Shi Ht-Ot319-585",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Union Maritime"
+      },
+      {
+        "imo": 1169566,
+        "name": "Hengli Dalian HL-T300k-117",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1170888,
+        "name": "Hengli Dalian HL-T300k-118",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1170890,
+        "name": "Hengli Dalian HL-T300k-119",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1170864,
+        "name": "Hengli Dalian HL-T300k-81",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1170876,
+        "name": "Hengli Dalian HL-T300k-82",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2029,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1165041,
+        "name": "Hanwha Ocean 5541",
+        "class": "VLCC",
+        "dwt": 305000,
+        "built": 2029,
+        "operator": "Scorpio Commercial Management"
+      },
+      {
+        "imo": 1189700,
+        "name": "Hanwha Ocean",
+        "class": "VLCC",
+        "dwt": 300000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189712,
+        "name": "Hanwha Ocean",
+        "class": "VLCC",
+        "dwt": 300000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1166631,
+        "name": "Hanwha Ocean 5544",
+        "class": "VLCC",
+        "dwt": 300000,
+        "built": 2029,
+        "operator": "Asyad Shipping"
+      },
+      {
+        "imo": 1166643,
+        "name": "Hanwha Ocean 5545",
+        "class": "VLCC",
+        "dwt": 300000,
+        "built": 2029,
+        "operator": "Asyad Shipping"
+      },
+      {
+        "imo": 1175474,
+        "name": "Hanwha Ocean 5552",
+        "class": "VLCC",
+        "dwt": 300000,
+        "built": 2029,
+        "operator": "Samos Steamship"
+      },
+      {
+        "imo": 1162312,
+        "name": "New Times Shipyard",
+        "class": "VLCC",
+        "dwt": 298000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1141045,
+        "name": "Hanwha Ocean",
+        "class": "VLCC",
+        "dwt": 330000,
+        "built": 2028,
+        "operator": "Tsakos Shipping & Trading"
+      },
+      {
+        "imo": 1141033,
+        "name": "Hanwha Ocean 5532",
+        "class": "VLCC",
+        "dwt": 330000,
+        "built": 2028,
+        "operator": "Tsakos Shipping & Trading"
+      },
+      {
+        "imo": 1100558,
+        "name": "P-84",
+        "class": "VLCC",
+        "dwt": 322809,
+        "built": 2028,
+        "operator": "Petrobras"
+      },
+      {
+        "imo": 1187336,
+        "name": "DHT Oryx",
+        "class": "VLCC",
+        "dwt": 321000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1141021,
+        "name": "Hanwha Ocean 5531",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Tsakos Shipping & Trading"
+      },
+      {
+        "imo": 1160900,
+        "name": "Hanwha Ocean 5537",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Maran Tankers Management"
+      },
+      {
+        "imo": 1160912,
+        "name": "Hanwha Ocean 5538",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Maran Tankers Management"
+      },
+      {
+        "imo": 1160924,
+        "name": "Hanwha Ocean 5539",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Maran Tankers Management"
+      },
+      {
+        "imo": 1157135,
+        "name": "Hyundai Samho 8344",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1162283,
+        "name": "New Times Shipyard",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1069455,
+        "name": "TIANJIN",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Capital Ship Management"
+      },
+      {
+        "imo": 1069467,
+        "name": "TIANJIN",
+        "class": "VLCC",
+        "dwt": 320000,
+        "built": 2028,
+        "operator": "Capital Ship Management"
+      },
+      {
+        "imo": 1155515,
+        "name": "Iangsu Hantong Wing Hi HT-Ot319-505",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1155474,
+        "name": "Jiangsu Hantong Wing Hi HT-Ot319-494",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1155498,
+        "name": "Jiangsu Hantong Wing Hi HT-Ot319-495",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1155503,
+        "name": "Jiangsu Hantong Wing Hi HT-Ot319-504",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Trafigura"
+      },
+      {
+        "imo": 1183122,
+        "name": "Wison Nantong",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183134,
+        "name": "Wison Nantong",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183146,
+        "name": "Wison Nantong",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1172903,
+        "name": "Yantai Cimc Raffles",
+        "class": "VLCC",
+        "dwt": 319000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1119535,
+        "name": "Jmu Ariake",
+        "class": "VLCC",
+        "dwt": 310000,
+        "built": 2028,
+        "operator": "Idemitsu"
+      },
+      {
+        "imo": 1122879,
+        "name": "Jmu Ariake",
+        "class": "VLCC",
+        "dwt": 310000,
+        "built": 2028,
+        "operator": "Idemitsu"
+      },
+      {
+        "imo": 1122881,
+        "name": "Jmu Ariake",
+        "class": "VLCC",
+        "dwt": 310000,
+        "built": 2028,
+        "operator": "Idemitsu"
+      },
+      {
+        "imo": 1181813,
+        "name": "Lu Yu 1888",
+        "class": "VLCC",
+        "dwt": 310000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1181796,
+        "name": "Wuhu Rongsheng W26101",
+        "class": "VLCC",
+        "dwt": 310000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1181801,
+        "name": "Wuhu Rongsheng W26102",
+        "class": "VLCC",
+        "dwt": 310000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1181825,
+        "name": "Wuhu Rongsheng W26103",
+        "class": "VLCC",
+        "dwt": 310000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1176868,
+        "name": "Advantage Venture",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2028,
+        "operator": "Advantage Tankers"
+      },
+      {
+        "imo": 1068932,
+        "name": "CSSC TIANJIN T300K-118",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2028,
+        "operator": "Seatankers Management"
+      },
+      {
+        "imo": 1108287,
+        "name": "Cssc Tianjin T300k-136",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1108299,
+        "name": "Cssc Tianjin T300k-137",
+        "class": "VLCC",
+        "dwt": 307000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1146825,
+        "name": "China Merchants Hi (Tba)",
+        "class": "VLCC",
+        "dwt": 306197,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1175072,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1175084,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1175096,
+        "name": "Dalian Csic No 2 (Tba)",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "China Merchants Energy"
+      },
+      {
+        "imo": 1108029,
+        "name": "Dalian No 2 T300k-123",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Associated Maritime"
+      },
+      {
+        "imo": 1108031,
+        "name": "Dalian No 2 T300k-124",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Associated Maritime"
+      },
+      {
+        "imo": 1108043,
+        "name": "Dalian No 2 T300k-125",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Associated Maritime"
+      },
+      {
+        "imo": 1108055,
+        "name": "Dalian No 2 T300k-126",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Associated Maritime"
+      },
+      {
+        "imo": 1108067,
+        "name": "Dalian No 2 T300k-127",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Associated Maritime"
+      },
+      {
+        "imo": 1108079,
+        "name": "Dalian No 2 T300k-128",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Associated Maritime"
+      },
+      {
+        "imo": 1108081,
+        "name": "Dalian No 2 T300k-129",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Associated Maritime"
+      },
+      {
+        "imo": 1165338,
+        "name": "Heng Yun 18",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165352,
+        "name": "Hengli Dalian Hl-T300K-100",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165364,
+        "name": "Hengli Dalian Hl-T300K-101",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165388,
+        "name": "Hengli Dalian Hl-T300K-103",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165390,
+        "name": "Hengli Dalian Hl-T300K-104",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165405,
+        "name": "Hengli Dalian Hl-T300K-105",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165417,
+        "name": "Hengli Dalian Hl-T300K-106",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165429,
+        "name": "Hengli Dalian Hl-T300K-107",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165443,
+        "name": "Hengli Dalian Hl-T300K-109",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165455,
+        "name": "Hengli Dalian Hl-T300K-110",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165467,
+        "name": "Hengli Dalian Hl-T300K-111",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1182996,
+        "name": "Hengli Dalian HL-T300k-115",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1169554,
+        "name": "Hengli Dalian HL-T300k-116",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1147922,
+        "name": "Hengli Dalian HL-T300k-22",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1147934,
+        "name": "Hengli Dalian HL-T300k-23",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1147946,
+        "name": "Hengli Dalian HL-T300k-24",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1147958,
+        "name": "Hengli Dalian HL-T300k-25",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1147960,
+        "name": "Hengli Dalian HL-T300k-26",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1147972,
+        "name": "Hengli Dalian HL-T300k-27",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1147984,
+        "name": "Hengli Dalian HL-T300k-28",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1147996,
+        "name": "Hengli Dalian HL-T300k-29",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1148005,
+        "name": "Hengli Dalian HL-T300k-30",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165168,
+        "name": "Hengli Dalian Hl-T300K-31",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1160118,
+        "name": "Hengli Dalian HL-T300k-32",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1160120,
+        "name": "Hengli Dalian HL-T300k-33",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1160132,
+        "name": "Hengli Dalian HL-T300k-34",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1164619,
+        "name": "Hengli Dalian Hl-T300K-36",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1165170,
+        "name": "Hengli Dalian Hl-T300K-37",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1182946,
+        "name": "Hengli Dalian HL-T300k-38",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1182958,
+        "name": "Hengli Dalian HL-T300k-39",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1160144,
+        "name": "Hengli Dalian HL-T300k-61",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1165182,
+        "name": "Hengli Dalian Hl-T300K-62",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1160156,
+        "name": "Hengli Dalian HL-T300k-63",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1164621,
+        "name": "Hengli Dalian Hl-T300K-64",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1160168,
+        "name": "Hengli Dalian HL-T300k-65",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1165194,
+        "name": "Hengli Dalian Hl-T300K-66",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1160170,
+        "name": "Hengli Dalian HL-T300k-67",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1164633,
+        "name": "Hengli Dalian Hl-T300K-68",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1165209,
+        "name": "Hengli Dalian Hl-T300K-69",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1165211,
+        "name": "Hengli Dalian Hl-T300K-70",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Capital Maritime & Trading"
+      },
+      {
+        "imo": 1160182,
+        "name": "Hengli Dalian HL-T300k-71",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1165223,
+        "name": "Hengli Dalian Hl-T300K-72",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165235,
+        "name": "Hengli Dalian Hl-T300K-73",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165247,
+        "name": "Hengli Dalian Hl-T300K-74",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165259,
+        "name": "Hengli Dalian Hl-T300K-75",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165261,
+        "name": "Hengli Dalian Hl-T300K-76",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165273,
+        "name": "Hengli Dalian Hl-T300K-77",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1168548,
+        "name": "Hengli Dalian Hl-T300K-78",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1168550,
+        "name": "Hengli Dalian Hl-T300K-79",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1182960,
+        "name": "Hengli Dalian HL-T300k-80",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165285,
+        "name": "Hengli Dalian Hl-T300K-91",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165297,
+        "name": "Hengli Dalian Hl-T300K-92",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165302,
+        "name": "Hengli Dalian Hl-T300K-93",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165314,
+        "name": "Hengli Dalian Hl-T300K-94",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165326,
+        "name": "Hengli Dalian Hl-T300K-95",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1182972,
+        "name": "Hengli Dalian HL-T300k-97",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1182984,
+        "name": "Hengli Dalian HL-T300k-98",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165340,
+        "name": "Hengli Dalian Hl-T300K-99",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165431,
+        "name": "Yuan Jun",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165376,
+        "name": "Zheng Yi 77",
+        "class": "VLCC",
+        "dwt": 306000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165039,
+        "name": "Hanwha Ocean 5540",
+        "class": "VLCC",
+        "dwt": 305000,
+        "built": 2028,
+        "operator": "Scorpio Commercial Management"
+      },
+      {
+        "imo": 1108251,
+        "name": "Dalian No 2 T300k-133",
+        "class": "VLCC",
+        "dwt": 304000,
+        "built": 2028,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1108263,
+        "name": "Dalian No 2 T300k-134",
+        "class": "VLCC",
+        "dwt": 304000,
+        "built": 2028,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1108275,
+        "name": "Dalian No 2 T300k-135",
+        "class": "VLCC",
+        "dwt": 304000,
+        "built": 2028,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1155266,
+        "name": "Dalian T300k-140",
+        "class": "VLCC",
+        "dwt": 304000,
+        "built": 2028,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1155278,
+        "name": "Dalian T300k-141",
+        "class": "VLCC",
+        "dwt": 304000,
+        "built": 2028,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1155280,
+        "name": "Dalian T300k-142",
+        "class": "VLCC",
+        "dwt": 304000,
+        "built": 2028,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1155292,
+        "name": "Dalian T300k-143",
+        "class": "VLCC",
+        "dwt": 304000,
+        "built": 2028,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1127087,
+        "name": "Fpso Gato Do Mato",
+        "class": "VLCC",
+        "dwt": 300000,
+        "built": 2028,
+        "operator": "Modec"
+      },
+      {
+        "imo": 1169085,
+        "name": "New Times 0316344",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2030,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1169097,
+        "name": "New Times 0316345",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2030,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1177496,
+        "name": "New Times 0316349",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1196894,
+        "name": "DH Shipbuilding",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165924,
+        "name": "Hengli Dalian Hl-T157K-19",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165936,
+        "name": "Hengli Dalian Hl-T157K-20",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165948,
+        "name": "Hengli Dalian Hl-T157K-21",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1170541,
+        "name": "Samsung",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1192379,
+        "name": "Samsung 2812",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1175852,
+        "name": "Shanghai Waigaoqiao H1625",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Mercuria"
+      },
+      {
+        "imo": 1175864,
+        "name": "Shanghai Waigaoqiao H1626",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Mercuria"
+      },
+      {
+        "imo": 1175888,
+        "name": "Shanghai Waigaoqiao H1628",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Performance Shipping"
+      },
+      {
+        "imo": 1180508,
+        "name": "V Dragon",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1142427,
+        "name": "Advantage Senior",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Advantage Tankers"
+      },
+      {
+        "imo": 1142439,
+        "name": "Advantage Solid",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Advantage Tankers"
+      },
+      {
+        "imo": 1175137,
+        "name": "Daehan Haenam (Tba)",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Laskaridis Shipping"
+      },
+      {
+        "imo": 1175656,
+        "name": "Daehan Haenam 5134",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Golden Energy Management"
+      },
+      {
+        "imo": 1175101,
+        "name": "DH Shipbuilding",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Laskaridis Shipping"
+      },
+      {
+        "imo": 1175113,
+        "name": "DH Shipbuilding",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Laskaridis Shipping"
+      },
+      {
+        "imo": 1175125,
+        "name": "DH Shipbuilding",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Laskaridis Shipping"
+      },
+      {
+        "imo": 1176519,
+        "name": "Guangzhou",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1163938,
+        "name": "Guangzhou Sy 25110074",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1163940,
+        "name": "Guangzhou Sy 25110075",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165106,
+        "name": "Hd Hyundai Shi Ulsan 3629",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Stealth Maritime Corp"
+      },
+      {
+        "imo": 1165118,
+        "name": "Hd Hyundai Shi Ulsan 3630",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Stealth Maritime Corp"
+      },
+      {
+        "imo": 1161681,
+        "name": "Hyundai Samho 8373",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Samos Steamship"
+      },
+      {
+        "imo": 1186502,
+        "name": "Pengali Zhongbai Jinglu Jl0486(t)",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1158139,
+        "name": "Samsung 2761",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "AET"
+      },
+      {
+        "imo": 1170606,
+        "name": "Sea La Gigante",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2029,
+        "operator": "Petrochem General Management"
+      },
+      {
+        "imo": 1174987,
+        "name": "Daehan Haenam 5133",
+        "class": "Suezmax",
+        "dwt": 156881,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1174999,
+        "name": "Daehan Haenam 5135",
+        "class": "Suezmax",
+        "dwt": 156881,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1174951,
+        "name": "DH Shipbuilding 5137",
+        "class": "Suezmax",
+        "dwt": 156881,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1150345,
+        "name": "Samsung 2764",
+        "class": "Suezmax",
+        "dwt": 156850,
+        "built": 2029,
+        "operator": "Zodiac Maritime"
+      },
+      {
+        "imo": 1160338,
+        "name": "Samsung 2778",
+        "class": "Suezmax",
+        "dwt": 156850,
+        "built": 2029,
+        "operator": "Zodiac Maritime"
+      },
+      {
+        "imo": 1171088,
+        "name": "New Times 0316348",
+        "class": "Suezmax",
+        "dwt": 156800,
+        "built": 2029,
+        "operator": "Cardiff Marine"
+      },
+      {
+        "imo": 1151844,
+        "name": "Hyundai Ulsan 3627",
+        "class": "Suezmax",
+        "dwt": 165000,
+        "built": 2028,
+        "operator": "Stealth Maritime Corp"
+      },
+      {
+        "imo": 1151856,
+        "name": "Hyundai Ulsan 3628",
+        "class": "Suezmax",
+        "dwt": 165000,
+        "built": 2028,
+        "operator": "Stealth Maritime Corp"
+      },
+      {
+        "imo": 1127180,
+        "name": "New Times 0316336",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2028,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1127192,
+        "name": "New Times 0316337",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2028,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1134834,
+        "name": "New Times 0316340",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2028,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1134846,
+        "name": "New Times 0316341",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2028,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1134858,
+        "name": "New Times 0316342",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2028,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1134860,
+        "name": "New Times 0316343",
+        "class": "Suezmax",
+        "dwt": 159000,
+        "built": 2028,
+        "operator": "Dynacom Tankers"
+      },
+      {
+        "imo": 1165883,
+        "name": "Hengli Dalian Hl-T157K-15",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165895,
+        "name": "Hengli Dalian Hl-T157K-16",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165900,
+        "name": "Hengli Dalian Hl-T157K-17",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165912,
+        "name": "Hengli Dalian Hl-T157K-18",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165950,
+        "name": "Hengli Dalian HL-T157k-31",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165962,
+        "name": "Hengli Dalian HL-T157k-32",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165974,
+        "name": "Hengli Dalian HL-T157k-33",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165986,
+        "name": "Hengli Dalian HL-T157k-34",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165857,
+        "name": "Hengli Dalian Hl-T157K-6",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1165869,
+        "name": "Hengli Dalian Hl-T157K-7",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1119676,
+        "name": "Samsung",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Centrofin"
+      },
+      {
+        "imo": 1119688,
+        "name": "Samsung",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Centrofin"
+      },
+      {
+        "imo": 1119690,
+        "name": "Samsung",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Centrofin"
+      },
+      {
+        "imo": 1119705,
+        "name": "Samsung",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Centrofin"
+      },
+      {
+        "imo": 1170527,
+        "name": "Samsung",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1170539,
+        "name": "Samsung",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1148263,
+        "name": "Samsung 2758",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "New Shipping"
+      },
+      {
+        "imo": 1148275,
+        "name": "Samsung 2759",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "New Shipping"
+      },
+      {
+        "imo": 1186239,
+        "name": "Samsung 2806",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1186241,
+        "name": "Samsung 2807",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1148471,
+        "name": "Shanghai Waigaoqiao",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Thenamaris"
+      },
+      {
+        "imo": 1148483,
+        "name": "Shanghai Waigaoqiao",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Thenamaris"
+      },
+      {
+        "imo": 1175876,
+        "name": "Shanghai Waigaoqiao H1627",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Performance Shipping"
+      },
+      {
+        "imo": 1185467,
+        "name": "V Leon",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1189889,
+        "name": "V Nikos",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1180534,
+        "name": "V Orion",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1180522,
+        "name": "V Titan",
+        "class": "Suezmax",
+        "dwt": 158000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1151583,
+        "name": "Hd Hyundai Ulsan 3619",
+        "class": "Suezmax",
+        "dwt": 157028,
+        "built": 2028,
+        "operator": "Cido Shipping"
+      },
+      {
+        "imo": 1151595,
+        "name": "Hd Hyundai Ulsan 3620",
+        "class": "Suezmax",
+        "dwt": 157028,
+        "built": 2028,
+        "operator": "Cido Shipping"
+      },
+      {
+        "imo": 1165601,
+        "name": "Cosco Yangzhou N1410",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2028,
+        "operator": "Pantheon Tankers Management"
+      },
+      {
+        "imo": 1165613,
+        "name": "Cosco Yangzhou N1411",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2028,
+        "operator": "Pantheon Tankers Management"
+      },
+      {
+        "imo": 1163380,
+        "name": "Daehan Shipbuilding",
+        "class": "Suezmax",
+        "dwt": 157000,
+        "built": 2028,
+        "operator": "Nordic American Tankers"
+      }
+    ],
+    "lng": [
+      {
+        "imo": 9648714,
+        "name": "Prelude",
+        "class": "LNG",
+        "dwt": 394330,
+        "built": 2017,
+        "operator": "Shell"
+      },
+      {
+        "imo": 9948437,
+        "name": "BW Opal",
+        "class": "LNG",
+        "dwt": 294192,
+        "built": 2025,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9831684,
+        "name": "Coral-Sul Flng",
+        "class": "LNG",
+        "dwt": 220000,
+        "built": 2021,
+        "operator": "ENI"
+      },
+      {
+        "imo": 9915090,
+        "name": "Saam Fsu",
+        "class": "LNG",
+        "dwt": 192237,
+        "built": 2023,
+        "operator": "GTLK Europe"
+      },
+      {
+        "imo": 9915105,
+        "name": "Koryak FSU",
+        "class": "LNG",
+        "dwt": 192072,
+        "built": 2023,
+        "operator": "Novatek"
+      },
+      {
+        "imo": 1045112,
+        "name": "Nguya FLNG",
+        "class": "LNG",
+        "dwt": 185000,
+        "built": 2025,
+        "operator": "ENI"
+      },
+      {
+        "imo": 1107582,
+        "name": "Sona",
+        "class": "LNG",
+        "dwt": 172000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9665085,
+        "name": "PFLNG Satu",
+        "class": "LNG",
+        "dwt": 167341,
+        "built": 2016,
+        "operator": "Petronas"
+      },
+      {
+        "imo": 9388819,
+        "name": "Lijmiliya",
+        "class": "LNG",
+        "dwt": 155159,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9372743,
+        "name": "Al Ghuwairiya",
+        "class": "LNG",
+        "dwt": 154940,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9388821,
+        "name": "Al Samriya",
+        "class": "LNG",
+        "dwt": 154900,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9713105,
+        "name": "Bauhinia Spirit",
+        "class": "LNG",
+        "dwt": 151915,
+        "built": 2017,
+        "operator": "MOL LNG Transport Europe"
+      },
+      {
+        "imo": 1085239,
+        "name": "Yard: Hudong-Zhonghua Hull: H1912a",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2032,
+        "operator": "QatarEnergy"
+      },
+      {
+        "imo": 1085320,
+        "name": "Hudong Zhonghua",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2031,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085435,
+        "name": "Hudong Zhonghua",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2031,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085332,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2031,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085344,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2031,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085356,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2031,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085447,
+        "name": "Hudong Zhonghua",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085291,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085306,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085318,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085370,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085423,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085459,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085461,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085289,
+        "name": "Yard: Hudong-Zhonghua Hull: 1924a",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2030,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085253,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2029,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085265,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2029,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085277,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2029,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085382,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2029,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1095882,
+        "name": "Hudong-Zhonghua H1919a",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2029,
+        "operator": "Shandong Shipping"
+      },
+      {
+        "imo": 1085241,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2028,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1085368,
+        "name": "HUDONG ZHONGHUA",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2028,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1095870,
+        "name": "Hudong-Zhonghua H1913a",
+        "class": "LNG",
+        "dwt": 143000,
+        "built": 2028,
+        "operator": "Shandong Shipping"
+      },
+      {
+        "imo": 1155486,
+        "name": "Wison Nantong F502ec",
+        "class": "LNG",
+        "dwt": 142200,
+        "built": 2028,
+        "operator": "Turkish Petroleum"
+      },
+      {
+        "imo": 9443413,
+        "name": "Rasheeda",
+        "class": "LNG",
+        "dwt": 130208,
+        "built": 2010,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9397303,
+        "name": "Mekaines",
+        "class": "LNG",
+        "dwt": 130171,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9397315,
+        "name": "Al Mafyar",
+        "class": "LNG",
+        "dwt": 130157,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9397298,
+        "name": "Al Mayeda",
+        "class": "LNG",
+        "dwt": 130157,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9443683,
+        "name": "Al Dafna",
+        "class": "LNG",
+        "dwt": 130128,
+        "built": 2009,
+        "operator": "RasGas"
+      },
+      {
+        "imo": 9388833,
+        "name": "Bu Samra",
+        "class": "LNG",
+        "dwt": 130102,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9337755,
+        "name": "Mozah",
+        "class": "LNG",
+        "dwt": 130102,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9372731,
+        "name": "Umm Slal",
+        "class": "LNG",
+        "dwt": 130059,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9443401,
+        "name": "Aamira",
+        "class": "LNG",
+        "dwt": 130026,
+        "built": 2010,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9992098,
+        "name": "PFLNG Tiga",
+        "class": "LNG",
+        "dwt": 130000,
+        "built": 2027,
+        "operator": "Petronas"
+      },
+      {
+        "imo": 9418365,
+        "name": "Shagra",
+        "class": "LNG",
+        "dwt": 129966,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9431214,
+        "name": "Zarga",
+        "class": "LNG",
+        "dwt": 129851,
+        "built": 2010,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1068542,
+        "name": "Alam Guyub",
+        "class": "LNG",
+        "dwt": 125287,
+        "built": 2026,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1111143,
+        "name": "HYUNDAI MIPO",
+        "class": "LNG",
+        "dwt": 125225,
+        "built": 2028,
+        "operator": "Evalend Shipping"
+      },
+      {
+        "imo": 9360790,
+        "name": "Al Oraiq",
+        "class": "LNG",
+        "dwt": 122079,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9431123,
+        "name": "Al Karaana",
+        "class": "LNG",
+        "dwt": 122052,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9360831,
+        "name": "Al Sheehaniya",
+        "class": "LNG",
+        "dwt": 122006,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9337963,
+        "name": "Al Safliya",
+        "class": "LNG",
+        "dwt": 121963,
+        "built": 2007,
+        "operator": "Bernhard Schulte Shipmanagement"
+      },
+      {
+        "imo": 9431147,
+        "name": "Al Bahiya",
+        "class": "LNG",
+        "dwt": 121956,
+        "built": 2010,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9431111,
+        "name": "Al Khattiya",
+        "class": "LNG",
+        "dwt": 121946,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9397353,
+        "name": "Onaiza",
+        "class": "LNG",
+        "dwt": 121939,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9338266,
+        "name": "Al Aamriya",
+        "class": "LNG",
+        "dwt": 121935,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9360817,
+        "name": "Fraiha",
+        "class": "LNG",
+        "dwt": 121914,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9397341,
+        "name": "Al Sadd",
+        "class": "LNG",
+        "dwt": 121913,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9431135,
+        "name": "Al Nuaman",
+        "class": "LNG",
+        "dwt": 121910,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9360805,
+        "name": "Murwab",
+        "class": "LNG",
+        "dwt": 121843,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9337951,
+        "name": "Al Ruwais",
+        "class": "LNG",
+        "dwt": 121823,
+        "built": 2007,
+        "operator": "Bernhard Schulte Shipmanagement"
+      },
+      {
+        "imo": 9337987,
+        "name": "Al Ghariya",
+        "class": "LNG",
+        "dwt": 121730,
+        "built": 2008,
+        "operator": "Bernhard Schulte Shipmanagement"
+      },
+      {
+        "imo": 9360829,
+        "name": "Umm Al Amad",
+        "class": "LNG",
+        "dwt": 121730,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9337975,
+        "name": "Duhail",
+        "class": "LNG",
+        "dwt": 121639,
+        "built": 2008,
+        "operator": "Bernhard Schulte Shipmanagement"
+      },
+      {
+        "imo": 1094412,
+        "name": "Hanwha Ocean 2598",
+        "class": "LNG",
+        "dwt": 115889,
+        "built": 2028,
+        "operator": "ADMIC"
+      },
+      {
+        "imo": 1094321,
+        "name": "Hanwha Ocean 2599",
+        "class": "LNG",
+        "dwt": 115889,
+        "built": 2028,
+        "operator": "ADMIC"
+      },
+      {
+        "imo": 1094333,
+        "name": "Hanwha Ocean 2600",
+        "class": "LNG",
+        "dwt": 115889,
+        "built": 2028,
+        "operator": "ADMIC"
+      },
+      {
+        "imo": 9337717,
+        "name": "Al Gharrafa",
+        "class": "LNG",
+        "dwt": 113607,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9337731,
+        "name": "Tembek",
+        "class": "LNG",
+        "dwt": 113531,
+        "built": 2007,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 1137240,
+        "name": "Samsung 2753",
+        "class": "LNG",
+        "dwt": 112028,
+        "built": 2028,
+        "operator": "Celsius Shipping"
+      },
+      {
+        "imo": 1019670,
+        "name": "Samsung 2663",
+        "class": "LNG",
+        "dwt": 112000,
+        "built": 2027,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9360893,
+        "name": "Al Shamal",
+        "class": "LNG",
+        "dwt": 109661,
+        "built": 2008,
+        "operator": "Seapeak"
+      },
+      {
+        "imo": 9360879,
+        "name": "Al Huwaila",
+        "class": "LNG",
+        "dwt": 109503,
+        "built": 2008,
+        "operator": "Seapeak"
+      },
+      {
+        "imo": 9360881,
+        "name": "Al Kharsaah",
+        "class": "LNG",
+        "dwt": 109485,
+        "built": 2008,
+        "operator": "Seapeak"
+      },
+      {
+        "imo": 9360908,
+        "name": "Al Khuwair",
+        "class": "LNG",
+        "dwt": 109485,
+        "built": 2008,
+        "operator": "Seapeak"
+      },
+      {
+        "imo": 9397286,
+        "name": "Al Ghashamiya",
+        "class": "LNG",
+        "dwt": 108988,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9970571,
+        "name": "Venture Iberia",
+        "class": "LNG",
+        "dwt": 108007,
+        "built": 2025,
+        "operator": "Venture Global LNG"
+      },
+      {
+        "imo": 9970569,
+        "name": "Venture Pelican",
+        "class": "LNG",
+        "dwt": 107840,
+        "built": 2025,
+        "operator": "Venture Global LNG"
+      },
+      {
+        "imo": 9970583,
+        "name": "Venture Cameron",
+        "class": "LNG",
+        "dwt": 107821,
+        "built": 2026,
+        "operator": "Venture Global LNG"
+      },
+      {
+        "imo": 9886744,
+        "name": "Clean Copano",
+        "class": "LNG",
+        "dwt": 107817,
+        "built": 2022,
+        "operator": "Cheniere Energy"
+      },
+      {
+        "imo": 9886732,
+        "name": "Clean Cajun",
+        "class": "LNG",
+        "dwt": 107662,
+        "built": 2022,
+        "operator": "Cheniere Energy"
+      },
+      {
+        "imo": 9943504,
+        "name": "Clean Future",
+        "class": "LNG",
+        "dwt": 107661,
+        "built": 2024,
+        "operator": "Dynagas"
+      },
+      {
+        "imo": 9943487,
+        "name": "Clean Destiny",
+        "class": "LNG",
+        "dwt": 107637,
+        "built": 2023,
+        "operator": "Cheniere Energy"
+      },
+      {
+        "imo": 9943499,
+        "name": "Clean Vitality",
+        "class": "LNG",
+        "dwt": 107621,
+        "built": 2024,
+        "operator": "Cheniere Energy"
+      },
+      {
+        "imo": 9994046,
+        "name": "Clean Brownsville",
+        "class": "LNG",
+        "dwt": 107578,
+        "built": 2026,
+        "operator": "Dynagas"
+      },
+      {
+        "imo": 9943475,
+        "name": "Clean Resolution",
+        "class": "LNG",
+        "dwt": 107573,
+        "built": 2023,
+        "operator": "Cheniere Energy"
+      },
+      {
+        "imo": 9994008,
+        "name": "Clean Texas",
+        "class": "LNG",
+        "dwt": 107544,
+        "built": 2026,
+        "operator": "Dynagas"
+      },
+      {
+        "imo": 9994034,
+        "name": "Clean Rio Grande",
+        "class": "LNG",
+        "dwt": 107499,
+        "built": 2026,
+        "operator": "Dynagas"
+      },
+      {
+        "imo": 9967342,
+        "name": "Clean Sirocco",
+        "class": "LNG",
+        "dwt": 107398,
+        "built": 2026,
+        "operator": "Dynagas"
+      },
+      {
+        "imo": 9967328,
+        "name": "Clean Mistral",
+        "class": "LNG",
+        "dwt": 107386,
+        "built": 2025,
+        "operator": "Dynagas"
+      },
+      {
+        "imo": 9967330,
+        "name": "Clean Levant",
+        "class": "LNG",
+        "dwt": 107380,
+        "built": 2025,
+        "operator": "Dynagas"
+      },
+      {
+        "imo": 9337729,
+        "name": "Mesaimeer",
+        "class": "LNG",
+        "dwt": 107160,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9397327,
+        "name": "Al Kharaitiyat",
+        "class": "LNG",
+        "dwt": 107153,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9397339,
+        "name": "Al Rekayyat",
+        "class": "LNG",
+        "dwt": 107152,
+        "built": 2009,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9337705,
+        "name": "Al Gattara",
+        "class": "LNG",
+        "dwt": 106898,
+        "built": 2007,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9337743,
+        "name": "Al Hamla",
+        "class": "LNG",
+        "dwt": 106894,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9360843,
+        "name": "Al Thumama",
+        "class": "LNG",
+        "dwt": 104701,
+        "built": 2008,
+        "operator": "Qatar Gas Transport"
+      },
+      {
+        "imo": 9360855,
+        "name": "Al Sahla",
+        "class": "LNG",
+        "dwt": 104666,
+        "built": 2008,
+        "operator": "RasGas"
+      },
+      {
+        "imo": 9360867,
+        "name": "Al Utouriya",
+        "class": "LNG",
+        "dwt": 104561,
+        "built": 2008,
+        "operator": "RasGas"
+      },
+      {
+        "imo": 9413327,
+        "name": "BW Clear Sky",
+        "class": "LNG",
+        "dwt": 100395,
+        "built": 2011,
+        "operator": "BW LNG"
+      },
+      {
+        "imo": 9613135,
+        "name": "Papua",
+        "class": "LNG",
+        "dwt": 100030,
+        "built": 2015,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9918042,
+        "name": "Nikolay Basov",
+        "class": "LNG",
+        "dwt": 99859,
+        "built": 2026,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9918016,
+        "name": "Lev Landau",
+        "class": "LNG",
+        "dwt": 99824,
+        "built": 2026,
+        "operator": "Daewoo"
+      },
+      {
+        "imo": 9918004,
+        "name": "Pyotr Kapitsa",
+        "class": "LNG",
+        "dwt": 99824,
+        "built": 2026,
+        "operator": "Hanwha"
+      },
+      {
+        "imo": 9918028,
+        "name": "Zhores Alferov",
+        "class": "LNG",
+        "dwt": 99824,
+        "built": 2026,
+        "operator": "Daewoo"
+      },
+      {
+        "imo": 9918030,
+        "name": "Ilya Mechnikov",
+        "class": "LNG",
+        "dwt": 99817,
+        "built": 2026,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9692014,
+        "name": "LNG Lagos II",
+        "class": "LNG",
+        "dwt": 98954,
+        "built": 2016,
+        "operator": "Nigeria LNG"
+      },
+      {
+        "imo": 9877133,
+        "name": "LNG Rosenrot",
+        "class": "LNG",
+        "dwt": 98936,
+        "built": 2021,
+        "operator": "Mizuho Sangyo"
+      },
+      {
+        "imo": 9877145,
+        "name": "Gail Bhuwan",
+        "class": "LNG",
+        "dwt": 98882,
+        "built": 2021,
+        "operator": "Shunzan Kaiun"
+      },
+      {
+        "imo": 9771913,
+        "name": "LNG Schneeweisschen",
+        "class": "LNG",
+        "dwt": 98747,
+        "built": 2018,
+        "operator": "Uniper"
+      },
+      {
+        "imo": 9761853,
+        "name": "Hyundai Peacepia",
+        "class": "LNG",
+        "dwt": 98344,
+        "built": 2017,
+        "operator": "Hyundai LNG Shipping"
+      },
+      {
+        "imo": 9761841,
+        "name": "Hyundai Princepia",
+        "class": "LNG",
+        "dwt": 98344,
+        "built": 2017,
+        "operator": "Korea Gas"
+      },
+      {
+        "imo": 9761839,
+        "name": "Sm Seahawk",
+        "class": "LNG",
+        "dwt": 98064,
+        "built": 2017,
+        "operator": "SM Line"
+      },
+      {
+        "imo": 1109047,
+        "name": "SAMSUNG",
+        "class": "LNG",
+        "dwt": 98000,
+        "built": 2027,
+        "operator": "Jera Trading"
+      },
+      {
+        "imo": 9761827,
+        "name": "Sm Eagle",
+        "class": "LNG",
+        "dwt": 97975,
+        "built": 2017,
+        "operator": "Korea Gas"
+      },
+      {
+        "imo": 9796793,
+        "name": "Bushu Maru",
+        "class": "LNG",
+        "dwt": 97955,
+        "built": 2019,
+        "operator": "Jera Trading"
+      },
+      {
+        "imo": 9774628,
+        "name": "LNG Juno",
+        "class": "LNG",
+        "dwt": 97917,
+        "built": 2018,
+        "operator": "Osaka Gas"
+      },
+      {
+        "imo": 9796781,
+        "name": "Nohshu Maru",
+        "class": "LNG",
+        "dwt": 97902,
+        "built": 2019,
+        "operator": "Jera Trading"
+      },
+      {
+        "imo": 9885996,
+        "name": "Mol Hestia",
+        "class": "LNG",
+        "dwt": 97799,
+        "built": 2021,
+        "operator": "MOL LNG Transport Europe"
+      },
+      {
+        "imo": 9414632,
+        "name": "Sevilla Knutsen",
+        "class": "LNG",
+        "dwt": 97793,
+        "built": 2010,
+        "operator": "Shell"
+      },
+      {
+        "imo": 9434266,
+        "name": "Valencia Knutsen",
+        "class": "LNG",
+        "dwt": 97793,
+        "built": 2010,
+        "operator": "Shell"
+      },
+      {
+        "imo": 9401295,
+        "name": "Barcelona Knutsen",
+        "class": "LNG",
+        "dwt": 97729,
+        "built": 2010,
+        "operator": "Shell"
+      },
+      {
+        "imo": 1018688,
+        "name": "Celsius Goa",
+        "class": "LNG",
+        "dwt": 97703,
+        "built": 2026,
+        "operator": "Celsius Shipping"
+      },
+      {
+        "imo": 1140792,
+        "name": "Hanwha Ocean 2609",
+        "class": "LNG",
+        "dwt": 97700,
+        "built": 2028,
+        "operator": "Hanwha"
+      },
+      {
+        "imo": 1115072,
+        "name": "HANWHA OCEAN",
+        "class": "LNG",
+        "dwt": 97700,
+        "built": 2027,
+        "operator": "Hanwha"
+      },
+      {
+        "imo": 1115084,
+        "name": "HANWHA OCEAN",
+        "class": "LNG",
+        "dwt": 97700,
+        "built": 2027,
+        "operator": "Hanwha"
+      },
+      {
+        "imo": 9918054,
+        "name": "Nikolay Semenov",
+        "class": "LNG",
+        "dwt": 97700,
+        "built": 2026,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9770440,
+        "name": "Marvel Heron",
+        "class": "LNG",
+        "dwt": 97654,
+        "built": 2019,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1018676,
+        "name": "Celsius Georgetown",
+        "class": "LNG",
+        "dwt": 97552,
+        "built": 2026,
+        "operator": "Celsius Shipping"
+      },
+      {
+        "imo": 9904651,
+        "name": "Prism Diversity",
+        "class": "LNG",
+        "dwt": 97494,
+        "built": 2022,
+        "operator": "SK"
+      },
+      {
+        "imo": 9888481,
+        "name": "Prism Courage",
+        "class": "LNG",
+        "dwt": 97494,
+        "built": 2021,
+        "operator": "SK"
+      },
+      {
+        "imo": 9810549,
+        "name": "Prism Agility",
+        "class": "LNG",
+        "dwt": 97494,
+        "built": 2019,
+        "operator": "SK"
+      },
+      {
+        "imo": 9810551,
+        "name": "Prism Brilliance",
+        "class": "LNG",
+        "dwt": 97494,
+        "built": 2019,
+        "operator": "SK"
+      },
+      {
+        "imo": 9837066,
+        "name": "Saros",
+        "class": "LNG",
+        "dwt": 97169,
+        "built": 2020,
+        "operator": "BOTAS Petroleum Pipeline Corporation"
+      },
+      {
+        "imo": 9768368,
+        "name": "Boris Vilkitsky",
+        "class": "LNG",
+        "dwt": 96958,
+        "built": 2017,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9750658,
+        "name": "Vladimir Vize",
+        "class": "LNG",
+        "dwt": 96852,
+        "built": 2018,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9768526,
+        "name": "Nikolay Zubov",
+        "class": "LNG",
+        "dwt": 96847,
+        "built": 2019,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9768382,
+        "name": "Georgiy Brusilov",
+        "class": "LNG",
+        "dwt": 96847,
+        "built": 2018,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9750701,
+        "name": "Vladimir Rusanov",
+        "class": "LNG",
+        "dwt": 96844,
+        "built": 2018,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9750737,
+        "name": "Vladimir Voronin",
+        "class": "LNG",
+        "dwt": 96840,
+        "built": 2019,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9750696,
+        "name": "Eduard Toll",
+        "class": "LNG",
+        "dwt": 96840,
+        "built": 2017,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9750672,
+        "name": "Yakov Gakkel",
+        "class": "LNG",
+        "dwt": 96839,
+        "built": 2019,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9750725,
+        "name": "Nikolay Yevgenov",
+        "class": "LNG",
+        "dwt": 96822,
+        "built": 2019,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9750660,
+        "name": "Nikolay Urvantsev",
+        "class": "LNG",
+        "dwt": 96779,
+        "built": 2019,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9737187,
+        "name": "Chris. De Marge",
+        "class": "LNG",
+        "dwt": 96779,
+        "built": 2016,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9768394,
+        "name": "Boris Davydov",
+        "class": "LNG",
+        "dwt": 96766,
+        "built": 2018,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9768370,
+        "name": "Fedor Litke",
+        "class": "LNG",
+        "dwt": 96766,
+        "built": 2017,
+        "operator": "Yamal LNG"
+      },
+      {
+        "imo": 9477593,
+        "name": "Ribera Del Duero Knutsen",
+        "class": "LNG",
+        "dwt": 96740,
+        "built": 2010,
+        "operator": "Gas Natural Fenosa"
+      }
+    ],
+    "lpg": [
+      {
+        "imo": 1187312,
+        "name": "HD Hyundai Hi 8488",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187324,
+        "name": "HD Hyundai Hi 8489",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2030,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1176064,
+        "name": "Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 66800,
+        "built": 2029,
+        "operator": "OceanGold Tankers"
+      },
+      {
+        "imo": 1176026,
+        "name": "Jiangnan Sy H2797",
+        "class": "VLGC",
+        "dwt": 64400,
+        "built": 2029,
+        "operator": "Thenamaris"
+      },
+      {
+        "imo": 1176038,
+        "name": "Jiangnan Sy H2798",
+        "class": "VLGC",
+        "dwt": 64400,
+        "built": 2029,
+        "operator": "Thenamaris"
+      },
+      {
+        "imo": 1183316,
+        "name": "Hanwha Ocean 2380",
+        "class": "VLGC",
+        "dwt": 63968,
+        "built": 2029,
+        "operator": "Zodiac Maritime"
+      },
+      {
+        "imo": 1183328,
+        "name": "Hanwha Ocean 2381",
+        "class": "VLGC",
+        "dwt": 63968,
+        "built": 2029,
+        "operator": "Zodiac Maritime"
+      },
+      {
+        "imo": 1183330,
+        "name": "Hanwha Ocean 2382",
+        "class": "VLGC",
+        "dwt": 63968,
+        "built": 2029,
+        "operator": "Zodiac Maritime"
+      },
+      {
+        "imo": 1153983,
+        "name": "Jiangnan H2970",
+        "class": "VLGC",
+        "dwt": 62600,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1164918,
+        "name": "Samsung 2780",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187269,
+        "name": "HD Hyundai Hi 8483",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187271,
+        "name": "HD Hyundai Hi 8484",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187283,
+        "name": "HD Hyundai Hi 8485",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187295,
+        "name": "HD Hyundai Hi 8486",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187300,
+        "name": "HD Hyundai Hi 8487",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183055,
+        "name": "HD Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183067,
+        "name": "HD Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183079,
+        "name": "HD Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183081,
+        "name": "HD Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183093,
+        "name": "HD Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1183108,
+        "name": "HD Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1077880,
+        "name": "Jiangsu Yangzi-Mitsui",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1077892,
+        "name": "JIANGSU YANGZI-MITSUI",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2029,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1182130,
+        "name": "HD Hyundai Hi 3651",
+        "class": "VLGC",
+        "dwt": 58297,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1180819,
+        "name": "Hyundai Ulsan 3652",
+        "class": "VLGC",
+        "dwt": 58087,
+        "built": 2029,
+        "operator": "KSS Line"
+      },
+      {
+        "imo": 1180821,
+        "name": "Hyundai Ulsan 3653",
+        "class": "VLGC",
+        "dwt": 58087,
+        "built": 2029,
+        "operator": "KSS Line"
+      },
+      {
+        "imo": 1180833,
+        "name": "Hyundai Ulsan 3654",
+        "class": "VLGC",
+        "dwt": 58087,
+        "built": 2029,
+        "operator": "KSS Line"
+      },
+      {
+        "imo": 1195668,
+        "name": "Grand Luxe",
+        "class": "VLGC",
+        "dwt": 57723,
+        "built": 2029,
+        "operator": "Iino Kaiun Kaisha"
+      },
+      {
+        "imo": 1190175,
+        "name": "Hyundai Ulsan 3669",
+        "class": "VLGC",
+        "dwt": 57500,
+        "built": 2029,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1186215,
+        "name": "Samsung 2804",
+        "class": "VLGC",
+        "dwt": 56000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1186227,
+        "name": "Samsung 2805",
+        "class": "VLGC",
+        "dwt": 56000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1176076,
+        "name": "Samsung Hi 2795",
+        "class": "VLGC",
+        "dwt": 56000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1176088,
+        "name": "Samsung Hi 2796",
+        "class": "VLGC",
+        "dwt": 56000,
+        "built": 2029,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1177616,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 55231,
+        "built": 2029,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1177628,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 55231,
+        "built": 2029,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1177630,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 55231,
+        "built": 2029,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1176052,
+        "name": "Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 66800,
+        "built": 2028,
+        "operator": "OceanGold Tankers"
+      },
+      {
+        "imo": 1132240,
+        "name": "HD Hyundai Ulsan 3701",
+        "class": "VLGC",
+        "dwt": 66555,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1132252,
+        "name": "HD Hyundai Ulsan 3702",
+        "class": "VLGC",
+        "dwt": 66555,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1155137,
+        "name": "Hyundai Ulsan 3631",
+        "class": "VLGC",
+        "dwt": 65916,
+        "built": 2028,
+        "operator": "Benelux Overseas"
+      },
+      {
+        "imo": 1155149,
+        "name": "Hyundai Ulsan 3632",
+        "class": "VLGC",
+        "dwt": 65916,
+        "built": 2028,
+        "operator": "Benelux Overseas"
+      },
+      {
+        "imo": 1181837,
+        "name": "Dubai Quantum",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1195151,
+        "name": "Hengli Dalian HL-G93k-11",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1195163,
+        "name": "Hengli Dalian HL-G93k-12",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1195175,
+        "name": "Hengli Dalian HL-G93k-13",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1195187,
+        "name": "Hengli Dalian HL-G93k-14",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1193804,
+        "name": "Hengli HL-G93k-10",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1192927,
+        "name": "Hengli HL-G93k-8",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1193799,
+        "name": "Hengli HL-G93k-9",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1192915,
+        "name": "Hnegli Hi HL-G93k-7",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1091733,
+        "name": "JIANGNAN",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2028,
+        "operator": "ADMIC"
+      },
+      {
+        "imo": 1114987,
+        "name": "HYUNDAI ULSAN",
+        "class": "VLGC",
+        "dwt": 65414,
+        "built": 2028,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1114999,
+        "name": "HYUNDAI ULSAN",
+        "class": "VLGC",
+        "dwt": 65414,
+        "built": 2028,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1181849,
+        "name": "Dubai Fusion",
+        "class": "VLGC",
+        "dwt": 65000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1104463,
+        "name": "JIANGNAN H2850",
+        "class": "VLGC",
+        "dwt": 65000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1104475,
+        "name": "JIANGNAN H2851",
+        "class": "VLGC",
+        "dwt": 65000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1163744,
+        "name": "Jiangnan Sy H2963",
+        "class": "VLGC",
+        "dwt": 64600,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1163756,
+        "name": "Jiangnan Sy H2965",
+        "class": "VLGC",
+        "dwt": 64600,
+        "built": 2028,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1153971,
+        "name": "Jiangnan H2969",
+        "class": "VLGC",
+        "dwt": 64400,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1050478,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 63690,
+        "built": 2028,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1050480,
+        "name": "Nord Ocean",
+        "class": "VLGC",
+        "dwt": 63690,
+        "built": 2028,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1175981,
+        "name": "Jiangnan Sy H2907",
+        "class": "VLGC",
+        "dwt": 63000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1175993,
+        "name": "Jiangnan Sy H2908",
+        "class": "VLGC",
+        "dwt": 63000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1176002,
+        "name": "Jiangnan Sy H2909",
+        "class": "VLGC",
+        "dwt": 63000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1116624,
+        "name": "SAMSUNG",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2028,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1116636,
+        "name": "SAMSUNG",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2028,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1164906,
+        "name": "Samsung 2779",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1187257,
+        "name": "HD Hyundai Hi 8482",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1177642,
+        "name": "HD Hyundai Samho 8382",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1177654,
+        "name": "HD Hyundai Samho 8383",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1167647,
+        "name": "Hyundai Samho 8372",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2028,
+        "operator": "Aygaz"
+      },
+      {
+        "imo": 1077866,
+        "name": "Jiangsu Yangzi-Mitsui",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2028,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1077878,
+        "name": "Jiangsu Yangzi-Mitsui",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2028,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1182128,
+        "name": "HD Hyundai Hi 3650",
+        "class": "VLGC",
+        "dwt": 58297,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1170175,
+        "name": "Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Transpetrol"
+      },
+      {
+        "imo": 1170187,
+        "name": "Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Transpetrol"
+      },
+      {
+        "imo": 1075806,
+        "name": "HYUNDAI SAMHO",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1075818,
+        "name": "HYUNDAI SAMHO",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1061972,
+        "name": "HYUNDAI SAMHO 8268",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1061984,
+        "name": "HYUNDAI SAMHO 8269",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1061996,
+        "name": "HYUNDAI SAMHO 8270",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1062005,
+        "name": "Hyundai Samho 8271",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1130553,
+        "name": "Namura 750",
+        "class": "VLGC",
+        "dwt": 57000,
+        "built": 2028,
+        "operator": "MOL Energia"
+      },
+      {
+        "imo": 1130565,
+        "name": "Namura 751",
+        "class": "VLGC",
+        "dwt": 57000,
+        "built": 2028,
+        "operator": "MOL Energia"
+      },
+      {
+        "imo": 1177604,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 55231,
+        "built": 2028,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1076044,
+        "name": "HYUNDAI ULSAN",
+        "class": "VLGC",
+        "dwt": 55231,
+        "built": 2028,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1076056,
+        "name": "HYUNDAI ULSAN",
+        "class": "VLGC",
+        "dwt": 55231,
+        "built": 2028,
+        "operator": "BGN"
+      },
+      {
+        "imo": 1163110,
+        "name": "Kawasaki Sakaide 1776",
+        "class": "VLGC",
+        "dwt": 55000,
+        "built": 2028,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1182427,
+        "name": "Kawasaki Sakaide 1778",
+        "class": "VLGC",
+        "dwt": 55000,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1110955,
+        "name": "HD HYUNDAI ULSAN 3552",
+        "class": "VLGC",
+        "dwt": 51550,
+        "built": 2028,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1079503,
+        "name": "Jiangnan H2847",
+        "class": "VLGC",
+        "dwt": 95000,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1090612,
+        "name": "Hyundai Samho",
+        "class": "VLGC",
+        "dwt": 86000,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1090600,
+        "name": "Hyundai Samho 8286",
+        "class": "VLGC",
+        "dwt": 86000,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1079450,
+        "name": "Jiangnan H2842",
+        "class": "VLGC",
+        "dwt": 83670,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1079462,
+        "name": "Jiangnan H2843",
+        "class": "VLGC",
+        "dwt": 83670,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1079474,
+        "name": "Jiangnan H2844",
+        "class": "VLGC",
+        "dwt": 83670,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1079486,
+        "name": "Jiangnan H2845",
+        "class": "VLGC",
+        "dwt": 83670,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1079498,
+        "name": "Jiangnan H2846",
+        "class": "VLGC",
+        "dwt": 83670,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1100314,
+        "name": "Dubai Catalyst",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1145352,
+        "name": "Dubai Element",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1100302,
+        "name": "Hengli HL-G93k-2",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2027,
+        "operator": "ADMIC"
+      },
+      {
+        "imo": 1091680,
+        "name": "JIANGNAN",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2027,
+        "operator": "ADMIC"
+      },
+      {
+        "imo": 1017127,
+        "name": "Orchid Cove",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1017139,
+        "name": "Sequoia Cove",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1041142,
+        "name": "Terra Rose",
+        "class": "VLGC",
+        "dwt": 65500,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1080899,
+        "name": "Jiangnam H2841",
+        "class": "VLGC",
+        "dwt": 65000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1080887,
+        "name": "Jiangnan H2840",
+        "class": "VLGC",
+        "dwt": 65000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1041154,
+        "name": "Terra Sycamore",
+        "class": "VLGC",
+        "dwt": 65000,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1058743,
+        "name": "HYUNDAI ULSAN",
+        "class": "VLGC",
+        "dwt": 64789,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1058755,
+        "name": "HYUNDAI ULSAN",
+        "class": "VLGC",
+        "dwt": 64789,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1050569,
+        "name": "Samsung 2690",
+        "class": "VLGC",
+        "dwt": 64000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1053779,
+        "name": "SAMSUNG 2692",
+        "class": "VLGC",
+        "dwt": 64000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1033999,
+        "name": "Argonaftis",
+        "class": "VLGC",
+        "dwt": 63968,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1033987,
+        "name": "Aristaios",
+        "class": "VLGC",
+        "dwt": 63968,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1033963,
+        "name": "Terra Clove",
+        "class": "VLGC",
+        "dwt": 63968,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1033975,
+        "name": "Terra Moss",
+        "class": "VLGC",
+        "dwt": 63968,
+        "built": 2027,
+        "operator": "Eastern Pacific Shipping"
+      },
+      {
+        "imo": 1099280,
+        "name": "HYUNDAI ULSAN 3540",
+        "class": "VLGC",
+        "dwt": 63698,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1099292,
+        "name": "HYUNDAI ULSAN 3541",
+        "class": "VLGC",
+        "dwt": 63698,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1050129,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 63690,
+        "built": 2027,
+        "operator": "Alpha Gas"
+      },
+      {
+        "imo": 1050466,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 63690,
+        "built": 2027,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 1049900,
+        "name": "Pasco Yumiko",
+        "class": "VLGC",
+        "dwt": 63690,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1088011,
+        "name": "Acs SP Invictus",
+        "class": "VLGC",
+        "dwt": 63500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1088009,
+        "name": "Acs SP Odysseys",
+        "class": "VLGC",
+        "dwt": 63500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1098975,
+        "name": "Hyundai Ulsan",
+        "class": "VLGC",
+        "dwt": 63000,
+        "built": 2027,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1099163,
+        "name": "Hanwha Ocean",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1099175,
+        "name": "HANWHA OCEAN",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1105601,
+        "name": "SAMSUNG",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2027,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1105613,
+        "name": "SAMSUNG",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2027,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1105625,
+        "name": "SAMSUNG",
+        "class": "VLGC",
+        "dwt": 62500,
+        "built": 2027,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1049883,
+        "name": "Ethane Diamond",
+        "class": "VLGC",
+        "dwt": 62482,
+        "built": 2027,
+        "operator": "Reliance"
+      },
+      {
+        "imo": 1049895,
+        "name": "Ethane Jade",
+        "class": "VLGC",
+        "dwt": 62482,
+        "built": 2027,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 1051252,
+        "name": "Pi Green Lake",
+        "class": "VLGC",
+        "dwt": 62317,
+        "built": 2027,
+        "operator": "Ineos"
+      },
+      {
+        "imo": 1049156,
+        "name": "Purus Ineos Lillo",
+        "class": "VLGC",
+        "dwt": 62317,
+        "built": 2027,
+        "operator": "Ineos"
+      },
+      {
+        "imo": 1079008,
+        "name": "Al Aryam",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1079096,
+        "name": "Al Hosn",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1079022,
+        "name": "Al Muzn",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1079137,
+        "name": "Al Saad",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1079034,
+        "name": "Al Sila",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1079149,
+        "name": "Al Taair",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1039618,
+        "name": "Jiangnan H2754",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Pacific Gas HK Holdings"
+      },
+      {
+        "imo": 1039620,
+        "name": "Jiangnan H2755",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Pacific Gas HK Holdings"
+      },
+      {
+        "imo": 1039668,
+        "name": "Jiangnan H2780",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Pacific Gas HK Holdings"
+      },
+      {
+        "imo": 1039656,
+        "name": "Pacific Phecda",
+        "class": "VLGC",
+        "dwt": 61500,
+        "built": 2027,
+        "operator": "Pacific Gas HK Holdings"
+      },
+      {
+        "imo": 1050583,
+        "name": "Hanwha Ocean",
+        "class": "VLGC",
+        "dwt": 61000,
+        "built": 2027,
+        "operator": "Alpha Gas"
+      },
+      {
+        "imo": 1077581,
+        "name": "Jiangnan",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1077593,
+        "name": "Jiangnan",
+        "class": "VLGC",
+        "dwt": 60000,
+        "built": 2027,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1056848,
+        "name": "JIANGNAN H2824",
+        "class": "VLGC",
+        "dwt": 59800,
+        "built": 2027,
+        "operator": "Ineos"
+      },
+      {
+        "imo": 1056862,
+        "name": "JIANGNAN H2826",
+        "class": "VLGC",
+        "dwt": 59800,
+        "built": 2027,
+        "operator": "Ineos"
+      },
+      {
+        "imo": 1042598,
+        "name": "Gaz Rose",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2027,
+        "operator": "Naftomar Shipping"
+      },
+      {
+        "imo": 1044998,
+        "name": "Hyundai Samho 8266",
+        "class": "VLGC",
+        "dwt": 58000,
+        "built": 2027,
+        "operator": "Unknown"
+      }
+    ]
+  }
+}

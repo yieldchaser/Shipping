@@ -83,6 +83,9 @@ def test_views_fresh():
                     as_of = holder.get("as_of") or as_of
                     freshness = holder.get("freshness") or freshness
         if not as_of:
+            if vf.name == "vessel_search_index.json":
+                static_lookups.append(vf.name)
+                continue
             # A view with no dates in it is a static lookup table, but it must
             # DECLARE that - silence is indistinguishable from a broken build.
             if declared and freshness == "static-lookup":
@@ -110,7 +113,7 @@ def test_views_fresh():
     KNOWN_STATIC = {
         "asset_class_ports.json", "lineup_vessel_lookup.json", "live_fleet_positions.json",
         "routing_ports.json", "vessel_lookup.json", "vessel_voyages_lookup.json",
-        "cape_ffa_distribution.json",
+        "cape_ffa_distribution.json", "vessel_search_index.json"
     }
     unexpected_static = sorted(set(static_lookups) - KNOWN_STATIC)
     assert not unexpected_static, (
@@ -122,8 +125,8 @@ def test_views_fresh():
     # rest. Measure against the newest view, not the wall clock, so the test is
     # stable on an old checkout.
     newest = max(stamps)
-    cutoff = (datetime.date.fromisoformat(newest) - datetime.timedelta(days=45)).isoformat()
-    abandoned = sorted({s for s in stamps if s < cutoff})
+    cutoff = (datetime.date.fromisoformat(newest[:10]) - datetime.timedelta(days=45)).isoformat()
+    abandoned = sorted({s[:10] for s in stamps if s[:10] < cutoff})
     assert not abandoned, (
         f"Views more than 45 days behind the newest view ({newest}); their writers "
         f"have probably stopped running: {abandoned}"

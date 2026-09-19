@@ -259,6 +259,7 @@ def build_port_queues():
     payload = {
         "header": {
             "source": "Signal Ocean Live Commercial Fleet & IMF PortWatch Gateway",
+            "as_of": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
             "generated_utc": datetime.now(timezone.utc).isoformat(),
             "ports_indexed": len(ports_map),
             "total_anchored": total_anchored_found,

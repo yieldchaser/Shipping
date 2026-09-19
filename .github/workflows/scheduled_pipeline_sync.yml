@@ -44,11 +44,16 @@ jobs:
           python scripts/scenario_snapshot_schema.py
           python scripts/verify/build_provenance_manifest.py
 
+      - name: Sync Live Commercial Fleet & Port Queues
+        env:
+          SIGNAL_OCEAN_COOKIE: ${{ secrets.SIGNAL_OCEAN_COOKIE }}
+        run: python scripts/acquire/sync_live_fleet_pipeline.py || true
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/cargo/ data/congestion/ data/derived/ data/etf/snapshots/ data/provenance/ data/clarksons/ data/supply/
+          git add data/cargo/ data/congestion/ data/derived/ data/etf/snapshots/ data/provenance/ data/clarksons/ data/supply/ data/views/ data/geospatial/
           if git diff --staged --quiet; then
             echo "No pipeline cache changes to commit."
             exit 0

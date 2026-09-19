@@ -1,5 +1,7 @@
 # Environment
 .env
+.signal_session
+.signal_credentials
 
 # Python
 __pycache__/
