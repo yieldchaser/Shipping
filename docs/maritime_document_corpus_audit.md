@@ -30,8 +30,8 @@ While the primary document scan records **18,858 native PDFs (11.32 GB)** across
    ├─► 1. Multi-Broker Weekly Reports (SSY, Fearnleys, Intermodal, Allied...): 3,452 PDFs  │ (2,744.8 MB)
    ├─► 2. Hellenic Spot & Sector Streams (Iron Ore MMi, Demolition, Shipbldg): 3,965 PDFs  │ (2,201.6 MB)
    │      ↳ Companion Multimodal Assets (6,585 JPG Charts, 3,201 HTML Articles, 326 PNGs)  │ (1,002.5 MB)
-   ├─► 3. The Signal Group Maritime Intelligence (Monitors, Newsroom, Charts): 2,309 Files │ (  304.2 MB)
-   │      ↳ 247 Weekly Monitors (.md), 188 Newsroom (.md), 1,372 Charts (.png), 497 HTMLs   │
+   ├─► 3. The Signal Group Maritime Intelligence (Monitors, Newsroom, Charts): 2,369 Files │ (  318.1 MB)
+   │      ↳ 249 Weekly Monitors (.md), 189 Newsroom (.md), 1,426 Charts (.png), 500 HTMLs   │
    ├─► 4. Poten & Partners Tanker Opinions (2005 – 2026 Complete Archive):     1,085 PDFs  │ (  277.4 MB)
    ├─► 5. Drewry Maritime Intelligence (AIS PDFs + 547 Markdown Sector Reports): 823 Files │ (  503.9 MB)
    ├─► 6. Pilbara Ports Authority (Port Hedland & Dampier Throughput):           492 PDFs  │ (   50.6 MB)
@@ -50,11 +50,11 @@ While the primary document scan records **18,858 native PDFs (11.32 GB)** across
 | Asset Class / File Type | Extension | Count | Total Size | Primary Role in System |
 | :--- | :--- | :---: | :---: | :--- |
 | **Native Document PDF** | `.pdf` | **18,858** | **11,593.9 MB (11.32 GB)** | Original scanned broker reports, bank research, textbooks, SEC filings |
-| **Markdown Reports & Articles** | `.md` | **38,277** | **753.9 MB** | Normalized text representations, opinion articles, knowledge docs, Signal monitors |
+| **Markdown Reports & Articles** | `.md` | **38,280** | **754.2 MB** | Normalized text representations, opinion articles, knowledge docs, Signal monitors |
 | **Visual Charts & Infographics** | `.jpg` / `.jpeg` | **34,843** | **6,022.2 MB** | Embedded broker charts, Hellenic market figures, fleet layouts, port maps |
-| **Diagrams & Vector Art** | `.png` / `.avif` | **34,749** | **4,881.9 MB** | High-res freight charts, Signal Ocean curves, technical diagrams, route schematics |
+| **Diagrams & Vector Art** | `.png` / `.avif` | **34,803** | **4,895.7 MB** | High-res freight charts, Signal Ocean curves, technical diagrams, route schematics |
 | **Structured Metadata JSON** | `.json` | **32,242** | **1,169.7 MB** | Parsed tables, document metadata, route matrices, desk summaries, commodity trees |
-| **Original HTML Provenance Dumps** | `.html` | **29,713** | **565.9 MB** | Raw scraped web articles from Signal Ocean, Hellenic, Baltic Exchange, Breakwave |
+| **Original HTML Provenance Dumps** | `.html` | **29,716** | **567.7 MB** | Raw scraped web articles from Signal Ocean, Hellenic, Baltic Exchange, Breakwave |
 | **Master Tabular CSVs** | `.csv` | **1,008** | **887.1 MB** | Time charter indices, port calls, iron ore shipments, mine exports, signal manifest |
 | **Streaming JSON Lines** | `.jsonl` | **307** | **995.9 MB** | `documents.jsonl` manifest, high-frequency FFA ticks, trade logs |
 | **High-Density Parquet & Archives** | `.parquet` / `.gz` | **41** | **281.8 MB** | PortWatch AIS congestion, historical vessel tracking, high-frequency tick archives |
@@ -66,17 +66,17 @@ While the primary document scan records **18,858 native PDFs (11.32 GB)** across
 ## Forensic Mapping: What Is Currently Stored
 
 ### 1. The Signal Group Maritime Intelligence (`reports/signal/`)
-*Forensically verified September 19, 2026: 2,309 files, 304.2 MB across 6 specialized directories.*
+*Forensically verified & updated September 19, 2026: 2,369 files, 318.1 MB across 6 specialized directories.*
 
-Signal Ocean and Signal Maritime represent a dedicated commercial intelligence stream harvested via [`scripts/scrapers/fetch_signal_reports.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_signal_reports.py) and [`scripts/scrapers/download_signal_images.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/download_signal_images.py). This is **not** an external bookmark collection; it is a **fully localized, offline-readable analytical intelligence repository**:
+Signal Ocean and Signal Maritime represent a dedicated commercial intelligence stream harvested via [`scripts/scrapers/fetch_signal_reports.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/fetch_signal_reports.py) and [`scripts/scrapers/download_signal_images.py`](file:///c:/Users/Dell/Github/Shipping/scripts/scrapers/download_signal_images.py). This is **not** an external bookmark collection; it is a **fully localized, offline-readable analytical intelligence repository with continuous weekly automation**:
 
 | Subdirectory / Component | File Type | Count | Total Size | Description & Intelligence Scope |
 | :--- | :--- | :---: | :---: | :--- |
-| **`monitors/`** | `.md` | **247** | 1.1 MB | **Clean Weekly Market Monitors**: Structured markdown reports covering Dry Bulk (117), Tankers (99), and Commodity Radars (31). Includes Capesize/Panamax ballaster trends, Arabian Gulf VLCC net supply, tonne-day growth, and Brazilian C3 rates. |
-| **`newsroom/`** | `.md` | **188** | 1.5 MB | **Analytical Research & Market Deep Dives**: Multi-page analyses of US Gulf to China WTI crude arbitrage, Red Sea tanker rerouting, Shell pool commercial management, and EU ETS/FuelEU decarbonization economics. |
-| **`images/`** | `.png` / `.avif` / `.jpeg` | **1,372** | 187.0 MB | **Visual Quantitative Charts**: 100% of these images are actively linked inside the Markdown reports. 899 files exceed 50 KB (150 exceed 200 KB). Captures proprietary Signal Ocean time-series plots, supply curves, and freight rate benchmarks. |
-| **`html/`** | `.html` | **497** | 98.5 MB | **Offline Provenance DOM Snapshots**: Full-page raw Webflow DOM captures averaging ~207 KB. Zero redirect stubs. Preserves original layout, publication timestamps, and author attributions. |
-| **`signal_manifest.csv`** | `.csv` | **1** | 0.14 MB | **Master Audit Registry**: 497 rows tracking slugs, URLs, sections (`monitors` vs `newsroom`), local file paths, categories, character counts, and stub-filter flags (66 empty press mentions safely skipped). |
+| **`monitors/`** | `.md` | **249** | 1.15 MB | **Clean Weekly Market Monitors**: Structured markdown reports covering Dry Bulk (119), Tankers (99), and Commodity Radars (31). Includes latest Week 36 & 37 2026 reports, Capesize/Panamax ballaster trends, Arabian Gulf VLCC net supply, tonne-day growth, and Brazilian C3 rates. |
+| **`newsroom/`** | `.md` | **189** | 1.48 MB | **Analytical Research & Market Deep Dives**: Multi-page analyses of US Gulf to China WTI crude arbitrage, Capesize El Niño rainfall divide, Red Sea tanker rerouting, Shell pool commercial management, and EU ETS/FuelEU decarbonization economics. |
+| **`images/`** | `.png` / `.avif` / `.jpeg` | **1,426** | 200.8 MB | **Visual Quantitative Charts**: 100% of these images are actively linked inside the Markdown reports. Captures proprietary Signal Ocean time-series plots, supply curves, and freight rate benchmarks. |
+| **`html/`** | `.html` | **500** | 100.2 MB | **Offline Provenance DOM Snapshots**: Full-page raw Webflow DOM captures averaging ~207 KB. Zero redirect stubs. Preserves original layout, publication timestamps, and author attributions. |
+| **`signal_manifest.csv`** | `.csv` | **1** | 0.14 MB | **Master Audit Registry**: 500 rows tracking slugs, URLs, sections (`monitors` vs `newsroom`), local file paths, categories, character counts, and stub-filter flags (66 empty press mentions safely skipped). |
 | **`pdfs/`** | `.pdf` | **4** | 16.1 MB | **Regulatory Whitepapers**: Referenced source whitepapers, including the *Fourth IMO GHG Study 2020 Executive Summary* (10.2 MB), *Energy Efficiency Tech for Ships* (5.9 MB), and *EU ETS Maritime Directives*. |
 
 ---
@@ -207,9 +207,9 @@ A curated library of **12 foundational reference textbooks (118.3 MB)** directly
 
 ## Processing & Weekly Ingestion Pipeline
 
-### Automated Inflow Architecture (22 GitHub Actions Workflows)
+### Automated Inflow Architecture (23 GitHub Actions Workflows)
 
-The repository operates **22 orchestrated GitHub Actions workflows**. The active document and data ingestion engines run on automated schedules:
+The repository operates **23 orchestrated GitHub Actions workflows**. The active document and data ingestion engines run on automated schedules:
 
 ```mermaid
 flowchart TD
@@ -217,7 +217,7 @@ flowchart TD
         W1["broker_reports_weekly.yml\nMon/Wed/Fri 07:00 UTC\nFri 18:00 UTC"]
         W2["broker_voice_sync.yml\nDaily 07:20 & 17:20 UTC"]
         W3["fearnleys_weekly.yml\nWed 15:45 & Thu 07:45 UTC"]
-        W_SIG["fetch_signal_reports.py\ndownload_signal_images.py\nAutomated Harvester"]
+        W_SIG["signal_reports_weekly.yml\nFri 18:30 & Mon 08:30 UTC"]
     end
 
     subgraph SpecializedSectors [Commodity & Sector Engines]
@@ -264,7 +264,7 @@ flowchart TD
 | **1. Multi-Broker Reports** | Weekly | `broker_reports_weekly.yml` | Mon/Wed/Fri 07:00 UTC + Fri 18:00 UTC *(4x/wk)* | `fetch_hsn_shipbrokers.py`, `update_intermodal_tc_rates.py`, `fetch_gibson_weekly.py`, `extract_demolition_pdfs.py` | Parsed to `reports/broker_reports/*.md`; daily indexed by `process_knowledge.py` | **100% WIRED** |
 | **2. Broker Voice & Catalog** | Daily *(2x/day)* | `broker_voice_sync.yml` | Daily 07:20 & 17:20 UTC | `daily_fearnleys_sync.py`, `build_comment_chunks.py`, `fetch_gibson_catalog.py`, `check_broker_voice_fresh.py` | Syncs Gibson catalog + Fearnleys desk comments (11.7k comments) | **100% WIRED** |
 | **3. Fearnleys Fixtures & TC** | Weekly | `fearnleys_weekly.yml` | Wed 15:45 UTC & Thu 07:45 UTC | `fetch_fearnleys_tc.py`, `fetch_fearnleys_reports.py`, `daily_fearnleys_sync.py`, `build_fearnleys_cache.py` | Updates `time_charter_rates_fearnleys.csv` and `reports/fearnleys/*.md` | **100% WIRED** |
-| **4. The Signal Group** | Weekly / Ad-hoc | Signal Scrapers Engine | Scheduled / Manual Harvester | `fetch_signal_reports.py`, `download_signal_images.py` | Parsed to `reports/signal/monitors/*.md` (247) and `reports/signal/newsroom/*.md` (188) with 1,372 local chart images | **100% WIRED** |
+| **4. The Signal Group** | Weekly *(2x/wk)* | `signal_reports_weekly.yml` | Fri 18:30 UTC & Mon 08:30 UTC | `fetch_signal_reports.py`, `download_signal_images.py` | Ingests to `reports/signal/monitors/*.md` (249) and `reports/signal/newsroom/*.md` (189) with 1,426 local chart images | **100% WIRED** |
 | **5. Hellenic Spot & Sector** | Daily / Weekly | `report_ingest.yml` | Mon–Fri 09:30 UTC (`extended`) | `hellenic_scraper.py --category all` (Iron Ore MMi, Demolition, Shipbuilding, Dry/Wet Charter) | Stored in `reports/hellenic/`; daily OCR/indexed by `process_knowledge.py` | **100% WIRED** |
 | **6. Poten Tanker Opinions** | Weekly | `poten_drewry_weekly.yml` | Every Friday 17:00 UTC | `fetch_poten_direct.py` | Extracted to `reports/poten/*.md`; indexed in `knowledge/manifests/documents.jsonl` | **100% WIRED** |
 | **7. Drewry AIS & WCI** | Weekly | `poten_drewry_weekly.yml` | Every Friday 17:00 UTC | `fetch_drewry_wci.py`, `fetch_drewry_ais_weekly.py`, `fetch_drewry_opinions_incremental.py` | PDFs to `scripts/drewry_ais_pdfs/`, Markdown to `reports/drewry/`, CSV to `drewry_wci.csv` | **100% WIRED** |
@@ -322,7 +322,7 @@ The processing engine converts incoming PDFs and web reports into a compact, sea
 
 1. **Total Machine Footprint:** **18,858 PDFs (11.32 GB)** across canonical directories and active agent worktrees; **> 51,000 multimodal files (12.10 GB)** across the full repository.
 2. **Canonical Core Collection:** **9,905 PDFs (6.49 GB)** organized across 18 major shipbroking firms, 3 Hellenic commodity streams, 21 years of Poten tanker opinions, Drewry AIS tracking, Breakwave research, Pilbara throughput reports, and 12 foundational maritime economics textbooks.
-3. **The Signal Group Intelligence Suite:** **2,309 files (304.2 MB)** comprising 247 Weekly Market Monitors (.md), 188 Market Newsroom Deep Dives (.md), 1,372 local analytical chart graphics (.png), 497 raw HTML provenance snapshots, and 4 regulatory whitepapers.
+3. **The Signal Group Intelligence Suite:** **2,369 files (318.1 MB)** comprising 249 Weekly Market Monitors (.md), 189 Market Newsroom Deep Dives (.md), 1,426 local analytical chart graphics (.png), 500 raw HTML provenance snapshots, and 4 regulatory whitepapers.
 4. **Multimodal Expansion:** **3,038 Baltic Exchange HTML fixture reports**, **547 Drewry Markdown opinion briefs**, **176 Fearnleys Markdown circulars**, and **over 25,000 localized visual chart graphics** in `reports/hellenic/` and `reports/breakwave/`.
 5. **Quantitative Datasets:** Dedicated time-series and AIS matrices in `data/` covering IMF PortWatch port congestion (214 MB), global marine bunker fuel benchmarks (186 MB), commodity balances (69 MB), FFA freight futures curves (42 MB), and global fleet coordinates (63 MB).
-6. **Automated Pipeline Health:** **22 orchestrated workflows** running reliably across GitHub Actions, with 17 active data and document pipelines continuously updating rates, fixtures, desk comments, throughput statistics, and RAG entity trees.
+6. **Automated Pipeline Health:** **23 orchestrated workflows** running reliably across GitHub Actions, with 17 active data and document pipelines continuously updating rates, fixtures, desk comments, throughput statistics, Signal Ocean intelligence, and RAG entity trees.

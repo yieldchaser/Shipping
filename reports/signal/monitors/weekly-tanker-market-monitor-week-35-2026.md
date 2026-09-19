@@ -15,7 +15,7 @@ The defining feature of the current asset market is not limited to five-year-old
 ‍
 
 
-![Chart 1.Secondhand values by age, VLCC and Suezmax, with year-on-year change.Source: Signal; benchmark values through end-August 2026.](https://cdn.prod.website-files.com/5fc15be53f2172089875e3c1/6a9e7b40665954dc632aa619_37e41995.png)
+![Chart 1.Secondhand values by age, VLCC and Suezmax, with year-on-year change.Source: Signal; benchmark values through end-August 2026.](../images/6a9e7b40665954dc632aa619_37e41995.png)
 *Chart 1.Secondhand values by age, VLCC and Suezmax, with year-on-year change.Source: Signal; benchmark values through end-August 2026.*
 
 ‍
@@ -26,13 +26,13 @@ MARKET SIGNAL:  Five-year-old VLCC and Suezmax values exceed newbuilding benchm
 ## Asset Repricing Extends to the End of the Age Curve
 
 
-![Signal Figure](https://cdn.prod.website-files.com/5fc15be53f2172089875e3c1/6a9e7a87af6898adebfc2d3e_Screenshot%202026-09-07%20at%2009.48.55.png)
+![Signal Figure](../images/6a9e7a87af6898adebfc2d3e_Screenshot 2026-09-07 at 09.48.55.png)
 *Signal Figure*
 
 A 20-year-old VLCC is assessed at $71.1m against $20.8m for scrap, a $50.3m spread, 3.4 times recycling value; one year earlier the implied spread was near $18m. For Suezmaxes, $52.1m stands against $11.9m for scrap, a $40.2m spread and 4.4 times recycling value. This gap changes the disposal decision: special-survey cost, sanctions status, insurance and vetting can still force individual removals, but on economics alone a commercially employable vintage ship is worth substantially more in continued trading than at the yard.
 
 
-![Chart 2.Vintage (20-year) price assessment vs scrap, VLCC and Suezmax.Source: Signal; benchmark values through end-August 2026.](https://cdn.prod.website-files.com/5fc15be53f2172089875e3c1/6a9e7b40665954dc632aa61c_18b6d3e9.png)
+![Chart 2.Vintage (20-year) price assessment vs scrap, VLCC and Suezmax.Source: Signal; benchmark values through end-August 2026.](../images/6a9e7b40665954dc632aa61c_18b6d3e9.png)
 *Chart 2.Vintage (20-year) price assessment vs scrap, VLCC and Suezmax.Source: Signal; benchmark values through end-August 2026.*
 
 
@@ -65,17 +65,17 @@ East of Suez, VLCC time-charter-equivalents out of the Middle East Gulf are runn
 ## Spot Rate Summary - dirty TCE, VLCC and Suezmax
 
 
-![Freight/TCE: Signal · 4 September 2026. Day/Week/Month/Quarter/Year are percentage changes.](https://cdn.prod.website-files.com/5fc15be53f2172089875e3c1/6a9e7ae1d5f65dba7b6ff173_Screenshot%202026-09-07%20at%2009.50.20.png)
+![Freight/TCE: Signal · 4 September 2026. Day/Week/Month/Quarter/Year are percentage changes.](../images/6a9e7ae1d5f65dba7b6ff173_Screenshot 2026-09-07 at 09.50.20.png)
 *Freight/TCE: Signal · 4 September 2026. Day/Week/Month/Quarter/Year are percentage changes.*
 
 
-![Chart 3.VLCC and Suezmax spot TCE, past 12 months - Middle East Gulf routes run far above western routes in both segments.Freight/TCE: Signal.](https://cdn.prod.website-files.com/5fc15be53f2172089875e3c1/6a9e7b40665954dc632aa61f_99362554.png)
+![Chart 3.VLCC and Suezmax spot TCE, past 12 months - Middle East Gulf routes run far above western routes in both segments.Freight/TCE: Signal.](../images/6a9e7b40665954dc632aa61f_99362554.png)
 *Chart 3.VLCC and Suezmax spot TCE, past 12 months - Middle East Gulf routes run far above western routes in both segments.Freight/TCE: Signal.*
 
 Laden VLCC availability at sea East of Suez has fallen 36% year on year to 122 vessels on a 30-day average, while ballast availability remains substantially higher at 204. West of Suez, laden VLCC availability increased 15% to 60 vessels, with 71 vessels in ballast. The Suezmax distribution points in the opposite direction: laden availability West of Suez rose 17% to 142 vessels, the highest level in the 2023–2026 range, while the corresponding East-of-Suez count fell 16% to 58. Ballast Suezmax availability stood at 124 vessels West of Suez and 63 East of Suez.
 
 
-![Chart 4.Ships at sea (30-day average), East vs West of Suez, laden and ballast.Ships-at-sea data: Signal. Laden labels show year-on-year change.](https://cdn.prod.website-files.com/5fc15be53f2172089875e3c1/6a9e7b40665954dc632aa622_cffdabbd.png)
+![Chart 4.Ships at sea (30-day average), East vs West of Suez, laden and ballast.Ships-at-sea data: Signal. Laden labels show year-on-year change.](../images/6a9e7b40665954dc632aa622_cffdabbd.png)
 *Chart 4.Ships at sea (30-day average), East vs West of Suez, laden and ballast.Ships-at-sea data: Signal. Laden labels show year-on-year change.*
 
 

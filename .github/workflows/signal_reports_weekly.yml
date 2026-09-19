@@ -1,0 +1,60 @@
+name: Weekly Signal Ocean Intelligence Ingest
+
+on:
+  schedule:
+    # Every Friday at 18:30 UTC (captures Friday weekly monitors) and Monday at 08:30 UTC (captures weekend releases)
+    - cron: '30 18 * * 5'
+    - cron: '30 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: signal-reports-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 pandas pillow
+
+      - name: Configure Git identity
+        run: |
+          git config user.name "signal-ingest-bot"
+          git config user.email "bot@shipping"
+
+      - name: Pull latest
+        run: git pull origin main --rebase || true
+
+      - name: Harvest Signal Reports & Articles
+        run: |
+          python scripts/scrapers/fetch_signal_reports.py
+
+      - name: Download & Localize Chart Images
+        run: |
+          python scripts/scrapers/download_signal_images.py
+
+      - name: Commit & Push New Signal Intelligence
+        run: |
+          git add reports/signal/
+          if git diff --staged --quiet; then
+            echo "No new Signal Ocean reports or chart images to commit."
+          else
+            git commit -m "chore(signal): ingest latest weekly market monitors and images [skip ci]"
+            git pull origin main --rebase || true
+            git push origin main
+          fi
