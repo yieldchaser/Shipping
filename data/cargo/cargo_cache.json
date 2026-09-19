@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-09-18T11:35:11Z",
-    "as_of": "2026-09-18",
+    "generated_at": "2026-09-19T09:15:18Z",
+    "as_of": "2026-09-19",
     "version": "2.0.0",
     "tab": "Cargo & Trade Flows"
   },
   "provenance_registry": {
     "registry_metadata": {
       "version": "2.0.0",
-      "generated_at": "2026-09-18T11:35:11Z",
-      "as_of": "2026-09-18",
+      "generated_at": "2026-09-19T09:15:18Z",
+      "as_of": "2026-09-19",
       "total_datasets": 17,
       "architecture": "Centralized Dynamic Live Ingest Registry"
     },
@@ -81125,7 +81125,7 @@
         33.5,
         32.74,
         36.1,
-        41.48
+        41.59
       ],
       "freight_note": null,
       "provenance": {
@@ -81553,7 +81553,7 @@
         12.18,
         12.43,
         14.91,
-        17.38
+        17.33
       ],
       "freight_note": null,
       "provenance": {
@@ -82452,7 +82452,7 @@
         12.18,
         12.43,
         14.91,
-        17.38
+        17.33
       ],
       "freight_note": null,
       "provenance": {
@@ -82793,7 +82793,7 @@
         19.48,
         19.39,
         19.98,
-        23.3
+        23.29
       ],
       "freight_note": null,
       "provenance": {
@@ -82954,7 +82954,7 @@
         30.05,
         31.19,
         30.24,
-        32.83
+        32.87
       ],
       "freight_note": null,
       "provenance": {
