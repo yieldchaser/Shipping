@@ -74,8 +74,8 @@
     }
   },
   "unregistered_data_files": [
-    "data/raw_sources_manifest.json",
-    "data/sgx_exhaustive_probe_report.json",
+    "data/manifests/raw_sources_manifest.json",
+    "data/derived/sgx_exhaustive_probe_report.json",
     "data/bunkers/bix_backfill_report.json",
     "data/bunkers/bix_history.csv",
     "data/bunkers/bunker_bix_macro_benchmarks.csv",

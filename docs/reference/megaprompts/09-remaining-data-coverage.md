@@ -111,7 +111,7 @@ do not restructure anything else in ETFS. If adding it risks the existing layout
 BROKER DESK → Equities & Owners instead and record the decision.
 
 ### F. Contract rulebooks → **REFERENCE layer**
-`data/rulebooks/` + `scripts/contract_spec_registry.py` + `data/sgx_exhaustive_probe_report.json`
+`data/rulebooks/` + `scripts/contract_spec_registry.py` + `data/derived/sgx_exhaustive_probe_report.json`
 (contract multipliers 1,000 MT/lot, settlement tick sizes, cleared universes).
 
 Not a chart. Wire it into **tooltips and drill-downs** on SIGNALS' FFA and iron ore curves,

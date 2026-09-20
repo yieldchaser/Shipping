@@ -76,7 +76,7 @@ Singapore Exchange (SGX) is the global pricing benchmark for dry bulk freight FF
 | [`data/futures/sgx_panamax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_panamax_futures_history.csv) | CSV | 3.6 MB | **66,053** | **2020–2026** | Panamax 4TC / 82k DWT Kamsarmax FFA forward curves. |
 | [`data/futures/sgx_supramax_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_supramax_futures_history.csv) | CSV | 10.5 MB | **188,482** | **2018–2026** | Supramax 10TC / 58k & Ultramax 63k FFA forward curves. |
 | [`data/futures/sgx_handysize_futures_history.csv`](file:///c:/Users/Dell/Github/Shipping/data/futures/sgx_handysize_futures_history.csv) | CSV | 4.5 MB | **82,148** | **2021–2026** | Handysize 38k DWT FFA forward curves. |
-| [`data/sgx_exhaustive_probe_report.json`](file:///c:/Users/Dell/Github/Shipping/data/sgx_exhaustive_probe_report.json) | JSON | 0.2 MB | Specs | Active | Contract multipliers (1,000 MT/lot), settlement tick sizes, and cleared trading universes. |
+| [`data/derived/sgx_exhaustive_probe_report.json`](file:///c:/Users/Dell/Github/Shipping/data/derived/sgx_exhaustive_probe_report.json) | JSON | 0.2 MB | Specs | Active | Contract multipliers (1,000 MT/lot), settlement tick sizes, and cleared trading universes. |
 
 *Website Status*: 0% rendered in `index.html` (only current prompt single-contract quote in `sgx_cape_futures.csv` is referenced; no historical curves, zero iron ore futures, no 65/62 quality spreads).
 
@@ -200,7 +200,7 @@ Harvested from SEE Capital Markets / Zagreb Stock Exchange covering 21 years of 
 | `data/indices/capital_link_mixed_fleet_clmfi.csv` | CSV | 0.4 MB | **5,230** | **2005–2026** | Capital Link Mixed Fleet Index (`CLMFI`). |
 | `data/indices/capital_link_maritime_clmi.csv` | CSV | 0.4 MB | **5,230** | **2005–2026** | Capital Link Maritime Index (`CLMI`). |
 | `data/indices/capital_link_mlp_clmlp.csv` | CSV | 0.4 MB | **5,143** | **2005–2026** | Capital Link MLP Index (`CLMLP`). |
-| `data/Capital_Link_*.xlsx` & `data/raw/capital_link_excel/*.xlsx` | Excel | 3.0 MB | **14 workbooks** | 2005–2026 | Original historical institutional workbooks. |
+| `data/raw/capital_link_excel/*.xlsx` | Excel | 1.6 MB | **7 workbooks** | 2005–2026 | Original historical institutional workbooks. |
 
 *Website Status*: 0% rendered in `index.html`.
 

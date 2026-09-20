@@ -272,7 +272,8 @@ def deep_probe_all_derivative_products():
     return live_contracts
 
 def save_report(results, live_contracts):
-    report_path = "data/sgx_exhaustive_probe_report.json"
+    os.makedirs("data/derived", exist_ok=True)
+    report_path = "data/derived/sgx_exhaustive_probe_report.json"
     data_to_save = {
         "timestamp": datetime.now().isoformat(),
         "total_endpoints_tested": len(results),

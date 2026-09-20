@@ -147,7 +147,9 @@ manifest = {
     ]
 }
 
-with open('data/raw_sources_manifest.json', 'w', encoding='utf-8', newline="\n") as f:
+os.makedirs('data/manifests', exist_ok=True)
+manifest_path = 'data/manifests/raw_sources_manifest.json'
+with open(manifest_path, 'w', encoding='utf-8', newline="\n") as f:
     json.dump(manifest, f, indent=2)
 
-print("Saved data/raw_sources_manifest.json and rulebook text specifications.")
+print(f"Saved {manifest_path} and rulebook text specifications.")
