@@ -7,9 +7,9 @@ Autonomous Stealth Fleet Telemetry Synchronization Runner
 Designed for zero-risk, zero-babysitting background execution:
 1. Checks timestamp of last sync. Enforces minimum 3-to-4 day interval to ensure
    total stealth and eliminate repetitive traffic signatures.
-2. Every 4 days: Refreshes headless session and syncs the 1,400-hull Macro Benchmark
-   fleet (700 Dry Bulk, 500 Tankers, 100 LNG, 100 LPG) in exactly 4 batch API calls.
-3. Every 28 days: Automatically runs full global fleet sweep (all 8,600+ vessels in
+2. Every 2 days: Refreshes headless session and syncs the 5,000-hull Macro Benchmark
+   fleet (2,000 Dry Bulk, 2,000 Tankers, 500 LNG, 500 LPG) in exactly 4 batch API calls.
+3. Every 28 days: Automatically runs full global fleet sweep (all 8,800+ vessels in
    7 batch API calls) so background vessels never stay frozen.
 4. Updates port queues, terminal anchorage counts, and gas metrics.
 5. Commits updated data artifacts and pushes directly to origin main.
@@ -102,7 +102,7 @@ def main():
         return 0
 
     run_full = args.full or (days_since_full >= FULL_SWEEP_INTERVAL_DAYS)
-    mode_str = "Full Global Fleet (7 batch calls)" if run_full else "Macro Benchmark Core Fleet (1,400 hulls, 4 calls)"
+    mode_str = "Full Global Fleet (7 batch calls)" if run_full else "Macro Benchmark Core Fleet (5,000 hulls, 4 calls)"
     logging.info("Starting stealth sync: %s (days since last sync: %.1f)...", mode_str, days_since_sync)
 
     # Step 1: Headless session refresh
