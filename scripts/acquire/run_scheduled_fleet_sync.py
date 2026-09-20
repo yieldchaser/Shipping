@@ -34,7 +34,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 VIEWS_DIR = REPO_ROOT / "data" / "views" / "signal"
 SYNC_STATE_FILE = REPO_ROOT / ".last_fleet_sync"
 
-MIN_INTERVAL_DAYS = 3.5  # Sync every ~4 days
+MIN_INTERVAL_DAYS = 1.8  # Sync every ~2 days (44-48 hours)
 FULL_SWEEP_INTERVAL_DAYS = 28.0  # Full fleet sweep once a month
 
 def get_last_sync_state():

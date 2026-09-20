@@ -20,10 +20,10 @@ Write-Host "  Script:     $scriptPath"
 # Action: Run python in background
 $action = New-ScheduledTaskAction -Execute $pythonExe -Argument "`"$scriptPath`"" -WorkingDirectory $repoRoot
 
-# Trigger: Daily at 10:00 AM, with wake/logon resiliency
+# Trigger: Daily at 10:00 AM (StartWhenAvailable catches up automatically when laptop opens)
 $trigger = New-ScheduledTaskTrigger -Daily -At "10:00AM"
 
-# Settings: Hidden execution, run if missed, battery allowed
+# Settings: Hidden execution, run if missed (StartWhenAvailable), battery allowed
 $settings = New-ScheduledTaskSettingsSet `
     -AllowStartIfOnBatteries `
     -DontStopIfGoingOnBatteries `
@@ -37,8 +37,8 @@ Register-ScheduledTask `
     -Action $action `
     -Trigger $trigger `
     -Settings $settings `
-    -Description "Automated 4-day stealth fleet telemetry sync for Shipping Terminal" `
+    -Description "Automated 2-day stealth fleet telemetry sync for Shipping Terminal" `
     -Force | Out-Null
 
 Write-Host "[OK] Task '$taskName' successfully registered in Windows Task Scheduler!" -ForegroundColor Green
-Write-Host "It will run silently in the background every 4 days without disturbing you." -ForegroundColor Green
+Write-Host "It will run silently in the background every 2 days (StartWhenAvailable enabled)." -ForegroundColor Green
