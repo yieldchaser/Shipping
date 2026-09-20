@@ -15330,7 +15330,7 @@ if (intelTabsContainer) {
             </div>
 
             <!-- Detailed Port Facts Card -->
-            <div id="ppFactsCard" class="port-detail-drawer" style="position:static; transform:none; width:100%; box-shadow:none; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg);"></div>
+            <div id="ppFactsCard" class="pp-facts-card" style="position:static; transform:none; width:100%; max-height:none; overflow:visible; box-shadow:none; border:1px solid var(--border); border-radius:6px; padding:12px; background:var(--bg); box-sizing:border-box; margin-top:6px;"></div>
 
             <!-- Port Activity Chart Panel -->
             <div style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
@@ -15760,6 +15760,7 @@ if (intelTabsContainer) {
             </div>
 
             <div class="map-legend-overlay">
+              <div class="map-legend-item" id="mapLegendFleetItem"><span class="map-legend-dot" id="mapLegendFleetDot" style="background:#58a6ff;"></span> <span id="mapLegendFleetText">Live Fleet AIS (9,078 commercial vessels)</span></div>
               <div class="map-legend-item"><span class="map-legend-dot berth"></span> Port (circle size = calls YTD; names shown when zoomed in)</div>
               <div class="map-legend-item"><span class="map-legend-dot anchor"></span> Disruption event (red beacon = ongoing, amber ring = ended)</div>
               <div class="map-legend-item"><span class="map-legend-dot strait"></span> Strategic Maritime Chokepoint</div>
@@ -42876,6 +42877,53 @@ function setTrackingMapSector(sector) {
       hud.textContent = 'Sector highlight: ' + (sector === 'all' ? 'All Classes' : sector) + ' \u00b7 ' + stats[sector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[sector].nPorts + ' ports (PortWatch)';
     }
   }
+
+  // Two-way synchronization with top toolbar sector filter pills
+  var topClassMap = {
+    'all': 'all',
+    'Tankers': 'Tanker',
+    'Dry Bulk': 'Dry Bulk',
+    'LNG': 'LNG',
+    'LPG': 'LPG',
+    'Container': 'Container',
+    'General Cargo': 'General Cargo',
+    'RoRo': 'RoRo'
+  };
+  var topCls = topClassMap[sector] || 'all';
+  trackingSelectedClass = topCls;
+  document.querySelectorAll('.tracking-pill').forEach(function(b) {
+    b.classList.toggle('active', b.dataset.class === topCls);
+  });
+
+  // Clear stale port highlight on map if the highlighted terminal does not belong to active sector
+  if (activePortHighlightLayer && trackingActivePortId && sector !== 'all') {
+    if (typeof isPortInSectorFilter === 'function' && !isPortInSectorFilter(trackingActivePortId)) {
+      clearPortHighlightOnMap();
+    }
+  }
+
+  // Update dynamic Live Fleet item in the map legend
+  var legText = document.getElementById('mapLegendFleetText');
+  var legDot = document.getElementById('mapLegendFleetDot');
+  if (legText && legDot) {
+    var legColors = {
+      'Tankers': '#f59e0b',
+      'Dry Bulk': '#3b82f6',
+      'LNG': '#06b6d4',
+      'LPG': '#a855f7',
+      'Container': '#10b981',
+      'General Cargo': '#6366f1',
+      'RoRo': '#f43f5e'
+    };
+    legDot.style.background = legColors[sector] || '#58a6ff';
+    if (sector === 'Tankers') legText.textContent = 'Live Tankers (VLCC & Suezmax AIS)';
+    else if (sector === 'Dry Bulk') legText.textContent = 'Live Dry Bulk (Capesize & VLOC AIS)';
+    else if (sector === 'LNG') legText.textContent = 'Live LNG Carriers (AIS)';
+    else if (sector === 'LPG') legText.textContent = 'Live LPG Carriers (AIS)';
+    else if (sector === 'all') legText.textContent = 'Live Fleet AIS (9,078 commercial vessels)';
+    else legText.textContent = 'Live ' + sector + ' Fleet AIS';
+  }
+
   if (typeof updateSectorMapCounts === 'function') updateSectorMapCounts();
   if (typeof renderUniverseTable === 'function') renderUniverseTable();
 }
@@ -46056,6 +46104,11 @@ function liveFleetPopupHtml(r) {
 window.plotLiveFleetMarkers = plotLiveFleetMarkers;
 
 function setLiveFleetSegment(seg) {
+  var secFromFleetSeg = { 'all': 'all', 'dry_bulk': 'Dry Bulk', 'tankers': 'Tankers', 'lng': 'LNG', 'lpg': 'LPG' };
+  if (secFromFleetSeg[seg] !== undefined) {
+    setTrackingMapSector(secFromFleetSeg[seg]);
+    return;
+  }
   liveFleetSegment = seg;
   var btns = {
     all: 'hudSegAll',
@@ -46068,44 +46121,6 @@ function setLiveFleetSegment(seg) {
     var b = document.getElementById(btns[k]);
     if (b) b.classList.toggle('active', k === seg);
   });
-
-  // Keep sector map toggle and port markers in sync
-  var secFromFleetSeg = { 'all': 'all', 'dry_bulk': 'Dry Bulk', 'tankers': 'Tankers', 'lng': 'LNG', 'lpg': 'LPG' };
-  if (secFromFleetSeg[seg] !== undefined) {
-    trackingMapSector = secFromFleetSeg[seg];
-    var idMap = {
-      'all': 'secMapAll',
-      'Tankers': 'secMapTankers',
-      'Dry Bulk': 'secMapDry',
-      'LNG': 'secMapLng',
-      'LPG': 'secMapLpg',
-      'Container': 'secMapContainer',
-      'General Cargo': 'secMapGen',
-      'RoRo': 'secMapRoro'
-    };
-    Object.keys(idMap).forEach(function(s) {
-      var btn = document.getElementById(idMap[s]);
-      if (btn) {
-        btn.classList.toggle('active', s === trackingMapSector);
-        btn.style.background = (s === trackingMapSector) ? 'var(--accent)' : '';
-        btn.style.color = (s === trackingMapSector) ? '#fff' : '';
-      }
-    });
-    plotPortHubMarkers();
-    var stats = window.__trackingSectorPortStats || {};
-    var hud = document.getElementById('mapHudDetail');
-    if (hud) {
-      if (trackingMapSector === 'LNG' || trackingMapSector === 'LPG') {
-        var nHubs = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[trackingMapSector === 'LNG' ? 7 : 8] > 0.1; }).length : (trackingMapSector === 'LNG' ? 73 : 150);
-        var fleetCount = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud) ? (trackingMapSector === 'LNG' ? DATA.liveFleetPositions.hud.lng : DATA.liveFleetPositions.hud.lpg) : null;
-        var nFleet = (fleetCount != null && fleetCount.toLocaleString) ? fleetCount.toLocaleString('en-US') : (trackingMapSector === 'LNG' ? '1,273' : '2,103');
-        hud.textContent = 'Sector highlight: ' + trackingMapSector + ' \u00b7 ' + nHubs + ' commercial export/import terminals \u00b7 ' + nFleet + ' live ' + trackingMapSector + ' carriers';
-      } else if (stats[trackingMapSector]) {
-        hud.textContent = 'Sector highlight: ' + (trackingMapSector === 'all' ? 'All Classes' : trackingMapSector) + ' \u00b7 ' + stats[trackingMapSector].total.toLocaleString('en-US') + ' port calls YTD across ' + stats[trackingMapSector].nPorts + ' ports (PortWatch)';
-      }
-    }
-  }
-
   plotLiveFleetMarkers();
 }
 window.setLiveFleetSegment = setLiveFleetSegment;
