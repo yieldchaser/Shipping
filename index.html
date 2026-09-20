@@ -4560,25 +4560,6 @@
       color: #fff;
       border-color: var(--accent);
     }
-    .cp-narrative-note, .cp-spec-strip {
-      font-size: 11px;
-      color: var(--text-muted);
-      background: rgba(13, 18, 25, 0.6);
-      border: 1px solid var(--border);
-      border-left: 3px solid var(--accent);
-      padding: 8px 12px;
-      border-radius: 4px;
-      line-height: 1.5;
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-      margin: 8px 0 10px 0;
-    }
-    .cp-spec-narrative {
-      color: var(--text);
-      font-size: 11.5px;
-      line-height: 1.5;
-    }
     .cp-spec-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
@@ -15745,12 +15726,6 @@ if (intelTabsContainer) {
                 <button class="cp-toggle-btn" data-range="1y" onclick="setChokepointRange('1y')" data-tooltip="Trailing 12-month monthly transit volume.">1Y</button>
                 <button class="cp-toggle-btn" data-range="90d" onclick="setChokepointRange('90d')" data-tooltip="High-resolution daily transit tracking (last 90 days).">90D Daily</button>
               </div>
-            </div>
-          </div>
-
-          <div class="cp-spec-strip" id="cpDrawerNote">
-            <div class="cp-spec-narrative">
-              <strong>Red Sea Rerouting Crisis:</strong> Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding an editorial estimate of +10 to +14 days per laden voyage.
             </div>
           </div>
 
@@ -47316,30 +47291,12 @@ function openChokepointAnalytics(chokepointId) {
   var nameEl = document.getElementById('cpDrawerName');
   var regionEl = document.getElementById('cpDrawerRegion');
   var tagEl = document.getElementById('cpDrawerStatusTag');
-  var noteEl = document.getElementById('cpDrawerNote');
 
   if (nameEl) nameEl.textContent = cp.name;
   if (regionEl) regionEl.textContent = cp.region + ' · ' + cp.strategic_importance;
   if (tagEl) {
     tagEl.className = 'cp-status-tag ' + getStatusClass(cp.disruption_status);
     tagEl.textContent = cp.disruption_status === 'ACTIVE_REROUTING' ? 'Rerouting Active' : cp.disruption_status.replace(/_/g, ' ');
-  }
-  if (noteEl) {
-    var narrativeText = '';
-    if (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal') {
-      var daysTxt = trackingReroutingTelemetry().daysAdded;
-      var daysStr = (daysTxt != null) ? ('an editorial estimate of +' + daysTxt.toFixed(1) + ' days') : 'an editorial estimate of +10 to +14 days';
-      narrativeText = '<strong>Red Sea Rerouting Crisis</strong>: Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding ' + daysStr + ' per laden voyage.';
-    } else if (cp.id === 'cape_good_hope') {
-      narrativeText = '<strong>Cape Rerouting Surge</strong>: Circumnavigating Africa absorbs excess fleet capacity, expanding global ton-mile demand and lifting container and tanker TCE earnings.';
-    } else if (cp.id === 'panama_canal') {
-      narrativeText = '<strong>Panama Water Recovery</strong>: Gatun Lake water draft restrictions have progressively normalized from 2023 drought troughs, recovering to ~32 transits/day.';
-    } else {
-      narrativeText = '<strong>' + escapeHtml(cp.name || '') + '</strong>: ' + escapeHtml(cp.strategic_importance || 'Key strategic international transit chokepoint.');
-    }
-
-    noteEl.className = 'cp-spec-strip';
-    noteEl.innerHTML = '<div class="cp-spec-narrative">' + narrativeText + '</div>';
   }
 
   // 4 KPIs
@@ -47498,7 +47455,7 @@ function renderChokepointAnnotations(cp) {
 
   var html = '<div style="font-size:var(--fs-micro); font-weight:700; color:var(--text-muted); letter-spacing:0.06em; text-transform:uppercase; margin-bottom:4px;">Historical Disruption &amp; Crisis Milestones</div>';
   matching.forEach(function(a) {
-    html += '<div class="cp-annotation-card" style="background:#0a0f18; border:1px solid rgba(56, 189, 248, 0.2); border-left: 1px solid var(--accent); border-radius:4px; padding:7px 10px; margin-bottom:4px;">' +
+    html += '<div class="cp-annotation-card" style="background:#0a0f18; border:1px solid rgba(56, 189, 248, 0.2); border-radius:4px; padding:7px 10px; margin-bottom:4px;">' +
       '<div style="display:flex; justify-content:space-between; align-items:center; gap:8px; flex-wrap:wrap;">' +
         '<span style="font-size:12px; font-weight:700; color:#fff;">' + escapeHtml(a.title) + '</span>' +
         '<span style="font-size:var(--fs-micro); font-family:IBM Plex Mono, monospace; color:var(--accent); font-weight:600;">' + escapeHtml(a.date) + (a.end_date ? ' &rarr; ' + escapeHtml(a.end_date) : '') + '</span>' +
