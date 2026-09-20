@@ -14990,42 +14990,49 @@ if (intelTabsContainer) {
 
       <!-- SECTOR FILTER CHIPS (PortWatch measured classes; gas = broker fixtures only) -->
       <div class="tracking-toolbar">
-        <div class="tracking-tool-left">
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">SECTOR:</div>
-          <button class="tracking-pill active" data-class="all" id="pillAllUniverse" data-tooltip="Show all ports and specialized commercial terminals across the global shipping universe." onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
-          <button class="tracking-pill" data-class="Tanker" data-tooltip="Filter to ports with measured crude and product tanker calls. Counts live from the PortWatch expanded feed." onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
-          <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Filter to ports with measured dry-bulk calls: iron ore, coal, grain and minor bulks." onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
-          <button class="tracking-pill" data-class="Container" data-tooltip="Filter to ports with measured container-ship calls (liner services)." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
-          <button class="tracking-pill" data-class="General Cargo" data-tooltip="Filter to ports with measured general-cargo / multipurpose vessel calls." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
-          <button class="tracking-pill" data-class="RoRo" data-tooltip="Filter to ports with measured roll-on / roll-off vehicle-carrier calls." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
-          <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LNG liquefaction &amp; regasification terminals and active LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
-          <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LPG export &amp; import terminals and active LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
-
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:8px; margin-right:4px;">WINDOW:</div>
-          <select id="trackingYearSelect" class="tracking-select" onchange="onTrackingYearChange()" data-tooltip="PortWatch daily window for the activity chart and the KPI strip. Year to date is what the measured feed carries; the full history since 2019 exists for the 43 classic hubs.">
-            <option value="ytd" selected>2026 year to date</option>
-            <option value="30d">Last 30 days</option>
-            <option value="90d">Last 90 days</option>
-            <option value="full">Full measured window</option>
-          </select>
-          <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:8px; margin-right:4px;">LAYERS:</div>
-          <label class="tracking-layer-chk" data-tooltip="Toggle the port-call pins layer on the tracking map. Pin size follows year-to-date calls from the PortWatch feed."><input type="checkbox" id="layerPorts" checked onchange="toggleTrackingLayer('ports')"> Port Calls</label>
-          <label class="tracking-layer-chk"><input type="checkbox" id="layerChokepoints" checked onchange="toggleTrackingLayer('chokepoints')"> Chokepoints</label>
-          <label class="tracking-layer-chk"><input type="checkbox" id="layerDisruptions" checked onchange="toggleTrackingLayer('disruptions')"> Disruption Pins</label>
-        </div>
-        <div class="tracking-tool-right" style="display:flex; align-items:center; gap:6px;">
-          <button class="cp-toggle-btn" id="btnToggleMapExpand" onclick="toggleTrackingMapExpand()" style="display:flex; align-items:center; gap:5px; padding:4px 8px; font-size:11px;" data-tooltip="Toggle map layout between Split Workstation view and Expansive Full-Width Command Map.">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
-            <span id="btnToggleMapExpandLabel">Expand Map</span>
-          </button>
-          <div style="position:relative; display:inline-block;">
-            <input type="text" id="vesselMasterSearchInput" class="tracking-input" style="width:200px;" placeholder="Search 57k vessels (Name, IMO)..." data-tooltip="Search the comprehensive 57,256 commercial vessel registry (Signal Ocean). Type vessel name or IMO to inspect DWT, class, built year, and operator particulars." oninput="onVesselMasterSearchInput(this.value)" onfocus="onVesselMasterSearchFocus()">
-            <div id="vesselMasterDropdown" class="vessel-search-dropdown" style="display:none; position:absolute; top:100%; left:0; width:340px; max-width:90vw; max-height:360px; overflow-y:auto; background:var(--card); border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,0.7); z-index:1000; margin-top:4px;"></div>
+        <div class="tracking-toolbar-row" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; width:100%;">
+          <div class="tracking-tool-left">
+            <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">SECTOR:</div>
+            <button class="tracking-pill active" data-class="all" id="pillAllUniverse" data-tooltip="Show all ports and specialized commercial terminals across the global shipping universe." onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
+            <button class="tracking-pill" data-class="Tanker" data-tooltip="Filter to ports with measured crude and product tanker calls. Counts live from the PortWatch expanded feed." onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
+            <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Filter to ports with measured dry-bulk calls: iron ore, coal, grain and minor bulks." onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
+            <button class="tracking-pill" data-class="Container" data-tooltip="Filter to ports with measured container-ship calls (liner services)." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
+            <button class="tracking-pill" data-class="General Cargo" data-tooltip="Filter to ports with measured general-cargo / multipurpose vessel calls." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
+            <button class="tracking-pill" data-class="RoRo" data-tooltip="Filter to ports with measured roll-on / roll-off vehicle-carrier calls." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
+            <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LNG liquefaction &amp; regasification terminals and active LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
+            <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LPG export &amp; import terminals and active LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
           </div>
-          <select id="trackingPortSelect" class="tracking-select" onchange="onTrackingPortChange()">
-            <option value="all">All Universe Ports (2,995)</option>
-          </select>
-          <input type="text" id="trackingSearchInput" class="tracking-input" placeholder="Search 2,995 ports (name, LOCODE)..." data-tooltip="Searches all 2,995 PortWatch &amp; Signal Ocean terminals by name, country or UN/LOCODE and opens the matching port page." oninput="onTrackingSearchInput()">
+          <div style="display:flex; align-items:center; gap:6px;">
+            <div style="font-size:11px; font-weight:600; color:var(--text-muted);">WINDOW:</div>
+            <select id="trackingYearSelect" class="tracking-select" onchange="onTrackingYearChange()" data-tooltip="PortWatch daily window for the activity chart and the KPI strip. Year to date is what the measured feed carries; the full history since 2019 exists for the 43 classic hubs.">
+              <option value="ytd" selected>2026 year to date</option>
+              <option value="30d">Last 30 days</option>
+              <option value="90d">Last 90 days</option>
+              <option value="full">Full measured window</option>
+            </select>
+          </div>
+        </div>
+        <div class="tracking-toolbar-row" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; width:100%; margin-top:2px; padding-top:8px; border-top:1px solid rgba(255,255,255,0.06);">
+          <div class="tracking-layers-group" style="display:flex; align-items:center; gap:8px;">
+            <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:2px;">LAYERS:</div>
+            <label class="tracking-layer-chk" data-tooltip="Toggle the port-call pins layer on the tracking map. Pin size follows year-to-date calls from the PortWatch feed."><input type="checkbox" id="layerPorts" checked onchange="toggleTrackingLayer('ports')"> Port Calls</label>
+            <label class="tracking-layer-chk"><input type="checkbox" id="layerChokepoints" checked onchange="toggleTrackingLayer('chokepoints')"> Chokepoints</label>
+            <label class="tracking-layer-chk"><input type="checkbox" id="layerDisruptions" checked onchange="toggleTrackingLayer('disruptions')"> Disruption Pins</label>
+          </div>
+          <div class="tracking-tool-right" style="display:flex; align-items:center; gap:6px;">
+            <button class="cp-toggle-btn" id="btnToggleMapExpand" onclick="toggleTrackingMapExpand()" style="display:flex; align-items:center; gap:5px; padding:4px 8px; font-size:11px;" data-tooltip="Toggle map layout between Split Workstation view and Expansive Full-Width Command Map.">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+              <span id="btnToggleMapExpandLabel">Expand Map</span>
+            </button>
+            <div style="position:relative; display:inline-block;">
+              <input type="text" id="vesselMasterSearchInput" class="tracking-input" style="width:200px;" placeholder="Search 57k vessels (Name, IMO)..." data-tooltip="Search the comprehensive 57,256 commercial vessel registry (Signal Ocean). Type vessel name or IMO to inspect DWT, class, built year, and operator particulars." oninput="onVesselMasterSearchInput(this.value)" onfocus="onVesselMasterSearchFocus()">
+              <div id="vesselMasterDropdown" class="vessel-search-dropdown" style="display:none; position:absolute; top:100%; left:0; width:340px; max-width:90vw; max-height:360px; overflow-y:auto; background:var(--card); border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,0.7); z-index:1000; margin-top:4px;"></div>
+            </div>
+            <select id="trackingPortSelect" class="tracking-select" onchange="onTrackingPortChange()">
+              <option value="all">All Universe Ports (2,995)</option>
+            </select>
+            <input type="text" id="trackingSearchInput" class="tracking-input" placeholder="Search 2,995 ports (name, LOCODE)..." data-tooltip="Searches all 2,995 PortWatch &amp; Signal Ocean terminals by name, country or UN/LOCODE and opens the matching port page." oninput="onTrackingSearchInput()">
+          </div>
         </div>
       </div>
 
