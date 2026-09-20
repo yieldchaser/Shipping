@@ -3860,7 +3860,15 @@
       font-size: var(--fs-micro);
       color: var(--text-muted);
       font-family: var(--font-mono);
-      margin-left: 2px;
+      margin-left: 3px;
+      transition: color 0.15s ease;
+    }
+    .ac-picker-panel .cp-toggle-btn:hover .sec-count {
+      color: var(--text);
+    }
+    .ac-picker-panel .cp-toggle-btn.active .sec-count {
+      color: #ffffff !important;
+      opacity: 0.95;
     }
     .vessel-modal-backdrop {
       position: fixed;
@@ -4613,6 +4621,25 @@
       background: var(--accent);
       color: #fff;
       border-color: var(--accent);
+    }
+    .cp-toggle-btn:disabled,
+    .cp-toggle-btn[disabled] {
+      opacity: 0.38 !important;
+      cursor: not-allowed !important;
+      border-color: rgba(255, 255, 255, 0.08) !important;
+      color: var(--text-muted) !important;
+      background: var(--bg) !important;
+      pointer-events: auto !important;
+    }
+    .cp-toggle-btn:disabled:hover,
+    .cp-toggle-btn[disabled]:hover {
+      border-color: rgba(255, 255, 255, 0.08) !important;
+      color: var(--text-muted) !important;
+    }
+    .cp-toggle-btn.active .sec-count,
+    .cp-toggle-btn.active span {
+      color: #ffffff !important;
+      opacity: 0.95;
     }
     .cp-narrative-note, .cp-spec-strip {
       font-size: 11px;
@@ -46445,7 +46472,19 @@ function renderPortPageActivity(meta) {
   if (!canvas) return;
 
   var hasDeep = portHasDeepHistory(meta);
-  if (fBtn) fBtn.disabled = !hasDeep;
+  if (fBtn) {
+    fBtn.disabled = !hasDeep;
+    if (!hasDeep) {
+      var portName = (meta && (meta.portname || meta.name)) || 'This port';
+      var noteMsg = '2019–2026 daily timeseries is published exclusively for the 43 classic PortWatch benchmark hubs. ' + portName + ' carries 2026 YTD measured sector totals.';
+      fBtn.title = noteMsg;
+      fBtn.setAttribute('data-tooltip', noteMsg);
+    } else {
+      var hubMsg = 'Full 2019–2026 daily timeseries for the 43 classic PortWatch benchmark hubs.';
+      fBtn.title = hubMsg;
+      fBtn.setAttribute('data-tooltip', hubMsg);
+    }
+  }
   var useFull = (portPageWindow === 'full') && hasDeep;
   if (yBtn) yBtn.classList.toggle('active', !useFull);
   if (fBtn) fBtn.classList.toggle('active', useFull);
@@ -46578,7 +46617,7 @@ function renderPortPageActivity(meta) {
         },
         scales: {
           x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
-          y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } }, title: { display: true, text: 'calls YTD', color: '#8b949e', font: { size: 11 } } }
+          y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } }, title: { display: true, text: 'Calls YTD', color: '#8b949e', font: { size: 11 } } }
         }
       }
     });
