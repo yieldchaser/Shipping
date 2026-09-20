@@ -14895,7 +14895,7 @@ if (intelTabsContainer) {
             </svg>
             Global Port Activity &amp; Strategic Chokepoints Terminal
           </h2>
-          <div class="tracking-sub">Measured port calls across 2,995 commercial ports &amp; terminals, disruptions &amp; 28 strategic maritime chokepoints &middot; IMF PortWatch (1,979 audited hubs) &amp; Signal Ocean (1,016 terminals)</div>
+          <div class="tracking-sub" id="trackingSubTitle">Measured port calls across <span id="trackingTotalHubs">2,995</span> commercial ports &amp; terminals, disruptions &amp; 28 strategic maritime chokepoints &middot; IMF PortWatch (<span id="trackingPwHubs">1,979</span> audited hubs) &amp; Signal Ocean (<span id="trackingSoHubs">1,016</span> terminals)</div>
         </div>
         <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
           <div class="tracking-live-tag" data-tooltip="IMF PortWatch releases official econometric port call data with an audited ~7-day lag. Live vessel positions, lineups and chokepoints update in real-time.">
@@ -14947,14 +14947,14 @@ if (intelTabsContainer) {
       <div class="tracking-toolbar">
         <div class="tracking-tool-left">
           <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">SECTOR:</div>
-          <button class="tracking-pill active" data-class="all" data-tooltip="Show all 2,995 ports and specialized commercial terminals across the global shipping universe (1,979 IMF PortWatch hubs + 1,016 Signal Ocean specialized terminals)." onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
+          <button class="tracking-pill active" data-class="all" id="pillAllUniverse" data-tooltip="Show all ports and specialized commercial terminals across the global shipping universe." onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
           <button class="tracking-pill" data-class="Tanker" data-tooltip="Filter to ports with measured crude and product tanker calls. Counts live from the PortWatch expanded feed." onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
           <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Filter to ports with measured dry-bulk calls: iron ore, coal, grain and minor bulks." onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
           <button class="tracking-pill" data-class="Container" data-tooltip="Filter to ports with measured container-ship calls (liner services)." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
           <button class="tracking-pill" data-class="General Cargo" data-tooltip="Filter to ports with measured general-cargo / multipurpose vessel calls." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
           <button class="tracking-pill" data-class="RoRo" data-tooltip="Filter to ports with measured roll-on / roll-off vehicle-carrier calls." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
-          <button class="tracking-pill" data-class="LNG" data-tooltip="Filter map pins, terminal directory and live fleet to 73 global LNG liquefaction &amp; regasification terminals and 1,273 active LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
-          <button class="tracking-pill" data-class="LPG" data-tooltip="Filter map pins, terminal directory and live fleet to 150 global LPG export &amp; import terminals and 2,103 active LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
+          <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LNG liquefaction &amp; regasification terminals and active LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
+          <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LPG export &amp; import terminals and active LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
 
           <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-left:8px; margin-right:4px;">WINDOW:</div>
           <select id="trackingYearSelect" class="tracking-select" onchange="onTrackingYearChange()" data-tooltip="PortWatch daily window for the activity chart and the KPI strip. Year to date is what the measured feed carries; the full history since 2019 exists for the 43 classic hubs.">
@@ -15164,10 +15164,10 @@ if (intelTabsContainer) {
               <!-- Asset Class Segment Buttons -->
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
                 <div class="cp-btn-group" id="acSegmentButtons" style="flex-wrap:wrap;">
-                  <button class="cp-toggle-btn active" id="acSegDryBulk" onclick="setAssetClassSegment('dry_bulk')">Dry Bulk <span class="sec-count" id="acCountDryBulk">(118)</span></button>
-                  <button class="cp-toggle-btn" id="acSegTankers" onclick="setAssetClassSegment('tankers')">Tankers <span class="sec-count" id="acCountTankers">(113)</span></button>
-                  <button class="cp-toggle-btn" id="acSegLng" onclick="setAssetClassSegment('lng')">LNG <span class="sec-count" id="acCountLng">(73)</span></button>
-                  <button class="cp-toggle-btn" id="acSegLpg" onclick="setAssetClassSegment('lpg')">LPG <span class="sec-count" id="acCountLpg">(150)</span></button>
+                  <button class="cp-toggle-btn active" id="acSegDryBulk" onclick="setAssetClassSegment('dry_bulk')">Dry Bulk <span class="sec-count" id="acCountDryBulk">(—)</span></button>
+                  <button class="cp-toggle-btn" id="acSegTankers" onclick="setAssetClassSegment('tankers')">Tankers <span class="sec-count" id="acCountTankers">(—)</span></button>
+                  <button class="cp-toggle-btn" id="acSegLng" onclick="setAssetClassSegment('lng')">LNG <span class="sec-count" id="acCountLng">(—)</span></button>
+                  <button class="cp-toggle-btn" id="acSegLpg" onclick="setAssetClassSegment('lpg')">LPG <span class="sec-count" id="acCountLpg">(—)</span></button>
                 </div>
                 <div style="flex:1; min-width:200px;">
                   <select id="acPortSelect" class="tracking-select" style="width:100%;" onchange="onAssetPortSelect(this.value)">
@@ -15542,22 +15542,22 @@ if (intelTabsContainer) {
             <div class="port-stress-hud">
               <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Monitored Strategic Hubs" data-tt-val="41 Global Ports" data-tt-desc="Continuous daily arrival volume tracking across 41 primary loading and discharge hubs.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Monitored Hubs</div>
-                <div class="port-stress-card-val" id="hudStressTotal">50</div>
+                <div class="port-stress-card-val" id="hudStressTotal">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">Dry Bulk, Tankers, LNG, LPG</div>
               </div>
               <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Tonnage Squeeze Alerts" data-tt-val="Active Surges" data-tt-desc="Ports where weekly vessel arrivals exceed +1.5 standard deviations above 5-year seasonal norm, triggering berthing queues and congestion demurrage.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Surge Squeeze Alerts</div>
-                <div class="port-stress-card-val" id="hudStressSurge" style="color:var(--red);">0</div>
+                <div class="port-stress-card-val" id="hudStressSurge" style="color:var(--red);">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--red); margin-top:2px;">Z-Score &ge; +1.5&sigma; (Congestion)</div>
               </div>
               <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Supply Outage Alerts" data-tt-val="Active Collapses" data-tt-desc="Ports where arrivals fall below -1.5 standard deviations, indicating cargo supply outage, weather shutdown, or rail derailment.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Supply Outage Alerts</div>
-                <div class="port-stress-card-val" id="hudStressCollapse" style="color:var(--yellow);">20</div>
+                <div class="port-stress-card-val" id="hudStressCollapse" style="color:var(--yellow);">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--yellow); margin-top:2px;">Z-Score &le; -1.5&sigma; (Outages)</div>
               </div>
               <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Normal Operating Envelope" data-tt-val="Within Baseline" data-tt-desc="Vessel influx within normal 5-year historical operating bands.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Normal Operating Band</div>
-                <div class="port-stress-card-val" id="hudStressNormal" style="color:var(--green);">30</div>
+                <div class="port-stress-card-val" id="hudStressNormal" style="color:var(--green);">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--green); margin-top:2px;">Within &plusmn;1.5&sigma; Baseline</div>
               </div>
             </div>
@@ -15647,19 +15647,19 @@ if (intelTabsContainer) {
               </div>
               <div class="hud-metric-box">
                 <span class="hud-lbl">Capesize/VLOC</span>
-                <span class="hud-num" id="hudCapeCount">2,246</span>
+                <span class="hud-num" id="hudCapeCount">—</span>
               </div>
               <div class="hud-metric-box">
                 <span class="hud-lbl">VLCC/Suezmax</span>
-                <span class="hud-num" id="hudTankerCount">2,315</span>
+                <span class="hud-num" id="hudTankerCount">—</span>
               </div>
               <div class="hud-metric-box">
                 <span class="hud-lbl">LNG</span>
-                <span class="hud-num" id="hudLngCount">1,273</span>
+                <span class="hud-num" id="hudLngCount">—</span>
               </div>
               <div class="hud-metric-box">
                 <span class="hud-lbl">LPG</span>
-                <span class="hud-num" id="hudLpgCount">2,103</span>
+                <span class="hud-num" id="hudLpgCount">—</span>
               </div>
             </div>
 
@@ -15685,11 +15685,11 @@ if (intelTabsContainer) {
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
               <div class="map-sector-overlay-title">SECTOR HIGHLIGHT (PORTWATCH CALLS &amp; COMMERCIAL FLEET)</div>
               <div class="tracking-sector-toggle">
-                <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip="Filter map pins and commercial fleet to all 2,995 global maritime hubs (1,979 audited PortWatch ports + 1,016 specialized commercial terminals)." data-tt-type="tracking-sector-map" data-tt-sector="all">All 2,995 Hubs <span class="sec-count" id="secMapCountAll">(1,979 PW)</span></button>
+                <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip="Filter map pins and commercial fleet to all global maritime hubs." data-tt-type="tracking-sector-map" data-tt-sector="all">All Commercial Hubs <span class="sec-count" id="secMapCountAll">—</span></button>
                 <button class="cp-toggle-btn" id="secMapTankers" onclick="setTrackingMapSector('Tankers')" data-tooltip="Filter map pins and commercial fleet to crude oil, dirty product, and clean product tanker terminals and live vessels." data-tt-type="tracking-sector-map" data-tt-sector="Tankers">Tankers <span class="sec-count" id="secMapCountTankers">&mdash;</span></button>
                 <button class="cp-toggle-btn" id="secMapDry" onclick="setTrackingMapSector('Dry Bulk')" data-tooltip="Filter map pins and commercial fleet to Capesize, Panamax, and Supramax dry bulk loading and discharge hubs." data-tt-type="tracking-sector-map" data-tt-sector="Dry Bulk">Dry Bulk <span class="sec-count" id="secMapCountDry">&mdash;</span></button>
-                <button class="cp-toggle-btn" id="secMapLng" onclick="setTrackingMapSector('LNG')" data-tooltip="Filter map pins and commercial fleet to 73 global LNG liquefaction &amp; regasification terminals and 1,273 active LNG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LNG">LNG <span class="sec-count" id="secMapCountLng">(73)</span></button>
-                <button class="cp-toggle-btn" id="secMapLpg" onclick="setTrackingMapSector('LPG')" data-tooltip="Filter map pins and commercial fleet to 150 global LPG export &amp; import terminals and 2,103 active LPG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LPG">LPG <span class="sec-count" id="secMapCountLpg">(150)</span></button>
+                <button class="cp-toggle-btn" id="secMapLng" onclick="setTrackingMapSector('LNG')" data-tooltip="Filter map pins and commercial fleet to global LNG liquefaction &amp; regasification terminals and active LNG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LNG">LNG <span class="sec-count" id="secMapCountLng">—</span></button>
+                <button class="cp-toggle-btn" id="secMapLpg" onclick="setTrackingMapSector('LPG')" data-tooltip="Filter map pins and commercial fleet to global LPG export &amp; import terminals and active LPG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LPG">LPG <span class="sec-count" id="secMapCountLpg">—</span></button>
                 <button class="cp-toggle-btn" id="secMapContainer" onclick="setTrackingMapSector('Container')" data-tooltip="Filter map pins to major container liner transshipment and gateway terminals." data-tt-type="tracking-sector-map" data-tt-sector="Container">Container <span class="sec-count" id="secMapCountContainer">&mdash;</span></button>
                 <button class="cp-toggle-btn" id="secMapGen" onclick="setTrackingMapSector('General Cargo')" data-tooltip="Filter map pins to multipurpose breakbulk and general cargo ports." data-tt-type="tracking-sector-map" data-tt-sector="General Cargo">Gen Cargo <span class="sec-count" id="secMapCountGen">&mdash;</span></button>
                 <button class="cp-toggle-btn" id="secMapRoro" onclick="setTrackingMapSector('RoRo')" data-tooltip="Filter map pins to dedicated pure car and truck carrier (PCTC) and roll-on/roll-off vehicle terminals." data-tt-type="tracking-sector-map" data-tt-sector="RoRo">RoRo <span class="sec-count" id="secMapCountRoro">&mdash;</span></button>
@@ -17311,6 +17311,8 @@ if (intelTabsContainer) {
                 <div class="cp-spec-item"><span class="cp-spec-label">Speed / Heading</span><span class="cp-spec-val" id="vmAisSpeed"></span></div>
                 <div class="cp-spec-item"><span class="cp-spec-label">Reported Destination</span><span class="cp-spec-val" id="vmAisDest"></span></div>
                 <div class="cp-spec-item"><span class="cp-spec-label">Reported ETA</span><span class="cp-spec-val" id="vmAisEta"></span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Remaining Distance</span><span class="cp-spec-val" id="vmAisRemainingDist">—</span></div>
+                <div class="cp-spec-item"><span class="cp-spec-label">Estimated Days to Dest</span><span class="cp-spec-val" id="vmAisDaysToDest">—</span></div>
                 <div class="cp-spec-item"><span class="cp-spec-label">Coordinates</span><span class="cp-spec-val" id="vmAisCoords"></span></div>
                 <div class="cp-spec-item"><span class="cp-spec-label">Laden / Ballast</span><span class="cp-spec-val" id="vmAisLaden"></span></div>
               </div>
@@ -43940,9 +43942,11 @@ function updateTrackingHUD() {
     var inSec = trackingMapSector === 'all' ? stats.all : stats[trackingMapSector];
     if (inSec) {
       if (trackingMapSector === 'all') {
-        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across 2,995 global hubs (1,979 PortWatch audited ports)';
+        var totalHubs = (DATA.universePorts && DATA.universePorts.ports) ? DATA.universePorts.ports.length : 2995;
+        var pwHubs = inSec.nPorts || 1979;
+        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + totalHubs.toLocaleString('en-US') + ' global hubs (' + pwHubs.toLocaleString('en-US') + ' PortWatch audited ports)';
       } else {
-        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + inSec.nPorts + ' ports (PortWatch)';
+        hudDetail.textContent = inSec.total.toLocaleString('en-US') + ' measured port calls YTD across ' + inSec.nPorts.toLocaleString('en-US') + ' ports (PortWatch)';
       }
     }
   }
@@ -43959,14 +43963,38 @@ function updateSectorMapCounts() {
 
   var elLng = document.getElementById('secMapCountLng');
   var elLpg = document.getElementById('secMapCountLpg');
-  if (elLng) {
-    var nLng = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[7] > 0.1; }).length : 73;
-    elLng.textContent = '(' + nLng + ')';
-  }
-  if (elLpg) {
-    var nLpg = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[8] > 0.1; }).length : 150;
-    elLpg.textContent = '(' + nLpg + ')';
-  }
+  var nLng = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[7] > 0.1; }).length : 73;
+  var nLpg = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(function(p){ return p[8] > 0.1; }).length : 150;
+  if (elLng) elLng.textContent = '(' + nLng + ')';
+  if (elLpg) elLpg.textContent = '(' + nLpg + ')';
+
+  // Also dynamically update toolbar sector pill counts
+  var pillAll = document.getElementById('pillCountAll');
+  var pillTk = document.getElementById('pillCountTanker');
+  var pillDb = document.getElementById('pillCountBulk');
+  var pillCnt = document.getElementById('pillCountContainer');
+  var pillGen = document.getElementById('pillCountGencargo');
+  var pillRo = document.getElementById('pillCountRoro');
+  var pillLng = document.getElementById('pillCountLNG');
+  var pillLpg = document.getElementById('pillCountLPG');
+
+  var totalHubs = (DATA.universePorts && DATA.universePorts.ports) ? DATA.universePorts.ports.length : 2995;
+  if (pillAll) pillAll.textContent = totalHubs.toLocaleString('en-US');
+  if (pillTk && stats['Tankers']) pillTk.textContent = stats['Tankers'].nPorts.toLocaleString('en-US');
+  if (pillDb && stats['Dry Bulk']) pillDb.textContent = stats['Dry Bulk'].nPorts.toLocaleString('en-US');
+  if (pillCnt && stats['Container']) pillCnt.textContent = stats['Container'].nPorts.toLocaleString('en-US');
+  if (pillGen && stats['General Cargo']) pillGen.textContent = stats['General Cargo'].nPorts.toLocaleString('en-US');
+  if (pillRo && stats['RoRo']) pillRo.textContent = stats['RoRo'].nPorts.toLocaleString('en-US');
+  if (pillLng) pillLng.textContent = nLng.toLocaleString('en-US');
+  if (pillLpg) pillLpg.textContent = nLpg.toLocaleString('en-US');
+
+  // Dynamically update subtitle hubs count
+  var elTotH = document.getElementById('trackingTotalHubs');
+  var elPwH = document.getElementById('trackingPwHubs');
+  var elSoH = document.getElementById('trackingSoHubs');
+  if (elTotH) elTotH.textContent = totalHubs.toLocaleString('en-US');
+  if (elPwH && stats.all) elPwH.textContent = stats.all.nPorts.toLocaleString('en-US');
+  if (elSoH && stats.all) elSoH.textContent = Math.max(0, totalHubs - stats.all.nPorts).toLocaleString('en-US');
 
   // Sector-toggle overlay tooltip carries live per-sector counts from the cache.
   var ov = document.getElementById('mapSectorToggle');
@@ -45407,22 +45435,84 @@ function openVesselDrillDown(imo, name) {
   var elAisEta = document.getElementById('vmAisEta');
   var elAisCoords = document.getElementById('vmAisCoords');
   var elAisLaden = document.getElementById('vmAisLaden');
+  var elAisRemDist = document.getElementById('vmAisRemainingDist');
+  var elAisDaysToDest = document.getElementById('vmAisDaysToDest');
 
   if (livePos) {
     // ['imo', 'name', 'class', 'seg', 'lat', 'lon', 'spd', 'hdg', 'dst', 'op', 'stat', 'laden', 'eta']
     if (elAisStat) elAisStat.textContent = livePos[10] || 'Underway / Active';
-    if (elAisSpd) elAisSpd.textContent = livePos[6] + ' kn / ' + livePos[7] + '°';
-    if (elAisDest) elAisDest.textContent = livePos[8] || '—';
+    var spdVal = typeof livePos[6] === 'number' ? livePos[6] : parseFloat(livePos[6]) || 0;
+    var hdgVal = typeof livePos[7] === 'number' ? livePos[7] : parseFloat(livePos[7]) || 0;
+    if (elAisSpd) elAisSpd.textContent = spdVal.toFixed(1) + ' kn / ' + Math.round(hdgVal) + '°';
+    var dstStr = livePos[8] || '—';
+    if (elAisDest) elAisDest.textContent = dstStr;
     if (elAisEta) elAisEta.textContent = livePos[12] ? livePos[12].replace('T', ' ').replace('Z', ' UTC') : '—';
     if (elAisCoords) elAisCoords.textContent = 'Lat: ' + livePos[4].toFixed(2) + '°, Lon: ' + livePos[5].toFixed(2) + '°';
     if (elAisLaden) elAisLaden.textContent = livePos[11] === 1 ? 'Laden' : 'Ballast';
+
+    // Calculate remaining distance and steaming days to destination
+    var remDistNM = null;
+    var destLat = null, destLon = null;
+
+    if (dstStr && dstStr !== '—') {
+      var dClean = dstStr.trim().toUpperCase();
+      // Try to find matching port in DATA.universePorts
+      var pTarget = null;
+      if (DATA.universePorts) {
+        var codeMatch = dClean.match(/\b([A-Z]{2})\s*([A-Z]{3})\b/);
+        if (codeMatch && DATA.universePorts.byLocode) {
+          var locFull = codeMatch[1] + ' ' + codeMatch[2];
+          var locCompact = codeMatch[1] + codeMatch[2];
+          pTarget = DATA.universePorts.byLocode[locFull] || DATA.universePorts.byLocode[locCompact];
+        }
+        if (!pTarget && DATA.universePorts.ports) {
+          pTarget = DATA.universePorts.ports.find(function(up) {
+            var upName = (up.name || up.portname || '').toUpperCase();
+            return upName.length > 3 && (dClean.indexOf(upName) !== -1 || upName.indexOf(dClean) !== -1);
+          });
+        }
+      }
+      if (pTarget && pTarget.lat != null && pTarget.lon != null) {
+        destLat = pTarget.lat;
+        destLon = pTarget.lon;
+      }
+    }
+
+    if (destLat != null && destLon != null) {
+      // Great-circle Haversine distance in nautical miles
+      var dRad = Math.PI / 180;
+      var dLat = (destLat - livePos[4]) * dRad;
+      var dLon = (destLon - livePos[5]) * dRad;
+      var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+              Math.cos(livePos[4] * dRad) * Math.cos(destLat * dRad) *
+              Math.sin(dLon / 2) * Math.sin(dLon / 2);
+      var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      remDistNM = Math.round(3440.065 * c);
+    }
+
+    if (remDistNM != null) {
+      if (elAisRemDist) elAisRemDist.textContent = remDistNM.toLocaleString('en-US') + ' NM (Great Circle)';
+      if (elAisDaysToDest) {
+        if (spdVal >= 1.0) {
+          var days = (remDistNM / (spdVal * 24)).toFixed(1);
+          elAisDaysToDest.textContent = days + ' days (@ ' + spdVal.toFixed(1) + ' kn)';
+        } else {
+          elAisDaysToDest.textContent = '— (Vessel stationary / anchored)';
+        }
+      }
+    } else {
+      if (elAisRemDist) elAisRemDist.textContent = '—';
+      if (elAisDaysToDest) elAisDaysToDest.textContent = '—';
+    }
   } else {
     if (elAisStat) elAisStat.textContent = 'In Port Queue';
     if (elAisSpd) elAisSpd.textContent = '0.0 kn';
-    if (elAisDest) elAisDest.textContent = activeLineupPort;
+    if (elAisDest) elAisDest.textContent = activeLineupPort || '—';
     if (elAisEta) elAisEta.textContent = 'Arrived';
     if (elAisCoords) elAisCoords.textContent = '—';
     if (elAisLaden) elAisLaden.textContent = '—';
+    if (elAisRemDist) elAisRemDist.textContent = '0 NM (In Queue)';
+    if (elAisDaysToDest) elAisDaysToDest.textContent = 'Arrived';
   }
 
   // Default to particulars tab
@@ -45663,8 +45753,8 @@ function updateLiveFleetHUD() {
   var total = (hud.total_vessels != null) ? hud.total_vessels : (hud.all != null ? hud.all : null);
   var avgSpd = hud.avg_speed != null ? hud.avg_speed : null;
   var pctLaden = hud.pct_laden != null ? hud.pct_laden : null;
-  var capeCount = (hud.capesize_vloc != null) ? hud.capesize_vloc : (hud.dry_bulk != null ? hud.dry_bulk : null);
-  var tankerCount = (hud.vlcc_suezmax != null) ? hud.vlcc_suezmax : (hud.tankers != null ? hud.tankers : null);
+  var capeCount = (hud.dry_bulk != null) ? hud.dry_bulk : (hud.capesize_vloc != null ? hud.capesize_vloc : null);
+  var tankerCount = (hud.tankers != null) ? hud.tankers : (hud.vlcc_suezmax != null ? hud.vlcc_suezmax : null);
   var lngCount = hud.lng != null ? hud.lng : null;
   var lpgCount = hud.lpg != null ? hud.lpg : null;
 
