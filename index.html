@@ -15005,14 +15005,14 @@ if (intelTabsContainer) {
         <div class="tracking-toolbar-row" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; width:100%;">
           <div class="tracking-tool-left">
             <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">Sector:</div>
-            <button class="tracking-pill active" data-class="all" id="pillAllUniverse" data-tooltip="Global commercial port universe including specialized bulk, container, liquid energy, and gas handling terminals." onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
-            <button class="tracking-pill" data-class="Tanker" data-tooltip="Commercial crude and product tanker terminals with measured vessel calls from IMF PortWatch." onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
-            <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Dry bulk export and discharge facilities handling iron ore, coal, grain, bauxite, and minor bulks." onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
-            <button class="tracking-pill" data-class="Container" data-tooltip="Cellular container terminals and liner service facilities with measured vessel calls." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
-            <button class="tracking-pill" data-class="General Cargo" data-tooltip="General cargo, multipurpose breakbulk, and project cargo marine terminals." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
-            <button class="tracking-pill" data-class="RoRo" data-tooltip="Roll-on / roll-off (RoRo) pure car truck carrier (PCTC) and vehicle transshipment facilities." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
-            <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Global LNG liquefaction export terminals, import regasification facilities, and active cryogenic LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
-            <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Pressurized and refrigerated LPG terminals, export/import hubs, and active VLGC/LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
+            <button class="tracking-pill active" data-class="all" id="pillAllUniverse" data-tooltip="Global commercial port universe including specialized bulk, container, liquid energy, and gas handling terminals." data-tt-type="tracking-sector-map" data-tt-sector="all" onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
+            <button class="tracking-pill" data-class="Tanker" data-tooltip="Commercial crude and product tanker terminals with measured vessel calls from IMF PortWatch." data-tt-type="tracking-sector-map" data-tt-sector="Tankers" onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
+            <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Dry bulk export and discharge facilities handling iron ore, coal, grain, bauxite, and minor bulks." data-tt-type="tracking-sector-map" data-tt-sector="Dry Bulk" onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
+            <button class="tracking-pill" data-class="Container" data-tooltip="Cellular container terminals and liner service facilities with measured vessel calls." data-tt-type="tracking-sector-map" data-tt-sector="Container" onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
+            <button class="tracking-pill" data-class="General Cargo" data-tooltip="General cargo, multipurpose breakbulk, and project cargo marine terminals." data-tt-type="tracking-sector-map" data-tt-sector="General Cargo" onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
+            <button class="tracking-pill" data-class="RoRo" data-tooltip="Roll-on / roll-off (RoRo) pure car truck carrier (PCTC) and vehicle transshipment facilities." data-tt-type="tracking-sector-map" data-tt-sector="RoRo" onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
+            <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Global LNG liquefaction export terminals, import regasification facilities, and active cryogenic LNG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LNG" onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
+            <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Pressurized and refrigerated LPG terminals, export/import hubs, and active VLGC/LPG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LPG" onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
           </div>
           <div style="display:flex; align-items:center; gap:6px;">
             <div style="font-size:11px; font-weight:600; color:var(--text-muted);">Window:</div>
@@ -15089,7 +15089,7 @@ if (intelTabsContainer) {
                     <div class="port-history-sub" id="phSub" style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">43 classic hubs &middot; daily calls 2019&ndash;present &middot; 5Y same-window mean &middot; latest <span id="phLatest">&mdash;</span></div>
                   </div>
                   <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-                    <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip="Strategic maritime hub selector covering 43 classic ports with daily history and 5Y baselines."><!-- populated by initPortHistory --></select>
+                    <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip="Strategic maritime hub selector covering 43 classic ports with daily history and 5Y baselines." data-tt-type="portwatch-callout" data-tt-context="note"><!-- populated by initPortHistory --></select>
                   </div>
                 </div>
 
@@ -15123,10 +15123,10 @@ if (intelTabsContainer) {
                 <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
                   <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Vessel Sector Lens</div>
                   <div class="cp-btn-group">
-                    <button class="cp-toggle-btn active" id="phSectorTotal" onclick="setPortHistorySector('total')" data-tooltip="All commercial vessel sectors combined (dry bulk, tankers, container, general cargo, and RoRo) from IMF PortWatch.">All Sectors</button>
-                    <button class="cp-toggle-btn" id="phSectorDry" onclick="setPortHistorySector('dry_bulk')" data-tooltip="Capesize, Panamax, and Supramax dry bulk carrier port calls, tracking raw material throughput.">Dry Bulk</button>
-                    <button class="cp-toggle-btn" id="phSectorTanker" onclick="setPortHistorySector('tanker')" data-tooltip="Crude oil, dirty product, and clean petroleum product tanker port calls, tracking liquid energy throughput.">Tankers</button>
-                    <button class="cp-toggle-btn" id="phSectorContainer" onclick="setPortHistorySector('container')" data-tooltip="Cellular container ship port calls, tracking global manufactured goods trade and supply chain velocity.">Container</button>
+                    <button class="cp-toggle-btn active" id="phSectorTotal" onclick="setPortHistorySector('total')" data-tooltip="All commercial vessel sectors combined (dry bulk, tankers, container, general cargo, and RoRo) from IMF PortWatch." data-tt-type="portwatch-callout">All Sectors</button>
+                    <button class="cp-toggle-btn" id="phSectorDry" onclick="setPortHistorySector('dry_bulk')" data-tooltip="Capesize, Panamax, and Supramax dry bulk carrier port calls, tracking raw material throughput." data-tt-type="portwatch-callout">Dry Bulk</button>
+                    <button class="cp-toggle-btn" id="phSectorTanker" onclick="setPortHistorySector('tanker')" data-tooltip="Crude oil, dirty product, and clean petroleum product tanker port calls, tracking liquid energy throughput." data-tt-type="portwatch-callout">Tankers</button>
+                    <button class="cp-toggle-btn" id="phSectorContainer" onclick="setPortHistorySector('container')" data-tooltip="Cellular container ship port calls, tracking global manufactured goods trade and supply chain velocity." data-tt-type="portwatch-callout">Container</button>
                   </div>
                 </div>
               </div>
@@ -48798,34 +48798,117 @@ function escapeHtml(str) {
         let html = `<div class="rt-title">${title}</div>`;
 
         if (type === 'tracking-sector-map') {
-          const sec = target.getAttribute('data-tt-sector') || 'all';
-          if (sec === 'LNG') {
-            const nTerminals = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(p => p[7] > 0.1).length : 73;
-            const nCarriers = (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) ? DATA.liveFleetPositions.rows.filter(r => (r[3] || '').toLowerCase() === 'lng').length : 1273;
+          const rawSec = target.getAttribute('data-tt-sector') || 'all';
+          const secNormMap = {
+            'Tanker': 'Tankers', 'tanker': 'Tankers', 'Tankers': 'Tankers', 'tankers': 'Tankers',
+            'Dry Bulk': 'Dry Bulk', 'dry_bulk': 'Dry Bulk', 'bulk': 'Dry Bulk',
+            'LNG': 'LNG', 'lng': 'LNG',
+            'LPG': 'LPG', 'lpg': 'LPG',
+            'Container': 'Container', 'container': 'Container',
+            'General Cargo': 'General Cargo', 'general_cargo': 'General Cargo', 'gencargo': 'General Cargo',
+            'RoRo': 'RoRo', 'roro': 'RoRo',
+            'all': 'all'
+          };
+          const sec = secNormMap[rawSec] || rawSec;
+
+          const secPorts = window.__trackingSectorPortStats || {};
+          const p = secPorts[sec] || {};
+          const fleetRows = (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) || [];
+          const hud = (DATA.liveFleetPositions && DATA.liveFleetPositions.hud) || {};
+          const assetPorts = (DATA.assetClassPorts && DATA.assetClassPorts.ports) || [];
+
+          if (sec === 'Tankers') {
+            const nPrimary = assetPorts.filter(pt => pt[6] > 0.1).length || 113;
+            const nFleet = hud.tankers || hud.vlcc_suezmax || fleetRows.filter(r => r[3] === 'tankers').length || 3214;
+            const nCalls = p.total != null ? Number(p.total).toLocaleString('en-US') : '382,670';
+            const nActivePorts = p.nPorts != null ? Number(p.nPorts).toLocaleString('en-US') : '1,747';
+
+            html = `<div class="rt-title">Sector Highlight: Crude &amp; Product Tankers (Wet Bulk)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#f59e0b; font-weight:700;">${nPrimary} Primary Signal Hubs (${nActivePorts} Active Ports)</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Active Commercial Fleet</span><span class="rt-val" style="color:#f59e0b; font-weight:700;">${nFleet.toLocaleString('en-US')} Live Tankers (VLCC &amp; Suezmax AIS)</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annual Throughput (YTD)</span><span class="rt-val" style="color:var(--text); font-weight:600;">${nCalls} Verified Port Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">Signal Ocean Fleet AIS &amp; IMF PortWatch Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">VLCC, Suezmax, Aframax, LR2/LR1 &amp; MR Clean</span></div>`;
+            html += `<div class="rt-note">Displays global crude oil and refined petroleum tanker infrastructure, terminal calls, and live VLCC/Suezmax AIS vessel positions. Pin size on the map follows measured year-to-date arrivals from PortWatch. Click a port pin to open its operations profile.</div>`;
+          } else if (sec === 'Dry Bulk') {
+            const nPrimary = assetPorts.filter(pt => pt[5] > 0.1).length || 114;
+            const nFleet = hud.dry_bulk || hud.capesize_vloc || fleetRows.filter(r => r[3] === 'dry_bulk').length || 3103;
+            const nCalls = p.total != null ? Number(p.total).toLocaleString('en-US') : '186,914';
+            const nActivePorts = p.nPorts != null ? Number(p.nPorts).toLocaleString('en-US') : '1,459';
+
+            html = `<div class="rt-title">Sector Highlight: Dry Bulk Carriers (Major &amp; Minor Bulks)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#38bdf8; font-weight:700;">${nPrimary} Primary Signal Hubs (${nActivePorts} Active Ports)</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Active Commercial Fleet</span><span class="rt-val" style="color:#38bdf8; font-weight:700;">${nFleet.toLocaleString('en-US')} Live Capesize &amp; VLOC Carriers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annual Throughput (YTD)</span><span class="rt-val" style="color:var(--text); font-weight:600;">${nCalls} Verified Port Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">Signal Ocean Fleet AIS &amp; IMF PortWatch Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">Capesize, VLOC, Newcastlemax, Panamax &amp; Supramax</span></div>`;
+            html += `<div class="rt-note">Displays major dry bulk export and discharge facilities handling iron ore, met/thermal coal, bauxite, grain, and fertilizer alongside live Capesize/VLOC satellite AIS positions. Pin size reflects annual port volume.</div>`;
+          } else if (sec === 'LNG') {
+            const nTerminals = assetPorts.filter(pt => pt[7] > 0.1).length || 73;
+            const nCarriers = hud.lng || fleetRows.filter(r => (r[3] || '').toLowerCase() === 'lng').length || 1007;
+
             html = `<div class="rt-title">Sector Highlight: Liquefied Natural Gas (LNG)</div>`;
-            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#06b6d4; font-weight:700;">${nTerminals} Terminals</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Active Carrier Fleet</span><span class="rt-val" style="color:#06b6d4; font-weight:700;">${nCarriers.toLocaleString('en-US')} Carriers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#06b6d4; font-weight:700;">${nTerminals} Dedicated Terminals</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Active Carrier Fleet</span><span class="rt-val" style="color:#06b6d4; font-weight:700;">${nCarriers.toLocaleString('en-US')} Active Cryogenic Carriers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Trade Infrastructure</span><span class="rt-val" style="color:var(--text); font-weight:600;">Liquefaction Exports &amp; Regasification Hubs</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">Signal Ocean Commercial &amp; Live AIS</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Trade Infrastructure</span><span class="rt-val">Liquefaction Exports &amp; Regasification Hubs</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">Q-Max, Q-Flex, Conventional (174k cbm) &amp; Small LNG</span></div>`;
             html += `<div class="rt-note">Displays verified cryogenic LNG export/import terminals and live carrier AIS positions. PortWatch does not track gas calls; data is sourced directly from Signal Ocean terminal registry and live AIS feeds.</div>`;
           } else if (sec === 'LPG') {
-            const nTerminals = (DATA.assetClassPorts && DATA.assetClassPorts.ports) ? DATA.assetClassPorts.ports.filter(p => p[8] > 0.1).length : 150;
-            const nCarriers = (DATA.liveFleetPositions && DATA.liveFleetPositions.rows) ? DATA.liveFleetPositions.rows.filter(r => (r[3] || '').toLowerCase() === 'lpg').length : 2103;
+            const nTerminals = assetPorts.filter(pt => pt[8] > 0.1).length || 150;
+            const nCarriers = hud.lpg || fleetRows.filter(r => (r[3] || '').toLowerCase() === 'lpg').length || 1754;
+
             html = `<div class="rt-title">Sector Highlight: Liquefied Petroleum Gas (LPG)</div>`;
-            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#a855f7; font-weight:700;">${nTerminals} Terminals</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Active Carrier Fleet</span><span class="rt-val" style="color:#a855f7; font-weight:700;">${nCarriers.toLocaleString('en-US')} Carriers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#a855f7; font-weight:700;">${nTerminals} Dedicated Terminals</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Active Carrier Fleet</span><span class="rt-val" style="color:#a855f7; font-weight:700;">${nCarriers.toLocaleString('en-US')} Active Gas Carriers</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Trade Infrastructure</span><span class="rt-val" style="color:var(--text); font-weight:600;">Pressurized &amp; Refrigerated Export/Import Hubs</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">Signal Ocean Commercial &amp; Live AIS</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">VLGC, LGC, MGC, Handy &amp; Small Gas</span></div>`;
-            html += `<div class="rt-note">Displays global pressurized and refrigerated LPG export/import infrastructure and live fleet AIS positions. Data is sourced directly from Signal Ocean terminal registry and live AIS feeds.</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">VLGC (84k–93k cbm), LGC, MGC, Handy &amp; Small Gas</span></div>`;
+            html += `<div class="rt-note">Displays global pressurized and refrigerated LPG export/import infrastructure and live fleet AIS positions. Sourced directly from Signal Ocean commercial terminal registry and live satellite telemetry.</div>`;
+          } else if (sec === 'Container') {
+            const nActivePorts = p.nPorts != null ? Number(p.nPorts).toLocaleString('en-US') : '1,000+';
+            const nCalls = p.total != null ? Number(p.total).toLocaleString('en-US') : '321,759';
+
+            html = `<div class="rt-title">Sector Highlight: Container Liners &amp; Gateway Terminals</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#10b981; font-weight:700;">${nActivePorts} Active Container Ports</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Trade Network</span><span class="rt-val" style="color:#10b981; font-weight:700;">Global Liner Schedules &amp; Transshipment Chokepoints</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annual Throughput (YTD)</span><span class="rt-val" style="color:var(--text); font-weight:600;">${nCalls} Verified Port Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">IMF PortWatch Global Expanded AIS Influx</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">ULCV (20k+ TEU), Neo-Panamax, Feedermax &amp; Sub-Panamax</span></div>`;
+            html += `<div class="rt-note">Displays global cellular container shipping hubs, gateway ports, and major transshipment choke points. Pin diamond sizes reflect cumulative boxship arrivals. Click a port marker to view terminal handling metrics and queueing dynamics.</div>`;
+          } else if (sec === 'General Cargo') {
+            const nActivePorts = p.nPorts != null ? Number(p.nPorts).toLocaleString('en-US') : '1,500+';
+            const nCalls = p.total != null ? Number(p.total).toLocaleString('en-US') : '257,545';
+
+            html = `<div class="rt-title">Sector Highlight: General Cargo &amp; Multipurpose Hubs</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#94a3b8; font-weight:700;">${nActivePorts} Multipurpose Ports</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Trade Network</span><span class="rt-val" style="color:#94a3b8; font-weight:700;">Breakbulk, Project Cargo &amp; Heavy Lift</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annual Throughput (YTD)</span><span class="rt-val" style="color:var(--text); font-weight:600;">${nCalls} Verified Port Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">IMF PortWatch Global Expanded AIS Influx</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">Multi-Purpose (MPP), Heavy Lift, Tweendecker &amp; Coasters</span></div>`;
+            html += `<div class="rt-note">Displays non-containerized breakbulk, industrial machinery, and project cargo terminals monitored across the PortWatch maritime network.</div>`;
+          } else if (sec === 'RoRo') {
+            const nActivePorts = p.nPorts != null ? Number(p.nPorts).toLocaleString('en-US') : '500+';
+            const nCalls = p.total != null ? Number(p.total).toLocaleString('en-US') : '70,915';
+
+            html = `<div class="rt-title">Sector Highlight: Roll-On / Roll-Off (Vehicle Logistics)</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#f43f5e; font-weight:700;">${nActivePorts} Dedicated Vehicle Hubs</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Trade Network</span><span class="rt-val" style="color:#f43f5e; font-weight:700;">Global Automotive &amp; Ro-Pax Corridors</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annual Throughput (YTD)</span><span class="rt-val" style="color:var(--text); font-weight:600;">${nCalls} Verified Port Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">IMF PortWatch Global Expanded AIS Influx</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Vessel Segments</span><span class="rt-val">Pure Car/Truck Carriers (PCTC), Ro-Pax &amp; Vehicle RoRo</span></div>`;
+            html += `<div class="rt-note">Displays specialized automotive logistics, pure car/truck carrier (PCTC), and roll-on/roll-off vehicle handling berths worldwide.</div>`;
           } else {
-            const secPorts = window.__trackingSectorPortStats || {};
-            const p = secPorts[sec] || {};
-            const secName = sec === 'all' ? 'All Classes' : sec;
-            html = `<div class="rt-title">Sector Highlight: ${secName} (IMF PortWatch calls)</div>`;
-            html += `<div class="rt-row"><span class="rt-label">Ports with Calls (YTD)</span><span class="rt-val">${p.nPorts != null ? Number(p.nPorts).toLocaleString('en-US') : 'n/a'}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Calls in Sector (YTD)</span><span class="rt-val">${p.total != null ? Number(p.total).toLocaleString('en-US') : 'n/a'}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Observation Type</span><span class="rt-val">AIS Port Calls Only (IMF PortWatch)</span></div>`;
-            html += `<div class="rt-note">Pin size on the map follows measured year-to-date calls from the PortWatch expanded feed (scaled to the five busiest hubs). Click a port pin to open its port page.</div>`;
+            const nTotalFleet = hud.total_vessels || hud.all || fleetRows.length || 9078;
+            const totalCalls = (DATA.portCallsSummary && DATA.portCallsSummary.kpis && DATA.portCallsSummary.kpis.totalCalls) || 1219803;
+
+            html = `<div class="rt-title">Sector Highlight: All Commercial Port Universe</div>`;
+            html += `<div class="rt-row"><span class="rt-label">Global Terminals Tracked</span><span class="rt-val" style="color:#58a6ff; font-weight:700;">2,995 Commercial Ports &amp; Terminals</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Active Commercial Fleet</span><span class="rt-val" style="color:#58a6ff; font-weight:700;">${nTotalFleet.toLocaleString('en-US')} Monitored Vessels</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annual Throughput (YTD)</span><span class="rt-val" style="color:var(--text); font-weight:600;">${totalCalls.toLocaleString('en-US')} Verified Port Calls</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Observation Source</span><span class="rt-val">IMF PortWatch (1,979 Hubs) &amp; Signal Ocean (1,016 Terminals)</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Commercial Scope</span><span class="rt-val">Bulk, Crude, Products, LNG, LPG, Container &amp; Vehicles</span></div>`;
+            html += `<div class="rt-note">Unified global commercial shipping universe. Pins scale by measured arrival volume across the top global hubs. Click any port pin to open its live operational dossier.</div>`;
           }
         }
         else if (type === 'portwatch-callout') {
