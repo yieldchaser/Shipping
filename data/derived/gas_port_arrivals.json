@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-20 06:16:50 UTC",
+  "as_of": "2026-09-20 06:23:34 UTC",
   "total_gas_arrivals": 1065,
   "ports_count": 381,
   "ports": [
@@ -1061,7 +1061,7 @@
         {
           "imo": 9277462,
           "name": "Sanha LPG FPSO",
-          "speed": 0.5,
+          "speed": 0.3,
           "status": "At Anchor",
           "operator": "Chevron",
           "distance_km": 0.1
@@ -3842,7 +3842,7 @@
           "speed": 0.0,
           "status": "At Anchor",
           "operator": "Qatar Gas Transport",
-          "distance_km": 29.0
+          "distance_km": 28.9
         },
         {
           "imo": 9360855,
@@ -5167,7 +5167,7 @@
           "speed": 0.2,
           "status": "At Anchor",
           "operator": "Qatar Gas Transport",
-          "distance_km": 27.5
+          "distance_km": 27.6
         },
         {
           "imo": 9255854,

@@ -1,14 +1,16 @@
 {
   "metadata": {
-    "title": "Macro Benchmark Core Fleet (1,400 Hulls)",
-    "description": "Curated strategic merchant fleet tracking >75% of global seaborne ton-miles, prioritizing Dry Bulk and Tankers.",
-    "total_hulls": 1400,
+    "title": "Macro Benchmark Core Fleet (1,650 Hulls)",
+    "description": "Curated strategic merchant fleet tracking >80% of global seaborne ton-miles across VLOC, Capesize, Panamax, Supramax, VLCC, Suezmax, LNG, and LPG.",
+    "total_hulls": 1650,
     "sectors": {
       "dry_bulk": {
-        "count": 700,
+        "count": 950,
         "subclasses": {
           "valemax_vloc": 398,
-          "capesize_newcastlemax": 302
+          "capesize_newcastlemax": 302,
+          "panamax_kamsarmax": 150,
+          "supramax_ultramax": 100
         },
         "type_header": "3"
       },
@@ -5637,6 +5639,2006 @@
         "dwt": 209566,
         "built": 2020,
         "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9877913,
+        "name": "Gia Glory",
+        "class": "Panamax",
+        "dwt": 84998,
+        "built": 2022,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9877860,
+        "name": "Lime Mia",
+        "class": "Panamax",
+        "dwt": 84998,
+        "built": 2021,
+        "operator": "Western Bulk"
+      },
+      {
+        "imo": 9877925,
+        "name": "Xh Hope",
+        "class": "Panamax",
+        "dwt": 84998,
+        "built": 2022,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9949314,
+        "name": "Xing Huan Hai",
+        "class": "Panamax",
+        "dwt": 84998,
+        "built": 2022,
+        "operator": "Fortune Ocean Shipping"
+      },
+      {
+        "imo": 9949326,
+        "name": "Xing Le Hai",
+        "class": "Panamax",
+        "dwt": 84998,
+        "built": 2023,
+        "operator": "Norden"
+      },
+      {
+        "imo": 9977165,
+        "name": "Golden Tide",
+        "class": "Panamax",
+        "dwt": 84996,
+        "built": 2024,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9877858,
+        "name": "Lime Sara",
+        "class": "Panamax",
+        "dwt": 84994,
+        "built": 2021,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9749300,
+        "name": "Ionic Pride",
+        "class": "Panamax",
+        "dwt": 84992,
+        "built": 2017,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9948425,
+        "name": "Lime Alina",
+        "class": "Panamax",
+        "dwt": 84990,
+        "built": 2022,
+        "operator": "Sky Fusion"
+      },
+      {
+        "imo": 9877846,
+        "name": "Yasa Diamond",
+        "class": "Panamax",
+        "dwt": 84989,
+        "built": 2021,
+        "operator": "Yasa Shipping"
+      },
+      {
+        "imo": 9977177,
+        "name": "Golden Faith",
+        "class": "Panamax",
+        "dwt": 84988,
+        "built": 2024,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9950703,
+        "name": "Golden Star",
+        "class": "Panamax",
+        "dwt": 84988,
+        "built": 2023,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9877884,
+        "name": "Sdtr Faith",
+        "class": "Panamax",
+        "dwt": 84988,
+        "built": 2022,
+        "operator": "Smart Gain Shipping"
+      },
+      {
+        "imo": 9955569,
+        "name": "Golden Hope",
+        "class": "Panamax",
+        "dwt": 84986,
+        "built": 2023,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9950715,
+        "name": "Golden Soul",
+        "class": "Panamax",
+        "dwt": 84986,
+        "built": 2023,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9977153,
+        "name": "Golden Wave",
+        "class": "Panamax",
+        "dwt": 84984,
+        "built": 2024,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9877896,
+        "name": "Sdtr Gloria",
+        "class": "Panamax",
+        "dwt": 84984,
+        "built": 2022,
+        "operator": "MUR Shipping"
+      },
+      {
+        "imo": 9877872,
+        "name": "Sdtr Erica",
+        "class": "Panamax",
+        "dwt": 84981,
+        "built": 2021,
+        "operator": "SDTR"
+      },
+      {
+        "imo": 9877901,
+        "name": "Sdtr Hera",
+        "class": "Panamax",
+        "dwt": 84980,
+        "built": 2022,
+        "operator": "Smart Gain Shipping"
+      },
+      {
+        "imo": 9740835,
+        "name": "Golden Kennedy",
+        "class": "Panamax",
+        "dwt": 84978,
+        "built": 2015,
+        "operator": "Golden Ocean"
+      },
+      {
+        "imo": 9928267,
+        "name": "Transcenden Ag",
+        "class": "Panamax",
+        "dwt": 84978,
+        "built": 2022,
+        "operator": "Classic Maritime"
+      },
+      {
+        "imo": 9877834,
+        "name": "Sdtr Alice",
+        "class": "Panamax",
+        "dwt": 84972,
+        "built": 2021,
+        "operator": "Mirabulk"
+      },
+      {
+        "imo": 9678484,
+        "name": "Golden Deb",
+        "class": "Panamax",
+        "dwt": 84970,
+        "built": 2014,
+        "operator": "Golden Ocean"
+      },
+      {
+        "imo": 9928243,
+        "name": "CS Chongqing",
+        "class": "Panamax",
+        "dwt": 84967,
+        "built": 2022,
+        "operator": "Norden"
+      },
+      {
+        "imo": 9950727,
+        "name": "Golden Lion",
+        "class": "Panamax",
+        "dwt": 84967,
+        "built": 2023,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9948839,
+        "name": "Transcenden Emerald",
+        "class": "Panamax",
+        "dwt": 84958,
+        "built": 2023,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9740811,
+        "name": "Kyoto Star",
+        "class": "Panamax",
+        "dwt": 84956,
+        "built": 2016,
+        "operator": "Bunge"
+      },
+      {
+        "imo": 9928231,
+        "name": "CS Chengdu",
+        "class": "Panamax",
+        "dwt": 84953,
+        "built": 2022,
+        "operator": "Wah Kwong Ship Management"
+      },
+      {
+        "imo": 9740809,
+        "name": "Osaka Star",
+        "class": "Panamax",
+        "dwt": 84947,
+        "built": 2016,
+        "operator": "TMM Division Maritima"
+      },
+      {
+        "imo": 9678472,
+        "name": "Golden Sue",
+        "class": "Panamax",
+        "dwt": 84943,
+        "built": 2013,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9948841,
+        "name": "Transcenden Fortune",
+        "class": "Panamax",
+        "dwt": 84940,
+        "built": 2023,
+        "operator": "Classic Maritime"
+      },
+      {
+        "imo": 9863285,
+        "name": "Ishizuchi 2",
+        "class": "Panamax",
+        "dwt": 84927,
+        "built": 2020,
+        "operator": "Mitsui OSK Lines"
+      },
+      {
+        "imo": 9860556,
+        "name": "Jal Kamadhenu",
+        "class": "Panamax",
+        "dwt": 84914,
+        "built": 2020,
+        "operator": "Jaldhi"
+      },
+      {
+        "imo": 9774264,
+        "name": "Navios Coral",
+        "class": "Panamax",
+        "dwt": 84904,
+        "built": 2016,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9713791,
+        "name": "Sakizaya Glory",
+        "class": "Panamax",
+        "dwt": 84883,
+        "built": 2016,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9738818,
+        "name": "Navios Sphera",
+        "class": "Panamax",
+        "dwt": 84872,
+        "built": 2016,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9712498,
+        "name": "S Rumba",
+        "class": "Panamax",
+        "dwt": 84867,
+        "built": 2015,
+        "operator": "Scorpio Commercial Management"
+      },
+      {
+        "imo": 9712486,
+        "name": "S Samba",
+        "class": "Panamax",
+        "dwt": 84867,
+        "built": 2015,
+        "operator": "COFCO Group"
+      },
+      {
+        "imo": 9875147,
+        "name": "Dream Team",
+        "class": "Panamax",
+        "dwt": 84861,
+        "built": 2020,
+        "operator": "COFCO Group"
+      },
+      {
+        "imo": 9748033,
+        "name": "Crimson Kingdom",
+        "class": "Panamax",
+        "dwt": 84860,
+        "built": 2016,
+        "operator": "Baumarine"
+      },
+      {
+        "imo": 9748045,
+        "name": "MG Hammond",
+        "class": "Panamax",
+        "dwt": 84858,
+        "built": 2016,
+        "operator": "Klaveness"
+      },
+      {
+        "imo": 9885013,
+        "name": "Camellia Island",
+        "class": "Panamax",
+        "dwt": 84854,
+        "built": 2020,
+        "operator": "Shikishima Kisen"
+      },
+      {
+        "imo": 9785366,
+        "name": "Ionic Patris",
+        "class": "Panamax",
+        "dwt": 84850,
+        "built": 2017,
+        "operator": "Comerge Shipping"
+      },
+      {
+        "imo": 9785354,
+        "name": "Ionic Pleione",
+        "class": "Panamax",
+        "dwt": 84850,
+        "built": 2017,
+        "operator": "Comerge Shipping"
+      },
+      {
+        "imo": 9698226,
+        "name": "Troodos Air",
+        "class": "Panamax",
+        "dwt": 84849,
+        "built": 2016,
+        "operator": "Archer Daniels Midland Company"
+      },
+      {
+        "imo": 9698238,
+        "name": "Troodos Sun",
+        "class": "Panamax",
+        "dwt": 84849,
+        "built": 2016,
+        "operator": "Mirabulk"
+      },
+      {
+        "imo": 9860544,
+        "name": "Jal Tara",
+        "class": "Panamax",
+        "dwt": 84827,
+        "built": 2019,
+        "operator": "Smart Gain Shipping"
+      },
+      {
+        "imo": 9790919,
+        "name": "Unity Neptune",
+        "class": "Panamax",
+        "dwt": 84808,
+        "built": 2017,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9782209,
+        "name": "Unity Sakura",
+        "class": "Panamax",
+        "dwt": 84808,
+        "built": 2016,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9757785,
+        "name": "Navios Alegria",
+        "class": "Panamax",
+        "dwt": 84806,
+        "built": 2016,
+        "operator": "NYK Line"
+      },
+      {
+        "imo": 9774276,
+        "name": "MG Earth",
+        "class": "Panamax",
+        "dwt": 84790,
+        "built": 2016,
+        "operator": "Baumarine"
+      },
+      {
+        "imo": 9767479,
+        "name": "MG Explorer",
+        "class": "Panamax",
+        "dwt": 84790,
+        "built": 2016,
+        "operator": "Baumarine"
+      },
+      {
+        "imo": 9774288,
+        "name": "MG Kronos",
+        "class": "Panamax",
+        "dwt": 84790,
+        "built": 2016,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9774290,
+        "name": "Unity Grit",
+        "class": "Panamax",
+        "dwt": 84790,
+        "built": 2016,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9796195,
+        "name": "Ionic Kallirhoglf. Ha",
+        "class": "Panamax",
+        "dwt": 84769,
+        "built": 2020,
+        "operator": "Comerge Shipping"
+      },
+      {
+        "imo": 9928255,
+        "name": "Transcenden Crystal",
+        "class": "Panamax",
+        "dwt": 84740,
+        "built": 2022,
+        "operator": "Classic Maritime"
+      },
+      {
+        "imo": 9789843,
+        "name": "Tai Keystone",
+        "class": "Panamax",
+        "dwt": 84703,
+        "built": 2017,
+        "operator": "Classic Maritime"
+      },
+      {
+        "imo": 9789855,
+        "name": "Tai Kingdom",
+        "class": "Panamax",
+        "dwt": 84703,
+        "built": 2017,
+        "operator": "Norden"
+      },
+      {
+        "imo": 9840881,
+        "name": "FJ Ruby",
+        "class": "Panamax",
+        "dwt": 84700,
+        "built": 2019,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9713911,
+        "name": "Nord Draco",
+        "class": "Panamax",
+        "dwt": 84694,
+        "built": 2014,
+        "operator": "Mirabulk"
+      },
+      {
+        "imo": 9805788,
+        "name": "Taho Asia",
+        "class": "Panamax",
+        "dwt": 84625,
+        "built": 2018,
+        "operator": "SwissMarine"
+      },
+      {
+        "imo": 9805790,
+        "name": "Taho Europe",
+        "class": "Panamax",
+        "dwt": 84625,
+        "built": 2018,
+        "operator": "Jera Trading"
+      },
+      {
+        "imo": 1053327,
+        "name": "CSPC Jupiter",
+        "class": "Panamax",
+        "dwt": 84582,
+        "built": 2025,
+        "operator": "Citic"
+      },
+      {
+        "imo": 1053315,
+        "name": "CSPC Mars",
+        "class": "Panamax",
+        "dwt": 84582,
+        "built": 2025,
+        "operator": "Citic"
+      },
+      {
+        "imo": 1053298,
+        "name": "CSPC Mercury",
+        "class": "Panamax",
+        "dwt": 84582,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1053339,
+        "name": "CSPC Neptune",
+        "class": "Panamax",
+        "dwt": 84582,
+        "built": 2025,
+        "operator": "Citic"
+      },
+      {
+        "imo": 1053303,
+        "name": "CSPC Venus",
+        "class": "Panamax",
+        "dwt": 84582,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9903310,
+        "name": "Tai Kindness",
+        "class": "Panamax",
+        "dwt": 84574,
+        "built": 2021,
+        "operator": "Bohai Leasing"
+      },
+      {
+        "imo": 9955571,
+        "name": "Golden Frigo",
+        "class": "Panamax",
+        "dwt": 84520,
+        "built": 2024,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9883857,
+        "name": "Tai Kinship",
+        "class": "Panamax",
+        "dwt": 84509,
+        "built": 2021,
+        "operator": "Transcenden"
+      },
+      {
+        "imo": 9955595,
+        "name": "Golden Fridge",
+        "class": "Panamax",
+        "dwt": 84508,
+        "built": 2023,
+        "operator": "CMB"
+      },
+      {
+        "imo": 9955583,
+        "name": "Golden Frozen",
+        "class": "Panamax",
+        "dwt": 84504,
+        "built": 2023,
+        "operator": "CMB"
+      },
+      {
+        "imo": 1051862,
+        "name": "CSPC Aries",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "Citic"
+      },
+      {
+        "imo": 1048334,
+        "name": "CSPC Crystal",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "Citic"
+      },
+      {
+        "imo": 1051939,
+        "name": "CSPC Gemini",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1034383,
+        "name": "Cspc Horizon",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1048346,
+        "name": "CSPC Jade",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1048360,
+        "name": "CSPC Pearl",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "Citic"
+      },
+      {
+        "imo": 1048372,
+        "name": "CSPC Ruby",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1048384,
+        "name": "CSPC Sapphire",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1034395,
+        "name": "Cspc Skyline",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1051927,
+        "name": "CSPC Taurus",
+        "class": "Panamax",
+        "dwt": 84500,
+        "built": 2025,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9906740,
+        "name": "Taho Circular",
+        "class": "Panamax",
+        "dwt": 84484,
+        "built": 2022,
+        "operator": "Bohai Leasing"
+      },
+      {
+        "imo": 9919319,
+        "name": "Taho Eudaimonia",
+        "class": "Panamax",
+        "dwt": 84460,
+        "built": 2022,
+        "operator": "Classic Maritime"
+      },
+      {
+        "imo": 9919321,
+        "name": "Taho Virtue",
+        "class": "Panamax",
+        "dwt": 84460,
+        "built": 2022,
+        "operator": "Bohai Leasing"
+      },
+      {
+        "imo": 9883845,
+        "name": "Tai Knighthood",
+        "class": "Panamax",
+        "dwt": 84434,
+        "built": 2021,
+        "operator": "Comerge Shipping"
+      },
+      {
+        "imo": 9862970,
+        "name": "Yong May",
+        "class": "Panamax",
+        "dwt": 84338,
+        "built": 2020,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9862982,
+        "name": "Zhen May",
+        "class": "Panamax",
+        "dwt": 84336,
+        "built": 2021,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9906790,
+        "name": "Saikai Maru II",
+        "class": "Panamax",
+        "dwt": 84121,
+        "built": 2021,
+        "operator": "Fukujin Shipping"
+      },
+      {
+        "imo": 9525613,
+        "name": "Maha Yaya",
+        "class": "Panamax",
+        "dwt": 84109,
+        "built": 2013,
+        "operator": "Five Stars Chartering"
+      },
+      {
+        "imo": 9591155,
+        "name": "Fyla",
+        "class": "Panamax",
+        "dwt": 84104,
+        "built": 2013,
+        "operator": "East 33 Maritime"
+      },
+      {
+        "imo": 9525625,
+        "name": "Lia M",
+        "class": "Panamax",
+        "dwt": 84094,
+        "built": 2013,
+        "operator": "Transmed Shipping"
+      },
+      {
+        "imo": 9510694,
+        "name": "Glade",
+        "class": "Panamax",
+        "dwt": 84091,
+        "built": 2011,
+        "operator": "Halcoussis"
+      },
+      {
+        "imo": 9591143,
+        "name": "Akaki",
+        "class": "Panamax",
+        "dwt": 84075,
+        "built": 2013,
+        "operator": "East 33 Maritime"
+      },
+      {
+        "imo": 9503782,
+        "name": "Iolcos Genesis",
+        "class": "Panamax",
+        "dwt": 84062,
+        "built": 2011,
+        "operator": "Iolcos Hellenic Maritime Enterprises"
+      },
+      {
+        "imo": 9591167,
+        "name": "Epictetus",
+        "class": "Panamax",
+        "dwt": 83987,
+        "built": 2013,
+        "operator": "East 33 Maritime"
+      },
+      {
+        "imo": 9591181,
+        "name": "Maha Tanaya",
+        "class": "Panamax",
+        "dwt": 83987,
+        "built": 2013,
+        "operator": "Five Stars Chartering"
+      },
+      {
+        "imo": 9591179,
+        "name": "Seneca",
+        "class": "Panamax",
+        "dwt": 83975,
+        "built": 2013,
+        "operator": "East 33 Maritime"
+      },
+      {
+        "imo": 9402952,
+        "name": "Hui Tong",
+        "class": "Panamax",
+        "dwt": 83601,
+        "built": 2010,
+        "operator": "Pan Ocean"
+      },
+      {
+        "imo": 9442536,
+        "name": "Star Electra",
+        "class": "Panamax",
+        "dwt": 83494,
+        "built": 2011,
+        "operator": "Star Bulk"
+      },
+      {
+        "imo": 9482263,
+        "name": "Forte De Sao Felipe",
+        "class": "Panamax",
+        "dwt": 83486,
+        "built": 2012,
+        "operator": "Empresa Naviera Elcano"
+      },
+      {
+        "imo": 9552812,
+        "name": "Fidelity",
+        "class": "Panamax",
+        "dwt": 83483,
+        "built": 2010,
+        "operator": "Ursa Maritime"
+      },
+      {
+        "imo": 9442500,
+        "name": "Yasa H. Mehmet",
+        "class": "Panamax",
+        "dwt": 83482,
+        "built": 2011,
+        "operator": "Yasa Shipping"
+      },
+      {
+        "imo": 9442512,
+        "name": "Yasa H. Mulla",
+        "class": "Panamax",
+        "dwt": 83482,
+        "built": 2011,
+        "operator": "Yasa Shipping"
+      },
+      {
+        "imo": 9442471,
+        "name": "Perseas",
+        "class": "Panamax",
+        "dwt": 83480,
+        "built": 2011,
+        "operator": "Langlois"
+      },
+      {
+        "imo": 9580209,
+        "name": "Aeolian",
+        "class": "Panamax",
+        "dwt": 83478,
+        "built": 2012,
+        "operator": "Western Bulk"
+      },
+      {
+        "imo": 9442483,
+        "name": "GW Delta",
+        "class": "Panamax",
+        "dwt": 83476,
+        "built": 2010,
+        "operator": "Joint Vision Shipping"
+      },
+      {
+        "imo": 9433664,
+        "name": "Erena",
+        "class": "Panamax",
+        "dwt": 83468,
+        "built": 2011,
+        "operator": "GS Maritime"
+      },
+      {
+        "imo": 9442495,
+        "name": "Santa Cruz",
+        "class": "Panamax",
+        "dwt": 83456,
+        "built": 2011,
+        "operator": "Eastern Mediterranean Maritime"
+      },
+      {
+        "imo": 9442524,
+        "name": "Erithiani",
+        "class": "Panamax",
+        "dwt": 83454,
+        "built": 2012,
+        "operator": "Golden Union"
+      },
+      {
+        "imo": 9442378,
+        "name": "Panamanian",
+        "class": "Panamax",
+        "dwt": 83448,
+        "built": 2010,
+        "operator": "Magna Marine"
+      },
+      {
+        "imo": 9442380,
+        "name": "Ocean Venus",
+        "class": "Panamax",
+        "dwt": 83416,
+        "built": 2010,
+        "operator": "C Transport Maritime"
+      },
+      {
+        "imo": 9552836,
+        "name": "Veloce",
+        "class": "Panamax",
+        "dwt": 83410,
+        "built": 2010,
+        "operator": "Delaway Maritime"
+      },
+      {
+        "imo": 9442407,
+        "name": "Magic Thunder",
+        "class": "Panamax",
+        "dwt": 83375,
+        "built": 2011,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9552824,
+        "name": "Alliance",
+        "class": "Panamax",
+        "dwt": 83369,
+        "built": 2010,
+        "operator": "Trust Bulkers"
+      },
+      {
+        "imo": 9539248,
+        "name": "Zurich Star",
+        "class": "Panamax",
+        "dwt": 83366,
+        "built": 2011,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9442392,
+        "name": "Safeen Al Nour",
+        "class": "Panamax",
+        "dwt": 83353,
+        "built": 2010,
+        "operator": "Safeen Feeders"
+      },
+      {
+        "imo": 1032218,
+        "name": "Baltazar",
+        "class": "Panamax",
+        "dwt": 83300,
+        "built": 2026,
+        "operator": "Klaveness"
+      },
+      {
+        "imo": 1032191,
+        "name": "Balder",
+        "class": "Panamax",
+        "dwt": 83276,
+        "built": 2026,
+        "operator": "Klaveness"
+      },
+      {
+        "imo": 1032206,
+        "name": "Bastion",
+        "class": "Panamax",
+        "dwt": 83253,
+        "built": 2026,
+        "operator": "Klaveness"
+      },
+      {
+        "imo": 1031496,
+        "name": "Legend",
+        "class": "Panamax",
+        "dwt": 83203,
+        "built": 2026,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 1047770,
+        "name": "Prometheus",
+        "class": "Panamax",
+        "dwt": 83134,
+        "built": 2026,
+        "operator": "Laskaridis Shipping"
+      },
+      {
+        "imo": 1047768,
+        "name": "Pafsanias",
+        "class": "Panamax",
+        "dwt": 83094,
+        "built": 2025,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 1019840,
+        "name": "Xh Deep Cover",
+        "class": "Panamax",
+        "dwt": 83070,
+        "built": 2024,
+        "operator": "Aquavita"
+      },
+      {
+        "imo": 1019852,
+        "name": "Xh Square Leg",
+        "class": "Panamax",
+        "dwt": 83055,
+        "built": 2024,
+        "operator": "Aquavita"
+      },
+      {
+        "imo": 9490129,
+        "name": "Safeen Al Aman",
+        "class": "Panamax",
+        "dwt": 83027,
+        "built": 2012,
+        "operator": "Safeen Feeders"
+      },
+      {
+        "imo": 9948396,
+        "name": "Tsuneishi Cebu Sc406",
+        "class": "Panamax",
+        "dwt": 83000,
+        "built": 2025,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9983530,
+        "name": "Pedhoulas Fighter",
+        "class": "Panamax",
+        "dwt": 82994,
+        "built": 2024,
+        "operator": "Archer Daniels Midland Company"
+      },
+      {
+        "imo": 9643154,
+        "name": "The Harmony",
+        "class": "Panamax",
+        "dwt": 82986,
+        "built": 2013,
+        "operator": "MC Shipping"
+      },
+      {
+        "imo": 1050155,
+        "name": "Toiny",
+        "class": "Panamax",
+        "dwt": 82952,
+        "built": 2025,
+        "operator": "Drybulk"
+      },
+      {
+        "imo": 9658680,
+        "name": "Lila Fuji",
+        "class": "Panamax",
+        "dwt": 82938,
+        "built": 2013,
+        "operator": "Jaldhi"
+      },
+      {
+        "imo": 9665932,
+        "name": "Grampus Charm",
+        "class": "Panamax",
+        "dwt": 82937,
+        "built": 2013,
+        "operator": "Costamare"
+      },
+      {
+        "imo": 9652507,
+        "name": "ADS Arendal",
+        "class": "Panamax",
+        "dwt": 82908,
+        "built": 2013,
+        "operator": "Cobelfret"
+      },
+      {
+        "imo": 1050167,
+        "name": "Saline",
+        "class": "Panamax",
+        "dwt": 82905,
+        "built": 2025,
+        "operator": "Drybulk"
+      },
+      {
+        "imo": 1111363,
+        "name": "ASL Mercury",
+        "class": "Panamax",
+        "dwt": 82901,
+        "built": 2026,
+        "operator": "Ming Wah"
+      },
+      {
+        "imo": 1073652,
+        "name": "Pacific Iris",
+        "class": "Panamax",
+        "dwt": 82892,
+        "built": 2025,
+        "operator": "Anglo American"
+      },
+      {
+        "imo": 9868912,
+        "name": "XH Sunshine",
+        "class": "Panamax",
+        "dwt": 82884,
+        "built": 2025,
+        "operator": "Bohai Leasing"
+      },
+      {
+        "imo": 1073664,
+        "name": "Pacific Hibiscus",
+        "class": "Panamax",
+        "dwt": 82877,
+        "built": 2025,
+        "operator": "Chipolpek"
+      },
+      {
+        "imo": 9868900,
+        "name": "XH Dream",
+        "class": "Panamax",
+        "dwt": 82876,
+        "built": 2024,
+        "operator": "Koch"
+      },
+      {
+        "imo": 9592604,
+        "name": "Ces Harmony",
+        "class": "Panamax",
+        "dwt": 82861,
+        "built": 2012,
+        "operator": "Seacon Shipping"
+      },
+      {
+        "imo": 9592616,
+        "name": "Alexandria",
+        "class": "Panamax",
+        "dwt": 82852,
+        "built": 2012,
+        "operator": "Oldendorff"
+      },
+      {
+        "imo": 9971898,
+        "name": "Amabiko",
+        "class": "Panamax",
+        "dwt": 82835,
+        "built": 2023,
+        "operator": "Bunge"
+      },
+      {
+        "imo": 9966867,
+        "name": "Ain Al Kasfah",
+        "class": "Panamax",
+        "dwt": 82834,
+        "built": 2024,
+        "operator": "Tongli"
+      },
+      {
+        "imo": 9555785,
+        "name": "NS Tambaqui",
+        "class": "Panamax",
+        "dwt": 82834,
+        "built": 2013,
+        "operator": "Hidrovias Do Brasil-Cabotagem"
+      },
+      {
+        "imo": 9555797,
+        "name": "NS Tucunare",
+        "class": "Panamax",
+        "dwt": 82834,
+        "built": 2015,
+        "operator": "Norsul"
+      },
+      {
+        "imo": 1020069,
+        "name": "AOM Piera",
+        "class": "Panamax",
+        "dwt": 82823,
+        "built": 2026,
+        "operator": "Toyo Sangyo"
+      },
+      {
+        "imo": 1020057,
+        "name": "UM Ehime",
+        "class": "Panamax",
+        "dwt": 82818,
+        "built": 2026,
+        "operator": "Javelin Global Commodities"
+      },
+      {
+        "imo": 9966855,
+        "name": "Pan Concord",
+        "class": "Panamax",
+        "dwt": 82814,
+        "built": 2024,
+        "operator": "Pan Ocean"
+      },
+      {
+        "imo": 9988346,
+        "name": "Great Flourish",
+        "class": "Panamax",
+        "dwt": 82811,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9984730,
+        "name": "Aquavita Journey",
+        "class": "Panamax",
+        "dwt": 82806,
+        "built": 2024,
+        "operator": "Aquavita"
+      },
+      {
+        "imo": 9964340,
+        "name": "Aquavita Glow",
+        "class": "Supramax",
+        "dwt": 66745,
+        "built": 2023,
+        "operator": "Aquavita"
+      },
+      {
+        "imo": 9636450,
+        "name": "Sea Pride I",
+        "class": "Supramax",
+        "dwt": 66721,
+        "built": 2013,
+        "operator": "Sea Trade Marine"
+      },
+      {
+        "imo": 1056678,
+        "name": "Delavita",
+        "class": "Supramax",
+        "dwt": 66685,
+        "built": 2026,
+        "operator": "Tata"
+      },
+      {
+        "imo": 9985655,
+        "name": "Ipsarion",
+        "class": "Supramax",
+        "dwt": 66685,
+        "built": 2024,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9636462,
+        "name": "Akij Harmony",
+        "class": "Supramax",
+        "dwt": 66684,
+        "built": 2014,
+        "operator": "Akij Shipping Line"
+      },
+      {
+        "imo": 9941946,
+        "name": "Marimyr A",
+        "class": "Supramax",
+        "dwt": 66662,
+        "built": 2023,
+        "operator": "Mykonos Shipping"
+      },
+      {
+        "imo": 9760055,
+        "name": "Christina V",
+        "class": "Supramax",
+        "dwt": 66653,
+        "built": 2018,
+        "operator": "Alexandria Shipping"
+      },
+      {
+        "imo": 9720225,
+        "name": "African Buzzard",
+        "class": "Supramax",
+        "dwt": 66652,
+        "built": 2014,
+        "operator": "MUR Shipping"
+      },
+      {
+        "imo": 9990416,
+        "name": "African Dragon",
+        "class": "Supramax",
+        "dwt": 66647,
+        "built": 2024,
+        "operator": "MUR Shipping"
+      },
+      {
+        "imo": 9688219,
+        "name": "African Bateleur",
+        "class": "Supramax",
+        "dwt": 66643,
+        "built": 2015,
+        "operator": "MUR Shipping"
+      },
+      {
+        "imo": 9688221,
+        "name": "African Blackbird",
+        "class": "Supramax",
+        "dwt": 66637,
+        "built": 2015,
+        "operator": "MUR Shipping"
+      },
+      {
+        "imo": 9749726,
+        "name": "Zayd Jahan",
+        "class": "Supramax",
+        "dwt": 66637,
+        "built": 2015,
+        "operator": "Guardian Bulk Shipping"
+      },
+      {
+        "imo": 9941958,
+        "name": "Seacon Tokyo",
+        "class": "Supramax",
+        "dwt": 66628,
+        "built": 2023,
+        "operator": "Seacon Shipping"
+      },
+      {
+        "imo": 9725586,
+        "name": "Unity Poseidon",
+        "class": "Supramax",
+        "dwt": 66624,
+        "built": 2015,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9662318,
+        "name": "Draftslayer",
+        "class": "Supramax",
+        "dwt": 66622,
+        "built": 2014,
+        "operator": "Niovis Shipping"
+      },
+      {
+        "imo": 9781700,
+        "name": "Kedros",
+        "class": "Supramax",
+        "dwt": 66614,
+        "built": 2018,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9725574,
+        "name": "Bold Ocean",
+        "class": "Supramax",
+        "dwt": 66613,
+        "built": 2014,
+        "operator": "Sea Traders"
+      },
+      {
+        "imo": 9760043,
+        "name": "Anthea V",
+        "class": "Supramax",
+        "dwt": 66609,
+        "built": 2016,
+        "operator": "Alexandria Shipping"
+      },
+      {
+        "imo": 9749738,
+        "name": "Fatema Jahan I",
+        "class": "Supramax",
+        "dwt": 66604,
+        "built": 2015,
+        "operator": "Brave Royal Ship Management"
+      },
+      {
+        "imo": 9964871,
+        "name": "Norse Progress",
+        "class": "Supramax",
+        "dwt": 66600,
+        "built": 2024,
+        "operator": "Norwegian Bulk Carriers"
+      },
+      {
+        "imo": 9736664,
+        "name": "Draftvader",
+        "class": "Supramax",
+        "dwt": 66585,
+        "built": 2015,
+        "operator": "Niovis Shipping"
+      },
+      {
+        "imo": 1056680,
+        "name": "Dennisan",
+        "class": "Supramax",
+        "dwt": 66569,
+        "built": 2026,
+        "operator": "Delaway Maritime"
+      },
+      {
+        "imo": 1016795,
+        "name": "Delmax66",
+        "class": "Supramax",
+        "dwt": 66565,
+        "built": 2026,
+        "operator": "DryDel Shipping"
+      },
+      {
+        "imo": 9781683,
+        "name": "NC Crystal",
+        "class": "Supramax",
+        "dwt": 66560,
+        "built": 2017,
+        "operator": "WPSD Ship Management"
+      },
+      {
+        "imo": 9746102,
+        "name": "Meghna Spirit",
+        "class": "Supramax",
+        "dwt": 66545,
+        "built": 2016,
+        "operator": "Meghna Group of Industries"
+      },
+      {
+        "imo": 9781712,
+        "name": "Meghna Century",
+        "class": "Supramax",
+        "dwt": 66529,
+        "built": 2018,
+        "operator": "Mercantile Shipping Lines"
+      },
+      {
+        "imo": 9875331,
+        "name": "Draftzilla",
+        "class": "Supramax",
+        "dwt": 66509,
+        "built": 2020,
+        "operator": "Niovis Shipping"
+      },
+      {
+        "imo": 9867059,
+        "name": "Tomaros",
+        "class": "Supramax",
+        "dwt": 66508,
+        "built": 2019,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9806110,
+        "name": "African Batis",
+        "class": "Supramax",
+        "dwt": 66504,
+        "built": 2019,
+        "operator": "MUR Shipping"
+      },
+      {
+        "imo": 9781695,
+        "name": "Nc Sapphire",
+        "class": "Supramax",
+        "dwt": 66485,
+        "built": 2017,
+        "operator": "K Line RoRo Bulk Ship Management"
+      },
+      {
+        "imo": 9770555,
+        "name": "Donald M. James",
+        "class": "Supramax",
+        "dwt": 66455,
+        "built": 2018,
+        "operator": "Vulcan Materials"
+      },
+      {
+        "imo": 9770543,
+        "name": "Ireland",
+        "class": "Supramax",
+        "dwt": 66439,
+        "built": 2018,
+        "operator": "Vulcan Materials"
+      },
+      {
+        "imo": 9883663,
+        "name": "Urairat Naree",
+        "class": "Supramax",
+        "dwt": 66337,
+        "built": 2021,
+        "operator": "Jaldhi"
+      },
+      {
+        "imo": 9883651,
+        "name": "Usanee Naree",
+        "class": "Supramax",
+        "dwt": 66337,
+        "built": 2021,
+        "operator": "Jaldhi"
+      },
+      {
+        "imo": 1030923,
+        "name": "Norse Momentum",
+        "class": "Supramax",
+        "dwt": 66335,
+        "built": 2025,
+        "operator": "Clipper"
+      },
+      {
+        "imo": 1030909,
+        "name": "Norse Growth",
+        "class": "Supramax",
+        "dwt": 66325,
+        "built": 2025,
+        "operator": "Norwegian Bulk Carriers"
+      },
+      {
+        "imo": 9964845,
+        "name": "Sharqi",
+        "class": "Supramax",
+        "dwt": 66316,
+        "built": 2023,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9964895,
+        "name": "Star Thetis",
+        "class": "Supramax",
+        "dwt": 66309,
+        "built": 2024,
+        "operator": "Star Bulk"
+      },
+      {
+        "imo": 9964833,
+        "name": "Stargazer",
+        "class": "Supramax",
+        "dwt": 66309,
+        "built": 2024,
+        "operator": "Ultimar"
+      },
+      {
+        "imo": 9964900,
+        "name": "Norse Stride",
+        "class": "Supramax",
+        "dwt": 66307,
+        "built": 2025,
+        "operator": "Legasea Bulk"
+      },
+      {
+        "imo": 9964821,
+        "name": "Norse Evolution",
+        "class": "Supramax",
+        "dwt": 66305,
+        "built": 2023,
+        "operator": "Clipper"
+      },
+      {
+        "imo": 9964819,
+        "name": "Elephanta",
+        "class": "Supramax",
+        "dwt": 66301,
+        "built": 2023,
+        "operator": "Louis Dreyfus"
+      },
+      {
+        "imo": 9964883,
+        "name": "Cl Kiwami",
+        "class": "Supramax",
+        "dwt": 66295,
+        "built": 2025,
+        "operator": "Cobelfret"
+      },
+      {
+        "imo": 1030882,
+        "name": "Norse Development",
+        "class": "Supramax",
+        "dwt": 66291,
+        "built": 2025,
+        "operator": "Bunge"
+      },
+      {
+        "imo": 1030911,
+        "name": "Norse Succession",
+        "class": "Supramax",
+        "dwt": 66280,
+        "built": 2025,
+        "operator": "Clipper"
+      },
+      {
+        "imo": 9928827,
+        "name": "Meghna Victory",
+        "class": "Supramax",
+        "dwt": 66262,
+        "built": 2022,
+        "operator": "Mercantile Shipping Lines"
+      },
+      {
+        "imo": 9928853,
+        "name": "Meghna Progress",
+        "class": "Supramax",
+        "dwt": 66258,
+        "built": 2023,
+        "operator": "Pacific Basin"
+      },
+      {
+        "imo": 1030894,
+        "name": "Norse Addition",
+        "class": "Supramax",
+        "dwt": 66252,
+        "built": 2025,
+        "operator": "Clipper"
+      },
+      {
+        "imo": 9928839,
+        "name": "Meghna Prestige",
+        "class": "Supramax",
+        "dwt": 66213,
+        "built": 2023,
+        "operator": "DryLog Trading"
+      },
+      {
+        "imo": 9928841,
+        "name": "Meghna Hope",
+        "class": "Supramax",
+        "dwt": 66202,
+        "built": 2023,
+        "operator": "Lauritzen Bulkers"
+      },
+      {
+        "imo": 9745081,
+        "name": "Zhong Hui 68",
+        "class": "Supramax",
+        "dwt": 66168,
+        "built": 2014,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9982811,
+        "name": "UM Jiangsu",
+        "class": "Supramax",
+        "dwt": 66136,
+        "built": 2025,
+        "operator": "Lepta Shipping"
+      },
+      {
+        "imo": 9991044,
+        "name": "Syabil Emran",
+        "class": "Supramax",
+        "dwt": 66107,
+        "built": 2025,
+        "operator": "Gurita Lintas"
+      },
+      {
+        "imo": 9991032,
+        "name": "Nimaome Emran",
+        "class": "Supramax",
+        "dwt": 66089,
+        "built": 2024,
+        "operator": "Gurita Lintas"
+      },
+      {
+        "imo": 9994773,
+        "name": "Lumoso Setia",
+        "class": "Supramax",
+        "dwt": 66086,
+        "built": 2024,
+        "operator": "Lumoso Pratama Line"
+      },
+      {
+        "imo": 9979321,
+        "name": "Ace Halo",
+        "class": "Supramax",
+        "dwt": 66065,
+        "built": 2024,
+        "operator": "Bunge"
+      },
+      {
+        "imo": 9990363,
+        "name": "Uthita Naree",
+        "class": "Supramax",
+        "dwt": 66057,
+        "built": 2026,
+        "operator": "Precious Shipping"
+      },
+      {
+        "imo": 9979345,
+        "name": "Bloom Halo",
+        "class": "Supramax",
+        "dwt": 66040,
+        "built": 2024,
+        "operator": "Daiichi"
+      },
+      {
+        "imo": 9979333,
+        "name": "Theresa Breeze",
+        "class": "Supramax",
+        "dwt": 66040,
+        "built": 2024,
+        "operator": "Raffles Shipping Group"
+      },
+      {
+        "imo": 9979357,
+        "name": "Theresa Bright",
+        "class": "Supramax",
+        "dwt": 66040,
+        "built": 2024,
+        "operator": "Raffles Shipping Group"
+      },
+      {
+        "imo": 9982809,
+        "name": "UM Minato",
+        "class": "Supramax",
+        "dwt": 66040,
+        "built": 2024,
+        "operator": "WL Shipping"
+      },
+      {
+        "imo": 9990351,
+        "name": "Ubon Naree",
+        "class": "Supramax",
+        "dwt": 66029,
+        "built": 2026,
+        "operator": "Jaldhi"
+      },
+      {
+        "imo": 9991056,
+        "name": "Amolongo Emran",
+        "class": "Supramax",
+        "dwt": 66023,
+        "built": 2024,
+        "operator": "Gurita Lintas"
+      },
+      {
+        "imo": 9990349,
+        "name": "Jal Kalash",
+        "class": "Supramax",
+        "dwt": 66013,
+        "built": 2024,
+        "operator": "Jaldhi"
+      },
+      {
+        "imo": 9994735,
+        "name": "Lumoso Sahabat",
+        "class": "Supramax",
+        "dwt": 66000,
+        "built": 2024,
+        "operator": "Lumoso Pratama Line"
+      },
+      {
+        "imo": 9994785,
+        "name": "Lumoso Selalu",
+        "class": "Supramax",
+        "dwt": 66000,
+        "built": 2025,
+        "operator": "Lumoso Pratama Line"
+      },
+      {
+        "imo": 1039943,
+        "name": "Rosita",
+        "class": "Supramax",
+        "dwt": 66000,
+        "built": 2026,
+        "operator": "JJ Ugland"
+      },
+      {
+        "imo": 9993224,
+        "name": "Green Future",
+        "class": "Supramax",
+        "dwt": 65955,
+        "built": 2025,
+        "operator": "Chijin Shipping"
+      },
+      {
+        "imo": 9990337,
+        "name": "Jal Kumud",
+        "class": "Supramax",
+        "dwt": 65950,
+        "built": 2024,
+        "operator": "Jaldhi"
+      },
+      {
+        "imo": 1058145,
+        "name": "Elisabetta",
+        "class": "Supramax",
+        "dwt": 65825,
+        "built": 2026,
+        "operator": "Delaway Maritime"
+      },
+      {
+        "imo": 1053717,
+        "name": "Zhong Cheng 68",
+        "class": "Supramax",
+        "dwt": 65557,
+        "built": 2023,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1059321,
+        "name": "Cheng Peng Fa Zhan",
+        "class": "Supramax",
+        "dwt": 65536,
+        "built": 2024,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 1094424,
+        "name": "Fortune Glory",
+        "class": "Supramax",
+        "dwt": 65500,
+        "built": 2024,
+        "operator": "An Shun Marine Service"
+      },
+      {
+        "imo": 9650729,
+        "name": "Jia Hang 601",
+        "class": "Supramax",
+        "dwt": 65311,
+        "built": 2012,
+        "operator": "Taizhou Jiahang"
+      },
+      {
+        "imo": 9982201,
+        "name": "Truong Minh Dream 02",
+        "class": "Supramax",
+        "dwt": 65150,
+        "built": 2026,
+        "operator": "Truong Minh International"
+      },
+      {
+        "imo": 9976513,
+        "name": "Green Itapoa",
+        "class": "Supramax",
+        "dwt": 65000,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1091525,
+        "name": "Hua Heng 177",
+        "class": "Supramax",
+        "dwt": 65000,
+        "built": 2025,
+        "operator": "Huayuan Star Shipping"
+      },
+      {
+        "imo": 1068281,
+        "name": "Lem Azalea",
+        "class": "Supramax",
+        "dwt": 65000,
+        "built": 2026,
+        "operator": "Cargill"
+      },
+      {
+        "imo": 9976446,
+        "name": "Green Itajai",
+        "class": "Supramax",
+        "dwt": 64998,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9976458,
+        "name": "Green Rio De Janeiro",
+        "class": "Supramax",
+        "dwt": 64998,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9976422,
+        "name": "Green Rio Grande",
+        "class": "Supramax",
+        "dwt": 64998,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9976496,
+        "name": "Green Munguba",
+        "class": "Supramax",
+        "dwt": 64997,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 1015727,
+        "name": "Hua Sheng 167",
+        "class": "Supramax",
+        "dwt": 64997,
+        "built": 2023,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9976410,
+        "name": "Green Itaqui",
+        "class": "Supramax",
+        "dwt": 64996,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9996018,
+        "name": "Green Santos",
+        "class": "Supramax",
+        "dwt": 64996,
+        "built": 2023,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9993028,
+        "name": "Hua Sheng 165",
+        "class": "Supramax",
+        "dwt": 64996,
+        "built": 2022,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9976472,
+        "name": "Green Vitoria",
+        "class": "Supramax",
+        "dwt": 64995,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9976434,
+        "name": "Green Paranagua",
+        "class": "Supramax",
+        "dwt": 64993,
+        "built": 2024,
+        "operator": "COSCO"
+      },
+      {
+        "imo": 9976068,
+        "name": "Green Helsinki",
+        "class": "Supramax",
+        "dwt": 64986,
+        "built": 2023,
+        "operator": "Seacon Shipping"
+      },
+      {
+        "imo": 9976056,
+        "name": "Green Kotka",
+        "class": "Supramax",
+        "dwt": 64986,
+        "built": 2023,
+        "operator": "Seacon Shipping"
+      },
+      {
+        "imo": 9835513,
+        "name": "Zhong Hui 76",
+        "class": "Supramax",
+        "dwt": 64980,
+        "built": 2019,
+        "operator": "Unknown"
+      },
+      {
+        "imo": 9688972,
+        "name": "Guang Mao",
+        "class": "Supramax",
+        "dwt": 64965,
+        "built": 2014,
+        "operator": "Guangdong Shipping"
+      },
+      {
+        "imo": 9766906,
+        "name": "Great Shang",
+        "class": "Supramax",
+        "dwt": 64942,
+        "built": 2016,
+        "operator": "China Merchants Bank"
+      },
+      {
+        "imo": 9896842,
+        "name": "Wan Ming Min Zhu",
+        "class": "Supramax",
+        "dwt": 64930,
+        "built": 2019,
+        "operator": "Zhejiang Wanming Shipping"
+      },
+      {
+        "imo": 9766918,
+        "name": "Great Qin",
+        "class": "Supramax",
+        "dwt": 64928,
+        "built": 2017,
+        "operator": "Seacon Shipping"
+      },
+      {
+        "imo": 9968748,
+        "name": "Guo Jia Neng Yuan 602",
+        "class": "Supramax",
+        "dwt": 64885,
+        "built": 2024,
+        "operator": "Huayang Maritime Center"
+      },
+      {
+        "imo": 9968736,
+        "name": "Xin Zhi Yuan 10",
+        "class": "Supramax",
+        "dwt": 64870,
+        "built": 2023,
+        "operator": "Citic"
+      },
+      {
+        "imo": 9968798,
+        "name": "Guo Jia Neng Yuan 608",
+        "class": "Supramax",
+        "dwt": 64857,
+        "built": 2025,
+        "operator": "Citic"
+      },
+      {
+        "imo": 9968762,
+        "name": "Shanhaigian",
+        "class": "Supramax",
+        "dwt": 64855,
+        "built": 2024,
+        "operator": "Citic"
+      },
+      {
+        "imo": 9968803,
+        "name": "Guo Jia Neng Yuan 609",
+        "class": "Supramax",
+        "dwt": 64851,
+        "built": 2025,
+        "operator": "Citic"
       }
     ],
     "tankers": [
