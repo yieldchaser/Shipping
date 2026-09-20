@@ -83,6 +83,14 @@ def sync_sector(sector_key: str, filename: str):
         time.sleep(1.0)
 
     if live_positions:
+        # Permanently archive to monthly Parquet time-series ledger
+        try:
+            sys.path.insert(0, str(REPO_ROOT))
+            from scripts.geospatial.archive_ais_history import append_live_positions_to_archive
+            append_live_positions_to_archive(live_positions)
+        except Exception as ex:
+            print(f"  Warning: Archive write failed: {ex}")
+
         with open(file_path, 'w', encoding='utf-8', newline='\n') as f:
             json.dump(live_positions, f, separators=(',', ':'))
         print(f"  -> Successfully updated {filename}: {len(live_positions)} fresh positions saved ({file_path.stat().st_size // 1024} KB).")

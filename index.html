@@ -17381,6 +17381,14 @@ if (intelTabsContainer) {
                 <div class="cp-spec-item"><span class="cp-spec-label">Coordinates</span><span class="cp-spec-val" id="vmAisCoords"></span></div>
                 <div class="cp-spec-item"><span class="cp-spec-label">Laden / Ballast</span><span class="cp-spec-val" id="vmAisLaden"></span></div>
               </div>
+
+              <div style="margin-top:6px; padding:10px 12px; background:rgba(56,189,248,0.06); border:1px solid rgba(56,189,248,0.22); border-radius:6px; display:flex; justify-content:space-between; align-items:center;">
+                <div>
+                  <div style="font-size:12px; font-weight:700; color:#38bdf8;">Authentic Historical AIS Trajectory</div>
+                  <div style="font-size:11px; color:var(--text-muted); margin-top:2px;" id="vmAisTrajectorySummary">Permanent multi-month breadcrumbs recorded across automated fleet sync cycles.</div>
+                </div>
+                <button class="cp-toggle-btn" id="vmPlotAisTrajectoryBtn" onclick="centerVesselOnMap()" style="background:#38bdf8; color:#0a0f16; font-weight:700; border:none; padding:5px 12px; font-size:11px; border-radius:4px; cursor:pointer;">Plot AIS Path on Map</button>
+              </div>
             </div>
           </div>
 
@@ -45336,6 +45344,27 @@ function ensureVesselSearchIndex() {
 }
 window.ensureVesselSearchIndex = ensureVesselSearchIndex;
 
+var _aisHistoryPromise = null;
+function ensureAisHistory() {
+  if (DATA.aisHistory && DATA.aisHistory.trajectories) {
+    return Promise.resolve(DATA.aisHistory);
+  }
+  if (_aisHistoryPromise) return _aisHistoryPromise;
+  _aisHistoryPromise = fetch('data/views/signal/ais_history_active.json')
+    .then(function(r) { return r.ok ? r.json() : null; })
+    .then(function(data) {
+      DATA.aisHistory = data || { trajectories: {} };
+      return DATA.aisHistory;
+    })
+    .catch(function(err) {
+      console.warn('[ais_history load error]', err);
+      DATA.aisHistory = { trajectories: {} };
+      return DATA.aisHistory;
+    });
+  return _aisHistoryPromise;
+}
+window.ensureAisHistory = ensureAisHistory;
+
 function loadSignalFleetData() {
   if (DATA.signalFleetLoaded) return Promise.resolve();
   if (signalFleetLoadPromise) return signalFleetLoadPromise;
@@ -45360,6 +45389,7 @@ function loadSignalFleetData() {
       // Pre-load full 57,256 commercial vessel registry & search index in background
       ensureFullVesselLookup();
       ensureVesselSearchIndex();
+      ensureAisHistory();
 
       // Initialize UI surfaces if DOM is ready
       renderAssetClassPortPicker();
@@ -45745,6 +45775,21 @@ function openVesselDrillDown(imo, name) {
     if (elAisDaysToDest) elAisDaysToDest.textContent = 'Arrived';
   }
 
+  // Update AIS Trajectory Summary from aisHistory
+  var aisSummaryEl = document.getElementById('vmAisTrajectorySummary');
+  if (aisSummaryEl) {
+    if (typeof ensureAisHistory === 'function') {
+      ensureAisHistory().then(function(vt) {
+        var pts = (vt && vt.trajectories && vt.trajectories[cleanImo]) || [];
+        if (pts.length > 0) {
+          aisSummaryEl.innerHTML = '<strong style="color:#38bdf8;">' + pts.length + ' authentic AIS telemetry observations</strong> permanently archived across sync cycles.';
+        } else {
+          aisSummaryEl.textContent = 'Awaiting next automated sync cycle for fresh historical breadcrumbs.';
+        }
+      });
+    }
+  }
+
   // Default to particulars tab
   setVesselModalTab('particulars');
 
@@ -45803,40 +45848,87 @@ function showVesselOnMap(imo) {
     }
   }
 
-  // Draw voyage polyline if legs exist
-  var legs = (DATA.vesselVoyagesLookup && DATA.vesselVoyagesLookup.vessels && DATA.vesselVoyagesLookup.vessels[cleanImo]) || [];
-  if (legs.length) {
-    var latlngs = [];
-    legs.forEach(function(leg) {
-      if (leg[7] && leg[8]) latlngs.push([leg[7], leg[8]]);
-    });
-    if (lat == null && latlngs.length) {
-      lat = latlngs[0][0];
-      lon = latlngs[0][1];
+  function renderTrack() {
+    var trajPts = (DATA.aisHistory && DATA.aisHistory.trajectories && DATA.aisHistory.trajectories[cleanImo]) || [];
+    if (trajPts.length > 0) {
+      // Authentic AIS GPS telemetry breadcrumbs
+      var latlngs = [];
+      trajPts.forEach(function(pt) {
+        // [ts, lat, lon, spd, hdg, stat, dst]
+        latlngs.push([pt[1], pt[2]]);
+        if (activeVesselTrackLayer) {
+          var dateStr = new Date(pt[0] * 1000).toISOString().replace('T', ' ').replace('.000Z', ' UTC');
+          var dot = L.circleMarker([pt[1], pt[2]], {
+            radius: 4,
+            color: '#38bdf8',
+            fillColor: '#0a0f16',
+            fillOpacity: 0.9,
+            weight: 1.5
+          }).addTo(activeVesselTrackLayer);
+          dot.bindTooltip(
+            '<strong>' + escapeHtml(vesselName) + '</strong><br>' +
+            '<span style="font-family:var(--font-mono); font-size:11px;">' + dateStr + '</span><br>' +
+            'Speed: ' + pt[3] + ' kn &middot; Hdg: ' + pt[4] + '&deg;<br>' +
+            (pt[5] ? '<span style="color:var(--text-muted);">' + escapeHtml(pt[5]) + '</span>' : ''),
+            { sticky: true }
+          );
+        }
+      });
+      if (lat == null && latlngs.length) {
+        lat = latlngs[latlngs.length - 1][0];
+        lon = latlngs[latlngs.length - 1][1];
+      }
+      if (latlngs.length > 1 && activeVesselTrackLayer) {
+        var trackPoly = L.polyline(latlngs, {
+          color: '#38bdf8',
+          weight: 2.5,
+          opacity: 0.9
+        }).addTo(activeVesselTrackLayer);
+        trackPoly.bindTooltip('AIS Trajectory: ' + escapeHtml(vesselName) + ' (' + trajPts.length + ' observations)', { sticky: true });
+      }
+    } else {
+      // Fallback to reported fixture legs
+      var legs = (DATA.vesselVoyagesLookup && DATA.vesselVoyagesLookup.vessels && DATA.vesselVoyagesLookup.vessels[cleanImo]) || [];
+      if (legs.length) {
+        var latlngs = [];
+        legs.forEach(function(leg) {
+          if (leg[7] && leg[8]) latlngs.push([leg[7], leg[8]]);
+        });
+        if (lat == null && latlngs.length) {
+          lat = latlngs[0][0];
+          lon = latlngs[0][1];
+        }
+        if (latlngs.length > 1 && activeVesselTrackLayer) {
+          var trackPoly = L.polyline(latlngs, {
+            color: '#58a6ff',
+            weight: 2.5,
+            opacity: 0.85,
+            dashArray: '4, 4'
+          }).addTo(activeVesselTrackLayer);
+          trackPoly.bindTooltip('Voyage Track: ' + escapeHtml(vesselName), { sticky: true });
+        }
+      }
     }
-    if (latlngs.length > 1 && activeVesselTrackLayer) {
-      var trackPoly = L.polyline(latlngs, {
-        color: '#58a6ff',
-        weight: 2.5,
-        opacity: 0.85,
-        dashArray: '4, 4'
-      }).addTo(activeVesselTrackLayer);
-      trackPoly.bindTooltip('Voyage Track: ' + escapeHtml(vesselName), { sticky: true });
+
+    if (lat != null && lon != null) {
+      trackingMap.setView([lat, lon], 7);
+      if (activeVesselTrackLayer) {
+        var pulseMarker = L.circleMarker([lat, lon], {
+          radius: 8,
+          color: '#38bdf8',
+          fillColor: '#fff',
+          fillOpacity: 0.9,
+          weight: 3
+        }).addTo(activeVesselTrackLayer);
+        pulseMarker.bindPopup('<strong>' + escapeHtml(vesselName) + '</strong><br>IMO: ' + cleanImo + '<br><span style="color:#38bdf8; font-size:11px;">Active AIS Position & Trajectory</span>').openPopup();
+      }
     }
   }
 
-  if (lat != null && lon != null) {
-    trackingMap.setView([lat, lon], 7);
-    if (activeVesselTrackLayer) {
-      var pulseMarker = L.circleMarker([lat, lon], {
-        radius: 8,
-        color: '#58a6ff',
-        fillColor: '#fff',
-        fillOpacity: 0.9,
-        weight: 3
-      }).addTo(activeVesselTrackLayer);
-      pulseMarker.bindPopup('<strong>' + escapeHtml(vesselName) + '</strong><br>IMO: ' + cleanImo).openPopup();
-    }
+  if (typeof ensureAisHistory === 'function' && (!DATA.aisHistory || !DATA.aisHistory.trajectories)) {
+    ensureAisHistory().then(renderTrack);
+  } else {
+    renderTrack();
   }
 }
 window.showVesselOnMap = showVesselOnMap;

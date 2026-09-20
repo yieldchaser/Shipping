@@ -696,6 +696,22 @@ def main():
                     with open(dest_file, 'w', encoding='utf-8', newline='\n') as f:
                         json.dump(live_data, f, separators=(',', ':'))
                     logging.info('Updated %s with %d fresh records.', dest_file.name, len(live_data))
+
+                # Permanently archive to monthly Parquet time-series ledger
+                try:
+                    sys.path.insert(0, str(REPO_ROOT))
+                    from scripts.geospatial.archive_ais_history import append_live_positions_to_archive
+                    append_live_positions_to_archive(live_data)
+                except Exception as ex:
+                    logging.error('Failed to append to historical AIS archive for %s: %s', sector, ex)
+
+        # Update active browser trajectories view
+        try:
+            sys.path.insert(0, str(REPO_ROOT))
+            from scripts.geospatial.archive_ais_history import build_active_trajectories_view
+            build_active_trajectories_view()
+        except Exception as ex:
+            logging.error('Failed to build active trajectories view: %s', ex)
     else:
         if not client.has_auth():
             print('  Authentication:      No API token provided (Running in Protected Audit Mode).')
