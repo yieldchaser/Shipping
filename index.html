@@ -3451,7 +3451,6 @@
       border-radius: 6px;
       font-size: var(--fs-micro);
       pointer-events: auto;
-      margin-bottom: 8px;
     }
     .map-sector-overlay-title { font-size: var(--fs-micro); color: var(--text-muted); letter-spacing: 0.06em; margin-bottom: 0; font-weight: 600; }
     .cp-selector-chips {
@@ -3610,7 +3609,7 @@
       display: grid;
       grid-template-columns: minmax(640px, 780px) minmax(0, 1fr);
       gap: 16px;
-      align-items: start;
+      align-items: stretch;
       transition: grid-template-columns 0.25s cubic-bezier(0.16, 1, 0.3, 1);
     }
     @media (min-width: 1700px) {
@@ -3621,13 +3620,27 @@
     .tracking-workstation.pane-expanded {
       grid-template-columns: 1fr;
     }
-    .tracking-workstation.pane-expanded .tracking-right-pane {
-      display: none !important;
-    }
     .tracking-workstation.pane-expanded .tracking-left-pane {
+      grid-column: 1 / -1;
+      order: 1;
+      width: 100%;
+      height: 840px;
+      min-height: 840px;
+      max-height: 840px;
+    }
+    .tracking-workstation.pane-expanded .tracking-right-pane {
+      grid-column: 1 / -1;
+      order: 2;
+      width: 100%;
       height: auto;
+      min-height: 640px;
       max-height: none;
-      min-height: 832px;
+      margin-top: 12px;
+    }
+    .tracking-workstation.pane-expanded #trackingMapContainer {
+      height: 520px;
+      min-height: 520px;
+      flex: none;
     }
     .tracking-workstation.map-expanded {
       grid-template-columns: 1fr;
@@ -3635,13 +3648,24 @@
     .tracking-workstation.map-expanded .tracking-right-pane {
       grid-column: 1 / -1;
       order: 1;
+      width: 100%;
+      height: auto;
+      min-height: 640px;
+      max-height: none;
+    }
+    .tracking-workstation.map-expanded #trackingMapContainer {
+      height: 520px;
+      min-height: 520px;
+      flex: none;
     }
     .tracking-workstation.map-expanded .tracking-left-pane {
       grid-column: 1 / -1;
       order: 2;
-      height: 832px;
-      min-height: 832px;
-      max-height: 832px;
+      width: 100%;
+      height: 840px;
+      min-height: 840px;
+      max-height: 840px;
+      margin-top: 12px;
     }
     .tracking-workstation .chokepoint-drawer {
       grid-column: 1 / -1;
@@ -3668,9 +3692,9 @@
       border: 1px solid var(--border);
       border-radius: 8px;
       overflow: hidden;
-      height: 832px;
-      min-height: 832px;
-      max-height: 832px;
+      height: 840px;
+      min-height: 840px;
+      max-height: 840px;
       box-sizing: border-box;
     }
     .tracking-right-pane {
@@ -3678,8 +3702,11 @@
       min-width: 0;
       display: flex;
       flex-direction: column;
-      gap: 16px;
-      min-height: 0;
+      gap: 10px;
+      height: 840px;
+      min-height: 840px;
+      max-height: 840px;
+      box-sizing: border-box;
     }
 
     .tracking-subview-nav {
@@ -3902,7 +3929,6 @@
       display: flex;
       flex-direction: column;
       gap: 6px;
-      margin-bottom: 8px;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
     }
     .hud-metric-box {
@@ -4001,9 +4027,9 @@
 
     /* CHOKEPOINTS DIRECTORY LIST */
     .chokepoint-dir-list {
-      flex: 1;
-      min-height: 0;
-      overflow-y: auto;
+      flex: 0 0 auto;
+      min-height: auto;
+      overflow: visible;
       padding: 8px;
       display: flex;
       flex-direction: column;
@@ -4163,8 +4189,9 @@
 
     /* LEAFLET MAP WORKSPACE */
     #trackingMapContainer {
-      height: 640px;
-      min-height: 640px;
+      flex: 1 1 0;
+      min-height: 480px;
+      height: 100%;
       position: relative;
       border-radius: 8px;
       border: 1px solid var(--border);
@@ -11872,7 +11899,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <div class="chart-section">
         <div class="chart-header">
           <div class="chart-header-title" data-tooltip="Last ~10 trading sessions - shows the raw absolute value, daily change in points, and the percentage move for each session. Useful for spotting day-over-day momentum reversals or confirming multi-day trends.">Recent Daily Changes</div>
-          <button class="dl-btn" id="recentDlBtn">⬇ CSV</button>
+          <button class="dl-btn" id="recentDlBtn"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
         </div>
         <div style="overflow-x:auto">
           <div id="recentChangesTable"></div>
@@ -11887,7 +11914,7 @@ html.auth-locked body > *:not(#authGateModal) {
         </button>
         <div class="collapsible-content" id="yearlyPerfContent">
           <div class="flex-row mb-12" style="padding-top:4px">
-            <button class="dl-btn" id="yearlyDlBtn">⬇ Download CSV</button>
+            <button class="dl-btn" id="yearlyDlBtn"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>Download CSV</button>
           </div>
           <div style="overflow-x:auto">
             <div id="yearlyPerfTable"></div>
@@ -11903,7 +11930,7 @@ html.auth-locked body > *:not(#authGateModal) {
         </button>
         <div class="collapsible-content" id="macroCyclesContent">
           <div class="flex-row mb-12" style="padding-top:4px">
-            <button class="dl-btn" id="macroCyclesDlBtn">⬇ Download CSV</button>
+            <button class="dl-btn" id="macroCyclesDlBtn"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>Download CSV</button>
           </div>
           <div style="overflow-x:auto">
             <div id="macroCyclesTable"></div>
@@ -11960,7 +11987,7 @@ html.auth-locked body > *:not(#authGateModal) {
             <button class="toggle-btn active" id="ydAvgBtn5" data-tooltip="Draw the 5-year rolling average line on the historical price chart." onclick="setYDHistAvg(5)">5Y Avg</button>
             <button class="toggle-btn" id="ydAvgBtn10" data-tooltip="Draw the 10-year rolling average line on the historical price chart." onclick="setYDHistAvg(10)">10Y Avg</button>
             <button class="toggle-btn" id="ydAvgBtnAll" data-tooltip="Draw the all-time average line on the historical price chart." onclick="setYDHistAvg(0)">All-Time Avg</button>
-            <button class="dl-btn" id="ydHistDlBtn" data-tooltip="Download the full historical price series as CSV — exactly the values plotted from the master cache.">&#x2B07; CSV</button>
+            <button class="dl-btn" id="ydHistDlBtn" data-tooltip="Download the full historical price series as CSV — exactly the values plotted from the master cache."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
           </div>
         </div>
         <div class="index-range-wrap" style="padding: 2px 0 6px;">
@@ -12089,7 +12116,7 @@ html.auth-locked body > *:not(#authGateModal) {
         <div class="chart-section" style="margin-top:0;display:flex;flex-direction:column;">
           <div class="chart-header">
             <div class="chart-header-title" data-tooltip="Quarterly Data Grid - 8-year tabular record showing the opening, closing, high, and low value for each Q1-Q4 period. Also shows the QoQ and full-year change for each row. Useful for spotting which year's patterns most closely mirror the current cycle.">Quarterly Data Grid (Last 8 Years)</div>
-            <button class="dl-btn" id="quarterlyDashGridDlBtn" data-tooltip="Download the quarterly dashboard grid as CSV — exactly the quarterly aggregates shown.">&#x2B07; CSV</button>
+            <button class="dl-btn" id="quarterlyDashGridDlBtn" data-tooltip="Download the quarterly dashboard grid as CSV — exactly the quarterly aggregates shown."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
           </div>
           <div style="overflow-x:auto;flex:1;">
             <div id="quarterlyDashDataGrid"></div>
@@ -12174,7 +12201,7 @@ html.auth-locked body > *:not(#authGateModal) {
                 <option value="pct">% Change (QoQ)</option>
               </select>
             </div>
-            <button class="dl-btn" id="quarterlyHeatmapDlBtn" data-tooltip="Download the quarterly seasonality heatmap as CSV.">&#x2B07; CSV</button>
+            <button class="dl-btn" id="quarterlyHeatmapDlBtn" data-tooltip="Download the quarterly seasonality heatmap as CSV."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
           </div>
         </div>
         <div class="heatmap-wrap">
@@ -12193,7 +12220,7 @@ html.auth-locked body > *:not(#authGateModal) {
                 <option value="pct">% Change (MoM)</option>
               </select>
             </div>
-            <button class="dl-btn" id="monthlyHeatmapDlBtn" data-tooltip="Download the monthly seasonality heatmap as CSV.">&#x2B07; CSV</button>
+            <button class="dl-btn" id="monthlyHeatmapDlBtn" data-tooltip="Download the monthly seasonality heatmap as CSV."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
           </div>
         </div>
         <div class="heatmap-wrap">
@@ -13267,8 +13294,8 @@ html.auth-locked body > *:not(#authGateModal) {
               <button id="liqTabBwet" data-tooltip="Show BWET liquidity charts: shares traded, dollar volume, average trade size." onclick="switchLiqTab('bwet')"
                 style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET</button>
             </div>
-            <button class="dl-btn" id="bdryLiqDlBtn" data-tooltip="Download the visible BDRY liquidity table as CSV — identical numbers to the on-screen cache values.">⬇ CSV</button>
-            <button class="dl-btn" id="bwetLiqDlBtn" data-tooltip="Download the visible BWET liquidity table as CSV — identical numbers to the on-screen cache values." style="display:none;">⬇ CSV</button>
+            <button class="dl-btn" id="bdryLiqDlBtn" data-tooltip="Download the visible BDRY liquidity table as CSV — identical numbers to the on-screen cache values."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
+            <button class="dl-btn" id="bwetLiqDlBtn" data-tooltip="Download the visible BWET liquidity table as CSV — identical numbers to the on-screen cache values." style="display:none;"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
           </div>
         </div>
 
@@ -23924,7 +23951,7 @@ function buildMaster() {
     <div class="etf-holdings-section">
     <div class="etf-section-title-row">
       <div class="etf-section-title" data-tooltip="Fund Holdings - the complete list of FFA contracts and cash/money-market positions that the Authorized Participant holds to replicate the underlying freight benchmark index.">Holdings</div>
-      <button class="dl-btn etf-dl-btn">⬇ CSV</button>
+      <button class="dl-btn etf-dl-btn"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>CSV</button>
     </div>
     <table class="holdings-table">
       <thead><tr>
@@ -23994,7 +24021,7 @@ function buildMaster() {
       </button>
       <div class="collapsible-content" id="yearlyPerfContent_${etfKey}">
         <div class="flex-row mb-12" style="padding-top:4px">
-          <button class="dl-btn" id="yearlyDlBtn_${etfKey}" data-tooltip="Download the visible yearly performance table as CSV — identical numbers to the on-screen cache values.">⬇ Download CSV</button>
+          <button class="dl-btn" id="yearlyDlBtn_${etfKey}" data-tooltip="Download the visible yearly performance table as CSV — identical numbers to the on-screen cache values."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>Download CSV</button>
         </div>
         <div style="overflow-x:auto">
           <div id="yearlyPerfTable_${etfKey}"></div>
@@ -24010,7 +24037,7 @@ function buildMaster() {
       </button>
       <div class="collapsible-content" id="macroCyclesContent_${etfKey}">
         <div class="flex-row mb-12" style="padding-top:4px">
-          <button class="dl-btn" id="macroCyclesDlBtn_${etfKey}" data-tooltip="Download the macro cycle history table as CSV — identical numbers to the on-screen cache values.">⬇ Download CSV</button>
+          <button class="dl-btn" id="macroCyclesDlBtn_${etfKey}" data-tooltip="Download the macro cycle history table as CSV — identical numbers to the on-screen cache values."><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-right:3px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>Download CSV</button>
         </div>
         <div style="overflow-x:auto">
           <div id="macroCyclesTable_${etfKey}"></div>
