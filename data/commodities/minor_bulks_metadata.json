@@ -1,7 +1,7 @@
 {
   "dataset_name": "Seaborne Minor Bulks Monthly Trade Flows",
-  "generated_utc": "2026-09-17T14:05:54.107119+00:00",
-  "total_rows": 602,
+  "generated_utc": "2026-09-20T19:09:51.582432+00:00",
+  "total_rows": 662,
   "date_span": "2013-01-01 to 2026-08-01",
   "commodities_covered": [
     "Alumina",
@@ -74,16 +74,16 @@
       "flow": "Imports"
     },
     "Sugar": {
-      "total_records": 56,
-      "min_date": "2022-01-01",
+      "total_records": 116,
+      "min_date": "2017-01-01",
       "max_date": "2026-08-01",
-      "mean_monthly_tonnes": 2299685.4,
+      "mean_monthly_tonnes": 2049726.9,
       "max_monthly_tonnes": 3604459.4,
-      "total_volume_tonnes": 128782381.2,
-      "total_fob_usd": 56259937590.0,
+      "total_volume_tonnes": 237768317.8,
+      "total_fob_usd": 56265566078.0,
       "vessel_class": "Supramax / Handysize",
       "reporter": "Brazil",
-      "flow": "Exports"
+      "flow": "Export"
     },
     "Urea / Fertiliser": {
       "total_records": 55,

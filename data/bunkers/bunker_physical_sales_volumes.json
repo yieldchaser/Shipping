@@ -1,15 +1,6 @@
 [
   {
     "indicator_id":2,
-    "period":"2024-08",
-    "port":"Singapore",
-    "metric":"Sales_Monthly_MT",
-    "volume_mt":4559452.0,
-    "frequency":"Monthly",
-    "source":"BunkerIndex_Indicators"
-  },
-  {
-    "indicator_id":2,
     "period":"2024-09",
     "port":"Singapore",
     "metric":"Sales_Monthly_MT",
@@ -175,7 +166,7 @@
     "period":"2026-03",
     "port":"Singapore",
     "metric":"Sales_Monthly_MT",
-    "volume_mt":4765370.0,
+    "volume_mt":4766830.0,
     "frequency":"Monthly",
     "source":"BunkerIndex_Indicators"
   },
@@ -184,7 +175,7 @@
     "period":"2026-04",
     "port":"Singapore",
     "metric":"Sales_Monthly_MT",
-    "volume_mt":4351040.0,
+    "volume_mt":4355070.0,
     "frequency":"Monthly",
     "source":"BunkerIndex_Indicators"
   },
@@ -193,7 +184,7 @@
     "period":"2026-05",
     "port":"Singapore",
     "metric":"Sales_Monthly_MT",
-    "volume_mt":4548350.0,
+    "volume_mt":4553660.0,
     "frequency":"Monthly",
     "source":"BunkerIndex_Indicators"
   },
@@ -202,7 +193,7 @@
     "period":"2026-06",
     "port":"Singapore",
     "metric":"Sales_Monthly_MT",
-    "volume_mt":4669120.0,
+    "volume_mt":4672490.0,
     "frequency":"Monthly",
     "source":"BunkerIndex_Indicators"
   },
@@ -211,17 +202,17 @@
     "period":"2026-07",
     "port":"Singapore",
     "metric":"Sales_Monthly_MT",
-    "volume_mt":4731910.0,
+    "volume_mt":4740140.0,
     "frequency":"Monthly",
     "source":"BunkerIndex_Indicators"
   },
   {
-    "indicator_id":44,
-    "period":"2024-08",
+    "indicator_id":2,
+    "period":"2026-08",
     "port":"Singapore",
-    "metric":"Sales_Trailing_3M_MT",
-    "volume_mt":13488121.0,
-    "frequency":"T3M",
+    "metric":"Sales_Monthly_MT",
+    "volume_mt":4772680.0,
+    "frequency":"Monthly",
     "source":"BunkerIndex_Indicators"
   },
   {
@@ -391,7 +382,7 @@
     "period":"2026-03",
     "port":"Singapore",
     "metric":"Sales_Trailing_3M_MT",
-    "volume_mt":14671610.0,
+    "volume_mt":14673070.0,
     "frequency":"T3M",
     "source":"BunkerIndex_Indicators"
   },
@@ -400,7 +391,7 @@
     "period":"2026-04",
     "port":"Singapore",
     "metric":"Sales_Trailing_3M_MT",
-    "volume_mt":13794580.0,
+    "volume_mt":13800070.0,
     "frequency":"T3M",
     "source":"BunkerIndex_Indicators"
   },
@@ -409,7 +400,7 @@
     "period":"2026-05",
     "port":"Singapore",
     "metric":"Sales_Trailing_3M_MT",
-    "volume_mt":13664760.0,
+    "volume_mt":13675560.0,
     "frequency":"T3M",
     "source":"BunkerIndex_Indicators"
   },
@@ -418,7 +409,7 @@
     "period":"2026-06",
     "port":"Singapore",
     "metric":"Sales_Trailing_3M_MT",
-    "volume_mt":13568510.0,
+    "volume_mt":13581220.0,
     "frequency":"T3M",
     "source":"BunkerIndex_Indicators"
   },
@@ -427,17 +418,17 @@
     "period":"2026-07",
     "port":"Singapore",
     "metric":"Sales_Trailing_3M_MT",
-    "volume_mt":13949380.0,
+    "volume_mt":13966290.0,
     "frequency":"T3M",
     "source":"BunkerIndex_Indicators"
   },
   {
-    "indicator_id":4,
-    "period":"2024-08",
+    "indicator_id":44,
+    "period":"2026-08",
     "port":"Singapore",
-    "metric":"Sales_TTM_MT",
-    "volume_mt":54388844.0,
-    "frequency":"TTM",
+    "metric":"Sales_Trailing_3M_MT",
+    "volume_mt":14185310.0,
+    "frequency":"T3M",
     "source":"BunkerIndex_Indicators"
   },
   {
@@ -607,7 +598,7 @@
     "period":"2026-03",
     "port":"Singapore",
     "metric":"Sales_TTM_MT",
-    "volume_mt":58344306.0,
+    "volume_mt":58345766.0,
     "frequency":"TTM",
     "source":"BunkerIndex_Indicators"
   },
@@ -616,7 +607,7 @@
     "period":"2026-04",
     "port":"Singapore",
     "metric":"Sales_TTM_MT",
-    "volume_mt":58290916.0,
+    "volume_mt":58296406.0,
     "frequency":"TTM",
     "source":"BunkerIndex_Indicators"
   },
@@ -625,7 +616,7 @@
     "period":"2026-05",
     "port":"Singapore",
     "metric":"Sales_TTM_MT",
-    "volume_mt":57961126.0,
+    "volume_mt":57971926.0,
     "frequency":"TTM",
     "source":"BunkerIndex_Indicators"
   },
@@ -634,7 +625,7 @@
     "period":"2026-06",
     "port":"Singapore",
     "metric":"Sales_TTM_MT",
-    "volume_mt":58035536.0,
+    "volume_mt":58049706.0,
     "frequency":"TTM",
     "source":"BunkerIndex_Indicators"
   },
@@ -643,7 +634,16 @@
     "period":"2026-07",
     "port":"Singapore",
     "metric":"Sales_TTM_MT",
-    "volume_mt":57849426.0,
+    "volume_mt":57871826.0,
+    "frequency":"TTM",
+    "source":"BunkerIndex_Indicators"
+  },
+  {
+    "indicator_id":4,
+    "period":"2026-08",
+    "port":"Singapore",
+    "metric":"Sales_TTM_MT",
+    "volume_mt":57679246.0,
     "frequency":"TTM",
     "source":"BunkerIndex_Indicators"
   },

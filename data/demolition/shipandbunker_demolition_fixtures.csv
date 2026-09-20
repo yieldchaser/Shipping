@@ -1,4 +1,19 @@
 year,week,published_date,sale_date,vessel_name,vessel_type,build_date,seller,source
+2026,37,,9/14/2026,Sun Gold,HANDYMAX,Apr 1996,Hai Phuong Shipping,ShipAndBunker_VesselsValue
+2026,37,,9/11/2026,Uniorder,HANDYMAX,Apr 1997,Asia Mulia Transpasifik,ShipAndBunker_VesselsValue
+2026,37,,9/11/2026,James II,SUEZMAX,Nov 1998,Saone Shipping Corp,ShipAndBunker_VesselsValue
+2026,37,,9/11/2026,VL 15,SMALL TANKER,Jan 1994,VL Enterprise,ShipAndBunker_VesselsValue
+2026,37,,9/11/2026,Spring,GEN CARGO,Jan 1985,Cedar Marine Services,ShipAndBunker_VesselsValue
+2026,37,,9/10/2026,Frigg Sydfyen,ROPAX FERRY,Sep 1984,Molslinjen,ShipAndBunker_VesselsValue
+2026,36,,9/5/2026,Leo Star,SMALL TANKER,Sep 1992,Double D Petroleum,ShipAndBunker_VesselsValue
+2026,36,,9/5/2026,Novaya Zemlya,HANDY BULKER,Mar 2009,Murmansk Shipping,ShipAndBunker_VesselsValue
+2026,36,,9/4/2026,Sevan Brasil,SEMI SUB DRILL RIG,Feb 2012,New Fortress Energy,ShipAndBunker_VesselsValue
+2026,36,,9/4/2026,Sevan Driller,SEMI SUB DRILL RIG,Nov 2009,New Fortress Energy,ShipAndBunker_VesselsValue
+2026,36,,9/4/2026,Lina F,HANDY BULKER,Dec 1997,Lintas Maritim Indonesia,ShipAndBunker_VesselsValue
+2026,36,,9/4/2026,Amship 2,GEN CARGO,Jun 1985,Metship,ShipAndBunker_VesselsValue
+2026,36,,9/4/2026,Larus,MPP,Nov 1997,El Moez Maritime,ShipAndBunker_VesselsValue
+2026,36,,9/4/2026,Hero SD,HANDY BULKER,Jul 1995,Nordic Shipping and Ship Management,ShipAndBunker_VesselsValue
+2026,36,,9/4/2026,Portland II,HANDYMAX,Feb 1985,Gulf Maritime Ship Management,ShipAndBunker_VesselsValue
 2026,35,,9/1/2026,Gas Aura,FULLY PRESSURISED,Mar 1996,ChemGasFleet,ShipAndBunker_VesselsValue
 2026,35,,8/31/2026,FK Sila,GEN CARGO,Sep 1982,H&P Ship Management,ShipAndBunker_VesselsValue
 2026,35,,8/30/2026,Crimson Saturn,SUPRAMAX,Oct 2001,Hachiuma Steamship,ShipAndBunker_VesselsValue
@@ -238,11 +253,3 @@ year,week,published_date,sale_date,vessel_name,vessel_type,build_date,seller,sou
 2025,39,,27-09-2025,Niigata Trader,FEEDERMAX,May 1997,Sinokor,ShipAndBunker_VesselsValue
 2025,39,,26-09-2025,Rising Harrier,HANDYMAX,Jul 1997,Swedish Management Co,ShipAndBunker_VesselsValue
 2025,39,,26-09-2025,AE Gas,FULLY PRESSURISED,Aug 1995,Tanker Armada Nusanatra,ShipAndBunker_VesselsValue
-2025,38,,22-09-2025,Nirvana,HANDY TANKER,Jul 1999,Starline Express Shipping,ShipAndBunker_VesselsValue
-2025,38,,21-09-2025,Asian Enterprise,HANDYMAX,Jul 1995,Dubai Navigation,ShipAndBunker_VesselsValue
-2025,38,,20-09-2025,Tutuk,SMALL TANKER,Jan 1996,Yong An Shipping,ShipAndBunker_VesselsValue
-2025,38,,20-09-2025,Nour Elhuda,MPP,Dec 1988,Embrace Shipping Management,ShipAndBunker_VesselsValue
-2025,38,,19-09-2025,He Fu,HANDY BULKER,Jun 1997,Hua Fu International Group,ShipAndBunker_VesselsValue
-2025,37,,15-09-2025,Sirvan Sabou,AFRAMAX,Aug 1995,Noah Maryam Kish Ship Management,ShipAndBunker_VesselsValue
-2025,37,,15-09-2025,Pione,HANDY TANKER,Feb 2000,Undisclosed,ShipAndBunker_VesselsValue
-2025,37,,12-09-2025,Rimba Empat,GEN CARGO,Aug 1975,Rimba Segara Lines,ShipAndBunker_VesselsValue

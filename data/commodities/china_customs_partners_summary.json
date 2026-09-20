@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:06:12.539747+00:00",
+  "generated_at": "2026-09-20T18:46:40.676120+00:00",
   "source": "General Administration of Customs of the People's Republic of China (GACC)",
   "api_provider": "chinadata.live / api/v2",
   "commodities": {
@@ -1189,11 +1189,11 @@
       "rationale": "China seaborne steel export outbound driver for geared bulkers",
       "coverage": {
         "first_period": "2018-01",
-        "latest_period": "2026-07",
-        "row_count": 103,
+        "latest_period": "2026-08",
+        "row_count": 104,
         "scope": "Versioned release: HS2 monthly exports/imports across public partner countries from D1 baseline."
       },
-      "total_monthly_points": 103,
+      "total_monthly_points": 104,
       "latest_month": null,
       "top_partners_all_time": [],
       "latest_partners": [],

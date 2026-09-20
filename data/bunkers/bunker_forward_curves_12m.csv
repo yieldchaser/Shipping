@@ -1,73 +1,73 @@
 as_of_date,port,month_offset,contract_month,ifo380_usd,vlsfo_usd,mgo_usd,source
-2026-09-16,Singapore,1,2026-10,719.49,849.53,1478.17,BunkerIndex_Forward
-2026-09-16,Fujairah,1,2026-10,717.6,953.0,1742.51,BunkerIndex_Forward
-2026-09-16,Busan,1,2026-10,768.85,925.47,1497.27,BunkerIndex_Forward
-2026-09-16,Hong Kong,1,2026-10,768.85,901.74,1486.94,BunkerIndex_Forward
-2026-09-16,Rotterdam,1,2026-10,593.25,686.27,1514.82,BunkerIndex_Forward
-2026-09-16,Kaohsiung,1,2026-10,823.91,882.76,1538.57,BunkerIndex_Forward
-2026-09-16,Fujairah,2,2026-11,667.4,886.33,1645.82,BunkerIndex_Forward
-2026-09-16,Busan,2,2026-11,715.07,860.73,1414.19,BunkerIndex_Forward
-2026-09-16,Hong Kong,2,2026-11,715.07,838.66,1404.43,BunkerIndex_Forward
-2026-09-16,Rotterdam,2,2026-11,551.75,638.26,1430.77,BunkerIndex_Forward
-2026-09-16,Kaohsiung,2,2026-11,766.27,821.0,1453.2,BunkerIndex_Forward
-2026-09-16,Singapore,2,2026-11,669.16,790.11,1396.14,BunkerIndex_Forward
-2026-09-16,Fujairah,3,2026-12,637.76,846.97,1558.24,BunkerIndex_Forward
-2026-09-16,Busan,3,2026-12,683.32,822.51,1338.93,BunkerIndex_Forward
-2026-09-16,Hong Kong,3,2026-12,683.32,801.42,1329.7,BunkerIndex_Forward
-2026-09-16,Rotterdam,3,2026-12,527.25,609.92,1354.63,BunkerIndex_Forward
-2026-09-16,Kaohsiung,3,2026-12,732.24,784.55,1375.87,BunkerIndex_Forward
-2026-09-16,Singapore,3,2026-12,639.45,755.02,1321.85,BunkerIndex_Forward
-2026-09-16,Kaohsiung,4,2027-01,702.21,752.37,1318.95,BunkerIndex_Forward
-2026-09-16,Singapore,4,2027-01,613.22,724.06,1267.16,BunkerIndex_Forward
-2026-09-16,Fujairah,4,2027-01,611.6,812.24,1493.78,BunkerIndex_Forward
-2026-09-16,Busan,4,2027-01,655.29,788.78,1283.54,BunkerIndex_Forward
-2026-09-16,Hong Kong,4,2027-01,655.29,768.55,1274.69,BunkerIndex_Forward
-2026-09-16,Rotterdam,4,2027-01,505.63,584.91,1298.59,BunkerIndex_Forward
-2026-09-16,Fujairah,5,2027-02,589.6,783.02,1446.69,BunkerIndex_Forward
-2026-09-16,Busan,5,2027-02,631.72,760.4,1243.09,BunkerIndex_Forward
-2026-09-16,Hong Kong,5,2027-02,631.72,740.91,1234.51,BunkerIndex_Forward
-2026-09-16,Rotterdam,5,2027-02,487.44,563.87,1257.66,BunkerIndex_Forward
-2026-09-16,Kaohsiung,5,2027-02,676.95,725.31,1277.38,BunkerIndex_Forward
-2026-09-16,Singapore,5,2027-02,591.16,698.01,1227.22,BunkerIndex_Forward
-2026-09-16,Rotterdam,6,2027-03,472.88,547.02,1218.05,BunkerIndex_Forward
-2026-09-16,Kaohsiung,6,2027-03,656.73,703.64,1237.15,BunkerIndex_Forward
-2026-09-16,Singapore,6,2027-03,573.5,677.16,1188.57,BunkerIndex_Forward
-2026-09-16,Fujairah,6,2027-03,571.99,759.63,1401.13,BunkerIndex_Forward
-2026-09-16,Busan,6,2027-03,612.85,737.69,1203.94,BunkerIndex_Forward
-2026-09-16,Hong Kong,6,2027-03,612.85,718.77,1195.63,BunkerIndex_Forward
-2026-09-16,Rotterdam,7,2027-04,460.31,532.49,1175.8,BunkerIndex_Forward
-2026-09-16,Kaohsiung,7,2027-04,639.28,684.95,1194.24,BunkerIndex_Forward
-2026-09-16,Singapore,7,2027-04,558.27,659.17,1147.35,BunkerIndex_Forward
-2026-09-16,Fujairah,7,2027-04,556.79,739.45,1352.53,BunkerIndex_Forward
-2026-09-16,Hong Kong,7,2027-04,596.57,699.68,1154.16,BunkerIndex_Forward
-2026-09-16,Busan,7,2027-04,596.57,718.09,1162.18,BunkerIndex_Forward
-2026-09-16,Kaohsiung,8,2027-05,624.27,668.86,1157.73,BunkerIndex_Forward
-2026-09-16,Singapore,8,2027-05,545.15,643.68,1112.28,BunkerIndex_Forward
-2026-09-16,Fujairah,8,2027-05,543.72,722.08,1311.19,BunkerIndex_Forward
-2026-09-16,Hong Kong,8,2027-05,582.55,683.24,1118.88,BunkerIndex_Forward
-2026-09-16,Busan,8,2027-05,582.55,701.22,1126.65,BunkerIndex_Forward
-2026-09-16,Rotterdam,8,2027-05,449.5,519.98,1139.86,BunkerIndex_Forward
-2026-09-16,Fujairah,9,2027-06,532.22,706.82,1273.39,BunkerIndex_Forward
-2026-09-16,Busan,9,2027-06,570.24,686.4,1094.17,BunkerIndex_Forward
-2026-09-16,Hong Kong,9,2027-06,570.24,668.8,1086.62,BunkerIndex_Forward
-2026-09-16,Rotterdam,9,2027-06,440.0,508.99,1107.0,BunkerIndex_Forward
-2026-09-16,Kaohsiung,9,2027-06,611.07,654.72,1124.35,BunkerIndex_Forward
-2026-09-16,Singapore,9,2027-06,533.63,630.08,1080.21,BunkerIndex_Forward
-2026-09-16,Singapore,10,2027-07,523.85,618.53,1053.15,BunkerIndex_Forward
-2026-09-16,Fujairah,10,2027-07,522.47,693.86,1241.49,BunkerIndex_Forward
-2026-09-16,Busan,10,2027-07,559.79,673.82,1066.77,BunkerIndex_Forward
-2026-09-16,Hong Kong,10,2027-07,559.79,656.55,1059.41,BunkerIndex_Forward
-2026-09-16,Rotterdam,10,2027-07,431.94,499.67,1079.27,BunkerIndex_Forward
-2026-09-16,Kaohsiung,10,2027-07,599.87,642.72,1096.19,BunkerIndex_Forward
-2026-09-16,Busan,11,2027-08,550.88,663.1,1042.99,BunkerIndex_Forward
-2026-09-16,Hong Kong,11,2027-08,550.88,646.1,1035.79,BunkerIndex_Forward
-2026-09-16,Rotterdam,11,2027-08,425.06,491.71,1055.21,BunkerIndex_Forward
-2026-09-16,Kaohsiung,11,2027-08,590.33,632.49,1071.76,BunkerIndex_Forward
-2026-09-16,Singapore,11,2027-08,515.52,608.69,1029.68,BunkerIndex_Forward
-2026-09-16,Fujairah,11,2027-08,514.16,682.82,1213.82,BunkerIndex_Forward
-2026-09-16,Singapore,12,2027-09,508.62,600.55,1009.64,BunkerIndex_Forward
-2026-09-16,Fujairah,12,2027-09,507.28,673.68,1190.19,BunkerIndex_Forward
-2026-09-16,Busan,12,2027-09,543.51,654.23,1022.69,BunkerIndex_Forward
-2026-09-16,Hong Kong,12,2027-09,543.51,637.45,1015.63,BunkerIndex_Forward
-2026-09-16,Rotterdam,12,2027-09,419.38,485.13,1034.68,BunkerIndex_Forward
-2026-09-16,Kaohsiung,12,2027-09,582.43,624.03,1050.9,BunkerIndex_Forward
+2026-09-21,Singapore,1,2026-10,667.64,819.1,1443.12,BunkerIndex_Forward
+2026-09-21,Busan,1,2026-10,713.86,869.44,1462.17,BunkerIndex_Forward
+2026-09-21,Fujairah,1,2026-10,657.57,896.9,1724.75,BunkerIndex_Forward
+2026-09-21,Hong Kong,1,2026-10,700.13,837.41,1390.1,BunkerIndex_Forward
+2026-09-21,Rotterdam,1,2026-10,560.56,654.83,1522.93,BunkerIndex_Forward
+2026-09-21,Kaohsiung,1,2026-10,789.82,846.56,1518.81,BunkerIndex_Forward
+2026-09-21,Hong Kong,2,2026-11,660.88,790.47,1323.27,BunkerIndex_Forward
+2026-09-21,Rotterdam,2,2026-11,529.14,618.12,1449.72,BunkerIndex_Forward
+2026-09-21,Kaohsiung,2,2026-11,745.55,799.11,1445.8,BunkerIndex_Forward
+2026-09-21,Singapore,2,2026-11,630.22,773.19,1373.75,BunkerIndex_Forward
+2026-09-21,Busan,2,2026-11,673.84,820.71,1391.88,BunkerIndex_Forward
+2026-09-21,Fujairah,2,2026-11,620.71,846.62,1641.84,BunkerIndex_Forward
+2026-09-21,Kaohsiung,3,2026-12,710.77,761.83,1363.49,BunkerIndex_Forward
+2026-09-21,Singapore,3,2026-12,600.82,737.12,1295.55,BunkerIndex_Forward
+2026-09-21,Busan,3,2026-12,642.41,782.42,1312.65,BunkerIndex_Forward
+2026-09-21,Fujairah,3,2026-12,591.76,807.13,1548.37,BunkerIndex_Forward
+2026-09-21,Hong Kong,3,2026-12,630.05,753.59,1247.94,BunkerIndex_Forward
+2026-09-21,Rotterdam,3,2026-12,504.46,589.29,1367.19,BunkerIndex_Forward
+2026-09-21,Hong Kong,4,2027-01,606.19,725.05,1189.22,BunkerIndex_Forward
+2026-09-21,Rotterdam,4,2027-01,485.35,566.96,1302.85,BunkerIndex_Forward
+2026-09-21,Kaohsiung,4,2027-01,683.84,732.97,1299.33,BunkerIndex_Forward
+2026-09-21,Singapore,4,2027-01,578.06,709.2,1234.58,BunkerIndex_Forward
+2026-09-21,Busan,4,2027-01,618.07,752.78,1250.88,BunkerIndex_Forward
+2026-09-21,Fujairah,4,2027-01,569.34,776.55,1475.51,BunkerIndex_Forward
+2026-09-21,Fujairah,5,2027-02,550.51,750.88,1421.91,BunkerIndex_Forward
+2026-09-21,Hong Kong,5,2027-02,586.14,701.07,1146.02,BunkerIndex_Forward
+2026-09-21,Rotterdam,5,2027-02,469.3,548.22,1255.52,BunkerIndex_Forward
+2026-09-21,Kaohsiung,5,2027-02,661.23,708.74,1252.13,BunkerIndex_Forward
+2026-09-21,Singapore,5,2027-02,558.94,685.75,1189.73,BunkerIndex_Forward
+2026-09-21,Busan,5,2027-02,597.64,727.89,1205.44,BunkerIndex_Forward
+2026-09-21,Kaohsiung,6,2027-03,642.94,689.13,1207.58,BunkerIndex_Forward
+2026-09-21,Singapore,6,2027-03,543.48,666.78,1147.41,BunkerIndex_Forward
+2026-09-21,Busan,6,2027-03,581.1,707.75,1162.55,BunkerIndex_Forward
+2026-09-21,Fujairah,6,2027-03,535.28,730.1,1371.32,BunkerIndex_Forward
+2026-09-21,Hong Kong,6,2027-03,569.93,681.68,1105.25,BunkerIndex_Forward
+2026-09-21,Rotterdam,6,2027-03,456.31,533.05,1210.86,BunkerIndex_Forward
+2026-09-21,Hong Kong,7,2027-04,555.93,664.93,1060.56,BunkerIndex_Forward
+2026-09-21,Rotterdam,7,2027-04,445.1,519.95,1161.9,BunkerIndex_Forward
+2026-09-21,Kaohsiung,7,2027-04,627.14,672.2,1158.76,BunkerIndex_Forward
+2026-09-21,Singapore,7,2027-04,530.13,650.4,1101.02,BunkerIndex_Forward
+2026-09-21,Busan,7,2027-04,566.83,690.37,1115.55,BunkerIndex_Forward
+2026-09-21,Fujairah,7,2027-04,522.13,712.17,1315.88,BunkerIndex_Forward
+2026-09-21,Singapore,8,2027-05,518.67,636.35,1062.2,BunkerIndex_Forward
+2026-09-21,Busan,8,2027-05,554.58,675.45,1076.22,BunkerIndex_Forward
+2026-09-21,Fujairah,8,2027-05,510.85,696.78,1269.48,BunkerIndex_Forward
+2026-09-21,Hong Kong,8,2027-05,543.92,650.57,1023.17,BunkerIndex_Forward
+2026-09-21,Rotterdam,8,2027-05,435.49,508.72,1120.93,BunkerIndex_Forward
+2026-09-21,Kaohsiung,8,2027-05,613.59,657.68,1117.9,BunkerIndex_Forward
+2026-09-21,Singapore,9,2027-06,508.61,623.99,1028.42,BunkerIndex_Forward
+2026-09-21,Busan,9,2027-06,543.82,662.34,1042.0,BunkerIndex_Forward
+2026-09-21,Fujairah,9,2027-06,500.94,683.26,1229.12,BunkerIndex_Forward
+2026-09-21,Hong Kong,9,2027-06,533.36,637.94,990.63,BunkerIndex_Forward
+2026-09-21,Rotterdam,9,2027-06,427.04,498.85,1085.29,BunkerIndex_Forward
+2026-09-21,Kaohsiung,9,2027-06,601.68,644.91,1082.36,BunkerIndex_Forward
+2026-09-21,Singapore,10,2027-07,499.93,613.34,1001.79,BunkerIndex_Forward
+2026-09-21,Busan,10,2027-07,534.53,651.04,1015.02,BunkerIndex_Forward
+2026-09-21,Fujairah,10,2027-07,492.39,671.59,1197.29,BunkerIndex_Forward
+2026-09-21,Hong Kong,10,2027-07,524.25,627.05,964.98,BunkerIndex_Forward
+2026-09-21,Rotterdam,10,2027-07,419.75,490.33,1057.19,BunkerIndex_Forward
+2026-09-21,Kaohsiung,10,2027-07,591.41,633.9,1054.33,BunkerIndex_Forward
+2026-09-21,Hong Kong,11,2027-08,516.3,617.53,943.52,BunkerIndex_Forward
+2026-09-21,Rotterdam,11,2027-08,413.38,482.89,1033.67,BunkerIndex_Forward
+2026-09-21,Kaohsiung,11,2027-08,582.44,624.28,1030.88,BunkerIndex_Forward
+2026-09-21,Singapore,11,2027-08,492.34,604.04,979.51,BunkerIndex_Forward
+2026-09-21,Busan,11,2027-08,526.42,641.16,992.44,BunkerIndex_Forward
+2026-09-21,Fujairah,11,2027-08,484.92,661.4,1170.66,BunkerIndex_Forward
+2026-09-21,Busan,12,2027-09,519.4,632.61,973.98,BunkerIndex_Forward
+2026-09-21,Fujairah,12,2027-09,478.45,652.58,1148.88,BunkerIndex_Forward
+2026-09-21,Hong Kong,12,2027-09,509.41,609.3,925.97,BunkerIndex_Forward
+2026-09-21,Rotterdam,12,2027-09,407.86,476.45,1014.45,BunkerIndex_Forward
+2026-09-21,Kaohsiung,12,2027-09,574.67,615.96,1011.7,BunkerIndex_Forward
+2026-09-21,Singapore,12,2027-09,485.77,595.98,961.29,BunkerIndex_Forward

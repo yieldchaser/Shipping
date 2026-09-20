@@ -70,7 +70,7 @@ date,port,total_throughput_mt,iron_ore_exports_mt,destinations_t,mom_pct,yoy_pct
 2021-04-01,Port Hedland,45.091,45.091,"{""China"": 36298703.0, ""Indonesia"": 697229.0, ""Japan"": 2851867.0, ""Korea, Republic of"": 4293991.0, ""Philippines"": 35180.0, ""Taiwan, Province of China"": 563398.0, ""Timor-Leste"": 111.56, ""Viet Nam"": 350994.0}",-3.39,-0.38,live_ppa_pdf
 2021-05-01,Port Hedland,48.049,48.049,"{""Australia"": 177453.0, ""China"": 40189183.0, ""Indonesia"": 361268.0, ""Japan"": 2477540.0, ""Korea, Republic of"": 3407876.0, ""Malaysia"": 77000.0, ""Netherlands"": 156418.0, ""Taiwan, Province of China"": 448459.0, ""Timor-Leste"": 74.22, ""Viet Nam"": 753716.0}",6.56,0.56,live_ppa_pdf
 2021-06-01,Port Hedland,50.376,50.376,"{""China"": 42019148.0, ""Indonesia"": 903325.0, ""Japan"": 2422001.0, ""Korea, Republic of"": 3965561.0, ""Taiwan, Province of China"": 894717.0, ""Viet Nam"": 171698.0}",4.84,-2.74,live_ppa_pdf
-2021-07-01,Port Hedland,44.3,44.3,,-12.06,1.51,"press_release_secondary (Australian Mining, citing PPA; 0.1 Mt precision)"
+2021-07-01,Port Hedland,44.3,44.3,,-12.06,1.51,live_ppa_archive
 2021-08-01,Port Hedland,43.925,43.925,"{""China"": 35912894.0, ""Indonesia"": 728478.0, ""Japan"": 2802424.0, ""Korea, Republic of"": 3552412.0, ""Singapore"": 56.4, ""Taiwan, Province of China"": 575944.0, ""Timor-Leste"": 64.9, ""Viet Nam"": 352594.0}",-0.85,-4.66,live_ppa_pdf
 2021-09-01,Port Hedland,46.984,46.984,"{""China"": 38623546.0, ""Indonesia"": 352550.0, ""Japan"": 2811398.0, ""Korea, Republic of"": 3937535.0, ""Malaysia"": 77000.0, ""Philippines"": 42935.0, ""Taiwan, Province of China"": 893590.0, ""Vietnam"": 245200.0}",6.96,3.1,live_ppa_pdf
 2021-10-01,Port Hedland,46.697,46.697,"{""China"": 39098056.0, ""Indonesia"": 560506.0, ""Japan"": 1879587.0, ""Korea, Republic of"": 3846596.0, ""Malaysia"": 98962.0, ""Netherlands"": 156170.0, ""Philippines"": 177726.0, ""Taiwan, Province of China"": 473531.0, ""Timor-Leste"": 3.88, ""Vietnam"": 406345.0}",-0.61,0.47,live_ppa_pdf
@@ -396,29 +396,29 @@ date,port,total_throughput_mt,iron_ore_exports_mt,destinations_t,mom_pct,yoy_pct
 2024-04-01,Port of Dampier,14.201,11.888,,-12.96,16.14,live_ppa_dampier_fy
 2024-05-01,Port of Dampier,15.0,12.619,,6.15,21.52,live_ppa_dampier_fy
 2024-06-01,Port of Dampier,15.275,12.875,,2.03,7.26,live_ppa_dampier_fy
-2024-07-01,Port of Dampier,14.559,11.968,,-7.04,3.06,live_ppa_dampier_fy
-2024-08-01,Port of Dampier,15.691,13.435,,12.26,20.45,live_ppa_dampier_fy
-2024-09-01,Port of Dampier,15.02,13.114,,-2.39,9.62,live_ppa_dampier_fy
-2024-10-01,Port of Dampier,14.45,12.2,,-6.97,-2.05,live_ppa_dampier_fy
-2024-11-01,Port of Dampier,15.23,13.032,,6.82,5.74,live_ppa_dampier_fy
-2024-12-01,Port of Dampier,16.047,13.721,,5.29,8.36,live_ppa_dampier_fy
-2025-01-01,Port of Dampier,11.886,9.792,,-28.63,-15.04,live_ppa_dampier_fy
-2025-02-01,Port of Dampier,10.086,8.233,,-15.92,-18.99,live_ppa_dampier_fy
-2025-03-01,Port of Dampier,15.748,13.622,,65.46,-0.26,live_ppa_dampier_fy
-2025-04-01,Port of Dampier,14.743,12.452,,-8.59,4.74,live_ppa_dampier_fy
-2025-05-01,Port of Dampier,14.169,12.581,,1.04,-0.3,live_ppa_dampier_fy
-2025-06-01,Port of Dampier,15.035,12.998,,3.31,0.96,live_ppa_dampier_fy
-2025-07-01,Port of Dampier,14.492,12.228,,-5.92,2.17,live_ppa_dampier_fy
-2025-08-01,Port of Dampier,16.198,13.847,,13.24,3.07,live_ppa_dampier_fy
-2025-09-01,Port of Dampier,15.089,13.085,,-5.5,-0.22,live_ppa_dampier_fy
-2025-10-01,Port of Dampier,16.937,14.928,,14.08,22.36,live_ppa_dampier_fy
-2025-11-01,Port of Dampier,14.193,12.061,,-19.21,-7.45,live_ppa_dampier_fy
-2025-12-01,Port of Dampier,17.022,14.975,,24.16,9.14,live_ppa_dampier_fy
-2026-01-01,Port of Dampier,14.098,11.984,,-19.97,22.39,live_ppa_dampier_fy
-2026-02-01,Port of Dampier,12.526,10.76,,-10.21,30.69,live_ppa_dampier_fy
-2026-03-01,Port of Dampier,13.413,11.352,,5.5,-16.66,live_ppa_dampier_fy
-2026-04-01,Port of Dampier,15.283,13.507,,18.98,8.47,live_ppa_dampier_fy
-2026-05-01,Port of Dampier,13.593,11.936,,-11.63,-5.13,live_ppa_dampier_fy
-2026-06-01,Port of Dampier,15.429,13.561,,13.61,4.33,live_ppa_dampier_fy
+2024-07-01,Port of Dampier,14.559,11.968,,-7.04,3.06,live_ppa_dampier
+2024-08-01,Port of Dampier,15.691,13.435,,12.26,20.45,live_ppa_dampier
+2024-09-01,Port of Dampier,15.02,13.114,,-2.39,9.62,live_ppa_dampier
+2024-10-01,Port of Dampier,14.45,12.2,,-6.97,-2.05,live_ppa_dampier
+2024-11-01,Port of Dampier,15.23,13.032,,6.82,5.74,live_ppa_dampier
+2024-12-01,Port of Dampier,16.047,13.721,,5.29,8.36,live_ppa_dampier
+2025-01-01,Port of Dampier,11.886,9.792,,-28.63,-15.04,live_ppa_dampier
+2025-02-01,Port of Dampier,10.086,8.233,,-15.92,-18.99,live_ppa_dampier
+2025-03-01,Port of Dampier,15.748,13.622,,65.46,-0.26,live_ppa_dampier
+2025-04-01,Port of Dampier,14.743,12.452,,-8.59,4.74,live_ppa_dampier
+2025-05-01,Port of Dampier,14.169,12.581,,1.04,-0.3,live_ppa_dampier
+2025-06-01,Port of Dampier,15.035,12.998,,3.31,0.96,live_ppa_dampier
+2025-07-01,Port of Dampier,14.492,12.228,,-5.92,2.17,live_ppa_dampier
+2025-08-01,Port of Dampier,16.198,13.847,,13.24,3.07,live_ppa_dampier
+2025-09-01,Port of Dampier,15.089,13.085,,-5.5,-0.22,live_ppa_dampier
+2025-10-01,Port of Dampier,16.937,14.928,,14.08,22.36,live_ppa_dampier
+2025-11-01,Port of Dampier,14.193,12.061,,-19.21,-7.45,live_ppa_dampier
+2025-12-01,Port of Dampier,17.022,14.975,,24.16,9.14,live_ppa_dampier
+2026-01-01,Port of Dampier,14.098,11.984,,-19.97,22.39,live_ppa_dampier
+2026-02-01,Port of Dampier,12.526,10.76,,-10.21,30.69,live_ppa_dampier
+2026-03-01,Port of Dampier,13.413,11.352,,5.5,-16.66,live_ppa_dampier
+2026-04-01,Port of Dampier,15.283,13.507,,18.98,8.47,live_ppa_dampier
+2026-05-01,Port of Dampier,13.593,11.936,,-11.63,-5.13,live_ppa_dampier
+2026-06-01,Port of Dampier,15.429,13.561,,13.61,4.33,live_ppa_dampier
 2026-07-01,Port of Dampier,14.692,12.587,,-7.18,2.94,live_ppa_dampier_fy
 2026-08-01,Port of Dampier,14.841,12.8,,1.69,-7.56,live_ppa_dampier_fy

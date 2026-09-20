@@ -137,11 +137,21 @@ def test_comexstat_brazil_live():
             data=json.dumps(payload).encode("utf-8"),
             headers={"Content-Type": "application/json", **HEADERS}
         )
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            http_status = str(resp.status)
-            data = json.loads(resp.read().decode("utf-8"))
+        data = None
+        http_status = "200"
+        for attempt in range(3):
+            try:
+                with urllib.request.urlopen(req, timeout=30) as resp:
+                    http_status = str(resp.status)
+                    data = json.loads(resp.read().decode("utf-8"))
+                break
+            except urllib.error.HTTPError as he:
+                if he.code == 429 and attempt < 2:
+                    time.sleep(3 * (attempt + 1))
+                    continue
+                raise
         
-        items = data.get("data", {}).get("list", [])
+        items = data.get("data", {}).get("list", []) if data else []
         assert len(items) > 0, "Empty list from ComexStat"
         kg = float(items[0].get("metricKG", 0))
         assert kg > 1_000_000_000, f"Suspiciously low kg: {kg}"
@@ -547,10 +557,20 @@ def test_australia_req_live():
     wayback_url = "https://web.archive.org/web/20260727061548if_/https://www.industry.gov.au/sites/default/files/2026-07/resources-and-energy-quarterly-june-2026-historical-data.xlsx"
     try:
         req = urllib.request.Request(wayback_url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=30, context=_SSL_CTX) as resp:
-            http_status = str(resp.status)
-            head = resp.read(100)
-            assert head[:2] == b"PK", "Not a valid XLSX workbook"
+        head = None
+        http_status = "200"
+        for attempt in range(3):
+            try:
+                with urllib.request.urlopen(req, timeout=30, context=_SSL_CTX) as resp:
+                    http_status = str(resp.status)
+                    head = resp.read(100)
+                break
+            except Exception as e:
+                if attempt < 2:
+                    time.sleep(2 * (attempt + 1))
+                    continue
+                raise
+        assert head and head[:2] == b"PK", "Not a valid XLSX workbook"
         logger.info("  Verified Australia REQ June 2026 workbook header (HTTP 200)")
         record_result(source, True, http_status, stored, expected, "Live REQ workbook verified (PK ZIP)")
         return True
