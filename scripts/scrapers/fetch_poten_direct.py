@@ -71,7 +71,9 @@ OUTPUT_DIR = REPO_ROOT / "reports" / "poten"
 PDF_DIR = OUTPUT_DIR / "pdfs"
 CHECKPOINT_FILE = REPO_ROOT / "data" / "derived" / "poten_checkpoint.json"
 
-BASE_URL = "https://www.poten.com/category/industry-opinions/tanker-opinions/"
+PRIMARY_BASE_URL = "https://www.poten.com/whats-new-2/tanker-opinions/"
+FALLBACK_BASE_URL = "https://www.poten.com/category/industry-opinions/tanker-opinions/"
+BASE_URL = PRIMARY_BASE_URL
 HOMEPAGE_CANONICAL = "https://www.poten.com"
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
@@ -662,19 +664,29 @@ def crawl_poten(max_pages=2, delay_sec=1.5):
 
     print(f"Starting Poten & Partners crawl. Known URLs: {len(processed_set)}")
 
+    candidate_bases = [PRIMARY_BASE_URL, FALLBACK_BASE_URL]
+    
     for page_num in range(1, max_pages + 1):
-        url = BASE_URL if page_num == 1 else f"{BASE_URL}page/{page_num}/"
-        print(f"\n--- Scraping Page {page_num}: {url} ---")
+        html = None
+        code = None
+        for base in candidate_bases:
+            url = base if page_num == 1 else f"{base}page/{page_num}/"
+            print(f"\n--- Scraping Page {page_num}: {url} ---")
+            code, html_attempt = http_get(url, timeout=25)
+            if code == 200 and html_attempt:
+                html = html_attempt
+                break
+            else:
+                print(f"[!] HTTP {code} for {url}, trying fallback if available...")
+
+        if not html:
+            print(f"[!] Could not retrieve page {page_num} from any base URL (last code: {code})")
+            break
 
         try:
-            code, html = http_get(url, timeout=25)
-            if code != 200:
-                print(f"[!] HTTP {code} for page {page_num}")
-                break
-
             soup = BeautifulSoup(html, "html.parser")
             articles = []
-            for h2 in soup.find_all(["h2", "h3"], class_=re.compile(r"entry-title|title|post-title")):
+            for h2 in soup.find_all(["h2", "h3", "h4"], class_=re.compile(r"entry-title|title|post-title|gdlr-blog-title")):
                 a = h2.find("a", href=True)
                 if a:
                     title = a.get_text().strip()
