@@ -428,10 +428,14 @@ def sync_reports():
         rep_slug = r.get("slug") or slugify(r.get("title") or r.get("id"))
         filename = f"{rep_date}_{rep_slug}.md"
         md_content = blocks_to_markdown(r)
-        for d in [REPORTS_DIR, DATA_REPORTS_DIR]:
-            os.makedirs(d, exist_ok=True)
-            with open(os.path.join(d, filename), "w", encoding="utf-8", newline="\n") as mf:
-                mf.write(md_content)
+        year_str = str(rep_date[:4]) if len(rep_date) >= 4 and rep_date[:4].isdigit() else "other"
+        year_reports_dir = os.path.join(REPORTS_DIR, year_str)
+        os.makedirs(year_reports_dir, exist_ok=True)
+        with open(os.path.join(year_reports_dir, filename), "w", encoding="utf-8", newline="\n") as mf:
+            mf.write(md_content)
+        os.makedirs(DATA_REPORTS_DIR, exist_ok=True)
+        with open(os.path.join(DATA_REPORTS_DIR, filename), "w", encoding="utf-8", newline="\n") as mf:
+            mf.write(md_content)
 
     catalog.sort(key=lambda r: (r.get("date") or "", r.get("created_at") or ""), reverse=True)
     for path in REPORTS_CATALOG_COPIES:

@@ -1,6 +1,6 @@
 # Comprehensive Maritime Document & Multimodal Intelligence Corpus Audit
 **Repository:** `Shipping` | **Canonical Corpus Scope:** Global Maritime Intelligence Architecture  
-**Audit Timestamp:** September 19, 2026 | **Target Artifact:** Forensic Document Mapping, Multimodal Assets & Pipeline Ingestion Model
+**Audit Timestamp:** September 20, 2026 | **Target Artifact:** Forensic Document Mapping, Multimodal Assets, AIS Trajectory Engine & Canonical Repository Architecture
 
 ---
 
@@ -28,6 +28,7 @@ While the primary document scan records **18,858 native PDFs (11.32 GB)** across
    ┌──────────────────┴─────────────────────────────────────────────────────────────────────────────────┐
    │                                                                                                    │
    ├─► 1. Multi-Broker Weekly Reports (SSY, Fearnleys, Intermodal, Allied...): 3,452 PDFs  │ (2,744.8 MB)
+   │      ↳ 138 Markdown circulars sorted by year & broker in reports/broker_reports/<year>/<broker>/   │
    ├─► 2. Hellenic Spot & Sector Streams (Iron Ore MMi, Demolition, Shipbldg): 3,965 PDFs  │ (2,201.6 MB)
    │      ↳ Companion Multimodal Assets (6,585 JPG Charts, 3,201 HTML Articles, 326 PNGs)  │ (1,002.5 MB)
    ├─► 3. The Signal Group Maritime Intelligence (Monitors, Newsroom, Charts): 2,369 Files │ (  318.1 MB)
@@ -38,9 +39,12 @@ While the primary document scan records **18,858 native PDFs (11.32 GB)** across
    ├─► 7. Breakwave Advisors Research Engine (370 PDFs + 15,150 Chart Figures): 18,340 Fls │ (2,530.0 MB)
    ├─► 8. Baltic Exchange Historical Fixture & Intelligence Archive:           3,038 HTMLs │ (   14.0 MB)
    ├─► 9. Fearnleys Weekly Markdown Circulars (176 Reports + 11.7k Desk Comments): 177 Fls │ (    3.2 MB)
+   │      ↳ 176 Markdown circulars partitioned by year in reports/fearnleys/<year>/                     │
    ├─► 10. CFTC Commitments of Traders (COT) Macro Positioning:                  138 PDFs  │ (   37.1 MB)
    ├─► 11. Seabrokers Offshore Rig & OSV Market Reports:                          97 PDFs  │ (  570.3 MB)
+   │      ↳ 97 Markdown circulars partitioned by year in reports/seabrokers/<year>/                     │
    ├─► 12. Quantitative & Geospatial Datasets (Bunkers, PortWatch, Fleet AIS): 1,385 Files │ (  545.5 MB)
+   │      ↳ Monthly AIS telemetry Parquet archive (zstd-7) & active browser trajectory engine           │
    ├─► 13. Foundational Academic Shipping Literature & Textbooks:                 12 Books │ (  118.3 MB)
    └─► 14. Research Briefs, Miner Filings & Corporate Intelligence:              18 PDFs  │ (   29.6 MB)
 ```
@@ -107,7 +111,7 @@ A multi-firm archive spanning 2018 through 2026 with **3,452 PDFs (2.74 GB)** ca
 | **SUBTOTAL** | — | **3,452** | **2,744.8 MB** | **2021 – 2026** | **Institutional Broker Intelligence Baseline** |
 
 > [!NOTE]
-> In addition to the raw PDFs, Fearnleys desk intelligence is indexed into `data/derived/fearnleys_broker_comments.csv`, containing **11,731 individual desk comments** dating back to September 2018 across Tankers, Dry Bulk, Gas, and S&P. Furthermore, **176 structured Markdown circulars (1.6 MB)** are preserved in `reports/fearnleys/`.
+> In addition to the raw PDFs, Fearnleys desk intelligence is indexed into `data/derived/fearnleys_broker_comments.csv`, containing **11,731 individual desk comments** dating back to September 2018 across Tankers, Dry Bulk, Gas, and S&P. Furthermore, **176 structured Markdown circulars (1.6 MB)** are preserved in `reports/fearnleys/` (partitioned by year: `2024/`, `2025/`, `2026/`). In parallel, 138 multi-firm broker reports are normalized in `reports/broker_reports/<year>/<broker>/*.md` across 14 top houses.
 
 ---
 
@@ -154,8 +158,9 @@ The primary Hellenic category ingest aggregates **14,122 total files (3.20 GB)**
 
 ---
 
-### 8. Seabrokers Offshore Market Intelligence (`data/reports/seabrokers/`)
+### 8. Seabrokers Offshore Market Intelligence (`data/reports/seabrokers/` & `reports/seabrokers/`)
 - **Total PDFs:** **97 PDFs** (570.3 MB)
+- **Extracted Markdown Reports (`reports/seabrokers/`):** **97 `.md` circulars** partitioned by year (`2020/` through `2026/`).
 - **Average Size:** 6.02 MB per report (high-fidelity monthly technical publications)
 - **Coverage:** Platform Supply Vessels (PSV), Anchor Handling Tug Supply (AHTS), subsea construction vessels, and offshore drilling rig dayrates across the North Sea, Gulf of Mexico, West Africa, and Brazil.
 
@@ -174,7 +179,7 @@ The repository contains critical structured time-series datasets that power the 
 2. **`data/bunkers/` — 12 files (186.5 MB)**: Marine fuel benchmark price series (VLSFO, MGO, IFO380, LNG) across major bunkering hubs: Singapore, Rotterdam, Fujairah, and Houston.
 3. **`data/commodities/` — 1,231 files (68.8 MB)**: Primary tabular trade feeds: Brazil ComexStat exports, Pilbara Ports monthly throughput, China customs values/tonnages, US EIA energy shipments, and Newcastle coal loadings.
 4. **`data/futures/` & `data/equities/` — 29 files (67.3 MB)**: 16 FFA freight futures settlement curves (41.8 MB) and 13 shipping public equities price/volume time-series (25.5 MB).
-5. **`data/geospatial/` — 34 files (62.8 MB)**: 12,060 ports gazetteer, live fleet AIS coordinates, 57,000 commercial vessel register, and `voyage_history_packed.json` (4,537 tracked vessels, 357,000 voyage legs).
+5. **`data/geospatial/` — 34+ files (64.2 MB)**: 12,060 ports gazetteer, live fleet AIS coordinates, 57,000 commercial vessel register, `voyage_history_packed.json` (4,537 tracked vessels, 357,000 voyage legs), `data/geospatial/history/` (permanent append-only monthly Parquet archives compressed with Zstandard zstd-7), and `data/views/signal/ais_history_active.json` (trajectory reconstruction engine enabling browser map playback).
 6. **`data/clarksons/` — 65 files (2.7 MB)**: 5 PDFs plus 48 JSONs, 8 CSVs, and 3 HTMLs including the master `gibson_all_reports_catalog.json` and market rate tables.
 7. **`docs/alibra_data/` — 70 files (1.8 MB)**: Tanker/dry bulk forward curve datasets, time charter poller logs, and validation matrices.
 
@@ -239,13 +244,13 @@ flowchart TD
         K2["daily_brief.yml\nMon-Fri 12:00 UTC"]
     end
 
-    W1 --> D1[("reports/shipbrokers/ & reports/broker_reports/")]
+    W1 --> D1[("reports/shipbrokers/ & reports/broker_reports/<year>/<broker>/")]
     W2 --> D2[("data/derived/fearnleys_broker_comments.csv")]
-    W3 --> D3[("data/derived/time_charter_rates_fearnleys.csv")]
+    W3 --> D3[("data/derived/time_charter_rates_fearnleys.csv & reports/fearnleys/<year>/")]
     W_SIG --> D_SIG[("reports/signal/ (monitors, newsroom, images)")]
     W4 --> D4[("reports/poten/, reports/drewry/, scripts/drewry_ais_pdfs/")]
     W5 --> D5[("reports/hellenic/, reports/drybulk/, reports/breakwave/")]
-    W6 --> D6[("data/reports/seabrokers/")]
+    W6 --> D6[("data/reports/seabrokers/ & reports/seabrokers/<year>/")]
     W7 --> D7[("data/commodities/ (PPA, Miners, BPS, ComexStat)")]
     W8 --> D8[("data/commodities/ (USDA FGIS Inspections & Queues)")]
 
@@ -261,17 +266,17 @@ flowchart TD
 
 | Stream | Update Cadence | Active Workflow | Trigger Schedule | Scraper Scripts Executed | Downstream Knowledge / RAG Destination | End-to-End Status |
 | :--- | :---: | :--- | :--- | :--- | :--- | :---: |
-| **1. Multi-Broker Reports** | Weekly | `broker_reports_weekly.yml` | Mon/Wed/Fri 07:00 UTC + Fri 18:00 UTC *(4x/wk)* | `fetch_hsn_shipbrokers.py`, `update_intermodal_tc_rates.py`, `fetch_gibson_weekly.py`, `extract_demolition_pdfs.py` | Parsed to `reports/broker_reports/*.md`; daily indexed by `process_knowledge.py` | **100% WIRED** |
+| **1. Multi-Broker Reports** | Weekly | `broker_reports_weekly.yml` | Mon/Wed/Fri 07:00 UTC + Fri 18:00 UTC *(4x/wk)* | `fetch_hsn_shipbrokers.py`, `update_intermodal_tc_rates.py`, `fetch_gibson_weekly.py`, `extract_demolition_pdfs.py` | Parsed to `reports/broker_reports/<year>/<broker>/*.md`; daily indexed by `process_knowledge.py` | **100% WIRED** |
 | **2. Broker Voice & Catalog** | Daily *(2x/day)* | `broker_voice_sync.yml` | Daily 07:20 & 17:20 UTC | `daily_fearnleys_sync.py`, `build_comment_chunks.py`, `fetch_gibson_catalog.py`, `check_broker_voice_fresh.py` | Syncs Gibson catalog + Fearnleys desk comments (11.7k comments) | **100% WIRED** |
-| **3. Fearnleys Fixtures & TC** | Weekly | `fearnleys_weekly.yml` | Wed 15:45 UTC & Thu 07:45 UTC | `fetch_fearnleys_tc.py`, `fetch_fearnleys_reports.py`, `daily_fearnleys_sync.py`, `build_fearnleys_cache.py` | Updates `time_charter_rates_fearnleys.csv` and `reports/fearnleys/*.md` | **100% WIRED** |
+| **3. Fearnleys Fixtures & TC** | Weekly | `fearnleys_weekly.yml` | Wed 15:45 UTC & Thu 07:45 UTC | `fetch_fearnleys_tc.py`, `fetch_fearnleys_reports.py`, `daily_fearnleys_sync.py`, `build_fearnleys_cache.py` | Updates `time_charter_rates_fearnleys.csv` and `reports/fearnleys/<year>/*.md` | **100% WIRED** |
 | **4. The Signal Group** | Weekly *(2x/wk)* | `signal_reports_weekly.yml` | Fri 18:30 UTC & Mon 08:30 UTC | `fetch_signal_reports.py`, `download_signal_images.py` | Ingests to `reports/signal/monitors/*.md` (249) and `reports/signal/newsroom/*.md` (189) with 1,426 local chart images | **100% WIRED** |
 | **5. Hellenic Spot & Sector** | Daily / Weekly | `report_ingest.yml` | Mon–Fri 09:30 UTC (`extended`) | `hellenic_scraper.py --category all` (Iron Ore MMi, Demolition, Shipbuilding, Dry/Wet Charter) | Stored in `reports/hellenic/`; daily OCR/indexed by `process_knowledge.py` | **100% WIRED** |
 | **6. Poten Tanker Opinions** | Weekly | `poten_drewry_weekly.yml` | Every Friday 17:00 UTC | `fetch_poten_direct.py` | Extracted to `reports/poten/*.md`; indexed in `knowledge/manifests/documents.jsonl` | **100% WIRED** |
 | **7. Drewry AIS & WCI** | Weekly | `poten_drewry_weekly.yml` | Every Friday 17:00 UTC | `fetch_drewry_wci.py`, `fetch_drewry_ais_weekly.py`, `fetch_drewry_opinions_incremental.py` | PDFs to `scripts/drewry_ais_pdfs/`, Markdown to `reports/drewry/`, CSV to `drewry_wci.csv` | **100% WIRED** |
 | **8. Breakwave Research** | Bi-Weekly / Daily | `report_ingest.yml` | Mon–Fri 08:00, 12:00, 16:00 UTC (`core`) + 09:30 UTC | `breakwave_scraper.py`, `breakwave_insights_scraper.py` | Outputs to `reports/drybulk/`, `reports/tankers/`, `reports/breakwave/`; daily indexed | **100% WIRED** |
-| **9. Seabrokers Offshore** | Monthly | `offshore_seabrokers_monthly.yml` | Mon & Thu 06:30 UTC + 1st–8th monthly daily 08:00 UTC | `fetch_seabrokers_reports.py --auto`, `build_offshore_cache.py` | PDFs to `data/reports/seabrokers/`, parsed into `offshore_market_summary.json` | **100% WIRED** |
+| **9. Seabrokers Offshore** | Monthly | `offshore_seabrokers_monthly.yml` | Mon & Thu 06:30 UTC + 1st–8th monthly daily 08:00 UTC | `fetch_seabrokers_reports.py --auto`, `build_offshore_cache.py` | PDFs to `data/reports/seabrokers/` & markdown to `reports/seabrokers/<year>/*.md`, parsed into `offshore_market_summary.json` | **100% WIRED** |
 | **10. Pilbara Ports (PPA)** | Monthly | `upstream_commodity_flows.yml` | Every Monday 06:00 UTC | `fetch_australia_ppa.py` | Updates monthly throughput tables in `data/commodities/pilbara_monthly_exports.csv` | **100% WIRED** |
-| **11. USDA Grain Flows** | Weekly | `usda_weekly.yml` | Every Thursday 15:00 UTC | `fetch_usda_grains.py`, `fetch_usda_fas_exports.py`, `fetch_usda_grain_queues.py`, `backfill_fgis_inspections.py` | Updates `usda_ytd_grain_inspections_top20.csv` and vessel loading queues | **100% WIRED** |
+| **11. USDA Grain Flows** | Weekly | `usda_weekly.yml` | Every Thursday 15:00 UTC | `fetch_usda_grains.py`, `fetch_usda_fas_exports.py`, `fetch_usda_grain_queues.py`, `scripts/acquire/backfill_fgis_inspections.py` | Updates `usda_ytd_grain_inspections_top20.csv` and vessel loading queues | **100% WIRED** |
 | **12. Miner Filings (SEC/ASX)** | Quarterly | `upstream_commodity_flows.yml` | Every Monday 06:00 UTC | `fetch_major_miners_production.py`, `verify_miners_provenance.py` | Updates `major_miners_quarterly_production.csv` verified against EDGAR/ASX filings | **100% WIRED** |
 | **13. Alibra TC Assessments** | Daily *(2x/day)* | `alibra_poller.yml` | Daily 07:00 & 16:00 UTC | `alibra_poller.py --integrate`, `integrate_alibra_feed.py` | Time charter assessments integrated into fleet freight models | **100% WIRED** |
 | **14. Baltic Exchange Indices** | Daily *(4x/day)* | `baltic_new_indices_update.yml` | Mon–Fri 10:30, 14:00, 19:00, 22:00 UTC | `baltic_new_indices.py --repo .` | Live BDI, BCI, BPI, BSI freight indices updated throughout the trading day | **100% WIRED** |
@@ -307,9 +312,23 @@ To prevent repository bloat and respect GitHub's recommended repository size lim
 - `scripts/drewry_ais_pdfs/` *(276 PDFs, 501 MB — local/runner disk cache)*
 - `scratch/ppa_pdf/` & `scratch/*.pdf` *(492 PDFs, 50.6 MB — local/runner disk cache)*
 
-Meanwhile, all **extracted structured Markdown (`reports/broker_reports/*.md`, `reports/signal/monitors/*.md`), JSON data indices (`data/derived/`), and clean text documents (`knowledge/docs/`)** are tracked in version control, ensuring 100% reproducibility of the user interface without carrying gigabytes of redundant static binary blobs in git history.
+Meanwhile, all **extracted structured Markdown (`reports/broker_reports/<year>/<broker>/*.md`, `reports/fearnleys/<year>/*.md`, `reports/seabrokers/<year>/*.md`, `reports/signal/monitors/*.md`), JSON data indices (`data/derived/`), and clean text documents (`knowledge/docs/`)** are tracked in version control, ensuring 100% reproducibility of the user interface without carrying gigabytes of redundant static binary blobs in git history.
 
-### 2. Knowledge Engine Indexing (`knowledge/manifests/documents.jsonl`)
+### 2. Canonical Directory Structure & Separation of Concerns
+Following the repository architecture refactor:
+- **Scripts Centralization (`scripts/`)**: All Python scripts reside exclusively in `scripts/` organized by domain (`acquire/`, `gap_fill/`, `experiments/`, `cargo/`, `fearnleys/`, `geospatial/`, etc.). Zero test files and zero CSV data files reside in `scripts/`.
+- **Single-Tier Test Organization (`tests/`)**: All test suites reside directly in `tests/test_*.py` with uniform execution depth (`parent.parent == REPO_ROOT`), with `sys.path` injection in `tests/conftest.py`.
+- **Hierarchical Broker Taxonomies**: Broker reports are sorted into `<year>/<broker>/*.md` across 14 global houses. Fearnleys and Seabrokers reports are partitioned cleanly by publication year.
+- **Reference & Documentation Archiving**: Unreferenced artifacts, prompt ledgers, and UI inspiration are archived into `docs/reference/` (`megaprompts/`, `inspiration/`, `logs/`), `docs/screenshots/`, and `docs/research/`.
+- **Knowledge Manifest Invariance**: Foundational academic textbooks are retained at `reports/*.pdf` matching immutable relative paths in `knowledge/manifests/manifest.jsonl`.
+
+### 3. Permanent AIS Telemetry Archive (`data/geospatial/history/`)
+- Historical vessel telemetry is partitioned by month into Zstandard-compressed Parquet files (`ais_positions_YYYY_MM.parquet`, level 7 compression).
+- Seeded with 9,078 authentic observations across 8,857 hulls.
+- Idempotently deduplicated on `(imo, timestamp)` with Null Island filtering.
+- Reconstructed active voyage paths are compiled into `data/views/signal/ais_history_active.json` for interactive browser Leaflet map playback.
+
+### 4. Knowledge Engine Indexing (`knowledge/manifests/documents.jsonl`)
 The processing engine converts incoming PDFs and web reports into a compact, searchable knowledge graph:
 - **10,134 indexed documents** with explicit source lineage.
 - **10,134 semantic syntax trees (`knowledge/trees/`)** recording entity hierarchies.
@@ -324,5 +343,5 @@ The processing engine converts incoming PDFs and web reports into a compact, sea
 2. **Canonical Core Collection:** **9,905 PDFs (6.49 GB)** organized across 18 major shipbroking firms, 3 Hellenic commodity streams, 21 years of Poten tanker opinions, Drewry AIS tracking, Breakwave research, Pilbara throughput reports, and 12 foundational maritime economics textbooks.
 3. **The Signal Group Intelligence Suite:** **2,369 files (318.1 MB)** comprising 249 Weekly Market Monitors (.md), 189 Market Newsroom Deep Dives (.md), 1,426 local analytical chart graphics (.png), 500 raw HTML provenance snapshots, and 4 regulatory whitepapers.
 4. **Multimodal Expansion:** **3,038 Baltic Exchange HTML fixture reports**, **547 Drewry Markdown opinion briefs**, **176 Fearnleys Markdown circulars**, and **over 25,000 localized visual chart graphics** in `reports/hellenic/` and `reports/breakwave/`.
-5. **Quantitative Datasets:** Dedicated time-series and AIS matrices in `data/` covering IMF PortWatch port congestion (214 MB), global marine bunker fuel benchmarks (186 MB), commodity balances (69 MB), FFA freight futures curves (42 MB), and global fleet coordinates (63 MB).
+5. **Quantitative & AIS Datasets:** Dedicated time-series and AIS matrices in `data/` covering IMF PortWatch port congestion (214 MB), global marine bunker fuel benchmarks (186 MB), commodity balances (69 MB), FFA freight futures curves (42 MB), global fleet coordinates (63 MB), and append-only Parquet AIS telemetry archives (`data/geospatial/history/`).
 6. **Automated Pipeline Health:** **23 orchestrated workflows** running reliably across GitHub Actions, with 17 active data and document pipelines continuously updating rates, fixtures, desk comments, throughput statistics, Signal Ocean intelligence, and RAG entity trees.

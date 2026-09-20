@@ -36,7 +36,10 @@ def test_series_cache_write_path_idempotent():
     # independently recompute one label's latest month from source rows
     label = "BULK_TC_CAPESIZE_180_000_DWT"
     assert label in d["labels"], "reference label missing"
-    src = pd.read_csv(ROOT / "scripts" / "fearnpulse_rates_full.csv",
+    rate_csv = (ROOT / "data" / "derived" / "fearnpulse_rates_full.csv" 
+                if (ROOT / "data" / "derived" / "fearnpulse_rates_full.csv").exists() 
+                else ROOT / "data" / "reference" / "fearnpulse_rates_full.csv")
+    src = pd.read_csv(rate_csv,
                       usecols=["label", "date", "rate"])
     g = src[src["label"] == label].copy()
     g["rate"] = pd.to_numeric(g["rate"], errors="coerce")

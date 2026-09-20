@@ -91,13 +91,16 @@ def test_catalog_manifest():
 
 def test_markdown_digested_reports():
     """Verify that digested Markdown reports contain expected sections."""
-    md_files = [f for f in os.listdir(SEABROKERS_REPORTS_DIR) if f.endswith(".md")]
+    from pathlib import Path
+    reports_p = Path(SEABROKERS_REPORTS_DIR)
+    md_files = list(reports_p.rglob("*.md"))
     assert len(md_files) >= 6, f"Expected at least 6 digested markdown reports, found {len(md_files)}"
 
-    sample_md = os.path.join(SEABROKERS_REPORTS_DIR, "2026-08-01_market-report-august-2026.md")
-    assert os.path.exists(sample_md)
-    with open(sample_md, "r", encoding="utf-8") as f:
-        content = f.read()
+    sample_md = reports_p / "2026" / "2026-08-01_market-report-august-2026.md"
+    if not sample_md.exists():
+        sample_md = reports_p / "2026-08-01_market-report-august-2026.md"
+    assert sample_md.exists()
+    content = sample_md.read_text(encoding="utf-8")
 
     assert "# Market Report August 2026" in content
     assert "Seabrokers Chartering" in content

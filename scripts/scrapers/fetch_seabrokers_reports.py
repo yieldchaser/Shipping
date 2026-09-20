@@ -370,8 +370,10 @@ def download_and_digest_reports(entries: list, limit=None):
 
         pdf_filename = f"{date_str}_{slug}.pdf"
         pdf_path = os.path.join(PDF_STORAGE_DIR, pdf_filename)
-        md_filename = f"{date_str}_{slug}.md"
-        md_path_reports = os.path.join(SEABROKERS_REPORTS_DIR, md_filename)
+        year_str = str(entry.get("year", date_str[:4]))
+        year_dir = os.path.join(SEABROKERS_REPORTS_DIR, year_str)
+        os.makedirs(year_dir, exist_ok=True)
+        md_path_reports = os.path.join(year_dir, md_filename)
         md_path_data = os.path.join(DATA_SEABROKERS_DIR, md_filename)
 
         print(f"  [{idx}/{len(to_process)}] Downloading & digesting: {entry['title']} ({date_str})...")
@@ -406,7 +408,7 @@ def download_and_digest_reports(entries: list, limit=None):
                 f.write(md_content)
 
             entry["digested"] = True
-            entry["markdown_path"] = f"reports/seabrokers/{md_filename}"
+            entry["markdown_path"] = f"reports/seabrokers/{year_str}/{md_filename}"
             if rate_rows:
                 all_rate_rows.extend(rate_rows)
             print(f"    [+] anydoc generated: {md_filename} ({entry['pages']} pages, {len(rate_rows)} dayrate rows)")
