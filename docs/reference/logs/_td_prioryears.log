@@ -1,0 +1,275 @@
+2026-09-09 11:46:36,810 [INFO] Fetching PortWatch_ports_database (full universe)...
+2026-09-09 11:46:48,001 [INFO]   2065 port rows
+2026-09-09 11:46:48,076 [INFO] Fetching PortWatch_chokepoints_database...
+2026-09-09 11:46:48,524 [INFO]   28 chokepoint rows
+2026-09-09 11:46:48,532 [INFO] Fetching portwatch_disruptions_database...
+2026-09-09 11:46:48,802 [INFO]   132 disruption events (2 ongoing)
+2026-09-09 11:51:07,164 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 11:52:56,683 [INFO]   2025 chunk 0: 36500 rows
+2026-09-09 11:57:30,764 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 11:59:17,395 [INFO]   2025 chunk 1: 36500 rows
+2026-09-09 12:03:55,390 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 12:05:51,922 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 12:08:48,012 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 12:13:44,196 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 12:18:40,217 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 12:22:40,225 [ERROR]   2025 chunk 2 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 12:29:03,705 [INFO]   2025 chunk 3: 36500 rows
+2026-09-09 12:34:15,120 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 12:36:11,399 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 12:39:11,966 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 12:44:07,984 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 12:49:04,516 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 12:53:04,524 [ERROR]   2025 chunk 4 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 12:59:34,345 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 13:01:30,330 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 13:04:26,230 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 13:09:22,423 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 13:14:18,705 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 13:18:18,712 [ERROR]   2025 chunk 5 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 13:20:45,126 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 13:27:28,476 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 13:29:24,865 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 13:32:17,436 [INFO]   2025 chunk 6: 36500 rows
+2026-09-09 13:38:01,849 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 13:39:58,276 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 13:42:54,981 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 13:47:51,700 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 13:52:49,230 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 13:56:49,237 [ERROR]   2025 chunk 7 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 14:03:28,036 [INFO]   2025 chunk 8: 36500 rows
+2026-09-09 14:04:21,100 [WARNING] ('Connection broken: IncompleteRead(15243 bytes read, 8105 more expected)', IncompleteRead(15243 bytes read, 8105 more expected)) (attempt 1/5)
+2026-09-09 14:10:42,871 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 14:12:38,987 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 14:15:35,720 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 14:20:29,639 [INFO]   2025 chunk 9: 36500 rows
+2026-09-09 14:24:38,010 [WARNING] ('Connection broken: IncompleteRead(15243 bytes read, 38302 more expected)', IncompleteRead(15243 bytes read, 38302 more expected)) (attempt 1/5)
+2026-09-09 14:26:51,212 [INFO]   2025 chunk 10: 36500 rows
+2026-09-09 14:32:08,288 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 14:34:00,206 [INFO]   2025 chunk 11: 36500 rows
+2026-09-09 14:34:56,914 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 14:40:52,880 [INFO]   2025 chunk 12: 36500 rows
+2026-09-09 14:41:49,558 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 14:47:04,983 [INFO]   2025 chunk 13: 36500 rows
+2026-09-09 14:48:01,922 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 14:49:57,773 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 14:52:53,850 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 14:57:49,502 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 15:02:45,139 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 15:06:45,146 [ERROR]   2025 chunk 14 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 15:09:11,778 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 15:11:08,319 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 15:14:04,033 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 15:22:41,039 [INFO]   2025 chunk 15: 36500 rows
+2026-09-09 15:23:37,723 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 15:25:33,426 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 15:28:29,637 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 15:32:31,333 [INFO]   2025 chunk 16: 0 rows
+2026-09-09 15:32:33,682 [INFO]   2025 chunk 17: 0 rows
+2026-09-09 15:32:35,272 [INFO]   2025 chunk 18: 0 rows
+2026-09-09 15:32:36,498 [INFO]   2025 chunk 19: 0 rows
+2026-09-09 15:32:38,289 [INFO]   2025 chunk 20: 0 rows
+2026-09-09 15:32:40,090 [INFO]   2025 chunk 2: 0 rows
+2026-09-09 15:32:41,495 [INFO]   2025 chunk 4: 0 rows
+2026-09-09 15:32:43,225 [INFO]   2025 chunk 5: 0 rows
+2026-09-09 15:32:45,407 [INFO]   2025 chunk 7: 0 rows
+2026-09-09 15:32:47,081 [INFO]   2025 chunk 14: 0 rows
+2026-09-09 15:33:01,328 [WARNING] {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (6021 request units)! maximum allowed request unit (attempt 1/5)
+2026-09-09 15:35:59,614 [WARNING] {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (6069 request units)! maximum allowed request unit (attempt 1/5)
+2026-09-09 15:38:01,811 [WARNING] {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (6009 request units)! maximum allowed request unit (attempt 1/5)
+2026-09-09 15:40:02,126 [INFO]   2024 chunk 0: 35502 rows
+2026-09-09 15:43:56,556 [INFO]   2024 chunk 1: 36600 rows
+2026-09-09 15:43:58,211 [WARNING] {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (6002 request units)! maximum allowed request unit (attempt 1/5)
+2026-09-09 15:49:16,693 [INFO]   2024 chunk 2: 36600 rows
+2026-09-09 15:53:44,857 [INFO]   2024 chunk 3: 36600 rows
+2026-09-09 15:55:58,092 [WARNING] {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (6009 request units)! maximum allowed request unit (attempt 1/5)
+2026-09-09 15:59:08,698 [INFO]   2024 chunk 4: 36600 rows
+2026-09-09 16:02:57,782 [WARNING] {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (6002 request units)! maximum allowed request unit (attempt 1/5)
+2026-09-09 16:04:44,834 [INFO]   2024 chunk 5: 36600 rows
+2026-09-09 16:09:27,181 [INFO]   2024 chunk 6: 36600 rows
+2026-09-09 16:10:24,952 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 16:12:20,634 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 16:15:16,931 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 16:20:12,812 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 16:25:08,504 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 16:29:08,507 [ERROR]   2024 chunk 7 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 16:31:35,283 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 16:33:31,564 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 16:36:25,535 [WARNING] ('Connection broken: IncompleteRead(15246 bytes read, 14376 more expected)', IncompleteRead(15246 bytes read, 14376 more expected)) (attempt 3/5)
+2026-09-09 16:41:21,530 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 16:49:47,582 [INFO]   2024 chunk 8: 36600 rows
+2026-09-09 16:54:57,208 [INFO]   2024 chunk 9: 34404 rows
+2026-09-09 16:55:54,487 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 16:57:50,181 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 17:00:46,056 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 17:05:41,879 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 17:10:37,904 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 17:14:37,905 [ERROR]   2024 chunk 10 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 17:17:04,884 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 17:19:00,758 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 17:21:56,896 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 17:26:52,782 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 17:31:48,650 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 17:35:48,663 [ERROR]   2024 chunk 11 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 17:38:15,601 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 17:40:11,744 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 17:43:07,836 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 17:48:04,101 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 17:53:00,601 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 17:57:00,632 [ERROR]   2024 chunk 12 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 18:02:25,842 [INFO]   2024 chunk 13: 36600 rows
+2026-09-09 18:03:24,543 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 18:08:25,099 [INFO]   2024 chunk 14: 35060 rows
+2026-09-09 18:12:30,079 [INFO]   2024 chunk 15: 35514 rows
+2026-09-09 18:14:27,955 [INFO]   2024 chunk 16: 18000 rows
+2026-09-09 18:14:29,743 [INFO]   2024 chunk 17: 0 rows
+2026-09-09 18:14:31,292 [INFO]   2024 chunk 18: 0 rows
+2026-09-09 18:17:31,497 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 18:19:31,737 [WARNING] HTTP 504 (attempt 2/5)
+2026-09-09 18:22:31,778 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 18:26:34,284 [INFO]   2024 chunk 19: 21584 rows
+2026-09-09 18:28:46,665 [INFO]   2024 chunk 20: 23790 rows
+2026-09-09 18:28:52,542 [INFO]   2024 chunk 7: 0 rows
+2026-09-09 18:28:57,377 [INFO]   2024 chunk 10: 0 rows
+2026-09-09 18:29:01,582 [INFO]   2024 chunk 11: 0 rows
+2026-09-09 18:29:06,452 [INFO]   2024 chunk 12: 0 rows
+2026-09-09 18:33:12,918 [INFO]   2023 chunk 0: 36500 rows
+2026-09-09 18:34:06,101 [INFO]   2023 chunk 1: 8783 rows
+2026-09-09 18:37:51,847 [INFO]   2023 chunk 2: 36500 rows
+2026-09-09 18:41:35,070 [INFO]   2023 chunk 3: 36500 rows
+2026-09-09 18:45:38,373 [INFO]   2023 chunk 4: 36500 rows
+2026-09-09 18:51:32,328 [INFO]   2023 chunk 5: 36500 rows
+2026-09-09 18:55:27,295 [INFO]   2023 chunk 6: 36500 rows
+2026-09-09 18:55:47,666 [WARNING] ('Connection broken: IncompleteRead(15244 bytes read, 29255 more expected)', IncompleteRead(15244 bytes read, 29255 more expected)) (attempt 1/5)
+2026-09-09 19:00:08,709 [INFO]   2023 chunk 7: 36500 rows
+2026-09-09 19:04:16,714 [INFO]   2023 chunk 8: 36500 rows
+2026-09-09 19:05:08,064 [WARNING] ('Connection broken: IncompleteRead(15245 bytes read, 9327 more expected)', IncompleteRead(15245 bytes read, 9327 more expected)) (attempt 1/5)
+2026-09-09 19:08:57,562 [INFO]   2023 chunk 9: 36500 rows
+2026-09-09 19:12:28,506 [INFO]   2023 chunk 10: 36500 rows
+2026-09-09 19:16:33,585 [INFO]   2023 chunk 11: 36500 rows
+2026-09-09 19:20:31,311 [INFO]   2023 chunk 12: 36500 rows
+2026-09-09 19:24:24,604 [INFO]   2023 chunk 13: 36500 rows
+2026-09-09 19:25:11,009 [WARNING] ('Connection broken: IncompleteRead(15245 bytes read, 23664 more expected)', IncompleteRead(15245 bytes read, 23664 more expected)) (attempt 1/5)
+2026-09-09 19:29:09,118 [INFO]   2023 chunk 14: 36500 rows
+2026-09-09 19:32:57,572 [INFO]   2023 chunk 15: 36500 rows
+2026-09-09 19:36:56,913 [INFO]   2023 chunk 16: 36500 rows
+2026-09-09 19:41:00,707 [INFO]   2023 chunk 17: 36500 rows
+2026-09-09 19:44:36,601 [WARNING] ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) (attempt 1/5)
+2026-09-09 19:45:37,860 [INFO]   2023 chunk 18: 36500 rows
+2026-09-09 19:51:23,804 [INFO]   2023 chunk 19: 57670 rows
+2026-09-09 19:52:43,847 [WARNING] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (attempt 1/5)
+2026-09-09 19:57:05,039 [INFO]   2023 chunk 20: 47450 rows
+2026-09-09 20:01:56,658 [INFO]   2022 chunk 0: 36500 rows
+2026-09-09 20:03:48,970 [INFO]   2022 chunk 1: 9197 rows
+2026-09-09 20:07:35,077 [WARNING] ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) (attempt 1/5)
+2026-09-09 20:09:07,074 [INFO]   2022 chunk 2: 36500 rows
+2026-09-09 20:12:13,149 [WARNING] ('Connection broken: IncompleteRead(15245 bytes read, 16610 more expected)', IncompleteRead(15245 bytes read, 16610 more expected)) (attempt 1/5)
+2026-09-09 20:14:08,637 [INFO]   2022 chunk 3: 36500 rows
+2026-09-09 20:18:24,593 [INFO]   2022 chunk 4: 36500 rows
+2026-09-09 20:19:03,944 [WARNING] ('Connection broken: IncompleteRead(15246 bytes read, 22919 more expected)', IncompleteRead(15246 bytes read, 22919 more expected)) (attempt 1/5)
+2026-09-09 20:21:27,088 [WARNING] ('Connection broken: IncompleteRead(15245 bytes read, 8312 more expected)', IncompleteRead(15245 bytes read, 8312 more expected)) (attempt 1/5)
+2026-09-09 20:24:25,293 [INFO]   2022 chunk 5: 36500 rows
+2026-09-09 20:24:50,549 [WARNING] ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) (attempt 1/5)
+2026-09-09 20:28:22,635 [WARNING] ('Connection broken: IncompleteRead(15245 bytes read, 11735 more expected)', IncompleteRead(15245 bytes read, 11735 more expected)) (attempt 1/5)
+2026-09-09 20:30:17,448 [INFO]   2022 chunk 6: 36500 rows
+2026-09-09 20:34:49,058 [INFO]   2022 chunk 7: 36500 rows
+2026-09-09 20:35:29,842 [WARNING] ('Connection broken: IncompleteRead(15244 bytes read, 15910 more expected)', IncompleteRead(15244 bytes read, 15910 more expected)) (attempt 1/5)
+2026-09-09 20:40:16,360 [INFO]   2022 chunk 8: 36500 rows
+2026-09-09 20:44:15,220 [INFO]   2022 chunk 9: 36500 rows
+2026-09-09 20:47:57,024 [INFO]   2022 chunk 10: 36500 rows
+2026-09-09 20:51:42,305 [INFO]   2022 chunk 11: 36500 rows
+2026-09-09 20:54:43,656 [WARNING] ('Connection broken: IncompleteRead(15244 bytes read, 34130 more expected)', IncompleteRead(15244 bytes read, 34130 more expected)) (attempt 1/5)
+2026-09-09 20:56:16,259 [INFO]   2022 chunk 12: 36500 rows
+2026-09-09 21:00:14,900 [INFO]   2022 chunk 13: 36500 rows
+2026-09-09 21:04:17,211 [INFO]   2022 chunk 14: 36500 rows
+2026-09-09 21:07:59,182 [INFO]   2022 chunk 15: 36500 rows
+2026-09-09 21:11:29,986 [INFO]   2022 chunk 16: 36500 rows
+2026-09-09 21:14:57,828 [INFO]   2022 chunk 17: 36500 rows
+2026-09-09 21:18:23,717 [INFO]   2022 chunk 18: 36500 rows
+2026-09-09 21:23:42,102 [INFO]   2022 chunk 19: 57670 rows
+2026-09-09 21:28:18,666 [INFO]   2022 chunk 20: 47450 rows
+2026-09-09 21:32:43,037 [INFO]   2021 chunk 0: 36500 rows
+2026-09-09 21:33:47,037 [INFO]   2021 chunk 1: 9245 rows
+2026-09-09 21:37:42,701 [INFO]   2021 chunk 2: 36500 rows
+2026-09-09 21:42:33,744 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 21:44:29,844 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 21:46:41,742 [INFO]   2021 chunk 3: 36500 rows
+2026-09-09 21:50:41,097 [INFO]   2021 chunk 4: 36500 rows
+2026-09-09 21:54:32,231 [INFO]   2021 chunk 5: 36500 rows
+2026-09-09 21:58:31,085 [INFO]   2021 chunk 6: 36500 rows
+2026-09-09 22:02:19,740 [INFO]   2021 chunk 7: 36500 rows
+2026-09-09 22:06:20,700 [INFO]   2021 chunk 8: 36500 rows
+2026-09-09 22:10:14,317 [INFO]   2021 chunk 9: 36500 rows
+2026-09-09 22:14:31,391 [INFO]   2021 chunk 10: 36500 rows
+2026-09-09 22:18:45,946 [INFO]   2021 chunk 11: 36500 rows
+2026-09-09 22:22:49,678 [INFO]   2021 chunk 12: 36500 rows
+2026-09-09 22:27:00,296 [INFO]   2021 chunk 13: 36500 rows
+2026-09-09 22:27:56,190 [WARNING] ('Connection broken: IncompleteRead(15244 bytes read, 23678 more expected)', IncompleteRead(15244 bytes read, 23678 more expected)) (attempt 1/5)
+2026-09-09 22:31:58,045 [INFO]   2021 chunk 14: 36500 rows
+2026-09-09 22:36:19,624 [INFO]   2021 chunk 15: 36500 rows
+2026-09-09 22:40:19,258 [INFO]   2021 chunk 16: 36500 rows
+2026-09-09 22:44:12,830 [INFO]   2021 chunk 17: 36500 rows
+2026-09-09 22:45:10,243 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 22:50:56,939 [INFO]   2021 chunk 18: 36500 rows
+2026-09-09 22:57:15,670 [INFO]   2021 chunk 19: 57670 rows
+2026-09-09 23:02:30,481 [INFO]   2021 chunk 20: 47450 rows
+2026-09-09 23:07:12,598 [INFO]   2020 chunk 0: 36600 rows
+2026-09-09 23:08:32,726 [INFO]   2020 chunk 1: 9057 rows
+2026-09-09 23:12:54,781 [INFO]   2020 chunk 2: 36600 rows
+2026-09-09 23:17:02,884 [INFO]   2020 chunk 3: 36600 rows
+2026-09-09 23:21:17,386 [INFO]   2020 chunk 4: 36600 rows
+2026-09-09 23:22:03,718 [WARNING] ('Connection broken: IncompleteRead(15246 bytes read, 11479 more expected)', IncompleteRead(15246 bytes read, 11479 more expected)) (attempt 1/5)
+2026-09-09 23:23:12,536 [WARNING] ('Connection broken: IncompleteRead(15245 bytes read, 30494 more expected)', IncompleteRead(15245 bytes read, 30494 more expected)) (attempt 1/5)
+2026-09-09 23:27:27,661 [INFO]   2020 chunk 5: 36600 rows
+2026-09-09 23:32:01,686 [INFO]   2020 chunk 6: 36600 rows
+2026-09-09 23:36:10,565 [INFO]   2020 chunk 7: 36600 rows
+2026-09-09 23:40:02,900 [INFO]   2020 chunk 8: 36600 rows
+2026-09-09 23:44:03,540 [INFO]   2020 chunk 9: 36600 rows
+2026-09-09 23:47:52,011 [INFO]   2020 chunk 10: 36600 rows
+2026-09-09 23:51:27,681 [INFO]   2020 chunk 11: 36600 rows
+2026-09-09 23:55:10,450 [INFO]   2020 chunk 12: 36600 rows
+2026-09-09 23:58:56,061 [INFO]   2020 chunk 13: 36600 rows
+2026-09-10 00:02:49,009 [INFO]   2020 chunk 14: 36600 rows
+2026-09-10 00:06:22,861 [INFO]   2020 chunk 15: 36600 rows
+2026-09-10 00:09:54,479 [INFO]   2020 chunk 16: 36600 rows
+2026-09-10 00:13:27,740 [INFO]   2020 chunk 17: 36600 rows
+2026-09-10 00:16:52,642 [INFO]   2020 chunk 18: 36600 rows
+2026-09-10 00:22:17,942 [INFO]   2020 chunk 19: 57561 rows
+2026-09-10 00:26:56,277 [INFO]   2020 chunk 20: 47580 rows
+2026-09-10 00:32:04,688 [INFO]   2019 chunk 0: 36500 rows
+2026-09-10 00:33:11,301 [INFO]   2019 chunk 1: 9222 rows
+2026-09-10 00:36:53,327 [INFO]   2019 chunk 2: 36500 rows
+2026-09-10 00:40:50,713 [INFO]   2019 chunk 3: 36500 rows
+2026-09-10 00:42:37,352 [WARNING] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (attempt 1/5)
+2026-09-10 00:45:31,228 [INFO]   2019 chunk 4: 36500 rows
+2026-09-10 00:48:23,466 [WARNING] ('Connection broken: IncompleteRead(15244 bytes read, 8917 more expected)', IncompleteRead(15244 bytes read, 8917 more expected)) (attempt 1/5)
+2026-09-10 00:50:17,608 [INFO]   2019 chunk 5: 36500 rows
+2026-09-10 00:54:13,530 [INFO]   2019 chunk 6: 36500 rows
+2026-09-10 00:57:47,369 [INFO]   2019 chunk 7: 36500 rows
+2026-09-10 01:01:29,716 [INFO]   2019 chunk 8: 36500 rows
+2026-09-10 01:02:28,198 [INFO]   2019 chunk 9: 9000 rows
+2026-09-10 01:02:30,671 [INFO]   2019 chunk 10: 0 rows
+2026-09-10 01:02:32,243 [INFO]   2019 chunk 11: 0 rows
+2026-09-10 01:02:33,305 [INFO]   2019 chunk 12: 0 rows
+2026-09-10 01:02:34,439 [INFO]   2019 chunk 13: 0 rows
+2026-09-10 01:02:35,482 [INFO]   2019 chunk 14: 0 rows
+2026-09-10 01:02:37,521 [INFO]   2019 chunk 15: 0 rows
+2026-09-10 01:02:40,180 [INFO]   2019 chunk 16: 0 rows
+2026-09-10 01:02:41,283 [INFO]   2019 chunk 17: 0 rows
+2026-09-10 01:02:42,373 [INFO]   2019 chunk 18: 0 rows
+2026-09-10 01:02:44,099 [INFO]   2019 chunk 19: 0 rows
+2026-09-10 01:02:45,169 [INFO]   2019 chunk 20: 0 rows
+C:\Users\Dell\Github\Shipping\scripts\scrapers\fetch_portwatch_ports_expanded.py:710: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  result["generated_utc"] = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+2026-09-10 01:03:12,041 [INFO] [ok] manifest -> C:\Users\Dell\Github\Shipping\data\congestion\portwatch_expanded_manifest.json
+2026-09-10 01:03:12,067 [INFO]   chokepoints_master.csv                            28 rows         5.8 KB
+2026-09-10 01:03:12,068 [INFO]   port_calls_daily_expanded_2019.csv.gz         310222 rows      9096.9 KB
+2026-09-10 01:03:12,068 [INFO]   port_calls_daily_expanded_2020.csv.gz         772998 rows     19579.7 KB
+2026-09-10 01:03:12,068 [INFO]   port_calls_daily_expanded_2021.csv.gz         771365 rows     19720.8 KB
+2026-09-10 01:03:12,068 [INFO]   port_calls_daily_expanded_2022.csv.gz         771317 rows     19839.8 KB
+2026-09-10 01:03:12,068 [INFO]   port_calls_daily_expanded_2023.csv.gz         770903 rows     19824.8 KB
+2026-09-10 01:03:12,069 [INFO]   port_calls_daily_expanded_2024.csv.gz         496654 rows     13751.0 KB
+2026-09-10 01:03:12,069 [INFO]   port_calls_daily_expanded_2025.csv.gz         401500 rows     11878.6 KB
+2026-09-10 01:03:12,069 [INFO]   portwatch_disruptions.csv                        132 rows        47.7 KB
+2026-09-10 01:03:12,069 [INFO]   portwatch_ports_master.csv                      2065 rows       451.3 KB
+2026-09-10 01:03:12,069 [INFO] [ok] ports ingested: 2065 | daily rows this run: 4294959 | max date: 2026-08-28

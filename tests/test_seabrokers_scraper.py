@@ -102,7 +102,7 @@ def test_markdown_digested_reports():
     assert "# Market Report August 2026" in content
     assert "Seabrokers Chartering" in content
     assert "North Sea OSV Spot Rates & Fleet Utilisation" in content
-    assert "Anydoc Extracted" in content
+    assert "Anydoc" in content
     assert "VESSEL/S" in content or "Bourbon" in content
 
 

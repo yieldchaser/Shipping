@@ -1,10 +1,15 @@
 import http.server
 import socket
+import sys
 import threading
 from pathlib import Path
 import pytest
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+if str(REPO_ROOT / "scripts") not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT / "scripts"))
 
 
 class QuietHandler(http.server.SimpleHTTPRequestHandler):

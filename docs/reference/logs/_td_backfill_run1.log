@@ -1,0 +1,42 @@
+2026-09-09 08:45:11,167 [INFO] Fetching PortWatch_ports_database (full universe)...
+2026-09-09 08:45:22,526 [INFO]   2065 port rows
+2026-09-09 08:45:22,561 [INFO] Fetching PortWatch_chokepoints_database...
+2026-09-09 08:45:23,553 [INFO]   28 chokepoint rows
+2026-09-09 08:45:23,556 [INFO] Fetching portwatch_disruptions_database...
+2026-09-09 08:45:24,088 [INFO]   132 disruption events (2 ongoing)
+2026-09-09 09:26:32,571 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 09:28:28,987 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 09:30:24,854 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 09:32:22,256 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 09:33:44,186 [WARNING] ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)) (attempt 5/5)
+2026-09-09 09:34:44,187 [ERROR]   2026 chunk 0 FAILED: ArcGIS query failed after 5 attempts: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the
+2026-09-09 09:39:00,170 [INFO]   2026 chunk 1: 24000 rows
+2026-09-09 09:41:37,357 [WARNING] ('Connection broken: IncompleteRead(15239 bytes read, 12211 more expected)', IncompleteRead(15239 bytes read, 12211 more expected)) (attempt 1/5)
+2026-09-09 09:42:52,425 [INFO]   2026 chunk 2: 24000 rows
+2026-09-09 09:45:43,576 [INFO]   2026 chunk 3: 24000 rows
+2026-09-09 09:48:52,962 [INFO]   2026 chunk 4: 24000 rows
+2026-09-09 09:49:59,816 [WARNING] {"code": 429, "message": "Unable to perform query. Too many requests.", "details": ["API calls quota exceeded (6009 request units)! maximum allowed request unit (attempt 1/5)
+2026-09-09 09:52:34,102 [INFO]   2026 chunk 5: 24000 rows
+2026-09-09 09:54:59,486 [INFO]   2026 chunk 6: 24000 rows
+2026-09-09 09:57:39,746 [INFO]   2026 chunk 7: 24000 rows
+2026-09-09 09:59:46,336 [INFO]   2026 chunk 8: 24000 rows
+2026-09-09 10:01:53,525 [INFO]   2026 chunk 9: 24000 rows
+2026-09-09 10:04:14,135 [INFO]   2026 chunk 10: 24000 rows
+2026-09-09 10:07:03,572 [INFO]   2026 chunk 11: 24000 rows
+2026-09-09 10:10:18,929 [INFO]   2026 chunk 12: 24000 rows
+2026-09-09 10:13:26,488 [INFO]   2026 chunk 13: 24000 rows
+2026-09-09 10:16:11,883 [INFO]   2026 chunk 14: 24000 rows
+2026-09-09 10:18:51,730 [INFO]   2026 chunk 15: 24000 rows
+2026-09-09 10:20:31,399 [WARNING] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (attempt 1/5)
+2026-09-09 10:22:42,675 [INFO]   2026 chunk 16: 24000 rows
+2026-09-09 10:25:35,718 [INFO]   2026 chunk 17: 24000 rows
+2026-09-09 10:28:21,437 [INFO]   2026 chunk 18: 24000 rows
+2026-09-09 10:30:49,888 [INFO]   2026 chunk 19: 24000 rows
+2026-09-09 10:33:05,217 [INFO]   2026 chunk 20: 15600 rows
+2026-09-09 10:35:59,543 [INFO]   2026 chunk 0: 24000 rows
+2026-09-09 10:40:55,812 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 10:42:51,712 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 10:44:47,863 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 10:46:44,497 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 10:48:41,035 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 10:49:41,035 [ERROR]   2025 chunk 0 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per

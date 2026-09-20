@@ -82,7 +82,7 @@ def main():
     print(f"Existing Intermodal TC records (cleaned base): {len(df_existing)}")
     
     extracted_rows = []
-    for md_file in sorted(REPORTS_DIR.glob("*intermodal*.md")):
+    for md_file in sorted(REPORTS_DIR.rglob("*intermodal*.md")):
         row = extract_rates_from_intermodal_md(md_file)
         if all(v is not None for k, v in row.items() if k != "date"):
             print(f"  [+] Extracted valid rates for date: {row['date']} from {md_file.name}")

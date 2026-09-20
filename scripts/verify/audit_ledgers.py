@@ -11,7 +11,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
-LEDGER_DIR = ROOT / "docs" / "megaprompts"
+LEDGER_DIR = ROOT / "docs" / "reference" / "megaprompts"
+if not LEDGER_DIR.exists():
+    LEDGER_DIR = ROOT / "docs" / "megaprompts"
 
 def run_command(cmd_str):
     try:

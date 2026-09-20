@@ -1,0 +1,17 @@
+2026-09-09 10:54:30,036 [INFO] Fetching PortWatch_ports_database (full universe)...
+2026-09-09 10:54:43,448 [INFO]   2065 port rows
+2026-09-09 10:54:43,487 [INFO] Fetching PortWatch_chokepoints_database...
+2026-09-09 10:54:44,230 [INFO]   28 chokepoint rows
+2026-09-09 10:54:44,232 [INFO] Fetching portwatch_disruptions_database...
+2026-09-09 10:54:44,905 [INFO]   132 disruption events (2 ongoing)
+2026-09-09 10:54:44,912 [INFO] year 2026: output exists, skipping (use --overwrite-years to redo)
+2026-09-09 10:59:05,854 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 11:01:03,228 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 11:03:59,624 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 11:08:55,879 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
+2026-09-09 11:13:52,740 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 5/5)
+2026-09-09 11:17:52,743 [ERROR]   2025 chunk 0 FAILED: ArcGIS query failed after 5 attempts: {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to per
+2026-09-09 11:23:49,346 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 1/5)
+2026-09-09 11:25:45,671 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 2/5)
+2026-09-09 11:28:41,599 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 3/5)
+2026-09-09 11:33:38,057 [WARNING] {"code": 400, "message": "Cannot perform query. Invalid query parameters.", "details": ["Unable to perform query. Please check your parameters."]} (attempt 4/5)
