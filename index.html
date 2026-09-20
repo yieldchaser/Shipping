@@ -14952,48 +14952,48 @@ if (intelTabsContainer) {
             </svg>
             Global Port Activity &amp; Strategic Chokepoints Terminal
           </h2>
-          <div class="tracking-sub" id="trackingSubTitle">Measured port calls across <span id="trackingTotalHubs">2,995</span> commercial ports &amp; terminals, disruptions &amp; 28 strategic maritime chokepoints &middot; IMF PortWatch (<span id="trackingPwHubs">1,979</span> audited hubs) &amp; Signal Ocean (<span id="trackingSoHubs">1,016</span> terminals)</div>
+          <div class="tracking-sub" id="trackingSubTitle">Measured port calls across <span id="trackingTotalHubs">2,995</span> commercial ports &amp; terminals, disruptions &amp; 28 strategic maritime chokepoints &middot; IMF PortWatch (<span id="trackingPwHubs">1,979</span> monitored hubs) &amp; Signal Ocean (<span id="trackingSoHubs">1,016</span> terminals)</div>
         </div>
         <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-          <div class="tracking-live-tag" data-tooltip="IMF PortWatch releases official econometric port call data with an audited ~7-day lag. Live vessel positions, lineups and chokepoints update in real-time.">
+          <div class="tracking-live-tag" data-tooltip="IMF PortWatch releases official econometric port call data with an official ~7-day publication lag. Live vessel positions, lineups and chokepoints update in real-time.">
             <span class="tracking-live-dot"></span>
-            PORTWATCH DATA (Audit Lag: Sep 11) &middot; <span id="trackingHUDRefreshNote">LIVE AIS ACTIVE</span>
+            PORTWATCH DATA (Reporting Lag: <span id="portwatchLagDate">Sep 11</span>) &middot; <span id="trackingHUDRefreshNote">Live AIS Active</span>
           </div>
           <div class="tracking-live-tag" id="hudPredictiveStrip" style="border-color:rgba(240,136,62,0.4); color:#f0883e; background:rgba(240,136,62,0.1);" data-tooltip="Predictive freight signals: physical port congestion anomalies correlated with forward Baltic spot rates.">
             <span class="tracking-live-dot" style="background:#f0883e; box-shadow:0 0 6px #f0883e;"></span>
-            PREDICTIVE FREIGHT: <span id="hudPredictiveStripVal" style="font-weight:700; margin-left:3px;">—</span>
+            Predictive Freight: <span id="hudPredictiveStripVal" style="font-weight:700; margin-left:3px;">—</span>
           </div>
         </div>
       </div>
 
       <!-- 6-KPI HUD STRIP (SYMMETRICAL 6-CARD GRID: Port Calls, 7D Avg, Disruptions, Chokepoints, Below Baseline, Red Sea Deficit) -->
       <div class="tracking-kpi-grid" id="trackingKpiGrid">
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Port Calls Across Universe" data-tt-val="latest observed day · PortWatch expanded feed" data-tt-fresh="" data-tt-desc="Latest observed daily port calls across IMF PortWatch universe. IMF releases official audited call series with a 7-day publication lag.">
+        <div class="tracking-kpi-card" data-tooltip="Latest observed daily commercial vessel arrivals across the IMF PortWatch global network, published with an official 7-day reporting lag." data-tt-type="tracking-hud" data-tt-title="Port Calls Across Universe" data-tt-val="latest observed day · PortWatch expanded feed" data-tt-fresh="" data-tt-desc="Latest observed daily commercial vessel arrivals across the IMF PortWatch global network, published with an official 7-day reporting lag.">
           <div class="tracking-kpi-label">Port Calls <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/><line x1="12" y1="1" x2="12" y2="10"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudUniverseCalls">—</div>
-          <div class="tracking-kpi-sub accent" id="hudUniverseCallsSub">IMF AIS &middot; Sep 11 (7d audit lag)</div>
+          <div class="tracking-kpi-sub accent" id="hudUniverseCallsSub">IMF AIS &middot; Sep 11 (7d reporting lag)</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="7-Day Average Calls" data-tt-val="calls per day · trailing week" data-tt-fresh="">
+        <div class="tracking-kpi-card" data-tooltip="Rolling 7-day moving average of daily commercial vessel arrivals across the measured PortWatch universe, smoothing day-of-week cargo handling seasonality." data-tt-type="tracking-hud" data-tt-title="7-Day Average Calls" data-tt-val="calls per day · trailing week" data-tt-fresh="" data-tt-desc="Rolling 7-day moving average of daily commercial vessel arrivals across the measured PortWatch universe, smoothing day-of-week cargo handling seasonality.">
           <div class="tracking-kpi-label">7-Day Avg Calls <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudCalls7d" style="color:var(--yellow);">—</div>
           <div class="tracking-kpi-sub warn" id="hudCalls7dSub">Trailing 7-day mean</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Active Disruptions" data-tt-val="PortWatch disruption events flagged ongoing" data-tt-fresh="">
+        <div class="tracking-kpi-card" data-tooltip="Severe maritime incidents flagged ongoing by IMF PortWatch, including extreme weather events, canal blockages, military engagements, labor disputes, and terminal closures." data-tt-type="tracking-hud" data-tt-title="Active Disruptions" data-tt-val="PortWatch disruption events flagged ongoing" data-tt-fresh="" data-tt-desc="Severe maritime incidents flagged ongoing by IMF PortWatch, including extreme weather events, canal blockages, military engagements, labor disputes, and terminal closures.">
           <div class="tracking-kpi-label">Active Disruptions <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudDisruptionsActive" style="color:var(--green);">—</div>
           <div class="tracking-kpi-sub good" id="hudDisruptionsSub">Flagged ongoing by PortWatch</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Strategic Maritime Chokepoints" data-tt-val="Passages monitored · live from chokepoint cache" data-tt-fresh="">
+        <div class="tracking-kpi-card" data-tooltip="Global maritime transit corridors and natural or man-made canals monitored for daily vessel traffic, queueing delays, and transit throughput." data-tt-type="tracking-hud" data-tt-title="Strategic Maritime Chokepoints" data-tt-val="Passages monitored · live from chokepoint telemetry" data-tt-fresh="" data-tt-desc="Global maritime transit corridors and natural or man-made canals monitored for daily vessel traffic, queueing delays, and transit throughput.">
           <div class="tracking-kpi-label">Strategic Chokepoints <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudChokepointsCount">—</div>
           <div class="tracking-kpi-sub">Canals, Straits &amp; Passages</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Chokepoints Below Baseline" data-tt-val="Passages with 7-day transits under their pre-disruption baseline" data-tt-fresh="">
+        <div class="tracking-kpi-card" data-tooltip="Key maritime passages currently experiencing transit throughput at least 10% below their 5-year historical pre-disruption baseline." data-tt-type="tracking-hud" data-tt-title="Chokepoints Below Baseline" data-tt-val="Passages with 7-day transits under their pre-disruption baseline" data-tt-fresh="" data-tt-desc="Key maritime passages currently experiencing transit throughput at least 10% below their 5-year historical pre-disruption baseline.">
           <div class="tracking-kpi-label">Chokepoints Under Baseline <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M23 18l-9.5-9.5-5 5L1 6"/><path d="M17 18h6v-6"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudCpBelowBaseline" style="color:var(--red);">—</div>
           <div class="tracking-kpi-sub alert" id="hudCpBelowBaselineSub">7-day rate vs normal baseline</div>
         </div>
-        <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Bab el-Mandeb / Red Sea Transit Deficit" data-tt-val="Transit volume delta · live from chokepoint cache" data-tt-fresh="" data-tt-desc="Live dynamic deficit computed from chokepoint transit telemetry (trailing 7-day rate vs 52.8 daily normal baseline). If commercial traffic normalizes through Bab el-Mandeb, this deficit dynamically closes toward 0% and shifts status to NORMAL_FLOW.">
+        <div class="tracking-kpi-card" data-tooltip="Live dynamic deficit computed from chokepoint transit telemetry comparing trailing 7-day transit rate against the 52.8 daily normal baseline." data-tt-type="tracking-hud" data-tt-title="Bab el-Mandeb / Red Sea Transit Deficit" data-tt-val="Transit volume delta · live from chokepoint telemetry" data-tt-fresh="" data-tt-desc="Live dynamic deficit computed from chokepoint transit telemetry (trailing 7-day rate vs 52.8 daily normal baseline). If commercial traffic normalizes through Bab el-Mandeb, this deficit dynamically closes toward 0% and shifts status to NORMAL_FLOW.">
           <div class="tracking-kpi-label">Red Sea Deficit <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudRedSeaDiverted" style="color:var(--red);">—</div>
           <div class="tracking-kpi-sub alert" id="hudRedSeaDivertedSub">Bab el-Mandeb vs 52.8 daily base</div>
@@ -15004,35 +15004,35 @@ if (intelTabsContainer) {
       <div class="tracking-toolbar">
         <div class="tracking-toolbar-row" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; width:100%;">
           <div class="tracking-tool-left">
-            <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">SECTOR:</div>
-            <button class="tracking-pill active" data-class="all" id="pillAllUniverse" data-tooltip="Show all ports and specialized commercial terminals across the global shipping universe." onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
-            <button class="tracking-pill" data-class="Tanker" data-tooltip="Filter to ports with measured crude and product tanker calls. Counts live from the PortWatch expanded feed." onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
-            <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Filter to ports with measured dry-bulk calls: iron ore, coal, grain and minor bulks." onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
-            <button class="tracking-pill" data-class="Container" data-tooltip="Filter to ports with measured container-ship calls (liner services)." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
-            <button class="tracking-pill" data-class="General Cargo" data-tooltip="Filter to ports with measured general-cargo / multipurpose vessel calls." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
-            <button class="tracking-pill" data-class="RoRo" data-tooltip="Filter to ports with measured roll-on / roll-off vehicle-carrier calls." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
-            <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LNG liquefaction &amp; regasification terminals and active LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
-            <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Filter map pins, terminal directory and live fleet to global LPG export &amp; import terminals and active LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
+            <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:4px;">Sector:</div>
+            <button class="tracking-pill active" data-class="all" id="pillAllUniverse" data-tooltip="Global commercial port universe including specialized bulk, container, liquid energy, and gas handling terminals." onclick="setTrackingClass('all')">All Universe <span class="pill-count" id="pillCountAll">2,995</span></button>
+            <button class="tracking-pill" data-class="Tanker" data-tooltip="Commercial crude and product tanker terminals with measured vessel calls from IMF PortWatch." onclick="setTrackingClass('Tanker')">Tankers <span class="pill-count" id="pillCountTanker">—</span></button>
+            <button class="tracking-pill" data-class="Dry Bulk" data-tooltip="Dry bulk export and discharge facilities handling iron ore, coal, grain, bauxite, and minor bulks." onclick="setTrackingClass('Dry Bulk')">Dry Bulk <span class="pill-count" id="pillCountBulk">—</span></button>
+            <button class="tracking-pill" data-class="Container" data-tooltip="Cellular container terminals and liner service facilities with measured vessel calls." onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
+            <button class="tracking-pill" data-class="General Cargo" data-tooltip="General cargo, multipurpose breakbulk, and project cargo marine terminals." onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
+            <button class="tracking-pill" data-class="RoRo" data-tooltip="Roll-on / roll-off (RoRo) pure car truck carrier (PCTC) and vehicle transshipment facilities." onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
+            <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Global LNG liquefaction export terminals, import regasification facilities, and active cryogenic LNG carriers." onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
+            <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Pressurized and refrigerated LPG terminals, export/import hubs, and active VLGC/LPG carriers." onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
           </div>
           <div style="display:flex; align-items:center; gap:6px;">
-            <div style="font-size:11px; font-weight:600; color:var(--text-muted);">WINDOW:</div>
+            <div style="font-size:11px; font-weight:600; color:var(--text-muted);">Window:</div>
             <select id="trackingYearSelect" class="tracking-select" onchange="onTrackingYearChange()" data-tooltip="PortWatch daily window for the activity chart and the KPI strip. Year to date is what the measured feed carries; the full history since 2019 exists for the 43 classic hubs.">
-              <option value="ytd" selected>2026 year to date</option>
-              <option value="30d">Last 30 days</option>
-              <option value="90d">Last 90 days</option>
-              <option value="full">Full measured window</option>
+              <option value="ytd" selected>2026 Year to Date</option>
+              <option value="30d">Last 30 Days</option>
+              <option value="90d">Last 90 Days</option>
+              <option value="full">Full Measured Window</option>
             </select>
           </div>
         </div>
         <div class="tracking-toolbar-row" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; width:100%; margin-top:2px; padding-top:8px; border-top:1px solid rgba(255,255,255,0.06);">
           <div class="tracking-layers-group" style="display:flex; align-items:center; gap:8px;">
-            <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:2px;">LAYERS:</div>
-            <label class="tracking-layer-chk" data-tooltip="Toggle the port-call pins layer on the tracking map. Pin size follows year-to-date calls from the PortWatch feed."><input type="checkbox" id="layerPorts" checked onchange="toggleTrackingLayer('ports')"> Port Calls</label>
-            <label class="tracking-layer-chk"><input type="checkbox" id="layerChokepoints" checked onchange="toggleTrackingLayer('chokepoints')"> Chokepoints</label>
-            <label class="tracking-layer-chk"><input type="checkbox" id="layerDisruptions" checked onchange="toggleTrackingLayer('disruptions')"> Disruption Pins</label>
+            <div style="font-size:11px; font-weight:600; color:var(--text-muted); margin-right:2px;">Layers:</div>
+            <label class="tracking-layer-chk" data-tooltip="Port-call pins overlay displaying measured year-to-date arrivals from the IMF PortWatch feed."><input type="checkbox" id="layerPorts" checked onchange="toggleTrackingLayer('ports')" data-tooltip="Port-call pins overlay displaying measured year-to-date arrivals from the IMF PortWatch feed."> Port Calls</label>
+            <label class="tracking-layer-chk" data-tooltip="Strategic maritime chokepoints and canals overlay including Suez, Panama, and Malacca."><input type="checkbox" id="layerChokepoints" checked onchange="toggleTrackingLayer('chokepoints')" data-tooltip="Strategic maritime chokepoints and canals overlay including Suez, Panama, and Malacca."> Chokepoints</label>
+            <label class="tracking-layer-chk" data-tooltip="Active PortWatch maritime disruptions, port closure warnings, and geopolitical security alerts."><input type="checkbox" id="layerDisruptions" checked onchange="toggleTrackingLayer('disruptions')" data-tooltip="Active PortWatch maritime disruptions, port closure warnings, and geopolitical security alerts."> Disruption Pins</label>
           </div>
           <div class="tracking-tool-right" style="display:flex; align-items:center; gap:6px;">
-            <button class="cp-toggle-btn" id="btnToggleMapExpand" onclick="toggleTrackingMapExpand()" style="display:flex; align-items:center; gap:5px; padding:4px 8px; font-size:11px;" data-tooltip="Toggle map layout between Split Workstation view and Expansive Full-Width Command Map.">
+            <button class="cp-toggle-btn" id="btnToggleMapExpand" onclick="toggleTrackingMapExpand()" style="display:flex; align-items:center; gap:5px; padding:4px 8px; font-size:11px;" data-tooltip="Full-width map command layout or split workstation view.">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
               <span id="btnToggleMapExpandLabel">Expand Map</span>
             </button>
@@ -15040,10 +15040,10 @@ if (intelTabsContainer) {
               <input type="text" id="vesselMasterSearchInput" class="tracking-input" style="width:200px;" placeholder="Search 57k vessels (Name, IMO)..." data-tooltip="Search the comprehensive 57,256 commercial vessel registry (Signal Ocean). Type vessel name or IMO to inspect DWT, class, built year, and operator particulars." oninput="onVesselMasterSearchInput(this.value)" onfocus="onVesselMasterSearchFocus()">
               <div id="vesselMasterDropdown" class="vessel-search-dropdown" style="display:none; position:absolute; top:100%; left:0; width:340px; max-width:90vw; max-height:360px; overflow-y:auto; background:var(--card); border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,0.7); z-index:1000; margin-top:4px;"></div>
             </div>
-            <select id="trackingPortSelect" class="tracking-select" onchange="onTrackingPortChange()">
+            <select id="trackingPortSelect" class="tracking-select" onchange="onTrackingPortChange()" data-tooltip="Direct selection jump across 2,995 tracked commercial maritime ports and marine cargo terminals.">
               <option value="all">All Universe Ports (2,995)</option>
             </select>
-            <input type="text" id="trackingSearchInput" class="tracking-input" placeholder="Search 2,995 ports (name, LOCODE)..." data-tooltip="Searches all 2,995 PortWatch &amp; Signal Ocean terminals by name, country or UN/LOCODE and opens the matching port page." oninput="onTrackingSearchInput()">
+            <input type="text" id="trackingSearchInput" class="tracking-input" placeholder="Search 2,995 ports (name, LOCODE)..." data-tooltip="Global port search filter by port name, country, or UN/LOCODE identifier across 2,995 terminals." oninput="onTrackingSearchInput()">
           </div>
         </div>
       </div>
@@ -15089,7 +15089,7 @@ if (intelTabsContainer) {
                     <div class="port-history-sub" id="phSub" style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">43 classic hubs &middot; daily calls 2019&ndash;present &middot; 5Y same-window mean &middot; latest <span id="phLatest">&mdash;</span></div>
                   </div>
                   <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-                    <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip=" " data-tt-type="portwatch-callout" data-tt-context="note"><!-- populated by initPortHistory --></select>
+                    <select id="phPortSelect" class="ph-select" onchange="setPortHistoryPort(this.value)" aria-label="Select port for call history" data-tooltip="Strategic maritime hub selector covering 43 classic ports with daily history and 5Y baselines."><!-- populated by initPortHistory --></select>
                   </div>
                 </div>
 
@@ -15097,25 +15097,25 @@ if (intelTabsContainer) {
                 <div style="display:flex; flex-direction:column; gap:4px; padding:6px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border);">
                   <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Primary Hub Monitors</div>
                   <div id="congestionPortToggle" style="display:flex; flex-wrap:wrap; gap:4px;">
-                    <button class="cp-toggle-btn active" id="congBtnQingdao" onclick="setPortHistoryPort('port1069')" style="font-size:11px; padding:3px 8px;">Qingdao</button>
-                    <button class="cp-toggle-btn" id="congBtnNingbo" onclick="setPortHistoryPort('port824')" style="font-size:11px; padding:3px 8px;">Ningbo</button>
-                    <button class="cp-toggle-btn" id="congBtnHedland" onclick="setPortHistoryPort('port955')" style="font-size:11px; padding:3px 8px;">Port Hedland</button>
-                    <button class="cp-toggle-btn" id="congBtnDampier" onclick="setPortHistoryPort('port276')" style="font-size:11px; padding:3px 8px;">Dampier</button>
-                    <button class="cp-toggle-btn" id="congBtnNewcastle" onclick="setPortHistoryPort('port816')" style="font-size:11px; padding:3px 8px;">Newcastle</button>
-                    <button class="cp-toggle-btn" id="congBtnHayPoint" onclick="setPortHistoryPort('port458')" style="font-size:11px; padding:3px 8px;">Hay Point</button>
-                    <button class="cp-toggle-btn" id="congBtnSingapore" onclick="setPortHistoryPort('port1201')" style="font-size:11px; padding:3px 8px;">Singapore</button>
-                    <button class="cp-toggle-btn" id="congBtnRotterdam" onclick="setPortHistoryPort('port1114')" style="font-size:11px; padding:3px 8px;">Rotterdam</button>
-                    <button class="cp-toggle-btn" id="congBtnRasTanura" onclick="setPortHistoryPort('port1091')" style="font-size:11px; padding:3px 8px;">Ras Tanura</button>
-                    <button class="cp-toggle-btn" id="congBtnFujairah" onclick="setPortHistoryPort('port362')" style="font-size:11px; padding:3px 8px;">Fujairah</button>
-                    <button class="cp-toggle-btn" id="congBtnHouston" onclick="setPortHistoryPort('port481')" style="font-size:11px; padding:3px 8px;">Houston</button>
-                    <button class="cp-toggle-btn" id="congBtnCorpus" onclick="setPortHistoryPort('port264')" style="font-size:11px; padding:3px 8px;">Corpus Christi</button>
-                    <button class="cp-toggle-btn" id="congBtnTubarao" onclick="setPortHistoryPort('port1328')" style="font-size:11px; padding:3px 8px;">Tubarao</button>
-                    <button class="cp-toggle-btn" id="congBtnSantos" onclick="setPortHistoryPort('port1160')" style="font-size:11px; padding:3px 8px;">Santos</button>
-                    <button class="cp-toggle-btn" id="congBtnRizhao" onclick="setPortHistoryPort('port1105')" style="font-size:11px; padding:3px 8px;">Rizhao</button>
-                    <button class="cp-toggle-btn" id="congBtnQinhuangdao" onclick="setPortHistoryPort('port1072')" style="font-size:11px; padding:3px 8px;">Qinhuangdao</button>
-                    <button class="cp-toggle-btn" id="congBtnRichardsBay" onclick="setPortHistoryPort('port1099')" style="font-size:11px; padding:3px 8px;">Richards Bay</button>
-                    <button class="cp-toggle-btn" id="congBtnSaldanhaBay" onclick="setPortHistoryPort('port1133')" style="font-size:11px; padding:3px 8px;">Saldanha Bay</button>
-                    <button class="cp-toggle-btn" id="congBtnRasLaffan" onclick="setPortHistoryPort('port1090')" style="font-size:11px; padding:3px 8px;">Ras Laffan</button>
+                    <button class="cp-toggle-btn active" id="congBtnQingdao" onclick="setPortHistoryPort('port1069')" style="font-size:11px; padding:3px 8px;" data-tooltip="Qingdao: Major Chinese dry bulk and crude terminal complex in Shandong; prime discharge hub for Capesize iron ore (C3/C5) and VLCC crude.">Qingdao</button>
+                    <button class="cp-toggle-btn" id="congBtnNingbo" onclick="setPortHistoryPort('port824')" style="font-size:11px; padding:3px 8px;" data-tooltip="Ningbo-Zhoushan: World's largest port by annual cargo tonnage; primary discharge gateway for iron ore, crude oil, and container freight in East China.">Ningbo</button>
+                    <button class="cp-toggle-btn" id="congBtnHedland" onclick="setPortHistoryPort('port955')" style="font-size:11px; padding:3px 8px;" data-tooltip="Port Hedland: Premier Australian bulk iron ore export gateway in Pilbara; world's highest-tonnage Capesize/VLOC loading terminal.">Port Hedland</button>
+                    <button class="cp-toggle-btn" id="congBtnDampier" onclick="setPortHistoryPort('port276')" style="font-size:11px; padding:3px 8px;" data-tooltip="Dampier: Major Western Australian loading terminal for Rio Tinto iron ore and Woodside LNG/condensate exports.">Dampier</button>
+                    <button class="cp-toggle-btn" id="congBtnNewcastle" onclick="setPortHistoryPort('port816')" style="font-size:11px; padding:3px 8px;" data-tooltip="Newcastle: World's leading thermal and metallurgical coal export gateway in New South Wales, serving Panamax and Capesize bulkers.">Newcastle</button>
+                    <button class="cp-toggle-btn" id="congBtnHayPoint" onclick="setPortHistoryPort('port458')" style="font-size:11px; padding:3px 8px;" data-tooltip="Hay Point: Queensland deepwater coal export terminal handling metallurgical coal shipments from the Bowen Basin for global steelmakers.">Hay Point</button>
+                    <button class="cp-toggle-btn" id="congBtnSingapore" onclick="setPortHistoryPort('port1201')" style="font-size:11px; padding:3px 8px;" data-tooltip="Singapore: Global premier maritime transshipment hub and the world's largest physical marine bunkering center at the crossroads of Malacca.">Singapore</button>
+                    <button class="cp-toggle-btn" id="congBtnRotterdam" onclick="setPortHistoryPort('port1114')" style="font-size:11px; padding:3px 8px;" data-tooltip="Rotterdam: Europe's largest seaport and energy gateway; major ARA hub for crude discharge, iron ore, coal, and bunker supplies.">Rotterdam</button>
+                    <button class="cp-toggle-btn" id="congBtnRasTanura" onclick="setPortHistoryPort('port1091')" style="font-size:11px; padding:3px 8px;" data-tooltip="Ras Tanura: Saudi Aramco's primary Persian Gulf crude terminal and offshore sea islands, loading VLCCs for global oil markets.">Ras Tanura</button>
+                    <button class="cp-toggle-btn" id="congBtnFujairah" onclick="setPortHistoryPort('port362')" style="font-size:11px; padding:3px 8px;" data-tooltip="Fujairah: Strategic Indian Ocean bunkering hub and crude/products storage terminal located outside the Strait of Hormuz chokepoint.">Fujairah</button>
+                    <button class="cp-toggle-btn" id="congBtnHouston" onclick="setPortHistoryPort('port481')" style="font-size:11px; padding:3px 8px;" data-tooltip="Houston: Premier US Gulf energy and petrochemical export gateway; leading terminal for crude oil, refined products, and container freight.">Houston</button>
+                    <button class="cp-toggle-btn" id="congBtnCorpus" onclick="setPortHistoryPort('port264')" style="font-size:11px; padding:3px 8px;" data-tooltip="Corpus Christi: Top US deepwater crude export gateway, loading VLCC and Suezmax tankers with Permian Basin crude oil.">Corpus Christi</button>
+                    <button class="cp-toggle-btn" id="congBtnTubarao" onclick="setPortHistoryPort('port1328')" style="font-size:11px; padding:3px 8px;" data-tooltip="Tubarao: Vale's flagship iron ore loading terminal in Vitoria, Brazil; origin port for Baltic C3 Capesize voyages to China.">Tubarao</button>
+                    <button class="cp-toggle-btn" id="congBtnSantos" onclick="setPortHistoryPort('port1160')" style="font-size:11px; padding:3px 8px;" data-tooltip="Santos: Latin America's largest container and agricultural bulk seaport; major loading gateway for Brazilian soybeans, corn, and sugar.">Santos</button>
+                    <button class="cp-toggle-btn" id="congBtnRizhao" onclick="setPortHistoryPort('port1105')" style="font-size:11px; padding:3px 8px;" data-tooltip="Rizhao: Rapidly expanding dry bulk gateway in Shandong, handling heavy Capesize discharges of seaborne iron ore, coal, and bauxite.">Rizhao</button>
+                    <button class="cp-toggle-btn" id="congBtnQinhuangdao" onclick="setPortHistoryPort('port1072')" style="font-size:11px; padding:3px 8px;" data-tooltip="Qinhuangdao: Northern China's historic domestic and international coal transshipment terminal on the Bohai Sea.">Qinhuangdao</button>
+                    <button class="cp-toggle-btn" id="congBtnRichardsBay" onclick="setPortHistoryPort('port1099')" style="font-size:11px; padding:3px 8px;" data-tooltip="Richards Bay: South Africa's deepwater bulk terminal handling massive export volumes of coal and mineral ores on Cape/Panamax tonnage.">Richards Bay</button>
+                    <button class="cp-toggle-btn" id="congBtnSaldanhaBay" onclick="setPortHistoryPort('port1133')" style="font-size:11px; padding:3px 8px;" data-tooltip="Saldanha Bay: South Africa's deepwater iron ore loading terminal exporting Sishen ore directly to Asian and European steel mills.">Saldanha Bay</button>
+                    <button class="cp-toggle-btn" id="congBtnRasLaffan" onclick="setPortHistoryPort('port1090')" style="font-size:11px; padding:3px 8px;" data-tooltip="Ras Laffan: World's premier liquefied natural gas (LNG) export complex in Qatar, operating dedicated Q-Max and Q-Flex cryogenic berths.">Ras Laffan</button>
                   </div>
                 </div>
 
@@ -15123,10 +15123,10 @@ if (intelTabsContainer) {
                 <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
                   <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Vessel Sector Lens</div>
                   <div class="cp-btn-group">
-                    <button class="cp-toggle-btn active" id="phSectorTotal" onclick="setPortHistorySector('total')" data-tooltip=" " data-tt-type="portwatch-callout">All Sectors</button>
-                    <button class="cp-toggle-btn" id="phSectorDry" onclick="setPortHistorySector('dry_bulk')" data-tooltip=" " data-tt-type="portwatch-callout">Dry Bulk</button>
-                    <button class="cp-toggle-btn" id="phSectorTanker" onclick="setPortHistorySector('tanker')" data-tooltip=" " data-tt-type="portwatch-callout">Tankers</button>
-                    <button class="cp-toggle-btn" id="phSectorContainer" onclick="setPortHistorySector('container')" data-tooltip=" " data-tt-type="portwatch-callout">Container</button>
+                    <button class="cp-toggle-btn active" id="phSectorTotal" onclick="setPortHistorySector('total')" data-tooltip="All commercial vessel sectors combined (dry bulk, tankers, container, general cargo, and RoRo) from IMF PortWatch.">All Sectors</button>
+                    <button class="cp-toggle-btn" id="phSectorDry" onclick="setPortHistorySector('dry_bulk')" data-tooltip="Capesize, Panamax, and Supramax dry bulk carrier port calls, tracking raw material throughput.">Dry Bulk</button>
+                    <button class="cp-toggle-btn" id="phSectorTanker" onclick="setPortHistorySector('tanker')" data-tooltip="Crude oil, dirty product, and clean petroleum product tanker port calls, tracking liquid energy throughput.">Tankers</button>
+                    <button class="cp-toggle-btn" id="phSectorContainer" onclick="setPortHistorySector('container')" data-tooltip="Cellular container ship port calls, tracking global manufactured goods trade and supply chain velocity.">Container</button>
                   </div>
                 </div>
               </div>
@@ -15141,23 +15141,23 @@ if (intelTabsContainer) {
           <div id="subviewUniverse" class="tracking-subview-content" style="display:flex; flex-direction:column;">
             <div style="display:flex; gap:8px; align-items:center; padding:8px 10px; border-bottom:1px solid var(--border); flex-wrap:wrap;">
               <input type="text" id="universeSearchInput" class="tracking-input" style="flex:1; min-width:170px;" placeholder="Search 2,995 ports: name, country, LOCODE..." data-tooltip="Filters the combined universe of 2,995 measured PortWatch and Signal Ocean terminals by name, country or UN/LOCODE. Matching happens on the loaded universe cache." oninput="onUniverseSearchInput()">
-              <select id="universeClassFilter" class="tracking-select" onchange="onUniverseClassChange()" data-tooltip="Show only ports whose measured year-to-date calls include the chosen vessel class. From the PortWatch expanded feed.">
-                <option value="all">Any calls</option>
-                <option value="tanker">Tanker calls</option>
-                <option value="dry_bulk">Dry-bulk calls</option>
-                <option value="container">Container calls</option>
-                <option value="general_cargo">General-cargo calls</option>
-                <option value="roro">RoRo calls</option>
+              <select id="universeClassFilter" class="tracking-select" onchange="onUniverseClassChange()" data-tooltip="Filters port directory by recorded vessel class arrivals from the IMF PortWatch expanded feed.">
+                <option value="all">Any Calls</option>
+                <option value="tanker">Tanker Calls</option>
+                <option value="dry_bulk">Dry-Bulk Calls</option>
+                <option value="container">Container Calls</option>
+                <option value="general_cargo">General-Cargo Calls</option>
+                <option value="roro">RoRo Calls</option>
               </select>
-              <span class="pill-count" id="universeCountBadge" style="font-size:var(--fs-micro); color:var(--text-muted);">—</span>
+              <span class="pill-count" id="universeCountBadge" style="font-size:var(--fs-micro); color:var(--text-muted);" data-tooltip="Total number of global commercial maritime ports matching current search filter and vessel class selection.">—</span>
             </div>
             <div class="tracking-table-wrap" style="flex:1;">
               <table class="tracking-table">
                 <thead>
                   <tr>
-                    <th>Port</th>
-                    <th>Class Mix</th>
-                    <th>Calls (YTD)</th>
+                    <th data-tooltip="Port Name: Commercial seaport or cargo terminal facility in the IMF PortWatch and Signal Ocean global maritime directory.">Port</th>
+                    <th data-tooltip="Class Mix: Proportion of measured vessel arrivals across Tanker, Dry Bulk, Container, General Cargo, and RoRo categories.">Class Mix</th>
+                    <th data-tooltip="Calls (YTD): Total audited commercial vessel arrivals recorded by IMF PortWatch during calendar year 2026.">Calls (YTD)</th>
                   </tr>
                 </thead>
                 <tbody id="universeTableBody">
@@ -15168,8 +15168,8 @@ if (intelTabsContainer) {
             <div class="tracking-table-footer">
               <span id="universePageInfo">—</span>
               <div style="display:flex; gap:6px;">
-                <button id="btnUniversePrev" class="tracking-page-btn" data-tooltip="Show the previous page of matching universe ports." onclick="prevUniversePage()">Prev</button>
-                <button id="btnUniverseNext" class="tracking-page-btn" data-tooltip="Show the next page of matching universe ports." onclick="nextUniversePage()">Next</button>
+                <button id="btnUniversePrev" class="tracking-page-btn" data-tooltip="Previous page of matching commercial ports in the global universe directory." onclick="prevUniversePage()">Prev</button>
+                <button id="btnUniverseNext" class="tracking-page-btn" data-tooltip="Next page of matching commercial ports in the global universe directory." onclick="nextUniversePage()">Next</button>
               </div>
             </div>
             <div id="universeSearchHint" style="display:none; position:absolute;"></div>
@@ -15183,7 +15183,7 @@ if (intelTabsContainer) {
               <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px;">
                 <div style="display:flex; flex-direction:column; gap:2px;">
                   <div style="display:flex; align-items:center; gap:8px;">
-                    <button class="cp-toggle-btn" onclick="setTrackingSubView('universe')" style="font-size:10px; padding:2px 6px;" title="Back to Port Universe browser">
+                    <button class="cp-toggle-btn" onclick="setTrackingSubView('universe')" style="font-size:10px; padding:2px 6px;" title="Back to Port Universe browser" data-tooltip="Navigates back to the Port Universe directory and global terminal search.">
                       &larr; Universe
                     </button>
                     <h3 id="ppTitle" style="font-size:17px; font-weight:700; color:#fff; margin:0;">Select a Port</h3>
@@ -15193,13 +15193,13 @@ if (intelTabsContainer) {
                   </div>
                 </div>
                 <div style="display:flex; align-items:center; gap:6px;">
-                  <button class="cp-toggle-btn" id="btnTogglePaneExpand" onclick="toggleTrackingPaneExpand()" style="font-size:11px; padding:3px 8px;" data-tooltip="Toggle full-width queue view — expands left pane across the entire workstation screen for detailed fleet analysis.">
+                  <button class="cp-toggle-btn" id="btnTogglePaneExpand" onclick="toggleTrackingPaneExpand()" style="font-size:11px; padding:3px 8px;" data-tooltip="Full-width queue view expanding left pane across the entire workstation screen for detailed fleet analysis.">
                     &#x26F6; Expand Queue
                   </button>
-                  <button class="cp-toggle-btn" id="ppPinBtn" onclick="togglePinnedPort()" style="font-size:11px; padding:3px 8px;" data-tooltip="Pin this port to the quick-switch tab strip.">
+                  <button class="cp-toggle-btn" id="ppPinBtn" onclick="togglePinnedPort()" style="font-size:11px; padding:3px 8px;" data-tooltip="Bookmarks active port to the quick-switch tab strip for rapid multi-terminal surveillance.">
                     &#128204; Pin Port
                   </button>
-                  <button class="pd-close" onclick="setTrackingSubView('universe')" aria-label="Close port page" style="font-size:18px; cursor:pointer; background:none; border:none; color:var(--text-muted); padding:0 4px;" title="Close port page">&times;</button>
+                  <button class="pd-close" onclick="setTrackingSubView('universe')" aria-label="Close port page" style="font-size:18px; cursor:pointer; background:none; border:none; color:var(--text-muted); padding:0 4px;" title="Close port page" data-tooltip="Closes port page and returns to Port Universe browser view.">&times;</button>
                 </div>
               </div>
               
@@ -15214,12 +15214,12 @@ if (intelTabsContainer) {
             <div id="acPortPicker" class="ac-picker-panel">
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
                 <div style="display:flex; align-items:center; gap:8px;">
-                  <span style="font-size:var(--fs-micro); font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.05em;">TERMINAL DIRECTORY</span>
+                  <span style="font-size:var(--fs-micro); font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.05em;">Terminal Directory</span>
                   <span style="font-size:var(--fs-micro); color:var(--text-muted);">Signal Ocean Asset-Class Split</span>
                 </div>
                 <div style="display:flex; align-items:center; gap:8px;">
-                  <label style="display:flex; align-items:center; gap:6px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;">
-                    <input type="checkbox" id="acMajorToggle" checked onchange="toggleAssetClassMajorOnly(this.checked)" />
+                  <label style="display:flex; align-items:center; gap:6px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;" data-tooltip="Major global gateway ports filter displaying terminals with at least 500 annual calls.">
+                    <input type="checkbox" id="acMajorToggle" checked onchange="toggleAssetClassMajorOnly(this.checked)" data-tooltip="Major global gateway ports filter displaying terminals with at least 500 annual calls." />
                     <span>Major Terminals Only</span>
                   </label>
                 </div>
@@ -15228,13 +15228,13 @@ if (intelTabsContainer) {
               <!-- Asset Class Segment Buttons -->
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
                 <div class="cp-btn-group" id="acSegmentButtons" style="flex-wrap:wrap;">
-                  <button class="cp-toggle-btn active" id="acSegDryBulk" onclick="setAssetClassSegment('dry_bulk')">Dry Bulk <span class="sec-count" id="acCountDryBulk">(—)</span></button>
-                  <button class="cp-toggle-btn" id="acSegTankers" onclick="setAssetClassSegment('tankers')">Tankers <span class="sec-count" id="acCountTankers">(—)</span></button>
-                  <button class="cp-toggle-btn" id="acSegLng" onclick="setAssetClassSegment('lng')">LNG <span class="sec-count" id="acCountLng">(—)</span></button>
-                  <button class="cp-toggle-btn" id="acSegLpg" onclick="setAssetClassSegment('lpg')">LPG <span class="sec-count" id="acCountLpg">(—)</span></button>
+                  <button class="cp-toggle-btn active" id="acSegDryBulk" onclick="setAssetClassSegment('dry_bulk')" data-tooltip="Dry bulk export and import hubs handling iron ore, metallurgical/thermal coal, bauxite, grains, and minor bulks.">Dry Bulk <span class="sec-count" id="acCountDryBulk">(—)</span></button>
+                  <button class="cp-toggle-btn" id="acSegTankers" onclick="setAssetClassSegment('tankers')" data-tooltip="Crude oil and clean petroleum product marine terminals handling VLCC, Suezmax, Aframax, and MR tonnage.">Tankers <span class="sec-count" id="acCountTankers">(—)</span></button>
+                  <button class="cp-toggle-btn" id="acSegLng" onclick="setAssetClassSegment('lng')" data-tooltip="Cryogenic liquefied natural gas (LNG) export liquefaction complexes and import regasification terminals.">LNG <span class="sec-count" id="acCountLng">(—)</span></button>
+                  <button class="cp-toggle-btn" id="acSegLpg" onclick="setAssetClassSegment('lpg')" data-tooltip="Pressurized and refrigerated LPG terminals serving Very Large Gas Carriers (VLGC) and pressurized coasters.">LPG <span class="sec-count" id="acCountLpg">(—)</span></button>
                 </div>
                 <div style="flex:1; min-width:200px;">
-                  <select id="acPortSelect" class="tracking-select" style="width:100%;" onchange="onAssetPortSelect(this.value)">
+                  <select id="acPortSelect" class="tracking-select" style="width:100%;" onchange="onAssetPortSelect(this.value)" data-tooltip="Commercial port selector for live vessel queues, arrivals lineup, and terminal throughput.">
                     <!-- Populated dynamically by renderAssetClassPortPicker -->
                   </select>
                 </div>
@@ -15257,23 +15257,23 @@ if (intelTabsContainer) {
                   </div>
                 </div>
                 <div style="font-size:var(--fs-micro); font-family:var(--font-mono); color:var(--text-muted);">
-                  Anchored/Berth: <strong id="ppQueueCountAnchored" style="color:#79c0ff;">&mdash;</strong> &middot;
-                  Inbound: <strong id="ppQueueCountInbound" style="color:#e3b341;">&mdash;</strong> &middot;
-                  Total: <strong id="ppQueueCountTotal" style="color:var(--text-main);">&mdash;</strong>
+                  Anchored/Berth: <strong id="ppQueueCountAnchored" style="color:#79c0ff;" data-tooltip="Vessels currently waiting at outer anchorage or working cargo at marine terminal berths.">&mdash;</strong> &middot;
+                  Inbound: <strong id="ppQueueCountInbound" style="color:#e3b341;" data-tooltip="Vessels currently underway with this port set as their reported AIS destination.">&mdash;</strong> &middot;
+                  Total: <strong id="ppQueueCountTotal" style="color:var(--text-main);" data-tooltip="Total active fleet vessels operating within the port zone or bound for this terminal.">&mdash;</strong>
                 </div>
               </div>
 
               <!-- Statistical Normality & 5-Year Baseline Indicator -->
-              <div id="ppNormalityStrip" style="padding:6px 10px; background:rgba(255,255,255,0.02); border:1px solid var(--border); border-radius:4px; font-size:11px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
+              <div id="ppNormalityStrip" style="padding:6px 10px; background:rgba(255,255,255,0.02); border:1px solid var(--border); border-radius:4px; font-size:11px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;" data-tooltip="Statistical normality comparison of current port call volume against the 5-year empirical seasonal baseline (2019–2025).">
                 <div id="ppNormalityText" style="color:var(--text-muted);">Loading 5-year seasonal operating baseline&hellip;</div>
-                <div id="ppNormalityBadge" class="status-badge-berth" style="display:none;">NORMAL</div>
+                <div id="ppNormalityBadge" class="status-badge-berth" style="display:none;" data-tooltip="Operating status classification: Normal Operating Band, Congestion Surge Risk, or Terminal Outage Slowdown.">Normal</div>
               </div>
 
               <!-- Queue Sub-Filter Buttons -->
               <div style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
-                <button class="cp-toggle-btn active" id="btnQueueFilterAll" onclick="setPortQueueFilter('all')" style="font-size:11px; padding:3px 8px;">All Vessels (<span id="btnQueueCountAll">0</span>)</button>
-                <button class="cp-toggle-btn" id="btnQueueFilterAnchored" onclick="setPortQueueFilter('anchored')" style="font-size:11px; padding:3px 8px;">At Anchor / Berth (<span id="btnQueueCountAnchored">0</span>)</button>
-                <button class="cp-toggle-btn" id="btnQueueFilterInbound" onclick="setPortQueueFilter('inbound')" style="font-size:11px; padding:3px 8px;">Inbound En Route (<span id="btnQueueCountInbound">0</span>)</button>
+                <button class="cp-toggle-btn active" id="btnQueueFilterAll" onclick="setPortQueueFilter('all')" style="font-size:11px; padding:3px 8px;" data-tooltip="Complete commercial vessel queue comprising vessels at anchor, berthed, and inbound en route.">All Vessels (<span id="btnQueueCountAll">0</span>)</button>
+                <button class="cp-toggle-btn" id="btnQueueFilterAnchored" onclick="setPortQueueFilter('anchored')" style="font-size:11px; padding:3px 8px;" data-tooltip="Vessels currently situated within the port fairway or waiting at designated outer anchorage grounds.">At Anchor / Berth (<span id="btnQueueCountAnchored">0</span>)</button>
+                <button class="cp-toggle-btn" id="btnQueueFilterInbound" onclick="setPortQueueFilter('inbound')" style="font-size:11px; padding:3px 8px;" data-tooltip="Inbound tonnage actively underway toward this terminal with reported AIS destination and ETA.">Inbound En Route (<span id="btnQueueCountInbound">0</span>)</button>
               </div>
 
               <!-- Live Queue Table -->
@@ -15281,13 +15281,13 @@ if (intelTabsContainer) {
                 <table class="tracking-table" style="width:100%; font-size:11px; text-align:left; border-collapse:collapse;" id="ppQueueTable">
                   <thead>
                     <tr style="position:sticky; top:0; background:var(--surface); z-index:2; border-bottom:1px solid var(--border);">
-                      <th style="padding:5px 8px; width:22%;">Vessel Name / IMO</th>
-                      <th style="padding:5px 8px; width:14%;">Class &amp; Segment</th>
-                      <th style="padding:5px 8px; width:18%;">Commercial Operator</th>
-                      <th style="padding:5px 8px; width:14%;">Status / Zone</th>
-                      <th style="padding:5px 8px; width:12%;">Speed / Dist</th>
-                      <th style="padding:5px 8px; width:8%;">Laden State</th>
-                      <th style="padding:5px 8px; width:12%;">Reported Destination / ETA</th>
+                      <th style="padding:5px 8px; width:22%;" data-tooltip="Vessel Name / IMO: Commercial ship name and official 7-digit International Maritime Organization registration identifier.">Vessel Name / IMO</th>
+                      <th style="padding:5px 8px; width:14%;" data-tooltip="Class &amp; Segment: Vessel deadweight carrying capacity tier (Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, LNG, LPG) and trade specialization.">Class &amp; Segment</th>
+                      <th style="padding:5px 8px; width:18%;" data-tooltip="Commercial Manager / Pool: Commercial operating entity, charterer or commercial pool controlling vessel employment and route dispatching.">Commercial Manager / Pool</th>
+                      <th style="padding:5px 8px; width:14%;" data-tooltip="Status / Zone: Live operational status categorized into Moored at Berth, Waiting at Anchorage, or Steaming Inbound En Route.">Status / Zone</th>
+                      <th style="padding:5px 8px; width:12%;" data-tooltip="Speed / Dist: Live AIS speed over ground in knots and great-circle nautical distance to destination pilot station.">Speed / Dist</th>
+                      <th style="padding:5px 8px; width:8%;" data-tooltip="Laden State: Cargo draft condition categorized as Laden (carrying commercial cargo) or Ballast (empty repositioning voyage).">Laden State</th>
+                      <th style="padding:5px 8px; width:12%;" data-tooltip="Reported Destination / ETA: Master-reported destination terminal and estimated arrival date/time window from live AIS broadcasts.">Reported Destination / ETA</th>
                     </tr>
                   </thead>
                   <tbody id="ppQueueTableBody">
@@ -15301,28 +15301,28 @@ if (intelTabsContainer) {
             <div id="ppArrivalsForecastCard" style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
                 <div style="display:flex; align-items:center; gap:8px;">
-                  <span style="font-size:var(--fs-micro); font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.05em;">COMMERCIAL ARRIVALS FORECAST</span>
+                  <span style="font-size:var(--fs-micro); font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:0.05em;">Commercial Arrivals Forecast</span>
                   <span style="font-size:var(--fs-micro); color:var(--text-muted);">Tonnage Pressure &amp; Forward Rate Drivers</span>
                 </div>
-                <div id="ppFreightDriverBadge" class="status-badge-berth" style="font-size:10px; padding:2px 7px;">BALANCED</div>
+                <div id="ppFreightDriverBadge" class="status-badge-berth" style="font-size:10px; padding:2px 7px;" data-tooltip="Commercial tonnage supply balance based on forward arrival queue vs historic terminal discharge capacity.">Balanced</div>
               </div>
               
               <!-- Horizons Grid: <=48h, 3-7d, >7d -->
               <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(170px, 1fr)); gap:8px;" id="ppArrivalsHorizonsGrid">
-                <div class="ph-kpi-chip" style="min-width:0;">
+                <div class="ph-kpi-chip" style="min-width:0;" data-tooltip="Near Coastal Arrivals: Vessels steaming within 48 hours of port pilot station, representing prompt terminal berth demand and immediate cargo handling requirements.">
                   <div class="k">Near Coastal (&le;48h)</div>
                   <div class="v" id="ppHorizonNear" style="color:#79c0ff;">&mdash;</div>
                   <div class="s" style="color:var(--text-muted);">Imminent berthing &amp; pilots</div>
                 </div>
-                <div class="ph-kpi-chip" style="min-width:0;">
+                <div class="ph-kpi-chip" style="min-width:0;" data-tooltip="Mid-Transit Horizon: Tonnage steaming 3 to 7 days out, forming the intermediate berthing lineup and regional supply buffer.">
                   <div class="k">Mid-Transit (3&ndash;7d)</div>
                   <div class="v" id="ppHorizonMid" style="color:#e3b341;">&mdash;</div>
                   <div class="s" style="color:var(--text-muted);">Working supply queue</div>
                 </div>
-                <div class="ph-kpi-chip" style="min-width:0;">
+                <div class="ph-kpi-chip" style="min-width:0;" data-tooltip="Long-Haul Arrivals: Deep-sea vessels over 7 days out, reflecting forward export commitments and macro bilateral cargo flows.">
                   <div class="k">Long-Haul Bound (&gt;7d)</div>
                   <div class="v" id="ppHorizonLong" style="color:#a371f7;">&mdash;</div>
-                  <div class="s" style="color:var(--text-muted);">Pipeline arrivals volume</div>
+                  <div class="s" style="color:var(--text-muted);">Forward arrivals volume</div>
                 </div>
               </div>
               
@@ -15330,7 +15330,7 @@ if (intelTabsContainer) {
               <div style="display:flex; flex-direction:column; gap:4px; padding:8px 10px; background:rgba(255,255,255,0.02); border:1px solid var(--border); border-radius:4px;">
                 <div style="display:flex; justify-content:space-between; align-items:center;">
                   <span style="font-size:var(--fs-micro); font-weight:600; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.04em;">Fleet Class Mix &amp; Implied Tonnage Supply</span>
-                  <span style="font-size:var(--fs-micro); font-family:var(--font-mono); color:#79c0ff;" id="ppTotalImpliedDwt">&mdash;</span>
+                  <span style="font-size:var(--fs-micro); font-family:var(--font-mono); color:#79c0ff;" id="ppTotalImpliedDwt" data-tooltip="Aggregate deadweight carrying capacity across all vessels in the inbound lineup, representing total forward tonnage supply.">&mdash;</span>
                 </div>
                 <div id="ppClassBreakdownChips" style="display:flex; flex-wrap:wrap; gap:6px; margin-top:2px;"></div>
               </div>
@@ -15352,7 +15352,7 @@ if (intelTabsContainer) {
                   <div id="ppActivityWindowNote" style="font-size:var(--fs-micro); color:var(--text-muted);">Measured vessel arrivals recorded by IMF PortWatch satellite AIS</div>
                 </div>
                 <div class="cp-btn-group">
-                  <button class="cp-toggle-btn active" id="ppWinYtd" onclick="setPortPageWindow('ytd')" style="font-size:10px; padding:2px 7px;">2026 YTD</button>
+                  <button class="cp-toggle-btn active" id="ppWinYtd" onclick="setPortPageWindow('ytd')" style="font-size:10px; padding:2px 7px;" data-tooltip="Daily commercial vessel calls and cargo throughput for the current calendar year to date.">2026 YTD</button>
                   <button class="cp-toggle-btn" id="ppWinFull" onclick="setPortPageWindow('full')" style="font-size:10px; padding:2px 7px;" data-tooltip="Full 2019–2026 daily series for the 43 classic PortWatch hubs.">Full Series (2019+)</button>
                 </div>
               </div>
@@ -15366,19 +15366,19 @@ if (intelTabsContainer) {
             <div style="margin-top:6px; border:1px solid var(--border); border-radius:6px; padding:10px; background:var(--bg); display:flex; flex-direction:column; gap:8px;">
               <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
                 <div id="ppFixturesTitle" style="font-size:12px; font-weight:700; color:#fff;">Recent Reported Fixtures &mdash; loading here</div>
-                <button class="cp-toggle-btn" id="ppFxMode" onclick="setPortPageFixtureMode()" style="font-size:11px; padding:3px 8px;">Load legs</button>
+                <button class="cp-toggle-btn" id="ppFxMode" onclick="setPortPageFixtureMode()" style="font-size:11px; padding:3px 8px;" data-tooltip="Fixture display mode: switches between loading leg fixtures and discharge leg fixtures.">Load Legs</button>
               </div>
               <div style="overflow-x:auto; max-height:220px; overflow-y:auto; border:1px solid var(--border); border-radius:4px;">
                 <table class="tracking-table" style="width:100%; font-size:11px; text-align:left; border-collapse:collapse;" id="ppFixturesTable">
                   <thead>
                     <tr style="position:sticky; top:0; background:var(--surface); z-index:2; border-bottom:1px solid var(--border);">
-                      <th style="padding:4px 6px;">Vessel</th>
-                      <th style="padding:4px 6px;">Class</th>
-                      <th style="padding:4px 6px;">Opposite Port</th>
-                      <th style="padding:4px 6px;">Cargo</th>
-                      <th style="padding:4px 6px;">Date</th>
-                      <th style="padding:4px 6px;">Distance</th>
-                      <th style="padding:4px 6px;">Match Quality</th>
+                      <th style="padding:4px 6px;" data-tooltip="Commercial vessel named in maritime reports and broker fixtures.">Vessel</th>
+                      <th style="padding:4px 6px;" data-tooltip="Commercial vessel size class and deadweight carrying capacity tier.">Class</th>
+                      <th style="padding:4px 6px;" data-tooltip="Connected load or discharge port of the reported fixture voyage leg.">Opposite Port</th>
+                      <th style="padding:4px 6px;" data-tooltip="Specific seaborne raw material, energy, or bulk parcel contracted.">Cargo</th>
+                      <th style="padding:4px 6px;" data-tooltip="Calendar date the charter party fixture was reported on commercial broker tapes.">Date</th>
+                      <th style="padding:4px 6px;" data-tooltip="Estimated voyage distance between reported origin and destination ports in nautical miles.">Distance</th>
+                      <th style="padding:4px 6px;" data-tooltip="Geospatial resolution confidence matching broker text to official UN/LOCODE directory.">Match Quality</th>
                     </tr>
                   </thead>
                   <tbody id="ppFixturesBody">
@@ -15407,7 +15407,7 @@ if (intelTabsContainer) {
                 </div>
                 <div style="font-family:'IBM Plex Mono', monospace; font-size:10px; color:var(--text-muted); display:flex; align-items:center; gap:6px;">
                   <span>IMF PortWatch / Daily AIS Telemetry</span>
-                  <span id="cpMacroRegimeBadge" style="padding:1px 6px; border-radius:3px; background:rgba(56,139,253,0.12); color:#58a6ff; font-weight:600;">ACTIVE REROUTING REGIME</span>
+                  <span id="cpMacroRegimeBadge" style="padding:1px 6px; border-radius:3px; background:rgba(56,139,253,0.12); color:#58a6ff; font-weight:600;" data-tooltip="Macro Chokepoint Regime: Active Rerouting Regime indicates sustained structural diversion around Africa due to high-risk geopolitical conflict.">Active Rerouting Regime</span>
                 </div>
               </div>
 
@@ -15425,7 +15425,7 @@ if (intelTabsContainer) {
             <!-- Chokepoints Monitored Passages Directory List -->
             <div style="display:flex; justify-content:space-between; align-items:center; margin-top:2px; padding:0 2px;">
               <span style="font-size:11px; font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:0.05em;">All 28 Monitored Passages &amp; Canals</span>
-              <span style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">Click passage to inspect transit series</span>
+              <span style="font-size:var(--fs-micro); color:var(--text-muted); font-family:'IBM Plex Mono', monospace;">Select passage to inspect historical transit series</span>
             </div>
             <div id="chokepointDirList" class="chokepoint-dir-list" style="padding:0;">
               <!-- Populated by JS -->
@@ -15436,14 +15436,14 @@ if (intelTabsContainer) {
           <div id="subviewDisruptions" class="tracking-subview-content" style="display:none; flex-direction:column;">
             <div style="display:flex; gap:8px; align-items:center; padding:8px 10px; border-bottom:1px solid var(--border); flex-wrap:wrap;">
               <input type="text" id="disruptionSearchInput" class="tracking-input" style="flex:1; min-width:150px;" placeholder="Search events: name, country, type..." data-tooltip="Filters PortWatch disruption events by event name, country or event type." oninput="onDisruptionSearchInput()">
-              <select id="disruptionLevelFilter" class="tracking-select" onchange="onDisruptionSearchInput()" data-tooltip="Show only events at the chosen PortWatch alert level.">
-                <option value="all">All alert levels</option>
-                <option value="RED">Red</option>
-                <option value="ORANGE">Amber</option>
+              <select id="disruptionLevelFilter" class="tracking-select" onchange="onDisruptionSearchInput()" data-tooltip="Disruption feed filter by official IMF PortWatch alert severity level (Red or Amber).">
+                <option value="all">All Alert Levels</option>
+                <option value="RED">Red (Severe)</option>
+                <option value="ORANGE">Amber (Moderate)</option>
               </select>
-              <select id="disruptionOngoingFilter" class="tracking-select" onchange="onDisruptionSearchInput()" data-tooltip="Filter to events PortWatch currently flags as ongoing.">
-                <option value="all">All states</option>
-                <option value="ongoing">Ongoing only</option>
+              <select id="disruptionOngoingFilter" class="tracking-select" onchange="onDisruptionSearchInput()" data-tooltip="Filter events by current operational state, isolating ongoing disruptions from resolved incidents.">
+                <option value="all">All States</option>
+                <option value="ongoing">Ongoing Only</option>
               </select>
             </div>
             <div class="tracking-table-wrap" style="flex:1;">
@@ -15452,8 +15452,8 @@ if (intelTabsContainer) {
             <div class="tracking-table-footer">
               <span id="disruptionPageInfo"></span>
               <div style="display:flex; gap:6px;">
-                <button id="btnDisruptionPrev" class="tracking-page-btn" data-tooltip="Show previous disruption events." onclick="prevDisruptionPage()">Prev</button>
-                <button id="btnDisruptionNext" class="tracking-page-btn" data-tooltip="Show next disruption events." onclick="nextDisruptionPage()">Next</button>
+                <button id="btnDisruptionPrev" class="tracking-page-btn" data-tooltip="Previous page of global maritime disruption and port incident alerts." onclick="prevDisruptionPage()">Prev</button>
+                <button id="btnDisruptionNext" class="tracking-page-btn" data-tooltip="Next page of global maritime disruption and port incident alerts." onclick="nextDisruptionPage()">Next</button>
               </div>
             </div>
           </div>
@@ -15461,8 +15461,8 @@ if (intelTabsContainer) {
           <!-- Subview 2c: Per-Vessel Fixture Voyages (Source: data/geospatial/voyage_history_fixturegrounded.csv) -->
           <div id="subviewVessel" class="tracking-subview-content" style="display:none; flex-direction:column;">
             <div style="display:flex; gap:8px; align-items:center; padding:8px 10px; border-bottom:1px solid var(--border); flex-wrap:wrap;">
-              <input type="text" id="vesselSearchInput" class="tracking-input" style="flex:1; min-width:150px;" placeholder="Search vessel name (broker fixtures)..." data-tooltip="Searches vessels named in broker-reported fixtures. These are reported fixture voyages, not AIS positions." oninput="onVesselSearchInput()">
-              <span class="tracking-live-tag" style="font-size:var(--fs-micro); padding:2px 6px;">REPORTED FIXTURES</span>
+              <input type="text" id="vesselSearchInput" class="tracking-input" style="flex:1; min-width:150px;" placeholder="Search vessel name (broker fixtures)..." data-tooltip="Historical broker-reported fixtures and commercial voyage itineraries, distinct from raw AIS positions." oninput="onVesselSearchInput()">
+              <span class="tracking-live-tag" style="font-size:var(--fs-micro); padding:2px 6px;">Reported Fixtures</span>
             </div>
             <div id="vesselResultsList" style="max-height:200px; overflow-y:auto; border-bottom:1px solid var(--border); padding:6px 10px;"></div>
             <div style="flex:1; overflow-y:auto; padding:8px 10px;">
@@ -15484,7 +15484,7 @@ if (intelTabsContainer) {
                   </div>
                 </div>
                 <div style="display:flex; gap:6px; align-items:center;">
-                  <button class="dist-calc-btn" style="margin:0; padding:4px 10px; font-size:11px;" onclick="plotMultiLegRouteOnMap()">Plot Route on Map</button>
+                  <button class="dist-calc-btn" style="margin:0; padding:4px 10px; font-size:11px;" onclick="plotMultiLegRouteOnMap()" data-tooltip="Projects calculated multi-leg voyage path, waypoints, and canal transits onto the interactive map.">Plot Route on Map</button>
                 </div>
               </div>
 
@@ -15492,11 +15492,11 @@ if (intelTabsContainer) {
               <div style="display:flex; flex-direction:column; gap:4px; padding:6px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border);">
                 <div style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Benchmark Corridors:</div>
                 <div style="display:flex; flex-wrap:wrap; gap:4px;">
-                  <button class="cp-toggle-btn active" id="presetTd3c" onclick="loadPresetRoute('td3c')" data-tooltip="Baltic TD3C: Middle East Gulf to China (Dirty Tankers, worldscale)" style="font-size:11px; padding:3px 8px;">Fujairah &rarr; Rotterdam (TD3C)</button>
-                  <button class="cp-toggle-btn" id="presetC5" onclick="loadPresetRoute('c5')" data-tooltip="Baltic C5: West Australia to Qingdao (Capesize, usd/tonne)" style="font-size:11px; padding:3px 8px;">Port Hedland &rarr; Qingdao (C5)</button>
-                  <button class="cp-toggle-btn" id="presetC3" onclick="loadPresetRoute('c3')" data-tooltip="Baltic C3: Tubarao to Qingdao (Capesize, usd/tonne)" style="font-size:11px; padding:3px 8px;">Tubarao &rarr; Qingdao (C3)</button>
-                  <button class="cp-toggle-btn" id="presetTransatlantic" onclick="loadPresetRoute('transatlantic')" style="font-size:11px; padding:3px 8px;">Houston &rarr; Rotterdam</button>
-                  <button class="cp-toggle-btn" id="presetTranspacific" onclick="loadPresetRoute('transpacific')" style="font-size:11px; padding:3px 8px;">US Gulf &rarr; Chiba (Panama/Suez)</button>
+                  <button class="cp-toggle-btn active" id="presetTd3c" onclick="loadPresetRoute('td3c')" data-tooltip="Baltic TD3C Benchmark: Middle East Gulf (Fujairah/Ras Tanura) to China (Ningbo/Qingdao), 270,000 MT dirty crude tanker route." style="font-size:11px; padding:3px 8px;">Fujairah &rarr; Rotterdam (TD3C)</button>
+                  <button class="cp-toggle-btn" id="presetC5" onclick="loadPresetRoute('c5')" data-tooltip="Baltic C5 Benchmark: West Australia (Port Hedland/Dampier) to Qingdao, 170,000 MT Capesize iron ore passage." style="font-size:11px; padding:3px 8px;">Port Hedland &rarr; Qingdao (C5)</button>
+                  <button class="cp-toggle-btn" id="presetC3" onclick="loadPresetRoute('c3')" data-tooltip="Baltic C3 Benchmark: Tubarao (Brazil) to Qingdao (China), 170,000 MT Capesize long-haul iron ore corridor." style="font-size:11px; padding:3px 8px;">Tubarao &rarr; Qingdao (C3)</button>
+                  <button class="cp-toggle-btn" id="presetTransatlantic" onclick="loadPresetRoute('transatlantic')" style="font-size:11px; padding:3px 8px;" data-tooltip="Transatlantic Energy Corridor: Houston to Rotterdam (~4,950 NM, ~15.9 days at 13 kn).">Houston &rarr; Rotterdam</button>
+                  <button class="cp-toggle-btn" id="presetTranspacific" onclick="loadPresetRoute('transpacific')" style="font-size:11px; padding:3px 8px;" data-tooltip="Transpacific Energy/Grain Corridor: US Gulf to Chiba via Panama Canal (~9,100 NM) or Suez (~14,500 NM).">US Gulf &rarr; Chiba (Panama/Suez)</button>
                 </div>
               </div>
 
@@ -15512,10 +15512,10 @@ if (intelTabsContainer) {
                 
                 <!-- Add Port Controls (12,060 ports) -->
                 <div style="display:flex; gap:6px; align-items:center; margin-top:4px;">
-                  <select id="routeAddPortSelect" class="tracking-select" style="flex:1; min-width:200px;">
+                  <select id="routeAddPortSelect" class="tracking-select" style="flex:1; min-width:200px;" data-tooltip="Global maritime directory selector covering 12,060 ports to add as sequential voyage waypoint legs.">
                     <option value="">-- Add Port from Directory (12,060 available) --</option>
                   </select>
-                  <button class="cp-toggle-btn" onclick="addSelectedPortToRoute()" style="white-space:nowrap; padding:4px 10px; font-size:11px;">+ Add Leg</button>
+                  <button class="cp-toggle-btn" onclick="addSelectedPortToRoute()" style="white-space:nowrap; padding:4px 10px; font-size:11px;" data-tooltip="Appends the selected port as the consecutive waypoint leg in the voyage itinerary calculation.">+ Add Leg</button>
                 </div>
               </div>
 
@@ -15524,15 +15524,15 @@ if (intelTabsContainer) {
                 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(130px, 1fr)); gap:8px;">
                   <div class="dist-input-row">
                     <label for="distSpeedStepper" style="font-size:var(--fs-micro); text-transform:uppercase;">Speed (knots)</label>
-                    <input type="number" id="distSpeedStepper" class="dist-input" value="13.0" step="0.5" min="8" max="22" oninput="runMultiLegRouting()">
+                    <input type="number" id="distSpeedStepper" class="dist-input" value="13.0" step="0.5" min="8" max="22" oninput="runMultiLegRouting()" data-tooltip="Vessel economical cruising speed in knots used to compute sea passage days (typical bulkers 11–13 kn, tankers 12–14 kn).">
                   </div>
                   <div class="dist-input-row">
                     <label for="distSeaMarginStepper" style="font-size:var(--fs-micro); text-transform:uppercase;">Sea Margin (%)</label>
-                    <input type="number" id="distSeaMarginStepper" class="dist-input" value="5" step="1" min="0" max="25" oninput="runMultiLegRouting()">
+                    <input type="number" id="distSeaMarginStepper" class="dist-input" value="5" step="1" min="0" max="25" oninput="runMultiLegRouting()" data-tooltip="Weather allowance percentage added to voyage duration to account for adverse sea states, currents, and weather delays (standard 5%).">
                   </div>
                   <div class="dist-input-row">
                     <label for="distBurnRateStepper" style="font-size:var(--fs-micro); text-transform:uppercase;">Burn Rate (MT/d)</label>
-                    <input type="number" id="distBurnRateStepper" class="dist-input" value="32.0" step="1" min="10" max="120" oninput="runMultiLegRouting()">
+                    <input type="number" id="distBurnRateStepper" class="dist-input" value="32.0" step="1" min="10" max="120" oninput="runMultiLegRouting()" data-tooltip="Main engine fuel consumption in metric tonnes per day at service speed (Capesize ~32–45 MT/d, VLCC ~50–65 MT/d, Panamax ~22–28 MT/d).">
                   </div>
                 </div>
 
@@ -15540,32 +15540,32 @@ if (intelTabsContainer) {
                 <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px; padding-top:6px; border-top:1px solid var(--border);">
                   <span style="font-size:var(--fs-micro); color:var(--text-muted); font-weight:600; text-transform:uppercase; letter-spacing:0.04em;">Canal Routing Option:</span>
                   <div class="cp-btn-group" id="routingCanalBtnGroup">
-                    <button class="cp-toggle-btn active" id="canalBtnAuto" onclick="setRoutingCanalChoice('auto')">Auto-Optimized</button>
-                    <button class="cp-toggle-btn" id="canalBtnSuez" onclick="setRoutingCanalChoice('suez')">Via Suez</button>
-                    <button class="cp-toggle-btn" id="canalBtnCape" onclick="setRoutingCanalChoice('cape')">Via Cape of Good Hope</button>
-                    <button class="cp-toggle-btn" id="canalBtnPanama" onclick="setRoutingCanalChoice('panama')">Via Panama</button>
+                    <button class="cp-toggle-btn active" id="canalBtnAuto" onclick="setRoutingCanalChoice('auto')" data-tooltip="Algorithmic least-cost navigable maritime routing between waypoints without canal diversion constraints.">Auto-Optimized</button>
+                    <button class="cp-toggle-btn" id="canalBtnSuez" onclick="setRoutingCanalChoice('suez')" data-tooltip="Designated transit route via the Suez Canal and Bab el-Mandeb / Red Sea maritime passage.">Via Suez</button>
+                    <button class="cp-toggle-btn" id="canalBtnCape" onclick="setRoutingCanalChoice('cape')" data-tooltip="Alternative long-haul routing around South Africa (Cape of Good Hope), circumventing Red Sea risk zones and canal tolls.">Via Cape of Good Hope</button>
+                    <button class="cp-toggle-btn" id="canalBtnPanama" onclick="setRoutingCanalChoice('panama')" data-tooltip="Designated transit route through the Panama Canal Neopanamax / Panamax lock systems.">Via Panama</button>
                   </div>
                 </div>
               </div>
 
               <!-- Route Summary KPIs Strip -->
               <div class="ph-kpi-strip" id="routeSummaryKpis" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(100px, 1fr)); gap:6px;">
-                <div class="ph-kpi-chip">
+                <div class="ph-kpi-chip" data-tooltip="Total voyage sea passage distance in nautical miles along verified navigable maritime routing corridors.">
                   <div class="k">Total Distance</div>
                   <div class="v" id="rtTotalDist">—</div>
                   <div class="s" style="color:var(--text-muted);">Nautical Miles</div>
                 </div>
-                <div class="ph-kpi-chip">
+                <div class="ph-kpi-chip" data-tooltip="Estimated total voyage steaming time in days at designated service speed including weather sea margin.">
                   <div class="k">Voyage Duration</div>
                   <div class="v" id="rtTotalDays" style="color:var(--accent);">—</div>
                   <div class="s" style="color:var(--text-muted);">Days (incl. margin)</div>
                 </div>
-                <div class="ph-kpi-chip">
+                <div class="ph-kpi-chip" data-tooltip="Total main engine and auxiliary marine fuel consumption in metric tonnes across the voyage.">
                   <div class="k">Bunker Consumption</div>
                   <div class="v" id="rtTotalFuel">—</div>
                   <div class="s" style="color:var(--text-muted);">MT VLSFO</div>
                 </div>
-                <div class="ph-kpi-chip">
+                <div class="ph-kpi-chip" data-tooltip="Total passage distance and duration within designated IMO Emission Control Areas requiring 0.10% sulfur fuel.">
                   <div class="k">ECA Navigation</div>
                   <div class="v" id="rtTotalEca" style="color:#a371f7;">—</div>
                   <div class="s" style="color:var(--text-muted);">Low Sulfur Zone</div>
@@ -15584,12 +15584,12 @@ if (intelTabsContainer) {
                   <table class="tracking-table">
                     <thead>
                       <tr>
-                        <th>Leg</th>
-                        <th>Corridor</th>
-                        <th>Distance</th>
-                        <th>Duration</th>
-                        <th>Canal / Passage</th>
-                        <th>ECA Transit</th>
+                        <th data-tooltip="Voyage Leg: Sequential index of the multi-port itinerary segment.">Leg</th>
+                        <th data-tooltip="Navigation Corridor: Origin and destination port pair for this itinerary leg.">Corridor</th>
+                        <th data-tooltip="Leg Distance: Navigable sea passage distance measured in nautical miles.">Distance</th>
+                        <th data-tooltip="Estimated Steaming Duration: Transit time in days at designated service speed with sea margin.">Duration</th>
+                        <th data-tooltip="Transit Bottleneck: Key maritime chokepoints or canals traversed during this leg.">Canal / Passage</th>
+                        <th data-tooltip="ECA Passage: Nautical miles navigated within designated MARPOL Emission Control Areas.">ECA Transit</th>
                       </tr>
                     </thead>
                     <tbody id="routeLegsTableBody">
@@ -15604,22 +15604,22 @@ if (intelTabsContainer) {
           <!-- Subview 5: Port Stress Matrix & 5Y Arrival Envelopes -->
           <div id="trackingSubviewStress" class="tracking-subview-content" style="display:none; flex-direction:column; gap:12px; height:100%; overflow-y:auto; padding:12px;">
             <div class="port-stress-hud">
-              <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Monitored Strategic Hubs" data-tt-val="41 Global Ports" data-tt-desc="Continuous daily arrival volume tracking across 41 primary loading and discharge hubs.">
+              <div class="port-stress-card" data-tooltip="Continuous daily arrival volume tracking and empirical capacity surveillance across 41 primary loading and discharge hubs." data-tt-type="port-stress-summary-hud" data-tt-title="Monitored Strategic Hubs" data-tt-val="41 Global Ports" data-tt-desc="Continuous daily arrival volume tracking across 41 primary loading and discharge hubs.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Monitored Hubs</div>
                 <div class="port-stress-card-val" id="hudStressTotal">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--text-muted); margin-top:2px;">Dry Bulk, Tankers, LNG, LPG</div>
               </div>
-              <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Tonnage Squeeze Alerts" data-tt-val="Active Surges" data-tt-desc="Ports where weekly vessel arrivals exceed +1.5 standard deviations above 5-year seasonal norm, triggering berthing queues and congestion demurrage.">
+              <div class="port-stress-card" data-tooltip="Ports where weekly vessel arrivals exceed +1.5 standard deviations above 5-year seasonal norm, triggering berthing queues and congestion demurrage." data-tt-type="port-stress-summary-hud" data-tt-title="Tonnage Squeeze Alerts" data-tt-val="Active Surges" data-tt-desc="Ports where weekly vessel arrivals exceed +1.5 standard deviations above 5-year seasonal norm, triggering berthing queues and congestion demurrage.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Surge Squeeze Alerts</div>
                 <div class="port-stress-card-val" id="hudStressSurge" style="color:var(--red);">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--red); margin-top:2px;">Z-Score &ge; +1.5&sigma; (Congestion)</div>
               </div>
-              <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Supply Outage Alerts" data-tt-val="Active Collapses" data-tt-desc="Ports where arrivals fall below -1.5 standard deviations, indicating cargo supply outage, weather shutdown, or rail derailment.">
+              <div class="port-stress-card" data-tooltip="Ports where arrivals fall below -1.5 standard deviations, indicating cargo supply outage, weather shutdown, or rail derailment." data-tt-type="port-stress-summary-hud" data-tt-title="Supply Outage Alerts" data-tt-val="Active Collapses" data-tt-desc="Ports where arrivals fall below -1.5 standard deviations, indicating cargo supply outage, weather shutdown, or rail derailment.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Supply Outage Alerts</div>
                 <div class="port-stress-card-val" id="hudStressCollapse" style="color:var(--yellow);">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--yellow); margin-top:2px;">Z-Score &le; -1.5&sigma; (Outages)</div>
               </div>
-              <div class="port-stress-card" data-tooltip=" " data-tt-type="port-stress-summary-hud" data-tt-title="Normal Operating Envelope" data-tt-val="Within Baseline" data-tt-desc="Vessel influx within normal 5-year historical operating bands.">
+              <div class="port-stress-card" data-tooltip="Strategic commercial hubs operating within normal 5-year historical arrival envelopes and operational baselines." data-tt-type="port-stress-summary-hud" data-tt-title="Normal Operating Envelope" data-tt-val="Within Baseline" data-tt-desc="Vessel influx within normal 5-year historical operating bands.">
                 <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Normal Operating Band</div>
                 <div class="port-stress-card-val" id="hudStressNormal" style="color:var(--green);">—</div>
                 <div style="font-size:var(--fs-micro); color:var(--green); margin-top:2px;">Within &plusmn;1.5&sigma; Baseline</div>
@@ -15629,7 +15629,7 @@ if (intelTabsContainer) {
             <!-- Toolbar -->
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; background:#0e141c; padding:8px 12px; border:1px solid var(--border); border-radius:4px;">
               <div style="display:flex; gap:6px; align-items:center; flex-wrap:wrap;">
-                <div style="font-size:11px; color:var(--text-muted); font-weight:600;">SECTOR:</div>
+                <div style="font-size:11px; color:var(--text-muted); font-weight:600;">Sector:</div>
                 <button class="cp-toggle-btn active" id="btnStressSectorAll" onclick="setPortStressSector('all')" data-tooltip="Display all 41 monitored global commodity loading and discharge hubs.">All</button>
                 <button class="cp-toggle-btn" id="btnStressSectorDry" onclick="setPortStressSector('Dry Bulk')" data-tooltip="Filter for major Capesize and Panamax dry bulk terminals (iron ore, coal, grain, bauxite).">Dry Bulk</button>
                 <button class="cp-toggle-btn" id="btnStressSectorTank" onclick="setPortStressSector('Tankers')" data-tooltip="Filter for primary crude and product tanker hubs (VLCC, Suezmax, Aframax terminals).">Tankers</button>
@@ -15689,11 +15689,11 @@ if (intelTabsContainer) {
               <div style="display:flex; align-items:center; gap:8px;">
                 <span class="live-dot-pulse"></span>
                 <span style="font-size:var(--fs-micro); font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:0.05em;">FLEET AIS</span>
-                <span class="fleet-hud-badge" id="hudTrackedCount">— Tracked</span>
+                <span class="fleet-hud-badge" id="hudTrackedCount" data-tooltip="Live Commercial Fleet: Total commercial hulls currently tracked transmitting active AIS positions across global trade lanes.">— Tracked</span>
               </div>
               <div style="display:flex; align-items:center; gap:8px;">
                 <label style="display:flex; align-items:center; gap:5px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;">
-                  <input type="checkbox" id="toggleLiveFleetLayer" checked onchange="toggleLiveFleetMarkers(this.checked)" />
+                  <input type="checkbox" id="toggleLiveFleetLayer" checked onchange="toggleLiveFleetMarkers(this.checked)" data-tooltip="Live Signal Ocean commercial fleet AIS overlay dots across global ocean routes." />
                   <span>Display Fleet Layer</span>
                 </label>
               </div>
@@ -15701,27 +15701,27 @@ if (intelTabsContainer) {
 
             <!-- HUD Metrics Strip -->
             <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(80px, 1fr)); gap:6px; margin:4px 0;">
-              <div class="hud-metric-box">
+              <div class="hud-metric-box" data-tooltip="Average Speed: Mean sailing speed in knots computed across currently active commercial fleet AIS transmissions.">
                 <span class="hud-lbl">Avg Speed</span>
                 <span class="hud-num" id="hudAvgSpeed">—</span>
               </div>
-              <div class="hud-metric-box">
+              <div class="hud-metric-box" data-tooltip="Laden Ratio: Percentage of tracked commercial fleet currently sailing laden versus in ballast condition.">
                 <span class="hud-lbl">% Laden</span>
                 <span class="hud-num" id="hudPctLaden">—</span>
               </div>
-              <div class="hud-metric-box">
+              <div class="hud-metric-box" data-tooltip="Capesize / VLOC Count: Active dry bulk hulls exceeding 100,000 DWT currently underway across major iron ore and coal corridors.">
                 <span class="hud-lbl">Capesize/VLOC</span>
                 <span class="hud-num" id="hudCapeCount">—</span>
               </div>
-              <div class="hud-metric-box">
+              <div class="hud-metric-box" data-tooltip="Tanker Count: Active crude and product tanker hulls (VLCC, Suezmax, Aframax) currently underway.">
                 <span class="hud-lbl">VLCC/Suezmax</span>
                 <span class="hud-num" id="hudTankerCount">—</span>
               </div>
-              <div class="hud-metric-box">
+              <div class="hud-metric-box" data-tooltip="LNG Carrier Count: Active liquefied natural gas carriers currently tracked on global cryogenic transport routes.">
                 <span class="hud-lbl">LNG</span>
                 <span class="hud-num" id="hudLngCount">—</span>
               </div>
-              <div class="hud-metric-box">
+              <div class="hud-metric-box" data-tooltip="LPG Carrier Count: Active liquefied petroleum gas carriers (VLGC, LGC) currently tracked on global gas corridors.">
                 <span class="hud-lbl">LPG</span>
                 <span class="hud-num" id="hudLpgCount">—</span>
               </div>
@@ -15730,24 +15730,24 @@ if (intelTabsContainer) {
             <!-- HUD Segment & Status Filters -->
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:6px;">
               <div class="cp-btn-group" id="hudSegBtnGroup">
-                <button class="cp-toggle-btn active" id="hudSegAll" onclick="setLiveFleetSegment('all')">All</button>
-                <button class="cp-toggle-btn" id="hudSegDry" onclick="setLiveFleetSegment('dry_bulk')">Dry Bulk</button>
-                <button class="cp-toggle-btn" id="hudSegTankers" onclick="setLiveFleetSegment('tankers')">Tankers</button>
-                <button class="cp-toggle-btn" id="hudSegLng" onclick="setLiveFleetSegment('lng')">LNG</button>
-                <button class="cp-toggle-btn" id="hudSegLpg" onclick="setLiveFleetSegment('lpg')">LPG</button>
+                <button class="cp-toggle-btn active" id="hudSegAll" onclick="setLiveFleetSegment('all')" data-tooltip="All Commercial Segments: Displays all tracked dry bulk, tanker, LNG, and LPG vessels on the map.">All</button>
+                <button class="cp-toggle-btn" id="hudSegDry" onclick="setLiveFleetSegment('dry_bulk')" data-tooltip="Dry Bulk Segment: Filters map positions to Capesize, Panamax, and Supramax dry bulk carriers.">Dry Bulk</button>
+                <button class="cp-toggle-btn" id="hudSegTankers" onclick="setLiveFleetSegment('tankers')" data-tooltip="Tanker Segment: Filters map positions to crude oil, product, and chemical tankers.">Tankers</button>
+                <button class="cp-toggle-btn" id="hudSegLng" onclick="setLiveFleetSegment('lng')" data-tooltip="LNG Segment: Filters map positions to active liquefied natural gas carrier vessels.">LNG</button>
+                <button class="cp-toggle-btn" id="hudSegLpg" onclick="setLiveFleetSegment('lpg')" data-tooltip="LPG Segment: Filters map positions to active liquefied petroleum gas carrier vessels.">LPG</button>
               </div>
               <div class="cp-btn-group" id="hudStatusBtnGroup">
-                <button class="cp-toggle-btn active" id="hudStatAll" onclick="setLiveFleetStatusFilter('all')">All Status</button>
-                <button class="cp-toggle-btn" id="hudStatLaden" onclick="setLiveFleetStatusFilter('laden')">Laden</button>
-                <button class="cp-toggle-btn" id="hudStatBallast" onclick="setLiveFleetStatusFilter('ballast')">Ballast</button>
+                <button class="cp-toggle-btn active" id="hudStatAll" onclick="setLiveFleetStatusFilter('all')" data-tooltip="All Navigation States: Displays all tracked vessels regardless of laden or ballast status.">All Status</button>
+                <button class="cp-toggle-btn" id="hudStatLaden" onclick="setLiveFleetStatusFilter('laden')" data-tooltip="Laden Vessels: Filters map display exclusively to cargo-carrying laden vessels.">Laden</button>
+                <button class="cp-toggle-btn" id="hudStatBallast" onclick="setLiveFleetStatusFilter('ballast')" data-tooltip="Ballast Vessels: Filters map display exclusively to empty vessels repositioning in ballast.">Ballast</button>
               </div>
             </div>
           </div>
 
           <!-- Map Sector Highlight Control Strip -->
-          <div class="map-sector-overlay" id="mapSectorToggle" data-tooltip=" " data-tt-type="tracking-sector-map" data-tt-sector="all" data-tt-context="note">
+          <div class="map-sector-overlay" id="mapSectorToggle" data-tooltip="Sector Highlights: Filter port calls and commercial fleet markers by cargo segment." data-tt-type="tracking-sector-map" data-tt-sector="all" data-tt-context="note">
             <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
-              <div class="map-sector-overlay-title">SECTOR HIGHLIGHT (PORTWATCH CALLS &amp; COMMERCIAL FLEET)</div>
+              <div class="map-sector-overlay-title">Sector Highlight (PortWatch Calls &amp; Commercial Fleet)</div>
               <div class="tracking-sector-toggle">
                 <button class="cp-toggle-btn active" id="secMapAll" onclick="setTrackingMapSector('all')" data-tooltip="Filter map pins and commercial fleet to all global maritime hubs." data-tt-type="tracking-sector-map" data-tt-sector="all">All Commercial Hubs <span class="sec-count" id="secMapCountAll">—</span></button>
                 <button class="cp-toggle-btn" id="secMapTankers" onclick="setTrackingMapSector('Tankers')" data-tooltip="Filter map pins and commercial fleet to crude oil, dirty product, and clean product tanker terminals and live vessels." data-tt-type="tracking-sector-map" data-tt-sector="Tankers">Tankers <span class="sec-count" id="secMapCountTankers">&mdash;</span></button>
@@ -15772,10 +15772,10 @@ if (intelTabsContainer) {
             </div>
 
             <div class="map-legend-overlay">
-              <div class="map-legend-item" id="mapLegendFleetItem"><span class="map-legend-dot" id="mapLegendFleetDot" style="background:#58a6ff;"></span> <span id="mapLegendFleetText">Live Fleet AIS (circle = vessel dot)</span></div>
-              <div class="map-legend-item"><span class="map-legend-dot berth"></span> Port / Terminal (diamond size = calls YTD)</div>
-              <div class="map-legend-item"><span class="map-legend-dot anchor"></span> Disruption event (red beacon = ongoing, amber ring = ended)</div>
-              <div class="map-legend-item"><span class="map-legend-dot strait"></span> Strategic Maritime Chokepoint</div>
+              <div class="map-legend-item" id="mapLegendFleetItem" data-tooltip="Live Commercial Fleet AIS: Real-time vessel positions color-coded by cargo segment and navigation status."><span class="map-legend-dot" id="mapLegendFleetDot" style="background:#58a6ff;"></span> <span id="mapLegendFleetText">Live Fleet AIS (Circle = Vessel Position)</span></div>
+              <div class="map-legend-item" data-tooltip="Commercial Port / Terminal: Diamond markers sized by annual PortWatch vessel call throughput."><span class="map-legend-dot berth"></span> Port / Terminal (Diamond Size = Calls YTD)</div>
+              <div class="map-legend-item" data-tooltip="Port Disruption Event: Active red or resolved amber beacons indicating operational bottlenecks."><span class="map-legend-dot anchor"></span> Disruption Event (Red Beacon = Ongoing, Amber Ring = Ended)</div>
+              <div class="map-legend-item" data-tooltip="Strategic Maritime Chokepoint: Critical canal and strait bottlenecks monitored for transit volume anomalies."><span class="map-legend-dot strait"></span> Strategic Maritime Chokepoint</div>
             </div>
 
             <div id="mapCoordsOverlay" class="map-coords-overlay">Lat: 20.00&deg;, Lon: 45.00&deg;</div>
@@ -15796,13 +15796,13 @@ if (intelTabsContainer) {
               <div class="cp-region" id="cpDrawerRegion">Red Sea / Gulf of Aden · Global Container &amp; Crude Artery</div>
             </div>
             <div class="cp-selector-wrap" style="width:100%; display:flex; flex-direction:column; gap:6px;">
-              <div style="font-size:var(--fs-micro); font-weight:600; color:var(--text-muted); letter-spacing:0.06em;">CHOKEPOINT SELECTOR &mdash; ALL 28 MONITORED PASSAGES</div>
+              <div style="font-size:var(--fs-micro); font-weight:600; color:var(--text-muted); letter-spacing:0.06em;">Chokepoint Selector &mdash; All 28 Monitored Passages</div>
               <div class="cp-selector-chips" id="cpSelectorChips" role="listbox" aria-label="Select chokepoint"><!-- chips injected by renderChokepointSelector --></div>
             </div>
             <div id="cpDataNote" class="cp-data-note" style="display:none;"></div>
             <div class="cp-controls-bar" style="margin-top:10px;">
               <div class="cp-btn-group">
-                <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')" data-tooltip="Full historical transit observation series from AIS and IMF PortWatch (2019–2026).">Max (2019-2026)</button>
+                <button class="cp-toggle-btn active" data-range="all" onclick="setChokepointRange('all')" data-tooltip="Full historical transit observation series from AIS and IMF PortWatch (2019–2026).">Max (2019–2026)</button>
                 <button class="cp-toggle-btn" id="cpRangeYoy" data-range="yoy" onclick="setChokepointRange('yoy')" data-tooltip="Year-over-Year overlay: Jan–Dec seasonal comparison across 2019–2026.">YoY Overlay</button>
                 <button class="cp-toggle-btn" data-range="5y" onclick="setChokepointRange('5y')" data-tooltip="5-year historical transit trend (2021–2026).">5Y</button>
                 <button class="cp-toggle-btn" data-range="3y" onclick="setChokepointRange('3y')" data-tooltip="3-year transit trend capturing Red Sea &amp; Panama Canal disruption cycles (2023–2026).">3Y</button>
@@ -15814,27 +15814,27 @@ if (intelTabsContainer) {
 
           <div class="cp-spec-strip" id="cpDrawerNote">
             <div class="cp-spec-narrative">
-              <strong>Red Sea Rerouting Crisis:</strong> Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding an editorial estimate of +10 to +14 days per laden voyage.
+              <strong>Red Sea Rerouting Crisis:</strong> Houthi strikes force Asia-Europe vessels to bypass Suez/Bab el-Mandeb, steaming around the Cape of Good Hope, adding an estimated +10 to +14 days per laden voyage.
             </div>
           </div>
 
           <div class="cp-kpis-strip">
-            <div class="cp-kpi-tile">
+            <div class="cp-kpi-tile" data-tooltip="7D Transit Rate: Trailing 7-day average daily vessel transits observed through this waterway compared against pre-crisis baseline.">
               <div class="cp-kpi-tile-label">7D Transit Rate</div>
               <div class="cp-kpi-tile-val" id="cpKpiDaily">—</div>
               <div class="cp-kpi-tile-sub" id="cpKpiBaseline">Baseline: —</div>
             </div>
-            <div class="cp-kpi-tile">
+            <div class="cp-kpi-tile" data-tooltip="Baseline Disruption: Percentage deviation in daily commercial vessel transits relative to historical baseline throughput.">
               <div class="cp-kpi-tile-label">Baseline Disruption</div>
               <div class="cp-kpi-tile-val alert" id="cpKpiDiverted">—</div>
               <div class="cp-kpi-tile-sub">Structural Diversion</div>
             </div>
-            <div class="cp-kpi-tile">
+            <div class="cp-kpi-tile" data-tooltip="Cape Voyage Delay: Estimated additional sailing days incurred per voyage when diverting around the Cape of Good Hope.">
               <div class="cp-kpi-tile-label">Cape Voyage Delay</div>
               <div class="cp-kpi-tile-val warn" id="cpKpiDaysAdded">—</div>
               <div class="cp-kpi-tile-sub">via Cape of Good Hope</div>
             </div>
-            <div class="cp-kpi-tile">
+            <div class="cp-kpi-tile" data-tooltip="Tonne-Mile Expansion: Estimated fleet capacity absorbed globally by extended sailing distances and round-Africa routing.">
               <div class="cp-kpi-tile-label">Tonne-Mile Expansion</div>
               <div class="cp-kpi-tile-val" id="cpKpiTonneMile" style="color:#a371f7;">—</div>
               <div class="cp-kpi-tile-sub">Absorbs Excess Fleet Supply</div>
@@ -15852,7 +15852,7 @@ if (intelTabsContainer) {
               <button class="cp-toggle-btn" data-metric="capacity" onclick="setChokepointMetric('capacity')" data-tooltip="Aggregate deadweight capacity (k DWT) transiting the chokepoint.">Capacity (DWT)</button>
             </div>
             <div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:IBM Plex Mono, monospace; width:100%; padding-top:4px; border-top:1px solid var(--border);">
-              Source: AIS Daily Transit Observation &amp; IMF PortWatch (2019–2026) · baseline levels reflect 2019-2023 pre-disruption historical medians
+              Source: AIS Daily Transit Observation &amp; IMF PortWatch (2019–2026) · Baseline levels reflect 2019–2023 pre-disruption historical medians
             </div>
           </div>
 
@@ -24779,57 +24779,102 @@ function buildMaster() {
         var noteT = function (x) { return "<div class='rt-note'>" + x + '</div>'; };
         var rowT = function (l, v) { return "<div class='rt-row'><span class='rt-label'>" + l + "</span><span class='rt-val'>" + v + '</span></div>'; };
         var h = null;
-        if (key === 'Product') h = wrapT('Product') + rowT('Scope', 'Shipping sector this signal row describes') + noteT('All values in the row derive from the daily master cache for this sector.');
-        else if (/^(5D|10D|20D|60D|90D|1Y)$/.test(key)) h = wrapT(key + ' Momentum') + rowT('Window', 'Last ' + key + ' of trading days') + noteT('Rate of change over the window, computed from the master price cache for this product.');
-        else if (key === 'Date' || key === 'Date (UTC)') h = wrapT('Date') + rowT('Meaning', 'Calendar day of the observation in this table') + noteT('Dates come straight from the source cache rows; nothing is forward-filled.');
-        else if (key === 'Port') h = wrapT('Port') + rowT('Meaning', 'Port in the IMF PortWatch universe') + noteT('Port names come straight from the PortWatch ports master.');
-        else if (key === 'Class Mix') h = wrapT('Class Mix') + rowT('Meaning', 'Share of this port’s year-to-date calls by vessel class') + noteT('Computed from the PortWatch expanded daily feed: tanker, dry bulk, container, general cargo, RoRo.');
-        else if (key === 'Calls (YTD)') h = wrapT('Calls (YTD)') + rowT('Meaning', 'Measured port calls, 2026 year to date') + noteT('Summed from the PortWatch expanded daily feed for this port.');
-        else if (key === 'Vessel') h = wrapT('Vessel') + rowT('Meaning', 'Vessel named in a broker-reported fixture') + noteT('Commercial vessel recorded in Fearnleys maritime broker fixture reports.');
-        else if (key === 'Charterer') h = wrapT('Charterer') + rowT('Meaning', 'Charterer named in the brokered fixture') + noteT('As reported on the fixture tape.');
-        else if (key === 'Cargo') h = wrapT('Cargo') + rowT('Meaning', 'Commodity or route note attached to the fixture') + noteT('As reported on the fixture tape; blank when the broker text did not name one.');
-        else if (key === 'Laycan') h = wrapT('Laycan') + rowT('Meaning', 'Laycan window quoted in the fixture') + noteT('The days the vessel must present for loading, as brokered.');
-        else if (key === 'Rate') h = wrapT('Rate') + rowT('Meaning', 'Fixture rate where the broker text published one') + noteT('Shown only when the source publishes a numeric rate; blank otherwise, never estimated.');
-        else if (key === 'Date') h = wrapT('Date') + rowT('Meaning', 'Fixture or observation date') + noteT('Dates come straight from the source rows; nothing is forward-filled.');
-        else if (key === 'Discharge') h = wrapT('Discharge') + rowT('Meaning', 'Reported discharge leg destination') + noteT('From the fixture-grounded voyage history; shown as reported.');
-        else if (key === 'Load') h = wrapT('Load') + rowT('Meaning', 'Reported loading port of the fixture leg') + noteT('From the fixture-grounded voyage history; shown as reported.');
-        else if (key === 'Distance') h = wrapT('Distance') + rowT('Meaning', 'Great-circle distance between the reported ports') + noteT('Computed only when both port names resolved to PortWatch ids; otherwise blank.');
-        else if (key === 'Match') h = wrapT('Match') + rowT('Meaning', 'How the fixture port name was resolved to a PortWatch port id') + noteT('exact, alias, prefix or fuzzy; unresolved names stay blank rather than guessed.');
+        if (key === 'Product') h = wrapT('Product') + rowT('Scope', 'Shipping sector this signal row describes') + noteT('All values in the row derive from the daily market data for this sector.');
+        else if (/^(5D|10D|20D|60D|90D|1Y)$/.test(key)) h = wrapT(key + ' Momentum') + rowT('Window', 'Last ' + key + ' of trading days') + noteT('Rate of change over the window, computed from published market historical data for this product.');
+        else if (key === 'Date' || key === 'Date (UTC)') h = wrapT('Date') + rowT('Meaning', 'Calendar day of the observation in this table') + noteT('Dates reflect verified market sessions; nothing is forward-filled.');
+        else if (key === 'Port') h = wrapT('Port') + rowT('Meaning', 'Port in the IMF PortWatch universe') + noteT('Port names correspond to the PortWatch global maritime directory.');
+        else if (key === 'Class Mix') h = wrapT('Class Mix') + rowT('Meaning', 'Share of this port’s year-to-date calls by vessel class') + noteT('Computed from the PortWatch daily arrival records: tanker, dry bulk, container, general cargo, RoRo.');
+        else if (key === 'Calls (YTD)') h = wrapT('Calls (YTD)') + rowT('Meaning', 'Measured port calls, 2026 year to date') + noteT('Summed from the PortWatch daily arrival feed for this port.');
+        else if (key === 'Vessel' || key === 'Vessel Name') h = wrapT('Vessel') + rowT('Meaning', 'Commercial vessel named in maritime reports') + noteT('Commercial vessel recorded in broker fixture reports or AIS registries.');
+        else if (key === 'Charterer') h = wrapT('Charterer') + rowT('Meaning', 'Charterer named in the commercial fixture') + noteT('Commercial entity chartering the vessel, as reported on the fixture tape.');
+        else if (key === 'Cargo') h = wrapT('Cargo') + rowT('Meaning', 'Commodity or route note attached to the fixture') + noteT('As reported on the fixture tape; blank when the broker text did not specify.');
+        else if (key === 'Laycan') h = wrapT('Laycan') + rowT('Meaning', 'Laycan window quoted in the fixture') + noteT('The agreed calendar window within which the vessel must present for loading.');
+        else if (key === 'Rate') h = wrapT('Rate') + rowT('Meaning', 'Fixture rate where published') + noteT('Shown only when the source publishes a numeric rate; blank otherwise.');
+        else if (key === 'Discharge') h = wrapT('Discharge') + rowT('Meaning', 'Reported discharge leg destination') + noteT('From verified fixture voyage logs; shown as reported.');
+        else if (key === 'Load') h = wrapT('Load') + rowT('Meaning', 'Reported loading port of the fixture leg') + noteT('From verified fixture voyage logs; shown as reported.');
+        else if (key === 'Distance') h = wrapT('Distance') + rowT('Meaning', 'Great-circle distance between the reported ports') + noteT('Computed nautical distance between verified loading and discharge ports.');
+        else if (key === 'Match' || key === 'Match Quality') h = wrapT('Match Quality') + rowT('Meaning', 'How the fixture port name was resolved to PortWatch') + noteT('Resolution status: exact, alias, prefix, or high-confidence fuzzy matching.');
 
-        else if (key === 'Area / Port') h = wrapT('Area / Port') + rowT('Meaning', 'Bunker pricing location') + noteT('From the daily Ship & Bunker port price cache.');
-        else if (key === 'Grade') h = wrapT('Grade') + rowT('Meaning', 'Fuel grade priced at this port (VLSFO, HSFO 380, MGO)') + noteT('From the daily bunker port cache.');
-        else if (key === 'Price ($/MT)') h = wrapT('Price ($/MT)') + rowT('Meaning', 'Latest delivered price for the grade at this port') + noteT('From the daily bunker port cache; blank when the port has not published.');
-        else if (key === 'Updated') h = wrapT('Updated') + rowT('Meaning', 'Observation date of the current price') + noteT('Publication date carried by the cache row.');
+        // Tracking Workstation Surface B & Subviews
+        else if (/^Vessel Name \/ IMO$/i.test(key)) h = wrapT('Vessel Name / IMO') + rowT('Scope', 'Commercial ship name and official IMO registration') + noteT('Unique 7-digit identifier assigned under the International Maritime Organization convention.');
+        else if (/^Class & Segment$/i.test(key) || /^Class &amp; Segment$/i.test(key) || key === 'Class' || key === 'Vessel Class') h = wrapT('Class & Segment') + rowT('Scope', 'Vessel deadweight class and commercial trade segment') + noteT('Commercial chartering size tier: Capesize, Panamax, Supramax, Handysize, VLCC, Suezmax, Aframax, LNG, or LPG.');
+        else if (/^Commercial Operator$/i.test(key)) h = wrapT('Commercial Operator') + rowT('Scope', 'Commercial operating entity controlling the hull') + noteT('Operating manager, commercial pool, or charterer responsible for vessel commercial employment.');
+        else if (/^Status \/ Zone$/i.test(key) || key === 'Status') h = wrapT('Status / Zone') + rowT('Scope', 'Real-time operational status and port proximity') + noteT('Categorized into Moored at Berth, Waiting at Anchorage, or Steaming Inbound En Route.');
+        else if (/^Speed \/ Dist$/i.test(key)) h = wrapT('Speed / Dist') + rowT('Scope', 'Current steaming speed and remaining passage distance') + noteT('Live AIS speed over ground in knots and great-circle nautical distance to destination pilot station.');
+        else if (/^Laden State$/i.test(key)) h = wrapT('Laden State') + rowT('Scope', 'Vessel cargo draft and voyage condition') + noteT('Classified as Laden (carrying commercial cargo) or Ballast (empty transit to loading terminal).');
+        else if (/^Reported Destination \/ ETA$/i.test(key)) h = wrapT('Reported Destination / ETA') + rowT('Scope', 'Master-reported destination terminal and arrival window') + noteT('AIS broadcast destination port and scheduled arrival date/time window.');
+        else if (/^Opposite Port$/i.test(key)) h = wrapT('Opposite Port') + rowT('Scope', 'Connected load or discharge port of the voyage leg') + noteT('Origin terminal for inbound discharge calls or destination terminal for loading departures.');
+        else if (/^Leg$/i.test(key)) h = wrapT('Leg') + rowT('Scope', 'Sequential voyage corridor waypoint segment') + noteT('Step number along the multi-leg maritime routing path.');
+        else if (/^Corridor$/i.test(key)) h = wrapT('Corridor') + rowT('Scope', 'Navigable sea passage between route waypoints') + noteT('Verified maritime lane connecting departure hub, intermediate waypoints, and arrival terminal.');
+        else if (/^Duration$/i.test(key)) h = wrapT('Duration') + rowT('Scope', 'Calculated passage time in steaming days') + noteT('Sea transit duration at designated cruising speed with weather sea margin allowance applied.');
+        else if (/^Canal \/ Passage$/i.test(key)) h = wrapT('Canal / Passage') + rowT('Scope', 'Strategic maritime canal or passage chokepoint') + noteT('Navigated waterway: Suez Canal, Panama Canal, Cape of Good Hope, or Malacca Strait.');
+        else if (/^ECA Transit$/i.test(key)) h = wrapT('ECA Transit') + rowT('Scope', 'Distance and duration in Emission Control Areas') + noteT('Passage segments requiring 0.10% low-sulfur marine fuel or compliant exhaust gas cleaning.');
+        else if (/^Port \/ Hub$/i.test(key)) h = wrapT('Port / Hub') + rowT('Scope', 'Commercial marine terminal and country code') + noteT('Strategic port facility tracked in the IMF PortWatch global maritime arrivals network.');
+        else if (/^Weekly Influx$/i.test(key)) h = wrapT('Weekly Influx') + rowT('Scope', 'Trailing 7-day vessel arrival volume') + noteT('Measured commercial vessel arrivals over the past 7 days across the selected cargo sector.');
+        else if (/^5Y Baseline$/i.test(key)) h = wrapT('5Y Baseline') + rowT('Scope', 'Historical 5-year seasonal normal call rate') + noteT('Mean weekly arrivals for this calendar week calculated across 2019–2025 observations.');
+        else if (/^Deviation \(Z\)$/i.test(key)) h = wrapT('Deviation (Z)') + rowT('Scope', 'Statistical deviation from seasonal expectation') + noteT('Z-score measuring arrival velocity: positive values indicate surge queueing; negative indicate lulls.');
+
+        // Fleet, Assets & S&P Deal Columns
+        else if (/^Active DWT \(M\)$/i.test(key)) h = wrapT('Active DWT (M)') + rowT('Scope', 'Operating fleet deadweight capacity in Million DWT') + noteT('Total commercial cargo carrying capacity currently deployed across this vessel segment.');
+        else if (/^Active Fleet$/i.test(key)) h = wrapT('Active Fleet') + rowT('Scope', 'Number of active commercial vessels') + noteT('Total trading hull count actively engaged in seaborne trade.');
+        else if (/^Orderbook \(% Fleet\)$/i.test(key)) h = wrapT('Orderbook (% Fleet)') + rowT('Scope', 'Shipyard orderbook as share of trading fleet') + noteT('Newbuilding tonnage under construction divided by on-the-water operating fleet capacity.');
+        else if (/^Orderbook \(Ships\)$/i.test(key)) h = wrapT('Orderbook (Ships)') + rowT('Scope', 'Confirmed newbuilding shipyard contracts') + noteT('Number of vessels scheduled for delivery across global shipbuilding yards.');
+        else if (/^Scrubber \(%\)$/i.test(key)) h = wrapT('Scrubber (%)') + rowT('Scope', 'Exhaust gas cleaning system installation share') + noteT('Percentage of fleet equipped with scrubbers permitting cheaper high-sulfur fuel oil consumption.');
+        else if (/^Avg Age$/i.test(key)) h = wrapT('Avg Age') + rowT('Scope', 'Mean vessel age in years since shipyard delivery') + noteT('Fleet age profile; vessels over 15–20 years face strict charterer vetting restrictions.');
+        else if (/^20\+ Yr Overage$/i.test(key)) h = wrapT('20+ Yr Overage') + rowT('Scope', 'Tonnage aged 20 years or older') + noteT('Prime candidates for demolition recycling; subject to terminal restrictions and insurance penalties.');
+        else if (/^Util \(%\)$/i.test(key)) h = wrapT('Util (%)') + rowT('Scope', 'Operating fleet commercial utilization rate') + noteT('Percentage of available fleet capacity actively carrying commercial cargo or positioned on fixture.');
+        else if (/^DWT$/i.test(key)) h = wrapT('DWT') + rowT('Scope', 'Deadweight carrying capacity in metric tonnes') + noteT('Total weight of cargo, fuel, fresh water, and stores a vessel can carry at maximum summer draft.');
+        else if (/^Built$/i.test(key)) h = wrapT('Built') + rowT('Scope', 'Original shipyard delivery year') + noteT('Calendar year the vessel entered commercial service from builder shipyards.');
+        else if (/^Shipyard$/i.test(key)) h = wrapT('Shipyard') + rowT('Scope', 'Constructing shipbuilding yard') + noteT('Shipyard facility where the hull and propulsion machinery were constructed.');
+        else if (/^Price \(\$M\)$/i.test(key)) h = wrapT('Price ($M)') + rowT('Scope', 'Reported asset transaction price in Million USD') + noteT('Agreed commercial transaction value recorded in institutional sale & purchase fixture reports.');
+        else if (/^Implied \$\/DWT$/i.test(key)) h = wrapT('Implied $/DWT') + rowT('Scope', 'Asset valuation per deadweight tonne') + noteT('Transaction purchase price normalized by vessel deadweight carrying capacity.');
+        else if (/^Transit \(d\)$/i.test(key)) h = wrapT('Transit (d)') + rowT('Scope', 'Voyage transit duration in days') + noteT('Full ocean transit time between loading berth and discharge terminal.');
+        else if (/^Distance \(NM\)$/i.test(key)) h = wrapT('Distance (NM)') + rowT('Scope', 'Nautical distance in nautical miles') + noteT('Great-circle or ocean route distance between designated ports.');
+        else if (/^EU ETS Cost$/i.test(key)) h = wrapT('EU ETS Cost') + rowT('Scope', 'European Union Emissions Trading System carbon cost') + noteT('Mandatory carbon allowance expenditure required per voyage under EU maritime emissions regulations.');
+        else if (/^High \/ Low Range$/i.test(key)) h = wrapT('High / Low Range') + rowT('Scope', '52-week trading spread high and low') + noteT('Extreme boundary levels observed over the trailing 52-week operating period.');
+        else if (/^(1Y|2Y|6M) (Atlantic|Pacific)$/i.test(key)) h = wrapT(key) + rowT('Scope', 'Time-charter rate benchmark for ' + key) + noteT('Weekly broker assessment for period charter employment in this ocean basin.');
+        else if (/^(Cape|VLCC) TCE Bonus$/i.test(key)) h = wrapT(key) + rowT('Scope', 'Daily TCE earnings premium from fuel efficiency or scrubber') + noteT('Additional net daily revenue generated by scrubber-fitted or modern eco-electronic engines.');
+        else if (/^Eco Hull Premium$/i.test(key)) h = wrapT('Eco Hull Premium') + rowT('Scope', 'Fuel-efficiency premium for modern eco-design hulls') + noteT('Daily hire premium commanded by electronically controlled engines with reduced daily fuel burn.');
+        else if (/^Basin Classification$/i.test(key)) h = wrapT('Basin Classification') + rowT('Scope', 'Ocean basin commercial routing territory') + noteT('Designation into Atlantic or Pacific trading basin governing ballasting decisions.');
+        else if (/^Basin Spread \(1Y\)$/i.test(key)) h = wrapT('Basin Spread (1Y)') + rowT('Scope', 'Atlantic vs Pacific one-year time charter spread') + noteT('Earnings differential between Atlantic and Pacific employment driving inter-basin vessel repositioning.');
+        else if (/^Mining Syndicate \/ Operator$/i.test(key)) h = wrapT('Mining Syndicate / Operator') + rowT('Scope', 'Bauxite or iron ore export mining consortium') + noteT('Resource producer and dedicated terminal operator controlling seaborne bulk export volumes.');
+        else if (/^2025 Exports \(Mt\)$/i.test(key)) h = wrapT('2025 Exports (Mt)') + rowT('Scope', 'Full-year seaborne export volume in Million Metric Tonnes') + noteT('Annual physical export throughput loaded across dedicated deepwater terminals.');
+        else if (/^Key Destination$/i.test(key)) h = wrapT('Key Destination') + rowT('Scope', 'Primary overseas discharge market') + noteT('Principal destination country and import terminals receiving seaborne parcel volumes.');
+        else if (/^Export Terminals$/i.test(key)) h = wrapT('Export Terminals') + rowT('Scope', 'Dedicated marine loading berths') + noteT('Specialized loading river ports and deepwater berths equipped with bulk conveyor loaders.');
+        else if (/^Taxonomy Subgroup$/i.test(key)) h = wrapT('Taxonomy Subgroup') + rowT('Scope', 'Standardized commodity classification bucket') + noteT('Categorization of bulk cargoes into clean industrial minerals, ores, agribulks, and fuels.');
+        else if (/^Commodity Group$/i.test(key)) h = wrapT('Commodity Group') + rowT('Scope', 'High-level seaborne trade classification') + noteT('Parent commodity group aggregating related trade flows and vessel segment demand.');
+        else if (/^National Share$/i.test(key)) h = wrapT('National Share') + rowT('Scope', 'Percentage of national seaborne export volume') + noteT('Share of total country mineral or agricultural exports handled by this operator or port.');
+
+        else if (key === 'Area / Port') h = wrapT('Area / Port') + rowT('Meaning', 'Bunker pricing location') + noteT('From published physical bunker fuel port market assessments.');
+        else if (key === 'Grade') h = wrapT('Grade') + rowT('Meaning', 'Fuel grade priced at this port (VLSFO, HSFO 380, MGO)') + noteT('Delivered marine fuel grade specifications under ISO 8217 standards.');
+        else if (key === 'Price ($/MT)') h = wrapT('Price ($/MT)') + rowT('Meaning', 'Latest delivered price for the grade at this port') + noteT('Current delivered physical bunker fuel price in USD per metric tonne.');
+        else if (key === 'Updated') h = wrapT('Updated') + rowT('Meaning', 'Observation date of the current price') + noteT('Publication date of the latest verified bunker assessment.');
         else if (key === 'Name' || key === 'Contract') h = wrapT('Name') + rowT('Meaning', 'Futures contract or holding in the disclosed fund book') + noteT('Names come from the authoritative disclosed holdings snapshot.');
-        else if (key === 'Lots') h = wrapT('Lots') + rowT('Meaning', 'Disclosed contract lots held') + noteT('From the official holdings archive.');
-        else if (key === 'Price') h = wrapT('Price') + rowT('Meaning', 'Reference settle or unit price for the contract') + noteT('From the disclosed holdings snapshot.');
-        else if (key === 'Mkt Value') h = wrapT('Mkt Value') + rowT('Meaning', 'Market value of the position on the snapshot date') + noteT('Disclosed market value from the holdings archive.');
-        else if (key === 'Weight') h = wrapT('Weight') + rowT('Meaning', 'Position share of the fund book') + noteT('Computed from the disclosed snapshot.');
-        else if (key === 'Close') h = wrapT('Close') + rowT('Meaning', 'Contract settlement close on that date') + noteT('From the SGX daily settlement archive.');
-        else if (key === 'Volume') h = wrapT('Volume') + rowT('Meaning', 'Lots traded on that date') + noteT('From the SGX settlement archive.');
-        else if (key === '$ Vol Traded') h = wrapT('$ Vol Traded') + rowT('Meaning', 'Dollar notional traded that day') + noteT('Lots x price x contract multiplier, from the liquidity archive.');
-        else if (key === 'Tier %') h = wrapT('Tier %') + rowT('Meaning', 'Share of the day\u2019s volume relative to the fund\u2019s exposure tier') + noteT('Computed from the disclosed holdings and SGX volume archive.');
-        else if (key === 'Possible Shares') h = wrapT('Possible Shares') + rowT('Meaning', 'Fund-share equivalent of the day\u2019s traded lots') + noteT('Derived from the disclosed book, not simulated.');
-        else if (key === 'Safe Liquidity') h = wrapT('Safe Liquidity') + rowT('Meaning', 'Shares tradeable without breaching the liquidity guardrail') + noteT('Guardrail applied to the SGX volume record for that day.');
-        else if (key === 'Year') h = wrapT('Year') + rowT('Meaning', 'Calendar year of the observation') + noteT('Yearly aggregates come from the master cache.');
-        else if (/^Q[1-4]$/.test(key)) h = wrapT(key + ' Quarter') + rowT('Meaning', key + ' seasonal performance for the row year') + noteT('Quarterly aggregation of the daily master cache.');
-        else if (key === 'Full Year Avg') h = wrapT('Full Year Avg') + rowT('Meaning', 'Year-wide average of the plotted series') + noteT('From the daily cache rows of that year.');
-        else if (/YoY/i.test(key)) h = wrapT('YoY %') + rowT('Meaning', 'Year-over-year change for the row') + noteT('Current year vs prior year, both from the master cache.');
-        else if (key === 'Quarter') h = wrapT('Quarter') + rowT('Meaning', 'Calendar quarter being summarized') + noteT('Aggregated from the daily master cache.');
-        else if (/Win Rate/.test(key)) h = wrapT(key) + rowT('Meaning', 'Share of historical periods with a positive return in this window') + noteT('Computed over the full published history in the cache.');
-        else if (key === 'Month') h = wrapT('Month') + rowT('Meaning', 'Calendar month of the seasonal bucket') + noteT('Monthly aggregation of the daily cache.');
-        else if (/^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)$/.test(key)) h = wrapT(key) + rowT('Meaning', key + ' value for the row year') + noteT('From the monthly aggregation of the daily master cache.');
-        else if (key === 'Dept') h = wrapT('Dept') + rowT('Meaning', 'Fearnleys department that reported the deal') + noteT('Sale-desk attribution from the broker ledger cache.');
-        else if (key === 'Segment') h = wrapT('Segment') + rowT('Meaning', 'Vessel market segment of the transaction') + noteT('As classified in the Fearnleys ledger cache.');
-        else if (key === 'Vessel') h = wrapT('Vessel') + rowT('Meaning', 'Vessel(s) transferred in the sale') + noteT('Names as recorded in the broker ledger.');
-        else if (key === 'Charterer') h = wrapT('Charterer') + rowT('Meaning', 'Reported charterer or buyer side') + noteT('As published in the ledger cache; blank when undisclosed.');
-        else if (key === 'Commodity') h = wrapT('Commodity') + rowT('Meaning', 'Cargo segment of the fixture') + noteT('From the broker report cache.');
-        else if (key === 'Period') h = wrapT('Period') + rowT('Meaning', 'Charter duration reported for the fixture') + noteT('From the Fearnleys fixture cache.');
-        else if (key === 'Laycan') h = wrapT('Laycan') + rowT('Meaning', 'Layday/canceling window of the fixture') + noteT('As published in the fixture cache.');
-        else if (key === 'Rate') h = wrapT('Rate') + rowT('Meaning', 'Reported hire or sale rate') + noteT('From the broker ledger cache; blank when not published.');
-        else if (key === 'Comment') h = wrapT('Comment') + rowT('Meaning', 'Free-text note attached to the deal') + noteT('Verbatim from the source ledger.');
-        else if (/BDRY|BWET|BDI|BPI|BCI|BSI|BCTI|BDTI|Dirty|Clean|FFA|Spot|Cape|Panama|Supra|Handy/.test(key)) h = wrapT(key) + rowT('Meaning', 'Index/product column of the daily dashboard table') + noteT('Latest reading and change from the master market cache for this series.');
-        if (!h) h = wrapT(key) + rowT('Meaning', 'Column of this table; every cell is computed from the cache section backing the table') + noteT('Column definitions follow the source fields of the daily cache; nothing in this column is simulated.');
+        else if (key === 'Lots') h = wrapT('Lots') + rowT('Meaning', 'Disclosed contract lots held') + noteT('From official exchange cleared holdings records.');
+        else if (key === 'Price') h = wrapT('Price') + rowT('Meaning', 'Reference settle or unit price for the contract') + noteT('From official exchange daily closing prices.');
+        else if (key === 'Mkt Value') h = wrapT('Mkt Value') + rowT('Meaning', 'Market value of the position on the snapshot date') + noteT('Disclosed market value from official fund holdings records.');
+        else if (key === 'Weight') h = wrapT('Weight') + rowT('Meaning', 'Position share of the fund book') + noteT('Computed percentage of fund net asset value.');
+        else if (key === 'Close') h = wrapT('Close') + rowT('Meaning', 'Contract settlement close on that date') + noteT('Official daily closing settlement price from exchange records.');
+        else if (key === 'Volume') h = wrapT('Volume') + rowT('Meaning', 'Lots traded on that date') + noteT('Official daily traded contract volume from exchange records.');
+        else if (key === '$ Vol Traded') h = wrapT('$ Vol Traded') + rowT('Meaning', 'Dollar notional traded that day') + noteT('Lots x price x contract multiplier, representing total daily turnover.');
+        else if (key === 'Tier %') h = wrapT('Tier %') + rowT('Meaning', 'Share of the day’s volume relative to the fund’s exposure tier') + noteT('Liquidity metric comparing daily traded volume to portfolio positions.');
+        else if (key === 'Possible Shares') h = wrapT('Possible Shares') + rowT('Meaning', 'Fund-share equivalent of the day’s traded lots') + noteT('Derived from disclosed holdings and daily exchange volume.');
+        else if (key === 'Safe Liquidity') h = wrapT('Safe Liquidity') + rowT('Meaning', 'Shares tradeable without breaching liquidity guardrails') + noteT('Prudential threshold preventing excessive market impact.');
+        else if (key === 'Year') h = wrapT('Year') + rowT('Meaning', 'Calendar year of the observation') + noteT('Yearly historical aggregation across published trading sessions.');
+        else if (/^Q[1-4]$/.test(key)) h = wrapT(key + ' Quarter') + rowT('Meaning', key + ' seasonal performance for the row year') + noteT('Quarterly aggregation of published daily market sessions.');
+        else if (key === 'Full Year Avg') h = wrapT('Full Year Avg') + rowT('Meaning', 'Year-wide average of the plotted series') + noteT('Arithmetic mean of daily observations across the calendar year.');
+        else if (/YoY/i.test(key)) h = wrapT('YoY %') + rowT('Meaning', 'Year-over-year change for the row') + noteT('Percentage comparison of current period against the identical period in the prior year.');
+        else if (key === 'Quarter') h = wrapT('Quarter') + rowT('Meaning', 'Calendar quarter being summarized') + noteT('Three-month operational performance window.');
+        else if (/Win Rate/.test(key)) h = wrapT(key) + rowT('Meaning', 'Share of historical periods with a positive return in this window') + noteT('Historical frequency of positive freight return outcomes.');
+        else if (key === 'Month') h = wrapT('Month') + rowT('Meaning', 'Calendar month of the seasonal bucket') + noteT('Monthly aggregation across historical market sessions.');
+        else if (/^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)$/.test(key)) h = wrapT(key) + rowT('Meaning', key + ' value for the row year') + noteT('Monthly average assessment for this specific calendar month.');
+        else if (key === 'Dept') h = wrapT('Dept') + rowT('Meaning', 'Fearnleys department that reported the deal') + noteT('Commercial brokerage desk attribution from official ledger reports.');
+        else if (key === 'Segment') h = wrapT('Segment') + rowT('Meaning', 'Vessel market segment of the transaction') + noteT('Commercial vessel size category and trading specialization.');
+        else if (key === 'Commodity') h = wrapT('Commodity') + rowT('Meaning', 'Cargo segment of the fixture') + noteT('Specific seaborne raw material or bulk parcel contracted.');
+        else if (key === 'Period') h = wrapT('Period') + rowT('Meaning', 'Charter duration reported for the fixture') + noteT('Agreed commercial charter duration (spot voyage vs time charter term).');
+        else if (key === 'Comment') h = wrapT('Comment') + rowT('Meaning', 'Free-text note attached to the deal') + noteT('Commercial terms and operational notes recorded on the fixture tape.');
+        else if (/BDRY|BWET|BDI|BPI|BCI|BSI|BCTI|BDTI|Dirty|Clean|FFA|Spot|Cape|Panama|Supra|Handy/.test(key)) h = wrapT(key) + rowT('Meaning', 'Index/product column of the daily dashboard table') + noteT('Published daily freight assessment and day-over-day price change.');
+        if (!h) h = wrapT(key) + rowT('Data Series', 'Institutional market observation for ' + key) + noteT('Assessed across verified maritime data feeds, PortWatch movements, and commercial fixture ledgers.');
         if (h) say2(h);
       });
 
@@ -34740,7 +34785,7 @@ function renderSignalsTab(productKey) {
         { label: 'Dollar Vol Traded', val: '$' + (latest.dollarVol / 1000).toFixed(0) + 'K', cls: '' },
         { label: 'Tier', val: latest.tierLabel, cls: 'val-yellow' },
         { label: 'Possible Shares', val: latest.possShares.toLocaleString('en-US'), cls: 'val-green' },
-        { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString(undefined, { maximumFractionDigits: 0 }), cls: 'val-green' },
+        { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString('en-US', { maximumFractionDigits: 0 }), cls: 'val-green' },
         {
           label: 'Total Safe Liquidity (1M)',
           val: (function() {
@@ -35126,7 +35171,7 @@ function renderSignalsTab(productKey) {
         { label: 'Dollar Vol Traded', val: '$' + (latest.dollarVol / 1000).toFixed(0) + 'K', cls: '' },
         { label: 'Tier', val: latest.tierLabel, cls: 'val-yellow' },
         { label: 'Possible Shares', val: latest.possShares.toLocaleString('en-US'), cls: 'val-green' },
-        { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString(undefined, { maximumFractionDigits: 0 }), cls: 'val-green' },
+        { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString('en-US', { maximumFractionDigits: 0 }), cls: 'val-green' },
         {
           label: 'Total Safe Liquidity (1M)',
           val: (function() {
@@ -38982,7 +39027,7 @@ function renderSignalsTab(productKey) {
     }
 
     function _buildVCCard(title, q, confluence, qualSigs, subItems) {
-      const fmtN  = n => n != null ? Number(n).toLocaleString(undefined, { maximumFractionDigits: 0 }) : '-';
+      const fmtN  = n => n != null ? Number(n).toLocaleString('en-US', { maximumFractionDigits: 0 }) : '-';
       const fmtPc = n => n != null ? (n >= 0 ? '+' : '') + n.toFixed(1) + '%' : '-';
       const fmtPctl = n => n != null ? Math.round(n * 100) : null;
 
@@ -39332,7 +39377,7 @@ function _paintBrief(el, tsEl, data) {
       const fmtNum = (value) => {
         const n = Number(value);
         if (!Number.isFinite(n)) return 'n/a';
-        return n.toLocaleString(undefined, { maximumFractionDigits: 0 });
+        return n.toLocaleString('en-US', { maximumFractionDigits: 0 });
       };
 
       const cfgMap = {
@@ -44041,7 +44086,19 @@ function updateTrackingHUD() {
   }
 
   var sub0 = document.getElementById('hudUniverseCallsSub');
-  if (sub0) sub0.textContent = k.latestDate ? ('IMF PortWatch AIS \u00b7 ' + k.latestDate + ' (7d audit lag)') : 'awaiting PortWatch feed';
+  var lagEl = document.getElementById('portwatchLagDate');
+  var dateLabel = k.latestDate;
+  if (k.latestDate) {
+    var dParts = String(k.latestDate).split('-');
+    if (dParts.length === 3) {
+      var mos = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      var mo = mos[parseInt(dParts[1], 10) - 1];
+      var dy = parseInt(dParts[2], 10);
+      if (mo && !isNaN(dy)) dateLabel = mo + ' ' + dy;
+    }
+  }
+  if (sub0) sub0.textContent = dateLabel ? ('IMF PortWatch AIS \u00b7 ' + dateLabel + ' (7d reporting lag)') : 'awaiting PortWatch feed';
+  if (lagEl && dateLabel) lagEl.textContent = dateLabel;
   var sub7 = document.getElementById('hudCalls7dSub');
   if (sub7) sub7.textContent = (k.avg7 != null) ? 'Trailing 7-day mean of daily calls' : 'awaiting PortWatch feed';
   var subD = document.getElementById('hudDisruptionsSub');
@@ -47694,7 +47751,7 @@ function renderMacroMatrix() {
 
   if (grid) {
     grid.innerHTML =
-      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'bab_el_mandeb\'); if (trackingMap) trackingMap.flyTo([' + (bab.lat || 12.58) + ', ' + (bab.lon || 43.33) + '], 6, {duration:1.0});">' +
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'bab_el_mandeb\'); if (trackingMap) trackingMap.flyTo([' + (bab.lat || 12.58) + ', ' + (bab.lon || 43.33) + '], 6, {duration:1.0});" data-tooltip="Bab el-Mandeb: Southern Red Sea chokepoint transit rate and conflict rerouting analytics.">' +
         '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Bab el-Mandeb</div>' +
         '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
           '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#f85149;">' + babDelta + '</span>' +
@@ -47702,7 +47759,7 @@ function renderMacroMatrix() {
         '</div>' +
         '<div style="font-size:9px; color:#f85149; margin-top:3px;">Red Sea Houthi conflict diversion</div>' +
       '</div>' +
-      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'suez_canal\'); if (trackingMap) trackingMap.flyTo([' + (suez.lat || 30.7) + ', ' + (suez.lon || 32.34) + '], 6, {duration:1.0});">' +
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(248,81,73,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'suez_canal\'); if (trackingMap) trackingMap.flyTo([' + (suez.lat || 30.7) + ', ' + (suez.lon || 32.34) + '], 6, {duration:1.0});" data-tooltip="Suez Canal: Northern Red Sea waterway connecting the Mediterranean to the Indian Ocean.">' +
         '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Suez Canal</div>' +
         '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
           '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#f85149;">' + suezDelta + '</span>' +
@@ -47710,7 +47767,7 @@ function renderMacroMatrix() {
         '</div>' +
         '<div style="font-size:9px; color:#f85149; margin-top:3px;">Transit avoidance via Cape</div>' +
       '</div>' +
-      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(63,185,80,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'cape_good_hope\'); if (trackingMap) trackingMap.flyTo([' + (cape.lat || -34.35) + ', ' + (cape.lon || 18.47) + '], 6, {duration:1.0});">' +
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(63,185,80,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'cape_good_hope\'); if (trackingMap) trackingMap.flyTo([' + (cape.lat || -34.35) + ', ' + (cape.lon || 18.47) + '], 6, {duration:1.0});" data-tooltip="Cape of Good Hope: South African alternative maritime route absorbing displaced Red Sea traffic.">' +
         '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Cape of Good Hope</div>' +
         '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
           '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#3fb950;">' + capeDelta + '</span>' +
@@ -47718,7 +47775,7 @@ function renderMacroMatrix() {
         '</div>' +
         '<div style="font-size:9px; color:#3fb950; margin-top:3px;">Cape diversion absorption</div>' +
       '</div>' +
-      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(210,153,34,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'panama_canal\'); if (trackingMap) trackingMap.flyTo([' + (pan.lat || 9.1) + ', ' + (pan.lon || -79.7) + '], 6, {duration:1.0});">' +
+      '<div style="background:rgba(22,27,34,0.8); border:1px solid rgba(210,153,34,0.3); border-radius:4px; padding:8px 10px; cursor:pointer;" onclick="openChokepointAnalytics(\'panama_canal\'); if (trackingMap) trackingMap.flyTo([' + (pan.lat || 9.1) + ', ' + (pan.lon || -79.7) + '], 6, {duration:1.0});" data-tooltip="Panama Canal: Central American freshwater transit lock system linking Atlantic and Pacific basins.">' +
         '<div style="font-size:10px; font-weight:600; color:var(--text-muted); text-transform:uppercase; margin-bottom:2px;">Panama Canal</div>' +
         '<div style="display:flex; align-items:baseline; justify-content:space-between;">' +
           '<span style="font-family:\'IBM Plex Mono\', monospace; font-size:16px; font-weight:700; color:#d29922;">' + panDelta + '</span>' +
@@ -47747,7 +47804,7 @@ function renderMacroMatrix() {
 
   if (badge) {
     var isCrisis = (crisis.bab_el_mandeb_diverted_pct && crisis.bab_el_mandeb_diverted_pct > 20);
-    badge.textContent = isCrisis ? 'ACTIVE REROUTING REGIME' : 'NORMALIZED REGIME';
+    badge.textContent = isCrisis ? 'Active Rerouting Regime' : 'Normalized Regime';
     badge.style.color = isCrisis ? '#58a6ff' : 'var(--green)';
     badge.style.background = isCrisis ? 'rgba(56,139,253,0.12)' : 'rgba(63,185,80,0.12)';
   }
@@ -47896,29 +47953,35 @@ function openChokepointAnalytics(chokepointId) {
 
   if (kpiDays) {
     var tel = trackingReroutingTelemetry();
+    var daysTitle = '';
     if (mRow && mRow.avg_rerouting_voyage_days_added !== '' && mRow.avg_rerouting_voyage_days_added != null) {
       kpiDays.textContent = '+' + parseFloat(mRow.avg_rerouting_voyage_days_added).toFixed(1) + ' Days';
-      kpiDays.title = 'Modeled voyage deviation via Cape of Good Hope circumnavigation';
+      daysTitle = 'Modeled voyage deviation via Cape of Good Hope circumnavigation';
     } else if (tel.daysAdded != null && (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal')) {
       kpiDays.textContent = '+' + tel.daysAdded.toFixed(1) + ' Days';
-      kpiDays.title = 'Estimated voyage delay from Cape of Good Hope rerouting';
+      daysTitle = 'Estimated voyage delay from Cape of Good Hope rerouting';
     } else {
       kpiDays.textContent = '\u2014';
-      kpiDays.title = 'Direct passage corridor; no regular rerouting applied';
+      daysTitle = 'Direct passage corridor; no regular rerouting applied';
     }
+    kpiDays.title = daysTitle;
+    kpiDays.setAttribute('data-tooltip', daysTitle);
   }
   if (kpiTonMile) {
     var tel2 = trackingReroutingTelemetry();
+    var tmTitle = '';
     if (mRow && mRow.implied_tonne_mile_expansion_pct !== '' && mRow.implied_tonne_mile_expansion_pct != null) {
       kpiTonMile.textContent = '+' + parseFloat(mRow.implied_tonne_mile_expansion_pct).toFixed(1) + '%';
-      kpiTonMile.title = 'Implied tonne-mile expansion absorbing global fleet capacity';
+      tmTitle = 'Implied tonne-mile expansion absorbing global fleet capacity';
     } else if (tel2.tonneMilePct != null && (cp.id === 'bab_el_mandeb' || cp.id === 'suez_canal')) {
       kpiTonMile.textContent = '+' + tel2.tonneMilePct.toFixed(1) + '%';
-      kpiTonMile.title = 'Modeled tonne-mile expansion absorbing global fleet capacity';
+      tmTitle = 'Modeled tonne-mile expansion absorbing global fleet capacity';
     } else {
       kpiTonMile.textContent = '\u2014';
-      kpiTonMile.title = 'No structural tonne-mile expansion observed for this passage';
+      tmTitle = 'No structural tonne-mile expansion observed for this passage';
     }
+    kpiTonMile.title = tmTitle;
+    kpiTonMile.setAttribute('data-tooltip', tmTitle);
   }
 
   // Render Time Series Chart
@@ -48344,9 +48407,9 @@ function renderRouteWaypointsList() {
     var badgeText = isOrigin ? 'Origin' : (isDest ? 'Destination' : 'Waypoint ' + idx);
     var ecaTag = wp.eca ? ' <span class="class-badge" style="background:rgba(163,113,247,0.15); color:#a371f7;">ECA</span>' : '';
 
-    var upBtn = idx > 0 ? '<button class="waypoint-btn" onclick="moveWaypoint(' + idx + ', -1)" title="Move up">↑</button>' : '';
-    var dnBtn = idx < n - 1 ? '<button class="waypoint-btn" onclick="moveWaypoint(' + idx + ', 1)" title="Move down">↓</button>' : '';
-    var rmBtn = n > 2 ? '<button class="waypoint-btn" onclick="removeWaypoint(' + idx + ')" style="color:var(--red);" title="Remove port">&times;</button>' : '';
+    var upBtn = idx > 0 ? '<button class="waypoint-btn" onclick="moveWaypoint(' + idx + ', -1)" data-tooltip="Reorder waypoint: shift this port earlier in the voyage routing sequence." title="Reorder waypoint: shift this port earlier in the voyage routing sequence.">↑</button>' : '';
+    var dnBtn = idx < n - 1 ? '<button class="waypoint-btn" onclick="moveWaypoint(' + idx + ', 1)" data-tooltip="Reorder waypoint: shift this port later in the voyage routing sequence." title="Reorder waypoint: shift this port later in the voyage routing sequence.">↓</button>' : '';
+    var rmBtn = n > 2 ? '<button class="waypoint-btn" onclick="removeWaypoint(' + idx + ')" style="color:var(--red);" data-tooltip="Remove waypoint: eliminate this calling port from the voyage itinerary." title="Remove waypoint: eliminate this calling port from the voyage itinerary.">&times;</button>' : '';
 
     html += '<div class="waypoint-chip">' +
       '<div style="display:flex; align-items:center; gap:8px;">' +
@@ -48771,7 +48834,7 @@ function escapeHtml(str) {
           html = `<div class="rt-title">Port Call History: IMF PortWatch</div>`;
           html += `<div class="rt-row"><span class="rt-label">Measure</span><span class="rt-val">${Y.measure || 'Daily Port Calls'}</span></div>`;
           if (Y.latest) html += `<div class="rt-row"><span class="rt-label">Latest Day</span><span class="rt-val">${Y.latest.dateStr} \u00b7 ${Y.latest.val != null ? Y.latest.val.toLocaleString('en-US') : 'n/a'} calls/day</span></div>`;
-          if (Y.base != null) html += `<div class="rt-row"><span class="rt-label">5Y Same-Window Mean</span><span class="rt-val">${Y.base.toLocaleString(undefined, {maximumFractionDigits: 1})} calls/day</span></div>`;
+          if (Y.base != null) html += `<div class="rt-row"><span class="rt-label">5Y Same-Window Mean</span><span class="rt-val">${Y.base.toLocaleString('en-US', {maximumFractionDigits: 1})} calls/day</span></div>`;
           if (Y.delta != null) html += `<div class="rt-row"><span class="rt-label">Latest vs 5Y Mean</span><span class="rt-val ${Y.delta >= 0 ? 'pos' : 'neg'}" style="font-weight:700;">${Y.delta > 0 ? '+' : ''}${Y.delta.toFixed(1)}%</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Baseline Definition</span><span class="rt-val">Mean of all 2019\u20132025 daily values in the same calendar window, computed from the CSV, never hardcoded</span></div>`;
           if (ctx === 'note') html += `<div class="rt-note">Direct port call activity from IMF PortWatch covering dry bulk, tanker, and container movements across global maritime hubs. Gas trades tracked via broker fixture intelligence.</div>`;
@@ -48965,7 +49028,7 @@ function escapeHtml(str) {
           let displayVal = value.toFixed(1);
           if (metric === 'Avg Value' || metric === 'Min' || metric === 'Max') {
             const isUSD = ['bdry', 'bwet'].includes(pk);
-            displayVal = isUSD ? `$${value.toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2})}` : value.toLocaleString(undefined, {maximumFractionDigits:0});
+            displayVal = isUSD ? `$${value.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})}` : value.toLocaleString('en-US', {maximumFractionDigits:0});
           } else {
             displayVal = (value >= 0 && metric === 'YoY %' ? '+' : '') + value.toFixed(1) + '%';
           }
@@ -49122,7 +49185,7 @@ function escapeHtml(str) {
           const price  = parseFloat(target.getAttribute('data-tt-val'));
           const change = parseFloat(target.getAttribute('data-tt-change'));
           const pctl5y = parseInt(target.getAttribute('data-tt-pctl5y'));
-          if (!isNaN(price)) html += `<div class="rt-row"><span class="rt-label">Current Rate</span><span class="rt-val">${price.toLocaleString(undefined, {maximumFractionDigits:0})}</span></div>`;
+          if (!isNaN(price)) html += `<div class="rt-row"><span class="rt-label">Current Rate</span><span class="rt-val">${price.toLocaleString('en-US', {maximumFractionDigits:0})}</span></div>`;
           if (!isNaN(change)) html += `<div class="rt-row"><span class="rt-label">Daily Change</span><span class="rt-val ${change >= 0 ? 'pos' : 'neg'}">${change >= 0 ? '+' : ''}${change.toFixed(2)}%</span></div>`;
           if (!isNaN(pctl5y)) {
             const qual = pctl5y >= 80 ? 'elevated' : pctl5y >= 50 ? 'above median' : pctl5y >= 20 ? 'below median' : 'depressed';
@@ -49137,7 +49200,7 @@ function escapeHtml(str) {
           const current = parseFloat(target.getAttribute('data-tt-current'));
           const severity = Math.abs(dd) > 30 ? 'Deep correction' : Math.abs(dd) > 15 ? 'Moderate pullback' : Math.abs(dd) > 5 ? 'Minor retracement' : 'Near 52-week high';
           html += `<div class="rt-row"><span class="rt-label">Drawdown</span><span class="rt-val ${dd < -15 ? 'neg' : dd > -5 ? 'pos' : ''}">${dd >= 0 ? '+' : ''}${dd.toFixed(1)}%</span></div>`;
-          if (!isNaN(high)) html += `<div class="rt-row"><span class="rt-label">52W High</span><span class="rt-val">${high.toLocaleString(undefined, {maximumFractionDigits:0})}</span></div>`;
+          if (!isNaN(high)) html += `<div class="rt-row"><span class="rt-label">52W High</span><span class="rt-val">${high.toLocaleString('en-US', {maximumFractionDigits:0})}</span></div>`;
           if (!isNaN(current) && !isNaN(high) && high > 0) {
             const pts = (current - high).toFixed(0);
             const recovery = dd < 0 ? (Math.abs(dd) / (1 + dd / 100)).toFixed(1) + '% rally needed' : 'At or above 52W high';
@@ -50312,7 +50375,7 @@ function escapeHtml(str) {
             html = `<div class="rt-title">${target.getAttribute('data-tt-grp') || 'Broker Desk'}: ${(s.route || target.getAttribute('data-tt-series'))}</div>`;
             html += `<div class="rt-row"><span class="rt-label">Series</span><span class="rt-val">${target.getAttribute('data-tt-series')}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Desk / Type</span><span class="rt-val">${s.type} · ${s.subtype}</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Latest (${s.last})</span><span class="rt-val">${Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })} ${s.unit}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Latest (${s.last})</span><span class="rt-val">${Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 })} ${s.unit}</span></div>`;
             if (s.chg_pct != null) html += `<div class="rt-row"><span class="rt-label">MoM</span><span class="rt-val ${s.chg_pct >= 0 ? 'pos' : 'neg'}">${s.chg_pct >= 0 ? '+' : ''}${s.chg_pct.toFixed(2)}%</span></div>`;
             if (s.pct_rank != null) html += `<div class="rt-row"><span class="rt-label">History Percentile</span><span class="rt-val">${s.pct_rank.toFixed(1)}th vs ${s.n} months</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">History Span</span><span class="rt-val">${s.first} → ${s.last} (${s.n}m)</span></div>`;
@@ -54107,7 +54170,7 @@ function renderFearnOverview() {
     return '<div class="tracking-kpi-card fearn-kpi-click" data-sec="' + sec + '" onclick="switchFearnSection(' + sec + ')" style="cursor:pointer;" ' + ttTile + '>' +
       '<div class="tracking-kpi-label" style="display:flex;justify-content:space-between;gap:6px;"><span style="color:' + col + ';font-weight:700;">' + escapeHtml(DESK_NAMES[t] || t) + '</span><span style="text-transform:none;letter-spacing:0;">' + escapeHtml(s.unit) + '</span>' + fearnStatusBadge(st, s) + '</div>' +
       '<div style="font-size:11px;font-weight:600;color:var(--text);margin-top:3px;white-space:normal;line-height:1.25;" title="' + escapeHtml(s.route || s.k) + '">' + escapeHtml(s.route || s.k) + '</div>' +
-      '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 })) + '</div>' +
+      '<div class="tracking-kpi-val" style="font-size:19px;">' + (s.latest == null ? '—' : Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 })) + '</div>' +
       '<div class="tracking-kpi-sub" style="' + chgStyle + '">' + chgTxt + '</div>' +
       '<div style="height:3px;background:rgba(28,35,51,0.8);border-radius:2px;margin:6px 0 4px;"><div style="height:3px;width:' + Math.max(2, Math.min(100, pr)).toFixed(0) + '%;background:' + prCol + ';opacity:0.75;border-radius:2px;"></div></div>' +
       '<div style="font-size:var(--fs-micro);color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;">P' + pr.toFixed(0) + ' · ' + s.n + 'm ' + s.first + '→' + s.last + '</div>' +
@@ -55521,9 +55584,9 @@ function renderFearnGas(kind) {
   var prCol = pr >= 80 ? 'var(--green)' : (pr >= 40 ? 'var(--yellow,#e3b341)' : 'var(--red)');
   var el = document.getElementById(kind === 'LNG' ? 'fearnLngStats' : 'fearnLpgStats');
   if (el) el.innerHTML = [
-    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 }), sub: s.unit + ' · ' + escapeHtml(prettyGasLabel(FDESK[stateKey], s)) },
+    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.unit + ' · ' + escapeHtml(prettyGasLabel(FDESK[stateKey], s)) },
     { l: 'MoM (' + (liveBase || 'vs prev') + ')', v: chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '%'), sub: s.subtype, style: chgStyle },
-    { l: 'ATH / ATL', v: Number(s.ath).toLocaleString(undefined, { maximumFractionDigits: 1 }) + ' / ' + Number(s.atl).toLocaleString(undefined, { maximumFractionDigits: 1 }), sub: 'ATH ' + (s.ath_date || '—') },
+    { l: 'ATH / ATL', v: Number(s.ath).toLocaleString('en-US', { maximumFractionDigits: 1 }) + ' / ' + Number(s.atl).toLocaleString('en-US', { maximumFractionDigits: 1 }), sub: 'ATH ' + (s.ath_date || '—') },
     { l: 'Percentile', v: pr.toFixed(1) + 'th', sub: s.n + ' months ' + s.first + '→' + s.last }
   ].map(function (c) {
     return '<div class="tracking-kpi-card"><div class="tracking-kpi-label">' + c.l + '</div>' +
@@ -56144,11 +56207,11 @@ function openFearnMonthlyModal(key) {
   var pr = s.pct_rank == null ? 0 : s.pct_rank;
   var stats = document.getElementById('fearnMusStats');
   if (stats) stats.innerHTML = [
-    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 }) + ' ' + s.unit, sub: s.subtype + ' · ' + (s.route || '') },
+    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 }) + ' ' + s.unit, sub: s.subtype + ' · ' + (s.route || '') },
     { l: 'MoM', v: chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '%'), sub: '', style: chgStyle },
     { l: 'n / span', v: s.n + ' months', sub: s.first + ' → ' + s.last },
-    { l: 'ATH', v: Number(s.ath).toLocaleString(undefined, { maximumFractionDigits: 2 }), sub: s.ath_date || '' },
-    { l: 'ATL', v: Number(s.atl).toLocaleString(undefined, { maximumFractionDigits: 2 }), sub: '' },
+    { l: 'ATH', v: Number(s.ath).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.ath_date || '' },
+    { l: 'ATL', v: Number(s.atl).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: '' },
     { l: 'Percentile', v: pr.toFixed(1) + 'th', sub: 'status ' + st }
   ].map(function (c) {
     return '<div class="tracking-kpi-card"><div class="tracking-kpi-label">' + c.l + '</div>' +
@@ -56507,10 +56570,10 @@ function renderFearnStats(cache) {
   var chg = s.chg_pct, chgStyle = chg == null ? '' : (chg >= 0 ? 'color:var(--green);' : 'color:var(--red);');
   var chgTxt = chg == null ? '—' : ((chg >= 0 ? '+' : '') + chg.toFixed(2) + '% MoM');
   var cards = [
-    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString(undefined, { maximumFractionDigits: 2 }) + ' ' + s.unit, sub: s.route || '' },
+    { l: 'Latest (' + s.last + ')', v: Number(s.latest).toLocaleString('en-US', { maximumFractionDigits: 2 }) + ' ' + s.unit, sub: s.route || '' },
     { l: 'MoM Change', v: chgTxt, sub: 'vs ' + (s.m.length > 1 ? s.m[s.m.length - 2][0] : '—'), style: chgStyle },
-    { l: 'All-Time High', v: Number(s.ath).toLocaleString(undefined, { maximumFractionDigits: 2 }), sub: s.ath_date, id: '' },
-    { l: 'All-Time Low', v: Number(s.atl).toLocaleString(undefined, { maximumFractionDigits: 2 }), sub: s.first + ' → ' + s.last, id: '' },
+    { l: 'All-Time High', v: Number(s.ath).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.ath_date, id: '' },
+    { l: 'All-Time Low', v: Number(s.atl).toLocaleString('en-US', { maximumFractionDigits: 2 }), sub: s.first + ' → ' + s.last, id: '' },
     { l: 'History Percentile', v: s.pct_rank.toFixed(1) + 'th', sub: 'latest vs ' + s.n + ' months', id: '' },
     { l: 'Unit / Subtype', v: s.unit, sub: s.subtype, id: '' }
   ];
