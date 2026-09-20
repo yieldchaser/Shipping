@@ -116,6 +116,13 @@ class SignalOceanClient:
         self.api_key = os.environ.get('SIGNAL_OCEAN_API_KEY')
         self.bearer_token = os.environ.get('SIGNAL_OCEAN_BEARER_TOKEN')
         self.cookie = cookie or os.environ.get('SIGNAL_OCEAN_COOKIE')
+        if not self.cookie:
+            session_file = REPO_ROOT / '.signal_session'
+            if session_file.exists():
+                try:
+                    self.cookie = session_file.read_text(encoding='utf-8').strip()
+                except Exception:
+                    pass
 
         if token:
             if token.lower().startswith('bearer '):

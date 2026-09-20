@@ -2,6 +2,7 @@
 .env
 .signal_session
 .signal_credentials
+.last_fleet_sync
 
 # Python
 __pycache__/
