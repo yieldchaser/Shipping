@@ -43636,10 +43636,12 @@ function initTrackingMap() {
 
   try {
     trackingMap = L.map('trackingMap', {
-      center: [20, 45],
+      center: [20, 25],
       zoom: 3,
-      minZoom: 2,
+      minZoom: 3,
       maxZoom: 16,
+      maxBounds: [[-85, -180], [85, 180]],
+      maxBoundsViscosity: 1.0,
       zoomControl: true,
       attributionControl: false,
       preferCanvas: true
@@ -44953,23 +44955,30 @@ function createFleetDotsLayer() {
       var b = this._bounds, pad = R + WEIGHT + 1;
       var minX = b.min.x - pad, minY = b.min.y - pad, maxX = b.max.x + pad, maxY = b.max.y + pad;
       var r = Math.max(Math.round(R), 1), TAU = Math.PI * 2;
+      var worldWidth = 256 * scale;
+      var startW = Math.floor((origin.x + minX) / worldWidth);
+      var endW = Math.floor((origin.x + maxX) / worldWidth);
+
       ctx.save();
       ctx.lineWidth = WEIGHT;
       ctx.strokeStyle = STROKE;
       ctx.lineCap = 'round';
       ctx.lineJoin = 'round';
       if (ctx.setLineDash) ctx.setLineDash([]);
-      for (var i = 0; i < dots.length; i++) {
-        var d = dots[i];
-        var x = Math.round(d.x0 * scale) - origin.x, y = Math.round(d.y0 * scale) - origin.y;
-        if (x < minX || x > maxX || y < minY || y > maxY) continue;
-        ctx.beginPath();
-        ctx.arc(x, y, r, 0, TAU, false);
-        ctx.globalAlpha = FILL_OPACITY;
-        ctx.fillStyle = d.color;
-        ctx.fill('evenodd');
-        ctx.globalAlpha = 1;
-        ctx.stroke();
+      for (var w = startW; w <= endW; w++) {
+        var xOffset = w * worldWidth - origin.x;
+        for (var i = 0; i < dots.length; i++) {
+          var d = dots[i];
+          var x = Math.round(d.x0 * scale) + xOffset, y = Math.round(d.y0 * scale) - origin.y;
+          if (x < minX || x > maxX || y < minY || y > maxY) continue;
+          ctx.beginPath();
+          ctx.arc(x, y, r, 0, TAU, false);
+          ctx.globalAlpha = FILL_OPACITY;
+          ctx.fillStyle = d.color;
+          ctx.fill('evenodd');
+          ctx.globalAlpha = 1;
+          ctx.stroke();
+        }
       }
       ctx.restore();
     },
@@ -44977,10 +44986,13 @@ function createFleetDotsLayer() {
       var map = this._map, dots = this._dots;
       if (!map || !dots.length) return null;
       var pt = map.mouseEventToLayerPoint(e), scale = Math.pow(2, map.getZoom()), origin = map.getPixelOrigin();
+      var worldWidth = 256 * scale;
+      var absX = origin.x + pt.x;
+      var normX = ((absX % worldWidth) + worldWidth) % worldWidth;
       var found = null;
       for (var i = 0; i < dots.length; i++) {
         var d = dots[i];
-        var dx = Math.round(d.x0 * scale) - origin.x - pt.x, dy = Math.round(d.y0 * scale) - origin.y - pt.y;
+        var dx = Math.round(d.x0 * scale) - normX, dy = Math.round(d.y0 * scale) - origin.y - pt.y;
         if (dx * dx + dy * dy <= HIT * HIT) found = d;   // last drawn wins, as in L.Canvas
       }
       return found;
@@ -51767,9 +51779,11 @@ function initBunkerGeoMap() {
   try {
     bunkerGeoMap = L.map('bunkerGeoMap', {
       center: [20, 20],
-      zoom: 2,
-      minZoom: 2,
+      zoom: 3,
+      minZoom: 3,
       maxZoom: 14,
+      maxBounds: [[-85, -180], [85, 180]],
+      maxBoundsViscosity: 1.0,
       zoomControl: true,
       attributionControl: false,
       preferCanvas: true
