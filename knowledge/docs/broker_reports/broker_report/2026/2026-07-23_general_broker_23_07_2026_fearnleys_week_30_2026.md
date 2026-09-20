@@ -200,7 +200,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_23_07_2026_fearnleys_week_30_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_23_07_2026_fearnleys_week_30_2026.md
 source_stem: general_broker_23_07_2026_fearnleys_week_30_2026
 source_url: https://www.hellenicshippingnews.com/fearnleys-week-30-2026/
 summary: 'Fearnleys Week 30 2026

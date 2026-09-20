@@ -246,7 +246,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_07_09_2026_ssy_pacific_capesize_index_7_september_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_07_09_2026_ssy_pacific_capesize_index_7_september_2026.md
 source_stem: general_broker_07_09_2026_ssy_pacific_capesize_index_7_september_2026
 source_url: https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-7-september-2026/
 summary: 'SSY PACIFIC CAPESIZE INDEX 7 SEPTEMBER 2026

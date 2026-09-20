@@ -13,25 +13,20 @@ document_type: broker_report
 is_error_page: false
 key_entities:
 - China
-- Brazil
-- Australia
-- Atlantic basin
-- Pacific basin
-- Middle East
 keywords:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
 - aframax
 - lng
 - lpg
 - container
 - china
-- brazil
-market_tone: constructive
+- atlantic
+- india
+market_tone: neutral
 numeric_observation_count: 93
 numeric_observations:
 - section: Carriers Sales & Purchase Market Report, Week 31
@@ -816,53 +811,57 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_03_08_2026_carriers_sales_purchase_market_report_week_31.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_03_08_2026_carriers_sales_purchase_market_report_week_31.md
 source_stem: general_broker_03_08_2026_carriers_sales_purchase_market_report_week_31
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-31-3/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 31
+summary: 'Carriers Sales & Purchase Market Report, Week 31
 
   **Broker**: General Broker
 
   **Published Date**: 03/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/)
+  **Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-31-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-31-3/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 31 | August 1st, 2026
+  Week 31, 3rd August 2026
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  SALES & PURCHASE MARKET REPORT
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
+  Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.
+  Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
 
-  WEEKLY MARKET REPORT
+  Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
 
-  WEEK 31 · August 1st, 2026
+  1 | P a g e
 
-  MARKET OVERVIEW
+  Second-hand Market
 
-  Daily merchant vessel crossings through the Strait of Hormuz have begun to recover
-  from recent lows,
+  Bulk Carriers Reported Sold
 
-  supported in part by active naval escort operations aimed at safeguarding energy
-  exports. Recent
+  NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
 
-  tracking data highlights a notable uptick in transit volumes, marked by the open
-  departure of Qatar''s first
+  ASANAGI BC 182,162 2022 Tadotsu Shipyard Co Ltd 50,000,000 UNDISCLOSED FWD DELY
 
-  LNG shipment in several weeks alongside specialised gas carriers navigating with
-  dark transponders. While security risks in the Persian Gulf remain fluid following
-  recent military exchanges, daily energy
+  ANGLO MARIE LOUISE BC 114,674 2011 New Times Shipbuilding Co 20,000,000 UNDISCLOSED
 
-  outflows have stabilised near six and a half million barrels.'
+  ANGLO JESSICA BC 114,664 2010 New Times Shipbuilding Co 20,000,000 UNDISCLOSED
+
+  ANGLO ALEXANDRIA BC 114,248 2011 New Times Shipbuilding Co 20,000,000 UNDISCLOSED
+
+  NORD ANTARES BC 82,258 2022 Jiangsu Yangzi-Mitsui SB 37,500,000 NOVA MARINE
+
+  NORD ANDROMEDA BC 82,251 2022 Jiangsu Yangzi-Mitsui SB 37,500,000 NOVA MARINE
+
+  VELOS JASPER BC 82,167 2'
 themes:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
+- aframax
 title: Carriers Sales & Purchase Market Report, Week 31
 vessel_classes:
 - capesize
@@ -878,23 +877,27 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 31
+Carriers Sales & Purchase Market Report, Week 31
 **Broker**: General Broker
 **Published Date**: 03/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/)
+**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-31-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-31-3/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 31 | August 1st, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 31 · August 1st, 2026
-MARKET OVERVIEW
-Daily merchant vessel crossings through the Strait of Hormuz have begun to recover from recent lows,
-supported in part by active naval escort operations aimed at safeguarding energy exports. Recent
-tracking data highlights a notable uptick in transit volumes, marked by the open departure of Qatar's first
-LNG shipment in several weeks alongside specialised gas carriers navigating with dark transponders. While security risks in the Persian Gulf remain fluid following recent military exchanges, daily energy
-outflows have stabilised near six and a half million barrels.
+Week 31, 3rd August 2026
+SALES & PURCHASE MARKET REPORT
+Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
+Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
+1 | P a g e
+Second-hand Market
+Bulk Carriers Reported Sold
+NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
+ASANAGI BC 182,162 2022 Tadotsu Shipyard Co Ltd 50,000,000 UNDISCLOSED FWD DELY
+ANGLO MARIE LOUISE BC 114,674 2011 New Times Shipbuilding Co 20,000,000 UNDISCLOSED
+ANGLO JESSICA BC 114,664 2010 New Times Shipbuilding Co 20,000,000 UNDISCLOSED
+ANGLO ALEXANDRIA BC 114,248 2011 New Times Shipbuilding Co 20,000,000 UNDISCLOSED
+NORD ANTARES BC 82,258 2022 Jiangsu Yangzi-Mitsui SB 37,500,000 NOVA MARINE
+NORD ANDROMEDA BC 82,251 2022 Jiangsu Yangzi-Mitsui SB 37,500,000 NOVA MARINE
+VELOS JASPER BC 82,167 2
 
 ## Carriers Sales & Purchase Market Report, Week 31
 **Broker**: General Broker

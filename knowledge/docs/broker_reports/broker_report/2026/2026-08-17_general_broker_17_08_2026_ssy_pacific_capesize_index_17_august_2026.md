@@ -10,27 +10,21 @@ date: '2026-08-17'
 doc_id: broker_reports_broker_report_2026-08-17_general_broker_17_08_2026_ssy_pacific_capesize_index_17_august_2026
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- OPEC
-- Middle East
-- US Gulf
+key_entities: []
 keywords:
 - capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
-- aframax
-- lng
-- lpg
-- container
-- china
-- brazil
-market_tone: constructive
+- pacific
+- europe
+- japan
+- any
+- information
+- ssy
+- change
+- dwt
+- not
+- t/c
+- are
+market_tone: neutral
 numeric_observation_count: 23
 numeric_observations:
 - section: SSY PACIFIC CAPESIZE INDEX 17 AUGUST 2026
@@ -248,55 +242,72 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_17_08_2026_ssy_pacific_capesize_index_17_august_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_17_08_2026_ssy_pacific_capesize_index_17_august_2026.md
 source_stem: general_broker_17_08_2026_ssy_pacific_capesize_index_17_august_2026
 source_url: https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-17-august-2026/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 33
+summary: 'SSY PACIFIC CAPESIZE INDEX 17 AUGUST 2026
 
   **Broker**: General Broker
 
   **Published Date**: 17/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/)
+  **Source URL**: [https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-17-august-2026/](https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-17-august-2026/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 33 | August 15th, 2026
+  17th August 2026
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  07/08/2026 14/08/2026
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
+  Trade Cargo Size Weight $/t $/t
 
-  WEEKLY MARKET REPORT
+  RICHARDS BAY/MUNDRA 150,000/10% 10% 19.60 19.45
 
-  WEEK 33 · August 15th, 2026
+  DAMPIER/QINGDAO 170,000/10% 10% 16.30 14.10
 
-  MARKET OVERVIEW
+  SALDAHNA BAY/QINGDAO 170,000/10% 10% 26.30 26.15
 
-  The cascading effects of ongoing Middle Eastern maritime disruptions are generating
-  unprecedented
+  RICHARDS BAY/FANGCHENG 150,000/10% 10% 26.45 26.30
 
-  congestion across alternative global trade arteries, most notably along the Panama
-  Canal. With primary
+  CAPE LAMBERT/ROTTERDAM 160,000/10% 10% 18.15 17.50
 
-  transit corridors through the Persian Gulf and the southern Red Sea heavily constrained,
-  international
+  QUEENSLAND/JAPAN 150,000/10% 10% 20.40 18.25
 
-  operators moving containerised freight, energy, and chemical commodities have increasingly
-  pivoted
+  QUEENSLAND/ROTTERDAM 150,000/10% 10% 26.35 25.60
 
-  toward Pacific-to-Atlantic routings. This has triggered severe logistical bottlenecks,
-  stretching waiting
+  NSW/ZHOUSHAN 130,000/10% 10% 20.85 18.70
 
-  times for unbooked large-capacity vessels to well over a week.'
+  T/C TRIP FAR EAST/CONT 180,000 DWT 10% 2.28 1.90
+
+  T/C TRANSPACIFIC ROUND 180,000 DWT 10% 8.70 6.88
+
+  Calculated Index 10,850 10,048
+
+  Change on Previous Index +1,487 -802
+
+  Change on Four Weeks Ago +1,477 +1,215
+
+  Change on Previous Year +3,801 +3,225
+
+  Change on Two Years Ago +4,720 +3,685
+
+  $/Day $/Day
+
+  T/C TRIP FAR EAST/CONT 180,000 DWT 13,500 11,250
+
+  T/C TRANSPACIFIC ROUND 180,000 DWT 51,500 40,750
+
+  SSY Paciﬁc Capesize Index
+
+  Paciﬁc Capesize Index London: +4'
 themes:
 - capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
+- pacific
+- europe
+- japan
+- any
+- information
 title: SSY PACIFIC CAPESIZE INDEX 17 AUGUST 2026
 vessel_classes:
 - capesize
@@ -310,24 +321,35 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 33
+SSY PACIFIC CAPESIZE INDEX 17 AUGUST 2026
 **Broker**: General Broker
 **Published Date**: 17/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/)
+**Source URL**: [https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-17-august-2026/](https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-17-august-2026/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 33 | August 15th, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 33 · August 15th, 2026
-MARKET OVERVIEW
-The cascading effects of ongoing Middle Eastern maritime disruptions are generating unprecedented
-congestion across alternative global trade arteries, most notably along the Panama Canal. With primary
-transit corridors through the Persian Gulf and the southern Red Sea heavily constrained, international
-operators moving containerised freight, energy, and chemical commodities have increasingly pivoted
-toward Pacific-to-Atlantic routings. This has triggered severe logistical bottlenecks, stretching waiting
-times for unbooked large-capacity vessels to well over a week.
+17th August 2026
+07/08/2026 14/08/2026
+Trade Cargo Size Weight $/t $/t
+RICHARDS BAY/MUNDRA 150,000/10% 10% 19.60 19.45
+DAMPIER/QINGDAO 170,000/10% 10% 16.30 14.10
+SALDAHNA BAY/QINGDAO 170,000/10% 10% 26.30 26.15
+RICHARDS BAY/FANGCHENG 150,000/10% 10% 26.45 26.30
+CAPE LAMBERT/ROTTERDAM 160,000/10% 10% 18.15 17.50
+QUEENSLAND/JAPAN 150,000/10% 10% 20.40 18.25
+QUEENSLAND/ROTTERDAM 150,000/10% 10% 26.35 25.60
+NSW/ZHOUSHAN 130,000/10% 10% 20.85 18.70
+T/C TRIP FAR EAST/CONT 180,000 DWT 10% 2.28 1.90
+T/C TRANSPACIFIC ROUND 180,000 DWT 10% 8.70 6.88
+Calculated Index 10,850 10,048
+Change on Previous Index +1,487 -802
+Change on Four Weeks Ago +1,477 +1,215
+Change on Previous Year +3,801 +3,225
+Change on Two Years Ago +4,720 +3,685
+$/Day $/Day
+T/C TRIP FAR EAST/CONT 180,000 DWT 13,500 11,250
+T/C TRANSPACIFIC ROUND 180,000 DWT 51,500 40,750
+SSY Paciﬁc Capesize Index
+Paciﬁc Capesize Index London: +4
 
 ## SSY PACIFIC CAPESIZE INDEX 17 AUGUST 2026
 **Broker**: General Broker

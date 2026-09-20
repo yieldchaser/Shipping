@@ -681,7 +681,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/agora_11_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md
+source_path: reports/broker_reports/2026/agora/agora_11_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator.md
 source_stem: agora_11_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator
 source_url: https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-37-2026/
 summary: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report

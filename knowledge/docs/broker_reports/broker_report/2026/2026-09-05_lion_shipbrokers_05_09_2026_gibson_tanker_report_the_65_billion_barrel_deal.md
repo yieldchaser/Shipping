@@ -59,7 +59,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/lion_shipbrokers_05_09_2026_gibson_tanker_report_the_65_billion_barrel_deal.md
+source_path: reports/broker_reports/2026/lion/lion_shipbrokers_05_09_2026_gibson_tanker_report_the_65_billion_barrel_deal.md
 source_stem: lion_shipbrokers_05_09_2026_gibson_tanker_report_the_65_billion_barrel_deal
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-the-65-billion-barrel-deal/
 summary: 'Gibson tanker report - The 65 Billion Barrel Deal

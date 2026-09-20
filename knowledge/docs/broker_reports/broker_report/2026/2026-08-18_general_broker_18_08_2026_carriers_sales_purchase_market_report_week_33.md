@@ -12,26 +12,21 @@ date: '2026-08-18'
 doc_id: broker_reports_broker_report_2026-08-18_general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- Middle East
-- US Gulf
+key_entities: []
 keywords:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
 - aframax
 - lng
+- lpg
 - container
 - china
-- brazil
-- australia
-market_tone: constructive
+- atlantic
+- steel
+market_tone: neutral
 numeric_observation_count: 89
 numeric_observations:
 - section: Carriers Sales & Purchase Market Report, Week 33
@@ -770,54 +765,58 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33.md
 source_stem: general_broker_18_08_2026_carriers_sales_purchase_market_report_week_33
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/
-summary: 'Xclusiv Shipbrokers Weekly 17th August 2026
+summary: 'Carriers Sales & Purchase Market Report, Week 33
 
-  **Broker**: Xclusiv
+  **Broker**: General Broker
 
   **Published Date**: 18/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-17th-august-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-17th-august-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/)
 
 
   Market Report Content
 
-  Dry Bulk Deals Gather Pace
+  Week 33, 17th August 2026
 
-  The dry bulk Sale & Purchase market remained highly ac-
+  SALES & PURCHASE MARKET REPORT
 
-  tive during the first seven months of 2026, with 496 bulk
+  Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.
+  Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
 
-  carriers changing hands, compared to 428 vessels during
+  Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
 
-  the corresponding period of 2025, representing a 16%
+  1 | P a g e
 
-  year-on-year increase. Activity accelerated particularly
+  Second-hand Market
 
-  during May, when a remarkable 90 transactions were
+  Bulk Carriers Reported Sold
 
-  concluded, making it the busiest month of the year, while
+  NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
 
-  monthly sales remained consistently above 2025 levels
+  JIAN FA BC 175,085 2004 Shanghai Waigaoqiao Shbldg 18,500,000 UNDISCLOSED Scrubber
+  fitted
 
-  for most of the period. The sustained level of transactions
+  BBG WUZHOU BC 81,895 2016 Tsuneishi Zhoushan Shbldg 29,000,000 UNDISCLOSED
 
-  reflects continued confidence in dry bulk asset values,
+  PRESINGE BC 81,886 2015 Tsuneishi Zhoushan Shbldg 31,000,000 UNDISCLOSED
 
-  supported by a healthier freight environment and im-
+  KARTINI SAMUDRA BC 73,592 2004 Daewoo Shipbuilding 7,800,000 CHINESE
 
-  proving underlying market fundamentals compared to
+  GRAMOS BC 61,171 2019 Nantong COSCO KHI Ship 34,500,000 GREEK
 
-  last year.'
+  GLOBAL ORIOLE BC 58,716 2012 Nantong COSCO KHI Ship 19,00,000 UNDISCLOSED
+
+  LILA MUNDRA BC 57,269 2009 STX Dalian Shipbuilding Co 12,500,00'
 themes:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
+- aframax
 title: Carriers Sales & Purchase Market Report, Week 33
 vessel_classes:
 - capesize
@@ -833,26 +832,27 @@ vessel_classes:
 ---
 
 ## Summary
-Xclusiv Shipbrokers Weekly 17th August 2026
-**Broker**: Xclusiv
+Carriers Sales & Purchase Market Report, Week 33
+**Broker**: General Broker
 **Published Date**: 18/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-17th-august-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-17th-august-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-33/)
 
 Market Report Content
-Dry Bulk Deals Gather Pace
-The dry bulk Sale & Purchase market remained highly ac-
-tive during the first seven months of 2026, with 496 bulk
-carriers changing hands, compared to 428 vessels during
-the corresponding period of 2025, representing a 16%
-year-on-year increase. Activity accelerated particularly
-during May, when a remarkable 90 transactions were
-concluded, making it the busiest month of the year, while
-monthly sales remained consistently above 2025 levels
-for most of the period. The sustained level of transactions
-reflects continued confidence in dry bulk asset values,
-supported by a healthier freight environment and im-
-proving underlying market fundamentals compared to
-last year.
+Week 33, 17th August 2026
+SALES & PURCHASE MARKET REPORT
+Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
+Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
+1 | P a g e
+Second-hand Market
+Bulk Carriers Reported Sold
+NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
+JIAN FA BC 175,085 2004 Shanghai Waigaoqiao Shbldg 18,500,000 UNDISCLOSED Scrubber fitted
+BBG WUZHOU BC 81,895 2016 Tsuneishi Zhoushan Shbldg 29,000,000 UNDISCLOSED
+PRESINGE BC 81,886 2015 Tsuneishi Zhoushan Shbldg 31,000,000 UNDISCLOSED
+KARTINI SAMUDRA BC 73,592 2004 Daewoo Shipbuilding 7,800,000 CHINESE
+GRAMOS BC 61,171 2019 Nantong COSCO KHI Ship 34,500,000 GREEK
+GLOBAL ORIOLE BC 58,716 2012 Nantong COSCO KHI Ship 19,00,000 UNDISCLOSED
+LILA MUNDRA BC 57,269 2009 STX Dalian Shipbuilding Co 12,500,00
 
 ## Carriers Sales & Purchase Market Report, Week 33
 **Broker**: General Broker

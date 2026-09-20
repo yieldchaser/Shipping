@@ -1064,7 +1064,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/lion_shipbrokers_18_09_2026_lion_shipbrokers_weekly_market_report_week_38_2026.md
+source_path: reports/broker_reports/2026/lion/lion_shipbrokers_18_09_2026_lion_shipbrokers_weekly_market_report_week_38_2026.md
 source_stem: lion_shipbrokers_18_09_2026_lion_shipbrokers_weekly_market_report_week_38_2026
 source_url: https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-38-2026/
 summary: 'Lion Shipbrokers Weekly Market Report, Week 38 2026

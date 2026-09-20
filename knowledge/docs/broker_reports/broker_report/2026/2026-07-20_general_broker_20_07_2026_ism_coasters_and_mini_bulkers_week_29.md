@@ -11,26 +11,21 @@ date: '2026-07-20'
 doc_id: broker_reports_broker_report_2026-07-20_general_broker_20_07_2026_ism_coasters_and_mini_bulkers_week_29
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- Atlantic basin
-- Middle East
+key_entities: []
 keywords:
-- capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
-- aframax
-- lng
-- lpg
-- container
-- china
-- brazil
-market_tone: constructive
+- europe
+- grain
+- steel
+- dwcc
+- are
+- sea
+- shipments
+- vessels
+- ports
+- coaster
+- vsl
+- year
+market_tone: neutral
 numeric_observation_count: 46
 numeric_observations:
 - section: ISM coasters and mini bulkers - Week 29
@@ -367,56 +362,50 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_20_07_2026_ism_coasters_and_mini_bulkers_week_29.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_20_07_2026_ism_coasters_and_mini_bulkers_week_29.md
 source_stem: general_broker_20_07_2026_ism_coasters_and_mini_bulkers_week_29
 source_url: https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-29-3/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 29
+summary: 'ISM coasters and mini bulkers - Week 29
 
   **Broker**: General Broker
 
   **Published Date**: 20/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/)
+  **Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-29-3/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-29-3/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 29 | July 17th, 2026
+  CHARTERING MARKET AT HAND:
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  COASTERS AND MINIBULKERS // WEEK 29
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
+  Coaster market divergence: frates soar ex Ukraine, while EU and MENA come
 
-  WEEKLY MARKET REPORT
+  under heavier pressure
 
-  WEEK 29 · JULY 17TH, 2026
+  As expected, the small-tonnage shipping market
 
-  MARKET OVERVIEW
+  has undergone considerable structural shifts as a result
 
-  The global sectors are monitoring shifting economic indicators out of East Asia,
-  where China''s central
+  of the escalation of the air and naval conflict between
 
-  bank is moving to implement stronger counter-cyclical and cross-cyclical measures
-  to bolster its
+  Russia and Ukraine. Following several Russian attacks
 
-  domestic economy. Following official data showing that second-quarter GDP growth
-  moderated to 4.3%
+  on vessels in the area of the Greater Odessa ports,
 
-  falling below the national target and marking the softest expansion in several seasons
-  , monetary
+  shipowners have started refusing en masse to call
 
-  authorities have indicated they will deploy a flexible suite of financial tools,
-  including reserve requirement
+  at Ukrainian ports . Most subs have not been finally
 
-  ratio cuts and reverse repos, to support liquidity. While aggregate financing and
-  new loans for June'
+  lifted, and many shipments have been cancelled.'
 themes:
-- capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
+- europe
+- grain
+- steel
+- dwcc
+- are
+- sea
 title: ISM coasters and mini bulkers - Week 29
 vessel_classes:
 - capesize
@@ -430,24 +419,24 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 29
+ISM coasters and mini bulkers - Week 29
 **Broker**: General Broker
 **Published Date**: 20/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/)
+**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-29-3/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-29-3/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 29 | July 17th, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 29 · JULY 17TH, 2026
-MARKET OVERVIEW
-The global sectors are monitoring shifting economic indicators out of East Asia, where China's central
-bank is moving to implement stronger counter-cyclical and cross-cyclical measures to bolster its
-domestic economy. Following official data showing that second-quarter GDP growth moderated to 4.3%
-falling below the national target and marking the softest expansion in several seasons , monetary
-authorities have indicated they will deploy a flexible suite of financial tools, including reserve requirement
-ratio cuts and reverse repos, to support liquidity. While aggregate financing and new loans for June
+CHARTERING MARKET AT HAND:
+COASTERS AND MINIBULKERS // WEEK 29
+Coaster market divergence: frates soar ex Ukraine, while EU and MENA come
+under heavier pressure
+As expected, the small-tonnage shipping market
+has undergone considerable structural shifts as a result
+of the escalation of the air and naval conflict between
+Russia and Ukraine. Following several Russian attacks
+on vessels in the area of the Greater Odessa ports,
+shipowners have started refusing en masse to call
+at Ukrainian ports . Most subs have not been finally
+lifted, and many shipments have been cancelled.
 
 ## ISM coasters and mini bulkers - Week 29
 **Broker**: General Broker

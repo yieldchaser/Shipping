@@ -52,7 +52,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2024/general_broker_25_06_2024_day_of_the_seafarer_2024.md
+source_path: reports/broker_reports/2024/general_broker/general_broker_25_06_2024_day_of_the_seafarer_2024.md
 source_stem: general_broker_25_06_2024_day_of_the_seafarer_2024
 source_url: https://www.hellenicshippingnews.com/day-of-the-seafarer-2024/
 summary: 'Day of the Seafarer 2024

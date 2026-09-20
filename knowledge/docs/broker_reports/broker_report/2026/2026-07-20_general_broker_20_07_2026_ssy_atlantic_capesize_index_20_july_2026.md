@@ -10,26 +10,21 @@ date: '2026-07-20'
 doc_id: broker_reports_broker_report_2026-07-20_general_broker_20_07_2026_ssy_atlantic_capesize_index_20_july_2026
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- Atlantic basin
-- Middle East
+key_entities: []
 keywords:
 - capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
-- aframax
-- lng
-- lpg
-- container
-- china
 - brazil
-market_tone: constructive
+- atlantic
+- europe
+- japan
+- any
+- information
+- ssy
+- change
+- dwt
+- not
+- t/c
+market_tone: neutral
 numeric_observation_count: 23
 numeric_observations:
 - section: SSY ATLANTIC CAPESIZE INDEX 20 JULY 2026
@@ -248,56 +243,72 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_20_07_2026_ssy_atlantic_capesize_index_20_july_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_20_07_2026_ssy_atlantic_capesize_index_20_july_2026.md
 source_stem: general_broker_20_07_2026_ssy_atlantic_capesize_index_20_july_2026
 source_url: https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-20-july-2026/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 29
+summary: 'SSY ATLANTIC CAPESIZE INDEX 20 JULY 2026
 
   **Broker**: General Broker
 
   **Published Date**: 20/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/)
+  **Source URL**: [https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-20-july-2026/](https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-20-july-2026/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 29 | July 17th, 2026
+  20th July 2026
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  10/07/2026 17/07/2026
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
+  Trade Cargo Size Weight $/t $/t
 
-  WEEKLY MARKET REPORT
+  NARVIK/ROTTERDAM 150,000/10% 10% 9.15 8.80
 
-  WEEK 29 · JULY 17TH, 2026
+  TUBARAO/ROTTERDAM 170,000/10% 10% 15.65 15.05
 
-  MARKET OVERVIEW
+  RICHARDS BAY/ROTTERDAM 150,000/10% 10% 15.80 15.20
 
-  The global sectors are monitoring shifting economic indicators out of East Asia,
-  where China''s central
+  SEVEN ISLANDS/ROTTERDAM 170,000/10% 10% 14.45 13.80
 
-  bank is moving to implement stronger counter-cyclical and cross-cyclical measures
-  to bolster its
+  PUERTO BOLIVAR/ROTTERDAM 160,000/10% 10% 19.95 19.30
 
-  domestic economy. Following official data showing that second-quarter GDP growth
-  moderated to 4.3%
+  NOUADHIBOU/QINGDAO 170,000/10% 10% 32.10 31.80
 
-  falling below the national target and marking the softest expansion in several seasons
-  , monetary
+  TUBARAO/JAPAN 160,000/10% 10% 32.70 32.40
 
-  authorities have indicated they will deploy a flexible suite of financial tools,
-  including reserve requirement
+  TUBARAO/QINGDAO 160,000/10% 10% 33.00 32.70
 
-  ratio cuts and reverse repos, to support liquidity. While aggregate financing and
-  new loans for June'
+  T/C TRIP CONT/FAR EAST 180,000 DWT 10% 12.73 11.97
+
+  T/C TRANSATLANTIC ROUND 180,000 DWT 10% 8.15 7.63
+
+  Calculated Index 14,465 14,028
+
+  Change on Previous Index +1,314 -437
+
+  Change on Four Weeks Ago -767 +134
+
+  Change on Previous Year +5,876 +3,722
+
+  Change on Two Years Ago +2,996 +2,645
+
+  $/Day $/Day
+
+  T/C TRIP CONT/FAR EAST 180,000 DWT 75,350 70,850
+
+  T/C TRANSATLANTIC ROUND 180,000 DWT 48,250 45,150
+
+  SSY Atlantic Capesize Index
+
+  Atlantic Capesize Index London: +44'
 themes:
 - capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
+- brazil
+- atlantic
+- europe
+- japan
+- any
 title: SSY ATLANTIC CAPESIZE INDEX 20 JULY 2026
 vessel_classes:
 - capesize
@@ -311,24 +322,35 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 29
+SSY ATLANTIC CAPESIZE INDEX 20 JULY 2026
 **Broker**: General Broker
 **Published Date**: 20/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/)
+**Source URL**: [https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-20-july-2026/](https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-20-july-2026/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 29 | July 17th, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 29 · JULY 17TH, 2026
-MARKET OVERVIEW
-The global sectors are monitoring shifting economic indicators out of East Asia, where China's central
-bank is moving to implement stronger counter-cyclical and cross-cyclical measures to bolster its
-domestic economy. Following official data showing that second-quarter GDP growth moderated to 4.3%
-falling below the national target and marking the softest expansion in several seasons , monetary
-authorities have indicated they will deploy a flexible suite of financial tools, including reserve requirement
-ratio cuts and reverse repos, to support liquidity. While aggregate financing and new loans for June
+20th July 2026
+10/07/2026 17/07/2026
+Trade Cargo Size Weight $/t $/t
+NARVIK/ROTTERDAM 150,000/10% 10% 9.15 8.80
+TUBARAO/ROTTERDAM 170,000/10% 10% 15.65 15.05
+RICHARDS BAY/ROTTERDAM 150,000/10% 10% 15.80 15.20
+SEVEN ISLANDS/ROTTERDAM 170,000/10% 10% 14.45 13.80
+PUERTO BOLIVAR/ROTTERDAM 160,000/10% 10% 19.95 19.30
+NOUADHIBOU/QINGDAO 170,000/10% 10% 32.10 31.80
+TUBARAO/JAPAN 160,000/10% 10% 32.70 32.40
+TUBARAO/QINGDAO 160,000/10% 10% 33.00 32.70
+T/C TRIP CONT/FAR EAST 180,000 DWT 10% 12.73 11.97
+T/C TRANSATLANTIC ROUND 180,000 DWT 10% 8.15 7.63
+Calculated Index 14,465 14,028
+Change on Previous Index +1,314 -437
+Change on Four Weeks Ago -767 +134
+Change on Previous Year +5,876 +3,722
+Change on Two Years Ago +2,996 +2,645
+$/Day $/Day
+T/C TRIP CONT/FAR EAST 180,000 DWT 75,350 70,850
+T/C TRANSATLANTIC ROUND 180,000 DWT 48,250 45,150
+SSY Atlantic Capesize Index
+Atlantic Capesize Index London: +44
 
 ## SSY ATLANTIC CAPESIZE INDEX 20 JULY 2026
 **Broker**: General Broker

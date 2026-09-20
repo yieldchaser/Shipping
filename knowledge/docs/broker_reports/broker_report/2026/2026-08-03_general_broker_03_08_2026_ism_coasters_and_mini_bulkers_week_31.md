@@ -13,24 +13,20 @@ document_type: broker_report
 is_error_page: false
 key_entities:
 - China
-- Brazil
 - Australia
-- Atlantic basin
-- Pacific basin
-- Middle East
 keywords:
-- capesize
 - panamax
 - supramax
 - handysize
-- vlcc
-- suezmax
-- aframax
-- lng
-- lpg
-- container
 - china
-- brazil
+- australia
+- atlantic
+- pacific
+- europe
+- india
+- coal
+- grain
+- crude_oil
 market_tone: constructive
 numeric_observation_count: 32
 numeric_observations:
@@ -300,53 +296,50 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_03_08_2026_ism_coasters_and_mini_bulkers_week_31.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_03_08_2026_ism_coasters_and_mini_bulkers_week_31.md
 source_stem: general_broker_03_08_2026_ism_coasters_and_mini_bulkers_week_31
 source_url: https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-31-3/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 31
+summary: 'ISM coasters and mini bulkers - Week 31
 
   **Broker**: General Broker
 
   **Published Date**: 03/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/)
+  **Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-31-3/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-31-3/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 31 | August 1st, 2026
+  CHARTERING MARKET AT HAND:
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  HANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 31
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
+  Handy/Supra market: pressure persists in USG and ECSA, Continent remains flat,
 
-  WEEKLY MARKET REPORT
+  while the Black Sea faces mounting disruption
 
-  WEEK 31 · August 1st, 2026
+  The Supramax/Ultramax market continues to
 
-  MARKET OVERVIEW
+  weaken in both the USG and ECSA due to extremely
 
-  Daily merchant vessel crossings through the Strait of Hormuz have begun to recover
-  from recent lows,
+  moderate cargo volumes seen for 1H August. Market
 
-  supported in part by active naval escort operations aimed at safeguarding energy
-  exports. Recent
+  participants attribute the current lull to the traditional
 
-  tracking data highlights a notable uptick in transit volumes, marked by the open
-  departure of Qatar''s first
+  vacation season and expect demand to pick up no
 
-  LNG shipment in several weeks alongside specialised gas carriers navigating with
-  dark transponders. While security risks in the Persian Gulf remain fluid following
-  recent military exchanges, daily energy
+  earlier than the end of August. At the moment, rates
 
-  outflows have stabilised near six and a half million barrels.'
+  are falling across all trades, with most significant
+
+  declines reported on transatlantic routes.'
 themes:
-- capesize
 - panamax
 - supramax
 - handysize
-- vlcc
-- suezmax
+- china
+- australia
+- atlantic
 title: ISM coasters and mini bulkers - Week 31
 vessel_classes:
 - capesize
@@ -360,23 +353,24 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 31
+ISM coasters and mini bulkers - Week 31
 **Broker**: General Broker
 **Published Date**: 03/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-31-5/)
+**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-31-3/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-31-3/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 31 | August 1st, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 31 · August 1st, 2026
-MARKET OVERVIEW
-Daily merchant vessel crossings through the Strait of Hormuz have begun to recover from recent lows,
-supported in part by active naval escort operations aimed at safeguarding energy exports. Recent
-tracking data highlights a notable uptick in transit volumes, marked by the open departure of Qatar's first
-LNG shipment in several weeks alongside specialised gas carriers navigating with dark transponders. While security risks in the Persian Gulf remain fluid following recent military exchanges, daily energy
-outflows have stabilised near six and a half million barrels.
+CHARTERING MARKET AT HAND:
+HANDYSIZE AND SUPRAMAX/ULTRAMAX// WEEK 31
+Handy/Supra market: pressure persists in USG and ECSA, Continent remains flat,
+while the Black Sea faces mounting disruption
+The Supramax/Ultramax market continues to
+weaken in both the USG and ECSA due to extremely
+moderate cargo volumes seen for 1H August. Market
+participants attribute the current lull to the traditional
+vacation season and expect demand to pick up no
+earlier than the end of August. At the moment, rates
+are falling across all trades, with most significant
+declines reported on transatlantic routes.
 
 ## ISM coasters and mini bulkers - Week 31
 **Broker**: General Broker

@@ -546,7 +546,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/affinity_12_09_2026_affinity_tanker_weekly_11_september_2026.md
+source_path: reports/broker_reports/2026/affinity/affinity_12_09_2026_affinity_tanker_weekly_11_september_2026.md
 source_stem: affinity_12_09_2026_affinity_tanker_weekly_11_september_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-11-september-2026/
 summary: 'Affinity Tanker Weekly, 11 September 2026

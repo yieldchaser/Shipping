@@ -67,7 +67,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2024/general_broker_24_05_2024_flex_lng_q1_2024_key_takeaways_video.md
+source_path: reports/broker_reports/2024/general_broker/general_broker_24_05_2024_flex_lng_q1_2024_key_takeaways_video.md
 source_stem: general_broker_24_05_2024_flex_lng_q1_2024_key_takeaways_video
 source_url: https://www.hellenicshippingnews.com/flex-lng-q1-2024-key-takeaways-video/
 summary: 'Flex LNG Q1 2024 Key Takeaways Video

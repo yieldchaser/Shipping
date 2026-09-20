@@ -52,7 +52,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2024/general_broker_26_05_2024_flange_mounted_upending_tool_fmut.md
+source_path: reports/broker_reports/2024/general_broker/general_broker_26_05_2024_flange_mounted_upending_tool_fmut.md
 source_stem: general_broker_26_05_2024_flange_mounted_upending_tool_fmut
 source_url: https://www.hellenicshippingnews.com/flange-mounted-upending-tool-fmut/
 summary: 'Flange Mounted Upending Tool [FMUT]

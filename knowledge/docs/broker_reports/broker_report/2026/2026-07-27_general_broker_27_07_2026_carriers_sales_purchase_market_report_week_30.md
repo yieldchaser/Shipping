@@ -13,25 +13,21 @@ doc_id: broker_reports_broker_report_2026-07-27_general_broker_27_07_2026_carrie
 document_type: broker_report
 is_error_page: false
 key_entities:
-- China
-- Brazil
-- Australia
-- Pacific basin
-- Middle East
+- Vale
 keywords:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
 - aframax
 - lng
+- lpg
 - container
 - china
 - brazil
-- australia
-market_tone: constructive
+- atlantic
+market_tone: neutral
 numeric_observation_count: 91
 numeric_observations:
 - section: Carriers Sales & Purchase Market Report, Week 30
@@ -782,52 +778,59 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_27_07_2026_carriers_sales_purchase_market_report_week_30.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_27_07_2026_carriers_sales_purchase_market_report_week_30.md
 source_stem: general_broker_27_07_2026_carriers_sales_purchase_market_report_week_30
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-30-3/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 30
+summary: 'Carriers Sales & Purchase Market Report, Week 30
 
   **Broker**: General Broker
 
   **Published Date**: 27/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-30-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-30-5/)
+  **Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-30-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-30-3/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 30 | July 24th, 2026
+  Week 30, 27th July 2026
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  SALES & PURCHASE MARKET REPORT
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
+  Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.
+  Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
 
-  WEEKLY MARKET REPORT
+  Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
 
-  WEEK 30 · JULY 24TH, 2026
+  1 | P a g e
 
-  MARKET OVERVIEW
+  Second-hand Market
 
-  This week, US tariffs once again took centre stage as the US will collect duties
-  of between 10% and 12.5% on
+  Bulk Carriers Reported Sold
 
-  imports from most major trading partners, its biggest move yet to reconstruct President
-  Donald Trump''s
+  NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
 
-  tariff wall that was struck down by the Supreme Court. President Trump''s tariffs,
-  imposed under Section 301
+  ATTIKOS BC 178,929 2012 Sungdong Shipbuilding & Eng 37,000,000 UNDISCLOSED
 
-  of the Trade Act of 1974, are facing legal challenges. The duties cover goods from
-  more than 80 countries,
+  PONT-ROUGE BC 82,395 2025 JAPAN MARINE UTD - KUR 36,000,000 UNDISCLOSED FWD DELY
 
-  representing 99.4% of U.S.'
+  MONT FORT BC 82,113 2012 TSUNEISHI SHBLDG - TDT 22,000,000 UNDISCLOSED
+
+  YARRA BC 78,184 2015 Sasebo Heavy Industries 28,500,000 CHINESE
+
+  IVESTOS 8 BC 75,239 2008 Hudong-Zhonghua 11,700,000 UNDISCLOSED
+
+  SEACON TOKYO BC 66,628 2023 Tsuneishi Zhoushan Shbldg 41,600,000 UAE
+
+  CMB JORDAENS BC 63,447 2019 Tadotsu Shipyard Co Ltd 35,200,000 UNDISCLOSED
+
+  AMIS '
 themes:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
+- aframax
 title: Carriers Sales & Purchase Market Report, Week 30
 vessel_classes:
 - capesize
@@ -843,23 +846,28 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 30
+Carriers Sales & Purchase Market Report, Week 30
 **Broker**: General Broker
 **Published Date**: 27/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-30-5/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-30-5/)
+**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-30-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-30-3/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 30 | July 24th, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 30 · JULY 24TH, 2026
-MARKET OVERVIEW
-This week, US tariffs once again took centre stage as the US will collect duties of between 10% and 12.5% on
-imports from most major trading partners, its biggest move yet to reconstruct President Donald Trump's
-tariff wall that was struck down by the Supreme Court. President Trump's tariffs, imposed under Section 301
-of the Trade Act of 1974, are facing legal challenges. The duties cover goods from more than 80 countries,
-representing 99.4% of U.S.
+Week 30, 27th July 2026
+SALES & PURCHASE MARKET REPORT
+Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
+Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
+1 | P a g e
+Second-hand Market
+Bulk Carriers Reported Sold
+NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
+ATTIKOS BC 178,929 2012 Sungdong Shipbuilding & Eng 37,000,000 UNDISCLOSED
+PONT-ROUGE BC 82,395 2025 JAPAN MARINE UTD - KUR 36,000,000 UNDISCLOSED FWD DELY
+MONT FORT BC 82,113 2012 TSUNEISHI SHBLDG - TDT 22,000,000 UNDISCLOSED
+YARRA BC 78,184 2015 Sasebo Heavy Industries 28,500,000 CHINESE
+IVESTOS 8 BC 75,239 2008 Hudong-Zhonghua 11,700,000 UNDISCLOSED
+SEACON TOKYO BC 66,628 2023 Tsuneishi Zhoushan Shbldg 41,600,000 UAE
+CMB JORDAENS BC 63,447 2019 Tadotsu Shipyard Co Ltd 35,200,000 UNDISCLOSED
+AMIS 
 
 ## Carriers Sales & Purchase Market Report, Week 30
 **Broker**: General Broker

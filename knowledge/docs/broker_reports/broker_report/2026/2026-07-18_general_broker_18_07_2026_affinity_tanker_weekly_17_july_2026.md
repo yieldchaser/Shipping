@@ -11,21 +11,23 @@ doc_id: broker_reports_broker_report_2026-07-18_general_broker_18_07_2026_affini
 document_type: broker_report
 is_error_page: false
 key_entities:
+- China
+- Brazil
 - Middle East
 keywords:
-- products
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought
-- building
-- content
-- crisis
-- date
-- diesel
-market_tone: neutral
+- capesize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
+- atlantic
+- west_africa
+- india
+- japan
+- grain
+- crude_oil
+market_tone: cautiously_bearish
 numeric_observation_count: 57
 numeric_observations:
 - section: Affinity Tanker Weekly, 17 July 2026
@@ -473,35 +475,50 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026.md
 source_stem: general_broker_18_07_2026_affinity_tanker_weekly_17_july_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/
-summary: 'Gibson tanker report - Diesel Drought
+summary: 'Affinity Tanker Weekly, 17 July 2026
 
   **Broker**: General Broker
 
   **Published Date**: 18/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/](https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/)
+  **Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  Affinity Research LLP, 44th Floor,
 
-  18/07/2026
+  The Leadenhall Building, 122 Leadenhall Street,
 
-  With the Middle East crisis at the forefront of everyone''s minds, a second, more
-  slowly building supply shock has flown somewhat
+  London, EC3A 8EE, United Kingdom
 
-  Source: GIBSON SHIPBROKERS LTD'
+  T. affinityship.comAFFINITY TANKER WEEKLY
+
+  17 JULY 2026
+
+  1
+
+  Crude Tanker Comments
+
+  The VLCC market began the week on steady ground; however, this has since given way
+
+  to heightened uncertainty East of Suez and a softening sentiment in the Atlantic.
+  In the
+
+  East, initial momentum from steady cargo volumes and regular fixtures was halted
+  by
+
+  the escalating conflict around the SoH.'
 themes:
-- products
-- broker
-- gibson
-- https
-- shipbrokers
-- source
+- capesize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
 title: Affinity Tanker Weekly, 17 July 2026
 vessel_classes:
 - capesize
@@ -515,16 +532,23 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Diesel Drought
+Affinity Tanker Weekly, 17 July 2026
 **Broker**: General Broker
 **Published Date**: 18/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/](https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/)
+**Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-18/07/2026
-With the Middle East crisis at the forefront of everyone's minds, a second, more slowly building supply shock has flown somewhat
-Source: GIBSON SHIPBROKERS LTD
+Affinity Research LLP, 44th Floor,
+The Leadenhall Building, 122 Leadenhall Street,
+London, EC3A 8EE, United Kingdom
+T. affinityship.comAFFINITY TANKER WEEKLY
+17 JULY 2026
+1
+Crude Tanker Comments
+The VLCC market began the week on steady ground; however, this has since given way
+to heightened uncertainty East of Suez and a softening sentiment in the Atlantic. In the
+East, initial momentum from steady cargo volumes and regular fixtures was halted by
+the escalating conflict around the SoH.
 
 ## Affinity Tanker Weekly, 17 July 2026
 **Broker**: General Broker

@@ -17,7 +17,8 @@ key_entities:
 - China
 - Brazil
 - Australia
-- Vale
+- Atlantic basin
+- Pacific basin
 - Middle East
 keywords:
 - capesize
@@ -28,10 +29,10 @@ keywords:
 - suezmax
 - aframax
 - lng
-- lpg
 - container
 - china
 - brazil
+- australia
 market_tone: constructive
 numeric_observation_count: 160
 numeric_observations:
@@ -1106,47 +1107,38 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/bancosta_22_07_2026_banchero_costa_weekly_market_report_week_29_2026.md
+source_path: reports/broker_reports/2026/banchero_costa/bancosta_22_07_2026_banchero_costa_weekly_market_report_week_29_2026.md
 source_stem: bancosta_22_07_2026_banchero_costa_weekly_market_report_week_29_2026
 source_url: https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-29-2026/
-summary: 'Intermodal Weekly Market Report Week 29 2026 Broker''s Insight
+summary: 'Banchero Costa Weekly Market Report, Week 29 2026
 
-  **Broker**: Intermodal
+  **Broker**: Bancosta
 
   **Published Date**: 22/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-29-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-29-2026-brokers-insight/)
+  **Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-29-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-29-2026/)
 
 
   Market Report Content
 
-  Weekly Market Report
+  weeklymarketreport
 
-  www.intermodal.gr
+  Week 29/2026 (14 Jul - 21 Jul)Comment: Saudi Arabia Crude Oil Exports
 
-  1
+  MARKET REPORT -WEEK 29/2026
 
-  Week 29 | Tuesday 21st July 2026
+  2COMMENT
 
-  Market Insight
-
-  By Nikos Tagoulis, Senior Analyst
-
-  Following its successful first trial in 2025, China is set to take a
-
-  further step towards regular container operations via the North-
-
-  ern Sea Route (NSR). Last year, the 4,890 teu Istanbul Bridge,
-
-  operated by Chinese -backed Sea Legend Shipping, completed the
-
-  China-Europe haul in around 21 days. Building on that passage,
-
-  Sea Legend plans a seasonal service of eight roughly weekly sail-
-
-  ings from mid-August to October, deploying seven predominantly
-
-  feeder-sized vessels and targeting transit times of 20 to 22 days.'
+  SAUDI ARABIA CRUDE OIL EXPORTSAfter a marginal decline in 2024, when global crude
+  oil loadings decreased by -0.2% y-o-y, things picked up in 2025, with full-year
+  volumes increasing by +1.8% y-o-y.In Jan-Jun 2026, however, global crude oil loadings
+  declined by -6.1% y-o-y to 1,016.4 mln tonnes, excluding all cabotage trade, according
+  to vessels tracking data from LSEG.Exports from the Arabian Gulf plunged by -30.7%
+  y-o-y to 299.7 mln t in Jan-Jun 2026, and accounted for 29.5% of global seaborne
+  crude trade, down sharply from the historical norm of about 40%, reflecting the
+  ongoing war in the Persian Gulf.Exports from Russian ports (including oil of Kazakh
+  origin) edged up by +3.5% y-o-y to 117.1 mln t in Jan-Jun 2026, or 11.5% of global
+  trade.From'
 themes:
 - capesize
 - panamax
@@ -1168,26 +1160,17 @@ vessel_classes:
 ---
 
 ## Summary
-Intermodal Weekly Market Report Week 29 2026 Broker's Insight
-**Broker**: Intermodal
+Banchero Costa Weekly Market Report, Week 29 2026
+**Broker**: Bancosta
 **Published Date**: 22/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-29-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-29-2026-brokers-insight/)
+**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-29-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-29-2026/)
 
 Market Report Content
-Weekly Market Report
-www.intermodal.gr
-1
-Week 29 | Tuesday 21st July 2026
-Market Insight
-By Nikos Tagoulis, Senior Analyst
-Following its successful first trial in 2025, China is set to take a
-further step towards regular container operations via the North-
-ern Sea Route (NSR). Last year, the 4,890 teu Istanbul Bridge,
-operated by Chinese -backed Sea Legend Shipping, completed the
-China-Europe haul in around 21 days. Building on that passage,
-Sea Legend plans a seasonal service of eight roughly weekly sail-
-ings from mid-August to October, deploying seven predominantly
-feeder-sized vessels and targeting transit times of 20 to 22 days.
+weeklymarketreport
+Week 29/2026 (14 Jul - 21 Jul)Comment: Saudi Arabia Crude Oil Exports
+MARKET REPORT -WEEK 29/2026
+2COMMENT
+SAUDI ARABIA CRUDE OIL EXPORTSAfter a marginal decline in 2024, when global crude oil loadings decreased by -0.2% y-o-y, things picked up in 2025, with full-year volumes increasing by +1.8% y-o-y.In Jan-Jun 2026, however, global crude oil loadings declined by -6.1% y-o-y to 1,016.4 mln tonnes, excluding all cabotage trade, according to vessels tracking data from LSEG.Exports from the Arabian Gulf plunged by -30.7% y-o-y to 299.7 mln t in Jan-Jun 2026, and accounted for 29.5% of global seaborne crude trade, down sharply from the historical norm of about 40%, reflecting the ongoing war in the Persian Gulf.Exports from Russian ports (including oil of Kazakh origin) edged up by +3.5% y-o-y to 117.1 mln t in Jan-Jun 2026, or 11.5% of global trade.From
 
 ## Banchero Costa Weekly Market Report, Week 29 2026
 **Broker**: Bancosta

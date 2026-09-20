@@ -312,7 +312,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37.md
+source_path: reports/broker_reports/2026/ism/ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37.md
 source_stem: ism_14_09_2026_ism_coasters_and_mini_bulkers_week_37
 source_url: https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-37-3/
 summary: 'ISM coasters and mini bulkers - Week 37

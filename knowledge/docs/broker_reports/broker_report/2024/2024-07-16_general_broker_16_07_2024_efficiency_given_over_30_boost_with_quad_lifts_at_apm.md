@@ -53,7 +53,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2024/general_broker_16_07_2024_efficiency_given_over_30_boost_with_quad_lifts_at_apm.md
+source_path: reports/broker_reports/2024/general_broker/general_broker_16_07_2024_efficiency_given_over_30_boost_with_quad_lifts_at_apm.md
 source_stem: general_broker_16_07_2024_efficiency_given_over_30_boost_with_quad_lifts_at_apm
 source_url: https://www.hellenicshippingnews.com/efficiency-given-over-30-boost-with-quad-lifts-at-apm-terminals-lazaro-cardenas-2/
 summary: 'Efficiency given over 30% boost with quad lifts at APM Terminals Lazaro

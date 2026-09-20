@@ -248,7 +248,7 @@ regions:
 section_count: 7
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_29_08_2026_affinity_tanker_weekly_28_august_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_29_08_2026_affinity_tanker_weekly_28_august_2026.md
 source_stem: general_broker_29_08_2026_affinity_tanker_weekly_28_august_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-28-august-2026/
 summary: 'Affinity Tanker Weekly, 28 August 2026

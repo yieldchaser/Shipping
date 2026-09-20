@@ -331,7 +331,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/clarksons_11_09_2026_clarksons_hellas_snp_weekly.md
+source_path: reports/broker_reports/2026/clarksons/clarksons_11_09_2026_clarksons_hellas_snp_weekly.md
 source_stem: clarksons_11_09_2026_clarksons_hellas_snp_weekly
 source_url: https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-9/
 summary: 'CLARKSONS HELLAS - SnP WEEKLY

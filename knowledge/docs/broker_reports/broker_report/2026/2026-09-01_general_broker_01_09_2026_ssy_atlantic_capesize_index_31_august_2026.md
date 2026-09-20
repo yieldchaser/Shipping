@@ -250,7 +250,7 @@ regions:
 section_count: 4
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_01_09_2026_ssy_atlantic_capesize_index_31_august_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_01_09_2026_ssy_atlantic_capesize_index_31_august_2026.md
 source_stem: general_broker_01_09_2026_ssy_atlantic_capesize_index_31_august_2026
 source_url: https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-31-august-2026/
 summary: 'SSY ATLANTIC CAPESIZE INDEX 31 AUGUST 2026

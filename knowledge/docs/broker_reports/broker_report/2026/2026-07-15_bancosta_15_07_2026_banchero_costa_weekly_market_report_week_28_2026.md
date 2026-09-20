@@ -17,9 +17,9 @@ key_entities:
 - China
 - Brazil
 - Australia
+- OPEC
 - Atlantic basin
-- Middle East
-- US Gulf
+- Pacific basin
 keywords:
 - capesize
 - panamax
@@ -1122,53 +1122,38 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/bancosta_15_07_2026_banchero_costa_weekly_market_report_week_28_2026.md
+source_path: reports/broker_reports/2026/banchero_costa/bancosta_15_07_2026_banchero_costa_weekly_market_report_week_28_2026.md
 source_stem: bancosta_15_07_2026_banchero_costa_weekly_market_report_week_28_2026
 source_url: https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-28-2026/
-summary: 'Intermodal Weekly Market Report Week 28 2026 Broker''s Insight
+summary: 'Banchero Costa Weekly Market Report, Week 28 2026
 
-  **Broker**: Intermodal
+  **Broker**: Bancosta
 
   **Published Date**: 15/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/)
+  **Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-28-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-28-2026/)
 
 
   Market Report Content
 
-  Weekly Market Report
+  weeklymarketreport
 
-  www.intermodal.gr
+  Week 28/2026 (07 Jul - 14 Jul)Comment: European Union''s LNG Imports
 
-  1
+  MARKET REPORT -WEEK 28/2026
 
-  Week 28 | Tuesday 14th July 2026
+  2COMMENT
 
-  Market Insight
-
-  By Nikos Tagoulis, Senior Analyst
-
-  The MoU between Washington and Tehran in mid -June, which set
-
-  out a 60 -day framework for reaching a final settlement, briefly
-
-  raised hopes that the Hormuz crisis was moving toward a stable
-
-  resolution. Over the past week,
-
-  renewed Iranian attacks on commercial vessels transiting the
-
-  strait, prompted Washington to reinstate the oil export sanctions
-
-  suspended under the agreement. The ceasefire effectively col-
-
-  lapsed as the US and Iran exchanged airstrikes, commercial ship-
-
-  ping came under renewed attack, Tehran again declared Hormuz
-
-  closed and vessel traffic fell sharply, reversing the recovery in
-
-  transits recorded in late June and early July.'
+  EUROPEAN UNION LNG IMPORTSGlobal seaborne LNG trade was increasing sharply until
+  2022, helped also by the events in Ukraine which forced Europe to diversify away
+  from Russian pipeline gas.In Jan-Dec 2024, however, global shipments of LNG increased
+  by just +0.2% y-o-y to 414.8 mln t, based on LSEG vessel tracking data.In Jan-Dec
+  2025 there was a strong rebound, with shipment volumes rising +6.0% y-o-y to 439.5
+  mln t.In 1H 2026, global exports edged up +1.3% y-o-y to 215.8 mln t, from 213.0
+  mln t in 1H 2025.The largest exporter of LNG is now the USA, which accounted for
+  29.6% of shipments in 1H 2026, followed by Australia with 18.5%, South-East Asia
+  with 11.3%, and Russia with 8.4%. Qatar, hit by the closure of the Strait of Hormuz,
+  saw its share dro'
 themes:
 - capesize
 - panamax
@@ -1191,29 +1176,17 @@ vessel_classes:
 ---
 
 ## Summary
-Intermodal Weekly Market Report Week 28 2026 Broker's Insight
-**Broker**: Intermodal
+Banchero Costa Weekly Market Report, Week 28 2026
+**Broker**: Bancosta
 **Published Date**: 15/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/)
+**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-28-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-28-2026/)
 
 Market Report Content
-Weekly Market Report
-www.intermodal.gr
-1
-Week 28 | Tuesday 14th July 2026
-Market Insight
-By Nikos Tagoulis, Senior Analyst
-The MoU between Washington and Tehran in mid -June, which set
-out a 60 -day framework for reaching a final settlement, briefly
-raised hopes that the Hormuz crisis was moving toward a stable
-resolution. Over the past week,
-renewed Iranian attacks on commercial vessels transiting the
-strait, prompted Washington to reinstate the oil export sanctions
-suspended under the agreement. The ceasefire effectively col-
-lapsed as the US and Iran exchanged airstrikes, commercial ship-
-ping came under renewed attack, Tehran again declared Hormuz
-closed and vessel traffic fell sharply, reversing the recovery in
-transits recorded in late June and early July.
+weeklymarketreport
+Week 28/2026 (07 Jul - 14 Jul)Comment: European Union's LNG Imports
+MARKET REPORT -WEEK 28/2026
+2COMMENT
+EUROPEAN UNION LNG IMPORTSGlobal seaborne LNG trade was increasing sharply until 2022, helped also by the events in Ukraine which forced Europe to diversify away from Russian pipeline gas.In Jan-Dec 2024, however, global shipments of LNG increased by just +0.2% y-o-y to 414.8 mln t, based on LSEG vessel tracking data.In Jan-Dec 2025 there was a strong rebound, with shipment volumes rising +6.0% y-o-y to 439.5 mln t.In 1H 2026, global exports edged up +1.3% y-o-y to 215.8 mln t, from 213.0 mln t in 1H 2025.The largest exporter of LNG is now the USA, which accounted for 29.6% of shipments in 1H 2026, followed by Australia with 18.5%, South-East Asia with 11.3%, and Russia with 8.4%. Qatar, hit by the closure of the Strait of Hormuz, saw its share dro
 
 ## Banchero Costa Weekly Market Report, Week 28 2026
 **Broker**: Bancosta

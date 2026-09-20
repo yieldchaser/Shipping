@@ -17,18 +17,18 @@ key_entities:
 - Vale
 - US Gulf
 keywords:
-- broker
-- gibson
-- https
-- saudi
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-structural-checkmate
-- against
-- any
-- arabia
-- blockade
-- calling
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+- lng
+- container
+- china
+- brazil
+- australia
 market_tone: neutral
 numeric_observation_count: 160
 numeric_observations:
@@ -1067,35 +1067,40 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_25_07_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_25_07_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_25_07_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-30-2026/
-summary: 'Gibson tanker report -Structural Checkmate
+summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 30 2026
 
-  **Broker**: General Broker
+  **Broker**: Advanced Shipping
 
   **Published Date**: 25/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-structural-checkmate/](https://www.hellenicshippingnews.com/gibson-tanker-report-structural-checkmate/)
+  **Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-30-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-30-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  WEEKLY SHIPPING MARKET REPORT - pg. 1
 
-  25/07/2026
+  Week 30 (17th Jul to 24th Jul 2026)
 
-  With the Houthis declaring a full naval blockade specifically against Saudi Arabia
-  on 20 July and threatening any vessel calling at Saudi ports
+  Bulkers
 
-  Source: GIBSON SHIPBROKERS LTD'
+  Adani Shipping have committed their Capesiz e "Aashna" 179/2012 HHIC,
+
+  Philippines (SS/DD 10/2027) to Chinese interests at USD 37,5 mill . For
+
+  reference, the one -year-older "Cape Sandra" 175/2011 HHIC, Philippines
+
+  (SS/DD 05/2026, Scrubber fitted) was sold back in March at xs USD 32 mill.'
 themes:
-- broker
-- gibson
-- https
-- saudi
-- shipbrokers
-- source
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
 title: Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 30 2026
 vessel_classes:
 - capesize
@@ -1110,16 +1115,19 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report -Structural Checkmate
-**Broker**: General Broker
+Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 30 2026
+**Broker**: Advanced Shipping
 **Published Date**: 25/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-structural-checkmate/](https://www.hellenicshippingnews.com/gibson-tanker-report-structural-checkmate/)
+**Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-30-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-30-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-25/07/2026
-With the Houthis declaring a full naval blockade specifically against Saudi Arabia on 20 July and threatening any vessel calling at Saudi ports
-Source: GIBSON SHIPBROKERS LTD
+WEEKLY SHIPPING MARKET REPORT - pg. 1
+Week 30 (17th Jul to 24th Jul 2026)
+Bulkers
+Adani Shipping have committed their Capesiz e "Aashna" 179/2012 HHIC,
+Philippines (SS/DD 10/2027) to Chinese interests at USD 37,5 mill . For
+reference, the one -year-older "Cape Sandra" 175/2011 HHIC, Philippines
+(SS/DD 05/2026, Scrubber fitted) was sold back in March at xs USD 32 mill.
 
 ## Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 30 2026
 **Broker**: Advanced Shipping

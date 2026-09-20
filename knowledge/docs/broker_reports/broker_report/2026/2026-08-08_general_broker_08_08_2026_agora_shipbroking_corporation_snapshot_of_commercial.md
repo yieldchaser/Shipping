@@ -15,18 +15,18 @@ key_entities:
 - China
 - Brazil
 keywords:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues
-- after
-- averaged
-- black
-- blues
-- content
-- cpc
+- capesize
+- panamax
+- china
+- brazil
+- europe
+- india
+- singapore
+- grain
+- crude_oil
+- products
+- gas
+- any
 market_tone: neutral
 numeric_observation_count: 72
 numeric_observations:
@@ -681,35 +681,38 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_08_08_2026_agora_shipbroking_corporation_snapshot_of_commercial.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_08_08_2026_agora_shipbroking_corporation_snapshot_of_commercial.md
 source_stem: general_broker_08_08_2026_agora_shipbroking_corporation_snapshot_of_commercial
 source_url: https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-32-2026/
-summary: 'Gibson tanker report - Black Sea Blues
+summary: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report
+  - Week 32 2026
 
   **Broker**: General Broker
 
   **Published Date**: 08/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/](https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/)
+  **Source URL**: [https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-32-2026/](https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-32-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  AGORA SHIPBROKING CORPORATION
 
-  08/08/2026
+  Piraeus Office: No. 9, II Merarchias Str., Piraeus 18535, Greece
 
-  After the disruption at the start of the year, when crude export volumes averaged
-  just 1 mbd over the winter season, the CPC terminal
+  London Office: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT,United Kingdom
 
-  Source: GIBSON SHIPBROKERS LTD'
+  www.agoraships.com
+
+  Disclaimer: The historical data provided herein are displayed for information purposes
+  only.'
 themes:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues
+- capesize
+- panamax
+- china
+- brazil
+- europe
+- india
 title: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report -
   Week 32 2026'
 vessel_classes:
@@ -724,16 +727,17 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Black Sea Blues
+Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 32 2026
 **Broker**: General Broker
 **Published Date**: 08/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/](https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/)
+**Source URL**: [https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-32-2026/](https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-32-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-08/08/2026
-After the disruption at the start of the year, when crude export volumes averaged just 1 mbd over the winter season, the CPC terminal
-Source: GIBSON SHIPBROKERS LTD
+AGORA SHIPBROKING CORPORATION
+Piraeus Office: No. 9, II Merarchias Str., Piraeus 18535, Greece
+London Office: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT,United Kingdom
+www.agoraships.com
+Disclaimer: The historical data provided herein are displayed for information purposes only.
 
 ## Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 32 2026
 **Broker**: General Broker

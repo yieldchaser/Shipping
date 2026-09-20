@@ -53,7 +53,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_01_08_2026_gibson_tanker_report_prisoners_of_geography.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_01_08_2026_gibson_tanker_report_prisoners_of_geography.md
 source_stem: general_broker_01_08_2026_gibson_tanker_report_prisoners_of_geography
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-prisoners-of-geography/
 summary: 'Gibson tanker report - Prisoners of Geography

@@ -13,20 +13,21 @@ document_type: broker_report
 is_error_page: false
 key_entities:
 - China
+- Brazil
 keywords:
 - capesize
 - panamax
-- supramax
-- handysize
-- container
 - china
-- meg
+- brazil
 - europe
 - india
 - singapore
-- japan
-- steel
-market_tone: cautiously_bearish
+- grain
+- crude_oil
+- products
+- gas
+- any
+market_tone: neutral
 numeric_observation_count: 72
 numeric_observations:
 - section: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report
@@ -681,61 +682,38 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_24_07_2026_agora_shipbroking_corporation_snapshot_of_commercial.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_24_07_2026_agora_shipbroking_corporation_snapshot_of_commercial.md
 source_stem: general_broker_24_07_2026_agora_shipbroking_corporation_snapshot_of_commercial
 source_url: https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-30-2026/
-summary: 'Lion Shipbrokers Weekly Market Report, Week 30 2026
+summary: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report
+  - Week 30 2026
 
-  **Broker**: Lion Shipbrokers
+  **Broker**: General Broker
 
   **Published Date**: 24/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-30-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-30-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-30-2026/](https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-30-2026/)
 
 
   Market Report Content
 
-  LION SHIPBROKERS
+  AGORA SHIPBROKING CORPORATION
 
-  WEEKLY REPORT
+  Piraeus Office: No. 9, II Merarchias Str., Piraeus 18535, Greece
 
-  Should you have any comments or questions about the content of our report or require
-  our services, please contact:
+  London Office: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT,United Kingdom
 
-  LION SHIPBROKERS LIMITED
+  www.agoraships.com
 
-  Tel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)
-
-  Dry Cargo Chartering : chartering@lionshipbrokers.gr
-
-  Container Chartering : container@lionshipbrokers.gr
-
-  Sale & Purchase/Demolition : snp@lionshipbrokers.gr
-
-  Research & Valuations : research@lionshipbrokers.gr
-
-  Visit our homepage at www.lionshipbrokers.com for more details
-
-  WEEK 30 - 24 JULY 2026
-
-  Quote of the week:
-
-  "The shoe that fits one person pinches another."
-
-  Carl Gustav Jung (6 July 1875 - 6 June 1961) - Swiss psychiatrist, psychotherapist,
-  and psychologist. MARKET COMMENTARY
-
-  Bulkers: The dry bulk sale and purchase market remained stable with asset values
-  largely
-
-  unaffected, despite a minor decline in the overall freight market. The '
+  Disclaimer: The historical data provided herein are displayed for information purposes
+  only.'
 themes:
 - capesize
 - panamax
-- supramax
-- handysize
-- container
 - china
+- brazil
+- europe
+- india
 title: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report -
   Week 30 2026'
 vessel_classes:
@@ -750,28 +728,17 @@ vessel_classes:
 ---
 
 ## Summary
-Lion Shipbrokers Weekly Market Report, Week 30 2026
-**Broker**: Lion Shipbrokers
+Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 30 2026
+**Broker**: General Broker
 **Published Date**: 24/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-30-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-30-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-30-2026/](https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-30-2026/)
 
 Market Report Content
-LION SHIPBROKERS
-WEEKLY REPORT
-Should you have any comments or questions about the content of our report or require our services, please contact:
-LION SHIPBROKERS LIMITED
-Tel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)
-Dry Cargo Chartering : chartering@lionshipbrokers.gr
-Container Chartering : container@lionshipbrokers.gr
-Sale & Purchase/Demolition : snp@lionshipbrokers.gr
-Research & Valuations : research@lionshipbrokers.gr
-Visit our homepage at www.lionshipbrokers.com for more details
-WEEK 30 - 24 JULY 2026
-Quote of the week:
-"The shoe that fits one person pinches another."
-Carl Gustav Jung (6 July 1875 - 6 June 1961) - Swiss psychiatrist, psychotherapist, and psychologist. MARKET COMMENTARY
-Bulkers: The dry bulk sale and purchase market remained stable with asset values largely
-unaffected, despite a minor decline in the overall freight market. The 
+AGORA SHIPBROKING CORPORATION
+Piraeus Office: No. 9, II Merarchias Str., Piraeus 18535, Greece
+London Office: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT,United Kingdom
+www.agoraships.com
+Disclaimer: The historical data provided herein are displayed for information purposes only.
 
 ## Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 30 2026
 **Broker**: General Broker

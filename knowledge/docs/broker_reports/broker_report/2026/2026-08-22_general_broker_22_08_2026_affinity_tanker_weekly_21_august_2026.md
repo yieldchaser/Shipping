@@ -15,19 +15,19 @@ key_entities:
 - Brazil
 - Middle East
 keywords:
-- broker
-- crossed
-- gibson
-- https
-- shipbrokers
-- source
-- wakes
-- www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes
-- content
-- crude
-- date
-- different
-market_tone: neutral
+- handysize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
+- atlantic
+- west_africa
+- europe
+- japan
+- products
+- any
+market_tone: constructive
 numeric_observation_count: 73
 numeric_observations:
 - section: Affinity Tanker Weekly, 21 August 2026
@@ -601,33 +601,47 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_22_08_2026_affinity_tanker_weekly_21_august_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_22_08_2026_affinity_tanker_weekly_21_august_2026.md
 source_stem: general_broker_22_08_2026_affinity_tanker_weekly_21_august_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/
-summary: 'Gibson tanker report - Crossed Wakes
+summary: 'Affinity Tanker Weekly, 21 August 2026
 
   **Broker**: General Broker
 
   **Published Date**: 22/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/](https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/)
+  **Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  Affinity Research LLP, 44th Floor,
 
-  22/08/2026
+  The Leadenhall Building, 122 Leadenhall Street,
 
-  The crude vessel segments have crossed wakes this year - moving in different directions
-  even as they share the same waters.'
+  London, EC3A 8EE, United Kingdom
+
+  T. affinityship.comAFFINITY TANKER WEEKLY
+
+  21 AUGUST 2026
+
+  1
+
+  Crude Tanker Comments
+
+  VLCCs had a very strong week. Deferred WAFR cargoes returning to the market and
+
+  steady Brazil and USG demand come as prompt VLCC supply is particularly thin in
+  the
+
+  Atlantic.'
 themes:
-- broker
-- crossed
-- gibson
-- https
-- shipbrokers
-- source
+- handysize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
 title: Affinity Tanker Weekly, 21 August 2026
 vessel_classes:
 - capesize
@@ -641,15 +655,22 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Crossed Wakes
+Affinity Tanker Weekly, 21 August 2026
 **Broker**: General Broker
 **Published Date**: 22/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/](https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/)
+**Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-22/08/2026
-The crude vessel segments have crossed wakes this year - moving in different directions even as they share the same waters.
+Affinity Research LLP, 44th Floor,
+The Leadenhall Building, 122 Leadenhall Street,
+London, EC3A 8EE, United Kingdom
+T. affinityship.comAFFINITY TANKER WEEKLY
+21 AUGUST 2026
+1
+Crude Tanker Comments
+VLCCs had a very strong week. Deferred WAFR cargoes returning to the market and
+steady Brazil and USG demand come as prompt VLCC supply is particularly thin in the
+Atlantic.
 
 ## Affinity Tanker Weekly, 21 August 2026
 **Broker**: General Broker

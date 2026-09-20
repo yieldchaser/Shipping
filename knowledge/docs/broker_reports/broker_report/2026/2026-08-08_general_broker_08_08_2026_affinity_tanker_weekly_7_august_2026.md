@@ -17,19 +17,19 @@ key_entities:
 - Middle East
 - US Gulf
 keywords:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues
-- after
-- averaged
-- black
-- blues
-- content
-- cpc
-market_tone: neutral
+- handysize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
+- australia
+- atlantic
+- meg
+- west_africa
+- europe
+- india
+market_tone: cautiously_bearish
 numeric_observation_count: 58
 numeric_observations:
 - section: Affinity Tanker Weekly, 7 August 2026
@@ -492,35 +492,45 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_08_08_2026_affinity_tanker_weekly_7_august_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_08_08_2026_affinity_tanker_weekly_7_august_2026.md
 source_stem: general_broker_08_08_2026_affinity_tanker_weekly_7_august_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-7-august-2026/
-summary: 'Gibson tanker report - Black Sea Blues
+summary: 'Affinity Tanker Weekly, 7 August 2026
 
   **Broker**: General Broker
 
   **Published Date**: 08/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/](https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/)
+  **Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-7-august-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-7-august-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  Affinity Research LLP, 44th Floor,
 
-  08/08/2026
+  The Leadenhall Building, 122 Leadenhall Street,
 
-  After the disruption at the start of the year, when crude export volumes averaged
-  just 1 mbd over the winter season, the CPC terminal
+  London, EC3A 8EE, United Kingdom
 
-  Source: GIBSON SHIPBROKERS LTD'
+  T. affinityship.comAFFINITY TANKER WEEKLY
+
+  07 AUGUST 2026
+
+  1
+
+  Crude Tanker Comments
+
+  The VLCC market was a mixed bag this week. Early on, the Atlantic market leaned
+  in
+
+  favour of charterers.'
 themes:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues
+- handysize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
 title: Affinity Tanker Weekly, 7 August 2026
 vessel_classes:
 - capesize
@@ -534,16 +544,21 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Black Sea Blues
+Affinity Tanker Weekly, 7 August 2026
 **Broker**: General Broker
 **Published Date**: 08/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/](https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/)
+**Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-7-august-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-7-august-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-08/08/2026
-After the disruption at the start of the year, when crude export volumes averaged just 1 mbd over the winter season, the CPC terminal
-Source: GIBSON SHIPBROKERS LTD
+Affinity Research LLP, 44th Floor,
+The Leadenhall Building, 122 Leadenhall Street,
+London, EC3A 8EE, United Kingdom
+T. affinityship.comAFFINITY TANKER WEEKLY
+07 AUGUST 2026
+1
+Crude Tanker Comments
+The VLCC market was a mixed bag this week. Early on, the Atlantic market leaned in
+favour of charterers.
 
 ## Affinity Tanker Weekly, 7 August 2026
 **Broker**: General Broker

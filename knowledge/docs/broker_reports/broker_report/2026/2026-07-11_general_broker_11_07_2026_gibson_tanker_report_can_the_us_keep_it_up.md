@@ -59,7 +59,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_11_07_2026_gibson_tanker_report_can_the_us_keep_it_up.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_11_07_2026_gibson_tanker_report_can_the_us_keep_it_up.md
 source_stem: general_broker_11_07_2026_gibson_tanker_report_can_the_us_keep_it_up
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-can-the-us-keep-it-up/
 summary: 'Gibson tanker report - Can the US Keep It Up? **Broker**: General Broker

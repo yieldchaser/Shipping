@@ -59,7 +59,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_25_07_2026_gibson_tanker_report_structural_checkmate.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_25_07_2026_gibson_tanker_report_structural_checkmate.md
 source_stem: general_broker_25_07_2026_gibson_tanker_report_structural_checkmate
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-structural-checkmate/
 summary: 'Gibson tanker report -Structural Checkmate

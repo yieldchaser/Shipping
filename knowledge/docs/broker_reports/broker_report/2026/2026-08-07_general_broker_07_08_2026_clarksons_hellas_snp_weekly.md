@@ -10,22 +10,21 @@ date: '2026-08-07'
 doc_id: broker_reports_broker_report_2026-08-07_general_broker_07_08_2026_clarksons_hellas_snp_weekly
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
+key_entities: []
 keywords:
 - capesize
-- panamax
 - supramax
 - handysize
 - vlcc
-- container
+- suezmax
+- aframax
 - china
-- europe
-- india
 - japan
-- grain
-- bauxite
-market_tone: neutral
+- any
+- information
+- clarksons
+- its
+market_tone: constructive
 numeric_observation_count: 23
 numeric_observations:
 - section: CLARKSONS HELLAS - SnP WEEKLY
@@ -207,63 +206,36 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_07_08_2026_clarksons_hellas_snp_weekly.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_07_08_2026_clarksons_hellas_snp_weekly.md
 source_stem: general_broker_07_08_2026_clarksons_hellas_snp_weekly
 source_url: https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-4/
-summary: 'Lion Shipbrokers Weekly Market Report, Week 32 2026
+summary: 'CLARKSONS HELLAS - SnP WEEKLY
 
-  **Broker**: Lion Shipbrokers
+  **Broker**: General Broker
 
   **Published Date**: 07/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-32-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-32-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-4/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-4/)
 
 
   Market Report Content
 
-  LION SHIPBROKERS
+  Clarkson Hellas Ltd. Desk Talk
 
-  WEEKLY REPORT
+  Summer seasonality has brought a broader slowdown in market activity, consistent
+  with the typical
 
-  Should you have any comments or questions about the content of our report or require
-  our services, please contact:
+  seasonal pattern. Against this backdrop, the Strait of Hormuz picture remains little
+  changed: transits stay
 
-  LION SHIPBROKERS LIMITED
-
-  Tel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)
-
-  Dry Cargo Chartering : chartering@lionshipbrokers.gr
-
-  Container Chartering : container@lionshipbrokers.gr
-
-  Sale & Purchase/Demolition : snp@lionshipbrokers.gr
-
-  Research & Valuations : research@lionshipbrokers.gr
-
-  Visit our homepage at www.lionshipbrokers.com for more details
-
-  WEEK 32 - 07 AUGUST 2026
-
-  Quote of the week:
-
-  "You never get a second chance to make a first impression."
-
-  Unknown. MARKET COMMENTARY
-
-  Bulkers: The Baltic Dry Index closed today to a peak of 3,089 points, reflecting
-  a 13% increase
-
-  compared to last Friday''s closure of 2,732 points. Despite August summer holidays
-  kicking in, the S+P
-
-  activity remains strong, with another busy'
+  well below pre -crisis levels as markets watch for progress in Iran -Oman talks.'
 themes:
 - capesize
-- panamax
 - supramax
 - handysize
 - vlcc
-- container
+- suezmax
+- aframax
 title: CLARKSONS HELLAS - SnP WEEKLY
 vessel_classes:
 - capesize
@@ -277,29 +249,16 @@ vessel_classes:
 ---
 
 ## Summary
-Lion Shipbrokers Weekly Market Report, Week 32 2026
-**Broker**: Lion Shipbrokers
+CLARKSONS HELLAS - SnP WEEKLY
+**Broker**: General Broker
 **Published Date**: 07/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-32-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-32-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-4/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-4/)
 
 Market Report Content
-LION SHIPBROKERS
-WEEKLY REPORT
-Should you have any comments or questions about the content of our report or require our services, please contact:
-LION SHIPBROKERS LIMITED
-Tel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)
-Dry Cargo Chartering : chartering@lionshipbrokers.gr
-Container Chartering : container@lionshipbrokers.gr
-Sale & Purchase/Demolition : snp@lionshipbrokers.gr
-Research & Valuations : research@lionshipbrokers.gr
-Visit our homepage at www.lionshipbrokers.com for more details
-WEEK 32 - 07 AUGUST 2026
-Quote of the week:
-"You never get a second chance to make a first impression."
-Unknown. MARKET COMMENTARY
-Bulkers: The Baltic Dry Index closed today to a peak of 3,089 points, reflecting a 13% increase
-compared to last Friday's closure of 2,732 points. Despite August summer holidays kicking in, the S+P
-activity remains strong, with another busy
+Clarkson Hellas Ltd. Desk Talk
+Summer seasonality has brought a broader slowdown in market activity, consistent with the typical
+seasonal pattern. Against this backdrop, the Strait of Hormuz picture remains little changed: transits stay
+well below pre -crisis levels as markets watch for progress in Iran -Oman talks.
 
 ## CLARKSONS HELLAS - SnP WEEKLY
 **Broker**: General Broker

@@ -1251,7 +1251,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/bancosta_12_08_2026_banchero_costa_weekly_market_report_week_32_2026.md
+source_path: reports/broker_reports/2026/banchero_costa/bancosta_12_08_2026_banchero_costa_weekly_market_report_week_32_2026.md
 source_stem: bancosta_12_08_2026_banchero_costa_weekly_market_report_week_32_2026
 source_url: https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-32-2026/
 summary: 'Banchero Costa Weekly Market Report, Week 32 2026

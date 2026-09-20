@@ -1034,7 +1034,7 @@ regions:
 section_count: 8
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026.md
+source_path: reports/broker_reports/2026/xclusiv/xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026.md
 source_stem: xclusiv_01_09_2026_xclusiv_shipbrokers_weekly_31st_august_2026
 source_url: https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-31st-august-2026/
 summary: 'Xclusiv Shipbrokers Weekly 31st August 2026

@@ -13,20 +13,22 @@ doc_id: broker_reports_broker_report_2026-08-01_advanced_shipping_01_08_2026_adv
 document_type: broker_report
 is_error_page: false
 key_entities:
-- Middle East
+- China
+- Australia
+- Vale
 keywords:
-- broker
-- east
-- gibson
-- https
-- middle
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-prisoners-of-geography
-- adapt
-- best
-- can
-- content
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+- container
+- china
+- brazil
+- australia
+- atlantic
 market_tone: neutral
 numeric_observation_count: 160
 numeric_observations:
@@ -1035,35 +1037,42 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_01_08_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_01_08_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_01_08_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-31-2026/
-summary: 'Gibson tanker report - Prisoners of Geography
+summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 31 2026
 
-  **Broker**: General Broker
+  **Broker**: Advanced Shipping
 
   **Published Date**: 01/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-prisoners-of-geography/](https://www.hellenicshippingnews.com/gibson-tanker-report-prisoners-of-geography/)
+  **Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-31-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-31-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  WEEKLY SHIPPING MARKET REPORT - pg. 1
 
-  01/08/2026
+  Week 31 (24th Jul to 31st Jul 2026)
 
-  As the War in the Middle East drags on, Middle East exporters continue to adapt
-  operations as best they can, with their specific
+  Bulkers
 
-  Source: GIBSON SHIPBROKERS LTD'
+  The Capesize " Attikos" 179/2012 Sungdong, Korea (SS/DD 01/2027,
+
+  Scrubber fitted) was committed to undisclosed interests at USD 37,5 mill. By
+
+  way of comparison, the two -years-older sister vessel "Nicholas G.S "
+
+  179/2010 Sungdong, Korea (SS 07/2030, DD 02/2028, Scrubber fitted) was
+
+  sold a week ago at UD 34,5 mill.'
 themes:
-- broker
-- east
-- gibson
-- https
-- middle
-- shipbrokers
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
 title: Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 31 2026
 vessel_classes:
 - capesize
@@ -1077,16 +1086,20 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Prisoners of Geography
-**Broker**: General Broker
+Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 31 2026
+**Broker**: Advanced Shipping
 **Published Date**: 01/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-prisoners-of-geography/](https://www.hellenicshippingnews.com/gibson-tanker-report-prisoners-of-geography/)
+**Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-31-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-31-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-01/08/2026
-As the War in the Middle East drags on, Middle East exporters continue to adapt operations as best they can, with their specific
-Source: GIBSON SHIPBROKERS LTD
+WEEKLY SHIPPING MARKET REPORT - pg. 1
+Week 31 (24th Jul to 31st Jul 2026)
+Bulkers
+The Capesize " Attikos" 179/2012 Sungdong, Korea (SS/DD 01/2027,
+Scrubber fitted) was committed to undisclosed interests at USD 37,5 mill. By
+way of comparison, the two -years-older sister vessel "Nicholas G.S "
+179/2010 Sungdong, Korea (SS 07/2030, DD 02/2028, Scrubber fitted) was
+sold a week ago at UD 34,5 mill.
 
 ## Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 31 2026
 **Broker**: Advanced Shipping

@@ -11,27 +11,21 @@ date: '2026-08-11'
 doc_id: broker_reports_broker_report_2026-08-11_general_broker_11_08_2026_carriers_sales_purchase_market_report_week_32
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- Vale
-- Middle East
-- US Gulf
+key_entities: []
 keywords:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
 - aframax
 - lng
+- lpg
 - container
 - china
-- brazil
-- australia
-market_tone: constructive
+- atlantic
+- europe
+market_tone: neutral
 numeric_observation_count: 83
 numeric_observations:
 - section: Carriers Sales & Purchase Market Report, Week 32
@@ -724,52 +718,57 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_11_08_2026_carriers_sales_purchase_market_report_week_32.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_11_08_2026_carriers_sales_purchase_market_report_week_32.md
 source_stem: general_broker_11_08_2026_carriers_sales_purchase_market_report_week_32
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-32-2/
-summary: 'Xclusiv Shipbrokers Weekly 10th August 2026
+summary: 'Carriers Sales & Purchase Market Report, Week 32
 
-  **Broker**: Xclusiv
+  **Broker**: General Broker
 
   **Published Date**: 11/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-10th-august-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-10th-august-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-32-2/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-32-2/)
 
 
   Market Report Content
 
-  Dry Bulk Rates Ride Rising Trade
+  Week 32, 10th August 2026
 
-  The dry bulk freight market delivered a considerably
+  SALES & PURCHASE MARKET REPORT
 
-  stronger performance during the first seven months of
+  Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.
+  Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
 
-  2026, with Baltic Exchange time -charter equivalent earn-
+  Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
 
-  ings improving across all four major vessel segments com-
+  1 | P a g e
 
-  pared with January -July 2025. The recovery was broad -
+  Second-hand Market
 
-  based rather than dependent on a single vessel class, re-
+  Bulk Carriers Reported Sold
 
-  flecting stronger cargo volumes, improved fleet utilisation
+  NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
 
-  and firmer demand across both major and minor bulk
+  ORANGE TIGER BC 181,395 2011 Imabari Shbldg - Saijo 36,500,000 GREEK
 
-  trades. Based on the available daily assessments, the
+  CAPE CONDOR BC 180,253 2010 Koyo Dockyard Co Ltd 39,000,000 UNDISCLOSED
 
-  Capesize 5TC averaged approximately USD 30,400/day,
+  AQUAVITA AIM BC 82,192 2019 Oshima Shipbuilding Co Ltd 38,200,000 EUROPEAN
 
-  up 81% from USD 16,800/day during the corresponding
+  MEDI POSITANO BC 81,661 2015 TSUNEISHI SHBLDG - FKY 31,000,000 GREEK
 
-  period of 2025.'
+  ROYAL HOPE BC 81,011 2015 JAPAN MARINE UTD - TSU 31,200,000 UNDISCLOSED
+
+  FRANCESCO CORRADO BC 77,061 2008 Oshima Shipbuilding Co Ltd 15,000,000 KOREAN
+
+  GLORY BRIDGE BC 50,077 2001 Mitsui Chiba Ichihara 7,500,000 UNDISCL'
 themes:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
+- aframax
 title: Carriers Sales & Purchase Market Report, Week 32
 vessel_classes:
 - capesize
@@ -785,25 +784,27 @@ vessel_classes:
 ---
 
 ## Summary
-Xclusiv Shipbrokers Weekly 10th August 2026
-**Broker**: Xclusiv
+Carriers Sales & Purchase Market Report, Week 32
+**Broker**: General Broker
 **Published Date**: 11/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-10th-august-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-10th-august-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-32-2/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-32-2/)
 
 Market Report Content
-Dry Bulk Rates Ride Rising Trade
-The dry bulk freight market delivered a considerably
-stronger performance during the first seven months of
-2026, with Baltic Exchange time -charter equivalent earn-
-ings improving across all four major vessel segments com-
-pared with January -July 2025. The recovery was broad -
-based rather than dependent on a single vessel class, re-
-flecting stronger cargo volumes, improved fleet utilisation
-and firmer demand across both major and minor bulk
-trades. Based on the available daily assessments, the
-Capesize 5TC averaged approximately USD 30,400/day,
-up 81% from USD 16,800/day during the corresponding
-period of 2025.
+Week 32, 10th August 2026
+SALES & PURCHASE MARKET REPORT
+Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
+Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
+1 | P a g e
+Second-hand Market
+Bulk Carriers Reported Sold
+NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
+ORANGE TIGER BC 181,395 2011 Imabari Shbldg - Saijo 36,500,000 GREEK
+CAPE CONDOR BC 180,253 2010 Koyo Dockyard Co Ltd 39,000,000 UNDISCLOSED
+AQUAVITA AIM BC 82,192 2019 Oshima Shipbuilding Co Ltd 38,200,000 EUROPEAN
+MEDI POSITANO BC 81,661 2015 TSUNEISHI SHBLDG - FKY 31,000,000 GREEK
+ROYAL HOPE BC 81,011 2015 JAPAN MARINE UTD - TSU 31,200,000 UNDISCLOSED
+FRANCESCO CORRADO BC 77,061 2008 Oshima Shipbuilding Co Ltd 15,000,000 KOREAN
+GLORY BRIDGE BC 50,077 2001 Mitsui Chiba Ichihara 7,500,000 UNDISCL
 
 ## Carriers Sales & Purchase Market Report, Week 32
 **Broker**: General Broker

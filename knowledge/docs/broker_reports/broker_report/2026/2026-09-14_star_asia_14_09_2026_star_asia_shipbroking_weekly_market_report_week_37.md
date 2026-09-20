@@ -1046,7 +1046,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37.md
+source_path: reports/broker_reports/2026/star_asia/star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37.md
 source_stem: star_asia_14_09_2026_star_asia_shipbroking_weekly_market_report_week_37
 source_url: https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-37-5/
 summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 37

@@ -52,7 +52,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error.md
 source_stem: general_broker_29_08_2026_gibson_tanker_report_no_margin_for_error
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-no-margin-for-error/
 summary: 'Gibson tanker report - No Margin for Error

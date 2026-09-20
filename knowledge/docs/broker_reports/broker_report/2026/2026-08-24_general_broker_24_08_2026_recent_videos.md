@@ -10,25 +10,21 @@ date: '2026-08-24'
 doc_id: broker_reports_broker_report_2026-08-24_general_broker_24_08_2026_recent_videos
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- Middle East
+key_entities: []
 keywords:
-- capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
-- aframax
-- lpg
-- container
-- china
-- brazil
-- australia
-market_tone: constructive
+- arctic
+- broker
+- https
+- imo
+- ppr
+- www.hellenicshippingnews.com/category/videos
+- ahead
+- alliance
+- black
+- briefing
+- carbon
+- clean
+market_tone: neutral
 numeric_observation_count: 4
 numeric_observations:
 - section: Recent Videos
@@ -70,55 +66,34 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_24_08_2026_recent_videos.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_24_08_2026_recent_videos.md
 source_stem: general_broker_24_08_2026_recent_videos
 source_url: https://www.hellenicshippingnews.com/category/videos/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 34
+summary: 'Recent Videos
 
   **Broker**: General Broker
 
   **Published Date**: 24/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/)
+  **Source URL**: [https://www.hellenicshippingnews.com/category/videos/](https://www.hellenicshippingnews.com/category/videos/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 34 | August 21st, 2026
+  23/01/2025
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  Comments Off on Black Carbon, Scrubbers & the Arctic: Clean Arctic Alliance Briefing
+  for IMO PPR 12 Shipping Meeting
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-
-  WEEKLY MARKET REPORT
-
-  WEEK 34 · August 21st, 2026
-
-  MARKET OVERVIEW
-
-  International traders are adopting innovative logistical strategies to bypass mounting
-  bottlenecks and
-
-  record-breaking transit costs at the Panama Canal. With drought conditions linked
-  to an intensifying
-
-  weather pattern lowering local water reserves and prompting authorities to restrict
-  daily passage
-
-  allocations, the cost to secure immediate transit slots for larger gas carriers
-  surged to unprecedented
-
-  heights of US$4.6 million. To avoid these exorbitant expenses, major energy corporations
-  are increasingly
-
-  deploying cargo transfers off the Pacific entrance near Balboa.'
+  Ahead of the IMO''s Pollution Prevention and Response sub-committee (PPR 12), which
+  will meet from'
 themes:
-- capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
+- arctic
+- broker
+- https
+- imo
+- ppr
+- www.hellenicshippingnews.com/category/videos
 title: Recent Videos
 vessel_classes:
 - capesize
@@ -132,24 +107,15 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 34
+Recent Videos
 **Broker**: General Broker
 **Published Date**: 24/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-34-4/)
+**Source URL**: [https://www.hellenicshippingnews.com/category/videos/](https://www.hellenicshippingnews.com/category/videos/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 34 | August 21st, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 34 · August 21st, 2026
-MARKET OVERVIEW
-International traders are adopting innovative logistical strategies to bypass mounting bottlenecks and
-record-breaking transit costs at the Panama Canal. With drought conditions linked to an intensifying
-weather pattern lowering local water reserves and prompting authorities to restrict daily passage
-allocations, the cost to secure immediate transit slots for larger gas carriers surged to unprecedented
-heights of US$4.6 million. To avoid these exorbitant expenses, major energy corporations are increasingly
-deploying cargo transfers off the Pacific entrance near Balboa.
+23/01/2025
+Comments Off on Black Carbon, Scrubbers & the Arctic: Clean Arctic Alliance Briefing for IMO PPR 12 Shipping Meeting
+Ahead of the IMO's Pollution Prevention and Response sub-committee (PPR 12), which will meet from
 
 ## Recent Videos
 **Broker**: General Broker

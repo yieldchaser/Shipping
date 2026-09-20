@@ -66,7 +66,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2025/general_broker_23_01_2025_black_carbon_scrubbers_the_arctic_clean_arctic_all.md
+source_path: reports/broker_reports/2025/general_broker/general_broker_23_01_2025_black_carbon_scrubbers_the_arctic_clean_arctic_all.md
 source_stem: general_broker_23_01_2025_black_carbon_scrubbers_the_arctic_clean_arctic_all
 source_url: https://www.hellenicshippingnews.com/black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12-shipping-meeting/
 summary: "Black Carbon, Scrubbers & the Arctic: Clean Arctic Alliance Briefing for

@@ -15,19 +15,19 @@ key_entities:
 - Brazil
 - US Gulf
 keywords:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-running-low
-- auction
-- canal
-- content
-- date
-- driven
-- falling
-market_tone: neutral
+- handysize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
+- atlantic
+- west_africa
+- europe
+- india
+- us_gulf
+- japan
+market_tone: cautiously_bearish
 numeric_observation_count: 69
 numeric_observations:
 - section: Affinity Tanker Weekly, 14 August 2026
@@ -576,33 +576,50 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_15_08_2026_affinity_tanker_weekly_14_august_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_15_08_2026_affinity_tanker_weekly_14_august_2026.md
 source_stem: general_broker_15_08_2026_affinity_tanker_weekly_14_august_2026
 source_url: https://www.hellenicshippingnews.com/affinity-tanker-weekly-14-august-2026/
-summary: 'Gibson tanker report - Running Low
+summary: 'Affinity Tanker Weekly, 14 August 2026
 
   **Broker**: General Broker
 
   **Published Date**: 15/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/](https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/)
+  **Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-14-august-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-14-august-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  Affinity Research LLP, 44th Floor,
 
-  15/08/2026
+  The Leadenhall Building, 122 Leadenhall Street,
 
-  Panama Canal auction prices have hit record highs this month, driven by falling
-  El Nino.'
+  London, EC3A 8EE, United Kingdom
+
+  T. affinityship.comAFFINITY TANKER WEEKLY
+
+  14 AUGUST 2026
+
+  1
+
+  Crude Tanker Comments
+
+  The week ends with the VLCC market on firm footing, owing mainly to a large uptick
+  in
+
+  activity, most of which has been under the radar. The mystery list is the longest
+  it has
+
+  been for a while, with over 30 ships disappearing, but a few deals have come out
+
+  which showcase the direction of travel.'
 themes:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-running-low
+- handysize
+- vlcc
+- suezmax
+- aframax
+- china
+- brazil
 title: Affinity Tanker Weekly, 14 August 2026
 vessel_classes:
 - capesize
@@ -616,15 +633,23 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Running Low
+Affinity Tanker Weekly, 14 August 2026
 **Broker**: General Broker
 **Published Date**: 15/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/](https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/)
+**Source URL**: [https://www.hellenicshippingnews.com/affinity-tanker-weekly-14-august-2026/](https://www.hellenicshippingnews.com/affinity-tanker-weekly-14-august-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-15/08/2026
-Panama Canal auction prices have hit record highs this month, driven by falling El Nino.
+Affinity Research LLP, 44th Floor,
+The Leadenhall Building, 122 Leadenhall Street,
+London, EC3A 8EE, United Kingdom
+T. affinityship.comAFFINITY TANKER WEEKLY
+14 AUGUST 2026
+1
+Crude Tanker Comments
+The week ends with the VLCC market on firm footing, owing mainly to a large uptick in
+activity, most of which has been under the radar. The mystery list is the longest it has
+been for a while, with over 30 ships disappearing, but a few deals have come out
+which showcase the direction of travel.
 
 ## Affinity Tanker Weekly, 14 August 2026
 **Broker**: General Broker

@@ -67,7 +67,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2024/general_broker_27_06_2024_oceanos_ntua_national_technical_university_of_athens.md
+source_path: reports/broker_reports/2024/general_broker/general_broker_27_06_2024_oceanos_ntua_national_technical_university_of_athens.md
 source_stem: general_broker_27_06_2024_oceanos_ntua_national_technical_university_of_athens
 source_url: https://www.hellenicshippingnews.com/oceanos-ntua-national-technical-university-of-athens-greece/
 summary: 'Oceanos Ntua - National Technical University of Athens - Greece

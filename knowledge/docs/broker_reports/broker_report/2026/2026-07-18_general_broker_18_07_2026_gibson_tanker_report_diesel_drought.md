@@ -53,7 +53,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_18_07_2026_gibson_tanker_report_diesel_drought.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_18_07_2026_gibson_tanker_report_diesel_drought.md
 source_stem: general_broker_18_07_2026_gibson_tanker_report_diesel_drought
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/
 summary: 'Gibson tanker report - Diesel Drought

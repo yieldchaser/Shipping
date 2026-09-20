@@ -1191,7 +1191,7 @@ regions:
 section_count: 26
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_05_09_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_05_09_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_05_09_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-36-2026/
 summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 36 2026

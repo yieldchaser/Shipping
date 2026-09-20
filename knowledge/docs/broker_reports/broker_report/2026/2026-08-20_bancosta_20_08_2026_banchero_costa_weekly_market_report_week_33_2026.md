@@ -17,7 +17,9 @@ key_entities:
 - China
 - Brazil
 - Australia
-- US Gulf
+- Vale
+- OPEC
+- Atlantic basin
 keywords:
 - capesize
 - panamax
@@ -28,9 +30,9 @@ keywords:
 - aframax
 - lng
 - lpg
+- container
 - china
 - brazil
-- australia
 market_tone: constructive
 numeric_observation_count: 160
 numeric_observations:
@@ -1268,44 +1270,36 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/bancosta_20_08_2026_banchero_costa_weekly_market_report_week_33_2026.md
+source_path: reports/broker_reports/2026/banchero_costa/bancosta_20_08_2026_banchero_costa_weekly_market_report_week_33_2026.md
 source_stem: bancosta_20_08_2026_banchero_costa_weekly_market_report_week_33_2026
 source_url: https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-33-2026/
-summary: 'Fearnleys Week 34 2026
+summary: 'Banchero Costa Weekly Market Report, Week 33 2026
 
-  **Broker**: General Broker
+  **Broker**: Bancosta
 
   **Published Date**: 20/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-34-2026/](https://www.hellenicshippingnews.com/fearnleys-week-34-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-33-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-33-2026/)
 
 
   Market Report Content
 
-  Fearnleys
+  weeklymarketreport
 
-  Weekly Report
+  Week 33/2026 (10 Aug - 17 Aug)Comment: United States Crude Oil Exports
 
-  Week 34 - August 19, 2026
+  MARKET REPORT -WEEK 33/2026
 
-  info@hellenicshippingnews.com
+  2COMMENT
 
-  01Tankers
-
-  VLCC
-
-  Suezmax
-
-  We''re in "stop the press" territory now with VLCC rates galloping in all areas
-  in tandem
-
-  with the Suez- and Aframax segments. In the Atlantic we saw a stonking WS 197.5
-
-  fixture Brazil/China yesterday, up from a WS 182.5 just done a bit earlier! An
-
-  unconfirmed report suggests WS 210 has been done West Africa/East, but whether
-
-  true or not tallies with the last Brazil rate, if not higher.'
+  UNITED STATES CRUDE OIL EXPORTSAfter a marginal decline in 2024, when global crude
+  oil loadings decreased by -0.2% y-o-y, things picked up in 2025, with full-year
+  volumes increasing by +1.8% y-o-y. In Jan-Jul 2026, however, global crude oil loadings
+  declined by -6.1% y-o-y to 1,190.6 mln tonnes, excluding all cabotage trade, according
+  to vessels tracking data from LSEG. Exports from the Arabian Gulf plunged by -30.8%
+  y-o-y to 351.8 mln t in Jan-Jul 2026, and accounted for 29.5% of global seaborne
+  crude trade, down sharply from the historical norm of about 40%, reflecting the
+  ongoing war in the Persian Gulf.'
 themes:
 - capesize
 - panamax
@@ -1328,24 +1322,17 @@ vessel_classes:
 ---
 
 ## Summary
-Fearnleys Week 34 2026
-**Broker**: General Broker
+Banchero Costa Weekly Market Report, Week 33 2026
+**Broker**: Bancosta
 **Published Date**: 20/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/fearnleys-week-34-2026/](https://www.hellenicshippingnews.com/fearnleys-week-34-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-33-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-33-2026/)
 
 Market Report Content
-Fearnleys
-Weekly Report
-Week 34 - August 19, 2026
-info@hellenicshippingnews.com
-01Tankers
-VLCC
-Suezmax
-We're in "stop the press" territory now with VLCC rates galloping in all areas in tandem
-with the Suez- and Aframax segments. In the Atlantic we saw a stonking WS 197.5
-fixture Brazil/China yesterday, up from a WS 182.5 just done a bit earlier! An
-unconfirmed report suggests WS 210 has been done West Africa/East, but whether
-true or not tallies with the last Brazil rate, if not higher.
+weeklymarketreport
+Week 33/2026 (10 Aug - 17 Aug)Comment: United States Crude Oil Exports
+MARKET REPORT -WEEK 33/2026
+2COMMENT
+UNITED STATES CRUDE OIL EXPORTSAfter a marginal decline in 2024, when global crude oil loadings decreased by -0.2% y-o-y, things picked up in 2025, with full-year volumes increasing by +1.8% y-o-y. In Jan-Jul 2026, however, global crude oil loadings declined by -6.1% y-o-y to 1,190.6 mln tonnes, excluding all cabotage trade, according to vessels tracking data from LSEG. Exports from the Arabian Gulf plunged by -30.8% y-o-y to 351.8 mln t in Jan-Jul 2026, and accounted for 29.5% of global seaborne crude trade, down sharply from the historical norm of about 40%, reflecting the ongoing war in the Persian Gulf.
 
 ## Banchero Costa Weekly Market Report, Week 33 2026
 **Broker**: Bancosta

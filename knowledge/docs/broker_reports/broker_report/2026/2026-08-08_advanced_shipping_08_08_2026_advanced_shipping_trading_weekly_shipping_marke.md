@@ -17,18 +17,18 @@ key_entities:
 - Vale
 - US Gulf
 keywords:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues
-- after
-- averaged
-- black
-- blues
-- content
-- cpc
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+- lng
+- container
+- china
+- brazil
+- australia
 market_tone: neutral
 numeric_observation_count: 160
 numeric_observations:
@@ -1036,35 +1036,40 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_08_08_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_08_08_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_08_08_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-32-2026/
-summary: 'Gibson tanker report - Black Sea Blues
+summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 32 2026
 
-  **Broker**: General Broker
+  **Broker**: Advanced Shipping
 
   **Published Date**: 08/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/](https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/)
+  **Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-32-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-32-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  WEEKLY SHIPPING MARKET REPORT - pg. 1
 
-  08/08/2026
+  Week 32 (31st Jul to 7th Aug 2026)
 
-  After the disruption at the start of the year, when crude export volumes averaged
-  just 1 mbd over the winter season, the CPC terminal
+  Bulkers
 
-  Source: GIBSON SHIPBROKERS LTD'
+  Japanese owners have committed the Capesize " Orange Tiger " 181/2011
+
+  Imabari, Japan (SS 11/2030, DD 09/2028) at rgn USD 37 mill. For reference,
+
+  the sister vessel "Frontier Garland" 181/2011 Imabari, Japan (SS 01/2029,
+
+  DD 01/2027) was sold back in March at USD 36,3 mill.'
 themes:
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
 title: Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 32 2026
 vessel_classes:
 - capesize
@@ -1079,16 +1084,19 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Black Sea Blues
-**Broker**: General Broker
+Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 32 2026
+**Broker**: Advanced Shipping
 **Published Date**: 08/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/](https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/)
+**Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-32-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-32-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-08/08/2026
-After the disruption at the start of the year, when crude export volumes averaged just 1 mbd over the winter season, the CPC terminal
-Source: GIBSON SHIPBROKERS LTD
+WEEKLY SHIPPING MARKET REPORT - pg. 1
+Week 32 (31st Jul to 7th Aug 2026)
+Bulkers
+Japanese owners have committed the Capesize " Orange Tiger " 181/2011
+Imabari, Japan (SS 11/2030, DD 09/2028) at rgn USD 37 mill. For reference,
+the sister vessel "Frontier Garland" 181/2011 Imabari, Japan (SS 01/2029,
+DD 01/2027) was sold back in March at USD 36,3 mill.
 
 ## Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 32 2026
 **Broker**: Advanced Shipping

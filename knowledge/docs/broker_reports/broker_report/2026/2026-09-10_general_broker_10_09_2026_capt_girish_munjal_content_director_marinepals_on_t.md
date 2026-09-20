@@ -53,7 +53,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t.md
 source_stem: general_broker_10_09_2026_capt_girish_munjal_content_director_marinepals_on_t
 source_url: https://www.hellenicshippingnews.com/capt-girish-munjal-content-director-marinepals-on-the-impact-of-the-psc-cic-on-cargo-securing/
 summary: 'Girish Munjal, Content Director, MarinePALS on the impact of the PSC CIC

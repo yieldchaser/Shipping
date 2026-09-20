@@ -775,7 +775,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_07_09_2026_carriers_sales_purchase_market_report_week_36.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_07_09_2026_carriers_sales_purchase_market_report_week_36.md
 source_stem: general_broker_07_09_2026_carriers_sales_purchase_market_report_week_36
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-36-3/
 summary: 'Carriers Sales & Purchase Market Report, Week 36

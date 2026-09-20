@@ -582,7 +582,7 @@ regions:
 section_count: 11
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35.md
 source_stem: general_broker_01_09_2026_carriers_sales_purchase_market_report_week_35
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-35-3/
 summary: 'Carriers Sales & Purchase Market Report, Week 35

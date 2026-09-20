@@ -13,7 +13,8 @@ is_error_page: false
 key_entities: []
 keywords:
 - capesize
-- pacific
+- brazil
+- atlantic
 - europe
 - japan
 - any
@@ -23,7 +24,6 @@ keywords:
 - not
 - are
 - research
-- subject
 market_tone: neutral
 numeric_observation_count: 6
 numeric_observations:
@@ -101,43 +101,43 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_10_08_2026_ssy_atlantic_capesize_index_07_august_2026.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_10_08_2026_ssy_atlantic_capesize_index_07_august_2026.md
 source_stem: general_broker_10_08_2026_ssy_atlantic_capesize_index_07_august_2026
 source_url: https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-07-august-2026/
-summary: 'SSY PACIFIC CAPESIZE INDEX 07 AUGUST 2026
+summary: 'SSY ATLANTIC CAPESIZE INDEX 07 AUGUST 2026
 
   **Broker**: General Broker
 
   **Published Date**: 10/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-07-august-2026/](https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-07-august-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-07-august-2026/](https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-07-august-2026/)
 
 
   Market Report Content
 
   10th August 2026
 
-  31/07/2026 07/08/2026Trade Cargo SizeWeight $/t $/tRICHARDS BAY/MUNDRA 150,000/10%10%
-  17.00 19.60DAMPIER/QINGDAO 170,000/10%10% 13.00 16.30SALDAHNA BAY/QINGDAO 170,000/10%10%
-  24.45 26.30RICHARDS BAY/FANGCHENG 150,000/10%10% 24.95 26.45CAPE LAMBERT/ROTTERDAM
-  160,000/10%10% 17.25 18.15QUEENSLAND/JAPAN 150,000/10%10% 17.05 20.40QUEENSLAND/ROTTERDAM
-  150,000/10%10% 25.50 26.35NSW/ZHOUSHAN 130,000/10%10% 17.50 20.85T/C TRIP FAR EAST/CONT
-  180,000 DWT10% 1.94 2.28T/C TRANSPACIFIC ROUND 180,000 DWT10% 5.66 8.70 Calculated
-  Index 9,363 10,850 Change on Previous Index +143 +1,487Change on Four Weeks Ago
-  +830 +1,477Change on Previous Year +2,561 +3,801Change on Two Years Ago +3,258 +4,720$/Day
-  $/DayT/C TRIP FAR EAST/CONT 180,000 DWT 11,500 13,500T/C TRANSPACIFIC ROUND 180,000
-  DWT 33,500 51,500
+  31/07/2026 07/08/2026Trade Cargo SizeWeight $/t $/tNARVIK/ROTTERDAM 150,000/10%10%
+  8.60 9.35TUBARAO/ROTTERDAM 170,000/10%10% 15.00 16.00RICHARDS BAY/ROTTERDAM 150,000/10%10%
+  16.75 17.75SEVEN ISLANDS/ROTTERDAM 170,000/10%10% 14.65 15.35PUERTO BOLIVAR/ROTTERDAM
+  160,000/10%10% 20.00 20.70NOUADHIBOU/QINGDAO 170,000/10%10% 35.00 36.65TUBARAO/JAPAN
+  160,000/10%10% 33.60 35.40TUBARAO/QINGDAO 160,000/10%10% 33.90 35.70T/C TRIP CONT/FAR
+  EAST 180,000 DWT10% 11.99 13.05T/C TRANSATLANTIC ROUND 180,000 DWT10% 7.60 8.06
+  Calculated Index 14,625 15,467 Change on Previous Index +548 +842Change on Four
+  Weeks Ago +1,474 +1,002Change on Previous Year +3,799 +4,659Change on Two Years
+  Ago +4,592 +6,563$/Day $/DayT/C TRIP CONT/FAR EAST 180,000 DWT 71,000 77,250T/C
+  TRANSATLANTIC ROUND 180,000 DWT 45,000 47,750
 
-  SSY Pacific Capesize Index
+  SSY Atlantic Capesize Index
 
-  Pacific Capesize Index London:+44 (0)20 7977 7404Email:researc'
+  Atlantic Capesize Index London:+44 (0)20 7977 7404Ema'
 themes:
 - capesize
-- pacific
+- brazil
+- atlantic
 - europe
 - japan
 - any
-- information
 title: SSY ATLANTIC CAPESIZE INDEX 07 AUGUST 2026
 vessel_classes:
 - capesize
@@ -151,16 +151,16 @@ vessel_classes:
 ---
 
 ## Summary
-SSY PACIFIC CAPESIZE INDEX 07 AUGUST 2026
+SSY ATLANTIC CAPESIZE INDEX 07 AUGUST 2026
 **Broker**: General Broker
 **Published Date**: 10/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-07-august-2026/](https://www.hellenicshippingnews.com/ssy-pacific-capesize-index-07-august-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-07-august-2026/](https://www.hellenicshippingnews.com/ssy-atlantic-capesize-index-07-august-2026/)
 
 Market Report Content
 10th August 2026
-31/07/2026 07/08/2026Trade Cargo SizeWeight $/t $/tRICHARDS BAY/MUNDRA 150,000/10%10% 17.00 19.60DAMPIER/QINGDAO 170,000/10%10% 13.00 16.30SALDAHNA BAY/QINGDAO 170,000/10%10% 24.45 26.30RICHARDS BAY/FANGCHENG 150,000/10%10% 24.95 26.45CAPE LAMBERT/ROTTERDAM 160,000/10%10% 17.25 18.15QUEENSLAND/JAPAN 150,000/10%10% 17.05 20.40QUEENSLAND/ROTTERDAM 150,000/10%10% 25.50 26.35NSW/ZHOUSHAN 130,000/10%10% 17.50 20.85T/C TRIP FAR EAST/CONT 180,000 DWT10% 1.94 2.28T/C TRANSPACIFIC ROUND 180,000 DWT10% 5.66 8.70 Calculated Index 9,363 10,850 Change on Previous Index +143 +1,487Change on Four Weeks Ago +830 +1,477Change on Previous Year +2,561 +3,801Change on Two Years Ago +3,258 +4,720$/Day $/DayT/C TRIP FAR EAST/CONT 180,000 DWT 11,500 13,500T/C TRANSPACIFIC ROUND 180,000 DWT 33,500 51,500
-SSY Pacific Capesize Index
-Pacific Capesize Index London:+44 (0)20 7977 7404Email:researc
+31/07/2026 07/08/2026Trade Cargo SizeWeight $/t $/tNARVIK/ROTTERDAM 150,000/10%10% 8.60 9.35TUBARAO/ROTTERDAM 170,000/10%10% 15.00 16.00RICHARDS BAY/ROTTERDAM 150,000/10%10% 16.75 17.75SEVEN ISLANDS/ROTTERDAM 170,000/10%10% 14.65 15.35PUERTO BOLIVAR/ROTTERDAM 160,000/10%10% 20.00 20.70NOUADHIBOU/QINGDAO 170,000/10%10% 35.00 36.65TUBARAO/JAPAN 160,000/10%10% 33.60 35.40TUBARAO/QINGDAO 160,000/10%10% 33.90 35.70T/C TRIP CONT/FAR EAST 180,000 DWT10% 11.99 13.05T/C TRANSATLANTIC ROUND 180,000 DWT10% 7.60 8.06 Calculated Index 14,625 15,467 Change on Previous Index +548 +842Change on Four Weeks Ago +1,474 +1,002Change on Previous Year +3,799 +4,659Change on Two Years Ago +4,592 +6,563$/Day $/DayT/C TRIP CONT/FAR EAST 180,000 DWT 71,000 77,250T/C TRANSATLANTIC ROUND 180,000 DWT 45,000 47,750
+SSY Atlantic Capesize Index
+Atlantic Capesize Index London:+44 (0)20 7977 7404Ema
 
 ## SSY ATLANTIC CAPESIZE INDEX 07 AUGUST 2026
 **Broker**: General Broker

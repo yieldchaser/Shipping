@@ -14,10 +14,11 @@ document_type: broker_report
 is_error_page: false
 key_entities:
 - China
+- Brazil
 - Australia
+- Vale
+- OPEC
 - Atlantic basin
-- Middle East
-- US Gulf
 keywords:
 - capesize
 - panamax
@@ -27,9 +28,9 @@ keywords:
 - suezmax
 - aframax
 - lng
-- lpg
 - container
 - china
+- brazil
 - australia
 market_tone: constructive
 numeric_observation_count: 160
@@ -1273,55 +1274,75 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/bancosta_05_08_2026_banchero_costa_weekly_market_report_week_31_2026.md
+source_path: reports/broker_reports/2026/banchero_costa/bancosta_05_08_2026_banchero_costa_weekly_market_report_week_31_2026.md
 source_stem: bancosta_05_08_2026_banchero_costa_weekly_market_report_week_31_2026
 source_url: https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-31-2026/
-summary: 'Intermodal Weekly Market Report Week 31 2026 Broker''s Insight
+summary: 'Banchero Costa Weekly Market Report, Week 31 2026
 
-  **Broker**: Intermodal
+  **Broker**: Bancosta
 
   **Published Date**: 05/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/)
+  **Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-31-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-31-2026/)
 
 
   Market Report Content
 
-  Weekly Market Report
+  weeklymarketreport
 
-  www.intermodal.gr
+  Week 31/2026 (28 Jul - 03 Aug)Comment: India''s Crude Oil Imports
 
-  1
+  MARKET REPORT -WEEK 31/2026
 
-  Week 31 | Tuesday 04th August 2026
+  2COMMENT
 
-  Market Insight
+  0.0
 
-  By George Vitsos, Offshore Broker
+  5.0
 
-  The Offshore sector has been greatly affected by the current geo-
+  10.0
 
-  political situation, as challenges that are substantially greater
+  15.0
 
-  than those faced by merchant vessels are presented, due to the
+  20.0
 
-  limited flexibility the floating units have under tow. Floating rigs,
+  25.0
 
-  accommodation units, crane barges, vessels and FPSOs that are
+  JanFebMarAprMayJunJulAugSepOctNovDec
 
-  being repositioned, typically move at speeds of only 4 -7 knots
+  mln tonnes
 
-  and are unable to take evasive action, as their slow speed, pre-
+  20222023202420252026
 
-  dictable movements and large radar signature make them partic-
+  India -Monthly Crude Oil Imports -Seasonality(aug 2026 ; source: refinitiv ; seaborne
+  only ; in mln tonnes ; all tankers)55.1
 
-  ularly vulnerable targets in any environment where missiles,
+  40.5
 
-  drones, unmanned surface vessels or small craft attacks are pos-
+  5.26.64.31.40.94.3
 
-  sible. The International Maritime Organization has repeatedly
+  54.4
 
-  highlighted '
+  41.0
+
+  4.57.56.61.32.71.7
+
+  47.241.7
+
+  11.49.94.31.11.02.70.010.020.030.040.050.060.0
+
+  AGRussiaS AmericaW AfricaUSAASEANN AfricaOthers/Unknown
+
+  mln tonnes
+
+  2024 (1-6)2025 (1-6)2026 (1-6)
+
+  (aug 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)India
+  -Crude Oil Imports by Source in Jan-Jun
+
+  INDIA''S CRUDE OIL IMPORTSAfter a marginal decline in 2024, things picked up in
+  2025, with volumes increasing by +1.8% y-o-y.In Jan-Jun 2026, however, global crude
+  oil loadings declined by -6.1% y-o-y to 1,016.'
 themes:
 - capesize
 - panamax
@@ -1343,30 +1364,38 @@ vessel_classes:
 ---
 
 ## Summary
-Intermodal Weekly Market Report Week 31 2026 Broker's Insight
-**Broker**: Intermodal
+Banchero Costa Weekly Market Report, Week 31 2026
+**Broker**: Bancosta
 **Published Date**: 05/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-31-2026-brokers-insight/)
+**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-31-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-31-2026/)
 
 Market Report Content
-Weekly Market Report
-www.intermodal.gr
-1
-Week 31 | Tuesday 04th August 2026
-Market Insight
-By George Vitsos, Offshore Broker
-The Offshore sector has been greatly affected by the current geo-
-political situation, as challenges that are substantially greater
-than those faced by merchant vessels are presented, due to the
-limited flexibility the floating units have under tow. Floating rigs,
-accommodation units, crane barges, vessels and FPSOs that are
-being repositioned, typically move at speeds of only 4 -7 knots
-and are unable to take evasive action, as their slow speed, pre-
-dictable movements and large radar signature make them partic-
-ularly vulnerable targets in any environment where missiles,
-drones, unmanned surface vessels or small craft attacks are pos-
-sible. The International Maritime Organization has repeatedly
-highlighted 
+weeklymarketreport
+Week 31/2026 (28 Jul - 03 Aug)Comment: India's Crude Oil Imports
+MARKET REPORT -WEEK 31/2026
+2COMMENT
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+JanFebMarAprMayJunJulAugSepOctNovDec
+mln tonnes
+20222023202420252026
+India -Monthly Crude Oil Imports -Seasonality(aug 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)55.1
+40.5
+5.26.64.31.40.94.3
+54.4
+41.0
+4.57.56.61.32.71.7
+47.241.7
+11.49.94.31.11.02.70.010.020.030.040.050.060.0
+AGRussiaS AmericaW AfricaUSAASEANN AfricaOthers/Unknown
+mln tonnes
+2024 (1-6)2025 (1-6)2026 (1-6)
+(aug 2026 ; source: refinitiv ; seaborne only ; in mln tonnes ; all tankers)India -Crude Oil Imports by Source in Jan-Jun
+INDIA'S CRUDE OIL IMPORTSAfter a marginal decline in 2024, things picked up in 2025, with volumes increasing by +1.8% y-o-y.In Jan-Jun 2026, however, global crude oil loadings declined by -6.1% y-o-y to 1,016.
 
 ## Banchero Costa Weekly Market Report, Week 31 2026
 **Broker**: Bancosta

@@ -59,7 +59,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_08_08_2026_gibson_tanker_report_black_sea_blues.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_08_08_2026_gibson_tanker_report_black_sea_blues.md
 source_stem: general_broker_08_08_2026_gibson_tanker_report_black_sea_blues
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-black-sea-blues/
 summary: 'Gibson tanker report - Black Sea Blues

@@ -13,19 +13,20 @@ document_type: broker_report
 is_error_page: false
 key_entities:
 - China
+- Brazil
 keywords:
 - capesize
 - panamax
-- supramax
-- handysize
-- container
 - china
-- atlantic
+- brazil
 - europe
 - india
 - singapore
-- japan
-- steel
+- grain
+- crude_oil
+- products
+- gas
+- any
 market_tone: cautiously_bearish
 numeric_observation_count: 72
 numeric_observations:
@@ -678,60 +679,38 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial.md
 source_stem: general_broker_17_07_2026_agora_shipbroking_corporation_snapshot_of_commercial
 source_url: https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/
-summary: 'Lion Shipbrokers Weekly Market Report, Week 29 2026
+summary: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report
+  - Week 29 2026
 
-  **Broker**: Lion Shipbrokers
+  **Broker**: General Broker
 
   **Published Date**: 17/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-29-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-29-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/](https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/)
 
 
   Market Report Content
 
-  LION SHIPBROKERS
+  AGORA SHIPBROKING CORPORATION
 
-  WEEKLY REPORT
+  Piraeus Office: No. 9, II Merarchias Str., Piraeus 18535, Greece
 
-  Should you have any comments or questions about the content of our report or require
-  our services, please contact:
+  London Office: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT,United Kingdom
 
-  LION SHIPBROKERS LIMITED
+  www.agoraships.com
 
-  Tel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)
-
-  Dry Cargo Chartering : chartering@lionshipbrokers.gr
-
-  Container Chartering : container@lionshipbrokers.gr
-
-  Sale & Purchase/Demolition : snp@lionshipbrokers.gr
-
-  Research & Valuations : research@lionshipbrokers.gr
-
-  Visit our homepage at www.lionshipbrokers.com for more details
-
-  WEEK 29 - 17 JULY 2026
-
-  Quote of the week:
-
-  "Football is a simple game. Twenty-two men chase a ball for 90 minutes and at the
-  end, the Germans always win."
-
-  Gary Lineker (born 30 November 1960) - English sports broadcaster and former professional
-  footballer). MARKET COMMENTARY
-
-  Bulkers: The Baltic index has corrected, closing today at 2752 points, 6.5% lower
-  than last Frid'
+  Disclaimer: The historical data provided herein are displayed for information purposes
+  only.'
 themes:
 - capesize
 - panamax
-- supramax
-- handysize
-- container
 - china
+- brazil
+- europe
+- india
 title: 'Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report -
   Week 29 2026'
 vessel_classes:
@@ -746,27 +725,17 @@ vessel_classes:
 ---
 
 ## Summary
-Lion Shipbrokers Weekly Market Report, Week 29 2026
-**Broker**: Lion Shipbrokers
+Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026
+**Broker**: General Broker
 **Published Date**: 17/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-29-2026/](https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-29-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/](https://www.hellenicshippingnews.com/agora-shipbroking-corporation-snapshot-of-commercial-indicators-report-week-29-2026/)
 
 Market Report Content
-LION SHIPBROKERS
-WEEKLY REPORT
-Should you have any comments or questions about the content of our report or require our services, please contact:
-LION SHIPBROKERS LIMITED
-Tel: +30 210 4122965 (2 lines), 210 8992792 (2 lines)
-Dry Cargo Chartering : chartering@lionshipbrokers.gr
-Container Chartering : container@lionshipbrokers.gr
-Sale & Purchase/Demolition : snp@lionshipbrokers.gr
-Research & Valuations : research@lionshipbrokers.gr
-Visit our homepage at www.lionshipbrokers.com for more details
-WEEK 29 - 17 JULY 2026
-Quote of the week:
-"Football is a simple game. Twenty-two men chase a ball for 90 minutes and at the end, the Germans always win."
-Gary Lineker (born 30 November 1960) - English sports broadcaster and former professional footballer). MARKET COMMENTARY
-Bulkers: The Baltic index has corrected, closing today at 2752 points, 6.5% lower than last Frid
+AGORA SHIPBROKING CORPORATION
+Piraeus Office: No. 9, II Merarchias Str., Piraeus 18535, Greece
+London Office: No. 21, Aylmer Parade, Aylmer Road, London, N2 0AT,United Kingdom
+www.agoraships.com
+Disclaimer: The historical data provided herein are displayed for information purposes only.
 
 ## Agora Shipbroking Corporation: Snapshot of Commercial Indicators Report - Week 29 2026
 **Broker**: General Broker

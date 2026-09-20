@@ -66,7 +66,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2024/general_broker_30_09_2024_pre-mepc_82_briefing_on_black_carbon_ghgs_scrubbers.md
+source_path: reports/broker_reports/2024/general_broker/general_broker_30_09_2024_pre-mepc_82_briefing_on_black_carbon_ghgs_scrubbers.md
 source_stem: general_broker_30_09_2024_pre-mepc_82_briefing_on_black_carbon_ghgs_scrubbers
 source_url: https://www.hellenicshippingnews.com/pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shipping-impacts/
 summary: 'Pre-MEPC 82 Briefing on black carbon, GHGs, scrubbers, noise, plastics &

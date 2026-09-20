@@ -1258,7 +1258,7 @@ regions:
 section_count: 31
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35.md
 source_stem: general_broker_31_08_2026_star_asia_shipbroking_weekly_market_report_week_35
 source_url: https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-35-5/
 summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 35

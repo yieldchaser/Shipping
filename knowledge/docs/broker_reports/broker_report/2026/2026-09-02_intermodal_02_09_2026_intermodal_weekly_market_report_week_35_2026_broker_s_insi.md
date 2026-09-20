@@ -1179,7 +1179,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/intermodal_02_09_2026_intermodal_weekly_market_report_week_35_2026_broker_s_insi.md
+source_path: reports/broker_reports/2026/intermodal/intermodal_02_09_2026_intermodal_weekly_market_report_week_35_2026_broker_s_insi.md
 source_stem: intermodal_02_09_2026_intermodal_weekly_market_report_week_35_2026_broker_s_insi
 source_url: https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-35-2026-brokers-insight/
 summary: 'Intermodal Weekly Market Report Week 35 2026 Broker''s Insight
@@ -1193,14 +1193,31 @@ summary: 'Intermodal Weekly Market Report Week 35 2026 Broker''s Insight
 
   Market Report Content
 
-  Market Insight By Nikos Tagoulis, Senior Analyst
+  Weekly Market Report
 
-  The EUA market maintained its upward trend in August, despite the quieter trading
-  conditions and lower liquidity that typically characterize the holiday period. The
-  advance extended the recov- ery that began in late March and left the EU ETS on
-  a constructive footing heading into autumn. The Front Dec-26 EUA contract av- eraged
-  €82.36 /ton during August and at the time of writing read €83.30 /ton, around 6.5%
-  above the 2026 y-t-d average.'
+  www.intermodal.gr
+
+  1
+
+  Week 35 | Tuesday 01st September 2026
+
+  Market Insight
+
+  By Nikos Tagoulis, Senior Analyst
+
+  The EUA market maintained its upward trend in August, despite
+
+  the quieter trading conditions and lower liquidity that typically
+
+  characterize the holiday period. The advance extended the recov-
+
+  ery that began in late March and left the EU ETS on a constructive
+
+  footing heading into autumn. The Front Dec -26 EUA contract av-
+
+  eraged €82.36 /ton during August and at the time of writing read
+
+  €83.30 /ton, around 6.5% above the 2026 y -t-d average.'
 themes:
 - capesize
 - panamax
@@ -1229,8 +1246,19 @@ Intermodal Weekly Market Report Week 35 2026 Broker's Insight
 **Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-35-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-35-2026-brokers-insight/)
 
 Market Report Content
-Market Insight By Nikos Tagoulis, Senior Analyst
-The EUA market maintained its upward trend in August, despite the quieter trading conditions and lower liquidity that typically characterize the holiday period. The advance extended the recov- ery that began in late March and left the EU ETS on a constructive footing heading into autumn. The Front Dec-26 EUA contract av- eraged €82.36 /ton during August and at the time of writing read €83.30 /ton, around 6.5% above the 2026 y-t-d average.
+Weekly Market Report
+www.intermodal.gr
+1
+Week 35 | Tuesday 01st September 2026
+Market Insight
+By Nikos Tagoulis, Senior Analyst
+The EUA market maintained its upward trend in August, despite
+the quieter trading conditions and lower liquidity that typically
+characterize the holiday period. The advance extended the recov-
+ery that began in late March and left the EU ETS on a constructive
+footing heading into autumn. The Front Dec -26 EUA contract av-
+eraged €82.36 /ton during August and at the time of writing read
+€83.30 /ton, around 6.5% above the 2026 y -t-d average.
 
 ## Intermodal Weekly Market Report Week 35 2026 Broker's Insight
 **Broker**: Intermodal

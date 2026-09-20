@@ -12,20 +12,23 @@ doc_id: broker_reports_broker_report_2026-07-18_advanced_shipping_18_07_2026_adv
 document_type: broker_report
 is_error_page: false
 key_entities:
-- Middle East
+- China
+- Australia
+- Vale
+- US Gulf
 keywords:
-- products
-- broker
-- gibson
-- https
-- shipbrokers
-- source
-- www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought
-- building
-- content
-- crisis
-- date
-- diesel
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+- lng
+- container
+- china
+- brazil
+- australia
 market_tone: neutral
 numeric_observation_count: 160
 numeric_observations:
@@ -995,35 +998,40 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_18_07_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_18_07_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_18_07_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-29-2026/
-summary: 'Gibson tanker report - Diesel Drought
+summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 29 2026
 
-  **Broker**: General Broker
+  **Broker**: Advanced Shipping
 
   **Published Date**: 18/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/](https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/)
+  **Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-29-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-29-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  WEEKLY SHIPPING MARKET REPORT - pg. 1
 
-  18/07/2026
+  Week 29 (10th Jul to 17th Jul 2026)
 
-  With the Middle East crisis at the forefront of everyone''s minds, a second, more
-  slowly building supply shock has flown somewhat
+  Bulkers
 
-  Source: GIBSON SHIPBROKERS LTD'
+  Nereus Shipping have committed their Capesize "Heroic" 182/2010 Odense,
+
+  Denmark (SS 10/2030, DD 10/2027) at USD 32,8 mill. Remind you that back
+
+  in February, same owners sold the sister vessel "Epic" 182/2010 Odense,
+
+  Denmark (SS 07/2030, DD 08/2027) at USD 32,2 mill.'
 themes:
-- products
-- broker
-- gibson
-- https
-- shipbrokers
-- source
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
 title: Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 29 2026
 vessel_classes:
 - capesize
@@ -1038,16 +1046,19 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Diesel Drought
-**Broker**: General Broker
+Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 29 2026
+**Broker**: Advanced Shipping
 **Published Date**: 18/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/](https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drought/)
+**Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-29-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-29-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-18/07/2026
-With the Middle East crisis at the forefront of everyone's minds, a second, more slowly building supply shock has flown somewhat
-Source: GIBSON SHIPBROKERS LTD
+WEEKLY SHIPPING MARKET REPORT - pg. 1
+Week 29 (10th Jul to 17th Jul 2026)
+Bulkers
+Nereus Shipping have committed their Capesize "Heroic" 182/2010 Odense,
+Denmark (SS 10/2030, DD 10/2027) at USD 32,8 mill. Remind you that back
+in February, same owners sold the sister vessel "Epic" 182/2010 Odense,
+Denmark (SS 07/2030, DD 08/2027) at USD 32,2 mill.
 
 ## Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 29 2026
 **Broker**: Advanced Shipping

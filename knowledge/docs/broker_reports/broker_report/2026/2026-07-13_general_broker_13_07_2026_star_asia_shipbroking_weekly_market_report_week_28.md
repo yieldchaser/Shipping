@@ -1042,7 +1042,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_13_07_2026_star_asia_shipbroking_weekly_market_report_week_28.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_13_07_2026_star_asia_shipbroking_weekly_market_report_week_28.md
 source_stem: general_broker_13_07_2026_star_asia_shipbroking_weekly_market_report_week_28
 source_url: https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-28-4/
 summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 28

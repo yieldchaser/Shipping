@@ -1253,7 +1253,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi.md
+source_path: reports/broker_reports/2026/intermodal/intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi.md
 source_stem: intermodal_15_07_2026_intermodal_weekly_market_report_week_28_2026_broker_s_insi
 source_url: https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-28-2026-brokers-insight/
 summary: 'Intermodal Weekly Market Report Week 28 2026 Broker''s Insight

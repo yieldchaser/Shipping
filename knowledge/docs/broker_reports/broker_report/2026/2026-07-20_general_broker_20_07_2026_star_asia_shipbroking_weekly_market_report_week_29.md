@@ -1059,7 +1059,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_20_07_2026_star_asia_shipbroking_weekly_market_report_week_29.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_20_07_2026_star_asia_shipbroking_weekly_market_report_week_29.md
 source_stem: general_broker_20_07_2026_star_asia_shipbroking_weekly_market_report_week_29
 source_url: https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-29-5/
 summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 29

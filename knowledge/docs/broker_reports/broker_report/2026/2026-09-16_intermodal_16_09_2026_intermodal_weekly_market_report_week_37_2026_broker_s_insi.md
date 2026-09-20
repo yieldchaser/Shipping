@@ -1255,7 +1255,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/intermodal_16_09_2026_intermodal_weekly_market_report_week_37_2026_broker_s_insi.md
+source_path: reports/broker_reports/2026/intermodal/intermodal_16_09_2026_intermodal_weekly_market_report_week_37_2026_broker_s_insi.md
 source_stem: intermodal_16_09_2026_intermodal_weekly_market_report_week_37_2026_broker_s_insi
 source_url: https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-37-2026-brokers-insight/
 summary: 'Intermodal Weekly Market Report Week 37 2026 Broker''s Insight

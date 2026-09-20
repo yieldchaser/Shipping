@@ -52,7 +52,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/gibson_12_09_2026_gibson_tanker_report_africa_s_refining_pipeline.md
+source_path: reports/broker_reports/2026/gibson/gibson_12_09_2026_gibson_tanker_report_africa_s_refining_pipeline.md
 source_stem: gibson_12_09_2026_gibson_tanker_report_africa_s_refining_pipeline
 source_url: https://www.hellenicshippingnews.com/gibson-tanker-report-africas-refining-pipeline/
 summary: 'Gibson tanker report - Africa''s Refining Pipeline

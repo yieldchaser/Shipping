@@ -17,19 +17,19 @@ key_entities:
 - Vale
 - US Gulf
 keywords:
-- broker
-- crossed
-- gibson
-- https
-- shipbrokers
-- source
-- wakes
-- www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes
-- content
-- crude
-- date
-- different
-market_tone: neutral
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+- lng
+- lpg
+- container
+- china
+- brazil
+market_tone: constructive
 numeric_observation_count: 160
 numeric_observations:
 - section: Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 33 - 34
@@ -1003,33 +1003,43 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/advanced_shipping_22_08_2026_advanced_shipping_trading_weekly_shipping_marke.md
+source_path: reports/broker_reports/2026/advanced_shipping/advanced_shipping_22_08_2026_advanced_shipping_trading_weekly_shipping_marke.md
 source_stem: advanced_shipping_22_08_2026_advanced_shipping_trading_weekly_shipping_marke
 source_url: https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-33-34-2026/
-summary: 'Gibson tanker report - Crossed Wakes
+summary: 'Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 33 - 34
+  2026
 
-  **Broker**: General Broker
+  **Broker**: Advanced Shipping
 
   **Published Date**: 22/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/](https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/)
+  **Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-33-34-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-33-34-2026/)
 
 
   Market Report Content
 
-  in Weekly Shipbrokers Reports
+  WEEKLY SHIPPING MARKET REPORT - pg. 1
 
-  22/08/2026
+  Week 33-34 (7th Aug to 21st Aug 2026)
 
-  The crude vessel segments have crossed wakes this year - moving in different directions
-  even as they share the same waters.'
+  Bulkers
+
+  Jierui Shipping have committed their Capesize " Jian Fa " 175/2004 SWS,
+
+  China (SS 08/2029, DD 07/2027, Scrubber fitted) to undisclosed interests at
+
+  USD 18,5 mill. By way of comparison, the one-year-younger sister vessel "XH
+
+  Navigator" 174/2005 SWS, China (SS 11/2030, DD 01/2029, Scrubber fitted)
+
+  was sold in May at xs USD 20 mill.'
 themes:
-- broker
-- crossed
-- gibson
-- https
-- shipbrokers
-- source
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
 title: Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 33 - 34 2026
 vessel_classes:
 - capesize
@@ -1045,15 +1055,20 @@ vessel_classes:
 ---
 
 ## Summary
-Gibson tanker report - Crossed Wakes
-**Broker**: General Broker
+Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 33 - 34 2026
+**Broker**: Advanced Shipping
 **Published Date**: 22/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/](https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/)
+**Source URL**: [https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-33-34-2026/](https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-33-34-2026/)
 
 Market Report Content
-in Weekly Shipbrokers Reports
-22/08/2026
-The crude vessel segments have crossed wakes this year - moving in different directions even as they share the same waters.
+WEEKLY SHIPPING MARKET REPORT - pg. 1
+Week 33-34 (7th Aug to 21st Aug 2026)
+Bulkers
+Jierui Shipping have committed their Capesize " Jian Fa " 175/2004 SWS,
+China (SS 08/2029, DD 07/2027, Scrubber fitted) to undisclosed interests at
+USD 18,5 mill. By way of comparison, the one-year-younger sister vessel "XH
+Navigator" 174/2005 SWS, China (SS 11/2030, DD 01/2029, Scrubber fitted)
+was sold in May at xs USD 20 mill.
 
 ## Advanced Shipping & Trading - WEEKLY SHIPPING MARKET REPORT WEEK 33 - 34 2026
 **Broker**: Advanced Shipping

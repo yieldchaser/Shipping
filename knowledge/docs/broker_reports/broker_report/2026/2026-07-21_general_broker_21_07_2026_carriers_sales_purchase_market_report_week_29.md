@@ -12,27 +12,21 @@ date: '2026-07-21'
 doc_id: broker_reports_broker_report_2026-07-21_general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- Atlantic basin
-- Middle East
-- US Gulf
+key_entities: []
 keywords:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
 - aframax
 - lng
+- lpg
 - container
 - china
-- brazil
-- australia
-market_tone: cautiously_bearish
+- atlantic
+- meg
+market_tone: neutral
 numeric_observation_count: 90
 numeric_observations:
 - section: Carriers Sales & Purchase Market Report, Week 29
@@ -768,56 +762,61 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29.md
 source_stem: general_broker_21_07_2026_carriers_sales_purchase_market_report_week_29
 source_url: https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/
-summary: 'Xclusiv Shipbrokers Weekly 20th July 2026
+summary: 'Carriers Sales & Purchase Market Report, Week 29
 
-  **Broker**: Xclusiv
+  **Broker**: General Broker
 
   **Published Date**: 21/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/)
+  **Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/)
 
 
   Market Report Content
 
-  Beyond the Chokepoint: How Gulf Producers Are Hedg-
+  Week 29, 20th July 2026
 
-  ing Against Hormuz
+  SALES & PURCHASE MARKET REPORT
 
-  The renewed escalation in the Middle East has again
+  Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece.
+  Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
 
-  placed the Strait of Hormuz at the centre of the energy
+  Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
 
-  and shipping debate, but this time the discussion is mov-
+  1 | P a g e
 
-  ing beyond war -risk premiums and temporary rerouting. Following the latest exchange
-  of attacks, the escalation of
+  Second-hand Market
 
-  tension and President Trump''s proposal for a 20% charge
+  Bulk Carriers Reported Sold
 
-  on cargoes transiting Hormuz, which eventually was tak-
+  NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
 
-  en back, the market is being forced to price not only the
+  AASHNA BC 179,523 2012 HHIC-Phil Inc 37,500,000 CHINESE
 
-  risk of physical disruption, but also the possibility that the
+  INDUS PROSPERITY BC 92,988 2011 Taizhou Sanfu Ship
 
-  world''s most important oil chokepoint becomes a more
+  Engineering 13,250,000 UNDISCLOSED SS/DD DUE
 
-  expensive and politically managed corridor. Owners, charterers and insurers are
+  OCEAN RHEA BC 92,648 2011 Jiangsu Jinling Ships Co Ltd 15,250,000 UNDISCLOSED
 
-  already operating in an environment where every Gulf fixture carries a wider risk
-  assessment, while the prospect of a
+  BRITTA OLDENDORFF BC 62,623 2020 Oshima Shipbuilding Co Ltd 37,000,000 MEGHNA
 
-  formalised transit charge would further increase the cost of lifting '
+  BENJAMIN OLDENDORFF BC 62,623 2020 Oshima Shipbuilding Co Ltd 37,000,000 MEGHNA
+
+  BLUE AKIHABARA BC 61,630 2014 Nantong COSCO KHI Ship
+
+  Eng 25,500,000 GREEK
+
+  INCE BEYLERBEYI BC 61,429 2012 Iwagi Zosen'
 themes:
 - capesize
 - panamax
 - supramax
 - handysize
 - vlcc
-- suezmax
+- aframax
 title: Carriers Sales & Purchase Market Report, Week 29
 vessel_classes:
 - capesize
@@ -833,26 +832,29 @@ vessel_classes:
 ---
 
 ## Summary
-Xclusiv Shipbrokers Weekly 20th July 2026
-**Broker**: Xclusiv
+Carriers Sales & Purchase Market Report, Week 29
+**Broker**: General Broker
 **Published Date**: 21/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/](https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-20th-july-2026/)
+**Source URL**: [https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/](https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-29-3/)
 
 Market Report Content
-Beyond the Chokepoint: How Gulf Producers Are Hedg-
-ing Against Hormuz
-The renewed escalation in the Middle East has again
-placed the Strait of Hormuz at the centre of the energy
-and shipping debate, but this time the discussion is mov-
-ing beyond war -risk premiums and temporary rerouting. Following the latest exchange of attacks, the escalation of
-tension and President Trump's proposal for a 20% charge
-on cargoes transiting Hormuz, which eventually was tak-
-en back, the market is being forced to price not only the
-risk of physical disruption, but also the possibility that the
-world's most important oil chokepoint becomes a more
-expensive and politically managed corridor. Owners, charterers and insurers are
-already operating in an environment where every Gulf fixture carries a wider risk assessment, while the prospect of a
-formalised transit charge would further increase the cost of lifting 
+Week 29, 20th July 2026
+SALES & PURCHASE MARKET REPORT
+Carriers Chartering Corp. Kaplanon 7 & Massalias Street, 106 80 Athens, Greece. Tel: +30-210 3668700 / Fax: +30-210 3631493 / www.carriers.gr
+Email Address: snp@carriers.gr, capespmx@carriers.gr, handy@carriers.gr
+1 | P a g e
+Second-hand Market
+Bulk Carriers Reported Sold
+NAME TYPE DWT BUILT YARD PRICE BUYERS COMMENTS
+AASHNA BC 179,523 2012 HHIC-Phil Inc 37,500,000 CHINESE
+INDUS PROSPERITY BC 92,988 2011 Taizhou Sanfu Ship
+Engineering 13,250,000 UNDISCLOSED SS/DD DUE
+OCEAN RHEA BC 92,648 2011 Jiangsu Jinling Ships Co Ltd 15,250,000 UNDISCLOSED
+BRITTA OLDENDORFF BC 62,623 2020 Oshima Shipbuilding Co Ltd 37,000,000 MEGHNA
+BENJAMIN OLDENDORFF BC 62,623 2020 Oshima Shipbuilding Co Ltd 37,000,000 MEGHNA
+BLUE AKIHABARA BC 61,630 2014 Nantong COSCO KHI Ship
+Eng 25,500,000 GREEK
+INCE BEYLERBEYI BC 61,429 2012 Iwagi Zosen
 
 ## Carriers Sales & Purchase Market Report, Week 29
 **Broker**: General Broker

@@ -58,7 +58,7 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2024/general_broker_14_07_2024_helmepa_at_posidonia_2024.md
+source_path: reports/broker_reports/2024/general_broker/general_broker_14_07_2024_helmepa_at_posidonia_2024.md
 source_stem: general_broker_14_07_2024_helmepa_at_posidonia_2024
 source_url: https://www.hellenicshippingnews.com/helmepa-at-posidonia-2024/
 summary: "HELMEPA AT POSIDONIA 2024\n**Broker**: General Broker\n**Published Date**:

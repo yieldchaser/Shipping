@@ -17,8 +17,9 @@ key_entities:
 - China
 - Brazil
 - Australia
-- Middle East
-- US Gulf
+- Vale
+- OPEC
+- Atlantic basin
 keywords:
 - capesize
 - panamax
@@ -32,7 +33,7 @@ keywords:
 - container
 - china
 - brazil
-market_tone: constructive
+market_tone: cautiously_bearish
 numeric_observation_count: 160
 numeric_observations:
 - section: Banchero Costa Weekly Market Report, Week 30 2026
@@ -1102,48 +1103,103 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/bancosta_29_07_2026_banchero_costa_weekly_market_report_week_30_2026.md
+source_path: reports/broker_reports/2026/banchero_costa/bancosta_29_07_2026_banchero_costa_weekly_market_report_week_30_2026.md
 source_stem: bancosta_29_07_2026_banchero_costa_weekly_market_report_week_30_2026
 source_url: https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-30-2026/
-summary: 'Intermodal Weekly Market Report Week 30 2026 Broker''s Insight
+summary: 'Banchero Costa Weekly Market Report, Week 30 2026
 
-  **Broker**: Intermodal
+  **Broker**: Bancosta
 
   **Published Date**: 29/07/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/)
+  **Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-30-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-30-2026/)
 
 
   Market Report Content
 
-  Weekly Market Report
+  weeklymarketreport
 
-  www.intermodal.gr
+  Week 30/2026 (21 Jul - 28 Jul)Comment: Brazil''s Iron Ore Exports
 
-  1
+  MARKET REPORT -WEEK 30/2026
 
-  Week 30 | Tuesday 28th July 2026
+  2COMMENT
 
-  Market Insight
+  0.0
 
-  By Nikos Tagoulis, Senior Analyst
+  5.0
 
-  The Middle East conflict entered a new phase following the
+  10.0
 
-  Houthis'' imposition of a naval blockade against Saudi Arabia, add-
+  15.0
 
-  ing to geopolitical uncertainty. Beyond attacks on vessels, recent
+  20.0
 
-  reports that a Houthi strike forced the 400,000 -bpd Jazan oil re-
+  25.0
 
-  finery to halt operations demonstrate that the Houthis are also
+  30.0
 
-  willing to target energy infrastructure. This escalation comes at a time when Saudi
-  Arabia increasingly
+  35.0
 
-  relies on its west coast to maintain commodity exports following
+  40.0
 
-  the disruption of traffic through the Strait of Hormuz.'
+  45.0
+
+  JanFebMarAprMayJunJulAugSepOctNovDec
+
+  mln tonnes
+
+  20222023202420252026
+
+  Brazil -Monthly Iron Ore Exports -Seasonality(jul 2026 ; source: axs marine ; seaborne
+  only ; in mln tonnes ; all bulkers)
+
+  125.8
+
+  9.29.54.92.82.10.1
+
+  23.0
+
+  127.7
+
+  9.77.45.13.62.71.2
+
+  22.2
+
+  130.1
+
+  10.65.85.53.83.43.0
+
+  19.7
+
+  0.0
+
+  20.0
+
+  40.0
+
+  60.0
+
+  80.0
+
+  100.0
+
+  120.0
+
+  140.0
+
+  ChinaMalaysiaEUJapanS KoreaTurkeyIndiaOthers/Unknown
+
+  mln tonnes
+
+  2024 (1-6)2025 (1-6)2026 (1-6)
+
+  (jul 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)Brazil
+  -Iron Ore Exports by Destination in Jan-Jun
+
+  BRAZIL''S IRON ORE EXPORTS1H 2026 was another positive period for global seaborne
+  iron ore trade. In Jan-Jun 2026, global loadings of iron ore increased by +1.9%
+  y-o-'
 themes:
 - capesize
 - panamax
@@ -1166,26 +1222,52 @@ vessel_classes:
 ---
 
 ## Summary
-Intermodal Weekly Market Report Week 30 2026 Broker's Insight
-**Broker**: Intermodal
+Banchero Costa Weekly Market Report, Week 30 2026
+**Broker**: Bancosta
 **Published Date**: 29/07/2026
-**Source URL**: [https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/](https://www.hellenicshippingnews.com/intermodal-weekly-market-report-week-30-2026-brokers-insight/)
+**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-30-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-30-2026/)
 
 Market Report Content
-Weekly Market Report
-www.intermodal.gr
-1
-Week 30 | Tuesday 28th July 2026
-Market Insight
-By Nikos Tagoulis, Senior Analyst
-The Middle East conflict entered a new phase following the
-Houthis' imposition of a naval blockade against Saudi Arabia, add-
-ing to geopolitical uncertainty. Beyond attacks on vessels, recent
-reports that a Houthi strike forced the 400,000 -bpd Jazan oil re-
-finery to halt operations demonstrate that the Houthis are also
-willing to target energy infrastructure. This escalation comes at a time when Saudi Arabia increasingly
-relies on its west coast to maintain commodity exports following
-the disruption of traffic through the Strait of Hormuz.
+weeklymarketreport
+Week 30/2026 (21 Jul - 28 Jul)Comment: Brazil's Iron Ore Exports
+MARKET REPORT -WEEK 30/2026
+2COMMENT
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+35.0
+40.0
+45.0
+JanFebMarAprMayJunJulAugSepOctNovDec
+mln tonnes
+20222023202420252026
+Brazil -Monthly Iron Ore Exports -Seasonality(jul 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)
+125.8
+9.29.54.92.82.10.1
+23.0
+127.7
+9.77.45.13.62.71.2
+22.2
+130.1
+10.65.85.53.83.43.0
+19.7
+0.0
+20.0
+40.0
+60.0
+80.0
+100.0
+120.0
+140.0
+ChinaMalaysiaEUJapanS KoreaTurkeyIndiaOthers/Unknown
+mln tonnes
+2024 (1-6)2025 (1-6)2026 (1-6)
+(jul 2026 ; source: axs marine ; seaborne only ; in mln tonnes ; all bulkers)Brazil -Iron Ore Exports by Destination in Jan-Jun
+BRAZIL'S IRON ORE EXPORTS1H 2026 was another positive period for global seaborne iron ore trade. In Jan-Jun 2026, global loadings of iron ore increased by +1.9% y-o-
 
 ## Banchero Costa Weekly Market Report, Week 30 2026
 **Broker**: Bancosta

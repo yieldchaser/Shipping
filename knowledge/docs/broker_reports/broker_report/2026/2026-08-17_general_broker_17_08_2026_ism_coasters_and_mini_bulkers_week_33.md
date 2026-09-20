@@ -11,26 +11,20 @@ date: '2026-08-17'
 doc_id: broker_reports_broker_report_2026-08-17_general_broker_17_08_2026_ism_coasters_and_mini_bulkers_week_33
 document_type: broker_report
 is_error_page: false
-key_entities:
-- China
-- Brazil
-- Australia
-- OPEC
-- Middle East
-- US Gulf
+key_entities: []
 keywords:
-- capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
-- aframax
-- lng
-- lpg
-- container
-- china
-- brazil
+- europe
+- grain
+- steel
+- dwcc
+- marmara/med
+- are
+- sea
+- coaster
+- ports
+- seagoing
+- vsl
+- year
 market_tone: constructive
 numeric_observation_count: 33
 numeric_observations:
@@ -289,55 +283,50 @@ regions:
 section_count: 2
 signals: {}
 source: broker_reports
-source_path: reports/broker_reports/2026/general_broker_17_08_2026_ism_coasters_and_mini_bulkers_week_33.md
+source_path: reports/broker_reports/2026/general_broker/general_broker_17_08_2026_ism_coasters_and_mini_bulkers_week_33.md
 source_stem: general_broker_17_08_2026_ism_coasters_and_mini_bulkers_week_33
 source_url: https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-33-4/
-summary: 'Star Asia Shipbroking Weekly Market Report - WEEK 33
+summary: 'ISM coasters and mini bulkers - Week 33
 
   **Broker**: General Broker
 
   **Published Date**: 17/08/2026
 
-  **Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/)
+  **Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-33-4/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-33-4/)
 
 
   Market Report Content
 
-  STAR ASIA | WEEKLY MARKET REPORT Week 33 | August 15th, 2026
+  CHARTERING MARKET AT HAND:
 
-  snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
+  COASTERS AND MINIBULKERS // WEEK 33
 
-  Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
+  Coaster market: charterers partially reversed recent surge in Ukrainian freight
 
-  WEEKLY MARKET REPORT
+  rates, Mediterranean and Baltic face a long list of open vessels
 
-  WEEK 33 · August 15th, 2026
+  Cargo offer continues to grow on the Black Sea
 
-  MARKET OVERVIEW
+  small-tonnage market in the first half of August,
 
-  The cascading effects of ongoing Middle Eastern maritime disruptions are generating
-  unprecedented
+  which primarily applies to shipments from the
 
-  congestion across alternative global trade arteries, most notably along the Panama
-  Canal. With primary
+  Danube ports of Ukraine and Romania. However, the
 
-  transit corridors through the Persian Gulf and the southern Red Sea heavily constrained,
-  international
+  share of "non-firm" cargoes is only increasing, with
 
-  operators moving containerised freight, energy, and chemical commodities have increasingly
-  pivoted
+  shippers of Ukrainian grain refusing to accept further
 
-  toward Pacific-to-Atlantic routings. This has triggered severe logistical bottlenecks,
-  stretching waiting
+  rate upturns. Moreover, they are aggressively driving
 
-  times for unbooked large-capacity vessels to well over a week.'
+  rates down.'
 themes:
-- capesize
-- panamax
-- supramax
-- handysize
-- vlcc
-- suezmax
+- europe
+- grain
+- steel
+- dwcc
+- marmara/med
+- are
 title: ISM coasters and mini bulkers - Week 33
 vessel_classes:
 - capesize
@@ -351,24 +340,24 @@ vessel_classes:
 ---
 
 ## Summary
-Star Asia Shipbroking Weekly Market Report - WEEK 33
+ISM coasters and mini bulkers - Week 33
 **Broker**: General Broker
 **Published Date**: 17/08/2026
-**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-33-4/)
+**Source URL**: [https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-33-4/](https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-33-4/)
 
 Market Report Content
-STAR ASIA | WEEKLY MARKET REPORT Week 33 | August 15th, 2026
-snp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1
-Member of BIMCO, The Baltic Exchange & Singapore Shipping Association
-WEEKLY MARKET REPORT
-WEEK 33 · August 15th, 2026
-MARKET OVERVIEW
-The cascading effects of ongoing Middle Eastern maritime disruptions are generating unprecedented
-congestion across alternative global trade arteries, most notably along the Panama Canal. With primary
-transit corridors through the Persian Gulf and the southern Red Sea heavily constrained, international
-operators moving containerised freight, energy, and chemical commodities have increasingly pivoted
-toward Pacific-to-Atlantic routings. This has triggered severe logistical bottlenecks, stretching waiting
-times for unbooked large-capacity vessels to well over a week.
+CHARTERING MARKET AT HAND:
+COASTERS AND MINIBULKERS // WEEK 33
+Coaster market: charterers partially reversed recent surge in Ukrainian freight
+rates, Mediterranean and Baltic face a long list of open vessels
+Cargo offer continues to grow on the Black Sea
+small-tonnage market in the first half of August,
+which primarily applies to shipments from the
+Danube ports of Ukraine and Romania. However, the
+share of "non-firm" cargoes is only increasing, with
+shippers of Ukrainian grain refusing to accept further
+rate upturns. Moreover, they are aggressively driving
+rates down.
 
 ## ISM coasters and mini bulkers - Week 33
 **Broker**: General Broker
