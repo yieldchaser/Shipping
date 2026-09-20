@@ -570,12 +570,12 @@ date,year,month,commodity,ncm,metric_tonnes,fob_usd,source,method
 2026-06-01,2026,6,Raw Sugar,17011300+17011400,2771439.38,939527460.0,MDIC SECEX ComexStat Official API,"ComexStat API (api-comexstat.mdic.gov.br/general) | payload={""flow"":""export"",""monthDetail"":true,""period"":{""from"":""2023-01"",""to"":""2026-08""},""filters"":[{""filter"":""ncm"",""values"":[""17011300"",""17011400""]}],""metrics"":[""metricFOB"",""metricKG""]} | response_date=2026-09-18"
 2026-06-01,2026,6,Soybeans,12011000+12019000,14505017.95,6266777036.0,MDIC SECEX ComexStat Official API,"ComexStat API (api-comexstat.mdic.gov.br/general) | payload={""flow"":""export"",""monthDetail"":true,""period"":{""from"":""2023-01"",""to"":""2026-08""},""filters"":[{""filter"":""ncm"",""values"":[""12011000"",""12019000""]}],""metrics"":[""metricFOB"",""metricKG""]} | response_date=2026-09-18"
 2026-07-01,2026,7,Corn,10059010,1941216.35,406526270.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-07-01,2026,7,Crude Oil,27090010,7674971.45,4737463030.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-07-01,2026,7,Iron Ore,26011100,35002833.88,2131758139.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-07-01,2026,7,Raw Sugar,17011300+17011400,2530253.33,844236519.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-07-01,2026,7,Soybeans,12011000+12019000,13405943.45,5869585274.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
+2026-07-01,2026,7,Crude Oil,27090010,7674971.45,4737463030.0,Brazil MDIC ComexStat API,NCM 8-digit REST API
+2026-07-01,2026,7,Iron Ore,26011100,35002833.88,2131758139.0,Brazil MDIC ComexStat API,NCM 8-digit REST API
+2026-07-01,2026,7,Raw Sugar,17011300+17011400,2530253.33,844236519.0,Brazil MDIC ComexStat API,NCM 8-digit REST API
+2026-07-01,2026,7,Soybeans,12011000+12019000,13405943.45,5869585274.0,Brazil MDIC ComexStat API,NCM 8-digit REST API
 2026-08-01,2026,8,Corn,10059010,4653100.19,1002656682.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-08-01,2026,8,Crude Oil,27090010,8379911.83,4828191084.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-08-01,2026,8,Iron Ore,26011100,34406447.9,2051566400.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-08-01,2026,8,Raw Sugar,17011300+17011400,2221747.72,753350332.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
-2026-08-01,2026,8,Soybeans,12011000+12019000,9809878.19,4411190431.0,MDIC SECEX ComexStat Official API,NCM 8-digit REST API
+2026-08-01,2026,8,Crude Oil,27090010,8379911.83,4828191084.0,Brazil MDIC ComexStat API,NCM 8-digit REST API
+2026-08-01,2026,8,Iron Ore,26011100,34406447.9,2051566400.0,Brazil MDIC ComexStat API,NCM 8-digit REST API
+2026-08-01,2026,8,Raw Sugar,17011300+17011400,2221747.72,753350332.0,Brazil MDIC ComexStat API,NCM 8-digit REST API
+2026-08-01,2026,8,Soybeans,12011000+12019000,9809878.19,4411190431.0,Brazil MDIC ComexStat API,NCM 8-digit REST API

@@ -21,6 +21,7 @@ scratch/
 .cursor/
 .freebuff/
 .gemini/
+.hermes/
 .kilo/
 .kiro/
 .opencode.json
