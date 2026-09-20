@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T18:28:38Z",
+ "generated_at": "2026-09-20T18:39:45Z",
  "compiler_version": 2,
  "count": 104,
  "files": [
@@ -708,7 +708,7 @@
    "path": "knowledge/chunks/poten_tankers_2026.jsonl",
    "stem": "poten_tankers_2026",
    "year": 2026,
-   "bytes": 124239
+   "bytes": 135572
   },
   {
    "file": "poten_tankers_2030.jsonl",

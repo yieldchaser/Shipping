@@ -10141,4 +10141,5 @@
 {"doc_id": "poten_tankers_2026-08-14_poten_2026_08_14_china_to_the_rescue", "themes": ["china", "crude_oil", "oil", "demand", "driver", "global"], "key_entities": ["China", "Middle East"], "market_tone": "neutral"}
 {"doc_id": "poten_tankers_2026-08-21_poten_2026_08_21_moving_in_the_right_direction", "themes": ["crude_oil", "oil", "president", "venezuela", "are", "country"], "key_entities": [], "market_tone": "neutral"}
 {"doc_id": "poten_tankers_2026-09-04_poten_2026_09_04_a_new_headache_for_opec", "themes": ["crude_oil", "oil", "opec", "global", "analysis", "author"], "key_entities": ["OPEC"], "market_tone": "neutral"}
+{"doc_id": "poten_tankers_2026-09-11_poten_2026_09_11_a_tanker_market_on_steroids_will_it_last", "themes": ["vlcc", "suezmax", "aframax", "china", "meg", "west_africa"], "key_entities": ["China", "Middle East"], "market_tone": "constructive"}
 {"doc_id": "poten_tankers_2030-01-01_poten_2030_01_01_the_outlook_for_energy_a_view_to_2030", "themes": ["energy", "https", "outlook", "view", "full", "pdf"], "key_entities": [], "market_tone": "neutral"}
