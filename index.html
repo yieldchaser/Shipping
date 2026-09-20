@@ -4411,43 +4411,88 @@
 
     /* Signal Ocean-style Vessel Particulars Popup Card */
     .signal-vessel-popup {
-      padding: 14px;
-      min-width: 250px;
+      padding: 12px 14px;
+      min-width: 260px;
+      max-width: 310px;
       font-size: 11px;
+      font-family: var(--font-sans);
     }
     .signal-vessel-head {
-      border-bottom: 1px solid var(--border);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
       padding-bottom: 8px;
-      margin-bottom: 8px;
+      margin-bottom: 9px;
     }
     .signal-vessel-title {
-      font-size: 13px;
+      font-size: 13.5px;
       font-weight: 700;
       color: #fff;
       display: flex;
       justify-content: space-between;
       align-items: center;
+      gap: 8px;
     }
     .signal-vessel-sub {
       color: var(--text-muted);
-      font-size: 11px;
-      margin-top: 2px;
+      font-size: 10.5px;
+      margin-top: 3px;
     }
     .signal-vessel-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 6px 12px;
-      margin-bottom: 10px;
+      gap: 6px 10px;
+      margin-bottom: 9px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 6px;
+      padding: 7px 9px;
     }
     .signal-field-label {
-      font-size: var(--fs-micro);
+      font-size: 9.5px;
       color: var(--text-muted);
       text-transform: uppercase;
-      letter-spacing: 0.03em;
+      letter-spacing: 0.04em;
+      margin-bottom: 2px;
     }
     .signal-field-val {
+      font-size: 11.5px;
+      font-weight: 600;
+      color: #e6edf3;
+      font-family: var(--font-mono);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .signal-vessel-actions {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    .signal-action-btn {
+      padding: 5px 8px;
       font-size: 11px;
       font-weight: 600;
+      border-radius: 4px;
+      cursor: pointer;
+      text-align: center;
+      transition: all 0.15s;
+      background: #1f2937;
+      border: 1px solid var(--border);
+      color: #d1d5db;
+    }
+    .signal-action-btn:hover {
+      background: #374151;
+      color: #fff;
+      border-color: #6b7280;
+    }
+    .signal-action-btn.primary {
+      background: rgba(56, 139, 253, 0.12);
+      border: 1px solid rgba(56, 139, 253, 0.35);
+      color: #58a6ff;
+    }
+    .signal-action-btn.primary:hover {
+      background: rgba(56, 139, 253, 0.25);
+      border-color: #58a6ff;
       color: #fff;
     }
     .signal-vessel-btn {
@@ -13992,7 +14037,7 @@ html.auth-locked body > *:not(#authGateModal) {
           <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
             <select id="fearnTcClass" class="tracking-select" style="min-width:200px;" onchange="onFearnTcClass()" data-tt-type="fearn-tc-class"></select>
             <span id="fearnTcSrcWrap" style="display:inline-flex;gap:0;"></span>
-            <span id="fearnTcSubLine" style="font-size:var(--fs-micro);color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 — honest weekly broker prints, no monthly averaging</span>
+            <span id="fearnTcSubLine" style="font-size:var(--fs-micro);color:var(--text-muted);">4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 &mdash; direct broker assessments, un-averaged weekly series</span>
           </div>
           <div class="chart-canvas-wrap" style="height:360px;"><canvas id="fearnTcChart"></canvas></div>
           <div id="fearnTcStats" class="index-stats-strip" style="margin-top:10px;"></div>
@@ -15001,7 +15046,7 @@ if (intelTabsContainer) {
             <button id="subnavDisruptions" class="tracking-subview-btn" data-tooltip="Disruptions feed: every PortWatch disruption event with alert level, severity, affected ports and dates. Ongoing events first." onclick="setTrackingSubView('disruptions')">
               Disruptions Feed
             </button>
-            <button id="subnavVessel" class="tracking-subview-btn" data-tooltip="Per-vessel view: broker-reported fixture voyages per vessel with dated legs. Reported fixtures, not AIS positions." onclick="setTrackingSubView('vessel')">
+            <button id="subnavVessel" class="tracking-subview-btn" data-tooltip="Per-vessel commercial fixture voyages with dated legs and resolved terminal pairs." onclick="setTrackingSubView('vessel')">
               Vessel Voyages
             </button>
             <button id="subnavChokepoints" class="tracking-subview-btn" data-tooltip="Chokepoints ledger: canal and strait transit counts, baseline change and rerouting notes from the chokepoint summary cache." onclick="setTrackingSubView('chokepoints')">
@@ -15322,7 +15367,7 @@ if (intelTabsContainer) {
                   </tbody>
                 </table>
               </div>
-              <div id="ppFixturesFoot" style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.4;">Fixtures come from the Fearnleys broker tape matched to resolved PortWatch port ids. Absence of rows means nothing was reported, not that the port was idle.</div>
+              <div id="ppFixturesFoot" style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.4;">Commercial fixtures sourced from Fearnleys maritime broker records matched to PortWatch port identifiers.</div>
             </div>
 
             <!-- Port Disruptions List -->
@@ -24712,7 +24757,7 @@ function buildMaster() {
         else if (key === 'Port') h = wrapT('Port') + rowT('Meaning', 'Port in the IMF PortWatch universe') + noteT('Port names come straight from the PortWatch ports master.');
         else if (key === 'Class Mix') h = wrapT('Class Mix') + rowT('Meaning', 'Share of this port’s year-to-date calls by vessel class') + noteT('Computed from the PortWatch expanded daily feed: tanker, dry bulk, container, general cargo, RoRo.');
         else if (key === 'Calls (YTD)') h = wrapT('Calls (YTD)') + rowT('Meaning', 'Measured port calls, 2026 year to date') + noteT('Summed from the PortWatch expanded daily feed for this port.');
-        else if (key === 'Vessel') h = wrapT('Vessel') + rowT('Meaning', 'Vessel named in a broker-reported fixture') + noteT('From the Fearnleys fixture tape; a reported fixture record, not an AIS observation.');
+        else if (key === 'Vessel') h = wrapT('Vessel') + rowT('Meaning', 'Vessel named in a broker-reported fixture') + noteT('Commercial vessel recorded in Fearnleys maritime broker fixture reports.');
         else if (key === 'Charterer') h = wrapT('Charterer') + rowT('Meaning', 'Charterer named in the brokered fixture') + noteT('As reported on the fixture tape.');
         else if (key === 'Cargo') h = wrapT('Cargo') + rowT('Meaning', 'Commodity or route note attached to the fixture') + noteT('As reported on the fixture tape; blank when the broker text did not name one.');
         else if (key === 'Laycan') h = wrapT('Laycan') + rowT('Meaning', 'Laycan window quoted in the fixture') + noteT('The days the vessel must present for loading, as brokered.');
@@ -44833,16 +44878,46 @@ function highlightPortOnMap(meta) {
       fillOpacity: 0.9,
       interactive: true
     });
+    var spd = (r[7] != null && !isNaN(r[7])) ? Number(r[7]).toFixed(1) + ' kn' : '—';
+    var etaStr = r[10] ? r[10].replace('T', ' ').replace('Z', '').slice(0, 16) : '—';
+    var dStr = r[14] ? Math.round(r[14]) + ' km away' : 'Approaching';
+    var opStr = r[4] && r[4] !== 'Unknown' && r[4] !== 'Unknown Operator' ? r[4] : '';
+    var opHtml = opStr
+      ? '<div style="grid-column: span 2; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 5px;">' +
+          '<div class="signal-field-label">Commercial Operator</div>' +
+          '<div class="signal-field-val" style="color:var(--accent); font-family:var(--font-sans);">' + escapeHtml(opStr) + '</div>' +
+        '</div>'
+      : '';
+
     inMarker.bindPopup(
-      '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:200px;">' +
-      '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:#e3b341;">(Inbound)</span></div>' +
-      '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km away' : 'Approaching') + '</div>' +
-      '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
-      '<div style="font-size:10px;">Speed: ' + (r[7] != null ? r[7] + ' kn' : '—') + ' &middot; ETA: ' + (r[10] ? r[10].replace('T', ' ').replace('Z', '').slice(0, 16) : '—') + '</div>' +
-      '<div style="margin-top:6px; display:flex; gap:4px;">' +
-        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Particulars</button>' +
-        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px; border-color:rgba(56,139,253,0.4); color:#58a6ff;" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixtures</button>' +
-      '</div>' +
+      '<div class="signal-vessel-popup" style="min-width:260px; max-width:300px;">' +
+        '<div class="signal-vessel-head">' +
+          '<div class="signal-vessel-title">' +
+            '<span style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;" title="' + escapeHtml(r[1]) + '">' + escapeHtml(r[1]) + '</span>' +
+            '<span class="status-badge-warn" style="font-size:9.5px; padding:1px 6px; font-weight:600;">INBOUND</span>' +
+          '</div>' +
+          '<div class="signal-vessel-sub">' +
+            (r[0] ? '<span style="font-family:var(--font-mono); font-size:10.5px;">IMO ' + r[0] + '</span> &middot; ' : '') +
+            '<span style="color:#58a6ff; font-weight:600;">' + escapeHtml(r[2] || r[3] || 'Vessel') + '</span> &middot; ' +
+            '<span style="color:#e3b341;">' + escapeHtml(dStr) + '</span>' +
+          '</div>' +
+        '</div>' +
+        '<div class="signal-vessel-grid">' +
+          '<div>' +
+            '<div class="signal-field-label">Speed</div>' +
+            '<div class="signal-field-val">' + spd + '</div>' +
+          '</div>' +
+          '<div>' +
+            '<div class="signal-field-label">Estimated Arrival</div>' +
+            '<div class="signal-field-val" style="font-size:10.5px;">' + escapeHtml(etaStr) + '</div>' +
+          '</div>' +
+          (r[6] ? '<div style="grid-column: span 2; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 5px;"><div class="signal-field-label">Status</div><div class="signal-field-val" style="font-family:var(--font-sans);">' + escapeHtml(r[6]) + '</div></div>' : '') +
+          opHtml +
+        '</div>' +
+        '<div class="signal-vessel-actions">' +
+          '<button class="signal-action-btn" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Particulars</button>' +
+          '<button class="signal-action-btn primary" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixture History</button>' +
+        '</div>' +
       '</div>'
     );
     group.addLayer(inMarker);
@@ -44862,16 +44937,42 @@ function highlightPortOnMap(meta) {
       fillOpacity: 0.9,
       interactive: true
     });
+    var badgeTag = isBerth
+      ? '<span class="status-badge-berth" style="font-size:9.5px; padding:1px 6px; font-weight:600;">AT BERTH</span>'
+      : '<span class="status-badge-anchor" style="font-size:9.5px; padding:1px 6px; font-weight:600;">ANCHORED</span>';
+    var dStr = r[14] ? Math.round(r[14]) + ' km from hub' : (isBerth ? 'At Terminal Berth' : 'In Port Anchorage');
+    var opStr = r[4] && r[4] !== 'Unknown' && r[4] !== 'Unknown Operator' ? r[4] : '';
+    var opHtml = opStr
+      ? '<div style="grid-column: span 2; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 5px;">' +
+          '<div class="signal-field-label">Commercial Operator</div>' +
+          '<div class="signal-field-val" style="color:var(--accent); font-family:var(--font-sans);">' + escapeHtml(opStr) + '</div>' +
+        '</div>'
+      : '';
+
     ancMarker.bindPopup(
-      '<div class="signal-vessel-popup" style="font-family:var(--font-sans); font-size:11px; min-width:200px;">' +
-      '<div style="font-weight:700; color:#fff;">' + escapeHtml(r[1]) + ' <span style="color:' + (isBerth ? '#3fb950' : '#58a6ff') + ';">(' + escapeHtml(r[6] || 'Anchored') + ')</span></div>' +
-      '<div style="color:var(--text-muted); font-size:10px;">' + escapeHtml(r[2] || r[3]) + ' &middot; ' + (r[14] ? Math.round(r[14]) + ' km from hub' : 'In Port') + '</div>' +
-      '<div style="font-size:10px; margin-top:2px;">Operator: ' + escapeHtml(r[4] || 'Unknown') + '</div>' +
-      '<div style="font-size:10px;">Status: ' + escapeHtml(r[6] || '—') + '</div>' +
-      '<div style="margin-top:6px; display:flex; gap:4px;">' +
-        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Particulars</button>' +
-        '<button class="pd-btn-sm" style="font-size:10px; padding:1px 6px; border-color:rgba(56,139,253,0.4); color:#58a6ff;" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixtures</button>' +
-      '</div>' +
+      '<div class="signal-vessel-popup" style="min-width:260px; max-width:300px;">' +
+        '<div class="signal-vessel-head">' +
+          '<div class="signal-vessel-title">' +
+            '<span style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;" title="' + escapeHtml(r[1]) + '">' + escapeHtml(r[1]) + '</span>' +
+            badgeTag +
+          '</div>' +
+          '<div class="signal-vessel-sub">' +
+            (r[0] ? '<span style="font-family:var(--font-mono); font-size:10.5px;">IMO ' + r[0] + '</span> &middot; ' : '') +
+            '<span style="color:#58a6ff; font-weight:600;">' + escapeHtml(r[2] || r[3] || 'Vessel') + '</span> &middot; ' +
+            '<span style="color:var(--text-muted);">' + escapeHtml(dStr) + '</span>' +
+          '</div>' +
+        '</div>' +
+        '<div class="signal-vessel-grid">' +
+          '<div style="grid-column: span 2;">' +
+            '<div class="signal-field-label">Port Location / Status</div>' +
+            '<div class="signal-field-val" style="font-family:var(--font-sans);">' + escapeHtml(r[6] || (isBerth ? 'Berth Operations' : 'Awaiting Orders / Anchorage')) + '</div>' +
+          '</div>' +
+          opHtml +
+        '</div>' +
+        '<div class="signal-vessel-actions">' +
+          '<button class="signal-action-btn" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Particulars</button>' +
+          '<button class="signal-action-btn primary" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixture History</button>' +
+        '</div>' +
       '</div>'
     );
     group.addLayer(ancMarker);
@@ -45887,21 +45988,61 @@ function plotLiveFleetMarkers() {
 }
 
 function liveFleetPopupHtml(r) {
-  var opText = r[9] ? '<br>Operator: <strong style="color:var(--accent);">' + escapeHtml(r[9]) + '</strong>' : '';
-  var statusText = r[10] ? '<br>Status: ' + escapeHtml(r[10]) : '';
-  var ladenBadge = r[11] === 1
-    ? '<span class="status-badge-berth">Laden</span>'
-    : '<span class="status-badge-anchor">Ballast</span>';
-  return '<div style="font-size:12px; font-family:var(--font-mono);">' +
-    '<div style="font-weight:700; font-size:13px; color:#fff; margin-bottom:3px;">' + escapeHtml(r[1]) + '</div>' +
-    '<div>' + escapeHtml(r[2]) + ' &middot; ' + ladenBadge + '</div>' +
-    opText +
-    statusText +
-    '<br>Speed: ' + r[6] + ' kn &middot; Heading: ' + r[7] + '°' +
-    (r[8] ? '<br>Destination: ' + escapeHtml(r[8]) : '') +
-    '<div style="margin-top:8px; display:flex; gap:6px; flex-wrap:wrap;">' +
-      '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px;" data-imo="' + r[0] + '" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Drill Down</button>' +
-      '<button class="cp-toggle-btn" style="font-size:11px; padding:2px 8px; border-color:rgba(56,139,253,0.4); color:#58a6ff;" data-name="' + escapeHtml(r[1] || '') + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixture Voyages</button>' +
+  // r: ['imo', 'name', 'class', 'seg', 'lat', 'lon', 'spd', 'hdg', 'dst', 'op', 'stat', 'laden', 'eta']
+  var imo = r[0] || '';
+  var name = r[1] || 'Unknown Vessel';
+  var vClass = r[2] || r[3] || 'Vessel';
+  var spd = (r[6] != null && !isNaN(r[6])) ? Number(r[6]).toFixed(1) + ' kn' : '—';
+  var hdg = (r[7] != null && !isNaN(r[7])) ? Math.round(r[7]) + '°' : '—';
+  var dst = r[8] || 'Unreported';
+  var op = r[9] || '';
+  var stat = r[10] || 'Underway';
+  var isLaden = r[11] === 1;
+  var eta = r[12] ? r[12].replace('T', ' ').replace('Z', '').slice(0, 16) : '';
+
+  var statusBadge = isLaden
+    ? '<span class="status-badge-berth" style="font-size:9.5px; padding:1px 6px; font-weight:600;">Laden</span>'
+    : '<span class="status-badge-anchor" style="font-size:9.5px; padding:1px 6px; font-weight:600;">Ballast</span>';
+
+  var opHtml = op
+    ? '<div style="grid-column: span 2; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 5px;">' +
+        '<div class="signal-field-label">Commercial Operator</div>' +
+        '<div class="signal-field-val" style="color:var(--accent); font-family:var(--font-sans);">' + escapeHtml(op) + '</div>' +
+      '</div>'
+    : '';
+
+  return '<div class="signal-vessel-popup" style="min-width:260px; max-width:300px;">' +
+    '<div class="signal-vessel-head">' +
+      '<div class="signal-vessel-title">' +
+        '<span style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;" title="' + escapeHtml(name) + '">' + escapeHtml(name) + '</span>' +
+        statusBadge +
+      '</div>' +
+      '<div class="signal-vessel-sub">' +
+        (imo ? '<span style="font-family:var(--font-mono); font-size:10.5px;">IMO ' + imo + '</span> &middot; ' : '') +
+        '<span style="color:#58a6ff; font-weight:600;">' + escapeHtml(vClass) + '</span>' +
+      '</div>' +
+    '</div>' +
+    '<div class="signal-vessel-grid">' +
+      '<div>' +
+        '<div class="signal-field-label">Speed / Heading</div>' +
+        '<div class="signal-field-val">' + spd + ' <span style="color:var(--text-muted); font-weight:400;">/</span> ' + hdg + '</div>' +
+      '</div>' +
+      '<div>' +
+        '<div class="signal-field-label">Navigation Status</div>' +
+        '<div class="signal-field-val" style="font-family:var(--font-sans);" title="' + escapeHtml(stat) + '">' + escapeHtml(stat) + '</div>' +
+      '</div>' +
+      '<div style="grid-column: span 2; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 5px;">' +
+        '<div class="signal-field-label">Destination' + (eta ? ' &middot; ETA' : '') + '</div>' +
+        '<div class="signal-field-val" style="display:flex; justify-content:space-between; align-items:center; gap:8px;">' +
+          '<span style="font-family:var(--font-sans); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;" title="' + escapeHtml(dst) + '">' + escapeHtml(dst) + '</span>' +
+          (eta ? '<span style="font-size:10px; color:var(--text-muted); font-weight:400; flex-shrink:0;">' + escapeHtml(eta) + '</span>' : '') +
+        '</div>' +
+      '</div>' +
+      opHtml +
+    '</div>' +
+    '<div class="signal-vessel-actions">' +
+      '<button class="signal-action-btn" data-imo="' + imo + '" data-name="' + escapeHtml(name) + '" onclick="openVesselDrillDown(this.dataset.imo, this.dataset.name)">Vessel Particulars</button>' +
+      '<button class="signal-action-btn primary" data-name="' + escapeHtml(name) + '" onclick="openVesselVoyagesTab(this.dataset.name)">Fixture History</button>' +
     '</div>' +
   '</div>';
 }
@@ -46326,8 +46467,8 @@ function renderPortPageFixtures(meta) {
     return;
   }
   if (!legs.length) {
-    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);">No Rows To Show \u2014 no broker-reported fixture legs ' + (mode === 'load' ? 'loading' : 'discharging') + ' at this port in the archive.</td></tr>';
-    if (foot) foot.textContent = 'Fixtures come from the Fearnleys broker tape matched to resolved PortWatch port ids. The archive does not record every call: absence of rows means nothing was reported, not that the port was idle.';
+    tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding:16px; color:var(--text-muted);"><span style="font-weight:600; color:var(--text-secondary);">No Rows To Show</span> \u2014 no commercial fixtures recorded ' + (mode === 'load' ? 'loading' : 'discharging') + ' at this port.</td></tr>';
+    if (foot) foot.textContent = 'Commercial fixtures sourced from Fearnleys maritime broker records matched to PortWatch port identifiers.';
     return;
   }
   var legsSlice = legs.slice(0, 25);
@@ -46599,7 +46740,7 @@ function onVesselSearchInput() {
     btn.style.cssText = 'font-size:11px; padding:3px 8px;';
     var legCount = idx.byVessel && idx.byVessel[v] ? idx.byVessel[v].length : '';
     btn.textContent = v + (legCount ? ' (' + legCount + ')' : '');
-    btn.setAttribute('data-tooltip', 'Show the reported fixture voyage timeline for ' + escapeHtml(v) + '. Reported fixtures, not AIS positions.');
+    btn.setAttribute('data-tooltip', 'View commercial fixture history and resolved voyage legs for ' + escapeHtml(v) + '.');
     btn.addEventListener('click', function() {
       window.__activeVesselTimeline = v;
       if (resWrap) resWrap.querySelectorAll('button').forEach(function(b) { b.classList.remove('active'); });
@@ -46613,6 +46754,9 @@ window.onVesselSearchInput = onVesselSearchInput;
 
 function openVesselVoyagesTab(vesselName) {
   if (!vesselName) return;
+  if (typeof switchTab === 'function') {
+    switchTab('tracking');
+  }
   if (typeof setTrackingSubView === 'function') {
     setTrackingSubView('vessel');
   }
@@ -46669,12 +46813,15 @@ function renderVesselTimeline(vesselName) {
 
   var totalDist = 0, legsDist = 0;
   legs.forEach(function(g) { var d = parseFloat(g.distance_nm); if (d > 0) { totalDist += d; legsDist++; } });
-  var html = '<div style="font-weight:700; color:#fff; font-size:12.5px; margin-bottom:2px;">' + escapeHtml(vesselName) + '</div>' +
+  var html = '<div style="font-weight:700; color:#fff; font-size:13px; margin-bottom:2px; display:flex; align-items:center; gap:8px;">' +
+    '<span>' + escapeHtml(vesselName) + '</span>' +
+    '<span class="badge" title="Commercial broker records: reported fixture voyages, not AIS positions" style="font-size:10px; font-weight:600; background:rgba(56,139,253,0.12); color:#58a6ff; border:1px solid rgba(56,139,253,0.3); padding:1px 6px; border-radius:4px;">COMMERCIAL FIXTURES</span>' +
+    '</div>' +
     '<div style="font-size:var(--fs-micro); color:var(--text-muted); margin-bottom:6px;">' + legs.length + ' reported fixture leg' + (legs.length === 1 ? '' : 's') +
-    (legsDist ? ' \u00b7 ' + Math.round(totalDist).toLocaleString('en-US') + ' NM great-circle on ' + legsDist + ' resolved leg' + (legsDist === 1 ? '' : 's') : '') +
-    ' \u00b7 reported fixture voyages, not AIS positions</div>';
+    (legsDist ? ' \u00b7 ' + Math.round(totalDist).toLocaleString('en-US') + ' NM route distance on ' + legsDist + ' resolved leg' + (legsDist === 1 ? '' : 's') : '') +
+    '</div>';
   if (!legs.length) {
-    box.innerHTML = html + '<div style="font-size:var(--fs-micro); color:var(--text-muted); padding:12px 0;">No fixture legs recorded for hull "' + escapeHtml(vesselName) + '".</div>';
+    box.innerHTML = html + '<div style="font-size:var(--fs-micro); color:var(--text-muted); padding:12px 0;">No commercial fixtures recorded for hull "' + escapeHtml(vesselName) + '".</div>';
     return;
   }
   html += '<div class="tracking-table-wrap" style="max-height:420px;"><table class="tracking-table"><thead><tr>' +
@@ -46697,7 +46844,7 @@ function renderVesselTimeline(vesselName) {
       '<td style="font-size:var(--fs-micro); color:var(--text-muted);">' + escapeHtml(g.load_match || g.discharge_match || 'unresolved') + '</td></tr>';
   });
   html += '</tbody></table></div>';
-  html += '<div style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5; margin-top:6px;">Each row is a broker-reported fixture leg (cargo loading port to discharging port). Where both port names resolved to PortWatch ids, the great-circle distance between the reported ports is shown. Vessel positions between ports are not in the data: nothing here is an AIS track.</div>';
+  html += '<div style="font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5; margin-top:8px; padding-top:6px; border-top:1px solid rgba(255,255,255,0.06);">Commercial fixture history sourced from Fearnleys maritime broker reports with PortWatch geospatial terminal resolution. Great-circle voyage distances estimated between resolved port pairs.</div>';
   box.innerHTML = html;
 }
 window.renderVesselTimeline = renderVesselTimeline;
@@ -50858,7 +51005,7 @@ function escapeHtml(str) {
           });
           html = `<div class="rt-title">BIX Archive: ${region}</div>`;
           html += `<div class="rt-row"><span class="rt-label">Archive Coverage</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${grades.length ? grades.join(' / ') : 'no grades yet'} · ${n} observations</span></div>`;
-          html += `<div class="rt-note">Plots the full ${region} index archive. Suites with no published observations yet (MidGulf) show an honest empty state.</div>`;
+          html += `<div class="rt-note">Historical index series for ${region} based on published benchmark price assessments.</div>`;
         }
         else if (type === 'bix-grade-btn') {
           const grade = target.getAttribute('data-tt-grade') || '';
@@ -51010,9 +51157,9 @@ function escapeHtml(str) {
           html += `<div class="rt-row"><span class="rt-label">Loading Port</span><span class="rt-val">${load || 'not resolved'}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Discharge Port</span><span class="rt-val">${disch || 'not resolved'}</span></div>`;
           if (date) html += `<div class="rt-row"><span class="rt-label">Fixture Date</span><span class="rt-val" style="font-family:IBM Plex Mono, monospace;">${date}</span></div>`;
-          if (dist) html += `<div class="rt-row"><span class="rt-label">Great-Circle Distance</span><span class="rt-val">${Number(dist).toLocaleString('en-US')} NM (between reported ports)</span></div>`;
+          if (dist) html += `<div class="rt-row"><span class="rt-label">Estimated Distance</span><span class="rt-val">${Number(dist).toLocaleString('en-US')} NM (great-circle route)</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Port Resolution</span><span class="rt-val">${mq}</span></div>`;
-          html += `<div class="rt-note">Broker-reported fixture from the Fearnleys tape. This is a reported fixture voyage, not an AIS position: the ship's path between the ports is not in the data.</div>`;
+          html += `<div class="rt-note">Commercial fixture record sourced from Fearnleys maritime broker reports.</div>`;
         }
         else if (type === 'universe-port-row') {
           const port = target.getAttribute('data-tt-port') || 'Port';
@@ -53928,7 +54075,7 @@ function renderFearnTc() {
         : (cls + ' · no Fearnleys 1Y weekly archive series available');
     }
     if (titleNote) titleNote.textContent = '· Fearnleys 1Y Weekly Archive (1970+) · full weekly series';
-    if (subLine) subLine.innerHTML = 'Continuous weekly 1Y TC prints back to 1970/1977 · honest broker prints, no monthly averaging';
+    if (subLine) subLine.innerHTML = 'Continuous weekly 1Y TC prints back to 1970/1977 · direct broker assessments, un-averaged weekly series';
     if (srcNote) srcNote.textContent = 'Source: data/derived/time_charter_rates_fearnleys.csv · ' + fRows.length.toLocaleString('en-US') + ' weekly prints · Fearnleys Hasura database';
   } else {
     d.rows.forEach(function (r) { if (r[1] === cls) (byTenor[r[2]] = byTenor[r[2]] || []).push(r); });
@@ -53974,7 +54121,7 @@ function renderFearnTc() {
       meta.textContent = cls + ' · Baltic weekly multi-tenor · ' + tn + ' · ' + dates.length + ' print dates · daily spot baseline';
     }
     if (titleNote) titleNote.textContent = '· Baltic Weekly (2000+) · continuous weekly curves & daily spot';
-    if (subLine) subLine.innerHTML = '4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 · honest broker prints';
+    if (subLine) subLine.innerHTML = '4-6M &amp; 1Y weekly back to 2000 · 2Y/3Y published weekly from 2021 · direct broker assessments';
     if (srcNote) srcNote.textContent = 'Source: data/derived/fearnleys_desk_tenor.json (Baltic & Fearnleys TC assessment, USD/day) · weekly prints';
   }
 
