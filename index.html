@@ -14975,7 +14975,7 @@ if (intelTabsContainer) {
           </button>
           <div style="position:relative; display:inline-block;">
             <input type="text" id="vesselMasterSearchInput" class="tracking-input" style="width:200px;" placeholder="Search 57k vessels (Name, IMO)..." data-tooltip="Search the comprehensive 57,256 commercial vessel registry (Signal Ocean). Type vessel name or IMO to inspect DWT, class, built year, and operator particulars." oninput="onVesselMasterSearchInput(this.value)" onfocus="onVesselMasterSearchFocus()">
-            <div id="vesselMasterDropdown" class="vessel-search-dropdown" style="display:none; position:absolute; top:100%; right:0; width:360px; max-height:360px; overflow-y:auto; background:var(--card); border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,0.7); z-index:1000; margin-top:4px;"></div>
+            <div id="vesselMasterDropdown" class="vessel-search-dropdown" style="display:none; position:absolute; top:100%; left:0; width:340px; max-width:90vw; max-height:360px; overflow-y:auto; background:var(--card); border:1px solid var(--border); border-radius:6px; box-shadow:0 8px 24px rgba(0,0,0,0.7); z-index:1000; margin-top:4px;"></div>
           </div>
           <select id="trackingPortSelect" class="tracking-select" onchange="onTrackingPortChange()">
             <option value="all">All Universe Ports (2,995)</option>
@@ -24675,9 +24675,9 @@ function buildMaster() {
       // 2) Charts (canvas) without context: what it plots + honest empty state
       panel.querySelectorAll('canvas').forEach(function (cv) {
         if (covered(cv) || cv.hasAttribute(STAMPED)) return;
-        // Skip canvases that sit inside standard chart containers, canvas wraps, or cards
+        // Skip canvases that sit inside standard chart containers, canvas wraps, cards, or Leaflet maps
         // Chart.js manages its own rich interactive hover tooltips; do not stamp synthetic tooltips on them.
-        if (cv.closest('.chart-container, .chart-canvas-wrap, .spaghetti-wrap, .intel-vc-card, .intel-spark-wrap, .z-gauge-wrap, .chart-section, .donut-wrap, .bix-chart-box') || (cv.id && (cv.id.startsWith('donut_') || cv.id === 'bunkerBixChart'))) return;
+        if (cv.closest('.leaflet-container, #trackingMap, #bunkerGeoMap, .leaflet-pane, .chart-container, .chart-canvas-wrap, .spaghetti-wrap, .intel-vc-card, .intel-spark-wrap, .z-gauge-wrap, .chart-section, .donut-wrap, .bix-chart-box') || (cv.id && (cv.id.startsWith('donut_') || cv.id === 'bunkerBixChart'))) return;
         var ct = chartText(cv);
         var cname = (cv.id || 'chart').replace(/_/g, ' ').replace(/([a-z])([A-Z])/g, '$1 $2');
         var h = wrap(cname.replace(/\b\w/g, function (c) { return c.toUpperCase(); }));
@@ -43690,6 +43690,43 @@ function initTrackingMap() {
         }
       }
     });
+
+    // Global click listener on trackingMap: hit-tests commercial vessel dots first, then port pins
+    trackingMap.on('click', function (e) {
+      if (trackingMap.dragging && trackingMap.dragging.moving()) return;
+      if (!liveFleetMarkersLayer) return;
+
+      // 1. Vessel dot hit test
+      var d = liveFleetMarkersLayer._hit(e);
+      if (d) {
+        var html = typeof d.popup === 'function' ? d.popup() : d.popup;
+        var lat = (d.vesselRow && d.vesselRow[4] != null) ? d.vesselRow[4] : e.latlng.lat;
+        var lon = (d.vesselRow && d.vesselRow[5] != null) ? d.vesselRow[5] : e.latlng.lng;
+        L.popup({ maxWidth: 320 })
+          .setLatLng([lat, lon])
+          .setContent(html)
+          .openOn(trackingMap);
+        return;
+      }
+
+      // 2. Port pin hit test
+      var portHit = liveFleetMarkersLayer._hitPort(e);
+      if (portHit) {
+        var p = portHit.p;
+        var meta = (DATA.universePorts && DATA.universePorts.byId && (DATA.universePorts.byId[p.portid] || DATA.universePorts.byId[p.unified_id])) || p;
+        if (typeof highlightPortOnMap === 'function') {
+          highlightPortOnMap(meta);
+        }
+        if (typeof portHubPopupHtml === 'function') {
+          L.popup({ maxWidth: 320 })
+            .setLatLng(portHit.latlng)
+            .setContent(portHubPopupHtml(p))
+            .openOn(trackingMap);
+        }
+        return;
+      }
+    });
+
     disruptionMarkersLayer = L.layerGroup().addTo(trackingMap);
     activeVesselTrackLayer = L.layerGroup().addTo(trackingMap);
 
@@ -43702,11 +43739,15 @@ function initTrackingMap() {
     trackingMap.on('zoomstart movestart', function () { trackingMap.getContainer().classList.add('tm-zooming'); });
     trackingMap.on('moveend', function () { setTimeout(function () { trackingMap.getContainer().classList.remove('tm-zooming'); }, 0); });
 
-    // Track coordinates on mousemove
+    // Track coordinates on mousemove & change cursor to pointer when hovering vessel dot or port pin
     trackingMap.on('mousemove', function(e) {
       var el = document.getElementById('mapCoordsOverlay');
       if (el && e.latlng) {
         el.textContent = 'Lat: ' + e.latlng.lat.toFixed(2) + '°, Lon: ' + e.latlng.lng.toFixed(2) + '°';
+      }
+      if (liveFleetMarkersLayer && trackingMap.getContainer()) {
+        var over = !!liveFleetMarkersLayer._hit(e) || !!liveFleetMarkersLayer._hitPort(e);
+        trackingMap.getContainer().style.cursor = over ? 'pointer' : '';
       }
     });
 
@@ -44985,21 +45026,30 @@ function createFleetDotsLayer() {
     _hit: function (e) {
       var map = this._map, dots = this._dots;
       if (!map || !dots.length) return null;
-      var pt = map.mouseEventToLayerPoint(e), scale = Math.pow(2, map.getZoom()), origin = map.getPixelOrigin();
+      var pt = e.layerPoint || (e.latlng ? map.latLngToLayerPoint(e.latlng) : (e.clientX ? map.mouseEventToLayerPoint(e) : null));
+      if (!pt) return null;
+      var scale = Math.pow(2, map.getZoom()), origin = map.getPixelOrigin();
       var worldWidth = 256 * scale;
-      var absX = origin.x + pt.x;
-      var normX = ((absX % worldWidth) + worldWidth) % worldWidth;
+      var clickAbsX = origin.x + pt.x;
       var found = null;
+      var minD = HIT * HIT;
       for (var i = 0; i < dots.length; i++) {
         var d = dots[i];
-        var dx = Math.round(d.x0 * scale) - normX, dy = Math.round(d.y0 * scale) - origin.y - pt.y;
-        if (dx * dx + dy * dy <= HIT * HIT) found = d;   // last drawn wins, as in L.Canvas
+        var dx = Math.round(d.x0 * scale) - clickAbsX;
+        dx = ((dx % worldWidth) + worldWidth * 1.5) % worldWidth - worldWidth * 0.5;
+        var dy = Math.round(d.y0 * scale) - origin.y - pt.y;
+        var dSq = dx * dx + dy * dy;
+        if (dSq <= minD) {
+          minD = dSq;
+          found = d;
+        }
       }
       return found;
     },
     _hitPort: function (e) {
       if (!this._map || !window.__portHubPins || !window.__portHubPins.list || !window.__portHubPins.list.length) return null;
-      var clickPt = this._map.mouseEventToContainerPoint(e);
+      var clickPt = e.containerPoint || (e.latlng ? this._map.latLngToContainerPoint(e.latlng) : (e.clientX ? this._map.mouseEventToContainerPoint(e) : null));
+      if (!clickPt) return null;
       var hitPort = null;
       var bestDist = 16; // 16px hit radius for easy port clicking
       var list = window.__portHubPins.list;
@@ -45947,32 +45997,44 @@ function renderPortPageFacts(meta) {
   var card = document.getElementById('ppFactsCard');
   if (!card) return;
   var row = function(l, v) {
-    return '<div class="pd-detail-row"><span class="pd-detail-k">' + l + '</span><span class="pd-detail-v">' + v + '</span></div>';
+    return '<div class="pd-detail-row" style="display:flex; justify-content:space-between; align-items:center; padding:3px 0; border-bottom:1px solid rgba(255,255,255,0.04);"><span class="pd-detail-k" style="color:var(--text-muted); font-size:11.5px;">' + l + '</span><span class="pd-detail-v" style="color:var(--text); font-family:\'IBM Plex Mono\', monospace; font-size:11.5px; font-weight:500;">' + v + '</span></div>';
   };
-  var html = '<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px;">' +
-    '<div style="font-size:var(--fs-micro); color:var(--text-muted); letter-spacing:0.05em;">PORT FACTS \u2014 IMF PORTWATCH PORTS MASTER</div>' +
-    '<span class="pd-close" onclick="setTrackingSubView(\'universe\')" aria-label="Close port page">\u00d7</span></div>';
+  var html = '<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px; margin-bottom:8px;">' +
+    '<div style="font-size:11px; font-weight:600; color:var(--text-muted); letter-spacing:0.06em;">PORT FACTS \u2014 IMF PORTWATCH MASTER</div>' +
+    '<span class="pd-close" onclick="setTrackingSubView(\'universe\')" aria-label="Close port page" style="cursor:pointer; font-size:16px; color:var(--text-muted); line-height:1;">\u00d7</span></div>';
   var totalCalls = meta.vessel_count_total != null ? meta.vessel_count_total : (meta.calls_breakdown ? meta.calls_breakdown.total : meta.total_calls);
   var cContainer = meta.vessel_count_container != null ? meta.vessel_count_container : (meta.calls_breakdown ? meta.calls_breakdown.container : meta.container_calls);
   var cDryBulk = meta.vessel_count_dry_bulk != null ? meta.vessel_count_dry_bulk : (meta.calls_breakdown ? meta.calls_breakdown.dry_bulk : meta.dry_bulk_calls);
   var cGeneral = meta.vessel_count_general_cargo != null ? meta.vessel_count_general_cargo : (meta.calls_breakdown ? meta.calls_breakdown.general_cargo : meta.general_cargo_calls);
   var cRoro = meta.vessel_count_RoRo != null ? meta.vessel_count_RoRo : (meta.calls_breakdown ? meta.calls_breakdown.roro : meta.roro_calls);
   var cTanker = meta.vessel_count_tanker != null ? meta.vessel_count_tanker : (meta.calls_breakdown ? meta.calls_breakdown.tankers : meta.tanker_calls);
-  html += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:2px 14px; margin-top:6px;">';
-  html += row('Vessels observed (all classes)', totalCalls != null ? Number(totalCalls).toLocaleString('en-US') : 'n/a');
-  html += row('Container hulls', cContainer != null ? Number(cContainer).toLocaleString('en-US') : 'n/a');
-  html += row('Dry-bulk hulls', cDryBulk != null ? Number(cDryBulk).toLocaleString('en-US') : 'n/a');
-  html += row('General-cargo hulls', cGeneral != null ? Number(cGeneral).toLocaleString('en-US') : 'n/a');
-  html += row('RoRo hulls', cRoro != null ? Number(cRoro).toLocaleString('en-US') : 'n/a');
-  html += row('Tanker hulls', cTanker != null ? Number(cTanker).toLocaleString('en-US') : 'n/a');
-  html += row('Top industry (1)', meta.industry_top1 || 'n/a');
-  html += row('Top industry (2)', meta.industry_top2 || 'n/a');
-  html += row('Top industry (3)', meta.industry_top3 || 'n/a');
-  html += row('Country maritime import share', meta.share_country_maritime_import != null && meta.share_country_maritime_import !== '' ? (Math.round(parseFloat(meta.share_country_maritime_import) * 1000) / 10) + '%' : 'n/a');
-  html += row('Country maritime export share', meta.share_country_maritime_export != null && meta.share_country_maritime_export !== '' ? (Math.round(parseFloat(meta.share_country_maritime_export) * 1000) / 10) + '%' : 'n/a');
-  html += row('UN/LOCODE', meta.LOCODE || 'n/a');
+  
+  html += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:4px 20px;">';
+  // Left column: Infrastructure & Hull traffic
+  html += '<div>';
+  html += row('UN/LOCODE', meta.LOCODE || meta.locode || '\u2014');
+  html += row('Hulls observed (total)', totalCalls != null ? Number(totalCalls).toLocaleString('en-US') : '\u2014');
+  html += row('Tanker hulls', cTanker != null ? Number(cTanker).toLocaleString('en-US') : '\u2014');
+  html += row('Dry-bulk hulls', cDryBulk != null ? Number(cDryBulk).toLocaleString('en-US') : '\u2014');
+  html += row('Container hulls', cContainer != null ? Number(cContainer).toLocaleString('en-US') : '\u2014');
   html += '</div>';
-  html += '<div style="margin-top:6px; font-size:var(--fs-micro); color:var(--text-muted); line-height:1.5;">Hull counts are vessels observed at this port in the PortWatch ports master. Shares are this port\u2019s slice of its country\u2019s maritime import / export flows.</div>';
+
+  // Right column: General cargo, RoRo, Country shares, and valid Top Industry
+  html += '<div>';
+  html += row('General cargo hulls', cGeneral != null ? Number(cGeneral).toLocaleString('en-US') : '\u2014');
+  html += row('RoRo hulls', cRoro != null ? Number(cRoro).toLocaleString('en-US') : '\u2014');
+  html += row('Country import share', meta.share_country_maritime_import != null && meta.share_country_maritime_import !== '' ? (Math.round(parseFloat(meta.share_country_maritime_import) * 1000) / 10) + '%' : '\u2014');
+  html += row('Country export share', meta.share_country_maritime_export != null && meta.share_country_maritime_export !== '' ? (Math.round(parseFloat(meta.share_country_maritime_export) * 1000) / 10) + '%' : '\u2014');
+  if (meta.industry_top1 && meta.industry_top1 !== 'n/a' && meta.industry_top1 !== 'null') {
+    html += row('Primary industry', escapeHtml(meta.industry_top1));
+  }
+  if (meta.industry_top2 && meta.industry_top2 !== 'n/a' && meta.industry_top2 !== 'null') {
+    html += row('Secondary industry', escapeHtml(meta.industry_top2));
+  }
+  html += '</div>';
+  html += '</div>';
+
+  html += '<div style="margin-top:8px; font-size:11px; color:var(--text-muted); line-height:1.4;">Hull counts are unique commercial vessels observed at this port in the PortWatch ports master. Shares reflect this port\u2019s proportion of national maritime trade flows.</div>';
   card.innerHTML = html;
   card.setAttribute('data-tooltip', ' ');
   card.setAttribute('data-tt-type', 'port-facts');
@@ -46058,98 +46120,156 @@ function renderPortPageActivity(meta) {
   var fBtn = document.getElementById('ppWinFull');
   if (!canvas) return;
 
-  if (fBtn) fBtn.disabled = !portHasDeepHistory(meta);
-  var useFull = (portPageWindow === 'full') && portHasDeepHistory(meta);
+  var hasDeep = portHasDeepHistory(meta);
+  if (fBtn) fBtn.disabled = !hasDeep;
+  var useFull = (portPageWindow === 'full') && hasDeep;
   if (yBtn) yBtn.classList.toggle('active', !useFull);
   if (fBtn) fBtn.classList.toggle('active', useFull);
 
-  var labels = [], totalSeries = [], impSeries = [], expSeries = [];
-  var srcLabel = '';
-  if (useFull) {
+  if (ppChartInstance) { ppChartInstance.destroy(); ppChartInstance = null; }
+
+  // Case 1: Port has deep history in 43-hub daily series (e.g. Singapore, Rotterdam, Shanghai, Qingdao)
+  if (hasDeep) {
     var hp = portHistoryCache.ports.find(function(p) { return p.portid === meta.portid; });
-    hp.rows.forEach(function(r) {
-      labels.push(r.dateStr);
-      totalSeries.push(r.val);
-      impSeries.push(null); expSeries.push(null);
-    });
-    srcLabel = 'Daily port calls, ' + hp.rows[0].dateStr + ' to ' + hp.rows[hp.rows.length - 1].dateStr + ' \u00b7 IMF PortWatch 43-hub daily series';
-  } else {
-    var rows = (DATA.portCallsExpandedByPort && DATA.portCallsExpandedByPort[meta.portid]) || [];
-    rows = rows.filter(function(r) { return r.dateStr >= (DATA.portCallsExpandedWindow || {}).from; });
-    // Sector lens: when a measured class is selected the chart plots that
-    // class's calls and tonnage; 'all' keeps the combined totals.
-    var cls = trackingSelectedClass;
-    var callKey = null, impKey = null, expKey = null, clsLabel = '';
-    if (cls === 'Tanker') { callKey = 'portcalls_tanker'; impKey = 'import_tanker'; expKey = 'export_tanker'; clsLabel = 'Tanker'; }
-    else if (cls === 'Dry Bulk') { callKey = 'portcalls_dry_bulk'; impKey = 'import_dry_bulk'; expKey = 'export_dry_bulk'; clsLabel = 'Dry bulk'; }
-    else if (cls === 'Container') { callKey = 'portcalls_container'; impKey = 'import_container'; expKey = 'export_container'; clsLabel = 'Container'; }
-    else if (cls === 'General Cargo') { callKey = 'portcalls_general_cargo'; impKey = 'import_general_cargo'; expKey = 'export_general_cargo'; clsLabel = 'General cargo'; }
-    else if (cls === 'RoRo') { callKey = 'portcalls_roro'; impKey = 'import_roro'; expKey = 'export_roro'; clsLabel = 'RoRo'; }
-    var num = function(v) { return (v != null && v !== '') ? parseFloat(v) : null; };
+    var rows = (hp && hp.rows) ? hp.rows : [];
+    if (!useFull) {
+      rows = rows.filter(function(r) { return r.dateStr >= '2026-01-01'; });
+      if (!rows.length && hp && hp.rows && hp.rows.length) {
+        rows = hp.rows.slice(-250);
+      }
+    }
+    var labels = [], totalSeries = [];
     rows.forEach(function(r) {
       labels.push(r.dateStr);
-      if (callKey) {
-        // class rows: class calls + tonnage ride on the same cached rows
-        totalSeries.push(num(r[callKey]));
-        impSeries.push(num(r[impKey]));
-        expSeries.push(num(r[expKey]));
-      } else {
-        totalSeries.push((r.portcalls != null && r.portcalls !== '') ? (parseInt(r.portcalls, 10) || 0) : null);
-        impSeries.push(num(r.import));
-        expSeries.push(num(r.export));
+      totalSeries.push(r.val);
+    });
+
+    var dateRange = labels.length ? (labels[0] + ' to ' + labels[labels.length - 1]) : '';
+    var srcLabel = useFull
+      ? ('Daily port calls, ' + dateRange + ' \u00b7 IMF PortWatch 43-hub daily series')
+      : ('Daily port calls, ' + dateRange + ' \u00b7 IMF PortWatch 43-hub daily series (2026 YTD)');
+
+    if (title) title.textContent = 'Activity \u2014 ' + (meta.portname || meta.name);
+    if (note) note.textContent = srcLabel;
+    if (foot) foot.innerHTML = 'Calls are measured vessel arrivals recorded by IMF PortWatch satellite AIS. Timeseries updated daily across 43 global benchmark hubs.';
+
+    if (!labels.length) {
+      var ctx0 = canvas.getContext('2d');
+      if (typeof Chart === 'undefined') return;
+      ppChartInstance = new Chart(ctx0, {
+        type: 'line',
+        data: { labels: [], datasets: [] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, title: { display: true, text: 'No measured calls recorded in this window', color: '#8b949e', font: { size: 11 } } } }
+      });
+      return;
+    }
+
+    var ds = [{
+      label: 'Daily port calls',
+      data: totalSeries,
+      borderColor: '#58a6ff',
+      backgroundColor: 'rgba(88,166,255,0.10)',
+      borderWidth: 1.6, fill: true, tension: 0.15, pointRadius: 0, spanGaps: false
+    }];
+    var ctx = canvas.getContext('2d');
+    ppChartInstance = new Chart(ctx, {
+      type: 'line',
+      data: { labels: labels, datasets: ds },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 }, boxWidth: 7, color: '#d4dce8' } },
+          tooltip: { callbacks: { label: function(c) {
+            var v = c.parsed.y;
+            return ' ' + c.dataset.label + ': ' + (v != null ? Math.round(v).toLocaleString('en-US') + ' calls' : '\u2014');
+          } } }
+        },
+        scales: {
+          x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 10, maxRotation: 0, autoSkip: true } },
+          y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return typeof v === 'number' ? Math.round(v) : v; } }, title: { display: true, text: 'calls/day', color: '#8b949e', font: { size: 11 } } }
+        }
       }
     });
-    srcLabel = (clsLabel ? clsLabel + ' ' : '') + 'daily port calls + import / export tonnage (thousand tonnes), ' + (labels[0] || '') + ' to ' + (labels[labels.length - 1] || '') + ' \u00b7 IMF PortWatch expanded feed (2026 year to date)' + (clsLabel ? ' \u00b7 ' + clsLabel + ' lens' : '');
+    return;
   }
-  if (title) title.textContent = 'Activity \u2014 ' + meta.portname;
-  if (note) note.textContent = srcLabel;
-  if (foot) foot.innerHTML = 'Calls are measured vessel arrivals recorded by IMF PortWatch satellite AIS. Import / export lines are cargo tonnage in thousand tonnes where the feed publishes them.';
 
-  if (ppChartInstance) { ppChartInstance.destroy(); ppChartInstance = null; }
-  if (!labels.length) {
+  // Case 2: Port outside 43 classic hubs (e.g. Arzew, Dampier, Tubarão, etc.)
+  // IMF PortWatch publishes cumulative 2026 YTD measured calls by sector
+  var portSummary = null;
+  if (DATA.portCallsSummary && DATA.portCallsSummary.ports) {
+    var pId = meta.portid || meta.unified_id;
+    var pName = (meta.portname || meta.name || '').toLowerCase();
+    portSummary = DATA.portCallsSummary.ports.find(function(p) {
+      return p[0] === pId || (p[1] && p[1].toLowerCase() === pName);
+    });
+  }
+
+  var cTanker = portSummary ? portSummary[3] : (meta.calls_breakdown ? (meta.calls_breakdown.tankers || 0) : (meta.vessel_count_tanker || 0));
+  var cDryBulk = portSummary ? portSummary[4] : (meta.calls_breakdown ? (meta.calls_breakdown.dry_bulk || 0) : (meta.vessel_count_dry_bulk || 0));
+  var cContainer = portSummary ? portSummary[5] : (meta.calls_breakdown ? (meta.calls_breakdown.container || 0) : (meta.vessel_count_container || 0));
+  var cGeneral = portSummary ? portSummary[6] : (meta.calls_breakdown ? (meta.calls_breakdown.general_cargo || 0) : (meta.vessel_count_general_cargo || 0));
+  var cRoro = portSummary ? portSummary[7] : (meta.calls_breakdown ? (meta.calls_breakdown.roro || 0) : (meta.vessel_count_RoRo || 0));
+  var tot = portSummary ? portSummary[8] : (meta.calls_breakdown ? (meta.calls_breakdown.total || 0) : (meta.vessel_count_total || (cTanker + cDryBulk + cContainer + cGeneral + cRoro)));
+
+  if (tot > 0) {
+    if (title) title.textContent = 'Activity \u2014 ' + (meta.portname || meta.name) + ' (2026 YTD Sector Breakdown)';
+    if (note) note.textContent = tot.toLocaleString('en-US') + ' measured calls \u00b7 IMF PortWatch expanded feed (2026 year to date) \u00b7 Daily timeseries published for 43 strategic benchmark hubs';
+    if (foot) foot.innerHTML = 'PortWatch publishes high-frequency daily AIS timeseries for 43 global benchmark hubs, and cumulative measured sector totals for the broader universe of commercial ports.';
+
+    var ctx = canvas.getContext('2d');
+    ppChartInstance = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Tankers', 'Dry Bulk', 'Container', 'Gen Cargo', 'RoRo'],
+        datasets: [{
+          label: 'Measured Calls (2026 YTD)',
+          data: [cTanker, cDryBulk, cContainer, cGeneral, cRoro],
+          backgroundColor: [
+            'rgba(245, 158, 11, 0.65)',
+            'rgba(59, 130, 246, 0.65)',
+            'rgba(16, 185, 129, 0.65)',
+            'rgba(99, 102, 241, 0.65)',
+            'rgba(244, 63, 94, 0.65)'
+          ],
+          borderColor: ['#f59e0b', '#3b82f6', '#10b981', '#6366f1', '#f43f5e'],
+          borderWidth: 1.2,
+          borderRadius: 4
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: function(c) {
+                var v = c.parsed.y != null ? c.parsed.y : c.raw;
+                var pct = tot > 0 ? ' (' + ((v / tot) * 100).toFixed(1) + '%)' : '';
+                return ' ' + c.label + ': ' + Number(v).toLocaleString('en-US') + ' calls' + pct;
+              }
+            }
+          }
+        },
+        scales: {
+          x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } } },
+          y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 } }, title: { display: true, text: 'calls YTD', color: '#8b949e', font: { size: 11 } } }
+        }
+      }
+    });
+  } else {
+    if (title) title.textContent = 'Activity \u2014 ' + (meta.portname || meta.name);
+    if (note) note.textContent = 'Commercial facility \u2014 no AIS calls recorded in current PortWatch window';
+    if (foot) foot.innerHTML = 'Facility monitored in commercial universe. Daily timeseries published for active PortWatch benchmark hubs.';
     var ctx0 = canvas.getContext('2d');
     if (typeof Chart === 'undefined') return;
     ppChartInstance = new Chart(ctx0, {
       type: 'line',
       data: { labels: [], datasets: [] },
-      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, title: { display: true, text: 'No measured calls recorded in this window', color: '#8b949e', font: { size: 11 } } } }
+      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, title: { display: true, text: 'No measured calls recorded in 2026 YTD window', color: '#8b949e', font: { size: 11 } } } }
     });
-    return;
   }
-
-  var ds = [{
-    label: 'Daily port calls',
-    data: totalSeries,
-    borderColor: '#58a6ff',
-    backgroundColor: 'rgba(88,166,255,0.10)',
-    borderWidth: 1.6, fill: true, tension: 0.15, pointRadius: 0, spanGaps: false
-  }];
-  if (!useFull) {
-    ds.push({ label: 'Import (kt)', data: impSeries, borderColor: '#3fb950', borderWidth: 1.4, tension: 0.2, pointRadius: 0, spanGaps: false, yAxisID: 'y1' });
-    ds.push({ label: 'Export (kt)', data: expSeries, borderColor: '#d29922', borderWidth: 1.4, borderDash: [4, 3], tension: 0.2, pointRadius: 0, spanGaps: false, yAxisID: 'y1' });
-  }
-  var ctx = canvas.getContext('2d');
-  ppChartInstance = new Chart(ctx, {
-    type: 'line',
-    data: { labels: labels, datasets: ds },
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      interaction: { mode: 'index', intersect: false },
-      plugins: {
-        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 }, boxWidth: 7, color: '#d4dce8' } },
-        tooltip: { callbacks: { label: function(c) {
-          var v = c.parsed.y;
-          var unit = (c.datasetIndex === 0) ? ' calls' : ' kt';
-          return ' ' + c.dataset.label + ': ' + (v != null ? Math.round(v).toLocaleString('en-US') + unit : '\u2014');
-        } } }
-      },
-      scales: {
-        x: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, maxTicksLimit: 10, maxRotation: 0, autoSkip: true } },
-        y: { grid: { color: '#151a22' }, ticks: { color: '#8b949e', font: { size: 11 }, callback: function(v) { return typeof v === 'number' ? Math.round(v) : v; } }, title: { display: true, text: 'calls/day', color: '#8b949e', font: { size: 11 } } },
-        y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { color: '#8b949e', font: { size: 11 } }, title: { display: true, text: 'kt', color: '#8b949e', font: { size: 11 } } }
-      }
-    }
-  });
 }
 
 function setPortPageFixtureMode() {
@@ -46545,7 +46665,7 @@ function renderVesselTimeline(vesselName) {
       }
     }
   }
-  legs = (legs || []).slice().sort(function(a, b) { return (a.leg_date > b.leg_date ? 1 : -1); });
+  legs = (legs || []).slice().sort(function(a, b) { return (a.leg_date < b.leg_date ? 1 : (a.leg_date > b.leg_date ? -1 : 0)); });
 
   var totalDist = 0, legsDist = 0;
   legs.forEach(function(g) { var d = parseFloat(g.distance_nm); if (d > 0) { totalDist += d; legsDist++; } });
