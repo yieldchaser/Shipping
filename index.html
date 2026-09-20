@@ -14910,7 +14910,7 @@ if (intelTabsContainer) {
       </div>
 
       <!-- 6-KPI HUD STRIP (SYMMETRICAL 6-CARD GRID: Port Calls, 7D Avg, Disruptions, Chokepoints, Below Baseline, Red Sea Deficit) -->
-      <div class="tracking-kpi-grid">
+      <div class="tracking-kpi-grid" id="trackingKpiGrid">
         <div class="tracking-kpi-card" data-tooltip=" " data-tt-type="tracking-hud" data-tt-title="Port Calls Across Universe" data-tt-val="latest observed day · PortWatch expanded feed" data-tt-fresh="" data-tt-desc="Latest observed daily port calls across IMF PortWatch universe. IMF releases official audited call series with a 7-day publication lag.">
           <div class="tracking-kpi-label">Port Calls <span><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:middle;"><path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6"/><line x1="12" y1="1" x2="12" y2="10"/></svg></span></div>
           <div class="tracking-kpi-val" id="hudUniverseCalls">—</div>
@@ -15625,7 +15625,7 @@ if (intelTabsContainer) {
               <div style="display:flex; align-items:center; gap:8px;">
                 <span class="live-dot-pulse"></span>
                 <span style="font-size:var(--fs-micro); font-weight:700; color:#fff; text-transform:uppercase; letter-spacing:0.05em;">FLEET AIS</span>
-                <span class="fleet-hud-badge" id="hudTrackedCount">7,937 Tracked</span>
+                <span class="fleet-hud-badge" id="hudTrackedCount">— Tracked</span>
               </div>
               <div style="display:flex; align-items:center; gap:8px;">
                 <label style="display:flex; align-items:center; gap:5px; font-size:var(--fs-micro); color:var(--text-muted); cursor:pointer;">
@@ -15639,7 +15639,7 @@ if (intelTabsContainer) {
             <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(80px, 1fr)); gap:6px; margin:4px 0;">
               <div class="hud-metric-box">
                 <span class="hud-lbl">Avg Speed</span>
-                <span class="hud-num" id="hudAvgSpeed">11.4 kn</span>
+                <span class="hud-num" id="hudAvgSpeed">—</span>
               </div>
               <div class="hud-metric-box">
                 <span class="hud-lbl">% Laden</span>
@@ -44315,7 +44315,7 @@ function renderPortQueueTableRows(qData) {
 
     var safeName = escapeHtml(name).replace(/'/g, "\\'");
 
-    html += '<tr style="border-bottom:1px solid rgba(255,255,255,0.05); cursor:pointer;" onclick="openVesselDrillDown(' + imo + ', \'' + safeName + '\')" title="Click to inspect vessel voyage and position">' +
+    html += '<tr class="vessel-row" style="border-bottom:1px solid rgba(255,255,255,0.05);" onclick="openVesselDrillDown(' + imo + ', \'' + safeName + '\')" title="Click to inspect vessel particulars, voyages & AIS position">' +
       '<td style="padding:6px 8px;">' +
         '<div style="font-weight:600; color:#fff;">' + escapeHtml(name) + '</div>' +
         '<div style="font-size:var(--fs-micro); color:var(--text-muted); font-family:var(--font-mono);">IMO ' + escapeHtml(String(imo)) + '</div>' +
@@ -44487,9 +44487,9 @@ function renderPortArrivalsForecast(qData, meta) {
     classCounts[displayClass] = (classCounts[displayClass] || 0) + 1;
   });
 
-  nearEl.textContent = nearCount.toLocaleString('en-US') + ' vessels';
-  midEl.textContent = midCount.toLocaleString('en-US') + ' vessels';
-  longEl.textContent = longCount.toLocaleString('en-US') + ' vessels';
+  nearEl.textContent = nearCount === 1 ? '1 vessel' : nearCount.toLocaleString('en-US') + ' vessels';
+  midEl.textContent = midCount === 1 ? '1 vessel' : midCount.toLocaleString('en-US') + ' vessels';
+  longEl.textContent = longCount === 1 ? '1 vessel' : longCount.toLocaleString('en-US') + ' vessels';
 
   var totalMtStr = totalDwt >= 1000000
     ? (totalDwt / 1000000).toFixed(2) + ' Mt'
@@ -46583,10 +46583,11 @@ function setTrackingSubView(subview) {
     if (el) el.style.display = (v === subview) ? 'flex' : 'none';
   });
 
-  // Chokepoints analytics drawer is permanently rendered across workstation subviews
+  // Chokepoints analytics drawer is shown on portpage and chokepoints views, hidden on dedicated views (stress, history, etc.)
   var cpDrawer = document.getElementById('chokepointAnalyticsDrawer');
   if (cpDrawer) {
-    cpDrawer.style.display = 'block';
+    var showDrawer = (subview === 'portpage' || subview === 'chokepoints');
+    cpDrawer.style.display = showDrawer ? 'block' : 'none';
   }
 
   if (subview !== 'portpage' && activePortHighlightLayer && window.trackingMap) {
@@ -50934,8 +50935,9 @@ function escapeHtml(str) {
             html += `<div class="rt-row"><span class="rt-label">Disruption Status</span><span class="rt-val" style="color:var(--accent);font-weight:700;">${(cp.disruption_status || '').replace(/_/g, ' ')}</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">7-Day Avg Daily Transits</span><span class="rt-val" style="font-weight:700;">${cp.avg_7d} transits/day</span></div>`;
             html += `<div class="rt-row"><span class="rt-label">Vs Pre-Disruption Baseline</span><span class="rt-val ${chgCls}" style="font-weight:700;">${chg > 0 ? '+' : ''}${chg}%</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Baseline Daily Volume</span><span class="rt-val">${cp.normal_baseline_daily} transits/day</span></div>`;
-            html += `<div class="rt-row"><span class="rt-label">Strategic Flow Share</span><span class="rt-val">${cp.share_global_maritime_oil_pct || cp.share_global_trade_pct || 'Key'}% global trade</span></div>`;
+            const shareVal = cp.share_global_maritime_oil_pct || cp.share_global_trade_pct;
+            const shareText = shareVal != null ? `${shareVal}% global trade` : 'Strategic maritime flow';
+            html += `<div class="rt-row"><span class="rt-label">Strategic Flow Share</span><span class="rt-val">${shareText}</span></div>`;
             if (cp.strategic_importance) html += `<div class="rt-note">${cp.strategic_importance}</div>`;
           }
         }
