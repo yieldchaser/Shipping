@@ -11690,8 +11690,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-08-04,31,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,13.0,13.0,23.0,16.62,4.21,-0.86,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-08-11,32,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,7.0,7.0,23.0,15.88,6.27,-1.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-08-18,33,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,5.0,5.0,22.0,15.88,6.2,-1.75,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2019-08-25,34,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,5.0,5.0,21.0,15.62,4.81,-2.21,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2019-09-01,35,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,2.0,2.0,29.0,15.25,7.91,-1.68,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2019-08-25,34,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,5.0,5.0,21.0,15.75,4.86,-2.21,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2019-09-01,35,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,2.0,2.0,29.0,15.38,7.91,-1.69,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-09-08,36,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,5.0,5.0,25.0,15.12,6.29,-1.61,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-09-15,37,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,3.0,3.0,32.0,16.62,8.31,-1.64,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-09-22,38,2019,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,10.0,10.0,22.0,16.71,4.61,-1.46,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -11742,8 +11742,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-08-02,31,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,15.0,13.0,23.0,16.62,4.21,-0.38,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-09,32,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,14.0,7.0,23.0,15.88,6.27,-0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-16,33,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,22.0,5.0,22.0,15.88,6.2,0.99,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-08-23,34,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,5.0,21.0,15.62,4.81,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-08-30,35,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,16.0,2.0,29.0,15.25,7.91,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-08-23,34,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,5.0,21.0,15.75,4.86,0.26,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-08-30,35,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,16.0,2.0,29.0,15.38,7.91,0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-06,36,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,15.0,5.0,25.0,15.12,6.29,-0.02,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-13,37,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,14.0,3.0,32.0,16.62,8.31,-0.32,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-20,38,2020,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,10.0,22.0,16.71,4.61,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -11795,8 +11795,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-08-08,31,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,16.0,13.0,23.0,16.62,4.21,-0.15,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-15,32,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,23.0,7.0,23.0,15.88,6.27,1.14,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-22,33,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,22.0,5.0,22.0,15.88,6.2,0.99,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-08-29,34,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,14.0,5.0,21.0,15.62,4.81,-0.34,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-09-05,35,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,2.0,29.0,15.25,7.91,0.22,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-08-29,34,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,14.0,5.0,21.0,15.75,4.86,-0.36,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-09-05,35,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,2.0,29.0,15.38,7.91,0.2,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-12,36,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,10.0,5.0,25.0,15.12,6.29,-0.81,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-19,37,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,21.0,3.0,32.0,16.62,8.31,0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,20.0,10.0,22.0,16.71,4.61,0.71,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -11847,8 +11847,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-08-07,31,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,13.0,13.0,23.0,16.62,4.21,-0.86,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-14,32,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,14.0,7.0,23.0,15.88,6.27,-0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-21,33,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,21.0,5.0,22.0,15.88,6.2,0.83,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-08-28,34,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,19.0,5.0,21.0,15.62,4.81,0.7,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-09-04,35,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,21.0,2.0,29.0,15.25,7.91,0.73,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-08-28,34,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,19.0,5.0,21.0,15.75,4.86,0.67,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-09-04,35,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,21.0,2.0,29.0,15.38,7.91,0.71,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-11,36,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,19.0,5.0,25.0,15.12,6.29,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-18,37,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,14.0,3.0,32.0,16.62,8.31,-0.32,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,20.0,10.0,22.0,16.71,4.61,0.71,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -11899,8 +11899,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-08-06,31,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,13.0,13.0,23.0,16.62,4.21,-0.86,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-13,32,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,8.0,7.0,23.0,15.88,6.27,-1.26,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-20,33,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,12.0,5.0,22.0,15.88,6.2,-0.63,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-08-27,34,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,5.0,21.0,15.62,4.81,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-09-03,35,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,11.0,2.0,29.0,15.25,7.91,-0.54,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-08-27,34,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,5.0,21.0,15.75,4.86,0.26,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-09-03,35,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,11.0,2.0,29.0,15.38,7.91,-0.55,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-10,36,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,11.0,5.0,25.0,15.12,6.29,-0.66,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-17,37,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,12.0,3.0,32.0,16.62,8.31,-0.56,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,11.0,10.0,22.0,16.71,4.61,-1.24,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -11951,8 +11951,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-08-04,31,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,13.0,23.0,16.62,4.21,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-11,32,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,22.0,7.0,23.0,15.88,6.27,0.98,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-18,33,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,15.0,5.0,22.0,15.88,6.2,-0.14,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-08-25,34,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,21.0,5.0,21.0,15.62,4.81,1.12,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-09-01,35,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,11.0,2.0,29.0,15.25,7.91,-0.54,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-08-25,34,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,21.0,5.0,21.0,15.75,4.86,1.08,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-09-01,35,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,11.0,2.0,29.0,15.38,7.91,-0.55,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-08,36,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,5.0,25.0,15.12,6.29,0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-15,37,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,19.0,3.0,32.0,16.62,8.31,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,10.0,22.0,16.71,4.61,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12003,8 +12003,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-08-03,31,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,23.0,13.0,23.0,16.62,4.21,1.52,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-08-10,32,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,7.0,23.0,15.88,6.27,0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-17,33,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,19.0,5.0,22.0,15.88,6.2,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-08-24,34,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,15.0,5.0,21.0,15.62,4.81,-0.13,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-08-31,35,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,29.0,2.0,29.0,15.25,7.91,1.74,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2025-08-24,34,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,15.0,5.0,21.0,15.75,4.86,-0.15,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-08-31,35,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,29.0,2.0,29.0,15.38,7.91,1.72,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-09-07,36,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,19.0,5.0,25.0,15.12,6.29,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-14,37,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,32.0,3.0,32.0,16.62,8.31,1.85,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-09-21,38,2025,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,22.0,10.0,22.0,16.71,4.61,1.15,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12055,8 +12055,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-08-02,31,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,23.0,13.0,23.0,16.62,4.21,1.52,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2026-08-09,32,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,22.0,7.0,23.0,15.88,6.27,0.98,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-16,33,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,11.0,5.0,22.0,15.88,6.2,-0.79,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-08-23,34,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,17.0,5.0,21.0,15.62,4.81,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-08-30,35,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,15.0,2.0,29.0,15.25,7.91,-0.03,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-08-23,34,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,18.0,5.0,21.0,15.75,4.86,0.46,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-08-30,35,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,16.0,2.0,29.0,15.38,7.91,0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-06,36,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,25.0,5.0,25.0,15.12,6.29,1.57,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2026-09-13,37,2026,CNZHA,port1426,Zhanjiang (South China LPG),China,LPG,18.0,3.0,32.0,16.62,8.31,0.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-06,1,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,133.0,104.0,181.0,146.75,30.7,-0.45,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12094,7 +12094,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-08-18,33,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,123.0,123.0,211.0,172.25,28.89,-1.7,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-08-25,34,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,224.0,165.0,225.0,196.12,24.54,1.14,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-01,35,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,180.0,115.0,206.0,171.62,25.86,0.32,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-09-08,36,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,174.0,165.0,199.0,176.88,10.47,-0.28,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-09-08,36,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,174.0,165.0,199.0,177.0,10.42,-0.29,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-15,37,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,173.0,103.0,178.0,161.25,24.81,0.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-22,38,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,163.0,146.0,192.0,170.57,15.15,-0.5,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-29,39,2019,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,172.0,138.0,193.0,168.0,23.37,0.17,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12146,7 +12146,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-08-16,33,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,202.0,123.0,211.0,172.25,28.89,1.03,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-23,34,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,198.0,165.0,225.0,196.12,24.54,0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-30,35,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,206.0,115.0,206.0,171.62,25.86,1.33,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-09-06,36,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,165.0,165.0,199.0,176.88,10.47,-1.13,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-09-06,36,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,165.0,165.0,199.0,177.0,10.42,-1.15,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-13,37,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,176.0,103.0,178.0,161.25,24.81,0.59,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-20,38,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,173.0,146.0,192.0,170.57,15.15,0.16,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-27,39,2020,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,149.0,138.0,193.0,168.0,23.37,-0.81,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12199,7 +12199,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-08-22,33,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,211.0,123.0,211.0,172.25,28.89,1.34,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-29,34,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,185.0,165.0,225.0,196.12,24.54,-0.45,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-05,35,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,184.0,115.0,206.0,171.62,25.86,0.48,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-09-12,36,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,199.0,165.0,199.0,176.88,10.47,2.11,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2021-09-12,36,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,199.0,165.0,199.0,177.0,10.42,2.11,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2021-09-19,37,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,161.0,103.0,178.0,161.25,24.81,-0.01,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,192.0,146.0,192.0,170.57,15.15,1.41,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-10-03,39,2021,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,146.0,138.0,193.0,168.0,23.37,-0.94,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12251,7 +12251,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-08-21,33,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,187.0,123.0,211.0,172.25,28.89,0.51,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-28,34,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,180.0,165.0,225.0,196.12,24.54,-0.66,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-04,35,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,173.0,115.0,206.0,171.62,25.86,0.05,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-09-11,36,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,179.0,165.0,199.0,176.88,10.47,0.2,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-09-11,36,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,179.0,165.0,199.0,177.0,10.42,0.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-18,37,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,157.0,103.0,178.0,161.25,24.81,-0.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,146.0,146.0,192.0,170.57,15.15,-1.62,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2022-10-02,39,2022,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,191.0,138.0,193.0,168.0,23.37,0.98,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12303,7 +12303,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-08-20,33,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,183.0,123.0,211.0,172.25,28.89,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-27,34,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,221.0,165.0,225.0,196.12,24.54,1.01,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-03,35,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,174.0,115.0,206.0,171.62,25.86,0.09,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-09-10,36,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,175.0,165.0,199.0,176.88,10.47,-0.18,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-09-10,36,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,175.0,165.0,199.0,177.0,10.42,-0.19,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-17,37,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,178.0,103.0,178.0,161.25,24.81,0.68,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,180.0,146.0,192.0,170.57,15.15,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-10-01,39,2023,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,193.0,138.0,193.0,168.0,23.37,1.07,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12355,7 +12355,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-08-18,33,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,160.0,123.0,211.0,172.25,28.89,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-25,34,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,225.0,165.0,225.0,196.12,24.54,1.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-01,35,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,115.0,115.0,206.0,171.62,25.86,-2.19,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2024-09-08,36,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,182.0,165.0,199.0,176.88,10.47,0.49,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-09-08,36,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,182.0,165.0,199.0,177.0,10.42,0.48,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-15,37,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,177.0,103.0,178.0,161.25,24.81,0.63,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,161.0,146.0,192.0,170.57,15.15,-0.63,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-29,39,2024,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,187.0,138.0,193.0,168.0,23.37,0.81,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12407,7 +12407,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-08-17,33,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,159.0,123.0,211.0,172.25,28.89,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-24,34,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,171.0,165.0,225.0,196.12,24.54,-1.02,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-31,35,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,165.0,115.0,206.0,171.62,25.86,-0.26,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-09-07,36,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,168.0,165.0,199.0,176.88,10.47,-0.85,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-09-07,36,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,168.0,165.0,199.0,177.0,10.42,-0.86,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-14,37,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,165.0,103.0,178.0,161.25,24.81,0.15,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-21,38,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,179.0,146.0,192.0,170.57,15.15,0.56,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-28,39,2025,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,138.0,138.0,193.0,168.0,23.37,-1.28,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -12459,7 +12459,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-08-16,33,2026,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,153.0,123.0,211.0,172.25,28.89,-0.67,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-23,34,2026,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,165.0,165.0,225.0,196.12,24.54,-1.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-30,35,2026,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,176.0,115.0,206.0,171.62,25.86,0.17,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-09-06,36,2026,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,173.0,165.0,199.0,176.88,10.47,-0.37,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-09-06,36,2026,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,174.0,165.0,199.0,177.0,10.42,-0.29,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-13,37,2026,JPCHB,port239,Chiba (Tokyo Bay),Japan,LPG,103.0,103.0,178.0,161.25,24.81,-2.35,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-01-06,1,2019,JPYOK,port1417,Yokohama,Japan,LPG,38.0,33.0,71.0,47.5,13.9,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-13,2,2019,JPYOK,port1417,Yokohama,Japan,LPG,70.0,44.0,77.0,61.5,11.17,0.76,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14071,7 +14071,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-09-13,37,2026,QARLF,port1090,Ras Laffan (LPG),Qatar,LPG,8.0,8.0,39.0,32.0,10.21,-2.35,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-01-06,1,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,11.0,5.0,18.0,13.12,4.91,-0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-13,2,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,8.0,6.0,22.0,12.75,5.42,-0.88,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-01-20,3,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,10.0,8.0,17.0,11.38,3.5,-0.39,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-01-20,3,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,10.0,8.0,18.0,11.5,3.74,-0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-27,4,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,18.0,12.0,18.0,15.5,2.39,1.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-02-03,5,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,16.0,10.0,26.0,16.25,4.8,-0.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-02-10,6,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,13.0,10.0,22.0,15.38,3.89,-0.61,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14123,7 +14123,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-12-29,52,2019,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,11.0,8.0,22.0,12.86,4.67,-0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-01-05,1,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,16.0,5.0,18.0,13.12,4.91,0.59,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-01-12,2,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,6.0,6.0,22.0,12.75,5.42,-1.25,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-01-19,3,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,8.0,8.0,17.0,11.38,3.5,-0.97,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-01-19,3,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,8.0,8.0,18.0,11.5,3.74,-0.94,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-01-26,4,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,13.0,12.0,18.0,15.5,2.39,-1.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-02-02,5,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,16.0,10.0,26.0,16.25,4.8,-0.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-02-09,6,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,12.0,10.0,22.0,15.38,3.89,-0.87,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14176,7 +14176,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-01-03,53,2020,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,6.0,4.8,7.2,6.0,1.2,0.0,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-01-10,1,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,12.0,5.0,18.0,13.12,4.91,-0.23,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-01-17,2,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,10.0,6.0,22.0,12.75,5.42,-0.51,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-01-24,3,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,9.0,8.0,17.0,11.38,3.5,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-01-24,3,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,9.0,8.0,18.0,11.5,3.74,-0.67,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-01-31,4,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,16.0,12.0,18.0,15.5,2.39,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-02-07,5,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,16.0,10.0,26.0,16.25,4.8,-0.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-02-14,6,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,17.0,10.0,22.0,15.38,3.89,0.42,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14228,7 +14228,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-01-02,52,2021,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,12.0,8.0,22.0,12.86,4.67,-0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-01-09,1,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,18.0,5.0,18.0,13.12,4.91,0.99,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-01-16,2,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,14.0,6.0,22.0,12.75,5.42,0.23,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-01-23,3,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,13.0,8.0,17.0,11.38,3.5,0.46,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-01-23,3,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,13.0,8.0,18.0,11.5,3.74,0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-01-30,4,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,12.0,12.0,18.0,15.5,2.39,-1.46,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-02-06,5,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,19.0,10.0,26.0,16.25,4.8,0.57,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-02-13,6,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,15.0,10.0,22.0,15.38,3.89,-0.1,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14280,7 +14280,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-01-01,52,2022,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,13.0,8.0,22.0,12.86,4.67,0.03,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-01-08,1,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,5.0,5.0,18.0,13.12,4.91,-1.65,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2023-01-15,2,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,12.0,6.0,22.0,12.75,5.42,-0.14,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-01-22,3,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,9.0,8.0,17.0,11.38,3.5,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-01-22,3,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,9.0,8.0,18.0,11.5,3.74,-0.67,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-01-29,4,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,14.0,12.0,18.0,15.5,2.39,-0.63,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-02-05,5,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,10.0,10.0,26.0,16.25,4.8,-1.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-02-12,6,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,15.0,10.0,22.0,15.38,3.89,-0.1,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14332,7 +14332,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-12-31,52,2023,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,8.0,8.0,22.0,12.86,4.67,-1.04,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-01-07,1,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,8.0,5.0,18.0,13.12,4.91,-1.04,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-01-14,2,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,11.0,6.0,22.0,12.75,5.42,-0.32,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-01-21,3,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,9.0,8.0,17.0,11.38,3.5,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-01-21,3,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,9.0,8.0,18.0,11.5,3.74,-0.67,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-01-28,4,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,18.0,12.0,18.0,15.5,2.39,1.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-02-04,5,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,12.0,10.0,26.0,16.25,4.8,-0.89,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-02-11,6,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,10.0,10.0,22.0,15.38,3.89,-1.38,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14384,7 +14384,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-12-29,52,2024,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,15.0,8.0,22.0,12.86,4.67,0.46,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-01-05,1,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,17.0,5.0,18.0,13.12,4.91,0.79,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-01-12,2,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,22.0,6.0,22.0,12.75,5.42,1.71,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
-2025-01-19,3,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,16.0,8.0,17.0,11.38,3.5,1.32,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-01-19,3,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,16.0,8.0,18.0,11.5,3.74,1.2,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-01-26,4,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,15.0,12.0,18.0,15.5,2.39,-0.21,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-02-02,5,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,15.0,10.0,26.0,16.25,4.8,-0.26,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-02-09,6,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,19.0,10.0,22.0,15.38,3.89,0.93,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -14436,7 +14436,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-12-28,52,2025,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,22.0,8.0,22.0,12.86,4.67,1.96,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2026-01-04,1,2026,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,18.0,5.0,18.0,13.12,4.91,0.99,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-01-11,2,2026,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,19.0,6.0,22.0,12.75,5.42,1.15,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-01-18,3,2026,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,17.0,8.0,17.0,11.38,3.5,1.61,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2026-01-18,3,2026,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,18.0,8.0,18.0,11.5,3.74,1.74,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2026-01-25,4,2026,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,18.0,12.0,18.0,15.5,2.39,1.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-02-01,5,2026,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,26.0,10.0,26.0,16.25,4.8,2.03,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2026-02-08,6,2026,SAJUA,port526,Juaymah (Saudi Aramco),Saudi Arabia,LPG,22.0,10.0,22.0,15.38,3.89,1.7,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
@@ -15305,11 +15305,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-07-14,28,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,8.0,8.0,22.0,16.25,5.12,-1.61,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-07-21,29,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,14.0,22.0,19.38,2.62,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-07-28,30,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,15.0,14.0,26.0,17.25,3.81,-0.59,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-08-04,31,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,16.0,23.0,19.12,2.53,-0.44,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-08-04,31,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,17.0,23.0,19.25,2.38,-0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-08-11,32,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,17.0,14.0,21.0,16.5,2.67,0.19,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-08-18,33,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,14.0,25.0,20.5,3.93,-1.65,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2019-08-18,33,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,14.0,25.0,20.62,3.74,-1.77,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-08-25,34,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,13.0,20.0,17.25,2.71,-1.57,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2019-09-01,35,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,1.0,21.0,14.38,6.14,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-09-01,35,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,1.0,21.0,14.5,6.23,-0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-08,36,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,8.0,8.0,21.0,15.62,4.93,-1.55,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-09-15,37,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,10.0,10.0,21.0,16.12,4.02,-1.52,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2019-09-22,38,2019,USPOA,port933,Port Arthur / Nederland,United States,LPG,12.0,12.0,26.0,19.43,5.59,-1.33,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15357,11 +15357,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-07-12,28,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,8.0,22.0,16.25,5.12,-0.44,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-07-19,29,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,14.0,22.0,19.38,2.62,-2.05,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2020-07-26,30,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,15.0,14.0,26.0,17.25,3.81,-0.59,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-08-02,31,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,23.0,16.0,23.0,19.12,2.53,1.53,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2020-08-02,31,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,23.0,17.0,23.0,19.25,2.38,1.58,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2020-08-09,32,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,15.0,14.0,21.0,16.5,2.67,-0.56,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-08-16,33,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,22.0,14.0,25.0,20.5,3.93,0.38,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-08-16,33,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,22.0,14.0,25.0,20.62,3.74,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-23,34,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,19.0,13.0,20.0,17.25,2.71,0.65,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-08-30,35,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,1.0,1.0,21.0,14.38,6.14,-2.18,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2020-08-30,35,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,1.0,1.0,21.0,14.5,6.23,-2.17,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2020-09-06,36,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,10.0,8.0,21.0,15.62,4.93,-1.14,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-13,37,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,10.0,21.0,16.12,4.02,-0.78,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-20,38,2020,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,12.0,26.0,19.43,5.59,-1.15,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15410,11 +15410,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-07-18,28,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,8.0,22.0,16.25,5.12,0.93,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-07-25,29,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,14.0,22.0,19.38,2.62,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-01,30,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,14.0,26.0,17.25,3.81,0.2,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-08-08,31,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,17.0,16.0,23.0,19.12,2.53,-0.84,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-08-08,31,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,17.0,17.0,23.0,19.25,2.38,-0.95,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-15,32,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,14.0,21.0,16.5,2.67,1.31,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-08-22,33,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,23.0,14.0,25.0,20.5,3.93,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-08-22,33,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,23.0,14.0,25.0,20.62,3.74,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-29,34,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,13.0,20.0,17.25,2.71,1.01,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-09-05,35,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,1.0,21.0,14.38,6.14,1.08,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-09-05,35,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,1.0,21.0,14.5,6.23,1.04,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-12,36,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,8.0,21.0,15.62,4.93,0.48,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-19,37,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,10.0,21.0,16.12,4.02,1.21,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-26,38,2021,USPOA,port933,Port Arthur / Nederland,United States,LPG,26.0,12.0,26.0,19.43,5.59,1.18,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15462,11 +15462,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-07-17,28,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,8.0,22.0,16.25,5.12,0.93,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-07-24,29,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,22.0,14.0,22.0,19.38,2.62,1.0,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-07-31,30,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,14.0,26.0,17.25,3.81,0.2,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-08-07,31,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,16.0,23.0,19.12,2.53,-0.44,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-08-07,31,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,17.0,23.0,19.25,2.38,-0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-14,32,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,15.0,14.0,21.0,16.5,2.67,-0.56,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-08-21,33,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,14.0,25.0,20.5,3.93,0.13,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-08-21,33,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,14.0,25.0,20.62,3.74,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-28,34,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,19.0,13.0,20.0,17.25,2.71,0.65,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-09-04,35,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,1.0,21.0,14.38,6.14,0.26,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-09-04,35,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,1.0,21.0,14.5,6.23,0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-11,36,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,19.0,8.0,21.0,15.62,4.93,0.69,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-18,37,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,10.0,21.0,16.12,4.02,1.21,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-25,38,2022,USPOA,port933,Port Arthur / Nederland,United States,LPG,26.0,12.0,26.0,19.43,5.59,1.18,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15514,11 +15514,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-07-16,28,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,8.0,22.0,16.25,5.12,0.34,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-07-23,29,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,17.0,14.0,22.0,19.38,2.62,-0.91,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-07-30,30,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,14.0,26.0,17.25,3.81,-0.33,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-08-06,31,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,16.0,23.0,19.12,2.53,-0.44,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-08-06,31,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,17.0,23.0,19.25,2.38,-0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-13,32,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,14.0,21.0,16.5,2.67,1.69,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
-2023-08-20,33,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,23.0,14.0,25.0,20.5,3.93,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-08-20,33,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,23.0,14.0,25.0,20.62,3.74,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-27,34,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,13.0,20.0,17.25,2.71,1.01,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-09-03,35,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,19.0,1.0,21.0,14.38,6.14,0.75,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-09-03,35,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,19.0,1.0,21.0,14.5,6.23,0.72,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-10,36,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,8.0,21.0,15.62,4.93,1.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-17,37,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,10.0,21.0,16.12,4.02,0.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-24,38,2023,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,12.0,26.0,19.43,5.59,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15566,11 +15566,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-07-14,28,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,15.0,8.0,22.0,16.25,5.12,-0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-07-21,29,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,14.0,22.0,19.38,2.62,0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-07-28,30,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,26.0,14.0,26.0,17.25,3.81,2.3,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
-2024-08-04,31,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,16.0,23.0,19.12,2.53,0.74,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-08-04,31,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,17.0,23.0,19.25,2.38,0.74,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-11,32,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,14.0,21.0,16.5,2.67,-0.19,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-08-18,33,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,25.0,14.0,25.0,20.5,3.93,1.15,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-08-18,33,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,25.0,14.0,25.0,20.62,3.74,1.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-25,34,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,13.0,20.0,17.25,2.71,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-09-01,35,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,1.0,21.0,14.38,6.14,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-09-01,35,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,1.0,21.0,14.5,6.23,-0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-08,36,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,8.0,21.0,15.62,4.93,0.89,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-15,37,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,15.0,10.0,21.0,16.12,4.02,-0.28,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-22,38,2024,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,12.0,26.0,19.43,5.59,0.28,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15618,11 +15618,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-07-13,28,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,22.0,8.0,22.0,16.25,5.12,1.12,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-07-20,29,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,14.0,22.0,19.38,2.62,0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-07-27,30,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,14.0,26.0,17.25,3.81,-0.33,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-08-03,31,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,22.0,16.0,23.0,19.12,2.53,1.14,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-08-03,31,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,22.0,17.0,23.0,19.25,2.38,1.16,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-10,32,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,14.0,21.0,16.5,2.67,-0.94,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-08-17,33,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,14.0,25.0,20.5,3.93,0.13,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-08-17,33,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,21.0,14.0,25.0,20.62,3.74,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-24,34,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,13.0,20.0,17.25,2.71,-1.2,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-08-31,35,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,1.0,21.0,14.38,6.14,-0.06,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-08-31,35,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,1.0,21.0,14.5,6.23,-0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-07,36,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,17.0,8.0,21.0,15.62,4.93,0.28,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-14,37,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,10.0,21.0,16.12,4.02,0.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-21,38,2025,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,12.0,26.0,19.43,5.59,-0.26,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15670,11 +15670,11 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-07-12,28,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,11.0,8.0,22.0,16.25,5.12,-1.03,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-07-19,29,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,20.0,14.0,22.0,19.38,2.62,0.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-07-26,30,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,14.0,26.0,17.25,3.81,-0.85,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-08-02,31,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,16.0,23.0,19.12,2.53,-1.23,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-08-02,31,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,17.0,17.0,23.0,19.25,2.38,-0.95,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-09,32,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,14.0,14.0,21.0,16.5,2.67,-0.94,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-08-16,33,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,15.0,14.0,25.0,20.5,3.93,-1.4,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-08-16,33,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,16.0,14.0,25.0,20.62,3.74,-1.24,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-23,34,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,17.0,13.0,20.0,17.25,2.71,-0.09,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-08-30,35,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,18.0,1.0,21.0,14.38,6.14,0.59,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-08-30,35,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,19.0,1.0,21.0,14.5,6.23,0.72,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-06,36,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,12.0,8.0,21.0,15.62,4.93,-0.73,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-13,37,2026,USPOA,port933,Port Arthur / Nederland,United States,LPG,13.0,10.0,21.0,16.12,4.02,-0.78,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-01-06,1,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,38.0,38.0,67.0,57.75,8.94,-2.21,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -15710,7 +15710,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-08-04,31,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,46.0,26.0,64.0,52.88,13.03,-0.53,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-08-11,32,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,63.0,27.0,69.0,58.0,13.42,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-08-18,33,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,52.0,26.0,70.0,56.5,14.73,-0.31,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-08-25,34,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,48.0,33.0,72.0,61.25,13.63,-0.97,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-08-25,34,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,48.0,34.0,72.0,61.38,13.33,-1.0,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-01,35,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,55.0,36.0,71.0,60.0,11.66,-0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-08,36,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,44.0,22.0,71.0,56.38,16.3,-0.76,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-15,37,2019,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,52.0,26.0,80.0,57.75,15.97,-0.36,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15762,7 +15762,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-08-02,31,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,45.0,26.0,64.0,52.88,13.03,-0.6,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-09,32,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,54.0,27.0,69.0,58.0,13.42,-0.3,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-16,33,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,47.0,26.0,70.0,56.5,14.73,-0.64,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-08-23,34,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,67.0,33.0,72.0,61.25,13.63,0.42,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-08-23,34,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,67.0,34.0,72.0,61.38,13.33,0.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-30,35,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,54.0,36.0,71.0,60.0,11.66,-0.51,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-06,36,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,57.0,22.0,71.0,56.38,16.3,0.04,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-13,37,2020,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,51.0,26.0,80.0,57.75,15.97,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15815,7 +15815,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-08-08,31,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,60.0,26.0,64.0,52.88,13.03,0.55,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-15,32,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,66.0,27.0,69.0,58.0,13.42,0.6,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-22,33,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,58.0,26.0,70.0,56.5,14.73,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-08-29,34,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,71.0,33.0,72.0,61.25,13.63,0.72,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-08-29,34,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,71.0,34.0,72.0,61.38,13.33,0.72,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-05,35,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,63.0,36.0,71.0,60.0,11.66,0.26,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-12,36,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,59.0,22.0,71.0,56.38,16.3,0.16,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-19,37,2021,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,60.0,26.0,80.0,57.75,15.97,0.14,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15867,7 +15867,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-08-07,31,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,60.0,26.0,64.0,52.88,13.03,0.55,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-14,32,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,69.0,27.0,69.0,58.0,13.42,0.82,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-21,33,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,67.0,26.0,70.0,56.5,14.73,0.71,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-08-28,34,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,66.0,33.0,72.0,61.25,13.63,0.35,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-08-28,34,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,66.0,34.0,72.0,61.38,13.33,0.35,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-04,35,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,62.0,36.0,71.0,60.0,11.66,0.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-11,36,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,71.0,22.0,71.0,56.38,16.3,0.9,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-18,37,2022,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,62.0,26.0,80.0,57.75,15.97,0.27,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15919,7 +15919,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-08-06,31,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,61.0,26.0,64.0,52.88,13.03,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-13,32,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,64.0,27.0,69.0,58.0,13.42,0.45,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-20,33,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,67.0,26.0,70.0,56.5,14.73,0.71,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-08-27,34,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,65.0,33.0,72.0,61.25,13.63,0.28,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-08-27,34,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,65.0,34.0,72.0,61.38,13.33,0.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-03,35,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,70.0,36.0,71.0,60.0,11.66,0.86,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-10,36,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,67.0,22.0,71.0,56.38,16.3,0.65,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-17,37,2023,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,60.0,26.0,80.0,57.75,15.97,0.14,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -15971,7 +15971,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-08-04,31,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,64.0,26.0,64.0,52.88,13.03,0.85,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-11,32,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,57.0,27.0,69.0,58.0,13.42,-0.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-18,33,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,65.0,26.0,70.0,56.5,14.73,0.58,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-08-25,34,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,72.0,33.0,72.0,61.25,13.63,0.79,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-08-25,34,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,72.0,34.0,72.0,61.38,13.33,0.8,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-01,35,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,69.0,36.0,71.0,60.0,11.66,0.77,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-08,36,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,69.0,22.0,71.0,56.38,16.3,0.77,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-15,37,2024,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,71.0,26.0,80.0,57.75,15.97,0.83,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16023,7 +16023,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-08-03,31,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,61.0,26.0,64.0,52.88,13.03,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-10,32,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,64.0,27.0,69.0,58.0,13.42,0.45,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-17,33,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,70.0,26.0,70.0,56.5,14.73,0.92,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-08-24,34,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,68.0,33.0,72.0,61.25,13.63,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-08-24,34,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,68.0,34.0,72.0,61.38,13.33,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-31,35,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,71.0,36.0,71.0,60.0,11.66,0.94,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-07,36,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,62.0,22.0,71.0,56.38,16.3,0.34,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-14,37,2025,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,80.0,26.0,80.0,57.75,15.97,1.39,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -16075,7 +16075,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-08-02,31,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,26.0,26.0,64.0,52.88,13.03,-2.06,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-08-09,32,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,27.0,27.0,69.0,58.0,13.42,-2.31,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-08-16,33,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,26.0,26.0,70.0,56.5,14.73,-2.07,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2026-08-23,34,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,33.0,33.0,72.0,61.25,13.63,-2.07,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2026-08-23,34,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,34.0,34.0,72.0,61.38,13.33,-2.05,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-08-30,35,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,36.0,36.0,71.0,60.0,11.66,-2.06,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-06,36,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,22.0,22.0,71.0,56.38,16.3,-2.11,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-13,37,2026,AEFJR,port362,Fujairah,United Arab Emirates,Tankers,26.0,26.0,80.0,57.75,15.97,-1.99,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
@@ -17308,8 +17308,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-05-26,21,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,353.0,294.0,353.0,321.75,21.8,1.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-06-02,22,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,360.0,283.0,380.0,328.38,31.91,0.99,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-06-09,23,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,306.0,283.0,331.0,306.88,16.39,-0.05,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-06-16,24,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,353.0,295.0,361.0,327.25,24.51,1.05,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-06-23,25,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,343.0,291.0,355.0,322.5,24.5,0.84,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-06-16,24,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,353.0,295.0,361.0,327.12,24.65,1.05,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-06-23,25,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,343.0,291.0,355.0,322.38,24.65,0.84,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-06-30,26,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,361.0,282.0,361.0,321.12,27.21,1.47,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-07-07,27,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,327.0,265.0,347.0,315.88,27.81,0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-07-14,28,2019,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,380.0,291.0,380.0,328.12,30.05,1.73,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
@@ -17360,8 +17360,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-05-24,21,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,338.0,294.0,353.0,321.75,21.8,0.75,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-05-31,22,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,380.0,283.0,380.0,328.38,31.91,1.62,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2020-06-07,23,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,327.0,283.0,331.0,306.88,16.39,1.23,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-06-14,24,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,361.0,295.0,361.0,327.25,24.51,1.38,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-06-21,25,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,355.0,291.0,355.0,322.5,24.5,1.33,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-06-14,24,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,361.0,295.0,361.0,327.12,24.65,1.37,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-06-21,25,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,355.0,291.0,355.0,322.38,24.65,1.32,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-06-28,26,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,352.0,282.0,361.0,321.12,27.21,1.13,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-07-05,27,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,326.0,265.0,347.0,315.88,27.81,0.36,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-07-12,28,2020,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,356.0,291.0,380.0,328.12,30.05,0.93,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -17413,8 +17413,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-05-30,21,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,342.0,294.0,353.0,321.75,21.8,0.93,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-06-06,22,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,320.0,283.0,380.0,328.38,31.91,-0.26,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-06-13,23,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,331.0,283.0,331.0,306.88,16.39,1.47,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-06-20,24,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,333.0,295.0,361.0,327.25,24.51,0.23,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-06-27,25,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,352.0,291.0,355.0,322.5,24.5,1.2,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-06-20,24,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,333.0,295.0,361.0,327.12,24.65,0.24,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-06-27,25,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,352.0,291.0,355.0,322.38,24.65,1.2,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-07-04,26,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,339.0,282.0,361.0,321.12,27.21,0.66,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-07-11,27,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,342.0,265.0,347.0,315.88,27.81,0.94,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-07-18,28,2021,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,332.0,291.0,380.0,328.12,30.05,0.13,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -17465,8 +17465,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-05-29,21,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,323.0,294.0,353.0,321.75,21.8,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-06-05,22,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,340.0,283.0,380.0,328.38,31.91,0.36,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-06-12,23,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,315.0,283.0,331.0,306.88,16.39,0.5,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-06-19,24,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,331.0,295.0,361.0,327.25,24.51,0.15,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-06-26,25,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,312.0,291.0,355.0,322.5,24.5,-0.43,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-06-19,24,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,331.0,295.0,361.0,327.12,24.65,0.16,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-06-26,25,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,312.0,291.0,355.0,322.38,24.65,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-07-03,26,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,310.0,282.0,361.0,321.12,27.21,-0.41,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-07-10,27,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,347.0,265.0,347.0,315.88,27.81,1.12,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-07-17,28,2022,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,338.0,291.0,380.0,328.12,30.05,0.33,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -17517,8 +17517,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-05-28,21,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,294.0,294.0,353.0,321.75,21.8,-1.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-06-04,22,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,334.0,283.0,380.0,328.38,31.91,0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-06-11,23,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,283.0,283.0,331.0,306.88,16.39,-1.46,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-06-18,24,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,295.0,295.0,361.0,327.25,24.51,-1.32,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-06-25,25,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,318.0,291.0,355.0,322.5,24.5,-0.18,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-06-18,24,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,295.0,295.0,361.0,327.12,24.65,-1.3,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-06-25,25,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,318.0,291.0,355.0,322.38,24.65,-0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-07-02,26,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,302.0,282.0,361.0,321.12,27.21,-0.7,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-07-09,27,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,287.0,265.0,347.0,315.88,27.81,-1.04,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-07-16,28,2023,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,306.0,291.0,380.0,328.12,30.05,-0.74,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -17569,8 +17569,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-05-26,21,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,300.0,294.0,353.0,321.75,21.8,-1.0,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-06-02,22,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,299.0,283.0,380.0,328.38,31.91,-0.92,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-06-09,23,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,297.0,283.0,331.0,306.88,16.39,-0.6,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-06-16,24,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,339.0,295.0,361.0,327.25,24.51,0.48,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-06-23,25,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,311.0,291.0,355.0,322.5,24.5,-0.47,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-06-16,24,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,339.0,295.0,361.0,327.12,24.65,0.48,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-06-23,25,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,311.0,291.0,355.0,322.38,24.65,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-06-30,26,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,319.0,282.0,361.0,321.12,27.21,-0.08,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-07-07,27,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,309.0,265.0,347.0,315.88,27.81,-0.25,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-07-14,28,2024,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,323.0,291.0,380.0,328.12,30.05,-0.17,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -17621,8 +17621,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-05-25,21,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,301.0,294.0,353.0,321.75,21.8,-0.95,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-06-01,22,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,311.0,283.0,380.0,328.38,31.91,-0.54,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-06-08,23,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,297.0,283.0,331.0,306.88,16.39,-0.6,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-06-15,24,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,302.0,295.0,361.0,327.25,24.51,-1.03,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-06-22,25,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,291.0,291.0,355.0,322.5,24.5,-1.29,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-06-15,24,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,302.0,295.0,361.0,327.12,24.65,-1.02,NORMAL,Within standard 5-year seasonal operating envelope.
+2025-06-22,25,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,291.0,291.0,355.0,322.38,24.65,-1.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-06-29,26,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,304.0,282.0,361.0,321.12,27.21,-0.63,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-07-06,27,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,265.0,265.0,347.0,315.88,27.81,-1.83,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2025-07-13,28,2025,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,299.0,291.0,380.0,328.12,30.05,-0.97,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -17673,8 +17673,8 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-05-24,21,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,323.0,294.0,353.0,321.75,21.8,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-05-31,22,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,283.0,283.0,380.0,328.38,31.91,-1.42,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-06-07,23,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,299.0,283.0,331.0,306.88,16.39,-0.48,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-06-14,24,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,304.0,295.0,361.0,327.25,24.51,-0.95,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-06-21,25,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,298.0,291.0,355.0,322.5,24.5,-1.0,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-06-14,24,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,303.0,295.0,361.0,327.12,24.65,-0.98,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-06-21,25,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,297.0,291.0,355.0,322.38,24.65,-1.03,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-06-28,26,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,282.0,282.0,361.0,321.12,27.21,-1.44,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-07-05,27,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,324.0,265.0,347.0,315.88,27.81,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-07-12,28,2026,NLRTM,port1114,Rotterdam (Tankers),The Netherlands,Tankers,291.0,291.0,380.0,328.12,30.05,-1.24,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -18916,7 +18916,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-05-26,21,2019,SGSIN,port1201,Singapore,Singapore,Tankers,498.0,476.0,526.0,507.38,15.98,-0.59,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-06-02,22,2019,SGSIN,port1201,Singapore,Singapore,Tankers,491.0,485.0,517.0,501.38,14.65,-0.71,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-06-09,23,2019,SGSIN,port1201,Singapore,Singapore,Tankers,517.0,470.0,537.0,510.38,19.75,0.34,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-06-16,24,2019,SGSIN,port1201,Singapore,Singapore,Tankers,497.0,465.0,541.0,504.12,22.79,-0.31,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-06-16,24,2019,SGSIN,port1201,Singapore,Singapore,Tankers,497.0,465.0,541.0,504.0,22.85,-0.31,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-06-23,25,2019,SGSIN,port1201,Singapore,Singapore,Tankers,484.0,482.0,521.0,497.38,12.5,-1.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-06-30,26,2019,SGSIN,port1201,Singapore,Singapore,Tankers,504.0,460.0,551.0,512.5,30.58,-0.28,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-07-07,27,2019,SGSIN,port1201,Singapore,Singapore,Tankers,494.0,478.0,528.0,498.25,16.67,-0.25,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -18926,7 +18926,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2019-08-04,31,2019,SGSIN,port1201,Singapore,Singapore,Tankers,476.0,476.0,531.0,491.5,18.53,-0.84,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-08-11,32,2019,SGSIN,port1201,Singapore,Singapore,Tankers,468.0,451.0,532.0,495.5,32.34,-0.85,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-08-18,33,2019,SGSIN,port1201,Singapore,Singapore,Tankers,484.0,472.0,542.0,500.75,25.58,-0.65,NORMAL,Within standard 5-year seasonal operating envelope.
-2019-08-25,34,2019,SGSIN,port1201,Singapore,Singapore,Tankers,507.0,464.0,548.0,499.0,27.56,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
+2019-08-25,34,2019,SGSIN,port1201,Singapore,Singapore,Tankers,507.0,465.0,548.0,499.12,27.38,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-01,35,2019,SGSIN,port1201,Singapore,Singapore,Tankers,474.0,452.0,514.0,488.25,20.95,-0.68,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-08,36,2019,SGSIN,port1201,Singapore,Singapore,Tankers,498.0,485.0,533.0,504.12,16.18,-0.38,NORMAL,Within standard 5-year seasonal operating envelope.
 2019-09-15,37,2019,SGSIN,port1201,Singapore,Singapore,Tankers,529.0,371.0,529.0,477.25,46.45,1.11,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -18968,7 +18968,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-05-24,21,2020,SGSIN,port1201,Singapore,Singapore,Tankers,510.0,476.0,526.0,507.38,15.98,0.16,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-05-31,22,2020,SGSIN,port1201,Singapore,Singapore,Tankers,490.0,485.0,517.0,501.38,14.65,-0.78,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-06-07,23,2020,SGSIN,port1201,Singapore,Singapore,Tankers,470.0,470.0,537.0,510.38,19.75,-2.04,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
-2020-06-14,24,2020,SGSIN,port1201,Singapore,Singapore,Tankers,509.0,465.0,541.0,504.12,22.79,0.21,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-06-14,24,2020,SGSIN,port1201,Singapore,Singapore,Tankers,509.0,465.0,541.0,504.0,22.85,0.22,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-06-21,25,2020,SGSIN,port1201,Singapore,Singapore,Tankers,496.0,482.0,521.0,497.38,12.5,-0.11,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-06-28,26,2020,SGSIN,port1201,Singapore,Singapore,Tankers,460.0,460.0,551.0,512.5,30.58,-1.72,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2020-07-05,27,2020,SGSIN,port1201,Singapore,Singapore,Tankers,505.0,478.0,528.0,498.25,16.67,0.4,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -18978,7 +18978,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2020-08-02,31,2020,SGSIN,port1201,Singapore,Singapore,Tankers,483.0,476.0,531.0,491.5,18.53,-0.46,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-09,32,2020,SGSIN,port1201,Singapore,Singapore,Tankers,505.0,451.0,532.0,495.5,32.34,0.29,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-16,33,2020,SGSIN,port1201,Singapore,Singapore,Tankers,488.0,472.0,542.0,500.75,25.58,-0.5,NORMAL,Within standard 5-year seasonal operating envelope.
-2020-08-23,34,2020,SGSIN,port1201,Singapore,Singapore,Tankers,506.0,464.0,548.0,499.0,27.56,0.25,NORMAL,Within standard 5-year seasonal operating envelope.
+2020-08-23,34,2020,SGSIN,port1201,Singapore,Singapore,Tankers,506.0,465.0,548.0,499.12,27.38,0.25,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-08-30,35,2020,SGSIN,port1201,Singapore,Singapore,Tankers,495.0,452.0,514.0,488.25,20.95,0.32,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-06,36,2020,SGSIN,port1201,Singapore,Singapore,Tankers,497.0,485.0,533.0,504.12,16.18,-0.44,NORMAL,Within standard 5-year seasonal operating envelope.
 2020-09-13,37,2020,SGSIN,port1201,Singapore,Singapore,Tankers,506.0,371.0,529.0,477.25,46.45,0.62,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19021,7 +19021,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-05-30,21,2021,SGSIN,port1201,Singapore,Singapore,Tankers,501.0,476.0,526.0,507.38,15.98,-0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-06-06,22,2021,SGSIN,port1201,Singapore,Singapore,Tankers,485.0,485.0,517.0,501.38,14.65,-1.12,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-06-13,23,2021,SGSIN,port1201,Singapore,Singapore,Tankers,502.0,470.0,537.0,510.38,19.75,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-06-20,24,2021,SGSIN,port1201,Singapore,Singapore,Tankers,490.0,465.0,541.0,504.12,22.79,-0.62,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-06-20,24,2021,SGSIN,port1201,Singapore,Singapore,Tankers,490.0,465.0,541.0,504.0,22.85,-0.61,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-06-27,25,2021,SGSIN,port1201,Singapore,Singapore,Tankers,482.0,482.0,521.0,497.38,12.5,-1.23,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-07-04,26,2021,SGSIN,port1201,Singapore,Singapore,Tankers,507.0,460.0,551.0,512.5,30.58,-0.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-07-11,27,2021,SGSIN,port1201,Singapore,Singapore,Tankers,509.0,478.0,528.0,498.25,16.67,0.64,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19031,7 +19031,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2021-08-08,31,2021,SGSIN,port1201,Singapore,Singapore,Tankers,480.0,476.0,531.0,491.5,18.53,-0.62,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-15,32,2021,SGSIN,port1201,Singapore,Singapore,Tankers,488.0,451.0,532.0,495.5,32.34,-0.23,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-08-22,33,2021,SGSIN,port1201,Singapore,Singapore,Tankers,472.0,472.0,542.0,500.75,25.58,-1.12,NORMAL,Within standard 5-year seasonal operating envelope.
-2021-08-29,34,2021,SGSIN,port1201,Singapore,Singapore,Tankers,486.0,464.0,548.0,499.0,27.56,-0.47,NORMAL,Within standard 5-year seasonal operating envelope.
+2021-08-29,34,2021,SGSIN,port1201,Singapore,Singapore,Tankers,486.0,465.0,548.0,499.12,27.38,-0.48,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-05,35,2021,SGSIN,port1201,Singapore,Singapore,Tankers,472.0,452.0,514.0,488.25,20.95,-0.78,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-12,36,2021,SGSIN,port1201,Singapore,Singapore,Tankers,492.0,485.0,533.0,504.12,16.18,-0.75,NORMAL,Within standard 5-year seasonal operating envelope.
 2021-09-19,37,2021,SGSIN,port1201,Singapore,Singapore,Tankers,482.0,371.0,529.0,477.25,46.45,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19073,7 +19073,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-05-29,21,2022,SGSIN,port1201,Singapore,Singapore,Tankers,476.0,476.0,526.0,507.38,15.98,-1.96,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2022-06-05,22,2022,SGSIN,port1201,Singapore,Singapore,Tankers,486.0,485.0,517.0,501.38,14.65,-1.05,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-06-12,23,2022,SGSIN,port1201,Singapore,Singapore,Tankers,515.0,470.0,537.0,510.38,19.75,0.23,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-06-19,24,2022,SGSIN,port1201,Singapore,Singapore,Tankers,465.0,465.0,541.0,504.12,22.79,-1.72,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
+2022-06-19,24,2022,SGSIN,port1201,Singapore,Singapore,Tankers,465.0,465.0,541.0,504.0,22.85,-1.71,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2022-06-26,25,2022,SGSIN,port1201,Singapore,Singapore,Tankers,502.0,482.0,521.0,497.38,12.5,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-07-03,26,2022,SGSIN,port1201,Singapore,Singapore,Tankers,485.0,460.0,551.0,512.5,30.58,-0.9,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-07-10,27,2022,SGSIN,port1201,Singapore,Singapore,Tankers,478.0,478.0,528.0,498.25,16.67,-1.21,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19083,7 +19083,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2022-08-07,31,2022,SGSIN,port1201,Singapore,Singapore,Tankers,499.0,476.0,531.0,491.5,18.53,0.4,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-14,32,2022,SGSIN,port1201,Singapore,Singapore,Tankers,451.0,451.0,532.0,495.5,32.34,-1.38,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-08-21,33,2022,SGSIN,port1201,Singapore,Singapore,Tankers,495.0,472.0,542.0,500.75,25.58,-0.22,NORMAL,Within standard 5-year seasonal operating envelope.
-2022-08-28,34,2022,SGSIN,port1201,Singapore,Singapore,Tankers,475.0,464.0,548.0,499.0,27.56,-0.87,NORMAL,Within standard 5-year seasonal operating envelope.
+2022-08-28,34,2022,SGSIN,port1201,Singapore,Singapore,Tankers,475.0,465.0,548.0,499.12,27.38,-0.88,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-04,35,2022,SGSIN,port1201,Singapore,Singapore,Tankers,511.0,452.0,514.0,488.25,20.95,1.09,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-11,36,2022,SGSIN,port1201,Singapore,Singapore,Tankers,485.0,485.0,533.0,504.12,16.18,-1.18,NORMAL,Within standard 5-year seasonal operating envelope.
 2022-09-18,37,2022,SGSIN,port1201,Singapore,Singapore,Tankers,480.0,371.0,529.0,477.25,46.45,0.06,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19125,7 +19125,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-05-28,21,2023,SGSIN,port1201,Singapore,Singapore,Tankers,516.0,476.0,526.0,507.38,15.98,0.54,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-06-04,22,2023,SGSIN,port1201,Singapore,Singapore,Tankers,517.0,485.0,517.0,501.38,14.65,1.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-06-11,23,2023,SGSIN,port1201,Singapore,Singapore,Tankers,520.0,470.0,537.0,510.38,19.75,0.49,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-06-18,24,2023,SGSIN,port1201,Singapore,Singapore,Tankers,517.0,465.0,541.0,504.12,22.79,0.57,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-06-18,24,2023,SGSIN,port1201,Singapore,Singapore,Tankers,517.0,465.0,541.0,504.0,22.85,0.57,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-06-25,25,2023,SGSIN,port1201,Singapore,Singapore,Tankers,502.0,482.0,521.0,497.38,12.5,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-07-02,26,2023,SGSIN,port1201,Singapore,Singapore,Tankers,546.0,460.0,551.0,512.5,30.58,1.1,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-07-09,27,2023,SGSIN,port1201,Singapore,Singapore,Tankers,504.0,478.0,528.0,498.25,16.67,0.34,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19135,7 +19135,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2023-08-06,31,2023,SGSIN,port1201,Singapore,Singapore,Tankers,531.0,476.0,531.0,491.5,18.53,2.13,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2023-08-13,32,2023,SGSIN,port1201,Singapore,Singapore,Tankers,464.0,451.0,532.0,495.5,32.34,-0.97,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-08-20,33,2023,SGSIN,port1201,Singapore,Singapore,Tankers,508.0,472.0,542.0,500.75,25.58,0.28,NORMAL,Within standard 5-year seasonal operating envelope.
-2023-08-27,34,2023,SGSIN,port1201,Singapore,Singapore,Tankers,523.0,464.0,548.0,499.0,27.56,0.87,NORMAL,Within standard 5-year seasonal operating envelope.
+2023-08-27,34,2023,SGSIN,port1201,Singapore,Singapore,Tankers,523.0,465.0,548.0,499.12,27.38,0.87,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-03,35,2023,SGSIN,port1201,Singapore,Singapore,Tankers,514.0,452.0,514.0,488.25,20.95,1.23,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-10,36,2023,SGSIN,port1201,Singapore,Singapore,Tankers,496.0,485.0,533.0,504.12,16.18,-0.5,NORMAL,Within standard 5-year seasonal operating envelope.
 2023-09-17,37,2023,SGSIN,port1201,Singapore,Singapore,Tankers,478.0,371.0,529.0,477.25,46.45,0.02,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19177,7 +19177,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-05-26,21,2024,SGSIN,port1201,Singapore,Singapore,Tankers,523.0,476.0,526.0,507.38,15.98,0.98,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-06-02,22,2024,SGSIN,port1201,Singapore,Singapore,Tankers,517.0,485.0,517.0,501.38,14.65,1.07,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-06-09,23,2024,SGSIN,port1201,Singapore,Singapore,Tankers,502.0,470.0,537.0,510.38,19.75,-0.42,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-06-16,24,2024,SGSIN,port1201,Singapore,Singapore,Tankers,519.0,465.0,541.0,504.12,22.79,0.65,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-06-16,24,2024,SGSIN,port1201,Singapore,Singapore,Tankers,519.0,465.0,541.0,504.0,22.85,0.66,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-06-23,25,2024,SGSIN,port1201,Singapore,Singapore,Tankers,502.0,482.0,521.0,497.38,12.5,0.37,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-06-30,26,2024,SGSIN,port1201,Singapore,Singapore,Tankers,551.0,460.0,551.0,512.5,30.58,1.26,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-07-07,27,2024,SGSIN,port1201,Singapore,Singapore,Tankers,480.0,478.0,528.0,498.25,16.67,-1.09,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19187,7 +19187,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2024-08-04,31,2024,SGSIN,port1201,Singapore,Singapore,Tankers,477.0,476.0,531.0,491.5,18.53,-0.78,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-11,32,2024,SGSIN,port1201,Singapore,Singapore,Tankers,527.0,451.0,532.0,495.5,32.34,0.97,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-08-18,33,2024,SGSIN,port1201,Singapore,Singapore,Tankers,535.0,472.0,542.0,500.75,25.58,1.34,NORMAL,Within standard 5-year seasonal operating envelope.
-2024-08-25,34,2024,SGSIN,port1201,Singapore,Singapore,Tankers,483.0,464.0,548.0,499.0,27.56,-0.58,NORMAL,Within standard 5-year seasonal operating envelope.
+2024-08-25,34,2024,SGSIN,port1201,Singapore,Singapore,Tankers,483.0,465.0,548.0,499.12,27.38,-0.59,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-01,35,2024,SGSIN,port1201,Singapore,Singapore,Tankers,494.0,452.0,514.0,488.25,20.95,0.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-08,36,2024,SGSIN,port1201,Singapore,Singapore,Tankers,521.0,485.0,533.0,504.12,16.18,1.04,NORMAL,Within standard 5-year seasonal operating envelope.
 2024-09-15,37,2024,SGSIN,port1201,Singapore,Singapore,Tankers,478.0,371.0,529.0,477.25,46.45,0.02,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19229,7 +19229,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-05-25,21,2025,SGSIN,port1201,Singapore,Singapore,Tankers,526.0,476.0,526.0,507.38,15.98,1.17,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-06-01,22,2025,SGSIN,port1201,Singapore,Singapore,Tankers,516.0,485.0,517.0,501.38,14.65,1.0,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-06-08,23,2025,SGSIN,port1201,Singapore,Singapore,Tankers,537.0,470.0,537.0,510.38,19.75,1.35,NORMAL,Within standard 5-year seasonal operating envelope.
-2025-06-15,24,2025,SGSIN,port1201,Singapore,Singapore,Tankers,541.0,465.0,541.0,504.12,22.79,1.62,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2025-06-15,24,2025,SGSIN,port1201,Singapore,Singapore,Tankers,541.0,465.0,541.0,504.0,22.85,1.62,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-06-22,25,2025,SGSIN,port1201,Singapore,Singapore,Tankers,521.0,482.0,521.0,497.38,12.5,1.89,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-06-29,26,2025,SGSIN,port1201,Singapore,Singapore,Tankers,530.0,460.0,551.0,512.5,30.58,0.57,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-07-06,27,2025,SGSIN,port1201,Singapore,Singapore,Tankers,528.0,478.0,528.0,498.25,16.67,1.78,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
@@ -19239,7 +19239,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2025-08-03,31,2025,SGSIN,port1201,Singapore,Singapore,Tankers,501.0,476.0,531.0,491.5,18.53,0.51,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-10,32,2025,SGSIN,port1201,Singapore,Singapore,Tankers,532.0,451.0,532.0,495.5,32.34,1.13,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-08-17,33,2025,SGSIN,port1201,Singapore,Singapore,Tankers,542.0,472.0,542.0,500.75,25.58,1.61,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
-2025-08-24,34,2025,SGSIN,port1201,Singapore,Singapore,Tankers,548.0,464.0,548.0,499.0,27.56,1.78,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
+2025-08-24,34,2025,SGSIN,port1201,Singapore,Singapore,Tankers,548.0,465.0,548.0,499.12,27.38,1.79,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-08-31,35,2025,SGSIN,port1201,Singapore,Singapore,Tankers,494.0,452.0,514.0,488.25,20.95,0.27,NORMAL,Within standard 5-year seasonal operating envelope.
 2025-09-07,36,2025,SGSIN,port1201,Singapore,Singapore,Tankers,533.0,485.0,533.0,504.12,16.18,1.78,SURGE,Arrival congestion surge (+1.5σ): Vessel delays & ton-mile absorption squeeze.
 2025-09-14,37,2025,SGSIN,port1201,Singapore,Singapore,Tankers,494.0,371.0,529.0,477.25,46.45,0.36,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19281,7 +19281,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-05-24,21,2026,SGSIN,port1201,Singapore,Singapore,Tankers,509.0,476.0,526.0,507.38,15.98,0.1,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-05-31,22,2026,SGSIN,port1201,Singapore,Singapore,Tankers,509.0,485.0,517.0,501.38,14.65,0.52,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-06-07,23,2026,SGSIN,port1201,Singapore,Singapore,Tankers,520.0,470.0,537.0,510.38,19.75,0.49,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-06-14,24,2026,SGSIN,port1201,Singapore,Singapore,Tankers,495.0,465.0,541.0,504.12,22.79,-0.4,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-06-14,24,2026,SGSIN,port1201,Singapore,Singapore,Tankers,494.0,465.0,541.0,504.0,22.85,-0.44,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-06-21,25,2026,SGSIN,port1201,Singapore,Singapore,Tankers,490.0,482.0,521.0,497.38,12.5,-0.59,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-06-28,26,2026,SGSIN,port1201,Singapore,Singapore,Tankers,517.0,460.0,551.0,512.5,30.58,0.15,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-07-05,27,2026,SGSIN,port1201,Singapore,Singapore,Tankers,488.0,478.0,528.0,498.25,16.67,-0.61,NORMAL,Within standard 5-year seasonal operating envelope.
@@ -19291,7 +19291,7 @@ date,week,year,port_locode,portid,portname,country,asset_class,live_weekly_calls
 2026-08-02,31,2026,SGSIN,port1201,Singapore,Singapore,Tankers,485.0,476.0,531.0,491.5,18.53,-0.35,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-09,32,2026,SGSIN,port1201,Singapore,Singapore,Tankers,529.0,451.0,532.0,495.5,32.34,1.04,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-16,33,2026,SGSIN,port1201,Singapore,Singapore,Tankers,482.0,472.0,542.0,500.75,25.58,-0.73,NORMAL,Within standard 5-year seasonal operating envelope.
-2026-08-23,34,2026,SGSIN,port1201,Singapore,Singapore,Tankers,464.0,464.0,548.0,499.0,27.56,-1.27,NORMAL,Within standard 5-year seasonal operating envelope.
+2026-08-23,34,2026,SGSIN,port1201,Singapore,Singapore,Tankers,465.0,465.0,548.0,499.12,27.38,-1.25,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-08-30,35,2026,SGSIN,port1201,Singapore,Singapore,Tankers,452.0,452.0,514.0,488.25,20.95,-1.73,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.
 2026-09-06,36,2026,SGSIN,port1201,Singapore,Singapore,Tankers,511.0,485.0,533.0,504.12,16.18,0.43,NORMAL,Within standard 5-year seasonal operating envelope.
 2026-09-13,37,2026,SGSIN,port1201,Singapore,Singapore,Tankers,371.0,371.0,529.0,477.25,46.45,-2.29,COLLAPSE,Arrival volume collapse (-1.5σ): Cargo loading freeze or upstream supply disruption.

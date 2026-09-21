@@ -5,7 +5,7 @@
   "sizes": {
     "portwatch_ports_master.csv": {
       "rows": 2065,
-      "bytes": 460100
+      "bytes": 460098
     },
     "chokepoints_master.csv": {
       "rows": 28,
@@ -24,11 +24,11 @@
       "bytes": 8668848
     }
   },
-  "rows": 14455,
+  "rows": 0,
   "ports_ingested": 2065,
   "max_date": "2026-09-11",
   "min_date": "2026-01-01",
   "mode": "refresh",
-  "elapsed_s": 22.5,
-  "generated_utc": "2026-09-17 10:21 UTC"
+  "elapsed_s": 15.7,
+  "generated_utc": "2026-09-21 11:04 UTC"
 }
