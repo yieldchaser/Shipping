@@ -1,0 +1,96 @@
+name: Test Health (regression ratchet)
+
+# The suite has never run in CI, so 25 pre-existing failures sat invisible and
+# the only tests CI did run (three in etf_holdings_update.yml) had been broken by
+# a file move without anyone noticing, because that job was already red.
+#
+# This does not demand a green suite - the 25 are a real backlog that the tests
+# themselves document as baselines. It measures the count and fails only when it
+# gets WORSE, so new breakage is caught on the night it lands while existing debt
+# stays visible and tracked. If you want the backlog gone, the failure list in
+# the job artifact is the to-do list.
+#
+# The FIRST run is calibration: no baseline file exists yet, so it records what
+# CI actually measures and exits 0. That is deliberate - seeding it from a local
+# run would conflate this machine's environment with the runner's, and a false
+# regression on night one is noise nobody would act on. Protection starts on the
+# second run.
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # 04:00 UTC nightly
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: test-health
+  cancel-in-progress: false
+
+jobs:
+  ratchet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements_knowledge.txt
+          pip install pytest numpy
+          # The UI tab audit drives a real browser; without this it fails for
+          # environmental reasons and the ratchet would measure noise.
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Run the ratchet
+        id: health
+        shell: bash
+        run: |
+          set -o pipefail
+          python scripts/verify/test_health.py 2>&1 | tee test_health.log
+          echo "exit=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Upload the failure detail
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-health-${{ github.run_id }}
+          if-no-files-found: warn
+          path: test_health.log
+
+      - name: Ratchet the baseline down when it improved
+        if: always()
+        shell: bash
+        run: |
+          if [ ! -f knowledge/manifests/test_health_baseline.json ]; then
+            echo "No baseline file to ratchet."
+            exit 0
+          fi
+          if git diff --quiet -- knowledge/manifests/test_health_baseline.json; then
+            echo "Baseline unchanged."
+            exit 0
+          fi
+          git config user.name "test-health-bot"
+          git config user.email "bot@shipping"
+          git add knowledge/manifests/test_health_baseline.json
+          git commit -m "test: ratchet failure baseline to $(python -c "import json;print(json.load(open('knowledge/manifests/test_health_baseline.json'))['known_failing'])")"
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin HEAD:main; then
+              echo "Baseline pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push race on attempt $attempt, retrying in 10s..."
+            sleep 10
+          done
+          echo "::warning::Could not push the improved baseline after 3 attempts."
