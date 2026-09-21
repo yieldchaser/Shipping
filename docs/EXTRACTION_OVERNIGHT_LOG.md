@@ -347,3 +347,67 @@ the string rather than ingest it as prose.
 1. Mojibake decision for the 1,026 hellenic docs.
 2. The 3 timeout textbooks - accept, or raise `--timeout` above 900 s.
 3. Disk: 25.2 GB free, ETA ~7 h, output growth ~5 GB for the remaining docs.
+
+
+### Update 03:10 IST (21:40 UTC) - INCIDENT (self-inflicted, recovered): 204 documents lost to a broken patch window
+
+While patching `extract_all.py` for Finding 5 I wrote the file twice: the first
+write carried a stray NUL byte (0x00) inside a regex character class, because a
+backslash escape in my shell heredoc was decoded into a real control character
+before Python ever saw it. `extract_all.py` was unimportable from that moment
+until I repaired it, roughly 8-10 minutes later.
+
+What that cost, measured: every `batch_worker` subprocess in that window died at
+`import extract_all`, so `run_batch` recorded **204 documents as status CRASH**
+(checkpoint rows 3728-3931, contiguous, all
+`reports/shipbrokers/advanced_shipping/*`, 2022 W12 -> 2026 W27):
+
+    SyntaxError: source code string cannot contain null bytes
+      File ".../batch_worker.py", line 21, in main
+        import extract_all as E
+
+None of them left a directory: `dir absent: 204 | partial: 0 | complete: 0`.
+`--resume` treats any recorded status as done, so they would have been skipped
+permanently - the same trap as the earlier "missing dependency reads like a
+finished run" case.
+
+Recovery tool: `scripts/extract/recover_crashed.py` (sequential, one
+`batch_worker` subprocess per document, 900 s ceiling, append-only progress in
+`data/extracted/crash_recovery.jsonl`, checkpoint never written):
+
+    python scripts/extract/recover_crashed.py
+
+Measured while it ran: 16 documents recovered in the first ~6 minutes, every one
+status `ok`, 19-36 s per document (the advanced_shipping weeklies are 9-10 pages
+with ~50 tables each, so they are ~4x the corpus average of 5.9 s). Projected
+finish ~04:05 IST (22:35 UTC) for all 204. Artefacts verified on two of them:
+
+    advanced_shipping_2022_W12... : tables 47 | text blocks 397 | pages 9 | charts 11
+    advanced_shipping_2022_W26... : tables 56 | text blocks 419 | pages 10 | charts 12
+    sample row: ['T','BHSI','1.276','1.334','-4,35%']
+
+### Also seen: a duplicate recovery sweep
+
+Two copies of the recovery tool were launched within 5 seconds of each other
+(pid 17156 at 02:51:44 and pid 11548 at 02:51:49 - the second was mine, launched
+before I noticed the first). Evidence of the duplication was visible in the
+progress file as the same path logged twice with different durations
+(`...W12... ok 25.2s` and `...W12... ok 26.6s`). I stopped the newer copy
+(pid 11548) and left one sweep running; three documents were extracted twice.
+Nothing was corrupted - extraction is deterministic and idempotent - but on a
+box already running the main batch this doubles CPU contention, and it is the
+same class of mistake as the two-concurrent-batches incident in the runbook.
+
+Two things follow for the human:
+
+1. The hourly verifier will now report `CRASH: 204` as a NEW failure kind. That
+   is this incident, already recovered in the tree; the checkpoint rows keep the
+   stale status because that file must not be rewritten. If you prefer a clean
+   checkpoint, `run_batch.py --all --retry-failed --resume` re-attempts anything
+   whose status is not ok and appends fresh rows (idempotent: the recovery above
+   already wrote the artefacts, and re-extraction overwrites them identically).
+2. Lesson for whoever patches next: in this environment a `\x` or `\n` escape
+   written inside a shell heredoc reaches the file as a raw control character.
+   Build such strings with `chr(10)` / `ord()` checks instead, and run
+   `python -m py_compile` on the target file IMMEDIATELY after writing it. The
+   live batch turns any syntax error into a burst of CRASH rows within seconds.
