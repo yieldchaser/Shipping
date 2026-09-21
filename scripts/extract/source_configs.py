@@ -84,10 +84,14 @@ SOURCES = {
 }
 
 # Modern-tool escalation ladder (free/local only), decided from bench
+# v1.1 upgrade 2026-09-21: pymupdf-layout (CPU ONNX, ~3.4s/pg amortized) gives
+# labeled regions (table/section-header/page-header/footer). Table bboxes fed
+# as camelot table_areas (y-flipped) -> Star Asia golden 13/15 -> 15/15.
 TOOL_LADDER = [
     ("pymupdf", "router + first-pass text; never the table parser"),
-    ("camelot-stream", "primary table extractor (98+ acc on bordered)"),
-    ("pdfplumber", "verifier; union with camelot = 15/15 golden"),
+    ("pymupdf-layout", "region labels + table bboxes + header/footer strip; constrains extractors"),
+    ("camelot-stream+areas", "primary table extractor (15/15 golden w/ layout areas)"),
+    ("pdfplumber", "verifier; union fallback where layout finds no boxes"),
     ("docling", "auditor/challenger on samples + quarantined pages; bulk only with GPU"),
     ("vlm-ocr", "deferred: scanned/garbled quarantine queue (LightOnOCR-2/PaddleOCR-VL class)"),
 ]
