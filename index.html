@@ -3942,26 +3942,56 @@
       gap: 6px;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
     }
+    .hud-metrics-strip {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+      gap: 6px;
+      margin: 4px 0;
+    }
+    @media (max-width: 1280px) {
+      .hud-metrics-strip {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+    }
     .hud-metric-box {
       background: var(--bg);
       border: 1px solid var(--border);
       border-radius: 4px;
-      padding: 4px 8px;
+      padding: 5px 6px;
       display: flex;
       flex-direction: column;
+      justify-content: space-between;
       gap: 2px;
+      min-width: 0;
+      overflow: hidden;
+      box-sizing: border-box;
+      transition: border-color 0.15s ease, background 0.15s ease;
+    }
+    .hud-metric-box:hover {
+      border-color: rgba(88, 166, 255, 0.35);
+      background: rgba(255, 255, 255, 0.02);
     }
     .hud-lbl {
-      font-size: var(--fs-micro);
+      font-size: 9.5px;
+      line-height: 1.2;
       color: var(--text-muted);
       text-transform: uppercase;
-      letter-spacing: 0.04em;
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: block;
+      width: 100%;
     }
     .hud-num {
       font-size: 12px;
       font-weight: 700;
       color: #fff;
       font-family: var(--font-mono);
+      line-height: 1.2;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
     .fleet-hud-badge {
       font-size: var(--fs-micro);
@@ -15038,8 +15068,8 @@ if (intelTabsContainer) {
             <button class="tracking-pill" data-class="Container" data-tooltip="Cellular container terminals and liner service facilities with measured vessel calls." data-tt-type="tracking-sector-map" data-tt-sector="Container" onclick="setTrackingClass('Container')">Container <span class="pill-count" id="pillCountContainer">—</span></button>
             <button class="tracking-pill" data-class="General Cargo" data-tooltip="General cargo, multipurpose breakbulk, and project cargo marine terminals." data-tt-type="tracking-sector-map" data-tt-sector="General Cargo" onclick="setTrackingClass('General Cargo')">General Cargo <span class="pill-count" id="pillCountGencargo">—</span></button>
             <button class="tracking-pill" data-class="RoRo" data-tooltip="Roll-on / roll-off (RoRo) pure car truck carrier (PCTC) and vehicle transshipment facilities." data-tt-type="tracking-sector-map" data-tt-sector="RoRo" onclick="setTrackingClass('RoRo')">RoRo <span class="pill-count" id="pillCountRoro">—</span></button>
-            <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Global LNG liquefaction export terminals, import regasification facilities, and active cryogenic LNG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LNG" onclick="setTrackingClass('LNG')">LNG <span class="pill-count" id="pillCountLNG">—</span></button>
-            <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Pressurized and refrigerated LPG terminals, export/import hubs, and active VLGC/LPG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LPG" onclick="setTrackingClass('LPG')">LPG <span class="pill-count" id="pillCountLPG">—</span></button>
+            <button class="tracking-pill" data-class="LNG" id="pillLngUniverse" data-tooltip="Global LNG liquefaction export terminals, import regasification facilities, and active cryogenic LNG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LNG" onclick="setTrackingClass('LNG')">LNG <span class="tracking-class-badge" style="background:rgba(255,255,255,0.08); font-size:var(--fs-micro); padding:2px 6px;">REPORTED FIXTURES</span> <span class="pill-count" id="pillCountLNG">—</span></button>
+            <button class="tracking-pill" data-class="LPG" id="pillLpgUniverse" data-tooltip="Pressurized and refrigerated LPG terminals, export/import hubs, and active VLGC/LPG carriers." data-tt-type="tracking-sector-map" data-tt-sector="LPG" onclick="setTrackingClass('LPG')">LPG <span class="tracking-class-badge" style="background:rgba(255,255,255,0.08); font-size:var(--fs-micro); padding:2px 6px;">REPORTED FIXTURES</span> <span class="pill-count" id="pillCountLPG">—</span></button>
           </div>
           <div style="display:flex; align-items:center; gap:6px;">
             <div style="font-size:11px; font-weight:600; color:var(--text-muted);">Window:</div>
@@ -15727,29 +15757,29 @@ if (intelTabsContainer) {
             </div>
 
             <!-- HUD Metrics Strip -->
-            <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(80px, 1fr)); gap:6px; margin:4px 0;">
+            <div class="hud-metrics-strip">
               <div class="hud-metric-box" data-tooltip="Average Speed: Mean sailing speed in knots computed across currently active commercial fleet AIS transmissions.">
-                <span class="hud-lbl">Avg Speed</span>
+                <span class="hud-lbl" title="Average Sailing Speed (knots)">Avg Speed</span>
                 <span class="hud-num" id="hudAvgSpeed">—</span>
               </div>
               <div class="hud-metric-box" data-tooltip="Laden Ratio: Percentage of tracked commercial fleet currently sailing laden versus in ballast condition.">
-                <span class="hud-lbl">% Laden</span>
+                <span class="hud-lbl" title="Laden vs Ballast Fleet Percentage">% Laden</span>
                 <span class="hud-num" id="hudPctLaden">—</span>
               </div>
               <div class="hud-metric-box" data-tooltip="Capesize / VLOC Count: Active dry bulk hulls exceeding 100,000 DWT currently underway across major iron ore and coal corridors.">
-                <span class="hud-lbl">Capesize/VLOC</span>
+                <span class="hud-lbl" title="Capesize &amp; Very Large Ore Carriers (100k+ DWT)">Cape / VLOC</span>
                 <span class="hud-num" id="hudCapeCount">—</span>
               </div>
               <div class="hud-metric-box" data-tooltip="Tanker Count: Active crude and product tanker hulls (VLCC, Suezmax, Aframax) currently underway.">
-                <span class="hud-lbl">VLCC/Suezmax</span>
+                <span class="hud-lbl" title="VLCC &amp; Suezmax Crude/Product Tankers">VLCC / Suez</span>
                 <span class="hud-num" id="hudTankerCount">—</span>
               </div>
               <div class="hud-metric-box" data-tooltip="LNG Carrier Count: Active liquefied natural gas carriers currently tracked on global cryogenic transport routes.">
-                <span class="hud-lbl">LNG</span>
+                <span class="hud-lbl" title="Liquefied Natural Gas Carriers">LNG</span>
                 <span class="hud-num" id="hudLngCount">—</span>
               </div>
               <div class="hud-metric-box" data-tooltip="LPG Carrier Count: Active liquefied petroleum gas carriers (VLGC, LGC) currently tracked on global gas corridors.">
-                <span class="hud-lbl">LPG</span>
+                <span class="hud-lbl" title="Liquefied Petroleum Gas Carriers">LPG</span>
                 <span class="hud-num" id="hudLpgCount">—</span>
               </div>
             </div>
