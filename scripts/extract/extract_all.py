@@ -18,6 +18,7 @@ import hashlib
 import io
 import json
 import multiprocessing as mp
+import re
 import os
 import sys
 
@@ -210,6 +211,45 @@ def _layout_child(req, resp):
 _LAYOUT_WORKER = None
 
 
+def verify_tables_against_text(tables, page_text, pno):
+    """Cell-level reconciliation of extractor output vs the page text layer.
+
+    Measured 2026-09-21 (golden matrix, 5 sources): plain TEXT extraction hit
+    100% of cells on star_asia / ssy / breakwave and 28/28 of the demolition
+    circle+bar values, while the best table extractor reached 83-100%. The text
+    layer is therefore the primary RECALL source; the table grid is the primary
+    SCHEMA source. This records, per table, how many cells the text layer can
+    confirm, so downstream merging knows where the grid dropped values.
+    """
+    norm_text = re.sub(r"\s+", " ", page_text or "").casefold()
+    out = []
+    for t in tables:
+        rows = t.get("rows") or []
+        cells = [str(c).strip() for row in rows for c in row if str(c).strip()]
+        checkable = [c for c in cells if re.search(r"\d", c)]
+        if not checkable:
+            t["text_verified"] = None
+            out.append(t)
+            continue
+        found = sum(1 for c in checkable
+                    if re.sub(r"\s+", " ", c).casefold() in norm_text)
+        t["text_verified"] = round(found / len(checkable), 3)
+        t["text_verified_cells"] = f"{found}/{len(checkable)}"
+        out.append(t)
+    return out
+
+
+def text_values_not_in_tables(page_text, tables):
+    """Count numeric tokens present in the page text but absent from every
+    table: the values the table grid dropped, plus chart axis labels."""
+    nums = re.findall(r"\b\d[\d,]*\.?\d*\b", page_text or "")
+    if not nums:
+        return 0
+    blob = " ".join(str(c) for t in tables for row in (t.get("rows") or [])
+                    for c in row).casefold()
+    return sum(1 for n in set(nums) if n.casefold() not in blob)
+
+
 def layout_tables(page, pdf_path, pno):
     """Layout-constrained camelot: the 15/15 golden path, crash-isolated.
 
@@ -312,7 +352,11 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
     doc = pymupdf.open(pdf_path)
     t_rows, tab_rows, p_rows, c_meta = [], [], [], []
     for pno, page in enumerate(doc):
-        pix_chars = len(page.get_text() or "")
+        try:
+            page_text = page.get_text() or ""
+        except Exception:
+            page_text = ""
+        pix_chars = len(page_text)
         try:
             n_img = len(page.get_images(full=True))
         except Exception:
@@ -327,6 +371,13 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
             page_tables = extract_tables_union(pdf_path, pno, skip_tables)
             if gated_layout and (not page_tables or needs_layout(pdf_path, pno, page_tables)):
                 page_tables.extend(layout_tables(page, pdf_path, pno))
+            # recall reconciliation: the text layer is the primary value source,
+            # the table grid the primary schema source. Flag pages where the
+            # grid dropped values present in the text.
+            page_tables = verify_tables_against_text(page_tables, page_text, pno)
+            orphan = text_values_not_in_tables(page_text, page_tables)
+            if orphan:
+                p_rows[-1]["values_only_in_text"] = orphan
             for t in page_tables:
                 t.update({"page": pno})
                 tab_rows.append(t)

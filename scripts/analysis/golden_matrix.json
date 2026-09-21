@@ -1,0 +1,582 @@
+{
+ "demolition_athenian": {
+  "camelot-stream": {
+   "label": "camelot-stream",
+   "hits": 0,
+   "total": 24,
+   "recall": 0.0,
+   "missed": [
+    "482",
+    "405",
+    "435",
+    "425",
+    "300",
+    "440",
+    "380",
+    "410",
+    "570",
+    "550",
+    "520",
+    "475",
+    "385",
+    "445",
+    "456",
+    "375",
+    "400",
+    "285",
+    "280",
+    "425",
+    "370",
+    "390",
+    "555",
+    "445"
+   ],
+   "circle_bar_hits": 15,
+   "circle_bar_total": 28
+  },
+  "camelot-lattice": {
+   "label": "camelot-lattice",
+   "hits": 0,
+   "total": 24,
+   "recall": 0.0,
+   "missed": [
+    "482",
+    "405",
+    "435",
+    "425",
+    "300",
+    "440",
+    "380",
+    "410",
+    "570",
+    "550",
+    "520",
+    "475",
+    "385",
+    "445",
+    "456",
+    "375",
+    "400",
+    "285",
+    "280",
+    "425",
+    "370",
+    "390",
+    "555",
+    "445"
+   ],
+   "circle_bar_hits": 0,
+   "circle_bar_total": 28
+  },
+  "pdfplumber-tables": {
+   "label": "pdfplumber-tables",
+   "hits": 4,
+   "total": 24,
+   "recall": 0.167,
+   "missed": [
+    "482",
+    "405",
+    "425",
+    "300",
+    "440",
+    "380",
+    "410",
+    "570",
+    "550",
+    "520",
+    "385",
+    "456",
+    "375",
+    "400",
+    "285",
+    "280",
+    "425",
+    "370",
+    "390",
+    "555"
+   ],
+   "circle_bar_hits": 28,
+   "circle_bar_total": 28
+  },
+  "tabula-stream": {
+   "label": "tabula-stream",
+   "hits": 0,
+   "total": 24,
+   "recall": 0.0,
+   "missed": [
+    "482",
+    "405",
+    "435",
+    "425",
+    "300",
+    "440",
+    "380",
+    "410",
+    "570",
+    "550",
+    "520",
+    "475",
+    "385",
+    "445",
+    "456",
+    "375",
+    "400",
+    "285",
+    "280",
+    "425",
+    "370",
+    "390",
+    "555",
+    "445"
+   ],
+   "circle_bar_hits": 0,
+   "circle_bar_total": 28
+  },
+  "plumber-text": {
+   "label": "plumber-text",
+   "hits": 4,
+   "total": 24,
+   "recall": 0.167,
+   "missed": [
+    "482",
+    "405",
+    "425",
+    "300",
+    "440",
+    "380",
+    "410",
+    "570",
+    "550",
+    "520",
+    "385",
+    "456",
+    "375",
+    "400",
+    "285",
+    "280",
+    "425",
+    "370",
+    "390",
+    "555"
+   ],
+   "circle_bar_hits": 28,
+   "circle_bar_total": 28
+  },
+  "pymupdf-text": {
+   "label": "pymupdf-text",
+   "hits": 4,
+   "total": 24,
+   "recall": 0.167,
+   "missed": [
+    "482",
+    "405",
+    "425",
+    "300",
+    "440",
+    "380",
+    "410",
+    "570",
+    "550",
+    "520",
+    "385",
+    "456",
+    "375",
+    "400",
+    "285",
+    "280",
+    "425",
+    "370",
+    "390",
+    "555"
+   ],
+   "circle_bar_hits": 28,
+   "circle_bar_total": 28
+  }
+ },
+ "seabrokers_aug": {
+  "camelot-stream": {
+   "label": "camelot-stream",
+   "hits": 0,
+   "total": 20,
+   "recall": 0.0,
+   "missed": [
+    "18,000",
+    "4,737",
+    "279.99",
+    "15,000",
+    "20,000",
+    "21,445",
+    "5,925",
+    "261.94",
+    "9,000",
+    "31,000",
+    "62,332",
+    "15,899",
+    "292.05",
+    "38,517",
+    "117,359",
+    "96,015",
+    "16,024",
+    "499.19",
+    "34,237",
+    "195,598"
+   ]
+  },
+  "camelot-lattice": {
+   "label": "camelot-lattice",
+   "hits": 0,
+   "total": 20,
+   "recall": 0.0,
+   "missed": [
+    "18,000",
+    "4,737",
+    "279.99",
+    "15,000",
+    "20,000",
+    "21,445",
+    "5,925",
+    "261.94",
+    "9,000",
+    "31,000",
+    "62,332",
+    "15,899",
+    "292.05",
+    "38,517",
+    "117,359",
+    "96,015",
+    "16,024",
+    "499.19",
+    "34,237",
+    "195,598"
+   ]
+  },
+  "pdfplumber-tables": {
+   "label": "pdfplumber-tables",
+   "hits": 0,
+   "total": 20,
+   "recall": 0.0,
+   "missed": [
+    "18,000",
+    "4,737",
+    "279.99",
+    "15,000",
+    "20,000",
+    "21,445",
+    "5,925",
+    "261.94",
+    "9,000",
+    "31,000",
+    "62,332",
+    "15,899",
+    "292.05",
+    "38,517",
+    "117,359",
+    "96,015",
+    "16,024",
+    "499.19",
+    "34,237",
+    "195,598"
+   ]
+  },
+  "tabula-stream": {
+   "label": "tabula-stream",
+   "hits": 0,
+   "total": 20,
+   "recall": 0.0,
+   "missed": [
+    "18,000",
+    "4,737",
+    "279.99",
+    "15,000",
+    "20,000",
+    "21,445",
+    "5,925",
+    "261.94",
+    "9,000",
+    "31,000",
+    "62,332",
+    "15,899",
+    "292.05",
+    "38,517",
+    "117,359",
+    "96,015",
+    "16,024",
+    "499.19",
+    "34,237",
+    "195,598"
+   ]
+  },
+  "plumber-text": {
+   "label": "plumber-text",
+   "hits": 0,
+   "total": 20,
+   "recall": 0.0,
+   "missed": [
+    "18,000",
+    "4,737",
+    "279.99",
+    "15,000",
+    "20,000",
+    "21,445",
+    "5,925",
+    "261.94",
+    "9,000",
+    "31,000",
+    "62,332",
+    "15,899",
+    "292.05",
+    "38,517",
+    "117,359",
+    "96,015",
+    "16,024",
+    "499.19",
+    "34,237",
+    "195,598"
+   ]
+  },
+  "pymupdf-text": {
+   "label": "pymupdf-text",
+   "hits": 0,
+   "total": 20,
+   "recall": 0.0,
+   "missed": [
+    "18,000",
+    "4,737",
+    "279.99",
+    "15,000",
+    "20,000",
+    "21,445",
+    "5,925",
+    "261.94",
+    "9,000",
+    "31,000",
+    "62,332",
+    "15,899",
+    "292.05",
+    "38,517",
+    "117,359",
+    "96,015",
+    "16,024",
+    "499.19",
+    "34,237",
+    "195,598"
+   ]
+  }
+ },
+ "star_asia": {
+  "camelot-stream": {
+   "label": "camelot-stream",
+   "hits": 13,
+   "total": 15,
+   "recall": 0.867,
+   "missed": [
+    "bdi",
+    "3,186"
+   ]
+  },
+  "camelot-lattice": {
+   "label": "camelot-lattice",
+   "hits": 2,
+   "total": 15,
+   "recall": 0.133,
+   "missed": [
+    "princess eternity",
+    "182,263",
+    "78.0",
+    "sidra",
+    "19.2",
+    "spar scorpio",
+    "11.25",
+    "arklow spirit",
+    "16.6",
+    "glory bridge",
+    "7.5",
+    "bdi",
+    "3,186"
+   ]
+  },
+  "pdfplumber-tables": {
+   "label": "pdfplumber-tables",
+   "hits": 13,
+   "total": 15,
+   "recall": 0.867,
+   "missed": [
+    "glory bridge",
+    "7.5"
+   ]
+  },
+  "tabula-stream": {
+   "label": "tabula-stream",
+   "hits": 0,
+   "total": 15,
+   "recall": 0.0,
+   "missed": [
+    "princess eternity",
+    "182,263",
+    "78.0",
+    "mount dampier",
+    "38.0",
+    "sidra",
+    "19.2",
+    "spar scorpio",
+    "11.25",
+    "arklow spirit",
+    "16.6",
+    "glory bridge",
+    "7.5",
+    "bdi",
+    "3,186"
+   ]
+  },
+  "plumber-text": {
+   "label": "plumber-text",
+   "hits": 15,
+   "total": 15,
+   "recall": 1.0,
+   "missed": []
+  },
+  "pymupdf-text": {
+   "label": "pymupdf-text",
+   "hits": 15,
+   "total": 15,
+   "recall": 1.0,
+   "missed": []
+  }
+ },
+ "ssy_atlantic": {
+  "camelot-stream": {
+   "label": "camelot-stream",
+   "hits": 14,
+   "total": 14,
+   "recall": 1.0,
+   "missed": []
+  },
+  "camelot-lattice": {
+   "label": "camelot-lattice",
+   "hits": 0,
+   "total": 14,
+   "recall": 0.0,
+   "missed": [
+    "atlantic capesize",
+    "narvik/rotterdam",
+    "10.65",
+    "10.40",
+    "tubarao/qingdao",
+    "41.50",
+    "42.10",
+    "calculated index",
+    "18,137",
+    "17,887",
+    "+1,780",
+    "-250",
+    "+8,477",
+    "+7,872"
+   ]
+  },
+  "pdfplumber-tables": {
+   "label": "pdfplumber-tables",
+   "hits": 14,
+   "total": 14,
+   "recall": 1.0,
+   "missed": []
+  },
+  "tabula-stream": {
+   "label": "tabula-stream",
+   "hits": 0,
+   "total": 14,
+   "recall": 0.0,
+   "missed": [
+    "atlantic capesize",
+    "narvik/rotterdam",
+    "10.65",
+    "10.40",
+    "tubarao/qingdao",
+    "41.50",
+    "42.10",
+    "calculated index",
+    "18,137",
+    "17,887",
+    "+1,780",
+    "-250",
+    "+8,477",
+    "+7,872"
+   ]
+  },
+  "plumber-text": {
+   "label": "plumber-text",
+   "hits": 14,
+   "total": 14,
+   "recall": 1.0,
+   "missed": []
+  },
+  "pymupdf-text": {
+   "label": "pymupdf-text",
+   "hits": 14,
+   "total": 14,
+   "recall": 1.0,
+   "missed": []
+  }
+ },
+ "breakwave_dry": {
+  "camelot-stream": {
+   "label": "camelot-stream",
+   "hits": 5,
+   "total": 6,
+   "recall": 0.833,
+   "missed": [
+    "bdi"
+   ]
+  },
+  "camelot-lattice": {
+   "label": "camelot-lattice",
+   "hits": 2,
+   "total": 6,
+   "recall": 0.333,
+   "missed": [
+    "dry bulk fundamentals",
+    "ytd",
+    "yoy",
+    "bdi"
+   ]
+  },
+  "pdfplumber-tables": {
+   "label": "pdfplumber-tables",
+   "hits": 3,
+   "total": 6,
+   "recall": 0.5,
+   "missed": [
+    "dry bulk fundamentals",
+    "ytd",
+    "yoy"
+   ]
+  },
+  "tabula-stream": {
+   "label": "tabula-stream",
+   "hits": 0,
+   "total": 6,
+   "recall": 0.0,
+   "missed": [
+    "dry bulk fundamentals",
+    "china steel production",
+    "iron ore",
+    "ytd",
+    "yoy",
+    "bdi"
+   ]
+  },
+  "plumber-text": {
+   "label": "plumber-text",
+   "hits": 6,
+   "total": 6,
+   "recall": 1.0,
+   "missed": []
+  },
+  "pymupdf-text": {
+   "label": "pymupdf-text",
+   "hits": 6,
+   "total": 6,
+   "recall": 1.0,
+   "missed": []
+  }
+ }
+}

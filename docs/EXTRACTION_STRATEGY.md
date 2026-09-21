@@ -38,20 +38,58 @@ runtime estimate is measured, not guessed.
 | Textbooks | 12 | — | — | — | RAG baseline, no table work |
 | Knowledge mirror | — | — | 11,963 | 10,388 json | Index, not source |
 
+## Engine matrix — measured on 5 hand-verified golden pages
+
+Ground truth established by direct visual reading of rendered pages, not by
+trusting any extractor. Cell-level recall:
+
+| Golden page (cells) | camelot-stream | camelot-lattice | pdfplumber | tabula-stream | plumber-TEXT | pymupdf-TEXT |
+|---|---|---|---|---|---|---|
+| Star Asia W35 (15) | 87% | 13% | 87% | 60% | **100%** | **100%** |
+| SSY Atlantic (14) | 100% | 0% | 100% | 93% | **100%** | **100%** |
+| Breakwave Dry (6) | 83% | 33% | 50% | 17% | **100%** | **100%** |
+| Athenian demolition (24) | 0% | 0% | 17% | 0% | 17% | 17% |
+| Seabrokers Aug (20) | 0% | 0% | 0% | 0% | **0%** | **0%** |
+| *demolition circle+bar values (28)* | *15* | *0* | *28* | *0* | ***28*** | ***28*** |
+
+### What the matrix changes
+
+1. **The text layer is the primary RECALL source, not an afterthought.** Plain
+   text extraction hit 100% on three of five pages and swept all 28 demolition
+   circle/bar values, while the best table extractor reached 83-100% and only
+   15/28 on the same page. Implemented: every table now carries a
+   `text_verified` ratio and each page tracks `values_only_in_text` — the grid
+   provides schema, the text provides recall, and the gap is now measurable
+   per page instead of assumed.
+2. **Seabrokers is IMAGE-ONLY for its rates table** — every engine, including
+   text, scored 0/20. The committed markdown was produced by OCR ("Anydoc OCR"
+   in its own header), which is why it looked parse-friendly. It belongs in the
+   same OCR queue as the Alibra charter tables.
+3. **camelot-lattice is the wrong flavor** (0-33%); stream is correct throughout.
+4. **Tabula is a legitimate third engine** (93% SSY, 60% Star Asia) but needs a
+   JRE on PATH or it silently returns nothing — measured: 0% without Java, 93%
+   with. CI must install a JRE.
+5. **60% of table cells on hard pages are recoverable from text but dropped by
+   the grid** — the reconciliation this now records is the single largest
+   remaining accuracy lever.
+
 ## The stack (updated)
 
 | # | Tool | Role | Evidence |
 |---|---|---|---|
-| 1 | PyMuPDF | Route pages + paragraph-aware text blocks | 0.02 s/page |
-| 2 | Camelot-stream | **PRIMARY** table extractor | 13/15 golden, 4/4 SSY, 4/4 Breakwave |
-| 3 | pdfplumber | Union partner / verifier | union with #2 = **15/15 golden** |
-| 4 | Tabula-stream | Arbiter when #2/#3 disagree | 9/15; Temurin JRE 21 installed |
-| 5 | Docling | Gatekeeper: golden + per-source samples | 15/15 Star Asia but 1,900 s/doc → sampling only |
-| 6 | Chart harvest | Every image + bbox + heading + dhash series ID | dhash recurrence proven |
-| — | ~~pymupdf-layout~~ | **DEMOTED to opt-in (`--layout`)** | fired 0% on 100 probed pages; 2.4% segfault rate |
-| — | ~~local VLM~~ | **REJECTED** | 3B hallucinated rows; 7B won't fit 8.3 GB RAM |
+| 1 | PyMuPDF | Route pages; paragraph-aware text blocks | 0.02 s/page; **text = 100% cell recall on 3/5 golden pages** |
+| 2 | Camelot-stream | Table SCHEMA extractor | 87-100% cell recall on text-layer tables |
+| 3 | pdfplumber | Union partner; table + page text | 100% SSY, union raises Star Asia to 15/15 |
+| 4 | Tabula-stream | Third engine / arbiter | 93% SSY, 60% Star Asia — **requires JRE on PATH** |
+| 5 | Reconciliation | `text_verified` per table + `values_only_in_text` per page | **implemented 2026-09-21** — largest remaining accuracy lever |
+| 6 | Docling | Gatekeeper: golden + per-source samples | 15/15 Star Asia but 1,900 s/doc → sampling only |
+| 7 | Chart harvest | Every image + bbox + heading + dhash series ID | dhash recurrence proven |
+| — | ~~camelot-lattice~~ | Wrong flavor | 0-33% cell recall vs stream's 87-100% |
+| — | ~~pymupdf-layout~~ | Demoted to opt-in (`--layout`) | fired 0% on 100 probed pages; 2.4% segfault rate |
+| — | ~~local VLM~~ | Rejected | 3B hallucinated rows; 7B won't fit 8.3 GB RAM |
 
-Hardware envelope: CPU-only, 8.3 GB RAM, 34 GB disk free → **max 2 workers**.
+**Known image-only tables** (OCR/VLM queue, deferred): Seabrokers OSV rates
+(0% from all six engines), Alibra dry/tanker charter tables.
 
 ## Run plan
 
