@@ -404,6 +404,14 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
             n_img = 0
         route = route_page(page, pix_chars, n_img)
         p_rows.append({"page": pno, "route": route, "chars": pix_chars, "images": n_img})
+        # Scanned/empty pages yield no text and no tables. Previously they fell
+        # through silently and the document was reported "ok" with empty output
+        # (113 such docs in the first 1,313). Flag them so they land in the OCR
+        # queue instead of looking like successful extractions.
+        if route in ("scanned", "empty"):
+            p_rows[-1]["ocr_queue"] = f"{route} page: no text layer"
+            harvest_images(page, pno, cdir, c_meta, dkey)
+            continue
         if route in ("text", "image-heavy", "garbled"):
             for b in extract_text_blocks(page):
                 b.update({"page": pno, "route": route})
@@ -444,12 +452,19 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
     with open(os.path.join(cdir, "meta.jsonl"), "w", encoding="utf-8") as f:
         for r in c_meta:
             f.write(json.dumps(r) + "\n")
-    return {"doc": dkey, "pages": len(p_rows),
-            "routes": {r: sum(1 for p in p_rows if p["route"] == r) for r in
-                       set(p["route"] for p in p_rows)},
-            "blocks": len(t_rows), "tables": len(tab_rows), "images": len(c_meta),
-            "ocr_queue_pages": sum(1 for p in p_rows if p.get("ocr_queue")),
-            "orphan_values": sum(len(p.get("values_only_in_text") or []) for p in p_rows)}
+    # honest status: a document that yielded no text AND no tables is not a
+    # successful extraction, it is OCR work for later. Report it distinctly so
+    # run counters cannot overstate coverage.
+    empty_output = (not t_rows and not tab_rows)
+    rec = {"doc": dkey, "pages": len(p_rows),
+           "routes": {r: sum(1 for p in p_rows if p["route"] == r) for r in
+                      set(p["route"] for p in p_rows)},
+           "blocks": len(t_rows), "tables": len(tab_rows), "images": len(c_meta),
+           "ocr_queue_pages": sum(1 for p in p_rows if p.get("ocr_queue")),
+           "orphan_values": sum(len(p.get("values_only_in_text") or []) for p in p_rows)}
+    if empty_output:
+        rec["status"] = "no-extractable-content"
+    return rec
 
 
 def main():

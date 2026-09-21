@@ -152,7 +152,10 @@ def run_one(doc_path, out_root, timeout):
     if rec.get("error"):
         return {"path": doc_path, "status": "error", "secs": secs,
                 "error": rec["error"]}
-    rec.update({"path": doc_path, "status": "ok", "secs": secs})
+    # honour a status the worker set explicitly (e.g. no-extractable-content)
+    # instead of blanket-labelling everything "ok"
+    worker_status = rec.pop("status", None) or "ok"
+    rec.update({"path": doc_path, "status": worker_status, "secs": secs})
     return rec
 
 
