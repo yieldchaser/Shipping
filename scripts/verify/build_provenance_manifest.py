@@ -226,7 +226,6 @@ def find_producing_script(rel_path):
         "data/derived/vessel_valuations.csv": ("scripts/backfill_historical_data.py", "Fearnleys Hasura GraphQL API", "https://fearnleys.com", "Historical Backfill", "USD Millions"),
         "data/derived/iron_ore_restocking.csv": ("scripts/scrapers/fetch_sgx_iron_ore.py", "Mysteel / SGX Restocking", "https://www.mysteel.net", "Derived Series", "USD/t & MT"),
         "data/derived/eu_ets_carbon_daily.csv": ("scripts/scrapers/fetch_eu_ets_carbon.py", "ICAP Allowance Price Explorer & Ship and Bunker", "https://icapcarbonaction.com", "REST API & Scrape", "EUR/tCO2"),
-        "data/derived/ton_mile_utilization_matrix.csv": ("scripts/scrapers/generate_ton_mile_matrix.py", "Quantitative Ton-Mile Engine", "Internal Model", "Mathematical Derivation", "Ton-NM / %"),
         "data/derived/macro_health_score_backtest.csv": ("scripts/backtest_macro_health_radar.py", "Macro Health Radar v2 Engine", "Internal Model", "Point-in-Time Backtest", "0-100 Score"),
         "data/derived/port_stress_summary.json": ("scripts/congestion/build_port_stress_cache.py", "Port Stress Matrix Builder", "Internal Model", "Arrival Density Aggregation", "Stress Index"),
         "data/derived/fearnleys_summary.json": ("scripts/fearnleys/build_fearnleys_cache.py", "Fearnleys Hasura GraphQL", "https://fearnleys.com", "GraphQL Cache", "Summary Metrics"),

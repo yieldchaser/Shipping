@@ -57,7 +57,6 @@ TABLE_A1_LOADERS = [
     ("data/commodities/major_miners_quarterly_shipments.csv", ["bhp_mt", "fmg_mt", "rio_tinto_mt", "total_major_miners_mt", "vale_mt"]),
     ("data/commodities/us_eia_weekly_crude_exports.csv", ["crude_exports_kbpd"]),
     ("data/derived/eu_ets_carbon_daily.csv", ["carbon_cost_per_ton_fuel_usd", "carbon_price_eur", "vlsfo_with_carbon_usd"]),
-    ("data/derived/ton_mile_utilization_matrix.csv", ["cape_ton_miles_billion", "fleet_capacity_dwt_million", "fleet_utilization_pct", "ton_mile_demand_index"]),
     ("data/commodities/newcastle_coal_exports.csv", ["coal_exports_mt"]),
     ("data/commodities/australia_req_commodity_exports.csv", ["export_volume", "unit"]),
     ("data/congestion/portwatch_port_congestion.csv", ["daily_port_calls", "port_code", "port_name", "sector"])

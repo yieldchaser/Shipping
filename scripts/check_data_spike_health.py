@@ -15,8 +15,6 @@ Detectors per numeric series:
 Allow-list (never flagged):
   - NEWBUILDING valuations : any row with a field == 'NEWBUILDING' (case-insensitive),
     e.g. data/derived/vessel_valuations.csv long-run newbuilding price levels.
-  - ton-mile model_disclosed: the `model_disclosed` flag column itself in
-    data/derived/ton_mile_utilization_matrix.csv (a boolean, not a price).
   - SGX expiry >= 2030     : any row with expiry_year >= 2030 or an expiry/expiry_date
     year >= 2030 (far-dated illiquid contracts).
 

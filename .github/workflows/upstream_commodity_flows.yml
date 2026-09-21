@@ -137,11 +137,6 @@ jobs:
           COMEXSTAT_FULL_HISTORY: ${{ inputs.comexstat_full || '0' }}
         run: python scripts/scrapers/fetch_comexstat_brazil.py
 
-      - name: Generate Capesize Ton-Mile Matrix
-        if: always()
-        continue-on-error: true
-        timeout-minutes: 10
-        run: python scripts/scrapers/generate_ton_mile_matrix.py
 
       - name: Rebuild Frontend Cargo Cache
         if: always()

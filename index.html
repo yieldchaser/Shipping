@@ -17688,8 +17688,6 @@ if (intelTabsContainer) {
       portwatchCongestion: [],
       euCarbon: [],
       eu_carbon: [],
-      tonMileMatrix: [],
-      ton_mile_matrix: [],
       newcastleCoal: [],
       newcastle_coal: [],
       reqExports: [],
@@ -19097,21 +19095,6 @@ if (intelTabsContainer) {
               capeScrubberSavings: parseFloat(row.capesize_scrubber_savings_usd_day || 0) || null,
               vlccScrubberSavings: parseFloat(row.vlcc_scrubber_savings_usd_day || 0) || null,
               capeEtsSurcharge: parseFloat(row.capesize_eu_ets_surcharge_usd_day || 0) || null
-            };
-          }).filter(x => x.date);
-        }),
-        safeFetch('data/derived/ton_mile_utilization_matrix.csv', 'Ton-Mile Matrix', [], r => {
-          DATA.tonMileMatrix = DATA.ton_mile_matrix = (r || []).map(row => {
-            const d = parseDateISO(row.date) || parseDate(row.date);
-            return {
-              date: d,
-              dateStr: d ? fmtDate(d) : (row.date || '').trim(),
-              wausOreMt: parseFloat(row.cape_waus_ore_mt || 0) || null,
-              brazilOreMt: parseFloat(row.cape_brazil_ore_mt || 0) || null,
-              guineaBauxiteMt: parseFloat(row.cape_guinea_bauxite_mt || 0) || null,
-              totalTonMilesBn: parseFloat(row.cape_total_ton_miles_bn || 0) || null,
-              fleetUtilizationPct: parseFloat(row.cape_fleet_utilization_pct || 0) || null,
-              modelDisclosed: (row.model_disclosed || '').trim()
             };
           }).filter(x => x.date);
         }),

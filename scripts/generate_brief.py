@@ -1082,14 +1082,6 @@ def load_physical_signals_context() -> str:
                 lc = carb_rows[-1]
                 lines.append(f"  • Environmental Regimes ({lc.get('date', '')}): EUA Carbon €{float(lc.get('eua_carbon_price_eur_tco2', 0)):.1f}/t CO2 | Singapore Hi-5 Spread ${float(lc.get('singapore_hi5_spread_usd_mt', 0)):.1f}/MT | Capesize Scrubber Premium +${float(lc.get('capesize_scrubber_savings_usd_day', 0)):,.0f}/day")
 
-        # 11f. Ton-Mile & Fleet Utilization
-        p_tm = ROOT / "data" / "derived" / "ton_mile_utilization_matrix.csv"
-        if p_tm.exists():
-            with open(p_tm, encoding="utf-8") as f:
-                tm_rows = list(csv.DictReader(f))
-            if tm_rows:
-                ltm = tm_rows[-1]
-                lines.append(f"  • Ton-Mile Capacity Absorption ({ltm.get('date', '')}): Capesize Active Utilization {float(ltm.get('cape_fleet_utilization_pct', 0)):.1f}% (Total {float(ltm.get('cape_total_ton_miles_bn', 0)):.1f} Bn Ton-NM) | VLCC Active Utilization {float(ltm.get('vlcc_fleet_utilization_pct', 0)):.1f}% (Guinea Bauxite {float(ltm.get('cape_guinea_bauxite_mt', 0)):.1f} Mt/mo)")
     except Exception:
         pass
 
