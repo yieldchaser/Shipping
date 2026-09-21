@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-09-21T19:01:56Z'
+generated_at: '2026-09-21T20:38:03Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 1
@@ -8,9 +8,9 @@ warning_count: 1
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 10156
-- Chunks: 106054
-- Sections: 34594
+- Documents: 10157
+- Chunks: 106057
+- Sections: 34596
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -19,7 +19,7 @@ warning_count: 1
 | Source | Latest | Age (days) | Cadence | Status | Latest Gap | Undated |
 |---|---|---:|---:|---|---:|---:|
 | breakwave/drybulk | 2026-09-15 | 6 | 14 | healthy | 14 | 0 |
-| breakwave/tankers | 2026-09-08 | 13 | 14 | healthy | 14 | 0 |
+| breakwave/tankers | 2026-09-22 | -1 | 14 | healthy | 14 | 0 |
 | baltic/dry | 2026-09-18 | 3 | 7 | healthy | 7 | 8 |
 | baltic/tanker | 2026-09-18 | 3 | 7 | healthy | 7 | 12 |
 | baltic/gas | 2026-09-18 | 3 | 7 | healthy | 7 | 0 |
@@ -39,13 +39,13 @@ warning_count: 1
 | Topic | Latest Evidence | Docs | Evidence | Recent Sources | Missing Sources | Status |
 |---|---|---:|---:|---|---|---|
 | Dry Bulk Market | 2026-09-21 | 82 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Tanker Market | 2026-09-21 | 81 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Tanker Market | 2026-09-22 | 81 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Capesize | 2026-09-21 | 122 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Panamax and Supramax | 2026-09-21 | 118 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| VLCC and Suezmax | 2026-09-21 | 99 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| VLCC and Suezmax | 2026-09-22 | 100 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | China Steel and Iron Ore | 2026-09-21 | 98 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Coal and Grain Flows | 2026-09-21 | 104 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
-| Oil and OPEC | 2026-09-21 | 98 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Oil and OPEC | 2026-09-22 | 98 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | LNG and LPG Shipping | 2026-09-18 | 135 | 250 | baltic, hellenic | - | healthy |
 | Container and Ningbo Routes | 2026-09-18 | 213 | 250 | baltic, hellenic | - | healthy |
 
