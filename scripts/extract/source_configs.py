@@ -99,9 +99,10 @@ TOOL_LADDER = [
 
 # Hardware envelope (verified 2026-09-21, constrains every tool choice)
 HARDWARE = {"cpu_only": True, "gpu": None, "ram_total_gb": 8.3, "ram_free_gb": 2.4,
-            "disk_free_gb": 34,
+            "disk_free_gb": 34, "max_workers": 2,
             "implication": "no local VLM bulk/audit; classical stack + Docling sampling only; "
-                           "extraction output must stay Parquet/zstd and stream to disk"}
+                           "concurrency capped at 2 (pymupdf-layout ONNX model ~1GB resident per "
+                           "worker); output must stay Parquet/zstd and stream to disk"}
 
 # Bench record 2026-09-21, Star Asia W35 p2 (15 golden cells), SSY, Breakwave p2
 BENCH = {"camelot-stream": "13/15, 4/4, 4/4", "pdfplumber": "13/15, 4/4, 1/4",
