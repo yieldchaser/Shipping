@@ -98,14 +98,24 @@ confirmed to contain the table it claims to test.
 
 ## Run plan
 
-1. **Dry batch** — 300 docs across all sources; shake out era-mismatch bugs.
+1. **Dry batch** — 303 docs across all sources via `run_batch.py` (crash-safe).
 2. **Golden gate** — 15/15 must hold or the run is blocked.
 3. **Full pass** — 7,816 docs, resumable, streaming output.
 4. **Non-PDF pass** — HTML mirrors (strip-tags + regex), Baltic, Signal.
 5. **Audit pass** — Docling cross-check on samples + review queue; publish drift report.
 
-Measured throughput (35-doc stratified sample, default stack):
-**1.13 s/page, 13.2 s/doc → ~14.3 h on 2 workers.**
+### Measured throughput (dry batch, first 89 ok docs, 2 workers)
+
+| Metric | Value |
+|---|---|
+| Mean | **18.9 s/doc** (not 13.2 — the earlier figure under-sampled Hellenic) |
+| Tables | 3.8 per page |
+| Slowest classes | Hellenic iron-ore/demolition 30-50 s/doc; large multi-hundred-page PDFs up to 120 s |
+| Full-corpus projection | **~41 h single worker, ~21 h on 2 workers** |
+| Failure kinds | `timeout` (400-page textbook, needs a larger ceiling), `not-a-pdf` (bad header, correct quarantine) |
+
+The sample skews to Hellenic (≈51% of the corpus by count), which is why the
+mean rose: plan the full pass around ~21 hours on 2 workers, not 14.
 
 ## Output
 
