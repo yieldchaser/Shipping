@@ -311,7 +311,15 @@ def main():
                 else:
                     group = "Other Classified Cargo"
                     subgroup = "Specialized / Niche"
-                    canonical = raw_cmd[:35]
+                    # Keep the FULL commodity description as the canonical key.
+                    # This was raw_cmd[:35], which silently merged distinct cargo
+                    # descriptions that share a 35-char prefix (measured: 395 such
+                    # groups, e.g. "... + 2 pcs SOC 20DV for equipments" and
+                    # "... + 2 unit 20DV SOC for equipments" became one key). The
+                    # collision inflated the merged bucket's counts and lost the
+                    # distinction, and nothing downstream could tell. Whitespace is
+                    # normalised so only genuine variants differ.
+                    canonical = " ".join(raw_cmd.split())
             elif department == "LNG" or segment in ("LNGC", "FLNG", "FSRU"):
                 canonical = "LNG"; group = "Tankers & Gas"; subgroup = "LNG"
             elif department == "LPG" or segment in ("VLGC", "SGC", "HGC", "MGC", "LGC"):
