@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T19:24:02Z",
+ "generated_at": "2026-09-21T07:47:48Z",
  "compiler_version": 2,
  "count": 104,
  "files": [
@@ -169,7 +169,7 @@
    "path": "knowledge/chunks/broker_reports_broker_report_2026.jsonl",
    "stem": "broker_reports_broker_report_2026",
    "year": 2026,
-   "bytes": 5045054
+   "bytes": 5166223
   },
   {
    "file": "bunker_and_carbon_spreads_2026.jsonl",
@@ -708,7 +708,7 @@
    "path": "knowledge/chunks/poten_tankers_2026.jsonl",
    "stem": "poten_tankers_2026",
    "year": 2026,
-   "bytes": 135572
+   "bytes": 139641
   },
   {
    "file": "poten_tankers_2030.jsonl",

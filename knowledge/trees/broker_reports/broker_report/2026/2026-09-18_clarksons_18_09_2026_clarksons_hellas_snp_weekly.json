@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly__root",
+  "doc_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly",
+  "parent_id": null,
+  "title": "CLARKSONS HELLAS - SnP WEEKLY",
+  "section_path": [
+    "CLARKSONS HELLAS - SnP WEEKLY"
+  ],
+  "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "CLARKSONS HELLAS - SnP WEEKLY\n**Broker**: Clarksons\n**Published Date**: 18/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10/)\n\nMarket Report Content\nClarkson Hellas Ltd. Desk Talk\nThe tanker market remains in the spotlight , now with Saudi Arabia 's East-West pipel ine shutdown\namplifying the impact of the disruption of the Strait of Hormuz even more. Wednesday's developments\nsuggested that a restart of the pipeline is likely, with around half of its total 7 mb/d capacity expected\nto be restored in the near term , while a full return to operations is considered realistic by October.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "aframax",
+    "china",
+    "japan",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2281,
+  "source_path": "reports/broker_reports/2026/clarksons_18_09_2026_clarksons_hellas_snp_weekly.md",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly__s01_clarksons_hellas_snp_weekly",
+      "doc_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly__root",
+      "title": "CLARKSONS HELLAS - SnP WEEKLY",
+      "section_path": [
+        "CLARKSONS HELLAS - SnP WEEKLY"
+      ],
+      "section_path_text": "CLARKSONS HELLAS - SnP WEEKLY",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Clarksons\n**Published Date**: 18/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10/](https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-10",
+        "broker",
+        "clarksons",
+        "date",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly",
+      "parent_id": "broker_reports_broker_report_2026-09-18_clarksons_18_09_2026_clarksons_hellas_snp_weekly__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Desk Talk\nThe tanker market remains in the spotlight , now with Saudi Arabia 's East-West pipel ine shutdown\namplifying the impact of the disruption of the Strait of Hormuz even more. Wednesday's developments\nsuggested that a restart of the pipeline is likely, with around half of its total 7 mb/d capacity expected\nto be restored in the near term , while a full return to operations is considered realistic by October.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "aframax",
+        "china",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2197,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
