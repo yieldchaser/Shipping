@@ -7099,9 +7099,10 @@ html.auth-locked body > *:not(#authGateModal) {
     // =====================================================================
     // PLATFORM ACCESS CONTROL & AUTHENTICATION ENGINE
     // =====================================================================
-    const _AUTH_USER = 'Raghav123';
-    const _AUTH_PASS = 'Capesize#2026';
-    const _AUTH_KEY  = 'shipping_platform_auth_v1';
+    const _AUTH_USERS = ['Raghav123', 'Himanshu@123'];
+    const _AUTH_USER  = 'Raghav123';
+    const _AUTH_PASS  = 'Capesize#2026';
+    const _AUTH_KEY   = 'shipping_platform_auth_v1';
 
     function isPlatformAuthenticated() {
       try {
@@ -7152,19 +7153,26 @@ html.auth-locked body > *:not(#authGateModal) {
       var u = (uInput && uInput.value ? uInput.value.trim() : '');
       var p = (pInput && pInput.value ? pInput.value : '');
 
-      // User check case-insensitive, password exact check
-      if (u.toLowerCase() === _AUTH_USER.toLowerCase() && p === _AUTH_PASS) {
+      // Check username against authorized list (case-insensitive)
+      var matchedUser = _AUTH_USERS.find(function(name) {
+        return name.toLowerCase() === u.toLowerCase();
+      });
+
+      if (matchedUser && p === _AUTH_PASS) {
         try {
           if (remCheck && remCheck.checked) {
             localStorage.setItem(_AUTH_KEY, 'authenticated');
           }
           sessionStorage.setItem(_AUTH_KEY, 'authenticated');
-          localStorage.setItem('shipping_auth_user', _AUTH_USER);
+          localStorage.setItem('shipping_auth_user', matchedUser);
         } catch (e) {}
 
         if (errBox) errBox.style.display = 'none';
         syncAuthStateUI();
         window.dispatchEvent(new Event('resize'));
+        if (typeof window.bootPlatformAfterAuth === 'function') {
+          window.bootPlatformAfterAuth();
+        }
         return false;
       }
 
@@ -19671,6 +19679,9 @@ if (intelTabsContainer) {
       }, 8000);
 
       try {
+        if (typeof fetchSignalBaseRates === 'function') {
+          fetchSignalBaseRates();
+        }
         // Load Tier 1 dashboard master view manifest (201 KB, <= 250 KB target)
         const masterResp = await fetch('data/views/dashboard_master.json');
         if (masterResp.ok) {
@@ -20007,10 +20018,17 @@ function buildMaster() {
     // scripts/build_views.py on every deploy. These used to be typed into the
     // banner strings; they were correct when written, but nothing recomputed them.
     var SIGNAL_BASE_RATES = null;
-    fetch('data/views/signal_base_rates.json', { cache: 'no-cache' })
-      .then(function (r) { return r.ok ? r.json() : null; })
-      .then(function (d) { SIGNAL_BASE_RATES = d; })
-      .catch(function () { SIGNAL_BASE_RATES = null; });
+    var _signalBaseRatesPromise = null;
+    function fetchSignalBaseRates() {
+      if (SIGNAL_BASE_RATES) return Promise.resolve(SIGNAL_BASE_RATES);
+      if (_signalBaseRatesPromise) return _signalBaseRatesPromise;
+      _signalBaseRatesPromise = fetch('data/views/signal_base_rates.json', { cache: 'no-cache' })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .then(function (d) { SIGNAL_BASE_RATES = d; return d; })
+        .catch(function () { SIGNAL_BASE_RATES = null; return null; });
+      return _signalBaseRatesPromise;
+    }
+    window.fetchSignalBaseRates = fetchSignalBaseRates;
 
     // One bucket rendered as a factual base rate, or '' when we have no numbers.
     // Never guesses: no data means the banner simply says less.
@@ -25119,7 +25137,11 @@ function buildMaster() {
     // =====================================================================
     // BOOTSTRAP
     // =====================================================================
+    var _appInitialized = false;
     async function initApp() {
+      if (typeof isPlatformAuthenticated === 'function' && !isPlatformAuthenticated()) return;
+      if (_appInitialized) return;
+      _appInitialized = true;
       try {
         initLazyCanvases();
         await loadAllData();
@@ -25143,8 +25165,27 @@ function buildMaster() {
         console.error('[initApp error]', err);
       }
     }
-    if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', initApp); }
-    else { initApp(); }
+    window.initApp = initApp;
+
+    function bootPlatformAfterAuth() {
+      if (typeof isPlatformAuthenticated === 'function' && !isPlatformAuthenticated()) return;
+      if (typeof initApp === 'function') {
+        initApp();
+      }
+      if (typeof initEtfQAController === 'function' && !window._etfQaInitialized) {
+        window._etfQaInitialized = true;
+        initEtfQAController();
+      }
+    }
+    window.bootPlatformAfterAuth = bootPlatformAfterAuth;
+
+    function onDocReady() {
+      if (typeof isPlatformAuthenticated === 'function' && isPlatformAuthenticated()) {
+        initApp();
+      }
+    }
+    if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', onDocReady); }
+    else { onDocReady(); }
 
     // =====================================================================
     // YEARLY DASHBOARD TAB
@@ -42888,10 +42929,17 @@ function _paintBrief(el, tsEl, data) {
     window.toggleEtfDailyBriefCollapse = toggleEtfDailyBriefCollapse;
     window.toggleSimCardCollapse = toggleSimCardCollapse;
 
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', initEtfQAController);
-    } else {
+    function maybeInitEtfQAController() {
+      if (typeof isPlatformAuthenticated === 'function' && !isPlatformAuthenticated()) return;
+      if (window._etfQaInitialized) return;
+      window._etfQaInitialized = true;
       initEtfQAController();
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', maybeInitEtfQAController);
+    } else {
+      maybeInitEtfQAController();
     }
 
 // =====================================================================

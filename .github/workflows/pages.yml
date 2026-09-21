@@ -26,6 +26,7 @@ on:
       - "Weekly USDA Maritime & Freight Data Ingest"
       - "Monthly BPS Indonesia Coal Ingest"
       - "Weekly Signal Ocean Intelligence Ingest"
+      - "Monthly CFTC Statements Ingest"
       - "Live ETF Quotes Poller (BDRY/BWET)"
     types:
       - completed
