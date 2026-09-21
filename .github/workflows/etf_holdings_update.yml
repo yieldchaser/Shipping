@@ -53,13 +53,13 @@ jobs:
       run: python scripts/verify_production_artifact_integrity.py
 
     - name: Run Decision Ticket Workflow unit tests
-      run: python scripts/test_decision_ticket_workflow.py -v
+      run: PYTHONPATH=scripts python tests/test_decision_ticket_workflow.py -v
 
     - name: Run Thesis Scenario Builder unit tests
-      run: python scripts/test_thesis_scenario_builder.py -v
+      run: PYTHONPATH=scripts python tests/test_thesis_scenario_builder.py -v
 
-    - name: Run Production Scenario Workflow tests
-      run: python scripts/test_production_scenario_workflow.py -v
+    - name: Run Production Scenario Workflow unit tests
+      run: PYTHONPATH=scripts python tests/test_production_scenario_workflow.py -v
 
     - name: Commit and push changes
       run: |
