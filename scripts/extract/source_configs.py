@@ -94,8 +94,14 @@ TOOL_LADDER = [
     ("pdfplumber", "verifier; union fallback where layout finds no boxes"),
     ("tabula-stream", "revived 2026-09-21 (Temurin JRE 21 via winget); arbiter where camelot/plumber disagree (9/15 golden)"),
     ("docling", "GATEKEEPER: golden + 5% sample cross-check per source, quarantine primary; bulk only with GPU (100-1900s/doc CPU)"),
-    ("vlm-ocr", "deferred: scanned/garbled quarantine queue (LightOnOCR-2/PaddleOCR-VL class)"),
+    ("local VLM audit", "REJECTED 2026-09-21: qwen2.5vl:3b hallucinated placeholder rows (A|1000, B|2000) on real Star Asia table, 58s/pg; 7B+ cannot fit 8.3GB RAM box (0.6GB free, no GPU). Docling is the CPU-viable auditor."),
 ]
+
+# Hardware envelope (verified 2026-09-21, constrains every tool choice)
+HARDWARE = {"cpu_only": True, "gpu": None, "ram_total_gb": 8.3, "ram_free_gb": 2.4,
+            "disk_free_gb": 34,
+            "implication": "no local VLM bulk/audit; classical stack + Docling sampling only; "
+                           "extraction output must stay Parquet/zstd and stream to disk"}
 
 # Bench record 2026-09-21, Star Asia W35 p2 (15 golden cells), SSY, Breakwave p2
 BENCH = {"camelot-stream": "13/15, 4/4, 4/4", "pdfplumber": "13/15, 4/4, 1/4",
