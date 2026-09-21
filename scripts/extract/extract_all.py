@@ -336,6 +336,24 @@ def harvest_images(page, pageno, chart_dir, meta_rows, doc_key):
     return n
 
 
+def derive_source(rel_path):
+    """Source label from a repo-relative path.
+
+    Skips structural noise (data/, reports/, pdfs/) so that
+    data/reports/seabrokers/pdfs/x.pdf -> "seabrokers" rather than "reports".
+    Fixed 2026-09-21: the naive parts[1] made data/reports/* all collapse to
+    "reports", which silently merged distinct sources in per-source reports.
+    """
+    parts = [p for p in rel_path.replace("\\", "/").split("/") if p]
+    if not parts:
+        return "root"
+    skip = {"data", "reports", "docs", "scripts", "pdfs"}
+    for p in parts[1:]:
+        if p.lower() not in skip:
+            return p
+    return parts[0]
+
+
 def is_real_pdf(pdf_path):
     """Cheap header sanity check (skips HTML-dump and truncated .pdf files).
 
@@ -367,7 +385,7 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
                 "pages": 0, "blocks": 0, "tables": 0, "images": 0, "routes": {}}
     rel = os.path.relpath(pdf_path, REPO)
     stem = os.path.splitext(os.path.basename(pdf_path))[0]
-    source = rel.split(os.sep)[1] if len(rel.split(os.sep)) > 2 else "root"
+    source = derive_source(rel)
     dkey = f"{source}/{stem}"
     ddir = os.path.join(out_root, source, stem)
     cdir = os.path.join(ddir, "charts")
