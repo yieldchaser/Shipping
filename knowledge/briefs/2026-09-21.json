@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:32:57.079238+00:00",
+  "generated_at": "2026-09-21T20:46:40.439945+00:00",
   "brief_date": "2026-09-21",
   "constituent_holdings": {
     "bdry": {
@@ -171,13 +171,13 @@
       "momentum_grade": "STRONG_UP",
       "positioning_bias": "LONG",
       "confidence_score": 0.8,
-      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+2.59sigma). Of 6 Breakwave reports: Sentiment 2 pos/1 neg/3 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
-      "summary": "Tanker is in expansion regime at 1970.0, with z-score +2.59sigma and ROC60 +51.8%. Recent analyst sentiment skews neutral (positive:2, neutral:3, negative:1). Quant momentum and analyst signals align bullishly for tanker (Z=+2.59sigma). Of 6 Breakwave reports: Sentiment 2 pos/1 neg/3 neu; Momentum 4 pos/1 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+2.59sigma). Of 6 Breakwave reports: Sentiment 3 pos/0 neg/3 neu; Momentum 5 pos/0 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
+      "summary": "Tanker is in expansion regime at 1970.0, with z-score +2.59sigma and ROC60 +51.8%. Recent analyst sentiment skews positive (positive:3, neutral:3). Quant momentum and analyst signals align bullishly for tanker (Z=+2.59sigma). Of 6 Breakwave reports: Sentiment 3 pos/0 neg/3 neu; Momentum 5 pos/0 neg/1 neu; Fundamentals 6 pos/0 neg/0 neu.",
       "key_signals": [
         "Quant: CLEAN_TANKER value=1970.0, z=+2.59sigma, 5Y percentile=98.4%.",
-        "Qual: last 6 reports sentiment mix -> positive:2, neutral:3, negative:1.",
+        "Qual: last 6 reports sentiment mix -> positive:3, neutral:3.",
         "Cross-check: DIRTY_TANKER value=5092.0, z=+3.60sigma.",
-        "Latest report 2026-09-08: momentum=positive, fundamentals=positive."
+        "Latest report 2026-09-22: momentum=positive, fundamentals=positive."
       ],
       "trade_idea": "Long DIRTY_TANKER vs CLEAN_TANKER spread to capture dirty tanker momentum outperformance.",
       "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
@@ -185,12 +185,12 @@
       "watch": "Upcoming OPEC+ production quota decisions and Middle East route fixture volume are the near-term catalysts.",
       "risk_note": "A sudden compression in crude arbitrage margins or rapid fleet repositioning would invalidate the upside thesis.",
       "report_dates": [
+        "2026-09-22",
         "2026-09-08",
         "2026-08-25",
         "2026-08-11",
         "2026-07-28",
-        "2026-07-14",
-        "2026-06-30"
+        "2026-07-14"
       ]
     }
   },
@@ -207,11 +207,11 @@
     "breakwave_drybulk_2026-08-04",
     "breakwave_drybulk_2026-07-21",
     "breakwave_drybulk_2026-07-07",
+    "breakwave_tankers_2026-09-22",
     "breakwave_tankers_2026-09-08",
     "breakwave_tankers_2026-08-25",
     "breakwave_tankers_2026-08-11",
     "breakwave_tankers_2026-07-28",
-    "breakwave_tankers_2026-07-14",
-    "breakwave_tankers_2026-06-30"
+    "breakwave_tankers_2026-07-14"
   ]
 }
