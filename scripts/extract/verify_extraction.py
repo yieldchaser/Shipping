@@ -86,7 +86,13 @@ def check_outputs(out_root, actions, info):
     dirs = _glob.glob(os.path.join(out_root, "*", "*"))
     info["doc_dirs"] = len(dirs)
     empty, by_design = 0, 0
-    for d in dirs[:600]:
+    # Fixed 2026-09-21: this used to scan only dirs[:600]. Measured over 1,532
+    # doc dirs: the capped scan reported 0 unexpected-empty dirs, the uncapped
+    # scan reported 9 - including the 3 documents the per-doc timeout killed,
+    # whose dirs hold only charts/ and no text/tables/pages. Capping the audit
+    # means it silently under-reports as the corpus grows toward 7,816 docs.
+    # The full scan costs ~0.4 s on 1,532 dirs.
+    for d in dirs:
         tj = os.path.join(d, "text.jsonl")
         tabj = os.path.join(d, "tables.jsonl")
         pj = os.path.join(d, "pages.jsonl")

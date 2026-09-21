@@ -9,6 +9,14 @@ Per input PDF writes:
 Routes: text | garbled | scanned | image-heavy (image-heavy also gets text try).
 Quarantine (no text trust): garbled, scanned -> flagged, text kept but marked.
 
+Glyph-mojibake accounting (added 2026-09-21): the page-level route above misses
+font-level mojibake, where a PDF embeds a subset font with no usable ToUnicode
+map so its spans come back as Latin-Extended glyph codes on a page that
+otherwise classifies as ordinary text. Because such a cell holds no ASCII
+digit it is invisible to text_verified (which only checks cells containing
+one), so a table could report 1.0 while its values are unreadable. Each page and each
+document now carries `garbled_blocks`, and each table carries `garbled_cells`.
+
 Usage:
   python scripts/extract/extract_all.py <pdf> --out data/extracted/v0 [--no-tables]
   python scripts/extract/extract_all.py --inventory data/extracted/inventory.jsonl --limit 30
@@ -36,6 +44,46 @@ def img_dhash(pil_img, size=8):
         return format(bits, "016x")
     except Exception:
         return None
+
+
+def garbled_ratio(text, limit=600):
+    """Share of characters in a text block that are glyphed, not typed.
+
+    Counts control codes (other than whitespace) and Latin-Extended /
+    combining / replacement code points in the first `limit` characters.
+    Accented Latin-1 text is NOT counted, so Portuguese and Danish broker
+    reports measure 0.00 on this predicate.
+    """
+    s = text[:limit]
+    if not s:
+        return 0.0
+    n = 0
+    for ch in s:
+        o = ord(ch)
+        if o < 32:
+            if ch not in "\n\t\r":
+                n += 1
+        elif 0x100 <= o <= 0x36F or o == 0xFFFD:
+            n += 1
+    return n / len(s)
+
+
+GARBLE_MIN_LEN = 8
+GARBLE_RATIO = 0.15
+
+
+def is_garbled_text(text):
+    """True when a block is font-encoded mojibake, not readable text.
+
+    Measured 2026-09-21 across the extracted corpus: fires on 19,257 of
+    284,690 Hellenic blocks (6.8%) and on 0 of the 103,243 blocks held by
+    every other source. It catches, for example, the MMi site line and
+    "ore imported fell slightly by 0.42% MoM to 89.417 Mt" - the glyphs render
+    correctly but the font carries no usable ToUnicode map, so those values
+    are NOT recoverable as digits from the text layer (OCR of the rendered
+    page would recover them).
+    """
+    return len(text) >= GARBLE_MIN_LEN and garbled_ratio(text) > GARBLE_RATIO
 
 
 def route_page(page, char_count, n_images):
@@ -226,6 +274,12 @@ def verify_tables_against_text(tables, page_text, pno):
     for t in tables:
         rows = t.get("rows") or []
         cells = [str(c).strip() for row in rows for c in row if str(c).strip()]
+        # A mojibake cell carries no ASCII digit, so `checkable` below can
+        # never see it: text_verified would report full confidence on a table
+        # whose values are unreadable. Measured 2026-09-21: a table on page 1 of
+        # 2021-07-14_mmi-daily-iron-ore-index-report scored text_verified 53/53
+        # while holding "changed by 0.42% MoM to 89.417 Mt" in glyph codes.
+        t["garbled_cells"] = sum(1 for c in cells if is_garbled_text(c))
         checkable = [c for c in cells if re.search(r"\d", c)]
         if not checkable:
             t["text_verified"] = None
@@ -392,6 +446,7 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
     os.makedirs(cdir, exist_ok=True)
     doc = pymupdf.open(pdf_path)
     t_rows, tab_rows, p_rows, c_meta = [], [], [], []
+    doc_garbled = 0
     for pno, page in enumerate(doc):
         try:
             page_text = page.get_text() or ""
@@ -413,9 +468,21 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
             harvest_images(page, pno, cdir, c_meta, dkey)
             continue
         if route in ("text", "image-heavy", "garbled"):
-            for b in extract_text_blocks(page):
+            page_blocks = extract_text_blocks(page)
+            n_garbled = sum(1 for b in page_blocks
+                            if is_garbled_text(b.get("text", "")))
+            for b in page_blocks:
                 b.update({"page": pno, "route": route})
                 t_rows.append(b)
+            if n_garbled:
+                doc_garbled += n_garbled
+                p_rows[-1]["garbled_blocks"] = n_garbled
+                # majority-mojibake page: the text layer is unusable, but the
+                # glyphs DO render, so OCR of the page image would recover it
+                if n_garbled >= 3 and n_garbled * 2 >= len(page_blocks):
+                    p_rows[-1]["ocr_queue"] = (
+                        "glyph-mojibake text layer (%d/%d blocks)"
+                        % (n_garbled, len(page_blocks)))
         if route in ("text", "image-heavy"):
             page_tables = extract_tables_union(pdf_path, pno, skip_tables)
             if gated_layout and (not page_tables or needs_layout(pdf_path, pno, page_tables)):
@@ -465,7 +532,8 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
                       set(p["route"] for p in p_rows)},
            "blocks": len(t_rows), "tables": len(tab_rows), "images": len(c_meta),
            "ocr_queue_pages": sum(1 for p in p_rows if p.get("ocr_queue")),
-           "orphan_values": sum(len(p.get("values_only_in_text") or []) for p in p_rows)}
+           "orphan_values": sum(len(p.get("values_only_in_text") or []) for p in p_rows),
+           "garbled_blocks": doc_garbled}
     if empty_output:
         rel_norm = rel.replace("\\", "/")
         if "cftc_statements" in rel_norm:
