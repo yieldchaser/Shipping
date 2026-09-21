@@ -91,7 +91,7 @@ def main():
               "agreement": score(vlm["text"], klass)}
     print(json.dumps(result, indent=1)[:4000])
     if a.out:
-        open(a.out, "w").write(json.dumps(result, indent=1))
+        open(a.out, "w", encoding="utf-8", newline="\n").write(json.dumps(result, indent=1))
     return 0
 
 

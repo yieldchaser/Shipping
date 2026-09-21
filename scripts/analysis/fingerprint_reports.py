@@ -158,7 +158,7 @@ def main():
     exts = ([".md"] if a.md else [".html"] if a.html else [".pdf"])
     fn = fingerprint_md if a.md else fingerprint_html if a.html else \
         (lambda fp: fingerprint_pdf(fp, skip_tables=a.no_tables))
-    out = open(a.out, "w", encoding="utf-8") if a.out else None
+    out = open(a.out, "w", encoding="utf-8", newline="\n") if a.out else None
     total = 0
     for key, newest, samp, pop in sample_files(a.dir, exts, a.per_year, a.seed):
         for fp in [newest] + samp:

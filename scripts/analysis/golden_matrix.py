@@ -89,8 +89,8 @@ def run_camelot(pdf, page):
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         tabs = camelot.read_pdf(pdf, pages=str(page + 1), flavor="stream")
-        return "\n".join(tabs[i].df.to_csv(index=False, header=False)
-                         for i in range(tabs.n))
+        return "\n".join(tabs[i].df.to_csv(index=False, header=False, lineterminator="\n")
+                                 for i in range(tabs.n))
 
 
 def run_camelot_lattice(pdf, page):
@@ -98,8 +98,8 @@ def run_camelot_lattice(pdf, page):
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         tabs = camelot.read_pdf(pdf, pages=str(page + 1), flavor="lattice")
-        return "\n".join(tabs[i].df.to_csv(index=False, header=False)
-                         for i in range(tabs.n))
+        return "\n".join(tabs[i].df.to_csv(index=False, header=False, lineterminator="\n")
+                                 for i in range(tabs.n))
 
 
 def run_plumber(pdf, page):
@@ -126,7 +126,7 @@ def run_tabula(pdf, page):
     try:
         import tabula
         dfs = tabula.read_pdf(pdf, pages=page + 1, multiple_tables=True, stream=True)
-        return "\n".join(d.to_csv(index=False, header=False) for d in dfs)
+        return "\n".join(d.to_csv(index=False, header=False, lineterminator="\n") for d in dfs)
     except Exception as exc:
         return f"__ERROR__ {exc}"
 
@@ -182,7 +182,7 @@ def main():
                 print(f"      missed: {r['missed'][:8]}")
             out[name] = r
         matrix[src] = out
-    with open(REPO + "scripts/analysis/golden_matrix.json", "w") as f:
+    with open(REPO + "scripts/analysis/golden_matrix.json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(matrix, f, indent=1)
     print("\n-> scripts/analysis/golden_matrix.json")
     return 0

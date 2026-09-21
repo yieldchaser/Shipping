@@ -83,7 +83,7 @@ def main():
         print(f"{src:28s} docs={agg['docs']:3d} nums={agg['text_total']:6d} "
               f"grid={agg['grid_captured']:6d} ({agg['grid_pct']}% captured)", flush=True)
 
-    with open(a.out, "w", encoding="utf-8") as f:
+    with open(a.out, "w", encoding="utf-8", newline="\n") as f:
         json.dump(report, f, indent=1)
     print(f"\n-> {a.out}")
     return 0
