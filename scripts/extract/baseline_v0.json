@@ -1,0 +1,174 @@
+{
+ "agora": {
+  "doc": "shipbrokers/agora_18_09_2026_agora_shipbroking_corporation_snapshot_of_commercial_indicator",
+  "pages": 5,
+  "routes": {
+   "image-heavy": 1,
+   "text": 4
+  },
+  "blocks": 45,
+  "tables": 19,
+  "images": 11
+ },
+ "advanced": {
+  "doc": "shipbrokers/advanced_shipping_19_09_2026_advanced_shipping_trading_weekly_shipping_marke",
+  "pages": 10,
+  "routes": {
+   "image-heavy": 1,
+   "text": 9
+  },
+  "blocks": 351,
+  "tables": 47,
+  "images": 12
+ },
+ "xclusiv": {
+  "doc": "shipbrokers/xclusiv_15_09_2026_xclusiv_shipbrokers_weekly_14th_september_2026",
+  "pages": 9,
+  "routes": {
+   "image-heavy": 2,
+   "text": 7
+  },
+  "blocks": 276,
+  "tables": 42,
+  "images": 16
+ },
+ "affinity": {
+  "doc": "shipbrokers/affinity_19_09_2026_affinity_tanker_weekly_18_september_2026",
+  "pages": 2,
+  "routes": {
+   "image-heavy": 1,
+   "text": 1
+  },
+  "blocks": 59,
+  "tables": 4,
+  "images": 4
+ },
+ "intermodal": {
+  "doc": "shipbrokers/intermodal_2021_W26_Intermodal-Report-Week-26-2021",
+  "pages": 8,
+  "routes": {
+   "image-heavy": 8
+  },
+  "blocks": 386,
+  "tables": 42,
+  "images": 45
+ },
+ "fearnleys": {
+  "doc": "shipbrokers/10_09_2026_fearnleys_week_37_2026",
+  "pages": 20,
+  "routes": {
+   "text": 20
+  },
+  "blocks": 415,
+  "tables": 52,
+  "images": 20
+ },
+ "clarksons": {
+  "doc": "shipbrokers/clarksons_18_09_2026_clarksons_hellas_snp_weekly",
+  "pages": 4,
+  "routes": {
+   "image-heavy": 4
+  },
+  "blocks": 53,
+  "tables": 28,
+  "images": 20
+ },
+ "bancosta": {
+  "doc": "shipbrokers/banchero_costa_2021_W26_Bancosta-Weekly-2021-26",
+  "pages": 14,
+  "routes": {
+   "text": 13,
+   "image-heavy": 1
+  },
+  "blocks": 759,
+  "tables": 95,
+  "images": 16
+ },
+ "starasia": {
+  "doc": "shipbrokers/star_asia_2022_W29_Market-report-Week-29",
+  "pages": 15,
+  "routes": {
+   "text": 4,
+   "image-heavy": 11
+  },
+  "blocks": 312,
+  "tables": 54,
+  "images": 148
+ },
+ "carriers": {
+  "doc": "shipbrokers/15_09_2026_carriers_sales_purchase_market_report_week_37 (1)",
+  "pages": 3,
+  "routes": {
+   "image-heavy": 1,
+   "text": 2
+  },
+  "blocks": 114,
+  "tables": 34,
+  "images": 5
+ },
+ "gibson23": {
+  "doc": "shipbrokers/gibson_2021_2021-02-07-Oil-production-its-a-game-of-two-halves",
+  "pages": 8,
+  "routes": {
+   "image-heavy": 1,
+   "text": 7
+  },
+  "blocks": 96,
+  "tables": 14,
+  "images": 14
+ },
+ "tankers": {
+  "doc": "tankers/2026-09-08_Breakwave_Tankers",
+  "pages": 2,
+  "routes": {
+   "text": 2
+  },
+  "blocks": 41,
+  "tables": 8,
+  "images": 4
+ },
+ "iron": {
+  "doc": "hellenic/2026-09-18_mmi-daily-iron-ore-index-report-september-18-2026_mmi-daily-iron-ore-report-for-18th-s_1ee5f11f9420",
+  "pages": 1,
+  "routes": {
+   "image-heavy": 1
+  },
+  "blocks": 216,
+  "tables": 13,
+  "images": 8
+ },
+ "demo": {
+  "doc": "hellenic/2026-06-16_gms-week-24-premium-cracks-pen-hovers_week-24-athenian-demolition-report-2_03f79e746643",
+  "pages": 1,
+  "routes": {
+   "image-heavy": 1
+  },
+  "blocks": 34,
+  "tables": 5,
+  "images": 7
+ },
+ "seabrokers": {
+  "doc": "reports/2018-05-01_markedsrapport-mai-2018",
+  "pages": 16,
+  "routes": {
+   "garbled": 1,
+   "image-heavy": 7,
+   "scanned": 1,
+   "text": 7
+  },
+  "blocks": 511,
+  "tables": 61,
+  "images": 29
+ },
+ "ais": {
+  "doc": "drewry_ais_pdfs/Drewry_AIS_PDF_Product_LR2_Week52_20241",
+  "pages": 9,
+  "routes": {
+   "text": 1,
+   "image-heavy": 8
+  },
+  "blocks": 299,
+  "tables": 43,
+  "images": 37
+ }
+}
