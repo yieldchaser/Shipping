@@ -129,6 +129,18 @@ QUARANTINE_GLOBAL = ["lion_2024 misfile", "other/ triage bucket", "rapport-2 stu
                      "not-a-pdf headers (3 found: breakwave x2, signal fueleu)",
                      "docs/research/Subscription Plans - UN Comtrade Help Center.pdf (layout segfault)"]
 
+# Provenance-only: kept for checksum/traceability, deliberately NOT extracted and
+# NOT queued for OCR, because a richer feed already in the repo supersedes them.
+PROVENANCE_ONLY = {
+    "data/cftc_statements/raw_pdf/**": (
+        "Amplify ETF (BDRY/BWET) monthly account statements. Fund accounting only: "
+        "NAV, shares outstanding, fee lines, futures P&L. Superseded by "
+        "data/etf/{BDRY,BWET}_flows.csv (daily, 2018+), bdry/bwet_holdings_history.csv "
+        "(daily contract-level positions) and *_liquidity.csv. The parsed ledger "
+        "already holds the useful part (sha256 per statement + monthly fee detail); "
+        "its pre-2025 rows are all-zero because the scans were never readable."),
+}
+
 
 def era_for(source, doc_date):
     cfg = SOURCES.get(source, {})

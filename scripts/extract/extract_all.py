@@ -453,8 +453,12 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
         for r in c_meta:
             f.write(json.dumps(r) + "\n")
     # honest status: a document that yielded no text AND no tables is not a
-    # successful extraction, it is OCR work for later. Report it distinctly so
-    # run counters cannot overstate coverage.
+    # successful extraction. Two distinct dispositions:
+    #   provenance-only       - scanned statements whose data is superseded by a
+    #                           richer feed already in the repo (CFTC/Amplify ETF
+    #                           monthlies vs the daily ETF holdings+flows series).
+    #                           Keep the file for its checksum, do not OCR it.
+    #   no-extractable-content - genuinely pending OCR work.
     empty_output = (not t_rows and not tab_rows)
     rec = {"doc": dkey, "pages": len(p_rows),
            "routes": {r: sum(1 for p in p_rows if p["route"] == r) for r in
@@ -463,7 +467,23 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
            "ocr_queue_pages": sum(1 for p in p_rows if p.get("ocr_queue")),
            "orphan_values": sum(len(p.get("values_only_in_text") or []) for p in p_rows)}
     if empty_output:
-        rec["status"] = "no-extractable-content"
+        rel_norm = rel.replace("\\", "/")
+        if "cftc_statements" in rel_norm:
+            rec["status"] = "provenance-only"
+            rec["note"] = ("scanned ETF account statement; its data is superseded by "
+                           "data/etf daily flows + holdings. Kept for checksum "
+                           "provenance, deliberately NOT queued for OCR.")
+            # clear the per-page OCR flags so nothing downstream queues these
+            rec["ocr_queue_pages"] = 0
+            for pr in p_rows:
+                pr.pop("ocr_queue", None)
+        else:
+            rec["status"] = "no-extractable-content"
+            rec["note"] = "scanned/short page with no text layer; OCR work for later"
+    if empty_output:
+        with open(os.path.join(ddir, "pages.jsonl"), "w", encoding="utf-8") as f:
+            for pr in p_rows:  # rewrite without the cleared OCR flags
+                f.write(json.dumps(pr) + "\n")
     return rec
 
 

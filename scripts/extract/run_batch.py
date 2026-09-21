@@ -183,6 +183,37 @@ def main():
             return 1
 
     rows = load_inventory()
+    # drop provenance-only documents from the work queue entirely: their data is
+    # superseded by a richer feed already in the repo, so extracting them (or
+    # queuing them for OCR) is wasted effort. See source_configs.PROVENANCE_ONLY.
+    try:
+        from source_configs import PROVENANCE_ONLY
+    except ImportError:
+        PROVENANCE_ONLY = {}
+    if PROVENANCE_ONLY:
+        import fnmatch
+        before = len(rows)
+        skipped = []
+
+        def _prov_only(path):
+            p = path.replace("\\", "/")
+            for pat, why in PROVENANCE_ONLY.items():
+                if fnmatch.fnmatch(p, pat) or fnmatch.fnmatch(p, pat + "/*") \
+                        or pat.rstrip("*").rstrip("/") in p:
+                    return why
+            return None
+
+        kept = []
+        for r in rows:
+            why = _prov_only(r["path"])
+            if why:
+                skipped.append(r["path"])
+            else:
+                kept.append(r)
+        rows = kept
+        if skipped:
+            print(f"provenance-only: skipping {before - len(rows)} documents "
+                  f"({len(PROVENANCE_ONLY)} rule(s)) - not extracted, not OCR-queued")
     docs = rows if a.all else stratified(rows, a.limit)
     done = load_done(a.checkpoint) if a.resume else {}
     todo = [r for r in docs if r["path"] not in done]
