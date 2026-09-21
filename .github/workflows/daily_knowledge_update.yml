@@ -132,15 +132,45 @@ jobs:
         run: |
           git config user.name "knowledge-bot"
           git config user.email "bot@shipping"
-          # Force-add artifacts but NEVER the local speed caches (gitignored,
-          # ~305 MB; -f would override .gitignore and GitHub rejects >100 MB).
+          # Force-add artifacts but NEVER the local speed caches or the
+          # full-fidelity derived artefacts.
+          #
+          # `git add -f` OVERRIDES .gitignore, so anything not named here gets
+          # committed whether it is ignored or not. That is how signals.jsonl
+          # (92 MB) and section_index.jsonl (45 MB) were re-written into history
+          # every single day: only three cache files were excluded, and these two
+          # were not. signals.jsonl is now published as signals_public.jsonl
+          # (~2 MB, every record, every scalar field consumers read); the
+          # full-fidelity originals stay local to the runner.
           git add -f knowledge/ data/derived/ \
             -- ':!knowledge/manifests/derived_cache.json' \
                ':!knowledge/derived/.wiki_score_cache.json' \
-               ':!knowledge/derived/.wiki_meta_cache.json'
+               ':!knowledge/derived/.wiki_meta_cache.json' \
+               ':!knowledge/derived/signals.jsonl' \
+               ':!knowledge/derived/section_index.jsonl'
           if git diff --staged --quiet; then
             echo "No daily knowledge changes to commit."
             exit 0
+          fi
+
+          # Guardrail: `git add -f` can override .gitignore, so a generated file
+          # can silently enter history and bloat every clone and push forever.
+          # Measured exhaustively: fail loudly rather than commit it. This is the
+          # check that would have caught the 92 MB daily re-commit on day one.
+          MAX_MB=20
+          OVERSIZE=""
+          while IFS= read -r f; do
+            [ -f "$f" ] || continue
+            SZ_MB=$(( $(wc -c < "$f") / 1048576 ))
+            if [ "$SZ_MB" -gt "$MAX_MB" ]; then
+              OVERSIZE="${OVERSIZE}${SZ_MB} MB  ${f}"$'\n'
+            fi
+          done < <(git diff --staged --name-only)
+          if [ -n "$OVERSIZE" ]; then
+            echo "::error::Refusing to commit staged files larger than ${MAX_MB} MB."
+            printf '%s' "$OVERSIZE"
+            echo "Publish a slimmed variant instead of the full artefact."
+            exit 1
           fi
 
           git commit -m "knowledge: daily update $(date -u +%Y-%m-%d)"

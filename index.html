@@ -39192,13 +39192,13 @@ function renderSignalsTab(productKey) {
 
         let text = '';
         try {
-          const resp = await fetch('knowledge/derived/signals.jsonl', {
+          const resp = await fetch('knowledge/derived/signals_public.jsonl', {
             cache: 'no-store',
             signal: controller.signal,
           });
           if (resp.ok) text = await resp.text();
         } catch (fetchErr) {
-          const fallbackUrl = _rawFallbackUrl('knowledge/derived/signals.jsonl');
+          const fallbackUrl = _rawFallbackUrl('knowledge/derived/signals_public.jsonl');
           if (fallbackUrl && !controller.signal.aborted) {
             try {
               const ctrl2 = new AbortController();

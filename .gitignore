@@ -46,6 +46,14 @@ TIMESTAMP
 knowledge/manifests/derived_cache.json
 knowledge/derived/.wiki_score_cache.json
 knowledge/derived/.wiki_meta_cache.json
+# Full-fidelity derived artefacts: ~92 MB and ~45 MB, rewritten daily, ~90 MB of
+# which is nested LLM output no consumer reads back. Published instead as
+# signals_public.jsonl (~2 MB, every record and every scalar field the dashboard
+# and daily brief use). Kept local; note that the daily workflow uses
+# `git add -f`, which overrides this file, so these are also excluded there
+# explicitly and guarded by a staged-size check.
+knowledge/derived/signals.jsonl
+knowledge/derived/section_index.jsonl
 
 # Large model weights (HF checkpoints ~1-2GB, never commit)
 *.safetensors

@@ -36,7 +36,12 @@ DERIVED = KNOWLEDGE / "derived"
 WIKI = KNOWLEDGE / "wiki"
 BRIEFS = KNOWLEDGE / "briefs"
 
-SIGNALS_FILE = DERIVED / "signals.jsonl"
+SIGNALS_PUBLIC_FILE = DERIVED / "signals_public.jsonl"
+SIGNALS_FULL_FILE = DERIVED / "signals.jsonl"
+# The brief reads only scalar fields (sentiment/momentum/fundamentals/date/category),
+# which the published slim file carries in full. Prefer it; fall back to the
+# full-fidelity internal artefact when present (e.g. inside the knowledge job).
+SIGNALS_FILE = SIGNALS_PUBLIC_FILE
 
 # CSV files: key -> path  (DD-MM-YYYY, Index, %Change)
 ETF_HOLDINGS_FILES = {
@@ -396,18 +401,23 @@ def compute_tanker_z(snapshot: dict) -> float | None:
 
 def load_signals() -> list[dict]:
     signals: list[dict] = []
-    try:
-        with open(SIGNALS_FILE, encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    signals.append(json.loads(line))
-                except json.JSONDecodeError:
-                    continue
-    except FileNotFoundError:
-        pass
+    # Published slim file first, full-fidelity internal artefact second. Neither
+    # is fatal to be missing: a brief without signals still renders.
+    for candidate in (SIGNALS_PUBLIC_FILE, SIGNALS_FULL_FILE):
+        try:
+            with open(candidate, encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    try:
+                        signals.append(json.loads(line))
+                    except json.JSONDecodeError:
+                        continue
+        except FileNotFoundError:
+            continue
+        if signals:
+            break
     return signals
 
 

@@ -59,6 +59,18 @@ LINT_REPORT = MANIFESTS_DIR / "lint_report.json"
 COVERAGE_REPORT = MANIFESTS_DIR / "coverage_report.json"
 SIGNALS_DERIVED = DERIVED_DIR / "signals.jsonl"
 BREAKWAVE_SIGNALS_DERIVED = DERIVED_DIR / "breakwave_signals.json"
+# Published, slimmed sibling of signals.jsonl. signals.jsonl is a full-fidelity
+# internal artefact: ~90 MB of its 92 MB is two LLM-authored blob fields
+# ("signals", "numeric_observations") that no consumer reads back. Committing the
+# full file daily re-wrote ~92 MB into git history every day (and the section
+# index another ~45 MB) via the workflow's `git add -f knowledge/`, which
+# force-overrides .gitignore, while the dashboard downloaded all 92 MB to keep
+# 0.14% of it. This file carries every record with every scalar field, so the
+# dashboard and the daily brief work unchanged, and it is safe to commit.
+SIGNALS_PUBLIC_DERIVED = DERIVED_DIR / "signals_public.jsonl"
+# Fields excluded from the published file: large nested LLM output, never read
+# by index.html or generate_brief.py, and rebuilt locally by this pipeline.
+SIGNALS_PUBLIC_DROP_FIELDS = ("signals", "numeric_observations")
 THEMES_DERIVED = DERIVED_DIR / "themes.jsonl"
 SECTION_INDEX_DERIVED = DERIVED_DIR / "section_index.jsonl"
 TOPIC_EVIDENCE_DERIVED = DERIVED_DIR / "topic_evidence.jsonl"
@@ -3869,9 +3881,14 @@ def build_derived(llm_enabled: bool = False, force_full: bool = False):
     )
 
     SIGNALS_DERIVED.write_text("", encoding="utf-8", newline="\n")
+    SIGNALS_PUBLIC_DERIVED.write_text("", encoding="utf-8", newline="\n")
     bw_compact_signals = []
     for row in sorted(signal_rows, key=lambda item: (item.get("date") or "", item.get("doc_id") or "")):
         append_jsonl(SIGNALS_DERIVED, row)
+        append_jsonl(
+            SIGNALS_PUBLIC_DERIVED,
+            {k: v for k, v in row.items() if k not in SIGNALS_PUBLIC_DROP_FIELDS},
+        )
         if row.get("source") == "breakwave" and row.get("sentiment") is not None and row.get("date") and row.get("date") != "0000-00-00":
             bw_compact_signals.append({
                 "date": row["date"],
