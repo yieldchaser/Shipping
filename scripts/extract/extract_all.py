@@ -17,6 +17,7 @@ import argparse
 import hashlib
 import io
 import json
+import multiprocessing as mp
 import os
 import sys
 
@@ -125,21 +126,108 @@ def extract_tables_union(pdf_path, pno, skip_tables=False):
     return tables
 
 
-def layout_tables(pdf_path, pno):
-    """Layout-constrained camelot: the 15/15 golden path."""
+class LayoutWorker:
+    """Layout model in a subprocess: a segfault on a malformed-font PDF kills
+    only the worker, never the multi-hour extraction run.
+
+    Found 2026-09-21: pymupdf-layout raises an unrecoverable access violation
+    inside create_stext_page on some real corpus PDFs. In-process that aborts
+    the whole run; isolated, the page is simply marked layout-failed.
+    """
+
+    def __init__(self, timeout=180):
+        self.timeout = timeout
+        self.proc = None
+        self.req = None
+        self.resp = None
+        self.crashes = 0
+
+    def _spawn(self):
+        self.req = mp.Queue()
+        self.resp = mp.Queue()
+        self.proc = mp.Process(target=_layout_child, args=(self.req, self.resp),
+                               daemon=True)
+        self.proc.start()
+
+    def regions(self, pdf_path, pno):
+        if self.proc is None:
+            self._spawn()
+        elif not self.proc.is_alive():
+            # died since last request: a segfault on the previous page
+            self.crashes += 1
+            self._spawn()
+        try:
+            self.req.put((pdf_path, pno))
+            if self.resp.poll(self.timeout):
+                kind, val = self.resp.get()
+                if kind == "ok":
+                    return val
+                return None
+        except Exception:
+            return None
+        # timeout: kill and respawn
+        self.kill()
+        return None
+
+    def kill(self):
+        if self.proc is not None and self.proc.is_alive():
+            self.proc.terminate()
+            self.proc.join(5)
+        if self.proc is not None and self.proc.exitcode not in (0, None):
+            self.crashes += 1
+        self.proc = None
+
+    def close(self):
+        if self.proc is not None:
+            try:
+                self.req.put(None)
+                self.proc.join(5)
+            except Exception:
+                pass
+            self.kill()
+
+
+def _layout_child(req, resp):
+    """Child worker: own the layout model, answer region requests."""
     import pymupdf
     from pymupdf.layout import DocumentLayoutAnalyzer
-    global _LAYOUT_MODEL
+    model = DocumentLayoutAnalyzer.get_model()
+    while True:
+        item = req.get()
+        if item is None:
+            return
+        pdf_path, pno = item
+        try:
+            doc = pymupdf.open(pdf_path)
+            H = doc[pno].rect.height
+            regions = model.predict(doc[pno]) or []
+            doc.close()
+            resp.put(("ok", [r for r in regions]))
+        except BaseException as exc:  # noqa: BLE001
+            resp.put(("err", f"{type(exc).__name__}: {exc}"[:150]))
+
+
+_LAYOUT_WORKER = None
+
+
+def layout_tables(page, pdf_path, pno):
+    """Layout-constrained camelot: the 15/15 golden path, crash-isolated.
+
+    The layout model runs in a subprocess (see LayoutWorker) because it
+    segfaults on malformed-font PDFs.
+    """
+    global _LAYOUT_WORKER
+    if _LAYOUT_WORKER is None:
+        _LAYOUT_WORKER = LayoutWorker()
     try:
-        _LAYOUT_MODEL
-    except NameError:
-        _LAYOUT_MODEL = DocumentLayoutAnalyzer.get_model()
-    doc = pymupdf.open(pdf_path)
-    pg = doc[pno]
-    H = pg.rect.height
-    regions = _LAYOUT_MODEL.predict(pg)
-    doc.close()
-    areas = [f"{x0},{H - y1},{x1},{H - y0}" for x0, y0, x1, y1, lbl in regions if lbl == "table"]
+        H = page.rect.height
+    except Exception:
+        return []
+    regions = _LAYOUT_WORKER.regions(pdf_path, pno)
+    if not regions:
+        return []
+    areas = [f"{x0},{H - y1},{x1},{H - y0}"
+             for x0, y0, x1, y1, lbl in regions if lbl == "table"]
     if not areas:
         return []
     out = []
@@ -185,8 +273,27 @@ def harvest_images(page, pageno, chart_dir, meta_rows, doc_key):
     return n
 
 
+def is_real_pdf(pdf_path):
+    """Cheap header sanity check (skips HTML-dump and truncated .pdf files).
+
+    Note: this does NOT prevent layout-model crashes. Measured 2026-09-21: a
+    file with a valid %PDF- header still segfaulted pymupdf-layout, so the
+    subprocess isolation in LayoutWorker is the real defense; this is just a
+    fast pre-filter that avoids pointless work.
+    """
+    try:
+        with open(pdf_path, "rb") as f:
+            return f.read(5) == b"%PDF-"
+    except OSError:
+        return False
+
+
 def process_one(pdf_path, out_root, skip_tables=False, gated_layout=True):
     import pymupdf
+    if not is_real_pdf(pdf_path):
+        rel = os.path.relpath(pdf_path, REPO)
+        return {"doc": rel, "error": "not-a-pdf (quarantined: bad header)",
+                "pages": 0, "blocks": 0, "tables": 0, "images": 0, "routes": {}}
     rel = os.path.relpath(pdf_path, REPO)
     stem = os.path.splitext(os.path.basename(pdf_path))[0]
     source = rel.split(os.sep)[1] if len(rel.split(os.sep)) > 2 else "root"
@@ -210,10 +317,8 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=True):
                 t_rows.append(b)
         if route in ("text", "image-heavy"):
             page_tables = extract_tables_union(pdf_path, pno, skip_tables)
-            if gated_layout and page_tables and needs_layout(pdf_path, pno, page_tables):
-                page_tables.extend(layout_tables(pdf_path, pno))
-            elif gated_layout and not page_tables:
-                page_tables.extend(layout_tables(pdf_path, pno))
+            if gated_layout and (not page_tables or needs_layout(pdf_path, pno, page_tables)):
+                page_tables.extend(layout_tables(page, pdf_path, pno))
             for t in page_tables:
                 t.update({"page": pno})
                 tab_rows.append(t)

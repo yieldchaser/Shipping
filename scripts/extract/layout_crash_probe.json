@@ -1,0 +1,336 @@
+{
+ "tally": {
+  "ok": 40,
+  "CRASH": 1
+ },
+ "probed": 41,
+ "results": [
+  {
+   "status": "ok",
+   "regions": 0,
+   "err": null,
+   "secs": 7.7,
+   "path": "data\\cftc_statements\\raw_pdf\\BDRY\\BDRY_March-2019.pdf",
+   "root": "data/cftc_statements"
+  },
+  {
+   "status": "ok",
+   "regions": 2,
+   "err": null,
+   "secs": 7.5,
+   "path": "data\\reports\\seabrokers\\pdfs\\2024-11-01_market-report-november-december-2024.pdf",
+   "root": "data/reports/seabrokers"
+  },
+  {
+   "status": "CRASH",
+   "exitcode": 3221225477,
+   "secs": 5.3,
+   "path": "docs\\research\\Subscription Plans \u2013 UN Comtrade Help Center.pdf",
+   "root": "docs"
+  },
+  {
+   "status": "ok",
+   "regions": 0,
+   "err": null,
+   "secs": 8.6,
+   "path": "reports\\Lloyds_Maritime_Atlas_24th_Edition.pdf",
+   "root": "reports/"
+  },
+  {
+   "status": "ok",
+   "regions": 0,
+   "err": null,
+   "secs": 6.1,
+   "path": "reports\\breakwave\\pdfs\\2024-06-28_risk-on-tone-across-markets-pushed-commodities-higher_commodity-call-metals-coming-into-po_30c0f47e66b7.pdf",
+   "root": "reports/breakwave"
+  },
+  {
+   "status": "ok",
+   "regions": 9,
+   "err": null,
+   "secs": 8.4,
+   "path": "reports\\drybulk\\2024\\2024-07-09_Breakwave_Dry_Bulk.pdf",
+   "root": "reports/drybulk"
+  },
+  {
+   "status": "ok",
+   "regions": 9,
+   "err": null,
+   "secs": 8.7,
+   "path": "reports\\hellenic\\shipbuilding\\pdfs\\2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 5,
+   "err": null,
+   "secs": 13.7,
+   "path": "reports\\hellenic\\demolition\\pdfs\\2023-08-29_Week-34-2023-Athenian-Demo-Report.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 21,
+   "err": null,
+   "secs": 13.4,
+   "path": "reports\\hellenic\\demolition\\pdfs\\2022-01-03_2022-01-03PaE_org.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 9,
+   "err": null,
+   "secs": 12.3,
+   "path": "reports\\hellenic\\shipbuilding\\pdfs\\2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 7,
+   "err": null,
+   "secs": 10.7,
+   "path": "reports\\hellenic\\iron_ore\\pdfs\\2022-12-29_mmi-daily-iron-ore-index-report-december-29-2022_mmi-daily-iron-ore-report-for-29th-d_1a65f33a38f9.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 8,
+   "err": null,
+   "secs": 10.2,
+   "path": "reports\\hellenic\\iron_ore\\pdfs\\2022-07-19_mmi-daily-iron-ore-index-report-july-19-2022_mmi-daily-iron-ore-report-for-19th-j_6287b6ff4433.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 7,
+   "err": null,
+   "secs": 10.4,
+   "path": "reports\\hellenic\\iron_ore\\pdfs\\2021-11-01_mmi-daily-iron-ore-index-report-november-01-2021_mmi-daily-iron-ore-report-for-novemb_16786a16b50e.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 9,
+   "err": null,
+   "secs": 14.1,
+   "path": "reports\\hellenic\\shipbuilding\\pdfs\\2022-04-08_clarkson-platou-hellas-sp-weekly-bulletin-134_report-08-04-2022_bf705fe0437c.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 12,
+   "err": null,
+   "secs": 13.6,
+   "path": "reports\\hellenic\\shipbuilding\\pdfs\\2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf",
+   "root": "reports/hellenic"
+  },
+  {
+   "status": "ok",
+   "regions": 16,
+   "err": null,
+   "secs": 8.4,
+   "path": "reports\\poten\\pdfs\\2020\\Weekly-Opinion-18-Sep-2020-Food-For-Thought-3.pdf",
+   "root": "reports/poten"
+  },
+  {
+   "status": "ok",
+   "regions": 11,
+   "err": null,
+   "secs": 6.3,
+   "path": "reports\\poten\\pdfs\\2010\\Tanker_Opinion_20100129.pdf",
+   "root": "reports/poten"
+  },
+  {
+   "status": "ok",
+   "regions": 12,
+   "err": null,
+   "secs": 9.8,
+   "path": "reports\\poten\\pdfs\\2013\\Tanker_Opinion_20130426.pdf",
+   "root": "reports/poten"
+  },
+  {
+   "status": "ok",
+   "regions": 10,
+   "err": null,
+   "secs": 11.5,
+   "path": "reports\\poten\\pdfs\\2010\\Tanker_Opinion_20100212.pdf",
+   "root": "reports/poten"
+  },
+  {
+   "status": "ok",
+   "regions": 13,
+   "err": null,
+   "secs": 11.8,
+   "path": "reports\\poten\\pdfs\\2026\\Weekly Opinion - 27 Feb 2026 - Will He Or Wont He.pdf",
+   "root": "reports/poten"
+  },
+  {
+   "status": "ok",
+   "regions": 9,
+   "err": null,
+   "secs": 5.4,
+   "path": "reports\\shipbrokers\\gibson\\2021\\gibson_2021_2021-12-17-A-Year-to-Forget.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 7,
+   "err": null,
+   "secs": 6.2,
+   "path": "reports\\shipbrokers\\star_asia\\2023\\star_asia_2023_W45_Market-report-Week-45.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 15,
+   "err": null,
+   "secs": 7.4,
+   "path": "reports\\shipbrokers\\advanced_shipping\\2022\\advanced_shipping_2022_W40_ADVANCED-MARKET-REPORT-WEEK-40.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 10,
+   "err": null,
+   "secs": 6.2,
+   "path": "reports\\shipbrokers\\ssy\\2024\\ssy_2024_20240510-Atlantic-Capesize-Report.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 12,
+   "err": null,
+   "secs": 16.3,
+   "path": "reports\\shipbrokers\\xclusiv\\2021\\xclusiv_2021_xclusiv_weekly_2021_11_08.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 11,
+   "err": null,
+   "secs": 36.0,
+   "path": "reports\\shipbrokers\\affinity\\2021\\affinity_2021_Affinity-Tanker-Weekly-17.09.2021-HSN.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 7,
+   "err": null,
+   "secs": 6.8,
+   "path": "reports\\shipbrokers\\agora\\2025\\agora_2025_W19_AGORA.-Week-19-2025.-Snapshot-of-Commercial-Indicators.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 6,
+   "err": null,
+   "secs": 5.1,
+   "path": "reports\\shipbrokers\\star_asia\\2025\\star_asia_2025_W17_Market-report-Week-17.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 10,
+   "err": null,
+   "secs": 8.5,
+   "path": "reports\\shipbrokers\\other\\2022\\other_2022_20-May-2022.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 17,
+   "err": null,
+   "secs": 8.0,
+   "path": "reports\\shipbrokers\\advanced_shipping\\2025\\advanced_shipping_2025_W13_ADVANCED-MARKET-REPORT-WEEK-13.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 13,
+   "err": null,
+   "secs": 7.7,
+   "path": "reports\\shipbrokers\\carriers\\2025\\carriers_2025_W01_WK-0102-25-CARRIERS_SP-MARKET-REPORT.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 9,
+   "err": null,
+   "secs": 12.4,
+   "path": "reports\\shipbrokers\\xclusiv\\2022\\xclusiv_2022_xclusiv_weekly_2022_02_07.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 15,
+   "err": null,
+   "secs": 7.8,
+   "path": "reports\\shipbrokers\\advanced_shipping\\2024\\advanced_shipping_2024_W07_ADVANCED-MARKET-REPORT-WEEK-8.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 15,
+   "err": null,
+   "secs": 7.8,
+   "path": "reports\\shipbrokers\\xclusiv\\2025\\xclusiv_2025_xclusiv-2025_07_28.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 2,
+   "err": null,
+   "secs": 5.4,
+   "path": "reports\\shipbrokers\\banchero_costa\\2024\\banchero_costa_2024_W50_Bancosta-Weekly-2024-50.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 19,
+   "err": null,
+   "secs": 6.4,
+   "path": "reports\\shipbrokers\\intermodal\\2021\\intermodal_2021_W29_Intermodal-Report-Week-29-2021.pdf",
+   "root": "reports/shipbrokers"
+  },
+  {
+   "status": "ok",
+   "regions": 25,
+   "err": null,
+   "secs": 5.5,
+   "path": "reports\\signal\\pdfs\\fueleu_maritime_-_green_european_maritime_space.pdf",
+   "root": "reports/signal"
+  },
+  {
+   "status": "ok",
+   "regions": 8,
+   "err": null,
+   "secs": 10.3,
+   "path": "reports\\tankers\\2025\\2025-07-29_Breakwave_Tankers.pdf",
+   "root": "reports/tankers"
+  },
+  {
+   "status": "ok",
+   "regions": 6,
+   "err": null,
+   "secs": 7.3,
+   "path": "scratch\\ppa_pdf\\5bb57b8b2a1b.pdf",
+   "root": "scratch"
+  },
+  {
+   "status": "ok",
+   "regions": 8,
+   "err": null,
+   "secs": 7.7,
+   "path": "scratch\\ppa_pdf\\44e7bb4fc04e.pdf",
+   "root": "scratch"
+  },
+  {
+   "status": "ok",
+   "regions": 3,
+   "err": null,
+   "secs": 5.4,
+   "path": "scripts\\drewry_ais_pdfs\\Drewry_AIS_PDF_Product_LR1_Week23_20251.pdf",
+   "root": "scripts/drewry_ais_pdfs"
+  }
+ ]
+}
