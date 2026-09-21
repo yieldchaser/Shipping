@@ -6182,6 +6182,23 @@
 .fearn-table .mono {
   font-family: 'IBM Plex Mono', monospace;
 }
+/* S&P deal ledger comment column: clamped by default so the table stays scannable,
+   unclamped when the Wrap Comments toggle is on so long broker notes read in full.
+   Kept as CSS (not inline styles) because inline styles outrank these rules. */
+#fearnSnpTable td.snp-comment {
+  font-size: var(--fs-micro);
+  color: var(--text-muted);
+  max-width: 180px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#fearnSnpTable.snp-wrap td.snp-comment {
+  max-width: none;
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  word-break: break-word;
+}
 .fearn-search-box {
   display: flex;
   gap: 8px;
@@ -12077,7 +12094,7 @@ html.auth-locked body > *:not(#authGateModal) {
       <!-- Signal Methodology -->
       <div class="collapsible-section">
         <button class="collapsible-toggle" id="methodologyToggle" onclick="toggleMethodology()" data-tooltip="Expand or collapse the plain-language explanation of how every signal and statistic on this dashboard is computed.">
-          <span>ℹ️ How Signals &amp; Statistics Are Calculated</span>
+          <span>How Signals &amp; Statistics Are Calculated</span>
           <span class="toggle-arrow">▼</span>
         </button>
         <div class="collapsible-content" id="methodologyContent">
@@ -12642,7 +12659,7 @@ html.auth-locked body > *:not(#authGateModal) {
             </div>
             <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
               <div id="deconstKpiWAM" style="display:inline-flex;align-items:center;gap:5px;background:rgba(88,166,255,0.08);border:1px solid rgba(88,166,255,0.25);padding:2px 8px;border-radius:4px;font-size:11px;font-weight:700;color:var(--accent);" data-tooltip="<div class='rt-title'>Portfolio Weighted Average Maturity (WAM)</div><div class='rt-row'><span class='rt-label'>Formula</span><span class='rt-val'>&Sigma; (Weight_i &times; DaysToExpiry_i)</span></div><div class='rt-note'>Measures the dollar-weighted maturity and duration of all constituent futures holdings across the forward curve.</div>" data-tt-type="etf-wam-kpi">
-                <span>⏳ WAM: <strong id="deconstWAMVal" style="color:var(--text-bright);">-- Days</strong></span>
+                <span>WAM: <strong id="deconstWAMVal" style="color:var(--text-bright);">-- Days</strong></span>
               </div>
               <div id="deconstBaselineNote" style="color:var(--text-muted);font-weight:600;" data-tooltip="<div class='rt-title'>Baseline Contemporaneous Status</div><div class='rt-note'>Indicates whether contemporaneous NAV and shares outstanding are verified for per-share price projections.</div>" data-tt-type="baseline-note">
                 Baseline Status: VERIFIED CONTEMPORANEOUS
@@ -14110,7 +14127,7 @@ html.auth-locked body > *:not(#authGateModal) {
         <!-- SECONDARY: PERIOD TC TERM STRUCTURE CURVES -->
         <div class="chart-container mb-20">
           <div class="chart-header">
-            <div class="chart-title" data-tooltip="Period time-charter rate assessment curves across standard fixture tenors (4-6M, 1Y, 2Y, 3Y) from weekly shipbroker assessments. Hover the chart for per-point values from the active cache.">Institutional Period TC Term Structure <span id="fearnTcTitleNote" style="font-size:11px;color:var(--text-muted);font-weight:400;">· Baltic &amp; Fearnleys Weekly Assessments (2000–2026)</span></div>
+            <div class="chart-title" data-tooltip="Period time-charter rate assessment curves across standard fixture tenors (4-6M, 1Y, 2Y, 3Y) from weekly shipbroker assessments. Hover the chart for per-point values from the active cache.">Institutional Period TC Term Structure <span id="fearnTcTitleNote" style="font-size:11px;color:var(--text-muted);font-weight:400;">· Baltic &amp; Fearnleys Weekly Assessments (2000–2026) · 2Y/3Y weekly only since 2021</span></div>
             <div id="fearnTcMeta" data-tt-type="fearn-tc-chart" style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;cursor:help;"></div>
           </div>
           <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px;">
@@ -14522,6 +14539,7 @@ html.auth-locked body > *:not(#authGateModal) {
         <option value="all">All</option>
       </select>
     </div>
+    <button class="cp-page-btn" id="btnFearnSnpWrap" onclick="toggleFearnSnpWrap()" style="padding:2px 8px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Toggle comment text wrapping in table">Wrap Comments</button>
     <button class="cp-page-btn" onclick="exportFearnleysSnpCsv()" style="padding:2px 8px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Export current filtered S&amp;P deals to CSV">Export CSV</button>
     <div style="display:flex;align-items:center;gap:6px;margin-left:auto;flex-wrap:wrap;">
       <span style="font-size:var(--fs-micro);color:var(--text-muted);" id="fearnSnpCountLabel">Loading verified deals…</span>
@@ -31749,6 +31767,22 @@ function prevFearnSnpPage() {
   }
 }
 
+// Toggle full comment wrapping in the S&P deal ledger.
+// Default clamps the comment column with an ellipsis so the table stays scannable;
+// the toggle reveals the full broker note in place instead of only via tooltip.
+function toggleFearnSnpWrap() {
+  var table = document.getElementById('fearnSnpTable');
+  var btn = document.getElementById('btnFearnSnpWrap');
+  if (!table) return;
+  var on = table.classList.toggle('snp-wrap');
+  if (btn) {
+    btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    btn.textContent = on ? 'Wrap Comments: On' : 'Wrap Comments';
+    btn.style.borderColor = on ? 'var(--accent)' : 'var(--border)';
+    btn.style.color = on ? 'var(--accent)' : 'var(--text)';
+  }
+}
+
 function nextFearnSnpPage() {
   FEARNLEYS_CONTROLLER.snpPage = (FEARNLEYS_CONTROLLER.snpPage || 1) + 1;
   renderFearnleysSnpTable();
@@ -31966,7 +32000,7 @@ function renderFearnleysSnpTable() {
         <td class="mono" style="text-align:right;font-weight:600;color:var(--accent);">${priceStr}</td>
         <td class="mono" style="text-align:right;color:#e3b341;">${usdPerDwtStr}</td>
         <td style="font-weight:500;">${buyerStr}</td>
-        <td style="font-size:var(--fs-micro);color:var(--text-muted);max-width:180px;overflow:hidden;text-overflow:ellipsis;" title="${commentStr}">${commentStr}</td>
+        <td class="snp-comment" title="${commentStr}">${commentStr}</td>
       </tr>
     `;
   });
@@ -42255,7 +42289,7 @@ function _paintBrief(el, tsEl, data) {
           '</div>' +
           '<div class="etf-brief-subhead" style="display:flex;justify-content:space-between;align-items:center;margin-top:6px;">' +
             '<span>Constituent Portfolio Weights &amp; NAV Beta</span>' +
-            '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-weight:normal;text-transform:none;" data-tooltip="Estimated percentage move in ETF NAV if this specific constituent freight rate rises by +10%.">NAV Sensitivity (if rate rises +10%) ℹ</span>' +
+            '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-weight:normal;text-transform:none;" data-tooltip="Estimated percentage move in ETF NAV if this specific constituent freight rate rises by +10%.">NAV Sensitivity (if rate rises +10%)</span>' +
           '</div>' +
           '<div class="etf-beta-grid">' +
             '<div class="etf-beta-item">' +
@@ -42312,7 +42346,7 @@ function _paintBrief(el, tsEl, data) {
           '</div>' +
           '<div class="etf-brief-subhead" style="display:flex;justify-content:space-between;align-items:center;margin-top:6px;">' +
             '<span>Constituent Portfolio Weights &amp; NAV Beta</span>' +
-            '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-weight:normal;text-transform:none;" data-tooltip="Estimated percentage move in ETF NAV if this specific constituent freight rate rises by +10%.">NAV Sensitivity (if rate rises +10%) ℹ</span>' +
+            '<span style="font-size:var(--fs-micro);color:var(--text-muted);font-weight:normal;text-transform:none;" data-tooltip="Estimated percentage move in ETF NAV if this specific constituent freight rate rises by +10%.">NAV Sensitivity (if rate rises +10%)</span>' +
           '</div>' +
           '<div class="etf-beta-grid">' +
             '<div class="etf-beta-item etf-beta-item-tanker">' +
@@ -52992,12 +53026,12 @@ function renderBunkersSpotTable() {
 
     var vlsfoText = p.vlsfo ? '$' + p.vlsfo.toFixed(2) : '—';
     var vlsfoDisplay = vlsfoFlags.length ?
-      ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (vlsfoFlags[0].zscore > 0 ? '+' : '') + vlsfoFlags[0].zscore + 'σ vs mean $' + vlsfoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">️</span> ' + vlsfoText + '</span>') :
+      ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (vlsfoFlags[0].zscore > 0 ? '+' : '') + vlsfoFlags[0].zscore + 'σ vs mean $' + vlsfoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;">' + vlsfoText + '</span>') :
       vlsfoText;
 
     var mgoText = p.mgo ? '$' + p.mgo.toFixed(2) : '—';
     var mgoDisplay = mgoFlags.length ?
-      ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (mgoFlags[0].zscore > 0 ? '+' : '') + mgoFlags[0].zscore + 'σ vs mean $' + mgoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">️</span> ' + mgoText + '</span>') :
+      ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (mgoFlags[0].zscore > 0 ? '+' : '') + mgoFlags[0].zscore + 'σ vs mean $' + mgoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;">' + mgoText + '</span>') :
       mgoText;
 
     var col5Text = '';
@@ -53006,7 +53040,7 @@ function renderBunkersSpotTable() {
     } else {
       var hsfoText = p.ifo380 ? '$' + p.ifo380.toFixed(2) : '—';
       col5Text = hsfoFlags.length ?
-        ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (hsfoFlags[0].zscore > 0 ? '+' : '') + hsfoFlags[0].zscore + 'σ vs mean $' + hsfoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;"><span style="font-size:var(--fs-micro);">️</span> ' + hsfoText + '</span>') :
+        ('<span class="price-outlier-guard" title="OUTLIER GUARD: 3σ anomaly (' + (hsfoFlags[0].zscore > 0 ? '+' : '') + hsfoFlags[0].zscore + 'σ vs mean $' + hsfoFlags[0].mean.toFixed(1) + ')" style="display:inline-flex;align-items:center;gap:3px;background:rgba(227,179,65,0.18);color:#e3b341;border:1px solid rgba(227,179,65,0.45);border-radius:3px;padding:0 4px;font-weight:700;">' + hsfoText + '</span>') :
         hsfoText;
     }
 
@@ -53957,7 +53991,7 @@ function openBunkerPortDetail(portIdent) {
       var flagsTxt = p.outlier_flags.map(function(f) {
         return f.grade + ': $' + f.val.toFixed(2) + ' (' + (f.zscore > 0 ? '+' : '') + f.zscore + 'σ vs mean $' + f.mean.toFixed(1) + ')';
       }).join(' · ');
-      outlierBox.innerHTML = '<div style="font-weight:700; color:#f85149; margin-bottom:2px;">️ 3σ STATISTICAL OUTLIER GUARD ACTIVE</div><div style="color:#c9d1d9; font-size:11px;">' + escapeHtml(flagsTxt) + ' — The price is preserved from the authentic historical archive but flagged due to high variance against global cluster distributions.</div>';
+      outlierBox.innerHTML = '<div style="font-weight:700; color:#f85149; margin-bottom:2px;">3σ STATISTICAL OUTLIER GUARD ACTIVE</div><div style="color:#c9d1d9; font-size:11px;">' + escapeHtml(flagsTxt) + ' — The price is preserved from the authentic historical archive but flagged due to high variance against global cluster distributions.</div>';
     } else {
       outlierBox.style.display = 'none';
     }
@@ -56285,7 +56319,7 @@ function renderFearnFxTable() {
 
     var vHtml = '<div style="font-weight:600;color:var(--text-bright);">' + escapeHtml(r.v || '—') + '</div>';
     if (r.ow) {
-      vHtml += '<div style="font-size:10px;color:var(--text-muted);line-height:1.2;" title="Shipowner: ' + escapeHtml(r.ow) + '">🏢 ' + escapeHtml(r.ow) + '</div>';
+      vHtml += '<div style="font-size:10px;color:var(--text-muted);line-height:1.2;" title="Shipowner: ' + escapeHtml(r.ow) + '">' + escapeHtml(r.ow) + '</div>';
     }
 
     var routeText = r.rt || '';

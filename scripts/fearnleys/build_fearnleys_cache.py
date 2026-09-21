@@ -286,7 +286,7 @@ def build_fixture_analytics():
             "fixtures": int(count),
             "market_share_pct": sanitize_float(share_pct, 2),
             "primary_segment": str(top_seg),
-            "primary_route": str(top_route)[:45],
+            "primary_route": str(top_route).strip(),
             "dept": str(c_rows["department"].value_counts().index[0]) if not c_rows["department"].dropna().empty else "BULK",
         })
 
@@ -297,6 +297,8 @@ def build_fixture_analytics():
         recent_fixtures.append({
             "date": str(r["dt"].date()) if pd.notna(r["dt"]) else str(r.get("date")),
             "vessel": str(r.get("vessel") or "TBN").strip().upper(),
+            "owner": str(r.get("owner") or "").strip(),
+            "imo": str(r.get("imo") or "").strip(),
             "segment": str(r.get("segment") or "Various").strip(),
             "charterer": str(r.get("charterer") or "Undisclosed").strip().upper(),
             "route": str(r.get("route") or "N/A").strip(),
@@ -304,7 +306,7 @@ def build_fixture_analytics():
             "period": str(r.get("period") or "").strip(),
             "load_port": str(r.get("load_port") or "").strip(),
             "discharge_port": str(r.get("discharge_port") or "").strip(),
-            "comment": str(r.get("comment") or "")[:120].strip(),
+            "comment": str(r.get("comment") or "").strip(),
         })
 
     return {
@@ -364,7 +366,7 @@ def build_snp_deals():
             "price_usd_m": price,
             "usd_per_dwt": usd_per_dwt,
             "buyer": buyer_clean,
-            "comment": str(r.get("comment") or "")[:120].strip(),
+            "comment": str(r.get("comment") or "").strip(),
         })
 
     return {
@@ -395,7 +397,7 @@ def build_broker_sentiment():
             "type": str(r.get("comment_type") or "Market").strip(),
             "subtype": str(r.get("comment_subtype") or "").strip(),
             "name": str(r.get("comment_name") or "Weekly Color").strip(),
-            "text": str(r.get("text") or "")[:280].strip(),
+            "text": str(r.get("text") or "").strip(),
         })
 
     return {
