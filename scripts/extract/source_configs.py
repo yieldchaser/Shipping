@@ -92,9 +92,18 @@ TOOL_LADDER = [
     ("pymupdf-layout", "region labels + table bboxes + header/footer strip; constrains extractors"),
     ("camelot-stream+areas", "primary table extractor (15/15 golden w/ layout areas)"),
     ("pdfplumber", "verifier; union fallback where layout finds no boxes"),
-    ("docling", "auditor/challenger on samples + quarantined pages; bulk only with GPU"),
+    ("tabula-stream", "revived 2026-09-21 (Temurin JRE 21 via winget); arbiter where camelot/plumber disagree (9/15 golden)"),
+    ("docling", "GATEKEEPER: golden + 5% sample cross-check per source, quarantine primary; bulk only with GPU (100-1900s/doc CPU)"),
     ("vlm-ocr", "deferred: scanned/garbled quarantine queue (LightOnOCR-2/PaddleOCR-VL class)"),
 ]
+
+# Bench record 2026-09-21, Star Asia W35 p2 (15 golden cells), SSY, Breakwave p2
+BENCH = {"camelot-stream": "13/15, 4/4, 4/4", "pdfplumber": "13/15, 4/4, 1/4",
+         "union": "15/15 golden", "layout+areas": "15/15 single-engine",
+         "docling": "15/15 Star Asia (1901s), 3/4 Breakwave (238s)",
+         "tabula-stream": "9/15", "pymupdf-tables": "0 (router only)",
+         "img2table": "rejected: cv2 niBlackThreshold API incompat in this env",
+         "marker/mineru": "rejected bulk: GPU-hungry on CPU-only box; mineru ~2min/pg CPU"}
 
 QUARANTINE_GLOBAL = ["lion_2024 misfile", "other/ triage bucket", "rapport-2 stub",
                      "baltic assets/", "breakwave corrupt HTML-as-PDF",
