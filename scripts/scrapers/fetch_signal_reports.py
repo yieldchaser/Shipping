@@ -23,10 +23,11 @@ import pandas as pd
 BASE_DIR = "reports/signal"
 DIR_MONITORS = os.path.join(BASE_DIR, "monitors")
 DIR_NEWSROOM = os.path.join(BASE_DIR, "newsroom")
+DIR_NEWSLETTERS = os.path.join(BASE_DIR, "newsletters")
 DIR_HTML = os.path.join(BASE_DIR, "html")
 DIR_PDFS = os.path.join(BASE_DIR, "pdfs")
 
-for d in [DIR_MONITORS, DIR_NEWSROOM, DIR_HTML, DIR_PDFS]:
+for d in [DIR_MONITORS, DIR_NEWSROOM, DIR_NEWSLETTERS, DIR_HTML, DIR_PDFS]:
     os.makedirs(d, exist_ok=True)
 
 MANIFEST_PATH = os.path.join(BASE_DIR, "signal_manifest.csv")
@@ -68,9 +69,11 @@ def get_all_target_urls():
 
     monitors = [u for u in urls if "/weekly-market-monitor/" in u and u != "https://www.thesignalgroup.com/weekly-market-monitor"]
     newsroom = [u for u in urls if "/newsroom/" in u and u != "https://www.thesignalgroup.com/newsroom"]
-    
-    print(f"[+] Total Targets: {len(monitors)} Weekly Market Monitors and {len(newsroom)} Newsroom Reports.")
-    return monitors, newsroom
+    # Monthly newsletters (product updates + month-end index snapshots); /blog/ is SEO filler, excluded deliberately
+    newsletters = [u for u in urls if "/newsletter/" in u and "/newsletter/$" not in u]
+
+    print(f"[+] Total Targets: {len(monitors)} Weekly Market Monitors, {len(newsroom)} Newsroom Reports and {len(newsletters)} Newsletters.")
+    return monitors, newsroom, newsletters
 
 def parse_and_save(url, section):
     slug = url.rstrip("/").split("/")[-1]
@@ -78,7 +81,9 @@ def parse_and_save(url, section):
     md_filename = f"{slug}.md"
     
     html_path = os.path.join(DIR_HTML, html_filename)
-    target_dir = DIR_MONITORS if section == "monitors" else DIR_NEWSROOM
+    section_dirs = {"monitors": DIR_MONITORS, "newsroom": DIR_NEWSROOM,
+                    "newsletters": DIR_NEWSLETTERS}
+    target_dir = section_dirs.get(section, DIR_NEWSROOM)
     md_path = os.path.join(target_dir, md_filename)
     
     # Check if already harvested
@@ -218,9 +223,9 @@ def parse_and_save(url, section):
 
 def main():
     print("=== STARTING THE SIGNAL GROUP HARVESTER ===")
-    monitors, newsroom = get_all_target_urls()
-    
-    all_targets = [(u, "monitors") for u in monitors] + [(u, "newsroom") for u in newsroom]
+    monitors, newsroom, newsletters = get_all_target_urls()
+
+    all_targets = [(u, "monitors") for u in monitors] + [(u, "newsroom") for u in newsroom] + [(u, "newsletters") for u in newsletters]
     print(f"[*] Total target articles to ingest: {len(all_targets)}")
     
     manifest_records = []
@@ -242,6 +247,7 @@ def main():
     print(f"[+] Total Reports Harvested: {len(df_manifest)}")
     print(f"[+] Monitors: {len(df_manifest[df_manifest['section'] == 'monitors'])}")
     print(f"[+] Newsroom: {len(df_manifest[df_manifest['section'] == 'newsroom'])}")
+    print(f"[+] Newsletters: {len(df_manifest[df_manifest['section'] == 'newsletters'])}")
 
 if __name__ == "__main__":
     main()
