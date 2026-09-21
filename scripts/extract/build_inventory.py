@@ -29,7 +29,11 @@ ROOTS = [
     "reports/signal",
     "reports/drewry",
     "docs",
+    "scratch",
 ]
+
+# Top-level-only PDF globs (dirs already walked recursively above would double-count)
+TOP_LEVEL_GLOBS = ["reports/*.pdf"]
 
 
 def md5_of(fp, chunk=1 << 20):
@@ -74,6 +78,18 @@ def main():
                 "root": root,
             })
     total_bytes = sum(r["bytes"] for r in rows)
+    for pat in TOP_LEVEL_GLOBS:
+        for fp in glob.glob(os.path.join(REPO, pat)):
+            if fp in seen:
+                continue
+            seen.add(fp)
+            try:
+                st = os.stat(fp)
+            except OSError:
+                continue
+            rel = os.path.relpath(fp, REPO)
+            rows.append({"path": rel, "bytes": st.st_size, "mtime": st.st_mtime,
+                         "md5": md5_of(fp), "source": "textbooks", "root": "reports/"})
     seen_md5 = set()
     dups = 0
     for r in rows:
