@@ -215,13 +215,37 @@ def check_quality(out_root, actions, info, sample=40):
                        f"dropping more values than the text layer confirms)")
 
 
-def check_new_failures(checkpoint, actions, info):
+def check_new_failures(checkpoint, actions, info, out_root=None):
     """Flag failure modes not already known/explained."""
     if not os.path.exists(checkpoint):
         return
     import collections as _c
     import json as _json
+
+    # The crash-recovery pass re-extracted documents that died when
+    # extract_all.py was transiently partially-written (workers imported a file
+    # that still had null bytes). Their checkpoint row still reads CRASH because
+    # the live batch holds that file open for append and rewriting it would drop
+    # completed rows, so the recovery log is the source of truth for what has
+    # since been fixed. Without this the 204 recovered rows would be reported as
+    # a NEW failure mode on every single run.
+    recovered = set()
+    rec_log = os.path.join(os.path.dirname(checkpoint), "crash_recovery.jsonl")
+    if os.path.exists(rec_log):
+        for line in open(rec_log, encoding="utf-8", errors="replace"):
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rr = _json.loads(line)
+            except _json.JSONDecodeError:
+                continue
+            if rr.get("status") in ("ok", "provenance-only", "no-extractable-content"):
+                recovered.add(rr.get("path"))
+    info["crash_recovered_docs"] = len(recovered)
+
     kinds = _c.Counter()
+    recovered_seen = 0
     for line in open(checkpoint, encoding="utf-8"):
         line = line.strip()
         if not line:
@@ -230,14 +254,64 @@ def check_new_failures(checkpoint, actions, info):
             r = _json.loads(line)
         except _json.JSONDecodeError:
             continue
-        if r.get("status") not in ("ok",):
-            kinds[f"{r.get('status')}:{str(r.get('error',''))[:40]}"] += 1
+        status = r.get("status")
+        if status == "CRASH" and r.get("path") in recovered:
+            recovered_seen += 1
+            continue
+        if status not in ("ok",):
+            # A failure row whose artefacts now exist has been re-extracted by a
+            # recovery pass (crash batch, trailing-dot stems, silent-empty). The
+            # checkpoint cannot be rewritten while the live batch holds it open,
+            # so the artefacts on disk are the honest signal that it is resolved.
+            # Without this every recovered document alarms as a NEW failure mode
+            # on every run - the alarm becomes noise and stops meaning anything.
+            if _has_artefacts(out_root, r.get("path")):
+                recovered_seen += 1
+                continue
+            kinds[f"{status}:{str(r.get('error',''))[:40]}"] += 1
+    if recovered_seen:
+        info["crash_rows_resolved"] = recovered_seen
     known = ("not-a-pdf", "timeout", "no-extractable-content", "provenance-only")
     unknown = {k: v for k, v in kinds.items()
                if not any(kn in k for kn in known)}
     info["failure_kinds"] = dict(kinds)
     if unknown:
         actions.append(f"NEW failure mode(s) not previously seen: {unknown}")
+
+
+def _has_artefacts(out_root, rel_path):
+    """True when a document's output directory exists with real text in it.
+
+    Mirrors the extractor's own naming (source subdir + Windows-safe stem) so a
+    failure row can be recognised as already recovered. Kept as a local probe
+    rather than importing extract_all, which pulls in the PDF stack and would
+    make this diagnostic script depend on it.
+    """
+    import re as _re
+
+    if not rel_path:
+        return False
+    p = str(rel_path).replace("\\", "/")
+    stem = os.path.splitext(os.path.basename(p))[0]
+    stem = _re.sub(r"[ .]+$", "", stem)          # extract_all.safe_stem
+    if not stem:
+        return False
+    parts = p.split("/")
+    # source is the first path segment, except under reports/ where it is the
+    # second (reports/<lineage>/...), matching extract_all.derive_source.
+    candidates = []
+    if len(parts) > 1 and parts[0] == "reports":
+        candidates.append(parts[1])
+    if len(parts) > 1:
+        candidates.append(parts[0])
+    for src in candidates:
+        tj = os.path.join(out_root, src, stem, "text.jsonl")
+        try:
+            if os.path.getsize(tj) > 0:
+                return True
+        except OSError:
+            continue
+    return False
 
 
 def check_golden(out_root, actions, info):
@@ -295,7 +369,7 @@ def main():
     check_outputs(os.path.join(a.out, "corpus"), actions, info,
                   checkpoint=a.checkpoint)
     check_quality(os.path.join(a.out, "corpus"), actions, info)
-    check_new_failures(a.checkpoint, actions, info)
+    check_new_failures(a.checkpoint, actions, info, os.path.join(a.out, "corpus"))
     check_golden(os.path.join(a.out, "corpus"), actions, info)
     check_db(a.out, actions, info)
     check_disk(a.out, actions, info)
