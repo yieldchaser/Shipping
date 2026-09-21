@@ -7,6 +7,7 @@ Usage: python scripts/extract/build_inventory.py [--out DIR]
 """
 import argparse
 import glob
+import hashlib
 import json
 import os
 import sys
@@ -29,6 +30,17 @@ ROOTS = [
     "reports/drewry",
     "docs",
 ]
+
+
+def md5_of(fp, chunk=1 << 20):
+    h = hashlib.md5()
+    with open(fp, "rb") as f:
+        while True:
+            b = f.read(chunk)
+            if not b:
+                break
+            h.update(b)
+    return h.hexdigest()
 
 
 def main():
@@ -56,15 +68,26 @@ def main():
                 "path": rel,
                 "bytes": st.st_size,
                 "mtime": st.st_mtime,
+                "md5": md5_of(fp),
                 "source": parts[1] if len(parts) > 2 and parts[0] in
                 ("reports", "data", "scripts") else parts[0],
                 "root": root,
             })
     total_bytes = sum(r["bytes"] for r in rows)
+    seen_md5 = set()
+    dups = 0
+    for r in rows:
+        if r["md5"] in seen_md5:
+            r["dup_of_content"] = True
+            dups += 1
+        else:
+            r["dup_of_content"] = False
+            seen_md5.add(r["md5"])
     with open(os.path.join(a.out, "inventory.jsonl"), "w", encoding="utf-8") as f:
         for r in sorted(rows, key=lambda r: r["path"]):
             f.write(json.dumps(r) + "\n")
     print(f"PDFs: {len(rows)}  bytes: {total_bytes / 1e9:.2f} GB")
+    print(f"unique content: {len(seen_md5)}  content-dups skipped: {dups}")
     by_root = {}
     for r in rows:
         by_root[r["root"]] = by_root.get(r["root"], 0) + 1
