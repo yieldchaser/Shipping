@@ -222,12 +222,16 @@ def parse_date_key(period_str: str) -> datetime:
     return datetime(1970, 1, 1)
 
 def process_all_statements() -> Dict[str, pd.DataFrame]:
-    with open('scratch/statement_urls.json', 'r') as f:
-        urls_meta = json.load(f)
+    try:
+        with open('scratch/statement_urls.json', 'r') as f:
+            urls_meta = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        urls_meta = {}
+        print("[*] scratch/statement_urls.json absent; falling back to URL pattern per filename")
         
     url_map = {}
     for f_name in ['BDRY', 'BWET']:
-        for item in urls_meta[f_name]:
+        for item in urls_meta.get(f_name, []):
             fname = os.path.basename(item['url'])
             url_map[fname] = item['url']
             
