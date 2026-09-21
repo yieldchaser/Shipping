@@ -60,6 +60,8 @@ data/bunkers/bunker_master_historical.json
 # Raw PDF archives
 data/reports/*/pdfs/
 data/raw/
+data/extracted/v*/
+data/extracted/inventory.jsonl
 scripts/drewry_ais_pdfs/
 reports/shipbrokers/**/*.pdf
 reports/poten/**/*.pdf
