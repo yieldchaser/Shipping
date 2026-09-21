@@ -118,9 +118,16 @@ BENCH = {"camelot-stream": "13/15, 4/4, 4/4", "pdfplumber": "13/15, 4/4, 1/4",
          "img2table": "rejected: cv2 niBlackThreshold API incompat in this env",
          "marker/mineru": "rejected bulk: GPU-hungry on CPU-only box; mineru ~2min/pg CPU"}
 
+# Layout-model crash evidence (2026-09-21): 41 docs probed in isolated
+# subprocesses -> 40 ok, 1 CRASH (exit 0xC0000005 access violation) on
+# docs/research/Subscription Plans - UN Comtrade Help Center.pdf.
+# A 2.4% crash rate would abort a bulk run without subprocess isolation;
+# the file is quarantined and isolation (LayoutWorker) stays in the code.
 QUARANTINE_GLOBAL = ["lion_2024 misfile", "other/ triage bucket", "rapport-2 stub",
                      "baltic assets/", "breakwave corrupt HTML-as-PDF",
-                     "poten unknown-01-01 stubs", "pre-2025 CFTC scans (image-only)"]
+                     "poten unknown-01-01 stubs", "pre-2025 CFTC scans (image-only)",
+                     "not-a-pdf headers (3 found: breakwave x2, signal fueleu)",
+                     "docs/research/Subscription Plans - UN Comtrade Help Center.pdf (layout segfault)"]
 
 
 def era_for(source, doc_date):
