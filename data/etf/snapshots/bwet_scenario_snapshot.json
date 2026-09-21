@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generation_timestamp_utc": "2026-09-20T09:39:59.760245+00:00",
+  "generation_timestamp_utc": "2026-09-21T05:12:03.494215+00:00",
   "fund_symbol": "BWET",
   "contract_spec_version": "2026.08.14-VERIFIED-V1",
   "holdings_snapshot_as_of_date": "2026-09-18",
@@ -20,16 +20,16 @@
     "immutable_archive_path": "data/etf/raw_holdings/BWET/2026-09-18.csv",
     "expected_registry_sha256": "a7bc1f3d91edec66e5e76285f97de8ce709bfb186f4b70a20ff8be7f33d107e6",
     "computed_archive_sha256": "a7bc1f3d91edec66e5e76285f97de8ce709bfb186f4b70a20ff8be7f33d107e6",
-    "snapshot_content_sha256": "be71c844df35b9db4934b75b446a99032b77dee91920098c78acbbd6ca6b6c57",
-    "manifest_snapshot_sha256": "be71c844df35b9db4934b75b446a99032b77dee91920098c78acbbd6ca6b6c57",
+    "snapshot_content_sha256": "496162be0d8bf2f1643bfa7308fbb3111ba85e5396aa5ad9a1a2701000516519",
+    "manifest_snapshot_sha256": "496162be0d8bf2f1643bfa7308fbb3111ba85e5396aa5ad9a1a2701000516519",
     "provenance_verified": true,
     "provenance_status": "VERIFIED_OFFICIAL_ARCHIVE"
   },
   "freshness_state": {
-    "business_day_age": 0,
+    "business_day_age": 1,
     "is_fresh": true,
     "max_freshness_limit_bdays": 3,
-    "reference_time_utc": "2026-09-20T09:39:59.760245+00:00"
+    "reference_time_utc": "2026-09-21T05:12:03.494215+00:00"
   },
   "baseline": {
     "as_of_date": "2026-09-18",
