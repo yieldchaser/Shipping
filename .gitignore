@@ -60,9 +60,9 @@ data/bunkers/bunker_master_historical.json
 # Raw PDF archives
 data/reports/*/pdfs/
 data/raw/
-data/extracted/v*/
-data/extracted/baseline/
-data/extracted/inventory.jsonl
+# Extraction output: fully regenerable derived data (26k+ files, GBs). Keep local.
+# Reproduce with scripts/extract/run_batch.py; do not commit.
+data/extracted/
 scripts/drewry_ais_pdfs/
 reports/shipbrokers/**/*.pdf
 reports/poten/**/*.pdf
