@@ -1,0 +1,256 @@
+{
+ "breakwave": {
+  "docs": 0,
+  "pages_with_numbers": 0,
+  "grid_captured": 0,
+  "text_total": 0,
+  "grid_pct": null,
+  "per_doc": []
+ },
+ "cftc_statements": {
+  "docs": 0,
+  "pages_with_numbers": 0,
+  "grid_captured": 0,
+  "text_total": 0,
+  "grid_pct": null,
+  "per_doc": []
+ },
+ "docs": {
+  "docs": 2,
+  "pages_with_numbers": 4,
+  "grid_captured": 63,
+  "text_total": 92,
+  "grid_pct": 68.5,
+  "per_doc": [
+   {
+    "doc": "docs\\Amplify_BWET_FactSheet.pdf",
+    "pages": 2,
+    "text_numbers": 42,
+    "grid_captured": 30,
+    "pct": 71.4
+   },
+   {
+    "doc": "docs\\Amplify_BDRY_FactSheet.pdf",
+    "pages": 2,
+    "text_numbers": 50,
+    "grid_captured": 33,
+    "pct": 66.0
+   }
+  ]
+ },
+ "drewry_ais_pdfs": {
+  "docs": 2,
+  "pages_with_numbers": 18,
+  "grid_captured": 322,
+  "text_total": 322,
+  "grid_pct": 100.0,
+  "per_doc": [
+   {
+    "doc": "scripts\\drewry_ais_pdfs\\Drewry_AIS_PDF_Drybulk_Supramax_Week17_2024.pdf",
+    "pages": 9,
+    "text_numbers": 170,
+    "grid_captured": 170,
+    "pct": 100.0
+   },
+   {
+    "doc": "scripts\\drewry_ais_pdfs\\Drewry_AIS_PDF_Product_LR2_Week31_20241.pdf",
+    "pages": 9,
+    "text_numbers": 152,
+    "grid_captured": 152,
+    "pct": 100.0
+   }
+  ]
+ },
+ "drybulk": {
+  "docs": 2,
+  "pages_with_numbers": 4,
+  "grid_captured": 77,
+  "text_total": 98,
+  "grid_pct": 78.6,
+  "per_doc": [
+   {
+    "doc": "reports\\drybulk\\2023\\2023-02-14_Breakwave_Dry_Bulk.pdf",
+    "pages": 2,
+    "text_numbers": 48,
+    "grid_captured": 38,
+    "pct": 79.2
+   },
+   {
+    "doc": "reports\\drybulk\\2024\\2024-07-09_Breakwave_Dry_Bulk.pdf",
+    "pages": 2,
+    "text_numbers": 50,
+    "grid_captured": 39,
+    "pct": 78.0
+   }
+  ]
+ },
+ "hellenic": {
+  "docs": 2,
+  "pages_with_numbers": 15,
+  "grid_captured": 911,
+  "text_total": 911,
+  "grid_pct": 100.0,
+  "per_doc": [
+   {
+    "doc": "reports\\hellenic\\demolition\\pdfs\\2024-02-16_Weekly-Ship-Recycling-Report-10-February-16-February-2024_compressed.pdf",
+    "pages": 9,
+    "text_numbers": 191,
+    "grid_captured": 191,
+    "pct": 100.0
+   },
+   {
+    "doc": "reports\\hellenic\\iron_ore\\pdfs\\2024-04-29_mmi-daily-iron-ore-index-report-april-29-2024_mmi-daily-iron-ore-report-for-29th-a_53102f0fa6af.pdf",
+    "pages": 6,
+    "text_numbers": 720,
+    "grid_captured": 720,
+    "pct": 100.0
+   }
+  ]
+ },
+ "poten": {
+  "docs": 2,
+  "pages_with_numbers": 5,
+  "grid_captured": 56,
+  "text_total": 119,
+  "grid_pct": 47.1,
+  "per_doc": [
+   {
+    "doc": "reports\\poten\\pdfs\\2005\\Tanker_Opinion_20050715.pdf",
+    "pages": 4,
+    "text_numbers": 99,
+    "grid_captured": 39,
+    "pct": 39.4
+   },
+   {
+    "doc": "reports\\poten\\pdfs\\2019\\Weekly-Opinion-22-March-2019-Just-Go-With-The-Flow.pdf",
+    "pages": 1,
+    "text_numbers": 20,
+    "grid_captured": 17,
+    "pct": 85.0
+   }
+  ]
+ },
+ "reports": {
+  "docs": 2,
+  "pages_with_numbers": 19,
+  "grid_captured": 537,
+  "text_total": 567,
+  "grid_pct": 94.7,
+  "per_doc": [
+   {
+    "doc": "data\\reports\\seabrokers\\pdfs\\2020-03-01_markedsrapport-mars-2020.pdf",
+    "pages": 9,
+    "text_numbers": 247,
+    "grid_captured": 230,
+    "pct": 93.1
+   },
+   {
+    "doc": "data\\reports\\seabrokers\\pdfs\\2026-02-01_market-report-february-2026.pdf",
+    "pages": 10,
+    "text_numbers": 320,
+    "grid_captured": 307,
+    "pct": 95.9
+   }
+  ]
+ },
+ "scratch": {
+  "docs": 2,
+  "pages_with_numbers": 10,
+  "grid_captured": 1117,
+  "text_total": 1128,
+  "grid_pct": 99.0,
+  "per_doc": [
+   {
+    "doc": "scratch\\ppa_pdf\\6d98c840d833.pdf",
+    "pages": 8,
+    "text_numbers": 1070,
+    "grid_captured": 1069,
+    "pct": 99.9
+   },
+   {
+    "doc": "scratch\\ppa_pdf\\5794b4f81b8b.pdf",
+    "pages": 2,
+    "text_numbers": 58,
+    "grid_captured": 48,
+    "pct": 82.8
+   }
+  ]
+ },
+ "shipbrokers": {
+  "docs": 2,
+  "pages_with_numbers": 10,
+  "grid_captured": 419,
+  "text_total": 444,
+  "grid_pct": 94.4,
+  "per_doc": [
+   {
+    "doc": "reports\\shipbrokers\\agora\\2025\\agora_2025_W03_AGORA.-Week-03-2025.-Snapshot-of-Commercial-Indicators.pdf",
+    "pages": 5,
+    "text_numbers": 225,
+    "grid_captured": 211,
+    "pct": 93.8
+   },
+   {
+    "doc": "reports\\shipbrokers\\agora\\2026\\agora_2026_W21_AGORA.-Week-21-2026.-Snapshot-of-Commercial-Indicators.pdf",
+    "pages": 5,
+    "text_numbers": 219,
+    "grid_captured": 208,
+    "pct": 95.0
+   }
+  ]
+ },
+ "signal": {
+  "docs": 0,
+  "pages_with_numbers": 0,
+  "grid_captured": 0,
+  "text_total": 0,
+  "grid_pct": null,
+  "per_doc": []
+ },
+ "tankers": {
+  "docs": 2,
+  "pages_with_numbers": 4,
+  "grid_captured": 98,
+  "text_total": 116,
+  "grid_pct": 84.5,
+  "per_doc": [
+   {
+    "doc": "reports\\tankers\\2024\\2024-02-13_Breakwave_Tankers.pdf",
+    "pages": 2,
+    "text_numbers": 53,
+    "grid_captured": 39,
+    "pct": 73.6
+   },
+   {
+    "doc": "reports\\tankers\\2024\\2024-03-12_Breakwave_Tankers.pdf",
+    "pages": 2,
+    "text_numbers": 63,
+    "grid_captured": 59,
+    "pct": 93.7
+   }
+  ]
+ },
+ "textbooks": {
+  "docs": 2,
+  "pages_with_numbers": 8,
+  "grid_captured": 82,
+  "text_total": 83,
+  "grid_pct": 98.8,
+  "per_doc": [
+   {
+    "doc": "reports\\The International Handbook of Shipping Finance Theory and Practice (Manolis G. Kavussanos, Ilias D. Visvikis (eds.)) (z-lib.org).pdf",
+    "pages": 4,
+    "text_numbers": 21,
+    "grid_captured": 20,
+    "pct": 95.2
+   },
+   {
+    "doc": "reports\\The Sea and Civilization A Maritime History of the World (Lincoln Paine) (z-lib.org).pdf",
+    "pages": 4,
+    "text_numbers": 62,
+    "grid_captured": 62,
+    "pct": 100.0
+   }
+  ]
+ }
+}
