@@ -336,9 +336,9 @@ def build_snp_deals():
     seg_counts = df["segment"].value_counts().to_dict()
     total_volume_usd_m = df["price_num"].sum()
 
-    # Recent 150 deals
+    # All verified deals (sorted chronologically descending)
     df["created_dt"] = pd.to_datetime(df["created_at"], errors="coerce")
-    sorted_deals = df.sort_values("created_dt", ascending=False).head(150)
+    sorted_deals = df.sort_values("created_dt", ascending=False)
 
     deal_stream = []
     for _, r in sorted_deals.iterrows():
@@ -442,7 +442,7 @@ def main():
 
     os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
     with open(OUTPUT_JSON, "w", encoding="utf-8", newline="\n") as f:
-        json.dump(summary_payload, f, ensure_ascii=False, indent=2)
+        json.dump(summary_payload, f, ensure_ascii=False, separators=(',', ':'))
 
     elapsed = time.time() - start_time
     file_size_kb = os.path.getsize(OUTPUT_JSON) / 1024.0

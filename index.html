@@ -14502,12 +14502,26 @@ html.auth-locked body > *:not(#authGateModal) {
   </div>
 
   <div class="fearn-search-box" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-    <input type="text" class="fearn-input" id="fearnSnpSearchInput" placeholder="Search by vessel, shipyard, or buyer..." oninput="filterSnpDeals(this.value)" style="max-width:320px;" data-tooltip="Search verified S&amp;P records by vessel name, shipyard (e.g. 'Jiangnan', 'Hyundai'), or buyer entity.">
-    <div style="display:flex;align-items:center;gap:8px;margin-left:auto;">
+    <input type="text" class="fearn-input" id="fearnSnpSearchInput" placeholder="Search by vessel, shipyard, buyer, or comment..." oninput="filterSnpDeals(this.value)" style="max-width:280px;" data-tooltip="Search verified S&amp;P records by vessel name, shipyard (e.g. 'Jiangnan', 'Hyundai'), buyer entity, or comments.">
+    <div style="display:inline-flex;align-items:center;gap:4px;">
+      <span style="font-size:11px;color:var(--text-muted);">Rows:</span>
+      <select id="fearnSnpPageSizeSelect" onchange="changeFearnSnpPageSize(this.value)" style="padding:2px 4px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Number of S&amp;P deals displayed per page.">
+        <option value="50" selected>50</option>
+        <option value="100">100</option>
+        <option value="250">250</option>
+        <option value="all">All</option>
+      </select>
+    </div>
+    <button class="cp-page-btn" onclick="exportFearnleysSnpCsv()" style="padding:2px 8px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Export current filtered S&amp;P deals to CSV">Export CSV</button>
+    <div style="display:flex;align-items:center;gap:6px;margin-left:auto;flex-wrap:wrap;">
       <span style="font-size:var(--fs-micro);color:var(--text-muted);" id="fearnSnpCountLabel">Loading verified deals…</span>
-      <button class="cp-page-btn" id="btnFearnSnpPrev" onclick="prevFearnSnpPage()" style="padding:2px 8px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Previous 50 verified S&amp;P deal transactions.">Prev</button>
-      <span style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;" id="fearnSnpPageInfo">1 / 52</span>
-      <button class="cp-page-btn" id="btnFearnSnpNext" onclick="nextFearnSnpPage()" style="padding:2px 8px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Next 50 verified S&amp;P deal transactions.">Next</button>
+      <div style="display:inline-flex;align-items:center;gap:2px;">
+        <button class="cp-page-btn" id="btnFearnSnpFirst" onclick="firstFearnSnpPage()" style="padding:2px 6px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="First page of S&amp;P transactions.">&laquo;</button>
+        <button class="cp-page-btn" id="btnFearnSnpPrev" onclick="prevFearnSnpPage()" style="padding:2px 6px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Previous page of S&amp;P transactions.">&lsaquo; Prev</button>
+        <span style="font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;padding:0 4px;" id="fearnSnpPageInfo">1 / 53</span>
+        <button class="cp-page-btn" id="btnFearnSnpNext" onclick="nextFearnSnpPage()" style="padding:2px 6px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Next page of S&amp;P transactions.">Next &rsaquo;</button>
+        <button class="cp-page-btn" id="btnFearnSnpLast" onclick="lastFearnSnpPage()" style="padding:2px 6px;font-size:11px;background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:3px;cursor:pointer;" data-tooltip="Last page of S&amp;P transactions.">&raquo;</button>
+      </div>
     </div>
   </div>
 
@@ -14515,15 +14529,15 @@ html.auth-locked body > *:not(#authGateModal) {
     <table class="fearn-table" id="fearnSnpTable">
       <thead>
         <tr>
-          <th data-tooltip="Date the sale &amp; purchase transaction was confirmed/reported.">Date</th>
-          <th data-tooltip="Commercial vessel name at time of sale.">Vessel Name</th>
-          <th data-tooltip="Vessel sector and deadweight tonnage class.">Segment</th>
-          <th style="text-align:right;" data-tooltip="Original year of vessel delivery from builder shipyard.">Built</th>
-          <th data-tooltip="Shipbuilder and yard facility that constructed the vessel.">Shipyard</th>
-          <th style="text-align:right;" data-tooltip="Deadweight cargo carrying tonnage capacity.">DWT</th>
-          <th style="text-align:right;" data-tooltip="Gross agreed transaction price in Millions USD ($M).">Price ($M)</th>
-          <th style="text-align:right;" data-tooltip="Implied steel valuation per deadweight tonne ($/DWT).">Implied $/DWT</th>
-          <th data-tooltip="Purchasing shipowner, fund, or trading house.">Buyer Entity</th>
+          <th onclick="sortFearnSnpTable('date')" style="cursor:pointer;user-select:none;" data-tooltip="Date the sale &amp; purchase transaction was confirmed/reported. Click to sort.">Date <span id="sortSnp_date" style="font-size:10px;">&#9660;</span></th>
+          <th onclick="sortFearnSnpTable('vessel')" style="cursor:pointer;user-select:none;" data-tooltip="Commercial vessel name at time of sale. Click to sort.">Vessel Name <span id="sortSnp_vessel" style="font-size:10px;"></span></th>
+          <th onclick="sortFearnSnpTable('segment')" style="cursor:pointer;user-select:none;" data-tooltip="Vessel sector and deadweight tonnage class. Click to sort.">Segment <span id="sortSnp_segment" style="font-size:10px;"></span></th>
+          <th onclick="sortFearnSnpTable('built')" style="text-align:right;cursor:pointer;user-select:none;" data-tooltip="Original year of vessel delivery from builder shipyard. Click to sort.">Built <span id="sortSnp_built" style="font-size:10px;"></span></th>
+          <th onclick="sortFearnSnpTable('yard')" style="cursor:pointer;user-select:none;" data-tooltip="Shipbuilder and yard facility that constructed the vessel. Click to sort.">Shipyard <span id="sortSnp_yard" style="font-size:10px;"></span></th>
+          <th onclick="sortFearnSnpTable('dwt')" style="text-align:right;cursor:pointer;user-select:none;" data-tooltip="Deadweight cargo carrying tonnage capacity. Click to sort.">DWT <span id="sortSnp_dwt" style="font-size:10px;"></span></th>
+          <th onclick="sortFearnSnpTable('price_usd_m')" style="text-align:right;cursor:pointer;user-select:none;" data-tooltip="Gross agreed transaction price in Millions USD ($M). Click to sort.">Price ($M) <span id="sortSnp_price_usd_m" style="font-size:10px;"></span></th>
+          <th onclick="sortFearnSnpTable('usd_per_dwt')" style="text-align:right;cursor:pointer;user-select:none;" data-tooltip="Implied steel valuation per deadweight tonne ($/DWT). Click to sort.">Implied $/DWT <span id="sortSnp_usd_per_dwt" style="font-size:10px;"></span></th>
+          <th onclick="sortFearnSnpTable('buyer')" style="cursor:pointer;user-select:none;" data-tooltip="Purchasing shipowner, fund, or trading house. Click to sort.">Buyer Entity <span id="sortSnp_buyer" style="font-size:10px;"></span></th>
           <th data-tooltip="Transaction terms, surveys passed, scrubber/BWTS equipment, or time charter attachment details.">Comments</th>
         </tr>
       </thead>
@@ -30944,6 +30958,10 @@ var FEARNLEYS_CONTROLLER = {
   currentTceRange: 'max',
   currentTceScale: 'linear',
   snpSearchTerm: '',
+  snpPage: 1,
+  snpPageSize: 50,
+  snpSortCol: 'date',
+  snpSortDir: 'desc',
   fixtureSearchTerm: '',
   fixtureChart: null,
   assetChart: null,
@@ -31657,6 +31675,79 @@ function nextFearnSnpPage() {
   renderFearnleysSnpTable();
 }
 
+function firstFearnSnpPage() {
+  FEARNLEYS_CONTROLLER.snpPage = 1;
+  renderFearnleysSnpTable();
+}
+
+function lastFearnSnpPage() {
+  FEARNLEYS_CONTROLLER.snpPage = 999999;
+  renderFearnleysSnpTable();
+}
+
+function changeFearnSnpPageSize(val) {
+  FEARNLEYS_CONTROLLER.snpPageSize = val === 'all' ? 999999 : (parseInt(val, 10) || 50);
+  FEARNLEYS_CONTROLLER.snpPage = 1;
+  renderFearnleysSnpTable();
+}
+
+function sortFearnSnpTable(col) {
+  if (FEARNLEYS_CONTROLLER.snpSortCol === col) {
+    FEARNLEYS_CONTROLLER.snpSortDir = FEARNLEYS_CONTROLLER.snpSortDir === 'asc' ? 'desc' : 'asc';
+  } else {
+    FEARNLEYS_CONTROLLER.snpSortCol = col;
+    FEARNLEYS_CONTROLLER.snpSortDir = (col === 'vessel' || col === 'yard' || col === 'buyer' || col === 'segment') ? 'asc' : 'desc';
+  }
+  FEARNLEYS_CONTROLLER.snpPage = 1;
+  renderFearnleysSnpTable();
+}
+
+function exportFearnleysSnpCsv() {
+  const summary = DATA.fearnleysSummary;
+  if (!summary || !summary.snp_deals) return;
+  const deals = summary.snp_deals.recent_deals || [];
+  const filter = FEARNLEYS_CONTROLLER.currentSnpFilter;
+  const search = (FEARNLEYS_CONTROLLER.snpSearchTerm || '').trim().toLowerCase();
+
+  const filtered = deals.filter(d => {
+    if (filter === 'bulk' && d.segment !== 'bulk') return false;
+    if (filter === 'tank' && d.segment !== 'tank') return false;
+    if (search) {
+      const match =
+        (d.vessel && d.vessel.toLowerCase().includes(search)) ||
+        (d.yard && d.yard.toLowerCase().includes(search)) ||
+        (d.buyer && d.buyer.toLowerCase().includes(search)) ||
+        (d.comment && d.comment.toLowerCase().includes(search));
+      if (!match) return false;
+    }
+    return true;
+  });
+
+  const headers = ['Date', 'Vessel Name', 'Segment', 'Built', 'Shipyard', 'DWT', 'Price ($M)', 'Implied $/DWT', 'Buyer Entity', 'Comments'];
+  const rows = filtered.map(d => [
+    `"${(d.date || '').replace(/"/g, '""')}"`,
+    `"${(d.vessel || '').replace(/"/g, '""')}"`,
+    `"${(d.segment || '').replace(/"/g, '""')}"`,
+    d.built || '',
+    `"${(d.yard || '').replace(/"/g, '""')}"`,
+    d.dwt || '',
+    d.price_usd_m != null ? d.price_usd_m : '',
+    d.usd_per_dwt != null ? d.usd_per_dwt : '',
+    `"${(d.buyer || '').replace(/"/g, '""')}"`,
+    `"${(d.comment || '').replace(/"/g, '""')}"`
+  ]);
+
+  const csvContent = [headers.join(','), ...rows.map(r => r.join(','))].join('\r\n');
+  const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.setAttribute('href', url);
+  link.setAttribute('download', `fearnleys_snp_deals_${new Date().toISOString().slice(0, 10)}.csv`);
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
+
 function renderFearnleysSnpTable() {
   const summary = DATA.fearnleysSummary;
   if (!summary || !summary.snp_deals) return;
@@ -31679,21 +31770,61 @@ function renderFearnleysSnpTable() {
     return true;
   });
 
-  const page = Number.isFinite(Number(FEARNLEYS_CONTROLLER.snpPage)) && Number(FEARNLEYS_CONTROLLER.snpPage) >= 1 ? Number(FEARNLEYS_CONTROLLER.snpPage) : 1;
-  FEARNLEYS_CONTROLLER.snpPage = page;
-  const pageSize = 50;
-  const totalPages = Math.ceil(filtered.length / pageSize) || 1;
-  if (FEARNLEYS_CONTROLLER.snpPage > totalPages) FEARNLEYS_CONTROLLER.snpPage = totalPages;
-  if (FEARNLEYS_CONTROLLER.snpPage < 1) FEARNLEYS_CONTROLLER.snpPage = 1;
+  const sortCol = FEARNLEYS_CONTROLLER.snpSortCol || 'date';
+  const sortDir = FEARNLEYS_CONTROLLER.snpSortDir || 'desc';
 
-  const start = (FEARNLEYS_CONTROLLER.snpPage - 1) * pageSize;
+  filtered.sort((a, b) => {
+    let valA = a[sortCol];
+    let valB = b[sortCol];
+
+    if (valA == null && valB == null) return 0;
+    if (valA == null) return 1;
+    if (valB == null) return -1;
+
+    if (typeof valA === 'number' && typeof valB === 'number') {
+      return sortDir === 'asc' ? valA - valB : valB - valA;
+    }
+
+    valA = String(valA).toLowerCase();
+    valB = String(valB).toLowerCase();
+    if (valA < valB) return sortDir === 'asc' ? -1 : 1;
+    if (valA > valB) return sortDir === 'asc' ? 1 : -1;
+    return 0;
+  });
+
+  const sortHeaders = ['date', 'vessel', 'segment', 'built', 'yard', 'dwt', 'price_usd_m', 'usd_per_dwt', 'buyer'];
+  sortHeaders.forEach(col => {
+    const el = document.getElementById('sortSnp_' + col);
+    if (el) {
+      if (sortCol === col) {
+        el.innerHTML = sortDir === 'asc' ? ' &#9650;' : ' &#9660;';
+        el.style.color = 'var(--accent)';
+      } else {
+        el.innerHTML = '';
+      }
+    }
+  });
+
+  const pageSize = FEARNLEYS_CONTROLLER.snpPageSize || 50;
+  const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
+  let page = Number(FEARNLEYS_CONTROLLER.snpPage);
+  if (!Number.isFinite(page) || page < 1) page = 1;
+  if (page > totalPages) page = totalPages;
+  FEARNLEYS_CONTROLLER.snpPage = page;
+
+  const start = (page - 1) * pageSize;
   const end = Math.min(start + pageSize, filtered.length);
   const paged = filtered.slice(start, end);
 
   const countLabel = document.getElementById('fearnSnpCountLabel');
   if (countLabel) {
-    countLabel.textContent = `Showing ${filtered.length ? start + 1 : 0}-${end} of ${filtered.length} recorded deals`;
+    if (filtered.length === 0) {
+      countLabel.textContent = 'Showing 0 of 0 recorded deals';
+    } else {
+      countLabel.textContent = `Showing ${(start + 1).toLocaleString('en-US')}-${end.toLocaleString('en-US')} of ${filtered.length.toLocaleString('en-US')} recorded deals`;
+    }
   }
+
   // Live header/badge/segment counts straight from the cache (never hardcoded).
   const snpMeta = summary.snp_deals || {};
   const titleCount = document.getElementById('fearnSnpTitleCount');
@@ -31711,12 +31842,17 @@ function renderFearnleysSnpTable() {
   if (segAll && snpMeta.total_deals != null) segAll.textContent = 'All Deals (' + Number(snpMeta.total_deals).toLocaleString('en-US') + ')';
   if (segBulk && snpMeta.segments && snpMeta.segments.bulk != null) segBulk.textContent = 'Dry Bulk (' + Number(snpMeta.segments.bulk).toLocaleString('en-US') + ')';
   if (segTank && snpMeta.segments && snpMeta.segments.tank != null) segTank.textContent = 'Tankers (' + Number(snpMeta.segments.tank).toLocaleString('en-US') + ')';
+
   const pageInfo = document.getElementById('fearnSnpPageInfo');
-  if (pageInfo) pageInfo.textContent = `${FEARNLEYS_CONTROLLER.snpPage} / ${totalPages}`;
+  if (pageInfo) pageInfo.textContent = `${page} / ${totalPages}`;
+  const firstBtn = document.getElementById('btnFearnSnpFirst');
+  if (firstBtn) firstBtn.disabled = (page <= 1);
   const prevBtn = document.getElementById('btnFearnSnpPrev');
-  if (prevBtn) prevBtn.disabled = (FEARNLEYS_CONTROLLER.snpPage <= 1);
+  if (prevBtn) prevBtn.disabled = (page <= 1);
   const nextBtn = document.getElementById('btnFearnSnpNext');
-  if (nextBtn) nextBtn.disabled = (FEARNLEYS_CONTROLLER.snpPage >= totalPages);
+  if (nextBtn) nextBtn.disabled = (page >= totalPages);
+  const lastBtn = document.getElementById('btnFearnSnpLast');
+  if (lastBtn) lastBtn.disabled = (page >= totalPages);
 
   const tbody = document.getElementById('fearnSnpTableBody');
   if (!tbody) return;
@@ -31741,7 +31877,7 @@ function renderFearnleysSnpTable() {
     const dateStr = clean(d.date) || '—';
 
     html += `
-      <tr data-tooltip=" " data-tt-type="fearnleys-snp-deal" data-tt-deal-id="${d.id}" data-tt-vessel="${vesselStr}" data-tt-price="${d.price_usd_m || 0}" data-tt-dwt="${d.dwt || 0}">
+      <tr data-tooltip=" " data-tt-type="fearnleys-snp-deal" data-tt-deal-id="${d.id || ''}" data-tt-vessel="${vesselStr}" data-tt-price="${d.price_usd_m || 0}" data-tt-dwt="${d.dwt || 0}">
         <td class="mono" style="color:var(--text-muted);">${dateStr}</td>
         <td style="font-weight:600;color:var(--text-bright);">${vesselStr}</td>
         <td><span class="fearn-badge ${badgeClass}">${segStr}</span></td>

@@ -25,6 +25,7 @@ on:
       - "Upstream Physical Commodity Flows & Port Logistics"
       - "Weekly USDA Maritime & Freight Data Ingest"
       - "Monthly BPS Indonesia Coal Ingest"
+      - "Weekly Signal Ocean Intelligence Ingest"
       - "Live ETF Quotes Poller (BDRY/BWET)"
     types:
       - completed
