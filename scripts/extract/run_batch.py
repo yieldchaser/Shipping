@@ -51,12 +51,20 @@ def stratified(rows, n, seed=21):
     return out
 
 
-def load_done(checkpoint):
+def load_done(checkpoint, retry_failed=False):
     """Load completed docs, keeping the LAST record per path.
 
     Fixed 2026-09-21: two concurrent batches wrote this file (152 rows for 91
     unique docs) after a launch appeared to have died but had not. Duplicates
     must not corrupt resume bookkeeping, so the last record wins.
+
+    retry_failed=True drops records whose last status was not "ok" from the
+    done-set so those documents are re-attempted. Default False keeps them,
+    which means plain --resume SKIPS failures. Measured 2026-09-21: all 74
+    non-ok checkpoint rows (71 not-a-pdf, 3 per-document timeouts) were in the
+    done-set, so --resume retried none of them - while the run printed "rerun
+    the same command with --resume to retry the failures" and the runbook said
+    to raise --timeout and resume.
     """
     done = {}
     if os.path.exists(checkpoint):
@@ -69,6 +77,8 @@ def load_done(checkpoint):
             except json.JSONDecodeError:
                 continue  # torn write from a crash: ignore that line
             if "path" in rec:
+                if retry_failed and rec.get("status") != "ok":
+                    continue  # re-attempt: a recorded failure is not "done"
                 done[rec["path"]] = rec
     return done
 
@@ -172,6 +182,10 @@ def main():
     ap.add_argument("--layout", action="store_true")
     ap.add_argument("--state", default=os.path.join(REPO, "data", "extracted", "batch_state.json"))
     ap.add_argument("--no-lock", action="store_true", help="skip the single-instance guard")
+    ap.add_argument("--retry-failed", action="store_true",
+                    help="re-attempt documents whose last recorded status was not ok "
+                         "(plain --resume treats them as done and skips them). Each "
+                         "retry appends another checkpoint row for that path.")
     a = ap.parse_args()
 
     if not a.no_lock:
@@ -215,7 +229,8 @@ def main():
             print(f"provenance-only: skipping {before - len(rows)} documents "
                   f"({len(PROVENANCE_ONLY)} rule(s)) - not extracted, not OCR-queued")
     docs = rows if a.all else stratified(rows, a.limit)
-    done = load_done(a.checkpoint) if a.resume else {}
+    done = load_done(a.checkpoint, a.retry_failed) if a.resume else {}
+    done_failed = sum(1 for r in done.values() if r.get("status") != "ok")
     todo = [r for r in docs if r["path"] not in done]
     print(f"batch: {len(docs)} selected, {len(done)} already done, {len(todo)} to run "
           f"({a.workers} workers, {a.timeout}s/doc timeout)", flush=True)
@@ -261,7 +276,14 @@ def main():
     failed = [k for k in counts if k != "ok"]
     if failed:
         print(f"    failure kinds: {failed}")
-        print(f"    rerun the same command with --resume to retry the failures")
+        # Corrected 2026-09-21: this line used to claim that rerunning with
+        # --resume retries the failures. It does not - resume treats a recorded
+        # failure as done and skips it. Print what actually happens instead.
+        if a.resume and not a.retry_failed and done_failed:
+            print(f"    {done_failed} document(s) already recorded as failed are in "
+                  f"the done-set: --resume SKIPS them, it does not retry them.")
+            print(f"    to re-attempt: same command plus --retry-failed (each retry "
+                  f"appends another checkpoint row for that path).")
     return 0
 
 
