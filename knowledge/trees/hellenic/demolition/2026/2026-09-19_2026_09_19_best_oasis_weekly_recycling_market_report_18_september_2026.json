@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026__root",
+  "doc_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 18 September 2026",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 18 September 2026"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 18 September 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Indian recycling market remains firm, with overall buying sentiment continuing to be positive. Source: Best Oasis Limited\n\nLinked asset: 2026-09-19_best-oasis-weekly-recycling-market-report-18-september-2026_weekly-ship-recycling-report-12-sept_e014d3c2af15.pdf\nSource asset: reports/hellenic/demolition/pdfs/2026-09-19_best-oasis-weekly-recycling-market-report-18-september-2026_weekly-ship-recycling-report-12-sept_e014d3c2af15.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 12 SEPTEMBER - 18 SEPTEMBER) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian recycling market remains firm, with overall buying sentiment continuing to be positive. Local steel prices have shown some improvement during the week, providing support to the market.",
+  "keywords": [
+    "lpg",
+    "china",
+    "india",
+    "crude_oil",
+    "steel",
+    "gas",
+    "recycling",
+    "remains",
+    "buying",
+    "firm",
+    "local",
+    "delivered"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1252,
+  "source_path": "reports/hellenic/demolition/2026/2026-09-19_best-oasis-weekly-recycling-market-report-18-september-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-18-september-2026",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026__s01_main",
+      "doc_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026",
+      "parent_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Indian recycling market remains firm, with overall buying sentiment continuing to be positive.",
+      "keywords": [
+        "india",
+        "best",
+        "buying",
+        "continuing",
+        "firm",
+        "indian",
+        "limited",
+        "oasis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026__s02_linked_asset_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026_weekly_ship_recycling_report_12_sept_e014d3c2af15_pdf",
+      "doc_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026",
+      "parent_id": "hellenic_demolition_2026-09-19_2026_09_19_best_oasis_weekly_recycling_market_report_18_september_2026__root",
+      "title": "Linked asset: 2026-09-19_best-oasis-weekly-recycling-market-report-18-september-2026_weekly-ship-recycling-report-12-sept_e014d3c2af15.pdf",
+      "section_path": [
+        "Linked asset: 2026-09-19_best-oasis-weekly-recycling-market-report-18-september-2026_weekly-ship-recycling-report-12-sept_e014d3c2af15.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-09-19_best-oasis-weekly-recycling-market-report-18-september-2026_weekly-ship-recycling-report-12-sept_e014d3c2af15.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-09-19_best-oasis-weekly-recycling-market-report-18-september-2026_weekly-ship-recycling-report-12-sept_e014d3c2af15.pdf\n\n# WEEKLY SHIP RECYCLING REPORT\n\n## ( 12 SEPTEMBER - 18 SEPTEMBER) 2026\n\n## OUR OFFICES\n\n**Scan to view the Tide Table**\n\n**Head Office:** 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E **Contact**: +971 4575 4667 **Visit** : www.best-oasis.com **Email**: bol@bol.ae\n\n## MARKET SUMMARY\n\n## INDIA\n\nThe Indian recycling market remains firm, with overall buying sentiment continuing to be positive. Local steel prices have shown some improvement during the week, providing support to the market.",
+      "keywords": [
+        "lpg",
+        "china",
+        "india",
+        "crude_oil",
+        "steel",
+        "gas",
+        "recycling",
+        "local"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1180,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
