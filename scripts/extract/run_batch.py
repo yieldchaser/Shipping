@@ -52,6 +52,12 @@ def stratified(rows, n, seed=21):
 
 
 def load_done(checkpoint):
+    """Load completed docs, keeping the LAST record per path.
+
+    Fixed 2026-09-21: two concurrent batches wrote this file (152 rows for 91
+    unique docs) after a launch appeared to have died but had not. Duplicates
+    must not corrupt resume bookkeeping, so the last record wins.
+    """
     done = {}
     if os.path.exists(checkpoint):
         for line in open(checkpoint, encoding="utf-8"):
@@ -62,8 +68,65 @@ def load_done(checkpoint):
                 rec = json.loads(line)
             except json.JSONDecodeError:
                 continue  # torn write from a crash: ignore that line
-            done[rec["path"]] = rec
+            if "path" in rec:
+                done[rec["path"]] = rec
     return done
+
+
+LOCK = os.path.join(REPO, "data", "extracted", ".batch.lock")
+
+
+def acquire_lock():
+    """Single-instance guard. Two concurrent batches double-process the corpus
+    and contend for CPU on a RAM-capped box, which silently corrupts both the
+    checkpoint and the throughput numbers."""
+    if os.path.exists(LOCK):
+        try:
+            holder = int(open(LOCK).read().strip())
+        except (ValueError, OSError):
+            holder = None
+        if holder:
+            alive = subprocess.run(
+                ["powershell", "-NoProfile", "-Command",
+                 f"(Get-Process -Id {holder} -ErrorAction SilentlyContinue) -ne $null"],
+                capture_output=True, text=True).stdout.strip().lower()
+            if alive == "true":
+                return False, holder
+        os.remove(LOCK)  # stale
+    os.makedirs(os.path.dirname(LOCK), exist_ok=True)
+    with open(LOCK, "w") as f:
+        f.write(str(os.getpid()))
+    return True, os.getpid()
+
+
+def release_lock():
+    try:
+        os.remove(LOCK)
+    except OSError:
+        pass
+
+
+def write_state(state_path, counts, done_total, todo_total, elapsed, pages, tables):
+    """Progress state an external verifier or a successor agent can read."""
+    ok = counts.get("ok", 0)
+    rate = elapsed / max(1, ok)
+    state = {
+        "updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        "done": sum(counts.values()),
+        "planned": todo_total,
+        "status_counts": dict(counts),
+        "ok": ok,
+        "secs_per_doc": round(rate, 1),
+        "elapsed_min": round(elapsed / 60, 1),
+        "eta_min": round(rate * max(0, todo_total - sum(counts.values())) / 60, 1),
+        "pages": pages, "tables": tables,
+        "corpus_done_total": done_total,
+        "pid": os.getpid(),
+    }
+    tmp = state_path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(state, f, indent=1)
+    os.replace(tmp, state_path)
 
 
 def run_one(doc_path, out_root, timeout):
@@ -104,7 +167,17 @@ def main():
                     default=os.path.join(REPO, "data", "extracted", "batch_checkpoint.jsonl"))
     ap.add_argument("--resume", action="store_true")
     ap.add_argument("--layout", action="store_true")
+    ap.add_argument("--state", default=os.path.join(REPO, "data", "extracted", "batch_state.json"))
+    ap.add_argument("--no-lock", action="store_true", help="skip the single-instance guard")
     a = ap.parse_args()
+
+    if not a.no_lock:
+        got, holder = acquire_lock()
+        if not got:
+            print(f"REFUSING TO START: another batch is running (pid {holder}). "
+                  f"A second batch double-processes the corpus and corrupts the "
+                  f"checkpoint. Remove {LOCK} only if that pid is dead.")
+            return 1
 
     rows = load_inventory()
     docs = rows if a.all else stratified(rows, a.limit)
@@ -114,34 +187,40 @@ def main():
           f"({a.workers} workers, {a.timeout}s/doc timeout)", flush=True)
     if not todo:
         print("nothing to do")
+        release_lock()
         return 0
 
     os.makedirs(os.path.dirname(a.checkpoint), exist_ok=True)
     ckpt = open(a.checkpoint, "a", encoding="utf-8")
-    tally = collections.Counter(k if k == "ok" else "fail" for k in [])
     counts = collections.Counter()
     t_start = time.time()
     pages = tables = 0
 
     # simple bounded concurrency without a framework (RAM-capped box)
     from concurrent.futures import ThreadPoolExecutor
-    with ThreadPoolExecutor(max_workers=a.workers) as pool:
-        futs = {pool.submit(run_one, os.path.join(REPO, r["path"]), a.out, a.timeout):
-                r["path"] for r in todo}
-        for i, fut in enumerate(futs, 1):
-            res = fut.result()
-            res["path"] = os.path.relpath(res["path"], REPO) if os.path.isabs(res["path"]) else res["path"]
-            ckpt.write(json.dumps(res) + "\n")
-            ckpt.flush()
-            counts[res["status"]] += 1
-            if res["status"] == "ok":
-                pages += res.get("pages", 0)
-                tables += res.get("tables", 0)
-            flag = "" if res["status"] == "ok" else f"  <{res['status']}>"
-            print(f"[{i}/{len(todo)}] {res['status']:7s} {res.get('secs', 0):6.1f}s "
-                  f"{res.get('pages', '-')}pg {res.get('tables', '-')}tbl "
-                  f"{os.path.basename(res['path'])[:44]}{flag}", flush=True)
-    ckpt.close()
+    try:
+        with ThreadPoolExecutor(max_workers=a.workers) as pool:
+            futs = {pool.submit(run_one, os.path.join(REPO, r["path"]), a.out, a.timeout):
+                    r["path"] for r in todo}
+            for i, fut in enumerate(futs, 1):
+                res = fut.result()
+                res["path"] = os.path.relpath(res["path"], REPO) if os.path.isabs(res["path"]) else res["path"]
+                ckpt.write(json.dumps(res) + "\n")
+                ckpt.flush()
+                counts[res["status"]] += 1
+                if res["status"] == "ok":
+                    pages += res.get("pages", 0)
+                    tables += res.get("tables", 0)
+                flag = "" if res["status"] == "ok" else f"  <{res['status']}>"
+                print(f"[{i}/{len(todo)}] {res['status']:7s} {res.get('secs', 0):6.1f}s "
+                      f"{res.get('pages', '-')}pg {res.get('tables', '-')}tbl "
+                      f"{os.path.basename(res['path'])[:44]}{flag}", flush=True)
+                if i % 10 == 0:
+                    write_state(a.state, counts, len(done) + sum(counts.values()),
+                                len(todo), time.time() - t_start, pages, tables)
+    finally:
+        ckpt.close()
+        release_lock()
     elapsed = time.time() - t_start
     print(f"\n=== {sum(counts.values())} docs in {elapsed / 60:.1f} min | {dict(counts)}")
     print(f"    {pages} pages, {tables} tables, {elapsed / max(1, sum(counts.values())):.1f}s/doc")
