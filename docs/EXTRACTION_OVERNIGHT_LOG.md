@@ -236,3 +236,114 @@ the repo is large and the link is slow):
    >2 MB/s, and the remaining ~6,000 docs need roughly 5 GB. The 8 GB/h the
    earlier entry reported has not reproduced; still worth watching.
 
+
+
+---
+
+## 2026-09-22 02:52 IST (21:22 UTC) - deep review: trailing-dot stems were losing whole documents
+
+### What I measured (not estimated)
+
+`verify_extraction.py --json`: done 3,670 / 7,816 (ok 3,595, error 72, timeout 3),
+6.0 s/doc, ETA 414 min, mean `text_verified` 0.995, median 14 blocks / 1 table /
+6 images per recent doc, `empty_unexpected` 0, 25.2 GB free. Liveness: ONE
+`run_batch` (pid 7376, started 20:32 local) plus 2 `batch_worker` children
+(spawned 02:31) - normal shape. The checkpoint advanced 3,670 -> 3,721 lines
+during this review, so progress is real, not a `ps` artefact.
+
+Full-corpus table-shape scan, 67,149 tables across the 7 recurring sources:
+19.2% (12,921) are single-column (no grid at all), 8.8% (5,907) contain no digit
+in any cell, and 62.8% of all cells are empty. hellenic alone holds 53,248 of
+the 67,149 tables (79%), i.e. ~26 tables per document.
+
+### Finding 5 (FIXED): a document stem ending in 2+ dots or a trailing space fails outright
+
+Reproduced on the file named in the checkpoint, then in isolation:
+
+    stem='One-Dot.'         makedirs=OK
+    stem='Four-Dots-....'   makedirs=FAIL FileNotFoundError: [WinError 3]
+    stem='Two-Dots..'       makedirs=FAIL FileNotFoundError: [WinError 3]
+    stem='Space-End '       makedirs=FAIL FileNotFoundError: [WinError 3]
+    on disk after the failures: ['Four-Dots-', 'One-Dot', 'Space-End', 'Two-Dots']
+
+So `os.makedirs(<stem>/charts)` creates the dot-stripped PARENT and then refuses
+to create the child, because the intermediate component (`...Feeling-....`) does
+not exist under its literal name. One trailing dot is fine; a run of two or more,
+or a trailing space, is fatal. The whole document then lands in the checkpoint as
+an error with no artefacts.
+
+Blast radius, measured over the 9,912-row inventory: exactly 3 files end that way.
+
+| file | outcome |
+|---|---|
+| `reports/poten/pdfs/2016/Weekly-Opinion-19-August-2016-That-Sinking-Feeling-....pdf` | lost: `status error`, 0.6 s, "FileNotFoundError ...\charts", no artefacts |
+| `reports/shipbrokers/other/2021/other_2021_09-July-2021..pdf` | not yet reached by the batch; would have failed the same way |
+| `reports/hellenic/iron_ore/pdfs/2025-12-24_20251224180037..pdf` | extracted fine (single dot), but its checkpoint `doc` key keeps the dot while the directory on disk does not - a 1-document key mismatch between checkpoint and the dir-derived `doc` in the DB |
+
+Fix (minimal, `scripts/extract/extract_all.py`): new `safe_stem()` strips trailing
+dots/spaces and replaces the characters Windows forbids, and is applied to the
+directory name and to `dkey` together, so `doc` now always equals the directory
+that actually exists. The raw stem is untouched in the checkpoint's `path` field,
+so provenance is unchanged and `--resume` (which keys on `path`) is unaffected.
+
+Evidence after the fix, same files, scratch out-dir then the real one:
+
+    poten/Weekly-Opinion-19-August-2016-That-Sinking-Feeling-   {"pages":1,"blocks":21,"tables":1,"images":4}
+    shipbrokers/other_2021_09-July-2021                         {"pages":3,"blocks":117,"tables":22,"images":3}
+
+The lost document was then re-extracted directly into `data/extracted/corpus/`
+(single `batch_worker` call, checkpoint NOT touched, per the standing rule) and
+now holds text.jsonl (7,040 B), tables.jsonl (5,321 B), pages.jsonl and charts/.
+The live batch picks the fix up on its own: every document is a fresh
+`batch_worker` subprocess.
+
+Golden gate: `scripts/analysis/golden_matrix.py` regenerated
+`scripts/analysis/golden_matrix.json` **byte-identical to HEAD** (`git diff` on it
+is empty), so recall is unchanged - as expected, since the patch only touches
+directory naming. Star Asia: cells missed by EVERY engine = none, i.e. the
+camelot+pdfplumber union holds 15/15; camelot-stream alone 13/15 (misses `bdi`,
+`3,186`), pdfplumber alone 13/15 (misses `glory bridge`, `7.5`), text extractors
+15/15.
+
+### Finding 6 (NOT fixed - reported): 19% of "tables" are prose banners, not grids
+
+12,921 of 67,149 tables carry a single column of prose or a title banner, e.g.
+hellenic `2026-09-12_best-oasis-weekly-recycling-market-report...` gives a table
+whose rows are `WEEKLY SHIP RECYCLING` / `REPORT` / `( 05 SEPTEMBER - 11 SEPTEMBER) 2026`,
+and another whose rows are `INDIA` then `The Indian recycling market remains quite
+buoyant. After a strong run, prices have...`. Another 5,907 tables contain no
+digit at all. The numeric tables themselves are good - the same MMi page yields
+`['IOPI58','58% Fe Fines','708','-2','-0.3%','676','732','567','907','94.81',...]`,
+aligned correctly - so this is catalogue hygiene, not data corruption. I did NOT
+add a filter: dropping tables changes what the already-extracted corpus means, and
+that is the human's call. Downstream can filter today from
+`cells.is_numeric`/`catalogue.n_cols`; the catalogue already carries
+`n_rows`/`n_cols`/`text_verified`, so no schema change is required.
+
+### Finding 7 (NOT fixed - no code change warranted): poten masthead is ASCII-substituted glyphs
+
+123 of the 1,084 extracted poten documents contain the identical block
+`'WAFWOFleet esv 
+ 
+Bi or No De?'` (15/47 of 2015, 50/50 of 2016, 40/48 of 2017,
+then 1-3 per year as the Midterms editions reuse the old cover). It is a broken
+font mapping that stays inside ASCII, so `is_garbled_text()` cannot see it by
+construction - it counts control codes and U+0100-U+036F, and this block is plain
+letters - and every one of those pages reports `garbled_blocks: 0`. No digits are
+involved, and the affected documents are already extracted, so a detector change
+would fix nothing retroactively. Recorded so the knowledge-base phase can exclude
+the string rather than ingest it as prose.
+
+### Deliberately NOT changed
+
+* No extractor table filtering (Finding 6) - changes the meaning of data already extracted.
+* No `build_table_db.py` schema change - the prose-blob filter is derivable from `cells.is_numeric`.
+* No detector change for Finding 7 - already-extracted class, no future benefit.
+* No re-extraction beyond the single lost document; nothing moved or deleted under `data/extracted/corpus/`.
+* `corpus_checkpoint.jsonl` was read only, never written.
+
+### Still for the human (unchanged from the previous entry)
+
+1. Mojibake decision for the 1,026 hellenic docs.
+2. The 3 timeout textbooks - accept, or raise `--timeout` above 900 s.
+3. Disk: 25.2 GB free, ETA ~7 h, output growth ~5 GB for the remaining docs.

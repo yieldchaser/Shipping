@@ -408,6 +408,28 @@ def derive_source(rel_path):
     return parts[0]
 
 
+def safe_stem(stem):
+    """Filesystem-safe directory name for a document stem.
+
+    Measured 2026-09-22 on this box: a stem ending in a run of two or more dots
+    (or a trailing space) makes os.makedirs raise WinError 3 *after* it has
+    already created the dot-stripped parent, so the document fails outright and
+    is written to the checkpoint as an error. Three files in the 9,912-row
+    inventory end that way, e.g.
+    reports/poten/pdfs/2016/Weekly-Opinion-19-August-2016-That-Sinking-Feeling-....pdf
+    (4 trailing dots -> FileNotFoundError at 0.6 s, no artefacts; the same file
+    with one trailing dot extracts fine). Stripping trailing dots and spaces,
+    and replacing characters Windows forbids, is what the OS was going to do
+    silently anyway - it just refuses to do it while creating a child.
+    The raw stem is untouched in the checkpoint's `path` field, so provenance
+    is unchanged; `doc` now always equals the directory that actually exists.
+    """
+    s = re.sub(r"[ .]+$", "", stem)
+    _BAD = set(chr(60) + chr(62) + chr(58) + chr(34) + chr(124) + chr(63) + chr(42))
+    s = "".join("_" if (ord(c) < 32 or c in _BAD) else c for c in s)
+    return s or "_unnamed"
+
+
 def is_real_pdf(pdf_path):
     """Cheap header sanity check (skips HTML-dump and truncated .pdf files).
 
@@ -440,6 +462,7 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
     rel = os.path.relpath(pdf_path, REPO)
     stem = os.path.splitext(os.path.basename(pdf_path))[0]
     source = derive_source(rel)
+    stem = safe_stem(stem)  # Windows refuses trailing-dot/space names (measured)
     dkey = f"{source}/{stem}"
     ddir = os.path.join(out_root, source, stem)
     cdir = os.path.join(ddir, "charts")
