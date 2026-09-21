@@ -11802,6 +11802,8 @@ html.auth-locked body > *:not(#authGateModal) {
           if (e.key === 'Escape' || e.code === 'Escape') {
             if (typeof closeContractDetailModal === 'function') closeContractDetailModal();
             if (typeof closeDecisionTicketModal === 'function') closeDecisionTicketModal();
+            if (typeof closeFearnFxModal === 'function') closeFearnFxModal();
+            if (typeof closeFearnMusModal === 'function') closeFearnMusModal();
             return;
           }
 
@@ -14643,14 +14645,15 @@ html.auth-locked body > *:not(#authGateModal) {
           </div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:8px;">
             <div style="display:flex;gap:4px;flex-wrap:wrap;" id="fearnFxDeps"></div>
-            <input type="text" id="fearnFxSearch" class="tracking-input" placeholder="Search vessel / charterer / route / commodity..." style="min-width:280px;flex:1;max-width:420px;" oninput="onFearnFxSearch()">
+            <input type="text" id="fearnFxSearch" class="tracking-input" placeholder="Search vessel / owner / charterer / port / comment..." style="min-width:280px;flex:1;max-width:420px;" oninput="onFearnFxSearch()">
+            <button id="fearnFxWrapBtn" class="tracking-status-btn" onclick="toggleFearnFxWrap()" style="padding:4px 9px;font-size:11px;display:flex;align-items:center;gap:4px;" title="Toggle comment text wrapping to read full notes inline">Wrap Comments</button>
           </div>
           <div style="display:flex;gap:14px;align-items:flex-start;">
             <div style="flex:1;min-width:0;">
               <div class="tracking-table-wrap" style="max-height:560px;overflow:auto;">
                 <table class="tracking-table" style="font-size:11px;">
-                  <thead><tr><th>Date</th><th>Dept</th><th>Segment</th><th>Vessel</th><th>Charterer</th><th>Commodity</th><th>Period</th><th>Laycan</th><th style="text-align:right;">Rate</th><th>Comment</th></tr></thead>
-                  <tbody id="fearnFxBody"><tr><td colspan="10" style="text-align:center;color:var(--text-muted);padding:14px;">Loading tape…</td></tr></tbody>
+                  <thead><tr><th>Date</th><th>Dept</th><th>Segment</th><th>Vessel / Owner</th><th>Charterer</th><th>Route / Ports</th><th>Commodity</th><th>Period</th><th>Laycan</th><th style="text-align:right;">Rate</th><th style="min-width:220px;">Comment <span style="font-size:10px;font-weight:normal;color:var(--text-muted);">(click row for full details)</span></th></tr></thead>
+                  <tbody id="fearnFxBody"><tr><td colspan="11" style="text-align:center;color:var(--text-muted);padding:14px;">Loading tape…</td></tr></tbody>
                 </table>
               </div>
               <div style="display:flex;gap:12px;align-items:center;padding:8px 2px;">
@@ -17351,6 +17354,41 @@ if (intelTabsContainer) {
           <div id="cdModalFooter" style="margin-top:12px;display:flex;justify-content:space-between;align-items:center;font-size:var(--fs-micro);color:var(--text-muted);border-top:1px solid rgba(255,255,255,0.05);padding-top:8px;">
             <span id="cdModalRulebookRef">Rulebook Reference: SGX Freight Derivatives / Baltic Exchange</span>
             <span>Press <kbd style="background:var(--bg);border:1px solid var(--border);padding:1px 4px;border-radius:3px;font-size:var(--fs-micro);">ESC</kbd> to exit</span>
+          </div>
+        </div>
+      </div>
+
+<!-- FEARNLEYS FIXTURE DETAIL MODAL -->
+      <div id="fearnFxModal" style="display:none;position:fixed;inset:0;background:rgba(1,4,9,0.85);z-index:1000;align-items:center;justify-content:center;" onclick="if(event.target===this)closeFearnFxModal()">
+        <div style="width:min(720px,94vw);max-height:90vh;overflow-y:auto;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:22px;box-shadow:0 12px 36px rgba(0,0,0,0.5);">
+          <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:16px;gap:12px;">
+            <div>
+              <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
+                <span id="fearnFxModalVessel" style="font-weight:700;font-size:17px;color:var(--text-bright);font-family:'IBM Plex Mono',monospace;"></span>
+                <span id="fearnFxModalDeptBadge"></span>
+                <span id="fearnFxModalSegBadge" style="font-size:11px;padding:1px 6px;border-radius:4px;background:var(--card-subtle);color:var(--text);border:1px solid var(--border);"></span>
+              </div>
+              <div id="fearnFxModalSub" style="font-size:12px;color:var(--text-muted);margin-top:4px;"></div>
+            </div>
+            <button class="tracking-status-btn" onclick="closeFearnFxModal()" style="font-size:14px;padding:2px 8px;cursor:pointer;">&times;</button>
+          </div>
+
+          <!-- Metadata Grid -->
+          <div id="fearnFxModalGrid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin-bottom:16px;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px;">
+          </div>
+
+          <!-- Full Comment Box -->
+          <div style="background:var(--card-subtle);border:1px solid var(--border);border-radius:8px;padding:14px;margin-bottom:14px;">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+              <span style="font-size:11px;font-weight:700;color:var(--text-bright);text-transform:uppercase;letter-spacing:0.5px;font-family:'IBM Plex Mono',monospace;">Full Fixture Comment & Broker Notes</span>
+              <button id="fearnFxCopyCommentBtn" class="tracking-status-btn" onclick="copyFearnFxComment()" style="font-size:11px;padding:2px 8px;cursor:pointer;">Copy Note</button>
+            </div>
+            <div id="fearnFxModalComment" style="font-size:12px;line-height:1.6;color:var(--text);font-family:'IBM Plex Mono',monospace;white-space:pre-wrap;word-break:break-word;max-height:220px;overflow-y:auto;background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:10px;"></div>
+          </div>
+
+          <div style="display:flex;justify-content:space-between;align-items:center;font-size:var(--fs-micro);color:var(--text-muted);font-family:'IBM Plex Mono',monospace;">
+            <span id="fearnFxModalId"></span>
+            <span>Press <kbd style="background:var(--card);border:1px solid var(--border);padding:1px 4px;border-radius:3px;">ESC</kbd> to exit</span>
           </div>
         </div>
       </div>
@@ -56201,19 +56239,32 @@ function renderFearnFx() {
   var note = document.getElementById('fearnFxNote');
   if (note) note.textContent = 'Fixtures from 2024 onward · earlier years are sparse department scraps · rate numeric where parseable (92% text/RNR historically — kept in comment, em-dash when null) · deduped on date+vessel+charterer+route';
 }
+var _currentFearnFxRows = [];
+var _activeFearnFxRow = null;
+
 function fearnFxFiltered() {
   var tape = FDESK.tape; if (!tape) return [];
   var q = FDESK.fxQ.trim().toLowerCase();
   return tape.rows.filter(function (r) {
     if (FDESK.fxDept !== 'ALL' && r.dp !== FDESK.fxDept) return false;
     if (!q) return true;
-    return ((r.v || '') + ' ' + (r.c || '') + ' ' + (r.rt || '') + ' ' + (r.cm || '')).toLowerCase().indexOf(q) >= 0;
+    var hay = ((r.v || '') + ' ' + (r.ow || '') + ' ' + (r.c || '') + ' ' + (r.rt || '') + ' ' + (r.lp || '') + ' ' + (r.dst || '') + ' ' + (r.cm || '') + ' ' + (r.x || '') + ' ' + (r.im || '')).toLowerCase();
+    return hay.indexOf(q) >= 0;
   });
 }
+
+function toggleFearnFxWrap() {
+  FDESK.fxWrap = !FDESK.fxWrap;
+  var btn = document.getElementById('fearnFxWrapBtn');
+  if (btn) btn.classList.toggle('active', !!FDESK.fxWrap);
+  renderFearnFxTable();
+}
+
 function renderFearnFxTable() {
   var body = document.getElementById('fearnFxBody');
   if (!body) return;
   var rows = fearnFxFiltered();
+  _currentFearnFxRows = rows;
   var PAGE = 200, pages = Math.max(1, Math.ceil(rows.length / PAGE));
   // NaN guard: a stale/foreign fxPage (e.g. from a data reset) falls back to page 1
   var pg = Math.floor(Number(FDESK.fxPage));
@@ -56223,26 +56274,137 @@ function renderFearnFxTable() {
   var start = FDESK.fxPage * PAGE; // fxPage is finite+clamped above
   var slice = rows.slice(start, start + PAGE);
   var DEP_COLORS = { BULK: '#e3b341', TANK: '#f778ba', TANKPRO: '#ffa198', LNG: '#8957e5', LPG: '#39c5cf', RoRo: '#7ee787' };
-  body.innerHTML = slice.map(function (r) {
+  var isWrapped = !!FDESK.fxWrap;
+  var wrapBtn = document.getElementById('fearnFxWrapBtn');
+  if (wrapBtn) wrapBtn.classList.toggle('active', isWrapped);
+
+  body.innerHTML = slice.map(function (r, idx) {
+    var globalIdx = start + idx;
     var rate = (r.r == null || r.r === '' || !isFinite(Number(r.r))) ? '<span style="color:var(--text-muted);">RNR</span>' : Number(r.r).toLocaleString('en-US');
     var dc = DEP_COLORS[r.dp] || '#8b949e';
-    return '<tr>' +
+
+    var vHtml = '<div style="font-weight:600;color:var(--text-bright);">' + escapeHtml(r.v || '—') + '</div>';
+    if (r.ow) {
+      vHtml += '<div style="font-size:10px;color:var(--text-muted);line-height:1.2;" title="Shipowner: ' + escapeHtml(r.ow) + '">🏢 ' + escapeHtml(r.ow) + '</div>';
+    }
+
+    var routeText = r.rt || '';
+    if (!routeText && (r.lp || r.dst)) {
+      routeText = (r.lp || '—') + ' → ' + (r.dst || '—');
+    }
+    var routeHtml = '<div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:160px;" title="' + escapeHtml(routeText || '—') + '">' + escapeHtml(routeText || '—') + '</div>';
+    if (r.rt && (r.lp || r.dst)) {
+      routeHtml += '<div style="font-size:10px;color:var(--text-muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:160px;" title="Ports: ' + escapeHtml((r.lp || '—') + ' → ' + (r.dst || '—')) + '">' + escapeHtml((r.lp || '—') + ' → ' + (r.dst || '—')) + '</div>';
+    }
+
+    var commentText = r.x || '';
+    var commentStyle = isWrapped
+      ? 'font-size:var(--fs-micro);color:var(--text);white-space:normal;word-break:break-word;min-width:240px;max-width:400px;line-height:1.4;'
+      : 'font-size:var(--fs-micro);color:var(--text-muted);max-width:260px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;';
+
+    return '<tr onclick="openFearnFxDetail(' + globalIdx + ')" style="cursor:pointer;transition:background 0.1s;" class="fearn-fx-row" onmouseenter="this.style.background=\'rgba(88,166,255,0.06)\'" onmouseleave="this.style.background=\'\'" title="Click row to open complete fixture inspector">' +
       '<td class="mono" style="color:var(--text-muted);white-space:nowrap;">' + escapeHtml(r.d || '') + '</td>' +
       '<td><span style="font-size:var(--fs-micro);font-weight:700;padding:1px 5px;border-radius:8px;border:1px solid ' + dc + ';color:' + dc + ';">' + escapeHtml(r.dp || '—') + '</span></td>' +
       '<td style="white-space:nowrap;">' + escapeHtml(r.sg || '—') + '</td>' +
-      '<td style="font-weight:600;color:var(--text-bright);">' + escapeHtml(r.v || '—') + '</td>' +
+      '<td>' + vHtml + '</td>' +
       '<td>' + escapeHtml(r.c || '—') + '</td>' +
+      '<td>' + routeHtml + '</td>' +
       '<td>' + escapeHtml(r.cm || '—') + '</td>' +
       '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.p || '—') + '</td>' +
       '<td class="mono" style="white-space:nowrap;">' + escapeHtml(r.lc || '—') + '</td>' +
       '<td class="mono" style="text-align:right;color:var(--accent);">' + rate + '</td>' +
-      '<td style="font-size:var(--fs-micro);color:var(--text-muted);max-width:260px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">' + escapeHtml(r.x || '') + '</td>' +
+      '<td style="' + commentStyle + '" title="' + escapeHtml(commentText) + '">' + escapeHtml(commentText) + '</td>' +
       '</tr>';
-  }).join('') || '<tr><td colspan="10" style="text-align:center;color:var(--text-muted);padding:14px;">No fixtures match.</td></tr>';
+  }).join('') || '<tr><td colspan="11" style="text-align:center;color:var(--text-muted);padding:14px;">No fixtures match.</td></tr>';
+
   var count = document.getElementById('fearnFxCount');
   if (count) count.textContent = rows.length.toLocaleString('en-US') + ' of ' + (FDESK.tape ? FDESK.tape.rows.length.toLocaleString('en-US') : 0) + ' tape rows';
   var pager = document.getElementById('fearnFxPager');
   if (pager) pager.innerHTML = 'page ' + (FDESK.fxPage + 1) + '/' + pages + ' <button class="tracking-status-btn" onclick="fearnFxPage(-1)" style="padding:1px 7px;">◀</button> <button class="tracking-status-btn" onclick="fearnFxPage(1)" style="padding:1px 7px;">▶</button>';
+}
+
+function openFearnFxDetail(idx) {
+  var r = (_currentFearnFxRows && _currentFearnFxRows[idx]) || (fearnFxFiltered()[idx]);
+  if (!r) return;
+  _activeFearnFxRow = r;
+  var modal = document.getElementById('fearnFxModal');
+  if (!modal) return;
+
+  var DEP_COLORS = { BULK: '#e3b341', TANK: '#f778ba', TANKPRO: '#ffa198', LNG: '#8957e5', LPG: '#39c5cf', RoRo: '#7ee787' };
+  var dc = DEP_COLORS[r.dp] || '#8b949e';
+
+  var vesselEl = document.getElementById('fearnFxModalVessel');
+  if (vesselEl) vesselEl.textContent = r.v || 'Unnamed Vessel';
+
+  var deptBadge = document.getElementById('fearnFxModalDeptBadge');
+  if (deptBadge) {
+    deptBadge.innerHTML = '<span style="font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;border:1px solid ' + dc + ';color:' + dc + ';">' + escapeHtml(r.dp || '—') + '</span>';
+  }
+
+  var segBadge = document.getElementById('fearnFxModalSegBadge');
+  if (segBadge) segBadge.textContent = r.sg || 'Unspecified Segment';
+
+  var subEl = document.getElementById('fearnFxModalSub');
+  if (subEl) {
+    var subParts = [];
+    if (r.ow) subParts.push('Owner: <strong>' + escapeHtml(r.ow) + '</strong>');
+    if (r.im) subParts.push('IMO: <strong>' + escapeHtml(String(r.im).replace(/\.0$/, '')) + '</strong>');
+    subEl.innerHTML = subParts.length ? subParts.join(' &nbsp;·&nbsp; ') : 'Commercial Fixture Record';
+  }
+
+  var rateVal = (r.r == null || r.r === '' || !isFinite(Number(r.r))) ? 'RNR (Rate Not Reported)' : Number(r.r).toLocaleString('en-US');
+  var grid = document.getElementById('fearnFxModalGrid');
+  if (grid) {
+    var items = [
+      { label: 'Date', val: r.d || '—' },
+      { label: 'Charterer', val: r.c || '—' },
+      { label: 'Owner / Disponent', val: r.ow || '—' },
+      { label: 'Commodity', val: r.cm || '—' },
+      { label: 'Rate', val: rateVal, highlight: true },
+      { label: 'Period / Term', val: r.p || '—' },
+      { label: 'Laycan Window', val: r.lc || '—' },
+      { label: 'Route', val: r.rt || '—' },
+      { label: 'Load Port', val: r.lp || '—' },
+      { label: 'Discharge Port', val: r.dst || '—' },
+      { label: 'IMO Number', val: r.im ? String(r.im).replace(/\.0$/, '') : '—' }
+    ];
+    grid.innerHTML = items.map(function (it) {
+      return '<div style="padding:4px 0;">' +
+        '<div style="font-size:10px;text-transform:uppercase;color:var(--text-muted);font-family:\'IBM Plex Mono\',monospace;letter-spacing:0.5px;">' + escapeHtml(it.label) + '</div>' +
+        '<div style="font-size:13px;font-weight:' + (it.highlight ? '700;color:var(--accent);' : '500;color:var(--text-bright);') + 'margin-top:2px;word-break:break-word;">' + escapeHtml(it.val) + '</div>' +
+        '</div>';
+    }).join('');
+  }
+
+  var commEl = document.getElementById('fearnFxModalComment');
+  if (commEl) {
+    commEl.textContent = r.x || '(No additional comments or broker notes recorded)';
+  }
+
+  var idEl = document.getElementById('fearnFxModalId');
+  if (idEl) {
+    idEl.textContent = 'Fearnleys Hasura Fixture ID: ' + (r.id || '—');
+  }
+
+  modal.style.display = 'flex';
+}
+
+function closeFearnFxModal() {
+  var modal = document.getElementById('fearnFxModal');
+  if (modal) modal.style.display = 'none';
+  _activeFearnFxRow = null;
+}
+
+function copyFearnFxComment() {
+  if (!_activeFearnFxRow || !_activeFearnFxRow.x) return;
+  navigator.clipboard.writeText(_activeFearnFxRow.x).then(function () {
+    var btn = document.getElementById('fearnFxCopyCommentBtn');
+    if (btn) {
+      var old = btn.textContent;
+      btn.textContent = 'Copied!';
+      setTimeout(function () { btn.textContent = old; }, 1500);
+    }
+  });
 }
 function fearnFxPage(delta) { FDESK.fxPage += delta; renderFearnFxTable(); }
 function setFearnFxDept(d) {

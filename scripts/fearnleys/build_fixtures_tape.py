@@ -91,15 +91,16 @@ def main():
         parts.append(g[g[dcol] >= anchor - pd.Timedelta(days=TAPE_DAYS)])
     tape = pd.concat(parts).sort_values(dcol)
     cutoff = cutoff_live
-    want = [c for c in ["department", "segment", "vessel_name", "charterer", "route",
-                        "commodity", "rate_numeric", "period", "laycan", "comment"]
+    want = [c for c in ["id", "department", "segment", "vessel_name", "charterer", "owner", "route",
+                        "commodity", "rate_numeric", "period", "laycan", "comment",
+                        "load_port", "discharge_port", "imo"]
             if c in tape.columns]
     tdf = tape[want + [dcol]].copy()
     tdf["d"] = tdf[dcol].dt.strftime("%Y-%m-%d")
     tdf = tdf.sort_values(dcol, ascending=False)
-    key_map = {"vessel_name": "v", "charterer": "c", "route": "rt", "commodity": "cm",
+    key_map = {"id": "id", "vessel_name": "v", "charterer": "c", "owner": "ow", "route": "rt", "commodity": "cm",
                "department": "dp", "segment": "sg", "period": "p", "laycan": "lc",
-               "comment": "x", "rate_numeric": "r"}
+               "comment": "x", "rate_numeric": "r", "load_port": "lp", "discharge_port": "dst", "imo": "im"}
     out_rows = []
     for rec_t in tdf.to_dict("records"):
         rec = {"d": rec_t["d"]}
