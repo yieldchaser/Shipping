@@ -61,6 +61,7 @@ data/bunkers/bunker_master_historical.json
 data/reports/*/pdfs/
 data/raw/
 data/extracted/v*/
+data/extracted/baseline/
 data/extracted/inventory.jsonl
 scripts/drewry_ais_pdfs/
 reports/shipbrokers/**/*.pdf
