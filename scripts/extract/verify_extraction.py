@@ -75,17 +75,43 @@ def check_duplicates(checkpoint, actions, info):
                        f"two batches probably ran concurrently; check for strays")
 
 
-def check_outputs(out_root, actions, info):
+def check_outputs(out_root, actions, info, checkpoint=None):
     """Flag completed docs whose artefacts are missing.
 
     Excludes docs that are EMPTY BY DESIGN: scanned statements superseded by a
     richer feed (provenance-only) legitimately produce no text/tables. Without
-    this the check cries wolf every hour on ~140 CFTC dirs.
+        this the check cries wolf every hour on ~140 CFTC dirs.
+
+    An empty dir means three different things, so it is now classified against
+    the checkpoint (added 2026-09-21):
+      * recorded ok but holding no artefacts - a silent failure. Measured on
+        the live corpus: 11 Hellenic MMi dailies had status ok with blocks=706
+        and no text.jsonl / tables.jsonl / pages.jsonl / charts/meta.jsonl at
+        all, while the per-page chart images written earlier in the same run
+        were still on disk. Cause not established. This is the actionable class.
+      * recorded as a failure (timeout/crash) - known, reported separately.
+      * absent from the checkpoint - still being extracted right now.
+    Without that classification the check also fires on documents in flight,
+    which is why the old cap hidden the defect instead of surfacing it.
     """
     import glob as _glob
     dirs = _glob.glob(os.path.join(out_root, "*", "*"))
     info["doc_dirs"] = len(dirs)
-    empty, by_design = 0, 0
+    recorded_ok, failed_stems = set(), set()
+    if checkpoint and os.path.exists(checkpoint):
+        for line in open(checkpoint, encoding="utf-8"):
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rec = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if rec.get("status") == "ok" and rec.get("doc"):
+                recorded_ok.add(rec["doc"])
+            elif rec.get("status") and rec.get("path"):
+                failed_stems.add(os.path.splitext(os.path.basename(rec["path"]))[0])
+    empty_ok, empty_failure, in_flight, by_design = 0, 0, 0, 0
     # Fixed 2026-09-21: this used to scan only dirs[:600]. Measured over 1,532
     # doc dirs: the capped scan reported 0 unexpected-empty dirs, the uncapped
     # scan reported 9 - including the 3 documents the per-doc timeout killed,
@@ -109,12 +135,24 @@ def check_outputs(out_root, actions, info):
                     continue
             except Exception:
                 pass
-        empty += 1
+        rel_doc = os.path.relpath(d, out_root).replace(os.sep, "/")
+        if rel_doc in recorded_ok:
+            empty_ok += 1
+            if empty_ok <= 5:
+                actions.append(f"SILENT EMPTY OUTPUT: {rel_doc} is recorded ok in "
+                               f"the checkpoint but holds no text/tables/pages")
+        elif os.path.basename(d) in failed_stems:
+            empty_failure += 1
+        else:
+            in_flight += 1
     info["empty_by_design"] = by_design
-    info["empty_unexpected"] = empty
-    if empty:
-        actions.append(f"{empty} completed doc dirs have no text.jsonl/meta.json "
-                       f"and are NOT scanned-only - inspect")
+    info["empty_after_ok_status"] = empty_ok
+    info["empty_after_failure"] = empty_failure
+    info["empty_not_in_checkpoint"] = in_flight
+    info["empty_unexpected"] = empty_ok
+    if empty_ok:
+        actions.append(f"{empty_ok} dirs recorded ok in the checkpoint hold no "
+                       f"text/tables/pages - silent failure; re-extract them")
 
 
 def check_quality(out_root, actions, info, sample=40):
@@ -254,7 +292,8 @@ def main():
     actions, info = [], {}
     check_state(a.state, actions, info)
     check_duplicates(a.checkpoint, actions, info)
-    check_outputs(os.path.join(a.out, "corpus"), actions, info)
+    check_outputs(os.path.join(a.out, "corpus"), actions, info,
+                  checkpoint=a.checkpoint)
     check_quality(os.path.join(a.out, "corpus"), actions, info)
     check_new_failures(a.checkpoint, actions, info)
     check_golden(os.path.join(a.out, "corpus"), actions, info)
