@@ -80,20 +80,16 @@ def needs_layout(pdf_path, pno, camelot_tables):
     """Gate: run the expensive layout model only where it changes the outcome.
 
     Measured 2026-09-21: layout = 2.28s/page vs all other stages combined
-    0.15s/page (91% of runtime). Skip it unless the page looks like a
-    missed or fragmented table.
+    0.15s/page (91% of runtime). Firing on "many tables" was wrong: on
+    banchero_costa (chart-heavy, genuinely many small tables) it cost 54s for
+    16 extra fragments. Fire only where a table is MISSED or STUBBY.
     """
     if not camelot_tables:
-        # no tables found -> maybe borderless/missed; only worth layout on
-        # text-dense pages, not figure-only pages
-        return True
-    if len(camelot_tables) > 5:
-        # likely one table fragmented by wrapped rows -> layout merges it
-        return True
+        return True  # possibly borderless/missed
     for t in camelot_tables:
         rows = t.get("rows") or []
-        if rows and len(rows) <= 3:
-            return True  # stub fragments: layout gives real bounds
+        if len(rows) <= 3:
+            return True  # stub fragment: layout gives real bounds
     return False
 
 
