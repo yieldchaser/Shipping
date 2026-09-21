@@ -182,3 +182,57 @@ the earlier (2021-2023) era. `empty_after_ok_status` has held at exactly 11 for
 since), so the damage may have been a transient window rather than a continuing
 leak; it is now detectable either way. Batch healthy: pid 7376 with 2 workers,
 state 4.0 min old, 1,709 checkpoint rows, 6.4 s/doc, ETA ~11 h.
+
+---
+
+## 2026-09-22 00:05 IST (18:35 UTC) - orchestrator follow-up
+
+### Finding 4 RESOLVED: all 11 silent-empty docs re-extracted
+
+Ran each of the 11 through `batch_worker.py` directly into
+`data/extracted/corpus` - deliberately NOT via `--retry-failed`, and NOT touching
+`corpus_checkpoint.jsonl`, because the live batch holds that file open for
+append and replacing it would silently lose completed rows.
+
+Result: 11/11 restored, all four artefacts present (`text.jsonl`,
+`tables.jsonl`, `pages.jsonl`, `charts/meta.jsonl`), and the recovered
+`blocks`/`tables` counts **match the checkpoint row exactly** for every one of
+them (706/36, 706/38, 704/36, 706/36, 695/36, 696/39, 694/38, 696/38, 694/36,
+674/35, 676/36). That match is the useful part: extraction is reproducible, so
+this was lost output rather than bad output.
+
+### Cause: still not proven, but the exposure is now closed
+
+`data/extracted/` was **untracked and NOT gitignored** at the time of the loss,
+which makes generated output vulnerable to any `git clean`/`reset` side effect
+from the other agent session working this same checkout. That is a plausible
+mechanism, not a proven one - the loss window (22:46-23:00) predates the
+recorded git operations (23:04-23:10), so it is recorded as a hypothesis.
+
+Closed regardless: `.gitignore` now ignores all of `data/extracted/`, so
+generated output can never again be deleted by git housekeeping. The verifier's
+`check_outputs` is now uncapped and classifies against the checkpoint, so a
+recurrence is named immediately rather than sitting outside a 600-dir window.
+
+### Protection for the three fixes
+
+The checkout was left on `auto/extract-fixes-2026-09-21`, and another agent
+session is running `git reset --hard`/`stash` on this same working tree - a
+reset while checked out would move that branch pointer and orphan the fixes.
+Mitigation, since `git push` keeps failing (HTTP 408, then pack-objects killed:
+the repo is large and the link is slow):
+
+* tag `extract-fixes-2026-09-21` at `388b06c5a` - tags are not moved by a branch
+  reset, so the three commits stay reachable
+* push retried in the background; if it still fails the work is safe locally on
+  the tag and the branch, and the files are live in the working tree
+
+### Still for the human
+
+1. Mojibake repair for the 1,026 extracted hellenic docs - unchanged, needs a
+   decision (see Finding 1).
+2. The 3 timeout textbooks - unchanged, accept or raise the ceiling.
+3. Disk: measured stable at 29 GB free across three checks, no process writing
+   >2 MB/s, and the remaining ~6,000 docs need roughly 5 GB. The 8 GB/h the
+   earlier entry reported has not reproduced; still worth watching.
+
