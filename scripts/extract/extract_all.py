@@ -240,14 +240,37 @@ def verify_tables_against_text(tables, page_text, pno):
 
 
 def text_values_not_in_tables(page_text, tables):
-    """Count numeric tokens present in the page text but absent from every
-    table: the values the table grid dropped, plus chart axis labels."""
+    """Numeric tokens present in the page text but absent from every table.
+
+    These are the values the grid dropped, plus chart axis labels. Returned as
+    a list (not just a count) so a downstream merge can actually RECOVER them:
+    measured 2026-09-21, text extraction hit 100% of cells on three golden
+    pages where the best table extractor reached 83-100%, and swept 28/28
+    demolition circle/bar values that the grid captured only 15 of.
+    """
     nums = re.findall(r"\b\d[\d,]*\.?\d*\b", page_text or "")
     if not nums:
-        return 0
+        return []
     blob = " ".join(str(c) for t in tables for row in (t.get("rows") or [])
                     for c in row).casefold()
-    return sum(1 for n in set(nums) if n.casefold() not in blob)
+    seen, out = set(), []
+    for n in nums:
+        if n.casefold() not in blob and n not in seen:
+            seen.add(n)
+            out.append(n)
+    return out
+
+
+def image_only_table_suspect(page, n_tables, n_images, text_chars):
+    """Flag pages whose table is likely an IMAGE, needing OCR.
+
+    Derived from the Seabrokers finding (2026-09-21): six engines including
+    plain text all scored 0/20 on a rates table that was rendered as a picture.
+    Signal: no table recovered, but the page carries images and some text.
+    """
+    if n_tables or not n_images or text_chars < 50:
+        return False
+    return True
 
 
 def layout_tables(page, pdf_path, pno):
@@ -372,12 +395,20 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
             if gated_layout and (not page_tables or needs_layout(pdf_path, pno, page_tables)):
                 page_tables.extend(layout_tables(page, pdf_path, pno))
             # recall reconciliation: the text layer is the primary value source,
-            # the table grid the primary schema source. Flag pages where the
-            # grid dropped values present in the text.
+            # the table grid the primary schema source. Record both the
+            # per-table confidence and the exact values the grid dropped.
             page_tables = verify_tables_against_text(page_tables, page_text, pno)
             orphan = text_values_not_in_tables(page_text, page_tables)
             if orphan:
                 p_rows[-1]["values_only_in_text"] = orphan
+            if image_only_table_suspect(page, len(page_tables), n_img, pix_chars):
+                p_rows[-1]["ocr_queue"] = "no table recovered, page has images"
+            # sharper signal: a grid WAS returned but none of its values exist in
+            # the text layer -> the table is a picture (Seabrokers case)
+            scored = [t.get("text_verified") for t in page_tables
+                      if t.get("text_verified") is not None]
+            if scored and all(s == 0 for s in scored):
+                p_rows[-1]["ocr_queue"] = "table values not in text layer (image table)"
             for t in page_tables:
                 t.update({"page": pno})
                 tab_rows.append(t)
@@ -398,7 +429,9 @@ def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
     return {"doc": dkey, "pages": len(p_rows),
             "routes": {r: sum(1 for p in p_rows if p["route"] == r) for r in
                        set(p["route"] for p in p_rows)},
-            "blocks": len(t_rows), "tables": len(tab_rows), "images": len(c_meta)}
+            "blocks": len(t_rows), "tables": len(tab_rows), "images": len(c_meta),
+            "ocr_queue_pages": sum(1 for p in p_rows if p.get("ocr_queue")),
+            "orphan_values": sum(len(p.get("values_only_in_text") or []) for p in p_rows)}
 
 
 def main():

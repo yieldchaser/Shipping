@@ -30,11 +30,14 @@ GOLDEN = {
         "bar_values": ["40", "55.8", "47", "34.3", "38.8", "44.6", "35.3", "30.4",
                        "16.9", "23.2", "23.7", "12.5", "10.5", "9.85", "11.45", "4.35"],
     },
-    # Seabrokers August 2026 (page 2): 4x7 OSV rates table.
+    # Seabrokers August 2026 (page index 6): 4x7 OSV rates table.
     # Ground truth from the committed markdown mirror, itself verified against PDF.
+    # NOTE 2026-09-21: an earlier version of this golden set pointed at page 1
+    # (the contents page) and wrongly concluded the table was image-only. The
+    # values are in the text layer on page index 6.
     "seabrokers_aug": {
         "pdf": REPO + "data/reports/seabrokers/pdfs/2026-08-01_market-report-august-2026.pdf",
-        "page": 1,
+        "page": 6,
         "table_cells": ["18,000", "4,737", "279.99", "15,000", "20,000",
                         "21,445", "5,925", "261.94", "9,000", "31,000",
                         "62,332", "15,899", "292.05", "38,517", "117,359",

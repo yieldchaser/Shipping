@@ -49,8 +49,8 @@ trusting any extractor. Cell-level recall:
 | SSY Atlantic (14) | 100% | 0% | 100% | 93% | **100%** | **100%** |
 | Breakwave Dry (6) | 83% | 33% | 50% | 17% | **100%** | **100%** |
 | Athenian demolition (24) | 0% | 0% | 17% | 0% | 17% | 17% |
-| Seabrokers Aug (20) | 0% | 0% | 0% | 0% | **0%** | **0%** |
-| *demolition circle+bar values (28)* | *15* | *0* | *28* | *0* | ***28*** | ***28*** |
+| Seabrokers Aug p7 (20) | 30% | 0% | 5% | 0% | **50%** | **50%** |
+| *demolition circle+bar values (28)* | *15* | *0* | *28* | *14* | ***28*** | ***28*** |
 
 ### What the matrix changes
 
@@ -58,20 +58,20 @@ trusting any extractor. Cell-level recall:
    text extraction hit 100% on three of five pages and swept all 28 demolition
    circle/bar values, while the best table extractor reached 83-100% and only
    15/28 on the same page. Implemented: every table now carries a
-   `text_verified` ratio and each page tracks `values_only_in_text` — the grid
-   provides schema, the text provides recall, and the gap is now measurable
-   per page instead of assumed.
-2. **Seabrokers is IMAGE-ONLY for its rates table** — every engine, including
-   text, scored 0/20. The committed markdown was produced by OCR ("Anydoc OCR"
-   in its own header), which is why it looked parse-friendly. It belongs in the
-   same OCR queue as the Alibra charter tables.
-3. **camelot-lattice is the wrong flavor** (0-33%); stream is correct throughout.
-4. **Tabula is a legitimate third engine** (93% SSY, 60% Star Asia) but needs a
+   `text_verified` ratio and each page records the exact `values_only_in_text`
+   list — the grid provides schema, the text provides recall, and the gap is
+   measurable per page instead of assumed.
+2. **camelot-lattice is the wrong flavor** (0-33%); stream is correct throughout.
+3. **Tabula is a legitimate third engine** (93% SSY, 60% Star Asia) but needs a
    JRE on PATH or it silently returns nothing — measured: 0% without Java, 93%
    with. CI must install a JRE.
-5. **60% of table cells on hard pages are recoverable from text but dropped by
-   the grid** — the reconciliation this now records is the single largest
-   remaining accuracy lever.
+4. **Athenian demolition's historical price table is a genuine hard case** — all
+   six engines ≤17%, including text. Its circle/bar values extract perfectly, so
+   the table is likely drawn as vector graphics. Candidate for the OCR queue.
+5. **A golden page must be confirmed to actually CONTAIN the table.** An earlier
+   run of this matrix pointed at the Seabrokers contents page and produced a
+   confident, wrong conclusion ("Seabrokers rates are image-only"). Corrected:
+   the values are text-extractable (50% text / 30% camelot) on page 7.
 
 ## The stack (updated)
 
@@ -88,8 +88,13 @@ trusting any extractor. Cell-level recall:
 | — | ~~pymupdf-layout~~ | Demoted to opt-in (`--layout`) | fired 0% on 100 probed pages; 2.4% segfault rate |
 | — | ~~local VLM~~ | Rejected | 3B hallucinated rows; 7B won't fit 8.3 GB RAM |
 
-**Known image-only tables** (OCR/VLM queue, deferred): Seabrokers OSV rates
-(0% from all six engines), Alibra dry/tanker charter tables.
+**Known hard cases** (OCR/VLM queue, deferred): Athenian demolition historical
+price table (vector-drawn, all engines ≤17%), Alibra dry/tanker charter tables
+(image-only by construction).
+
+**Golden set grows before the bulk run**: one verified page per source (33), so
+every claim above is per-source rather than per-sample. A golden page must be
+confirmed to contain the table it claims to test.
 
 ## Run plan
 
