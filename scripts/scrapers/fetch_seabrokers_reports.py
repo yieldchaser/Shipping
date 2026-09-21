@@ -370,6 +370,7 @@ def download_and_digest_reports(entries: list, limit=None):
 
         pdf_filename = f"{date_str}_{slug}.pdf"
         pdf_path = os.path.join(PDF_STORAGE_DIR, pdf_filename)
+        md_filename = f"{date_str}_{slug}.md"
         year_str = str(entry.get("year", date_str[:4]))
         year_dir = os.path.join(SEABROKERS_REPORTS_DIR, year_str)
         os.makedirs(year_dir, exist_ok=True)
@@ -507,8 +508,11 @@ def main():
             pdf_fn = f"{e['date']}_{e['slug']}.pdf"
             pdf_p = os.path.join(PDF_STORAGE_DIR, pdf_fn)
             md_fn = f"{e['date']}_{e['slug']}.md"
-            md_p = os.path.join(SEABROKERS_REPORTS_DIR, md_fn)
-            if not os.path.exists(pdf_p) or not os.path.exists(md_p) or os.path.getsize(pdf_p) < 1000:
+            year_s = str(e.get("year", e["date"][:4]))
+            md_p = os.path.join(SEABROKERS_REPORTS_DIR, year_s, md_fn)
+            md_p_data = os.path.join(DATA_SEABROKERS_DIR, md_fn)
+            if (not os.path.exists(pdf_p) or not os.path.exists(md_p)
+                    or not os.path.exists(md_p_data) or os.path.getsize(pdf_p) < 1000):
                 unprocessed.append(e)
 
         if unprocessed:
