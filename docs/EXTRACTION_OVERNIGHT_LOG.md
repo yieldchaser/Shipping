@@ -411,3 +411,22 @@ Two things follow for the human:
    Build such strings with `chr(10)` / `ord()` checks instead, and run
    `python -m py_compile` on the target file IMMEDIATELY after writing it. The
    live batch turns any syntax error into a burst of CRASH rows within seconds.
+
+### Closing state 03:20 IST (21:50 UTC)
+
+`verify_extraction.py --json`: done 4,260 / 7,816 (ok 3,981, error 72, timeout 3,
+CRASH 204), 5.8 s/doc, ETA 346 min, `empty_after_ok_status` 0,
+`empty_not_in_checkpoint` 0, mean `text_verified` 0.982, 24.6 GB free. Processes:
+one `run_batch` (pid 7376) with 2 workers, plus one recovery sweep (pid 17156).
+The recovery had reached 24 of 204 documents, every one `ok`, and all 22 unique
+documents logged so far carry full text/tables/pages/charts - ETA for the rest
+~04:05 IST. It is safe to leave running: it is sequential, it appends progress,
+and a restart skips what it already did.
+
+One reading worth not panicking about later: an empty-output scan taken while the
+recovery was mid-document listed
+`shipbrokers/advanced_shipping_2022_W33_...` as an empty dir (charts only) because
+the worker had harvested images but had not yet written text/tables/pages. It is
+complete now. `verify_extraction.py` classifies such dirs as in-flight, so a
+transient count of 4 `empty_after_failure` (3 timeout textbooks + 1 mid-write) is
+a snapshot, not a defect. No silent-empty recurred: `empty_after_ok_status` is 0.
