@@ -76,16 +76,124 @@ def check_duplicates(checkpoint, actions, info):
 
 
 def check_outputs(out_root, actions, info):
-    dirs = glob.glob(os.path.join(out_root, "*", "*"))
+    """Flag completed docs whose artefacts are missing.
+
+    Excludes docs that are EMPTY BY DESIGN: scanned statements superseded by a
+    richer feed (provenance-only) legitimately produce no text/tables. Without
+    this the check cries wolf every hour on ~140 CFTC dirs.
+    """
+    import glob as _glob
+    dirs = _glob.glob(os.path.join(out_root, "*", "*"))
     info["doc_dirs"] = len(dirs)
-    empty = 0
-    for d in dirs[:400]:
+    empty, by_design = 0, 0
+    for d in dirs[:600]:
         tj = os.path.join(d, "text.jsonl")
-        if not (os.path.exists(tj) and os.path.getsize(tj) > 0) and \
-           not os.path.exists(os.path.join(d, "meta.json")):
-            empty += 1
+        tabj = os.path.join(d, "tables.jsonl")
+        pj = os.path.join(d, "pages.jsonl")
+        has_text = os.path.exists(tj) and os.path.getsize(tj) > 0
+        has_tab = os.path.exists(tabj) and os.path.getsize(tabj) > 0
+        if has_text or has_tab:
+            continue
+        # scanned page with no text layer == nothing to extract, not a defect
+        if os.path.exists(pj):
+            try:
+                pages = [json.loads(l) for l in open(pj, encoding="utf-8") if l.strip()]
+                if pages and all(p.get("route") in ("scanned", "empty") for p in pages):
+                    by_design += 1
+                    continue
+            except Exception:
+                pass
+        empty += 1
+    info["empty_by_design"] = by_design
+    info["empty_unexpected"] = empty
     if empty:
-        actions.append(f"{empty} completed doc dirs have no text.jsonl/meta.json")
+        actions.append(f"{empty} completed doc dirs have no text.jsonl/meta.json "
+                       f"and are NOT scanned-only - inspect")
+
+
+def check_quality(out_root, actions, info, sample=40):
+    """Audit the QUALITY of what has been extracted, not just that it ran.
+
+    Samples the most recently written documents and measures whether the output
+    is substantive, whether reconciliation confidence is holding, and whether new
+    failure modes are appearing that were not in the known list.
+    """
+    import glob
+    import json as _json
+    import statistics
+    docs = glob.glob(os.path.join(out_root, "*", "*"))
+    if not docs:
+        info["quality"] = "no output yet"
+        return
+    docs.sort(key=lambda d: os.path.getmtime(d), reverse=True)
+    recent = docs[:sample]
+    blocks, tables, imgs, tv_means, orphans = [], [], [], [], []
+    thin = []
+    for d in recent:
+        tj = os.path.join(d, "text.jsonl")
+        tabj = os.path.join(d, "tables.jsonl")
+        nb = sum(1 for _ in open(tj, encoding="utf-8")) if os.path.exists(tj) else 0
+        ntab = sum(1 for _ in open(tabj, encoding="utf-8")) if os.path.exists(tabj) else 0
+        blocks.append(nb)
+        tables.append(ntab)
+        meta = os.path.join(d, "charts", "meta.jsonl")
+        imgs.append(sum(1 for _ in open(meta, encoding="utf-8")) if os.path.exists(meta) else 0)
+        v = []
+        if os.path.exists(tabj):
+            for line in open(tabj, encoding="utf-8"):
+                try:
+                    t = _json.loads(line)
+                except _json.JSONDecodeError:
+                    continue
+                if t.get("text_verified") is not None:
+                    v.append(t["text_verified"])
+        if v:
+            tv_means.append(sum(v) / len(v))
+        if nb == 0 and ntab == 0:
+            thin.append(os.path.basename(d))
+    info["quality_recent_docs"] = len(recent)
+    info["quality_median_blocks"] = int(statistics.median(blocks)) if blocks else 0
+    info["quality_median_tables"] = int(statistics.median(tables)) if tables else 0
+    info["quality_median_images"] = int(statistics.median(imgs)) if imgs else 0
+    info["quality_mean_text_verified"] = (round(statistics.mean(tv_means), 3)
+                                          if tv_means else None)
+    info["quality_empty_docs_in_sample"] = len(thin)
+
+    # a run that is "succeeding" while producing nothing is the silent failure
+    # this whole check exists to catch
+    if recent and len(thin) / len(recent) > 0.35:
+        actions.append(f"QUALITY: {len(thin)}/{len(recent)} of the most recent docs "
+                       f"produced no text and no tables - extraction may have "
+                       f"silently degraded. Inspect one: {thin[0]}")
+    if tv_means and statistics.mean(tv_means) < 0.5:
+        actions.append(f"QUALITY: mean text_verified has fallen to "
+                       f"{statistics.mean(tv_means):.2f} in recent docs (grid is "
+                       f"dropping more values than the text layer confirms)")
+
+
+def check_new_failures(checkpoint, actions, info):
+    """Flag failure modes not already known/explained."""
+    if not os.path.exists(checkpoint):
+        return
+    import collections as _c
+    import json as _json
+    kinds = _c.Counter()
+    for line in open(checkpoint, encoding="utf-8"):
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            r = _json.loads(line)
+        except _json.JSONDecodeError:
+            continue
+        if r.get("status") not in ("ok",):
+            kinds[f"{r.get('status')}:{str(r.get('error',''))[:40]}"] += 1
+    known = ("not-a-pdf", "timeout", "no-extractable-content", "provenance-only")
+    unknown = {k: v for k, v in kinds.items()
+               if not any(kn in k for kn in known)}
+    info["failure_kinds"] = dict(kinds)
+    if unknown:
+        actions.append(f"NEW failure mode(s) not previously seen: {unknown}")
 
 
 def check_golden(out_root, actions, info):
@@ -140,8 +248,10 @@ def main():
     actions, info = [], {}
     check_state(a.state, actions, info)
     check_duplicates(a.checkpoint, actions, info)
-    check_outputs(os.path.join(a.out, "dryrun"), actions, info)
-    check_golden(os.path.join(a.out, "dryrun"), actions, info)
+    check_outputs(os.path.join(a.out, "corpus"), actions, info)
+    check_quality(os.path.join(a.out, "corpus"), actions, info)
+    check_new_failures(a.checkpoint, actions, info)
+    check_golden(os.path.join(a.out, "corpus"), actions, info)
     check_db(a.out, actions, info)
     check_disk(a.out, actions, info)
 
