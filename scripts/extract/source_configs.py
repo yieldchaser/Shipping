@@ -89,20 +89,26 @@ SOURCES = {
 # as camelot table_areas (y-flipped) -> Star Asia golden 13/15 -> 15/15.
 TOOL_LADDER = [
     ("pymupdf", "router + first-pass text; never the table parser"),
-    ("pymupdf-layout", "region labels + table bboxes + header/footer strip; constrains extractors"),
-    ("camelot-stream+areas", "primary table extractor (15/15 golden w/ layout areas)"),
-    ("pdfplumber", "verifier; union fallback where layout finds no boxes"),
-    ("tabula-stream", "revived 2026-09-21 (Temurin JRE 21 via winget); arbiter where camelot/plumber disagree (9/15 golden)"),
-    ("docling", "GATEKEEPER: golden + 5% sample cross-check per source, quarantine primary; bulk only with GPU (100-1900s/doc CPU)"),
-    ("local VLM audit", "REJECTED 2026-09-21: qwen2.5vl:3b hallucinated placeholder rows (A|1000, B|2000) on real Star Asia table, 58s/pg; 7B+ cannot fit 8.3GB RAM box (0.6GB free, no GPU). Docling is the CPU-viable auditor."),
+    ("camelot-stream", "PRIMARY table extractor (bordered + borderless, 13/15 golden)"),
+    ("pdfplumber", "verifier/union partner; union = 15/15 golden with laid-out recall"),
+    ("tabula-stream", "4th engine, revived via Temurin JRE 21; arbiter when engines disagree"),
+    ("docling", "GATEKEEPER on golden + per-source samples (15/15 Star Asia, 1900s/doc CPU)"),
+    ("pymupdf-layout", "DEMOTED 2026-09-21 to opt-in (--layout): of 100 text-dense pages the "
+                       "union found zero tables on 0 of them, so the gate fired 0% and added "
+                       "nothing while costing a subprocess and a segfault vector"),
+    ("local VLM audit", "REJECTED: qwen2.5vl:3b hallucinated rows on a real table (58s/pg); "
+                        "7B cannot fit 8.3GB RAM. Docling is the CPU-viable auditor."),
 ]
 
 # Hardware envelope (verified 2026-09-21, constrains every tool choice)
 HARDWARE = {"cpu_only": True, "gpu": None, "ram_total_gb": 8.3, "ram_free_gb": 2.4,
             "disk_free_gb": 34, "max_workers": 2,
             "implication": "no local VLM bulk/audit; classical stack + Docling sampling only; "
-                           "concurrency capped at 2 (pymupdf-layout ONNX model ~1GB resident per "
-                           "worker); output must stay Parquet/zstd and stream to disk"}
+                           "concurrency capped at 2; output must stay Parquet/zstd"}
+
+# Measured throughput, 35-doc stratified sample, default stack (no layout):
+#   436s / 387 pages / 911 tables / 1.13s per page / 13.2s per doc
+#   -> 7,816 unique docs = 28.7h single worker, 14.3h on 2 workers
 
 # Bench record 2026-09-21, Star Asia W35 p2 (15 golden cells), SSY, Breakwave p2
 BENCH = {"camelot-stream": "13/15, 4/4, 4/4", "pdfplumber": "13/15, 4/4, 1/4",

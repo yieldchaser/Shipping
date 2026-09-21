@@ -1,0 +1,292 @@
+{
+ "docs_probed": 35,
+ "errors": 2,
+ "pages": 387,
+ "tables": 911,
+ "layout_page_fires": 0,
+ "total_secs": 436.1,
+ "secs_per_page": 1.13,
+ "secs_per_doc": 13.2,
+ "projection_docs": 7816,
+ "hours_1_worker": 28.7,
+ "hours_2_workers": 14.3,
+ "per_root": {
+  "data/cftc_statements": 1,
+  "data/reports/seabrokers": 1,
+  "docs": 1,
+  "reports/": 1,
+  "reports/drybulk": 1,
+  "reports/hellenic": 8,
+  "reports/poten": 4,
+  "reports/shipbrokers": 13,
+  "reports/tankers": 1,
+  "scratch": 1,
+  "scripts/drewry_ais_pdfs": 1
+ },
+ "rows": [
+  {
+   "doc": "cftc_statements/BDRY_July-2019",
+   "pages": 1,
+   "tables": 0,
+   "layout_pages": 0,
+   "secs": 0.3,
+   "root": "data/cftc_statements"
+  },
+  {
+   "doc": "reports/2023-01-01_markedsrapport-januar-2023",
+   "pages": 16,
+   "tables": 50,
+   "layout_pages": 0,
+   "secs": 23.1,
+   "root": "data/reports/seabrokers"
+  },
+  {
+   "doc": "root/maritime_document_corpus_audit",
+   "pages": 6,
+   "tables": 35,
+   "layout_pages": 0,
+   "secs": 17.2,
+   "root": "docs"
+  },
+  {
+   "doc": "root/The Shipping Man (Matthew McCleery) (z-lib.org)",
+   "pages": 214,
+   "tables": 212,
+   "layout_pages": 0,
+   "secs": 115.6,
+   "root": "reports/"
+  },
+  {
+   "doc": "drybulk/2023-04-11_Breakwave_Dry_Bulk",
+   "pages": 2,
+   "tables": 9,
+   "layout_pages": 0,
+   "secs": 0.8,
+   "root": "reports/drybulk"
+  },
+  {
+   "doc": "hellenic/2022-03-28_mmi-daily-iron-ore-index-report-march-28-2022_mmi-daily-iron-ore-report-for-28th-m_543032bf66a8",
+   "pages": 6,
+   "tables": 36,
+   "layout_pages": 0,
+   "secs": 9.3,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "hellenic/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581",
+   "pages": 3,
+   "tables": 14,
+   "layout_pages": 0,
+   "secs": 1.7,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "hellenic/2021-09-13_mmi-daily-iron-ore-index-report-september-13-2021_mmi-daily-iron-ore-report-for-septem_cac72e8f02d2",
+   "pages": 6,
+   "tables": 34,
+   "layout_pages": 0,
+   "secs": 9.3,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "hellenic/2022-07-28_mmi-daily-iron-ore-index-report-july-28-2022_mmi-daily-iron-ore-report-for-28th-j_15c1213e2d4d",
+   "pages": 6,
+   "tables": 36,
+   "layout_pages": 0,
+   "secs": 7.4,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "hellenic/2021-08-18_athenian-shipbrokers-s-a-demolition-quick-update-week-32-2021_demo-weekly-32-2021-1_c26e6197a019",
+   "pages": 1,
+   "tables": 4,
+   "layout_pages": 0,
+   "secs": 0.7,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "hellenic/2022-01-12_Demo_IG_weekly_01_2022",
+   "pages": 1,
+   "tables": 4,
+   "layout_pages": 0,
+   "secs": 0.7,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "hellenic/2025-03-13_mmi-daily-iron-ore-index-report-march-13-2025_mmi-daily-iron-ore-report-for-13th-m_ecaced1710f0",
+   "pages": 6,
+   "tables": 37,
+   "layout_pages": 0,
+   "secs": 19.6,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "hellenic/2026-03-03_mmi-daily-iron-ore-index-report-march-03-2026_mmi-daily-iron-ore-report-for-3th-ma_63139fbfd8ee",
+   "pages": 6,
+   "tables": 35,
+   "layout_pages": 0,
+   "secs": 17.9,
+   "root": "reports/hellenic"
+  },
+  {
+   "doc": "poten/Tanker_Opinion_20060915",
+   "pages": 3,
+   "tables": 5,
+   "layout_pages": 0,
+   "secs": 0.6,
+   "root": "reports/poten"
+  },
+  {
+   "doc": "poten/Tanker_Opinion_20091106",
+   "pages": 2,
+   "tables": 8,
+   "layout_pages": 0,
+   "secs": 1.3,
+   "root": "reports/poten"
+  },
+  {
+   "doc": "poten/Tanker_Opinion_20130503",
+   "pages": 3,
+   "tables": 9,
+   "layout_pages": 0,
+   "secs": 3.0,
+   "root": "reports/poten"
+  },
+  {
+   "doc": "poten/Tanker_Opinion_20130510",
+   "pages": 4,
+   "tables": 8,
+   "layout_pages": 0,
+   "secs": 2.0,
+   "root": "reports/poten"
+  },
+  {
+   "doc": "shipbrokers/ssy_2025_20250417-Atlantic-Capesize-Report",
+   "pages": 1,
+   "tables": 2,
+   "layout_pages": 0,
+   "secs": 0.6,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/advanced_shipping_2025_W11_ADVANCED-MARKET-REPORT-WEEK-11",
+   "pages": 10,
+   "tables": 43,
+   "layout_pages": 0,
+   "secs": 19.2,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/golden_destiny_2022_W30_Weekly-SP-Market-Report-Week-ending-July-29th-2022-Week-30-Report-No-30.22",
+   "pages": 5,
+   "tables": 29,
+   "layout_pages": 0,
+   "secs": 15.1,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/star_asia_2023_W34_4ece41_920a241f74744c76be03283f1a17cc44",
+   "pages": 16,
+   "tables": 53,
+   "layout_pages": 0,
+   "secs": 30.5,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/star_asia_2026_W22_Market-Report-Week-22",
+   "pages": 16,
+   "tables": 55,
+   "layout_pages": 0,
+   "secs": 20.6,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/gibson_2023_2023-06-16-More-With-Less",
+   "pages": 8,
+   "tables": 18,
+   "layout_pages": 0,
+   "secs": 6.9,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/ssy_2022_A20220131",
+   "pages": 1,
+   "tables": 5,
+   "layout_pages": 0,
+   "secs": 0.7,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/golden_destiny_2022_W41_Weekly-SP-Market-Report-Week-ending-October-14th-2022-Week-41-Report-No-41.22",
+   "pages": 8,
+   "tables": 25,
+   "layout_pages": 0,
+   "secs": 17.0,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/advanced_shipping_2024_W24_ADVANCED-MARKET-REPORT-WEEK-24",
+   "pages": 10,
+   "tables": 42,
+   "layout_pages": 0,
+   "secs": 35.0,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/fearnleys_2022_W05_Fearnleys-Weekly-Report-Week-5-2022",
+   "pages": 1,
+   "tables": 24,
+   "layout_pages": 0,
+   "secs": 10.4,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/ism_2023_W43_ISM_handy_week43",
+   "pages": 2,
+   "tables": 4,
+   "layout_pages": 0,
+   "secs": 1.2,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/intermodal_2023_W34_Intermodal-Report-Week-34-2023",
+   "pages": 8,
+   "tables": 22,
+   "layout_pages": 0,
+   "secs": 18.5,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "shipbrokers/affinity_2026_Affinity-Tanker-Weekly-13.02.2026-HSN",
+   "pages": 2,
+   "tables": 5,
+   "layout_pages": 0,
+   "secs": 6.0,
+   "root": "reports/shipbrokers"
+  },
+  {
+   "doc": "tankers/2025-07-01_Breakwave_Tankers",
+   "pages": 2,
+   "tables": 8,
+   "layout_pages": 0,
+   "secs": 3.6,
+   "root": "reports/tankers"
+  },
+  {
+   "doc": "root/live_ppa_cargo-stats-by-destination_origin_aug2025",
+   "pages": 2,
+   "tables": 4,
+   "layout_pages": 0,
+   "secs": 2.4,
+   "root": "scratch"
+  },
+  {
+   "doc": "drewry_ais_pdfs/Drewry_AIS_PDF_Crude_VLCC_Week10_2024",
+   "pages": 9,
+   "tables": 36,
+   "layout_pages": 0,
+   "secs": 17.9,
+   "root": "scripts/drewry_ais_pdfs"
+  }
+ ]
+}

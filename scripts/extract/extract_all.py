@@ -288,7 +288,15 @@ def is_real_pdf(pdf_path):
         return False
 
 
-def process_one(pdf_path, out_root, skip_tables=False, gated_layout=True):
+def process_one(pdf_path, out_root, skip_tables=False, gated_layout=False):
+    """Extract one PDF.
+
+    gated_layout defaults OFF. Measured 2026-09-21 on a stratified sample:
+    of 100 text-dense pages, the Camelot+pdfplumber union found zero tables on
+    0 of them, so the layout gate fired 0% of the time and contributed nothing
+    while costing subprocess complexity and a segfault vector. It remains
+    available via --layout for sources where the union comes up empty.
+    """
     import pymupdf
     if not is_real_pdf(pdf_path):
         rel = os.path.relpath(pdf_path, REPO)
@@ -349,8 +357,10 @@ def main():
     ap.add_argument("--limit", type=int, default=30)
     ap.add_argument("--out", default=os.path.join(REPO, "data", "extracted", "v0"))
     ap.add_argument("--no-tables", action="store_true")
-    ap.add_argument("--no-layout", action="store_true",
-                    help="disable the gated layout pass (fast, lower table recall)")
+    ap.add_argument("--layout", action="store_true",
+                    help="enable the gated pymupdf-layout fallback (off by default; "
+                         "measured to add nothing on the current corpus but costs "
+                         "subprocess overhead and carries a segfault risk)")
     a = ap.parse_args()
     targets = []
     if a.pdf:
@@ -361,7 +371,7 @@ def main():
     summary = []
     for t in targets:
         try:
-            rec = process_one(t, a.out, a.no_tables, gated_layout=not a.no_layout)
+            rec = process_one(t, a.out, a.no_tables, gated_layout=a.layout)
         except Exception as exc:
             rec = {"doc": t, "error": f"{type(exc).__name__}: {exc}"}
         summary.append(rec)
