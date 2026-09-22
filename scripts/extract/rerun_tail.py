@@ -1,57 +1,50 @@
-"""Identify and rerun the small tail of documents with no usable extraction.
+"""Identify the residual documents with no usable extraction.
 
-Context: the corpus run is essentially complete (7,488 ok of 7,676 expected).
-What remains is a tail found by cross-checking three sources:
+Compares three sources that can each disagree:
+  inventory.jsonl          - the plan
+  corpus_checkpoint.jsonl  - what the runner recorded
+  corpus/ recursive scan   - the artefacts that actually exist
 
-  inventory (the plan) -> checkpoint (what ran) -> corpus dir (what exists)
+Key normalisation is the whole difficulty, and each of these traps produced a
+FALSE "missing" while this was written:
+  1. inventory stores `data\\reports\\<src>\\pdfs\\<stem>.pdf`, the checkpoint
+     stores `<source>/<stem>` - compare on stem, never on full path.
+  2. on-disk stems are sanitised by safe_stem() (trailing dots stripped), so
+     `<stem>.` on disk is `<stem>` - apply the same function to both sides.
+  3. two layouts exist: corpus/<source>/<stem>/ and corpus/<stem>.pdf/<stem>/,
+     and some directory names are truncated - so scan recursively and index
+     stems at full length plus 40/60-character prefixes.
 
-Three distinct residual classes, kept separate because the remedy differs:
-
-  A. genuinely absent        - no artefacts anywhere. Needs extraction.
-  B. checkpoint-ok, no files - the runner recorded success but nothing is on
-                               disk (a crash between write and record). Needs
-                               re-extraction, and is the dangerous class because
-                               it looks complete from the checkpoint alone.
-  C. status=error / no-extractable-content - recorded failures. Needs a rerun.
-
-Breakwave files known to be junk (login walls mislabeled .pdf, removed
-deliberately) and documents already covered by the HTML pass are EXCLUDED, not
-silently dropped: they are counted in the report.
-
-usage:
-    python scripts/extract/rerun_tail.py --list          # show the tail
-    python scripts/extract/rerun_tail.py --write-list    # emit a rerun file
+Output classes, kept separate because the remedy differs:
+  breakwave junk  - login walls mislabeled .pdf, removed deliberately
+  html-covered    - already extracted by the HTML pass
+  recorded ok but no files - a crash between write and record (the dangerous
+                             class, because the checkpoint alone looks clean)
+  genuinely absent - needs extraction
 """
 from __future__ import annotations
 
 import argparse
-import collections
 import json
 import os
 import sys
 
+sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
+from extract_all import safe_stem  # noqa: E402
+
 INV = "data/extracted/inventory.jsonl"
 CKPT = "data/extracted/corpus_checkpoint.jsonl"
 CORPUS = "data/extracted/corpus"
-OUT = "data/extracted/rerun_tail.json"
-
-# removed on purpose: breakwave scrapes that were login walls or search pages,
-# not documents (67 login pages + 1 search results page)
-KNOWN_JUNK_PREFIX = "breakwave"
 PROVENANCE_ONLY = ("cftc",)
+JUNK_SOURCE = "breakwave"
 
 
-def stem_of(p: str) -> str:
-    b = os.path.basename(p.replace("\\", "/"))
+def raw_stem(p: str) -> str:
+    b = os.path.basename((p or "").replace("\\", "/"))
     return b[:-4] if b.lower().endswith(".pdf") else b
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--list", action="store_true")
-    ap.add_argument("--write-list", action="store_true")
-    a = ap.parse_args()
-
+def load_inventory() -> dict[str, dict]:
     inv = {}
     for line in open(INV, encoding="utf-8", errors="replace"):
         if not line.strip():
@@ -61,54 +54,70 @@ def main() -> int:
             continue
         if any(p in (o.get("source") or "").lower() for p in PROVENANCE_ONLY):
             continue
-        inv[stem_of(o.get("path", ""))] = o
-    print(f"expected documents: {len(inv):,}")
+        inv[safe_stem(raw_stem(o.get("path", "")))] = o
+    return inv
 
+
+def scan_disk() -> set[str]:
+    disk: set[str] = set()
+    for root, _dirs, files in os.walk(CORPUS):
+        if "text.jsonl" not in files:
+            continue
+        leaf = safe_stem(os.path.basename(root))
+        for cand in (leaf, safe_stem(leaf + ".pdf"), leaf[:40], leaf[:60]):
+            disk.add(cand)
+    return disk
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--json", action="store_true", help="emit machine-readable output")
+    a = ap.parse_args()
+
+    inv = load_inventory()
+    disk = scan_disk()
     ck = {}
     for line in open(CKPT, encoding="utf-8", errors="replace"):
-        if not line.strip():
-            continue
-        o = json.loads(line)
-        ck[stem_of(o.get("doc", ""))] = o
+        if line.strip():
+            o = json.loads(line)
+            ck[raw_stem(o.get("doc", ""))] = o
 
-    disk = set()
-    for parent in os.listdir(CORPUS):
-        pp = os.path.join(CORPUS, parent)
-        if not os.path.isdir(pp):
-            continue
-        for s in os.listdir(pp):
-            if os.path.exists(os.path.join(pp, s, "text.jsonl")):
-                disk.add(s)
+    def covered(s: str) -> bool:
+        return s in disk or s[:40] in disk or s[:60] in disk
 
-    done = {s for s, v in ck.items() if v.get("status") in ("ok", "no-extractable-content")}
-    missing = set(inv) - done
+    missing = [s for s in inv if not covered(s)]
+    junk = [s for s in missing if JUNK_SOURCE in (inv[s].get("source") or "").lower()]
+    rest = [s for s in missing if s not in junk]
 
-    junk = {s for s in missing if KNOWN_JUNK_PREFIX in (inv[s].get("source") or "").lower()}
-    html_covered = {s for s in missing if s in disk} - junk
-    genuinely_absent = missing - junk - html_covered
+    cls_b = [s for s, v in ck.items() if v.get("status") == "ok" and s not in disk]
+    result = {
+        "expected": len(inv),
+        "breakwave_junk": len(junk),
+        "genuinely_absent": len(rest),
+        "recorded_ok_but_no_files": len(cls_b),
+        "documents": [
+            {
+                "stem": s,
+                "source": inv[s].get("source"),
+                "bytes": inv[s].get("bytes"),
+                "path": inv[s].get("path"),
+                "pdf_present": os.path.exists(inv[s].get("path", "")),
+            }
+            for s in sorted(rest)
+        ],
+    }
+    if a.json:
+        print(json.dumps(result, indent=1))
+        return 0
 
-    cls_b = {s for s, v in ck.items() if v.get("status") == "ok"} - disk
-    cls_c = {s for s, v in ck.items() if v.get("status") in ("error", "no-extractable-content")}
-    cls_c = {s for s in cls_c if s not in disk}
-
-    print(f"\n  breakwave junk, deliberately absent : {len(junk):,}")
-    print(f"  covered by the HTML pass            : {len(html_covered):,}")
-    print(f"  A. genuinely absent                 : {len(genuinely_absent):,}")
-    print(f"  B. recorded ok but no files on disk : {len(cls_b):,}")
-    print(f"  C. recorded error / no-content      : {len(cls_c):,}")
-
-    todo = sorted(genuinely_absent | cls_b | cls_c)
-    print(f"\nTOTAL TO RERUN: {len(todo):,}")
-    if a.list or not a.write_list:
-        for s in todo:
-            src = inv.get(s, {}).get("source", "?")
-            print(f"   [{src[:16]:<16}] {s[:88]}")
-
-    if a.write_list:
-        payload = [{"stem": s, "source": inv.get(s, {}).get("source"),
-                    "path": inv.get(s, {}).get("path")} for s in todo]
-        json.dump(payload, open(OUT, "w", encoding="utf-8"), indent=1)
-        print(f"\nwrote {OUT} with {len(payload)} entries")
+    print(f"expected documents        : {result['expected']:,}")
+    print(f"  breakwave junk (chosen) : {result['breakwave_junk']:,}")
+    print(f"  genuinely absent        : {result['genuinely_absent']:,}")
+    print(f"  recorded ok, no files   : {result['recorded_ok_but_no_files']:,}")
+    print()
+    for d in result["documents"]:
+        print(f"  [{str(d['source'])[:14]:<14}] pdf_present={str(d['pdf_present']):<5} "
+              f"{(d['bytes'] or 0)/1e6:8.2f} MB  {d['stem'][:64]}")
     return 0
 
 
