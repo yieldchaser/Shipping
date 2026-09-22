@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:28:27.437286+00:00",
+  "generated_at": "2026-09-22T09:41:49.394140+00:00",
   "status_mapping_reference": "data/reference/signal_orderbook_status_map.json",
   "signal_ocean_computed_fleet_metrics": {
     "total_commercial_tracked_hulls": 57270,
