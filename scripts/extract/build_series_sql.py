@@ -87,6 +87,14 @@ select c.source, c.doc, c.doc_stem, c.page, c.table_idx, c.engine, c.row_idx, c.
        lower(coalesce(h.header,'')) as header_key,
        coalesce(h.header,'')  as header,
        c.num_value,
+       -- Some publications encode the instrument in the FILENAME, not the table:
+       -- Drewry AIS issues are "Drewry_AIS[_PDF]_{Product}_{Class}_Week{NN}_{YYYY}",
+       -- and its six sections are identical across classes, so without this the
+       -- same measurement from Crude/Aframax, Crude/VLCC and Drybulk/Handysize
+       -- collapses into one series with several values per date. Measured: 30
+       -- such series were class-blended and unusable, only 7 were identifiable.
+       -- Non-matching stems yield '' and leave the series_id byte-identical.
+       regexp_extract(c.doc_stem, '^Drewry_AIS(?:_PDF)?_(.*?)_Week', 1) as class_key,
        dense_rank() over (
            partition by c.doc, c.page, c.table_idx, c.engine, c.row_idx,
                         lower(coalesce(h.header,''))
@@ -137,7 +145,9 @@ def main() -> int:
     con.execute("""
         create table series_points as
         select b.source || '|' || b.entity_key || '|' || b.header_key
-                 || '|b' || b.block_no                as series_id,
+                 || '|b' || b.block_no
+                 || case when b.class_key <> '' then '|' || b.class_key else '' end
+                                                      as series_id,
                dd.d                                   as date,
                b.num_value                            as value
         from blocks b
@@ -150,6 +160,7 @@ def main() -> int:
                split_part(series_id,'|',2) as entity_key,
                split_part(series_id,'|',3) as measurement_key,
                try_cast(replace(split_part(series_id,'|',4),'b','') as integer) as block_no,
+               split_part(series_id,'|',5)          as instrument_class,
                count(*)            as points,
                count(distinct date) as distinct_dates,
                min(date)           as first_date,
