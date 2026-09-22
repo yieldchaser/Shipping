@@ -69,9 +69,11 @@ import sys
 #   'ƐƵďŵŝƩĞĚ'  -> submitted   (8 glyphs, 9 letters: Ʃ = tt)
 #   'ƋƵŽƚĂƟŽŶƐ' -> quotations  (9 glyphs, 10 letters: Ɵ = ti)
 #   'ĂƫƚƵĚĞ'   -> attitude    (6 glyphs, 8 letters: ƫ = tti)
+# Unambiguous glyph substitutions: characters in the Latin Extended ranges are
+# never valid inside these documents, so these are safe to apply to ANY string.
 SEED = {
-    "\x03": " ", "/": "I", ">": "L", "^": "S", "D": "M", "K": "O", "W": "P",
-    "Z": "R", "d": "T", "\u0138": "k", "\u018b": "q",
+    "\x03": " ",
+    "\u0138": "k", "\u018b": "q",
     "\u0102": "a", "\u010f": "b", "\u0110": "c", "\u011a": "d", "\u011e": "e",
     "\u0128": "f", "\u0150": "g", "\u015a": "h", "\u015d": "i", "\u016f": "l",
     "\u0175": "m", "\u0176": "n", "\u017d": "o", "\u0189": "p", "\u018c": "r",
@@ -80,7 +82,43 @@ SEED = {
     # ligatures (multi-character expansions)
     "\u012b": "ff", "\u012e": "fi", "\u0147": "fl", "\u014c": "ft",
     "\u01a9": "tt", "\u019f": "ti", "\u01ab": "tti",
+    # digits, punctuation and control-char glyphs live in ASCII_REMAP below:
+    # they are applied only inside body-font text, never globally.
 }
+
+# Contextual mappings: plain-ASCII and control characters that this font
+# remaps. These are applied ONLY inside body-font text, because they are
+# indistinguishable from ordinary clean text - the corpus is 97.3% plain ASCII
+# that is already correct, and applying them globally mangles it. Measured
+# 2026-09-22: without the gate "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+# decodes to "CLAROSON PLATOU HELLAS S&P PEEOLY BULLETIN" and "...included data"
+# to "...incluTes Tata".
+#
+# Consequence, stated honestly: a header block that is remapped but contains no
+# Latin Extended glyph (e.g. '/ZKE' -> "IRON") has nothing to gate on and is
+# left as-is rather than guessed. A handful of pure-header strings therefore
+# stay unreadable. That is the deliberate trade: corrupting 97% of the corpus to
+# fix a small header set is not a trade worth making.
+# Applying these to clean text would corrupt it: the corpus is 97.3% plain
+# ASCII that is already correct ("CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"),
+# and 't'->'W' would turn every ordinary "the" into "Whe". So they are kept
+# apart from SEED and applied only when the same string also contains a Latin
+# Extended glyph, which is what marks body-font text.
+#   t -> W : 't\u011e\u011e\u016c\u016f\u01c7' -> "Weekly"
+#   E -> N : '/ZKE' -> "IRON"  (with / -> I, Z -> R, K -> O)
+ASCII_REMAP = {
+    # ASCII letters (t -> "Weekly", E -> "IRON" with / I, Z R, K O below)
+    "t": "W", "E": "N",
+    "D": "M", "K": "O", "W": "P", "Z": "R", "d": "T",
+    "/": "I", ">": "L", "^": "S",
+    # digits, punctuation and control-char glyphs: only ever seen inside
+    # body-font prose, so they ride the same gate.
+    "\u03ec": "0", "\u03ed": "1", "\u03ee": "2", "\u03ef": "3", "\u03f0": "4",
+    "\u03f1": "5", "\u03f2": "6", "\u03f3": "7", "\u03f4": "8", "\u03f5": "9",
+    "\u0358": ".", "\u0355": ",", "\u036c": "/", "\u0439": "%", "\u0357": ":",
+    "\x18": "D", "\x12": "C", "\x1c": "E",
+}
+
 
 # Legitimate Latin Extended characters that appear in REAL prose (Spanish names
 # such as "Gal´ı", Turkish, Nahuatl) and must never be substituted. Kept apart
@@ -101,10 +139,21 @@ def build_map() -> dict[str, str]:
 
 
 def decode(text: str, table: dict[str, str], unknown: set[str] | None = None) -> str:
+    """Decode one string.
+
+    The ASCII remaps are applied only when this string also carries a Latin
+    Extended glyph, i.e. it is body-font text. Without that gate the decoder
+    would rewrite ordinary clean text (every "t" becoming "W"), which is why
+    the gate exists rather than being a nicety.
+    """
+    body_font = bool(GARBLED.search(text))
+    lookup = dict(table)
+    if body_font:
+        lookup.update(ASCII_REMAP)
     out = []
     for ch in text:
-        if ch in table:
-            out.append(table[ch])
+        if ch in lookup:
+            out.append(lookup[ch])
         else:
             out.append(ch)
             if unknown is not None and GARBLED.match(ch) and ch not in LEGITIMATE_EXTENDED:
