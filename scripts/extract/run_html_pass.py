@@ -44,6 +44,20 @@ JUNK_PATTERNS = [
     ("cnn.com", "third-party aggregation dump"),
     ("blogspot.", "reposted third-party content"),
     ("challenge validation", "bot-wall interstitial"),
+    # added 2026-09-22: connectivity/error pages were saved as documents and
+    # the verdict missed them. Measured in data/extracted/corpus/hellenic:
+    # "...weekly-dry-time-charter-estimates-march-23-2022" has <title>This
+    # site can’t be reached</title> and extracted as a 3-block document with
+    # junk=false; "...gms-week-35-activity-increase" is "Web server is
+    # returning an unknown errorError code 520". Both are placeholders, not
+    # content, so they must not become documents.
+    ("this site can", "browser error page (site unreachable)"),
+    ("might be temporarily down", "browser error page (site unreachable)"),
+    ("error code 5", "web server error page (5xx)"),
+    ("web server is returning an unknown error", "web server error page (5xx)"),
+    ("checking your browser", "bot-wall interstitial"),
+    ("just a moment", "bot-wall interstitial"),
+    ("attention required", "bot-wall interstitial"),
 ]
 
 BOILERPLATE = [
