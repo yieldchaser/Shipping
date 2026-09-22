@@ -8,12 +8,16 @@ Optimaship, and Anchor weekly market reports into structured Markdown.
 import os
 import re
 import json
+import sys
 import time
 import io
 import urllib.request
 import urllib.parse
 from pathlib import Path
 from bs4 import BeautifulSoup
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from asset_guard import asset_payload_verdict  # noqa: E402  (shared wall guard)
 try:
     import anydoc  # optional accelerator: pip install firecrawl-anydoc
 except ImportError:  # fall back to pypdf extraction
@@ -164,7 +168,15 @@ def process_article(article_url, title, date_str):
                 raw_pdf_dir = REPO_ROOT / "reports" / "shipbrokers" / broker / year
                 raw_pdf_dir.mkdir(parents=True, exist_ok=True)
                 pdf_target = raw_pdf_dir / f"{slug}.pdf"
-                if not pdf_target.exists():
+                # Never write a wall as a .pdf. Measured 2026-09-22: 68 files in
+                # this repo carry a .pdf extension without a PDF header because
+                # the extension came from the link and the bytes were never
+                # checked - they read as corrupt PDFs to the extractor and were
+                # invisible to every downstream pass.
+                ok, why = asset_payload_verdict(pdf_bytes, ".pdf")
+                if not ok:
+                    print(f"    [!] Not saving raw PDF ({why}): {slug}")
+                elif not pdf_target.exists():
                     pdf_target.write_bytes(pdf_bytes)
                 local_pdf_path = str(pdf_target.relative_to(REPO_ROOT)).replace("\\", "/")
             except Exception as pe:

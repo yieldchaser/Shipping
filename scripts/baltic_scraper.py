@@ -69,6 +69,7 @@ from urllib.parse import urljoin, urlparse
 from datetime import datetime
 from bs4 import BeautifulSoup
 
+from asset_guard import asset_payload_verdict
 from source_archive_utils_v2 import (
     REPORTS_ROOT,
     asset_kind,
@@ -789,15 +790,16 @@ def mirror_asset(
     if len(payload) <= min_size:
         return None
 
-    # Quarantine (Decision 1.2): never mirror bot-challenge stubs as assets.
-    # The April 2026 re-scrape archived ~1.9KB "Challenge Validation" pages
-    # (browser-UA asset fetches get challenged); the payload hash in the
-    # filename then sprawls one new stub per run. Real assets pass through.
-    if extension in (".html", ".htm"):
-        head = payload[:32768].decode("utf-8", errors="ignore").lower()
-        if any(marker in head for marker in CHALLENGE_MARKERS):
-            print(f"    ⛔ QUARANTINE asset stub (not mirrored): {absolute[-80:]}")
-            return None
+    # Never mirror a wall as an asset. The April 2026 re-scrape archived ~1.9KB
+    # "Challenge Validation" pages and the payload hash in the filename then
+    # sprawls one new stub per run. This guard used to run for .html/.htm only,
+    # so a challenged .pdf was still written - the same hole that produced 68
+    # non-PDF files with a .pdf extension in the breakwave archive. The shared
+    # guard covers every extension and requires %PDF for anything named .pdf.
+    ok, why = asset_payload_verdict(payload, extension)
+    if not ok:
+        print(f"    QUARANTINE asset ({why}), not mirrored: {absolute[-70:]}")
+        return None
 
     assets_dir.mkdir(parents=True, exist_ok=True)
     filename = deterministic_asset_filename(base_name, absolute, payload, extension)

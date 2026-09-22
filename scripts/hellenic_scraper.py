@@ -24,6 +24,7 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+from asset_guard import asset_payload_verdict
 from source_archive_utils_v2 import (
     REPORTS_ROOT,
     asset_kind,
@@ -380,6 +381,14 @@ def mirror_asset(
         return None
 
     if len(payload) <= min_size:
+        return None
+
+    # Never mirror a wall as an asset. Same hole as the breakwave and baltic
+    # scrapers: the extension came from the URL and the bytes were never
+    # inspected, so a challenged .pdf URL was written as a .pdf file.
+    ok, why = asset_payload_verdict(payload, extension)
+    if not ok:
+        print(f"    QUARANTINE asset ({why}), not mirrored: {absolute[-70:]}")
         return None
 
     assets_dir.mkdir(parents=True, exist_ok=True)

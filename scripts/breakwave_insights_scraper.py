@@ -23,6 +23,7 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+from asset_guard import asset_payload_verdict
 from source_archive_utils_v2 import (
     REPORTS_ROOT,
     asset_kind,
@@ -251,6 +252,20 @@ def mirror_asset(
 
     payload = response.content
     if len(payload) <= minimum_size:
+        return None
+
+    # Reject walls and mislabeled payloads BEFORE they reach disk.
+    # Measured 2026-09-22 on this repo's own archive: 68 files under
+    # reports/breakwave/pdfs/ carry a .pdf extension but are not PDFs. 67 of them
+    # are 5,174-byte login pages whose entire visible text is "Login Page", and
+    # one is a search-results page - all saved because the URL ended in .pdf and
+    # nothing ever inspected the bytes. They inflated the asset count, read as
+    # corrupt PDFs to the extractor, and fell between the PDF and HTML passes
+    # (the PDF side correctly skipped them for having no %PDF header, the HTML
+    # side only globbed *.html), so nothing downstream could see them at all.
+    verdict, reason = asset_payload_verdict(payload, extension)
+    if not verdict:
+        print(f"    skipped asset ({reason}): {absolute}", flush=True)
         return None
 
     assets_dir.mkdir(parents=True, exist_ok=True)
