@@ -82,6 +82,13 @@ SEED = {
     # ligatures (multi-character expansions)
     "\u012b": "ff", "\u012e": "fi", "\u0147": "fl", "\u014c": "ft",
     "\u01a9": "tt", "\u019f": "ti", "\u01ab": "tti",
+    # Latin ligature presentation forms. These are NEVER valid in ordinary
+    # English text, so they are safe to apply to any string, and they were
+    # simply missing: the corpus uses them 240-300 times each.
+    #   \ufb03 "O\ufb03ce" -> "Office",  \ufb01 "signi\ufb01cantly" -> "significantly"
+    #   \ufb00 "di\ufb00erent" -> "different", \ufb02 "in\ufb02uence" -> "influence"
+    "\ufb00": "ff", "\ufb01": "fi", "\ufb02": "fl", "\ufb03": "ffi",
+    "\ufb04": "ffl", "\ufb05": "st", "\ufb06": "st",
     # digits, punctuation and control-char glyphs live in ASCII_REMAP below:
     # they are applied only inside body-font text, never globally.
 }
