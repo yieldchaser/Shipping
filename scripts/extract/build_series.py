@@ -1,31 +1,33 @@
-"""Build comparable time series from the corpus - from VERIFIED-CLEAN grids only.
+"""Build time series the RIGHT way: a series is (row label, column header).
 
-Why this reads `cells` and not `label_series`
----------------------------------------------
-`label_series` pivots (row label -> numeric value) but has no `engine` column,
-and two engines write under the same (doc, table_idx). Measured on the real
-corpus: 15,631 tables carry 2 engines, and 1,380,967 cells share a coordinate
-with a DIFFERENT value. So (doc, table_idx, row_idx, col_idx) does not identify
-a cell, and a pivot without `engine` silently mixes two different grids.
+What went wrong before
+----------------------
+Two successive bugs in my own code produced two wrong conclusions:
 
-That is not theoretical: it made "PB Fines" - an iron ore price - come out with
-median 3.87 and range -87..1,501, mixing prices, daily changes and differentials
-from colliding sub-tables.
+1. Keying a table on (doc, table_idx, engine, row, col) without `page`. Table
+   indices restart on every page, so six pages' worth of the same coordinate got
+   fused, and I reported a 40% "collision" rate that did not exist. Including
+   `page` gives exactly zero collisions across 6.8M cells.
 
-The gate
---------
-A (doc, table_idx, engine) grid qualifies only if no (row, col) holds more than
-one value. That excludes PDF two-up layouts whose side-by-side tables Camelot
-merges into one grid, because there the row label pairs with values from a
-neighbouring sub-table.
+2. Keying a series on (source, row_label) without `col_idx`. A row holds several
+   different measurements - for "PB Fines" the columns are Fe, Alumina, Silica,
+   Phos, Moisture - so five specification values were fused into one "series",
+   and its median (3.87) was really the Silica % cell. The extraction was correct
+   the whole time.
 
-Measured qualification: html-table 100% clean, pdfplumber 44.9%, camelot-stream
-32.1%. Excluded tables are counted and reported, never silently dropped.
+The correct model
+-----------------
+A row label names an ENTITY ("PB Fines"); a column names a MEASUREMENT ("Silica"
+or a date). A series is the pair. So the column header must be resolved from the
+header rows above each column, and carried into the series key.
+
+Header rows are whatever sits above the first numeric row in that column; text
+from several stacked header rows is joined (nested headers are common).
 
 usage:
     python scripts/extract/build_series.py --report
     python scripts/extract/build_series.py --write
-    python scripts/extract/build_series.py --label "PB Fines" --show
+    python scripts/extract/build_series.py --entity "PB Fines" --show
 """
 from __future__ import annotations
 
@@ -35,62 +37,59 @@ import re
 import sys
 
 ISO_DATE = re.compile(r"(19|20)\d\d-[01]\d-[0-3]\d")
-# NOTE: trailing \b does NOT work on these stems. Fields are joined with "_",
-# which is a word character, so there is no boundary after "2026" in
-# "10_09_2026_x" nor after "31" in "2021_W31_x". Measured: both patterns matched
-# nothing until this became a digit lookahead.
+# Trailing \b does NOT work on these stems: fields are joined with "_", a word
+# character, so there is no boundary after 2026 in "10_09_2026_x".
 DMY = re.compile(r"([0-3]\d)[_-]([01]\d)[_-]((?:19|20)\d\d)(?![0-9])")
 BROKER_WEEK = re.compile(r"((?:19|20)\d\d)[_-]?[Ww](\d{1,2})(?![0-9])")
 NAMED_WEEK = re.compile(r"[Ww]eek[_-]?(\d{1,2})[_-]?((?:19|20)\d\d)")
 
-CLEAN_GRIDS = """
-create or replace temp view clean_grids as
-with per as (
-    select source, doc, doc_stem, table_idx, engine,
-           count(*) filter (where c > 1) as collided
-    from (
-        select source, doc, doc_stem, table_idx, engine, row_idx, col_idx,
-               count(*) as c
-        from cells group by 1,2,3,4,5,6,7
-    ) group by 1,2,3,4,5
-)
-select source, doc, doc_stem, table_idx, engine from per where collided = 0
-"""
 
-# one engine per logical table, preferring the benched primary
-ENGINE_RANK = ["camelot-stream", "pdfplumber", "tabula", "html-table"]
-
-
-def resolve_date(stem: str) -> tuple[dt.date | None, str]:
-    m = ISO_DATE.search(stem or "")
+def resolve_date(stem: str):
+    stem = stem or ""
+    m = ISO_DATE.search(stem)
     if m:
         try:
             return dt.date.fromisoformat(m.group(0)), "iso"
         except ValueError:
             pass
-    m = DMY.search(stem or "")
+    m = DMY.search(stem)
     if m:
         try:
             return dt.date(int(m.group(3)), int(m.group(2)), int(m.group(1))), "dmy"
         except ValueError:
             pass
-    m = NAMED_WEEK.search(stem or "")
-    if m:
-        wk, y = int(m.group(1)), int(m.group(2))
-        if 1 <= wk <= 53:
-            try:
-                return dt.date.fromisocalendar(y, wk, 1), "named-week"
-            except ValueError:
-                pass
-    m = BROKER_WEEK.search(stem or "")
-    if m:
-        y, wk = int(m.group(1)), int(m.group(2))
-        if 1 <= wk <= 53:
-            try:
-                return dt.date.fromisocalendar(y, wk, 1), "broker-week"
-            except ValueError:
-                pass
+    m = NAMED_WEEK.search(stem)
+    if m and 1 <= int(m.group(1)) <= 53:
+        try:
+            return dt.date.fromisocalendar(int(m.group(2)), int(m.group(1)), 1), "named-week"
+        except ValueError:
+            pass
+    m = BROKER_WEEK.search(stem)
+    if m and 1 <= int(m.group(2)) <= 53:
+        try:
+            return dt.date.fromisocalendar(int(m.group(1)), int(m.group(2)), 1), "broker-week"
+        except ValueError:
+            pass
     return None, "none"
+
+
+HEADERS_SQL = """
+create or replace temp view col_headers as
+with numeric_rows as (
+    select doc, page, table_idx, engine, min(row_idx) as first_num
+    from cells where is_numeric group by 1,2,3,4
+)
+select c.doc, c.page, c.table_idx, c.engine, c.col_idx,
+       string_agg(trim(c.value), ' ') as header
+from cells c
+join numeric_rows n
+  on n.doc=c.doc and n.page=c.page and n.table_idx=c.table_idx and n.engine=c.engine
+where not c.is_numeric
+  and c.row_idx < n.first_num
+  and c.value is not null
+  and length(trim(c.value)) between 1 and 40
+group by 1,2,3,4,5
+"""
 
 
 def main() -> int:
@@ -99,41 +98,33 @@ def main() -> int:
     ap.add_argument("--min-points", type=int, default=20)
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--write", action="store_true")
-    ap.add_argument("--label", default=None)
+    ap.add_argument("--entity", default=None)
     ap.add_argument("--show", action="store_true")
     a = ap.parse_args()
 
     import duckdb
     con = duckdb.connect(a.db)
-    con.execute(CLEAN_GRIDS)
-    n_clean = con.execute("select count(*) from clean_grids").fetchone()[0]
-    n_all = con.execute("select count(distinct (doc||'|'||table_idx||'|'||engine)) from cells").fetchone()[0]
-    print(f"clean grids: {n_clean:,} of {n_all:,} engine-grids "
-          f"({n_clean/max(n_all,1)*100:.1f}%) pass the collision gate")
+    con.execute(HEADERS_SQL)
 
-    # label -> value pairs, reading ONLY clean grids
-    con.execute("""
-        create or replace temp view pairs as
-        select c.source, c.doc, c.doc_stem, c.table_idx, c.engine,
-               trim(c.value) as label, v.num_value
+    rows = con.execute("""
+        select c.source, c.doc_stem, trim(l.value) as entity,
+               coalesce(h.header, '') as header, c.num_value
         from cells c
-        join clean_grids g
-          on g.doc=c.doc and g.table_idx=c.table_idx and g.engine=c.engine
-        join cells v
-          on v.doc=c.doc and v.table_idx=c.table_idx and v.engine=c.engine
-         and v.row_idx=c.row_idx and v.col_idx > c.col_idx
-         and v.is_numeric
-        where c.col_idx = 0 and c.value is not null and not c.is_numeric
-          and length(trim(c.value)) between 2 and 60
-    """)
-    rows = con.execute("select source, doc_stem, label, num_value from pairs").fetchall()
-    print(f"label/value pairs from clean grids: {len(rows):,}")
+        join cells l
+          on l.doc=c.doc and l.page=c.page and l.engine=c.engine
+         and l.table_idx=c.table_idx and l.row_idx=c.row_idx and l.col_idx=0
+         and not l.is_numeric
+        left join col_headers h
+          on h.doc=c.doc and h.page=c.page and h.table_idx=c.table_idx
+         and h.engine=c.engine and h.col_idx=c.col_idx
+        where c.is_numeric and c.col_idx > 0 and c.num_value is not null
+          and length(trim(l.value)) between 2 and 60
+    """).fetchall()
+    print(f"entity/header/value triples: {len(rows):,}")
 
-    cache: dict[str, tuple] = {}
-    kinds: dict[str, int] = {}
+    cache, kinds, undated = {}, {}, 0
     series: dict[tuple, dict] = {}
-    undated = 0
-    for source, stem, label, value in rows:
+    for source, stem, entity, header, value in rows:
         if stem not in cache:
             cache[stem] = resolve_date(stem)
         d, kind = cache[stem]
@@ -141,52 +132,51 @@ def main() -> int:
         if d is None:
             undated += 1
             continue
-        key = (source, label.casefold())
-        s = series.setdefault(key, {"label": label, "source": source, "pts": {}})
+        key = (source, entity.casefold(), header.casefold())
+        s = series.setdefault(key, {"entity": entity, "header": header,
+                                    "source": source, "pts": {}})
         s["pts"][d] = float(value)
 
     keep = {k: v for k, v in series.items() if len(v["pts"]) >= a.min_points}
-    print(f"undated pairs skipped: {undated:,}   date mix: {dict(sorted(kinds.items(), key=lambda kv:-kv[1]))}")
+    print(f"undated skipped: {undated:,}   date mix: {dict(sorted(kinds.items(), key=lambda kv: -kv[1]))}")
     print(f"series: {len(series):,} total, {len(keep):,} with >= {a.min_points} points")
 
-    if a.report or not (a.show and a.label):
-        top = sorted(keep.items(), key=lambda kv: -len(kv[1]["pts"]))[:22]
-        print(f"\n{'source':<15}{'label':<34}{'pts':>7}  span")
-        for (src, _), v in top:
+    if a.entity and a.show:
+        want = a.entity.casefold()
+        hits = [(k, v) for k, v in series.items() if want in k[1]]
+        print(f"\n=== entity matches: {len(hits)}")
+        for (src, ek, hk), v in sorted(hits, key=lambda kv: -len(kv[1]["pts"]))[:10]:
             ds = sorted(v["pts"])
-            print(f"{src[:13]:<15}{v['label'][:32]:<34}{len(ds):>7}  {ds[0]} .. {ds[-1]}")
+            vals = [v["pts"][d] for d in ds]
+            print(f"  {src:<12} {v['entity'][:22]:<24} [{v['header'][:26]:<28}] "
+                  f"n={len(ds):<5} {ds[0]}..{ds[-1]}  min={min(vals):,.2f} max={max(vals):,.2f}")
 
-    if a.label and a.show:
-        want = a.label.casefold()
-        for (src, lab), v in series.items():
-            if want in lab:
-                ds = sorted(v["pts"])
-                vals = [v["pts"][d] for d in ds]
-                print(f"\n{src} / {v['label']}: {len(ds)} points {ds[0]} .. {ds[-1]}")
-                print(f"   min={min(vals):,.3f}  max={max(vals):,.3f}")
-                for d in ds[:6]:
-                    print(f"     {d}  {v['pts'][d]:>12,.4f}")
-                print("     ...")
-                for d in ds[-4:]:
-                    print(f"     {d}  {v['pts'][d]:>12,.4f}")
+    if a.report or not (a.show and a.entity):
+        top = sorted(keep.items(), key=lambda kv: -len(kv[1]["pts"]))[:22]
+        print(f"\n{'source':<13}{'entity':<24}{'header':<26}{'pts':>6}  span")
+        for (src, _, _), v in top:
+            ds = sorted(v["pts"])
+            print(f"{src[:11]:<13}{v['entity'][:22]:<24}{v['header'][:24]:<26}"
+                  f"{len(ds):>6}  {ds[0]} .. {ds[-1]}")
 
     if not a.write:
         return 0
 
     con.execute("drop table if exists series_points")
     con.execute("drop table if exists series")
-    con.execute("""create table series (series_id varchar, source varchar, label varchar,
-                   label_key varchar, points integer, first_date date, last_date date)""")
+    con.execute("""create table series (series_id varchar, source varchar,
+        entity varchar, header varchar, entity_key varchar, header_key varchar,
+        points integer, first_date date, last_date date)""")
     con.execute("create table series_points (series_id varchar, date date, value double)")
     s_rows, p_rows = [], []
-    for (src, key), v in keep.items():
+    for (src, ek, hk), v in keep.items():
         ds = sorted(v["pts"])
-        sid = f"{src}|{key}"
-        s_rows.append((sid, src, v["label"], key, len(ds), ds[0], ds[-1]))
+        sid = f"{src}|{ek}|{hk}"
+        s_rows.append((sid, src, v["entity"], v["header"], ek, hk, len(ds), ds[0], ds[-1]))
         p_rows.extend((sid, d, v["pts"][d]) for d in ds)
-    con.executemany("insert into series values (?,?,?,?,?,?,?)", s_rows)
+    con.executemany("insert into series values (?,?,?,?,?,?,?,?,?)", s_rows)
     con.executemany("insert into series_points values (?,?,?)", p_rows)
-    print(f"\nwrote series {len(s_rows):,} rows / series_points {len(p_rows):,} rows")
+    print(f"\nwrote series {len(s_rows):,} / series_points {len(p_rows):,}")
     return 0
 
 
