@@ -9,8 +9,10 @@ Layout:
       source, doc, doc_stem, page, table_idx, engine, row_idx, col_idx, value,
       is_numeric, num_value, text_verified
   data/extracted/db/catalogue.parquet   one row per TABLE
-      source, doc, page, table_idx, engine, n_rows, n_cols, text_verified,
-      extraction_ts
+      source, doc, page, table_idx, engine, n_rows, n_cols, n_cells, shape,
+      text_verified, extraction_ts
+      table_idx = ordinal within (doc, page, engine) in tables.jsonl order;
+      shape in {grid, onecol, blob, single_cell, empty}
   data/extracted/db/corpus.duckdb       both registered as views + a
       v_time_series helper view that pivots first-column labels against
       numeric cells
@@ -47,9 +49,23 @@ def to_number(v):
 
 
 def iter_tables(out_root):
-    for tpath in glob.glob(os.path.join(out_root, "*", "*", "tables.jsonl")):
+    """Yield (doc, table_record, table_idx) in file order.
+
+    table_idx is the ordinal of the record within its (doc, page, engine) group.
+    Fixed 2026-09-22: this used to be read from a `_table_idx` key that no
+    producer writes (grep: the only occurrence in the repo was this read), so
+    every table on a page got index 0. Both dedup keys below are
+    (doc, page, table_idx, engine), and label_series joins on table_idx, so the
+    collapse silently dropped 147 of 229 tables and 2,036 of 9,257 cells on a
+    5-document pool, and paired labels from one table with values from another
+    (778 of 2,208 label_series rows on that pool). Deriving the ordinal from
+    file order needs no change to the extraction artefacts and is stable for
+    any document that is rewritten identically.
+    """
+    for tpath in sorted(glob.glob(os.path.join(out_root, "*", "*", "tables.jsonl"))):
         doc_dir = os.path.dirname(tpath)
         doc = f"{os.path.basename(os.path.dirname(doc_dir))}/{os.path.basename(doc_dir)}"
+        counts = {}
         try:
             with open(tpath, encoding="utf-8") as f:
                 for line in f:
@@ -57,9 +73,15 @@ def iter_tables(out_root):
                     if not line:
                         continue
                     try:
-                        yield doc, json.loads(line)
+                        rec = json.loads(line)
                     except json.JSONDecodeError:
                         continue
+                    key = (rec.get("page"), rec.get("engine"))
+                    idx = rec.get("_table_idx")
+                    if idx is None:
+                        idx = counts.get(key, 0)
+                        counts[key] = idx + 1
+                    yield doc, rec, idx
         except OSError:
             continue
 
@@ -88,7 +110,7 @@ def main():
     docs = 0
     table_records = 0
     counted = set()
-    for doc, t in iter_tables(a.out):
+    for doc, t, idx in iter_tables(a.out):
         if doc in seen_docs:
             continue
         table_records += 1
@@ -102,12 +124,26 @@ def main():
             continue
         n_rows = len(rows)
         n_cols = max((len(r) for r in rows), default=0)
-        idx = t.get("_table_idx", 0)
+        cells = [c for r in rows for c in r if str(c).strip()]
+        # shape: measured 2026-09-22 on a 300-doc seeded sample, 11.0% of table
+        # records hold <=1 non-empty cell (a grid skeleton with no content) and
+        # 3.8% are a single column holding the whole page (a blob, not a table);
+        # 74.7% are real multi-column grids. Both are extraction artefacts, so
+        # they are labelled here rather than silently counted as tables.
+        if not cells:
+            shape = "empty"
+        elif len(cells) <= 1:
+            shape = "single_cell"
+        elif n_cols == 1:
+            shape = "blob" if max(len(str(c)) for c in cells) > 300 else "onecol"
+        else:
+            shape = "grid"
         cat_rows.append({
             "source": source, "doc": doc, "doc_stem": stem,
             "page": t.get("page"), "table_idx": idx,
             "engine": t.get("engine"),
             "n_rows": n_rows, "n_cols": n_cols,
+            "n_cells": len(cells), "shape": shape,
             "text_verified": t.get("text_verified"),
             "acc": t.get("acc"), "extraction_ts": ts,
         })
@@ -162,6 +198,7 @@ def main():
             FROM cells c
             JOIN cells l
               ON l.doc = c.doc AND l.page = c.page
+             AND l.engine = c.engine
              AND l.table_idx = c.table_idx AND l.row_idx = c.row_idx
              AND l.col_idx = 0 AND NOT l.is_numeric
             WHERE c.is_numeric AND c.col_idx > 0
