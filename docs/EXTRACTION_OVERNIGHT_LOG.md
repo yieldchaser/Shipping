@@ -664,3 +664,33 @@ none of them is mid-run.
 * `source_configs.QUARANTINE_GLOBAL` still says "not-a-pdf headers (3 found:
   breakwave x2, signal fueleu)"; the measured count is 74. Stale comment, left
   for a human to correct with the disposition they want.
+
+### Second fix: connectivity/error pages were becoming HTML-pass documents
+
+Scanned every `meta.json` under `data/extracted/corpus` (17,653 document dirs;
+9,911 are HTML-pass documents, 850 of which the existing junk rules already
+catch - baltic `/assets/`, yahoo/cnn dumps, blogspot reposts). Three were
+connectivity pages recorded as content with `junk: false`, all in hellenic:
+
+    hellenic/0000-00-00_weekly-dry-time-charter-estimates-march-23-2022
+        title "This site can't be reached", text "The webpage at
+        https://www.hellenicshippingnews.com/... might be temporarily down"
+    hellenic/0000-00-00_gms-week-35-activity-increase
+        title "Web server is returning an unknown errorError code 520"
+    hellenic/0000-00-00_athenian-shipbrokers-s-a-demolition-quick-update-week-03-2026
+        title "hellenicshippingnews.com | 520: Web server is returning an
+        unknown error"
+
+`junk_verdict()` had no rule for either error string, so each became a
+"document" (the first has 3 text blocks, 0 tables). Before: `junk_verdict()`
+returns `(False, None)` on both files. After: `(True, "browser error page (site
+unreachable)")` and `(True, "web server error page (5xx)")`, while the same
+publication's real article (`2021-07-07_weekly-dry-time-charter-estimates-july-07-2021`)
+still returns `(False, None)`. End-to-end: running the pass on that one-file
+directory now writes only `meta.json {"junk": true}` with no text.jsonl
+(docs 0, junk 1) instead of a 3-block document.
+
+Changed: `scripts/extract/run_html_pass.py` only (+14 lines), commit
+**a2815f46e** on `auto/extract-fixes-2026-09-22`. Scratch dir deleted. This
+prevents new placeholder documents; it does not remove the three already in the
+corpus (nothing under `data/extracted/corpus/` was touched - that needs a human).
