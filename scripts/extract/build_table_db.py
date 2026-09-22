@@ -36,10 +36,45 @@ DB_DIR = os.path.join(DEFAULT_OUT, "db")
 NUM = re.compile(r"^-?[\d,]*\.?\d+$")
 
 
+def _decimal_sep(s):
+    """Which character is the decimal separator in the numeric string `s`.
+
+    A thousands group is exactly three digits, so a comma followed by any
+    other count of digits cannot be a thousands separator and must be a
+    decimal comma. Measured 2026-09-22: the shipbroker weeklies print
+    European decimals. The PDF text layer and "the publisher's own markdown"
+    mirror of `advanced_shipping_19_09_2026` both print
+    "Diana Shipping Inc (DSX) NYSE 3,07 2,92 5,14%" - a NYSE share price, so
+    3.07 and not 307 - and "Brent Crude (BZ) 104,82 107,63 -2,61%" (104.82,
+    not 10,482). Ambiguous case left as-is: a bare "1,234" is read as 1234
+    (thousands), the US convention and the pre-existing behaviour.
+    """
+    if "," in s and "." in s:
+        return "," if s.rfind(",") > s.rfind(".") else "."
+    if "," in s:
+        return "." if len(s.rsplit(",", 1)[1]) == 3 else ","
+    return "."
+
+
 def to_number(v):
-    s = str(v).strip().replace(",", "").replace("$", "").replace("£", "") \
+    """Parse a table cell to a number, honouring the document convention.
+
+    Fixed 2026-09-22: this used to strip every comma, so a European-decimal
+    cell was inflated 100x (10000x for 4-decimal FX quotes) and a
+    "1.234,56" cell was deflated 1000x. Measured against
+    data/extracted/corpus/db: 43,928 cells in 558 documents (all
+    `shipbrokers`) are affected. Rebuild the derived DB to pick this up for
+    documents extracted before the fix.
+    """
+    s = str(v).strip().replace("$", "").replace("£", "") \
         .replace("%", "").replace("+", "")
     s = s.replace("(", "-").replace(")", "")
+    # normalise the separator BEFORE matching: a European full form like
+    # "1.234,56" does not match NUM while the comma is still in place.
+    if _decimal_sep(s) == ",":
+        s = s.replace(".", "").replace(",", ".")
+    else:
+        s = s.replace(",", "")
     if NUM.match(s):
         try:
             return float(s)
