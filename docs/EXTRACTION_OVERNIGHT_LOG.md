@@ -540,3 +540,127 @@ changes how existing data should be interpreted, so it is a human decision.
   is 354-453 MB with **no** extraction running (committed 11.5 GB on a 7.9 GB
   physical box), the environment in which the earlier 0xC0000409 fail-fast burst
   occurred.
+
+
+## 2026-09-22 22:21 IST (16:51 UTC) - deep review: the corpus is COMPLETE; European decimals were being read as thousands (fixed)
+
+Verdict: **FIXED** (one proven numeric-parsing defect) plus one human decision.
+
+### What I measured (all read-only)
+
+`verify_extraction.py --json`: 7,816 checkpoint rows, 7,816 unique, 7,816
+inventory non-dup paths, `empty_after_ok_status` 0, `empty_unexpected` 0,
+golden 15/15, disk 32.5 GB free. Statuses of the LAST row per path: ok 7,488,
+CRASH 249, error 75, timeout 3, no-extractable-content 1.
+
+**The batch is finished, not dead.** No `run_batch`/`batch_worker` process
+exists and `corpus_state.json` is 659 min old, which the hourly job reports as
+"batch may have died". Re-running `run_batch.py --all --resume` is a no-op:
+replicating its own selection logic (inventory minus `PROVENANCE_ONLY` = 7,676
+selected; done-set = 7,816 paths) gives **0 documents to run**, so it would print
+"nothing to do" and exit 0. The 880/882 in the state file is bookkeeping, not
+missing work: every inventory path has a checkpoint row and an artefact.
+
+I checked the non-ok rows against the filesystem rather than trusting the
+checkpoint:
+
+| last-row status | count | has text.jsonl |
+|---|---|---|
+| CRASH | 249 | 249 (all listed in crash_recovery.jsonl) |
+| error (not-a-pdf) | 74 | 0 - quarantined, no content expected |
+| timeout | 3 | 3 (the three textbooks) |
+| error (FileNotFoundError, trailing-dot stem) | 1 | 1 - stale row, document extracted fine |
+| no-extractable-content | 1 | 1 |
+
+So exactly 74 documents have no artefacts and all 74 are the quarantined
+bad-header files (68 breakwave, 2 hellenic, 1 signal, 1 ppa_hedland, 1
+test_download, 1 reports/). Catalogue shape split from the DB: grid 140,489,
+onecol 22,854, empty 14,532, single_cell 7,761, blob 6,899 = 27.0% of 192,535
+table records are extraction noise (already labelled, not new).
+
+New measurement, one SQL query against the existing `cells`+`catalogue` views:
+**2,784 of 140,489 grids (2.0%) are prose-shaped** (first-column median cell
+length > 40 chars and < 20% of cells containing a digit) - shipbrokers 793,
+poten 437, hellenic 406, the rest textbooks. The prose-fragment grids I opened
+by hand (xclusiv weekly page 1: a 30x11 camelot-stream record whose first cells
+are "high and a sharp surge from 2.1 million tonnes", "from the previous",
+"fiscal year, due to Russia's", all with text_verified 1.0) are real but small
+in number. I did NOT write a new tool for this; the class is measurable from the
+catalogue and the count does not justify one.
+
+### Finding (FIXED): a European decimal comma was read as a thousands separator
+
+`build_table_db.to_number()` stripped every comma before parsing, so
+`3,07` -> 307.0, `30,74` -> 3074.0, `1,1476` -> 11476.0, `104,82` -> 10482.0 and
+`1.234,56` -> 1.23456.
+
+Ground truth, two independent sources: the PDF text layer of
+`advanced_shipping_19_09_2026` page 9 prints
+`Diana Shipping Inc (DSX) NYSE 3,07 2,92 5,14%` (a NYSE share price, so 3.07),
+and the publisher's own markdown mirror
+(`reports/broker_reports/2026/advanced_shipping_19_09_2026_...md` line 557)
+prints the identical string; page 8 prints `Brent Crude (BZ) 104,82 107,63
+-2,61%` (104.82, not 10,482) and `EUR / USD 1,1476`.
+
+Rule: a thousands group is exactly three digits, so a comma followed by any
+other count of digits cannot be a thousands separator. Ambiguous `1,234` stays
+1234 (US convention, pre-existing behaviour).
+
+Scale, measured against `data/extracted/corpus/db`: 39,151 cells matching
+`^[0-9]{1,3},[0-9]{1,2}$` (558 docs, 5 sources, 39,127 shipbrokers), 2,840
+matching `^[0-9]{1,3},[0-9]{4}$` (409 docs, shipbrokers FX quotes), 1,937 in
+European full form `1.234,56` (315 docs, shipbrokers) = **43,928 cells in 558
+documents**. 277,454 US-format cells (`1,234`) are untouched.
+
+One-document before/after, `build_table_db.py --rebuild` into
+`data/extracted/scratch_eur`: 102 of 260 numeric cells change - 49 x100, 51 x10,
+1 x10000. e.g. `3,07` 307.0 -> 3.07, `104,82` 10482.0 -> 104.82, `1,1476`
+11476.0 -> 1.1476, `46,5` 465.0 -> 46.5. Non-numeric cells still parse to None
+("high and a sharp surge...", "N/A", "2022-05-23").
+
+This is the cause behind 466 CRITICAL `EURO_DECIMAL_MISPARSE` series already
+listed in `data/extracted/qaudit_corpus.csv`.
+
+Changed: `scripts/extract/build_table_db.py` only (+36/-1), branch
+`auto/extract-fixes-2026-09-22`, commit **aa5bc7b5b**. Golden unaffected:
+`verify_extraction.py` golden 15/15, and `golden_matrix.py` re-run reproduces the
+committed `golden_matrix.json` exactly (star_asia camelot-stream 13/15,
+plumber-text 15/15, pymupdf-text 15/15; ssy_atlantic 14/14; breakwave camelot 5/6,
+plumber-text 6/6). Scratch dir `data/extracted/scratch_eur` deleted.
+
+### HUMAN DECISION: rebuild the derived DB (or the 43,928 cells stay 100x)
+
+The fix changes how already-extracted data must be interpreted, so I did not
+rebuild anything. `data/extracted/corpus/db/` still holds the old numbers, and
+every series built from it (5,123 series / 1,193,415 points) still holds them.
+To apply:
+
+    python scripts/extract/build_table_db.py --out data/extracted/corpus --rebuild
+    python scripts/extract/build_series_sql.py     # then re-run the series QA
+
+Cost: a full reparse of 192,535 table records (~7 minutes of wall clock when the
+box is idle; RAM was 691 MB free with nothing running). Risk: other agents'
+audits (gap_matrix, qaudit, series_priorities) read this DB, so rebuild when
+none of them is mid-run.
+
+### Deliberately not changed
+
+* `corpus_checkpoint.jsonl` - never written. Note for whoever reads it next: the
+  last row for 249 recovered documents still says `CRASH`. `verify_extraction.py`
+  resolves them through `crash_recovery.jsonl` and I confirmed all 249 have
+  text.jsonl on disk, but a consumer that reads the checkpoint alone will count
+  249 false failures.
+* No batch started, nothing re-extracted, no `run_batch.py`/`extract_all.py`/
+  `batch_worker.py`/`verify_extraction.py` edit, no push, nothing outside
+  `scripts/extract/`.
+* `data/extracted/scratch_review/` (a previous run's scratch, 756 KB, holds
+  `build_table_db.py.before`) left in place.
+* The HTML pass has never produced output - `data/extracted/html` does not
+  exist - so HTML-collected sources are unextracted. Related: the 68 breakwave
+  not-a-pdf paths no longer exist on disk; the same articles survive as 3,221
+  `.html` files in `reports/breakwave/` with a different stem. The one I opened
+  has no `<table>` element, so the value looks prose-only, but I only opened one
+  of 3,221 and this is a decision, not a defect.
+* `source_configs.QUARANTINE_GLOBAL` still says "not-a-pdf headers (3 found:
+  breakwave x2, signal fueleu)"; the measured count is 74. Stale comment, left
+  for a human to correct with the disposition they want.
