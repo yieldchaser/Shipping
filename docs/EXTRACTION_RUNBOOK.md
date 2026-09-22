@@ -48,6 +48,24 @@ python scripts/extract/verify_extraction.py --out data/extracted/full
 - Judge progress from the checkpoint line count and `data/extracted/batch_state.json`,
   never from a process listing.
 
+### Launch durably (added 2026-09-22)
+
+Prefer the detached launcher over the tool background session:
+
+```bash
+python scripts/extract/launch_detached.py            # prescribed command, detached
+python scripts/extract/launch_detached.py --dry-run  # print what it would run
+```
+
+It spawns `run_batch` with `CREATE_BREAKAWAY_FROM_JOB | DETACHED_PROCESS` and
+appends the driver stdout+stderr to `data/extracted/batch_run.log`. Measured
+2026-09-22 05:48 IST: a batch started through the tool background session was
+terminated ~20 s after the agent run that started it finished (Hermes puts itself
+in a `KILL_ON_JOB_CLOSE` job object, so unbroken-away children die with it; there
+was no crash record in the Windows Application log, which is how termination was
+told apart from a fault). Judge progress from `data/extracted/batch_run.log` and
+from the checkpoint line count - never from `ps`, which cannot see these children.
+
 ## Signals to watch
 
 | Signal | Meaning | Action |

@@ -430,3 +430,113 @@ the worker had harvested images but had not yet written text/tables/pages. It is
 complete now. `verify_extraction.py` classifies such dirs as in-flight, so a
 transient count of 4 `empty_after_failure` (3 timeout textbooks + 1 mid-write) is
 a snapshot, not a defect. No silent-empty recurred: `empty_after_ok_status` is 0.
+
+
+## 2026-09-22 06:55 IST (01:25 UTC) - deep review: hourly restarts were dying with the agent session; one measured recall finding
+
+Verdict: **FIXED** (launch durability) with one NEW measured item flagged for human decision.
+
+### What I measured
+
+`verify_extraction.py --json` at 06:05 IST: 5,033 checkpoint rows, 5,033 unique (0
+duplicates), ok 4,752, `empty_after_ok_status` 0, `empty_unexpected` 0, mean
+`text_verified` 0.991, failures 74 (71 not-a-pdf bad header, 3 timeout = 1.5%),
+disk 55.5 GB free, `actions[]` EMPTY. **The batch was dead on arrival**: last
+checkpoint write 05:48:59.579, zero `run_batch`/`batch_worker` processes at 06:02.
+
+### Finding 1 (FIXED): the hourly restart dies within ~20 s of the restarting run
+
+Evidence, all from this box:
+
+* the hourly run restarted the batch at 05:37:03 IST; its last checkpoint row was
+  written 05:48:59.579; that run was recorded finished 05:49:00.462. The next row
+  would have landed ~05:49:10, so death is bracketed to [05:48:59.6, ~05:49:20] -
+  within ~20 s of the driving process exiting.
+* it was **terminated, not crashed**: the Windows Application log has no
+  `python.exe` event 1000 in that window, while other applications here do produce
+  1000s (PhoneExperienceHost 05:40:44, Hermes.exe 21-09 12:04). A hard fault leaves
+  a record; an external TerminateProcess leaves none.
+* mechanism: Hermes attaches its own process to a Windows job object with
+  `JOB_OBJECT_LIMIT_KILL_ON_JOB_CLOSE`
+  (hermes-agent/hermes_cli/process_identity.py layer 3, ~line 425). A child that
+  does not request `CREATE_BREAKAWAY_FROM_JOB` stays in that job and dies when the
+  agent process exits. hermes_cli/gateway_windows.py:44 documents the same hazard.
+* honest limit: PID 7376 (the 20:32 - 04:51 batch) survived many hourly runs, so
+  this is evidently not universal for background-session children. The correlation
+  above is 1:1 but n=1. The previous death (04:51) had a different, unrelated
+  cause: critical-battery shutdown (Kernel-Power 524 at 04:51:03, 109 at 04:51:14),
+  machine back up 05:32:48.
+
+Fix: `scripts/extract/launch_detached.py` spawns the prescribed `run_batch`
+command with `CREATE_BREAKAWAY_FROM_JOB | DETACHED_PROCESS |
+CREATE_NEW_PROCESS_GROUP` and sends stdout+stderr to
+`data/extracted/batch_run.log`. The 05:48 death left **no driver output at all**,
+which is why it needed a forensic pass; that log is the missing evidence channel.
+
+Verified: launched 06:17:17, `mode=breakaway+detached pid=17700,
+alive_after_3s=True` (breakaway accepted, no access-denied fallback), 2
+`batch_worker` children observed, checkpoint 5,033 -> 5,116 by 06:55 with log rows
+`[1/2783]` .. `[60/2783]` all status ok.
+
+### Finding 2 (NEW, previously unsurfaced): whole sale sections sit in the text and in no grid
+
+Reproduced by hand on `carriers_2026_W26_WK-26-26-CARRIERS_SP-MARKET-REPORT`
+(3 pages, 38 tables, every table `text_verified` 1.0). Page 0 of the source PDF
+holds two sale tables. The grids captured "Bulk Carriers Reported Sold" (9 rows:
+CORNELIE OLDENDORFF 93,246 ... DARYA KRISHNA 34,874) and dropped **every row** of
+"Tankers / LPG Vessels Reported Sold" -
+
+    ECLAT          TANKER  299,031  2004  Universal Shbldg - Ariake   50.00  UNDISCLOSED
+    HANSA OSLO     TANKER   51,215  2007  STX Shipbuilding - Jinhae    20.00  UNDISCLOSED
+    XING TONG 799  TANKER   49,962  2011  Onomichi Dockyard Co Ltd     27.50  UNDISCLOSED
+
+plus the single Container row (NJORD CV 9,543 2007 Sainty Shipbuilding 7.50). No
+cell in any of the 38 tables contains ECLAT, while the value is in the page text
+of the pipeline text.jsonl and of PyMuPDF. Re-running
+`camelot.read_pdf(page=1, flavor=stream)` directly on the source PDF also returns
+no cell containing ECLAT: an **engine coverage limit, not a routing bug and not a
+corrupt file**.
+
+Scale, measured with the new tool over the committed corpus:
+
+| source | docs | record-grade orphan values | docs affected |
+|---|---|---|---|
+| carriers | 125 | 513 | 97 (78%) |
+| allied | 204 | 111 | 57 (28%) |
+| banchero_costa | 237 | 14 | 6 (3%) |
+| advanced_shipping | 44 | 6 | 2 (5%) |
+| agora | 211 | 0 | 0 |
+
+Definition: values matching `^[0-9]{1,3},[0-9]{3}$` (tonnage-shaped) present in the
+page text and in no table cell of that page, sitting in a text block with no prose
+function-words (a record row, not a sentence). Worst carriers docs:
+`carriers_2026_W06` 18 (e.g. "DHT BAUHINIA TANKER 301,019 2007 Daewoo Shipbuilding
+& Marine 51.50 CHINESE"), `carriers_2025_W29` 13 (e.g. "ATLANTIC LOYALTY TANKER
+307,284 2007 Dalian Shipbuilding Ind - No 2 44.00 UNDISCLOSED"), `carriers_2025_W38`
+13. The 308 raw DWT-shaped orphans in advanced_shipping are 302 chart axis labels
+("0 500 1,000 ... Tankers") and prose, so that row is an upper bound, not loss.
+
+Why every existing gate missed it: the reconciliation runs **cells -> text** only.
+A document whose grid is complete but which is *missing entire rows* reports
+`text_verified` 1.0, and this carriers document does, on both engines.
+`pages.jsonl` records `values_only_in_text` and nothing aggregates it.
+
+Tooling added: `scripts/extract/recall_gap_report.py` (read-only) reproduces the
+table above per source.
+
+NOT changed: nothing was re-extracted and the corpus was not written to.
+Reconstructing sale rows from the text layer for the ~5,000 already-extracted docs
+changes how existing data should be interpreted, so it is a human decision.
+
+### Deliberately not changed
+
+* `run_batch.py`, `extract_all.py`, `batch_worker.py`, `verify_extraction.py`, the
+  hourly job prompt, the checkpoint, the corpus dir, `index.html`, `data/etf/**`,
+  other pipelines, git history. No push, no commit to main.
+* The 441-page `fearnleys_2022_W50` document (230 s against an 11 s median, a 21x
+  outlier) - a throughput outlier, not a defect, and not a reason to raise the
+  900 s per-document ceiling.
+* Worker count left at 2 as prescribed. Standing risk, not acted on: available RAM
+  is 354-453 MB with **no** extraction running (committed 11.5 GB on a 7.9 GB
+  physical box), the environment in which the earlier 0xC0000409 fail-fast burst
+  occurred.
