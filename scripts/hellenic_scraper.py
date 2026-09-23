@@ -5,9 +5,9 @@ Archives selected Hellenic Shipping News report categories as clean,
 repo-local HTML snapshots with sidecar images and optional PDFs.
 
 Output:
-  reports/hellenic/{category}/{year}/{date}_{slug}.html
-  reports/hellenic/{category}/{year}/assets/{asset}.{ext}
-  reports/hellenic/{category}/pdfs/{date}_{filename}.pdf
+  corpus/02-hellenic/{category}/{year}/{date}_{slug}.html
+  corpus/02-hellenic/{category}/{year}/assets/{asset}.{ext}
+  corpus/02-hellenic/{category}/pdfs/{date}_{filename}.pdf
 """
 
 from __future__ import annotations

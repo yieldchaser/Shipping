@@ -22,7 +22,7 @@ except ImportError:  # fall back to pypdf extraction
 import pypdf
 
 REPO_ROOT = Path(r"C:\Users\Dell\Github\Shipping")
-DEMO_DIR = REPO_ROOT / "reports" / "hellenic" / "demolition" / "pdfs"
+DEMO_DIR = REPO_ROOT / "corpus" / "02-hellenic" / "demolition" / "pdfs"
 TARGET_CSV = REPO_ROOT / "data" / "derived" / "scrappage_prices.csv"
 BACKUP_CSV = REPO_ROOT / "data" / "derived" / "scrappage_prices.csv.bak"
 

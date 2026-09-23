@@ -7,7 +7,7 @@ fetcher all did the same thing: take an HTTP response, decide the file extension
 from the URL, and write the bytes. Nothing inspected the content.
 
 Measured consequence on this repo's own archive (2026-09-22): 68 files under
-reports/breakwave/pdfs/ carry a .pdf extension but are not PDFs. 67 are
+corpus/03-breakwave/insights/pdfs/ carry a .pdf extension but are not PDFs. 67 are
 5,174-byte login pages whose entire visible text is "Login Page"; one is a
 search-results page. The baltic archive shows the same pattern - 850 files
 classified as "bot-wall asset placeholder".

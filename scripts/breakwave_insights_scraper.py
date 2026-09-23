@@ -6,9 +6,9 @@ stores clean self-contained HTML by year, and downloads article images
 plus linked assets into repo-local archive folders.
 
 Output:
-  reports/breakwave/{year}/{date}_{slug}.html
-  reports/breakwave/{year}/assets/{asset}.{ext}
-  reports/breakwave/pdfs/{asset}.pdf
+  corpus/03-breakwave/insights/{year}/{date}_{slug}.html
+  corpus/03-breakwave/insights/{year}/assets/{asset}.{ext}
+  corpus/03-breakwave/insights/pdfs/{asset}.pdf
 """
 
 from __future__ import annotations
@@ -256,7 +256,7 @@ def mirror_asset(
 
     # Reject walls and mislabeled payloads BEFORE they reach disk.
     # Measured 2026-09-22 on this repo's own archive: 68 files under
-    # reports/breakwave/pdfs/ carry a .pdf extension but are not PDFs. 67 of them
+    # corpus/03-breakwave/insights/pdfs/ carry a .pdf extension but are not PDFs. 67 of them
     # are 5,174-byte login pages whose entire visible text is "Login Page", and
     # one is a search-results page - all saved because the URL ended in .pdf and
     # nothing ever inspected the bytes. They inflated the asset count, read as

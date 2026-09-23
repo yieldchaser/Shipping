@@ -17,7 +17,7 @@ GOLDEN = {
     # Athenian Shipbrokers Ship Recycling, Week 24 2026 (page 1)
     # HISTORICAL DEMOLITION PRICES table, read from the render
     "demolition_athenian": {
-        "pdf": REPO + "reports/hellenic/demolition/pdfs/"
+        "pdf": REPO + "corpus/02-hellenic/demolition/pdfs/"
                      "2026-06-16_gms-week-24-premium-cracks-pen-hovers_"
                      "week-24-athenian-demolition-report-2_03f79e746643.pdf",
         "page": 0,

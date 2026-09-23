@@ -26,7 +26,7 @@ Output: knowledge/manifests/spike_queue.jsonl (one JSON object per line).
 Always exits 0. Never modifies or deletes anything under data/.
 Known P0 context (flagged, NOT auto-corrected — no fabrication):
   - scrappage_prices.csv 2024-08-03 container_india 763.0 (+42.6% vs 535.0):
-    source HTML reports/hellenic/demolition/2024/2024-08-03_*.html carries only a
+    source HTML corpus/02-hellenic/demolition/2024/2024-08-03_*.html carries only a
     PDF link, no inline table; PDF text not verified via file-read tools.
   - usda_grain_vessel_rates_japan.csv lines 143-154 (Oct 2007-Aug 2008 Gulf_To_Japan
     ~10-13 vs ~90-130 era levels, 10x decimal-shift pattern): no archived USDA

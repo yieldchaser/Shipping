@@ -15,7 +15,7 @@ except ImportError:  # fall back to pypdf extraction
 import pypdf
 
 REPO_ROOT = Path(r"C:\Users\Dell\Github\Shipping")
-PDF_DIR = REPO_ROOT / "reports" / "hellenic" / "iron_ore" / "pdfs"
+PDF_DIR = REPO_ROOT / "corpus" / "02-hellenic" / "iron_ore" / "pdfs"
 TARGET_CSV = REPO_ROOT / "data" / "derived" / "iron_ore_restocking.csv"
 BACKUP_CSV = REPO_ROOT / "data" / "derived" / "iron_ore_restocking.csv.bak"
 

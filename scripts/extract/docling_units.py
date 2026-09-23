@@ -42,9 +42,9 @@ UNIT_NEAR = re.compile(
 
 DEFAULT_SAMPLE = [
     # a spread across the high-value proprietary tables
-    "reports/hellenic/iron_ore/pdfs/*mmi-daily-iron-ore-index-report-july-24-2025*.pdf",
-    "reports/hellenic/iron_ore/pdfs/*mmi-daily-iron-ore-index-report-august-26-2025*.pdf",
-    "reports/hellenic/iron_ore/pdfs/*mmi-daily-iron-ore-index-report-september-10-2025*.pdf",
+    "corpus/02-hellenic/iron_ore/pdfs/*mmi-daily-iron-ore-index-report-july-24-2025*.pdf",
+    "corpus/02-hellenic/iron_ore/pdfs/*mmi-daily-iron-ore-index-report-august-26-2025*.pdf",
+    "corpus/02-hellenic/iron_ore/pdfs/*mmi-daily-iron-ore-index-report-september-10-2025*.pdf",
 ]
 
 
@@ -73,6 +73,12 @@ def main() -> int:
 
     harvested: dict[str, dict] = {}
     per_doc = []
+    # Write incrementally. The first run was killed mid-way (exit -15) and, because
+    # it only wrote at the end, ~30 harvested unit annotations were lost with it.
+    def flush():
+        json.dump({"per_doc": per_doc, "units": list(harvested.values())},
+                  open(a.out, "w", encoding="utf-8"), indent=1)
+
     for i, p in enumerate(paths, 1):
         t1 = time.time()
         try:
@@ -95,14 +101,15 @@ def main() -> int:
                     found += 1
         per_doc.append({"doc": os.path.basename(p), "secs": round(dt, 1),
                         "markdown": len(md), "units_found": found})
-        print(f"  [{i}] {os.path.basename(p)[:50]:<52} {dt:6.0f}s  units={found}")
+        print(f"  [{i}] {os.path.basename(p)[:50]:<52} {dt:6.0f}s  units={found}",
+              flush=True)
+        flush()   # survive a kill
 
     print(f"\n=== distinct entity->unit annotations: {len(harvested):,}")
     for k, v in list(harvested.items())[:30]:
         print(f"   {v['entity'][:44]:<46} {v['unit']}")
 
-    json.dump({"per_doc": per_doc, "units": list(harvested.values())},
-              open(a.out, "w", encoding="utf-8"), indent=1)
+    flush()
     print(f"\nwrote {a.out}")
     tot = sum(d["secs"] for d in per_doc)
     print(f"total conversion time: {tot:.0f}s for {len(per_doc)} docs")

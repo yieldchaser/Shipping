@@ -17,7 +17,7 @@ Output per document (same shape as the PDF path so downstream is uniform):
   <out>/<source>/<stem>/meta.json      title, junk verdict, counts
 
 Usage:
-  python scripts/extract/run_html_pass.py --root reports/hellenic --out data/extracted/html
+  python scripts/extract/run_html_pass.py --root corpus/02-hellenic --out data/extracted/html
   python scripts/extract/run_html_pass.py --all --out data/extracted/html
 """
 import argparse
@@ -31,9 +31,9 @@ import time
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 ROOTS = {
-    "hellenic": ["reports/hellenic"],
+    "hellenic": ["corpus/02-hellenic"],
     "signal": ["corpus/07-signal/html"],
-    "breakwave": ["reports/breakwave"],
+    "breakwave": ["corpus/03-breakwave/insights"],
     "baltic": ["corpus/08-baltic"],
 }
 
