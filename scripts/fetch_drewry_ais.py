@@ -48,8 +48,13 @@ import os
 import sys
 import time
 from datetime import date, timedelta
+from pathlib import Path
 
 import requests
+
+# Canonical on-disk root for downloaded AIS PDFs (see docs/data_layer_reorg_plan.md).
+# Absolute, so the default no longer depends on the caller's working directory.
+_AIS_DEFAULT = str(Path(__file__).resolve().parent.parent / "corpus" / "06-drewry" / "ais")
 
 BASE = "https://www.drewry.co.uk/AcuCustom/Sitename/DAM"
 
@@ -122,7 +127,7 @@ HEADERS = {
 
 
 
-def try_fetch(dam_id: int, week: int, year: int, out_dir: str = "drewry_ais_pdfs", templates=None):
+def try_fetch(dam_id: int, week: int, year: int, out_dir: str = _AIS_DEFAULT, templates=None):
     templates = templates if templates is not None else FILENAME_TEMPLATES
     os.makedirs(out_dir, exist_ok=True)
     found = []
@@ -160,7 +165,7 @@ def try_fetch(dam_id: int, week: int, year: int, out_dir: str = "drewry_ais_pdfs
     return found
 
 
-def historical_download(out_dir: str = "drewry_ais_pdfs"):
+def historical_download(out_dir: str = _AIS_DEFAULT):
     """Download everything in HISTORICAL_DAM_MAP (and HISTORICAL_DAM_MAP_H2_2024)
     directly -- no sweeping, every (DAM, week) pair here is already
     confirmed real. Covers 2024 weeks 2-52 (~90%, 5 genuine gaps) across

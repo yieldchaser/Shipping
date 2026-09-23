@@ -17,9 +17,9 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 ROOTS = [
     "reports/shipbrokers",
     "reports/poten",
-    "scripts/drewry_ais_pdfs",
+    "corpus/06-drewry/ais",
     "corpus/03-breakwave/drybulk",
-    "reports/tankers",
+    "corpus/03-breakwave/tankers",
     "reports/breakwave",
     "reports/hellenic",
     "data/reports/seabrokers",

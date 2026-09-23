@@ -52,7 +52,7 @@ DATA_DIR = ROOT / "data" / "commodities"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 OUT_FILE = DATA_DIR / "australia_ppa_iron_ore.csv"
 MANIFEST_FILE = ROOT / "data" / "provenance" / "manifest.json"
-SCRATCH = ROOT / "scratch"
+SCRATCH = ROOT / "corpus" / "09-ppa"
 
 CTX = ssl.create_default_context()
 CTX.check_hostname = False

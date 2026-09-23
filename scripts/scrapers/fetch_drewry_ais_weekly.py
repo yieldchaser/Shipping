@@ -24,8 +24,10 @@ from pathlib import Path
 
 import requests
 
+from source_archive_utils_v2 import drewry_ais_root
+
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-PDF_DIR = REPO_ROOT / "scripts" / "drewry_ais_pdfs"
+PDF_DIR = drewry_ais_root()
 MANIFEST_FILE = REPO_ROOT / "reports" / "drewry" / "ais_manifest.csv"
 CHECKPOINT_FILE = REPO_ROOT / "data" / "derived" / "drewry_ais_checkpoint.json"
 

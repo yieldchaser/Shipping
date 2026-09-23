@@ -1,0 +1,3872 @@
+{
+  "groups": [
+    {
+      "path": "corpus/06-drewry/ais",
+      "moved_from": "scripts/drewry_ais_pdfs",
+      "exists": true,
+      "files": 276,
+      "bytes": 526278649
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf",
+      "moved_from": "scratch/ppa_pdf",
+      "exists": true,
+      "files": 326,
+      "bytes": 26102680
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs",
+      "moved_from": "scratch/*.pdf (loose)",
+      "exists": true,
+      "files": 167,
+      "bytes": 26953729
+    }
+  ],
+  "entries": [
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Aframax_Week27_2026.pdf",
+      "bytes": 2037975,
+      "sha256": "3e2a722bcb975bb3832887c861c5fef35429647a001781b6bff73119d43c9642"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Aframax_Week30_2026.pdf",
+      "bytes": 2046783,
+      "sha256": "6759502682b9b9ba8c37f3cee0fc045608d9b1acce45080bafa2c81023363d6d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week26_2026.pdf",
+      "bytes": 2130919,
+      "sha256": "1f71c83941cab1c98726db8388360098c5de538823cd9f52b450b3883714a8e4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week29_2026.pdf",
+      "bytes": 2142969,
+      "sha256": "64ec76bd8612edfd0ccd216e8e1e48f944cb356cfeebe5130d037ffbe7ef2ef6"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week32_2026.pdf",
+      "bytes": 2151325,
+      "sha256": "698809ec14cb5304b1ac39a9cacf37bb2a420368f5aeca5d04977381d422a108"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_Suezmax_Week35_2026.pdf",
+      "bytes": 2151162,
+      "sha256": "f74027cb99c35cb3af088822d010031a2c0a94104d958e66e4efd448a9c4ebd5"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week25_2026.pdf",
+      "bytes": 2027611,
+      "sha256": "2a3b45c8e1d304f072215f17233e2af7d8ad6e50b490b3cabe208e410cff9bcb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week28_2026.pdf",
+      "bytes": 2039705,
+      "sha256": "1c782959854e9cd065745f98fe7d9e298f63919f2b4c57be0ecdfbc7c5fc756d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Crude_VLCC_Week31_2026.pdf",
+      "bytes": 2044635,
+      "sha256": "6f8ad09573a5006a6b8c24a4f7102033bf5256216939fe46ae468a34ef6fd98a"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week25_2026.pdf",
+      "bytes": 1560575,
+      "sha256": "551ebce5e78d764c946d2de3c01e3275928490e8c0ccfce223f57c9a60e63550"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week29_2026.pdf",
+      "bytes": 1587111,
+      "sha256": "937e1faead7881ba3fda2669d9dee8597412c14f1b6cd2269af42100d584b0d4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Capesize_Week33_2026.pdf",
+      "bytes": 1596741,
+      "sha256": "4f3cf8d68afdf481e5c8d7126f20a19e0cfcca8706e3cd3b1127b7b5beda92f9"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week28_2026.pdf",
+      "bytes": 1570218,
+      "sha256": "7d08985e528c553867a2ef3b789e30a5a40e76029ac8b4ff08268372a6bd69a8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Handysize_Week32_2026.pdf",
+      "bytes": 1588849,
+      "sha256": "b174e4820c841e2b45dc66d197b09914eeaabb903eff45007e9df9e60facba0d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week27_2026.pdf",
+      "bytes": 1577627,
+      "sha256": "a28be1138134129c51c81ffa2584f415f21dd39b933fc9b47a63da3c27f528c6"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week31_2026.pdf",
+      "bytes": 1589457,
+      "sha256": "f39d1aa9ddc1e08dc26e4e66fbcc3cee4da4124da27d1576a68ada28dc8931d9"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Panamax_Week35_2026.pdf",
+      "bytes": 1610728,
+      "sha256": "3da55014668d9524aa14cc036117610147fd377eac14594896f693eb56d2f6db"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week26_2026.pdf",
+      "bytes": 1567923,
+      "sha256": "0fabe8ee009a18c82300caa367300ce93af0caa249df3a2a17f5e9863c405304"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Drybulk_Supramax_Week30_2026.pdf",
+      "bytes": 1590600,
+      "sha256": "a7def9ed26eabc25581298ad598a3ae9c66222c77fb9f52167cb84e19b7d6406"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week26_2026.pdf",
+      "bytes": 1487311,
+      "sha256": "dc47bbaaeebddffadb56ca762350c02b0899e92a00c9c79805a1ff32e9568f59"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week29_2026.pdf",
+      "bytes": 1480456,
+      "sha256": "f2d505b42fc955d70e5a6e4ea06e8b3e461635bfe594e6ae4241ffd9c60d98b6"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week32_2026.pdf",
+      "bytes": 1490982,
+      "sha256": "9a0c77879f942c58d86e07d3d8d382eea9a52e810a33c85ae850ae81a68527ae"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_LPG_FR_Week35_2026.pdf",
+      "bytes": 1499608,
+      "sha256": "f1754bb798a5e13d5819f80496aa7140849a6cef0b374da0f896066f05b71d6d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week01_20251.pdf",
+      "bytes": 2229160,
+      "sha256": "12ea5f36f7bd03dac7d255ce0679a1056538c936b4747e3d0677a9cbb426c0e4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week02_2024.pdf",
+      "bytes": 2209561,
+      "sha256": "6e51fa6e4f9e1327ad6670c328d19c28ca3099606b4c0bc1f81839b1e3b249f0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week04_20251.pdf",
+      "bytes": 2282187,
+      "sha256": "7f010fbf15a312f0cb758cbe621d78f754924c06a1cae2efbc84f8b46e576259"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week05_2024.pdf",
+      "bytes": 1994601,
+      "sha256": "7287cf5b5ac599f42aa0737455f9c631835a3d4b136cbf8e0521baaae6411f18"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week07_20251.pdf",
+      "bytes": 2287147,
+      "sha256": "17c5690bfcabf15c25f9511a574372e7e154980b74b03c67aa6c9105dffc2b32"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week10_20251.pdf",
+      "bytes": 2297125,
+      "sha256": "2ebe9da2624dc3ecddc8dcb674fe60bc423cf3cec213f4640c7a9ac5a45f18d5"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week13_2024.pdf",
+      "bytes": 2029418,
+      "sha256": "fafb4c80b407e52f63a665cca3c21583b6d39f79bed71e66ea5a0cf9ba096fc7"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week13_20251.pdf",
+      "bytes": 2284199,
+      "sha256": "59d9ab30be7b3f33218d682273e3cb328d06d6328611e6f4eb30e7e8339d9a7f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week16_20251.pdf",
+      "bytes": 2263718,
+      "sha256": "2d99f4e489494bc937b8199572e411374d43b6217c68683efa336704bd32574d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week17_2024.pdf",
+      "bytes": 2032148,
+      "sha256": "c6bff3db17bd15e8b92a115303e22874ebfdec6732d3f59981a41ebea0498be1"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week19_20251.pdf",
+      "bytes": 2286783,
+      "sha256": "ba6ff1016d583efde91c7ae044d91e4f5ad5d1c2b9a8706621a3572abd00845e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week21_2024.pdf",
+      "bytes": 1969104,
+      "sha256": "040d5689e0693444319911df8e02afd12168d001ef61beb74b2d955ba98c6c91"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week22_20251.pdf",
+      "bytes": 2283783,
+      "sha256": "8a8c78692b8ba0b4468403c8e9921a6dc0c0c68ebefe3a5e4ee926400e3598c2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week25_2024.pdf",
+      "bytes": 1976375,
+      "sha256": "9279abcf16471d0b92b33ffa3862f8112b12d7cfe504b456aafe3a107b206f90"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week32_20241.pdf",
+      "bytes": 1981901,
+      "sha256": "53cde5ee0e2555bbb7671cb391dcc0a5c37a1474c80fde54655871b83fc051d2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week34_20251.pdf",
+      "bytes": 2324284,
+      "sha256": "3f01f53a793eb183daca888d27c442e850742ffbe6346d316d608534fa24bbdb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week35_20241.pdf",
+      "bytes": 1986441,
+      "sha256": "195656c31c95ab7839ec7737b1c8562bd28e105c97a28ab7d7efd8db2e5b523e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week37_20251.pdf",
+      "bytes": 2306412,
+      "sha256": "e6592393c65dabac2117730ba44cae9939b4e924c1b7d83be7f042ae65011bbf"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week38_20241.pdf",
+      "bytes": 1991599,
+      "sha256": "ea7e3194693ab81eb1647c8af69fbd0ffbd724930b75456024b156398d4c565c"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week40_20251.pdf",
+      "bytes": 2326982,
+      "sha256": "f99cdc74f5b8467f6001f7962b5ee2d82b34773342d269a7976c7f575fef6db9"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week41_20241.pdf",
+      "bytes": 1993427,
+      "sha256": "307cff86da2996ef1ed732a50c4609daebd04a8f0343341b0d2acb8d276b3be3"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week43_20251.pdf",
+      "bytes": 2318651,
+      "sha256": "0b89c1bfe032db5bb0e36ed97507c75466721e1ed8391dcf878202eedbc38dd0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week44_20241.pdf",
+      "bytes": 2262800,
+      "sha256": "7c8c80bed516f506f3bf76c81855a6cb370b7ec7deba2b9cca79e01445530116"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week46_20251.pdf",
+      "bytes": 2330329,
+      "sha256": "7b55338febf5626639ead159c390119ae627c9a47d4cb34050f393b9d04fc5e7"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week47_20241.pdf",
+      "bytes": 2231415,
+      "sha256": "813141e74502ffa2054b614b3937ebe4e8f94d77e31658f5617cc21ba5c34e00"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week49_20251.pdf",
+      "bytes": 2334205,
+      "sha256": "361ac0a5dfc74004273614f214c58a6d5d201c05641a9faf86e9a9bd60c96d21"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Aframax_Week50_20241.pdf",
+      "bytes": 2243654,
+      "sha256": "0ecc2c78ef4649d86999a95bfbb8a7eb48d7ba911fd4e399690fd0613220c969"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week02_20251.pdf",
+      "bytes": 2250582,
+      "sha256": "976c10fd540c62e49a19908ddd02a05154754b1831d69ae7daf54850a9be1ceb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week05_20251.pdf",
+      "bytes": 2258356,
+      "sha256": "b9769244ad86900706b21ed39e3a63512e3a2081f1188c01e0ee7f067cd05c38"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week08_20251.pdf",
+      "bytes": 2259764,
+      "sha256": "554c698c022875d02e81fafb50936bfd0f359d80ff387d5d0909f854a228fc77"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week11_2024.pdf",
+      "bytes": 1990960,
+      "sha256": "53235ec065c914d961463e31ea23db011aba78f3dd9e2b0f50562f3802b09a36"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week11_20251.pdf",
+      "bytes": 2276378,
+      "sha256": "370adcd51442461cd47fb3cf637ad7d391038ae241107c628aca29f5e8ea7bb8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week14_20251.pdf",
+      "bytes": 2259529,
+      "sha256": "7693c67957c26671c19043bd4e3c58aa83cf3b41df48bcedbf47eb4d7de7a0b7"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week15_2024.pdf",
+      "bytes": 1997365,
+      "sha256": "cb9be664cd58f71439fff39f84de661de512e6df53ad44c4c3c112cce27f77bc"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week17_20251.pdf",
+      "bytes": 2253913,
+      "sha256": "ddf2ede65c7ec09ab53198a7ac797881ed21c6e29522ce56ec1756b4b3a105bb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week19_2024.pdf",
+      "bytes": 1998677,
+      "sha256": "054b340577b9c5ce507e0fc15253f3a8b82a7afc0c83b9dfc752311d3f85fde6"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week20_20251.pdf",
+      "bytes": 2251403,
+      "sha256": "af84fe10003ea79acdaed2a25c1f7d1f83c20a682636c0f6e47d7aedb38037cd"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week22_2024.pdf",
+      "bytes": 1961839,
+      "sha256": "920086b118d9188bdace581ddafcdba37aeacf9c1d8caf272fd3948511c367bb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week23_20251.pdf",
+      "bytes": 2274154,
+      "sha256": "8f20714d59e8e34a0e52b21807ffbd209575dda6fb432cd5124ee8c2fd9432ae"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week26_20241.pdf",
+      "bytes": 1962900,
+      "sha256": "7996e60f5bdc4b6d3bcc39c518a05e4c2fdb2e7e17dae829bd84bbfcff21d4c2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week26_20251.pdf",
+      "bytes": 2270014,
+      "sha256": "93438646fda14f606179c54d1cb880f668138c2ec2ccd5e0bf95190d2ec1fa06"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week30_20241.pdf",
+      "bytes": 1964083,
+      "sha256": "dbeb77351177a439ba937598d91946a68d7aeafa5743a7d9a86d5364fa777c4f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week32_20251.pdf",
+      "bytes": 2279442,
+      "sha256": "052dbfa305d1ebac229eb232cc8719bf917196886e7f19f973b27bbf9c2e2b31"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week33_20241.pdf",
+      "bytes": 1972689,
+      "sha256": "f89aee025ee3e6506bcf08c73086d111c653ca34ea23b50752c46bee11f03133"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week36_20251.pdf",
+      "bytes": 2288017,
+      "sha256": "78ff68dc4a34319ae35f3affbdcf891dcf27837dbfe9a60a313fc52d427523fb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week39_20241.pdf",
+      "bytes": 1984425,
+      "sha256": "178a8d1f5e205a4fa7e18f1a0d902c45bb7272f9d5987679fd09f75bc6fd45f8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week39_20251.pdf",
+      "bytes": 2299460,
+      "sha256": "64f615e0a4dba90a85f6132ad9a37ec960e6b974d73beead16ba6b375cd8ca86"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week42_20241.pdf",
+      "bytes": 1982751,
+      "sha256": "fb11764fce7453a43d0f397511ba6fc31856fa0d13c412fdf29f0f77373d1d85"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week45_20241.pdf",
+      "bytes": 2204171,
+      "sha256": "499a4632b89736deec726d2a7dd943d2f4359e928ca2a03092e90660dbc5b138"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week45_20251.pdf",
+      "bytes": 2294835,
+      "sha256": "0ab9fb50acc2c680b769f32aed5f1cf3a71fe2e06de49419a1b901c406bc12d2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week48_20241.pdf",
+      "bytes": 2222209,
+      "sha256": "04ac6dd52816e17d577ea77269e3e1bbf9957f90060427eafa50cb53f13ca025"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_Suezmax_Week51_20241.pdf",
+      "bytes": 2221139,
+      "sha256": "5c8b34e5a06412b9bdefca14d24a515ee8bbedc344bbccade114625e8dd55859"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week03_20251.pdf",
+      "bytes": 2251011,
+      "sha256": "f28281b85c4bee11ae96db74bdefc31335112cb847649a609232643880e2d148"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week06_2024.pdf",
+      "bytes": 1994934,
+      "sha256": "770dbd9635bc1501871b471537c516cc66b41e2e1ddd1012ef55cc53f78aef5d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week06_20251.pdf",
+      "bytes": 2261459,
+      "sha256": "7bf9f10c1ba3512d7971ac9c54e9c5710ee6fba22fe0d90ebcb9c1629a60e3f2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week09_20251.pdf",
+      "bytes": 2283359,
+      "sha256": "b3c21c3e4d7415de47987ae7c1167b90ef61f275b428578e1969d5564913e503"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week10_2024.pdf",
+      "bytes": 2033752,
+      "sha256": "d057593634b0e14dbd6802415dce5a3b754050ca5c4e664105d62c1e22a92591"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week12_20251.pdf",
+      "bytes": 2269465,
+      "sha256": "e7160aee1668bc7f37dea9c76e2f3cc337e285296676281b7057ca3e9d2b3500"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week14_2024.pdf",
+      "bytes": 2052808,
+      "sha256": "1f313f0d040ccc971e89805f850718d43d3b93027e5b618e54c4ecf24748dc2b"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week15_20251.pdf",
+      "bytes": 2272692,
+      "sha256": "ab038d81fbea760916d85fa4029e4721aa9cc183809ac4f03df1a6189325e1fc"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week18_2024.pdf",
+      "bytes": 2063413,
+      "sha256": "4d7ffcc21acec6ef0e41ae448e9e2677add7678cc160dfe11f3771ec92581796"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week18_20251.pdf",
+      "bytes": 2282798,
+      "sha256": "aae0072d8fc2e75807e9c5f7521bf28d612c82a33f0c5dcb71da78d49804e670"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week23_2024.pdf",
+      "bytes": 1968370,
+      "sha256": "cfd5f5055e8d2c429b82f326c09a4108fbab9738b781bf8d914c218c155efa1f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week24_20251.pdf",
+      "bytes": 2287699,
+      "sha256": "44e434a334d1c5b9e85e943dac470d4243f470a8b0bc38466233d080a7ccbd73"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week27_20241.pdf",
+      "bytes": 1974953,
+      "sha256": "a2c0894cd73da7073519f653643d6d1a4a55eb953d5b40573c97a8388e0b8de6"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week27_20251.pdf",
+      "bytes": 2306014,
+      "sha256": "a3632dc49d7973dc39f5d1acde40b0769d5c3d8e1139879a81fcf0b9cdf6d47a"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week31_20241.pdf",
+      "bytes": 1975029,
+      "sha256": "7ff12ce5501d1ad23225cb941304281c259963f6c56950ffcd2d1af2427b6dcd"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week31_20251.pdf",
+      "bytes": 2302092,
+      "sha256": "8c314e578d8b2c2c9a9d1b7d99bb512aa91394aa71a8df280c18a8c8e847d38d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week34_20241.pdf",
+      "bytes": 1981598,
+      "sha256": "4c2ff894fa286e5a84703f2b2e18676dc85a73277a0f82d8b46879157901aae0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week35_20251.pdf",
+      "bytes": 2330321,
+      "sha256": "ab98e3cfb03de6d0d7bda59300b0f5b1beb39e0fc512fe37a040b224ed06d2da"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week37_20241.pdf",
+      "bytes": 1986934,
+      "sha256": "5eb5352977265a4552ec06cd7228b422cc601a9cdc7e401f65a3f49a40211902"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week38_20251.pdf",
+      "bytes": 2313258,
+      "sha256": "b827fa16231f29bd71fc04329a95e7bb524b864c2ae02ff7fc07640dd60f316b"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week40_20241.pdf",
+      "bytes": 1989830,
+      "sha256": "692afe42ca85f3752e47c775995e40257599d8c844361397e45959660692cdee"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week41_20251.pdf",
+      "bytes": 2315060,
+      "sha256": "9e2f3f18bc0fa4d8c5de9ec59aae458542e10c266594e7645b8eea6772d471c3"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week44_20251.pdf",
+      "bytes": 2297393,
+      "sha256": "0e280cd4c4c2082de6ad084a1ef884f32b15755f0d61bd94496d6ea38a482976"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week46_20241.pdf",
+      "bytes": 2241409,
+      "sha256": "f742f940199805698faae89829804cfb871184d691746a94e123accf9dcfc311"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week47_20251.pdf",
+      "bytes": 2324153,
+      "sha256": "e79854998432a0931a6a2472e9b5cfd756d9efe6d782b43168ceed5e76499416"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week49_20241.pdf",
+      "bytes": 2234045,
+      "sha256": "10dca04baf0f2b9b942777667052980f5a6f63af22add54d4b0ae1b0dc6dbcb9"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week50_20251.pdf",
+      "bytes": 2327330,
+      "sha256": "f439169c3919aa418c1b1547ea050a3ed479de44b42a6816d492a725b025c8ed"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Crude_VLCC_Week52_20241.pdf",
+      "bytes": 2248802,
+      "sha256": "4257fa43cbe901b8529cd041e08fbe829f9c36795bab992c6e42ae87e08069b9"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week02_20251.pdf",
+      "bytes": 1806799,
+      "sha256": "bbc3451b7b6cfdfbfab6a21a5b97fd52090c022bb4077997e27b74dcbf360166"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week06_20251.pdf",
+      "bytes": 1809190,
+      "sha256": "6b3a0da759e438f6a58978ceb44b6128d37caad2dc4e8d8e7786886d9bf6b760"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week07_2024.pdf",
+      "bytes": 1474253,
+      "sha256": "71459e45ae2679644e8efceba31b2270b07a17579b4e2dab1cad6cdcadf837d8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week10_20251.pdf",
+      "bytes": 1816117,
+      "sha256": "8a4b2fc4cfe10947f23315ada875093380e6a76fe461c815116a7685ca1ff7eb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week11_2024.pdf",
+      "bytes": 1525947,
+      "sha256": "d489ff908e6eea998953a299ba867a6b6321003a0918b4c70962e977cd9dad19"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week13_20251.pdf",
+      "bytes": 1809995,
+      "sha256": "3e1f2b1146fe3841888378816f283a63fe21cfd990983225ad2ebf3811ab9a8e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week15_2024.pdf",
+      "bytes": 1544242,
+      "sha256": "6a80385005c74ba6ef62fb01a60049b081ae51658550e8f11b2fedf3f744cde5"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week19_2024.pdf",
+      "bytes": 1560134,
+      "sha256": "d26cdaff7c5f3bcdae63ad5208ea5f625d81245a2fc4c7971c2f02e855a1c629"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week19_20251.pdf",
+      "bytes": 1822894,
+      "sha256": "0a38525a0a07bf86e3d40bbb8d6e1e506856310adf9d773ea154b6717aaea204"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week23_2024.pdf",
+      "bytes": 1520498,
+      "sha256": "622ee8b89865a0e7b1cd6cce4aabf84c6f39aab474257cb292a4a57c3756e958"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week23_20251.pdf",
+      "bytes": 1824707,
+      "sha256": "d3f47ae1c213c2c4f6d306b35eb3d048d0c947d167d9163d055bc1d96f6cf3c8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week27_20241.pdf",
+      "bytes": 1537845,
+      "sha256": "91798ab7d6281134b417250c02672cc3cd9aece60818cf3c93746605a544467e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week27_20251.pdf",
+      "bytes": 1848958,
+      "sha256": "2f2a8104bb743cede4424edd787ebf9919ea77d22d1f339403a2ada679ffe098"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week31_20241.pdf",
+      "bytes": 1556766,
+      "sha256": "040ce944bc518bd1991d1782fd6068f64a33250df50ab27b7ceafbd841c135fa"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week31_20251.pdf",
+      "bytes": 1873643,
+      "sha256": "d42b1e45b709c1e17e7a4220bc8467e647a7511f4836820ece9958c458bf9d46"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week35_20241.pdf",
+      "bytes": 1563195,
+      "sha256": "da0305e011e65465dfddd36445a08d01ac0b09ab8915fc66d68460cd2dac0cd7"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week37_20251.pdf",
+      "bytes": 1897158,
+      "sha256": "989b87ffcdc6236344e997da0315bc11a2cf77e4078e1ae97c230888893e2598"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week39_20241.pdf",
+      "bytes": 1580477,
+      "sha256": "7f9f76c381da51e38131e02b97fb1f1f854819d1b081e695bbe9c7ae68dc6466"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week41_20251.pdf",
+      "bytes": 1904743,
+      "sha256": "5934e07ff600eb6fea5b3ad7f17f9be2788263b48c4ac69aabca2c609256ab02"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week45_20251.pdf",
+      "bytes": 1918841,
+      "sha256": "0e25534969e3d122cb0e1079d234c9c006e9a3a318d26324c5da69a165e704ca"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week47_20241.pdf",
+      "bytes": 1848649,
+      "sha256": "e794ec13658fe734a5c7e24d326358dd091be5585c415df0dbcd2d208dd87833"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week49_20251.pdf",
+      "bytes": 1919106,
+      "sha256": "f64481bba59ea5e967f2579fc03d75e2a49fba1ed3b17279f1120bc62aa26ae8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Capesize_Week51_20241.pdf",
+      "bytes": 1848526,
+      "sha256": "5b3d829c77245b4cf17a310931fa35c288e9bc095317b933fb1be1d1f1bb3004"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week01_20251.pdf",
+      "bytes": 1783376,
+      "sha256": "18877ac7d6792f6025af7a701bf51434cef3969c9ca8a6097c2103b41eafeb3f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week02_2024.pdf",
+      "bytes": 1685477,
+      "sha256": "e6bf735ce59660945b96b324f5d41c8f86c9594ed352356704e9d8da0b845812"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week05_20251.pdf",
+      "bytes": 1778336,
+      "sha256": "8d3381186808801ac1698ab1b2186e44daf15b9f07696dfaeba965984bdd725e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week06_2024.pdf",
+      "bytes": 1466768,
+      "sha256": "aef2cbb22adccec31f4a65b17b41744f245ba330eb6ef61c4eb61196138e2c16"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week09_20251.pdf",
+      "bytes": 1818641,
+      "sha256": "d0cd4bd6582c58ba67c0cdca5561be8a1dbce0a734a789fea25012652b3b3615"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week10_2024.pdf",
+      "bytes": 1501427,
+      "sha256": "fe5c231f55e8dfa0106b515994b632ad53a01a01e031d99e94e537f03472dc5a"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week14_2024.pdf",
+      "bytes": 1510427,
+      "sha256": "624d0bde44965f3ee72b383df14d505448971123786e3422d522d81c2a6e0de2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week14_20251.pdf",
+      "bytes": 1815606,
+      "sha256": "d045b5862386e1fb32f744f449afa1f620b745f5b755c951dbd3511c3099a621"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week17_20251.pdf",
+      "bytes": 1808179,
+      "sha256": "1a8c7be5f41365df0be8088a99415bf55b1cfa9777d6d2dbfd42b6abbea40c75"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week18_2024.pdf",
+      "bytes": 1524705,
+      "sha256": "2487193482ded14ff4743ccbac6bd3d2269745f6ab18f4c77bd4fc0c32e3f62c"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week22_2024.pdf",
+      "bytes": 1480619,
+      "sha256": "dd3043a830d8acb0f7d7b61a89cc9ded6268b778a44295efa1c20c95a7ce572c"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week25_20251.pdf",
+      "bytes": 1831901,
+      "sha256": "044a02a18be02988262bac64002440fe7cd9b65ab31106776bde6857b7bfdc85"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week26_20241.pdf",
+      "bytes": 1492006,
+      "sha256": "4f33cc3e323a8a051c2bde468a8d92585405c9949ffe3576f6d69a5f117e293f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week30_20241.pdf",
+      "bytes": 1503937,
+      "sha256": "059ec6fa2d554e64797a9c9094207911e35c5c3456a867ed0947fd5ab6574a8a"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week34_20241.pdf",
+      "bytes": 1513762,
+      "sha256": "4d3e18034e769d3cea794ee29e4f57e179002a78369dafb27787927704ba6573"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week36_20251.pdf",
+      "bytes": 1854942,
+      "sha256": "782bc4c2fe93a4f657d6b9d8c65deb3ccb6894dfc5acf082b8e76c90c453639d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week38_20241.pdf",
+      "bytes": 1529596,
+      "sha256": "33525f0f392790879921896cf37258291c2c1a18fab719702d48edb79aa37f01"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week40_20251.pdf",
+      "bytes": 1843899,
+      "sha256": "ba4e3e5d37cc995dcdb50cf7525fe14596f2bc8d4c7088da3906ff46b6362ca4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week42_20241.pdf",
+      "bytes": 1535515,
+      "sha256": "f4432b8cf464adf4f6b53ed22203db32d977deb1925b0bcaa628fc423a7e00e4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week44_20251.pdf",
+      "bytes": 1866439,
+      "sha256": "e744fa7e9c6e528f2217e85f908d4b43f8889430248b30efdfaf8a93aa93b01a"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week46_20241.pdf",
+      "bytes": 1795004,
+      "sha256": "5711b4a755b380903860a6931f2e7d5c782db6a74e5c82d7cebcb8e01f769c82"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Handysize_Week50_20241.pdf",
+      "bytes": 1803739,
+      "sha256": "3a15f7034d3bd76bde99f8364f8833170a7e608fcc6d06424c000fa7db9c87c0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week03_20251.pdf",
+      "bytes": 1758647,
+      "sha256": "dc446b10fbd6ecdfa734ff39a3c8e70022a171742c5de007c773f88b4cbe461d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week07_20251.pdf",
+      "bytes": 1792762,
+      "sha256": "d9b1f099a98cf85d8d894238e867bbf27cf3e1dd70db887ac66e9df9c1629a49"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week11_20251.pdf",
+      "bytes": 1804502,
+      "sha256": "2a891c3449fd6cd8540d21d89372519d90474af1bd1329e992f3968dbe6532ce"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week15_20251.pdf",
+      "bytes": 1810025,
+      "sha256": "c826b6d7f8208681572b8981d8174664d19ce6eea166f40c9115c103d61f4b27"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week16_2024.pdf",
+      "bytes": 1548100,
+      "sha256": "f5ed0b1a12fa4bb8e9718aace164ed0f780858ef2ad8bea62ca8047372de1186"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week18_20251.pdf",
+      "bytes": 1826616,
+      "sha256": "c5807c575978ddc5d47e43ebb18f0bd4f6c5c52524cedeb31a103eb45e60afba"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week20_2024.pdf",
+      "bytes": 1570049,
+      "sha256": "098c687a1ed7cef76212f8f007cd9d6f1d743084a5c5cdbeb85f04f41c0f5a83"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week22_20251.pdf",
+      "bytes": 1822231,
+      "sha256": "c7a2cdabae5e9c7716a249e3ec860ea9f64345774113570ccdc0cae4611adf7b"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week24_2024.pdf",
+      "bytes": 1528691,
+      "sha256": "659ad6f0658e2c8a47c63e736e1fc639b54ef3842167ddd09b3ee355b9a96ef8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week26_20251.pdf",
+      "bytes": 1845047,
+      "sha256": "74424c2b0b0d4e74bdc4f27b8571e70204526321f4916e7fcf759ca77619d06e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week28_20241.pdf",
+      "bytes": 1549719,
+      "sha256": "125e32db13bb815f96ca18ec6457b6a42fe9d9529e4e483e1360af0cfff0d0a1"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week32_20241.pdf",
+      "bytes": 1561262,
+      "sha256": "b24db5fee6e3aebb92ef4d2e826653c89f50b6808f61dd104ffc045a67640a81"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week32_20251.pdf",
+      "bytes": 1832950,
+      "sha256": "c0b4dcfe550c0e230d549487ff3ed69d20786e05722a709d35b95eaf0e95c2ca"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week39_20251.pdf",
+      "bytes": 1880182,
+      "sha256": "5a1f46cb0154a856c7fa2eff5487c186705ec8e426a37a56523cc3a2ab94786c"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week40_20241.pdf",
+      "bytes": 1583559,
+      "sha256": "eac921da5157a4c3fbfe9596b2d3a800d6230c9cec7e1fbcaaa7d341eeef677f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week43_20251.pdf",
+      "bytes": 1870327,
+      "sha256": "12e767765aa31bc41d7b918bf9916de9c32314eb16f35bbea56df1e8615ffdb3"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week44_20241.pdf",
+      "bytes": 1841379,
+      "sha256": "8afb9a28db32092488d333b0a1d7e768c07bdc2a77ef98ff01ebd9114c769bff"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week47_20251.pdf",
+      "bytes": 1886808,
+      "sha256": "bf493d1826e94e31e720ac2a1ac62f0c50d243ead23fb2e72f29c2e3e9500dc3"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Panamax_Week48_20241.pdf",
+      "bytes": 1867433,
+      "sha256": "60cc59543f1b50f00c5666673d433badeae86f4ad8009f8dd9482ca53025668c"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week04_20251.pdf",
+      "bytes": 1786434,
+      "sha256": "5f3bc08893222273a2f76e700bb0707e855162abd76c00cd15b12b677d1789b7"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week05_2024.pdf",
+      "bytes": 1465425,
+      "sha256": "4a24cf60ccaac49711f66e5844f5a86dff873ce78eb390273c44d2a5ecf7cf71"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week08_20251.pdf",
+      "bytes": 1804933,
+      "sha256": "97ec1a1ac2ec3a4d869142d9d8258021bbfbea4eec4f233533661228a66be41a"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week12_20251.pdf",
+      "bytes": 1806976,
+      "sha256": "a418114322d8da630ffbe0ef81771845283489e53b449b16c6322354f4f10415"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week13_2024.pdf",
+      "bytes": 1509143,
+      "sha256": "4f6c4fb1c19ec611c535b0937d2f442627650c5e75e6be29363a44bea3c42721"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week16_20251.pdf",
+      "bytes": 1804257,
+      "sha256": "71519b9a31e3913374b6906217a4e0e8b27949560aae93a16e43400fea0904d2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week17_2024.pdf",
+      "bytes": 1527824,
+      "sha256": "91828c7bcb84024e76cef792fe3af529354269e921019bd72f1cda668d194b34"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week20_20251.pdf",
+      "bytes": 1807156,
+      "sha256": "ea59f742da0a5db8cd59aba88a1e6705e3f4f82c66ba2ebdb97757e3cec8c01e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week21_2024.pdf",
+      "bytes": 1486198,
+      "sha256": "665079050149dace8117e92a6454ed4fc9d4fb116d8a079170b4e41c2ca7ac89"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week24_20251.pdf",
+      "bytes": 1830724,
+      "sha256": "8abac2048deb50775318d4944c7a8f5a6f20e972a67fbb9694a322e96e256b36"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week25_2024.pdf",
+      "bytes": 1502628,
+      "sha256": "6425357c9c5cf2fcbe0dc2a9a403efc8a5b51591d722e8dac6b29a65e11ee8de"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week33_20241.pdf",
+      "bytes": 1523157,
+      "sha256": "26369adc50e187c223d11a81bbc361f0e967bc5d6ed70e8554e5d972f8f2310f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week34_20251.pdf",
+      "bytes": 1858577,
+      "sha256": "0696075faa5d865f246118ca00b0067f1d88a998c3751403e24656c3860535c7"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week37_20241.pdf",
+      "bytes": 1532404,
+      "sha256": "2761619ffdae83aa0fcf39e36e7d776a559453c5b4ab8447212481d5d4edcfbf"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week38_20251.pdf",
+      "bytes": 1851826,
+      "sha256": "03c43be43ea19dc4f2abe6dce42547265e7c8ffea01c7c2097b3391906c395ef"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week41_20241.pdf",
+      "bytes": 1535801,
+      "sha256": "1790ebbc38995d82ec1a6f539ad6dd89c62bf323bb62958380896ee3358e58e4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week45_20241.pdf",
+      "bytes": 1791819,
+      "sha256": "5248ee492abb82d44ca6923546f1491e2d48a47ca31b50ce405958cb2f2303f6"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week46_20251.pdf",
+      "bytes": 1875892,
+      "sha256": "4b6390b265e9f0eae73837bdc14cb56551019ffdf2e43bf80d26041867bee742"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week49_20241.pdf",
+      "bytes": 1699180,
+      "sha256": "4421cd1d40beb9b970bf1164bdff79eeb5b709baf59bf049d5bc47c184460857"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Drybulk_Supramax_Week50_20251.pdf",
+      "bytes": 1884941,
+      "sha256": "e15a2d36d2f60bc88bdd9493efc90c8768a1cb0427c7a947cb164d3f52812e4e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week01_20251.pdf",
+      "bytes": 1493355,
+      "sha256": "c304c16ed9340a81b0a566837d83a039fc17515f910607c5b147822154249f21"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week04_2024.pdf",
+      "bytes": 1315318,
+      "sha256": "d783082e03520cec511ce6b8218ac351fbc937e5a694375eb96f3ce9470ea048"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week04_20251.pdf",
+      "bytes": 1544100,
+      "sha256": "65fe6e00463f7a5625810834a2b3a3888ff83037d3398220859a96697b29d99f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week07_20251.pdf",
+      "bytes": 1538149,
+      "sha256": "e1f00d3babe28babbb140d932213e95ba93bb6f9d06bba3c7a108cfb1c05f48f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week08_2024.pdf",
+      "bytes": 1326923,
+      "sha256": "9580a27b53c11434d1689657261c5a1f7cf3d029f0d0a3d67703b7d6ced13b18"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week10_20251.pdf",
+      "bytes": 1545350,
+      "sha256": "78497247810047089e604c34c586e805d763e91f6e21c09081d144d5d73f19c3"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week12_2024.pdf",
+      "bytes": 1350621,
+      "sha256": "edc4c1a88d70a01c61ac3e29e31a33465e3d4d2a624023f7a6595d40f4fe1a61"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week13_20251.pdf",
+      "bytes": 1569574,
+      "sha256": "ad34c6f56b6869d478f3458e4937d9ead75763e917763926e8799ddea4b3e497"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week16_2024.pdf",
+      "bytes": 1359768,
+      "sha256": "b0e53d6e920833bd1c042fb0505124e5ea4e8140585951e46c50d0ab9dbeff98"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week16_20251.pdf",
+      "bytes": 1559346,
+      "sha256": "f9dcce0c92260bf01b7a8035ff1536466935a742c46983216b464339d30a36f4"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week19_20251.pdf",
+      "bytes": 1564636,
+      "sha256": "fef78cbab6b1ceac3399b6aae60da4c268a7e5ffb053afc2fbf2d719fafa8c31"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week20_2024.pdf",
+      "bytes": 1370818,
+      "sha256": "fa4c80817246cf9b240ed01358d2f1e3e72ae45cdc4c003c19323f6fe1c4a368"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week22_20251.pdf",
+      "bytes": 1578872,
+      "sha256": "27b2510cce85ac85cf91e316f0ec09177b42016fb419face103be09016c561b1"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week24_2024.pdf",
+      "bytes": 1321924,
+      "sha256": "f48c2d9aaa3ef157ef40614dbe616c738a53cb0d27a522900816ab4ae2bdaf6e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week25_20251.pdf",
+      "bytes": 1562689,
+      "sha256": "ed23185c6512f0cc6f28dffc40c90f39c698dc4ceac47edb6d8316aa1ae8cf16"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week28_20241.pdf",
+      "bytes": 1335387,
+      "sha256": "424db191b0b66d3c1c23ed757be17ec5fe6ed3dc4db6682f9bf2c6d70ac0a702"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week32_20241.pdf",
+      "bytes": 949660,
+      "sha256": "6557c09acc4df8372b17e202d10c5b8dfecf4bb9f8291d03592c5e5b13dd17fe"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week35_20241.pdf",
+      "bytes": 1350871,
+      "sha256": "28b55c1f62840e5616cc6d3a16ad14a723e523e66f4d479e2f7af080f4bb02cf"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week36_20251.pdf",
+      "bytes": 1612095,
+      "sha256": "66a19e048604b55a7d07d5ad4e63bcb25a44bd3ddfc57d1eae3a30434e61d373"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week38_20241.pdf",
+      "bytes": 970697,
+      "sha256": "4c57b5e5e65e473feda95406e516f89abe4114c7c31b0ff266bf928f708e9d8f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week39_20251.pdf",
+      "bytes": 1610191,
+      "sha256": "1918148d92f15e584b5b2bd9c8749870bcb479c88b3bb6339f97382df9d76cad"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week41_20241.pdf",
+      "bytes": 1368506,
+      "sha256": "551a2a7c14adc91fbb49e86b3825b5381634c266b10c04b4e36b8837a28677e9"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week43_20251.pdf",
+      "bytes": 1631634,
+      "sha256": "be05c1bf559c9c9cc254c713a3216c3de80e2355bfdd962d85b52500e6407e38"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week44_20241.pdf",
+      "bytes": 990566,
+      "sha256": "04384a4d8740e25c1ca7beaa58048725455eb9cc3174c70a819f09cbbc649181"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week45_20251.pdf",
+      "bytes": 1630865,
+      "sha256": "1db86d69f3c6e9ebb69c501448c109aaa46377772378ba192e5bf1f75f86d7d0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week47_20241.pdf",
+      "bytes": 1594079,
+      "sha256": "930217509e6e0d251ede62f4761293a070557c5f891e24c054cc6aa82986de2e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_LPG_FR_Week50_20241.pdf",
+      "bytes": 1000924,
+      "sha256": "c076ecce27fcc424e1fe97cb25a37f48816aeb871d0eb62e26cbb1d6b6a50acb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week02_2024.pdf",
+      "bytes": 2201136,
+      "sha256": "a9ed7c478b2235c0c270ac243cf83b7fa08656a41782921962e99a9a28b96f90"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week02_20251.pdf",
+      "bytes": 2252607,
+      "sha256": "f7e3ffd101732c5567a4a46fffe7ff7980d00322667e3a7fe653cb876fe21d77"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week05_2024.pdf",
+      "bytes": 1985487,
+      "sha256": "342b313655a4649275f51318c41fe5ea2f030f9676ec946a4608a3d745e5e8ae"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week05_20251.pdf",
+      "bytes": 2306544,
+      "sha256": "4238628ae54367f095fe04b777dbcc0366f96460bf3c7b8fe209452cb29564d6"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week08_2024.pdf",
+      "bytes": 2022524,
+      "sha256": "29a2f3cbd9385799684cb9f81fdf25948f85f4de3013fc806e6fd78842f45f42"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week08_20251.pdf",
+      "bytes": 2317542,
+      "sha256": "480642437f67c3af4b225e7a7856f8472ae0fd920f7a55d88bf4c40f4841c378"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week11_20251.pdf",
+      "bytes": 2334060,
+      "sha256": "998979ef97edf4452da9edb9b773c5d43779f5a9f46e754ced8f19816b8f2741"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week12_2024.pdf",
+      "bytes": 2053299,
+      "sha256": "3e6da57740413af8d50475f5850072aa4ce5cb72f78d03c32520963ad0e111be"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week14_20251.pdf",
+      "bytes": 2308713,
+      "sha256": "06b946619f0b1553ab9b9f0c2bfc6cd776188079c4d59447f4afb654c5c094a0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week16_2024.pdf",
+      "bytes": 2081549,
+      "sha256": "6b221bff944b3d06739ef9d40d0f10b368407760d8290022ee60a7d69bbacc9f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week17_20251.pdf",
+      "bytes": 2343052,
+      "sha256": "776204c817b3e1cb31c7dc7a1b8718132d56101451ba94980387bf10198e8760"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week20_2024.pdf",
+      "bytes": 2094006,
+      "sha256": "9a2942eba01fbd54176d256e9db3079edf4ed900583b97b3a95ce6b1d7711796"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week20_20251.pdf",
+      "bytes": 2347127,
+      "sha256": "0e06f2cb359511192a0b34c41f72c7c23cd725c8189655425d711dc3b8658714"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week23_20251.pdf",
+      "bytes": 2368942,
+      "sha256": "f70d5fc6c39e2ef9164ca891d72b3a2c8950faa3046c819f4f703a7188a911c2"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week24_2024.pdf",
+      "bytes": 1519994,
+      "sha256": "69ec339170f7618bc75c8d7e62c9194baf92f3368e814a310babf248d1744023"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week26_20251.pdf",
+      "bytes": 2383162,
+      "sha256": "d6c787c8b51cf8aa490ff98b0595df5e6edec9795625e2fb10129459b94845f1"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week27_20241.pdf",
+      "bytes": 1527821,
+      "sha256": "ab2770f9cedbcabda2bc1f3f2e63199fdffaa34cf599e7dfa5d01dac5a9b72d8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week30_20241.pdf",
+      "bytes": 2070560,
+      "sha256": "bcbefb65b54e52b0d7e857a97ce50263f42c991ec59fbbf5468ab734a441b666"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week33_20241.pdf",
+      "bytes": 2060150,
+      "sha256": "74e9fd58ba57c62bd2b60cc46ecd3f6b45b61ebbc6817dcd49cdf73d14de8638"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week35_20251.pdf",
+      "bytes": 2414527,
+      "sha256": "c5bebb4ab63597e323aa20da3dc62a809c6e2ae38f4c76fda2df77db20966359"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week38_20251.pdf",
+      "bytes": 1876047,
+      "sha256": "ad361efebc3e045f67a085d3d0e5ffd68690829e7ad7a7098570bd51e583002d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week39_20241.pdf",
+      "bytes": 2079619,
+      "sha256": "22dd955f90822d217071b60380564e59620d666a7c98f381151a70969bfbcf96"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week41_20251.pdf",
+      "bytes": 1900649,
+      "sha256": "b51ebabb67ba1e093b59d028ab73b9312fc55bb5431e34accb3e1045745a1a7e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week42_20241.pdf",
+      "bytes": 2083295,
+      "sha256": "9bc6dabe90a86b59a20ff647a26aeea4864b1641ab12f029557ba2b416b9630c"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week44_20251.pdf",
+      "bytes": 1905944,
+      "sha256": "94eaef2a50ab2a31f47891eae70ba0741a91dd139d3fbcd39e663dec55497e66"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week45_20241.pdf",
+      "bytes": 2334198,
+      "sha256": "76fae02067334ff55760df6f902f13eaf1b6354d2c7d1dc0fdc4905b2570622c"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week47_20251.pdf",
+      "bytes": 1925614,
+      "sha256": "c20cb919b630ecff7f412e54c6265869016b427e52f5711730b8405dd0f12d1f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week48_20241.pdf",
+      "bytes": 2329301,
+      "sha256": "a6a9c6dfab2b3f3e6bbe2d14732b55f274ae1e753c71c84f6cb1bda119a4e542"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week50_20251.pdf",
+      "bytes": 1926837,
+      "sha256": "bb21dfc435a17406209fb36b2b6b0c4d33b6709c4affe3053284126c169e83b1"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR1_Week51_20241.pdf",
+      "bytes": 2343071,
+      "sha256": "2b9cc7a45cfebb251e0d79728474e16aa709219b14b2599c445d474099f1e14e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week03_20251.pdf",
+      "bytes": 2262641,
+      "sha256": "8c715b1b1fd91591cf86d0104bdf868e5c5683d220ef0d1061feca7a82285acf"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week04_2024.pdf",
+      "bytes": 2002685,
+      "sha256": "456aa96bc2da7dc1fdb2c8da95dc46c08fb803050eebfe6122ee15fa0c1f5c67"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week09_20251.pdf",
+      "bytes": 2313658,
+      "sha256": "76a3fea712b0abecc99f4ba6dff77fe61170e4c336fba5c8591f3fd28a4e0a6e"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week12_20251.pdf",
+      "bytes": 2342280,
+      "sha256": "03c9cc2cfb8a9e1cf49d4ca9041bd58127b36058947a8c42f97097adce691531"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week13_2024.pdf",
+      "bytes": 2062750,
+      "sha256": "174586ad13380fe782328499db701abb6a1af3e502952ee95ee17d00700eab82"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week15_20251.pdf",
+      "bytes": 2359147,
+      "sha256": "65071213471d5986b5a47ce3d68f1b1e7e99e00e8df818702e54aac97fee59bc"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week17_2024.pdf",
+      "bytes": 2088044,
+      "sha256": "f9cc706912874ef374419122283c137abb515d003592bcd4a7b30704ac8ca306"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week18_20251.pdf",
+      "bytes": 2367134,
+      "sha256": "f2681083b232bf80232a79534d5a3b3ad5c1f1dfb43c75615063586db5035257"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week21_2024.pdf",
+      "bytes": 2051131,
+      "sha256": "c294f16e6489893d4f88c72827e519074f2a17c1ce70bae910c73b5b533cd421"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week24_20251.pdf",
+      "bytes": 2390253,
+      "sha256": "e6f766b0c36538057aa14885d97e7ba82463e76ce2aae9d2f0d7fa32fb04e9fd"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week25_2024.pdf",
+      "bytes": 1527351,
+      "sha256": "3a53656a2034d5555bc6d54a95d74d2fd335288d92b39158b6303fd4d59ca55d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week27_20251.pdf",
+      "bytes": 2384632,
+      "sha256": "0769ea0c0f84173bc5075063614c7390bb11316edcda07fbde9d6bd27eda2aa0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week28_20241.pdf",
+      "bytes": 1536580,
+      "sha256": "da545464c7613e70cb5c44cb6966afdd001408f9372ebc537a3511168f835d81"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week31_20241.pdf",
+      "bytes": 2081370,
+      "sha256": "28a289ee08a3db0ac2822a387354891899d61c2984e1664ab4cdb1e1e0e2ae45"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week31_20251.pdf",
+      "bytes": 2414965,
+      "sha256": "b5a6d14993c2ee843b1e3e88b0ac561540c0615faa1a7d9f098279d41ef1e967"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week34_20241.pdf",
+      "bytes": 2077556,
+      "sha256": "a50322235b6b7bccd7ffc172e387540fd9bfbed0ea990cf77ab48bbd79a1b5ca"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week34_20251.pdf",
+      "bytes": 2438291,
+      "sha256": "4d29a0a4728f669f91e1d7ee6eba2c4efe3ac1a647fb8ee2d713fbc8c8665197"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week37_20241.pdf",
+      "bytes": 2088153,
+      "sha256": "a3cdf27bc20e478b1822adc8efa3ebcba604a7b7ce9b80324e4ed979b03488f5"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week37_20251.pdf",
+      "bytes": 2432202,
+      "sha256": "64330a6fe50b738ab69f12f6af9dedae59af6328357c819153d477ef251cd66f"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week40_20241.pdf",
+      "bytes": 2091713,
+      "sha256": "af30ff3d398c8e16f332ff8acbeafe8906a65970c738496fd6a69cf3f2fcc596"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week40_20251.pdf",
+      "bytes": 1903773,
+      "sha256": "0836d269ff990992dd2e12b4044b143980e45111e475feb865637db86677a7eb"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week46_20241.pdf",
+      "bytes": 2344570,
+      "sha256": "908907341360e525755d818e08b5ff2780f5cfcbe8b12516180e29d6beab338d"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week46_20251.pdf",
+      "bytes": 1943086,
+      "sha256": "06ed0e861a34b10027fe2b8167631186da099102d0f3243cdab5b5fcd2586fe3"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week49_20241.pdf",
+      "bytes": 2330116,
+      "sha256": "9a4b7275e9c65d3efa3b09cc38deb4a96a0d0114a6bb4014ce8a0d72337f43d0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week49_20251.pdf",
+      "bytes": 1957012,
+      "sha256": "a891c1be1a635ca8e20ade3c2e5c1f996880d1dd835240e522c4dc51351963bd"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_PDF_Product_LR2_Week52_20241.pdf",
+      "bytes": 2349760,
+      "sha256": "a8a1b61a8082c2be22afc010c7effe1bd3863ddfe593b76f69bd806e18379556"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week25_2026.pdf",
+      "bytes": 1612101,
+      "sha256": "1a827530e2dd74acde22fb0f3808edcff296503824fe1f232e5923f80f11b184"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week28_2026.pdf",
+      "bytes": 1664385,
+      "sha256": "d713732384a3961b9a5f934520f441ec1d78d6d7ccee846fd37e8963b4fe41b7"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR1_Week31_2026.pdf",
+      "bytes": 1683373,
+      "sha256": "2a1ab01f805f5ee672a4eabfd79ba1954d0d73bda0b820b55a3f1a58836a61a0"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week27_2026.pdf",
+      "bytes": 1658825,
+      "sha256": "5fe469aefc731c81dba4b0bcba47bfe7bd3d9f107bb7ec86b3351535221a54b8"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week30_2026.pdf",
+      "bytes": 1681023,
+      "sha256": "dd0ed1cff4df357f89ab4029346baada290f595df9ca203efb16c1c513fcfe82"
+    },
+    {
+      "path": "corpus/06-drewry/ais/Drewry_AIS_Product_LR2_Week33_2026.pdf",
+      "bytes": 1693511,
+      "sha256": "2219aeeab40058c4cb24a7e0622a43e486860f684675fc77e1ad3ec6713a35c4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/013f1c2d59a9.pdf",
+      "bytes": 65476,
+      "sha256": "5a870c71d82a575463b256c865f56a84e087e11ffe019989c82be358d6e3803e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/04165ea5a952.pdf",
+      "bytes": 80514,
+      "sha256": "efe6f4136fedc5f7ae8ef84ecfd62df160762c1c66f5d43d24436b65b9c08ba1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/04328911e45c.pdf",
+      "bytes": 25086,
+      "sha256": "1782d40829cd9c6f5dc4174107a6b4364e112e8bf899633b8cfa6863edd10776"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/048301fff3f1.pdf",
+      "bytes": 58920,
+      "sha256": "70123c2590cd7ca2e2020063c4e888bc8e5979cf87a3703bccf56f2e00d8160c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/04a884f9f937.pdf",
+      "bytes": 56692,
+      "sha256": "1424ebd72ac276fb0d02a9cdfaf5c71f5e0e4a77d9d46658fa4aaf6b4fedb7f4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/04b71811f57e.pdf",
+      "bytes": 87575,
+      "sha256": "1990adf32a8274f2e80b1a7a00259d1e84d0fd8eedef0251a2fd6d444d5cc832"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/04cbea019d87.pdf",
+      "bytes": 80362,
+      "sha256": "bbd9810d03c01da41208c51517729d4b808c844197594f9acc551220c6b7043e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/05bf23462253.pdf",
+      "bytes": 11822,
+      "sha256": "7722b2f6fd853d4f2fd9f500ebb09c345c742f98a2bdc25694dd02028215ab89"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/05c05b4d41d4.pdf",
+      "bytes": 80294,
+      "sha256": "c777efe1ffbfa968a49470e9d122eff954498ce80f54ba4922eee9b14fef17dd"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/061f8d9e32da.pdf",
+      "bytes": 59006,
+      "sha256": "76e26579019576fa1fce0ce52bf3cb9911f2b201fde87abe8c73e274accce205"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/0733b039fc44.pdf",
+      "bytes": 58546,
+      "sha256": "d4322a91894650d8f108ddef94aad9a22ec54aa1d76f2f1d98345a325347155b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/08b259b1457c.pdf",
+      "bytes": 59750,
+      "sha256": "911c8d66e1aed349890f60b4c2c75d85229cd8ab3332fe2b112f0dc314cb530d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/0a4862667514.pdf",
+      "bytes": 39881,
+      "sha256": "8a2c1c93ae9aa8ebc9e7ab3fdb83abdc270fb7da720e28045b5de14a0d0e3ab2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/0b90c822e286.pdf",
+      "bytes": 58136,
+      "sha256": "05212a51de13809d6f304419cc4ba110062f7cf9a5d0458098ce9271244d35b5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/0c2a9d75b980.pdf",
+      "bytes": 106074,
+      "sha256": "935c66499e18f0dfd1cbda562bfac0fd3552ab7c6bc0c62ba98bc05a9163391a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/0c894caa25bb.pdf",
+      "bytes": 41120,
+      "sha256": "f6277b6024ac25759b958193b442b812aea216fcf43a6f6232d2ba0f3d701cd7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/0d4cb42cd5e7.pdf",
+      "bytes": 184746,
+      "sha256": "de01daffab167a76b8b4b946c8619892057bc80fdaaf618c28eb809ed3b6fdac"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/0d75b69294c9.pdf",
+      "bytes": 182436,
+      "sha256": "9f536b237667e24ffcc3f07cea94a7882cd5e38c1f1bfb3ed29fca1194b56a9c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/105f36831516.pdf",
+      "bytes": 58915,
+      "sha256": "34d59a6dad358f3294126fb42339a29bba96ba6671c1e83801ddc91aa2a3a4a2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/107acf491fb0.pdf",
+      "bytes": 56376,
+      "sha256": "181c53d4e453268cea438915d9df7972ef0be00bcc43d507c55fcb43069aaf11"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/11fabfdb62f4.pdf",
+      "bytes": 57225,
+      "sha256": "cb907d6633a572d26fd0ea531555a43e1e6854d17299c8d1640cf3d6ee2551d5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/124b74563675.pdf",
+      "bytes": 93928,
+      "sha256": "cab4c38bd56b5f6405ba66be0da512dbc8d04af8a0896c5db85757d2857d8c69"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/12fcb942f50f.pdf",
+      "bytes": 87829,
+      "sha256": "528d5c4e39918bdfed1900dd82c63943eb50e8cb792857ed91cb3c763cf64db4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/13506d189ae1.pdf",
+      "bytes": 58281,
+      "sha256": "f8c8fa5d5185fdb642e838d0a6787809eee0e4e9ccfbc24e7d7ba1db744ea771"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/13aae9204b31.pdf",
+      "bytes": 59950,
+      "sha256": "e8c9c9ba3687a863c2be3047cbd899bebb125ebfef7cc1821dcaef596a08fdc0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/13dc1fb386b3.pdf",
+      "bytes": 182752,
+      "sha256": "af7f08e940f4bd0f54202e4e632b1e06d013ec6c3ad9530115facdcbcc58d069"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/150dc8123081.pdf",
+      "bytes": 97172,
+      "sha256": "b41c04210e121575ab0f2aab82d3510dbc0a744b33952aeeb41e16778cdc65a2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/15ba869a360f.pdf",
+      "bytes": 59454,
+      "sha256": "3b07e5910dd5f96aa38d6a59391f6dea17904068844bc531a84d7d3752915c35"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/163bb55ab607.pdf",
+      "bytes": 91887,
+      "sha256": "5026015ba90692ef123750522772b13127579cb5f683cda7d00bdda0d8d9069b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/167d57ae35c2.pdf",
+      "bytes": 57707,
+      "sha256": "833868aee52e033cc7d4b514d2eb5d89a0ad5a37b01b34163f3e6ffabde6d891"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/16b37051c8d9.pdf",
+      "bytes": 60221,
+      "sha256": "fab4d11ffaddd14b7c24b7e71f39ed3bf2d5103a5cdcf77f65843aef7fa06a9a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/17a780add9aa.pdf",
+      "bytes": 132507,
+      "sha256": "f426ade87a766b321e00f19ce53d72de1a5741d544cce37d7a996da91f724cc4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/180ed12b3f67.pdf",
+      "bytes": 96504,
+      "sha256": "e8eb2308dd1c2235ce1fe12ad75f443d54e560349bb07fa69da556a494765340"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1839ac3d1426.pdf",
+      "bytes": 75737,
+      "sha256": "2235d49a7ddb299e85821501b0efaf9500315c0ce9b69e17c9e5a463f2d4a909"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1973989034e5.pdf",
+      "bytes": 58420,
+      "sha256": "240be8bb992031033ec852bc432648efebadfc0030bdf89d7b2f1539668011a5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1a694104d5e4.pdf",
+      "bytes": 39101,
+      "sha256": "981fc9921ab8a0c2556d57fd7b58c6875188bf40eedc767be66e63f6d9c72cc2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1e2e1ae97c80.pdf",
+      "bytes": 100509,
+      "sha256": "bc918bf6e2386d1b666cc4bf7afc7b37a759f5bf5d2e7cb5ae8eec4fef7d2e7e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1e5b3cabca81.pdf",
+      "bytes": 59799,
+      "sha256": "1f40c036d9f4e2b11a4ef31cba15f7c7cba8c2da322ac3789f44641832e5438a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1ec051df91d3.pdf",
+      "bytes": 39698,
+      "sha256": "1f73118c0bf04c24c03698082d8512fbb081c30a024aaf17b064a605fc3bb306"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1f059065e172.pdf",
+      "bytes": 104036,
+      "sha256": "913109e0afa364bf835091629ed7a0d6416b77f218351dd004d1ee2944bdbd3d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1f551bd3dfb4.pdf",
+      "bytes": 39288,
+      "sha256": "64577e4261e3d875dcf17cbc705d68abd1f029632ff98765d40a8c890e666a4d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/1f668a96fb10.pdf",
+      "bytes": 97113,
+      "sha256": "24759107c8413079bce5486fc88b43feeb98effa14608f87fa3f1225631764ec"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2063585a5556.pdf",
+      "bytes": 57970,
+      "sha256": "12e3192f68ba9d07d4c69f9f7b9897402a08a6587191b7d204b90566b6767b40"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/20a4941a2332.pdf",
+      "bytes": 78935,
+      "sha256": "60c3cddd77762498f2556f23d4de0bf6f70652fc6acbef1411e9d55914a2f799"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/20db41f643a5.pdf",
+      "bytes": 94889,
+      "sha256": "356cc20c4a959cb81b79c5492e42fd9142c085a4e188dff7f4fbe4570c21b469"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/212e7a946c2b.pdf",
+      "bytes": 58362,
+      "sha256": "aaa6c2749e9d5e2bffee3f3f9c10649cf1ae565c6b2c88ed71870b5cf6869524"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/233e3c4af82d.pdf",
+      "bytes": 77092,
+      "sha256": "cb46a1ef79b513376a3a836f6cd189b8ca2628aec4fe87967080e24e03ca6b59"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2426545b6b87.pdf",
+      "bytes": 58433,
+      "sha256": "606664242ac3b95439ddc137bc68e915c991d01fca6919b19d8ec12fb8cc9730"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/242cd2ff9d36.pdf",
+      "bytes": 91427,
+      "sha256": "b82be4f348feba4aac64b3799e0a817d0599e973901f4d780db614e298cd9810"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/245982c2b02d.pdf",
+      "bytes": 59107,
+      "sha256": "9317322f0f6ddba97708ad0615451fe28f4b767afaa1b286bfd6c3430bcc7920"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/247542e40f8e.pdf",
+      "bytes": 232128,
+      "sha256": "0e991051fd0c3b452591eddda7b6b53b4f0f56839e78921c3f249d218f914b25"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/26009e7d8472.pdf",
+      "bytes": 59099,
+      "sha256": "e783dd796cdce3d4f6432087a338552d70f5d8e43c86a7ba64d50cdeb5b1825b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/266f88a8eb10.pdf",
+      "bytes": 82255,
+      "sha256": "cbbdeb6839d8279ee2bc6e3fb0cf6e2bc9564266aefada9aa4d709a3f8fdc876"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/26b18e8b71b2.pdf",
+      "bytes": 59044,
+      "sha256": "cbe4893b3c4a52f3b43eb845b69a655809f1fd028af24a948411186f072acf51"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/272c90f73133.pdf",
+      "bytes": 44216,
+      "sha256": "a7a1d809f8f4d824db45d081cfc13458487233867cad250e8d86bd2cbd98bbac"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/29a07b32b25b.pdf",
+      "bytes": 58955,
+      "sha256": "4a5f9cd6d5d07410a33c4bd60dbe7dd8b0198719306e8292402aa45994d3e002"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/29f295c029a0.pdf",
+      "bytes": 101212,
+      "sha256": "471d4d48099c3ed045b6a2b8b9450d9705b3a090e2757bff53de6a72be978954"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2a3ad7f19d5b.pdf",
+      "bytes": 79775,
+      "sha256": "b8c3ae1b74a8cb610c947387c656d9d212beb47addbf782e0ff2e9e6b89421a0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2ae75543f8f8.pdf",
+      "bytes": 76272,
+      "sha256": "7c331e104b35d229b1e30b7aeaa4d609b797d2f637d3b8164c6e5152d5597950"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2b1debc2dea3.pdf",
+      "bytes": 58897,
+      "sha256": "71552040b79e23e11a1b3aab3e93a3e869d4e1048b5ef30e75feaf42d3e133d1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2c7b58459582.pdf",
+      "bytes": 24302,
+      "sha256": "430b15937c2555e0aed735798b4506fab23e6fd2ad206ebcb47c6795bdceca1a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2e680c339c68.pdf",
+      "bytes": 79037,
+      "sha256": "bde2233dddb8102512375e684f34dcda51866047c9903e209a423ebf6490428e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2ea2a4d83eaf.pdf",
+      "bytes": 204360,
+      "sha256": "9d78ba519e41299588ca9c1ed4091822e7e9c1ca340f6e4a7063b8c9da786e17"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2f1a996f9dac.pdf",
+      "bytes": 83001,
+      "sha256": "0e0c9effbfe24bd7f9aa47021e44a9b114b1eb9c37f8e387fa40a19019ff607b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/2f1e0c162737.pdf",
+      "bytes": 184470,
+      "sha256": "50612512574a994824285fd7ca4a18e26e50e858e8fa77e3a5e29d02e1c2b6a8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/303b6d772a9b.pdf",
+      "bytes": 39172,
+      "sha256": "616def860e0ec4115205fce0636ced680fdccbe6a3da2a0c4709d94b407b3136"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/306390ceb507.pdf",
+      "bytes": 55998,
+      "sha256": "62495779ed129b8a5b3ff024b63094af3c943474f41f1aaafc118fe5cfbd48d9"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/31a3d8838b75.pdf",
+      "bytes": 101782,
+      "sha256": "f3d925a076086b5385e3ac8cbe3621228bc69cdaf6ad90e06f7a586efc9e9132"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/325a300141ff.pdf",
+      "bytes": 94636,
+      "sha256": "f7211f05168b571b4cba43c4b1e15ab43e38c2a02ae75502159635af6df708a1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/32b757c768c6.pdf",
+      "bytes": 96712,
+      "sha256": "0aa8b3f5ef897152d2c74a0a317562a2f705d372944535f44db5767cdc96959a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/33483dc4f6f7.pdf",
+      "bytes": 59614,
+      "sha256": "2e77438a52cba78da049814177d1baaaaf3235e5fd6ccc54ce4d89ead4e09861"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/33b02a768219.pdf",
+      "bytes": 968285,
+      "sha256": "f7efba0fa227c1686e4c3f78ea416d47cb831a0403d0d65b24149cab937f3fa3"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/33cbc6b4541d.pdf",
+      "bytes": 43987,
+      "sha256": "a96b3f350daf578a1e32a222761bce2a0791ac2185be4a81ec1b65f27ddd486d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3464fa3b93b1.pdf",
+      "bytes": 59045,
+      "sha256": "4d91964ed2c2f2c4075bb8ad1c414749bde9f038874381be18ff8ab50b3468f1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/356168d40109.pdf",
+      "bytes": 57194,
+      "sha256": "bb8d6eb0989661f49b9480fae39b43d0dcff1c795bc4ae52d44e72b49f8c86ba"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/360f21c97a2c.pdf",
+      "bytes": 122098,
+      "sha256": "9c62206fcd1250f3997549b477f9904da0590641a7df1f286002c7025fb79dcc"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/363080697b53.pdf",
+      "bytes": 100372,
+      "sha256": "52715d1ec305bd93c263fee3982a63c2fe99b03979b6cbae6b2ae2cbe4ad1de5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/365e2488e1f3.pdf",
+      "bytes": 58964,
+      "sha256": "dbe0ccceac208d3031cec5502984e24eac0cb27482dd19425efac8e34aa4c5a8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/368adab47750.pdf",
+      "bytes": 100932,
+      "sha256": "9aabd08c160f6c09ae555f6b9eec46760a23394e4674ac25467a4b05477018fe"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/368d32507943.pdf",
+      "bytes": 76775,
+      "sha256": "13ac6191bc3ff2e657dadfe7a653a9b42b9ed5f62a8498d00d5d7df0917ca906"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3782f72769d1.pdf",
+      "bytes": 81009,
+      "sha256": "78f3819d8acfe47deb1d3d8f35d22888388efc84000b6fc3e6a19a5edafff557"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/38514aa52db7.pdf",
+      "bytes": 58547,
+      "sha256": "cf3ff161507201365d50e7bdd842a17d458eb17fa959f033dbe22cd17b12a533"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/387897b3c480.pdf",
+      "bytes": 58871,
+      "sha256": "0fef285d8c157499b4e20ee267b70a43d414a038b53abb0c554dc02beb42fcdc"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/38de840e9f8e.pdf",
+      "bytes": 60602,
+      "sha256": "b847b5b02a0b37bec292bff366cf85680dc396839646a7c57ca6f32ac0c7cb5a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3a13c7818c19.pdf",
+      "bytes": 95092,
+      "sha256": "eb4f322468d5b71e3028ef8cd3bd88456748fdb6c792178f2f94cffe5f479e50"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3a1ac5ea040f.pdf",
+      "bytes": 58196,
+      "sha256": "244b905cce0b7d958c5a037f11fb3b8472add3c569dd845dd6b3861fc748ae9b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3aa5aec207c0.pdf",
+      "bytes": 82401,
+      "sha256": "afc805069ea41b3883f86dcc63174c890fba88782a56a8e366dc37bd22ff6248"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3be373fc7182.pdf",
+      "bytes": 84365,
+      "sha256": "160e9b2ad6a17f275483e18e393637bf5e8d60b13058183fa70a63cb043f31c3"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3c1d2cd9c432.pdf",
+      "bytes": 95065,
+      "sha256": "6c9d6314a82cd5836c5f04f84b20ffa29ea872633b65824b1d86222367a95e82"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3c6eefd1328a.pdf",
+      "bytes": 97650,
+      "sha256": "1b5da811d9d7d938da83aea6688d92ab7a2085d5daf8c2b95d33aec00b139818"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3cd5af3b5908.pdf",
+      "bytes": 65477,
+      "sha256": "5a4334c744c118648b275f118d85b01a083d7cf904a4a7c8832c7a0c207ba977"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3da47be93462.pdf",
+      "bytes": 59059,
+      "sha256": "a29de8018f062fe63f934dfb7600a02ed2ae30c16ed07191f26c72494f37d3b8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3df9999f2915.pdf",
+      "bytes": 79725,
+      "sha256": "5ccf381f845265c7abb1b4500f55727c2bafa6b0ea5c32e692e3495e71f08a3d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/3e3b19e0e500.pdf",
+      "bytes": 81680,
+      "sha256": "97b39417066c4afb8712a7d31bca7b922ef0455c97325bbb986c1bf9d27c5e39"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/40e7d13c8efb.pdf",
+      "bytes": 84870,
+      "sha256": "718e5ea119e310bf9486fdc4cd8726d6938b1d233c4112e808a9eb4d81695687"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/40f0d54e16fe.pdf",
+      "bytes": 39986,
+      "sha256": "5805ab53be2be3c6bb189d2fa39776dfaccef8bf71e0c385c42e83a704812f0c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/423d1441ed52.pdf",
+      "bytes": 59036,
+      "sha256": "c3b958b0aece549334fc2be052ec158c2bf4438e0c30f0fcfa62b6ec27eee721"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/42ebf4609a27.pdf",
+      "bytes": 92175,
+      "sha256": "3bf288538a6ac62c303336d2bbd4afe8babb027838dfd66fd3dcab51feb8b270"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4314eb704c18.pdf",
+      "bytes": 57936,
+      "sha256": "41a1cc250d08b157f51c1d6a619f3cbd34f10bc19050ba9a79b13f2db34fd3d7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/44213796f6ee.pdf",
+      "bytes": 29187,
+      "sha256": "54895a8f4eac0bce07666a677463ac7a2d93a1a68ee074845b874e64bfd6b481"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/44e7bb4fc04e.pdf",
+      "bytes": 78590,
+      "sha256": "d87bd71e258e65b73a12443e73995b1fec91c8748e2cabb0cc0dbae697847372"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/454853845d9a.pdf",
+      "bytes": 59674,
+      "sha256": "68bbf7dfe7057583c51fdc5ba93673bb7c76971ea9382660be507cd7f52e8d07"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/47392844325f.pdf",
+      "bytes": 86675,
+      "sha256": "9028b5e36cec79533f85a97e4f34cb19dcedd3ff108ef348bef69aecf6dc7d0d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/47b8c8051b45.pdf",
+      "bytes": 93349,
+      "sha256": "749695514bfd06062f17e01fabb833ac75a2657a864ebc525dfe0422a535df4c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4ab56b426fa3.pdf",
+      "bytes": 79903,
+      "sha256": "04d0954a7850ed3b640889357270b679e99e5dff10fdf4336e21f8166c35432f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4b771a01c533.pdf",
+      "bytes": 75972,
+      "sha256": "ffb43500656ba986a2bab52673af843ebaf38a6ee5454ad1369763ee2db34820"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4c51bd49690a.pdf",
+      "bytes": 21414,
+      "sha256": "8fba199cfcdc30e27dddb588306ac8e1b604ebf9ba1b2155fe9518679dfe61fc"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4ca4100fd3dd.pdf",
+      "bytes": 96469,
+      "sha256": "0fe0a003355f53e267bbd04bc4802303c0aa57d2eb9c46b16a820a5c2a1ce29c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4d657f55dbfc.pdf",
+      "bytes": 58521,
+      "sha256": "0010a3988831641613cca0de608386f04d214918b93742778a3976cc47665aa3"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4dd580c29007.pdf",
+      "bytes": 97326,
+      "sha256": "9fc42ca13ac3629dcffe790c33384ea2b6cb9807033713f6067aa9a8b0a64183"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4e0ec4ae2355.pdf",
+      "bytes": 40328,
+      "sha256": "0c6f590cfe0eb8cc9b6fd6dd1e3dfb6e38ecf463280b33abf229aa33b3a4942a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4e56f2e4b9b7.pdf",
+      "bytes": 38135,
+      "sha256": "ee59f6ef466418350ee88b55c7bd23004c9f06311795a73e5115c20fa1b69fe2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/4f1d7ec91796.pdf",
+      "bytes": 59880,
+      "sha256": "39c0fb23772a10bc3cf5185e3db35a6d95b47238a77cc858e7a6d1584be08a93"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/51245813998e.pdf",
+      "bytes": 97017,
+      "sha256": "d456f3bc213b1e24a4b0dbf2754cef0ca26893accdf3f46dddc73ac3a9cb4805"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5139bc6b7dbf.pdf",
+      "bytes": 61091,
+      "sha256": "bd8207176fcfca00817d3f4ecc28eabdc92e58bf45343f2956155f98fb5350ed"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5385a12f9cfe.pdf",
+      "bytes": 18075,
+      "sha256": "8a378fb8445d2e0a901c9e48832acd31fa9bcc77bac5a89f5774a162ff5a10b0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5544d8a62dc0.pdf",
+      "bytes": 88315,
+      "sha256": "fd684cb7931880d473304011cbb7b41b70cd2261b1bbe0978879415af4a2748b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/55d0801dc56b.pdf",
+      "bytes": 60400,
+      "sha256": "af87437eb8abd59d78674d58f19cb8c420ec1018816e9890536d4dcd725dac6b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5616db530808.pdf",
+      "bytes": 93090,
+      "sha256": "7635d38d07fc00b6263fa3ad4f5781857fb500ccdec4a6b1709b2cf93a6ac4ae"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/56d66460f8ad.pdf",
+      "bytes": 95633,
+      "sha256": "22b93d55d3ae71868e5c182dd355e8497450da9165be3b046790b9cc87d79b53"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5794b4f81b8b.pdf",
+      "bytes": 58263,
+      "sha256": "fa17112dbfae9421f5d386a21c57787b80f95c7c18e876feab5020cb5e2b3404"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5a74602df80e.pdf",
+      "bytes": 56783,
+      "sha256": "6bc5abddcca8ca2dfce71f5b444fcc8075115ec1314353d1bd1995653e79a6a8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5b023078beb7.pdf",
+      "bytes": 58785,
+      "sha256": "99dfcb79e688d3e9d51660b25aaad200b8f372c958a1be92fda22e5931776f21"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5b1c76ceae81.pdf",
+      "bytes": 57145,
+      "sha256": "5532898925d598692c8422027a25ee4ab98d94d0a389970863568d75141b600e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5bb57b8b2a1b.pdf",
+      "bytes": 79101,
+      "sha256": "2caa74df2f3f848c4737ee05cc4681d289c1e4d68c66d03e260e3dd4789523c7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5be4e8982334.pdf",
+      "bytes": 38463,
+      "sha256": "1b48c9084b5012db4e81310725e71822776fdb8ae1b6838cca06d315d018ea07"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5c909f3b9953.pdf",
+      "bytes": 101060,
+      "sha256": "a4eaf21651d7320531dee58a7051009ada90469a6f912c5a5ba9b009b9176793"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5c9f86d699c6.pdf",
+      "bytes": 57542,
+      "sha256": "092c31f957550459a274f0f168c46102abd43ac81cfee918e3ef9c8be979887e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5d060452bf75.pdf",
+      "bytes": 59188,
+      "sha256": "386096a9463217649a81af1201ed7bd049d9ec9e600339b6d6d5c40b2ea96308"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5dcef9cdb069.pdf",
+      "bytes": 57446,
+      "sha256": "8cf791a3371bf22dfdb962d548fc037ae7ad02b2177a35826f80ca8b00d876af"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5e13852365e4.pdf",
+      "bytes": 82503,
+      "sha256": "2759176b0c14979f1a4a804fe15d7c9f9dff436db19aa322123aebe4ce7e0324"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/5faa83019996.pdf",
+      "bytes": 92868,
+      "sha256": "14e711ab95216d2a3adbb7ea055f9b00ccd84771d27772bddd2eb3566e15e6a0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6124b6f149c1.pdf",
+      "bytes": 57564,
+      "sha256": "25a6ba782019e5b354b19b33e46a6f958735e9dac9c61d106993a9c3c3a33eae"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6152783a0767.pdf",
+      "bytes": 40708,
+      "sha256": "d878c38a8da245baa5c57f768a558a66c0786e728471c8910aa4c1c5bc845465"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/621b0a597963.pdf",
+      "bytes": 80835,
+      "sha256": "82abc3e3a10cc2a665862e7e101d2a56afd45ff86397dda5a79175a5db4cd03d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/65b5f4e2b73c.pdf",
+      "bytes": 31110,
+      "sha256": "9157721c839829122beeda1e347b3586b9bd3a43e8cf45d8b786d9674ab5b3b9"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/666839449fc1.pdf",
+      "bytes": 88090,
+      "sha256": "9b6bb299717b7f32bb91aff6c53f416ee4bd453d054b27905ec4515f1c3785fb"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/669d661bacc0.pdf",
+      "bytes": 57733,
+      "sha256": "c012d15c3d0f4dc1ef291dc3f02a5d50f1e512c708a61ed9913be8bd0a2377ac"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6776421f8b7b.pdf",
+      "bytes": 64032,
+      "sha256": "7f76c57aec62dfeafb7520e1cfed8a84711ae9268af0ced6725cddd5ec8ae11a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/67dc6febae41.pdf",
+      "bytes": 98466,
+      "sha256": "9909d36e8556dd8d3029ad10058cadf949ee5702dc9f754a54cfeb7113816631"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6814958614d4.pdf",
+      "bytes": 40418,
+      "sha256": "1501bef8d2b3a2890344c00e83f13a27551ce9ee8aea6a699a07815ecce92347"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/683349bccd08.pdf",
+      "bytes": 59522,
+      "sha256": "a1f479e1652f20c745ac5b16cdce5f6cfa6f058ba080e93a947116b22f2f52e7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/685581fccbda.pdf",
+      "bytes": 86531,
+      "sha256": "ee48dbf861b472ab959f1d4b168479711b4ecec388869a443d842e1f5d50ed8e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/686b35d140aa.pdf",
+      "bytes": 102949,
+      "sha256": "e7aee30af59f6933877e12b1976c6fb9c33cc3a198bd931ad494fde066e04dd5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6875a1580c42.pdf",
+      "bytes": 59610,
+      "sha256": "bfddb5f3d4b196c5bd4b03793beca2f66d2e982602e16b72c789c06d5c6e1776"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6a2150781e97.pdf",
+      "bytes": 101104,
+      "sha256": "433bd269b149f928e12b5a1c66ff944f7112019d4ef297aea3d5db480e9b2627"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6b0cb5ae2e0b.pdf",
+      "bytes": 77651,
+      "sha256": "7f0d4d17193276de1f0b34fa43c8b3057162fa1062f03e9ae16629a93ebc4b81"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6b41d654eb88.pdf",
+      "bytes": 39271,
+      "sha256": "111f4a422a1b501fc684467f14d6536d0dddf5807901803585c8779c1ff90cbe"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6b77664f9fde.pdf",
+      "bytes": 76750,
+      "sha256": "ac40afc37c52246b71bd7ddde777effd80f1d4dfd60a4b9b69be51a133045311"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6d98c840d833.pdf",
+      "bytes": 88678,
+      "sha256": "5a390805215d7d3c9a3d197e6fbeaac330f977252a123bae28f9725b6e87f1bf"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6e382e15659a.pdf",
+      "bytes": 89459,
+      "sha256": "4c0adb5f5942f271249f99d587f0b97b2df487bac3029a05d490a378dd2e0f5e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/6f58aea5694a.pdf",
+      "bytes": 60513,
+      "sha256": "3ec2e95a73bac9cf55a4dafde32e9db1d10c4cd2460173918a89f89c20555af6"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/705966524c78.pdf",
+      "bytes": 61400,
+      "sha256": "4fa1c08f5d70aca6e19d4f05a54cb84540a794e6a6f0cb8b7dd81f6a16d984b4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/70b242169e04.pdf",
+      "bytes": 63596,
+      "sha256": "e16fb12c719e08f5787d851b1a8e069bba5c8f53f7520ec099b7d41e94d7ff09"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/70b55b06622a.pdf",
+      "bytes": 74331,
+      "sha256": "f4b263d04231d499a90695c1327c2effabb0298dfcf3880ee445678a2c6a4cd2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/71a0c8bcaf64.pdf",
+      "bytes": 56323,
+      "sha256": "f2c334ae93bc3f55a3f5c6dc7a4a4faffe9792d9c9685ad0a1c1d718270b99ba"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7254ee04cf26.pdf",
+      "bytes": 82281,
+      "sha256": "1703e8f4057d59d0d0ea3af718a25a98980104244da35ad5bb891997562f88a7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7394dbd0f430.pdf",
+      "bytes": 90991,
+      "sha256": "937f8bc1ddfd753f7249ae1babb4fa336856f407dfbb2757c9b8a3174760df2f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/741ef0b9ecb5.pdf",
+      "bytes": 24090,
+      "sha256": "9261b2f9c86e02fcc0b0d18e393bec08493e2f401ce2b906671bc1476c75a7b5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/74b69bea6205.pdf",
+      "bytes": 106129,
+      "sha256": "c0fa4a9592e3bcf398f8184a2a40a47f05c87feba201f17ceceb88972e266a30"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/75412f36e166.pdf",
+      "bytes": 73011,
+      "sha256": "02f894019dc2a742c2124b06d61f1317cd6946eaee784c7a4940207f44b68701"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7698db79a877.pdf",
+      "bytes": 56201,
+      "sha256": "2841e4adc774dbc037a56919e8ee5b154e3ce2d6b14feddd3303c78432ac22f8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/76c2d2aebc74.pdf",
+      "bytes": 87146,
+      "sha256": "d74e2fb63d0031bcfb589c25c7d16b75a10f9a7666bdd3f15e52a41095e08383"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/76c38c6ade7b.pdf",
+      "bytes": 77219,
+      "sha256": "c5666e91df0d3de6abec1b01aa3081305fb4bedf321ae1dd09483f65b9ab8463"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/770529707065.pdf",
+      "bytes": 39088,
+      "sha256": "7a8b6c1f269849fe7e2d78fdffaf1ccbef084a451fdf2890f76a49908d587090"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7718d45939ff.pdf",
+      "bytes": 102709,
+      "sha256": "8808873126d0c785d93586a8791ffa08364741e5fe524bd6d27e4033c3aab36d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/776fab6d9a69.pdf",
+      "bytes": 203060,
+      "sha256": "24f918be99489dd8f7c6f16a3520bb421f4cd8cd9204de1471b370271924917f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/77b3cab2a756.pdf",
+      "bytes": 95423,
+      "sha256": "018aedaf7355b2aab34207cb4101bc782c8037aee624482780022871266652c6"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7c27c35ea238.pdf",
+      "bytes": 80128,
+      "sha256": "93a382ee890bda16899b16713620a451890f8108ca49c150e6afd9f9e84b10d6"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7c5006a30729.pdf",
+      "bytes": 81807,
+      "sha256": "7bca513df69fffda867c5e2b64286fa4513042e21cde7de2e8bbc1dfa18fef48"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7da1b7e146e7.pdf",
+      "bytes": 59309,
+      "sha256": "af574293920eefa391bc2163542b3c0bc4ba9eb262fc0aef397b3f1434a017e5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7eb36dac7ddd.pdf",
+      "bytes": 96195,
+      "sha256": "bfc80d2fe83552654fd82c4451116891861a0acb7bce0463ddb800c959dcf6dc"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/7f65884009d2.pdf",
+      "bytes": 93019,
+      "sha256": "9ee85c7ba8a1d7de9408a83e606980432f926b2c7be0bca049f2ddfa0af0e052"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/81b952c7cad9.pdf",
+      "bytes": 69987,
+      "sha256": "49cb56e021945f3797812e8bd8fd70cc28fc1307ad36cfd83675b42f25b5872b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/8314f08bcdda.pdf",
+      "bytes": 57656,
+      "sha256": "ab306a104d909371a344c84b324d98654452723a1fb08c252127829293469ceb"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/84981858805e.pdf",
+      "bytes": 92543,
+      "sha256": "3c9e8e455285dbaecc73e83af2c700e8fa629705b55eb318d8c662be59048dea"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/84be4e4f4fa6.pdf",
+      "bytes": 58913,
+      "sha256": "ab8e3b40dc6ca93179941ff5a81f22c53938fa9c82ee757589656c9c88faf44f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/84db914e39ea.pdf",
+      "bytes": 60830,
+      "sha256": "9bc51f3833500b5c9d419acf406d8afc62ee22ade7d77c68475f25fb18930b44"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/858a3b2d481c.pdf",
+      "bytes": 62961,
+      "sha256": "ccda47074a09ea84b6139d5062489c2da42283ee8336b83585fbdd549d31d098"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/85dd18e6b3ee.pdf",
+      "bytes": 56729,
+      "sha256": "c67d8950706ce8b71d2f41a6b84a2f0115c34a10fdef110c055ee421e277e6f2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/866174ef63ad.pdf",
+      "bytes": 80527,
+      "sha256": "f942d0e7a4c1ba26b40354297743b3cac29d1cadca2dc46b6d05c3f019e06d2b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/8805eea2e533.pdf",
+      "bytes": 98471,
+      "sha256": "4edc8d0525e63f8e0160526dd2d21e3ffc79a6e80a07f9b40bb399b9843a5167"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/883a88106855.pdf",
+      "bytes": 56703,
+      "sha256": "5aa9c85fa344dd6e067b0e68c3e3a857b78a10a367bd797078927b49ddb212d2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/886ae7c40136.pdf",
+      "bytes": 57907,
+      "sha256": "8303b972e94ee4f846f8ec9ded344de6aaf48e060c1d7b45560913779fed8c10"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/88a95da6a33c.pdf",
+      "bytes": 55944,
+      "sha256": "4b7d91f9ecc09641cf6e1fe413b2d1e15b7cdf6f3edade1c40907cd19ea24816"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/89d63ff0e052.pdf",
+      "bytes": 104263,
+      "sha256": "5892b2f0065bb81cf3d2eca1f161ba29de0b5853ee96158fec31b7ddaac487f0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/8a6ab90e24b5.pdf",
+      "bytes": 39424,
+      "sha256": "e2d7268c43d8c768c8f9ae06d03a1c8729c3ebb0753d9284323938d9f540a7d0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/8adb86f09c2c.pdf",
+      "bytes": 105861,
+      "sha256": "4a57530fae3f99218ca3a76fd4a5a9defb79ce2ac21bb7ae915d50d053701fb0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/8b787f094f4a.pdf",
+      "bytes": 57042,
+      "sha256": "6e2ab0babd1c3b3e26b1514c61691fb06cdc95704bd2c5b4ae2e857aa8106f0a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/8fa049a2d661.pdf",
+      "bytes": 59222,
+      "sha256": "4c67f065c7f99b2ff3c3973c7d8eb38c8212fc86b306e357ec285f3377a7c05b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/8ff8fde3e1e9.pdf",
+      "bytes": 78405,
+      "sha256": "56f02562916b22b0382a5dbab2e4a4afdedc9dff9479b97ee56cee21f1397ff5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/901ff20b49ff.pdf",
+      "bytes": 74828,
+      "sha256": "16481b1073086cf44d24d5238d685ed7aa80a3fa9d9bda5afa7aca8739bd06ff"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/91d77a7dfcf4.pdf",
+      "bytes": 85777,
+      "sha256": "5e21b745000711658a05ad83b7430fb2b2d4410b66bff5d91c56a7ade62eb135"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/92b1ee0a4b17.pdf",
+      "bytes": 21374,
+      "sha256": "5bdbcaed9095cfc8bb56d9d930dd7f452412f0789a63ab806ff4fd84bc33478c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/92f2b18053ed.pdf",
+      "bytes": 58769,
+      "sha256": "3b29fa8f9202ff6ff5185cb0d579f34dca07563cb2bdc651b5200aa85f5e3b40"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/930371eb8dc8.pdf",
+      "bytes": 38313,
+      "sha256": "0ac517210e964ab7c3bf552678924f9d6aa087cc3672b89670a58a892f042f94"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/931848ef680f.pdf",
+      "bytes": 95065,
+      "sha256": "0e66abae00cc9c1d5d79ac41b473d882e9527d4ff092044087bf41823de749d0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9371f4a04e8d.pdf",
+      "bytes": 97052,
+      "sha256": "53286f7b65f7bb775398195f3081aade3413f8d34d044b56b481f0de4ef77165"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/93e0169d14dc.pdf",
+      "bytes": 85219,
+      "sha256": "d155a5fb996d36fbd95f0c6f35f6e78699ea5c2f24bd8584e90c243837214d20"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/94a159531926.pdf",
+      "bytes": 58003,
+      "sha256": "c69bd72761d79f9c1f47ded392c9846ec9a52f1563e2d47cb3d0dcab75323e5f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/95511cf343be.pdf",
+      "bytes": 39864,
+      "sha256": "62ec76663afe9d7ade635e5ecca2f11253176f8150d16ec657a4bd1538eef995"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/958bbf571265.pdf",
+      "bytes": 95132,
+      "sha256": "06a4c8e5492675e432a2700a98a6a9ad19bb3bfd102a0e8a094e3f5a54cd202c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/95fa2adb00c9.pdf",
+      "bytes": 78804,
+      "sha256": "697229b3d1079282035b6dc25e93fcb2e0722b1dfbd70c9679dd38397707e1e9"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9603e116367a.pdf",
+      "bytes": 131084,
+      "sha256": "9f6aa4d7841a3e9c4d34877f128b08b9d27ccc69222c5d4cfb3b08f6d54d5f9a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/96fe6a59fbc3.pdf",
+      "bytes": 74871,
+      "sha256": "e50377584fb07100dd4b1c081d9af05d091e5d8c575125aa194a83dae1a96b88"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/974e04bb580e.pdf",
+      "bytes": 57802,
+      "sha256": "f4af1c6d14eacc556a24b2624765e63ed4ed0cd8443b0cb8fc20cadcd40ada1e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/975718e399aa.pdf",
+      "bytes": 57439,
+      "sha256": "5bca0f1cf42620013c931b3d3ff3653bca050de85e3ff131b2cab228e937aa59"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/97a5cd9682c3.pdf",
+      "bytes": 154123,
+      "sha256": "ea9ca6aac4a54fa6bcb0b925570fd4ea71fb7fe305e9e98f46f025b0a44710c1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/981a1dd50612.pdf",
+      "bytes": 38841,
+      "sha256": "2c3e60f1d316992d82c4dab24cec83d18704f91de430463a0e6f6c94f6ed9530"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9c229f006f26.pdf",
+      "bytes": 96174,
+      "sha256": "09124d8324c1c1d24f3ab7c4ca5bfd19a73dc35cdd0da96040622558976f7eb8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9d61769425b2.pdf",
+      "bytes": 83360,
+      "sha256": "68b39b253653afc102864806ecd5344b0685db1d6a849dd86b9e0dc73fb105ba"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9e44240d392f.pdf",
+      "bytes": 67918,
+      "sha256": "ea912d340e747ece87ef065aea1f8934aa5a0949f0cfbd6c3356f79d45b82e39"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9e6e5b70dfb8.pdf",
+      "bytes": 79925,
+      "sha256": "cdfce20e3dd87998793d7516d67a54376fc88747a082a6c73552284554f0bdc7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9e96176a4afd.pdf",
+      "bytes": 83439,
+      "sha256": "82fe593b29e7ba5aa47b308efbc6694edcbeb9dda69602eac7210a93e783a655"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/9eb460aeb54a.pdf",
+      "bytes": 90099,
+      "sha256": "aac6cd6ac5b79cda115602f2be5485e4a3924a684b470ffb9e1b831767900376"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a20a59a3ad80.pdf",
+      "bytes": 87878,
+      "sha256": "bad7bbbf6c44941144576bb3f08445a5dd9443edb2410c7676b5d6f39248f404"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a216766ad4e0.pdf",
+      "bytes": 96178,
+      "sha256": "e02928b22050e6d9f3263cef436bc7ee6c969d381363b64c89a967718e83cf18"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a221f8aa3a2b.pdf",
+      "bytes": 59931,
+      "sha256": "90d90c554c0c7cb4cec52151e55b91c9c75944eec54a1fa29b4299ccf3869119"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a289af7259b5.pdf",
+      "bytes": 60002,
+      "sha256": "661b8aee4ced9c4db3fa64c40db9e865c98b2dd1c626ef228c01f35a8823f275"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a2c617ad59c5.pdf",
+      "bytes": 168943,
+      "sha256": "f9447f1b9279aa436f4ccfeb31d7a9a5794ec6d435b77b3e99acd334a0b74690"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a4094ff30b5c.pdf",
+      "bytes": 82129,
+      "sha256": "bb359e174766bd85095b52d8809e27d36cf2be72b044cd9337c889e6b59bf902"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a4348b412247.pdf",
+      "bytes": 58915,
+      "sha256": "fe703a80ed07fba0104aae3f69334d18c4a6dd04754173d54e145df36aeb4e32"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a4de2c1d82c6.pdf",
+      "bytes": 93505,
+      "sha256": "e645210a410d77d5e4e080daa2dd5d7275ef566c3c484b40472f6b6e1bd63c26"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a4e7d39b1f64.pdf",
+      "bytes": 92339,
+      "sha256": "faf28df4ac5906732eaa9f4e19bc5971f3a90a122aaff8c8696d84381059270b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a5031f322af8.pdf",
+      "bytes": 185511,
+      "sha256": "9066db8f7f1c00ce94164877e5701dd27ea563a8ddedfb65dec3db370a26311a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a6c2029ba273.pdf",
+      "bytes": 57805,
+      "sha256": "2006fe3c193b92f96f4959fb231b0d37f504c963db4016156a2e2bb372848af8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a78aaf2d2577.pdf",
+      "bytes": 92938,
+      "sha256": "a962d9e838ca73b27a11011771c421b122cb827008d26e6bed7779c2d38454a1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a859304e0ba9.pdf",
+      "bytes": 40281,
+      "sha256": "f9fa134d514ef929e55df0701395f167dc21140be9a15b7b892133a43120b64e"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/a92baa7ba6aa.pdf",
+      "bytes": 183954,
+      "sha256": "4c1452f2f79c4cf2580aa7e02173eec2b8f443c560ce853427511e64e6571c75"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/aabad2d14991.pdf",
+      "bytes": 213660,
+      "sha256": "d8eb52db6ad692e5578ea97a7b7c843aa0ab822bf4eaf77ef504474ee191f1b8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ab5d21047c37.pdf",
+      "bytes": 59655,
+      "sha256": "f364cd7041564433ab25e327c4b8c1b07fd349f9978da9d1d424d189490f17c4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/abf1c93668a3.pdf",
+      "bytes": 25937,
+      "sha256": "cfeb94325e1753326400e8d6f94c02734ed626de9d41303db73caa9efec2676d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ac1d53919fac.pdf",
+      "bytes": 65978,
+      "sha256": "7a4f36fa24d3c0969bca4e2ecf835c79da9859de5cbcd73f1251bf8691fa4bcf"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ac38312e6a68.pdf",
+      "bytes": 77055,
+      "sha256": "8de5d1662768f171be6931bdd6496798e8d208ab8a50f9dd6b0531462cff3e96"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/adc54fc6edcf.pdf",
+      "bytes": 26988,
+      "sha256": "4e9e116c8a86795d5c8f1c1dcf32ac0bf13aa94eeffb401fed5f10bec5bf4b80"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ae4d1291cffa.pdf",
+      "bytes": 77977,
+      "sha256": "1bbaa5453e1b53ab79221b3831160aa643aadf9de9db648684f8ca9f731f1cb6"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ae62bf049841.pdf",
+      "bytes": 39416,
+      "sha256": "e1dfd200104cbbe52ebfe6c5f0caf88351cba43918c55968b25dec4c98129a01"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b215039d9944.pdf",
+      "bytes": 95010,
+      "sha256": "c8aee6ddcb9ccb7b608fb8d856bba1ff03c9228d659df3daa083209072357cb4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b21ef8213d89.pdf",
+      "bytes": 198459,
+      "sha256": "1cf189b6f27e6c00e72415085106d4dfe8c68696cde1d049b87b037fc2324d93"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b234ec2b03e8.pdf",
+      "bytes": 25078,
+      "sha256": "2165c2c3c0fd0014bec9b4c42d477dfa3c07dd047c70a5193b06fe775d288f9b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b2542945acc3.pdf",
+      "bytes": 56174,
+      "sha256": "1242887dfbee3656860b2bc4656492c5b7a6b1171c8c7593b2e9cbe5b7fdd1fc"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b304e7c4b58c.pdf",
+      "bytes": 66569,
+      "sha256": "8986ef52ac0346aa6aab5721386dcba835118e3671db95f67b4254b758dde2c6"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b4162c0caa06.pdf",
+      "bytes": 58947,
+      "sha256": "842528e633dbf0dee1b7ecbfe5a604261f3bd15ebf13d951c987f266f0bc3894"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b445160a6f8e.pdf",
+      "bytes": 28823,
+      "sha256": "54f0c44087c07cb3cc5f4f9dc98788d0f07b2ac41c1c3a503a8eaca84120f8f8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b583ae00e9dd.pdf",
+      "bytes": 42937,
+      "sha256": "09cce12877ae2576925a21031b42c021a7ab9be7a7e8b87a58cf183634925dd0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b67fc66ec87a.pdf",
+      "bytes": 80110,
+      "sha256": "b6116c14805befa5c3811c97136564e0465b2e74f8ae3c5949e2e0bce23901d0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b924054c4db5.pdf",
+      "bytes": 84528,
+      "sha256": "1fd2b2759ba03e0c6cafc266cfafe2f2c508ee2ca93fa25cdf86453b9264f4a2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b933d1b20256.pdf",
+      "bytes": 92550,
+      "sha256": "b5da8b87aa37fb7f826a380f6c4aa9632bc675cab078432e32806e7418839080"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/b94ce6a6a28d.pdf",
+      "bytes": 59597,
+      "sha256": "bebd4dc77fa61b156936f2ce758567c5769e19979e2d21b0c27a8d2a1947d487"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/bbda6c544ffc.pdf",
+      "bytes": 59196,
+      "sha256": "d20b5fe1341ee6e180c47ebefe9f41a67d5054c8e5dfaa7ef01029b9f5dbb5a1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/bc402c2ebf19.pdf",
+      "bytes": 56468,
+      "sha256": "d599b5c02e88fd0e26c5a67029f0d7c739aba071ed44d11f99c4311b6f568395"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/bccdaa436579.pdf",
+      "bytes": 60753,
+      "sha256": "ca5380b4124e0589cbf5ec5d77d0782b784668d84fc276bdb6956e2de9c607f7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/befb389e14b9.pdf",
+      "bytes": 57908,
+      "sha256": "ceaad8f17037d16794b3b806a7497fd22dcd5b4fa2a7925a5b7fa9bb51f4a5c9"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c0691da0018b.pdf",
+      "bytes": 82906,
+      "sha256": "477e7087de41f21f26e48d506da6d167f3da3768909e8f3b391bbe0f4a562c1a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c1801d6ece1b.pdf",
+      "bytes": 98763,
+      "sha256": "e69dc72874672e2004dd061dacb3a00397c1b53057fada8a7ad7f4a61e1c4794"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c19e7389de27.pdf",
+      "bytes": 59352,
+      "sha256": "223bb3136e6f4b605cc554914522a2006fc4e38b0697ecaaf4336fcc34501254"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c2a40e187e8f.pdf",
+      "bytes": 77614,
+      "sha256": "24541238b1169c96084e190aec4627d34a6d320c679fa6cef98dcc765f25fb64"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c45ccb24c937.pdf",
+      "bytes": 58021,
+      "sha256": "6d5bdea3a742072de5725f7de99806166a7b9172c4b33b21d75d286bda2ca7c0"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c8a66753b5d5.pdf",
+      "bytes": 40207,
+      "sha256": "092ba9c6230fe79cd1336752de30d8a861980775abf3e37d92dc04dd574dcd26"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c9636b2958be.pdf",
+      "bytes": 20885,
+      "sha256": "59305bbf06b3a6210d5b40093f6cc915664f13cad0d102fd24872536f36de4b4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/c9bcd4a98f60.pdf",
+      "bytes": 41053,
+      "sha256": "eab23295b81dbbb32e7e33d14e108e4e1971ceb720a425dcb46ef9107538985a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ca8523a3037d.pdf",
+      "bytes": 58443,
+      "sha256": "0377eff549d790016e00e76e24f67b00afc2aaf765080cfecdb7b4287e6cc6a8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/cc2c3d4d976e.pdf",
+      "bytes": 23420,
+      "sha256": "7d547d0a62814cda9d88e8056d0d41747d0df52ec3cf5974e762e4054aa1ac43"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/cc41a6a5398c.pdf",
+      "bytes": 58278,
+      "sha256": "cee8f02ffc43c609a7bfee3b393c06967fc58fc72293d1319e275b7b6be06ed3"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/cef01d76d566.pdf",
+      "bytes": 59202,
+      "sha256": "48f208cd6becd6384662cfc9ad198c05c948f94b4a1b1ee8c44b90fa02b1a4d2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d0432bc189a4.pdf",
+      "bytes": 38599,
+      "sha256": "07cf4bd1b13091c6c97fe6acf72313ec0b4625ee0a8f499cfd2fe1d282253c26"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d04fee3fa719.pdf",
+      "bytes": 43659,
+      "sha256": "faa4c21d824159aab29954cdfbd6c2eb18aa80fb6399d00eb2a0ecd9362998a4"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d0ccf418ca4d.pdf",
+      "bytes": 39788,
+      "sha256": "1080156233af82f0a58c6af648d8f9e429d6e0737af15d72a509af7ce6b0067c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d0fd12c0c9b3.pdf",
+      "bytes": 57895,
+      "sha256": "fea28659cdab20f6281243e966cf4bc99166fd56df89cea556beab4fedd80191"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d17184d096d4.pdf",
+      "bytes": 89166,
+      "sha256": "25fe69282e3256eebee501455385674d534a6db7d3025bef1af01d22f954f420"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d2bd3524d417.pdf",
+      "bytes": 80289,
+      "sha256": "c895b6883f0000055f8c195429074aff3ac5ef12728e39dfc895fdba7b651308"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d3a681519853.pdf",
+      "bytes": 81717,
+      "sha256": "503dd812b7c9bfcb8783a19533f906c8b0508c4b7984e64bd3ec0601addff2f1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d42133f2ee22.pdf",
+      "bytes": 46590,
+      "sha256": "bcce15707e998e66c6c6c2399a2f145735133cb48429a9959e366cb1759944d2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d4ef4212ffb2.pdf",
+      "bytes": 39348,
+      "sha256": "529c956e2a388cc4114716ac46d65670b5e949b3dfd14356602a877feb31200b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d4f949030c65.pdf",
+      "bytes": 38775,
+      "sha256": "4799177e58a9874bb99f7c11d3ac01a45235a85e64843bef484891b3807b2f24"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d62a6810d7a5.pdf",
+      "bytes": 101803,
+      "sha256": "29037a72071917b585e15ad8b3e9eb6657dac451b697827814ac0bc73f7b33b3"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d71885454b80.pdf",
+      "bytes": 58161,
+      "sha256": "acd4759d1969bfbcf99c6a742693821de3c9df259b01506d4f53574d677e2134"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d7e95d7f884b.pdf",
+      "bytes": 85585,
+      "sha256": "4877d127af4150e8a3d735e06923cec39addb2ae1a09eea1179d8c9547176e13"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/d9480934b734.pdf",
+      "bytes": 77819,
+      "sha256": "e3d0ea6ced416fc83a2a913086108f3a0ca9c38c4a8d1360af42f90ad39e3105"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/db310cd437e3.pdf",
+      "bytes": 58448,
+      "sha256": "7690d7d3be574038541a8285f806347b1b31afa5de4a161cf67e5aef69463969"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/dbf648553cd2.pdf",
+      "bytes": 57341,
+      "sha256": "34fc47a5e52dc5d6a81f4d8694ede4df5b5dcdb86b51140468e81b78a7c4ce75"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/dc480df92e58.pdf",
+      "bytes": 58366,
+      "sha256": "b1eb55f83ee1ebc5fdb82347aca77fde6909eb6d0ed778bb9d9ec2a252a7e89f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/dc48dde7e84a.pdf",
+      "bytes": 181384,
+      "sha256": "58eacfaa428c31aed924bf47ab33a79bba0a0e9f0dc5fe2f779d58c071f445ed"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/dc846dfb8b1c.pdf",
+      "bytes": 164342,
+      "sha256": "c6effd43efc01ec6b74f39adeb67e3f2f430a5acc7efb91875e807f5df6483fa"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/de158f473093.pdf",
+      "bytes": 94260,
+      "sha256": "9c34e3ff0a15617be7a88f655242598f4202491177d6903876951e2da748f738"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/dea8dd8c277b.pdf",
+      "bytes": 74182,
+      "sha256": "4531d06a1de852bdbb62ee9ba5c2282e1b9ec7f7377d544939cd2ed7d6011149"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/df00d12cfddc.pdf",
+      "bytes": 58140,
+      "sha256": "d55b076770067365ed6c492f78a22100826dc2b40a5757012d0f71ed91910936"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/df395efc891e.pdf",
+      "bytes": 74911,
+      "sha256": "691a2e3e2a14f8696e3c187f62f50f2f44de5a72b416bd3029c07990199db64f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/dfc2aa2aee08.pdf",
+      "bytes": 29597,
+      "sha256": "1dd25137c6963062ba5afbcb603b6ee3b6eb10e706c943cd72bda11c9528fa3a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e252fc119ce1.pdf",
+      "bytes": 162712,
+      "sha256": "d2dfd0cd839d9ad0cf246b3cda02f415c294525abe85d85fd42b2d5fba7ad149"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e2d497fe6949.pdf",
+      "bytes": 59430,
+      "sha256": "16ba9a11e6b48a86ac928fc967474e0ed78fb721ef0303f42d7b30aaba2bb381"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e47fb5d40b82.pdf",
+      "bytes": 38927,
+      "sha256": "eb7d59d41b603270cef23eb54553a2bbd2e435bf14d987e5202913238e979fcc"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e4ffe189ef3b.pdf",
+      "bytes": 43478,
+      "sha256": "787a644b2728cc43f3b324fc5640c1e84368a2cdac296852194dbb183069ca2a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e61fd86b7c21.pdf",
+      "bytes": 101888,
+      "sha256": "fee5a442234951c1ca6fe2bd2b4b48dd3789520cc3e9890cb9256b83b35fdd6a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e64b68c4e647.pdf",
+      "bytes": 58971,
+      "sha256": "d6d8d227337f9063d4661bd2800f5d132b843849ae0f9704fc5d617d04f2be05"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e6f918992021.pdf",
+      "bytes": 58037,
+      "sha256": "aaa8173f7b7c40099bc22437c74304b3dad205f2b47c764843e4d60dbd5e2700"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e72b59aa1912.pdf",
+      "bytes": 61990,
+      "sha256": "3cc70d7a22f1a1f6831a11961ffd595637d55c80da2ce14ba81d17e2fd42f5b2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e8533523f503.pdf",
+      "bytes": 96116,
+      "sha256": "057dc1e015e93486e504eb65b3bfd0d3ea199131ee49e9c7d50b2ab9b53a2f0b"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e8915bb1dc39.pdf",
+      "bytes": 78556,
+      "sha256": "409042300332feb44e3c3c5de94395c93f686202ff121107720f5654e8a27ab7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e956abd72579.pdf",
+      "bytes": 72665,
+      "sha256": "d0e02194b4c7fc5738dd834212207f9b09bfd5e3516dcfcd443eee7665afcd76"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/e9585267f87c.pdf",
+      "bytes": 94531,
+      "sha256": "a26e6ee09cdad5eee170d04eb61b9f19ebcd4a9dc6030c1669ee2ef2d1b284f7"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ea4caa510d6d.pdf",
+      "bytes": 44169,
+      "sha256": "15e44a2212c72a8a7e3bde6ee5548001abda86a15dee7cbfd711b575bb8c80c1"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ecd47619dd6d.pdf",
+      "bytes": 457166,
+      "sha256": "87914d0c6e73a6780888f0949ed5fe620e8b804d534c12621d9866331f2b8980"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ee7e5a350a1c.pdf",
+      "bytes": 39069,
+      "sha256": "6c07ddd4c083a68a1d7f51f9f1ed0ef8783e90ccb15132bfafa897d945de5c42"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/efa3f22b939f.pdf",
+      "bytes": 59525,
+      "sha256": "df294cbf40ed9f765c549277bc1b0d2d99337fd934ebb63cae1051645c0a36d2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/efe87d8adcef.pdf",
+      "bytes": 88109,
+      "sha256": "40ee35dd43cf0f3439c9df99da529276fbe59eb6613cf3220354066bc22fb9d3"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f0a567a97373.pdf",
+      "bytes": 86240,
+      "sha256": "39da8c79dd7a99e119ede3663028d5c51c211419a361f3fc14efa765fcfac9a5"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f22a227d2da0.pdf",
+      "bytes": 203016,
+      "sha256": "9e5cdf07cf471b680617b3043bf157c0c443f865c5b7ad9b51fbd23f5470a66c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f27d44ed57d3.pdf",
+      "bytes": 97148,
+      "sha256": "fc8397eb045fceded6b17d5f7ea3ead4c85aa800645b43121dd26e37135683af"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f44a8ec2cc75.pdf",
+      "bytes": 44458,
+      "sha256": "bc9a4ecab10ad2b2704184be0b67ac2561fa58335ae7de08cea7aa8a7eb6dad2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f488c848aae9.pdf",
+      "bytes": 185661,
+      "sha256": "e07ef7f3b348eca7716ab69d4d64ccac09522221ab778e1d52c4fbeebf1277e8"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f5298c448054.pdf",
+      "bytes": 58227,
+      "sha256": "fff0c02739a36ecb264f9b77d8d25a32f4a9a7d9e8d1efc5dbb8dc6526199ceb"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f5799d5aabdc.pdf",
+      "bytes": 58671,
+      "sha256": "7f014bb12691f55b68a99d1fb382385292d6485e9596b7f5e563f664cfeff070"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f64cda67d1c6.pdf",
+      "bytes": 58421,
+      "sha256": "339c18b33928c3da9864cac4521a871285785daebc542883b2b2482f505a9195"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f7b34e98b05e.pdf",
+      "bytes": 93036,
+      "sha256": "a503ce16e028314924ac9471661776c9caf64941aa8533c8e57c1d64a02996f6"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f87b668260e4.pdf",
+      "bytes": 181574,
+      "sha256": "3558bd1969e49b3ce293a7178a10d48b7894ee58f1af986cef043801779c2352"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/f9c77ec2b4e5.pdf",
+      "bytes": 103671,
+      "sha256": "0b9f2806b8c87476f33a4b467cd734b41c24a088e8b7ac3da4265386633ee3e2"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fa22750a439c.pdf",
+      "bytes": 93926,
+      "sha256": "a35abe742cfe87f25208f41f62fbc9c3e58ed78d80226af8737cb30bd3a8ce2a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fa574f2def30.pdf",
+      "bytes": 97099,
+      "sha256": "5848b22d739a6300b194994a35a7a3b2459b69f8f72bb94543b2862420bd331c"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fb4280da2bef.pdf",
+      "bytes": 98266,
+      "sha256": "285bb5311892ed598b1aa5d146676a585459e7bbc573a15f636018fa9ce7da6a"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fc8c23f30172.pdf",
+      "bytes": 92343,
+      "sha256": "375df4da5039de5e362157b087059145ff5f665b42238857e58edcd0929e1d2f"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fcfc9a549dd1.pdf",
+      "bytes": 103418,
+      "sha256": "9a044e16d79354a7489eb63964450a286208ceae6997eef7a77364bee1740dad"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fd226a1e3eb1.pdf",
+      "bytes": 85076,
+      "sha256": "951d629f7e43b375046176f6f5ff817990f164ede473a995ca7ebbb56b1158e3"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fe1fc860a37d.pdf",
+      "bytes": 74097,
+      "sha256": "fa6bf2cdec2b3b718275c43ffb71b48fc637fa34008c625e48b2740210b2210d"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/fec9dc22ca02.pdf",
+      "bytes": 77261,
+      "sha256": "063256fe94ba243f3dbc9d008a9a33d5edc4ff72e5828301cf18fbec2e4edaaa"
+    },
+    {
+      "path": "corpus/09-ppa/ppa_pdf/ff4753bc9213.pdf",
+      "bytes": 56646,
+      "sha256": "155c5cbf049d5eb3d393b1d7b3056ed98ecb01b75a34274d6f145a702106e215"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/dampier_2026_june.pdf",
+      "bytes": 132507,
+      "sha256": "f426ade87a766b321e00f19ce53d72de1a5741d544cce37d7a996da91f724cc4"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/klein-stats-july-2025-to-june-2026-ytd.pdf",
+      "bytes": 132507,
+      "sha256": "f426ade87a766b321e00f19ce53d72de1a5741d544cce37d7a996da91f724cc4"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_20260728_cargo-stats-by-destination_origin-(1).pdf",
+      "bytes": 39424,
+      "sha256": "e2d7268c43d8c768c8f9ae06d03a1c8729c3ebb0753d9284323938d9f540a7d0"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_20260728_cargo_stats_by_destination_origin_1_pdf.pdf",
+      "bytes": 39424,
+      "sha256": "e2d7268c43d8c768c8f9ae06d03a1c8729c3ebb0753d9284323938d9f540a7d0"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin-december.pdf",
+      "bytes": 39416,
+      "sha256": "e1dfd200104cbbe52ebfe6c5f0caf88351cba43918c55968b25dec4c98129a01"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin-february2026.pdf",
+      "bytes": 39069,
+      "sha256": "6c07ddd4c083a68a1d7f51f9f1ed0ef8783e90ccb15132bfafa897d945de5c42"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin-july.pdf",
+      "bytes": 39986,
+      "sha256": "5805ab53be2be3c6bb189d2fa39776dfaccef8bf71e0c385c42e83a704812f0c"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin-november-2024.pdf",
+      "bytes": 38135,
+      "sha256": "ee59f6ef466418350ee88b55c7bd23004c9f06311795a73e5115c20fa1b69fe2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin-october.pdf",
+      "bytes": 39271,
+      "sha256": "111f4a422a1b501fc684467f14d6536d0dddf5807901803585c8779c1ff90cbe"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin.pdf",
+      "bytes": 41120,
+      "sha256": "f6277b6024ac25759b958193b442b812aea216fcf43a6f6232d2ba0f3d701cd7"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_1.pdf",
+      "bytes": 40328,
+      "sha256": "0c6f590cfe0eb8cc9b6fd6dd1e3dfb6e38ecf463280b33abf229aa33b3a4942a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_april.pdf",
+      "bytes": 38599,
+      "sha256": "07cf4bd1b13091c6c97fe6acf72313ec0b4625ee0a8f499cfd2fe1d282253c26"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_april2026.pdf",
+      "bytes": 38841,
+      "sha256": "2c3e60f1d316992d82c4dab24cec83d18704f91de430463a0e6f6c94f6ed9530"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_aug2025.pdf",
+      "bytes": 41053,
+      "sha256": "eab23295b81dbbb32e7e33d14e108e4e1971ceb720a425dcb46ef9107538985a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_august.pdf",
+      "bytes": 40281,
+      "sha256": "f9fa134d514ef929e55df0701395f167dc21140be9a15b7b892133a43120b64e"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_december2025.pdf",
+      "bytes": 39101,
+      "sha256": "981fc9921ab8a0c2556d57fd7b58c6875188bf40eedc767be66e63f6d9c72cc2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_february2025.pdf",
+      "bytes": 38313,
+      "sha256": "0ac517210e964ab7c3bf552678924f9d6aa087cc3672b89670a58a892f042f94"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_january2026.pdf",
+      "bytes": 38463,
+      "sha256": "1b48c9084b5012db4e81310725e71822776fdb8ae1b6838cca06d315d018ea07"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_july2025.pdf",
+      "bytes": 39864,
+      "sha256": "62ec76663afe9d7ade635e5ecca2f11253176f8150d16ec657a4bd1538eef995"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_july2026.pdf",
+      "bytes": 40708,
+      "sha256": "d878c38a8da245baa5c57f768a558a66c0786e728471c8910aa4c1c5bc845465"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_june.pdf",
+      "bytes": 39788,
+      "sha256": "1080156233af82f0a58c6af648d8f9e429d6e0737af15d72a509af7ce6b0067c"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_june2025.pdf",
+      "bytes": 39881,
+      "sha256": "8a2c1c93ae9aa8ebc9e7ab3fdb83abdc270fb7da720e28045b5de14a0d0e3ab2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_march2026.pdf",
+      "bytes": 39088,
+      "sha256": "7a8b6c1f269849fe7e2d78fdffaf1ccbef084a451fdf2890f76a49908d587090"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_may2025.pdf",
+      "bytes": 39172,
+      "sha256": "616def860e0ec4115205fce0636ced680fdccbe6a3da2a0c4709d94b407b3136"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_may2026.pdf",
+      "bytes": 40207,
+      "sha256": "092ba9c6230fe79cd1336752de30d8a861980775abf3e37d92dc04dd574dcd26"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_november-2025.pdf",
+      "bytes": 39698,
+      "sha256": "1f73118c0bf04c24c03698082d8512fbb081c30a024aaf17b064a605fc3bb306"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_october2025.pdf",
+      "bytes": 39288,
+      "sha256": "64577e4261e3d875dcf17cbc705d68abd1f029632ff98765d40a8c890e666a4d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_september.pdf",
+      "bytes": 40418,
+      "sha256": "1501bef8d2b3a2890344c00e83f13a27551ce9ee8aea6a699a07815ecce92347"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo-stats-by-destination_origin_september2025.pdf",
+      "bytes": 38927,
+      "sha256": "eb7d59d41b603270cef23eb54553a2bbd2e435bf14d987e5202913238e979fcc"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_1_pdf.pdf",
+      "bytes": 40328,
+      "sha256": "0c6f590cfe0eb8cc9b6fd6dd1e3dfb6e38ecf463280b33abf229aa33b3a4942a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_april2026_pdf.pdf",
+      "bytes": 38841,
+      "sha256": "2c3e60f1d316992d82c4dab24cec83d18704f91de430463a0e6f6c94f6ed9530"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_april_pdf.pdf",
+      "bytes": 38599,
+      "sha256": "07cf4bd1b13091c6c97fe6acf72313ec0b4625ee0a8f499cfd2fe1d282253c26"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_aug2025_pdf.pdf",
+      "bytes": 41053,
+      "sha256": "eab23295b81dbbb32e7e33d14e108e4e1971ceb720a425dcb46ef9107538985a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_august_pdf.pdf",
+      "bytes": 40281,
+      "sha256": "f9fa134d514ef929e55df0701395f167dc21140be9a15b7b892133a43120b64e"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_december2025_pdf.pdf",
+      "bytes": 39101,
+      "sha256": "981fc9921ab8a0c2556d57fd7b58c6875188bf40eedc767be66e63f6d9c72cc2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_december_pdf.pdf",
+      "bytes": 39416,
+      "sha256": "e1dfd200104cbbe52ebfe6c5f0caf88351cba43918c55968b25dec4c98129a01"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_february2025_pdf.pdf",
+      "bytes": 38313,
+      "sha256": "0ac517210e964ab7c3bf552678924f9d6aa087cc3672b89670a58a892f042f94"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_february2026_pdf.pdf",
+      "bytes": 39069,
+      "sha256": "6c07ddd4c083a68a1d7f51f9f1ed0ef8783e90ccb15132bfafa897d945de5c42"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_january2026_pdf.pdf",
+      "bytes": 38463,
+      "sha256": "1b48c9084b5012db4e81310725e71822776fdb8ae1b6838cca06d315d018ea07"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_july2025_pdf.pdf",
+      "bytes": 39864,
+      "sha256": "62ec76663afe9d7ade635e5ecca2f11253176f8150d16ec657a4bd1538eef995"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_july2026_pdf.pdf",
+      "bytes": 40708,
+      "sha256": "d878c38a8da245baa5c57f768a558a66c0786e728471c8910aa4c1c5bc845465"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_july_pdf.pdf",
+      "bytes": 39986,
+      "sha256": "5805ab53be2be3c6bb189d2fa39776dfaccef8bf71e0c385c42e83a704812f0c"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_june2025_pdf.pdf",
+      "bytes": 39881,
+      "sha256": "8a2c1c93ae9aa8ebc9e7ab3fdb83abdc270fb7da720e28045b5de14a0d0e3ab2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_june_pdf.pdf",
+      "bytes": 39788,
+      "sha256": "1080156233af82f0a58c6af648d8f9e429d6e0737af15d72a509af7ce6b0067c"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_march2026_pdf.pdf",
+      "bytes": 39088,
+      "sha256": "7a8b6c1f269849fe7e2d78fdffaf1ccbef084a451fdf2890f76a49908d587090"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_may2025_pdf.pdf",
+      "bytes": 39172,
+      "sha256": "616def860e0ec4115205fce0636ced680fdccbe6a3da2a0c4709d94b407b3136"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_may2026_pdf.pdf",
+      "bytes": 40207,
+      "sha256": "092ba9c6230fe79cd1336752de30d8a861980775abf3e37d92dc04dd574dcd26"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_november_2024_pdf.pdf",
+      "bytes": 38135,
+      "sha256": "ee59f6ef466418350ee88b55c7bd23004c9f06311795a73e5115c20fa1b69fe2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_november_2025_pdf.pdf",
+      "bytes": 39698,
+      "sha256": "1f73118c0bf04c24c03698082d8512fbb081c30a024aaf17b064a605fc3bb306"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_october2025_pdf.pdf",
+      "bytes": 39288,
+      "sha256": "64577e4261e3d875dcf17cbc705d68abd1f029632ff98765d40a8c890e666a4d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_october_pdf.pdf",
+      "bytes": 39271,
+      "sha256": "111f4a422a1b501fc684467f14d6536d0dddf5807901803585c8779c1ff90cbe"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_pdf.pdf",
+      "bytes": 41120,
+      "sha256": "f6277b6024ac25759b958193b442b812aea216fcf43a6f6232d2ba0f3d701cd7"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_september2025_pdf.pdf",
+      "bytes": 38927,
+      "sha256": "eb7d59d41b603270cef23eb54553a2bbd2e435bf14d987e5202913238e979fcc"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/live_ppa_cargo_stats_by_destination_origin_september_pdf.pdf",
+      "bytes": 40418,
+      "sha256": "1501bef8d2b3a2890344c00e83f13a27551ce9ee8aea6a699a07815ecce92347"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_2019_ph_oct_2019_cargo_stats_by_destination_origin_pdf.pdf",
+      "bytes": 57733,
+      "sha256": "c012d15c3d0f4dc1ef291dc3f02a5d50f1e512c708a61ed9913be8bd0a2377ac"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_12_pdf.pdf",
+      "bytes": 95010,
+      "sha256": "c8aee6ddcb9ccb7b608fb8d856bba1ff03c9228d659df3daa083209072357cb4"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_18_pdf.pdf",
+      "bytes": 95092,
+      "sha256": "eb4f322468d5b71e3028ef8cd3bd88456748fdb6c792178f2f94cffe5f479e50"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_6_pdf.pdf",
+      "bytes": 101104,
+      "sha256": "433bd269b149f928e12b5a1c66ff944f7112019d4ef297aea3d5db480e9b2627"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_7_pdf.pdf",
+      "bytes": 98763,
+      "sha256": "e69dc72874672e2004dd061dacb3a00397c1b53057fada8a7ad7f4a61e1c4794"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_9_pdf.pdf",
+      "bytes": 103671,
+      "sha256": "0b9f2806b8c87476f33a4b467cd734b41c24a088e8b7ac3da4265386633ee3e2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_august_2021_p.pdf",
+      "bytes": 95633,
+      "sha256": "22b93d55d3ae71868e5c182dd355e8497450da9165be3b046790b9cc87d79b53"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_march_2021_pd.pdf",
+      "bytes": 98471,
+      "sha256": "4edc8d0525e63f8e0160526dd2d21e3ffc79a6e80a07f9b40bb399b9843a5167"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_november_2020.pdf",
+      "bytes": 86531,
+      "sha256": "ee48dbf861b472ab959f1d4b168479711b4ecec388869a443d842e1f5d50ed8e"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_grt_and_dwt_statistics_by_commodity_type_october_2021_.pdf",
+      "bytes": 98266,
+      "sha256": "285bb5311892ed598b1aa5d146676a585459e7bbc573a15f636018fa9ce7da6a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_january_summary_pdf.pdf",
+      "bytes": 57970,
+      "sha256": "12e3192f68ba9d07d4c69f9f7b9897402a08a6587191b7d204b90566b6767b40"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_10_pdf.pdf",
+      "bytes": 42937,
+      "sha256": "09cce12877ae2576925a21031b42c021a7ab9be7a7e8b87a58cf183634925dd0"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_11_pdf.pdf",
+      "bytes": 58871,
+      "sha256": "0fef285d8c157499b4e20ee267b70a43d414a038b53abb0c554dc02beb42fcdc"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_5_pdf.pdf",
+      "bytes": 58227,
+      "sha256": "fff0c02739a36ecb264f9b77d8d25a32f4a9a7d9e8d1efc5dbb8dc6526199ceb"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_7_pdf.pdf",
+      "bytes": 59750,
+      "sha256": "911c8d66e1aed349890f60b4c2c75d85229cd8ab3332fe2b112f0dc314cb530d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_8_pdf.pdf",
+      "bytes": 59202,
+      "sha256": "48f208cd6becd6384662cfc9ad198c05c948f94b4a1b1ee8c44b90fa02b1a4d2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_april23_pdf.pdf",
+      "bytes": 59188,
+      "sha256": "386096a9463217649a81af1201ed7bd049d9ec9e600339b6d6d5c40b2ea96308"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_april_2016_pdf.pdf",
+      "bytes": 56174,
+      "sha256": "1242887dfbee3656860b2bc4656492c5b7a6b1171c8c7593b2e9cbe5b7fdd1fc"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_april_2017_pdf.pdf",
+      "bytes": 58448,
+      "sha256": "7690d7d3be574038541a8285f806347b1b31afa5de4a161cf67e5aef69463969"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_april_2018_pdf.pdf",
+      "bytes": 57542,
+      "sha256": "092c31f957550459a274f0f168c46102abd43ac81cfee918e3ef9c8be979887e"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_aug_2015_pdf.pdf",
+      "bytes": 57042,
+      "sha256": "6e2ab0babd1c3b3e26b1514c61691fb06cdc95704bd2c5b4ae2e857aa8106f0a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_august_16_pdf.pdf",
+      "bytes": 56201,
+      "sha256": "2841e4adc774dbc037a56919e8ee5b154e3ce2d6b14feddd3303c78432ac22f8"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_august_2017_pdf.pdf",
+      "bytes": 58947,
+      "sha256": "842528e633dbf0dee1b7ecbfe5a604261f3bd15ebf13d951c987f266f0bc3894"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_august_2018_pdf.pdf",
+      "bytes": 57194,
+      "sha256": "bb8d6eb0989661f49b9480fae39b43d0dcff1c795bc4ae52d44e72b49f8c86ba"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_august_2021_pdf.pdf",
+      "bytes": 58769,
+      "sha256": "3b29fa8f9202ff6ff5185cb0d579f34dca07563cb2bdc651b5200aa85f5e3b40"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_december_2016_pdf.pdf",
+      "bytes": 58021,
+      "sha256": "6d5bdea3a742072de5725f7de99806166a7b9172c4b33b21d75d286bda2ca7c0"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_december_2017_1_pdf.pdf",
+      "bytes": 58897,
+      "sha256": "71552040b79e23e11a1b3aab3e93a3e869d4e1048b5ef30e75feaf42d3e133d1"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_december_2020_pdf.pdf",
+      "bytes": 58913,
+      "sha256": "ab8e3b40dc6ca93179941ff5a81f22c53938fa9c82ee757589656c9c88faf44f"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_december_pdf.pdf",
+      "bytes": 74097,
+      "sha256": "fa6bf2cdec2b3b718275c43ffb71b48fc637fa34008c625e48b2740210b2210d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_feb_2016_pdf.pdf",
+      "bytes": 968285,
+      "sha256": "f7efba0fa227c1686e4c3f78ea416d47cb831a0403d0d65b24149cab937f3fa3"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_february_2021_pdf.pdf",
+      "bytes": 57656,
+      "sha256": "ab306a104d909371a344c84b324d98654452723a1fb08c252127829293469ceb"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_january_2017_pdf.pdf",
+      "bytes": 56729,
+      "sha256": "c67d8950706ce8b71d2f41a6b84a2f0115c34a10fdef110c055ee421e277e6f2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_january_2018_pdf.pdf",
+      "bytes": 59597,
+      "sha256": "bebd4dc77fa61b156936f2ce758567c5769e19979e2d21b0c27a8d2a1947d487"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_january_pdf.pdf",
+      "bytes": 74828,
+      "sha256": "16481b1073086cf44d24d5238d685ed7aa80a3fa9d9bda5afa7aca8739bd06ff"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_july_2016_pdf.pdf",
+      "bytes": 56783,
+      "sha256": "6bc5abddcca8ca2dfce71f5b444fcc8075115ec1314353d1bd1995653e79a6a8"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_july_2017_pdf.pdf",
+      "bytes": 60602,
+      "sha256": "b847b5b02a0b37bec292bff366cf85680dc396839646a7c57ca6f32ac0c7cb5a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_july_2018_pdf.pdf",
+      "bytes": 57225,
+      "sha256": "cb907d6633a572d26fd0ea531555a43e1e6854d17299c8d1640cf3d6ee2551d5"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_june_2016_pdf.pdf",
+      "bytes": 57145,
+      "sha256": "5532898925d598692c8422027a25ee4ab98d94d0a389970863568d75141b600e"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_june_2017_pdf.pdf",
+      "bytes": 60753,
+      "sha256": "ca5380b4124e0589cbf5ec5d77d0782b784668d84fc276bdb6956e2de9c607f7"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_june_2021_pdf.pdf",
+      "bytes": 58547,
+      "sha256": "cf3ff161507201365d50e7bdd842a17d458eb17fa959f033dbe22cd17b12a533"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_march_2016_pdf.pdf",
+      "bytes": 69987,
+      "sha256": "49cb56e021945f3797812e8bd8fd70cc28fc1307ad36cfd83675b42f25b5872b"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_march_2018_pdf.pdf",
+      "bytes": 57907,
+      "sha256": "8303b972e94ee4f846f8ec9ded344de6aaf48e060c1d7b45560913779fed8c10"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_may_2016_pdf.pdf",
+      "bytes": 56323,
+      "sha256": "f2c334ae93bc3f55a3f5c6dc7a4a4faffe9792d9c9685ad0a1c1d718270b99ba"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_may_2017_pdf.pdf",
+      "bytes": 56646,
+      "sha256": "155c5cbf049d5eb3d393b1d7b3056ed98ecb01b75a34274d6f145a702106e215"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_may_2018_pdf.pdf",
+      "bytes": 57895,
+      "sha256": "fea28659cdab20f6281243e966cf4bc99166fd56df89cea556beab4fedd80191"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_may_2021_pdf.pdf",
+      "bytes": 59352,
+      "sha256": "223bb3136e6f4b605cc554914522a2006fc4e38b0697ecaaf4336fcc34501254"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_nov_2016_pdf.pdf",
+      "bytes": 57446,
+      "sha256": "8cf791a3371bf22dfdb962d548fc037ae7ad02b2177a35826f80ca8b00d876af"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_november_2018_2_pdf.pdf",
+      "bytes": 57341,
+      "sha256": "34fc47a5e52dc5d6a81f4d8694ede4df5b5dcdb86b51140468e81b78a7c4ce75"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_november_2020_pdf.pdf",
+      "bytes": 56692,
+      "sha256": "1424ebd72ac276fb0d02a9cdfaf5c71f5e0e4a77d9d46658fa4aaf6b4fedb7f4"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_november_pdf.pdf",
+      "bytes": 74911,
+      "sha256": "691a2e3e2a14f8696e3c187f62f50f2f44de5a72b416bd3029c07990199db64f"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_october_2016_pdf.pdf",
+      "bytes": 55998,
+      "sha256": "62495779ed129b8a5b3ff024b63094af3c943474f41f1aaafc118fe5cfbd48d9"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_october_2018_pdf.pdf",
+      "bytes": 58161,
+      "sha256": "acd4759d1969bfbcf99c6a742693821de3c9df259b01506d4f53574d677e2134"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_october_2020_pdf.pdf",
+      "bytes": 58140,
+      "sha256": "d55b076770067365ed6c492f78a22100826dc2b40a5757012d0f71ed91910936"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_october_2021_pdf.pdf",
+      "bytes": 60513,
+      "sha256": "3ec2e95a73bac9cf55a4dafde32e9db1d10c4cd2460173918a89f89c20555af6"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_october_pdf.pdf",
+      "bytes": 73011,
+      "sha256": "02f894019dc2a742c2124b06d61f1317cd6946eaee784c7a4940207f44b68701"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_pdf.pdf",
+      "bytes": 57439,
+      "sha256": "5bca0f1cf42620013c931b3d3ff3653bca050de85e3ff131b2cab228e937aa59"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_september_2016_pdf.pdf",
+      "bytes": 58420,
+      "sha256": "240be8bb992031033ec852bc432648efebadfc0030bdf89d7b2f1539668011a5"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_september_2018_pdf.pdf",
+      "bytes": 60002,
+      "sha256": "661b8aee4ced9c4db3fa64c40db9e865c98b2dd1c626ef228c01f35a8823f275"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_september_2021_pdf.pdf",
+      "bytes": 58278,
+      "sha256": "cee8f02ffc43c609a7bfee3b393c06967fc58fc72293d1319e275b7b6be06ed3"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_origin_september_pdf.pdf",
+      "bytes": 72665,
+      "sha256": "d0e02194b4c7fc5738dd834212207f9b09bfd5e3516dcfcd443eee7665afcd76"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_summary_april_2015_pdf.pdf",
+      "bytes": 46590,
+      "sha256": "bcce15707e998e66c6c6c2399a2f145735133cb48429a9959e366cb1759944d2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_summary_february_2015_pdf.pdf",
+      "bytes": 44458,
+      "sha256": "bc9a4ecab10ad2b2704184be0b67ac2561fa58335ae7de08cea7aa8a7eb6dad2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_summary_january_2015_pdf.pdf",
+      "bytes": 44216,
+      "sha256": "a7a1d809f8f4d824db45d081cfc13458487233867cad250e8d86bd2cbd98bbac"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_cargo_stats_by_destination_summary_june_2015_1_pdf.pdf",
+      "bytes": 44169,
+      "sha256": "15e44a2212c72a8a7e3bde6ee5548001abda86a15dee7cbfd711b575bb8c80c1"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_klein_stats_july_2024_to_june_2025_ytd_pdf.pdf",
+      "bytes": 78804,
+      "sha256": "697229b3d1079282035b6dc25e93fcb2e0722b1dfbd70c9679dd38397707e1e9"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_klein_stats_july_2025_to_june_2026_ytd_pdf.pdf",
+      "bytes": 132507,
+      "sha256": "f426ade87a766b321e00f19ce53d72de1a5741d544cce37d7a996da91f724cc4"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20160311103028_dampier_1st_quarter_201516_pdf.pdf",
+      "bytes": 19794,
+      "sha256": "f3451c78510296867e5433a2b6de26c65948393376094074a4b106365db7ef04"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20160311103036_cargo_stats_ytd_dampier_second_quarter_2015_16_pdf.pdf",
+      "bytes": 22556,
+      "sha256": "d0fdab033ec960567634dfacab9c70c6068dea24b6a82bf02a2f4bc4ba5d36de"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20160311103040_201415_cargo_stats_ytd_dampier_pdf.pdf",
+      "bytes": 28107,
+      "sha256": "f9445d532dea8ecdd0a1c591ea4d5752049912461273552258bb781a3df6ec27"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20160311103142_cargo_stats_2013_14_fy_stats_aspx.pdf",
+      "bytes": 39348,
+      "sha256": "529c956e2a388cc4114716ac46d65670b5e949b3dfd14356602a877feb31200b"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20170308022755_dampier_stats_pdf.pdf",
+      "bytes": 19451,
+      "sha256": "c3eda5eb4e7b99f3804d3a05c5df735dd9a1d63ed6447c8727afd358194acf5e"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403120935_2002_03_cargo_statistics_pdf.pdf",
+      "bytes": 25937,
+      "sha256": "cfeb94325e1753326400e8d6f94c02734ed626de9d41303db73caa9efec2676d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403120944_2003_04_cargo_statistics_pdf.pdf",
+      "bytes": 25078,
+      "sha256": "2165c2c3c0fd0014bec9b4c42d477dfa3c07dd047c70a5193b06fe775d288f9b"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403120953_2004_05_cargo_statistics_pdf.pdf",
+      "bytes": 25086,
+      "sha256": "1782d40829cd9c6f5dc4174107a6b4364e112e8bf899633b8cfa6863edd10776"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403120958_2005_06_cargo_statistics_pdf.pdf",
+      "bytes": 26988,
+      "sha256": "4e9e116c8a86795d5c8f1c1dcf32ac0bf13aa94eeffb401fed5f10bec5bf4b80"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121007_2006_07_cargo_statistics_pdf.pdf",
+      "bytes": 11822,
+      "sha256": "7722b2f6fd853d4f2fd9f500ebb09c345c742f98a2bdc25694dd02028215ab89"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121016_2007_08_cargo_statistics_pdf.pdf",
+      "bytes": 29187,
+      "sha256": "54895a8f4eac0bce07666a677463ac7a2d93a1a68ee074845b874e64bfd6b481"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121022_2008_09_cargo_statistics_pdf.pdf",
+      "bytes": 18075,
+      "sha256": "8a378fb8445d2e0a901c9e48832acd31fa9bcc77bac5a89f5774a162ff5a10b0"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121030_2009_10_cargo_statistics_pdf.pdf",
+      "bytes": 24090,
+      "sha256": "9261b2f9c86e02fcc0b0d18e393bec08493e2f401ce2b906671bc1476c75a7b5"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121041_2010_11_cargo_statistics_pdf.pdf",
+      "bytes": 24302,
+      "sha256": "430b15937c2555e0aed735798b4506fab23e6fd2ad206ebcb47c6795bdceca1a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121049_2011_12_cargo_statistics_pdf.pdf",
+      "bytes": 28823,
+      "sha256": "54f0c44087c07cb3cc5f4f9dc98788d0f07b2ac41c1c3a503a8eaca84120f8f8"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121055_2012_13_cargo_statistics_pdf.pdf",
+      "bytes": 31110,
+      "sha256": "9157721c839829122beeda1e347b3586b9bd3a43e8cf45d8b786d9674ab5b3b9"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121117_port_of_dampier_2014_15_pdf.pdf",
+      "bytes": 21414,
+      "sha256": "8fba199cfcdc30e27dddb588306ac8e1b604ebf9ba1b2155fe9518679dfe61fc"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121121_port_of_dampier_2015_16_pdf.pdf",
+      "bytes": 29597,
+      "sha256": "1dd25137c6963062ba5afbcb603b6ee3b6eb10e706c943cd72bda11c9528fa3a"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121126_port_of_dampier_2016_17_figures_pdf.pdf",
+      "bytes": 21374,
+      "sha256": "5bdbcaed9095cfc8bb56d9d930dd7f452412f0789a63ab806ff4fd84bc33478c"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403121131_port_of_dampier_2017_18_pdf.pdf",
+      "bytes": 20885,
+      "sha256": "59305bbf06b3a6210d5b40093f6cc915664f13cad0d102fd24872536f36de4b4"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200403131105_appendix_1_figures_ed2012_000575_pdf.pdf",
+      "bytes": 16784338,
+      "sha256": "0cee962c425b6352d31d776ae0694e9ffed97341d39bbbae86fa149ce0db470d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200407234129_cargo_stats_by_destination_origin_july_1_pdf.pdf",
+      "bytes": 56376,
+      "sha256": "181c53d4e453268cea438915d9df7972ef0be00bcc43d507c55fcb43069aaf11"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200407234650_cargo_stats_by_destination_origin_september_2017_pdf.pdf",
+      "bytes": 58443,
+      "sha256": "0377eff549d790016e00e76e24f67b00afc2aaf765080cfecdb7b4287e6cc6a8"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200407234720_cargo_stats_by_destination_origin_october_2017_1_pdf.pdf",
+      "bytes": 61990,
+      "sha256": "3cc70d7a22f1a1f6831a11961ffd595637d55c80da2ce14ba81d17e2fd42f5b2"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200408002200_cargo_grt_and_dwt_statistics_by_commodity_type_july_2019_pdf.pdf",
+      "bytes": 79725,
+      "sha256": "5ccf381f845265c7abb1b4500f55727c2bafa6b0ea5c32e692e3495e71f08a3d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200408002707_cargo_grt_and_dwt_statistics_by_commodity_type_september_201.pdf",
+      "bytes": 80527,
+      "sha256": "f942d0e7a4c1ba26b40354297743b3cac29d1cadca2dc46b6d05c3f019e06d2b"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20200408002715_cargo_grt_and_dwt_statistics_by_commodity_type_october_2017_.pdf",
+      "bytes": 82503,
+      "sha256": "2759176b0c14979f1a4a804fe15d7c9f9dff436db19aa322123aebe4ce7e0324"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20210319170840_port_of_dampier_ytd_july_2020_dec_2020_pdf.pdf",
+      "bytes": 34722,
+      "sha256": "fc5d933c1dd8cbee79ceb2e82131a4a990f8a90c9c803f6845ebf30618243c91"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20220317031346_klein_visit_stats_jul_2020_to_jun_2021_pdf.pdf",
+      "bytes": 184470,
+      "sha256": "50612512574a994824285fd7ca4a18e26e50e858e8fa77e3a5e29d02e1c2b6a8"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20220319135631_cargo_grt_and_dwt_statistics_by_commodity_type_june_2021_pdf.pdf",
+      "bytes": 101803,
+      "sha256": "29037a72071917b585e15ad8b3e9eb6657dac451b697827814ac0bc73f7b33b3"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20230424041036_klein_visit_stats_march_2023_pdf.pdf",
+      "bytes": 59643,
+      "sha256": "a4bcd63597403279c3bfcd00ff853d579558fb192e75e623c18d60128048b885"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20230608060008_klein_visit_stats_april_2023_pdf.pdf",
+      "bytes": 183004,
+      "sha256": "94eb09a6df8d1645f71c4a9a652584645084a3c3f2023f8cb9ddfe5071efc19e"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20230804125447_klein_june_2023_ytd_pdf.pdf",
+      "bytes": 59880,
+      "sha256": "39c0fb23772a10bc3cf5185e3db35a6d95b47238a77cc858e7a6d1584be08a93"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20231209000650_klein_visit_stats_july_to_october_2023_ytd_pdf.pdf",
+      "bytes": 59121,
+      "sha256": "d60fb4deb914eb2ed45283df7845fdc7676df1a1af92ed5849e970c11aff5c35"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20231215045408_klein_visit_stats_july_to_august_2023_pdf.pdf",
+      "bytes": 59005,
+      "sha256": "305a84e0e4a49cc62f1d1dd36e48e935c2569934e866bae9f370f3e6c0807695"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20240705112110_klein_visit_stats_may_2024_pdf.pdf",
+      "bytes": 183870,
+      "sha256": "efb60ec61a1a4a901a80cace55aa5da95bfa5f435fb0bab67a22a74663ec8931"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_dampier_wayback_20251207005234_klein_stats_july_2024_to_june_2025_ytd_pdf.pdf",
+      "bytes": 78804,
+      "sha256": "697229b3d1079282035b6dc25e93fcb2e0722b1dfbd70c9679dd38397707e1e9"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_feb_2020_cargo_stats_by_destination_origin_pdf.pdf",
+      "bytes": 181384,
+      "sha256": "58eacfaa428c31aed924bf47ab33a79bba0a0e9f0dc5fe2f779d58c071f445ed"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_february_2017_cargo_stats_by_destination_origin_pdf.pdf",
+      "bytes": 55944,
+      "sha256": "4b7d91f9ecc09641cf6e1fe413b2d1e15b7cdf6f3edade1c40907cd19ea24816"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_hedland_commodity_latest.pdf",
+      "bytes": 151804,
+      "sha256": "a3e358aae6885f30af845cf01fbeeca924e5c3d044281b0a42a2d63ec7dfd7a6"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_hedland_dest_latest.pdf",
+      "bytes": 42937,
+      "sha256": "09cce12877ae2576925a21031b42c021a7ab9be7a7e8b87a58cf183634925dd0"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/ppa_live_test.pdf",
+      "bytes": 42937,
+      "sha256": "09cce12877ae2576925a21031b42c021a7ab9be7a7e8b87a58cf183634925dd0"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/test_dampier.pdf",
+      "bytes": 78804,
+      "sha256": "697229b3d1079282035b6dc25e93fcb2e0722b1dfbd70c9679dd38397707e1e9"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/test_download.pdf",
+      "bytes": 4596,
+      "sha256": "c68febd4f1e7b7da32b4da8f9b1632af826d6a0df2416e0b0544c74e74f1d32d"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/test_download_direct.pdf",
+      "bytes": 78804,
+      "sha256": "697229b3d1079282035b6dc25e93fcb2e0722b1dfbd70c9679dd38397707e1e9"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/test_july2026.pdf",
+      "bytes": 40708,
+      "sha256": "d878c38a8da245baa5c57f768a558a66c0786e728471c8910aa4c1c5bc845465"
+    },
+    {
+      "path": "corpus/09-ppa/_root_pdfs/tmp_test.pdf",
+      "bytes": 39986,
+      "sha256": "5805ab53be2be3c6bb189d2fa39776dfaccef8bf71e0c385c42e83a704812f0c"
+    }
+  ]
+}

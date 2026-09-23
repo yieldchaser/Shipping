@@ -17,8 +17,10 @@ import time
 from pathlib import Path
 import requests
 
+from source_archive_utils_v2 import drewry_ais_root
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
-OUT_DIR = REPO_ROOT / "scripts" / "drewry_ais_pdfs"
+OUT_DIR = drewry_ais_root()
 MANIFEST_FILE = REPO_ROOT / "reports" / "drewry" / "ais_manifest.csv"
 
 BASE = "https://www.drewry.co.uk/AcuCustom/Sitename/DAM"

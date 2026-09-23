@@ -35,7 +35,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "data" / "commodities" / "australia_ppa_iron_ore.csv"
-CACHE = ROOT / "scratch" / "ppa_pdf"
+CACHE = ROOT / "corpus" / "09-ppa" / "ppa_pdf"
 MANIFEST_FILE = ROOT / "data" / "provenance" / "manifest.json"
 
 BASE = "https://www.pilbaraports.com.au"

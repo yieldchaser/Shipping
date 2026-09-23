@@ -50,6 +50,24 @@ def breakwave_root(category: str) -> Path:
     return GROUP_ROOTS["breakwave"] / leaf
 
 
+def drewry_ais_root() -> Path:
+    """Canonical root for Drewry AIS weekly PDFs.
+
+    Moved out of scripts/drewry_ais_pdfs/, which was gitignored and therefore
+    one scratch-cleanup away from destroying the whole AIS archive.
+    """
+    return GROUP_ROOTS["drewry"] / "ais"
+
+
+def ppa_root() -> Path:
+    """Canonical root for Pilbara Ports Authority throughput PDFs.
+
+    Moved out of scratch/ppa_pdf/ (and loose scratch/*.pdf), because all of
+    scratch/ is gitignored and conventionally disposable.
+    """
+    return GROUP_ROOTS["ppa"]
+
+
 ALLOWED_ATTRS = {
     "a": {"href"},
     "img": {"src", "alt", "loading"},
