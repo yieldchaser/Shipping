@@ -93,22 +93,46 @@ def subject_of(sent: str, val_pos: int):
 
 
 def extract_rates(text: str):
+    """Rates, with the two defects pass 2's verification exposed removed:
+
+    1. STRAY NOISE - a value of 1 was emitted from an 'IN A NUTSHELL' sentence.
+       Real T/C rates are thousands per day, so a floor removes narrative
+       integers without touching a genuine rate.
+    2. DUPLICATE VALUES - 153,488 appeared BOTH as LR2 and as MR on one page.
+       The same value cannot belong to two routes, so when a value repeats
+       within a document the row carrying a label wins; if both carry one, the
+       first is kept and the later is dropped as a re-mention.
+    """
+    MIN_RATE = 100          # real T/C rates are thousands/day
     rows = []
     for s in sentences(text):
         if not VAL.search(s):
             continue
         hits = [(m.start(), m.group(1)) for m in VAL.finditer(s)]
-        # pick the value first, then label THAT value - never label one value
-        # from a term that sits near a different one
         raw_pos, raw = hits[0]
+        try:
+            v = int(raw.replace(",", ""))
+        except ValueError:
+            continue
+        if v < MIN_RATE:
+            continue            # narrative integer, not a rate
         subj = subject_of(s, raw_pos)
         chg = CHG.findall(s)
         rows.append({"subject": subj,
-                     "value": int(raw.replace(",", "")),
+                     "value": v,
                      "value_raw": raw,
                      "change_kday": float(chg[0]) if chg else None,
                      "sentence": s[:200]})
-    return rows
+
+    # de-duplicate by value: prefer the labelled row, keep the first occurrence
+    by_val = {}
+    for r in rows:
+        k = r["value"]
+        if k not in by_val:
+            by_val[k] = r
+        elif by_val[k]["subject"] is None and r["subject"] is not None:
+            by_val[k] = r        # a labelled row supersedes an unlabelled one
+    return list(by_val.values())
 
 
 def process(pdf: Path):
