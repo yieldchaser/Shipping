@@ -5,6 +5,43 @@
 `data/extracted/intermodal_tc_rates_backfill.csv` (252 rows, 2021-07-06 to
 2026-09-18, all 20 fields populated) LOOKS complete. It is not CORRECT.
 
+## UPDATE - the column-aware fix verified on ONE page but does NOT generalise
+
+`scripts/extract/publishers/intermodal_columnaware.py` reproduces the rendered
+page EXACTLY on 2025 W10 (12/12 values), fixing the wrong-column defect. But its
+FULL run over 252 docs shows it does not generalise:
+
+    files=252   all-20-fields=0   failed=0
+    2022 W26: 0/20    2023 W27: 14/20    2024 W29: 14/20
+    2025 W31: 14/20   2026 W34:  0/20    2026-09:  0/20
+
+Two structural reasons, both worth understanding before trying again:
+
+1. THE 20-FIELD SET SPANS MORE THAN ONE TABLE. Page 2's TC Rates table carries
+   only 12 rows - VLCC/Suezmax/Aframax/Panamax/MR/Handy, each at 1yr and 3yr.
+   The remaining fields (capesize, supramax, handysize, handy_tanker variants)
+   are DRY BULK and live in a different table, probably on another page. So 12/20
+   is the ceiling from page 2 alone, and the docs showing 14/20 carry extras
+   elsewhere. The inherited 20 RATE_FIELDS were written against flattened .md
+   text where the source table was not visible, so nothing in them records WHICH
+   table each field came from.
+
+2. THE NEWEST LAYOUT DOES NOT MATCH AT ALL - 2026 returns 0/20, and so does
+   2022 W26. Either the labels changed (as Panamax already did: the page says
+   '75k', the inherited pattern said '76k') or the table moved off page 2. This
+   must be established by RENDERING a 2026 document and reading it, not guessed.
+
+## What the next attempt must do
+- Render a 2026 document and a 2022 document and read the actual tables.
+- Map EACH of the 20 fields to the table and page it comes from, per era.
+- Then re-run the control test: agreement with the 49 known-good rows must reach
+  ~100% on the overlap before ANY of the 2021-2024 history is trusted.
+- Do not report a field count as success. 14/20 with 6 fields silently absent is
+  indistinguishable from 0/20 in a summary - only the control test distinguishes
+  a partial extraction from a correct one.
+
+---
+
 ## What the control test found
 The backfill overlaps the pre-existing `data/derived/intermodal_tc_rates.csv`
 (49 rows) over 2025-03-07 to 2026-09-11. Both were produced by the same 20
