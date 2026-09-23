@@ -1,0 +1,247 @@
+{
+  "generated_for": "2026-09-23",
+  "stale_threshold_days": 200,
+  "liveness_rule": "A publisher whose newest content is older than the threshold cannot extend a series forward; it belongs in corpus/archive/ and must not enter the live pipeline.",
+  "groups": [
+    {
+      "group": "01-brokers",
+      "description": "Shipbroker weekly market reports",
+      "publisher": "18 firms",
+      "cadence": "weekly",
+      "notes": "Live broker tree; PDFs are the ground truth, _digests/ holds normalised .md",
+      "path": "corpus/01-brokers",
+      "files": 3050,
+      "by_extension": {
+        ".pdf": 2730,
+        ".md": 318,
+        ".csv": 1,
+        ".json": 1
+      },
+      "newest_content_date": "2026-09-19",
+      "age_days": 4,
+      "status": "LIVE",
+      "in_live_processing_path": true,
+      "members": [
+        "advanced_shipping",
+        "affinity",
+        "agora",
+        "banchero_costa",
+        "carriers",
+        "clarksons",
+        "fearnleys",
+        "fearnleys-md",
+        "intermodal",
+        "ism",
+        "lion",
+        "ssy",
+        "star_asia",
+        "xclusiv"
+      ]
+    },
+    {
+      "group": "02-hellenic",
+      "description": "Hellenic Shipping News streams",
+      "publisher": "Hellenic Shipping News",
+      "cadence": "daily-weekly",
+      "notes": "iron_ore (MMi, daily), demolition, shipbuilding, dry/tanker charter, vessel valuations + chart assets",
+      "path": "corpus/02-hellenic",
+      "files": 14130,
+      "by_extension": {
+        ".jpg": 6587,
+        ".pdf": 3969,
+        ".html": 3204,
+        ".png": 326,
+        ".jpeg": 44
+      },
+      "newest_content_date": "2026-09-21",
+      "age_days": 2,
+      "status": "LIVE",
+      "in_live_processing_path": true
+    },
+    {
+      "group": "03-breakwave",
+      "description": "Breakwave Advisors research",
+      "publisher": "Breakwave Advisors",
+      "cadence": "weekly-daily",
+      "notes": "insights/ (near-daily html + charts), drybulk/ + tankers/ (weekly PDF)",
+      "path": "corpus/03-breakwave",
+      "files": 18566,
+      "by_extension": {
+        ".png": 10065,
+        ".jpg": 4604,
+        ".html": 3221,
+        ".jpeg": 365,
+        ".pdf": 302,
+        ".webp": 7,
+        ".htm": 2
+      },
+      "newest_content_date": "2026-09-21",
+      "age_days": 2,
+      "status": "LIVE",
+      "in_live_processing_path": true
+    },
+    {
+      "group": "04-poten",
+      "description": "Poten & Partners tanker opinions",
+      "publisher": "Poten & Partners",
+      "cadence": "weekly",
+      "notes": "pdfs paired with .md opinions, 2005-2026",
+      "path": "corpus/04-poten",
+      "files": 2183,
+      "by_extension": {
+        ".md": 1096,
+        ".pdf": 1087
+      },
+      "newest_content_date": "2030-01-01",
+      "age_days": -1196,
+      "status": "LIVE",
+      "in_live_processing_path": true
+    },
+    {
+      "group": "05-seabrokers",
+      "description": "Seabrokers offshore market intelligence",
+      "publisher": "Seabrokers",
+      "cadence": "monthly",
+      "notes": "97 monthly PDFs (ground truth) + working .md extraction",
+      "path": "corpus/05-seabrokers",
+      "files": 194,
+      "by_extension": {
+        ".md": 97,
+        ".pdf": 97
+      },
+      "newest_content_date": "2026-08-01",
+      "age_days": 53,
+      "status": "LIVE",
+      "in_live_processing_path": true
+    },
+    {
+      "group": "06-drewry",
+      "description": "Drewry maritime intelligence",
+      "publisher": "Drewry",
+      "cadence": "weekly",
+      "notes": "ais/ (AIS weekly PDFs), opinions/ (sector briefs)",
+      "path": "corpus/06-drewry",
+      "files": 829,
+      "by_extension": {
+        ".md": 548,
+        ".pdf": 276,
+        ".json": 3,
+        ".csv": 2
+      },
+      "newest_content_date": "2026-09-20",
+      "age_days": 3,
+      "status": "LIVE",
+      "in_live_processing_path": true
+    },
+    {
+      "group": "07-signal",
+      "description": "The Signal Group maritime intelligence",
+      "publisher": "Signal Ocean/Maritime",
+      "cadence": "weekly",
+      "notes": "monitors/, newsroom/, images/, html/, pdfs/",
+      "path": "corpus/07-signal",
+      "files": 2400,
+      "by_extension": {
+        ".png": 1073,
+        ".html": 511,
+        ".md": 449,
+        ".avif": 308,
+        ".jpeg": 49,
+        ".pdf": 9,
+        ".csv": 1
+      },
+      "newest_content_date": "2026-09-21",
+      "age_days": 2,
+      "status": "LIVE",
+      "in_live_processing_path": true
+    },
+    {
+      "group": "08-baltic",
+      "description": "Baltic Exchange fixture archive",
+      "publisher": "Baltic Exchange",
+      "cadence": "weekly",
+      "notes": "HTML fixture circulars by category/year",
+      "path": "corpus/08-baltic",
+      "files": 3038,
+      "by_extension": {
+        ".html": 3038
+      },
+      "newest_content_date": "2026-09-18",
+      "age_days": 5,
+      "status": "LIVE",
+      "in_live_processing_path": true
+    },
+    {
+      "group": "09-ppa",
+      "description": "Pilbara Ports Authority throughput",
+      "publisher": "Pilbara Ports Authority",
+      "cadence": "monthly",
+      "notes": "Port Hedland + Dampier cargo statistics",
+      "path": "corpus/09-ppa",
+      "files": 493,
+      "by_extension": {
+        ".pdf": 493
+      },
+      "newest_content_date": null,
+      "age_days": null,
+      "status": "UNKNOWN",
+      "in_live_processing_path": false
+    },
+    {
+      "group": "11-other",
+      "description": "Other / regional sources",
+      "publisher": "various",
+      "cadence": "varies",
+      "notes": "Panama Canal advisories and anything not fitting a named group",
+      "path": "corpus/11-other",
+      "files": 1,
+      "by_extension": {
+        ".md": 1
+      },
+      "newest_content_date": null,
+      "age_days": null,
+      "status": "UNKNOWN",
+      "in_live_processing_path": false
+    },
+    {
+      "group": "archive",
+      "description": "ARCHIVED - publishers that stopped",
+      "publisher": "various",
+      "cadence": "stopped",
+      "notes": "Historical/knowledge-extraction use ONLY; must not enter the live pipeline",
+      "path": "corpus/archive",
+      "files": 727,
+      "by_extension": {
+        ".pdf": 726,
+        ".md": 1
+      },
+      "newest_content_date": "2026-09-12",
+      "age_days": 11,
+      "status": "ARCHIVED",
+      "in_live_processing_path": false,
+      "members": [
+        "allied",
+        "anchor",
+        "gibson",
+        "golden_destiny",
+        "other"
+      ]
+    },
+    {
+      "group": "books",
+      "description": "Foundational maritime economics literature",
+      "publisher": "various",
+      "cadence": "static",
+      "notes": "12 textbooks, reference corpus for the knowledge base",
+      "path": "corpus/books",
+      "files": 12,
+      "by_extension": {
+        ".pdf": 12
+      },
+      "newest_content_date": null,
+      "age_days": null,
+      "status": "UNKNOWN",
+      "in_live_processing_path": false
+    }
+  ]
+}
