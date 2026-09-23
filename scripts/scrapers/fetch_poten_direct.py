@@ -44,7 +44,7 @@ Changes in v2 (Decision 1.3 - Poten capture fix; Baltic v4 is the template):
     limitation without the gate-marker phrasing. No downstream consumer
     reads `completeness` (scraper-local only).
   - --refetch mode: deterministic re-fetch of the known set (URLs embedded
-    in reports/poten/**/*.md frontmatter), in-place per-file rewrite;
+    in corpus/04-poten/**/*.md frontmatter), in-place per-file rewrite;
     article-URL misses fall back to the Tanker Opinions listing pages
     (title/author/date/dek per item), same gate. No checkpoint writes in
     refetch mode (data/derived/poten_checkpoint.json stays untouched).
@@ -67,7 +67,7 @@ import requests
 from bs4 import BeautifulSoup
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-OUTPUT_DIR = REPO_ROOT / "reports" / "poten"
+OUTPUT_DIR = REPO_ROOT / "corpus" / "04-poten"
 PDF_DIR = OUTPUT_DIR / "pdfs"
 CHECKPOINT_FILE = REPO_ROOT / "data" / "derived" / "poten_checkpoint.json"
 

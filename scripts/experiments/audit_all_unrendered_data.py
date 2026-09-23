@@ -65,14 +65,14 @@ report_dirs = [
     'corpus/01-brokers/fearnleys-md',
     'corpus/05-seabrokers',
     'corpus/06-drewry/opinions',
-    'reports/poten',
+    'corpus/04-poten',
     'reports/hellenic',
     'corpus/01-brokers/_digests',
     'corpus/11-other/panama-canal',
     'reports/breakwave',
     'corpus/03-breakwave/tankers',
     'corpus/03-breakwave/drybulk',
-    'reports/baltic',
+    'corpus/08-baltic',
     'data/reports/fearnleys',
 ]
 

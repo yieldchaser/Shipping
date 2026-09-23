@@ -4,7 +4,7 @@ Poten & Partners Historical Tanker Opinions PDF Downloader & Indexer.
 Crawls Poten Tanker Opinions archives across pages (up to 111 pages, ~1,100+ weekly reports),
 resolves HubSpot form gates via direct API submission or WordPress uploads,
 and downloads the authentic raw unprocessed PDFs to disk under:
-  reports/poten/pdfs/{year}/{clean_filename}.pdf
+  corpus/04-poten/pdfs/{year}/{clean_filename}.pdf
 Maintains full manifest & checkpoint in data/derived/poten_tanker_opinions_index.json.
 """
 
@@ -30,7 +30,7 @@ if sys.platform == "win32":
         pass
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-PDF_BASE_DIR = REPO_ROOT / "reports" / "poten" / "pdfs"
+PDF_BASE_DIR = REPO_ROOT / "corpus" / "04-poten" / "pdfs"
 INDEX_FILE = REPO_ROOT / "data" / "derived" / "poten_tanker_opinions_index.json"
 
 BASE_URL_WHATS_NEW = "https://www.poten.com/whats-new-2/tanker-opinions/"
@@ -227,7 +227,7 @@ def process_page(page_num, use_category=False, delay=1.5):
             filename += ".pdf"
             
         year = extract_year(filename, title)
-        local_rel_path = f"reports/poten/pdfs/{year}/{filename}"
+        local_rel_path = f"corpus/04-poten/pdfs/{year}/{filename}"
         local_abs_path = REPO_ROOT / local_rel_path
 
         size = download_pdf(pdf_url, local_abs_path)
@@ -247,7 +247,7 @@ def process_page(page_num, use_category=False, delay=1.5):
             }
             new_downloads += 1
 
-            # Generate markdown metadata file under reports/poten/{year}/{slug}.md
+            # Generate markdown metadata file under corpus/04-poten/{year}/{slug}.md
             date_str = f"{year}-01-01"
             m_dt = re.search(r'(\d{1,2})\s+([A-Za-z]+)\s+(20\d\d)', filename)
             if m_dt:
@@ -256,7 +256,7 @@ def process_page(page_num, use_category=False, delay=1.5):
                 except Exception:
                     pass
             slug = re.sub(r'[^a-zA-Z0-9_\-]+', '_', f"poten_{date_str}_{title}"[:80]).strip('_').lower() + ".md"
-            md_target = REPO_ROOT / "reports" / "poten" / year / slug
+            md_target = REPO_ROOT / "corpus" / "04-poten" / year / slug
             if not md_target.exists():
                 md_target.parent.mkdir(parents=True, exist_ok=True)
                 dek_m = re.search(r'\b(\d{1,2}\s+[A-Za-z]+\s+20\d\d\s*:[^<\n\r]+)', art_html or "")
@@ -280,7 +280,7 @@ tags: ["crude_tankers", "ton_miles", "rerouting", "vlcc", "suezmax", "aframax"]
 **Published Date**: {date_str}  
 **Source URL**: [{art_url}]({art_url})  
 **Full PDF Report**: [{filename}]({pdf_url})  
-**Coverage**: Full PDF archived locally under reports/poten/pdfs/{year}/{filename}.
+**Coverage**: Full PDF archived locally under corpus/04-poten/pdfs/{year}/{filename}.
 
 ---
 

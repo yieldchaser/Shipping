@@ -1,7 +1,7 @@
 """
 download_signal_images.py
-Downloads all 1,423 unique embedded images from The Signal Group reports into reports/signal/images/
-and localizes image references across all markdown files in reports/signal/monitors/ and reports/signal/newsroom/.
+Downloads all 1,423 unique embedded images from The Signal Group reports into corpus/07-signal/images/
+and localizes image references across all markdown files in corpus/07-signal/monitors/ and corpus/07-signal/newsroom/.
 """
 
 import os
@@ -10,7 +10,7 @@ import urllib.request
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BASE_DIR = "reports/signal"
+BASE_DIR = "corpus/07-signal"
 IMG_DIR = os.path.join(BASE_DIR, "images")
 os.makedirs(IMG_DIR, exist_ok=True)
 

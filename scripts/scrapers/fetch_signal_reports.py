@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import pandas as pd
 
-BASE_DIR = "reports/signal"
+BASE_DIR = "corpus/07-signal"
 DIR_MONITORS = os.path.join(BASE_DIR, "monitors")
 DIR_NEWSROOM = os.path.join(BASE_DIR, "newsroom")
 DIR_NEWSLETTERS = os.path.join(BASE_DIR, "newsletters")

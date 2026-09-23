@@ -448,7 +448,7 @@ def safe_stem(stem):
     already created the dot-stripped parent, so the document fails outright and
     is written to the checkpoint as an error. Three files in the 9,912-row
     inventory end that way, e.g.
-    reports/poten/pdfs/2016/Weekly-Opinion-19-August-2016-That-Sinking-Feeling-....pdf
+    corpus/04-poten/pdfs/2016/Weekly-Opinion-19-August-2016-That-Sinking-Feeling-....pdf
     (4 trailing dots -> FileNotFoundError at 0.6 s, no artefacts; the same file
     with one trailing dot extracts fine). Stripping trailing dots and spaces,
     and replacing characters Windows forbids, is what the OS was going to do

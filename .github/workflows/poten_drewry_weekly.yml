@@ -68,7 +68,7 @@ jobs:
 
       - name: Commit & Push New Data
         run: |
-          git add data/indices/ data/clarksons/ corpus/06-drewry/opinions/ reports/poten/ data/derived/ || true
+          git add data/indices/ data/clarksons/ corpus/06-drewry/opinions/ corpus/04-poten/ data/derived/ || true
           if git diff --staged --quiet; then
             echo "No new Poten or Drewry data changes."
             exit 0

@@ -76,8 +76,8 @@ RECENT_REPORTS = 6  # Breakwave reports per sector (6 ≈ 6-8 weeks of analysis)
 BALTIC_REPORTS = 2  # Baltic Exchange weekly reports (2 weeks of vessel-class detail)
 
 # Baltic Exchange weekly HTML report directories
-BALTIC_DRY_DIR = ROOT / "reports" / "baltic" / "dry"
-BALTIC_TANKER_DIR = ROOT / "reports" / "baltic" / "tanker"
+BALTIC_DRY_DIR = ROOT / "corpus" / "08-baltic" / "dry"
+BALTIC_TANKER_DIR = ROOT / "corpus" / "08-baltic" / "tanker"
 
 
 OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY", "").strip()

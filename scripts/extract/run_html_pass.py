@@ -32,9 +32,9 @@ REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 
 ROOTS = {
     "hellenic": ["reports/hellenic"],
-    "signal": ["reports/signal/html"],
+    "signal": ["corpus/07-signal/html"],
     "breakwave": ["reports/breakwave"],
-    "baltic": ["reports/baltic"],
+    "baltic": ["corpus/08-baltic"],
 }
 
 # Junk rules per audit: (substring, reason)
@@ -97,6 +97,10 @@ def extract(html):
             self._row = None
             self._cell = None
             self._skip = 0
+            # False = cell text wins over a wrapping <p>/<h1> (original
+            # behaviour). True = also let the wrapping content tag see it;
+            # used only by the zero-block fallback below.
+            self.cell_blocks = False
 
         def handle_starttag(self, tag, attrs):
             a = dict(attrs)
@@ -127,7 +131,9 @@ def extract(html):
                     self.blocks.append({"kind": tag, "text": txt})
                 self._cap = None
             elif tag == "title" and self._cap == "title":
-                self.title = re.sub(r"\s+", " ", "".join(self._buf)).strip()
+                _t = re.sub(r"\s+", " ", "".join(self._buf)).strip()
+                if _t:
+                    self.title = _t
                 self._cap = None
             elif tag in ("td", "th") and self._cell is not None:
                 self._row.append(re.sub(r"\s+", " ", "".join(self._cell)).strip())
@@ -144,11 +150,28 @@ def extract(html):
                 return
             if self._cell is not None:
                 self._cell.append(data)
-            elif self._cap:
+                if not self.cell_blocks:
+                    return
+            if self._cap:
                 self._buf.append(data)
 
     p = P()
     p.feed(strip_tags(html))
+    if not p.blocks:
+        # Fallback (2026-09-23): content wrapped in <h1>/<p> that sits inside
+        # a layout-table cell never becomes a block, because the cell buffer
+        # takes precedence in handle_data. Signal's monthly newsletters are
+        # table-based emails, so all 10 of them extracted to 0 blocks and an
+        # empty title while their HTML holds 2,472-5,529 chars of visible
+        # text. Measured over the 9,061 non-junk HTML documents: exactly 10
+        # are affected and no other document changes, because this branch
+        # only runs when the normal pass produced nothing at all.
+        q = P()
+        q.cell_blocks = True
+        q.feed(strip_tags(html))
+        p.blocks = q.blocks
+        if not p.title:
+            p.title = q.title
     return p.title, p.blocks, p.tables, p.images
 
 

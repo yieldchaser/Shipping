@@ -38,9 +38,9 @@ Changes in v3:
   - Other tabs: opens custom dropdown, cycles through each year option
 
 Output:
-  reports/baltic/{category}/{year}/{file}.html
-  reports/baltic/{category}/{year}/assets/{asset}.{ext}
-  reports/baltic/{category}/pdfs/{asset}.pdf
+  corpus/08-baltic/{category}/{year}/{file}.html
+  corpus/08-baltic/{category}/{year}/assets/{asset}.{ext}
+  corpus/08-baltic/{category}/pdfs/{asset}.pdf
 
 Install:
     pip install selenium requests beautifulsoup4 lxml
@@ -1019,7 +1019,7 @@ def refetch_year(year: int, categories: list, dry_run: bool,
                  headed: bool, overwrite: bool):
     """Deterministic re-fetch of URLs embedded in existing snapshots (v4).
 
-    No Selenium discovery: enumerates reports/baltic/<cat>/<year>/*.html,
+    No Selenium discovery: enumerates corpus/08-baltic/<cat>/<year>/*.html,
     extracts each snapshot's canonical live URL, and re-archives it through
     process_report (static-first + Selenium fallback + quarantine gate).
     Static failures are retried once with a shared Selenium driver so the
@@ -1146,7 +1146,7 @@ def main():
     p.add_argument("--dry-run",  action="store_true")
     p.add_argument("--year",     type=int, default=None)
     p.add_argument("--refetch-year", type=int, default=None,
-                   help="Re-fetch URLs embedded in existing reports/baltic/*/<year> "
+                   help="Re-fetch URLs embedded in existing corpus/08-baltic/*/<year> "
                         "snapshots (no Selenium discovery). Combine with --overwrite "
                         "to rewrite stubs.")
     p.add_argument("--headed",   action="store_true")

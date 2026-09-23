@@ -78,8 +78,6 @@ data/extracted/
 corpus/**/*.pdf
 corpus/09-ppa/_root_pdfs/
 corpus/06-drewry/ais/
-reports/shipbrokers/**/*.pdf
-reports/poten/**/*.pdf
 # Temporary scraper / API citation caches
 **/.cache_*
 data/.cache_citations/
