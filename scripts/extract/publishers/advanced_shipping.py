@@ -49,11 +49,18 @@ def parse_number(tok: str):
     s = s.lstrip("+-")
     if not re.fullmatch(r"[\d.,]+", s):
         return None
-    # decimal comma: a comma followed by 1-2 digits at the end
-    if re.search(r",\d{1,2}$", s):
+    # EUROPEAN CONVENTION, verified on this publisher's axis labels:
+    #   60.000 means 60000   (period = thousands separator)
+    #   34,5   means 34.5    (comma  = decimal separator)
+    # Reading "60.000" as 60.0 is a 1000x error, and it is the plausible
+    # direction (a $/day rate looks reasonable at either magnitude).
+    if "," in s:
+        # comma present -> comma is the decimal point, periods are thousands
         s = s.replace(".", "").replace(",", ".")
-    else:
-        s = s.replace(",", "")
+    elif re.match(r"^\d{1,3}(\.\d{3})+$", s):
+        # periods grouping in threes -> thousands separators, not a decimal point
+        s = s.replace(".", "")
+    # otherwise leave as-is (a single period is a real decimal point)
     try:
         v = float(s)
     except ValueError:
@@ -99,9 +106,12 @@ def _ticks(pg):
             continue
         for ln in blk["lines"]:
             t = "".join(s["text"] for s in ln["spans"]).strip()
-            if re.fullmatch(r"\d{1,4}", t):
-                x0, y0, x1, y1 = ln["bbox"]
-                out.append({"x": x0, "y": (y0 + y1) / 2, "v": float(t)})
+            # accepts "0", "300", "60.000", "1.234.567" - see parse_number
+            if re.fullmatch(r"\d{1,3}(?:[.,]\d{3})*|[\d.,]+", t) and t[0].isdigit():
+                v = parse_number(t)
+                if v is not None:
+                    x0, y0, x1, y1 = ln["bbox"]
+                    out.append({"x": x0, "y": (y0 + y1) / 2, "v": v})
     return out
 
 
@@ -181,9 +191,15 @@ def extract_chart_series(pdf: Path, page_no: int):
             if len(g) < 3:
                 continue
             scale = _fit_scale(g)
-            # 0.05 was too tight for real ticks (font baseline jitter);
-            # a wrong scale would show up as error on the order of the step.
-            if not scale or scale["max_err"] > 0.6:
+            if not scale:
+                continue
+            # The gate must be RELATIVE. Axes on this publisher span 0-300 $/ldt
+            # and 0-60.000 $/day in the same document, so an absolute tolerance
+            # rejects the large-scale charts (error 5.9 on a 60,000 axis is
+            # 0.01%) while passing junk. Compare error against the tick span.
+            span = max(t["v"] for t in g) - min(t["v"] for t in g)
+            scale["rel_err"] = (scale["max_err"] / span) if span else 1.0
+            if scale["rel_err"] > 0.005:
                 continue
             y_lo = min(t["y"] for t in g)
             y_hi = max(t["y"] for t in g)
