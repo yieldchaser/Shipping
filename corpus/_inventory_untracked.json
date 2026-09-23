@@ -2,8 +2,8 @@
   "groups": [
     {
       "path": "corpus/01-brokers",
-      "untracked_files": 2730,
-      "untracked_bytes": 2151510650
+      "untracked_files": 2746,
+      "untracked_bytes": 2159932857
     },
     {
       "path": "corpus/02-hellenic",
@@ -52,8 +52,8 @@
     },
     {
       "path": "corpus/archive",
-      "untracked_files": 726,
-      "untracked_bytes": 729230799
+      "untracked_files": 724,
+      "untracked_bytes": 726359817
     },
     {
       "path": "corpus/books",
@@ -62,6 +62,41 @@
     }
   ],
   "entries": [
+    {
+      "path": "corpus/01-brokers/_digests/bancosta/2026/bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026.md",
+      "bytes": 57201,
+      "sha256": "ac14e65fc87f39afa81258a6818a5d4eabd79426acf48e6327511f02a7b851a0"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/general_broker/2026/general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38.md",
+      "bytes": 8794,
+      "sha256": "38dd508c3fb22c7bc05e18c3b735b962e6c22e6df867da3c9b6229da1a857f61"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/intermodal/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.md",
+      "bytes": 24877,
+      "sha256": "4e601def38516c2ee72f4a529d4d40aa65879ce0887eb27e4a324101b2597e65"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026.md",
+      "bytes": 3160,
+      "sha256": "6190a3158d855ad517156447ba72ddd388eacc422c3667d70cdd2ab4c20bcb3d"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/ssy/2026/ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026.md",
+      "bytes": 3146,
+      "sha256": "443c1a95cf9e4b42996349a6279d3483a5300e6a7eef2caa935fa2bd4ede8831"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.md",
+      "bytes": 33135,
+      "sha256": "075db67d15ecf575a932b2c0c12e5d1b6ad87eba5a21af70d876e8df9e7f209c"
+    },
+    {
+      "path": "corpus/01-brokers/_digests/xclusiv/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.md",
+      "bytes": 23344,
+      "sha256": "7c05b75507cbd6a0b676da9625d1099eca4700ed5b6fd46cf3a856d79ac8f612"
+    },
     {
       "path": "corpus/01-brokers/advanced_shipping/2021/advanced_shipping_2021_W26_ADVANCED-MARKET-REPORT-WEEK-26.pdf",
       "bytes": 1101849,
@@ -4838,6 +4873,11 @@
       "sha256": "4900cdf6ae9866de8dd3b85338e330c830fac21e3d923976f3fb299f7d65d281"
     },
     {
+      "path": "corpus/01-brokers/bancosta/2026/bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026.pdf",
+      "bytes": 1045908,
+      "sha256": "9a74ca876decbce3ddf24b3c93750fcce021120acf744cee31cb6c40ec30fcf0"
+    },
+    {
       "path": "corpus/01-brokers/carriers/2021/carriers_2021_19-Nov-2021.pdf",
       "bytes": 224644,
       "sha256": "667574f5287500c38ce277ccfa783fa34b18a6cf4c0b69e55205782b1a63712f"
@@ -6818,6 +6858,11 @@
       "sha256": "be439fe4d53a3fe58f5cbf0b7d5de410c07be6ed171c5fe62785c058eab761cb"
     },
     {
+      "path": "corpus/01-brokers/general_broker/2026/general_broker_21_09_2026_carriers_sales_purchase_market_report_week_38.pdf",
+      "bytes": 325604,
+      "sha256": "6f405160ba4ae0dfb295a2337c1554fffe7a12868fa350707f75d389073223ab"
+    },
+    {
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W26_Intermodal-Report-Week-26-2021.pdf",
       "bytes": 1819519,
       "sha256": "74d668d29d02a4cd0bf051175c2bb711faa3f5bc19077555b23ac5a43a721153"
@@ -6941,6 +6986,11 @@
       "path": "corpus/01-brokers/intermodal/2021/intermodal_2021_W51_Intermodal-Report-Week-51-2021.pdf",
       "bytes": 1836685,
       "sha256": "45a7d78317623370a4d9ad56c8fed0d4ddf2cd7ab9bdfd8f2592e06f38d984b1"
+    },
+    {
+      "path": "corpus/01-brokers/intermodal/2022/allied_2022_W04_Intermodal-Report-Week-04-2022.pdf",
+      "bytes": 1903748,
+      "sha256": "781e563ad1452203344b74bdd6945dd117078b47b0d63c5feaa40c0c2026b56c"
     },
     {
       "path": "corpus/01-brokers/intermodal/2022/intermodal_2022_W01_Intermodal-Report-Week-01-2022.pdf",
@@ -8066,6 +8116,11 @@
       "path": "corpus/01-brokers/intermodal/2026/intermodal_2026_W35_Intermodal-Report-Week-35-2026.pdf",
       "bytes": 1303992,
       "sha256": "b8aa1f99b128b721d495e407c814c0f2a883910ad7c4931eb3bec42c6a3be04b"
+    },
+    {
+      "path": "corpus/01-brokers/intermodal/2026/intermodal_23_09_2026_intermodal_weekly_market_report_week_38_2026_broker_s_insi.pdf",
+      "bytes": 1165846,
+      "sha256": "e3842d0293c58098ef9a5ef5ecf03bb746acee0e6f9bd8adf32c69ff83566aec"
     },
     {
       "path": "corpus/01-brokers/ism/2023/ism_2023_ISM_2023_holiday_special.pdf",
@@ -11433,6 +11488,16 @@
       "sha256": "b0843a1838173795daaec41ad5f87454372ace97f7af11995a657708c206c1dd"
     },
     {
+      "path": "corpus/01-brokers/ssy/2026/ssy_21_09_2026_ssy_atlantic_capesize_index_21_september_2026.pdf",
+      "bytes": 189318,
+      "sha256": "56eeac6b494a6f6958f9d67090079c1ca294983dda0cc58185cde999db07473a"
+    },
+    {
+      "path": "corpus/01-brokers/ssy/2026/ssy_21_09_2026_ssy_pacific_capesize_index_21_september_2026.pdf",
+      "bytes": 189143,
+      "sha256": "3bc60455a95b5bcbbb49a074cb86e6f9acab02ea7bea1871b044aa5e9d8961db"
+    },
+    {
       "path": "corpus/01-brokers/star_asia/2022/star_asia_2022_W29_Market-report-Week-29.pdf",
       "bytes": 1912006,
       "sha256": "b3ad4ead9aca2d85e7d440db94c20272b620dcb898cb60e814be34fb41340f9e"
@@ -11761,6 +11826,11 @@
       "path": "corpus/01-brokers/star_asia/2023/star_asia_2023_W52_Market-report-Week-52_compressed.pdf",
       "bytes": 1745024,
       "sha256": "26583de853a096ae296a5f2869cd4a1992b8057b79dedf6082da8082b8a0016a"
+    },
+    {
+      "path": "corpus/01-brokers/star_asia/2024/other_2024_Market-report-Week-19.pdf",
+      "bytes": 967234,
+      "sha256": "fab5ef9a3be8ec0b88c35ec63d1a1f9ec8eb6d6d217ec75c2655fa2f64de65aa"
     },
     {
       "path": "corpus/01-brokers/star_asia/2024/star_asia_2024_W01_Market-report-Week-1.pdf",
@@ -12386,6 +12456,11 @@
       "path": "corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf",
       "bytes": 686078,
       "sha256": "2e0c320351bd2c68fcca1d33d6959e44482f117113924a9e93bf53b8e6117fce"
+    },
+    {
+      "path": "corpus/01-brokers/star_asia/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.pdf",
+      "bytes": 656620,
+      "sha256": "452212f4aa22aac105034f38ae5fd048aed262721ec883794e40c7a73b30a7ea"
     },
     {
       "path": "corpus/01-brokers/xclusiv/2021/xclusiv_2021_xclusiv_weekly_2021_07_26.pdf",
@@ -13711,6 +13786,11 @@
       "path": "corpus/01-brokers/xclusiv/2026/xclusiv_2026_xclusiv-2026_08_31.pdf",
       "bytes": 1746032,
       "sha256": "0695555e199b8a01a549964167dea81fcc62101af03a97e6a7a9d4e3cda668d2"
+    },
+    {
+      "path": "corpus/01-brokers/xclusiv/2026/xclusiv_22_09_2026_xclusiv_shipbrokers_weekly_21st_september_2026.pdf",
+      "bytes": 1825129,
+      "sha256": "ef0c8095f666657b720f699dff28ea2e7849f0e4419cac64265ad61b0e91dd9f"
     },
     {
       "path": "corpus/02-hellenic/demolition/2021/assets/2021-08-23_gms-week-34-instability-continues_\u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae-6_f0c39bbfea36.jpg",
@@ -23313,11 +23393,6 @@
       "sha256": "0a45f4586a995d9922e510024b5a0078fbd86063e5a3cbcb83bcfe7195dee3b3"
     },
     {
-      "path": "corpus/archive/allied/2022/allied_2022_W04_Intermodal-Report-Week-04-2022.pdf",
-      "bytes": 1903748,
-      "sha256": "781e563ad1452203344b74bdd6945dd117078b47b0d63c5feaa40c0c2026b56c"
-    },
-    {
       "path": "corpus/archive/allied/2022/allied_2022_W05_ALLIED-SnP-Statistics-Week-05-06_02_2022.pdf",
       "bytes": 1794620,
       "sha256": "0858db359ee503a6d7a3636f47df272516fdd017f5e21d19749460f0eaa35aa3"
@@ -26646,11 +26721,6 @@
       "path": "corpus/archive/other/2023/other_2023_Weekly-Report-09.10.2023.pdf",
       "bytes": 1312884,
       "sha256": "f9c73c51d31b3d8e058ed6c4b2267bb51aa25437244575d0522c0cfa85466dc1"
-    },
-    {
-      "path": "corpus/archive/other/2024/other_2024_Market-report-Week-19.pdf",
-      "bytes": 967234,
-      "sha256": "fab5ef9a3be8ec0b88c35ec63d1a1f9ec8eb6d6d217ec75c2655fa2f64de65aa"
     },
     {
       "path": "corpus/books/The World\u2019s Key Industry History and Economics of International Shipping (G. Harlaftis, S. Tenold, J. Valdaliso) (z-lib.org).pdf",
