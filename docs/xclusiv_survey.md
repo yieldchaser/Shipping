@@ -49,3 +49,26 @@ the first colon.
   4. A first run appeared to fail (VLCC/Suezmax/Aframax all MISS) purely because
      the script took the newest file while the eye-values came from the April
      document. Always point the control at the SAME document that was rendered.
+
+## Fingerprint across all years (scratch/recon_source.py xclusiv)
+  2021: 23 docs   2022: 51   2023: 50   2024: 51   2025: 51   2026: 40   (266)
+
+  yr    pp  vec rast  E-dec E-thou US-thou   font sizes on the sampled doc
+  2021   6   6   0      0      8    1114      4.9 5.0 5.3 6.0 6.3 6.4
+  2022   7   5   0      1      6    1744      4.8 4.9 6.0 6.7 7.0 7.3
+  2023   7   5   0      0     10    1744      4.8 4.9 6.0 6.6 6.7 7.0
+  2024   9   4   1      0      4    1906      6.9 8.4 8.6 8.8 8.9 9.0
+  2025   9   4   1      0      0    2036      6.8 6.9 8.2 8.4 8.6 8.8
+  2026   9   5   1      0      7    2436      6.7 6.8 8.2 8.3 8.8 8.9
+
+  NUMBER CONVENTION: ISO/US. US-thousands tokens run 1100-2400 per document
+  while European thousands are 0-10 and European decimals 0-1. So do NOT reuse
+  the advanced_shipping European parser.
+  CHARTS: VECTOR on 4-6 pages per document (calibratable in principle). A raster
+  page appears from 2024 onward as well.
+  FONTS: the whole document is small (4.8-9.0pt), so any size-based discriminator
+  must be derived from the page rather than hardcoded - the lesson from SSY,
+  where a fixed 9.5pt threshold dropped an entire table.
+  CAVEAT on the size column: the first entry is a spurious huge value (e.g.
+  1114.9, 906.9, 2436.7) - a text artefact of that magnitude, not a real font.
+  Treat it as a parsing artefact to investigate, not as a font size.
