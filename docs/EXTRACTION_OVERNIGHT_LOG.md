@@ -944,8 +944,9 @@ tokens to the orphan lists for only +52 long values, i.e. it floods the diagnost
 noise. The orphan list is the loss detector, so it stays conservative; the confirmation metric above
 is the one that was made precise.
 
-Changed: `scripts/extract/extract_all.py` only (+36/-4) on branch `auto/extract-fixes-2026-09-23`
-(created off the current `auto/extract-fixes-2026-09-22`, so the previous fixes stay underneath).
+Changed: `scripts/extract/extract_all.py` only (+40/-4), commit `aa3ba0543` on branch
+`auto/extract-fixes-2026-09-23` (created off the current `auto/extract-fixes-2026-09-22`, so the
+previous fixes stay underneath).
 Committing to a branch does not change the working tree, so the fix already applies to any document
 extracted from now on.
 
