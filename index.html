@@ -14385,7 +14385,7 @@ html.auth-locked body > *:not(#authGateModal) {
                   <th style="padding:6px 8px;text-align:right;">Avg Age</th>
                   <th style="padding:6px 8px;text-align:right;">Orderbook (Ships)</th>
                   <th style="padding:6px 8px;text-align:right;color:#e3b341;font-weight:700;">Orderbook (% Fleet)</th>
-                  <th style="padding:6px 8px;text-align:center;">Deliveries (26 / 27 / 28 / 29+)</th>
+                  <th id="fleetDelivHeader" style="padding:6px 8px;text-align:center;">Deliveries (4-yr schedule)</th>
                   <th style="padding:6px 8px;text-align:right;">20+ Yr Overage</th>
                   <th style="padding:6px 8px;text-align:right;">Scrubber (%)</th>
                 </tr>
@@ -33864,13 +33864,19 @@ function renderFearnleysSnpTable() {
         return true;
       });
 
+      // Header years follow the data, not a hardcoded label: the schedule rolls
+      // forward every January, so a frozen header would mislabel the columns.
+      var _dh = document.getElementById('fleetDelivHeader');
+      if (_dh && classes[0] && classes[0].delivery_years) {
+        _dh.textContent = 'Deliveries (' + classes[0].delivery_years + ')';
+      }
       tbody.innerHTML = filtered.map(function(c) {
         var obPct = parseFloat(c.orderbook_to_fleet_pct) || 0;
         var obCol = obPct >= 30 ? '#f87171' : (obPct >= 15 ? '#e3b341' : '#3fb950');
-        var dels = (c.deliveries_2026_count || '0') + ' / ' +
-                   (c.deliveries_2027_count || '0') + ' / ' +
-                   (c.deliveries_2028_count || '0') + ' / ' +
-                   (c.deliveries_2029_plus_count || '0');
+        var dels = (c.deliveries_y0_count || '0') + ' / ' +
+                   (c.deliveries_y1_count || '0') + ' / ' +
+                   (c.deliveries_y2_count || '0') + ' / ' +
+                   (c.deliveries_y3plus_count || '0');
         return '<tr style="border-bottom:1px solid rgba(255,255,255,0.05);">' +
           '<td style="padding:6px 8px;font-weight:600;color:var(--text-bright);">' + (c.vessel_segment || '') + '</td>' +
           '<td style="padding:6px 8px;color:var(--text-muted);">' + (c.sector || '') + '</td>' +

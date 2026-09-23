@@ -349,7 +349,11 @@ def main():
         'capacity_sum', 'capacity_avg'
     ]
 
-    recent_cutoff = '2026-06-01'
+    # "Recent" must track the data, not a fixed calendar date: a hardcoded cutoff
+    # silently becomes a whole stale year once the new year starts. Anchor it to
+    # the newest date actually present in the feed.
+    _max_dt = pd.to_datetime(df['date'], errors='coerce').max()
+    recent_cutoff = (_max_dt - pd.Timedelta(days=120)).strftime('%Y-%m-%d')
     df_recent = df[df['date'] >= recent_cutoff].copy()
 
     chokepoints_data = []
@@ -363,9 +367,13 @@ def main():
         last_7_rows = sub_df.tail(7)
         last_30_rows = sub_df.tail(30)
 
-        df_2026 = sub_df[sub_df['year'] == 2026]
+        # "Current year" must be the year the data actually reaches, not a literal:
+        # a hardcoded 2026 keeps computing a 2026 average forever while the field
+        # is served as current_daily_avg / pct_diverted_vs_baseline.
+        _cur_year = int(pd.to_datetime(df['date'], errors='coerce').max().year)
+        df_cur = sub_df[sub_df['year'] == _cur_year]
         df_2023 = sub_df[sub_df['year'] == 2023]
-        avg_2026 = float(df_2026['n_total'].mean()) if not df_2026.empty else float(latest_row['n_total'])
+        avg_2026 = float(df_cur['n_total'].mean()) if not df_cur.empty else float(latest_row['n_total'])
         avg_2023 = float(df_2023['n_total'].mean()) if not df_2023.empty else meta['normal_baseline_daily']
 
         pct_diverted_vs_baseline = round(((avg_2023 - avg_2026) / avg_2023) * 100, 1) if avg_2023 > 0 else 0

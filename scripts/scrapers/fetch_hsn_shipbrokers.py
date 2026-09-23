@@ -13,6 +13,7 @@ import time
 import io
 import urllib.request
 import urllib.parse
+from datetime import datetime, timezone
 from pathlib import Path
 from bs4 import BeautifulSoup
 
@@ -156,8 +157,12 @@ def process_article(article_url, title, date_str):
         
         broker = identify_broker(title, extracted_text)
         
-        year_match = re.search(r'\b(202[0-6])\b', date_str + " " + title)
-        year = year_match.group(1) if year_match else "2026"
+        # Year goes into the OUTPUT PATH, so it must never be capped at a fixed
+        # range: a pattern like 202[0-6] silently falls back to the literal year
+        # once the cap is passed, filing new reports into the previous year's
+        # folder with no error. Accept any 20xx and fall back to the CURRENT year.
+        year_match = re.search(r'\b(20\d{2})\b', date_str + " " + title)
+        year = year_match.group(1) if year_match else str(datetime.now(timezone.utc).year)
         
         slug = re.sub(r'[^a-zA-Z0-9_\-]+', '_', f"{broker}_{date_str}_{title}"[:80]).strip('_').lower()
         
