@@ -35,12 +35,9 @@ sys.path.insert(0, str(REPO_ROOT / "scripts"))
 CORPUS_ROOT = REPO_ROOT / "corpus"
 OUT_PATH = CORPUS_ROOT / "_inventory_untracked.json"
 
-# (canonical path relative to repo root, where it was moved from)
-UNTRACKED_SOURCES = [
-    ("corpus/06-drewry/ais", "scripts/drewry_ais_pdfs"),
-    ("corpus/09-ppa/ppa_pdf", "scratch/ppa_pdf"),
-    ("corpus/09-ppa/_root_pdfs", "scratch/*.pdf (loose)"),
-]
+# NOTE: the inventory is derived from `git ls-files` at scan time (see scan()),
+# not from a hardcoded list - a hardcoded list silently misses a source that is
+# moved or added later, which is the exact failure this tool exists to prevent.
 
 
 def sha256_of(path: Path, chunk: int = 1 << 20) -> str:
