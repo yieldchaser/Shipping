@@ -35,9 +35,15 @@ if REPO_ROOT not in sys.path:
     sys.path.insert(0, REPO_ROOT)
 DATA_DIR = os.path.join(REPO_ROOT, "data")
 REPORTS_DIR = os.path.join(REPO_ROOT, "reports")
-SEABROKERS_REPORTS_DIR = os.path.join(REPORTS_DIR, "seabrokers")
-DATA_SEABROKERS_DIR = os.path.join(DATA_DIR, "reports", "seabrokers")
-PDF_STORAGE_DIR = os.path.join(DATA_SEABROKERS_DIR, "pdfs")
+CORPUS_DIR = os.path.join(REPO_ROOT, "corpus")
+# One canonical seabrokers tree. Previously this wrote the SAME .md twice - once
+# year-first under reports/seabrokers/ and once flat under data/reports/seabrokers/
+# - which is why two CRLF-variant copies of all 97 reports existed. The PDFs are
+# the ground truth; the .md is the anydoc working extraction that feeds the
+# dayrate CSV, so exactly one copy is written.
+SEABROKERS_REPORTS_DIR = os.path.join(CORPUS_DIR, "05-seabrokers")
+DATA_SEABROKERS_DIR = SEABROKERS_REPORTS_DIR  # alias: same tree, no second copy
+PDF_STORAGE_DIR = os.path.join(SEABROKERS_REPORTS_DIR, "pdfs")
 DERIVED_DIR = os.path.join(DATA_DIR, "derived")
 
 os.makedirs(SEABROKERS_REPORTS_DIR, exist_ok=True)
@@ -375,7 +381,6 @@ def download_and_digest_reports(entries: list, limit=None):
         year_dir = os.path.join(SEABROKERS_REPORTS_DIR, year_str)
         os.makedirs(year_dir, exist_ok=True)
         md_path_reports = os.path.join(year_dir, md_filename)
-        md_path_data = os.path.join(DATA_SEABROKERS_DIR, md_filename)
 
         print(f"  [{idx}/{len(to_process)}] Downloading & digesting: {entry['title']} ({date_str})...")
 
@@ -404,8 +409,6 @@ def download_and_digest_reports(entries: list, limit=None):
         try:
             md_content, rate_rows = convert_pdf_to_markdown(entry, pdf_path, pdf_bytes)
             with open(md_path_reports, "w", encoding="utf-8", newline="\n") as f:
-                f.write(md_content)
-            with open(md_path_data, "w", encoding="utf-8", newline="\n") as f:
                 f.write(md_content)
 
             entry["digested"] = True
