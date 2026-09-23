@@ -18,7 +18,7 @@ ROOTS = [
     "reports/shipbrokers",
     "reports/poten",
     "scripts/drewry_ais_pdfs",
-    "reports/drybulk",
+    "corpus/03-breakwave/drybulk",
     "reports/tankers",
     "reports/breakwave",
     "reports/hellenic",

@@ -13,7 +13,41 @@ from bs4 import FeatureNotFound
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+# Legacy archive root. Sources are being migrated to the canonical corpus/ tree
+# (see docs/data_layer_reorg_plan.md). Kept for sources not yet migrated.
 REPORTS_ROOT = REPO_ROOT / "reports"
+
+# Canonical corpus root for the to-be-processed data layer.
+CORPUS_ROOT = REPO_ROOT / "corpus"
+
+# One entry per top-level corpus group, so a source's location is defined in
+# exactly one place instead of being hand-built by each script. Archived
+# (no-longer-publishing) sources live under CORPUS_ROOT/archive and must not
+# appear in the live groups.
+GROUP_ROOTS = {
+    "brokers": CORPUS_ROOT / "01-brokers",
+    "hellenic": CORPUS_ROOT / "02-hellenic",
+    "breakwave": CORPUS_ROOT / "03-breakwave",
+    "poten": CORPUS_ROOT / "04-poten",
+    "seabrokers": CORPUS_ROOT / "05-seabrokers",
+    "drewry": CORPUS_ROOT / "06-drewry",
+    "signal": CORPUS_ROOT / "07-signal",
+    "baltic": CORPUS_ROOT / "08-baltic",
+    "ppa": CORPUS_ROOT / "09-ppa",
+    "cftc": CORPUS_ROOT / "10-cftc",
+    "archive": CORPUS_ROOT / "archive",
+    "books": CORPUS_ROOT / "books",
+}
+
+
+def breakwave_root(category: str) -> Path:
+    """Canonical Breakwave archive root for 'dry'/'drybulk' or 'tankers'.
+
+    Single definition used by both the downloader (writer) and the freshness
+    checker (reader); they previously built this path independently.
+    """
+    leaf = "drybulk" if category.lower().startswith("dry") else "tankers"
+    return GROUP_ROOTS["breakwave"] / leaf
 
 
 ALLOWED_ATTRS = {

@@ -64,7 +64,7 @@ GOLDEN = {
     },
     # Breakwave Dry Bulk 15 Sep 2026 (page 2): fundamentals table
     "breakwave_dry": {
-        "pdf": REPO + "reports/drybulk/2026/2026-09-15_Breakwave_Dry_Bulk.pdf",
+        "pdf": REPO + "corpus/03-breakwave/drybulk/2026/2026-09-15_Breakwave_Dry_Bulk.pdf",
         "page": 1,
         "table_cells": ["dry bulk fundamentals", "china steel production",
                         "iron ore", "ytd", "yoy", "bdi"],

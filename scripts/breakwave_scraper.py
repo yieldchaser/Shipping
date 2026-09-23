@@ -32,7 +32,7 @@ from urllib.parse import urljoin, urlparse
 from datetime import datetime
 from bs4 import BeautifulSoup, Tag
 
-from source_archive_utils_v2 import REPORTS_ROOT
+from source_archive_utils_v2 import REPORTS_ROOT, breakwave_root
 
 # ─────────────────────────── Config ──────────────────────────────────────────
 
@@ -375,10 +375,10 @@ def collect_links(category: str, year_filter: int | None = None) -> list[dict]:
 
 def run(category: str, dry_run: bool, year_filter: int | None):
     label = "Dry Bulk" if category == "dry" else "Tankers"
-    folder = "drybulk" if category == "dry" else "tankers"
+    folder_root = breakwave_root(category)
     print(f"\n{'═'*62}")
     print(f"  Breakwave {label} — {'DRY RUN' if dry_run else 'DOWNLOAD'}")
-    print(f"  Output root: {OUTPUT_ROOT / folder}")
+    print(f"  Output root: {folder_root}")
     print(f"{'═'*62}")
 
     links = collect_links(category, year_filter)
@@ -401,7 +401,7 @@ def run(category: str, dry_run: bool, year_filter: int | None):
 
         print(f"     PDF: {pdf_url[:80]}")
 
-        dest = OUTPUT_ROOT / folder / str(date.year) / make_filename(category, date, pdf_url)
+        dest = folder_root / str(date.year) / make_filename(category, date, pdf_url)
         success = download(pdf_url, dest, dry_run)
 
         if success:

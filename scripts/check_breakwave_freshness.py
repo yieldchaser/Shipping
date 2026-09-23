@@ -20,7 +20,7 @@ import sys
 from datetime import date, datetime
 from pathlib import Path
 
-from source_archive_utils_v2 import REPO_ROOT, REPORTS_ROOT
+from source_archive_utils_v2 import REPO_ROOT, REPORTS_ROOT, breakwave_root
 
 
 SIGNALS_PATH = REPO_ROOT / "knowledge" / "derived" / "signals.jsonl"
@@ -37,8 +37,7 @@ def _parse_iso_date(value: str | None) -> date | None:
 
 
 def latest_report_date(category: str) -> date | None:
-    folder = "drybulk" if category == "drybulk" else "tankers"
-    root = REPORTS_ROOT / folder
+    root = breakwave_root(category)
     latest: date | None = None
     for pdf in root.rglob("*.pdf"):
         match = _REPORT_RE.match(pdf.name)

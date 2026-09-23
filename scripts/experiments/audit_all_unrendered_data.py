@@ -71,7 +71,7 @@ report_dirs = [
     'reports/panama_canal',
     'reports/breakwave',
     'reports/tankers',
-    'reports/drybulk',
+    'corpus/03-breakwave/drybulk',
     'reports/baltic',
     'data/reports/fearnleys',
     'data/reports/seabrokers'
