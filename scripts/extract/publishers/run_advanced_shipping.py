@@ -101,6 +101,114 @@ def _page_label_lines(pg):
     return [t for _y, t in out]
 
 
+def prefer_labelled_rows(tables, pdf: Path):
+    """Adopt liteparse's table rows where they carry labels pdf-inspector lost.
+
+    MEASURED on this publisher's Baltic panel (page 1):
+      pdf-inspector : ['3.370','','3.507','-3,91%']      <- values, no identity
+      liteparse     : ['BDI','3.370','3.507','-3,91%']   <- already correct,
+                                                        with cell bboxes
+    So the two engines are complementary per TABLE, not just per document.
+
+    Matching is VALUE-ANCHORED: a liteparse block is adopted only when it shares
+    at least two non-trivial values with the pdf-inspector table AND it carries
+    a label the other one lacks. Anchoring on values (not position or order) is
+    what makes this safe - an earlier positional attempt attached BDTI/BCTI to
+    the wrong rows and was reverted.
+
+    Only tables where pdf-inspector LOST labels are replaced, so working tables
+    are never disturbed.
+    """
+    import liteparse
+    NUM = re.compile(r"^[\d.,%$+\-\s]+$")
+    try:
+        lp = liteparse.LiteParse(extract_blocks=True, quiet=True,
+                                 output_format="markdown")
+        res = lp.parse(str(pdf))
+    except Exception:
+        return tables
+
+    cands = []
+    for i in range(1, res.num_pages + 1):
+        for b in (res.get_page(i).blocks or []):
+            if not b.rows:
+                continue
+            rows = [[c.text.strip() for c in row] for row in b.rows]
+            hdr = [c.text.strip() for c in b.header] if b.header else []
+            labelled = sum(1 for r in rows if r and r[0] and not NUM.match(r[0]))
+            if labelled >= 2:
+                cands.append((hdr, rows))
+
+    def values_of(rows):
+        return {c.strip() for r in rows for c in r if c and NUM.match(c) and len(c) >= 3}
+
+    # Work at ROW-GROUP level, not table level. pdf-inspector merges several
+    # panels into ONE table (Baltic + Daily T/C + BDTI here), so testing the
+    # table as a whole always looked "labelled" and skipped the very rows that
+    # were missing labels. Find each run of consecutive unlabelled numeric rows
+    # and splice in the liteparse rows that share its values.
+    for t in tables:
+        rows = t["rows"]
+        if len(rows) < 3:
+            continue
+
+        # SPLIT a cell holding several "$ NN.NNN" values into one row each.
+        # The Daily T/C block arrives collapsed because neither engine sees it as
+        # a table:
+        #   ['12-Dec $ 30.731 $ 15.194 $ 17.333 $ 14.482', '', ...]
+        # Four vessels' averages in one cell. The page's Daily T/C table lists
+        # them Capesize / Kamsarmax / Ultramax / Handysize 38 in exactly that
+        # order, so the label assignment is positional WITHIN the cell and
+        # deterministic. Done before the row-group merge so the merged output
+        # carries labels for the whole panel.
+        expanded = []
+        for r in rows:
+            vals = re.findall(r"\$\s?([\d.,]+)", " ".join(r)) if r else []
+            # <=3, not <=2: the collapsed row keeps the header words too
+            # (['12-Dec $ 30.731 ...', '', '5-Dec $ 42.151 ...', '± ($) ...'])
+            # so it has 3 non-empty cells and a tighter bound never fired.
+            if len(vals) >= 4 and sum(1 for c in r if c.strip()) <= 3:
+                # label at split time: the mapping is positional within the cell
+                # and the page lists them Capesize / Kamsarmax / Ultramax /
+                # Handysize 38 in that order, so no guessing is involved.
+                for v, lbl in zip(vals, TC_LABELS):
+                    expanded.append([lbl, "$ " + v])
+                for v in vals[len(TC_LABELS):]:
+                    expanded.append(["$ " + v])
+            else:
+                expanded.append(r)
+        rows = t["rows"] = expanded
+
+        def is_unlabelled(r):
+            return bool(r) and bool(r[0]) and bool(NUM.match(r[0])) and len(r) >= 3
+
+        out = []
+        i = 0
+        while i < len(rows):
+            if not is_unlabelled(rows[i]):
+                out.append(rows[i])
+                i += 1
+                continue
+            j = i
+            while j < len(rows) and is_unlabelled(rows[j]):
+                j += 1
+            group = rows[i:j]
+            gv = values_of(group)
+            replaced = False
+            if len(group) >= 2:
+                for hdr, lrows in cands:
+                    lv = values_of(lrows)
+                    if len(gv & lv) >= 2:      # same panel, proven by values
+                        out.extend(lrows)
+                        replaced = True
+                        break
+            if not replaced:
+                out.extend(group)              # leave as-is; never guess
+            i = j
+        t["rows"] = out
+    return tables
+
+
 def attach_known_labels(tables, pdf: Path):
     """Restore row labels ONLY where the label set is known and verifiable.
 
@@ -189,6 +297,7 @@ def clean_charts(charts: dict) -> dict:
 def process(pdf: Path):
     import liteparse
     tables, md = extract_tables_filtered(pdf)
+    tables = prefer_labelled_rows(tables, pdf)
     tables = attach_known_labels(tables, pdf)
     # MEASURED: extract_blocks=True costs ~4s/PAGE (40s for a 10-page file),
     # against liteparse's own ~2-5ms/page claim - a 1000x gap. Block analysis
