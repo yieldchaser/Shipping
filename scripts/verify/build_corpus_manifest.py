@@ -87,6 +87,11 @@ def newest_date(root: Path) -> date | None:
                     dt = date.fromisocalendar(int(m.group(2)), int(m.group(1)), 1)
             except Exception:
                 continue
+            # Guard against future dates: a filename can contain a number that
+            # parses as a date far ahead (e.g. a contract-id "20300101"), and a
+            # future "newest" would make the liveness verdict meaningless.
+            if dt > TODAY:
+                continue
             if latest is None or dt > latest:
                 latest = dt
             break
