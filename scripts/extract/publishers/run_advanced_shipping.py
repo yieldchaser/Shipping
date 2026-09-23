@@ -153,11 +153,18 @@ def attach_known_labels(tables, pdf: Path):
             # rows (5 Baltic indices + the Daily T/C block) against 5 labels.
             # Only the leading block is labelled, and only when the page yields
             # the expected vocabulary - otherwise nothing is attached.
+            # The panel carries BOTH vocabularies: five Baltic index rows then a
+            # Daily T/C block (Capesize..Handysize). An earlier version broke
+            # after the first match, so the T/C rows kept their missing labels
+            # (['52.315','','55.139','-2.824'] with no indication it is Capesize).
+            # Apply each vocabulary to the next unlabelled numeric run in order.
+            remaining = list(numeric)
             for want in (baltic, tc):
-                if want and len(numeric) >= len(want):
-                    for r, lbl in zip(numeric[:len(want)], want):
-                        r.insert(0, lbl)
-                    break
+                if not want or len(remaining) < len(want):
+                    continue
+                for r, lbl in zip(remaining[:len(want)], want):
+                    r.insert(0, lbl)
+                remaining = remaining[len(want):]
     finally:
         doc.close()
     return tables
