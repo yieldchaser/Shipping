@@ -61,7 +61,7 @@ jobs:
                   data/derived/fearnleys_summary.json \
                   data/derived/fearnleys_fixtures_full.csv data/derived/fearnleys_fixtures_full.parquet \
                   data/derived/fearnleys_snp_transactions.csv data/derived/fearnpulse_rates_full.csv \
-                  data/reports/fearnleys_reports_catalog.json reports/fearnleys_reports_catalog.json \
+                  data/reports/fearnleys_reports_catalog.json \
                   data/reports/fearnleys corpus/01-brokers/fearnleys-md \
                   data/clarksons/gibson_all_reports_catalog.json
           if git diff --staged --quiet; then

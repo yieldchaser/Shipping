@@ -98,7 +98,6 @@ def fetch_all_reports():
         os.makedirs(d, exist_ok=True)
 
     catalog_paths = [
-        os.path.join("..", "reports", "fearnleys_reports_catalog.json"),
         os.path.join("..", "data", "reports", "fearnleys_reports_catalog.json"),
     ]
 

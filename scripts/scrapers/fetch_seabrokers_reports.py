@@ -51,8 +51,10 @@ os.makedirs(DATA_SEABROKERS_DIR, exist_ok=True)
 os.makedirs(PDF_STORAGE_DIR, exist_ok=True)
 os.makedirs(DERIVED_DIR, exist_ok=True)
 
-CATALOG_PATH_REPORTS = os.path.join(REPORTS_DIR, "seabrokers_catalog.json")
 CATALOG_PATH_DATA = os.path.join(DATA_DIR, "reports", "seabrokers_catalog.json")
+# Single canonical catalog. This used to write a second copy under reports/,
+# which fell behind the live one (or sat byte-identical) and was read by nothing.
+CATALOG_PATH_REPORTS = CATALOG_PATH_DATA
 RATES_CSV_PATH = os.path.join(DERIVED_DIR, "seabrokers_osv_dayrates.csv")
 
 ARCHIVE_URL = "https://seabrokers.no/chartering/en/market-analysis/"
