@@ -40,18 +40,33 @@ Method for every source, in order:
 | ssy | 519/519 | `data/extracted/md/ssy/` | 5,920 route rows. 1 page/doc. `docs/ssy_verdict.md`, `scripts/extract/publishers/run_ssy.py`. |
 
 ### IN PROGRESS
-**xclusiv (266 docs)** - launched as background process, `data/extracted/md/xclusiv/`.
-- Its pipeline: `scripts/extract/publishers/run_xclusiv.py`
-- Its survey + open problems: `docs/xclusiv_survey.md` - **READ IT FIRST**
-- Payload is INSIDE PROSE (no table grid). Two rules earn their place there:
-  labels by EXACT VOCABULARY (never position), and the value ANCHORED TO THE
-  SUBJECT'S POSITION (taking the last USD value returned 29,250 where the page
-  says 27,750).
-- Typed rate layer is BEST-EFFORT (~83-90% labelled). The `.md` is complete
-  regardless. Open: `Kamsarmax 23,373` lands on a footer; `Ultramax 29,700`
-  disagrees with its sentence.
-- **ON COMPLETION: verify + spot-check against a rendered page. If it is wrong,
-  fix and re-run (the runner is resumable via `_run_state.json`). Only then move on.**
+**xclusiv (266 docs)** - first pass COMPLETE (266/266, 0 failed, 475s, 7,731 rates,
+85% labelled) but its labels were then found WRONG on verification and it is
+being RE-RUN.
+
+- Pipeline: `scripts/extract/publishers/run_xclusiv.py`
+- Survey + open problems: `docs/xclusiv_survey.md` - READ IT FIRST
+- Payload is INSIDE PROSE (no table grid).
+
+**The verification that caught it** (`scratch/verify_xclusiv.py`): rendering
+2026-04-27 page 3 and comparing showed labels attached from ANY vocabulary term
+in the sentence, so "West Africa to Continent trip is up..." came out labelled
+"Middle East Gulf" (a different route named later in the same sentence).
+85% labelled was hiding wrong pairs.
+
+**The fix applied**: pick the value FIRST, then label THAT value with the nearest
+vocabulary term PRECEDING it, only if within 120 chars - else leave unlabelled.
+Effect on that document: labelled 26/29 -> 19/29, but the wrong pairs are gone.
+FEWER LABELS, CORRECT ONES. A wrong label is worse than a missing one.
+
+**CURRENT TASK: the re-run is in flight.** It deleted `_run_state.json` and is
+reprocessing all 266 with the fix, writing to `data/extracted/md/xclusiv/`.
+- Verify it by CONTENT when it lands, not by file count.
+- Spot-check against a rendered page again, then write `docs/xclusiv_verdict.md`.
+- Known still-open: VLCC 219,233 on that page remains unlabelled; `Kamsarmax
+  23,373` had landed on a footer sentence and `Ultramax 29,700` disagreed with
+  its sentence in the first pass - confirm whether the fix resolved them.
+- If the values are wrong, fix and re-run again. Only then move to the next source.
 
 ### NEXT (pick one, biggest first)
 xclusiv 266 (in progress) · fearnleys 257 · intermodal 252 · affinity 250 ·
