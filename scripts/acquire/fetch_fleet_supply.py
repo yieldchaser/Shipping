@@ -33,7 +33,7 @@ OUT_CSV = SUPPLY_DIR / "fleet_orderbook_and_age_profile.csv"
 OUT_JSON = SUPPLY_DIR / "merchant_fleet_summary.json"
 MANIFEST_FILE = REPO_ROOT / "data" / "provenance" / "manifest.json"
 
-CURRENT_YEAR = 2026
+CURRENT_YEAR = datetime.now(timezone.utc).year
 
 ASSET_CLASS_SPECS = [
     # Dry Bulk
@@ -121,11 +121,15 @@ def process_fleet_data():
 
         ob_to_fleet_pct = round((ob_dwt / active_dwt) * 100, 1) if active_dwt > 0 else 0.0
 
-        # Scheduled delivery profile
-        deliv_2026 = sum(1 for v in orderbook if v.get("yearBuilt") == 2026)
-        deliv_2027 = sum(1 for v in orderbook if v.get("yearBuilt") == 2027)
-        deliv_2028 = sum(1 for v in orderbook if v.get("yearBuilt") == 2028)
-        deliv_2029_plus = sum(1 for v in orderbook if (v.get("yearBuilt") or 0) >= 2029)
+        # Scheduled delivery profile. Buckets are RELATIVE to the current year:
+        # literal 2026/2027/2028 buckets would keep reporting those years forever
+        # once the calendar moves on, and the app renders them under a matching
+        # hardcoded header. Emit the years alongside so the label can follow.
+        _y = CURRENT_YEAR
+        deliv_y0 = sum(1 for v in orderbook if v.get("yearBuilt") == _y)
+        deliv_y1 = sum(1 for v in orderbook if v.get("yearBuilt") == _y + 1)
+        deliv_y2 = sum(1 for v in orderbook if v.get("yearBuilt") == _y + 2)
+        deliv_y3_plus = sum(1 for v in orderbook if (v.get("yearBuilt") or 0) >= _y + 3)
 
         # Scrubber penetration
         scrubbers_count = sum(1 for v in active if v.get("scrubbers") is True or v.get("scrubbers") == 1)
@@ -145,10 +149,11 @@ def process_fleet_data():
             "orderbook_vessel_count": ob_count,
             "orderbook_dwt_million": round(ob_dwt / 1e6, 2),
             "orderbook_to_fleet_pct": ob_to_fleet_pct,
-            "deliveries_2026_count": deliv_2026,
-            "deliveries_2027_count": deliv_2027,
-            "deliveries_2028_count": deliv_2028,
-            "deliveries_2029_plus_count": deliv_2029_plus,
+            "deliveries_y0_count": deliv_y0,
+            "deliveries_y1_count": deliv_y1,
+            "deliveries_y2_count": deliv_y2,
+            "deliveries_y3plus_count": deliv_y3_plus,
+            "delivery_years": f"{_y} / {_y + 1} / {_y + 2} / {_y + 3}+",
             "scrubber_fitted_pct": scrubber_pct,
             "status_unresolved_vessel_count": len(unresolved),
             "scrapped_excluded_vessel_count": len(scrapped),
