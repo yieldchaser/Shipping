@@ -3686,3 +3686,4 @@ ts_utc,segment,tenor,price,settle
 2026-09-23T02:30:01Z,handysize,Q4,18950,18940
 2026-09-23T02:30:01Z,handysize,Q1,14400,14363
 2026-09-23T02:30:01Z,handysize,Cal 27,14550,14552
+2026-09-23T02:42:06Z,panamax,Q4,22433.3,22401
