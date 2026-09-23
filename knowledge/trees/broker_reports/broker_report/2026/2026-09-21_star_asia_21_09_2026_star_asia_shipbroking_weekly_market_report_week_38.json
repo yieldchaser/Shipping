@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38__root",
+  "doc_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38",
+  "parent_id": null,
+  "title": "Star Asia Shipbroking Weekly Market Report - WEEK 38",
+  "section_path": [
+    "Star Asia Shipbroking Weekly Market Report - WEEK 38"
+  ],
+  "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 38",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Star Asia Shipbroking Weekly Market Report - WEEK 38\n**Broker**: Star Asia\n**Published Date**: 21/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-38-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-38-4/)\n\nMarket Report Content\nSTAR ASIA | WEEKLY MARKET REPORT Week 38 | September 18th, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 38 · September 18th, 2026\nMARKET OVERVIEW\nThe international energy trade is absorbing a profound structural disruption following the forced shutdown\nof Saudi Arabia's East-West pipeline, previously the kingdom's primary overland bypass around the\ncontested Persian Gulf. With pumping stations offline due to recent aerial drone damage, European\nrefiners face complete cargo cancellations under term contracts for the upcoming month, sending\nphysical benchmark crude soaring past US$130 a barrel as buyers scramble for scarce Atlantic\nreplacements. The outage has prompted state exporters to pivot back toward Persian Gulf terminals,\noffering spo",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 8741,
+  "source_path": "reports/broker_reports/2026/star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38.md",
+  "source_url": "https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-38-4/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38__s01_star_asia_shipbroking_weekly_market_report_week_38",
+      "doc_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38",
+      "parent_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38__root",
+      "title": "Star Asia Shipbroking Weekly Market Report - WEEK 38",
+      "section_path": [
+        "Star Asia Shipbroking Weekly Market Report - WEEK 38"
+      ],
+      "section_path_text": "Star Asia Shipbroking Weekly Market Report - WEEK 38",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Star Asia\n**Published Date**: 21/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-38-4/](https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-38-4/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-38-4",
+        "asia",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "star"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38",
+      "parent_id": "broker_reports_broker_report_2026-09-21_star_asia_21_09_2026_star_asia_shipbroking_weekly_market_report_week_38__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "STAR ASIA | WEEKLY MARKET REPORT Week 38 | September 18th, 2026\nsnp@starasiasg.com | +65 6227 7264 | www.star-asia.com.sg Page 1\nMember of BIMCO, The Baltic Exchange & Singapore Shipping Association\nWEEKLY MARKET REPORT\nWEEK 38 · September 18th, 2026\nMARKET OVERVIEW\nThe international energy trade is absorbing a profound structural disruption following the forced shutdown\nof Saudi Arabia's East-West pipeline, previously the kingdom's primary overland bypass around the\ncontested Persian Gulf. With pumping stations offline due to recent aerial drone damage, European\nrefiners face complete cargo cancellations under term contracts for the upcoming month, sending\nphysical benchmark crude soaring past US$130 a barrel as buyers scramble for scarce Atlantic\nreplacements.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "container"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8647,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

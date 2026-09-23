@@ -1,0 +1,90 @@
+{
+  "node_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026__root",
+  "doc_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026",
+  "parent_id": null,
+  "title": "Banchero Costa Weekly Market Report, Week 38 2026",
+  "section_path": [
+    "Banchero Costa Weekly Market Report, Week 38 2026"
+  ],
+  "section_path_text": "Banchero Costa Weekly Market Report, Week 38 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Banchero Costa Weekly Market Report, Week 38 2026\n**Broker**: Bancosta\n**Published Date**: 23/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-38-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-38-2026/)\n\nMarket Report Content\nweekly\nmarket\nreport\nWeek 38/2026 (14 Sep - 21 Sep)\nComment: China's Crude Oil Imports\nMARKET REPORT -WEEK 38/2026\n2COMMENT\nCHINA'S CRUDE OIL IMPORTS\nAfter a marginal decline in 2024,\nwhen global crude oil loadings\ndecreased by -0.2% y-o-y, things\npicked up in 2025, with full-year\nvolumes increasing by +1.8% y-o-y. In Jan-Aug 2026, however, global\ncrude oil loadings declined by -5.4%\ny-o-y to 1,374.7 mln tonnes,\nexcluding all cabotage trade,\naccording to LSEG vessels tracking. Exports from the Arabian Gulf\nplunged by -30.1% y-o-y to 405.3\nmln t in Jan-Aug 2026, and\naccounted for 29.5% of global\nseaborne crude trade, down sharply\nfrom the historical norm of about\n40%, reflecting the ongoing war in\nthe Persian Gulf.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 19640,
+  "source_path": "reports/broker_reports/2026/bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026.md",
+  "source_url": "https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-38-2026/",
+  "children": [
+    {
+      "node_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026__s01_banchero_costa_weekly_market_report_week_38_2026",
+      "doc_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026__root",
+      "title": "Banchero Costa Weekly Market Report, Week 38 2026",
+      "section_path": [
+        "Banchero Costa Weekly Market Report, Week 38 2026"
+      ],
+      "section_path_text": "Banchero Costa Weekly Market Report, Week 38 2026",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "**Broker**: Bancosta\n**Published Date**: 23/09/2026\n**Source URL**: [https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-38-2026/](https://www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-38-2026/)",
+      "keywords": [
+        "https",
+        "www.hellenicshippingnews.com/banchero-costa-weekly-market-report-week-38-2026",
+        "bancosta",
+        "broker",
+        "date",
+        "published",
+        "source",
+        "url"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026__s02_market_report_content",
+      "doc_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026",
+      "parent_id": "broker_reports_broker_report_2026-09-23_bancosta_23_09_2026_banchero_costa_weekly_market_report_week_38_2026__root",
+      "title": "Market Report Content",
+      "section_path": [
+        "Market Report Content"
+      ],
+      "section_path_text": "Market Report Content",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "weekly\nmarket\nreport\nWeek 38/2026 (14 Sep - 21 Sep)\nComment: China's Crude Oil Imports\nMARKET REPORT -WEEK 38/2026\n2COMMENT\nCHINA'S CRUDE OIL IMPORTS\nAfter a marginal decline in 2024,\nwhen global crude oil loadings\ndecreased by -0.2% y-o-y, things\npicked up in 2025, with full-year\nvolumes increasing by +1.8% y-o-y. In Jan-Aug 2026, however, global\ncrude oil loadings declined by -5.4%\ny-o-y to 1,374.7 mln tonnes,\nexcluding all cabotage trade,\naccording to LSEG vessels tracking.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19546,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
