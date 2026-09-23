@@ -81,6 +81,88 @@ def extract_tables_filtered(pdf: Path):
     return keep, md
 
 
+BALTIC_LABELS = ["BDI", "BCI", "BPI", "BSI", "BHSI"]
+TC_LABELS = ["Capesize", "Kamsarmax", "Ultramax", "Handysize"]
+
+
+def _page_label_lines(pg):
+    """Text lines on the page that are exactly a known label (with y order)."""
+    import pymupdf  # noqa: F401
+    out = []
+    for blk in pg.get_text("dict")["blocks"]:
+        if blk.get("type") != 0:
+            continue
+        for ln in blk["lines"]:
+            t = "".join(s["text"] for s in ln["spans"]).strip()
+            if t in BALTIC_LABELS or t in TC_LABELS:
+                y0, y1 = ln["bbox"][1], ln["bbox"][3]
+                out.append(((y0 + y1) / 2, t))
+    out.sort()
+    return [t for _y, t in out]
+
+
+def attach_known_labels(tables, pdf: Path):
+    """Restore row labels ONLY where the label set is known and verifiable.
+
+    MEASURED: the Baltic Indices panel loses its labels in ~176/249 docs
+    (rows read ['3.370','','3.507','-3,91%'] - values right, identity gone).
+    The labels exist on the page as positioned text, so attach them by ORDER,
+    but only when the page yields EXACTLY the expected vocabulary in the
+    expected order. That check is what makes this safe: if the labels are not
+    the known set, nothing is attached and the rows are left as extracted.
+
+    Deliberately NOT done: matching arbitrary text lines by position, which
+    would attach whatever happens to sit near a row.
+    """
+    import pymupdf
+    NUM = re.compile(r"^[\d.,%$+\-\s]+$")
+    try:
+        doc = pymupdf.open(pdf)
+    except Exception:
+        return tables
+
+    def find_label_seq(want):
+        for pg in doc:
+            seq = [t for t in _page_label_lines(pg) if t in want]
+            if seq == want:
+                return seq
+        return None
+
+    baltic = find_label_seq(BALTIC_LABELS)
+    tc = find_label_seq(TC_LABELS)
+    try:
+        for t in tables:
+            rows = t["rows"]
+            if len(rows) < 4:
+                continue
+            # Guard, corrected: the first pass counted non-numeric first cells,
+            # but the Baltic panel LEADS with a legend row ('B.C.I') and a date
+            # row ('12-Dec'), so that test skipped the exact table it was meant
+            # to fix. Test for the real signature instead:
+            #   (a) a block of numeric rows carrying a % column, and
+            #   (b) no known label already present
+            if any(r and r[0] in (BALTIC_LABELS + TC_LABELS) for r in rows):
+                continue                      # already labelled
+            numeric = [r for r in rows
+                       if r and r[0] and NUM.match(r[0])
+                       and any("%" in c for c in r)]
+            if len(numeric) < 4:
+                continue
+            # Attach the first N labels to the first N numeric rows. Requiring
+            # exact equality silently did nothing: this panel carries 7 numeric
+            # rows (5 Baltic indices + the Daily T/C block) against 5 labels.
+            # Only the leading block is labelled, and only when the page yields
+            # the expected vocabulary - otherwise nothing is attached.
+            for want in (baltic, tc):
+                if want and len(numeric) >= len(want):
+                    for r, lbl in zip(numeric[:len(want)], want):
+                        r.insert(0, lbl)
+                    break
+    finally:
+        doc.close()
+    return tables
+
+
 def clean_charts(charts: dict) -> dict:
     """Drop degenerate 'series' that do not vary - misgrouped gridlines."""
     out = {}
@@ -107,6 +189,7 @@ def clean_charts(charts: dict) -> dict:
 def process(pdf: Path):
     import liteparse
     tables, md = extract_tables_filtered(pdf)
+    tables = attach_known_labels(tables, pdf)
     # MEASURED: extract_blocks=True costs ~4s/PAGE (40s for a 10-page file),
     # against liteparse's own ~2-5ms/page claim - a 1000x gap. Block analysis
     # was only needed to compare table structure, and pdf-inspector won that
