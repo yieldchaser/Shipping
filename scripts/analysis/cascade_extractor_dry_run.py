@@ -350,7 +350,7 @@ def run_dry_run():
     # -------------------------------------------------------------
     # CASE 1: HARD CASE CHART (Star Asia W35 Page 11)
     # -------------------------------------------------------------
-    pdf_sa = "reports/shipbrokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf"
+    pdf_sa = "corpus/01-brokers/star_asia/2026/star_asia_2026_W35_Market-Report-Week-35.pdf"
     chart_img = "scratch/star_asia_p11_images/page11_img_2_xref46.png"
     
     print("\n[STEP 1] Running Layout Router on Star Asia Week 35 Page 11...")
@@ -403,7 +403,7 @@ def run_dry_run():
     # -------------------------------------------------------------
     print("\n" + "-"*80)
     print("[STEP 4] Running Layout Router & Table Parser on Advanced Shipping W36 Page 5...")
-    pdf_adv = "reports/shipbrokers/advanced_shipping/2026/advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf"
+    pdf_adv = "corpus/01-brokers/advanced_shipping/2026/advanced_shipping_2026_W36_ADVANCED-MARKET-REPORT-WEEK-36.pdf"
     route_table = LayoutRouter.route_page(pdf_adv, 5)
     print(f"  Page 5 Stats: Chars={route_table['char_count']}, Images={route_table['image_count']}, Drawings={route_table['drawing_count']}")
     print(f"  Identified Route: {route_table['routes']}")

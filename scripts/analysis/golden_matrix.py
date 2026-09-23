@@ -45,7 +45,7 @@ GOLDEN = {
     },
     # Star Asia W35 2026 (page 3): S&P fixtures + vessel values
     "star_asia": {
-        "pdf": REPO + "reports/shipbrokers/star_asia/2026/"
+        "pdf": REPO + "corpus/01-brokers/star_asia/2026/"
                      "star_asia_2026_W35_Market-Report-Week-35.pdf",
         "page": 2,
         "table_cells": ["princess eternity", "182,263", "78.0", "mount dampier",
@@ -55,7 +55,7 @@ GOLDEN = {
     },
     # SSY Atlantic Capesize index 14 Sep 2026 (page 1)
     "ssy_atlantic": {
-        "pdf": REPO + "reports/shipbrokers/ssy/2026/"
+        "pdf": REPO + "corpus/01-brokers/ssy/2026/"
                      "ssy_14_09_2026_ssy_atlantic_capesize_index_14_september_2026.pdf",
         "page": 0,
         "table_cells": ["atlantic capesize", "narvik/rotterdam", "10.65", "10.40",

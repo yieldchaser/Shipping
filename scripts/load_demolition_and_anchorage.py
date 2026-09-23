@@ -1446,7 +1446,7 @@ def main():
     cur.execute("CREATE INDEX IF NOT EXISTS idx_cr_issue ON commodity_rates(issue_id);")
     
     registry = VesselRegistry()
-    sa_files = sorted(glob.glob("reports/shipbrokers/star_asia/**/*.pdf", recursive=True))
+    sa_files = sorted(glob.glob("corpus/01-brokers/star_asia/**/*.pdf", recursive=True))
     
     total_abr = 0
     total_sales = 0

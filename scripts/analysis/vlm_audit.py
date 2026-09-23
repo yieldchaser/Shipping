@@ -80,7 +80,7 @@ def main():
     ap.add_argument("--out", default="")
     a = ap.parse_args()
     if a.pdf is None:
-        a.pdf = os.path.join(REPO, "reports/shipbrokers/star_asia/2026",
+        a.pdf = os.path.join(REPO, "corpus/01-brokers/star_asia/2026",
                              "star_asia_2026_W35_Market-Report-Week-35.pdf")
     img = render(a.pdf, a.page)
     klass = classical(a.pdf, a.page)

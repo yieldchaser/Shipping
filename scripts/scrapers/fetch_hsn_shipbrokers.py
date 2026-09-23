@@ -161,11 +161,11 @@ def process_article(article_url, title, date_str):
         
         slug = re.sub(r'[^a-zA-Z0-9_\-]+', '_', f"{broker}_{date_str}_{title}"[:80]).strip('_').lower()
         
-        # Persist raw unprocessed PDF to reports/shipbrokers/
+        # Persist raw unprocessed PDF to corpus/01-brokers/
         local_pdf_path = ""
         if pdf_bytes:
             try:
-                raw_pdf_dir = REPO_ROOT / "reports" / "shipbrokers" / broker / year
+                raw_pdf_dir = REPO_ROOT / "corpus" / "01-brokers" / broker / year
                 raw_pdf_dir.mkdir(parents=True, exist_ok=True)
                 pdf_target = raw_pdf_dir / f"{slug}.pdf"
                 # Never write a wall as a .pdf. Measured 2026-09-22: 68 files in

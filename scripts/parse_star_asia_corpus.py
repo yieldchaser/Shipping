@@ -273,7 +273,7 @@ def parse_report(pdf_path):
     }
 
 def main():
-    sa_files = sorted(glob.glob("reports/shipbrokers/star_asia/**/*.pdf", recursive=True))
+    sa_files = sorted(glob.glob("corpus/01-brokers/star_asia/**/*.pdf", recursive=True))
     print(f"Executing Deterministic Table & Cell Parser across {len(sa_files)} PDFs...")
     
     results = []

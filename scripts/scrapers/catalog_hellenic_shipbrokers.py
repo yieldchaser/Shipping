@@ -12,7 +12,7 @@ import urllib.request
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-OUT_DIR = "reports/shipbrokers"
+OUT_DIR = "corpus/01-brokers"
 os.makedirs(OUT_DIR, exist_ok=True)
 CATALOG_CSV = os.path.join(OUT_DIR, "shipbrokers_manifest.csv")
 CATALOG_JSON = os.path.join(OUT_DIR, "shipbrokers_manifest.json")

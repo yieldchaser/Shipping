@@ -3,8 +3,8 @@ download_shipbroker_pdfs.py
 High-speed production downloader for the 3,427 Hellenic Weekly Shipbrokers Reports.
 Downloads direct static PDFs from wp-content/uploads/ bypassing all site ads and overlays.
 Organizes into:
-  reports/shipbrokers/<broker_slug>/<year>/<filename>.pdf
-Updates reports/shipbrokers/shipbrokers_manifest.csv with local paths and statuses.
+  corpus/01-brokers/<broker_slug>/<year>/<filename>.pdf
+Updates corpus/01-brokers/shipbrokers_manifest.csv with local paths and statuses.
 """
 
 import os
@@ -15,7 +15,7 @@ from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import pandas as pd
 
-BASE_DIR = "reports/shipbrokers"
+BASE_DIR = "corpus/01-brokers"
 MANIFEST_CSV = os.path.join(BASE_DIR, "shipbrokers_manifest.csv")
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 

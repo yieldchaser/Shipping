@@ -15,7 +15,7 @@ import sys
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 ROOTS = [
-    "reports/shipbrokers",
+    "corpus/01-brokers",
     "reports/poten",
     "corpus/06-drewry/ais",
     "corpus/03-breakwave/drybulk",

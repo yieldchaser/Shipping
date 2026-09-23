@@ -71,15 +71,13 @@ data/raw/
 # Extraction output: fully regenerable derived data (26k+ files, GBs). Keep local.
 # Reproduce with scripts/extract/run_batch.py; do not commit.
 data/extracted/
-scripts/drewry_ais_pdfs/
-
-# Bulk vendor PDFs now live under corpus/ but stay UNTRACKED (~555 MB would break
+# Bulk vendor PDFs live under corpus/ but stay UNTRACKED (~3.9 GB would break
 # pushes). Their per-file inventory + sha256 IS tracked, in
 # corpus/_inventory_untracked.json, so loss is detectable and recoverable.
 # Verify with: python scripts/verify/build_corpus_inventory.py --check
-corpus/06-drewry/ais/
-corpus/09-ppa/ppa_pdf/
+corpus/**/*.pdf
 corpus/09-ppa/_root_pdfs/
+corpus/06-drewry/ais/
 reports/shipbrokers/**/*.pdf
 reports/poten/**/*.pdf
 # Temporary scraper / API citation caches

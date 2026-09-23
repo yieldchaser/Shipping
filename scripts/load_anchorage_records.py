@@ -217,7 +217,7 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
     
-    sa_files = sorted(glob.glob("reports/shipbrokers/star_asia/**/*.pdf", recursive=True))
+    sa_files = sorted(glob.glob("corpus/01-brokers/star_asia/**/*.pdf", recursive=True))
     
     total_loaded = 0
     w35_loaded = 0

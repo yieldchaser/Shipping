@@ -25,13 +25,15 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import subprocess
 import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(REPO_ROOT / "scripts"))
 
-OUT_PATH = REPO_ROOT / "corpus" / "_inventory_untracked.json"
+CORPUS_ROOT = REPO_ROOT / "corpus"
+OUT_PATH = CORPUS_ROOT / "_inventory_untracked.json"
 
 # (canonical path relative to repo root, where it was moved from)
 UNTRACKED_SOURCES = [
@@ -52,30 +54,46 @@ def sha256_of(path: Path, chunk: int = 1 << 20) -> str:
     return h.hexdigest()
 
 
+def tracked_set() -> set[str]:
+    """Every path git currently tracks. One call - much faster than per-file."""
+    r = subprocess.run(["git", "ls-files"], cwd=REPO_ROOT,
+                       capture_output=True, text=True, errors="ignore")
+    return {ln.strip().replace("\\", "/") for ln in r.stdout.splitlines() if ln.strip()}
+
+
 def scan() -> dict:
+    """Inventory every file under corpus/ that git does NOT track.
+
+    Deliberately derived from git rather than a hardcoded list: the whole point
+    is that a bulk vendor tree can sit in a durable location while staying
+    untracked (~3.9 GB of PDFs), and we still want its existence, size and
+    sha256 recorded so loss is detectable.
+    """
+    tracked = tracked_set()
     entries: list[dict] = []
     groups: list[dict] = []
-    for rel, origin in UNTRACKED_SOURCES:
-        root = REPO_ROOT / rel
-        if not root.is_dir():
-            groups.append({"path": rel, "moved_from": origin, "exists": False,
-                           "files": 0, "bytes": 0})
-            continue
+    if not CORPUS_ROOT.is_dir():
+        return {"groups": groups, "entries": entries}
+
+    for sub in sorted(p for p in CORPUS_ROOT.iterdir() if p.is_dir()):
         n = 0
         total = 0
-        for f in sorted(root.rglob("*")):
+        for f in sorted(sub.rglob("*")):
             if not f.is_file():
+                continue
+            rel = str(f.relative_to(REPO_ROOT)).replace("\\", "/")
+            if rel in tracked:
                 continue
             size = f.stat().st_size
             n += 1
             total += size
             entries.append({
-                "path": str(f.relative_to(REPO_ROOT)).replace("\\", "/"),
+                "path": rel,
                 "bytes": size,
                 "sha256": sha256_of(f),
             })
-        groups.append({"path": rel, "moved_from": origin, "exists": True,
-                       "files": n, "bytes": total})
+        groups.append({"path": str(sub.relative_to(REPO_ROOT)).replace("\\", "/"),
+                       "untracked_files": n, "untracked_bytes": total})
     return {"groups": groups, "entries": entries}
 
 
@@ -114,8 +132,9 @@ def main() -> int:
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(current, indent=2), encoding="utf-8")
     for g in current["groups"]:
-        print(f"  {g['path']:<32} files={g['files']:<5} bytes={g['bytes']:>12,}  (was {g['moved_from']})")
-    print(f"wrote {OUT_PATH.relative_to(REPO_ROOT)}  ({len(current['entries'])} files)")
+        print(f"  {g['path']:<28} untracked={g['untracked_files']:<6} "
+              f"bytes={g['untracked_bytes']:>13,}")
+    print(f"wrote {OUT_PATH.relative_to(REPO_ROOT)}  ({len(current['entries'])} untracked files)")
     return 0
 
 
