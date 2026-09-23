@@ -3,6 +3,7 @@
 Build Offshore & OSV Pre-Aggregated Cache
 =========================================
 Aggregates data/derived/seabrokers_osv_dayrates.csv and reports/seabrokers_catalog.json
+(source PDFs/digests live in corpus/05-seabrokers/)
 into a high-speed frontend cache: data/derived/offshore_summary.json
 """
 

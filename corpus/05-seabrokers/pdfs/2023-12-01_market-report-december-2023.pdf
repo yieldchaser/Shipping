@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="https://seabrokers.no/chartering/wp-content/themes/sea-brokers-theme/assets/images/favicon.png">
+    <title>Market Report December 2023 - Seabrokers Chartering</title>
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />-->
+    <script src="https://kit.fontawesome.com/640ae91933.js" crossorigin="anonymous" defer></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" hreflang="en" href="https://seabrokers.no/chartering/en/seabreeze/market-report-december-2023/" />
+<link rel="alternate" hreflang="no" href="https://seabrokers.no/chartering/seabreeze/markedsrapport-desember-2023/" />
+<link rel="alternate" hreflang="x-default" href="https://seabrokers.no/chartering/seabreeze/markedsrapport-desember-2023/" />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://seabrokers.no/chartering/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fseabrokers.no%2Fchartering%2Fen%2Fseabreeze%2Fmarket-report-december-2023%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://seabrokers.no/chartering/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fseabrokers.no%2Fchartering%2Fen%2Fseabreeze%2Fmarket-report-december-2023%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://seabrokers.no/chartering/wp-includes/css/dist/block-library/style.min.css?ver=6.9.7' type='text/css' media='all' />
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='slick-slider-css' href='//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css?ver=1.13.2' type='text/css' media='all' />
+<link rel='stylesheet' id='glightbox-css' href='https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css?ver=1048408392' type='text/css' media='all' />
+<link rel='stylesheet' id='adm-styles-css' href='https://seabrokers.no/chartering/wp-content/themes/sea-brokers-theme/assets/scss/theme.css?ver=1048408392' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css?ver=4.1.1' type='text/css' media='all' />
+<script type="text/javascript" id="wpml-cookie-js-extra">
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"/"}};
+//# sourceURL=wpml-cookie-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=491900" id="wpml-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-content/themes/sea-brokers-theme/vendor/twbs/bootstrap/dist/js/bootstrap.js?ver=5.1" id="bootstrap-js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js?ver=1.8.1" id="slick-slider-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.pkgd.min.js?ver=3.1.8" id="images-loaded-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js?ver=6.9.7" id="glightbox-js"></script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-content/themes/sea-brokers-theme/assets/scripts.js?ver=1048408392" id="adm-scripts-js"></script>
+<link rel="https://api.w.org/" href="https://seabrokers.no/chartering/en/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://seabrokers.no/chartering/en/wp-json/wp/v2/seabreeze/1425" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://seabrokers.no/chartering/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://seabrokers.no/chartering/en/seabreeze/market-report-december-2023/" />
+<link rel='shortlink' href='https://seabrokers.no/chartering/en/?p=1425' />
+<meta name="generator" content="WPML ver:4.9.2 stt:1,38;" />
+<style id="adm-customizer-styles"> html { --bs-primary: ;--bs-primary-rgb: , , ;--bs-secondary: ;--bs-secondary-rgb: , , ;--bs-dark: ;--bs-dark-rgb: , , ;--bs-light: ;--bs-light-rgb: , , ;--bs-body-color: ;--bs-body-color-rgb: , , ; }</style><link rel="icon" href="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/04/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/04/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/04/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/04/cropped-favicon-270x270.png" />
+<script>
+const WPAjaxURL = 'https://seabrokers.no/chartering/wp-admin/admin-ajax.php';
+</script> <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1GGJ2JT2ZN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1GGJ2JT2ZN');
+</script><script src="https://maps.googleapis.com/maps/api/js?key="></script>		<style type="text/css" id="wp-custom-css">
+			.btn:empty {
+    display: none;
+}		</style>
+		<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='https://seabrokers.no/chartering/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' type='text/css' media='all' />
+
+</head>
+<body class="wp-singular seabreeze-template-default single single-seabreeze postid-1425 wp-custom-logo wp-theme-sea-brokers-theme header-dark bg-light">
+<header id="site-header" class="position-relative">
+    <div class="position-absolute  w-100 start-0 header-menu">
+	<div class="top-menu py-1 text-white">
+	<div class="container d-flex justify-content-end">
+		<div class="small d-flex align-items-center">
+			<a href="https://seabrokers.no" style="font-size: .5rem">
+					<span class="fa-stack">
+						<i class="fa-regular fa-angle-left fa-stack-1x"></i>
+						<i class="fa-light fa-circle fa-stack-2x"></i>
+					</span>
+			</a>
+			<div class="menu-toppmeny-en-container"><ul id="menu-toppmeny-en" class="nav"><li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home nav-item px-1 px-md-2"><a class="nav-link py-0" href="https://seabrokers.no/en/" Seabrokers Group>Seabrokers Group</a></li></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page nav-item px-1 px-md-2"><a class="nav-link py-0" href="https://seabrokers.no/en/companies/" Companies>Companies</a></li></li>
+<li class=" menu-item menu-item-type-post_type menu-item-object-page nav-item px-1 px-md-2"><a class="nav-link py-0" href="https://seabrokers.no/en/people/" People>People</a></li></li>
+</ul></div>		</div>
+	</div>
+</div>
+	<div class="container logo-menu text-white">
+		<div class="row py-1 py-md-3 align-items-center">
+			<div class="col logo d-flex align-items-center">
+				<a href="https://seabrokers.no/chartering/en/" title="Seabrokers Chartering">
+			<img
+			class="light"
+			style="--size-lg:80px; --size-md:70px; --size-sm:60px;"
+			src="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/08/seabrokers_chartering_2023_Neg_1.svg"
+			alt="Seabrokers Chartering"
+		>
+				<img
+			class="dark"
+			style="--size-lg:80px; --size-md:70px; --size-sm:60px;"
+			src="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2023/08/seabrokers_chartering_2023_1.svg"
+			alt="Seabrokers Chartering"
+		>
+	</a>			</div>
+			<div class="col-auto main-nav text-end d-flex align-items-center justify-content-end">
+								<ul class="nav site-nav justify-content-end flex-nowrap">
+					<li class="nav-item ps-2 pe-4 d-none d-md-block">
+						<a href="#" class="nav-link fs-5 open-mega-menu"><i class="fa-regular fa-magnifying-glass"></i></a>
+					</li>
+					
+<div role="navigation" aria-label="Language Switcher" class="wpml-ls-statics-footer wpml-ls wpml-ls-legacy-list-horizontal">
+	<ul><li class="wpml-ls-slot-footer wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://seabrokers.no/chartering/en/seabreeze/market-report-december-2023/" hreflang="en" lang="en" class="wpml-ls-link" aria-current="page" aria-label="Switch to EN (EN)" title="Switch to EN (EN)">
+					                                    <img
+            class="wpml-ls-flag"
+            src="https://seabrokers.no/chartering/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg"
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+    /><span class="wpml-ls-native">EN</span></a>
+			</li><li class="wpml-ls-slot-footer wpml-ls-item wpml-ls-item-no wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://seabrokers.no/chartering/seabreeze/markedsrapport-desember-2023/" hreflang="no" lang="no" class="wpml-ls-link" aria-label="Switch to NO (NO)" title="Switch to NO (NO)">
+					                                    <img
+            class="wpml-ls-flag"
+            src="https://seabrokers.no/chartering/wp-content/plugins/sitepress-multilingual-cms/res/flags/no.svg"
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+    /><span class="wpml-ls-native">NO</span></a>
+			</li></ul>
+</div>
+					<li class="nav-item ps-3 pe-2 menu-bars d-flex align-items-center fs-5">
+                        <span class="menu-text me-2 pointer open-mega-menu">
+                            <span class="text">Menu</span>
+                            <span class="esc">ESC</span>
+                        </span>
+						<a href="#" class="open-mega-menu"></a>
+					</li>
+				</ul>
+							</div>
+		</div>
+	</div>
+</div>
+<section class="hero position-relative bg-cover vh-100 focus-end bg-primary text-white" style="background-image: url(https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/01/Front-page.jpeg);">
+			<div class="overlay position-absolute w-100 h-100 bg-black" style="opacity: 0.6"></div>
+    	<div class="d-flex flex-column justify-content-center  position-absolute h-100 w-100">
+			<div class="container pt-5">
+			<div class="row align-items-center pt-0 pt-md-5 pt-xl-0">
+				<div class="col-lg-6 rd">
+											<h6 class="subtitle line-before">Market Report December 2023</h6>
+																								</div>
+							</div>
+		</div>
+		</div>
+	    </section>
+<div id="mega-menu" class="text-white">
+    <div class="wrapper">
+        <div class="container px-0">
+            <div class="row animate__animated animate__fadeInDown">
+                <div class="col pb-1  pb-md-4 pt-md-5 mb-1 mb-md-3">
+                    <form role="search" method="get" class="search-form pt-0" action="https://seabrokers.no/chartering/en/search/">
+                        <input type="text" class="search-input form-control form-control-lg bg-white" placeholder="What are you looking for?" value="" name="s" />
+                        <input type="hidden" name="top_search" value="1">
+                    </form>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-9 mega-menu">
+                    <div id="nav_menu-5" class="mega-menu-widget mb-3 widget_nav_menu"><div class="menu-hovedmeny-en-container"><ul id="menu-hovedmeny-en" class="menu"><li id="menu-item-1363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1363"><a href="https://seabrokers.no/chartering/en/services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-tjenester menu-item-1364"><a href="https://seabrokers.no/chartering/en/tjenester/offshore-chartering/">Offshore Chartering</a></li>
+	<li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-tjenester menu-item-1365"><a href="https://seabrokers.no/chartering/en/tjenester/renewable-energy/">Seabrokers Renewables</a></li>
+	<li id="menu-item-1366" class="menu-item menu-item-type-post_type menu-item-object-tjenester menu-item-1366"><a href="https://seabrokers.no/chartering/en/tjenester/aquaculture/">Aquaculture</a></li>
+	<li id="menu-item-1368" class="menu-item menu-item-type-post_type menu-item-object-tjenester menu-item-1368"><a href="https://seabrokers.no/chartering/en/tjenester/seabay-seaportal/">Seabay / SeaPortal</a></li>
+	<li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a href="https://seabrokers.no/chartering/en/market-analysis/">Market analysis</a></li>
+</ul>
+</li>
+<li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1370"><a href="https://seabrokers.no/chartering/en/company/">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371"><a>About us</a></li>
+	<li id="menu-item-1372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1372"><a href="https://seabrokers.no/chartering/en/company/vision-values/">Vision &#038; values</a></li>
+	<li id="menu-item-1373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1373"><a href="https://seabrokers.no/chartering/en/company/career/">Career</a></li>
+</ul>
+</li>
+<li id="menu-item-1374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1374"><a href="https://seabrokers.no/chartering/en/sustainability-qhse/">Sustainability &#038; QHSE</a>
+<ul class="sub-menu">
+	<li id="menu-item-1375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1375"><a href="https://seabrokers.no/chartering/en/sustainability-qhse/csr/">Corporate Social Responsibility</a></li>
+	<li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a href="https://seabrokers.no/chartering/en/sustainability-qhse/sustainability-goals/">Sustainability goals</a></li>
+	<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="https://seabrokers.no/chartering/en/sustainability-qhse/hse/">Health, Safety &#038; Environment</a></li>
+</ul>
+</li>
+<li id="menu-item-1378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a href="https://seabrokers.no/chartering/en/news/">News</a></li>
+<li id="menu-item-1379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1379"><a href="https://seabrokers.no/chartering/en/contact/">Contact</a></li>
+</ul></div></div>                </div>
+                <div class="col-lg-3 pt-3 border-top border-white">
+                                                                <h4 class="">Siste nyheter</h4>
+                        <ul class="nav news flex-column">
+                                                            <li class="nav-item"><a class="nav-link" href="https://seabrokers.no/chartering/en/mv-elisa-gdansk-2/">MV Elisa, Gdansk</a></li>                                                            <li class="nav-item"><a class="nav-link" href="https://seabrokers.no/chartering/en/important-milestone/">Important milestone!</a></li>                                                            <li class="nav-item"><a class="nav-link" href="https://seabrokers.no/chartering/en/seabrokers-chartering-offices-in-uk-and-norway-are-extremely-proud-to-announce-our-participation-in-a-very-special-newbuild-being-built-at-green-yard-for-omv-petrom/">Cooperation between Green Yard, OMV Petrom and Seabrokers</a></li>                                                    </ul>
+                                        <div class="social-links fs-4"><a href="https://www.linkedin.com/showcase/seabrokers-shipbroking-division/" class="me-2" target="_blank"><i class="fa-brands fa-linkedin"></i></a><a href="https://www.facebook.com/seabrokersgroup" class="me-2" target="_blank"><i class="fa-brands fa-facebook"></i></a></div>                </div>
+            </div>
+        </div>
+                    <lottie-player src="https://lottie.host/4a265ea0-9fff-4cb0-b232-ec0c72587904/gSZppS4S1H.json"  background="transparent"  speed="1" class="menu-animation" loop  autoplay></lottie-player>
+            </div>
+</div>
+<div class="bg-primary text-white py-1 mb-5 breadcrumbs">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-10 position-relative ps-3">
+				<div class="pointer"></div>
+				<ul class="breadcrumb">
+					<li class="breadcrumb-item"><a href="https://seabrokers.no">Group</a></li><li class="breadcrumb-item"><a href="https://seabrokers.no/chartering/en/">Seabrokers Chartering</a></li><li class="breadcrumb-item"><a href="https://seabrokers.no/chartering/en/market-analysis/">Market analysis</a></li><li class="breadcrumb-item"><span>Market Report December 2023</span></li>				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</header>
+<footer id="site-footer" class="bg-primary text-white pt-5">
+    <div class="container pb-4-2r">
+        <div class="row">
+            <div id="text-3" class="footer-widget col-sm-6 col-lg mb-3 widget_text"><div class="h5 py-1 widget-title text-white border-bottom border-4 border-white">Seabrokers Chartering</div>			<div class="textwidget"><div><span lang="EN-US">With over 40 years of experience in shipbroking, Seabrokers Chartering provides a unique and diverse range of services to our clients. The company offers services in offshore brokerage, renewable energy, aquaculture, project financing, technology, and market analysis.</span></div>
+<div class="social-links fs-4"><a href="https://www.linkedin.com/showcase/seabrokers-shipbroking-division/" class="me-2" target="_blank"><i class="fa-brands fa-linkedin"></i></a><a href="https://www.facebook.com/seabrokersgroup" class="me-2" target="_blank"><i class="fa-brands fa-facebook"></i></a></div>
+</div>
+		</div><div id="adm-sites-widget-3" class="footer-widget col-sm-6 col-lg mb-3 widget_adm-sites-widget"><div class="h5 py-1 widget-title text-white border-bottom border-4 border-white">Companies</div><ul><li><a href="https://seabrokers.no/">Seabrokers Group</a></li><li><a href="https://seabrokers.no/chartering/en/">Seabrokers Chartering</a></li><li><a href="https://seabrokers.no/eiendom/">Seabrokers Eiendom</a></li><li><a href="https://seabrokers.no/services/">Seabrokers Services</a></li><li><a href="https://seabrokers.no/fundamentering/">Seabrokers Fundamentering</a></li><li><a href="https://seabrokers.no/heavymachinery/">Seabrokers Heavy Machinery</a></li><li><a href="https://seabrokers.no/seabreezeyachting/">Seabreeze Yachting</a></li></ul></div><div id="nav_menu-7" class="footer-widget col-sm-6 col-lg mb-3 widget_nav_menu"><div class="h5 py-1 widget-title text-white border-bottom border-4 border-white">Shortcuts</div><div class="menu-footer-snarveier-en-container"><ul id="menu-footer-snarveier-en" class="menu"><li id="menu-item-1357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1357"><a href="https://seabrokers.no/chartering/en/sustainability-qhse/">Sustainability &#038; QHSE</a></li>
+<li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359"><a href="https://seabrokers.no/chartering/en/news/">News</a></li>
+<li id="menu-item-1358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1358"><a href="https://seabrokers.no/chartering/en/contact/">Contact</a></li>
+<li id="menu-item-1360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1360"><a href="https://seabrokers.no/en/group/leadership/">Leadership</a></li>
+<li id="menu-item-1361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1361"><a href="https://seabrokers.no/en/forty-and-forward/">Forty &#038; Forward</a></li>
+<li id="menu-item-1362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1362"><a href="https://seabrokers.no/en/privacy/">Privacy</a></li>
+<li id="menu-item-1484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1484"><a href="https://seabrokers.no/en/disclaimer/">Legal Disclaimer</a></li>
+</ul></div></div><div id="adm-post-list-3" class="footer-widget col-sm-6 col-lg mb-3 widget_adm-post-list"><div class="h5 py-1 widget-title text-white border-bottom border-4 border-white">News</div><ul><li class="mb-3"><a href="https://seabrokers.no/chartering/en/mv-elisa-gdansk-2/">MV Elisa, Gdansk</a></li><li class="mb-3"><a href="https://seabrokers.no/chartering/en/important-milestone/">Important milestone!</a></li><li class="mb-3"><a href="https://seabrokers.no/chartering/en/seabrokers-chartering-offices-in-uk-and-norway-are-extremely-proud-to-announce-our-participation-in-a-very-special-newbuild-being-built-at-green-yard-for-omv-petrom/">Cooperation between Green Yard, OMV Petrom and Seabrokers</a></li></ul></div>        </div>
+    </div>
+        <div class="container pb-0">
+        <div class="row row-cols-2 row-cols-sm-3 row-cols-md-6 row-cols-lg-10 row-cols-xl-11 row-cols-x row-cols-xxl-12 g-3">
+            <div class="col mt-0 pb-4-2r d-flex align-items-center justify-content-center"><img src="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/01/sertifisering-norsk-skipsmeglerforbund-300x300.png" alt=""></div><div class="col mt-0 pb-4-2r d-flex align-items-center justify-content-center"><img src="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/01/sertifisering-quality-system-certification-300x288.png" alt=""></div><div class="col mt-0 pb-4-2r d-flex align-items-center justify-content-center"><img src="https://seabrokers.no/chartering/wp-content/uploads/sites/8/2024/01/sertifisering-magnet-registered-300x140.png" alt=""></div>        </div>
+    </div>
+        <div class="bg-navy py-2">
+        <div class="container">
+            <div class="row small">
+                <div class="col-md text-center text-md-start">
+                    <a href="https://intranet.seabrokers.no" target="_blank">Intranet</a>
+                </div>
+                <div class="col-md text-center text-md-end">
+                    Made with <i class="fa-regular fa-heart"></i> by <a class="" href="https://admoment.no" target="_blank">AD. Moment</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/chartering/en/*"},{"not":{"href_matches":["/chartering/wp-*.php","/chartering/wp-admin/*","/chartering/wp-content/uploads/sites/8/*","/chartering/wp-content/*","/chartering/wp-content/plugins/*","/chartering/wp-content/themes/sea-brokers-theme/*","/chartering/en/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://seabrokers.no/chartering/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.4.1" id="page-links-to-js"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a36744dd68ccff72',t:'MTc4ODYzMjY0Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -409,7 +409,7 @@ def download_and_digest_reports(entries: list, limit=None):
                 f.write(md_content)
 
             entry["digested"] = True
-            entry["markdown_path"] = f"reports/seabrokers/{year_str}/{md_filename}"
+            entry["markdown_path"] = f"corpus/05-seabrokers/{year_str}/{md_filename}"
             if rate_rows:
                 all_rate_rows.extend(rate_rows)
             print(f"    [+] anydoc generated: {md_filename} ({entry['pages']} pages, {len(rate_rows)} dayrate rows)")

@@ -36,7 +36,7 @@ GOLDEN = {
     # (the contents page) and wrongly concluded the table was image-only. The
     # values are in the text layer on page index 6.
     "seabrokers_aug": {
-        "pdf": REPO + "data/reports/seabrokers/pdfs/2026-08-01_market-report-august-2026.pdf",
+        "pdf": REPO + "corpus/05-seabrokers/pdfs/2026-08-01_market-report-august-2026.pdf",
         "page": 6,
         "table_cells": ["18,000", "4,737", "279.99", "15,000", "20,000",
                         "21,445", "5,925", "261.94", "9,000", "31,000",

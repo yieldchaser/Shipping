@@ -426,7 +426,7 @@ def derive_source(rel_path):
     """Source label from a repo-relative path.
 
     Skips structural noise (data/, reports/, pdfs/) so that
-    data/reports/seabrokers/pdfs/x.pdf -> "seabrokers" rather than "reports".
+    corpus/05-seabrokers/pdfs/x.pdf -> "seabrokers" rather than "reports".
     Fixed 2026-09-21: the naive parts[1] made data/reports/* all collapse to
     "reports", which silently merged distinct sources in per-source reports.
     """

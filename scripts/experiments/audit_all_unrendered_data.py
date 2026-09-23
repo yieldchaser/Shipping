@@ -63,18 +63,17 @@ for p in sorted(data_files):
 # 2. Audit Reports Directories
 report_dirs = [
     'reports/fearnleys',
-    'reports/seabrokers',
+    'corpus/05-seabrokers',
     'reports/drewry',
     'reports/poten',
     'reports/hellenic',
     'reports/broker_reports',
     'reports/panama_canal',
     'reports/breakwave',
-    'reports/tankers',
+    'corpus/03-breakwave/tankers',
     'corpus/03-breakwave/drybulk',
     'reports/baltic',
     'data/reports/fearnleys',
-    'data/reports/seabrokers'
 ]
 
 reports_summary = {}
