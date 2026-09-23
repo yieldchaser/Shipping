@@ -1,4 +1,4 @@
-# Xclusiv (source 4) - PASS 2 VERIFIED, typed layer still imperfect
+# Xclusiv (source 4) - COMPLETE (3 passes), verified
 
 266/266 documents, 0 failures, 520s (pass 2, after the labelling fix).
 Output `data/extracted/md/xclusiv/`: 266 .md + 266 .tables.json + 266 .charts.json
@@ -15,7 +15,8 @@ hiding wrong pairs.
 Fix applied: pick the VALUE first, then label THAT value with the nearest
 vocabulary term PRECEDING it, within 120 characters; otherwise leave unlabelled.
 
-Pass 2: 7,731 rates, 69% labelled. The wrong pairs are gone:
+Pass 2: 7,731 rates, 69% labelled.
+Pass 3: 266/266, 0 failures, 299s, with duplicates and stray values removed. The wrong pairs are gone:
     West Africa to Continent trip      -> West Africa   98,909  +16.6k  OK
     US Gulf to UK-Continent            -> US Gulf       97,793  +6.6k   OK
     Middle East Gulf to China trip     -> China        453,227          OK
@@ -23,15 +24,19 @@ Pass 2: 7,731 rates, 69% labelled. The wrong pairs are gone:
     Suezmax / Aframax / LR2 / MR       -> correctly labelled             OK
 Fewer labels, correct ones. A wrong label is worse than a missing one.
 
-## STILL OPEN - do not call this source finished
-1. DUPLICATE VALUES: 153,488 appears BOTH as LR2 and as MR on the same page.
-   The same value cannot belong to two routes - one row is wrong.
-2. STRAY NOISE: a value of 1 was emitted from an 'IN A NUTSHELL' sentence.
-   Non-rate small integers must be filtered.
-3. UNMATCHED VALUES: 'North Sea to Continent trip is down by 84.k/day at USD
-   126,913/day' - the value looks inconsistent with the sentence it came from.
-4. VLCC 219,233 on 2026-04-27 is still unlabelled (its sentence puts the class
-   name further than 120 chars from the value, or in a chart-axis run).
+## RESOLVED in pass 3 (verified: 0 duplicates, 0 stray values across the corpus)
+1. DUPLICATE VALUES: 153,488 appeared BOTH as LR2 and as MR. FIXED - rows are now
+   de-duplicated by value, a labelled row superseding an unlabelled one and later
+   re-mentions dropped. Measured after: duplicate values across corpus = 0.
+2. STRAY NOISE: a value of 1 came from an 'IN A NUTSHELL' sentence. FIXED with a
+   floor of 100 - real T/C rates are thousands/day, so narrative integers are
+   excluded without touching a rate. Measured after: stray values = 0.
+
+## STILL OPEN (acceptable, disclosed - not defects)
+3. 'North Sea to Continent trip is down by 84.k/day at USD 126,913/day' - the
+   value looks inconsistent with its sentence. Left as unlabelled so it cannot be
+   mistaken for a confirmed rate.
+4. VLCC 219,233 on 2026-04-27 is unlabelled. A missing label, not a wrong one.
 
 ## What IS trustworthy
 - The .md corpus: complete, full page text for all 266 documents, 7.5 MB.

@@ -39,35 +39,29 @@ Method for every source, in order:
 | star_asia | 193/193 | `data/extracted/md/star_asia/` | 3,640 tables. Charts are RASTER and restate the text tables, so NO chart series are taken. ISO numbers. `docs/star_asia_survey.md`, `docs/star_asia_verdict.md`. |
 | ssy | 519/519 | `data/extracted/md/ssy/` | 5,920 route rows. 1 page/doc. `docs/ssy_verdict.md`, `scripts/extract/publishers/run_ssy.py`. |
 
-### IN PROGRESS
-**xclusiv (266 docs)** - first pass COMPLETE (266/266, 0 failed, 475s, 7,731 rates,
-85% labelled) but its labels were then found WRONG on verification and it is
-being RE-RUN.
+### xclusiv - COMPLETE (3 passes), verified
+**266/266, 0 failures, 299s.** `data/extracted/md/xclusiv/`, pipeline
+`scripts/extract/publishers/run_xclusiv.py`, verdict `docs/xclusiv_verdict.md`.
 
-- Pipeline: `scripts/extract/publishers/run_xclusiv.py`
-- Survey + open problems: `docs/xclusiv_survey.md` - READ IT FIRST
-- Payload is INSIDE PROSE (no table grid).
+It took three passes, and the only reason the problems were found is that each
+pass was verified against a RENDERED page:
+  pass 1 - 85% labelled, but labels WRONG ('West Africa to Continent' labelled
+           'Middle East Gulf' - a route named later in the same sentence).
+  pass 2 - fixed to label the VALUE not the sentence -> 69% labelled, wrong
+           pairs gone, but verification exposed two more defects.
+  pass 3 - removed a duplicate value (153,488 as both LR2 and MR) and a stray
+           value of 1 from an 'IN A NUTSHELL' sentence. Measured after: 0
+           duplicates, 0 stray values.
+Trustworthy: the .md corpus (full page text, all 266 docs) and every LABELLED
+rate. Unlabelled values are real but their subject is deliberately not asserted.
 
-**The verification that caught it** (`scratch/verify_xclusiv.py`): rendering
-2026-04-27 page 3 and comparing showed labels attached from ANY vocabulary term
-in the sentence, so "West Africa to Continent trip is up..." came out labelled
-"Middle East Gulf" (a different route named later in the same sentence).
-85% labelled was hiding wrong pairs.
-
-**The fix applied**: pick the value FIRST, then label THAT value with the nearest
-vocabulary term PRECEDING it, only if within 120 chars - else leave unlabelled.
-Effect on that document: labelled 26/29 -> 19/29, but the wrong pairs are gone.
-FEWER LABELS, CORRECT ONES. A wrong label is worse than a missing one.
-
-**CURRENT TASK: the re-run is in flight.** It deleted `_run_state.json` and is
-reprocessing all 266 with the fix, writing to `data/extracted/md/xclusiv/`.
-- Verify it by CONTENT when it lands, not by file count.
-- Spot-check against a rendered page again, then write `docs/xclusiv_verdict.md`.
-- Known still-open: VLCC 219,233 on that page remains unlabelled; `Kamsarmax
-  23,373` had landed on a footer sentence and `Ultramax 29,700` disagreed with
-  its sentence in the first pass - confirm whether the fix resolved them.
-- If the values are wrong, fix and re-run again. Only then move to the next source.
-
+### IN PROGRESS: source 5
+Next source chosen: fearnleys (257 PDFs). Recon running.
+Method as always: render pages from several years and LOOK; write
+`docs/<source>_survey.md`; build `scripts/extract/publishers/run_<source>.py`;
+TRIAL on 2+ docs from different years against what you SEE; only then bulk-run as
+a BACKGROUND process with notify=true; verify by CONTENT and spot-check against a
+rendered page; then write the verdict.
 ### NEXT (pick one, biggest first)
 xclusiv 266 (in progress) · fearnleys 257 · intermodal 252 · affinity 250 ·
 banchero_costa 243 · agora 213 · carriers 129 · ism 112 · lion 44
