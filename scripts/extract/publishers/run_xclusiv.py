@@ -67,15 +67,29 @@ def sentences(text: str):
     return re.split(r"(?<=[.!?])\s+(?=[A-Z])", flat)
 
 
-def subject_of(sent: str):
+def subject_of(sent: str, val_pos: int):
+    """The term CLOSEST BEFORE the value, not merely present in the sentence.
+
+    Scanning the whole sentence for vocabulary produced wrong pairs: a sentence
+    about 'West Africa to Continent' came out labelled 'Middle East Gulf' because
+    that name appears later in the same sentence for a different route. The label
+    must be the nearest term PRECEDING the value, and nothing if none is near.
+    """
     up = sent.upper()
     for bad in BLOCK:
         if up.strip().startswith(bad.upper()):
             return None
+    best, best_pos = None, -1
     for term in sorted(VESSEL + ROUTE_HINT, key=len, reverse=True):
-        if re.search(r"\b" + re.escape(term.upper()) + r"\b", up):
-            return term
-    return None
+        for m in re.finditer(r"\b" + re.escape(term.upper()) + r"\b", up):
+            if m.end() <= val_pos and m.end() > best_pos:
+                # prefer the latest position; on a tie prefer the longer term
+                if m.end() > best_pos or (best is None or len(term) > len(best)):
+                    best, best_pos = term, m.end()
+    # a label further than 120 chars back belongs to another clause, not this value
+    if best_pos >= 0 and (val_pos - best_pos) > 120:
+        return None
+    return best
 
 
 def extract_rates(text: str):
@@ -83,15 +97,11 @@ def extract_rates(text: str):
     for s in sentences(text):
         if not VAL.search(s):
             continue
-        subj = subject_of(s)
-        anchor = 0
-        if subj:
-            m = re.search(r"\b" + re.escape(subj.upper()) + r"\b", s.upper())
-            if m:
-                anchor = m.end()
         hits = [(m.start(), m.group(1)) for m in VAL.finditer(s)]
-        after = [h for h in hits if h[0] >= anchor]
-        raw = (after[0][1] if after else hits[-1][1])
+        # pick the value first, then label THAT value - never label one value
+        # from a term that sits near a different one
+        raw_pos, raw = hits[0]
+        subj = subject_of(s, raw_pos)
         chg = CHG.findall(s)
         rows.append({"subject": subj,
                      "value": int(raw.replace(",", "")),
