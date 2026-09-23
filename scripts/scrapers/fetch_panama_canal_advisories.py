@@ -14,7 +14,7 @@ import pandas as pd
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 COMMODITIES_DIR = REPO_ROOT / "data" / "commodities"
-REPORTS_DIR = REPO_ROOT / "reports" / "panama_canal"
+REPORTS_DIR = REPO_ROOT / "corpus" / "11-other" / "panama-canal"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",

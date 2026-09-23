@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 from build_health_report import build_health_reports
 from build_wiki import build_wiki
 from knowledge_hash import SOURCE_HASH_VERSION, compute_source_hash
-from source_archive_utils_v2 import is_primary_archive_html_path, looks_like_non_content_link
+from source_archive_utils_v2 import GROUP_ROOTS, is_primary_archive_html_path, looks_like_non_content_link
 warnings.simplefilter("ignore", FutureWarning)
 load_dotenv()
 REPO_ROOT = Path(__file__).parent.parent
@@ -1086,6 +1086,31 @@ def build_existing_metadata_index(rows: list[dict]) -> dict[str, dict]:
     return index
 
 
+_CHUNK_SHARD_DOC_IDS: dict[str, set] = {}
+_CHUNK_SHARD_STAMP: dict[str, float] = {}
+
+
+def _chunk_shard_has_doc(chunk_rel: str, doc_id: str | None) -> bool:
+    """Does the chunk shard actually hold a row for this doc_id?
+
+    Cache is keyed on the shard mtime, so each shard is read at most once per
+    build even though this is called per document.
+    """
+    path = REPO_ROOT / chunk_rel
+    try:
+        stamp = path.stat().st_mtime
+    except OSError:
+        return False
+    if _CHUNK_SHARD_STAMP.get(chunk_rel) != stamp:
+        ids: set = set()
+        for row in load_jsonl(path):
+            if row.get("doc_id"):
+                ids.add(row["doc_id"])
+        _CHUNK_SHARD_DOC_IDS[chunk_rel] = ids
+        _CHUNK_SHARD_STAMP[chunk_rel] = stamp
+    return bool(doc_id) and doc_id in _CHUNK_SHARD_DOC_IDS.get(chunk_rel, set())
+
+
 def artifacts_current(row: dict | None) -> bool:
     if not row:
         return False
@@ -1094,6 +1119,14 @@ def artifacts_current(row: dict | None) -> bool:
     for key in ("doc_path", "chunk_file", "tree_path"):
         rel = row.get(key)
         if not rel or not (REPO_ROOT / rel).exists():
+            return False
+    # Existence is not enough: a truncated shard still exists. Commit 87ca94041
+    # left 11 hellenic chunk shards at zero bytes (and 6 more partially written)
+    # and no run healed them, because this check only tested file existence.
+    # Repaired 2026-09-23; this guard is what stops the silent recurrence.
+    chunk_rel = row.get("chunk_file")
+    if chunk_rel and int(row.get("chunk_count") or 0) > 0:
+        if not _chunk_shard_has_doc(chunk_rel, row.get("doc_id")):
             return False
     return True
 
@@ -1241,8 +1274,8 @@ def prune_manifest_for_sources(rows: list[dict], source_filter: str | None) -> l
 def build_sources_registry():
     counts = {
         "breakwave": {
-            "drybulk": len(list((REPORTS_ROOT / "drybulk").rglob("*.pdf"))),
-            "tankers": len(list((REPORTS_ROOT / "tankers").rglob("*.pdf"))),
+            "drybulk": len(list((GROUP_ROOTS["breakwave"] / "drybulk").rglob("*.pdf"))),
+            "tankers": len(list((GROUP_ROOTS["breakwave"] / "tankers").rglob("*.pdf"))),
         },
         "baltic": {
             category: len(
@@ -1274,13 +1307,13 @@ def build_sources_registry():
             for category in HELLENIC_CATEGORIES
         },
         "broker_reports": {
-            "broker_report": len(list((REPORTS_ROOT / "broker_reports").rglob("*.md"))),
+            "broker_report": len(list((GROUP_ROOTS["brokers"] / "_digests").rglob("*.md"))),
         },
         "poten": {
             "tankers": len(list((REPORTS_ROOT / "poten").rglob("*.md"))),
         },
         "books": {
-            "book": len(list(REPORTS_ROOT.glob("*.pdf"))),
+            "book": len(list(GROUP_ROOTS["books"].glob("*.pdf"))),
         },
     }
     payload = {
@@ -1288,8 +1321,8 @@ def build_sources_registry():
         "counts": counts,
         "paths": {
             "breakwave": {
-                "drybulk": relpath(REPORTS_ROOT / "drybulk"),
-                "tankers": relpath(REPORTS_ROOT / "tankers"),
+                "drybulk": relpath(GROUP_ROOTS["breakwave"] / "drybulk"),
+                "tankers": relpath(GROUP_ROOTS["breakwave"] / "tankers"),
             },
             "baltic": {
                 category: relpath(REPORTS_ROOT / "baltic" / category)
@@ -1306,7 +1339,7 @@ def build_sources_registry():
                 "book": relpath(REPORTS_ROOT),
             },
             "broker_reports": {
-                "broker_report": relpath(REPORTS_ROOT / "broker_reports"),
+                "broker_report": relpath(GROUP_ROOTS["brokers"] / "_digests"),
             },
             "poten": {
                 "tankers": relpath(REPORTS_ROOT / "poten"),
@@ -1339,7 +1372,7 @@ def iter_source_files(source_filter: str | None):
                 if is_primary_archive_html(path):
                     yield "hellenic", category, path
     if source_filter in (None, "broker_reports", "all"):
-        for path in sorted((REPORTS_ROOT / "broker_reports").rglob("*.md")):
+        for path in sorted((GROUP_ROOTS["brokers"] / "_digests").rglob("*.md")):
             yield "broker_reports", "broker_report", path
     if source_filter in (None, "poten", "all"):
         for path in sorted((REPORTS_ROOT / "poten").rglob("*.md")):

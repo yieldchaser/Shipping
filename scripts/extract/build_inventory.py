@@ -24,9 +24,9 @@ ROOTS = [
     "reports/hellenic",
     "corpus/05-seabrokers",
     "data/cftc_statements",
-    "reports/fearnleys",
+    "corpus/01-brokers/fearnleys-md",
     "reports/signal",
-    "reports/drewry",
+    "corpus/06-drewry/opinions",
     "docs",
     "scratch",
 ]

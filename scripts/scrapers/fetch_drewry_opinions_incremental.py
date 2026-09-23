@@ -284,7 +284,7 @@ def run_incremental(max_pages=2, cookie=None, dry_run=False):
                 "date": data["date"],
                 "status": "OK",
                 "paragraphs": data["paragraphs"],
-                "file_path": f"reports/drewry/opinions/{slug}.md",
+                "file_path": f"corpus/06-drewry/opinions/{slug}.md",
             }
             append_to_manifest(manifest_entry)
             saved_count += 1
