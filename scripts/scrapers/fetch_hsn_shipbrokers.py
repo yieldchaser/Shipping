@@ -27,7 +27,7 @@ import tempfile
 
 BASE_URL = "https://www.hellenicshippingnews.com/category/weekly-shipbrokers-reports/"
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-OUTPUT_DIR = REPO_ROOT / "reports" / "broker_reports"
+OUTPUT_DIR = REPO_ROOT / "corpus" / "01-brokers" / "_digests"
 CHECKPOINT_FILE = REPO_ROOT / "data" / "derived" / "broker_reports_checkpoint.json"
 
 HEADERS = {
@@ -182,9 +182,11 @@ def process_article(article_url, title, date_str):
             except Exception as pe:
                 print(f"    [!] Failed saving raw PDF {slug}: {pe}")
         
-        out_year_dir = OUTPUT_DIR / year
-        out_year_dir.mkdir(parents=True, exist_ok=True)
-        out_file = out_year_dir / f"{slug}.md"
+        # Broker-first: _digests/<broker>/<year>/<slug>.md. Was year-first
+        # (<year>/<slug>.md), which is what made the tree unbrowsable by broker.
+        out_dir = OUTPUT_DIR / broker / year
+        out_dir.mkdir(parents=True, exist_ok=True)
+        out_file = out_dir / f"{slug}.md"
         
         md_content = f"""---
 title: "{title.replace('"', '')}"

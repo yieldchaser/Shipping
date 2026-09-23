@@ -91,7 +91,7 @@ def blocks_to_markdown(report: dict) -> str:
 
 def fetch_all_reports():
     dirs = [
-        os.path.join("..", "reports", "fearnleys"),
+        os.path.join("..", "corpus", "01-brokers", "fearnleys-md"),
         os.path.join("..", "data", "reports", "fearnleys"),
     ]
     for d in dirs:

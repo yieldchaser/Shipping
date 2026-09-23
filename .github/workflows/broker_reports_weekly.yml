@@ -55,7 +55,7 @@ jobs:
 
       - name: Commit & Push New Broker Reports
         run: |
-          git add reports/broker_reports/ data/derived/intermodal_tc_rates.csv data/derived/broker_reports_checkpoint.json data/clarksons/ data/derived/scrappage_prices.csv data/derived/fearnleys_tanker_routes_daily.json data/views/routes/ || true
+          git add corpus/01-brokers/_digests/ data/derived/intermodal_tc_rates.csv data/derived/broker_reports_checkpoint.json data/clarksons/ data/derived/scrappage_prices.csv data/derived/fearnleys_tanker_routes_daily.json data/views/routes/ || true
           if git diff --staged --quiet; then
             echo "No new broker reports found."
             exit 0
