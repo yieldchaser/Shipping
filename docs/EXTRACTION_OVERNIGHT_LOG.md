@@ -694,3 +694,323 @@ Changed: `scripts/extract/run_html_pass.py` only (+14 lines), commit
 **a2815f46e** on `auto/extract-fixes-2026-09-22`. Scratch dir deleted. This
 prevents new placeholder documents; it does not remove the three already in the
 corpus (nothing under `data/extracted/corpus/` was touched - that needs a human).
+
+
+## 2026-09-23 02:32 IST (21:02 UTC 09-22) - deep review: currency-space numbers were dropped, so every $/day broker rate column was missing (FIXED)
+
+Verdict: **FIXED** - three proven defects repaired on branch `auto/extract-fixes-2026-09-23`.
+The pre-existing DB-rebuild decision is restated below with its scope doubled.
+
+### What I measured (all read-only)
+
+`verify_extraction.py --json`: 7,816 checkpoint rows / 7,816 unique paths, `empty_after_ok_status` 0,
+`empty_unexpected` 0, golden 15/15, 249 crash-recovered rows all resolved, disk 41.7 GB free.
+No `run_batch`/`batch_worker` process exists and `corpus_state.json` is 899 min old.
+
+**The run is finished, not dead.** The new `remaining_work()` recomputes run_batch's own selection
+(inventory 7,676 paths after content-duplicates and PROVENANCE_ONLY) minus the checkpoint paths =
+**0 documents to extract**, so a resume would print "nothing to do". A stale state file on a
+finished run is COMPLETE, not a dead batch.
+
+DB coverage (the "verify the artefact, not the intent" rule): 8,144 documents hold a non-empty
+`tables.jsonl` and 8,144 distinct docs appear in `corpus/db/tables.parquet` - 0 missing, 0 extra.
+The derived DB is complete with respect to the extraction; only the number-format fix below is
+pending, and applying it needs the rebuild already flagged as a human decision.
+
+### Finding 1 (FIXED): a currency symbol followed by a SPACE defeated the number parser
+
+`to_number()` stripped `$` and `£` but not the whitespace after them, so the cell `"$ 15,648"`
+became `" 15,648"` and `NUM` (anchored at the start) never matched. The broker weeklies print every
+rate that way.
+
+Evidence, one document: `allied_2022_W12_ALLIED-Weekly-Market-Report_27_03_2022` page 1,
+camelot-stream table 2, the BCI 5TC row - `['BCI 5TC', '$ 15,648', '$ 21,604', '-27.6%',
+'$ 14,866', '$ 32,961']`. Ground truth is the PDF's own text layer, not another extractor: pymupdf
+page 1 reads "the BCI 5TC finally closing on Friday at US$  15,648/day, 27.6% lower" and "holding
+at the US$ 30,000/day territory". ATLANTIC RV (11,875 / 20,175 / 17,120 / 36,070) and Cont / FEast
+(30,900 / 36,250 / 34,660 / 54,145) are the same shape.
+
+Scale, measured against `data/extracted/corpus/db` with the current and the fixed parser: 65,700
+shipbroker cells begin with a currency symbol plus whitespace; **38,149 cells across 469 documents
+change from non-numeric to numeric, with 0 cells lost** (regression check over all 6,946,400
+cells). 4,280 of the affected (doc, page, table, engine, column) columns hold 4 or more recovered
+cells - whole rate columns, 24 cells each in the Allied weeklies. 37,877 of the 38,149 are
+shipbrokers; the rest are seabrokers 127, cftc 80, one 10-Q 19, hellenic 14.
+
+One-pool before/after (Allied W12 + xclusiv 2021-08-16, built into
+`data/extracted/scratch_review_20260923`): numeric cells 2,458 -> 3,495 of 6,179, 1,037 flipped,
+0 regressions. The BCI 5TC row then reads 15648.0 / 21604.0 / -27.6 / 14866.0 / 32961.0.
+`to_number` spot checks: `$ 15,648` 15648.0, `$15,648` 15648.0, `$ (56,591)` -56591.0,
+`$ 1,234,567` 1234567.0, `22,5m` None (unit suffix, unchanged), `1.234,56` 1234.56 and `3,07` 3.07
+(the European-decimal fix still holds).
+
+Changed: `scripts/extract/build_table_db.py` (+10/-1: a `CUR` prefix regex and one call site).
+Golden unaffected: `golden_matrix.py` re-run reproduces star_asia camelot-stream 13/15,
+plumber-text 15/15, pymupdf-text 15/15; ssy_atlantic 14/14; breakwave camelot 5/6, plumber-text
+6/6 - identical to the committed matrix. Scratch dir deleted.
+
+### Finding 2 (FIXED): HTML content inside a layout-table cell never became a text block
+
+`handle_data()` gives the cell buffer precedence over the wrapping content tag, so text inside
+`<td><p>...</p></td>` (an email-shaped newsletter) is captured into the table cell and never into a
+block. Signal's monthly newsletters are table-based emails: 105 `<table>` and 113 `<td>` against 13
+`<h1>` and 17 unclosed `<p>`, all of it inside cells.
+
+Measured over all 9,911 HTML-pass documents: exactly **10** are non-junk with `blocks: 0`, and all
+10 are Signal newsletters (`march-2025`, `april-2025`, `february-2025`, `2025-january`, `may-2025`,
+`july-2025`, `september-2025`, `october-2025`, `january-2026`, `may-2026`) whose source HTML holds
+2,472-5,529 characters of visible text. A trailing empty `<title>` (an SVG logo carries one) also
+erased the real title: exactly 9 documents have `meta.title == ""` while the HTML holds
+`<title>March 2025 Newsletter</title>`.
+
+**This is index coverage, not lost content**: every one of the 10 has a markdown mirror under
+`reports/signal/newsletters/` (45,730-88,979 bytes each, 626 KB total), so the text is already in
+the repo. What was missing was the corpus/HTML-pass representation of it.
+
+Fix: the parser carries a `cell_blocks` flag and `extract()` re-parses only when the normal pass
+produced **no** blocks at all, plus a title is no longer overwritten by an empty one. After the fix
+the 9 zero-block newsletters yield 18-34 blocks (2,218-3,977 characters) and their real titles.
+
+Blast radius, measured by running the OLD and NEW `extract()` over every one of the 9,976 HTML
+files in `reports/`: **exactly 10 documents differ** - the 9 newsletters above (blocks 0 -> 13-34)
+and one junk-classified breakwave `assets/` file whose blocks are unchanged at 17 and whose title
+only goes from `''` to `'WEEKLY: China's iron ore p...'`; junk documents write only `meta.json` and
+never call `extract()`, so that one changes nothing on disk. A seeded 300-document random sample of
+the same set showed 0 differences.
+
+Residual, stated rather than hidden: `march-2025` recovers only its 13 headings (352 of 4,064
+visible characters) because its `<p>` tags are never closed, so no block boundary exists for the
+paragraph text. The md mirror carries the full text.
+
+Changed: `scripts/extract/run_html_pass.py` (+25/-2). Golden unaffected (PDF path untouched;
+`verify_extraction.py` golden 15/15).
+
+### Finding 3 (FIXED): two verifier defects made the hourly health check lie
+
+1. `check_db()` looked only at `<out>/db`, which is an empty directory (`data/extracted/db`,
+   created 15:17, no files), while the live database is `data/extracted/corpus/db`
+   (catalogue.parquet 831,655 B, tables.parquet 50,715,534 B, corpus.duckdb 125,054,976 B). The
+   integrity check answered "not built yet" for the whole run and validated nothing. It now scans
+   `<out>/db` and `<out>/*/db` and reports which one it used: `db_dir: data/extracted/corpus/db`,
+   `db: 192535 tables, 6946400 cells`.
+2. `check_state()` treated any state file older than 30 min as "batch may have died; rerun with
+   --resume". A finished run stops advancing its state file, so the hourly job reported a dead
+   batch every hour for a completed corpus, and two deep-review runs spent effort re-proving the
+   same false alarm. A stale state file with `remaining == 0` is now reported as
+   `state_note: ... run COMPLETE, not a dead batch`, and the action is raised only when documents
+   really remain (it then names how many).
+
+After the fix `verify_extraction.py` prints "OK - no action required" and exits 0, instead of the
+same false action it has printed since the pass ended. Changed:
+`scripts/extract/verify_extraction.py` (plus a `remaining_work()` helper).
+
+### HUMAN DECISION (unchanged, scope doubled): rebuild the derived DB
+
+`data/extracted/corpus/db` still holds pre-fix numbers: the 43,928 European-decimal cells from the
+2026-09-22 fix AND the 38,149 currency-space cells from this one are wrong or still non-numeric in
+it, and every series built from it inherits that. I did not rebuild: it is the documented human
+decision, other agents' audits read this DB, and a rebuild must not run while they are mid-flight.
+
+    python scripts/extract/build_table_db.py --out data/extracted/corpus --rebuild
+    python scripts/extract/build_series_sql.py     # then re-run the series QA
+
+Cost unchanged: a full reparse of 192,535 table records (about 7 minutes idle). Combined effect of
+the two number-format fixes: 82,077 cells change value or become numeric.
+
+### Second human decision (new, bounded): re-run the HTML pass for the 10 newsletters
+
+The fix takes effect for documents extracted from now on. The 10 Signal newsletters already in
+`data/extracted/corpus` still have an empty text.jsonl. A bounded re-run of one root is small; it
+writes inside the corpus, so it is a human call:
+
+    python scripts/extract/run_html_pass.py --root reports/signal/html --out data/extracted/corpus
+
+### Deliberately not changed
+
+* `corpus_checkpoint.jsonl` (never written - the live-batch append-handle rule) and nothing under
+  `data/extracted/corpus/`. The 249 rows still reading CRASH are resolved via `crash_recovery.jsonl`.
+* `extract_all.py`, `batch_worker.py`, `run_batch.py`; no batch started; no re-extraction.
+* `empty_not_in_checkpoint: 854` - measured: 850 are junk HTML placeholders (baltic/breakwave
+  bot-wall `assets/`), 1 is the signal newsletter above, and 3 I could not classify to my own
+  satisfaction (my scan and the verifier's disagree on those 3). It fires no action, so I left the
+  metric alone rather than change a number I cannot fully account for.
+* Other agents' uncommitted work in the tree (`knowledge/**`, `docling_units.py`,
+  `build_series_wrong_gate.py` deleted, three untracked scripts) - I committed only my three files.
+  I did not pull main: the tree is shared and mid-edit.
+
+## 2026-09-23 12:05 IST (06:35 UTC) - deep review: the reconciliation metric could not see the text layer, so 227 pages were queued for OCR without reason (FIXED)
+
+Verdict: **FIXED** - one proven defect in the reconciliation code path repaired on branch
+`auto/extract-fixes-2026-09-23`. Two further measured observations are reported and deliberately not
+changed. No re-extraction was run and nothing under `data/extracted/corpus/` was written.
+
+### What I measured (all read-only)
+
+`verify_extraction.py --json`: 7,816 checkpoint rows / 7,816 unique, `empty_after_ok_status` 0,
+`empty_unexpected` 0, `empty_by_design` 114, `empty_not_in_checkpoint` 854, golden 15/15,
+`crash_recovered_docs` 249, `db_dir: data/extracted/corpus/db` (192,535 tables / 6,946,400 cells),
+disk 39.6 GB free, **actions: []**.
+
+Process check (STEP 2): `Get-CimInstance Win32_Process` for `python.exe` shows **no `run_batch`, no
+`batch_worker`, no `extract_all`**. The 5 live `python.exe` processes belong to other agents. The
+corpus is complete (`remaining_to_extract` 0), so there is no duplicate-batch question to answer.
+
+Reproducibility spot-check: re-running `extract_all.py` on `Drewry_AIS_Product_LR2_Week33_2026`
+reproduces its checkpoint row exactly (9 pages, 303 blocks, 50 tables, 37 images, 0 orphans) - the
+extractor is deterministic on this corpus, so the before/after comparisons below are trustworthy.
+
+Documents opened by hand: `Drewry_AIS_Product_LR2_Week33_2026` (recently completed),
+`shipbrokers/advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31` and
+`hellenic/2025-09-20_Weekly-Ship-Recycling-Report-13-September-19-September-2025`.
+
+### Finding (FIXED): `text_verified` tested a substring, not a value
+
+`verify_tables_against_text()` decided a digit cell was "confirmed by the text layer" by asking
+whether the whole normalized cell string occurs in the normalized page text
+(`re.sub(r"\s+"," ",c).casefold() in norm_text`). That is wrong in both directions, and I measured
+both on 165 sampled documents (a seeded 3-per-source sample of the 7,489 ok rows):
+
+* **under-report, 2,828 cells**: the extractor joins fragments that are not contiguous in the text
+  layer, so the cell string never matches even though every number in it is on the page. Real
+  examples: cell `'90%\nUtilisation'` (drewry p1), cell `'800\n$/ tonne'` (drewry p3), and the merged
+  pdfplumber cell
+  `'USD / INR USD / BDT USD / PKR USD / TRY\nThis Week : 88.10 This Week : 121.72 This Week : 283.12 This Week : 41.35\n...'`
+  (hellenic demolition 2025-09-20 p2) while the same page's text layer prints
+  `'USD / INR\nThis Week         :  88.10\nPrevious Week :  88.27\nGain                    :  0.17\n...'`.
+* **over-report, 102 cells**: `'7'` was "confirmed" because a `7` occurs inside `17,000` somewhere on
+  the page (e.g. `Maritime Economics` p191/257/258, `Lloyds_Maritime_Atlas` p12 `',148 Ships'`).
+
+The under-report was the costly half because a second rule consumes it:
+
+    scored = [t.get("text_verified") for t in page_tables if t.get("text_verified") is not None]
+    if scored and all(s == 0 for s in scored):
+        p_rows[-1]["ocr_queue"] = "table values not in text layer (image table)"
+
+**227 pages in the collected corpus carry that flag** (191 documents; shipbrokers 120, hellenic 77).
+I recomputed every one of them from its stored `tables.jsonl` and the page text of the source PDF:
+**186 would clear** (the values are in the text layer), **2 stay flagged** - and those 2 are the rule's
+true positives, which is why the rule must keep working:
+
+    shipbrokers/advanced_shipping_2023_W31_ADVANCED-MARKET-REPORT-WEEK-31 page 3
+        stored cells: '6.494', '2009', '03/2024', '$ 32m', '4.963', '04/2025'  - tv 0/31
+        page text (337 chars): 'WEEKLY SHIPPING MARKET REPORT - pg. 4 ... Type Name Teu YoB Yard SS
+        M/E Gear Price Buyer Comments ... $ ... REPORTED SALES'  -> the sale table is a picture
+    shipbrokers/advanced_shipping_2023_W35_... page 3: '4.363', '11/2027', '$ 20,8m', '3x45T' - same
+
+(39 of the 227 were skipped: the source PDF is no longer on disk. Reported, not assumed.)
+
+Fix: `cell_confirmed(cell, text_tokens)` - a digit cell is confirmed when **every number in it exists
+as a number in the page text** (thousands separators ignored on both sides). One document, before and
+after, same command, scratch out-dir:
+
+| document | before | after |
+|---|---|---|
+| hellenic/2025-09-20_Weekly-Ship-Recycling-Report (4 pp) | mean tv 0.750, cells 48/51 (94.1%), `ocr_queue: table values not in text layer (image table)` on p2 | mean tv 1.000, cells 51/51 (100%), no flag |
+| drewry_ais_pdfs/Drewry_AIS_Product_LR2_Week33_2026 (9 pp) | mean tv 0.477, cells 302/392 (77.0%) | mean tv 1.000, cells 392/392 (100.0%) |
+
+Per-table detail for the hellenic document: table 4 (p2, pdfplumber) `0/2 -> 2/2`; table 7 (p3,
+pdfplumber) `0/1 -> 1/1`. Page/block/table/image counts are unchanged, so only the metric moved.
+
+Honest limit, stated rather than implied: `text_verified` is a RECALL indicator, not a correctness
+check. It cannot see a cell assigned to the wrong row, and at 1.000 it says only "every number in
+this grid also occurs somewhere on this page". The reverse direction (values in the text that are in
+no grid) is still the stricter, more conservative test - see the next finding.
+
+### Finding (FIXED, same file): the number tokenizer split values at the comma
+
+The orphan detector used `re.findall(r"\b\d[\d,]*\.?\d*\b", page_text)`. On `"180,000dwt"` that
+pattern returns **`['180,']`** - the value was never tested as a whole, and the token it stored is not
+a number. Measured over the 78,035 values the corpus already holds in `pages.jsonl
+values_only_in_text`: **750 end in a comma** (`'270,'` Amplify_BWET_Prospectus, `'5,'` hellenic,
+`'1,175,'` shipbrokers) and **525 end in a dot** (`'526.'`, `'432.'`, `'8.'`), i.e. 1,275 of the
+stored "dropped values" are extraction artefacts, and the true value behind them was never checked.
+
+It also hid real losses: `recall_gap_report.py` filters these values with `^\d{1,3},\d{3}$`, so a
+dropped `33,000` stored as `'33,'` is invisible to the report that exists to find dropped values.
+On 2,566 sampled pages the fixed tokenizer surfaces **18 more DWT-like dropped values** (e.g.
+`shipbrokers/allied_2023_W04` page 13 `'33,000'`, `seabrokers/2019-10-01_markedsrapport-oktober-2019`
+pages 8/11 `'3,258'`/`'1,850'`) and **39 more 4+ digit ones**.
+
+Fix: `NUM_TOKEN_RE = re.compile(r"\d+(?:,\d{3})*(?:[.,]\d+)?")` - thousands groups are exactly three
+digits, and a comma followed by 1-2 digits stays a European decimal (`'5,3'`), so the 1,051
+euro-decimal orphan values already in the corpus are preserved rather than split. Verified by
+assertion, not by eye: `NUM_TOKEN_RE.pattern` equals the intended string, and
+`'180,000dwt'->['180,000']`, `'5,3'->['5,3']`, `'1,500,000'->['1,500,000']`, `'270,'->['270']`,
+`'526.'->['526']`, `'1,234.56'->['1,234.56']`.
+
+I deliberately kept the **substring** comparison inside the orphan detector rather than moving it to
+token membership: measured on the same 2,566 pages, token membership adds 2,286 short (<=3 digit)
+tokens to the orphan lists for only +52 long values, i.e. it floods the diagnostic with page-number
+noise. The orphan list is the loss detector, so it stays conservative; the confirmation metric above
+is the one that was made precise.
+
+Changed: `scripts/extract/extract_all.py` only (+36/-4) on branch `auto/extract-fixes-2026-09-23`
+(created off the current `auto/extract-fixes-2026-09-22`, so the previous fixes stay underneath).
+Committing to a branch does not change the working tree, so the fix already applies to any document
+extracted from now on.
+
+Golden check after the change: `golden_matrix.py` re-run reproduces the committed
+`scripts/analysis/golden_matrix.json` **byte-identically** (sha256
+`99cdcf6cca1e0ab90920cffc9b4f2558dfe0eba29053891e93ed74ad879634d7` before and after); star_asia
+plumber-text 15/15, pymupdf-text 15/15, camelot-stream 13/15; ssy_atlantic camelot 14/14; breakwave
+plumber-text 6/6. `ruff check scripts/extract/extract_all.py`: 3 errors, all three present at HEAD
+(F401 `hashlib`, F841 `H`, E741 `l`) - no new lint. `python3 -m py_compile` clean. Scratch dir
+`data/extracted/scratch_deep_20260923` deleted at the end of this run.
+
+### Observation (NOT changed): a whole source's "tables" are Power BI chart scaffolding
+
+Drewry AIS documents are Power BI exports: the chart is an embedded image, and what camelot calls a
+table is the axis/annotation text around it. `Drewry_AIS_Product_LR2_Week33_2026` reports 50 tables
+in 9 pages, and the ones I opened are exactly that - a 32x8 camelot grid whose rows hold `'Current'`,
+`'Utilisation'`, `'▼ 2.5'`, `'MoM percentage point'`, `'change in utilisation'`, `'86%'`, `'88%'`,
+`'90%'` plus prose sentences from the report body. The real series are in the chart images (a separate
+`drewry_ais_series.parquet` already exists from another agent's work). Consequence to be aware of, not
+fixed: the checkpoint's `tables` count for this source (~50 per document, ~250 documents) is schema
+coverage that does not exist, and its pdfplumber tables are interleaved-text garbage
+(`'LR2 FlPeoewte rP BIe Drefsoktromp ance Week 33 202'` = "Fleet Performance" + "Power BI Desktop"
+interleaved). Labelling this class is a classifier decision, not a one-line fix, so it is reported.
+
+### Observation (NOT changed): 24% of embedded images hash to the same all-zero dhash
+
+`charts/meta.jsonl` holds 102,809 image records; **24,689 (24.0%) carry `dhash =
+0000000000000000`** and 27 carry `ffffffffffffffff`. This is not a coding error - the algorithm
+compares horizontal neighbours, and a smooth gradient satisfies every comparison, so the hash is
+degenerate for gradients. Checked one directly: `p00_373_00000000.jpeg` (1280x720, 93,903 bytes) has
+mean 46.9 / stdev 52.5 / range 0-255 and its 9x8 downsample is `8,10,13,18,26,34,40,56,124` - a
+monotone ramp, hence all-zero. The chart-linkage step the strategy doc calls for ("perceptual-hash
+embedded images to link the same chart across weeks") therefore cannot link those 24,689 images. A
+fix means choosing a second hash (aHash, or a gradient-normalised dHash) and changes the stored
+filenames, so it is a decision, not a repair.
+
+### HUMAN DECISION (unchanged, and now with a third component): derived DB + already-extracted text
+
+Both fixes take effect only for documents extracted from now on. Nothing was re-extracted
+(prohibited, and a human decision), so:
+
+* `data/extracted/corpus/db` still holds pre-fix `text_verified` and `num_value` values
+  (`build_table_db.py` copies `text_verified` straight out of the corpus `tables.jsonl`);
+* the 7,742 already-extracted documents still carry 1,275 junk orphan tokens and 227 stale
+  `ocr_queue` flags in their `pages.jsonl`;
+* the two number-format fixes from the previous runs are still only in the parser, not in the DB.
+
+Applying all of it:
+
+    python scripts/extract/build_table_db.py --out data/extracted/corpus --rebuild
+    python scripts/extract/build_series_sql.py     # then re-run the series QA
+
+Note that the DB rebuild alone does NOT refresh `text_verified` or `pages.jsonl`: those live in the
+corpus documents, so refreshing them means re-running the extractor over the affected documents
+(227 flagged pages / 191 documents, or the 558 euro-decimal documents, or the whole corpus). I did not
+choose that scope - it is the human call, and the affected list is in this entry.
+
+### Deliberately not changed
+
+* `corpus_checkpoint.jsonl` - never written; nothing under `data/extracted/corpus/` was written.
+* No batch started, no document re-extracted, no `run_batch.py` / `batch_worker.py` /
+  `verify_extraction.py` / `build_table_db.py` / `run_html_pass.py` edit, no push to main.
+* The 3 pre-existing ruff findings in `extract_all.py` (unrelated to this fix, so left alone).
+* Other agents' uncommitted work in the tree (`knowledge/**`, `scripts/process_knowledge.py`,
+  `scripts/extract/docling_units.py`, deleted `build_series_wrong_gate.py`) - I committed only
+  `scripts/extract/extract_all.py` and this log. I did not pull main: the tree is shared and mid-edit.
+* The previous run's log entry (02:32 IST, currency-space fix) was sitting uncommitted; it is included
+  in this commit so the audit trail is not lost.

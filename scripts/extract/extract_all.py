@@ -32,6 +32,19 @@ import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+# A number as a PDF prints it: optional thousands groups of exactly three
+# digits, then an optional decimal part. The decimal separator is either a dot
+# or a comma: "5,3" is a European decimal (43,928 cells in this corpus are of
+# that form), so the comma must stay part of the token when it is not followed
+# by exactly three digits. The pattern this replaces
+# (\b\d[\d,]*\.?\d*\b) swallowed the trailing comma of "180,000dwt" into the
+# token, so the value was never tested as a whole. Measured 2026-09-23 over the
+# stored corpus: of the 78,035 values in pages.jsonl `values_only_in_text`, 750
+# end in a comma ("270,", "5,", "1,175,") and 525 end in a dot ("526."), and on
+# 2,566 sampled pages the fix surfaces 18 more DWT-like dropped values
+# (e.g. allied_2023_W04 page 13 "33,000") and 39 more 4+ digit ones.
+NUM_TOKEN_RE = re.compile(r"\d+(?:,\d{3})*(?:[.,]\d+)?")
+
 
 def img_dhash(pil_img, size=8):
     try:
@@ -259,6 +272,25 @@ def _layout_child(req, resp):
 _LAYOUT_WORKER = None
 
 
+def cell_confirmed(cell, text_tokens):
+    """True when every number in the cell exists in the page text.
+
+    Membership of the text layer's NUMBERS, not a substring of the whole cell.
+    The substring test was wrong in both directions, measured 2026-09-23 on 165
+    sampled documents: 2,828 digit cells were called unconfirmed although every
+    number in them is in the text (the extractor joins fragments that are not
+    contiguous in the text layer - "90%\nUtilisation", "800\n$/ tonne", and the
+    merged pdfplumber cell "USD / INR USD / BDT ... This Week : 88.10 ..."),
+    while 102 were called confirmed although their number is only a substring of
+    a longer one ("7" in "17,000"). The under-report was the costly half: it set
+    ocr_queue "table values not in text layer (image table)" on 227 pages whose
+    values are plainly in the text layer.
+    """
+    toks = [m.group(0).replace(",", "").casefold()
+            for m in NUM_TOKEN_RE.finditer(cell)]
+    return bool(toks) and all(t in text_tokens for t in toks)
+
+
 def verify_tables_against_text(tables, page_text, pno):
     """Cell-level reconciliation of extractor output vs the page text layer.
 
@@ -269,7 +301,8 @@ def verify_tables_against_text(tables, page_text, pno):
     SCHEMA source. This records, per table, how many cells the text layer can
     confirm, so downstream merging knows where the grid dropped values.
     """
-    norm_text = re.sub(r"\s+", " ", page_text or "").casefold()
+    text_tokens = {m.group(0).replace(",", "").casefold()
+                   for m in NUM_TOKEN_RE.finditer(page_text or "")}
     out = []
     for t in tables:
         rows = t.get("rows") or []
@@ -285,8 +318,7 @@ def verify_tables_against_text(tables, page_text, pno):
             t["text_verified"] = None
             out.append(t)
             continue
-        found = sum(1 for c in checkable
-                    if re.sub(r"\s+", " ", c).casefold() in norm_text)
+        found = sum(1 for c in checkable if cell_confirmed(c, text_tokens))
         t["text_verified"] = round(found / len(checkable), 3)
         t["text_verified_cells"] = f"{found}/{len(checkable)}"
         out.append(t)
@@ -302,7 +334,7 @@ def text_values_not_in_tables(page_text, tables):
     pages where the best table extractor reached 83-100%, and swept 28/28
     demolition circle/bar values that the grid captured only 15 of.
     """
-    nums = re.findall(r"\b\d[\d,]*\.?\d*\b", page_text or "")
+    nums = [m.group(0) for m in NUM_TOKEN_RE.finditer(page_text or "")]
     if not nums:
         return []
     blob = " ".join(str(c) for t in tables for row in (t.get("rows") or [])
