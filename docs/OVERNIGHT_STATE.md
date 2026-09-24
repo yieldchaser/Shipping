@@ -4,7 +4,7 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-Last updated: 2026-09-24 ~05:35 IST (user asleep; wants autonomous work until ~06:30+)
+Last updated: 2026-09-24 ~10:05 IST (cron run 09:52; affinity verified COMPLETE, next = agora)
 
 ---
 
@@ -39,29 +39,40 @@ Method for every source, in order:
 | star_asia | 193/193 | `data/extracted/md/star_asia/` | 3,640 tables. Charts RASTER. ISO numbers. |
 | ssy | 519/519 | `data/extracted/md/ssy/` | 5,920 route rows. 1 page/doc. |
 | xclusiv | 266/266 | `data/extracted/md/xclusiv/` | 3 passes; prose-anchored rates, 69% labelled, 0 duplicates/stray. `docs/xclusiv_verdict.md`. |
+| affinity | 250/250 | `data/extracted/md/affinity/` | 4 cards (BDTI/BCTI, BDA, TCE DIRTY, TCE CLEAN), 0 charts, ISO numbers. Independent verify: 250/250 docs, 0 unaccounted panel values, panel rect constant in 250/250. `docs/affinity_verdict.md`. |
 | fearnleys | SKIPPED | `data/extracted/md/fearnleys/` (record only) | **User decision 03:05: the publisher is already ingested structurally** (Hasura: 11,732 comments, 62MB fixtures, route dailies, T/C, S and P) - the PDFs are a worse copy. An extraction was already in flight and completed anyway: 257/257, 16,326 rows, 267s, 0 failures. Kept as `docs/fearnleys_extraction_record.md` (7 transferable defects). Do NOT re-extract and do NOT treat it as new data. |
 
-### NEXT: affinity (250 PDFs) - AFTER checking it has no fetcher
-**THE RULE THE USER ESTABLISHED (03:05): check for an existing `fetch_*`/
-`daily_*` script for a publisher BEFORE building an extractor.** Two sources have
-now been "extracted" that were already ingested. Measured just now:
+### NEXT: agora (213 PDFs) - source 7
 
-| source | fetcher scripts | derived data | verdict |
+**affinity is DONE and verified** (`docs/affinity_verdict.md`). **banchero_costa is
+NOT a fresh source**: it already has a dedicated extractor
+(`scripts/extract/banchero_deals.py`) and derived output
+(`data/extracted/banchero_deals.json|.parquet`, 243 reports, 3,120 deals), so per
+the user's "check for an existing fetcher FIRST" rule it is already covered
+(61 of its 243 reports are `garbled-text-layer` / `marker-but-no-parsable-table`
+and need OCR, which this box does not have - not actionable here).
+
+Fetcher check measured just now (grep `scripts/`, `data/derived/`):
+
+| source | docs | existing fetcher/extractor | verdict |
 |---|---|---|---|
-| intermodal | 1 (`backfill_intermodal_rates`) | `intermodal_tc_rates.csv` | **BLOCKED** - the parallel agent's backfill FAILED verification (`docs/intermodal_backfill_FAILED.md`, commit 1aa64d1a3) and its column-aware fix "does NOT generalise" (54a4b9428) |
-| drewry | 2 | checkpoint | already ingested - do not extract |
-| breakwave | 3 | - | already ingested - do not extract |
-| poten | 1 | `poten_tanker_opinions_index.json` | partially ingested - check first |
-| affinity / banchero_costa / agora / ism / lion / carriers | **0** | none found | extractable |
+| agora | 213 | **none** (`find scripts -iname '*agora*'` = empty); only a legacy generic `data/extracted/corpus/shipbrokers/agora_*` from the deleted mass runner | **BUILD - this is the next source** |
+| ism | 112 | none | after agora |
+| lion | 44 | none | after ism |
+| carriers / intermodal | 129 / 252 | PARALLEL agents own these - do not touch | hands off |
 
-So: **affinity 250** (then banchero_costa 243, agora 213, ism 112, lion 44) -
-largest with no existing ingest path. Confirm by grepping `scripts/` and
-`data/derived/` for the name before writing any code.
-(NOTE: `scratch/supervisor/carriers_*` and `scripts/acquire/backfill_intermodal*`
-belong to PARALLEL agents - do not touch carriers/intermodal or their outputs.)
-Non-broker: `corpus/04-poten` 1087, `corpus/09-ppa` 493, `corpus/06-drewry` 276,
-`corpus/03-breakwave` 302.
-Count with: `find corpus/01-brokers/<name> -name '*.pdf' | wc -l`
+agora PDFs by year: 2021:25 2022:37 2023:50 2024:38 2025:35 2026:28.
+Note from the legacy config: agora is in `PERIOD_IS_THOUSANDS`
+(`build_table_db.py`) - i.e. `29.580` = 29,580, a European-style separator. Verify
+that against a rendered page before trusting it.
+
+Method as always: render/dump pages from several years and LOOK, write
+`docs/agora_survey.md`, build `scripts/extract/publishers/run_agora.py`, TRIAL on
+2+ docs from different years against what the page says, then bulk-run as a
+BACKGROUND process with `notify=true`.
+
+Non-broker options after that: `corpus/04-poten` 1087, `corpus/09-ppa` 493,
+`corpus/06-drewry` 276 (drewry has 2 fetchers - check first).
 
 ---
 
