@@ -1,0 +1,937 @@
+period,report_date,report_year,chart_series,panel,period_label,value_usd_per_day,is_latest,source_file
+2019-10,2021-10-18,2021,1y_tc,Aframax 1y TC,Oct-19,23000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,1y_tc,Aframax 1y TC,Jan-20,27000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,1y_tc,Aframax 1y TC,Apr-20,27000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,1y_tc,Aframax 1y TC,Jul-20,23000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,1y_tc,Aframax 1y TC,Oct-20,18000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,1y_tc,Aframax 1y TC,Nov-20,17700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,1y_tc,Aframax 1y TC,Jan-21,16000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,1y_tc,Aframax 1y TC,Jan-21,16800,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,1y_tc,Aframax 1y TC,Mar-21,16500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,1y_tc,Aframax 1y TC,Apr-21,16000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,1y_tc,Aframax 1y TC,May-21,18600,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,1y_tc,Aframax 1y TC,Jul-21,16000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,1y_tc,Aframax 1y TC,Jul-21,18700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,1y_tc,Aframax 1y TC,Sep-21,18700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,1y_tc,Aframax 1y TC,Oct-21,15000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,1y_tc,Aframax 1y TC,Oct-21,17500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,1y_tc,Aframax 1y TC,Nov-21,19500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,1y_tc,Aframax 1y TC,Nov-21,19500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,1y_tc,Aframax 1y TC,Dec-21,19500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,1y_tc,Aframax 1y TC,Jan-22,18600,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,1y_tc,Aframax 1y TC,Jan-22,19500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,1y_tc,Aframax 1y TC,Feb-22,18500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,1y_tc,Aframax 1y TC,Mar-22,18500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,1y_tc,Aframax 1y TC,Mar-22,22500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,1y_tc,Aframax 1y TC,Apr-22,21500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,1y_tc,Aframax 1y TC,May-22,21500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,1y_tc,Aframax 1y TC,May-22,24500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,1y_tc,Aframax 1y TC,Jun-22,25500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,1y_tc,Aframax 1y TC,Jul-22,26500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,1y_tc,Aframax 1y TC,Jul-22,26000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,1y_tc,Aframax 1y TC,Aug-22,27500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,1y_tc,Aframax 1y TC,Sep-22,31000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,1y_tc,Aframax 1y TC,Oct-22,37500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,1y_tc,Aframax 1y TC,Nov-22,36000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,1y_tc,Aframax 1y TC,Dec-22,45000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,1y_tc,Aframax 1y TC,Jan-23,49000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,1y_tc,Aframax 1y TC,Feb-23,45500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,1y_tc,Aframax 1y TC,Mar-23,48500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,1y_tc,Aframax 1y TC,Apr-23,57500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,1y_tc,Aframax 1y TC,May-23,55500,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,1y_tc,Aframax 1y TC,May-23,50400,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,1y_tc,Aframax 1y TC,Jun-23,50000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,1y_tc,Aframax 1y TC,Jun-23,46100,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,1y_tc,Aframax 1y TC,Jul-23,49300,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,1y_tc,Aframax 1y TC,Aug-23,46100,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,1y_tc,Aframax 1y TC,Sep-23,41800,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,1y_tc,Aframax 1y TC,Oct-23,41200,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,1y_tc,Aframax 1y TC,Nov-23,44800,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,1y_tc,Aframax 1y TC,Dec-23,45600,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,1y_tc,Aframax 1y TC,Jan-24,47200,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,1y_tc,Aframax 1y TC,Feb-24,47500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,1y_tc,Aframax 1y TC,Mar-24,47400,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,1y_tc,Aframax 1y TC,Apr-24,47500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,1y_tc,Aframax 1y TC,May-24,51600,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,1y_tc,Aframax 1y TC,Jun-24,50700,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,1y_tc,Aframax 1y TC,Jun-24,51700,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,1y_tc,Aframax 1y TC,Jul-24,49500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,1y_tc,Aframax 1y TC,Aug-24,46500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,1y_tc,Aframax 1y TC,Sep-24,41100,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,1y_tc,Aframax 1y TC,Oct-24,43600,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,1y_tc,Aframax 1y TC,Nov-24,37800,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,1y_tc,Aframax 1y TC,Dec-24,32700,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,1y_tc,Aframax 1y TC,Jan-25,31200,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,1y_tc,Aframax 1y TC,Feb-25,32000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,1y_tc,Aframax 1y TC,Mar-25,30000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,1y_tc,Aframax 1y TC,Apr-25,32100,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,1y_tc,Aframax 1y TC,May-25,33100,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,1y_tc,LR1 1y TC,Oct-19,17000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,1y_tc,LR1 1y TC,Jan-20,19000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,1y_tc,LR1 1y TC,Apr-20,20000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,1y_tc,LR1 1y TC,Jul-20,17000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,1y_tc,LR1 1y TC,Oct-20,15000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,1y_tc,LR1 1y TC,Nov-20,15000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,1y_tc,LR1 1y TC,Jan-21,14000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,1y_tc,LR1 1y TC,Jan-21,15000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,1y_tc,LR1 1y TC,Mar-21,14000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,1y_tc,LR1 1y TC,Apr-21,15000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,1y_tc,LR1 1y TC,May-21,14500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,1y_tc,LR1 1y TC,Jul-21,15000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,1y_tc,LR1 1y TC,Jul-21,16700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,1y_tc,LR1 1y TC,Sep-21,16700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,1y_tc,LR1 1y TC,Oct-21,14000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,1y_tc,LR1 1y TC,Oct-21,17000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,1y_tc,LR1 1y TC,Nov-21,14400,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,1y_tc,LR1 1y TC,Nov-21,14500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,1y_tc,LR1 1y TC,Dec-21,14500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,1y_tc,LR1 1y TC,Jan-22,15400,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,1y_tc,LR1 1y TC,Jan-22,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,1y_tc,LR1 1y TC,Feb-22,15500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,1y_tc,LR1 1y TC,Mar-22,17500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,1y_tc,LR1 1y TC,Mar-22,15500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,1y_tc,LR1 1y TC,Apr-22,17500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,1y_tc,LR1 1y TC,May-22,20200,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,1y_tc,LR1 1y TC,May-22,18000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,1y_tc,LR1 1y TC,Jun-22,20500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,1y_tc,LR1 1y TC,Jul-22,27100,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,1y_tc,LR1 1y TC,Jul-22,27500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,1y_tc,LR1 1y TC,Aug-22,27500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,1y_tc,LR1 1y TC,Sep-22,29000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,1y_tc,LR1 1y TC,Oct-22,36000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,1y_tc,LR1 1y TC,Nov-22,42500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,1y_tc,LR1 1y TC,Dec-22,42500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,1y_tc,LR1 1y TC,Jan-23,46500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,1y_tc,LR1 1y TC,Feb-23,41000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,1y_tc,LR1 1y TC,Mar-23,41000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,1y_tc,LR1 1y TC,Apr-23,41000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,1y_tc,LR1 1y TC,May-23,39000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,1y_tc,LR1 1y TC,May-23,40000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,1y_tc,LR1 1y TC,Jun-23,36500,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,1y_tc,LR1 1y TC,Jun-23,39000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,1y_tc,LR1 1y TC,Jul-23,37000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,1y_tc,LR1 1y TC,Aug-23,35000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,1y_tc,LR1 1y TC,Sep-23,33000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,1y_tc,LR1 1y TC,Oct-23,33000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,1y_tc,LR1 1y TC,Nov-23,35000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,1y_tc,LR1 1y TC,Dec-23,35000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,1y_tc,LR1 1y TC,Jan-24,36000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,1y_tc,LR1 1y TC,Feb-24,46000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,1y_tc,LR1 1y TC,Mar-24,39000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,1y_tc,LR1 1y TC,Apr-24,43000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,1y_tc,LR1 1y TC,May-24,43000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,1y_tc,LR1 1y TC,Jun-24,42000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,1y_tc,LR1 1y TC,Jun-24,42500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,1y_tc,LR1 1y TC,Jul-24,41500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,1y_tc,LR1 1y TC,Aug-24,40000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,1y_tc,LR1 1y TC,Sep-24,38000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,1y_tc,LR1 1y TC,Oct-24,31500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,1y_tc,LR1 1y TC,Nov-24,24000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,1y_tc,LR1 1y TC,Dec-24,22000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,1y_tc,LR1 1y TC,Jan-25,26500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,1y_tc,LR1 1y TC,Feb-25,24500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,1y_tc,LR1 1y TC,Mar-25,24500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,1y_tc,LR1 1y TC,Apr-25,24500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,1y_tc,LR1 1y TC,May-25,26000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,1y_tc,LR2 1y TC,Oct-19,23000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,1y_tc,LR2 1y TC,Jan-20,29000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,1y_tc,LR2 1y TC,Apr-20,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,1y_tc,LR2 1y TC,Jul-20,26000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,1y_tc,LR2 1y TC,Oct-20,23000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,1y_tc,LR2 1y TC,Nov-20,19700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,1y_tc,LR2 1y TC,Jan-21,19000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,1y_tc,LR2 1y TC,Jan-21,18200,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,1y_tc,LR2 1y TC,Mar-21,18000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,1y_tc,LR2 1y TC,Apr-21,21000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,1y_tc,LR2 1y TC,May-21,20500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,1y_tc,LR2 1y TC,Jul-21,21000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,1y_tc,LR2 1y TC,Jul-21,20400,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,1y_tc,LR2 1y TC,Sep-21,20400,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,1y_tc,LR2 1y TC,Oct-21,21000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,1y_tc,LR2 1y TC,Oct-21,18500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,1y_tc,LR2 1y TC,Nov-21,19700,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,1y_tc,LR2 1y TC,Nov-21,20000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,1y_tc,LR2 1y TC,Dec-21,20000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,1y_tc,LR2 1y TC,Jan-22,19700,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,1y_tc,LR2 1y TC,Jan-22,20000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,1y_tc,LR2 1y TC,Feb-22,20000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,1y_tc,LR2 1y TC,Mar-22,20300,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,1y_tc,LR2 1y TC,Mar-22,19000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,1y_tc,LR2 1y TC,Apr-22,23500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,1y_tc,LR2 1y TC,May-22,24000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,1y_tc,LR2 1y TC,May-22,23500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,1y_tc,LR2 1y TC,Jun-22,29000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,1y_tc,LR2 1y TC,Jul-22,30000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,1y_tc,LR2 1y TC,Jul-22,31500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,1y_tc,LR2 1y TC,Aug-22,31500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,1y_tc,LR2 1y TC,Sep-22,32000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,1y_tc,LR2 1y TC,Oct-22,39500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,1y_tc,LR2 1y TC,Nov-22,44500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,1y_tc,LR2 1y TC,Dec-22,44500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,1y_tc,LR2 1y TC,Jan-23,56000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,1y_tc,LR2 1y TC,Feb-23,52500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,1y_tc,LR2 1y TC,Mar-23,52500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,1y_tc,LR2 1y TC,Apr-23,51000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,1y_tc,LR2 1y TC,May-23,52000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,1y_tc,LR2 1y TC,May-23,52000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,1y_tc,LR2 1y TC,Jun-23,48000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,1y_tc,LR2 1y TC,Jun-23,51000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,1y_tc,LR2 1y TC,Jul-23,48000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,1y_tc,LR2 1y TC,Aug-23,43000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,1y_tc,LR2 1y TC,Sep-23,43000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,1y_tc,LR2 1y TC,Oct-23,43000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,1y_tc,LR2 1y TC,Nov-23,43000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,1y_tc,LR2 1y TC,Dec-23,46000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,1y_tc,LR2 1y TC,Jan-24,46000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,1y_tc,LR2 1y TC,Feb-24,51000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,1y_tc,LR2 1y TC,Mar-24,49000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,1y_tc,LR2 1y TC,Apr-24,52000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,1y_tc,LR2 1y TC,May-24,52000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,1y_tc,LR2 1y TC,Jun-24,52000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,1y_tc,LR2 1y TC,Jun-24,53000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,1y_tc,LR2 1y TC,Jul-24,51000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,1y_tc,LR2 1y TC,Aug-24,48500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,1y_tc,LR2 1y TC,Sep-24,44000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,1y_tc,LR2 1y TC,Oct-24,43000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,1y_tc,LR2 1y TC,Nov-24,38000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,1y_tc,LR2 1y TC,Dec-24,32500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,1y_tc,LR2 1y TC,Jan-25,31500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,1y_tc,LR2 1y TC,Feb-25,31500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,1y_tc,LR2 1y TC,Mar-25,31000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,1y_tc,LR2 1y TC,Apr-25,30800,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,1y_tc,LR2 1y TC,May-25,31500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,1y_tc,MR2 1y TC,Oct-19,16000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,1y_tc,MR2 1y TC,Jan-20,16000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,1y_tc,MR2 1y TC,Apr-20,16000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,1y_tc,MR2 1y TC,Jul-20,15000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,1y_tc,MR2 1y TC,Oct-20,14000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,1y_tc,MR2 1y TC,Nov-20,14700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,1y_tc,MR2 1y TC,Jan-21,12000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,1y_tc,MR2 1y TC,Jan-21,13100,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,1y_tc,MR2 1y TC,Mar-21,14500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,1y_tc,MR2 1y TC,Apr-21,13000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,1y_tc,MR2 1y TC,May-21,14600,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,1y_tc,MR2 1y TC,Jul-21,12000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,1y_tc,MR2 1y TC,Jul-21,14000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,1y_tc,MR2 1y TC,Sep-21,14000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,1y_tc,MR2 1y TC,Oct-21,13000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,1y_tc,MR2 1y TC,Oct-21,14000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,1y_tc,MR2 1y TC,Nov-21,15000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,1y_tc,MR2 1y TC,Nov-21,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,1y_tc,MR2 1y TC,Dec-21,15500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,1y_tc,MR2 1y TC,Jan-22,15500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,1y_tc,MR2 1y TC,Jan-22,15500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,1y_tc,MR2 1y TC,Feb-22,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,1y_tc,MR2 1y TC,Mar-22,16000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,1y_tc,MR2 1y TC,Mar-22,14500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,1y_tc,MR2 1y TC,Apr-22,16000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,1y_tc,MR2 1y TC,May-22,20000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,1y_tc,MR2 1y TC,May-22,18500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,1y_tc,MR2 1y TC,Jun-22,20500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,1y_tc,MR2 1y TC,Jul-22,24600,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,1y_tc,MR2 1y TC,Jul-22,24500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,1y_tc,MR2 1y TC,Aug-22,24000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,1y_tc,MR2 1y TC,Sep-22,28500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,1y_tc,MR2 1y TC,Oct-22,26000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,1y_tc,MR2 1y TC,Nov-22,32500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,1y_tc,MR2 1y TC,Dec-22,32500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,1y_tc,MR2 1y TC,Jan-23,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,1y_tc,MR2 1y TC,Feb-23,31500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,1y_tc,MR2 1y TC,Mar-23,34500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,1y_tc,MR2 1y TC,Apr-23,34000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,1y_tc,MR2 1y TC,May-23,29000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,1y_tc,MR2 1y TC,May-23,31000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,1y_tc,MR2 1y TC,Jun-23,29500,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,1y_tc,MR2 1y TC,Jun-23,29000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,1y_tc,MR2 1y TC,Jul-23,29000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,1y_tc,MR2 1y TC,Aug-23,27000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,1y_tc,MR2 1y TC,Sep-23,28000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,1y_tc,MR2 1y TC,Oct-23,28500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,1y_tc,MR2 1y TC,Nov-23,28500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,1y_tc,MR2 1y TC,Dec-23,30000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,1y_tc,MR2 1y TC,Jan-24,31000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,1y_tc,MR2 1y TC,Feb-24,33000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,1y_tc,MR2 1y TC,Mar-24,32000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,1y_tc,MR2 1y TC,Apr-24,32500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,1y_tc,MR2 1y TC,May-24,34500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,1y_tc,MR2 1y TC,Jun-24,34000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,1y_tc,MR2 1y TC,Jun-24,34500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,1y_tc,MR2 1y TC,Jul-24,34000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,1y_tc,MR2 1y TC,Aug-24,33000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,1y_tc,MR2 1y TC,Sep-24,29500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,1y_tc,MR2 1y TC,Oct-24,29000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,1y_tc,MR2 1y TC,Nov-24,24500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,1y_tc,MR2 1y TC,Dec-24,21000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,1y_tc,MR2 1y TC,Jan-25,22000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,1y_tc,MR2 1y TC,Feb-25,21500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,1y_tc,MR2 1y TC,Mar-25,21500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,1y_tc,MR2 1y TC,Apr-25,21500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,1y_tc,MR2 1y TC,May-25,20500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,1y_tc,Suezmax 1y TC,Oct-19,27000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,1y_tc,Suezmax 1y TC,Jan-20,33000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,1y_tc,Suezmax 1y TC,Apr-20,40000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,1y_tc,Suezmax 1y TC,Jul-20,27000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,1y_tc,Suezmax 1y TC,Oct-20,19000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,1y_tc,Suezmax 1y TC,Nov-20,20200,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,1y_tc,Suezmax 1y TC,Jan-21,17000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,1y_tc,Suezmax 1y TC,Jan-21,19500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,1y_tc,Suezmax 1y TC,Mar-21,19500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,1y_tc,Suezmax 1y TC,Apr-21,17000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,1y_tc,Suezmax 1y TC,May-21,20000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,1y_tc,Suezmax 1y TC,Jul-21,16000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,1y_tc,Suezmax 1y TC,Jul-21,20000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,1y_tc,Suezmax 1y TC,Sep-21,19700,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,1y_tc,Suezmax 1y TC,Oct-21,16000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,1y_tc,Suezmax 1y TC,Oct-21,21000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,1y_tc,Suezmax 1y TC,Nov-21,21000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,1y_tc,Suezmax 1y TC,Nov-21,21000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,1y_tc,Suezmax 1y TC,Dec-21,21000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,1y_tc,Suezmax 1y TC,Jan-22,19500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,1y_tc,Suezmax 1y TC,Jan-22,20500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,1y_tc,Suezmax 1y TC,Feb-22,19500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,1y_tc,Suezmax 1y TC,Mar-22,18500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,1y_tc,Suezmax 1y TC,Mar-22,25000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,1y_tc,Suezmax 1y TC,Apr-22,25000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,1y_tc,Suezmax 1y TC,May-22,26000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,1y_tc,Suezmax 1y TC,May-22,26500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,1y_tc,Suezmax 1y TC,Jun-22,26500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,1y_tc,Suezmax 1y TC,Jul-22,26500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,1y_tc,Suezmax 1y TC,Jul-22,27500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,1y_tc,Suezmax 1y TC,Aug-22,31500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,1y_tc,Suezmax 1y TC,Sep-22,31500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,1y_tc,Suezmax 1y TC,Oct-22,38500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,1y_tc,Suezmax 1y TC,Nov-22,45000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,1y_tc,Suezmax 1y TC,Dec-22,46500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,1y_tc,Suezmax 1y TC,Jan-23,49500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,1y_tc,Suezmax 1y TC,Feb-23,46500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,1y_tc,Suezmax 1y TC,Mar-23,45500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,1y_tc,Suezmax 1y TC,Apr-23,51000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,1y_tc,Suezmax 1y TC,May-23,51000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,1y_tc,Suezmax 1y TC,May-23,47600,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,1y_tc,Suezmax 1y TC,Jun-23,50500,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,1y_tc,Suezmax 1y TC,Jun-23,45500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,1y_tc,Suezmax 1y TC,Jul-23,45400,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,1y_tc,Suezmax 1y TC,Aug-23,45000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,1y_tc,Suezmax 1y TC,Sep-23,41600,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,1y_tc,Suezmax 1y TC,Oct-23,42900,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,1y_tc,Suezmax 1y TC,Nov-23,47400,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,1y_tc,Suezmax 1y TC,Dec-23,46000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,1y_tc,Suezmax 1y TC,Jan-24,47500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,1y_tc,Suezmax 1y TC,Feb-24,44800,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,1y_tc,Suezmax 1y TC,Mar-24,49200,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,1y_tc,Suezmax 1y TC,Apr-24,47500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,1y_tc,Suezmax 1y TC,May-24,47000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,1y_tc,Suezmax 1y TC,Jun-24,45800,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,1y_tc,Suezmax 1y TC,Jun-24,47000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,1y_tc,Suezmax 1y TC,Jul-24,45700,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,1y_tc,Suezmax 1y TC,Aug-24,46800,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,1y_tc,Suezmax 1y TC,Sep-24,44200,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,1y_tc,Suezmax 1y TC,Oct-24,45800,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,1y_tc,Suezmax 1y TC,Nov-24,41800,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,1y_tc,Suezmax 1y TC,Dec-24,33900,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,1y_tc,Suezmax 1y TC,Jan-25,34500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,1y_tc,Suezmax 1y TC,Feb-25,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,1y_tc,Suezmax 1y TC,Mar-25,35300,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,1y_tc,Suezmax 1y TC,Apr-25,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,1y_tc,Suezmax 1y TC,May-25,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,1y_tc,VLCC 1y TC,Oct-19,39000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,1y_tc,VLCC 1y TC,Jan-20,49000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,1y_tc,VLCC 1y TC,Apr-20,60000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,1y_tc,VLCC 1y TC,Jul-20,47000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,1y_tc,VLCC 1y TC,Oct-20,26000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,1y_tc,VLCC 1y TC,Nov-20,27500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,1y_tc,VLCC 1y TC,Jan-21,24000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,1y_tc,VLCC 1y TC,Jan-21,27500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,1y_tc,VLCC 1y TC,Mar-21,26500,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,1y_tc,VLCC 1y TC,Apr-21,23000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,1y_tc,VLCC 1y TC,May-21,25000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,1y_tc,VLCC 1y TC,Jul-21,19000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,1y_tc,VLCC 1y TC,Jul-21,25000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,1y_tc,VLCC 1y TC,Sep-21,23000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,1y_tc,VLCC 1y TC,Oct-21,20000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,1y_tc,VLCC 1y TC,Oct-21,25000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,1y_tc,VLCC 1y TC,Nov-21,27200,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,1y_tc,VLCC 1y TC,Nov-21,27500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,1y_tc,VLCC 1y TC,Dec-21,27000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,1y_tc,VLCC 1y TC,Jan-22,22700,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,1y_tc,VLCC 1y TC,Jan-22,24000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,1y_tc,VLCC 1y TC,Feb-22,23000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,1y_tc,VLCC 1y TC,Mar-22,19000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,1y_tc,VLCC 1y TC,Mar-22,21500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,1y_tc,VLCC 1y TC,Apr-22,21500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,1y_tc,VLCC 1y TC,May-22,22500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,1y_tc,VLCC 1y TC,May-22,22500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,1y_tc,VLCC 1y TC,Jun-22,22500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,1y_tc,VLCC 1y TC,Jul-22,22500,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,1y_tc,VLCC 1y TC,Jul-22,22500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,1y_tc,VLCC 1y TC,Aug-22,22500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,1y_tc,VLCC 1y TC,Sep-22,39000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,1y_tc,VLCC 1y TC,Oct-22,47500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,1y_tc,VLCC 1y TC,Nov-22,51000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,1y_tc,VLCC 1y TC,Dec-22,56000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,1y_tc,VLCC 1y TC,Jan-23,48500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,1y_tc,VLCC 1y TC,Feb-23,45500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,1y_tc,VLCC 1y TC,Mar-23,45500,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,1y_tc,VLCC 1y TC,Apr-23,69000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,1y_tc,VLCC 1y TC,May-23,46000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,1y_tc,VLCC 1y TC,May-23,45600,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,1y_tc,VLCC 1y TC,Jun-23,45500,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,1y_tc,VLCC 1y TC,Jun-23,43700,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,1y_tc,VLCC 1y TC,Jul-23,45300,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,1y_tc,VLCC 1y TC,Aug-23,44000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,1y_tc,VLCC 1y TC,Sep-23,49400,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,1y_tc,VLCC 1y TC,Oct-23,44500,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,1y_tc,VLCC 1y TC,Nov-23,51300,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,1y_tc,VLCC 1y TC,Dec-23,49900,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,1y_tc,VLCC 1y TC,Jan-24,49900,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,1y_tc,VLCC 1y TC,Feb-24,50900,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,1y_tc,VLCC 1y TC,Mar-24,52800,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,1y_tc,VLCC 1y TC,Apr-24,52700,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,1y_tc,VLCC 1y TC,May-24,52200,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,1y_tc,VLCC 1y TC,Jun-24,51700,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,1y_tc,VLCC 1y TC,Jun-24,52200,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,1y_tc,VLCC 1y TC,Jul-24,51700,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,1y_tc,VLCC 1y TC,Aug-24,49300,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,1y_tc,VLCC 1y TC,Sep-24,49100,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,1y_tc,VLCC 1y TC,Oct-24,51000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,1y_tc,VLCC 1y TC,Nov-24,46800,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,1y_tc,VLCC 1y TC,Dec-24,40800,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,1y_tc,VLCC 1y TC,Jan-25,45400,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,1y_tc,VLCC 1y TC,Feb-25,44400,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,1y_tc,VLCC 1y TC,Mar-25,47600,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,1y_tc,VLCC 1y TC,Apr-25,50500,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,1y_tc,VLCC 1y TC,May-25,46600,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,spot,Aframax spot,Oct-19,40000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,spot,Aframax spot,Jan-20,110000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,spot,Aframax spot,Apr-20,60000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,spot,Aframax spot,Jul-20,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,spot,Aframax spot,Oct-20,0,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,spot,Aframax spot,Nov-20,-2000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,spot,Aframax spot,Jan-21,-10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,spot,Aframax spot,Jan-21,-5000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,spot,Aframax spot,Mar-21,15000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,spot,Aframax spot,Apr-21,0,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-04,2026-04-20,2026,spot,Aframax spot,Apr 21,10000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-05,2022-07-01,2022,spot,Aframax spot,May-21,2000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,spot,Aframax spot,Jul-21,10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,spot,Aframax spot,Jul-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,spot,Aframax spot,Sep-21,0,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2026-04-20,2026,spot,Aframax spot,Sept 21,5000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-10,2021-10-18,2021,spot,Aframax spot,Oct-21,0,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,spot,Aframax spot,Oct-21,-2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,spot,Aframax spot,Nov-21,15000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,spot,Aframax spot,Nov-21,6000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,spot,Aframax spot,Dec-21,10000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,spot,Aframax spot,Jan-22,-5000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,spot,Aframax spot,Jan-22,8000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,spot,Aframax spot,Feb-22,-2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2026-04-20,2026,spot,Aframax spot,Feb 22,15000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-03,2022-07-01,2022,spot,Aframax spot,Mar-22,80000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,spot,Aframax spot,Mar-22,75000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,spot,Aframax spot,Apr-22,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,spot,Aframax spot,May-22,40000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,spot,Aframax spot,May-22,40000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,spot,Aframax spot,Jun-22,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,spot,Aframax spot,Jul-22,25000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,spot,Aframax spot,Jul-22,30000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2026-04-20,2026,spot,Aframax spot,Jul 22,20000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-08,2023-06-26,2023,spot,Aframax spot,Aug-22,60000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,spot,Aframax spot,Sep-22,50000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,spot,Aframax spot,Oct-22,65000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,spot,Aframax spot,Nov-22,75000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,spot,Aframax spot,Dec-22,145000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2026-04-20,2026,spot,Aframax spot,Dec 22,105000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-01,2023-06-26,2023,spot,Aframax spot,Jan-23,65000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,spot,Aframax spot,Feb-23,55000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,spot,Aframax spot,Mar-23,55000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,spot,Aframax spot,Apr-23,75000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,spot,Aframax spot,May-23,55000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,spot,Aframax spot,May-23,38000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-05,2026-04-20,2026,spot,Aframax spot,May 23,50000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-06,2023-06-26,2023,spot,Aframax spot,Jun-23,40000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,spot,Aframax spot,Jun-23,57000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,spot,Aframax spot,Jul-23,41000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,spot,Aframax spot,Aug-23,20000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,spot,Aframax spot,Sep-23,1000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,spot,Aframax spot,Oct-23,-3000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2026-04-20,2026,spot,Aframax spot,Oct 23,10000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-11,2024-07-01,2024,spot,Aframax spot,Nov-23,103000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,spot,Aframax spot,Dec-23,75000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,spot,Aframax spot,Jan-24,80000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,spot,Aframax spot,Feb-24,71000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,spot,Aframax spot,Mar-24,26000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2026-04-20,2026,spot,Aframax spot,Mar 24,45000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-04,2024-07-01,2024,spot,Aframax spot,Apr-24,41000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,spot,Aframax spot,May-24,45000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,spot,Aframax spot,Jun-24,53000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,spot,Aframax spot,Jun-24,67000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,spot,Aframax spot,Jul-24,30000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,spot,Aframax spot,Aug-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2026-04-20,2026,spot,Aframax spot,Aug 24,25000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-09,2025-06-23,2025,spot,Aframax spot,Sep-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,spot,Aframax spot,Oct-24,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,spot,Aframax spot,Nov-24,30000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,spot,Aframax spot,Dec-24,45000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,spot,Aframax spot,Jan-25,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2026-04-20,2026,spot,Aframax spot,Jan 25,40000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-02,2025-06-23,2025,spot,Aframax spot,Feb-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,spot,Aframax spot,Mar-25,55000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,spot,Aframax spot,Apr-25,50000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,spot,Aframax spot,May-25,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-06,2026-04-20,2026,spot,Aframax spot,Jun 25,30000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-11,2026-04-20,2026,spot,Aframax spot,Nov 25,80000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2026-04,2026-04-20,2026,spot,Aframax spot,Apr 26,125000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2019-10,2021-10-18,2021,spot,LR1 spot,Oct-19,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,spot,LR1 spot,Jan-20,20000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,spot,LR1 spot,Apr-20,40000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,spot,LR1 spot,Jul-20,20000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,spot,LR1 spot,Oct-20,5000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,spot,LR1 spot,Nov-20,6000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,spot,LR1 spot,Jan-21,0,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,spot,LR1 spot,Jan-21,11000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,spot,LR1 spot,Mar-21,6000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,spot,LR1 spot,Apr-21,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,spot,LR1 spot,May-21,14000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,spot,LR1 spot,Jul-21,5000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,spot,LR1 spot,Jul-21,8000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,spot,LR1 spot,Sep-21,13000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,spot,LR1 spot,Oct-21,5000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,spot,LR1 spot,Oct-21,5000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,spot,LR1 spot,Nov-21,10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,spot,LR1 spot,Nov-21,8000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,spot,LR1 spot,Dec-21,10000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,spot,LR1 spot,Jan-22,4000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,spot,LR1 spot,Jan-22,11000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,spot,LR1 spot,Feb-22,2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,spot,LR1 spot,Mar-22,10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,spot,LR1 spot,Mar-22,18000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,spot,LR1 spot,Apr-22,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,spot,LR1 spot,May-22,12000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,spot,LR1 spot,May-22,45000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,spot,LR1 spot,Jun-22,57000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,spot,LR1 spot,Jul-22,47000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,spot,LR1 spot,Jul-22,38000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,spot,LR1 spot,Aug-22,40000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,spot,LR1 spot,Sep-22,55000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,spot,LR1 spot,Oct-22,25000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,spot,LR1 spot,Nov-22,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,spot,LR1 spot,Dec-22,70000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,spot,LR1 spot,Jan-23,18000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,spot,LR1 spot,Feb-23,18000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,spot,LR1 spot,Mar-23,38000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,spot,LR1 spot,Apr-23,38000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,spot,LR1 spot,May-23,30000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,spot,LR1 spot,May-23,38000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,spot,LR1 spot,Jun-23,25000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,spot,LR1 spot,Jun-23,32000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,spot,LR1 spot,Jul-23,18000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,spot,LR1 spot,Aug-23,20000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,spot,LR1 spot,Sep-23,25000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,spot,LR1 spot,Oct-23,25000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,spot,LR1 spot,Nov-23,18000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,spot,LR1 spot,Dec-23,15000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,spot,LR1 spot,Jan-24,38000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,spot,LR1 spot,Feb-24,75000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,spot,LR1 spot,Mar-24,30000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,spot,LR1 spot,Apr-24,60000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,spot,LR1 spot,May-24,40000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,spot,LR1 spot,Jun-24,40000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,spot,LR1 spot,Jun-24,47000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,spot,LR1 spot,Jul-24,38000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,spot,LR1 spot,Aug-24,22000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,spot,LR1 spot,Sep-24,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,spot,LR1 spot,Oct-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,spot,LR1 spot,Nov-24,12000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,spot,LR1 spot,Dec-24,12000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,spot,LR1 spot,Jan-25,22000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,spot,LR1 spot,Feb-25,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,spot,LR1 spot,Mar-25,30000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,spot,LR1 spot,Apr-25,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,spot,LR1 spot,May-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,spot,LR2 spot,Oct-19,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,spot,LR2 spot,Jan-20,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,spot,LR2 spot,Apr-20,50000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,spot,LR2 spot,Jul-20,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,spot,LR2 spot,Oct-20,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,spot,LR2 spot,Nov-20,6000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,spot,LR2 spot,Jan-21,5000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,spot,LR2 spot,Jan-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,spot,LR2 spot,Mar-21,5000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,spot,LR2 spot,Apr-21,20000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-05,2022-07-01,2022,spot,LR2 spot,May-21,21000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,spot,LR2 spot,Jul-21,10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,spot,LR2 spot,Jul-21,5000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,spot,LR2 spot,Sep-21,12000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-10,2021-10-18,2021,spot,LR2 spot,Oct-21,5000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,spot,LR2 spot,Oct-21,8000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,spot,LR2 spot,Nov-21,10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,spot,LR2 spot,Nov-21,8000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,spot,LR2 spot,Dec-21,10000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,spot,LR2 spot,Jan-22,-2000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,spot,LR2 spot,Jan-22,13000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,spot,LR2 spot,Feb-22,-2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-03,2022-07-01,2022,spot,LR2 spot,Mar-22,-5000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,spot,LR2 spot,Mar-22,20000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,spot,LR2 spot,Apr-22,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,spot,LR2 spot,May-22,10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,spot,LR2 spot,May-22,64000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,spot,LR2 spot,Jun-22,25000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,spot,LR2 spot,Jul-22,28000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,spot,LR2 spot,Jul-22,32000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-08,2023-06-26,2023,spot,LR2 spot,Aug-22,43000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,spot,LR2 spot,Sep-22,60000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,spot,LR2 spot,Oct-22,30000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,spot,LR2 spot,Nov-22,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,spot,LR2 spot,Dec-22,75000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-01,2023-06-26,2023,spot,LR2 spot,Jan-23,65000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,spot,LR2 spot,Feb-23,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,spot,LR2 spot,Mar-23,53000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,spot,LR2 spot,Apr-23,48000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,spot,LR2 spot,May-23,35000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,spot,LR2 spot,May-23,46000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-06,2023-06-26,2023,spot,LR2 spot,Jun-23,22000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,spot,LR2 spot,Jun-23,28000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,spot,LR2 spot,Jul-23,18000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,spot,LR2 spot,Aug-23,20000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,spot,LR2 spot,Sep-23,28000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,spot,LR2 spot,Oct-23,38000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-11,2024-07-01,2024,spot,LR2 spot,Nov-23,20000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,spot,LR2 spot,Dec-23,18000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,spot,LR2 spot,Jan-24,50000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,spot,LR2 spot,Feb-24,100000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,spot,LR2 spot,Mar-24,35000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-04,2024-07-01,2024,spot,LR2 spot,Apr-24,88000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,spot,LR2 spot,May-24,52000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,spot,LR2 spot,Jun-24,42000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,spot,LR2 spot,Jun-24,60000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,spot,LR2 spot,Jul-24,40000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,spot,LR2 spot,Aug-24,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-09,2025-06-23,2025,spot,LR2 spot,Sep-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,spot,LR2 spot,Oct-24,32000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,spot,LR2 spot,Nov-24,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,spot,LR2 spot,Dec-24,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,spot,LR2 spot,Jan-25,40000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-02,2025-06-23,2025,spot,LR2 spot,Feb-25,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,spot,LR2 spot,Mar-25,40000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,spot,LR2 spot,Apr-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,spot,LR2 spot,May-25,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2019-10,2021-10-18,2021,spot,MR Atlantic Basket spot,Oct-19,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,spot,MR Atlantic Basket spot,Jan-20,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,spot,MR Atlantic Basket spot,Apr-20,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,spot,MR Atlantic Basket spot,Jul-20,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,spot,MR Atlantic Basket spot,Oct-20,5000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,spot,MR Atlantic Basket spot,Nov-20,5000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,spot,MR Atlantic Basket spot,Jan-21,5000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,spot,MR Atlantic Basket spot,Jan-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,spot,MR Atlantic Basket spot,Mar-21,8000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,spot,MR Atlantic Basket spot,Apr-21,5000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-04,2026-04-20,2026,spot,MR Atlantic Basket spot,Apr 21,11000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-05,2022-07-01,2022,spot,MR Atlantic Basket spot,May-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,spot,MR Atlantic Basket spot,Jul-21,10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,spot,MR Atlantic Basket spot,Jul-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,spot,MR Atlantic Basket spot,Sep-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2026-04-20,2026,spot,MR Atlantic Basket spot,Sept 21,5000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-10,2021-10-18,2021,spot,MR Atlantic Basket spot,Oct-21,5000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,spot,MR Atlantic Basket spot,Oct-21,3000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,spot,MR Atlantic Basket spot,Nov-21,10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,spot,MR Atlantic Basket spot,Nov-21,2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,spot,MR Atlantic Basket spot,Dec-21,10000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,spot,MR Atlantic Basket spot,Jan-22,10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,spot,MR Atlantic Basket spot,Jan-22,19000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,spot,MR Atlantic Basket spot,Feb-22,8000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2026-04-20,2026,spot,MR Atlantic Basket spot,Feb 22,15000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-03,2022-07-01,2022,spot,MR Atlantic Basket spot,Mar-22,15000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,spot,MR Atlantic Basket spot,Mar-22,22000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,spot,MR Atlantic Basket spot,Apr-22,30000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,spot,MR Atlantic Basket spot,May-22,65000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,spot,MR Atlantic Basket spot,May-22,48000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,spot,MR Atlantic Basket spot,Jun-22,18000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,spot,MR Atlantic Basket spot,Jul-22,47000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,spot,MR Atlantic Basket spot,Jul-22,45000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2026-04-20,2026,spot,MR Atlantic Basket spot,Jul 22,45000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-08,2023-06-26,2023,spot,MR Atlantic Basket spot,Aug-22,71000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,spot,MR Atlantic Basket spot,Sep-22,30000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,spot,MR Atlantic Basket spot,Oct-22,42000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,spot,MR Atlantic Basket spot,Nov-22,68000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,spot,MR Atlantic Basket spot,Dec-22,75000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2026-04-20,2026,spot,MR Atlantic Basket spot,Dec 22,75000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-01,2023-06-26,2023,spot,MR Atlantic Basket spot,Jan-23,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,spot,MR Atlantic Basket spot,Feb-23,56000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,spot,MR Atlantic Basket spot,Mar-23,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,spot,MR Atlantic Basket spot,Apr-23,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,spot,MR Atlantic Basket spot,May-23,35000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,spot,MR Atlantic Basket spot,May-23,21000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-05,2026-04-20,2026,spot,MR Atlantic Basket spot,May 23,25000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-06,2023-06-26,2023,spot,MR Atlantic Basket spot,Jun-23,18000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,spot,MR Atlantic Basket spot,Jun-23,25000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,spot,MR Atlantic Basket spot,Jul-23,15000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,spot,MR Atlantic Basket spot,Aug-23,30000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,spot,MR Atlantic Basket spot,Sep-23,25000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,spot,MR Atlantic Basket spot,Oct-23,20000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2026-04-20,2026,spot,MR Atlantic Basket spot,Oct 23,40000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-11,2024-07-01,2024,spot,MR Atlantic Basket spot,Nov-23,45000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,spot,MR Atlantic Basket spot,Dec-23,55000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,spot,MR Atlantic Basket spot,Jan-24,40000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,spot,MR Atlantic Basket spot,Feb-24,35000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,spot,MR Atlantic Basket spot,Mar-24,40000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2026-04-20,2026,spot,MR Atlantic Basket spot,Mar 24,30000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-04,2024-07-01,2024,spot,MR Atlantic Basket spot,Apr-24,35000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,spot,MR Atlantic Basket spot,May-24,30000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,spot,MR Atlantic Basket spot,Jun-24,45000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,spot,MR Atlantic Basket spot,Jun-24,45000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,spot,MR Atlantic Basket spot,Jul-24,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,spot,MR Atlantic Basket spot,Aug-24,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2026-04-20,2026,spot,MR Atlantic Basket spot,Aug 24,20000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-09,2025-06-23,2025,spot,MR Atlantic Basket spot,Sep-24,22000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,spot,MR Atlantic Basket spot,Oct-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,spot,MR Atlantic Basket spot,Nov-24,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,spot,MR Atlantic Basket spot,Dec-24,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,spot,MR Atlantic Basket spot,Jan-25,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2026-04-20,2026,spot,MR Atlantic Basket spot,Jan 25,25000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-02,2025-06-23,2025,spot,MR Atlantic Basket spot,Feb-25,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,spot,MR Atlantic Basket spot,Mar-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,spot,MR Atlantic Basket spot,Apr-25,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,spot,MR Atlantic Basket spot,May-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-06,2026-04-20,2026,spot,MR Atlantic Basket spot,Jun 25,25000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-11,2026-04-20,2026,spot,MR Atlantic Basket spot,Nov 25,40000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2026-04,2026-04-20,2026,spot,MR Atlantic Basket spot,Apr 26,83000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2019-10,2021-10-18,2021,spot,MR Pacific Basket spot,Oct-19,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,spot,MR Pacific Basket spot,Jan-20,20000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,spot,MR Pacific Basket spot,Apr-20,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,spot,MR Pacific Basket spot,Jul-20,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,spot,MR Pacific Basket spot,Oct-20,5000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,spot,MR Pacific Basket spot,Nov-20,7000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,spot,MR Pacific Basket spot,Jan-21,0,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,spot,MR Pacific Basket spot,Jan-21,12000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,spot,MR Pacific Basket spot,Mar-21,7000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,spot,MR Pacific Basket spot,Apr-21,5000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-04,2026-04-20,2026,spot,MR Pacific Basket spot,Apr 21,12000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-05,2022-07-01,2022,spot,MR Pacific Basket spot,May-21,11000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,spot,MR Pacific Basket spot,Jul-21,10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,spot,MR Pacific Basket spot,Jul-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,spot,MR Pacific Basket spot,Sep-21,15000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2026-04-20,2026,spot,MR Pacific Basket spot,Sept 21,1000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-10,2021-10-18,2021,spot,MR Pacific Basket spot,Oct-21,5000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,spot,MR Pacific Basket spot,Oct-21,9000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,spot,MR Pacific Basket spot,Nov-21,11000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,spot,MR Pacific Basket spot,Nov-21,8000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,spot,MR Pacific Basket spot,Dec-21,10000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,spot,MR Pacific Basket spot,Jan-22,8000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,spot,MR Pacific Basket spot,Jan-22,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,spot,MR Pacific Basket spot,Feb-22,6000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2026-04-20,2026,spot,MR Pacific Basket spot,Feb 22,10000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-03,2022-07-01,2022,spot,MR Pacific Basket spot,Mar-22,10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,spot,MR Pacific Basket spot,Mar-22,25000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,spot,MR Pacific Basket spot,Apr-22,18000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,spot,MR Pacific Basket spot,May-22,12000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,spot,MR Pacific Basket spot,May-22,54000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,spot,MR Pacific Basket spot,Jun-22,40000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,spot,MR Pacific Basket spot,Jul-22,54000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,spot,MR Pacific Basket spot,Jul-22,57000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2026-04-20,2026,spot,MR Pacific Basket spot,Jul 22,45000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-08,2023-06-26,2023,spot,MR Pacific Basket spot,Aug-22,55000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,spot,MR Pacific Basket spot,Sep-22,65000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,spot,MR Pacific Basket spot,Oct-22,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,spot,MR Pacific Basket spot,Nov-22,42000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,spot,MR Pacific Basket spot,Dec-22,60000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2026-04-20,2026,spot,MR Pacific Basket spot,Dec 22,65000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-01,2023-06-26,2023,spot,MR Pacific Basket spot,Jan-23,45000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,spot,MR Pacific Basket spot,Feb-23,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,spot,MR Pacific Basket spot,Mar-23,45000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,spot,MR Pacific Basket spot,Apr-23,42000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,spot,MR Pacific Basket spot,May-23,35000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,spot,MR Pacific Basket spot,May-23,31000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-05,2026-04-20,2026,spot,MR Pacific Basket spot,May 23,25000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-06,2023-06-26,2023,spot,MR Pacific Basket spot,Jun-23,20000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,spot,MR Pacific Basket spot,Jun-23,35000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,spot,MR Pacific Basket spot,Jul-23,20000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,spot,MR Pacific Basket spot,Aug-23,25000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,spot,MR Pacific Basket spot,Sep-23,28000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,spot,MR Pacific Basket spot,Oct-23,38000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2026-04-20,2026,spot,MR Pacific Basket spot,Oct 23,30000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-11,2024-07-01,2024,spot,MR Pacific Basket spot,Nov-23,20000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,spot,MR Pacific Basket spot,Dec-23,18000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,spot,MR Pacific Basket spot,Jan-24,30000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,spot,MR Pacific Basket spot,Feb-24,58000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,spot,MR Pacific Basket spot,Mar-24,42000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2026-04-20,2026,spot,MR Pacific Basket spot,Mar 24,45000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-04,2024-07-01,2024,spot,MR Pacific Basket spot,Apr-24,40000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,spot,MR Pacific Basket spot,May-24,42000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,spot,MR Pacific Basket spot,Jun-24,40000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,spot,MR Pacific Basket spot,Jun-24,53000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,spot,MR Pacific Basket spot,Jul-24,38000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,spot,MR Pacific Basket spot,Aug-24,22000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2026-04-20,2026,spot,MR Pacific Basket spot,Aug 24,18000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-09,2025-06-23,2025,spot,MR Pacific Basket spot,Sep-24,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,spot,MR Pacific Basket spot,Oct-24,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,spot,MR Pacific Basket spot,Nov-24,10000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,spot,MR Pacific Basket spot,Dec-24,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,spot,MR Pacific Basket spot,Jan-25,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2026-04-20,2026,spot,MR Pacific Basket spot,Jan 25,20000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-02,2025-06-23,2025,spot,MR Pacific Basket spot,Feb-25,15000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,spot,MR Pacific Basket spot,Mar-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,spot,MR Pacific Basket spot,Apr-25,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,spot,MR Pacific Basket spot,May-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-06,2026-04-20,2026,spot,MR Pacific Basket spot,Jun 25,25000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-11,2026-04-20,2026,spot,MR Pacific Basket spot,Nov 25,30000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2026-04,2026-04-20,2026,spot,MR Pacific Basket spot,Apr 26,43000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2019-10,2021-10-18,2021,spot,Suezmax spot,Oct-19,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,spot,Suezmax spot,Jan-20,60000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,spot,Suezmax spot,Apr-20,120000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,spot,Suezmax spot,Jul-20,30000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,spot,Suezmax spot,Oct-20,10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,spot,Suezmax spot,Nov-20,5000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,spot,Suezmax spot,Jan-21,0,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,spot,Suezmax spot,Jan-21,2000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,spot,Suezmax spot,Mar-21,10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,spot,Suezmax spot,Apr-21,0,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-04,2026-04-20,2026,spot,Suezmax spot,Apr 21,15000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-05,2022-07-01,2022,spot,Suezmax spot,May-21,2000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,spot,Suezmax spot,Jul-21,0,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,spot,Suezmax spot,Jul-21,0,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,spot,Suezmax spot,Sep-21,5000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2026-04-20,2026,spot,Suezmax spot,Sept 21,0,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-10,2021-10-18,2021,spot,Suezmax spot,Oct-21,10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,spot,Suezmax spot,Oct-21,-5000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,spot,Suezmax spot,Nov-21,8000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,spot,Suezmax spot,Nov-21,5000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,spot,Suezmax spot,Dec-21,3000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,spot,Suezmax spot,Jan-22,5000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,spot,Suezmax spot,Jan-22,-2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,spot,Suezmax spot,Feb-22,-5000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2026-04-20,2026,spot,Suezmax spot,Feb 22,10000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-03,2022-07-01,2022,spot,Suezmax spot,Mar-22,25000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,spot,Suezmax spot,Mar-22,155000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,spot,Suezmax spot,Apr-22,65000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,spot,Suezmax spot,May-22,55000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,spot,Suezmax spot,May-22,158000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,spot,Suezmax spot,Jun-22,30000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,spot,Suezmax spot,Jul-22,20000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,spot,Suezmax spot,Jul-22,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2026-04-20,2026,spot,Suezmax spot,Jul 22,20000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-08,2023-06-26,2023,spot,Suezmax spot,Aug-22,88000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,spot,Suezmax spot,Sep-22,65000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,spot,Suezmax spot,Oct-22,75000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,spot,Suezmax spot,Nov-22,85000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,spot,Suezmax spot,Dec-22,165000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2026-04-20,2026,spot,Suezmax spot,Dec 22,125000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-01,2023-06-26,2023,spot,Suezmax spot,Jan-23,115000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,spot,Suezmax spot,Feb-23,110000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,spot,Suezmax spot,Mar-23,85000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,spot,Suezmax spot,Apr-23,95000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,spot,Suezmax spot,May-23,55000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,spot,Suezmax spot,May-23,51000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-05,2026-04-20,2026,spot,Suezmax spot,May 23,60000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-06,2023-06-26,2023,spot,Suezmax spot,Jun-23,50000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,spot,Suezmax spot,Jun-23,52000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,spot,Suezmax spot,Jul-23,51000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,spot,Suezmax spot,Aug-23,22000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,spot,Suezmax spot,Sep-23,8000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,spot,Suezmax spot,Oct-23,8000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2026-04-20,2026,spot,Suezmax spot,Oct 23,10000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-11,2024-07-01,2024,spot,Suezmax spot,Nov-23,86000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,spot,Suezmax spot,Dec-23,63000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,spot,Suezmax spot,Jan-24,59000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,spot,Suezmax spot,Feb-24,54000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,spot,Suezmax spot,Mar-24,52000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2026-04-20,2026,spot,Suezmax spot,Mar 24,50000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-04,2024-07-01,2024,spot,Suezmax spot,Apr-24,37000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,spot,Suezmax spot,May-24,45000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,spot,Suezmax spot,Jun-24,47000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,spot,Suezmax spot,Jun-24,50000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,spot,Suezmax spot,Jul-24,46000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,spot,Suezmax spot,Aug-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2026-04-20,2026,spot,Suezmax spot,Aug 24,25000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-09,2025-06-23,2025,spot,Suezmax spot,Sep-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,spot,Suezmax spot,Oct-24,44000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,spot,Suezmax spot,Nov-24,30000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,spot,Suezmax spot,Dec-24,30000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,spot,Suezmax spot,Jan-25,28000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2026-04-20,2026,spot,Suezmax spot,Jan 25,45000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-02,2025-06-23,2025,spot,Suezmax spot,Feb-25,50000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,spot,Suezmax spot,Mar-25,65000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,spot,Suezmax spot,Apr-25,68000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,spot,Suezmax spot,May-25,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-06,2026-04-20,2026,spot,Suezmax spot,Jun 25,35000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-11,2026-04-20,2026,spot,Suezmax spot,Nov 25,90000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2026-04,2026-04-20,2026,spot,Suezmax spot,Apr 26,110000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2019-10,2021-10-18,2021,spot,VLCC spot,Oct-19,50000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-01,2021-10-18,2021,spot,VLCC spot,Jan-20,100000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-04,2021-10-18,2021,spot,VLCC spot,Apr-20,250000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-07,2021-10-18,2021,spot,VLCC spot,Jul-20,50000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-10,2021-10-18,2021,spot,VLCC spot,Oct-20,20000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2020-11,2022-07-01,2022,spot,VLCC spot,Nov-20,8000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-01,2021-10-18,2021,spot,VLCC spot,Jan-21,10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-01,2022-07-01,2022,spot,VLCC spot,Jan-21,15000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-03,2022-07-01,2022,spot,VLCC spot,Mar-21,-10000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-04,2021-10-18,2021,spot,VLCC spot,Apr-21,-10000,1,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-04,2026-04-20,2026,spot,VLCC spot,Apr 21,-10000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-05,2022-07-01,2022,spot,VLCC spot,May-21,2000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-07,2021-10-18,2021,spot,VLCC spot,Jul-21,-10000,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-07,2022-07-01,2022,spot,VLCC spot,Jul-21,-5000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2022-07-01,2022,spot,VLCC spot,Sep-21,-2000,1,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-09,2026-04-20,2026,spot,VLCC spot,Sept 21,-12000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2021-10,2021-10-18,2021,spot,VLCC spot,Oct-21,0,0,xclusiv_2021_xclusiv_weekly_2021_10_18.tables.json
+2021-10,2023-06-26,2023,spot,VLCC spot,Oct-21,4000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-11,2022-07-01,2022,spot,VLCC spot,Nov-21,5000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2021-11,2023-06-26,2023,spot,VLCC spot,Nov-21,2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2021-12,2023-06-26,2023,spot,VLCC spot,Dec-21,6000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-01,2022-07-01,2022,spot,VLCC spot,Jan-22,-15000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-01,2023-06-26,2023,spot,VLCC spot,Jan-22,2000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2023-06-26,2023,spot,VLCC spot,Feb-22,-10000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-02,2026-04-20,2026,spot,VLCC spot,Feb 22,-15000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-03,2022-07-01,2022,spot,VLCC spot,Mar-22,15000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-03,2023-06-26,2023,spot,VLCC spot,Mar-22,-12000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-04,2023-06-26,2023,spot,VLCC spot,Apr-22,-15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-05,2022-07-01,2022,spot,VLCC spot,May-22,-20000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-05,2023-06-26,2023,spot,VLCC spot,May-22,-10000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-06,2023-06-26,2023,spot,VLCC spot,Jun-22,-20000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2022-07-01,2022,spot,VLCC spot,Jul-22,-10000,0,xclusiv_2022_xclusiv_weekly_2022_07_01.tables.json
+2022-07,2023-06-26,2023,spot,VLCC spot,Jul-22,-18000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-07,2026-04-20,2026,spot,VLCC spot,Jul 22,-35000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2022-08,2023-06-26,2023,spot,VLCC spot,Aug-22,5000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-09,2023-06-26,2023,spot,VLCC spot,Sep-22,35000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-10,2023-06-26,2023,spot,VLCC spot,Oct-22,30000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-11,2023-06-26,2023,spot,VLCC spot,Nov-22,75000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2023-06-26,2023,spot,VLCC spot,Dec-22,60000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2022-12,2026-04-20,2026,spot,VLCC spot,Dec 22,75000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-01,2023-06-26,2023,spot,VLCC spot,Jan-23,25000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-02,2023-06-26,2023,spot,VLCC spot,Feb-23,15000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-03,2023-06-26,2023,spot,VLCC spot,Mar-23,55000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-04,2023-06-26,2023,spot,VLCC spot,Apr-23,85000,1,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2023-06-26,2023,spot,VLCC spot,May-23,20000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-05,2024-07-01,2024,spot,VLCC spot,May-23,33000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-05,2026-04-20,2026,spot,VLCC spot,May 23,30000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-06,2023-06-26,2023,spot,VLCC spot,Jun-23,70000,0,xclusiv_2023_xclusiv_weekly_2023_06_26.tables.json
+2023-06,2024-07-01,2024,spot,VLCC spot,Jun-23,22000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-07,2024-07-01,2024,spot,VLCC spot,Jul-23,75000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-08,2024-07-01,2024,spot,VLCC spot,Aug-23,28000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-09,2024-07-01,2024,spot,VLCC spot,Sep-23,17000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2024-07-01,2024,spot,VLCC spot,Oct-23,24000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-10,2026-04-20,2026,spot,VLCC spot,Oct 23,10000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2023-11,2024-07-01,2024,spot,VLCC spot,Nov-23,53000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2023-12,2024-07-01,2024,spot,VLCC spot,Dec-23,56000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-01,2024-07-01,2024,spot,VLCC spot,Jan-24,34000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-02,2024-07-01,2024,spot,VLCC spot,Feb-24,33000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2024-07-01,2024,spot,VLCC spot,Mar-24,75000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-03,2026-04-20,2026,spot,VLCC spot,Mar 24,40000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-04,2024-07-01,2024,spot,VLCC spot,Apr-24,38000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-05,2024-07-01,2024,spot,VLCC spot,May-24,52000,1,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2024-07-01,2024,spot,VLCC spot,Jun-24,26000,0,xclusiv_2024_xclusiv-2024_07_01.tables.json
+2024-06,2025-06-23,2025,spot,VLCC spot,Jun-24,35000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-07,2025-06-23,2025,spot,VLCC spot,Jul-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2025-06-23,2025,spot,VLCC spot,Aug-24,24000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-08,2026-04-20,2026,spot,VLCC spot,Aug 24,30000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2024-09,2025-06-23,2025,spot,VLCC spot,Sep-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-10,2025-06-23,2025,spot,VLCC spot,Oct-24,38000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-11,2025-06-23,2025,spot,VLCC spot,Nov-24,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2024-12,2025-06-23,2025,spot,VLCC spot,Dec-24,20000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2025-06-23,2025,spot,VLCC spot,Jan-25,58000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-01,2026-04-20,2026,spot,VLCC spot,Jan 25,40000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-02,2025-06-23,2025,spot,VLCC spot,Feb-25,40000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-03,2025-06-23,2025,spot,VLCC spot,Mar-25,45000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-04,2025-06-23,2025,spot,VLCC spot,Apr-25,57000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-05,2025-06-23,2025,spot,VLCC spot,May-25,25000,1,xclusiv_2025_xclusiv-2025_06_23.tables.json
+2025-06,2026-04-20,2026,spot,VLCC spot,Jun 25,35000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2025-11,2026-04-20,2026,spot,VLCC spot,Nov 25,100000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
+2026-04,2026-04-20,2026,spot,VLCC spot,Apr 26,220000,1,xclusiv_2026_xclusiv-2026_04_20.tables.json
