@@ -168,6 +168,7 @@ def main():
                     help='send whole documents (expensive; comparison only)')
     ap.add_argument('--status', action='store_true')
     ap.add_argument('--rebuild-map', action='store_true')
+    ap.add_argument('--only', default='', help='substring filter on the document name')
     a = ap.parse_args()
 
     st = load_state()
@@ -197,6 +198,8 @@ def main():
 
     route = build_routing_map(force=a.rebuild_map)
     pdfs = sorted(glob.glob(str(ROOT / 'corpus/01-brokers/banchero_costa/*/*.pdf')))
+    if a.only:
+        pdfs = [p for p in pdfs if a.only in os.path.basename(p)]
     todo = [p for p in pdfs if os.path.basename(p)[:-4] not in st['done']]
     if a.limit:
         todo = todo[:a.limit]
@@ -213,10 +216,17 @@ def main():
         use_pages = pages and not a.no_target_pages
         if use_pages:
             kwargs['page_ranges'] = {'target_pages': ','.join(str(x) for x in pages)}
-        proc = {'cost_optimizer': {'enable': True}}
+        proc = {}
+        # The API rejects cost_optimizer below the agentic tiers (422: "Cost optimizer
+        # can only be enabled with agentic or agentic_plus"). It is also redundant for
+        # this source: it is an ALTERNATIVE to manual page targeting, and we already
+        # send only the ciphered pages.
+        if a.tier in ('agentic', 'agentic_plus'):
+            proc['cost_optimizer'] = {'enable': True}
         if a.chart:
             proc['specialized_chart_parsing'] = a.tier
-        kwargs['processing_options'] = proc
+        if proc:
+            kwargs['processing_options'] = proc
         kwargs['output_options'] = {
             'tables_as_spreadsheet': {'enable': True},
             'markdown': {'tables': {'merge_continued_tables': True}},
