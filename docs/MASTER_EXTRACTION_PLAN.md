@@ -69,65 +69,105 @@ python3 scripts/tools/measure_paid_surface.py <source>   # free, local
 with page targeting. Caching makes an identical re-run free for 48h, but **any option
 change busts the cache**.
 
-### Measured paid surface
-**RE-MEASURING with a calibrated detector — see the warning below before trusting any
-number here.** `data/derived/paid_surface_by_source.json` is authoritative once the
-current scan completes.
+### Measured paid surface — CORRECTED, calibrated detector, all 15 sources
+
+`data/derived/paid_surface_by_source.json`. This is the authoritative table.
 
 ```
-banchero_costa   1074 of 3753 pages (28.6%)   <- CONFIRMED real: LlamaParse recovered
-                                                 the values 13/13 where the text layer
-                                                 read `!"#$#%&`
-affinity           27 of  334 pages  (8.1%)   <- pending re-measure
-agora               0 of 1071 pages  (0.0%)   <- pending re-measure
-clarksons           0 of   35 pages  (0.0%)   <- pending re-measure
-lion                1 of  148 pages  (0.7%)   <- pending re-measure
-advanced_shipping 807 of 2456 pages (32.9%)   <- ** WRONG, FALSE POSITIVES **
-carriers          127 of  386 pages (32.9%)   <- ** SUSPECT, likely false positives **
+source              docs   pages   flagged   pct
+banchero_costa       243    3753      662    17.6%   <- the real cipher
+intermodal           252    2002       25     1.2%
+affinity             250     334        7     2.1%
+star_asia            193    3421       24     0.7%
+agora                213    1071        5     0.5%
+xclusiv              266    2123        4     0.2%
+fearnleys            257    6052        4     0.1%
+advanced_shipping    249    2456        0     0.0%
+carriers             129     386        0     0.0%
+ssy                  519     519        0     0.0%
+ism                  112     266        0     0.0%
+lion                  44     148        0     0.0%
+clarksons             10      35        0     0.0%
+bancosta / general    2      21        0     0.0%
+------------------------------------------------
+TOTAL               3237   28,250      731     2.6%
 ```
 
-> **WARNING — the first detector was BROKEN and its numbers must not be reused.**
-> It flagged any span that was punctuation-dense with no lowercase, so it fired on
-> ordinary table headers like `± (%)` and `± ($)`. That reported a 32.9% paid surface
-> for advanced_shipping — whose pages render perfectly (verified by rendering page 1
-> and looking: clean prose, BDI 1.501/1.460, Capesize 18,608).
+**The cipher is a banchero problem (662 pages), not a corpus-wide one.** Everything
+else is clean: 0.0–2.1% at most. The whole corpus paid surface is **731 pages**, of
+which 662 (91%) is banchero. Spending is therefore targeted, not blanket.
+
+> **The first detector was BROKEN — these numbers replace it.** It flagged any
+> punctuation-dense span with no lowercase, so it fired on ordinary table headers
+> (`± (%)`, `± ($)`, `(30K)`) and reported advanced_shipping at 807 pages (32.9%).
+> Rendered page 1: perfectly clean (BDI 1.501/1.460, Capesize 18,608).
+> `scripts/tools/calibrate_cipher_detector.py` now calibrates before any reading is
+> trusted: banchero W03 detected (recall kept), advanced_shipping/agora zero false
+> positives. **Correcting it cut banchero 1,074 → 662 pages, saving ~1,236 credits on
+> the in-flight run alone.**
 >
-> `scripts/tools/calibrate_cipher_detector.py` now calibrates the instrument against
-> KNOWN-CIPHERED pages (banchero W03) **and** KNOWN-CLEAN pages before any reading is
-> trusted. The fixed rule requires: no whitespace, length >= 6, and >= 2 strong markers
-> `!"#$&*`. Calibration: banchero detected (recall kept), advanced_shipping and agora
-> zero false positives.
->
-> **Lesson:** a check that surprises you is a check to verify first. A broken detector
-> condemns correct work — this one nearly caused a needless 807-page cloud spend.
+> **Lesson:** a check that surprises you is a check to verify first. Two separate
+> instruments (the cipher detector, the completeness auditor's byte threshold) were
+> wrong tonight, and both were caught only by rendering a page and looking.
 
 ---
 
 ## 4. SOURCE INVENTORY AND STATUS
 
-`docs` = PDFs in corpus. `.md` = local extraction present. Run
-`python3 scripts/tools/measure_paid_surface.py` for current flag counts.
+### How many are DONE PROPERLY END-TO-END?
+
+**5 of 11 sources with output, by content audit** (`scripts/tools/audit_completeness.py`,
+which checks markdown is non-trivial *per source*, tables contain real rows, and chart
+JSON contains a real series of >= 3 points):
+
+| verdict | sources |
+|---|---|
+| **END-TO-END (text + tables + chart values)** | **advanced_shipping, affinity, fearnleys, star_asia, xclusiv** |
+| PARTIAL | agora, ssy (chart values only), ism (tables), banchero_costa (in flight) |
+
+**Two known audit limitations, stated so the count is not over-trusted:**
+* The audit looks for `*table*.json` sidecars. **lion** stores its tables as **parquet**
+  (`lion_deals.parquet`, `lion_demometer.parquet`) and is therefore reported as having no
+  tables when it is in fact COMPLETE and verified (`docs/lion_verdict.md`). Treating the
+  audit as gospel would wrongly condemn it.
+* `fearnleys_cleaned` is an intermediate copy of `fearnleys`, not a separate source —
+  do not count it twice.
+
+**Caveats stated honestly:**
+* **xclusiv** is marked end-to-end because its 265 `.charts.json` files exist and are
+  non-empty — but those are the *local* chart extractions. The richer LlamaParse TCE
+  series (5 series x ~6 years, validated against page prose) exists only for 2 test
+  documents so far. See section 9.
+* **fearnleys** is deliberately SKIPPED for data (Hasura API already ingests it) — it is
+  listed complete on its own terms, not as a priority.
+* **ssy** was briefly reported as "0/519 text" — that was the AUDITOR's bad fixed
+  byte-threshold, not a real gap. Verified by reading a file: 1,384 bytes holding a
+  10-row table + calculated index + T/C rates. ssy is 1 page/doc, so small is correct.
+  Only its chart values are outstanding.
+* Corpus groups outside 01-brokers (03-breakwave 18,566 · 08-baltic 3,038 ·
+  06-drewry 829 · 07-signal 2,400 · 09-ppa 493 · 02-hellenic 14,130) are **not** covered
+  by this audit and are a separate programme.
+
+### Per-source detail
+`docs` = PDFs in corpus. `.md` = local extraction present.
 
 | source | docs | local .md | status / next action |
 |---|---|---|---|
-| advanced_shipping | 249 | 249 | **the benchmark source.** .md + tables + calibrated charts. Known defects: 221 tables with chart-axis runs merged, 237 with page banner as header, Ship Recycling table merges Gaddani+Turkey. Control test with LlamaParse owed. |
-| star_asia | 193 | 193 | 3,640 tables, ISO numbers, charts RASTER. Re-verify charts. |
-| ssy | 519 | 519 | 5,920 route rows, 1 page/doc, **two-column page**. Charts outstanding. |
-| xclusiv | 266 | 266 | prose clean. **Charts now proven recoverable** (45 cr/page) — 5 TCE series x ~6 years. Roll out across all docs once verified on more years. |
-| fearnleys | 257 | 257 | **SKIP — redundant.** Hasura API already ingests their data (comments 11,733 / fixtures 549,480 / SNP 2,643, plus 08-baltic BDI+BDTI). Do not spend here. |
-| banchero_costa | 243 | 243 (prose) | **IN FLIGHT** — LlamaParse filling the ciphered tables. See section 8. |
-| intermodal | 252 | **0** | Two tables on two pages (12 tanker + 8 dry-bulk fields). Parser exists (`intermodal_v2.py`); build the `.md`. |
-| affinity | 250 | 250 | 8.1% pages flagged — triage those pages, don't re-run the source. |
-| agora | 213 | 213 | **0.0% flagged — clean.** No spend. Spot-check by eye and close. |
-| lion | 44 | **43** | DONE 2026-09-24: `data/extracted/md/lion/` 43 files + `lion_deals.parquet` 1,145 rows + `lion_demometer.parquet` 516 rows. Runner `scripts/extract/publishers/run_lion.py`. 3 en-bloc pricing defects fixed (38 rows). `docs/lion_verdict.md`. |
-| ism | 112 | 112 | Complete + verified per OVERNIGHT_STATE. |
-| carriers | 129 | **0** | Not yet started. Recon first. |
-| clarksons | 10 | 0 | tiny, 0% flagged. Low priority. |
-| bancosta / general_broker | 1 each | 0 | singletons, low priority. |
+| advanced_shipping | 249 | 249 | END-TO-END. 0.0% cipher. Known cosmetic defects documented (`prose_merge_verdict.md`). |
+| star_asia | 193 | 193 | END-TO-END. 24 flagged pages (0.7%) to triage. |
+| ssy | 519 | 519 | PARTIAL: chart values only. 0% cipher. |
+| xclusiv | 266 | 266 | END-TO-END (local). 4 flagged pages. **LlamaParse chart series proven on 2 docs — roll out next.** |
+| fearnleys | 257 | 257 | SKIP by decision (Hasura redundancy). 4 flagged pages. |
+| affinity | 250 | 250 | END-TO-END. 7 flagged pages to triage. |
+| agora | 213 | 213 | PARTIAL: no chart values. 5 flagged pages. Needs chart work. |
+| banchero_costa | 243 | 243 (prose) | **IN FLIGHT** — 662 ciphered pages being paid for. |
+| intermodal | 252 | **0** | Needs `.md` built (parser exists: `intermodal_v2.py`). 25 flagged pages. |
+| ism | 112 | 112 | PARTIAL: no table files. 0% cipher. |
+| lion | 44 | 43 | **DONE 2026-09-24** (in-flight cron, verified): `md/lion/` 43 files + `lion_deals.parquet` 1,145 rows + `lion_demometer.parquet` 516 rows + `lion_summary.json`. Runner `run_lion.py`. 3 en-bloc pricing defects found and fixed (38 rows). `docs/lion_verdict.md`. 0% cipher. Note: the audit's "no tables" verdict refers to per-issue `*table*.json` sidecars, which lion stores as parquet instead — **the audit under-reports lion; read `docs/lion_verdict.md` before concluding it is incomplete.** |
+| carriers | 129 | **0** | Not started. **0% cipher — local extraction will do.** |
+| clarksons | 10 | 0 | Tiny, 0% cipher. Low priority. |
+| bancosta / general_broker | 2 | 0 | Singletons, 0% cipher. Low priority. |
 | gibson, allied, anchor, golden_destiny, other | — | — | **STOPPED publishers** (archive/). Backfill only if <180d. |
-
-Total: **15 broker sources, 3,739 PDFs** (plus 03-breakwave 18,566 / 08-baltic 3,038 /
-06-drewry 829 / 07-signal 2,400 / 09-ppa 493 in other corpus groups).
 
 ---
 
@@ -199,7 +239,7 @@ python3 -c "import json;st=json.load(open('data/extracted/llamaparse_banchero/_r
 
 ## 9. NEXT ACTIONS IN ORDER
 
-1. Finish banchero (in flight).
+1. Finish banchero (in flight, now on the corrected 662-page map; 96 docs already done).
 2. **Verify the xclusiv chart extraction across more years** — one document is not a
    corpus. Render the chart, compare against prose, all 5 series, 3+ years.
 3. If it holds: roll `specialized_chart_parsing` across xclusiv's chart pages
@@ -207,9 +247,25 @@ python3 -c "import json;st=json.load(open('data/extracted/llamaparse_banchero/_r
    prioritise recent years first, most-recent-first).
 4. **advanced_shipping control** — 1 doc, the one with the Ship Recycling Gaddani/Turkey
    merge. ~12 cr. Answers whether our benchmark source is actually complete.
-5. Triage affinity's 27 flagged pages.
-6. Build `.md` for intermodal, lion, carriers.
-7. Vision spot-check agora (should take one look).
+5. Triage the small flagged sets: intermodal 25, star_asia 24, affinity 7, agora 5,
+   xclusiv 4, fearnleys 4. **Total 69 pages ≈ 207 cr** — cheap.
+6. Build `.md` for intermodal (252 docs, parser exists) and start carriers (129 docs,
+   0% cipher, local only — no spend).
+7. Chart values owed for: agora (213), ssy (519). ism needs table sidecars.
+8. Vision spot-check a sample from each completed source before calling it closed.
+
+## 9a. TIME-SERIES REQUIREMENT (the user's stated goal)
+Weekly PDFs repeat the same structure, so extraction must land in a shape that builds
+series across issues — not one-off prose. Required per source:
+* a **stable date/issue key** per document (the run_state files carry this);
+* **repeatable table columns** across issues (same routes, same fields week to week);
+* **chart series keyed by date** so multi-year curves concatenate.
+
+xclusiv is the proof this works: 5 named panels (VLCC / Suezmax / Aframax / MR Atlantic
+Basket / MR Pacific Basket) recovered with a `Date` column spanning Aug-21 → Aug-26, plus
+per-panel Average/Min/Max reference lines. The same concatenation must be verified for
+the other sources once their chart values exist. **Do not call a source closed until its
+repeated tables demonstrably stack into a time series.**
 
 ---
 
