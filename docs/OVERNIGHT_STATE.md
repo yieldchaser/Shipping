@@ -4,7 +4,41 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-Last updated: 2026-09-24 ~12:15 IST (cron run 11:20; ism COMPLETE + verified, next = lion)
+Last updated: 2026-09-24 ~13:00 IST (LlamaParse banchero run IN FLIGHT - do not restart it)
+
+---
+
+## ACTIVE JOB RIGHT NOW - do NOT duplicate
+
+**LlamaParse escalation run for banchero_costa is RUNNING.**
+
+- Process: `run_banchero_llamaparse.py --tier cost_effective` (resumable, 243 docs)
+- State:   `data/extracted/llamaparse_banchero/_run_state.json`
+- Log:     `data/extracted/llamaparse_banchero/run.log`
+- Output:  `data/extracted/llamaparse_banchero/*.md`
+- Watchdog: `scripts/tools/watch_banchero_run.sh` restarts it if it dies.
+
+WHY: banchero's table text layer is glyph-ciphered (see
+`docs/banchero_cipher_forensics.md`). Local decode is impossible - the subset fonts
+are stripped and the ToUnicode CMaps are inconsistent with the drawn glyphs. Only a
+pixel-reading parser recovers it. LlamaParse does, verified 13/13 against ground
+truth at the cheapest tier.
+
+HOW TO CHECK (do this before assuming it is dead):
+```
+tail -5 data/extracted/llamaparse_banchero/run.log
+python3 -c "import json;st=json.load(open('data/extracted/llamaparse_banchero/_run_state.json'));print(len(st['done']),'done /',len(st['failed']),'failed')"
+```
+It is ALIVE if the log mtime is recent or a python process matches
+`run_banchero_llamaparse`. Do NOT start a second one - two concurrent runs
+double-spend credits on the same documents.
+
+IF IT IS DEAD: `bash scripts/tools/watch_banchero_run.sh` (it resumes, never restarts
+from zero). Credential lives in the Hermes .env, read directly - see
+`scripts/tools/set_llama_key.py`.
+
+MEANWHILE: work on OTHER sources only. Do not touch banchero output while the run is
+live - it writes those files.
 
 ---
 
