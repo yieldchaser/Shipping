@@ -100,6 +100,51 @@ def build_routing_map(force=False):
     return m
 
 
+def _hermes_env_paths():
+    """Hermes' canonical secrets file(s), profile-aware."""
+    out = []
+    hh = os.environ.get('HERMES_HOME')
+    if hh:
+        out.append(Path(hh) / '.env')
+    out.append(Path.home() / '.hermes' / '.env')
+    if os.name == 'nt':
+        la = os.environ.get('LOCALAPPDATA')
+        if la:
+            out.append(Path(la) / 'hermes' / '.env')
+    return out
+
+
+def get_api_key():
+    """Resolve LLAMA_CLOUD_API_KEY.
+
+    Precedence: process environment first (so a per-run override is possible
+    without touching any file), then the Hermes secrets file. Reading the file
+    directly is REQUIRED - the Hermes .env is deliberately not exported into the
+    terminal subprocess environment (verified empirically), so os.environ alone
+    silently finds nothing. Returns (key, source) with source for logging only;
+    the value is never printed or written anywhere.
+    """
+    k = os.environ.get('LLAMA_CLOUD_API_KEY', '').strip()
+    if k:
+        return k, 'environment'
+    for p in _hermes_env_paths():
+        try:
+            if not p.exists():
+                continue
+            for line in p.read_text(encoding='utf-8', errors='replace').splitlines():
+                s = line.strip()
+                if not s or s.startswith('#') or '=' not in s:
+                    continue
+                key, _, val = s.partition('=')
+                if key.strip() == 'LLAMA_CLOUD_API_KEY':
+                    v = val.strip().strip('"').strip("'")
+                    if v:
+                        return v, str(p)
+        except Exception:
+            continue
+    return '', None
+
+
 def load_state():
     if STATE.exists():
         try:
@@ -136,11 +181,16 @@ def main():
             print('failures:', list(st['failed'])[:10])
         return
 
-    key = os.environ.get('LLAMA_CLOUD_API_KEY', '').strip()
+    key, source = get_api_key()
     if not key:
-        print('ABORT: LLAMA_CLOUD_API_KEY not set in the environment.')
-        print('Set it for this shell only, then re-run. It is never written to disk.')
+        print('ABORT: no LLAMA_CLOUD_API_KEY found.')
+        print('Looked in: process environment, then')
+        for p in _hermes_env_paths():
+            print(f'   {p}')
+        print('Add a line "LLAMA_CLOUD_API_KEY=llx-..." to the Hermes .env, or')
+        print('export it for this shell. The value is never printed or persisted by this tool.')
         sys.exit(2)
+    print(f'credential source: {source}')
 
     from llama_cloud import LlamaCloud
     client = LlamaCloud(api_key=key)
