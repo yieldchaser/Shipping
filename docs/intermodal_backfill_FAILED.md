@@ -1,94 +1,70 @@
-# Intermodal T/C backfill - FAILED VERIFICATION, do not use
+# Intermodal - still NOT correct. Do not use either backfill.
 
-## Status: the backfill output is NOT trustworthy. Do not merge it.
+## Status of the two attempts
 
-`data/extracted/intermodal_tc_rates_backfill.csv` (252 rows, 2021-07-06 to
-2026-09-18, all 20 fields populated) LOOKS complete. It is not CORRECT.
+| attempt | output | control vs the 49 known-good rows |
+|---|---|---|
+| `intermodal_tc_rates_backfill.csv`   | 252 rows, 20/20 fields | **83.5%** |
+| `intermodal_tc_rates_columnaware.csv`| fields 0/20, 12/20...  | not usable |
+| `intermodal_tc_rates_v2.csv`         | 252 rows, 180 at 20/20 | **61.9%** |
 
-## UPDATE - the column-aware fix verified on ONE page but does NOT generalise
+**The v2 output is the WORST of the three on the only test that matters.** It found
+both pages on all 252 documents and populated 20 fields on 180 of them - and it is
+still wrong, because it reads the wrong COLUMN.
 
-`scripts/extract/publishers/intermodal_columnaware.py` reproduces the rendered
-page EXACTLY on 2025 W10 (12/12 values), fixing the wrong-column defect. But its
-FULL run over 252 docs shows it does not generalise:
+## What was established by rendering pages (the valuable part)
 
-    files=252   all-20-fields=0   failed=0
-    2022 W26: 0/20    2023 W27: 14/20    2024 W29: 14/20
-    2025 W31: 14/20   2026 W34:  0/20    2026-09:  0/20
+Page 2 "Tanker Market" carries a TC Rates table, 12 rows:
+    300k 1yr/3yr, 150k 1yr/3yr, 110k 1yr/3yr, 75k 1yr/3yr, 52k 1yr/3yr, 36k 1yr/3yr
+Page 3 "Dry Bulk Market" carries a SEPARATE TC Rates table, 8 rows:
+    180k 1yr/3yr, 76k 1yr/3yr, 58k 1yr/3yr, 32k 1yr/3yr
+12 + 8 = the 20 inherited fields. That is why a single-page extractor capped at 12.
 
-Two structural reasons, both worth understanding before trying again:
+Both pages carry a row labelled "Panamax" - tanker 75k and dry bulk 76k - so a
+pattern accepting 7[56]k matches both and only page context disambiguates. The
+anchors are '300k Nyr TC' (tanker page) and '180k Nyr TC' (dry-bulk page).
 
-1. THE 20-FIELD SET SPANS MORE THAN ONE TABLE. Page 2's TC Rates table carries
-   only 12 rows - VLCC/Suezmax/Aframax/Panamax/MR/Handy, each at 1yr and 3yr.
-   The remaining fields (capesize, supramax, handysize, handy_tanker variants)
-   are DRY BULK and live in a different table, probably on another page. So 12/20
-   is the ceiling from page 2 alone, and the docs showing 14/20 carry extras
-   elsewhere. The inherited 20 RATE_FIELDS were written against flattened .md
-   text where the source table was not visible, so nothing in them records WHICH
-   table each field came from.
+The date header format CHANGED between years: 2025 writes 07/03/25 (8 chars),
+2026 writes 08/05/2026 (10 chars). A regex demanding dd/mm/yy silently found
+nothing in 2026 and returned 0/20 with no error. Page 3 also uses uppercase K
+(180K) where page 2 uses lowercase (300k).
 
-2. THE NEWEST LAYOUT DOES NOT MATCH AT ALL - 2026 returns 0/20, and so does
-   2022 W26. Either the labels changed (as Panamax already did: the page says
-   '75k', the inherited pattern said '76k') or the table moved off page 2. This
-   must be established by RENDERING a 2026 document and reading it, not guessed.
+## Why v2 still reads the wrong column
 
-## What the next attempt must do
-- Render a 2026 document and a 2022 document and read the actual tables.
-- Map EACH of the 20 fields to the table and page it comes from, per era.
-- Then re-run the control test: agreement with the 49 known-good rows must reach
-  ~100% on the overlap before ANY of the 2021-2024 history is trusted.
-- Do not report a field count as success. 14/20 with 6 fields silently absent is
-  indistinguishable from 0/20 in a summary - only the control test distinguishes
-  a partial extraction from a correct one.
+The page's text layer RENDERS TWO NUMBERS AT THE SAME x WITHIN ONE ROW'S WINDOW.
+Measured on 2025 W10 page 2:
 
----
+    y 356.3-366.9 | 300k 1yr TC | nums at x108: '44,500' AND '45,000'
+    y 367.6-378.3 | 300k 3yr TC | nums at x108: '45,000' AND '35,000'
 
-## What the control test found
-The backfill overlaps the pre-existing `data/derived/intermodal_tc_rates.csv`
-(49 rows) over 2025-03-07 to 2026-09-11. Both were produced by the same 20
-RATE_FIELDS patterns, but from different inputs (the old one from .md files, the
-new one from PDF text). Where they overlap they must agree. They do not:
+and the rendered page shows:
 
-    980 comparable values   818 agree   162 differ   = 83.5% agreement
+    $/day              07/03/25   28/02/25
+    VLCC 300k 1yr TC    44,500     44,750
+        300k 3yr TC     45,000     43,500
 
-## Root cause, established by RENDERING PAGE 2 AND READING IT
-The TC Rates table on page 2 carries SEVERAL value columns per row:
+v2 anchored on the label's y-CENTRE and required 6pt proximity, but with two
+numbers stacked at the same x the nearest-by-y is not reliably the current row's,
+and the result is that it takes the PREVIOUS-WEEK column:
+    vlcc_1y  old=44,500 (current)  new=44,750 (previous)
+    vlcc_3y  old=45,000 (current)  new=43,500 (previous)
 
-    $/day                 07/03/25   28/02/25    +/-%   Diff    2024    2023
-    VLCC   300k 1yr TC     44,500     44,750    -0.6%   -250   50,365  48,601
-           300k 3yr TC     45,000     43,500     3.4%   1500   47,339  42,291
-    Suezmax 150k 1yr TC    35,000     35,000     0.0%      0   45,394  46,154
+## What the next attempt must do - NOT more regex tuning
+The overlapping text layer means GEOMETRY ALONE cannot resolve which number belongs
+to which cell. Options, in order of promise:
+  1. Use `page.get_text("rawdict")` to get per-SPAN bboxes (spans are not merged like
+     lines) and pick the span whose bbox is fully inside both the row band and the
+     current-week column band.
+  2. Use the word's FULL bbox (x1 as well as x0) so a number cannot be claimed by a
+     column it merely starts inside.
+  3. Re-derive from the ORIGINAL .md path where column order survived - the 49-row
+     CSV proves that path produced correct values; the missing input directory
+     `reports/broker_reports/` is the only reason it stopped.
+Recovery note: 47 intermodal .md files still exist in the old agent worktree
+`.claude/worktrees/maritime-audit-docs-review-a8b612/knowledge/docs/broker_reports/`.
 
-The patterns are `300[Kk]\s+1yr\s+TC\s+([\d,]+)` - a label followed by a number.
-With four numeric columns there is no way for that pattern to know WHICH column
-it caught. Measured example: the backfill returned 44,750 for 2025-03-07, which
-is the PREVIOUS-WEEK column; the value the page shows for that date is 44,500,
-which is what the existing CSV has. So the OLD data was right and the NEW
-backfill is wrong.
-
-Contributing factor: the backfill regexed the CONCATENATED text of all pages.
-Page 1 has no T/C table at all, so a label and an unrelated number could be
-paired across a page boundary. Search must be per-page and, more importantly,
-per-COLUMN.
-
-## The real fix (not yet implemented)
-Column positions must come from geometry, not from match order:
-  * locate the header row (07/03/25, 28/02/25, ...) and take their x-ranges;
-  * for each labelled row, take the cell whose x-range falls under the CURRENT
-    week header;
-  * validate by re-running the control test - agreement with the 49 known-good
-    rows must reach ~100% before the 2021-2024 history is trusted at all.
-
-## What remains valid
-- The PDF corpus (252 docs, 2021-2026) and the finding that 20 rate fields EXIST
-  in every year: field hit rate 20/20 across 2021/2023/2024/2026.
-- The date extraction worked: 246 of 246 full ISO dates, range 2021-07-06 ..
-  2026-09-18.
-- The pre-existing 49-row CSV is the more accurate of the two - it came from .md
-  where column order survived. It remains the reference until the backfill beats
-  it on the control test.
-
-## The lesson this establishes (the strongest one of the night)
-A 252-row, 0-failure, fully-populated output was 16.5% WRONG, and nothing but a
-CONTROL TEST against an independent extraction revealed it. Row counts, field
-counts and clean exit codes were all green. Percent-complete metrics prove
-nothing about correctness - only agreement with an independent source does.
+## The rule this source keeps proving
+Each of these looked finished and was not: the first backfill (252/252 complete,
+16.5% wrong), the column-aware version (12/12 on one page, 0/20 across the corpus),
+and v2 (180/252 at 20/20, 61.9% agreement). Only the CONTROL TEST distinguishes a
+complete-looking extraction from a correct one, and nothing else does.
