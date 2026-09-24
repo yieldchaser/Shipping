@@ -1,0 +1,26 @@
+pages warranted for cloud spend: 12 (~36 credits)
+   fearnleys    fearnleys_2018_W29_fw_week_29_2018b.pdf        p2 217 cipher-like lines vs 31 prose
+   fearnleys    fearnleys_2018_W29_fw_week_29_2018b.pdf        p3 138 cipher-like lines vs 57 prose
+   star_asia    star_asia_2023_W40_4ece41_06018406e1d94716be   p10 only 9 numeric tokens
+   star_asia    star_asia_2023_W42_Market-report-Week-42.pdf   p11 only 0 numeric tokens
+   star_asia    star_asia_2023_W47_Market-report-Week-47.pdf   p10 only 9 numeric tokens
+   star_asia    star_asia_2023_W48_Market-report-Week-48.pdf   p10 only 5 numeric tokens
+   star_asia    star_asia_2023_W49_Market-report-Week-49.pdf   p9 only 6 numeric tokens
+   star_asia    star_asia_2023_W50_4ece41_8eca7ebe14fc407488   p11 only 3 numeric tokens
+   star_asia    star_asia_2024_W02_Market-report-Week-2.pdf    p10 only 3 numeric tokens
+   star_asia    star_asia_2024_W04_Market-report-Week-4.pdf    p11 only 3 numeric tokens
+   star_asia    star_asia_2024_W06_Market-report-Week-6.pdf    p11 only 9 numeric tokens
+   star_asia    star_asia_2024_W07_Market-report-Week-7.pdf    p11 only 6 numeric tokens
+
+  star_asia    p10: 2926 chars, 352 digits, table=True
+  star_asia    p11: 4182 chars, 556 digits, table=True
+  star_asia    p10: 2966 chars, 351 digits, table=True
+  star_asia    p10: 2747 chars, 338 digits, table=True
+  star_asia    p9: 2694 chars, 340 digits, table=True
+  star_asia    p11: 2586 chars, 329 digits, table=True
+  star_asia    p10: 2714 chars, 344 digits, table=True
+  star_asia    p11: 2671 chars, 343 digits, table=True
+  star_asia    p11: 2964 chars, 365 digits, table=True
+  star_asia    p11: 2850 chars, 355 digits, table=True
+
+done=12 credits~36

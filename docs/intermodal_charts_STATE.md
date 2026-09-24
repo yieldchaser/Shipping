@@ -131,12 +131,65 @@ What is established about the defect:
   so two reports in one month assign their weekly points to identical dates. That alone
   would put two different weeks on one key.
 
-**Next action, in order.** The date key must become a true timestamp rather than a
-month-end label. The chart plots DAILY points (measured 262 distinct x positions in a
-217pt plot), so a point's real date is recoverable by interpolating between the two
-bracketing month-end labels at daily resolution - which the extractor already has enough
-x precision for. The merge should then compare readings within a +/-3 day window rather
-than on exact date equality, and the agreement figure will show whether that closes it.
+## LlamaParse: WHERE IT IS ACTUALLY NEEDED, measured on the remaining 69 flagged pages
+
+The 69 flagged pages outside banchero were each judged on what their LOCAL text layer
+contains, and the answer changed the spend from 207 credits to 36.
+
+| verdict | pages | verdict on spending |
+|---|---|---|
+| CLEAN | 48 | local layer holds prose and numbers - **no credits** |
+| CIPHER | 2 | fearnleys 2018 W29 p2/p3 - **cloud justified** |
+| NO NUMBERS | 10 | star_asia Ship Recycling pages - **cloud justified** |
+
+**Measured on the two kinds of page, scored against values read off the render:**
+
+| page | local | cloud |
+|---|---|---|
+| banchero 2024 W47 p3 (cipher) | **0/5** | **5/5** |
+| fearnleys 2018 W29 p2 (cipher) | **0/8** | **5/8** |
+| star_asia 2023 W42 p11 (vector table) | **0/15** | **11/15** |
+
+All 12 warranted pages were parsed, page-targeted at 3 cr each. **12/12 returned table
+structure, not just prose.** 36 credits, 0.6% of the balance.
+
+### A verdict that reversed when the page changed
+
+An earlier pass concluded star_asia needed no credits, because a page scored local 15/15.
+That page was **2023 W40 p9, which has a text layer**. The 10 flagged pages are different:
+**2023 W42 p11 renders a Ship Recycling table full of values (Alang 520-530, Chattogram
+510-520, Gaddani 510-520) while the local text layer holds 213 characters and none of
+them.** The table body is drawn as vector paths, so the text layer sees the prose and
+misses every number.
+
+**Page choice changed the verdict, which is why every page is scored individually.** A
+source-level "star_asia is fine" would have been wrong for 10 pages and right for the rest.
+
+### What the cloud returns, and what it does not
+
+- **banchero / fearnleys:** the values come back correctly paired to row labels in a proper
+  `<table>`, with units, the prior-week column and the percentage changes. This is the
+  cipher case, and it is worth 3 cr/page.
+- **star_asia:** the returns are heterogeneous by nature - 7 of the 10 are the "Recycling
+  Ships Price Trend" table (Date / India / Bangladesh / Pakistan / Turkey), the rest are
+  sale-list and LDT tables. **GADDANI appears as a `PAKISTAN` column, not as a yard name**,
+  which is the same underlying data under its country heading.
+- **Not recovered on fearnleys p2:** 15,800 / 1,558 / 475.00 sit in sub-tables the parser
+  did not structure on a single-page target. That is a reason to widen the page target,
+  not a claim the page is unreadable - and it is recorded rather than glossed.
+
+### The Gaddani/Turkey merge, restated correctly
+
+The master plan recorded a Gaddani/Turkey merge in star_asia. The evidence now separates
+two things:
+
+- The **text layer** keeps them apart: `**GADDANI, PAKISTAN` on one row with its own four
+  values, `TURKEY` on the next.
+- The **cloud parse** keeps them apart, as a `PAKISTAN` column.
+
+So the defect is in the local **table sidecar** cells, which is a different artefact. It
+is a local table-extraction bug to fix in the sidecar writer, not something the cloud
+would repair, and not something to spend credits on.
 
 **Do not treat intermodal as closed until that check passes.** The per-document extraction
 is verified exact; it is the stacking that is unproven.
