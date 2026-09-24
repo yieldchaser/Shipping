@@ -85,6 +85,9 @@ def main():
                     help='target_pages for the chart pages (1-based, comma separated)')
     ap.add_argument('--tier', default='agentic_plus',
                     choices=['agentic', 'agentic_plus'])
+    ap.add_argument('--year', default='',
+                    help='restrict to documents whose path contains this year '
+                         '(the layouts differ by era, so a cross-era check is required)')
     a = ap.parse_args()
 
     key, source = get_api_key()
@@ -96,7 +99,11 @@ def main():
     from llama_cloud import LlamaCloud
     client = LlamaCloud(api_key=key)
 
-    pdfs = sorted(glob.glob(str(ROOT / 'corpus/01-brokers/xclusiv/*/*.pdf')))[-a.limit:]
+    pdfs = sorted(glob.glob(str(ROOT / 'corpus/01-brokers/xclusiv/*/*.pdf')))
+    if a.year:
+        pdfs = [p for p in pdfs if f'/{a.year}/' in p.replace('\\', '/')]
+    if a.limit:
+        pdfs = pdfs[-a.limit:]
     OUTDIR.mkdir(parents=True, exist_ok=True)
     CR = {'agentic': 18, 'agentic_plus': 45}[a.tier]
     n_pages = len(a.pages.split(','))
