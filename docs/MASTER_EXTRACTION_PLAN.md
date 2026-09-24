@@ -69,16 +69,37 @@ python3 scripts/tools/measure_paid_surface.py <source>   # free, local
 with page targeting. Caching makes an identical re-run free for 48h, but **any option
 change busts the cache**.
 
-### Measured paid surface so far
+### Measured paid surface
+**RE-MEASURING with a calibrated detector — see the warning below before trusting any
+number here.** `data/derived/paid_surface_by_source.json` is authoritative once the
+current scan completes.
+
 ```
-banchero_costa   1074 of 3753 pages flagged (28.6%)   <- the cipher, genuinely broken
-affinity           27 of  334 pages flagged  (8.1%)
-agora               0 of 1071 pages flagged  (0.0%)
-clarksons           0 of   35 pages flagged  (0.0%)
-lion                1 of  148 pages flagged  (0.7%)
+banchero_costa   1074 of 3753 pages (28.6%)   <- CONFIRMED real: LlamaParse recovered
+                                                 the values 13/13 where the text layer
+                                                 read `!"#$#%&`
+affinity           27 of  334 pages  (8.1%)   <- pending re-measure
+agora               0 of 1071 pages  (0.0%)   <- pending re-measure
+clarksons           0 of   35 pages  (0.0%)   <- pending re-measure
+lion                1 of  148 pages  (0.7%)   <- pending re-measure
+advanced_shipping 807 of 2456 pages (32.9%)   <- ** WRONG, FALSE POSITIVES **
+carriers          127 of  386 pages (32.9%)   <- ** SUSPECT, likely false positives **
 ```
-**The cipher is a banchero-specific defect, not corpus-wide.** Most sources need no
-cloud spend at all — they need local extraction done properly.
+
+> **WARNING — the first detector was BROKEN and its numbers must not be reused.**
+> It flagged any span that was punctuation-dense with no lowercase, so it fired on
+> ordinary table headers like `± (%)` and `± ($)`. That reported a 32.9% paid surface
+> for advanced_shipping — whose pages render perfectly (verified by rendering page 1
+> and looking: clean prose, BDI 1.501/1.460, Capesize 18,608).
+>
+> `scripts/tools/calibrate_cipher_detector.py` now calibrates the instrument against
+> KNOWN-CIPHERED pages (banchero W03) **and** KNOWN-CLEAN pages before any reading is
+> trusted. The fixed rule requires: no whitespace, length >= 6, and >= 2 strong markers
+> `!"#$&*`. Calibration: banchero detected (recall kept), advanced_shipping and agora
+> zero false positives.
+>
+> **Lesson:** a check that surprises you is a check to verify first. A broken detector
+> condemns correct work — this one nearly caused a needless 807-page cloud spend.
 
 ---
 
