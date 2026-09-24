@@ -159,7 +159,7 @@ JSON contains a real series of >= 3 points):
 | xclusiv | 266 | 266 | END-TO-END (local). 4 flagged pages. **LlamaParse chart series proven on 2 docs — roll out next.** |
 | fearnleys | 257 | 257 | SKIP by decision (Hasura redundancy). 4 flagged pages. |
 | affinity | 250 | 250 | END-TO-END. 7 flagged pages to triage. |
-| agora | 213 | 213 | PARTIAL: no chart values. 5 flagged pages. Needs chart work. |
+| agora | 213 | 213 | **END-TO-END, no charts to extract.** Verified by rendering: page 1 is a title page (logo, quote, intro note); the 682/794 drawing fills on pages 2-3 are table-row shading (429/517 measured as zero-height fills) and the only image on each page is the logo. Each of the 213 `.charts.json` correctly records `"charts": []` with that reason. The audit's "PARTIAL: no chart values" verdict is a FALSE ALARM - there is no chart layer to miss. 0.0% cipher. |
 | banchero_costa | 243 | 243 (prose) | **LlamaParse COMPLETE.** 243/243 accounted: **166 cloud-parsed, 77 skipped as measured-clean, 0 failed.** Final gate **13/13** vs ground truth. 166 `.md` + 166 `.items.json`, 0 files containing glyph-cipher soup. ~938 pages / **~2,814 credits**. |
 | intermodal | 252 | **252** | **COMPLETE 2026-09-24.** All 20 T/C fields on **252/252** documents (was 180). 252 `.md`, 21–33 KB. 251 distinct assessment dates, 2021-07-06 → 2026-09-18. Also captured 71 docs' extra 6-month dry-bulk rows (284 values). `02400a120`. |
 | ism | 112 | 112 | PARTIAL: no table files. 0% cipher. |
