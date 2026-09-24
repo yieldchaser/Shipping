@@ -211,7 +211,25 @@ def main():
 
     for i, pdf in enumerate(todo, 1):
         doc = os.path.basename(pdf)[:-4]
-        pages = route.get(doc) or []
+        pages = route.get(doc)
+
+        # A document measured as CLEAN must not be sent at all: local extraction
+        # already handles it, so cloud-parsing it spends credits for nothing. The
+        # earlier `pages or []` fallback silently promoted these to whole-document
+        # parses (one 16-page doc cost 48 credits that way).
+        if pages is not None and not pages and not a.no_target_pages:
+            st.setdefault('skipped_clean', {})[doc] = 'routing map: no ciphered pages'
+            print(f'  [{i}/{len(todo)}] {doc}  SKIPPED - measured clean, 0 ciphered pages')
+            save_state(st)
+            continue
+
+        if pages is None and not a.no_target_pages:
+            st.setdefault('skipped_unknown', {})[doc] = 'not in routing map'
+            print(f'  [{i}/{len(todo)}] {doc}  SKIPPED - not in the routing map')
+            save_state(st)
+            continue
+
+        pages = pages or []
         kwargs = dict(tier=a.tier, version='latest', expand=['markdown_full', 'items'])
         use_pages = pages and not a.no_target_pages
         if use_pages:
