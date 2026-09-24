@@ -409,8 +409,8 @@
       "mom_1y": 63.2,
       "high_52w": 31000.0,
       "low_52w": 19000.0,
-      "pctile_10y": 100.0,
-      "median_10y": 21000,
+      "pctile_10y": 99.6,
+      "median_10y": 21250,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
     },
@@ -488,7 +488,7 @@
       "mom_1y": 87.5,
       "high_52w": 37500.0,
       "low_52w": 20000.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.6,
       "median_10y": 24500,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
@@ -567,8 +567,8 @@
       "mom_1y": 83.7,
       "high_52w": 45000.0,
       "low_52w": 22500.0,
-      "pctile_10y": 100.0,
-      "median_10y": 29500,
+      "pctile_10y": 99.6,
+      "median_10y": 29750,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
     },
@@ -646,7 +646,7 @@
       "mom_1y": 116.2,
       "high_52w": 73500.0,
       "low_52w": 32500.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.6,
       "median_10y": 37500,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
@@ -725,8 +725,8 @@
       "mom_1y": 120.6,
       "high_52w": 75000.0,
       "low_52w": 34000.0,
-      "pctile_10y": 100.0,
-      "median_10y": 29500,
+      "pctile_10y": 99.7,
+      "median_10y": 29750,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
     },
@@ -804,7 +804,7 @@
       "mom_1y": 239.7,
       "high_52w": 132500.0,
       "low_52w": 39000.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.7,
       "median_10y": 34500,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
@@ -883,7 +883,7 @@
       "mom_1y": 268.4,
       "high_52w": 175000.0,
       "low_52w": 47500.0,
-      "pctile_10y": 100.0,
+      "pctile_10y": 99.8,
       "median_10y": 44000,
       "cycle_label": "Super Bullish (Top 10%)",
       "cycle_badge": "bull-top"
