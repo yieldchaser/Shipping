@@ -249,8 +249,18 @@ against known-ciphered and known-clean pages before any reading is trusted).
 1. **xclusiv chart roll-out** — the capability is PROVEN (5 TCE series recovered and
    validated against the page prose) but only on 2 documents. Verify on 3+ years first,
    then run across chart pages, most-recent-first. ~45 cr/page.
-2. **advanced_shipping control** — 1 doc, the one with the Ship Recycling Gaddani/Turkey
-   merge. ~12 cr. Answers whether our benchmark source is actually complete.
+2. ~~**advanced_shipping control** — 1 doc, the one with the Ship Recycling Gaddani/Turkey
+   merge.~~ **CORRECTED 2026-09-24: that premise was WRONG.** Gaddani does not appear in
+   advanced_shipping at all — 0 of its 249 documents or table files contain it. The merge
+   is in **star_asia** (191 of 193 documents mention Gaddani), and it is a LOCAL CELL-BOUNDARY
+   defect, not a cipher problem, so it needs no cloud credits:
+   ```
+   truth :  GADDANI, PAKISTAN | 550~560  540~550  520~530  580~590  STABLE
+   ours  :  GADDANI, PAKISTAN TURKEY *For Non-EU... | 550~560 ...
+   ```
+   Measured scope: **17 of 1,187 yard-label cells (1.4%)** carry a value or the next row's
+   yard into the label cell. 416 Gaddani rows pair correctly with PAKISTAN. Worth fixing
+   locally, not worth 45 cr/page.
 3. Triage the small flagged sets: intermodal 25, star_asia 24, affinity 7, agora 5,
    xclusiv 4, fearnleys 4. **Total 69 pages ≈ 207 cr** — cheap. (Note: intermodal's
    flagged pages were the 6-month rows, now captured — re-measure before spending.)
