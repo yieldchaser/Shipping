@@ -160,11 +160,11 @@ JSON contains a real series of >= 3 points):
 | fearnleys | 257 | 257 | SKIP by decision (Hasura redundancy). 4 flagged pages. |
 | affinity | 250 | 250 | END-TO-END. 7 flagged pages to triage. |
 | agora | 213 | 213 | PARTIAL: no chart values. 5 flagged pages. Needs chart work. |
-| banchero_costa | 243 | 243 (prose) | **IN FLIGHT** — 662 ciphered pages being paid for. |
-| intermodal | 252 | **0** | Needs `.md` built (parser exists: `intermodal_v2.py`). 25 flagged pages. |
+| banchero_costa | 243 | 243 (prose) | **LlamaParse COMPLETE.** 243/243 accounted: **166 cloud-parsed, 77 skipped as measured-clean, 0 failed.** Final gate **13/13** vs ground truth. 166 `.md` + 166 `.items.json`, 0 files containing glyph-cipher soup. ~938 pages / **~2,814 credits**. |
+| intermodal | 252 | **252** | **COMPLETE 2026-09-24.** All 20 T/C fields on **252/252** documents (was 180). 252 `.md`, 21–33 KB. 251 distinct assessment dates, 2021-07-06 → 2026-09-18. Also captured 71 docs' extra 6-month dry-bulk rows (284 values). `02400a120`. |
 | ism | 112 | 112 | PARTIAL: no table files. 0% cipher. |
 | lion | 44 | 43 | **DONE 2026-09-24** (in-flight cron, verified): `md/lion/` 43 files + `lion_deals.parquet` 1,145 rows + `lion_demometer.parquet` 516 rows + `lion_summary.json`. Runner `run_lion.py`. 3 en-bloc pricing defects found and fixed (38 rows). `docs/lion_verdict.md`. 0% cipher. Note: the audit's "no tables" verdict refers to per-issue `*table*.json` sidecars, which lion stores as parquet instead — **the audit under-reports lion; read `docs/lion_verdict.md` before concluding it is incomplete.** |
-| carriers | 129 | **0** | Not started. **0% cipher — local extraction will do.** |
+| carriers | 129 | **129** | **COMPLETE 2026-09-24.** 2,866 S&P sales across 126 issues, 2021–2026, every row keyed to its issue date. 0 non-numeric prices, 2/2866 missing DWT. Verified: 0 field mismatches over 113 records in 5 documents against each PDF's own text layer. `2a8d93c49`. |
 | clarksons | 10 | 0 | Tiny, 0% cipher. Low priority. |
 | bancosta / general_broker | 2 | 0 | Singletons, 0% cipher. Low priority. |
 | gibson, allied, anchor, golden_destiny, other | — | — | **STOPPED publishers** (archive/). Backfill only if <180d. |
@@ -217,42 +217,48 @@ python3 scripts/tools/set_llama_key.py --check         # verify (prefix/tail onl
 
 ---
 
-## 8. CURRENT IN-FLIGHT WORK (check before starting anything)
+## 8. IN-FLIGHT WORK (check before starting anything)
 
-### banchero_costa LlamaParse run
-```bash
-tail -5 data/extracted/llamaparse_banchero/run.log
-python3 -c "import json;st=json.load(open('data/extracted/llamaparse_banchero/_run_state.json'));print(len(st['done']),'done',len(st['failed']),'failed')"
+### banchero_costa LlamaParse run — FINISHED
 ```
-* runner: `scripts/extract/publishers/run_banchero_llamaparse.py --tier cost_effective`
-* watchdog: cron `c0400ecf1a0b` every 30m — silent when healthy, restarts if dead
-* watchdog source: `scripts/tools/watch_banchero_run.py` (Python, **not** .sh — the
-  scheduler runs .sh through WSL bash which has no distro installed here)
-* **Do NOT start a second runner** — two concurrent runs double-spend credits.
-* When dead: `python3 scripts/tools/watch_banchero_run.py` (resumes, never restarts
-  from zero).
+python3 -c "import json;st=json.load(open('data/extracted/llamaparse_banchero/_run_state.json'));print(len(st['done']),'done',len(st['failed']),'failed',len(st.get('skipped_clean',{})),'skipped')"
+```
+**Result: 243/243 accounted — 166 parsed, 77 skipped as measured-clean, 0 failed.**
+Final verification gate 13/13 vs ground truth. 166 `.md` + 166 `.items.json`;
+**0 of 166 files still contain glyph-cipher soup.** ~938 pages / ~2,814 credits.
+
+**Credit reconciliation, stated honestly:** the calibrated map measures **662** ciphered
+pages, but the run paid **938**. The reason is ordering: the detector fix landed
+*mid-run*, so documents processed before it used the wider broken map. Correcting the
+detector first would have saved ~1,236 credits. The lesson for the next paid run is
+**calibrate the routing map BEFORE the first document, not during it.**
+
+Two of the 166 outputs are bunker-price reports rather than tanker-rate reports
+(e.g. 2021 W39 is `# COMMODITY PRICES` with IFO 380 Rotterdam 448.0, +82.1% YoY). That
+is correct extraction of a different section, not a failure.
 
 ### paid-surface scan
 `python3 scripts/tools/measure_paid_surface.py` → `data/derived/paid_surface_by_source.json`
+(run with the CALIBRATED detector; `scripts/tools/calibrate_cipher_detector.py` proves it
+against known-ciphered and known-clean pages before any reading is trusted).
 
 ---
 
 ## 9. NEXT ACTIONS IN ORDER
 
-1. Finish banchero (in flight, now on the corrected 662-page map; 96 docs already done).
-2. **Verify the xclusiv chart extraction across more years** — one document is not a
-   corpus. Render the chart, compare against prose, all 5 series, 3+ years.
-3. If it holds: roll `specialized_chart_parsing` across xclusiv's chart pages
-   (~5 pages x 266 docs = 1,330 pages ≈ 59,850 cr — **must be gated and rationed**;
-   prioritise recent years first, most-recent-first).
-4. **advanced_shipping control** — 1 doc, the one with the Ship Recycling Gaddani/Turkey
+1. **xclusiv chart roll-out** — the capability is PROVEN (5 TCE series recovered and
+   validated against the page prose) but only on 2 documents. Verify on 3+ years first,
+   then run across chart pages, most-recent-first. ~45 cr/page.
+2. **advanced_shipping control** — 1 doc, the one with the Ship Recycling Gaddani/Turkey
    merge. ~12 cr. Answers whether our benchmark source is actually complete.
-5. Triage the small flagged sets: intermodal 25, star_asia 24, affinity 7, agora 5,
-   xclusiv 4, fearnleys 4. **Total 69 pages ≈ 207 cr** — cheap.
-6. Build `.md` for intermodal (252 docs, parser exists) and start carriers (129 docs,
-   0% cipher, local only — no spend).
-7. Chart values owed for: agora (213), ssy (519). ism needs table sidecars.
-8. Vision spot-check a sample from each completed source before calling it closed.
+3. Triage the small flagged sets: intermodal 25, star_asia 24, affinity 7, agora 5,
+   xclusiv 4, fearnleys 4. **Total 69 pages ≈ 207 cr** — cheap. (Note: intermodal's
+   flagged pages were the 6-month rows, now captured — re-measure before spending.)
+4. Chart values owed for: agora (213), ssy (519).
+5. ism needs table sidecars; clarksons (10) and the two singletons are low priority.
+6. Vision spot-check a sample from each completed source before calling it closed.
+7. Corpus groups outside 01-brokers are a SEPARATE programme: 03-breakwave 18,566 ·
+   08-baltic 3,038 · 02-hellenic 14,130 · 07-signal 2,400 · 06-drewry 829 · 09-ppa 493.
 
 ## 9a. TIME-SERIES REQUIREMENT (the user's stated goal)
 Weekly PDFs repeat the same structure, so extraction must land in a shape that builds
