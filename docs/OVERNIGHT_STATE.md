@@ -4,7 +4,7 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-Last updated: 2026-09-24 ~11:30 IST (cron run 09:52; agora COMPLETE + verified, next = ism)
+Last updated: 2026-09-24 ~12:15 IST (cron run 11:20; ism COMPLETE + verified, next = lion)
 
 ---
 
@@ -41,40 +41,45 @@ Method for every source, in order:
 | xclusiv | 266/266 | `data/extracted/md/xclusiv/` | 3 passes; prose-anchored rates, 69% labelled, 0 duplicates/stray. `docs/xclusiv_verdict.md`. |
 | affinity | 250/250 | `data/extracted/md/affinity/` | 4 cards (BDTI/BCTI, BDA, TCE DIRTY, TCE CLEAN), 0 charts, ISO numbers. Independent verify: 250/250 docs, 0 unaccounted panel values, panel rect constant in 250/250. `docs/affinity_verdict.md`. |
 | agora | 213/213 | `data/extracted/md/agora/` | 10,002 rows, 42,013 value words, 3 unaccounted in the whole corpus, 53s, 0 failures. Independent verify: 0 failures, 426/426 semantic crude/Brent gates, 212/212 BDI. US/EU convention switch mid-2022 - derived PER DOCUMENT. `docs/agora_verdict.md`. |
+| ism | 112/112 | `data/extracted/md/ism/` | **charts only, NO tables** (measured). 444 charts, 1,678 series, 84,035 weekly points, 0 failures, ~35 s. 96.8% labelled, 0 mislabelled, 0 unverified axes, 443/444 linear x. `docs/ism_verdict.md` (12 defects found+fixed), `docs/ism_survey.md`. |
 | fearnleys | SKIPPED | `data/extracted/md/fearnleys/` (record only) | **User decision 03:05: the publisher is already ingested structurally** (Hasura: 11,732 comments, 62MB fixtures, route dailies, T/C, S and P) - the PDFs are a worse copy. An extraction was already in flight and completed anyway: 257/257, 16,326 rows, 267s, 0 failures. Kept as `docs/fearnleys_extraction_record.md` (7 transferable defects). Do NOT re-extract and do NOT treat it as new data. |
 
-### NEXT: ism (112 PDFs) - source 8
+### NEXT: lion (44 PDFs) - source 9, the last unbuilt broker source
 
-**agora is DONE and verified** (`docs/agora_verdict.md`): 213/213, 53 s, 10,002
-rows, 0 failures, 3 unexplained values in the whole corpus. Its pipeline
-`scripts/extract/publishers/run_agora.py` is the model to copy for a table source
-- columns are read off the page from their own header words, never typed.
+**ism is DONE and verified** (`docs/ism_verdict.md`): 112/112, 444 charts,
+1,678 series, 84,035 weekly points, 0 failures. It is a CHARTS-ONLY source - a
+numeric-row detector fires on 149/266 pages but every hit is a chart's x-axis
+tick labels, there is no table anywhere. `scripts/extract/publishers/run_ism.py`
+is the model to copy for a vector-chart source: derive the axis from the drawn
+tick MARKS, anchor weeks on the publisher's printed labels, label series by
+stroke colour only, and leave a series unlabelled when no swatch matches.
 
-Remaining sources with NO existing fetcher, biggest first:
+LION fingerprint (measured 2026-09-24, start here):
 
-| source | docs | check measured |
-|---|---|---|
-| ism | 112 | no fetcher, no extractor |
-| lion | 44 | no fetcher, no extractor |
+| fact | measured |
+|---|---|
+| documents | **44** (`corpus/01-brokers/lion/`) |
+| years | **2024:1  2025:12  2026:31** - a recent, live publication |
+| pages/doc | 2 (4), 3 (36), 4 (3), **20 (1)** |
+| text layer | median **10,225 chars/doc**, min 7,658 - the richest text of any source so far |
+| drawings | 148 of ~150 pages carry vector content |
+| filenames | `lion_<year>_W<nn>_...pdf` |
+
+10k chars/doc is roughly double ism's, so this source is likely to hold REAL
+TABLES as well as charts - do not assume the ism approach transfers. Count +
+fingerprint first, render pages from 2025 and 2026 and LOOK, then decide.
+
+Remaining sources with NO existing fetcher after lion: **none in 01-brokers**.
 
 Already covered / hands off - do NOT build extractors for these:
 * `banchero_costa` 243 - has `scripts/extract/banchero_deals.py` + parquet
   (3,120 deals; 61/243 reports are garbled-text-layer and need OCR this box has not).
-* `intermodal` / `carriers` - PARALLEL agents own them (intermodal reported
-  COMPLETE by the other agent at commit bd4e47dad).
+* `intermodal` / `carriers` - PARALLEL agents own them.
 * `drewry`, `breakwave`, `poten` - existing fetchers; `fearnleys` - skipped as
-  already ingested (see above).
+  already ingested.
 * non-broker `corpus/04-poten` 1087, `corpus/09-ppa` 493, `corpus/06-drewry` 276.
 
-### ISM FINGERPRINT (source 8) - already measured, start here
-
-112 PDFs, **2023:37 2024:31 2025:27 2026:17 - there is no 2021 or 2022**.
-Publisher is Metal Expert (`ismreport.com`). Two publication lines by filename:
-`ISM_coaster_weekNN` / `ISM_Handy_weekNN`, plus `ISM_2023_holiday_special.pdf`
-(6 pages).
-
-| fact | measured |
-|---|---|
+---|---|
 | page size | portrait A4 595 pt |
 | pages/doc | 2 in 2023-2024, 3 in 2025-2026, 6 for the holiday special |
 | layout | page 0 = prose commentary + chart, page 1 = more prose (+ chart in 2023), last page = contacts/disclaimer |
