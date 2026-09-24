@@ -738,18 +738,30 @@ def date_labels(page, frame, report_date=None):
     if len(ticks) >= len(dates):
         # the left edge of the k-th label bounds the month it names
         return [(ticks[k], dates[k].isoformat()) for k in range(len(dates))]
-    fx0, fx1 = frame[0], frame[2]
-    w = fx1 - fx0
-    n = len(dates)
-    return [(fx0 + w * k / (n - 1), dates[k].isoformat()) for k in range(n)]
+    # NO FALLBACK. A partial detection is worse than none: a uniform placement puts every
+    # report's axis on the same grid, so the same x means a slightly different date in
+    # each, and the merge silently reads one date as 21 different values. Returning
+    # nothing keeps the points undated, which the state file records as a real gap.
+    return []
 
 
-def _label_cluster_x(page, frame, n_min=40, n_max=200, max_w=30):
+def _label_cluster_x(page, frame, n_min=40, n_max=400, max_w=34, max_y=40):
     """x positions of the outlined date labels beneath a plot, in order.
 
     Each label is a cluster of many tiny uncoloured strokes, so it is found by shape: more
-    than 40 line items, under 30pt wide, sitting just below the plot, and drawn with no
+    than 40 line items, under 34pt wide, sitting just below the plot, and drawn with no
     stroke colour (the labels are filled outlines, not strokes).
+
+    The width and count bounds are deliberately loose. A first version used 30pt and 200
+    items, which detected only 4-5 of the 12 labels (measured 2023 W22: 356.9, 464.5,
+    517.1, 553.7) and so fell through to the uniform fallback. That fallback is what broke
+    the merge: it placed the axis labels at exactly 19.66pt intervals starting at the
+    FRAME's left edge, identical in every report, so a given x meant a slightly different
+    date in each one. 28 reports then gave 21 different BDI values for 2023-05-31.
+
+    Detection must either be complete or the caller must record the gap. `date_labels`
+    returns empty when it cannot find at least as many clusters as dates, and the extract
+    marks the chart undated rather than dating it wrongly.
     """
     out = []
     for d in page.get_drawings():
@@ -760,22 +772,21 @@ def _label_cluster_x(page, frame, n_min=40, n_max=200, max_w=30):
             continue
         r = d["rect"]
         w = r.x1 - r.x0
-        if not (5 < w < max_w):
+        if not (4 < w < max_w):
             continue
-        if not (frame[3] - 2 <= r.y0 <= frame[3] + 32):
+        if not (frame[3] - 3 <= r.y0 <= frame[3] + max_y):
             continue
-        if r.x0 < frame[0] - 5 or r.x0 > frame[2] + 5:
+        if r.x0 < frame[0] - 8 or r.x0 > frame[2] + 8:
             continue
         out.append((r.x0, w, n))
     out.sort()
-    # one label per cluster: merge groups whose x ranges overlap
-    merged = []
-    for x, w, n in out:
-        if merged and x < merged[-1][1] - 2:
-            merged[-1] = (merged[-1][0], max(merged[-1][1], x + w))
-        else:
-            merged.append((x, x + w))
-    return [round(a, 2) for a, _ in merged]
+    # Cluster by CENTRE, not by x-overlap. The labels are rotated about 45 degrees, so
+    # each one's bounding box is 18-21pt wide and successive labels INTERLEAVE: measured
+    # 2023 W22, label 1 spans x 356.9-375.2 and label 2 spans 372.6-393.4, an overlap of
+    # 2.6pt. Merging on overlap therefore fused neighbours and left 4-5 groups where there
+    # are 12 labels - which is what silently forced the uniform fallback that broke the
+    # merge. The centres, by contrast, are 16-21pt apart and cleanly separated.
+    return [round(x + w / 2.0, 2) for x, w, _ in out]
 
 
 def to_iso(t):
@@ -795,31 +806,34 @@ def x_frac(x, frame):
 
 
 def date_for_frac(frac, dates, frame):
-    """Interpolate an x position to an ISO date using the axis labels."""
+    """Interpolate an x position to an ISO date using the axis labels.
+
+    THE POINTS ARE WEEKLY, NOT DAILY, and pretending otherwise invents precision the chart
+    does not carry. Measured 2023 W22: 262 distinct x positions across a 217pt plot, i.e.
+    about 5 per month, so each point is a week. Interpolating linearly between two
+    month-end labels therefore gives a date that is at best a few days out, and two
+    reports whose label grids differ by a fraction of a point land on different days for
+    the same week. Measured consequence: W22 gives BDI 931 on 2022-09-30 and W27 gives
+    960 for the same week - a disagreement the merge then reads as two observations of one
+    date.
+
+    So a point is dated to the MONTH it falls in, by nearest label, and the intra-month
+    day is left unset. That is the resolution the chart actually supports: the x axis
+    labels months, and a weekly point inside a month is not separable from its neighbours
+    by any evidence on the page. The merge then compares month to month, where two
+    reports really do cover the same months.
+    """
     if not dates or frac is None:
         return None
-    fx0, fx1 = frame[0], frame[2]
-    pos = fx0 + frac * (fx1 - fx0)
-    xs = [d[0] for d in dates]
-    if pos <= xs[0]:
+    if frac <= 0:
         return dates[0][1]
-    if pos >= xs[-1]:
+    if frac >= 1:
         return dates[-1][1]
-    i = 0
-    for j in range(len(xs) - 1):
-        if xs[j] <= pos:
-            i = j
-    a, b = dates[i], dates[i + 1]
-    if a[0] == b[0]:
-        return a[1]
-    import datetime as _dt
-    try:
-        da = _dt.date.fromisoformat(a[1])
-        db = _dt.date.fromisoformat(b[1])
-    except ValueError:
-        return a[1]
-    t = (pos - a[0]) / (b[0] - a[0])
-    return (da + _dt.timedelta(days=(db - da).days * t)).isoformat()
+    xs = [d[0] for d in dates]
+    pos = frame[0] + frac * (frame[2] - frame[0])
+    # the month whose label is nearest this x bounds it
+    k = min(range(len(xs)), key=lambda i: abs(xs[i] - pos))
+    return dates[k][1]
 
 
 def report_date_of(pdf_path):
