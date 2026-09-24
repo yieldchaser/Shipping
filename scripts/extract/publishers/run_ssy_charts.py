@@ -233,14 +233,6 @@ def series_paths(page):
         r = d["rect"]
         if (r.x1 - r.x0) < 100 or (r.y1 - r.y0) < 10:
             continue
-        # A DATA LINE is a chain of LONG segments; the axis furniture is a stack of tiny
-        # ones. Measured ssy 2021, the 4th candidate was not a plot border at all but the
-        # y-axis TICK MARKS: 32 segments, each only 1.98pt long, stacked on the gridline
-        # spacing (15.9pt), spanning y 440.3..678.0 at x 255.4..258.4. Its rect is wide
-        # only because the marks jitter, and it is not closed, so neither the closed-walk
-        # test nor the aspect-ratio test removed it - the first deleted a REAL series
-        # (the 2021 line, 0.75 ratio vs the marks' 0.71) and the second missed this.
-        #
         # A DATA LINE advances monotonically in x. Axis furniture does not.
         #
         # Measured ssy 2021, the 4th candidate was 15 full-width GRIDLINES: 30 vertices,
@@ -251,10 +243,10 @@ def series_paths(page):
         #
         # Earlier attempts failed here for instructive reasons. An aspect-ratio rule
         # (height > 0.75*width) deleted a REAL series: the 2021 line spans 65% of the
-        # plot's height against the furniture's 71%. A closed-walk test missed it because
-        # PyMuPDF reports each rule as its own item, so the path is not closed. A
-        # median-segment-length test was also wrong: the gridline's segments are the
-        # LONGEST on the page, not the shortest.
+        # plot's height against the furniture's 71%. A closed-walk test missed the
+        # furniture because PyMuPDF reports each rule as its own item, so the path is not
+        # closed. A median-segment-length test pointed the wrong way: the gridline is the
+        # LONGEST path on the page.
         xs = [x for x, _ in raw]
         steps = [b - a for a, b in zip(xs, xs[1:])]
         if not steps:
@@ -263,9 +255,42 @@ def series_paths(page):
         backward = sum(1 for s in steps if s < -0.01)
         if forward < 0.9 * (forward + backward):
             continue              # a stack of rules, not a left-to-right line
-        out.append({"pts": sorted(raw), "rect": (r.x0, r.y0, r.x1, r.y1),
+        # KEEP EMISSION ORDER. Sorting by x here would destroy the information
+        # _forward_runs() needs: a stroke that doubles back is only recognisable from the
+        # order its segments were emitted, and sorting first makes the backtrack look
+        # like ordinary data. The x range still comes from the drawing's own rect.
+        out.append({"pts": list(raw), "rect": (r.x0, r.y0, r.x1, r.y1),
                     "colour": tuple(d.get("color") or ())})
     return out
+
+
+def _forward_runs(pts):
+    """Rebuild a stroke in emission order, keeping only forward-moving runs.
+
+    A plotted line advances left to right. A stroke that doubles back - emitted once to
+    draw the line and again for a highlight, or with a duplicated peak - produces a run
+    of x-steps that go backwards. Sorting by x (as an earlier version did) interleaves
+    the returning run with the outgoing one and invents points that are on neither.
+
+    Measured ssy 2025-01-03 Pacific: the 2023 teal stroke's tail was
+    ...58,561 / 90,279 / 90,279 / 56,050, a 90k spike with the peak repeated, against a
+    rendered line that peaks near 42k in October. Keeping the longest forward run drops
+    the backtrack and its duplicate together, so the phantom never becomes a reading.
+
+    The LONGEST run wins rather than the first, so a short backtrack at either end is
+    discarded without discarding the series.
+    """
+    best, cur = [], []
+    for p in pts:
+        if cur and p[0] < cur[-1][0] - 0.01:
+            if len(cur) > len(best):
+                best = cur
+            cur = [p]
+        else:
+            cur.append(p)
+    if len(cur) > len(best):
+        best = cur
+    return best or list(pts)
 
 
 def _drop_shadow_paths(paths):
@@ -396,12 +421,29 @@ def value_at(y, ticks):
     return a[2] + (y - a[1]) * (b[2] - a[2]) / (b[1] - a[1])
 
 
-def date_for_x(x, months):
+def date_for_x(x, months, series_year=None):
     """Map a page x to a calendar position using the month axis.
 
     x is linear in time, so a point between two month labels is dated by interpolating
-    within that month. The 2021-23 form carries the year on the label; the bare form
-    does not, so only a fractional month index is returned there.
+    within that month. Two label forms exist:
+
+    - 'Jan-20' .. 'Jan-22' (2021-23): the labels carry the year, so the date comes
+      straight off the axis. `series_year` is ignored.
+    - bare 'Jan' .. 'Dec' (2024-26): the labels carry only the month, and all THREE
+      legend years share ONE x axis. The year of a point is therefore its own SERIES'
+      legend year.
+
+    That last point is the one that matters, and getting it wrong is invisible per
+    document. Measured on ssy: a report with legend 2023/2024/2025 and months Jan..Dec
+    plots all three years against the same axis, so the x position gives the MONTH and
+    the series gives the YEAR. Dating by the window's start year instead - the oldest
+    legend year - stamped the 2024 line's December point as 2023-DEC as well, merging two
+    different years onto one key. The merge's own agreement check exposed it: a
+    90,279 reading (real Pacific 2023) and a 3,893 reading (real 2024) landed on
+    'PACIFIC 2023-DEC-b4' with a 183% spread across 104 reports.
+
+    The window-start-year idea was wrong in principle: an x axis spanning one calendar
+    year means the year is a property of the SERIES, not of the plot.
     """
     if len(months) < 2:
         return None
@@ -416,58 +458,129 @@ def date_for_x(x, months):
     t = (x - a["x0"]) / (b["x0"] - a["x0"]) if b["x0"] != a["x0"] else 0.0
     mi0 = MONTH_ABBR.index(a["mon"]) if a["mon"] in MONTH_ABBR else 0
     mi1 = MONTH_ABBR.index(b["mon"]) if b["mon"] in MONTH_ABBR else mi0 + 1
-    fm = mi0 + t * ((mi1 - mi0) % 12 or 1)
-    out = {"month_frac": round(fm, 3)}
+    mf = mi0 + t * ((mi1 - mi0) % 12 or 1)
+    out = {"month_frac": round(mf, 3)}
     yy = a["yy"]
     if yy and yy.isdigit():
         y0 = int(yy)
-        year = y0 + int(fm // 12)
-        mon = MONTH_ABBR[int(fm % 12)]
-        out.update({"date": f"{year:04d}-{mon}", "year": year, "month_abbr": mon})
+    elif series_year and str(series_year).isdigit():
+        y0 = int(series_year)
+    else:
+        return out
+    year = y0 + int(mf // 12)
+    mon = MONTH_ABBR[int(mf % 12)]
+    out.update({"date": f"{year:04d}-{mon}", "year": year, "month_abbr": mon})
     return out
 
 
 # ------------------------------------------------------------------- page ground truth
 
-def calculated_index(page):
-    """The page's own printed 'Calculated Index' figure, for the self-check.
+def printed_field(page, heading):
+    """The first numeric figure printed under a given table heading.
 
-    The table is ONE block, not several: measured 2024, block 3 concatenates the whole
-    grid - '28/06/202405/07/2024TradeCargo SizeWeight$/t$/tRIC...' with 'Calculated
-    Index' and '7,234' inside it. Both earlier attempts failed for the same reason: one
-    scanned LINES (the heading and figure are different lines inside one block), the
-    next required the figure to be its OWN block. The number is the first numeric token
-    after the heading in reading order, and reading order already puts Current before
-    Previous - matching the two date headers printed above the columns.
+    The whole table is ONE block, so the heading and its figures are lines inside it
+    (measured 2024 block 3: 'Calculated Index', '7,234', '6,899', ...). A block-scoped
+    or span-scoped scan misses the number; this walks the lines of the containing block.
+    Two earlier attempts failed exactly there.
     """
     for blk in page.get_text("dict")["blocks"]:
-        lines = blk.get("lines", [])
         texts = ["".join(sp["text"] for sp in ln["spans"]).strip()
-                 for ln in lines]
+                 for ln in blk.get("lines", [])]
         for i, txt in enumerate(texts):
-            if not re.match(r"Calculated Index\b", txt, re.I):
+            if not re.match(re.escape(heading) + r"\b", txt, re.I):
                 continue
             for nxt in texts[i + 1:]:
-                m = re.fullmatch(r"([\d,]{2,})(\.\d+)?", nxt)
+                m = re.fullmatch(r"([+\-]?)([\d,]{2,})(\.\d+)?", nxt)
                 if m:
-                    return float(m.group(1).replace(",", ""))
+                    v = float(m.group(2).replace(",", ""))
+                    return -v if m.group(1) == "-" else v
+    return None
+
+
+def calculated_index(page):
+    """The page's own printed 'Calculated Index', for the base and self-check.
+
+    Current comes first, matching the two date headers printed above the columns.
+    """
+    return printed_field(page, "Calculated Index")
+
+
+def route_of(doc):
+    """The index this report covers: Atlantic or Pacific.
+
+    Taken from the ROUTE, never from the title. Two separate reasons:
+
+    1. The chart title is not reliably recoverable from text order. A regex matching any
+       line containing 'SSY ... Capesize Index' returned the first PROSE SENTENCE on 100+
+       documents - e.g. 'The SSY Atlantic Capesize Index fell by', 'SSY Pacific Capesize
+       Index to a 13-', 'took the SSY Pacific Capesize Index to'. Those are commentary,
+       not titles, and pooling them would merge two different indices.
+    2. Atlantic and Pacific are DIFFERENT indices with different values. Pooled, the same
+       key collects readings from both and the cross-report spread explodes - which is
+       exactly what the merge's own agreement check reported: median 48.8%, worst key
+       2023-DEC-b4 spanning 8,175..90,279 across 156 reports.
+
+    The route is therefore read from the document's own text, using an exact vocabulary
+    match on the route name, and the merge keys on it.
+    """
+    txt = doc[0].get_text().upper()
+    has_a = "ATLANTIC CAPESIZE INDEX" in txt
+    has_p = "PACIFIC CAPESIZE INDEX" in txt
+    if has_a and not has_p:
+        return "ATLANTIC"
+    if has_p and not has_a:
+        return "PACIFIC"
+    if has_a and has_p:
+        # both words present: the report's OWN header decides. The first 400 characters
+        # carry the title block; later text is the commentary paragraph.
+        head = txt[:400]
+        return "ATLANTIC" if "ATLANTIC CAPESIZE INDEX" in head else "PACIFIC"
     return None
 
 
 def title_of(page):
-    pat = re.compile(r"(The )?SSY (Atlantic|Pacific) Capesize Index", re.I)
+    """The chart's title span, if one is present verbatim.
+
+    Accepts only a span that IS the title, not a sentence containing it. A looser test
+    returned prose on most 2021-23 reports, so the match is anchored to the whole span.
+    """
+    pat = re.compile(r"^(The )?SSY (Atlantic|Pacific) Capesize Index\.?$", re.I)
     for sp in _spans(page):
-        if pat.search(sp["text"].strip()):
-            return sp["text"].strip()
-    for sp in _spans(page):
-        if re.search(r"(Atlantic|Pacific) Capesize Index", sp["text"], re.I):
-            return sp["text"].strip()
+        t = sp["text"].strip()
+        if pat.match(t):
+            return t.rstrip(".")
     return ""
 
 
 def report_year(pdf_path):
     ys = re.findall(r"(20\d{2})", Path(pdf_path).name)
     return int(ys[0]) if ys else None
+
+
+def page_date(page):
+    """The report's own date, ISO format, from the page text.
+
+    Used to order the weekly chain, so the rebasing detector walks the reports in
+    publication order rather than in filename order. Filenames are not reliably
+    chronological across the corpus's three naming schemes (ssy_2025_20250627-...,
+    ssy_2022_P20220110, ssy_14_09_2026_...).
+    """
+    txt = page.get_text()
+    for pat in (r"(\d{1,2})(?:st|nd|rd|th)?\s+(January|February|March|April|May|June|"
+                r"July|August|September|October|November|December)\s+(20\d{2})",
+                r"(20\d{2})-(\d{2})-(\d{2})",
+                r"(\d{2})/(\d{2})/(20\d{2})"):
+        m = re.search(pat, txt)
+        if not m:
+            continue
+        g = m.groups()
+        if g[0].startswith("20"):
+            return f"{g[0]}-{g[1]}-{g[2]}"
+        mon = MONTH_ABBR.index(g[1][:3].upper()) + 1
+        if len(g[0]) == 4:                       # already yyyy, mm, dd
+            return f"{g[0]}-{int(g[1]):02d}-{int(g[2]):02d}"
+        return f"{g[2]}-{mon:02d}-{int(g[0]):02d}"
+    return None
 
 
 # --------------------------------------------------------------------------- extract
@@ -484,6 +597,8 @@ def extract(pdf_path):
         out = {
             "file": Path(pdf_path).name,
             "report_year": report_year(pdf_path),
+            "report_date": page_date(page),
+            "route": route_of(doc),
             "title": title_of(page),
             "n_ticks": len(ticks),
             "ticks": [{"v": round(t[2], 1), "y": round(t[1], 2), "raw": t[3]} for t in ticks],
@@ -527,12 +642,27 @@ def extract(pdf_path):
             #
             # It is VERTICAL-EXTREME: it reaches the top and bottom of the plot. A data
             # line is bounded by its own data. Measured ssy 2021, the frame ran y
-            # 430.6..652.5 against a ladder of 434.3..672.5, so the first test below is
-            # the reliable one. An earlier aspect-ratio rule (height > 0.75*width) was
-            # tried first and rejected: the frame is 0.71 but the REAL 2021 series is
-            # it deleted a genuine line and 2021 fell to two series.
+            # 430.6..652.5 against a ladder of 434.3..672.5. An earlier aspect-ratio rule
+            # (height > 0.75*width) was tried first and rejected: the frame is 0.71 but
+            # the REAL 2021 series is 0.75, so it deleted a genuine line.
+            #
+            # ORDER BY EMISSION, THEN x. A stroke can double back on itself, and sorting
+            # by x alone interleaves the returning run with the outgoing one.
+            #
+            # This produced a phantom 90,279 reading. Measured ssy 2025-01-03 Pacific, the
+            # 2023 teal path ends ...58,561 / 90,279 / 90,279 / 56,050, i.e. it spikes to
+            # 90k and falls 34k inside the last two weekly steps, with the peak vertex
+            # emitted TWICE. The rendered page shows that line peaking near 42k in October,
+            # so the spike is a stroke artifact, not data. It also poisoned the merge: a
+            # single 90,279 reading on key 'PACIFIC 2023-DEC-b4' dragged 78 correct
+            # readings of ~8,175 into a 167% spread.
+            #
+            # The path below rebuilds the stroke in emission order and keeps only
+            # forward-moving runs, so a backtrack and its duplicated peak are dropped
+            # together rather than being read as two extra data points.
+            ordered = _forward_runs(p["pts"])
             seen, uniq = set(), []
-            for x, y in p["pts"]:
+            for x, y in ordered:
                 k = (round(x, 2), round(y, 2))
                 if k not in seen:
                     seen.add(k)
@@ -540,16 +670,16 @@ def extract(pdf_path):
             if len(uniq) > 2 and uniq[0] == uniq[-1]:
                 continue
             pts = []
+            yr = leg.get(id(p))
             for x, y in uniq:
                 v = value_at(y, ticks)
                 rec = {"x": round(x, 2), "y": round(y, 2),
                        "index_value": round(v, 1) if v is not None else None,
                        "x_frac": round((x - gx_lo) / span, 5) if span else None}
                 if span:
-                    rec.update(date_for_x(x, months) or {})
+                    rec.update(date_for_x(x, months, yr) or {})
                 pts.append(rec)
             vals = [q["index_value"] for q in pts if q["index_value"] is not None]
-            yr = leg.get(id(p))
             out["series"].append({
                 "year": yr, "series": f"SSY Capesize Index {yr}" if yr else None,
                 "colour": [round(c, 4) for c in p["colour"]] if len(p["colour"]) == 3 else None,
@@ -577,6 +707,8 @@ def extract(pdf_path):
         # The exact value is not lost: the printed figure IS captured, and it is the
         # anchor for the current-year series. The chart supplies the path.
         printed = calculated_index(page)
+        prev_chg = printed_field(page, "Change on Previous Index")
+        two_ago = printed_field(page, "Change on Two Years Ago")
         cur = next((s for s in out["series"] if s["year"] == str(out["report_year"])), None)
         if cur is None and out["series"]:
             cur = out["series"][0]
@@ -584,6 +716,8 @@ def extract(pdf_path):
                if (cur and printed and cur["last"] is not None and printed) else None)
         out["check"] = {
             "printed_calculated_index": printed,
+            "change_on_previous": prev_chg,
+            "change_two_years_ago": two_ago,
             "series_last": cur["last"] if cur else None,
             "series_year": cur["year"] if cur else None,
             "series_ends_at_frac": cur["points"][-1]["x_frac"] if cur and cur["points"] else None,
