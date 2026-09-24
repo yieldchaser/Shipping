@@ -77,3 +77,32 @@ was a chart tick row. Each candidate must be confirmed by reading the page.
   into typed fields, or need per-era templates
 * whether the 2024 digest's tables are image or text layer (its page 3 has 453
   vector drawings, so it is text/vector, not scanned)
+
+---
+
+## 6. RESOLVED 2026-09-24 - see `docs/lion_verdict.md`
+
+All four OPEN items are closed, with measurements:
+
+1. **Rendered and inspected.** The 2025/2026 weeklies hold **no table and no
+   chart** other than the demometer; the numeric bands the survey flagged are the
+   demometer rows and the deal narratives. The 2024 digest's page 3 is a
+   star-asia reprint (already extracted 193/193) - **RESTATEMENT**, skipped.
+2. **Target decided by the three-baseline test.** The demometer is a
+   RESTATEMENT (country demolition rates are already in
+   `data/derived/scrappage_prices.csv` from Hellenic GMS reports and already
+   rendered by `index.html`); it tracks that feed within ~$10/LDT. Lion's **own
+   S&P deal tape is the genuinely missing part**: of 1,117 deal vessels only 92
+   appear in banchero_costa's 2,920, and fearnleys' name overlap is charter
+   fixtures, not sales.
+3. **Built and run:** `scripts/extract/publishers/run_lion.py` (self-contained,
+   PDF -> text -> parse -> parquet + summary + markdown). 43/44 issues,
+   516 demometer rows, 1,145 deal rows.
+4. **The deal narratives ARE consistent enough to type**, but three en-bloc
+   pricing defects were found and fixed first (38 rows; see the verdict). The
+   typed layer is best-effort; the `.md` is the primary deliverable.
+
+An extraction of this source already existed in `data/extracted/` from 2026-09-22
+(parquet + summary, never committed, never verdicted). It was **verified rather
+than rebuilt**: the defects above were found by verifying it, and it is now
+reproducible from a committed runner.
