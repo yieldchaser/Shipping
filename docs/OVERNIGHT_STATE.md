@@ -8,6 +8,14 @@ Last updated: 2026-09-24 ~13:00 IST (LlamaParse banchero run IN FLIGHT - do not 
 
 ---
 
+## READ THIS FIRST
+
+**`docs/MASTER_EXTRACTION_PLAN.md` is the master resumable plan** - source
+inventory, proven capabilities, cost routing policy, skip decisions, exact
+commands. This file (OVERNIGHT_STATE) covers only what is in flight right now.
+
+---
+
 ## ACTIVE JOB RIGHT NOW - do NOT duplicate
 
 **LlamaParse escalation run for banchero_costa is RUNNING.**
