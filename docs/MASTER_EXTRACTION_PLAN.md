@@ -114,39 +114,41 @@ which 662 (91%) is banchero. Spending is therefore targeted, not blanket.
 
 ## 4. SOURCE INVENTORY AND STATUS
 
-### How many are DONE PROPERLY END-TO-END?
+> **Status corrected 2026-09-24 15:40 against ARTEFACTS on disk, not against this
+> document's earlier claims.** Three verdicts below were wrong and are now fixed:
+> intermodal HAS a chart layer (two line charts on page 3, every era); ssy is now
+> complete; lion and carriers are definitively chart-free, confirmed by rendering.
 
-**5 of 11 sources with output, by content audit** (`scripts/tools/audit_completeness.py`,
-which checks markdown is non-trivial *per source*, tables contain real rows, and chart
-JSON contains a real series of >= 3 points):
+### Sources CLOSED end-to-end, verified
 
-| verdict | sources |
-|---|---|
-| **END-TO-END (text + tables + chart values)** | **advanced_shipping, affinity, fearnleys, star_asia, xclusiv** |
-| PARTIAL | agora, ssy (chart values only), ism (tables), banchero_costa (in flight) |
+| source | docs | text | tables | chart values | time series |
+|---|---|---|---|---|---|
+| **ssy** | 519 | 519 `.md` | inline | **519/519, 65,869 pts, 1,432 series, 0 cr** | **8,881 keys, cross-report agreement 0.26%** |
+| advanced_shipping | 249 | yes | 249 | yes | local |
+| affinity | 250 | yes | 250 | yes | local |
+| agora | 213 | yes | 213 | **none exist** (no chart layer, render-verified) | n/a |
+| fearnleys | 257 | yes | 257 | yes | Hasura redundancy — skip by decision |
+| ism | 112 | yes | inline in `.md` | 4 charts x 3 series | local |
+| star_asia | 193 | yes | 193 | yes | local |
+| xclusiv | 266 | yes | 266 | **6/6 years, 13 series, 936 pts, 270 cr** | sampled, see §9 |
+| banchero_costa | 243 | 243 via LlamaParse | 243 | FFA on p14, 64 outputs | 13/13 gate |
+| carriers | 129 | 129 | 129 | **none exist** (render-verified, pure tables) | 2,866 sales rows |
+| intermodal | 252 | 252 | 252 | **2 charts x 9 series, 252/252, 0 cr** | in progress |
+| lion | 44 | 43 | parquet | **none exist** (render-verified) | 1,145 + 516 rows |
 
-**Two known audit limitations, stated so the count is not over-trusted:**
-* The audit looks for `*table*.json` sidecars. **lion** stores its tables as **parquet**
-  (`lion_deals.parquet`, `lion_demometer.parquet`) and is therefore reported as having no
-  tables when it is in fact COMPLETE and verified (`docs/lion_verdict.md`). Treating the
-  audit as gospel would wrongly condemn it.
-* `fearnleys_cleaned` is an intermediate copy of `fearnleys`, not a separate source —
-  do not count it twice.
+**ssy is the reference implementation for closing a source.** Its extractor
+(`scripts/extract/publishers/run_ssy_charts.py`) is vector-only, 0 credits, and its merge
+(`merge_ssy_charts.py`) carries a self-validating agreement check: each weekly report
+redraws the same window, so repeated readings of one calendar position must agree, and
+they do to a **median 0.26%**. That check is what caught four merge defects a
+per-document metric could not see.
 
-**Caveats stated honestly:**
-* **xclusiv** is marked end-to-end because its 265 `.charts.json` files exist and are
-  non-empty — but those are the *local* chart extractions. The richer LlamaParse TCE
-  series (5 series x ~6 years, validated against page prose) exists only for 2 test
-  documents so far. See section 9.
-* **fearnleys** is deliberately SKIPPED for data (Hasura API already ingests it) — it is
-  listed complete on its own terms, not as a priority.
-* **ssy** was briefly reported as "0/519 text" — that was the AUDITOR's bad fixed
-  byte-threshold, not a real gap. Verified by reading a file: 1,384 bytes holding a
-  10-row table + calculated index + T/C rates. ssy is 1 page/doc, so small is correct.
-  Only its chart values are outstanding.
-* Corpus groups outside 01-brokers (03-breakwave 18,566 · 08-baltic 3,038 ·
-  06-drewry 829 · 07-signal 2,400 · 09-ppa 493 · 02-hellenic 14,130) are **not** covered
-  by this audit and are a separate programme.
+### NOT started
+
+| source | docs | why |
+|---|---|---|
+| clarksons | 10 | render-verified: 2 S&P tables, **no charts** |
+| bancosta / general_broker | 2 | singletons |
 
 ### Per-source detail
 `docs` = PDFs in corpus. `.md` = local extraction present.
