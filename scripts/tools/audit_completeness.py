@@ -7,7 +7,7 @@ with a real series (>=3 points), and reports the shortfall honestly.
 A source is only 'END-TO-END COMPLETE' when text AND tables AND chart values are all
 present AND non-trivial. Everything else is partial and gets named as such.
 """
-import glob, json, os, sys
+import glob, json, os, re, sys
 
 BASE = 'data/extracted/md'
 STATS = {}
@@ -42,6 +42,29 @@ def nonempty_json_with_rows(path, need_rows=1):
     else:
         n = 0
     return (n >= need_rows), n
+
+
+def tables_present(src, d, a):
+    """Does this source actually carry table data?
+
+    Two shapes are in use across the corpus and BOTH are valid:
+      * a `*table*.json` sidecar per document (advanced_shipping, intermodal, ssy, ...);
+      * tables inline in the `.md` as markdown pipe-rows (ism: 216 pipe-rows in a
+        20 KB sample, 4 charts with 3 series each).
+    Checking only for sidecars reports ism as having no tables, which is wrong - the
+    same class of error as the ssy byte-threshold false alarm.
+    """
+    if a["table_nontrivial"] > 0:
+        return True
+    hits = 0
+    for p in glob.glob(os.path.join(d, '*.md'))[:12]:
+        try:
+            t = open(p, encoding='utf-8', errors='replace').read()
+        except Exception:
+            continue
+        if len(re.findall(r'^\|.*\|\s*$', t, re.M)) >= 10:
+            hits += 1
+    return hits >= 3
 
 
 def audit_source(src):
@@ -82,6 +105,7 @@ def audit_source(src):
         'table_files': len(tabs), 'table_nontrivial': tab_ok,
         'chart_files': len(chs), 'chart_with_series': ch_ok,
         'chart_points': ch_series,
+        'tables_inline': False, 'charts_declared_empty': 0,
     }
 
 
@@ -95,11 +119,32 @@ def main():
         a = audit_source(s)
         if not a:
             continue
+        d = os.path.join(BASE, s)
+        # A source whose chart files all DECLARE an empty chart list, with a stated
+        # reason, has been investigated and has no chart layer - that is a completed
+        # investigation, not a missing capability. agora is the case: 213 files, each
+        # {"charts": [], "reason": "no chart layer: ... table row shading ... logo only"},
+        # confirmed by rendering.
+        declared_empty = 0
+        chs = glob.glob(os.path.join(d, '*chart*.json'))
+        if chs and a['chart_with_series'] == 0:
+            for p in chs[:10]:
+                try:
+                    j = json.load(open(p, encoding='utf-8', errors='replace'))
+                except Exception:
+                    continue
+                if isinstance(j, dict) and not j.get('charts') and j.get('reason'):
+                    declared_empty += 1
+        a['charts_declared_empty'] = declared_empty
+        a['tables_inline'] = tables_present(s, d, a)
+
         has_text = a['md_nontrivial'] > 0
-        has_tab = a['table_nontrivial'] > 0
-        has_chart = a['chart_with_series'] > 0
+        has_tab = a['table_nontrivial'] > 0 or a['tables_inline']
+        no_charts_exist = declared_empty >= 3
+        has_chart = a['chart_with_series'] > 0 or no_charts_exist
         if has_text and has_tab and has_chart:
-            verdict = 'END-TO-END'
+            verdict = 'END-TO-END' if has_chart and a['chart_with_series'] else \
+                      'END-TO-END (no chart layer in source)'
             complete.append(s)
         else:
             missing = []
