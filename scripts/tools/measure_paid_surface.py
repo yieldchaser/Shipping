@@ -43,18 +43,41 @@ def discover_sources():
 
 
 CIPHER_CHARS = set('!"#$%&()*')
+STRONG_MARKERS = set('!"#$&*')
 
 
 def punct_ratio(s):
     return sum(1 for c in s if c in CIPHER_CHARS) / len(s) if s else 0.0
 
 
+def span_is_ciphered(t):
+    """Glyph-cipher signature, CALIBRATED against known cases.
+
+    The first version of this test (punctuation-dense + no lowercase) was WRONG: it
+    fired on ordinary table headers like "± (%)" and "± ($)", which have no lowercase
+    and are ~50% punctuation. That inflated advanced_shipping's paid surface to 32.9%
+    on pages that render perfectly - verified by rendering one and looking.
+
+    Discriminators that hold on the calibration set:
+      * cipher runs contain NO whitespace, normal headers do ("± (%)");
+      * cipher runs carry SEVERAL strong markers, normal headers carry one;
+      * cipher runs are longer than a short unit label.
+    Calibration result: banchero W03 detected (recall kept), advanced_shipping and
+    agora pages produce zero false positives.
+    """
+    t = t.strip()
+    if len(t) < 6:
+        return False
+    if any(c.isspace() for c in t):
+        return False
+    return sum(1 for c in t if c in STRONG_MARKERS) >= 2
+
+
 def page_flagged(pg):
     for blk in pg.get_text('dict')['blocks']:
         for ln in blk.get('lines', []):
             for sp in ln['spans']:
-                t = sp['text'].strip()
-                if len(t) >= 4 and punct_ratio(t) > 0.35 and not any(c.islower() for c in t):
+                if span_is_ciphered(sp['text']):
                     return True
     return False
 
