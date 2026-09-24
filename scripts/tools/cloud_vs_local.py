@@ -104,6 +104,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--pages", type=int, default=6)
     ap.add_argument("--source", default=None)
+    ap.add_argument("--force", default=None,
+                    help="parse this exact 'file.pdf:page' regardless of the detector")
+    ap.add_argument("--cache", action="store_true",
+                    help="reuse an existing comparison for the same file+page")
     args = ap.parse_args()
 
     api_key = get_api_key()
@@ -124,6 +128,47 @@ def main():
 
     budget = args.pages
     results = []
+    if OUT.exists():
+        try:
+            results = json.loads(OUT.read_text(encoding="utf-8"))
+        except Exception:                                  # noqa: BLE001
+            results = []
+
+    if args.force:
+        # parse a named page directly, for a case the detector's signature misses -
+        # notably a table drawn as a raster image, where the text layer holds the prose
+        # and none of the numbers
+        name, _, pg_s = args.force.rpartition(":")
+        pdfs = list((REPO / "corpus" / "01-brokers").glob("**/" + name))
+        if not pdfs:
+            print(f"no PDF matching {name}")
+            return 1
+        pdf = pdfs[0]
+        pi = int(pg_s) - 1
+        with pymupdf.open(pdf) as d:
+            pg = d[pi]
+            chars, sus = local_quality(pg)
+            loc_text = pg.get_text()[:20000]
+            png = PNG / f"forced_{pdf.stem}_p{pi+1}.png"
+            pg.get_pixmap(dpi=150).save(png)
+        print(f"forced: {pdf.name} p{pi+1}: local {chars} chars, {sus} cipher lines")
+        t0 = time.time()
+        md = cloud_markdown(str(pdf), pi, api_key)
+        print(f"  cloud {len(md)} chars, {len(re.findall(chr(92)+'d', md))} digits, "
+              f"{time.time()-t0:.0f}s, 3 cr")
+        results = [r for r in results
+                   if not (r.get("file") == pdf.name and r.get("page") == pi + 1)]
+        results.append({
+            "source": pdf.parent.parent.name, "file": pdf.name, "page": pi + 1,
+            "local_chars": chars, "local_suspect_lines": sus,
+            "local_text": loc_text,
+            "cloud_chars": len(md), "cloud_markdown": md[:20000],
+            "cloud_seconds": round(time.time() - t0, 1), "png": str(png),
+        })
+        OUT.write_text(json.dumps(results, indent=1), encoding="utf-8")
+        print(f"wrote {OUT}")
+        return 0
+
     for src, _n in flagged:
         if budget <= 0:
             break
