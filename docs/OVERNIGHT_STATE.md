@@ -66,6 +66,32 @@ Already covered / hands off - do NOT build extractors for these:
   already ingested (see above).
 * non-broker `corpus/04-poten` 1087, `corpus/09-ppa` 493, `corpus/06-drewry` 276.
 
+### ISM FINGERPRINT (source 8) - already measured, start here
+
+112 PDFs, **2023:37 2024:31 2025:27 2026:17 - there is no 2021 or 2022**.
+Publisher is Metal Expert (`ismreport.com`). Two publication lines by filename:
+`ISM_coaster_weekNN` / `ISM_Handy_weekNN`, plus `ISM_2023_holiday_special.pdf`
+(6 pages).
+
+| fact | measured |
+|---|---|
+| page size | portrait A4 595 pt |
+| pages/doc | 2 in 2023-2024, 3 in 2025-2026, 6 for the holiday special |
+| layout | page 0 = prose commentary + chart, page 1 = more prose (+ chart in 2023), last page = contacts/disclaimer |
+| images | 1-2 per doc (logo), so not a raster source |
+| drawings | 26-36 per page -> **VECTOR content** |
+
+**2023 W32 page 1 carries a real VECTOR CHART**: title `Average round voyage TCE
+(given backhaul leg in ballast), $/day`, y-axis tick labels printed as POSITIONED
+TEXT at 5.9 pt (`0, 1500, 3000 ... 16500`, y 697.7 down to 560.3) and week numbers
+on x (`33 36 39 42 ...`). Legend labels are also positioned text
+(`BlSea - Med RV, 10,000 DWCC minibulker`, `BlSea - Marmara RV, ...`). So the
+chart values are exact path data + readable ticks - do NOT reach for vision:
+probe `page.get_drawings()`, cluster ticks per chart, fit `value = a*y + b`,
+identify series by `drawing["color"]`, and validate the fit against a tick the fit
+never saw (the method in the skill). The axis label pitch here is ~12.6 pt per
+1500 units, which sets the scale.
+
 Method as always: count + fingerprint several YEARS and LOOK, write
 `docs/<source>_survey.md`, build `scripts/extract/publishers/run_<source>.py`,
 TRIAL on 2+ docs from different years against what the page says, then bulk-run
