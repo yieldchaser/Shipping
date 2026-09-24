@@ -4,7 +4,7 @@
 memory of this project, this file is the single source of truth. Read it, check the
 live state it tells you to check, then continue. Do not restart finished work.
 
-Last updated: 2026-09-24 ~13:00 IST (LlamaParse banchero run IN FLIGHT - do not restart it)
+Last updated: 2026-09-24 ~13:30 IST (LlamaParse banchero run IN FLIGHT - do not restart it; lion COMPLETE + verified + committed - all broker sources now built)
 
 ---
 
@@ -84,9 +84,70 @@ Method for every source, in order:
 | affinity | 250/250 | `data/extracted/md/affinity/` | 4 cards (BDTI/BCTI, BDA, TCE DIRTY, TCE CLEAN), 0 charts, ISO numbers. Independent verify: 250/250 docs, 0 unaccounted panel values, panel rect constant in 250/250. `docs/affinity_verdict.md`. |
 | agora | 213/213 | `data/extracted/md/agora/` | 10,002 rows, 42,013 value words, 3 unaccounted in the whole corpus, 53s, 0 failures. Independent verify: 0 failures, 426/426 semantic crude/Brent gates, 212/212 BDI. US/EU convention switch mid-2022 - derived PER DOCUMENT. `docs/agora_verdict.md`. |
 | ism | 112/112 | `data/extracted/md/ism/` | **charts only, NO tables** (measured). 444 charts, 1,678 series, 84,035 weekly points, 0 failures, ~35 s. 96.8% labelled, 0 mislabelled, 0 unverified axes, 443/444 linear x. `docs/ism_verdict.md` (12 defects found+fixed), `docs/ism_survey.md`. |
+| lion | 43/44 (1 skipped) | `data/extracted/md/lion/` + `data/extracted/lion_deals.parquet` + `lion_demometer.parquet` | 1,145 deal rows, 516 demometer rows, runner `scripts/extract/publishers/run_lion.py`. The 44th file is a star-asia reprint (RESTATEMENT, skipped). Verification found and fixed **3 en-bloc pricing defects in 38 of 1,145 rows**; demometer recall 736/736 printed numbers, 0 mismatches. `docs/lion_verdict.md`. |
 | fearnleys | SKIPPED | `data/extracted/md/fearnleys/` (record only) | **User decision 03:05: the publisher is already ingested structurally** (Hasura: 11,732 comments, 62MB fixtures, route dailies, T/C, S and P) - the PDFs are a worse copy. An extraction was already in flight and completed anyway: 257/257, 16,326 rows, 267s, 0 failures. Kept as `docs/fearnleys_extraction_record.md` (7 transferable defects). Do NOT re-extract and do NOT treat it as new data. |
 
-### NEXT: lion (44 PDFs) - source 9, the last unbuilt broker source
+### DONE: lion (source 9) - completed, verified and committed 2026-09-24
+
+`docs/lion_verdict.md`. Runner `scripts/extract/publishers/run_lion.py`
+(self-contained: PDF -> text -> parse -> parquet + summary + markdown;
+`--rebuild-txt` re-renders text from the PDFs).
+
+| measured | value |
+|---|---|
+| issues | **43/44** (the 44th is a star-asia reprint filed under lion -> RESTATEMENT, skipped) |
+| demometer | `data/extracted/lion_demometer.parquet` 516 rows, 43 weeks 2025-10-03 -> 2026-09-04 |
+| deals | `data/extracted/lion_deals.parquet` 1,145 rows, 1,117 vessels |
+| markdown | `data/extracted/md/lion/` **43 files** (master-plan action 6 for lion: done) |
+| recall | demometer **736/736 printed numbers, 0 mismatches**; 1,023 price values, 0 untraceable |
+| fixed | **3 en-bloc pricing defects, 38 of 1,145 rows** (see below) |
+
+**ALL BROKER SOURCES ARE NOW BUILT.** Nothing in `corpus/01-brokers/` is unbuilt.
+
+#### Next: non-broker corpora (measured counts, 2026-09-24)
+
+| corpus | PDFs | notes |
+|---|---|---|
+| `corpus/04-poten` | **1,087** | biggest; poten has feed-side fetchers (`data/derived/poten_*`) - run the three-baseline test FIRST |
+| `corpus/09-ppa` | **493** | no runner found |
+| `corpus/02-hellenic` | 3,969 | includes the demolition PDFs already consumed by `scripts/extract_demolition_pdfs.py` |
+| `corpus/03-breakwave` | 302 | existing fetcher |
+| `corpus/06-drewry` | 276 | existing fetcher |
+| `corpus/05-seabrokers` | 97 | small |
+| `corpus/07-signal` | 9 | tiny |
+
+#### The lion lesson that generalises (it cost 38 wrong rows)
+
+**A group price is the easiest thing in a broker narrative to get wrong, and it
+looks perfectly plausible.** Four forms appear in ONE source:
+`for $X mill each` (per vessel - fine), `for $X mill` (a GROUP TOTAL - belongs to
+no single ship), `for $X mill ($Y mill each)` (Y is per vessel, X the total), and
+`for $A mill & $B mill respectively` (two per-vessel prices, mapping by listing
+order). Rules that held:
+- never let a group total sit in a per-vessel price column - **for the carrier row
+  as well as the members** (the bug was exactly that the carrier was exempted);
+- a price printed BEFORE the "en bloc" phrase in the same row is that ship's own
+  price and must be kept (VS SPIRIT: "- $ 14 mill. Sold en bloc for $ 25 mill",
+  where 11 + 14 = 25 - the sentence restates the pair's sum);
+- when the mapping is not resolvable, leave it NULL and record the amounts in the
+  note. A wrong value is worse than a missing one;
+- the tell that catches all of them: **the corpus max price**. It was 831.5 (a
+  group total for 8 VLCCs) and fell to 170.0 once fixed.
+
+#### Verifier traps hit this run (do not re-chase)
+
+* A price/buyer check reading only a row's OWN text flags every en-bloc member
+  whose buyer sits in the group line. Re-check against the FULL issue text:
+  41 flagged, 41 grounded, 0 real defects.
+* A checker comparing `str(value)` to the PDF text flags every European
+  comma-decimal ("$ 6,75 mill" = 6.75). Include the comma form: 12 flagged,
+  12 false positives, 0 real defects.
+* Bound a "numbers printed in this block" window at the block's own end, or the
+  last row swallows the following prose and reports hundreds of phantom misses.
+
+---
+
+### NEXT: lion (44 PDFs) - source 9, the last unbuilt broker source (historical fingerprint notes, superseded)
 
 **ism is DONE and verified** (`docs/ism_verdict.md`): 112/112, 444 charts,
 1,678 series, 84,035 weekly points, 0 failures. It is a CHARTS-ONLY source - a

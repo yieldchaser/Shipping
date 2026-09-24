@@ -119,7 +119,7 @@ carriers          127 of  386 pages (32.9%)   <- ** SUSPECT, likely false positi
 | intermodal | 252 | **0** | Two tables on two pages (12 tanker + 8 dry-bulk fields). Parser exists (`intermodal_v2.py`); build the `.md`. |
 | affinity | 250 | 250 | 8.1% pages flagged — triage those pages, don't re-run the source. |
 | agora | 213 | 213 | **0.0% flagged — clean.** No spend. Spot-check by eye and close. |
-| lion | 44 | **0** | Local tables exist (`lion_deals` 1,145 rows). Build `.md`. |
+| lion | 44 | **43** | DONE 2026-09-24: `data/extracted/md/lion/` 43 files + `lion_deals.parquet` 1,145 rows + `lion_demometer.parquet` 516 rows. Runner `scripts/extract/publishers/run_lion.py`. 3 en-bloc pricing defects fixed (38 rows). `docs/lion_verdict.md`. |
 | ism | 112 | 112 | Complete + verified per OVERNIGHT_STATE. |
 | carriers | 129 | **0** | Not yet started. Recon first. |
 | clarksons | 10 | 0 | tiny, 0% flagged. Low priority. |
