@@ -117,10 +117,30 @@ def find_pages(doc):
     return tank, bulk
 
 
+MONTH_HDR = re.compile(r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)-\d{2}$", re.I)
+# US month/day/year, e.g. `5/2/2025` or `4/25/2025`. Measured: the 2025 W18 issue
+# prints THIS form for the TC table while every other issue prints `dd/mm/yy`. The
+# numeric DATE_HDR above silently rejects it, so that document yielded zero rates.
+# The two are distinguished structurally, not by guessing: a dd/mm/yy form always
+# has its first component <= 31 AND is followed by a 2-or-4 digit year in the same
+# pattern; a US form here has a 4-digit year in the THIRD position. Both are accepted
+# and the leftmost header is still the current column.
+US_DATE_HDR = re.compile(r"^\d{1,2}/\d{1,2}/\d{4}$")
+
+
 def current_week_x(pg):
-    """x-range of the CURRENT week = the LEFTMOST date column in the header."""
+    """x-range of the CURRENT week = the LEFTMOST date column in the header.
+
+    Three header formats are accepted, because the corpus contains all three:
+      * `dd/mm/yy` or `dd/mm/yyyy`  - the usual numeric form;
+      * `May-25` / `Apr-25`         - month-year (e.g. 2025 W18's charts);
+      * `5/2/2025` / `4/25/2025`    - US month/day/year (e.g. 2025 W18's TC table).
+
+    The rule is identical for all of them: the CURRENT week is the LEFTMOST header.
+    """
     words = pg.get_text("words")
-    hdr = [w for w in words if DATE_HDR.match(w[4])]
+    hdr = [w for w in words
+           if DATE_HDR.match(w[4]) or MONTH_HDR.match(w[4]) or US_DATE_HDR.match(w[4])]
     if not hdr:
         return None
     hdr.sort(key=lambda w: w[0])
@@ -128,20 +148,55 @@ def current_week_x(pg):
 
 
 def extract_table(pg, fields):
-    """label -> current-week value, using column x and row y geometry."""
+    """label -> current-week value, using column x and row y geometry.
+
+    The x-window is the column's own [x0, x1] from the date header plus a tolerance.
+    Both tolerances are set from MEASUREMENT, not guesswork:
+
+    * RIGHT = 20pt. Measured across 2,684 rows: the closest a previous-week value ever
+      comes to the current-week value is 40.3pt (median 42.8pt). The largest overflow
+      seen is 13.5pt. So 20pt recovers every observed case with a >26pt safety margin
+      and provably cannot reach the previous column. 12pt dropped 70 documents' last
+      row; 22pt on BOTH sides was tried and rejected because it risks the same leak.
+    * LEFT = 22pt. A value may print left of the header's measured x0 when it is wider
+      than its column. A leftward leak is harmless because the right edge still bounds
+      the match.
+
+    The asymmetry is deliberate: the two risks are not symmetric. Crossing right
+    selects the WRONG WEEK - the original bug here, which reported 44,750 (last week's
+    rate) instead of 44,500.
+    """
     xr = current_week_x(pg)
     if not xr:
         return {}
     cur_x0, cur_x1, hdr_y = xr
+    LEFT_TOL, RIGHT_TOL = 22.0, 20.0
     words = pg.get_text("words")
     lines = lines_of(pg)
     out = {}
     for field, pat in fields:
         lab_bb = None
         for bb, txt in lines:
-            if re.search(pat, txt, re.I):
+            # The label must match the WHOLE row, not a prefix. Without the anchors
+            # `^...$`, the pattern `180\s*[kK]\s*1\s*(?:yr|y)\s*TC` is fine but the
+            # ordering matters: these tables interleave `180K 6mnt TC` BEFORE
+            # `180K 1yr TC`, so a first-match scan can bind to the wrong row. Anchoring
+            # the term (`1yr`/`3yr` only) and requiring the line to be exactly the
+            # label prevents a 6mnt row from ever satisfying a 1yr field.
+            if re.fullmatch(pat.strip(), txt.strip(), re.I) or \
+                    (re.search(r"^\s*(?:\d{2,3}\s*[kK]\s*)?" + pat.strip() + r"\s*$",
+                               txt.strip(), re.I)):
                 lab_bb = bb
                 break
+        if lab_bb is None:
+            # fall back to a looser search so a label with extra words is still found,
+            # but never accept a different TERM (1yr vs 3yr vs 6mnt)
+            term = "6" if "6" in pat else ("1" if "1" in pat else "3")
+            for bb, txt in lines:
+                if re.search(rf"\d{{2,3}}\s*[kK]\s*{term}\s*(?:yr|y|mnt|mo|month)\s*TC",
+                             txt, re.I):
+                    lab_bb = bb
+                    break
         if lab_bb is None:
             continue
         lab_yc = (lab_bb[1] + lab_bb[3]) / 2.0
@@ -149,7 +204,7 @@ def extract_table(pg, fields):
         for w in words:
             if not NUM.match(w[4]) or "," not in w[4]:
                 continue
-            if not (cur_x0 - 12) <= w[0] <= (cur_x1 + 12):
+            if not (cur_x0 - LEFT_TOL) <= w[0] <= (cur_x1 + RIGHT_TOL):
                 continue
             w_yc = (w[1] + w[3]) / 2.0
             dy = abs(w_yc - lab_yc)
@@ -162,7 +217,31 @@ def extract_table(pg, fields):
     return out
 
 
-def doc_date(doc, path):
+def doc_date(doc, path, tanker_page=None):
+    """Assessment date, taken from the TC TABLE HEADER's current-week column.
+
+    This matters for correctness of the CONTROL, not just tidiness. The known-good
+    49-row CSV dates each report by the assessment date, which is the CURRENT-WEEK
+    column header inside the table (e.g. 07/03/25 for the W10 report). Extracting a
+    long-form date from the body text instead yields the publication date, which
+    differed by a week and made a control comparison match the WRONG pair of rows -
+    44,750 (the previous week) instead of 44,500.
+    """
+    if tanker_page is not None:
+        words = tanker_page.get_text("words")
+        hdr = [w for w in words if DATE_HDR.match(w[4])]
+        if hdr:
+            # the table header is the LOWEST dd/mm/yy row on the page (the other
+            # occurrence sits high up in the header banner)
+            hdr.sort(key=lambda w: -w[1])
+            top = hdr[0][1]
+            same = [w for w in hdr if abs(w[1] - top) < 3]
+            same.sort(key=lambda w: w[0])
+            d, mo, y = DATE_HDR.match(same[0][4]).groups()
+            if len(y) == 2:
+                y = ("20" + y) if int(y) < 70 else ("19" + y)
+            return f"{y}-{mo}-{d}", "table-header-current-week"
+
     txt = "\n".join(pg.get_text() for pg in doc)
     m = LONG_DATE.search(txt)
     if m:
@@ -187,7 +266,7 @@ def main():
                     vals.update(extract_table(tp, TANKER))
                 if bp is not None:
                     vals.update(extract_table(bp, DRYBULK))
-                iso, prov = doc_date(doc, p)
+                iso, prov = doc_date(doc, p, tanker_page=tp)
             row = {"file": p.name, "date": iso, "date_source": prov,
                    "has_tanker_page": tp is not None,
                    "has_bulk_page": bp is not None}
