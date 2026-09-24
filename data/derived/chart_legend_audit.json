@@ -1,0 +1,279 @@
+{
+ "advanced_shipping": {
+  "sampled": 8,
+  "of": 249,
+  "legend_pairs": 136,
+  "HOLD": {
+   "B.C.I": 8,
+   "B.D.I": 8,
+   "B.H.S.I.": 8,
+   "B.P.I.": 8,
+   "B.S.I.": 8
+  },
+  "NOVEL": {},
+  "UNKNOWN": {
+   "BCTI": 8,
+   "BDTI": 8,
+   "Bangladesh": 16,
+   "Brent": 8,
+   "India": 16,
+   "Pakistan": 16,
+   "Turkey": 16,
+   "WTI": 8
+  }
+ },
+ "affinity": {
+  "sampled": 8,
+  "of": 250,
+  "legend_pairs": 0,
+  "HOLD": {},
+  "NOVEL": {},
+  "UNKNOWN": {}
+ },
+ "agora": {
+  "sampled": 8,
+  "of": 213,
+  "legend_pairs": 0,
+  "HOLD": {},
+  "NOVEL": {},
+  "UNKNOWN": {}
+ },
+ "fearnleys": {
+  "sampled": 8,
+  "of": 257,
+  "legend_pairs": 16,
+  "HOLD": {
+   "Aframax": 3,
+   "Suezmax": 4,
+   "VLCC": 4
+  },
+  "NOVEL": {},
+  "UNKNOWN": {
+   "A": 1,
+   "MGO": 4
+  }
+ },
+ "ism": {
+  "sampled": 8,
+  "of": 112,
+  "legend_pairs": 73,
+  "HOLD": {
+   "%": 15,
+   "Handysize,": 2,
+   "Supramax,": 4
+  },
+  "NOVEL": {},
+  "UNKNOWN": {
+   "Azov": 6,
+   "BlSea": 6,
+   "CVB": 6,
+   "Danube/POC": 3,
+   "Freight": 2,
+   "French": 2,
+   "Gulf": 12,
+   "Lower": 3,
+   "year": 12
+  }
+ },
+ "star_asia": {
+  "sampled": 8,
+  "of": 193,
+  "legend_pairs": 0,
+  "HOLD": {},
+  "NOVEL": {},
+  "UNKNOWN": {}
+ },
+ "xclusiv": {
+  "sampled": 8,
+  "of": 266,
+  "legend_pairs": 260,
+  "HOLD": {
+   "AFRAMAX": 12,
+   "Aframax": 5,
+   "CAPESIZE": 12,
+   "Capesize": 5,
+   "HANDY38": 6,
+   "HANDYSIZE": 6,
+   "Handysize": 5,
+   "KAMSARMAX": 12,
+   "Kamsarmax": 5,
+   "LR1": 12,
+   "LR2": 6,
+   "MR": 2,
+   "MR2": 10,
+   "PANAMAX": 3,
+   "Panamax": 4,
+   "SUEZMAX": 12,
+   "SUPRA58": 6,
+   "SUPRAMAX": 6,
+   "Suezmax": 5,
+   "Supra": 1,
+   "VLCC": 17
+  },
+  "NOVEL": {},
+  "UNKNOWN": {
+   "A": 5,
+   "ANA": 1,
+   "ATL.": 6,
+   "Average": 9,
+   "Bangladesh": 8,
+   "HAN": 2,
+   "Hand": 1,
+   "India": 8,
+   "KA": 1,
+   "Ka": 1,
+   "LR2(TC1)": 6,
+   "Max": 9,
+   "Min": 9,
+   "PAC.": 6,
+   "Pakistan": 8,
+   "SU": 2,
+   "Sue": 1,
+   "Turkey": 8,
+   "ULTRAMAX": 9,
+   "Ultra": 1,
+   "Ultramax": 5,
+   "ana": 1,
+   "apesi": 1
+  }
+ },
+ "ssy": {
+  "sampled": 8,
+  "of": 519,
+  "legend_pairs": 1,
+  "HOLD": {},
+  "NOVEL": {},
+  "UNKNOWN": {
+   "to": 1
+  }
+ },
+ "intermodal": {
+  "sampled": 8,
+  "of": 252,
+  "legend_pairs": 159,
+  "HOLD": {
+   "Aframax": 3,
+   "BCI": 3,
+   "BDI": 3,
+   "BHSI": 3,
+   "BPI": 3,
+   "BSI": 3,
+   "Capesize": 3,
+   "Handysize": 3,
+   "Kamsarmax": 3,
+   "LR1": 3,
+   "MR": 3,
+   "Suezmax": 3,
+   "VLCC": 3
+  },
+  "NOVEL": {},
+  "UNKNOWN": {
+   "AVR": 24,
+   "Average": 8,
+   "Bangladesh": 6,
+   "Bulkers": 1,
+   "Gold": 6,
+   "India": 6,
+   "Oil": 12,
+   "Pakistan": 6,
+   "TC1": 4,
+   "TC2": 4,
+   "TC5": 4,
+   "TC6": 4,
+   "TD3": 4,
+   "TD6": 4,
+   "TD9": 4,
+   "Tankers": 1,
+   "Turkey": 6,
+   "Ultramax": 3,
+   "among": 2,
+   "average": 1,
+   "concerns": 2,
+   "ing": 2,
+   "lize": 2,
+   "tite": 2,
+   "were": 2
+  }
+ },
+ "carriers": {
+  "sampled": 8,
+  "of": 129,
+  "legend_pairs": 8,
+  "HOLD": {},
+  "NOVEL": {},
+  "UNKNOWN": {
+   "Seanergy": 1,
+   "Sentiment": 7
+  }
+ },
+ "lion": {
+  "sampled": 8,
+  "of": 44,
+  "legend_pairs": 0,
+  "HOLD": {},
+  "NOVEL": {},
+  "UNKNOWN": {}
+ },
+ "banchero_costa": {
+  "sampled": 8,
+  "of": 243,
+  "legend_pairs": 94,
+  "HOLD": {
+   "!+1": 2,
+   "Aframax": 4,
+   "BCI": 2,
+   "BHSI": 2,
+   "BPI": 2,
+   "BSI": 2,
+   "Dry": 2,
+   "Kamsarmax": 4,
+   "LR2": 3,
+   "MR": 4,
+   "MR2": 3,
+   "Suezmax": 4,
+   "Tanker": 2,
+   "VLCC": 2
+  },
+  "NOVEL": {
+   "Plate": 2
+  },
+  "UNKNOWN": {
+   "!23)4567": 1,
+   "'897:2": 1,
+   "((66": 2,
+   "(766": 2,
+   "(9*7678": 1,
+   ".2345*6*I7*#89:;<": 2,
+   "1-YR": 8,
+   "12$": 1,
+   "23$": 1,
+   "32$": 1,
+   "4,/5678": 1,
+   "43$": 1,
+   "6:88": 2,
+   "Brent": 2,
+   "China": 3,
+   "Corn": 2,
+   "FBX": 3,
+   "HRC": 1,
+   "Hanry": 2,
+   "IFO380": 2,
+   "Iron": 2,
+   "LSMGO": 2,
+   "N.": 2,
+   "Rebar": 1,
+   "Steam": 2,
+   "VLSFO": 2,
+   "WTI": 2,
+   "Wheat": 2
+  }
+ },
+ "clarksons": {
+  "sampled": 8,
+  "of": 10,
+  "legend_pairs": 0,
+  "HOLD": {},
+  "NOVEL": {},
+  "UNKNOWN": {}
+ }
+}

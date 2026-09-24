@@ -4,9 +4,75 @@
 programme, and it is written so that ANY agent can pick it up and continue without
 being briefed.**
 
-Last updated: 2026-09-24 13:15 IST
+Last updated: 2026-09-24 19:40 IST
 Repo: `C:/Users/Dell/Github/Shipping` — work on branch `benchmark/extraction-comparison`,
 **never touch `main`**.
+
+---
+
+## 0. THE STANDING RULE — do not extract what we already hold
+
+**This is the first rule of the programme and it is not a preference. It has been stated
+repeatedly and it is now enforced by an executable check, not by memory.**
+
+Before building any extraction or chart pipeline for a source, ask what the data IS:
+
+1. **If the value is already in the feeds, our own extraction, or on a live dashboard
+   tab — STOP. Do not extract its charts.** Restating a held value is effort spent for
+   zero information, and it is the single largest waste risk in this corpus.
+2. **The held set, measured 2026-09-24:**
+   - **BDI / BCI / BPI / BSI / BHSI** — `data/extracted/series/intermodal_baltic_tc_series.csv`,
+     **19,691 rows, 2,189 points per index, 2020-08 → 2026-08.**
+   - **1 / 5 / 7 / 10-year time-charter averages** — same file (AVR 5TC BPI, AVR 7TC BHSI,
+     AVR 10TC BSI) plus `corpus/02-hellenic/dry_charter`.
+   - **Fearnleys Hasura** — the API already carries what the reports reprint. This is
+     exactly why it was skipped, and why the reports' version of it must stay skipped.
+3. **A bare vessel-class name is NOT proprietary.** `Capesize`, `Kamsarmax`, `Panamax`,
+   `Supramax`, `Handysize`, `Aframax`, `Suezmax`, `VLCC` on a chart are the labels the
+   Baltic charts use **for the indices we already hold**. An audit that treated those as
+   novel marked the largest held set in the corpus as its top build target — the exact
+   mistake this rule exists to prevent.
+4. **What IS worth extracting is the proprietary data nobody publishes as an index:**
+   newbuilding and newbuilding-series prices, sale-and-purchase prices, demolition and
+   scrap values, asset and vessel valuations, steel/plate prices, forward curves on named
+   vessels or routes, and any series whose only source is a broker's own chart.
+5. **A single index we do not hold is still not worth a pipeline on its own.** BDTI and
+   BCTI were measured as genuinely absent from `data/` on 2026-09-24 — and the verdict is
+   still **do not build a dedicated extractor for them**, because they are public indices
+   and they can be picked up cheaply if ever actually needed, not via a 249-document
+   chart pipeline.
+
+### The audit that enforces this
+
+`scripts/tools/audit_chart_legends.py` reads every chart legend **off the rendered PDF
+page** (a swatch's colour matched to the word printed beside it) and classifies each
+series as HOLD (already held, with the holding file cited) / NOVEL (proprietary) /
+UNKNOWN. Run it before building any chart pipeline. It is the check that must be passed
+before a source earns extraction effort.
+
+**Measured 2026-09-24 across 8 sources, 1,001 legend swatches:**
+
+| source | swatches | held | **proprietary** |
+|---|---|---|---|
+| xclusiv | 260 | 21 | **0** |
+| intermodal | 159 | 13 | **0** |
+| advanced_shipping | 136 | 5 | **0** |
+| banchero_costa | 94 | 14 | 1 (Plate) |
+| ism | 73 | 3 | **0** |
+| fearnleys | 16 | 3 | **0** |
+| affinity / agora / star_asia / lion / clarksons | 0 | - | **0** |
+
+**Zero proprietary chart series across the whole broker corpus.** The unknowns are chart
+region headings (`Bangladesh`, `India`, `Pakistan`), commodities (`Brent`, `Gold`, `MGO`),
+route names (`Azov`, `BlSea`, `Danube/POC`) — not index series. **No broker chart in this
+corpus is worth a dedicated extraction pipeline.** The remaining value is in the
+PROPRIETARY TABLES (newbuilding prices, S&P, demolition values), which is table work, not
+chart work.
+
+Two bugs in that audit are worth keeping, because both would have produced a wrong
+priority: the held-key table compared normalised labels against raw keys, so `B.D.I`
+silently missed; and the novel-detector matched bare class names, so the held Baltic
+indices were reported as the top build target.
 
 ---
 
@@ -18,8 +84,11 @@ For every broker source, the knowledge base should hold, for every document:
 2. **Tables** — structured table values, correctly labelled (a wrong label is worse
    than a missing one: never assign a label by row order or regex match order, only by
    geometry or exact-vocabulary match).
-3. **Chart values** — the plotted series estimated as numbers, because a chart is data
-   we currently hold nowhere.
+3. **Chart values** — the plotted series as numbers, **but only where the series is data
+   we do not already hold.** See section 0: a chart of BDI/BCI/BPI/BSI/BHSI or of a
+   1/5/7/10-year T/C average is a restatement of a held value and must NOT be extracted.
+   The measured audit found **zero proprietary chart series** in this broker corpus, so
+   chart work here is a small exception, not a pipeline.
 
 A source is **PERFECTED** only when all three are verified **by looking at the rendered
 page**, not by counting rows. Files existing is not correctness.
