@@ -28,10 +28,9 @@ Written for: **a different agent harness (Google Antigravity)** picking this up 
 4. **A wrong value is worse than a missing one.** Never assign a label by row order or
    regex match order — only by geometry or exact-vocabulary match. Incomplete label
    detection must return NOTHING, never a fallback guess.
-5. **The working tree is dirty and the branch is NOT pushed.** 1,170 changed files and
-   148 commits exist only on this local branch, and as of 2026-09-25 00:45 IST the branch
-   does not exist on origin. See section 2. Do not assume anything is safe because it
-   looks committed — check first.
+5. **The working tree is dirty.** 1,170 changed files. The branch IS pushed (see section 2)
+   but 148 commits exist on it that are NOT on main, and the working tree carries
+   uncommitted work. Do not assume anything is safe because it looks committed — check.
 
 ---
 
@@ -63,16 +62,17 @@ intermodal is extracted but its agreement check fails at 58.2%.** See section 4.
 
 ```
 current branch        : benchmark/extraction-comparison
-branch HEAD           : 0c5320d00  "MASTER_HANDOFF: full current-state handoff..."
+branch HEAD           : 86d527584  "handoff: self-consistent git state..."
 local main            : a95695158
 origin/main           : a95695158   (in sync — main is NOT behind)
 main..HEAD            : 148 commits on the branch that are NOT on main
-origin branches       : the branch benchmark/extraction-comparison DOES NOT EXIST on
-                        origin as of 2026-09-25 00:45 IST. It has never been pushed.
-                        A push of 40,313 corpus files was started and may still be
-                        running — VERIFY with:
-                            git ls-remote --heads origin | grep benchmark
-                        If it is still absent, push it before anything else.
+origin/benchmark/extraction-comparison
+                      : EXISTS. Pushed 2026-09-25 ~00:57 IST, exit 0, ~9.4 minutes
+                        for 40,313 corpus files. GitHub warned that
+                        data/derived/fearnleys_fixtures_full.csv is 62.23 MB, over the
+                        50 MB recommended maximum — that is why the push is slow, not a
+                        failure. A PR can be opened at:
+                        https://github.com/yieldchaser/Shipping/pull/new/benchmark/extraction-comparison
 working tree          : 1,170 changed files
                         1,153 modified
                         16 untracked
@@ -403,9 +403,73 @@ clarksons 0. **The cipher is a banchero problem, not a corpus-wide one.**
 
 ## 8. WHAT TO DO NEXT, in this order
 
-**0. PUSH THE BRANCH.** 148 commits exist only on this machine, and the branch does not
-exist on origin. Nothing else matters until that is done. Verify with
-`git ls-remote --heads origin | grep benchmark` — if empty, it is still unpushed.
+**0. VERIFY THE BRANCH IS PUSHED and current.**
+`git ls-remote --heads origin | grep benchmark` — the branch now EXISTS on origin
+(pushed 2026-09-25, exit 0), but at `0c5320d00`, which is **two commits behind** local
+HEAD. Push again before relying on origin:
+```bash
+git push origin benchmark/extraction-comparison
+```
+**Do NOT merge it to main yet.** It carries 148 commits and 40,313 corpus files. That
+is a review decision, not an extraction decision, and the user has not made it.
+
+**CONCURRENT WORKSTREAMS — three other agents are working in this repo right now.**
+This is the most important thing this handoff adds that the earlier draft missed. Measured
+2026-09-25, all live on origin, all ahead of main:
+
+| branch | commits | files vs main | what it appears to be doing |
+|---|---|---|---|
+| `agent/antigravity` | 6 | 9,887 | **the agent the user is about to work with.** LightRAG knowledge-graph layer, relational spine, multi-hop query engine, "Decision 3/4" handover specs |
+| `agent/muse-spark` | 28 | 9,896 | a second agent workstream |
+| `claude/maritime-kb-inventory-hzbhlx` | 28 | 9,876 | a Claude inventory workstream |
+| `claude/investigate-failed-runs-31vpb` | 1 | 65,703 | carries a full corpus tree |
+| `session/agent_4987ef96-...`, `session/agent_704f43e2-...` | 12 / 11 | 65,698 / 65,697 | session branches, also corpus trees |
+| `auto/extract-fixes-2026-09-21` | 12 | 337 | extraction fixes |
+| `auto/extract-fixes-2026-09-22` | 35 | 442 | extraction fixes |
+
+**Measured overlap with my work: 56 files, and NONE of them are the extraction
+pipelines.** `run_ssy_charts.py`, `run_intermodal_charts.py`, `merge_ssy_charts.py` and
+`audit_chart_legends.py` do not appear on any other branch. The overlap is shared
+infrastructure and generated data:
+`docs/EXTRACTION_OVERNIGHT_LOG.md` · `docs/EXTRACTION_RUNBOOK.md` ·
+`docs/alibra_data/**` (11 generated CSVs + logs) · `docs/data/flows/all_flows_summary.json`
+· `scripts/analysis/*` (cascade_extractor_dry_run, fingerprint_reports, golden_matrix,
+grid_vs_text_audit, vlm_audit) · `scripts/baltic_scraper.py` ·
+`scripts/breakwave_insights_scraper.py` · `scripts/cargo/build_commodity_flow_matrix.py` ·
+`scripts/check_data_spike_health.py` · `scripts/experiments/audit_all_unrendered_data.py`.
+
+**Implication: the extraction work is safe to continue in parallel, but `docs/` and
+`scripts/analysis/` are contested ground. Expect merge conflicts there. Do not assume a
+conflict means data loss — check which side is right before resolving.**
+
+**FOUR CRON JOBS ARE RUNNING AGAINST THIS REPO — all currently FAILING.** This is the
+single most important operational fact and it was absent from the earlier draft.
+
+| job_id | name | schedule | last status |
+|---|---|---|---|
+| `345bc8db9233` | Corpus extraction orchestrator (hourly) | every 60m | **error** |
+| `d77cc9df53c4` | Extraction deep review + fix (3-hourly) | every 180m | **error** |
+| `12f7fa574166` | Unattended: source-by-source (30m) | every 30m | **error** |
+| `c0400ecf1a0b` | Watchdog: banchero LlamaParse (script-only) | every 30m | **delivery_failed** |
+
+- The first three all fail with **`RuntimeError: HTTP 429: Go usage limit exceeded`** —
+  they run on `deepseek-v4.1-flash` via `opencode-go` and are being rate-limited. They are
+  NOT doing work. **If the user says "nothing is running", this is why: they are erroring,
+  not extracting.** Either raise the provider quota or pause them, because on every retry
+  they will burn a turn and change nothing.
+- All three have `workdir: C:\Users\Dell\Github\Shipping`, `continuity: true`,
+  `deliver: origin`, toolsets limited to `terminal` + `files`.
+- `c0400ecf1a0b` fails with **`no delivery target resolved for deliver=all`** — a config
+  bug, not a script bug. It also points at a run that is **FINISHED** (banchero 243/243),
+  so it has nothing left to watch. **Delete it or pause it.**
+
+**THE 1,170 DIRTY FILES ARE NOT MINE.** 1,100 of them have an mtime of 2026-09-25 00:xx,
+i.e. they were written by one of the other agents while this session was running. They
+break down as `knowledge/docs` 1,081 · `knowledge/chunks` 35 · `corpus/01-brokers` 27 ·
+`scripts/extract` 12 · `scripts/verify` 2 · singles. **Do not commit or revert them as
+if they were extraction work — they are another workstream's output and will conflict if
+you sweep them into your own commit.** The genuinely mine-and-uncommitted set is the
+**16 untracked files** listed above, and they are small.
 
 **1. DELETE the 7 empty 48-byte series files and `merge_source_charts.py`.** They are
 false evidence. Section 4.3.
@@ -483,8 +547,17 @@ is the template to copy.
    `\x11` · 58-59 banchero files mapping glyphs to ASCII punctuation. **Only LlamaParse
    solved this class (13/13).**
 10. **Watchdog cron** `c0400ecf1a0b` ("Watchdog: banchero LlamaParse (script-only)") —
-    Python, status silent/ok. It points at a run that is FINISHED.
+    **BROKEN: `delivery_failed` / "no delivery target resolved for deliver=all"**, and
+    it watches a run that is FINISHED. Delete or pause it.
 11. **xclusiv: 22 scripts with the stale `reports/` path** — same as #5.
+12. **THREE CRON JOBS ARE 429-FAILING** — `345bc8db9233` (hourly), `d77cc9df53c4` (3-hourly),
+    `12f7fa574166` (30m), all `deepseek-v4.1-flash` via `opencode-go`, all
+    `RuntimeError: HTTP 429: Go usage limit exceeded`. They have been firing and failing
+    instead of extracting. This is the answer to "I don't see anything running."
+13. **Seven concurrent agent branches on origin** — see section 8. `agent/antigravity`,
+    `agent/muse-spark`, `claude/maritime-kb-inventory-hzbhlx` and four others are all
+    ahead of main. 56 files overlap with this branch, none of them extraction pipelines.
+    The 1,170 dirty files are another workstream's output, not unfinished work of mine.
 
 ---
 
