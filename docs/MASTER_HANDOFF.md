@@ -29,8 +29,9 @@ Written for: **a different agent harness (Google Antigravity)** picking this up 
    regex match order — only by geometry or exact-vocabulary match. Incomplete label
    detection must return NOTHING, never a fallback guess.
 5. **The working tree is dirty and the branch is NOT pushed.** 1,170 changed files and
-   147 commits exist only on this local branch. See section 2. Do not assume anything is
-   safe because it looks committed — check first.
+   148 commits exist only on this local branch, and as of 2026-09-25 00:45 IST the branch
+   does not exist on origin. See section 2. Do not assume anything is safe because it
+   looks committed — check first.
 
 ---
 
@@ -62,12 +63,16 @@ intermodal is extracted but its agreement check fails at 58.2%.** See section 4.
 
 ```
 current branch        : benchmark/extraction-comparison
-branch HEAD           : 522c00f84  "section 0: do not extract what we already hold..."
+branch HEAD           : 0c5320d00  "MASTER_HANDOFF: full current-state handoff..."
 local main            : a95695158
 origin/main           : a95695158   (in sync — main is NOT behind)
-main..HEAD            : 147 commits on the branch that are NOT on main
+main..HEAD            : 148 commits on the branch that are NOT on main
 origin branches       : the branch benchmark/extraction-comparison DOES NOT EXIST on
-                        origin. It has never been pushed.
+                        origin as of 2026-09-25 00:45 IST. It has never been pushed.
+                        A push of 40,313 corpus files was started and may still be
+                        running — VERIFY with:
+                            git ls-remote --heads origin | grep benchmark
+                        If it is still absent, push it before anything else.
 working tree          : 1,170 changed files
                         1,153 modified
                         16 untracked
@@ -398,8 +403,9 @@ clarksons 0. **The cipher is a banchero problem, not a corpus-wide one.**
 
 ## 8. WHAT TO DO NEXT, in this order
 
-**0. PUSH THE BRANCH.** 147 commits exist only on this machine. Nothing else matters
-until that is done.
+**0. PUSH THE BRANCH.** 148 commits exist only on this machine, and the branch does not
+exist on origin. Nothing else matters until that is done. Verify with
+`git ls-remote --heads origin | grep benchmark` — if empty, it is still unpushed.
 
 **1. DELETE the 7 empty 48-byte series files and `merge_source_charts.py`.** They are
 false evidence. Section 4.3.
