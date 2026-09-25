@@ -1,5 +1,724 @@
 [
   {
+    "id": "0be848a1-a006-4a49-b2d4-c406e1fe4d29",
+    "date": "2026-09-25",
+    "title": "Fearnleys Tanker Market Wrap-up Sep 2026",
+    "department": "TANK",
+    "slug": "fearnleys-tanker-market-wrap-up-sep-2026",
+    "status": "published",
+    "pdf_url": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/report.pdf",
+    "audio_url": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/summary-en.mp3",
+    "content": [
+      {
+        "id": "a79f82a3-1fb9-4c60-93fb-bd2bc0e8ba42",
+        "type": "heading1",
+        "content": "Uncharted. Off the charts. Still standing... "
+      },
+      {
+        "id": "a2a64127-8c86-40a0-a894-a76bfdb4cc71",
+        "type": "heading2",
+        "content": "Summary and outlook"
+      },
+      {
+        "id": "3c5e1bf4-1511-473f-abdb-ed87f39a08c2",
+        "type": "fullWidthParagraph",
+        "content": "Over the last month refinery margins have strengthened further, accommodating higher oil prices and record freight. Thus, the conditions for a paradoxical equilibrium in which rates can stay at staggering heights still hold. On top of previously highlighted disruptions and inefficiencies, there is now increasing export volumes from both the MEG and other areas - last week global loadings were for the first time above pre-war levels. \n\nThe outlook is not without downside risks for rates (who would have thought, from all time highs..?) - the biggest of which are a U.S.-Iran deal (although a more sustainably solid demand scenario for the next 12-18 months) and a significant escalation (lower volumes and potential demand destruction from higher energy prices). \n\nFor now, however, volumes look set to continue growing, and then there are seasonal factors to come too... Not to mention a potential U.S. gasoil export ban which may further boost crude tanker and LR demand. As long as oil pricing can handle it, the rate momentum can last - key indicators to watch will be physical oil price premiums vs. futures and crack spreads. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "89a8f97e-fa8e-4039-a98c-598cd0ae76df",
+        "type": "fullWidthChartFromFile",
+        "title": "Monthly average rates - constantly adjusting the Y-axis",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/rates.png"
+      },
+      {
+        "id": "980a2d8b-cd83-4f3b-ba4f-27d7e0d53114",
+        "type": "sourceText",
+        "content": "Source: Baltic Exchange"
+      },
+      {
+        "id": "91b027c1-95ec-47a2-a6d0-6e60bb0675ea",
+        "type": "heading2",
+        "content": "Volumes nearly recovered - demand at all-time-high"
+      },
+      {
+        "id": "5c87d848-549d-4c8f-bff6-34c5b490b235",
+        "type": "fullWidthParagraph",
+        "content": "More and more crude oil makes its way through the Hormuz Strait, 10 mbpd at the most recent reading, which coupled with other outlets has brought total crude loadings back above the pre-war level. There may be further upside near-term as MEG producers ramp up further (normally reliable sources now suggest that transits may even have risen further toward 12 mbpd), seasonal exports ramp up from the Americas, possible continued SPR releases and a proposed U.S. gasoil/diesel export ban. Recent reports about the two latter points have driven USG export arbitrages to open again in recent days. \n\nThe increased crude flow has in turn spurred higher refinery runs and products exports, although the latter has not quite yet caught up as much as crude. There should be more to come given greater crude availability and very high refinery margins. \n",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "47cbef25-89e8-4e5b-a63d-2a08cefcef52",
+        "type": "halfWidthChartFromFile",
+        "title": "Seaborne crude oil loadings vs. Dec'25",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowc.png"
+      },
+      {
+        "id": "577e8dbf-fc0b-426d-bea8-9a0ab9f99488",
+        "type": "halfWidthChartFromFile",
+        "title": "Seaborne oil product loadings vs. Dec'25",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/flowp.png"
+      },
+      {
+        "id": "c62effe2-b29b-4636-824c-e304f6741e7f",
+        "type": "sourceText",
+        "content": "Source: Vortexa"
+      },
+      {
+        "id": "84ebc4e5-2dd3-4558-9d0a-16e53a976a4f",
+        "type": "fullWidthParagraph",
+        "content": "Although it was the case a few weeks ago, the most potent leg of the rate rally has not been arbitrage driven, but rather a sourcing driven rally. Despite increasing Hormuz transits the physical oil market is tight, as SPR releases slow and Chinese buyers have stepped back into the market. This can be seen in a steepening backwardation in oil forward curves, and again big premiums for physical vs. futures. As in previous instances, fears of oil shortages drive hoarding, where securing the barrels and ships trump cost - hence producing these phenomenal rates. This time forward curve backwardation is steeper than in other instances, such as 2004-05, 2008, 2019 and 2022, and producing higher rates - partly also as the tanker market balance was very tight already going into this. \n\nThe rally has also been fueled by very high refinery margins, particularly for diesel. What is so far lacking is some follow/up for MR rates in the Atlantic basin vs. those strong crack spreads - diverging from the normal relation, partly due to an overhang of tonnage. With better fortunes in the Pacific, however, due to the significant difference in earnings, there should be some West-East migration of tonnage going forward. Crude economics even justify dirtying up MRs for Atlantic-East voyages - still returning vast TCEs after accounting for clean-up. \n",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "6ff66f55-3cdf-42bd-bf79-608e861b3428",
+        "type": "halfWidthChartFromFile",
+        "title": "Brent fwd. spread vs. VLCC rates",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/fwd.png"
+      },
+      {
+        "id": "d64a8ae3-b039-4380-821e-451df013a8a6",
+        "type": "halfWidthChartFromFile",
+        "title": "Northwest Europe gasoil crack vs. Atlantic MR rates",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/crackmr.png"
+      },
+      {
+        "id": "fe112ceb-ceb9-4ce2-87c3-9d5147a80214",
+        "type": "sourceText",
+        "content": "Source: Bloomberg, Fearnleys, Baltic Exchange"
+      },
+      {
+        "id": "768bd95d-c133-4ec5-ac12-1cc9a7932007",
+        "type": "fullWidthParagraph",
+        "content": "In line with rising volumes and persistent inefficiencies, tonne-day demand has risen again over the last month. Here too, crude leads the way with the biggest m/m gains, but products slowly catching up. VLCCs still lag the other crude tanker segments in terms of explicit demand, but more idle ships, congestion and waiting time, coupled with bad weather in the Far East has given a very tight position list, which makes up for that difference and produces these vast rates. \n\nThe increased flow out of Hormuz has seemingly exhausted GOO STS capacity, with more requests for STS off India instead over the last few weeks, as more Saudi volumes have come into play too. In other words, no efficiency gains just yet, with waiting time likely to persist. As long as this flow is maintained, while there is also a pull of Atlantic cargoes to the (Far) East demand may continue growing near-term and into year-end. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "4118971d-5a34-45b2-a768-91acdab88450",
+        "type": "fullWidthChartFromFile",
+        "title": "Total tanker tonne-day demand (+3% YTD)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmtot.png"
+      },
+      {
+        "id": "110eb9fe-b1d5-4920-8c38-fe2e054cf02b",
+        "type": "halfWidthChartFromFile",
+        "title": "Total crude tanker tonne-day demand (+7% YTD)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmc.png"
+      },
+      {
+        "id": "58d22089-f0e5-439d-85e1-b1dee737d404",
+        "type": "halfWidthChartFromFile",
+        "title": "Total product tanker tonne-day demand (-2% YTD)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmp.png"
+      },
+      {
+        "id": "b8e2485e-c458-454b-80e7-c8ff231fe303",
+        "type": "halfWidthChartFromFile",
+        "title": "Total VLCC tonne-day demand (-1% YTD)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmv.png"
+      },
+      {
+        "id": "22da9f66-07dd-472e-8bf1-f341364361e2",
+        "type": "halfWidthChartFromFile",
+        "title": "Total Suez tonne-day demand (+6% YTD)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tms.png"
+      },
+      {
+        "id": "10ed49af-5d7e-4375-bed4-80dde888c319",
+        "type": "halfWidthChartFromFile",
+        "title": "Total Afra/LR2 tonne-day demand (+4% YTD)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tma.png"
+      },
+      {
+        "id": "fef381b5-734c-48d8-9789-bfc2033dc550",
+        "type": "halfWidthChartFromFile",
+        "title": "Total MR tonne-day demand (+5% YTD)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/tmm.png"
+      },
+      {
+        "id": "427c4495-59da-4abc-afec-2f6f3bcfa1dd",
+        "type": "sourceText",
+        "content": "Source: Vortexa "
+      },
+      {
+        "id": "8d2f8c01-6ed1-410f-acd3-8f9506fec89c",
+        "type": "heading2",
+        "content": "Oil market still short and supportive"
+      },
+      {
+        "id": "f5ff7728-c155-4304-99d2-27b72757d8e8",
+        "type": "fullWidthParagraph",
+        "content": "Onshore stocks have gently eased since hitting a peak in March, accelerating a bit most recently, to bring draws to 180 mb. Over the same period, however, compliant crude oil on the water has risen by nearly the same amount. Non-compliant crude on the water has drawn by 130 mb. That is much less draws than feared, a balance has largely been shored up by China as a swing buyer and lower global refinery runs. The latter means the real tightness is in products, as also reflected in crack spreads. \n\nThe draw-down of non-compliant crude oil also explains why Chinese buyers have been more active in the crude market recently - as does a rebound in Chinese refinery runs. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "a4047095-524a-412b-81c3-626e060515a6",
+        "type": "halfWidthChartFromFile",
+        "title": "Global onshore crude oil storage",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/onshore.png"
+      },
+      {
+        "id": "4fbec90e-8fe5-49dd-9682-c754a3a5203a",
+        "type": "halfWidthChartFromFile",
+        "title": "Crude oil on the water by source",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/oow.png"
+      },
+      {
+        "id": "f3fd4ce6-c84e-4490-af1a-8ea417cf6492",
+        "type": "sourceText",
+        "content": "Source: Vortexa"
+      },
+      {
+        "id": "796f54f8-5503-4e2c-b06c-9f615a980631",
+        "type": "fullWidthParagraph",
+        "content": "Chinese refinery runs recovered to nearly 14 mbpd in August, from a low of 12.5 mbpd the preceding months. This is still 1 mbpd shy of the same month last year. Meanwhile, apparent main products demand has been 6% lower y/y through the first eight months of the year, and remained down 1.3 mbpd in August. It remains to be seen whether this is structural (in line with other industrial indicators), or a controlled temporary adjustment. \n\nThere may be some recovery going forward, but a further recovery for runs perhaps to a greater extent rests on the export market, for which economics are highly supportive especially considering the global gasoil shortage. All eyes on potential additional export quotas - or a lift for the government imposed ceiling for domestic product prices. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "8b8e81aa-3cf9-4e9c-a220-03bbf535aff0",
+        "type": "halfWidthChartFromFile",
+        "title": "Chinese refinery runs rebounding",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/runchina.png"
+      },
+      {
+        "id": "ffda6c7a-2edb-4e87-b129-1209d126b25b",
+        "type": "halfWidthChartFromFile",
+        "title": "Apparent demand still low, but recovering slightly",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/chidem.png"
+      },
+      {
+        "id": "1cee2dc0-57c3-47f6-bf54-f71541f43bf3",
+        "type": "sourceText",
+        "content": "Source: Argus"
+      },
+      {
+        "id": "c04164f5-1a2a-4ce6-a8da-5af762c8194b",
+        "type": "fullWidthParagraph",
+        "content": "Refinery margins have continued to strengthen over the last month, mainly on capacity constraints but partly also relatively resilient demand. This should incentivise higher runs, but capacity other than in China is mostly maxed out. There should still be some more recovery through year-end, supporting product tanker demand. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "f337886c-ae9f-402f-8cab-2fe8e12c8aff",
+        "type": "halfWidthChartFromFile",
+        "title": "Global refinery runs",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refrun.png"
+      },
+      {
+        "id": "dd385b5f-19d9-494f-922b-f1b3c2ceb5ea",
+        "type": "halfWidthChartFromFile",
+        "title": "Northwest Europe crack spreads",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refeu.png"
+      },
+      {
+        "id": "50a82b8b-cfa9-4f9d-976f-df2c5f444d05",
+        "type": "halfWidthChartFromFile",
+        "title": "U.S. Gulf Coast crack spreads",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/Refus.png"
+      },
+      {
+        "id": "9073c1d2-e861-495e-b695-2988ca67ea39",
+        "type": "halfWidthChartFromFile",
+        "title": "Bohai Bay crack spreads",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/refchi.png"
+      },
+      {
+        "id": "67723769-821b-4751-b7d7-3ca81f292627",
+        "type": "sourceText",
+        "content": "Source: IEA, Bloomberg, EIA, Argus"
+      },
+      {
+        "id": "5b8db05e-36b5-46e3-b566-e2b9443d7522",
+        "type": "heading2",
+        "content": "Another layer - potential 90 day U.S. gasoil export ban "
+      },
+      {
+        "id": "2b15f875-2e9f-43f3-adc5-941cf9b79d75",
+        "type": "fullWidthParagraph",
+        "content": "The U.S. makes up 18% of global gasoil/diesel seaborne loadings YTD, hence an export ban or restriction can cause further shortages, especially in the Atlantic basin (continued Russia diesel ban does not help either). Global gasoil loadings have recovered nearly all lost ground post the U.S.-Iran conflict – mostly driven by the U.S. Asian and MEG refiners might make up for some U.S. shortfall on better crude availability and more Hormuz CPP transits. Asian gasoil crack spreads are also likely to strengthen, supporting higher refinery runs wherever possible. \n\nThe primary effect on tankers is lower TC14 demand and therefore lower Atlantic MR rates. However, there may also be scrambling for East-West gasoil fixtures, boosting an already firm Pacific market. Coupled with other inefficiencies, this is a very potent set-up for LR2s, of which about two thirds are currently tied up in dirty trade. There could thus be spillover also for smaller vessels as fleet positioning can again be wrong-footed. \n\nA full export ban can trap USGC gasoil/diesel onshore as there is 'only' 15-20 mb upside to 10-year highs for U.S. Gulf Coast distillate inventories - which would only take 2-3 weeks to fill. Workarounds such as tweaks and optimisation of refinery output to minimise distillates and maximise gasoline, and Jones Act tankers to shuttle excess gasoil to other regions, are only minor at this scale. 30% of U.S. refinery output is distillates, hence up to 3-4 mbpd of runs may worst case be at risk. This could in turn drive U.S. gasoil prices higher (talk about a policy error..) and drive TC2 import demand, offsetting some Atlantic MR weakness. Another secondary effect is (much) softer WTI with excess crude, reopening  export arbitrages. This could also come at the same time as the U.S. may release another 30 mb from SPR – further boosting potential USG crude oil exports. \n",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "7a961ca7-b883-47a1-9a4e-fbb24ee96a0f",
+        "type": "halfWidthChartFromFile",
+        "title": "U.S. Gasoil/diesel exports by destination",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/usgas.png"
+      },
+      {
+        "id": "df0fd62b-81ac-4ddd-9fc9-927fccc303a0",
+        "type": "halfWidthChartFromFile",
+        "title": "Global gasoil/diesel loadings vs. Dec'25 baseline",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/gasoil.png"
+      },
+      {
+        "id": "92797ada-ddaf-4c78-afa8-d57aa6a95e59",
+        "type": "sourceText",
+        "content": "Source: Vortexa"
+      },
+      {
+        "id": "293042ec-17b7-43ae-adb9-995d390dc7c7",
+        "type": "heading2",
+        "content": "Some thoughts on next year - more oil almost balances more ships"
+      },
+      {
+        "id": "78f1f06f-4c38-4485-94ad-ab79261e27fc",
+        "type": "fullWidthParagraph",
+        "content": "The range of outcomes going into next year is vast, considering the layers of geopolitical factors which may affect the market. Setting that aside, however, there is solid volume growth potential, which may offset accelerating fleet growth. \n\nThe EIA projects nearly 1.2 mbpd of crude oil production growth in the Americas next year, significantly higher growth than previously estimated due to higher activity amid supportive oil prices. That is consistent with the IEA, who on top of that forecasts significant growth mainly for the UAE, taking total non-OPEC+ growth next year to 2.5 mbpd. \n\nA bigger question mark for next year is refining. The IEA's 3 mbpd run growth estimate partly suggests a normalisation (only 0.5 mbpd higher than 2025) in Hormuz with nearly half of the increase coming in the MEG. The rest is mainly Asia, whiich is more doable considering better crude availability re. non-OPEC+ growth. The relatively small increase in global runs next year suggests refinery margins may remain high - which for product tankers may mean somewhat better demand prospects than otherwise negligible volume growth would suggest. \n\n2.5 mbpd of non-OPEC+ crude oil supply growth may be enough to just about balance the market next year - especially as nearly half of it gives potential for long-haul flow. Gross scheduled fleet growth is set to rise from 5.8% this year to 6.5% next year. Not a lot of scrapping can be expected, but as seen this year, there may be some casualties and forced retirements. Should that limit net fleet growth next year to about 5%, that would only mean a slightly less tight market balance than now. \n\nThat means historically very elevated rates may persist - in line with what current 1-year TC rates suggest, albeit off the extreme current levels. ",
+        "textAlignment": "justify"
+      },
+      {
+        "id": "271c0ffb-f0aa-46db-85cc-4b9e78e801c6",
+        "type": "thirdWidthChartFromFile",
+        "title": "Americas q/q crude oil production change ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/americas.png"
+      },
+      {
+        "id": "be755a4f-029b-401e-b5c9-0b3eca9ceeb7",
+        "type": "thirdWidthChartFromFile",
+        "title": "Quarterly tanker deliveries",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/quarterly.png"
+      },
+      {
+        "id": "782e5003-3e86-4d8c-9cef-29e84ed8d57f",
+        "type": "thirdWidthChartFromFile",
+        "title": "Annual tanker deliveries",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0be848a1-a006-4a49-b2d4-c406e1fe4d29/annual.png"
+      },
+      {
+        "id": "c40a3eb0-9161-4e5d-bd22-f5c6b47ed0dd",
+        "type": "sourceText",
+        "content": "Source: EIA, Fearnleys"
+      }
+    ],
+    "created_at": "2026-09-21T10:52:09.444+00:00",
+    "updated_at": "2026-09-25T06:44:49.97+00:00"
+  },
+  {
+    "id": "649096d0-0a82-418b-beaf-334bbc77bc3d",
+    "date": "2026-09-24",
+    "title": " Fearnleys Dry Bulk Weekly",
+    "department": "BULK",
+    "slug": "fearnleys-dry-bulk-weekly-24th-september-2026-26",
+    "status": "published",
+    "pdf_url": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/report.pdf",
+    "audio_url": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/summary-en.mp3",
+    "content": [
+      {
+        "id": "1e833d8a-a9a5-4295-a88a-a8c819431e8c",
+        "type": "heading1",
+        "content": "Capesize/Newcastlemax"
+      },
+      {
+        "id": "z4xrutx",
+        "type": "fullWidthParagraph",
+        "content": "We made a model consisting of factors like the global ballast/laden vessel ratio, West of Singapore ballasters, and a couple of other AIS indicators. Below the charts are tables showing where the model sits currently. It is only at extremes that these models give very clear suggestions about the near-term outlook. \n\nSince last week, the models dropped out of the upper extremes, so they are no longer suggesting a correction. The main reason for the improvement is the drop in West of Singapore ballasters. However, it's worth explaining that these models give a forward suggestion for the next 4 weeks, and the readings were still extreme until 19th Sep. Hence, the bearish signals are still \"live\" through October 19th. \n\nLast week, Cape/Newc shipment volumes from the South Atlantic were unchanged from the same week last year - the first such week in several months. Over the last six weeks, total Atlantic volumes increased 14% year on year. \n",
+        "textAlignment": "left"
+      },
+      {
+        "id": "a101264f-df5b-4f04-a09d-d5ac9c18df10",
+        "type": "halfWidthChartFromFile",
+        "title": "Cape/Newc Composite Model",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/Cape Composite Model.png"
+      },
+      {
+        "id": "ad42ed57-1ad9-4822-9525-adc3795a5ea8",
+        "type": "halfWidthChartFromFile",
+        "title": "Cape/Newc Composite Model - 4 Weeks Change",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/Cape Composite Model 4 Weeks Change.png"
+      },
+      {
+        "id": "0a842241-4d77-4304-bc92-fdaf1a2bcd12",
+        "type": "halfWidthChartFromFile",
+        "title": "",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/cape model.png"
+      },
+      {
+        "id": "d71ca010-105d-41bf-8972-f048222731d9",
+        "type": "halfWidthChartFromFile",
+        "title": "",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/cape momentum model.png"
+      },
+      {
+        "id": "f85ae58d-a5a5-4087-aa6e-f87bb9d383c1",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "a6dbd3fc-e74c-4ebd-952c-8eb867354183",
+        "type": "heading1",
+        "content": "Panamax/Kamsarmax "
+      },
+      {
+        "id": "80107745-39c1-41c9-a4d3-6fab4fd87601",
+        "type": "fullWidthParagraph",
+        "content": "Shipment volume growth continues to be lower than DWT supply growth. Through week 38, growth was 2.9%, compared to DWT supply growth of 4.2%. Comparing the last 10 weeks to the same period last year, shipment volume growth was -2.0%. \n\nNear-term indicators has turned more constructive. P6 have adjusted down and is now suggested to trend sideways. Emerging tightness in the Pacific suggests P5TC will rise into mid October. \n\n**Top left chart:** Shipment volumes were up 2.9% year on year through week 38. In the last ten weeks, volumes were down -2.0% compared to the same period last year. Supply growth was 4.2% at the latest reading. \n**Top right chart:** The 2-month lead of the coal futures curve suggests the market could be past the peak. \n**Bottom left chart:** The Pacific tightness indicator suggests the market will increase into mid October. \n**Bottom right chart:** The SATL tightness indicator suggests P6 will stabilize around current levels. ",
+        "textAlignment": ""
+      },
+      {
+        "id": "06eeaad1-bf7b-483d-984e-c3b7bd48ef27",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/panamax kamsarmax weekly shipment volumes.png"
+      },
+      {
+        "id": "82a8e034-060f-4e59-8be6-61658bcf732c",
+        "type": "halfWidthChartFromFile",
+        "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/P5 vs Newcastle Coal Futures Spread Lead.png"
+      },
+      {
+        "id": "d8f30520-a1db-4d77-93c1-b6ae7ab9687f",
+        "type": "halfWidthChartFromFile",
+        "title": "P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/P5TC vs Pacific Tightness Indicator Zoom In.png"
+      },
+      {
+        "id": "a19ee1de-4379-436a-afb6-e6c5ca568621",
+        "type": "halfWidthChartFromFile",
+        "title": "P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/P6 vs SATL Tightness Zoom In.png"
+      },
+      {
+        "id": "d9915617-4941-46b7-8c0b-8edfab10c3f9",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "4eec2f29-c25f-411e-b8e1-1f353a37b17f",
+        "type": "heading1",
+        "content": "Supramax/Ultramax "
+      },
+      {
+        "id": "2ffdd4ab-a80e-44e5-846a-1de0aa4103b2",
+        "type": "fullWidthParagraph",
+        "content": "Through week 38, shipment volume growth was 4.1%, as volumes increased notably in the last couple of weeks. The last 10 weeks, volujmes increased by 3.0% compared to the same period last year.  DWT Supply growth remains at 5.2%. \nThe lower volumes are reflected in the ballast/laden vessel ratio shown below. This ratio has diverged from earnings over the last month and a half. If the market keeps rising even though volume/ton-time vs supply growth suggests it shouldn't, what causes it to rise? Fear of not getting hold of physical commodities certainly explains part of it. This phenomenon is much more common in the Tanker segment, where freight can get excessively bid for that reason. \n\n**Top left chart:** Weekly shipment volumes, 2026 ytd vs 2025. \n**Top right chart:** S11TC vs the Ballaster/Laden vessel ratio. A lower ratio indicates a looser market balance, and vice versa. The index and the ballast/laden ratio have diverged from the index over the last month and a half\n**Bottom left chart:** The industrial metals index is composed of copper, aluminium, zinc and nickel, and weighted according to market value. The 9-month change of this index has a high correlation with the 9-month change of the Ultramax 1-year TC rate, and leads by about 3 months. \n**Bottom right chart:** The 9-month change of the price of copper has a high correlation with the 9-month change of the Ultramax 1-year TC rate. The copper price change leads by about 4 months. "
+      },
+      {
+        "id": "e50ce1a5-fdfc-403d-9f9a-834ec6e0b5df",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+      },
+      {
+        "id": "2f8257b6-4369-402a-a81e-fc9d1291ccf1",
+        "type": "halfWidthChartFromFile",
+        "title": "Ballaster/Laden Vessel Ratio vs S11TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/supraultra ballaster laden vessel ratio.png"
+      },
+      {
+        "id": "7f7299e1-2244-4c7a-a101-4d431d4340d7",
+        "type": "halfWidthChartFromFile",
+        "title": "Industrial Metals Price Index vs Ultra/Supra 1 Year TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/INDUSTRIAL METALS VS SUPRAMAX AND ULTRAMAX 1 YEAR TC.png"
+      },
+      {
+        "id": "5f69f216-748e-4444-9561-a6e9572ee56b",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price vs Ultramax 1 Year TC ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/COPPER 9 MONTHS CHANGE VS ULTRAMAX 9 MONTHS CHANGE.png"
+      },
+      {
+        "id": "b0a343c5-f4cc-4c07-a650-e11d3b540290",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "6e966718-9772-4e7f-a146-e4055dfea94c",
+        "type": "heading1",
+        "content": "Handysize"
+      },
+      {
+        "id": "9d05aede-e8fa-4a7b-8baf-4285ba058a00",
+        "type": "fullWidthParagraph",
+        "content": "Through week 38, shipment volume growth grew by an estimated 0.8% compared to last year. DWT supply growth remains at 3.2%. The market remains firmer than the weak headline figures suggest. In the near-term, the strength of the Ultramax segment suggests continued sideways/slightly up in this segment. \nHS4 is now at an extreme relative to the rest of the market. Corrections often follow after such a development. Though, of course, extremes can always get more extreme..\n\n**Top left chart:** The ratio between Rio-Recalada / Skaw-Passero (HS3) and SEA / Singapore-Japan (HS5) is usually a good predictor of tops and bottoms of the HS3 route. A higher ratio suggests a market top, and a lower ratio suggests a market bottom. \n**Top right chart:** Through week 38, Handysize shipment volumes were 0.8% higher year on year, declining from the 3%+ figures seen in the last months. DWT supply growth was 3.2% at the latest reading. \n**Bottom left chart:** The correlation between the S11TC and HS7TC is over 90%. The correlation is even higher when the S11TC index is shifted forward a few days, which means that movements in the S11TC index often lead the movements of the HS7TC. \n**Bottom right chart:** The change in the price of copper is usually an accurate leading indicator for asset values. "
+      },
+      {
+        "id": "4f2d6a0d-e0a2-4de9-a179-3eab94fd3bdf",
+        "type": "halfWidthChartFromFile",
+        "title": "HS3 vs Ratio of HS3 and HS5",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/HS3 RATIO.png"
+      },
+      {
+        "id": "fc26dd83-edbf-410f-90c8-27eb0c81f27c",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png"
+      },
+      {
+        "id": "a73647a4-ec2d-4531-974e-031fe10c4611",
+        "type": "halfWidthChartFromFile",
+        "title": "S11TC Shifted 1 Week Forward, vs HS7TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/649096d0-0a82-418b-beaf-334bbc77bc3d/ULTRA LEAD HANDY.png"
+      },
+      {
+        "id": "fd6c2de9-3057-4d5d-82f0-d91159377b4e",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper vs handysize.png"
+      },
+      {
+        "id": "c2eb505c-66b3-4f17-96fd-566d76024fd6",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "2ad47b89-ea19-4bd6-a971-54a0e07b50eb",
+        "type": "heading1",
+        "content": "Fundamentals and Macro"
+      },
+      {
+        "id": "29ab710d-e922-49eb-8f8b-6de2c786a6d4",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Dry Bulk Ton-Time Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/c799b3b7-e7ca-4910-83f8-a3ce4102a2b7/Commodity and Currency vs TonTime.png"
+      },
+      {
+        "id": "be520210-5b27-45e3-a511-263cd56facf7",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Kamsarmax 10-Year Old",
+        "content": "https://pbrkapp.blob.core.windows.net/report/c799b3b7-e7ca-4910-83f8-a3ce4102a2b7/Commodity and Currency vs Kamsarmax.png"
+      },
+      {
+        "id": "6a0f2bd2-cacf-482e-8f05-e677132ea306",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Dry Bulk Volume Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/Commodity and Currency vs Volumes.png"
+      },
+      {
+        "id": "a39aabe9-8dd1-4e5c-9129-8111f69e8311",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs BDI",
+        "content": "https://pbrkapp.blob.core.windows.net/report/c799b3b7-e7ca-4910-83f8-a3ce4102a2b7/Commodity and Currency vs BDI.png"
+      },
+      {
+        "id": "d29ba951-c4aa-4785-8cc5-b8fc3b851e19",
+        "type": "halfWidthChartFromFile",
+        "title": "Fleet Age Profile",
+        "content": "https://pbrkapp.blob.core.windows.net/report/523b991f-2926-48bf-bb3b-082065a1c9a7/FLEET AGE PROFILE.png"
+      },
+      {
+        "id": "6ab69130-0a3d-4e6b-9b4e-3e836592899b",
+        "type": "halfWidthChartFromFile",
+        "title": "Ton-Time Growth vs DWT Supply Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/523b991f-2926-48bf-bb3b-082065a1c9a7/TON-TIME VS SUPPLY.png"
+      }
+    ],
+    "created_at": "2026-09-23T08:55:10.83+00:00",
+    "updated_at": "2026-09-24T08:13:50.48+00:00"
+  },
+  {
+    "id": "d2f0aa6d-80fe-4409-82de-f0a85fd87adf",
+    "date": "2026-09-16",
+    "title": " Fearnleys Dry Bulk Weekly",
+    "department": "BULK",
+    "slug": "fearnleys-dry-bulk-weekly-16th-september-2026-25",
+    "status": "published",
+    "pdf_url": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/report.pdf",
+    "audio_url": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/summary-en.mp3",
+    "content": [
+      {
+        "id": "1e833d8a-a9a5-4295-a88a-a8c819431e8c",
+        "type": "heading1",
+        "content": "Capesize/Newcastlemax"
+      },
+      {
+        "id": "z4xrutx",
+        "type": "fullWidthParagraph",
+        "content": "We made a model consisting of factors like the global ballast/laden vessel ratio, West of Singapore ballasters, and a couple of other AIS indicators. Below the charts are tables showing where the model sits currently. It is only at extremes that these models give very clear suggestions about the near-term outlook. \n\nThe models remain bearish, although slightly less so than last week. \n\nSouth Atlantic shipment volume growth remains very high, with total shipments in the region up 15% year over year over the previous six weeks. Through that period, Brazilian iron ore and Colombian coal shipment growth was negative, but all other trades were positive. Freight levels could prove to be the limiting factor going forward, as its making up a significant share of both CFR China iron ore and bauxite prices now. ",
+        "textAlignment": "left"
+      },
+      {
+        "id": "a101264f-df5b-4f04-a09d-d5ac9c18df10",
+        "type": "halfWidthChartFromFile",
+        "title": "Cape/Newc Composite Model",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/Cape Composite Model.png"
+      },
+      {
+        "id": "ad42ed57-1ad9-4822-9525-adc3795a5ea8",
+        "type": "halfWidthChartFromFile",
+        "title": "Cape/Newc Composite Model - 4 Weeks Change",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/Cape Composite Model 4 Weeks Change.png"
+      },
+      {
+        "id": "0a842241-4d77-4304-bc92-fdaf1a2bcd12",
+        "type": "halfWidthChartFromFile",
+        "title": "",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/cape model.png"
+      },
+      {
+        "id": "d71ca010-105d-41bf-8972-f048222731d9",
+        "type": "halfWidthChartFromFile",
+        "title": "",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/cape momentum model.png"
+      },
+      {
+        "id": "f85ae58d-a5a5-4087-aa6e-f87bb9d383c1",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "a6dbd3fc-e74c-4ebd-952c-8eb867354183",
+        "type": "heading1",
+        "content": "Panamax/Kamsarmax "
+      },
+      {
+        "id": "80107745-39c1-41c9-a4d3-6fab4fd87601",
+        "type": "fullWidthParagraph",
+        "content": "Shipment volume growth continues to be lower than DWT supply growth. Through week 37, growth was 2.8%, compared to DWT supply growth of 4.2%. Comparing the last 10 weeks to the same period last year, shipment volume growth was -1.9%. \n\nThe comment from last week in terms of the near-term indicators still applies:\n*\"The correlation between p6 and the South Atlantic indicator continues to be accurate. The market has corrected slightly since last week, and is suggested to continue softening. \nThe Pacific indicator and the coal futures curve have been less accurate in predicting the market in the last weeks. These indicators suggest the market will fall in the next few weeks.\"*\n\n**Top left chart:** Shipment volumes were up 2.8% year on year through week 37. In the last ten weeks, volumes were down -1.9% compared to the same period last year. Supply growth was 4.2% at the latest reading. \n**Top right chart:** The 2-month lead of the coal futures curve suggests the market could be past the peak. \n**Bottom left chart:** The Pacific tightness indicator suggests market softness going forward. \n**Bottom right chart:** The SATL tightness indicator suggests P6 could peak this week, then soften going forward. ",
+        "textAlignment": ""
+      },
+      {
+        "id": "06eeaad1-bf7b-483d-984e-c3b7bd48ef27",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/panamax kamsarmax weekly shipment volumes.png"
+      },
+      {
+        "id": "82a8e034-060f-4e59-8be6-61658bcf732c",
+        "type": "halfWidthChartFromFile",
+        "title": "P5 vs Newcastle Coal Futures Curve Spread (Lead 2 Months)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/P5 vs Newcastle Coal Futures Spread Lead.png"
+      },
+      {
+        "id": "d8f30520-a1db-4d77-93c1-b6ae7ab9687f",
+        "type": "halfWidthChartFromFile",
+        "title": "P5TC vs Pacific Vessel Tightness Indicator (Lead 3 Weeks)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/P5TC vs Pacific Tightness Indicator Zoom In.png"
+      },
+      {
+        "id": "a19ee1de-4379-436a-afb6-e6c5ca568621",
+        "type": "halfWidthChartFromFile",
+        "title": "P6 vs South Atlantic Vessel Tightness Indicator (Lead 1 Month)",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/P6 vs SATL Tightness Zoom In.png"
+      },
+      {
+        "id": "d9915617-4941-46b7-8c0b-8edfab10c3f9",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "4eec2f29-c25f-411e-b8e1-1f353a37b17f",
+        "type": "heading1",
+        "content": "Supramax/Ultramax "
+      },
+      {
+        "id": "2ffdd4ab-a80e-44e5-846a-1de0aa4103b2",
+        "type": "fullWidthParagraph",
+        "content": "Over the last week, shipment volume growth increased a bit compared with the same period last year, to 3.1%. In the last 10 weeks, volume growth was just 0.6%. DWT Supply growth remains at 5.2%. \nThe lower volumes are reflected in the ballast/laden vessel ratio shown below. This ratio has diverged from earnings over the last month and a half. \n\n**Top left chart:** Weekly shipment volumes, 2026 ytd vs 2025. \n**Top right chart:** S11TC vs the Ballaster/Laden vessel ratio. A lower ratio indicates a looser market balance, and vice versa. The index and the ballast/laden ratio has diverged from the index over the last month and a half\n**Bottom left chart:** The industrial metals index is composed of copper, aluminium, zinc and nickel, and weighted according to market value. The 9-month change of this index has a high correlation with the 9-month change of the Ultramax 1-year TC rate, and leads by about 3 months. \n**Bottom right chart:** The 9-month change of the price of copper has a high correlation with the 9-month change of the Ultramax 1-year TC rate. The copper price change leads by about 4 months. "
+      },
+      {
+        "id": "e50ce1a5-fdfc-403d-9f9a-834ec6e0b5df",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes",
+        "content": "https://pbrkapp.blob.core.windows.net/report/38f94195-d7e3-4bb7-b56b-3622633c1f32/SUPRAMAX ULTRAMAX WEEKLY SHIPMENT VOLUMES.png"
+      },
+      {
+        "id": "2f8257b6-4369-402a-a81e-fc9d1291ccf1",
+        "type": "halfWidthChartFromFile",
+        "title": "Ballaster/Laden Vessel Ratio vs S11TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/supraultra ballaster laden vessel ratio.png"
+      },
+      {
+        "id": "7f7299e1-2244-4c7a-a101-4d431d4340d7",
+        "type": "halfWidthChartFromFile",
+        "title": "Industrial Metals Price Index vs Ultra/Supra 1 Year TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/INDUSTRIAL METALS VS SUPRAMAX AND ULTRAMAX 1 YEAR TC.png"
+      },
+      {
+        "id": "5f69f216-748e-4444-9561-a6e9572ee56b",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price vs Ultramax 1 Year TC ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/COPPER 9 MONTHS CHANGE VS ULTRAMAX 9 MONTHS CHANGE.png"
+      },
+      {
+        "id": "b0a343c5-f4cc-4c07-a650-e11d3b540290",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "6e966718-9772-4e7f-a146-e4055dfea94c",
+        "type": "heading1",
+        "content": "Handysize"
+      },
+      {
+        "id": "9d05aede-e8fa-4a7b-8baf-4285ba058a00",
+        "type": "fullWidthParagraph",
+        "content": "Through week 37, shipment volume growth grew by an estimated 0.7% compared to last year. DWT supply growth remains at 3.2%. The market remains firmer than the weak headline figures suggest. In the near-term, the strength of the Ultramax segment suggest continued sideways/slightly up in this segment to. \n\n**Top left chart:** The ratio between Rio-Recalada / Skaw-Passero (HS3) and SEA / Singapore-Japan (HS5) is usually a good predictor of tops and bottoms of the HS3 route. A higher ratio suggests a market top, and a lower ratio suggests a market bottom. \n**Top right chart:** Through week 37, Handysize shipment volumes were 0.7% higher year on year, declining from the 3%+ figures seen in the last months. DWT supply growth was 3.2% at the latest reading. \n**Bottom left chart:** The correlation between the S11TC and HS7TC is over 90%. The correlation is even higher when the S11TC index is shifted forward a few days, which means that movements in the S11TC index often lead the movements of the HS7TC. \n**Bottom right chart:** The change in the price of copper is usually an accurate leading indicator for asset values. "
+      },
+      {
+        "id": "4f2d6a0d-e0a2-4de9-a179-3eab94fd3bdf",
+        "type": "halfWidthChartFromFile",
+        "title": "HS3 vs Ratio of HS3 and HS5",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/HS3 RATIO.png"
+      },
+      {
+        "id": "fc26dd83-edbf-410f-90c8-27eb0c81f27c",
+        "type": "halfWidthChartFromFile",
+        "title": "Weekly Shipment Volumes ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/38f94195-d7e3-4bb7-b56b-3622633c1f32/HANDYSIZE WEEKLY SHIPMENT VOLUMES.png"
+      },
+      {
+        "id": "a73647a4-ec2d-4531-974e-031fe10c4611",
+        "type": "halfWidthChartFromFile",
+        "title": "S11TC Shifted 1 Week Forward, vs HS7TC",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/ULTRA LEAD HANDY.png"
+      },
+      {
+        "id": "fd6c2de9-3057-4d5d-82f0-d91159377b4e",
+        "type": "halfWidthChartFromFile",
+        "title": "Copper Price 6 Months Change, 6 Months Lead, vs Handysize 10 Year Old 6 Months Change ",
+        "content": "https://pbrkapp.blob.core.windows.net/report/0c93677f-6535-4dce-9faf-4bd6057e8a69/copper vs handysize.png"
+      },
+      {
+        "id": "c2eb505c-66b3-4f17-96fd-566d76024fd6",
+        "type": "pageBreak",
+        "content": ""
+      },
+      {
+        "id": "2ad47b89-ea19-4bd6-a971-54a0e07b50eb",
+        "type": "heading1",
+        "content": "Fundamentals and Macro"
+      },
+      {
+        "id": "29ab710d-e922-49eb-8f8b-6de2c786a6d4",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Dry Bulk Ton-Time Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/c799b3b7-e7ca-4910-83f8-a3ce4102a2b7/Commodity and Currency vs TonTime.png"
+      },
+      {
+        "id": "be520210-5b27-45e3-a511-263cd56facf7",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Kamsarmax 10-Year Old",
+        "content": "https://pbrkapp.blob.core.windows.net/report/c799b3b7-e7ca-4910-83f8-a3ce4102a2b7/Commodity and Currency vs Kamsarmax.png"
+      },
+      {
+        "id": "6a0f2bd2-cacf-482e-8f05-e677132ea306",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs Dry Bulk Volume Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/d2f0aa6d-80fe-4409-82de-f0a85fd87adf/Commodity and Currency vs Volumes.png"
+      },
+      {
+        "id": "a39aabe9-8dd1-4e5c-9129-8111f69e8311",
+        "type": "halfWidthChartFromFile",
+        "title": "Economic Cycle Index vs BDI",
+        "content": "https://pbrkapp.blob.core.windows.net/report/c799b3b7-e7ca-4910-83f8-a3ce4102a2b7/Commodity and Currency vs BDI.png"
+      },
+      {
+        "id": "d29ba951-c4aa-4785-8cc5-b8fc3b851e19",
+        "type": "halfWidthChartFromFile",
+        "title": "Fleet Age Profile",
+        "content": "https://pbrkapp.blob.core.windows.net/report/523b991f-2926-48bf-bb3b-082065a1c9a7/FLEET AGE PROFILE.png"
+      },
+      {
+        "id": "6ab69130-0a3d-4e6b-9b4e-3e836592899b",
+        "type": "halfWidthChartFromFile",
+        "title": "Ton-Time Growth vs DWT Supply Growth",
+        "content": "https://pbrkapp.blob.core.windows.net/report/523b991f-2926-48bf-bb3b-082065a1c9a7/TON-TIME VS SUPPLY.png"
+      }
+    ],
+    "created_at": "2026-09-11T08:47:37.143+00:00",
+    "updated_at": "2026-09-16T13:40:14.086+00:00"
+  },
+  {
     "id": "38f94195-d7e3-4bb7-b56b-3622633c1f32",
     "date": "2026-09-09",
     "title": " Fearnleys Dry Bulk Weekly",
