@@ -389,11 +389,36 @@ render on the live dashboard — see section 10.
 - `~/.hermes/.env` is **not exported into terminal subprocesses**, so `os.environ` cannot
   see it. Scripts read the file directly via `get_api_key()`.
 - Rotate with: `python3 -B scripts/tools/set_llama_key.py --key llx-...`
-- The user rotates across ~5 free Google accounts at 10,000 credits each. **Treat keys as
-  burnable — rotate rather than reuse.**
+- The user rotates across **11 free Google accounts, 10,000 credits each.**
+  **Treat keys as burnable — rotate rather than reuse.**
 
-**Balance: ~3,520 of 10,000 used on the last key, ~6,480 remaining.** A third key was
-rotated in during this session. Total programme spend ≈3,264 credits.
+**Credit budget: 11 × 10,000 = 110,000 credits available in rotation.**
+Last measured position: **3,520 of 10,000 used on the current key (~6,480 remaining)**,
+with **two keys already burned through** across this programme. Total spent ≈3,264
+credits, so roughly **103,000 credits remain unspent across the pool.**
+
+**This is not a scarcity constraint — it is a DISCIPLINE constraint.** With 110,000
+credits available, the argument for escalating a page to the cloud is no longer "we
+cannot afford it"; it is only ever "local extraction has been *measured* to fail on
+this page." So:
+
+- **Spend freely on any page a local check has proven unreadable.** Ciphered text,
+  vector-drawn tables the text layer cannot see, a chart we genuinely need. Do not
+  ration a page that has earned its parse.
+- **Do NOT spend on anything we already hold** (section 5) — abundant credits are not a
+  reason to restate the Baltic indices.
+- **Still page-target.** "Every page you skip is a page you don't pay for," and a target
+  is also faster. An un-targeted `agentic` parse of a 10-page document cost 160 credits
+  where a targeted `cost_effective` parse of the same content cost ~30.
+- **Still gate before scale.** A 13/13 gate authorised the banchero batch; a measured
+  per-page comparison is what authorised the 12 flagged pages. Abundant budget removes
+  the *cost* objection, never the *evidence* requirement.
+- **Rotate the key rather than stretch one.** When a key nears exhaustion, switch to the
+  next of the 11 and record the rotation. Do not attempt to squeeze the last credits out
+  of an exhausted key.
+
+**Last measured position: 3,520 of 10,000 used on the current key, ~6,480 remaining.**
+Three keys have now been rotated in across this programme; total spend ≈3,264 credits.
 
 **Why the balance sat still for hours, answered with measurement** (scripts committed as
 `cloud_vs_local.py`, `score_cloud_vs_local.py`):

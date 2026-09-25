@@ -281,8 +281,11 @@ python3 scripts/tools/set_llama_key.py --check         # verify (prefix/tail onl
   invisible to `os.environ` unless Hermes happens to have reloaded. Scripts therefore
   read the file directly (see `get_api_key()` in any runner).
 * Never print, commit, or log the value. Never `sed -i` that file (converts CRLF→LF).
-* The user rotates across ~5 free Google accounts, 10,000 credits each. **Treat keys as
-  burnable** — rotate rather than reuse.
+* The user rotates across **11 free Google accounts, 10,000 credits each** — a pool of
+  **110,000 credits**. **Treat keys as burnable — rotate rather than reuse.** Abundant
+  budget removes the *cost* objection to a cloud parse but never the *evidence*
+  requirement: escalate only what a local check has measured to fail, and never spend on
+  data we already hold.
 * **ALWAYS PACE YOURSELF, AND KEEP GOING — quiet is not stopped.** A run at ~30-50s/doc
   looks idle to a human. Prove liveness from state, never from "I can't see it".
 
