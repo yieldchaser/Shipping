@@ -1,0 +1,13 @@
+affinity             flagged pages re-checked: 7
+agora                flagged pages re-checked: 5
+fearnleys            flagged pages re-checked: 4
+intermodal           flagged pages re-checked: 25
+star_asia            flagged pages re-checked: 24
+xclusiv              flagged pages re-checked: 4
+
+total flagged pages outside banchero: 69
+rendered to C:\Users\Dell\Github\Shipping\scratch\bench\png\flagged
+manifest -> C:\Users\Dell\Github\Shipping\data\derived\flagged_pages_manifest.json
+
+Next: read the tripping spans. If a page's text layer shows real words and
+numbers where the detector fired, the page is CLEAN and needs no credits.

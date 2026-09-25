@@ -1,0 +1,31 @@
+{
+ "complete": [
+  "advanced_shipping",
+  "affinity",
+  "agora",
+  "fearnleys",
+  "ism",
+  "star_asia",
+  "xclusiv"
+ ],
+ "partial": {
+  "banchero_costa": [
+   "CHART-VALUES"
+  ],
+  "carriers": [
+   "CHART-VALUES"
+  ],
+  "fearnleys_cleaned": [
+   "CHART-VALUES"
+  ],
+  "intermodal": [
+   "CHART-VALUES"
+  ],
+  "lion": [
+   "CHART-VALUES"
+  ],
+  "ssy": [
+   "CHART-VALUES"
+  ]
+ }
+}

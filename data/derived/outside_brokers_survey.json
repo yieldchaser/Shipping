@@ -1,0 +1,433 @@
+[
+ {
+  "group": "02-hellenic",
+  "files": {
+   "html": 3204,
+   "jpeg": 44,
+   "jpg": 6587,
+   "pdf": 3969,
+   "png": 326
+  },
+  "total": 14130,
+  "subdirs": [
+   "demolition\\2014",
+   "demolition\\2021",
+   "demolition\\2021\\assets",
+   "demolition\\2022",
+   "demolition\\2022\\assets",
+   "demolition\\2023",
+   "demolition\\2023\\assets",
+   "demolition\\2024",
+   "demolition\\2024\\assets",
+   "demolition\\2025",
+   "demolition\\2025\\assets",
+   "demolition\\2026",
+   "demolition\\2026\\assets",
+   "demolition\\pdfs",
+   "demolition\\unknown",
+   "dry_charter\\2014",
+   "dry_charter\\2021",
+   "dry_charter\\2021\\assets",
+   "dry_charter\\2022",
+   "dry_charter\\2022\\assets",
+   "dry_charter\\2023",
+   "dry_charter\\2023\\assets",
+   "dry_charter\\2024",
+   "dry_charter\\2024\\assets",
+   "dry_charter\\2025",
+   "dry_charter\\2025\\assets",
+   "dry_charter\\2026",
+   "dry_charter\\2026\\assets",
+   "dry_charter\\unknown",
+   "iron_ore\\2014",
+   "iron_ore\\2018",
+   "iron_ore\\2021",
+   "iron_ore\\2021\\assets",
+   "iron_ore\\2022",
+   "iron_ore\\2022\\assets",
+   "iron_ore\\2023",
+   "iron_ore\\2023\\assets",
+   "iron_ore\\2024",
+   "iron_ore\\2024\\assets",
+   "iron_ore\\2025",
+   "iron_ore\\2025\\assets",
+   "iron_ore\\2026",
+   "iron_ore\\2026\\assets",
+   "iron_ore\\pdfs",
+   "shipbuilding\\2014",
+   "shipbuilding\\2021",
+   "shipbuilding\\2022",
+   "shipbuilding\\2023",
+   "shipbuilding\\2024",
+   "shipbuilding\\2025",
+   "shipbuilding\\2026",
+   "shipbuilding\\pdfs",
+   "tanker_charter\\2014",
+   "tanker_charter\\2021",
+   "tanker_charter\\2021\\assets",
+   "tanker_charter\\2022",
+   "tanker_charter\\2022\\assets",
+   "tanker_charter\\2023",
+   "tanker_charter\\2023\\assets",
+   "tanker_charter\\2024",
+   "tanker_charter\\2024\\assets",
+   "tanker_charter\\2025",
+   "tanker_charter\\2025\\assets",
+   "tanker_charter\\2026",
+   "tanker_charter\\2026\\assets",
+   "vessel_valuations\\2014",
+   "vessel_valuations\\2021",
+   "vessel_valuations\\2021\\assets",
+   "vessel_valuations\\2022",
+   "vessel_valuations\\2022\\assets",
+   "vessel_valuations\\2023",
+   "vessel_valuations\\2023\\assets",
+   "vessel_valuations\\2024",
+   "vessel_valuations\\2024\\assets",
+   "vessel_valuations\\2025",
+   "vessel_valuations\\2025\\assets",
+   "vessel_valuations\\2026",
+   "vessel_valuations\\2026\\assets"
+  ],
+  "extracted": {
+   "": 8
+  },
+  "feed_matches": [],
+  "app_matches": []
+ },
+ {
+  "group": "03-breakwave",
+  "files": {
+   "htm": 2,
+   "html": 3221,
+   "jpeg": 365,
+   "jpg": 4604,
+   "pdf": 302,
+   "png": 10065,
+   "webp": 7
+  },
+  "total": 18566,
+  "subdirs": [
+   "drybulk\\2018",
+   "drybulk\\2019",
+   "drybulk\\2020",
+   "drybulk\\2021",
+   "drybulk\\2022",
+   "drybulk\\2023",
+   "drybulk\\2024",
+   "drybulk\\2025",
+   "drybulk\\2026",
+   "insights\\2020",
+   "insights\\2020\\assets",
+   "insights\\2021",
+   "insights\\2021\\assets",
+   "insights\\2022",
+   "insights\\2022\\assets",
+   "insights\\2023",
+   "insights\\2023\\assets",
+   "insights\\2024",
+   "insights\\2024\\assets",
+   "insights\\2025",
+   "insights\\2025\\assets",
+   "insights\\2026",
+   "insights\\2026\\assets",
+   "insights\\images",
+   "insights\\pdfs",
+   "tankers\\2023",
+   "tankers\\2024",
+   "tankers\\2025",
+   "tankers\\2026"
+  ],
+  "extracted": {
+   "": 586
+  },
+  "feed_matches": [],
+  "app_matches": [
+   "knowledge/derived/breakwave_signals.json"
+  ]
+ },
+ {
+  "group": "04-poten",
+  "files": {
+   "md": 1096,
+   "pdf": 1087
+  },
+  "total": 2183,
+  "subdirs": [
+   "2004",
+   "2005",
+   "2006",
+   "2007",
+   "2008",
+   "2009",
+   "2010",
+   "2011",
+   "2012",
+   "2013",
+   "2014",
+   "2015",
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026",
+   "pdfs\\2004",
+   "pdfs\\2005",
+   "pdfs\\2006",
+   "pdfs\\2007",
+   "pdfs\\2008",
+   "pdfs\\2009",
+   "pdfs\\2010",
+   "pdfs\\2011",
+   "pdfs\\2012",
+   "pdfs\\2013",
+   "pdfs\\2014",
+   "pdfs\\2015",
+   "pdfs\\2016",
+   "pdfs\\2017",
+   "pdfs\\2018",
+   "pdfs\\2019",
+   "pdfs\\2020",
+   "pdfs\\2021",
+   "pdfs\\2022",
+   "pdfs\\2023",
+   "pdfs\\2024",
+   "pdfs\\2025",
+   "pdfs\\2026"
+  ],
+  "extracted": {
+   "": 11
+  },
+  "feed_matches": [],
+  "app_matches": []
+ },
+ {
+  "group": "05-seabrokers",
+  "files": {
+   "md": 97,
+   "pdf": 97
+  },
+  "total": 194,
+  "subdirs": [
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026",
+   "pdfs"
+  ],
+  "extracted": {
+   "": 5
+  },
+  "feed_matches": [
+   "seabrokers_osv_dayrates.csv"
+  ],
+  "app_matches": [
+   "data/reports/seabrokers_catalog.json"
+  ]
+ },
+ {
+  "group": "06-drewry",
+  "files": {
+   "csv": 2,
+   "json": 3,
+   "md": 548,
+   "pdf": 276
+  },
+  "total": 829,
+  "subdirs": [
+   "ais",
+   "opinions",
+   "opinions\\2026",
+   "opinions\\opinions"
+  ],
+  "extracted": {
+   "": 283
+  },
+  "feed_matches": [
+   "drewry_airfreight_price_index.csv",
+   "drewry_breakbulk_transport_indices.csv",
+   "drewry_intra_asia_container_index.csv",
+   "drewry_port_throughput_indices.csv",
+   "drewry_wci_historical.csv"
+  ],
+  "app_matches": [
+   "data/indices/drewry_wci_historical.csv"
+  ]
+ },
+ {
+  "group": "07-signal",
+  "files": {
+   "avif": 308,
+   "csv": 1,
+   "html": 511,
+   "jpeg": 49,
+   "md": 449,
+   "pdf": 9,
+   "png": 1073
+  },
+  "total": 2400,
+  "subdirs": [
+   ".",
+   "html",
+   "images",
+   "monitors",
+   "newsletters",
+   "newsroom",
+   "pdfs"
+  ],
+  "extracted": {
+   "": 185
+  },
+  "feed_matches": [
+   "signal_ports_by_asset_class.csv"
+  ],
+  "app_matches": [
+   "data/derived/predictive_freight_signals.json",
+   "data/views/signal/ais_history_active.json",
+   "data/views/signal/asset_class_ports.json",
+   "data/views/signal/lineup_vessel_lookup.json",
+   "data/views/signal/live_fleet_positions.json"
+  ]
+ },
+ {
+  "group": "08-baltic",
+  "files": {
+   "html": 3038
+  },
+  "total": 3038,
+  "subdirs": [
+   "container\\2025",
+   "container\\2026",
+   "container\\2026\\assets",
+   "dry\\2015",
+   "dry\\2016",
+   "dry\\2017",
+   "dry\\2018",
+   "dry\\2019",
+   "dry\\2020",
+   "dry\\2021",
+   "dry\\2022",
+   "dry\\2023",
+   "dry\\2024",
+   "dry\\2025",
+   "dry\\2026",
+   "dry\\2026\\assets",
+   "gas\\2022",
+   "gas\\2023",
+   "gas\\2024",
+   "gas\\2025",
+   "gas\\2026",
+   "gas\\2026\\assets",
+   "ningbo\\2017",
+   "ningbo\\2018",
+   "ningbo\\2019",
+   "ningbo\\2020",
+   "ningbo\\2021",
+   "ningbo\\2022",
+   "ningbo\\2023",
+   "ningbo\\2024",
+   "ningbo\\2025",
+   "ningbo\\2026",
+   "ningbo\\2026\\assets",
+   "tanker\\2015",
+   "tanker\\2016",
+   "tanker\\2017",
+   "tanker\\2018",
+   "tanker\\2019",
+   "tanker\\2020",
+   "tanker\\2021",
+   "tanker\\2022",
+   "tanker\\2023",
+   "tanker\\2024",
+   "tanker\\2025",
+   "tanker\\2026",
+   "tanker\\2026\\assets"
+  ],
+  "extracted": {
+   "": 16
+  },
+  "feed_matches": [
+   "intermodal_baltic_tc_series.csv"
+  ],
+  "app_matches": []
+ },
+ {
+  "group": "09-ppa",
+  "files": {
+   "pdf": 493
+  },
+  "total": 493,
+  "subdirs": [
+   "_root_pdfs",
+   "ppa_pdf"
+  ],
+  "extracted": {
+   "": 263
+  },
+  "feed_matches": [
+   "australia_ppa_iron_ore.csv",
+   "scrappage_prices.csv"
+  ],
+  "app_matches": [
+   "data/commodities/australia_ppa_iron_ore.csv",
+   "data/derived/scrappage_prices.csv"
+  ]
+ },
+ {
+  "group": "archive",
+  "files": {
+   "md": 1,
+   "pdf": 724
+  },
+  "total": 725,
+  "subdirs": [
+   "_digests\\gibson\\2026",
+   "allied\\2021",
+   "allied\\2022",
+   "allied\\2023",
+   "allied\\2024",
+   "anchor\\2021",
+   "anchor\\2022",
+   "gibson\\2021",
+   "gibson\\2022",
+   "gibson\\2023",
+   "golden_destiny\\2021",
+   "golden_destiny\\2022",
+   "golden_destiny\\2023",
+   "golden_destiny\\2024",
+   "other\\2018",
+   "other\\2021",
+   "other\\2022",
+   "other\\2023"
+  ],
+  "extracted": {},
+  "feed_matches": [],
+  "app_matches": []
+ },
+ {
+  "group": "books",
+  "files": {
+   "pdf": 12
+  },
+  "total": 12,
+  "subdirs": [
+   "."
+  ],
+  "extracted": {
+   "": 3
+  },
+  "feed_matches": [],
+  "app_matches": []
+ }
+]

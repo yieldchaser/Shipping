@@ -1,0 +1,41 @@
+sources discovered: 15
+  advanced_shipping: 100/249  flagged=0
+  advanced_shipping: 200/249  flagged=0
+advanced_shipping    docs=249   pages=2456   flagged=0      (0.0%)
+  affinity: 100/250  flagged=7
+  affinity: 200/250  flagged=7
+affinity             docs=250   pages=334    flagged=7      (2.1%)
+  agora: 100/213  flagged=5
+  agora: 200/213  flagged=5
+agora                docs=213   pages=1071   flagged=5      (0.5%)
+  banchero_costa: 100/243  flagged=53
+  banchero_costa: 200/243  flagged=417
+banchero_costa       docs=243   pages=3753   flagged=662    (17.6%)
+bancosta             docs=1     pages=18     flagged=0      (0.0%)
+  carriers: 100/129  flagged=0
+carriers             docs=129   pages=386    flagged=0      (0.0%)
+clarksons            docs=10    pages=35     flagged=0      (0.0%)
+  fearnleys: 100/257  flagged=4
+  fearnleys: 200/257  flagged=4
+fearnleys            docs=257   pages=6052   flagged=4      (0.1%)
+general_broker       docs=1     pages=3      flagged=0      (0.0%)
+  intermodal: 100/252  flagged=17
+  intermodal: 200/252  flagged=25
+intermodal           docs=252   pages=2002   flagged=25     (1.2%)
+  ism: 100/112  flagged=0
+ism                  docs=112   pages=266    flagged=0      (0.0%)
+lion                 docs=44    pages=148    flagged=0      (0.0%)
+  ssy: 100/519  flagged=0
+  ssy: 200/519  flagged=0
+  ssy: 300/519  flagged=0
+  ssy: 400/519  flagged=0
+  ssy: 500/519  flagged=0
+ssy                  docs=519   pages=519    flagged=0      (0.0%)
+  star_asia: 100/193  flagged=23
+star_asia            docs=193   pages=3421   flagged=24     (0.7%)
+  xclusiv: 100/266  flagged=4
+  xclusiv: 200/266  flagged=4
+xclusiv              docs=266   pages=2123   flagged=4      (0.2%)
+
+written -> C:\Users\Dell\Github\Shipping\data\derived\paid_surface_by_source.json
+TOTAL across measured sources: 731/22587 pages flagged (3.2%)

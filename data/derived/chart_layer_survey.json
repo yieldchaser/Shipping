@@ -1,0 +1,62 @@
+{
+ "ssy": {
+  "pages_sampled": 5,
+  "chartish_pages": 5,
+  "pct": 100.0,
+  "max_axis_text_on_a_page": 57,
+  "max_axis_doc": "ssy_2021_A20210705.pdf p1",
+  "max_plot_shapes": 127,
+  "max_plot_page": "ssy_2026_nan_20260814-Pacific-Cape p0 (plot=127 img=1 axis=45)",
+  "verdict": "CHARTS PRESENT"
+ },
+ "carriers": {
+  "pages_sampled": 15,
+  "chartish_pages": 15,
+  "pct": 100.0,
+  "max_axis_text_on_a_page": 98,
+  "max_axis_doc": "carriers_2021_19-Nov-2021.pdf p3",
+  "max_plot_shapes": 493,
+  "max_plot_page": "carriers_2026_W32_WK-32-26-CARRIER p1 (plot=493 img=0 axis=39)",
+  "verdict": "CHARTS PRESENT"
+ },
+ "intermodal": {
+  "pages_sampled": 40,
+  "chartish_pages": 32,
+  "pct": 80.0,
+  "max_axis_text_on_a_page": 232,
+  "max_axis_doc": "intermodal_2021_W26_Intermodal-Report-Week-2 p8",
+  "max_plot_shapes": 115,
+  "max_plot_page": "intermodal_2021_W26_Intermodal-Rep p1 (plot=115 img=5 axis=232)",
+  "verdict": "CHARTS PRESENT"
+ },
+ "banchero_costa": {
+  "pages_sampled": 77,
+  "chartish_pages": 55,
+  "pct": 71.4,
+  "max_axis_text_on_a_page": 170,
+  "max_axis_doc": "banchero_costa_2022_W41_Bancosta-Weekly-2022 p16",
+  "max_plot_shapes": 273,
+  "max_plot_page": "banchero_costa_2026_W32_Bancosta-W p14 (plot=273 img=1 axis=166)",
+  "verdict": "CHARTS PRESENT"
+ },
+ "lion": {
+  "pages_sampled": 32,
+  "chartish_pages": 17,
+  "pct": 53.1,
+  "max_axis_text_on_a_page": 74,
+  "max_axis_doc": "lion_2024_W31_Market-report-Week-31.pdf p20",
+  "max_plot_shapes": 56,
+  "max_plot_page": "lion_2025_W49_Lion-Weekly-Report-0 p0 (plot=56 img=1 axis=7)",
+  "verdict": "CHARTS PRESENT"
+ },
+ "clarksons": {
+  "pages_sampled": 18,
+  "chartish_pages": 17,
+  "pct": 94.4,
+  "max_axis_text_on_a_page": 17,
+  "max_axis_doc": "clarksons_2026_Weekly-Sales-14th-Aug-2026.pd p4",
+  "max_plot_shapes": 165,
+  "max_plot_page": "clarksons_2026_Weekly-Sales-14th-A p2 (plot=165 img=5 axis=17)",
+  "verdict": "CHARTS PRESENT"
+ }
+}
