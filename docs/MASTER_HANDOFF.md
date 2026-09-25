@@ -39,6 +39,51 @@ Written for: **a different agent harness (Google Antigravity)** picking this up 
 Build a deep, interconnected maritime knowledge base. Phase order is
 **(1) data extraction → (2) depth of knowledge → (3) interconnectivity.**
 
+**The user is emphatic that phase 1 is EXTRACTION ONLY and that depth comes LATER, gated
+by him.** Do not start building the knowledge graph, embeddings, or prose synthesis
+while extraction is still open on a source. An earlier attempt to jump to depth is why
+the current plan is source-by-source and measured.
+
+### The ultimate structure — what this is becoming
+
+```
+corpus/                       PDFs + HTML, the GROUND TRUTH. Never edited.
+  01-brokers/                 the shipbroker weeklies — the active programme
+  02..09, 11, archive, books  the rest; 9 of 10 groups already held, see §3
+  _MANIFEST.json              group / publisher / cadence / liveness rule
+
+        │  extraction (this programme, per-source, bespoke)
+        ▼
+data/extracted/
+  md/<source>/                prose + *.tables.json + *.charts.json  (faithful, per doc)
+  charts/<source>/            vector chart series, calibrated from the printed axis
+  llamaparse_<source>/        cloud outputs + _run_state.json (resumable)
+  series/<source>_*.csv       THE TIME SERIES — the stacking product, see §9a
+  │                           (*.parquet where a source stores tables that way)
+  ▼
+data/                         the LIVE product the dashboard already renders
+  indices/ flows/ etf/ futures/ commodities/ bunkers/ views/ derived/
+  │                           339 feed CSVs, 131 files the app actually fetches
+  ▼
+knowledge/                    the KB tier — PHASE 2, NOT STARTED, user-gated
+  docs/  chunks/  manifests/  1,081 + 35 files exist, written by ANOTHER agent branch
+  │                           (agent/antigravity LightRAG layer). Not this programme.
+  ▼
+graph / spine / multi-hop     PHASE 3, the other agent's "Decision 3/4" work
+```
+
+**Three things to understand about that picture:**
+1. **`corpus/` is ground truth and `data/extracted/` is derived.** A PDF is never
+   overwritten; extraction writes beside it. If a value is ever wrong, the PDF settles it.
+2. **The dashboard is not the goal, it is the current product.** `data/` is already
+   live at `yieldchaser.github.io/Shipping/` and being pushed to by scheduled GitHub
+   Actions. Extraction adds to what the app can show; it does not replace the app.
+3. **The KB tier is a separate programme on a separate branch.** Do not merge
+   `knowledge/` work into extraction commits, and do not let an extraction commit
+   depend on it.
+
+### What "properly extracted" means, per source
+
 A broker source counts as **properly extracted** only when all of these hold:
 
 - **Text** — faithful prose, complete, nothing dropped.
@@ -376,9 +421,42 @@ been wrong for 10 pages.** Score every page on its own.
 
 ## 7. LlamaParse usage policy
 
-**Default: do NOT use the cloud.** Local pymupdf/liteparse is free and sufficient for
-clean PDFs. Escalate a page only when a local check proves the text layer is unreadable:
+**Default: do NOT use the cloud.** Local extraction is free and sufficient for clean
+PDFs. Escalate a page only when a local check proves the text layer is unreadable:
 glyph-ciphered table text, or a vector chart whose series we need and cannot geometry-fit.
+
+### The LOCAL engine ladder, and the flags that decide whether it is cheap
+
+The most expensive discovery in the whole extraction work was a **default**, not a
+missing package. `liteparse` is the fast local path, and out of the box it is ~20x
+slower than it needs to be on this corpus.
+
+| flag | default | measured effect | use |
+|---|---|---|---|
+| `ocr_enabled` | **ON** | **43 of every 45 seconds** per doc spent attempting OCR that this corpus does not need. **0 of 312 sampled pages across 7 sources genuinely required it.** | **set `False` ALWAYS** |
+| `extract_blocks` | — | **~4s per PAGE** (40s for a 10-page file) against the library's own claim of 2-5ms/page. Only needed for typed table cells, which another tool supplies. | **`False` on the hot path** |
+| `output_format` | unset | `get_page(i).markdown` returns **EMPTY** without it, producing a 319-byte "successful" file. | **always explicit** |
+
+**Measured result of `ocr_enabled=False`:** 45s → **2.2s per document**, byte-identical
+output. The full advanced_shipping run went from **~3 hours to 8.2 minutes.**
+**Set these flags on EVERY publisher, every time — they are not saved in a config the
+tool reads, they are call arguments.**
+
+Do not guess which knob is hot: time each phase separately. Two separate wrong
+suspicions (chart extraction, then blocks) came before the flag was found.
+
+**Engine ladder for this corpus (digitally-born, CPU-only):**
+PyMuPDF for text (strongest single extractor, 100% cell recall on 3 of 5 golden pages) ·
+**pdf-inspector** for typed table cells (best measured: kept the index column and row
+labels liteparse dropped) · **liteparse** for fast markdown with the flags above ·
+**camelot `flavor="stream"`** for schema (87-100% on text-layer tables) · **pdfplumber**
+as union partner · **Tabula** needs a JRE on PATH and silently returns nothing without it ·
+**Docling is audit-only** — best recall but ~1900 s/doc on CPU, never bulk.
+
+**The accuracy lever:** tables give **schema**, the text layer gives **recall**. Extract
+both, then reconcile: for every table cell containing a digit, check whether that value
+exists in the page text. Store a `text_verified` ratio per table. On one broker page that
+check recovered **65 values the grid had silently dropped.**
 
 | tier | cr/page | use |
 |---|---|---|
@@ -413,34 +491,31 @@ git push origin benchmark/extraction-comparison
 **Do NOT merge it to main yet.** It carries 148 commits and 40,313 corpus files. That
 is a review decision, not an extraction decision, and the user has not made it.
 
-**CONCURRENT WORKSTREAMS — three other agents are working in this repo right now.**
-This is the most important thing this handoff adds that the earlier draft missed. Measured
-2026-09-25, all live on origin, all ahead of main:
+**CONCURRENT BRANCHES ON ORIGIN — mostly DISCARDED earlier work. The user's own
+judgement, not an inference from commit messages.** The user has stated that the
+**Muse, Claude, and the earlier Antigravity branches are earlier work that has been
+discarded.** Treat them as dead unless he says otherwise. They are recorded here only so
+nobody mistakes them for live work or re-does what was already thrown away.
 
-| branch | commits | files vs main | what it appears to be doing |
+| branch | commits | files vs main | status |
 |---|---|---|---|
-| `agent/antigravity` | 6 | 9,887 | **the agent the user is about to work with.** LightRAG knowledge-graph layer, relational spine, multi-hop query engine, "Decision 3/4" handover specs |
-| `agent/muse-spark` | 28 | 9,896 | a second agent workstream |
-| `claude/maritime-kb-inventory-hzbhlx` | 28 | 9,876 | a Claude inventory workstream |
-| `claude/investigate-failed-runs-31vpb` | 1 | 65,703 | carries a full corpus tree |
-| `session/agent_4987ef96-...`, `session/agent_704f43e2-...` | 12 / 11 | 65,698 / 65,697 | session branches, also corpus trees |
-| `auto/extract-fixes-2026-09-21` | 12 | 337 | extraction fixes |
-| `auto/extract-fixes-2026-09-22` | 35 | 442 | extraction fixes |
+| `agent/antigravity` | 6 | 9,887 | **discarded per the user** (a newer Antigravity workstream is starting) |
+| `agent/muse-spark` | 28 | 9,896 | **discarded per the user** |
+| `claude/maritime-kb-inventory-hzbhlx` | 28 | 9,876 | **discarded per the user** |
+| `claude/investigate-failed-runs-31vpb` | 1 | 65,703 | superseded |
+| `session/agent_4987ef96-...`, `session/agent_704f43e2-...` | 12 / 11 | ~65,698 | session branches, not workstreams |
+| `auto/extract-fixes-2026-09-21` / `-09-22` | 12 / 35 | 337 / 442 | earlier auto-fix passes |
 
-**Measured overlap with my work: 56 files, and NONE of them are the extraction
-pipelines.** `run_ssy_charts.py`, `run_intermodal_charts.py`, `merge_ssy_charts.py` and
-`audit_chart_legends.py` do not appear on any other branch. The overlap is shared
-infrastructure and generated data:
-`docs/EXTRACTION_OVERNIGHT_LOG.md` · `docs/EXTRACTION_RUNBOOK.md` ·
-`docs/alibra_data/**` (11 generated CSVs + logs) · `docs/data/flows/all_flows_summary.json`
-· `scripts/analysis/*` (cascade_extractor_dry_run, fingerprint_reports, golden_matrix,
-grid_vs_text_audit, vlm_audit) · `scripts/baltic_scraper.py` ·
-`scripts/breakwave_insights_scraper.py` · `scripts/cargo/build_commodity_flow_matrix.py` ·
-`scripts/check_data_spike_health.py` · `scripts/experiments/audit_all_unrendered_data.py`.
+**Do NOT read these as a competing source of truth, do NOT merge them, and do NOT try to
+reconcile against them.** If a discarded branch is the only place some code exists, that
+code is gone for a reason — ask the user, do not resurrect it.
 
-**Implication: the extraction work is safe to continue in parallel, but `docs/` and
-`scripts/analysis/` are contested ground. Expect merge conflicts there. Do not assume a
-conflict means data loss — check which side is right before resolving.**
+The one thing worth keeping from the measurement: **this branch's extraction pipelines
+appear on NO other branch** — `run_ssy_charts.py`, `run_intermodal_charts.py`,
+`merge_ssy_charts.py`, `audit_chart_legends.py`. The 56 overlapping files were shared
+infrastructure and generated data (`docs/EXTRACTION_RUNBOOK.md`, `docs/alibra_data/**`,
+`scripts/analysis/*`, five loose scrapers). So there is no extraction work to lose to
+them.
 
 **FOUR CRON JOBS ARE RUNNING AGAINST THIS REPO — all currently FAILING.** This is the
 single most important operational fact and it was absent from the earlier draft.
@@ -554,10 +629,11 @@ is the template to copy.
     `12f7fa574166` (30m), all `deepseek-v4.1-flash` via `opencode-go`, all
     `RuntimeError: HTTP 429: Go usage limit exceeded`. They have been firing and failing
     instead of extracting. This is the answer to "I don't see anything running."
-13. **Seven concurrent agent branches on origin** — see section 8. `agent/antigravity`,
-    `agent/muse-spark`, `claude/maritime-kb-inventory-hzbhlx` and four others are all
-    ahead of main. 56 files overlap with this branch, none of them extraction pipelines.
-    The 1,170 dirty files are another workstream's output, not unfinished work of mine.
+13. **Six older agent branches on origin, DISCARDED per the user** — see section 8.
+    `agent/antigravity`, `agent/muse-spark`, `claude/maritime-kb-inventory-hzbhlx` and
+    three others. Treat as dead; do not merge, do not reconcile, do not resurrect code
+    that only exists there. The 1,170 dirty files in the working tree are output from
+    that discarded workstream, not unfinished extraction work of mine.
 
 ---
 
@@ -582,6 +658,10 @@ is the template to copy.
 - **Number format is a per-publisher hazard and a silent 1000x error.** advanced_shipping
   writes `60.000` = sixty thousand AND `34,5` = 34.5 in the same document. Reading
   `60.000` as `60.0` is plausible-looking and no automated check catches it.
+- **A library default can cost 20x.** liteparse's `ocr_enabled` defaults to ON and spent
+  43 of every 45 seconds per document on OCR that 0 of 312 sampled pages needed. Setting
+  it False took a ~3-hour run to 8.2 minutes with byte-identical output. **Set the flags
+  explicitly on every publisher; they are call arguments, not saved config.**
 - **The chart's last point and the table's current value are different quantities.** The
   axis runs to the report's month-end, so the final plotted point precedes the report
   date. The gap is one-signed. Do not gate on it, do not let either overwrite the other.
