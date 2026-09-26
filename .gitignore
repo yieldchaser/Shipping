@@ -66,6 +66,8 @@ data/extracted/
 scripts/drewry_ais_pdfs/
 reports/shipbrokers/**/*.pdf
 reports/poten/**/*.pdf
+corpus/**/*.pdf
+corpus/01-brokers/fearnleys-md/images/
 # Temporary scraper / API citation caches
 **/.cache_*
 data/.cache_citations/
